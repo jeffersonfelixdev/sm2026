@@ -589,6 +589,17 @@ img { display: block; }
 .qual__legend i[data-cut='direct'] { background: var(--accent); }
 .qual__legend i[data-cut='playoff'] { background: var(--gold); }
 
+/* Artilharia */
+.scorers-panel { max-width: 720px; }
+.scorers__confs { margin-bottom: 18px; }
+.scorers .scorers__player { text-align: left; font-weight: 600; }
+.scorers .scorers__goals {
+  text-align: right;
+  width: 3.5rem;
+  color: var(--gold);
+}
+.scorers th:last-child { text-align: right; }
+
 /* Tabelas de classificação */
 .tables {
   display: grid;

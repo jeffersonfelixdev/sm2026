@@ -31,6 +31,8 @@ export async function qualifiersScreen({ state, go }) {
   let round = null; // a rodada recém-jogada, quando o jogador acaba de avançar
   let tab = 'mine';
   let world = null; // carregado sob demanda, na primeira vez que a aba "Pelo mundo" abre
+  let scorersConf = null; // confederação selecionada na aba Artilharia
+  const scorersCache = {}; // conf → lista de artilheiros
 
   /* ---------------------------------------------------------------- helpers */
 
@@ -235,10 +237,53 @@ export async function qualifiersScreen({ state, go }) {
       <div class="qualified">${rows}</div>`;
   }
 
+  const CONFEDS = ['CONMEBOL', 'CONCACAF', 'UEFA', 'AFC', 'CAF', 'OFC'];
+
+  function scorersTable(list) {
+    if (!list?.length) {
+      return '<p class="qual__note">Ainda não há gols registrados nesta confederação.</p>';
+    }
+    const rows = list.map((r) => `
+      <tr${r.team_code === state.country ? ' data-mine' : ''}>
+        <td class="tt__pos">${r.position}</td>
+        <td class="tt__team">${flag(r.team_code)}<span>${esc(name(r.team_code))}</span></td>
+        <td class="scorers__player">${esc(r.player_name)}</td>
+        <td class="scorers__goals"><b>${r.goals}</b></td>
+      </tr>`).join('');
+    return `
+      <table class="tt scorers">
+        <thead>
+          <tr><th>#</th><th>Seleção</th><th>Jogador</th><th>Gols</th></tr>
+        </thead>
+        <tbody>${rows}</tbody>
+      </table>`;
+  }
+
+  function scorersPanel() {
+    const conf = scorersConf ?? data.career.confederation;
+    const chips = CONFEDS.map((c) => `
+      <button type="button" class="chip${c === conf ? ' is-on' : ''}" data-scorers-conf="${c}">
+        ${esc(c)}
+      </button>`).join('');
+
+    const list = scorersCache[conf];
+    const body = list === undefined
+      ? '<p class="loading">Carregando artilharia…</p>'
+      : scorersTable(list);
+
+    return `
+      <div class="scorers-panel">
+        <p class="qual__note">Artilharia das Eliminatórias · ${esc(conf)}</p>
+        <div class="chips scorers__confs">${chips}</div>
+        ${body}
+      </div>`;
+  }
+
   const PANELS = {
     mine: { label: 'Minha chave', render: minePanel },
     stage: { label: 'A fase', render: stagePanel },
     world: { label: 'Pelo mundo', render: worldPanel },
+    scorers: { label: 'Artilharia', render: scorersPanel },
     qualified: { label: 'Classificados', render: qualifiedPanel },
   };
 
@@ -255,11 +300,60 @@ export async function qualifiersScreen({ state, go }) {
           panel.innerHTML = PANELS.world.render();
           world = await api.world(state.careerId);
         }
+        if (key === 'scorers') {
+          scorersConf ??= data.career.confederation;
+          if (data.scorers && scorersCache[scorersConf] === undefined
+              && scorersConf === data.career.confederation) {
+            scorersCache[scorersConf] = data.scorers;
+          }
+          renderTabs();
+          panel.innerHTML = PANELS.scorers.render();
+          bindScorersConfs();
+          if (scorersCache[scorersConf] === undefined) {
+            try {
+              const res = await api.scorers(state.careerId, { confederation: scorersConf });
+              scorersCache[scorersConf] = res.scorers;
+            } catch (err) {
+              toast(err.message);
+              scorersCache[scorersConf] = [];
+            }
+            if (tab === 'scorers') {
+              panel.innerHTML = PANELS.scorers.render();
+              bindScorersConfs();
+            }
+          }
+          return;
+        }
         renderTabs();
         panel.innerHTML = PANELS[tab].render();
       });
       tabs.append(chip);
     }
+  }
+
+  function bindScorersConfs() {
+    panel.querySelectorAll('[data-scorers-conf]').forEach((btn) => {
+      btn.addEventListener('click', async () => {
+        const conf = btn.dataset.scorersConf;
+        if (conf === scorersConf) return;
+        scorersConf = conf;
+        panel.innerHTML = PANELS.scorers.render();
+        bindScorersConfs();
+        if (scorersCache[conf] === undefined) {
+          try {
+            const res = await api.scorers(state.careerId, { confederation: conf });
+            scorersCache[conf] = res.scorers;
+          } catch (err) {
+            toast(err.message);
+            scorersCache[conf] = [];
+          }
+          if (tab === 'scorers' && scorersConf === conf) {
+            panel.innerHTML = PANELS.scorers.render();
+            bindScorersConfs();
+          }
+        }
+      });
+    });
   }
 
   function renderHeader() {
@@ -360,6 +454,9 @@ export async function qualifiersScreen({ state, go }) {
       round = wholeThing ? null : result.round;
       data = result;
       world = null; // o mundo mudou junto: recarrega na próxima visita à aba
+      for (const k of Object.keys(scorersCache)) delete scorersCache[k];
+      scorersConf = null;
+      if (data.scorers) scorersCache[data.career.confederation] = data.scorers;
       tab = 'mine';
       renderAll();
       window.scrollTo({ top: 0, behavior: 'smooth' }); // a barra fixa cobriria o título
@@ -374,6 +471,7 @@ export async function qualifiersScreen({ state, go }) {
   try {
     await api.startQualifiers(state.careerId);
     data = await api.qualifiers(state.careerId);
+    if (data.scorers) scorersCache[data.career.confederation] = data.scorers;
   } catch (err) {
     panel.innerHTML = '';
     toast(err.message);

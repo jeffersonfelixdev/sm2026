@@ -53,6 +53,7 @@ export async function worldCupScreen({ state, go }) {
           <button type="button" data-tab="groups" class="${tab === 'groups' ? 'is-on' : ''}">Grupos</button>
           <button type="button" data-tab="knockout" class="${tab === 'knockout' ? 'is-on' : ''}">Mata-mata</button>
           <button type="button" data-tab="fixtures" class="${tab === 'fixtures' ? 'is-on' : ''}">Jogos do dia</button>
+          <button type="button" data-tab="scorers" class="${tab === 'scorers' ? 'is-on' : ''}">Artilharia</button>
         </nav>
 
         <div data-panel></div>
@@ -87,6 +88,7 @@ export async function worldCupScreen({ state, go }) {
     const panel = el.querySelector('[data-panel]');
     if (tab === 'groups') panel.replaceChildren(renderGroups());
     else if (tab === 'knockout') panel.replaceChildren(renderKnockout());
+    else if (tab === 'scorers') panel.replaceChildren(renderScorers());
     else panel.replaceChildren(renderFixtures());
   }
 
@@ -250,11 +252,36 @@ export async function worldCupScreen({ state, go }) {
           <span class="match__team match__team--home">${esc(name(m.home))}${flag(m.home)}</span>
           <span class="match__score${!m.played ? ' match__score--todo' : ''}">${score}</span>
           <span class="match__team">${flag(m.away)}${esc(name(m.away))}</span>
-          ${m.group ? `<span class="match__group">Grp ${esc(m.group)}</span>` : ''}
+          ${m.group ? `<span class="match__group">Grupo ${esc(m.group)}</span>` : ''}
         </div>
       `));
     }
     return box;
+  }
+
+  function renderScorers() {
+    const list = data.scorers ?? [];
+    if (!list.length) {
+      return html('<p class="qual__note">Ainda não há gols registrados na Copa.</p>');
+    }
+    const rows = list.map((r) => `
+      <tr${r.team_code === state.country ? ' data-mine' : ''}>
+        <td class="tt__pos">${r.position}</td>
+        <td class="tt__team">${flag(r.team_code)}<span>${esc(name(r.team_code))}</span></td>
+        <td class="scorers__player">${esc(r.player_name)}</td>
+        <td class="scorers__goals"><b>${r.goals}</b></td>
+      </tr>`).join('');
+    return html(`
+      <div class="scorers-panel">
+        <p class="qual__note">Artilharia da Copa do Mundo · do primeiro jogo à final</p>
+        <table class="tt scorers">
+          <thead>
+            <tr><th>#</th><th>Seleção</th><th>Jogador</th><th>Gols</th></tr>
+          </thead>
+          <tbody>${rows}</tbody>
+        </table>
+      </div>
+    `);
   }
 
   try {

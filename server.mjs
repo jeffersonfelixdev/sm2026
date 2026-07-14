@@ -27,6 +27,7 @@ import {
   generateCupFinalSummary, generateCupPhaseSummary, generateCupRoundSummary,
   generateMatchSummary,
 } from './lib/summary.mjs';
+import { scorersForConfederation, worldCupScorers } from './lib/scorers.mjs';
 import { SQUAD_RULES } from './lib/squad.mjs';
 
 loadProjectEnv();
@@ -318,6 +319,24 @@ const routes = [
     const careerId = Number(id);
     requireCareer(careerId);
     return worldState(db, careerId);
+  }],
+
+  ['GET', /^\/api\/careers\/(\d+)\/scorers$/, ([id], _body, url) => {
+    const careerId = Number(id);
+    requireCareer(careerId);
+    const scope = url.searchParams.get('scope');
+    if (scope === 'worldcup') {
+      return { scope: 'worldcup', scorers: worldCupScorers(db, careerId) };
+    }
+    const confederation = url.searchParams.get('confederation');
+    if (!confederation) {
+      throw new HttpError(400, 'Informe confederation ou scope=worldcup');
+    }
+    return {
+      scope: 'qualifiers',
+      confederation,
+      scorers: scorersForConfederation(db, careerId, confederation),
+    };
   }],
 
   /* --- Copa do Mundo --------------------------------------------- */

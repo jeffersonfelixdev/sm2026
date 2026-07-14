@@ -34,6 +34,13 @@ export const api = {
   world: (id) => request(`/api/careers/${id}/world`),
   allCountries: () => request('/api/countries'),
   qualifiers: (id) => request(`/api/careers/${id}/qualifiers`),
+  scorers: (id, { confederation, scope } = {}) => {
+    const q = new URLSearchParams();
+    if (scope) q.set('scope', scope);
+    if (confederation) q.set('confederation', confederation);
+    const qs = q.toString();
+    return request(`/api/careers/${id}/scorers${qs ? `?${qs}` : ''}`);
+  },
 
   sim: (id) => request(`/api/careers/${id}/sim`),
   simCallUp: (id, payload) => post(`/api/careers/${id}/sim/call-up`, payload),
