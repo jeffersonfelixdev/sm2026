@@ -1,8 +1,8 @@
 # SM2026 — Rumo à Copa do Mundo
 
 Simulador de carreira de treinador: você assume **uma das 211 seleções filiadas à FIFA**, disputa
-as **Eliminatórias** da sua confederação e, se passar, joga a **Copa do Mundo de 2026**. Quem se
-classifica sai da simulação — não da vida real.
+as **Eliminatórias** da sua confederação e, se passar, joga a **Copa do Mundo de 2026**. 
+Ou pode ir direto para a Copa do Mundo 2026, e escolher uma das 48 seleções classificadas da vida real.
 
 HTML/CSS/JS puros no navegador, Node + SQLite no servidor, **zero dependências** (usa o
 `node:sqlite`, embutido no Node 22.5+).
@@ -16,7 +16,7 @@ cp .env.example .env
 ```
 
 E adicione sua chave do GPT para geração de crônicas de partida.
- 
+
 ## Rodando
 
 ```bash
