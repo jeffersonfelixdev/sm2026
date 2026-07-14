@@ -293,6 +293,60 @@ const routes = [
     }
   }],
 
+  ['GET', /^\/api\/careers\/(\d+)\/matches\/(\d+)\/lineups$/, ([cid, mid], _body, url) => {
+    const careerId = Number(cid);
+    const matchId = Number(mid);
+    requireCareer(careerId);
+    const match = db.prepare('SELECT * FROM matches WHERE id = ? AND career_id = ?').get(matchId, careerId);
+    if (!match) throw new HttpError(404, 'Partida não encontrada');
+
+    const upToMinute = url.searchParams.get('minute');
+    const evQuery = upToMinute != null
+      ? db.prepare(
+          'SELECT player_id, type FROM match_events WHERE match_id = ? AND player_id IS NOT NULL AND minute <= ?',
+        )
+      : db.prepare(
+          'SELECT player_id, type FROM match_events WHERE match_id = ? AND player_id IS NOT NULL',
+        );
+    const events = upToMinute != null
+      ? evQuery.all(matchId, Number(upToMinute))
+      : evQuery.all(matchId);
+    const stats = {};
+    for (const e of events) {
+      stats[e.player_id] ??= { goals: 0, yellows: 0, reds: 0 };
+      if (e.type === 'goal') stats[e.player_id].goals++;
+      if (e.type === 'yellow') stats[e.player_id].yellows++;
+      if (e.type === 'red') stats[e.player_id].reds++;
+    }
+
+    const loadSide = (code) => {
+      const rows = db.prepare(`
+        SELECT p.id, p.name, p.position, p.overall, p.shirt, l.is_starter, l.position_slot
+        FROM lineups l JOIN players p ON p.id = l.player_id
+        WHERE l.match_id = ? AND l.country_code = ?
+        ORDER BY l.is_starter DESC, CASE p.position WHEN 'GK' THEN 1 WHEN 'DF' THEN 2 WHEN 'MF' THEN 3 ELSE 4 END, p.overall DESC
+      `).all(matchId, code);
+      const country = db.prepare('SELECT name, flag, coach, strength FROM countries WHERE code = ?').get(code);
+      const mapRow = (r) => ({
+        id: r.id, name: r.name, position: r.position, overall: r.overall,
+        shirt: r.shirt ?? null, slot: r.position_slot,
+        goals: stats[r.id]?.goals ?? 0,
+        yellows: stats[r.id]?.yellows ?? 0,
+        reds: stats[r.id]?.reds ?? 0,
+      });
+      return {
+        code,
+        name: country?.name ?? code,
+        flag: country?.flag ?? null,
+        coach: country?.coach ?? null,
+        strength: country?.strength ?? null,
+        starters: rows.filter((r) => r.is_starter).map(mapRow),
+        bench: rows.filter((r) => !r.is_starter).map(mapRow),
+      };
+    };
+    return { home: loadSide(match.home), away: loadSide(match.away) };
+  }],
+
   ['GET', /^\/api\/formations$/, () => ({ formations: Object.keys(FORMATION_SLOTS), slots: FORMATION_SLOTS })],
 
   // Compat: avanço legado (um dia do calendário)

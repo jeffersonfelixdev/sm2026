@@ -59,6 +59,8 @@ export const api = {
   cupSlot: (id, date, kickoff) => post(`/api/careers/${id}/worldcup/sim/slot`, { date, kickoff }),
   cupContinue: (id) => post(`/api/careers/${id}/worldcup/sim/continue`, {}),
   cupSkipToMe: (id) => post(`/api/careers/${id}/worldcup/sim/skip-to-me`, {}),
+  matchLineups: (careerId, matchId, { minute } = {}) =>
+    request(`/api/careers/${careerId}/matches/${matchId}/lineups${minute != null ? `?minute=${minute}` : ''}`),
   matchSummary: (careerId, matchId) =>
     post(`/api/careers/${careerId}/matches/${matchId}/summary`, {}),
   cupRoundSummary: (careerId, matchday) =>

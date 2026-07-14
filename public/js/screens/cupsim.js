@@ -773,13 +773,75 @@ export async function cupSimScreen({ state, go }) {
 
     let filterExtra = false;
 
+    const lineupsOverlay = document.createElement('div');
+    lineupsOverlay.className = 'live__sub';
+    lineupsOverlay.hidden = true;
+
+    function luSideHtml(side) {
+      const flagImg = side.flag
+        ? `<img class="tt__flag" src="/${esc(side.flag)}" alt="" loading="lazy" onerror="this.remove()">`
+        : '';
+      const badges = (p) => {
+        let b = '';
+        if (p.goals) b += `<span class="lu-row__badge lu-row__badge--goal">${'⚽'.repeat(p.goals)}</span>`;
+        if (p.reds) b += '<span class="match__card match__card--red"></span>';
+        else if (p.yellows) b += '<span class="match__card match__card--yellow"></span>'.repeat(p.yellows);
+        return b;
+      };
+      const row = (p) =>
+        `<li class="lu-row"><span class="lu-row__num">${p.shirt ?? ''}</span><span class="lu-row__pos" data-pos="${p.position}">${esc(p.position)}</span><span class="lu-row__name">${esc(p.name)}${badges(p)}</span><span class="lu-row__ov" data-tier="${overallTier(p.overall)}">${p.overall}</span></li>`;
+      return `
+        <div class="lu-side">
+          <h3 class="qual__h3">${flagImg} ${esc(side.name)} <small>força ${side.strength ?? '?'}</small></h3>
+          ${side.coach ? `<p class="qual__note">Técnico: ${esc(side.coach)}</p>` : ''}
+          <ul class="lu-list">${side.starters.map(row).join('')}</ul>
+          <h4 class="lu-label">Reservas</h4>
+          <ul class="lu-list lu-list--bench">${side.bench.map(row).join('')}</ul>
+        </div>`;
+    }
+
+    async function openLineupsDialog(matchId) {
+      paused = true;
+      pauseBtn.textContent = 'Retomar';
+      lineupsOverlay.hidden = false;
+      lineupsOverlay.innerHTML = `<div class="sub-modal sub-modal--wide"><p class="loading">Carregando escalações…</p></div>`;
+      document.body.append(lineupsOverlay);
+      try {
+        const data = await api.matchLineups(state.careerId, matchId, { minute: currentMinute });
+        lineupsOverlay.innerHTML = `
+          <div class="sub-modal sub-modal--wide">
+            <div class="sub-pick">${luSideHtml(data.home)}${luSideHtml(data.away)}</div>
+            <div class="sub-modal__actions">
+              <button class="btn btn--primary" data-close-lineups>Fechar</button>
+            </div>
+          </div>`;
+      } catch (err) {
+        lineupsOverlay.innerHTML = `
+          <div class="sub-modal">
+            <p class="qual__note">${esc(err.message)}</p>
+            <div class="sub-modal__actions">
+              <button class="btn btn--primary" data-close-lineups>Fechar</button>
+            </div>
+          </div>`;
+      }
+      return new Promise((resolve) => {
+        lineupsOverlay.querySelector('[data-close-lineups]').addEventListener('click', () => {
+          lineupsOverlay.hidden = true;
+          try { lineupsOverlay.remove(); } catch { /* */ }
+          paused = false;
+          pauseBtn.textContent = 'Pausar';
+          resolve();
+        });
+      });
+    }
+
     function paintBoard() {
       const shown = filterExtra ? board.filter(needsExtra) : board;
       boardEl.innerHTML = `
         <div class="live__conf">
           <div class="matches live__matches">
             ${shown.map((m) => `
-              <div class="match match--live${m.mine ? ' live__mine' : ''}${m.flash ? ' is-flash' : ''}">
+              <div class="match match--live${m.mine ? ' live__mine' : ''}${m.flash ? ' is-flash' : ''}" data-lineup-match="${m.id}">
                 <div class="match__row">
                   <span class="match__team match__team--home">${teamHome(m.home)}</span>
                   <span class="match__score">${scoreHtml(m)}</span>
@@ -794,6 +856,14 @@ export async function cupSimScreen({ state, go }) {
             `).join('')}
           </div>
         </div>`;
+
+      boardEl.querySelectorAll('[data-lineup-match]').forEach((el) => {
+        el.style.cursor = 'pointer';
+        el.addEventListener('click', (e) => {
+          if (e.target.closest('button')) return;
+          openLineupsDialog(Number(el.dataset.lineupMatch));
+        });
+      });
     }
 
     function playerName(ev) {
