@@ -1,0 +1,2151 @@
+{{Short description|Men's national association football team representing the Czech Republic}}
+{{About|the men's team|the women's team|Czech Republic women's national football team}}
+{{Use dmy dates|date=May 2026}}
+{{Infobox national football team
+| Name                     = Czech Republic
+| Nickname                 = {{lang|cs|Repre}} (The Representatives)
+| Badge                    = Czech Republic national football team logo.svg 
+| Badge_size               = 180px
+| Association              = [[Football Association of the Czech Republic]] (FAČR)
+| Confederation            = [[UEFA]] (Europe)
+| Most caps                = [[Petr Čech]] (124)
+| Top scorer               = [[Jan Koller]] ([[List of international goals scored by Jan Koller|55]])
+| Home Stadium             = ''[[#Stadiums|Various]]''
+| Coach                    = ''Vacant''
+| Captain                  = [[Ladislav Krejčí (footballer, born 1999)|Ladislav Krejčí]]
+| FIFA Trigramme           = CZE
+| FIFA Rank                = {{FIFA World Rankings|CZE}}
+| FIFA max                 = 2
+| FIFA max date            = September 1999; January – May 2000; April – May 2005; January – May 2006
+| FIFA min                 = 67
+| FIFA min date            = March 1994
+| Elo Rank                 = {{World Football Elo Ratings|Czech Republic}}
+| Elo max                  = 1
+| Elo max date             = June 2004, June 2005
+| Elo min                  = 47
+| Elo min date             = 4 September 2017
+| pattern_la1              = _cze26h
+| pattern_b1               = _cze26h
+| pattern_ra1              = _cze26h
+| pattern_sh1              = _cze26h
+| pattern_so1              = _cze26hl
+| leftarm1                 = F6090F
+| body1                    = F6090F
+| rightarm1                = F6090F
+| shorts1                  = 0000EC
+| socks1                   = 000000
+| pattern_la2              = _cze26a
+| pattern_b2               = _cze26a
+| pattern_ra2              = _cze26a
+| pattern_sh2              = _cze26a
+| pattern_so2              = _cze26al
+| leftarm2                 = e9e9e9
+| body2                    = e9e9e9
+| rightarm2                = e9e9e9
+| shorts2                  = FFFFFF
+| socks2                   = FFFFFF
+| First game               = {{fb|HUN|1867}} 2–1 '''{{fb-rt|BOH}}'''<br />([[Budapest]], [[Hungary]]; 5 April 1903)<br />'''as ''Czech Republic'''''<br />{{fb|TUR}} 1–4 {{fb-rt|CZE}}<br />([[Istanbul]], [[Turkey]]; 23 February 1994)
+| Largest win              = {{nowrap|'''{{fb|TCH}}''' 7–0 {{fb-rt|Kingdom of Yugoslavia|name=Kingdom of SCS}}<br />([[Antwerp]], [[Belgium]]; 28 August 1920)<br />'''''as Czech Republic'''''<br />{{fb|CZE}} 8–1 {{fb-rt|AND}}<br />([[Liberec]], [[Czech Republic]]; 4 June 2005)<br />{{fb|CZE}} 7–0 {{fb-rt|SMR|1862}}<br />([[Liberec]], [[Czech Republic]]; 7 October 2006)<br />{{fb|CZE}} 7–0 {{fb-rt|SMR|1862}}<br />([[Uherské Hradiště]], [[Czech Republic]]; 9 September 2009)<br />{{fb|CZE}} 7–0 {{fb-rt|KUW}}<br />([[Olomouc]], [[Czech Republic]]; 11 November 2021)}}
+| Largest loss             = {{fb|HUN|1920}} 8–3 '''{{fb-rt|TCH}}'''<br />([[Budapest]], [[Hungary]]; 19 September 1937)<br />'''''as Czech Republic'''''<br />{{fb|ENG}} 5–0 {{fb-rt|CZE}}<br />([[London]], [[England]]; 22 March 2019)
+| World cup apps           = 10 ''(first in [[1934 FIFA World Cup|1934]] as Czechoslovakia <br /> [[2006 FIFA World Cup|2006]] as Czech Republic)''
+| World cup first          = 
+| World cup best           = As Czechoslovakia: Runners-up ([[1934 FIFA World Cup|1934]], [[1962 FIFA World Cup|1962]]) <br /> As Czech Republic: Group stage ([[2006 FIFA World Cup|2006]], [[2026 FIFA World Cup|2026]])
+| Regional name            = [[UEFA European Championship|European Championship]]
+| Regional cup apps        = 11 ''(first in [[1960 European Nations' Cup|1960]] as Czechoslovakia <br /> [[UEFA Euro 1996|1996]] as Czech Republic)''
+| Regional cup first       = 
+| Regional cup best        = As Czechoslovakia: '''Champions''' ([[UEFA Euro 1976|1976]]) <br /> As Czech Republic: Runners-up ([[UEFA Euro 1996|1996]])
+| Confederations cup apps  = 1
+| Confederations cup first = [[1997 FIFA Confederations Cup|1997]]
+| Confederations cup best  = Third place ([[1997 FIFA Confederations Cup|1997]])
+| medaltemplates =
+{{MedalCompetition|[[FIFA World Cup]]}}
+{{MedalSilver|[[1934 FIFA World Cup|1934 Italy]]|[[1934 FIFA World Cup squads#Czechoslovakia|Team]]}}
+{{MedalSilver|[[1962 FIFA World Cup|1962 Chile]]|[[1962 FIFA World Cup squads#Czechoslovakia|Team]]}}
+{{MedalCompetition|[[UEFA European Championship]]}}
+{{MedalGold|[[UEFA Euro 1976|1976 Yugoslavia]]|[[UEFA Euro 1976 squads#Czechoslovakia|Team]]}}
+{{MedalSilver|[[UEFA Euro 1996|1996 England]]|[[UEFA Euro 1996 squads#Czech Republic|Team]]}}
+{{MedalBronze|[[UEFA Euro 1960|1960 France]]|[[UEFA Euro 1960 squads#Czechoslovakia|Team]]}}
+{{MedalBronze|[[UEFA Euro 1980|1980 Italy]]|[[UEFA Euro 1980 squads#Czechoslovakia|Team]]}}
+{{MedalCompetition| [[Football at the Summer Olympics|Olympic Games]]}}
+{{MedalGold|[[1980 Summer Olympics|1980 Moscow]]|[[Football at the 1980 Summer Olympics|Team]]}}
+{{MedalSilver|[[1964 Summer Olympics|1964 Tokyo]]|[[Football at the 1964 Summer Olympics|Team]]}}
+{{MedalCompetition| [[FIFA Confederations Cup]]}}
+{{MedalBronze|[[1997 FIFA Confederations Cup|1997 Saudi Arabia]]|[[1997 FIFA Confederations Cup squads|Team]]}}
+}}
+The '''Czech Republic national football team''' ({{langx|cs|Česká fotbalová reprezentace}}), recognised by [[FIFA]] as '''Czechia''',<ref>{{Cite web|title=Czechia |url=https://www.fifa.com/fifa-world-ranking/CZE |access-date= |website=[[FIFA]]|archive-date=24 December 2022 |archive-url=https://web.archive.org/web/20221224160824/https://www.fifa.com/fifa-world-ranking/CZE |url-status=live }}</ref> represents the [[Czech Republic]] in men's international [[Association football|football]]. The team is controlled by the [[Football Association of the Czech Republic]] (FAČR). Historically, the team participated in [[FIFA]] and [[UEFA]] competitions as [[Kingdom of Bohemia|Bohemia]] and [[Czechoslovakia]].<ref>{{Cite book|first=Tom|last=Dunmore|url=https://books.google.com/books?id=9j1wbp2t1usC&dq=successor+football+czechoslovakia&pg=PA64 |title=Historical Dictionary of Soccer |date=16 September 2011|publisher=Scarecrow Press|isbn=978-0-8108-7188-5}}</ref><ref>{{Cite web|title=UEFA EURO 2016: How all the teams qualified|url=https://www.uefa.com/uefaeuro/history/news/0253-0d7f910ba98e-bbb7ec4b08a2-1000--uefa-euro-2016-how-all-the-teams-qualified/|website=UEFA|date=17 November 2015|access-date=2 January 2024}}</ref><ref>{{Cite web |date=2021-02-22 |title=UEFA EURO 2020 contenders in focus: Czech Republic |url=https://www.uefa.com/uefaeuro/history/news/0266-11a2e2dcdee1-1407f519e102-1000--uefa-euro-2020-contenders-in-focus-czech-republic/ |access-date=6 January 2024|website=UEFA}}</ref><ref>{{Cite web|title=UEFA EURO 2020 contenders in focus: Slovakia |url=https://www.uefa.com/uefaeuro/history/news/0267-11b4f13230ba-43b1683fa099-1000--uefa-euro-2020-contenders-in-focus-slovakia/|publisher=UEFA|date=3 March 2021|access-date=6 January 2024}}</ref><ref>{{Cite web|title=Who has qualified for UEFA EURO 2024?: UEFA EURO 2024 |url=https://www.uefa.com/euro2024/news/0286-193531eba9a8-763890f6436d-1000--who-has-qualified-for-uefa-euro-2024/|publisher=UEFA|date=28 December 2023|access-date=6 January 2024}}</ref>
+
+Following the [[dissolution of Czechoslovakia]], the first international competition of the Czech Republic was [[UEFA Euro 1996]], where they finished runners-up. They have taken part at every European Championship since. Following the separation, they have featured at two FIFA World Cups, in [[2006 FIFA World Cup|2006]] and [[2026 FIFA World Cup|2026]].
+
+==History==
+{{see also|Czechoslovakia national football team}}
+
+===1990s===
+When Czechoslovakia split into the Czech Republic and [[Slovakia]], the Czech Republic team was formed. They played their first friendly match away to [[Turkey national football team|Turkey]] on 23 February 1994.<ref>{{cite web |title=23. 2. 1994 19:00, Přátelská utkání, Inönü Stadium, Istanbul - Turecko|url=https://www.fotbal.cz/repre/zapasy/zapas/21|publisher=[[Football Association of the Czech Republic]]|language=cs|access-date=1 April 2026}}</ref> The newly formed team played their first home game in [[Ostrava]], against [[Lithuania national football team|Lithuania]], in which they registered their first home win.<ref>{{cite web |last=Kuchař|first=Ondřej|title=Kapitánem už jsem byl, podruhé platit nebudu, vtipkoval Sivok|url=https://sport.aktualne.cz/fotbal/kapitanem-uz-jsem-byl-podruhe-platit-nebudu-vtipkoval-sivok/r~d74547b28a7211e599c80025900fea04/|work=Aktuálně.cz|language=cs|date=14 November 2015|access-date=1 April 2026|publisher=[[Economia]]}}</ref>
+
+Their first competitive match was part of the [[UEFA Euro 1996 qualifying]] campaign, in which they defeated [[Malta national football team|Malta]] 6–1 in Ostrava. During the campaign, the Czech Republic registered six wins, three draws, and a defeat against [[Luxembourg national football team|Luxembourg]], finishing their qualifying Group 5 in first place, ahead of group favourites the [[Netherlands national football team|Netherlands]]. In the final tournament, hosted by England, the Czechs progressed from the group stage, despite a 2–0 opening game defeat to Germany. They progressed to the [[UEFA Euro 1996 Final]], losing 2–1 to Germany at [[Wembley Stadium (1923)|Wembley Stadium]].
+
+The Czechs finished third in the 1998 FIFA World Cup qualifying group, behind [[Spain national football team|Spain]] and [[Serbia and Montenegro national football team|Yugoslavia]], and subsequently missed the tournament.<ref>{{cite web |title=World Cup 1998 qualifications |url=https://www.rsssf.org/tables/98qual.html |website=RSSSF |access-date=2026-06-19 |date=n.d.}}</ref>
+
+===2000s===
+The Czech Republic qualified for [[UEFA Euro 2000|Euro 2000]], winning all of their group games and conceding five goals.<ref>{{cite news|first=Andrew|last=Warshaw|url=https://www.telegraph.co.uk/sport/4746188/Berger-absence-may-be-crucial.html |archive-url=https://ghostarchive.org/archive/20220112/https://www.telegraph.co.uk/sport/4746188/Berger-absence-may-be-crucial.html |archive-date=12 January 2022 |url-access=subscription |url-status=live|title=Berger absence may be crucial|work=The Telegraph|date=9 June 2000|access-date=17 January 2014}}{{cbignore}}</ref> In the finals the team were drawn in Group D, alongside [[France national football team|France]], the [[Netherlands national football team|Netherlands]] and [[Denmark national football team|Denmark]].<ref>{{cite news|url=http://news.bbc.co.uk/2/hi/euro2000/teams/czech_rep/783499.stm|title=Czechs counting on Nedved's ankle|publisher=BBC Sport|date=8 June 2000|access-date=2 January 2013|archive-date=3 February 2019|archive-url=https://web.archive.org/web/20190203030420/http://news.bbc.co.uk/2/hi/euro2000/teams/czech_rep/783499.stm|url-status=live}}</ref> The team lost to the Netherlands after a last-minute penalty<ref name=bbceuro2000>{{cite news|url=http://news.bbc.co.uk/2/hi/euro2000/teams/czech_rep/801500.stm|title=Republic Czech out|publisher=BBC Sport|date=22 June 2000|access-date=31 December 2012|archive-date=13 August 2018|archive-url=https://web.archive.org/web/20180813075415/http://news.bbc.co.uk/2/hi/euro2000/teams/czech_rep/801500.stm|url-status=live}}</ref> and were defeated in second match by France, which eliminated them from advancing to the knockout round. The Czech Republic managed a 2–0 win against Denmark in their final game courtesy of two goals from [[Vladimír Šmicer]].<ref name=bbceuro2000/>
+
+Once again, the Czech Republic failed to qualify for the World Cup, this time finishing second in their 2002 qualification group, behind Denmark, and then being beaten 1–0 in both legs by [[Belgium national football team|Belgium]] in the UEFA play-offs for a place in the finals.<ref>{{cite news |last=Standley |first=James |title=Belgium enter record books |url=https://news.bbc.co.uk/sport2/hi/football/world_cup_2002/1658303.stm |access-date=10 June 2025 |work=[[BBC News]] |date=15 November 2001}}</ref>
+
+A team settled with [[Pavel Nedvěd]], [[Jan Koller]], [[Tomáš Rosický]], [[Milan Baroš]], [[Marek Jankulovski]], [[Tomáš Galásek]] together with the emergence of goalkeeper [[Petr Čech]] were unbeaten in 2002 and 2003, scoring 53 goals in 19 games and qualifying for [[UEFA Euro 2004|Euro 2004]] in the process. The Czech Republic went on a 20-game unbeaten streak, which finally ended in [[Dublin]] on 31 March 2004 in a friendly match against the [[Republic of Ireland national football team|Republic of Ireland]].<ref>{{cite news|url=http://fotbal.idnes.cz/ceskou-serii-bez-prohry-ukoncili-irove-d9a-/fot_reprez.aspx?c=A040331_190521_fot_reprez_min|title=Českou sérii bez prohry ukončili Irové|website=Mladá fronta Dnes|date=31 March 2004|access-date=2 February 2012|language=cs|archive-date=6 June 2013|archive-url=https://web.archive.org/web/20130606214202/http://fotbal.idnes.cz/ceskou-serii-bez-prohry-ukoncili-irove-d9a-/fot_reprez.aspx?c=A040331_190521_fot_reprez_min|url-status=live}}</ref> The Czechs entered the Euro finals in Group D, alongside the Netherlands, Germany and [[Latvia national football team|Latvia]].<ref>{{cite news|url=https://www.telegraph.co.uk/sport/2381047/Czechs-survive-scare-to-win.html |archive-url=https://ghostarchive.org/archive/20220112/https://www.telegraph.co.uk/sport/2381047/Czechs-survive-scare-to-win.html |archive-date=12 January 2022 |url-access=subscription |url-status=live|title=Czechs survive scare to win|work=The Telegraph|date=16 June 2004|access-date=1 January 2013}}{{cbignore}}</ref> The team trailed 2–0 to the Netherlands before winning the game 3–2 and beat Germany in the final group match.<ref>{{cite news|url=https://news.bbc.co.uk/sport2/hi/football/euro_2004/3787551.stm|title=Germany 1–2 Czech Rep|work=BBC Sport|date=23 June 2004|access-date=31 December 2012|archive-date=24 January 2018|archive-url=https://web.archive.org/web/20180124002307/http://news.bbc.co.uk/sport2/hi/football/euro_2004/3787551.stm|url-status=live}}</ref> The Czech Republic beat Denmark in the quarter-final, went into the semi-final against Greece and Tomáš Rosický hit the bar after just two minutes, Jan Koller had shots saved by the Greek goalkeeper and Pavel Nedvěd left the pitch injured in the end of the first half. The first 90 minutes finished goalless and Greece won the game in the last minute of the first half of extra-time with a [[silver goal]].<ref>{{cite news|url=https://news.bbc.co.uk/sport2/hi/football/euro_2004/3844467.stm|title=Greece 1–0 Czech Rep|work=BBC Sport|date=1 July 2004|access-date=1 January 2013|archive-date=15 September 2020|archive-url=https://web.archive.org/web/20200915213217/http://news.bbc.co.uk/sport2/hi/football/euro_2004/3844467.stm|url-status=live}}</ref>
+
+[[File:Closeup Czech Republic versus Ghana at 2006 World Cup.jpg|thumb|Czech Republic (red) vs [[Ghana national football team|Ghana]] (white) at the [[2006 FIFA World Cup|2006 World Cup]]]]
+The Czech Republic achieved their record win during the [[2006 FIFA World Cup qualification (UEFA)|2006 World Cup qualifying]], thrashing [[Andorra national football team|Andorra]] 8–1 in a qualification match in [[Liberec]]. In the same match, Jan Koller became the all-time top scorer for the national team with his 35th international goal.<ref>{{cite news|url=http://fotbal.idnes.cz/zapas-s-andorrou-menil-rekordni-tabulky-fd0-/fot_reprez.aspx?c=A050604_224711_fot_reprez_ber|title=Zápas s Andorrou měnil rekordní tabulky|website=Mladá fronta Dnes|date=5 June 2005|access-date=31 January 2012|language=cs|archive-date=6 June 2013|archive-url=https://web.archive.org/web/20130606211830/http://fotbal.idnes.cz/zapas-s-andorrou-menil-rekordni-tabulky-fd0-/fot_reprez.aspx?c=A050604_224711_fot_reprez_ber|url-status=live}}</ref> At the end of the campaign, after finishing in second place in Group 1 and defeating [[Norway national football team|Norway]] in a playoff, the Czechs qualified for their first [[FIFA World Cup|World Cup]].<ref>{{cite news|url=https://news.bbc.co.uk/sport2/hi/football/internationals/4435458.stm|title=Czech Republic 1–0 Norway|website=BBC Sport|date=16 November 2005|access-date=2 February 2012|archive-date=14 June 2012|archive-url=https://web.archive.org/web/20120614072612/http://news.bbc.co.uk/sport2/hi/football/internationals/4435458.stm|url-status=live}}</ref> The team was boosted prior to the play-off matches by the return of Pavel Nedvěd,<ref>{{cite news|url=http://fotbal.idnes.cz/potvrzeno-v-kadru-pro-baraz-je-i-nedved-dyq-/fot_reprez.aspx?c=A051102_150823_fot_reprez_min|title=Potvrzeno: V kádru pro baráž je i Nedvěd|website=Mladá fronta Dnes|date=2 November 2005|access-date=2 February 2012|language=cs|archive-date=6 June 2013|archive-url=https://web.archive.org/web/20130606205429/http://fotbal.idnes.cz/potvrzeno-v-kadru-pro-baraz-je-i-nedved-dyq-/fot_reprez.aspx?c=A051102_150823_fot_reprez_min|url-status=live}}</ref> who had initially retired from international football after Euro 2004. The squad for the [[2006 FIFA World Cup|2006 World Cup]] in Germany included 18 players from the Euro 2004 team. With the team ranked second in the world,<ref name=ghana2006>{{cite news|url=http://soccernet.espn.go.com/report?id=191943&cc=5739&ver=global|archive-url=https://archive.today/20130124084843/http://soccernet.espn.go.com/report?id=191943&cc=5739&ver=global|url-status=dead|archive-date=24 January 2013|title=Czech Republic 0–2 Ghana|publisher=ESPN|date=17 June 2006|access-date=1 January 2013}}</ref> they started the tournament with a 3–0 win over the [[United States men's national soccer team|United States]]. During the game, however, Jan Koller was forced to leave with a hamstring injury,<ref name=italy2006>{{cite news|url=https://news.bbc.co.uk/sport2/hi/football/world_cup_2006/4853358.stm|title=Czech Republic 0–2 Italy|publisher=BBC Sport|date=22 June 2006|access-date=2 February 2012|archive-date=22 December 2015|archive-url=https://web.archive.org/web/20151222162421/http://news.bbc.co.uk/sport2/hi/football/world_cup_2006/4853358.stm|url-status=live}}</ref> exiting the tournament. In the next game, with Milan Baroš still recovering from injury, the team suffered a 2–0 loss to [[Ghana national football team|Ghana]].<ref name=ghana2006/> Baroš returned for the final game against [[Italy national football team|Italy]], a must-win for a round of 16 appearance. The team were reduced to ten men as [[Jan Polák]] was dismissed before half-time for two bookable offences.<ref name=italy2006/> Italy went on to win 2–0. Pavel Nedvěd, [[Karel Poborský]] and [[Vratislav Lokvenc]] retired from the national team after the tournament.<ref>{{cite web|url=http://www.sport.cz/fotbal/me-2008/clanek/94859-vreprezentaci-zrejme-skoncim-rika-lokvenc.html|title=V reprezentaci zřejmě skončím, říká Lokvenc|website=[[Seznam.cz|Sport.cz]]|date=5 September 2006|access-date=7 May 2014|language=cs|archive-date=30 January 2016|archive-url=https://web.archive.org/web/20160130232757/http://www.sport.cz/fotbal/me-2008/clanek/94859-vreprezentaci-zrejme-skoncim-rika-lokvenc.html|url-status=live}}</ref>
+
+In the [[UEFA Euro 2008 qualifying|qualifying campaign]] for [[UEFA Euro 2008|Euro 2008]], they finished top of their group, above Germany on head-to-head record. The Czech Republic beat co-hosts [[Switzerland national football team|Switzerland]] 1–0 in their opening game of the finals, before being beaten 3–1 by [[Portugal national football team|Portugal]]. This meant the Czechs and Turkey carried identical records going into the final group game. Although the Czechs took a 2–0 lead just past the hour mark and looked set to qualify, Turkey scored three goals in the final 15 minutes of the game to win the game 3–2.<ref>{{cite news|first=Mandeep|last=Sanghera|url=https://news.bbc.co.uk/sport2/hi/football/euro_2008/7363029.stm|title=Turkey 3–2 Czech Republic & Switzerland 2–0 Portugal|publisher=BBC Sport|date=15 June 2008|access-date=2 February 2012|archive-date=5 March 2012|archive-url=https://web.archive.org/web/20120305085429/http://news.bbc.co.uk/sport2/hi/football/euro_2008/7363029.stm|url-status=live}}</ref>
+
+The Czechs entered [[2010 FIFA World Cup qualification|2010 World Cup qualification]], being drawn in [[2010 FIFA World Cup qualification - UEFA Group 3|Group 3]], under the guidance of coach [[Petr Rada]]. They started with a 0–0 away draw against [[Northern Ireland national football team|Northern Ireland]], before losing to [[Poland national football team|Poland]]. A late goal from [[Libor Sionko]] won the next game 1–0 against [[Slovenia national football team|Slovenia]]. This was followed by a win against [[San Marino national football team|San Marino]], and a goalless draw in Slovenia. In their following match, against neighbours [[Slovakia national football team|Slovakia]], a 2–1 defeat at home left Czech Republic in a precarious qualifying position. Manager Petr Rada was dismissed and six players were suspended.<ref>{{cite news|first1=Jaromír|last1=Novák|first2=Miloslav|last2=Novák|url=http://fotbal.idnes.cz/trener-rada-u-reprezentace-skoncil-vykonny-vybor-vyradil-i-sest-hracu-1zm-/fot_reprez.aspx?c=A090402_152132_fot_reprez_mn|title=Trenér Rada u reprezentace skončil, výkonný výbor vyřadil i šest hráčů|website=Mladá fronta Dnes|date=8 April 2009|access-date=2 February 2012|language=cs|archive-date=7 June 2013|archive-url=https://web.archive.org/web/20130607031143/http://fotbal.idnes.cz/trener-rada-u-reprezentace-skoncil-vykonny-vybor-vyradil-i-sest-hracu-1zm-/fot_reprez.aspx?c=A090402_152132_fot_reprez_mn|url-status=live}}</ref> [[Ivan Hašek]] took temporary charge as manager,<ref>{{cite news|first=Jaromír|last=Novák|url=http://fotbal.idnes.cz/fotbalovou-reprezentaci-povede-jako-trener-hasek-radit-mu-bude-bruckner-1oo-/fot_reprez.aspx?c=A090707_164505_fot_reprez_ot|title=Fotbalovou reprezentaci povede jako trenér Hašek, radit mu bude Brückner|website=Mladá fronta Dnes|date=7 July 2009|access-date=2 February 2012|language=cs |archive-date=6 June 2013|archive-url=https://web.archive.org/web/20130606223158/http://fotbal.idnes.cz/fotbalovou-reprezentaci-povede-jako-trener-hasek-radit-mu-bude-bruckner-1oo-/fot_reprez.aspx?c=A090707_164505_fot_reprez_ot|url-status=live}}</ref> gaining four points from his first two matches, as the team drew away to group leaders Slovakia and thrashed San Marino 7–0 in [[Uherské Hradiště]]. They subsequently beat Poland in Prague but followed this result with a goalless draw against Northern Ireland, finishing third in the group and failing to qualify for the World Cup. Hašek announced his immediate resignation.<ref>{{cite news|url=http://fotbal.idnes.cz/v-roli-trenera-narodniho-muzstva-koncim-rekl-hasek-hracum-i-novinarum-1en-/fot_reprez.aspx?c=A091014_200646_fot_reprez_pes|title=V roli trenéra národního mužstva končím, řekl Hašek hráčům i novinářům|website=Mladá fronta Dnes|date=14 October 2009|access-date=2 February 2012|language=cs}}</ref>
+
+===2010s===
+A changed team under [[Michal Bílek]] entered the [[UEFA Euro 2012|Euro 2012]] [[UEFA Euro 2012 qualifying|qualifiers]] and began with a home loss to [[Lithuania national football team|Lithuania]]. But a win at home to [[Scotland national football team|Scotland]] was followed by wins against [[Liechtenstein national football team|Liechtenstein]]. [[Spain men's national football team|Spain]] defeated Czech Republic in between the Liechtenstein games, but the play-off spot was still in their hands. In the next game, a last minute penalty from [[Michal Kadlec]] away to Scotland secured a 2–2 draw.<ref>{{cite news|first=Clive|last=Lindsay|url=https://www.bbc.co.uk/sport/scotland/14757862|title=Scotland 2–2 Czech Republic|publisher=BBC Sport|date=3 September 2011|access-date=2 February 2012|archive-date=12 February 2012|archive-url=https://web.archive.org/web/20120212104315/http://www.bbc.co.uk/sport/0/scotland/14757862|url-status=live}}</ref> Despite Scotland winning their next two games and the Czechs again being defeated by Spain, the team could finish second if they could beat Lithuania away from home in the final game, assuming Spain would beat Scotland at home. Spain won 3–1 and Czech Republic defeated Lithuania 4–1 to seal second spot and a place in the play-offs. Czech Republic were drawn to face [[Montenegro national football team|Montenegro]] in the two-legged play-off. A goal from [[Václav Pilař]] and a last minute second from [[Tomáš Sivok]] helped the Czechs to a 2–0 first leg lead. In the second leg in [[Podgorica]], a late goal from [[Petr Jiráček]] sealed a 1–0 win and the Czechs ran out 3–0 aggregate winners and qualified for Euro 2012.<ref>{{cite news |title=Czechs Beat Montenegro 1-0 |url=https://www.independent.com.mt/articles/2011-11-16/sports-others/Czechs-Beat-Montenegro-1-0-301870 |access-date=10 June 2025 |work=Malta Independent |date=16 November 2011}}</ref>
+
+At the tournament, the Czechs lost their opening game 4–1 to [[Russia national football team|Russia]], with their only goal coming from Václav Pilař. In their second match, against Greece, the Czech Republic went 2–0 up within the first six minutes thanks to goals from Petr Jiráček and a second from Pilař. Following the half-time substitution of captain Tomáš Rosický, Greece scored a second-half goal following a mistake from Czech goalkeeper Petr Čech, although there were no more goals and the Czech Republic recorded their first win of the tournament.<ref>{{cite web |url=http://www.independent.ie/sport/soccer/euro-2012/match-reports/euro-2012-early-czech-blitz-enough-to-secure-victory-3137350.html |title=Euro 2012: Early Czech blitz enough to secure victory |work=Irish Independent |date=12 June 2012 |access-date=13 July 2012 |archive-date=21 June 2012 |archive-url=https://web.archive.org/web/20120621134428/http://www.independent.ie/sport/soccer/euro-2012/match-reports/euro-2012-early-czech-blitz-enough-to-secure-victory-3137350.html |url-status=live }}</ref> Going into their third and final group match, the Czech Republic needed at least a draw against co-hosts Poland to advance to the knockout stage. A second-half strike by Jiráček proved the difference between the teams as the Czechs ran out as 1–0 winners. Due to Greece beating Russia in the other group game, the Czech Republic subsequently finished top of Group A,<ref>{{cite web |url=https://www.bbc.co.uk/sport/0/football/18474355 |title=Euro 2012 highlights: Czech Republic 1–0 Poland |work=BBC Sport |date=16 June 2012 |access-date=13 July 2012 |archive-date=19 June 2012 |archive-url=https://web.archive.org/web/20120619025901/http://www.bbc.co.uk/sport/0/football/18474355 |url-status=dead }}</ref> becoming the first team ever to win a group at the European Championships with a negative [[goal difference]].<ref>{{cite web |first=Bob|last=Bensch|url=http://www.businessweek.com/news/2012-06-16/czech-republic-greece-win-1-0-to-reach-euro-2012-quarterfinals |archive-url=https://archive.today/20131019205227/http://www.businessweek.com/news/2012-06-16/czech-republic-greece-win-1-0-to-reach-euro-2012-quarterfinals |url-status=dead |archive-date=19 October 2013 |title=Czech Republic, Greece First to Reach Euro 2012 Quarterfinals |work=Bloomberg News |date=16 June 2012 |access-date=19 October 2013}}</ref>
+
+Bílek stayed on as coach, despite unrest amongst fans, and was tasked with [[2014 FIFA World Cup qualification (UEFA)|qualifying]] for the [[2014 FIFA World Cup|2014 World Cup]].<ref name="bk1">{{cite web|url=http://www.eurosport.com/football/world-cup/2014/czech-coach-bilek-quits-after-italy-loss_sto3919023/story.shtml |title=Czech coach Bilek quits after Italy loss&nbsp;– World Cup 2014&nbsp;– Football |publisher=Eurosport |date=11 September 2013 |access-date=5 September 2015}}</ref> The Czechs were drawn into [[2014 FIFA World Cup qualification&nbsp;– UEFA Group B|UEFA qualifying Group B]] along with Italy, Denmark, [[Bulgaria national football team|Bulgaria]], [[Armenia national football team|Armenia]] and [[Malta national football team|Malta]]. The campaign started with goalless draws against Denmark and Bulgaria, paired with a narrow win against Malta. The team then lost 0–3 to Denmark at home. The Czechs were then able to beat Armenia and draw with group leaders Italy, but lost to both Armenia and Italy in the rematches.<ref name="bk1" /> Bílek resigned<ref name="bk1" /> after the loss and was replaced with assistant coach [[Josef Pešice]].<ref>{{cite web |url=http://ihned.cz/c1-60721580-misto-bilka-bude-reprezentaci-docasne-trenovat-pesice-nebude-to-sranda-mini-cipro |title=Místo Bílka bude reprezentaci dočasně trénovat Pešice. Nebude to sranda, míní Cipro|website=[[Hospodářské noviny]]|date=13 September 2013|access-date=5 September 2015|language=cs}}</ref>
+
+[[Pavel Vrba]] was appointed as the team's new coach in 2014, ahead of [[UEFA Euro 2016 qualifying|Euro 2016 qualifying]].<ref>{{cite web|url=http://www.radio.cz/en/section/curraffrs/vrba-to-become-national-soccer-coach-after-huge-success-with-plzen|title=Vrba to become national soccer coach after huge success with Plzeň|work=Czech Radio|date=19 November 2013|access-date=2 December 2013|archive-date=3 March 2016|archive-url=https://web.archive.org/web/20160303171535/http://www.radio.cz/en/section/curraffrs/vrba-to-become-national-soccer-coach-after-huge-success-with-plzen|url-status=live}}</ref> The Czech team was drawn into<ref>{{cite web |url=https://www.uefa.com/uefaeuro/history/news/0253-0d7f1e871012-96ed16b6e1bf-1000--netherlands-make-group-a-tough-option/ |title=Netherlands make Group A tough option&nbsp;– UEFA EURO&nbsp;– News|website=UEFA|date=23 February 2014 |access-date=5 September 2015}}</ref> [[UEFA Euro 2016 qualifying Group A|Group A]], along with Netherlands, Turkey, [[Iceland national football team|Iceland]], Latvia and [[Kazakhstan national football team|Kazakhstan]]. The Czech team began with a win, defeating Netherlands, and followed up with victories over Turkey, Kazakhstan and Iceland, leaving them as group leaders with maximum points after four matches. A draw at home against Latvia followed; nonetheless, Czech Republic remained group leaders, and on 6 September 2015, qualified for their sixth European Championship. They only got one point from a draw with [[Croatia national football team|Croatia]], losing to Spain and Turkey. During a friendly match against [[Australia men's national soccer team|Australia]] on 1 June 2018, the Czechs recorded their biggest defeat losing 0–4 in [[Sankt Pölten]], Austria.<ref>{{cite news|first=James|last=Maasdrop|title=Socceroos v Czech Republic: Australia in warm-up clash ahead of FIFA World Cup as it happened |url=http://www.abc.net.au/news/2018-06-01/socceroos-v-czech-republic-live-blog-world-cup-warm-up/9826016 |website=[[ABC News (United States)|ABC News]]|date=1 June 2018}}</ref> That would eventually be eclipsed during their first qualifier for [[UEFA Euro 2020 qualifying|Euro 2020]], as they were beaten 0–5 at [[Wembley Stadium]] by [[England national football team|England]].<ref>{{Cite web |url=https://www.uefa.com/uefaeuro/match/2026027--england-vs-czechia/ |title=History: England-Czechia |access-date=22 March 2019|website=UEFA}}</ref>
+
+On the other hand, they qualified directly for [[UEFA Euro 2020|Euro 2020]], finishing 2nd in [[UEFA Euro 2020 qualifying Group A|Group A during the qualifiers]], with a record of five wins and three defeats in eight games. The team won at home against [[England national football team|England]], the group leader (2–1) and lost all three away matches, against England (0–5), [[Kosovo national football team|Kosovo]] (1–2) and [[Bulgaria national football team|Bulgaria]] (0–1).
+
+===2020s===
+On 18 November 2020, the Czech Republic, then placed in [[2020–21 UEFA Nations League B#Group 2|Group 2 of League B in the 2020–2021 edition of the Nations League]], obtained promotion to League A for the next edition thanks to a win at home against [[Slovakia national football team|Slovakia]] on the last day of the group stages (2–0), allowing the national team to overtake [[Scotland national football team|Scotland]], which was defeated by [[Israel national football team|Israel]] (0–1) at the same time.<ref>{{cite web|title=Ligue des nations : la Hongrie, le pays de Galles et la République tchèque promus en Ligue A|url=https://www.lequipe.fr/Football/Actualites/Ligue-des-nations-la-hongrie-le-pays-de-galles-et-la-republique-tcheque-promus-en-ligue-a/1195997|website=[[L'Équipe]]|date=18 November 2020|access-date=19 November 2020 |language=fr}}</ref> The Czechs were drawn into [[UEFA Euro 2020 Group D|Group D]] with qualification opponents England, along with [[Croatia national football team|Croatia]] and Scotland.
+
+2021 started on a positive note for the Czech Republic, who managed to draw with [[Belgium national football team|Belgium]] at home 1–1 in the [[2022 FIFA World Cup qualification – UEFA Group E|qualifiers for the 2022 World Cup]]. Above all, [[UEFA Euro 2020|the Euros]], postponed to the summer of 2021 due to [[COVID-19 pandemic in Europe|COVID-19]], saw the Czech men advance from the group. The Czech Republic won the first game against Scotland, who were one of 12 host countries for the Euros, with a double from [[Patrik Schick]] (2–0), including a long-range goal. The Czechs then drew 1–1 against Croatia before losing to England at [[Wembley Stadium|Wembley]] 1–0. The Czechs finished among the four best third-place teams. In the round of 16 the Czech Republic faced the [[Netherlands national football team|Netherlands]], surprising them with a 2–0 win with goals from [[Tomáš Holeš]] and Patrik Schick while the Dutch team finished the game with 10 players.<ref>{{cite web|title=Euro: De Ligt "se sent responsable" de l'élimination des Pays-Bas|url=https://rmcsport.bfmtv.com/football/euro/euro-de-ligt-se-sent-responsable-de-l-elimination-des-pays-bas_AV-202106270285.html|author=Alexandre Jaquin|website=[[RMC Sport]]|date=27 June 2021|access-date=7 July 2021|language=fr}}</ref> Appearing in the quarter-finals for the first time since [[UEFA Euro 2012|2012]], they were beaten by Denmark 2–1, having conceded the first Danish goal after 5 minutes of play due to a refereeing error caused by a non-existent corner.<ref>{{cite web|title=Le but contestable du Danois Delaney contre les Tchèques à l'Euro en vidéo|url=https://www.lequipe.fr/Football/Actualites/Le-but-contestable-du-danois-delaney-contre-les-tcheques-a-l-euro-en-video/1267856|website=[[L'Équipe]]|date=3 July 2021|access-date=7 July 2021|language=fr}}</ref>
+
+The Czech Republic failed to qualify for the [[2022 FIFA World Cup|World Cup in Qatar]], finishing [[2022 FIFA World Cup qualification – UEFA Group E|third in their group]], behind [[Belgium national football team|Belgium]] and [[Wales national football team|Wales]], whom they failed to beat (home draw and away defeat in both cases), but they made it to the [[2022 FIFA World Cup qualification – UEFA second round|play-offs]] thanks to their position in the [[2020–21 UEFA Nations League]]. They were eliminated in the [[2022 FIFA World Cup qualification – UEFA second round#Semi-finals 2|semi-finals of the B path]], following an away defeat against [[Sweden men's national football team|Sweden]] in extra time (1–0).<ref>{{cite news |title=Sweden overcome the Czech Republic in extra time to progress |url=https://www.marca.com/en/world-cup/2022/03/24/623cf052e2704e42bb8b4609.html |access-date=10 June 2025 |work=Marca |date=24 March 2022}}</ref> They were then relegated to League B after finishing bottom of their group in the [[2022–23 UEFA Nations League A#Group 2| 2022–2023 Nations League]].
+
+The Czech Republic, without injured star striker Schick for the entire [[UEFA Euro 2024 qualifying Group E|Euro 2024 qualifying campaign]], had a difficult and chaotic campaign, but qualified for [[UEFA Euro 2024|the Euros]] in Germany by finishing second in their qualifying group thanks to a 3–0 home win over [[Moldova national football team|Moldova]] on the final day. After qualifying, coach [[Jaroslav Šilhavý]] resigned in the face of criticism from fans and controversy surrounding some of the team's players.<ref>{{Cite news|title=L'ancien sélectionneur de la République tchèque Jaroslav Silhavy a démissionné à cause de « l'agressivité » ambiante.|url=https://www.lequipe.fr/Football/Actualites/L-ancien-selectionneur-de-la-republique-tcheque-jaroslav-silhavy-a-demissionne-a-cause-de-l-agressivite-ambiante/1432747|website=[[L'Équipe]]|date=21 November 2023 |access-date=13 April 2024 |language=fr}}<!-- auto-translated by Module:CS1 translator --></ref>
+
+On 4 January 2024, [[Ivan Hašek]] returned to the Czech football team as the head coach until November 2025, with an option to continue if the team qualifies for the [[2026 FIFA World Cup|2026 World Cup]]. He oversaw 2–1 victories against [[Norway national football team|Norway]] and [[Armenia national football team|Armenia]]. At [[UEFA Euro 2024|Euro 2024]], the Czech Republic failed to qualify for the round of 16, losing 2–1 to [[Portugal national football team|Portugal]], which was followed by a 1–1 draw to [[Georgia national football team|Georgia]] with many opportunities missed, and a 2–1 loss to [[Turkey national football team|Turkey]] in the final match of the group after being quickly reduced to 10 players following a second yellow card for [[Antonín Barák]], the third time that Czech Republic lost a decisive game against Turkey after [[UEFA Euro 2008|Euro 2008]] and [[UEFA Euro 2016|Euro 2016]]. They finished fourth in Group F.<ref>{{Cite news|last=Malý|first=Jan|title=SESTŘIH: Češi prohráli bláznivý zápas s Tureckem a na Euru končí|url=https://www.sport.cz/clanek/fotbal-euro-2024-cesko-turecko-online-5031016|website=Sport.cz|date=26 June 2024 |access-date=27 June 2024 |language=cs|publisher=Borgis}}</ref>
+
+On 23 March 2026, [[Ladislav Krejčí (footballer, born 1999)|Ladislav Krejčí]] was confirmed as the new captain of the Czech Republic, after [[Tomáš Souček]]'s earlier dismissal.<ref>{{Cite news |agency=[[Czech News Agency]] |date=2026-03-23 |title=Fotbalovou reprezentaci povede do boje o MS jako kapitán Krejčí |trans-title=Krejčí will lead the Czech national football team into the World Cup as captain. |url=https://sport.ceskatelevize.cz/clanek/fotbal/fotbalovou-reprezentaci-povede-do-boje-o-ms-jako-kapitan-krejci-155950 |access-date=2026-03-23 |work=[[ČT Sport]] |language=cs|publisher=[[Czech Television]]}}</ref> Later that month, the Czech Republic won both ties in the [[2026 FIFA World Cup qualification – UEFA second round|2026 World Cup qualification second round]] against the Republic of Ireland and Denmark on penalty shootouts, qualifying for the [[2026 FIFA World Cup]] after their last appearance in 2006.<ref>{{cite web |url=https://www.uefa.com/european-qualifiers/news/02a3-2047bcf476d8-369543fe9786-1000--czechia-2-2-denmark-highlights-3-1-on-pens-czechia-book-202/ |title=Czechia 2-2 Denmark highlights (3-1 on pens): Czechia book 2026 World Cup spot with play-off final win|website=uefa.com|publisher=[[UEFA]]|date=31 March 2026|access-date=1 April 2026}}</ref><ref>{{Cite web|url=https://sports.yahoo.com/articles/czech-republic-beat-denmark-penalties-214228008.html|title=Czech Republic beat Denmark on penalties to reach World Cup|first=Jan|last=Flemr|date=31 March 2026|website=Sports.yahoo.com|access-date=1 April 2026}}</ref>
+
+==Team image==
+{{Commons|Czech Republic national football team kits}}
+Since 1994, the Czech Republic home kit has primarily been red shirts, with either blue or red shorts. While their away kit has been white shirts with white shorts. Although the team wore blue shorts for a short period between 2010 and 2011. In 2020, the team introduced a new alternate colour (yellow) as the away kit for the first time.<ref>{{cite web|url=https://footballfashion.org/wordpress/2019/11/14/czech-republic-euro-2020-puma-away-kit/|title=Czech Republic 2020/21 PUMA Away Kit|website=footballfashion.org|date=14 November 2019|access-date=14 November 2019}}</ref>
+
+In June 2026, ahead of the [[2026 FIFA World Cup]], the [[Football Association of the Czech Republic]] announced that [[Adidas]] would become its official kit supplier starting in 2027, ending a 30-year partnership with [[Puma (brand)|Puma]].<ref>{{Cite web|url=https://www.footyheadlines.com/2091570475/czech-republic-to-leave-puma-for-adidas-after-33-years.html|title=Czech Republic to Leave Puma for Adidas After 33 Years|website=Footyheadlines.com|access-date=26 June 2026}}</ref>
+
+{|class=wikitable
+!Year
+!Kit supplier
+|-
+|1994&minus;1996
+|{{flagicon|GER}} [[Adidas]]
+|-
+|1996&minus;2026
+|{{flagicon|GER}} [[Puma (brand)|Puma]]
+|-
+|2027&minus;
+|{{flagicon|GER}} [[Adidas]]
+|}
+
+==Stadiums==
+16 different cities have hosted Czech Republic football matches between 1994 and 2025.<ref>{{cite web|url=http://fotbal.idnes.cz/stadiony-a-reprezentace-0wq-/fot_reprez.aspx?c=A110323_201348_fot_reprez_min|title=Jak reprezentace kočuje po republice. Na řadu přišel nejčistší stadion|language=cs|work=Mladá fronta DNES|date=28 March 2011|access-date=1 December 2014|archive-date=17 November 2015|archive-url=https://web.archive.org/web/20151117032941/http://fotbal.idnes.cz/stadiony-a-reprezentace-0wq-/fot_reprez.aspx?c=A110323_201348_fot_reprez_min|url-status=live}}</ref> The most commonly used stadium was [[Stadion Letná]], the home stadium of [[AC Sparta Prague|Sparta Prague]], which was renovated in 1994. Another frequently used stadium was [[Na Stínadlech]] in [[Teplice]]. However, since the [[2018 FIFA World Cup qualification (UEFA)|2018 World Cup qualification]], major matches are usually played at the newer [[Fortuna Arena|Stadion Eden]], the home stadium of [[SK Slavia Prague|Slavia Prague]], which was built in 2008. Since 2012, competitive games have also been held [[Doosan Arena]], [[Plzeň]]. Some matches are also played in [[Moravia]] at [[Andrův stadion]] in [[Olomouc]] and [[Městský stadion (Ostrava)|Městský stadion]] in [[Ostrava]].
+
+Stadiums which have hosted Czech Republic international football matches:
+{| class="wikitable" style="text-align:left;"
+|-
+!Number of<br />matches
+!Stadium
+!W
+!D
+!L
+!First international
+!Latest international
+|-
+|align=center|50
+|[[Stadion Letná]], [[Prague]]
+|align=center|31
+|align=center|7
+|align=center|12
+|26 April 1995
+|31 May 2026
+|-
+|align=center|22
+|[[Fortuna Arena|Stadion Eden]], [[Prague]]
+|align=center|9
+|align=center|8
+|align=center|5
+|27 May 2008
+|26 March 2026
+|-
+|align=center|20
+|[[Na Stínadlech]], [[Teplice]]
+|align=center|18
+|align=center|1
+|align=center|1
+|18 September 1996
+|11 September 2012
+|-
+|align=center|16
+|[[Andrův stadion]], [[Olomouc]]
+|align=center|12
+|align=center|0
+|align=center|4
+|25 March 1998
+|17 November 2025
+|-
+|align=center|10
+|[[Doosan Arena|Štruncovy sady Stadion]], [[Plzeň]]
+|align=center|9
+|align=center|1
+|align=center|0
+|12 October 2012
+|6 June 2025
+|-
+|align=center|5
+|[[Bazaly]], [[Ostrava]]
+|align=center|4
+|align=center|0
+|align=center|1
+|25 May 1994
+|16 August 2000
+|-
+|align=center|4
+|[[Stadion u Nisy]], [[Liberec]]
+|align=center|4
+|align=center|0
+|align=center|0
+|4 June 2005
+|11 August 2010
+|-
+|align=center|4
+|[[Městský stadion (Ostrava)|Městský stadion]], [[Ostrava]]
+|align=center|3
+|align=center|1
+|align=center|0
+|26 March 1996
+|2 September 2021
+|-
+|align=center|3
+|[[Stadion Střelnice]], [[Jablonec nad Nisou|Jablonec]]
+|align=center|3
+|align=center|0
+|align=center|0
+|4 September 1996
+|5 June 2009
+|-
+|align=center|3
+|[[Městský fotbalový stadion Miroslava Valenty|Městský stadion]], [[Uherské Hradiště]]
+|align=center|1
+|align=center|0
+|align=center|2
+|16 August 2006
+|6 September 2018
+|-
+|align=center|3
+|[[Malšovická aréna]], [[Hradec Králové]]
+|align=center|2
+|align=center|1
+|align=center|0
+|10 June 2024
+|8 September 2025
+|-
+|align=center|2
+|[[Stadion Evžena Rošického]], [[Prague]]
+|align=center|1
+|align=center|1
+|align=center|0
+|24 April 1996
+|18 August 2004
+|-
+|align=center|2
+|[[Sportovní areál Drnovice|Sportovní areál]], [[Drnovice (Vyškov District)|Drnovice]]
+|align=center|2
+|align=center|0
+|align=center|0
+|18 August 1999
+|15 August 2001
+|-
+|align=center|2
+|[[Městský stadion (Mladá Boleslav)|Městský stadion]], [[Mladá Boleslav]]
+|align=center|1
+|align=center|1
+|align=center|0
+|31 August 2016
+|15 November 2016
+|-
+|align=center|1
+|Stadion FC Bohemia Poděbrady, [[Poděbrady]]
+|align=center|1
+|align=center|0
+|align=center|0
+| colspan="2" style="text-align:center;"|26 February 1997
+|-
+|align=center|1
+|[[Stadion Za Lužánkami]], [[Brno]]
+|align=center|1
+|align=center|0
+|align=center|0
+| colspan="2" style="text-align:center;"|8 March 1995
+|-
+|align=center|1
+|[[Stadion Střelecký ostrov]], [[České Budějovice]]
+|align=center|1
+|align=center|0
+|align=center|0
+| colspan="2" style="text-align:center;"|29 March 2011
+|-
+|align=center|1
+|[[Městský stadion (Ústí nad Labem)|Městský stadion]], [[Ústí nad Labem]]
+|align=center|1
+|align=center|0
+|align=center|0
+| colspan="2" style="text-align:center;"|22 March 2017
+|-
+|align=center|1
+|[[Městský stadion (Karviná)|Městský stadion]], [[Karviná]]
+|align=center|1
+|align=center|0
+|align=center|0
+| colspan="2" style="text-align:center;"|13 November 2025
+|}
+
+==Results and fixtures==
+{{Main|Czech Republic national football team results (2020–present)}}
+The following is a list of match results in the last 12 months, as well as any future matches that have been scheduled.
+
+{{legend2|#CCFFCC|Win|border=1px solid #AAAAAA}}
+{{legend2|#FFFFCC|Draw|border=1px solid #AAAAAA}}
+{{legend2|#FFCCCC|Loss|border=1px solid #AAAAAA}}
+{{legend2|#FFFFFF|Fixture|border=1px solid #AAAAAA}}
+
+===2025===
+{{football box collapsible
+|format     = 1
+|round      = [[2026 FIFA World Cup qualification – UEFA Group L|2026 FIFA World Cup qualification]]
+|date       = 5 September 2025
+|time       = {{UTZ|20:45|+2}}
+|team1      = {{fb-rt|MNE}}
+|score      = 0–2
+|team2      = {{fb|CZE}}
+|report     = https://www.uefa.com/european-qualifiers/match/2044223/
+|goals1     =
+|goals2     =
+*[[Lukáš Červ|Červ]] {{goal|3}}
+*[[Václav Černý (footballer)|Černý]] {{goal|90+6}}
+|location   = [[Podgorica]], Montenegro
+|stadium    = [[Podgorica City Stadium]]
+|attendance = 6,315
+|referee    = [[Marco Guida]] ([[Italian Football Federation|Italy]])
+|result     = W
+}}
+{{football box collapsible
+|format     = 1
+|round      = [[Exhibition game#Association football|Friendly]]
+|date       = 8 September 2025
+|time       = {{UTZ|19:15|+2}}
+|team1      = {{fb-rt|CZE}}
+|score      = 1–1
+|team2      = {{fb|KSA}}
+|report     = https://www.soccerway.com/match/czech-republic-6LHwBDGU/saudi-arabia-biSY8ox4/?mid=0E79zm3K
+|goals1     =
+*[[Tomáš Chorý|Chorý]] {{goal|21|pen.}}
+|goals2     =
+*[[Abdullah Al-Hamdan|Al-Hamdan]] {{goal|90+1}}
+|location   = [[Hradec Králové]], Czech Republic
+|stadium    = [[Malšovická aréna]]
+|attendance = 8,300
+|referee    = Martin Dohál ([[Slovak Football Association|Slovakia]])
+|result     = D
+}}
+{{football box collapsible
+|format     = 1
+|round      = [[2026 FIFA World Cup qualification – UEFA Group L|2026 FIFA World Cup qualification]]
+|date       = 9 October 2025
+|time       = {{UTZ|20:45|+2}}
+|team1      = {{fb-rt|CZE}}
+|score      = 0–0
+|team2      = {{fb|CRO}}
+|report     = https://www.uefa.com/european-qualifiers/match/2044257/
+|goals1     =
+|goals2     =
+|location   = [[Prague]], Czech Republic
+|stadium    = [[Fortuna Arena]]
+|attendance = 18,870
+|referee    = [[François Letexier]] ([[French Football Federation|France]])
+|result     = D
+}}
+{{football box collapsible
+|format     = 1
+|round      = [[2026 FIFA World Cup qualification – UEFA Group L|2026 FIFA World Cup qualification]]
+|date       = 12 October 2025
+|time       = {{UTZ|17:00|+1}}
+|team1      = {{fb-rt|FRO}}
+|score      = 2–1
+|team2      = {{fb|CZE}}
+|report     = https://www.uefa.com/european-qualifiers/match/2044285/
+|goals1     =
+*[[Hanus Sørensen|Sørensen]] {{goal|67}}
+*[[Martin Agnarsson|Agnarsson]] {{goal|81}}
+|goals2     =
+*[[Adam Karabec|Karabec]] {{goal|78}}
+|location   = [[Tórshavn]], Faroe Islands
+|stadium    = [[Tórsvøllur]]
+|attendance = 2,980
+|referee    = Andrea Colombo ([[Italian Football Federation|Italy]])
+|result     = L
+}}
+{{football box collapsible
+|format     = 1
+|round      = [[Exhibition game#Association football|Friendly]]
+|date       = 13 November 2025
+|time       = {{UTZ|18:00|+1}}
+|team1      = {{fb-rt|CZE}}
+|score      = 1–0
+|team2      = {{fb|SMR}}
+|report     = https://www.uefa.com/european-qualifiers/friendlies/match/2045899--czechia-vs-san-marino/
+|goals1     =
+*[[Tomáš Souček|Souček]] {{goal|40}}
+|goals2     =
+|location   = [[Karviná]], Czech Republic
+|stadium    = [[Městský stadion (Karviná)|Městský stadion]]
+|attendance = 3,721
+|referee    = [[Paweł Raczkowski]] ([[Polish Football Association|Poland]])
+|result     = W
+}}
+{{football box collapsible
+|format     = 1
+|round      = [[2026 FIFA World Cup qualification – UEFA Group L|2026 FIFA World Cup qualification]]
+|date       = 17 November 2025
+|time       = {{UTZ|20:45|+1}}
+|team1      = {{fb-rt|CZE}}
+|score      = 6–0
+|team2      = {{fb|GIB}}
+|report     = https://www.uefa.com/european-qualifiers/match/2044337/
+|goals1     =
+*[[David Douděra|Douděra]] {{goal|5}}
+*[[Tomáš Chorý|Chorý]] {{goal|18}}
+*[[Vladimír Coufal|Coufal]] {{goal|32}}
+*[[Adam Karabec|Karabec]] {{goal|39}}
+*[[Tomáš Souček|Souček]] {{goal|44}}
+*[[Robin Hranáč|Hranáč]] {{goal|51}}
+|goals2     =
+|location   = [[Olomouc]], Czech Republic
+|stadium    = [[Andrův stadion]]
+|attendance = 6,587
+|referee    = [[Sascha Stegemann]] ([[German Football Association|Germany]])
+|result     = W
+}}
+
+===2026===
+{{football box collapsible
+|format       = 1
+|round        = [[2026 FIFA World Cup qualification – UEFA second round|2026 World Cup qualification play-offs]]
+|date         = 26 March 2026
+|time         = {{UTZ|20:45|+1}}
+|team1        = {{fb-rt|CZE}}
+|score        = 2–2
+|aet          = Yes
+|team2        = {{fb|IRL}}
+|report       = https://www.uefa.com/european-qualifiers/match/2047081/
+|goals1       =
+*[[Patrik Schick|Schick]] {{goal|27|pen.}}
+*[[Ladislav Krejčí (footballer, born 1999)|Krejčí]] {{goal|86}}
+|goals2       =
+*[[Troy Parrott|Parrott]] {{goal|19|pen.}}
+*[[Matěj Kovář|Kovář]] {{goal|23|o.g.}}
+|penalties1   =
+*[[Ladislav Krejčí (footballer, born 1999)|Krejčí]] {{pengoal}}
+*[[Tomáš Souček|Souček]] {{pengoal}}
+*[[Mojmír Chytil|Chytil]] {{penmiss}}
+*[[Patrik Schick|Schick]] {{pengoal}}
+*[[Jan Kliment|Kliment]] {{pengoal}}
+|penaltyscore = 4–3
+|penalties2   =
+*{{pengoal}} [[Troy Parrott|Parrott]]
+*{{pengoal}} [[Adam Idah|Idah]]
+*{{pengoal}} [[Robbie Brady|Brady]]
+*{{penmiss}} [[Finn Azaz|Azaz]]
+*{{penmiss}} [[Alan Browne (footballer)|Browne]]
+|location   = [[Prague]], Czech Republic
+|stadium    = [[Fortuna Arena]]
+|attendance = 19,137
+|referee    = [[Glenn Nyberg]] ([[Swedish Football Association|Sweden]])
+|result     = D
+}}
+{{football box collapsible
+|format        = 1
+|round         = [[2026 FIFA World Cup qualification – UEFA second round|2026 World Cup qualification play-offs]]
+|date          = 31 March 2026
+|time          = {{UTZ|20:45|+2}}
+|team1         = {{fb-rt|CZE}}
+|score         = 2–2
+|aet           = Yes
+|report        = https://www.uefa.com/european-qualifiers/match/2047085/
+|team2         = {{fb|DEN}}
+|goals1        =
+*[[Pavel Šulc|Šulc]] {{goal|3}}
+*[[Ladislav Krejčí (footballer, born 1999)|Krejčí]] {{goal|100}}
+|goals2        =
+*[[Joachim Andersen (footballer)|Andersen]] {{goal|72}}
+*[[Kasper Høgh|Høgh]] {{goal|111}}
+|penalties1    =
+*[[Tomáš Chorý|Chorý]] {{pengoal}}
+*[[Tomáš Souček|Souček]] {{pengoal}}
+*[[Ladislav Krejčí (footballer, born 1999)|Krejčí]] {{penmiss}}
+*[[Michal Sadílek|Sadílek]] {{pengoal}}
+|penaltyscore  = 3–1
+|penalties2    =
+*{{penmiss}} [[Rasmus Højlund|Højlund]]
+*{{pengoal}} [[Christian Eriksen|Eriksen]]
+*{{penmiss}} [[Anders Dreyer|Dreyer]]
+*{{penmiss}} [[Mathias Jensen|Jensen]]
+|location      = [[Prague]], Czech Republic
+|stadium       = [[Stadion Letná]]<ref>{{cite web |title=Národní tým čekají klíčové zápasy baráže v Edenu a na Letné |url=https://www.fotbal.cz/repre/narodni-tym-cekaji-klicove-zapasy-baraze-v-edenu-a-na-letne/a23363 |website=fotbal.cz |access-date=2025-12-30 |language=cs |date=2025-12-19}}</ref>
+|attendance    = 18,215<ref>{{cite web |url=https://www.uefa.com/newsfiles/EURO/2026/2047085_FR.pdf |title=Full Time Report KO Play-offs – Czechia v Denmark |publisher=UEFA |date=31 March 2026 |access-date=31 March 2026}}</ref>
+|referee       = [[Maurizio Mariani]] ([[Italian Football Federation|Italy]])
+|result        = D
+}}
+{{football box collapsible
+|format     = 1
+|round      = [[Exhibition game#Association football|Friendly]]
+|date       = 31 May 2026
+|time       = {{UTZ|16:00|+2}}
+|team1      = {{fb-rt|CZE}}
+|score      = 2–1
+|team2      = {{fb|KOS}}
+|report     = https://www.soccerway.com/match/czech-republic-6LHwBDGU/kosovo-v1DTPQwI/?mid=tzT7JxcD
+|goals1     =
+*[[Tomáš Ladra|Ladra]] {{goal|12}}
+*[[Adam Hložek|Hložek]] {{goal|32}}
+|goals2     =
+*[[Lindon Emërllahu|Emërllahu]] {{goal|81}}
+|location   = [[Prague]], Czech Republic
+|stadium    = [[Stadion Letná]]
+|attendance = 11,102
+|referee    = Michal Očenáš ([[Slovak Football Association|Slovakia]])
+|result     = W
+}}
+{{football box collapsible
+|format     = 1
+|round      = [[Exhibition game#Association football|Friendly]]
+|date       = 4 June 2026
+|time       = {{UTZ|20:00|−4}}
+|team1      = {{fb-rt|CZE}}
+|score      = 3–1
+|team2      = {{fb|GUA}}
+|report     = https://www.soccerway.com/match/czech-republic-6LHwBDGU/guatemala-8KhCLQs3/?mid=j1djEBZR
+|goals1     =
+*[[Patrik Schick|Schick]] {{goal|11}}
+*[[Tomáš Chorý|Chorý]] {{goal|72}}
+*[[Denis Višinský|Višinský]] {{goal|79}}
+|goals2     =
+*[[William Fajardo (footballer)|Fajardo]] {{goal|40}}
+|location   = [[Harrison, New Jersey|Harrison]], United States
+|stadium    = [[Sports Illustrated Stadium]]
+|attendance = 
+|referee    = Pierre-Luc Lauzière ([[Canadian Soccer Association|Canada]])
+|result     = W
+}}
+{{football box collapsible
+|format     = 1
+|round      = [[2026 FIFA World Cup Group A|2026 FIFA World Cup GS]]
+|date       = 11 June 2026
+|time       = {{UTZ|20:00|−6}}
+|team1      = {{fb-rt|KOR}}
+|score      = 2–1
+|team2      = {{fb|CZE}}
+|report     = https://www.fifa.com/en/match-centre/match/17/285023/289273/400021441
+|goals1     =
+*[[Hwang In-beom]] {{goal|67}}
+*[[Oh Hyeon-gyu]] {{goal|80}}
+|goals2     =
+*[[Ladislav Krejčí (footballer, born 1999)|Krejčí]] {{goal|59}}
+|location   = [[Zapopan]], Mexico
+|stadium    = [[Estadio Akron]]
+|attendance = 44,985
+|referee    = [[Amin Omar|Amin Mohamed Omar]] ([[Egyptian Football Association|Egypt]])
+|result     = L
+}}
+{{football box collapsible
+|format     = 1
+|round      = [[2026 FIFA World Cup Group A|2026 FIFA World Cup GS]]
+|date       = 18 June 2026
+|time       = {{UTZ|12:00|−4}}
+|team1      = {{fb-rt|CZE}}
+|score      = 1–1
+|team2      = {{fb|RSA}}
+|report     = https://www.fifa.com/en/match-centre/match/17/285023/289273/400021440
+|goals1     =
+*[[Michal Sadílek|Sadílek]] {{goal|6}}
+|goals2     =
+*[[Teboho Mokoena (soccer, born 1997)|Mokoena]] {{goal|83|pen.}}
+|location   = [[Atlanta]], United States
+|stadium    = [[Mercedes-Benz Stadium]]
+|attendance = 67,442
+|referee    = [[Tori Penso]] ([[United States Soccer Federation|United States]])
+|result     = D
+}}
+{{football box collapsible
+|format     = 1
+|round      = [[2026 FIFA World Cup Group A|2026 FIFA World Cup GS]]
+|date       = 24 June 2026
+|time       = {{UTZ|19:00|−6}}
+|team1      = {{fb-rt|CZE}}
+|score      = 0–3
+|team2      = {{fb|MEX}}
+|report     = https://www.fifa.com/en/match-centre/match/17/285023/289273/400021444
+|goals1     =
+|goals2     =
+*[[Mateo Chávez|Chávez]] {{goal|55}}
+*[[Julián Andrés Quiñones|Quiñones]] {{goal|61}}
+*[[Álvaro Fidalgo|Fidalgo]] {{goal|90+4}}
+|location   = [[Mexico City]], Mexico
+|stadium    = [[Estadio Azteca]]
+|attendance = 80,824
+|referee    = [[Yael Falcón]] ([[Argentine Football Association|Argentina]])
+|result     = L
+}}
+{{football box collapsible
+|format     = 1
+|round      = [[2026–27 UEFA Nations League A|2026–27 UEFA Nations League]]
+|date       = 26 September 2026
+|time       = {{UTZ|20:45|+2}}
+|team1      = {{fb-rt|CZE}}
+|score      = 
+|team2      = {{fb|CRO}}
+|report     = https://www.uefa.com/uefanationsleague/match/2048023/
+|goals1     =
+|goals2     =
+|location   = [[Prague]], Czech Republic
+|stadium    = [[Fortuna Arena]]
+|attendance = 
+|referee    = 
+|result     = 
+}}
+{{football box collapsible
+|format     = 1
+|round      = [[2026–27 UEFA Nations League A|2026–27 UEFA Nations League]]
+|date       = 29 September 2026
+|time       = {{UTZ|20:45|+2}}
+|team1      = {{fb-rt|CZE}}
+|score      = 
+|team2      = {{fb|ENG}}
+|report     = https://www.uefa.com/uefanationsleague/match/2048000/
+|goals1     =
+|goals2     =
+|location   = [[Prague]], Czech Republic
+|stadium    = [[Fortuna Arena]]
+|attendance = 
+|referee    = 
+|result     = 
+}}
+{{football box collapsible
+|format     = 1
+|round      = [[2026–27 UEFA Nations League A|2026–27 UEFA Nations League]]
+|date       = 3 October 2026
+|time       = {{UTZ|20:45|+2}}
+|team1      = {{fb-rt|ESP}}
+|score      = 
+|team2      = {{fb|CZE}}
+|report     = https://www.uefa.com/uefanationsleague/match/2047971/
+|goals1     =
+|goals2     =
+|location   = [[Oviedo]], Spain
+|stadium    = [[Estadio Carlos Tartiere]]
+|attendance = 
+|referee    = 
+|result     = 
+}}
+{{football box collapsible
+|format     = 1
+|round      = [[2026–27 UEFA Nations League A|2026–27 UEFA Nations League]]
+|date       = 6 October 2026
+|time       = {{UTZ|19:45|+1}}
+|team1      = {{fb-rt|ENG}}
+|score      = 
+|team2      = {{fb|CZE}}
+|report     = https://www.uefa.com/uefanationsleague/match/2047947/
+|goals1     =
+|goals2     =
+|location   = [[London]], England
+|stadium    = [[Wembley Stadium]]
+|attendance = 
+|referee    = 
+|result     = 
+}}
+{{football box collapsible
+|format     = 1
+|round      = [[2026–27 UEFA Nations League A|2026–27 UEFA Nations League]]
+|date       = 12 November 2026
+|time       = {{UTZ|20:45|+1}}
+|team1      = {{fb-rt|CZE}}
+|score      = 
+|team2      = {{fb|ESP}}
+|report     = https://www.uefa.com/uefanationsleague/match/2047872/
+|goals1     =
+|goals2     =
+|location   = [[Prague]], Czech Republic
+|stadium    = [[Fortuna Arena]]
+|attendance = 
+|referee    = 
+|result     = 
+}}
+{{football box collapsible
+|format     = 1
+|round      = [[2026–27 UEFA Nations League A|2026–27 UEFA Nations League]]
+|date       = 15 November 2026
+|time       = {{UTZ|20:45|+1}}
+|team1      = {{fb-rt|CRO}}
+|score      = 
+|team2      = {{fb|CZE}}
+|report     = https://www.uefa.com/uefanationsleague/match/2047902/
+|goals1     =
+|goals2     =
+|location   = [[Zagreb]], Croatia
+|stadium    = [[Stadion Maksimir]]
+|attendance = 
+|referee    = 
+|result     = 
+}}
+
+==Coaching staff==
+{| class="wikitable"
+|-
+! Position
+! Name
+|-
+| Head coach
+| ''Vacant''
+|-
+| Assistant coach
+| {{flagicon|CZE}} [[Jan Suchopárek]]<br />{{flagicon|CZE}} [[Jaroslav Plašil]]<br />{{flagicon|CZE}} [[Jan Rezek]]
+|-
+| Goalkeeping coach
+| {{flagicon|CZE}} [[Radek Černý]]<br />{{flagicon|SVK}} [[Matúš Kozáčik]]
+|}
+
+===Coaching history===
+{{div col|colwidth=25em}}
+*{{flagicon|CZE}} [[Dušan Uhrin]] (1994–1997)
+*{{flagicon|CZE}} [[Jozef Chovanec]] (1998–2001)
+*{{flagicon|CZE}} [[Karel Brückner]] (2001–2008)
+*{{flagicon|CZE}} [[Petr Rada]] (2008–2009)
+*{{flagicon|CZE}} [[František Straka]] (2009)
+*{{flagicon|CZE}} [[Ivan Hašek]] (interim) (2009) 
+*{{flagicon|CZE}} [[Michal Bílek]] (2009–2013)
+*{{flagicon|CZE}} [[Josef Pešice]] (interim) (2013)
+*{{flagicon|CZE}} [[Pavel Vrba]] (2014–2016)
+*{{flagicon|CZE}} [[Karel Jarolím]] (2016–2018)
+*{{flagicon|CZE}} [[Jaroslav Šilhavý]] (2018–2023)
+*{{flagicon|CZE}} [[Ivan Hašek]] (2024–2025)
+*{{flagicon|CZE}} [[Jaroslav Köstl]] (interim) (2025)
+*{{flagicon|CZE}} [[Miroslav Koubek]] (2025–2026)
+{{div col end}}
+
+==Players==
+===Current squad===
+The following players were named in the final squad for the [[2026 FIFA World Cup]].<ref>{{cite web |title=Finální nominace reprezentace na mistrovství světa 2026|url=https://www.fotbal.cz/repre/finalni-nominace-reprezentace-na-mistrovstvi-sveta-2026/a24171|publisher=[[Football Association of the Czech Republic]]|language=cs|date=31 May 2026|access-date=31 May 2026}}</ref>
+<br>''Caps and goals updated as of 24 June 2026 after the match against [[Mexico national football team|Mexico]].''
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Matěj Kovář]]|age={{bda|df=y|2000|5|17}}|caps=23|goals=0|club=[[PSV Eindhoven]]|clubnat=NED}}
+{{nat fs g player|no=16|pos=GK|name=[[Jindřich Staněk]]|age={{bda|df=y|1996|4|27}}|caps=14|goals=0|club=[[SK Slavia Prague|Slavia Prague]]|clubnat=CZE}}
+{{nat fs g player|no=23|pos=GK|name=[[Lukáš Horníček]]|age={{bda|df=y|2002|7|13}}|caps=1|goals=0|club=[[S.C. Braga|Braga]]|clubnat=POR}}
+{{nat fs break}}
+{{nat fs g player|no=2|pos=DF|name=[[David Zima]]|age={{bda|df=y|2000|11|8}}|caps=26|goals=1|club=[[SK Slavia Prague|Slavia Prague]]|clubnat=CZE}}
+{{nat fs g player|no=3|pos=DF|name=[[Tomáš Holeš]]|age={{bda|df=y|1993|3|31}}|caps=43|goals=2|club=[[SK Slavia Prague|Slavia Prague]]|clubnat=CZE}}
+{{nat fs g player|no=4|pos=DF|name=[[Robin Hranáč]]|age={{bda|df=y|2000|1|29}}|caps=17|goals=1|club=[[TSG 1899 Hoffenheim|TSG Hoffenheim]]|clubnat=GER}}
+{{nat fs g player|no=5|pos=DF|name=[[Vladimír Coufal]]|age={{bda|df=y|1992|8|22}}|caps=65|goals=2|club=[[TSG 1899 Hoffenheim|TSG Hoffenheim]]|clubnat=GER}}
+{{nat fs g player|no=6|pos=DF|name=[[Štěpán Chaloupek]]|age={{bda|2003|3|8|df=y}}|caps=6|goals=0|club=[[SK Slavia Prague|Slavia Prague]]|clubnat=CZE}}
+{{nat fs g player|no=7|pos=DF|name=[[Ladislav Krejčí (footballer, born 1999)|Ladislav Krejčí]]|age={{bda|df=y|1999|4|20}}|caps=30|goals=6|club=[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]|clubnat=ENG|other=[[Captain (association football)|captain]]}}
+{{nat fs g player|no=14|pos=DF|name=[[David Jurásek]]|age={{bda|df=y|2000|8|7}}|caps=18|goals=1|club=[[SK Slavia Prague|Slavia Prague]]|clubnat=CZE}}
+{{nat fs g player|no=20|pos=DF|name=[[Jaroslav Zelený]]|age={{bda|df=y|1992|8|20}}|caps=25|goals=0|club=[[AC Sparta Prague|Sparta Prague]]|clubnat=CZE}}
+{{nat fs g player|no=21|pos=DF|name=[[David Douděra]]|age={{bda|df=y|1998|5|31}}|caps=18|goals=2|club=[[SK Slavia Prague|Slavia Prague]]|clubnat=CZE}}
+{{nat fs break}}
+{{nat fs g player|no=8|pos=MF|name=[[Vladimír Darida]]|age={{bda|df=y|1990|8|8}}|caps=80|goals=8|club=[[FC Hradec Králové|Hradec Králové]]|clubnat=CZE}}
+{{nat fs g player|no=12|pos=MF|name=[[Lukáš Červ]]|age={{bda|df=y|2001|4|10}}|caps=19|goals=2|club=[[FC Viktoria Plzeň|Viktoria Plzeň]]|clubnat=CZE}}
+{{nat fs g player|no=15|pos=MF|name=[[Pavel Šulc]]|age={{bda|df=y|2000|12|29}}|caps=24|goals=5|club=[[Olympique Lyonnais|Lyon]]|clubnat=FRA}}
+{{nat fs g player|no=17|pos=MF|name=[[Lukáš Provod]]|age={{bda|df=y|1996|10|23}}|caps=41|goals=3|club=[[SK Slavia Prague|Slavia Prague]]|clubnat=CZE}}
+{{nat fs g player|no=18|pos=MF|name=[[Michal Sadílek]]|age={{bda|df=y|1999|5|31}}|caps=38|goals=2|club=[[SK Slavia Prague|Slavia Prague]]|clubnat=CZE}}
+{{nat fs g player|no=22|pos=MF|name=[[Tomáš Souček]]|age={{bda|df=y|1995|2|27}}|caps=93|goals=17|club=[[West Ham United F.C.|West Ham United]]|clubnat=ENG}}
+{{nat fs g player|no=24|pos=MF|name=[[Alexandr Sojka]]|age={{bda|df=y|2003|4|2}}|caps=5|goals=0|club=[[FC Viktoria Plzeň|Viktoria Plzeň]]|clubnat=CZE}}
+{{nat fs g player|no=25|pos=MF|name=[[Hugo Sochůrek]]|age={{bda|df=y|2008|6|7}}|caps=1|goals=0|club=[[AC Sparta Prague|Sparta Prague]]|clubnat=CZE}}
+{{nat fs g player|no=26|pos=MF|name=[[Denis Višinský]]|age={{bda|df=y|2003|3|21}}|caps=3|goals=1|club=[[FC Viktoria Plzeň|Viktoria Plzeň]]|clubnat=CZE}}
+{{nat fs break}}
+{{nat fs g player|no=9|pos=FW|name=[[Adam Hložek]]|age={{bda|df=y|2002|7|25}}|caps=46|goals=5|club=[[TSG 1899 Hoffenheim|TSG Hoffenheim]]|clubnat=GER}}
+{{nat fs g player|no=10|pos=FW|name=[[Patrik Schick]]|age={{bda|df=y|1996|1|24}}|caps=56|goals=26|club=[[Bayer 04 Leverkusen|Bayer Leverkusen]]|clubnat=GER}}
+{{nat fs g player|no=11|pos=FW|name=[[Jan Kuchta]]|age={{bda|df=y|1997|1|8}}|caps=31|goals=3|club=[[AC Sparta Prague|Sparta Prague]]|clubnat=CZE}}
+{{nat fs g player|no=13|pos=FW|name=[[Mojmír Chytil]]|age={{bda|df=y|1999|4|29}}|caps=23|goals=6|club=[[SK Slavia Prague|Slavia Prague]]|clubnat=CZE}}
+{{nat fs g player|no=19|pos=FW|name=[[Tomáš Chorý]]|age={{bda|df=y|1995|1|26}}|caps=24|goals=7|club=[[SK Slavia Prague|Slavia Prague]]|clubnat=CZE}}
+{{nat fs end}}
+
+===Recent call-ups===
+The following players have also been called up to the Czech Republic squad within the last twelve months:
+
+{{nat fs r start}}
+{{nat fs r player|no=|pos=GK|name=[[Martin Jedlička]]|age={{bda|1998|1|24|df=y}}|caps=1|goals=0|club=[[Baník Ostrava]]|clubnat=CZE|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=GK|name=[[Antonín Kinský (footballer, born 2003)|Antonín Kinský]]|age={{bda|2003|3|13|df=y}}|caps=0|goals=0|club=[[Tottenham Hotspur F.C.|Tottenham Hotspur]]|clubnat=ENG|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=GK|name=[[Jan Koutný (footballer)|Jan Koutný]]|age={{bda|df=y|2004|10|14}}|caps=0|goals=0|club=[[SK Sigma Olomouc|Sigma Olomouc]]|clubnat=CZE|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=GK|name=[[Jakub Markovič]]|age={{bda|2001|7|13|df=y}}|caps=0|goals=0|club=[[SK Slavia Prague|Slavia Prague]]|clubnat=CZE|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=GK|name=[[Vítězslav Jaroš]]|age={{bda|df=y|2001|7|23}}|caps=2|goals=0|club=[[AFC Ajax|Ajax]]|clubnat=NED|latest=v. {{fb|CRO}}, 9 October 2025 <sup>INJ</sup>}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=DF|name=[[Václav Jemelka]]|age={{bda|df=y|1995|6|23}}|caps=12|goals=0|club=[[FC Viktoria Plzeň|Viktoria Plzeň]]|clubnat=CZE|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=DF|name=[[Martin Vitík]]|age={{bda|df=y|2003|1|21}}|caps=9|goals=0|club=[[Bologna FC 1909|Bologna]]|clubnat=ITA|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=DF|name=[[Tomáš Vlček]]|age={{bda|df=y|2001|2|28}}|caps=2|goals=0|club=[[SK Slavia Prague|Slavia Prague]]|clubnat=CZE|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=DF|name=[[Matěj Hadaš]]|age={{bda|df=y|2003|11|25}}|caps=0|goals=0|club=[[SK Sigma Olomouc|Sigma Olomouc]]|clubnat=CZE|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=DF|name=[[Adam Ševínský]]|age={{bda|df=y|2004|6|19}}|caps=0|goals=0|club=[[AC Sparta Prague|Sparta Prague]]|clubnat=CZE|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=DF|name=[[Karel Spáčil]]|age={{bda|df=y|2003|5|18}}|caps=0|goals=0|club=[[FC Viktoria Plzeň|Viktoria Plzeň]]|clubnat=CZE|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=DF|name=[[Martin Cedidla]]|age={{bda|df=y|2001|11|22}}|caps=1|goals=0|club=[[FK Jablonec|Jablonec]]|clubnat=CZE|latest=v. {{fb|FRO}}, 12 October 2025}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=MF|name=[[Tomáš Ladra]]|age={{bda|df=y|1997|5|24}}|caps=2|goals=1|club=[[FC Viktoria Plzeň|Viktoria Plzeň]]|clubnat=CZE|latest=v. {{fb|KOS}}, 31 May 2026}}
+{{nat fs r player|no=|pos=MF|name=[[Pavel Bucha]]|age={{bda|df=y|1998|3|11}}|caps=1|goals=0|club=[[FC Cincinnati|Cincinnati]]|clubnat=USA|latest=v. {{fb|KOS}}, 31 May 2026}}
+{{nat fs r player|no=|pos=MF|name=[[Adam Karabec]]|age={{bda|df=y|2003|7|2}}|caps=5|goals=2|club=[[Olympique Lyonnais|Lyon]]|clubnat=FRA|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=MF|name=[[Michal Beran (footballer)|Michal Beran]]|age={{bda|df=y|2000|8|22}}|caps=4|goals=0|club=[[SK Sigma Olomouc|Sigma Olomouc]]|clubnat=CZE|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=MF|name=[[Lukáš Sadílek]]|age={{bda|df=y|1996|5|23}}|caps=3|goals=0|club=[[Górnik Zabrze]]|clubnat=POL|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=MF|name=[[Kryštof Daněk]]|age={{bda|2003|1|5|df=y}}|caps=2|goals=0|club=[[LASK]]|clubnat=AUT|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=MF|name=[[Matěj Ryneš]]|age={{bda|df=y|2001|5|30}}|caps=2|goals=0|club=[[AC Sparta Prague|Sparta Prague]]|clubnat=CZE|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=MF|name=[[Patrik Hellebrand]]|age={{bda|df=y|1999|5|16}}|caps=1|goals=0|club=[[Górnik Zabrze]]|clubnat=POL|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=MF|name=[[Lukáš Ambros]]|age={{bda|df=y|2004|6|5}}|caps=0|goals=0|club=[[Górnik Zabrze]]|clubnat=POL|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=MF|name=[[Ondřej Kričfaluši]]|age={{bda|2004|3|9|df=y}}|caps=0|goals=0|club=[[Baník Ostrava]]|clubnat=CZE|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=MF|name={{ill|David Planka|cs}}|age={{bda|2005|7|28|df=y}}|caps=0|goals=0|club=[[Baník Ostrava]]|clubnat=CZE|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=MF|name=[[Václav Černý (footballer)|Václav Černý]]|age={{bda|df=y|1997|10|17}}|caps=30|goals=8|club=[[Beşiktaş J.K.|Beşiktaş]]|clubnat=TUR|latest=v. {{fb|SMR}}, 13 November 2025 <sup>INJ</sup>}}
+{{nat fs r player|no=|pos=MF|name=[[Alex Král]]|age={{bda|df=y|1998|5|19}}|caps=48|goals=2|club=[[1. FC Union Berlin|Union Berlin]]|clubnat=GER|latest=v. {{fb|FRO}}, 12 October 2025}}
+{{nat fs r player|no=|pos=MF|name=[[Ondřej Lingr]]|age={{bda|df=y|1998|10|7}}|caps=25|goals=1|club=[[Houston Dynamo FC|Houston Dynamo]]|clubnat=USA|latest=v. {{fb|FRO}}, 12 October 2025}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=FW|name=[[Christophe Kabongo]]|age={{bda|df=y|2003|8|27}}|caps=1|goals=0|club=[[FK Mladá Boleslav|Mladá Boleslav]]|clubnat=CZE|latest=v. {{fb|KOS}}, 31 May 2026}}
+{{nat fs r player|no=|pos=FW|name=[[Matěj Vydra]]|age={{bda|df=y|1992|5|1}}|caps=48|goals=7|club=[[FC Viktoria Plzeň|Viktoria Plzeň]]|clubnat=CZE|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=FW|name=[[Jan Kliment]]|age={{bda|df=y|1993|9|1}}|caps=10|goals=1|club=[[SK Sigma Olomouc|Sigma Olomouc]]|clubnat=CZE|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=FW|name=[[Vasil Kušej]]|age={{bda|df=y|2000|5|24}}|caps=6|goals=0|club=[[SK Slavia Prague|Slavia Prague]]|clubnat=CZE|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=FW|name=[[Václav Sejk]]|age={{bda|df=y|2002|5|18}}|caps=1|goals=0|club=[[SK Sigma Olomouc|Sigma Olomouc]]|clubnat=CZE|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=FW|name=[[Ondřej Mihálik]]|age={{bda|df=y|1997|4|2}}|caps=0|goals=0|club=[[FC Hradec Králové|Hradec Králové]]|clubnat=CZE|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=FW|name=[[Vojtěch Patrák]]|age={{bda|df=y|2000|3|18}}|caps=0|goals=0|club=[[FK Pardubice|Pardubice]]|clubnat=CZE|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=FW|name=[[Jan Chramosta]]|age={{bda|df=y|1990|10|12}}|caps=1|goals=0|club=[[FK Jablonec|Jablonec]]|clubnat=CZE|latest=v. {{fb|FRO}}, 12 October 2025}}
+{{nat fs end}}
+* <sup>INJ</sup> = Withdrew due to an injury.
+* <sup>PRE</sup> = Preliminary squad.
+<!--* <sup>WD</sup> = Withdrew due to non-injury related reasons.
+* <sup>RET</sup> = Retired from international football.-->
+
+==Player statistics==
+{{Main|List of Czech Republic international footballers}}
+{{updated|25 June 2026}}.<ref>{{cite web|url=https://www.fotbal.cz/repre/tym/historicke-statistiky/start/1|title=Česko A - Historické statistiky - Nejvíce startů|publisher=[[Football Association of the Czech Republic]]|language=cs|website=Fotbal.cz}}</ref>
+:''Players in '''bold''' are still active with the Czech Republic.''
+:''This list does not include players that won caps for [[Czechoslovakia national football team#Player records|Czechoslovakia]].''
+
+===Most appearances===
+[[File:Petr_Cech_National.JPG|thumb|180px|Petr Čech, the most capped player in the history of the Czech Republic with 124 caps]]
+{| class="wikitable sortable" style="text-align:center;"
+|-
+!width=25 |Rank
+!width=150 |Player
+!width=50 |Caps
+!width=50 |Goals
+!width=100 |Career
+|-
+|1
+|align="left"|[[Petr Čech]]
+|124
+|0
+|{{nowrap|2002–2016}}
+|-
+|2
+|align="left"|[[Karel Poborský]]
+|118
+|8
+|1994–2006
+|-
+|3
+|align="left"|[[Tomáš Rosický]]
+|105
+|23
+|2000–2016
+|-
+|4
+|align="left"|[[Jaroslav Plašil]]
+|103
+|7
+|2004–2016
+|-
+|rowspan=2|5
+|align="left"|[[Milan Baroš]]
+|93
+|41
+|2001–2012
+|-
+|align="left"|'''[[Tomáš Souček]]'''
+|93
+|17
+|2016–present
+|-
+|rowspan=2|7
+|align="left"|[[Jan Koller]]
+|91
+|55
+|1999–2009
+|-
+|align="left"|[[Pavel Nedvěd]]
+|91
+|18
+|1994–2006
+|-
+|9
+|align="left"|[[Vladimír Šmicer]]
+|81
+|27
+|1993–2005
+|-
+|10
+|align="left"|'''[[Vladimír Darida]]'''
+|80
+|8
+|2012–present
+|}
+
+===Top goalscorers===
+[[File:Koller.jpg|thumb|180px|Jan Koller, the top scorer in the history of the Czech Republic with 55 goals]]
+
+{| class="wikitable sortable" style="text-align:center;"
+|-
+!width=25 |Rank
+!width=150 |Player
+!width=50 |Goals
+!width=50 |Caps
+!width=50 |Ratio
+!width=100 |Career
+|-
+|1
+|style="text-align:left;"|[[Jan Koller]] <small>([[List of international goals scored by Jan Koller|list]])</small>
+|55
+|91
+|{{#expr:55/91 round 2}}
+|1999–2009
+|-
+|2
+|style="text-align:left;"|[[Milan Baroš]]
+|41
+|93
+|{{#expr:41/93 round 2}}
+|2001–2012
+|-
+|3
+|style="text-align:left;"|[[Vladimír Šmicer]]
+|27
+|81
+|{{#expr:27/81 round 2}}
+|1993–2005
+|-
+|4
+|style="text-align:left;"|[[Patrik Schick]]
+|26
+|56
+|{{#expr:26/56 round 2}}
+|2016–2026
+|-
+|5
+|style="text-align:left;"|[[Tomáš Rosický]]
+|23
+|105
+|{{#expr:23/105 round 2}}
+|2000–2016
+|-
+|6
+|style="text-align:left;"|[[Pavel Kuka]]
+|22
+|63
+|{{#expr:22/63 round 2}}
+|1994–2001
+|-
+|rowspan=2|7
+|style="text-align:left;"|[[Patrik Berger]]
+|18
+|44
+|{{#expr:18/44 round 2}}
+|1994–2001
+|-
+|style="text-align:left;"|[[Pavel Nedvěd]]
+|18
+|91
+|{{#expr:18/91 round 2}}
+|1994–2006
+|-
+|9
+|style="text-align:left;"|'''[[Tomáš Souček]]'''
+|17
+|93
+|{{#expr:17/93 round 2}}
+|{{nowrap|2016–present}}
+|-
+|10
+|style="text-align:left;"|[[Vratislav Lokvenc]]
+|14
+|74
+|{{#expr:14/74 round 2}}
+|1995–2006
+|}
+
+==Competitive record==
+
+===FIFA World Cup===
+{{main|Czech Republic at the FIFA World Cup}}
+{| class="wikitable" style="text-align: center;"
+|-
+!colspan=10|[[FIFA World Cup]] record
+!width=1% rowspan=30|
+!colspan=7|[[FIFA World Cup qualification|Qualification]] record
+|-
+!Year
+!Result
+!Position
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!Squad
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!—
+|-
+!colspan=10|as part {{flag|Czechoslovakia}}
+!colspan=8|as part {{flag|Czechoslovakia}}
+|-
+|{{flagicon|Uruguay}} [[1930 FIFA World Cup|1930]]
+|colspan=9|''Did not enter''
+|colspan=7|''Declined invitation''
+|-bgcolor=Silver
+|{{flagicon|Italy|1861}} [[1934 FIFA World Cup|1934]]
+|'''[[1934 FIFA World Cup final|Runners-up]]'''
+|'''2nd'''
+|'''4'''
+|'''3'''
+|'''0'''
+|'''1'''
+|'''9'''
+|'''6'''
+|'''[[1934 FIFA World Cup squads#Czechoslovakia|Squad]]'''
+|2
+|2
+|0
+|0
+|4
+|1
+|[[1934 FIFA World Cup qualification|1934]]
+|-
+|{{flagicon|France|1794}} [[1938 FIFA World Cup|1938]]
+|Quarter-finals
+|5th
+|3
+|1
+|1
+|1
+|5
+|3
+|[[1938 FIFA World Cup squads#Czechoslovakia|Squad]]
+|2
+|1
+|1
+|0
+|7
+|1
+|[[1938 FIFA World Cup qualification|1938]]
+|-
+|{{flagicon|Brazil|1889}} [[1950 FIFA World Cup|1950]]
+|colspan=9|''Did not enter''
+|colspan=7|''Did not enter''
+|-
+|{{flagicon|Switzerland}} [[1954 FIFA World Cup|1954]]
+|rowspan=2| Group stage
+|14th
+|2
+|0
+|0
+|2
+|0
+|7
+|[[1954 FIFA World Cup squads#Czechoslovakia|Squad]]
+|4
+|3
+|1
+|0
+|5
+|1
+|[[1954 FIFA World Cup qualification|1954]]
+|-
+|{{flagicon|Sweden}} [[1958 FIFA World Cup|1958]]
+|9th
+|4
+|1
+|1
+|2
+|9
+|6
+|[[1958 FIFA World Cup squads#Czechoslovakia|Squad]]
+|4
+|3
+|0
+|1
+|9
+|3
+|[[1958 FIFA World Cup qualification (UEFA)|1958]]
+|-bgcolor=silver
+|{{flagicon|Chile}} [[1962 FIFA World Cup|1962]]
+|'''[[1962 FIFA World Cup final|Runners-up]]'''
+|'''2nd'''
+|'''6'''
+|'''3'''
+|'''1'''
+|'''2'''
+|'''7'''
+|'''7'''
+|'''[[1962 FIFA World Cup squads#Czechoslovakia|Squad]]'''
+|5
+|4
+|0
+|1
+|20
+|7
+|[[1962 FIFA World Cup qualification (UEFA)|1962]]
+|-
+|{{flagicon|England}} [[1966 FIFA World Cup|1966]]
+|colspan=9|''Did not qualify''
+|6
+|3
+|1
+|2
+|12
+|4
+|[[1966 FIFA World Cup qualification (UEFA)|1966]]
+|-
+|{{flagicon|Mexico}} [[1970 FIFA World Cup|1970]]
+|Group stage
+|15th
+|3
+|0
+|0
+|3
+|2
+|7
+|[[1970 FIFA World Cup squads#Czechoslovakia|Squad]]
+|7
+|5
+|1
+|1
+|16
+|7
+|[[1970 FIFA World Cup qualification (UEFA)|1970]]
+|-
+|{{flagicon|West Germany}} [[1974 FIFA World Cup|1974]]
+|colspan=9 rowspan=2|''Did not qualify''
+|4
+|2
+|1
+|1
+|9
+|3
+|[[1974 FIFA World Cup qualification (UEFA)|1974]]
+|-
+|{{flagicon|Argentina}} [[1978 FIFA World Cup|1978]]
+|4
+|2
+|0
+|2
+|4
+|6
+|[[1978 FIFA World Cup qualification (UEFA)|1978]]
+|-
+|{{flagicon|Spain}} [[1982 FIFA World Cup|1982]]
+|Group stage
+|19th
+|3
+|0
+|2
+|1
+|2
+|4
+|[[1982 FIFA World Cup squads#Czechoslovakia|Squad]]
+|8
+|4
+|2
+|2
+|15
+|6
+|[[1982 FIFA World Cup qualification (UEFA)|1982]]
+|-
+|{{flagicon|Mexico}} [[1986 FIFA World Cup|1986]]
+|colspan=9|''Did not qualify''
+|8
+|3
+|2
+|3
+|11
+|12
+|[[1986 FIFA World Cup qualification (UEFA)|1986]]
+|-
+|{{flagicon|Italy}} [[1990 FIFA World Cup|1990]]
+|Quarter-finals
+|6th
+|5
+|3
+|0
+|2
+|10
+|5
+|[[1990 FIFA World Cup squads#Czechoslovakia|Squad]]
+|8
+|5
+|2
+|1
+|13
+|3
+|[[1990 FIFA World Cup qualification (UEFA)|1990]]
+|-
+|{{flagicon|United States}} [[1994 FIFA World Cup|1994]]
+|colspan=9|''Did not qualify''
+|10
+|4
+|5
+|1
+|21
+|9
+|[[1994 FIFA World Cup qualification (UEFA)|1994]]
+|-
+!colspan=10|as {{flag|Czech Republic}}
+!colspan=8|as {{flag|Czech Republic}}
+|-
+|{{flagicon|France|1974}} [[1998 FIFA World Cup|1998]]
+|colspan=9 rowspan=2|''Did not qualify''
+|10
+|5
+|1
+|4
+|16
+|6
+|[[1998 FIFA World Cup qualification (UEFA)|1998]]
+|-
+|{{flagicon|South Korea|1997}} {{flagicon|Japan}} [[2002 FIFA World Cup|2002]]
+|12
+|6
+|2
+|4
+|20
+|10
+|[[2002 FIFA World Cup qualification (UEFA)|2002]]
+|-
+|{{flagicon|Germany}} [[2006 FIFA World Cup|2006]]
+|Group stage
+|20th
+|3
+|1
+|0
+|2
+|3
+|4
+|[[2006 FIFA World Cup squads#Czech Republic|Squad]]
+|14
+|11
+|0
+|3
+|37
+|12
+|[[2006 FIFA World Cup qualification (UEFA)|2006]]
+|-
+|{{flagicon|South Africa}} [[2010 FIFA World Cup|2010]]
+|colspan=9 rowspan=4|''Did not qualify''
+|10
+|4
+|4
+|2
+|17
+|6
+|[[2010 FIFA World Cup qualification (UEFA)|2010]]
+|-
+|{{flagicon|Brazil}} [[2014 FIFA World Cup|2014]]
+|10
+|4
+|3
+|3
+|13
+|9
+|[[2014 FIFA World Cup qualification (UEFA)|2014]]
+|-
+|{{flagicon|Russia}} [[2018 FIFA World Cup|2018]]
+|10
+|4
+|3
+|3
+|17
+|10
+|[[2018 FIFA World Cup qualification (UEFA)|2018]]
+|-
+|{{flagicon|Qatar}} [[2022 FIFA World Cup|2022]]
+|9
+|4
+|2
+|3
+|14
+|10
+|[[2022 FIFA World Cup qualification (UEFA)|2022]]
+|-
+|{{flagicon|Canada}} {{flagicon|Mexico}} {{flagicon|United States}} [[2026 FIFA World Cup|2026]]
+|Group stage
+|39th
+|3
+|0
+|1
+|2
+|2
+|6
+|[[2026 FIFA World Cup squads#Czech Republic|Squad]]
+|10
+|5
+|3
+|2
+|22
+|12
+|[[2026 FIFA World Cup qualification (UEFA)|2026]]
+|-
+|{{flagicon|Morocco}} {{flagicon|Portugal}} {{flagicon|Spain}} [[2030 FIFA World Cup|2030]]
+|colspan=9 rowspan=2|''To be determined''
+|colspan=6 rowspan=2|''To be determined''
+|[[2030 FIFA World Cup qualification (UEFA)|2030]]
+|-
+|{{flagicon|Saudi Arabia}} [[2034 FIFA World Cup|2034]]
+|[[2034 FIFA World Cup qualification (UEFA)|2034]]
+|-
+!Total:{{Tooltip|10/23|Number of tournaments qualified for}}
+!colspan=2|{{Tooltip|Runners-up|Highest finish}}
+!36
+!12
+!6
+!18
+!49
+!55
+!—
+!157
+!84
+!34
+!39
+!302
+!138
+!—
+|}
+
+===UEFA European Championship===
+{{main|Czech Republic at the UEFA European Championship}}
+{| class="wikitable" style="text-align: center;"
+|-
+!colspan=10|[[UEFA European Championship]] record
+!width=1% rowspan=24|
+!colspan=7|[[UEFA European Championship qualifying|Qualifying]] record
+|-
+!Year
+!Result
+!Position
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!Squad
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!—
+|-
+!colspan=10|as {{flag|Czechoslovakia}}
+!colspan=8|as {{flag|Czechoslovakia}}
+|-
+|-bgcolor=#cc9966
+|{{flagicon|France|1794}} [[1960 European Nations' Cup|1960]]
+|'''Third place'''
+|'''3rd'''
+|'''2'''
+|'''1'''
+|'''0'''
+|'''1'''
+|'''2'''
+|'''3'''
+|'''[[1960 European Nations' Cup squads#Czechoslovakia|Squad]]'''
+|6
+|4
+|1
+|1
+|16
+|5
+|[[1960 European Nations' Cup qualifying|1960]]
+|-
+|{{flagicon|Spain|1945}} [[1964 European Nations' Cup|1964]]
+|colspan=9 rowspan=3|''Did not qualify''
+|2
+|0
+|1
+|1
+|2
+|3
+|[[1964 European Nations' Cup qualifying|1964]]
+|-
+|{{flagicon|Italy}} [[UEFA Euro 1968|1968]]
+|6
+|3
+|1
+|2
+|8
+|4
+|[[UEFA Euro 1968 qualifying|1968]]
+|-
+|{{flagicon|Belgium}} [[UEFA Euro 1972|1972]]
+|6
+|4
+|1
+|1
+|11
+|4
+|[[UEFA Euro 1972 qualifying|1972]]
+|-bgcolor=Gold
+|{{flagicon|Yugoslavia}} [[UEFA Euro 1976|1976]]
+|'''[[UEFA Euro 1976 final|Champions]]'''
+|'''1st'''
+|'''2'''
+|'''1'''
+|'''1'''
+|'''0'''
+|'''5'''
+|'''3'''
+|'''[[UEFA Euro 1976 squads#Czechoslovakia|Squad]]'''
+|8
+|5
+|2
+|1
+|19
+|7
+|[[UEFA Euro 1976 qualifying|1976]]
+|-
+|-bgcolor=#cc9966
+|{{flagicon|Italy}} [[UEFA Euro 1980|1980]]
+|'''Third place'''
+|'''3rd'''
+|'''4'''
+|'''1'''
+|'''2'''
+|'''1'''
+|'''5'''
+|'''4'''
+|'''[[UEFA Euro 1980 squads#Czechoslovakia|Squad]]'''
+|6
+|5
+|0
+|1
+|17
+|4
+|[[UEFA Euro 1980 qualifying|1980]]
+|-
+|{{flagicon|France|1974}} [[UEFA Euro 1984|1984]]
+|colspan=9 rowspan=3|''Did not qualify''
+|8
+|3
+|4
+|1
+|15
+|7
+|[[UEFA Euro 1984 qualifying|1984]]
+|-
+|{{flagicon|West Germany}} [[UEFA Euro 1988|1988]]
+|6
+|2
+|3
+|1
+|7
+|5
+|[[UEFA Euro 1988 qualifying|1988]]
+|-
+|{{flagicon|Sweden}} [[UEFA Euro 1992|1992]]
+|8
+|5
+|0
+|3
+|12
+|9
+|[[UEFA Euro 1992 qualifying|1992]]
+|-
+!colspan=10|as {{flag|Czech Republic}}
+!colspan=8|as {{flag|Czech Republic}}
+|-bgcolor=Silver
+|{{flagicon|England}} [[UEFA Euro 1996|1996]]
+|'''[[UEFA Euro 1996 final|Runners-up]]'''
+|'''2nd'''
+|'''6'''
+|'''2'''
+|'''2'''
+|'''2'''
+|'''7'''
+|'''8'''
+|'''[[UEFA Euro 1996 squads#Czech Republic|Squad]]'''
+|10
+|6
+|3
+|1
+|21
+|6
+|[[UEFA Euro 1996 qualifying|1996]]
+|-
+|{{flagicon|Belgium}} {{flagicon|Netherlands}} [[UEFA Euro 2000|2000]]
+|Group stage
+|10th
+|3
+|1
+|0
+|2
+|3
+|3
+|[[UEFA Euro 2000 squads#Czech Republic|Squad]]
+|10
+|10
+|0
+|0
+|26
+|5
+|[[UEFA Euro 2000 qualifying|2000]]
+|-style="background:#c96;"
+|{{flagicon|Portugal}} [[UEFA Euro 2004|2004]]
+|'''Semi-finals'''
+|'''3rd'''
+|'''5'''
+|'''4'''
+|'''0'''
+|'''1'''
+|'''10'''
+|'''5'''
+|'''[[UEFA Euro 2004 squads#Czech Republic|Squad]]'''
+|8
+|7
+|1
+|0
+|23
+|5
+|[[UEFA Euro 2004 qualifying|2004]]
+|-
+|{{flagicon|Austria}} {{flagicon|Switzerland}} [[UEFA Euro 2008|2008]]
+|Group stage
+|11th
+|3
+|1
+|0
+|2
+|4
+|6
+|[[UEFA Euro 2008 squads#Czech Republic|Squad]]
+|12
+|9
+|2
+|1
+|27
+|5
+|[[UEFA Euro 2008 qualifying|2008]]
+|-
+|{{flagicon|Poland}} {{flagicon|Ukraine}} [[UEFA Euro 2012|2012]]
+|Quarter-finals
+|6th
+|4
+|2
+|0
+|2
+|4
+|6
+|[[UEFA Euro 2012 squads#Czech Republic|Squad]]
+|10
+|6
+|1
+|3
+|15
+|8
+|[[UEFA Euro 2012 qualifying|2012]]
+|-
+|{{flagicon|France|1974}} [[UEFA Euro 2016|2016]]
+|Group stage
+|21st
+|3
+|0
+|1
+|2
+|2
+|5
+|[[UEFA Euro 2016 squads#Czech Republic|Squad]]
+|10
+|7
+|1
+|2
+|19
+|14
+|[[UEFA Euro 2016 qualifying|2016]]
+|-
+|{{flagicon|Europe}} [[UEFA Euro 2020|2020]]
+|Quarter-finals
+|6th
+|5
+|2
+|1
+|2
+|6
+|4
+|[[UEFA Euro 2020 squads#Czech Republic|Squad]]
+|8
+|5
+|0
+|3
+|13
+|11
+|[[UEFA Euro 2020 qualifying|2020]]
+|-
+|{{flagicon|Germany}} [[UEFA Euro 2024|2024]]
+|Group stage
+|22nd
+|3
+|0
+|1
+|2
+|3
+|5
+|[[UEFA Euro 2024 squads#Czech Republic|Squad]]
+|8
+|4
+|3
+|1
+|12
+|6
+|[[UEFA Euro 2024 qualifying|2024]]
+|-
+|{{flagicon|United Kingdom}} {{flagicon|Ireland}} [[UEFA Euro 2028|2028]]
+|colspan=9 rowspan=2|''To be determined''
+|colspan=6 rowspan=2|''To be determined''
+|2028
+|-
+|{{flagicon|Italy}} {{flagicon|Turkey}} [[UEFA Euro 2032|2032]]
+|2032
+|-
+!Total
+!1 Title
+!11/17
+!40
+!15
+!8
+!17
+!51
+!52
+!—
+!132
+!85
+!24
+!23
+!263
+!108
+!—
+|}
+
+===UEFA Nations League===
+{| class="wikitable" style="text-align: center;"
+! colspan=12 |[[UEFA Nations League]] record
+|-
+!Season
+!Division
+!Group
+!width=28|{{Tooltip|Pos|Position}}
+!width=28|{{Tooltip|Pld|Matches played}}
+!width=28|{{Tooltip|W|Won}}
+!width=28|{{Tooltip|D|Drawn}}
+!width=28|{{Tooltip|L|Lost}}
+!width=28|{{Tooltip|GF|Goals for}}
+!width=28|{{Tooltip|GA|Goals against}}
+!width=35|{{Tooltip|P/R|Promotion/relegation at end of season}}
+!width=28|{{Tooltip|RK|Overall rank}}
+|-
+|[[2018–19 UEFA Nations League|2018–19]]
+|[[2018–19 UEFA Nations League B|B]]
+|[[2018–19 UEFA Nations League B#Group 1|1]]
+|2nd
+|4
+|2
+|0
+|2
+|4
+|4
+|{{same position}}
+|20th
+|-
+|[[2020–21 UEFA Nations League|2020–21]]
+|[[2020–21 UEFA Nations League B|B]]
+|[[2020–21 UEFA Nations League B#Group 2|2]]
+|1st
+|6
+|4
+|0
+|2
+|9
+|5
+|{{rise}}
+|19th
+|-
+|[[2022–23 UEFA Nations League|2022–23]]
+|[[2022–23 UEFA Nations League A|A]]
+|[[2022–23 UEFA Nations League A#Group 2|2]]
+|4th
+|6
+|1
+|1
+|4
+|5
+|13
+|{{fall}}
+|14th
+|-
+|[[2024–25 UEFA Nations League|2024–25]]
+|[[2024–25 UEFA Nations League B|B]]
+|[[2024–25 UEFA Nations League B#Group 1|1]]
+|1st
+|6
+|3
+|2
+|1
+|9
+|8
+|{{rise}}
+|20th
+|-
+!colspan=4|Total
+!22
+!10
+!3
+!9
+!27
+!30
+!colspan=2|14th
+|}
+
+===FIFA Confederations Cup===
+{| class="wikitable" style="text-align: center;"
+|-
+!colspan=10|[[FIFA Confederations Cup]] record
+|-
+!Year
+!Result
+!Position
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!Squad
+|-
+|{{flagicon|Saudi Arabia}} [[1992 King Fahd Cup|1992]]||colspan=9 rowspan=2|''Did not qualify''
+|-
+|{{flagicon|Saudi Arabia}} [[1995 King Fahd Cup|1995]]
+|- style="background:#c96;"
+|{{flagicon|Saudi Arabia}} [[1997 FIFA Confederations Cup|1997]]
+|'''Third place'''
+|'''3rd'''
+|'''5'''
+|'''2'''
+|'''1'''
+|'''2'''
+|'''10'''
+|'''7'''
+|'''[[1997 FIFA Confederations Cup squads#Czech Republic|Squad]]'''
+|-
+|{{flagicon|Mexico}} [[1999 FIFA Confederations Cup|1999]]||colspan=9 rowspan=7|''Did not qualify''
+|-
+|{{flagicon|South Korea|1997}} {{flagicon|Japan}} [[2001 FIFA Confederations Cup|2001]]
+|-
+|{{flagicon|France|1974}} [[2003 FIFA Confederations Cup|2003]]
+|-
+|{{flagicon|Germany}} [[2005 FIFA Confederations Cup|2005]]
+|-
+|{{flagicon|South Africa}} [[2009 FIFA Confederations Cup|2009]]
+|-
+|{{flagicon|Brazil}} [[2013 FIFA Confederations Cup|2013]]
+|-
+|{{flagicon|Russia}} [[2017 FIFA Confederations Cup|2017]]
+|-
+!Total
+!Third place
+!1/10
+!5
+!2
+!1
+!2
+!10
+!7
+!—
+|}
+
+==Head-to-head record (since 1994)==
+{{updated|25 June 2026}}.<ref>{{Cite web|url=http://eloratings.net/Czechia|title=World Football Elo Ratings|website=Eloratings.net|access-date=1 April 2026}}</ref>
+
+{{legend2|#CCFFCC|Positive record|border=1px solid #AAAAAA}}
+{{legend2|#FFFFCC|Neutral record|border=1px solid #AAAAAA}}
+{{legend2|#FFDACC|Negative record|border=1px solid #AAAAAA}}
+
+{| class="wikitable sortable collapsible collapsed" style="text-align: center; font-size: 100%;"
+|- style="color:black;"
+! style="width:145px;"|Opponents
+!width=30|{{Tooltip|Pld|Games played}}
+!width=30|{{Tooltip|W|Won}}
+!width=30|{{Tooltip|D|Drawn}}
+!width=30|{{Tooltip|L|Loss}}
+!width=35|{{Tooltip|GF|Goals for}}
+!width=35|{{Tooltip|GA|Goals against}}
+!width=35|{{Tooltip|GD|Goal difference}}
+|- bgcolor="#CCFFCC"
+| style="text-align:left;"| {{fb|ALB}} || 5 || 2 || 2 || 1 || 6 || 5 || +1
+|-
+|- bgcolor="#CCFFCC"
+| style="text-align:left;"| {{fb|AND}} || 2 || 2 || 0 || 0 || 12 || 1 || +11
+|-
+|- bgcolor="#CCFFCC"
+| style="text-align:left;"| {{fb|ARM}} || 6 || 5 || 0 || 1 || 16 || 4 || +12
+|-
+|- bgcolor="#FFFFCC"
+| style="text-align:left;"| {{fb|AUS}} || 2 || 1 || 0 || 1 || 3 || 5 || -2
+|-
+|- bgcolor="#FFFFCC"
+| style="text-align:left;"| {{fb|AUT}} || 5 || 2 || 1 || 2 || 9 || 6 || +3
+|-
+|- bgcolor="#FFFFCC"
+| style="text-align:left;"| {{fb|AZE}} || 3 || 1 || 1 || 1 || 2 || 3 || -1
+|-
+|- bgcolor="#CCFFCC"
+| style="text-align:left;"| {{fb|BLR}} || 7 || 7 || 0 || 0 || 18 || 4 || +14
+|-
+|- bgcolor="#FFDACC"
+| style="text-align:left;"| {{fb|BEL}} || 9 || 3 || 2 || 4 || 9 || 10 || -1
+|-
+|- bgcolor="#CCFFCC"
+| style="text-align:left;"| {{fb|BIH}} || 2 || 2 || 0 || 0 || 6 || 1 || +5
+|-
+|- bgcolor="#FFDACC"
+| style="text-align:left;"| {{fb|BRA}} || 2 || 0 || 0 || 2 || 1 || 5 || -4
+|-
+|- bgcolor="#CCFFCC"
+| style="text-align:left;"| {{fb|BUL}} || 7 || 5 || 1 || 1 || 13 || 3 || +10
+|-
+|- bgcolor="#CCFFCC"
+| style="text-align:left;"| {{fb|CAN}} || 2 || 2 || 0 || 0 || 7 || 1 || +6
+|-
+|- bgcolor="#CCFFCC"
+| style="text-align:left;"| {{fb|CHN}} || 1 || 1 || 0 || 0 || 4 || 1 || +3
+|-
+|- bgcolor="#CCFFCC"
+| style="text-align:left;"| {{fb|CRC}} || 1 || 1 || 0 || 0 || 1 || 0 || +1
+|-
+|- bgcolor="#FFDACC"
+| style="text-align:left;"| {{fb|CRO}} || 6 || 0 || 4 || 2 || 7 || 13 || -6
+|-
+|- bgcolor="#CCFFCC"
+| style="text-align:left;"| {{fb|CYP}} || 4 || 4 || 0 || 0 || 9 || 4 || +5
+|-
+|- bgcolor="#FFFFCC"
+| style="text-align:left;"| {{fb|DEN}} || 13 || 3 || 7 || 3 || 13 || 12 || +1
+|-
+|- bgcolor="#FFDACC"
+| style="text-align:left;"| {{fb|ENG}} || 5 || 1 || 1 || 3 || 4 || 11 || -7
+|-
+|- bgcolor="#CCFFCC"
+| style="text-align:left;"| {{fb|EST}} || 5 || 5 || 0 || 0 || 16 || 3 || +13
+|-
+|- bgcolor="#CCFFCC"
+| style="text-align:left;"| {{fb|FRO}} || 9 || 8 || 0 || 1 || 19 || 3 || +16
+|-
+|- bgcolor="#CCFFCC"
+| style="text-align:left;"| {{fb|FIN}} || 5 || 3 || 1 || 1 || 13 || 7 || +6
+|-
+|- bgcolor="#FFFFCC"
+| style="text-align:left;"| {{fb|FRA}} || 4 || 1 || 2 || 1 || 5 || 4 || +1
+|-
+|- bgcolor="#FFFFCC"
+| style="text-align:left;"| {{fb|GEO}} || 3 || 1 || 1 || 1 || 4 || 6 || -2
+|-
+|- bgcolor="#FFDACC"
+| style="text-align:left;"| {{fb|GER}} || 9 || 2 || 0 || 7 || 10 || 16 || -6
+|-
+|- bgcolor="#FFDACC"
+| style="text-align:left;"| {{fb|GHA}} || 1 || 0 || 0 || 1 || 0 || 2 || -2
+|-
+|- bgcolor="#CCFFCC"
+| style="text-align:left;"| {{fb|GIB}} || 2 || 2 || 0 || 0 || 10 || 0 || +10
+|-
+|- bgcolor="#FFFFCC"
+| style="text-align:left;"| {{fb|GRE}} || 4 || 1 || 2 || 1 || 2 || 2 || 0
+|-
+|- bgcolor="#CCFFCC"
+| style="text-align:left;"| {{fb|GTM}} || 1 || 1 || 0 || 0 || 3 || 1 || +2
+|-
+|- bgcolor="#FFFFCC"
+| style="text-align:left;"| {{fb|HUN}} || 4 || 1 || 2 || 1 || 5 || 4 || +1
+|-
+|- bgcolor="#CCFFCC"
+| style="text-align:left;"| {{fb|ISL}} || 6 || 4 || 0 || 2 || 12 || 8 || +4
+|-
+|- bgcolor="#CCFFCC"
+| style="text-align:left;"| {{fb|ISR}} || 4 || 4 || 0 || 0 || 9 || 3 || +6
+|-
+|- bgcolor="#FFDACC"
+| style="text-align:left;"| {{fb|ITA}} || 7 || 2 || 2 || 3 || 6 || 11 || -5
+|-
+|- bgcolor="#FFDACC"
+| style="text-align:left;"| {{fb|JPN}} || 3 || 0 || 2 || 1 || 0 || 1 || -1
+|-
+|- bgcolor="#CCFFCC"
+| style="text-align:left;"| {{fb|KAZ}} || 2 || 2 || 0 || 0 || 6 || 3 || +3
+|-
+|- bgcolor="#CCFFCC"
+| style="text-align:left;"| {{fb|KOS}} || 3 || 2 || 0 || 1 || 5 || 4 || +1
+|-
+|- bgcolor="#CCFFCC"
+| style="text-align:left;"| {{fb|KUW}} || 2 || 2 || 0 || 0 || 9 || 1 || +8
+|-
+|- bgcolor="#CCFFCC"
+| style="text-align:left;"| {{fb|LVA}} || 4 || 3 || 1 || 0 || 9 || 4 || +5
+|-
+|- bgcolor="#CCFFCC"
+| style="text-align:left;"| {{fb|LIE}} || 2 || 2 || 0 || 0 || 4 || 0 || +4
+|-
+|- bgcolor="#CCFFCC"
+| style="text-align:left;"| {{fb|LTU}} || 7 || 6 || 0 || 1 || 20 || 5 || +15
+|-
+|- bgcolor="#FFFFCC"
+| style="text-align:left;"| {{fb|LUX}} || 2 || 1 || 0 || 1 || 3 || 1 || +2
+|-
+|- bgcolor="#CCFFCC"
+| style="text-align:left;"| {{fb|MLT}} || 11 || 9 || 2 || 0 || 37 || 6 || +31
+|-
+|- bgcolor="#FFFFCC"
+| style="text-align:left;"| {{fb|MEX}} || 1 || 1 || 0 || 1 || 2 || 4 || -2
+|-
+|- bgcolor="#CCFFCC"
+| style="text-align:left;"| {{fb|MDA}} || 4 || 3 || 1 || 0 || 10 || 0 || +10
+|-
+|- bgcolor="#CCFFCC"
+| style="text-align:left;"| {{fb|MNE}} || 7 || 7 || 0 || 0 || 17 || 1 || +16
+|-
+|- bgcolor="#FFFFCC"
+| style="text-align:left;"| {{fb|MAR}} || 1 || 0 || 1 || 0 || 0 || 0 || 0
+|-
+|- bgcolor="#CCFFCC"
+| style="text-align:left;"| {{fb|NED}} || 12 || 6 || 3 || 3 || 18 || 14 || +4
+|-
+|- bgcolor="#CCFFCC"
+| style="text-align:left;"| {{fb|NGA}} || 2 || 2 || 0 || 0 || 3 || 1 || +2
+|-
+|- bgcolor="#CCFFCC"
+| style="text-align:left;"| {{fb|MKD}} || 4 || 3 || 1 || 0 || 11 || 3 || +8
+|-
+|- bgcolor="#FFFFCC"
+| style="text-align:left;"| {{fb|NIR}} || 7 || 2 || 3 || 2 || 6 || 6 || 0
+|-
+|- bgcolor="#CCFFCC"
+| style="text-align:left;"| {{fb|NOR}} || 9 || 5 || 3 || 1 || 12 || 9 || +3
+|-
+|- bgcolor="#CCFFCC"
+| style="text-align:left;"| {{fb|PAR}} || 1 || 1 || 0 || 0 || 1 || 0 || +1
+|-
+|- bgcolor="#FFFFCC"
+| style="text-align:left;"| {{fb|PER}} || 1 || 0 || 1 || 0 || 0 || 0 || 0
+|-
+|- bgcolor="#CCFFCC"
+| style="text-align:left;"| {{fb|POL}} || 10 || 5 || 1 || 4 || 13 || 12 || +1
+|-
+|- bgcolor="#FFDACC"
+| style="text-align:left;"| {{fb|POR}} || 6 || 1 || 0 || 5 || 3 || 12 || -9
+|-
+|- bgcolor="#CCFFCC"
+| style="text-align:left;"| {{fb|QAT}} || 1 || 1 || 0 || 0 || 1 || 0 || +1
+|-
+|- bgcolor="#CCFFCC"
+| style="text-align:left;"| {{fb|IRL}} || 9 || 4 || 3 || 2 || 15 || 11 || +4
+|-
+|- bgcolor="#FFFFCC"
+| style="text-align:left;"| {{fb|ROU}} || 2 || 1 || 0 || 1 || 1 || 2 || -1
+|-
+|- bgcolor="#FFDACC"
+| style="text-align:left;"| {{fb|RUS}} || 4 || 1 || 1 || 2 || 7 || 13 || -6
+|-
+|- bgcolor="#CCFFCC"
+| style="text-align:left;"| {{fb|SMR}} || 7 || 7 || 0 || 0 || 32 || 0 || +32
+|-
+|- bgcolor="#CCFFCC"
+| style="text-align:left;"| {{fb|KSA}} || 2 || 1 || 1 || 0 || 3 || 1 || +2
+|-
+|- bgcolor="#CCFFCC"
+| style="text-align:left;"| {{fb|SCO}} || 10 || 5 || 1 || 4 || 14 || 11 || +3
+|-
+|- bgcolor="#FFDACC"
+| style="text-align:left;"| {{fb|SRB}}{{efn|Includes matches against [[Serbia and Montenegro national football team|Serbia and Montenegro]].}} || 5 || 2 || 0 || 3 || 11 || 7 || +4
+|-
+|- bgcolor="#CCFFCC"
+| style="text-align:left;"| {{fb|SVK}} || [[Czech Republic–Slovakia football rivalry|14]]|| 9 || 2 || 3 || 29 || 12 || +17
+|-
+|- bgcolor="#CCFFCC"
+| style="text-align:left;"| {{fb|SVN}} || 5 || 3 || 1 || 1 || 7 || 2 || +5
+|-
+|- bgcolor="#FFFFCC"
+| style="text-align:left;"| {{fb|RSA}} || 2 || 0 || 2 || 0 || 3 || 3 || 0
+|-
+|- bgcolor="#FFDACC"
+| style="text-align:left;"| {{fb|KOR}} || 4 || 1 || 1 || 2 || 9 || 6 || +3
+|-
+|- bgcolor="#FFDACC"
+| style="text-align:left;"| {{fb|ESP}} || 7 || 0 || 2 || 5 || 3 || 10 || -7
+|-
+|- bgcolor="#FFDACC"
+| style="text-align:left;"| {{fb|SWE}} || 4 || 0 || 2 || 2 || 5 || 7 || -2
+|-
+|- bgcolor="#CCFFCC"
+| style="text-align:left;"| {{fb|SUI}} || 6 || 4 || 0 || 2 || 9 || 7 || +2
+|-
+|- bgcolor="#CCFFCC"
+| style="text-align:left;"| {{fb|TRI}} || 1 || 1 || 0 || 0 || 3 || 0 || +3
+|-
+|- bgcolor="#FFDACC"
+| style="text-align:left;"| {{fb|TUR}} || 12 || 5 || 1 || 6 || 22 || 17 || +5
+|-
+|- bgcolor="#FFFFCC"
+| style="text-align:left;"| {{fb|UKR}} || 7 || 2 || 3 || 2 || 10 || 7 || +3
+|-
+|- bgcolor="#CCFFCC"
+| style="text-align:left;"| {{fb|UAE}} || 2 || 1 || 1 || 0 || 6 || 1 || +5
+|-
+|- bgcolor="#CCFFCC"
+| style="text-align:left;"| {{fb|USA}} || 3 || 2 || 0 || 1 || 7 || 3 || +4
+|-
+|- bgcolor="#FFDACC"
+| style="text-align:left;"| {{fb|URU}} || 3 || 1 || 0 || 2 || 2 || 4 || -2
+|-
+|- bgcolor="#FFFFCC"
+| style="text-align:left;"| {{fb|WAL}} || 6 || 1 || 4 || 1 || 5 || 5 || 0
+|-class="sortbottom"
+!Total (76)
+|364||192||73||99||647||375||+272
+|}
+{{notelist}}
+
+==Honours==
+===Global===
+* '''[[FIFA World Cup]]'''
+** {{silver2}} Runners-up (2): [[1934 FIFA World Cup|1934]]{{efn|Honours won as [[Czechoslovakia national football team|Czechoslovakia]].|name="TCH"}}, [[1962 FIFA World Cup|1962]]{{efn|name="TCH"}}
+* '''[[FIFA Confederations Cup]]'''
+** {{bronze3}} Third place (1): [[1997 FIFA Confederations Cup|1997]]
+* '''[[Football at the Summer Olympics|Olympic Games]]'''
+** {{gold1}} '''Gold medal (1)''': [[Football at the 1980 Summer Olympics|1980]]{{efn|name="TCH"}}
+** {{silver2}} Silver medal (1): [[Football at the 1964 Summer Olympics|1964]]{{efn|name="TCH"}}
+
+===Continental===
+* '''[[UEFA European Championship]]'''
+** {{gold1}} '''Champions (1)''': [[UEFA Euro 1976|1976]]{{efn|name="TCH"}}
+** {{silver2}} Runners-up (1): [[UEFA Euro 1996|1996]]
+** {{bronze3}} Third place (2): [[UEFA Euro 1960|1960]]{{efn|name="TCH"}}, [[UEFA Euro 1980|1980]]{{efn|name="TCH"}}, [[UEFA Euro 2004|2004]]
+
+===Regional===
+* '''[[Central European International Cup]]'''
+** '''Champions (1):''' [[1955–1960 Central European International Cup|1955–60]]{{efn|name="TCH"}}
+** Runners-up (2): [[1927–1930 Central European International Cup|1927–30]]{{efn|name="TCH"}}, [[1948–1953 Central European International Cup|1948–53]]{{efn|name="TCH"}}
+
+===Friendly===
+* '''[[Football at the Inter-Allied Games|Inter-Allied Games]]'''<ref>{{Cite web |title=Interallied Games 1919 |url=https://www.rsssf.org/tablesi/interallied19.html |access-date=2022-09-18 |website=[[RSSSF]]}}</ref>
+** '''Gold medal (1)''': 1919{{efn|name="TCH"}}
+
+===Summary===
+{| class="wikitable" width=30% style="font-size:90%; text-align:center;"
+|-
+!Competition !!{{gold1}} !!{{silver2}} !!{{bronze3}} !!Total
+|-
+|align=left|[[FIFA World Cup]]
+|0||2||0||2
+|-
+|align=left|[[FIFA Confederations Cup]]
+|0||0||1||1
+|-
+|align=left|[[Football at the Summer Olympics|Olympic Games]]
+|1||1||0||2
+|-
+|align=left|[[UEFA European Championship]]
+|1||1||3||5
+|-
+!Total!!2!!4!!4!!10
+|}
+
+==See also==
+{{portal|Association football|Czech Republic}}
+*[[Football in the Czech Republic]]
+*[[Czech Republic national football team results (1994–2019)]]
+*[[Czech Republic national under-21 football team]]
+*[[Czech Republic national under-19 football team]]
+*[[Czech Republic national under-18 football team]]
+*[[Czech Republic national under-17 football team]]
+
+==Notes==
+{{Notelist}}
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons category}}
+* [https://www.fotbal.cz/ Official website] {{in lang|cs}}
+* [https://www.fifa.com/about-fifa/associations/CZE FIFA profile]
+* [https://www.uefa.com/nationalassociations/cze/ UEFA profile]
+* [https://www.rsssf.org/tablest/tsje-intres.html RSSSF archive of results 1994–]
+* [https://www.rsssf.org/tablesb/bohmor-intres.html RSSSF archive of results 1903,1906–08,1939]
+* [https://www.rsssf.org/miscellaneous/tsje-recintlp.html RSSSF archive of most capped players and highest goalscorers]
+{{Czech Republic national football team}}
+{{Navboxes
+| bg = #D7141A
+| fg = white
+| bordercolor = #11457E
+|list1=
+{{Czech Republic national football team managers}}
+{{Navboxes
+|title= Czech Republic squads
+| bg = #D7141A
+| fg = white
+| bordercolor = #11457E
+|list1=
+{{Czech Republic squad UEFA Euro 1996}}
+{{Czech Republic squad UEFA Euro 2000}}
+{{Czech Republic squad UEFA Euro 2004}}
+{{Czech Republic squad 2006 FIFA World Cup}}
+{{Czech Republic squad UEFA Euro 2008}}
+{{Czech Republic squad UEFA Euro 2012}}
+{{Czech Republic squad UEFA Euro 2016}}
+{{Czech Republic squad UEFA Euro 2020}}
+{{Czech Republic squad UEFA Euro 2024}}
+{{Czech Republic squad 2026 FIFA World Cup}}
+}}
+{{Navboxes
+|title= Competitions
+|list1=
+{{UEFA Euro 1996 finalists}}
+{{UEFA Euro 2000 finalists}}
+{{UEFA Euro 2004 finalists}}
+{{2006 FIFA World Cup finalists}}
+{{UEFA Euro 2008 finalists}}
+{{UEFA Euro 2012 finalists}}
+{{UEFA Euro 2016 finalists}}
+{{UEFA Euro 2020 finalists}}
+{{UEFA Euro 2024 finalists}}
+{{2026 FIFA World Cup finalists}}
+}}
+{{Football in the Czech Republic}}
+{{UEFA teams}}
+{{National sports teams of the Czech Republic}}
+}}
+
+[[Category:Czech Republic national football team| ]]
+[[Category:Czech Republic men's national football teams| ]]
+[[Category:Football Association of the Czech Republic national teams| ]]
+[[Category:1994 establishments in the Czech Republic]]
+[[Category:National sports teams established in 1994]]

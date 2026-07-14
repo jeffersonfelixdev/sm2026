@@ -1,0 +1,3325 @@
+{{short description|International governing body of association football in Africa}}
+{{Use dmy dates|date=December 2025}}
+{{Use British English|date=September 2025}}
+{{Infobox organization
+| name                = Confederation of African Football
+| logo                = Confederation of African Football logo.svg
+| logo_size           = 210px
+| abbreviation        = CAF
+| founded             = {{Start date and age|df=y|1957|02|08}}
+| founding_location   = [[Khartoum]], Sudan
+| map                 = CAF.svg
+| type                = 
+| headquarters        = [[6th of October (city)|6th of October City]], Giza, Egypt
+| region_served       = [[Africa]]
+| num_members         = [[List of men's national association football teams#CAF (Africa)|54 member associations]]<ref name="Mem">{{cite web|title=Member Associations|url=https://www.cafonline.com/inside-caf/member-associations/|website=CAFOnline.com|access-date=15 February 2024}}</ref>
+| language            = {{plainlist|
+* [[Arabic language|Arabic]]
+* [[English language|English]]
+* [[French language|French]]
+* [[Spanish language|Spanish]]
+}}
+| leader_title        = [[List of presidents of CAF|President]]
+| leader_name         = [[Patrice Motsepe]]
+| leader_title2       = Vice Presidents
+| leader_name2        = {{ubl|[[Fouzi Lekjaa]] (first vice president)|[[Kurt Okraku]]|Pierre-Alain Mounguengui|Bestine Ditabala|Feizal Sidat}}
+| leader_title3       = [[General secretary|General Secretary]]
+| leader_name3        = Samson Adamu
+| parent_organisation = [[FIFA]]
+| subsidiaries        = {{plainlist}}
+*[[UNAF]] (North Africa)
+*[[West African Football Union|WAFU]] (West Africa)
+*[[UNIFFAC]] (Central Africa)
+*[[CECAFA]] (East Africa)
+*[[COSAFA]] (Southern Africa)
+{{endplainlist}}
+| website             = {{official URL}}
+}}
+{{FIFA confederations}}
+The '''Confederation of African Football'''{{efn|{{langx|fr|link=yes|Confédération Africaine de Football}}; {{langx|ar|link=yes|الاتحاد الإفريقي لكرة القدم|al-Ittiḥād al-Ifrīqī li-Kurat al-Qadam|engvar=gb}}; {{langx|pt|link=yes|Confederação Africana de Futebol}}; {{langx|es|link=yes|Confederación Africana de Fútbol}}; {{langx|sw|link=yes|Shirikisho la Soka Afrika}}.}} ('''CAF''') is the governing body for [[association football]], [[beach soccer]], and [[futsal]] in [[Africa]]. It was officially established on 8 February 1957 at the Grand Hotel in [[Khartoum]], Sudan. The foundation followed a decision made at the 1954 [[FIFA Congress]] in [[Bern]], Switzerland, where Africa was formally recognised as a football confederation.<ref>{{cite book|last1=Alegi|first1=Peter|title=African Soccerscapes|date=2010|publisher=[[Ohio University Press]]|isbn=978-0-89680-278-0 |pages=65}}</ref><ref>{{Cite book |title=Historical Dictionary of Soccer|year=2011|isbn=9780810873957|page=21|last1=Dunmore|first1=Tom |publisher=Bloomsbury Publishing USA }}</ref><ref>{{cite web|title=History of CAF|url=https://www.cafonline.com/about-us/caf-history/|website=CAFOnline.com|access-date=27 July 2022}}</ref>
+
+Representing the African [[geography of association football|confederation]] of [[FIFA]], CAF organises runs and regulates [[national team]] and [[football team|club]] [[#CAF competitions|continental competitions]] annually or biennially such as the [[Africa Cup of Nations]] and [[Women's Africa Cup of Nations]], which they control the prize money and [[broadcasting of sports events|broadcast rights]] to. CAF has been allocated 9 spots at the [[FIFA World Cup]] from [[2026 FIFA World Cup|2026]] with an opportunity of a 10th spots through an intercontinental play-off involving 6 teams to decide the last 2 FIFA World Cup places (46+2).
+
+The headquarters of CAF were originally located within the offices of the Sudanese Football Association in Khartoum, before being relocated to a site near [[Cairo]], Egypt, following a fire. Youssef Mohamad served as the organisation’s first general secretary, and [[Abdel Aziz Abdallah Salem]] was its first [[List of presidents of the Confederation of African Football|president]]. The current president, [[Patrice Motsepe]] of [[South Africa]], was first elected unopposed on 12 March 2021 in elections held in [[Rabat]], Morocco.<ref>{{Cite web|title=CAF president|url=https://www.cafonline.com/about-us/caf-president/|website=CAFOnline.com|access-date=12 March 2021}}</ref><ref name="CAFEC">{{Cite press release|title=Dr. Patrice Motsepe elected 7th CAF President unopposed in Rabat|url=https://www.cafonline.com/news-center/news/dr-patrice-motsepe-elected-7th-caf-president-unopposed-in-rabat|url-status=dead|archive-url=https://web.archive.org/web/20210312125807/https://www.cafonline.com/news-center/news/dr-patrice-motsepe-elected-7th-caf-president-unopposed-in-rabat|archive-date=12 March 2021|website=CAFOnline.com|access-date=13 March 2021}}</ref>
+
+==History==
+{{Main|History of CAF}}
+
+==Anthem==
+CAF launched a competition for all African composers to create its [[anthem]] without lyrics to reflect the cultural patrimony and the [[music of Africa]] on 18 September 2007.<ref>{{cite web|title=Competition for the CAF's anthem|url=http://www.cafonline.com/index.php?lng=1&module=media&idrub=94637&idnews=82041|url-status=dead|archive-url=https://web.archive.org/web/20090116020542/http://www.cafonline.com/index.php?lng=1&module=media&idrub=94637&idnews=82041|archive-date=16 January 2009|website=CAFOnline.com|date=18 September 2007|access-date=13 November 2008}}</ref>
+
+==Leadership==
+{|class="wikitable"
+|-
+!Name
+!Position
+|-
+|{{flagicon|South Africa}} [[Patrice Motsepe]]
+|President
+|-
+|{{flagicon|Morocco }} [[Fouzi Lekjaa]]
+|1st Vice President
+|-
+|{{flagicon|Ghana}} [[Kurt Okraku]]
+|2nd Vice President
+|-
+|{{flagicon|Gabon}} Pierre-Alain Mounguengui 
+|3rd Vice President 
+|-
+|{{flagicon|DRC}} Bestine Ditabala 
+|4th Vice President 
+|-
+|{{flagicon|Mozambique}} Feizal Sidat
+|5th Vice President
+|-
+|{{flagicon|Nigeria}} Samson Adamu
+|Acting General Secretary
+|-
+|{{flagicon|Ghana}} [[Frederick Acheampong]]
+|General Coordinator
+|}
+Sources:<ref>{{cite web|url=http://www.fifa.com/about-fifa/associations/CAF/|title=Inside FIFA|website=Fifa.com|access-date=2026-06-14}}</ref><ref>{{Cite web|url=https://www.cafonline.com/inside-caf/about-us/organization/executive-committee/|title=Executive Committee|website=Cafonline.com|access-date=14 June 2026}}</ref><ref>{{Cite news |last=Eludini |first=Tunde |date=2026-03-29 |title=CAF appoints Nigeria&#8217;s Samson Adamu as Acting Secretary General |url=https://www.premiumtimesng.com/sports/football/867653-caf-appoints-nigerias-samson-adamu-as-acting-secretary-general.html |access-date=2026-04-14 |language=en-GB |issn=2360-7688|newspaper=[[Premium Times]]}}</ref><ref>{{Cite news |title=Nigeria’s Samson Adamu Steps in As Acting General Secretary of CAF|url=https://www.thisdaylive.com/2026/03/29/nigerias-samson-adamu-steps-in-as-acting-general-secretary-of-caf/ |access-date=2026-04-14 |language=en-US|newspaper=[[This Day]]}}</ref><ref>{{Cite news |last=Nlebem |first=Anthony |date=2026-03-29 |title=CAF appoints Nigeria’s Samson Adamu as acting secretary general |url=https://businessday.ng/sports/article/caf-appoints-nigerias-samson-adamu-as-acting-secretary-general/ |location=Lagos, Nigeria|access-date=2026-04-14 |newspaper=[[BusinessDay (Nigeria)|BusinessDay]]|language=en-US}}</ref>
+
+==Members and zones==
+A total of 54 member associations are part of the Confederation of African Football.<ref name="Mem" /><ref>{{cite news | last=Nicholson | first=Paul | title=Motsepe rubberstamps pay rises for member association presidents as CAF reports $9m loss | work=Inside World Football | date=22 October 2024 | url=https://www.insideworldfootball.com/2024/10/22/motsepe-rubberstamps-pay-rises-member-association-presidents-caf-reports-9m-loss/ | access-date=19 November 2024}}</ref>
+[[File:Carte Afrique CAF.png|thumb|African regional federations
+{{legend|#8fbc8f|[[UNAF]] (North Africa)}}
+{{legend|#ffd700|[[West African Football Union|WAFU]] (West Africa)}}
+{{legend|#db7093|[[UNIFFAC]] (Central Africa)}}
+{{legend|#4682b4|[[CECAFA]] (East Africa)}}
+{{legend|#deb887|[[COSAFA]] (Southern Africa)}}]]
+{{Clear}}
+===Members===
+{| class="wikitable sortable" style="text-align:center"
+! [[List of FIFA country codes|{{tooltip|Code|List of FIFA country codes}}]] !! Association !! National teams !! Founded !! FIFA affiliation !! CAF affiliation !! Regional affiliation !! [[International Olympic Committee|IOC member]]
+|-
+!colspan=8|[[UNAF|Union of North African Football (UNAF)]] (5)
+|-
+| ALG ||style="text-align:left;"| {{fba|Algeria}} || {{flatlist|1={{Nft links (CAF)|Algeria|sublist_style=font-size:90%}}}} 
+| 1962 || 1964 || 1964 || 2005 || {{yes}}
+|-
+| EGY ||style="text-align:left;"| {{fba|Egypt}}{{efn|Member of [[UNAF]]. Withdrew on 19 November 2009 and rejoined in 2011.}} || {{flatlist|1={{Nft links (CAF)|Egypt|sublist_style=font-size:90%}}}}
+| 1921 || 1923 || 1957 || 2005 || {{yes}}
+|-
+| LBY ||style="text-align:left;"| {{fba|Libya}} || {{flatlist|1={{Nft links (CAF)|Libya|sublist_style=font-size:90%}}}}
+| 1962 || 1964 || 1965 || 2005 || {{yes}}
+|-
+| MAR ||style="text-align:left;"| {{fba|Morocco}} || {{flatlist|1={{Nft links (CAF)|Morocco|sublist_style=font-size:90%}}}}
+| 1955 || 1960 || 1960 || 2005 || {{yes}}
+|-
+| TUN ||style="text-align:left;"| {{fba|Tunisia}} || {{flatlist|1={{Nft links (CAF)|Tunisia|sublist_style=font-size:90%}}}}
+| 1957 || 1960 || 1960 || 2005 || {{yes}}
+|-
+!colspan=8|[[West African Football Union|West African Football Union (WAFU)]] (16)
+|-
+| BEN ||style="text-align:left;"| {{fba|Benin}} || {{flatlist|1={{Nft links (CAF)|Benin|sublist_style=font-size:90%}}}}
+| 1962 || 1964 || 1963 || 1975 || {{yes}}
+|-
+| BFA ||style="text-align:left;"| {{fba|Burkina Faso}} || {{flatlist|1={{Nft links (CAF)|Burkina Faso|sublist_style=font-size:90%}}}}
+| 1960 || 1964 || 1964 || 1975 || {{yes}}
+|-
+| CPV ||style="text-align:left;"| {{fba|Cape Verde}} || {{flatlist|1={{Nft links (CAF)|Cape Verde|sublist_style=font-size:90%}}}}
+| 1982 || 1986 || 1986 || 1975 || {{yes}}
+|-
+| GAM ||style="text-align:left;"| {{fba|Gambia}} || {{flatlist|1={{Nft links (CAF)|Gambia|sublist_style=font-size:90%}}}}
+| 1952 || 1968 || 1966 || 1975 || {{yes}}
+|-
+| GHA ||style="text-align:left;"| {{fba|Ghana}} || {{flatlist|1={{Nft links (CAF)|Ghana|sublist_style=font-size:90%}}}}
+| 1935 || 1948 || 1960 || 1975 || {{yes}}
+|-
+| GUI ||style="text-align:left;"| {{fba|Guinea}} || {{flatlist|1={{Nft links (CAF)|Guinea|sublist_style=font-size:90%}}}}
+| 1960 || 1962 || 1962 || 1975 || {{yes}}
+|-
+| GNB ||style="text-align:left;"| {{fba|Guinea-Bissau}} || {{flatlist|1={{Nft links (CAF)|Guinea-Bissau|sublist_style=font-size:90%}}}}
+| 1974 || 1986 || 1986 || 1975 || {{yes}}
+|-
+| CIV ||style="text-align:left;"| {{fba|Ivory Coast}} || {{flatlist|1={{Nft links (CAF)|Ivory Coast|sublist_style=font-size:90%}}}}
+| 1960 || 1964 || 1965 || 1975 || {{yes}}
+|-
+| LBR ||style="text-align:left;"| {{fba|Liberia}} || {{flatlist|1={{Nft links (CAF)|Liberia|sublist_style=font-size:90%}}}}
+| 1936 || 1964 || 1962 || 1975 || {{yes}}
+|-
+| MLI ||style="text-align:left;"| {{fba|Mali}} || {{flatlist|1={{Nft links (CAF)|Mali|sublist_style=font-size:90%}}}}
+| 1960 || 1964 || 1963 || 1975 || {{yes}}
+|-
+| MTN ||style="text-align:left;"| {{fba|Mauritania}} || {{flatlist|1={{Nft links (CAF)|Mauritania|sublist_style=font-size:90%}}}}
+| 1961 || 1970 || 1976 || 1975 || {{yes}}
+|-
+| NIG ||style="text-align:left;"| {{fba|Niger}} || {{flatlist|1={{Nft links (CAF)|Niger|sublist_style=font-size:90%}}}}
+| 1962 || 1964 || 1965 || 1975 || {{yes}}
+|-
+| NGA ||style="text-align:left;"| {{fba|Nigeria}} || {{flatlist|1={{Nft links (CAF)|Nigeria|sublist_style=font-size:90%}}}}
+| 1945 || 1960 || 1959 || 1975 || {{yes}}
+|-
+| SEN ||style="text-align:left;"| {{fba|Senegal}} || {{flatlist|1={{Nft links (CAF)|Senegal|sublist_style=font-size:90%}}}}
+| 1960 || 1964 || 1963 || 1975 || {{yes}}
+|-
+| SLE ||style="text-align:left;"| {{fba|Sierra Leone}} || {{flatlist|1={{Nft links (CAF)|Sierra Leone|sublist_style=font-size:90%}}}}
+| 1960 || 1960 || 1967 || 1975 || {{yes}}
+|-
+| TOG ||style="text-align:left;"| {{fba|Togo}} || {{flatlist|1={{Nft links (CAF)|Togo|sublist_style=font-size:90%}}}}
+| 1960 || 1964 || 1963 || 1975 || {{yes}}
+|-
+!colspan=8|[[UNIFFAC|Central African Football Federations' Union (UNIFFAC)]] (8)
+|-
+| CMR ||style="text-align:left;"| {{fba|Cameroon}} || {{flatlist|1={{Nft links (CAF)|Cameroon|sublist_style=font-size:90%}}}}
+| 1959 || 1964 || 1963 || 1978 || {{yes}}
+|-
+| CTA ||style="text-align:left;"| {{fba|Central African Republic}} || {{flatlist|1={{Nft links (CAF)|Central African Republic|sublist_style=font-size:90%}}}}
+| 1961 || 1964 || 1968 || 1978 || {{yes}}
+|-
+| CHA ||style="text-align:left;"| {{fba|Chad}} || {{flatlist|1={{Nft links (CAF)|Chad|sublist_style=font-size:90%}}}}
+| 1962 || 1964 || 1964 || 1978 || {{yes}}
+|-
+| CGO ||style="text-align:left;"| {{fba|Congo}} || {{flatlist|1={{Nft links (CAF)|Congo|sublist_style=font-size:90%}}}}
+| 1962 || 1964 || 1965 || 1978 || {{yes}}
+|-
+| COD ||style="text-align:left;"| {{fba|DR Congo}} || {{flatlist|1={{Nft links (CAF)|DR Congo|sublist_style=font-size:90%}}}}
+| 1919 || 1964 || 1964 || 1978 || {{yes}}
+|-
+| EQG ||style="text-align:left;"| {{fba|Equatorial Guinea}} || {{flatlist|1={{Nft links (CAF)|Equatorial Guinea|sublist_style=font-size:90%}}}}
+| 1957 || 1986 || 1986 || 1978 || {{yes}}
+|-
+| GAB ||style="text-align:left;"| {{fba|Gabon}} || {{flatlist|1={{Nft links (CAF)|Gabon|sublist_style=font-size:90%}}}}
+| 1962 || 1966 || 1968 || 1978 || {{yes}}
+|-
+| STP ||style="text-align:left;"| {{fba|São Tomé and Príncipe}} || {{flatlist|1={{Nft links (CAF)|São Tomé and Príncipe|sublist_style=font-size:90%}}}}
+| 1975 || 1986 || 1986 || 1978 || {{yes}}
+|-
+!colspan=8|[[CECAFA|Council for East and Central Africa Football Associations (CECAFA)]] (11)
+|-
+| BDI ||style="text-align:left;"| {{fba|Burundi}} || {{flatlist|1={{Nft links (CAF)|Burundi|sublist_style=font-size:90%}}}}
+| 1948 || 1972 || 1972 || 1994 || {{yes}}
+|-
+| DJI ||style="text-align:left;"| {{fba|Djibouti}} || {{flatlist|1={{Nft links (CAF)|Djibouti|sublist_style=font-size:90%}}}}
+| 1979 || 1994 || 1994 || 1994 || {{yes}}
+|-
+| ERI ||style="text-align:left;"| {{fba|Eritrea}} || {{flatlist|1={{Nft links (CAF)|Eritrea|sublist_style=font-size:90%}}}}
+| 1996 || 1998 || 1998 || 1973 || {{yes}}
+|-
+| ETH ||style="text-align:left;"| {{fba|Ethiopia}} || {{flatlist|1={{Nft links (CAF)|Ethiopia|sublist_style=font-size:90%}}}}
+| 1943 || 1952 || 1957 || 1983 || {{yes}}
+|-
+| KEN ||style="text-align:left;"| {{fba|Kenya}} || {{flatlist|1={{Nft links (CAF)|Kenya|sublist_style=font-size:90%}}}}
+| 1960 || 1960 || 1961 || 1973 || {{yes}}
+|-
+| RWA ||style="text-align:left;"| {{fba|Rwanda}} || {{flatlist|1={{Nft links (CAF)|Rwanda|sublist_style=font-size:90%}}}}
+| 1975 || 1978 || 1976 || 1995 || {{yes}}
+|-
+| SOM ||style="text-align:left;"| {{fba|Somalia}} || {{flatlist|1={{Nft links (CAF)|Somalia|sublist_style=font-size:90%}}}}
+| 1951 || 1962 || 1968 || 1973 || {{yes}}
+|-
+| SSD ||style="text-align:left;"| {{fba|South Sudan}} || {{flatlist|1={{Nft links (CAF)|South Sudan|sublist_style=font-size:90%}}}}
+| 2011 || 2012 || 2012 || 2012 || {{yes}}
+|-
+| SDN ||style="text-align:left;"| {{fba|Sudan}} || {{flatlist|1={{Nft links (CAF)|Sudan|sublist_style=font-size:90%}}}}
+| 1936 || 1948 || 1957 || 1975 || {{yes}}
+|-
+| TAN ||style="text-align:left;"| {{fba|United Republic of Tanzania}} || {{flatlist|1={{Nft links (CAF)|Tanzania|sublist_style=font-size:90%}}}}
+| 1945 || 1964 || 1965 || 1973 || {{yes}}
+|-
+| UGA ||style="text-align:left;"| {{fba|Uganda}} || {{flatlist|1={{Nft links (CAF)|Uganda|sublist_style=font-size:90%}}}}
+| 1924 || 1960 || 1961 || 1973 || {{yes}}
+|-
+!colspan=8|[[COSAFA|Council of Southern Africa Football Associations (COSAFA)]] (14)
+|-
+| ANG ||style="text-align:left;"| {{fba|Angola}} || {{flatlist|1={{Nft links (CAF)|Angola|sublist_style=font-size:90%}}}}
+| 1979 || 1980 || 1980 || 1997 || {{yes}}
+|-
+| BOT ||style="text-align:left;"| {{fba|Botswana}} || {{flatlist|1={{Nft links (CAF)|Botswana|sublist_style=font-size:90%}}}}
+| 1970 || 1978 || 1976 || 1997 || {{yes}}
+|-
+| COM ||style="text-align:left;"| {{fba|Comoros}} || {{flatlist|1={{Nft links (CAF)|Comoros|sublist_style=font-size:90%}}}}
+| 1979 || 2005 || 2003 || 2007 || {{yes}}
+|-
+| SWZ ||style="text-align:left;"| {{fba|Eswatini}} || {{flatlist|1={{Nft links (CAF)|Eswatini|sublist_style=font-size:90%}}}}
+| 1968 || 1978 || 1976 || 1997 || {{yes}}
+|-
+| LES ||style="text-align:left;"| {{fba|Lesotho}} || {{flatlist|1={{Nft links (CAF)|Lesotho|sublist_style=font-size:90%}}}}
+| 1932 || 1964 || 1963 || 1997 || {{yes}}
+|-
+| MAD ||style="text-align:left;"| {{fba|Madagascar}} || {{flatlist|1={{Nft links (CAF)|Madagascar|sublist_style=font-size:90%}}}}
+| 1961 || 1964 || 1963 || 2000 || {{yes}}
+|-
+| MWI ||style="text-align:left;"| {{fba|Malawi}} || {{flatlist|1={{Nft links (CAF)|Malawi|sublist_style=font-size:90%}}}}
+| 1966 || 1968 || 1974 || 1997 || {{yes}}
+|-
+| MRI ||style="text-align:left;"| {{fba|Mauritius}} || {{flatlist|1={{Nft links (CAF)|Mauritius|sublist_style=font-size:90%}}}}
+| 1952 || 1964 || 1965 || 2000 || {{yes}}
+|-
+| MOZ ||style="text-align:left;"| {{fba|Mozambique}} || {{flatlist|1={{Nft links (CAF)|Mozambique|sublist_style=font-size:90%}}}}
+| 1975 || 1980 || 1978 || 1997 || {{yes}}
+|-
+| NAM ||style="text-align:left;"| {{fba|Namibia}} || {{flatlist|1={{Nft links (CAF)|Namibia|sublist_style=font-size:90%}}}}
+| 1990 || 1992 || 1992 || 1997 || {{yes}}
+|-
+| SEY ||style="text-align:left;"| {{fba|Seychelles}} || {{flatlist|1={{Nft links (CAF)|Seychelles|sublist_style=font-size:90%}}}}
+| 1979 || 1986 || 1986 || 2000 || {{yes}}
+|-
+| RSA ||style="text-align:left;"| {{fba|South Africa}}{{efn|Excluded from CAF and from the [[1957 African Cup of Nations]] due to [[apartheid]].}} || {{flatlist|1={{Nft links (CAF)|South Africa|sublist_style=font-size:90%}}}}
+| 1892 || 1992 || 1992 || 1997 || {{yes}}
+|-
+| ZAM ||style="text-align:left;"| {{fba|Zambia}} || {{flatlist|1={{Nft links (CAF)|Zambia|sublist_style=font-size:90%}}}}
+| 1929 || 1964 || 1964 || 1997 || {{yes}}
+|-
+| ZIM ||style="text-align:left;"| {{fba|Zimbabwe}} || {{flatlist|1={{Nft links (CAF)|Zimbabwe|sublist_style=font-size:90%}}}}
+| 1892 || 1965 || 1980 || 1997 || {{yes}}
+|-
+!colspan=8|Non-regional members (2)
+|-
+| REU ||style="text-align:left;"| {{fba|Réunion}}{{efn|name=AM}} || {{flatlist|1={{Nft links (CAF)|Réunion|sublist_style=font-size:90%}}}}
+| 1956 || || 1992 || || {{no}}
+|-
+| ZAN ||style="text-align:left;"| {{fba|Zanzibar}}{{efn|name=AM|Associate member, not part of [[FIFA]]. Zanzibar held full membership for four months in 2017, when its status was changed after CAF admitted its membership was an error.<ref>{{cite web|last=Gleeson|first=Mark|date=21 July 2017|title=Zanzibar loses Caf membership in embarrassing U-turn|url=https://www.bbc.co.uk/sport/football/40682462|website=[[BBC Sport]]|access-date=31 May 2018}}</ref> However, Zanzibar is a full-member of [[CECAFA]]. Réunion is an associate member of [[COSAFA]]<ref>{{Cite web|url=https://cosafa.com/aboutus/|title=ABOUT US|website=Cosafa.com|date=12 June 2026|access-date=14 June 2026}}</ref>.}} || {{flatlist|1={{Nft links (CAF)|Zanzibar|sublist_style=font-size:90%}}}}
+| 1926 || || 2004 || 1973 || {{no}}
+|}
+
+Additionally, there are territories located in Africa which are not affiliated with CAF or any other confederation to any extent.
+
+* {{fba|Mayotte|local}}
+* {{fba|Chagos Islands}} (''[[British Indian Ocean Territory]]'')
+
+Some African states with [[List of states with limited recognition|limited or no international recognition]] have official national teams, but none have been considered for CAF membership. Instead, they are affiliated with organisations such as [[Confederation of Independent Football Associations|CONIFA]]. Somaliland is not a member of CONIFA after leaving in 2010s and is a candidate to join [[FIFA]] after its recognition in the coming years.
+
+* {{fba|Somaliland}} FIFA code: '''SMD'''
+* {{fba|Western Sahara|name=Sahrawi Arab Democratic Republic}}
+
+==Competitions==
+{{See also|List of association football competitions|FIFA International Match Calendar}}
+
+===CAF competitions===
+{{col-begin}}
+{{col-break}}
+'''National teams:'''
+;Men
+*[[Africa Cup of Nations]]
+*[[African Nations League]]
+*[[U-23 Africa Cup of Nations]]
+*[[U-20 Africa Cup of Nations]]
+*[[U-17 Africa Cup of Nations]]
+*[[CAF African Schools Football Championship#Winners|CAF African Schools U15 Boy's]]
+*[[Futsal Africa Cup of Nations]]
+*African Youth Olympic Futsal Qualifying Tournament
+*[[Beach Soccer Africa Cup of Nations]]
+;Women
+*[[Women's Africa Cup of Nations]]
+*[[African U-20 Women's World Cup qualification]]
+*[[African U-17 Women's World Cup qualification]]
+*[[CAF African Schools Football Championship#Winners|CAF African Schools U15 Girl's]]
+*[[Women's Futsal Africa Cup of Nations]]
+;''Defunct''
+*[[African Nations Championship]]
+{{col-break}}
+
+'''Clubs:'''
+*[[CAF Super Cup]]
+*[[CAF Champions League]]
+*[[CAF Confederation Cup]]
+*[[CAF Women's Champions League]]
+*CAF U-20 Women's Champions League
+;''Defunct''
+*''[[African Cup Winners' Cup]]''
+*''[[CAF Cup]]''
+*''[[African Football League]]''
+{{col-break}}
+
+'''Regional:'''
+*[[CECAFA Cup]]
+*[[WAFU Nations Cup]]
+*[[COSAFA Cup]]
+*[[CEMAC Cup]]
+*[[UNIFFAC Cup]] (U-17)
+*[[UNAF U-23 Tournament]]
+;''Defunct''
+*''[[Amilcar Cabral Cup]]''
+*''[[CEMAC Cup]]''
+{{col-break}}
+
+'''Inter Continental:'''
+;''Defunct''
+*''[[Afro-Asian Cup of Nations]]''
+*''[[Afro-Asian Club Championship]]''
+*''[[UEFA–CAF Meridian Cup]]''
+{{col-end}}
+
+===International===
+Shortly after formation, CAF organised the [[Africa Cup of Nations]] (abbreviated AFCON) in 1957 and it has since become its flagship competition. Faced with undisclosed decline in popularity of local competitions and the mass exodus of homegrown footballers to Europe, Asia and the Americas in the 1990s and early 2000s, CAF launched the [[African Nations Championship]] (alternatively, though not widely used, the Championship of African Nations (CHAN)) on 11 September 2007 and began organisation two years later, to address this issue. CAF also organises qualification tournaments/competitions for the [[FIFA U-20 World Cup]] and the [[FIFA U-17 World Cup]] for its member associations; both of which initially began on a home-and-away [[two-legged tie|two-legged]] basis but has since 1995 been organised in appointed host countries as respectively the [[U-20 Africa Cup of Nations|Under-20]] and [[U-17 Africa Cup of Nations]].
+
+For [[women's association football|women's football]] operates competitions which currently serve as qualification tournaments for the related FIFA-organised tournaments which launched at the exact same year they began formation. The flagship African women's football competition/tournament is the [[Women's Africa Cup of Nations]], which launched in 1991 as the ''African Women's Championship'' and was known in the mass media between 2015 and 2021 as the ''Africa/African Women/Women's Cup of Nations'', which currently qualifies 4 teams to the [[FIFA Women's World Cup]]. CAF also organises qualification matches for "promising future female footballers" at both the [[African U-20 Women's World Cup qualification|Under-20]] and [[African U-17 Women's World Cup qualification|Under-17 levels]], launched in 2002 and 2008 respectively, both of which crowns no champions but instead qualifies 2 teams to compete at the [[FIFA U-20 Women's World Cup]] and the [[FIFA U-17 Women's World Cup]] respectively.
+
+===Club===
+For African clubs, CAF runs the [[CAF Champions League|CAF Men's]] and [[CAF Women's Champions League|Women's Champions League]], the [[CAF Confederation Cup]], the [[CAF Super Cup]] and the African Schools Football Championship for both males and females. First held in 1964 as the ''African Cup of Champions Clubs'' (simply known sometimes as the '''African Cup''') and rebranded in 1997 as the CAF Champions League, this  football club competition currently features the champions of top-division leagues of CAF member associations and the runners-up teams of the league classifications of member associations the top 12 ranked national associations as documented by the [[CAF 5-year ranking]] system.
+
+A currently-former competition, the [[African Cup Winners' Cup]], commenced in 1975 for national cup winners of member associations and a third currently-former competition, the [[CAF Cup]], launched in 1992 for African teams who finished below the top 2 positions of the league classifications of member associations and haven't met any criteria for qualification to any CAF competition. CAF decided to merge these two competitions together to form the current second-tier CAF Confederation Cup in 2004, and it currently incorporates the participation of national cup winners from the Cup Winners' Cup, whiles maintaining the format of the participation of teams who finished 3rd in the top-division league classifications of the 12 highest-ranked member associations as documented by the CAF 5-Year Ranking system from the CAF Cup. It is also ranked below the CAF Champions League.<ref>{{cite web|title=Confederation Cup|url=http://www.cafonline.com/index.php?lng=1&opt=44&cmpt=19&titre=Past%20Competitions|url-status=dead|archive-url=https://web.archive.org/web/20090116025408/http://www.cafonline.com/index.php?lng=1&opt=44&cmpt=19&titre=Past%20Competitions|archive-date=16 January 2009|website=CAFOnline.com|access-date=17 December 2008}}</ref>
+
+The winners of the CAF Champions League play the winners of the African Cup Winners' Cup until 2004 and the CAF Confederation Cup thereafter in the [[CAF Super Cup]] which was launched in 1993.
+
+The [[Afro-Asian Club Championship]] was an annual football match jointly organised between CAF and the [[Asian Football Confederation]] (AFC) between the winners of the CAF Champions League and the winners of the [[AFC Champions League]] between 1987 and 1999.
+
+The CAF Women's Champions League was announced and approved on 30 June 2020, launched on 12 September that year and began contesting the following year, i.e. 2021.<ref>{{Cite web|date=3 November 2021|title=African women's football primed for new chapter|url=https://www.fifa.com/news/african-womens-football-primed-for-new-chapter|website=[[FIFA|FIFA.com]]|access-date=6 November 2021}}</ref><ref>{{Cite web|date=5 July 2021|title=CAF Women's Champions League takes one giant leap towards realization|url=https://www.cafonline.com/caf-women-champions-league/news/caf-women-s-champions-league-takes-one-giant-leap-towards-realization|url-status=dead|archive-url=https://web.archive.org/web/20211106181522/https://www.cafonline.com/caf-women-champions-league/news/caf-women-s-champions-league-takes-one-giant-leap-towards-realization|archive-date=6 November 2021|website=CAFOnline.com|access-date=6 July 2021}}</ref> It features women's national league and cup winners nvolving the champions of CAF's sub-confederation qualification tournaments for women's club teams.
+
+===Current title holders===
+{{See also|Portal:Current events/Sports|{{CURRENTYEAR}} in association football|{{CURRENTYEAR}} in sports|FIFA International Match Calendar}}
+{{For|events postponed or cancelled because of the COVID-19 pandemic|Impact of the COVID-19 pandemic on sports}}
+
+{| class="wikitable sortable"
+|-
+! Competition
+| width="1%" rowspan=1 style="background-color:#ffffff;"|
+! Year
+! Champions
+! Title
+! Runners-up
+| width="1%" rowspan=1 style="background-color:#ffffff;"|
+! Next edition
+|-
+! colspan=10|Men's national teams
+|-
+| [[Africa Cup of Nations]]
+| width="1%" rowspan=10 style="background-color:#ffffff;"|
+| [[2025 Africa Cup of Nations|2025]] <small>([[2025 Africa Cup of Nations final|final]])</small>
+| {{fb|Morocco}}
+| 2nd
+| {{fb|Senegal}}
+| width="1%" rowspan=10 style="background-color:#ffffff;"|
+| [[2027 Africa Cup of Nations|2027]] <small>([[2027 Africa Cup of Nations final|final]])</small>
+|-
+| [[U-23 Africa Cup of Nations|U-23 Cup of Nations]]
+| [[2023 U-23 Africa Cup of Nations|2023]]
+| {{fbu|23|Morocco}}
+| 1st
+| {{fbu|23|Egypt}}
+| [[2027 U-23 Africa Cup of Nations|2027]]
+|-
+| [[Football at the African Games|Men's African Games Tournament]]
+| [[Football at the 2023 African Games – Men's tournament|2023]]
+| {{fbu|20|GHA}}
+| 1st
+| {{fbu|20|UGA}}
+| [[Football at the 2027 African Games – Men's tournament|2027]]
+|-
+| [[U-20 Africa Cup of Nations|U-20 Cup of Nations]]{{efn|This tournament was initially formed as a home-and-away qualification tournament for U-21 African nations in 1977. Since 1979, a proper tournament was launched as the ''African Youth Championship'' and used these branded titles until 2015: ''African U-21 Cup of Nations'' until 1989, ''African U-21 Championship'' until 2003 and ''African U-20 Championship'' until 2015. The current name was adopted in 2017.}}
+| [[2025 U-20 Africa Cup of Nations|2025]]
+| {{fbu|20|RSA}}
+| 1st
+| {{fbu|20|MAR}}
+| [[2027 U-20 Africa Cup of Nations|2027]]
+|-
+| [[U-17 Africa Cup of Nations|U-17 Cup of Nations]]{{efn|From 1995 to 2015, the tournament was known as the ''African U-17 Championship''. The current name was adopted in 2017.}}
+| [[2025 U-17 Africa Cup of Nations|2025]]
+| {{fbu|17|SEN}}
+| 2nd
+| {{fbu|17|TAN}}
+| [[2026 U-17 Africa Cup of Nations|2026]]
+|-
+| [[CAF African Schools Football Championship#Winners|CAF African Schools U15 Boy's]]
+| [[2026 CAF African Schools Football Championship Boy's|2026]]
+| {{fbu|15|SEN}}
+| 1st
+| {{fbu|17|UGA}}
+| [[2027 CAF African Schools Football Championship Boy's|2027]]
+|-
+| [[Futsal Africa Cup of Nations|Futsal Cup of Nations]]
+| [[2024 Africa Futsal Cup of Nations|2024]]
+| {{futsal|MAR}}
+| 3rd
+| {{futsal|ANG}}
+| [[2026 Futsal Africa Cup of Nations|2026]]
+|-
+| [[Youth Olympic Futsal Qualifying Tournament]]
+| [[2018 African Youth Olympic Futsal Qualifying Tournament|2018]]
+| {{fsu|18|EGY}}
+| 1st
+| {{fsu|18|ANG}}
+| [[2026 African Youth Olympic Futsal Qualifying Tournament|2026]]
+|-
+| [[Beach Soccer Africa Cup of Nations|Beach Soccer Cup of Nations]]
+| [[2024 Africa Beach Soccer Cup of Nations|2024]]
+| {{beachsoccer|SEN}}
+| 8th
+| {{beachsoccer|MTN}}
+| [[2026 Africa Beach Soccer Cup of Nations|2026]]
+|-
+! colspan=10|Women's national teams
+|-
+| [[Women's Africa Cup of Nations]]
+| width="1%" rowspan=7 style="background-color:#ffffff;"|
+| [[2024 Women's Africa Cup of Nations|2024]] <small>([[2024 Women's Africa Cup of Nations final|final]])</small>
+| {{fbw|NGA}}
+| 10th
+| {{fbw|MAR}}
+| width="1%" rowspan=7 style="background-color:#ffffff;"|
+| [[2026 Women's Africa Cup of Nations|2026]] <small>([[2024 Women's Africa Cup of Nations Final|final]])</small>
+|-
+| [[Football at the African Games|Women's African Games Tournament]]
+| [[Football at the 2023 African Games – Women's tournament|2023]]
+| {{fbw|GHA}}
+| 2nd
+| {{fbw|NGA}}
+| [[Football at the 2027 African Games – Women's tournament|2027]]
+|-
+| [[African U-20 Women's World Cup qualification]]
+| [[2024 African U-20 Women's World Cup qualification|2024]]
+| {{fbwu|20|CMR}}<br />{{fbwu|20|GHA}}<br />{{fbwu|20|MAR}}<br />{{fbwu|20|NGA}}
+| 1st<br />7th<br />1st<br />10th
+| {{fbwu|20|ETH}}<br />{{fbwu|20|SEN}}<br />{{fbwu|20|EGY}}<br />{{fbwu|20|Burundi}}
+| [[2026 African U-20 Women's World Cup qualification|2026]]
+|-
+| [[African U-17 Women's World Cup qualification]]
+| [[2025 African U-17 Women's World Cup qualification|2025]]
+| {{fbwu|17|CIV}}<br />{{fbwu|17|CMR}}<br />{{fbwu|17|NGA}}<br />{{fbwu|17|ZAM}}
+| 1st<br />3rd<br />8th<br />3rd
+| {{fbwu|17|GUI}}<br />{{fbwu|17|KEN}}<br />{{fbwu|17|ALG}}<br />{{fbwu|17|BEN}}
+| [[2026 African U-17 Women's World Cup qualification|2026]]
+|-
+|[[Women's Futsal Africa Cup of Nations]]
+|[[2025 Women's Futsal Africa Cup of Nations|2025]]
+|{{fsw|MAR}}
+|1st
+|{{fsw|TAN}}
+|''2029''
+|-
+| [[CAF African Schools Football Championship#Winners|CAF African Schools U15 Girl's]]
+| [[2026 CAF African Schools Football Championship Girl's|2026]]
+| {{fbwu|15|GHA}}
+| 2nd
+| {{fbwu|15|BFA}}
+| [[2027 CAF African Schools Football Championship Girl's|2027]]
+|-
+! colspan=10|Men's club teams
+|-
+| [[CAF Super Cup|Super Cup]]
+| width="1%" rowspan=4 style="background-color:#ffffff;"|
+| [[2025 CAF Super Cup|2025]]
+| {{fbaicon|EGY}} [[Pyramids FC]]
+| 1st
+| {{fbaicon|MAR}} [[RS Berkane]]
+| width="1%" rowspan=4 style="background-color:#ffffff;"|
+| [[2026 CAF Super Cup|2026]]
+|-
+| [[CAF Champions League|Champions League]]
+| {{Nowrap|[[2025–26 CAF Champions League|2025–26]] <small>([[2026 CAF Champions League final|final]])</small>}}
+| {{fbaicon|RSA}} [[Mamelodi Sundowns F.C.|Mamelodi Sundowns]]
+| 2nd
+| {{fbaicon|MAR}} [[AS FAR]]
+| {{Nowrap|[[2026–27 CAF Champions League|2026–27]] <small>([[2027 CAF Champions League final|final]])</small>}}
+|-
+| [[CAF Confederation Cup|Confederation Cup]]
+| [[2025–26 CAF Confederation Cup|2025–26]] <small>([[2026 CAF Confederation Cup final|final]])</small>
+| {{fbaicon|ALG}} [[USM Alger]]
+| 2nd
+| {{fbaicon|EGY}} [[Zamalek SC|Zamalek]]
+| {{Nowrap|[[2026–27 CAF Confederation Cup|2026–27]] <small>([[2027 CAF Confederation Cup final|final]])</small>}}
+|-
+| [[African Football League]]
+| [[2023 African Football League|2023]] <small>([[2023 African Football League final|final]])</small>
+| {{fbaicon|RSA}} [[Mamelodi Sundowns F.C.|Mamelodi Sundowns]]
+| 1st
+| {{fbaicon|MAR}} [[Wydad AC]]
+| {{Nowrap|[[2024–25 African Football League|2024–25]] <small>([[2024–25 African Football League final|final]])</small>}}
+|-
+
+! colspan=10|Women's club teams
+|-
+| [[CAF Women's Champions League|Women's Champions League]]
+| width="1%" rowspan=1 style="background-color:#ffffff;"|
+| [[2025 CAF Women's Champions League|2025]] <small>([[2025 CAF Women's Champions League final|final]])</small>
+| {{fbaicon|MAR}} [[AS FAR (women)|AS FAR]]
+| 2nd
+| {{fbaicon|CIV}} [[ASEC Mimosas (women)|ASEC Mimosas]]
+| width="1%" rowspan=1 style="background-color:#ffffff;"|
+| [[2026 CAF Women's Champions League|2025]] <small>([[2026 CAF Women's Champions League final|final]])</small>
+|}
+
+===Competition winners===
+{| class="wikitable sortable" style="font-size:95%"
+|-
+!rowspan=2|Nation
+!colspan=8|Men
+!colspan=3|Women
+!rowspan=2|Total
+|-
+![[Africa Cup of Nations|CAN]]
+![[African Nations Championship|CHAN]]
+![[U-23 Africa Cup of Nations|U-23s]]
+![[U-20 Africa Cup of Nations|U-20s]]
+![[U-17 Africa Cup of Nations|U-17s]]
+![[Futsal Africa Cup of Nations|Futsal]]
+![[Beach Soccer Africa Cup of Nations|Beach Soccer]]
+![[Football at the African Games|African Games]]
+![[Women's Africa Cup of Nations|WAFCON]]
+![[Football at the African Games|African Games]]
+![[Women's Futsal Africa Cup of Nations|Women's Futsal]]
+|-align=center
+|-style="background:lightgreen"
+|align=left|{{flagicon|NGR}} Nigeria||3||—||1||7||2|| – ||2||1||10||3||—||'''29'''
+|-align=center
+|-style="background:lightblue"
+|align=left|{{flagicon|EGY}} Egypt||7|| – ||1||4||1||3||—||2||—||—||—||'''18'''
+|-align=center
+|-style="background:Pink"
+|align=left|{{flagicon|CMR}} Cameroon||5||—||—||1||2||—||1||4||—||1||—||'''14'''
+|-align=center
+|-style="background:lightgreen"
+|align=left|{{flagicon|GHA}} Ghana||4||—||—||4||2||—||—||2||—||2||—||'''14'''
+|-align=center
+|-style="background:lightgreen"
+|align=left|{{flagicon|SEN}} Senegal||1||1||—||1||2||—||8||1||—||—||—||'''14'''
+|-align=center
+|-style="background:lightblue"
+|align=left|{{flagicon|MAR}} Morocco||2||3||1||1||1||3||—||—||—||—||—|1||'''12'''
+|-align=center
+|-style="background:lightgreen"
+|align=left|{{flagicon|CIV}} Ivory Coast||3||—||—||—||1||—||—||—||—||—||—||'''4'''
+|-align=center
+|-style="background:lightblue"
+|align=left|{{flagicon|ALG}} Algeria||2||—||—||1||—||—||—||1||—||—||—||'''4'''
+|-align=center
+|-style="background:Pink"
+|align=left|{{flagicon|DRC}} DR Congo||2||2||—||—||—||—||—||—||—||—||—||'''4'''
+|}
+
+==Sponsorship==
+In October 2004, South African telecommunications giant, [[MTN Group|MTN]], contracted a 4-year deal to sponsor CAF competitions worth US$12.5 million, which was the biggest sponsorship deal in African sporting history at that time.<ref>{{cite web|date=21 October 2004|title=CAF signs sponsorship deal|url=https://news.bbc.co.uk/sport1/hi/football/africa/3763112.stm|website=[[BBC Sport]]|access-date=14 February 2018}}</ref>
+
+CAF opened new sponsorship callouts when MTN's contract expired and French telecommunications giant [[Orange S.A.|Orange]] scooped it up in July 2009, signing an 8-year comprehensive long-term undisclosed deal to sponsor CAF competitions with a value of €100 million.<ref>{{cite web|date=28 July 2009|title=Orange signs deal to sponsor African soccer competitions|url=https://www.reuters.com/article/ozabs-soccer-africa-sponsor-20090728-idAFJOE56R0N320090728|website=[[Reuters]]|access-date=12 February 2018}}</ref>
+
+On 21 July 2016, French energy and petroleum giant, Total S.A., replaced Orange as the main sponsor with an 8-year sponsorship package from CAF for a value of €950 million<ref>{{cite news|date=9 November 2016|title=CAF reviews prize money, AFCON 2017 winner to pocket $4&nbsp;million|url=http://www.africanews.com/2016/11/09/caf-reviews-prize-money-afcon-2017-winner-to-pocket-4-million/|website=[[Africanews]]|access-date=14 February 2018}}</ref> to support its competitions.<ref>{{cite web|date=21 July 2016|title=Total to sponsor CAF competitions for the next eight years|url=http://www.africanews.com/2016/07/21/total-to-sponsor-caf-competitions-for-the-next-eight-years/|website=[[africanews]]|access-date=21 July 2016}}</ref> Total rebranded as [[TotalEnergies]] on 28 May 2021.<ref>{{Cite press release|date=28 May 2021|title=Total is Transforming and Becoming TotalEnergies|url=https://www.totalenergies.com/media/news/press-releases/total-transforming-and-becoming-totalenergies|publisher=[[TotalEnergies]]|access-date=29 May 2021}}</ref>
+
+The current main CAF sponsors are:
+*[[1xBet]]
+*[[TikTok]]
+*[[TotalEnergies]]
+*[[Orange S.A.|Orange]]
+
+==FIFA World Rankings==
+===Overview===
+{{col-begin}}
+{{col-break}}
+{{Sports rankings table|FIFA World Rankings|1|211|select=CAF
+|caption=FIFA Men's Rankings (as of INSERT_UPDATE_DATE)
+|style=white-space:nowrap
+|footer1= *Local rankings based on FIFA ranking points
+|selection_header = CAF*
+|rank_header=FIFA
+|change_header=+/-
+|team_header=National Team
+|points_header=Points
+}}
+{{col-break}}
+{{Sports rankings table|FIFA Women's World Rankings|1|211|select=CAF
+|caption=FIFA Women's Rankings (as of INSERT_UPDATE_DATE)
+|style=white-space:nowrap
+|footer1= *Local rankings based on FIFA ranking points
+|selection_header = CAF*
+|rank_header=FIFA
+|change_header=+/-
+|team_header=National Team
+|points_header=Points
+}}
+{{col-end}}
+
+===Historical leaders===
+====Men====
+{{col-begin}}
+{{col-break}}
+{| class="wikitable"
+|+ Top four teams at year-end<ref name="FIFA World Rankings"/>
+|-
+!Year
+!style="background-color:gold;" | First
+!style="background-color:silver;" | Second
+!style="background-color:#c96;" | Third
+!style="background-color:snow;" | Fourth
+|-
+| 1993
+| {{fb|Nigeria}}
+| {{fb|Cameroon}}
+| {{fb|Egypt}}
+| {{fb|Zambia|1964}}
+|-
+| 1994
+| {{fb|Nigeria}}
+| {{fb|Zambia|1964}}
+| {{fb|Egypt}}
+| {{fb|Ivory Coast}}
+|-
+| 1995
+| {{fb|Ivory Coast}}
+| {{fb|Tunisia|1959}}
+| {{fb|Egypt}}
+| {{fb|Zambia|1964}}
+|-
+| 1996
+| {{fb|South Africa}}
+| {{fb|Zambia}}
+| {{fb|Tunisia|1959}}
+| {{fb|Ghana}}
+|-
+| 1997
+| {{fb|Morocco}}
+| {{fb|Zambia}}
+| {{fb|Tunisia|1959}}
+| {{fb|South Africa}}
+|-
+| 1998
+| {{fb|Morocco}}
+| {{fb|Tunisia|1959}}
+| {{fb|South Africa}}
+| {{fb|Egypt}}
+|-
+| 1999
+| {{fb|Morocco}}
+| {{fb|South Africa}}
+| {{fb|Tunisia}}
+| {{fb|Zambia}}
+|-
+| 2000
+| {{fb|South Africa}}
+| {{fb|Tunisia}}
+| {{fb|Morocco}}
+| {{fb|Egypt}}
+|-
+| 2001
+| {{fb|Tunisia}}
+| {{fb|South Africa}}
+| {{fb|Morocco}}
+| {{fb|Cameroon}}
+|-
+| 2002
+| {{fb|Cameroon}}
+| {{fb|Senegal}}
+| {{fb|Nigeria}}
+| {{fb|South Africa}}
+|-
+| 2003
+| {{fb|Cameroon}}
+| {{fb|Egypt}}
+| {{fb|Senegal}}
+| {{fb|Nigeria}}
+|-
+| 2004
+| {{fb|Nigeria}}
+| {{fb|Cameroon}}
+| {{fb|Senegal}}
+| {{fb|Morocco}}
+|-
+| 2005
+| {{fb|Cameroon}}
+| {{fb|Nigeria}}
+| {{fb|Tunisia}}
+| {{fb|Senegal}}
+|-
+| 2006
+| {{fb|Nigeria}}
+| {{fb|Cameroon}}
+| {{fb|Ivory Coast}}
+| {{fb|Guinea}}
+|-
+| 2007
+| {{fb|Nigeria}}
+| {{fb|Cameroon}}
+| {{fb|Guinea}}
+| {{fb|Ivory Coast}}
+|-
+| 2008
+| {{fb|Cameroon}}
+| {{fb|Egypt}}
+| {{fb|Nigeria}}
+| {{fb|Ghana}}
+|-
+| 2009
+| {{fb|Cameroon}}
+| {{fb|Ivory Coast}}
+| {{fb|Nigeria}}
+| {{fb|Egypt}}
+|-
+| 2010
+| {{fb|Egypt}}
+| {{fb|Ghana}}
+| {{fb|Ivory Coast}}
+| {{fb|Nigeria}}
+|-
+| 2011
+| {{fb|Ivory Coast}}
+| {{fb|Ghana}}
+| {{fb|Algeria}}
+| {{fb|Egypt}}
+|-
+| 2012
+| {{fb|Ivory Coast}}
+| {{fb|Algeria}}
+| {{fb|Mali}}
+| {{fb|Ghana}}
+|-
+| 2013
+| {{fb|Ivory Coast}}
+| {{fb|Ghana}}
+| {{fb|Algeria}}
+| {{fb|Nigeria}}
+|-
+| 2014
+| {{fb|Algeria}}
+| {{fb|Tunisia}}
+| {{fb|Ivory Coast}}
+| {{fb|Senegal}}
+|-
+| 2015
+| {{fb|Ivory Coast}}
+| {{fb|Algeria}}
+| {{fb|Ghana}}
+| {{fb|Cape Verde}}
+|-
+| 2016
+| {{fb|Senegal}}
+| {{fb|Ivory Coast}}
+| {{fb|Tunisia}}
+| {{fb|Egypt}}
+|-
+| 2017
+| {{fb|Senegal}}
+| {{fb|Tunisia}}
+| {{fb|Egypt}}
+| {{fb|Congo DR}}
+|-
+| 2018
+| {{fb|Senegal}}
+| {{fb|Tunisia}}
+| {{fb|Morocco}}
+| {{fb|Nigeria}}
+|-
+| 2019
+| {{fb|Senegal}}
+| {{fb|Tunisia}}
+| {{fb|Nigeria}}
+| {{fb|Algeria}}
+|-
+| 2020
+| {{fb|Senegal}}
+| {{fb|Tunisia}}
+| {{fb|Algeria}}
+| {{fb|Morocco}}
+|-
+| 2021
+| {{fb|Senegal}}
+| {{fb|Morocco}}
+| {{fb|Tunisia}}
+| {{fb|Algeria}}
+|-
+| 2022 
+| {{fb|Morocco}} 
+| {{fb|Senegal}} 
+| {{fb|Tunisia}} 
+| {{fb|Cameroon}} 
+|-
+| 2023
+| {{fb|Morocco}} 
+| {{fb|Senegal}} 
+| {{fb|Tunisia}} 
+| {{fb|Algeria}}
+|-
+| 2024
+| {{fb|Morocco}} 
+| {{fb|Senegal}} 
+| {{fb|Egypt}} 
+| {{fb|Algeria}}
+|-
+| 2025
+| {{fb|Morocco}} 
+| {{fb|Senegal}} 
+| {{fb|Algeria}} 
+| {{fb|Egypt}}
+|}
+{{col-break}}
+;All time No. 1
+<timeline>
+ImageSize = width:160 height:1800
+PlotArea = left:40 right:0 bottom:10 top:10
+
+#Just short of the date the next version of the FIFA World Ranking will be released (dd/mm/yyyy)
+Define $enddate = 04/04/2024
+
+DateFormat = dd/mm/yyyy
+Period = from:08/08/1993 till:$enddate
+TimeAxis = orientation:vertical format:yyyy
+ScaleMajor = unit:year increment:1 start:1994
+
+#Colors for teams (typically derived from jersey's first colors)
+Colors =
+  id:Algeria     value:rgb(0.32, 0.66, 0.22) 
+  id:Cameroon    value:rgb(0,    0.39, 0.20) 
+  id:CapeVerde   value:rgb(0,    0.22, 0.58) 
+  id:Egypt       value:rgb(0.87, 0,    0) 
+  id:IvoryCoast  value:rgb(0.97, 0.47, 0)
+  id:Ghana       value:rgb(0,    0,    0) 
+  id:Morocco     value:rgb(0.73, 0.07, 0.10) 
+  id:Nigeria     value:rgb(0,    0.53, 0.32)
+  id:Senegal     value:rgb(0,    0.52, 0.22) 
+  id:SouthAfrica value:rgb(0.99, 0.71, 0.08) 
+  id:Tunisia     value:rgb(1,    1,    1) 
+  id:Zambia      value:rgb(0,    0.5,  0)
+
+#A line at the right side of the graph
+LineData =
+  from:08/08/1993 till:end atpos:65 color:black width:0.5
+
+#Setup text and color to use in the labeled bars
+Define $labelAlgeria     = text:"Algeria" color:Algeria
+Define $labelCameroon    = text:"Cameroon" color:Cameroon
+Define $labelCapeVerde   = text:"Cape Verde" color:CapeVerde
+Define $labelEgypt       = text:"Egypt" color:Egypt
+Define $labelIvoryCoast  = text:"Ivory Coast" color:IvoryCoast
+Define $labelGhana       = text:"Ghana" color:Ghana
+Define $labelMorocco     = text:"Morocco" color:Morocco
+Define $labelNigeria     = text:"Nigeria" color:Nigeria
+Define $labelSenegal     = text:"Senegal" color:Senegal
+Define $labelSouthAfrica = text:"South Africa" color:SouthAfrica
+Define $labelTunisia     = text:"Tunisia" color:Tunisia
+Define $labelZambia      = text:"Zambia" color:Zambia
+
+PlotData =
+  bar:Leaders width:26 mark:(line,black)
+
+  from:08/08/1993 till:25/07/1995 shift:(20,-5) $labelNigeria
+  from:25/07/1995 till:22/08/1995 shift:(20,-10) $labelTunisia
+  from:22/08/1995 till:19/09/1995 shift:(20,-5) $labelEgypt
+  from:19/09/1995 till:17/10/1995 shift:(20,-5) $labelNigeria
+  from:17/10/1995 till:21/11/1995 shift:(20,-5) $labelEgypt
+  from:21/11/1995 till:19/12/1995 shift:(20,-5) $labelTunisia
+  from:19/12/1995 till:24/01/1996 shift:(20,-5) $labelIvoryCoast
+  from:24/01/1996 till:21/02/1996 shift:(20,-5) $labelGhana
+  from:21/02/1996 till:22/05/1996 shift:(20,-5) $labelZambia
+  from:24/04/1996 till:22/05/1996 shift:(20,-5) color:Ghana width:11 text:"Ghana / Zambia"
+  from:22/05/1996 till:18/12/1996 shift:(20,-5) $labelZambia
+  from:18/12/1996 till:27/02/1997 shift:(20,-5) $labelSouthAfrica
+  from:27/02/1997 till:14/05/1997 shift:(20,-5) $labelZambia
+  from:14/05/1997 till:16/02/2000 shift:(20,-5) $labelMorocco
+  from:16/02/2000 till:18/07/2001 shift:(20,-5) $labelSouthAfrica
+  from:18/07/2001 till:13/02/2002 shift:(20,-5) $labelTunisia
+  from:13/02/2002 till:06/10/2004 shift:(20,-5) $labelCameroon
+  from:06/10/2004 till:15/06/2005 shift:(20,-5) $labelNigeria
+  from:15/06/2005 till:20/07/2005 shift:(20,-5) $labelCameroon
+  from:20/07/2005 till:12/09/2005 shift:(20,-5) $labelEgypt
+  from:12/09/2005 till:21/11/2005 shift:(20,-5) $labelCameroon
+  from:17/10/2005 till:21/11/2005 shift:(20,-5) color:Nigeria width:11 text:"Cameroon / Nigeria"
+  from:21/11/2005 till:15/02/2006 shift:(20,-5) $labelCameroon
+  from:15/02/2006 till:14/02/2007 shift:(20,-5) $labelNigeria
+  from:14/02/2007 till:19/09/2007 shift:(20,-5) $labelCameroon
+  from:19/09/2007 till:13/02/2008 shift:(20,-5) $labelNigeria
+  from:13/02/2008 till:04/06/2008 shift:(20,-5) $labelGhana
+  from:04/06/2008 till:01/07/2009 shift:(20,-5) $labelCameroon
+  from:01/07/2009 till:16/10/2009 shift:(20,-5) $labelIvoryCoast
+  from:16/10/2009 till:03/02/2010 shift:(20,-5) $labelCameroon
+  from:03/02/2010 till:02/02/2011 shift:(20,-5) $labelEgypt
+  from:02/02/2011 till:29/06/2011 shift:(20,-5) $labelGhana
+  from:29/06/2011 till:05/06/2014 shift:(20,-5) $labelIvoryCoast
+  from:05/06/2014 till:05/11/2015 shift:(20,-5) $labelAlgeria
+  from:05/11/2015 till:03/03/2016 shift:(20,-5) $labelIvoryCoast
+  from:03/03/2016 till:07/04/2016 shift:(20,-5) $labelCapeVerde
+  from:07/04/2016 till:15/09/2016 shift:(20,-5) $labelAlgeria
+  from:15/09/2016 till:24/11/2016 shift:(20,-5) $labelIvoryCoast
+  from:24/11/2016 till:09/02/2017 shift:(20,-5) $labelSenegal
+  from:09/02/2017 till:16/10/2017 shift:(20,-5) $labelEgypt
+  from:16/10/2017 till:23/11/2017 shift:(20,-5) $labelTunisia
+  from:23/11/2017 till:18/01/2018 shift:(20,-5) $labelSenegal
+  from:18/01/2018 till:20/09/2018 shift:(20,-5) $labelTunisia
+  from:16/08/2018 till:20/09/2018 shift:(20,-5) color:Senegal width:11 text:"Senegal / Tunisia"
+  from:20/09/2018 till:29/11/2018 shift:(20,-5) $labelTunisia
+  from:29/11/2018 till:22/12/2022 shift:(20,-5) $labelSenegal
+  from:22/12/2022 till:end shift:(20,-5) $labelMorocco
+</timeline>
+{{col-end}}
+
+====Women====
+{{col-begin}}
+{{col-break}}
+{| class="wikitable"
+|+ Top four teams at year-end<ref name="FIFA Women's World Rankings"/>
+|-
+!Year
+!style="background-color:gold;" | First
+!style="background-color:silver;" | Second
+!style="background-color:#c96;" | Third
+!style="background-color:snow;" | Fourth
+|-
+| 2003
+| {{fbw|Nigeria}}
+| {{fbw|Ghana}}
+| {{fbw|Morocco}}
+| {{fbw|South Africa}}
+|-
+| 2004
+| {{fbw|Nigeria}}
+| {{fbw|Ghana}}
+| {{fbw|Morocco}}
+| {{fbw|South Africa}}
+|-
+| 2005
+| {{fbw|Nigeria}}
+| {{fbw|Ghana}}
+| {{fbw|Egypt}}
+| {{fbw|South Africa}}
+|-
+| 2006
+| {{fbw|Nigeria}}
+| {{fbw|Ghana}}
+| {{fbw|Morocco}}
+| {{fbw|South Africa}}
+|-
+| 2007
+| {{fbw|Nigeria}}
+| {{fbw|Ghana}}
+| {{fbw|Eritrea}}
+| {{fbw|Algeria}}
+|-
+| 2008
+| {{fbw|Nigeria}}
+| {{fbw|Ghana}}
+| {{fbw|South Africa}}
+| {{fbw|Morocco}}
+|-
+| 2009
+| {{fbw|Nigeria}}
+| {{fbw|Ghana}}
+| {{fbw|South Africa}}
+| {{fbw|Algeria}}
+|-
+| 2010
+| {{fbw|Nigeria}}
+| {{fbw|Ghana}}
+| {{fbw|South Africa}}
+| {{fbw|Equatorial Guinea}}
+|-
+| 2011
+| {{fbw|Nigeria}}
+| {{fbw|Ghana}}
+| {{fbw|Equatorial Guinea}}
+| {{fbw|Cameroon}}
+|-
+| 2012
+| {{fbw|Nigeria}}
+| {{fbw|Cameroon}}
+| {{fbw|Ghana}}
+| {{fbw|Equatorial Guinea}}
+|-
+| 2013
+| {{fbw|Nigeria}}
+| {{fbw|Cameroon}}
+| {{fbw|Ghana}}
+| {{fbw|South Africa}}
+|-
+| 2014
+| {{fbw|Nigeria}}
+| {{fbw|Ghana}}
+| {{fbw|Cameroon}}
+| {{fbw|Equatorial Guinea}}
+|-
+| 2015
+| {{fbw|Nigeria}}
+| {{fbw|Cameroon}}
+| {{fbw|Ghana}}
+| {{fbw|Equatorial Guinea}}
+|-
+| 2016
+| {{fbw|Nigeria}}
+| {{fbw|Ghana}}
+| {{fbw|Cameroon}}
+| {{fbw|Equatorial Guinea}}
+|-
+| 2017
+| {{fbw|Nigeria}}
+| {{fbw|Ghana}}
+| {{fbw|Cameroon}}
+| {{fbw|Equatorial Guinea}}
+|-
+| 2018
+| {{fbw|Nigeria}}
+| {{fbw|Cameroon}}
+| {{fbw|South Africa}}
+| {{fbw|Ghana}}
+|-
+| 2019
+| {{fbw|Nigeria}}
+| {{fbw|Cameroon}}
+| {{fbw|South Africa}}
+| {{fbw|Ghana}}
+|-
+| 2020
+| {{fbw|Nigeria}}
+| {{fbw|Cameroon}}
+| {{fbw|South Africa}}
+| {{fbw|Ghana}}
+|-
+| 2021
+| {{fbw|Nigeria}}
+| {{fbw|Cameroon}}
+| {{fbw|South Africa}}
+| {{fbw|Ghana}}
+|-
+| 2022
+| {{fbw|Nigeria}}
+| {{fbw|South Africa}}
+| {{fbw|Cameroon}}
+| {{fbw|Ghana}}
+|-
+| 2023
+| {{fbw|Nigeria}}
+| {{fbw|South Africa}}
+| {{fbw|Morocco}}
+| {{fbw|Ghana}}
+|-
+| 2024
+| {{fbw|Nigeria}}
+| {{fbw|South Africa}}
+| {{fbw|Morocco}}
+| {{fbw|Zambia}}
+|-
+| 2025
+| {{fbw|Nigeria}}
+| {{fbw|South Africa}}
+| {{fbw|Ghana}}
+| {{fbw|Zambia}}
+|}
+{{col-break}}
+;All time No. 1
+<timeline>
+ImageSize = width:160 height:300
+PlotArea = left:40 right:0 bottom:10 top:10
+DateFormat = dd/mm/yyyy
+Period = from:01/01/2003 till:29/09/2024
+ScaleMajor = unit:year increment:1 start:2003
+TimeAxis = orientation:vertical format:yyyy
+
+Colors =
+  id:NGA         value:green
+
+PlotData= 
+  bar:Leaders width:25 mark:(line,black) align:left fontsize:S
+
+  from:01/01/2003 till:27/09/2024 shift:(20,-3) text:"Nigeria" color:NGA
+</timeline>
+{{col-end}}
+
+==Other rankings==
+===CAF overall ranking of African clubs by titles===
+The following clubs are the top 10 clubs in CAF competitions.
+{| class="wikitable" style="text-align: left"
+|-
+!width=2%| Pos
+!width=17%| Club
+!width=3%| Titles
+!width=65%| Trophies won
+|-
+| style="text-align:center;"| 1||{{Flagicon|Egypt}} [[Al Ahly SC]]||align=center|26||12 [[CAF Champions League|African Cup of Champions Clubs/CAF Champions League]], 1 [[CAF Confederation Cup]], 4 [[African Cup Winners' Cup]], 8 [[CAF Super Cup]], 1 [[Afro-Asian Club Championship]]
+|-
+| style="text-align:center;"| 2||{{Flagicon|Egypt}} [[Zamalek SC]]||align=center|15||5 [[CAF Champions League|African Cup of Champions Clubs/CAF Champions League]], 2 [[CAF Confederation Cup]], 1 [[African Cup Winners' Cup]], 5 [[CAF Super Cup]], 2 [[Afro-Asian Club Championship]]
+|-
+| style="text-align:center;"| 3||{{Flagicon|Democratic Republic of the Congo}} [[TP Mazembe]]||align=center|11||5 [[CAF Champions League|African Cup of Champions Clubs/CAF Champions League]], 2 [[CAF Confederation Cup]], 1 [[African Cup Winners' Cup]], 3 [[CAF Super Cup]]
+|-
+| rowspan="2" style="text-align:center;" | 4
+|{{Flagicon|Morocco}} [[Raja CA]]|| align="center" |9||3 [[CAF Champions League|African Cup of Champions Clubs/CAF Champions League]], 2 [[CAF Confederation Cup]], 1 [[CAF Cup]], 2 [[CAF Super Cup]], 1 [[Afro-Asian Club Championship]]
+|-
+|{{Flagicon|Tunisia}} [[Étoile Sportive du Sahel]]|| align="center" |9||1 [[CAF Champions League|African Cup of Champions Clubs/CAF Champions League]], 2 [[African Cup Winners' Cup]], 2 [[CAF Confederation Cup]], 2 [[CAF Cup]], 2 [[CAF Super Cup]]
+|-
+| style="text-align:center;"| 6||{{Flagicon|Tunisia}} [[Espérance Sportive de Tunis]]||align=center |8||4 [[CAF Champions League|African Cup of Champions Clubs/CAF Champions League]], 1 [[African Cup Winners' Cup]], 1 [[CAF Cup]], 1 [[CAF Super Cup]], 1 [[Afro-Asian Club Championship]]
+|-
+| rowspan="2" style="text-align:center;" | 7
+|{{Flagicon|Morocco}} [[Wydad AC]]|| align="center" |6||3 [[CAF Champions League|African Cup of Champions Clubs/CAF Champions League]], 1 [[CAF Cup Winners' Cup]], 1 [[CAF Super Cup]], 1 [[Afro-Asian Club Championship]]
+|-
+|{{Flagicon|Algeria}} [[JS Kabylie]]|| align="center" |6||2 [[CAF Champions League|African Cup of Champions Clubs/CAF Champions League]], 1 [[African Cup Winners' Cup]], 3 [[CAF Cup]]
+|-
+| rowspan="5" style="text-align:center;" | 9
+|{{Flagicon|Cameroon}} [[Canon Yaoundé]]||align=center|4||3 [[CAF Champions League|African Cup of Champions Clubs/CAF Champions League]], 1 [[African Cup Winners' Cup]]
+|-
+|{{Flagicon|Nigeria}} [[Enyimba F.C.]]|| align="center" |4||2 [[CAF Champions League|African Cup of Champions Clubs/CAF Champions League]], 2 [[CAF Super Cup]]
+|-
+|{{Flagicon|Algeria}} [[ES Sétif]]||align=center|4||2 [[CAF Champions League|African Cup of Champions Clubs/CAF Champions League]], 1 [[CAF Super Cup]], 1 [[Afro-Asian Club Championship]]
+|-
+|{{Flagicon|Tunisia}} [[CS Sfaxien]] ||align=center|4|| 3 [[CAF Confederation Cup]], 1 [[CAF Cup]]
+|-
+|{{Flagicon|Morocco}} [[RS Berkane]]
+|align=center|4
+|3 [[CAF Confederation Cup]], 1 [[CAF Super Cup]]
+|}
+
+===Non-CAF competition===
+The 1982 African Super Cup is a match which took place on 25 January 1982 during the [[:fr:Tournoi de la Fraternité 1982|Tournament of Fraternity]] in [[Abidjan]], Ivory Coast. The [[Kabyle people|Kabyles]] of [[JS Kabylie]] won this trophy against the [[Cameroon]]ians of [[Union Douala]].<ref>{{Cite web |title=African Super Cup |url=https://www.rsssf.org/tablesa/afsup.html#81 |access-date=25 May 2025 |website=Rsssf.org}}</ref> This African trophy won by JS Kabylie is one of the 7 African titles won in its history.<ref>{{Cite web |last= |title=Djamel Menad : «Même la JS Kabylie a remporté un trophée équivalent en 1982» |url=https://www.lebuteur.com/article/detail?id=26696 |access-date=19 May 2026 |website=Le Buteur |language=FR}}</ref>
+
+===By country===
+The following table lists all the countries whose clubs have won at least one CAF competition. Egyptian clubs are the most successful, with a total of 44 titles. Egyptian clubs hold a record number of wins in [[CAF Champions League|the African Cup of Champions Clubs/CAF Champions League]] (19), the now-defunct [[African Cup Winners' Cup]] (8), the [[CAF Super Cup]] (12) and the now-defunct [[Afro-Asian Club Championship]] (3), followed by Tunisian clubs with 24 titles and they have the most victories in the now-defunct [[CAF Cup]] (4) and Moroccan clubs have secured also 24 titles with the most victories in the [[CAF Confederation Cup]] (7).
+
+;Key:
+{| class="wikitable" style="font-size:90%"
+|-
+|CL
+|[[CAF Champions League|African Cup of Champions Clubs/CAF Champions League]]
+|-
+|CWC
+|[[African Cup Winners' Cup]] 
+|-
+|C
+|[[CAF Cup]]
+|-
+|CC
+|[[CAF Confederation Cup]]
+|-
+|SC
+|[[CAF Super Cup]]
+|-
+|AAC
+|[[Afro-Asian Club Championship]]
+|}
+
+{| class="sortable plainrowheaders wikitable"
+|+List of CAF club competition winners by country
+|-
+!scope=col width=20%|Nationality
+!scope=col width=10%|CL
+!scope=col width=10%|CWC
+!scope=col width=10%|C
+!scope=col width=10%|CC
+!scope=col width=10%|SC
+!scope=col width=10%|AAC
+!scope=col width=10%|Total
+|-
+!scope=row|{{EGY}}
+|align=center| 19
+|align=center| 8
+|align=center| 0
+|align=center| 3
+|align=center| 14
+|align=center| 3
+|align=center| '''47'''
+|-
+!scope=row|{{MAR}}
+|align=center| 7
+|align=center| 1
+|align=center| 2
+|align=center| 8
+|align=center| 5
+|align=center| 2
+|align=center|'''25'''
+|-
+!scope=row|{{TUN}}
+|align=center| 6
+|align=center| 4
+|align=center| 4
+|align=center| 5
+|align=center| 3
+|align=center| 2
+|align=center| '''24'''
+|-
+!scope=row|{{ALG}}
+|align=center| 5
+|align=center| 1
+|align=center| 3
+|align=center| 2
+|align=center| 2
+|align=center| 1
+|align=center| '''14'''
+|-
+!scope=row|{{COD}}
+|align=center| 6
+|align=center| 2
+|align=center| 0
+|align=center| 2
+|align=center| 3
+|align=center| 0
+|align=center| '''13'''
+|-
+!scope=row|{{NGA}}
+|align=center| 2
+|align=center| 3
+|align=center| 2
+|align=center| 0
+|align=center| 2
+|align=center| 0
+|align=center| '''9'''
+|-
+!scope=row|{{CMR}}
+|align=center| 5
+|align=center| 3
+|align=center| 0
+|align=center| 0
+|align=center| 0
+|align=center| 0
+|align=center| '''8'''
+|-
+!scope=row|{{CIV}}
+|align=center| 2
+|align=center| 2
+|align=center| 1
+|align=center| 0
+|align=center| 2
+|align=center| 0
+|align=center| '''7'''
+|-
+!scope=row|{{RSA}}
+|align=center| 3
+|align=center| 1
+|align=center| 0
+|align=center| 0
+|align=center| 2
+|align=center| 0
+|align=center| '''6'''
+|-
+!scope=row|{{GHA}}
+|align=center| 3
+|align=center| 0
+|align=center| 0
+|align=center| 1
+|align=center| 1
+|align=center| 0
+|align=center| '''5'''
+|-
+!scope=row|{{GUI}}
+|align=center| 3
+|align=center| 1
+|align=center| 0
+|align=center| 0
+|align=center| 0
+|align=center| 0
+|align=center| '''4'''
+|-
+!scope=row|{{COG}}
+|align=center| 1
+|align=center| 0
+|align=center| 0
+|align=center| 1
+|align=center| 0
+|align=center| 0
+|align=center| '''2'''
+|-
+!scope=row|{{KEN}}
+|align=center| 0
+|align=center| 1
+|align=center| 0
+|align=center| 0
+|align=center| 0
+|align=center| 0
+|align=center| '''1'''
+|-
+!scope=row|{{SUD}}
+|align=center| 0
+|align=center| 1
+|align=center| 0
+|align=center| 0
+|align=center| 0
+|align=center| 0
+|align=center| '''1'''
+|-
+!scope=row|{{ZAM}}
+|align=center| 0
+|align=center| 1
+|align=center| 0
+|align=center| 0
+|align=center| 0
+|align=center| 0
+|align=center| '''1'''
+|-
+!scope=row|{{MLI}}
+|align=center| 0
+|align=center| 0
+|align=center| 0
+|align=center| 1
+|align=center| 0
+|align=center| 0
+|align=center| '''1'''
+|}
+
+===Men's Futsal===
+Per 12 December 2025:<ref>{{cite web|title=Futsal World Ranking|url=https://www.futsalworldranking.com/rank.htm|access-date=12 December 2025}}</ref>
+{| class="wikitable" style="text-align:center"
+|-
+!CAF
+![[FIFA]]
+!Country
+!Points
+|-
+|1
+|6
+|align=left|{{futsal|MAR}}
+|1481
+|-
+|2
+|39
+|align=left|{{futsal|EGY}}
+|1098
+|-
+|3
+|50
+|align=left|{{futsal|LBY}}
+|1053
+|-
+|4
+|58
+|align=left|{{futsal|RSA}}
+|1022
+|-
+|5
+|59
+|align=left|{{futsal|ANG}}
+|1021
+|-
+|6
+|66
+|align=left|{{futsal|EQG}}
+|999
+|-
+|7
+|98
+|align=left|{{futsal|ZAM}}
+|939
+|-
+|8
+|100
+|align=left|{{futsal|ALG}}
+|916
+|-
+|9
+|105
+|align=left|{{futsal|CMR}}
+|729
+|-
+|10
+|114
+|align=left|{{futsal|MTN}}
+|661
+|-
+|11
+|126
+|align=left|{{futsal|SOM}}
+|547
+|-
+|12
+|127
+|align=left|{{futsal|COM}}
+|544
+|}
+(*)= Provisional ranking (played at least 10 matches)
+(**)= Inactive for more than 24 months
+
+===Women's Futsal===
+{| class="wikitable" style="text-align:center"
+|-
+!CAF
+![[FIFA]]
+!Country
+!Points
+!+/-
+|}
+
+===Beach soccer national teams===
+Rankings are calculated by [[Beach Soccer Worldwide]] (BSWW). Top ten, [http://beachsoccer.com/ranking/overall/africa last updated 19 January 2026] {{Webarchive|url=https://web.archive.org/web/20191023130927/https://www.beachsoccer.com/ranking/overall/africa |date=23 October 2019 }}
+{| class="wikitable" style="text-align:center"
+|-
+!CAF
+![[BSWW]]
+!Country
+!Points
+|-
+|1
+|8
+|align=left|{{beachsoccer|SEN}}
+|1636.25
+|-
+|2
+|20
+|align=left|{{beachsoccer|MAR}}
+|755
+|-
+|3
+|24
+|align=left|{{beachsoccer|MTN}}
+|561.75
+|-
+|4
+|24
+|align=left|{{beachsoccer|EGY}}
+|541.25
+|-
+|5
+|44
+|align=left|{{beachsoccer|SEY}}
+|252.25
+|-
+|6
+|50
+|align=left|{{beachsoccer|TAN}}
+|210
+|-
+|7
+|59
+|align=left|{{beachsoccer|MOZ}}
+|168.25
+|-
+|8
+|62
+|align=left|{{beachsoccer|GHA}}
+|151
+|-
+|9
+|67
+|align=left|{{beachsoccer|MWI}}
+|124.25
+|-
+|10
+|75
+|align=left|{{beachsoccer|LBY}}
+|82.75
+|}
+
+==Major tournament records==
+;''Legend''
+*{{bg|gold|1st}} – Champions
+*{{bg|silver|2nd}} – Runners-up
+*{{bg|#cc9966|3rd}} – Third place
+*{{bg|#9acdff|4th}} – Fourth place
+*QF – Quarter-finals (1934–1938, 1954–1970, and 1986–present: knockout round of 8)
+*R3 — Round 3 (2026–present: knockout round of 16)
+*R2 — Round 2 (1974–1978: second group stage, top 8; 1982: second group stage, top 12; 1986–2022: knockout round of 16; 2026–present: knockout round of 32)
+*R1 — Round 1 (1930, 1950–1970 and 1986–present: group stage; 1934–1938: knockout round of 16; 1974–1982: first group stage)
+*''Q'' — Qualified for upcoming tournament
+*{{border|width=1px|color=gray|&nbsp;••&nbsp;}} – Qualified but withdrew
+*{{border|width=1px|color=gray|&nbsp;•&nbsp;}} – Did not qualify
+*{{border|width=1px|color=gray|&nbsp;×&nbsp;}} – Did not enter / Withdrew / Banned
+*{{border|width=3px|color=red|&nbsp;&nbsp;}} – Hosts
+*{{border|width=1px|color=gray|&nbsp;&nbsp;&nbsp;}} – Not affiliated in FIFA
+
+For each tournament, the flag of the host country and the number of teams in each finals tournament (in brackets) are shown.
+
+===FIFA World Cup===
+{{main|National team appearances in the FIFA World Cup}}
+
+{{See also|African nations at the FIFA World Cup}}
+{| class="wikitable" style="text-align:center; font-size:85%"
+!colspan=27|[[FIFA World Cup]] record
+|-
+! Team
+![[1930 FIFA World Cup|1930]]<br />{{Flagicon|Uruguay}}<br />(13)
+![[1934 FIFA World Cup|1934]]<br />{{Flagicon|Italy|1861}}<br />(16)
+![[1938 FIFA World Cup|1938]]<br />{{Flagicon|France}}<br />(15)
+![[1950 FIFA World Cup|1950]]<br />{{Flagicon|Brazil|1889}}<br />(13)
+![[1954 FIFA World Cup|1954]]<br />{{Flagicon|Switzerland}}<br />(16)
+![[1958 FIFA World Cup|1958]]<br />{{Flagicon|Sweden}}<br />(16)
+![[1962 FIFA World Cup|1962]]<br />{{Flagicon|Chile}}<br />(16)
+![[1966 FIFA World Cup|1966]]<br />{{Flagicon|England}}<br />(16)
+![[1970 FIFA World Cup|1970]]<br />{{Flagicon|Mexico}}<br />(16)
+![[1974 FIFA World Cup|1974]]<br />{{Flagicon|West Germany}}<br />(16)
+![[1978 FIFA World Cup|1978]]<br />{{Flagicon|Argentina}}<br />(16)
+![[1982 FIFA World Cup|1982]]<br />{{Flagicon|Spain}}<br />(24)
+![[1986 FIFA World Cup|1986]]<br />{{Flagicon|Mexico}}<br />(24)
+![[1990 FIFA World Cup|1990]]<br />{{Flagicon|Italy}}<br />(24)
+![[1994 FIFA World Cup|1994]]<br />{{Flagicon|United States}}<br />(24)
+![[1998 FIFA World Cup|1998]]<br />{{Flagicon|France|1974}}<br />(32)
+![[2002 FIFA World Cup|2002]]<br />{{Flagicon|Japan}}<br />{{Flagicon|South Korea|1997}}<br />(32)
+![[2006 FIFA World Cup|2006]]<br />{{Flagicon|Germany}}<br />(32)
+![[2010 FIFA World Cup|2010]]<br />{{Flagicon|South Africa}}<br />(32)
+![[2014 FIFA World Cup|2014]]<br />{{Flagicon|Brazil}}<br />(32)
+![[2018 FIFA World Cup|2018]]<br />{{Flagicon|Russia}}<br />(32)
+![[2022 FIFA World Cup|2022]]<br />{{Flagicon|Qatar}}<br />(32)
+![[2026 FIFA World Cup|2026]]<br />{{Flagicon|Canada}}<br />{{Flagicon|Mexico}}<br />{{Flagicon|United States}}<br />(48)
+![[2030 FIFA World Cup|2030]]<br />{{Flagicon|Morocco}}<br />{{Flagicon|Portugal}}<br />{{Flagicon|Spain}}<br />(48)
+![[2034 FIFA World Cup|2034]]<br />{{Flagicon|Saudi Arabia}}<br />(48)
+!Apps.
+|-
+| id="ALG" style="text-align:left;"| {{fb|ALG}}
+|colspan=7| ''Part of France''{{efn|[[Algeria]] gained independence in 1962, but they joined with other African nations to boycott the [[1966 FIFA World Cup]]. Thus the [[1970 FIFA World Cup qualification]] was their first participation.}} ||×||•||•||•|| R1<br />{{small|13th}} || R1<br />{{small|22nd}} ||•||•||•||•||•|| R1<br />{{small|28th}} || R2<br />{{small|14th}} ||•||•|| R2<br />{{small|30th}} || ||
+! 5/15
+|-
+| id="ANG" style="text-align:left;"| {{fb|ANG}}
+|colspan=11| ''Part of Portugal''{{efn|[[Angola]] gained independence in 1975. Thus the [[1986 FIFA World Cup qualification]] was their first participation.}} ||×||•||•||•||•||•|| R1<br />{{small|23rd}} ||•||•||•||•||•|| ||
+! 1/9
+|-
+| id="CMR" style="text-align:left;"| {{fb|CMR}}
+|colspan=6| ''Part of France'' ||×||×||•||•||•|| R1<br />{{small|17th}} ||•|| QF<br />{{small|7th}} || R1<br />{{small|22nd}} || R1<br />{{small|25th}} || R1<br />{{small|20th}} ||•|| R1<br />{{small|31st}} || R1<br />{{small|32nd}} ||•||R1<br />{{small|19th}}||•|| ||
+! 8/15
+|-
+| id="CPV" style="text-align:left;"| {{fb|CPV}}
+|colspan=10| ''Part of Portugal'' || || ||×||×||×||×||•||•||•||•||•||•|| R2<br />{{small|32nd}} || ||
+! 1/7
+|-
+| id="COD" style="text-align:left;"| {{fb|COD}}{{efn|name="Zaire"|The [[Democratic Republic of the Congo]] competed as [[Zaire]] in 1974.}}
+|colspan=6| ''Part of Belgium''{{efn|[[Democratic Republic of the Congo]] gained independence in 1960, but they joined with other African nations to boycott the [[1966 FIFA World Cup]]. Thus the [[1974 FIFA World Cup qualification]] was their first participation.}} || ||×||×|| R1<br />{{small|16th}} ||×||•||•||•||•||•||•||•||•||•||•||•|| R2<br />{{small|23rd}} || ||
+! 2/13
+|-
+| id="EGY" style="text-align:left;"| {{fb|EGY}}
+|×|| R1<br />{{small|13th}} ||×||×||•||×||×||×||×||•||•||•||•|| R1<br />{{small|20th}} ||•||•||•||•||•||•|| R1<br />{{small|31st}} ||•|| R3<br />{{small|15th}} || ||
+! 4/16
+|-
+| id="GHA" style="text-align:left;"| {{fb|GHA}}
+|colspan=5| ''Part of the United Kingdom'' ||×||•||×||•||•||•||×||•||•||•||•||•|| R2<br />{{small|13th}} || QF<br />{{small|7th}} || R1<br />{{small|25th}} ||•||R1<br />{{small|24th}}|| R2<br />{{small|24th}} || ||
+! 5/15
+|-
+| id="CIV" style="text-align:left;"| {{fb|CIV}}
+|colspan=6| ''Part of France'' ||×||×||×||•||•||×||•||•||•||•||•|| R1<br />{{small|19th}} || R1<br />{{small|17th}} || R1<br />{{small|21st}} ||•||•|| R2<br />{{small|19th}} || ||
+! 4/12
+|-
+| id="MAR" style="text-align:left;"| {{fb|MAR}}
+|colspan=5| ''Protectorate of France/Spain'' || ||•||×|| R1<br />{{small|14th}} ||•||•||•|| R2<br />{{small|11th}} ||•|| R1<br />{{small|23rd}} || R1<br />{{small|18th}} ||•||•||•||•|| R1<br />{{small|27th}} || bgcolor=#9acdff|4th || QF<br />{{small|T-7th}} ||style="border: 3px solid red"|''Q''||
+! 7/16
+|-
+| id="NGA" style="text-align:left;"| {{fb|NGA}}
+|colspan=6| ''Part of the United Kingdom'' ||•||×||•||•||•||•||•||•|| R2<br />{{small|9th}} || R2<br />{{small|12th}} || R1<br />{{small|27th}} ||•|| R1<br />{{small|27th}} || R2<br />{{small|16th}} || R1<br />{{small|21st}} ||•||•|| ||
+! 6/16
+|-
+| id="SEN" style="text-align:left;"| {{fb|SEN}}
+|colspan=6| ''Part of France'' ||×||×||•||•||•||•||•||×||•||•|| QF<br />{{small|7th}} ||•||•||•|| R1<br />{{small|17th}} || R2<br />{{small|10th}} || R2<br />{{small|31st}} || ||
+! 4/13
+|-
+| id="RSA" style="text-align:left;"| {{fb|RSA}}
+|colspan=4| ||×||×||×||×||×||×||×||×||×||×||•|| R1<br />{{small|24th}} || R1<br />{{small|17th}} ||•||style="border: 3px solid red"| R1<br />{{small|20th}} ||•||•||•|| R2<br />{{small|T-25th}} || ||
+! 4/9
+|-
+| id="TOG" style="text-align:left;"| {{fb|TOG}}
+|colspan=6| ''Part of France'' ||×||×||×||•||•||•||×||×||•||•||•|| R1<br />{{small|30th}} ||•||•||•||•||•|| ||
+! 1/11
+|-
+| id="TUN" style="text-align:left;"| {{fb|TUN}}
+|colspan=5| ''Protectorate of France'' || ||•||×||•||•|| R1<br />{{small|9th}} ||•||•||•||•|| R1<br />{{small|26th}} || R1<br />{{small|29th}} || R1<br />{{small|24th}} ||•||•|| R1<br />{{small|24th}} || R1<br />{{small|21st}}|| R1<br />{{small|47th}} || ||
+! 7/16
+|-
+!align=left| Total (14 teams) || 0 || 1 || 0 || 0 || 0 || 0 || 0 || 0 || 1 || 1 || 1 || 2 || 2 || 2 || 3 || 5 || 5 || 5 || 6 || 5 || 5 || 5 || 10 || TBD || TBD || 59
+|}
+
+;''Firsts''
+*1934: {{fb|Egypt|1922}} first African team to qualify for the World Cup
+*1970: {{fb|Morocco}} first African team to draw a match in the World Cup
+*1978: {{fb|Tunisia}} first African team to win a match in the World Cup
+*1982: {{fb|Algeria}} first African team to win two matches in the World Cup
+*1986: {{fb|Algeria}} first African team to qualify for two consecutive World Cups
+*1986: {{fb|Morocco}} first African team to reach the knockout stage (round of sixteen)
+*1990: {{fb|Cameroon}} first African team to reach the knockout stage (quarter-finals)
+*1994 and 1998: {{fb|Nigeria}} first African team to top a group stage and reach the knockout stage (round of 16) in two consecutive World Cups
+*2002: {{fb|Senegal}} first African team to reach the knockout stage (quarter-finals) on their World Cup debut
+*2010: {{fb|South Africa}} first African team to host the World Cup
+*2014: {{fb|Algeria}} & {{fb|Nigeria}} first African teams to reach the knockout stage (round of sixteen) simultaneously in the World Cup
+*2022: {{fb|Morocco}} first African team to reach the knockout stage (semi-finals), taking fourth place
+*2026: {{fb|Morocco}} first African team to reach the quarter-finals twice
+
+===FIFA Women's World Cup===
+{{main|FIFA Women's World Cup records and statistics}}
+
+{| class="wikitable" style="text-align:center; font-size:85%"
+!colspan=12|[[FIFA Women's World Cup]] record
+|-
+!Team
+![[1991 FIFA Women's World Cup|1991]]<br />{{Flagicon|CHN}}<br />(12)
+![[1995 FIFA Women's World Cup|1995]]<br />{{Flagicon|SWE}}<br />(12)
+![[1999 FIFA Women's World Cup|1999]]<br />{{Flagicon|USA}}<br />(16)
+![[2003 FIFA Women's World Cup|2003]]<br />{{Flagicon|USA}}<br />(16)
+![[2007 FIFA Women's World Cup|2007]]<br />{{Flagicon|CHN}}<br />(16)
+![[2011 FIFA Women's World Cup|2011]]<br />{{Flagicon|GER}}<br />(16)
+![[2015 FIFA Women's World Cup|2015]]<br />{{Flagicon|CAN}}<br />(24)
+![[2019 FIFA Women's World Cup|2019]]<br />{{Flagicon|FRA}}<br />(24)
+![[2023 FIFA Women's World Cup|2023]]<br />{{flagicon|AUS}}<br />{{flagicon|NZL}}<br />(32)
+![[2027 FIFA Women's World Cup|2027]]<br />{{Flagicon|BRA}}<br />(32)
+!Apps.
+|-
+|align=left|{{fbw|CMR}}
+|•||×||•||•||•||•||R2<br />{{small|11th}}||R2<br />{{small|15th}}||•||
+!2/8
+|-
+|align=left|{{fbw|GEQ}}
+|×||×||×||•||•||R1<br />{{small|15th}}||•||×||•||•
+!1/6
+|-
+|align=left|{{fbw|GHA}}
+|•||•||R1<br />{{small|T-13th}}||R1<br />{{small|12th}}||R1<br />{{small|15th}}||•||•||•||•||
+!3/9
+|-
+|align=left|{{fbw|CIV}}
+|×||×||×||•||•||•||R1<br />{{small|23rd}}||•||•||
+!1/6
+|-
+|align=left|{{fbw|MAR}}
+|•||•||•||•||•||•||•||•||R2<br />{{small|12th}}||
+!1/9
+|-
+|align=left|{{fbw|NGA}}
+|R1<br />{{small|10th}}||R1<br />{{small|11th}}||QF<br />{{small|7th}}||R1<br />{{small|15th}}||R1<br />{{small|13th}}||R1<br />{{small|9th}}||R1<br />{{small|21st}}||R2<br />{{small|16th}}||R2<br />{{small|10th}}||
+!9/9
+|-
+|align=left|{{fbw|RSA}}
+|×||•||•||•||•||•||•||R1<br />{{small|22nd}}||R2<br />{{small|16th}}||
+!2/8
+|-
+|align=left|{{fbw|ZAM}}
+|•||•||•||•||•||•||•||•||R1<br />{{small|25th}}||
+!1/9
+|-
+!align=left|Total (8 teams)||1||1||2||2||2||2||3||3||4|| ||16
+|}
+
+===Olympic Games===
+====Men's tournament====
+{{See also|Football at the Summer Olympics#Participating nations}}
+{| class="wikitable" style="text-align:center; font-size:80%"
+!colspan=32|[[Football at the Summer Olympics|Olympic Games]] ([[Football at the Summer Olympics#Men's tournament|Men's tournament]]) record
+|-
+! Team|| [[Football at the 1900 Summer Olympics|1900]]<br />{{flagicon|France}}<br />(3) || colspan="2"| [[Football at the 1904 Summer Olympics|1904]]<br />{{flagicon|United States}}<br />(3) || [[Football at the 1908 Summer Olympics|1908]]<br />{{flagicon|Great Britain}}<br />(6) || [[Football at the 1912 Summer Olympics|1912]]<br />{{flagicon|Sweden}}<br />(11) || [[Football at the 1920 Summer Olympics|1920]]<br />{{flagicon|Belgium}}<br />(14) || [[Football at the 1924 Summer Olympics|1924]]<br />{{flagicon|France}}<br />(22) || [[Football at the 1928 Summer Olympics|1928]]<br />{{flagicon|Netherlands}}<br />(17) || [[Football at the 1936 Summer Olympics|1936]]<br />{{flagicon|Germany|Nazi}}<br />(16) || [[Football at the 1948 Summer Olympics|1948]]<br />{{flagicon|United Kingdom}}<br />(18) || [[Football at the 1952 Summer Olympics|1952]]<br />{{flagicon|Finland}}<br />(25) || [[Association football at the 1956 Summer Olympics|1956]]<br />{{flagicon|Australia}}<br />(11) || [[Football at the 1960 Summer Olympics|1960]]<br />{{flagicon|Italy}}<br />(16) || [[Football at the 1964 Summer Olympics|1964]]<br />{{flagicon|Japan|1947}}<br />(14) || [[Football at the 1968 Summer Olympics|1968]]<br />{{flagicon|Mexico}}<br />(16) || [[Football at the 1972 Summer Olympics|1972]]<br />{{flagicon|FRG}}<br />(16) || [[Football at the 1976 Summer Olympics|1976]]<br />{{flagicon|Canada}}<br />(13) || [[Football at the 1980 Summer Olympics|1980]]<br />{{flagicon|Soviet Union|1955}}<br />(16) || [[Football at the 1984 Summer Olympics|1984]]<br />{{flagicon|United States}}<br />(16) || [[Football at the 1988 Summer Olympics|1988]]<br />{{flagicon|South Korea|1997}}<br />(16) || [[Football at the 1992 Summer Olympics|1992]]<br />{{flagicon|Spain}}<br />(16) || [[Football at the 1996 Summer Olympics – Men's tournament|1996]]<br />{{flagicon|United States}}<br />(16) || [[Football at the 2000 Summer Olympics – Men's tournament|2000]]<br />{{flagicon|Australia}}<br />(16) || [[Football at the 2004 Summer Olympics – Men's tournament|2004]]<br />{{flagicon|Greece}}<br />(16) || [[Football at the 2008 Summer Olympics – Men's tournament|2008]]<br />{{flagicon|China}}<br />(16) || [[Football at the 2012 Summer Olympics – Men's tournament|2012]]<br />{{flagicon|GBR}}<br />(16) || [[Football at the 2016 Summer Olympics – Men's tournament|2016]]<br />{{flagicon|Brazil}}<br />(16) || [[Football at the 2020 Summer Olympics – Men's tournament|2020]]<br />{{flagicon|Japan}}<br />(16) || [[Football at the 2024 Summer Olympics – Men's tournament|2024]]<br />{{flagicon|France}}<br />(16) || [[Football at the 2028 Summer Olympics – Men's tournament|2028]]<br />{{flagicon|United States}}<br />(12) || Apps.
+|-
+|align=left| {{flagIOC|ALG}} || colspan=13| ''{{small|Part of France}}'' || – || – || – || style="background:#efefef;"| || 8 || – || – || – || – || – || – || – || – || 14 || – || – || 
+! 2
+|-
+|align=left| {{flagIOC|CMR}} || colspan="5" style="background:#efefef;"| ||colspan=8| ''{{small|Part of France}}'' || – || – || – || – || – || 11 || – || – || – ||bgcolor=gold| 1 || – || 8 || – || – || – || – || 
+! 3
+|-
+|align=left| {{flagIOC|EGY}}{{efn|Egypt team represented the [[United Arab Republic]] with Syria in 1960 finishing the 12th and alone in 1964 finishing the 4th.}} || colspan="4" style="background:#efefef;"| || – || 8 || 8 || bgcolor=#9acdff|4 || 9 || 11 || 9 || – || 12 || bgcolor=#9acdff|4 || – || – || – || style="background:#efefef;"| || 8 || – || 12 || – || – || – || – || 8 || – || 8 || bgcolor=#9acdff|4 || 
+! 13
+|-
+|align=left| {{flagIOC|CIV}} || colspan=13| ''{{small|Part of France}}'' || – || – || – || – || style="background:#efefef;"| || – || – || – || – || – || – || 6 || – || || 7 || – || 
+! 2
+|-
+|align=left| {{flagIOC|GAB}} || colspan=13| ''{{small|Part of France}}'' || colspan="2" style="background:#efefef;"| || – || colspan="2" style="background:#efefef;"| || – || – || – || – || – || – || – || 12 || – || – || – || 
+! 1
+|-
+|align=left| {{flagIOC|GHA}} || colspan=10| ''{{small|Part of the United Kingdom}}'' || – || style="background:#efefef;"| || – || 7 || 12 || 16 || colspan="2" style="background:#efefef;"| || – || – || style="background:#c96;"| 3 || 8 || – || 9 || – || – || – || – || – || 
+! 6
+|-
+|align=left| {{flagIOC|GUI}} || colspan=12| ''{{small|Part of France}}'' || colspan="2" style="background:#efefef;"| || 11 || colspan="2" style="background:#efefef;"| || – || – || – || – || – || – || – || – || – || – || – || 16 || 
+! 2
+|-
+|align=left| {{flagIOC|MLI}} || colspan=13| ''{{small|Part of France}}'' || – || – || – || style="background:#efefef;"| || – || – || – || – || – || – || 5 || – || – || – || – || 14 || 
+! 2
+|-
+|align=left| {{flagIOC|MAR}} || colspan="4" style="background:#efefef;"| ||colspan=7| ''{{small|Protectorate of France/Spain}}'' || style="background:#efefef;"| || – || 13 || – || 8 || – || – style="background:#efefef;"| || 12 || – || 15 || – || 16 || =10 || – || 11 || – || – || style="background:#c96;"| 3 || 
+! 8
+|-
+|align=left| {{flagIOC|NGR}} || colspan="5" style="background:#efefef;"| ||colspan=5| ''{{small|Part of the United Kingdom}}'' || – || – || – || – || 14 || – || style="background:#efefef;"| || 13 || – || 15 || – ||bgcolor=gold| 1 || 8 || – || style="background:silver;"| 2 || – || style="background:#c96;"| 3 || – || – || 
+! 7
+|-
+|align=left| {{flagIOC|SEN}} || colspan=13| ''{{small|Part of France}}'' || – || – || – || – || – || – || – || – || – || – || – || – || 6 || – || – || – || 
+! 1
+|-
+|align=left| {{flagIOC|RSA}} || style="background:#efefef;"| || colspan="2"| – || – || – || – | – || – || – || – || – || – || – || – || colspan="7" style="background:#efefef;"| ''{{small|Banned because of apartheid}}'' || – | – || – || – | 11 || – || – || – || 13 || 16 || – || 
+! 3
+|-
+|align=left| {{flagIOC|SUD}} || colspan=12| ''{{small|Part of the United Kingdom}}'' || – || style="background:#efefef;"| || – || 15 || colspan="2" style="background:#efefef;"| || – || – || – || – || – || – || – || – || – || – || – || 
+! 1
+|-
+|align=left| {{flagIOC|TUN}} || colspan=11| ''{{small|Part of France}}'' || style="background:#efefef;"| || 15 || – || – || – || – || style="background:#efefef;"| || – || 13 || – || 14 || – || 12 || – || – || – || – || – || 
+! 4
+|-
+|align=left| {{flagIOC|ZAM}} || colspan="6" style="background:#efefef;"| || colspan=5| ''{{small|Part of the United Kingdom}}'' || style="background:#efefef;"| || ''{{small|{{Tooltip|RHO|Part of Rhodesia}}}}'' || – || – || – || style="background:#efefef;"| || 15 || – || 5 || – || – || – || – || – || – || – || – || – || 
+! 2
+|-
+!align=left| Total (15 teams) || || colspan=2| 0 || 0 || 0 || 1 || 1 || 1 || 1 || 1 || 1 || 0 || 3 || 3 || 3 || 3 || 3 || 3 || 3 || 3 || 3 || 3 || 4 || 4 || 3 || 4 || 3 || 3 || 4 ||  || 
+|}
+
+====Women's tournament====
+{{See also|Football at the Summer Olympics#Participating nations 2}}
+{| class="wikitable" style="text-align:center; font-size:85%"
+!colspan=11|[[Football at the Summer Olympics|Olympic Games]] ([[Football at the Summer Olympics#Women's tournament|Women's tournament]]) record
+|-
+! Team || [[Football at the 1996 Summer Olympics – Women's tournament|1996]]<br />{{flagicon|United States}}<br />(8) || [[Football at the 2000 Summer Olympics – Women's tournament|2000]]<br />{{flagicon|Australia}}<br />(8) || [[Football at the 2004 Summer Olympics – Women's tournament|2004]]<br />{{flagicon|Greece}}<br />(10) || [[Football at the 2008 Summer Olympics – Women's tournament|2008]]<br />{{flagicon|China}}<br />(12) || [[Football at the 2012 Summer Olympics – Women's tournament|2012]]<br />{{flagicon|GBR}}<br />(12) || [[Football at the 2016 Summer Olympics – Women's tournament|2016]]<br />{{flagicon|Brazil}}<br />(12) || [[Football at the 2020 Summer Olympics – Women's tournament|2020]]<br />{{flagicon|Japan}}<br />(12) || [[Football at the 2024 Summer Olympics – Women's tournament|2024]]<br />{{flagicon|France}}<br />(12) || [[Football at the 2028 Summer Olympics – Women's tournament|2028]]<br />{{flagicon|United States}}<br />(16) || Apps.
+|-
+|align=left| {{flagIOC|CMR}} || – || – || – || – || 12 || – || – || – || 
+! 1
+|-
+|align=left| {{flagIOC|NGR}} || – || 8 || 6 || 11 || – || – || – || 11 || 
+! 4
+|-
+|align=left| {{flagIOC|RSA}} || – || – || – || – || 10 || 10 || – || – || 
+! 2
+|-
+|align=left| {{flagIOC|ZAM}} || – || – || – || – || – || – || 9 || 12 || 
+! 2
+|-
+|align=left| {{flagIOC|ZIM}} || – || – || – || – || – || 12 || – || – || 
+! 1
+|-
+! Total (5 teams) || 0 || 1 || 1 || 1 || 2 || 2 || 1 || 2 ||  || 10
+|}
+
+===Africa Cup of Nations===
+{{Main|Africa Cup of Nations records and statistics}}
+
+<div style="overflow-x:auto;">
+{| class="wikitable" style="text-align:center; font-size:85%;"
+|-
+!Team
+!{{flagicon|SDN|1956}}<br />[[1957 African Cup of Nations|1957]]<br />(3)
+!{{flagicon|UAR}}<br />[[1959 African Cup of Nations|1959]]<br />(3)
+!{{flagicon|ETH|1897}}<br />[[1962 African Cup of Nations|1962]]<br />(4)
+!{{flagicon|GHA}}<br />[[1963 African Cup of Nations|1963]]<br />(6)
+!{{flagicon|TUN|1959}}<br />[[1965 African Cup of Nations|1965]]<br />(6)
+!{{flagicon|ETH|1897}}<br />[[1968 African Cup of Nations|1968]]<br />(8)
+!{{flagicon|SDN|1956}}<br />[[1970 African Cup of Nations|1970]]<br />(8)
+!{{flagicon|CMR|1961}}<br />[[1972 African Cup of Nations|1972]]<br />(8)
+!{{flagicon|EGY|1972}}<br />[[1974 African Cup of Nations|1974]]<br />(8)
+!{{flagicon|ETH|1975}}<br />[[1976 African Cup of Nations|1976]]<br />(8)
+!{{flagicon|GHA}}<br />[[1978 African Cup of Nations|1978]]<br />(8)
+!{{flagicon|NGA}}<br />[[1980 African Cup of Nations|1980]]<br />(8)
+!{{flagicon|LBY|1977}}<br />[[1982 African Cup of Nations|1982]]<br />(8)
+!{{flagicon|CIV}}<br />[[1984 African Cup of Nations|1984]]<br />(8)
+!{{flagicon|EGY}}<br />[[1986 African Cup of Nations|1986]]<br />(8)
+!{{flagicon|MAR}}<br />[[1988 African Cup of Nations|1988]]<br />(8)
+!{{flagicon|ALG}}<br />[[1990 African Cup of Nations|1990]]<br />(8)
+!{{flagicon|SEN}}<br />[[1992 African Cup of Nations|1992]]<br />(12)
+!{{flagicon|TUN|1959}}<br />[[1994 African Cup of Nations|1994]]<br />(12)
+!{{flagicon|RSA}}<br />[[1996 African Cup of Nations|1996]]<br />(15)
+!{{flagicon|BFA}}<br />[[1998 African Cup of Nations|1998]]<br />(16)
+!{{flagicon|GHA}}<br />{{flagicon|NGA}}<br />[[2000 African Cup of Nations|2000]]<br />(16)
+!{{flagicon|MLI}}<br />[[2002 African Cup of Nations|2002]]<br />(16)
+!{{flagicon|TUN}}<br />[[2004 African Cup of Nations|2004]]<br />(16)
+!{{flagicon|EGY}}<br />[[2006 Africa Cup of Nations|2006]]<br />(16)
+!{{flagicon|GHA}}<br />[[2008 Africa Cup of Nations|2008]]<br />(16)
+!{{flagicon|ANG}}<br />[[2010 Africa Cup of Nations|2010]]<br />(15)
+!{{flagicon|EQG}}<BR>{{flagicon|GAB}}<br />[[2012 Africa Cup of Nations|2012]]<br />(16)
+!{{flagicon|RSA}}<br />[[2013 Africa Cup of Nations|2013]]<br />(16)
+!{{flagicon|GNQ}}<br />[[2015 Africa Cup of Nations|2015]]<br />(16)
+!{{flagicon|GAB}}<br />[[2017 Africa Cup of Nations|2017]]<br />(16)
+!{{flagicon|EGY}}<br />[[2019 Africa Cup of Nations|2019]]<br />(24)
+!{{flagicon|CMR}}<br />[[2021 Africa Cup of Nations|2021]]<br />(24)
+!{{flagicon|CIV}}<br />[[2023 Africa Cup of Nations|2023]]<br />(24)
+!{{flagicon|MAR}}<br />[[2025 Africa Cup of Nations|2025]]<br />(24)
+!{{flagicon|KEN}}<BR>{{flagicon|TAN}}<BR>{{flagicon|UGA}}<br />[[2027 Africa Cup of Nations|2027]]<br />(24)
+!Apps.
+|-
+| colspan=38|'''[[Union of North African Football|North Africa]] members'''
+|-
+| align=left|{{fb|ALG}}
+| colspan=3| ''{{small|Part of France}}'' || bgcolor=#efefef| || × || GS || • || • || • || • || • || bgcolor=Silver|'''2nd''' || bgcolor=#9acdff|'''4th''' || bgcolor=#cc9966|'''3rd''' || GS || bgcolor=#cc9966|'''3rd''' || style="border: 3px solid red" bgcolor=Gold|'''1st''' || GS || •• || bgcolor=#ffebcd| QF || GS || bgcolor=#ffebcd| QF || GS || bgcolor=#ffebcd| QF || • || • || bgcolor=#9acdff|'''4th''' || • || GS || bgcolor=#ffebcd| QF || GS || bgcolor=Gold|'''1st''' || GS || GS || QF ||
+! 21
+|-
+| align=left|{{fb|EGY}}
+| bgcolor=Gold|'''1st''' || style="border: 3px solid red" bgcolor=Gold|'''1st''' || bgcolor=Silver|'''2nd''' || bgcolor=#cc9966|'''3rd''' || × || × || bgcolor=#cc9966|'''3rd''' || • || style="border: 3px solid red" bgcolor=#cc9966|'''3rd''' || bgcolor=#9acdff|'''4th''' || • || bgcolor=#9acdff|'''4th''' || × || bgcolor=#9acdff|'''4th''' || style="border: 3px solid red" bgcolor=Gold|'''1st''' || GS || GS || GS || bgcolor=#ffebcd| QF || bgcolor=#ffebcd| QF || bgcolor=Gold|'''1st''' || bgcolor=#ffebcd| QF || bgcolor=#ffebcd| QF || GS || style="border: 3px solid red" bgcolor=Gold|'''1st''' || bgcolor=Gold|'''1st''' || bgcolor=Gold|'''1st''' || • || • || • || bgcolor=Silver|'''2nd''' || style="border: 3px solid red"|R16 || bgcolor=Silver|'''2nd''' || R16 || bgcolor="#9ACDFF"|'''4th''' ||
+! 27
+|-
+| align=left|{{fb|LBY}}
+| colspan=5 bgcolor=#efefef| || • || × || • || × || × || × || × || style="border: 3px solid red" bgcolor=Silver|'''2nd''' || • || • || × || × || × || × || × || × || • || • || • || GS || • || • || GS || • || • || • || • || • || • || • ||
+! 3
+|-
+| align=left|{{fb|MTN}}
+| colspan=2| ''{{small|Part of France}}'' || colspan=7 bgcolor=#efefef| || × || × || • || • || × || • || × || × || • || × || • || • || × || • || • || • || • || • || × || × || • || • || GS || GS || R16 || • ||
+! 3
+|-
+| align=left|{{fb|MAR}}
+|| • || • || × || • || × || × || • || GS || × || bgcolor=Gold|'''1st''' || GS || bgcolor=#cc9966|'''3rd''' || • || • || bgcolor=#9acdff|'''4th''' || style="border: 3px solid red" bgcolor=#9acdff|'''4th''' || • || GS || • || • || bgcolor=#ffebcd| QF || GS || GS || bgcolor=silver|'''2nd''' || GS || GS || • || GS || GS || •• || bgcolor=#ffebcd| QF || R16 || bgcolor=#ffebcd| QF || R16 ||style="border: 3px solid red" bgcolor=Gold|'''1st'''  ||
+! 20
+|-
+| align=left|{{fb|TUN}}
+| colspan=2| ''{{small|{{Tooltip|Prot.|Protectorate}} of France}}'' || bgcolor=#cc9966|'''3rd''' || GS || style="border: 3px solid red" bgcolor=Silver|'''2nd''' || • || × || × || × || • || bgcolor=#9acdff|'''4th''' || × || GS || • || • || • || • || • || style="border: 3px solid red"|GS || bgcolor=Silver|'''2nd''' || bgcolor=#ffebcd| QF || bgcolor=#9acdff|'''4th''' || GS || style="border: 3px solid red" bgcolor=Gold|'''1st''' || bgcolor=#ffebcd| QF || bgcolor=#ffebcd| QF || GS || bgcolor=#ffebcd| QF || GS || bgcolor=#ffebcd| QF || bgcolor=#ffebcd| QF || bgcolor=#9acdff|'''4th''' || bgcolor=#ffebcd| QF || GS || R16 ||
+! 22
+|-
+| colspan=38|'''[[West African Football Union|West Africa]] members'''
+|-
+| align=left|{{fb|BEN}}
+| colspan=2| ''{{small|Part of France}}'' || colspan=2 bgcolor=#efefef| || × || × || × || • || × || × || × || • || × || • || • || • || • || • || • || × || • || • || • || GS || • || GS || GS || • || • || • || • || QF || • || • || R16 ||
+! 5
+|-
+| align=left|{{fb|BFA}}
+| colspan=2| ''{{small|Part of France}}'' || colspan=2 bgcolor=#efefef| || ×  || • || ×  || × || • || × || GS || × || • || × || × || × || • || • || × || GS || style="border: 3px solid red" bgcolor=#9acdff|'''4th''' || GS || GS || GS || •  || • || GS || GS || bgcolor=Silver|'''2nd''' || GS || bgcolor=#cc9966|'''3rd''' || • || bgcolor=#9acdff|'''4th''' || R16 || R16 ||
+! 14
+|-
+| align=left|{{fb|CPV}}
+| colspan=9| ''{{small|Part of Portugal}}'' || colspan=9 bgcolor=#efefef| || bgcolor=#efefef| • || bgcolor=#efefef| × || bgcolor=#efefef| || • || • || • || • || • || • || • || QF || GS || • || • || R16 || QF || • ||
+! 4
+|-
+| align=left|{{fb|GAM}}
+| colspan=4| ''{{small|Part of the United Kingdom}}'' || bgcolor=#efefef| || × || × || × || × || • || × || • || • || • || • || • || × || • || × || × || × || × || • || • || • || • || • || • || • || × || • || • || QF || GS || • ||
+! 2
+|-
+| align=left|{{fb|GHA}}
+| ''{{small|{{Tooltip|UK|Part of United Kingdom}}}}'' || bgcolor=#efefef| || • || style="border: 3px solid red" bgcolor=Gold|'''1st''' || bgcolor=Gold| '''1st''' || bgcolor=Silver| '''2nd''' || bgcolor=Silver| '''2nd''' || • || • || • || style="border: 3px solid red" bgcolor=Gold|'''1st''' || GS || bgcolor=Gold| '''1st''' || GS || • || • || • || bgcolor=Silver| '''2nd''' || QF || bgcolor=#9ACDFF| '''4th''' || GS || style="border: 3px solid red"|QF || QF || • || GS || style="border: 3px solid red" bgcolor=#CC9966| '''3rd''' || bgcolor=Silver| '''2nd''' || bgcolor=#9ACDFF| '''4th''' || bgcolor=#9ACDFF| '''4th''' || bgcolor=Silver| '''2nd''' || bgcolor=#9ACDFF| '''4th''' || R16 || GS || GS || • ||
+! 24
+|-
+| align=left|{{fb|GUI}}
+| ''{{small|{{Tooltip|FRA|Part of France}}}}'' || colspan=2 bgcolor=#efefef| || •• || • || • || GS || • || GS || bgcolor=Silver|'''2nd''' || • || GS || • || • || • || • || • || • || GS || • || GS || • || × || QF || QF || QF || • || GS || • || QF || • || R16 || R16 || QF || • ||
+! 14
+|-
+| align=left|{{fb|GNB}}
+| colspan=9| ''{{small|Part of Portugal}}'' || colspan=6 bgcolor=#efefef| || × || × || × || • || × || × || × || × || × || • || × || • || • || • || • || GS || GS || GS || GS || • ||
+! 4
+|-
+| align=left|{{fb|CIV}}
+| colspan=2| ''{{small|Part of France}}'' || colspan=2 bgcolor=#efefef| || bgcolor=#cc9966|'''3rd''' || bgcolor=#cc9966|'''3rd''' || bgcolor=#9ACDFF| '''4th''' || • || GS || • || •• || GS || × || style="border: 3px solid red"|GS || bgcolor=#cc9966|'''3rd''' || GS || GS || bgcolor=Gold| '''1st''' || bgcolor=#cc9966|'''3rd''' || GS || QF || GS || GS || • || bgcolor=Silver| '''2nd''' || bgcolor=#9ACDFF| '''4th''' || QF || bgcolor=Silver| '''2nd''' || QF || bgcolor=Gold| '''1st''' || GS || QF || R16 || style="border: 3px solid red" bgcolor=Gold|'''1st''' || QF ||
+! 26
+|-
+| align=left|{{fb|LBR}}
+| colspan=3 bgcolor=#efefef| || × || × || • || × || × || × || • || × || × || • || × || • || • || • || × || • || GS || • || • || GS || • || • || • || • || • || • || • || • || • || • || • || • ||
+! 2
+|-
+| align=left|{{fb|MLI}}
+| colspan=2| ''{{small|Part of France}}'' || colspan=2 bgcolor=#efefef| || • || • || • || bgcolor=Silver|'''2nd''' || • || • || • || • || • || • || • || • || • || • || bgcolor=#9ACDFF|'''4th''' || • || • || • || style="border: 3px solid red" bgcolor=#9ACDFF|'''4th''' || bgcolor=#9ACDFF|'''4th''' || • || GS || GS || bgcolor=#CC9966|'''3rd''' || bgcolor=#CC9966|'''3rd''' || GS || GS || R16 || R16 || QF || QF ||
+! 14
+|-
+| align=left|{{fb|NIG}}
+| colspan=2| ''{{small|Part of France}}'' || colspan=3 bgcolor=#efefef| || × || • || • || × || • || × || × || × || • || × || × || × || • || • || × || × || • || • || • || • || • || • || GS || GS || • || • || • || • || • || • ||
+! 2
+|-
+| align=left|{{fb|NGA}}
+| colspan=2 bgcolor=#efefef| || × || GS  || × || • || × || • || • || bgcolor=#CC9966|'''3rd''' || bgcolor=#CC9966|'''3rd''' || style="border: 3px solid red" bgcolor=Gold|'''1st''' || GS || bgcolor=Silver|'''2nd''' || • || bgcolor=Silver|'''2nd''' || bgcolor=Silver|'''2nd''' || bgcolor=#CC9966|'''3rd''' || bgcolor=Gold|'''1st''' || •• || × || style="border: 3px solid red" bgcolor=Silver|'''2nd''' || bgcolor=#CC9966|'''3rd''' || bgcolor=#CC9966|'''3rd''' || bgcolor=#CC9966|'''3rd''' || QF || bgcolor=#cc9966|'''3rd''' || • || bgcolor=Gold|'''1st''' || • || • || bgcolor=#CC9966|'''3rd''' || R16 || bgcolor=Silver|'''2nd''' || bgcolor=#CC9966|'''3rd''' ||
+! 21
+|-
+| align=left|{{fb|SEN}}
+| colspan=2| ''{{small|Part of France}}'' || colspan=2 bgcolor=#efefef| || bgcolor="#9ACDFF"|'''4th''' || GS || • || • || • || • || • || × || • || • || GS || • || bgcolor="#9ACDFF"|'''4th''' || style="border: 3px solid red"| QF || QF || • || • || QF || bgcolor=Silver| '''2nd''' || QF || bgcolor=#9ACDFF| '''4th''' || GS || • || GS || • || GS || QF || bgcolor=Silver| '''2nd''' ||bgcolor=gold|'''1st''' || R16 ||bgcolor=Silver| '''2nd''' ||
+! 18
+|-
+| align=left|{{fb|SLE}}
+| colspan=2| ''{{small|Part of the {{Tooltip|UK|Part of United Kingdom}}}}'' || colspan=3 bgcolor=#efefef| || × || × || × || • || × || • || × || • || • || × || • || × || • || GS || GS || × || × || • || • || • || • || • || • || • || • || • || × || GS || • || • ||
+! 3
+|-
+| align=left|{{fb|TOG}}
+| colspan=2| ''{{small|Part of France}}'' || colspan=2 bgcolor=#efefef| || × || • || • || GS || × || • || • || • || • || GS || • || • || × || • || × || • || GS || GS || GS || • || GS || • || •• || • || QF || • || GS || • || • || • || • ||
+! 8
+|-
+| colspan=38|'''[[Central African Football Federations' Union|Central Africa]] members'''
+|-
+| align=left|{{fb|CMR}}
+| colspan=2| ''{{small|Part of France}}'' || colspan=2 bgcolor=#efefef| || × || • || GS || style="border: 3px solid red" bgcolor=#cc9966|'''3rd''' || • || • || • || • || GS || bgcolor=Gold|'''1st''' || bgcolor=Silver|'''2nd''' || bgcolor=Gold|'''1st''' || GS || bgcolor=#9acdff|'''4th''' || • || GS || QF || bgcolor=Gold|'''1st''' || bgcolor=Gold|'''1st''' || QF || QF || bgcolor=Silver|'''2nd''' || QF || • || • || GS || bgcolor=Gold|'''1st''' || R16 || style="border: 3px solid red" bgcolor=#cc9966|'''3rd''' || R16 || QF ||
+! 22
+|-
+| align=left|{{fb|CGO}}
+| colspan=2| ''{{small|Part of France}}'' || colspan=3 bgcolor=#efefef| || GS || × || bgcolor=Gold|'''1st''' || bgcolor=#9acdff|'''4th''' || • || GS || • || • || • || • || • || × || QF || • || • || • || GS || • || • || • || • || • || • || • || QF || • || • || • || • || • ||
+! 7
+|-
+| align=left|{{fb|COD}}
+| colspan=2| ''{{nowrap|{{small|Part of Belgium}}}}'' || colspan=2 bgcolor=#efefef| || GS || bgcolor=Gold|'''1st''' || GS || bgcolor=#9acdff|'''4th''' || bgcolor=Gold|'''1st''' || GS || × || • || • || × || • || GS || • || QF || QF || QF || bgcolor=#cc9966|'''3rd''' || GS || QF || GS || QF || • || • || • || GS || bgcolor=#cc9966|'''3rd''' || QF || R16 || • || bgcolor=#9acdff|'''4th''' || R16 ||
+! 21
+|-
+| align=left|{{fb|EQG}}
+| colspan=6| ''{{small|Part of Spain}}'' || colspan=9 bgcolor=#efefef| || × || • || × || × || × || × || × || • || • || • || • || • || style="border: 3px solid red"|QF || • || style="border: 3px solid red" bgcolor=#9ACDFF|'''4th''' || • || • || QF || R16 || GS ||
+! 5
+|-
+| align=left|{{fb|GAB}}
+| colspan=2| ''{{small|Part of France}}'' || colspan=4 bgcolor=#efefef| || × || • || × || × || • || × || × || • || • || • || • || • || GS || QF || • || GS || • || • || • || • || GS || style="border: 3px solid red"|QF || • || GS || style="border: 3px solid red"|GS || • || R16 || • || GS ||
+! 9
+|-
+| colspan=38|'''[[CECAFA|East Africa]] members'''
+|-
+| align=left|{{fb|BDI}}
+| colspan=3| ''{{small|Part of Belgium}}'' || colspan=5 bgcolor=#efefef| || × || • || × || × || × || × || × || × || × || × || • || × || × || • || • || • || • || • || • || • || • || • || • || GS || • || • || • ||
+! 1
+|-
+| align=left|{{fb|ETH}}
+| bgcolor=Silver|'''2nd''' || bgcolor=#cc9966|'''3rd''' || style="border: 3px solid red" bgcolor=Gold|'''1st''' || bgcolor=#9acdff|'''4th''' || GS || style="border: 3px solid red" bgcolor=#9acdff|'''4th''' || GS || • || • || style="border: 3px solid red"|GS || • || • || GS || • || × || × || • || × || • || • || • || × || • || • || • || • || × || • || GS || • || • || • || GS || • || • ||
+! 11
+|-
+| align=left|{{fb|KEN}}
+| colspan=2 bgcolor=#efefef| || • || • || • || • || • || GS || • || • || • || • || • || × || • || GS || GS || GS || • || × || • || • || • || GS || • || • || • || • || • || • || • || GS || • || × || • ||style="border: 3px solid red"|''Q''
+! 7
+|-
+| align=left|{{fb|RWA}}
+| colspan=3| ''{{small|Part of Belgium}}'' || colspan=7 bgcolor=#efefef| || × || × || • || • || × || × || × || × || × || × || × || • || • || GS || • || • || • || • || • || × || • || • || • || • || • ||
+! 1
+|-
+| align=left|{{fb|SDN}}
+| style="border: 3px solid red" bgcolor=#cc9966|'''3rd''' || bgcolor=Silver|'''2nd''' || • || bgcolor=Silver|'''2nd''' || • || • || style="border: 3px solid red" bgcolor=Gold|'''1st''' || GS || • || GS || × || • || × || • || × || • || • || • || • || • || × || × || • || • || • || GS || • || QF || • || • || • || • || GS || • || R16 ||
+! 10
+|-
+| align=left|{{fb|TAN}}
+| colspan=5 bgcolor=#efefef| || × || • || • || • || • || • || GS || × || • || × || • || • || • || × || • || • || • || • || × || • || • || • || • || • || • || • || GS || • || GS || R16 ||style="border: 3px solid red"|''Q''
+! 5
+|-
+| align=left|{{fb|UGA}}
+| colspan=2 bgcolor=#efefef| || bgcolor=#9acdff|'''4th''' || × || • || GS || • || • || GS || GS || bgcolor=Silver|'''2nd''' || × || × || • || • || • || × || • || • || • || • || • || • || • || • || • || • || • || • || • || GS || R16 || • || • || GS ||style="border: 3px solid red"|''Q''
+! 9
+|-
+| colspan=38|'''[[Council of Southern Africa Football Associations|Southern Africa]] members'''
+|-
+| align=left|{{fb|ANG}}
+| colspan=9| ''{{small|Part of Portugal}}'' || colspan=3 bgcolor=#efefef| || • || • || × || • || • || • || • || GS || GS || • || • || • || GS || QF || style="border: 3px solid red"|QF || GS || GS || • || • || GS || • || QF || GS ||
+! 10
+|-
+| align=left|{{fb|BOT}}
+| colspan=5| ''{{small|Part of the United Kingdom}}'' || colspan=5 bgcolor=#efefef| || × || × || × || × || × || × || × || × || • || • || • || • || • || • || • || • || • || GS || • || • || • || • || • || • || GS ||
+! 2
+|-
+| align=left|{{fb|COM}}
+| colspan=9| ''{{small|Part of France}}'' || colspan=14 bgcolor=#efefef| || × || × || × || • || • || • || • || • || • || R16 || • || GS ||
+! 2
+|-
+| align=left|{{fb|MAD}}
+| colspan=2| ''{{small|Part of France}}'' || colspan=2 bgcolor=#efefef| || × || × || × || • || • || × || × || • || • || • || • || • || × || • || × || × || × || • || • || • || • || • || • || • || • || • || • || QF || • || • || • ||
+! 1
+|-
+| align=left|{{fb|MWI}}
+| colspan=4| ''{{small|Part of the United Kingdom}}'' || colspan=4 bgcolor=#efefef| || × || • || • || • || • || GS || • || • || • || • || • || • || • || • || • || • || • || • || GS || • || • || • || • || • || R16 || • || • ||
+! 3
+|-
+| align=left|{{fb|MRI}}
+| colspan=5 bgcolor=#efefef| || • || • || • || GS || • || • || • || • || • || • || × || • || • || • || • || • || • || • || • || • || • || • || • || × || • || • || • || • || • || • ||
+! 1
+|-
+| align=left|{{fb|MOZ}}
+| colspan=9| ''{{small|Part of Portugal}}'' || colspan=2 bgcolor=#efefef| || × || • || • || GS || • || • || • || • || GS || GS || • || • || • || • || • || GS || • || • || • || • || • || • || GS || R16 ||
+! 6
+|-
+| align=left|{{fb|NAM}}
+| colspan=17| ''{{small|Part of South Africa}}'' || × || × || • || GS || • || • || • || • || GS || • || • || • || • || • || GS || • || R16 || • ||
+! 4
+|-
+| align=left|{{fb|RSA}}
+| •• || colspan=17| ''{{small|Banned because of apartheid}}'' || • || style="border: 3px solid red" bgcolor=Gold|'''1st''' || bgcolor=Silver|'''2nd''' || bgcolor=#cc9966|'''3rd''' || QF || GS || GS || GS || • || • || style="border: 3px solid red"|QF || GS || • || QF || • || bgcolor=#cc9966|'''3rd''' || R16 ||
+! 12
+|-
+| align=left|{{fb|ZAM}}
+| colspan=4 bgcolor=#efefef| || × || × || • || • || bgcolor=Silver|'''2nd''' || • || GS || • || bgcolor=#cc9966|'''3rd''' || • || GS || × || bgcolor=#cc9966|'''3rd''' || QF || bgcolor=Silver|'''2nd''' || bgcolor=#cc9966|'''3rd''' || GS || GS || GS || • || GS || GS || QF || bgcolor=Gold|'''1st''' || GS || GS || • || • || • || GS || GS ||
+! 19
+|-
+| align=left|{{fb|ZIM}}
+| colspan=12 bgcolor=#efefef| || • || • || • || • || • || • || • || • || • || • || • || GS || GS || • || • || • || • || • || GS || GS || GS || × || GS ||
+! 6
+|-
+!Team
+!{{flagicon|SDN|1956}}<br />[[1957 African Cup of Nations|1957]]<br />(3)
+!{{flagicon|UAR}}<br />[[1959 African Cup of Nations|1959]]<br />(3)
+!{{flagicon|ETH|1897}}<br />[[1962 African Cup of Nations|1962]]<br />(4)
+!{{flagicon|GHA}}<br />[[1963 African Cup of Nations|1963]]<br />(6)
+!{{flagicon|TUN|1959}}<br />[[1965 African Cup of Nations|1965]]<br />(6)
+!{{flagicon|ETH|1897}}<br />[[1968 African Cup of Nations|1968]]<br />(8)
+!{{flagicon|SDN|1956}}<br />[[1970 African Cup of Nations|1970]]<br />(8)
+!{{flagicon|CMR|1961}}<br />[[1972 African Cup of Nations|1972]]<br />(8)
+!{{flagicon|EGY|1972}}<br />[[1974 African Cup of Nations|1974]]<br />(8)
+!{{flagicon|ETH|1975}}<br />[[1976 African Cup of Nations|1976]]<br />(8)
+!{{flagicon|GHA}}<br />[[1978 African Cup of Nations|1978]]<br />(8)
+!{{flagicon|NGA}}<br />[[1980 African Cup of Nations|1980]]<br />(8)
+!{{flagicon|LBY|1977}}<br />[[1982 African Cup of Nations|1982]]<br />(8)
+!{{flagicon|CIV}}<br />[[1984 African Cup of Nations|1984]]<br />(8)
+!{{flagicon|EGY}}<br />[[1986 African Cup of Nations|1986]]<br />(8)
+!{{flagicon|MAR}}<br />[[1988 African Cup of Nations|1988]]<br />(8)
+!{{flagicon|ALG}}<br />[[1990 African Cup of Nations|1990]]<br />(8)
+!{{flagicon|SEN}}<br />[[1992 African Cup of Nations|1992]]<br />(12)
+!{{flagicon|TUN|1959}}<br />[[1994 African Cup of Nations|1994]]<br />(12)
+!{{flagicon|RSA}}<br />[[1996 African Cup of Nations|1996]]<br />(15)
+!{{flagicon|BFA}}<br />[[1998 African Cup of Nations|1998]]<br />(16)
+!{{flagicon|GHA}}<br />{{flagicon|NGA}}<br />[[2000 African Cup of Nations|2000]]<br />(16)
+!{{flagicon|MLI}}<br />[[2002 African Cup of Nations|2002]]<br />(16)
+!{{flagicon|TUN}}<br />[[2004 African Cup of Nations|2004]]<br />(16)
+!{{flagicon|EGY}}<br />[[2006 Africa Cup of Nations|2006]]<br />(16)
+!{{flagicon|GHA}}<br />[[2008 Africa Cup of Nations|2008]]<br />(16)
+!{{flagicon|ANG}}<br />[[2010 Africa Cup of Nations|2010]]<br />(15)
+!{{flagicon|EQG}}<BR>{{flagicon|GAB}}<br />[[2012 Africa Cup of Nations|2012]]<br />(16)
+!{{flagicon|RSA}}<br />[[2013 Africa Cup of Nations|2013]]<br />(16)
+!{{flagicon|GNQ}}<br />[[2015 Africa Cup of Nations|2015]]<br />(16)
+!{{flagicon|GAB}}<br />[[2017 Africa Cup of Nations|2017]]<br />(16)
+!{{flagicon|EGY}}<br />[[2019 Africa Cup of Nations|2019]]<br />(24)
+!{{flagicon|CMR}}<br />[[2021 Africa Cup of Nations|2021]]<br />(24)
+!{{flagicon|CIV}}<br />[[2023 Africa Cup of Nations|2023]]<br />(24)
+!{{flagicon|MAR}}<br />[[2025 Africa Cup of Nations|2025]]<br />(24)
+!{{flagicon|KEN}}<BR>{{flagicon|TAN}}<BR>{{flagicon|UGA}}<br />[[2027 Africa Cup of Nations|2027]]<br />(24)
+!Apps.
+|}
+</div>
+
+===Women's Africa Cup of Nations===
+{{See also|Women's Africa Cup of Nations#Participating nations|Women's Africa Cup of Nations records and statistics}}
+{| class="wikitable" style="text-align:center; font-size:85%"
+!colspan=18|[[Women's Africa Cup of Nations]] record
+|-
+! width=150|Team<br />(Total 31 teams)
+! [[1991 African Women's Championship|1991]]<br />{{flagicon|}}<br />(4)
+! [[1995 African Women's Championship|1995]]<br />{{flagicon|}}<br />(6)
+! [[1998 African Women's Championship|1998]]<br />{{flagicon|NGR}}<br />(7)
+! [[2000 African Women's Championship|2000]]<br />{{flagicon|RSA}}<br />(8)
+! [[2002 African Women's Championship|2002]]<br />{{flagicon|NGR}}<br />(8)
+! [[2004 African Women's Championship|2004]]<br />{{flagicon|RSA}}<br />(8)
+! [[2006 African Women's Championship|2006]]<br />{{flagicon|NGR}}<br />(8)
+! [[2008 African Women's Championship|2008]]<br />{{flagicon|EQG}}<br />(8)
+! [[2010 African Women's Championship|2010]]<br />{{flagicon|RSA}}<br />(8)
+! [[2012 African Women's Championship|2012]]<br />{{flagicon|EQG}}<br />(8)
+! [[2014 African Women's Championship|2014]]<br />{{flagicon|NAM}}<br />(8)
+! [[2016 Women's Africa Cup of Nations|2016]]<br />{{flagicon|CMR}}<br />(8)
+! [[2018 Women's Africa Cup of Nations|2018]]<br />{{flagicon|GHA}}<br />(8)
+! [[2022 Women's Africa Cup of Nations|2022]]<br />{{flagicon|MAR}}<br />(12)
+! [[2024 Women's Africa Cup of Nations|2024]]<br />{{flagicon|MAR}}<br />(12)
+! [[2026 Women's Africa Cup of Nations|2026]]<br />{{flagicon|MAR}}<br />(16)
+! Apps.
+|-
+| align=left|{{fbw|ALG|size=20px}}
+| colspan=3 bgcolor="#efefef"| || • || × || R1 || R1 || • || R1 || × || R1 || • || R1 || • || QF || ''Q''
+!7
+|-
+| align=left|{{fbw|ANG|size=20px}}
+| bgcolor="#efefef"| ||style="background:#81c846"| SF || × || × || R1 || × || • || × || • || × || × || × || × || • || • || •
+!2
+|-
+| align=left|{{fbw|BOT|size=20px}}<!--Botswana-->
+| colspan=4 bgcolor="#efefef"| || × || × || × || • || • || • || • || • || × || QF || R1 || •
+!2
+|-
+| align=left|{{fbw|BFA|size=20px}}<!--Burkina Faso-->
+| colspan=7 bgcolor="#efefef"| || × || × || × || • || • || • || R1 || • || ''Q''
+!2
+|-
+| align=left|{{fbw|BDI|size=20px}}<!--Burundi-->
+| colspan=11 bgcolor="#efefef"| || × || × || R1 || • || •
+!1
+|-
+| align=left|{{fbw|CMR|size=20px}}
+| bgcolor=Silver| 2nd || bgcolor="#efefef"| × || bgcolor=#9acdff| 4th || R1 || bgcolor=#cc9966| 3rd || bgcolor=Silver| 2nd || bgcolor=#9acdff| 4th || bgcolor=#9acdff| 4th || bgcolor=#9acdff| 4th || bgcolor=#cc9966| 3rd || bgcolor=Silver| 2nd ||style="border: 3px solid red" bgcolor=Silver| 2nd || bgcolor=#cc9966| 3rd || QF || • || ''Q'' 
+!14
+|-
+| align=left|{{fbw|CPV|size=20px}}<!--Cape Verde-->
+| colspan=13 bgcolor="#efefef"| || × || • || ''Q''
+!1
+|-
+| align=left|{{fbw|CGO|size=20px}}
+| •• || colspan=4 bgcolor="#efefef"| || • || • || R1 || × || × || × || × || • || • || • || ×
+!1
+|-
+| align=left|{{fbw|COD|size=20px}}
+| colspan=2 bgcolor="#efefef"| || bgcolor=#cc9966| '''3rd''' || × || • || × || R1 || • || • || R1 || × || × || × || × || R1 || •
+!4
+|-
+| align=left|{{fbw|EGY|size=20px}}
+| colspan=2 bgcolor="#efefef"| || R1 || • || × || × || • || bgcolor="#efefef"| × || bgcolor="#efefef"| × || • || • || R1 || × || • || • || ''Q''
+!3
+|-
+| align=left|{{fbw|EQG|size=20px}}
+| colspan=4 bgcolor="#efefef"| || • || • || R1 || style="border: 3px solid red" bgcolor=Gold| 1st || bgcolor=Silver| 2nd || style="border: 3px solid red" bgcolor=Gold| 1st || • || • || R1 || • || • || •
+!5
+|-
+| align=left|{{fbw|ETH|size=20px}}
+| colspan=4 bgcolor="#efefef"| || R1 || bgcolor=#9acdff| 4th || bgcolor="#efefef"| × || bgcolor="#efefef"| || • || R1 || • || • || • || • || • || •
+!3
+|-
+| align=left|{{fbw|GHA|size=20px}}
+| QF ||style="background:#81c846"| SF || bgcolor=Silver| 2nd || bgcolor=#cc9966| 3rd || bgcolor=Silver| 2nd || bgcolor=#cc9966| 3rd || bgcolor=Silver| 2nd || R1 || R1 || • || R1 || bgcolor=#cc9966| 3rd || style="border: 3px solid red"| R1 || • || bgcolor=#cc9966| 3rd || ''Q''
+!14
+|-
+| align=left|{{fbw|GUI|size=20px}}
+|style="background:#81c846"| SF || × || • || × || × || • || • || • || • || • || × || • || × || • || • || •
+!1
+|-
+| align=left|{{fbw|CIV|size=20px}}
+| × || × || × || × || • || × || • || • || • || R1 || bgcolor=#cc9966| '''3rd''' || • || • || • || • || ''Q''
+!3
+|-
+| align=left|{{fbw|KEN|size=20px}}
+| colspan=6 bgcolor="#efefef"| || • || × || × || × || • || R1 || • || × || • || ''Q''
+!2
+|-
+| align=left|{{fbw|MWI|size=20px}}
+| colspan=5 bgcolor="#efefef"| || • || • || × || × || • || × || × || × || • || × || ''Q''
+!1
+|-
+| align=left|{{fbw|MLI|size=20px}}
+| colspan=4 bgcolor="#efefef"| || R1 || R1 || R1 || R1 || R1 || • || • || R1 || bgcolor=#9acdff| 4th || • || QF || ''Q''
+!9
+|-
+| align=left|{{fbw|MAR|size=20px}}
+| colspan=2 bgcolor="#efefef"| || R1 || R1 || • || × || • || • || • || • || • || • || • || style="border: 3px solid red" bgcolor=Silver| 2nd || style="border: 3px solid red" bgcolor=Silver| 2nd || style="border: 3px solid red"| ''Q''
+!5
+|-
+| align=left|{{fbw|NAM|size=20px}}
+| colspan=6 bgcolor="#efefef"| || • || • || • || • || style="border: 3px solid red"| R1 || • || • || • || • || •
+!1
+|-
+| align=left|{{fbw|NGR|size=20px}}
+| bgcolor=Gold| 1st || bgcolor=Gold| 1st || style="border: 3px solid red" bgcolor=Gold| 1st || bgcolor=Gold| 1st || style="border: 3px solid red" bgcolor=Gold| 1st || bgcolor=Gold| 1st || style="border: 3px solid red" bgcolor=Gold| 1st || bgcolor=#cc9966| 3rd || bgcolor=Gold| 1st || bgcolor=#9acdff| 4th || bgcolor=Gold| 1st || bgcolor=Gold| 1st || bgcolor=Gold| 1st ||bgcolor=#9acdff| 4th || bgcolor=Gold| 1st || ''Q''
+!16
+|-
+| align=left|{{fbw|REU|size=20px}}
+| colspan=3 bgcolor="#efefef"| || R1 || colspan=12 bgcolor="#efefef"| 
+!1
+|-
+| align=left|{{fbw|SEN|size=20px}}
+| •• || × || × || × || • || • || • || • || • || R1 || • || • || • || QF || QF || ''Q''
+!4
+|-
+| align=left|{{fbw|SLE|size=20px}}
+| × || QF || × || × || × || × || × || × || • || × || × || × || × || • || × || •
+!1
+|-
+| align=left|{{fbw|RSA|size=20px}}
+| bgcolor="#efefef"| || bgcolor=Silver| 2nd || R1 || style="border: 3px solid red" bgcolor=Silver| 2nd || bgcolor=#9acdff| 4th || style="border: 3px solid red"| R1 || bgcolor=#cc9966| 3rd || bgcolor=Silver| 2nd || style="border: 3px solid red" bgcolor=#cc9966| 3rd || bgcolor=Silver| 2nd || bgcolor=#9acdff| 4th || bgcolor=#9acdff| 4th || bgcolor=Silver| 2nd || bgcolor=Gold| 1st || bgcolor=#9acdff| 4th || ''Q''
+!15
+|-
+| align=left|{{fbw|TAN|size=20px}}
+| colspan=4 bgcolor="#efefef"| || • || • || • || • || R1 || • || • || • || • || • || R1 || ''Q''
+!3
+|-
+| align=left|{{fbw|TOG|size=20px}}
+| colspan=6 bgcolor="#efefef"| || • || × || × || × || × || × || × || R1 || • || •
+!1
+|-
+| align=left|{{fbw|TUN|size=20px}}
+| colspan=7 bgcolor="#efefef"| || R1 || • || • || • || • || × || QF || R1 || •
+!3
+|-
+| align=left|{{fbw|UGA|size=20px}}
+| colspan=2 bgcolor="#efefef"| || • || R1 || • || × || × || × || × || • || × || × || • || R1 || • || •
+!2
+|-
+| align=left|{{fbw|ZAM|size=20px}}
+| •• || QF || × || × || • || × || • || • || × || • || R1 || • || R1 || bgcolor=#cc9966| 3rd || QF || ''Q''
+!6
+|-
+| align=left|{{fbw|ZIM|size=20px}}
+| •• || colspan=2 bgcolor="#efefef"| || bgcolor=#9acdff| 4th || R1 || R1 || × || • || × || • || • || R1 || • || • || × || •
+!4
+|}
+
+===FIFA U-20 World Cup===
+{{main|FIFA U-20 World Cup records and statistics}}
+
+{| class="wikitable" style="text-align:center; font-size:90%"
+!colspan=27|[[FIFA U-20 World Cup]] record
+|-
+! width=200|Team
+![[1977 FIFA World Youth Championship|1977]]<br />{{Flagicon|Tunisia|1959}}<br />(16)
+![[1979 FIFA World Youth Championship|1979]]<br />{{Flagicon|Japan|1947}}<br />(16)
+![[1981 FIFA World Youth Championship|1981]]<br />{{Flagicon|Australia}}<br />(16)
+![[1983 FIFA World Youth Championship|1983]]<br />{{Flagicon|Mexico}}<br />(16)
+![[1985 FIFA World Youth Championship|1985]]<br />{{Flagicon|USSR}}<br />(16)
+![[1987 FIFA World Youth Championship|1987]]<br />{{Flagicon|Chile}}<br />(16)
+![[1989 FIFA World Youth Championship|1989]]<br />{{Flagicon|Saudi Arabia}}<br />(16)
+![[1991 FIFA World Youth Championship|1991]]<br />{{Flagicon|Portugal}}<br />(16)
+![[1993 FIFA World Youth Championship|1993]]<br />{{Flagicon|Australia}}<br />(16)
+![[1995 FIFA World Youth Championship|1995]]<br />{{Flagicon|Qatar}}<br />(16)
+![[1997 FIFA World Youth Championship|1997]]<br />{{Flagicon|Malaysia}}<br />(24)
+![[1999 FIFA World Youth Championship|1999]]<br />{{Flagicon|Nigeria}}<br />(24)
+![[2001 FIFA World Youth Championship|2001]]<br />{{Flagicon|Argentina}}<br />(24)
+![[2003 FIFA World Youth Championship|2003]]<br />{{Flagicon|United Arab Emirates}}<br />(24)
+![[2005 FIFA World Youth Championship|2005]]<br />{{Flagicon|Netherlands}}<br />(24)
+![[2007 FIFA U-20 World Cup|2007]]<br />{{Flagicon|Canada}}<br />(24)
+![[2009 FIFA U-20 World Cup|2009]]<br />{{Flagicon|Egypt}}<br />(24)
+![[2011 FIFA U-20 World Cup|2011]]<br />{{Flagicon|Colombia}}<br />(24)
+![[2013 FIFA U-20 World Cup|2013]]<br />{{Flagicon|Turkey}}<br />(24)
+![[2015 FIFA U-20 World Cup|2015]]<br />{{Flagicon|New Zealand}}<br />(24)
+![[2017 FIFA U-20 World Cup|2017]]<br />{{Flagicon|South Korea}}<br />(24)
+![[2019 FIFA U-20 World Cup|2019]]<br />{{Flagicon|Poland}}<br />(24)
+![[2023 FIFA U-20 World Cup|2023]]<br />{{Flagicon|Argentina}}<br />(24)
+![[2025 FIFA U-20 World Cup|2025]]<br />{{Flagicon|Chile}}<br />(24)
+![[2027 FIFA U-20 World Cup|2027]]<br />{{Flagicon|Azerbaijan}}<br />{{Flagicon|Uzbekistan}}<br />(24)
+!Apps.
+|- align=center 
+| align=left| {{fbu|20|ALG}}
+| ×||QF||•||•||•||×||•||×||•||•||•||•||•||•||•||•||•||•||•||×||•||•||•||•||
+! 1
+|- align=center 
+| align=left| {{fbu|20|ANG}}
+| ×||×||×||•||•||×||•||×||×||•||•||•||R2||•||•||•||•||•||•||•||•||•||•||•||
+! 1
+|- align=center 
+| align=left| {{fbu|20|BEN}}
+| ×||×||×||×||×||×||×||•||×||×||•||×||×||×||R1||×||•||•||•||•||×||•||•||•||
+! 1
+|- align=center 
+| align=left| {{fbu|20|BFA}}
+| ×||×||×||×||×||×||×||×||×||•||•||×||•||R2||•||•||•||•||•||•||•||•||•||•||
+! 1
+|- align=center 
+| align=left| {{fbu|20|BDI}}
+| ×||×||×||×||×||×||×||×||×||R1||×||•||×||•||×||•||•||•||×||•||•||•||•||•||
+! 1
+|- align=center 
+| align=left| {{fbu|20|CMR}}
+| ×||•||R1||•||•||•||•||•||R1||QF||•||R2||•||•||•||•||R1||R2||•||•||•||•||•||•||
+! 6
+|- align=center 
+| align=left| {{fbu|20|CGO}}
+| ×||×||×||×||×||×||×||×||•||×||×||•||×||×||×||R2||•||•||•||•||•||•||•||×||
+! 1
+|- align=center 
+| align=left| {{fbu|20|EGY}}
+| •||•||QF||•||•||•||•||R1||•||•||•||•||bgcolor=#cc9966|3rd||R2||R1||•||style="border: 3px solid red"|R2||R2||R1||•||•||•||•||R1||
+! 9
+|- align=center 
+| align=left| {{fbu|20|ETH}}
+| ×||•||•||×||•||•||×||•||•||•||•||•||R1||•||×||•||×||×||×||•||•||•||•||•||
+! 1
+|- align=center 
+| align=left| {{fbu|20|GAM}}
+| ×||×||×||•||•||×||×||•||×||×||×||×||•||×||•||R2||•||•||•||•||•||•||R2||•||
+! 2
+|- align=center 
+| align=left| {{fbu|20|GHA}}
+| ×||×||×||×||•||•||•||•||bgcolor=silver|2nd||•||bgcolor=#9acdff|4th||QF||bgcolor=silver|2nd||•||•||•||bgcolor=gold|1st||•||bgcolor=#cc9966|3rd||R2||•||•||•||•||
+! 7
+|- align=center 
+| align=left| {{fbu|20|GUI}}
+| •||R1||•||•||•||•||•||•||×||•||•||•||×||•||•||•||•||•||•||•||R1||•||•||•||
+! 2
+|- align=center 
+| align=left| {{fbu|20|CIV}}
+| R1||×||×||R1||•||•||•||R1||×||•||R1||•||•||R2||•||•||•||•||•||•||•||•||•||•||
+! 5
+|- align=center 
+| align=left| {{fbu|20|MLI}}
+| ×||×||×||×||×||×||R1||•||•||•||•||bgcolor=#cc9966|3rd||•||R1||•||•||•||R1||R1||bgcolor=#cc9966|3rd||•||QF||•||•||
+! 7
+|- align=center 
+| align=left| {{fbu|20|MAR}}
+| R1||•||•||•||•||•||•||•||•||•||R2||•||•||•||bgcolor=#9acdff|4th||•||•||•||•||•||•||•||•||bgcolor=gold|1st||
+! 4
+|- align=center 
+| align=left| {{fbu|20|NGA}}
+| ×||•||•||R1||bgcolor=#cc9966|3rd||R1||bgcolor=silver|2nd||•||•||•||•||style="border: 3px solid red"|QF||•||•||bgcolor=silver|2nd||QF||R2||QF||R2||R2||•||R2||QF||R2||
+! 14
+|- align=center
+| align=left| {{fbu|20|SEN}}
+| ×||×||×||•||×||×||•||•||•||•||•||•||•||•||•||•||•||•||•||bgcolor=#9acdff|4th||R2||QF||R1||•||
+! 4
+|- align=center 
+| align=left| {{fbu|20|RSA}}
+| ×||×||×||×||×||×||×||×||×||•||R1||•||•||•||•||•||R2||•||•||•||R1||R1||•||R2||
+! 5
+|- align=center 
+| align=left| {{fbu|20|TOG}}
+| ×||×||•||•||×||R1||×||×||•||•||×||•||×||•||×||•||×||•||×||•||×||•||•||•||
+! 1
+|- align=center 
+| align=left| {{fbu|20|TUN}}
+|style="border: 3px solid red"|R1||•||•||•||R1||•||•||•||•||•||•||•||•||•||•||•||•||•||•||•||•||•||R2||•||
+! 3
+|- align=center 
+| align=left| {{fbu|20|ZAM}}
+| ×||×||×||×||•||•||×||•||×||•||•||R1||•||•||•||R2||•||•||•||•||QF||•||•||•||
+! 3
+|-
+! align=left|Total (21 teams)||3||2||2||2||2||2||2||2||2||2||4||5||4||4||4||4||5||4||4||4||4||4||4||4||4
+! 26
+|}
+
+===FIFA U-20 Women's World Cup===
+{{See also|FIFA U-20 Women's World Cup#Comprehensive team results in each World Cup}}
+{| class="wikitable" style="text-align:center; font-size:90%"
+!colspan=14|[[FIFA U-20 Women's World Cup]] record
+|-
+!Team
+![[2002 FIFA U-19 Women's World Championship|2002]]<br />{{flagicon|CAN}}<br />(12)
+![[2004 FIFA U-19 Women's World Championship|2004]]<br />{{flagicon|THA}}<br />(12)
+![[2006 FIFA U-20 Women's World Championship|2006]]<br />{{flagicon|RUS}}<br />(16)
+![[2008 FIFA U-20 Women's World Cup|2008]]<br />{{flagicon|CHI}}<br />(16)
+![[2010 FIFA U-20 Women's World Cup|2010]]<br />{{flagicon|GER}}<br />(16)
+![[2012 FIFA U-20 Women's World Cup|2012]]<br />{{flagicon|JPN}}<br />(16)
+![[2014 FIFA U-20 Women's World Cup|2014]]<br />{{flagicon|CAN}}<br />(16)
+![[2016 FIFA U-20 Women's World Cup|2016]]<br />{{flagicon|PNG}}<br />(16)
+![[2018 FIFA U-20 Women's World Cup|2018]]<br />{{flagicon|FRA}}<br />(16)
+![[2022 FIFA U-20 Women's World Cup|2022]]<br />{{flagicon|CRC}}<br />(16){{efn|Costa Rica and Panama were originally due to host the [[2020 FIFA U-20 Women's World Cup]], but the latter withdrew citing [[COVID-19 pandemic in Panama|the COVID-19 pandemic]] and left Costa Rica as the sole hosts. FIFA postponed the 2020 edition to the following year, i.e. 2021, pending improvement in pandemic management, but cancelled it altogether on 17 November 2020 due to the escalation of the pandemic caused by the discovery of [[SARS-CoV-2 Omicron variant|the COVID-19 Omicron variant]] a month earlier and automatically awarded them the 2022 edition.}}
+![[2024 FIFA U-20 Women's World Cup|2024]]<br />{{flagicon|COL}}<br />(24)
+![[2026 FIFA U-20 Women's World Cup|2026]]<br />{{flagicon|POL}}<br />(24)
+!Apps.
+|-align=center
+|align=left| {{fbwu|20|BEN}}
+|•||•||•||•||•||•||•||•||•||•||•||Q
+!1
+|-align=center
+|align=left| {{fbwu|20|CMR}}
+|×||×||•||•||×||•||×||•||•||•||R2||•
+!1
+|-align=center
+|align=left| {{fbwu|20|COD}}
+|×||•||R1||R1||•||•||×||•||×||•||•||•
+!2
+|-align=center
+|align=left| {{fbwu|20|GHA}}
+|×||×||•||•||R1||R1||R1||R1||R1||R1||R1||Q
+!8
+|-align=center
+|align=left| {{fbwu|20|MAR}}
+|•||•||•||×||×||•||•||×||•||•||R1||•
+!1
+|-align=center
+|align=left| {{fbwu|20|NGA}}
+|R1||QF||QF||QF||bgcolor=silver|2nd||bgcolor=#9acdff|4th||bgcolor=silver|2nd||R1||QF||QF||R2||Q
+!12
+|-align=center
+|align=left| {{fbwu|20|TAN}}
+|•||•||•||•||•||•||•||•||•||•||•||Q
+!1
+|-align=center
+!align=left|Total (7 teams)||1||1||2||2||2||2||2||2||2||2||4||4
+!26
+|}
+
+===FIFA U-17 World Cup===
+{{main|FIFA U-17 World Cup records and statistics}}
+
+{| class="wikitable" style="text-align:center; font-size:90%"
+!colspan=23|[[FIFA U-17 World Cup]] record
+|-
+!Team
+![[1985 FIFA U-16 World Championship|1985]]<br />{{Flagicon|China}}<br />(16)
+![[1987 FIFA U-16 World Championship|1987]]<br />{{Flagicon|Canada}}<br />(16)
+![[1989 FIFA U-16 World Championship|1989]]<br />{{Flagicon|Scotland}}<br />(16)
+![[1991 FIFA U-17 World Championship|1991]]<br />{{Flagicon|Italy}}<br />(16)
+![[1993 FIFA U-17 World Championship|1993]]<br />{{Flagicon|Japan|1947}}<br />(16)
+![[1995 FIFA U-17 World Championship|1995]]<br />{{Flagicon|Ecuador}}<br />(16)
+![[1997 FIFA U-17 World Championship|1997]]<br />{{Flagicon|Egypt}}<br />(16)
+![[1999 FIFA U-17 World Championship|1999]]<br />{{Flagicon|New Zealand}}<br />(16)
+![[2001 FIFA U-17 World Championship|2001]]<br />{{Flagicon|Trinidad and Tobago}}<br />(16)
+![[2003 FIFA U-17 World Championship|2003]]<br />{{Flagicon|Finland}}<br />(16)
+![[2005 FIFA U-17 World Championship|2005]]<br />{{Flagicon|Peru|football}}<br />(16)
+![[2007 FIFA U-17 World Cup|2007]]<br />{{Flagicon|South Korea|1997}}<br />(24)
+![[2009 FIFA U-17 World Cup|2009]]<br />{{Flagicon|Nigeria}}<br />(24)
+![[2011 FIFA U-17 World Cup|2011]]<br />{{Flagicon|Mexico}}<br />(24)
+![[2013 FIFA U-17 World Cup|2013]]<br />{{Flagicon|United Arab Emirates}}<br />(24)
+![[2015 FIFA U-17 World Cup|2015]]<br />{{Flagicon|Chile}}<br />(24)
+![[2017 FIFA U-17 World Cup|2017]]<br />{{Flagicon|India}}<br />(24)
+![[2019 FIFA U-17 World Cup|2019]]<br />{{Flagicon|Brazil}}<br />(24){{efn|Original hosts Peru were stripped of the rights to host the 2019 edition in February that year.<ref>{{cite web|date=22 February 2019|title=Update on the FIFA U-17 World Cup 2019|url=https://www.fifa.com/about-fifa/who-we-are/news/update-on-the-fifa-u-17-world-cup-2019|website=[[FIFA|FIFA.com]]|access-date=23 February 2019}}</ref>}}
+![[2023 FIFA U-17 World Cup|2023]]<br />{{Flagicon|Indonesia}}<br />(24){{efn|Peru was originally due to host the [[2021 FIFA U-17 World Cup]] but FIFA cancelled it on 24 December 2020 citing the [[COVID-19 pandemic]] and its escalation of the pandemic caused by the discovery of [[SARS-CoV-2 Omicron variant|the COVID-19 Omicron variant]] a month earlier as the reasons and automatically awarded them the 2023 edition. Peru later withrew as hosts on 2 May 2023 due to infrastructural defects and FIFA awarded the hosting eights to Indonesia, whom FIFA earlier stripped the hosting rights for the year's FIFA U-20 World Cup.}}
+![[2025 FIFA U-17 World Cup|2025]]<br />{{Flagicon|QAT}}<br />(48)
+![[2026 FIFA U-17 World Cup|2026]]<br />{{Flagicon|QAT}}<br />(48)
+! Apps.
+|-align=center
+|align=left|{{fbu|17|ALG}}
+|•||•||•||•||•||•||•||•||•||•||•||•||R1||•||•||•||•||•||•||•||Q
+! 2
+|-align=center
+|align=left|{{fbu|17|ANG}}
+|×||×||×||×||×||•||•||•||•||•||•||•||•||•||•||•||•||R2||×||•||•
+!1
+|-align=center
+|align=left|{{fbu|17|BFA}}
+|•||•||•||•||•||•||•||R1||bgcolor=#cc9966|3rd||•||•||•||R2||R1||•||•||•||•||R1||QF||•
+!6
+|-align=center
+|align=left|{{fbu|17|CMR}}
+|•||•||•||•||•||•||•||•||•||R1||•||•||•||•||•||•||•||R1||•||•||Q
+!3
+|-align=center
+|align=left|{{fbu|17|CGO}}
+|R1||•||•||R1||•||•||•||•||•||•||•||•||•||R2||•||•||•||•||•||×||×
+!3
+|-align=center
+|align=left|{{fbu|17|EGY}}
+|•||R1||•||×||•||•||style="border: 3px solid red" |QF||•||×||•||×||•||×||•||×||•||•||×||•||R2||Q
+!4
+|-align=center
+|align=left|{{fbu|17|GAM}}
+|•||•||•||•||•||•||•||•||•||•||R1||•||R1||•||•||•||•||•||×||•||•
+!2
+|-align=center
+|align=left|{{fbu|17|GHA}}
+|•||•||R1||bgcolor=gold|1st||bgcolor=silver|2nd||bgcolor=gold|1st||bgcolor=silver|2nd||bgcolor=#cc9966|3rd||•||•||R1||bgcolor=#9acdff|4th||•||•||•||•||QF||•||•||•||
+!9
+|-align=center
+|align=left|{{fbu|17|GUI}}
+|bgcolor=#9acdff|4th||•||R1||•||•||R1||•||•||•||•||•||•||•||•||•||R1||R1||×||×||×||•
+!6
+|-align=center
+|align=left|{{fbu|17|CIV}}
+|•||bgcolor=#cc9966|3rd||•||•||•||•||•||•||•||•||R1||•||•||R2||QF||•||•||•||•||R1||Q
+!6
+|-align=center
+|align=left|{{fbu|17|MWI}}
+|•||•||•||•||•||•||•||•||•||•||•||•||R1||•||•||•||•||•||•||•||•
+!1
+|-align=center
+|align=left|{{fbu|17|MLI}}
+|•||•||•||•||•||•||QF||R1||QF||•||•||•||•||•||•||bgcolor=silver|2nd||bgcolor=#9acdff|4th||•||bgcolor=#cc9966|3rd||R3||Q
+!8
+|-align=center
+|align=left|{{fbu|17|MAR}}
+|•||•||•||•||•||•||•||•||•||•||•||•||•||•||R2||•||•||•||QF||QF||Q
+!4
+|-align=center
+|align=left|{{fbu|17|MOZ}}
+|•||•||•||•||•||•||•||•||•||•||•||•||•||•||•||•||•||•||•||•||Q
+!1
+|-align=center
+|align=left|{{fbu|17|NIG}}
+|•||•||•||•||•||•||•||•||•||•||•||•||•||•||•||•||R2||•||•||•||•
+!1
+|-align=center
+|align=left|{{fbu|17|NGR}}
+|bgcolor=gold| 1st||bgcolor=silver|2nd||QF||•||bgcolor=gold|1st||QF||•||•||bgcolor=silver|2nd||R1||•||bgcolor=gold|1st||style="border: 3px solid red" bgcolor=silver|2nd||•||bgcolor=gold|1st||bgcolor=gold|1st||•||R2||•||•||•
+!12
+|-align=center
+|align=left|{{fbu|17|RWA}}
+|•||•||•||•||•||•||•||•||•||•||•||•||•||R1||•||•||•||•||×||×||•
+!1
+|-align=center
+|align=left|{{fbu|17|SEN}}
+|•||•||•||•||•||•||•||•||•||•||•||•||•||•||•||•||•||R2||R2||R2||Q
+!4
+|-align=center
+|align=left|{{fbu|17|SLE}}
+|•||•||•||•||•||•||•||•||•||R1||•||•||•||•||•||•||•||•||•||•||•
+!1
+|-align=center
+|align=left|{{fbu|17|RSA}}
+|•||•||•||•||•||•||•||•||•||•||•||•||•||•||•||R1||•||•||•||R2||•
+!2
+|-align=center
+|align=left|{{fbu|17|SDN}}
+|•||•||•||R1||•||•||•||•||•||•||•||•||•||•||•||•||•||•||×||•||•
+!1
+|-align=center
+|align=left|{{fbu|17|TAN}}
+|×||×||×||×||•||•||•||•||•||•||•||•||•||•||•||•||•||•||•||•||Q
+!1
+|-align=center
+|align=left|{{fbu|17|TOG}}
+|•||•||•||•||•||•||•||•||•||•||•||R1||•||•||•||•||•||•||•||•||•
+!1
+|-align=center
+|align=left|{{fbu|17|TUN}}
+|•||•||•||•||R1||•||•||•||•||•||•||R2||•||•||R2||•||•||•||•||R2||•
+!4
+|-align=center
+|align=left|{{fbu|17|UGA}}
+|•||•||×||×||•||×||•||•||•||•||•||•||•||•||•||•||•||•||•||R3||Q
+!2
+|-align=center
+|align=left|{{fbu|17|ZAM}}
+|•||×||•||•||×||×||×||•||•||•||×||•||•||•||•||•||•||•||•||R2||•
+!1
+|-
+!align=left|Total (25 teams)||3||2||3||3||3||3||2||3||3||3||3||4||5||4||4||4||4||4||4||10||10
+! 
+|}
+
+===FIFA U-17 Women's World Cup===
+{{See also|FIFA U-17 Women's World Cup#Comprehensive team results by tournament}}
+{| class="wikitable" style="text-align:center; font-size:90%"
+! colspan=15|[[FIFA U-17 Women's World Cup]] record
+|-
+!Team
+![[2008 FIFA U-17 Women's World Cup|2008]]<br />{{flagicon|NZL}}<br />(16)
+![[2010 FIFA U-17 Women's World Cup|2010]]<br />{{flagicon|TRI}}<br />(16)
+![[2012 FIFA U-17 Women's World Cup|2012]]<br />{{flagicon|AZE}}<br />(16)
+![[2014 FIFA U-17 Women's World Cup|2014]]<br />{{flagicon|CRC}}<br />(16)
+![[2016 FIFA U-17 Women's World Cup|2016]]<br />{{flagicon|JOR}}<br />(16)
+![[2018 FIFA U-17 Women's World Cup|2018]]<br />{{flagicon|URU}}<br />(16)
+![[2022 FIFA U-17 Women's World Cup|2022]]<br />{{flagicon|IND}}<br />(16){{efn|India were originally due to host the [[2021 FIFA U-17 Women's World Cup|2020 FIFA U-17 Women's World Cup]], but it was postponed to the following year, i.e. 2021, due to the [[COVID-19 pandemic]] by FIFA, who eventually cancelled it on 17 November 2020 and rather automatically awarded them the 2022 edition.}}
+![[2024 FIFA U-17 Women's World Cup|2024]]<br />{{flagicon|DOM}}<br />(16)
+![[2025 FIFA U-17 Women's World Cup|2025]]<br />{{flagicon|MAR}}<br />(24)
+![[2026 FIFA U-17 Women's World Cup|2026]]<br />{{flagicon|MAR}}<br />(24)
+![[2027 FIFA U-17 Women's World Cup|2027]]<br />{{flagicon|MAR}}<br />(24)
+![[2028 FIFA U-17 Women's World Cup|2028]]<br />{{flagicon|MAR}}<br />(24)
+![[2029 FIFA U-17 Women's World Cup|2029]]<br />{{flagicon|MAR}}<br />(24)
+!Apps.
+|-align=center
+|align=left|{{fbwu|17|CMR}}
+|•||×||•||×||R1||R1||•||•||R1||•||||||
+!3
+|-align=center
+|align=left|{{fbwu|17|GAM}}
+|×||×||R1||×||×||•||×||×||×||×||||||
+!1
+|-align=center
+|align=left|{{fbwu|17|GHA}}
+|R1||R1||bgcolor=#cc′9966|3rd||QF||QF||QF||•||×||×||Q||||||
+!7
+|-align=center
+|align=left|{{fbwu|17|CIV}}
+|×||×||×||×||×||×||×||×||R1||•||||||
+!1
+|-align=center
+|align=left|{{fbwu|17|KEN}}
+|×||×||•||×||×||×||×||R1||•||Q||||||
+!2
+|-align=center
+|align=left|{{fbwu|17|NGA}}
+|R1||QF||QF||QF||R1||•||bgcolor=#cc′9966|3rd||QF||R2||Q||||||
+!9
+|-align=center
+|align=left|{{fbwu|17|RSA}}
+|•||R1||•||•||•||R1||•||•||•||•||||||
+!2
+|-align=center
+|align=left|{{fbwu|17|MAR}}
+|×||×||×||×||•||•||R1||•||style="border: 3px solid red"|R2||style="border: 3px solid red"|Q||style="border: 3px solid red"|Q||style="border: 3px solid red"|Q||style="border: 3px solid red"|Q
+!6
+|-align=center
+|align=left|{{fbwu|17|TAN}}
+|×||×||×||×||×||×||QF||•||•||•||||||
+!1
+|-align=center
+|align=left|{{fbwu|17|ZAM}}
+|•||×||•||R1||×||•||•||R1||R2||Q||||||
+!4
+|-align=center
+!align=left|Total (10 teams)||2||3||3||3||3||3||3||3||5||5||5||5||5||48
+|}
+
+===FIFA Futsal World Cup===
+{{main|FIFA Futsal World Cup#Comprehensive team results by tournament}}
+
+{| class="wikitable" style="text-align:center; font-size:90%"
+!colspan=13|[[FIFA Futsal World Cup]] record
+|-
+! Team
+! [[1989 FIFA Futsal World Championship|1989]]<br />{{Flagicon|Netherlands}}<br />(16) !! [[1992 FIFA Futsal World Championship|1992]]<br />{{Flagicon|Hong Kong|1959}}<br />(16) !! [[1996 FIFA Futsal World Championship|1996]]<br />{{Flagicon|Spain}}<br />(16) !! [[2000 FIFA Futsal World Championship|2000]]<br />{{Flagicon|Guatemala}}<br />(16) !! [[2004 FIFA Futsal World Championship|2004]]<br />{{Flagicon|Taiwan}}<br />(16) !! [[2008 FIFA Futsal World Cup|2008]]<br />{{Flagicon|Brazil}}<br />(20) !! [[2012 FIFA Futsal World Cup|2012]]<br />{{Flagicon|Thailand}}<br />(24) !! [[2016 FIFA Futsal World Cup|2016]]<br />{{Flagicon|Colombia}}<br />(24) !! [[2021 FIFA Futsal World Cup|2021]]<br />{{Flagicon|Lithuania}}<br />(24) !! [[2024 FIFA Futsal World Cup|2024]]<br />{{Flagicon|Uzbekistan}}<br />(24) !! [[2028 FIFA Futsal World Cup|2028]]<br />{{Flagicon| }}<br />(24) !! Apps.
+|-
+|align=left|{{futsal|ALG}}||R1||×||×||×||×||×||×||×||•||•||
+!1
+|-
+|align=left|{{futsal|ANG}}||×||×||×||×||×||•||×||•||R1||R1||
+!2
+|-
+|align=left|{{futsal|EGY}}||×||×||R1||R2||R1||R1||R2||QF||R1||•||
+!7
+|-
+|align=left|{{futsal|LBY}}||×||×||×||•||×||R1||R1||•||•||R1||
+!3
+|-
+|align=left|{{futsal|MAR}}||×||×||×||•||•||•||R1||R1||QF||QF||
+!4
+|-
+|align=left|{{futsal|MOZ}}||×||×||×||×||•||•||•||R1||•||•||
+!1
+|-
+|align=left|{{futsal|NGA}}||×||R1||×||×||×||•||•||•||×||×||
+!1
+|-
+|align=left|{{futsal|ZIM}}||R1||×||•||×||×||×||•||×||×||×||
+!1
+|-
+!Total (8 teams)||2||1||1||1||1||2||3||3||3||3||
+!20
+|}
+
+===FIFA Beach Soccer World Cup===
+{{main|FIFA Beach Soccer World Cup records and statistics}}
+
+{| class="wikitable" style="text-align:center; font-size:90%"
+!colspan=26|[[FIFA Beach Soccer World Cup]] record
+|-
+!Team
+! [[1995 Beach Soccer World Championships|1995]]<br /> {{Flagicon|Brazil}}<br /> (8)
+! [[1996 Beach Soccer World Championships|1996]]<br /> {{Flagicon|Brazil}}<br /> (8)
+! [[1997 Beach Soccer World Championships|1997]]<br /> {{Flagicon|Brazil}}<br /> (8)
+! [[1998 Beach Soccer World Championships|1998]]<br /> {{Flagicon|Brazil}}<br /> (10)
+! [[1999 Beach Soccer World Championships|1999]]<br /> {{Flagicon|Brazil}}<br /> (12)
+! [[2000 Beach Soccer World Championships|2000]]<br /> {{Flagicon|Brazil}}<br /> (12)
+! [[2001 Beach Soccer World Championships|2001]]<br /> {{Flagicon|Brazil}}<br /> (12)
+! [[2002 Beach Soccer World Championships|2002]]<br /> {{Flagicon|Brazil}}<br /> (8)
+! [[2003 Beach Soccer World Championships|2003]]<br /> {{Flagicon|Brazil}}<br /> (8)
+! [[2004 Beach Soccer World Championships|2004]]<br /> {{Flagicon|Brazil}}<br /> (12)
+! [[2005 FIFA Beach Soccer World Cup|2005]]<br /> {{Flagicon|Brazil}}<br /> (12)
+! [[2006 FIFA Beach Soccer World Cup|2006]]<br /> {{Flagicon|Brazil}}<br /> (12)
+! [[2007 FIFA Beach Soccer World Cup|2007]]<br /> {{Flagicon|Brazil}}<br /> (16)
+! [[2008 FIFA Beach Soccer World Cup|2008]]<br /> {{Flagicon|France}}<br /> (16)
+! [[2009 FIFA Beach Soccer World Cup|2009]]<br /> {{flagicon|UAE}}<br /> (16)
+! [[2011 FIFA Beach Soccer World Cup|2011]]<br /> {{flagicon|ITA}}<br /> (16)
+! [[2013 FIFA Beach Soccer World Cup|2013]]<br /> {{flagicon|TAH}}<br /> (16)
+! [[2015 FIFA Beach Soccer World Cup|2015]]<br /> {{flagicon|POR}}<br /> (16)
+! [[2017 FIFA Beach Soccer World Cup|2017]]<br /> {{flagicon|BAH}}<br /> (16)
+! [[2019 FIFA Beach Soccer World Cup|2019]]<br /> {{flagicon|PAR}}<br /> (16)
+! [[2021 FIFA Beach Soccer World Cup|2021]]<br /> {{flagicon|RUS}}<br /> (16)
+! [[2024 FIFA Beach Soccer World Cup|2024]]<br /> {{flagicon|UAE}}<br /> (16)
+! [[2025 FIFA Beach Soccer World Cup|2025]]<br /> {{flagicon|SEY}}<br /> (16)
+! [[2027 FIFA Beach Soccer World Cup|2027]]<br /> {{flagicon| }}<br /> (??)
+! Apps.
+|-
+|style="text-align:left;"|{{beachsoccer|CMR}}
+| • || • || • || • || • || • || • || • || • || • || × || R1<br />{{small|14th}} || • || R1<br />{{small|16th}} || × || × || × || • || × || • || × || • || • ||
+! 2/23
+|-
+|style="text-align:left;"|{{beachsoccer|EGY}}
+| • || • || • || • || • || • || • || • || • || • || × || • || • || • || • || • || • || • || • || • || • || R1<br />{{small|12th}} || • ||
+! 1/23
+|-
+|style="text-align:left;"|{{beachsoccer|CIV}}
+| • || • || • || • || • || • || • || • || • || • || × || • || • || • || R1<br />{{small|11th}} || • || R1<br />{{small|16th}} || • || • || • || • || • || • ||
+! 2/23
+|-
+|style="text-align:left;"|{{beachsoccer|MAD}}
+| • || • || • || • || • || • || • || • || • || • || × || × || × || × || × || • || • || R1<br />{{small|14th}} || • || • || • || • || × ||
+! 1/23
+|-
+|style="text-align:left;"|{{beachsoccer|MTN}}
+| × || × || × || × || × || × || × || × || × || × || × || × || × || × || × || × || × || × || × || × || × || × || R1 ||
+! 1/23
+|-
+|style="text-align:left;"|{{beachsoccer|MOZ}}
+| • || • || • || • || • || • || • || • || • || • || × || × || • || • || • || × || × || • || • || • || R1<br />{{small|11th}} || • || • ||
+! 1/23
+|-
+|style="text-align:left;"|{{beachsoccer|NGR}}
+| • || • || • || • || • || • || • || • || • || • || × || R1<br />{{small|9th}} || QF<br />{{small|6th}} || • || R1<br />{{small|12th}} || QF<br />{{small|6th}} || • || • || R1<br />{{small|12th}} || R1<br />{{small|16th}} || × || • || • ||
+! 6/23
+|-
+|style="text-align:left;"|{{beachsoccer|SEN}}
+| • || • || • || • || • || • || • || • || • || • || × || × || QF<br />{{small|5th}} || R1<br />{{small|9th}} || • || QF<br />{{small|7th}} || R1<br />{{small|13th}} || R1<br />{{small|13th}} || QF<br />{{small|6th}} || QF<br />{{small|6th}} || style="background:#9acdff;|4th || R1<br />{{small|10th}} || style="background:#9acdff;|4th ||
+! 10/23
+|-
+|style="text-align:left;"|{{beachsoccer|SEY}}
+| • || • || • || • || • || • || • || • || • || • || × || × || × || × || × || × || × || • || × || × || • || • || style="border: 3px solid red"|R1 ||
+! 1/23
+|-
+|style="text-align:left;"|{{beachsoccer|RSA}}
+| • || • || • || • ||R1<br />{{small|12th}} || • || • || • || • || • ||R1<br />{{small|12th}} || • || • || • || • || • || × || • || × || • || × || × || × ||
+! 1/23
+|-
+!align=centre| Total (10 teams) || 0 || 0 || 0 || 0 || 1 || 0 || 0 || 0 || 0 || 0 || 1 || 2 || 2 || 2 || 2 || 2 || 2 || 2 || 2 || 2 || 2 || 2 || 3 ||
+! 
+|}
+
+===Former tournaments===
+====FIFA Confederations Cup====
+{{Main article|FIFA Confederations Cup records and statistics}}
+
+{| class="wikitable" style="text-align:center; font-size:90%"
+!colspan=12|[[FIFA Confederations Cup]] record
+|-
+!Team
+![[1992 King Fahd Cup|1992]]<br />{{flagicon|Saudi Arabia}}<br />(4)
+![[1995 King Fahd Cup|1995]]<br />{{flagicon|Saudi Arabia}}<br />(6)
+![[1997 FIFA Confederations Cup|1997]]<br />{{flagicon|Saudi Arabia}}<br />(8)
+![[1999 FIFA Confederations Cup|1999]]<br />{{flagicon|Mexico}}<br />(8)
+![[2001 FIFA Confederations Cup|2001]]<br />{{flagicon|South Korea|1997}}<br />{{flagicon|Japan}}<br />(8)
+![[2003 FIFA Confederations Cup|2003]]<br />{{flagicon|France|1974}}<br />(8)
+![[2005 FIFA Confederations Cup|2005]]<br />{{flagicon|Germany}}<br />(8)
+![[2009 FIFA Confederations Cup|2009]]<br />{{flagicon|South Africa}}<br />(8)
+![[2013 FIFA Confederations Cup|2013]]<br />{{flagicon|Brazil}}<br />(8)
+![[2017 FIFA Confederations Cup|2017]]<br />{{flagicon|Russia}}<br />(8)
+!Apps.
+|-
+| align=left| {{fb|Cameroon}}
+| • || • || • || • || R1 || style="background:Silver;"|2nd || • || • || • || R1
+! 3
+|-
+| align=left| {{fb|Egypt}}
+| • || • || • || R1 || • || • || • || R1 || • || •
+! 2
+|-
+| align=left| {{fb|Côte d'Ivoire}}
+| style="background:#9acdff;"|4th || • || • || • || • || • || • || • || • || •
+! 1
+|-
+| align=left| {{fb|Nigeria}}
+| • || style="background:#9acdff;"|4th || × || × || • || • || • || • || R1 || •
+! 2
+|-
+| align=left| {{fb|South Africa}}
+| × || • || R1 || • || • || • || • || style="border:3px solid red; background:#9acdff;"|4th || • || •
+! 2
+|-
+| align=left| {{fb|Tunisia}}
+| • || • || • || • || • || • || R1 || • || • || •
+! 1
+|-
+! Total (6 teams) || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 2 || 1 || 1
+! 11
+|}
+
+==CAF Best Footballers of the Century==
+The voting to select the best of the century refers to three categories: male player, goalkeeper and female player and is obtained from five different steps. The resulting best players and goalkeepers were honoured during the "World Football Gala 1999".<ref>{{cite web|date=9 October 2017|title=IFFHS History : Africa – Player of the Century (1900–1999)|url=https://iffhs.de/iffhs-history-africa-player-of-the-century-1900-1999/|website=[[IFFHS]]|access-date=9 November 2017}}</ref>
+{{col-begin}}
+{{col-3}}
+
+===CAF Best Player of the Century===
+{| class="wikitable" style="text-align: center"
+|-
+!Player
+!Points
+|-
+|align=left|{{Flagicon|Liberia}} [[George Weah]]
+|'''95'''
+|-
+|align=left|{{Flagicon|Cameroon}} [[Roger Milla]]
+|'''77'''
+|-
+|align=left|{{Flagicon|Ghana}} [[Abédi Pelé]]
+|'''72'''
+|-
+|align=left|{{Flagicon|Algeria}} [[Lakhdar Belloumi]]
+|'''56'''
+|-
+|align=left|{{Flagicon|Algeria}} [[Rabah Madjer]]
+|'''51'''
+|-
+|align=left|{{Flagicon|Cameroon}} [[Théophile Abega]]
+|'''39'''
+|-
+|align=left|{{Flagicon|CIV}} [[Laurent Pokou]]
+|'''38'''
+|-
+|align=left|{{Flagicon|Zambia}} [[Kalusha Bwalya]]
+|'''37'''
+|-
+|align=left|{{Flagicon|Morocco}} [[Ahmed Faras]]
+|'''35'''
+|-
+|align=left|{{Flagicon|Nigeria}} [[Finidi George]]
+|'''32'''
+|}
+{{col-3}}
+
+===CAF Best Goalkeeper of the Century===
+{| class="wikitable" style="text-align: center"
+|-
+!Player
+!Points
+|-
+|align=left|{{Flagicon|Cameroon}} [[Joseph-Antoine Bell]]
+|'''39'''
+|-
+|align=left|{{Flagicon|Cameroon}} [[Thomas N'Kono]]
+|'''30'''
+|-
+|align=left|{{Flagicon|Tunisia}} [[Sadok Sassi|Sadok Sassi "Attouga"]]
+|'''26'''
+|-
+|align=left|{{Flagicon|Morocco}} [[Badou Zaki]]
+|'''24'''
+|-
+|align=left|{{Flagicon|Congo DR}} [[Kazadi Mwamba]]
+|'''19'''
+|-
+|align=left|{{Flagicon|Cameroon}} [[Jacques Songo'o]]
+|'''13'''
+|-
+|align=left|{{Flagicon|Zimbabwe}} [[Bruce Grobbelaar]]
+|'''11'''
+|-
+|align=left|{{Flagicon|Egypt}} [[Ahmed Shobair]]
+|'''10'''
+|-
+|align=left|{{Flagicon|CIV}} [[Alain Gouaméné]]
+|'''9'''
+|-
+|align=left|{{Flagicon|Nigeria}} [[Peter Rufai]]
+|'''6'''
+|}
+{{col-3}}
+
+===CAF Best Women's Footballer of the Century===
+{| class="wikitable" style="text-align: center"
+|-
+!Player
+!Points
+|-
+|align=left|{{Flagicon|Nigeria}} [[Uche Eucharia|Uche Eucharia Ngozi]]
+|'''21'''
+|-
+|align=left|{{Flagicon|Ghana}} [[Nana Gyamfuah|Nana Ama Gyamfuah]]
+|'''18'''
+|-
+|align=left|{{Flagicon|Nigeria}} [[Nkiru Okosieme|Doris Nkiru Okosieme]]
+|'''17'''
+|-
+|align=left|{{Flagicon|Nigeria}} [[Florence Omagbemi]]
+|'''15'''
+|-
+|align=left|{{Flagicon|Nigeria}} [[Ann Chiejine]]
+|'''14'''
+|-
+|align=left|{{Flagicon|Nigeria}} [[Rita Nwadike]]
+|'''13'''
+|-
+|align=left|{{Flagicon|South Africa}} [[Fikile Sithole]]
+|'''9'''
+|-
+|align=left|{{Flagicon|Ghana}} [[Vivian Mensah]]
+|'''8'''
+|-
+|align=left|{{Flagicon|Nigeria}} [[Mercy Akide]]
+|rowspan=2|'''7'''
+|-
+|align=left|{{Flagicon|Nigeria}} [[Ann Chiejine|Ann Agumanu]]
+|}
+{{col-end}}
+
+==CAF Golden Jubilee Best Players poll==
+In 2007, CAF published the list of top 30 African players who played in the period from 1957 to 2007, as part of the celebration of the golden jubilee or 50th anniversary of the foundation of CAF, ordered according to an online poll.<ref>{{cite web|date=11 August 2007|title=CAF release 30 best African players in the last 50 years|url=http://cafonline.com:80/caf/media-services/facts/77-caf-release-30-best-african-players-in-the-last-50-years.html|url-status=dead|archive-url=https://web.archive.org/web/20090309085146/http://cafonline.com:80/caf/media-services/facts/77-caf-release-30-best-african-players-in-the-last-50-years.html|archive-date=9 March 2009|website=CAFOnline.com|access-date=15 January 2010}}</ref>
+{{Div col|colwidth=22em}}
+:{{0}}1. {{Flagicon|Cameroon}} [[Roger Milla]]
+:{{0}}2. {{Flagicon|Egypt}} [[Mahmoud El Khatib]]
+:{{0}}3. {{Flagicon|Egypt}} [[Hossam Hassan]]
+:{{0}}4. {{Flagicon|Cameroon}} [[Samuel Eto'o]]
+:{{0}}5. {{Flagicon|Ghana}} [[Abedi Pele]]
+:{{0}}6. {{Flagicon|Liberia}} [[George Weah]]
+:{{0}}7. {{Flagicon|Ivory Coast}} [[Didier Drogba]]
+:{{0}}8. {{Flagicon|Nigeria}} [[Nwankwo Kanu]]
+:{{0}}9. {{Flagicon|Algeria}} [[Rabah Madjer]]
+:10. {{Flagicon|Zambia}} [[Kalusha Bwalya]]
+:11. {{Flagicon|Ghana}} [[Michael Essien]]
+:12. {{Flagicon|Nigeria}} [[Augustine Okocha]]
+:13. {{Flagicon|Egypt}} [[Saleh Selim]]
+:14. {{Flagicon|Algeria}} [[Hacène Lalmas]]
+:15. {{Flagicon|South Africa}} [[Benni McCarthy]]
+:16. {{Flagicon|Senegal}} [[El Hadji Diouf]]
+:17. {{Flagicon|Morocco}} [[Noureddine Naybet]]
+:18. {{Flagicon|Nigeria}} [[Rashidi Yekini]]
+:19. {{Flagicon|Egypt}} [[Hany Ramzy]]
+:20. {{Flagicon|Egypt}} [[Hassan Shehata]]
+:21. {{Flagicon|South Africa}} [[Lucas Radebe]]
+:22. {{Flagicon|Tunisia}} [[Tarak Dhiab]]
+:23. {{Flagicon|Morocco}} [[Mohammed Timoumi]]
+:24. {{Flagicon|Ghana}} [[Tony Yeboah]]
+:25. {{Flagicon|Mali}} [[Salif Keïta (Malian footballer)|Salif Keita]]
+:26. {{Flagicon|Ghana}} [[Karim Abdul Razak]]
+:27. {{Flagicon|Ghana}} [[Samuel Kuffour]]
+:28. {{Flagicon|Algeria}} [[Lakhdar Belloumi]]
+:29. {{Flagicon|Cameroon}} [[Rigobert Song]]
+:30. {{Flagicon|Sudan}} [[Nasr Eddin Abbas|Nasr Eddin "Jaksa" Abbas]]
+{{Div col end}}
+
+==CAF resolutions==
+{{col-begin|width=auto}}
+{{col-break}}
+'''Awards:'''
+*[[CAF Awards]]
+*[[African Footballer of the Year]]
+*[[African Women's Footballer of the Year]]
+*[[CAF Clubs of the 20th Century]]
+{{col-break|gap=2em}}
+'''Qualifications:'''
+*[[CAF 5-year ranking]]
+{{col-end}}
+
+==International top goalscorers==
+{{updated|7 July 2026}}
+This table is for players with 30 or more goals for a CAF national team. Players in '''bold''' are still active at international level.
+{| class="wikitable"
+| align="center" style="background-color:gold" |
+| Indicates the CAF top scorer.
+|-
+| align="center" style="background-color:silver" |
+| Indicates the top scorer of the respective nation.
+|}
+
+{| class="wikitable sortable" style="text-align:center"
+|-
+!width="20"|Rank
+!width="250"|Player
+!width="250"|Nation
+!width="80"|Goals
+!width="80"|Matches
+!width="80"|Goals per match
+!width="120"|Career span
+|-style="background-color:gold"
+|1
+| align="left" |[[Godfrey Chitalu]]
+| align="left" |{{fb|ZAM}}
+|[[List of international goals scored by Godfrey Chitalu|79]]
+|111
+|{{#expr:79/111 round 2}}
+|1968–1980 
+|- style="background-color:silver"
+|2
+| align="left" |[[Kinnah Phiri]]
+| align="left" |{{fb|MWI}}
+|[[Kinnah Phiri#International|71]]
+|117
+|{{#expr:71/117 round 2}}
+|1973–1981
+|- style="background-color:silver"
+|3
+| align="left" |[[Hossam Hassan]]
+| align="left" |{{fb|EGY}}
+|[[List of international goals scored by Hossam Hassan|69]]
+|177
+|{{#expr:69/177 round 2}}
+|1985–2006
+|-
+|4
+| align="left" |'''[[Mohamed Salah]]'''
+| align="left" |{{fb|EGY}}
+|[[Mohamed Salah#International|68]]
+|121
+|{{#expr:68/121 round 2}}
+|{{nowrap|2011–''present''}}
+|- style="background-color:silver"
+|5
+| align="left" |[[Didier Drogba]]
+| align="left" |{{fb|CIV}}
+|[[List of international goals scored by Didier Drogba|65]]
+|105
+|{{#expr:65/105 round 2}}
+|2002–2014
+|- style="background-color:silver"
+|6
+| align="left" |[[Samuel Eto'o]]
+| align="left" |{{fb|CMR}}
+|[[List of international goals scored by Samuel Eto'o|56]]
+|118
+|{{#expr:56/118 round 2}}
+|1997–2014
+|- style="background-color:silver"
+|7
+| align="left" |'''[[Sadio Mané]]'''
+| align="left" |{{fb|SEN}}
+|[[List of international goals scored by Sadio Mané|55]] 
+|132
+|{{#expr:55/132 round 2}}
+|2012–''present''
+|- style="background-color:silver"
+|8
+| align="left" |[[Asamoah Gyan]]
+| align="left" |{{fb|GHA}}
+|[[List of international goals scored by Asamoah Gyan|51]]
+|109
+|{{#expr:51/109 round 2}}
+|{{nowrap|2003–2021}}
+|-
+|9
+| align="left" |[[Hassan El-Shazly]]
+| align="left" |{{fb|EGY}}
+|[[Hassan El-Shazly#International|49]]
+|64
+|{{#expr:49/64 round 2}}
+|1961–1975
+|-
+|10
+| align="left" |[[Abdoulaye Traoré (footballer, born 1967)|Abdoulaye Traoré]]
+| align="left" |{{fb|CIV}}
+|[[Abdoulaye Traoré (footballer, born 1967)#International|49]]
+|90
+|{{#expr:49/90 round 2}}
+|1984–1996
+|- style="background-color:silver"
+|11
+| align="left" |[[Islam Slimani]]
+| align="left" |{{fb|ALG}}
+|[[List of international goals scored by Islam Slimani|46]]
+|105
+|{{#expr:46/105 round 2}}
+|2012–2025
+|-
+|12
+| align="left" |[[Edward Acquah]]
+| align="left" |{{fb|GHA}}
+|[[Edward Acquah#International|45]]
+|41
+|{{#expr:45/41 round 2}}
+|1956–1964
+|-
+|13
+| align="left" |'''[[Vincent Aboubakar]]'''
+| align="left" |{{fb|CMR}}
+|[[Vincent Aboubakar#International|45]]
+|117
+|{{#expr:45/117 round 2}}
+|2010–''present''
+|- style="background-color:silver"
+|14
+| align="left" |[[Ali Al-Biski]]
+| align="left" |{{fb|LBY}}
+|[[Ali Al-Biski#International|44]]
+|35
+|{{#expr:44/35 round 2}}
+|1961–1970
+|-
+|15
+| align="left" |[[Roger Milla]]
+| align="left" |{{fb|CMR}}
+|[[Roger Milla#International|43]]
+|77
+|{{#expr:43/77 round 2}}
+|1973–1994
+|-
+|16
+| align="left" |[[Alex Chola]]
+| align="left" |{{fb|ZAM}}
+|43
+|102
+|{{#expr:43/102 round 2}}
+|1975–1985
+|-
+|17
+| align="left" |[[El-Sayed El-Dhizui]]
+| align="left" |{{fb|EGY}}
+|41
+|50
+|{{#expr:41/50 round 2}}
+|1948–1960
+|- style="background-color:silver"
+|18
+| align="left" |'''[[Pierre-Emerick Aubameyang]]'''
+| align="left" |{{fb|GAB}}
+|[[List of international goals scored by Pierre-Emerick Aubameyang|40]] 
+|86
+|{{#expr:40/86 round 2}}
+|2009–''present''
+|-
+|19
+| align="left" |[[Fawzi Al-Issawi]]
+| align="left" |{{fb|LBY}}
+|40
+|90
+|{{#expr:40/90 round 2}}
+|1977–1985
+|-
+|20
+| align="left" |[[Riyad Mahrez]]
+| align="left" |{{fb|ALG}}
+|[[Riyad Mahrez#International|40]]
+|120
+|{{#expr:40/120 round 2}}
+|2014–2026
+|- style="background-color:silver"
+|21
+| align="left" |[[Akwá]]
+| align="left" |{{fb|ANG}}
+|[[Akwá#International|39]]
+|78
+|{{#expr:39/78 round 2}}
+|1995–2006
+|-
+|22
+| align="left" |[[Kalusha Bwalya]]
+| align="left" |{{fb|ZAM}}
+|39
+|87
+|{{#expr:39/87 round 2}}
+|1983–2006
+|-
+|23
+| align="left" |[[Mohamed Aboutrika]]
+| align="left" |{{fb|EGY}}
+|[[Mohamed Aboutrika#International goals|38]]
+|100
+|{{#expr:38/100 round 2}}
+|2001–2013
+|- style="background-color:silver"
+|24
+| align="left" |[[Rashidi Yekini]]
+| align="left" |{{fb|NGA}}
+|[[Rashidi Yekini#International goals|37]]
+|62
+|{{#expr:37/62 round 2}}
+|1984–1998
+|- style="background-color:silver"
+|25
+| align="left" |[[Peter Ndlovu]]
+| align="left" |{{fb|ZIM}}
+|[[Peter Ndlovu#International goals|37]]
+|81
+|{{#expr:37/81 round 2}}
+|1991–2007
+|-
+|26
+| align="left" |[[Kwasi Owusu]]
+| align="left" |{{fb|GHA}}
+|[[Kwasi Owusu#International|36]]
+|52
+|{{#expr:36/52 round 2}}
+|1967–1977
+|-
+|27
+| align="left" |[[Abdelhafid Tasfaout]]
+| align="left" |{{fb|ALG}}
+|[[Abdelhafid Tasfaout#International goals|36]]
+|80
+|{{#expr:36/80 round 2}}
+|1990–2002
+|- style="background-color:silver"
+|28
+| align="left" |[[Issam Jemâa]]
+| align="left" |{{fb|TUN}}
+|[[List of international goals scored by Issam Jemâa|36]]
+|84
+|{{#expr:36/84 round 2}}
+|2005–2014
+|- style="background-color:silver"
+|29
+| align="left" |[[Ahmed Faras]]
+| align="left" |{{fb|MAR}}
+|[[List of international goals scored by Ahmed Faras|36]]
+|94
+|{{#expr:36/94 round 2}}
+|1966–1979
+|-
+|30
+| align="left" |'''[[Victor Osimhen]]'''
+| align="left" |{{fb|NGA}}
+|[[Victor Osimhen#International|35]]
+|51
+|{{#expr:35/51 round 2}}
+|2017–''present''
+|- style="background-color:silver"
+|31
+| align="left" |[[William Ouma]]
+| align="left" |{{fb|KEN}}
+|[[William Ouma#International goals|35]]
+|66
+|{{#expr:35/66 round 2}}
+|1965–1977
+|-
+|32
+| align="left" |'''[[Ayoub El Kaabi]]'''
+| align="left" |{{fb|MAR}}
+|[[Ayoub El Kaabi#International|35]]
+|72
+|{{#expr:35/72 round 2}}
+|2018–''present''
+|-
+|33
+| align="left" |'''[[Baghdad Bounedjah]]'''
+| align="left" |{{fb|ALG}}
+|[[Baghdad Bounedjah#International|35]]
+|86
+|{{#expr:35/86 round 2}}
+|2013–''present''
+|-
+|34
+| align="left" |'''[[Michael Olunga]]'''
+| align="left" |{{fb|KEN}}
+|[[Michael Olunga#International|34]]
+|69
+|{{#expr:34/69 round 2}}
+|2015–''present''
+|-
+|35
+| align="left" |[[Dennis Oliech]]
+| align="left" |{{fb|KEN}}
+|[[Dennis Oliech#International|34]]
+|76
+|{{#expr:34/76 round 2}}
+|2002–2016
+|- style="background-color:silver"
+|36
+| align="left" |[[Moumouni Dagano]]
+| align="left" |{{fb|BFA}}
+|[[Moumouni Dagano#International goals|34]]
+|83
+|{{#expr:34/83 round 2}}
+|1998–2014
+|-
+|37
+| align="left" |[[Flávio Amado|Flávio]]
+| align="left" |{{fb|ANG}}
+|[[Flávio Amado#International|34]]
+|91
+|{{#expr:34/91 round 2}}
+|2000–2012
+|-
+|38
+| align="left" |'''[[Jordan Ayew]]'''
+| align="left" |{{fb|GHA}}
+|[[Jordan Ayew#International|34]]
+|124
+|{{#expr:34/124 round 2}}
+|2010–''present''
+|-
+|39
+| align="left" |[[Patrick M'Boma]]
+| align="left" |{{fb|CMR}}
+|33
+|55
+|{{#expr:33/55 round 2}}
+|1995–2004
+|- style="background-color:silver"
+|40
+| align="left" |[[Ibrahima Kandia Diallo]]
+| align="left" |{{fb|GUI}}
+|[[Ibrahima Kandia Diallo#International goals|33]]
+|56
+|{{#expr:33/56 round 2}}
+|1960–1973
+|- style="background-color:silver"
+|41
+| align="left" |[[Getaneh Kebede]]
+| align="left" |{{fb|ETH}}
+|[[Getaneh Kebede#Career statistics|33]]
+|66
+|{{#expr:33/66 round 2}}
+|2010–2022
+|-
+|42
+| align="left" |[[Ahmed Hassan (footballer, born 1975)|Ahmed Hassan]]
+| align="left" |{{fb|EGY}}
+|[[Ahmed Hassan (footballer, born 1975)#International|33]]
+|184
+|{{#expr:33/184 round 2}}
+|1995–2004
+|- style="background-color:silver"
+|43
+| align="left" |[[Emmanuel Adebayor]]
+| align="left" |{{fb|TOG}}
+|[[List of international goals scored by Emmanuel Adebayor|32]]
+|87
+|{{#expr:32/87 round 2}}
+|2000–2019
+|- style="background-color:silver"
+|44
+| align="left" |[[Benni McCarthy]]
+| align="left" |{{fb|RSA}}
+|[[List of international goals scored by Benni McCarthy|31]]
+|79
+|{{#expr:31/79 round 2}}
+|1997–2011
+|-
+|45
+| align="left" |[[Amr Zaki]]
+| align="left" |{{fb|EGY}}
+|[[Amr Zaki#International goals|30]]
+|63
+|{{#expr:30/63 round 2}}
+|2004–2013
+|- style="background-color:silver"
+|46
+| align="left" |[[Tico-Tico]]
+| align="left" |{{fb|MOZ}}
+|[[Tico-Tico#International goals|30]] 
+|94 
+|{{#expr:30/94 round 2}}
+|1995–2010
+|}
+
+==See also==
+{{Portal|Football in Africa|Africa|Sports|Association football|Women's association football}}
+*[[African nations at the FIFA World Cup]]
+*[[Football in Africa]]
+*[[History of CAF]]
+*[[Oceania association football club records and statistics]]
+*[[FIFA|International Federation of Association Football]] (FIFA)
+*[[Asian Football Confederation]] (AFC)
+*[[Oceania Football Confederation]] (OFC)
+*[[CONCACAF|Confederation of North, Central America and Caribbean Association Football]] (CONCACAF)
+*[[CONMEBOL|Confederation of South American Football]] (CONMEBOL)
+*[[UEFA|Union of European Football Associations]] (UEFA)
+*[[List of association football competitions]]
+*[[List of association football sub-confederations]]
+*[[List of presidents of CAF]]
+*[[List of first international of African national teams]]
+*[[List of CAF club competition winners]]
+*[[List of CAF club competition winning coaches]]
+*[[List of African national football team managers]]
+*[[Women's football in Africa]]
+*[[List of top international men's football goal scorers by country]]
+*[[List of men's footballers with 50 or more international goals]]
+*[[List of men's footballers with 100 or more international caps]]
+
+==Notes==
+{{Notelist}}
+
+==References==
+{{Reflist}}
+
+==External links==
+{{commons category}}
+*{{official website|https://www.cafonline.com/}} {{in lang|en|fr|ar}}
+*[http://soccerlens.com/caf-confederation-of-african-football/31184/ Overview of CAF and its competitions] via Soccerlens.com
+*[https://www.youtube.com/watch?v=tkT1USKRs2s The CAF Anthem] since 2007
+
+{{Navboxes
+| title = CAF
+| bg = #FFE700
+| fg = 
+| list = 
+{{CAF presidents}}
+{{CAF competitions}}
+{{CAF associations}}
+{{CAF sub-regions}}
+{{CAF Leagues}}
+{{CAF women's leagues}}
+{{CAF teams}}
+{{CAF under-23 teams}}
+{{CAF under-20 teams}}
+{{CAF under-17 teams}}
+{{CAF under-15 teams}}
+{{CAF women's teams}}
+{{CAF women's under-20 teams}}
+{{CAF women's under-17 teams}}
+}}
+{{FIFA navbox}}
+{{Navboxes
+| title = International football
+| list  = 
+{{International football}}
+{{International women's football}}
+{{International club football}}
+{{International futsal}}
+{{International Beach Soccer}}
+}}
+{{Sports governing bodies in Africa}}
+{{Africa topics}}
+
+{{Authority control}}
+
+[[Category:Confederation of African Football| ]]
+[[Category:Association football governing bodies in Africa|*]]
+[[Category:FIFA confederations]]
+[[Category:1957 establishments in Africa]]
+[[Category:Sports organizations established in 1957]]

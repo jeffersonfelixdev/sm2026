@@ -1,0 +1,2559 @@
+{{Short description|Men's association football team}}
+{{About|the men's team|the women's team|Syria women's national football team}}
+{{Use dmy dates|date=January 2019}}
+{{Infobox national football team
+| Name                   = Syria
+| Badge                  = 
+| Badge_size             = 200px
+| Nickname               = {{lang|ar|نسور قاسيون}}, {{transliteration|ar|Nusur Qasiun}}<br />(The [[Mount Qasioun|Qasioun]] Eagles)<ref name="nick">{{cite news |last1=Smale |first1=Simon |title=Who the Socceroos are facing as the Asian Cup kicks off, and when to watch |url=https://www.abc.net.au/news/2019-01-06/socceroos-asian-cup-group-b-preview-when-to-watch/10685218 |website=ABC News |date=5 January 2019 |publisher=Australian Broadcasting Corporation |access-date=6 January 2019 |archive-date=5 January 2019 |archive-url=https://web.archive.org/web/20190105221045/https://www.abc.net.au/news/2019-01-06/socceroos-asian-cup-group-b-preview-when-to-watch/10685218 |url-status=live }}</ref>
+| Association            = [[Syrian Football Association]] (SFA)
+| Confederation          = [[Asian Football Confederation|AFC]] (Asia)
+| Sub-confederation      = [[West Asian Football Federation|WAFF]] (West Asia)<br />[[Union of Arab Football Associations|UAFA]] (Arab world)
+| Coach                  = [[José Lana]]
+| Captain                = [[Omar Al Somah]]
+| Most caps              = [[Mahmoud Al-Mawas]] (110)
+| Top scorer             = [[Firas Al-Khatib]] (36) 
+| Home Stadium           = [[List of football stadiums in Syria|Various]]
+| FIFA Trigramme         = SYR
+| FIFA Rank              = {{FIFA World Rankings|SYR}}
+| FIFA max               = 68
+| FIFA max date          = 1 July 2018 
+| FIFA min               = 152
+| FIFA min date          = September 2014, March 2015
+| Elo Rank               = {{nowrap|{{World Football Elo Ratings|Syria}}}}
+| Elo max                = 53
+| Elo max date           = October 1974
+| Elo min                = 125
+| Elo min date           = September 1984
+| pattern_la1 = _whiteborder
+| pattern_b1 = _collarwhite
+| pattern_ra1 = _whiteborder
+| pattern_sh1 = _irq25h
+| pattern_so1 = _whitetop
+| leftarm1 = 007A3D
+| body1 = 007A3D
+| rightarm1 = 007A3D
+| shorts1 = 007A3D
+| socks1 = 007A3D
+| pattern_la2            = _blackborder
+| pattern_b2             = _collarblack
+| pattern_ra2            = _blackborder
+| pattern_sh2            = _jakoteam1819wb
+| pattern_so2            = 
+| leftarm2               = FFFFFF
+| body2                  = FFFFFF
+| rightarm2              = FFFFFF
+| shorts2                = FFFFFF
+| socks2                 = FFFFFF
+| First game             = {{fb|LBN|1920}} 1–2 {{fb-rt|SYR|1932}}<br>([[Beirut]], [[Lebanon]]; 26 April 1942)<ref>{{Cite web|title=Lebanon vs Syria|url=https://www.falebanon.com/event/24499/|access-date=2021-04-08|website=FA Lebanon|date=26 April 1942 |language=en-GB|archive-date=4 May 2021|archive-url=https://web.archive.org/web/20210504022256/https://www.falebanon.com/event/24499/|url-status=live}}</ref>
+| Largest win            = {{fb|SYR|1963}} 13–0 [[Oman national football team|Muscat and Oman]] {{flagicon image|Flag_of_Muscat.svg}}<br>([[Cairo, Egypt]]; 6 September 1965)
+| Largest loss           = {{fb|GRE|old}} 8–0 {{fb-rt|SYR|1932}}<br>([[Athens]], [[Greece]]; 25 November 1949)<br>{{fb|EGY|1922}} 8–0 {{fb-rt|SYR|1932}}<br>([[Alexandria]], [[Egypt]]; 16 October 1951)
+| Regional name          = [[AFC Asian Cup|Asian Cup]]
+| Regional cup apps      = 7
+| Regional cup first     = [[1980 AFC Asian Cup|1980]]
+| Regional cup best      = Round of 16 ([[2023 AFC Asian Cup|2023]])
+| 2ndRegional name       = [[FIFA Arab Cup|Arab Cup]]
+| 2ndRegional cup best   = Runners-up ([[1963 Arab Cup|1963]], [[1966 Arab Cup|1966]], [[1988 Arab Cup|1988]])
+| 2ndRegional cup apps   = 7
+| 2ndRegional cup first  = [[1963 Arab Cup|1963]]
+| 3rdRegional name       = [[WAFF Championship]]
+| 3rdRegional cup apps   = 8
+| 3rdRegional cup first  = [[2000 WAFF Championship|2000]]
+| 3rdRegional cup best   =  '''Champions''' ([[2012 WAFF Championship|2012]])
+| medaltemplates         = 
+{{MedalCompetition |[[WAFF Championship]]}}
+{{MedalGold|[[2012 WAFF Championship|2012 Kuwait]]|[[2012 WAFF Championship squads|Team]]}}
+{{MedalSilver|[[2000 WAFF Championship|2000 Jordan]]|Team}}
+{{MedalSilver|[[2004 WAFF Championship|2004 Iran]]|Team}}
+{{MedalBronze|[[2007 WAFF Championship|2007 Jordan]]|Team}}
+{{MedalBronze|[[2008 WAFF Championship|2008 Iran]]|Team}}
+{{MedalCompetition |[[FIFA Arab Cup|Arab Cup]]}}
+{{MedalSilver|[[1963 Arab Cup|1963 Lebanon]]|[[1963 Arab Cup squads#Syria|Team]]}}
+{{MedalSilver|[[1966 Arab Cup|1966 Iraq]]|[[1966 Arab Cup squads#Group B|Team]]}}
+{{MedalSilver|[[1988 Arab Cup|1988 Jordan]]|[[1988 Arab Cup squads#Group B|Team]]}}
+{{MedalCompetition|[[Palestine Cup of Nations]]}}
+{{MedalSilver|[[1973 Palestine Cup of Nations|1973 Libya]]|[[1973 Palestine Cup of Nations squads|Team]]}}
+{{MedalCompetition|[[Football at the Mediterranean Games|Mediterranean Games]]}}
+{{MedalGold|[[Football at the 1987 Mediterranean Games|1987 Latakia]]|[[Football at the 1987 Mediterranean Games – Men's team squads#Syria|Team]]}}
+{{MedalBronze|[[Football at the 1951 Mediterranean Games|1951 Alexandria]]|[[Football at the 1951 Mediterranean Games – Men's team squads#Syria|Team]]}}
+{{MedalCompetition |[[West Asian Games#Football|West Asian Games]]}}
+{{MedalSilver|[[Football at the 1997 West Asian Games|1997 Tehran]]|Team}}
+{{MedalSilver|[[Football at the 2005 West Asian Games|2005 Doha]]|Team}}
+{{MedalBronze|[[Football at the 2002 West Asian Games|2002 Kuwait]]|Team}}
+{{MedalCompetition |[[Football at the Arab Games|Arab Games]]}}
+{{MedalGold|[[Football at the 1957 Arab Games|1957 Beirut]]|[[Football at the 1957 Arab Games#Squads|Team]]}}
+{{MedalSilver|[[Football at the 1953 Arab Games|1953 Alexandria]]|[[Football at the 1953 Arab Games#Squads|Team]]}}
+{{MedalSilver|[[Football at the 1997 Arab Games|1997 Beirut]]|[[Football at the 1997 Arab Games#Squads|Team]]}}
+{{MedalBronze|[[Football at the 1976 Arab Games|1976 Damascus]]|[[Football at the 1976 Arab Games#Squads|Team]]}}
+}}
+
+The '''Syria national football team''' ({{langx|ar|منتخب سوريا لكرة القدم}}) represents [[Syria]] in international [[Association football|football]], and is controlled by the [[Syrian Arab Federation for Football]], the governing body for [[football in Syria]].
+
+Nicknamed "the [[Mount Qasioun|Qasioun]] Eagles" ({{Langx|ar|نسور قاسيون|nusur qasyun}}"), Syria has never qualified for the [[FIFA World Cup]], but reached the [[2018 FIFA World Cup qualification – AFC fourth round|fourth qualification round]] in 2018. The team has been banned by [[FIFA]] from playing at home since December 2010.<ref>{{Cite web|url=https://www.elsport.com/news/show/434611/%D8%A7%D9%84%D9%81%D9%8A%D9%81%D8%A7-%D9%8A%D8%AF%D8%B1%D8%B3-%D8%B1%D9%81%D8%B9-%D8%A7%D9%84%D8%AD%D8%B8%D8%B1-%D8%A7%D9%84%D9%85%D9%84%D8%A7%D8%B9%D8%A8-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9|title=الفيفا يدرس رفع الحظر عن الملاعب السورية|date=11 June 2018|website=Elsport News|access-date=14 July 2021|archive-date=14 July 2021|archive-url=https://web.archive.org/web/20210714162606/https://www.elsport.com/news/show/434611/%D8%A7%D9%84%D9%81%D9%8A%D9%81%D8%A7-%D9%8A%D8%AF%D8%B1%D8%B3-%D8%B1%D9%81%D8%B9-%D8%A7%D9%84%D8%AD%D8%B8%D8%B1-%D8%A7%D9%84%D9%85%D9%84%D8%A7%D8%B9%D8%A8-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9|url-status=live}}</ref> Internationally, Syria have won the [[Football at the 1957 Arab Games|1957 Arab Games]], the [[Football at the 1987 Mediterranean Games|1987 Mediterranean Games]], and the [[2012 WAFF Championship]].
+
+== History ==
+=== 1936–1969: The beginnings===
+The [[Syrian Football Federation]] was founded in 1936, 10 years before [[Evacuation Day (Syria)|independence from the French]] in 1946. It has been affiliated with [[FIFA]] since 1937 and has been a member of [[Asian Football Confederation|AFC]] since 1969.<ref>{{Cite news|url=https://www.fifa.com/about-fifa/associations/SYR|website=FIFA|access-date=5 March 2022|title=Syrian Football Federation|archive-date=14 April 2022|archive-url=https://web.archive.org/web/20220414174804/https://www.fifa.com/about-fifa/associations/SYR|url-status=live}}</ref><ref>{{Cite news|url=https://www.the-afc.com/en/west/syria.html|website=the-afc.com|access-date=5 March 2022|title=Syrian Football Federation|archive-date=4 February 2022|archive-url=https://web.archive.org/web/20220204112630/https://www.the-afc.com/en/west/syria.html|url-status=live}}</ref> In 1939, Syria played its first unofficial matches under the name of Damascus XI with Beirut XI in [[Beirut]], resulting in a 5–4 win.<ref name="RSSSFprehist2">{{Cite web |last1=Mubarak |first1=Hassanin |last2=Morrison |first2=Neil |title=Lebanon – International Results – Early History |url=https://www.rsssf.org/tablesl/leb-intres-prehist.html |access-date=7 October 2018 |website=[[RSSSF]]}}</ref> Over the following years, the two teams competed in 16 unofficial matches until 1963, with the Damascus XI winning seven, drawing two, and losing seven.<ref name="RSSSFprehist2" />
+
+Syria's first official football match took place on 26 April 1942, against [[Lebanon national football team|Lebanon]], as part of the Coupe Hauteclocque.<ref name="LJ280442">{{Cite news |last=Khadra |first=A. |date=28 April 1942 |title=[...] par 2 a 1 sur Liban |work=[[L'Orient–Le Jour|Le Jour]]}}</ref> The game, held at the AUB field in Beirut, ended in a 2–1 victory for "the Qasioun Eagles", in front of 3,000 spectators.<ref name="LJ280442" /> The Coupe Hauteclocque, a trophy donated by French diplomat {{Ill|Jean de Hauteclocque|fr}} in 1939, was intended to be a regular fixture between Lebanon and Syria.<ref name="LJ190342">[[L'Orient–Le Jour|Le Jour]]. 19 March 1942.</ref> Although two matches were initially planned,<ref name="LJ190342" /> only the Beirut fixture was played.<ref name="LJ280442" /> The cup became a point of contention, as the Syrian Football Association had retained possession of it since 1939.<ref name="LJ190342" /> Syria later played two additional friendly matches against Lebanon in 1947, winning 4–1 in Beirut on 4 May,<ref>{{Cite news |date=6 May 1947 |title=Plus homogène et plus rapide que l'équipe libanaise. L'équipe syrienne gagne par 4 buts a 1 |trans-title=More consistent and faster than the Lebanese team. The Syrian team wins by 4 goals to 1 |access-date= |work=[[L'Orient-Le Jour|Le Jour]] |language=fr}}</ref> and 1–0 in Aleppo on 18 May.<ref>{{Cite news |date=20 May 1947 |title=Foot-ball: Le match-revanche Liban–Syrie. L'équipe syrienne gagne par 1 but a 0 |trans-title=Football: The Lebanon–Syria rematch. The Syrian team wins by 1 goal to 0 |access-date= |work=[[L'Orient-Le Jour|Le Jour]] |language=fr}}</ref>
+
+Syria's took part in their first [[FIFA World Cup qualifiers]] in [[1950 FIFA World Cup qualification#Group 2|1950]], as one of the first teams in the region to do so.<ref>{{Cite news|url=https://www.goalzz.com/?team=324|access-date=3 March 2022|website=goalzz.com|title=FIFA World Cup 1950 European qualifiers|archive-date=3 March 2022|archive-url=https://web.archive.org/web/20220303032817/https://www.goalzz.com/?team=324|url-status=live}}</ref> They played their first qualifying game against [[Turkey national football team|Turkey]] in [[Ankara]], which ended in a 7–0 defeat on 20 November 1949.<ref>{{Cite news|url=https://www.goalzz.com/?team=324|access-date=5 March 2022|website=goalzz.com|title=1949/50 FIFA World Cup European qualifiers|archive-date=3 March 2022|archive-url=https://web.archive.org/web/20220303221312/https://www.goalzz.com/?team=324|url-status=live}}</ref> Five days later, on 25 November, Syria lost 8–0 against [[Greece national football team|Greece]] in [[Athens]].<ref>{{Cite web|url=https://www.goalzz.com/?region=-1&areapage=0&dd=25&mm=11&yy=1949|access-date=5 March 2022|website=goalzz.com|title=Syria v Greece 1949|archive-date=5 March 2022|archive-url=https://web.archive.org/web/20220305084909/https://www.goalzz.com/?region=-1&areapage=0&dd=25&mm=11&yy=1949|url-status=live}}</ref>
+
+At the [[Football at the 1951 Mediterranean Games|1951 Mediterranean Games]] in [[Alexandria]], on 12 October 1951, one of Syria's biggest defeats was recorded against [[Egypt national football team|Egypt]] which ended with a score of 8–0 for the ''Pharaohs''.<ref>{{cite web |url=https://www.rsssf.org/tablesm/medgames51.html |title=Mediterranean Games 1951 (Alexandria, Egypt) |work=[[Rec.Sport.Soccer Statistics Foundation|RSSSF]] |publisher=Dinant Abbink & Erik Garin |date=21 December 2002 |access-date= |archive-date=17 July 2017 |archive-url=https://web.archive.org/web/20170717032548/http://www.rsssf.com/tablesm/medgames51.html |url-status=live }}</ref>
+
+[[File:Ferenc Meszaros.jpg|200px|thumb|[[Francisc Mészáros]], who became the second coach of the Syrian national team in 1954]]
+The first medal for the national team was silver at the [[Football at the 1953 Arab Games|1953 Arab Games]], when they were defeated in the final by [[Egypt national football team|Egypt]] (4–0).<ref>{{Cite web |url=https://www.rsssf.org/tablesa/arabgam53.html |title=1st Arab Games, 1953 (Alexandria, Egypt) |access-date=5 March 2022 |archive-date=21 September 2012 |archive-url=https://web.archive.org/web/20120921011408/http://www.rsssf.com/tablesa/arabgam53.html |url-status=live }}</ref> At the [[Football at the 1957 Arab Games|1957 Arab Games]] in Beirut, they advanced to the finals after the semi-final defeat of [[Morocco national football team|Morocco]], in which they defeated [[Tunisia national football team|Tunisia]] with goals scored by Shamas and Awadis Kaoulakian 3–1.<ref>{{Cite web |url=https://www.rsssf.org/tablesa/arabgam57.html |title=2nd Arab Games, 1957 (Beirut, Lebanon) |access-date=5 March 2022 |archive-date=5 September 2019 |archive-url=https://web.archive.org/web/20190905011134/http://www.rsssf.com/tablesa/arabgam57.html |url-status=live }}</ref>
+
+In the [[1958 FIFA World Cup qualification|FIFA World Cup 1958 qualifiers]], the Syrian football team was defeated by the [[Sudan national football team|Sudan]] in the first round of the playoffs. Between 1958 and 1961, the team combined with [[Egypt national football team|Egypt]] to form the [[United Arab Republic national football team|United Arab Republic national team]], although the team's records are attributed only to Egypt by [[FIFA]].<ref name="egyptianstreets">{{Cite web|url=https://egyptianstreets.com/2019/06/08/remembering-egypts-best-historical-moments-at-the-african-cup-of-nations/|title=Remembering Egypt's Best Historical Moments at the African Cup of Nations|date=8 June 2019|website=egyptianstreets.com|publisher=Egyptian Streets|access-date=3 March 2022|archive-date=3 March 2022|archive-url=https://web.archive.org/web/20220303222903/https://egyptianstreets.com/2019/06/08/remembering-egypts-best-historical-moments-at-the-african-cup-of-nations/|url-status=live}}</ref> Syria reached the finals in the [[FIFA Arab Cup]] twice: in [[1963 Arab Cup|1963]] (beaten by [[Tunisia national football team|Tunisia]]) and [[1966 Arab Cup|1966]] (beaten by [[Iraq national football team|Iraq]]).<ref>{{Cite web|url=https://www.rsssf.org/tablesa/arabcup63det.html|website=[[RSSSF]]|title=1963 Arab Cup|access-date=5 March 2022|archive-date=22 October 2019|archive-url=https://web.archive.org/web/20191022054657/http://www.rsssf.com/tablesa/arabcup63det.html|url-status=live}}</ref>
+
+In the [[1966 FIFA World Cup qualification (UEFA)|1966 FIFA World Cup qualifiers]] they were one of two teams from the Asian zone (the other being [[Israel national football team|Israel]]) to be allocated to the [[1966 FIFA World Cup qualification|European qualifying zone]] and were originally placed with [[Spain national football team|Spain]] and the [[Republic of Ireland national football team|Republic of Ireland]]. However, they joined the Asian and African boycott of the 1966 qualifiers, due to the decision of FIFA to allocate just one place between Asia and Africa.<ref>{{cite news|url=https://www.theguardian.com/football/2015/nov/13/the-joy-of-six-international-play-offs|title=The Joy of Six|work=The Guardian|first=Paul|last=Doyle|date=13 November 2015|access-date=3 March 2022|archive-date=3 March 2022|archive-url=https://web.archive.org/web/20220303221952/https://www.theguardian.com/football/2015/nov/13/the-joy-of-six-international-play-offs|url-status=live}}</ref>
+
+===1970s: Successes in Arab competitions===
+In the 1970s, they regularly participated in the [[Palestine Cup]], which served as a substitute for the Arab Cup. At the [[1972 Palestine Cup]], they placed fourth when they lost 1–3 to [[Algeria national football team|Algeria]].<ref>{{Cite web |url=https://www.rsssf.org/tablesp/palestine71.html |title=Details in RSSSF |access-date=8 March 2022 |archive-date=25 July 2021 |archive-url=https://web.archive.org/web/20210725075322/http://www.rsssf.com/tablesp/palestine71.html |url-status=live }}</ref> At the [[1973 Palestine Cup of Nations|1973 Palestine Cup]], they advanced from the group stage to the semifinals, where they eliminated Algeria after penalties (0–0, pen. 3–2). In the final of the cup, they clearly lost to [[Tunisia national football team|Tunisia]] 0–4.<ref>{{Cite web |url=https://www.rsssf.org/tablesp/palestine73.html |title=1973 Palestine Cup |access-date=8 March 2022 |archive-date=22 October 2019 |archive-url=https://web.archive.org/web/20191022004552/http://www.rsssf.com/tablesp/palestine73.html |url-status=live }}</ref>
+
+In the [[1974 Kuneitra Cup]], "the Qasioun Eagles" entered the knockout phase after the group defeat of [[Sudan national football team|Sudan]], [[Libya national football team|Libya]], [[Palestine national football team|Palestine]] and [[Yemen national football team|North Yemen]]. In the semifinals of the cup, they defeated [[Tunisia national football team|Tunisia]] (3–1), but in the final, they lost to Morocco after a penalty shootout.<ref>{{Cite web|last=Karkora|first=Mahmoud|title=Kuneitra Cup 1974 (Syria)|url=https://www.rsssf.org/tablesk/kuneitra74.html|url-status=live|archive-url=https://web.archive.org/web/20030427093836/http://rsssf.com:80/tablesk/kuneitra74.html |archive-date=27 April 2003 |access-date=8 March 2022|website=[[RSSSF]]}}</ref>
+
+For the [[1974 FIFA World Cup]], they finished second in the group in the 1st round of the [[1974 FIFA World Cup qualification (AFC and OFC)#Zone B|qualification]], behind [[Iran national football team|Iran]], insufficient to advance to the next round.<ref>{{Cite web|url=https://www.goalzz.com/?c=1817|access-date=4 March 2022|website=goalzz.com|title=FIFA World Cup 1974 Asian Qualifiers|archive-date=4 March 2022|archive-url=https://web.archive.org/web/20220304190809/https://www.goalzz.com/?c=1817|url-status=live}}</ref>
+
+At the [[1975 Palestine Cup of Nations|1975 Palestine Cup]], they eliminated [[Libya national football team|Libya]] in the group stage, but lost to Iraq in the semifinals 0: 4 and in the bronze medal match with [[Sudan national football team|Sudan]] 0–1.<ref>{{Cite web |url=https://www.rsssf.org/tablesp/palestine75.html |title=1975 Palestine Cup RSSF |access-date=8 March 2022 |archive-date=25 July 2021 |archive-url=https://web.archive.org/web/20210725150839/http://www.rsssf.com/tablesp/palestine75.html |url-status=live }}</ref> In 1976, [[Damascus]] hosted the [[Football at the 1976 Arab Games|Arab Games]], whose football tournament was played at the [[Abbasiyyin Stadium]], where the home Syrian team won bronze medals.<ref>{{Cite web |url=https://www.rsssf.org/tablesa/arabgam76.html |title=5th Arab Games, 1976 (Damascus, Syria) |access-date=8 March 2022 |archive-date=26 November 2020 |archive-url=https://web.archive.org/web/20201126040357/http://www.rsssf.com/tablesa/arabgam76.html |url-status=live }}</ref>
+
+In the [[1978 FIFA World Cup]] [[1978 FIFA World Cup qualification (AFC and OFC)|qualification]], the "Qasioun Eagles" did not go through the first round, as despite losing one victory over [[Saudi Arabia national football team|Saudi Arabia]] (2–0) they lost both matches to Iran, finishing in third place in the group.<ref>{{Cite web|url=https://www.goalzz.com/?c=1816|access-date=4 March 2022|website=goalzz.com|title=FIFA World Cup 1978 Asian Qualifiers|archive-date=5 March 2022|archive-url=https://web.archive.org/web/20220305074740/https://www.goalzz.com/?c=1816|url-status=live}}</ref>
+
+=== 1980–1996: Milestones and missed opportunities ===
+The Syrian team made it to the [[Football at the 1980 Summer Olympics|1980 Olympics]] thanks to Iran, as the team withdrew due to the [[1980 Summer Olympics boycott|American-led boycott]] of the Olympics.<ref>{{cite web|title=FIFA Technical Report - 1980 Olympics Football Tournament|url=https://www.fifa.com/mm/document/afdeveloping/technicaldevp/50/05/10/oft_80_tr_167.pdf|archive-url=https://web.archive.org/web/20111220063559/http://www.fifa.com/mm/document/afdeveloping/technicaldevp/50/05/10/oft%5f80%5ftr%5f167.pdf|url-status=dead|archive-date=20 December 2011|publisher=FIFA|access-date=26 February 2014|date=1980}}</ref> Despite losing 0–3 to [[Algeria national football team|Algeria]] and 0–5 to the [[East Germany national football team|GDR]], they gained experience from big matches. However, the most valuable result in the tournament was a draw with a strong [[Spain national football team|Spain]] 0–0.<ref>{{Cite web|url=https://www.fifa.com/tournaments/archive/mensolympic/moscow1980/matches/round=197132/match=32209/index.html|access-date=6 March 2022|website=FIFA|title=1980 Olympics Results|archive-date=18 August 2016|archive-url=https://web.archive.org/web/20160818193043/http://www.fifa.com/tournaments/archive/mensolympic/moscow1980/matches/round=197132/match=32209/index.html|url-status=live}}</ref>
+
+The Syrian team took part in the [[Syria at the AFC Asian Cup|three editions]] of the [[AFC Asian Cup]] in the 1980s. In the [[1980 AFC Asian Cup]], they finished 3rd out of 5 in the group stage, behind [[North Korea national football team|North Korea]] and Iran, ahead of [[China national football team|China]] and [[Bangladesh national football team|Bangladesh]].<ref>{{Cite web|url=https://www.goalzz.com/?c=326|website=goalzz.com|access-date=5 March 2022|title=Asian Cup 1980|archive-date=5 March 2022|archive-url=https://web.archive.org/web/20220305115039/https://www.goalzz.com/?c=326|url-status=live}}</ref>
+
+In the [[1984 AFC Asian Cup]], they finished 4th out of 5 in the 1st round, ahead of [[South Korea national football team|South Korea]], behind [[Qatar national football team|Qatar]], [[Kuwait national football team|Kuwait]] and [[Saudi Arabia national football team|Saudi Arabia]].<ref>{{Cite web|url=https://www.goalzz.com/?c=327|website=goalzz.com|access-date=5 March 2022|title=Asian Cup 1984|archive-date=5 March 2022|archive-url=https://web.archive.org/web/20220305115230/https://www.goalzz.com/?c=327|url-status=live}}</ref> In the [[1988 AFC Asian Cup]], they finished 3rd out of 5 still in the 1st round, behind China and Saudi Arabia, ahead of [[Kuwait national football team|Kuwait]] and [[Bahrain national football team|Bahrain]].<ref>{{Cite web|url=https://www.goalzz.com/?c=328|website=goalzz.com|access-date=5 March 2022|title=Asian Cup 1988|archive-date=5 March 2022|archive-url=https://web.archive.org/web/20220305115506/https://www.goalzz.com/?c=328|url-status=live}}</ref> The two Syrian scorers were with one goal each: [[Walid Nasser]] and [[Walid Al-Hel]]. They were finalists in the [[FIFA Arab Cup]] in [[1988 Arab Cup|1988]] (beaten by Iraq).{{citation needed|date=December 2023}}
+
+For the [[1982 FIFA World Cup qualification (AFC and OFC)|qualifiers]] of the [[1982 FIFA World Cup]], they finished last in the group stage behind Qatar, Iraq, Saudi Arabia and [[Bahrain national football team|Bahrain]].<ref>{{Cite news|url=https://www.goalzz.com/?c=1815|title=FIFA World Cup 1982 Asian Qualifiers|access-date=5 March 2022|website=goalzz.com|archive-date=5 March 2022|archive-url=https://web.archive.org/web/20220305180800/https://www.goalzz.com/?c=1815|url-status=live}}</ref> As for the [[1986 FIFA World Cup qualification (AFC)|qualification round]] of the [[1986 FIFA World Cup]], Syria came very close to a qualification which would have been historic, since it passed the [[1986 FIFA World Cup qualification – AFC first round|1st round]] ahead of Kuwait and [[Yemen national football team|North Yemen]], beat Bahrain and lost in the final qualifying round to Iraq 1–3 on aggregate, with the only Syrian goal scored by [[Walid Abu Al-Sel]].<ref>{{Cite news|url=https://www.goalzz.com/?c=1814|title=FIFA World Cup 1986 Asian Qualifiers|access-date=5 March 2022|website=goalzz.com|archive-date=5 March 2022|archive-url=https://web.archive.org/web/20220305180758/https://www.goalzz.com/?c=1814|url-status=live}}</ref>
+
+[[File:Valeriy Yaremchenko.jpeg|thumb|200px|[[Valeriy Yaremchenko]], the coach who led Syria to victory at the 1987 Mediterranean Games]]
+One of the greatest successes of "the Qasioun Eagles" in the 1980s was the participation in the finals of the [[Football at the 1987 Mediterranean Games|1987 Mediterranean Games]], which took place in Latakia, and the defeat of the [[France national football B team|France team]] 2–1.<ref name="football_book">[https://www.rsssf.org/tablesm/medgames87.html Mediterranean Games 1987 (Latakia)] {{Webarchive|url=https://web.archive.org/web/20090604053717/http://www.rsssf.com/tablesm/medgames87.html |date=4 June 2009 }} - ''rsssf.com''</ref><ref>{{cite web|url=http://archive.al-watan.com/viewnews.aspx?n=B508C194-AA38-43D4-9ABC-5F21AD7D5B43&d=20110123|title=جورج خوري: لن أحرق تاريخي|work=Al-Watan|language=Arabic|access-date=4 December 2017}} {{Dead link|date=December 2019 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+
+In the [[1990 FIFA World Cup qualification (AFC)|1990 FIFA World Cup qualifiers]], the national team placed second in the [[1990 FIFA World Cup qualification – AFC first round|first round]] after losing to Saudi Arabia 4–5 (goal scorers: [[Nizar Mahrous|Mahrous]], [[Mohammad Jakalan|Jakalan]], Al-Nasser and [[Abdul Latif Helou|Helou]]).<ref>{{Cite news|url=https://www.goalzz.com/?c=1811|title=FIFA World Cup 1990 Asian Qualifiers|access-date=5 March 2022|website=goalzz.com|archive-date=5 March 2022|archive-url=https://web.archive.org/web/20220305180801/https://www.goalzz.com/?c=1811|url-status=live}}</ref>
+
+In 1992, the [[1992 Arab Games|Arab Games]] were held in Syria, which included the [[1992 Arab Cup|Arab Cup]] In this tournament, the Syrian national team led by [[Virgil Dridea]] placed 4th after advancing to the semifinals (losing to Egypt 4–3 on penalties) and losing in the bronze medal match with Kuwait 1–2.<ref>{{Cite web|title=Arab Cup|url=https://www.rsssf.org/tablesa/arabcup.html|access-date=2021-04-23|website=[[RSSSF]]|archive-date=7 June 2021|archive-url=https://web.archive.org/web/20210607074432/http://www.rsssf.com/tablesa/arabcup.html|url-status=live}}</ref>
+
+During the [[1994 World Cup|1994 FIFA World Cup]] [[1994 FIFA World Cup qualification (AFC)|qualifiers]], they led the [[1994 FIFA World Cup qualification – AFC first round|qualifying group]] after winning over [[Chinese Taipei national football team|Taiwan]] and [[Oman national football team|Oman]], but due to draws with Iran (0–0 and 1–1, goal scored by [[Abdul Latif Helou]]), they did not advance to the second round.<ref>{{Cite news|url=https://www.goalzz.com/?c=1785|title=FIFA World Cup 1994 Asian Qualifiers|access-date=5 March 2022|website=goalzz.com|archive-date=5 March 2022|archive-url=https://web.archive.org/web/20220305182616/https://www.goalzz.com/?c=1785|url-status=live}}</ref>
+
+In the 1st round of the [[1996 AFC Asian Cup]], the Syrian team beat [[Uzbekistan national football team|Uzbekistan]] (2–1), thanks to goals from [[Nader Joukhadar]] and [[Ali Cheikh Dib|Ali Dib]], but they were beaten by [[Japan national football team|Japan]] (1–2, goal by Nader Joukhadar) and by [[China national football team|China]] (0–3). By finishing 3rd in the group, they had a chance to qualify for the quarterfinals but having a low score compared to the other two countries (Iraq and South Korea), the team finished as the worst 3rd, again missed the knockout phase.{{citation needed|date=December 2023}}
+
+===1996–2007: Hope and disappointment===
+[[File:Chadi02.jpg|150px|thumb|right|[[Chadi Cheikh Merai]] in 1997]]
+At the [[Football at the 1997 Arab Games|1997 Arab Games]] in Beirut, they reached the final, in which [[Jordan national football team|Jordan]] defeated them 0–1.<ref>{{Cite web |url=https://www.rsssf.org/tablesa/arabgam97.html |title=8th Arab Games, 1997 (Beirut, Lebanon) |access-date=5 March 2022 |archive-date=11 January 2019 |archive-url=https://web.archive.org/web/20190111014728/http://www.rsssf.com/tablesa/arabgam97.html |url-status=live }}</ref>
+
+One of Syria's biggest victories was recorded in Tehran on 4 June 1997, against the [[Maldives national football team|Maldives]], a match that ended with a final score of 12–0 for the Syrians. 5 days later it faces again the Maldives, still in Tehran, which ends with the same score of 12–0. These two matches were played as a part of the [[1998 FIFA World Cup qualification (AFC)#Group 2|qualification]] for the [[1998 FIFA World Cup]], where it was eliminated in the first preliminary round, ahead of Iran.<ref>{{Cite news|url=https://www.goalzz.com/?c=1784|title=FIFA World Cup 1998 Asian Qualifiers|access-date=5 March 2022|website=goalzz.com|archive-date=5 March 2022|archive-url=https://web.archive.org/web/20220305183431/https://www.goalzz.com/?c=1784|url-status=live}}</ref>
+
+The Syrian team was twice finalist in [[2000 WAFF Championship|2000]] and [[2004 WAFF Championship|2004]] of a regional competition, the [[WAFF Championship|West Asian Football Championship]], beaten each time by Iran; as they reached the semi-finals of the [[2002 WAFF Championship]] held at home but lost to [[Jordan national football team|Jordan]] on a golden goal scored in the last minutes of extra time (1–2), before losing to Iran on penalties during the match for the 3rd place (2–2, 2–4).{{citation needed|date=December 2023}}
+
+[[File:Azadi Tehran.JPG|200px|thumb|left|Syria v Iran, friendly match (2006)]]
+
+During the [[2002 FIFA World Cup qualification (AFC)|2002 FIFA World Cup qualification]], Syria were overtaken by [[Oman national football team|Oman]] at 1st, while being ahead of the [[Philippines national football team|Philippines]] and [[Laos national football team|Laos]].<ref>{{Cite news|url=https://www.goalzz.com/?c=1196|title=FIFA World Cup 2002 Asian Qualifiers|access-date=5 March 2022|website=goalzz.com|archive-date=5 March 2022|archive-url=https://web.archive.org/web/20220305185527/https://www.goalzz.com/?c=1196|url-status=live}}</ref>
+
+During the [[2006 FIFA World Cup qualification (AFC)|2006 FIFA World Cup qualification]], Syria did not advance to the third stage after uncertain match performances and losses with Bahrain (1–2) and [[Kyrgyzstan national football team|Kyrgyzstan]] (0–1).<ref>{{Cite news|url=https://www.goalzz.com/?c=350|title=FIFA World Cup 2006 Asian Qualifiers|access-date=5 March 2022|website=goalzz.com|archive-date=5 March 2022|archive-url=https://web.archive.org/web/20220305190002/https://www.goalzz.com/?c=350|url-status=live}}</ref>
+
+[[File:A view of ONGC Nehru Football Cup between India- Syria, in New Delhi on August 29, 2007.jpg|thumb|left|Syria v India, [[2007 Nehru Cup]]]]
+
+During this period, the national team participated in the [[2007 Nehru Cup]], where after the first victory over [[Bangladesh national football team|Bangladesh]] (2–0) they defeated [[Kyrgyzstan national football team|Kyrgyzstan]] (4–1), [[India men's national football team|India]] (3–2) and [[Cambodia national football team|Cambodia]] (5–1) and advanced to the finals.<ref>{{Cite web|url=https://www.goalzz.com/?c=2119|access-date=5 March 2022|website=goalzz.com|title=2007 Nehru Cup|archive-date=5 March 2022|archive-url=https://web.archive.org/web/20220305211955/https://www.goalzz.com/?c=2119|url-status=live}}</ref> The top scorers were famous Syrian stars [[Zyad Chaabo]] (5 goals) and [[Maher Al-Sayed]] (4 goals). But the cup final for the team did not turn out well, because they lost to India 0–1.<ref>{{Cite web|url=https://www.goalzz.com/?c=2119|access-date=5 March 2022|website=goalzz.com|title=2007 Nehru Cup Final|archive-date=5 March 2022|archive-url=https://web.archive.org/web/20220305211955/https://www.goalzz.com/?c=2119|url-status=live}}</ref><ref name="Bharanithar">{{cite web|url=https://bleacherreport.com/articles/251858-nehru-cup-victory-moment-to-cherish-for-indian-football-fans|title=Nehru Cup Victory : Moment To Cherish For Indian Football Fans|website=syndication.bleacherreport.com|publisher=Bharanithar|date=10 September 2009|access-date=22 March 2022|archive-url=https://web.archive.org/web/20220322074730/https://syndication.bleacherreport.com/amp/251858-nehru-cup-victory-moment-to-cherish-for-indian-football-fans.amp.html|archive-date=22 March 2022}}</ref>
+
+===2007–2012: Steady progress and first major title===
+[[File:Fajr Ibrahim.jpg|thumb|200px|Fajr Ibrahim led Syria twice to the semifinals of the West Asian Cup.]]
+In 2007, Syria advanced to the [[2007 WAFF Championship]] under the leadership of coach [[Fajr Ibrahim]], where they after victories over Lebanon and Jordan (both 1–0), lost in the semifinals to Iraq 0–3.<ref>{{Cite web|url=https://www.goalzz.com/?c=2113|website=6 March 2022|title=WAAF Cup 2007|archive-date=6 March 2022|archive-url=https://web.archive.org/web/20220306103222/https://www.goalzz.com/?c=2113|url-status=live}}</ref>
+
+A year later, "the Qasioun Eagles" took part in the [[2008 WAFF Championship]], where after a 2–1 victory over Oman and a draw with Jordan, they advanced to the semifinals, where they lost to Iran (0–2).<ref>{{Cite web|url=https://www.goalzz.com/?c=3816|archive-url=https://web.archive.org/web/20220306105219/https://www.goalzz.com/?c=3816|url-status=dead|title=goalzz.com: Live sports scores, news and more|archive-date=6 March 2022|website=www.goalzz.com}}</ref>
+
+At the [[2009 Nehru Cup]], Syria sovereignly won the group stage, defeating [[Sri Lanka national football team|Sri Lanka]], Kyrgyzstan, Lebanon and, in a close match, India (1–0). In the final of the cup, they encountered India, with which they lost 1–2 on penalties (the only Syrian scorer was [[Ali Diab]]).<ref>{{Cite web|url=https://www.goalzz.com/?c=4892|archive-url=https://web.archive.org/web/20220306115518/https://www.goalzz.com/?c=4892|url-status=dead|title=goalzz.com: Live sports scores, news and more|archive-date=6 March 2022|website=www.goalzz.com}}</ref>
+
+In the [[2010 FIFA World Cup qualification (AFC)|qualifications]] for the [[2010 FIFA World Cup]], Syria beat [[Afghanistan national football team|Afghanistan]] in the [[2010 FIFA World Cup qualification – AFC first round|1st round]], then [[Indonesia national football team|Indonesia]] in the [[2010 FIFA World Cup qualification – AFC second round|2nd round]], but narrowly failed in the [[2010 FIFA World Cup qualification – AFC third round|3rd round]] to qualify for the [[2010 FIFA World Cup qualification – AFC first round|4th round]], due to an unfavorable goal average, behind [[United Arab Emirates national football team|UAE]] and Iran, but ahead of Kuwait.<ref>{{Cite news|url=https://www.goalzz.com/?c=3274|access-date=5 March 2022|website=goalzz.com|title=FIFA 2010 World Cup Asian Qualifiers|archive-date=5 March 2022|archive-url=https://web.archive.org/web/20220305220626/https://www.goalzz.com/?c=3274|url-status=live}}</ref>
+
+[[File:SYR-JPN 2011-01-13.svg|Syrian line-up against Japan at the 2011 Asian Cup|200px|thumb]]
+
+The Syrian team qualified for the [[2011 AFC Asian Cup]] in Qatar after a long absence from it since 1996, where it ascended to the championship without any loss in the qualifiers. They were eliminated from the group stage again after losing to [[Jordan national football team|Jordan]] and [[Japan national football team|Japan]] and defeating [[Saudi national football team|Saudi Arabia]].<ref>{{Cite news|url=https://www.goalzz.com/?c=4461|access-date=3 March 2022|website=goalzz.com|title=Asia Nations Cup 2011|archive-date=3 March 2022|archive-url=https://web.archive.org/web/20220303220904/https://www.goalzz.com/?c=4461|url-status=live}}</ref> Shortly afterwards, they were disqualified from the [[2014 FIFA World Cup]] due to the use of an ineligible player.<ref>{{cite web|url=https://www.fifa.com/worldcup/preliminaries/news/newsid=1495459/index.html|archive-url=https://web.archive.org/web/20111005013012/http://www.fifa.com/worldcup/preliminaries/news/newsid=1495459/index.html|url-status=dead|archive-date=5 October 2011|title=Syria disqualified from 2014 FIFA World Cup|last=FIFA.com|date=19 August 2011|website=fifa.com|access-date=23 August 2017}}</ref>
+
+In December 2012, Syria beat [[Iraq national football team|Iraq]] in the final of [[2012 WAFF Championship]] to collect its first major trophy and [[Ahmad Al Saleh]] became the scorer of the historic winning goal (1–0).<ref>{{cite web|url=http://www.the-waff.com/more.asp?newsid=594&catid=1&lang=eng|archive-url=https://archive.today/20130204043915/http://www.the-waff.com/more.asp?newsid=594&catid=1&lang=eng|url-status = dead|archive-date=4 February 2013|title=WAFF 7th men Championship draw results|publisher=West Asian Football Federation|date=16 September 2012}}</ref> Official [[Syria TV|Syrian television]] interrupted its broadcasts to announce the victory and show the presentation of the cup live.<ref>[https://www.lequipe.fr/Football/Actualites/Victoire-de-la-syrie/337602 Foot - Asian Cup: Victory for Syria] {{Webarchive|url=https://web.archive.org/web/20130404084539/http://www.lequipe.fr/Football/Actualites/Victoire-de-la-syrie/337602 |date=4 April 2013 }}, on lequipe.fr, 20 December 2012.</ref>
+
+===2013–2016: Away game challenges===
+In 2013, the Syrian team withdrew from the [[2014 WAFF Championship]] due to the ongoing [[Syrian Civil War]]. In the following years, the national team faced challenges due to being unable to play in their home stadiums.<ref>{{Cite web |last=Agencies |first=The New Arab Staff & |date=2021-12-30 |title=Syria to play World Cup qualifying ties at neutral venues |url=https://www.newarab.com/news/syria-play-world-cup-qualifying-ties-neutral-venues |access-date=2024-03-02 |website=New Arab |language=en}}</ref>
+
+[[File:Syria national football team in Tehran - 2015 AFC Asian Cup qualification.jpg|230px|thumbnail|left|Syria national football team in Tehran: [[2015 AFC Asian Cup qualification]]]]
+
+Syria missed the [[2015 AFC Asian Cup]] after failing to [[2015 AFC Asian Cup qualification|qualify]] and occupying third place in Group A which included [[Jordan national football team|Jordan]], [[Singapore national football team|Singapore]] and [[Oman national football team|Oman]].<ref>{{cite web|url=http://www.sharghdaily.ir/Default.aspx?NPN_Id=145&pageno=13|script-title=fa:ایران میزبان بازیهای سوریه شد|language=fa|publisher=روزنامه شرق|date=30 June 2013|access-date=6 March 2022|archive-date=24 October 2017|archive-url=https://web.archive.org/web/20171024043133/http://www.sharghdaily.ir/Default.aspx?NPN_Id=145&pageno=13|url-status=dead}}</ref> In 2016, Syria took part in the [[2016 King's Cup]] in [[Bangkok]] under national team captain [[Mosab Balhous]] and head coach [[Ayman Hakeem]], where they lost in the semifinals after a penalty shootout with [[Thailand national football team|Thailand]] and defeated the United Arab Emirates 1–0 in third place match.<ref>{{cite web |url=http://www.fathailand.org/archives/3133 |title=Participants for 2016 King's Cup confirmed |publisher=fathailand.org/ (TH) |date=3 May 2016 |access-date=3 May 2016 |archive-url=https://web.archive.org/web/20160506082543/http://fathailand.org/archives/3133 |archive-date=6 May 2016 |url-status=dead |df=dmy-all }}</ref>
+
+==== 2018 FIFA World Cup qualifiers: Approaching success ====
+Ever since the [[Syrian civil war]] broke out in the country, Syria have been banned from playing home games in their own country and in fact were one day away from being thrown out of the [[2018 FIFA World Cup]] only for [[Malaysia national football team|Malaysia]] to swoop in at the last minute and offer to host all of Syria's home games.<ref>{{Cite web |date=2016-09-05 |title=Malaysia step in to host homeless Syria for World Cup qualifier vs Korea |url=https://www.insideworldfootball.com/2016/09/05/malaysia-step-host-homeless-syria-world-cup-qualifier-vs-korea/ |access-date=2024-03-02 |website=Inside World Football |language=en-GB}}</ref><ref>{{Cite web |title=World Cup qualifying: Syria to play Australia in Malaysia |url=https://www.usatoday.com/story/sports/soccer/2017/09/13/world-cup-qualifying-syria-to-play-australia-in-malaysia/105588078/ |access-date=2024-03-02 |website=USA Today |language=en-US}}</ref><ref>{{Cite web |date=2017-09-06 |title=Australia to host Syria in Sydney in World Cup qualifier |url=https://apnews.com/article/93a66d15d87843af82ec76ec615c4fd5 |access-date=2024-03-02 |website=AP News |language=en-US}}</ref>
+
+After finishing in second place in Group E during the [[2018 FIFA World Cup qualification (AFC)|2018 FIFA World Cup qualification]], behind [[Japan national football team|Japan]], but ahead of [[Singapore national football team|Singapore]], [[Afghanistan national football team|Afghanistan]] and [[Cambodian national football team|Cambodia]]. Syria was among the top 4 (2nd) and obtained the right to play in the [[2018 FIFA World Cup qualification – AFC third round|3rd round]], in addition to being qualified for the next [[2019 AFC Asian Cup]].<ref>{{Cite web|title=VIDEO: Football: Syria celebrates its qualification for the 2018 World Cup play-offs|url=https://www.francetvinfo.fr/sports/foot/coupe-du-monde/mondial-2018-la-syrie-celebre-la-qualification-de-son-equipe-pour-les-barrages_2359261.html|website=France Info|date=6 September 2017|access-date=7 September 2017|archive-date=7 March 2022|archive-url=https://web.archive.org/web/20220307194647/https://www.francetvinfo.fr/sports/foot/coupe-du-monde/mondial-2018-la-syrie-celebre-la-qualification-de-son-equipe-pour-les-barrages_2359261.html|url-status=live}}</ref>
+
+[[File:Syria Draw with Iran in 2018 FIFA World Cup Qualification Match-8.jpg|thumb|left|2018 FIFA World Cup Qualifiers, Syria v Iran]]
+
+They were drawn into [[2018 FIFA World Cup qualification – AFC third round#Groups|group A]], along with Iran, [[South Korea national football team|South Korea]], [[Uzbekistan national football team|Uzbekistan]], [[China national football team|China]] and [[Qatar national football team|Qatar]]. On 5 September 2017, Syria qualified for the first time in their history for the [[2018 FIFA World Cup qualification – AFC fourth round|play-offs]] of a [[2018 FIFA World Cup]] by finishing 3rd in their group with 13 points, level on points with [[Uzbekistan national football team|Uzbekistan]], but ahead in the standings thanks to better goal difference, following of their draw gleaned in stoppage time on the lawn of the Iran (2–2) in the last match.<ref>{{Cite news|language=french|title=Korea qualified for the World Cup, Syria in the play-offs|url=https://www.lequipe.fr/Football/Actualites/La-coree-s-est-qualifiee-pour-le-mondial-la-syrie-en-barrages/831850|website=L'Equipe|date=5 September 2017|access-date=7 September 2017|archive-date=7 September 2017|archive-url=https://web.archive.org/web/20170907213651/https://www.lequipe.fr/Football/Actualites/La-coree-s-est-qualifiee-pour-le-mondial-la-syrie-en-barrages/831850|url-status=live}}</ref>
+
+This was the best performance by "the Qasioun Eagles" to date in a World Cup qualifying phase.<ref>{{Cite news|language=french|title=Football: the goal in the 93rd that capsizes Syria with joy|url=https://www.france24.com/fr/20170905-syrie-a-encore-le-droit-rever-a-coupe-monde-football-2018|website=France 24|date=5 September 2017|access-date=7 September 2017|archive-date=7 March 2022|archive-url=https://web.archive.org/web/20220307194646/https://www.france24.com/fr/20170905-syrie-a-encore-le-droit-rever-a-coupe-monde-football-2018|url-status=live}}</ref> The prospect of a historic qualification for a final phase of the FIFA World Cup has given rise to a momentary halt to the [[Syrian Civil War|conflict]] which has ravaged the country for six years, as well as the installation of giant screens by the authorities in the main public squares of major cities to follow the decisive match against Iran.<ref>{{Cite web|language=french|title=World Cup-2018: before a decisive match, football unites the Syrians|url=https://www.lexpress.fr/actualites/1/sport/mondial-2018-avant-un-match-decisif-le-foot-unit-les-syriens_1940403.html|website=L'Express|date=4 September 2017|access-date=7 September 2017|archive-date=7 March 2022|archive-url=https://web.archive.org/web/20220307194646/https://www.lexpress.fr/actualites/1/sport/mondial-2018-avant-un-match-decisif-le-foot-unit-les-syriens_1940403.html|url-status=live}}</ref><ref>{{Cite web|language=french|title=Syria: when the match against Iran makes you forget the battle of Deir Ezzor|url=https://www.rtl.fr/actu/international/syrie-quand-le-match-contre-l-iran-fait-oublier-la-bataille-de-deir-ezzor-7789978981|website=RTL|date=6 September 2017|access-date=7 September 2017|archive-date=7 March 2022|archive-url=https://web.archive.org/web/20220307194646/https://www.rtl.fr/actu/international/syrie-quand-le-match-contre-l-iran-fait-oublier-la-bataille-de-deir-ezzor-7789978981|url-status=live}}</ref>
+
+On 5 October 2017 in [[Malacca]], Syria managed to draw (1–1) against [[Australia men's national soccer team|Australia]] thanks to a converted penalty in the 85th minute by [[Omar Al Somah]], who had already equalized in stoppage time in the last pool match against Iran, responding to the opening goal in the first half of [[Robbie Kruse]].<ref>{{Cite web|language=french|title=Syria and Australia neutralizes itself|url=http://www.sofoot.com/la-syrie-et-l-australie-se-neutralisent-448706.html|website=So Foot|date=5 October 2017|access-date=11 October 2017|archive-date=7 March 2022|archive-url=https://web.archive.org/web/20220307155112/https://www.sofoot.com/la-syrie-et-l-australie-se-neutralisent-448706.html|url-status=live}}</ref>
+
+In the return match played five days later in [[Sydney]], the Syrians opened the scoring in the 6th minute of play, once again thanks to Al Somah, but [[Tim Cahill]] tied the two teams seven minutes after the opening goal.{{citation needed|date=December 2023}}
+
+The two teams continued to neutralize each other and it was in extra time that Australia took a decisive advantage in the 109th minute of play thanks to a new goal from Cahill, dashing Syria's last hopes of participating in a [[FIFA World Cup]]. Reduced to 10 at the start of extra time, Syria nevertheless bravely tried their luck, narrowly missing the equalizer and qualification for the [[2018 FIFA World Cup qualification (inter-confederation play-offs)|Intercontinental play-off]] during stoppage time in the 2nd half of extra time on a free kick from the essential Al Somah who found the post.<ref>{{cite web|url=http://www.abc.net.au/news/2017-10-10/australia-v-syria-world-cup-qualifying-second-leg-live-blog/9034758|title=Australia v Syria World Cup qualifying play-off second leg in Sydney, as it happened|last1=Maasdorp|first1=James|date=10 October 2017|website=abc.net.au|access-date=10 October 2017|archive-date=11 October 2017|archive-url=https://web.archive.org/web/20171011042616/http://www.abc.net.au/news/2017-10-10/australia-v-syria-world-cup-qualifying-second-leg-live-blog/9034758|url-status=live}}</ref>
+
+==== 2019 AFC Asian Cup: A missed opportunity ====
+At the [[2019 AFC Asian Cup]] ([[2019 AFC Asian Cup Group B|Group B]]) in the United Arab Emirates, Syria under the leadership of then-head coach [[Bernd Stange]], the national team drew 0–0 with [[Palestine national football team|Palestine]] in the first match of the tournament. Syria failed to advance from the group stage after losing to [[Australia men's national soccer team|Australia]] (2–3) and Jordan (0–2).<ref>{{cite news |title=Australia 3–2 Syria |url=http://www.the-afc.com/asiancup/news/group-b-australia-3-2-syria |access-date=16 January 2019 |work=AFC |date=15 January 2019 |archive-date=16 April 2019 |archive-url=https://web.archive.org/web/20190416152158/http://www.the-afc.com/asiancup/news/group-b-australia-3-2-syria |url-status=live }}</ref><ref>{{cite news |title=Jordan 2–0 Syria |url=http://www.the-afc.com/asiancup/news/group-b-jordan-v-syria |access-date=10 January 2019 |work=AFC |date=10 January 2019 |archive-date=10 January 2019 |archive-url=https://web.archive.org/web/20190110191137/http://www.the-afc.com/asiancup/news/group-b-jordan-v-syria |url-status=live }}</ref>
+
+[[File:SYR-PLE 20190106 Asian Cup 3.jpg|thumb|2019 Asia Cup, Syria v Palestine]]
+The Syrian coach [[Bernd Stange]] was sacked after this tournament, and replaced with former manager [[Fajr Ibrahim]].<ref>{{cite web |title=Asian Cup news: Syria sack Stange after Jordan loss |url=https://www.foxsportsasia.com/football/asian-football/afc-asian-cup/1016739/syria-sack-stange-after-jordan-loss/ |website=FOX Sports Asia |date=11 January 2019 |access-date=3 March 2022 |archive-date=15 April 2019 |archive-url=https://web.archive.org/web/20190415082446/https://www.foxsportsasia.com/football/asian-football/afc-asian-cup/1016739/syria-sack-stange-after-jordan-loss/ |url-status=dead }}</ref> The team's game did not improve much after this intervention as they suffered an agonizing loss to Australia after an injury time goal by [[Tom Rogic]] in the second half, confirming Syria's elimination.<ref>{{Cite news |last=Ganavas |first=Stephen |date=2019-01-15 |title=Tom Rogic late show hauls Socceroos past Syria into Asian Cup last 16 |language=en-GB |work=The Guardian |url=https://www.theguardian.com/football/2019/jan/15/tom-rogic-late-show-guides-socceroos-past-syria-into-asian-cup-last-16 |access-date=2023-09-16 |issn=0261-3077}}</ref>
+
+===2019–2024: Qualification setbacks===
+In [[2022 FIFA World Cup qualification – AFC second round|qualifying for the 2022 FIFA World Cup]], which began in the fall of 2019, they were placed second in Group A of the 2nd round after the draw.<ref>{{Cite web |url=https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc |title=FIFA 2022 World Cup Asian Qualifiers |access-date=2 September 2021 |archive-date=5 October 2021 |archive-url=https://web.archive.org/web/20211005143151/https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/afc |url-status=live }}</ref> In the first matches of the group, "the Qasioun Eagles" comfortably won first over the [[Philippines national football team|Philippines]] (5–2), [[Maldives national football team|Maldives]] (2–1) and [[Guam national football team|Guam]] (4–0).<ref name="ama">{{Cite web|url=https://www.goalzz.com/?c=17129|title=FIFA World Cup 2022 Asian Qualifiers|access-date=7 April 2022|website=goalzz.com|archive-date=7 April 2022|archive-url=https://web.archive.org/web/20220407211421/https://www.goalzz.com/?c=17129|url-status=live}}</ref> Subsequently, in an important match, they defeated [[China national football team|China]] 2–1 after [[Osama Omari]]'s goal and [[Zhang Linpeng]]'s own goal.<ref>{{Cite web|url=https://www.goalzz.com/?m=1708710&cancomp=17129|website=goalzz.com|access-date=7 April 2022|title=Syria v China|archive-date=16 November 2022|archive-url=https://web.archive.org/web/20221116191140/https://www.goalzz.com/?m=1708710&cancomp=17129|url-status=live}}</ref> In the next match, the national team defeated the Philippines 1–0 with a decisive goal by midfielder [[Ward Al Salama]].<ref>{{Cite web|url=https://www.fifa.com/worldcup/preliminaries/asia/matches/match/400080620/|archive-url=https://web.archive.org/web/20200229235413/https://www.fifa.com/worldcup/preliminaries/asia/matches/match/400080620/|url-status=dead|archive-date=29 February 2020|title=FIFA World Cup Qatar 2022™ Qualifiers - Asia - Matches - Syria - Philippines |website=www.fifa.com|language=en-GB|access-date=2020-02-29}}</ref> On 11 March 2020, Tunisian [[Nabil Maâloul]] was appointed head coach of Syria.<ref>{{Cite web|url=https://www.kingfut.com/2020/03/11/nabil-maaloul-appointed-syria-head-coach/|title=OFFICIAL: Nabil Maaloul appointed Syria national team head coach|website=www.kingfut.com|date=11 March 2020|access-date=7 April 2022|archive-date=23 January 2023|archive-url=https://web.archive.org/web/20230123093903/https://www.kingfut.com/2020/03/11/nabil-maaloul-appointed-syria-head-coach/|url-status=live}}</ref>
+
+[[File:Nabil Maâloul 2018.jpg|thumbnail|200px|[[Nabil Maâloul]], Syria's head coach from 2020 to 2021]]
+The last matches in the group were played in 2021 due to [[COVID-19 pandemic in Asia|COVID-19 in Asia]], when they first defeated the [[Maldives national football team|Maldives]] (4–0) and [[Guam national football team|Guam]] (3–0), confirming their 1st place, advanced to the [[2023 AFC Asian Cup]] and also to the [[2022 FIFA World Cup qualification – AFC third round|third stage of qualifying for the 2022 FIFA World Cup]].<ref name="ama" /> With the 1st place assured, Syria then lost to [[China national football team|China]] 1–3 in the final game, which was irrelevant to the final standing.<ref name="ama" />
+
+[[File:Omar Kharbin (2).jpg|thumb|180px|Omar Khribin, [[Asian Footballer of the Year|2017 Asian Footballer of the Year]] and one of the key players of the national team]]
+Nabil Maâloul resigned on 15 June 2021, due to disagreements with the leadership of the football federation. [[Nizar Mahrous]] replaced him for the [[2022 FIFA World Cup qualification – AFC third round|next qualification phase]].<ref>{{Cite web|date=2021-07-07|title=رسميا.. نزار محروس مدربا لسوريا|url=https://www.kooora.com/?n=1047203|access-date=2021-07-07|website=كووورة|archive-date=16 November 2022|archive-url=https://web.archive.org/web/20221116191136/https://www.kooora.com/?n=1047203|url-status=live}}</ref> The team started this part of the qualification with unconvincing results with Iran (0–1), UAE (1–1) and [[South Korea national football team|South Korea]] (1–2), with both Syrian goals scored by [[Omar Khribin]] and [[Mahmoud Al Baher]].<ref name="asma" /> After a humiliating defeat in the Levantine derby with Lebanon (2–3, the scorers were Khrbin and Somah), a draw with Iraq (1–1 only goal was scored by Somah) and a high defeat with Iran (0–3), the head coach [[Nizar Mahrous|Mahrous]] was fired.<ref name="asma">{{Cite web|url=https://www.goalzz.com/?c=17129|title=FIFA World Cup 2022 Asian Qualifiers Third Round|access-date=8 April 2022|website=goalzz.com|archive-date=7 April 2022|archive-url=https://web.archive.org/web/20220407211423/https://www.goalzz.com/?c=17129|url-status=live}}</ref>
+
+At the [[2021 FIFA Arab Cup]], under the leadership of new coach [[Valeriu Tița]], they showed up in good form.<ref>{{cite web |url=https://www.the-afc.com/en/national/asian_qualifiers/news/syria_part_ways_with_valeriu_tita.html |title=Syria part ways with Valeriu Tita |website=the-afc.com |date=2 February 2022 |access-date=8 April 2022 |archive-date=26 March 2022 |archive-url=https://web.archive.org/web/20220326044515/https://www.the-afc.com/en/national/asian_qualifiers/news/syria_part_ways_with_valeriu_tita.html |url-status=live }}</ref> They played the first match in [[2021 FIFA Arab Cup Group B|Group B]] against the UAE, which they lost 1–2.<ref>{{Cite web|url=https://www.fifa.com/tournaments/mens/arabcup/arabcup2021/match-center/400175813|publisher=FIFA.com|title=2021 FIFA Arab Cup: UAE v SYR|access-date=8 April 2022|archive-date=17 April 2022|archive-url=https://web.archive.org/web/20220417045914/https://www.fifa.com/tournaments/mens/arabcup/arabcup2021/match-center/400175813|url-status=live}}</ref> In the next match, Syria played well despite the previous results, as [[Oliver Kass Kawo]] and [[Mouhamad Anez]] scored 2–0 over the big favorite from [[Tunisia national football team|Tunisia]].<ref>{{Cite web|date=2021-12-03|title=بأمر الفار.. طرد نجم تونس أمام سوريا|url=https://www.kooora.com/?n=1091854|access-date=2021-12-04|website=كووورة|archive-date=4 December 2021|archive-url=https://web.archive.org/web/20211204154502/https://www.kooora.com/?n=1091854|url-status=live}}</ref><ref>{{Cite web|title=الهدية المثالية لكاسكاو في عيد ميلاده|url=https://www.fifa.com/ar/tournaments/mens/arabcup/arabcup2021/news/origin1904-p.cxm.fifa.comfac-2021-md3-2d-follow-up-041221-ar|access-date=2021-12-04|website=www.fifa.com|language=ar}}{{Dead link|date=January 2023 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> In their last group match, "the Qasioun Eagles" lost to [[Mauritania national football team|Mauritania]] 1–2 when the equalizing goal was scored by [[Mahmoud Al Baher]] in the 52nd minute. They took the 3rd place in the group and the 9th place overall.<ref>{{cite news |url=https://www.emaratalyoum.com/sports/arab-and-international/2021-12-19-1.1576282 |title=الترتيب النهائي للمنتخبات في ختام كأس العرب |work=Al-Emarat Al-Youm |publisher= |date=19 December 2021 |access-date=8 April 2022 |archive-date=19 December 2021 |archive-url=https://web.archive.org/web/20211219172929/https://www.emaratalyoum.com/sports/arab-and-international/2021-12-19-1.1576282 |url-status=live }}</ref>
+
+In the last [[2022 FIFA World Cup qualification – AFC third round|qualifying matches]], they lost first to the UAE 0–2 then to South Korea with the same score, and due to these results, Tița was dismissed.<ref>{{Cite web |url=https://www.the-afc.com/en/national/asian_qualifiers/news/syria_part_ways_with_valeriu_tita.html |title=Syria part ways with Valeriu Tita |website=the-afc.com |date=8 April 2022 |access-date=8 April 2022 |archive-date=26 March 2022 |archive-url=https://web.archive.org/web/20220326044515/https://www.the-afc.com/en/national/asian_qualifiers/news/syria_part_ways_with_valeriu_tita.html |url-status=live }}</ref> [[Ghassan Maatouk]] was appointed as the new national head coach on 9 February 2022, leading the team to victory in the derby with Lebanon (3–0) and a draw with Iraq (1–1) in the last two matches. As a result, the Syrian team finished 5th in Group A.<ref>{{Cite web|date=2022-02-09|title=رسميا.. معتوق مدربا لمنتخب سوريا|url=https://www.kooora.com/?n=1111730|access-date=2022-02-09|website=كووورة|archive-date=9 February 2022|archive-url=https://web.archive.org/web/20220209230530/https://www.kooora.com/?n=1111730|url-status=live}}</ref>
+
+==== 2023 AFC Asian Cup: First knockout stage ====
+Syria qualified for their seventh [[AFC Asian Cup]] in [[2023 AFC Asian Cup|2023]], and during this tournament, they made the knockout stage for the first time in their history by ranking as one of the best ranked third place team,<ref>{{Cite news |date=23 January 2024 |title=Group B: Khrbin strike seals Syria historic berth |url=https://www.the-afc.com/en/national/afc_asian_cup/news/group_b_khrbin_strike_keeps_syria_in_the_race_2.html |access-date=23 January 2024 |work=[[Asian Football Confederation]]}}</ref> after being drawn into [[2023 AFC Asian Cup Group B|Group B]] alongside [[Australia men's national soccer team|Australia]], [[India men's national football team|India]] and [[Uzbekistan national football team|Uzbekistan]].<ref>{{cite news |title=#AsianCup2023 Groups Finalised |url=https://www.the-afc.com/en/national/afc_asian_cup/news/asiancup2023_groups_finalised.html |access-date=11 May 2023 |publisher=Asian Football Confederation}}</ref> In the round of 16, Syria lost against [[Iran national football team|Iran]] in the penalty shootouts following a 1–1 draw after extra time, despite their numerical superiority at the start of injury time following a 2nd yellow card for [[Mehdi Taremi]].<ref>{{cite web |url=https://www.beinsports.com/en-mena/football/afc-asian-cup-qatar-2023-/articles-video/iran-1-5-3-1-syria-highlights-2024-01-31 |title=Iran 1 (5) - (3) 1 Syria - Highlights |publisher=beIN SPORTS |date=31 January 2024 }}</ref>
+
+==== 2024: Further challenges ====
+Following two consecutive losses against North Korea and Japan in the last two matches of the [[2026 FIFA World Cup qualification – AFC second round|2026 FIFA World Cup qualifying second round]], Syria finished third in their group to miss another World Cup participation and drop to compete in the [[2027 AFC Asian Cup qualification – third round|AFC Asian Cup qualifying third round]].<ref>{{cite web |url=https://e.vnexpress.net/news/sports/football/perfect-japan-leave-syria-on-brink-in-world-cup-qualifying-4757161.html |title=Perfect Japan leave Syria on brink in World Cup qualifying |publisher=VnExpress |date=11 June 2024 }}</ref>
+
+=== 2024–present: New beginnings ===
+Following the [[fall of the Assad regime]] in December 2024, the [[Syrian Football Association]] announced a change in the national team's home kit and logo colors, shifting from red to green. The federation stated that the decision symbolized a historic transformation, marking the end of nepotism, favoritism, and corruption in Syrian football. Additionally, the team adopted a new all-green home kit, manufactured by Jako.<ref>{{cite web |url=https://www.reuters.com/sports/soccer/syrian-soccer-federation-changes-kit-colour-assad-toppled-2024-12-08/ |title=Syrian soccer federation changes kit colour as Assad toppled |publisher=Reuters |date=9 December 2024 }}</ref><ref>{{cite web |url=https://images.thedailystar.net/sports/football/news/syrian-football-federation-changes-kit-colour-assad-toppled-3771801 |title=Syrian football federation changes kit colour as Assad toppled |publisher=The Daily Star |date=9 December 2024 }}</ref><ref>{{cite web |url=https://dahhan-sports.com/blogs/news/the-syria-national-football-team-rebrands-syria-soccer-s-new-green-logo |title=The Syria National Football Team Rebrands: Syria Soccer's New Green Logo |work=Dahhan Sports |date=13 January 2025 }}</ref>
+
+On 18 January 2025, the Syrian Football Association announced to [[FIFA]] that it would make a series of changes when appearing in football matches. Among these changes, this included a new anthem, "[[Fī Sabīli al-Majd]]" ('In Pursuit of Glory') by the poet [[Omar Abu Risha]], serving as a temporary national anthem until a permanent resolution regarding the official anthem could be determined.<ref>{{cite news |title=MENA Sports Wrap: History as Syria team debuts new anthem and flag in first match post-Assad |url=https://www.newarab.com/news/mena-sports-wrap-syria-team-debuts-new-anthem-flag-match |website=[[The New Arab]] |date=18 January 2025 |access-date=21 February 2025 |archive-url=https://web.archive.org/web/20250118101318/https://www.newarab.com/news/mena-sports-wrap-syria-team-debuts-new-anthem-flag-match |archive-date=18 January 2025 |url-status=live}}</ref> Later that year, on 14 October, they qualified for the [[2027 AFC Asian Cup]] after a 3–0 away victory over [[Myanmar national football team|Myanmar]], finishing top of their group in the third round of the qualifiers.<ref>{{cite web |url=https://www.the-afc.com/en/national/afc_asian_cup.html/news/qualifiers-group-e-myanmar-0-3-syria-1 |title=Qualifiers - Group E: Myanmar 0-3 Syria |publisher=The AFC |date=14 October 2025 }}</ref>
+
+==Stadiums==
+{| class="wikitable mw-collapsible" style="text-align:center;font-size:100%;"
+!colspan="5"  | Home stadiums list
+|-
+!Image
+!Stadium
+!Capacity
+!Location
+!Last match
+|-
+|-
+|[[File:Aleppo International Stadium, day view, 2009 (1).jpg|150px]]
+|style="text-align:left"|[[Aleppo International Stadium]]
+|style="text-align:left"|53,200
+|style="text-align:left"|[[Aleppo]]
+|style="text-align:left"|'''v'''&nbsp;&nbsp;{{fb|VIE}}<br><small>(18 November 2009; [[2011 AFC Asian Cup qualification|2011 Asian Cup Q]])</small>
+|-
+|[[File:Abbasiyyin stadium from a distance.jpg|150px]]
+|style="text-align:left"|[[Abbasiyyin Stadium]]
+|style="text-align:left"|30,000
+|style="text-align:left"|[[Damascus]] 
+|style="text-align:left"|'''v'''&nbsp;&nbsp;{{fb|IRQ}}<br><small>(22 December 2010; [[Exhibition game|Friendly]])</small>
+|-
+|[[File:Al-Hamadaniya stad Aleppo1.jpg|150px]]
+|style="text-align:left"|[[Al-Hamadaniah Stadium]]
+|style="text-align:left"|15,000
+|style="text-align:left"|Aleppo
+|style="text-align:left"|'''v'''&nbsp;&nbsp;{{fb|KOR}}<br><small>(22 February 2006; [[2007 AFC Asian Cup qualification|2007 Asian Cup Q]])</small>
+|-
+|[[File:Jalaa stad.jpg|150px]]
+|style="text-align:left"|[[Al-Jalaa Stadium]]
+|style="text-align:left"|10,000
+|style="text-align:left"|Damascus 
+|style="text-align:left"|'''v'''&nbsp;&nbsp;{{fb|PLE}}<br><small>(26 March 2004; [[Exhibition game|Friendly]])</small>
+|}
+
+==Rivalries==
+Syria's common [[List of association football rivalries#International|rivals]] are mostly from the [[Levant]], which are [[Lebanon national football team|Lebanon]] and [[Jordan national football team|Jordan]].<ref>{{cite news |last1=Rajan |first1=Adwaldh |title=10-man Palestine hold Syria to goalless draw in Group B |url=https://www.foxsportsasia.com/football/asian-football/afc-asian-cup/1013365/afc-asian-cup-2019-10-man-palestine-syria-0-0-goalless-draw-group-b/ |access-date=6 January 2019 |work=Fox Sports Asia |date=6 January 2019 |archive-date=7 January 2019 |archive-url=https://web.archive.org/web/20190107022128/https://www.foxsportsasia.com/football/asian-football/afc-asian-cup/1013365/afc-asian-cup-2019-10-man-palestine-syria-0-0-goalless-draw-group-b/ |url-status=dead }}</ref>
+
+===Syria vs. Lebanon===
+{| style="float: right; margin-left: 1em; margin-bottom: 0.5em; width: 200px; border: solid 1px"
+|-
+|
+{| class="wikitable" style="text-align: center;font-size:90%;"
+! colspan="6"|Statistics vs. {{fb|LBN}}<ref name="RSSSFprehiso">{{Cite web |title=Syria official matches |url=http://www.eloratings.net/Syria |url-status=live |archive-url=https://web.archive.org/web/20220417090250/http://www.eloratings.net/Syria |archive-date=17 April 2022 |access-date=24 March 2022 |website=eloratings.net}}</ref>
+|-
+! style="width=30;"|Played<sup>1</sup>
+! style="width=30;"|Wins<sup>2</sup>
+! style="width=30;"|Draws
+! style="width=30;"|Losses
+! style="width=30;"|GF
+! style="width=30;"|GA
+|-
+|25||15||5||5||50||28
+|}
+<small>''1. Only matches recognized by [[FIFA]].''</small><br>
+<small>''2. Wins for '''Syria'''.''</small><br>
+|}
+Due to historical reasons, matches against [[Lebanon national football team|Lebanon]] have been frequently followed and seen by Syrians as the most important [[List of sports rivalries|rival]].<ref>{{Cite news|url=https://www.mirror.co.uk/sport/football/news/syria-lebanon-world-cup-qualifier-26550334#amp-readmore-target|title=World Cup 2022 qualifier halted due to fan riots in stadium during Lebanon vs Syria|publisher=Daily Mirror|date=24 March 2022|access-date=20 November 2022|author=Patrick Austen-Hardy|archive-date=19 November 2022|archive-url=https://web.archive.org/web/20221119225245/https://www.mirror.co.uk/sport/football/news/syria-lebanon-world-cup-qualifier-26550334#amp-readmore-target|url-status=live}}</ref> Syria played until today 25 games against Lebanon. The first match took place on 26 April 1942 in a friendly match against the ''[[Cedrus libani|Cedars]]'' in [[Beirut]], when Lebanon and Syria were [[Mandate for Syria and Lebanon|French colonies]].<ref name="012sy">{{Cite news|last=Khadra|first=A.|date=21 April 1942|title=La Vie Sportive|language=fr|work=[[L'Orient-Le Jour|Le Jour]]|url=}}</ref> In 1947 Syria played two more friendlies against Lebanon: 4–1 victory in Beirut on 4&nbsp;May,<ref>{{Cite news|date=6 May 1947|title=Plus homogène et plus rapide que l'équipe libanaise. L'équipe syrienne gagne par 4 buts a 1|language=fr|trans-title=More consistent and faster than the Lebanese team. The Syrian team wins by 4 goals to 1|work=[[L'Orient-Le Jour|Le Jour]]|url=}}</ref> and 1–0 victory in [[Aleppo]] on 18&nbsp;May.<ref>{{Cite news|date=20 May 1947|title=Foot-ball: Le match-revanche Liban-Syrie. L'équipe syrienne gagne par 1 but a 0|language=fr|trans-title=|work=[[L'Orient-Le Jour|Le Jour]]|url=}}</ref> It was at this time that the matches were the most regular. Syria dominates the series with 15 wins, 5 draws and 5 losses.
+
+===Syria vs. Jordan===
+{| style="float: right; margin-left: 1em; margin-bottom: 0.5em; width: 200px; border: solid 1px"
+|-
+|
+{| class="wikitable" style="text-align: center;font-size:90%;"
+! colspan="6"|Statistics vs. {{fb|JOR}}<ref name="RSSSFprehiso" />
+|-
+! style="width=30;"|Played<sup>1</sup>
+! style="width=30;"|Wins<sup>2</sup>
+! style="width=30;"|Draws
+! style="width=30;"|Losses
+! style="width=30;"|GF
+! style="width=30;"|GA
+|-
+|43||14||14||15||47||44
+|}
+<small>''1. Only matches recognized by [[FIFA]].''</small><br>
+<small>''2. Wins for '''Syria'''.''</small><br>
+|}
+
+Syria played their first official match against Jordan on 1 August 1953 in [[Alexandria]], Egypt, as part of the [[Football at the 1953 Arab Games|1953 Arab Games]], winning 3–1. In later years, the derby gained mutual popularity mainly due to historical, political, and geographical factors.<ref>{{cite web |last=Levy |first=Uri |date=11 January 2019 |title=Asian Cup 2019: Al-Shami Derby sees Jordan face Syria |url=https://www.alaraby.co.uk/english/blog/2019/1/10/asian-cup-2019-al-shami-derby-sees-jordan-face-syria |access-date=6 April 2019 |website=alaraby |archive-date=7 April 2019 |archive-url=https://web.archive.org/web/20190407050743/https://www.alaraby.co.uk/english/blog/2019/1/10/asian-cup-2019-al-shami-derby-sees-jordan-face-syria |url-status=live }}</ref>
+
+== Team image ==
+
+===Nickname===
+The Syrian national team is known by supporters and the media as ''Nosour Qasioun'', meaning The Eagles of Qasioun in reference to the [[Mount Qasioun]], which stretch over the capital of Syria, [[Damascus]].<ref name="nick" />
+
+=== Kits ===
+[[File:SYR-PLE 20190106 Asian Cup 1.jpg|thumb|Syrian fans before the match with Palestine]]The team color is always based on the colors of the [[Flag of Syria]]. During the period of [[Ba'athist Syria]], the team's home color was red. After the [[Fall of the Assad regime]], the team's home color is changed to green. The team's away color is always white.
+
+{| class="wikitable"
+|-
+! style="width=30;"| Kit supplier
+! style="width=30;"| Period
+! style="width=30;"| Notes
+|-
+| {{flagicon|ITA}} [[Diadora]]
+| 2005–2010
+|
+|-
+| {{flagicon|GER}} [[Adidas]]
+| 2011–2014
+|
+|-
+| {{flagicon|ITA}} [[Lotto Sport Italia|Lotto]]
+| 2015–2017
+|
+|-
+| {{flagicon|GER}} [[Jako]]
+| 2018–2020
+|
+|-
+| {{flagicon|GER}} [[Uhlsport]]
+| 2021–2022
+|
+|-
+| {{flagicon|GER}} [[Jako]]
+| 2022–
+|
+|}
+
+==Results and fixtures==
+{{see also|Syria national football team results (2020–present)|Syria national football team results}}
+
+The following is a list of match results in the last 12 months, as well as any future matches that have been scheduled.
+
+{{legend2|#dfd|Win|border=1px solid #AAAAAA}}
+{{legend2|#FFFFCC|Draw|border=1px solid #AAAAAA}}
+{{legend2|#FFCCCC|Loss|border=1px solid #AAAAAA}}
+{{legend2|#FFFFFF|Fixture|border=1px solid #AAAAAA}}
+
+=== 2025 ===
+{{Football box collapsible
+|format     = 1
+|round      = [[Exhibition game#Association football|Friendly]]
+|date       = {{Start date|2025|09|04|df=y}}
+|time       = {{UTZ|19:30|4}}
+|team1      = {{fb-rt|UAE}}
+|score      = 3–1
+|team2      = {{fb|SYR}}
+|report     = https://www.espn.co.uk/football/matchstats/_/gameId/758157
+|goals1     =
+*[[Saša Ivković|Ivković]] {{goal|62}}
+*[[Yahya Al-Ghassani|Al-Ghassani]] {{goal|78|pen.}}
+*[[Gastón Álvarez Suárez|Gastón Suárez]] {{goal|86}}
+|goals2     =
+*[[Mohammad Al Salkhadi|Al Salkhadi]] {{goal|36}}
+|location   = [[Dubai]], United Arab Emirates 
+|stadium    = [[Zabeel Stadium]]
+|attendance = 
+|referee    = 
+|result     = L
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[Exhibition game#Association football|Friendly]]
+|date       = {{Start date|2025|09|08|df=y}}
+|time       = 
+|team1      = {{fb-rt|SYR}}
+|score      = 2–2
+|team2      = {{fb|KUW}}
+|report     = https://www.espn.co.uk/football/match/_/gameId/758160/kuwait-syria
+|goals1     =
+*[[Noah Shamoun|Shamoun]] {{goal|24}}
+*[[Ahmad Faqa|Faqa]] {{goal|80}}
+|goals2     =
+*[[Mahdi Dashti|Dashti]] {{goal|65}}
+*[[Mohammad Daham|Daham]] {{goal|74}}
+|location   = [[Doha]], Qatar
+|stadium    = [[Jassim bin Hamad Stadium]]
+|attendance = 
+|referee    = 
+|result     = D
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[2027 AFC Asian Cup qualification – third round|2027 AFC Asian Cup qualification]]
+|date       = {{Start date|2025|10|9|df=y}}
+|time       = 
+|team1      = {{fb-rt|SYR}}
+|score      = 5–1
+|team2      = {{fb|MYA}}
+|report     = [https://globalsportsarchive.com/en/soccer/match/2025-10-09/syria-vs-myanmar/3587604/ Report]<br>[https://www.the-afc.com/en/national/afc_asian_cup.html/news/qualifiers-group-e-syria-5-1-myanmar Report (AFC)] 
+|goals1     =
+*[[Omar Khribin|Khribin]] {{goal|5||19||71}}
+*[[Mohammad Alsalkhadi|Al Salkhadi]] {{goal|29}}
+*[[Mohammad Al Hallaq|Al Hallaq]] {{goal|88}}
+|goals2     =
+*[[Nanda Kyaw|Kyaw]] {{goal|90+1}}
+|location   = [[Hofuf|Al Hofuf]], Saudi Arabia{{refn|group="note"|name=Syria|Syria played their home matches at a neutral venue due to the ongoing [[Syrian civil war]].}}
+|stadium    = [[Prince Abdullah bin Jalawi Stadium]]  
+|attendance = 198
+|referee    = Mohammad Mofeed ([[Jordan Football Association|Jordan]]) 
+|result     = W
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[2027 AFC Asian Cup qualification – third round|2027 AFC Asian Cup qualification]]
+|date       = {{Start date|2025|10|14|df=y}}
+|time       = 
+|team1      = {{fb-rt|MYA}}
+|score      = 0–3
+|team2      = {{fb|SYR}}
+|report     = [https://globalsportsarchive.com/en/soccer/match/2025-10-14/myanmar-vs-syria/3587606 Report]<br>[https://www.the-afc.com/en/national/afc_asian_cup.html/news/qualifiers-group-e-myanmar-0-3-syria-1 Report (AFC)]
+|goals1     = 
+|goals2     = 
+*[[Pablo Sabbag|Sabbag]] {{goal|80||85}}
+*[[Mohammad Alsalkhadi|Al Salkhadi]] {{goal|87}}
+|location   = [[Yangon]], Myanmar
+|stadium    = [[Thuwunna Stadium]]
+|attendance = 3,514
+|referee    = Tuan Yaasin Hanafiah ([[Football Association of Malaysia|Malaysia]])
+|result     = W
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[2027 AFC Asian Cup qualification – third round|2027 AFC Asian Cup qualification]]
+|date       = {{Start date|2025|11|18|df=y}}
+|time       = {{UTZ|14:00|5}}
+|team1      = {{fb-rt|PAK}}
+|score      = 0–5
+|report     = [https://globalsportsarchive.com/en/soccer/match/2025-11-18/pakistan-vs-syria/3587607 Report]<br>[https://www.the-afc.com/en/national/afc_asian_cup.html/news/qualifiers-group-e-pakistan-0-5-syria Report (AFC)] 
+|team2      = {{fb|SYR}}
+|goals1     = 
+|goals2     = 
+*[[Mohammad Al Hallaq|Al Hallaq]] {{goal|34||47}}
+*[[Yassin Samia|Samia]] {{goal|79||90+4}}
+*[[Alaa Al Dali|Al Dali]] {{goal|90}}
+|location   = [[Islamabad]], Pakistan
+|stadium    = [[Jinnah Sports Stadium]]
+|attendance = 7,124
+|referee    = Virendha Rai ([[Bhutan Football Federation|Bhutan]])
+|result     = W
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[2025 FIFA Arab Cup qualification|2025 FIFA Arab Cup qualifiers]]
+|date       = {{Start date|2025|11|25|df=y}}
+|time       = {{UTZ|19:00|3}}
+|team1      = {{fb-rt|SYR}}
+|score      = 2–0
+|team2      = {{fb|SSD}}
+|report     = https://www.fifa.com/en/match-centre/match/10013/290556/291903/400020254
+|goals1     =
+*[[Mohammad Al Hallaq|Al Hallaq]] {{goal|52}}
+*[[Mahmoud Al-Mawas|Al Mawas]] {{goal|59}}
+|goals2     =
+|location   = [[Doha]], Qatar
+|stadium    = [[Grand Hamad Stadium]]
+|attendance =
+|referee    = [[Amin Mohamed Omar]] ([[Egyptian Football Association|Egypt]])
+|result     = W
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[2025 FIFA Arab Cup]]
+|date       = {{Start date|2025|12|01|df=y}}
+|time       = {{UTZ|16:00|3}}
+|team1      = {{fb-rt|TUN}}
+|score      = 0–1
+|team2      = {{fb|SYR}}
+|report     = https://www.fifa.com/en/match-centre/match/10013/290556/290557/400020113
+|goals1     =
+|goals2     = *[[Omar Khribin|Khribin]] {{goal|48}}
+|location   = [[Al Rayyan (city)|Al Rayyan]], Qatar
+|stadium    = [[Ahmad bin Ali Stadium]]
+|attendance = 26,966
+|referee    = [[Juan Gabriel Calderón]] ([[Costa Rican Football Federation|Costa Rica]])
+|result     = W
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[2025 FIFA Arab Cup]]
+|date       = {{Start date|2025|12|04|df=y}}
+|time       = {{UTZ|20:00|3}}
+|team1      = {{fb-rt|SYR}}
+|score      = 1–1
+|team2      = {{fb|QAT}}
+|report     = https://www.fifa.com/en/match-centre/match/10013/290556/290557/400020115
+|goals1     = *[[Omar Khribin|Khribin]] {{goal|90}}
+|goals2     = *[[Ahmed Alaaeldin|Alaaeldin]] {{goal|77}}
+|location   = [[Al Rayyan (city)|Al Rayyan]], Qatar
+|stadium    = [[Khalifa International Stadium]]
+|attendance = 42,467
+|referee    = [[Mario Escobar (referee)|Mario Escobar]] ([[National Football Federation of Guatemala|Guatemala]])
+|result     = D
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[2025 FIFA Arab Cup]]
+|date       = {{Start date|2025|12|07|df=y}}
+|time       = {{UTZ|20:00|3}}
+|team1      = {{fb-rt|SYR}}
+|score      = 0–0
+|team2      = {{fb|PLE}}
+|report     = https://www.fifa.com/en/match-centre/match/10013/290556/290557/400020121
+|goals1     =
+|goals2     =
+|location   = [[Al Rayyan (city)|Al Rayyan]], Qatar
+|stadium    = [[Education City Stadium]]
+|attendance = 39,571
+|referee    = [[Ahmed Al-Kaf]] ([[Oman Football Association|Oman]])
+|result     = D
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[2025 FIFA Arab Cup|2025 FIFA Arab Cup Quarter-finals]]
+|date       = {{Start date|2025|12|11|df=y}}
+|time       = {{UTZ|17:30|3}}
+|team1      = {{fb-rt|MAR}}
+|score      = 1–0
+|team2      = {{fb|SYR}}
+|report     = https://www.fifa.com/en/match-centre/match/10013/290556/290563/400020141
+|goals1     = *[[Walid Azaro|Azaro]] {{goal|79}}
+*[[Mohamed Moufid|Moufid]] {{sentoff|0|90+1}}
+|goals2     =
+|location   = [[Al Rayyan (city)|Al Rayyan]], Qatar
+|stadium    = [[Khalifa International Stadium]]
+|attendance = 39,167
+|referee    = [[Cristián Garay]] ([[Football Federation of Chile|Chile]])
+|result     = L
+}}
+
+===2026===
+{{Football box collapsible
+|format     = 1
+|round      = [[2027 AFC Asian Cup qualification – third round|2027 AFC Asian Cup qualification]]
+|date       = 31 March
+|time       = {{UTZ|18:15|3}}
+|team1      = {{fb-rt|SYR}}
+|score      = 5–1
+|team2      = {{fb|AFG}}
+|report     = [https://globalsportsarchive.com/en/soccer/match/2026-03-31/syria-vs-afghanistan/3587609/ Report]<br />[https://www.the-afc.com/en/national/afc_asian_cup.html/news/qualifiers-group-e-syria-5-1-afghanistan-1 Report (AFC)]
+|goals1     = 
+*[[Mohammad Alsalkhadi|Al Salkhadi]] {{goal|5}}
+*[[Mohammad Al Hallaq|Al Hallaq]] {{goal|54}}
+*[[Mohammad Al Mustafa|Al Mustafa]] {{goal|58||82}}
+*[[Mahmoud Al Aswad|Al Aswad]] {{goal|90+1}}
+|goals2     = 
+*[[Ali Reza Panahi|Panahi]] {{goal|23}}
+|location   = [[Jeddah]], Saudi Arabia
+|stadium    = [[Prince Abdullah Al-Faisal Sports City Stadium]]
+|attendance = 562
+|referee    = Nasrullo Kabirov ([[Tajikistan Football Federation|Tajikistan]])
+|result     = W
+}}
+{{football box collapsible
+|format     = 1
+|date = 5 June
+|time = {{UTZ|19:00|3}}
+|round = [[Exhibition game#Association football|Friendly]]
+|team1 = {{fb-rt|BLR}}
+|score = 4–1
+|report = https://www.uefa.com/european-qualifiers/friendlies/match/2048305--belarus-vs-syria/
+|team2 = {{fb|SYR}}
+|goals1 =
+*[[Vladislav Morozov|Morozov]] {{goal|3}}
+*[[Artem Kontsevoy (footballer, born 1999)|Kontsevoy]] {{goal|11}}
+*[[Artyom Shumansky|Shumansky]] {{goal|48}}
+*[[Yevgeny Yablonsky|Yablonsly]] {{goal|78}}
+|goals2 =
+*[[Mahmoud Al-Mawas|Al-Mawas]] {{goal|88|pen.}}
+|location = [[Minsk]], Belarus 
+|stadium = [[National Football Stadium (Belarus)|National Football Stadium]]
+|attendance =
+|referee = [[Aliyar Aghayev]] ([[Association of Football Federations of Azerbaijan|Azerbaijan]])
+|result = L
+}}
+{{football box collapsible
+|format     = 1
+|date = 9 June
+|time = {{UTZ||3}}
+|round = [[Exhibition game#Association football|Friendly]]
+|team1 = {{fb-rt|SYR}}
+|score = Cancelled
+|report = 
+|team2 = {{fb|BHR}}
+|goals1 =
+|goals2 =
+|location = [[Antalya]], Turkey 
+|stadium = [[Gloria Sports Arena]]
+|attendance =
+|referee = 
+|result = P
+}}
+
+===2027===
+{{Football box collapsible
+|format     = 1
+|date       = 9 January
+|time       = {{UTZ|--:--|}}
+|round      = [[2027 AFC Asian Cup Group C|2027 Asian Cup GS]]
+|score      = 
+|report     = 
+|team1      = {{fb-rt|SYR}}
+|goals1     =
+|team2      = {{fb|KGZ}}
+|goals2     =
+|stadium    = [[King Fahd Sports City Stadium]] 
+|location   = [[Riyadh]], Saudi Arabia
+|attendance = 
+|referee    = 
+|result     = 
+}} 
+{{Football box collapsible
+|format     = 1
+|date       = 14 January
+|time       = {{UTZ|--:--|}}
+|round      = [[2027 AFC Asian Cup Group C|2027 Asian Cup GS]]
+|score      = 
+|report     = 
+|team1      = {{fb-rt|CHN}}
+|goals1     =
+|team2      = {{fb|SYR}}
+|goals2     =
+|stadium    = [[Prince Abdullah Al-Faisal Stadium]] 
+|location   = [[Jeddah]], Saudi Arabia
+|attendance = 
+|referee    = 
+|result     = 
+}}
+{{Football box collapsible
+|format     = 1
+|date       = 18 January
+|time       = {{UTZ|--:--|}}
+|round      = [[2027 AFC Asian Cup Group C|2027 Asian Cup GS]]
+|score      = 
+|report     = 
+|team1      = {{fb-rt|IRN}}
+|goals1     =
+|team2      = {{fb|SYR}}
+|goals2     =
+|stadium    = [[King Fahd Sports City Stadium]] 
+|location   = [[Riyadh]], Saudi Arabia
+|attendance = 
+|referee    = 
+|result     = 
+}}
+
+==Coaching staff==
+===Current technical staff===
+{{See also|List of Asian national football team managers}}
+{{Updated|August 2024}}
+{| class="wikitable"
+|-
+! style="width=30;color:#FFFFFF;background:#007A3D" | Position
+! style="width=30;color:#FFFFFF;background:#007A3D" | Name
+|-
+| Head coach
+| {{flagicon|Spain}} [[José Lana]]
+|-
+| Assistant coach
+| {{flagicon|Egypt}} [[Khaled Ghoneim]]
+|-
+| Goalkeeping coach
+| {{flagicon|Spain}} [[Nando Juárez]]
+|-
+| Team manager
+|
+|-
+| Fitness coach
+|
+|}
+
+===Coaching history===
+{| class="wikitable mw-collapsible mw-collapsed" style="text-align:center;font-size:100%;"
+! style="color:#FFFFFF;background:#007A3D"|Name
+! style="width=30;color:#FFFFFF;background:#007A3D"|Nat
+! style="color:#FFFFFF;background:#007A3D"|Period
+! style="width=30;color:#FFFFFF;background:#007A3D"|Matches
+! style="width=30;color:#FFFFFF;background:#007A3D"|Wins
+! style="width=30;color:#FFFFFF;background:#007A3D"|Draws
+! style="width=30;color:#FFFFFF;background:#007A3D"|Losses
+! style="color:#FFFFFF;background:#007A3D"|Honours
+|-
+| [[Vinzenz Dittrich]]
+| align="center" |{{flagicon|Austria}}
+| align="center" |1951
+| align="center" |
+| align="center" |
+| align="center" |
+| align="center" |
+|
+|-
+| [[Francisc Mészáros]]
+| align="center" |{{flagicon|Hungary|1949}}
+| align="center" |1954
+| align="center" |
+| align="center" |
+| align="center" |
+| align="center" |
+|
+|-
+| [[József Albert]]
+| align="center" |{{flagicon|Hungary|1949}}
+| align="center" | 1956–1959
+| align="center" |
+| align="center" |
+| align="center" |
+| align="center" |
+| [[Football at the 1957 Arab Games|1957 Arab Games]] winners<ref>{{cite web|url=http://www.kassioun.org/economy-and-society/item/9604-2014-08-28-19-24-07/9604-2014-08-28-19-24-07|title=«المدربون» وجع مزمن في جسد الكرة السورية..!|work=kassioun.org|language=Arabic|date=28 August 2014|access-date=29 November 2017|archive-date=1 December 2017|archive-url=https://web.archive.org/web/20171201041149/http://www.kassioun.org/economy-and-society/item/9604-2014-08-28-19-24-07/9604-2014-08-28-19-24-07|url-status=live}}</ref>
+|-
+| [[Miklós Vadas]]
+| align="center" | {{flagicon|Hungary|1949}}
+| align="center" | 1960–1965
+| align="center" |
+| align="center" |
+| align="center" |
+| align="center" |
+|
+|-
+| [[Cornel Drăgușin]]<ref name="adevarul">{{cite web | url=https://adevarul.ro/news/sport/povesti-alte-timpuri-cornel-dragusin-antrenat-irak-siria-colonelul-pazea-ajuns-presedintele-tarii-1_5958084c5ab6550cb8b42e5b/index.html | title=Poveşti din alte timpuri. Cornel Drăguşin a antrenat în Irak şi Siria: "Colonelul care mă păzea a ajuns preşedintele ţării!" | publisher=Adevarul.ro | language=Romanian | trans-title=Stories from other times. Cornel Dragusin trained in Iraq and Syria: "The colonel who was guarding me has become the president of the country!" | date=2 July 2017 | access-date=28 June 2021 | archive-date=28 June 2021 | archive-url=https://web.archive.org/web/20210628085600/https://adevarul.ro/news/sport/povesti-alte-timpuri-cornel-dragusin-antrenat-irak-siria-colonelul-pazea-ajuns-presedintele-tarii-1_5958084c5ab6550cb8b42e5b/index.html | url-status=live }}</ref>
+| align="center" |{{flagicon|Romania|1965}}
+| align="center" | 1965–1966
+| align="center" |
+| align="center" |
+| align="center" |
+| align="center" |
+|
+|-
+| Ezzat Abdel-Wahab
+| align="center" |{{flagicon|UAR}}
+| align="center" | 1969
+| align="center" |
+| align="center" |
+| align="center" |
+| align="center" |
+|
+|-
+| Mehana Jabour
+| align="center" | {{flagicon|SYR|1963}}
+| align="center" | 1971
+| align="center" |
+| align="center" |
+| align="center" |
+| align="center" |
+|
+|-
+| Khalil Nadaf
+| align="center" | {{flagicon|SYR|1963}}
+| align="center" |1971–1972
+| align="center" |
+| align="center" |
+| align="center" |
+| align="center" |
+|
+|-
+| Mohammed Azzam
+| align="center" | {{flagicon|SYR|1972}} 
+| align="center" | 1972
+| align="center" |
+| align="center" |
+| align="center" |
+| align="center" |
+|
+|-
+| Khalil Nadaf
+| align="center" | {{flagicon|SYR|1972}} 
+| align="center" | 1972–1973
+| align="center" |
+| align="center" |
+| align="center" |
+| align="center" |
+|
+|-
+| Mousa Shamas
+| align="center" | {{flagicon|SYR|1972}} 
+| align="center" | 1973–1974
+| align="center" |
+| align="center" |
+| align="center" |
+| align="center" |
+|
+|-
+| Lofti Kerkuli
+| align="center" | {{flagicon|SYR|1972}} 
+| align="center" | 1974
+| align="center" |
+| align="center" |
+| align="center" |
+| align="center" |
+|
+|-
+| [[Petre Rădulescu]]<ref>{{cite web |work=[[Rec.Sport.Soccer Statistics Foundation|RSSSF]] |author=Mubarak, Hassanin |title=Syria National Team Coaches |url=https://www.rsssf.org/miscellaneous/syr-coach.html |date=21 August 2019 |access-date=24 August 2019 |archive-date=9 October 2018 |archive-url=https://web.archive.org/web/20181009213756/http://www.rsssf.com/miscellaneous/syr-coach.html |url-status=live }}</ref>
+| align="center" | {{flagicon|Romania|1965}} 
+| align="center" | 1974–1975
+| align="center" |
+| align="center" |
+| align="center" |
+| align="center" |
+|
+|-
+| Vladimir Bolotov
+| align="center" | {{flagicon|USSR}} 
+| align="center" | 1975
+| align="center" |
+| align="center" |
+| align="center" |
+| align="center" |
+|
+|-
+| Mohamed Azzam
+| align="center" | {{flagicon|SYR|1972}} 
+| align="center" | 1976–1977
+| align="center" |
+| align="center" |
+| align="center" |
+| align="center" |
+|
+|-
+| Lofti Kerkuli
+| align="center" | {{flagicon|SYR|1972}} 
+| align="center" | 1977
+| align="center" |
+| align="center" |
+| align="center" |
+| align="center" |
+|
+|-
+| Zaki Natour
+| align="center" | {{flagicon|SYR|1972}} 
+| align="center" | 1978
+| align="center" |
+| align="center" |
+| align="center" |
+| align="center" |
+|
+|-
+| Horst Zokoll
+| align="center" | {{flagicon|GDR}} 
+| align="center" | 1978–1979
+| align="center" |
+| align="center" |
+| align="center" |
+| align="center" | 
+|
+|-
+| [[Mustafa Hasanagić]]
+| align="center" | {{flagicon|YUG}} 
+| align="center" | 1979
+| align="center" |
+| align="center" |
+| align="center" |
+| align="center" |
+|
+|-
+| Mousa Shamas
+| align="center" | {{flagicon|SYR|1972}}
+| align="center" | 1980
+| align="center" |
+| align="center" |
+| align="center" |
+| align="center" |
+|
+|-
+| Joseph Chadli<ref>{{Cite web|url=https://www.olympedia.org/athletes/5000434|title=Joseph Chadli|publisher=Olympedia|access-date=2 November 2022|archive-date=3 November 2022|archive-url=https://web.archive.org/web/20221103085640/https://www.olympedia.org/athletes/5000434|url-status=live}}</ref>
+| align="center" | {{flagicon|Syria|1980}}
+| align="center" | 1980
+| align="center" |
+| align="center" |
+| align="center" |
+| align="center" |
+|
+|-
+| [[Bill Asprey]]<ref name="matthews2008">{{cite book|last1=Matthews|first1=Tony|title=The Legends of Stoke City|date=18 December 2008|publisher=Breedon Books|location=Derby, United Kingdom|isbn=978-1-85983-653-8|pages=14–5}}</ref>
+| align="center" | {{flagicon|ENG}} 
+| align="center" | 1980–1982
+| align="center" |
+| align="center" |
+| align="center" |
+| align="center" |
+|
+|-
+| [[Karl Trautmann]]
+| align="center" | {{flagicon|GDR}} 
+| align="center" | 1983–1984
+| align="center" |
+| align="center" |
+| align="center" |
+| align="center" |
+|
+|-
+| Viktor Vasilyev
+| align="center" | {{flagicon|USSR}} 
+| align="center" | 1984
+| align="center" |
+| align="center" |
+| align="center" |
+| align="center" | 
+|
+|-
+| Avedis Kavlakian
+| align="center" | {{flagicon|Syria|1980}}
+| align="center" | 1984–1985
+| align="center" |
+| align="center" |
+| align="center" |
+| align="center" |
+|
+|-
+| [[Valeriy Yaremchenko]]
+| align="center" | {{flagicon|USSR}}
+| align="center" | 1985–1987
+| align="center" |
+| align="center" |
+| align="center" |
+| align="center" |
+| [[Football at the 1987 Mediterranean Games|1987 Mediterranean Games]] winners
+|-
+| [[Anatoliy Azarenkov]]
+| align="center" | {{flagicon|USSR}}<br />{{flagicon|Ukraine}}
+| align="center" | 1987–1992
+| align="center" |
+| align="center" |
+| align="center" |
+| align="center" |
+|
+|-
+| [[Virgil Dridea]]<ref>{{cite web|title=Petrolistul care a netezit drumul spre ultimul titlu național și a adus-o, mai târziu, pe Anderlecht la Ploiești a împlinit 74 de ani. Să ne trăiți, nea Puiu!|trans-title=The Petrolist who made his way to the last national title and later brought Anderlecht to Ploiesti turned 74 years old. Long life, Puiu!|url=http://sport.dragos-trestioreanu.ro/petrolistul-care-a-netezit-drumul-spre-ultimul-titlu-national-si-a-adus-o-mai-tarziu-pe-anderlecht-la-ploiesti-a-implinit-74-de-ani-sa-ne-traiti-nea-puiu/2014/11/18/|publisher=sport.dragos-trestioreanu.ro|access-date=1 April 2018|archive-date=1 April 2018|archive-url=https://web.archive.org/web/20180401213529/http://sport.dragos-trestioreanu.ro/petrolistul-care-a-netezit-drumul-spre-ultimul-titlu-national-si-a-adus-o-mai-tarziu-pe-anderlecht-la-ploiesti-a-implinit-74-de-ani-sa-ne-traiti-nea-puiu/2014/11/18/|url-status=dead}}</ref>
+| align="center" | {{flagicon|Romania}}
+| align="center" | 1992–1993
+| align="center" |
+| align="center" |
+| align="center" |
+| align="center" |
+|
+|-
+| Marwan Khouri
+| align="center" | {{flagicon|SYR|1980}}
+| align="center" | 1994–1995
+| align="center" |
+| align="center" |
+| align="center" |
+| align="center" |
+|
+|-
+| [[Yuri Kurnenin]]
+| align="center" | {{flagicon|Belarus|1995}}
+| align="center" | 1995–1997
+| align="center" |
+| align="center" |
+| align="center" |
+| align="center" |
+|
+|-
+| [[Anouar Abdul Kader]]
+| align="center" | {{flagicon|Syria|1980}}
+| align="center" | 1997
+| align="center" |
+| align="center" |
+| align="center" |
+| align="center" |
+|
+|-
+| [[Kevork Mardikian]]
+| align="center" | {{flagicon|Syria|1980}}
+| align="center" | 1997
+| align="center" |
+| align="center" |
+| align="center" |
+| align="center" |
+|
+|-
+| [[Angel Stankov]]
+| align="center" | {{flagicon|BUL}}
+| align="center" | 1997
+| align="center" |
+| align="center" |
+| align="center" |
+| align="center" |
+|
+|-
+| [[Mircea Rădulescu]]
+| align="center" | {{flagicon|Romania}}
+| align="center" | 1997–1998
+| align="center" |
+| align="center" |
+| align="center" |
+| align="center" |
+|
+|-
+| [[Joel Camargo]]
+| align="center" | {{flagicon|BRA}}
+| align="center" | 1998–1999
+| align="center" |
+| align="center" |
+| align="center" |
+| align="center" |
+|
+|-
+| Mousa Shamas
+| align="center" | {{flagicon|Syria|1980}}
+| align="center" | March – September 1999
+| align="center" |
+| align="center" |
+| align="center" |
+| align="center" |
+|
+|-
+| Dragoslav Popović
+| align="center" | {{flagicon|FR Yugoslavia}}
+| align="center" | September 1999 – February 2000
+| align="center" |
+| align="center" |
+| align="center" |
+| align="center" |
+|
+|-
+| Dragoslav Sridović
+| align="center" | {{flagicon|FR Yugoslavia}}
+| align="center" | March – April 2000
+| align="center" |
+| align="center" |
+| align="center" |
+| align="center" |
+|
+|-
+| Božidar Vukotić
+| align="center" | {{flagicon|FR Yugoslavia}}
+| align="center" | March – October 2001
+| align="center" |
+| align="center" |
+| align="center" |
+| align="center" |
+|
+|-
+| [[Jalal Talebi]]
+| align="center" | {{flagicon|IRN}}
+| align="center" | November 2001 – September 2002
+| align="center" | 10
+| align="center" | 9
+| align="center" | 0
+| align="center" | 1
+|
+|-
+| [[Janusz Wójcik]]
+| align="center" | {{flagicon|POL}}
+| align="center" | March – August 2003
+| align="center" |
+| align="center" |
+| align="center" |
+| align="center" |
+|
+|-
+| Božidar Vukotić
+| align="center" | {{flagicon|Serbia and Montenegro}}
+| align="center" | September – November 2003
+| align="center" |
+| align="center" |
+| align="center" |
+| align="center" |
+|
+|-
+| [[Ahmed Rifaat]]
+| align="center" | {{flagicon|EGY}}
+| align="center" | December 2003 – November 2004
+| align="center" |
+| align="center" |
+| align="center" |
+| align="center" |
+|
+|-
+| [[Nizar Mahrous]]
+| align="center" | {{flagicon|SYR|1980}}
+| align="center"| November 2004 – 2005
+| align="center" |
+| align="center" |
+| align="center" |
+| align="center" |
+|
+|-
+| [[Miloslav Radenović]]
+| align="center" | 
+{{flagicon|SRB|2004}}
+| align="center" | 2005 – August 2006
+| align="center" |
+| align="center" |
+| align="center" |
+| align="center" |
+|
+|-
+| [[Fajr Ibrahim]] 
+| align="center" | {{flagicon|SYR|1980}}
+| align="center" | 5 August 2006 – February 2008
+| align="center" | 24
+| align="center" | 13
+| align="center" | 5
+| align="center" | 6
+|
+|-
+| [[Mohammad Kwid]]
+| align="center" | {{flagicon|SYR|1980}}
+| align="center" | 10 May – 20 August 2008
+| align="center" | 8
+| align="center" | 4
+| align="center" | 0
+| align="center" | 4
+|
+|-
+| [[Fajr Ibrahim]] 
+| align="center" | {{flagicon|SYR|1980}}
+| align="center" | 13 November 2008 – 13 September 2010
+| align="center" | 28
+| align="center" | 13
+| align="center" | 9
+| align="center" | 6
+|
+|-
+| [[Ayman Hakeem]] (Interim)
+| align="center" | {{flagicon|SYR|1980}}
+| align="center" | 14 September – 20 December 2010
+| align="center" | 5
+| align="center" | 2
+| align="center" | 1
+| align="center" | 2
+|
+|-
+| [[Ratomir Dujković]]
+| align="center" | {{flagicon|SRB}}
+| align="center" | 28 October – 8 December 2010
+| align="center" | 1
+| align="center" | 1
+| align="center" | 0
+| align="center" | 0
+|
+|-
+| [[Valeriu Tiţa]]
+| align="center" | {{flagicon|ROM}}
+| align="center" | 21 December 2010 – 9 February 2011
+| align="center" | 6
+| align="center" | 1
+| align="center" | 0
+| align="center" | 5
+|
+|-
+| [[Claude Le Roy]]
+| align="center" |{{flagicon|FRA}}
+| align="center" | 16 April – 4 May 2011
+| align="center" | 0
+| align="center" | 0
+| align="center" | 0
+| align="center" | 0
+|
+|-
+| [[Nizar Mahrous]]
+| align="center" | {{flagicon|SYR|1980}}
+| align="center" | 22 May –	18 August 2011
+| align="center" | 7
+| align="center" | 5
+| align="center" | 2
+| align="center" | 0
+|
+|-
+| Marwan Khoury
+| align="center" | {{flagicon|SYR|1980}}
+| align="center" | 7 July –	30 August 2012
+| align="center" | 4
+| align="center" | 1
+| align="center" | 1
+| align="center" | 2
+|
+|-
+| [[Hussam Al Sayed]]
+| align="center" | {{flagicon|SYR|1980}}
+| align="center" | 21 October 2012 – 10 April 2013
+| align="center" | 8
+| align="center" | 2
+| align="center" | 3
+| align="center" | 3
+|[[2012 WAFF Championship]] winners
+|-
+| [[Anas Makhlouf]]
+| align="center" | {{flagicon|SYR|1980}}
+| align="center" | 13 April – 23 October 2013
+| align="center" | 3
+| align="center" | 0
+| align="center" | 1
+| align="center" | 2
+|
+|-
+| [[Hussam Al Sayed]] (Interim)
+| align="center" | {{flagicon|SYR|1980}}
+| align="center" | 9 – 20 November 2013
+| align="center" | 3
+| align="center" | 1
+| align="center" | 0
+| align="center" | 2
+|
+|-
+| Ahmad Al Shaar
+| align="center" | {{flagicon|SYR|1980}}
+| align="center" | 13 February – 5 March 2014
+| align="center" | 1
+| align="center" | 0
+| align="center" | 0
+| align="center" | 1
+|
+|-
+| Muhannad Al Fakeer
+| align="center" | {{flagicon|SYR|1980}}
+| align="center" | 18 September 2014 – 5 January 2015
+| align="center" | 2
+| align="center" | 2
+| align="center" | 0
+| align="center" | 0
+|
+|-
+| [[Fajr Ibrahim]] 
+| align="center" | {{flagicon|SYR|1980}}
+| align="center" | 6 January 2015 – 29 March 2016
+| align="center" | 14
+| align="center" | 10
+| align="center" | 1
+| align="center" | 3
+|
+|-
+| [[Ayman Hakeem]]
+| align="center" | {{flagicon|SYR|1980}}
+| align="center" | 9 May 2016 – 20 November 2017
+| align="center" | 21
+| align="center" | 6
+| align="center" | 11
+| align="center" | 4
+|
+|-
+| [[Bernd Stange]]
+| align="center" | {{flagicon|GER}}
+| align="center" | 31 January 2018 – 10 January 2019
+| align="center" | 11
+| align="center" | 3
+| align="center" | 5
+| align="center" | 3
+|
+|-
+| [[Fajr Ibrahim]] 
+| align="center" | {{flagicon|SYR|1980}}
+| align="center" | 10 January – 31 December 2019 
+| align="center" | 17
+| align="center" | 7
+| align="center" | 3
+| align="center" | 7
+|
+|-
+| [[Nabil Maâloul]] 
+| align="center" | {{flagicon|TUN}}
+| align="center" | 11 March 2020 – 15 June 2021 
+| align="center" | 7
+| align="center" | 3
+| align="center" | 0
+| align="center" | 4
+|
+|-
+| [[Nizar Mahrous]]
+| align="center" | {{flagicon|SYR|1980}}
+| align="center" | 7 July – 16 November 2021
+| align="center" | 6
+| align="center" | 0
+| align="center" | 2
+| align="center" | 4
+|
+|-
+| [[Valeriu Tiţa]]
+| align="center" | {{flagicon|ROM}}
+| align="center" | 18 November 2021 – 1 February 2022
+| align="center" | 5
+| align="center" | 1
+| align="center" | 0
+| align="center" | 4
+|
+|-
+| [[Ghassan Maatouk]]
+| align="center" | {{flagicon|SYR|1980}}
+| align="center" | 9 February – 1 June 2022
+| align="center" | 3
+| align="center" | 2
+| align="center" | 1
+| align="center" | 0
+|
+|-
+| [[Hussam Al Sayed]]
+| align="center" | {{flagicon|SYR|1980}}
+| align="center" | 23 August 2022 – 1 February 2023
+| align="center" | 6
+| align="center" | 0
+| align="center" | 0
+| align="center" | 6
+|
+|-
+| [[Héctor Cúper]]
+| align="center" | {{flagicon|ARG}}
+| align="center" | 2 February 2023 – 11 June 2024
+| align="center" | 18
+| align="center" | 5
+| align="center" | 6
+| align="center" | 7
+|
+|-
+| [[José Lana]]
+| align="center" | {{flagicon|SPA}}
+| align="center" | 22 August 2024 –
+| align="center" | 19
+| align="center" | 11
+| align="center" | 3
+| align="center" | 5
+|}
+<small>Source:<ref>{{cite web |author=Hassanin Mubarak |url=https://www.rsssf.org/miscellaneous/syr-coach.html |title=Syria National Team Coaches |publisher=RSSSF |date=21 August 2019 }}</ref></small>
+
+==Players==
+===Current squad===
+The following players were called up for the [[Exhibition game|friendly matches]] against [[Belarus national football team|Belarus]] and [[Bahrain national football team|Bahrain]], on 5 and 9 June 2026, respectively.
+
+:''Information correct as of 5 June 2026, after the match against [[Belarus national football team|Belarus]]''.
+
+{{nat fs g start}}
+{{nat fs g player|no=|pos=GK|name=[[Ahmad Madania]]|age={{birth date and age|1990|1|1|df=y}}|caps=32|goals=0|club= [[Homs Al Fidaa SC|Homs Al Fidaa]]|clubnat=SYR}}
+{{nat fs g player|no=|pos=GK|name=[[Shaher Al Shaker]]|age={{birth date and age|1993|4|1|df=y}}|caps=8|goals=0|club=[[Al Ittihad Ahli of Aleppo SC|Al-Ittihad]]|clubnat=SYR}}
+{{nat fs g player|no=|pos=GK|name=[[Maksim Sarraf]]|age={{birth date and age|2005|3|15|df=y}}|caps=0|goals=0|club=[[Al-Karamah SC|Al-Karamah]]|clubnat=SYR}}
+{{nat fs break}}
+{{nat fs g player|no=|pos=DF|name=[[Omar Midani]]|age={{birth date and age|1994|1|26|df=y}}|caps=71|goals=1|club=[[Al-Salmiya SC|Al-Salmiya]]|clubnat=KUW}} 
+{{nat fs g player|no=|pos=DF|name=[[Khaled Kourdoghli]]|age={{birth date and age|1997|1|31|df=y}}|caps=40|goals=0|club=[[Duhok SC|Duhok]]|clubnat=IRQ}}
+{{nat fs g player|no=|pos=DF|name=[[Abdullah Al Shami]]|age={{birth date and age|1994|3|2|df=y}}|caps=23|goals=0|club=[[Al-Yarmouk SC (Kuwait)|Al-Yarmouk]]|clubnat=KUW}}
+{{nat fs g player|no=|pos=DF|name=[[Abdul Rahman Weiss]]|age={{birth date and age|1998|6|14|df=y}}|caps=23|goals=0|club=[[Iraklis F.C. (Thessaloniki)|Iraklis]]|clubnat=GRE}}
+{{nat fs g player|no=|pos=DF|name=[[Abdulrazzak Al-Mohammad]]|age={{birth date and age|1995|1|16|df=y}}|caps=18|goals=0|club=[[Al-Ittihad SC Aleppo|Al-Ittihad]]|clubnat=SYR}} 
+{{nat fs g player|no=|pos=DF|name=[[Ahmad Faqa]]|age={{birth date and age|2003|1|10|df=y}}|caps=16|goals=2|club=[[AIK Fotboll|AIK]]|clubnat=SWE}}
+{{nat fs g player|no=|pos=DF|name=[[Zakaria Hannan]]|age={{birth date and age|1997|8|21|df=y}}|caps=15|goals=0|club=[[Al-Ittihad SC Aleppo|Al-Ittihad]]|clubnat=SYR}}
+{{nat fs g player|no=|pos=DF|name=[[Ziad Ghanoum]]|age={{birth date and age|2001|6|2|df=y}}|caps=1|goals=0|club=[[FC Stockholm]]|clubnat=SWE}}
+{{nat fs break}}
+{{nat fs g player|no=|pos=MF|name=[[Mohammed Osman]]|age={{birth date and age|1994|1|1|df=y}}|caps=32|goals=2|club=[[Lamphun Warriors F.C.|Lamphun Warriors]]|clubnat=THA}}
+{{nat fs g player|no=|pos=MF|name=[[Ahmed Ashkar]]|age={{birth date and age|1996|12|12|df=y}}|caps=28|goals=1|club=[[Al-Ittihad SC Aleppo|Al-Ittihad]]|clubnat=SYR}} 
+{{nat fs g player|no=|pos=MF|name=[[Elmar Abraham]]|age={{birth date and age|1999|3|1|df=y}}|caps=21|goals=0|club=[[IFK Skövde Fotboll|IFK Skövde]]|clubnat=SWE}}
+{{nat fs g player|no=|pos=MF|name=[[Simon Amin]]|age={{birth date and age|1997|11|13|df=y}}|caps=13|goals=0|club=[[Al-Mosul SC|Al-Mosul]]|clubnat=IRQ}} 
+{{nat fs g player|no=|pos=MF|name=[[Mohamad Al Sheikh]]|age={{birth date and age|2001|1|1|df=y}}|caps=1|goals=0|club=[[FC Malcantone]]|clubnat=SUI}}
+{{nat fs break}}
+{{nat fs g player|no=|pos=FW|name=[[Mahmoud Al-Mawas]]|age={{birth date and age|1993|1|1|df=y}}|caps=110|goals=18|club=[[Duhok SC|Duhok]]|clubnat=IRQ}}
+{{nat fs g player|no=|pos=FW|name=[[Alaa Al Dali]]|age={{birth date and age|1997|1|3|df=y}}|caps=27|goals=5|club=[[Al-Mosul SC|Al-Mosul]]|clubnat=IRQ}}
+{{nat fs g player|no=|pos=FW|name=[[Ammar Ramadan]]|age={{birth date and age|2001|1|5|df=y}}|caps=23|goals=0|club=[[FC DAC 1904 Dunajská Streda|Dunajská Streda]]|clubnat=SVK}} 
+{{nat fs g player|no=|pos=FW|name=[[Mahmoud Al Aswad]]|age={{birth date and age|2003|9|14|df=y}}|caps=21|goals=2|club=[[Al-Salmiya SC|Al-Salmiya]]|clubnat=KUW}}
+{{nat fs g player|no=|pos=FW|name=[[Pablo Sabbag]]|age={{birth date and age|1997|6|11|df=y}}|caps=11|goals=4|club=[[Al Ahli SC (Tripoli)|Al-Ahli]]|clubnat=LBY}} 
+{{nat fs g player|no=|pos=FW|name=[[Anas Dahan]]|age={{birth date and age|2006|1|31|df=y}}|caps=6|goals=0|club=[[Al-Ittihad SC Aleppo|Al-Ittihad]]|clubnat=SYR}}
+{{nat fs g player|no=|pos=FW|name=[[Mohammad Al Mustafa]]|age={{birth date and age|2005|1|20|df=y}}|caps=2|goals=2|club=[[Al-Hurriya SC|Al-Hurriya]]|clubnat=SYR}}
+{{nat fs end}}
+
+===Recent call-ups===
+The following players have also been called up to the Syria squad within the last 12 months.
+<!--Sorted by position, most recent call-up, caps, goals and last name.-->
+{{nat fs r start}}
+{{nat fs r player|no=|pos=GK|name=[[Elias Hadaya]]|age={{birth date and age|1998|8|21|df=y}}|caps=9|goals=0|club=[[Sandefjord Fotball|Sandefjord]]|clubnat=NOR|latest=[[2025 FIFA Arab Cup]]}}
+{{nat fs r player|no=|pos=GK|name=[[Talal Al Hussain]]|age={{birth date and age|1995|11|29|df=y}}|caps=0|goals=0|club=[[Al-Fotuwa SC|Al-Fotuwa]]|clubnat=SYR|latest=v. {{fb|KUW}}, 8 September 2025}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=DF|name=[[Fares Arnaout]]|age={{birth date and age|1997|1|31|df=y}}|caps=11|goals=0|club=[[Homs Al Fidaa SC|Homs Al Fidaa]]|clubnat=SYR|latest=v. {{fb|AFG}}, 31 March 2026}} 
+{{nat fs r player|no=|pos=DF|name=[[Almiqdad Ahmad]]|age={{birth date and age|2004|8|1|df=y}}|caps=1|goals=0|club=[[Homs Al Fidaa SC|Homs Al Fidaa]]|clubnat=SYR|latest=v. {{fb|AFG}}, 31 March 2026}} 
+{{nat fs r player|no=|pos=DF|name=[[Khaled Al Hajji]]|age={{birth date and age|2005|5|22|df=y}}|caps=1|goals=0|club=[[Al-Karamah SC|Al-Karamah]]|clubnat=SYR|latest=v. {{fb|AFG}}, 31 March 2026}} 
+{{nat fs r player|no=|pos=DF|name=[[Ibrahim Al Khalil]]|age={{birth date and age|2000|1|1|df=y}}|caps=0|goals=0|club=[[Homs Al Fidaa SC|Homs Al Fidaa]]|clubnat=SYR|latest=v. {{fb|AFG}}, 31 March 2026}} 
+{{nat fs r player|no=|pos=DF|name=[[Haitham Al Louz]]|age={{birth date and age|2001|1|15|df=y}}|caps=0|goals=0|club=[[Taliya SC|Al-Taliya]]|clubnat=SYR|latest=v. {{fb|AFG}}, 31 March 2026}} 
+{{nat fs r player|no=|pos=DF|name=[[Alan Aussi]]|age={{birth date and age|2001|6|30|df=y}}|caps=3|goals=0|club=[[F91 Dudelange]]|clubnat=LUX|latest=[[2025 FIFA Arab Cup]]}}
+{{nat fs r player|no=|pos=DF|name=[[Adham Ghandour]]|age={{birth date and age|2000|2|1|df=y}}|caps=0|goals=0|club=[[Al-Karamah SC|Al-Karamah]]|clubnat=SYR|latest=v. {{fb|PAK}}, 18 November 2025}}
+{{nat fs r player|no=|pos=DF|name=[[Aiham Ousou]]|age={{birth date and age|2000|1|9|df=y}}|caps=12|goals=0|club=[[Royal Charleroi S.C.|Charleroi]]|clubnat=BEL|latest=v. {{fb|MYA}}, 14 October 2025}}
+{{nat fs r player|no=|pos=DF|name=[[Diaa Al-Haq Mohammad]]|age={{birth date and age|1999|1|1|df=y}}|caps=2|goals=0|club=[[Al-Wahda SC (Syria)|Al-Wahda]]|clubnat=SYR|latest=v. {{fb|KUW}}, 8 September 2025}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=MF|name=[[Mahmoud Nayef]]|age={{birth date and age|2004|1|3|df=y}}|caps=7|goals=0|club=[[Al-Karamah SC|Al-Karamah]]|clubnat=SYR|latest=v. {{fb|AFG}}, 31 March 2026}}
+{{nat fs r player|no=|pos=MF|name=[[Yahya Karak]]|age={{birth date and age|2002|06|30|df=y}}|caps=1|goals=0|club=[[Al-Fotuwa SC|Al-Fotuwa]]|clubnat=SYR|latest=v. {{fb|AFG}}, 31 March 2026}}
+{{nat fs r player|no=|pos=MF|name=[[Mohammad Khoja]]|age={{birth date and age|1999|1|1|df=y}}|caps=1|goals=0|club=[[Jableh SC|Jableh]]|clubnat=SYR|latest=v. {{fb|AFG}}, 31 March 2026}}
+{{nat fs r player|no=|pos=MF|name=[[Mouhamad Anez]]|age={{birth date and age|1995|5|14|df=y}}|caps=40|goals=1|club=[[Diyala SC|Diyala]]|clubnat=IRQ|latest=[[2025 FIFA Arab Cup]]}}
+{{nat fs r player|no=|pos=MF|name=[[Hasan Dahan]]|age={{birth date and age|2003|1|1|df=y}}|caps=5|goals=0|club=[[Al-Ittihad SC Aleppo|Al-Ittihad]]|clubnat=SYR|latest=[[2025 FIFA Arab Cup]]}}
+{{nat fs r player|no=|pos=MF|name=[[Thaer Krouma]]|age={{birth date and age|1990|2|2|df=y}}|caps=46|goals=1|club=[[Al-Karamah SC|Al-Karamah]]|clubnat=SYR|latest=v. {{fb|PAK}}, 18 November 2025}}
+{{nat fs r player|no=|pos=MF|name=[[Koran Khello]]|age={{birth date and age|1997|7|5|df=y}}|caps=1|goals=0|club=[[Al-Wahda SC (Syria)|Al-Wahda]]|clubnat=SYR|latest=v. {{fb|PAK}}, 18 November 2025}}
+{{nat fs r player|no=|pos=MF|name=[[Ahmad Al Dali]]|age={{birth date and age|2002|3|21|df=y}}|caps=10|goals=0|club=[[Al-Tadamon SC (Kuwait)|Al-Tadamon]]|clubnat=KUW|latest=v. {{fb|MYA}}, 14 October 2025}}
+{{nat fs r player|no=|pos=MF|name=[[Mustafa Jneid]]|age={{birth date and age|2000|1|11|df=y}}|caps=9|goals=0|club=[[Al-Wahda SC (Syria)|Al-Wahda]]|clubnat=SYR|latest=v. {{fb|MYA}}, 14 October 2025}}
+{{nat fs r player|no=|pos=MF|name=[[Malek Janeer]]|age={{birth date and age|2003|1|1|df=y}}|caps=0|goals=0|club=[[Al Wasl F.C.|Al-Wasl]]|clubnat=UAE|latest=v. {{fb|UAE}}, 4 September 2025}}<sup>INJ</sup>
+{{nat fs break}}
+{{nat fs r player|no=|pos=FW|name=[[Omar Khribin]]|age={{birth date and age|1994|1|15|df=y}}|caps=70|goals=31|club=[[Al Wahda FC|Al Wahda]]|clubnat=UAE|latest=v. {{fb|AFG}}, 31 March 2026}}<sup>WD</sup> 
+{{nat fs r player|no=|pos=FW|name=[[Mohammad Al Hallaq]]|age={{birth date and age|1999|11|26|df=y}}|caps=30|goals=6|club=[[Dibba Al-Hisn SC|Dibba Al-Hisn]]|clubnat=UAE|latest=v. {{fb|AFG}}, 31 March 2026}}
+{{nat fs r player|no=|pos=FW|name=[[Mohammad Alsalkhadi]]|age={{birth date and age|2001|7|29|df=y}}|caps=15|goals=4|club=[[Damac Club|Damac]]|clubnat=KSA|latest=v. {{fb|AFG}}, 31 March 2026}} 
+{{nat fs r player|no=|pos=FW|name=[[Homam Mahmoud]]|age={{birth date and age|2006|4|8|df=y}}|caps=1|goals=0|club=[[Al-Fahaheel SC|Al-Fahaheel]]|clubnat=KUW|latest=v. {{fb|AFG}}, 31 March 2026}}
+{{nat fs r player|no=|pos=FW|name=[[Zeid Gharir]]|age={{birth date and age|1998|1|10|df=y}}|caps=0|goals=0|club=[[Al-Wahda SC (Syria)|Al-Wahda]]|clubnat=SYR|latest=v. {{fb|AFG}}, 31 March 2026}}
+{{nat fs r player|no=|pos=FW|name=[[Mohammad Saraqbi]]|age={{birth date and age|2003|1|1|df=y}}|caps=0|goals=0|club=[[Al-Karamah SC|Al-Karamah]]|clubnat=SYR|latest=v. {{fb|AFG}}, 31 March 2026}} 
+{{nat fs r player|no=|pos=FW|name=[[Yassin Samia]]|age={{birth date and age|1998|2|22|df=y}}|caps=12|goals=3|club=[[Al-Minaa SC|Al-Minaa]]|clubnat=IRQ|latest=[[2025 FIFA Arab Cup]]}}
+{{nat fs r player|no=|pos=FW|name=[[Antonio Yakoub]]|age={{birth date and age|2002|6|12|df=y}}|caps=7|goals=0|club=[[Örebro SK]]|clubnat=SWE|latest=[[2025 FIFA Arab Cup]]}}
+{{nat fs r player|no=|pos=FW|name=[[Noah Shamoun]]|age={{birth date and age|2002|12|8|df=y}}|caps=8|goals=1|club=[[IFK Värnamo|Värnamo]]|clubnat=SWE|latest=v. {{fb|MYA}}, 9 October 2025}}<sup>INJ</sup>
+{{nat fs r player|no=|pos=FW|name=[[Omar Al Somah]]|other=[[Captain (association football)|captain]]|age={{birth date and age|1989|3|23|df=y}}|caps=45|goals=23|club=[[Free agent|''Unattached'']]|clubnat=|latest=v. {{fb|KUW}}, 8 September 2025}}
+{{nat fs r player|no=|pos=FW|name=[[Mardik Mardikian]]|age={{birth date and age|1992|3|14|df=y}}|caps=46|goals=8|club=[[Homs Al Fidaa SC|Homs Al Fidaa]]|clubnat=SYR|latest=v. {{fb|UAE}}, 4 September 2025}} 
+{{nat fs break}}
+<sup>SUS</sup> Player suspended.<br />
+<sup>INJ</sup> Player withdrew from the squad due to an injury.<br />
+<sup>RET</sup> Retired from the national team.<br />
+<sup>WD</sup> Player withdrew from the squad for non-injury related reasons.<br />
+<sup>PRE</sup> Player was named in preliminary squad.<br />
+{{nat fs end}}
+
+===Previous squads===
+;AFC Asian Cup
+* '''[[1980 AFC Asian Cup squads#Syria|1980 Asian Cup squad]]'''
+* '''[[1984 AFC Asian Cup squads#Syria|1984 Asian Cup squad]]'''
+* '''[[1988 AFC Asian Cup squads#Syria|1988 Asian Cup squad]]'''
+* '''[[1996 AFC Asian Cup squads#Syria|1996 Asian Cup squad]]'''
+* '''[[2011 AFC Asian Cup squads#Syria|2011 Asian Cup squad]]'''
+* '''[[2019 AFC Asian Cup squads#Syria|2019 Asian Cup squad]]'''
+* '''[[2023 AFC Asian Cup squads#Syria|2023 Asian Cup squad]]'''
+;Olympic Games:
+* '''[[Football at the 1980 Summer Olympics&nbsp;– Men's team squads#Syria|1980 Olympics squad]]'''
+
+==Player records==
+{{main|Syria national football team records and statistics}}
+
+:{{Updated|06 June 2026}}<ref>{{cite web |last1=Mamrud |first1=Roberto |title=Syria - Record International Players |url=https://www.rsssf.org/miscellaneous/syr-recintlp.html |website=RSSSF |access-date=12 November 2020 |archive-date=22 October 2021 |archive-url=https://web.archive.org/web/20211022060113/http://www.rsssf.com/miscellaneous/syr-recintlp.html |url-status=live }}</ref>
+:''Players in '''bold''' are still active with Syria.''
+{{check quotation|reason=mismatched italics}}
+
+===Most appearances===
+[[File:2007 AFC Asian Cup qualification, Iran 1-1 Syria - Maher Al-Sayed.jpg|300px|right|thumb|[[Maher Al-Sayed]] is Syria's joint most-capped player with 109 appearances.]]
+
+{| class="wikitable sortable" style="text-align:center"
+! style=" width:30px;|Rank
+! style=" width:150px;|Player
+! style=" width:50px;|Caps
+! style=" width:50px;|Goals
+! style=" width:100px; |Career
+|-
+|1
+| style="text-align:left"|'''[[Mahmoud Al-Mawas]]'''
+| 110
+| 18
+| 2012–present
+|-
+| 2
+| style="text-align:left"|[[Maher Al-Sayed]]
+| 109
+| 29
+| 1999–2013
+|-
+| 3
+| style="text-align:left"|[[Ali Diab]]
+| 97
+| 4
+| 2004–2013
+|-
+| 4
+| style="text-align:left"|[[Mosab Balhous]]
+| 86
+| 0
+| 2006–2016
+|-
+| 5
+| style="text-align:left"|[[Raja Rafe]]
+| 84
+| 32
+| 2002–2015
+|-
+| 6
+| style="text-align:left"|[[Tarek Jabban]]
+| 83
+| 5
+| 1996–2007
+|-
+| 7
+| style="text-align:left"|'''[[Ibrahim Alma]]'''
+| 80
+| 0
+| 2012–present
+|-
+|rowspan=2|8
+| style="text-align:left"|'''[[Moayad Ajan]]'''
+| 76
+| 3
+| 2012–present 
+|-
+| style="text-align:left"|[[Nizar Mahrous]]
+| 76
+| 12
+| 1985–1993
+|-
+| 10
+| style="text-align:left"|[[George Khouri (footballer)|George Khouri]]
+| 74
+| 8
+| 1982–1989
+|}
+
+===Top goalscorers===
+[[File:Firas Khatib.jpg|200px|right|thumb|[[Firas Al-Khatib]] is Syria's all-time record goalscorer with 36 goals.]]
+{| class="wikitable sortable" style="text-align:center"
+|-
+! style=" width:30px;"|Rank
+! style=" width:150px;"|Player
+! style=" width:50px;"|Goals
+! style=" width:50px;"|Caps
+! style=" width:50px;"|Ratio
+! style=" width:80px;"|Career
+|-
+| 1
+| style="text-align:left"|[[Firas Al-Khatib]]
+| 36
+| 72
+| {{#expr:36/72 round 2}}
+| 2001–2019
+|-
+| 2
+| style="text-align:left"|[[Raja Rafe]]
+| 32
+| 84
+| {{#expr:32/84 round 2}}
+| 2006–2016
+|-
+| 3
+| style="text-align:left"|'''[[Omar Khribin]]'''
+| 31
+| 68
+| {{#expr:29/66 round 2}}
+| {{nowrap|2012–present}}
+|-
+| 4
+| style="text-align:left"|[[Maher Al-Sayed]]
+| 29
+| 109
+| {{#expr:29/109 round 2}}
+| 1999–2013
+|-
+| 5
+| style="text-align:left"|[[Said Bayazid]]
+| 24
+| 24
+| {{#expr:24/24 round 2}}
+| 1997–2001
+|-
+| 6
+| style="text-align:left"|'''[[Omar Al Somah]]'''
+| 23
+| 44
+| {{#expr:23/44 round 2}}
+| 2012–present 
+|-
+| 7
+| style="text-align:left"|[[Zyad Chaabo]]
+| 22
+| 49
+| {{#expr:22/49 round 2}}
+| 2001–2010
+|-
+|8
+| style="text-align:left"|'''[[Mahmoud Al-Mawas]]'''
+| 18
+| 110
+| {{#expr:16/99 round 2}}
+| {{nowrap|2012–present}}
+|-
+| rowspan=1|9
+| style="text-align:left"|[[Mohamed Al-Zeno]]
+| 15
+| 48
+| {{#expr:15/48 round 2}}
+| 2004–2011
+|-
+| 10
+| style="text-align:left"|[[Avedis Kavlakian]]
+| 14
+| —
+| —
+| 1953–1966
+|-
+|}
+
+==Competitive record==
+[[File:AUS-SYR 20190116 Asian Cup 8.jpg|250px|thumb|right|Syrian national team before [[2019 AFC Asian Cup]] match against [[Australia men's national soccer team|Australia]]]]
+
+===FIFA World Cup===
+{| class="wikitable" style="text-align: center;"
+|-
+!colspan=8|[[FIFA World Cup]] record
+!rowspan="39"|
+!colspan=6|[[FIFA World Cup qualification|Qualification]] record
+|-
+!Year
+!Round
+!{{Tooltip|Pld|Matches played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}*
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!{{Tooltip|Pld|Matches played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+|-
+|[[1930 FIFA World Cup|1930]] to [[1938 FIFA World Cup|1938]]
+|colspan=8|''Not a FIFA member''
+|colspan=6|''Not a FIFA member''
+|-
+|{{flagicon|Brazil|1889}} [[1950 FIFA World Cup|1950]]
+|colspan=8|''Withdrew''
+|1
+|0
+|0
+|1
+|0
+|7
+|-
+|{{flagicon|Switzerland}} [[1954 FIFA World Cup|1954]]
+|colspan=8|''Did not enter''
+|colspan=8|''Did not enter''
+|-
+|{{flagicon|Sweden}} [[1958 FIFA World Cup|1958]]
+|colspan=8|''Did not qualify''
+|2
+|0
+|1
+|1
+|1
+|2
+|-
+|{{flagicon|Chile}} [[1962 FIFA World Cup|1962]]
+|colspan=8 rowspan=2|''Withdrew''
+|colspan=6 rowspan=2|''Withdrew''
+|-
+|{{flagicon|England}} [[1966 FIFA World Cup|1966]]
+|-
+|{{flagicon|Mexico}} [[1970 FIFA World Cup|1970]]
+|colspan=8|''Did not enter''
+|colspan=8|''Did not enter''
+|-
+|{{flagicon|West Germany}} [[1974 FIFA World Cup|1974]]
+|colspan=8|''Did not qualify''
+|6
+|3
+|1
+|2
+|6
+|6
+|-
+|{{flagicon|Argentina|1861}} [[1978 FIFA World Cup|1978]]
+|colspan=8|''Withdrew''
+|4
+|1
+|0
+|3
+|2
+|6
+|-
+|{{flagicon|Spain}} [[1982 FIFA World Cup|1982]]
+|colspan=8 rowspan=8|''Did not qualify''
+|4
+|0
+|0
+|4
+|2
+|7
+|-
+|{{flagicon|Mexico}} [[1986 FIFA World Cup|1986]]
+|8
+|4
+|3
+|1
+|8
+|4
+|-
+|{{flagicon|Italy}} [[1990 FIFA World Cup|1990]]
+|4
+|2
+|1
+|1
+|7
+|5
+|-
+|{{flagicon|United States of America}} [[1994 FIFA World Cup|1994]]
+|6
+|3
+|3
+|0
+|14
+|4
+|-
+|{{flagicon|France|1974}} [[1998 FIFA World Cup|1998]]
+|6
+|3
+|1
+|2
+|30
+|5
+|-
+|{{flagicon|South Korea|1997}} {{flagicon|Japan}} [[2002 FIFA World Cup|2002]]
+|6
+|4
+|1
+|1
+|40
+|6
+|-
+|{{flagicon|Germany}} [[2006 FIFA World Cup|2006]]
+|6
+|2
+|2
+|2
+|7
+|7
+|-
+|{{flagicon|South Africa}} [[2010 FIFA World Cup|2010]]
+|10
+|6
+|2
+|2
+|23
+|10
+|-
+|{{flagicon|Brazil}} [[2014 FIFA World Cup|2014]]
+|colspan=8|''Disqualified''
+|2
+|0
+|0
+|2
+|0
+|6
+|-
+|{{flagicon|Russia}} [[2018 FIFA World Cup|2018]]
+|colspan=8 rowspan=3|''Did not qualify''
+|20
+|9
+|5
+|6
+|37
+|22
+|-
+|{{flagicon|Qatar}} [[2022 FIFA World Cup|2022]]
+|18
+|8
+|3
+|7
+|31
+|23
+|-
+|{{flagicon|Canada}} {{flagicon|Mexico}} {{flagicon|United States of America}} [[2026 FIFA World Cup|2026]]
+|6
+|2
+|1
+|3
+|9
+|12
+|-
+|{{flagicon|Morocco}} {{flagicon|Portugal}} {{flagicon|Spain}} [[2030 FIFA World Cup|2030]]
+|colspan=8 rowspan=2|''To be determined''
+|colspan=6 rowspan=2|''To be determined''
+|-
+|{{flagicon|Saudi Arabia}} [[2034 FIFA World Cup|2034]]
+|-
+!Total
+!{{Tooltip|0/20|Number of tournaments qualified for}}
+!–
+!–
+!–
+!–
+!–
+!–
+!109
+!47
+!24
+!38
+!217
+!132
+|}
+
+:''*Denotes draws include knockout matches decided via [[Penalty shoot-out (association football)|penalty shoot-out]].''
+
+===AFC Asian Cup===
+{{main|Syria at the AFC Asian Cup}}
+
+[[File:4822274 AE7I6730.jpg|alt=|thumb|230x230px|Syria during the [[2023 AFC Asian Cup|2023 Asian Cup]] match against [[Australia men's national soccer team|Australia]]]]
+
+{| class="wikitable" style="text-align: center;font-size:90%;"
+!colspan=8|[[AFC Asian Cup]] record
+!width=1% rowspan=22|
+!colspan=6|[[AFC Asian Cup qualifiers|Qualification]] record
+|-
+!Year
+!Round
+!Pld
+!W
+!D
+!L
+!GF
+!GA
+!Pld
+!W
+!D
+!L
+!GF
+!GA
+|-
+|{{flagicon|Hong Kong|1955}} [[1956 AFC Asian Cup|1956]]||rowspan=4 colspan=7|''Not an AFC member''
+|rowspan=4 colspan=6|''Not an AFC member''
+|-
+|{{flagicon|South Korea|1949}} [[1960 AFC Asian Cup|1960]]
+|-
+|{{flagicon|Israel}} [[1964 AFC Asian Cup|1964]]
+|-
+|{{flagicon|Iran|1964}} [[1968 AFC Asian Cup|1968]]
+|-
+|{{flagicon|Thailand}} [[1972 AFC Asian Cup|1972]]||colspan=7|''Did not qualify''
+||3||0||2||1||4||5
+|-
+|{{flagicon|Iran|1964}} [[1976 AFC Asian Cup|1976]]||colspan=7|''Withdrew''
+|colspan=6|''Withdrew''
+|-
+|{{flagicon|Kuwait}} [[1980 AFC Asian Cup|1980]]||rowspan=3|Group stage||4||2||1||1||3||2
+||3||2||1||0||2||0
+|-
+|{{flagicon|Singapore}} [[1984 AFC Asian Cup|1984]]||4||1||1||2||3||5
+||5||3||0||2||9||8
+|-
+|{{flagicon|Qatar}} [[1988 AFC Asian Cup|1988]]||4||2||0||2||2||5
+||4||3||1||0||8||2
+|-
+|{{flagicon|Japan|1870}} [[1992 AFC Asian Cup|1992]]||colspan=7|''Did not qualify''
+||2||1||0||1||3||4
+|-
+|{{flagicon|United Arab Emirates}} [[1996 AFC Asian Cup|1996]]||Group stage||3||1||0||2||3||6
+||4||3||0||1||6||2
+|-
+|{{flagicon|Lebanon}} [[2000 AFC Asian Cup|2000]]||rowspan=3 colspan=7|''Did not qualify''
+||6||4||1||1||11||3 
+|-
+|{{flagicon|China}} [[2004 AFC Asian Cup|2004]]
+||6||2||1||3||16||10
+|-
+|{{flagicon|Indonesia}} {{flagicon|Malaysia}} {{flagicon|Thailand}} {{flagicon|Vietnam}} [[2007 AFC Asian Cup|2007]]
+||6||2||2||2||10||6
+|-
+|{{flagicon|Qatar}} [[2011 AFC Asian Cup|2011]]||Group stage||3||1||0||2||4||5
+||6||4||2||0||10||2
+|-
+|{{flagicon|Australia}} [[2015 AFC Asian Cup|2015]]||colspan=7|''Did not qualify''
+||6||1||1||4||7||7
+|-
+|{{flagicon|United Arab Emirates}} [[2019 AFC Asian Cup|2019]]||Group stage||3||0||1||2||2||5
+||8||6||0||2||26||11
+|-
+| {{flagicon|Qatar}} [[2023 AFC Asian Cup|2023]]||Round of 16||4||1||2||1||2||2
+|8||7||0||1||22||7
+|-
+|{{flagicon|Saudi Arabia}} [[2027 AFC Asian Cup|2027]]||colspan=8|''Qualified''
+|12||8||1||3||30||14
+|-
+!'''Total'''||Round of 16||25||8||5||12||19||30
+!79||46||12||21||164||81
+|}
+:''*Denotes draws include knockout matches decided via [[Penalty shoot-out (association football)|penalty shoot-out]].''
+<div style="text-align:left">
+{| class="wikitable" style="text-align: center;font-size:90%;"
+!colspan=4|AFC Asian Cup history
+|-
+!Year!!Round!!Score!!Result
+|-
+|rowspan=5|[[1980 AFC Asian Cup|1980]]
+|- bgcolor=#ffffdd
+|Round 1||align="left"|{{fb-rt|SYR|1980}} '''0–0''' {{fb|IRN}}||Draw
+|- bgcolor=#ddffdd
+|Round 1||align="left"|{{fb-rt|SYR|1980}} '''1–0''' {{fb|BAN}}||Win
+|- bgcolor=#ffdddd
+|Round 1||align="left"|{{fb-rt|SYR|1980}} '''1–2''' {{fb|PRK|1948}}||Loss
+|- bgcolor=#ddffdd
+|Round 1||align="left"|{{fb-rt|SYR|1980}} '''1–0''' {{fb|CHN}}||Win
+|-
+|rowspan=5|[[1984 AFC Asian Cup|1984]]
+|- bgcolor=#ffffdd
+|Round 1||align="left"|{{fb-rt|SYR|1980}} '''1–1''' {{fb|QAT}}||Draw
+|- bgcolor=#ffdddd
+|Round 1||align="left"|{{fb-rt|SYR|1980}} '''0–1''' {{fb|KSA}}||Loss
+|- bgcolor=#ddffdd
+|Round 1||align="left"|{{fb-rt|SYR|1980}} '''1–0''' {{fb|KOR|1984}}||Win
+|- bgcolor=#ffdddd
+|Round 1||align="left"|{{fb-rt|SYR|1980}} '''1–3''' {{fb|KUW}}||Loss
+|-
+|rowspan=5|[[1988 AFC Asian Cup|1988]]
+|- bgcolor=#ffdddd
+|Round 1||align="left"|{{fb-rt|SYR|1980}} '''0–2''' {{fb|KSA}}||Loss
+|- bgcolor=#ffdddd
+|Round 1||align="left"|{{fb-rt|SYR|1980}} '''0–3''' {{fb|CHN}}||Loss
+|- bgcolor=#ddffdd
+|Round 1||align="left"|{{fb-rt|SYR|1980}} '''1–0''' {{fb|KUW}}||Win
+|- bgcolor=#ddffdd
+|Round 1||align="left"|{{fb-rt|SYR|1980}} '''1–0''' {{fb|BHR|1972}}||Win
+|-
+|rowspan=4|[[1996 AFC Asian Cup|1996]]
+|- bgcolor=#ffdddd
+|Round 1||align="left"|{{fb-rt|SYR|1980}} '''1–2''' {{fb|JPN|1870}}||Loss
+|- bgcolor=#ffdddd
+|Round 1||align="left"|{{fb-rt|SYR|1980}} '''0–3''' {{fb|CHN}}||Loss
+|- bgcolor=#ddffdd
+|Round 1||align="left"|{{fb-rt|SYR|1980}} '''2–1''' {{fb|UZB}}||Win
+|-
+|rowspan=4|[[2011 AFC Asian Cup|2011]]
+|- bgcolor=#ddffdd
+|Round 1||align="left"|{{fb-rt|SYR|1980}} '''2–1''' {{fb|KSA}}||Win
+|- bgcolor=#ffdddd
+|Round 1||align="left"|{{fb-rt|SYR|1980}} '''1–2''' {{fb|JPN}}||Loss
+|- bgcolor=#ffdddd
+|Round 1||align="left"|{{fb-rt|SYR|1980}} '''1–2''' {{fb|JOR}}||Loss
+|-
+|rowspan=4|[[2019 AFC Asian Cup|2019]]
+|- bgcolor=#ffffdd
+|Round 1||align="left"|{{fb-rt|SYR|1980}} '''0–0''' {{fb|PLE}}||Draw
+|- bgcolor=#ffdddd
+|Round 1||align="left"|{{fb-rt|SYR|1980}} '''0–2''' {{fb|JOR}}||Loss
+|- bgcolor=#ffdddd
+|Round 1||align="left"|{{fb-rt|SYR|1980}} '''2–3''' {{fb|AUS}}||Loss
+|-
+|rowspan=5|[[2023 AFC Asian Cup|2023]]
+|- bgcolor=#ffffdd
+|Round 1||align="left"|{{fb-rt|SYR|1980}} '''0–0''' {{fb|UZB}}||Draw
+|- bgcolor=#ffdddd
+|Round 1||align="left"|{{fb-rt|SYR|1980}} '''0–1''' {{fb|AUS}}||Loss
+|- bgcolor=#ddffdd
+|Round 1||align="left"|{{fb-rt|SYR|1980}} '''1–0''' {{fb|IND}}||Win
+|- bgcolor=#ffffdd
+|Round of 16||align="left"|{{fb-rt|SYR|1980}} '''1–1 {{pso|3–5}}''' {{fb|IRN}}||Draw
+|}</div>
+
+===Olympic Games===
+{| class="wikitable" style="text-align: center;"
+|-
+!colspan=8|[[Football at the Summer Olympics|Olympic Games]] record
+! style="width:1%;" rowspan="11"|
+!colspan=6|Olympic Games qualification record
+|-
+!Year
+!Result
+!Pld
+!W
+!D*
+!L
+!GF
+!GA
+!Pld
+!W
+!D*
+!L
+!GF
+!GA
+|-
+|{{flagicon|France}} [[1900 Summer Olympics|1900]] to [[1968 Summer Olympics|1968]] {{flagicon|Mexico}}||colspan=7|''Did not enter'' ||colspan=6|
+|-
+|{{flagicon|West Germany}} [[Football at the 1972 Summer Olympics|1972]]||colspan=7|''Did not qualify'' ||2||0||1||1||0||1
+|-
+|{{flagicon|Canada}} [[Football at the 1976 Summer Olympics|1976]]||colspan=7|''Did not enter'' ||colspan=6|
+|-
+|{{flagicon|USSR}} [[Football at the 1980 Summer Olympics|1980]]||Round 1||3||0||1||2||0||8 ||4||2||0||2||3||1
+|-
+|{{flagicon|USA}} [[Football at the 1984 Summer Olympics|1984]]||colspan=7 rowspan=2|''Did not qualify'' ||6||2||1||3||6||10
+|-
+|{{flagicon|Korea Republic}} [[Football at the 1988 Summer Olympics|1988]] ||2||0||0||2||0||5
+|-
+|{{flagicon|Spain}} [[Football at the 1992 Summer Olympics|1992]] to present
+|colspan=8|''See [[Syria national under-23 football team|Syria national under-23 team]]''
+|colspan=6|''See [[Syria national under-23 football team|Syria national under-23 team]]''
+|-
+!Total||0 Titles||3||0||1||2||0||8 ||14||4||2||8||9||17
+|}
+
+:''*Denotes draws include knockout matches decided via [[Penalty shoot-out (association football)|penalty shoot-out]].''
+
+===WAFF Championship===
+{{football squad on pitch|align=right
+|GK = [[Mosab Balhous|'''Balhous (C)''']]
+|RB = [[Hussein Jwayed|'''Jwayed''']]
+| RCB = [[Ahmad Al Salih|'''Al Salih''']]
+| LCB = [[Hamdi Al Masri|'''Al Masri''']]
+|LB = [[Moayad Ajan|'''Ajan''']]
+| RCM = [[Khaled Mobayed|'''Mobayed''']]
+| LCM = [[Zaher Midani|'''Midani''']]
+|LM = [[Oday Jafal|'''Jafal''']]
+|RM = [[Mahmoud Al Mawas|'''Al Mawas''']]
+| RCF = [[Ahmad Al Douni|'''Al Douni''']]
+| LCF = [[Omar Al Soma|'''Al Soma''']]
+| caption = [[2012 West Asian Football Federation Championship|2012 WAFF Championship Final]] starting lineup on 20 December 2012, in [[Kuwait City]] ([[Al-Sadaqua Walsalam Stadium]])
+}}
+{| class="wikitable" style="text-align: center;font-size:90%;"
+!colspan=9|[[WAFF Championship]] record
+|-
+!Year
+!Round
+!Pld
+!W
+!D*
+!L
+!GF
+!GA
+|- bgcolor=silver
+|{{flagicon|Jordan}} [[2000 West Asian Football Federation Championship|2000]]||'''Runners-up'''||'''5'''||'''2'''||'''1'''||'''2'''||'''5'''||'''2'''
+|- style="background:#9acdff;"
+|style="border: 3px solid red"|{{flagicon|Syria|1980}} [[2002 West Asian Football Federation Championship|2002]]||'''Fourth place'''||'''4'''||'''1'''||'''1'''||'''2'''||'''5'''||'''6'''
+|- bgcolor=silver
+|{{flagicon|Iran}} [[2004 West Asian Football Federation Championship|2004]]||'''Runners-up'''||'''4'''||'''1'''||'''1'''||'''2'''||'''6'''||'''13'''
+|-
+|{{flagicon|Jordan}} [[2007 West Asian Football Federation Championship|2007]]||Semi-finals||3||2||0||1||2||3
+|-
+|{{flagicon|Iran}} [[2008 West Asian Football Federation Championship|2008]]||Semi-finals||3||1||1||1||2||3
+|-
+|{{flagicon|Jordan}} [[2010 West Asian Football Federation Championship|2010]]||Group stage||2||0||1||1||2||3
+|- bgcolor=gold
+|{{flagicon|Kuwait}} [[2012 West Asian Football Federation Championship|2012]]||'''Champions'''||'''4'''||'''2'''||'''2'''||'''0'''||'''5'''||'''3'''
+|-
+|{{flagicon|Qatar}} [[2014 WAFF Championship|2014]]|| colspan=7 |''Withdrew''
+|-
+|{{flagicon|Iraq}} [[2019 WAFF Championship|2019]]||Group stage||4||0||2||2||5||7
+|-
+|{{flagicon|OMA}} [[2026 WAFF Championship|2026]]||colspan=7|''Qualified''
+|-
+!'''Total'''||'''1 Title'''||'''29'''||'''9'''||'''9'''||'''11'''||'''32'''||'''40'''
+|}
+:''*Denotes draws include knockout matches decided via [[Penalty shoot-out (association football)|penalty shoot-out]].''
+
+=== FIFA Arab Cup ===
+{| class="wikitable" style="text-align: center;font-size:90%;"
+!colspan=9|[[FIFA Arab Cup]] record
+|-
+!Year
+!Round
+!Pld
+!W
+!D*
+!L
+!GF
+!GA
+|- bgcolor=silver
+|{{flagicon|Lebanon|1943}} [[1963 Arab Cup|1963]]||'''Runners-up'''||'''4'''||'''3'''||'''0'''||'''1'''||'''9'''||'''4'''
+|-
+|{{flagicon|Kuwait}} [[1964 Arab Cup|1964]]||colspan=7|''Did not enter''
+|- bgcolor=silver
+|{{flagicon|Iraq|1963}} [[1966 Arab Cup|1966]]||'''Runners-up'''||'''5'''||'''3'''||'''1'''||'''1'''||'''9'''||'''4'''
+|-
+|{{flagicon|Saudi Arabia}} [[1985 Arab Cup|1985]]||colspan=7|''Did not enter''
+|- bgcolor=silver
+|{{flagicon|Jordan}} [[1988 Arab Cup|1988]]||'''Runners-up'''||'''6'''||'''2'''||'''2'''||'''2'''||'''5'''||'''5'''
+|- style="background:#9acdff;"
+|style="border: 3px solid red"|{{flagicon|Syria|1980}} [[1992 Arab Cup|1992]]||'''Fourth place'''||'''4'''||'''0'''||'''3'''||'''1'''||'''2'''||'''3'''
+|-
+|{{flagicon|Qatar}} [[1998 Arab Cup|1998]]||Group stage||2||0||0||2||1||6
+|-
+|{{flagicon|Kuwait}} [[2002 Arab Cup|2002]]||Group stage||4||2||0||2||8||6
+|-
+|{{flagicon|Saudi Arabia}} [[2012 Arab Cup|2012]]||colspan=7|''Did not enter''
+|-
+|{{flagicon|Qatar}} [[2021 FIFA Arab Cup|2021]]||Group stage||3||1||0||2||4||4
+|-
+|{{flagicon|Qatar}} [[2025 FIFA Arab Cup|2025]]||Quarter-finals||4||1||2||1||2||2
+|-
+|{{flagicon|Qatar}} [[2029 FIFA Arab Cup|2029]]|| colspan="7" rowspan="2" |''To be determined''
+|-
+|{{flagicon|Qatar}} [[2033 FIFA Arab Cup|2033]]
+|-
+!'''Total'''||'''0 Titles'''||'''32'''||'''12'''||'''8'''||'''12'''||'''40'''||'''34'''
+|}
+:''*Denotes draws include knockout matches decided via [[Penalty shoot-out (association football)|penalty shoot-out]].''
+
+===Palestine Cup of Nations===
+{| class="wikitable" style="text-align: center;font-size:90%;"
+!colspan=9|[[Palestine Cup of Nations]] record
+|-
+!Year
+!Round
+!Pld
+!W
+!D
+!L
+!GF
+!GA
+|- style="background:#9acdff;"
+|{{flagicon|IRQ|1963}} [[1972 Palestine Cup of Nations|1972]]||'''Fourth place'''||'''6'''||'''4'''||'''0'''||'''2'''||'''11'''||'''10'''
+|- style="background:Silver;"
+|{{flagicon|LBY|1972}} [[1973 Palestine Cup of Nations|1973]]||'''Runners-up'''||'''6'''||'''3'''||'''1'''||'''2'''||'''16'''||'''11'''
+|-style="background:#9acdff;"
+|{{flagicon|TUN}} [[1975 Palestine Cup of Nations|1975]]||'''Fourth place'''||'''4'''||'''1'''||'''0'''||'''3'''||'''3'''||'''8'''
+|-
+!Total||0 Titles||16||8||1||7||30||29 
+|}
+
+=== Arab Games ===
+{| class="wikitable" style="text-align: center;font-size:90%;"
+!colspan=9|[[Football at the Arab Games|Arab Games]] record
+|-
+!Year
+!Round
+!Pld
+!W
+!D*
+!L
+!GF
+!GA
+|- bgcolor=silver
+|{{flagicon|Egypt|1922}} [[Football at the 1953 Arab Games|1953]]||'''Runners-up'''||'''3'''||'''1'''||'''1'''||'''1'''||'''3'''||'''5'''
+|- bgcolor=gold
+|{{flagicon|Lebanon|1943}} [[Football at the 1957 Arab Games|1957]]||'''Champions'''||'''5'''||'''2'''||'''2'''||'''1'''||'''12'''||'''6'''
+|-
+|{{flagicon|Morocco}} [[Football at the 1961 Arab Games|1961]]||colspan=7|''Did not enter''
+|-
+|{{flagicon|Egypt|1965}} [[Football at the 1965 Arab Games|1965]]||Group stage||4||2||0||2||20||8
+|- style="background:#c96;"
+|style="border: 3px solid red"|{{flagicon|Syria|1972}} [[Football at the 1976 Arab Games|1976]]||'''Third place'''||'''6'''||'''3'''||'''1'''||'''2'''||'''6'''||'''4'''
+|-
+|{{flagicon|Morocco}} [[Football at the 1985 Arab Games|1985]]||Group stage||2||0||0||2||0||4
+|- 
+|style="border: 3px solid red"|{{flagicon|Syria|1980}} [[Football at the 1992 Arab Games|1992]]||colspan=9|''See [[1992 Arab Cup]]''
+|- bgcolor=silver
+|{{flagicon|Lebanon}} [[Football at the 1997 Arab Games|1997]]||'''Runners-up'''||'''5'''||'''4'''||'''0'''||'''1'''||'''9'''||'''5'''
+|-
+|{{flagicon|Jordan}} [[Football at the 1999 Arab Games|1999]]||Group stage||4||0||4||0||5||5
+|-
+|{{flagicon|Egypt}} [[Football at the 2007 Arab Games|2007]]||colspan=7|''Did not enter''
+|-
+|{{flagicon|Qatar}} [[Football at the 2011 Arab Games|2011]]||colspan=7|''Withdrew''
+|-
+|{{flagicon|Algeria}} [[Football at the 2023 Arab Games|2023]] to present||colspan=9|''See [[Syria national under-23 football team|Syria national under-23 team]]''
+|-
+!'''Total'''||'''1 Title'''||'''33'''||'''12'''||'''11'''||'''10'''||'''57'''||'''40'''
+|}
+:''*Denotes draws include knockout matches decided via [[Penalty shoot-out (association football)|penalty shoot-out]].''
+
+=== Mediterranean Games ===
+{| class="wikitable" style="text-align: center;font-size:90%;"
+!colspan=9|[[Football at the Mediterranean Games|Mediterranean Games]] record
+|-
+!Year
+!Round
+!Pld
+!W
+!D
+!L
+!GF
+!GA
+|- style="background:#c96;"
+|{{flagicon|Egypt|1922}} [[Football at the 1951 Mediterranean Games|1951]]||'''Third place'''||'''2'''||'''0'''||'''0'''||'''2'''||'''0'''||'''12'''
+|- style="background:#9acdff;"
+|{{flagicon|Spain|1945}} [[Football at the 1955 Mediterranean Games|1955]]||'''Fourth place'''||'''3'''||'''0'''||'''0'''||'''3'''||'''0'''||'''10'''
+|- 
+|{{flagicon|Lebanon|1943}} [[Football at the 1959 Mediterranean Games|1959]]||colspan=7|''Did not enter''
+|- 
+|{{flagicon|Italy}} [[Football at the 1963 Mediterranean Games|1963]]||Group stage||3||0||0||3||1||10
+|- 
+|{{flagicon|Tunisia|1959}} [[Football at the 1967 Mediterranean Games|1967]]||colspan=7|''Did not enter''
+|-
+|{{flagicon|Turkey}} [[Football at the 1971 Mediterranean Games|1971]]||Group stage||3||0||0||3||1||4
+|- 
+|{{flagicon|Algeria}}[[Football at the 1975 Mediterranean Games|1975]]||colspan=7 rowspan=2|''Did not enter''
+|- 
+|{{flagicon|Yugoslavia}} [[Football at the 1979 Mediterranean Games|1979]]
+|-
+|{{flagicon|Morocco}} [[Football at the 1983 Mediterranean Games|1983]]||Group stage||2||0||0||2||0||2
+|- bgcolor=gold
+|style="border: 3px solid red"|{{flagicon|Syria|1980}} [[Football at the 1987 Mediterranean Games|1987]]||'''Champions'''||'''5'''||'''4'''||'''1'''||'''0'''||'''13'''||'''3'''
+|-
+|{{flagicon|Italy}} [[Football at the 1991 Mediterranean Games|1991]] to present
+|colspan=9|''See [[Syria national under-20 football team|Syria national under-20 team]]''
+|-
+!'''Total'''||'''1 Title'''||'''18'''||'''4'''||'''1'''||'''13'''||'''15'''||'''41'''
+|}
+
+===Asian Games===
+{| class="wikitable" style="text-align: center;font-size:90%;"
+!colspan=9|[[Football at the Asian Games|Asian Games]] record
+|-
+!Year
+!Round
+!Pld
+!W
+!D*
+!L
+!GF
+!GA
+|- 
+|{{flagicon|India}} [[Football at the 1951 Asian Games|1951]]||colspan=7 rowspan=8|''Did not enter''
+|- 
+|{{flagicon|Philippines|1936}} [[Football at the 1954 Asian Games|1954]]
+|- 
+|{{flagicon|Japan}} [[Football at the 1958 Asian Games|1958]]
+|- 
+|{{flagicon|Indonesia}} [[Football at the 1962 Asian Games|1962]]
+|- 
+|{{flagicon|Thailand}} [[Football at the 1966 Asian Games|1966]]
+|-
+|{{flagicon|Thailand}} [[Football at the 1970 Asian Games|1970]]
+|- 
+|{{flagicon|Iran|1964}}[[Football at the 1974 Asian Games|1974]]
+|- 
+|{{flagicon|Thailand}} [[Football at the 1978 Asian Games|1978]]
+|-
+|{{flagicon|India}} [[Football at the 1982 Asian Games|1982]]||Group stage||3||0||2||1||3||5
+|-
+|{{flagicon|South Korea}} [[Football at the 1986 Asian Games|1986]]||colspan=7 rowspan=4|''Did not enter''
+|-
+|{{flagicon|China}} [[Football at the 1990 Asian Games|1990]]
+|-
+|{{flagicon|Japan}} [[Football at the 1994 Asian Games|1994]]
+|-
+|{{flagicon|Thailand}} [[Football at the 1998 Asian Games|1998]]
+|-
+|{{flagicon|South Korea}} [[Football at the 2002 Asian Games|2002]] to present
+|colspan=9|''See [[Syria national under-23 football team|Syria national under-23 team]]''
+|-
+!'''Total'''||'''0 Titles'''||'''3'''||'''0'''||'''1'''||'''2'''||'''3'''||'''5'''
+|}
+:''*Denotes draws include knockout matches decided via [[Penalty shoot-out (association football)|penalty shoot-out]].''
+
+=== West Asian Games ===
+{| class="wikitable" style="text-align: center;font-size:90%;"
+!colspan=9|[[West Asian Games]] record
+|-
+!Year
+!Round
+!Pld
+!W
+!D
+!L
+!GF
+!GA
+|- bgcolor=silver
+|{{flagicon|Iran}} [[Football at the 1997 West Asian Games|1997]]||'''Runners-up'''||'''4''' ||'''3''' || '''0'''||'''1''' || '''14'''|| '''4'''
+|- bgcolor=#c96
+|{{flagicon|Kuwait}} [[Football at the 2002 West Asian Games|2002]]||'''Third place'''<ref>{{cite web|url=http://www.westasiangames.com/second_wagf.asp|archive-url=https://web.archive.org/web/20090915175231/http://www.westasiangames.com/second_wagf.asp|url-status=dead|archive-date=15 September 2009|title=Second West Asian Games |publisher=West Asian Games Federation|access-date=10 June 2019}}</ref>||'''4'''||'''1'''||'''3'''||'''0'''||'''5'''||'''4'''
+|- bgcolor=silver
+|{{flagicon|Qatar}} [[Football at the 2005 West Asian Games|2005]]||'''Runners-up'''||'''4'''||'''1'''||'''3'''||'''0'''||'''7'''||'''5'''
+|-
+!Total||0 Titles||12||5||6||1||26||13
+|}
+
+== Head-to-head record ==
+{{main|Syria national football team records and statistics}}
+
+The list shown below shows the Syria national football team '''all-time international record against opposing nations'''.
+
+{{legend2|#CCFFCC|Positive Record|border=1px solid #AAAAAA}}
+{{legend2|#FFFFCC|Neutral Record|border=1px solid #AAAAAA}}
+{{legend2|#FFCCCC|Negative Record|border=1px solid #AAAAAA}}
+
+{{updated|05 June 2026}} after match against  {{fb|BLR}}
+
+All friendly and international matches have been approved, '''except for Olympic matches'''.
+[https://web.archive.org/web/20191026115529/https://www.fifa.com/mm/document/affederation/administration/01/79/87/75/circularno.1324-fifa-coca-colaworldranking.pdf A-level matches]
+
+{| class="wikitable sortable " style="text-align:center;  width:80%"
+! colspan="10" |Syria national football team head-to-head records
+|-
+!width=160|Opponent 
+!width=30| Played
+!width=30| Wins
+!width=30| Draws
+!width=30| Losses
+!width=30|{{Tooltip|GF|Goals for}}
+!width=30|{{Tooltip|GA|Goals against}}
+!width=30|{{Tooltip|GD|goal difference}}
+!width=12|Confederation
+
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|AFG|2013}}  || 6 || 6 || 0 || 0 || 22 || 4 || +18 || AFC
+|-
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|ALG}}    || 6 || 1 || 2 || 3 || 4 || 7 || −3 || CAF
+|-
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|AUS}}  || 4 || 0 || 1 || 3 || 4 || 7 || −3 || AFC
+|-
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|BHR}}  || 25 || 12 || 7 || 6 || 29 || 24 || +5 || AFC
+|-
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|BAN}}  || 3 || 3 || 0 || 0 || 5 || 1 || +4 || AFC
+|-
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|BLR}}  || 2 || 0 || 0 || 2 || 1 || 5 || −4 || UEFA
+|-
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|CAM}}  || 3 || 3 || 0 || 0 || 17 || 1 || +16 || AFC
+|-
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|CHN}}  || 15 || 5 || 2 || 8 || 14 || 29 || −15 || AFC
+|-
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|TPE}}  || 4 || 4 || 0 || 0 || 17 || 1 || +16 || AFC
+|-
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|CYP}}  || 1 || 0 || 0 || 1 || 0 || 1 || −1 || UEFA
+|-
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|EGY}}  || 11 || 2 || 2 || 7 || 7 || 23 || −16 || CAF
+|-
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|GRE}}  || 2 || 0 || 0 || 2 || 0 || 12 || −12 || UEFA
+|-
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|GUM}}  || 2 || 2 || 0 || 0 || 7 || 0 || +7 || AFC
+|-
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|HAI}}  || 1 || 1 || 0 || 0 || 2 || 1 || +1 || CONCACAF
+|-
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|HKG}}  || 1 || 1 || 0 || 0 || 2 || 0 || +2 || AFC
+|-
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|IND}}  || 8 || 4 || 2 || 2 || 11 || 7 || +4 || AFC
+|-
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|IDN}}  || 5 || 4 || 0 || 1 || 15 || 3 || +12 || AFC
+|-
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|IRN}}  || 30 || 1 || 12 || 17 || 16 || 52 || −36 || AFC
+|-
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|IRQ}}  || 33 || 5 || 11 || 17 || 25 || 46 || −21 || AFC
+|-
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|JPN}}  || 13 || 0 || 2 || 11 || 9 || 37 || −28 || AFC
+|-
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|JOR}}  || 43 || 14 || 14 || 15 || 47 || 44 || +3 || AFC
+|-
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|KAZ}}  || 4 || 3 || 1 || 0 || 8 || 1 || +7 || UEFA
+|-
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|KUW}}  || 34 || 11 || 9 || 14 || 39 || 51 || −12 || AFC
+|-
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|KGZ}}  || 7 || 2 || 2 || 3 || 10 || 8 || +2 || AFC
+|-
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|LAO}}  || 2 || 2 || 0 || 0 || 20 || 0 || +20 || AFC
+|-
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|LIB}}  || 25 || 15 || 5 || 5 || 50 || 28 || +22 || AFC
+|-
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|LBY}}  || 10 || 3 || 3 || 4 || 13 || 17 || −4 || AFC
+|-
+|- bgcolor=FFFACD
+| style="text-align:left;"| {{fb|MAS}}   || 6 || 2 || 2 || 2 || 12 || 14 || -2 || AFC
+|-
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|MDV}}  || 7 || 6 || 0 || 1 || 39 || 4 || +35 || AFC
+|-
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|MTN}}  || 3 || 2 || 0 || 1 || 4 || 2 || +2 || CAF
+|-
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|MAR}}  || 7 || 0 || 3 || 4 || 2 || 8 || −6 || CAF
+|-
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|MRI}}  || 1 || 1 || 0 || 0 || 2 || 0 || +2 || CAF
+|-
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|MYA}}  || 4 || 3 || 1 || 0 || 16 || 2 || +14 || AFC
+|-
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|NEP}}  || 2 || 2 || 0 || 0 || 5 || 0 || +5 || AFC
+|-
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|NGA}}  || 1 || 0 || 0 || 1 || 0 || 1 || −1 || CAF
+|-
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|PRK}}  || 11 || 4 || 4 || 3 || 18 || 14 || +4 || AFC
+|-
+|- bgcolor=FFFACD
+| style="text-align:left;"| {{fb|OMA}} || 26 || 9 || 8 || 9 || 39 || 28 || +11 || AFC 
+|-
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|PAK}}  || 2 || 2 || 0 || 0 || 7 || 0 || +7 || AFC
+|-
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|PLE}}  || 16 || 8 || 6 || 2 || 25 || 13 || +12 || AFC
+|-
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|PHI}}  || 5 || 5 || 0 || 0 || 25 || 3 || +22 || AFC
+|-
+|-
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|QAT}}  || 13 || 4 || 4 || 5 || 19 || 19 || 0 || AFC
+|-
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|RUS}}  || 1 || 0 || 0 || 1 || 0 || 4 || −4 || UEFA
+|-
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|SMR}}  || 1 || 1 || 0 || 0 || 3 || 0 || +3 || UEFA
+|-
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|KSA}}  || 27 || 2 || 9 || 16 || 22 || 49 || −26 || AFC
+|-
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|SLE}}  || 1 || 1 || 0 || 0 || 6 || 0 || +6 || CAF
+|-
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|SIN}}  || 6 || 4 || 0 || 2 || 11 || 7 || +4 || AFC
+|-
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|KOR}}  || 10 || 1 || 3 || 6 || 5 || 12 || −7 || AFC
+|-
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|SSD}}  || 1 || 1 || 0 || 0 || 2 || 0 || +2 || CAF
+|-
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|South Yemen}}<sup>a</sup>  || 2 || 1 || 0 || 1 || 2 || 2 || 0 || AFC
+|-
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|USSR}}<sup>a</sup>  || 1 || 0 || 0 || 1 || 0 || 2 || −2 || UEFA
+|-
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|SRI}}  || 3 || 3 || 0 || 0 || 17 || 0 || +17 || AFC
+|-
+|- bgcolor=FFFACD
+| style="text-align:left;"| {{fb|SUD}}  || 10 || 4 || 2 || 4 || 10 || 10 || 0 || CAF
+|-
+|- bgcolor=FFFACD
+| style="text-align:left;"| {{fb|SWE}}  || 1 || 0 || 1 || 0 || 1 || 1 || 0 || UEFA
+|-
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|TJK}}  || 9 || 5 || 1 || 3 || 8 || 11 || −3 || AFC
+|-
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|THA}}  || 7 || 1 || 2 || 4 || 11 || 15 || −4 || AFC
+|-
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|TUN}}  || 12 || 6 || 1 || 5 || 15 || 16 || −1 || CAF
+|-
+|- bgcolor=FFCCCC 
+| style="text-align:left;"| {{fb|TUR}}  || 1 || 0 || 0 || 1 || 0 || 7 || −7 || UEFA
+|-
+|- bgcolor=FFFACD
+| style="text-align:left;"| {{fb|TKM}}  || 3 || 1 || 1 || 1 || 6 || 5 || +1 || AFC
+|-
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|UAE}}  || 25 || 3 || 8 || 14 || 19 || 40 || −19 || AFC
+|-
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|UZB}}  || 7 || 3 || 2 || 2 || 5 || 5 || 0 || AFC
+|-
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|VEN}}  || 2 || 0 || 0 || 2 || 2 || 6 || −4 || CONMEBOL
+|-
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|VIE}}  || 4 || 1 || 1 || 2 || 1 || 3 || −2 ||  AFC
+|-
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|YEM}}<sup>b</sup>  || 14 || 11 || 1 || 2 || 42 || 10 || +32 || AFC
+|-
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|ZIM}}  || 1 || 1 || 0 || 0 || 6 || 0 || +6 || CAF
+|-
+!colspan="1"|Total (62 Nations) || 545 || 198 || 134 || 213 || 789|| 714 || +75 ||
+|-class="sortbottom"
+! colspan="10" | Last match updated was against&nbsp;&nbsp;{{flagicon|BLR}} [[Belarus national football team|Belarus]] on 05 June 2026.
+|}
+</onlyinclude>
+(a) Denotes [[List of men's national association football teams#Former national football teams|defunct national football team]].
+<br />
+(b) Including [[Yemen Arab Republic|North Yemen]]
+
+==Honours==
+===Regional===
+* '''[[WAFF Championship]]'''
+** {{Gold1}} '''Champions (1)''': [[2012 West Asian Football Federation Championship|2012]]
+** {{Silver2}} Runners-up (2): [[2000 West Asian Football Federation Championship|2000]], [[2004 West Asian Football Federation Championship|2004]]
+** {{Bronze3}} Third place (2): [[2007 WAFF Championship|2007]], [[2008 WAFF Championship|2008]]
+* '''[[FIFA Arab Cup|Arab Cup]]'''
+** {{Silver2}} Runners-up (3): [[1963 Arab Cup|1963]], [[1966 Arab Cup|1966]], [[1988 Arab Cup|1988]]
+* '''[[Palestine Cup of Nations]]'''
+** {{Silver2}} Runners-up (1): [[1973 Palestine Cup of Nations|1973]] 
+* '''[[Football at the Arab Games|Arab Games]]'''
+** {{Gold1}} '''Gold medal (1)''': [[football at the 1957 Arab Games|1957]]
+** {{Silver2}} Silver medal (2): [[football at the 1953 Arab Games|1953]], [[football at the 1997 Arab Games|1997]]
+** Bronze medal (1): [[football at the 1976 Arab Games|1976]]
+* '''[[Mediterranean Games]]'''
+** {{Gold1}} '''Gold medal (1)''': [[Football at the 1987 Mediterranean Games|1987]]
+** {{Bronze3}} Bronze medal (1): [[Football at the 1951 Mediterranean Games|1951]]
+* '''[[West Asian Games]]'''
+** {{Silver2}} Silver medal (2): 1997, [[Football at the 2005 West Asian Games|2005]]
+** {{Bronze3}} Bronze medal (1): [[Football at the 2002 West Asian Games|2002]]
+
+===Friendly===
+* '''[[Intercontinental Cup (India)|AIFF Intercontinental Cup]]'''
+** {{Gold1}} '''Gold medal (1)''': [[2024 Intercontinental Cup (India)|2024]]
+
+== See also ==
+*[[Syria national under-23 football team]]
+*[[Syria national under-20 football team]]
+*[[Syria national under-17 football team]]
+*[[Syria national futsal team]]
+*[[Syria women's national football team]]
+*[[Syrian Arab Federation for Football|Syrian Football Association]]
+*[[Football in Syria]]
+*[[Sport in Syria]]
+
+== Notes ==
+{{reflist|group=note}}
+
+==References==
+{{Reflist}}
+{{reflist|group=A}}
+
+==Further reading==
+* {{cite web|url=https://www.thenationalnews.com/sport/football-in-times-of-crisis-syrian-game-continues-on-as-inspiration-propaganda-shadow-1.16805|title=Football in times of crisis: Syrian game continues on as inspiration, propaganda, shadow|first1=Ahmed|last1=Rizvi|date=20 July 2015|access-date=27 September 2022|website=thenationalnews.com|publisher=The National News Sport|archive-url=https://web.archive.org/web/20210522123205/https://www.thenationalnews.com/sport/football-in-times-of-crisis-syrian-game-continues-on-as-inspiration-propaganda-shadow-1.16805|archive-date=22 May 2021}}
+
+==External links==
+{{Commons category|Syria national association football team}}
+* {{Official website|1=https://www.sfa.sy/ar?fbclid=PAZXh0bgNhZW0CMTEAAaYg8cUVYkY25kvYveiwyMy_Y0M6o4N9rZJ0gegC9bOKZrrfUsCigzOY8Go_aem_l9gfV9C_hCt06-lHPrVdNA}}
+* [https://www.fifa.com/about-fifa/associations/SYR Syria] at [[FIFA]]
+* [https://www.the-afc.com/en/west/syria.html Syria] at [[Asian Football Confederation|AFC]]
+* [https://web.archive.org/web/20100223210522/http://www.super.ae/tournaments/nationalteam.php?id=2202 Syria national team] on Super.ae (archived 23 February 2010)
+* [http://forum.kooora.com/f.aspx?f=113 Syria national team] on Kooora.com
+
+{{Men's Mediterranean Games Football winners}}
+{{Syria national football team}}
+{{Navboxes
+|title= Syria squads
+|bg= #CE1126
+|fg= white
+|bordercolor= black
+|list1=
+{{Syria squad 1980 AFC Asian Cup}}
+{{Syria squad 1984 AFC Asian Cup}}
+{{Syria squad 1988 AFC Asian Cup}}
+{{Syria squad 1996 AFC Asian Cup}}
+{{Syria squad 2011 AFC Asian Cup}}
+{{Syria squad 2019 AFC Asian Cup}}
+{{Syria squad 2023 AFC Asian Cup}}
+}}
+{{Football in Syria}}
+{{UAFA Football}}
+{{AFC teams}}
+{{National sports teams of Syria}}
+
+{{DEFAULTSORT:Syria National Football Team}}
+[[Category:Syria national football team]]
+[[Category:Asian national association football teams]]

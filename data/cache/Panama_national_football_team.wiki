@@ -1,0 +1,1827 @@
+{{Short description|Men's association football team}}
+{{About|the men's team|the women's team|Panama women's national football team}}
+{{Use dmy dates|date=June 2026}}
+{{Infobox national football team
+| Name                  = Panama
+| Badge                 = 
+| Badge_size            = 150px
+| Nickname              = ''Los Canaleros'' (The Canal Men)<br>''La Marea Roja'' (The Red Tide)
+| Association           = [[Panamanian Football Federation|Federación Panameña de Fútbol]] (FEPAFUT)
+| Confederation         = [[CONCACAF]] (North America)
+| Sub-confederation     = [[Central American Football Union|UNCAF]] (Central America)
+| Captain               = [[Yoel Bárcenas]]
+| Coach                 = [[Thomas Christiansen]]
+| Most caps             = [[Aníbal Godoy]] (160)
+| Top scorer            = [[Luis Tejada]] (43)
+| Home Stadium          = [[Rommel Fernández Stadium|Estadio Rommel Fernández Gutiérrez]]
+| FIFA Trigramme        = PAN
+| FIFA Rank             = {{nowrap|{{FIFA World Rankings|PAN}}}}
+| FIFA max              = 29
+| FIFA max date         = March 2014, September 2025 –
+| FIFA min              = 150
+| FIFA min date         = August 1995
+| Elo Rank              = {{World Football Elo Ratings|Panama}}
+| Elo max               = 28
+| Elo max date          = July 2013
+| Elo min               = 151
+| Elo min date          = June 1984
+| pattern_la1           = _pan26h
+| pattern_b1            = _pan26h
+| pattern_ra1           = _pan26h
+| pattern_sh1           = _pan26h
+| pattern_so1           = _pan26hl
+| leftarm1              = ff0000
+| body1                 = ff0000
+| rightarm1             = ff0000
+| shorts1               = ff0000
+| socks1                = ff0000
+| pattern_la2           = _pan26a
+| pattern_b2            = _pan26a
+| pattern_ra2           = _pan26a
+| pattern_sh2           = _pan26a
+| pattern_so2           = _pan26al
+| leftarm2              = FFFFFF
+| body2                 = FFFFFF
+| rightarm2             = FFFFFF
+| shorts2               = FFFFFF
+| socks2                = FFFFFF
+| pattern_la3           = _pan26t
+| pattern_b3            = _pan26t
+| pattern_ra3           = _pan26t
+| pattern_sh3           = _pan26t
+| pattern_so3           = _pan26tl
+| leftarm3              = 000080
+| body3                 = 000080
+| rightarm3             = 000080
+| shorts3               = 000080
+| socks3                = 000080
+| First game            = {{fb|PAN}} 2–1 {{fb-rt|VEN|1930}}<br/>([[Panama City]], Panama; 12 February 1938)<ref name="panama rsssf">{{cite web |url=https://www.rsssf.org/tablesp/panama-intres.html |title=Panama&nbsp;– International Results |author=Barrie Courtney |publisher=Rec.Sport.Soccer Statistics Foundation |access-date=23 July 2013 |archive-date=6 February 2023 |archive-url=https://web.archive.org/web/20230206144505/https://www.rsssf.org/tablesp/panama-intres.html |url-status=live }}</ref>
+| Largest win           = {{fb|AIA}} 0–13 {{fb-rt|PAN}}<br/>([[Panama City]], Panama; 5 June 2021)
+| Largest loss          = {{fb|PAN}} 0–11 {{fb-rt|CRC}}<br/>([[Panama City]], Panama; 16 February 1938)
+| World cup apps        = 2
+| World cup first       = 2018
+| World cup best        = Group stage ([[2018 FIFA World Cup|2018]], [[2026 FIFA World Cup|2026]])
+| Regional name         = [[CONCACAF Championship]] / [[CONCACAF Gold Cup|Gold Cup]]
+| Regional cup apps     = 13<!--as of 2025-->
+| Regional cup first    = [[1963 CONCACAF Championship|1963]]
+| Regional cup best     = Runners-up ([[2005 CONCACAF Gold Cup|2005]], [[2013 CONCACAF Gold Cup|2013]], [[2023 CONCACAF Gold Cup|2023]])
+| 2ndRegional name      = [[CONCACAF Nations League]]
+| 2ndRegional cup apps  = 4<!--as of 2025-->
+| 2ndRegional cup first = [[2019–20 CONCACAF Nations League|2019–20]]
+| 2ndRegional cup best  = Runners-up ([[2025 CONCACAF Nations League Finals|2025]])
+| 3rdRegional name      = [[Copa América]]
+| 3rdRegional cup apps  = 2<!--as of 2024-->
+| 3rdRegional cup first = [[2016 Copa América|2016]]
+| 3rdRegional cup best  = Quarter-finals ([[2024 Copa América|2024]]) 
+| 4thRegional name      = [[CCCF Championship]]
+| 4thRegional cup apps  = 7
+| 4thRegional cup first = [[1941 CCCF Championship|1941]]
+| 4thRegional cup best  = '''Champions''' ([[1951 CCCF Championship|1951]])
+| medaltemplates        = 
+{{MedalCompetition|[[CONCACAF Gold Cup]]}}
+{{MedalSilver|[[2005 CONCACAF Gold Cup|2005 United States]]|[[2005 CONCACAF Gold Cup squads#Panama|Team]]}}
+{{MedalSilver|[[2013 CONCACAF Gold Cup|2013 United States]]|[[2013 CONCACAF Gold Cup squads#Panama|Team]]}}
+{{MedalSilver|[[2023 CONCACAF Gold Cup|2023 United States and Canada]]|[[2023 CONCACAF Gold Cup squads#Panama|Team]]}}
+{{MedalBronze|[[2015 CONCACAF Gold Cup|2015 United States and Canada]]|[[2015 CONCACAF Gold Cup squads#Panama|Team]]}}
+{{MedalCompetition|[[CONCACAF Nations League]]}}
+{{MedalSilver|[[2025 CONCACAF Nations League Finals|2025 United States]]|[[2025 CONCACAF Nations League Finals squads#Panama|Team]]}}
+{{MedalCompetition|[[CCCF Championship]]}}
+{{MedalGold|[[1951 CCCF Championship|1951 Panama]]|[[1951 CCCF Championship squads#Panama|Team]]}}
+{{MedalBronze|[[1948 CCCF Championship|1948 Guatemala]]|[[1948 CCCF Championship squads#Panama|Team]]}}
+{{MedalCompetition|[[Copa Centroamericana]]}}
+{{MedalGold|[[2009 UNCAF Nations Cup|2009 Honduras]]|[[UNCAF Nations Cup 2009 squads#Panama|Team]]}}
+{{MedalSilver|[[2007 UNCAF Nations Cup|2007 El Salvador]]|[[UNCAF Nations Cup 2007 squads#Panama|Team]]}}
+{{MedalSilver|[[2017 Copa Centroamericana|2017 Panama]]|[[2017 Copa Centroamericana squads#Panama|Team]]}}
+{{MedalBronze|[[1993 UNCAF Nations Cup|1993 Honduras]]|[[1993 UNCAF Nations Cup squads#Panama|Team]]}}
+{{MedalBronze|[[2011 Copa Centroamericana|2011 Panama]]|[[2011 Copa Centroamericana squads#Panama|Team]]}}
+{{MedalBronze|[[2014 Copa Centroamericana|2014 United States]]|[[2014 Copa Centroamericana squads#Panama|Team]]}}
+{{MedalCompetition|[[Football at the Central American and Caribbean Games|Central American and Caribbean Games]]}}
+{{MedalBronze|[[Football at the 1946 Central American and Caribbean Games|1946 Colombia]]|Team}}
+}}
+
+The '''Panama national football team''' ({{langx|es|Selección de fútbol de Panamá}}) represents [[Panama]] in men's international [[Association football|football]], which is governed by the [[Panamanian Football Federation|Federación Panameña de Fútbol]] ({{langx|en|Panamanian Football Federation}}) founded in 1937. It has been an affiliate member of [[FIFA]] since 1938 and a founding affiliate member of [[CONCACAF]] since 1961. Regionally, it is an affiliate member of [[Central American Football Union|UNCAF]] in the Central American Zone. From 1938 to 1961, it was a member of [[Confederación Centroamericana y del Caribe de Fútbol|CCCF]], the former governing body of football in Central America and Caribbean and a predecessor confederation of CONCACAF, and also a member of [[Panamerican Championship#Panamerican Football Confederation|PFC]], the former unified confederation of the Americas, from 1946 to 1961.
+
+Panama has qualified for the [[FIFA World Cup]] twice ([[2018 FIFA World Cup|2018]] and [[2026 FIFA World Cup|2026]]), it scored their first goal against [[England national football team|England]].<ref>{{cite web|url=https://www.independent.co.uk/sport/football/international/panama-world-cup-2018-usa-from-agony-to-ecstasy-a-night-theyll-never-forget-a7994516.html |archive-url=https://ghostarchive.org/archive/20220524/https://www.independent.co.uk/sport/football/international/panama-world-cup-2018-usa-from-agony-to-ecstasy-a-night-theyll-never-forget-a7994516.html |archive-date=24 May 2022 |url-access=subscription |url-status=live |title= From agony to ecstasy: Panama's remarkable journey to the 2018 World Cup and a night they'll never forget|date=11 October 2017|work=The Independent|access-date=12 October 2017}}</ref><ref>{{cite web|url=http://kwese.espn.com/football/blog/espn-fc-united/68/post/3226710/us-world-cup-exit-how-wild-concacaf-night-played-out-in-real-time|title=The wildest night in CONCACAF history? How the U.S. exit played out|date=11 October 2017|publisher=ESPN|access-date=12 October 2017|archive-date=12 January 2022|archive-url=https://web.archive.org/web/20220112180515/https://africa.espn.com/football/blog/espn-fc-united/68/post/3226710/us-world-cup-exit-how-wild-concacaf-night-played-out-in-real-time|url-status=live}}</ref>
+
+Panama has participated thirteen times in CONCACAF's premier continental competition, the team's best performance was finishing as runners-up three times in the [[CONCACAF Gold Cup]] ([[2005 CONCACAF Gold Cup|2005]],<ref>{{Cite web|url=https://www.rsssf.org/tables/05gc.html|title=CONCACAF Championship, Gold Cup 2005|website=[[RSSSF]]|access-date=18 June 2018|archive-date=3 October 2022|archive-url=https://web.archive.org/web/20221003040918/https://www.rsssf.org/tables/05gc.html|url-status=live}}</ref> [[2013 CONCACAF Gold Cup|2013]]<ref>{{Cite web|url=https://www.ussoccer.com/stories/2014/03/17/11/24/130728-mnt-vs-pan-match-report|title=U.S. MNT Wins CONCACAF Gold Cup with 1-0 Victory against Panama|website=US Soccer|access-date=18 June 2018|archive-date=19 June 2018|archive-url=https://web.archive.org/web/20180619041207/https://www.ussoccer.com/stories/2014/03/17/11/24/130728-mnt-vs-pan-match-report|url-status=live}}</ref> and [[2023 CONCACAF Gold Cup|2023]]), and also finishing as runners-up in the [[CONCACAF Nations League]] in the [[2025 CONCACAF Nations League Finals|2025 finals]]. It participated twice in the [[Copa América]] ([[Copa América Centenario|2016]] and [[2024 Copa América|2024]]).
+
+Regionally, it won the [[CCCF Championship]] as hosts in [[1951 CCCF Championship|1951]], and the [[Copa Centroamericana]] in [[2009 UNCAF Nations Cup|2009]].
+
+==History==
+{{Update section|date=March 2024}}
+
+===Before 21st century===
+{{Missing information|section|the Panama football team prior to 21st century|date=November 2020}}
+
+===2011 Gold Cup===
+In the [[2011 Gold Cup]], Panama was placed into Group C with Canada, United States, and [[Guadeloupe national football team|Guadeloupe]]. They debuted with a 3–2 win over Guadeloupe. In the next match, they beat the United States 2–1. Then they tied 1–1 against Canada, winning their group for the first time in the Gold Cup. They played against [[El Salvador national football team|El Salvador]] in the quarter-finals, beating them 5–3 on penalties. They played against the United States again, this time in the semi-finals, although they lost 1–0.
+
+===2013 Gold Cup===
+In the [[2013 Gold Cup]], Panama began with a 2–1 win over Mexico, with [[Gabriel Torres]] scoring both goals. In the second match, Panama beat Martinique 1–0 with Gabriel Torres scoring the only goal. With two victories, they secured their qualification to the knockout stages. Already being qualified, they tied 0–0 against [[Canada men's national soccer team|Canada]] securing the first place in their group. They easily beat [[Cuba national football team|Cuba]] 6-1 and qualified for the semi-finals with [[Blas Pérez]] and Gabriel Torres scoring two goals each. They faced Mexico again in the semifinals and beat them 2–1 to advance to the final for the second time in the competition against the United States, which was their opponent in the 2005 final and beat them on penalties. The Panamanians could not get their revenge on them and lost 0–1 with a goal from [[Brek Shea]].
+
+===2014 World Cup qualifying===
+Panama came close to advancing out of the [[2014 FIFA World Cup qualification – CONCACAF fourth round|fourth round]] of [[2014 FIFA World Cup qualification|qualifiers]] for the [[2014 FIFA World Cup|2014 World Cup]]. In their last match, which was against the [[United States men's national soccer team|United States]], they led 2–1 after 90 minutes and were assured to advance to a [[2014 FIFA World Cup qualification (inter-confederation play-offs)|play-off]] against [[New Zealand men's national football team|New Zealand]], but conceded two goals in stoppage time and were eliminated, with [[Mexico national football team|Mexico]] taking the playoff slot instead.<ref name="Business Insider">{{cite news|date=16 October 2013|url=http://www.businessinsider.com/goals-from-mexico-costa-rica-us-panama-games-gifs-2013-10|title=USA Saves Mexico From World Cup Elimination In The Most Unbelievable Night In North American Soccer History|work=Business Insider|access-date=16 October 2013|archive-date=16 October 2013|archive-url=https://web.archive.org/web/20131016045019/http://www.businessinsider.com/goals-from-mexico-costa-rica-us-panama-games-gifs-2013-10|url-status=live}}</ref>
+
+===2015 Gold Cup===
+In the [[2015 Gold Cup]], Panama was drawn into Group A, along with the United States, [[Haiti national football team|Haiti]], and [[Honduras national football team|Honduras]]. All of their games were a 1–1 draws. However this was enough to advance to the knockout stage as the best ranked third place. In the quarter-finals, they played against [[Trinidad and Tobago national football team|Trinidad and Tobago]], drawing 1–1 after 90 minutes and defeating them 6–5 on penalties. They advanced to the semi-finals against Mexico; Roman Torres scored on behalf of Panama and Andres Guardado scored for Mexico. The first 90 minutes ended in a 1–1 draw; Panama was then defeated 2–1 in extra time after referee [[Mark Geiger]] gave Mexico a penalty, which Andres Guardado also scored. With this result, Panama earned the chance to play the third place playoff against the United States. The score was 1–1 after extra time and Panama won 3–2 on penalties, giving them third place. Mexico ended up defeating Jamaica in the final to crown themselves champions.
+
+===2018 World Cup qualifying===
+Four years after failing to qualify for the 2014 World Cup, ''Los Canaleros'' finally qualified for the World Cup after defeating [[Costa Rica national football team|Costa Rica]] 2−1 in their final qualifying match,<ref>{{Cite web|url=https://www.fifa.com/worldcup/matches/round=276449/match=300364765/index.html|archive-url=https://web.archive.org/web/20160826191828/http://www.fifa.com/worldcup/matches/round=276449/match=300364765/index.html|url-status=dead|archive-date=26 August 2016|title=2018 FIFA World Cup Russia - Matches - Panama-Costa Rica|website=FIFA |language=en-GB|access-date=18 June 2018}}</ref> which meant that the United States, who lost to Trinidad and Tobago 2–1, failed to qualify for the first time since [[1986 FIFA World Cup|1986]].<ref>{{Cite news|url=https://www.bbc.com/sport/football/41574810|title=Trinidad and Tobago 2-1 USA|date=11 October 2017|work=BBC Sport|access-date=18 June 2018|language=en-GB|archive-date=20 June 2018|archive-url=https://web.archive.org/web/20180620214238/https://www.bbc.com/sport/football/41574810|url-status=live}}</ref> [[Román Torres]], who scored the winning goal in the 87th minute, was subsequently considered a national hero.<ref>{{Cite news|url=https://www.bbc.com/sport/football/43292551|title=Roman Torres: Panama's 'film star' footballer dreams of beating England at World Cup|date=24 March 2018|work=BBC Sport|access-date=18 June 2018|language=en-GB|archive-date=21 June 2018|archive-url=https://web.archive.org/web/20180621141443/https://www.bbc.com/sport/football/43292551|url-status=live}}</ref> The day after the match, the [[List of heads of state of Panama|President of Panama]] [[Juan Carlos Varela]] declared a [[National day|national holiday]] to commemorate the achievement, stating on his [[Twitter]] profile: "The voice of the people has been heard... Tomorrow will be a national holiday".<ref>{{Cite news|url=https://www.bbc.com/news/world-latin-america-41579670|title=Panama gets holiday after World Cup win|date=11 October 2017|work=BBC News|access-date=18 June 2018|language=en-GB|archive-date=16 June 2018|archive-url=https://web.archive.org/web/20180616183054/https://www.bbc.com/news/world-latin-america-41579670|url-status=live}}</ref><ref>{{Cite news|url=http://www.goal.com/en/news/panama-president-declares-national-holiday-after-historic/c26jduoirx8s1el9h5iwyhyb3|title=National holiday in Panama as World Cup place sealed {{!}} Goal.com|access-date=18 June 2018|language=en|archive-date=19 June 2018|archive-url=https://web.archive.org/web/20180619035808/http://www.goal.com/en/news/panama-president-declares-national-holiday-after-historic/c26jduoirx8s1el9h5iwyhyb3|url-status=live}}</ref>
+
+===2018 World Cup===
+[[File:Partido Galicia - Panamá en Balaídos 51.jpg|thumb|right|Panama national football team in 2024.]] 
+In the [[2018 FIFA World Cup]], Panama were drawn into [[2018 FIFA World Cup Group G|Group G]], together with European giants [[Belgium national football team|Belgium]] and [[England national football team|England]] and the African side [[Tunisia national football team|Tunisia]].<ref>{{Cite news|url=https://www.independent.co.uk/sport/football/world-cup/world-cup-draw-2018-england-what-team-get-group-match-russia-moscow-a8087011.html |archive-url=https://ghostarchive.org/archive/20220524/https://www.independent.co.uk/sport/football/world-cup/world-cup-draw-2018-england-what-team-get-group-match-russia-moscow-a8087011.html |archive-date=24 May 2022 |url-access=subscription |url-status=live|title=England get Belgium, Tunisia and Panama in World Cup draw|work=The Independent|access-date=18 June 2018|language=en-GB}}</ref> Their debut World Cup match was against Belgium, on 18 June 2018. ''Los Canaleros'' initially held on, with the score 0–0 at half-time, before eventually suffering a 3–0 loss.<ref>{{Cite web|url=https://www.fifa.com/worldcup/matches/match/300331539/#match-summary|archive-url=https://web.archive.org/web/20180612141627/https://www.fifa.com/worldcup/matches/match/300331539/#match-summary|url-status=dead|archive-date=12 June 2018|title=2018 FIFA World Cup Russia - Matches - Belgium - Panama |work=FIFA|language=en-GB|access-date=18 June 2018}}</ref><ref>{{Cite news|url=https://www.telegraph.co.uk/world-cup/2018/06/18/world-cup-2018-belgium-vs-panama-live-score-latest-updates/ |archive-url=https://ghostarchive.org/archive/20220112/https://www.telegraph.co.uk/world-cup/2018/06/18/world-cup-2018-belgium-vs-panama-live-score-latest-updates/ |archive-date=12 January 2022 |url-access=subscription |url-status=live|title=Romelu Lukaku double helps Belgium to winning World Cup start against Panama|last1=Ducker|first1=James|date=18 June 2018|work=The Telegraph|access-date=18 June 2018|last2=Bagchi|first2=Rob|language=en-GB|issn=0307-1235}}{{cbignore}}</ref> Six days later, Panama faced England, and this time succumbed to a 6–1 defeat; [[Felipe Baloy]]'s late goal was the nation's first at a World Cup, but it was not enough to save them from elimination.<ref>{{Cite web | title = Panama fans wildly celebrate first ever World Cup goal vs England | last = Rathborn | first = Jack | work = The Mirror | date = 24 June 2018 | access-date = 24 June 2018 | url = https://www.mirror.co.uk/sport/football/transfer-news/panama-fans-wildly-celebrate-first-12782656 | archive-date = 25 June 2018 | archive-url = https://web.archive.org/web/20180625023226/https://www.mirror.co.uk/sport/football/transfer-news/panama-fans-wildly-celebrate-first-12782656 | url-status = live }}</ref> A 2–1 loss to Tunisia in their final game meant that Panama finished bottom of their group – and 32nd and last in the tournament overall<ref>{{cite web|url=https://www.thesoccerworldcups.com/world_cups/2018_final_standings.php|title=2018 Soccer World Cup Final Standings|website=The Soccer World Cups.com|access-date=18 June 2026|year=2026}}</ref> – having lost all three of their games and conceded eleven goals.
+
+=== 2026 World Cup ===
+In the [[2026 FIFA World Cup]], Panama were drawn into [[2026 FIFA World Cup Group L|Group L]] with [[England national football team|England]], [[Croatia national football team|Croatia]], and [[Ghana national football team|Ghana]]. In their opening match against Ghana, they lost 1–0 to a 95th minute winner from [[Caleb Yirenkyi]], despite not allowing a shot until the 48th minute of the game when they had allowed an attempt within the first 10 minutes of each of their previous World Cup matches. In addition, Panama recorded 62% possession while completing 502 passes, both all time highs in the World Cup.<ref>{{Cite web |last=King|first=Oliver|date=17 June 2026|title=Ghana 1-0 Panama Stats: Yirenkyi's Last-Gasp Winner Snatches Priceless Group L Win|url=https://theanalyst.com/articles/ghana-vs-panama-stats-world-cup-2026|access-date=17 June 2026|website=theanalyst.com|language=en}}</ref> They were the only team to fail to score a goal in the tournament.<ref>{{Cite web | title=World Cup Standings |url=https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/standings|access-date=27 June 2026|website=fifa.com|language=en}}</ref>
+
+==Team image==
+===Kit sponsorship===
+{| class="wikitable" style="text-align:left;"
+|-
+! Kit supplier
+! Period
+! Notes
+|-
+| {{flagicon|Belgium}} [[Patrick (shoe company)|Patrick]] || 1992–1996 || Patrick became the first official commercial sportswear sponsor, transitioning the team away from generic, unbranded teamwear. <br> The team wore Patrick kits during the [[1994 FIFA World Cup qualification (CONCACAF)|1994 FIFA World Cup qualifiers]].<ref>{{cite web |url=https://www.tvn-2.com/tvmax/somos-la-sele/panama-series-ida-vuelta-eliminatorias_1_1085951.html |title=Los números de Panamá en las series de ida y vuelta por eliminatorias |trans-title=Panama's numbers in the home and away qualifying series. |language=es |publisher=tvn-2.com |access-date=19 June 2026}}</ref>
+|-
+| {{flagicon|United States}} [[Reebok]] || 1996–1999 || Panama wore Reebok kits during the [[1998 FIFA World Cup qualification (CONCACAF)|1998 FIFA World Cup qualifiers]].<ref>{{cite web |url=https://www.rpctv.com/marea-roja/seleccion-panama-cuando-fue-la-ultima-vez-que-vistio-reebok-n5771355 |title=Selección de Panamá ¿Cuándo fue la última vez que vistió de Reebok? |trans-title=Panama's Team: When was the last time they wore Reebok? |language=es |publisher=rpctv.com |access-date=20 June 2026}}</ref>
+|-
+| {{flagicon|Italy}} [[Kappa (brand)|Kappa]] || 1999–2002 || Panama wore Kappa kits during the [[2002 FIFA World Cup qualification (CONCACAF)|1998 FIFA World Cup qualifiers]]. {{Citation needed|date=June 2026|reason=There are websites that describe the shirt, but do not talk about the competition in which the full kit was worn on.}}
+|-
+| {{flagicon|Italy}} [[Lotto Sport Italia|Lotto]] || 2002–2014 || Panama wore Lotto kits for 12 years, the longest time a brand has sponsored Panama in the team's history. <br> Some notable kits from this era: [[2006 FIFA World Cup qualification (CONCACAF)|2006 FIFA World Cup qualifiers]]<ref>{{cite web |url=https://www.prensa.com/impresa/deportes/seleccion-cambia-look_0_1425607489.html |title=La selección cambia de 'look' |access-date=20 June 2026 |language=es |trans-title=The team changes its look}}</ref>, [[2011 CONCACAF Gold Cup]] and [[2013 CONCACAF Gold Cup]].
+|-
+| {{flagicon|United States}} [[New Balance]] || 2015–2023 || Panama wore New Balance kits for the first time on a tied 1-1 friendly match against [[Ecuador national football team|Ecuador]] in 2015.<ref>{{cite web |url=https://www.telemetro.com/futbol/2015/06/04/panama-ecuador-empatan-amistoso/1590174.html |title=Panamá y Ecuador empatan 1-1 en amistoso. |access-date=20 June 2026 |language=es |trans-title=Panama and Ecuador draw 1-1 in friendly.}}</ref> <br> Most notably, the team wore their debut kits at the [[2018 FIFA World Cup]].
+|-
+| {{flagicon|United States}} [[Reebok]] || 2023–2027 || Panama returned to wearing Reebok kits after 24 years. Three different kits were worn during the [[2026 FIFA World Cup]].<ref>{{cite web |url=https://www.prensa.com/deportes/panama-define-sus-uniformes-para-el-mundial-2026-rojo-azul-y-blanco-en-fase-de-grupos/ |title=Panamá revela los uniformes que usará en la fase de grupos del Mundial 2026 |access-date=20 June 2026 |language=es |trans-title=Panama reveals the kits it will wear in the group stage of the 2026 World Cup}}</ref>
+|}
+
+===Home Stadium===
+
+[[File:Selección de Panamá vs Guyana, estadio Rommel Fernández.jpg|thumb|right|2026 FIFA World Cup qualification match between Panama and Guyana at the Rommel Fernández Stadium.]] Historically, the [[Estadio Rommel Fernandez|Rommel Fernández Stadium]] has served as the primary home venue of the Panama national football team and has hosted the vast majority of the country's [[FIFA World Cup qualification|FIFA World Cup qualifiers]], international friendlies, and official tournament matches since its inauguration in 1970. Located in [[Panama City]], the stadium is widely regarded as the spiritual home of Panamanian football and has witnessed many of the nation's most significant sporting achievements.
+
+Throughout its history, however, the stadium has periodically undergone maintenance, modernization, and expansion projects that temporarily rendered it unavailable for international competition. During these periods, the Panama national team was required to relocate its home fixtures to alternative venues across the country.
+
+The most notable of these relocations occurred in 2008, when the stadium underwent a major renovation and expansion project that increased its seating capacity and modernized several of its facilities, part of it attributed [[Irving Saladino]]'s performance at the [[2008 Summer Olympics]].<ref>{{cite web |url=https://www.panamaamerica.com.pa/deportes/el-nuevo-rommel-fernandez-un-regalo-para-los-deportistas-544528 |title=El nuevo Rommel Fernández, un regalo para los deportistas |access-date=20 June 2026 |language=es |trans-title=The new Rommel Fernández, a gift for athletes}}</ref> As a result, Panama's home matches were temporarily moved to the [[Rod Carew Stadium]]. Originally designed as a baseball venue, Rod Carew Stadium was reconfigured to accommodate football matches by adapting its field dimensions to meet FIFA requirements.
+
+A similar situation occurred in 2021, when the Rommel Fernández Stadium underwent extensive turf replacement and pitch improvement works in preparation for the [[2022 FIFA World Cup qualification - CONCACAF third round|final round of the CONCACAF qualification]] process for the [[2022 FIFA World Cup]], commonly known as the Octagonal.<ref>{{cite web |url=https://panamadigital.gob.pa/Noticia/rommel-fernandez-tendra-cancha-similar-a-los-mejores-clubes-del-mundo |title=Rommel Fernández tendrá cancha similar a los mejores clubes del mundo |access-date=20 June 2026 |language=es |trans-title=Rommel Fernández will have a pitch similar to those of the best clubs in the world}}</ref> During the renovation period, the Panama national team once again utilized the Rod Carew Stadium as its temporary home ground. The venue successfully hosted FIFA-sanctioned matches after undergoing the necessary modifications.
+
+====Home matches hosted at other venues in the 21st century====
+It is a rare occurrence for Panama to be the home team other than at the Rommel Fernández Stadium (which is the 2nd largest venue in the country).<ref>{{cite web |url=https://www.prensa.com/deportes/el-estadio-rommel-fernandez-gutierrez-revelo-su-nuevo-rostro/ |title=El estadio Rommel Fernández Gutiérrez reveló su nuevo rostro |trans-title=The Rommel Fernández Gutiérrez Stadium has revealed its new look |language=es |publisher=prensa.com |access-date=20 June 2026}}</ref> Panama has a positive record on all home matches that have been played outside of it.
+
+{{football box collapsible
+|id=Panama v El Salvador
+|round=[[2010 FIFA World Cup qualification (CONCACAF)|2010 World Cup qualification]]
+|date=15 June 2008
+|time=16:00 [[UTC−4]]
+|team1={{fb-rt|PAN}}
+|team2={{fb|SLV}}
+|score=1–0
+|goals1=[[Luis Tejada|Tejada]] {{goal|21}}
+|goals2=
+|report=[https://web.archive.org/web/20130204150153/http://www.fifa.com/worldcup/archive/southafrica2010/preliminaries/nccamerica/matches/round%3D250464/match%3D10000042/report.html Report]
+|location=[[Panama City]], Panama
+|stadium=[[Estadio Nacional de Panamá]], [[Panama City]]
+|attendance=22,150
+|referee=[[Enrico Wijngaarde]] ([[Surinaamse Voetbal Bond|Suriname]])
+}}
+{{Football box collapsible
+|id         = Panama v Dominican Republic
+|round=[[2022 FIFA World Cup qualification (CONCACAF)|2022 World Cup qualification]]
+|date       = {{Start date|2021|6|8|df=y}}
+|time       = 20:00 [[UTC−05:00|UTC−5]]
+|team1      = {{fb-rt|PAN}}
+|score      = 3–0
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/concacaf/match-center/400136251
+|team2      = {{fb|DOM}}
+|goals1     =
+*[[Aníbal Godoy|Godoy]] {{goal|8}}
+*[[Yoel Bárcenas|Bárcenas]] {{goal|67}}
+*[[Cecilio Waterman|Waterman]] {{goal|86}}
+|goals2     =
+|location   = [[Panama City]], Panama
+|stadium    = [[Estadio Nacional de Panamá|Estadio Nacional Rod Carew]], [[Panama City]] 
+|attendance = 5,674
+|referee    = [[Walter López Castellanos|Walter López]] ([[National Football Federation of Guatemala|Guatemala]])
+}}
+{{Football box collapsible
+|id         = Panama v Curaçao
+|round=[[2022 FIFA World Cup qualification (CONCACAF)|2022 World Cup qualification]]
+|date       = {{Start date|2021|6|12|df=y}}
+|time       = 18:15 [[UTC−05:00|UTC−5]]
+|team1      = {{fb-rt|PAN}}
+|score      = 2–1
+|report     = https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/concacaf/match-center/400154935
+|team2      = {{fb|CUW}}
+|goals1     =
+*[[Alberto Quintero (footballer)|Quintero]] {{goal|55}}
+*[[Cecilio Waterman|Waterman]] {{goal|77}}
+|goals2     =
+*[[Rangelo Janga|Janga]] {{goal|87}}
+|location   = [[Panama City]], Panama
+|stadium    = [[Estadio Nacional de Panamá|Estadio Nacional Rod Carew]], [[Panama City]]
+|attendance = 7,000
+|referee    = Jaime Herrera Bonilla ([[Salvadoran Football Federation|El Salvador]])
+}}
+{{football box collapsible
+| round      = [[Exhibition game#Association football|Friendly]]
+| date       = 10 June 2023
+| time       = {{UTZ|19:00|-5}}
+| team1      = Panama {{flagdeco|PAN}}
+| score      = 3–2
+| team2      = {{fb|NCA}}
+| report     = https://www.soccerway.com/match/nicaragua-6L9QjkfT/panama-OWKqbCfi/?mid=dCFiPzxn
+| goals1     =
+*[[Michael Amir Murillo|M. Murillo]] {{goal|55||81}}
+*[[Roderick Miller (footballer)|Miller]] {{goal|84}}
+| goals2     =
+*[[Widman Talavera|Talavera]] {{goal|44}}
+*[[Óscar Acevedo|Acevedo]] {{goal|62}}
+| location   = [[Penonomé, Coclé|Penonomé]], Panama
+| stadium    = Estadio Universidad Latina
+| attendance =
+| referee    = David Gómez ([[Costa Rican Football Federation|Costa Rica]])
+}}
+
+===Media Coverage===
+For the [[2026 FIFA World Cup]], Panama's matches are broadcast on [[RPC Televisión|RPC]], [[Tigo Sports]] and [[TVMAX]]. Tigo Sports is the only sports network that will provide full coverage of all 104 matches in the country.
+<ref>{{cite web |url=https://depor.com/futbol-internacional/mundial/en-que-canal-televisan-en-vivo-los-partidos-de-la-copa-mundial-2026-en-panama-senal-abierta-y-streaming-nnda-nnrt-noticia/ |title=¿Por qué canales de TV transmiten EN VIVO los partidos de la Copa Mundial 2026 en Panamá? |access-date=20 June 2026 |language=es |trans-title=Which TV channels are broadcasting the 2026 World Cup matches live in Panama?}}</ref>.
+
+==Results and fixtures==
+{{main|Panama national football team results (2020–present)}}
+
+The following is a list of match results in the last 12 months, as well as any future matches that have been scheduled.
+
+{{legend2|#CCFFCC|Win|border=1px solid #AAAAAA}}
+{{legend2|#FFFFCC|Draw|border=1px solid #AAAAAA}}
+{{legend2|#FFCCCC|Loss|border=1px solid #AAAAAA}}
+{{legend2|#FFFFFF|Fixture|border=1px solid #AAAAAA}}
+
+===2025===
+{{footballbox collapsible|format=1
+| round      = [[2026 FIFA World Cup qualification – CONCACAF third round#Group A|2026 FIFA World Cup qualification]]
+| date       = 4 September
+| time       = {{UTZ|20:30|-3}}
+| team1      = {{fb-rt|SUR}}
+| score      = 0–0
+| team2      = {{fb|PAN}}
+| report     = https://www.fifa.com/en/match-centre/match/520/288301/288312/400020588
+| goals1     =
+| goals2     =
+| location   = [[Paramaribo]], Suriname
+| stadium    = [[Dr. Ir. Franklin Essed Stadion|Franklin Essed Stadion]]
+| attendance = 2,685
+| referee    = Kwinsi Williams ([[Trinidad and Tobago Football Association|Trinidad and Tobago]])
+| result     = D
+}}
+{{footballbox collapsible|format=1
+| round      = [[2026 FIFA World Cup qualification – CONCACAF third round#Group A|2026 FIFA World Cup qualification]]
+| date       = 8 September
+| time       = {{UTZ|20:30|-5}}
+| team1      = {{fb-rt|PAN}}
+| score      = 1–1
+| team2      = {{fb|GUA}}
+| report     = https://www.fifa.com/en/match-centre/match/520/288301/288312/400020584
+| goals1     =
+*[[Carlos Harvey|Harvey]] {{goal|37}}
+| goals2     =
+*[[Óscar Santis|Santis]] {{goal|35}}
+| location   = [[Panama City]], Panama
+| stadium    = [[Estadio Rommel Fernández]]
+| attendance =
+| referee    = [[Saíd Martínez]] ([[National Autonomous Federation of Football of Honduras|Honduras]])
+| result     = D
+}}
+{{footballbox collapsible|format=1
+| round      = [[2026 FIFA World Cup qualification – CONCACAF third round#Group A|2026 World Cup qualification]]
+| date       = 10 October
+| time       = {{UTZ|19:00|-6}}
+| team1      = {{fb-rt|SLV}}
+| score      = 0–1
+| team2      = {{fb|PAN}}
+| report     = https://www.fifa.com/en/match-centre/match/520/288301/288312/400020578
+| goals1     =
+| goals2     =
+*[[José Fajardo (footballer)|Fajardo]] {{goal|55}}
+| location   = [[San Salvador]], El Salvador
+| stadium    = [[Estadio Cuscatlán]]
+| attendance =
+| referee    = [[Drew Fischer]] ([[Canadian Soccer Association|Canada]])
+| result     = W
+}}
+{{footballbox collapsible|format=1
+| round      = [[2026 FIFA World Cup qualification – CONCACAF third round#Group A|2026 World Cup qualification]]
+| date       = 14 October
+| time       = {{UTZ|20:00|-5}}
+| team1      = {{fb-rt|PAN}}
+| score      = 1–1
+| team2      = {{fb|SUR}}
+| report     = https://www.fifa.com/en/match-centre/match/520/288301/288312/400020585
+| goals1     =
+*[[Ismael Díaz (footballer, born 1997)|Díaz]] {{goal|90+6}}
+| goals2     =
+*[[Richonell Margaret|Margaret]] {{goal|21}}
+| location   = [[Panama City]], Panama
+| stadium    = [[Estadio Rommel Fernández]]
+| attendance =
+| referee    = Selvin Brown ([[National Autonomous Federation of Football of Honduras|Honduras]])
+| result     = D
+}}
+{{footballbox collapsible|format=1
+| round      = [[2026 FIFA World Cup qualification – CONCACAF third round#Group A|2026 World Cup qualification]]
+| date       = 13 November
+| time       = {{UTZ|20:00|-6}}
+| team1      = {{fb-rt|GUA}}
+| score      = 2–3
+| team2      = {{fb|PAN}}
+| report     = https://www.fifa.com/en/match-centre/match/520/288301/288312/400020581
+| goals1     =
+*[[Arquímides Ordóñez|Ordóñez]] {{goal|69}}
+*[[Rudy Muñoz|Muñoz]] {{goal|72}}
+| goals2     =
+*[[Cecilio Waterman|Waterman]] {{goal|30||44}}
+*[[José Fajardo (footballer)|Fajardo]] {{goal|78}}
+| location   = [[Guatemala City]], Guatemala
+| stadium    = [[Estadio Manuel Felipe Carrera]]
+| attendance =
+| referee    = [[César Arturo Ramos]] ([[Mexican Football Federation|Mexico]])
+| result     = W
+}}
+{{footballbox collapsible|format=1
+| round      = [[2026 FIFA World Cup qualification – CONCACAF third round#Group A|2026 World Cup qualification]]
+| date       = 18 November
+| time       = {{UTZ|20:00|-5}}
+| team1      = {{fb-rt|PAN}}
+| score      = 3–0
+| team2      = {{fb|SLV}}
+| report     = https://www.fifa.com/en/match-centre/match/520/288301/288312/400020583
+| goals1     =
+*[[César Blackman|Blackman]] {{goal|17}}
+*[[Eric Davis (Panamanian footballer)|Davis]] {{goal|45+4|pen.}}
+*[[José Luis Rodríguez (footballer, born 1998)|Rodríguez]] {{goal|85}}
+| goals2     =
+| location   = [[Panama City]], Panama
+| stadium    = [[Estadio Rommel Fernández]]
+| attendance =
+| referee    = [[Saíd Martínez]] ([[National Autonomous Federation of Football of Honduras|Honduras]])
+| result     = W
+}}
+
+===2026===
+{{footballbox collapsible|format=1
+| round      = [[Exhibition game#Association football|Friendly]]
+| date       = 18 January
+| time       = {{UTZ|17:00|-4}}
+| team1      = {{fb-rt|BOL}}
+| score      = 1–1
+| team2      = {{fb|PAN}}
+| report     = https://www.soccerway.com/match/bolivia-nXdi7mbc/panama-OWKqbCfi/?mid=K83pc0QE
+| goals1     =
+*[[Eddie Roberts (Panamanian footballer)|Roberts]] {{goal|69|o.g.}}
+| goals2     =
+*[[Kadir Barría|Barría]] {{goal|5}}
+| location   = [[Tarija]], Bolivia
+| stadium    = [[Estadio IV Centenario]]
+| attendance = 12,000
+| referee    = Bruno Arleu de Araújo ([[Brazilian Football Confederation|Brazil]])
+| result     = D
+}}
+{{footballbox collapsible|format=1
+| round      = [[Exhibition game#Association football|Friendly]]
+| date       = 22 January
+| time       = {{UTZ|20:00|-5}}
+| team1      = {{fb-rt|PAN}}
+| score      = 0–1
+| team2      = {{fb|MEX}}
+| report     = https://www.soccerway.com/match/mexico-O6iHcNkd/panama-OWKqbCfi/?mid=pO4TFuEb
+| goals1     =
+| goals2     =
+*[[Richard Peralta|Peralta]] {{goal|90+3|o.g.}}
+| location   = [[Panama City]], Panama
+| stadium    = [[Estadio Rommel Fernández]]
+| attendance = 16,447
+| referee    = Guido Gonzales Jr. ([[United States Soccer Federation|United States]])
+| result     = L
+}}
+{{footballbox collapsible|format=1
+| round      = [[Exhibition game#Association football|Friendly]]
+| date       = 27 March
+| time       = {{UTZ|19:00|+2}}
+| team1      = {{fb-rt|RSA}}
+| score      = 1–1
+| team2      = {{fb|PAN}}
+| report     = https://www.soccerway.com/match/panama-OWKqbCfi/south-africa-W2ijYvlr/?mid=0rIvuc36
+| goals1     =
+*[[Oswin Appollis|Appollis]] {{goal|48}}
+| goals2     =
+*[[Yoel Bárcenas|Bárcenas]] {{goal|23}}
+| location   = [[Durban]], South Africa
+| stadium    = [[Moses Mabhida Stadium]]
+| attendance =
+| referee    = Thabang Ketshabile ([[Botswana Football Association|Botswana]])
+| result     = D
+}}
+{{footballbox collapsible|format=1
+| round      = [[Exhibition game#Association football|Friendly]]
+| date       = 31 March
+| time       = {{UTZ|19:30|+2}}
+| team1      = {{fb-rt|RSA}}
+| score      = 1–2
+| team2      = {{fb|PAN}}
+| report     = https://www.soccerway.com/match/panama-OWKqbCfi/south-africa-W2ijYvlr/?mid=rmPFz0vm
+| goals1     =
+*[[Mbekezeli Mbokazi|Mbokazi]] {{goal|64}}
+| goals2     =
+*[[José Córdoba|Córdoba]] {{goal|58}}
+*[[Jiovany Ramos|Ramos]] {{goal|77}}
+| location   = [[Cape Town]], South Africa
+| stadium    = [[Cape Town Stadium]]
+| attendance =
+| referee    = Thabang Ketshabile ([[Botswana Football Association|Botswana]])
+| result     = W
+}}
+{{footballbox collapsible|format=1
+| round      = [[Exhibition game#Association football|Friendly]]
+| date       = 31 May
+| time       = {{UTZ|18:30|-4}}
+| team1      = {{fb-rt|BRA}}
+| score      = 6–2
+| team2      = {{fb|PAN}}
+| report     = https://www.soccerway.com/match/brazil-I9l9aqLq/panama-OWKqbCfi/?mid=4UXzDy1d
+| goals1     =
+*[[Vinícius Júnior|Vinicius Jr.]] {{goal|2}}
+*[[Casemiro]] {{goal|39}}
+*[[Rayan Vitor Simplício Rocha|Rayan]] {{goal|53}}
+*[[Lucas Paquetá|Paquetá]] {{goal|60}}
+*[[Igor Thiago|Thiago]] {{goal|63|pen.}}
+*[[Danilo dos Santos de Oliveira|Danilo]] {{goal|81}}
+| goals2     =
+*[[Matheus Cunha|Cunha]] {{goal|14|o.g.}}
+*[[Carlos Harvey|Harvey]] {{goal|83}}
+| location   = [[Rio de Janeiro]], Brazil
+| stadium    = [[Maracanã Stadium|Maracanã]]
+| attendance = 72,140
+| referee    = Daniel Schlager ([[German Football Association|Germany]])
+| result     = L
+}}
+{{footballbox collapsible|format=1
+| round      = [[Exhibition game#Association football|Friendly]]
+| date       = 3 June
+| time       = {{UTZ|19:45|-5}}
+| team1      = {{fb-rt|PAN}}
+| score      = 4–2
+| team2      = {{fb|DOM}}
+| report     = https://www.soccerway.com/match/dominican-republic-nB5iYoh5/panama-OWKqbCfi/?mid=As1zNuIa
+| goals1     =
+*[[Tomás Rodríguez (footballer)|Rodríguez]] {{goal|16}}
+*[[Víctor Griffith|Griffith]] {{goal|44}}
+*[[Cecilio Waterman|Waterman]] {{goal|57}}
+*[[Kadir Barría|Barría]] {{goal|89}}
+| goals2     =
+*[[Mariano Díaz|Díaz]] {{goal|47}}
+*[[Erick Japa|Japa]] {{goal|67}}
+| location   = [[Panama City]], Panama
+| stadium    = [[Estadio Rommel Fernández]]
+| attendance =
+| referee    = Nelson Salgado ([[Football Federation of Honduras|Honduras]])
+| result     = W
+}}
+{{footballbox collapsible|format=1
+| round      = [[Exhibition game#Association football|Friendly]]
+| date       = 6 June
+| time       = {{UTZ|14:00|-5}}
+| team1      = {{fb-rt|BIH}}
+| score      = 1–1
+| team2      = {{fb|PAN}}
+| report     = https://www.fifa.com/en/match-centre/match/cesdwwnxbc5fmajgroc0hqzy2/dezv8l0fzgcxtejl0dwmy1gyc/2m1wojm5bt709wu4kugtytxqs/9xhggrpjt1ekjbsxslvrprhg4
+| goals1     =
+*[[Nikola Katić|Katić]] {{goal|24}}
+| goals2     =
+*[[Jiovany Ramos|Ramos]] {{goal|45+2}}
+| location   = [[St. Louis]], United States
+| stadium    = [[Energizer Park]]
+| attendance =
+| referee    = [[Luis Enrique Santander]] ([[Mexican Football Federation|Mexico]])
+| result     = D
+}}
+{{footballbox collapsible|format=1
+| round      = [[2026 FIFA World Cup Group L|2026 World Cup GS]]
+| date       = 17 June
+| time       = {{UTZ|19:00|-4}}
+| team1      = {{fb-rt|GHA}}
+| score      = 1–0
+| team2      = {{fb|PAN}}
+| report     = https://www.fifa.com/en/match-centre/match/17/285023/289273/400021510
+| goals1     =
+*[[Caleb Yirenkyi|Yirenkyi]] {{goal|90+5}}
+| goals2     =
+| location   = [[Toronto]], Canada
+| stadium    = [[BMO Field]]
+| attendance = 42,942
+| referee    = [[Glenn Nyberg]] ([[Swedish Football Association|Sweden]])
+| result     = L
+}}
+{{footballbox collapsible|format=1
+| round      = [[2026 FIFA World Cup Group L|2026 World Cup GS]]
+| date       = 23 June
+| time       = {{UTZ|19:00|-4}}
+| team1      = {{fb-rt|PAN}}
+| score      = 0–1
+| team2      = {{fb|CRO}}
+| report     = https://www.fifa.com/en/match-centre/match/17/285023/289273/400021511
+| goals1     =
+| goals2     =
+*[[Ante Budimir|Budimir]] {{goal|54}}
+| location   = [[Toronto]], Canada
+| stadium    = [[BMO Field]]
+| attendance = 43,036
+| referee    = [[Pierre Atcho]] ([[Gabonese Football Federation|Gabon]])
+| result     = L
+}}
+{{footballbox collapsible|format=1
+| round      = [[2026 FIFA World Cup Group L|2026 World Cup GS]]
+| date       = 27 June
+| time       = {{UTZ|17:00|-4}}
+| team1      = {{fb-rt|PAN}}
+| score      = 0–2
+| team2      = {{fb|ENG}}
+| report     = https://www.fifa.com/en/match-centre/match/17/285023/289273/400021508
+| goals1     =
+| goals2     =
+*[[Jude Bellingham|Bellingham]] {{goal|62}}
+*[[Harry Kane|Kane]] {{goal|67}}
+| location   = [[East Rutherford, New Jersey|East Rutherford]], United States
+| stadium    = [[MetLife Stadium]]
+|attendance   = 80,663
+|referee      = [[Abdulrahman Al-Jassim]] [[Qatar Football Association|(Qatar)]] 
+| result     = L
+}}
+
+==Coaching staff==
+[[File:Partido Galicia - Panamá en Balaídos 149.jpg|thumb|upright=0.7|Current head coach [[Thomas Christiansen]], who led Panama to finish as runners-up at the [[2023 CONCACAF Gold Cup]] and [[2024–25 CONCACAF Nations League]]]]
+{| class="wikitable"
+!style="color:#072357;background:#DA121A"|Position
+!style="color:#072357;background:#DA121A"|Name
+|-
+|Head coach
+|{{flagicon|ESP}} {{flagicon|DEN}} [[Thomas Christiansen]]
+|-
+|Assistant coach
+|{{flagicon|ESP}} [[Francisco Javier Sánchez Jara]]
+|-
+|Assistant coach
+|{{flagicon|PAN}} [[Jorge Dely Valdés]]
+|-
+|Goalkeeping coach
+|{{flagicon|PAN}} [[Donaldo González]]
+|}
+
+===Managers===
+:Caretaker managers are listed in ''italics''.
+{{div col|colwidth=22em}}
+*{{flagicon|URU}} [[Romeo Parravicini]] (1938)
+*{{flagicon|PER|1825}} [[Manuel Sánchez Durán]] (1941)
+*{{flagicon|PAN}} [[Emel Ospino]] (1946)
+*{{flagicon|CHI}} [[Óscar Rendoll Gómez]] (1946, 1951)
+*{{flagicon|PAN}} [[Óscar Suman Carrillo]] (1949)
+*{{flagicon|COL}} [[Gilberto Casanova]] (1950)
+*{{flagicon|AUT}} [[Moses Stern]] (1950)
+*{{flagicon|PAN}} [[Rogelio Díaz]] (1952)
+*{{flagicon|PAN}} [[Emel Ospino]] (1956)
+*{{flagicon|ESP|1945}} [[José Bech Casablanca]] (1961, 1967)
+*{{flagicon|ARG}} [[Raúl "Che" Álvarez]] (1963–64)
+*{{flagicon|PAN}} [[Luis Carlos Ponce]] (1967)
+*{{flagicon|CHI}} [[Néstor Valdés]] (1969)
+*{{flagicon|CHI}} [[Renato Panay]] (1976)
+*{{flagicon|ARG}} [[Omar Muraco]] (1978)
+*{{flagicon|URU}} [[Edgardo Bone Baldi]] (1979)
+*{{flagicon|URU}} [[Luis Borghini]] (1980)
+*{{flagicon|PAN}} [[Rubén Cárdenas]] (1980)
+*{{flagicon|PAN}} [[Orlando Muñoz]] (1984, 1995)
+*{{flagicon|ARG}} [[Carlos Cavagnaro]] (1984)
+*{{flagicon|ARG}} [[Juan Colecchio]] (1986–1987)
+*{{flagicon|URU}} [[Miguel Mansilla]] (1987–1988, 1990, 1999–2000)
+*{{flagicon|URU}} [[Gustavo de Simone]] (1992)
+*{{flagicon|COL}} [[César Maturana]] (1995–96)
+*{{flagicon|COL}} [[Óscar Aristizábal]] (1999)
+*{{flagicon|PAN}} [[Ezequiel Fernández (football manager)|Ezequiel Fernandez]] (2000)
+*{{flagicon|PAN}} [[Leopoldo Lee]] (2000)
+*{{flagicon|ROU}} [[Mihai Stoichiță]] (2001)
+*{{flagicon|ENG}} [[Billy Stenning]] (2001–02)
+*{{flagicon|BRA}} [[Carlos Alberto da Luz]] (2002–03)
+*{{flagicon|COL}} [[José Eugenio Hernández]] (2004–05)
+*{{flagicon|PAN}} ''[[Julio Dely Valdés]]'' (2006)
+*{{flagicon|PAN}} ''[[Víctor René Mendieta (footballer, born 1982)|Víctor René Mendieta]]'' (2006)
+*{{flagicon|CRC}} [[Alexandre Guimarães]] (2006–08)
+*{{flagicon|PAN}} [[Gary Stempel]] (2008–09)
+*{{flagicon|PAN}} [[Julio Dely Valdés]] (2010–13, 2019)
+*{{flagicon|COL}} [[Hernán Darío Gómez]] (2014–2018)
+*{{flagicon|PAN}} [[Gary Stempel]] (2018–2019)
+*{{flagicon|ARG}} [[Américo Gallego]] (2019–2020)
+*{{flagicon|ESP}} [[Thomas Christiansen]] (2020–present)
+{{div col end}}
+
+==Players==
+===Current squad===
+The following 26 players were called up to squad for the [[2026 FIFA World Cup]].<ref>{{cite instagram |user=fepafut |postid=DYzpoyaEUX8 |title=LOS 26🇵🇦❤️ |date=26 May 2026| access-date=26 May 2026 |language=es}}</ref>
+<br>''Caps and goals correct as of 27 June 2026, after the match against [[England national football team|England]].''
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Luis Mejía]]|age={{birth date and age|df=yes|1991|3|16}}|caps=56|goals=0|club=[[Club Nacional de Football|Nacional]]|clubnat=URU}}
+{{nat fs g player|no=12|pos=GK|name=[[César Samudio]]|age={{birth date and age|df=yes|1994|3|26}}|caps=5|goals=0|club=[[C.D. Marathón|Marathón]]|clubnat=HON}}
+{{nat fs g player|no=22|pos=GK|name=[[Orlando Mosquera]]|age={{birth date and age|df=yes|1994|12|25}}|caps=51|goals=0|club=[[Al-Fayha FC|Al-Fayha]]|clubnat=KSA}}
+{{nat fs break}}
+{{nat fs g player|no=2|pos=DF|name=[[César Blackman]]|age={{birth date and age|df=yes|1998|4|2}}|caps=42|goals=3|club=[[ŠK Slovan Bratislava|Slovan Bratislava]]|clubnat=SVK}}
+{{nat fs g player|no=3|pos=DF|name=[[José Córdoba]]|age={{birth date and age|df=yes|2001|6|3}}|caps=35|goals=1|club=[[Norwich City F.C.|Norwich City]]|clubnat=ENG}}
+{{nat fs g player|no=4|pos=DF|name=[[Fidel Escobar]]|age={{birth date and age|df=yes|1995|1|9}}|caps=100|goals=4|club=[[Deportivo Saprissa|Saprissa]]|clubnat=CRC}}
+{{nat fs g player|no=5|pos=DF|name=[[Edgardo Fariña]]|age={{birth date and age|df=yes|2001|9|21}}|caps=18|goals=0|club=[[FC Pari Nizhny Novgorod|Pari Nizhny Novgorod]]|clubnat=RUS}}
+{{nat fs g player|no=13|pos=DF|name=[[Jiovany Ramos]]|age={{birth date and age|df=yes|1997|1|26}}|caps=25|goals=2|club=[[Academia Puerto Cabello|Puerto Cabello]]|clubnat=VEN}}
+{{nat fs g player|no=15|pos=DF|name=[[Eric Davis (Panamanian footballer)|Eric Davis]]|age={{birth date and age|df=yes|1991|3|31}}|caps=108|goals=9|club=[[C.D. Plaza Amador|Plaza Amador]]|clubnat=PAN}}
+{{nat fs g player|no=16|pos=DF|name=[[Andrés Andrade (footballer, born 1998)|Andrés Andrade]]|age={{birth date and age|df=yes|1998|10|16}}|caps=53|goals=1|club=[[LASK]]|clubnat=AUT}}
+{{nat fs g player|no=23|pos=DF|name=[[Michael Amir Murillo|Amir Murillo]]|age={{birth date and age|df=yes|1996|2|11}}|caps=97|goals=9|club=[[Beşiktaş J.K.|Beşiktaş]]|clubnat=TUR}}
+{{nat fs g player|no=25|pos=DF|name=[[Roderick Miller (footballer)|Roderick Miller]]|age={{birth date and age|df=yes|1992|4|3}}|caps=50|goals=2|club=[[Turan Tovuz]]|clubnat=AZE}}
+{{nat fs g player|no=26|pos=DF|name=[[Jorge Gutiérrez (footballer)|Jorge Gutiérrez]]|age={{birth date and age|df=yes|1998|9|1}}|caps=19|goals=0|club=[[Deportivo La Guaira F.C.|Deportivo La Guaira]]|clubnat=VEN}}
+{{nat fs break}}
+{{nat fs g player|no=6|pos=MF|name=[[Cristian Martínez (Panamanian footballer)|Cristian Martínez]]|age={{birth date and age|df=yes|1997|2|6}}|caps=69|goals=2|club=[[Hapoel Ironi Kiryat Shmona F.C.|Ironi Kiryat Shmona]]|clubnat=ISR}}
+{{nat fs g player|no=7|pos=MF|name=[[José Luis Rodríguez (footballer, born 1998)|José Luis Rodríguez]]|age={{birth date and age|df=yes|1998|6|19}}|caps=73|goals=8|club=[[FC Juárez|Juárez]]|clubnat=MEX}}
+{{nat fs g player|no=8|pos=MF|name=[[Adalberto Carrasquilla]]|age={{birth date and age|df=yes|1998|11|28}}|caps=73|goals=3|club=[[Pumas UNAM|UNAM]]|clubnat=MEX}}
+{{nat fs g player|no=10|pos=MF|name=[[Ismael Díaz (footballer, born 1997)|Ismael Díaz]]|age={{birth date and age|df=yes|1997|5|12}}|caps=59|goals=17|club=[[Club León|León]]|clubnat=MEX}}
+{{nat fs g player|no=11|pos=MF|name=[[Yoel Bárcenas]]|age={{birth date and age|df=yes|1993|10|23}}|caps=107|goals=10|club=[[Free agent|''Unattached'']]|clubnat=}}
+{{nat fs g player|no=14|pos=MF|name=[[Carlos Harvey]]|age={{birth date and age|df=yes|2000|2|3}}|caps=31|goals=3|club=[[Minnesota United FC|Minnesota United]]|clubnat=USA}}
+{{nat fs g player|no=19|pos=MF|name=[[Alberto Quintero (footballer)|Alberto Quintero]]|age={{birth date and age|df=yes|1987|12|18}}|caps=142|goals=7|club=[[C.D. Plaza Amador|Plaza Amador]]|clubnat=PAN}}
+{{nat fs g player|no=20|pos=MF|name=[[Aníbal Godoy]]|other=[[Captain (association football)|captain]]|age={{birth date and age|df=yes|1990|2|10}}|caps=160|goals=4|club=[[San Diego FC|San Diego]]|clubnat=USA}}
+{{nat fs g player|no=21|pos=MF|name=[[César Yanis]]|age={{birth date and age|df=yes|1996|1|28}}|caps=56|goals=5|club=[[Cobresal]]|clubnat=CHI}}
+{{nat fs break}}
+{{nat fs g player|no=9|pos=FW|name=[[Tomás Rodríguez (Panamanian footballer)|Tomás Rodríguez]]|age={{birth date and age|df=yes|1999|3|9}}|caps=14|goals=4|club=[[Deportivo Saprissa|Saprissa]]|clubnat=CRC}}
+{{nat fs g player|no=17|pos=FW|name=[[José Fajardo (footballer)|José Fajardo]]|age={{birth date and age|df=yes|1993|8|18}}|caps=71|goals=17|club=[[C.D. Universidad Católica del Ecuador|Universidad Católica]]|clubnat=ECU}}
+{{nat fs g player|no=18|pos=FW|name=[[Cecilio Waterman]]|age={{birth date and age|df=yes|1991|4|13}}|caps=56|goals=15|club=[[C.D. Universidad de Concepción|Universidad de Concepción]]|clubnat=CHI}}
+{{nat fs g player|no=24|pos=FW|name=[[Azarias Londoño]]|age={{birth date and age|df=yes|2001|6|21}}|caps=13|goals=0|club=[[C.D. Universidad Católica del Ecuador|Universidad Católica]]|clubnat=ECU}}
+{{nat fs end}}
+
+===Recent call-ups===
+The following players have been called up within the past year.
+<!--Sorted by position, most recent call-up, caps, goals and last name.-->
+{{nat fs r start}}
+{{nat fs r player|no=|pos=GK|name=[[JD Gunn]]|age={{birth date and age|df=yes|2000|1|24}}|caps=2|goals=0|club=[[New England Revolution]]|clubnat=USA|latest=v. {{fb|BIH}}, 6 June 2026}}
+{{nat fs r player|no=|pos=GK|name=[[Eddie Roberts (Panamanian footballer)|Eddie Roberts]]|age={{birth date and age|df=yes|1994|5|1}}|caps=3|goals=0|club=[[Estudiantes de Mérida F.C.|Estudiantes de Mérida]]|clubnat=VEN|latest=v. {{fb|MEX}}, 22 January 2026}}
+{{nat fs r player|no=|pos=GK|name=[[Ian Flores]]|age={{birth date and age|df=yes|2005|3|20}}|caps=0|goals=0|club=[[San Francisco F.C.|San Francisco II]]|clubnat=PAN|latest=v. {{fb|BOL}}, 18 January 2026 <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=GK|name=[[Marcos De León]]|age={{birth date and age|df=yes|1998|1|20}}|caps=0|goals=0|club=[[Sporting San Miguelito]]|clubnat=PAN|latest=v. {{fb|BOL}}, 18 January 2026 <sup>INJ</sup>}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=DF|name=[[Iván Anderson]]|age={{birth date and age|df=yes|1997|11|24}}|caps=15|goals=1|club=[[Club Deportivo Universitario|Universitario]]|clubnat=PAN|latest=v. {{fb|DOM}}, 3 June 2026}}
+{{nat fs r player|no=|pos=DF|name=[[Martín Krug]]|age={{birth date and age|df=yes|2006|7|9}}|caps=2|goals=0|club=[[Atlético Levante UD|Atlético Levante]]|clubnat=ESP|latest=v. {{fb|RSA}}, 31 March 2026}}
+{{nat fs r player|no=|pos=DF|name=[[Richard Peralta]]|age={{birth date and age|df=yes|1993|9|20}}|caps=17|goals=1|club=[[Monagas S.C.|Monagas]]|clubnat=VEN|latest=v. {{fb|MEX}}, 22 January 2026}}
+{{nat fs r player|no=|pos=DF|name=[[Omar Córdoba]]|age={{birth date and age|df=yes|1994|6|13}}|caps=6|goals=0|club=[[C.D. Plaza Amador|Plaza Amador]]|clubnat=PAN|latest=v. {{fb|MEX}}, 22 January 2026}}
+{{nat fs r player|no=|pos=DF|name=[[Kevin Galván]]|age={{birth date and age|df=yes|1996|3|10}}|caps=6|goals=0|club=[[San Francisco F.C.|San Francisco]]|clubnat=PAN|latest=v. {{fb|MEX}}, 22 January 2026}}
+{{nat fs r player|no=|pos=DF|name=[[Luis Asprilla (Panamanian footballer)|Luis Asprilla]]|age={{birth date and age|df=yes|2001|5|28}}|caps=2|goals=0|club=[[Tauro F.C.|Tauro]]|clubnat=PAN|latest=v. {{fb|MEX}}, 22 January 2026}}
+{{nat fs r player|no=|pos=DF|name=[[Orman Davis]]|age={{birth date and age|df=yes|2002|12|25}}|caps=2|goals=0|club=[[C.A. Independiente de La Chorrera|Independiente]]|clubnat=PAN|latest=v. {{fb|MEX}}, 22 January 2026}}
+{{nat fs r player|no=|pos=DF|name=[[Javier Rivera (footballer)|Javier Rivera]]|age={{birth date and age|df=yes|1998|3|17}}|caps=2|goals=0|club=[[C.D. Marathón|Marathón]]|clubnat=HON|latest=v. {{fb|MEX}}, 22 January 2026}}
+{{nat fs r player|no=|pos=DF|name=[[Daniel Aparicio]]|age={{birth date and age|df=yes|2000|4|17}}|caps=1|goals=0|club=[[Real C.D. España|Real España]]|clubnat=HON|latest=v. {{fb|MEX}}, 22 January 2026}}
+{{nat fs r player|no=|pos=DF|name=[[Ariel Arroyo]]|age={{birth date and age|df=yes|2005|1|23}}|caps=1|goals=0|club=[[FK Auda|Auda]]|clubnat=LVA|latest=v. {{fb|MEX}}, 22 January 2026}}
+{{nat fs r player|no=|pos=DF|name=[[Aimar Sánchez]]|age={{birth date and age|df=yes|2005|8|27}}|caps=1|goals=0|club=[[New York Red Bulls II]]|clubnat=USA|latest=v. {{fb|MEX}}, 22 January 2026}}
+{{nat fs r player|no=|pos=DF|name=[[Juan Carlos Hall|Juan Hall]]|age={{birth date and age|df=yes|2006|3|9}}|caps=0|goals=0|club=[[Sporting San Miguelito]]|clubnat=PAN|latest=v. {{fb|MEX}}, 22 January 2026}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=MF|name=[[Víctor Griffith]]|age={{birth date and age|df=yes|2000|12|12}}|caps=19|goals=1|club=[[Club Sport Emelec|Emelec]]|clubnat=ECU|latest=v. {{fb|BIH}}, 6 June 2026}}
+{{nat fs r player|no=|pos=MF|name=[[José Murillo]]|age={{birth date and age|df=yes|1995|2|24}}|caps=19|goals=1|club=[[C.D. Plaza Amador|Plaza Amador]]|clubnat=PAN|latest=v. {{fb|DOM}}, 3 June 2026}}
+{{nat fs r player|no=|pos=MF|name=[[Jovani Welch]]|age={{birth date and age|df=yes|1999|12|7}}|caps=21|goals=1|club=[[The Strongest]]|clubnat=BOL|latest=v. {{fb|MEX}}, 22 January 2026}}
+{{nat fs r player|no=|pos=MF|name=[[Kahiser Lenis]]|age={{birth date and age|df=yes|2000|7|23}}|caps=12|goals=2|club=[[Jaguares de Córdoba|Jaguares]]|clubnat=COL|latest=v. {{fb|MEX}}, 22 January 2026}}
+{{nat fs r player|no=|pos=MF|name=[[Ricardo Phillips (footballer, born 2001)|Ricardo Phillips]]|age={{birth date and age|df=yes|2001|5|6}}|caps=10|goals=0|club=[[C.D. Plaza Amador|Plaza Amador]]|clubnat=PAN|latest=v. {{fb|MEX}}, 22 January 2026}}
+{{nat fs r player|no=|pos=MF|name=[[Giovany Herbert]]|age={{birth date and age|df=yes|2005|3|12}}|caps=3|goals=0|club=[[FC Kryvbas Kryvyi Rih|Kryvbas Kryvyi Rih]]|clubnat=UKR|latest=v. {{fb|MEX}}, 22 January 2026}}
+{{nat fs r player|no=|pos=MF|name=[[Ángel Caicedo]]|age={{birth date and age|df=yes|1999|8|19}}|caps=2|goals=0|club=[[C.A. Independiente de La Chorrera|Independiente]]|clubnat=PAN|latest=v. {{fb|MEX}}, 22 January 2026}}
+{{nat fs r player|no=|pos=MF|name=[[Abdul Knight]]|age={{birth date and age|df=yes|2002|1|17}}|caps=2|goals=0|club=[[C.D. Plaza Amador|Plaza Amador]]|clubnat=PAN|latest=v. {{fb|MEX}}, 22 January 2026}}
+{{nat fs r player|no=|pos=MF|name=[[Héctor Hurtado (Panamanian footballer)|Héctor Hurtado]]|age={{birth date and age|df=yes|1998|12|23}}|caps=1|goals=0|club=[[Sporting San Miguelito]]|clubnat=PAN|latest=v. {{fb|MEX}}, 22 January 2026}}
+{{nat fs r player|no=|pos=MF|name=[[Omar Browne]]|age={{birth date and age|df=yes|1994|5|3}}|caps=15|goals=0|club=[[C.D. Plaza Amador|Plaza Amador]]|clubnat=PAN|latest=v. {{fb|SLV}}, 18 November 2025}}
+{{nat fs r player|no=|pos=MF|name=[[Edward Cedeño]]|age={{birth date and age|df=yes|2003|7|5}}|caps=5|goals=0|club=[[Albacete Balompié|Albacete]]|clubnat=ESP|latest=v. {{fb|SLV}}, 18 November 2025}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=FW|name=[[Kadir Barría]]|age={{birth date and age|df=yes|2007|7|18}}|caps=5|goals=2|club=[[Botafogo FR|Botafogo]]|clubnat=BRA|latest=v. {{fb|BIH}}, 6 June 2026}}
+{{nat fs r player|no=|pos=FW|name=[[Gustavo Herrera (footballer)|Gustavo Herrera]]|age={{birth date and age|df=yes|2005|11|18}}|caps=3|goals=0|club=[[Sporting San Miguelito]]|clubnat=PAN|latest=v. {{fb|MEX}}, 22 January 2026}}
+{{nat fs r player|no=|pos=FW|name=[[Saed Díaz]]|age={{birth date and age|df=yes|1999|6|23}}|caps=0|goals=0|club=[[Tauro F.C.|Tauro]]|clubnat=PAN|latest=v. {{fb|MEX}}, 22 January 2026}}
+{{nat fs r player|no=|pos=FW|name=[[Everardo Rose]]|age={{birth date and age|df=yes|1999|7|23}}|caps=1|goals=0|club=[[C.D. Universidad Católica del Ecuador|Universidad Católica]]|clubnat=ECU|latest=v. {{fb|GUA}}, 8 September 2025}}
+{{nat fs break}}
+<sup>INJ</sup> Withdrew due to injury / absent form the national team due to injury.<br/>
+<sup>COV</sup> Withdrew due to COVID-19<br/>
+<sup>PRE</sup> Preliminary squad.<br/>
+<sup>RET</sup> Retired from the national team.<br/>
+<sup>SUS</sup> Serving Suspension.<br/>
+<sup>WD</sup> Withdrew for personal reasons.
+{{nat fs end}}
+
+==Player records==
+:{{Updated|27 June 2026}}<ref>{{cite web |title=Panama |url=https://www.national-football-teams.com/country/142/Panama.html |website=National Football Teams}}</ref>
+:''Players in '''bold''' are still active with Panama.''
+
+===Most capped players===
+[[File:ENG-PAN (15) (cropped).jpg|200px|right|thumb|[[Aníbal Godoy]] is Panama's most capped player with 160 appearances.]]
+
+{| class="wikitable sortable" style="font-size:100%; text-align:center;"
+|-
+!width="40"|Rank
+! style="width:150px;"|Player
+!width="50"|Caps
+!width="50"|Goals
+! style="width:100px;"|Career
+|-
+|1
+|style="text-align:left;"|'''[[Aníbal Godoy]]'''
+|160
+|4
+|2010–present
+|-
+|2
+|style="text-align:left;"|[[Gabriel Gómez (footballer, born 1984)|Gabriel Gómez]]
+|147
+|12
+|2003–2018
+|-
+|3
+|style="text-align:left;"|[[Alberto Quintero (footballer)|Alberto Quintero]]
+|142
+|7
+|2007–2026
+|-
+|4
+|style="text-align:left;"|[[Jaime Penedo]]
+|137
+|0
+|2003–2018
+|-
+|rowspan=2|5
+|style="text-align:left;"|[[Armando Cooper]]
+|123
+|9
+|2006–2022
+|-
+|style="text-align:left;"|[[Blas Pérez]]
+|123
+|42
+|2001–2018
+|-
+|7
+|style="text-align:left;"|[[Román Torres]]
+|121
+|10
+|2005–2019
+|-
+|rowspan="1"|8
+|style="text-align:left;"|[[Eric Davis (Panamanian footballer)|Eric Davis]]
+|109
+|9
+|2010–2026
+|-
+|9
+|style="text-align:left;"|[[Luis Tejada]]
+|108
+|43
+|2001–2018
+|-
+|10
+|style="text-align:left;"|'''[[Yoel Bárcenas]]'''
+|107
+|10
+|2014–present
+|-
+
+|}
+
+===Top goalscorers===
+[[File:PAN-TUN (28).jpg|200px|right|thumb|[[Luis Tejada]] is Panama's all-time top scorer with 43 goals.]]
+
+{| class="wikitable sortable" style="font-size:100%; text-align:center;"
+|-
+!width="40"|Rank
+! style="width:150px;"|Player
+!width="50"|Goals
+!width="50"|Caps
+!width="50"|Ratio
+! style="width:100px;"|Career
+|-
+|1
+|style="text-align:left;"|[[Luis Tejada]]
+|43
+|108
+|{{#expr:43/108 round 2}}
+|2001–2018
+|-
+|2
+|style="text-align:left;"|[[Blas Pérez]]
+|42
+|123
+|{{#expr:42/123 round 2}}
+|2001–2018
+|-
+|3
+|style="text-align:left;" |[[Gabriel Torres]]
+|24
+|104
+|{{#expr:24/104 round 2}}
+|2005–2022
+|-
+|4
+|style="text-align:left;"|[[Luis Ernesto Tapia]]
+|20
+|77
+|{{#expr:20/77 round 2}}
+|1960–1979
+|-
+|5
+| style="text-align:left;" |[[Jorge Dely Valdés]]
+|19
+|48
+|{{#expr:19/48 round 2}}
+|1991–2005
+|-
+|rowspan=2|6
+| style="text-align:left;" |[[James Anderson (panamanian footballer)|James Anderson]]
+|18
+|23
+|{{#expr:18/23 round 2}}
+|1938–1948
+|-
+| style="text-align:left;" |[[Julio Dely Valdés]]
+|18
+|44
+|{{#expr:18/44 round 2}}
+|1990–2005
+|-
+|rowspan=3|8
+|style="text-align:left;" |[[Carlos Martínez (panamanian footballer)|Carlos Martínez]]
+|17
+|20
+|{{#expr:17/20 round 2}}
+|1946–1954
+|-
+|style="text-align:left;"| '''[[Ismael Díaz (footballer, born 1997)|Ismael Díaz]]'''
+|17
+|58
+|{{#expr:17/58 round 2}}
+|2014–present 
+|-
+|style="text-align:left;"| '''[[José Fajardo (footballer)|José Fajardo]]'''
+|17
+|71
+|{{#expr:17/71 round 2}}
+|2017–present
+|-
+|}
+
+==Competitive record==
+
+===FIFA World Cup===
+{{main|Panama at the FIFA World Cup}}
+
+{| class="wikitable" style="text-align:center;"
+!colspan=10|[[FIFA World Cup]] record
+!width=1% rowspan=28|
+!colspan=7|[[FIFA World Cup qualification|Qualification]] record
+|-
+!Year
+!Round
+!Position
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!Squad
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+|-
+| {{flagicon|Uruguay}} [[1930 FIFA World Cup|1930]]
+| colspan=9 rowspan=2|''Not a FIFA member''
+| colspan=7 rowspan=2|''Not a FIFA member''
+|-
+| {{flagicon|Italy|1861}} [[1934 FIFA World Cup|1934]]
+|-
+| {{flagicon|France|1794}} [[1938 FIFA World Cup|1938]]
+| colspan=9 rowspan=8|''Declined participation''
+| colspan=7 rowspan=8|''Declined participation''
+|-
+| {{flagicon|Brazil|1889}} [[1950 FIFA World Cup|1950]]
+|-
+| {{flagicon|Switzerland}} [[1954 FIFA World Cup|1954]]
+|-
+| {{flagicon|Sweden}} [[1958 FIFA World Cup|1958]]
+|-
+| {{flagicon|Chile}} [[1962 FIFA World Cup|1962]]
+|-
+| {{flagicon|England}} [[1966 FIFA World Cup|1966]]
+|-
+| {{flagicon|Mexico}} [[1970 FIFA World Cup|1970]]
+|-
+| {{flagicon|West Germany}} [[1974 FIFA World Cup|1974]]
+|-
+| {{flagicon|Argentina}} [[1978 FIFA World Cup|1978]]
+| colspan=9 rowspan=10|''Did not qualify''
+| 6
+| 1
+| 1
+| 4
+| 7
+| 21
+|-
+| {{flagicon|Spain}} [[1982 FIFA World Cup|1982]]
+| 8
+| 0
+| 1
+| 7
+| 3
+| 24
+|-
+| {{flagicon|Mexico}} [[1986 FIFA World Cup|1986]]
+| 2
+| 0
+| 0
+| 2
+| 0
+| 4
+|-
+| {{flagicon|Italy}} [[1990 FIFA World Cup|1990]]
+| 2
+| 0
+| 1
+| 1
+| 1
+| 3
+|-
+| {{flagicon|United States}} [[1994 FIFA World Cup|1994]]
+| 2
+| 1
+| 0
+| 1
+| 2
+| 5
+|-
+| {{flagicon|France|1974}} [[1998 FIFA World Cup|1998]]
+| 8
+| 3
+| 2
+| 3
+| 14
+| 13
+|-
+| {{flagicon|South Korea|1997}} {{flagicon|Japan}} [[2002 FIFA World Cup|2002]]
+| 10
+| 3
+| 1
+| 6
+| 9
+| 19
+|-
+| {{flagicon|Germany}} [[2006 FIFA World Cup|2006]]
+| 18
+| 4
+| 4
+| 10
+| 19
+| 32
+|-
+| {{flagicon|South Africa}} [[2010 FIFA World Cup|2010]]
+| 2
+| 1
+| 0
+| 1
+| 2
+| 3
+|-
+| {{flagicon|Brazil}} [[2014 FIFA World Cup|2014]]
+| 20
+| 8
+| 7
+| 5
+| 31
+| 18
+|-
+| {{flagicon|Russia}} [[2018 FIFA World Cup|2018]]
+| Group stage
+| 32nd
+| 3
+| 0
+| 0
+| 3
+| 2
+| 11
+| [[2018 FIFA World Cup squads#Panama|Squad]]
+| 16
+| 6
+| 5
+| 5
+| 16
+| 15
+|-
+| {{flagicon|Qatar}} [[2022 FIFA World Cup|2022]]
+| colspan=9|''Did not qualify''
+| 20
+| 11
+| 4
+| 5
+| 38
+| 21
+|-
+| {{flagicon|Canada}} {{flagicon|Mexico}} {{flagicon|United States}} [[2026 FIFA World Cup|2026]]
+| Group stage
+| 43rd
+| 3
+| 0
+| 0
+| 3
+| 0
+| 4
+| [[2026 FIFA World Cup squads#Panama|Squad]]
+| 10
+| 7
+| 3
+| 0
+| 19
+| 5
+|-
+| {{flagicon|Morocco}} {{flagicon|Portugal}} {{flagicon|Spain}} [[2030 FIFA World Cup|2030]]
+| colspan=9 rowspan=2|''To be determined''
+| colspan=7 rowspan=2|''To be determined''
+|-
+| {{flagicon|Saudi Arabia}} [[2034 FIFA World Cup|2034]]
+|-
+!Total
+!{{Tooltip|Group stage|Highest finish}}
+!32nd
+!6
+!0
+!0
+!6
+!2
+!15
+!{{Tooltip|2/21|Number of tournaments qualified for}}
+!124
+!45
+!29
+!50
+!161
+!183
+|}
+{| class="wikitable collapsible collapsed" style="text-align: center;font-size:90%;"
+|-
+!colspan=2|FIFA World Cup history
+|-
+!First match
+|{{fb|BEL}} 3–0 {{fb-rt|PAN}}<br>(18 June 2018; [[Sochi]], Russia)
+|-
+!Biggest win
+|—
+|-
+!Biggest defeat
+|{{fb|ENG}} 6–1 {{fb-rt|PAN}}<br>(24 June 2018; [[Nizhny Novgorod]], Russia)
+|-
+!Best result
+|Group stage ([[2018 FIFA World Cup|2018]], [[2026 FIFA World Cup|2026]])
+|-
+!Worst result
+|—
+|}
+
+===CONCACAF Gold Cup===
+{{main|Panama at the CONCACAF Gold Cup}}
+
+{| class="wikitable" style="text-align:center;"
+|-
+!colspan=10|[[CONCACAF Championship]] / [[CONCACAF Gold Cup|Gold Cup]] record 
+|-
+!width=120|Year
+!width=100|Round
+!width=60|Position
+!width=20|{{Abbr|Pld|Games played}}
+!width=20|{{Abbr|W|Won}}
+!width=20|{{Abbr|D|Drawn}}
+!width=20|{{Abbr|L|Lost}}
+!width=20|{{Abbr|GF|Goals for}}
+!width=20|{{Abbr|GA|Goals against}}
+!width=60|Squad
+|-
+|{{flagicon|El Salvador}} [[1963 CONCACAF Championship|1963]]||Group stage||6th||4||1||2||1||8||4||—
+|-
+|{{flagicon|Guatemala}} [[1965 CONCACAF Championship|1965]]||colspan=9|''Did not participate''
+|-
+||{{flagicon|Honduras|1949}} [[1967 CONCACAF Championship|1967]]||colspan=9 rowspan=2|''Did not qualify''
+|-
+|{{flagicon|Costa Rica}} [[1969 CONCACAF Championship|1969]]
+|-
+||{{flagicon|Trinidad and Tobago}} [[1971 CONCACAF Championship|1971]]||colspan=9 rowspan=2|''Did not participate''
+|-
+||{{flagicon|Haiti|1964}} [[1973 CONCACAF Championship|1973]]
+|-
+||{{flagicon|Mexico}} [[1977 CONCACAF Championship|1977]]||colspan=9 rowspan=4|''Did not qualify''
+|-
+||{{flagicon|Honduras|1949}} [[1981 CONCACAF Championship|1981]]
+|-
+|[[1985 CONCACAF Championship|1985]]
+|-
+|[[1989 CONCACAF Championship|1989]]
+|-
+|{{flagicon|United States}} [[1991 CONCACAF Gold Cup|1991]]||colspan=9|''Did not participate''
+|-
+|{{flagicon|Mexico}} {{flagicon|United States}} [[1993 CONCACAF Gold Cup|1993]]||Group stage||7th||3||0||1||2||3||8||[[1993 CONCACAF Gold Cup squads#Panama|Squad]]
+|-
+|{{flagicon|United States}} [[1996 CONCACAF Gold Cup|1996]]||colspan=9 rowspan=5|''Did not qualify''
+|-
+|{{flagicon|United States}} [[1998 CONCACAF Gold Cup|1998]]
+|-
+|{{flagicon|United States}} [[2000 CONCACAF Gold Cup|2000]]
+|-
+||{{flagicon|United States}} [[2002 CONCACAF Gold Cup|2002]]
+|-
+|{{flagicon|Mexico}} {{flagicon|USA}} [[2003 CONCACAF Gold Cup|2003]]
+|-style="background:silver;"
+|{{flagicon|United States}} [[2005 CONCACAF Gold Cup|2005]]||'''[[2005 CONCACAF Gold Cup Final|Runners-up]]'''||'''2nd'''||'''6'''||'''2'''||'''3'''||'''1'''||'''7'''||'''6'''||'''[[2005 CONCACAF Gold Cup squads#Panama|Squad]]'''
+|-
+|{{flagicon|United States}} [[2007 CONCACAF Gold Cup|2007]]||rowspan=2|Quarter-finals||6th||4||1||1||2||6||7||[[2007 CONCACAF Gold Cup squads#Panama|Squad]]
+|-
+|{{flagicon|United States}} [[2009 CONCACAF Gold Cup|2009]]||7th||4||1||1||2||7||5||[[2009 CONCACAF Gold Cup squads#Panama|Squad]]
+|-style="background:#c96;"
+|{{flagicon|United States}} [[2011 CONCACAF Gold Cup|2011]]||'''Semi-finals'''||'''3rd'''||'''5'''||'''2'''||'''2'''||'''1'''||'''7'''||'''6'''||'''[[2011 CONCACAF Gold Cup squads#Panama|Squad]]'''
+|-style="background:silver;"
+|{{flagicon|United States}} [[2013 CONCACAF Gold Cup|2013]]||'''[[2013 CONCACAF Gold Cup final|Runners-up]]'''||style="background:silver;"|'''2nd'''
+||'''6'''||'''4'''||'''1'''||'''1'''||'''11'''||'''4'''||'''[[2013 CONCACAF Gold Cup squads#Panama|Squad]]'''
+|-style="background:#c96;"
+|{{flagicon|Canada}} {{flagicon|United States}} [[2015 CONCACAF Gold Cup|2015]]||'''Third place'''||'''3rd'''||'''6'''||'''0'''||'''5'''||'''1'''||'''6'''||'''7'''||'''[[2015 CONCACAF Gold Cup squads#Panama|Squad]]'''
+|-
+|{{flagicon|United States}} [[2017 CONCACAF Gold Cup|2017]]||rowspan=2|Quarter-finals||5th||4||2||1||1||6||3||[[2017 CONCACAF Gold Cup squads#Panama|Squad]]
+|-
+|{{flagicon|Costa Rica}} {{flagicon|Jamaica}} {{flagicon|United States}} [[2019 CONCACAF Gold Cup|2019]]||7th||4||2||0||2||6||4||[[2019 CONCACAF Gold Cup squads#Panama|Squad]] 
+|-
+|{{flagicon|United States}} [[2021 CONCACAF Gold Cup|2021]]||Group stage||9th||3||1||1||1||8||7||[[2021 CONCACAF Gold Cup squads#Panama|Squad]]
+|-style="background:silver;"
+|{{flagicon|Canada}} {{flagicon|United States}} [[2023 CONCACAF Gold Cup|2023]]||'''[[2023 CONCACAF Gold Cup final|Runners-up]]'''||'''2nd''' ||'''6'''||'''3'''||'''2'''||'''1'''||'''11'''||'''6'''||'''[[2023 CONCACAF Gold Cup squads#Panama|Squad]]'''
+|-
+|{{flagicon|Canada}} {{flagicon|United States}} [[2025 CONCACAF Gold Cup|2025]]||Quarter-finals||5th||4||3||1||0||11||4||[[2025 CONCACAF Gold Cup squads#Panama|Squad]]
+|-
+! Total || Runners-up || 13/28 || 59 || 22 || 21 || 16 || 97 || 71 ||—
+|}
+{| class="wikitable collapsible collapsed" style="text-align: center;font-size:90%;"
+|-
+!colspan=2|CONCACAF Championship / Gold Cup history
+|-
+!First match
+|{{fb|SLV}} 1–1 {{fb-rt|PAN}}<br>(23 March 1963; [[San Salvador]], El Salvador)
+|-
+!Biggest win
+|{{fb|PAN}} 6–1 {{fb-rt|CUB}}<br>(20 July 2013; [[Atlanta]], United States)
+|-
+!Biggest defeat
+|{{fb|HON|1949}} 5–1 {{fb-rt|PAN}}<br>(10 July 1993; [[Dallas]], United States)
+|-
+!Best result
+|'''Runners-up''' ([[2005 CONCACAF Gold Cup|2005]], [[2013 CONCACAF Gold Cup|2013]], [[2023 CONCACAF Gold Cup|2023]])
+|-
+!Worst result
+|Group stage ([[1963 CONCACAF Championship|1963]], [[1993 CONCACAF Gold Cup|1993]], [[2021 CONCACAF Gold Cup|2021]])
+|}
+
+===CONCACAF Nations League===
+{| class="wikitable" style="text-align: center;"
+|-
+! colspan=21|[[CONCACAF Nations League]] record
+|-
+! colspan=10|League phase / Quarter-finals
+! rowspan=8|
+! colspan=9|Finals
+|-
+!Season
+!Division
+!Group
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!{{Tooltip|P/R|Promotion/relegation at end of season}}
+!Year
+!Result
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!{{Tooltip|Squad|Finals Squad Only}}
+|-
+|[[2019–20 CONCACAF Nations League|2019–20]]
+|[[2019–20 CONCACAF Nations League A|A]]
+|[[2019–20 CONCACAF Nations League A#Group B|B]]
+|4
+|1
+|0
+|3
+|5
+|9
+|{{same position}}
+|{{flagicon|USA}} [[2021 CONCACAF Nations League Finals|2021]]
+|colspan=8|''Did not qualify''
+|- style="background:#9acdff
+|bgcolor="#f8f9fa"|[[2022–23 CONCACAF Nations League|2022–23]]
+|bgcolor="#f8f9fa"|[[2022–23 CONCACAF Nations League A|A]]
+|bgcolor="#f8f9fa"|[[2022–23 CONCACAF Nations League A#Group B|B]]
+|bgcolor="#f8f9fa"|4
+|bgcolor="#f8f9fa"|3
+|bgcolor="#f8f9fa"|1
+|bgcolor="#f8f9fa"|0
+|bgcolor="#f8f9fa"|8
+|bgcolor="#f8f9fa"|0
+|bgcolor="#f8f9fa"|{{same position}}
+|{{flagicon|USA}} [[2023 CONCACAF Nations League Finals|2023]]
+|Fourth place
+|2
+|0
+|0
+|2
+|0
+|3
+|[[2023 CONCACAF Nations League Finals squads#Panama|Squad]]
+|- style="background:#9acdff
+|bgcolor="#f8f9fa"|[[2023–24 CONCACAF Nations League|2023–24]]
+|bgcolor="#f8f9fa"|[[2023–24 CONCACAF Nations League A|A]]
+|bgcolor="#f8f9fa"|[[2023–24 CONCACAF Nations League A#Group A|A]]
+|bgcolor="#f8f9fa"|6
+|bgcolor="#f8f9fa"|5
+|bgcolor="#f8f9fa"|1
+|bgcolor="#f8f9fa"|0
+|bgcolor="#f8f9fa"|15
+|bgcolor="#f8f9fa"|3
+|bgcolor="#f8f9fa"|{{same position}}
+|{{flagicon|USA}} [[2024 CONCACAF Nations League Finals|2024]]
+|Fourth place
+|2
+|0
+|0
+|2
+|0
+|4
+|[[2024 CONCACAF Nations League Finals squads#Panama|Squad]]
+|-
+|[[2024–25 CONCACAF Nations League|2024–25]]
+|[[2024–25 CONCACAF Nations League A|A]]
+|''[[Bye (sports)|Bye]]''
+|2
+|1
+|1
+|0
+|3
+|2
+|{{same position}}
+|bgcolor=silver|{{flagicon|USA}} [[2025 CONCACAF Nations League Finals|2025]]
+|bgcolor=silver|'''[[2025 CONCACAF Nations League final|Runners-up]]'''
+|bgcolor=silver|'''2'''
+|bgcolor=silver|'''1'''
+|bgcolor=silver|'''0'''
+|bgcolor=silver|'''1'''
+|bgcolor=silver|'''2'''
+|bgcolor=silver|'''2'''
+|bgcolor=silver|'''[[2025 CONCACAF Nations League Finals squads#Panama|Squad]]'''
+|-
+|''2026–27''
+|''A''
+|colspan=8|''To be determined''
+|{{flagicon image|Flag of none.svg}} ''2027''
+|colspan=8|''To be determined''
+|-
+!Total
+!—
+!—
+!16
+!10
+!3
+!3
+!31
+!14
+!—
+!Total
+!0 Titles
+!6
+!1
+!0
+!5
+!2
+!9
+!—
+|}
+{| class="wikitable collapsible collapsed" style="text-align: center;font-size:90%;"
+|-
+!colspan=2|CONCACAF Nations League history
+|-
+!First match
+|{{fb|BER}} 1–4 {{fb-rt|PAN}}<br>(5 September 2019; [[Hamilton, Bermuda|Hamilton]], Bermuda)
+|-
+!Biggest win
+|{{fb|PAN}} 5–0 {{fb-rt|MTQ|football-old}}<br>(9 June 2022; [[Panama City]], Panama)
+|-
+!Biggest defeat
+|{{fb|PAN}} 0–3 {{fb-rt|MEX}}<br>(15 November 2019; Panama City, Panama)<br>{{fb|PAN}} 0–3 {{fb-rt|MEX}}<br>(21 March 2024; [[Arlington, Texas|Arlington]], United States)
+|-
+!Best result
+|Runners-up ([[2024–25 CONCACAF Nations League|2024–25]])
+|-
+!Worst result
+|Eighth place ([[2019–20 CONCACAF Nations League|2019−20]])
+|}
+
+===Copa América===
+{{main|Panama at the Copa América}}
+{| class="wikitable" style="text-align:center;"
+!colspan=10|[[Copa América]] record
+|-
+!Year
+!Round
+!Position
+!{{Tooltip|Pld|Matches played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!Squad
+|-
+|{{flagicon|United States}} [[Copa América Centenario|2016]]||Group stage||12th||3||1||0||2||4||10||[[Copa América Centenario squads#Panama|Squad]]
+|-
+|{{flagicon|United States}} [[2024 Copa América|2024]]||Quarter-finals||7th||4||2||0||2||6||10||[[2024 Copa América squads#Panama|Squad]]
+|-
+!Total||Quarter-finals||2/2||7||3||0||4||10||20||—
+|}
+{| class="wikitable collapsible collapsed" style="text-align:center; font-size:90%;"
+|-
+!colspan=2|Copa América history
+|-
+!First match
+|{{fb|PAN}} 2–1 {{fb-rt|BOL}}<br>(6 June 2016; [[Orlando, Florida|Orlando]], United States)
+|-
+!Biggest win
+|{{fb|BOL}} 1–3 {{fb-rt|PAN}}<br>(1 July 2024; Orlando, United States)
+|-
+!Biggest defeat
+|{{fb|ARG}} 5–0 {{fb-rt|PAN}}<br>(10 June 2016; [[Chicago]], United States)<br>{{fb|COL}} 5–0 {{fb-rt|PAN}}<br>(6 July 2024; [[Glendale, Arizona|Glendale]], United States)
+|-
+!Best result
+|Quarter-finals ([[2024 Copa América|2024]])
+|-
+!Worst result
+|Group stage ([[Copa América Centenario|2016]])
+|}
+
+===Copa Centroamericana===
+{| class="wikitable" style="text-align:center;"
+|-
+!colspan=9|[[Copa Centroamericana]] record 
+|-
+!Year
+!Round
+!Position
+!{{Abbr|Pld|Games played}}
+!{{Abbr|W|Won}}
+!{{Abbr|D|Drawn}}
+!{{Abbr|L|Lost}}
+!{{Abbr|GF|Goals for}}
+!{{Abbr|GA|Goals against}}
+|-
+| {{flagicon|Costa Rica}} [[1991 UNCAF Nations Cup|1991]]||Preliminary round||5th||2||1||0||1||2||3
+|- style="background:#cc9966"
+| {{flagicon|Honduras|1949}} [[1993 UNCAF Nations Cup|1993]]||Third place||3rd||3||0||1||2||1||5
+|-
+| {{flagicon|El Salvador}} [[1995 UNCAF Nations Cup|1995]]||Fifth place||5th||2||0||0||2||0||3
+|- 
+|{{flagicon|Guatemala}} [[1997 UNCAF Nations Cup|1997]]||Fifth place||5th||2||0||0||2||0||7
+|-
+| {{flagicon|Costa Rica}} [[1999 UNCAF Nations Cup|1999]]||colspan=8|''Did not participate''
+|- style="background:#9acdff;"
+| {{flagicon|Honduras|1949}} [[2001 UNCAF Nations Cup|2001]]||Fourth place||4th||3||0||1||2||3||6
+|-
+| style="border: 3px solid red"|{{flagicon|Panama}} [[2003 UNCAF Nations Cup|2003]]||Fifth place||5th||5||1||1||3||4||5
+|- style="background:#9acdff;"
+| {{flagicon|Guatemala}} [[2005 UNCAF Nations Cup|2005]]||Fourth place||4th||4||1||0||3||1||5
+|- style="background:silver;"
+| {{flagicon|El Salvador}} [[2007 UNCAF Nations Cup|2007]]||'''Runners-up'''||'''2nd'''||'''6'''||'''4'''||'''1'''||'''1'''||'''5'''||'''2'''
+|- style="background:gold;"
+| {{flagicon|Honduras|1949}} [[2009 UNCAF Nations Cup|2009]]||'''Champions'''||'''1st'''||'''4'''||'''2'''||'''1'''||'''1'''||'''2'''||'''3'''
+|- style="background:#cc9966"
+| style="border: 3px solid red"|{{flagicon|Panama}} [[2011 Copa Centroamericana|2011]]||Third place||3rd||5||4||0||1||7||1
+|-
+| {{flagicon|Costa Rica}} [[2013 Copa Centroamericana|2013]]||Fifth place||5th||2||0||2||0||1||1
+|- style="background:#cc9966"
+| {{flagicon|United States}} [[2014 Copa Centroamericana|2014]]||Third place||3rd||3||2||1||0||5||2
+|- style="background:silver;"
+| style="border: 3px solid red"|{{flagicon|Panama}} [[2017 Copa Centroamericana|2017]]||'''Runners-up'''||'''2nd'''||'''5'''||'''3'''||'''1'''||'''1'''||'''4'''||'''2'''
+|-
+!Total||1 Title||13/14||46||18||9||19||35||45
+|}
+
+===CCCF Championship===
+{| class="wikitable" style="text-align:center;"
+|-
+!colspan=10|[[CCCF Championship]] record 
+|-
+!Year
+!Round
+!Position
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+|- style="background:#9acdff;"
+| {{flagicon|Costa Rica}} [[1941 CCCF Championship|1941]]||Fourth place||4th||4||1||1||2||11||16
+|-
+| {{flagicon|El Salvador}} [[1943 CCCF Championship|1943]]||colspan=9|''Did not participate''
+|-
+| {{flagicon|Costa Rica}} [[1946 CCCF Championship|1946]]||Round-robin||5th||5||1||1||3||5||16
+|- style="background:#cc9966"
+| {{flagicon|Guatemala}} [[1948 CCCF Championship|1948]]||Third place||3rd||8||4||0||4||19||24
+|- style="background:gold;"
+| style="border: 3px solid red"|{{flagicon|Panama}} [[1951 CCCF Championship|1951]]||'''Champions'''||'''1st'''||'''4'''||'''3'''||'''1'''||'''0'''||'''13'''||'''3'''
+|-
+| {{flagicon|Costa Rica}} [[1953 CCCF Championship|1953]]||Round-robin||7th||6||0||1||5||6||16
+|-
+| {{flagicon|Honduras|1949}} [[1955 CCCF Championship|1955]]||colspan=9|''Did not participate''
+|- style="background:#9acdff;"
+| {{flagicon|Netherlands Antilles}} [[1957 CCCF Championship|1957]]||Fourth place||4th||4||1||0||3||3||8
+|-
+| {{flagicon|Cuba}} [[1960 CCCF Championship|1960]]||colspan=9|''Did not participate'' 
+|-
+| {{flagicon|Costa Rica}} [[1961 CCCF Championship|1961]]||Round 1||7th||4||1||0||3||3||11
+|-
+!Total!!1 Title!!7/10!!35!!11!!4!!20!!60!!94
+|}
+
+==Head-to-head results==
+''Updated as of 27 June 2026.''
+
+{| class="wikitable sortable collapsible collapsed" style="text-align: center; font-size: 100%;"
+|-
+!scope=col|Opponent
+!scope=col|{{abbr|Pld|Played}}
+!scope=col|{{abbr|W|Wins}}
+!scope=col|{{abbr|D|Draws}}
+!scope=col|{{abbr|L|Losses}}
+!scope=col|{{abbr|GF|Goals for}}
+!scope=col|{{abbr|GA|Goals against}}
+!scope=col|{{abbr|GD|Goal difference}}
+!scope=col|{{abbr|W%|Win percentage}}
+|-bgcolor=#CCFFCC
+!scope=row style="text-align:left;" |{{fb|AIA}}
+|1||1||0||0||13||0||+13||{{#expr:1/1*100 round 2}}
+|-bgcolor=#FFCCCC
+!scope=row style="text-align:left;" |{{fb|ARG}}
+|2||0||0||2||1||8||–5||{{#expr:0/2*100 round 2}}
+|-bgcolor=#FFFFCC
+!scope=row style="text-align:left;" |{{fb|ARM}}
+|1||0||1||0||1||1||0||{{#expr:0/1*100 round 2}}
+|-bgcolor=#FFFFCC
+!scope=row style="text-align:left;" |{{fb|ARU}}
+|1||0||1||0||0||0||0||{{#expr:0/1*100 round 2}}
+|-bgcolor=#FFCCCC
+!scope=row style="text-align:left;" |{{fb|BAH}}
+|1||0||0||1||0||1||–1||{{#expr:0/1*100 round 2}}
+|-bgcolor=#FFFFCC
+!scope=row style="text-align:left;" |{{fb|BHR}}
+|2||1||0||1||2||5||–3||{{#expr:1/2*100 round 2}}
+|-bgcolor=#CCFFCC
+!scope=row style="text-align:left;" |{{fb|BAR}}
+|1||1||0||0||1||0||+1||{{#expr:1/1*100 round 2}}
+|-bgcolor=#FFCCCC
+!scope=row style="text-align:left;" |{{fb|BEL}}
+|1||0||0||1||0||3||–3||{{#expr:0/1*100 round 2}}
+|-bgcolor=#CCFFCC
+!scope=row style="text-align:left;" |{{fb|BLZ}}
+|7||5||2||0||12||3||+9||{{#expr:5/7*100 round 2}}
+|-bgcolor=#FFFFCC
+!scope=row style="text-align:left;" |{{fb|BER}}
+|5||2||1||2||9||6||+3||{{#expr:2/5*100 round 2}}
+|-bgcolor=#CCFFCC
+!scope=row style="text-align:left;" |{{fb|BOL}}
+|10||5||1||4||17||16||+1||{{#expr:5/10*100 round 2}}
+|-bgcolor=#FFFFCC
+!scope=row style="text-align:left;" |{{fb|BIH}}
+|1||0||1||0||1||1||0||{{#expr:0/1*100 round 2}}
+|-bgcolor=#FFCCCC
+!scope=row style="text-align:left;" |{{fb|BRA}}
+|7||0||1||6||3||25||–22||{{#expr:0/7*100 round 2}}
+|-bgcolor=#FFFFCC
+!scope=row style="text-align:left;" |{{fb|CMR}}
+|1||0||1||0||1||1||0||{{#expr:0/1*100 round 2}}
+|-bgcolor=#FFCCCC
+!scope=row style="text-align:left;" |{{fb|CAN}}
+|14||2||7||5||9||14||–5||{{#expr:2/14*100 round 2}}
+|-bgcolor=#FFCCCC
+!scope=row style="text-align:left;" |{{fb|CHI}}
+|4||0||1||3||4||12||–8||{{#expr:0/4*100 round 2}}
+|-bgcolor=#FFFFCC
+!scope=row style="text-align:left;" |{{fb|TPE}}
+|2||0||2||0||2||2||0||{{#expr:0/2*100 round 2}}
+|-bgcolor=#FFCCCC
+!scope=row style="text-align:left;" |{{fb|COL}}
+|15||4||0||11||11||37||–26||{{#expr:4/15*100 round 2}}
+|-bgcolor=#FFCCCC
+!scope=row style="text-align:left;" |{{fb|CRC}}
+|64||19||16||29||63||122||–59||{{#expr:19/64*100 round 2}}
+|-bgcolor=#FFCCCC
+!scope=row style="text-align:left;" |{{fb|CRO}}
+|1||0||0||1||0||1||–1||{{#expr:0/1*100 round 2}}
+|-bgcolor=#CCFFCC
+!scope=row style="text-align:left;" |{{fb|CUB}}
+|39||16||11||12||48||43||+5||{{#expr:16/39*100 round 2}}
+|-bgcolor=#FFCCCC
+!scope=row style="text-align:left;" |{{fb|CUW}}{{refn|Includes the results of {{fb|ANT}}.|group="note"}}
+|10||2||4||4||18||23||–5||{{#expr:2/10*100 round 2}}
+|-bgcolor=#FFCCCC
+!scope=row style="text-align:left;" |{{fb|DEN}}
+|1||0||0||1||0||1||–1||{{#expr:0/1*100 round 2}}
+|-bgcolor=#CCFFCC
+!scope=row style="text-align:left;" |{{fb|DMA}}
+|3||3||0||0||10||1||+9||{{#expr:3/3*100 round 2}}
+|-bgcolor=#CCFFCC
+!scope=row style="text-align:left;" |{{fb|DOM}}
+|8||7||1||0||18||6||+12||{{#expr:7/8*100 round 2}}
+|-bgcolor=#FFCCCC
+!scope=row style="text-align:left;" |{{fb|ECU}}
+|8||1||2||5||4||17||–14||{{#expr:1/8*100 round 2}}
+|-bgcolor=#FFCCCC
+!scope=row style="text-align:left;" |{{fb|SLV}}
+|63||23||16||24||85||81||+4||{{#expr:23/63*100 round 2}}
+|-bgcolor=#FFCCCC
+!scope=row style="text-align:left;" |{{fb|ENG}}
+|3||0||0||3||1||10||–9||{{#expr:0/3*100 round 2}}
+|-bgcolor=#FFCCCC
+!scope=row style="text-align:left;" |{{fb|GHA}}
+|1||0||0||1||0||1||–1||{{#expr:0/1*100 round 2}}
+|-bgcolor=#CCFFCC
+!scope=row style="text-align:left;" |{{fb|GRN}}
+|3||3||0||0||10||1||+9||{{#expr:3/3*100 round 2}}
+|-bgcolor=#CCFFCC
+!scope=row style="text-align:left;" |''{{fb|GLP}}''
+|3||2||0||1||9||6||+3||{{#expr:2/3*100 round 2}}
+|-bgcolor=#CCFFCC
+!scope=row style="text-align:left;" |{{fb|GUA}}
+|44||18||12||14||64||67||–3||{{#expr:18/44*100 round 2}}
+|-bgcolor=#FFCCCC
+!scope=row style="text-align:left;" |{{fb|GNB}}
+|1||0||0||1||0||1||–1||{{#expr:0/1*100 round 2}}
+|-bgcolor=#CCFFCC
+!scope=row style="text-align:left;" |{{fb|GUY}}
+|3||3||0||0||8||2||+6||{{#expr:3/3*100 round 2}}
+|-bgcolor=#FFCCCC
+!scope=row style="text-align:left;" |{{fb|HAI}}
+|20||4||7||9||18||27||–9||{{#expr:4/20*100 round 2}}
+|-bgcolor=#FFCCCC
+!scope=row style="text-align:left;" |{{fb|HON}}
+|52||12||13||27||40||79||–39||{{#expr:12/52*100 round 2}}
+|-bgcolor=#FFCCCC
+!scope=row style="text-align:left;" |{{fb|HKG}}
+|1||0||0||1||1||3||–2||{{#expr:0/1*100 round 2}}
+|-bgcolor=#FFCCCC
+!scope=row style="text-align:left;" |{{fb|IRN}}
+|2||0||0||2||1||3||–2||{{#expr:0/2*100 round 2}}
+|-bgcolor=#CCFFCC
+!scope=row style="text-align:left;" |{{fb|JAM}}
+|22||11||7||4||31||17||+14||{{#expr:11/22*100 round 2}}
+|-bgcolor=#FFCCCC
+!scope=row style="text-align:left;" |{{fb|JPN}}
+|2||0||0||2||0||4||–4||{{#expr:0/2*100 round 2}}
+|-bgcolor=#FFCCCC
+!scope=row style="text-align:left;" |{{fb|MAC}}
+|1||0||0||1||1||2||–1||{{#expr:0/1*100 round 2}}
+|-bgcolor=#CCFFCC
+!scope=row style="text-align:left;" |''{{fb|MTQ}}''
+|5||4||1||0||11||0||+11||{{#expr:3/3*100 round 2}}
+|-bgcolor=#FFCCCC
+!scope=row style="text-align:left;" |{{fb|MEX}}
+|27||2||6||19||16||48||–32||{{#expr:2/27*100 round 2}}
+|-bgcolor=#CCFFCC
+!scope=row style="text-align:left;" |{{fb|MSR}}
+|1||1||0||0||3||1||+2||{{#expr:1/1*100 round 2}}
+|-bgcolor=#CCFFCC
+!scope=row style="text-align:left;" |{{fb|NIC}}
+|31||23||1||5||81||24||+57||{{#expr:23/31*100 round 2}}
+|-bgcolor=#FFFFCC
+!scope=row style="text-align:left;" |{{fb|NIR}}
+|1||0||1||0||0||0||0||{{#expr:0/1*100 round 2}}
+|-bgcolor=#FFCCCC
+!scope=row style="text-align:left;" |{{fb|NOR}}
+|1||0||0||1||0||1||–1||{{#expr:0/1*100 round 2}}
+|-bgcolor=#FFCCCC
+!scope=row style="text-align:left;" |{{fb|PAR}}
+|6||0||1||5||1||10||–10||{{#expr:0/6*100 round 2}}
+|-bgcolor=#FFCCCC
+!scope=row style="text-align:left;" |{{fb|PER}}
+|13||3||1||9||9||29||–20||{{#expr:3/13*100 round 2}}
+|-bgcolor=#FFCCCC
+!scope=row style="text-align:left;" |{{fb|POR}}
+|1||0||0||1||0||2||–2||{{#expr:0/1*100 round 2}}
+|-bgcolor=#CCFFCC
+!scope=row style="text-align:left;" |{{fb|PUR}}
+|6||4||1||1||20||3||+17||{{#expr:4/6*100 round 2}}
+|-bgcolor=#FFFFCC
+!scope=row style="text-align:left;" |{{fb|QAT}}
+|3||1||1||1||8||5||+3||{{#expr:1/3*100 round 2}}
+|-bgcolor=#CCFFCC
+!scope=row style="text-align:left;" |{{fb|LCA}}
+|2||2||0||0||7||0||+7||{{#expr:2/2*100 round 2}}
+|-bgcolor=#FFFFCC
+!scope=row style="text-align:left;" |{{fb|KSA}}
+|1||0||1||0||1||1||0||{{#expr:0/1*100 round 2}}
+|-bgcolor=#FFFFCC
+!scope=row style="text-align:left;" |{{fb|SRB}}
+|2||0||2||0||1||1||0||{{#expr:0/2*100 round 2}}
+|-bgcolor=#CCFFCC
+!scope=row style="text-align:left;" |{{fb|RSA}}
+|3||1||2||0||4||3||+1||{{#expr:1/3*100 round 2}}
+|-bgcolor=#FFFFCC
+!scope=row style="text-align:left;" |{{fb|KOR}}
+|1||0||1||0||2||2||0||{{#expr:0/1*100 round 2}}
+|-bgcolor=#FFCCCC
+!scope=row style="text-align:left;" |{{fb|ESP}}
+|1||0||0||1||1||5||–4||{{#expr:0/1*100 round 2}}
+|-bgcolor=#FFCCCC
+!scope=row style="text-align:left;" |{{fb|SUR}}
+|5||1||2||2||6||11||–5||{{#expr:1/5*100 round 2}}
+|-bgcolor=#FFCCCC
+!scope=row style="text-align:left;" |{{fb|SUI}}
+|1||0||0||1||0||6||–6||{{#expr:0/1*100 round 2}}
+|-bgcolor=#FFCCCC
+!scope=row style="text-align:left;" |{{fb|TRI}}
+|25||7||7||11||23||33||–10||{{#expr:7/25*100 round 2}}
+|-bgcolor=#FFCCCC
+!scope=row style="text-align:left;" |{{fb|TUN}}
+|1||0||0||1||1||2||–1||{{#expr:0/1*100 round 2}}
+|-bgcolor=#FFCCCC
+!scope=row style="text-align:left;" |{{fb|USA}}
+|28||4||6||18||19||55||–36||{{#expr:4/28*100 round 2}}
+|-bgcolor=#FFCCCC
+!scope=row style="text-align:left;" |{{fb|URU}}
+|5||0||0||5||2||18||–16||{{#expr:0/5*100 round 2}}
+|-bgcolor=#FFCCCC
+!scope=row style="text-align:left;" |{{fb|VEN}}
+|24||5||9||10||26||37||–11||{{#expr:5/24*100 round 2}}
+|-bgcolor=#FFFFCC
+!scope=row style="text-align:left;" |{{fb|WAL}}
+|1||0||1||0||1||1||0||{{#expr:0/1*100 round 2}}
+|-
+!scope=row style="text-align:left;" |'''Total results'''
+|'''648'''||'''198'''||'''164'''||'''272'''||'''757'''||'''962'''||'''–205'''||'''{{#expr:198/647*100 round 2}}'''
+|}
+
+{{reflist|group=note}}
+
+==Honours==
+===Continental===
+* '''[[CONCACAF Gold Cup]]'''
+** {{silver2}} Runners-up (3): [[2005 CONCACAF Gold Cup|2005]], [[2013 CONCACAF Gold Cup|2013]], [[2023 CONCACAF Gold Cup|2023]]
+** {{bronze3}} Third place (1): [[2015 CONCACAF Gold Cup|2015]]
+* '''[[CONCACAF Nations League]]'''
+** {{silver2}} Runners-up (1): [[2024–25 CONCACAF Nations League|2024–25]]
+
+===Subregional===
+* '''[[CCCF Championship]]'''{{sup|1}}
+** {{gold1}} '''Champions (1)''': [[1951 CCCF Championship|1951]]
+** {{bronze3}} Third place (1): [[1948 CCCF Championship|1948]]
+* '''[[Copa Centroamericana|Copa de Naciones UNCAF / Copa Centroamericana]]'''
+** {{gold1}} '''Champions (1)''': [[UNCAF Nations Cup 2009|2009]]
+** {{silver2}} Runners-up (2): [[UNCAF Nations Cup 2007|2007]], [[2017 Copa Centroamericana|2017]]
+** {{bronze3}} Third place (3): [[1993 UNCAF Nations Cup|1993]], [[2011 Copa Centroamericana|2011]], [[2014 Copa Centroamericana|2014]]
+* '''[[Football at the Central American and Caribbean Games|Central American and Caribbean Games]]'''
+** {{silver2}} Silver medal (1): [[Football at the 1946 Central American and Caribbean Games|1946]]
+* '''[[Football at the Bolivarian Games|Bolivarian Games]]'''
+** {{bronze3}} Bronze medal (2): 1970, 1973
+
+===Summary===
+Only official honours are included, according to ''FIFA statutes'' (competitions organized/recognized by [[FIFA]] or an affiliated confederation).
+{| class="wikitable" width=30% style="font-size:90%; text-align:center;"
+!Competition!!{{gold1}}!!{{silver2}}!!{{bronze3}}!!Total
+|-
+|align=left|[[CONCACAF Gold Cup]]
+|0||3||1||4
+|-
+|align=left|[[CONCACAF Nations League]]
+|0||1||0||1
+|-
+|align=left|[[CCCF Championship]]{{sup|1}}
+|1||0||1||2
+|-
+!Total!!1!!4!!2!!7
+|}
+
+;Notes
+# Official subregional competition organized by [[Confederación Centroamericana y del Caribe de Fútbol|CCCF]], direct predecessor confederation of CONCACAF and the former governing body of football in Central America and Caribbean (1938–1961).
+
+==FIFA World Ranking==
+{{See also|FIFA World Rankings}}
+
+''Last update was on 24 June 2025.''
+Source:<ref>{{cite web|url=https://www.fifa.com/fifa-world-ranking/PAN|title=Panama in the FIFA World Ranking|access-date=July 26, 2021|archive-date=25 December 2022|archive-url=https://web.archive.org/web/20221225004234/https://www.fifa.com/fifa-world-ranking/PAN|url-status=live}}</ref>
+
+{{Color box|blue|border=darkgray}} '''Best Ranking'''&nbsp;&nbsp;{{Color box|gold|border=darkgray}} '''Worst Ranking'''&nbsp;&nbsp;{{Color box|green|border=darkgray}} '''Best Mover'''&nbsp;&nbsp;{{Color box|red|border=darkgray}} '''Worst Mover'''&nbsp;&nbsp;
+
+{| class="wikitable sortable" style="text-align:center;"
+|-
+!colspan=9 style="background: #072357; color: #FFFFFF;|{{flagdeco|Panama}} Panama's [[FIFA World Rankings|{{color|#FFFFFF|FIFA World Ranking}}]] History
+|-
+!rowspan=2 style="background-color: #DA121A; color: #FFFFFF;|Rank
+!rowspan=2 style="background-color: #DA121A; color: #FFFFFF;|Year
+!colspan=2 style="background-color: #DA121A; color: #FFFFFF;|Best
+!colspan=2 style="background-color: #DA121A; color: #FFFFFF;|Worst
+|-
+!style="background-color: #DA121A; color: #FFFFFF;|Rank
+!style="background-color: #DA121A; color: #FFFFFF;|Move
+!style="background-color: #DA121A; color: #FFFFFF;|Rank
+!style="background-color: #DA121A; color: #FFFFFF;|Move
+|-
+| || 2025 || || || ||
+|-
+| 36 || 2024 || 35 || {{increase}} 8 || 45 || {{decrease}} 3
+|-
+| 41 || 2023 || 41 || {{increase}} 12 || 58 || {{decrease}} 0
+|-
+| 61 || 2022 || 60 || {{increase}} 3 || 61 || {{decrease}} 1
+|-
+| 63 || 2021 || 63 || {{increase}} 6 || 78 || {{decrease}} 1
+|-
+| 78 || 2020 || 77 || {{increase}} 4 || 81 || {{decrease}} 1
+|-
+| 81 || 2019 || 74 || {{increase}} 2 || 81 || {{decrease}} 5
+|-
+| 71 || 2018 || 53 || {{increase}} 2 || 71 || {{decrease}} 14
+|-
+| 55 || 2017 || 49 || {{increase}} 11 || 61 || {{decrease}} 9
+|-
+| 58 || 2016 || 51 || {{increase}} 7 || 69 || {{decrease}} 18
+|-
+| 64 || 2015 || 53 || {{increase}} 8 || 65 || {{decrease}} 8
+|-
+| 57 || 2014 || style="border: 3px solid blue"|29 || {{increase}} 8 || 63 || {{decrease}} 30
+|-
+| 38 || 2013 || 35 || {{increase}} 11 || 51 || {{decrease}} 8
+|-
+| 51 || 2012 || 43 || {{increase}} 7 || 54 || {{decrease}} 6
+|-
+| 49 || 2011 || 49 || {{increase}} 15 || 68 || {{decrease}} 13
+|-
+| 64 || 2010 || 59 || {{increase}} 27 || 97 || {{decrease}} 20
+|-
+| 70 || 2009 || 50 ||style="border: 3px solid green"|{{increase}} 33 || 83 || {{decrease}} 9
+|-
+| 88 || 2008 || 60 || {{increase}} 7 || 96 || {{decrease}} 23
+|-
+| 67 || 2007 || 52 || {{increase}} 20 || 80 || {{decrease}} 14
+|-
+| 81 || 2006 || 59 || {{increase}} 24 || 98 || style="border: 3px solid red"|{{decrease}} 39
+|-
+| 78 || 2005 || 76 || {{increase}} 15 || 101 || {{decrease}} 3
+|-
+| 100 || 2004 || 100 || {{increase}} 14 || 127 || {{decrease}} 2
+|-
+| 125 || 2003 || 116 || {{increase}} 9 || 130 || {{decrease}} 4
+|-
+| 129 || 2002 || 111 || {{steady}} || 129 || {{decrease}} 6
+|-
+| 109 || 2001 || 109 || {{increase}} 10 || 125 || {{decrease}} 2
+|-
+| 121 || 2000 || 118 || {{increase}} 16 || 139 || {{decrease}} 3
+|-
+| 138 || 1999 || 133 || {{increase}} 5 || 143 || {{decrease}} 2
+|-
+| 131 || 1998 || 120 || {{increase}} 4 || 131 || {{decrease}} 6
+|-
+| 119 || 1997 || 103 || {{increase}} 1 || 119 || {{decrease}} 5
+|-
+| 101 || 1996 || 101 || {{increase}} 15 || 133 || {{decrease}} 5
+|-
+| 126 || 1995 || 126 || {{increase}} 15 || style="border: 3px solid gold"|150 || {{decrease}} 15
+|-
+| 140 || 1994 || 130 || {{increase}} 1 || 140 || {{decrease}} 5
+|-
+| 132 || 1993 || 125 || {{increase}} 1 || 132 || {{decrease}} 5
+|}
+
+==See also==
+{{portal|Association football|Panama}}
+* [[Panama national under-23 football team]]
+* [[Panama national under-20 football team]]
+* [[Panama national under-17 football team]]
+* [[Football in Panama]]
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+{{Commons category}}
+* {{Official website}} {{in lang|es}}
+* [https://www.fifa.com/about-fifa/associations/PAN Panama FIFA profile]
+
+{{Panama national football team}}
+{{2018 FIFA World Cup finalists}}
+{{2026 FIFA World Cup finalists}}
+{{Football in Panama}}
+{{CONCACAF teams}}
+{{National sports teams of Panama}}
+
+[[Category:Panama national football team| ]]
+[[Category:Central American national association football teams]]

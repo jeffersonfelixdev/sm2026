@@ -1,0 +1,2104 @@
+{{Short description|Men's association football team}}
+{{About|the men's team|the women's team|Turkey women's national football team}}
+{{pp-vandalism|small=yes}}
+{{Use dmy dates|date=November 2022}}
+{{Infobox national football team
+| Name                     = Türkiye
+| Nickname                 = {{lang|tr|Ay-Yıldızlılar}} (The Crescent-Stars)<ref>{{cite news|title=Türkiye sneak through as best third-placed team|url=https://www.uefa.com/uefaeuro/history/teams/135--turkiye/|publisher=[[UEFA]]|date=14 October 2015|access-date=13 March 2015|archive-date=19 February 2024|archive-url=https://web.archive.org/web/20240219135430/https://www.uefa.com/euro2024/teams/135--turkiye/|url-status=live}}</ref><br>
+{{lang|tr|Bizim Çocuklar}}<br>(Our Boys)<ref>{{cite news|title=#BizimÇocuklar bu şarkıyla tarih yazacak|trans-title=#OurChildren will make history with this song|url=https://www.tff.org/default.aspx?pageID=628&ftxtID=35326|publisher=[[Turkish Football Federation]]|date=9 June 2021|language=Tr|access-date=9 June 2021|archive-date=9 June 2021|archive-url=https://web.archive.org/web/20210609194915/https://www.tff.org/default.aspx?pageID=628&ftxtID=35326|url-status=live}}</ref><br>
+| Badge                    = Roundel flag of Turkey.svg
+| Badge_size               = 195px
+| Association              = [[Turkish Football Federation]] (TFF)
+| Confederation            = [[UEFA]] (Europe)
+| website                  = [https://www.tff.org/ tff.org]
+| Coach                    = [[Vincenzo Montella]]
+| Captain                  = [[Hakan Çalhanoğlu]]
+| Most caps                = [[Rüştü Reçber]] (120)
+| Top scorer               = [[Hakan Şükür]] ([[List of international goals scored by Hakan Şükür|51]])
+| Home Stadium             = [[List of football stadiums in Turkey|Various]]
+| FIFA Trigramme           = TUR<ref name=FIFACode>{{cite web |url=https://www.rsssf.org/miscellaneous/fifa-codes.html |title=FIFA Country Codes |date=6 August 2015 |access-date=10 January 2016 |last=Jeffree |website=[[RSSSF]] |first=Iain |archive-date=19 September 2000 |archive-url=https://web.archive.org/web/20000919111901/http://www.rsssf.com/miscellaneous/fifa-codes.html |url-status=live }}</ref>
+| FIFA Rank                = {{FIFA World Rankings|TUR}}
+| FIFA max                 = 5
+| FIFA max date            = June 2004
+| FIFA min                 = 67
+| FIFA min date            = October 1993
+| Elo Rank                 = {{World Football Elo Ratings|Turkey}}
+| Elo max                  = 10
+| Elo max date             = 16 October 2020, November 2002
+| Elo min                  = 72
+| Elo min date             = 13 November 1985, 29 October 1986
+| pattern_la1              = _tur26a
+| pattern_b1               = _tur26a
+| pattern_ra1              = _tur26a
+| pattern_sh1              = _tur26a
+| pattern_so1              = 
+| leftarm1                 = ff0000
+| body1                    = ff0000
+| rightarm1                = ff0000
+| shorts1                  = ff0000
+| socks1                   = ff0000
+| pattern_la2              = _tur26h
+| pattern_b2               = _tur26h
+| pattern_ra2              = _tur26h
+| pattern_sh2              = _tur26h
+| pattern_so2              = 
+| leftarm2                 = FFFFFF
+| body2                    = FFFFFF
+| rightarm2                = FFFFFF
+| shorts2                  = FFFFFF
+| socks2                   = FFFFFF
+| First game               = {{Fb|TUR}} 2–2 {{fb-rt|ROU}}<br>([[Istanbul]],Turkey; 26 October 1923){{efn|Since the Republic was not formally declared by the time of the event, the game was played between Romania and [[Turkish Football Federation|TFF]]. The city also was not consistently known as Istanbul in the English-speaking world until 1930.}}
+| Largest win              = {{fb|TUR}} 7–0 {{fb-rt|SYR|1932}}<br>([[Ankara]],Turkey; 20 November 1949)<br>{{fb|TUR}} 7–0 {{fb-rt|KOR|1949}}<br>([[Geneva]], Switzerland; 20 June 1954)<br>{{fb|TUR}} 7–0 {{fb-rt|SMR|1862}}<br>([[Istanbul]], Turkey; 10 November 1996)
+| Largest loss             = {{fb|POL|1928}} 8–0 {{fb-rt|TUR}}<br>([[Chorzów]], Poland; 24 April 1968)<br>{{fb|TUR}} 0–8 {{fb-rt|ENG}}<br>([[Istanbul]],Turkey; 14 November 1984)<br>{{fb|ENG}} 8–0 {{fb-rt|TUR}}<br>([[London]], England; 14 October 1987)<br>
+| World cup apps           = 3
+| World cup first          = 1954
+| World cup best           = Third place ([[2002 FIFA World Cup|2002]])
+| Regional name            = [[UEFA European Championship|European Championship]]
+| Regional cup apps        = 6
+| Regional cup first       = [[UEFA Euro 1996|1996]]
+| Regional cup best        = Semi-finals ([[UEFA Euro 2008|2008]])
+| Confederations cup apps  = 1
+| Confederations cup first = [[2003 FIFA Confederations Cup|2003]]
+| Confederations cup best  = Third place ([[2003 FIFA Confederations Cup|2003]])
+| 2ndRegional name         = [[Football at the Summer Olympics|Olympic Games]]
+| 2ndRegional cup apps     = 6
+| 2ndRegional cup first    = [[Football at the 1924 Summer Olympics|1924]]
+| 2ndRegional cup best     = Quarter-finals ([[Football at the 1948 Summer Olympics|1948]], [[Football at the 1952 Summer Olympics|1952]])
+| medaltemplates           = 
+{{Medal|Competition|[[FIFA World Cup]]}}
+{{MedalBronze|[[2002 FIFA World Cup|2002 Korea and Japan]]|[[2002 FIFA World Cup squads#Turkey|Team]]}}
+{{MedalCompetition|[[FIFA Confederations Cup]]}}
+{{MedalBronze|[[2003 FIFA Confederations Cup|2003 France]]|[[2003 FIFA Confederations Cup squads#Turkey|Team]]}}
+{{MedalCompetition|[[UEFA European Championship]]}}
+{{MedalBronze|[[UEFA Euro 2008|2008 Austria and Switzerland]]{{Efn|Although there was no [[Third place playoff|third-place play-off]] match, UEFA decided to award the defeated semi-finalists of Euro 2008 with bronze medals.<ref>{{cite web |title=Regulations of the UEFA European Football Championship 2006/08 |url=https://www.uefa.com/newsfiles/19079.pdf |publisher=UEFA |access-date=13 October 2024 |location=2.08 |page=3 }}</ref>}}|[[UEFA Euro 2008 squads#Turkey|Team]]}}
+}}
+
+The '''Turkey national football team''' ({{langx|tr|Türkiye millî futbol takımı}}), recognized as '''Türkiye''' by [[FIFA]] and [[UEFA]],<ref>{{cite web |title=Turkey |url=https://inside.fifa.com/about-fifa/associations/TUR |access-date=15 January 2025 |website=FIFA.com}}</ref><ref>{{Cite web |title=Turkish Football Federation |url=https://www.uefa.com/nationalassociations/tur/ |access-date=8 June 2022 |website=[[UEFA]] |archive-date=26 May 2022 |archive-url=https://web.archive.org/web/20220526085222/https://www.uefa.com/insideuefa/national-associations/tur/ |url-status=live}}</ref> represent [[Turkey]] in men's international [[Association football|football]] matches. The team are controlled by the [[Turkish Football Federation]] (TFF), the governing body for [[football in Turkey]], which was founded in 1923, and have been a member of [[FIFA]] since 1923 and [[UEFA]] since 1962.<ref name="TFF FIFA UEFA Status">{{cite news|title=TFF » İş Ortakları|url=https://www.tff.org/default.aspx?pageID=356|publisher=[[Turkish Football Federation]]|access-date=2 September 2020|language=tr|archive-url=https://archive.today/20200902113708/https://www.tff.org/default.aspx?pageID=356|archive-date=2 September 2020|url-status=live}}</ref>
+
+The team played their first official international game in 1923 and have represented the nation in major competitions since their debut appearance at the [[1924 Summer Olympics]]. They have participated in the Summer Olympics a total of six times ([[1924 Summer Olympics|1924]], [[1928 Summer Olympics|1928]], [[1936 Summer Olympics|1936]], [[1948 Summer Olympics|1948]], [[1952 Summer Olympics|1952]], and [[1960 Summer Olympics|1960]]) and reached the quarter-finals twice, in 1948 and 1952.
+
+The team enjoyed their highest achievements in the 2000s, most notably finishing in third place at the [[2002 FIFA World Cup]] and the [[2003 FIFA Confederations Cup]], and reaching the semi-finals at [[UEFA Euro 2008]]. They have qualified for the [[FIFA World Cup]] four times ([[1950 FIFA World Cup|1950]],{{efn|Turkey withdrew due to financial reasons.<ref name="1950 WC Failure (1)">{{cite news|newspaper=[[Milliyet]]|title=Futbol Denen Oyun...|trans-title=This game, refer to as "football"|date=10 February 1982|page=14|language=tr}}</ref><ref name="1950 WC Failure (2)">{{cite news|title=Türkiye 1950 Dünya Kupası'na şartlar yüzünden gidemedi!|url=https://www.milliyet.com.tr/skorer/turkiye-1950-dunya-kupasina-sartlar-yuzunden-gidemedi-1888449|agency=[[Anadolu News Agency]]|publisher=[[Milliyet]]|date=27 May 2014|access-date=17 August 2020|language=tr|archive-url=https://archive.today/20200817211221/https://www.milliyet.com.tr/skorer/turkiye-1950-dunya-kupasina-sartlar-yuzunden-gidemedi-1888449|archive-date=17 August 2020}}</ref>}} [[1954 FIFA World Cup|1954]], [[2002 FIFA World Cup|2002]], and [[2026 FIFA World Cup|2026]]) and reached the semi-finals in 2002, winning the bronze medal. The team qualified for the [[UEFA European Championship]] six times. Making their debut at [[UEFA Euro 1996|Euro 1996]], they reached the quarter-finals in [[UEFA Euro 2000|Euro 2000]] and semi-finals in [[UEFA Euro 2008|Euro 2008]].
+
+The country entered a resurgence in 2016, beginning with successful qualification campaigns for the [[UEFA Euro 2016|Euro 2016]], [[UEFA Euro 2020|Euro 2020]], and [[UEFA Euro 2024|Euro 2024]] championships, reaching the quarter-finals of the latter; and, after 24 years of absence, qualifying for the [[2026 FIFA World Cup]] under current head coach [[Vincenzo Montella]]. The team were also promoted to [[2026–27 UEFA Nations League A|League A]], the top division of the [[UEFA Nations League]], for the first time in their history in 2025.
+
+In October 2023, Turkey were named as a co-host for [[UEFA Euro 2032]] and will qualify automatically for the tournament.
+
+==History==
+{{Further|History of Turkish football}}
+
+===Early years===
+[[File:Militakim1922.jpg|right|250px|thumb|One of the early formations in 1922]]
+[[File:Ilkmac1923.jpg|right|250px|thumb|Türkiye against [[Romania national football team|Romania]] in 1923]]
+The Turkish national team's first game was against [[Romania national football team|Romania]], played on 26 October 1923 at [[Taksim Stadium]] in [[Istanbul]], a 2–2 draw.<ref>{{cite web|last=Erdinç|first=Sivritepe|title=Turkey 2–2 Romania|url=https://www.angelfire.com/nj/sivritepe/2324/znta.html|work=Türkiye international football matches|access-date=31 October 2010|archive-date=19 August 2018|archive-url=https://web.archive.org/web/20180819001703/http://www.angelfire.com/nj/sivritepe/2324/znta.html|url-status=live}}</ref> [[Zeki Rıza Sporel]] is considered the first big star of Turkish football as he scored the first two goals against Romania. Turkey played their first ever official match at the [[Football at the 1924 Summer Olympics|1924 Summer Olympics]] losing to [[Czechoslovakia national football team|Czechoslovakia]] 5–2. The first two goals in an official game were scored by [[Bekir Refet]].
+
+===1950s===
+[[File:Turkey national football team (28.05.1950).png|250px|thumb|Turkey in 1950]]
+Although Turkey qualified for the [[1950 FIFA World Cup|1950 World Cup]], beating [[Syria national football team|Syria]] 7–0, they were forced to withdraw from the tournament due to financial problems.
+
+Turkey then qualified for the [[1954 FIFA World Cup|1954 World Cup]] after a play-off with [[Spain national football team|Spain]]. They first lost 4–1 to Spain, but a 1–0 win a few days later initiated a replay (there was no clause for aggregate results in the rules at the time, which would have qualified Spain). On that occasion, they tied 2–2 after, booking their place after a coin toss. Turkey was grouped along with [[Hungary national football team|Hungary]] and [[Germany national football team|West Germany]]. The Turks, however, never played Hungary due to the tournament format (Spain had been selected as a seeded team prior to the end of the qualification, and when Turkey qualified at their expense, they inherited the seed), and a 4–1 defeat by the Germans was followed by Turkey carrying out a 7–0 win over [[South Korea national football team|South Korea]]. Turkey lost the play-off game to West Germany 7–2.
+[[File:Alemania v Turquía, Estadio, 1954-08-07 (586).jpg|thumb|150px|Turkey against West Germany at the 1954 World Cup]]
+In 1956, however, Turkey did play Hungary in a friendly match in [[Istanbul]], defeating [[Golden Team|what was one of the strongest teams of the era]], 3–1.<ref>{{cite web| title=Magical Magyars beating| url=http://www.macanilari.com/19.Subat.1956_1955-1958.Turk.Milli.Takim._Ozel.Mac_.Dostluk.Maci.Turkiye.3-1.Macaristan-195519589506--.html| access-date=16 September 2010| archive-date=19 February 2024| archive-url=https://web.archive.org/web/20240219135420/http://www.macanilari.com/19.Subat.1956_1955-1958.Turk.Milli.Takim._Ozel.Mac_.Dostluk.Maci.Turkiye.3-1.Macaristan-195519589506--.html| url-status=live}}</ref> [[Lefter Küçükandonyadis]], arguably one of the best Turkish strikers of all time, scored two goals during the tournament.
+
+===Near misses===
+[[File:Voetbal Nederland tegen Turkije in het Olympisch stadion Elftallen, Bestanddeelnr 909-5589.jpg|250px|thumb|Turkey against [[Netherlands national football team|Netherlands]] in 1958]]
+Despite the introduction of [[Süper Lig|a national league]], and showings by Turkish clubs in European competition, the 1960s would be a barren time for the national team. Most players from the 1954 World Cup squad had already retired, and the new generation of players failed to qualify for a major tournament.
+
+The 1970s saw Turkey holding back in the World Cup and [[UEFA European Championship]] qualifiers, but the team was a point too short to qualify for both [[UEFA Euro 1972]] and [[UEFA Euro 1976|Euro 1976]].
+[[File:Coşkun Özarı Coach.jpg|thumb|150px|[[Coşkun Özarı]] coached Turkey in the 1970s and 1980s]]
+In the 1980s the Turks also suffered one of their worst defeats with 8–0 scorelines twice against [[England national football team|England]]. The Turks had suffered an 8–0 defeat before against [[Poland national football team|Poland]] in 1968. But the [[1990 FIFA World Cup|1990 World Cup]] qualifiers would mark a turning point for Turkish football, with Turkey only missing out on qualification in the final match. Prominent players in this period included [[Rıdvan Dilmen]], [[Oğuz Çetin]], [[Rıza Çalımbay]], [[Feyyaz Uçar]], and [[European Golden Shoe|European Golden Boot]] winner [[Tanju Çolak]].
+
+===1990s===
+In 1990, coach [[Sepp Piontek]] was put in charge of the national team. Under his guidance, a group of new players debuted for the national team. Many of these players (which included [[Bülent Korkmaz]], [[Alpay Özalan]], [[Sergen Yalçın]], [[Rüştü Reçber]], and [[Hakan Şükür]]) would become the backbone of the national team for many years. Piontek's mission came to an end in 1993, when he was replaced by [[Fatih Terim]], who in turn managed to qualify for [[UEFA Euro 1996|Euro 1996]]. Turkiye qualified for its first major tournament since 1954. The appointment of Piontek was a recommended move by another coach, [[Jupp Derwall]], who had coached [[Galatasaray S.K. (football)|Galatasaray]] for three seasons.
+
+[[File:Stamp of Azerbaijan 425.jpg|thumb|180px|right|Turkish national football team on an [[Azerbaijan]] stamp for [[UEFA Euro 1996|Euro 1996]]]]
+Turkey qualified for Euro 1996, defeating both [[Switzerland national football team|Switzerland]] and [[Sweden men's national football team|Sweden]] 2–1 during qualification. Despite a solid performance during the [[UEFA Euro 1996 qualifying|qualifiers]], Turkey lost all their matches without scoring a single goal. They did, however, go home with an award: the fair play award, given to Özalan.
+
+===2000s===
+Although Turkey failed to qualify for the [[1998 FIFA World Cup|1998 World Cup]], they qualified for [[UEFA Euro 2000|Euro 2000]] after winning a play-off against the [[Republic of Ireland national football team|Republic of Ireland]]. Turkey lost their first match 2–1 to [[Italy national football team|Italy]], then drew their second match against [[Sweden men's national football team|Sweden]] 0–0, and beat host nation [[Belgium national football team|Belgium]] 2–0, making it the first time in the history of the UEFA European Championship a host nation had been eliminated in the first round. This victory brought Turkey into the quarter-finals of the tournament, where they were beaten 2–0 by [[Portugal national football team|Portugal]], with [[Arif Erdem]] missing a penalty.
+[[File:Belgium-Turkey 2000-06-19.svg|thumb|200px|Line-ups for the UEFA Euro 2000 game between Belgium and Turkey at the [[King Baudouin Stadium]], Brussels on 19 June 2000]]
+
+For the [[2002 FIFA World Cup|2002 World Cup]], Turkey finished second in their qualifying group, losing to Sweden in the match that would decide the number-one spot. The Turks were forced to play the play-offs against [[Austria national football team|Austria]]. They defeated the Austrians 6–0 on aggregate and booked their place in the finals. The Turkish team started the 2002 World Cup with a 2–1 defeat against [[2002 FIFA World Cup Final|eventual winners]] [[Brazil national football team|Brazil]].<ref>{{cite news|url=http://news.bbc.co.uk/sport3/worldcup2002/hi/matches_wallchart/brazil_v_turkey/default.stm|title=Brazil beat brave Turks|date=3 June 2002|work=BBC Sport|access-date=20 August 2009|archive-date=23 November 2009|archive-url=https://web.archive.org/web/20091123140331/http://news.bbc.co.uk/sport3/worldcup2002/hi/matches_wallchart/brazil_v_turkey/default.stm|url-status=live}}</ref> Turkey qualified from the group stage with a 3–0 win against [[China national football team|China PR]] after drawing 1–1 with [[Costa Rica national football team|Costa Rica]].<ref>{{cite news|url=http://news.bbc.co.uk/sport3/worldcup2002/hi/matches_wallchart/costa_rica_v_turkey/default.stm|title=Parks strike denies Turkey|date=14 June 2002|work=BBC Sport|access-date=20 August 2009|archive-date=11 May 2011|archive-url=https://web.archive.org/web/20110511134236/http://news.bbc.co.uk/sport3/worldcup2002/hi/matches_wallchart/costa_rica_v_turkey/default.stm|url-status=live}}</ref><ref>{{cite news|url=http://news.bbc.co.uk/sport3/worldcup2002/hi/matches_wallchart/turkey_v_china/default.stm|title=Turkey reach last 16|date=13 June 2002|work=BBC Sport|access-date=20 August 2009|archive-date=7 June 2009|archive-url=https://web.archive.org/web/20090607024932/http://news.bbc.co.uk/sport3/worldcup2002/hi/matches_wallchart/turkey_v_china/default.stm|url-status=live}}</ref> Turkey then faced co-hosts [[Japan national football team|Japan]] in the second round, winning 1–0.<ref>{{cite news|url=http://news.bbc.co.uk/sport3/worldcup2002/hi/matches_wallchart/japan_v_turkey/default.stm|title=Turkey end Japan's dream|date=18 June 2002|work=BBC Sport|access-date=20 August 2009|archive-date=11 May 2011|archive-url=https://web.archive.org/web/20110511134302/http://news.bbc.co.uk/sport3/worldcup2002/hi/matches_wallchart/japan_v_turkey/default.stm|url-status=live}}</ref> The Turkish team continued their run, as they beat [[Senegal national football team|Senegal]] 1–0 on a [[golden goal]] to book their place in the semi-finals, where a 1–0 defeat against eventual tournament winners Brazil forced them to play the third-place match. The Turks won the bronze medal after a 3–2 victory over co-hosts South Korea.<ref>{{cite news|url=http://news.bbc.co.uk/sport3/worldcup2002/hi/matches_wallchart/senegal_v_turkey/default.stm|title=Turkey's golden delight|date=22 June 2002|work=BBC Sport|access-date=20 August 2009|archive-date=5 September 2019|archive-url=https://web.archive.org/web/20190905093557/http://news.bbc.co.uk/sport3/worldcup2002/hi/matches_wallchart/senegal_v_turkey/default.stm|url-status=live}}</ref><ref>{{cite news|url=http://news.bbc.co.uk/sport3/worldcup2002/hi/matches_wallchart/brazil_v_turkey_semi_final/default.stm|title=Brazil stride into final|date=26 June 2002|work=BBC Sport|access-date=20 August 2009|archive-date=31 July 2012|archive-url=https://web.archive.org/web/20120731025831/http://news.bbc.co.uk/sport3/worldcup2002/hi/matches_wallchart/brazil_v_turkey_semi_final/default.stm|url-status=live}}</ref><ref>{{cite news|url=http://news.bbc.co.uk/sport3/worldcup2002/hi/matches_wallchart/south_korea_v_turkey/default.stm|title=Turkey finish in style|date=29 June 2002|work=BBC Sport|access-date=20 August 2009|archive-date=11 May 2011|archive-url=https://web.archive.org/web/20110511134224/http://news.bbc.co.uk/sport3/worldcup2002/hi/matches_wallchart/south_korea_v_turkey/default.stm|url-status=live}}</ref> Hakan Şükür scored Turkey's first goal in 10.8 seconds, despite the South Koreans kicking off first. It was the fastest goal in World Cup history.<ref>{{cite web|url=http://www.guinnessworldrecords.com/news/2014/6/world-cup-rewind-hakan-%C5%9Fuekuer-scores-the-tournament%E2%80%99s-fastest-ever-goal-57884/|title=World Cup Rewind: Hakan Şükür scores the tournament's fastest ever goal|website=guinnessworldrecords.com|publisher=[[Guinness World Records]]|date=6 June 2014|access-date=25 November 2018|archive-date=5 October 2015|archive-url=https://web.archive.org/web/20151005123353/http://www.guinnessworldrecords.com/news/2014/6/world-cup-rewind-hakan-%C5%9Fuekuer-scores-the-tournament%E2%80%99s-fastest-ever-goal-57884/|url-status=live}}</ref><ref>[[List of FIFA World Cup records#Goalscoring|Fastest Goals in World Cup History]]</ref>
+Tens of thousands of flag-waving Turkish fans greeted the World Cup squad on their return to [[Istanbul]], where they joined a massive street party at [[Taksim Square]].<ref>{{cite news|url=http://news.bbc.co.uk/sport3/worldcup2002/hi/team_pages/turkey/newsid_2077000/2077163.stm|title=Turkey heroes return home|date=1 July 2002|work=BBC Sport|access-date=20 August 2009|archive-date=6 June 2009|archive-url=https://web.archive.org/web/20090606115308/http://news.bbc.co.uk/sport3/worldcup2002/hi/team_pages/turkey/newsid_2077000/2077163.stm|url-status=live}}</ref> Rüştü Reçber, Alpay Özalan and [[Hasan Şaş]] were all included in the [[FIFA World Cup awards|All-Star Team]], with Reçber also being voted as the best goalkeeper in the [[UEFA Team of the Year|UEFA Team of the Year 2002]], while [[Şenol Güneş]] was being voted as the best manager.
+[[File:Turkey national football team stamp.jpg|thumb|left|280px|The Turkish national team on an [[Azerbaijan]]i stamp for the [[2002 FIFA World Cup]]]]
+
+In 2003, Turkey finished third at the [[2003 FIFA Confederations Cup|FIFA Confederations Cup]]. In the group stage, Turkey defeated the [[United States men's national soccer team|United States]] 2–1 before losing to [[Cameroon national football team|Cameroon]] 1–0. In their final group match, Turkey drew 2–2 against Brazil, eliminating them from the tournament. Turkey lost to eventual tournament winners [[France national football team|France]] 3–2 in the semi-finals, and then defeated [[Colombia national football team|Colombia]] 2–1 in the third-place match. [[Tuncay (footballer)|Tuncay]] scored three goals and an assist, which won him the Silver Shoe Award and the Silver Ball Award for the second-best player of the tournament.
+
+The Turks failed to qualify for [[UEFA Euro 2004|Euro 2004]] after [[Latvia national football team|Latvia]] won the qualification play-offs. They also missed out on the [[2006 FIFA World Cup|2006 World Cup]] after failing to win the play-offs, this time on away goals against Switzerland, again after finishing second in their group.
+
+Turkey qualified for their first international tournament in six years by finishing second behind [[Greece national football team|Greece]] in [[UEFA Euro 2008 qualifying Group C|Euro 2008 qualifying Group C]] to reach [[UEFA Euro 2008|the tournament]]. They were placed alongside Switzerland, Portugal, and the [[Czech Republic national football team|Czech Republic]] in [[UEFA Euro 2008 Group A|Group A]]. In their first match, they played Portugal and were beaten 2–0, but wins over Switzerland (2–1) and the Czech Republic (3–2)&nbsp;– both secured by late goals&nbsp;– meant qualification for the knockout stages.<ref>{{cite news|url=http://news.bbc.co.uk/sport2/hi/football/euro_2008/7362969.stm|title=Portugal 2–0 Turkey|date=7 June 2008|work=BBC Sport|access-date=20 August 2009|archive-date=10 October 2009|archive-url=https://web.archive.org/web/20091010201106/http://news.bbc.co.uk/sport2/hi/football/euro_2008/7362969.stm|url-status=live}}</ref><ref>{{cite news|url=http://news.bbc.co.uk/sport2/hi/football/euro_2008/7363001.stm|title=Switzerland 1–2 Turkey|date=11 June 2008|work=BBC Sport|access-date=20 August 2009|archive-date=26 February 2021|archive-url=https://web.archive.org/web/20210226233540/http://news.bbc.co.uk/sport2/hi/football/euro_2008/7363001.stm|url-status=live}}</ref><ref>{{cite news|url=http://news.bbc.co.uk/sport2/hi/football/euro_2008/7363029.stm|title=Turkey 3–2 Czech R & Switzerland 2–0 Portugal|date=15 June 2008|work=BBC Sport|access-date=20 August 2009|archive-date=5 March 2012|archive-url=https://web.archive.org/web/20120305085429/http://news.bbc.co.uk/sport2/hi/football/euro_2008/7363029.stm|url-status=live}}</ref> Turkey knocked out a host nation&nbsp;– Switzerland&nbsp;– in the group stages for the second time.<ref>{{cite web|url=https://www.fifa.com/confederationcup/news/newsid=804461.html|archive-url=https://web.archive.org/web/20080618003533/http://www.fifa.com/confederationcup/news/newsid=804461.html|url-status=dead|archive-date=18 June 2008|title=Turkey edge out Czechs in thriller|website=FIFA.com|publisher=FIFA|date=15 June 2008|access-date=20 August 2009}}</ref>
+
+The quarter-final against [[Croatia national football team|Croatia]] was goalless after 90 minutes, and Croatia led 1–0 in the final minute of extra time, but another late Turkish goal by forward [[Semih Şentürk]] brought the game to penalties. The goal raised some controversy with Croatia fans and Croatia head coach [[Slaven Bilić]], who claimed that the goal had been scored after extra time had elapsed. This complaint, however, was overruled, and the game went into penalties. Turkey defeated Croatia 3–1 on penalties.<ref>{{cite news|url=http://news.bbc.co.uk/sport2/hi/football/euro_2008/7363499.stm|title=Croatia 1–1 Turkey (1–3 pens)|date=20 June 2008|website=BBC Sport|access-date=20 August 2009|archive-date=5 December 2014|archive-url=https://web.archive.org/web/20141205081727/http://news.bbc.co.uk/sport2/hi/football/euro_2008/7363499.stm|url-status=live}}</ref>
+[[File:GER-TUR 2008-06-25.svg|thumb|200px|Line-ups for the UEFA Euro 2008 match between Germany and Turkey on 25 June 2008 at [[St. Jakob-Park]], Basel]]
+Turkey went into the semi-final against Germany with just 14 outfield players available as a result of injuries and suspensions but scored first and were drawing 2–2. But they finished third by default after losing 3–2 with a last-minute goal by [[Philipp Lahm]].<ref>{{cite news|url=http://news.bbc.co.uk/sport2/hi/football/euro_2008/7363524.stm|title=Germany 3–2 Turkey|date=25 June 2008|website=BBC Sport|access-date=20 August 2009|archive-date=2 November 2008|archive-url=https://web.archive.org/web/20081102220824/http://news.bbc.co.uk/sport2/hi/football/euro_2008/7363524.stm|url-status=live}}</ref>
+
+[[File:5 juin 2009, stade Gerland à Lyon. France - Turquie (1-0).jpg|thumb|250px|right|Turkey against [[France national football team|France]] on 5 June 2009]]
+
+===2010s===
+Turkey was drawn in [[2010 FIFA World Cup qualification – UEFA Group 5|UEFA Group 5]] together with [[Armenia national football team|Armenia]], [[Belgium national football team|Belgium]], [[Bosnia and Herzegovina national football team|Bosnia and Herzegovina]], [[Estonia national football team|Estonia]] and [[Spain national football team|Spain]]. Turkey had a mixed qualifying campaign, finishing with 15 points and missing out on a play-off place to Bosnia and Herzegovina with 19 points. Spain topped the group to qualify, winning every game in the process. Coach Fatih Terim announced he would be resigning his post following their failure to qualify.<ref>{{cite web|url=https://www.theguardian.com/football/2009/oct/11/fatih-terim-turkey-resigns|title=Terim Resignation|date=7 June 2008|work=Guardian Sport|access-date=20 August 2009|archive-date=12 January 2015|archive-url=https://web.archive.org/web/20150112101859/http://www.theguardian.com/football/2009/oct/11/fatih-terim-turkey-resigns|url-status=live}}</ref>
+
+[[File:Tuerkische Fußballnationalmannschaft 2011-09-06 (02).jpg|thumb|right|250px|The Turks during Euro 2012 qualification]]
+Turkey was drawn in [[UEFA Euro 2012 qualifying Group A|Group A]] in [[UEFA Euro 2012 qualifying|qualification]] for [[UEFA Euro 2012|Euro 2012]], together with [[Kazakhstan national football team|Kazakhstan]], Austria, Belgium, Germany and [[Azerbaijan national football team|Azerbaijan]]. The Turks reached the play-offs after beating Azerbaijan 1–0 but were eliminated 3–0 on aggregate by Croatia.
+
+On 14 November 2012, Turkey celebrated their 500th match in a friendly game played against [[Denmark national football team|Denmark]] at the [[Türk Telekom Arena]], Istanbul, which ended in a 1–1 draw. Before the match, footballers and coaches, who contributed to the national team's success in the past, were honored. Turkish pop singer [[Hadise]], who wore a national team jersey with the number 500, performed a small concert.<ref>{{cite news |url=http://www.hurriyetdailynews.com/turkey-marks-500th-match.aspx?pageID=238&nID=34580&NewsCatID=362 |newspaper=[[Hürriyet Daily News]] |title=Turkey marks 500th match |date=14 November 2012 |access-date=15 November 2012 |archive-date=12 January 2015 |archive-url=https://web.archive.org/web/20150112042152/http://www.hurriyetdailynews.com/turkey-marks-500th-match.aspx?pageID=238&nID=34580&NewsCatID=362 |url-status=live }}</ref><ref>{{cite news |url=http://www.hurriyet.com.tr/spor/futbol/21925790.asp |newspaper=[[Hürriyet]] Spor |title=Türkiye 1–1 Danimarka |last=Er |first=İsmail |date=15 November 2012 |language=tr |access-date=15 November 2012 |archive-date=16 November 2012 |archive-url=https://web.archive.org/web/20121116031734/http://www.hurriyet.com.tr/spor/futbol/21925790.asp |url-status=live }}</ref>
+
+Turkey was drawn in [[2014 FIFA World Cup qualification&nbsp;– UEFA Group D|Group D]] in [[2014 FIFA World Cup qualifying|qualification]] for the [[2014 FIFA World Cup|2014 World Cup]], together with [[Andorra national football team|Andorra]], Estonia, Hungary, the [[Netherlands national football team|Netherlands]] and Romania, finishing fourth. [[Abdullah Avcı]] was sacked soon after. Fatih Terim was put in charge for the third time to lead the national team, but a 2–0 defeat against the Netherlands ended hopes of qualification.
+
+[[File:AUT vs. TUR 2016-03-29 (001).jpg|right|thumb|250px|Turkey against [[Austria national football team|Austria]] on 29 March 2016]]
+Grouped in [[UEFA Euro 2016 qualifying Group A|Group A]] in the [[UEFA Euro 2016 qualifying|qualification campaign]] for [[UEFA Euro 2016|Euro 2016]], with [[Iceland national football team|Iceland]], Latvia, Kazakhstan, the Netherlands, and the Czech Republic, the team qualified for their first major tournament in eight years as the best third-placed team after beating Iceland 1–0, with [[Selçuk İnan]] netting a free kick in the 89th minute, along with Kazakhstan beating Latvia 1–0.<ref>{{Cite web |date=2015-10-13 |title=Turkey qualify as Selçuk İnan stunner seals win over Iceland |url=https://www.eurosport.com/football/euro-qualification/2016/selcuk-inan-scores-stunning-late-free-kick-to-seal-turkey-qualification_sto4948804/story.shtml |access-date=2024-01-22 |website=Eurosport |language=en |archive-date=9 December 2017 |archive-url=https://web.archive.org/web/20171209211509/http://www.eurosport.com/football/euro-qualification/2016/selcuk-inan-scores-stunning-late-free-kick-to-seal-turkey-qualification_sto4948804/story.shtml |url-status=live }}</ref><ref>{{Cite web |title=Football: Kazakh international happy to help Turkey |url=https://www.aa.com.tr/en/sports/football-kazakh-international-happy-to-help-turkey/445315 |access-date=2024-01-22 |website=www.aa.com.tr |archive-date=16 December 2023 |archive-url=https://web.archive.org/web/20231216020728/https://www.aa.com.tr/en/sports/football-kazakh-international-happy-to-help-turkey/445315 |url-status=live }}</ref><ref>{{Cite news |title=Turkey qualify for Euro 2016 after late free-kick against Iceland |url=https://www.skysports.com/football/news/12022/10027909/euro-round-up-turkey-leave-it-late |access-date=2024-01-22 |website=Sky Sports |language=en |archive-date=27 February 2018 |archive-url=https://web.archive.org/web/20180227155041/http://www.skysports.com/football/news/12022/10027909/euro-round-up-turkey-leave-it-late |url-status=live }}</ref><ref>{{Cite web |title=Netherlands loses 3-2 to Czech Republic, misses Euro 2016 |url=https://www.usatoday.com/story/sports/soccer/2015/10/13/netherlands-loses-3-2-to-czech-republic-misses-euro-2016/73886862/ |access-date=2024-01-22 |website=USA Today |language=en-US |archive-date=19 February 2024 |archive-url=https://web.archive.org/web/20240219135406/https://www.usatoday.com/story/sports/soccer/2015/10/13/netherlands-loses-3-2-to-czech-republic-misses-euro-2016/73886862/ |url-status=live }}</ref><ref>{{Cite news |last=Murray |first=Scott |date=2015-10-13 |title=Euro 2016 qualifiers clockwatch – as it happened |url=http://www.theguardian.com/football/live/2015/oct/13/turkey-v-iceland-and-holland-on-the-brink-euro-2016-qualifiers-clockwatch-live |access-date=2024-01-22 |work=The Guardian |language=en-GB |issn=0261-3077 |archive-date=12 October 2023 |archive-url=https://web.archive.org/web/20231012201806/https://www.theguardian.com/football/live/2015/oct/13/turkey-v-iceland-and-holland-on-the-brink-euro-2016-qualifiers-clockwatch-live |url-status=live }}</ref> After a year and a half of going unbeaten, a loss to England as a pre-tournament friendly ended the team's winning streak, subsequently leading to back-to-back losses against Croatia and Spain in the tournament. Turkey won their last game against the Czech Republic, 2–0. They nearly reached the last 16 until a late winner for Ireland against Italy meant that the latter instead qualified as one of the best third-placed teams.<ref>{{Cite web |date=2016-06-22 |title=How the UEFA EURO 2016 third-placed teams ended: UEFA EURO |url=https://www.uefa.com/uefaeuro/history/news/0253-0d818cd682ef-6b178979a7aa-1000--how-the-uefa-euro-2016-third-placed-teams-ended/ |access-date=2024-01-22 |website=[[UEFA]] |language=en |archive-date=19 February 2024 |archive-url=https://web.archive.org/web/20240219135408/https://www.uefa.com/uefaeuro/history/news/0253-0d818cd682ef-6b178979a7aa-1000--how-the-uefa-euro-2016-third-placed-teams-ended/ |url-status=live }}</ref>
+
+Placed with Croatia, [[Finland national football team|Finland]], Iceland, [[Kosovo national football team|Kosovo]] and [[Ukraine national football team|Ukraine]] for [[2018 FIFA World Cup qualification (UEFA)|2018 World Cup qualifying]], manager Fatih Terim left after an off-field incident,<ref>{{cite web|url=http://www.goal.com/en/news/fatih-terim-turkey-brawl/pznglloa6a3a1mhubqlunvndw|title=Terim leaves Turkey role after brawl|website=goal.com|publisher=Goal|date=26 July 2017|access-date=31 January 2018|archive-date=31 January 2018|archive-url=https://web.archive.org/web/20180131202706/http://www.goal.com/en/news/fatih-terim-turkey-brawl/pznglloa6a3a1mhubqlunvndw|url-status=live}}</ref> and 72-year-old former Romania manager [[Mircea Lucescu]] took over. After seven matches, Turkey were in pole position to qualify for the tournament, First, they boosted their World Cup hopes by beating Croatia 1–0, but a 3–0 defeat to Iceland at home ended automatic qualification hopes. After a 2–2 draw against Finland, the team finished fourth in Group I.
+
+Turkey was drawn with [[Russia national football team|Russia]] and Sweden in the [[2018–19 UEFA Nations League B]] and performed poorly, leading to a bottom finish. In the first game at home against 2018 World Cup host and quarter-finalist Russia, Turkey lost 2–1. Turkey then put up its best performance in the League, winning 3–2 against Sweden on Swedish soil. However, Turkey could not extend their performances and lost to Russia in [[Sochi]] before suffering a humiliating 1–0 home loss to Sweden, thus initially relegating Turkey to League C. However, UEFA rule changes meant Turkey was allowed to remain in League B.
+
+Turkey was drawn in Group H in the qualifying stages of Euro 2020 along with 2018 World Cup champions France, Iceland, [[Albania national football team|Albania]], [[Moldova national football team|Moldova]], and Andorra. Veteran coach [[Şenol Güneş]] revolutionized the team, with many young talents, combining them with experienced players like [[Burak Yılmaz]] and [[Emre Belözoglu]]. The team eventually managed to achieve a 2–0 victory against France in [[Konya]] and a 1–1 draw at the Stade de France. Turkey then struggled against Andorra in their first match, winning after an 89th-minute goal at [[Vodafone Park]] in Istanbul. Turkey's only defeat in the group came against Iceland in [[Reykjavík]], losing 2–1. The defeat came after the ill-treatment of the Turkish group at the Iceland customs, keeping them at the airport for three hours. This was followed by an Icelandic supporter holding a toilet brush to team captain Emre Belozoglu as a pretend microphone during an interview. The events were heavily criticized by the Turkish and European media. Turkey entered matchday nine as group leaders with 19 points. They and Iceland drew 0–0 at [[Turk Telekom Arena]] in Istanbul. After finishing behind France, a draw was enough to secure Turkey a spot in [[UEFA Euro 2020|Euro 2020 finals]], ahead of their away match against Andorra.<ref>{{cite web|url=https://www.theguardian.com/football/2021/jun/01/euro-2020-team-guides-part-3-turkey|title=Euro 2020 team guides part 3: Turkey|date=1 June 2021|work=Guardian|access-date=1 June 2021|archive-date=31 May 2021|archive-url=https://web.archive.org/web/20210531234925/https://www.theguardian.com/football/2021/jun/01/euro-2020-team-guides-part-3-turkey|url-status=live}}</ref>
+
+===2020s===
+[[File:Baku Olympic Stadium hosted final stage of European Football Championship Turkey-Wales Azerbaijani and Turkish presidents watched the game, June 2021 10.jpg|thumb|right|250px|Turkey during the [[UEFA Euro 2020]] group stage match against [[Wales national football team|Wales]] in [[Baku]]]]
+
+After qualifying for Euro 2020, which was postponed to June and July 2021 because of [[COVID-19 pandemic in Europe|COVID-19]], Turkey were drawn against Russia, alongside [[Hungary national football team|Hungary]] and [[Serbia national football team|Serbia]], in the [[2020–21 UEFA Nations League B]]. They performed poorly in their two opening games in September 2020. In the first game against Hungary at home, Turkey suffered a 1–0 defeat courtesy of a [[Dominik Szoboszlai]] goal from a free kick. Playing in [[Belgrade]], following [[Aleksandar Kolarov]]'s red card, the Turks were held goalless against Serbia. This hampered their chances of qualifying for League A, as their next opponents in October would be Russia—a team that Turkey haven't beaten since 1975—and Hungary.
+
+In [[Moscow]], Turkey drew 1–1 after [[Kenan Karaman]]'s equalizer. The Turkish side then drew 2–2 against Serbia at home.<ref>{{Cite web |date=2020-10-15 |title=With no wins in 4 matches, Turkey hopes in Nations League fade |url=https://www.dailysabah.com/sports/football/with-no-wins-in-4-matches-turkeys-hopes-in-nations-league-fade |access-date=2023-12-19 |website=Daily Sabah |language=en-US |archive-date=19 December 2023 |archive-url=https://web.archive.org/web/20231219171709/https://www.dailysabah.com/sports/football/with-no-wins-in-4-matches-turkeys-hopes-in-nations-league-fade |url-status=live }}</ref>
+
+Against Russia, [[Denis Cheryshev]] scored for the Russians to take an early lead, making the Turkish side look hapless. But after Russia's red card reduced the side to ten men, the Turks eventually won 3–2.<ref>{{Cite web |last=Shurrab |first=Hatem |title=Türkiye beat Russia while Italy win over Poland in UEFA Nations League |url=https://www.trtworld.com/sport/turkey-beat-russia-while-italy-win-over-poland-in-uefa-nations-league-41499 |access-date=2023-12-19 |website=Türkiye beat Russia while Italy win over Poland in UEFA Nations League |language=en |archive-date=19 December 2023 |archive-url=https://web.archive.org/web/20231219171708/https://www.trtworld.com/sport/turkiye-beat-russia-while-italy-win-over-poland-in-uefa-nations-league-41499 |url-status=live }}</ref><ref>{{Cite web |last=Asikci |first=Emre |date=November 15, 2020 |title=Nations League: Turkiye beat Russia 3-2 in Istanbul |url=https://www.aa.com.tr/en/sports/nations-league-turkey-beat-russia-3-2-in-istanbul/2044920 |access-date=2023-12-19 |website=www.aa.com.tr |archive-date=19 December 2023 |archive-url=https://web.archive.org/web/20231219171709/https://www.aa.com.tr/en/sports/nations-league-turkiye-beat-russia-3-2-in-istanbul/2044920 |url-status=live }}</ref><ref>{{Cite web |date=2020-11-16 |title=Turkey beat Russia 3-2 in Nations League - Turkish News |url=https://www.hurriyetdailynews.com/turkey-beat-russia-3-2-in-nations-league-160078 |access-date=2023-12-19 |website=Hürriyet Daily News |language=en |archive-date=19 December 2023 |archive-url=https://web.archive.org/web/20231219171708/https://www.hurriyetdailynews.com/turkey-beat-russia-3-2-in-nations-league-160078 |url-status=live }}</ref> The Turks then traveled to Hungary with the hope that a win against the Hungarians could mean possible promotion, if Russia lost to Serbia. While Russia suffered a humiliating 5–0 defeat away in Belgrade, Turkey also lost 2–0 to the Hungarians. That meant Turkey and Serbia were tied on points, but Turkey were relegated after they lost the head-to-head away goals tiebreaker, 2–0.<ref>{{Cite web |last=Erözden |first=Can |date=November 19, 2020 |title=Nations League: Turkiye relegated after loss to Hungary |url=https://www.aa.com.tr/en/sports/nations-league-turkey-relegated-after-loss-to-hungary/2048612 |access-date=2023-12-19 |website=www.aa.com.tr |archive-date=19 December 2023 |archive-url=https://web.archive.org/web/20231219171708/https://www.aa.com.tr/en/sports/nations-league-turkey-relegated-after-loss-to-hungary/2048612 |url-status=live }}</ref><ref>{{Cite web |date=2020-11-19 |title=Turkey relegated after loss to Hungary in Nations League - Turkish News |url=https://www.hurriyetdailynews.com/turkey-relegated-after-loss-to-hungary-in-nations-league-160155 |access-date=2023-12-19 |website=Hürriyet Daily News |language=en |archive-date=19 December 2023 |archive-url=https://web.archive.org/web/20231219171710/https://www.hurriyetdailynews.com/turkey-relegated-after-loss-to-hungary-in-nations-league-160155 |url-status=live }}</ref><ref>{{Cite web |agency=AA |date=2020-11-19 |title=Losing 2-0 to Hungary, Türkiye relegated to Nations League C |url=https://www.dailysabah.com/sports/football/losing-2-0-to-hungary-turkey-relegated-to-nations-league-c |access-date=2023-12-19 |website=Daily Sabah |language=en-US |archive-date=19 December 2023 |archive-url=https://web.archive.org/web/20231219171708/https://www.dailysabah.com/sports/football/losing-2-0-to-hungary-turkey-relegated-to-nations-league-c |url-status=live }}</ref> Such an outcome also meant Turkey would have to fight to get a direct [[2022 FIFA World Cup|Qatar 2022]] ticket as play-off qualification appeared slim with their relegation, in which the [[2022 FIFA World Cup qualification (UEFA)|2022 World Cup qualifiers]] that started in March 2021.
+
+Turkey had the honor of opening the Euro 2021 finals, but with [[Ciro Immobile]] and [[Lorenzo Insigne]] scoring, Turkey fell 3–0 to Italy. [[Roberto Mancini]]'s side had been frustrated by Turkey's defensive approach in the first half but broke through in the 53rd minute when a hard-hit cross from [[Domenico Berardi]] flew in off Turkish defender [[Merih Demiral]] for an own goal. They went on to lose the next two games to both [[Switzerland national football team|Switzerland]] and [[Wales national football team|Wales]], losing all three games alongside debutants [[North Macedonia national football team|North Macedonia]].
+
+In the [[2022 FIFA World Cup qualification (UEFA)|2022 World Cup qualifiers]], Turkey was drawn into [[2022 FIFA World Cup qualification – UEFA Group G|Group G]] with [[Netherlands national football team|the Netherlands]], [[Norway national football team|Norway]], [[Montenegro national football team|Montenegro]], [[Latvia national football team|Latvia]], and [[Gibraltar national football team|Gibraltar]]. After they finished second in their group behind the Netherlands,<ref>{{Cite web |last=Buğra Gökalp |first=Selçuk |date=November 17, 2021 |title=Turkey beat Montenegro 2-1, qualify for 2022 World Cup playoffs |url=https://www.aa.com.tr/en/sports/turkey-beat-montenegro-2-1-qualify-for-2022-world-cup-playoffs/2422795 |access-date=2023-12-19 |website=www.aa.com.tr |archive-date=19 December 2023 |archive-url=https://web.archive.org/web/20231219170453/https://www.aa.com.tr/en/sports/turkey-beat-montenegro-2-1-qualify-for-2022-world-cup-playoffs/2422795 |url-status=live }}</ref><ref>{{Cite news |title=Netherlands book place at World Cup |language=en-GB |work=BBC Sport |url=https://www.bbc.com/sport/football/59234079 |access-date=2023-12-19 |archive-date=17 November 2021 |archive-url=https://web.archive.org/web/20211117232151/https://www.bbc.com/sport/football/59234079 |url-status=live }}</ref><ref>{{Cite web |last=Corder |first=Mike |date=2021-11-16 |title=Netherlands beats Norway 2-0 to qualify for World Cup |url=https://apnews.com/article/soccer-sports-international-soccer-netherlands-europe-7d0652b7db6819ee8c300151acfe6103 |access-date=2023-12-19 |website=AP News |language=en |archive-date=19 December 2023 |archive-url=https://web.archive.org/web/20231219170454/https://apnews.com/article/soccer-sports-international-soccer-netherlands-europe-7d0652b7db6819ee8c300151acfe6103 |url-status=live }}</ref> they entered the [[2022 FIFA World Cup qualification – UEFA second round|2022 FIFA World Cup UEFA playoffs]] against [[Portugal national football team|Portugal]]<ref>{{Cite web |agency=AFP |date=2021-11-26 |title=Turkey to face Portugal in 2022 FIFA World Cup playoffs semifinal |url=https://www.dailysabah.com/sports/football/turkey-to-face-portugal-in-2022-fifa-world-cup-playoffs-semifinal |access-date=2023-12-19 |website=Daily Sabah |language=en-US |archive-date=19 December 2023 |archive-url=https://web.archive.org/web/20231219170453/https://www.dailysabah.com/sports/football/turkey-to-face-portugal-in-2022-fifa-world-cup-playoffs-semifinal |url-status=live }}</ref><ref>{{Cite web |last=Grounds |first=Ben |date=November 26, 2021 |title=World Cup play-offs: Portugal vs Turkey, Italy vs North Macedonia, Wales vs Austria and more |url=https://www.skysports.com/football/news/22524/12572039/world-cup-play-offs-portugal-face-turkey-while-italy-take-on-north-macedonia-in-crucial-semi-finals |access-date=2023-12-19 |website=Sky Sports |language=en |archive-date=19 December 2023 |archive-url=https://web.archive.org/web/20231219170453/https://www.skysports.com/football/news/22524/12572039/world-cup-play-offs-portugal-face-turkey-while-italy-take-on-north-macedonia-in-crucial-semi-finals |url-status=live }}</ref> but lost 3–1 in a game in which [[Burak Yılmaz]] missed a crucial penalty to equalise, so Turkey failed to qualify for the [[2022 FIFA World Cup]].<ref>{{Cite web |date=2022-03-24 |title=Portugal beats Turkey 3-1 to move closer to World Cup |url=https://apnews.com/article/soccer-sports-italy-world-cup-porto-47cf987a142c0eaadf58784e9c5fd778 |access-date=2023-12-19 |website=AP News |language=en |archive-date=19 December 2023 |archive-url=https://web.archive.org/web/20231219170453/https://apnews.com/article/soccer-sports-italy-world-cup-porto-47cf987a142c0eaadf58784e9c5fd778 |url-status=live }}</ref> Afterwards, Yılmaz announced his international retirement.<ref>{{Cite web |agency=Reuters |date=2022-03-25 |title=Turkey's Yilmaz announces international retirement after loss against Portugal |url=https://sportstar.thehindu.com/football/burak-yilmaz-retires-loss-portugal-wc-qualifiers/article38461827.ece |access-date=2023-12-19 |website=Sportstar |language=en |archive-date=19 December 2023 |archive-url=https://web.archive.org/web/20231219170453/https://sportstar.thehindu.com/football/burak-yilmaz-retires-loss-portugal-wc-qualifiers/article38461827.ece |url-status=live }}</ref><ref>{{Cite web |agency=AA |date=2022-03-25 |title=Turkey forward Burak Yılmaz quits national team after penalty drama |url=https://www.dailysabah.com/sports/football/turkey-forward-burak-yilmaz-quits-national-team-after-penalty-drama |access-date=2023-12-19 |website=Daily Sabah |language=en-US |archive-date=22 October 2023 |archive-url=https://web.archive.org/web/20231022164129/https://www.dailysabah.com/sports/football/turkey-forward-burak-yilmaz-quits-national-team-after-penalty-drama |url-status=live }}</ref>
+
+In [[2022–23 UEFA Nations League C]], they were drawn in Group 1 with [[Luxembourg national football team|Luxembourg]], [[Faroe Islands national football team|the Faroe Islanders]], [[Lithuania national football team|Lithuania]]. They were promoted to [[2024–25 UEFA Nations League|League B]] after recording 13 points in six games. Their Nations League success not only rewarded them a playoff place should they fail to qualify directly,<ref>{{Cite web |last=Erözden |first=Can |date=September 23, 2022 |title=Türkiye fight to secure 3-3 draw with Luxembourg but promoted to UEFA Nations B League |url=https://www.aa.com.tr/en/sports/turkiye-fight-to-secure-3-3-draw-with-luxembourg-but-promoted-to-uefa-nations-b-league/2692674 |access-date=2024-01-11 |website=www.aa.com.tr |archive-date=11 January 2024 |archive-url=https://web.archive.org/web/20240111182140/https://www.aa.com.tr/en/sports/turkiye-fight-to-secure-3-3-draw-with-luxembourg-but-promoted-to-uefa-nations-b-league/2692674 |url-status=live }}</ref> but also an easier draw in Group D with Croatia, Wales, [[Armenia national football team|Armenia]], and [[Latvia national football team|Latvia]]. They subsequently qualified directly on 16 October 2023 and finished first on 19 November 2023.<ref>{{Cite web |title=Türkiye beat Latvia 4-0 to qualify for UEFA EURO 2024 |url=https://www.trtworld.com/turkiye/turkiye-beat-latvia-4-0-to-qualify-for-uefa-euro-2024-15412644 |access-date=2023-12-28 |website=TRT World |archive-date=28 December 2023 |archive-url=https://web.archive.org/web/20231228033944/https://www.trtworld.com/turkiye/turkiye-beat-latvia-4-0-to-qualify-for-uefa-euro-2024-15412644 |url-status=live }}</ref><ref>{{Cite web |last=O'Connor |first=Philipp |date=15 October 2023 |title=Gavi strike sends Spain to Euro 2024, Turkey and Scotland also qualify |url=https://www.reuters.com/sports/soccer/spain-turkey-scotland-qualify-euro-2024-2023-10-15/ |access-date=December 27, 2023 |website=[[Reuters]] |archive-date=18 October 2023 |archive-url=https://web.archive.org/web/20231018071729/https://www.reuters.com/sports/soccer/spain-turkey-scotland-qualify-euro-2024-2023-10-15/ |url-status=live }}</ref><ref>{{Cite web  |date=2023-11-22 |title=Türkiye end Euro qualifiers in style as group leaders after Wales draw |url=https://www.dailysabah.com/sports/football/turkiye-end-euro-qualifiers-in-style-as-group-leaders-after-wales-draw |access-date=2023-12-28 |website=Daily Sabah |language=en-US |archive-date=28 December 2023 |archive-url=https://web.archive.org/web/20231228033943/https://www.dailysabah.com/sports/football/turkiye-end-euro-qualifiers-in-style-as-group-leaders-after-wales-draw |url-status=live }}</ref>
+
+Turkey took part in [[UEFA Euro 2024|Euro 2024]] Group F together with [[Portugal national football team|Portugal]], [[Czech Republic national football team|Czech Republic]] and play-off winner [[Georgia national football team|Georgia]] and finished the group in 2nd place. The team reached the quarter-finals by beating [[Austria national football team|Austria]] 2–1, then lost to the [[Netherlands national football team|Netherlands]] 2–1 and finished the tournament in 5th place.<ref>{{Cite web |title=Türkiye – UEFA EURO 2024 |url=https://www.uefa.com/euro2024/teams/135--turkiye/}}</ref>
+
+In [[2024–25 UEFA Nations League B]], they were drawn in Group 4 with [[Iceland national football team|Iceland]], [[Montenegro national football team|Montenegro]], and [[Wales national football team|Wales]]. Turkey finished second behind Wales following a 3–1 defeat to Montenegro in their final match.<ref>{{cite web |url=https://www.aa.com.tr/en/sports/wales-promoted-to-nations-league-a-after-turkiye-stunned-at-montenegro/3398405 |title=Wales promoted to Nations League A after Türkiye stunned at Montenegro |publisher=Anadolu Ajansı |date=20 November 2024 }}</ref> In the promotion play-offs against [[Hungary national football team|Hungary]] in March 2025, Turkey secured a 6–1 aggregate victory (3–1 and 3–0), earning promotion to [[2026–27 UEFA Nations League A|League A]] for the first time and their first win over Hungary in 18 years.<ref>{{cite web |url=https://www.dailysabah.com/sports/football/turkiye-storm-into-uefa-nations-league-a-with-3-0-win-over-hungary |title=Türkiye storm into UEFA Nations League A with 3-0 win over Hungary |publisher=Daily Sabah |date=23 March 2025 }}</ref>
+
+In the [[2026 FIFA World Cup qualification (UEFA)|2026 World Cup qualifiers]], Turkey was drawn into [[2026 FIFA World Cup qualification – UEFA Group E|Group E]] alongside Euro 2024 champions [[Spain national football team|Spain]], [[Georgia national football team|Georgia]], and [[Bulgaria national football team|Bulgaria]].<ref>{{Cite news |last=Asikci |first=Emre |date=13 December 2024 |title=World Cup 2026 European qualifiers draw unveiled |url=https://www.aa.com.tr/en/sports/world-cup-2026-european-qualifiers-draw-unveiled/3423951 |access-date=29 January 2026 |work=[[Anadolu Agency]]}}</ref> Despite earning a 2–2 away draw against Spain in their final group match in November 2025 and winning both home and away matches against Bulgaria and Georgia, Turkiye finished second due to an inferior goal difference, largely influenced by a 0–6 home defeat earlier in September, and thus advanced to the play-offs for the [[2026 FIFA World Cup qualification – UEFA second round|second consecutive time]].<ref>{{Cite news |last=Kallas |first=Fernando |date=19 November 2025 |title=Spain qualify for World Cup after 2-2 draw with Turkiye |url=https://www.reuters.com/sports/soccer/spain-qualify-world-cup-after-2-2-draw-with-turkey-2025-11-18/ |access-date=29 January 2026 |work=[[Reuters]]}}</ref>
+
+Drawn into [[2026 FIFA World Cup qualification – UEFA second round#Path C|Path C]], Turkey defeated [[Romania national football team|Romania]] 1–0 in the semi-finals in [[Istanbul]] on 26 March 2026, courtesy of a 53rd-minute goal by [[Ferdi Kadıoğlu]].<ref>{{cite web |url=https://www.dailysabah.com/sports/football/turkiye-edge-romania-move-within-1-win-of-world-cup-return/amp |title=Türkiye edge Romania, move within 1 win of World Cup return |publisher=Daily Sabah |date=26 March 2026 }}</ref> In the final, played away against [[Kosovo national football team|Kosovo]] in [[Pristina]] on 31 March, Turkey secured a 1–0 victory through a 53rd-minute strike by [[Kerem Aktürkoğlu]], qualifying for the [[2026 FIFA World Cup]], their first appearance in 24 years.<ref>{{cite web |url=https://www.reuters.com/sports/soccer/turkey-end-24-year-world-cup-drought-with-win-over-kosovo-2026-03-31/ |title=Turkey end 24-year World Cup drought with win over Kosovo |publisher=Reuters |date=31 March 2026 }}</ref>
+
+At the 2026 FIFA World Cup, Turkey greatly underperformed in [[2026 FIFA World Cup Group D|Group D]] and was the second nation in the World Cup to be eliminated after [[Haiti national football team|Haiti]]; losing 0–2 to [[Australia men's national soccer team|Australia]] in the opening match and then losing 0–1 to a 10-man [[Paraguay national football team|Paraguay]]. Turkey had 62 shots in the first 2 games, scoring 0 goals.<ref>{{Cite web |last=read |first=OneFootball·1 min |date=2026-06-20 |title=Turkey's crazy exit in numbers 🤯 |url=https://sports.yahoo.com/articles/crazy-numbers-behind-turkey-exit-065200537.html |access-date=2026-06-22 |website=Yahoo Sports |language=en-US}}</ref><ref>{{Cite web |last=Press |first=The Canadian |date=2026-06-20 |title=Paraguay eliminates Turkiye from World Cup with victory despite being down a man |url=https://www.tsn.ca/soccer/fifa-world-cup/article/paraguay-eliminates-turkiye-from-world-cup-with-victory-despite-being-down-a-man/ |access-date=2026-06-22 |website=TSN |language=en}}</ref> The team earned a late 3–2 victory in their final group match against co-hosts and group winners [[United States men's national soccer team|United States]], but finished bottom of their group with three points.<ref>{{cite news |last1=Dure |first1=Beau |title=Turkey 3-2 USA: World Cup 2026 – as it happened |url=https://www.theguardian.com/football/live/2026/jun/26/turkey-v-usa-world-cup-2026-live |access-date=26 June 2026 |work=the Guardian |date=26 June 2026}}</ref>
+
+===2030s===
+Turkey is set to take part of the [[UEFA Euro 2032]] having automatically qualified as co-host in October 2023 along with Italy who also automatically qualified as co-host.
+
+==Kit suppliers==
+{{Commons|Turkey national football team kits}}{{Football kit box|pattern_la=FFFFFF|pattern_b=_tur1923h|pattern_ra=_tur1923h|leftarm=|body=|rightarm=FFFFFF|shorts=FFFFFF|socks=111111|title=First kit of Turkey (1922)|width=}}Turkey's kit colors were home red kits and white away kits, manufactured by [[Adidas]], from 1983 to 2002. [[Nike, Inc.|Nike]] became the manufacturer in 2003. 17 years later, they switched their kit colors to white as the home kit and red as the away kit until 2026 (ahead of the upcoming World Cup qualifying play-offs) when red became the home kit and white became the away kit again.
+{| class="wikitable"
+|-
+! Kit provider
+! Period
+|-
+| {{flagicon|GER}} [[Adidas]]
+| 1983&minus;2002
+|-
+| {{flagicon|USA}} [[Nike, Inc.|Nike]]
+| 2003&minus;present
+|}
+
+== Rivalries ==
+
+Turkey has developed several notable rivalries, the most well-known being [[Croatia national football team|Croatia]]<ref>{{Cite news|url=https://apnews.com/24dbb8d918284353a71c83db96f89d23|title=Croatia and Turkey resume old European rivalry in Paris|work=AP News|access-date=2 July 2018|archive-date=2 July 2018|archive-url=https://web.archive.org/web/20180702064431/https://apnews.com/24dbb8d918284353a71c83db96f89d23|url-status=live}}</ref> and [[Greece national football team|Greece]].
+
+Turkey and Croatia have played each other nine times,<ref>{{Cite web|url=https://www.11v11.com/teams/croatia/tab/opposingTeams/opposition/Turkey/|title=Croatia national football team: record v Turkey|website=www.11v11.com|access-date=2 July 2018|archive-date=2 July 2018|archive-url=https://web.archive.org/web/20180702011259/https://www.11v11.com/teams/croatia/tab/opposingTeams/opposition/Turkey/|url-status=live}}</ref> with their first encounter at [[UEFA Euro 1996|Euro 1996]]; where both countries made their debuts in the opening match, which Croatia won 1–0.<ref>{{Cite news|url=https://www.uefa.com/uefaeuro/history/news/0254-0d7b32db832e-4e47db7d7ee0-1000--croatia-leave-it-late-against-turkey-in-euro-96-group-d/|title=UEFA EURO 1996 - History - Turkey-Croatia|date=2003-10-06|work=[[UEFA]]|access-date=2 July 2018|archive-date=3 July 2018|archive-url=https://web.archive.org/web/20180703183120/https://www.uefa.com/uefaeuro/season=1996/matches/round=227/match=52513/postmatch/report/index.html|url-status=live}}</ref> In [[UEFA Euro 2008|Euro 2008]], Turkey won on penalties after a 1–1 deadlock. The two teams faced each other in the [[UEFA Euro 2012 qualifying|2012 Euro qualifying play-offs]], with Croatia winning 3–0 in the first-leg in [[Istanbul]], and advancing to the tournament finals following a 0–0 draw in the second-leg.<ref>{{Cite news|url=https://www.uefa.com/uefaeuro/history/news/0254-0d7d23e88abc-9c0c36676205-1000--croatia-build-big-lead-in-turkey/|title=UEFA EURO 2012 - History - Turkey-Croatia|date=2011-11-11|work=[[UEFA]]|access-date=2 July 2018|archive-date=15 July 2018|archive-url=https://web.archive.org/web/20180715111454/https://www.uefa.com/uefaeuro/season=2012/matches/round=2000113/match=2008824/postmatch/report/index.html|url-status=live}}</ref><ref>{{Cite news|url=https://www.uefa.com/uefaeuro/match/2008828--croatia-vs-turkiye/|title=UEFA EURO 2012 - History - Croatia-Turkey |date=2011-11-15|work=[[UEFA]]|access-date=2 July 2018|archive-date=3 July 2018|archive-url=https://web.archive.org/web/20180703183116/https://www.uefa.com/uefaeuro/season=2012/matches/round=2000113/match=2008828/index.html|url-status=live}}</ref> The two teams faced each other once again in a European competition at [[UEFA Euro 2016|Euro 2016]], playing in the opening match of [[UEFA Euro 2016#Group D|Group D]], with Croatia winning 1–0.<ref>{{Cite news|url=https://www.bbc.com/sport/football/36454287|title=Turkey 0-1 Croatia|date=12 June 2016|work=BBC Sport|access-date=2 July 2018|archive-date=9 June 2023|archive-url=https://web.archive.org/web/20230609194511/https://www.bbc.com/sport/football/36454287|url-status=live}}</ref><ref>{{Cite news|url=http://sport.hrt.hr/339010/euro2016/euro-2016-hrvatska-turska|title=[VIDEO] Modrić golčinom srušio žestoke Turke!|work=Hrvatska radiotelevizija|access-date=2 July 2018|archive-date=2 July 2018|archive-url=https://web.archive.org/web/20180702065816/http://sport.hrt.hr/339010/euro2016/euro-2016-hrvatska-turska|url-status=live}}</ref> Only three months after the Euros, the two teams played in their opening match in [[2018 FIFA World Cup qualification – UEFA Group I|Group I of 2018 FIFA World Cup qualifying]], which finished 1–1.<ref>{{Cite web|url=https://www.fifa.com/worldcup/matches/round=276483/match=300332124/index.html|archive-url=https://web.archive.org/web/20150924231753/http://www.fifa.com/worldcup/matches/round=276483/match=300332124/index.html|url-status=dead|archive-date=24 September 2015|title=2018 FIFA World Cup Russia - Matches - Croatia-Turkey|website=FIFA|access-date=2 July 2018}}</ref> Exactly one year later, Turkey won the reverse fixture 1–0 at home, which played a key part in both countries' qualifying campaigns, although Turkey would not qualify for the World Cup while Croatia would finish runners-up behind France.<ref>{{Cite web|url=https://www.fifa.com/worldcup/matches/round=276483/match=300332110/index.html|archive-url=https://web.archive.org/web/20150924231731/http://www.fifa.com/worldcup/matches/round=276483/match=300332110/index.html|url-status=dead|archive-date=24 September 2015|title=2018 FIFA World Cup Russia - Matches - Turkey-Croatia|website=FIFA |access-date=2 July 2018}}</ref><ref>{{Cite news|url=http://sport.hrt.hr/403766/hrvatska-u-turskoj-trazi-vazne-bodove-za-plasman-na-sp-2035-hrt1|title=[VIDEO] Hrvatska izgubila u Eskisehiru, Turci slavili 1:0|work=Hrvatska radiotelevizija|access-date=2 July 2018|archive-date=2 July 2018|archive-url=https://web.archive.org/web/20180702065755/http://sport.hrt.hr/403766/hrvatska-u-turskoj-trazi-vazne-bodove-za-plasman-na-sp-2035-hrt1|url-status=live}}</ref> Turkey and Croatia would again face each other during the [[UEFA Euro 2024 qualifying]] campaign, where Turkey managed to shock Croatia with a 1–0 win away as the Turks managed to top the table of a qualification group for the first time in their history, whereas Croatia, despite a 2–0 away win earlier to Turkey, had struggled with a rather poor performance and only managed to qualify at the last hurdle.<ref>{{Cite web |date=2023-03-28 |title=Croatia Defeat Turkey 2-0 With Brace From Kovačić, Amazing Display From Livaković |url=https://croatiansports.com/croatia-0-turkey-0-245pm-et-kickoff-is-this-a-must-win-game/ |access-date=2024-06-13 |website=CROATIANSPORTS.COM |language=en}}</ref><ref>{{Cite news |date=2023-11-21 |title=Croatia 1-0 Armenia: Hosts secure final automatic Euro 2024 spot with Ante Budimir goal |url=https://www.bbc.com/sport/football/67411399 |access-date=2024-06-13 |work=BBC Sport |language=en-GB}}</ref>
+
+Turkey also has a historical rivalry with Greece. Playing 14 times, Turkey won eight matches, drew thrice, and lost only three games.<ref>{{Cite web|url=https://www.11v11.com/teams/turkey/tab/opposingTeams/opposition/Greece/|title=Turkey national football team: record v Greece|website=www.11v11.com|access-date=2 July 2018|archive-date=2 July 2018|archive-url=https://web.archive.org/web/20180702064434/https://www.11v11.com/teams/turkey/tab/opposingTeams/opposition/Greece/|url-status=live}}</ref> Both countries have been described as "punching above their weight", with Greece winning [[UEFA Euro 2004|Euro 2004]] after being classified as underdogs before the competition, and Turkey advancing to the semi-finals of [[UEFA Euro 2008|Euro 2008]], where they were knocked out by [[Germany national football team|Germany]]. Due to tension between the two countries and the dispute over [[Cyprus]], coupled with several incidents occurring during matches between Turkish and Greek clubs, it has been described as one of the biggest international football rivalries.<ref>{{Cite web|url=http://edition.cnn.com/2008/SPORT/football/11/06/first11.rivalries/index.html|title=Top 10 international rivalries|first=Greg|last=Duke|website=CNN|access-date=2 July 2018|archive-date=20 February 2020|archive-url=https://web.archive.org/web/20200220051229/http://edition.cnn.com/2008/SPORT/football/11/06/first11.rivalries/index.html|url-status=live}}</ref>
+
+==Results and fixtures==
+{{main|Turkey national football team results}}
+
+{{main|Turkey national football team results (2020–present)}}
+
+The following is a list of Turkey's match results in the last twelve months, as well as any future matches that have been scheduled.
+
+{{legend2|#CCFFCC|Win|border=1px solid #AAAAAA}}
+{{legend2|#FFFFCC|Draw|border=1px solid #AAAAAA}}
+{{legend2|#FFCCCC|Loss|border=1px solid #AAAAAA}}
+{{legend2|#FFFFFF|Fixture|border=1px solid #AAAAAA}}
+
+===2025===
+{{football box collapsible
+|format=1
+|date              = 4 September
+|time              = 20:00 [[Georgia Time|GET]] ([[UTC+04:00]])
+|round             = [[2026 FIFA World Cup qualification – UEFA Group E|2026 FIFA World Cup qualification]]
+|team1             = {{fb-rt|GEO}}
+|score             = 2–3
+|report            = https://www.uefa.com/european-qualifiers/match/2044211/
+|team2             = {{fb|TUR}}
+|goals1            =
+*[[Zuriko Davitashvili|Davitashvili]] {{goal|63}}
+*[[Khvicha Kvaratskhelia|Kvaratskhelia]] {{goal|90+8}}
+|goals2            =
+*[[Mert Müldür|Müldür]] {{goal|3}}
+*[[Kerem Aktürkoğlu|Aktürkoğlu]] {{goal|41||52}}
+|stadium           = [[Boris Paichadze National Stadium]]
+|location          = [[Tbilisi]], Georgia
+|attendance        = 44,238<ref>{{cite web |url=https://www.uefa.com/newsfiles/EURO/2026/2044211_FR.pdf |title=Full Time Report Qualifying round – Georgia v Türkiye |publisher=[[UEFA]] |date=4 September 2025 |access-date=4 September 2025}}</ref>
+|referee           = [[Davide Massa]] ([[Italian Football Federation|Italy]])
+|result            = W
+}}
+{{football box collapsible
+|format=1
+|date              = 7 September
+|time              = 21:45 [[Time in Turkey|TRT]] ([[UTC+03:00]])
+|round             = [[2026 FIFA World Cup qualification – UEFA Group E|2026 FIFA World Cup qualification]]
+|team1             = {{fb-rt|TUR}}
+|score             = 0–6
+|report            = https://www.uefa.com/european-qualifiers/match/2044234/
+|team2             = {{fb|ESP}}
+|goals1            =
+|goals2            =
+*[[Pedri]] {{goal|6||62}}
+*[[Mikel Merino|Merino]] {{goal|22||45+1||57}}
+*[[Ferran Torres|Torres]] {{goal|53}}
+|stadium           = [[Konya Metropolitan Municipality Stadium]]
+|location          = [[Konya]], Turkey
+|attendance        = 32,059<ref>{{cite web |url=https://www.uefa.com/newsfiles/EURO/2026/2044234_FR.pdf |title=Full Time Report Qualifying round – Türkiye v Spain |publisher=[[UEFA]] |date=7 September 2025 |access-date=7 September 2025}}</ref>
+|referee           = [[Michael Oliver (referee)|Michael Oliver]] ([[The Football Association|England]])
+|result            = L
+}}
+{{football box collapsible
+|format=1
+|date              = 11 October
+|time              = 21:45 [[Eastern European Summer Time|EEST]] ([[UTC+03:00]])
+|round             = [[2026 FIFA World Cup qualification – UEFA Group E|2026 FIFA World Cup qualification]]
+|team1             = {{fb-rt|BUL}}
+|score             = 1–6
+|report            = https://www.uefa.com/european-qualifiers/match/2044276/
+|team2             = {{fb|TUR}}
+|goals1            =
+*[[Radoslav Kirilov|Kirilov]] {{goal|13}}
+|goals2            =
+*[[Arda Güler|Güler]] {{goal|11}}
+*[[Viktor Popov|Popov]] {{goal|49|o.g.}}
+*[[Kenan Yıldız|Yıldız]] {{goal|52||56}}
+*[[Zeki Çelik|Çelik]] {{goal|66}}
+*[[İrfan Can Kahveci|Kahveci]] {{goal|90+3}}
+|stadium           = [[Vasil Levski National Stadium]]
+|location          = [[Sofia]], Bulgaria
+|attendance        = 10,059<ref>{{cite web |url=https://www.uefa.com/newsfiles/EURO/2026/2044276_FR.pdf |title=Full Time Report Qualifying round – Bulgaria v Türkiye |publisher=[[UEFA]] |date= 11 October 2025 |access-date= 11 October 2025}}</ref>
+|referee           = Luis Godinho ([[Portuguese Football Federation|Portugal]])
+|result            = W
+}}
+{{football box collapsible
+|format=1
+|date              = 14 October
+|time              = 21:45 [[Time in Turkey|TRT]] ([[UTC+03:00]])
+|round             = [[2026 FIFA World Cup qualification – UEFA Group E|2026 FIFA World Cup qualification]]
+|team1             = {{fb-rt|TUR}}
+|score             = 4–1
+|report            = https://www.uefa.com/european-qualifiers/match/2044302/
+|team2             = {{fb|GEO}}
+|goals1            =
+*[[Kenan Yıldız|Yıldız]] {{goal|14}}
+*[[Merih Demiral|Demiral]] {{goal|22||52}}
+*[[Yunus Akgün|Akgün]] {{goal|35}}
+|goals2            =
+*[[Giorgi Kochorashvili|Kochorashvili]] {{goal|64}}
+|stadium           = [[Kocaeli Stadium]]
+|location          = [[İzmit]], Turkey
+|attendance        = 26,633<ref>{{cite web |url=https://www.uefa.com/newsfiles/EURO/2026/2044302_FR.pdf |title=Full Time Report Qualifying round – Türkiye v Georgia |publisher=[[UEFA]] |date=14 October 2025 |access-date= 14 October 2025}}</ref>
+|referee           = [[Radu Petrescu (referee, born 1982)|Radu Petrescu]] ([[Romanian Football Federation|Romania]])
+|result            = W
+}}
+{{football box collapsible
+|format=1
+|date              = 15 November
+|time              = 20:00 [[Time in Turkey|TRT]] ([[UTC+03:00]])
+|round             = [[2026 FIFA World Cup qualification – UEFA Group E|2026 FIFA World Cup qualification]]
+|team1             = {{fb-rt|TUR}}
+|score             = 2–0
+|report            = https://www.uefa.com/european-qualifiers/match/2044322/
+|team2             = {{fb|BUL}}
+|goals1            =
+*[[Hakan Çalhanoğlu|Çalhanoğlu]] {{goal|18|pen.}}
+*[[Atanas Chernev|Chernev]] {{goal|83|o.g.}}
+|goals2            =
+|stadium           = [[Centennial Atatürk Stadium]]
+|location          = [[Bursa]], Turkey
+|attendance        = 42,756<ref>{{cite web |url=https://www.uefa.com/newsfiles/EURO/2026/2044322_FR.pdf |title=Full Time Report Qualifying round – Türkiye v Bulgaria |publisher=[[UEFA]] |date=15 November 2025 |access-date=15 November 2025}}</ref>
+|referee           = [[Nick Walsh (referee)|Nick Walsh]] ([[Scottish Football Association|Scotland]])
+|result            = W
+}}
+{{football box collapsible
+|format=1
+|date              = 18 November
+|time              = 20:45 [[Central European Time|CET]] ([[UTC+01:00]])
+|round             = [[2026 FIFA World Cup qualification – UEFA Group E|2026 FIFA World Cup qualification]]
+|team1             = {{fb-rt|ESP}}
+|score             = 2–2
+|report            = https://www.uefa.com/european-qualifiers/match/2044351/
+|team2             = {{fb|TUR}}
+|goals1            =
+*[[Dani Olmo|Olmo]] {{goal|4}}
+*[[Mikel Oyarzabal|Oyarzabal]] {{goal|62}}
+|goals2=
+*[[Deniz Gül|Gül]] {{goal|42}}
+*[[Salih Özcan|Özcan]] {{goal|54}}
+|stadium           = [[Estadio de La Cartuja]]
+|location          = [[Seville]], Spain
+|attendance        = 30,812<ref>{{cite web |url=https://www.uefa.com/newsfiles/EURO/2026/2044351_FR.pdf |title=Full Time Report Qualifying round – Spain v Türkiye |publisher=[[UEFA]] |date=18 November 2025 |access-date=18 November 2025}}</ref>
+|referee           = [[Felix Zwayer]] ([[German Football Association|Germany]])
+|result            = D
+}}
+
+===2026===
+{{football box collapsible
+|format     = 1
+|date       = 26 March
+|time       = 20:00 [[Time in Turkey|TRT]] ([[UTC+03:00]])
+|round      = [[2026 FIFA World Cup qualification – UEFA second round|2026 World Cup qualification play-offs]]
+|score      = 1–0
+|report     = https://www.uefa.com/european-qualifiers/match/2047078/
+|team1      = {{fb-rt|TUR}}
+|goals1     = *[[Ferdi Kadıoğlu|Kadıoğlu]] {{goal|53}}
+|team2      = {{fb|ROU}}
+|goals2     = 
+|stadium    = [[Beşiktaş Stadium]]
+|location   = [[Istanbul]], Turkey
+|attendance = 38,979<ref>{{cite web |url=https://www.uefa.com/newsfiles/EURO/2026/2047078_FR.pdf |title=Full Time Report KO Play-offs – Türkiye v Romania |publisher=[[UEFA]] |date=26 March 2026 |access-date=27 March 2026}}</ref>
+|referee    = [[François Letexier]] ([[French Football Federation|France]])
+|result     = W
+}}
+{{football box collapsible
+|format     = 1
+|date       = 31 March
+|time       = 20:45 [[Central European Summer Time|CEST]] ([[UTC+02:00]])
+|round      = [[2026 FIFA World Cup qualification – UEFA second round|2026 World Cup qualification play-offs]]
+|score      = 0–1
+|report     = https://www.uefa.com/european-qualifiers/match/2047084/
+|team1      = {{fb-rt|KOS}}
+|goals1     = 
+|team2      = {{fb|TUR}}
+|goals2     = 
+*[[Kerem Aktürkoğlu|Aktürkoğlu]] {{goal|53}}
+|stadium    = [[Fadil Vokrri Stadium]]
+|location   = [[Pristina]], Kosovo
+|attendance = 12,887<ref>{{cite web |url=https://www.uefa.com/newsfiles/EURO/2026/2047084_FR.pdf |title=Full Time Report KO Play-offs – Kosovo v Türkiye |publisher=[[UEFA]] |date=31 March 2026 |access-date=31 March 2026}}</ref>
+|referee    = [[Michael Oliver (referee)|Michael Oliver]] ([[The Football Association|England]])
+|result     = W
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[Exhibition game#Association football|Friendly]]
+|date       = 1 June
+|time       = 20:30 [[Time in Turkey|TRT]] ([[UTC+03:00]])
+|team1      = {{fb-rt|TUR}}
+|score      = 4–0
+|team2      = {{fb|MKD}}
+|report     = https://www.uefa.com/european-qualifiers/friendlies/match/2048300--turkiye-vs-north-macedonia/
+|goals1     =
+*[[Orkun Kökçü|Kökçü]] {{goal|2}}
+*[[Can Uzun|Uzun]] {{goal|16}}
+*[[Deniz Gül|Gül]] {{goal|53}}
+*[[Barış Alper Yılmaz|Yılmaz]] {{goal|70}}
+|goals2     =
+|location   = [[Istanbul]], Turkey
+|stadium    = [[Şükrü Saracoğlu Stadium]]
+|attendance = 33,994<ref>{{cite web |url=https://www.espn.com/soccer/match/_/gameId/401871359/north-macedonia-turkiye |title=Full Time Report KO Play-offs – Türkiye v North Macedonia |publisher=[[ESPN]] |date=1 June 2026 |access-date=1 June 2026}}</ref>
+|referee    = [[José Luis Munuera Montero]] ([[Spanish Football Federation|Spain]])
+|result     = W
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[Exhibition game#Association football|Friendly]]
+|date       = 6 June
+|time       = 18:00 [[Eastern Time Zone|EDT]] ([[UTC−04:00]])
+|team1      = {{fb-rt|TUR}}
+|score      = 2–1
+|team2      = {{fb|VEN}}
+|report     = https://www.uefa.com/european-qualifiers/friendlies/match/2048306--turkiye-vs-venezuela/
+|goals1     =
+*[[Barış Alper Yılmaz|Yılmaz]] {{goal|44}}
+*[[Yunus Akgün|Akgün]] {{goal|54}}
+|goals2     =
+*[[Gleiker Mendoza|Mendoza]] {{goal|13}}
+|location   = [[Fort Lauderdale, Florida|Fort Lauderdale]], [[Florida]], United States
+|stadium    = [[Inter Miami CF Stadium]]
+|attendance = 14,000<ref>{{cite web |url=https://www.bbc.com/sport/football/live/cr5pyz9eldmt |title=Venezuela vs. Türkiye |publisher=[[BBC Sport]] |date=6 June 2026 |access-date=6 June 2026}}</ref>
+|referee    = Daniel Quintero ([[Mexican Football Federation|Mexico]])
+|result     = W
+}}
+{{football box collapsible
+|format     = 1
+|round      = [[2026 FIFA World Cup]] [[2026 FIFA World Cup Group D|Group D]]
+|date       = 13 June
+|time       = 21:00 [[Pacific Time Zone|PDT]] ([[UTC−07:00]])
+|team1      = {{fb-rt|AUS}}
+|score      = 2–0
+|team2      = {{fb|TUR}}
+|report     = https://www.fifa.com/en/match-centre/match/17/285023/289273/400021463
+|goals1     = 
+*[[Nestory Irankunda|Irankunda]] {{goal|27}}
+*[[Connor Metcalfe|Metcalfe]] {{goal|75}}
+|goals2     =
+|location   = [[Vancouver]], [[British Columbia]], Canada
+|stadium    = [[BC Place]]
+|attendance = 52,497<ref>{{cite web |url=https://fdp.fifa.org/assetspublic/ce281/r12472/pdf/FullTimeMatchReport-English.pdf |title=Full Time Report Australia v. Türkiye 2-0 (1-0) |publisher=[[FIFA]] |date=13 June 2026 |access-date=13 June 2026}}</ref>
+|referee    = [[Jesús Valenzuela]] ([[Venezuelan Football Federation|Venezuela]])
+|result     = L
+}}
+{{football box collapsible
+|format     = 1
+|round      = [[2026 FIFA World Cup]] [[2026 FIFA World Cup Group D|Group D]]
+|date       = 19 June
+|time       = 20:00 [[Pacific Time Zone|PDT]] ([[UTC−07:00]])
+|team1      = {{fb-rt|TUR}}
+|score      = 0–1
+|team2      = {{fb|PAR}}
+|report     = https://www.fifa.com/en/match-centre/match/17/285023/289273/400021460
+|goals1     =
+|goals2     =
+*[[Matías Galarza (Paraguayan footballer)|Galarza]] {{goal|2}}
+|location   = [[Santa Clara, California|Santa Clara]], [[California]], United States
+|stadium    = [[Levi's Stadium]]
+|attendance = 68,827<ref>{{cite web |url=https://fdp.fifa.org/assetspublic/ce281/r12470/pdf/FullTimeMatchReport-English.pdf |title=Full Time Report Türkiye v. Paraguay 0-1 (0-1) |publisher=[[FIFA]] |date=19 June 2026 |access-date=19 June 2026}}</ref>
+|referee    = [[Iván Barton]] ([[Salvadoran Football Federation|El Salvador]])
+|result     = L
+}}
+{{football box collapsible
+|format     = 1
+|round      = [[2026 FIFA World Cup]] [[2026 FIFA World Cup Group D|Group D]]
+|date       = 25 June
+|time       = 19:00 [[Pacific Time Zone|PDT]] ([[UTC−07:00]])
+|team1      = {{fb-rt|TUR}}
+|score      = 3–2
+|team2      = {{fb|USA}}
+|goals1     = 
+*[[Arda Güler|Güler]] {{goal|10}}
+*[[Barış Alper Yılmaz|Yılmaz]] {{goal|31}}
+*[[Kaan Ayhan|Ayhan]] {{goal|90+8}}
+|goals2     = 
+*[[Auston Trusty|Trusty]] {{goal|3}}
+*[[Sebastian Berhalter|Berhalter]] {{goal|49}}
+|location   = [[Inglewood, California]]
+|stadium    = [[SoFi Stadium]]
+|attendance = 70,492<ref>{{cite web |url=https://fdp.fifa.org/assetspublic/ce281/r12468/pdf/FullTimeMatchReport-English.pdf |title=Full Time Report Türkiye v. USA 3-2 (2-1) |publisher=[[FIFA]] |date=25 June 2026 |access-date=25 June 2026}}</ref>
+|referee    = [[Mustapha Ghorbal]] ([[Algerian Football Federation|Algeria]])
+|report     = https://www.fifa.com/en/match-centre/match/17/285023/289273/400021459
+|result     = W
+}}
+{{football box collapsible
+|format=1
+|date              = 25 September
+|time              = 21:45 [[Time in Turkey|TRT]] ([[UTC+03:00]])
+|round             = [[2026–27 UEFA Nations League A]]
+|team1             = {{fb-rt|TUR}}
+|score             = 
+|report            = https://www.uefa.com/uefanationsleague/match/2048011/
+|team2             = {{fb|FRA}}
+|goals1            = 
+|goals2            = 
+|stadium           = [[Kocaeli Stadium]]
+|location          = [[İzmit]], Turkey
+|attendance        = 
+|referee           = 
+|result            = 
+}}
+{{football box collapsible
+|format=1
+|date              = 28 September
+|time              = 21:45 [[Time in Turkey|TRT]] ([[UTC+03:00]])
+|round             = [[2026–27 UEFA Nations League A]]
+|team1             = {{fb-rt|TUR}}
+|score             = 
+|report            = https://www.uefa.com/uefanationsleague/match/2047990/
+|team2             = {{fb|ITA}}
+|goals1            = 
+|goals2            = 
+|stadium           = [[Centennial Atatürk Stadium]]
+|location          = [[Bursa]], Turkey
+|attendance        = 
+|referee           = 
+|result            = 
+}}
+{{football box collapsible
+|format=1
+|date              = 2 October
+|time              = 20:45 [[Central European Summer Time|CEST]] ([[UTC+02:00]])
+|round             = [[2026–27 UEFA Nations League A]]
+|team1             = {{fb-rt|BEL}}
+|score             = 
+|report            = https://www.uefa.com/uefanationsleague/match/2047961/
+|team2             = {{fb|TUR}}
+|goals1            = 
+|goals2            = 
+|stadium           = [[Stade Maurice Dufrasne]]
+|location          = [[Liège]], Belgium
+|attendance        = 
+|referee           = 
+|result            = 
+}}
+{{football box collapsible
+|format=1
+|date              = 5 October
+|time              = 20:45 [[Central European Summer Time|CEST]] ([[UTC+02:00]])
+|round             = [[2026–27 UEFA Nations League A]]
+|team1             = {{fb-rt|ITA}}
+|score             = 
+|report            = https://www.uefa.com/uefanationsleague/match/2047938/
+|team2             = {{fb|TUR}}
+|goals1            = 
+|goals2            = 
+|stadium           = [[Stadio Renato Dall'Ara]]
+|location          = [[Bologna]], Italy
+|attendance        = 
+|referee           = 
+|result            = 
+}}
+{{football box collapsible
+|format=1
+|date              = 12 November
+|time              = 20:00 [[Time in Turkey|TRT]] ([[UTC+03:00]])
+|round             = [[2026–27 UEFA Nations League A]]
+|team1             = {{fb-rt|TUR}}
+|score             = 
+|report            = https://www.uefa.com/uefanationsleague/match/2047873/
+|team2             = {{fb|BEL}}
+|goals1            = 
+|goals2            = 
+|stadium           = 
+|location          = Turkey
+|attendance        = 
+|referee           = 
+|result            = 
+}}
+{{football box collapsible
+|format=1
+|date              = 15 November
+|time              = 20:45 [[Central European Time|CET]] ([[UTC+01:00]])
+|round             = [[2026–27 UEFA Nations League A]]
+|team1             = {{fb-rt|FRA}}
+|score             = 
+|report            = https://www.uefa.com/uefanationsleague/match/2047898/
+|team2             = {{fb|TUR}}
+|goals1            = 
+|goals2            = 
+|stadium           = [[Stade Atlantique]]
+|location          = [[Bordeaux]], France
+|attendance        = 
+|referee           = 
+|result            = 
+}}
+
+==Coaching staff==
+{{Main|List of Turkey national football team managers}}
+{{updated|1 August 2025|<ref>{{cite web|url=https://www.tff.org/Default.aspx?pageId=406|title=A Milli Takım Teknik Kadrosu|trans-title=Technical Staff of Senior National Team|language=tr|publisher=[[Turkish Football Federation]]|access-date=27 September 2021|archive-date=2 April 2007|archive-url=https://web.archive.org/web/20070402183318/https://www.tff.org/default.aspx?pageID=406|url-status=live}}</ref>}}
+[[File:Vincenzo Montella.jpg|thumb|[[Vincenzo Montella]], the current head coach of Turkey national football team.]]
+{| class="wikitable"
+|-
+!Position
+!Name
+|-
+|Head coach
+|{{flagicon|ITA}} [[Vincenzo Montella]]
+|-
+|rowspan="2"|Assistant coach(es)<ref>{{cite news |title=A Millî Takım Teknik Ekibi Belli Oldu - A Milli Takım Haber Detayları TFF |url=https://www.tff.org/default.aspx?pageID=202&ftxtID=42334 |access-date=6 October 2023 |work=www.tff.org |language=tr |archive-date=10 October 2023 |archive-url=https://web.archive.org/web/20231010103558/https://www.tff.org/default.aspx?pageID=202&ftxtID=42334 |url-status=live }}</ref>
+|{{flagicon|ITA}} [[Daniele Russo (footballer, born 1973)|Daniele Russo]]
+|-
+|{{flagicon|TUR}} [[Hakan Balta]]
+|-
+|rowspan="2"|Goalkeeping coach(es)
+|{{flagicon|TUR}} [[Ozan Özerkan]]
+|-
+|{{flagicon|TUR}} [[Emrah Karakovan]]
+|-
+|rowspan="3"|Fitness coach(es)
+|{{flagicon|ITA}} [[Pierpaolo Polino]]
+|-
+|{{flagicon|TUR}} [[Ömür Serdal Altunsöz]]
+|-
+|{{flagicon|TUR}} [[Vural Durmuş]]
+|-
+|rowspan="2"|Match analyst(s)
+|{{flagicon|ITA}} [[Massimo Crivellaro]]
+|-
+|{{flagicon|TUR}} [[Okan Aydıner]]
+|-
+|Team manager
+|{{flagicon|TUR}} [[Ceyhun Kazanci]]
+|}
+
+==Players==
+===Current squad===
+The following 26 players were called up for the [[2026 FIFA World Cup]].<ref>{{cite web|title=A Millî Takımımızın 2026 FIFA Dünya Kupası Nihai Kadrosu Açıklandı|trans-title=Our Senior National Team's Final Squad for the 2026 FIFA World Cup Has Been Announced|url=https://www.tff.org/default.aspx?pageID=202&ftxtID=5072250587|publisher=[[Turkish Football Federation]] |date=2 June 2026|access-date=2 June 2026|language=tr}}</ref>
+<br>''Caps and goals are correct {{as of|2026|6|25|lc=y}}, after the match against the [[United States men's national soccer team|United States]].<ref>{{cite web|url=https://www.tff.org/Default.aspx?pageID=440&macID=281470|title=Macaristan – Türkiye|trans-title=Hungary – Turkey|language=tr|publisher=[[Turkish Football Federation]]|access-date=23 March 2025}}</ref>''
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Mert Günok]]|age={{birth date and age|1989|3|1|df=y}}|caps=37|goals=0|club=[[Fenerbahçe S.K. (football)|Fenerbahçe]]|clubnat=TUR}}
+{{nat fs g player|no=12|pos=GK|name=[[Altay Bayındır]]|age={{birth date and age|1998|4|14|df=y}}|caps=12|goals=0|club=[[Manchester United F.C.|Manchester United]]|clubnat=ENG}}
+{{nat fs g player|no=23|pos=GK|name=[[Uğurcan Çakır]]|age={{birth date and age|1996|4|5|df=y}}|caps=42|goals=0|club=[[Galatasaray S.K. (football)|Galatasaray]]|clubnat=TUR}}
+{{nat fs break}}
+{{nat fs g player|no=2|pos=DF|name=[[Zeki Çelik]]|other=[[Captain (association football)|fifth captain]]|age={{birth date and age|1997|2|17|df=y}}|caps=63|goals=3|club=[[Free agent|''Unattached'']]|clubnat=}}
+{{nat fs g player|no=3|pos=DF|name=[[Merih Demiral]]|other=[[Captain (association football)|third captain]]|age={{birth date and age|1998|3|5|df=y}}|caps=65|goals=6|club=[[Al-Ahli Saudi FC|Al-Ahli]]|clubnat=KSA}}
+{{nat fs g player|no=4|pos=DF|name=[[Çağlar Söyüncü]]|other=[[Captain (association football)|fourth captain]]|age={{birth date and age|1996|5|23|df=y}}|caps=61|goals=2|club=[[Fenerbahçe S.K. (football)|Fenerbahçe]]|clubnat=TUR}}
+{{nat fs g player|no=13|pos=DF|name=[[Eren Elmalı]]|age={{birth date and age|2000|7|7|df=y}}|caps=25|goals=0|club=[[Galatasaray S.K. (football)|Galatasaray]]|clubnat=TUR}}
+{{nat fs g player|no=14|pos=DF|name=[[Abdülkerim Bardakcı]]|age={{birth date and age|1994|9|7|df=y}}|caps=30|goals=2|club=[[Galatasaray S.K. (football)|Galatasaray]]|clubnat=TUR}}
+{{nat fs g player|no=15|pos=DF|name=[[Ozan Kabak]]|age={{birth date and age|2000|3|25|df=y}}|caps=31|goals=2|club=[[TSG 1899 Hoffenheim|TSG Hoffenheim]]|clubnat=GER}}
+{{nat fs g player|no=18|pos=DF|name=[[Mert Müldür]]|age={{birth date and age|1999|4|3|df=y}}|caps=48|goals=3|club=[[Fenerbahçe S.K. (football)|Fenerbahçe]]|clubnat=TUR}}
+{{nat fs g player|no=20|pos=DF|name=[[Ferdi Kadıoğlu]]|age={{birth date and age|1999|10|7|df=y}}|caps=32|goals=2|club=[[Brighton & Hove Albion F.C.|Brighton & Hove Albion]]|clubnat=ENG}}
+{{nat fs g player|no=22|pos=DF|name=[[Kaan Ayhan]]|other=[[Captain (association football)|vice-captain]]|age={{birth date and age|1994|11|10|df=y}}|caps=74|goals=6|club=[[Galatasaray S.K. (football)|Galatasaray]]|clubnat=TUR}}
+{{nat fs g player|no=25|pos=DF|name=[[Samet Akaydin]]|age={{birth date and age|1994|5|13|df=y}}|caps=19|goals=1|club=[[Çaykur Rizespor]]|clubnat=TUR}}
+{{nat fs break}}
+{{nat fs g player|no=5|pos=MF|name=[[Salih Özcan]]|age={{birth date and age|1998|1|11|df=y}}|caps=32|goals=1|club=[[Free agent|''Unattached'']]|clubnat=}}
+{{nat fs g player|no=6|pos=MF|name=[[Orkun Kökçü]]|age={{birth date and age|2000|12|29|df=y}}|caps=53|goals=5|club=[[Beşiktaş J.K.|Beşiktaş]]|clubnat=TUR}}
+{{nat fs g player|no=8|pos=MF|name=[[Arda Güler]]|age={{birth date and age|2005|2|25|df=y}}|caps=33|goals=7|club=[[Real Madrid CF|Real Madrid]]|clubnat=ESP}}
+{{nat fs g player|no=10|pos=MF|name=[[Hakan Çalhanoğlu]]|other=[[Captain (association football)|captain]]|age={{birth date and age|1994|2|8|df=y}}|caps=108|goals=22|club=[[Inter Milan]]|clubnat=ITA}}
+{{nat fs g player|no=11|pos=MF|name=[[Kenan Yıldız]]|age={{birth date and age|2005|5|4|df=y}}|caps=31|goals=5|club=[[Juventus FC|Juventus]]|clubnat=ITA}}
+{{nat fs g player|no=16|pos=MF|name=[[İsmail Yüksek]]|age={{birth date and age|1999|1|26|df=y}}|caps=34|goals=1|club=[[Fenerbahçe S.K. (football)|Fenerbahçe]]|clubnat=TUR}}
+{{nat fs g player|no=17|pos=MF|name=[[İrfan Can Kahveci]]|age={{birth date and age|1995|7|15|df=y}}|caps=48|goals=6|club=[[Fenerbahçe S.K. (football)|Fenerbahçe]]|clubnat=TUR}}
+{{nat fs g player|no=19|pos=MF|name=[[Yunus Akgün]]|age={{birth date and age|2000|7|7|df=y}}|caps=21|goals=4|club=[[Galatasaray S.K. (football)|Galatasaray]]|clubnat=TUR}}
+{{nat fs g player|no=21|pos=MF|name=[[Barış Alper Yılmaz]]|age={{birth date and age|2000|5|23|df=y}}|caps=38|goals=4|club=[[Galatasaray S.K. (football)|Galatasaray]]|clubnat=TUR}}
+{{nat fs g player|no=24|pos=MF|name=[[Oğuz Aydın]]|age={{birth date and age|2000|10|27|df=y}}|caps=12|goals=0|club=[[Fenerbahçe S.K. (football)|Fenerbahçe]]|clubnat=TUR}}
+{{nat fs break}}
+{{nat fs g player|no=7|pos=FW|name=[[Kerem Aktürkoğlu]]|age={{birth date and age|1998|10|21|df=y}}|caps=54|goals=15|club=[[Fenerbahçe S.K. (football)|Fenerbahçe]]|clubnat=TUR}}
+{{nat fs g player|no=9|pos=FW|name=[[Deniz Gül]]|age={{birth date and age|2004|7|2|df=y}}|caps=10|goals=2|club=[[FC Porto|Porto]]|clubnat=POR}}
+{{nat fs g player|no=26|pos=FW|name=[[Can Uzun]]|age={{birth date and age|2005|11|11|df=y}}|caps=8|goals=1|club=[[Eintracht Frankfurt]]|clubnat=GER}}
+{{nat fs end}}
+
+===Recent call-ups===
+The following players have also been called up to the team within the last twelve months.
+<!--Sorted by position, date of birth, caps, goals, and most recent call-up.-->
+{{nat fs r start}}
+{{nat fs r player|no=|pos=GK|name=[[Muhammed Şengezer]]|age={{birth date and age|1997|1|5|df=y}}|caps=1|goals=0|club=[[İstanbul Başakşehir F.K.|İstanbul Başakşehir]]|clubnat=TUR|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=GK|name=[[Ersin Destanoğlu]]|age={{birth date and age|2001|1|1|df=y}}|caps=0|goals=0|club=[[Beşiktaş J.K.|Beşiktaş]]|clubnat=TUR|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=GK|name=[[Berke Özer]]|age={{birth date and age|2000|5|25|df=y}}|caps=2|goals=0|club=[[Lille OSC|Lille]]|clubnat=FRA|latest=v. {{fb|GEO}}, 14 October 2025}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=DF|name=[[Yusuf Akçiçek]]|age={{birth date and age|2006|1|25|df=y}}|caps=3|goals=0|club=[[Al Hilal SFC|Al-Hilal]]|clubnat=KSA|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=DF|name=[[Mustafa Eskihellaç]]|age={{birth date and age|1997|5|5|df=y}}|caps=3|goals=0|club=[[Trabzonspor]]|clubnat=TUR|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=DF|name=[[Ahmetcan Kaplan]]|age={{birth date and age|2003|1|16|df=y}}|caps=0|goals=0|club=[[NEC Nijmegen|NEC]]|clubnat=NED|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=DF|name=[[Yasin Özcan]]|age={{birth date and age|2006|4|20|df=y}}|caps=1|goals=0|club=[[Beşiktaş J.K.|Beşiktaş]]|clubnat=TUR|latest=v. {{fb|ROM}}, 26 March 2026 <sup>TRA</sup>}}
+{{nat fs r player|no=|pos=DF|name=[[Yiğit Efe Demir|Yiğit Demir]]|age={{birth date and age|2004|8|2|df=y}}|caps=0|goals=0|club=[[Fenerbahçe S.K. (football)|Fenerbahçe]]|clubnat=TUR|latest=v. {{fb|ROM}}, 26 March 2026 <sup>TRA</sup>}}
+{{nat fs r player|no=|pos=DF|name=[[Hamza Güreler]]|age={{birth date and age|2006|4|10|df=y}}|caps=0|goals=0|club=[[İstanbul Başakşehir F.K.|İstanbul Başakşehir]]|clubnat=TUR|latest=v. {{fb|ROM}}, 26 March 2026 <sup>TRA</sup>}}
+{{nat fs r player|no=|pos=DF|name=[[Emirhan Topçu]]|age={{birth date and age|2000|10|11|df=y}}|caps=2|goals=0|club=[[Beşiktaş J.K.|Beşiktaş]]|clubnat=TUR|latest=v. {{fb|ESP}}, 18 November 2025}}
+{{nat fs r player|no=|pos=DF|name=[[Ayberk Karapo]]|age={{birth date and age|2004|7|21|df=y}}|caps=0|goals=0|club=[[Manisa F.K.|Manisa]]|clubnat=TUR|latest=v. {{fb|BUL}}, 15 November 2025 <sup>TRA</sup>}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=MF|name=[[Atakan Karazor]]|age={{birth date and age|1996|10|13|df=y}}|caps=2|goals=0|club=[[VfB Stuttgart]]|clubnat=GER|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=MF|name=[[Demir Ege Tıknaz]]|age={{birth date and age|2004|8|17|df=y}}|caps=2|goals=0|club=[[Beşiktaş J.K.|Beşiktaş]]|clubnat=TUR|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=MF|name=[[Eyüp Aydın]]|age={{birth date and age|2005|8|2|df=y}}|caps=0|goals=0|club=[[Kasımpaşa S.K.|Kasımpaşa]]|clubnat=TUR|latest=v. {{fb|ROM}}, 26 March 2026 <sup>TRA</sup>}}
+{{nat fs r player|no=|pos=MF|name=[[Baran Ali Gezek|Baran Gezek]]|age={{birth date and age|2005|8|26|df=y}}|caps=0|goals=0|club=[[Eyüpspor]]|clubnat=TUR|latest=v. {{fb|ROM}}, 26 March 2026 <sup>TRA</sup>}}
+{{nat fs r player|no=|pos=MF|name=[[Barış Kalaycı]]|age={{birth date and age|2005|8|30|df=y}}|caps=0|goals=0|club=[[Fatih Karagümrük S.K.|Fatih Karagümrük]]|clubnat=TUR|latest=v. {{fb|ROM}}, 26 March 2026 <sup>TRA</sup>}}
+{{nat fs r player|no=|pos=MF|name=[[İsak Vural]]|age={{birth date and age|2006|5|28|df=y}}|caps=0|goals=0|club=[[Pisa SC|Pisa]]|clubnat=ITA|latest=v. {{fb|ESP}}, 18 November 2025}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=FW|name=[[Yusuf Sarı]]|age={{birth date and age|1998|11|20|df=y}}|caps=6|goals=1|club=[[İstanbul Başakşehir F.K.|İstanbul Başakşehir]]|clubnat=TUR|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=FW|name=[[Aral Şimşir]]|age={{birth date and age|2002|6|19|df=y}}|caps=1|goals=0|club=[[FC Midtjylland|Midtjylland]]|clubnat=DEN|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=FW|name=[[Semih Kılıçsoy]]|age={{birth date and age|2005|8|15|df=y}}|caps=4|goals=0|club=[[Cagliari Calcio|Cagliari]]|clubnat=ITA|latest=v. {{fb|KOS}}, 31 March 2026}}
+{{nat fs r player|no=|pos=FW|name=[[Ahmed Kutucu]]|age={{birth date and age|2000|3|1|df=y}}|caps=4|goals=0|club=[[Galatasaray S.K. (football)|Galatasaray]]|clubnat=TUR|latest=v. {{fb|ESP}}, 18 November 2025}}
+{{nat fs break}}
+;Notes
+*<sup>PRE</sup> = Preliminary squad/standby.
+*<sup>INJ</sup> = Not part of the current squad due to injury.
+*<sup>SUS</sup> = Player is suspended.
+*<sup>RET</sup> = Retired from international football.
+*<sup>TRA</sup> = Player is included for training purposes only.
+{{nat fs end}}
+
+==Player records==
+{{Main|List of Turkey international footballers}}
+
+{{Main|List of Turkey international footballers (5–19 caps)}}
+
+{{Main|List of Turkey international footballers (1–4 caps)}}
+
+{{Main|Turkey national football team records and statistics}}
+
+{{updated|25 June 2026}}<ref name="Most capped RSSSF">{{cite web|last1=Mamrud|first1=Roberto|title=Turkey - Record International Players|url=https://www.rsssf.org/miscellaneous/tur-recintlp.html|website=RSSSF|access-date=2 February 2023|archive-date=27 February 2023|archive-url=https://web.archive.org/web/20230227101749/https://www.rsssf.org/miscellaneous/tur-recintlp.html|url-status=live}}</ref><ref name="Matches">{{cite news|title=Milli Takım Maçları|url=https://www.tff.org/default.aspx?pageID=425|publisher=[[Turkish Football Federation]]|access-date=27 December 2021|archive-date=17 August 2007|archive-url=https://web.archive.org/web/20070817185317/https://www.tff.org/default.aspx?pageID=425|url-status=live}}</ref>
+:Players in '''bold''' are still active with the Turkey national team.
+
+===Most appearances===
+[[File:Rustu_Recber_2010.jpg|thumb|175px|right|Rüştü Reçber is Turkey's most-capped player with 120 appearances.]]
+
+{| class="wikitable sortable" style="text-align:center"
+|-
+! style="width:25px;background:#E30A17;color:white"|Rank
+! style="width:175px;background:#E30A17;color:white"|Player
+! style="width:50px;background:#E30A17;color:white"|Caps
+! style="width:50px;background:#E30A17;color:white"|Goals
+! style="width:100px;background:#E30A17;color:white"|Career
+|-
+|1
+|align="left"|[[Rüştü Reçber]]
+|120
+|0
+|{{nowrap|1994–2012}}
+|-
+|2
+|align="left"|[[Hakan Şükür]]
+|112
+|51
+|1992–2007
+|-
+|3
+|align="left"|'''[[Hakan Çalhanoğlu]]'''
+|108
+|22
+|2013–present
+|-
+|4
+|align="left"|[[Bülent Korkmaz]]
+|102
+|2
+|1990–2005
+|-
+|5
+|align="left"|[[Emre Belözoğlu]]
+|101
+|9
+|2000–2019
+|-
+|6
+|align="left"|[[Arda Turan]]
+|100
+|16
+|2006–2017
+|-
+|7
+|align="left"|[[Tugay Kerimoğlu]]
+|94
+|2
+|1990–2007
+|-
+|8
+|align="left"|[[Alpay Özalan]]
+|90
+|4
+|1995–2005
+|-
+|9
+|align="left"|[[Hamit Altıntop]]
+|82
+|7
+|2004–2014
+|-
+|10
+|align="left"|[[Mehmet Topal]]
+|81
+|2
+|2008–2018
+|}
+
+===Top goalscorers===
+[[File:Hakan.jpg|175px|right|thumb|Hakan Şükür is Turkey's top scorer with 51 goals.]]
+
+{|class="wikitable sortable" style="text-align:center"
+|-
+! style="width:25px;background:#E70013;color:#FFFFFF"|Rank
+! style="width:175px;background:#E70013;color:#FFFFFF"|Player
+! style="width:50px;background:#E70013;color:#FFFFFF"|Goals
+! style="width:50px;background:#E70013;color:#FFFFFF"|Caps
+! style="width:50px;background:#E70013;color:#FFFFFF"|Ratio
+! style="width:100px;background:#E70013;color:#FFFFFF"|Career
+|-
+|1
+|align="left"|[[Hakan Şükür]]
+|51
+|112
+|{{#expr:51/112 round 2}}
+|{{nowrap|1992–2007}}
+|-
+|2
+|align="left"|[[Burak Yılmaz]]
+|31
+|77
+|{{#expr:31/77 round 2}}
+|2006–2022
+|-
+| rowspan=2|3
+|align="left"|[[Tuncay Şanlı]]
+|22
+|80
+|{{#expr:22/80 round 2}}
+|2002–2010
+|-
+|align="left"|'''[[Hakan Çalhanoğlu]]'''
+|22
+|108
+|{{#expr:22/108 round 2}}
+|2013–present
+|-
+| rowspan=2|5
+|align="left"|[[Lefter Küçükandonyadis]]
+|21
+|46
+|{{#expr:21/46 round 2}}
+|1948–1963
+|-
+|align="left"|[[Cenk Tosun]]
+|21
+|53
+|{{#expr:21/53 round 2}}
+|2013–2024
+|-
+| rowspan=3|7
+|align="left"|[[Metin Oktay]]
+|19
+|36
+|{{#expr:19/36 round 2}}
+|1955–1968
+|-
+|align="left"|[[Cemil Turan]]
+|19
+|44
+|{{#expr:19/44 round 2}}
+|1969–1979
+|-
+|align="left"|[[Nihat Kahveci]]
+|19
+|69
+|{{#expr:19/69 round 2}}
+|2000–2010
+|-
+| rowspan=2|10
+| align="left" |[[Cengiz Ünder]]
+|16
+|51
+|{{#expr:16/51 round 2}}
+|2016–2023
+|-
+| align="left" |[[Arda Turan]]
+|16
+|100
+|{{#expr:16/100 round 2}}
+|2006–2017
+|}
+
+===Most clean sheets===
+{|class="wikitable sortable" style="text-align:center"
+|-
+! style="width:25px;background:#E30A17;color:white"|Rank
+! style="width:175px;background:#E30A17;color:white"|Player
+! style="width:50px;background:#E30A17;color:white"|Clean sheets
+! style="width:50px;background:#E30A17;color:white"|Caps
+! style="width:50px;background:#E30A17;color:white"|Ratio
+! style="width:100px;background:#E30A17;color:white"|Career
+|-
+|1
+|align="left"|[[Rüştü Reçber]]
+|'''53'''
+|120
+|{{#expr:53/120 round 2}}
+|{{nowrap|1994–2012}}
+|-
+|2
+|align="left"|[[Volkan Demirel]]
+|'''20'''
+|63
+|{{#expr:20/63 round 2}}
+|2004–2014
+|-
+|3
+|align="left"|[[Turgay Şeren]]
+|'''16'''
+|46
+|{{#expr:16/46 round 2}}
+|1950–1966
+|-
+|4
+|align="left" |[[Volkan Babacan]]
+|'''15'''
+|35
+|{{#expr:15/35 round 2}}
+|2014–2018
+|-
+|rowspan=2|5
+|align="left"|'''[[Mert Günok]]'''
+|'''14'''
+|37
+|{{#expr:14/37 round 2}}
+|2012–present
+|-
+|align="left" |'''[[Uğurcan Çakır]]'''
+|'''14'''
+|41
+|{{#expr:14/41 round 2}}
+|2019–present
+|-
+|7
+|align="left"|[[Engin İpekoğlu]]
+|'''10'''
+|32
+|{{#expr:10/32 round 2}}
+|1989–1999
+|-
+|8
+|align="left"|[[Ömer Çatkıç]]
+|'''8'''
+|19
+|{{#expr:8/19 round 2}}
+|2000–2005
+|-
+|9
+|align="left"|[[Ali Artuner]]
+|'''7'''
+|25
+|{{#expr:7/25 round 2}}
+|1965–1971
+|-
+|rowspan=2|10
+|align="left"|[[Sabri Dino]]
+|'''6'''
+|12
+|{{#expr:6/12 round 2}}
+|1969–1975
+|-
+|align="left"|[[Sinan Bolat]]
+|'''6'''
+|12
+|{{#expr:6/12 round 2}}
+|2011–2019
+|}
+
+===Centuriate goals===
+[[File:AUT_vs._TUR_2016-03-29_(288).jpg|thumb|upright|[[Arda Turan]] scored 600th goal for the Turkish national team.]]
+As of 18 November 2025.<ref name="Milestone goals (1)">{{cite news|title=Türkiye'nin 700. golü Selçuk İnan'dan|url=https://www.haberturk.com/spor/2016-avrupa-sampiyonasi/haber/1124180-turkiyenin-700-golu-selcuk-inandan|publisher=[[Haberturk]]|date=4 September 2015|access-date=29 September 2020|language=tr|archive-url=https://archive.today/20200903184049/https://www.haberturk.com/spor/2016-avrupa-sampiyonasi/haber/1124180-turkiyenin-700-golu-selcuk-inandan|archive-date=3 September 2020}}</ref><ref name="Milestone goals (2)">{{cite news|title=A Milli Takım 700. gole yakın!|url=https://www.milliyet.com.tr/skorer/a-milli-takim-700-gole-yakin-2072423|publisher=[[Milliyet]]|date=11 June 2015|access-date=3 September 2020|language=tr|archive-url=https://archive.today/20200903184505/https://www.milliyet.com.tr/skorer/a-milli-takim-700-gole-yakin-2072423|archive-date=3 September 2020|url-status=live}}</ref>
+{| class="wikitable" style="text-align:center"
+|-
+! style="width:50px;background:#E30A17;color:white"|Goal no.
+! style="width:150px;background:#E30A17;color:white"|Date
+! style="width:150px;background:#E30A17;color:white"|Scorer
+! style="width:150px;background:#E30A17;color:white"|Opponent
+! style="width:50px;background:#E30A17;color:white"|Result
+|-
+|1st
+|26 October 1923
+|[[Zeki Rıza Sporel]]
+|align="left"|{{fb|ROU}}
+|style="text-align:center;background:#ffd"|2–2
+|-
+|100th
+|23 June 1954
+|[[Mustafa Ertan]]
+|align="left"|{{fb|FRG}}
+|style="text-align:center;background:#fdd"|2–7
+|-
+|200th
+|14 February 1973
+|[[Osman Arpacıoğlu]]
+|align="left"|{{fb|ALG}}
+|style="text-align:center;background:#dfd"|4–0
+|-
+|300th
+|27 February 1991
+|[[Uğur Tütüneker]]
+|align="left"|{{fb|YUG}}
+|style="text-align:center;background:#ffd"|1–1
+|-
+|400th
+|27 March 1999
+|[[Sergen Yalçın]]
+|align="left"|{{fb|MDA|1990}}
+|style="text-align:center;background:#dfd"|2–0
+|-
+|500th
+|9 October 2004
+|[[Fatih Tekke]]
+|align="left"|{{fb|KAZ}}
+|style="text-align:center;background:#dfd"|4–0
+|-
+|600th
+|5 September 2009
+|[[Arda Turan]]
+|align="left"|{{fb|EST}}
+|style="text-align:center;background:#dfd"|4–2
+|-
+|700th
+|3 September 2015
+|[[Selçuk İnan]]
+|align="left"|{{fb|LVA}}
+|style="text-align:center;background:#ffd"|1–1
+|-
+|800th
+|13 November 2021
+|[[Kerem Aktürkoğlu]]
+|align="left"|{{fb|GIB}}
+|style="text-align:center;background:#dfd"|6–0
+|-
+|900th
+|18 November 2025
+|[[Deniz Gül]]
+|align="left"|{{fb|ESP}}
+|style="text-align:center;background:#ffd"|2–2
+|}
+
+==Competitive record==
+===FIFA World Cup===
+{{main|Turkey at the FIFA World Cup}}
+
+{| class="wikitable" style="text-align:center"
+|-
+! style="width:50px;background:#E30A17;color:white;" colspan=10|[[FIFA World Cup|{{white|FIFA World Cup}}]] record
+! style="width:1%" rowspan=30|
+! style="width:50px;background:#E30A17;color:white;" colspan=7|[[FIFA World Cup qualification|{{white|Qualification}}]] record
+|-
+!Year
+!Result
+!Rank
+!{{Tooltip|M|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!Squad
+!{{Tooltip|M|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!Link
+|-
+|{{flagicon|Uruguay}} [[1930 FIFA World Cup|1930]]
+|colspan=9|''Did not enter''
+|colspan=6|''Did not enter''
+|[[1930 FIFA World Cup qualification|Link]]
+|-
+|{{flagicon|Italy|1861}} [[1934 FIFA World Cup|1934]]
+|colspan=9|''Withdrew''
+|colspan=6|''Withdrew''
+|[[1934 FIFA World Cup qualification|Link]]
+|-
+|{{flagicon|France|1794}} [[1938 FIFA World Cup|1938]]
+|colspan=9|''Did not enter''
+|colspan=6|''Did not enter''
+|[[1938 FIFA World Cup qualification|Link]]
+|-
+|{{flagicon|Brazil|1889}} [[1950 FIFA World Cup|1950]]
+|colspan=9|''Qualified but withdrew''
+|1||1||0||0||7||0
+|[[1950 FIFA World Cup qualification|Link]]
+|-
+|{{flagicon|Switzerland|civil}} [[1954 FIFA World Cup|1954]]
+|Group stage
+|9th||3||1||0||2||10||11
+|[[1954 FIFA World Cup squads#Turkey|Squad]]
+|3||1||1||1||4||6
+|[[1954 FIFA World Cup qualification|Link]]
+|-
+|{{flagicon|Sweden}} [[1958 FIFA World Cup|1958]]
+|colspan=9|''Withdrew''
+|colspan=6|''Withdrew''
+|[[1958 FIFA World Cup qualification (UEFA)|Link]]
+|-
+|{{flagicon|Chile}} [[1962 FIFA World Cup|1962]]
+|colspan=9 rowspan=10|''Did not qualify''
+|4||2||0||2||4||4
+|[[1962 FIFA World Cup qualification (UEFA)|Link]]
+|-
+|{{flagicon|England}} [[1966 FIFA World Cup|1966]]
+|6||1||0||5||4||19
+|[[1966 FIFA World Cup qualification (UEFA)|Link]]
+|-
+|{{flagicon|Mexico}} [[1970 FIFA World Cup|1970]]
+|4||0||0||4||2||13
+|[[1970 FIFA World Cup qualification (UEFA)|Link]]
+|-
+|{{flagicon|West Germany}} [[1974 FIFA World Cup|1974]]
+|6||2||2||2||5||3
+|[[1974 FIFA World Cup qualification (UEFA)|Link]]
+|-
+|{{flagicon|Argentina|1861}} [[1978 FIFA World Cup|1978]]
+|6||2||1||3||9||5
+|[[1978 FIFA World Cup qualification (UEFA)|Link]]
+|-
+|{{flagicon|Spain}} [[1982 FIFA World Cup|1982]]
+|8||0||0||8||1||22
+|[[1982 FIFA World Cup qualification (UEFA)|Link]]
+|-
+|{{flagicon|Mexico}} [[1986 FIFA World Cup|1986]]
+|8||0||1||7||2||24
+|[[1986 FIFA World Cup qualification (UEFA)|Link]]
+|-
+|{{flagicon|Italy}} [[1990 FIFA World Cup|1990]]
+|8||3||1||4||12||10
+|[[1990 FIFA World Cup qualification (UEFA)|Link]]
+|-
+|{{flagicon|United States of America}} [[1994 FIFA World Cup|1994]]
+|10||3||1||6||11||19
+|[[1994 FIFA World Cup qualification (UEFA)|Link]]
+|-
+|{{flagicon|France|1974}} [[1998 FIFA World Cup|1998]]
+|8||4||2||2||21||9
+|[[1994 FIFA World Cup qualification (UEFA)|Link]]
+|- style="background:#cc9966"
+|{{flagicon|South Korea|1997}} {{flagicon|Japan}} [[2002 FIFA World Cup|2002]]
+|'''Third place'''||'''3rd'''||'''7'''||'''4'''||'''1'''||'''2'''||'''10'''||'''6'''
+|'''[[2002 FIFA World Cup squads#Turkey|Squad]]'''
+|12||8||3||1||24||8
+|[[2002 FIFA World Cup qualification (UEFA)|Link]]
+|-
+|{{flagicon|Germany}} [[2006 FIFA World Cup|2006]]
+|colspan=9 rowspan=5|'' Did not qualify''
+|14||7||5||2||27||13
+|[[2006 FIFA World Cup qualification (UEFA)|Link]]
+|-
+|{{flagicon|South Africa}} [[2010 FIFA World Cup|2010]]
+|10||4||3||3||13||10
+|[[2010 FIFA World Cup qualification (UEFA)|Link]]
+|-
+|{{flagicon|Brazil}} [[2014 FIFA World Cup|2014]]
+|10||5||1||4||16||9
+|[[2014 FIFA World Cup qualification (UEFA)|Link]]
+|-
+|{{flagicon|Russia}} [[2018 FIFA World Cup|2018]]
+|10||4||3||3||14||13
+|[[2018 FIFA World Cup qualification (UEFA)|Link]]
+|-
+|{{flagicon|Qatar}} [[2022 FIFA World Cup|2022]]
+|11||6||3||2||28||19
+|[[2022 FIFA World Cup qualification (UEFA)|Link]]
+|-
+|{{flagicon|Canada}} {{flagicon|Mexico}} {{flagicon|United States of America}} [[2026 FIFA World Cup|2026]]
+|Group stage || 35th || 3 || 1 || 0 || 2 || 3 || 5
+|[[2026 FIFA World Cup squads#Turkey|Squad]]
+|8||6||1||1||19||12
+|[[2026 FIFA World Cup qualification (UEFA)|Link]]
+|-
+|{{flagicon|Morocco}} {{flagicon|Portugal}} {{flagicon|Spain}} [[2030 FIFA World Cup|2030]]
+|colspan=9 rowspan=2|''To be determined''
+|-
+|{{flagicon|Saudi Arabia}} [[2034 FIFA World Cup|2034]]
+|-
+! style="background:#E30A17;color:white;"|Total:{{Tooltip|3/23|Number of tournaments qualified for}}
+! style="background:#E30A17;color:white;"|{{Tooltip|Third place|Highest finish}}
+! style="background:#E30A17;color:white;"|3rd
+! style="background:#E30A17;color:white;"|13
+! style="background:#E30A17;color:white;"|6
+! style="background:#E30A17;color:white;"|1
+! style="background:#E30A17;color:white;"|6
+! style="background:#E30A17;color:white;"|23
+! style="background:#E30A17;color:white;"|22
+! style="background:#E30A17;color:white;"|—
+! style="background:#E30A17;color:white;"|146
+! style="background:#E30A17;color:white;"|59
+! style="background:#E30A17;color:white;"|28
+! style="background:#E30A17;color:white;"|60
+! style="background:#E30A17;color:white"|223
+! style="background:#E30A17;color:white"|218
+! style="background:#E30A17;color:white"|[[FIFA World Cup qualification|Link]]
+|}
+
+{| class="wikitable collapsible collapsed" style="text-align:center;font-size:90%"
+|-
+! style="color:white;background:#E70013" colspan=6|Turkey's FIFA World Cup history
+|-
+!Year!!Round!!Score!!Result!!Date!!Venue
+|-
+|rowspan=3|[[1954 FIFA World Cup|1954]]
+|rowspan=3|[[1954 FIFA World Cup Group 2|Group 2]]||align="left"|{{fb|TUR}} '''1–4''' {{fb|FRG}}||bgcolor="#FFA07A"|'''Loss'''||17 June 1954||[[Bern]], Switzerland
+|-
+|align="left"|{{fb|TUR}} '''7–0''' {{fb|KOR|1949}}||bgcolor="#98FB98"|'''Win'''||20 June 1954||[[Geneva]], Switzerland
+|-
+|align="left"|{{fb|TUR}} '''2–7''' {{fb|FRG}}||bgcolor="#FFA07A"|'''Loss'''||23 June 1954||[[Zürich]], Switzerland
+|-
+|rowspan=7|[[2002 FIFA World Cup|2002]]
+|rowspan=3|[[2002 FIFA World Cup Group C|Group C]]||align="left"|{{fb|TUR}} '''1–2''' {{fb|BRA}}||bgcolor="#FFA07A"|'''Loss'''||3 June 2002||[[Ulsan]], South Korea
+|-
+|align="left"|{{fb|TUR}} '''1–1''' {{fb|CRC}}||bgcolor="#FFFF99"|'''Draw'''||9 June 2002||[[Incheon]], South Korea
+|-
+|align="left"|{{fb|TUR}} '''3–0''' {{fb|CHN}}||bgcolor="#98FB98"|'''Win'''||13 June 2002||[[Seoul]], South Korea
+|-
+|[[2002 FIFA World Cup knockout stage#Round of 16|Round of 16]]||align="left"|{{fb|TUR}} '''1–0''' {{fb|JPN}}||bgcolor="#98FB98"|'''Win'''||18 June 2002||[[Rifu]], Japan
+|-
+|[[2002 FIFA World Cup knockout stage#Quarter-finals|Quarter-final]]||align="left"|{{fb|TUR}} '''1–0''' {{aet|sd=yes}} {{fb|SEN}}||bgcolor="#98FB98"|'''Win'''||22 June 2002||[[Osaka]], Japan
+|-
+|[[2002 FIFA World Cup knockout stage#Semi-finals|Semi-final]]||align="left"|{{fb|TUR}} '''0–1''' {{fb|BRA}}||bgcolor="#FFA07A"|'''Loss'''||26 June 2002||[[Saitama (city)|Saitama]], Japan
+|-
+|[[2002 FIFA World Cup knockout stage#Third place play-off|Third place play-off]]||align="left"|{{fb|TUR}} '''3–2''' {{fb|KOR|1997}}||bgcolor="#98FB98"|'''Win'''||29 June 2002||[[Daegu]], South Korea
+|-
+|rowspan="3" align=center|[[2026 FIFA World Cup|2026]]||rowspan="3"| [[2002 FIFA World Cup Group D|Group D]]||align="left"|{{fb|TUR}} '''0–2''' {{fb|AUS}}||bgcolor="#FFA07A"|'''Loss'''||13 June 2026||[[Vancouver]], Canada
+|-
+|align="left"|{{fb|TUR}} '''0–1''' {{fb|PAR}}||bgcolor="#FFA07A"|'''Loss'''||19 June 2026||[[Santa Clara, California|Santa Clara]], United States
+|-
+|align="left"|{{fb|TUR}} '''3–2''' {{fb|USA}}||bgcolor="#98FB98"|'''Win'''||25 June 2026||[[Inglewood, California|Inglewood]], United States
+|}
+
+===UEFA European Championship===
+{{main|Turkey at the UEFA European Championship}}
+
+{| class="wikitable" style="text-align:center"
+|-
+! style="width:50px;background:#E30A17;color:white;" colspan=10|[[UEFA European Championship|{{white|UEFA European Championship}}]] record
+! style="width:1%" rowspan=24|
+! style="width:50px;! style="background:#E30A17;color:white;" colspan=7|[[UEFA European Championship qualifying|{{white|Qualification}}]] record
+|-
+!Year
+!Result
+!Rank
+!{{Tooltip|M|Matches played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!Squad
+!{{Tooltip|M|Matches played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!Link
+|-
+|{{flagicon|France|1794}} [[1960 European Nations' Cup|1960]]
+|colspan=9 rowspan=9|''Did not qualify''
+|2||1||0||1||2||3
+|[[1960 European Nations' Cup qualifying|Link]]
+|-
+|{{flagicon|Spain|1945}} [[1964 European Nations' Cup|1964]]
+|2||0||0||2||0||7
+|[[1964 European Nations' Cup qualifying|Link]]
+|-
+|{{flagicon|Italy}} [[UEFA Euro 1968|1968]]
+|6||1||2||3||3||8
+|[[UEFA Euro 1968 qualifying|Link]]
+|-
+|{{flagicon|Belgium}} [[UEFA Euro 1972|1972]]
+|6||2||1||3||5||13
+|[[UEFA Euro 1972 qualifying|Link]]
+|-
+|{{flagicon|Yugoslavia}} [[UEFA Euro 1976|1976]]
+|6||2||2||2||5||10
+|[[UEFA Euro 1976 qualifying|Link]]
+|-
+|{{flagicon|Italy}} [[UEFA Euro 1980|1980]]
+|6||3||1||2||5||5
+|[[UEFA Euro 1980 qualifying|Link]]
+|-
+|{{flagicon|France|1974}} [[UEFA Euro 1984|1984]]
+|8||3||1||4||8||16
+|[[UEFA Euro 1984 qualifying|Link]]
+|-
+|{{flagicon|West Germany}} [[UEFA Euro 1988|1988]]
+|6||0||2||4||2||16
+|[[UEFA Euro 1988 qualifying|Link]]
+|-
+|{{flagicon|Sweden}} [[UEFA Euro 1992|1992]]
+|6||0||0||6||1||14
+|[[UEFA Euro 1992 qualifying|Link]]
+|-
+|{{flagicon|England}} [[UEFA Euro 1996|1996]]
+|Group stage
+|16th||3||0||0||3||0||5
+|[[UEFA Euro 1996 squads#Turkey|Squad]]
+|8||4||3||1||16||8
+|[[UEFA Euro 1996 qualifying|Link]]
+|-
+|{{flagicon|Belgium}} {{flagicon|Netherlands}} [[UEFA Euro 2000|2000]]
+|Quarter-finals
+|6th||4||1||1||2||3||4
+|[[UEFA Euro 2000 squads#Turkey|Squad]]
+|10||5||4||1||16||7
+|[[UEFA Euro 2000 qualifying|Link]]
+|-
+|{{flagicon|Portugal}} [[UEFA Euro 2004|2004]]
+|colspan=9|''Did not qualify''
+|10||6||2||2||19||8
+|[[UEFA Euro 2004 qualifying|Link]]
+|- style="background:#c96"
+|{{flagicon|Austria}} {{flagicon|Switzerland|civil}} [[UEFA Euro 2008|2008]]
+|'''Semi-finals'''
+|'''3rd'''||'''5'''||'''2'''||'''1'''||'''2'''||'''8'''||'''9'''
+|'''[[UEFA Euro 2008 squads#Turkey|Squad]]'''
+|12||7||3||2||25||11
+|[[UEFA Euro 2008 qualifying|Link]]
+|-
+|{{flagicon|Poland}} {{flagicon|Ukraine}} [[UEFA Euro 2012|2012]]
+|colspan=9|''Did not qualify''
+|12||5||3||4||13||14
+|[[UEFA Euro 2012 qualifying|Link]]
+|-
+|{{flagicon|France|1974}} [[UEFA Euro 2016|2016]]
+|rowspan=2|Group stage
+|17th||3||1||0||2||2||4
+|[[UEFA Euro 2016 squads#Turkey|Squad]]
+|10||5||3||2||14||9
+|[[UEFA Euro 2016 qualifying|Link]]
+|-
+|{{flagicon|Europe}} [[UEFA Euro 2020|2020]]
+|24th||3||0||0||3||1||8
+|[[UEFA Euro 2020 squads#Turkey|Squad]]
+|10||7||2||1||18||3
+|[[UEFA Euro 2020 qualifying|Link]]
+|-
+|{{flagicon|Germany}} [[UEFA Euro 2024|2024]]
+|Quarter-finals
+|7th||5||3||0||2||8||8
+|[[UEFA Euro 2024 squads#Turkey|Squad]]
+|8||5||2||1||14||7
+|[[UEFA Euro 2024 qualifying|Link]]
+|-
+|{{flagicon|United Kingdom}} {{flagicon|Republic of Ireland}} [[UEFA Euro 2028|2028]]
+|colspan=9|''To be determined''
+|colspan=6|''To be determined''
+|[[UEFA Euro 2028 qualifying|Link]]
+|-
+| style="border: 3px solid red"|{{flagicon|Italy}} {{flagicon|Turkey}} [[UEFA Euro 2032|2032]]
+|colspan=9|''Qualified as co-hosts''
+|colspan=6|''Qualified as co-hosts''
+|[[UEFA Euro 2032 qualifying|Link]]
+|-
+|{{flagicon|European Union}} [[UEFA Euro 2036|2036]]
+|colspan=9|''To be determined''
+|colspan=6|''To be determined''
+|[[UEFA Euro 2036 qualifying|Link]]
+|-
+! style="background:#E30A17;color:white;"|Total
+! style="background:#E30A17;color:white;"|Semi-finals
+! style="background:#E30A17;color:white;"|6/19
+! style="background:#E30A17;color:white;"|23
+! style="background:#E30A17;color:white;"|7
+! style="background:#E30A17;color:white;"|2
+! style="background:#E30A17;color:white;"|14
+! style="background:#E30A17;color:white;"|22
+! style="background:#E30A17;color:white;"|38
+! style="background:#E30A17;color:white;"|
+! style="background:#E30A17;color:white;"|128
+! style="background:#E30A17;color:white;"|56
+! style="background:#E30A17;color:white;"|31
+! style="background:#E30A17;color:white;"|41
+! style="background:#E30A17;color:white;"|166
+! style="background:#E30A17;color:white;"|159
+! style="background:#E30A17;color:white;"|[[UEFA European Championship qualifying|Link]]
+|}
+
+{| class="wikitable collapsible collapsed" style="text-align:center;font-size:90%"
+|-
+! style="color:white;background:#E70013" colspan=6|Turkey's UEFA European Championship history
+|-
+!Year!!Round!!Score!!Result!!Date!!Venue
+|-
+|rowspan=3|[[UEFA Euro 1996|1996]]
+|rowspan=3|[[UEFA Euro 1996 Group D|Group D]]||align="left"|{{fb|TUR}} '''0–1''' {{fb|CRO}}||bgcolor="#FFA07A"|'''Loss'''||11 June 1996||[[Nottingham]], England
+|-
+|align="left"|{{fb|TUR}} '''0–1''' {{fb|POR}}||bgcolor="#FFA07A"|'''Loss'''||14 June 1996||Nottingham, England
+|-
+|align="left"|{{fb|TUR}} '''0–3''' {{fb|DEN}}||bgcolor="#FFA07A"|'''Loss'''||19 June 1996||[[Sheffield]], England
+|-
+|rowspan=4|[[UEFA Euro 2000|2000]]
+|rowspan=3|[[UEFA Euro 2000 Group B|Group B]]||align="left"|{{fb|TUR}} '''1–2''' {{fb|ITA}}||bgcolor="#FFA07A"|'''Loss'''||11 June 2000||[[Arnhem]], Netherlands
+|-
+|align="left"|{{fb|TUR}} '''0–0''' {{fb|SWE}}||bgcolor="#FFFF99"|'''Draw'''||15 June 2000||[[Eindhoven]], Netherlands
+|-
+|align="left"|{{fb|TUR}} '''2–0''' {{fb|BEL}}||bgcolor="#98FB98"|'''Win'''||19 June 2000||[[Brussels]], Belgium
+|-
+|[[UEFA Euro 2000 knockout stage#Quarter-finals|Quarter-final]]||align="left"|{{fb|TUR}} '''0–2''' {{fb|POR}}||bgcolor="#FFA07A"|'''Loss'''||24 June 2000||[[Amsterdam]], Netherlands
+|-
+|rowspan=5|[[UEFA Euro 2008|2008]]
+|rowspan=3|[[UEFA Euro 2008 Group A|Group A]]||align="left"|{{fb|TUR}} '''0–2''' {{fb|POR}}||bgcolor="#FFA07A"|'''Loss'''||7 June 2008||[[Geneva]], Switzerland
+|-
+|align="left"|{{fb|TUR}} '''2–1''' {{fb|SUI|civil}}||bgcolor="#98FB98"|'''Win'''||11 June 2008||[[Basel]], Switzerland
+|-
+|align="left"|{{fb|TUR}} '''3–2''' {{fb|CZE}}||bgcolor="#98FB98"|'''Win'''||15 June 2008||Geneva, Switzerland
+|-
+|[[UEFA Euro 2008 knockout stage#Quarter-finals|Quarter-final]]||align="left"|{{fb|TUR}} '''1–1''' {{pso|3–1}} {{fb|CRO}}||bgcolor="#FFFF99"|'''Draw'''||20 June 2008||[[Wien]], Austria
+|-
+|[[UEFA Euro 2008 knockout stage#Semi-finals|Semi-final]]||align="left"|{{fb|TUR}} '''2–3''' {{fb|GER}}||bgcolor="#FFA07A"|'''Loss'''||25 June 2008||Basel, Switzerland
+|-
+|rowspan=3|[[UEFA Euro 2016|2016]]
+|rowspan=3|[[UEFA Euro 2016 Group D|Group D]]||align="left"|{{fb|TUR}} '''0–1''' {{fb|CRO}}||bgcolor="#FFA07A"|'''Loss'''||12 June 2016||[[Paris]], France
+|-
+|align="left"|{{fb|TUR}} '''0–3''' {{fb|ESP}}||bgcolor="#FFA07A"|'''Loss'''||17 June 2016||[[Nice]], France
+|-
+|align="left"|{{fb|TUR}} '''2–0''' {{fb|CZE}}||bgcolor="#98FB98"|'''Win'''||21 June 2016||[[Lens, Pas-de-Calais|Lens]], France
+|-
+|rowspan=3|[[UEFA Euro 2020|2020]]
+|rowspan=3|[[UEFA Euro 2020 Group A|Group A]]||align="left"|{{fb|TUR}} '''0–3''' {{fb|ITA}}||bgcolor="#FFA07A"|'''Loss''' ||11 June 2021||[[Rome]], Italy
+|-
+|align="left"|{{fb|TUR}} '''0–2''' {{fb|WAL}}||bgcolor="#FFA07A"|'''Loss''' ||16 June 2021||[[Baku]], Azerbaijan
+|-
+|align="left"|{{fb|TUR}} '''1–3''' {{fb|SUI|civil}}||bgcolor="#FFA07A"|'''Loss''' ||20 June 2021||[[Baku]], Azerbaijan
+|-
+|rowspan=5|[[UEFA Euro 2024|2024]]
+|rowspan=3|[[UEFA Euro 2024 Group F|Group F]]||align="left"|{{fb|TUR}} '''3–1''' {{fb|GEO}}||bgcolor="#98FB98"|'''Win''' ||18 June 2024||[[Dortmund]], Germany
+|-
+|align="left"|{{fb|TUR}} '''0–3''' {{fb|POR}}||bgcolor="#FFA07A"|'''Loss''' ||22 June 2024||Dortmund, Germany
+|-
+|align="left"|{{fb|TUR}} '''2–1''' {{fb|CZE}}||bgcolor="#98FB98"|'''Win''' ||26 June 2024||[[Hamburg]], Germany
+|-
+|[[UEFA Euro 2024 knockout stage#Round of 16|Round of 16]]||align="left"|{{fb|TUR}} '''2–1''' {{fb|AUT}}||bgcolor="#98FB98"|'''Win'''||2 July 2024||[[Leipzig]], Germany
+|-
+|[[UEFA Euro 2024 knockout stage#Quarter-finals|Quarter-final]]||align="left"|{{fb|TUR}} '''1–2''' {{fb|NED}}|| bgcolor="#FFA07A"|'''Loss''' ||6 July 2024||[[Berlin]], Germany
+|}
+
+===UEFA Nations League===
+{| class="wikitable" style="text-align:center"
+! style="width:50px;background:#E30A17;color:white;" colspan=11| [[UEFA Nations League|{{white|UEFA Nations League}}]] record
+|-
+!Season
+!Division
+!Group
+!width=28|{{Tooltip|M|Games played}}
+!width=28|{{Tooltip|W|Won}}
+!width=28|{{Tooltip|D|Drawn}}
+!width=28|{{Tooltip|L|Lost}}
+!width=28|{{Tooltip|GF|Goals for}}
+!width=28|{{Tooltip|GA|Goals against}}
+!width=35|{{Tooltip|P/R|Promotion/relegation at end of season}}
+!width=28|{{Tooltip|RK|Overall rank}}
+|-
+|[[2018–19 UEFA Nations League|2018–19]]
+|[[2018–19 UEFA Nations League B|B]]
+|[[2018–19 UEFA Nations League B#Group 2|2]]
+||4||1||0||3||4||7||{{same position}}||22nd
+|-
+|[[2020–21 UEFA Nations League|2020–21]]
+|[[2020–21 UEFA Nations League B|B]]
+|[[2020–21 UEFA Nations League B#Group 3|3]]
+||6||1||3||2||6||8||{{fall}}||29th
+|-
+|[[2022–23 UEFA Nations League|2022–23]]
+|[[2022–23 UEFA Nations League C|C]]
+|[[2022–23 UEFA Nations League C#Group 1|1]]
+||6||4||1||1||18||5||{{rise}}||35th
+|-
+|[[2024–25 UEFA Nations League|2024–25]]
+|[[2024–25 UEFA Nations League B|B]]
+|[[2024–25 UEFA Nations League B#Group 4|4]]
+||8||5||2||1||15||7||{{rise}}||23rd
+|-
+|[[2026–27 UEFA Nations League|2026–27]]
+|
+|
+||||||||||||||||
+|-
+! style="background:#E30A17;color:white;" colspan=3 rowspan=1|Total
+! style="background:#E30A17;color:white;"|24
+! style="background:#E30A17;color:white;"|11
+! style="background:#E30A17;color:white;"|6
+! style="background:#E30A17;color:white;"|7
+! style="background:#E30A17;color:white;"|43
+! style="background:#E30A17;color:white;"|27
+! style="background:#E30A17;color:white;" colspan=2|22nd
+|}
+
+===FIFA Confederations Cup===
+{{main|Turkey at the FIFA Confederations Cup}}
+
+{| class="wikitable" style="text-align:center"
+|-
+! style="width:50px;background:#E30A17;color:white;" colspan=10|[[FIFA Confederations Cup|{{white|FIFA Confederations Cup}}]] record
+|-
+!Year
+!Result
+!Position
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!Squad
+|-
+|{{flagicon|Saudi Arabia}} [[1992 King Fahd Cup|1992]]
+|colspan=9 rowspan=5|''Did not qualify''
+|-
+|{{flagicon|Saudi Arabia}} [[1995 King Fahd Cup|1995]]
+|-
+|{{flagicon|Saudi Arabia}} [[1997 FIFA Confederations Cup|1997]]
+|-
+|{{flagicon|Mexico}} [[1999 FIFA Confederations Cup|1999]]
+|-
+|{{flagicon|South Korea|1997}} {{flagicon|Japan}} [[2001 FIFA Confederations Cup|2001]]
+|- style="background:#c96"
+|{{flagicon|France|1974}} [[2003 FIFA Confederations Cup|2003]]
+|'''Third place'''
+|'''3rd'''
+|'''5'''
+|'''2'''
+|'''1'''
+|'''2'''
+|'''8'''
+|'''8'''
+|'''[[2003 FIFA Confederations Cup squads#Turkey|Squad]]'''
+|-
+|{{flagicon|Germany}} [[2005 FIFA Confederations Cup|2005]]
+|rowspan=4 colspan=9|''Did not qualify''
+|-
+|{{flagicon|South Africa}} [[2009 FIFA Confederations Cup|2009]]
+|-
+|{{flagicon|Brazil}} [[2013 FIFA Confederations Cup|2013]]
+|-
+|{{flagicon|Russia}} [[2017 FIFA Confederations Cup|2017]]
+|-
+! style="background:#E70013;color:#FFFFFF"|Total
+! style="background:#E70013;color:#FFFFFF"|Third place
+! style="background:#E70013;color:#FFFFFF"|1/10
+! style="background:#E70013;color:#FFFFFF"|5
+! style="background:#E70013;color:#FFFFFF"|2
+! style="background:#E70013;color:#FFFFFF"|1
+! style="background:#E70013;color:#FFFFFF"|2
+! style="background:#E70013;color:#FFFFFF"|8
+! style="background:#E70013;color:#FFFFFF"|8
+! style="background:#E70013;color:#FFFFFF"|—
+|}
+
+===Olympic Games===
+{{Main|Football at the Summer Olympics}}
+
+[[File:Ilk-turk-milli-takımı.jpg|thumb|Turkey at the [[Football at the 1924 Summer Olympics|1924 Summer Olympics in Paris]]]]
+[[File:Egypt-Turkey 1928 Summer Olympics.jpg|thumb|Turkey at the [[Football at the 1928 Summer Olympics|1928 Summer Olympics in Amsterdam]]]]
+
+For [[Football at the 1968 Summer Olympics|1968]]–[[Football at the 1988 Summer Olympics|1988]] see [[Turkey national amateur football team|this page]]. Football at the Summer Olympics has been an under-23 tournament since 1992.
+
+{| class="wikitable" style="text-align:center"
+|-
+! style="background:#E30A17;color:white;" colspan=10|[[Football at the Summer Olympics|{{white|Olympic Games}}]] record
+|-
+!Year
+!Result
+!Position
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!Squad
+|-
+|{{flagicon|France|1794}} [[Football at the 1924 Summer Olympics|1924]]||rowspan=3|Round 1||13th||1||0||0||1||2||5|||[[Football at the 1924 Summer Olympics – Men's team squads#Turkey|Squad]]
+|-
+|{{flagicon|Netherlands}} [[Football at the 1928 Summer Olympics|1928]]|||14th||1||0||0||1||1||7||[[Football at the 1928 Summer Olympics – Men's team squads#Turkey|Squad]]
+|-
+|{{flagicon|Nazi Germany}} [[Football at the 1936 Summer Olympics|1936]]|||15th||1||0||0||1||0||1||[[Football at the 1936 Summer Olympics – Men's team squads#Turkey|Squad]]
+|-
+|{{flagicon|United Kingdom}} [[Football at the 1948 Summer Olympics|1948]]||rowspan=2|Quarter-finals||6th||2||1||0||1||5||3||[[Football at the 1948 Summer Olympics – Men's team squads#Turkey|Squad]]
+|-
+|{{flagicon|Finland}} [[Football at the 1952 Summer Olympics|1952]]|||8th||2||1||0||1||3||8||[[Football at the 1952 Summer Olympics – Men's team squads#Turkey|Squad]]
+|-
+|{{flagicon|Australia}} [[Association football at the 1956 Summer Olympics|1956]]||colspan=9|''Withdrew''
+|-
+|{{flagicon|Italy}} [[Football at the 1960 Summer Olympics|1960]]||Round 1||14th||3||0||1||2||3||10||[[Football at the 1960 Summer Olympics – Men's team squads#Turkey|Squad]]
+|-
+|{{flagicon|Japan|1870}} [[Football at the 1964 Summer Olympics|1964]]
+| colspan=9 rowspan=5|''Did not qualify''
+|-
+|{{flagicon|Mexico}} [[Football at the 1968 Summer Olympics|1968]]
+|-
+|{{flagicon|West Germany}} [[Football at the 1972 Summer Olympics|1972]]
+|-
+|{{flagicon|Canada}} [[Football at the 1976 Summer Olympics|1976]]
+|-
+|{{flagicon|Soviet Union}} [[Football at the 1980 Summer Olympics|1980]]
+|-
+|{{flagicon|United States of America}} [[1984 Summer Olympics|1984]]||colspan=9|''Withdrew''
+|-
+|{{flagicon|South Korea|1984}} [[Football at the 1988 Summer Olympics|1988]]
+| colspan=9|''Did not qualify''
+|-
+|Since [[Football at the 1992 Summer Olympics|1992]]||colspan=9|''See [[Turkey national under-23 football team]]''
+|-
+! style="background:#E30A17;color:white;"|Total
+! style="background:#E30A17;color:white;"|Quarter-finals
+! style="background:#E30A17;color:white;"|6/14
+! style="background:#E30A17;color:white;"|10
+! style="background:#E30A17;color:white;"|2
+! style="background:#E30A17;color:white;"|1
+! style="background:#E30A17;color:white;"|7
+! style="background:#E30A17;color:white;"|14
+! style="background:#E30A17;color:white;"|34
+! style="background:#E30A17;color:white;"|—
+|}
+
+===Mediterranean Games===
+{{main|Turkey national football B team}}
+
+{| class="wikitable" style="text-align:center"
+! style="width:50px;background:#E30A17;color:#FFFFFF" colspan=9|[[Mediterranean Games|{{white|Mediterranean Games}}]] record
+|-
+!Year||Result||Position||Pld||W||D||L||GF||GA
+|-
+|{{flagicon|EGY|1922}} [[Football at the 1951 Mediterranean Games|1951]]|| colspan="8" rowspan="2" |''Did not participate''
+|-
+|{{flagicon|ESP|1945}} [[Football at the 1955 Mediterranean Games|1955]]
+|- bgcolor=Silver
+|{{flagicon|LBN}} [[Football at the 1959 Mediterranean Games|1959]]||'''Runners-up'''||'''2nd'''||'''2'''||'''1'''||'''1'''||'''0'''||'''7'''||'''4'''
+|- bgcolor=Silver
+|{{flagicon|ITA}} [[Football at the 1963 Mediterranean Games|1963]]||'''Runners-up''' ||'''2nd'''||'''5'''||'''3'''||'''1'''||'''1'''||'''12'''||'''7'''
+|- bgcolor="#9acdff"
+|{{flagicon|TUN}} [[Football at the 1967 Mediterranean Games|1967]]||Fourth place||4th||5||2||1||2||5||7
+|- bgcolor=#cc9966
+|style="border:3px solid red"|{{flagicon|TUR}} [[Football at the 1971 Mediterranean Games|1971]]||'''Third place'''||'''3rd'''||'''4'''||'''3'''||'''1'''||'''0'''||'''4'''||'''1'''
+|-
+|{{flagicon|ALG}}[[Football at the 1975 Mediterranean Games|1975]]||Group stage||7th||4||0||2||2||1||5
+|-
+|{{flagicon|YUG}} [[Football at the 1979 Mediterranean Games|1979]]||Group stage||5th||3||1||1||1||2||2
+|- bgcolor=Silver
+|{{flagicon|MAR}} [[Football at the 1983 Mediterranean Games|1983]]||'''Runners-up'''||'''2nd'''|||'''4'''||'''2'''||'''0'''||'''2'''||'''4'''||'''5'''
+|- bgcolor=#cc9966
+|{{flagicon|SYR|1980}} [[Football at the 1987 Mediterranean Games|1987]]||'''Third place'''||'''3rd'''|||'''5'''||'''3'''||'''0'''||'''2'''||'''6'''||'''2'''
+|-
+|[[Football at the 1991 Mediterranean Games|1991]]–present
+|colspan=9|''See [[Turkey national under-20 football team]]''
+|-
+! style="background:#E30A17;color:white;"|Total
+! style="background:#E30A17;color:white;"|Runners-up
+! style="background:#E30A17;color:white;"|8/10
+! style="background:#E30A17;color:white;"|32
+! style="background:#E30A17;color:white;"|15
+! style="background:#E30A17;color:white;"|7
+! style="background:#E30A17;color:white;"|10
+! style="background:#E30A17;color:white;"|41
+! style="background:#E30A17;color:white;"|33
+|}
+
+===Mediterranean Cup===
+{{main|Mediterranean Cup (men's football){{!}}Mediterranean Cup}}
+
+{| class="wikitable" style="text-align:center"
+|-
+! style="width:50px;background:#E30A17;color:#FFFFFF" colspan=10|[[Mediterranean Cup|{{white| Mediterranean Cup}}]] record
+|-
+!Year
+!Result
+!Position
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+|- bgcolor=Silver
+|{{flagicon|GRE|old}} 1949
+|'''Runners-up'''||'''2nd'''||'''3'''||'''2'''||'''0'''||'''1'''||'''7'''||'''6'''
+|- bgcolor="#9acdff"
+|[[1950–53 Mediterranean Cup|1950–53]]
+|Fourth place||4th||3||6||1||1||4||4
+|- bgcolor="#9acdff"
+|[[1953–58 Mediterranean Cup|1953–58]]
+|Fourth place||4th||8||2||3||3||7||7
+|-
+! style="background:#E30A17;color:white;"|Total
+! style="background:#E30A17;color:white;"|Runners-up
+! style="background:#E30A17;color:white;"|3/3
+! style="background:#E30A17;color:white;"|14
+! style="background:#E30A17;color:white;"|10
+! style="background:#E30A17;color:white;"|4
+! style="background:#E30A17;color:white;"|5
+! style="background:#E30A17;color:white;"|18
+! style="background:#E30A17;color:white;"|17
+|}
+
+===Balkan Cup===
+{{main|Balkan Cup}}
+
+{| class="wikitable" style="text-align:center"
+|-
+! style="width:50px;background:#E30A17;color:white;" colspan=10|[[Balkan Cup|{{white|Balkan Cup}}]] record
+|-
+!Year
+!Result
+!Position
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+|-
+|[[1929–31 Balkan Cup|1929–31]]||colspan=8|''Did not participate''
+|- bgcolor=Silver
+|{{flagicon|Bulgaria}} [[1931 Balkan Cup|1931]]||'''Runners-up'''||2nd||2||1||0||1||3||5
+|-
+|{{flagicon|Yugoslavia}} [[1932 Balkan Cup|1932]]||colspan=8 rowspan=8|''Did not participate''
+|-
+|{{flagicon|Romania}} [[1933 Balkan Cup|1933]]
+|-
+|{{flagicon|Greece}} [[1934–35 Balkan Cup|1934–35]]
+|-
+|{{flagicon|Bulgaria}} [[1935 Balkan Cup|1935]]
+|-
+|{{flagicon|Romania}} [[1936 Balkan Cup|1936]]
+|-
+|{{flagicon|Albania}} [[1946 Balkan Cup|1946]]
+|-
+|[[1947 Balkan Cup|1947]]
+|-
+|[[1948 Balkan Cup|1948]]
+|-
+|[[1973–76 Balkan Cup|1973–76]]||Semi-finals||4th||2||1||0||1||6||7
+|-
+|[[1977–80 Balkan Cup|1977–80]]||Group stage||3rd||4||1||1||2||4||8
+|-
+! style="background:#E30A17;color:white;"|Total
+! style="background:#E30A17;color:white;"|Runners-up
+! style="background:#E30A17;color:white;"|3/12
+! style="background:#E30A17;color:white;"|8
+! style="background:#E30A17;color:white;"|3
+! style="background:#E30A17;color:white;"|1
+! style="background:#E30A17;color:white;"|4
+! style="background:#E30A17;color:white;"|13
+! style="background:#E30A17;color:white;"|20
+|}
+
+===ECO Cup===
+{{main|ECO Cup}}
+
+{| class="wikitable" style="text-align:center"
+|-
+! style="width:50px;background:#E30A17;color:white;" colspan=10|[[ECO Cup|{{white|ECO Cup}}]] record
+|-
+!Year
+!Result
+!Position
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+|- style="background:silver"
+|{{flagicon|Iran|1964}} [[1965 RCD Cup|1965]]||'''Runners-up'''||2nd||2||1||1||0||3||1
+|- style="background:gold"
+|{{flagicon|Pakistan}} [[1967 RCD Cup|1967]]||'''Champions'''||1st||4||2||2||0||8||4
+|- style="background:gold"
+|style="border:3px solid red"|{{flagicon|Turkey}} [[1969 RCD Cup|1969]]||'''Champions'''||1st||4||2||2||0||8||2
+|- style="background:silver"
+|{{flagicon|Iran|1964}} [[1970 RCD Cup|1970]]||'''Runners-up'''||2nd||3||2||1||0||4||2
+|- style="background:gold"
+|{{flagicon|Pakistan}} [[1974 RCD Cup|1974]]||'''Champions'''||1st||3||2||1||0||3||2
+|-
+|{{flagicon|Iran}} [[1993 ECO Cup|1993]]||colspan=8|''Did not participate''
+|-
+! style="background:#E30A17;color:white;"|Total
+! style="background:#E30A17;color:white;"|3 titles
+! style="background:#E30A17;color:white;"|5/6
+! style="background:#E30A17;color:white;"|16
+! style="background:#E30A17;color:white;"|9
+! style="background:#E30A17;color:white;"|7
+! style="background:#E30A17;color:white;"|0
+! style="background:#E30A17;color:white;"|26
+! style="background:#E30A17;color:white;"|11
+|}
+
+==Head-to-head record==
+{{main|Turkey national football team results}}
+
+The following table shows Turkey's all-time international record, {{as of|2026|06|25|post=.|lc=y}}
+
+{{legend2|#CCFFCC|Positive record|border=1px solid #AAAAAA}}<br>
+{{legend2|#ffffbf|Neutral record|border=1px solid #AAAAAA}}<br>
+{{legend2|#e2b0af|Negative record|border=1px solid #AAAAAA}}
+{| class="wikitable sortable" style="text-align:center"
+|- style="color:black"
+! style="width:145px"|Opponents
+!width=30|{{Tooltip|Pld|Games played}}
+!width=30|{{Tooltip|W|Won}}
+!width=30|{{Tooltip|D|Drawn}}
+!width=30|{{Tooltip|L|Lost}}
+!width=35|{{Tooltip|GF|Goals for}}
+!width=35|{{Tooltip|GA|Goals against}}
+!width=35|{{Tooltip|GD|Goals difference}}
+|-bgcolor="#CCFFCC"
+|style="text-align:left"|{{fb|ALB}}||12||6||2||4||13||14||-1
+|-bgcolor="#e2b0af"
+|style="text-align:left"|{{fb|ALG}}||3||1||0||2||4||2||+2
+|-bgcolor="#CCFFCC"
+|style="text-align:left"|{{fb|AND}}||4||4||0||0||10||0||+10
+|-bgcolor="#CCFFCC"
+|style="text-align:left"|{{fb|ANG}}||1||1||0||0||3||2||+1
+|-bgcolor="#CCFFCC"
+|style="text-align:left"|{{fb|ARM}}||4||3||1||0||7||2||+5
+|-bgcolor="#CCFFCC"
+|style="text-align:left"|{{fb|AUS}}||3||2||0||1||4||3||+1
+|-bgcolor="#e2b0af"
+|style="text-align:left"|{{fb|AUT}}||18||8||1||9||25||25||0
+|-bgcolor="#CCFFCC"
+|style="text-align:left"|{{fb|AZE}}||[[Azerbaijan–Turkey football rivalry|8]]||6||1||1||11||3||+8
+|-bgcolor="#CCFFCC"
+|style="text-align:left"|{{fb|BLR}}||4||2||1||1||8||7||+1
+|-bgcolor="#ffffbf"
+|style="text-align:left"|{{fb|BEL}}||11||3||5||3||17||18||-1
+|-bgcolor="#ffffbf"
+|style="text-align:left"|{{fb|BIH}}||6||2||2||2||6||7||-1
+|-bgcolor="#e2b0af"
+|style="text-align:left"|{{fb|BRA}}||6||0||2||4||3||10||-7
+|-bgcolor="#e2b0af"
+|style="text-align:left"|{{fb|BUL}}||29||9||6||14||42||52||-10
+|-bgcolor="#e2b0af"
+|style="text-align:left"|{{fb|CMR}}||1||0||0||1||0||1||-1
+|-bgcolor="#CCFFCC"
+|style="text-align:left"|{{fb|CAN}}||2||2||0||0||6||1||+5
+|-bgcolor="#CCFFCC"
+|style="text-align:left"|{{fb|CHI}}||3||2||1||0||3||0||+3
+|-bgcolor="#CCFFCC"
+|style="text-align:left"|{{fb|CHN}}||2||2||0||0||7||0||+7
+|-bgcolor="#CCFFCC"
+|style="text-align:left"|{{fb|COL}}||1||1||0||0||2||1||+1
+|-bgcolor="#ffffbf"
+|style="text-align:left"|{{fb|CRI}}||1||0||1||0||1||1||0
+|-bgcolor="#e2b0af"
+|style="text-align:left"|{{fb|CRO}}||12||2||6||4||11||15||-4
+|-bgcolor="#e2b0af"
+|style="text-align:left"|{{fb|CZE}}{{refn|Includes the results of {{fb|TCH}}.|group="note"}}||22||7||3||12||22||46||-24
+|-bgcolor="#e2b0af"
+|style="text-align:left"|{{fb|DEN}}||10||2||5||3||9||12||-3
+|-bgcolor="#CCFFCC"
+|style="text-align:left"|{{fb|DDR}}||5||3||1||1||10||5||+5
+|-bgcolor="#e2b0af"
+|style="text-align:left"|{{fb|ECU}}||1||0||0||1||0||1||-1
+|-bgcolor="#CCFFCC"
+|style="text-align:left"|{{fb|EGY}}||6||4||0||2||13||10||+3
+|-bgcolor="#e2b0af"
+|style="text-align:left"|{{fb|ENG}}||11||0||2||9||1||33||-32
+|-bgcolor="#CCFFCC"
+|style="text-align:left"|{{fb|EST}}||8||5||3||0||17||4||+13
+|-bgcolor="#CCFFCC"
+|style="text-align:left"|{{fb|ETH}}||2||1||1||0||3||0||+3
+|-bgcolor="#ffffbf"
+|style="text-align:left"|{{fb|FRO}}||3||1||1||1||6||3||+3
+|-bgcolor="#e2b0af"
+|style="text-align:left"|{{fb|FIN}}||15||5||4||6||24||22||+2
+|-bgcolor="#e2b0af"
+|style="text-align:left"|{{fb|FRA}}||6||1||1||4||5||13||-8
+|-bgcolor="#CCFFCC"
+|style="text-align:left"|{{fb|GEO}}||9||7||1||1||26||10||+16
+|-bgcolor="#e2b0af"
+|style="text-align:left"|{{fb|GER}}{{refn|Includes the results of {{fb|FRG}}.|group="note"}}||22||4||4||14||16||52||-36
+|-bgcolor="#ffffbf"
+|style="text-align:left"|{{fb|GHA}}||2||0||2||0||3||3||0
+|-bgcolor="#CCFFCC"
+|style="text-align:left"|{{fb|GIB}}||2||2||0||0||9||0||+9
+|-bgcolor="#CCFFCC"
+|style="text-align:left"|{{fb|GRE}}||14||9||2||3||22||11||+11
+|-bgcolor="#ffffbf"
+|style="text-align:left"|{{fb|GUI}}||1||0||1||0||0||0||0
+|-bgcolor="#CCFFCC"
+|style="text-align:left"|{{fb|HON}}||3||3||0||0||5||0||+5
+|-bgcolor="#e2b0af"
+|style="text-align:left"|{{fb|HUN}}||20||7||2||11||26||36||-10
+|-bgcolor="#e2b0af"
+|style="text-align:left"|{{fb|ISL}}||15||4||3||8||18||26||-8
+|-bgcolor="#CCFFCC"
+|style="text-align:left"|{{fb|IRN}}||7||5||2||0||14||2||+12
+|-bgcolor="#CCFFCC"
+|style="text-align:left"|{{fb|IRQ}}||3||2||1||0||8||1||+7
+|-bgcolor="#CCFFCC"
+|style="text-align:left"|{{fb|ISR}}||6||4||0||2||9||12||-3
+|-bgcolor="#e2b0af"
+|style="text-align:left"|{{fb|ITA}}||16||0||5||11||10||29||-19
+|-bgcolor="#ffffbf"
+|style="text-align:left"|{{fb|CIV}}||1||0||1||0||1||1||0
+|-bgcolor="#e2b0af"
+|style="text-align:left"|{{fb|JPN}}||3||1||0||2||3||5||-2
+|-bgcolor="#CCFFCC"
+|style="text-align:left"|{{fb|KAZ}}||6||6||0||0||19||2||+17
+|-bgcolor="#CCFFCC"
+|style="text-align:left"|{{fb|KOS}}||4||4||0||0||13||2||+11
+|-bgcolor="#CCFFCC"
+|style="text-align:left"|{{fb|LVA}}||10||4||5||1||22||15||+7
+|-bgcolor="#e2b0af"
+|style="text-align:left"|{{fb|LBY}}||2||0||1||1||2||3||-1
+|-bgcolor="#CCFFCC"
+|style="text-align:left"|{{fb|LIE}}||2||2||0||0||9||0||+9
+|-bgcolor="#CCFFCC"
+|style="text-align:left"|{{fb|LTU}}||2||2||0||0||8||0||+8
+|-bgcolor="#CCFFCC"
+|style="text-align:left"|{{fb|LUX}}||9||7||1||1||18||9||+9
+|-bgcolor="#CCFFCC"
+|style="text-align:left"|{{fb|MAS}}||1||1||0||0||3||0||+3
+|-bgcolor="#CCFFCC"
+|style="text-align:left"|{{fb|MLT}}||6||5||1||0||15||4||+11
+|-bgcolor="#CCFFCC"
+|style="text-align:left"|{{fb|MDA}}||13||11||2||0||35||3||+32
+|-bgcolor="#CCFFCC"
+|style="text-align:left"|{{fb|MNE}}||6||3||2||1||9||8||+1
+|-bgcolor="#e2b0af"
+|style="text-align:left"|{{fb|MEX}}||1||0||0||1||0||1||-1
+|-bgcolor="#e2b0af"
+|style="text-align:left"|{{fb|NED}}||15||4||4||7||15||23||-8
+|-bgcolor="#CCFFCC"
+|style="text-align:left"|{{fb|NZL}}||1||1||0||0||2||1||+1
+|-bgcolor="#CCFFCC"
+|style="text-align:left"|{{fb|MKD}}||9||6||2||1||18||9||+9
+|-bgcolor="#ffffbf"
+|style="text-align:left"|{{fb|NIR}}||12||5||2||5||12||12||0
+|-bgcolor="#CCFFCC"
+|style="text-align:left"|{{fb|NOR}}||11||5||3||3||15||16||-1
+|-bgcolor="#CCFFCC"
+|style="text-align:left"|{{fb|PAK}}||5||4||1||0||20||10||+10
+|-bgcolor="#e2b0af"
+|style="text-align:left"|{{fb|PAR}}||2||0||1||1||0||1||-1
+|-bgcolor="#e2b0af"
+|style="text-align:left"|{{fb|POL}}||18||3||3||12||13||41||-28
+|-bgcolor="#e2b0af"
+|style="text-align:left"|{{fb|POR}}||10||2||0||8||9||22||-13
+|-bgcolor="#CCFFCC"
+|style="text-align:left"|{{fb|QAT}}||1||1||0||0||2||1||+1
+|-bgcolor="#e2b0af"
+|style="text-align:left"|{{fb|IRL}}||14||3||6||5||16||27||-11
+|-bgcolor="#e2b0af"
+|style="text-align:left"|{{fb|ROU}}||28||7||7||14||26||49||-23
+|-bgcolor="#e2b0af"
+|style="text-align:left"|{{fb|RUS}}{{refn|Includes the results of {{fb|URS}}.|group="note"}}||23||4||3||16||12||39||-27
+|-bgcolor="#CCFFCC"
+|style="text-align:left"|{{fb|SMR}}||4||3||1||0||16||1||+15
+|-bgcolor="#CCFFCC"
+|style="text-align:left"|{{fb|KSA}}||3||3||0||0||6||1||+5
+|-bgcolor="#CCFFCC"
+|style="text-align:left"|{{fb|SCO}}||2||2||0||0||4||2||+2
+|-bgcolor="#CCFFCC"
+|style="text-align:left"|{{fb|SEN}}||1||1||0||0||1||0||+1
+|-bgcolor="#CCFFCC"
+|style="text-align:left"|{{fb|SVK}}||6||4||1||1||8||3||+5
+|-bgcolor="#ffffbf"
+|style="text-align:left"|{{fb|SVN}}||2||1||0||1||1||2||-1
+|-bgcolor="#e2b0af"
+|style="text-align:left"|{{fb|RSA}}||1||0||0||1||0||2||-2
+|-bgcolor="#CCFFCC"
+|style="text-align:left"|{{fb|KOR}}||7||4||2||1||13||4||+9
+|-bgcolor="#e2b0af"
+|style="text-align:left"|{{fb|ESP}}||13||1||5||7||7||25||-18
+|-bgcolor="#e2b0af"
+|style="text-align:left"|{{fb|SRB}}{{refn|Includes the results of {{fb|YUG}}.|group="note"}}||12||1||5||6||16||28||-12
+|-bgcolor="#CCFFCC"
+|style="text-align:left"|{{fb|SWE}}||12||5||4||3||15||14||+1
+|-bgcolor="#CCFFCC"
+|style="text-align:left"|{{fb|SUI}}||16||8||3||5||22||23||-1
+|-bgcolor="#CCFFCC"
+|style="text-align:left"|{{fb|SYR}}||1||1||0||0||7||0||+7
+|-bgcolor="#CCFFCC"
+|style="text-align:left"|{{fb|TUN}}||5||1||4||0||6||3||+3
+|-bgcolor="#CCFFCC"
+|style="text-align:left"|{{fb|UKR}}||9||4||3||2||11||9||+2
+|-bgcolor="#CCFFCC"
+|style="text-align:left"|{{fb|USA}}||6||3||1||2||10||9||+1
+|-bgcolor="#e2b0af"
+|style="text-align:left"|{{fb|URU}}||1||0||0||1||2||3||-1
+|-bgcolor="#CCFFCC"
+|style="text-align:left"|{{fb|UZB}}||1||1||0||0||2||0||+2
+|-bgcolor="#CCFFCC"
+|style="text-align:left"|{{fb|VEN}}||1||1||0||0||2||1||+1
+|-bgcolor="#CCFFCC"
+|style="text-align:left"|{{fb|WAL}}||13||5||4||4||14||14||0
+|-
+! Total (93)
+! 658 !! 264 !! 151 !! 243 !! 919 !! 935 !! -16
+|}
+
+{{reflist|group=note}}
+
+==Honours==
+===Global===
+* '''[[FIFA World Cup]]'''
+** {{bronze3}} Third place (1): [[2002 FIFA World Cup|2002]]
+* '''[[FIFA Confederations Cup]]'''
+** {{bronze3}} Third place (1): [[2003 FIFA Confederations Cup|2003]]
+
+===Continental===
+*'''[[UEFA European Championship]]'''
+** Semi-finalist: [[UEFA Euro 2008|2008]]{{Efn|Although there was no [[Third place playoff|third-place play-off]] match, UEFA decided to award the defeated semi-finalists of Euro 2008 with bronze medals.<ref>{{cite web |title=Regulations of the UEFA European Football Championship 2006/08 |url=https://www.uefa.com/newsfiles/19079.pdf |publisher=UEFA |access-date=13 October 2024 |location=2.08 |page=3 }}</ref>}}
+
+===Regional===
+* '''[[Balkan Cup]]'''
+** Runners-up (1): [[1931 Balkan Cup|1931]]
+* '''[[Mediterranean Cup (men's football)|Mediterranean Cup]]'''
+** Runners-up (1): 1949
+* '''[[Islamic Games]]'''
+** Silver medal (1): [[Football at the Islamic Games|1980]]
+
+===Friendly===
+* '''[[ECO Cup]]'''
+** '''Champions (3):''' 1967, 1969, 1974
+** Runners-up (2): 1965, 1970
+
+===Summary===
+{| class="wikitable" width=30% style="font-size:90%; text-align:center;"
+|-
+!Competition !!{{gold1}} !!{{silver2}} !!{{bronze3}} !!Total
+|-
+|align=left|[[FIFA World Cup]]
+|0||0||1||1
+|-
+| align="left" |[[FIFA Confederations Cup]]
+|0||0||1||1
+|-
+!Total!!0!!0!!2!!2
+|}
+
+===Decoration===
+In 2002, the national team was honored with the Turkish "[[State Medal of Distinguished Service]]" for their third place achievement at the [[2002 FIFA World Cup]]. All the team members, coaches and officials were given medals.<ref>{{cite web|url=http://www.tccb.gov.tr/ahmet-necdet-sezer-konusmalari/495/56762/a-milli-futbol-takimimiza-devlet-ustun-hizmet-madalyasi-verilmesi-toreni.html|title=Hata Sayfası|website=tccb.gov.tr|access-date=29 October 2016|archive-date=7 July 2015|archive-url=https://web.archive.org/web/20150707080130/http://www.tccb.gov.tr/ahmet-necdet-sezer-konusmalari/495/56762/a-milli-futbol-takimimiza-devlet-ustun-hizmet-madalyasi-verilmesi-toreni.html|url-status=live}}</ref>
+
+==See also==
+{{portal bar|Association football|Türkiye}}
+* [[Turkey national football team results]]
+* [[List of Turkey international footballers]]
+* [[List of Turkey national football team managers]]
+* [[Turkey national football B team]]
+* [[Turkey national under-21 football team]]
+* [[Turkey national under-20 football team]]
+* [[Turkey national under-19 football team]]
+* [[Turkey national under-18 football team]]
+* [[Turkey national under-17 football team]]
+* [[Turkey national under-16 football team]]
+* [[Turkey national under-15 football team]]
+* [[Turkey national youth football team]]
+* [[Turkish football clubs in European competitions]]
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+;Bibliography:
+{{refbegin}}
+<!--The books and other sources used for the references in the article. All references should use the Citation template.-->
+<!--Sorted alphabetically by the author's last name-->
+<!--Sources without author names should be listed at the bottom in order of title. The anchor template may help to link references.-->
+*{{cite book|last1=Akar|first1=Rıdvan|last2=Tunç|first2=Sevecen|title=Beşiktaş Mimarları - "Baba" Hakkı|year=2017|publisher=İnkılâp Yayınları|location=Turkey|isbn=978-975-10-3843-2|language=tr}}
+*{{cite book|last=Çakır|first=Ahmet|title=Milli Takım ve Dünya Kupası|year=2002|publisher=Altın Kitaplar|location=Istanbul|isbn=9752102662|language=tr}}
+*{{cite book|last=Demirkol|first=Mehmet|title=Tae Han Min Guk 2002 Dünya Kupası Mektupları|year=2002|publisher=İletişim Yayınları|location=Istanbul|isbn=975050075X|language=tr}}
+*{{cite book|last=Dilek|first=Hakan|title=İşte Böyle Bir Şey|year=2002|publisher=İletişim Yayınları|location=Istanbul|isbn=9789750500206|language=tr}}
+*{{cite book|last=Kıvanç|first=Halit|title=Futbol! Bir Aşk...|year=2004|publisher=İletişim Yayınları|location=Istanbul|isbn=9789750502576|language=tr}}
+*{{cite book|last=Yüce|first=Mehmet|title=Osmanlı Melekleri: Futbol Tarihimizin Kadim Devreleri Türkiye Futbol Tarihi - Birinci Cilt |year=2014|publisher=İletişim Yayınları|location=Istanbul|isbn=9789750515804|language=tr}}
+*{{cite book|last=Yüce|first=Mehmet|title=İdmancı Ruhlar: Futbol Tarihimizin Klasik Devreleri: 1923-1952 Türkiye Futbol Tarihi - 2. Cilt |year=2015|publisher=İletişim Yayınları|location=Istanbul|isbn=9789750516955|language=tr}}
+*{{cite book|last=Yüce|first=Mehmet|title=Romantik Yürekler: Futbol Tarihimizin Yeni Devreleri: 1952-1992 Türkiye Futbol Tarihi 3. Cilt |year=2016|publisher=İletişim Yayınları|location=Istanbul|isbn=9789750519932|language=tr}}
+{{refend}}
+
+==External links==
+{{commons category|Turkey national association football team}}
+* {{Official website|https://www.tff.org/}}
+* [https://www.fifa.com/about-fifa/associations/TUR Turkey] at [[FIFA]]
+
+{{Men's Mediterranean Games Football winners}}
+{{Turkey national football team}}
+{{Navboxes||title=Squads|list1=
+{{Turkey football squad 1924 Summer Olympics}}
+{{Turkey football squad 1928 Summer Olympics}}
+{{Turkey football squad 1936 Summer Olympics}}
+{{Turkey football squad 1948 Summer Olympics}}
+{{Turkey football squad 1952 Summer Olympics}}
+{{Turkey squad 1954 FIFA World Cup}}
+{{Turkey football squad 1960 Summer Olympics}}
+{{Turkey squad UEFA Euro 1996}}
+{{Turkey squad UEFA Euro 2000}}
+{{Turkey squad 2002 FIFA World Cup}}
+{{Turkey squad 2003 FIFA Confederations Cup}}
+{{Turkey squad UEFA Euro 2008}}
+{{Turkey squad UEFA Euro 2016}}
+{{Turkey squad UEFA Euro 2020}}
+{{Turkey squad UEFA Euro 2024}}
+{{Turkey squad 2026 FIFA World Cup}}
+}}
+{{Navboxes||title=Finalists|list1=
+{{1954 FIFA World Cup finalists}}
+{{UEFA Euro 1996 finalists}}
+{{UEFA Euro 2000 finalists}}
+{{2002 FIFA World Cup finalists}}
+{{2003 FIFA Confederations Cup finalists}}
+{{UEFA Euro 2008 finalists}}
+{{UEFA Euro 2016 finalists}}
+{{UEFA Euro 2020 finalists}}
+{{UEFA Euro 2024 finalists}}
+{{2026 FIFA World Cup finalists}}
+}}
+{{Football in Turkey}}
+{{UEFA teams}}
+{{National sports teams of Turkey}}
+
+[[Category:Turkey national football team| ]]
+[[Category:Turkey men's national football teams| ]]
+[[Category:European national association football teams]]
+[[Category:Recipients of the State Medal of Distinguished Service]]
+[[Category:1923 establishments in Turkey]]
+[[Category:National sports teams established in 1923]]

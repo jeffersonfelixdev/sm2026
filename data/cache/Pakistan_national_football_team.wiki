@@ -1,0 +1,1322 @@
+{{Short description|Men's association football team}}
+{{About|the men's team|the women's team|Pakistan women's national football team}}
+{{Use British English|date = March 2026}}
+{{Use dmy dates|date=March 2026}}
+{{Infobox national football team
+| Name                  = Pakistan
+| Nickname              = {{Plainlist|
+* The [[Shahin falcon|Shahins]]{{refn|group=note|name=nickname|{{lang|ur|{{unq|شاہین}}}}}}}}
+| Badge                 = Flag of Pakistan.svg
+| Association           = [[Pakistan Football Federation]] (PFF)
+| Confederation         = [[Asian Football Confederation|AFC]] (Asia)
+| Sub-confederation     = [[South Asian Football Federation|SAFF]] (South Asia)
+| website               = {{official URL}}
+| Coach                 = [[Nolberto Solano]]
+| Captain               = [[Abdullah Iqbal]]
+| Most caps             = [[Haroon Yousaf]] (49)
+| Top scorer            = [[Muhammad Umer ]] (14)
+| Home Stadium          = [[Jinnah Sports Stadium|Jinnah Stadium]]
+| pattern_la1           = _pak23h2
+| pattern_b1            = _pak23h2
+| pattern_ra1           = _pak23h2
+| pattern_sh1           = _pak23h2
+| leftarm1              =
+| body1                 =
+| rightarm1             =
+| shorts1               =
+| socks1                = 0E4E27
+| pattern_la2           = _pak23a2
+| pattern_b2            = _pak23a2
+| pattern_ra2           = _pak23a2
+| pattern_sh2           =
+| leftarm2              = FFFFFF
+| body2                 = FFFFFF
+| rightarm2             = FFFFFF
+| shorts2               = FFFFFF
+| socks2                = FFFFFF
+| FIFA Trigramme        = PAK
+| FIFA Rank             = {{FIFA World Rankings|PAK}}
+| FIFA max              = 141
+| FIFA max date         = February 1994<ref>{{Cite web |url=https://www.fifa.com/fifa-world-ranking/PAK |title=FIFA |access-date=9 August 2023 |archive-date=14 July 2023 |archive-url=https://web.archive.org/web/20230714234636/https://www.fifa.com/fifa-world-ranking/PAK |url-status=live }}</ref>
+| FIFA min              = 205
+| FIFA min date         = June 2019
+| Elo Rank              = {{World Football Elo Ratings|Pakistan}}
+| Elo max               = 96
+| Elo max date          = 9 December 1959
+| Elo min               = 208
+| Elo min date          = 2012
+| First game            = {{fb|IRN|1964}} 5–1 {{fb-rt|PAK}}<br>([[Tehran]], [[Iran]]; 27 October 1950)
+| Largest win           = {{fb|PAK}} 7–0 {{fb-rt|THA}}<br>([[Kuala Lumpur]], [[Malaysia]]; 5 August 1960)<ref>{{cite web|url=https://www.fifa.com/live-scores/teams/country=pak/men/matches/index.html#year1960|archive-url=https://web.archive.org/web/20160620162333/http://www.fifa.com/live-scores/teams/country=pak/men/matches/index.html#year1960|url-status=dead|archive-date=20 June 2016|title=Live Scores – Pakistan – Matches |website=FIFA}}</ref><br>{{fb|PAK}} 9–2 {{fb-rt|Guam}}<br>([[Taipei]], [[Taiwan]]; 6 April 2008)<ref>{{cite web|url=https://www.fifa.com/live-scores/teams/country=pak/men/matches/index.html#year2008|archive-url=https://web.archive.org/web/20160620162333/http://www.fifa.com/live-scores/teams/country=pak/men/matches/index.html#year2008|url-status=dead|archive-date=20 June 2016|title=Live Scores – Pakistan – Matches|website=FIFA}}</ref><br>{{fb|PAK}} 7–0 {{fb-rt|BHU}}<br>([[Dhaka]], [[Bangladesh]]; 8 December 2009)<ref>{{cite web|url=https://www.fifa.com/live-scores/teams/country=pak/men/matches/index.html#year2009|archive-url=https://web.archive.org/web/20160620162333/http://www.fifa.com/live-scores/teams/country=pak/men/matches/index.html#year2009|url-status=dead|archive-date=20 June 2016|title=Live Scores – Pakistan – Matches |website=FIFA}}</ref>
+| Largest loss          = {{fb|IRN|1964}} 9–1 {{fb-rt|PAK}}<br>([[Tehran]], [[Iran]]; 12 March 1969)<br>{{fb|PAK}} 0–8 {{fb-rt|IRQ|1991}}<br>([[Amman]], [[Jordan]]; 28 May 1993)
+| World cup apps        = 
+| World cup best        = 
+| Regional name         = 
+| Regional cup apps     = 
+| Regional cup first    = 
+| Regional cup best     = 
+| 2ndRegional name      = [[AFC Challenge Cup]]
+| 2ndRegional cup apps  = 1
+| 2ndRegional cup first = [[2006 AFC Challenge Cup|2006]]
+| 2ndRegional cup best  = Group stage ([[2006 AFC Challenge Cup|2006]])
+| 3rdRegional name      = [[Football at the Asian Games|Asian Games]]
+| 3rdRegional cup apps  = 5
+| 3rdRegional cup first = [[Football at the 1954 Asian Games|1954]]
+| 3rdRegional cup best  = Sixth place ([[Football at the 1954 Asian Games|1954]])
+| 4thRegional name      = [[SAFF Championship]]
+| 4thRegional cup apps  = 12
+| 4thRegional cup first = [[1993 SAARC Gold Cup|1993]]
+| 4thRegional cup best  = Third place ([[1997 SAFF Gold Cup|1997]])
+| medaltemplates        =
+{{MedalSport|Men's [[association football|Football]]}}
+{{Medal|Competition|[[SAFF Championship]]}}
+{{MedalBronze| [[1997 SAFF Gold Cup|1997 Nepal]]|Team}}
+{{MedalCompetition|[[South Asian Games]]}}
+{{MedalGold|[[Football at the 1989 South Asian Games|1989 Islamabad]]|Team}}
+{{MedalGold|[[Football at the 1991 South Asian Games|1991 Colombo]]|Team}}
+{{MedalBronze|[[Football at the 1987 South Asian Games|1987 Calcutta]]|Team}}
+}}
+
+The '''Pakistan national football team'''{{refn|group=note|{{langx|ur|{{nastaliq|پاکستان قومی فٹ بال ٹیم}}}}}} represents [[Pakistan]] in men's international [[Association football|football]] in [[FIFA]]-authorised events and is controlled by the [[Pakistan Football Federation]], the governing body for [[football in Pakistan]]. Pakistan became a member of FIFA in 1948 and joined the [[Asian Football Confederation]] in 1954.
+
+Pakistan's national team debuted in 1950 and has yet to qualify for the [[FIFA World Cup]] finals. Pakistan has never qualified for any major tournament outside the South Asian region, although on regional level the team has won the [[1952 Asian Quadrangular Football Tournament]], and has achieved gold at the [[Football at the South Asian Games|South Asian Games]] in [[Football at the 1989 South Asian Games|1989]] and [[Football at the 1991 South Asian Games|1991]]. Pakistan had a brief period of emergence in the 1950s and early 1960s, but as the global popularity of football surged, the sport's standing in Pakistan deteriorated. 
+
+The standard achieved in the early years could not be maintained because of lack of organisation of the game and the administration's lack of attention to football.<ref name=":112">{{Cite web |date=26 June 2024 |title=Rising Popularity of Football in Pakistan Reflects Growing Interest in the Sport |url=https://dailytimes.com.pk/1204028/rising-popularity-of-football-in-pakistan-reflects-growing-interest-in-the-sport/ |access-date=11 August 2024 |website=Daily Times |language=en-US}}</ref> Football has also struggled to gain popularity in Pakistan largely due to the heavy influence of [[cricket]] in South Asia.<ref>{{Cite web |last=Sohail |first=Shahrukh |date=1 November 2020 |title=Football: Soccer's Scoreless Sheet |url=https://www.dawn.com/news/1587949 |url-status=live |archive-url=https://web.archive.org/web/20201102192239/https://www.dawn.com/news/1587949 |archive-date=2 November 2020 |access-date=2 November 2020 |website=[[Dawn (newspaper)|Dawn]] |language=en}}</ref>
+
+== History ==
+=== Early years (1950s) ===
+[[File:Taj vs Pakistan, 30 October 1950.jpg|left|thumb|210x210px|Pakistan (in light kit and barefoot) against [[Esteghlal F.C.|Taj]] on 30 October 1950]]
+Shortly after the creation of Pakistan in 1947, the [[Pakistan Football Federation]] (PFF) was created, and [[Muhammad Ali Jinnah]] became its first Patron-in-Chief. PFF received recognition from [[FIFA]] in early 1948.<ref name=":8" /> Following the conclusion of the inaugural [[National Football Championship (Pakistan)|National Football Championship]] in 1948, then known as the ''Inter-Provincial Football Tournament'', the [[Pakistan Football Federation]] planned to send a national team to compete at the [[1948 Summer Olympics]].<ref>{{Cite web |date=14 March 1948 |title=Pakistan Football Federation |url=https://www.britishnewspaperarchive.co.uk/viewer/bl/0003221/19480314/189/0011 |website=britishnewspaperarchive.co.uk}}</ref><ref>{{Cite web |date=16 March 1948 |title=Pakistan Likely to Send Soccer Team to Olympiad |url=https://www.britishnewspaperarchive.co.uk/viewer/bl/0003221/19480316/127/0009 |website=britishnewspaperarchive.co.uk}}</ref> However, for reasons that remain unclear, the team ultimately did not participate in the tournament.
+
+In 1950, Pakistan faced [[Iran national football team|Iran]] in their first official international game in [[Tehran]] on 27 October 1950, losing the game 5–1, with [[Abdul Wahid Durrani]] scoring the lone goal for Pakistan. The match also took place during the Shah of Iran's birthday celebrations. Reportedly the Pakistan national team played the match barefoot, which was the norm back in South Asia.<ref name=":8" /> Pakistan also engaged in unofficial friendly matches during the tour, losing against Tehran's [[Esteghlal F.C.|Taj]] by 1–6 scoreline and drew 2–2 against a team from [[Isfahan]].<ref name=":8" /> The next month, the team toured the country of [[Iraq]], where due to the [[Iraq Football Association]]'s inability to gather a full national team, Pakistan played an unofficial friendly against the club [[Al-Haras Al-Malaki]], which resulted in a 1–1 draw.<ref name=":9">{{Cite web |title=Pakistan Tour of Iran and Iraq 1950 |url=https://www.rsssf.org/tablesp/paki-ii50.html |url-status=live |archive-url=https://web.archive.org/web/20230721154213/https://www.rsssf.org/tablesp/paki-ii50.html |archive-date=21 July 2023 |access-date=21 July 2023 |website=RSSSF}}</ref>
+[[File:Pakistan national football team 1953.jpg|left|thumb|Pakistan national team in 1953]]
+
+Pakistan's next international outing came in the [[1952 Asian Quadrangular Football Tournament]] where the team finished as joint champions alongside [[India men's national football team|India]] after finishing with the same points in the table. Pakistan was awarded the shared trophy for the first six months after winning a coin toss.<ref>{{Cite web |title=Times of Ceylon 1952.03.24 — South Asian Newspapers |url=https://gpa.eastview.com/crl/san/?a=d&d=tocy19520324-01.1.12 |access-date=17 July 2025 |website=gpa.eastview.com}}</ref><ref name="rsssf">{{cite web |title=Asian Quadrangular Tournament (Colombo Cup) 1952–1955 |url=https://www.rsssf.org/tablesb/brindies-quad.html |access-date=20 July 2021 |publisher=[[RSSSF]] |archive-date=20 August 2022 |archive-url=https://web.archive.org/web/20220820110914/https://www.rsssf.org/tablesb/brindies-quad.html |url-status=live }}</ref> The same year, Pakistan played a [[Exhibition game|friendly]] against [[Iran national football team|Iran]] in home venue, with the match ending in a goalless draw.<ref name=":8" />
+
+During the early 1950s, Pakistan played internationally in the following [[Asian Quadrangular Football Tournament]] editions which were played in Burma in [[1953 Asian Quadrangular Football Tournament|1953]], India in [[1954 Asian Quadrangular Football Tournament|1954]], [[East Pakistan]] in [[1955 Asian Quadrangular Football Tournament|1955]].<ref name=":8">{{cite web |last=Ahsan |first=Ali |date=23 December 2010 |title=A history of football in Pakistan – Part I |url=https://www.dawn.com/news/593095/a-history-of-football-in-pakistan-part-i |url-status=live |archive-url=https://web.archive.org/web/20220904220323/https://www.dawn.com/2010/12/23/a-history-of-football-in-pakistan-part-i/ |archive-date=4 September 2022 |access-date=1 March 2014 |website=[[Dawn (newspaper)|Dawn]] |publisher= |location=Karachi, Pakistan}}</ref> The team made its first appearance at the [[Football at the 1954 Asian Games|1954 Asian Games]] in [[Manila]], [[Philippines]], where [[Masood Fakhri]] had most notably become the first Pakistani player to score a [[hat-trick]] in an international match'','' as Pakistan thumped [[Singapore national football team|Singapore]] 6–2 in a group match.<ref name=":8" /> However, Pakistan failed to advance out of the group stages.<ref>{{Cite web |title=Asian Games 1954 |url=https://www.rsssf.org/tablesa/asgames54.html |access-date=2026-02-06 |website=www.rsssf.org}}</ref> 
+
+[[File:Pakistan and Malaya national football teams for the 1958 Asian Games pictured with Malayan Prime Minister Tunku Abdul Rahman.jpg|left|thumb|Pakistan and [[Malaya national football team|Malaya]] national teams for the [[Football at the 1958 Asian Games|1958 Asian Games]] pictured with [[Tunku Abdul Rahman]] before their participation in the tournament]]
+The [[Pakistan Football Federation]] became one of the 13 founding members of the [[Asian Football Confederation]] on 8 May 1954.<ref>{{Cite web |title=AFC's 63rd anniversary: Seven events that shaped Asian football |url=https://www.the-afc.com/en/more/news/afcs_63rd_anniversary_seven_events_that_shaped_asian_football.html |url-status=live |archive-url=https://web.archive.org/web/20230518191829/https://www.the-afc.com/en/more/news/afcs_63rd_anniversary_seven_events_that_shaped_asian_football.html |archive-date=18 May 2023 |access-date=21 July 2023 |website=the-AFC |language=en}}</ref> Initially scheduled to play against [[Israel national football team|Israel]] in the inaugural [[1956 AFC Asian Cup qualification|1956 AFC Asian Cup qualifiers]], the team withdrew along with [[Afghanistan national football team|Afghanistan]] due to reluctance to host the Israeli team.<ref>{{Cite web |title=Asian Nations Cup 1956 |url=https://www.rsssf.org/tables/56asch.html |url-status=live |archive-url=https://web.archive.org/web/20170627083522/http://www.rsssf.com/tables/56asch.html |archive-date=27 June 2017 |access-date=21 July 2023 |website=RSSSF}}</ref> The same year, the team toured [[Sri Lanka|Ceylon]], [[Singapore]], and [[China]], and two years later featured at the [[Football at the 1958 Asian Games|1958 Asian Games]] held in [[Japan]]. In 1959 after a tour to [[Myanmar|Burma]], Pakistan finally decided to participate in the [[1960 AFC Asian Cup qualification|1960 Asian Cup qualifiers]] hosted by [[India]] in [[Kerala]], where Pakistan faced [[Iran national football team|Iran]], [[India national football team|India]] and [[Israel national football team|Israel]] twice each in the qualifiers.<ref name=":8" /> Although [[Israel national football team|Israel]] managed to qualify by topping the group, Pakistan achieved memorable victories over [[Iran national football team|Iran]] by 4–1, as well as a win over arch-rivals [[India national football team|India]] by 0–1, and managing to secure a draw against [[Israel national football team|Israel]], finishing in third place in the group, ahead of hosts [[India national football team|India]], but behind [[Iran national football team|Iran]] and [[Israel national football team|Israel]].<ref>{{Cite web |title=Asian Nations Cup 1960 |url=https://www.rsssf.org/tables/60asch.html |access-date=21 July 2023 |website=RSSSF |archive-date=18 October 2022 |archive-url=https://web.archive.org/web/20221018102508/https://www.rsssf.org/tables/60asch.html |url-status=live }}</ref>
+
+=== Emergence (1960s) ===
+{{football squad on pitch|align=left
+| GK   = '''[[Niaz Gul]]'''
+| RCB  = '''[[Muhammad Irshad|Irshad]]'''
+| LCB  = '''[[Abdul Haq (footballer)|Abdul Haq]]'''
+| RCM  = '''[[Abid Hussain Ghazi|Abid]]'''
+| DM   = '''[[Abdul Gafur Baloch|Baloch]]'''
+| LCM  = '''[[Abdul Ghafoor (footballer)|Ghafoor]]'''
+| RW   = '''[[Ghulam Rabbani|Rabbani]]'''
+| RCF  = '''[[Abdullah Rahi|Abdullah]]'''
+| LCF  = '''[[M.N. Jehan|Jehan]]'''
+| CF   = '''[[Muhammad Umer|Umer]] ([[captain (association football)|c]])'''
+| LW   = '''[[Moosa Ghazi|Moosa]]'''
+| caption = Pakistan's starting line-up in [[Formation (association football)#Pyramid (2–3–5)|2–3–5 formation]] at the [[1962 Merdeka Tournament]] final against [[Indonesia national football team|Indonesia]]<ref>{{Cite web |title=Civil & Military Gazette (Lahore) – Thursday 20 September 1962 |url=https://britishnewspaperarchive.co.uk/viewer/bl/0003221/19620920/179/0013 |via=[[British Newspaper Archive]]}}</ref><br>Coach: [[George Ainsley]]
+}}
+
+Pakistan had participated in various friendly tournaments in the early 1960s, with the [[Merdeka Tournament|Merdeka Cup]] hosted in Malaysia after the country first participation in [[1960 Merdeka Tournament|1960]]. Pakistan recorded a 7–0 victory over [[Thailand national football team|Thailand]], and a 3–1 win over [[Japan national football team|Japan]].<ref name=":1">{{Cite web |title=Merdeka Tournament 1960 |url=https://www.rsssf.org/tablesm/merdeka60.html |url-status=live |archive-url=https://web.archive.org/web/20221021222101/https://www.rsssf.org/tablesm/merdeka60.html |archive-date=21 October 2022 |access-date=18 July 2023 |website=RSSSF}}</ref><ref name=":0">{{cite web |last=Ahsan |first=Ali |date=23 December 2010 |title=A history of football in Pakistan – Part II |url=https://www.dawn.com/news/593096/a-history-of-football-in-pakistan-part-ii |url-status=live |archive-url=https://web.archive.org/web/20220217020103/https://www.dawn.com/news/593096/a-history-of-football-in-pakistan-part-ii |archive-date=17 February 2022 |access-date=1 March 2014 |website=[[Dawn (newspaper)|Dawn]] |publisher= |location=Karachi, Pakistan}}</ref> Two years later in the [[1962 Merdeka Tournament]], Pakistan ended runner up after falling to [[Singapore national football team|Singapore]] by 1–2 in the final.<ref>{{Cite web |title=Merdeka Tournament 1962 |url=https://www.rsssf.org/tablesm/merdeka62.html |access-date=15 August 2023 |website=RSSSF |archive-date=3 August 2022 |archive-url=https://web.archive.org/web/20220803070621/https://www.rsssf.org/tablesm/merdeka62.html |url-status=live }}</ref>
+
+During the [[China national football team|China national team]] tour in Pakistan in 1963, the first test in [[Dhaka]] in East Pakistan (now Bangladesh) ended in a 0–0 tie. The second match in [[Peshawar]] ended in a 3–2 victory for Pakistan, with the third fixture in [[Lahore]] ending in another 1–1 draw. The final fourth match in [[Karachi]] ended in a 2–0 defeat for Pakistan.<ref name=":7">{{Cite web |title=China – List of International Matches |url=https://www.rsssf.org/tablesc/china-intres.html |url-status=live |archive-url=https://web.archive.org/web/20230203102437/https://rsssf.org/tablesc/china-intres.html |archive-date=3 February 2023 |access-date=19 July 2023 |website=RSSSF}}</ref><ref name=":0" /> The [[Football at the 1964 Summer Olympics – Men's Asian Qualifiers – Group 3|1964 Summer Olympics qualification]] the same year included a 4–1 loss in Iran and a 1–0 win in Pakistan. Pakistan visited China in 1964 playing several test matches against local sides, including a 2–0 victory against the China national team.<ref name=":0" />
+
+[[File:Pakistan vs Iran, 1967 RCD Cup.jpg|thumb|Pakistan vs [[Iran national football team|Iran]] during the [[1967 RCD Cup]]]]
+In 1965 after a tour to [[Sri Lanka|Ceylon]] involving several test matches, they played in the inaugural [[1965 RCD Cup]] and finished third. In the 1960s, the national team also hosted several teams from [[Soviet Union]] and [[Dallas Tornado]]s for unofficial test matches.<ref name=":0" /> In March 1967, the national team played a four-match test series against [[Saudi Arabia national football team|Saudi Arabia]] in [[Faisalabad|Lyallpur]], [[Sukkur]], [[Hyderabad, Pakistan|Hyderabad]] and [[Karachi]], winning and losing once, and drawing twice.<ref>{{Cite web |title=للتاريخ منتخب الستينيات |trans-title=For history, the sixties team |url=https://arriyadiyah.com/558172 |access-date=1 September 2025 |website=arriyadiyah.com |language=ar}}</ref> Months later, Pakistan lost their [[1968 AFC Asian Cup qualification|Asian Cup qualifiers]] against [[Myanmar national football team|Burma]] and [[Cambodia national football team|Cambodia]] and drew their final match against [[India men's national football team|India]]. Pakistan also entered the 1968 [[Merdeka Tournament]], but did not feature in it, withdrawing earlier before the tournament started.<ref>{{Cite web |date=June 26, 1968 |title=Pakistan has decided to participate in the Merdeka Cup and will soon reply to the Football Association of Malaysia. |url=https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19680626-1.2.35.3?qt=%E5%B7%B4,%20%E5%9F%BA,%20%E6%96%AF,%20%E5%9D%A6,%20%E8%B6%B3,%20%E7%90%83&q=%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E8%B6%B3%E7%90%83}}</ref>
+
+They then hosted the second [[1967 RCD Cup]] and finished third. In 1969, they travelled to [[Iran]] to take part in the [[1969 Friendship Cup]], in which they had a 2–1 win against [[Iraq national football team|Iraq]] and a record 9–1 defeat by [[Iran national football team|Iran]].<ref>{{Cite web |title=Jaam-e-Doosti (Friendship) Cup (Iran) |url=https://www.rsssf.org/tablesi/iran-friendship69.html |access-date=17 July 2025 |website=RSSSF}}</ref> This was before another disappointment at the [[1969 RCD Cup|1969]] and [[1970 RCD Cup]] editions.<ref>{{cite web|url=https://www.rsssf.org/tablesr/rcd-pact.html|title=RCD PACT Tournaments 1965–1974|access-date=11 February 2023|archive-date=6 October 2022|archive-url=https://web.archive.org/web/20221006014357/https://rsssf.org/tablesr/rcd-pact.html|url-status=live}}</ref>
+
+Despite the game's growth in the 1960s, Pakistan did not actively participate in the Asian Games football tournaments held in [[Football at the 1962 Asian Games|1962]], [[Football at the 1966 Asian Games|1966]], and [[1970 Asian Games|1970]] due to financial constraints. The World Cup qualifiers followed a similar pattern, with Pakistan missing crucial matches because of a lack of interest from the federation and insufficient government support.<ref name=":0" />
+
+=== Dark era (1970s) ===
+Following the 1971 [[Bangladesh Liberation War]], [[East Pakistan]] became the independent nation of [[Bangladesh]]. This separation also led to the loss of the [[Dhaka Senior Division Football League|Dhaka First Division League]], which had provided a higher standard of competition and professionalism than was typically found in [[West Pakistan]], often drawing leading players from West Pakistan and functioned alongside the [[National Football Championship (Pakistan)|National Football Championship]] as a key competitive platform.<ref name=":0" />
+
+The national team did not compete again until 1973, when the national team toured the far east, which included several test matches against local teams and a friendly against [[China national football team|China]] ending in a 4–7 defeat.<ref name=":0" />
+
+[[File:Parviz Ghelichkhani and Abdul Ghafoor at the 1974 Asian Games, Iran vs Pakistan.jpg|thumb|Pakistani captain [[Abdul Ghafoor (footballer)|Abdul Ghafoor]] with Iran national team captain [[Parviz Ghelichkhani]] (left) during the [[Football at the 1974 Asian Games|1974 Asian Games]]]]
+In the early 1970s the national side participated at the [[1974 RCD Cup]] and the [[Football at the 1974 Asian Games|1974 Asian Games]]. The most notable result in this period included a 2–2 draw against [[Turkey national football team|Turkey]] at the former and a 5–1 win against [[Bahrain national football team|Bahrain]] at the latter. Two years later, Pakistan held the inaugural [[1976 Quaid-e-Azam International Tournament]] in Karachi.<ref name=":0" /> Earlier that same year, Pakistan participated in the third edition of the [[Afghanistan Republic Day Festival Cup]], finishing in fifth place.<ref name=":4">{{Cite web |title=Afghanistan Republic Day Festival Cup (Kabul, Afghanistan) |url=https://www.rsssf.org/tablesj/jasson76.html |access-date=2026-03-22 |website=www.rsssf.org}}</ref> The team also competed in the next tournament, finishing last place, however, securing a win against arch-rivals [[India national football team|India]].<ref name=":4" /><ref>{{Cite news |date=20 July 1977 |title=Kabul-B crack under strain, Iran USSR, Pak win their matches |work=[[The Kabul Times Daily|The Kabul Times]] |pages=4}}</ref>
+
+[[File:Pakistan national team in 1978.jpg|thumb|The Pakistan national team pictured in 1978 before their match against [[Saudi Arabia national football team|Saudi Arabia]]|left]]
+
+In 1978, Pakistan participated in the "Saudi Arabia Football Federation International Tournament", the team lost their first match against [[Saudi Arabia national football team|Saudi Arabia]] 0–6. The following match against [[South Korea national football B team|South Korea B]] ended in another loss, with a scoreline of 0–5, the final match against [[Kenya national football team|Kenya]] ended in 3–8 defeat.<ref>{{Cite web |title=Saudi Arabia Football Federation International Tournament 1978 |url=https://www.rsssf.org/tablesr/riyadh-youth78.html |access-date=2026-02-16 |website=www.rsssf.org}}</ref>
+
+=== Resurgence and South Asian Success (1980–1989) ===
+After several years of competitive football inactivity, the national team was invited for the 1981 [[Merdeka Tournament]], however, the team declined the invitation, withdrawing from the tournament.<ref>{{Cite web |date=1981-08-19 |title=Pakistan's decision to participate in the Merkel Cup has left the Asian Football Confederation puzzled. |url=https://eresources.nlb.gov.sg/newspapers/digitised/article/scjp19810819-1.2.23.11?qt=%E5%B7%B4,%20%E5%9F%BA,%20%E6%96%AF,%20%E5%9D%A6,%20%E8%B6%B3,%20%E7%90%83&q=%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E8%B6%B3%E7%90%83}}</ref><ref>{{Cite web |date=16 August 1981 |title=Pakistan declines to participate in the Merkeda Cup,  due to being invited at the last minute and not having enough time to prepare. |url=https://eresources.nlb.gov.sg/newspapers/digitised/article/scjp19810816-1.2.24.3?qt=%E5%B7%B4,%20%E5%9F%BA,%20%E6%96%AF,%20%E5%9D%A6,%20%E8%B6%B3,%20%E7%90%83&q=%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E8%B6%B3%E7%90%83}}</ref> Instead, they participated in the [[1981 King's Cup]], Pakistan secured a goalless draw against [[PSIS Semarang|Semarang]] from [[Indonesia national football team|Indonesia]]. After a loss to [[Thailand national football team|Thailand]], they gained a 3–2 victory against [[Malaysia national football team|Malaysia]] and although they lost a close game against [[Bayi Football Team|1 August]] from China, they were able to win 1–0 in their final game against [[Singapore national football team|Singapore]].<ref name=":0" />
+
+Pakistan hosted the [[1982 Quaid-e-Azam International Tournament]] involving [[Iran national football team|Iran]], [[Bangladesh national football team|Bangladesh]], [[Oman national football team|Oman]], [[Nepal national football team|Nepal]] and the second string [[Pakistan national football B team|Pakistan Blues]]. The ''Green Shirts'' started off with a 2–0 win over [[Nepal national football team|Nepal]]. They then lost to [[Iran national football team|Iran]], but came back and beat [[Bangladesh national football team|Bangladesh]] 2–1. The last game against [[Oman national football team|Oman]] ended nil-nil and Pakistan ended at the third position behind the Pakistan Blues team. In 1984, the national team participated at the 1984 Merdeka Tournament, and later at the [[1984 AFC Asian Cup qualification]], losing 4 out of 5 games, the only victory coming against [[Yemen national football team|North Yemen]] 4–1.<ref name=":72">{{Cite web |title=Pakistani goal treat The Straits Times, 16 October 1984, Page 39 |url=https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19841016-1.2.58.27?qt=pakistan,%20yemen,%20soccer&q=pakistan%20yemen%20soccer |access-date=25 May 2024 |website=eresources.nlb.gov.sg}}</ref>
+
+The national team hosted another [[1985 Quaid-e-Azam International Tournament]], this time inviting North Korea XI, Indonesia Youth, [[Bangladesh national football team|Bangladesh]] and [[Nepal national football team|Nepal]]. A goalless draw against the North Koreans boosted the side, as they beat [[Nepal national football team|Nepal]] by one goal. However, they lost in the final two games against [[Bangladesh national football team|Bangladesh]] and Indonesia. In the [[Football at the 1985 South Asian Games|1985 South Asian Games]], Pakistan ended fourth after losing a penalty shoot out to [[Nepal national football team|Nepal]] in the third place match.
+[[File:Pakistan national football team at the 1986 Fajr International Tournament in Tehran, Iran.jpg|thumb|Pakistan at the [[1986 Fajr International Tournament]]]]
+After participating at the [[1986 Fajr International Tournament]] in Iran, the team finished runners-up at the [[1986 Quaid-e-Azam International Tournament]] involving [[China national football team|China]], [[Sri Lanka national football team|Sri Lanka]], [[Nepal national football team|Nepal]] and a South Korean XI. In the [[Football at the 1986 Asian Games|1986 Asian Games]], Pakistan lost all their games.
+
+{{football squad on pitch|align=left
+|GK='''[[Mateen Akhtar|Akhtar]] ([[captain (association football)|c]])'''
+|RB='''[[Zulfiqar Hussain Dogar|Dogar]]'''
+|RCB='''[[Muhammad Naveed (footballer)|Naveed]]'''
+|LCB='''[[Zafar Iqbal (footballer)|Iqbal]]'''<ref group="note">Substituted by [[Shabbir Hussain]] during the game.</ref>
+|LB='''[[Shaukat Ali (footballer)|Shaukat]]'''<ref group="note">Substituted by [[Haji Abdul Sattar (footballer)|Haji Abdul Sattar]] during the game.</ref>
+|RCM='''[[Fida Ur Rehman|Fida]]'''
+|LCM='''[[Muhammad Saleem Awan|Saleem]]'''
+|RW='''[[Ejaz Ali (footballer)|Ejaz]]'''
+|LW='''[[Abdul Wahid (footballer)|Wahid]]'''
+|RCF='''[[Sharafat Ali (footballer)|Sharafat]]'''
+|LCF='''[[Qazi Ashfaq|Ashfaq]]'''
+|caption=Pakistan's starting line-up at the [[Football at the 1989 South Asian Games|1989 South Asian Games]] final against [[Bangladesh national football team|Bangladesh]] (Exact [[Formation (association football)|formation]] type and players position unknown)<ref>{{Cite web |last=Strack-Zimmermann |first=Benjamin |title=Pakistan vs. Bangladesh |url=https://www.national-football-teams.com/matches/report/33059/Pakistan_Bangladesh.html |access-date=13 October 2024 |website=NFT |language=en}}</ref><br>Coach: [[Wang Xiao He]]}}
+In 1987 after an unsuccessful campaign at the [[Football at the 1988 Summer Olympics – Men's qualification|1988 Summer Olympics Qualification]] against Nepal at away venue, the side was more successful at the [[Football at the 1987 South Asian Games|1987 South Asian Games]], winning the bronze medal match against [[Bangladesh national football team|Bangladesh]] 1–0. In 1988, after losing the [[1988 AFC Asian Cup qualification]], Pakistan began with their first ever participation for the [[1990 FIFA World Cup qualification (AFC)|1990 FIFA World Cup qualifiers]] for Italy in January and February, losing all matches. The national team bounced back, when several months later they took gold at the [[Football at the 1989 South Asian Games|1989 South Asian Games]], beating [[Bangladesh national football team|Bangladesh]] 1–0 in the final, from a solitary goal by [[Haji Abdul Sattar (footballer)|Haji Abdul Sattar]] in the dying minutes of the game.<ref name=":3">{{Cite web |last=Ahsan |first=Ali |date=23 December 2010 |title=A history of football in Pakistan — Part III |url=https://www.dawn.com/news/593100/a-history-of-football-in-pakistan-part-iii |access-date=18 July 2023 |website=DAWN|language=en |archive-date=30 October 2012 |archive-url=https://web.archive.org/web/20121030230115/http://dawn.com/2010/12/23/a-history-of-football-in-pakistan-part-iii/ |url-status=live }}</ref>
+
+=== Sustained Regional Competitiveness (1990s) ===
+{{football squad on pitch|align=right
+|GK='''[[Mateen Akhtar|Akhtar]]'''
+|RB='''[[Zafar Iqbal (footballer)|Iqbal]]'''
+|RCB='''[[Aamir Mahmood|Mahmood]]''' 
+|SW='''[[Muhammad Riaz (footballer, born 1970)|Riaz]]'''
+|LCB='''[[Muhammad Tariq Hussain|Tariq]]'''
+|LB='''[[Tanveer ul Hasnain|Tanveer]]'''
+|RCM='''[[Abdul Majeed (footballer)|Majeed]]'''
+|LCM='''[[Zahir Ahmed|Zahir]]'''<ref group="note">Substituted by [[Fida Ur Rehman]] during the game.</ref>
+|AM='''[[Ghulam Sarwar (footballer)|Sarwar]] ([[captain (association football)|c]])'''
+|RCF='''[[Imtiaz Butt|Butt]]'''<ref group="note">Substituted by [[Qazi Ashfaq]] during the game.</ref>
+|LCF='''[[Muhammad Nauman Khan|Nauman]]'''
+|caption=Pakistan's starting line-up in [[Formation (association football)#5–3–2|5–3–2 sweeper formation]] at the [[Football at the 1991 South Asian Games|1991 South Asian Games]] final against [[Maldives national football team|Maldives]]<ref>{{Cite web |last=Strack-Zimmermann |first=Benjamin |title=Pakistan vs. Maldives |url=https://www.national-football-teams.com/matches/report/31526/Pakistan_Maldives.html |access-date=23 September 2024 |website=NFT |language=en}}</ref><br>Coach: [[Muhammad Aslam Japani]]}}
+Pakistan had another early exit in the [[Football at the 1990 Asian Games – Men's tournament|1990 Asian Games]], losing all three games. In the [[1991 South Asian Games]] however, Pakistan beat the [[Maldives national football team|Maldives]] in the final 2–0 to win their second gold, from goals scored by [[Qazi Ashfaq]] and [[Muhammad Nauman Khan]].<ref>{{Cite web |title=5th South Asian Federation Games 1991 (Colombo, Sri Lanka) |url=https://www.rsssf.org/tabless/safg91.html |access-date=16 August 2023 |website=RSSSF |archive-date=2 June 2023 |archive-url=https://web.archive.org/web/20230602224657/https://rsssf.org/tabless/safg91.html |url-status=live }}</ref> In 1992, the team lost all matches at the [[1992 AFC Asian Cup qualification]] and the [[1992 Jordan International Tournament]]. After again ending unsuccessful at the [[1994 FIFA World Cup qualification – AFC first round|1994 FIFA World Cup qualification]] in 1993, the team hosted the inaugural [[1993 SAARC Gold Cup]] in [[Lahore]], finishing fourth. At the [[Football at the 1993 South Asian Games|1993 South Asian Games]], they were unable to get past the group stage.
+
+Pakistan went out of the [[1995 SAARC Gold Cup]] group stage on goal difference. The team lost all their [[1996 AFC Asian Cup qualification|Asian Cup]] and [[1998 FIFA World Cup qualification (AFC)|World Cup]] qualifying games. Pakistan came third in the [[1997 SAFF Gold Cup|1997 SAFF Cup]], thanks to a 1–0 victory over Sri Lanka in the third place playoff. The [[1999 SAFF Gold Cup|1999 SAFF Cup]] saw Pakistan finish bottom of their group, and Pakistan also failed to get out of the group stage of the final [[Football at the 1999 South Asian Games|1999 South Asian Games]] to hold full internationals.<ref name=":3" />
+[[File:Sampath Perera and Qazi Ashfaq before the match between Sri Lanka and Pakistan, 1997 Gold Cup.jpg|left|thumb|Pakistan and [[Sri Lanka national football team|Sri Lanka]] during the Third-place match at the [[1997 SAFF Gold Cup]]]]
+Pakistan were unable to win any of their [[2000 AFC Asian Cup qualification|2000 Asian Cup qualifiers]]. The following year Pakistan achieved their first point in the [[2002 FIFA World Cup qualification (AFC)|2002 World Cup qualification]], thanks to a hat-trick by [[Gohar Zaman]] in a 3–3 draw against [[Sri Lanka national football team|Sri Lanka]], but all other matches ended in defeat.<ref name=":2">{{Cite web |date=14 November 2009 |title=PFF names Gohar as Pakistan U-19 coach |url=https://nation.com.pk/14-Nov-2009/PFF-names-Gohar-as-Pakistan-U19-coach |access-date=14 July 2023 |website=The Nation |language=en-US |archive-date=14 July 2023 |archive-url=https://web.archive.org/web/20230714145621/https://www.nation.com.pk/14-Nov-2009/pff-names-gohar-as-pakistan-u19-coach |url-status=live }}</ref><ref>{{Cite web |date=28 October 2022 |title=Searching for success: Pakistan's long wait for first FIFA World Cup qualifier win |url=https://www.fifa.com/fifaplus/en/articles/searching-for-success-pakistans-long-wait-for-first-fifa-world-cup-qualifier |website=FIFA |access-date=19 July 2023 |archive-date=14 July 2023 |archive-url=https://web.archive.org/web/20230714145614/https://www.fifa.com/fifaplus/en/articles/searching-for-success-pakistans-long-wait-for-first-fifa-world-cup-qualifier |url-status=live }}</ref>
+
+In 2002, Pakistan played in an unsuccessful four match series against Sri Lanka. At the [[2003 SAFF Gold Cup|2003 SAFF Cup]], under the inspiration of the attacking midfielder [[Sarfraz Rasool]], Pakistan stunned India, Sri Lanka and Afghanistan in three victories as they reached the semi-finals only to fall short against Maldives by 1–0.<ref name=":3" /> Pakistan finished fourth, losing 2–1 in extra time to [[India men's national football team|India]] in the third place playoff.<ref name=":3" /> Later in the year, Pakistan won their first [[2004 AFC Asian Cup qualification|Asian Cup]] qualifier with a 3–0 over [[Macao national football team|Macao]], but still were unable to qualify. They rounded off the year with defeats to [[Kyrgyzstan national football team|Kyrgyzstan]] in the [[2006 FIFA World Cup qualification (AFC)|World Cup]] qualifiers.
+
+=== Mixed Results and Structural Reforms (2004–2014) ===
+2004 saw changes in Pakistan football, with a new administration in place by this time and a [[Pakistan Premier League|new national league]] up and running. A victory and a draw against India in a three match series, the final match ending 3–0 in favour to the ''Green Shirts'',<ref>{{Cite web |date=13 June 2005 |title=Pakistan-India opening match ends in draw |url=https://www.dawn.com/news/143237/pakistan-india-opening-match-ends-in-draw |access-date=6 December 2022 |website=[[Dawn (newspaper)|Dawn]] |language=en |archive-date=20 November 2023 |archive-url=https://web.archive.org/web/20231120102933/https://www.dawn.com/news/143237/pakistan-india-opening-match-ends-in-draw |url-status=live }}</ref><ref name=":5">{{Cite web |date=19 June 2005 |title=Pakistan beat India, tie football series |url=https://www.rediff.com/sports/report/foot/20050619.htm |access-date=6 December 2022 |website=[[Rediff.com]] |language=en |archive-date=20 November 2023 |archive-url=https://web.archive.org/web/20231120102915/https://www.rediff.com/sports/report/foot/20050619.htm |url-status=live }}</ref> followed by the reach in the semi-finals of the [[2005 SAFF Gold Cup|2005 SAFF Cup]], losing against defending champion [[Bangladesh]] by 0–1 margin.
+
+The Pakistan team lost their first two [[2007 AFC Asian Cup qualification|Asian Cup]] qualifiers in 2006, in between which they took part in the first [[AFC Challenge Cup 2006|2006 AFC Challenge Cup]]. They failed to get past the group stage, but beat Kyrgyzstan 1–0.<ref>{{Cite web |date=6 April 2006 |title=AFC Challenge Cup: Pakistan face must win situation against Macau |url=https://www.dawn.com/news/186560/afc-challenge-cup-pakistan-face-must-win-situation-against-macau |access-date=16 October 2023 |website=DAWN.COM |language=en |archive-date=20 November 2023 |archive-url=https://web.archive.org/web/20231120103006/https://www.dawn.com/news/186560/afc-challenge-cup-pakistan-face-must-win-situation-against-macau |url-status=live }}</ref> Back at the Asian Cup qualifiers, they lost their remaining fixtures. In the [[2010 FIFA World Cup qualification (AFC)|2010 World Cup qualifiers]] in 2007, they fell to a heavy defeat by the Asian champions [[Iraq national football team|Iraq]], losing 7–0 on aggregate across the two legs after drawing 0–0 in the second round.<ref>{{Cite web |last=Ahsan |first=Ali |date=5 January 2018 |title=The decade-long decline of Pakistani football after a rare high |url=https://thesefootballtimes.co/2018/01/05/the-decade-long-decline-of-pakistani-football-after-a-rare-high/ |access-date=16 October 2023 |website=These Football Times |language=en-GB |archive-date=6 December 2022 |archive-url=https://web.archive.org/web/20221206013336/https://thesefootballtimes.co/2018/01/05/the-decade-long-decline-of-pakistani-football-after-a-rare-high/ |url-status=live }}</ref> In 2008, Pakistan travelled to [[Nepal national football team|Nepal]] for two friendlies before taking on the [[2008 AFC Challenge Cup qualification]]. Although they won against [[Chinese Taipei national football team|Chinese Taipei]] 2–1 in the first match, and beat [[Guam national football team|Guam]] in a record-equalling 9–2 win in the final match, other results, including a 7–1 defeat to Sri Lanka, saw them again fail to reach the finals.
+
+In the [[2008 SAFF Championship]], Pakistan failed to go beyond the group stages, losing to Maldives 3–0, India 2–1 and Nepal 4–1, which signalled the end of [[Akhtar Mohiuddin]]'s tenure as head coach.<ref>{{Cite web |last=Hasan |first=Shazia |date=9 June 2008 |title=PFF sacks coach after dismal show in Male |url=https://www.dawn.com/news/306665/pff-sacks-coach-after-dismal-show-in-male |access-date=16 October 2023 |website=DAWN |language=en |archive-date=16 September 2013 |archive-url=https://web.archive.org/web/20130916081932/http://beta.dawn.com/news/306665/pff-sacks-coach-after-dismal-show-in-male |url-status=live }}</ref> After Mohiuddin's departure, [[György Kottán|George Kottan]] was hired and the veteran tactician took the team to the [[2009 SAFF Championship]]. The side were defeated 1–0 by Sri Lanka, before drawing 0–0 with Bangladesh as [[Adnan Ahmed]] missed a late penalty to seal a win. Pakistan won against [[Bhutan national football team|Bhutan]] 7–0 in their last game.<ref>{{Cite web |date=8 January 2011 |title=Comment: A year Pakistan football wants to forget |url=https://tribune.com.pk/story/100921/comment-a-year-pakistan-football-wants-to-forget |access-date=16 October 2023 |website=The Express Tribune |language=en |archive-date=10 February 2011 |archive-url=https://web.archive.org/web/20110210153622/http://tribune.com.pk/story/100921/comment-a-year-pakistan-football-wants-to-forget/ |url-status=live }}</ref>
+
+Kottan was soon sacked in February 2010, Pakistan had no senior games during the entire calendar year. For the [[2012 AFC Challenge Cup qualification]] in 2011, coach [[Tariq Lutfi]] was called up once more and failed to deliver. Defeats such as the 3–0 against [[Turkmenistan national football team|Turkmenistan]] and 3–1 against India meant that the side were already out of the qualifiers despite beating Chinese Taipei by 2–0. Later in the [[2014 FIFA World Cup qualification (AFC)|2014 FIFA World Cup Qualifiers]] in July, Pakistan lost 3–0 to Bangladesh in Dhaka, before earning a 0–0 draw in Lahore a few days later. Pakistan did not qualify for the [[2014 FIFA World Cup]], being eliminated by Bangladesh in the first round of the AFC qualifying section in 2011, losing 3–0 on aggregate.
+
+That saw the end of Lutfi's reign, with Serbian coach [[Zaviša Milosavljević]] taking over in November 2011 right before the [[2011 SAFF Championship]].<ref name=":03">{{cite web |date=5 November 2011 |title=Seribia's Zaviša Milosavljević unveiled as new Pakistan football coach |url=http://www.dawn.com/2011/11/05/seribia%E2%80%99s-zavisa-milosavljevic-unveiled-as-new-pakistan-football-coach.html |publisher=Dawn.com |access-date=16 October 2023 |archive-date=4 January 2012 |archive-url=https://web.archive.org/web/20120104232039/http://www.dawn.com/2011/11/05/seribia%E2%80%99s-zavisa-milosavljevic-unveiled-as-new-pakistan-football-coach.html |url-status=dead }}</ref> Despite having little time to influence the team, Zavisa managed to hold Bangladesh 0–0, Maldives 0–0 and Nepal 1–1 in the India-hosted 2011 SAFF Championship. However, they were unable to progress into the semi-finals and returned home.
+
+{{multiple image
+| align             = right
+| direction         = vertical
+| image1            = Pakistan National Football Team against Maldives in 2013.jpg
+| width1            = 
+| image2            = President of Maldives with Pakistan National Football Team 2013.jpg
+| footer            = Pakistan in [[Malé]] during a friendly against [[Maldives national football team|Maldives]] in 2013
+| total_width       = 
+| width2            = 
+}}
+
+2012's sole game was witnessed in November against [[Singapore national football team|Singapore]], who thrashed Pakistan 4–0 at home. Pakistan started 2013 well, winning two games against Nepal with identical 1–0 margins.<ref>{{Cite web |date=26 May 2013 |title=Last-gasp Hassan gives Pakistan long-awaited victory |work=Dawn |url=https://www.dawn.com/news/784141/last-gasp-hassan-gives-pakistan-long-awaited-victory |access-date=21 October 2023 |url-status=live |archive-url=https://web.archive.org/web/20130526093155/http://dawn.com/2013/02/07/last-gasp-hassan-gives-pakistan-long-awaited-victory/ |archive-date=26 May 2013 }}</ref><ref>{{Cite web |date=9 February 2013 |title=Football: Mujahid hands Pakistan second successive win |url=https://tribune.com.pk/story/505033/football-mujahid-hands-pakistan-second-successive-win |access-date=21 October 2023 |website=The Express Tribune |language=en |archive-date=20 November 2023 |archive-url=https://web.archive.org/web/20231120102937/https://tribune.com.pk/story/505033/football-mujahid-hands-pakistan-second-successive-win |url-status=live }}</ref> A 1–1 draw with Maldives followed, but with congested fixtures Pakistan ended up losing the last game 3–0 in Male.
+
+Pakistan then played the [[2014 AFC Challenge Cup qualification]] in Bishkek, losing out 1–0 to [[Tajikistan national football team|Tajikistan]] in injury-time. [[Kyrgyzstan national football team|Pakistan]] also lost 1–0 against the Kyrgyzstan after scoring in the 1st minute, but comfortably beat [[Macau national football team|Macau]] 2–0.<ref>{{Cite web |date=27 May 2013 |title=Pakistan grab 2–0 consolation win |work=DAWN |url=https://www.dawn.com/news/797016/pakistan-grab-consolation-win |access-date=21 October 2023 |url-status=live |archive-url=https://web.archive.org/web/20130527095145/http://dawn.com/2013/03/22/pakistan-grab-consolation-win/ |archive-date=27 May 2013 }}</ref>
+
+Pakistan played a friendly against [[Afghanistan national football team|Afghanistan]] in August, losing 3–0 without their foreign-based players. Coach Zaviša Milosavljević was controversially sacked and replaced by Bahrain's [[Mohammad Al-Shamlan]], who acted as a coaching consultant to [[Shahzad Anwar]] in the [[2013 SAFF Championship]]. The Shaheens lost their first game 1–0 to India after an own-goal from [[Samar Ishaq]]. Against hosts Nepal, [[Hassan Bashir]] scored an early goal, only to see 15-year-old [[Bimal Gharti Magar]] level things in injury-time. However, Pakistan beat Bangladesh 2–1 but failed to advance to the semi-finals.<ref>{{Cite web |title=SAFF C'ship 2013: Bangladesh 1–2 Pakistan |url=https://www.the-afc.com/en/more/news/saff_c%E2%80%99ship_2013_bangladesh_1-2_pakistan.html |access-date=16 October 2023 |website=the-AFC |language=en |archive-date=18 October 2023 |archive-url=https://web.archive.org/web/20231018054858/https://www.the-afc.com/en/more/news/saff_c%E2%80%99ship_2013_bangladesh_1-2_pakistan.html |url-status=live }}</ref> The team participated at the [[2013 Philippine Peace Cup]] at the end of the year.
+
+For Pakistan's campaign for the [[2018 FIFA World Cup]], they were to face [[Yemen national football team|Yemen]] in [[2018 FIFA World Cup qualification – AFC first round|Round 1]] in the [[2018 FIFA World Cup qualification (AFC)|AFC qualifying section]]. In the first match, Pakistan lost 3–1.<ref>{{Cite web |date=27 May 2023 |title=Missing in action - Newspaper - DAWN.COM |url=https://www.dawn.com/news/1170583 |access-date=21 October 2023 |archive-url=https://web.archive.org/web/20230527185016/https://www.dawn.com/news/1170583 |archive-date=27 May 2023 }}</ref> For the second match, Pakistan drew 0–0, eliminating Pakistan from the tournament on aggregate.<ref>{{cite web |title=2018 FIFA World Cup Russia – Matches – Asia |url=https://www.fifa.com/worldcup/matches/preliminaries/asia/index.html#275167 |url-status=dead |archive-url=https://web.archive.org/web/20140413013136/http://www.fifa.com/worldcup/matches/preliminaries/asia/index.html#275167 |archive-date=13 April 2014 |website=FIFA}}</ref>
+
+=== Inactivity and FIFA suspensions (2015–2022) ===
+Pakistan was suspended from all football activities by FIFA on 10 October 2017,<ref>{{cite web|date=11 October 2017 |title=FIFA suspends the Pakistan Football Federation |url=https://www.fifa.com/governance/news/y=2017/m=10/news=fifa-suspends-the-pakistan-football-federation-2913299.html |url-status=dead |archive-url=https://web.archive.org/web/20171011181900/http://www.fifa.com/governance/news/y=2017/m=10/news=fifa-suspends-the-pakistan-football-federation-2913299.html |archive-date=11 October 2017 |website=[[FIFA]]}}</ref> after the controversial tenure of the PFF president and politician [[Faisal Saleh Hayat]], widely described as a "feudal lord of Pakistani football".<ref>{{Cite web |date=8 September 2016 |title=Faisal Saleh Hayat: The feudal lord of Pakistani football |url=https://nation.com.pk/08-Sep-2016/faisal-saleh-hayat-the-feudal-lord-of-pakistani-football |url-status=live |archive-url=https://web.archive.org/web/20190902112936/https://nation.com.pk/08-Sep-2016/faisal-saleh-hayat-the-feudal-lord-of-pakistani-football |archive-date=2 September 2019 |access-date=2 September 2019 |website=The Nation}}</ref><ref name=":6" />
+
+For three years since March 2015, the top division of the [[Pakistan Premier League]] remained suspended because of the crisis created due to his actions, along with the men's senior team,<ref name=":6" /> who remained suspended from any international competition, and FIFA rankings of the senior team had slumped from 168 in 2003 to the lowest 201 in 2017.<ref name=":6">{{Cite news |last=Din |first=Tusdiq |title=Three years without any football – can Pakistan recover? |language=en-GB |work=BBC Sport |url=https://www.bbc.com/sport/football/45390976 |access-date=28 June 2023 |archive-date=28 June 2023 |archive-url=https://web.archive.org/web/20230628222820/https://www.bbc.com/sport/football/45390976 |url-status=live }}</ref><ref name=":12">{{cite web |last=Raheel |first=Natasha |date=15 February 2017 |title=Still no end to PFF crisis |url=https://tribune.com.pk/story/1328004/still-no-end-pff-crisis/ |url-status=live |archive-url=https://web.archive.org/web/20171201045335/https://tribune.com.pk/story/1328004/still-no-end-pff-crisis/ |archive-date=1 December 2017 |access-date=22 November 2017 |website=Tribune.com.pk |publisher=Tribune}}</ref><ref>{{Cite web |title=The FIFA/Coca-Cola World Ranking – Associations – Pakistan – Men's |url=https://www.fifa.com/fifa-world-ranking/associations/association=pak/men/index.html |url-status=dead |archive-url=https://web.archive.org/web/20171030075350/http://www.fifa.com/fifa-world-ranking/associations/association=PAK/men/index.html |archive-date=30 October 2017 |access-date=29 October 2017}}</ref>[[File:India vs Pakistan, 2018 SAFF Championship.png|thumb|Pakistan against [[India men's national football team|India]] at the [[2018 SAFF Championship]] ]]
+FIFA restored membership of PFF on 13 March 2018.<ref>{{cite web |date=14 March 2018 |title=FIFA lifts suspension of Pakistan Football Federation |url=https://www.fifa.com/governance/news/y=2018/m=3/news=fifa-lifts-suspension-of-pakistan-football-federation.html |url-status=dead |archive-url=https://web.archive.org/web/20180315211736/http://www.fifa.com/governance/news/y=2018/m=3/news=fifa-lifts-suspension-of-pakistan-football-federation.html |archive-date=15 March 2018 |website=[[FIFA]]}}</ref>
+
+Pakistan went to Bangladesh to take part in [[2018 SAFF Championship|2018 SAFF Cup]] which started in September 2018 which was their first FIFA recognised tournament after a span of 3 years.<ref name=":6" /> Pakistan played its first match of the event against Nepal which ended in a 2–1 win.<ref>{{Cite web |date=5 September 2018 |title=Late drama as Pakistan win on international return |url=https://www.dawn.com/news/1430941 |access-date=16 October 2023 |website=DAWN |language=en |archive-date=23 October 2023 |archive-url=https://web.archive.org/web/20231023082711/https://www.dawn.com/news/1430941 |url-status=live }}</ref> Pakistan lost its next match to hosts Bangladesh by 1–0 after conceding a late goal. Green shirts played their final group game against Bhutan which ended in a 3–0 win and sealed their place in semis after 13 years.<ref>{{Cite web |last=Bilal |first=Abu Bakar |date=8 September 2018 |title=Pakistan beat Bhutan 3–0 to reach semifinals of SAFF Cup |url=https://www.dawn.com/news/1431723 |url-status=live |archive-url=https://web.archive.org/web/20230527103514/https://www.dawn.com/news/1431723 |archive-date=27 May 2023 |access-date= |website=DAWN.COM |language=en}}</ref> Pakistan faced arch rivals India in semi-final and were ultimately knocked out by 3–1.<ref>{{Cite web |date=12 September 2018 |title=SAFF Championship 2018 Semi Final – India beat Pakistan to enter final |url=https://www.goal.com/en-gb/news/saff-cup-2018-semis-india-beat-pakistan-enter-final/jgsamccmpz4o1quwujs74d5gm |access-date=16 October 2023 |website=Goal.com |language=en-GB |archive-date=18 October 2023 |archive-url=https://web.archive.org/web/20231018054858/https://www.goal.com/en-gb/news/saff-cup-2018-semis-india-beat-pakistan-enter-final/jgsamccmpz4o1quwujs74d5gm |url-status=live }}</ref>
+
+After the SAFF Cup, Pakistan negotiated with the Palestine Football Association for a friendly. It was initially reported that the match will be played in Lahore, Pakistan on 15 November 2018 but Palestine decided to host the event afterwards. Due to visa issues, Pakistan team couldn't fly to Palestine on the desired date. So, the match was played on 16 November in which Shaheens lost by 2–1.<ref>{{cite web|url=https://www.espn.in/football/match/_/gameId/528443/pakistan-palestine|title=Palastine 2-1 Pakistan}}</ref>
+
+Disappointment would soon strike again as Pakistan lost its chance to pass the [[2022 FIFA World Cup qualification (AFC)|2022 FIFA qualification]], losing against [[Cambodia national football team|Cambodia]] twice in the first round and was eliminated.<ref>{{Cite web |date=27 May 2023 |title=Cambodia strike late to floor Pakistan - Newspaper - DAWN.COM |url=https://www.dawn.com/news/1486754 |access-date=21 October 2023 |archive-url=https://web.archive.org/web/20230527103511/https://www.dawn.com/news/1486754 |archive-date=27 May 2023 }}</ref> The preliminary camp for the matches were controversially organised by two different federations. [[Faisal Saleh Hayat]]-led [[Pakistan Football Federation]], which was internationally recognised, and non-FIFA recognised Ashfaq Hussain Shah group, which formed a parallel PFF, coming into power by third-party interference through the PFF elections conducted by the [[Supreme Court of Pakistan|Supreme Court]].<ref>{{Cite web |date=26 May 2019 |title=Foreign-based players join Pakistan training camp |url=https://www.dawn.com/news/1484596 |access-date=2 July 2024 |website=DAWN|language=en}}</ref>
+
+Pakistan were once again suspended from all football activities by FIFA on 7 April 2021.<ref>{{cite web |date=7 April 2021 |title=FIFA suspends Chad and Pakistan football associations |url=https://www.fifa.com/who-we-are/news/fifa-suspends-chad-and-pakistan-football-associations |url-status=live |archive-url=https://web.archive.org/web/20210407143916/https://www.fifa.com/who-we-are/news/fifa-suspends-chad-and-pakistan-football-associations |archive-date=7 April 2021 |access-date=14 April 2021 |website=[[FIFA]]}}</ref><ref>{{cite web |date=7 April 2021 |title=FIFA suspends Pakistan Football Federation |url=https://www.the-afc.com/news/afcsection/fifa-suspends-pakistan-football-association |url-status=live |archive-url=https://web.archive.org/web/20210414160732/https://www.the-afc.com/news/afcsection/fifa-suspends-pakistan-football-association |archive-date=14 April 2021 |access-date=14 April 2021 |website=[[Asian Football Confederation]]}}</ref> The suspension was lifted on 29 June 2022.<ref>{{cite web |date=29 June 2022 |title=FIFA lifts suspension of Pakistan Football Federation |url=https://www.fifa.com/about-fifa/associations/media-releases/fifa-lifts-suspension-of-pakistan-football-federation-pff |access-date=29 June 2022
+ |website=[[FIFA]] |archive-date=30 June 2022 |archive-url=https://web.archive.org/web/20220630164452/https://www.fifa.com/about-fifa/associations/media-releases/fifa-lifts-suspension-of-pakistan-football-federation-pff |url-status=live }}</ref>
+
+=== International Return and Historic World Cup Qualification Win (2022–present) ===
+Pakistan made their comeback by playing a friendly match against [[Nepal national football team|Nepal]] in November 2022, losing 0–1 in a late minute goal.<ref>{{Cite web |title=Bista's late strike fires Nepal to victory against Pakistan |url=http://kathmandupost.com/football/2022/11/17/bista-s-late-strike-fires-nepal-to-victory-against-pakistan |access-date=20 May 2023 |website=kathmandupost.com |language=English |archive-date=4 December 2022 |archive-url=https://web.archive.org/web/20221204111540/https://kathmandupost.com/football/2022/11/17/bista-s-late-strike-fires-nepal-to-victory-against-pakistan |url-status=live }}</ref> They played a second friendly match against [[Maldives national football team|Maldives]] in March 2023 losing 0–1.<ref>{{Cite web |title=Maldives beat Pakistan in friendly match |url=https://www.geosuper.tv/latest/23464-maldives-beat-pakistan-in-friendly-match |access-date=16 October 2023 |website=Geo Super|language=en-US |archive-date=18 October 2023 |archive-url=https://web.archive.org/web/20231018054859/https://www.geosuper.tv/latest/23464-maldives-beat-pakistan-in-friendly-match |url-status=live }}</ref>
+
+Pakistan subsequently took part in the [[2023 Mauritius Four Nations Cup]] featuring [[Mauritius national football team|Mauritius]], [[Kenya national football team|Kenya]], [[Djibouti national football team|Djibouti]] and the [[2023 SAFF Championship]] alongside [[India men's national football team|India]], [[Kuwait national football team|Kuwait]] and Nepal in the group stages, losing all six matches and finishing last in their group in each competition.<ref>{{Cite web |date=28 June 2023 |title=Pakistan end SAFF campaign with another loss |url=https://www.dawn.com/news/1762074 |access-date=16 October 2023 |website=DAWN|language=en |archive-date=18 October 2023 |archive-url=https://web.archive.org/web/20231018054859/https://www.dawn.com/news/1762074 |url-status=live }}</ref>
+
+On 27 July 2023, the draw for the first round of the [[2026 FIFA World Cup qualification – AFC first round|2026 FIFA World Cup qualification]] took place in which Pakistan were drawn once again against [[Cambodia national football team|Cambodia]], followed by the appointment of the English coach [[Stephen Constantine]].<ref>{{Cite web |last=Hussain |first=Abid |title=A 'very different' Pakistan? National football team aim to end dire record |url=https://www.aljazeera.com/sports/2023/10/11/pakistan-national-football-team-2026-world-cup-qualifier-cambodia |access-date=16 October 2023 |website=Al Jazeera |language=en |archive-date=16 October 2023 |archive-url=https://web.archive.org/web/20231016184330/https://www.aljazeera.com/sports/2023/10/11/pakistan-national-football-team-2026-world-cup-qualifier-cambodia |url-status=live }}</ref> In the first leg in [[Phnom Penh]], Pakistan contested in a goalless 0–0 draw.<ref>{{Cite news |last=Aarons |first=Ed |date=16 October 2023 |title=Pakistan brings international football home after a bitter power struggle |language=en-GB |work=The Guardian |url=https://www.theguardian.com/football/2023/oct/16/pakistan-brings-international-football-home-after-a-bitter-power-struggle |access-date=16 October 2023 |issn=0261-3077 |archive-date=17 October 2023 |archive-url=https://web.archive.org/web/20231017040459/https://www.theguardian.com/football/2023/oct/16/pakistan-brings-international-football-home-after-a-bitter-power-struggle |url-status=live }}</ref> Pakistan won their second leg beating Cambodia 1–0 in [[Islamabad]], due to a goal by [[Harun Hamid]], recording their first-ever victory in World Cup qualifiers in their first fixture at home for eight years, and qualifying for the second round for the first time.<ref>{{Cite news |last=Aarons |first=Ed |date=16 October 2023 |title=Pakistan beat Cambodia to register first win in FIFA World Cup Qualifiers history |language=en-GB |work=Geo Sports |url=https://www.geosuper.tv/latest/29020-pakistan-beat-cambodia-to-register-first-win-fifa-world-cup-qualifiers-history |access-date=17 October 2023 |issn=0261-3077 |archive-date=18 October 2023 |archive-url=https://web.archive.org/web/20231018054859/https://www.geosuper.tv/latest/29020-pakistan-beat-cambodia-to-register-first-win-fifa-world-cup-qualifiers-history |url-status=live }}</ref>
+
+Following the victory in Islamabad, the Shaheens were drawn in a group with [[Saudi Arabia national football team|Saudi Arabia]], [[Jordan national football team|Jordan]], and [[Tajikistan national football team|Tajikistan]]. Being the 193rd ranked team, Pakistan were the lowest-ranked team in the qualifiers,<ref>{{cite web|url=https://medium.com/@footballer.pk/pakistan-celebrates-as-football-returns-with-world-cup-qualifiers-win-ffe2fb81d545|title=Pakistan Celebrates as Football Returns with World Cup Qualifiers Win|date=18 October 2023 |access-date=13 January 2024}}</ref> and terminated the campaign losing all the games in the group.<ref>{{Cite web |date=11 June 2024 |title=Tajikistan thrash Pakistan 3–0 in FIFA World Cup qualifier |url=https://arab.news/rch6f |access-date=11 June 2024 |website=Arab News PK |language=en}}</ref>
+
+Pakistan was briefly suspended from all football activities again by FIFA on 6 February 2025 due to failing to adopt a version of the PFF constitution approved by FIFA and the AFC that would have guaranteed fair elections.<ref>{{cite web |date=6 February 2025 |title=FIFA suspends the Congolese Football Association and the Pakistan Football Federation |url=https://inside.fifa.com/organisation/media-releases/fifa-suspends-congolese-football-association-pakistan-football-federation |website=FIFA }}</ref> The suspension was lifted on 2 March 2025 after the PFF agreed to adopt the FIFA and AFC approved constitution.<ref>{{Cite web|url=https://inside.fifa.com/organisation/media-releases/fifa-lifts-suspension-of-the-pakistan-football-federation|title=FIFA lifts suspension of the Pakistan Football Federation|website=inside.fifa.com}}</ref> After an unsuccessful campaign at the [[2027 AFC Asian Cup qualification – third round|2027 AFC Asian Cup qualification]], the team participated in the [[2026 Diamond Jubilee International Football Tournament|Diamond Jubilee International Football Tournament]] held in Maldives in 2026. After a draw against [[Bangladesh national under-23 football team|Bangladesh Olympic]], and victories over [[Maldives national football team|Maldives]] and rivals [[Afghanistan national football team|Afghanistan]], the team again defeated Afghanistan in the final, marking their first football title in 35 years since the 1991 South Asian Games.<ref>{{Cite web |date=2026-06-10 |title=Pakistan defeat Afghanistan 2-0 to win Diamond Jubilee football title |url=https://www.geo.tv/latest/668155-pakistan-defeat-afghanistan-2-0-to-win-diamond-jubilee-football-title |access-date=2026-06-10 |website=Geo News |language=en}}</ref> 
+
+== Team image ==
+=== Kit ===
+{{multiple image
+| align             = right
+| direction         = vertical
+| image1            = Pakistan lineup at the 1997 SAFF Gold Cup.jpg
+| width1            = 
+| image2            = Pakistan lineup during 1997 SAFF Gold Cup.jpg
+| footer            = Pakistan wearing the traditional green home jersey (above), and the traditional white away jersey (below) at the [[1997 SAFF Gold Cup]]
+| total_width       = 
+| width2            = 
+| caption1          = 
+| caption2          = 
+}}
+
+{{Commons|Pakistan national football team kits}}
+
+The Pakistan national team's home kit has always been a green shirt and white shorts. The colours are derived from the [[flag of Pakistan]] which is a green field with a white [[Star and crescent|crescent moon and five-rayed star]] at its centre, and a vertical white stripe at the hoist side.<ref>{{cite web| url=http://www.pak.gov.pk/Flag.aspx| title=Government of Pakistan: Flag description| publisher=Pakistan.gov.pk| access-date=11 December 2007| archive-date=17 January 2008| archive-url=https://web.archive.org/web/20080117160833/http://www.pak.gov.pk/Flag.aspx| url-status=live}}</ref> The away shirt colour has changed several times. The national team has used white shirt with white shorts or white shirt with green shorts. Historically, white shirt with green shorts is the most often used colour combination.
+
+==== Kit suppliers ====
+{| class="wikitable"
+|-
+! style="background: #01411C; color: #FFFFFF; " |Kit supplier
+! style="background: #01411C; color: #FFFFFF; " |Period
+! style="background: #01411C; color: #FFFFFF; " |Ref.
+|-
+|Unknown
+|1950–2000
+|
+|-
+|{{flagicon|UK}} Sapphire Sports
+|2001
+|<ref>{{Cite web |title=Pakistan |url=https://www.theglobalobsession.com/2010/11/pakistan.html |access-date=30 June 2024}}</ref>
+|-
+|{{flagicon|PAK}} [[National Bank of Pakistan|National Bank]]
+|2005
+|<ref>{{Cite web |date=12 June 2005 |title=Pakistani national football team player Mohammad Essa celebrates... |url=https://www.gettyimages.co.uk/detail/news-photo/pakistani-national-football-team-player-mohammad-essa-news-photo/53056903 |access-date=30 June 2024 |website=Getty Images |language=en-gb}}</ref>
+|-
+|{{flagicon|PAK}} Roshi Sports
+|2007
+|
+|-
+|{{flagicon|PAK}} Vision
+|2010–2013
+|<ref>{{Cite web |last=Long |first=Michael |date=7 June 2010 |title=Landmark new deal for the Pakistan Football Federation |url=https://www.sportspromedia.com/news/landmark_new_deal_for_the_pakistan_football_federation/ |url-status=live |archive-url=https://web.archive.org/web/20231009172432/https://www.sportspromedia.com/news/landmark_new_deal_for_the_pakistan_football_federation/ |archive-date=9 October 2023 |access-date=8 October 2023 |website=SportsPro |language=en-GB}}</ref>
+|-
+|{{flagicon|PAK}} [[Forward Sports|Forward]]
+|2013–2015
+|<ref>{{Cite web |date=8 May 2013 |title=PFF gets sponsors for uniform |url=https://nation.com.pk/08-May-2013/pff-gets-sponsors-for-uniform |access-date=30 June 2024 |website=The Nation |language=en-US}}</ref>
+|-
+|None{{#tag:ref|From 2015 to 2017, Pakistan didn't play any matches due to Pakistan Football Federation (PFF) crisis and consequent ban by FIFA.|group="note"}}
+|2015–2017
+|
+|-
+|{{flagicon|UK}} Joshila
+|2018–2021
+|<ref>{{Cite web |date=16 July 2018 |title=Pakistan football team kit unveiled for Asiad, SAFF |url=https://nation.com.pk/16-Jul-2018/pakistan-football-team-kit-unveiled-for-asiad-saff |access-date=30 June 2024 |website=The Nation |language=en-US}}</ref>
+|-
+|None{{#tag:ref|From 2021 to 2022, Pakistan didn't play any matches due to Pakistan Football Federation (PFF) ban by FIFA.|group="note"}}
+|2021–2022
+|
+|-
+|{{flagicon|PAK}} Denim Studio
+|2022–2023
+|
+|-
+|{{flagicon|PAK}} Gym Armour
+|2023–present
+|<ref>{{Cite web |title=Pakistan Football Federation X Gym Armour |url=https://www.gymarmour.co/blogs/blogs/pakistan-football-federation |access-date=30 June 2024 |website=GymArmour PK |language=en}}</ref>
+|}
+
+===Home stadiums===
+{{See also|List of football stadiums in Pakistan}}
+[[File:Jinnah Sports Stadium track and field.jpg|thumb|[[Jinnah Sports Stadium]] in [[Islamabad]]]]
+For the first fifty years of their existence, Pakistan played their home matches at various [[multi-purpose stadium]]s all around the country. [[YMCA Ground]] in [[Karachi]] hosted the national team's first home match against [[Iran national football team|Iran]] on 23 April 1952.<ref>{{Cite news |date=24 April 1952|title=Iran and Pakistan play drawn game|work=[[Dawn (newspaper)|Dawn]]}}</ref> The [[Hockey Club of Pakistan|Hockey Club stadium]] hosted the [[1974 RCD Cup]] and the inaugural [[1976 Quaid-e-Azam International Tournament]].<ref>{{Cite web |title=Quaid-E-Azam International Cup (Pakistan) |url=https://www.rsssf.org/tablesq/quaid-e-azam.html#76 |access-date=21 December 2024 |website=RSSSF}}</ref> The consequent [[1982 Quaid-e-Azam International Tournament]] was held at the cricket [[National Stadium, Karachi|National Stadium]],<ref name=":02">{{Cite web |date=29 July 2006 |title=SPORTS WORLD: Lyariites mourn Brazil's defeat: PFF striving to develop football on modern lines |url=https://www.brecorder.com/news/3303250 |access-date=21 December 2024 |website=Brecorder |language=en}}</ref><ref>{{Cite web |date=11 November 2010 |title=Pakistan aim to get good result against Oman in Asiad football |url=https://www.dawn.com/news/580656/pakistan-aim-to-get-good-result-against-oman-in-asiad-football |access-date=21 December 2024 |website=DAWN.COM |language=en}}</ref> while the [[1985 Quaid-e-Azam International Tournament|1985 edition]] was held at the [[Qayyum Stadium]] in [[Peshawar]].<ref>{{Cite web |date=8 January 2007 |title=Peshawar to host Olympic qualifier |url=https://www.dawn.com/news/226876/peshawar-to-host-olympic-qualifier |access-date=12 June 2025 |website=DAWN|language=en}}</ref>
+
+Although the Pakistan Football Federation doesn't own any stadium to date,<ref>{{Cite web |author=Natasha Raheel |date=17 October 2023 |title=Jinnah Stadium prepared hastily for 2026 Fifa World Cup qualifier |url=https://tribune.com.pk/story/2441568/jinnah-stadium-prepared-hastily-for-2026-fifa-world-cup-qualifier |access-date=10 December 2024 |website=The Express Tribune |language=en}}</ref> since the 1980s Pakistan plays majority of their home matches at the [[Jinnah Sports Stadium]] in the capital [[Islamabad]] which first hosted the [[1986 Quaid-e-Azam International Tournament]], and where the senior team won the [[Football at the 1989 South Asian Games|1989 South Asian Games]].<ref>{{Cite book |last1=D'Amico |first1=Rosa Lopez De |url=https://books.google.com/books?id=Nx8nEAAAQBAJ&q=1989+South+Asian+Games+jinnah+stadium&pg=PT150 |title=Women and Sport in Asia |last2=Jahromi |first2=Maryam Koushkie |last3=Guinto |first3=Maria Luisa M. |date=30 May 2021 |publisher=Routledge |isbn=978-1-000-39316-3 |language=en |access-date=25 October 2023 |archive-date=31 October 2023 |archive-url=https://web.archive.org/web/20231031152609/https://books.google.com/books?id=Nx8nEAAAQBAJ&q=1989+South+Asian+Games+jinnah+stadium&pg=PT150 |url-status=live }}</ref> By the 1990s, the [[Railway Stadium, Lahore|Railway Stadium]] in [[Lahore]] also served as one of the primary venues which also hosted the inaugural [[1993 SAARC Gold Cup]].<ref name=":15">{{Cite web |title=Railway Stadium gets all clear to hold President's Cup – Business Recorder |url=https://fp.brecorder.com/2007/08/20070804600663/ |access-date=10 December 2024 |language=en-US}}</ref>
+
+By the 2000s, several alternative stadiums emerged such as Karachi's [[People's Football Stadium]] and the [[Punjab Stadium, Pakistan|Punjab Stadium]] in Lahore located near the headquarters of the [[Pakistan Football Federation]].<ref name=":14">{{Cite web |date=29 October 2009 |title=AFC gives stamp of approval to Punjab Stadium |url=https://www.nation.com.pk/29-Oct-2009/afc-gives-stamp-of-approval-to-punjab-stadium |access-date=10 December 2024 |website=The Nation |language=en-US}}</ref>
+
+The Jinnah Sports Stadium is the largest football stadium in Pakistan with a capacity of over 45,000, whereas the People's Football Stadium is second largest with 40,000.
+
+=== Pakistan B ===
+{{Main|Pakistan national football B team}}
+
+In the [[Quaid-e-Azam International Tournament]], two Pakistan national teams usually participated, the Pakistan national football team under the name of ''Pakistan Greens'', and the [[Pakistan national football B team|Pakistan national B team]] under the name of ''Pakistan Reds'' in [[1976 Quaid-e-Azam International Tournament|1976]], ''Pakistan Blue'' in [[1982 Quaid-e-Azam International Tournament|1982]], and ''Pakistan White'' in [[1985 Quaid-e-Azam International Tournament|1985]], [[1986 Quaid-e-Azam International Tournament|1986]] and [[1987 Quaid-e-Azam International Tournament|1987]].<ref name=":04">{{Cite web |title=Quaid-E-Azam International Cup (Pakistan) |url=https://www.rsssf.org/tablesq/quaid-e-azam.html |access-date=11 November 2024 |website=RSSSF}}</ref> Alongside the senior national team, the other national team mainly consisted of "second string" or youth international players. Having a two separate teams was very common during the 80s and 90s for developing [[South Asian]] countries, both Nepal ([[Nepal national football B team|Nepal B]]) and Bangladesh ([[Bangladesh national football B team|Bangladesh B]]) had second string team's.
+
+In June 1993, the [[Pakistan Football Federation]] sent an alternate team, designated as "Pakistan A", to the [[1993 ECO Cup]] held in [[Tehran]], [[Iran]], while the main national team was participating in the [[1994 FIFA World Cup qualification – AFC first round|1994 FIFA World Cup qualifiers]].<ref>{{Cite web |title=ECO Tournament 1993 - Tehran, Iran |url=https://www.rsssf.org/tablese/eco93.html |access-date=2026-02-07 |website=www.rsssf.org}}</ref> At the inaugural [[1993 SAARC Gold Cup]] held in Lahore, a second string team named Pakistan White also played exhibition matches against the national sides participating in the tournament.<ref>{{Cite web |title=1st SAARC (South Asian Association for Regional Co-operation) Tournament 1993 |url=https://www.rsssf.org/tabless/saffgold93.html |access-date=11 November 2024 |website=RSSSF}}</ref>
+
+===Rivalries===
+{{Further|India–Pakistan sports rivalries |Afghanistan–Pakistan football rivalry}}
+
+==== India ====
+[[File:Action between India and Pakistan, 1997 SAFF Gold Cup.jpg|thumb|Pakistan against [[India men's national football team|India]] at the [[1997 SAFF Gold Cup]]|left]]
+Pakistan's arch-rivals in several sports including football are [[India men's national football team|India]].<ref>{{Cite news |last=Duerden |first=John |date=26 June 2023 |title=India v Pakistan is not a classic football rivalry. But it could be |url=https://www.theguardian.com/football/2023/jun/26/pakistan-india-football-south-asian-cup |access-date=14 August 2024 |work=The Guardian |language=en-GB |issn=0261-3077}}</ref><ref>{{Cite news |date=17 May 2023 |title=India and Pakistan to renew football rivalry after five years, clubbed in same group in next month's SAFF Cup |url=https://timesofindia.indiatimes.com/sports/football/top-stories/india-and-pakistan-to-renew-football-rivalry-after-five-years-clubbed-in-same-group-in-next-months-saff-cup/articleshow/100302586.cms |access-date=14 August 2024 |work=The Times of India |issn=0971-8257}}</ref><ref>{{Cite web |date=20 June 2023 |title=Fever pitch in Bengaluru as India v Pakistan rivalry resumes, this time in football |url=https://www.espn.co.uk/football/story/_/id/37885950/saff-championship-2023-india-v-pakistan-rivalry-resumes-football-bengaluru |access-date=14 August 2024 |website=ESPN.com |language=en}}</ref> The two teams first met at the [[1952 Asian Quadrangular Football Tournament]], which ended in a goalless draw and both teams crowned champions of the tournament. India first won at the consequent [[1953 Asian Quadrangular Football Tournament]] with a 1–0 win, with [[Neville D'Souza]] scoring a goal. Pakistan men's football team recorded its first official win over India at the [[1960 AFC Asian Cup qualification]] with [[Abdullah Rahi]] netting the winner.<ref name=":52">{{Cite web |last=Parkar |first=Ubaid |date=24 June 2023 |title=India vs Pakistan in football: A rather one-sided rivalry in numbers |url=https://olympics.com/en/news/india-vs-pakistan-football-head-to-head-record |website=Olympics}}</ref> Currently, Pakistan has won three games, there have been eight draws and sixteen wins for India among the 27 games played so far.<ref name=":11">{{Cite web |title=World Football Elo Ratings: Pakistan |url=http://eloratings.net/Pakistan |website=Elo Ratings}}</ref> In addition, both teams have faced each other two times in unofficial exhibition matches after the finalisation of the 1953 and 1955 Asian Quadrangular Football Tournament editions, with Pakistan winning both times by 1–0.<ref>{{Cite web |title=Asian Quadrangular Tournament (Colombo Cup) 1952–1955 |url=https://www.rsssf.org/tablesb/brindies-quad.html |url-status=live |archive-url=https://web.archive.org/web/20220820110914/https://www.rsssf.org/tablesb/brindies-quad.html |archive-date=20 August 2022 |access-date=26 July 2023 |website=RSSSF}}</ref>
+
+==== Afghanistan ====
+{{multiple image
+| align             = right
+| direction         = horizontal
+| image1            = Pakistan vs Afghanistan, 1976 Quaid-e-Azam International Football Tournament.jpg
+| width1            = 
+| image2            = Pakistan and Afghanistan captains during the 1976 Quaid-e-Azam International Football Tournament.jpg
+| footer            = Pakistan vs Afghanistan at the [[1976 Quaid-e-Azam International Tournament]]
+| total_width       = 
+| width2            = 
+}}
+
+Pakistan is currently [[Afghanistan–Pakistan sports rivalries#Football|rivals with]] [[Afghanistan national football team|Afghanistan]] in many sports, including cricket and football. 
+
+The national teams of Pakistan and [[Afghanistan national football team|Afghanistan]] first met at the 1976 [[Afghanistan Republic Day Festival Cup]], where the A team of Afghanistan won by 1–0,<ref name=":05">{{Cite web |title=Afghanistan Republic Day Festival Cup (Kabul, Afghanistan)|url=https://www.rsssf.org/tablesj/jasson76.html#1976|access-date=2024-07-15|website=www.rsssf.org}}</ref><ref>{{Cite news |last=Graham-Harrison|first=Emma|date=2013-08-20|title=Football match allows Afghanistan to forget its woes for 90 minutes|url=https://www.theguardian.com/world/2013/aug/20/afghanistan-pakistan-football-match|access-date=2025-04-05|work=The Guardian|language=en-GB|issn=0261-3077}}</ref><ref>{{Cite web |date=2013-08-20|title=In First Meeting Since 1970s, Afghanistan Tops Pakistan In Soccer|url=https://www.wlrn.org/2013-08-20/in-first-meeting-since-1970s-afghanistan-tops-pakistan-in-soccer|access-date=2025-04-05|website=WLRN|language=en}}</ref> with [[Mohammad Saber Rohparwar]] scoring the lone goal on a corner kick minutes before game's end.<ref>{{Cite news |last=Hodge|first=Nathan|date=2013-08-20|title=A Pitch Battle Unites Afghans, Pakistanis|url=https://www.wsj.com/articles/a-pitch-battle-unites-afghans-pakistanis-1377027769|access-date=2025-03-03|work=Wall Street Journal|language=en-US|issn=0099-9660}}</ref><ref>{{Cite web |title=Afghanistan and Pakistan Braced to Face-Off in Kabul for First Time in 37 Years|url=https://tolonews.com/sports/afghanistan-and-pakistan-braced-face-kabul-first-time-37-years|access-date=2025-04-05|website=TOLOnews|language=en}}</ref><ref>{{Cite web |title=Afghan Footballers Return From Abroad Ahead of Pakistan Match|url=https://tolonews.com/sports/afghan-footballers-return-abroad-ahead-pakistan-match|access-date=2025-04-05|website=TOLOnews|language=en}}</ref> Because of rising tensions between the two countries in the 1970s, Afghan president [[Mohammad Daoud Khan]] handed each player 5,000 afghanis as a celebration and gift for their victory.<ref>{{Cite web |title=Pakistan National Team's Return to Kabul Echoes 1976 Jashen Celebration|url=https://tolonews.com/opinion/pakistan-national-teams-return-kabul-echoes-1976-jashen-celebration|access-date=2025-04-05|website=TOLOnews|language=en}}</ref><ref>{{Cite web |last=Latifi|first=Ali M.|title=Politics kicked aside in Afghan football game|url=https://www.aljazeera.com/features/2013/8/22/politics-kicked-aside-in-afghan-football-game|access-date=2024-07-15|website=Al Jazeera|language=en}}</ref> Both teams met again at the [[1976 Quaid-e-Azam International Tournament]] the same year where Pakistan avenged by winning by the same score, with forward [[Afzal Qasim]] scoring the winning goal in the eighth minute after the kick off.<ref>{{Cite web |title=Quaid-E-Azam International Cup (Pakistan)|url=https://www.rsssf.org/tablesq/quaid-e-azam.html#76|access-date=2024-07-15|website=www.rsssf.org}}</ref><ref>{{Cite web |title=Pakistan's National Team Arrives in Kabul|url=https://tolonews.com/sports/pakistans-national-team-arrives-kabul|access-date=2025-04-05|website=TOLOnews|language=en}}</ref> A Pakistani selection named Shaheen FC again participated in the Afghan tournament in 1977.<ref name=":05" /><ref>{{Cite web |date=2013-08-21|title=Football: Afghanistan win first home game against Pakistan since 1977|url=https://english.alarabiya.net/sports/2013/08/21/Football-Afghanistan-beat-Pakistan-in-first-such-match-since-1977|access-date=2025-04-05|website=Al Arabiya English|language=en}}</ref>
+
+The ensuing civil war and political instability in Afghanistan prevented the two sides from meeting again until 2003.<ref name="RFERL2222">{{cite news |last=Bezhan|first=Frud|date=21 August 2013|title=Historic Soccer Match Brings Unity To Afghanistan|url=https://www.rferl.org/a/afghanistan-pakistan-soccer-unity-celebration/25082095.html|url-status=live|archive-url=https://web.archive.org/web/20220905151801/https://www.rferl.org/a/afghanistan-pakistan-soccer-unity-celebration/25082095.html|archive-date=5 September 2022|accessdate=4 September 2022|work=Radio Free Europe/Radio Liberty}}</ref> Due to the [[Afghanistan–Pakistan relations|historical, cultural and political relationship]] between the two countries, contests between the teams generate much enthusiasm amongst football fans on account of their mutual relations and have been referred to as a "[[List of association football rivalries|rivalry]]".<ref name="RFERL">{{cite news |last=Bezhan|first=Frud|date=21 August 2013|title=Historic Soccer Match Brings Unity To Afghanistan|url=https://www.rferl.org/a/afghanistan-pakistan-soccer-unity-celebration/25082095.html|accessdate=4 September 2022|work=Radio Free Europe/Radio Liberty}}</ref><ref>{{cite news |date=20 August 2013|title=Afghanistan beat Pakistan 3-0 in Kabul friendly|url=https://www.bbc.com/news/world-asia-23766790|accessdate=12 September 2022|work=BBC News}}</ref><ref>{{cite news |date=20 August 2013|title=Confident Pakistan ready for historic Afghanistan clash|url=https://www.dawn.com/news/1037101|accessdate=12 September 2022|work=Dawn}}</ref><ref>{{Cite web |date=20 August 2013 |title=Kabul fever ahead of Afghan-Pakistan clash |url=https://sg.news.yahoo.com/kabul-fever-ahead-afghan-pakistan-clash-222845717.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAHj2RL_R0iMemS51Fug8w0jwz4cEERx6ZhgmfHqFIiXSsbO5NfktmoiJEPclgiN3km6mtNxXxefcwXnLCijmfi4cMHW03ZjnSGBWkp-F_o4QjNrYh2CuxXh2q9nOvK_ye2QMd9KAcU1MiwgfmJntvCUYG8-KUQUEhhk0CR3MEFEo |access-date=14 August 2024 |website=Yahoo News |language=en-SG}}</ref>
+
+== Results and fixtures ==
+{{main|Pakistan national football team results|Pakistan national football team results (2020–present)}}
+
+The following is a list of match results in the last 12 months, as well as any future match have been scheduled.
+
+{{legend2|#CCFFCC|Win|border=1px solid #AAAAAA}}
+{{legend2|#FFFFCC|Draw|border=1px solid #AAAAAA}}
+{{legend2|#FFCCCC|Loss|border=1px solid #AAAAAA}}
+{{legend2|#FFFFFF|Fixture|border=1px solid #AAAAAA}}
+
+=== 2025 ===
+{{football box collapsible
+|format      = 
+1
+|date        = 9 October 2025
+|time        = {{UTZ|14:00|5:00}}
+|round       = [[2027 AFC Asian Cup qualification – third round|2027 AFC Asian Cup qualification]]
+|score       = 0–0
+|report      = [https://globalsportsarchive.com/match/soccer/2025-10-09/pakistan-vs-afghanistan/3587603/ Report]<br>[https://www.the-afc.com/en/national/afc_asian_cup.html/news/qualifiers-group-e-pakistan-0-0-afghanistan Report (AFC)]
+|team1       = {{fb-rt|PAK}}
+|goals1      =
+|team2       = {{fb|AFG}}
+|goals2      =
+|stadium     = [[Jinnah Sports Stadium]]
+|location    = [[Islamabad]], Pakistan
+|attendance  = 7,375
+|referee     = Mohammed Al-Shammari ([[Qatar Football Association|Qatar]])
+|result      = D
+}}
+{{football box collapsible
+|format      = 1
+|date        = 14 October 2025
+|time        = {{UTZ|20:00|8:00}}
+|round       = [[2027 AFC Asian Cup qualification – third round|2027 AFC Asian Cup qualification]]
+|score       = 1–1
+|report      = [https://globalsportsarchive.com/en/soccer/match/2025-10-14/afghanistan-vs-pakistan/3587605 Report]<br>[https://www.the-afc.com/en/national/afc_asian_cup.html/news/qualifiers-group-e-afghanistan-1-1-pakistan Report (AFC)]
+|team1       = {{fb-rt|AFG}} 
+|goals1      = 
+*[[Mahboob Hanifi|Hanifi]] {{goal|5}}
+|team2       = {{fb|PAK}}
+|goals2      = 
+*[[Etzaz Hussain|Hussain]]{{goal|29}}
+|stadium     = [[Ali Sabah Al-Salem Stadium]]
+|location    = [[Farwaniya, Kuwait|Farwaniya]], Kuwait
+|attendance  = 750
+|referee     = Abdullo Davlatov ([[Tajikistan Football Federation|Tajikistan]])
+|result      = D
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[2027 AFC Asian Cup qualification – third round|2027 AFC Asian Cup qualification]]
+|date       = {{Start date|2025|11|18|df=y}}
+|time       = {{UTZ|14:00|5}}
+|team1      = {{fb-rt|PAK}}
+|score      = 0–5
+|report     = [https://globalsportsarchive.com/en/soccer/match/2025-11-18/pakistan-vs-syria/3587607 Report]<br>[https://www.the-afc.com/en/national/afc_asian_cup.html/news/qualifiers-group-e-pakistan-0-5-syria Report (AFC)] 
+|team2      = {{fb|SYR}}
+|goals1     = 
+|goals2     = 
+*[[Mohammaf Al Hallaq|Al Hallaq]] {{goal|34||47}}
+*[[Yassin Samia|Samia]] {{goal|79||90+4}}
+*[[Alaa Al Dali|Al Dali]] {{goal|90}}
+|location   = [[Islamabad]], Pakistan
+|stadium    = [[Jinnah Sports Stadium]]
+|attendance = 7,124
+|referee    = Virendha Rai ([[Bhutan Football Federation|Bhutan]])
+|result     = L
+}}
+
+=== 2026 ===
+{{football box collapsible
+|format     = 1
+|date       = 31 March
+|time       = {{UTZ|14:00|5}}
+|round      = [[2027 AFC Asian Cup qualification – third round|2027 Asian Cup qualification third round]]
+|score      = 1–2
+|report     = [https://globalsportsarchive.com/en/soccer/match/2026-03-31/pakistan-vs-myanmar/3587610/ Report]<br />[https://www.the-afc.com/en/national/afc_asian_cup.html/news/qualifiers-group-e-pakistan-1-2-myanmar Report (AFC)]
+|team1      = {{fb-rt|PAK}}
+|goals1     = 
+*[[Shayak Dost|S. Dost]] {{goal|90}}
+|team2      = {{fb|MYA}}
+|goals2     = 
+*[[Saqib Hanif]] {{goal|46|o.g.}}
+*[[Than Paing]] {{goal|59}}
+|stadium    = [[Jinnah Sports Stadium]]
+|location   = [[Islamabad]], Pakistan
+|attendance = 0
+|referee    = Firdavs Nosafarov ([[Uzbekistan Football Association|Uzbekistan]])
+|result     = L
+|note       = The match was held [[behind closed doors (sport)|behind closed doors]] due to restrictions on large public gatherings by Pakistani government.<ref>{{cite web|title=Pakistan–Myanmar AFC Qualifier to be held behind closed doors|url=https://www.nation.com.pk/27-Mar-2026/pakistan-myanmar-afc-qualifier-held-behind-closed-doors|publisher=[[The Nation (Pakistan)|The Nation]]|date=27 March 2026|access-date=2 June 2026}}</ref>
+}}
+{{football box collapsible
+|format     = 1
+|date       = 1 June
+|time       = {{UTZ|16:00|5:30}}
+|round      = [[2026 Diamond Jubilee International Football Tournament]]
+|score      = 0–0
+|report     = https://globalsportsarchive.com/en/soccer/match/2026-06-01/pakistan-vs-bangladesh-u23/4312560
+|team1      = {{fb-rt|PAK}}
+|goals1     = 
+|team2      = {{fbu|23|BAN|name=Bangladesh Olympic}}
+|goals2     = 
+|stadium    = [[National Football Stadium (Maldives)|National Football Stadium]]
+|location   = [[Malé]], Maldives
+|attendance = 1,200
+|referee    = Javiz Mohamed ([[Football Association of Maldives|Maldives]])
+|result     = D
+}}
+{{football box collapsible
+|format     = 1
+|date       = 4 June
+|time       = {{UTZ|16:00|5:30}}
+|round      = [[2026 Diamond Jubilee International Football Tournament]]
+|score      = 0–3
+|report     = https://globalsportsarchive.com/en/soccer/match/2026-06-04/maldives-vs-pakistan/4312562
+|team1      = {{fb-rt|MDV}}
+|goals1     = 
+|team2      = {{fb|PAK}}
+|goals2     = 
+*[[Umar Nawaz (footballer)|Nawaz]] {{goal|53}}
+*[[Abdul Arshad|Arshad]] {{goal|84}}
+*[[Harun Hamid|Hamid]] {{goal|87}}
+|stadium    =[[National Football Stadium (Maldives)|National Football Stadium]]
+|location   = [[Malé]], Maldives
+|attendance=1050
+|referee    = Ashwin Kumar ([[Indian Football Association|India]])
+|result     = W
+}}
+{{football box collapsible
+|format     = 1
+|date       = 7 June
+|time       = {{UTZ|16:00|5:30}}
+|round      = [[2026 Diamond Jubilee International Football Tournament]]
+|score      = 0–2
+|report     = https://globalsportsarchive.com/en/soccer/match/2026-06-07/afghanistan-vs-pakistan/4312564
+|team1      = {{fb-rt|AFG}}
+|goals1     = 
+|team2      = {{fb|PAK}}
+|goals2     = 
+*[[Umar Nawaz (footballer)|Nawaz]] {{goal|5}}
+*[[Harun Hamid|Hamid]] {{goal|90+2}}
+|stadium    =[[National Football Stadium (Maldives)|National Football Stadium]]
+|location   = [[Malé]], Maldives
+|attendance = 450
+|referee    = Sinan Hussain ([[Football Association of Maldives|Maldives]])
+|result     = W
+}}
+{{football box collapsible
+|format     = 1
+|date       = 10 June
+|time       = {{UTZ|21:00|5:30}}
+|round      = [[2026 Diamond Jubilee International Football Tournament#Final|2026 Diamond Jubilee International Football Tournament final]]
+|score      = 2–0
+|report     = https://globalsportsarchive.com/en/soccer/match/2026-06-10/pakistan-vs-afghanistan/4312566
+|team1      = {{fb-rt|PAK}}
+|goals1     = 
+* [[Shayak Dost|Shayak]] {{goal|24}}
+* [[Harun Hamid|Hamid]] {{goal|90+4}}
+|team2      = {{fb|AFG}}
+|goals2     = 
+|stadium    = [[National Football Stadium (Maldives)|National Football Stadium]]
+|location   = [[Malé]], Maldives
+|attendance = 273
+|referee    = Aditya Purkayastha ([[Indian Football Association|India]])
+|result     = W
+}}
+{{football box collapsible
+|format     = 1
+|date       = November
+|time       = 
+|round      = [[2026 SAFF Championship]]
+|score      = 
+|report     =
+|team1      = {{fb-rt|PAK}}
+|team2      = 
+|goals1     = 
+|goals2     = 
+|stadium    = 
+|location   = TBA, Bangladesh
+|attendance = 
+|referee    = 
+|result     =
+}}
+{{football box collapsible
+|format     = 1
+|date       = November
+|time       = 
+|round      = [[2026 SAFF Championship]]
+|score      = 
+|report     =
+|team1      = {{fb-rt|PAK}}
+|team2      = 
+|goals1     = 
+|goals2     = 
+|stadium    = 
+|location   = TBA, Bangladesh
+|attendance = 
+|referee    = 
+|result     =
+}}
+{{football box collapsible
+|format     = 1
+|date       = November
+|time       = 
+|round      = [[2026 SAFF Championship]]
+|score      = 
+|report     =
+|team1      = {{fb-rt|PAK}}
+|team2      = 
+|goals1     = 
+|goals2     = 
+|stadium    = 
+|location   = TBA, Bangladesh
+|attendance = 
+|referee    = 
+|result     =
+}}
+
+== Coaching staff ==
+{{Main|List of Pakistan national football team managers}}
+
+=== Personnel ===
+{| class="wikitable"
+|-
+!style="color:#FFFFFF;background:#01411C"|Position
+!style="color:#FFFFFF;background:#01411C"|Name
+|-
+|Head coach
+| {{flagicon|PER}} [[Nolberto Solano]]
+|-
+| rowspan="3" |Assistant coaches
+|[[File:Flag_of_Pakistan.svg|link=Pakistan|alt=Pakistan|class=mw-file-element|23x23px]] [[Adeel Rizki]]
+|-
+|[[File:Flag_of_Pakistan.svg|link=Pakistan|alt=Pakistan|class=mw-file-element|23x23px]] [[Mehmood Khan (footballer, born 1981)|Mehmood Khan]]
+|-
+|{{flagicon|PAK}} Walid Javaid
+|-
+|Goalkeeper coach
+| {{flagicon|PAK}} Muhammad Aslam Khan
+|-
+|Fitness coach
+|  N/A
+|-
+|Team manager
+|N/A
+|}
+
+== Players ==
+=== Current squad ===
+The following players were named in the squad for the [[2026 Diamond Jubilee International Football Tournament]] in June 2026.
+
+''Caps and goals are correct as of 10 June 2026, after the match against [[Afghanistan national football team|Afghanistan]].''
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Yousuf Butt]]|age={{Birth date and age|1989|10|18|df=y}}|caps=33|goals=0|club=[[Stallion Laguna F.C.|Stallion Laguna]]|clubnat=PHI}}
+{{nat fs g player|no=20|pos=GK|name=[[Saqib Hanif]]|age={{Birth date and age|1994|04|23|df=y}}|caps=11|goals=0|club=[[New Radiant S.C.|New Radiant]]|clubnat=MDV}}
+{{nat fs g player|no=22|pos=GK|name=[[Hassan Ali (footballer, born 2003)|Hassan Ali]]|age={{Birth date and age|2003|2|23|df=y}}|caps=0|goals=0|club=[[WAPDA FC|WAPDA]]|clubnat=PAK}}
+{{nat fs break}}
+{{nat fs g player|no=4|pos=DF|name=[[Abdullah Iqbal]]|other=[[Captain (association football)|Captain]]|age={{Birth date and age|2002|07|27|df=y}}|caps=21|goals=0|club=[[Mjällby AIF|Mjällby]]|clubnat=SWE}}
+{{nat fs g player|no=5|pos=DF|name=[[Easah Suliman]]|age={{Birth date and age|1998|01|26|df=y}}|caps=11|goals=0|club=[[Sumgayit FK|Sumgayit]]|clubnat=AZE}}
+{{nat fs g player|no=15|pos=DF|name=[[Abdullah Shah (footballer)|Abdullah Shah]]|age={{Birth date and age|2001|02|06|df=y}}|caps=10|goals=0||club=[[Brothers Union]]|clubnat=BAN}}
+{{nat fs g player|no=13|pos=DF|name=[[Mohib Ullah (footballer)|Mohib Ullah]]|age={{Birth date and age|2005|05|23|df=y}}|caps=9|goals=0|club=[[Paro FC]]|clubnat=BHU}}
+{{nat fs g player|no=12|pos=DF|name=[[Haris Zeb]]|age={{Birth date and age|2001|05|15|df=y}}|caps=6|goals=0|club=[[South Island United]]|clubnat=New Zealand}}
+{{nat fs g player|no=3|pos=DF|name=[[Mohammad Fazal]]|age={{Birth date and age|2002|05|29|df=y}}|caps=9|goals=0|club=[[Nordic United FC|Nordic United]]|clubnat=SWE}}
+{{nat fs g player|no=6|pos=DF|name=[[Mamoon Moosa Khan]]|age={{Birth date and age|2000|11|28|df=y}}|caps=12|goals=0|club=[[Paro FC]]|clubnat=BHU}}
+{{nat fs g player|no=2|pos=DF|name=[[Ali Khan Niazi]]|age={{Birth date and age|2000|12|14|df=y}}|caps=5|goals=0|club=[[SA Gardens FC|SA Gardens]]|clubnat=PAK}}
+{{nat fs break}}
+{{nat fs g player|no=21|pos=MF|name=[[Alamgir Ghazi]]|age={{Birth date and age|2001|05|09|df=y}}|caps=22|goals=0|club=[[Brothers Union]]|clubnat=BAN}}
+{{nat fs g player|no=19|pos=MF|name=[[Hayyaan Khattak]]|age={{Birth date and age|2003|10|06|df=y}}|clubnat=BAN|caps=4|goals=0|club=[[Brothers Union]]}}
+{{nat fs g player|no=17|pos=MF|name=[[Ali Agha]]|age={{Birth date and age|1997|5|15|df=y}}|caps=4|goals=0|club=[[KRL FC|Khan Research Laboratories]]|clubnat=PAK}}
+{{nat fs g player|no=8|pos=MF|name=[[Rahis Nabi]]|age={{Birth date and age|1999|04|16|df=y}}|caps=19|goals=1|club=[[Halesowen Town F.C. |Halesowen Town]]|clubnat=ENG}}
+{{nat fs g player|no=7|pos=MF|name=[[Otis Khan]]|age={{Birth date and age|1995|9|5|df=y}}|caps=15|goals=0|club=[[Altrincham F.C.| Altrincham]]|clubnat=ENG}}
+{{nat fs g player|no=10|pos=MF|name=[[Adil Nabi]]|age={{Birth date and age|1994|02|28|df=y}}|caps=3|goals=0|club=[[Panachaiki F.C.|Panachaiki]]|clubnat=GRE}}
+{{nat fs break}}
+{{nat fs g player|no=11|pos=FW|name=[[Shayak Dost]]|age={{Birth date and age|2002|5|1|df=y}}|caps=20|goals=2|club=[[Brothers Union]]|clubnat=BAN}}
+{{nat fs g player|no=18|pos=FW|name=[[Umar Nawaz (footballer)|Umar Nawaz]]|age={{Birth date and age|2007|09|28|df=y}}|caps=4|goals=2|club=[[Wrexham A.F.C.| Wrexham A.F.C. Youth]]|clubnat=WAL}}
+{{nat fs g player|no=16|pos=FW|name=[[Abdul Arshad]]|age={{Birth date and age|2003|02|26|df=y}}|caps=14|goals=1|club=[[Brønshøj Boldklub]]|clubnat=DEN}}
+{{nat fs g player|no=14|pos=FW|name=[[Ali Haider Shah]]|age={{Birth date and age|2003|03|02|df=y}}|caps=2|goals=0|club=[[Hellerup IK]]|clubnat=DEN}}
+{{nat fs g player|no=9|pos=FW|name=[[Ali Khan (footballer)|Ali Khan]]|age={{Birth date and age|2001|3|16|df=y}}|caps=0|goals=0|club=[[Vasalunds IF]]|clubnat=SWE}}
+{{nat fs g player|no=23|pos=FW|name=[[Harun Hamid]]|age={{Birth date and age|2003|11|10|df=y}}|caps=18|goals=4|club=[[Flota Świnoujście]]|clubnat=POL}}
+{{nat fs g end}}
+
+===Recent call-ups===
+The following players have also been called up to the Pakistan squad within the last twelve months.
+{{nat fs r start}}
+{{nat fs r player|no=|pos=GK|name=[[Usman Ali (footballer)|Usman Ali]]|age={{Birth date and age|2004|06|10|df=y}}|caps=0|goals=0|club=[[PWD Sports Club|PWD SC]]|clubnat=BAN|latest=v. {{fb|SYR}}; 31 March 2026}}
+{{nat fs r player|no=|pos=GK|name=[[Adam Khan (footballer)|Adam Khan]]|age={{Birth date and age|2005|10|24|df=y}}|caps=1|goals=0|club=[[Blackburn Rovers F.C. Under-23s and Academy|Blackburn Rovers U21]]|clubnat=ENG|latest=v. {{fb|SYR}}; 18 November 2025}}
+{{Nat fs break}}
+{{nat fs r player|no=|pos=DF|name=[[Muhammad Umar Hayat]]|age={{Birth date and age|1996|09|22|df=y}}|caps=22|goals=1|club=[[Brothers Union]]|clubnat=BAN|latest=[[2026 Diamond Jubilee International Football Tournament]]<sup>PRE</sup>}}
+{{nat fs r player|no=|pos=DF|name=[[Junaid Shah]]|age={{birth date and age|df=y|2003|03|23}}|caps=8|goals=0|club=[[SA Gardens FC|SA Gardens]]|clubnat=PAK|latest=[[2026 Diamond Jubilee International Football Tournament]]<sup>PRE</sup>}}
+{{nat fs r player|no=|pos=DF|name=[[Abdul Rehman (footballer, born 2008)|Abdul Rehman]]|age={{birth date and age|df=y|2008|2|25}}|caps=2|goals=0|club=[[POPO FC]]|clubnat=PAK|latest=[[2026 Diamond Jubilee International Football Tournament]]<sup>PRE</sup>}}
+{{nat fs r player|no=|pos=DF|name=[[Waqar Baloch]]|age={{Birth date and age|1996|3|2|df=y}}|caps=6|goals=0|club=[[Khan Research Laboratories FC|Khan Research Laboratories]]|clubnat=PAK|latest=v. {{fb|SYR}}; 31 March 2026}}
+{{nat fs r player|no=|pos=DF|name=[[Ahmed Salman (footballer)|Ahmed Salman]]|age={{Birth date and age|2006|08|24|df=y}}|caps=1|goals=0|club=[[Shabab Al Ahli Club|Shabab Al Ahli]]|clubnat=UAE|latest=v. {{fb|SYR}}; 31 March 2026}}
+{{nat fs r player|no=|pos=DF|name=[[Sardar Wali]]|age={{Birth date and age|1998|11|28|df=y}}|caps=0|goals=0|club=[[WAPDA FC|WAPDA]]|clubnat=PAK|latest=v. {{fb|SYR}}; 31 March 2026}}
+{{nat fs r player|no=|pos=DF|name=[[Kamil Marwat]]|age={{Birth date and age|2006|1|10|df=y}}|caps=0|goals=0|club=[[POPO FC]]|clubnat=PAK|latest=v. {{fb|SYR}}; 31 March 2026}}
+{{nat fs r player|no=|pos=DF|name=[[Ans Amin]]| age={{Birth date and age|2006|4|15|df=y}} |caps=0|goals=0|club=[[SA Gardens FC|SA Gardens]]|clubnat=PAK|latest=v. {{fb|SYR}}; 31 March 2026}}
+{{nat fs r player|no=|pos=DF|name=[[Rehman Manzoor]]|age={{Birth date and age|2003|8|3|df=y}}|caps=1|goals=0|club=[[Pakistan Army FC|Pakistan Army]]|clubnat=PAK|latest=v. {{fb|SYR}}; 31 March 2026}}
+{{nat fs r player|no=|pos=DF|name=[[Haseeb Khan]]|age={{birth date and age|df=y|2000|4|4}}|caps=6|goals=0|club=[[Pakistan Air Force FC|Pakistan Air Force]]|clubnat=PAK|latest=v. {{fb|AFG}}; 14 October 2025}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=MF|name=[[Tufail Shinwari]]|age={{birth date and age|df=y|2006|05|10}}|clubnat=PAK|caps=3|goals=0|club=[[Karachi United]]|latest=[[2026 Diamond Jubilee International Football Tournament]]<sup>PRE</sup>}}
+{{nat fs r player|no=|pos=MF|name=[[Ali Zafar (footballer)|Ali Zafar]]|age={{birth date and age|df=y|2007|8|28}}|caps=0|goals=0|club=[[POPO FC]]|clubnat=PAK|latest=[[2026 Diamond Jubilee International Football Tournament]]<sup>PRE</sup>}}
+{{nat fs r player|no=|pos=MF|name=[[Ali Uzair]]|age={{Birth date and age|1996|10|14|df=y}}|caps=22|goals=0|club=[[PWD Sports Club|PWD SC]]|clubnat=BAN|latest=v. {{fb|SYR}}; 31 March 2026}}
+{{nat fs r player|no=|pos=MF|name=[[Muhammad Fahad]]| age={{Birth date and age|1999|12|27|df=y}}|caps=0|goals=0|club=[[SA Gardens FC|SA Gardens]]|clubnat=PAK|latest=v. {{fb|SYR}}; 31 March 2026}}
+{{nat fs r player|no=|pos=MF|name=[[Etzaz Hussain]]<sup>RET</sup>|age={{Birth date and age|1993|01|27|df=y}}|caps=3|goals=1|club=''Retired''|latest=v. {{fb|AFG}}; 14 October 2025}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=FW|name=Abdul Samad|age=|caps=0|goals=0|club=[[POPO FC]]|clubnat=PAK|latest=[[2026 Diamond Jubilee International Football Tournament]]<sup>PRE</sup>}}
+{{nat fs r player|no=|pos=FW|name=Najeeb Ullah Khan|age=|clubnat=PAK|caps=0|goals=0|club=''Unknown''|latest=[[2026 Diamond Jubilee International Football Tournament]]<sup>PRE</sup>}}
+{{nat fs r player|no=|pos=FW|name=[[Syed Ali Raza (footballer)|Syed Ali Raza]]|age={{birth date and age|df=y|2004|8|6}}|caps=1|goals=0|club=[[WAPDA FC|WAPDA]]|clubnat=PAK|latest=v. {{fb|SYR}}; 31 March 2026}}
+{{nat fs r player|no=|pos=FW|name=[[Moin Ahmed]]|age={{Birth date and age|2003|11|28|df=y}}|caps=6|goals=0|club=[[Khan Research Laboratories F.C.|Khan Research Laboratories]]|clubnat=PAK|latest=v. {{fb|SYR}}; 31 March 2026}}
+{{nat fs r player|no=|pos=FW|name=[[Muhammad Afzaal]]|age={{Birth date and age|1997|9|4|df=y}}|caps=1|goals=0|club=[[Pakistan Army FC|Pakistan Army]]|clubnat=PAK|latest=v. {{fb|SYR}}; 31 March 2026}}
+{{nat fs r player|no=|pos=FW|name=[[Jevan Khan]]|age={{Birth date and age|2006|12|13|df=y}}|caps=1|goals=0|club=[[SA Gardens FC|SA Gardens]]|clubnat=PAK|latest=v. {{fb|SYR}}; 31 March 2026}}
+{{nat fs r player|no=|pos=FW|name=[[Kaleemullah Khan (footballer)|Kaleemullah Khan]]|age={{Birth date and age|1992|09|20|df=y}}|caps=27|goals=4|club=[[Free agent]]|clubnat=| latest=v. {{fb|SYR}}; 18 November 2025}}
+{{nat fs r player|no=|pos=FW|name=[[Ahmed Faraz Gulzari]]|age={{Birth date and age|2007|06|25|df=y}}|caps=3|goals=0|club=[[Melbourne Victory FC Youth|Melbourne Victory Youth]]|clubnat=AUS|latest=v. {{fb|SYR}}; 18 November 2025}}
+{{nat fs r player|no=9|pos=FW|name=[[McKeal Abdullah]]|age={{Birth date and age|2005|07|07|df=y}}|caps=6|goals=0|club=[[Mansfield Town F.C.|Mansfield Town]] U21|clubnat=ENG|latest=v. {{fb|AFG}}; 14 October 2025}}
+{{nat fs r player|no=|pos=FW|name=[[Adeel Younas]]|age={{Birth date and age|2006|03|23|df=y}}|caps=5|goals=0|club=[[Hoandedhdhoo FC]]|clubnat=MDV|latest=v. {{fb|AFG}}; 14 October 2025}}
+{{Nat fs break}}
+*<sup>PRE</sup> Preliminary squad / standby
+*<sup>RET</sup> Retired from the national team
+*<sup>INJ</sup> Player withdrew due to injury
+*<sup>WD</sup> Player withdrew from squad due to non-injury issue
+{{Nat fs end}}
+
+== Player records ==
+{{Main|Pakistan national football team records and statistics#Player records}}
+
+{{Updated|7 June 2026}}<ref>{{cite web |title=Pakistan |url=https://www.national-football-teams.com/country/140/Pakistan.html |website=National Football Teams |access-date=20 June 2023 }}</ref>
+:''Players in '''bold''' are still active with Pakistan.''
+
+=== Most appearances ===
+[[File:Haroon Yousaf during 1997 SAFF Gold Cup (cropped).jpg|thumb|190px|[[Haroon Yousaf]] is Pakistan's most capped player with 49 appearances.]]
+{{See also|List of Pakistan international footballers}}
+{| class="wikitable sortable" style="text-align: center;"
+|-
+!style="background-color: #01411C; color: #FFFFFF; width:30px"| Rank
+!style="background-color: #01411C; color: #FFFFFF; width:175px" |Player
+!style="background-color: #01411C; color: #FFFFFF; width:50px" |Caps
+!style="background-color: #01411C; color: #FFFFFF; width:50px" |Goals
+!style="background-color: #01411C; color: #FFFFFF; width:100px" |Period
+|-
+|1
+|align="left"|[[Haroon Yousaf]]
+|49
+|3
+|1992–2003
+|-
+|2
+|align="left"|[[Jaffar Khan]]
+|47
+|0
+|2001–2013
+|-
+|3
+| align="left" |[[Zafar Iqbal (footballer)|Zafar Iqbal]]
+|45
+|1
+|1985–1995
+|-
+|4
+| align="left" |[[Samar Ishaq]]
+|44
+|3
+|2006–2013
+|-
+| rowspan="2" |5
+| align="left" |[[Muhammad Essa]]
+|40
+|11
+|2001–2009
+|-
+| align="left" |[[Muhammad Tariq Hussain]]
+|40
+|0
+|1987–2003
+|-
+|7
+| align="left" |[[Abdul Ghafoor (footballer)|Abdul Ghafoor]]
+|35
+|3
+|1959–1974
+|-
+|8
+| align="left" |'''[[Yousuf Butt]]'''
+|33
+|0
+|2012–present
+|-
+|9
+| align="left" |[[Sharafat Ali (footballer)|Sharafat Ali]]
+|32
+|12
+|1984–1992
+|-
+|10
+| align="left" |[[Tanveer Ahmed (footballer)|Tanveer Ahmed]]
+|31
+|3
+|1999–2008
+|}
+
+: <small>'''NB''' ''Exact figures of players [[Pakistan national football team results (1950–1989)|before 1989]] are not yet known and yet to be researched. This absence of data is notable for old long-serving players before 1989 such as [[Muhammad Umer]], [[Qayyum Changezi]], [[Abid Hussain Ghazi]], [[Abdullah Rahi]] & [[Abdul Ghafoor (footballer)|Abdul Ghafoor]], who are likely to have accumulated between 30 and 40 caps. Additionally, player appearances are also missing in the [[2000 AFC Asian Cup qualification]], two of the 2002 friendly matches against [[Sri Lanka national football team|Sri Lanka]], and 2006 friendly against [[Palestine national football team|Palestine]] in the primary source and yet to be updated.''</small>
+
+=== Top goalscorers ===
+{{See also|List of Pakistan national football team hat-tricks}}
+[[File:Former Pakistan national football captain Muhammad Umer.jpg|thumb|190px|[[Muhammad Umer]] is Pakistan's all-time top scorer recorded with 14 goals.]]
+{| class="wikitable sortable" style="text-align: center;"
+|-
+!style="background-color: #01411C; color: #FFFFFF; width:30px"| Rank
+!style="background-color: #01411C; color: #FFFFFF; width:175px" |Player
+!style="background-color: #01411C; color: #FFFFFF; width:50px" |Goals
+!style="background-color: #01411C; color: #FFFFFF; width:50px" |Caps
+!style="background-color: #01411C; color: #FFFFFF; width:50px" |Ratio
+!style="background-color: #01411C; color: #FFFFFF; width:100px" |Period
+|-
+|1
+| style="text-align:left;" |[[Muhammad Umer]]
+|14
+|—
+|—
+|1956–1965
+|-
+|2
+| style="text-align:left;" |[[Sharafat Ali (footballer)|Sharafat Ali]]
+|12
+|32
+|{{#expr:12/32 round 2}}
+|1984–1992
+|-
+| rowspan="2" |3
+| style="text-align:left;" |[[Moosa Ghazi]]
+|11
+|—
+|—
+|1955–1967
+|-
+| style="text-align:left;" |[[Muhammad Essa]]
+|11
+|40
+|{{#expr:11/40 round 2}}
+|2001–2009
+|-
+|5
+| style="text-align:left;" |[[Masood Fakhri]]
+|10
+|—
+|—
+|1952–1955
+|-
+|6
+| style="text-align:left;" |[[Hassan Bashir]]
+|9
+|29
+|{{#expr:9/29 round 2}}
+|2012–2023
+|-
+| rowspan="2" |7
+| style="text-align:left;" |[[Qayyum Changezi]]
+|7
+|—
+|—
+|1955–1963
+|-
+| style="text-align:left;" |[[Arif Mehmood]]
+|7
+|21
+|{{#expr:7/21 round 2}}
+|2005–2012
+|-
+| rowspan="2" |9
+| style="text-align:left;" |[[Muhammad Nauman Khan]]
+|6
+|17
+|{{#expr:6/17 round 2}}
+|1991–1997
+|-
+| style="text-align:left;" |[[Sarfraz Rasool]]
+|6
+|23
+|{{#expr:6/23 round 2}}
+|1997–2003
+|}
+
+=== Captains ===
+{{Main|List of Pakistan national football team captains}}
+
+* ''In major Continental and International tournaments. For the complete list, see the main article.''
+{| class="wikitable" style="text-align: center;"
+!style="color:#FFFFFF;background:#01411C"|Player
+!style="color:#FFFFFF;background:#01411C"|Tournament
+|-
+| style="text-align:left;" |[[Moideen Kutty]]
+|
+* [[Football at the 1954 Asian Games|1954 Asian Games]]
+|-
+| style="text-align:left;" |[[Nabi Chowdhury]]
+|
+* [[Football at the 1958 Asian Games|1958 Asian Games]]
+|-
+| style="text-align:left;" |[[Abdul Ghafoor (footballer)|Abdul Ghafoor]]
+|
+* [[Football at the 1974 Asian Games|1974 Asian Games]]
+|-
+| style="text-align:left;" |[[Muhammad Naveed (footballer)|Muhammad Naveed]]
+|
+* [[Football at the 1986 Asian Games|1986 Asian Games]]
+|-
+| style="text-align:left;" |[[Mateen Akhtar]]
+|
+* [[Football at the 1990 Asian Games|1990 Asian Games]]
+|-
+| style="text-align:left;" |[[Jaffar Khan]]
+|
+* [[2006 AFC Challenge Cup]]
+|}
+
+== Competitive record ==
+{{Main|Pakistan national football team records and statistics#Competition records}}
+
+=== FIFA World Cup ===
+{| class="wikitable" style="text-align: center;"
+|-
+! colspan=9 style="background: #01411C; color: #FFFFFF;" |[[FIFA World Cup|{{color|#FFFFFF|FIFA World Cup}}]] record
+! style="width:1%;" rowspan=17|
+!colspan=7 style="background: #01411C; color: #FFFFFF;|[[FIFA World Cup qualification|{{color|#FFFFFF|Qualification}}]] record
+|-
+!Year
+!Result
+!Position
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D*|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D*|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+|-
+|[[1930 FIFA World Cup|1930]] to [[1938 FIFA World Cup|1938]]||colspan=8| ''Part of {{UK}}''
+|colspan=6|''Part of {{UK}}''
+|-
+|[[1950 FIFA World Cup|1950]] to [[1986 FIFA World Cup|1986]]||colspan=8| ''Did not enter''
+|colspan=6|''Did not enter''
+|-
+|{{flagicon|Italy}} [[1990 FIFA World Cup|1990]]||colspan=8 rowspan=10|''Did not qualify''||4||0||0||4||1||12
+|-
+|{{flagicon|United States}} [[1994 FIFA World Cup|1994]]||8||0||0||8||2||36
+|-
+|{{flagicon|France|1974}} [[1998 FIFA World Cup|1998]]||4||0||0||4||3||22
+|-
+|{{flagicon|South Korea|1997}} {{flagicon|Japan}} [[2002 FIFA World Cup|2002]]||6||0||1||5||5||29
+|-
+|{{flagicon|Germany}} [[2006 FIFA World Cup|2006]]||2||0||0||2||0||6
+|-
+|{{flagicon|South Africa}} [[2010 FIFA World Cup|2010]]||2||0||1||1||0||7
+|-
+|{{flagicon|Brazil}} [[2014 FIFA World Cup|2014]]||2||0||1||1||0||3
+|-
+|{{flagicon|Russia}} [[2018 FIFA World Cup|2018]]||2||0||1||1||1||3
+|-
+|{{flagicon|Qatar}} [[2022 FIFA World Cup|2022]]||2||0||0||2||1||4
+|-
+|{{flagicon|Canada}} {{flagicon|Mexico}} {{flagicon|United States}} [[2026 FIFA World Cup|2026]]||8||1||1||6||2||26
+|-
+|{{flagicon|Morocco}} {{flagicon|Portugal}} {{flagicon|Spain}} [[2030 FIFA World Cup|2030]]
+|colspan=8 rowspan=2|''To be determined''
+|colspan=6 rowspan=2|''To be determined''
+|-
+|{{flagicon|Saudi Arabia}} [[2034 FIFA World Cup|2034]]
+|-
+|style="background: #01411C; color: #FFFFFF;|'''Total'''
+|style="background: #01411C; color: #FFFFFF;|'''—'''
+|style="background: #01411C; color: #FFFFFF;|'''{{Tooltip|0/20|Number of tournaments qualified for}}'''
+|style="background: #01411C; color: #FFFFFF;|'''—'''
+|style="background: #01411C; color: #FFFFFF;|'''—'''
+|style="background: #01411C; color: #FFFFFF;|'''—'''
+|style="background: #01411C; color: #FFFFFF;|'''—'''
+|style="background: #01411C; color: #FFFFFF;|'''—'''
+|style="background: #01411C; color: #FFFFFF;|'''—'''
+|style="background: #01411C; color: #FFFFFF;|'''40'''
+|style="background: #01411C; color: #FFFFFF;|'''1'''
+|style="background: #01411C; color: #FFFFFF;|'''5'''
+|style="background: #01411C; color: #FFFFFF;|'''34'''
+|style="background: #01411C; color: #FFFFFF;|'''15'''
+|style="background: #01411C; color: #FFFFFF;|'''148'''
+|}
+
+=== AFC Asian Cup ===
+{| class="wikitable" style="text-align: center;"
+|-
+! colspan=9 style="background: #01411C; color: #FFFFFF;" |[[AFC Asian Cup|{{color|#FFFFFF|AFC Asian Cup}}]] record
+! style="width:1%;" rowspan=22|
+!colspan=7 style="background: #01411C; color: #FFFFFF;|[[AFC Asian Cup qualifiers|{{color|#FFFFFF|Qualification}}]] record
+|- 
+!Year
+!Result
+!Position
+!{{Tooltip|Pld|Matches played}}
+!{{Tooltip|W|Matches won}}
+!{{Tooltip|D*|Matches drawn}}
+!{{Tooltip|L|Matches lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!{{Tooltip|Pld|Matches played}}
+!{{Tooltip|W|Matches won}}
+!{{Tooltip|D*|Matches drawn}}
+!{{Tooltip|L|Matches lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+|-
+|{{flagicon|Hong Kong|1955}} [[1956 AFC Asian Cup|1956]]||colspan=8| ''Withdrew'' ||colspan=6| ''Withdrew''
+|-
+|{{flagicon|South Korea|1949}} [[1960 AFC Asian Cup|1960]]||colspan=8|''Did not qualify''||6||2||1||3||8||10
+|-
+|{{flagicon|Israel}} [[1964 AFC Asian Cup|1964]]||colspan=8|''Withdrew''||colspan=6|''Withdrew''
+|-
+|{{flagicon|Iran|1964}} [[1968 AFC Asian Cup|1968]]||colspan=8|''Did not qualify''||3||0||1||2||1||4
+|-
+|{{flagicon|Thailand}} [[1972 AFC Asian Cup|1972]]||colspan=8 rowspan=3|''Withdrew''||colspan=6 rowspan=3|''Withdrew''
+|-
+|{{flagicon|Iran|1964}} [[1976 AFC Asian Cup|1976]]
+|-
+|{{flagicon|Kuwait}} [[1980 AFC Asian Cup|1980]]
+|-
+|{{flagicon|Singapore}} [[1984 AFC Asian Cup|1984]]||colspan=8 rowspan=7|''Did not qualify''||4||1||0||3||4||14
+|-
+|{{flagicon|Qatar}} [[1988 AFC Asian Cup|1988]]||4||0||0||4||1||12
+|-
+|{{flagicon|Japan|1870}} [[1992 AFC Asian Cup|1992]]||2||0||0||2||0||9
+|-
+|{{flagicon|United Arab Emirates}} [[1996 AFC Asian Cup|1996]]||2||0||0||2||0||7
+|-
+|{{flagicon|Lebanon}} [[2000 AFC Asian Cup|2000]]||4||0||0||4||0||16
+|-
+|{{flagicon|China}} [[2004 AFC Asian Cup|2004]]||2||1||0||1||3||3
+|-
+|{{flagicon|Indonesia}} {{flagicon|Malaysia}} {{flagicon|Thailand}} {{flagicon|Vietnam}} [[2007 AFC Asian Cup|2007]]||8||0||1||7||4||23
+|-
+|{{flagicon|Qatar}} [[2011 AFC Asian Cup|2011]]||colspan=8 rowspan=2| ''Did not enter'' ||colspan=6 rowspan=2| ''[[AFC Challenge Cup]]''
+|-
+|{{flagicon|Australia}} [[2015 AFC Asian Cup|2015]]
+|-
+|{{flagicon|United Arab Emirates}} [[2019 AFC Asian Cup|2019]]||colspan=8 rowspan=3| ''Did not qualify'' ||2||0||1||1||1||3
+|-
+|{{flagicon|Qatar}} [[2023 AFC Asian Cup|2023]]||2||0||0||2||1||4
+|-
+|{{flagicon|Saudi Arabia}} [[2027 AFC Asian Cup|2027]]
+||12||1||3||8||3||30
+|-
+|style="background: #01411C; color: #FFFFFF;|'''Total'''
+|style="background: #01411C; color: #FFFFFF;|'''—'''
+|style="background: #01411C; color: #FFFFFF;|'''{{Tooltip|0/19|Number of tournaments qualified for}}'''
+|style="background: #01411C; color: #FFFFFF;|'''—'''
+|style="background: #01411C; color: #FFFFFF;|'''—'''
+|style="background: #01411C; color: #FFFFFF;|'''—'''
+|style="background: #01411C; color: #FFFFFF;|'''—'''
+|style="background: #01411C; color: #FFFFFF;|'''—'''
+|style="background: #01411C; color: #FFFFFF;|'''—'''
+|style="background: #01411C; color: #FFFFFF;|'''51'''
+|style="background: #01411C; color: #FFFFFF;|'''5'''
+|style="background: #0E4E27; color: #FFFFFF;|'''7'''
+|style="background: #01411C; color: #FFFFFF;|'''39'''
+|style="background: #0E4E27; color: #FFFFFF;|'''26'''
+|style="background: #01411C; color: #FFFFFF;|'''135'''
+|}
+
+=== AFC Challenge Cup ===
+The [[AFC Challenge Cup]] was held every two years from 2006 through 2014.
+{| class="wikitable" style="text-align: center;"
+|-
+! colspan=9 style="background: #01411C; color: #FFFFFF;" |[[AFC Challenge Cup|{{color|#FFFFFF|AFC Challenge Cup}}]] record
+! style="width:1%;" rowspan=8|
+! colspan=6 style="background: #01411C; color: #FFFFFF;|{{color|#FFFFFF|Qualification}} record
+|-
+!Year
+!Result
+!Position
+!{{Tooltip|Pld|Matches played}}
+!{{Tooltip|W|Matches won}}
+!{{Tooltip|D|Matches drawn}}
+!{{Tooltip|L|Matches lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!{{Tooltip|Pld|Matches played}}
+!{{Tooltip|W|Matches won}}
+!{{Tooltip|D*|Matches drawn}}
+!{{Tooltip|L|Matches lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+|-
+|{{flagicon|Bangladesh}} [[2006 AFC Challenge Cup|2006]]||Group stage||10th||3||1||1||1||3||4||colspan=6|''No qualification''
+|-
+|{{flagicon|India}} [[2008 AFC Challenge Cup|2008]]||colspan=8 rowspan=4 | ''Did not qualify'' ||3||2||0||1||12||10
+|-
+|{{flagicon|Sri Lanka}} [[2010 AFC Challenge Cup|2010]]||3||1||2||0||9||3
+|-
+|{{flagicon|Nepal}} [[2012 AFC Challenge Cup|2012]]||3||1||0||2||3||6
+|-
+|{{flagicon|Maldives}} [[2014 AFC Challenge Cup|2014]]||3||1||0||2||2||2
+|-
+|style="background: #01411C; color: #FFFFFF;|'''Total'''
+|style="background: #01411C; color: #FFFFFF;|'''Group stage'''
+|style="background: #01411C; color: #FFFFFF;|'''1/5'''
+|style="background: #01411C; color: #FFFFFF;|'''3'''
+|style="background: #01411C; color: #FFFFFF;|'''1'''
+|style="background: #01411C; color: #FFFFFF;|'''1'''
+|style="background: #01411C; color: #FFFFFF;|'''1'''
+|style="background: #01411C; color: #FFFFFF;|'''3'''
+|style="background: #01411C; color: #FFFFFF;|'''4'''
+|style="background: #01411C; color: #FFFFFF;|'''12'''
+|style="background: #01411C; color: #FFFFFF;|'''5'''
+|style="background: #01411C; color: #FFFFFF;|'''2'''
+|style="background: #01411C; color: #FFFFFF;|'''5'''
+|style="background: #01411C; color: #FFFFFF;|'''26'''
+|style="background: #01411C; color: #FFFFFF;|'''21'''
+|}
+
+=== SAFF Championship ===
+{| class="wikitable" style="text-align: center;"
+|-
+! colspan=10 style="background: #01411C; color: #FFFFFF;" |[[SAFF Championship|{{color|#FFFFFF|SAFF Championship}}]] record
+|-
+!Year
+!Result
+!Position
+!{{Tooltip|Pld|Matches played}}
+!{{Tooltip|W|Matches won}}
+!{{Tooltip|D*|Matches drawn}}
+!{{Tooltip|L|Matches lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+|-style="background:LemonChiffon;"
+|style="border: 3px solid red"|{{flagicon|PAK}} [[1993 SAARC Gold Cup|1993]]||'''{{nowrap|Fourth place}}'''||'''4th'''||'''3'''||'''0'''||'''2'''||'''1'''||'''2'''||'''6'''
+|-
+|{{flagicon|SRI}} [[1995 SAARC Gold Cup|1995]]||{{nowrap|Group stage}}||5th||2||1||0||1||1||2
+|-bgcolor="#c96"
+|{{flagicon|NEP}} [[1997 SAFF Gold Cup|1997]]||'''Third place'''||'''3rd'''||'''4'''||'''2'''||'''0'''||'''2'''||'''3'''||'''4'''
+|-
+|{{flagicon|IND}} [[1999 SAFF Gold Cup|1999]]||Group stage||6th||2||0||0||2||0||6
+|-style="background:LemonChiffon;"
+|{{flagicon|BAN}} [[2003 SAFF Gold Cup|2003]]||'''{{nowrap|Fourth place}}'''||'''4th'''||'''5'''||'''3'''||'''0'''||'''2'''||'''5'''||'''4'''
+|-style="background:LemonChiffon;"
+|style="border: 3px solid red"|{{flagicon|PAK}} [[2005 SAFF Gold Cup|2005]]||'''Semi-finals'''||'''4th'''||'''4'''||'''2'''||'''1'''||'''1'''||'''2'''||'''1'''
+|-
+|{{flagicon|SRI}} {{flagicon|MDV}} [[2008 SAFF Championship|2008]]||Group stage||8th||3||0||0||3||2||9
+|-
+|{{flagicon|BAN}} [[2009 SAFF Championship|2009]]||Group stage||5th||3||1||1||1||7||1
+|-
+|{{flagicon|IND}} [[2011 SAFF Championship|2011]]||Group stage||5th||3||0||3||0||1||1
+|-
+|{{flagicon|NEP}} [[2013 SAFF Championship|2013]]||Group stage||5th||3||1||1||1||3||3
+|-
+|{{flagicon|IND}} [[2015 SAFF Championship|2015]]||colspan=9|''Withdrew''
+|-style="background:LemonChiffon;"
+|{{flagicon|BAN}} [[2018 SAFF Championship|2018]]||'''Semi-finals'''||'''4th'''||'''4'''||'''2'''||'''0'''||'''2'''||'''6'''||'''5'''
+|-
+|{{flagicon|MDV}} [[2021 SAFF Championship|2021]]||colspan=9|''Suspended''
+|-
+|{{flagicon|IND}} [[2023 SAFF Championship|2023]]||Group stage||8th||3||0||0||3||0||9
+|-
+|style="background: #01411C; color: #FFFFFF;"|'''Total'''
+|style="background: #01411C; color: #FFFFFF;"|'''Third place'''
+|style="background: #01411C; color: #FFFFFF;"|'''12/14'''
+|style="background: #01411C; color: #FFFFFF;"|'''39'''
+|style="background: #01411C; color: #FFFFFF;"|'''12'''
+|style="background: #01411C; color: #FFFFFF;"|'''8'''
+|style="background: #01411C; color: #FFFFFF;"|'''19'''
+|style="background: #01411C; color: #FFFFFF;"|'''32'''
+|style="background: #01411C; color: #FFFFFF;"|'''52'''
+|}
+
+=== Asian Games ===
+: ''Football at the Asian Games has been an under-23 tournament since 2002.''
+{| class="wikitable" style="text-align: center;"
+|-
+! colspan=9 style="background: #01411C; color: #FFFFFF;" |[[Football at the Asian Games|{{color|#FFFFFF|Asian Games}}]] record
+|-
+!Year||Position||Pld||W||D||L||GF||GA
+|-
+|{{flagicon|IND}} [[Football at the 1951 Asian Games|1951]]|| colspan="7" |''Did not enter''
+|-
+|{{flagicon|PHI|1936}} [[Football at the 1954 Asian Games|1954]]||Round 1||2||1||0||1||7||4
+|-
+|{{flagicon|JPN|1870}} [[Football at the 1958 Asian Games|1958]]||Round 1||2||0||1||1||2||4
+|-
+|{{flagicon|IDN}} [[Football at the 1962 Asian Games|1962]]|| colspan="7" rowspan="3" |''Did not enter''
+|-
+|{{flagicon|THA}} [[Football at the 1966 Asian Games|1966]]
+|-
+|{{flagicon|THA}} [[Football at the 1970 Asian Games|1970]]
+|-
+|{{Flagicon|IRN}} [[Football at the 1974 Asian Games|1974]]||Round 1||3||1||0||2||6||13
+|-
+|{{flagicon|THA}} [[Football at the 1978 Asian Games|1978]]|| colspan="7" rowspan="2" |''Did not enter''
+|-
+|{{flagicon|IND}} [[Football at the 1982 Asian Games|1982]]
+|-
+|{{flagicon|KOR|1984}} [[Football at the 1986 Asian Games|1986]]||Round 1||4||0||0||4||2||15
+|-
+|{{flagicon|CHN}} [[Football at the 1990 Asian Games|1990]]||Round 1||3||0||0||3||1||16
+|-
+|{{flagicon|JPN|1870}} [[Football at the 1994 Asian Games|1994]]|| colspan="7" rowspan="2" |''Did not enter''
+|-
+|{{flagicon|THA}} [[Football at the 1998 Asian Games|1998]]
+|-
+|[[Football at the 2002 Asian Games|2002]] to present
+|colspan=8|''See [[Pakistan national under-23 football team]]''
+|- style="background: #01411C; color: #FFFFFF;|
+||'''Total'''||'''5/13'''||'''14'''||'''2'''||'''1'''||'''11'''||'''18'''||'''52'''
+|}
+
+=== South Asian Games ===
+:''Football at the South Asian Games has been an under-23 tournament since 2004.''
+{| class="wikitable" style="text-align: center;"
+|-
+! colspan=9 style="background: #01411C; color: #FFFFFF;" |[[Football at the South Asian Games|{{color|#FFFFFF|South Asian Games}}]] record
+|-
+!Year
+!Position
+!{{Tooltip|Pld|Matches played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D*|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+|-
+|{{flagicon|Nepal}} [[Football at the 1984 South Asian Games|1984]]|| colspan="7" |''Did not enter''
+|-style="background:LemonChiffon;"
+|{{flagicon|Bangladesh}} [[Football at the 1985 South Asian Games|1985]]||'''Fourth place'''||'''3'''||'''1'''||'''1'''||'''1'''||'''6'''||'''5'''
+|-bgcolor="#c96"
+|{{flagicon|India}} [[Football at the 1987 South Asian Games|1987]]||'''Third place'''||'''3'''||'''2'''||'''1'''||'''0'''||'''2'''||'''0'''
+|- style="background:gold;"
+|style="border: 3px solid red"|{{flagicon|Pakistan}} [[Football at the 1989 South Asian Games|1989]]||'''Champions'''
+|'''3'''
+|'''2'''
+|'''1'''
+|'''0'''
+|'''5'''
+|'''2'''
+|- style="background:gold;"
+|{{flagicon|Sri Lanka}} [[Football at the 1991 South Asian Games|1991]]
+|'''Champions'''
+|'''3'''
+|'''2'''
+|'''1'''
+|'''0'''
+|'''3'''
+|'''0'''
+|-
+|{{flagicon|Bangladesh}} [[Football at the 1993 South Asian Games|1993]]
+|Group stage
+|2
+|0
+|1
+|1
+|3
+|4
+|-
+|{{flagicon|India}} [[Football at the 1995 South Asian Games|1995]]|| colspan="7" |Withdrew
+|-
+|{{flagicon|Nepal}} [[Football at the 1999 South Asian Games|1999]]||Group stage
+|3
+|1
+|0
+|2
+|5
+|9
+|-
+|[[Football at the 2004 South Asian Games|2004]] to present
+| colspan="8" |''See [[Pakistan national under-23 football team]]''
+|- style="background: #01411C; color: #FFFFFF;|
+||'''Total'''||'''6/8'''||'''17'''||'''8'''||'''5'''||'''4'''||'''24'''||'''20'''
+|}
+
+=== RCD Cup ===
+[[File:Pakistan_in_1974_RCD_Cup.jpg|thumb|Pakistan at the [[1974 RCD Cup]]]]
+{| class="wikitable" style="text-align: center;"
+|-
+! colspan=9 style="background: #01411C; color: #FFFFFF;" |[[RCD Cup|{{color|#FFFFFF|RCD Cup}}]] record
+|-
+!Year
+!Position
+!{{Tooltip|Pld|Matches played}}
+!{{Tooltip|W|Matches won}}
+!{{Tooltip|D*|Matches drawn}}
+!{{Tooltip|L|Matches lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+|- style="background:#cc9966;"
+|{{flagicon|Iran|1964}} [[1965 RCD Cup|1965]]||'''Third place'''||2||0||0||2||2||7
+|- style="background:#cc9966;"
+|style="border: 3px solid red"|{{flagicon|Pakistan}} [[1967 RCD Cup|1967]]||'''Third place'''||2||0||0||2||4||9
+|- style="background:#cc9966;"
+|{{flagicon|Turkey}} [[1969 RCD Cup|1969]]||'''Third place'''||2||0||0||2||4||8
+|- style="background:#cc9966;"
+|{{flagicon|Iran|1964}} [[1970 RCD Cup|1970]]||'''Third place'''||2||0||0||2||1||10
+|- style="background:#cc9966;"
+|style="border: 3px solid red"|{{flagicon|Pakistan}} [[1974 RCD Cup|1974]]||'''Third place'''||2||0||1||1||3||4
+|- style="background: #01411C; color: #FFFFFF;|
+||'''Total'''||'''5/6'''||'''10'''||'''0'''||'''1'''||'''9'''||'''14'''||'''38'''
+|}
+
+== Head-to-head record ==
+{{Main|Pakistan national football team records and statistics#Head-to-head record}}
+
+== Honours ==
+<!-- DO NOT ADD UNOFFICIAL OR FRIENDLY COMPETITIONS IN THE SUMMARY TABLE FOR OFFICIAL HONOURS ONLY -->
+{{Main|Pakistan national football team records and statistics#Honours}}
+
+{{col-begin}}
+{{col-2}}
+
+=== Regional ===
+* '''[[South Asian Games]]'''
+** {{Gold1}} '''Gold medal (2)''': [[Football at the 1989 South Asian Games|1989]], [[Football at the 1991 South Asian Games|1991]]
+** {{Bronze3}} Bronze medal (1): [[Football at the 1987 South Asian Games|1987]]
+* '''[[SAFF Championship]]'''
+** {{Bronze3}} Third place (1): [[1997 SAFF Gold Cup|1997]]
+{{col-end}}
+
+== See also ==
+{{Portal|Association football|Pakistan}}
+* [[Football in Pakistan]]
+** [[Women's football in Pakistan]]
+* [[Pakistan national under-23 football team]]
+* [[Pakistan national under-20 football team]]
+* [[Pakistan national under-17 football team]]
+* [[Pakistan Football Federation]]
+
+== Notes ==
+{{reflist|group=note}}
+
+== References ==
+{{Reflist}}
+
+== Further reading ==
+* {{cite book |last1=Bhatti |first1=Mukhtar |url=https://books.google.com/books?id=Q3vhOwAACAAJ |title=Pakistan Sports An Almanac of Pakistan Sports with Complete Records 1947–1999 |publisher=Bhatti Publications |year=1999 |isbn= |edition=3rd |location= |pages=237–250 }}
+
+== External links ==
+{{Commons category|Pakistan national association football team}}
+* [http://www.pff.com.pk/ Pakistan Football Federation] (official website)
+* {{Twitter|TheRealPFF}}
+*  {{Facebook|PakistanFootballOfficial}}
+* {{Instagram|pakistanffofficial}}
+*[https://youtube.com/@pakistanfootballfederation Pakistan national football team] on YouTube
+* [https://www.the-afc.com/en/south/pakistan.html Pakistan] at [[Asian Football Confederation|AFC]]
+* [https://www.fifa.com/about-fifa/associations/PAK Pakistan] at [[FIFA]]
+* [https://www.eloratings.net/Pakistan ELO team records]
+
+{{Pakistan national football team}}
+{{Navboxes
+ | titlestyle = background:#01411C; color:white; {{box-shadow border|a|white|1px}};
+ | list1=
+{{Pakistan national football team managers}}
+{{Football in Pakistan}}
+{{SAFF Football}}
+{{AFC teams}}
+{{National sports teams of Pakistan}}
+}}
+{{Portal bar|Association football|Pakistan}}
+
+[[Category:Pakistan national football team| ]]
+[[Category:Pakistan men's national football teams| ]]
+[[Category:Pakistan Football Federation national teams| ]]
+[[Category:1950 establishments in Pakistan]]
+[[Category:National sports teams established in 1950]]

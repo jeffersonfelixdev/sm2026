@@ -1,0 +1,1596 @@
+{{Short description|Men's association football team}}
+{{About|the men's team|the women's team|Colombia women's national football team}}
+{{Use dmy dates|date=June 2026}}
+{{Infobox national football team
+| Name                     = Colombia
+| Nickname                 = {{lang|es|Los Cafeteros}} ([[Colombian coffee growing axis|The Coffee Growers]])<br />{{lang|es|La Tricolor}} (The Tricolour)<br />{{lang|es|La Sele}} (The Sele)
+| Badge                    = FCF-Logo-2023.svg
+| Badge_size               = 215px
+| Association              = [[Colombian Football Federation|Federación Colombiana de Fútbol]] (FCF)
+| Confederation            = [[CONMEBOL]] (South America)
+| Coach                    = [[Néstor Lorenzo]]
+| Captain                  = [[James Rodríguez]]
+| Most caps                = [[James Rodríguez]] (131)
+| Top scorer               = [[Radamel Falcao]] ([[List of international goals scored by Radamel Falcao|36]])
+| Home Stadium             = [[Estadio Metropolitano Roberto Meléndez]]<ref>{{cite web |url=http://www.semana.com/deportes/barranquilla-sera-sede-dos-primeros-partidos-eliminatorias/162902-3.aspx |title=Barranquilla será la sede de los dos primeros partidos de las eliminatorias, Deportes |website=Semana.com |date=22 August 2011 |access-date=30 June 2014 |archive-date=7 January 2019 |archive-url=https://web.archive.org/web/20190107035159/https://www.semana.com/buscador?query=barranquilla%20sera%20sede%20dos%20primeros%20partidos%20eliminatorias |url-status=dead }}</ref>
+| FIFA Trigramme           = COL
+| FIFA Rank                = {{FIFA World Rankings|COL}}
+| FIFA max                 = 3
+| FIFA max date            = July–August 2013, September 2014 – March 2015, June–August 2016
+| FIFA min                 = 54
+| FIFA min date            = June 2011
+| Elo Rank                 = {{World Football Elo Ratings|Colombia}}
+| Elo max                  = 3
+| Elo max date             = June 2016
+| Elo min                  = 99
+| Elo min date             = March 1957
+| pattern_la1              = _col26h
+| pattern_b1               = _col26h
+| pattern_ra1              = _col26h
+| pattern_sh1              = _col26h
+| pattern_so1              = 
+| leftarm1                 = F4E201
+| body1                    = F4E201
+| rightarm1                = F4E201
+| shorts1                  = 005DA4
+| socks1                   = FF0000
+| pattern_la2              = _col26a
+| pattern_b2               = _col26aA
+| pattern_ra2              = _col26a
+| pattern_sh2              = _col26a
+| pattern_so2              = _col26a2l
+| leftarm2                 = 243561
+| body2                    = 243561
+| rightarm2                = 243561
+| shorts2                  = 243561
+| socks2                   = 243561
+| First game               = {{fb|COL}} 4–1 {{fb-rt|CRC}}<br />([[Barranquilla]], Colombia; 17 February 1926)<ref name="InternationalDebut" /><ref name="FirstMatch" />
+| Largest win              = {{fb|BHR}} 0–6 {{fb-rt|COL}}<br />([[Riffa]], Bahrain; 26 March 2015)<ref>{{cite web |url=https://www.bbc.com/sport/football/32080565 |title=International friendlies: Bahrain 0–6 Colombia |website=bbc.com |publisher=BBC |date=26 March 2015 |access-date=28 March 2021 |archive-date=14 April 2021 |archive-url=https://web.archive.org/web/20210414185720/https://www.bbc.com/sport/football/32080565 |url-status=live }}</ref>
+| Largest loss             = {{fb|BRA|1889}} 9–0 {{fb-rt|COL}}<br />([[Lima]], Peru; 24 March 1957)<ref>{{cite web |url=https://www.rsssf.org/tables/57safull.html |title=Southamerican Championship 1957 |work=[[RSSSF]] |date=12 August 2009 |first=Martín |last=Tabeira |accessdate=17 August 2021}}</ref>
+| World cup apps           = 7
+| World cup first          = 1962
+| World cup best           = Quarter-finals ([[2014 FIFA World Cup|2014]])
+| Regional name            = [[Copa América]]
+| Regional cup apps        = 24
+| Regional cup first       = [[1945 South American Championship|1945]]
+| Regional cup best        = '''Champions''' ([[2001 Copa América|2001]])
+| 2ndRegional name         = [[CONCACAF Gold Cup]]
+| 2ndRegional cup apps     = 3
+| 2ndRegional cup first    = [[2000 CONCACAF Gold Cup|2000]]
+| 2ndRegional cup best     = Runners-up ([[2000 CONCACAF Gold Cup|2000]])
+| 3rdRegional name         = 
+| 3rdRegional cup apps     = 
+| 3rdRegional cup first    = 
+| 3rdRegional cup best     = 
+| Confederations cup apps  = 1
+| Confederations cup first = [[2003 FIFA Confederations Cup|2003]]
+| Confederations cup best  = Fourth place ([[2003 FIFA Confederations Cup|2003]])
+| medaltemplates =
+{{MedalCompetition|[[Copa América]]}}
+{{MedalGold|[[2001 Copa América|2001 Colombia]]|[[2001 Copa América squads|Team]]}}
+{{MedalSilver|[[1975 Copa América|1975 South America]]|[[1975 Copa América squads|Team]]}}
+{{MedalSilver|[[2024 Copa América|2024 United States]]|[[2024 Copa América squads|Team]]}}
+{{MedalBronze|[[1987 Copa América|1987 Argentina]]|[[1987 Copa América squads|Team]]}}
+{{MedalBronze|[[1993 Copa América|1993 Ecuador]]|[[1993 Copa América squads|Team]]}}
+{{MedalBronze|[[1995 Copa América|1995 Uruguay]]|[[1995 Copa América squads|Team]]}}
+{{MedalBronze|[[2016 Copa América|2016 United States]]|[[2016 Copa América squads|Team]]}}
+{{MedalBronze|[[2021 Copa América|2021 Brazil]]|[[2021 Copa América squads|Team]]}}
+{{Medal|Competition|[[CONCACAF Gold Cup]]}}
+{{MedalSilver|[[2000 CONCACAF Gold Cup|2000 United States]]|[[2000 CONCACAF Gold Cup squads|Team]]}}
+{{Medal|Competition|[[Football at the Central American and Caribbean Games|Central American and Caribbean Games]]}}
+{{MedalGold|[[1946 Central American and Caribbean Games|1946 Barranquilla]]|[[Football at the 1946 Central American and Caribbean Games|Team]]}}
+{{MedalBronze|[[1938 Central American and Caribbean Games|1938 Panama City]]|[[Football at the 1938 Central American and Caribbean Games|Team]]}}
+}}
+
+The '''Colombia national football team''' ({{langx|es|Selección de fútbol de Colombia}}), nicknamed '''''Los Cafeteros''','' represents [[Colombia]] in men's international [[Association football|football]] and is managed by the [[Colombian Football Federation|Federación Colombiana de Fútbol]] ({{langx|en|Colombian Football Federation}}), the governing body for [[football in Colombia]]. It has been a member of [[FIFA]] and [[CONMEBOL]] since 1936. Currently ranked 13th on the [[FIFA Men's World Ranking|FIFA World Ranking]] as of June 2026, Colombia has participated in seven [[FIFA World Cup]]s, most recently in the [[2026 FIFA World Cup|2026]] edition. The team are nicknamed ''Los Cafeteros'' due to the [[Coffee production in Colombia|country's high coffee production]]. Colombia is known for having a passionate fanbase, and has been a symbol of nationalism, pride and passion for many Colombians worldwide.<ref>{{cite web |first=Teofilo |last=Gutierrez |url=https://www.fifa.com/worldcup/preliminaries/news/newsid=2035749/ |archive-url=https://web.archive.org/web/20140328224554/http://www.fifa.com/worldcup/preliminaries/news/newsid=2035749/ |url-status=dead |archive-date=28 March 2014 |title=Gutierrez: Colombia are one big family |publisher=FIFA |date=15 July 2015 |access-date=30 November 2015}}</ref><ref>{{cite web|url=https://www.youtube.com/watch?v=67813ps8cR4 |archive-url=https://ghostarchive.org/varchive/youtube/20211222/67813ps8cR4 |archive-date=2021-12-22 |url-status=live|title=World Cup Team Profile: COLOMBIA |via=YouTube |date=4 June 2014 |access-date=30 June 2014}}{{cbignore}}</ref>
+
+In the [[2014 FIFA World Cup]] held in Brazil, Colombia achieved its best World Cup performance reaching the quarter-finals.<ref>{{cite web|url=http://www.sietedias.co/2014/07/colombia-cierra-su-mejor-participacion.html|title=Colombia closes its best participation in the World Championships|website=Sietedias.co|language=es|access-date=13 July 2014|archive-date=14 July 2014|archive-url=https://web.archive.org/web/20140714222548/http://www.sietedias.co/2014/07/colombia-cierra-su-mejor-participacion.html|url-status=dead}}</ref>It also made the World Cup knockout stages on three other occasions, being eliminated in the round of 16 in [[1990 FIFA World Cup|1990]], [[2018 FIFA World Cup|2018]] and [[2026 FIFA World Cup|2026]].<ref>{{Cite news |last=Abnos |first=Alexander |date=2026-07-07 |title=Switzerland knock out Colombia on penalties to reach World Cup quarter-finals |url=https://www.theguardian.com/football/2026/jul/08/switzerland-colombia-world-cup-2026-last-16-match-report |access-date=2026-07-08 |work=The Guardian |language=en-GB |issn=0261-3077}}</ref>
+
+Its greatest international achievement is winning the [[2001 Copa América]] as hosts, during which the team set a record by winning every match without conceding a single goal. Colombia also finished as runners-up in [[1975 Copa América|1975]] and [[2024 Copa América|2024]] and finished third five times: in [[1987 Copa América|1987]], [[1993 Copa América|1993]], [[1995 Copa América|1995]], [[2016 Copa América|2016]], and [[2021 Copa América|2021]].
+
+==History==
+{{Main|History of the Colombia national football team}}
+=== Early history (1900–1946) ===
+The origins of football in Colombia are disputed, as no single city or date is universally accepted. Most accounts place the first organised matches in the early 20th century on the [[Caribbean Region, Colombia|Caribbean coast]], particularly around [[Barranquilla]] and [[Santa Marta]], where British railway workers on the Puerto Colombia line and English sailors introduced association football to local communities.<ref name="champions">{{cite web |last=Andrés |first=Juan Pablo |title=Colombia – List of Champions and Runners-Up |work=Rec.Sport.Soccer Statistics Foundation |publisher=RSSSF |date=18 July 2013 |url=https://www.rsssf.org/tablesc/colchamp.html |access-date=15 November 2013 |archive-date=7 February 2023 |archive-url=https://web.archive.org/web/20230207020018/https://www.rsssf.org/tablesc/colchamp.html |url-status=live}}</ref><ref>{{cite web |url=https://www.pulzo.com/deportes/en-que-ciudad-colombia-se-origino-futbol-profesional-PP1355495A |title=¿En qué ciudad de Colombia se originó el fútbol profesional? |website=Pulzo |language=es |date=25 April 2022 |access-date=31 May 2026}}</ref><ref>{{cite web |url=https://archivobogota.secretariageneral.gov.co/noticias/f%C3%BAtbol-profesional-colombia |title=Fútbol profesional en Colombia |website=Archivo de Bogotá |language=es |access-date=31 May 2026}}</ref> One documented account places the first match on 6 August 1904, when executives and workers of The Colombia Railways Company played in Barranquilla, following informal games organised by employees since around 1900.<ref name="champions"/><ref>{{cite web |url=https://historiadelfutbolcolombiano.weebly.com/historia-del-futbol-colombiano.html |title=Historia del fútbol colombiano |website=historiadelfutbolcolombiano |language=es |access-date=31 May 2026}}</ref>
+
+The [[Colombian Football Federation]] was founded in 1924 as the ''Liga de Fútbol'' and joined both [[FIFA]] and [[CONMEBOL]] in 1936.<ref name="champions"/> Colombia's first recorded international match came on 17 February 1926, when a side representing the Atlantic coast and playing as ''Selección Atlántico'' defeated [[Costa Rica national football team|Costa Rica]] 4–1 at the [[Estadio Moderno Julio Torres]] in Barranquilla.<ref name="InternationalDebut">{{cite book |last1=Jaramillo Racines |first1=Rafael |title=Fútbol y barras bravas: Análisis de un fenómeno urbano |date=2018 |publisher=Siglo del Hombre – Universidad Nacional de Colombia |isbn=978-958-665-507-1 |page=189 |edition=1st |language=es |access-date=24 June 2020 |archive-date=25 June 2020 |archive-url=https://web.archive.org/web/20200625041704/http://www.humanas.unal.edu.co/2017/investigacion/centro-editorial/libros/futbol-y-barras-bravas-analisis-de-un-fenomeno-urbano |url-status=live |url=http://www.humanas.unal.edu.co/2017/investigacion/centro-editorial/libros/futbol-y-barras-bravas-analisis-de-un-fenomeno-urbano}}</ref><ref name="FirstMatch">{{cite web |url=https://colombia.as.com/futbol/la-historia-del-estadio-moderno-pele-junior-y-cuna-del-fpc-n/ |title=La historia del estadio Moderno: Pelé, Junior y cuna del FPC |website=Diario As |date=21 March 2022 |language=es |access-date=31 May 2026}}</ref>
+
+In 1937, Colombia fielded a representative side at the ''Juegos del IV Centenario de Cali'', a multi-sport event marking the 400th anniversary of [[Cali]]'s founding, and played four matches against [[Mexico national football team|Mexico]], [[Argentina national football team|Argentina]], [[Ecuador national football team|Ecuador]] and [[Cuba national football team|Cuba]] at the newly inaugurated [[Estadio Olímpico Pascual Guerrero]].<ref>{{cite web |url=https://www.rsssf.org/tablesc/cali400-37.html |title=Juegos del Cuarto Centenario de Cali 1937 |last1=Morrison |first1=Neil |last2=Cruickshank |first2=Mark |date=2 May 2013 |website=RSSSF |access-date=2 February 2023 |archive-date=29 September 2022 |archive-url=https://web.archive.org/web/20220929213548/https://www.rsssf.org/tablesc/cali400-37.html |url-status=live }}</ref> Despite FIFA membership, Colombia withdrew from the [[1938 FIFA World Cup]] and instead entered the [[Football at the 1938 Central American and Caribbean Games|1938 Central American and Caribbean Games]]. The squad in this period was drawn largely from ''Club Juventud Bogotana'', later [[Millonarios F.C.|Millonarios]], whose players formed the backbone of the side in its formative years.<ref>{{cite web |url=https://www.rsssf.org/tablesm/millonarios-intl.html |title=International Matches of Millonarios de Bogotá |publisher=RSSSF |language=es |last=Acosta |first=Andrés |date=13 June 2013 |access-date=2 February 2023 |archive-date=5 February 2023 |archive-url=https://web.archive.org/web/20230205051555/https://rsssf.org/tablesm/millonarios-intl.html |url-status=live }}</ref>
+
+[[File:Colombia en el Sudamericano 1945, Estadio, 1945-01-26 (89).jpg|thumb|left|Colombia at their first [[Copa América|South American Championship]] in 1945]]
+Colombia made their Copa América debut at the [[1945 South American Championship|1945 tournament]] in Chile, their first appearance in an official CONMEBOL competition. With no professional league or national selection system in place, the squad was built almost entirely around [[Atlético Junior|Junior de Barranquilla]], then one of the strongest amateur sides on the Caribbean coast.<ref>{{cite web |url=http://blogs.golcaracol.com/gotasdeveneno/2012/08/08/cuando-el-junior-de-barranquilla-fue-la-seleccion-colombia/ |title=Cuando el Junior de Barranquilla fue la Selección Colombia |website=Gol Caracol |language=es |access-date=26 November 2013 |archive-date=23 June 2015 |archive-url=https://web.archive.org/web/20150623134304/http://blogs.golcaracol.com/gotasdeveneno/2012/08/08/cuando-el-junior-de-barranquilla-fue-la-seleccion-colombia/ |url-status=dead }}</ref> [[Roberto Meléndez]] acted as player-manager. Drawn against [[Brazil national football team|Brazil]], [[Uruguay national football team|Uruguay]], Argentina, [[Chile national football team|Chile]], Ecuador and [[Bolivia national football team|Bolivia]], Colombia lost their first four matches but finished with a 3–1 win over Ecuador and a 3–3 draw with Bolivia.<ref>{{cite web |url=https://www.rsssf.org/tables/45safull.html |title=Southamerican Championship 1945 |website=RSSSF |access-date=31 May 2026 |archive-date=28 April 2015 |archive-url=https://web.archive.org/web/20150428060143/http://www.rsssf.com/tables/45safull.html |url-status=live}}</ref>
+
+Colombia withdrew from the [[1946 South American Championship]] but won their first international title later that year at the football tournament of the [[1946 Central American and Caribbean Games]] in Barranquilla. After Cuba and Mexico withdrew, the competition was played as a single round-robin; Colombia won all six matches, scoring 20 goals and conceding seven, defeating [[Curaçao national football team|Curaçao]], [[Venezuela national football team|Venezuela]], [[Guatemala national football team|Guatemala]], [[Puerto Rico national football team|Puerto Rico]], [[Costa Rica national football team|Costa Rica]] and [[Panama national football team|Panama]].<ref name="cag46">{{cite web |url=https://www.rsssf.org/tablesc/cag46.html |title=Central American and Caribbean Games 1946 |website=RSSSF |access-date=31 May 2026}}</ref><ref name="arco1946">{{cite web |url=http://www.arcotriunfal.com/707/colombia_barrio_en_los_centroamericanos_de_1946.html |title=Colombia barrió en los Centroamericanos de 1946 |last=Carvajal |first=Tobías |language=es |date=22 July 2006 |website=Arco Triunfal |archive-url=https://web.archive.org/web/20150923173517/http://www.arcotriunfal.com/707/colombia_barrio_en_los_centroamericanos_de_1946.html |archive-date=23 September 2015 |url-status=dead }}</ref> The team was coached by Peruvian manager [[José Arana (footballer, born 1902)|José Arana Cruz]], one of the first foreign coaches in the Colombia setup, whose tenure coincided with the country's first major international success.<ref>{{cite web |url=https://www.las2orillas.co/seleccion-colombia-jose-arana-cruz-el-entrenador-peruano-que-le-dio-el-primer-titulo-de-su-historia/ |title=El entrenador peruano que le dio el primer título a la Selección Colombia |website=Las2Orillas |language=es |access-date=31 May 2026}}</ref><ref name="arco1946"/>
+
+=== Post-war reintegration and first World Cup (1947–1962) ===
+Following their debut at the 1945 South American Championship, Colombia's international activity was irregular in the immediate post-war years. Although the federation had been affiliated with FIFA since 1936, the team withdrew from several Copa América tournaments between 1947 and 1957, reflecting administrative instability and the wider social and economic problems affecting Colombian football at the time.<ref>{{cite web |url=http://www.colombia.com/futbol/la_seleccion/historia.asp |title=La Selección – Historia |website=Colombia.com |access-date=1 December 2022 |archive-date=13 January 2019 |archive-url=https://web.archive.org/web/20190113232200/http://www.colombia.com/futbol/la_seleccion/historia.asp |url-status=live}}</ref>
+
+[[File:Colombia en el Sudamericano 1957, Estadio, 1957-04-26 (728).jpg|thumb|right|Colombia at the South American Championship in [[1957 South American Championship|1957]]]]
+Colombia returned to the continental championship at the [[1957 South American Championship]] in Peru, their first appearance in the tournament since 1945. The squad finished near the bottom of the standings, but the competition marked a return to regular South American international football after more than a decade away.<ref>{{cite web |url=https://www.rsssf.org/tables/57safull.html |title=Southamerican Championship 1957 |website=RSSSF}}</ref>
+
+Colombia's return to the international stage culminated in qualification for the [[1962 FIFA World Cup]] in Chile, their first appearance at the finals.<ref name="InternationalDebut"/> Coached by Argentine [[Adolfo Pedernera]] and captained by [[Efraín Sánchez]], they were drawn in Group 1 with Uruguay, the [[Soviet Union national football team|Soviet Union]] and [[Yugoslavia national football team|Yugoslavia]]. The team finished bottom of the group, but their match against the Soviet Union produced one of the most famous moments in their history: trailing 4–1, midfielder [[Marcos Coll]] scored directly from a corner kick — the only direct corner goal in FIFA World Cup history — beating [[Lev Yashin]] in the process.<ref>{{cite web |url=https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/olympic-goal-scorer-marcos-coll-dies-aged-81-2893130-x3527 |title=Olympic goal scorer Marcos Coll dies aged 81 |website=FIFA |date=5 June 2017}}</ref><ref>{{cite web |url=https://www.eu-football.info/_match.php?id=13257 |title=Colombia vs Soviet Union, 3 June 1962, World Cup |website=EU-Football.info}}</ref>
+
+=== First Copa América final and unsuccessful World Cup campaigns (1963–1979) ===
+After the 1962 World Cup, Colombia went through a further difficult spell in international competition. At the [[1963 South American Championship]] in Bolivia, the team finished last with one draw and five defeats, and were eliminated in the first round of qualifying for the [[1966 FIFA World Cup]], finishing bottom of their group with two points — their only win a 2–0 home victory over Chile.<ref name="col-wcq">{{cite web |url=https://www.rsssf.org/tablesc/col-wcq.html |title=Colombia – World Cup Qualifiers |website=RSSSF}}</ref><ref>{{cite web |url=https://www.rsssf.org/tables/63sa.html |title=Copa America 1963 (Bolivia, March 20–31) |website=RSSSF}}</ref>
+
+Colombia entered qualification for the [[1970 FIFA World Cup]], drawn into Group 2 with Brazil, [[Paraguay national football team|Paraguay]] and Venezuela, finishing third with one win, one draw and four defeats. Around the same time, Colombia hosted [[England national football team|England]] in a pre-tournament friendly and lost 4–0; the match drew wider attention because of the [[Bogotá Bracelet]] incident involving England captain [[Bobby Moore]].<ref>{{cite web |url=https://www.theguardian.com/football/2020/may/28/bobby-moore-and-the-mystery-of-the-missing-bogota-bracelet |title=Bobby Moore and the mystery of the missing Bogotá bracelet |first=Carl |last=Worswick |date=28 May 2020 |website=The Guardian}}</ref><ref>{{cite web |url=https://www.vice.com/en/article/throwback-thursday-the-england-captain-and-the-bogota-bracelet-scandal/ |title=England Captain Bobby Moore and the Bogota Bracelet Scandal |first=Jim |last=Weeks |date=20 August 2015 |website=VICE}}</ref>
+
+Colombia's best result of the period came at the [[1975 Copa América]]. Drawn into Group C with Paraguay and Ecuador, they won all four group matches to reach the semi-finals against Uruguay; a 3–0 home win and a 1–0 away defeat sent them through on aggregate and into the Copa América final for the first time. Colombia faced [[Peru national football team|Peru]] over three matches, winning 1–0 in Bogotá before losing 2–0 in Lima and 1–0 in the play-off in [[Caracas]].<ref>{{cite web |url=https://www.rsssf.org/tables/75sa.html |title=Copa America 1975 (July 17–October 28) |website=RSSSF}}</ref>
+
+=== 1980s: dawn of the Golden Generation and World Cup qualification ===
+Prior to the 1980s, Colombia were widely regarded as a struggling side, limited by modest investment from the Colombian Football Federation, inconsistent international participation and the broader social and political instability affecting the country. Periods of national crisis, including ''[[La Violencia]]'' and the rise of organised crime, hindered the development of football infrastructure and delayed the emergence of a sustained football culture.<ref>{{cite web |url=https://www.footballparadise.com/colombian-football-part-1/ |title='The Only Thing That Unites Us' – Origin Story of Colombian Football: Part 1 |date=6 June 2018 |access-date=1 December 2022 |website=Football Paradise |archive-date=1 December 2022 |archive-url=https://web.archive.org/web/20221201231429/https://www.footballparadise.com/colombian-football-part-1/ |url-status=live}}</ref>
+
+[[File:Colombia national football team in 1985.jpg|thumb|right|Colombia in 1985]]
+In the early 1980s, Colombia attempted to rebuild under Argentine manager [[Carlos Bilardo]]. The team entered the [[1982 FIFA World Cup qualification (CONMEBOL)|1982 World Cup qualifiers]] with renewed ambition but failed to reach the finals, and then exited in the first round of the [[1983 Copa América]].<ref>{{cite web |url=https://www.rsssf.org/tables/82qual.html |title=World Cup 1982 Qualifications |website=RSSSF}}</ref><ref>{{cite web |url=https://www.rsssf.org/tables/83sa.html |title=Copa America 1983 (August 10–November 4) |website=RSSSF}}</ref>
+
+Colombia showed clearer progress in qualification for the [[1986 FIFA World Cup]]. Drawn into [[1986 FIFA World Cup qualification – CONMEBOL Group 1|Group 1]] with Argentina, [[Peru national football team|Peru]] and Venezuela, the campaign opened with a 1–0 win over Peru through [[Miguel Augusto Prince|Miguel Prince]]. Despite home and away defeats to Argentina, Colombia recovered with results against Venezuela to reach the intercontinental play-offs against Paraguay. A 3–0 defeat in [[Asunción]] proved decisive; although Colombia won the return leg 2–1, they were eliminated 4–2 on aggregate.<ref>{{cite web |url=https://www.rsssf.org/tables/86q.html |title=World Cup 1986 Qualifying |website=RSSSF}}</ref><ref name="col-wcq"/>
+
+[[File:Valderrama maradona saludo.jpg|thumb|right|Colombia and Argentina captains [[Carlos Valderrama]] and [[Diego Maradona]] prior to the third-place match at the [[1987 Copa América]]]]
+At the [[1987 Copa América]], Colombia were drawn into Group C with Bolivia and Paraguay and advanced to the semi-finals, where they faced Chile. Colombia took the lead in extra time through a 103rd-minute penalty by [[Bernardo Redín]], but Chile responded with two late goals to eliminate them. Colombia then beat Argentina in the third-place match.<ref>{{cite web |url=https://www.rsssf.org/tables/87sa.html |title=Copa America 1987 (Argentina, June 27–July 12) |website=RSSSF}}</ref>
+
+South American qualification for the [[1990 FIFA World Cup]] offered Colombia their best route back to the tournament since 1962. With Argentina qualifying automatically as reigning champions, the remaining teams were divided into three groups. Colombia emerged as one of the group winners and then faced [[Israel national football team|Israel]] in the [[1990 FIFA World Cup qualification (CONMEBOL–OFC play-off)|CONMEBOL–OFC play-off]], winning 1–0 on aggregate over two legs to secure their first World Cup berth since 1962.<ref>{{cite web |url=https://www.rsssf.org/tables/90q.html |title=World Cup 1990 Qualifying |website=RSSSF}}</ref><ref>{{cite web |url=https://colombiareports.com/colombias-1990-world-cup/ |title=Colombia's 1990 World Cup |first=Stephen |last=Gill |date=2 May 2018 |website=Colombia Reports}}</ref>
+
+=== 1990s: World Cup return and the first Colombian golden era ===
+[[File:Selección de fútbol de Colombia, Italia 90.jpg|thumb|right|Colombia line-up against [[Germany national football team|West Germany]] at the [[San Siro]] in [[Milan]] during the [[1990 FIFA World Cup|1990 World Cup]]]]
+At the [[1990 FIFA World Cup]], Colombia were drawn with Yugoslavia, [[United Arab Emirates national football team|the United Arab Emirates]] and West Germany. They opened with a 2–0 win over the United Arab Emirates at the [[Stadio Renato Dall'Ara]] in [[Bologna]], with goals from Redín and [[Freddy Rincón]], for their first World Cup finals victory.<ref>{{cite web |title=When Rincon rescued Colombia (93): 100 great World Cup moments |url=https://www.fifa.com/fifaplus/en/articles/93-days-to-go-qatar-2022-rincon-colombia-italy-1990-fifa-world-cup |access-date=11 September 2023 |website=FIFA |archive-date=16 January 2023 |archive-url=https://web.archive.org/web/20230116004016/https://www.fifa.com/fifaplus/en/articles/93-days-to-go-qatar-2022-rincon-colombia-italy-1990-fifa-world-cup |url-status=live }}</ref> After a 1–0 defeat to Yugoslavia, Colombia advanced to the round of 16 with a 1–1 draw against West Germany, in which Rincón equalised in the 93rd minute after West Germany had scored five minutes earlier.<ref>{{cite web |url=https://www.elespectador.com/deportes/futbol-mundial/freddy-rincon-y-el-colombia-vs-alemania-en-italia-1990-yo-creo-que-ese-dia-nos-graduamos-article/ |title=Freddy Rincón y el Colombia vs. Alemania en Italia 1990: "Yo creo que ese día nos graduamos". |date=31 May 2020 |website=El Espectador |access-date=16 January 2023 |archive-date=16 January 2023 |archive-url=https://web.archive.org/web/20230116004016/https://www.elespectador.com/deportes/futbol-mundial/freddy-rincon-y-el-colombia-vs-alemania-en-italia-1990-yo-creo-que-ese-dia-nos-graduamos-article/ |url-status=live}}</ref>
+
+Colombia finished third in the group and advanced as one of the best third-placed teams. They were then eliminated by [[Cameroon national football team|Cameroon]] in the round of 16, losing 2–1 after extra time following an error by goalkeeper [[René Higuita]].<ref>{{cite web |date=10 August 2022 |title=When Rene met Roger |url=https://www.fifa.com/fifaplus/en/articles/rene-higuita-roger-milla-colombia-cameroon-fifa-world-cup-italia-1990 |access-date=11 September 2023 |website=FIFA |archive-date=15 January 2023 |archive-url=https://web.archive.org/web/20230115232319/https://www.fifa.com/fifaplus/en/articles/rene-higuita-roger-milla-colombia-cameroon-fifa-world-cup-italia-1990 |url-status=live }}</ref><ref>{{cite web |url=https://www.espn.com/soccer/colombia-col/story/4077207/colombia-legend-rene-higuita-using-1990-world-cup-blunder-to-fight-coronavirus |title=Higuita using 1990 World Cup blunder to fight coronavirus |date=22 March 2020 |access-date=15 January 2023 |website=ESPN |archive-date=15 January 2023 |archive-url=https://web.archive.org/web/20230115235000/https://www.espn.com/soccer/colombia-col/story/4077207/colombia-legend-rene-higuita-using-1990-world-cup-blunder-to-fight-coronavirus |url-status=live }}</ref>
+
+[[File:Francisco Maturana.jpg|thumb|right|[[Francisco Maturana]] guided Colombia to the 1990 and 1994 World Cups, and to their first Copa América title in 2001.]]
+Soon after the tournament, [[Francisco Maturana]] left as manager and was replaced by {{ill|Luis Augusto García (footballer)|lt=Luis Augusto García|es|Luis Augusto García}}, who led the team at the [[1991 Copa América]] and in a series of friendlies. Maturana returned in 1993 to lead Colombia through qualification for the [[1994 FIFA World Cup]].<ref>{{cite web |url=https://colombiareports.com/colombias-1990-world-cup/ |title=Colombia's 1990 World Cup |date=2 May 2018 |access-date=15 January 2023 |website=Colombia Reports |archive-date=15 January 2023 |archive-url=https://web.archive.org/web/20230115232710/https://colombiareports.com/amp/colombias-1990-world-cup/ |url-status=live }}</ref> With [[Carlos Valderrama]] as captain, Colombia reached the semi-finals of the [[1993 Copa América]], losing to Argentina on penalties before defeating Ecuador 2–1 in the third-place match.<ref>{{cite web |url=https://www.rsssf.org/tables/93safull.html |title=Copa America 1993 (Ecuador, June 15–27) |website=RSSSF}}</ref>
+
+Colombia finished first in their [[1994 FIFA World Cup qualification (CONMEBOL)|1994 World Cup qualifying]] group, remaining unbeaten. Their campaign included a [[Argentina v Colombia (1994 FIFA World Cup qualification)|5–0]] win over Argentina at the [[Estadio Monumental (Buenos Aires)|Estadio Monumental]] in [[Buenos Aires]].<ref>{{cite web |date=23 January 2019 |title=Argentina's night of shame: when Colombia went to a feisty Buenos Aires and won 5–0 |url=https://thesefootballtimes.co/2019/01/23/argentinas-night-of-shame-when-colombia-went-to-a-feisty-buenos-aires-and-won-5-0/ |access-date=3 April 2022 |website=These Football Times |language=en-GB |archive-date=3 April 2022 |archive-url=https://web.archive.org/web/20220403191057/https://thesefootballtimes.co/2019/01/23/argentinas-night-of-shame-when-colombia-went-to-a-feisty-buenos-aires-and-won-5-0/ |url-status=live }}</ref>
+
+Before the 1994 World Cup, Colombia were drawn in [[1994 FIFA World Cup Group A|Group A]] with the [[United States men's national soccer team|United States]], [[Romania national football team|Romania]] and [[Switzerland national football team|Switzerland]]. They beat Switzerland, but defeats to Romania and the United States sent them out in the group stage; the loss to the United States included an own goal by [[Andrés Escobar]], who was murdered on his return to his hometown of [[Medellín]] five days later.<ref>{{cite web |url=https://www.vice.com/es/article/colombia-mundial-futbol-1994-asesinato-andres-escobar/ |title=Cómo la campaña de Colombia en el Mundial de 1994 provocó el asesinato de Andrés Escobar |date=21 July 2017 |access-date=16 January 2023 |website=VICE |archive-url=https://web.archive.org/web/20230116203225/https://www.vice.com/es/article/wj8a8z/colombia-mundial-futbol-1994-asesinato-andres-escobar/ |archive-date=16 January 2023 |url-status=live }}</ref><ref>{{cite news |url=https://www.theglobeandmail.com/sports/soccer/world-cup/decades-after-andres-escobar-killing-colombian-soccer-finally-recovers/article19436097/ |title=Decades after Andres Escobar killing, Colombian soccer finally recovers |newspaper=The Globe and Mail |date=2 July 2014 |last1=Kelly |first1=Cathal |access-date=15 January 2023 |archive-url=https://web.archive.org/web/20230115233417/https://www.theglobeandmail.com/sports/soccer/world-cup/decades-after-andres-escobar-killing-colombian-soccer-finally-recovers/article19436097/ |archive-date=15 January 2023 |url-status=live }}</ref><ref>{{cite news |url=https://www.nytimes.com/1994/07/04/sports/world-cup-94-outrage-and-tears-at-escobar-funeral.html |title=WORLD CUP '94; Outrage and Tears at Escobar Funeral |work=The New York Times |date=4 July 1994 |last1=Mercer |first1=Pamela |access-date=17 January 2023 |archive-url=https://web.archive.org/web/20230117024839/https://www.nytimes.com/1994/07/04/sports/world-cup-94-outrage-and-tears-at-escobar-funeral.html |archive-date=17 January 2023 |url-status=live }}</ref>
+
+[[Hernán Darío Gómez]] (''El Bolillo'') replaced Maturana in 1995. Under his management, Colombia finished third at the [[1995 Copa América]] after defeating the United States 4–1, and reached the quarter-finals of the [[1997 Copa América]] before losing to hosts Bolivia.<ref>{{cite web |url=https://fcf.com.co/index.php/2021/05/26/conoce-cuales-fueron-las-tres-maximas-victorias-de-la-seleccion-colombia-en-la-historia-de-copa-america/ |title=Conoce cuáles fueron las tres máximas victorias de la Selección Colombia en la historia de Copa América |access-date=16 January 2023 |website=FCF |archive-url=https://web.archive.org/web/20230116031902/https://fcf.com.co/index.php/2021/05/26/conoce-cuales-fueron-las-tres-maximas-victorias-de-la-seleccion-colombia-en-la-historia-de-copa-america/ |archive-date=16 January 2023 |url-status=live }}</ref><ref>{{cite web |url=https://www.rsssf.org/tables/95safull.html |title=Copa America 1995 (Uruguay, July 5–23) |website=RSSSF}}</ref><ref>{{cite web |url=https://www.rsssf.org/tables/97sa.html |title=Copa America 1997 (Bolivia, June 11–29) |website=RSSSF}}</ref>
+
+Colombia qualified for the [[1998 FIFA World Cup]] by finishing third in the CONMEBOL qualifiers with 28 points. They were drawn in [[1998 FIFA World Cup Group G|Group G]] with [[Tunisia national football team|Tunisia]], England and Romania. After a 1–0 defeat to Romania and a 1–0 win over Tunisia, Colombia were eliminated by England 2–0, with [[David Beckham]] scoring his first England goal from a free kick.<ref>{{cite web |url=https://www.eltiempo.com/mundial-rusia-2018/colombia-vs-inglaterra-momentos-historicos-de-las-selecciones-237022 |title=Colombia, ¡hora de cambiar la historia! Así le fue contra Inglaterra |date=28 June 2018 |access-date=16 January 2023 |website=El Tiempo |archive-url=https://web.archive.org/web/20230116003508/https://www.eltiempo.com/mundial-rusia-2018/colombia-vs-inglaterra-momentos-historicos-de-las-selecciones-237022 |archive-date=16 January 2023 |url-status=live }}</ref><ref>{{cite web |url=https://www.independent.co.uk/sport/football/international/world-cup-2014-countdown-david-beckham-scores-his-first-england-goal-9265452.html |title=World Cup 2014 countdown: David Beckham scores his first England goal |website=The Independent |date=16 April 2014 |access-date=16 January 2023 |archive-url=https://web.archive.org/web/20230116002005/https://www.independent.co.uk/sport/football/international/world-cup-2014-countdown-david-beckham-scores-his-first-england-goal-9265452.html |archive-date=16 January 2023 |url-status=live }}</ref> In the [[1999 Copa América]], Colombia won all three group-stage matches but were eliminated in the quarter-finals after a 3–2 loss to Chile.<ref>{{cite web |url=https://dimayor.com.co/2021/06/tbt-bonilla-goleador-de-cuna/ |title=TBT: Bonilla Goleador de Cuna |date=3 June 2021 |access-date=16 January 2023 |website=Dimayor |archive-url=https://web.archive.org/web/20230116033404/https://dimayor.com.co/2021/06/tbt-bonilla-goleador-de-cuna/ |archive-date=16 January 2023 |url-status=live }}</ref>
+
+=== 2000s: First Copa América title and temporary decline ===
+In [[2000 CONCACAF Gold Cup|2000]], Colombia participated in their first [[CONCACAF Gold Cup]], defeating [[Jamaica national football team|Jamaica]] 1–0, losing 2–0 to [[Honduras national football team|Honduras]], and eliminating hosts the United States 2–1 on penalties.<ref>{{cite web |url=https://www.espn.com/soccer/s/2000/0214/356573.html |title=CONCACAF Gold Cup 2000 |website=ESPN}}</ref> They beat [[Peru national football team|Peru]] 2–1 in the semi-finals before losing 2–0 to [[Canada men's national soccer team|Canada]] in the final.
+
+[[File:Ivan Cordoba - Inter Mailand (1).jpg|thumb|right|150px|[[Iván Córdoba]] captained Colombia to their first [[2001 Copa América|Copa América]] title, scoring the only goal in the final against Mexico.]]
+Colombia hosted the [[2001 Copa América]], which faced last-minute cancellations and withdrawals due to security concerns.<ref name="footballtimes">{{cite news |url=http://thesefootballtimes.co/2015/02/16/honduras-legendary-Copa-America-odyssey/ |title=Honduras' Legendary Copa América Odyssey |first=Steven |last=Scragg |work=These Football Times |date=16 February 2015 |access-date=9 July 2015 |archive-date=10 July 2015 |archive-url=https://web.archive.org/web/20150710102116/http://thesefootballtimes.co/2015/02/16/honduras-legendary-Copa-America-odyssey/ |url-status=live }}</ref> They opened with wins over Venezuela (2–0), Ecuador (1–0), and Chile (2–0), then eliminated Peru and Honduras in the quarter-finals and semi-finals respectively, and defeated Mexico 1–0 in the final with a goal from captain [[Iván Córdoba]]. The team did not concede a single goal throughout the tournament and earned the fair play award; goalkeeper [[Óscar Córdoba]] was named best goalkeeper while [[Víctor Aristizábal]] was the top scorer with six goals in six games.<ref>{{cite web |date=5 April 2019 |title=Así se hizo la Copa América de 2001 en Colombia |url=https://www.eltiempo.com/deportes/futbol-internacional/asi-fue-la-copa-america-de-2001-en-colombia-346232 |access-date=23 July 2021 |website=El Tiempo |language=es |archive-date=23 July 2021 |archive-url=https://web.archive.org/web/20210723024523/https://www.eltiempo.com/deportes/futbol-internacional/asi-fue-la-copa-america-de-2001-en-colombia-346232 |url-status=live}}</ref><ref>{{cite news |date=30 July 2001 |title=Colombia celebrate double triumph |language=en-GB |work=BBC News |url=https://news.bbc.co.uk/sport2/hi/football/1463962.stm |access-date=16 October 2022 |archive-date=16 October 2022 |archive-url=https://web.archive.org/web/20221016184722/http://news.bbc.co.uk/sport2/hi/football/1463962.stm |url-status=live}}</ref><ref>{{cite web |title=When Iván Córdoba scored the title-winning goal for Colombia in 2001 |url=https://copaamerica.com/en/news/when-ivan-cordoba-scored-the-title-winning-goal-for-colombia-in-2001 |access-date=10 September 2025 |website=Copa América}}</ref><ref>{{Cite web |title=Colombia lifts the CONMEBOL Copa América™ trophy for the first time in 2001 |url=https://copaamerica.com/en/news/colombia-lifts-the-conmebol-copa-america-trophy-for-the-first-time-in-2001 |access-date=2026-06-18 |website=copaamerica.com}}</ref>
+
+Colombia failed to qualify for the [[2002 FIFA World Cup]], finishing sixth in the CONMEBOL qualifiers.<ref>{{cite web |date=28 May 2021 |title=The dark years of the Colombian National Team 2002–2010 |url=https://bolavip.com/en/soccer/the-dark-years-of-the-colombian-national-team-2002-2010-20201008-0010.html |website=Bolavip |access-date=14 June 2021 |archive-date=14 June 2021 |archive-url=https://web.archive.org/web/20210614205654/https://bolavip.com/en/soccer/the-dark-years-of-the-colombian-national-team-2002-2010-20201008-0010.html |url-status=live}}</ref> At the [[2003 FIFA Confederations Cup]], Colombia lost 1–0 to hosts France, then beat [[New Zealand men's national football team|New Zealand]] and [[Japan national football team|Japan]] to reach the semi-finals, losing 1–0 to Cameroon and finishing fourth against [[Turkey national football team|Turkey]]. In the [[2004 Copa América]], Colombia lost to Argentina in the semi-finals, finishing fourth. At the [[2005 CONCACAF Gold Cup]], they beat Mexico in the quarter-finals but lost to Panama in the semi-finals.<ref>{{cite web |date=25 July 2005 |title=Consideran vergonzosa participación de Colombia en Copa de Oro |url=https://www.mediotiempo.com/futbol/liga-mx/consideran-vergonzosa-participacion-colombia-copa-oro |access-date=3 April 2022 |website=Mediotiempo.com |language=es-MX |archive-date=3 April 2022 |archive-url=https://web.archive.org/web/20220403191057/https://www.mediotiempo.com/futbol/liga-mx/consideran-vergonzosa-participacion-colombia-copa-oro |url-status=live }}</ref><ref>{{cite web |date=22 July 2005 |title=Panamá 3–2 Colombia: Los Canaleros son finalistas |url=https://www.mediotiempo.com/futbol/liga-mx/panama-3-2-colombia-los-canaleros-son-finalistas |access-date=3 April 2022 |website=Mediotiempo.com |language=es-MX |archive-date=3 April 2022 |archive-url=https://web.archive.org/web/20220403191330/https://www.mediotiempo.com/futbol/liga-mx/panama-3-2-colombia-los-canaleros-son-finalistas |url-status=live }}</ref>
+
+Colombia narrowly missed the [[2006 FIFA World Cup]] by one point. At the [[2007 Copa América]], they finished third in their group with one win, including a 5–0 loss to Paraguay.<ref>{{cite news |date=29 June 2007 |title=Soccer-Copa-Santa Cruz hits hat-trick as Paraguay rout Colombia |language=en |work=Reuters |url=https://www.reuters.com/article/soccer-copa-paraguay-idUKB63688020070629 |access-date=3 April 2022 |archive-date=3 April 2022 |archive-url=https://web.archive.org/web/20220403191330/https://www.reuters.com/article/soccer-copa-paraguay-idUKB63688020070629 |url-status=live }}</ref> The decade ended with a troubled [[2010 FIFA World Cup qualification (CONMEBOL)|2010 World Cup qualifying]] campaign; constant formation changes and managerial instability — including the replacement of manager [[Jorge Luis Pinto]] by [[Eduardo Lara]] after a 4–0 loss to Chile in September 2008 — contributed to Colombia failing to qualify.<ref>{{cite news |date=16 September 2008 |title=Pinto sacked in Colombia |work=FIFA.com |url=http://www.fifa.com/worldcup/news/newsid%3D881766.html |archive-url=https://web.archive.org/web/20080918030747/http://www.fifa.com/worldcup/news/newsid=881766.html#pinto+sacked+colombia |archive-date=18 September 2008}}</ref><ref>{{cite news |url=https://colombiareports.com/chile-beats-colombia-4-0-in-world-cup-qualifier/ |title=Chile beats Colombia 4-0 in World Cup qualifier |newspaper=Colombia Reports |date=11 September 2008 |last1=Alsema |first1=Adriaan |access-date=21 January 2023 |archive-date=21 January 2023 |archive-url=https://web.archive.org/web/20230121040720/https://colombiareports.com/amp/chile-beats-colombia-4-0-in-world-cup-qualifier/ |url-status=live }}</ref>
+
+=== The Pékerman era: revival and a new Golden Generation (2011–2018) ===
+In the [[2011 Copa América]], Colombia topped their group but were eliminated 2–0 by Peru in the quarter-finals. The team ended the year ranked 36th in the FIFA World Ranking, up from 54th earlier in the year.<ref>{{cite web |url=https://en.fifaranking.net/nations/col/ranking_y.php?d=2011 |title=Monthly Changes Colombia FIFA Ranking 2011 |date=6 October 2022 |website=FIFA Ranking}}</ref>
+
+After hiring [[José Pékerman]] in January 2012,<ref>{{cite web |date=6 January 2012 |title=Jose Pekerman confirmed as new Colombia coach |url=https://www.goal.com/en/news/1701/colombia/2012/01/06/2833518/jose-pekerman-agrees-deal-to-coach-colombia |access-date=24 May 2022 |website=Goal.com |archive-date=24 May 2022 |archive-url=https://web.archive.org/web/20220524055227/https://www.goal.com/en/news/1701/colombia/2012/01/06/2833518/jose-pekerman-agrees-deal-to-coach-colombia |url-status=live }}</ref> Colombia achieved a second-place finish in the CONMEBOL qualifiers with 30 points, qualifying for the [[2014 FIFA World Cup]] for the first time since 1998. The team conceded only 12 goals, the second-best defensive record in the region behind Argentina.<ref name=":3">{{cite web |date=12 October 2013 |title=Colombia's path to qualification |url=http://www.fifa.com/worldcup/preliminaries/news/newsid=2195143/index.html |url-status=dead |archive-url=https://web.archive.org/web/20131023141157/http://www.fifa.com/worldcup/preliminaries/news/newsid=2195143/index.html |archive-date=23 October 2013 |website=FIFA}}</ref>
+
+[[File:James Rodriguez.jpg|thumb|right|175px|[[James Rodríguez]] won the [[FIFA World Cup awards|Golden Boot]] at Brazil 2014, scoring six goals.]]
+Without injured [[Radamel Falcao]], Colombia opened the 2014 World Cup with a 3–0 win over Greece, followed by a 2–1 victory over Ivory Coast to top Group C. They defeated Uruguay 2–0 in the round of 16, reaching the quarter-finals for the first time, before losing 2–1 to hosts Brazil. [[James Rodríguez]] won the Golden Boot with six goals and later the [[FIFA Puskás Award|Puskás Award]] for his strike against Uruguay.<ref>{{cite news |date=13 July 2014 |title=World Cup 2014: James Rodriguez wins Golden Boot |url=https://www.bbc.com/sport/football/28279730 |access-date=10 September 2025 |work=BBC Sport |language=en-GB}}</ref><ref>{{cite web |title=FIFA Puskás Award |url=http://www.puskas.com/en/fifa-puskas-award/6-james-rodriguez.html |access-date=10 September 2025 |website=Puskás Award}}</ref>
+
+At the [[2015 Copa América]], Colombia won only against Brazil in the group stage but still progressed before being eliminated in the quarter-finals by Argentina on penalties. In the [[2016 Copa América Centenario]], they beat the United States 2–0 and Paraguay 2–1 to reach the quarter-finals, lost to Costa Rica, then advanced to the semi-finals after defeating Peru on penalties, eventually finishing third by beating hosts the United States.<ref>{{cite web |date=25 June 2016 |title=United States vs. Colombia – Football Match Report |url=https://www.espn.com/soccer/report/_/gameId/444697 |access-date=16 October 2022 |website=ESPN |language=en |archive-date=16 October 2022 |archive-url=https://web.archive.org/web/20221016201904/https://www.espn.com/soccer/report/_/gameId/444697 |url-status=live }}</ref> Colombia finished fourth in CONMEBOL to qualify for the [[2018 FIFA World Cup]]. They lost 2–1 to Japan, then beat [[Poland national football team|Poland]] 3–0 and [[Senegal national football team|Senegal]] 1–0 to top Group H. In the round of 16, Colombia drew 1–1 with England and were eliminated 4–3 on penalties.<ref>{{cite news |last=Taylor |first=Daniel |author-link=Daniel Taylor (journalist) |title=England knock Colombia out of World Cup in last-16 penalty shootout |url=https://www.theguardian.com/football/2018/jul/03/colombia-england-world-cup-last-16-match-report |date=3 July 2018 |access-date=4 July 2018 |newspaper=The Guardian |archive-date=4 July 2018 |archive-url=https://web.archive.org/web/20180704030506/https://www.theguardian.com/football/2018/jul/03/colombia-england-world-cup-last-16-match-report |url-status=live }}</ref>
+
+=== 2022 World Cup cycle and the Néstor Lorenzo era (2019–present) ===
+Following the federation's choice not to renew Pékerman's contract, former Iran manager [[Carlos Queiroz]] was hired to coach the national team. Starting their [[2019 Copa América]] campaign, Colombia defeated Argentina 2–0, marking their first victory over ''La Albiceleste'' since 2007. They then beat [[Qatar national football team|Qatar]] 1–0 and Paraguay 1–0 to finish the group stage with nine points, four goals scored and none conceded, becoming the only team since the 2001 edition to advance from the group stage with a 100% record. Despite this, Colombia were eliminated by Chile in a penalty shootout in the quarter-finals.<ref>{{cite web |date=15 June 2019 |title=Argentina vs. Colombia – Match Report |url=https://www.espn.com/soccer/report?gameId=535897 |publisher=ESPN |access-date=18 June 2019 |archive-date=17 June 2019 |archive-url=https://web.archive.org/web/20190617145022/https://www.espn.com/soccer/report?gameId=535897 |url-status=live }}</ref><ref>{{cite web |date=20 June 2019 |title=Colombia 1 Qatar 0: Zapata heads in late winner |url=https://www.foxsportsasia.com/football/copa-america/1122233/colombia-1-qatar-0-zapata-heads-in-late-winner/ |website=Fox Sports Asia |access-date=20 June 2019 |archive-date=20 June 2019 |archive-url=https://web.archive.org/web/20190620003118/https://www.foxsportsasia.com/football/copa-america/1122233/colombia-1-qatar-0-zapata-heads-in-late-winner/ |url-status=live }}</ref><ref>{{cite web |date=28 June 2019 |title=Colombia vs. Chile – Match Report |url=https://www.espn.com/soccer/report/_/gameId/547348 |access-date=16 October 2022 |website=ESPN |language=en |archive-date=16 October 2022 |archive-url=https://web.archive.org/web/20221016201905/https://www.espn.com/soccer/report/_/gameId/547348 |url-status=live }}</ref>
+
+Colombia opened the [[2022 FIFA World Cup qualification (CONMEBOL)|2022 World Cup qualifiers]] with victories over Venezuela and Chile. However, following the resumption of matches after the [[COVID-19 pandemic]], the team's form deteriorated, culminating in their heaviest home defeat in 82 years against Uruguay and a 6–1 loss to Ecuador. The downturn ended Queiroz's tenure in December 2020, and on 14 January 2021 the Colombian Football Federation announced the return of [[Reinaldo Rueda]] as head coach.<ref>{{cite web |date=17 November 2020 |title=Ecuador 6–1 Colombia: goleada inédita de la Tri sobre los cafeteros, que la coloca segunda en el premundial |url=https://www.eluniverso.com/deportes/2020/11/17/nota/8051872/vivo-ecuador-vs-colombia-conmebol-eliminatorias-sudamericanas-qatar |access-date=25 September 2022 |website=El Universo |language=es |archive-date=29 September 2022 |archive-url=https://web.archive.org/web/20220929034531/https://www.eluniverso.com/deportes/2020/11/17/nota/8051872/vivo-ecuador-vs-colombia-conmebol-eliminatorias-sudamericanas-qatar/ |url-status=live }}</ref><ref>{{cite web |date=1 December 2020 |title=Es oficial: Carlos Queiroz no dirigirá más a la Selección Colombia |url=https://www.wradio.com.co/noticias/deportes/es-oficial-carlos-queiroz-no-dirigira-mas-a-la-seleccion-colombia/20201201/nota/4090350.aspx |access-date=18 September 2021 |website=W Radio |language=es |archive-date=16 July 2023 |archive-url=https://web.archive.org/web/20230716082819/https://gum.criteo.com/syncframe?origin=publishertag&topUrl=www.wradio.com.co&gdpr=0&gdpr_consent= |url-status=live }}</ref>
+
+[[File:David Ospina, 2015-05-31.JPG|thumb|right|175px|Goalkeeper [[David Ospina]] became Colombia's most capped player in history during Colombia's quarter-final victory against Uruguay at the [[2021 Copa América]], reaching 112 appearances.]]
+In the [[2021 Copa América]], Colombia won their opening match against Ecuador, then drew 0–0 with Venezuela before losing 2–1 to Peru.<ref>{{cite web |title=Colombia vs. Ecuador – Football Match Report – June 13, 2021 |url=https://www.espn.com/soccer/report/_/gameId/560524 |access-date=18 September 2021 |website=ESPN |language=en |archive-date=18 September 2021 |archive-url=https://web.archive.org/web/20210918164611/https://www.espn.com/soccer/report/_/gameId/560524 |url-status=live}}</ref><ref>{{cite web |title=Colombia vs. Venezuela – Football Match Report – June 17, 2021 |url=https://www.espn.com/soccer/report/_/gameId/560518 |access-date=18 September 2021 |website=ESPN |language=en |archive-date=18 September 2021 |archive-url=https://web.archive.org/web/20210918164611/https://www.espn.com/soccer/report/_/gameId/560518 |url-status=live}}</ref> Despite losing to Brazil in the group stage, they progressed to the quarter-finals and then to the semi-finals after defeating Uruguay on penalties following a 0–0 draw.<ref>{{cite web |title=Uruguay vs. Colombia – Football Match Report – July 3, 2021 |url=https://www.espn.com/soccer/report/_/gameId/603187 |access-date=18 September 2021 |website=ESPN |language=en |archive-date=18 September 2021 |archive-url=https://web.archive.org/web/20210918164613/https://www.espn.com/soccer/report/_/gameId/603187 |url-status=live}}</ref> In the semi-finals, Colombia drew 1–1 with Argentina before losing on penalties, then defeated Peru 3–2 in the third-place match, with [[Luis Díaz (footballer, born 1997)|Luis Díaz]] scoring twice to finish as joint top scorer alongside [[Lionel Messi]].<ref>{{cite web |title=Argentina vs. Colombia – Football Match Report – July 6, 2021 |url=https://www.espn.com/soccer/report/_/gameId/603184 |access-date=18 September 2021 |website=ESPN |language=en |archive-date=22 October 2021 |archive-url=https://web.archive.org/web/20211022112047/https://www.espn.com/soccer/report/_/gameId/603184 |url-status=live}}</ref><ref>{{cite web |date=9 July 2021 |title=Colombia vs. Peru – Football Match Report |url=https://www.espn.com/soccer/report/_/gameId/603183 |access-date=18 September 2021 |website=ESPN |language=en |archive-date=18 September 2021 |archive-url=https://web.archive.org/web/20210918164614/https://www.espn.com/soccer/report/_/gameId/603183 |url-status=live }}</ref>
+
+After the Copa América, Colombia resumed World Cup qualification. The team went seven matches without scoring, but defeated Venezuela 1–0 in their final match. Results elsewhere left Colombia in sixth place, missing out on the World Cup, and Rueda left shortly after.<ref>{{cite web |date=30 March 2022 |title=Reinaldo Rueda ya no sería el técnico de la selección de Colombia |url=https://www.elespectador.com/deportes/seleccion-colombia/reinaldo-rueda-ya-no-seria-el-tecnico-de-la-seleccion-de-colombia/ |access-date=16 October 2022 |website=El Espectador |language=es |archive-date=16 October 2022 |archive-url=https://web.archive.org/web/20221016201906/https://www.elespectador.com/deportes/seleccion-colombia/reinaldo-rueda-ya-no-seria-el-tecnico-de-la-seleccion-de-colombia/ |url-status=live }}</ref> On 2 June 2022, the Colombian Football Federation appointed [[Néstor Lorenzo]] as head coach for a four-year term.<ref>{{cite web |url=https://www.espn.com/soccer/story/_/id/37629018/colombia-hire-nestor-lorenzo-fill-national-team-coaching-vacancy |title=Colombia hire Lorenzo as national team coach |date=3 June 2022 |access-date=23 June 2023 |website=ESPN |archive-date=23 June 2023 |archive-url=https://web.archive.org/web/20230623161534/https://www.espn.com/soccer/story/_/id/37629018/colombia-hire-nestor-lorenzo-fill-national-team-coaching-vacancy |url-status=live }}</ref>
+
+On 28 February 2023, the federation launched "Futbol con Futuro" (Football with a Future), a project supported by FIFA covering 2022–2025, aiming to reinforce all national teams' structures and achieve success on the pitch.<ref>{{cite web |url=https://www.fifa.com/football-development/fifa-forward/news/article-greater-than-fifa-forward-greater-than-futbol-con-futuro-first |title=Football with a Future: Colombia launches ambitious project with FIFA support |access-date=30 June 2023 |website=FIFA |archive-date=30 June 2023 |archive-url=https://web.archive.org/web/20230630155906/https://www.fifa.com/football-development/fifa-forward/news/article-greater-than-fifa-forward-greater-than-futbol-con-futuro-first |url-status=live }}</ref> Under Lorenzo, Colombia compiled a 28-match unbeaten run leading up to the [[2024 Copa América]] final, which they lost to Argentina in extra time on 14 July 2024. This run included victories over Germany, Brazil, and Spain.<ref>{{cite web |date=22 March 2024 |title=Daniel Munoz scores stunning winner as Colombia stun Spain in London friendly |url=https://www.fotmob.com/news/1s0d70lzt397x1hal67pzlhqad-Daniel-Munoz-scores-stunning-winner-as-Colombia-stun-Spain-in-London-friendly |access-date=25 March 2024 |website=FotMob |language=en}}</ref> In September 2025, Colombia qualified for the [[2026 FIFA World Cup]], their seventh World Cup appearance, after finishing third in CONMEBOL qualifying.<ref>{{cite web |title=Uruguay, Colombia and Paraguay Qualify for 2026 World Cup |url=https://www.foxsports.com/stories/soccer/uruguay-colombia-and-paraguay-qualify-for-the-2026-world-cup |website=Fox Sports |access-date=19 September 2025}}</ref>
+
+== Rivalries ==
+=== Venezuela ===
+Colombia's main regional football rival has long been neighbouring Venezuela. Although Colombia has historically dominated head-to-head meetings—with more wins, goals and overall victories—the rivalry has seen notable moments that reflect the improving quality of Venezuelan football since the late 1990s, when the sport began to overtake baseball in popularity in Venezuela.<ref>{{Cite web|url=https://www.infobae.com/deportes-2/copa-america-2019/2019/06/28/edgardo-broner-en-venezuela-hoy-la-vinotinto-es-mas-que-el-beisbol/|title=Edgardo Broner: "En Venezuela, hoy la Vinotinto es más que el béisbol"|first=Sergio|last=Levinsky|date=28 June 2019|website=Infobae}}</ref><ref>{{Cite web|url=https://www.11v11.com/teams/colombia/tab/opposingTeams/opposition/Venezuela/|title=Colombia national football team: record v Venezuela|website=11v11}}</ref> One of the most significant upsets occurred in the 2006 World Cup qualifiers, when Venezuela defeated Colombia 1–0 in Barranquilla, a result widely regarded as a watershed moment for the Vinotinto.<ref>{{Cite web|url=https://espndeportes.espn.com/futbol/mundial/nota/_/id/2775065/la-seleccion-de-colombia-debe-cuidarse-de-venezuela|title=La Selección de Colombia debe cuidarse de Venezuela|language=es|trans-title=The Colombian national team must be wary of Venezuela|date=30 August 2016|website=ESPN Deportes}}</ref>
+
+The rivalry remained relevant through the next decade. In the 2014 World Cup qualifiers, Colombia and Venezuela played out a 1–1 draw in Barranquilla, with [[Fredy Guarín]] scoring for Colombia before [[Frank Feltscher]] equalized late for Venezuela. The result was another reminder that, even when Colombia remained the stronger side overall, meetings between the two neighbours could still be tense and unpredictable.<ref>{{Cite web|url=https://www.espn.com.do/futbol/mundial/nota/_/id/2775065/la-seleccion-de-colombia-debe-cuidarse-de-venezuela|title=La Selección de Colombia debe cuidarse de Venezuela|language=es|trans-title=The Colombian national team must be wary of Venezuela|date=30 August 2016|website=ESPN Deportes}}</ref><ref>{{Cite web|url=https://www.espn.com/soccer/match/_/gameId/332185/venezuela-colombia|title=Colombia 1-1 Venezuela|website=ESPN}}</ref>
+
+The rivalry has remained competitive in more recent qualifying campaigns as well. Colombia opened 2026 World Cup qualifying with a 1–0 win over Venezuela in Barranquilla, before later producing a 6–3 victory in Maturín that ended Venezuela's hopes of reaching the intercontinental play-off and underlined the growing intensity of the fixture. The heavy defeat in September 2025 was especially painful for Venezuela because it came in the final round, with their qualification hopes still alive before the match began.<ref>{{Cite web|url=https://www.espn.com/soccer/match/_/gameId/684581/venezuela-colombia|title=Colombia 1-0 Venezuela|website=ESPN|date=7 September 2023}}</ref><ref>{{Cite web|url=https://espndeportes.espn.com/futbol/partido/_/juegoId/684667/colombia-venezuela|title=Colombia 6-3 Venezuela|website=ESPN Deportes|date=8 September 2025}}</ref><ref>{{Cite web|url=https://www.infobae.com/deportes/2025/09/09/venezuela-recibira-a-colombia-con-la-ilusion-de-garantizar-su-lugar-en-el-repechaje-de-eliminatorias/|title=Colombia goleó 6-3 a Venezuela en Maturín y lo eliminó del Mundial 2026|website=Infobae|date=9 September 2025}}</ref><ref>{{Cite web|url=https://www.espn.com/soccer/match/_/gameId/684667/colombia-venezuela|title=Venezuela 3-6 Colombia|website=ESPN|date=10 September 2025}}</ref>
+
+=== Argentina ===
+[[File:Argentina - Colombia 2022 (57).jpg|thumb|right|Colombia and Argentina players contest possession during a [[2022 FIFA World Cup qualification (CONMEBOL)|2022 World Cup qualifier]] on 1 February 2022.]]
+
+The Colombian and Argentinian national teams first played against each other on 7 February 1945 during the South American Championship in Chile.<ref>{{Cite web |date=2024-07-14 |title=Argentina vs. Colombia head to head record, history, results, past games ahead of Copa America 2024 final {{!}} Sporting News |url=https://www.sportingnews.com/us/soccer/news/argentina-colombia-head-head-record-history-results-games/e129e8b7d49b27a8bb2de695 |access-date=2026-06-18 |website=www.sportingnews.com |language=en-us}}</ref> Argentina leads the overall head-to-head record, but Colombia has recorded a number of high-profile victories that have shaped the fixture's modern reputation.<ref>{{cite web |url=https://www.reuters.com/sports/soccer/argentina-face-colombia-quest-make-copa-america-history-2024-07-14/ |title=Argentina face Colombia in quest to make Copa America history |website=Reuters |date=12 July 2024}}</ref><ref>{{cite web |url=https://www.sportsmole.co.uk/football/argentina/copa-america/head-to-head/argentina-vs-colombia-head-to-head-record-and-past-meetings_548070.html |title=Argentina vs. Colombia: Head-to-head record and past meetings |website=Sports Mole |date=9 June 2025}}</ref>
+
+The rivalry's defining result came on 5 September 1993, when Colombia beat Argentina 5–0 in Buenos Aires during 1994 World Cup qualifying. Colombia also defeated Argentina 3–0 in the group stage of the 1999 Copa América, a match remembered for [[Martín Palermo]] missing three penalties.<ref>{{cite web |url=https://www.espn.com.co/futbol/mundial/nota/_/id/4726884/colombia-argentina-5-a-0-30-anos-1993 |title=Se cumplen 30 años del histórico Argentina 0-5 Colombia |website=ESPN Deportes |language=es |date=4 September 2023}}</ref><ref>{{cite web |url=https://www.fourfourtwo.com/features/martin-palermo-three-missed-penalties-argentina-colombia-1999-copa-america |title=The imperfect hat-trick: Martin Palermo’s three missed penalties – and so much more – 20 years on |website=FourFourTwo |date=4 July 2019}}</ref>
+
+At the 2021 Copa América, the teams met in the semi-finals in Brasília. After a 1–1 draw, Argentina won the shootout 3–2, and Lionel Messi was caught on camera telling Yerry Mina to "dance now" after the Colombia defender missed his penalty, turning the moment into one of the tournament's most replayed flashpoints.<ref>{{cite web |url=https://www.espn.com/soccer/report/_/gameId/603184 |title=Argentina 1-1 Colombia |website=ESPN |date=6 July 2021}}</ref><ref>{{cite web |url=https://www.espn.com/football/story/_/id/37618842/argentina-lionel-messi-tells-yerry-mina-dance-now-following-shootout-win |title=Copa America: Argentina's Lionel Messi tells Yerry Mina to 'Dance now' following shootout win |website=ESPN |date=7 July 2021}}</ref><ref>{{cite web |url=https://www.marca.com/en/football/copa-america/2021/07/07/60e5a7bdca4741de0a8b473f.html |title=Copa America 2021: Messi to Yerry Mina: Dance now ... |website=Marca |date=7 July 2021}}</ref>
+
+The rivalry took on a broader cultural edge at the [[2024 Copa América final]] in Miami. [[Ryan Castro|Ryan Castro's]] tournament song, "El Ritmo Que Nos Une", had become closely associated with Colombia throughout the competition; after Argentina's 1–0 extra-time win, Argentine players were later seen dancing and singing to the track in their celebrations.<ref>{{cite web |url=https://www.foxsports.com/stories/soccer/copa-america-2024-final-argentina-vs-colombia-live-updates-highlights |title=Copa America 2024 final: Argentina vs. Colombia live updates, highlights |website=Fox Sports |date=14 July 2024}}</ref><ref>{{cite web |url=https://www.reuters.com/sports/soccer/argentina-federation-responds-after-players-sing-racist-chants-post-copa-america-2024-07-16/ |title=Argentina federation responds after players sing racist chants post Copa America |website=Reuters |date=16 July 2024}}</ref><ref>{{cite web |url=https://www.reuters.com/sports/soccer/euphoria-no-excuse-racism-lloris-says-argentina-players-chant-2024-07-19/ |title=Euphoria no excuse for racism, Lloris says of Argentina players' chant |website=Reuters |date=19 July 2024}}</ref><ref>{{cite web |url=https://www.espn.ph/football/story/_/id/40566000/colombia-lost-copa-america-final-won-back-their-nations-hearts |title=Colombia lost Copa América final but won back a nation's hearts |website=ESPN |date=14 July 2024}}</ref><ref>{{cite web |url=https://www.infobae.com/colombia/2024/07/17/ryan-castro-rompe-record-de-reproducciones-en-un-solo-dia-en-spotify-colombia-con-el-ritmo-que-nos-une/ |title=Ryan Castro rompió récord de reproducciones en un solo día en Spotify Colombia con 'El Ritmo Que Nos Une' |website=Infobae |language=es |date=16 July 2024}}</ref>
+
+The next meeting, Colombia would obtain a 2-1 victory over the new Copa America champions during 2026 World Cup qualifiers in Barranquilla, followed by a 1–1 draw in Buenos Aires that continued that pattern of high tension. Colombia led through Luis Díaz before Argentina equalized late, and the match included a heated sideline exchange between Lionel Messi and James Rodríguez that revived talk of the teams' rivalry after the Copa América final.<ref>{{cite web |url=https://www.espn.com/soccer/match/_/gameId/684653/colombia-argentina |title=Argentina 1-1 Colombia |website=ESPN |date=10 June 2025}}</ref><ref>{{cite web |url=https://www.theguardian.com/football/article/2024/sep/11/colombia-argentina-world-cup-qualifying |title=Colombia stay unbeaten in World Cup qualifying as Argentina pay penalty |website=The Guardian |date=10 September 2024}}</ref><ref>{{cite web |url=https://www.independent.co.uk/sport/football/lionel-messi-james-rodriguez-argentina-colombia-world-cup-b2767906.html |title=Lionel Messi confronts James Rodriguez in tense exchange during Argentina vs Colombia |website=The Independent |date=11 June 2025}}</ref>
+
+==Home stadium==
+{{Main|Estadio Metropolitano Roberto Meléndez}}
+[[File:Estadio Metropolitano baq.jpg|thumb|right|The [[Estadio Metropolitano Roberto Meléndez]], the primary ground of the national team.]]
+Colombia play their qualifying matches and friendlies at the [[Estadio Metropolitano Roberto Meléndez]] in [[Barranquilla]], which is the home stadium of the local football team [[Atlético Junior]]. The stadium is named after former Colombia national team player [[Roberto Meléndez]], who is widely considered to be Colombia's best player during Colombia's amateur era in the 1930s and 1940s. The stadium has been used for all of Colombia's successful World Cup qualifying campaigns since 1990.
+
+The [[Estadio El Campín|Estadio Nemesio Camacho El Campín]] in the capital city of [[Bogotá]] acts as the national team's alternative stadium. The stadium is the playing ground of local clubs [[Independiente Santa Fe|Santa Fe]] and [[Millonarios F.C.|Millonarios]], and hosted Colombia's [[2001 Copa América final]] win against Mexico.
+
+==Team image==
+{{Commons|Colombia national football team kits}}
+Traditionally, Colombia's home colours are yellow shirts with a navy trim and navy or white shorts and socks, with their away colours being normally navy shirts. They wore their first ever red kit at the [[2014 FIFA World Cup]]. Colombia used red as their home colours in the 20th century, although in the [[Copa América Centenario]] the team played in an all-white kit for the first time in their history, before reverting to their iconic yellow and navy kits thereafter.
+
+===Kit sponsorship===
+{| class="wikitable"
+|-
+! Kit supplier
+! Period
+|-
+| {{flagicon|FRG}} [[Adidas]]
+| 1980–1987
+|-
+| {{flagicon|FRG}} [[Puma (brand)|Puma]]
+| 1987
+|-
+| {{flagicon|FRG}} Adidas
+| 1988–1990
+|-
+| {{flagicon|ESP}} [[Kelme (company)|Kelme]]
+| 1991
+|-
+| {{flagicon|COL}} Comba
+| 1992
+|-
+| {{flagicon|UK}} [[Umbro]]
+| 1992–1998
+|-
+| {{flagicon|UK}} [[Reebok]]
+| 1998–2002
+|-
+| {{flagicon|ITA}} [[Lotto Sport Italia|Lotto]]
+| 2002–2010
+|-
+| {{flagicon|GER}} Adidas
+| 2011–present
+|}
+
+==Results and fixtures==
+{{See also|Colombia national football team results (2020–present)}}
+<!-- Do not post the U-15, U-17, U-20 schedule as they do not count as official FIFA caps for the senior national team. -->
+The following is a list of match results in the last 12 months, as well as any future matches that have been scheduled.
+
+{{legend2|#CCFFCC|Win|border=1px solid #AAAAAA}}
+{{legend2|#FFFFCC|Draw|border=1px solid #AAAAAA}}
+{{legend2|#FFCCCC|Loss|border=1px solid #AAAAAA}}
+{{legend2|#FFFFFF|Fixture|border=1px solid #AAAAAA}}
+
+===2025===
+{{football box collapsible
+|format     = 1
+|round      = [[2026 FIFA World Cup qualification (CONMEBOL)|2026 FIFA World Cup qualification]]
+|date       = 4 September
+|time       = {{UTZ|18:30|−5}}
+|team1      = {{fb-rt|COL}}
+|score      = 3–0
+|team2      = {{fb|BOL}}
+|report     = https://www.fifa.com/en/match-centre/match/520/288315/288316/400020565
+|goals1     =
+*[[James Rodríguez|J. Rodríguez]] {{goal|31}}
+*[[Jhon Córdoba|Córdoba]] {{goal|74}}
+*[[Juan Fernando Quintero|Quintero]] {{goal|83}}
+|goals2     =
+|location   = [[Barranquilla]], Colombia
+|stadium    = [[Estadio Metropolitano Roberto Meléndez]]
+|attendance =
+|referee    = Darío Herrera ([[Argentine Football Association|Argentina]])
+|result     = W
+}}
+{{football box collapsible
+|format     = 1
+|round      = [[2026 FIFA World Cup qualification (CONMEBOL)|2026 FIFA World Cup qualification]]
+|date       = 9 September
+|time       = {{UTZ|19:30|−4}}
+|team1      = {{fb-rt|VEN}}
+|score      = 3–6
+|team2      = {{fb|COL}}
+|report     = https://www.fifa.com/en/match-centre/match/520/288315/288316/400020569
+|goals1     =
+*[[Telasco Segovia|Segovia]] {{goal|3}}
+*[[Josef Martínez|J. Martínez]] {{goal|12}}
+*[[Salomón Rondón|Rondón]] {{goal|76}}
+|goals2     =
+*[[Yerry Mina|Mina]] {{goal|10}}
+*[[Luis Suárez (footballer, born 1997)|Suárez]] {{goal|42||50||59||67}}
+*[[Jhon Córdoba|Córdoba]] {{goal|78}}
+|location   = [[Maturín]], Venezuela
+|stadium    = [[Estadio Monumental de Maturín|Estadio Monumental]]
+|attendance =
+|referee    = Maximiliano Ramírez ([[Argentine Football Association|Argentina]])
+|result     = W
+}}
+{{football box collapsible
+|format     = 1
+|round      = [[Exhibition game#Association football|Friendly]]
+|date       = 11 October
+|time       = {{UTZ|20:00|-5}}
+|team1      = {{fb-rt|MEX}}
+|score      = 0–4
+|team2      = {{fb|COL}}
+|report     = https://www.soccerway.com/match/colombia-G02s4PCS/mexico-O6iHcNkd/summary/?mid=4MA0OuN7
+|goals1     =
+|goals2     =
+*[[Jhon Lucumí|Lucumí]] {{goal|16}}
+*[[Luis Díaz (footballer, born 1997)|Díaz]] {{goal|56}}
+*[[Jefferson Lerma|Lerma]] {{goal|64}}
+*[[Johan Carbonero|Carbonero]] {{goal|87}}
+|location   = [[Arlington, Texas|Arlington]], United States
+|stadium    = [[AT&T Stadium]]
+|attendance = 72,438
+|referee    = [[Ismail Elfath]] ([[United States Soccer Federation|United States]])
+|result     = W
+}}
+{{football box collapsible
+|format     = 1
+|round      = [[Exhibition game#Association football|Friendly]]
+|date       = 14 October
+|time       = {{UTZ|20:30|-4}}
+|team1      = {{fb-rt|CAN}}
+|score      = 0–0
+|team2      = {{fb|COL}}
+|report     = https://www.soccerway.com/match/canada-x4toKORL/colombia-G02s4PCS/?mid=4CckdLu2
+|goals1     =
+|goals2     =
+|location   = [[Harrison, New Jersey|Harrison]], United States
+|stadium    = [[Sports Illustrated Stadium]]
+|attendance =
+|referee    = Guido Gonzales Jr. ([[United States Soccer Federation|United States]])
+|result     = D
+}}
+{{football box collapsible
+|format     = 1
+|round      = [[Exhibition game#Association football|Friendly]]
+|date       = 15 November
+|time       = {{UTZ|19:00|-5}}
+|team1      = {{fb-rt|COL}}
+|score      = 2–1
+|team2      = {{fb|NZL}}
+|report     = https://www.soccerway.com/match/colombia-G02s4PCS/new-zealand-rLctHkpU/?mid=lnWjjwX8
+|goals1     =
+*[[Gustavo Puerta|Puerta]] {{goal|3}}
+*[[Johan Carbonero|Carbonero]] {{goal|88}}
+|goals2     =
+*[[Benjamin Old|Old]] {{goal|80}}
+|location   = [[Fort Lauderdale, Florida|Fort Lauderdale]], United States
+|stadium    = [[Chase Stadium]]
+|attendance =
+|referee    = Cristian Condori ([[Bolivian Football Federation|Bolivia]])
+|result     = W
+}}
+{{football box collapsible
+|format     = 1
+|round      = [[Exhibition game#Association football|Friendly]]
+|date       = 18 November
+|time       = {{UTZ|20:30|-4}}
+|team1      = {{fb-rt|COL}}
+|score      = 3–0
+|team2      = {{fb|AUS}}
+|report     = https://www.soccerway.com/match/australia-xSrf6qMM/colombia-G02s4PCS/?mid=2oYYd6K5
+|goals1     =
+*[[James Rodríguez|Rodríguez]] {{goal|76|p}}
+*[[Luis Díaz (footballer, born 1997)|Díaz]] {{goal|89}}
+*[[Jefferson Lerma|Lerma]] {{goal|90+3}}
+|goals2     =
+|location   = [[New York City]], United States
+|stadium    = [[Citi Field]]
+|attendance =
+|referee    = [[Tori Penso]] ([[United States Soccer Federation|United States]])
+|result     = W
+}}
+
+===2026===
+{{football box collapsible
+|format     = 1
+|round      = [[Exhibition game#Association football|Friendly]]
+|date       = 26 March
+|time       = {{UTZ|19:30|-4}}
+|team1      = {{fb-rt|COL}}
+|score      = 1–2
+|team2      = {{fb|CRO}}
+|report     = https://www.soccerway.com/match/colombia-G02s4PCS/croatia-K8aznggo/?mid=hbcgcMmg
+|goals1     =
+*[[Jhon Arias (footballer)|J. Arias]] {{goal|2}}
+|goals2     =
+*[[Luka Vušković|Vušković]] {{goal|6}}
+*[[Igor Matanović|Matanović]] {{goal|42}}
+|location   = [[Orlando, Florida|Orlando]], United States
+|stadium    = [[Camping World Stadium]]
+|attendance = 50,000
+|referee    = Rubiel Vazquez ([[United States Soccer Federation|United States]])
+|result     = L
+}}
+{{football box collapsible
+|format     = 1
+|round      = [[Exhibition game#Association football|Friendly]]
+|date       = 29 March
+|time       = {{UTZ|15:00|-4}}
+|team1      = {{fb-rt|COL}}
+|score      = 1–3
+|team2      = {{fb|FRA}}
+|report     = https://www.soccerway.com/match/colombia-G02s4PCS/france-QkGeVG1n/?mid=h6y6Qkhg
+|goals1     =
+*[[Jaminton Campaz|Campaz]] {{goal|77}}
+|goals2     =
+*[[Désiré Doué|Doué]] {{goal|29||56}}
+*[[Marcus Thuram|Thuram]] {{goal|41}}
+|location   = [[Landover, Maryland|Landover]], United States
+|stadium    = [[Northwest Stadium]]
+|attendance =
+|referee    = Victor Rivas ([[United States Soccer Federation|United States]])
+|result     = L
+}}
+{{football box collapsible
+|format     = 1
+|round      = [[Exhibition game#Association football|Friendly]]
+|date       = 1 June
+|time       = {{UTZ|18:00|-5}}
+|team1      = {{fb-rt|COL}}
+|score      = 3–1
+|team2      = {{fb|CRC}}
+|report     = https://www.soccerway.com/match/colombia-G02s4PCS/costa-rica-C4ePE2kq/?mid=hQpHo1w9
+|goals1     =
+*[[Davinson Sánchez|Sánchez]] {{goal|17}}
+*[[Luis Díaz (footballer, born 1997)|Díaz]] {{goal|23}}
+*[[Luis Suárez (footballer, born 1997)|Suárez]] {{goal|81}}
+|goals2     = [[Andrey Soto|Soto]] {{goal|33}}
+|location   = [[Bogotá]], Colombia
+|stadium    = [[Estadio El Campín]]
+|attendance = 11,806
+|referee    = Guillermo Guerrero ([[Ecuadorian Football Federation|Ecuador]])
+|result     = W
+}}
+{{football box collapsible
+|format     = 1
+|round      = [[Exhibition game#Association football|Friendly]]
+|date       = 7 June
+|time       = {{UTZ|16:00|-7}}
+|team1      = {{fb-rt|COL}}
+|score      = 2–0
+|team2      = {{fb|JOR}}
+|report     = https://www.soccerway.com/match/colombia-G02s4PCS/jordan-vNcmJoU2/?mid=IuITm4Fd
+|goals1     =
+*[[Jhon Arias (footballer)|J. Arias]] {{goal|41||55}}
+|goals2     =
+|location   = [[San Diego]], United States
+|stadium    = [[Snapdragon Stadium]]
+|attendance = 28,831
+|referee    = Jesús López Valle ([[Mexican Football Federation|Mexico]])
+|result     = W
+}}
+{{football box collapsible
+|format     = 1
+|round      = [[2026 FIFA World Cup Group K|2026 FIFA World Cup GS]]
+|date       = 17 June
+|time       = {{UTZ|20:00|−6}}
+|team1      = {{fb-rt|UZB}}
+|score      = 1–3
+|team2      = {{fb|COL}}
+|report     = https://www.fifa.com/en/match-centre/match/17/285023/289273/400021504
+|goals1     =
+*[[Abbosbek Fayzullaev|Fayzullaev]] {{goal|60}}
+|goals2     =
+*[[Daniel Muñoz Mejía|Muñoz]] {{goal|40}}
+*[[Luis Fernando Díaz Marulanda|Díaz]] {{goal|65}}
+*[[Jáminton Leandro Campaz|Campaz]] {{goal|90+9}}
+|location   = [[Mexico City]], Mexico
+|stadium    = [[Estadio Azteca]]
+|attendance = 80,824
+|referee    = [[Anthony Taylor (referee)|Anthony Taylor]] ([[The Football Association|England]])
+|result     = W
+}}
+{{football box collapsible
+|format     = 1
+|round      = [[2026 FIFA World Cup Group K|2026 FIFA World Cup GS]]
+|date       = 23 June
+|time       = {{UTZ|20:00|−6}}
+|team1      = {{fb-rt|COL}}
+|score      = 1–0 
+|team2      = {{fb|COD}}
+|report     = https://www.fifa.com/en/match-centre/match/17/285023/289273/400021501
+|goals1     =
+*[[Daniel Muñoz (footballer)|Muñoz]] {{goal|76}}
+|goals2     =
+|location   = [[Zapopan]], Mexico
+|stadium    = [[Estadio Akron]]
+|attendance = 45,358
+|referee    = [[Maurizio Mariani]] ([[Italian Football Federation|Italy]])
+|result     = W
+}}
+{{football box collapsible
+|format     = 1
+|round      = [[2026 FIFA World Cup Group K|2026 FIFA World Cup GS]]
+|date       = 27 June
+|time       = {{UTZ|19:30|−4}}
+|team1      = {{fb-rt|COL}}
+|score      = 0–0
+|team2      = {{fb|POR}}
+|report     = https://www.fifa.com/en/match-centre/match/17/285023/289273/400021505
+|goals1     =
+|goals2     =
+|location   = [[Miami Gardens, Florida|Miami Gardens]], United States
+|stadium    = [[Hard Rock Stadium]]
+|attendance = 64,478
+|referee    = [[Alireza Faghani]] ([[Football Australia|Australia]])
+|result     = D
+}}
+{{football box collapsible
+|format     = 1
+|round      = [[2026 FIFA World Cup knockout stage#Round of 32|2026 FIFA World Cup R32]]
+|date       = 3 July
+|time       = {{UTZ|20:30|−5}}
+|team1      = {{fb-rt|COL}}
+|score      = 1–0
+|team2      = {{fb|GHA}}
+|report     = https://www.fifa.com/en/match-centre/match/17/285023/289287/400021517
+|goals1     =
+*[[Jhon Arias (footballer)|J. Arias]] {{goal|14}}
+|goals2     =
+|location   = [[Kansas City, Missouri|Kansas City]], United States
+|stadium    = [[Arrowhead Stadium]]
+|attendance = 69,045
+|referee    = [[Clément Turpin]] ([[French Football Federation|France]])
+|result     = W
+}}
+{{football box collapsible
+|format     = 1
+|round      = [[2026 FIFA World Cup knockout stage#Round of 16|2026 FIFA World Cup R16]]
+|date       = 7 July
+|time       = {{UTZ|13:00|−7}}
+|team1      = {{fb-rt|SUI}}
+|score      = 0–0
+|aet        = yes
+|penaltyscore = 4–3
+|team2      = {{fb|COL}}
+|report     = https://www.fifa.com/en/match-centre/match/17/285023/289288/400021535
+|goals1     =
+|goals2     =
+|penalties1 =
+*[[Granit Xhaka|Xhaka]] {{pengoal}}
+*[[Zeki Amdouni|Amdouni]] {{pengoal}}
+*[[Manuel Akanji|Akanji]] {{penmiss}}
+*[[Cedric Itten|Itten]] {{pengoal}}
+*[[Ruben Vargas|Vargas]] {{pengoal}}
+|penalties2 =
+*{{pengoal}} [[Juan Quintero|Quintero]]
+*{{penmiss}} [[Davinson Sánchez|Sánchez]]
+*{{pengoal}} [[Jaminton Campaz|Campaz]]
+*{{penmiss}} [[Cucho Hernández|Hernández]]
+*{{pengoal}} [[Luis Diaz|Diaz]]
+|location   = [[Vancouver]], Canada
+|stadium    = [[BC Place]]
+|attendance = 52,497
+|referee    = [[Iván Barton]] ([[Salvadoran Football Federation|El Salvador]])
+|result     = D
+}}
+
+==Coaching staff==
+[[File:FWC 2018 - Round of 16 - COL v ENG - Néstor Lorenzo.jpg|thumb|upright=0.7|[[Néstor Lorenzo]]]]
+{{further|List of Colombia national football team managers}}
+{| class="wikitable"
+|-
+!style="color:#003087;background:#FFCD00"|Position
+!style="color:#003087;background:#FFCD00"|Name
+|-
+| Head coach
+| {{flagicon|ARG}} [[Néstor Lorenzo]]
+|-
+| Assistant coaches
+| {{flagicon|ARG}} [[Fernando Alloco]]<br />{{flagicon|COL}} [[Luis Amaranto Perea]]
+|-
+| Goalkeeping coach
+| {{flagicon|ARG}} [[Alejandro Otamendi]]
+|-
+| Fitness coaches
+| {{flagicon|ARG}} [[Leandro Jorge (football coach)|Leandro Jorge]]<br />{{flagicon|ARG}} [[Leandro Clocchiatti]]
+|-
+| Physicians
+| {{flagicon|COL}} [[Gustavo Pineda]]<br />{{flagicon|COL}} [[Mauricio Serrato]]
+|-
+| Physiotherapist
+| {{flagicon|COL}} [[Salomón Vizcarra]]
+|-
+| Match analyst
+| {{flagicon|COL}} [[Francis García Talavera]]
+|-
+| Media consultant
+| {{flagicon|COL}} [[Pablo Vásquez Peñaranda]]
+|}
+
+==Players==
+===Current squad===
+The following 26 players were called up to the [[2026 FIFA World Cup]], and for the pre-tournament friendly matches against [[Costa Rica national football team|Costa Rica]] and [[Jordan national football team|Jordan]] on 29 May and 7 June 2026, respectively.
+<br />''Caps and goals updated as of 7 July 2026, after the match against [[Switzerland national football team|Switzerland]].''
+<!-- Organised by number (when available) position, by caps and lastly by most recent call-up. If you remove a player please move him to the recent call ups. -->
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[David Ospina]]|age={{bda|1988|8|31|df=y}}|caps=130|goals=0|club=[[Free agent|''Unattached'']]|clubnat=}}
+{{nat fs g player|no=12|pos=GK|name=[[Camilo Vargas]]|age={{bda|1989|3|9|df=y}}|caps=47|goals=0|club=[[Atlas F.C.|Atlas]]|clubnat=MEX}}
+{{nat fs g player|no=24|pos=GK|name=[[Álvaro Montero (Colombian footballer)|Álvaro Montero]]|age={{bda|1995|3|29|df=y}}|caps=12|goals=0|club=[[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]|clubnat=ARG}}
+{{nat fs break}}
+{{nat fs g player|no=2|pos=DF|name=[[Daniel Muñoz (footballer)|Daniel Muñoz]]|age={{bda|1996|5|26|df=y}}|caps=51|goals=5|club=[[Crystal Palace F.C.|Crystal Palace]]|clubnat=ENG}}
+{{nat fs g player|no=3|pos=DF|name=[[Jhon Lucumí]]|age={{bda|1998|6|26|df=y}}|caps=42|goals=1|club=[[Bologna FC 1909|Bologna]]|clubnat=ITA}}
+{{nat fs g player|no=4|pos=DF|name=[[Santiago Arias]]|age={{bda|1992|1|13|df=y}}|caps=69|goals=0|club=[[Independiente de Avellaneda|Independiente]]|clubnat=ARG}}
+{{nat fs g player|no=13|pos=DF|name=[[Yerry Mina]]|age={{bda|1994|9|23|df=y}}|caps=55|goals=8|club=[[Cagliari Calcio|Cagliari]]|clubnat=ITA}}
+{{nat fs g player|no=17|pos=DF|name=[[Johan Mojica]]|age={{bda|1992|8|21|df=y}}|caps=49|goals=1|club=[[RCD Mallorca|Mallorca]]|clubnat=ESP}}
+{{nat fs g player|no=18|pos=DF|name=[[Willer Ditta]]|age={{bda|1997|1|23|df=y}}|caps=5|goals=0|club=[[Cruz Azul]]|clubnat=MEX}}
+{{nat fs g player|no=22|pos=DF|name=[[Deiver Machado]]|age={{bda|1993|9|2|df=y}}|caps=16|goals=0|club=[[Free agent|''Unattached'']]|clubnat=}}
+{{nat fs g player|no=23|pos=DF|name=[[Davinson Sánchez]]|age={{bda|1996|6|12|df=y}}|caps=84|goals=4|club=[[Galatasaray S.K. (football)|Galatasaray]]|clubnat=TUR}}
+{{nat fs break}}
+{{nat fs g player|no=5|pos=MF|name=[[Kevin Castaño]]|age={{bda|2000|9|29|df=y}}|caps=27|goals=0|club=[[Club Atlético River Plate|River Plate]]|clubnat=ARG}}
+{{nat fs g player|no=6|pos=MF|name=[[Richard Ríos]]|age={{bda|2000|6|2|df=y}}|caps=37|goals=2|club=[[S.L. Benfica|Benfica]]|clubnat=POR}}
+{{nat fs g player|no=8|pos=MF|name=[[Jorge Carrascal]]|age={{bda|1998|5|25|df=y}}|caps=24|goals=2|club=[[CR Flamengo|Flamengo]]|clubnat=BRA}}
+{{nat fs g player|no=10|pos=MF|name=[[James Rodríguez]]|other=[[Captain (association football)|captain]]|age={{bda|1991|7|12|df=y}}|caps=131|goals=31|club=[[Free agent|''Unattached'']]|clubnat=}}
+{{nat fs g player|no=11|pos=MF|name=[[Jhon Arias (footballer)|Jhon Arias]]|age={{bda|1997|9|21|df=y}}|caps=43|goals=7|club=[[SE Palmeiras|Palmeiras]]|clubnat=BRA}}
+{{nat fs g player|no=14|pos=MF|name=[[Gustavo Puerta]]|age={{bda|2003|7|26|df=y}}|caps=11|goals=1|club=[[Racing de Santander|Racing Santander]]|clubnat=ESP}}
+{{nat fs g player|no=15|pos=MF|name=[[Juan Portilla]]|age={{bda|1998|9|12|df=y}}|caps=10|goals=0|club=[[Club Athletico Paranaense|Athletico Paranaense]]|clubnat=BRA}}
+{{nat fs g player|no=16|pos=MF|name=[[Jefferson Lerma]]|age={{bda|1994|10|25|df=y}}|caps=70|goals=5|club=[[Crystal Palace F.C.|Crystal Palace]]|clubnat=ENG}}
+{{nat fs g player|no=20|pos=MF|name=[[Juan Fernando Quintero]]|age={{bda|1993|1|18|df=y}}|caps=53|goals=6|club=[[Club Atlético River Plate|River Plate]]|clubnat=ARG}}
+{{nat fs g player|no=21|pos=MF|name=[[Jaminton Campaz]]|age={{bda|2000|5|24|df=y}}|caps=13|goals=2|club=[[Rosario Central]]|clubnat=ARG}}
+{{nat fs break}}
+{{nat fs g player|no=7|pos=FW|name=[[Luis Díaz (footballer, born 1997)|Luis Díaz]]|age={{bda|1997|1|13|df=y}}|caps=79|goals=23|club=[[FC Bayern Munich|Bayern Munich]]|clubnat=GER}}
+{{nat fs g player|no=9|pos=FW|name=[[Jhon Córdoba]]|age={{bda|1993|5|11|df=y}}|caps=24|goals=6|club=[[FC Krasnodar|Krasnodar]]|clubnat=RUS}}
+{{nat fs g player|no=19|pos=FW|name=[[Cucho Hernández]]|age={{bda|1999|4|20|df=y}}|caps=11|goals=2|club=[[Real Betis|Betis]]|clubnat=ESP}}
+{{nat fs g player|no=25|pos=FW|name=[[Luis Suárez (Colombian footballer)|Luis Suárez]]|age={{bda|1997|12|2|df=y}}|caps=17|goals=5|club=[[Sporting CP]]|clubnat=POR}}
+{{nat fs g player|no=26|pos=FW|name=[[Andrés Gómez (footballer)|Andrés Gómez]]|age={{bda|2002|9|12|df=y}}|caps=9|goals=2|club=[[CR Vasco da Gama|Vasco da Gama]]|clubnat=BRA}}
+{{nat fs end}}
+
+===Recent call-ups===
+The following players have also been called up in the last twelve months.
+<!-- Organised by position, then by most recent call up, caps, goals and lastly by last name. -->
+{{nat fs r start}}
+{{nat fs r player|no=|pos=GK|name=[[Kevin Mier]]|age={{bda|2000|5|18|df=y}}|caps=3|goals=0|club=[[Cruz Azul]]|clubnat=MEX|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=GK|name=[[Andrés Mosquera Marmolejo]]|age={{bda|1991|9|10|df=y}}|caps=1|goals=0|club=[[Independiente Santa Fe]]|clubnat=COL|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=GK|name=[[Aldair Quintana]]|age={{bda|1994|7|11|df=y}}|caps=0|goals=0|club=[[Independiente del Valle]]|clubnat=ECU|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=DF|name=[[Carlos Cuesta (footballer)|Carlos Cuesta]]|age={{bda|1999|3|9|df=y}}|caps=24|goals=0|club=[[CR Vasco da Gama|Vasco da Gama]]|clubnat=BRA|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=DF|name=[[Cristian Borja (footballer, born 1993)|Cristian Borja]]|age={{bda|1993|2|18|df=y}}|caps=8|goals=0|club=[[Club América|América]]|clubnat=MEX|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=DF|name=[[Yerson Mosquera]]|age={{bda|2001|5|2|df=y}}|caps=4|goals=1|club=[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]|clubnat=ENG|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=DF|name=[[Álvaro Angulo]]|age={{bda|1998|3|6|df=y}}|caps=4|goals=0|club=[[Pumas UNAM|UNAM]]|clubnat=MEX|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=DF|name=[[Juan Cabal]]|age={{bda|2001|1|8|df=y}}|caps=3|goals=0|club=[[Juventus FC|Juventus]]|clubnat=ITA|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=DF|name=[[Andrés Felipe Román|Andrés Román]]|age={{bda|1995|10|5|df=y}}|caps=3|goals=0|club=[[Atlético Nacional]]|clubnat=COL|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=DF|name={{ill|Junior Hernández|es}}|age={{bda|1999|4|5|df=y}}|caps=0|goals=0|club=[[Deportes Tolima]]|clubnat=COL|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=DF|name=[[Édier Ocampo]]|age={{bda|2003|3|10|df=y}}|caps=0|goals=0|club=[[Vancouver Whitecaps FC|Vancouver Whitecaps]]|clubnat=CAN|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=DF|name=[[Jhohan Romaña]]|age={{bda|1998|9|13|df=y}}|caps=0|goals=0|club=[[San Lorenzo de Almagro|San Lorenzo]]|clubnat=ARG|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=MF|name=[[Juan Cuadrado]]|age={{bda|1988|5|26|df=y}}|caps=116|goals=11|club=[[Pisa SC|Pisa]]|clubnat=ITA|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=MF|name=[[Wilmar Barrios]]|age={{bda|1993|10|16|df=y}}|caps=55|goals=1|club=[[FC Zenit Saint Petersburg|Zenit Saint Petersburg]]|clubnat=RUS|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=MF|name=[[Yáser Asprilla]]|age={{bda|2003|11|19|df=y}}|caps=11|goals=2|club=[[Galatasaray S.K. (football)|Galatasaray]]|clubnat=TUR|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=MF|name=[[Sebastián Gómez (Colombian footballer)|Sebastián Gómez]]|age={{bda|1996|6|3|df=y}}|caps=2|goals=0|club=[[Coritiba Foot Ball Club|Coritiba]]|clubnat=BRA|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=MF|name=[[Jordan Barrera]]|age={{bda|2006|4|11|df=y}}|caps=0|goals=0|club=[[Botafogo FR|Botafogo]]|clubnat=BRA|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=MF|name=[[Nelson Deossa]]|age={{bda|2000|2|6|df=y}}|caps=0|goals=0|club=[[Real Betis|Betis]]|clubnat=ESP|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=MF|name={{ill|Juan Manuel Rengifo|es}}|age={{bda|2005|4|2|df=y}}|caps=0|goals=0|club=[[Atlético Nacional]]|clubnat=COL|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=MF|name=[[Johan Rojas (footballer)|Johan Rojas]]|age={{bda|2002|9|20|df=y}}|caps=0|goals=0|club=[[CR Vasco da Gama|Vasco da Gama]]|clubnat=BRA|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=MF|name=[[Jhon Solís (footballer, born 2004)|Jhon Solís]]|age={{bda|2004|10|3|df=y}}|caps=0|goals=0|club=[[Birmingham City F.C.|Birmingham City]]|clubnat=ENG|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=MF|name=[[Kevin Serna]]|age={{bda|1997|12|17|df=y}}|caps=2|goals=0|club=[[Fluminense FC|Fluminense]]|clubnat=BRA|latest=v. {{fb|CAN}}, 14 October 2025}}
+{{nat fs r player|no=|pos=MF|name=[[Marino Hinestroza]]|age={{bda|2002|6|8|df=y}}|caps=2|goals=0|club=[[CR Vasco da Gama|Vasco da Gama]]|clubnat=BRA|latest=v. {{fb|VEN}}, 9 September 2025}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=FW|name=[[Rafael Santos Borré]]|age={{bda|1995|9|15|df=y}}|caps=44|goals=6|club=[[Sport Club Internacional|Internacional]]|clubnat=BRA|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=FW|name=[[Jhon Durán]]|age={{bda|2003|12|13|df=y}}|caps=17|goals=3|club=[[FC Zenit Saint Petersburg|Zenit Saint Petersburg]]|clubnat=RUS|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=FW|name=[[Sebastián Villa (footballer)|Sebastián Villa]]|age={{bda|1996|5|19|df=y}}|caps=4|goals=0|club=[[Independiente Rivadavia]]|clubnat=ARG|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=FW|name=[[Johan Carbonero]]|age={{bda|1999|7|20|df=y}}|caps=2|goals=2|club=[[Sport Club Internacional|Internacional]]|clubnat=BRA|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=FW|name=[[Stiven Mendoza]]|age={{bda|1992|6|27|df=y}}|caps=2|goals=0|club=[[Club Athletico Paranaense|Athletico Paranaense]]|clubnat=BRA|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=FW|name=[[Edwuin Cetré]]|age={{bda|1998|1|1|df=y}}|caps=0|goals=0|club=[[Estudiantes de La Plata|Estudiantes]]|clubnat=ARG|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=FW|name=[[Néiser Villarreal]]|age={{bda|2005|4|24|df=y}}|caps=0|goals=0|club=[[Cruzeiro EC|Cruzeiro]]|clubnat=BRA|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=FW|name=[[Kevin Viveros]]|age={{bda|2000|4|26|df=y}}|caps=0|goals=0|club=[[Club Athletico Paranaense|Athletico Paranaense]]|clubnat=BRA|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=FW|name=[[Dayro Moreno]]|age={{bda|1985|9|16|df=y}}|caps=32|goals=3|club=[[Once Caldas]]|clubnat=COL|latest=v. {{fb|VEN}}, 9 September 2025}}
+{{nat fs break}}
+<sup>INJ</sup> Withdrew due to injury<br />
+<sup>PRE</sup> Preliminary squad<br />
+<sup>RET</sup> Retired from the national team<br />
+<sup>SUS</sup> Suspended
+{{nat fs end}}
+
+==Individual records==
+
+{{main|Colombia national football team records and statistics}}
+
+{{updated|7 July 2026.}}
+:''Players in '''bold''' are still active with Colombia.''
+
+===Most capped players===
+[[File:James Rodriguez 2022.jpg|thumb|254x254px|James Rodríguez is Colombia's most capped player with 131 international appearances.]]
+
+{| class="wikitable sortable" style="text-align:center;"
+|-
+! width="30" |Rank
+! style="width:175px;"|Player
+! width="50" |Caps
+! width="50" |Goals
+! style="width:100px;"|Career
+|-
+| 1 ||align=left| '''[[James Rodríguez]]''' || '''131''' || 31 || 2011–present
+|-
+| 2 ||align=left| '''[[David Ospina]]''' || '''130''' || 0 || 2007–present
+|-
+| 3 ||align=left| [[Juan Cuadrado]] || '''116''' || 11 || 2010–2023
+|-
+| 4 ||align=left| [[Carlos Valderrama]] || '''111''' || 11 || 1985–1998
+|-
+| 5 ||align=left| [[Radamel Falcao]] || '''104''' || 36 || 2007–2023
+|-
+| 6 ||align=left| [[Mario Yepes]] || '''102''' || 6 || 1999–2014
+|-
+| 7 ||align=left| [[Leonel Álvarez (footballer, born 1965)|Leonel Álvarez]] || '''101''' || 1 || 1985–1997
+|-
+| 8 ||align=left| [[Carlos Sánchez (Colombian footballer)|Carlos Sánchez]] || '''88''' || 0 || 2007–2018
+|-
+| rowspan=2| 9 ||align=left| [[Freddy Rincón]] || '''84''' || 17 || 1990–2001
+|-
+|align=left| '''[[Davinson Sánchez]]''' || '''84''' || 4 || 2016–present
+|}
+
+===Top goalscorers===
+[[File:FWC 2018 - Round of 16 - COL v ENG - Photo 026 (cropped).jpg|thumb|200px|Radamel Falcao is Colombia's all-time top scorer with 36 goals.]]
+
+{| class="wikitable sortable" style="text-align:center;"
+|-
+! width="30" |Rank
+! style="width:150px;"|Player
+! width="50" |Goals
+! width="50" |Caps
+! width="50" |Average
+! style="width:100px;"|Career
+|-
+| 1 ||align=left| [[Radamel Falcao]] <small>([[List of international goals scored by Radamel Falcao|list]])</small> || '''36''' || 104 || {{#expr:36/104 round 2}} || 2007–2023
+|-
+| 2 ||align=left| '''[[James Rodríguez]]''' || '''31''' || 131 || {{#expr:31/131 round 2}} || 2011–present
+|-
+| 3 ||align=left| [[Arnoldo Iguarán]] || '''25''' || 68 || {{#expr:25/68 round 2}} || 1979–1993
+|-
+| 4 ||align=left| '''[[Luis Díaz (footballer, born 1997)|Luis Díaz]]''' || '''23''' || 79 || {{#expr:23/79 round 2}} || 2018–present
+|-
+| 5 ||align=left| [[Faustino Asprilla]] || '''20''' || 57 || {{#expr:20/57 round 2}} || 1993–2001
+|-
+| 6 ||align=left| [[Freddy Rincón]] || '''17''' || 84 || {{#expr:17/84 round 2}} || 1990–2001
+|-
+| 7 ||align=left| [[Carlos Bacca]] || '''16''' || 52 || {{#expr:16/52 round 2}} || 2010–2018
+|-
+|rowspan="2" | 8 ||align=left| [[Teófilo Gutiérrez]] || '''15''' || 51 || {{#expr:15/51 round 2}} || 2009–2017
+|-
+|align=left| [[Víctor Aristizábal]] || '''15''' || 66 || {{#expr:15/66 round 2}} || 1993–2003
+|-
+| 10 ||align=left| [[Adolfo Valencia]] || '''14''' || 37 || {{#expr:14/37 round 2}} || 1992–1998
+|}
+
+==Competitive record==
+===FIFA World Cup===
+{{main|Colombia at the FIFA World Cup}}
+
+{| class="wikitable" style="text-align: center;"
+!colspan=10|[[FIFA World Cup]] record
+!width=1% rowspan=28|
+!colspan=7|[[FIFA World Cup qualification|Qualification]] record
+|-
+!Year
+!Round
+!Position
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!Squad
+!{{Tooltip|Pos|Position}}
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+|-
+| {{flagicon|Uruguay}} [[1930 FIFA World Cup|1930]]
+| colspan=9 rowspan=2|''Not a FIFA member''
+| colspan=7 rowspan=2|''Not a FIFA member''
+|-
+| {{flagicon|Italy|1861}} [[1934 FIFA World Cup|1934]]
+|-
+| {{flagicon|France|1794}} [[1938 FIFA World Cup|1938]]
+| colspan=9|''Withdrew''
+| colspan=7|''Withdrew''
+|-
+| {{flagicon|Brazil|1889}} [[1950 FIFA World Cup|1950]]
+| colspan=9 rowspan=2|''Did not enter''
+| colspan=7 rowspan=2|''Did not enter''
+|-
+| {{flagicon|Switzerland}} [[1954 FIFA World Cup|1954]]
+|-
+| {{flagicon|Sweden}} [[1958 FIFA World Cup|1958]]
+| colspan=9|''Did not qualify''
+| 3rd
+| 4
+| 0
+| 1
+| 3
+| 3
+| 8
+|-
+| {{flagicon|Chile}} [[1962 FIFA World Cup|1962]]
+| Group stage
+| 14th
+| 3
+| 0
+| 1
+| 2
+| 5
+| 11
+| [[1962 FIFA World Cup squads#Colombia|Squad]]
+| 1st
+| 2
+| 1
+| 1
+| 0
+| 2
+| 1
+|-
+| {{flagicon|England}} [[1966 FIFA World Cup|1966]]
+| colspan=9 rowspan=6|''Did not qualify''
+| 3rd
+| 4
+| 1
+| 0
+| 3
+| 4
+| 10
+|-
+| {{flagicon|Mexico}} [[1970 FIFA World Cup|1970]]
+| 3rd
+| 6
+| 1
+| 1
+| 4
+| 7
+| 12
+|-
+| {{flagicon|West Germany}} [[1974 FIFA World Cup|1974]]
+| 2nd
+| 4
+| 1
+| 3
+| 0
+| 3
+| 2
+|-
+| {{flagicon|Argentina}} [[1978 FIFA World Cup|1978]]
+| 3rd
+| 4
+| 0
+| 2
+| 2
+| 1
+| 8
+|-
+| {{flagicon|Spain}} [[1982 FIFA World Cup|1982]]
+| 3rd
+| 4
+| 0
+| 2
+| 2
+| 4
+| 7
+|-
+| {{flagicon|Mexico}} [[1986 FIFA World Cup|1986]]
+| 3rd
+| 8
+| 3
+| 2
+| 3
+| 8
+| 10
+|-
+| {{flagicon|Italy}} [[1990 FIFA World Cup|1990]]
+| Round of 16
+| 14th
+| 4
+| 1
+| 1
+| 2
+| 4
+| 4
+| [[1990 FIFA World Cup squads#Colombia|Squad]]
+| 1st{{ref|1|1}}
+| 6
+| 3
+| 2
+| 1
+| 6
+| 3
+|-
+| {{flagicon|United States}} [[1994 FIFA World Cup|1994]]
+| rowspan=2|Group stage
+| 19th
+| 3
+| 1
+| 0
+| 2
+| 4
+| 5
+| [[1994 FIFA World Cup squads#Colombia|Squad]]
+| 1st
+| 6
+| 4
+| 2
+| 0
+| 13
+| 2
+|-
+| {{flagicon|France|1974}} [[1998 FIFA World Cup|1998]]
+| 21st
+| 3
+| 1
+| 0
+| 2
+| 1
+| 3
+| [[1998 FIFA World Cup squads#Colombia|Squad]]
+| 3rd
+| 16
+| 8
+| 4
+| 4
+| 23
+| 15
+|-
+| {{flagicon|South Korea|1997}} {{flagicon|Japan}} [[2002 FIFA World Cup|2002]]
+| colspan=9 rowspan=3|''Did not qualify''
+| 6th
+| 18
+| 7
+| 6
+| 5
+| 20
+| 15
+|-
+| {{flagicon|Germany}} [[2006 FIFA World Cup|2006]]
+| 6th
+| 18
+| 6
+| 6
+| 6
+| 24
+| 16
+|-
+| {{flagicon|South Africa}} [[2010 FIFA World Cup|2010]]
+| 7th
+| 18
+| 6
+| 5
+| 7
+| 14
+| 18
+|-
+| {{flagicon|Brazil}} [[2014 FIFA World Cup|2014]]
+| Quarter-finals
+| 5th
+| 5
+| 4
+| 0
+| 1
+| 12
+| 4
+| [[2014 FIFA World Cup squads#Colombia|Squad]]
+| 2nd
+| 16
+| 9
+| 3
+| 4
+| 27
+| 13
+|-
+| {{flagicon|Russia}} [[2018 FIFA World Cup|2018]]
+| Round of 16
+| 9th
+| 4
+| 2
+| 1
+| 1
+| 6
+| 3
+| [[2018 FIFA World Cup squads#Colombia|Squad]]
+| 4th
+| 18
+| 7
+| 6
+| 5
+| 21
+| 19
+|-
+| {{flagicon|Qatar}} [[2022 FIFA World Cup|2022]]
+| colspan=9|''Did not qualify''
+| 6th
+| 18
+| 5
+| 8
+| 5
+| 20
+| 19
+|-
+| {{flagicon|Canada}} {{flagicon|Mexico}} {{flagicon|United States}} [[2026 FIFA World Cup|2026]]
+| Round of 16
+| 10th
+| 5
+| 3
+| 2
+| 0
+| 5
+| 1
+| [[2026 FIFA World Cup squads#Colombia|Squad]]
+| 3rd
+| 18
+| 7
+| 7
+| 4
+| 28
+| 18
+|-
+| {{flagicon|Morocco}} {{flagicon|Portugal}} {{flagicon|Spain}} [[2030 FIFA World Cup|2030]]
+| colspan=9 rowspan=2|''To be determined''
+| colspan=7 rowspan=2|''To be determined''
+|-
+| {{flagicon|Saudi Arabia}} [[2034 FIFA World Cup|2034]]
+|-
+!Total
+!Quarter-finals
+!7/23
+!27
+!12
+!5
+!10
+!37
+!31
+!—
+!5th
+!188
+!69
+!61
+!58
+!228
+!196
+|}
+:1.{{Note|1}}Played Intercontinental playoffs.
+
+===Copa América===
+{{main|Colombia at the Copa América}}
+{{Color box|gold|border=darkgray}} '''Champions'''&nbsp;&nbsp;{{Color box|silver|border=darkgray}} '''Runners-up'''&nbsp;&nbsp;{{Color box|#cc9966|border=darkgray}} Third place&nbsp;&nbsp;{{Color box|LemonChiffon|border=darkgray}} Fourth place&nbsp;&nbsp;
+
+{| class="wikitable" style="text-align:center"
+|-
+!colspan=10|[[Copa América|South American Championship / Copa América]] record
+|-
+!width=100|Year
+!width=95|Round
+!width=60|Position
+!width=20|{{Abbr|Pld|Matches played}}
+!width=20|{{Abbr|W|Matches won}}
+!width=20|{{Abbr|D|Matches drawn}}
+!width=20|{{Abbr|L|Matches lost}}
+!width=20|{{Abbr|GF|Goals for}}
+!width=20|{{Abbr|GA|Goals against}}
+!width=60|Squad
+|-
+| {{flagicon|Argentina}} [[1916 South American Championship|1916]]||colspan=9 rowspan=8|''No national representative''
+|-
+| {{flagicon|Uruguay}} [[1917 South American Championship|1917]]
+|-
+| {{flagicon|Brazil|1889}} [[1919 South American Championship|1919]]
+|-
+| {{flagicon|Chile}} [[1920 South American Championship|1920]]
+|-
+| {{flagicon|Argentina}} [[1921 South American Championship|1921]]
+|-
+| {{flagicon|Brazil|1889}} [[1922 South American Championship|1922]]
+|-
+| {{flagicon|Uruguay}} [[1923 South American Championship|1923]]
+|-
+| {{flagicon|Uruguay}} [[1924 South American Championship|1924]]
+|-
+| {{flagicon|Argentina}} [[1925 South American Championship|1925]]||colspan=9 rowspan=5|''Not a CONMEBOL member''
+|-
+| {{flagicon|Chile}} [[1926 South American Championship|1926]]
+|-
+| {{flagicon|Peru|1825}} [[1927 South American Championship|1927]]
+|-
+| {{flagicon|Argentina}} [[1929 South American Championship|1929]]
+|-
+| {{flagicon|Peru|1825}} [[1935 South American Championship|1935]]
+|-
+| {{flagicon|Argentina}} [[1937 South American Championship|1937]]||colspan=9 rowspan=4|''Withdrew''
+|-
+| {{flagicon|Peru|1825}} [[1939 South American Championship|1939]]
+|-
+| {{flagicon|Chile}} [[1941 South American Championship|1941]]
+|-
+| {{flagicon|Uruguay}} [[1942 South American Championship|1942]]
+|-
+| {{flagicon|Chile}} [[1945 South American Championship|1945]]|| Fifth place || 5th || 6 || 1 || 1 || 4 || 7 || 25
+|[[1945 South American Championship squads#Colombia|Squad]]
+|-
+| {{flagicon|Argentina}} [[1946 South American Championship|1946]]||colspan=9|''Withdrew''
+|-
+| {{flagicon|Ecuador}} [[1947 South American Championship|1947]]||rowspan=2|Eighth place|| 8th || 7 || 0 || 2 || 5 || 2 || 19
+|[[1947 South American Championship squads#Colombia|Squad]]
+|-
+| {{flagicon|Brazil}} [[1949 South American Championship|1949]]|| 8th || 7 || 0 || 2 || 5 || 4 || 23
+|[[1949 South American Championship squads#Colombia|Squad]]
+|-
+| {{flagicon|Peru|football}} [[1953 South American Championship|1953]]||colspan=9 rowspan=3|''Withdrew''
+|-
+| {{flagicon|Chile}} [[1955 South American Championship|1955]]
+|-
+| {{flagicon|Uruguay}} [[1956 South American Championship|1956]]
+|-
+| {{flagicon|Peru|football}} [[1957 South American Championship|1957]]|| Fifth place || 5th || 6 || 2 || 0 || 4 || 10 || 25
+|[[1957 South American Championship squads#Colombia|Squad]]
+|-
+| {{flagicon|Argentina}} [[1959 South American Championship (Argentina)|1959]]||colspan=9 rowspan=2|''Withdrew''
+|-
+| {{flagicon|Ecuador}} [[1959 South American Championship (Ecuador)|1959]]
+|-
+| {{flagicon|Bolivia}} [[1963 South American Championship|1963]]|| Seventh place || 7th || 6 || 0 || 1 || 5 || 10 || 19
+|[[1963 South American Championship squads#Colombia|Squad]]
+|-
+| {{flagicon|Uruguay}} [[1967 South American Championship|1967]]||colspan=9|''Did not qualify''
+|- style="background:silver;"
+| [[1975 Copa América|1975]]|| '''[[1975 Copa América final|Runners-up]]''' || '''2nd''' || '''9''' || '''6''' || '''0''' || '''3''' || '''11''' || '''5'''
+|'''[[1975 Copa América squads#Colombia|Squad]]'''
+|-
+| [[1979 Copa América|1979]]||rowspan=2| Group stage || 5th || 4 || 2 || 1 || 1 || 5 || 2
+|[[1979 Copa América squads#Colombia|Squad]]
+|-
+| [[1983 Copa América|1983]]|| 7th || 4 || 1 || 2 || 1 || 5 || 5
+|[[1983 Copa América squads#Colombia|Squad]]
+|- style="background:#c96;"
+| {{flagicon|Argentina}} [[1987 Copa América|1987]]|| Third place || 3rd || 4 || 3 || 0 || 1 || 8 || 3
+|[[1987 Copa América squads#Colombia|Squad]]
+|-
+| {{flagicon|Brazil}} [[1989 Copa América|1989]]|| Group stage || 6th || 4 || 1 || 2 || 1 || 5 || 4
+|[[1989 Copa América squads#Colombia|Squad]]
+|- style="background:LemonChiffon;"
+| {{flagicon|Chile}} [[1991 Copa América|1991]]|| Fourth place || 4th || 7 || 2 || 2 || 3 || 5 || 6
+|[[1991 Copa América squads#Colombia|Squad]]
+|- style="background:#c96;"
+| {{flagicon|Ecuador}} [[1993 Copa América|1993]]||rowspan=2| Third place || 3rd || 6 || 3 || 2 || 1 || 6 || 4
+|[[1993 Copa América squads#Colombia|Squad]]
+|- style="background:#c96;"
+| {{flagicon|Uruguay}} [[1995 Copa América|1995]]|| 3rd || 6 || 3 || 1 || 2 || 7 || 8
+|[[1995 Copa América squads#Colombia|Squad]]
+|-
+| {{flagicon|Bolivia}} [[1997 Copa América|1997]]||rowspan=2| Quarter-finals || 8th || 4 || 1 || 0 || 3 || 6 || 7
+|[[1997 Copa América squads#Colombia|Squad]]
+|-
+| {{flagicon|Paraguay|1990}} [[1999 Copa América|1999]]|| 5th || 4 || 3 || 0 || 1 || 8 || 4
+|[[1999 Copa América squads#Colombia|Squad]]
+|- style="background:Gold;"
+| style="border: 3px solid red"|{{flagicon|Colombia}} [[2001 Copa América|2001]]|| '''[[2001 Copa América final|Champions]]''' || '''1st''' || '''6''' || '''6''' || '''0''' || '''0''' || '''11''' || '''0'''
+|'''[[2001 Copa América squads#Colombia|Squad]]'''
+|- style="background:LemonChiffon;"
+| {{flagicon|Peru|football}} [[2004 Copa América|2004]]|| Fourth place || 4th || 6 || 3 || 1 || 2 || 7 || 7
+|[[2004 Copa América squads#Colombia|Squad]]
+|-
+| {{flagicon|Venezuela}} [[2007 Copa América|2007]]|| Group stage || 9th || 3 || 1 || 0 || 2 || 3 || 9
+|[[2007 Copa América squads#Colombia|Squad]]
+|-
+| {{flagicon|Argentina}} [[2011 Copa América|2011]]||rowspan=2| Quarter-finals || 6th || 4 || 2 || 1 || 1 || 3 || 2
+|[[2011 Copa América squads#Colombia|Squad]]
+|-
+| {{flagicon|Chile}} [[2015 Copa América|2015]]|| 6th || 4 || 1 || 2 || 1 || 1 || 1
+|[[2015 Copa América squads#Colombia|Squad]]
+|- style="background:#c96;"
+| {{flagicon|United States}} [[Copa América Centenario|2016]]|| Third place || 3rd || 6 || 3 || 1 || 2 || 7 || 6
+|[[Copa América Centenario squads#Colombia|Squad]]
+|-
+| {{flagicon|Brazil}} [[2019 Copa América|2019]]|| Quarter-finals || 5th || 4 || 3 || 1 || 0 || 4 || 0
+|[[2019 Copa América squads#Colombia|Squad]]
+|- style="background:#c96;"
+| {{flagicon|Brazil}} [[2021 Copa América|2021]]|| Third place || 3rd || 7 || 2 || 3 || 2 || 7 || 7
+|[[2021 Copa América squads#Colombia|Squad]]
+|- style="background:silver;"
+| {{flagicon|United States}} [[2024 Copa América|2024]]|| '''[[2024 Copa América final|Runners-up]]''' || '''2nd''' || '''6''' || '''4''' || '''1''' || '''1''' || '''12''' || '''3'''
+|'''[[2024 Copa América squads#Colombia|Squad]]'''
+|-
+!Total||1 Title||24/35||130||53||26||51||154||194||—
+|}
+
+===CONCACAF Gold Cup===
+{{main|Colombia at the CONCACAF Gold Cup}}
+{| class="wikitable" style="text-align: center;"
+!colspan=10|[[CONCACAF Gold Cup]] record
+|-
+!width=100|Year
+!width=95|Round
+!width=60|Position
+!width=20|{{Abbr|Pld|Games played}}
+!width=20|{{Abbr|W|Won}}
+!width=20|{{Abbr|D|Drawn}}
+!width=20|{{Abbr|L|Lost}}
+!width=20|{{Abbr|GF|Goals for}}
+!width=20|{{Abbr|GA|Goals against}}
+!width=60|Squad
+|- style="background:silver;"
+|{{flagicon|United States}} [[2000 CONCACAF Gold Cup|2000]]
+|'''[[2000 CONCACAF Gold Cup final|Runners-up]]'''||'''2nd'''||'''5'''||'''2'''||'''1'''||'''2'''||'''5'''||'''7'''||'''[[2000 CONCACAF Gold Cup squads#Colombia|Squad]]'''
+|-
+|{{flagicon|Mexico}} {{flagicon|United States}} [[2003 CONCACAF Gold Cup|2003]]
+|Quarter-finals||5th||3||1||1||1||2||3||[[2003 CONCACAF Gold Cup squads#Colombia|Squad]]
+|- style="background:LemonChiffon;"
+|{{flagicon|United States}} [[2005 CONCACAF Gold Cup|2005]]
+|Semi-finals||4th||5||2||0||3||7||7||[[2005 CONCACAF Gold Cup squads#Colombia|Squad]]
+|-
+!Total||Runners-up||3/3||13||5||2||6||14||17||—
+|}
+
+===FIFA Confederations Cup===
+{| class="wikitable" style="text-align: center;"
+!colspan=10|[[FIFA Confederations Cup]] record
+|-
+!Year
+!Round
+!Position
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!Squad
+|-
+|{{flagicon|Saudi Arabia}} [[1992 King Fahd Cup|1992]]
+| colspan=9 rowspan=5|''Did not qualify''
+|-
+|{{flagicon|Saudi Arabia}} [[1995 King Fahd Cup|1995]]
+|-
+|{{flagicon|Saudi Arabia}} [[1997 FIFA Confederations Cup|1997]]
+|-
+|{{flagicon|Mexico}} [[1999 FIFA Confederations Cup|1999]]
+|-
+|{{flagicon|South Korea|1997}} {{flagicon|Japan}} [[2001 FIFA Confederations Cup|2001]]
+|- style="background:LemonChiffon;"
+|{{flagicon|France|1974}} [[2003 FIFA Confederations Cup|2003]]
+|Fourth place
+|4th
+|5
+|2
+|0
+|3
+|5
+|5
+|[[2003 FIFA Confederations Cup squads#Colombia|Squad]]
+|-
+|{{flagicon|Germany}} [[2005 FIFA Confederations Cup|2005]]
+| colspan=9 rowspan=4|''Did not qualify''
+|-
+|{{flagicon|South Africa}} [[2009 FIFA Confederations Cup|2009]]
+|-
+|{{flagicon|Brazil}} [[2013 FIFA Confederations Cup|2013]]
+|-
+|{{flagicon|Russia}} [[2017 FIFA Confederations Cup|2017]]
+|-
+!Total
+!Fourth place
+!1/10
+!5
+!2
+!0
+!3
+!5
+!5
+!—
+|}
+
+==Head-to-head record==
+
+Below is a result summary of all matches Colombia have played against [[FIFA]] recognized teams.<ref>{{Cite web|url=http://col.worldfootball.net/equipos/kolumbien-team/11/|title=Colombia − Estadísticas ante...|website=worldfootball.net|date=12 September 2024 }}</ref><ref>{{Cite web|url=http://eloratings.net/Colombia|title=World Football Elo Ratings}}</ref>
+
+{{updated|7 July 2026}}
+
+{{legend2|#CCFFCC|Positive Record|border=1px solid #AAAAAA}}
+{{legend2|#FFFFCC|Neutral Record|border=1px solid #AAAAAA}}
+{{legend2|#FFDACC|Negative Record|border=1px solid #AAAAAA}}
+{| class="wikitable sortable collapsible collapsed" style="text-align: center; font-size: 100%;"
+|- style="color:black;"
+! style="width:145px;"|Opponents
+!width=30|{{Tooltip|Pld|Games played}}
+!width=30|{{Tooltip|W|Won}}
+!width=30|{{Tooltip|D|Drawn}}
+!width=30|{{Tooltip|L|Lost}}
+!width=35|{{Tooltip|GF|Goals for}}
+!width=35|{{Tooltip|GA|Goals against}}
+!width=35|{{Tooltip|GD|Goal difference}}
+!width=35|{{Tooltip|Win %|Win percentage}}
+|-
+|- style="background-color:#fcc"
+|style="text-align:left;"|{{fb|Algeria}} || 1 || 0 || 0 || 1 || 0 || 3 || −3 || 0%
+|-
+|- style="background-color:#fcc"
+|style="text-align:left;"|{{fb|Argentina}} || 43 || 10 || 12 || 21 || 42 || 74 || −32 || 23.26%
+|-
+|- style="background-color:#cfc"
+|style="text-align:left;"|{{fb|Australia}} || 5 || 3 || 2 || 0 || 7 || 2 || +5 || 60%
+|-
+|- style="background-color:#cfc"
+|style="text-align:left;"|{{fb|Bahrain}} || 1 || 1 || 0 || 0 || 6 || 0 || +6 || 100%
+|-
+|- style="background-color:#ffffbb"
+|style="text-align:left;"|{{fb|Belgium}} || 2 || 1 || 0 || 1 || 2 || 2 || 0 || 50%
+|-
+|- style="background-color:#cfc"
+|style="text-align:left;"|{{fb|Bolivia}} || 34 || 17 || 10 || 7 || 54 || 31 || +23 || 50%
+|-
+|- style="background-color:#fcc"
+|style="text-align:left;"|{{fb|Brazil}} || 38 || 4 || 12 || 22 || 22 || 71 || −49 || 10.53%
+|-
+|- style="background-color:#ffffbb"
+|style="text-align:left;"|{{fb|Cameroon}} || 4 || 2 || 0 || 2 || 8 || 3 || +5 || 50%
+|-
+|- style="background-color:#cfc"
+|style="text-align:left;"|{{fb|Canada}} || 4 || 2 || 1 || 1 || 4 || 2 || +2 || 50%
+|-
+|- style="background-color:#fcc"
+|style="text-align:left;"|{{fb|Chile}} || 44 || 12 || 17 || 15 || 59 || 70 || −11 || 27.27%
+|-
+|- style="background-color:#ffffbb"
+|style="text-align:left;"|{{fb|China}} || 2 || 1 || 0 || 1 || 5 || 2 || +3 || 50%
+|-
+|- style="background-color:#cfc"
+|style="text-align:left;"|{{fb|Costa Rica}} || 16 || 13 || 0 || 3 || 40 || 17 || +23 || 80%
+|-
+|- style="background-color:#fcc"
+|style="text-align:left;"|{{fb|Croatia}} || 1 || 0 || 0 || 1 || 1 || 2 || −1 || 0%
+|-
+|- style="background-color:#cfc"
+|style="text-align:left;"|{{fb|Curaçao}}{{efn|Includes matches against [[Curaçao national football team (1921–1958)|Territory of Curaçao]].}} || 1 || 1 || 0 || 0 || 4 || 2 || +2 || 100%
+|- style="background-color:#cfc"
+|style="text-align:left;"|{{fb|DR Congo}} || 1 || 1 || 0 || 0 || 1 || 0 || +1 || 100%
+|-
+|- style="background-color:#fcc"
+|style="text-align:left;"|''{{fb|East Germany}}'' || 1 || 0 || 0 || 1 || 0 || 2 || −2 || 0%
+|-
+|- style="background-color:#cfc"
+|style="text-align:left;"|{{fb|Ecuador}} || 50 || 23 || 13 || 14 || 54 || 45 || +9 || 46%
+|-
+|- style="background-color:#ffffbb"
+|style="text-align:left;"|{{fb|Egypt}} || 2 || 0 || 2 || 0 || 1 || 1 || 0 || 0%
+|-
+|- style="background-color:#cfc"
+|style="text-align:left;"|{{fb|El Salvador}} || 7 || 5 || 1 || 1 || 16 || 7 || +9 || 71.43%
+|-
+|- style="background-color:#fcc"
+|style="text-align:left;"|{{fb|England}} || 6 || 0 || 3 || 3 || 4 || 11 || −7 || 0%
+|-
+|- style="background-color:#cfc"
+|style="text-align:left;"|{{fb|Finland}} || 1 || 1 || 0 || 0 || 3 || 1 || +2 || 100%
+|-
+|- style="background-color:#fcc"
+|style="text-align:left;"|{{fb|France}} || 5 || 1 || 0 || 4 || 6 || 10 || −4 || 20%
+|-
+|- style="background-color:#fcc"
+|style="text-align:left;"|{{fb|Germany}}{{efn|Includes matches against [[Germany national football team|West Germany]].}} || 5 || 1 || 2 || 2 || 7 || 10 || −3 || 20%
+|-
+|- style="background-color:#cfc"
+|style="text-align:left;"|{{fb|Ghana}} || 1 || 1 || 0 || 0 || 1 || 0 || +1 || 100%
+|-
+|- style="background-color:#cfc"
+|style="text-align:left;"|{{fb|Greece}} || 2 || 2 || 0 || 0 || 5 || 0 || +5 || 100%
+|-
+|- style="background-color:#cfc"
+|style="text-align:left;"|{{fb|Guatemala}} || 5 || 3 || 2 || 0 || 14 || 6 || +8 || 60%
+|-
+|- style="background-color:#cfc"
+|style="text-align:left;"|{{fb|Haiti}} || 5 || 4 || 0 || 1 || 12 || 4 || +8 || 80%
+|-
+|- style="background-color:#ffffbb"
+|style="text-align:left;"|{{fb|Honduras}} || 12 || 5 || 2 || 5 || 13 || 12 || +1 || 41.67%
+|-
+|- style="background-color:#fcc"
+|style="text-align:left;"|{{fb|Hungary}} || 1 || 0 || 0 || 1 || 1 || 3 || −2 || 0%
+|-
+|- style="background-color:#cfc"
+|style="text-align:left;"|{{fb|Iraq}} || 1 || 1 || 0 || 0 || 1 || 0 || +1 || 100%
+|-
+|- style="background-color:#cfc"
+|style="text-align:left;"|{{fb|Israel}} || 2 || 1 || 1 || 0 || 1 || 0 || +1 || 50%
+|-
+|- style="background-color:#cfc"
+|style="text-align:left;"|{{fb|Ivory Coast}} || 1 || 1 || 0 || 0 || 2 || 1 || +1 || 100%
+|-
+|- style="background-color:#cfc"
+|style="text-align:left;"|{{fb|Jamaica}} || 5 || 4 || 0 || 1 || 7 || 1 || +6 || 80%
+|-
+|- style="background-color:#cfc"
+|style="text-align:left;"|{{fb|Japan}} || 6 || 4 || 1 || 1 || 9 || 4 || +5 || 66.67%
+|-
+|- style="background-color:#cfc"
+|style="text-align:left;"|{{fb|Jordan}} || 2 || 2 || 0 || 0 || 5 || 0 || +5 || 100%
+|-
+|- style="background-color:#cfc"
+|style="text-align:left;"|{{fb|Kuwait}} || 1 || 1 || 0 || 0 || 3 || 1 || +2 || 100%
+|-
+|- style="background-color:#cfc"
+|style="text-align:left;"|{{fb|Liberia}} || 1 || 1 || 0 || 0 || 2 || 1 || +1 || 100%
+|-
+|- style="background-color:#ffffbb"
+|style="text-align:left;"|{{fb|Mexico}} || 29 || 10 || 9 || 10 || 31 || 29 || +2 || 34.48%
+|-
+|- style="background-color:#cfc"
+|style="text-align:left;"|{{fb|Montenegro}} || 1 || 1 || 0 || 0 || 1 || 0 || +1 || 100%
+|-
+|- style="background-color:#cfc"
+|style="text-align:left;"|{{fb|Morocco}} || 1 || 1 || 0 || 0 || 2 || 0 || +2 || 100%
+|-
+|- style="background-color:#ffffbb"
+|style="text-align:left;"|{{fb|Netherlands}} || 1 || 0 || 1 || 0 || 0 || 0 || 0 || 0%
+|-
+|- style="background-color:#cfc"
+|style="text-align:left;"|{{fb|New Zealand}} || 2 || 2 || 0 || 0 || 5 || 2 || +3 || 100%
+|-
+|- style="background-color:#cfc"
+|style="text-align:left;"|{{fb|Nigeria}} || 4 || 3 || 1 || 0 || 4 || 1 || +3 || 75%
+|-
+|- style="background-color:#cfc"
+|style="text-align:left;"|{{fb|Northern Ireland}} || 1 || 1 || 0 || 0 || 2 || 0 || +2 || 100%
+|-
+|- style="background-color:#ffffbb"
+|style="text-align:left;"|{{fb|Norway}} || 1 || 0 || 1 || 0 || 0 || 0 || 0 || 0%
+|-
+|- style="background-color:#cfc"
+|style="text-align:left;"|{{fb|Panama}} || 7 || 5 || 0 || 2 || 20 || 7 || +13 || 71.43%
+|-
+|- style="background-color:#cfc"
+|style="text-align:left;"|{{fb|Paraguay}} || 51 || 23 || 10 || 18 || 61 || 55 || +6 || 45.1%
+|-
+|- style="background-color:#cfc"
+|style="text-align:left;"|{{fb|Peru}} || 62 || 21 || 24 || 17 || 72 || 66 || +6 || 33.87%
+|-
+|- style="background-color:#cfc"
+|style="text-align:left;"|{{fb|Poland}} || 8 || 5 || 1 || 2 || 12 || 9 || +3 || 62.5%
+|-
+|- style="background-color:#ffc"
+|style="text-align:left;"|{{fb|Portugal}} || 1 || 0 || 1 || 0 || 0 || 0 || 0 || 00.00%
+|-
+|- style="background-color:#cfc"
+|style="text-align:left;"|{{fb|Puerto Rico}} || 1 || 1 || 0 || 0 || 4 || 1 || +3 || 100%
+|-
+|- style="background-color:#cfc"
+|style="text-align:left;"|{{fb|Qatar}} || 1 || 1 || 0 || 0 || 1 || 0 || +1 || 100%
+|-
+|- style="background-color:#fcc"
+|style="text-align:left;"|{{fb|Republic of Ireland}} || 1 || 0 || 0 || 1 || 0 || 1 || −1 || 0%
+|-
+|- style="background-color:#fcc"
+|style="text-align:left;"|{{fb|Romania}} || 4 || 1 || 1 || 2 || 4 || 6 || −2 || 25%
+|-
+|- style="background-color:#fcc"
+|style="text-align:left;"|{{fb|Russia}}{{efn|Includes matches against the [[Soviet Union national football team|Soviet Union]].}} || 3 || 0 || 2 || 1 || 5 || 7 || −2 || 0%
+|-
+|- style="background-color:#cfc"
+|style="text-align:left;"|{{fb|Saudi Arabia}} || 3 || 2 || 1 || 0 || 3 || 1 || +2 || 66.67%
+|-
+|- style="background-color:#cfc"
+|style="text-align:left;"|{{fb|Scotland}} || 3 || 1 || 2 || 0 || 3 || 2 || +1 || 33.33%
+|-
+|- style="background-color:#cfc"
+|style="text-align:left;"|{{fb|Senegal}} || 2 || 1 || 1 || 0 || 3 || 2 || +1 || 50%
+|-
+|- style="background-color:#fcc"
+|style="text-align:left;"|{{fb|Serbia}}{{efn|Includes matches against [[Yugoslavia national football team|Yugoslavia]].}} || 5 || 1 || 1 || 3 || 1 || 7 || −6 || 20%
+|-
+|- style="background-color:#cfc"
+|style="text-align:left;"|{{fb|Slovakia}} || 3 || 2 || 1 || 0 || 2 || 0 || +2 || 66.67%
+|-
+|- style="background-color:#cfc"
+|style="text-align:left;"|{{fb|Slovenia}} || 1 || 1 || 0 || 0 || 1 || 0 || +1 || 100%
+|-
+|- style="background-color:#fcc"
+|style="text-align:left;"|{{fb|South Africa}} || 1 || 0 || 0 || 1 || 1 || 2 || −1 || 0%
+|-
+|- style="background-color:#fcc"
+|style="text-align:left;"|{{fb|South Korea}} || 8 || 1 || 3 || 4 || 9 || 14 || −5 || 12.50%
+|-
+|- style="background-color:#ffffbb"
+|style="text-align:left;"|{{fb|Spain}} || 4 || 1 || 2 || 1 || 4 || 4 || 0 || 25%
+|-
+|- style="background-color:#ffffbb"
+|style="text-align:left;"|{{fb|Sweden}} || 2 || 0 || 2 || 0 || 2 || 2 || 0 || 0%
+|-
+|- style="background-color:#cfc"
+|style="text-align:left;"|{{fb|Switzerland}} || 5 || 2 || 2 || 1 || 9 || 6 || +3 || 40%
+|-
+|- style="background-color:#cfc"
+|style="text-align:left;"|{{fb|Trinidad and Tobago}} || 3 || 2 || 0 || 1 || 8 || 4 || +4 || 66.67%
+|-
+|- style="background-color:#cfc"
+|style="text-align:left;"|{{fb|Tunisia}} || 2 || 1 || 1 || 0 || 2 || 1 || +1 || 50%
+|-
+|- style="background-color:#fcc"
+|style="text-align:left;"|{{fb|Turkey}} || 1 || 0 || 0 || 1 || 1 || 2 || −1 || 0%
+|-
+|- style="background-color:#cfc"
+|style="text-align:left;"|{{fb|United Arab Emirates}} || 1 || 1 || 0 || 0 || 2 || 0 || +2 || 100%
+|-
+|- style="background-color:#cfc"
+|style="text-align:left;"|{{fb|United States}} || 22 || 14 || 5 || 3 || 33 || 15 || +18 || 63.64%
+|-
+|- style="background-color:#fcc"
+|style="text-align:left;"|{{fb|Uruguay}} || 47 || 13 || 13 || 21 || 52 || 67 || −14 || 27.66%
+|-
+|- style="background-color:#cfc"
+|style="text-align:left;"|{{fb|Uzbekistan}} || 1 || 1 || 0 || 0 || 3 || 1 || 2 || 100%
+|-
+|- style="background-color:#cfc"
+|style="text-align:left;"|{{fb|Venezuela}} || 44 || 22 || 15 || 7 || 64 || 29 || +35 || 50%
+|- class="sortbottom"
+!Total (72)
+| '''656''' || '''270''' || '''181''' || '''205''' || '''849''' || '''744''' || '''+105''' || '''{{#expr:270/656*100 round 0}}%'''
+|}
+{{notelist}}
+
+==Honours==
+===Continental===
+* '''[[Copa América]]'''
+** {{gold1}} '''Champions (1)''': [[2001 Copa América|2001]]
+** {{silver2}} Runners-up (2): [[1975 Copa América|1975]], [[2024 Copa América|2024]]
+** {{bronze3}} Third place (5): [[1987 Copa América|1987]], [[1993 Copa América|1993]], [[1995 Copa América|1995]], [[Copa América Centenario|2016]], [[2021 Copa América|2021]]
+* '''[[CONCACAF Gold Cup]]'''
+** {{silver2}} Runners-up (1): [[2000 CONCACAF Gold Cup|2000]]
+
+===Regional===
+* '''[[Football at the Central American and Caribbean Games|Central American and Caribbean Games]]'''
+** '''{{gold1}} Gold medal (1)''': [[Football at the 1946 Central American and Caribbean Games|1946]]
+** {{bronze3}} Bronze medal (1): [[Football at the 1938 Central American and Caribbean Games|1938]]
+
+===Friendly===
+* '''Copa Centenario de Armenia<ref>{{cite web|title=Copa Centenario de Armenia 1989|website=[[RSSSF]]|url=https://www.rsssf.org/tablesc/cent89.html|access-date=10 February 2022|archive-date=13 August 2022|archive-url=https://web.archive.org/web/20220813184742/https://www.rsssf.org/tablesc/cent89.html|url-status=live}}</ref> (1)''': 1989
+* '''[[Marlboro Cup (soccer)|Marlboro Cup]] (1)''': 1990
+
+===Awards===
+* '''[[FIFA World Rankings#Best Mover of the Year|FIFA Best Mover of the Year]] (1)''': 1993
+* '''[[FIFA World Cup Fair Play Trophy]] (1)''': [[2014 FIFA World Cup|2014]]
+* '''[[Copa América awards#Fair Play Award|Copa America Fair Play Award]] (1)''': [[2024 Copa América|2024]]
+
+===Summary===
+{| class="wikitable" width=40% style="font-size:90%; text-align:center;"
+|-
+!Competition !!{{gold1}} !!{{silver2}} !!{{bronze3}} !!Total
+|-
+|align=left|[[Copa América|CONMEBOL Copa América]]
+|1||2||5||8
+|-
+|align=left|[[CONCACAF Gold Cup]]
+|0||1||0||1
+|-
+|align=left|[[Football at the Central American and Caribbean Games|Central American and Caribbean Games]]
+|1||0||1||2
+|-
+!Total!!2!!3!!6!!11
+|}
+
+==See also==
+{{portal|Association football|Colombia}}
+* [[Colombia Olympic football team]]
+* [[Colombia national under-20 football team]]
+* [[Colombia national under-17 football team]]
+* [[Colombia national under-15 football team]]
+* [[Colombia national futsal team]]
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons category}}
+* {{Official website}} {{in lang|es}}
+* [https://www.fifa.com/about-fifa/associations/COL Colombia FIFA profile]
+* [https://www.conmebol.com/fcf/ Colombia CONMEBOL profile]
+* [https://www.rsssf.org/tablesc/col-intres.html Archive of results 1938–] at [[RSSSF]]
+* [https://www.rsssf.org/tablesc/col-intres-bilardo.html ''International matches of Colombia during the Era Bilardo of 1980–1981''] at RSSSF
+
+{{Copa América winners}}
+{{Colombia national football team}}
+{{Colombia national football team matches}}
+{{Football in Colombia}}
+{{CONMEBOL teams}}
+{{National sports teams of Colombia}}
+
+{{DEFAULTSORT:Colombia National Football Team}}
+[[Category:Colombia national football team| ]]
+[[Category:Colombia national football teams| ]]
+[[Category:South American national association football teams]]
+[[Category:National sports teams established in 1926]]

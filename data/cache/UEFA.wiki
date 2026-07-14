@@ -1,0 +1,4070 @@
+{{Short description|International governing body for association football in Europe}}
+{{Use British English|date=March 2019}}
+{{Use dmy dates|date=June 2026}}
+{{Infobox organization
+| name                = UEFA
+| full_name           = Union of European Football Associations
+| logo                = UEFA full logo.svg
+| logo_size           = 170
+| image               = 
+| image_size          = 
+| caption             = 
+| map                 = UEFA.svg
+| abbreviation        = UEFA
+| formation           = {{Start date and age|df=y|1954|6|15}}
+| founding_location   = [[Basel]], Switzerland
+| type                = Football organisation
+| headquarters        = [[Nyon]], Switzerland
+| coordinates         = {{Coord|46|22|15|N|6|13|52|E|region:CH-VD_type:landmark|display=inline,title}}
+| region_served       = [[Europe]]{{efn|Also includes the transcontinental countries of Turkey, Azerbaijan, Georgia and Kazakhstan, as well as the West Asian countries of Cyprus, Armenia and Israel.}}
+| num_members         = [[List of men's national association football teams#UEFA (Europe)|55 full member associations]]
+| languages           = English <br />French <br />German<ref>{{Cite web |title=UEFA Documents |url=https://documents.uefa.com/r/C2pZTbQR1hltFflz0OjcLw/Fa9JGAo~KKru5xgH5HrHyA |access-date=20 December 2024 |website=UEFA.com |publisher=Union of European Football Associations }}</ref> <br />(other main but not official: Italian, Russian, Portuguese, Spanish)<ref>{{cite web |url=https://helpcenter.uefa.com/hc/en-gb/articles/115005998469-How-do-I-switch-to-another-language-version-of-UEFA-com- |title=How to switch to another language of UEFA.com |website=UEFA.com |publisher=Union of European Football Associations |archive-url=https://web.archive.org/web/20190709234504/https://helpcenter.uefa.com/hc/en-gb/articles/115005998469-How-do-I-switch-to-another-language-version-of-UEFA-com- |archive-date=9 July 2019 |access-date=29 April 2021 }}</ref>
+| leader_title        = [[List of presidents of UEFA|President]]
+| leader_name         = [[Aleksander Čeferin]]<ref>{{cite news |url=http://www.uefa.org/about-uefa/organisation/congress/news/newsid=2403250.html |title=Čeferin elected as UEFA President |website=UEFA.com |publisher=Union of European Football Associations |access-date=14 September 2016 |archive-url=https://web.archive.org/web/20160918001431/http://www.uefa.org/about-uefa/organisation/congress/news/newsid=2403250.html |archive-date=18 September 2016 |url-status=live }}</ref>
+| leader_title2       = First vice-president
+| leader_name2        = [[Gabriele Gravina]]
+| leader_title3       = Vice-presidents
+| leader_name3        = [[Hans-Joachim Watzke]]<br />[[Jesper Møller (football executive)|Jesper Møller Christensen]]<br />[[Laura McAllister]]<br/>[[Armand Duka]]
+| leader_title4       = General secretary
+| leader_name4        = [[Theodore Theodoridis]]
+| main_organ          = [[UEFA Congress]]
+| parent_organisation = [[FIFA]]
+| website             = {{URL|https://www.uefa.com/|uefa.com}}
+}}
+{{FIFA confederations}}
+
+The '''Union of European Football Associations''' ('''UEFA'''){{efn|English pronunciation: {{IPAc-en|j|uː|ˈ|eɪ|f|ə}} {{respell|yoo|AY|fə}}<br>{{langx|fr|Union des associations européennes de football}}&thinsp;{{efn|{{IPA|fr|ynjɔ̃ dez‿asɔsjɑsjɔ̃ øʁɔpeɛn də futbol|label=French pronounciation:|small=yes}}.}}<br>{{langx|de|Union der europäischen Fußballverbände}}&thinsp;{{efn|{{IPA|de|uˈni̯oːn deːɐ̯ ʔɔʏʁoˈpɛːɪʃn̩ ˈfuːsbalfɐˌbɛndə|label=German pronounciation:|small=yes}}.}}}} is the governing body of [[Association football|football]] in Europe, consisting of 55 national associations. It runs national and club competitions for men and women, such as the [[UEFA Champions League|Champions League]], the [[UEFA Women's Champions League|Women's Champions League]], the [[UEFA European Championship|European Championship]] and the [[UEFA Women's Championship|Women's European Championship]].
+
+== History and membership ==
+UEFA was officially inaugurated on 15 June 1954 in [[Basel]], Switzerland, after consultation between the Italian, French, and Belgian associations.<ref>{{Cite news |date=18 May 2020 |title=60 years at the heart of football |website=UEFA.com|publisher=Union of European Football Associations |url=https://www.uefa.com/MultimediaFiles/Download/EuroExperience/uefaorg/General/02/22/46/45/2224645_DOWNLOAD.pdf|access-date=18 May 2020|archive-url=https://web.archive.org/web/20190207025905/https://www.uefa.com/MultimediaFiles/Download/EuroExperience/uefaorg/General/02/22/46/45/2224645_DOWNLOAD.pdf|archive-date=7 February 2019|url-status=live}}</ref> At the founding meeting, 25 members were present. However, six other associations which were not present were still recognised as founding members, bringing the total of founding associations to 31.<ref>{{cite web |last=Vieli |first=André |location=Nyon |url=https://www.uefa.com/MultimediaFiles/Download/EuroExperience/uefaorg/General/02/22/46/45/2224645_DOWNLOAD.pdf |title=UEFA: 60 years at the heart of football |website=UEFA.com|publisher=Union of European Football Associations |page=169 |year=2014 |access-date=13 May 2020 |archive-url=https://web.archive.org/web/20190207025905/https://www.uefa.com/MultimediaFiles/Download/EuroExperience/uefaorg/General/02/22/46/45/2224645_DOWNLOAD.pdf |archive-date=7 February 2019 |url-status=live}}</ref> UEFA grew to more than 50 members by the mid-1990s, as new associations were born out of the fragmentation of the Soviet Union, Yugoslavia and Czechoslovakia into their constituent states. UEFA's main headquarters after its foundation were located in Paris, but moved to [[Bern]] in 1960. Finally, they moved to [[Nyon]], Switzerland, in 1995, opening the organisation's current headquarters in 1999.<ref>{{cite news |title=UEFA marks ten years at headquarters |url=https://www.uefa.com/news/01de-0f8601b48d72-c2b80e6cab2d-1000--uefa-marks-ten-years-at-headquarters/ |website=UEFA.com|publisher=Union of European Football Associations |date=2 October 2009 |accessdate=31 August 2021}}</ref>
+
+=== Current members ===
+UEFA membership coincides for the most part with recognition as a [[sovereign state|sovereign country]] in Europe (48 out of 55 members are sovereign UN member states), although there are some exceptions. One UN member state (Monaco) and one UN General Assembly non-member observer state (Vatican City) are not members. Some UEFA members are not sovereign states, but form part of a larger recognised sovereign state in the context of international law. These include England, Northern Ireland, Scotland, and Wales ([[constituent countries of the United Kingdom|UK constituent countries]]); Gibraltar ([[British Overseas Territories|UK overseas territory]]); Faroe Islands ([[Danish Realm]]); and Kosovo ([[International recognition of Kosovo|state with limited recognition]]). In the context of these countries, sports governance tends to be carried out at the territorial level coterminous with the UEFA member entity. However, UEFA have declined membership to other [[polity|polities]] like [[Jersey]].<ref>{{cite news |url=https://www.reuters.com/article/uk-soccer-uefa-jersey-idUKKCN1GA1B9 |first1= Brian |last1=Homewood |title=Jersey fails in bid to join UEFA |newspaper=Reuters |date=26 February 2018}}</ref>
+
+Some UEFA members are transcontinental states (Azerbaijan, Georgia, Kazakhstan, Russia, and Turkey) and others are considered part of Europe both culturally and politically (Turkey, Cyprus, and Armenia). Countries which had been members of the [[Asian Football Confederation]] (AFC) were also admitted to the European football association, such as Israel (because it had been banned from the AFC group in 1974) and Kazakhstan. Involving clubs, some UEFA member associations allow teams from outside their association's main territory to take part in their "domestic" competition, for example, [[AS Monaco FC|AS Monaco]] in the French League, various Welsh clubs in the English leagues, English-based [[The New Saints]] in the Welsh League, or [[Derry City F.C.|Derry City]], situated in Northern Ireland, plays in the Republic of Ireland-based [[League of Ireland]].<ref>{{Cite news |url=https://www.rte.ie/brainstorm/2019/0206/1027990-derry-city-fc-and-brexit/ |title=Derry City and Brexit: hard border politics, soft border football |work=RTE |first1=Conor |last1=Murray |date=7 February 2019}}</ref><ref>{{Cite news |url=https://www.theguardian.com/football/2019/feb/14/derry-city-brexit-league-of-ireland-northern-ireland-club |first1=Ewan |last1=Murray |title='We just want to watch football': Derry City caught in Brexit chaos |work=The Guardian |date=14 February 2019}}</ref>
+
+On 28 February 2022, due to the [[2022 Russian invasion of Ukraine]] and in accordance with a recommendation by the [[International Olympic Committee]] (IOC), the UEFA suspended the participation of Russia.<ref>{{Cite news |title=Ukraine crisis: Fifa and Uefa suspend all Russian clubs and national teams |first1=Dan |last1=Roan |first2=Simon |last2=Stone |work=BBC Sport |url=https://www.bbc.com/sport/athletics/60560567 |access-date=28 February 2022 |url-status=live |archive-url=https://web.archive.org/web/20220228144323/https://www.bbc.com/sport/athletics/60560567 |archive-date= 28 February 2022 }}</ref><ref name="fifa-uefa">{{cite press release |url=https://www.fifa.com/tournaments/mens/worldcup/qatar2022/media-releases/fifa-uefa-suspend-russian-clubs-and-national-teams-from-all-competitions |title=FIFA/UEFA suspend Russian clubs and national teams from all competitions |work=[[FIFA]] |date=28 February 2022 |access-date=28 February 2022 |url-status=dead |archive-url=https://web.archive.org/web/20220228173247/https://www.fifa.com/tournaments/mens/worldcup/qatar2022/media-releases/fifa-uefa-suspend-russian-clubs-and-national-teams-from-all-competitions |archive-date= 28 February 2022 }}</ref> The [[Russian Football Union]] unsuccessfully appealed the UEFA ban to the [[Court of Arbitration for Sport]], which upheld the ban.<ref>{{Cite web |url=https://www.espn.com/soccer/russia-rus/story/4619546/cas-reject-russias-appeal-over-world-cup-ban-after-ukraine-invasion |title=Russia World Cup ban appeal rejected by CAS |date=18 March 2022 |website=ESPN.com}}</ref><ref>{{cite web |url=https://www.tas-cas.org/fileadmin/user_upload/8709_reasoned_OPM__publication_.pdf |title=CAS 2022/A/8709 |archive-url=https://web.archive.org/web/20220415162803/https://www.tas-cas.org/fileadmin/user_upload/8709_reasoned_OPM__publication_.pdf |archive-date=15 April 2022 |url-status=live}}</ref> On 26 September 2023 the ban was lifted for the [[Russia national under-17 football team|Russia U-17 team]] enabling them to complete in the [[2024 UEFA European Under-17 Championship|2024 Euro U-17]] with UEFA saying "by banning children from our competitions, we not only fail to recognise and uphold a fundamental right for their holistic development but we directly discriminate against them". The lifting of the ban also applied to all teams, men and women, of underage players.<ref>{{cite news |url=https://www.theguardian.com/football/2023/sep/26/uefa-ends-blanket-ban-on-russian-teams-by-allowing-under-17-teams-football-compete |title=Uefa ends blanket ban on Russian teams by allowing under-17 sides to compete |newspaper=The Guardian |date=26 September 2023 |last1=Ames |first1=Nick}}</ref> This was rejected by the FA of Ukraine, England, and Sweden, with all three threatening to boycott matches against Russia.<ref>{{cite web |url=https://www.bbc.com/sport/football/66954582.amp |title=Ukraine FA asks European teams not to play Russia U17s |date=28 September 2023 |work=BBC Sport}}</ref>
+
+==Executive committee==
+The UEFA executive committee comprises the UEFA president and up to 19 other members: 16 elected by the UEFA Congress (including at least two female members), two by [[European Football Clubs]] and one by the [[European Leagues]]. All members hold the same rights and duties<ref>{{cite web |url=https://www.uefa.com/about/how-we-work/executive-committee/ |title=UEFA Executive Committee |publisher=UEFA |access-date=30 January 2024 }}</ref>
+
+{{col-begin}}
+{{col-break}}
+'''[[List of Presidents of UEFA|President]]'''
+* {{flagicon|SVN}} [[Aleksander Čeferin]]
+
+'''Vice-presidents'''
+* {{flagicon|ALB}} [[Armand Duka]]
+* {{flagicon|GER}} [[Hans-Joachim Watzke]]
+* {{flagicon|DEN}} [[Jesper Møller (football executive)|Jesper Møller]]
+* {{flagicon|ITA}} [[Gabriele Gravina]], first vice-president
+* {{flagicon|WAL}} [[Laura McAllister]]
+
+'''Members'''
+* {{flagicon|CZE}} [[Petr Fousek (football executive)|Petr Fousek]]
+* {{flagicon|FRA}} [[Philippe Diallo]]
+* {{flagicon|GEO}} [[Levan Kobiashvili]]
+* {{flagicon|NOR}} [[Lise Klaveness]]
+* {{flagicon|CRO}} [[Marijan Kustić]]
+* {{flagicon|FIN}} [[Ari Lahti]]
+* {{flagicon|ESP}} [[Rafael Louzán]]
+* {{flagicon|ARM}} [[Armen Melikbekyan]]
+* {{flagicon|NED}} [[Frank Paauw]]
+* {{flagicon|ISR}} [[Moshe Zuares]]
+* {{flagicon|EST}} [[Aivar Pohlak]]
+* {{flagicon|SUI}} [[Claudius Schäfer]], European Leagues representative
+* {{flagicon|ESP}} [[Miguel Ángel Gil Marín]], EFC representative
+* {{flagicon|QAT}} [[Nasser Al-Khelaifi]], EFC representative
+* {{Flag icon|FRA}} [[David Terrier]], FIFPRO Europe representative
+{{col-break}}
+'''General secretary'''
+* {{flagicon|GRE}} [[Theodore Theodoridis]]
+'''FIFA Council – European members'''
+* {{flagicon|HUN}} [[Sándor Csányi (banker)|Sándor Csányi]], UEFA treasurer
+* {{Flag icon|ENG}} [[Debbie Hewitt]], FIFA vice-president
+* {{Flag icon|BEL}} [[Pascale Van Damme]]
+* {{Flag icon|MNE}} [[Dejan Savićević]]
+* {{Flag icon|CYP}} [[George Koumas]]
+* {{Flag icon|ROU}} [[Răzvan Burleanu]]
+* {{Flag icon|GER}} [[Bernd Neuendorf]]
+{{col-end}}
+
+== List of UEFA office holders ==
+;List of presidents of UEFA
+{{Main|List of presidents of UEFA}}
+
+{|class="wikitable"
+!President!!Nationality!!Term
+|-
+|[[Ebbe Schwartz]] || {{DEN}} || 1954–1962
+|-
+|[[Gustav Wiederkehr]] || {{SUI}} || 1962–1972
+|-
+|[[Sándor Barcs]] || {{HUN}} || 1972–1973 (acting)
+|-
+|[[Artemio Franchi]] || {{ITA}} || 1973–1983
+|-
+|[[Jacques Georges]] || {{FRA}} || 1983–1990
+|-
+|[[Lennart Johansson]] || {{SWE}} || 1990–2007
+|-
+|[[Michel Platini]] || {{FRA}} || 2007–2015
+|-
+|[[Ángel María Villar]] || {{ESP}} || 2015–2016 (acting)
+|-
+|[[Aleksander Čeferin]] || {{SVN}} || 2016–present
+|}
+
+;List of secretaries general of UEFA
+
+{{legend|#e0ffe0|Chief Executive}}
+{|class="wikitable"
+!Secretary general!!Nationality!!Term
+|-
+|[[Henri Delaunay]] || {{FRA}} || 1954–1955
+|-
+|[[Pierre Delaunay]] || {{FRA}} || 1955–1960
+|-
+|[[Hans Bangerter]] || {{SUI}} || 1960–1989
+|-
+|rowspan="2"|[[Gerhard Aigner]] ||rowspan="2"|{{GER}} || 1989–1999
+|- style="background:#e0ffe0
+| 1999–2003
+|- style="background:#e0ffe0
+|[[Lars-Christer Olsson]] || {{SWE}} || 2003–2007
+|- style="background:#e0ffe0
+|[[Gianni Infantino]] || {{SUI}}<br />{{ITA}} || 2007
+|-
+|[[David Taylor (football administrator)|David Taylor]] || {{SCO}} || 2007–2009
+|-
+|[[Gianni Infantino]] || {{SUI}}<br />{{ITA}} || 2009–2016
+|-
+|[[Theodore Theodoridis]] || {{GRE}} || 2016–present
+|}
+
+== Members ==
+{|class="wikitable sortable" style="text-align:center"
+! [[List of FIFA country codes|Code]]!! Association !! class="unsortable"|National teams !! Founded !! FIFA<br />affiliation !! UEFA<br />affiliation !! [[International Olympic Committee|IOC]]<br />[[National Olympic Committee|member]]
+|-
+| ALB ||style="text-align:left"| {{fba|Albania}} || {{flatlist|1={{nft links|Albania|sublist_style=font-size:90%}}}}
+| 1930 || 1932 || 1954 || {{yes}}
+|-
+| AND ||style="text-align:left"| {{fba|Andorra}} || {{flatlist|1={{nft links|Andorra|sublist_style=font-size:90%}}}}
+| 1994 || 1996 || 1996 || {{yes}}
+|-
+| ARM ||style="text-align:left"| {{fba|Armenia}} || {{flatlist|1={{nft links|Armenia|sublist_style=font-size:90%}}}}
+| 1992 || 1992 || 1992 || {{yes}}
+|-
+| AUT ||style="text-align:left"| {{fba|Austria}} || {{flatlist|1={{nft links|Austria|sublist_style=font-size:90%}}}}
+| 1904 || 1905 || 1954 || {{yes}}
+|-
+| AZE ||style="text-align:left"| {{fba|Azerbaijan}} || {{flatlist|1={{nft links|Azerbaijan|sublist_style=font-size:90%}}}}
+| 1992 || 1994 || 1994 || {{yes}}
+|-
+| BLR ||style="text-align:left"| {{fba|Belarus}} || {{flatlist|1={{nft links|Belarus|sublist_style=font-size:90%}}}}
+| 1989 || 1992 || 1993 || {{yes}}
+|-
+| BEL ||style="text-align:left"| {{fba|Belgium}} || {{flatlist|1={{nft links|Belgium|sublist_style=font-size:90%}}}}
+| 1895 || 1904 || 1954 || {{yes}}
+|-
+| BIH ||style="text-align:left"| {{fba|Bosnia and Herzegovina}} || {{flatlist|1={{nft links|Bosnia and Herzegovina|sublist_style=font-size:90%}}}}
+| 1920 || 1996 || 1998 || {{yes}}
+|-
+| BUL ||style="text-align:left"| {{fba|Bulgaria}} || {{flatlist|1={{nft links|Bulgaria|sublist_style=font-size:90%}}}}
+| 1923 || 1924 || 1954 || {{yes}}
+|-
+| CRO ||style="text-align:left"| {{fba|Croatia}} || {{flatlist|1={{nft links|Croatia|sublist_style=font-size:90%}}}}
+| 1912 || 1941 || 1993 || {{yes}}
+|-
+| CYP ||style="text-align:left"| {{fba|Cyprus}} || {{flatlist|1={{nft links|Cyprus|sublist_style=font-size:90%}}}}
+| 1934 || 1948 || 1962 || {{yes}}
+|-
+| CZE ||style="text-align:left"| {{fba|Czech Republic}} || {{flatlist|1={{nft links|Czech Republic|sublist_style=font-size:90%}}}}
+| 1901 || 1907 || 1954 || {{yes}}
+|-
+| DEN ||style="text-align:left"| {{fba|Denmark}} || {{flatlist|1={{nft links|Denmark|sublist_style=font-size:90%}}}}
+| 1889 || 1904 || 1954 || {{yes}}
+|-
+| ENG ||style="text-align:left"| {{fba|England}} || {{flatlist|1={{nft links|England|sublist_style=font-size:90%}}}}
+| 1863 || 1905 || 1954 || {{no}}{{efn|name="gb"|Part of the [[British Olympic Association]].}}
+|-
+| EST ||style="text-align:left"| {{fba|Estonia}} || {{flatlist|1={{nft links|Estonia|sublist_style=font-size:90%}}}}
+| 1921 || 1923 || 1992 || {{yes}}
+|-
+| FRO ||style="text-align:left"| {{fba|Faroe Islands}} || {{flatlist|1={{nft links|Faroe Islands|sublist_style=font-size:90%}}}}
+| 1979 || 1988 || 1990 || {{no}}{{efn|Part of the [[National Olympic Committee and Sports Confederation of Denmark]].}}
+|-
+| FIN ||style="text-align:left"| {{fba|Finland}} || {{flatlist|1={{nft links|Finland|sublist_style=font-size:90%}}}}
+| 1907 || 1908 || 1954 || {{yes}}
+|-
+| FRA ||style="text-align:left"| {{fba|France}} || {{flatlist|1={{nft links|France|sublist_style=font-size:90%}}}}
+| 1919{{efn|name="FRA-founded"|Founded as ''Comité Français Interfédéral'' in 1907, a predecessor to the current federation.}} || 1904{{efn|name="FRA-FIFA"|The current French FA, the French Football Federation (in its previous incarnation, the ''Comité Français Interfédéral''), replaced the [[Union des Sociétés Françaises de Sports Athlétiques|USFSA]] in 1907.}} || 1954 || {{yes}}
+|-
+| GEO ||style="text-align:left"| {{fba|Georgia (country)}} || {{flatlist|1={{nft links|Georgia|sublist_style=font-size:90%}}}}
+| 1990 || 1992 || 1992 || {{yes}}
+|-
+| GER ||style="text-align:left"| {{fba|Germany}} || {{flatlist|1={{nft links|Germany|sublist_style=font-size:90%}}}}
+| 1900 || 1904 || 1954 || {{yes}}
+|-
+| GIB ||style="text-align:left"| {{fba|Gibraltar}} || {{flatlist|1={{nft links|Gibraltar|sublist_style=font-size:90%}}}}
+| 1895 || 2016 || 2013 || {{no}}{{efn|name="gb"}}
+|-
+| GRE ||style="text-align:left"| {{fba|Greece}} || {{flatlist|1={{nft links|Greece|sublist_style=font-size:90%}}}}
+| 1926 || 1927 || 1954 || {{yes}}
+|-
+| HUN ||style="text-align:left"| {{fba|Hungary}} || {{flatlist|1={{nft links|Hungary|sublist_style=font-size:90%}}}}
+| 1901 || 1906 || 1954 || {{yes}}
+|-
+| ISL ||style="text-align:left"| {{fba|Iceland}} || {{flatlist|1={{nft links|Iceland|sublist_style=font-size:90%}}}}
+| 1947{{efn|name="ISL"|Icelandic top-flight club football dates back to 1912 or 35 years prior to founding of KSI. All titles pre-1947 are recognised by KSI}} || 1947 || 1954 || {{yes}}
+|-
+| ISR ||style="text-align:left"| {{fba|Israel}}{{efn|name="ISR"|Former member of the Asian Football Confederation (1954–1974), joined UEFA after political pressure from Arab and Muslim members that refused to play against them. See also [[Foreign relations of Israel]] and [[International recognition of Israel]].}} || {{flatlist|1={{nft links|Israel|sublist_style=font-size:90%}}}}
+| 1928 || 1929 || 1994{{efn|name="ISR Club"|In 1992 Israel joined UEFA as an associate member, and thereafter Israeli clubs have played in the various UEFA club competitions, while the national teams have played in UEFA championships.}} || {{yes}}
+|-
+| ITA ||style="text-align:left"| {{fba|Italy}} || {{flatlist|1={{nft links|Italy|sublist_style=font-size:90%}}}}
+| 1898 || 1905 || 1954 || {{yes}}
+|-
+| KAZ ||style="text-align:left"| {{fba|Kazakhstan}}{{efn|name="KAZ"|Former member of the Asian Football Confederation (1994–2002), joined UEFA.}} || {{flatlist|1={{nft links|Kazakhstan|sublist_style=font-size:90%}}}}
+| 1994 || 1994 || 2002 || {{yes}}{{efn|name="oca"|Kazakhstan is a member of the [[Olympic Council of Asia]] rather than the [[European Olympic Committees]].}}
+|-
+| KOS || style="text-align:left"| {{fba|Kosovo}} || {{flatlist|1={{nft links|Kosovo|sublist_style=font-size:90%}}}}
+| 2008 || 2016 || 2016 || {{yes}}
+|-
+| LVA ||style="text-align:left"| {{fba|Latvia}} || {{flatlist|1={{nft links|Latvia|sublist_style=font-size:90%}}}}
+| 1921 || 1922 || 1992 || {{yes}}
+|-
+| LIE ||style="text-align:left"| {{fba|Liechtenstein}} || {{flatlist|1={{nft links|Liechtenstein|sublist_style=font-size:90%}}}}
+| 1934 || 1974 || 1974 || {{yes}}
+|-
+| LTU ||style="text-align:left"| {{fba|Lithuania}} || {{flatlist|1={{nft links|Lithuania|sublist_style=font-size:90%}}}}
+| 1922 || 1923 || 1992 || {{yes}}
+|-
+| LUX ||style="text-align:left"| {{fba|Luxembourg}} || {{flatlist|1={{nft links|Luxembourg|sublist_style=font-size:90%}}}}
+| 1908 || 1910 || 1954 || {{yes}}
+|-
+| MLT ||style="text-align:left"| {{fba|Malta}} || {{flatlist|1={{nft links|Malta|sublist_style=font-size:90%}}}}
+| 1900 || 1959 || 1960 || {{yes}}
+|-
+| MDA ||style="text-align:left"| {{fba|Moldova}} || {{flatlist|1={{nft links|Moldova|sublist_style=font-size:90%}}}}
+| 1990 || 1994 || 1993 || {{yes}}
+|-
+| MNE ||style="text-align:left"| {{fba|Montenegro}} || {{flatlist|1={{nft links|Montenegro|sublist_style=font-size:90%}}}}
+| 1931 || 2007 || 2007 || {{yes}}
+|-
+| NED ||style="text-align:left"| {{fba|Netherlands}} || {{flatlist|1={{nft links|Netherlands|sublist_style=font-size:90%}}}}
+| 1889 || 1904 || 1954 || {{yes}}
+|-
+| MKD ||style="text-align:left"| {{fba|North Macedonia}} || {{flatlist|1={{nft links|North Macedonia|sublist_style=font-size:90%}}}}
+| 1926 || 1994 || 1994 || {{yes}}
+|-
+| NIR ||style="text-align:left"| {{fba|Northern Ireland}} || {{flatlist|1={{nft links|Northern Ireland|sublist_style=font-size:90%}}}}
+| 1880 || 1911 || 1954 || {{no}}{{efn|name="gb"}}
+|-
+| NOR ||style="text-align:left"| {{fba|Norway}} || {{flatlist|1={{nft links|Norway|sublist_style=font-size:90%}}}}
+| 1902 || 1908 || 1954 || {{yes}}
+|-
+| POL ||style="text-align:left"| {{fba|Poland}} || {{flatlist|1={{nft links|Poland|sublist_style=font-size:90%}}}}
+| 1919{{efn|name="POL-founded"|Founded as ''Związek Polski Piłki Nożnej'' (part of the disintegrated Austrian Football Union) in 1911, a predecessor to the current federation.}}|| 1923 || 1954 || {{yes}}
+|-
+| POR ||style="text-align:left"| {{fba|Portugal}} || {{flatlist|1={{nft links|Portugal|sublist_style=font-size:90%}}}}
+| 1914 || 1923 || 1954 || {{yes}}
+|-
+| IRL ||style="text-align:left"| {{fba|Republic of Ireland}} || {{flatlist|1={{nft links|Republic of Ireland|sublist_style=font-size:90%}}}}
+| 1921 || 1923 || 1954 || {{yes}}
+|-
+| ROU ||style="text-align:left"| {{fba|Romania}} || {{flatlist|1={{nft links|Romania|sublist_style=font-size:90%}}}}
+| 1909 || 1923 || 1954 || {{yes}}
+|-
+| RUS ||style="text-align:left"| {{fba|Russia}} || {{flatlist|1={{nft links|Russia|sublist_style=font-size:90%}}}}
+| 1912 || 1912 || 1954 || {{yes}}
+|-
+| SMR ||style="text-align:left"| {{fba|San Marino}} || {{flatlist|1={{nft links|San Marino|sublist_style=font-size:90%}}}}
+| 1931 || 1988 || 1988 || {{yes}}
+|-
+| SCO ||style="text-align:left"| {{fba|Scotland}} || {{flatlist|1={{nft links|Scotland|sublist_style=font-size:90%}}}}
+| 1873 || 1910 || 1954 || {{no}}{{efn|name="gb"}}
+|-
+| SRB ||style="text-align:left"| {{fba|Serbia}} || {{flatlist|1={{nft links|Serbia|sublist_style=font-size:90%}}}}
+| 1919 || 1923 || 1954 || {{yes}}
+|-
+| SVK ||style="text-align:left"| {{fba|Slovakia}} || {{flatlist|1={{nft links|Slovakia|sublist_style=font-size:90%}}}}
+| 1938 || 1939 || 1993 || {{yes}}
+|-
+| SVN ||style="text-align:left"| {{fba|Slovenia}} || {{flatlist|1={{nft links|Slovenia|sublist_style=font-size:90%}}}}
+| 1920 || 1992|| 1992 || {{yes}}
+|-
+| ESP ||style="text-align:left"| {{fba|Spain}} || {{flatlist|1={{nft links|Spain|sublist_style=font-size:90%}}}}
+| 1909 || 1904 || 1954 || {{yes}}
+|-
+| SWE ||style="text-align:left"| {{fba|Sweden}} || {{flatlist|1={{nft links|Sweden|sublist_style=font-size:90%}}}}
+| 1904 || 1904 || 1954 || {{yes}}
+|-
+| SUI ||style="text-align:left"| {{fba|Switzerland}} || {{flatlist|1={{nft links|Switzerland|sublist_style=font-size:90%}}}}
+| 1895 || 1904 || 1954 || {{yes}}
+|-
+| TUR ||style="text-align:left"| {{fba|Turkey}} || {{flatlist|1={{nft links|Turkey|sublist_style=font-size:90%}}}}
+| 1923 || 1923 || 1962 || {{yes}}
+|-
+| UKR ||style="text-align:left"| {{fba|Ukraine}} || {{flatlist|1={{nft links|Ukraine|sublist_style=font-size:90%}}}}
+| 1991 || 1992 || 1992 || {{yes}}
+|-
+| WAL ||style="text-align:left"| {{fba|Wales}} || {{flatlist|1={{nft links|Wales|sublist_style=font-size:90%}}}}
+| 1876 || 1910 || 1954 || {{no}}{{efn|name="gb"}}
+|}
+
+===Aspiring future members===
+* {{fba|Jersey}}: In December 2015, an application was submitted to UEFA to allow Jersey to take part in international matches,<ref>{{Cite news |url=https://www.bbc.co.uk/sport/football/35049771 |title=Jersey bids to join Uefa to play international football |last=Pilnick |first=Brent |work=BBC Sport |access-date=26 July 2016 |archive-date=4 March 2018 |archive-url=https://web.archive.org/web/20180304085717/http://www.bbc.co.uk/sport/football/35049771 |url-status=live }}</ref> following on from [[Gibraltar national football team|Gibraltar]]'s admission two years earlier.<ref>{{Cite news |url=https://www.bbc.co.uk/sport/football/22657481 |title=Gibraltar given full Uefa membership at London Congress |work=BBC Sport |access-date=26 July 2016 |archive-date=18 January 2016 |archive-url=https://web.archive.org/web/20160118023551/http://www.bbc.co.uk/sport/0/football/22657481 |url-status=live }}</ref> In October 2016, Jersey's bid to join UEFA was rejected,<ref>{{Cite news |url=https://www.bbc.co.uk/sport/football/37543139 |title=Jersey to appeal to CAS after Uefa rejects membership application |work=BBC Sport |access-date=5 October 2016 |archive-date=6 October 2016 |archive-url=https://web.archive.org/web/20161006200217/http://www.bbc.co.uk/sport/football/37543139 |url-status=live }}</ref> but this decision was appealed to the [[Court of Arbitration for Sport]] (CAS) in June 2017.<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/39058094 |title=Uefa should have second tier for 'smaller' national teams, says Jersey FA boss |work=BBC Sport |date=22 February 2017 |access-date=13 February 2018 |archive-date=9 October 2017 |archive-url=https://web.archive.org/web/20171009065204/http://www.bbc.co.uk/sport/football/39058094 |url-status=live }}</ref> In September 2017, the CAS ordered the [[UEFA Congress]] to hear Jersey's case.<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/41130338 |title=Court of Arbitration in Sport orders Jersey case to be heard by Uefa congress |work=BBC Sport |date=28 September 2017 |access-date=20 October 2018 |archive-date=15 September 2018 |archive-url=https://web.archive.org/web/20180915005601/https://www.bbc.co.uk/sport/football/41130338 |url-status=live }}</ref> In February 2018 a majority of the member associations of UEFA voted against admitting Jersey as a member.<ref>{{cite news |url=https://www.bbc.com/sport/football/43183023 |title=Jersey: Uefa congress rejects application to become international football nation |work=BBC Sport |date=26 February 2018 |access-date=20 October 2018 |archive-date=7 July 2021 |archive-url=https://web.archive.org/web/20210707230024/https://www.bbc.com/sport/football/43183023 |url-status=live }}</ref>
+
+=== "Special Zone" ===
+In 2014 {{flagicon|Crimea}} [[Crimea]] was designated as a special zone by UEFA until further notice.<ref>{{cite news |url=https://www.irishexaminer.com/sport/soccer/arid-20301072.html |title=Crimea designated ‘special zone’ by Uefa |work=Ieish Examiner Sport |access-date=16 May 2026 }}</ref>
+
+=== Former members ===
+{|class="wikitable sortable" style="text-align:center;"
+! Association
+! Year
+! Note
+|-
+| align="left"|[[File:Flag of Saar (1947–1956).svg|border|23px]] [[Saarland Football Association|Saarland]]
+| 1954–1956
+| rowspan=2|{{efn|Joined the [[German Football Association]].}}
+|-
+| align="left"|{{flagicon|East Germany}} [[Deutscher Fußball-Verband der DDR|East Germany]]
+| 1954–1990
+|-
+| align="left"|{{flagicon|Soviet Union}} [[Football Federation of the Soviet Union|Soviet Union]]<br>{{fb|CIS}}
+| 1954–1991<br>1992
+| {{efn|In 1992, the Soviet Union was dissolved into 15 republics (10 in Europe and 5 in Asia) with the [[Russian Football Union]] being acknowledged as the direct successor of the Football Federation of the Soviet Union; in spring and summer of 1992 it was represented by teams of the [[Commonwealth of Independent States]].}}
+|-
+| align="left"|{{flagicon|Czechoslovakia}} [[Czechoslovak Football Association|Czechoslovakia]]
+| 1954–1993
+| {{efn|Became [[Football Association of the Czech Republic]] and [[Slovak Football Association]] with both football associations acknowledged as its direct successor.}}
+|-
+| align="left"|{{flagicon|Yugoslavia}} [[Football Association of Yugoslavia|Yugoslavia]]<br>{{flagicon|Serbia and Montenegro}} [[Football Association of Yugoslavia|FR Yugoslavia]]<br />{{flagicon|Serbia and Montenegro}} [[Football Association of Serbia and Montenegro|Serbia and Montenegro]]
+| 1954–1992<br />1992–2003<br />2003–2006
+| {{efn|In 1992, the Socialist Federal Republic of Yugoslavia collapsed, with various federal republics becoming independent states. Serbia and Montenegro, which remained in SR Yugoslavia, formed a new, third Yugoslavia, called the Federal Republic of Yugoslavia. There was no direct successor of the Football Association of Yugoslavia. Four other successor republics formed their own football organisations.<br />FR Yugoslavia was renamed the State Union of [[Serbia and Montenegro]] in 2003. In 2006, it was dissolved and the [[Football Association of Serbia]] became the successor of FA Yugoslavia. Montenegro created the [[Football Association of Montenegro]].}}
+|}
+
+== Competitions ==
+{{Main|UEFA competitions}}
+
+{{See also|List of association football competitions|FIFA International Match Calendar}}
+
+=== UEFA continental competitions ===
+{{col-begin}}
+{{col-break}}
+'''National teams:'''
+;Men
+* [[UEFA European Championship]]
+* [[UEFA Nations League]]
+* [[UEFA European Under-21 Championship]]
+* [[UEFA European Under-19 Championship]]
+* [[UEFA European Under-17 Championship]]
+* [[UEFA Futsal Championship]]
+* [[UEFA Under-19 Futsal Championship]]
+;Women
+* [[UEFA Women's Championship]]
+* [[UEFA Women's Nations League]]
+* [[UEFA Women's Under-19 Championship]]
+* [[UEFA Women's Under-17 Championship]]
+* [[UEFA Women's Futsal Championship]]
+{{col-break}}
+'''Clubs:'''
+;Men
+* [[UEFA Champions League]]
+* [[UEFA Europa League]]
+* [[UEFA Conference League]]
+* [[UEFA Super Cup]]
+* [[UEFA Youth League]]
+* [[UEFA Futsal Champions League]]
+;Women
+* [[UEFA Women's Champions League]]
+* [[UEFA Women's Europa Cup]]
+{{col-break}}
+'''Amateur:'''
+* [[UEFA Regions' Cup]]
+{{col-end}}
+'''Defunct'''
+{{See also|Category:Defunct association football competitions}}
+{{col-begin}}
+{{col-break}}
+'''National teams:'''
+;Men
+* [[UEFA Under-21 Futsal Tournament]]
+{{col-break}}
+'''Clubs:'''
+;Men
+* [[UEFA Cup Winners' Cup]]
+* [[UEFA Intertoto Cup]]
+{{col-break}}
+'''Amateur:'''
+;Men
+* [[UEFA Amateur Cup]]
+{{col-end}}
+
+UEFA runs official international competitions in Europe and some countries of [[North Asia|Northern]], [[Southwest Asia|Southwestern]] and [[Central Asia|Central]] Asia for national teams and professional clubs, known as ''[[UEFA competitions]]'', some of which are regarded as the world's most prestigious tournaments.
+
+UEFA is the organiser of two of the most prestigious competitions in international football: The [[UEFA European Championship]] and the [[UEFA Nations League]]. The main competition for men's national teams is the [[UEFA European Championship]] (also known as the Euro), which started in 1958, with the first finals in [[1960 European Nations' Cup|1960]], and was known as the European Nations Cup until 1964. The [[UEFA Nations League]] is the second tournament of UEFA and was introduced in 2018. The tournament largely replaced the international friendly matches previously played on the FIFA International Match Calendar. It will be played every two years.
+
+UEFA also runs national competitions at [[UEFA European Under-21 Championship|Under-21]], [[UEFA European Under-19 Championship|Under-19]] and [[UEFA European Under-17 Championship|Under-17]] levels. For women's national teams, UEFA operates the [[UEFA Women's Championship]] for senior national sides as well as [[UEFA Women's Under-19 Championship|Women's Under-19]] and [[UEFA Women's Under-17 Championship|Women's Under-17]] Championships.
+
+=== World, Olympic and intercontinental competitions ===
+{{col-begin}}
+{{col-break}}
+'''Intercontinental national teams:'''
+* [[Finalissima|CONMEBOL–UEFA Cup of Champions]]
+* [[Women's Finalissima]]
+* [[Futsal Finalissima]]
+''Defunct''
+* [[UEFA–CAF Meridian Cup]]
+{{col-break}}
+'''Intercontinental clubs:'''
+* [[UEFA–CONMEBOL Club Challenge]]
+* [[Under-20 Intercontinental Cup]]
+''Defunct''
+* [[Intercontinental Champions' Supercup]]
+* [[Intercontinental Cup (1960–2004)|Intercontinental Cup]]
+{{col-end}}
+
+Beside continental European competitions for national and their junior teams, the UEFA organises various qualification male and female tournaments among European national and their junior teams for World Cups (organised by FIFA) and Olympics (organised by IOC).
+
+UEFA also organised the [[UEFA–CAF Meridian Cup]] with [[Confederation of African Football|CAF]] for youth teams in an effort to boost youth football. UEFA launched the [[UEFA Regions' Cup]], for semi-professional teams representing their local region, in 1999. In [[futsal]] there is the [[UEFA Futsal Championship]] and [[UEFA Under-19 Futsal Championship]]. Despite the existence of UEFA's Futsal ''and'' Beach soccer committee, UEFA does not organise any beach soccer competitions. International and club beach soccer competitions for UEFA members are organised externally by [[Beach Soccer Worldwide]].
+
+The [[Italy national football team|Italian]], [[Germany national football team|German]], [[Spain national football team|Spanish]], [[France national football team|French]] and [[Russia national football team|Russian]]{{efn|Including results of the [[Soviet Union national football team|Soviet Union]].}} men's [[National sports team|national teams]] are the only teams to have won the European football championship in all categories.
+
+=== Club ===
+{{Further|List of UEFA club competition winners}}
+[[File:UEFA Members 2016.svg|thumb|upright=1.7|UEFA member countries by club competition entry entitlements, 2009/10]]
+
+The top-ranked UEFA competition is the [[UEFA Champions League]], which started in 1955 as the European Champion Clubs' Cup (or simply the European Cup) and initially only gathered the top team of each country; this competition has since been expanded to gather the top 1–4 teams of each country's league (the number of teams depend on that country's ranking and can be upgraded or downgraded).
+
+A second, lower-ranked competition is the [[UEFA Europa League]]. This competition, for national knockout cup winners and high-placed league teams, was launched by UEFA in 1971 as a successor of both the former UEFA Cup and the [[Inter-Cities Fairs Cup]] (also began in 1955). A third competition, the [[UEFA Cup Winners' Cup]], which started in 1960, was absorbed into the UEFA Cup (now UEFA Europa League) in 1999.
+
+In December 2018, UEFA announced the creation of a third club competition, later named the [[UEFA Europa Conference League]]. The competition features 32 teams in 8 groups of 4, with a knockout round between the second placed teams in Europa Conference League and the third placed teams in the Europa League, leading to a final 16 knockout stage featuring the eight group winners. The first edition of the competition was played in 2021–2022.<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/46421656 |title=Europa League 2 to begin in 2021 |work=[[BBC Sport]] }}</ref>
+
+In women's football UEFA also conducts the [[UEFA Women's Champions League]] for club teams. The competition was first held in 2001, and was known as the UEFA Women's Cup until 2009.
+
+The [[UEFA Super Cup]] pits the winners of the Champions League against the winners of the Europa League (previously the winners of the Cup Winners' Cup), and came into being in 1973.<ref>{{cite web |url=https://www.uefa.com/uefasupercup/history/ |title=History of the UEFA Super Cup |website=UEFA.com |publisher=Union of European Football Associations |access-date=21 August 2006 |archive-url=https://web.archive.org/web/20100701063110/http://www.uefa.com/uefasupercup/history/index.html |archive-date=1 July 2010 |url-status=live }}</ref><ref>{{cite web |title=1973: Ajax enjoy early success |url=https://www.uefa.com/uefasupercup/history/1973/ |website=UEFA.com |publisher=Union of European Football Associations |date=March 1974 |access-date=5 January 2016 }}</ref><ref>{{cite web |url=http://en.archive.uefa.com/competitions/ecwc/history/season=1971/intro.html |title=uefa.com – UEFA Cup Winners' Cup |website=UEFA.com |publisher=Union of European Football Associations |url-status=dead |archive-url=https://web.archive.org/web/20100503062850/http://en.archive.uefa.com/competitions/ecwc/history/season%3D1971/intro.html |archive-date=3 May 2010 }}</ref>
+
+The [[UEFA Intertoto Cup]] was a summer competition, previously operated by several Central European football associations, which was relaunched and recognised as [[UEFA club competition records|official UEFA club competition]] by UEFA in 1995.<ref>{{cite web |url=http://en.archive.uefa.com/competitions/intertotocup/history/index.html |title=History of the UEFA Intertoto Cup |website=UEFA.com |publisher=Union of European Football Associations |access-date=14 August 2009 |url-status=dead |archive-url=https://web.archive.org/web/20131208220406/http://en.archive.uefa.com/competitions/intertotocup/history/index.html |archive-date=8 December 2013 }}</ref> The last Intertoto Cup took place in 2008.
+
+The [[Intercontinental Cup (1960–2004)|European/South American Cup]] was jointly organised with [[CONMEBOL]] between the [[UEFA Champions League|Champions League]] and the [[Copa Libertadores]] winners.<ref>{{cite web |url=http://en.archive.uefa.com/competitions/eusa/history/index.html |title=History of the UEFA/CONMEBOL Intercontinental Cup |website=UEFA.com |publisher=Union of European Football Associations |access-date=14 August 2009 |url-status=dead |archive-url=https://web.archive.org/web/20131208213557/http://en.archive.uefa.com/competitions/eusa/history/index.html |archive-date=8 December 2013 }}</ref>
+
+Only [[List of UEFA club competition winners|five teams]]<ref>{{cite web |language=es |url=http://hemeroteca.elmundodeportivo.es/preview/2003/09/23/pagina-7/552332/pdf.html |title=Un dilema histórico |work=El Mundo Deportivo's Historical Archive |access-date=23 September 2003 |url-status=dead |archive-url=https://web.archive.org/web/20100326071942/http://hemeroteca.elmundodeportivo.es/preview/2003/09/23/pagina-7/552332/pdf.html |archive-date=26 March 2010 }}</ref><ref>{{Cite web |url=http://hemeroteca.mundodeportivo.com/preview/1987/03/20/pagina-34/1264069/pdf.html?search=ganadores+de+las+tres+competiciones+europeas |title=Edición del $dateTool.format('EEEE d MMMM yyyy', $document.date), Página $document.page – Hemeroteca – MundoDeportivo.com |website=hemeroteca.mundodeportivo.com |access-date=19 March 2022 |archive-date=30 June 2022 |archive-url=https://web.archive.org/web/20220630224218/http://hemeroteca.mundodeportivo.com/preview/1987/03/20/pagina-34/1264069/pdf.html?search=ganadores%20de%20las%20tres%20competiciones%20europeas |url-status=dead }}</ref> ([[Juventus FC|Juventus]], [[AFC Ajax|Ajax]], [[Manchester United F.C.|Manchester United]], [[FC Bayern Munich|Bayern Munich]] and [[Chelsea F.C.|Chelsea]]{{efn|[[Chelsea F.C.|Chelsea]] qualified for [[2012–13 UEFA Europa League|Europa League]]'s Round of 32 after finishing in third place in the group stage of the [[2012–13 UEFA Champions League|2012–13 Champions League]].}}) have [[UEFA club competition records#List of teams to have won the three main European club competitions|won each of the three main competitions]] (European Cup/UEFA Champions League, European Cup Winners' Cup/UEFA Cup Winners' Cup and UEFA Cup/UEFA Europa League),<ref>{{cite web |url=http://www.uefa.com/news/newsid=219635.html#the+with+golden+touch |title=The man with the golden touch |website=UEFA.com |publisher=Union of European Football Associations |access-date=27 August 2004 |archive-url=https://web.archive.org/web/20110430120135/http://www.uefa.com/news/newsid=219635.html |archive-date=30 April 2011 |url-status=dead }}</ref> a feat that is no longer possible for any team that did not win the Cup Winners' Cup. There are currently eight teams throughout Europe that have won two of the three trophies; all but one have won the Cup Winners' Cup, four require a win in the Champions League and four require a UEFA Europa League win.
+
+Until the first staging of the [[2021–22 UEFA Europa Conference League|UEFA Europa Conference League]] in 2022, Juventus of Italy was the only team in Europe to win all [[UEFA club competition records|UEFA's official championships and cups]]<ref name="official">{{cite web |url=http://www.uefa.com/competitions/supercup/news/kind=32/newsid=447085.html |title=List of European official clubs' cups and tournaments |website=UEFA.com |publisher=Union of European Football Associations |access-date=21 August 2006 |archive-url=https://web.archive.org/web/20071230020854/http://www.uefa.com/competitions/supercup/news/kind=32/newsid=447085.html |archive-date=30 December 2007 |url-status=dead }}</ref> and, in commemoration of achieving that feat, have received ''[[The UEFA Plaque]]'' by the Union of European Football Associations on 12 July 1988.<ref>{{cite news |language=es |url=http://hemeroteca.lavanguardia.es/preview/1988/07/13/pagina-53/33040569/pdf.html |title=Sorteo de las competiciones europeas de fútbol: el Fram de Reykjavic, primer adversario del F.C. Barcelona en la Recopa |newspaper=[[La Vanguardia]] |format=PDF |page=53 |date=13 July 1988 |access-date=15 November 2009 }}</ref><ref name="UEFA Plaque">{{cite web |url=http://archiviostorico.gazzetta.it/1997/maggio/24/Tutto_inizio_con_poesia_ga_0_9705246555.shtml |title=Tutto inizio' con un po' di poesia |work=gazzetta.it }}</ref>
+
+UEFA's premier [[futsal]] competition is the [[UEFA Futsal Cup]], a tournament started in 2001 which replaced the former [[Futsal European Clubs Championship]]. This event, despite enjoying a long and well-established tradition in the European futsal community, dating back to 1984, was never recognised as official by UEFA.
+
+There was an attempt to create a Europa League-style second tier women's club competition, which had been in discussion since 2021.<ref>{{cite news |url=https://www.skysports.com/football/news/28508/12259857/europa-league-style-competition-for-womens-football-among-proposals-from-european-club-association |title=Europa League-style competition for women's football among proposals from European Club Association |date=29 March 2021 |work=Sky Sports |access-date=29 September 2022 }}</ref> In December 2023, the attempt came into a fruition, with the first edition of the competition to be played in 2025–26.<ref>{{cite news |url=https://www.uefa.com/news-media/news/0288-199d52e851a2-5aae94448728-1000--new-uefa-women-s-club-system-explained/ |title=New UEFA Women's club football system explained |website=UEFA.com |publisher=Union of European Football Associations |date=4 December 2023 |access-date=4 December 2023 |archive-url=https://web.archive.org/web/20231204173817/https://www.uefa.com/insideuefa/news/0288-199d52e851a2-5aae94448728-1000--new-uefa-women-s-club-system-explained/ |archive-date=4 December 2023 |url-status=live }}</ref> In December 2024, the name of the competition, "UEFA Women's Europa Cup", was announced.<ref>{{cite web |url=https://www.uefa.com/news-media/news/0294-1c956e9c4351-308eb953ce0c-1000/ |title=Record Women's EURO 2025 prize money approved |publisher=UEFA |date=16 December 2024 |access-date=16 December 2024 }}</ref><ref>{{cite web |url=https://www.uefa.com/news-media/news/0294-1c95889ab17d-de7a668e4209-1000/ |title=Women's football to enter new era with UEFA Women's Europa Cup |publisher=UEFA |date=16 December 2024 |access-date=16 December 2024 }}</ref>
+
+=== Current title holders ===
+{{See also|Portal:Current events/Sports|{{CURRENTYEAR}} in association football|{{CURRENTYEAR}} in sports|FIFA International Match Calendar}}
+
+{| class="wikitable sortable"
+|-
+! Competition
+| width="1%" rowspan=1 style="background-color:#ffffff;"|
+! Year
+! Champions
+! Title
+! Runners-up
+| width="1%" rowspan=1 style="background-color:#ffffff;"|
+! Next edition
+|-
+! colspan="8" |Intercontinental (UEFA–[[CONMEBOL]])
+|-
+| [[Finalissima]]
+| rowspan="5" width="1%" style="background-color:#ffffff;" |
+| [[2022 Finalissima|2022]]
+| {{fb|ARG}}
+| 2nd
+| {{fb|ITA}}
+| rowspan="5" width="1%" style="background-color:#ffffff;" |
+| TBD
+|-
+| [[Women's Finalissima]]
+| [[2023 Women's Finalissima|2023]]
+| {{fbw|ENG}}
+| 1st
+| {{fbw|BRA}}
+| TBD
+|-
+| [[Under-20 Intercontinental Cup|U-20 Intercontinental Cup]]
+| [[2025 Under-20 Intercontinental Cup|2025]]
+| {{fbaicon|BRA}} [[CR Flamengo (youth)|Flamengo]]
+| 2nd
+| {{fbaicon|ESP}} [[FC Barcelona (youth)|Barcelona]]
+| TBD
+|-
+| [[Futsal Finalissima]]
+| [[2022 Futsal Finalissima|2022]]
+| {{futsal|POR}}
+| 1st
+| {{futsal|ESP}}
+| TBD
+|-
+! colspan="8" |Men's national teams
+|-
+| [[UEFA European Championship|European Championship]]
+| width="1%" rowspan=7 style="background-color:#ffffff;"|
+| [[UEFA Euro 2024|2024]]
+| {{fb|ESP}}
+| 4th
+| {{fb|ENG}}
+| width="1%" rowspan=7 style="background-color:#ffffff;"|
+| [[UEFA Euro 2028|2028]]
+|-
+| [[UEFA Nations League|Nations League]]
+| [[2024–25 UEFA Nations League|2024–25]]
+| {{fb|POR}}
+| 2nd
+| {{fb|ESP}}
+| [[2026–27 UEFA Nations League|2026–27]]
+|-
+| [[UEFA European Under-21 Championship|U-21 Championship]]
+| [[2025 UEFA European Under-21 Championship|2025]]
+| {{fbu|21|ENG}}
+| 4th
+| {{fbu|21|GER}}
+| [[2027 UEFA European Under-21 Championship|2027]]
+|-
+| [[UEFA European Under-19 Championship|U-19 Championship]]
+| [[2026 UEFA European Under-19 Championship|2026]]
+| {{fbu|19|ESP}}
+| 13th
+| {{fbu|19|GER}}
+| [[2027 UEFA European Under-19 Championship|2027]]
+|-
+| [[UEFA European Under-17 Championship|U-17 Championship]]
+| [[2026 UEFA European Under-17 Championship|2026]]
+| {{fbu|17|ITA}}
+| 3rd
+| {{fbu|17|BEL}}
+| [[2027 UEFA European Under-17 Championship|2027]]
+|-
+| [[UEFA Futsal Championship|Futsal Championship]]
+| [[UEFA Futsal Euro 2026|2026]]
+| {{futsal|ESP}}
+| 8th
+| {{futsal|POR}}
+| [[UEFA Futsal Euro 2030|2030]]
+|-
+| [[UEFA Under-19 Futsal Championship|U-19 Futsal Championship]]
+| [[2025 UEFA Under-19 Futsal Championship|2025]]
+| {{flagdeco|POR}} Portugal
+| 2nd
+| {{flagdeco|ESP}} Spain
+| [[2027 UEFA Under-19 Futsal Championship|2027]]
+|-
+! colspan=8|Women's national teams
+|-
+|[[UEFA Women's Championship|Women's Championship]]
+| width="1%" rowspan=5 style="background-color:#ffffff;"|
+|[[UEFA Women's Euro 2025|2025]]
+|{{fbw|ENG}}
+|2nd
+|{{fbw|ESP}}
+| width="1%" rowspan=5 style="background-color:#ffffff;"|
+|[[UEFA Women's Euro 2029|2029]]
+|-
+| [[UEFA Women's Nations League|Women's Nations League]]
+| [[2025 UEFA Women's Nations League|2025]]
+| {{fbw|ESP}}
+| 2nd
+| {{fbw|GER}}
+| [[2027 UEFA Women's Nations League|2027]]
+|-
+| [[UEFA Women's Under-19 Championship|Women's U-19 Championship]]
+| [[2026 UEFA Women's Under-19 Championship|2026]]
+| {{fbwu|19|ESP}}
+| 8th
+| {{fbwu|19|GER}}
+| [[2027 UEFA Women's Under-19 Championship|2027]]
+|-
+| [[UEFA Women's Under-17 Championship|Women's U-17 Championship]]
+| [[2026 UEFA Women's Under-17 Championship|2026]]
+| {{fbwu|17|GER}}
+| 9th
+| {{fbwu|17|FRA}}
+| [[2027 UEFA Women's Under-17 Championship|2027]]
+|-
+| [[UEFA Women's Futsal Championship|Women's Futsal Championship]]
+| [[UEFA Women's Futsal Euro 2023|2023]]
+| {{fsw|ESP}}
+| 3rd
+| {{fsw|UKR}}
+| [[UEFA Women's Futsal Euro 2027|2027]]
+|-
+! colspan=8|Men's club teams
+|-
+| [[UEFA Super Cup|Super Cup]]
+| width="1%" rowspan=6 style="background-color:#ffffff;"|
+| [[2025 UEFA Super Cup|2025]]
+| {{fbaicon|FRA}} [[Paris Saint-Germain FC|Paris Saint-Germain]]
+| 1st
+| {{fbaicon|ENG}} [[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+| width="1%" rowspan=6 style="background-color:#ffffff;"|
+| [[2026 UEFA Super Cup|2026]]
+|-
+| [[UEFA Champions League|Champions League]]
+| [[2025–26 UEFA Champions League|2025–26]]
+| {{fbaicon|FRA}} [[Paris Saint-Germain FC|Paris Saint-Germain]]
+| 2nd
+| {{fbaicon|ENG}} [[Arsenal F.C.|Arsenal]]
+| [[2026–27 UEFA Champions League|2026–27]]
+|-
+| [[UEFA Europa League|Europa League]]
+| [[2025–26 UEFA Europa League|2025–26]]
+| {{fbaicon|ENG}} [[Aston Villa F.C.|Aston Villa]]
+| 1st
+| {{fbaicon|GER}} [[SC Freiburg]]
+| [[2026–27 UEFA Europa League|2026–27]]
+|-
+| [[UEFA Conference League|Conference League]]
+| [[2025–26 UEFA Conference League|2025–26]]
+| {{fbaicon|ENG}} [[Crystal Palace F.C.|Crystal Palace]]
+| 1st
+| {{fbaicon|ESP}} [[Rayo Vallecano]]
+| [[2026–27 UEFA Conference League|2026–27]]
+|-
+| [[UEFA Youth League|Youth League]]
+| [[2025–26 UEFA Youth League|2025–26]]
+| {{fbaicon|ESP}} [[Real Madrid CF (youth)|Real Madrid]]
+| 2nd
+| {{fbaicon|BEL}} [[Club NXT|Club Brugge]]
+| [[2026–27 UEFA Youth League|2026–27]]
+|-
+| [[UEFA Futsal Champions League|Futsal Champions League]]
+| [[2025–26 UEFA Futsal Champions League|2025–26]]
+| {{fbaicon|POR}} [[Sporting CP (futsal)|Sporting CP]]
+| 3rd
+| {{fbaicon|ESP}} [[AE Palma Futsal|Palma Futsal]]
+| [[2026–27 UEFA Futsal Champions League|2026–27]]
+|-
+! colspan=8|Women's club teams
+|-
+| [[UEFA Women's Champions League|Women's Champions League]]
+| width="1%" rowspan=2 style="background-color:#ffffff;"|
+| [[2025–26 UEFA Women's Champions League|2025–26]]
+| {{fbaicon|ESP}} [[FC Barcelona Femení|Barcelona]]
+| 4th
+| {{fbaicon|FRA}} [[OL Lyonnes|Lyon]]
+| width="1%" rowspan=2 style="background-color:#ffffff;"|
+| [[2026–27 UEFA Women's Champions League|2026–27]]
+|-
+| [[UEFA Women's Europa Cup|Women's Europa Cup]]
+| [[2025–26 UEFA Women's Europa Cup|2025–26]]
+| {{fbaicon|SWE}} [[BK Häcken FF|BK Häcken]]
+| 1st
+| {{fbaicon|SWE}} [[Hammarby Fotboll (women)|Hammarby IF]]
+| [[2026–27 UEFA Women's Europa Cup|2026–27]]
+|-
+! colspan=8|Men's amateur teams
+|-
+| [[UEFA Regions' Cup|Regions' Cup]]
+| width="1%" rowspan=1 style="background-color:#ffffff;"|
+| [[2025 UEFA Regions' Cup|2025]]
+| {{fbaicon|ESP}} [[Aragon official football team|Aragon]]
+| 1st
+| {{fbaicon|POL}} [[Dolnośląski Związek Piłki Nożnej|Dolnośląski]]
+| width="1%" rowspan=1 style="background-color:#ffffff;"|
+| [[2027 UEFA Regions' Cup|2027]]
+|}
+
+=== Titles by nation ===
+{{For|winners of UEFA club competitions|List of UEFA club competition winners}}
+{| class="wikitable sortable" style="font-size:90%"
+|-
+!rowspan=2|Nation
+!colspan=5|Men
+!colspan=4|Women
+!colspan=3|Futsal
+!rowspan=2|Total
+|-
+![[UEFA European Championship|Euro]]
+![[UEFA Nations League|NL]]
+![[UEFA European Under-21 Championship|U21]]
+![[UEFA European Under-19 Championship|U19]]
+![[UEFA European Under-17 Championship|U17]]
+![[UEFA Women's Championship|Euro]]
+![[UEFA Women's Nations League|NL]]
+![[UEFA Women's Under-19 Championship|U19]]
+![[UEFA Women's Under-17 Championship|U17]]
+![[UEFA Futsal Championship|Men's]]
+![[UEFA Under-19 Futsal Championship|U19]]
+![[UEFA Women's Futsal Championship|Women's]]
+|-align=center
+|align=left|{{Flagu|Spain}} || 4 || 1 || 5 || 13 || 9 || – || 2 || 8 || 5 || 7 || 2 || 3 || '''59'''
+|-align=center
+|align=left|{{Flagu|Germany}}{{efn|Does Not Include East Germany.}} || 3 || – || 3 || 3 || 4 || 8 || – || 6 || 8 || – || – || – || '''35'''
+|-align=center
+|align=left|{{Flagu|France}} || 2 || 1 || 1 || 8 || 3 || – || – || 5 || 1 || – || – || – ||'''21'''
+|- align="center"
+| align="left" |{{Flagu|England}}|| – || – || 4 || 11 || 2 || 2 || – || 1 || – || – || – || – ||'''20'''
+|- align="center"
+|align=left|{{Flagu|Portugal}} || 1 || 2 || – || 4 || 7 || – || – || – || – || 2 || 2 || – || '''18'''
+|- align="center"
+| align="left" |{{Flagu|Italy}}|| 2 || – || 5 || 4 || 3 || – || – || 1 || – || 2 || – || – ||'''17'''
+|-align=center
+| align="left" |{{Flagu|Russia}}{{efn|Including the [[Soviet Union]].}}|| 1 || – || 2 || 6 || 3 || – || – || 1 || – || 1 || – || – ||'''14'''
+|-align=center
+|align=left|{{Flagu|Netherlands}} || 1 || – || 2 || 1 || 4 || 1 || – || 1 || 1 || – || – || – ||'''11'''
+|-align=center
+|align=left|{{Flagu|Sweden}} || – || – || 1 || – || – || 1 || – || 3 || – || – || – || – || '''5'''
+|- align="center"
+| align="left" |{{Flagu|Czech Republic}}{{efn|name=TCH|Including [[Czechoslovakia]].}}|| 1 || – || 1 || 1 || 1 || – || – || – || – || – || – || – || '''4'''
+|- align="center"
+| align="left" |{{Flagu|Serbia}}{{efn|Including [[Socialist Federal Republic of Yugoslavia|Yugoslavia]].}}|| – || – || 1 || 3 || – || – || – || – || – || – || – || – || '''4'''
+|- align="center"
+|align=left|{{Flagu|Bulgaria}} || – || – || – || 3 || – || – || – || – || – || – || – || – || '''3'''
+|- align="center"
+| align="left" |{{Flagu|Hungary}}|| – || – || – || 3 || – || – || – || – || – || – || – || – || '''3'''
+|- align="center"
+| align="left" |{{Flagu|Poland}}|| – || – || – || 1 || 1 || – || – || – || 1 || – || – || – || '''3'''
+|- align="center"
+|align=left|{{Flagu|Turkey}} || – || – || – || 1 || 2 || – || – || – || – || – || – || – || '''3'''
+|-align=center
+|align=left|{{Flagu|Austria}} || – || – || – || 2 || – || – || – || – || – || – || – || – || '''2'''
+|-align=center
+|align=left|{{Flagu|Denmark}} || 1 || – || – || – || – || – || – || 1 || – || – || – || – || '''2'''
+|-align=center
+|align=left|{{Flagu|Norway}} || – || – || – || – || – || 2 || – || – || – || – || – || – || '''2'''
+|-align=center
+|align=left|{{flagu|Republic of Ireland}} || – || – || – || 1 || 1 || – || – || – || – || – || – || – || '''2'''
+|-align=center
+|align=left|{{Flagu|Belgium}} || – || – || – || 1 || – || – || – || – || – || – || – || – || '''1'''
+|-align=center
+|align=left|{{Flagu|Greece}} || 1 || – || – || – || – || – || – || – || – || – || – || – || '''1'''
+|-align=center
+|align=left|{{Flagu|Romania}} || – || – || – || 1 || – || – || – || – || – || – || – || – || '''1'''
+|-align=center
+|align=left|{{Flagu|Scotland}} || – || – || – || 1 || – || – || – || – || – || – || – || – || '''1'''
+|-align=center
+|align=left|{{Flagu|Switzerland}} || – || – || – || – || 1 || – || – || – || – || – || – || – || '''1'''
+|-align=center
+|align=left|{{Flagu|Ukraine}} || – || – || – || 1 || – || – || – || – || – || – || – || – || '''1'''
+|}
+
+== Sponsors ==
+;UEFA national team competitions<ref>{{cite web |title=UEFA official sponsors and partners |url=https://www.uefa.com/partners/ |website=UEFA.com |publisher=Union of European Football Associations }}</ref>
+{{div col|colwidth=22em}}
+* [[Adidas]]
+* [[Alipay]]
+* [[Atos]]
+* [[Carlsberg Group]]
+* [[Engelbert Strauss]]
+* [[Hisense]]
+* [[Qatar Tourism Authority|Visit Qatar]]
+{{div col end}}
+
+;UEFA Champions League
+;;Global sponsors
+{{div col|colwidth=22em}}
+* [[Bet365]]
+* [[Crypto.com]]
+* [[FedEx]]
+* [[Heineken]]
+* [[Just Eat Takeaway.com]]
+* [[Mastercard]]
+* [[PlayStation]]
+* [[PepsiCo]] ([[Pepsi]]/[[Lay's]])
+* [[Qatar Airways]]
+{{div col end}}
+;;Suppliers and enhanced partners
+{{div col|colwidth=22em}}
+* [[Adidas]]
+* [[EA Sports]]
+* [[JD.com|JoyBuy]]
+* [[Oppo]]
+* [[Topps]]
+{{div col end}}
+{{small|'''Note:''' The UEFA Champions League sponsors are also sponsors of the UEFA Super Cup and the UEFA Youth League.}}
+
+;UEFA Europa League
+;;Global sponsors
+{{div col|colwidth=22em}}
+* Betano
+* [[Engelbert Strauss]]
+* [[Enterprise Rent-A-Car]]<ref>{{cite web |title=Enterprise Rent-A-Car renews UEL partnership |url=https://www.uefa.com/news-media/news/0242-0f8e5db31322-0ba4460e83df-1000--enterprise-rent-a-car-renews-uefa-europa-league-partnership/ |date=23 February 2018 |website=UEFA.com |publisher=Union of European Football Associations }}</ref>
+* [[FlixBus]]
+* [[Hankook]]<ref>{{cite web |title=Hankook renews longstanding UEL and UECL partnership |url=https://www.uefa.com/news-media/news/026c-13193f496cff-ec3e691b7999-1000--hankook-tire-renews-longstanding-uefa-europa-and-conference-lea/ |date=27 August 2021 |website=UEFA.com |publisher=Union of European Football Associations }}</ref>
+* [[Lidl]]
+* [[Just Eat Takeaway.com]]
+* [[Swissquote]]
+{{div col end}}
+;;Suppliers
+{{div col|colwidth=22em}}
+* [[Decathlon (retailer)|Decathlon]]
+{{div col end}}
+{{small|'''Note:''' The UEFA Europa League sponsors are also sponsors of the UEFA Conference League.}}
+
+;UEFA women's football competitions
+{{div col|colwidth=22em}}
+* [[Adidas]]
+* [[Amazon (company)|Amazon]]
+* [[Frito-Lay]] ([[Lay's]])
+* [[Vodafone]]
+{{div col end}}
+
+== FIFA World Rankings ==
+{{See also|FIFA Men's World Rankings|FIFA Women's World Rankings}}
+
+=== Overview ===
+{{col-begin}}
+{{col-break}}
+{{Sports rankings table|FIFA World Rankings|1|211|select=UEFA|style=
+|caption=FIFA Men's Rankings (as of INSERT_UPDATE_DATE)
+|footer1= * Local rankings based on FIFA ranking points
+|selection_header = UEFA* 
+|rank_header=FIFA
+|change_header=+/-
+|team_header=National Team
+|points_header=Points
+}}
+{{col-break}}
+{{Sports rankings table|FIFA Women's World Rankings|1|211|select=UEFA|style=
+|caption=FIFA Women's Rankings (as of INSERT_UPDATE_DATE)
+|footer1= * Local rankings based on FIFA ranking points
+|selection_header = UEFA* 
+|rank_header=FIFA
+|change_header=+/-
+|team_header=National Team
+|points_header=Points
+}}
+{{col-end}}
+
+==== Team of the Year ====
+{{col-begin}}
+{{col-break}}
+{|class="wikitable"
+|+ Team ranking in the top four – Men's<ref name="FIFA World Rankings" />
+|-
+!Year
+!style="background-color:gold;" |First
+!style="background-color:silver:" |Second
+!style="background-color:#c96;" |Third
+!style="background-color:snow;" |Fourth
+|-
+| [[2025 in association football|2025]]
+| {{fb|Spain}}
+| {{fb|France}}
+| {{fb|England}}
+| {{fb|Portugal}}
+|-
+| [[2024 in association football|2024]]
+| {{fb|France}}
+| {{fb|Spain}}
+| {{fb|England}}
+| {{fb|Portugal}}
+|-
+| [[2023 in association football|2023]]
+| {{fb|France}}
+| {{fb|England}}
+| {{fb|Belgium}}
+| {{fb|Netherlands}}
+|-
+| [[2022 in association football|2022]]
+| {{fb|France}}
+| {{fb|Belgium}}
+| {{fb|England}}
+| {{fb|Netherlands}}
+|-
+| [[2021 in association football|2021]]
+| {{fb|Belgium}}
+| {{fb|France}}
+| {{fb|England}}
+| {{fb|Italy}}
+|-
+| [[2020 in association football|2020]]
+| {{fb|Belgium}}
+| {{fb|France}}
+| {{fb|England}}
+| {{fb|Portugal}}
+|-
+| [[2019 in association football|2019]]
+| {{fb|Belgium}}
+| {{fb|France|1974}}
+| {{fb|England}}
+| {{fb|Croatia}}
+|-
+| [[2018 in association football|2018]]
+| {{fb|Belgium}}
+| {{fb|France|1974}}
+| {{fb|Croatia}}
+| {{fb|England}}
+|-
+| [[2017 in association football|2017]]
+| {{fb|Germany}}
+| {{fb|Portugal}}
+| {{fb|Belgium}}
+| {{fb|Spain}}
+|-
+| [[2016 in association football|2016]]
+| {{fb|Germany}}
+| {{fb|Belgium}}
+| {{fb|France|1974}}
+| {{fb|Portugal}}
+|-
+| [[2015 in association football|2015]]
+| {{fb|Belgium}}
+| {{fb|Spain}}
+| {{fb|Germany}}
+| {{fb|Portugal}}
+|-
+| [[2014 in association football|2014]]
+| {{fb|Germany}}
+| {{fb|Belgium}}
+| {{fb|Netherlands}}
+| {{fb|Portugal}}
+|-
+| [[2013 in association football|2013]]
+| {{fb|Spain}}
+| {{fb|Germany}}
+| {{fb|Portugal}}
+| {{fb|Italy}}
+|-
+| [[2012 in association football|2012]]
+| {{fb|Spain}}
+| {{fb|Germany}}
+| {{fb|Italy}}
+| {{fb|England}}
+|-
+| [[2011 in association football|2011]]
+| {{fb|Spain}}
+| {{fb|Netherlands}}
+| {{fb|Germany}}
+| {{fb|England}}
+|-
+| [[2010 in association football|2010]]
+| {{fb|Spain}}
+| {{fb|Netherlands}}
+| {{fb|Germany}}
+| {{fb|England}}
+|-
+| [[2009 in association football|2009]]
+| {{fb|Spain}}
+| {{fb|Netherlands}}
+| {{fb|Italy}}
+| {{fb|Portugal}}
+|-
+| [[2008 in association football|2008]]
+| {{fb|Spain}}
+| {{fb|Germany}}
+| {{fb|Netherlands}}
+| {{fb|Italy}}
+|-
+| [[2007 in association football|2007]]
+| {{fb|Italy}}
+| {{fb|Spain}}
+| {{fb|Germany}}
+| {{fb|Czech Republic}}
+|-
+| [[2006 in association football|2006]]
+| {{fb|Italy}}
+| {{fb|France|1974}}
+| {{fb|England}}
+| {{fb|Germany}}
+|-
+| [[2005 in association football|2005]]
+| {{fb|Czech Republic}}
+| {{fb|Netherlands}}
+| {{fb|Spain}}
+| {{fb|France|1974}}
+|-
+| [[2004 in association football|2004]]
+| {{fb|France|1974}}
+| {{fb|Czech Republic}}
+| {{fb|Spain}}
+| {{fb|Netherlands}}
+|-
+| [[2003 in association football|2003]]
+| {{fb|France|1974}}
+| {{fb|Spain}}
+| {{fb|Netherlands}}
+| {{fb|Czech Republic}}
+|-
+| [[2002 in association football|2002]]
+| {{fb|France|1974}}
+| {{fb|Spain}}
+| {{fb|Germany}}
+| {{fb|Netherlands}}
+|-
+| [[2001 in association football|2001]]
+| {{fb|France|1974}}
+| {{fb|Portugal}}
+| {{fb|Italy}}
+| {{fb|Spain}}
+|-
+| [[2000 in association football|2000]]
+| {{fb|France|1974}}
+| {{fb|Italy}}
+| {{fb|Czech Republic}}
+| {{fb|Portugal}}
+|-
+| [[1999 in association football|1999]]
+| {{fb|Czech Republic}}
+| {{fb|France|1974}}
+| {{fb|Spain}}
+| {{fb|Germany}}
+|-
+| [[1998 in association football|1998]]
+| {{fb|France|1974}}
+| {{fb|Germany}}
+| {{fb|Croatia}}
+| {{fb|FR Yugoslavia}}
+|-
+| [[1997 in association football|1997]]
+| {{fb|Germany}}
+| {{fb|Czech Republic}}
+| {{fb|England}}
+| {{fb|France|1974}}
+|-
+| [[1996 in association football|1996]]
+| {{fb|Germany}}
+| {{fb|France|1974}}
+| {{fb|Czech Republic}}
+| {{fb|Denmark}}
+|-
+| [[1995 in association football|1995]]
+| {{fb|Germany}}
+| {{fb|Italy}}
+| {{fb|Spain}}
+| {{fb|Russia}}
+|-
+| [[1994 in association football|1994]]
+| {{fb|Spain}}
+| {{fb|Sweden}}
+| {{fb|Italy}}
+| {{fb|Germany}}
+|-
+| [[1993 in association football|1993]]
+| {{fb|Germany}}
+| {{fb|Italy}}
+| {{fb|Norway}}
+| {{fb|Spain}}
+|}
+
+{{col-break}}
+{|class="wikitable"
+|+ Team ranking in the top four – Women's<ref name="FIFA World Rankings" />
+|-
+!Year
+!style="background-color:gold;" |First
+!style="background-color:silver:" |Second
+!style="background-color:#c96;" |Third
+!style="background-color:snow;" |Fourth
+|-
+| [[2025 in association football|2025]]
+| {{fbw|Spain}}
+| {{fbw|Germany}}
+| {{fbw|England}}
+| {{fbw|Sweden}}
+|-
+| [[2024 in association football|2024]]
+| {{fbw|Spain}}
+| {{fbw|Germany}}
+| {{fbw|England}}
+| {{fbw|Sweden}}
+|-
+| [[2023 in association football|2023]]
+| {{fbw|Spain}}
+| {{fbw|France}}
+| {{fbw|England}}
+| {{fbw|Sweden}}
+|-
+| [[2022 in association football|2022]]
+| {{fbw|Germany}}
+| {{fbw|Sweden}}
+| {{fbw|England}}
+| {{fbw|France}}
+|-
+| [[2021 in association football|2021]]
+| {{fbw|Sweden}}
+| {{fbw|Germany}}
+| {{fbw|France}}
+| {{fbw|Netherlands}}
+|-
+| [[2020 in association football|2020]]
+| {{fbw|Germany}}
+| {{fbw|France}}
+| {{fbw|Netherlands}}
+| {{fbw|Sweden}}
+|-
+| [[2019 in association football|2019]]
+| {{fbw|Germany}}
+| {{fbw|Netherlands}}
+| {{fbw|France|1974}}
+| {{fbw|Sweden}}
+|-
+| [[2018 in association football|2018]]
+| {{fbw|Germany}}
+| {{fbw|France|1974}}
+| {{fbw|England}}
+| {{fbw|Netherlands}}
+|-
+| [[2017 in association football|2017]]
+| {{fbw|Germany}}
+| {{fbw|England}}
+| {{fbw|France|1974}}
+| {{fbw|Netherlands}}
+|-
+| [[2016 in association football|2016]]
+| {{fbw|Germany}}
+| {{fbw|France|1974}}
+| {{fbw|England}}
+| {{fbw|Sweden}}
+|-
+| [[2015 in association football|2015]]
+| {{fbw|Germany}}
+| {{fbw|France|1974}}
+| {{fbw|England}}
+| {{fbw|Sweden}}
+|-
+| [[2014 in association football|2014]]
+| {{fbw|Germany}}
+| {{fbw|France|1974}}
+| {{fbw|Sweden}}
+| {{fbw|England}}
+|-
+| [[2013 in association football|2013]]
+| {{fbw|Germany}}
+| {{fbw|France|1974}}
+| {{fbw|Sweden}}
+| {{fbw|Norway}}
+|-
+| [[2012 in association football|2012]]
+| {{fbw|Germany}}
+| {{fbw|France|1974}}
+| {{fbw|Sweden}}
+| {{fbw|England}}
+|-
+| [[2011 in association football|2011]]
+| {{fbw|Germany}}
+| {{fbw|Sweden}}
+| {{fbw|France|1974}}
+| {{fbw|England}}
+|-
+| [[2010 in association football|2010]]
+| {{fbw|Germany}}
+| {{fbw|Sweden}}
+| {{fbw|Norway}}
+| {{fbw|France|1974}}
+|-
+| [[2009 in association football|2009]]
+| {{fbw|Germany}}
+| {{fbw|Sweden}}
+| {{fbw|Norway}}
+| {{fbw|England}}
+|-
+| [[2008 in association football|2008]]
+| {{fbw|Germany}}
+| {{fbw|Sweden}}
+| {{fbw|Norway}}
+| {{fbw|Denmark}}
+|-
+| [[2007 in association football|2007]]
+| {{fbw|Germany}}
+| {{fbw|Sweden}}
+| {{fbw|Norway}}
+| {{fbw|France|1974}}
+|-
+| [[2006 in association football|2006]]
+| {{fbw|Germany}}
+| {{fbw|Norway}}
+| {{fbw|Sweden}}
+| {{fbw|France|1974}}
+|-
+| [[2005 in association football|2005]]
+| {{fbw|Germany}}
+| {{fbw|Norway}}
+| {{fbw|Sweden}}
+| {{fbw|France|1974}}
+|-
+| [[2004 in association football|2004]]
+| {{fbw|Germany}}
+| {{fbw|Norway}}
+| {{fbw|Sweden}}
+| {{fbw|Denmark}}
+|-
+| [[2003 in association football|2003]]
+| {{fbw|Germany}}
+| {{fbw|Norway}}
+| {{fbw|Sweden}}
+| {{fbw|Denmark}}
+|}
+{{col-end}}
+
+== Major tournament records ==
+'''Legend'''
+* '''{{bg|gold|&nbsp;1st&nbsp;}}''' – Champions
+* '''{{bg|silver|&nbsp;2nd&nbsp;}}''' – Runners-up
+* '''{{bg|#CFAA88|&nbsp;3rd&nbsp;}}''' – Third place{{efn|name="1930 World Cup"|There was no third place match in 1930; The United States and Yugoslavia lost in the semi-finals. FIFA recognises the United States as the third-placed team and Yugoslavia as the fourth-placed team using the overall records of the teams in the 1930 FIFA World Cup.}}
+* '''{{bg|#9acdff|&nbsp;4th&nbsp;}}''' – Fourth place
+* '''QF''' – Quarter-finals (1934–1938, 1954–1970, and 1986–present: knockout round of 8)
+* '''R3''' – Round 3 (2026–present: knockout round of 16)
+* '''R2''' – Round 2 (1974–1978: second group stage, top 8; 1982: second group stage, top 12; 1986–2022: knockout round of 16; 2026–present: knockout round of 32)
+* '''R1''' – Round 1 (1930, 1950–1970 and 1986–present: group stage; 1934–1938: knockout round of 16; 1974–1982: first group stage)
+* ''Q'' — Qualified for upcoming tournament
+* {{border|width=1px|color=gray|&nbsp;'''••'''&nbsp;}} – Qualified but withdrew
+* {{border|width=1px|color=gray|&nbsp;'''•'''&nbsp;}} – Did not qualify
+* {{border|width=1px|color=gray|&nbsp;×&nbsp;}} – Did not enter / Withdrew / Banned
+* {{border|width=3px|color=red|&nbsp; &nbsp;}}&nbsp;– Hosts
+
+For each tournament, the flag of the host country and the number of teams in each finals tournament (in brackets) are shown.
+
+=== FIFA World Cup ===
+{{Main|National team appearances in the FIFA World Cup}}
+
+{{See also|European nations at the FIFA World Cup}}
+
+{| class="wikitable" style="text-align:center; font-size:85%;"
+!colspan=39|[[FIFA World Cup]] record
+|-
+! Team
+![[1930 FIFA World Cup|1930]]<br />{{Flagicon|Uruguay}}<br />(13)
+![[1934 FIFA World Cup|1934]]<br />{{Flagicon|Italy|1861}}<br />(16)
+![[1938 FIFA World Cup|1938]]<br />{{Flagicon|France}}<br />(15)
+![[1950 FIFA World Cup|1950]]<br />{{Flagicon|Brazil|1889}}<br />(13)
+![[1954 FIFA World Cup|1954]]<br />{{Flagicon|Switzerland}}<br />(16)
+![[1958 FIFA World Cup|1958]]<br />{{Flagicon|Sweden}}<br />(16)
+![[1962 FIFA World Cup|1962]]<br />{{Flagicon|Chile}}<br />(16)
+![[1966 FIFA World Cup|1966]]<br />{{Flagicon|England}}<br />(16)
+![[1970 FIFA World Cup|1970]]<br />{{Flagicon|Mexico}}<br />(16)
+![[1974 FIFA World Cup|1974]]<br />{{Flagicon|West Germany}}<br />(16)
+![[1978 FIFA World Cup|1978]]<br />{{Flagicon|Argentina}}<br />(16)
+![[1982 FIFA World Cup|1982]]<br />{{Flagicon|Spain}}<br />(24)
+![[1986 FIFA World Cup|1986]]<br />{{Flagicon|Mexico}}<br />(24)
+![[1990 FIFA World Cup|1990]]<br />{{Flagicon|Italy}}<br />(24)
+![[1994 FIFA World Cup|1994]]<br />{{Flagicon|United States of America}}<br />(24)
+![[1998 FIFA World Cup|1998]]<br />{{Flagicon|France|1974}}<br />(32)
+![[2002 FIFA World Cup|2002]]<br />{{Flagicon|South Korea|1997}}<br />{{Flagicon|Japan}}<br />(32)
+![[2006 FIFA World Cup|2006]]<br />{{Flagicon|Germany}}<br />(32)
+![[2010 FIFA World Cup|2010]]<br />{{Flagicon|South Africa}}<br />(32)
+![[2014 FIFA World Cup|2014]]<br />{{Flagicon|Brazil}}<br />(32)
+![[2018 FIFA World Cup|2018]]<br />{{Flagicon|Russia}}<br />(32)
+![[2022 FIFA World Cup|2022]]<br />{{Flagicon|Qatar}}<br />(32)
+![[2026 FIFA World Cup|2026]]<br />{{Flagicon|Canada}}<br />{{Flagicon|Mexico}}<br />{{Flagicon|United States of America}}<br />(48)
+![[2030 FIFA World Cup|2030]]<br />{{Flagicon|Morocco}}<br />{{Flagicon|Portugal}}<br />{{Flagicon|Spain}}<br />(48)
+![[2034 FIFA World Cup|2034]]<br />{{Flagicon|Saudi Arabia}}<br />(48)
+!Years
+|-
+| id="AUT" align=left| {{fb|AUT}}
+|×|| bgcolor=#9acdff|4th ||×{{nowrap|{{efn|Austria qualified in 1938, but withdrew to play as part of Germany after being [[Anschluss|annexed]].}}}}||×|| bgcolor=#cc9966|3rd || R1<br />{{small|15th}} ||×||•||•||•|| R2<br />{{small|7th}} || R2<br />{{small|8th}}||•|| R1<br />{{small|T-18th}} ||•|| R1<br />{{small|23rd}} ||•||•||•||•||•||•|| R2<br />{{small|28th}} || ||
+! 8
+|-
+| id="BEL" align=left| {{fb|BEL}}
+| R1<br />{{small|11th}} || R1<br />{{small|15th}} || R1<br />{{small|13th}} ||×|| R1<br />{{small|12th}} ||•||•||•|| R1<br />{{small|T-10th}}||•||•|| R2<br />{{small|10th}} ||bgcolor=#9acdff| 4th || R2<br />{{small|11th}} || R2<br />{{small|11th}} || R1<br />{{small|19th}} || R2<br />{{small|14th}} ||•||•|| QF<br />{{small|6th}} || bgcolor=#cc9966|3rd || R1<br />{{small|23rd}} || QF<br />{{small|6th}} || ||
+! 15
+|-
+| id="BIH" align=left| {{fb|BIH}}
+|colspan=14| ''Part of Yugoslavia'' ||×||•||•||•||•||•| R1<br />{{small|20th}} ||•||•|| R2<br />{{small|29th}} || ||
+! 2
+|-
+| id="BUL" align=left| {{fb|BUL}}
+|×||•||•||×||•||•|| R1<br />{{small|15th}} || R1<br />{{small|15th}} || R1<br />{{small|13th}} || R1<br />{{small|12th}} ||•||•|| R2<br />{{small|15th}} ||•||bgcolor=#9acdff| 4th || R1<br />{{small|29th}} ||•||•||•||•||•||•||•|| ||
+! 7
+|-
+| id="CRO" align=left| {{fb|CRO}}
+|colspan=14| ''Part of Yugoslavia'' ||×|| bgcolor=#cc9966|3rd || R1<br />{{small|23rd}} || R1<br />{{small|22nd}} ||•||R1<br />{{small|19th}} ||bgcolor=silver| 2nd || bgcolor=#cc9966|3rd || R2<br />{{small|20th}} || ||
+! 7
+|-
+| id="CZE" align=left| {{fb|CZE}}{{efn|name="successor"}}
+|×||bgcolor=silver| 2nd || QF<br />{{small|5th}} ||×|| R1<br />{{small|14th}} || R1<br />{{small|9th}} ||bgcolor=silver| 2nd ||•|| R1<br />{{small|15th}} ||•||•|| R1<br />{{small|19th}} ||•|| QF<br />{{small|6th}} ||•||•||•|| R1<br />{{small|20th}} ||•||•||•||•|| R1<br />{{small|39th}} || ||
+! 10
+|-
+| id="DEN" align=left| {{fb|DEN}}
+|×||×||×||×||×||•||×||•||•||•||•||•|| R2<br />{{small|9th}} ||•||•|| QF<br />{{small|8th}} || R2<br />{{small|10th}} ||•|| R1<br />{{small|24th}} ||•|| R2<br />{{small|11th}} || R1<br />{{small|28th}} ||•|| ||
+! 6
+|-
+| id="GDR" align=left| {{fb|GDR}}{{efn|name="successor"}}
+|colspan=3| ''Part of Germany'' ||×||×||•||•||•||•|| R2<br />{{small|6th}} ||•||•||•||•||colspan=11| ''Part of Germany''
+! 1
+|-
+| id="ENG" align=left| {{fb|ENG}}
+|×||×||×|| R1<br />{{small|8th}} || QF<br />{{small|6th}} || R1<br />{{small|11th}} || QF<br />{{small|8th}} ||bgcolor=gold style="border: 3px solid red"| 1st || QF<br />{{small|8th}} ||•||•|| R2<br />{{small|6th}} || QF<br />{{small|8th}} || bgcolor=#9acdff|4th ||•|| R2<br />{{small|9th}} || QF<br />{{small|6th}} || QF<br />{{small|7th}} || R2<br />{{small|13th}} || R1<br />{{small|26th}} || bgcolor=#9acdff|4th || QF<br />{{small|6th}} || ''Q'' || ||
+! 17
+|-
+| id="FRA" align=left| {{fb|FRA}}
+| R1<br />{{small|7th}} || R1<br />{{small|T-9th}} ||style="border: 3px solid red"| QF<br />{{small|6th}} ||•|| R1<br />{{small|11th}} ||bgcolor=#cc9966| 3rd ||•|| R1<br />{{small|T-13th}} ||•||•|| R1<br />{{small|12th}} ||bgcolor=#9acdff| 4th ||bgcolor=#cc9966| 3rd ||•||•||bgcolor=gold style="border: 3px solid red"| 1st || R1<br />{{small|28th}} || bgcolor=silver| 2nd || R1<br />{{small|29th}} || QF<br />{{small|7th}} ||bgcolor=gold| 1st || bgcolor=silver| 2nd || ''Q'' || ||
+! 17
+|-
+| id="GER" align=left| {{fb|GER}}{{efn|name="successor"|Both FIFA and UEFA consider that the national team of [[Germany national football team|Germany]] succeeds West Germany and East Germany, the national team of [[Russia national football team|Russia]] succeeds the [[Soviet Union national football team|USSR]], the national team of [[Serbia national football team|Serbia]] succeeds [[Yugoslavia national football team|Yugoslavia]]/[[Serbia and Montenegro national football team|Serbia and Montenegro]], and the national team of the [[Czech Republic national football team|Czech Republic]] succeeds [[Czechoslovakia national football team|Czechoslovakia]].}}
+|×||bgcolor=#cc9966| 3rd || R1<br />{{small|10th}}||×||bgcolor=gold| 1st ||bgcolor=#9acdff| 4th || QF<br />{{small|7th}} ||bgcolor=silver| 2nd ||bgcolor=#cc9966| 3rd ||bgcolor=gold style="border: 3px solid red"| 1st || R2<br />{{small|6th}} ||bgcolor=silver| 2nd ||bgcolor=silver| 2nd ||bgcolor=gold| 1st || QF<br />{{small|5th}}|| QF<br />{{small|7th}} ||bgcolor=silver| 2nd ||style="border: 3px solid red" bgcolor=#cc9966| 3rd ||bgcolor=#cc9966| 3rd || bgcolor=gold| 1st || R1<br />{{small|22nd}} || R1<br />{{small|17th}} || R2<br />{{small|18th}} || ||
+! 21
+|-
+| id="GRE" align=left| {{fb|GRE}}
+|×||•||•||×||•||•||•||•||•||•||•||•||•||•|| R1<br />{{small|24th}} ||•||•||•|| R1<br />{{small|25th}} || R2<br />{{small|13th}} ||•||•||•|| ||
+! 3
+|-
+| id="HUN" align=left| {{fb|HUN}}
+|×|| QF<br />{{small|6th}} ||bgcolor=silver| 2nd ||×||bgcolor=silver| 2nd || R1<br />{{small|10th}} || QF<br />{{small|5th}} || QF<br />{{small|6th}}||•||•|| R1<br />{{small|15th}} || R1<br />{{small|14th}} || R1<br />{{small|18th}} ||•||•||•||•||•||•||•||•||•||•|| ||
+! 9
+|-
+| id="ISL" align=left| {{fb|ISL}}
+|×||×||×||×||×||•||×||×||×||•||•||•||•||•||•||•||•||•||•||•|| R1<br />{{small|28th}} ||•||•|| ||
+! 1
+|-
+| id="ISR" align=left| {{fb|ISR}}{{efn|Israel competed as ''[[Land of Israel|Eretz Yisrael]]'' ([[Land of Israel]]) in 1934 and in 1938, with a team consisting exclusively of Jewish and British footballers from the [[Mandatory Palestine|Palestine Mandate]].}}
+|×||•||•||•||•||•||•||•|| R1<br />{{small|12th}} ||•||•||•||•||•||•||•||•||•||•||•||•||•||•|| ||
+! 1
+|-
+| id="ITA" align=left| {{fb|ITA}}
+|×||bgcolor=gold style="border: 3px solid red"| 1st ||bgcolor=gold| 1st || R1<br />{{small|7th}} || R1<br />{{small|10th}} ||•|| R1<br />{{small|9th}} || R1<br />{{small|9th}} ||bgcolor=silver| 2nd || R1<br />{{small|10th}} ||bgcolor=#9acdff| 4th ||bgcolor=gold| 1st || R2<br />{{small|12th}} ||style="border: 3px solid red" bgcolor=#cc9966| 3rd ||bgcolor=silver| 2nd || QF<br />{{small|5th}} || R2<br />{{small|15th}} ||bgcolor=gold| 1st || R1<br />{{small|26th}} ||| R1<br />{{small|22nd}} ||•||•||•|| ||
+! 18
+|-
+| id="NED" align=left| {{fb|NED}}
+|×|| R1<br />{{small|T-9th}} || R1<br />{{small|14th}} ||×||×||•||•||•||•|| bgcolor=silver|2nd ||bgcolor=silver| 2nd ||• ||•|| R2<br />{{small|15th}} || QF<br />{{small|7th}} ||bgcolor=#9acdff| 4th ||•|| R2<br />{{small|11th}} ||bgcolor=silver| 2nd ||bgcolor=#cc9966|3rd ||•|| QF<br />{{small|5th}} || R2<br />{{small|17th}} || ||
+! 12
+|-
+| id="NIR" align=left| {{fb|NIR}}
+|×||×||×||•||•|| QF<br />{{small|8th}} ||•||•||•||•||•|| R2<br />{{small|9th}} || R1<br />{{small|21st}} ||•||•||•||•||•||•||•||•||•||•|| ||
+! 3
+|-
+| id="NOR" align=left| {{fb|NOR}}
+|×||×|| R1<br />{{small|12th}} ||×||•||•||•||•||•||•||•||•||•||•|| R1<br />{{small|17th}} || R2<br />{{small|15th}} ||•||•||•||•||•||•|| QF<br />{{small|5th}} || ||
+! 4
+|-
+| id="POL" align=left| {{fb|POL}}
+|×||•|| R1<br />{{small|11th}} ||×||×||•||•||•||•||bgcolor=#cc9966| 3rd || R2<br />{{small|5th}} || bgcolor="#cc9966" | 3rd || R2<br />{{small|14th}} ||•||•||•|| R1<br />{{small|25th}} || R1<br />{{small|21st}} ||•||•|| R1<br />{{small|25th}} || R2<br />{{small|15th}} ||•|| ||
+! 9
+|-
+| id="POR" align=left| {{fb|POR}}
+|×||•||•||•||•||•||•||bgcolor=#cc9966| 3rd ||•||•||•||•|| R1<br />{{small|17th}} ||•||•||•|| R1<br />{{small|21st}} ||bgcolor=#9acdff| 4th || R2<br />{{small|11th}} || R1<br />{{small|18th}} || R2<br />{{small|13th}} || QF<br />{{small|8th}} || R3<br />{{small|13th}} || style="border:3px solid red"|''Q'' ||
+! 9
+|-
+| id="IRL" align=left| {{fb|IRL}}{{efn|name="Republic of Ireland"|[[Republic of Ireland national football team|Republic of Ireland]] competed as the Irish Free State in 1934 and then as Ireland in 1938 and 1950.}}
+|×||•||•||•||•||•||•||•||•||•||•||•||•|| QF<br />{{small|8th}} || R2<br />{{small|16th}} ||•|| R2<br />{{small|12th}} ||•||•||•||•||•||•|| ||
+! 3
+|-
+| id="ROU" align=left| {{fb|ROU}}
+| R1<br />{{small|8th}} || R1<br />{{small|12th}} || R1<br />{{small|9th}} ||×||•||•||•||•|| R1<br />{{small|T-10th}} ||•||•||•||•|| R2<br />{{small|12th}} || QF<br />{{small|6th}} || R2<br />{{small|11th}} ||•||•||•||•||•||•||•|| ||
+! 7
+|-
+| id="RUS" align=left| {{fb|RUS}}{{efn|name="USSR"|Russia's best result is quarter-finals in [[2018 FIFA World Cup|2018]]. However, FIFA considers Russia as the successor team of the [[USSR national football team|USSR]].}}
+|×||×||×||×||×|| QF<br />{{small|7th}} || QF<br />{{small|6th}} ||bgcolor=#9acdff| 4th || QF<br />{{small|5th}} ||•||•|| R2<br />{{small|7th}} || R2<br />{{small|10th}} || R1<br />{{small|17th}} || R1<br />{{small|18th}} ||•|| R1<br />{{small|22nd}} ||•||•|| R1<br />{{small|24th}} ||style="border: 3px solid red"| QF<br />{{small|8th}} ||×||×|| ||
+! 11
+|-
+| id="SCO" align=left| {{fb|SCO}}
+|×||×||×||••|| R1<br />{{small|15th}} || R1<br />{{small|14th}} ||•||•||•|| R1<br />{{small|9th}} || R1<br />{{small|11th}} || R1<br />{{small|15th}} || R1<br />{{small|19th}} || R1<br />{{small|T-18th}} ||•|| R1<br />{{small|27th}} ||•||•||•||•||•||•|| R1<br />{{small|36th}} || ||
+! 9
+|-
+| id="SRB" align=left| {{fb|SRB}}{{efn|name="successor"}}
+| bgcolor=#9acdff| 4th{{efn|name="1930 World Cup"}} ||•||•|| R1<br />{{small|5th}} || QF<br />{{small|7th}} || QF<br />{{small|5th}} ||bgcolor=#9acdff| 4th ||•||•|| R2<br />{{small|7th}} ||•|| R1<br />{{small|16th}} ||•|| QF<br />{{small|5th}}||×|| R2<br />{{small|10th}} ||•|| R1<br />{{small|32nd}} || R1<br />{{small|23rd}} ||•|| R1<br />{{small|23rd}} || R1<br />{{small|29th}} ||•|| ||
+! 13
+|-
+| id="SVK" align=left| {{fb|SVK}}{{efn|name="TCH/SVK"|FIFA consider that the national teams of the [[Czech Republic national football team|Czech Republic]] and [[Slovakia national football team|Slovakia]] succeeds [[Czechoslovakia national football team|Czechoslovakia]].<ref>{{cite web |url=https://inside.fifa.com/associations/SVK |title=Slovakia |website=Inside FIFA }}</ref>}}
+|×||bgcolor=silver| 2nd || QF<br />{{small|5th}} ||×|| R1<br />{{small|14th}} || R1<br />{{small|9th}} ||bgcolor=silver| 2nd ||•|| R1<br />{{small|15th}} ||•||•|| R1<br />{{small|19th}} ||•|| QF<br />{{small|6th}} ||•||•||•||•|| R2<br />{{small|16th}} ||•||•||•||•|| ||
+! 1
+|-
+| id="SVN" align=left| {{fb|SVN}}
+|colspan=14| ''Part of Yugoslavia'' ||×||•|| R1<br />{{small|30th}} ||•|| R1<br />{{small|18th}} ||•||•||•||•|| ||
+! 2
+|-
+| id="ESP" align=left| {{fb|ESP}}
+|×|| QF<br />{{small|5th}}||×||bgcolor=#9acdff| 4th ||•||•|| R1<br />{{small|12th}} || R1<br />{{small|10th}} ||•||•|| R1<br />{{small|10th}} ||style="border: 3px solid red"| R2<br />{{small|12th}} || QF<br />{{small|7th}} || R2<br />{{small|10th}} || QF<br />{{small|8th}} || R1<br />{{small|17th}} || QF<br />{{small|5th}} || R2<br />{{small|9th}} ||bgcolor=gold| 1st || R1<br />{{small|23rd}} || R2<br />{{small|10th}} || R2<br />{{small|13th}} || ''Q'' || style="border:3px solid red"|''Q'' ||
+! 17
+|-
+| id="SWE" align=left| {{fb|SWE}}
+|×|| QF<br />{{small|8th}} ||bgcolor=#9acdff| 4th ||bgcolor=#cc9966| 3rd ||•||style="border: 3px solid red" bgcolor=silver| 2nd ||•||•|| R1<br />{{small|9th}} || R2<br />{{small|5th}} || R1<br />{{small|13th}} ||•||•|| R1<br />{{small|21st}} ||bgcolor=#cc9966| 3rd ||•|| R2<br />{{small|13th}} || R2<br />{{small|14th}} ||•||•|| QF<br />{{small|7th}} || • || R2<br />{{small|27th}} || ||
+! 13
+|-
+| id="SUI" align=left| {{fb|SUI}}
+|×|| QF<br />{{small|7th}} || QF<br />{{small|7th}} || R1<br />{{small|6th}} ||style="border: 3px solid red"| QF<br />{{small|8th}}||•|| R1<br />{{small|16th}} || R1<br />{{small|16th}} ||•||•||•||•||•||•|| R2<br />{{small|15th}} ||•||•|| R2<br />{{small|10th}} || R1<br />{{small|19th}} || R2<br />{{small|11th}} || R2<br />{{small|14th}} || R2<br />{{small|12th}} || QF<br />{{small|T-7th}} || ||
+! 13
+|-
+| id="TUR" align=left| {{fb|TUR}}
+|×||×||×||••|| R1<br />{{small|9th}} ||×||•||•||•||•||•||•||•||•||•||•||bgcolor=#cc9966| 3rd ||•||•||•||•||•|| R1<br />{{small|35th}} || ||
+! 3
+|-
+| id="UKR" align=left| {{fb|UKR}}
+|colspan=14| ''Part of Soviet Union'' ||×||•||•|| QF<br />{{small|8th}} ||•||•||•||•||•|| ||
+! 1
+|-
+| id="WAL" align=left| {{fb|WAL}}
+|×||×||×||•||•|| QF<br />{{small|6th}} ||•||•||•||•||•||•||•||•||•||•||•||•||•||•||•|| R1<br />{{small|30th}} ||•|| ||
+! 2
+|-"P
+! align=left| '''Total (34 teams)''' || '''4''' || '''12''' || '''13''' || '''6''' || '''12''' || '''12''' || '''10''' || '''10''' || '''9''' || '''9''' || '''10''' || '''14''' || '''14''' || '''14''' || '''13''' || '''15''' || '''15''' ||'''14''' ||'''13''' ||'''13''' ||'''13''' || '''13''' || '''16''' || '''TBD''' || '''TBD'''
+!
+|}
+
+=== FIFA Women's World Cup ===
+{{Main|FIFA Women's World Cup records and statistics}}
+
+{| class="wikitable" style="text-align:center; font-size:85%;"
+!colspan=12|[[FIFA Women's World Cup]] record
+|-
+! Team !! [[1991 FIFA Women's World Cup|1991]]<br />{{Flag icon|China}}<br />(12) !! [[1995 FIFA Women's World Cup|1995]]<br />{{Flag icon|Sweden}}<br />(12) !! [[1999 FIFA Women's World Cup|1999]]<br />{{Flag icon|USA}}<br />(16) !! [[2003 FIFA Women's World Cup|2003]]<br />{{Flag icon|USA}}<br />(16) !! [[2007 FIFA Women's World Cup|2007]]<br />{{Flag icon|China}}<br />(16) !! [[2011 FIFA Women's World Cup|2011]]<br />{{Flag icon|Germany}}<br />(16) !! [[2015 FIFA Women's World Cup|2015]] <br />{{Flag icon|CAN}}<br />(24)!! [[2019 FIFA Women's World Cup|2019]]<br />{{Flag icon|FRA}}<br />(24) !! [[2023 FIFA Women's World Cup|2023]]<br />{{flagicon|Australia}}<br />{{flagicon|New Zealand}}<br />(32) !! [[2027 FIFA Women's World Cup|2027]]<br />{{Flag icon|BRA}}<br />(32) !! Years
+|-
+| align=left| {{fbw|DEN}}
+| QF<br />{{small|7th}} || QF<br />{{small|7th}} || R1<br />{{small|15th}} || • || R1<br />{{small|12th}} || • || • || • || R2<br />{{small|11th}} || Q
+! 6
+|-
+| align=left| {{fbw|ENG}}
+| • || QF<br />{{small|6th}} || • || • || QF<br />{{small|7th}} || QF<br />{{small|7th}} || bgcolor=#cc9966|3rd || bgcolor=#9acdff| 4th || bgcolor=silver|2nd ||
+! 6
+|-
+| align=left| {{fbw|FRA}}
+| • || • || • || R1<br />{{small|9th}} || • || bgcolor=#9acdff|4th || QF<br />{{small|5th}} || style="border:3px solid red"| QF<br />{{small|6th}} || QF<br />{{small|6th}} || Q
+! 6
+|-
+| align=left| {{fbw|GER}}
+| bgcolor=#9acdff|4th || bgcolor=silver|2nd || QF<br />{{small|8th}} || bgcolor=gold|1st || bgcolor=gold|1st || style="border:3px solid red"| QF<br />{{small|6th}} || bgcolor=#9acdff|4th || QF<br />{{small|5th}} || R1<br />{{small|17th}} || Q
+! 10
+|-
+| align=left| {{fbw|ITA}}
+| QF<br />{{small|6th}} || • || R1<br />{{small|9th}} || • || • || • || • || QF<br />{{small|7th}} || R1<br />{{small|22nd}} ||
+! 4
+|-
+| align=left| {{fbw|NED}}
+| • || • || • || • || • || • || R2<br />{{small|13th}} || bgcolor=silver|2nd || QF<br />{{small|7th}} ||
+! 3
+|-
+| align=left| {{fbw|NOR}}
+| bgcolor=silver|2nd || bgcolor=gold|1st || bgcolor=#9acdff|4th || QF<br />{{small|7th}} || bgcolor=#9acdff|4th || R1<br />{{small|10th}} || R2<br />{{small|10th}} || QF<br />{{small|8th}} || R2<br />{{small|15th}} ||
+! 9
+|-
+| align=left| {{fbw|POR}}
+| × || • || • || • || • || • || • || • || R1<br />{{small|19th}} ||
+! 1
+|-
+| align=left| {{fbw|IRL}}
+| • || × || • || • || • || • || • || • || R1<br />{{small|26th}} ||
+! 1
+|-
+| align=left| {{fbw|RUS}}
+| × || • || QF<br />{{small|5th}} || QF<br />{{small|8th}} || • || • || • || • || × || ×
+! 2
+|-
+| align=left| {{fbw|SCO}}
+| • || • || • || • || • || • || • || R1<br />{{small|19th}} || • ||
+! 1
+|-
+| align=left| {{fbw|ESP}}
+| • || • || • || • || • || • || R1<br />{{small|20th}} || R2<br />{{small|12th}} || bgcolor=gold|1st || Q
+! 4
+|-
+| align=left| {{fbw|SWE}}
+| bgcolor=#cc9966|3rd || style="border:3px solid red"| QF<br />{{small|5th}} || QF<br />{{small|6th}} || bgcolor=silver|2nd || R1<br />{{small|T-10th}} || bgcolor=#cc9966|3rd || R2 <br />{{small|16th}} || bgcolor=#cc9966|3rd || bgcolor=#cc9966|3rd ||
+! 9
+|-
+| align=left| {{fbw|SUI}}
+| • || • || • || • || • || • || R2<br />{{small|15th}} || • || R2<br />{{small|14th}} ||
+! 2
+|-
+! Total (14 teams) !! 5 !! 5 !! 6 !! 5 !! 5 !! 5 !! 8 !! 9 !! 12 !! 11/12 !! 60
+|}
+
+=== Olympic Games ===
+==== Men's tournament ====
+{{See also|Football at the Summer Olympics#Participating nations}}
+{| class="wikitable" style="text-align:center; font-size:85%;"
+! colspan="30" |[[Football at the Summer Olympics|Olympic Games]] ([[Football at the Summer Olympics#Men's tournament|Men's tournament]]) record
+|-
+! Team|| [[Football at the 1900 Summer Olympics|1900]]<br />{{flagicon|France}}<br />(3) || [[Football at the 1904 Summer Olympics|1904]]<br />{{flagicon|United States}}<br />(3) || [[Football at the 1908 Summer Olympics|1908]]<br />{{flagicon|Great Britain}}<br />(6) || [[Football at the 1912 Summer Olympics|1912]]<br />{{flagicon|Sweden}}<br />(11) || [[Football at the 1920 Summer Olympics|1920]]<br />{{flagicon|Belgium}}<br />(14) || [[Football at the 1924 Summer Olympics|1924]]<br />{{flagicon|France}}<br />(22) || [[Football at the 1928 Summer Olympics|1928]]<br />{{flagicon|Netherlands}}<br />(17) || [[Football at the 1936 Summer Olympics|1936]]<br />{{flagicon|Germany|Nazi}}<br />(16) || [[Football at the 1948 Summer Olympics|1948]]<br />{{flagicon|United Kingdom}}<br />(18) || [[Football at the 1952 Summer Olympics|1952]]<br />{{flagicon|Finland}}<br />(25) || [[Association football at the 1956 Summer Olympics|1956]]<br />{{flagicon|Australia}}<br />(11) || [[Football at the 1960 Summer Olympics|1960]]<br />{{flagicon|Italy}}<br />(16) || [[Football at the 1964 Summer Olympics|1964]]<br />{{flagicon|Japan|1947}}<br />(14) || [[Football at the 1968 Summer Olympics|1968]]<br />{{flagicon|Mexico}}<br />(16) || [[Football at the 1972 Summer Olympics|1972]]<br />{{flagicon|FRG}}<br />(16) || [[Football at the 1976 Summer Olympics|1976]]<br />{{flagicon|Canada}}<br />(13) || [[Football at the 1980 Summer Olympics|1980]]<br />{{flagicon|Soviet Union|1955}}<br />(16) || [[Football at the 1984 Summer Olympics|1984]]<br />{{flagicon|United States}}<br />(16) || [[Football at the 1988 Summer Olympics|1988]]<br />{{flagicon|South Korea|1997}}<br />(16) || [[Football at the 1992 Summer Olympics|1992]]<br />{{flagicon|Spain}}<br />(16) || [[Football at the 1996 Summer Olympics – Men's tournament|1996]]<br />{{flagicon|United States}}<br />(16) || [[Football at the 2000 Summer Olympics – Men's tournament|2000]]<br />{{flagicon|Australia}}<br />(16) || [[Football at the 2004 Summer Olympics – Men's tournament|2004]]<br />{{flagicon|Greece}}<br />(16) || [[Football at the 2008 Summer Olympics – Men's tournament|2008]]<br />{{flagicon|China}}<br />(16) || [[Football at the 2012 Summer Olympics – Men's tournament|2012]]<br />{{flagicon|GBR}}<br />(16) || [[Football at the 2016 Summer Olympics – Men's tournament|2016]]<br />{{flagicon|Brazil}}<br />(16) || [[Football at the 2020 Summer Olympics – Men's tournament|2020]]<br />{{flagicon|Japan}}<br />(16) || [[Football at the 2024 Summer Olympics – Men's tournament|2024]]<br />{{flagicon|France}}<br />(16) || Years
+|-
+|align=left| {{flagIOC|AUT}} || – || – || – || 6 || – || – || – || style="background:silver;"| 2 || =11 || =5 || – || – || – || – || – || – || – || – || – || – || – || – || – || – || – || – || – || –
+! '''4'''
+|-
+|align=left| {{flagIOC|BLR}} || – || – || – || – || – || – || – || – || – || – || – || – || – || – || – || – || – || – || – || – || – || – || – || – || 10 || – || – || –
+! '''1'''
+|-
+|align=left| {{flagIOC|BEL}}|| style="background:#c96;"| 3 || – || – || – ||style="border:3px solid red; background:gold"|1 || 15 || =5 || – || – || – || – || – || – || – || – || – || – || – || – || – || – || – || – || 4 || – || – || – || –
+! '''5'''
+|-
+|align=left| {{flagIOC|BUL}}|| – || – || – || – || – || 10 || – || – || – || =17 || style="background:#c96;"| 3 || 5 || – || style="background:silver;"| 2 || – || – || – || – || – || – || – || – || – || – || – || – || – || –
+! '''5'''
+|-
+|align=left| {{flagIOC|CZE}} || – || – || – || – || – || – || – || – || – || – || – || – || – || – || – || – || – || – || – || – || – || 14 || – || – || – || – || – || –
+! '''1'''
+|-
+|align=left| {{flagIOC|TCH}}|| – || – || – || – || 9 || 9 || – || – || – || – || – || – || style="background:silver;"| 2 || 9 || – || – ||bgcolor=gold| 1 || – || – ||colspan=9|Split into Slovakia and Czech Republic
+! '''5'''
+|-
+|align=left| {{flagIOC|DEN}}|| – || – || style="background:silver;"| 2 || style="background:silver;"| 2 || 10 || – || – || – || style="background:#c96;"|3 || =5 || – || style="background:silver;"| 2 || – || – || 6 || – || – || – || – || 13 || – || – || – || – || – || 8 || – || –
+! '''9'''
+|-
+|align=left| {{flagIOC|GDR}}{{efn|name="gdr1964"|The East German team represented the [[United Team of Germany]] in 1964, winning the bronze medal.}} || – || – || – || – || – || – || – || – || – || – || – || – || style="background:#c96;"| 3 || – || style="background:#c96;"| 3 ||bgcolor=gold| 1 || style="background:silver;"| 2 || – || – ||colspan=9|Merged with West Germany
+! '''4'''
+|-
+|align=left| {{flagIOC|EST}}|| – || – || – || – || – || =17 || – || – || – || – || – || – || – || – || – || – || – || – || – || – || – || – || – || – || – || – || – || –
+! '''1'''
+|-
+|align=left| {{flagIOC|FIN}} || – || – || – || 4 || – || – || – || =9 || – || style="border:3px solid red"|=14 || – || – || – || – || – || – || 9 || – || – || – || – || – || – || – || – || – || – || –
+! '''4'''
+|-
+|align=left| {{flagIOC|FRA}} || style="border:3px solid red; background:silver"|2 || – || 5 || – || 4 || style="border:3px solid red"|5 || =9 || – || =5 || =17 || – || 9 || – || 7 || – || 5 || – ||bgcolor=gold| 1 || – || – || 5 || – || – || – || – || – || 13 || style="border:3px solid red; background:silver"|2
+! '''14'''
+|-
+|align=left| {{flagIOC|GER}}{{efn|name="ger"|The team represented the [[United Team of Germany]] in 1956, and the [[West Germany|Federal Republic of Germany]] (i.e., West Germany) in 1972, 1984 and 1988, and winning the bronze medal in 1988.}}|| – || – || – || 7 || – || – || =5 || style="border:3px solid red"|=6 || – || 4 || =9 || – || – || – || style="border:3px solid red"|5 || – || – || 5 || style="background:#c96;"| 3 || – || – || – || – || – || – || style="background:silver;"| 2 || 9 || –
+! '''10'''
+|-
+|align=left| {{flagIOC|GBR}}||bgcolor=gold| 1 || – ||style="border:3px solid red; background:gold"|1 ||bgcolor=gold| 1 || 11 || – || – || =6 || style="border:3px solid red"|4 || =17 || =5 || 8 || – || – || – || – || – || – || – || – || – || – || – || – || style="border:3px solid red"|5 || – || – || –
+! '''10'''
+|-
+|align=left| {{flagIOC|GRE}}|| – || – || – || – || 13 || – || – || – || – || =17 || – || – || – || – || – || – || – || – || – || – || – || – || style="border:3px solid red"|15 || – || – || – || – || –
+! '''3'''
+|-
+|align=left| {{flagIOC|HUN}}|| – || – || – || 5 || – || 13 || – || =9 || – ||bgcolor=gold|1|| – || style="background:#c96;"| 3 ||bgcolor=gold|1 ||bgcolor=gold|1|| style="background:silver;"| 2 || – || – || – || – || – || 16 || – || – || – || – || – || – || –
+! '''9'''
+|-
+|align=left| {{flagIOC|IRL}} || – || – || – || – || – || 7 || – || – || =17 || – || – || – || – || – || – || – || – || – || – || – || – || – || – || – || – || – || – || –
+! '''2'''
+|-
+|align=left| {{flagIOC|ISR}} || colspan="16" |Competed with Asia (qualified 2 times)|| – || – || – || – || – || – || – || – || – || – || – || 15
+! '''3'''
+|-
+|align=left| {{flagIOC|ITA}} || – || – || – || 8 || 5 || 6 || style="background:#c96;"| 3 ||bgcolor=gold| 1 || =5 || =9 || – || style="border:3px solid red"|4 || – || – || – || – || – || 4 || 4 || 5 || 12 || 5 || style="background:#c96;"| 3 || 5 || – || – || – || –
+! '''15'''
+|-
+|align=left| {{flagIOC|LAT}} || – || – || – || – || – || 16 || – || – || – || – || – || – || – || – || – || – || – || – || – || – || – || – || – || – || – || – || – || –
+! '''1'''
+|-
+|align=left| {{flagIOC|LTU}} || – || – || – || – || – || =17 || – || – || – || – || – || – || – || – || – || – || – || – || – || – || – || – || – || – || – || – || – || –
+! '''1'''
+|-
+|align=left| {{flagIOC|LUX}} || – || – || – || – || 12 || 11 || =9 || =9 || =9 || =9 || – || – || – || – || – || – || – || – || – || – || – || – || – || – || – || – || – || –
+! '''6'''
+|-
+|align=left| {{flagIOC|NED}} || – || – || style="background:#c96;"| 3 || style="background:#c96;"| 3 || style="background:#c96;"| 3 || 4 || style="border:3px solid red"|=9 || – || =9 || =17 || – || – || – || – || – || – || – || – || – || – || – || – || – || 7 || – || – || – || –
+! '''8'''
+|-
+|align=left| {{flagIOC|NOR}} || – || – || – || 9 || 7 || – || – || style="background:#c96;"| 3 || – || =14 || – || – || – || – || – || – || – || 10 || – || – || – || – || – || – || – || – || – || –
+! '''5'''
+|-
+|align=left| {{flagIOC|POL}} || – || – ||– || – || – || =17 || – || 4 || – || =9 || – || 10 || – || – || bgcolor="gold" | 1 || style="background:silver;" | 2 || – || – || – || style="background:silver;" | 2 || – || – || – || – || – || – || – || –
+! '''7'''
+|-
+|align=left| {{flagIOC|POR}}|| – || – || – || – || – || – || =5 || – || – || – || – || – || – || – || – || – || – || – || – || – || 4 || – || 14 || – || – || 6 || – || –
+! '''4'''
+|-
+|align=left| {{flagIOC|ROU}}|| – || – || – || – || – || 14 || – || – || – || =17 || – || – || 5 || – || – || – || – || – || – || – || – || – || – || – || – || – || 11 || –
+! '''4'''
+|-
+|align=left| {{flagIOC|RUS}}|| – || – || – || 10 || – || – || – || – || – || – || – || – || – || – || – || – || – || – || – || – || – || – || – || – || – || – || – || –
+! '''1'''
+|-
+|align=left| {{flagIOC|SRB}} || – || – || – || – || – || – || – || – || – || – || – || – || – || – || – || – || – || – || – || – || – || – || – || 12 || – || – || – || –
+! '''1'''
+|-
+|align=left| {{flagIOC|SCG|2004 Summer}}|| – || – || – || – || – || – || – || – || – || – || – || – || – || – || – || – || – || – || – || – || – || – || 16 || colspan=5| Split into 2 nations
+! '''1'''
+|-
+|align=left| {{flagIOC|SVK}} || – || – || – || – || – || – || – || – || – || – || – || – || – || – || – || – || – || – || – || – || – || 13 || – || – || – || – || – || –
+! '''1'''
+|-
+|align=left| {{flagIOC|URS}} || – || – || – || – || – || – || – || – || – || =9 ||bgcolor=gold| 1 || – || – || – || style="background:#c96;"| 3 || style="background:#c96;"| 3 || style="background:#c96;"| 3 || – ||bgcolor=gold| 1 || – ||colspan=8|Split into 15 nations
+! '''6'''
+|-
+|align=left| {{flagIOC|ESP}} || – || – || – || – || style="background:silver;"| 2 || =17 || =5 || – || – || – || – || – || – || 6 || – || 12 || 10 || – || – || style="border:3px solid red; background:gold"|1 || 6 || style="background:silver;"| 2 || – || – || 14 || – || style="background:silver;"| 2 || style="background:gold"|1
+! '''12'''
+|-
+|align=left| {{flagIOC|SWE}} || – || – || 4 || style="border:3px solid red"|11 || 6 || style="background:#c96;"| 3 || – || =9 ||bgcolor=gold| 1 || style="background:#c96;"| 3 || – || – || – || – || – || – || – || – || 6 || 6 || – || – || – || – || – || 15 || – || –
+! '''10'''
+|-
+|align=left| {{flagIOC|SUI}} || – || – || – || – || – || style="background:silver;"| 2 || =9 || – || – || – || – || – || – || – || – || – || – || – || – || – || – || – || – || – || 13 || – || – || –
+! '''3'''
+|-
+|align=left| {{flagIOC|TUR}} || – || – || – || – || – || =17 || =9 || =9 || =5 || =5 || – || 14 || – || – || – || – || – || – || – || – || – || – || – || – || – || – || – || –
+! '''6'''
+|-
+|align=left| {{flagIOC|UKR}} || – || – || – || – || – || – || – || – || – || – || – || – || – || – || – || – || – || – || – || – || – || – || – || – || – || – || – || 9
+! '''1'''
+|-
+|align=left| {{flagIOC|YUG}} || – || – || – || – || 9 || =17 || =9 || – || style="background:silver;"| 2 || style="background:silver;"| 2 || style="background:silver;"| 2 ||bgcolor=gold| 1 || 6 || – || – || – || 4 || style="background:#c96;"| 3 || 10 || – ||colspan=8|Split into 7 nations
+! '''11'''
+|-
+! align=left| '''Total (37 teams)''' || '''3''' || '''0''' || '''6''' || '''11''' || '''13''' || '''18''' || '''11''' || '''10''' || '''10''' || '''19''' || '''5''' || '''9''' || '''6''' || '''5''' || '''6''' || '''5''' || '''6''' || '''5''' || '''5''' || '''5''' || '''5''' || '''4''' || '''4''' || '''4''' || '''4''' || '''4''' || '''4''' || '''4'''
+!
+|}
+
+==== Women's tournament ====
+{{See also|Football at the Summer Olympics#Participating nations 2}}
+{| class="wikitable" style="text-align:center; font-size:85%;"
+!colspan=10|[[Football at the Summer Olympics|Olympic Games]] ([[Football at the Summer Olympics#Women's tournament|Women's tournament]]) record
+|-
+! Team
+! [[Football at the 1996 Summer Olympics – Women's tournament|1996]]<br />{{flagicon|United States}}<br />(8)
+! [[Football at the 2000 Summer Olympics – Women's tournament|2000]]<br />{{flagicon|Australia}}<br />(8)
+! [[Football at the 2004 Summer Olympics – Women's tournament|2004]]<br />{{flagicon|Greece}}<br />(10)
+! [[Football at the 2008 Summer Olympics – Women's tournament|2008]]<br />{{flagicon|China}}<br />(12)
+! [[Football at the 2012 Summer Olympics – Women's tournament|2012]]<br />{{flagicon|GBR}}<br />(12)
+! [[Football at the 2016 Summer Olympics – Women's tournament|2016]]<br />{{flagicon|Brazil}}<br />(12)
+! [[Football at the 2020 Summer Olympics – Women's tournament|2020]]<br />{{flagicon|Japan}}<br />(12)
+! [[Football at the 2024 Summer Olympics – Women's tournament|2024]]<br />{{flagicon|France}}<br />(12)
+! Years
+|-
+| align=left| {{flagIOC|DEN}} || 8 || – || – || – || – || – || – || –
+! 1
+|-
+| align=left| {{flagIOC|FRA}} || – || – || – || – || 4 || 6 || – || style="border:3px solid red"|6
+! 3
+|-
+| align=left| {{flagIOC|GER}} || 5 || style="background:#c96;"| 3 || style="background:#c96;"| 3 || style="background:#c96;"| 3|| – || bgcolor=gold| 1 || – || style="background:#c96;"| 3
+! 6
+|-
+| align=left| {{flagIOC|GBR}} || – || – || – || – || style="border:3px solid red"|5 || – || 7 || –
+! 2
+|-
+| align=left| {{flagIOC|GRE}} || – || – || style="border:3px solid red"|10 || – || – || – || – || –
+! 1
+|-
+| align=left| {{flagIOC|NED}} || – || – || – || – || – || – || 5 || –
+! 1
+|-
+| align=left| {{flagIOC|NOR}} || style="background:#c96;"| 3 ||bgcolor=gold| 1 || – || 7 || – || – || – || –
+! 3
+|-
+| align=left| {{flagIOC|ESP}} || – || – || – || – || – || – || – || 4
+! 1
+|-
+| align=left| {{flagIOC|SWE}} || 6 || 6 || 4 || 6 || 7 || style="background:silver;"| 2 ||  style="background:silver;"| 2 || –
+! 7
+|-
+! align=left| Total (9 teams) !! 4 !! 3 !! 3 !! 3 !! 3 !! 3 !! 3 !! 3
+! 25
+|}
+
+=== UEFA European Championship ===
+{{Main|UEFA European Championship records and statistics}}
+
+{| class="wikitable" style="text-align:center; font-size:85%;"
+! colspan=39|[[UEFA European Championship]] record
+|-
+! Team<br />(Total 36 teams)
+! [[1960 European Nations' Cup|1960]]<br />{{flagicon|France}}<br />(4)
+! [[1964 European Nations' Cup|1964]]<br /> {{flagicon|Spain|1945}}<br />(4)
+! [[UEFA Euro 1968|1968]]<br /> {{flagicon|Italy}}<br />(4)
+! [[UEFA Euro 1972|1972]]<br /> {{flagicon|Belgium}}<br />(4)
+! [[UEFA Euro 1976|1976]]<br /> {{flagicon|Yugoslavia}}<br />(4)
+! [[UEFA Euro 1980|1980]]<br /> {{flagicon|Italy}}<br />(8)
+! [[UEFA Euro 1984|1984]]<br /> {{flagicon|France|1974}}<br />(8)
+! [[UEFA Euro 1988|1988]]<br /> {{flagicon|West Germany}}<br />(8)
+! [[UEFA Euro 1992|1992]]<br /> {{flagicon|Sweden}}<br />(8)
+! [[UEFA Euro 1996|1996]]<br /> {{flagicon|England}}<br />(16)
+! [[UEFA Euro 2000|2000]]<br /> {{flagicon|Belgium}}<br /> {{flagicon|Netherlands}}<br />(16)
+! [[UEFA Euro 2004|2004]]<br /> {{flagicon|Portugal}}<br />(16)
+! [[UEFA Euro 2008|2008]]<br /> {{flagicon|Austria}}<br /> {{flagicon|Switzerland}}<br />(16)
+! [[UEFA Euro 2012|2012]]<br /> {{flagicon|Poland}}<br /> {{flagicon|Ukraine}}<br />(16)
+! [[UEFA Euro 2016|2016]]<br /> {{flagicon|France|1974}}<br />(24)
+! [[UEFA Euro 2020|2020]]<br /> {{flagicon|Europe}}<br />(24)
+! [[UEFA Euro 2024|2024]]<br /> {{flagicon|Germany}}<br />(24)
+! [[UEFA Euro 2028|2028]]<br /> {{flagicon|England}}<br />{{flagicon|Scotland}}<br /> {{flagicon|Wales}}<br /> {{flagicon|Republic of Ireland}}<br />(24)
+! [[UEFA Euro 2032|2032]]<br /> {{flagicon|Italy}}<br />{{flagicon|Turkey}}<br />(24)
+! Years
+|-
+| align=left| {{fb|Albania}}
+| ×
+| •
+| •
+| •
+| ×
+| ×
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| GS
+| •
+| GS
+|
+|
+! 2
+|-
+| align=left| {{fb|Austria}}
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| style="border:3px solid red"|GS
+| •
+| GS
+| R16
+| R16
+|
+|
+! 4
+|-
+| align=left| {{fb|Belgium}}
+| ×
+| •
+| •
+| style="border:3px solid red; background:#cc9966"|'''3rd'''
+| •
+| style="background:silver"|'''2nd'''
+| GS
+| •
+| •
+| •
+| style="border:3px solid red"|GS
+| •
+| •
+| •
+| QF
+| QF
+| R16
+|
+|
+! 7
+|-
+| align=left| {{fb|Bulgaria}}
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| GS
+| •
+| GS
+| •
+| •
+| •
+| •
+| •
+|
+|
+! 2
+|-
+| align=left| {{fb|Croatia}}
+| colspan=9|Part of {{fb|Yugoslavia}}
+| QF
+| •
+| GS
+| QF
+| GS
+| R16
+| R16
+| GS
+|
+|
+! 7
+|-
+| align=left| {{fb|Czech Republic}}{{efn|Includes three appearances as [[Czechoslovakia national football team|Czechoslovakia]]}}
+| style="background:#cc9966"|'''3rd'''
+| •
+| •
+| •
+| style="background:gold"|'''1st'''
+| style="background:#cc9966"|'''3rd'''
+| •
+| •
+| •
+| style="background:silver"|'''2nd'''
+| GS
+| style="background:#81c846"|'''SF'''
+| GS
+| QF
+| GS
+| QF
+| GS
+|
+|
+! 11
+|-
+| align=left| {{fb|Denmark}}
+| •
+| style="background:#9acdff"|'''4th'''
+| •
+| •
+| •
+| •
+| style="background:#81c846"|'''SF'''
+| GS
+| style="background:gold"|'''1st'''
+| GS
+| GS
+| QF
+| •
+| GS
+| •
+| style="border:3px solid red; background:#81c846"|'''SF'''
+| R16
+|
+|
+! 10
+|-
+| align=left| {{fb|England}}
+| ×
+| •
+| style="background:#cc9966"|'''3rd'''
+| •
+| •
+| GS
+| •
+| GS
+| GS
+| style="border:3px solid red; background:#81c846"|'''SF'''
+| GS
+| QF
+| •
+| QF
+| R16
+| style="border:3px solid red; background:silver"|'''2nd'''
+| style="background:silver"|'''2nd'''
+| style="border:3px solid red"|
+|
+! 11
+|-
+| align=left| {{fb|Finland}}
+| ×
+| ×
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| GS
+| •
+|
+|
+! 1
+|-
+| align=left| {{fb|France}}
+| style="border:3px solid red; background:#9acdff"|'''4th'''
+| •
+| •
+| •
+| •
+| •
+| style="border:3px solid red; background:gold"|'''1st'''
+| •
+| GS
+| style="background:#81c846"|'''SF'''
+| style="background:gold"|'''1st'''
+| QF
+| GS
+| QF
+| style="border:3px solid red; background:silver"|'''2nd'''
+| R16
+| style="background:#81c846"|'''SF'''
+|
+|
+! 11
+|-
+|-
+| align=left| {{fb|Georgia}}
+| colspan=9|Part of {{fb|Soviet Union}}
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| R16
+|
+|
+! 1
+|-
+| align=left| {{fb|Germany}}{{efn|Includes five appearances as West Germany}}
+| ×
+| ×
+| •
+| style="background:gold"|'''1st'''
+| style="background:silver"|'''2nd'''
+| style="background:gold"|'''1st'''
+| GS
+| style="border:3px solid red; background:#81c846"|'''SF'''
+| style="background:silver"|'''2nd'''
+| style="background:gold"|'''1st'''
+| GS
+| GS
+| style="background:silver"|'''2nd'''
+| style="background:#81c846"|'''SF'''
+| style="background:#81c846"|'''SF'''
+| style="border:3px solid red"|R16
+| style="border:3px solid red"|QF
+|
+|
+! 14
+|-
+| align=left| {{fb|Greece}}
+| •
+| ×{{efn|Greece entered the 1964 competition, but later withdrew after refusing to play Albania.}}
+| •
+| •
+| •
+| GS
+| •
+| •
+| •
+| •
+| •
+| style="background:gold"|'''1st'''
+| GS
+| QF
+| •
+| •
+| •
+|
+|
+! 4
+|-
+| align=left| {{fb|Hungary}}
+| •
+| style="background:#cc9966"|'''3rd'''
+| •
+| style="background:#9acdff"|'''4th'''
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| R16
+| style="border:3px solid red"|GS
+| GS
+|
+|
+! 5
+|-
+| align=left| {{fb|Iceland}}
+| ×
+| •
+| ×
+| ×
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| QF
+| •
+| •
+|
+|
+! 1
+|-
+| align=left| {{fb|Italy}}
+| ×
+| •
+| style="border:3px solid red; background:gold"|'''1st'''
+| •
+| •
+| style="border:3px solid red; background:#9acdff"|'''4th'''
+| •
+| style="background:#81c846"|'''SF'''
+| •
+| GS
+| style="background:silver"|'''2nd'''
+| GS
+| QF
+| style="background:silver"|'''2nd'''
+| QF
+| style="border:3px solid red; background:gold" |'''1st'''
+| R16
+|
+| style="border:3px solid red"|''Q''
+! 11
+|-
+| align=left| {{fb|Latvia}}
+| colspan=9|Part of {{fb|Soviet Union}}
+| •
+| •
+| GS
+| •
+| •
+| •
+| •
+| •
+|
+|
+! 1
+|-
+| align=left| {{fb|Netherlands}}
+| ×
+| •
+| •
+| •
+| style="background:#cc9966"|'''3rd'''
+| GS
+| •
+| style="background:gold"|'''1st'''
+| style="background:#81c846"|'''SF'''
+| QF
+| style="border:3px solid red; background:#81c846"|'''SF'''
+| style="background:#81c846"|'''SF'''
+| QF
+| GS
+| •
+| style="border:3px solid red"|R16
+| style="background:#81c846"|'''SF'''
+|
+|
+! 11
+|-
+| align=left| {{fb|North Macedonia}}
+| colspan=9|Part of {{fb|Yugoslavia}}
+| •
+| •
+| •
+| •
+| •
+| •
+| GS
+| •
+|
+|
+! 1
+|-
+| align=left| {{fb|Northern Ireland}}
+| ×
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| R16
+| •
+| •
+| style="border:3px solid red"|
+|
+! 1
+|-
+| align=left| {{fb|Norway}}
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| GS
+| •
+| •
+| •
+| •
+| •
+| •
+|
+|
+! 1
+|-
+| align=left| {{fb|Poland}}
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| GS
+| style="border:3px solid red"|GS
+| QF
+| GS
+| GS
+|
+|
+! 5
+|-
+| align=left| {{fb|Portugal}}
+| •
+| •
+| •
+| •
+| •
+| •
+| style="background:#81c846"|'''SF'''
+| •
+| •
+| QF
+| style="background:#81c846"|'''SF'''
+| style="border:3px solid red; background:silver"|'''2nd'''
+| QF
+| style="background:#81c846"|'''SF'''
+| style="background:gold"|'''1st'''
+| R16
+| QF
+|
+|
+! 9
+|-
+| align=left| {{fb|Republic of Ireland}}
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| GS
+| •
+| •
+| •
+| •
+| •
+| GS
+| R16
+| •
+| •
+| style="border:3px solid red"|
+|
+! 3
+|-
+| align=left| {{fb|Romania}}
+| •
+| •
+| •
+| •
+| •
+| •
+| GS
+| •
+| •
+| GS
+| QF
+| •
+| GS
+| •
+| GS
+| style="border:3px solid red"|•
+| R16
+|
+|
+! 6
+|-
+| align=left| {{fb|Russia}}{{efn|Includes five appearances as the [[Soviet Union national football team|Soviet Union]] and one as [[CIS national football team|CIS]]}}
+| style="background:gold"|'''1st'''
+| style="background:silver"|'''2nd'''
+| style="background:#9acdff"|'''4th'''
+| style="background:silver"|'''2nd'''
+| •
+| •
+| •
+| style="background:silver"|'''2nd'''
+| GS
+| GS
+| •
+| GS
+| style="background:#81c846"|'''SF'''
+| GS
+| GS
+| style="border:3px solid red"|GS
+| ×
+|
+|
+! 12
+|-
+| align=left| {{fb|Scotland}}
+| ×
+| ×
+| •
+| •
+| •
+| •
+| •
+| •
+| GS
+| GS
+| •
+| •
+| •
+| •
+| •
+| style="border:3px solid red"|GS
+| GS
+| style="border:3px solid red"|
+|
+! 4
+|-
+| align=left| {{fb|Serbia}}{{efn|Includes four appearances as [[Yugoslavia national football team|Yugoslavia]] and one as [[Serbia and Montenegro national football team|FR Yugoslavia]]}}
+| style="background:silver"|'''2nd'''
+| •
+| style="background:silver"|'''2nd'''
+| •
+| style="border:3px solid red; background:#9acdff"|'''4th'''
+| •
+| GS
+| •
+| •×{{efn|Does not include Euro 1992 qualification and disqualification due to international sanctions}}
+| ×
+| QF
+| •
+| •
+| •
+| •
+| •
+| GS
+|
+|
+! 6
+|-
+| align=left| {{fb|Slovakia}}{{efn|Includes three appearances as [[Czechoslovakia national football team|Czechoslovakia]].<ref>{{cite news |date=28 December 2023 |title=Who has qualified for UEFA EURO 2024? |url=https://www.uefa.com/euro2024/news/0286-193531eba9a8-763890f6436d-1000--who-has-qualified-for-uefa-euro-2024/ |website=UEFA.com |publisher=Union of European Football Associations |access-date=5 January 2024 }}</ref>}}
+| style="background:#cc9966"|'''3rd'''
+| •
+| •
+| •
+| style="background:gold"|'''1st'''
+| style="background:#cc9966"|'''3rd'''
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| R16
+| GS
+| R16
+|
+|
+! 6
+|-
+| align=left| {{fb|Slovenia}}
+| colspan=9|Part of {{fb|Yugoslavia}}
+| •
+| GS
+| •
+| •
+| •
+| •
+| •
+| R16
+|
+|
+! 2
+|-
+| align=left| {{fb|Spain}}
+| •×{{efn|Spain refused to travel to the Soviet Union for their qualification match, so the Soviet Union qualified by walkover.}}
+| style="border:3px solid red; background:gold"|'''1st'''
+| •
+| •
+| •
+| GS
+| style="background:silver"|'''2nd'''
+| GS
+| •
+| QF
+| QF
+| GS
+| style="background:gold"|'''1st'''
+| style="background:gold"|'''1st'''
+| R16
+| style="border:3px solid red; background:#81c846"|'''SF'''
+| style="background:gold"|'''1st'''
+|
+|
+! 12
+|-
+| align=left| {{fb|Sweden}}
+| ×
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| style="border:3px solid red; background:#81c846"|'''SF'''
+| •
+| GS
+| QF
+| GS
+| GS
+| GS
+| R16
+| •
+|
+|
+! 7
+|-
+| align=left| {{fb|Switzerland}}
+| ×
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| GS
+| •
+| GS
+| style="border:3px solid red"|GS
+| •
+| R16
+| QF
+| QF
+|
+|
+! 6
+|-
+| align=left| {{fb|Turkey}}
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| GS
+| QF
+| •
+| style="background:#81c846"|'''SF'''
+| •
+| GS
+| GS
+| QF
+|
+| style="border:3px solid red"|''Q''
+! 6
+|-
+| align=left| {{fb|Ukraine}}
+| colspan=9|Part of {{fb|Soviet Union}}
+| •
+| •
+| •
+| •
+| style="border:3px solid red"|GS
+| GS
+| QF
+| GS
+|
+|
+! 4
+|-
+| align=left| {{fb|Wales}}
+| ×
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| style="background:#81c846"|'''SF'''
+| R16
+| •
+| style="border:3px solid red"|
+|
+! 2
+|}
+
+=== UEFA Women's Championship ===
+{{See also|UEFA Women's Championship records and statistics}}
+{| class="wikitable" style="text-align:center; font-size:85%;"
+|-
+! Team
+! [[1984 European Competition for Women's Football|1984]] (4)
+! [[1987 European Competition for Women's Football|1987]]<br> {{Flagicon|Norway}} (4)
+! [[1989 European Competition for Women's Football|1989]]<br> {{Flagicon|West Germany}} (4)
+! [[UEFA Women's Euro 1991|1991]]<br> {{flagicon|Denmark}} (4)
+! [[UEFA Women's Euro 1993|1993]]<br> {{flagicon|Italy}} (4)
+! [[UEFA Women's Euro 1995|1995]] (4)
+! [[UEFA Women's Euro 1997|1997]]<br> {{flagicon|Norway}}<br>{{Flagicon|Sweden}} (8)
+! [[UEFA Women's Euro 2001|2001]]<br> {{flagicon|Germany}} (8)
+! [[UEFA Women's Euro 2005|2005]]<br> {{flagicon|England}} (8)
+! [[UEFA Women's Euro 2009|2009]]<br> {{flagicon|Finland}} (12)
+! [[UEFA Women's Euro 2013|2013]]<br> {{flagicon|Sweden}} (12)
+! [[UEFA Women's Euro 2017|2017]]<br> {{flagicon|NED}} (16)
+! [[UEFA Women's Euro 2022|2022]]<br> {{flagicon|ENG}} (16)
+! [[UEFA Women's Euro 2025|2025]]<br> {{flagicon|SUI}} (16)
+! [[UEFA Women's Euro 2029|2029]]<br> {{flagicon|GER}} (16)
+! Total
+|-
+|align=left| {{fbw|Austria}}
+| ×
+| ×
+| ×
+| ×
+| ×
+| ×
+| •
+| •
+| •
+| •
+| •
+|bgcolor=#9acdff| '''SF'''
+|bgcolor=#ff8b00| QF
+| •
+| 
+! 2
+|-
+|align=left| {{fbw|Belgium}}
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| GS
+|bgcolor=#ff8b00| QF
+| GS
+| 
+! 3
+|-
+|align=left| {{fbw|Denmark}}
+|bgcolor=#9acdff| '''SF'''
+| •
+| •
+|style="border:3px solid red" bgcolor=#cc9966| '''3rd'''
+|bgcolor=#cc9966| '''3rd'''
+| •
+| GS
+|bgcolor=#9acdff| '''SF'''
+| GS
+| GS
+|bgcolor=#9acdff| '''SF'''
+|bgcolor=Silver| '''2nd'''
+| GS
+| GS
+|
+! 11
+|-
+|align=left| {{fbw|England}}
+|bgcolor=Silver| '''2nd'''
+|bgcolor=#9acdff| '''4th'''
+| •
+| •
+| •
+|bgcolor=#9acdff| '''SF'''
+| •
+| GS
+|style="border:3px solid red"| GS
+|bgcolor=Silver| '''2nd'''
+| GS
+|bgcolor=#9acdff| '''SF'''
+|style="border:3px solid red" bgcolor=gold| '''1st'''
+|bgcolor=Gold| '''1st'''
+|
+! 10
+|-
+|align=left| {{fbw|Finland}}
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+|bgcolor=#9acdff| '''SF'''
+|style="border:3px solid red" bgcolor=#ff8b00| QF
+| GS
+| •
+| GS
+| GS
+|
+! 5
+|-
+|align=left| {{fbw|France}}
+| •
+| •
+| •
+| •
+| •
+| •
+| GS
+| GS
+| GS
+|bgcolor=#ff8b00| QF
+|bgcolor=#ff8b00| QF
+|bgcolor=#ff8b00| QF
+|bgcolor=#9acdff| '''SF'''
+|bgcolor=#ff8b00| QF
+|
+! 8
+|-
+|align=left| {{fbw|Germany}}{{efn|Includes participations as West Germany before 1991.}}
+| •
+| •
+|style="border:3px solid red" bgcolor=Gold| '''1st'''
+|bgcolor=Gold| '''1st'''
+|bgcolor=#9acdff| '''4th'''
+|bgcolor=Gold| '''1st'''
+|bgcolor=Gold| '''1st'''
+|style="border:3px solid red" bgcolor=Gold| '''1st'''
+|bgcolor=Gold| '''1st'''
+|bgcolor=Gold| '''1st'''
+|bgcolor=Gold| '''1st'''
+|bgcolor=#ff8b00| QF
+|bgcolor=Silver| '''2nd'''
+|bgcolor=#9acdff| '''SF'''
+|style="border:3px solid red"|''Q''
+! 13
+|-
+|align=left| {{fbw|Iceland}}
+| •
+| ×
+| ×
+| ×
+| •
+| •
+| •
+| •
+| •
+| GS
+|bgcolor=#ff8b00| QF
+| GS
+| GS
+| GS
+|
+! 5
+|-
+|align=left| {{fbw|Italy}}
+|bgcolor=#9acdff| '''SF'''
+|bgcolor=#cc9966| '''3rd'''
+|bgcolor=#9acdff| '''4th'''
+|bgcolor=#9acdff| '''4th'''
+|style="border:3px solid red" bgcolor=Silver| '''2nd'''
+| •
+|bgcolor=Silver| '''2nd'''
+| GS
+| GS
+|bgcolor=#ff8b00| QF
+|bgcolor=#ff8b00| QF
+| GS
+| GS
+|bgcolor=#9acdff| '''SF'''
+|
+! 13
+|-
+|align=left| {{fbw|Netherlands}}
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+|bgcolor=#9acdff| '''SF'''
+| GS
+|style="border:3px solid red" bgcolor=Gold| '''1st'''
+|bgcolor=#ff8b00| QF
+| GS
+|
+! 5
+|-
+|align=left| {{fbw|Northern Ireland}}
+| •
+| •
+| ×
+| •
+| ×
+| ×
+| ×
+| ×
+| ×
+| •
+| •
+| •
+| GS
+| •
+|
+! 1
+|-
+|align=left| {{fbw|Norway}}
+| •
+|style="border:3px solid red" bgcolor=Gold| '''1st'''
+|bgcolor=Silver| '''2nd'''
+|bgcolor=Silver| '''2nd'''
+|bgcolor=Gold| '''1st'''
+|bgcolor=#9acdff| '''SF'''
+|style="border:3px solid red"| GS
+|bgcolor=#9acdff| '''SF'''
+|bgcolor=Silver| '''2nd'''
+|bgcolor=#9acdff| '''SF'''
+|bgcolor=Silver| '''2nd'''
+| GS
+| GS
+|bgcolor=#ff8b00| QF
+|
+! 13
+|-
+|align=left| {{fbw|Poland}}
+| ×
+| ×
+| ×
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| GS
+|
+! 1
+|-
+|align=left| {{fbw|Portugal}}
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| GS
+| GS
+| GS
+|
+! 3
+|-
+|align=left| {{fbw|Russia}}
+|colspan=4| Part of {{fbw|Soviet Union}}
+| •
+| •
+| GS
+| GS
+| •
+| GS
+| GS
+| GS
+| ×
+| ×
+| 
+! 5
+|-
+|align=left| {{fbw|Scotland}}
+| •
+| •
+| ×
+| ×
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| GS
+| •
+| •
+|
+! 1
+|-
+|align=left| {{fbw|Spain}}
+| ×
+| •
+| •
+| •
+| •
+| •
+|bgcolor=#9acdff| '''SF'''
+| •
+| •
+| •
+|bgcolor=#ff8b00| QF
+|bgcolor=#ff8b00| QF
+|bgcolor=#ff8b00| QF
+|bgcolor=Silver| '''2nd'''
+|
+! 5
+|-
+|align=left| {{fbw|Sweden}}
+|bgcolor=Gold| '''1st'''
+|bgcolor=Silver| '''2nd'''
+|bgcolor=#cc9966| '''3rd'''
+| •
+| •
+|bgcolor=Silver| '''2nd'''
+|style="border:3px solid red" bgcolor=#9acdff| '''SF'''
+|bgcolor=Silver| '''2nd'''
+|bgcolor=#9acdff | '''SF'''
+|bgcolor=#ff8b00| QF
+|style="border:3px solid red" bgcolor=#9acdff| '''SF'''
+|bgcolor=#ff8b00| QF
+| bgcolor=#9acdff| '''SF'''
+|bgcolor=#ff8b00| QF
+|
+! 12
+|-
+|align=left| {{fbw|Switzerland}}
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| GS
+| GS
+|style="border:3px solid red" bgcolor=#ff8b00| QF
+|
+! 3
+|-
+|align=left| {{fbw|Ukraine}}
+|colspan=4| Part of {{fbw|Soviet Union}}
+| ×
+| •
+| •
+| •
+| •
+| GS
+| •
+| •
+| •
+| •
+|
+! 1
+|-
+|align=left| {{fbw|Wales}}
+| ×
+| ×
+| ×
+| ×
+| •
+| •
+| •
+| •
+| ×
+| •
+| •
+| •
+| •
+| GS
+|
+! 1
+|}
+
+=== FIFA U-20 World Cup ===
+{{Main|FIFA U-20 World Cup records and statistics}}
+
+{| class="wikitable" style="text-align:center; font-size:85%;"
+!colspan=26|[[FIFA U-20 World Cup]] record
+|-
+! width=200|Team
+![[1977 FIFA World Youth Championship|1977]]<br />{{Flagicon|Tunisia|1959}}<br />(16)
+![[1979 FIFA World Youth Championship|1979]]<br />{{Flagicon|Japan|1947}}<br />(16)
+![[1981 FIFA World Youth Championship|1981]]<br />{{Flagicon|Australia}}<br />(16)
+![[1983 FIFA World Youth Championship|1983]]<br />{{Flagicon|Mexico}}<br />(16)
+![[1985 FIFA World Youth Championship|1985]]<br />{{Flagicon|USSR}}<br />(16)
+![[1987 FIFA World Youth Championship|1987]]<br />{{Flagicon|Chile}}<br />(16)
+![[1989 FIFA World Youth Championship|1989]]<br />{{Flagicon|Saudi Arabia}}<br />(16)
+![[1991 FIFA World Youth Championship|1991]]<br />{{Flagicon|Portugal}}<br />(16)
+![[1993 FIFA World Youth Championship|1993]]<br />{{Flagicon|Australia}}<br />(16)
+![[1995 FIFA World Youth Championship|1995]]<br />{{Flagicon|Qatar}}<br />(16)
+![[1997 FIFA World Youth Championship|1997]]<br />{{Flagicon|Malaysia}}<br />(24)
+![[1999 FIFA World Youth Championship|1999]]<br />{{Flagicon|Nigeria}}<br />(24)
+![[2001 FIFA World Youth Championship|2001]]<br />{{Flagicon|Argentina}}<br />(24)
+![[2003 FIFA World Youth Championship|2003]]<br />{{Flagicon|United Arab Emirates}}<br />(24)
+![[2005 FIFA World Youth Championship|2005]]<br />{{Flagicon|Netherlands}}<br />(24)
+![[2007 FIFA U-20 World Cup|2007]]<br />{{Flagicon|Canada}}<br />(24)
+![[2009 FIFA U-20 World Cup|2009]]<br />{{Flagicon|Egypt}}<br />(24)
+![[2011 FIFA U-20 World Cup|2011]]<br />{{Flagicon|Colombia}}<br />(24)
+![[2013 FIFA U-20 World Cup|2013]]<br />{{Flagicon|Turkey}}<br />(24)
+![[2015 FIFA U-20 World Cup|2015]]<br />{{Flagicon|New Zealand}}<br />(24)
+![[2017 FIFA U-20 World Cup|2017]]<br />{{Flagicon|South Korea}}<br />(24)
+![[2019 FIFA U-20 World Cup|2019]]<br />{{Flagicon|Poland}}<br />(24)
+![[2023 FIFA U-20 World Cup|2023]]<br />{{Flagicon|Argentina}}<br />(24)
+![[2025 FIFA U-20 World Cup|2025]]<br />{{Flagicon|Chile}}<br />(24)
+!Years
+|- align=center
+| align=left| {{fbu|20|AUT}}
+| R1||•||•||R1||•||•||•||•||•||•||•||•||•||•||•||bgcolor=#9acdff|4th||•||R1||•||R2||•||•||•||•
+! 5
+|- align=center
+| align=left| {{fbu|20|BEL}}
+|•||•||•||•||•||•||•||•||•||•||R2||•||•||•||•||•||•||•||•||•||•||•|•||•||•
+! 1
+|- style="background:#f4f4f4;" align=center
+| align=left| {{fbu|20|BUL}}
+| •||•||•||•||QF||QF||•||•||•||•||•||•||•||•||•||•||•||•||•||•||•||•||•||•
+! 2
+|- style="background:#f4f4f4;" align=center
+| align=left| {{fbu|20|CRO}}
+| colspan=8| ||•||•||•||R2||•||•||•||•||•||R1||R2||•||•||•||•||•
+! 3
+|- style="background:#f4f4f4;" align=center
+| align=left| {{fbu|20|CZE}}
+| •||•||•||R1||•||•||R1||•||•||•||•||•||QF||R1||•||bgcolor=silver|2nd||R2||•||•||•||•||•||•||•
+! 6
+|- align=center
+| align=left| {{fbu|20|GDR}}
+| •||•||•||•||•||bgcolor=#cc9966|3rd||R1||•|| colspan=16|
+! 2
+|- align=center
+| align=left| {{fbu|20|ENG}}
+| •||•||bgcolor=#9acdff|4th||•||R1||•||•||R1||bgcolor=#cc9966|3rd||•||R2||R1||•||R1||•||•||R1||R2||R1||•||bgcolor=gold|1st|||•||R2||•
+! 12
+|- style="background:#f4f4f4;" align=center
+| align=left| {{fbu|20|FIN}}
+| •||•||•||•||•||•||•||•||•||•||•||•||R1||•||•||•||•||•||•||•||•||•||•||•
+! 1
+|- align=center
+| align=left| {{fbu|20|FRA}}
+| R1||•||•||•||•||•||•||•||•||•||QF||•||QF||•||•||•||•||bgcolor=#9acdff|4th||bgcolor=gold|1st||•||R2||R2||R1||bgcolor=#9acdff|4th
+! 9
+|- align=center
+| align=left| {{fbu|20|GER}}
+| •||•||bgcolor=gold|1st||•||•||bgcolor=silver|2nd||•||•||R1||R1||•||R1||R2||R1||QF||•||QF||•||•||QF||R2||•||•||•
+! 11
+|- align=center
+| align=left| {{fbu|20|GRE}}
+| •||•||•||•||•||•||•||•||•||•||•||•||•||•||•||•||•||•||R2||•||•||•||•||•
+! 1
+|- align=center
+| align=left| {{fbu|20|HUN}}
+| R1|| R1||•||•||R1||•||•||•||•||•||R1||•||•||•||•||•||bgcolor=#cc9966|3rd||•||•||R2||•||•||•||•
+! 6
+|- align=center
+| align=left| {{fbu|19|ISR}}
+| •||•||•||•||•||•||•||•||•||•||•||•||•||•||•||•||•||•||•||•||•||•||bgcolor=#cc9966|3rd||•
+! 1
+|- align=center
+| align=left| {{fbu|20|ITA}}
+| R1||•||R1||•||•||QF||•||•||•||•||•||•||•||•||QF||•||QF||•||•||•||bgcolor=#cc9966|3rd||bgcolor=#9acdff|4th||bgcolor=silver|2nd||R2
+! 9
+|- style="background:#f4f4f4;" align=center
+| align=left| {{fbu|19|KAZ}}{{efn|name="Kazakhstan"|''[[Kazakhstan]]'' represented [[Asian Football Confederation|AFC]] before 2000.}}
+| colspan=8| ||•||•||•||R1||•||•||•||•||•||•||•||•||•||•||•||•
+! 1
+|- style="background:#f4f4f4;" align=center
+| align=left| {{fbu|20|NED}}
+| •||•||•||QF||•||•||•||•||•||R1||•||•||QF||•||style="border: 3px solid red"|QF||•||•||•||•||•||•||•||•||•
+! 4
+|- style="background:#f4f4f4;" align=center
+| align=left| {{fbu|20|NOR}}
+| •||•||•||•||•||•||R1||•||R1||•||•||•||•||•||•||•||•||•||•||•||•||R1||•||QF
+! 4
+|- align=center
+| align=left| {{fbu|20|POL}}
+| • ||bgcolor=#9acdff|4th || R1 ||bgcolor=#cc9966|3rd ||•||•||•||•||•||•||•||•||•||•||•||R2||•||•||•||•||•||style="border: 3px solid red"|R2||•||•
+! 5
+|- style="background:#f4f4f4;" align=center
+| align=left| {{fbu|20|POR}}
+| •||QF||•||•||•||•||bgcolor=gold|1st||style="border: 3px solid red" bgcolor=gold|1st||R1||bgcolor=#cc9966|3rd||•||R2||•||•||•||R2||•||bgcolor=silver|2nd||R2||QF||QF||R1||•||•
+! 12
+|- style="background:#f4f4f4;" align=center
+| align=left| {{fbu|20|IRL}}
+| •||•||•||•||R1||•||•||R1||•||•||bgcolor=#cc9966|3rd||R2||•||R2||•||•||•||•||•||•||•||•||•||•
+! 5
+|- align=center
+| align=left| {{fbu|20|ROU}}
+| •||•||bgcolor=#cc9966|3rd||•||•||•||•||•||•||•||•||•||•||•||•||•||•||•||•||•||•||•||•||•
+! 1
+|- style="background:#f4f4f4;" align=center
+| align=left| {{fbu|20|RUS}}
+|bgcolor=gold|1st||bgcolor=silver|2nd||•||R1||style="border: 3px solid red" bgcolor=#9acdff|4th||•||QF||bgcolor=#cc9966|3rd||QF||QF||•||•||•||•||•||•||•||•||•||•||•||•||•||•
+! 8
+|- style="background:#f4f4f4;" align=center
+| align=left| {{fbu|20|SCO}}
+| •||•||•||QF||•||QF||•||•||•||•||•||•||•||•||•||R1||•||•||•||•||•||•||•||•
+! 3
+|- style="background:#f4f4f4;" align=center
+| align=left| {{fbu|20|SRB}}
+| •||R1||•||•||•||bgcolor=gold|1st||•||•||•||•||•||•||•||•||•||•||•||•||•||bgcolor=gold|1st||•||•||•||•
+! 3
+|- align=center
+| align=left| {{fbu|20|SVK}}
+| •||•||•||R1||•||•||R1||•||•||•||•||•||•||R2||•||•||•||•||•||•||•||•||R2||•
+! 2
+|- style="background:#f4f4f4;" align=center
+| align=left| {{fbu|20|ESP}}
+| R1||QF||R1||•||bgcolor=silver|2nd||•||R1||QF||•||bgcolor=#9acdff|4th||QF||bgcolor=gold|1st||•||bgcolor=silver|2nd||QF||QF||R2||QF||QF||•||•||•||•||QF
+! 16
+|- align=center
+| align=left| {{fbu|20|SWE}}
+| •||•||•||•||•||•||•||R1||•||•||•||•||•||•||•||•||•||•||•||•||•||•||•||•
+! 1
+|- style="background:#f4f4f4;" align=center
+| align=left| {{fbu|20|SUI}}
+| •||•||•||•||•||•||•||•||•||•||•||•||•||•||R1||•||•||•||•||•||•||•||•||•
+! 1
+|- style="background:#f4f4f4;" align=center
+| align=left| {{fbu|20|TUR}}
+| •||•||•||•||•||•||•||•||R1||•||•||•||•||•||R2||•||•||•||style="border: 3px solid red"|R2||•||•||•||•||•
+! 3
+|- style="background:#f4f4f4;" align=center
+| align=left| {{fbu|20|UKR}}
+| colspan=8| ||•||•||•||•||R2||•||R2||•||•||•||•||R2||•||bgcolor=gold|1st||•||R2
+! 5
+|-
+! align=left| '''Total (30 teams)''' || 6 || 6 || 6 || 6 || 6 || 6 || 6 || 6 || 6 || 5 || 6 || 7 || 6 || 6 || 7 || 6 || 6 || 6 || 7 || 6 || 5 || 6 || 5 || 5
+!
+|}
+
+=== FIFA U-20 Women's World Cup ===
+{{See also|FIFA U-20 Women's World Cup#Comprehensive team results in each World Cup}}
+{| class="wikitable" style="text-align:center; font-size:85%;"
+!colspan=14|[[FIFA U-20 Women's World Cup]] record
+|-
+!Team
+![[2002 FIFA U-19 Women's World Championship|2002]]<br />{{flagicon|CAN}}<br />(12)
+![[2004 FIFA U-19 Women's World Championship|2004]]<br />{{flagicon|THA}}<br />(12)
+![[2006 FIFA U-20 Women's World Championship|2006]]<br />{{flagicon|RUS}}<br />(16)
+![[2008 FIFA U-20 Women's World Cup|2008]]<br />{{flagicon|CHI}}<br />(16)
+![[2010 FIFA U-20 Women's World Cup|2010]]<br />{{flagicon|GER}}<br />(16)
+![[2012 FIFA U-20 Women's World Cup|2012]]<br />{{flagicon|JPN}}<br />(16)
+![[2014 FIFA U-20 Women's World Cup|2014]]<br />{{flagicon|CAN}}<br />(16)
+![[2016 FIFA U-20 Women's World Cup|2016]]<br />{{flagicon|PNG}}<br />(16)
+![[2018 FIFA U-20 Women's World Cup|2018]]<br />{{flagicon|FRA}}<br />(16)
+![[2022 FIFA U-20 Women's World Cup|2022]]<br />{{flagicon|CRC}}<br />(16)
+![[2024 FIFA U-20 Women's World Cup|2024]]<br />{{flagicon|COL}}<br />(24)
+![[2026 FIFA U-20 Women's World Cup|2026]]<br />{{flagicon|POL}}<br />(24)
+!Years
+|- align=center
+| align=left| {{fbwu|20|AUT}}
+| •||•||•||•||•||•||•||•||•||•||R2||•
+! '''1'''
+|- align=center
+| align=left| {{fbwu|20|DEN}}
+| QF||•||•||•||•||•||•||•||•||•||•||•
+! '''1'''
+|- align=center
+| align=left| {{fbwu|20|ENG}}
+| QF||•||•||QF||R1||•||R1||•||bgcolor=#cc9966| 3rd||•||•||''Q''
+! '''6'''
+|- align=center
+| align=left| {{fbwu|20|FIN}}
+| •||•||R1||•||•||•||R1||•||•||•||•||•
+! '''2'''
+|- align=center
+| align=left| {{fbwu|20|FRA}}
+| R1||•||QF||bgcolor=#9acdff|4th||R1||•||bgcolor=#cc9966| 3rd||bgcolor=silver|2nd||style="border: 3px solid red" bgcolor=#9acdff|4th||QF||R2||''Q''
+! '''10'''
+|- align=center
+| align=left| {{fbwu|20|GER}}
+| bgcolor=#cc9966|3rd||bgcolor=gold|1st||QF||bgcolor=#cc9966|3rd||style="border: 3px solid red" bgcolor=gold|1st||bgcolor=silver|2nd||bgcolor=gold|1st||QF||QF||R1||QF||•
+! '''11'''
+|- align=center
+| align=left| {{fbwu|20|ITA}}
+| •||R1||•||•||•||R1||•||•||•||•||•||''Q''
+! '''3'''
+|- align=center
+| align=left| {{fbwu|20|NED}}
+| •||•||•||•||•||•||•||•||QF||bgcolor=#9acdff|4th||bgcolor=#9acdff|4th||•
+! '''3'''
+|- align=center
+| align=left| {{fbwu|20|NOR}}
+| •||•||•||R1||•||QF||•||•||•||•||•||•
+! '''2'''
+|- align=center
+| align=left| {{fbwu|20|POL}}
+| •||•||•||•||•||•||•||•||•||•||•||style="border: 3px solid red"|''Q''
+! '''1'''
+|- align=center
+| align=left| {{fbwu|20|POR}}
+| •||•||•||•||•||•||•||•||•||•||•||''Q''
+! '''1'''
+|- align=center
+| align=left| {{fbwu|20|RUS}}
+| •||QF||style="border: 3px solid red"|QF||•||•||•||•||•||•||•||×||×
+! '''2'''
+|- align=center
+| align=left| {{fbwu|20|ESP}}
+| •||R1||•||•||•||•||•||QF||bgcolor=silver|2nd||bgcolor=gold|1st||QF||''Q''
+! '''6'''
+|- align=center
+| align=left| {{fbwu|20|SWE}}
+| •||•||•||•||QF||•||•||R1||•||•||•||•
+! '''2'''
+|- align=center
+| align=left| {{fbwu|20|SUI}}
+| •||•||R1||•||R1||R1||•||•||•||•||•||•
+! '''3'''
+|-
+! align=left| Total (13 teams) !! 4 !! 4 !! 5 !! 4 !! 5 !! 4 !! 4 !! 4 !! 5 !! 4 !! 5 !! 6
+! 54
+|}
+
+=== FIFA U-17 World Cup ===
+{{Main|FIFA U-17 World Cup records and statistics}}
+
+{| class="wikitable" style="text-align:center; font-size:85%;"
+!colspan=23|[[FIFA U-17 World Cup]] record
+|-
+!Team
+![[1985 FIFA U-16 World Championship|1985]]<br />{{Flagicon|China}}<br />(16)
+![[1987 FIFA U-16 World Championship|1987]]<br />{{Flagicon|Canada}}<br />(16)
+![[1989 FIFA U-16 World Championship|1989]]<br />{{Flagicon|Scotland}}<br />(16)
+![[1991 FIFA U-17 World Championship|1991]]<br />{{Flagicon|Italy}}<br />(16)
+![[1993 FIFA U-17 World Championship|1993]]<br />{{Flagicon|Japan|1947}}<br />(16)
+![[1995 FIFA U-17 World Championship|1995]]<br />{{Flagicon|Ecuador}}<br />(16)
+![[1997 FIFA U-17 World Championship|1997]]<br />{{Flagicon|Egypt}}<br />(16)
+![[1999 FIFA U-17 World Championship|1999]]<br />{{Flagicon|New Zealand}}<br />(16)
+![[2001 FIFA U-17 World Championship|2001]]<br />{{Flagicon|Trinidad and Tobago}}<br />(16)
+![[2003 FIFA U-17 World Championship|2003]]<br />{{Flagicon|Finland}}<br />(16)
+![[2005 FIFA U-17 World Championship|2005]]<br />{{Flagicon|Peru|football}}<br />(16)
+![[2007 FIFA U-17 World Cup|2007]]<br />{{Flagicon|South Korea|1997}}<br />(24)
+![[2009 FIFA U-17 World Cup|2009]]<br />{{Flagicon|Nigeria}}<br />(24)
+![[2011 FIFA U-17 World Cup|2011]]<br />{{Flagicon|Mexico}}<br />(24)
+![[2013 FIFA U-17 World Cup|2013]]<br />{{Flagicon|United Arab Emirates}}<br />(24)
+![[2015 FIFA U-17 World Cup|2015]]<br />{{Flagicon|Chile}}<br />(24)
+![[2017 FIFA U-17 World Cup|2017]]<br />{{Flagicon|India}}<br />(24)
+![[2019 FIFA U-17 World Cup|2019]]<br />{{Flagicon|Brazil}}<br />(24)
+![[2023 FIFA U-17 World Cup|2023]]<br />{{Flagicon|Indonesia}}<br />(24)
+![[2025 FIFA U-17 World Cup|2025]]<br />{{Flagicon|Qatar}}<br />(48)
+![[2026 FIFA U-17 World Cup|2026]]<br />{{Flagicon|Qatar}}<br />(48)
+! Years
+|- style="background:#f4f4f4;" align=center
+| align=left| {{fbu|17|AUT}}
+| •||•||•||•||•||•||R1||•||•||•||•||•||•||•||R1||•||•||•||•||bgcolor=silver| 2nd||•
+! 3
+|- style="background:#f4f4f4;" align=center
+| align=left| {{fbu|17|BEL}}
+| •||•||•||•||•||•||•||•||•||•||•||R1||•||•||•||bgcolor=#cc9966| 3rd||•||•||•||R2||Q
+! 4
+|- align=center
+| align=left| {{fbu|17|CRO}}
+| colspan=4| ||•||•||•||•||R1||•||•||•||•||•||R1||QF||•||•||•||R2||Q
+! 5
+|- align=center
+| align=left| {{fbu|17|CZE}}
+| •||•||•||•||QF||•||•||•||•||•||•||•||•||R1||•||•||•||•||•||R2||•
+! 3
+|- style="background:#f4f4f4;" align=center
+| align=left| {{fbu|17|DEN}}
+| •||•||•||•||•||•||•||•||•||•||•||•||•||R1||•||•||•||•||•||•||Q
+! 2
+|- align=center
+| align=left| {{fbu|16|GDR}}
+| •||•||QF||•||colspan="17"|Merged with West Germany
+! 1
+|- style="background:#f4f4f4;" align=center
+| align=left| {{fbu|17|ENG}}
+| •||•||•||•||•||•||•||•||•||•||•||QF||•||QF||•||R1||bgcolor=gold|1st||•||R2||R3||•
+! 6
+|- align=center
+| align=left| {{fbu|17|FIN}}
+| •||•||•||•||•||•||•||•||•||style="border: 3px solid red"|R1||•||•||•||•||•||•||•||•||•||•||•
+! 1
+|- style="background:#f4f4f4;" align=center
+| align=left| {{fbu|17|FRA}}
+| •||QF||•||•||•||•||•||•||bgcolor=gold| 1st||•||•||QF||•||QF||•||R2||R2||bgcolor=#cc9966| 3rd||bgcolor=silver| 2nd||R3||Q
+! 10
+|- style="background:#f4f4f4;" align=center
+| align=left| {{fbu|17|GER}}
+| bgcolor=silver| 2nd||•||•||QF||•||R1||bgcolor=#9acdff| 4th||R1||•||•||•||bgcolor=#cc9966| 3rd||R2||bgcolor=#cc9966| 3rd||•||R2||QF||•||bgcolor=gold| 1st||R2||•
+! 12
+|-align=center
+| align=left| {{fbu|17|GRE}}
+| •||•||•||•||•||•||•||•||•||•||•||•||•||•||•||•||•||•||•||•||Q
+! 1
+|- align=center
+| align=left| {{fbu|17|HUN}}
+| QF||•||•||•||•||•||•||•||•||•||•||•||•||•||•||•||•||R1||•||•||•
+! 2
+|- align=center
+| align=left| {{fbu|17|ITA}}
+| R1||bgcolor=#9acdff| 4th||•||style="border: 3px solid red"|R1||R1||•||•||•||•||•||R1||•||QF||•||R2||•||•||QF||•||bgcolor=#cc9966| 3rd||Q
+! 10
+|- align=center
+| align=left| {{fbu|17|MNE}}
+| colspan=11| ||•||•||•||•||•||•||•||•||•||Q
+! 1
+|- align=center
+| align=left| {{fbu|17|NED}}
+| •||•||•||•||•||•||•||•||•||•||bgcolor=#cc9966| 3rd||•||R1||R1||•||•||•||bgcolor=#9acdff| 4th||•||•||•
+! 4
+|- style="background:#f4f4f4;" align=center
+| align=left| {{fbu|17|POL}}
+| •||•||•||•||bgcolor=#9acdff| 4th||•||•||R1||•||•||•||•||•||•||•||•||•||•||R1||•||•
+! 3
+|- align=center
+| align=left| {{fbu|17|POR}}
+| •||•||bgcolor=#cc9966| 3rd||•||•||QF||•||•||•||QF||•||•||•||•||•||•||•||•||•||bgcolor=gold| 1st||•
+! 4
+|- align=center
+| align=left| {{fbu|17|IRL}}
+| ×||•||•||•||•||•||•||•||•||•||•||•||•||•||•||•||•||•||•||R3||Q
+! 2
+|- align=center
+| align=left| {{fbu|17|ROM}}
+| •||•||•||•||•||•||•||•||•||•||•||•||•||•||•||•||•||•||•||•||Q
+! 1
+|- align=center
+| align=left| {{fbu|17|RUS}}
+| •||bgcolor=gold| 1st||•||•||•||•||•||•||•||•||•||•||•||•||R2||R2||•||•||×||×||×
+! 3
+|- style="background:#f4f4f4;" align=center
+| align=left| {{fbu|17|SCO}}
+| •||•||style="border: 3px solid red" bgcolor=silver| 2nd||•||•||•||•||•||•||•||•||•||•||•||•||•||•||•||•||•||•
+! 1
+|- align=center
+| align=left| {{fbu|17|SRB}}
+| •||•||•||•||•||•||•||•||•||•||•||•||•||•||•||•||•||•||•||•||Q
+! 1
+|- style="background:#f4f4f4;" align=center
+| align=left| {{fbu|17|SVK}}
+| colspan=5| ||•||•||•||•||•||•||•||•||•||R2||•||•||•||•||•||•
+! 1
+|- style="background:#f4f4f4;" align=center
+| align=left| {{fbu|17|ESP}}
+| •||•||•||bgcolor=silver| 2nd||•||R1||bgcolor=#cc9966| 3rd||R1||R1||bgcolor=silver| 2nd||•||bgcolor=silver| 2nd||bgcolor=#cc9966| 3rd||•||•||•||bgcolor=silver|2nd||QF||QF||•||Q
+! 12
+|- style="background:#f4f4f4;" align=center
+| align=left| {{fbu|17|SWE}}
+| •||•||•||•||•||•||•||•||•||•||•||•||•||•||bgcolor=#cc9966| 3rd||•||•||•||•||•||•
+! 1
+|- align=center
+| align=left| {{fbu|17|SUI}}
+| •||•||•||•||•||•||•||•||•||•||•||•||bgcolor=gold| 1st||•||•||•||•||•||•||QF||•
+! 2
+|- style="background:#f4f4f4;" align=center
+| align=left| {{fbu|17|TUR}}
+| •||•||•||•||•||•||•||•||•||•||bgcolor=#9acdff| 4th||•||QF||•||•|||•||R1||•||•||•||•
+! 3
+|-
+! align=left| Total (27 teams)
+! 3 || 3 || 3 || 3 || 3 || 3 || 3 || 3 || 3 || 3 || 3 || 5 || 6 || 6 || 6 || 6 || 5 || 5 || 5 || 11 || 11
+!
+|}
+
+=== FIFA U-17 Women's World Cup ===
+{{See also|FIFA U-17 Women's World Cup#Comprehensive team results by tournament}}
+{| class="wikitable" style="text-align:center; font-size:85%;"
+!colspan=12|[[FIFA U-17 Women's World Cup]] record
+|-
+!Team
+![[2008 FIFA U-17 Women's World Cup|2008]]<br />{{flagicon|NZL}}<br />(16)
+![[2010 FIFA U-17 Women's World Cup|2010]]<br />{{flagicon|TRI}}<br />(16)
+![[2012 FIFA U-17 Women's World Cup|2012]]<br />{{flagicon|AZE}}<br />(16)
+![[2014 FIFA U-17 Women's World Cup|2014]]<br />{{flagicon|CRC}}<br />(16)
+![[2016 FIFA U-17 Women's World Cup|2016]]<br />{{flagicon|JOR}}<br />(16)
+![[2018 FIFA U-17 Women's World Cup|2018]]<br />{{flagicon|URU}}<br />(16)
+![[2022 FIFA U-17 Women's World Cup|2022]]<br />{{flagicon|IND}}<br />(16)
+![[2024 FIFA U-17 Women's World Cup|2024]]<br />{{flagicon|DOM}}<br />(16)
+![[2025 FIFA U-17 Women's World Cup|2025]]<br />{{flagicon|MAR}}<br />(24)
+![[2026 FIFA U-17 Women's World Cup|2026]]<br />{{flagicon|MAR}}<br />(24)
+!Years
+|- align=center
+| align=left| {{fbwu|17|AZE}}
+| •||•||style="border: 3px solid red"|R1||•||•||•||•||•||•||•
+! '''1'''
+|- align=center
+| align=left| {{fbwu|17|DEN}}
+| QF||•||•||•||•||•||•||•||•||•
+! '''1'''
+|- align=center
+| align=left| {{fbwu|17|ENG}}
+| bgcolor=#9acdff|4th||•||•||•||QF||•||•||bgcolor=#9acdff|4th||•||•
+! '''3'''
+|- align=center
+| align=left| {{fbwu|17|FIN}}
+| •||•||•||•||•||R1||•||•||•||•
+! '''1'''
+|- align=center
+| align=left| {{fbwu|17|FRA}}
+| R1||•||bgcolor=gold|1st||•||•||•||R1||•||QF||Q
+! '''5'''
+|- align=center
+| align=left| {{fbwu|17|GER}}
+| bgcolor=#cc9966|3rd||QF||bgcolor=#9acdff|4th||R1||QF||QF||bgcolor=#9acdff|4th||•||•||Q
+! '''8'''
+|- align=center
+| align=left| {{fbwu|17|ITA}}
+| •||•||•||bgcolor=#cc9966|3rd||•||•||•||•||QF||•
+! '''2'''
+|- align=center
+| align=left| {{fbwu|17|NED}}
+| •||•||•||•||•||•||•||•||bgcolor=silver|2nd||•
+! '''1'''
+|- align=center
+| align=left| {{fbwu|17|NOR}}
+| •||•||•||•||•||•||•||•||R1||Q
+! '''2'''
+|- align=center
+| align=left| {{fbwu|17|POL}}
+| •||•||•||•||•||•||•||QF||•||Q
+! '''2'''
+|- align=center
+| align=left| {{fbwu|17|IRL}}
+| •||QF||•||•||•||•||•||•||•||•
+! '''1'''
+|- align=center
+| align=left| {{fbwu|17|ESP}}
+| •||bgcolor=#cc9966|3rd||•||bgcolor=silver|2nd||bgcolor=#cc9966|3rd||bgcolor=gold|1st||bgcolor=gold|1st||bgcolor=silver|2nd||R2||Q
+! '''8'''
+|-
+! align=left| Total (12 teams) !! 4 !! 3 !! 3 !! 3 !! 3 !! 3 !! 3 !! 3 !! 5 !! 5
+! 35
+|}
+
+=== FIFA Futsal World Cup ===
+{{Main|FIFA Futsal World Cup#Comprehensive team results by tournament}}
+
+{| class="wikitable" style="text-align:center; font-size:85%;"
+!colspan=12|[[FIFA Futsal World Cup]] record
+|-
+! Team
+! [[1989 FIFA Futsal World Championship|1989]]<br />{{Flagicon|Netherlands}}<br />(16) !! [[1992 FIFA Futsal World Championship|1992]]<br />{{Flagicon|Hong Kong|1959}}<br />(16) !! [[1996 FIFA Futsal World Championship|1996]]<br />{{Flagicon|Spain}}<br />(16) !! [[2000 FIFA Futsal World Championship|2000]]<br />{{Flagicon|Guatemala}}<br />(16) !! [[2004 FIFA Futsal World Championship|2004]]<br />{{Flagicon|Taiwan}}<br />(16) !! [[2008 FIFA Futsal World Cup|2008]]<br />{{Flagicon|Brazil}}<br />(20) !! [[2012 FIFA Futsal World Cup|2012]]<br />{{Flagicon|Thailand}}<br />(24) !! [[2016 FIFA Futsal World Cup|2016]]<br />{{Flagicon|Colombia}}<br />(24) !! [[2021 FIFA Futsal World Cup|2021]]<br />{{Flagicon|Lithuania}}<br />(24) !! [[2024 FIFA Futsal World Cup|2024]]<br />{{Flagicon|Uzbekistan}}<br />(24) !! Years
+|-
+|align=left|{{futsal|AZE}} || || || || || || || || QF || ||
+! 1
+|-
+|align=left|{{futsal|BEL}} || bgcolor=9acdff|'''4th''' || R2 || R2 || || || || || || ||
+! 3
+|-
+|align=left|{{futsal|CRO}} || || || || R2 || || || || || || R2
+! 2
+|-
+|align=left|{{futsal|CZE}} || || || || || R2 || R1 || R2 || || R2 ||
+! 4
+|-
+|align=left|{{futsal|DEN}} || R1 || || || || || || || || ||
+! 1
+|-
+|align=left|{{futsal|FRA}} || || || || || || || || || || bgcolor=9acdff|'''4th'''
+! 1
+|-
+|align=left|{{futsal|HUN}} || R2 || || || || || || || || ||
+! 1
+|-
+|align=left|{{futsal|ITA}} || R2 || R1 || R2 || || bgcolor=silver|'''2nd''' || bgcolor=cc9966|'''3rd''' || bgcolor=cc9966|'''3rd''' || R2 || ||
+! 7
+|-
+|align=left|{{futsal|KAZ}} || || || || R1 || || || || R2 || bgcolor=9acdff|'''4th''' || QF
+! 4
+|-
+|align=left|{{futsal|LTU}} || || || || || || || || || style="border:3px solid red"| R1 ||
+! 1
+|-
+|align=left|{{futsal|NED}} || bgcolor=silver style="border:3px solid red"|'''2nd''' || R2 || R2 || R2 || || || || || || R2
+! 5
+|-
+|align=left|{{futsal|POL}} || || R2 || || || || || || || ||
+! 1
+|-
+|align=left|{{futsal|POR}} || || || || bgcolor=cc9966|'''3rd''' || R2 || R1 || QF || bgcolor=9acdff|'''4th''' || bgcolor=gold|'''1st''' || R2
+! 7
+|-
+|align=left|{{futsal|RUS}} || || R1 || bgcolor=cc9966|'''3rd''' || bgcolor=9acdff|'''4th''' || || bgcolor=9acdff|'''4th''' || QF || bgcolor=silver|'''2nd''' || QF ||
+! 7
+|-
+|align=left|{{futsal|SRB}} || || || || || || || R2 || || R2 ||
+! 2
+|-
+|align=left|{{futsal|ESP}} || R1 || bgcolor=cc9966|'''3rd''' || bgcolor=silver style="border:3px solid red"|'''2nd''' || bgcolor=gold|'''1st''' || bgcolor=gold|'''1st''' || bgcolor=silver|'''2nd''' || bgcolor=silver|'''2nd''' || QF || QF || R2
+! 10
+|-
+|align=left|{{futsal|UKR}} || || || bgcolor=9acdff|'''4th''' || || R2 || R2 || QF || R2 || || bgcolor=cc9966|'''3rd'''
+! 6
+|-
+! align=left| Total (17 teams) !! 6 !! 6 !! 6 !! 6 !! 5 !! 6 !! 7 !! 7 !! 7 !! 7
+! 63
+|}
+
+=== FIFA Beach Soccer World Cup ===
+{{Main|FIFA Beach Soccer World Cup records and statistics}}
+
+{| class="wikitable" style="text-align:center; font-size:85%;"
+|-
+!rowspan=2 valign=center|Team
+!colspan=10|Beach Soccer World Championship record
+!width=5 rowspan=18|
+!colspan=13|[[FIFA Beach Soccer World Cup]] record
+!width=5 rowspan=18|
+!colspan=3| Appearances
+|-
+! [[1995 Beach Soccer World Championships|1995]]<br />{{Flagicon|Brazil}}<br />(8)
+! [[1996 Beach Soccer World Championships|1996]]<br />{{Flagicon|Brazil}}<br />(8)
+! [[1997 Beach Soccer World Championships|1997]]<br />{{Flagicon|Brazil}}<br />(8)
+! [[1998 Beach Soccer World Championships|1998]]<br />{{Flagicon|Brazil}}<br />(10)
+! [[1999 Beach Soccer World Championships|1999]]<br />{{Flagicon|Brazil}}<br />(12)
+! [[2000 Beach Soccer World Championships|2000]]<br />{{Flagicon|Brazil}}<br />(12)
+! [[2001 Beach Soccer World Championships|2001]]<br />{{Flagicon|Brazil}}<br />(12)
+! [[2002 Beach Soccer World Championships|2002]]<br />{{Flagicon|Brazil}}<br />(8)
+! [[2003 Beach Soccer World Championships|2003]]<br />{{Flagicon|Brazil}}<br />(8)
+! [[2004 Beach Soccer World Championships|2004]]<br />{{Flagicon|Brazil}}<br />(12)
+! [[2005 FIFA Beach Soccer World Cup|2005]]<br />{{Flagicon|Brazil}}<br />(12)
+! [[2006 FIFA Beach Soccer World Cup|2006]]<br />{{Flagicon|Brazil}}<br />(16)
+! [[2007 FIFA Beach Soccer World Cup|2007]]<br />{{Flagicon|Brazil}}<br />(16)
+! [[2008 FIFA Beach Soccer World Cup|2008]]<br />{{Flagicon|France}}<br />(16)
+! [[2009 FIFA Beach Soccer World Cup|2009]]<br />{{flagicon|UAE}}<br />(16)
+! [[2011 FIFA Beach Soccer World Cup|2011]]<br />{{flagicon|ITA}}<br />(16)
+! [[2013 FIFA Beach Soccer World Cup|2013]]<br />{{flagicon|TAH}}<br />(16)
+! [[2015 FIFA Beach Soccer World Cup|2015]]<br />{{flagicon|POR}}<br />(16)
+! [[2017 FIFA Beach Soccer World Cup|2017]]<br />{{flagicon|BAH}}<br />(16)
+! [[2019 FIFA Beach Soccer World Cup|2019]]<br />{{flagicon|PAR}}<br />(16)
+! [[2021 FIFA Beach Soccer World Cup|2021]]<br />{{flagicon|RUS}}<br />(16)
+! [[2024 FIFA Beach Soccer World Cup|2024]]<br />{{flagicon|UAE}}<br />(16)
+! [[2025 FIFA Beach Soccer World Cup|2025]]<br />{{flagicon|SEY}}<br />(16)
+! width=30|{{Tooltip|WC|Appearances in Beach Soccer World Championships}}<br />/10
+! {{Tooltip|FIFA|Appearances in FIFA Beach Soccer World Cups}}<br />/13
+! Years<br />/23
+|-
+| align=left|{{beachsoccer|BLR}}
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| ×
+| ×
+| ×
+| •
+| •
+| •
+| •
+| •
+| •
+| R1<br />{{small|11th}}
+| R1<br />{{small|14th}}
+| bgcolor=#9acdff|4th
+| bgcolor=silver|2nd
+| 0
+| 4
+! 4
+|-
+| align=left|{{beachsoccer|BEL}}
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| R1<br />{{small|12th}}
+| •
+| •
+| ×
+| ×
+| •
+| ×
+| ×
+| ×
+| ×
+| ×
+| ×
+| ×
+| •
+| 1
+| 0
+! 1
+|-
+| align=left|{{beachsoccer|DEN}}
+| •
+| R1<br />{{small|6th}}
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| ×
+| ×
+| ×
+| ×
+| ×
+| ×
+| ×
+| ×
+| •
+| ×
+| •
+| •
+| •
+| 1
+| 0
+! 1
+|-
+| align=left|{{beachsoccer|ENG}}
+| bgcolor=#cc9966 height=40|3rd
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| ×
+| •
+| ×
+| •
+| 1
+| 0
+! 1
+|-
+| align=left|{{beachsoccer|FRA}}
+| •
+| •
+| R1<br />{{small|7th}}
+| bgcolor=silver| 2nd
+| R1<br />{{small|11th}}
+| R1<br />{{small|11th}}
+| bgcolor=silver| 2nd
+| R1<br />{{small|7th}}
+| bgcolor=#9acdff|4th
+| QF<br />{{small|5th}}
+| bgcolor=gold| '''1st'''
+| bgcolor=#cc9966|3rd
+| bgcolor=#9acdff|4th
+|style="border:3px solid red" | QF<br />{{small|8th}}
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| 8
+| 4
+! 12
+|-
+| align=left|{{beachsoccer|GER}}
+| R1<br />{{small|5th}}
+| •
+| •
+| •
+| •
+| R1<br />{{small|12th}}
+| R1<br />{{small|12th}}
+| •
+| •
+| R1<br />{{small|11th}}
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| 4
+| 0
+! 4
+|-
+| align=left|{{beachsoccer|ITA}}
+| bgcolor=#9acdff|4th
+| bgcolor=#cc9966|3rd
+| R1<br />{{small|5th}}
+| R1<br />{{small|10th}}
+| R1<br />{{small|9th}}
+| QF<br />{{small|8th}}
+| QF<br />{{small|8th}}
+| R1<br />{{small|6th}}
+| R1<br />{{small|6th}}
+| bgcolor=#9acdff|4th
+| •
+| R1<br />{{small|15th}}
+| R1<br />{{small|10th}}
+| bgcolor=silver| 2nd
+| QF<br />{{small|8th}}
+|style="border:3px solid red"| QF<br />{{small|5th}}
+| •
+| bgcolor=#9acdff|4th
+| bgcolor=#9acdff|4th
+| bgcolor=silver| 2nd
+| •
+| bgcolor=silver| 2nd
+| QF
+| 10
+| 10
+! 20
+|-
+| align=left|{{beachsoccer|NED}}
+| R1<br />{{small|8th}}
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| ×
+| •
+| •
+| •
+| R1<br />{{small|14th}}
+| ×
+| •
+| ×
+| ×
+| ×
+| ×
+| 1
+| 1
+! 2
+|-
+| align=left|{{beachsoccer|POL}}
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| R1<br />{{small|11th}}
+| •
+| •
+| •
+| •
+| •
+| •
+| R1<br />{{small|15th}}
+| •
+| •
+| •
+| •
+| 0
+| 2
+! 2
+|-
+| align=left|{{beachsoccer|POR}}
+| •
+| •
+| R1<br />{{small|6th}}
+| R1<br />{{small|5th}}
+| bgcolor=silver| 2nd
+| QF<br />{{small|6th}}
+| bgcolor=gold| '''1st'''
+| bgcolor=silver | 2nd
+| bgcolor=#cc9966|3rd
+| bgcolor=#cc9966|3rd
+| bgcolor=silver | 2nd
+| bgcolor=#9acdff|4th
+| QF<br />{{small|8th}}
+| bgcolor=#cc9966|3rd
+| bgcolor=#cc9966|3rd
+| bgcolor=#cc9966|3rd
+| •
+| bgcolor=gold style="border:3px solid red" | '''1st'''
+| QF<br />{{small|8th}}
+| bgcolor=gold | '''1st'''
+| R1<br />{{small|10th}}
+| QF<br />{{small|5th}}
+| bgcolor=#cc9966|3rd
+| 8
+| 12
+! 20
+|-
+| align=left|{{beachsoccer|RUS}}
+| •
+| R1<br />{{small|5th}}
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| ×
+| •
+| R1<br />{{small|9th}}
+| QF<br />{{small|6th}}
+| QF<br />{{small|7th}}
+| bgcolor=gold| '''1st'''
+| bgcolor=gold| '''1st'''
+| bgcolor=#cc9966|3rd
+| •
+| bgcolor=#cc9966|3rd
+| bgcolor=gold style="border:3px solid red" | '''1st'''
+| ×
+| ×
+| 1
+| 8
+! 9
+|-
+| align=left|{{beachsoccer|ESP}}
+| •
+| •
+| •
+| R1<br />{{small|6th}}
+| QF<br />{{small|5th}}
+| bgcolor=#cc9966|3rd
+| QF<br />{{small|6th}}
+| R1<br />{{small|6th}}
+| bgcolor=silver | 2nd
+| bgcolor=silver | 2nd
+| QF<br />{{small|7th}}
+| R1<br />{{small|10th}}
+| QF<br />{{small|7th}}
+| bgcolor=#9acdff|4th
+| QF<br />{{small|6th}}
+| •
+| bgcolor=silver | 2nd
+| R1<br />{{small|10th}}
+| •
+| •
+| QF<br />{{small|7th}}
+| R1<br />{{small|13th}}
+| QF
+| 7
+| 10
+! 17
+|-
+| align=left|{{beachsoccer|SUI}}
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| QF<br />{{small|8th}}
+| •
+| •
+| •
+| •
+| bgcolor=silver | 2nd
+| R1<br />{{small|10th}}
+| •
+| QF<br />{{small|8th}}
+| QF<br />{{small|5th}}
+| QF<br />{{small|8th}}
+| bgcolor=#cc9966|3rd
+| •
+| •
+| 1
+| 6
+! 7
+|-
+| align=left|{{beachsoccer|TUR}}
+| •
+| •
+| •
+| •
+| •
+| •
+| R1<br />{{small|10th}}
+| •
+| •
+| •
+| •
+| ×
+| •
+| ×
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| ×
+| 1
+| 0
+! 1
+|-
+| align=left|{{beachsoccer|UKR}}
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| QF<br />{{small|6th}}
+| •
+| •
+| •
+| •
+| R1<br />{{small|9th}}
+| R1<br />{{small|12th}}
+| •
+| •
+| ×
+| ×
+| ×
+| •
+| 0
+| 3
+! 3
+|-
+! align=centre|'''Total (15 teams)'''||'''4'''||'''3'''||'''3'''||'''4'''||'''4'''||'''5'''||'''6'''||'''4'''||'''4'''||'''7'''||'''4'''||'''5'''||'''5'''||'''5'''||'''5'''||'''5'''||'''4'''||'''5'''||'''4'''||'''5'''||'''5'''|| '''4''' || '''4''' ||  ||
+!
+|}
+
+=== Former tournaments ===
+==== FIFA Confederations Cup ====
+{{Main|FIFA Confederations Cup records and statistics}}
+
+{| class="wikitable" style="text-align:center; font-size:85%;"
+|-
+! colspan=12|[[FIFA Confederations Cup]] record
+|-
+!Team
+![[1992 King Fahd Cup|1992]]<br />{{flagicon|Saudi Arabia}}<br />(4)
+![[1995 King Fahd Cup|1995]]<br />{{flagicon|Saudi Arabia}}<br />(6)
+![[1997 FIFA Confederations Cup|1997]]<br />{{flagicon|Saudi Arabia}}<br />(8)
+![[1999 FIFA Confederations Cup|1999]]<br />{{flagicon|Mexico}}<br />(8)
+![[2001 FIFA Confederations Cup|2001]]<br />{{flagicon|South Korea|1997}}<br />{{flagicon|Japan}}<br />(8)
+![[2003 FIFA Confederations Cup|2003]]<br />{{flagicon|France|1974}}<br />(8)
+![[2005 FIFA Confederations Cup|2005]]<br />{{flagicon|Germany}}<br />(8)
+![[2009 FIFA Confederations Cup|2009]]<br />{{flagicon|South Africa}}<br />(8)
+![[2013 FIFA Confederations Cup|2013]]<br />{{flagicon|Brazil}}<br />(8)
+![[2017 FIFA Confederations Cup|2017]]<br />{{flagicon|Russia}}<br />(8)
+!Years
+|-
+| align=left| {{fb|Czech Republic}}
+| ×
+| •
+| bgcolor=cc9966|'''3rd'''
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+! 1
+|-
+| align=left| {{fb|Denmark}}
+| ×
+| bgcolor=Gold|'''1st'''
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+! 1
+|-
+| align=left| {{fb|France}}
+| ×
+| •
+| •
+| ••
+| bgcolor=Gold|'''1st'''
+| style="border:3px solid red" bgcolor=Gold|'''1st'''
+| •
+| •
+| •
+| •
+! 2
+|-
+| align=left| {{fb|Germany}}
+| ×
+| •
+| ••
+| GS
+| •
+| ••
+| style="border:3px solid red" bgcolor=cc9966|'''3rd'''
+| •
+| •
+| bgcolor=Gold|'''1st'''
+! 3
+|-
+| align=left| {{fb|Greece}}
+| ×
+| •
+| •
+| •
+| •
+| •
+| GS
+| •
+| •
+| •
+! 1
+|-
+| align=left| {{fb|Italy}}
+| ×
+| •
+| •
+| •
+| •
+| ••
+| •
+| GS
+| bgcolor=cc9966|'''3rd'''
+| •
+! 2
+|-
+| align=left| {{fb|Portugal}}
+| ×
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| bgcolor=cc9966|'''3rd'''
+! 1
+|-
+| align=left| {{fb|Russia}}
+| ×
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| •
+| style="border:3px solid red"| GS
+! 1
+|-
+| align=left| {{fb|Spain}}
+| ×
+| •
+| •
+| •
+| •
+| ••
+| •
+| bgcolor=cc9966|'''3rd'''
+| bgcolor=Silver|'''2nd'''
+| •
+! 2
+|-
+| align=left| {{fb|Turkey}}
+| ×
+| •
+| •
+| •
+| •
+| bgcolor=cc9966|'''3rd'''
+| •
+| •
+| •
+| •
+! 1
+|-
+! Total (10 teams) || 0 || 1 || 1 || 1 || 1 || 2 || 2 || 2 || 2 || 3
+! 15
+|}
+
+== Sanctions ==
+=== Against associations ===
+* {{flagicon|Lithuania}} [[Lithuanian Football Federation|Lithuania]], in 1990 sanctions were imposed due to the secession of the Lithuanian Football Federation from the Football Federation of the Soviet Union
+* {{flagicon|FR Yugoslavia}} [[Football Association of Serbia and Montenegro|FR Yugoslavia]], in 1992–1998 sanctions were imposed due to the [[Bosnian War]] (as part of the [[Yugoslav Wars]])
+* {{Flagicon|Russia}} [[Russian Football Union|Russia]], in 2022 sanctions were imposed due to the [[2022 Russian invasion of Ukraine]].
+* {{flagicon|Belarus}} [[Football Federation of Belarus|Belarus]], in 2022 sanctions were imposed due to supporting Russia in its invasion of Ukraine.
+
+=== Against clubs ===
+* {{flagicon|Albania}} [[Albanian Football Association|Albania]], in 1967 special sanctions were imposed against [[1966–67 Albanian Superliga]] due to its political background
+* {{flagicon|England}} [[The Football Association|England]], in 1985–1991 sanctions were imposed against English association football clubs due to the [[Heysel Stadium disaster]] by suspending their participation in continental competitions for five years
+* {{flagicon|Italy}} [[FIGC|Italy]], in 1974–1975 sanctions were imposed against [[SS Lazio]] due to its fans, Italy was restricted from the European Cup to which Lazio qualified
+* {{flagicon|Netherlands}} [[Royal Dutch Football Association|Netherlands]], in 1990–1991 sanctions were imposed against [[AFC Ajax]] due to its fans, the Netherlands were restricted from the European Cup to which Ajax qualified
+
+== Corruption and controversy ==
+Dissatisfied fans across Europe have referred to the organisation as ''UEFA [[mafia]]'', including in Russia's top league,<ref>{{cite web |url=https://www.bbc.com/sport/live/football/29674073 |title=Inter Milan v Napoli as it happened |work=BBC Sport |date=19 October 2014 |access-date=1 April 2016 }}</ref> in Bulgaria's top league,<ref>{{cite web |url=https://www.theguardian.com/football/blog/2014/oct/07/say-yes-to-racism-banner-levski-sofia-bulgaria |title=Why Uefa and Bulgaria must act over 'yes to racism' banner |work=The Guardian |date=7 October 2014 |access-date=1 April 2016 }}</ref> and in a Champions League group stage match held in Sweden.<ref>{{cite web |url=http://www.eurosport.co.uk/football/malmo-fans-sing-uefa-mafia-chant-during-champions-league-defeat-to-juventus_sto4718304/story.shtml |title=Malmo fans sing 'UEFA Mafia' chant during Champions League defeat to Juventus |work=Eurosport |date=27 November 2014 |access-date=1 April 2016 |archive-url=https://web.archive.org/web/20160411031821/http://www.eurosport.co.uk/football/malmo-fans-sing-uefa-mafia-chant-during-champions-league-defeat-to-juventus_sto4718304/story.shtml |archive-date=11 April 2016 |url-status=live }}</ref> The term has also been covered for its use outside of stadiums, for example during a protest in Kosovo outside an EU building following the [[Serbia v Albania (UEFA Euro 2016 qualifying)]] match.<ref>{{cite web |url=http://www.aparchive.com/metadata/Any/ebc589de162abb5555941926962d322d |title=Kosovo Albanians protest UEFA ruling; Serbia FM and Serbian FA reaction |agency=Associated Press |date=24 October 2014 |access-date=1 April 2016 |archive-url=https://web.archive.org/web/20160414025353/http://www.aparchive.com/metadata/Any/ebc589de162abb5555941926962d322d |archive-date=14 April 2016 |url-status=dead }}</ref> [[F.C. Copenhagen]] supporters displayed banners around the city, with slogans such as "UEFA MAFIA – THE PANDEMIC OF FOOTBALL", when UEFA ordered their [[2019–20 UEFA Europa League|2019–20 Europa League]] round of 16 return leg be played behind closed doors, despite reduced capacity being allowed by the Danish government.<ref>{{Cite web |date=5 August 2020 |title=Spydige bannere pryder København: UEFA Mafia! |website=ronaldo.com |first1=Nicolaj M. |last1=Jørgensen |url=https://ronaldo.com/dk/fodboldnyheder/spydige-bannere-pryder-koebenhavn-uefa-mafia/ |access-date=13 December 2021 |language=da-DK |url-status=dead |archive-url=https://web.archive.org/web/20211213122103/https://ronaldo.com/dk/fodboldnyheder/spydige-bannere-pryder-koebenhavn-uefa-mafia/ |archive-date=13 December 2021 }}</ref>
+
+Following the [[2015 FIFA corruption case]], the then-president of UEFA, [[Michel Platini]], was also involved in the case. Swiss prosecutors accused FIFA president Sepp Blatter of making a "disloyal payment" of $2m (£1.6m) to Mr Platini. Swiss attorney general, {{Ill|Michael Lauber|de}}, stated: "We didn't interview Mr Platini as a witness, that's not true. We investigated against him in between as a witness and an accused person".<ref>{{cite web |title=Fifa scandal: Michel Platini drawn closer to Blatter case |url=https://www.bbc.com/news/world-europe-34396551 |publisher=BBC |access-date=30 September 2015 |date=30 September 2015 }}</ref><ref>{{cite web |title=Platini says the SFr2m was contracted, Lauber says he is under investigation |url=http://www.insideworldfootball.com/fifa/17980-platini-says-the-sfr2m-was-contracted-lauber-says-he-is-under-investigation |publisher=Inside World Football |first1=Paul |last1=Nicholson |access-date=30 September 2015 |date=30 September 2015 |archive-url=https://web.archive.org/web/20151001070205/http://www.insideworldfootball.com/fifa/17980-platini-says-the-sfr2m-was-contracted-lauber-says-he-is-under-investigation |archive-date=1 October 2015 |url-status=dead }}</ref> Both Platini and [[Sepp Blatter]] were banned from football-related activity. Platini appealed to [[Court of Arbitration for Sport]]s, which lowered the six-year ban to four years. He further appealed to Swiss courts and the [[European Court of Human Rights]] but the courts rejected his appeals.<ref>{{Cite news |last=Ronay |first=Barney |date=5 March 2020 |title=Michel Platini's appeal over ban rejected by European court of human rights |work=The Guardian |url=https://www.theguardian.com/football/2020/mar/05/michel-platini-appeal-over-ban-rejected-by-european-court-of-human-rights-football |access-date=13 September 2020 |issn=0261-3077 }}</ref>
+
+In 2019 UEFA's decision to host Europa League Cup final in Baku, Azerbaijan left one of the finalists, Arsenal, with a decision to withdraw their Armenian player [[Henrikh Mkhitaryan]] out of the competition due to safety concerns,<ref>{{Cite web |url=https://www.arsenal.com/news/henrikh-mkhitaryan-miss-europa-league-final |title=Henrikh Mkhitaryan to miss Europa League final |website=www.arsenal.com |access-date=21 May 2019 }}</ref> and there has been long-standing debates about the extent to which the elite clubs or UEFA itself should exert the most influence on the game.<ref>{{Cite journal |last=Holt |first=Matthew |date=11 December 2006 |title=The Ownership and Control of Elite Club Competition in European Football |journal=Soccer and Society |publisher=Taylor and Francis Online |volume=8 |pages=50–67 |doi=10.1080/14660970600989491 |s2cid=143783793 |issn=1466-0970 |eissn=1743-9590 }}</ref> UEFA's decision to partner with blockchain company [[Chiliz]] in February 2022 was criticised and described as 'incomprehensible' by fan groups across Europe.<ref>{{Cite web |title=Fan group 'appalled' by Uefa deal with cryptocurrency company |first=Paul |last=MacInnes |url=https://theguardian.com/football/2022/feb/15/uefa-deal-with-cryptocurrency-company-socios-fan-group-appalled |date=15 February 2022 |access-date=19 February 2023 |website=The Guardian }}</ref>
+
+In July 2025, UEFA sanctioned [[Crystal Palace F.C.]] and [[Olympique Lyonnais]] for breaching its multi-club ownership rules, due to overlapping ownership by John Textor's Eagle Football Group. Palace, who had qualified for the [[UEFA Europa League]] as FA Cup winners, were instead placed in the [[UEFA Europa Conference League]], while Lyon retained the Europa League spot. The [[Court of Arbitration for Sport]] rejected Palace's appeal in August 2025.<ref>{{cite news |title=Crystal Palace dropped to UEFA's Conference League in multi-club ownership case |work=Reuters |date=11 July 2025 |url=https://www.reuters.com/sports/soccer/crystal-palace-dropped-uefas-conference-league-multi-club-ownership-case-2025-07-11/ |access-date=15 September 2025 }}</ref><ref>{{cite news |title=Crystal Palace lose appeal to CAS over Europa League demotion |work=ESPN |date=11 August 2025 |url=https://www.espn.com/soccer/story/_/id/45919447/crystal-palace-lose-appeal-cas-europa-league-demotion |access-date=15 September 2025 }}</ref>
+
+== See also ==
+=== Resolutions ===
+{{col-begin}}
+{{col-break}}
+'''Awards:'''
+* [[The UEFA Plaque]]
+* [[UEFA Club Football Awards]]
+* [[UEFA Men's Player of the Year Award]]
+* [[UEFA Women's Player of the Year Award]]
+* [[UEFA President's Award]]
+* [[UEFA Team of the Year]]
+* [[UEFA Jubilee Awards]]
+* [[UEFA Golden Jubilee Poll]]
+* [[UEFA European Football Championship Teams of the Tournament|UEFA Euro Teams of the Tournament]]
+* [[UEFA EqualGame Award]]
+{{col-break}}
+'''Qualifications:'''
+* [[UEFA coefficient]]
+* [[UEFA Fair Play ranking]]
+* [[UEFA stadium categories]]
+{{col-break}}
+'''Match:'''
+* [[UEFA competitions]]
+* [[UEFA Celebration Match]]
+{{col-end}}
+
+=== UEFA congress ===
+* [[UEFA Congress]]
+
+=== Financial fair play ===
+* [[UEFA Financial Fair Play Regulations]]
+
+=== UEFA coefficient ===
+* [[UEFA coefficient]]
+
+=== UEFA presidents ===
+* [[List of presidents of UEFA]]
+
+=== Related links ===
+<!-- Deleted image removed: [[File:UEFA logo.svg|upright=0.7|thumb|right|Previous logo (1995–2012)]] -->
+* [[List of association football clubs playing in the league of another country]]
+* [[Timeline of football (soccer)|Timeline of football]]
+* [[List of association football competitions]]
+* [[FIFA|International Federation of Association Football]] (FIFA)
+* [[Asian Football Confederation]] (AFC)
+* [[Confederation of African Football]] (CAF)
+* [[CONCACAF|Confederation of North, Central American and Caribbean Association Football]] (CONCACAF)
+* [[CONMEBOL|Confederation of South American Football]] (CONMEBOL)
+* [[Oceania Football Confederation]] (OFC)
+
+=== Planned competitions ===
+* [[Proposals for a European Super League in association football]] – A project for a sole pan-European Football League which UEFA executives have been involved in
+
+== Notes ==
+{{Notelist}}
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* {{Official website|https://www.uefa.com|name=UEFA – Official website}} {{in lang|en|fr|de|es|it|pt|ru}}
+* {{Official website|https://uefafoundation.org|name=UEFA Foundation – Official website}}
+* {{Official website|https://www.uefa.tv|name=UEFA TV – Official website}}
+* {{Official website|https://clubcompetitions-shop.com/|name=UEFA Club Competitions Store – Official website}}
+* {{Official website|https://www.shopuefa.com|name=UEFA National Teams Store – Official website}}
+* {{Official website|https://documents.uefa.com|name=UEFA Documents – Official website}}
+* {{Official website|https://gaming.uefa.com|name=UEFA Gaming – Official website}}
+* {{Official website|https://www.fifa.com|name=FIFA – Official website}}
+
+{{Commons category}}
+
+{{Navboxes
+| title = UEFA
+| bg    = black
+| fg    = white
+| list  = 
+{{UEFA presidents}}
+{{UEFA associations}}
+{{UEFA teams}}
+{{UEFA women's teams}}
+{{UEFA futsal teams}}
+{{UEFA women's futsal teams}}
+{{UEFA beach soccer teams}}
+{{UEFA leagues}}
+{{UEFA women's leagues}}
+{{UEFA futsal leagues}}
+{{UEFA Women's Futsal leagues}}
+{{UEFA football cups}}
+{{UEFA national super cups}}
+{{UEFA competitions}}
+{{Sports governing bodies in Europe}}
+}}
+{{FIFA navbox}}
+{{Navboxes
+| title = International football
+| list  = 
+{{International football}}
+{{International women's football}}
+{{International futsal}}
+{{International beach soccer}}
+{{International club football}}
+{{International women's club football}}
+{{International club futsal}}
+}}
+
+{{Authority control}}
+
+{{Portal bar|Sports|Association football|Women's association football|Europe}}
+
+[[Category:UEFA| ]]
+[[Category:1954 establishments in Switzerland]]
+[[Category:Association football governing bodies in Europe]]
+[[Category:FIFA confederations]]
+[[Category:International sports organisations based in Switzerland]]
+[[Category:Sports organizations established in 1954]]
+[[Category:International sports governing bodies in Europe]]

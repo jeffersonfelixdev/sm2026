@@ -1,0 +1,1737 @@
+{{Short description|Men's national association football team}}
+{{Use dmy dates|date=June 2026}}
+{{About|the men's team|the women's team|Luxembourg women's national football team}}
+{{Infobox national football team
+| Name               = Luxembourg
+| Badge              = Luxembourg national football team crest.png
+| Badge_size         = 165px
+| Nickname           = ''D'Rout Léiwen<br/>Les Lions Rouges<br/>Die Roten Löwen''<br/>(The Red Lions)
+| Association        = [[Luxembourg Football Federation|Fédération Luxembourgeoise de Football]] (FLF)
+| Confederation      = [[UEFA]] (Europe)
+| Coach              = [[Jeff Strasser]]
+| Captain            = [[Laurent Jans]]
+| Most caps          = Laurent Jans (124)
+| Top scorer         = [[Gerson Rodrigues (footballer, born 1995)|Gerson Rodrigues]] (23)
+| Home Stadium       = [[Stade de Luxembourg]]
+| FIFA Trigramme     = LUX
+| FIFA Rank          = {{FIFA World Rankings|LUX}}
+| FIFA max           = 82
+| FIFA max date      = September 2018
+| FIFA min           = 195
+| FIFA min date      = August 2006
+| Elo Rank           = {{World Football Elo Ratings|Luxembourg}}
+| Elo max            = 69
+| Elo max date       = 13 May 1945
+| Elo min            = 190
+| Elo min date       = 12 October 2005 <!--for a month or two -->
+| pattern_la1        = _lux24h
+| pattern_b1         = _lux24h
+| pattern_ra1        = _lux24h
+| pattern_sh1        = 
+| pattern_so1        = _lux24l
+| leftarm1           = FF0000
+| body1              = FF0000
+| rightarm1          = FF0000
+| shorts1            = FF0000
+| socks1             = FF0000
+| pattern_la2        = _lux24a
+| pattern_b2         = _lux24a
+| pattern_ra2        = _lux24a
+| pattern_sh2        = 
+| pattern_so2        = _lux24l
+| leftarm2           = 00004F
+| body2              = 00004F
+| rightarm2          = 00004F
+| shorts2            = 00004F
+| socks2             = 00004F
+| pattern_la3        = _lux24t
+| pattern_b3         = _lux24t
+| pattern_ra3        = _lux24t
+| pattern_sh3        = 
+| pattern_so3        = _lux24l
+| leftarm3           = FFFFFF
+| body3              = FFFFFF
+| rightarm3          = FFFFFF
+| shorts3            = FFFFFF
+| socks3             = FFFFFF
+| First game         = {{fb|LUX}} 1–4 {{fb-rt|FRA|1794}}<br/>([[Luxembourg City|Luxembourg]], [[Luxembourg]]; 29 October 1911)
+| Largest win        = {{fb|LUX}} 6–0 {{fb-rt|AFG|1930}}<br/>([[Brighton]], [[England]]; 26 July 1948)
+| Largest loss       = {{fb|GER|Nazi}} [[Football at the 1936 Summer Olympics#First round|9–0]] {{fb-rt|LUX}}<br/>([[Berlin]], [[Germany]]; 4 August 1936)<br/>{{fb|LUX}} 0–9 {{fb-rt|ENG}}<br/>([[Luxembourg City|Luxembourg]], [[Luxembourg]]; 19 October 1960)<br/>{{fb|ENG}} 9–0 {{fb-rt|LUX}}<br/>([[London]], [[England]]; 15 December 1982)<br/>{{fb|POR}} 9–0 {{fb-rt|LUX}}<br/>([[Almancil]], [[Portugal]]; 11 September 2023)
+}}
+The '''Luxembourg national football team''' (nicknamed the ''Red Lions''; {{langx|lb|Lëtzebuergesch Foussballnationalekipp}}, {{langx|fr|Équipe du Luxembourg de football}}, {{langx|de|Luxemburgische Fußballnationalmannschaft}}) is the national [[association football|football]] team of [[Luxembourg]], and is controlled by the [[Luxembourg Football Federation]]. The team plays most of its home matches at the [[Stade de Luxembourg]] in [[Luxembourg City]].
+
+Luxembourg has participated in every [[FIFA World Cup]] qualifiers since those for the 1934 World Cup, and in [[UEFA European Championship]] qualifiers since those for Euro 1964. As of 2026, they have never qualified for any of these major tournaments. Luxembourg is the nation with the most qualifying campaigns in both of these competitions without ever making it to the finals. However, they did compete in six [[Football at the Summer Olympics|Olympic football events]] between 1920 and 1952.<ref name="results" />
+
+==History==
+{{multiple image
+|align = left
+|direction = vertical
+|image1 = Luxembourg national football team 1920 year.jpg
+|width1 = 250
+|alt1 = 
+|image2 = Luxembourg - Ukraine 2015 (1).jpg
+|width2 = 250
+|alt2 = 
+|footer = The Luxembourg national football team in 1920 (above), and in 2015
+}}
+Luxembourg played their first ever international match on 29 October 1911, in a friendly match against [[France national football team|France]]; it resulted in a 1–4 defeat.<ref name = "results">{{cite web|url=https://www.rsssf.org/tablesl/lux-intres.html|title=Luxembourg&nbsp;– List of International Matches|author=Barrie Courney|date=4 December 2014|access-date=31 August 2012|website=RSSSF|archive-date=6 April 2023|archive-url=https://web.archive.org/web/20230406010422/https://www.rsssf.org/tablesl/lux-intres.html|url-status=live}}</ref> Their first victory came on 8 February 1914, also in a match against France, which they won 5–4.<ref name = "results"/>
+
+The national side of Luxembourg competed in six [[Football at the Summer Olympics|Olympic football events]] between 1920 and 1952, and survived the preliminary round twice (in 1948 and 1952).<ref name = "results"/> In between, Luxembourg participated in qualifiers for the [[FIFA World Cup]], but has never qualified.
+
+Starting in 1921, the Luxembourg national A-selection would play 239 unofficial international matches until 1981, mostly against other countries' B-teams like those of [[Belgium national football B team|Belgium]], [[France national football B team|France]], Switzerland and [[Germany national football B team|West Germany]], as well as a team representing South-Netherlands.<ref>{{cite web |url=https://www.rsssf.org/tablesl/lux-unoff-intres.html|first=Barrie|last=Courtney|title=Luxembourg {{!}} List of Unofficial International matches |website=[[RSSSF]]|date=8 March 2005 |access-date=12 September 2015 |archive-date=13 June 2023 |archive-url=https://web.archive.org/web/20230613234557/http://www.rsssf.org/tablesl/lux-unoff-intres.html |url-status=live }}</ref>
+
+[[File:Voorronde van Wereldkampioenschap voetbal te Rotterdam, Nederland tegen Luxembur, Bestanddeelnr 922-2390.jpg|thumb|The Luxembourg team in 1969, before a World Cup qualifier]]
+After their last Olympic tournament in 1952, the national team also started playing in qualifying groups for [[UEFA European Championship]]s, but could not reach the major European tournament end stages. The only time that the team was close to qualify was for a European or World Championship was for the [[Euro 1964]]. In the first qualification round, they defeated the [[Netherlands national football team|Netherlands]] with a score of 3–2 on aggregate after two matches. A Dutch newspaper commented this stunt after the second match with "David Luxembourg won with 2–1 [against [[Goliath]] Netherlands]".<ref>{{cite news |url=http://www.delpher.nl/nl/kranten/view?query=Luxemburg+voetbal&coll=ddd&page=5&facets%5Bperiode%5D%5B%5D=2%7C20e_eeuw%7C1960-1969%7C1963%7C&sortfield=datedesc&identifier=ddd%3A010679166%3Ampeg21%3Aa0230&resultsidentifier=ddd%3A010679166%3Ampeg21%3Aa0230 |title=Schwartz' droombeeld werd nachtmerrie voor publiek |newspaper=Nieuwsblad van het Noorden |language=nl |date=31 October 1963 |access-date=23 August 2015 |archive-date=23 September 2015 |archive-url=https://web.archive.org/web/20150923225433/http://www.delpher.nl/nl/kranten/view?query=Luxemburg+voetbal&coll=ddd&page=5&facets%5Bperiode%5D%5B%5D=2%7C20e_eeuw%7C1960-1969%7C1963%7C&sortfield=datedesc&identifier=ddd%3A010679166%3Ampeg21%3Aa0230&resultsidentifier=ddd%3A010679166%3Ampeg21%3Aa0230 |url-status=live }}</ref> In the round of eight, Luxembourg and [[Denmark national football team|Denmark]] fought for a spot in the final tournament. The winner was decided after three matches; Denmark was the winner with a total aggregate score of 6–5.
+
+When the national team does win a competitive match, they are often celebrated by national media and fans, as was the case after a 2–1 win against [[Switzerland national football team|Switzerland]] in 2008.<ref>{{cite web|url=http://tele.rtl.lu/waatleeft/replay/v/20110907/0/46473/|title=De Journal|website=[[RTL Lëtzebuerg]]|publisher=[[RTL Group]]|date=7 September 2008|access-date=25 March 2013|archive-date=29 July 2013|archive-url=https://web.archive.org/web/20130729192018/http://tele.rtl.lu/waatleeft/replay/v/20110907/0/46473/|url-status=live}}</ref><ref>{{Cite web |title=Luxembourg stuns Switzerland 2–1 in qualifying|url=https://www.foxsports.com/stories/soccer/luxembourg-stuns-switzerland-2-1-in-qualifying|website=[[Fox Sports]]|date=10 September 2008|access-date=26 April 2024}}</ref>
+
+On 3 September 2017, Luxembourg faced France in a goalless draw at [[Stadium Municipal]] in [[Toulouse]], France.<ref>{{cite news|url=https://www.mirror.co.uk/sport/football/news/france-portugal-live-score-stream-11105831|title=World Cup qualifying recap as France are held by Luxembourg and Belgium qualify for Russia 2018|newspaper=[[Daily Mirror]]|publisher=[[Future plc]]|date=3 September 2017|access-date=3 September 2017|archive-date=3 September 2017|archive-url=https://web.archive.org/web/20170903215433/http://www.mirror.co.uk/sport/football/news/france-portugal-live-score-stream-11105831|url-status=live}}</ref> It was the first time France had failed to win against Luxembourg since 1914, when Luxembourg won, 5–4.<ref>{{Cite web |url=https://www.rsssf.org/tablesl/lux-intres.html |title=Luxembourg vs. France 5–4|website=RSSSF|date=8 February 1914|access-date=2 February 2023|archive-date=6 April 2023|archive-url=https://web.archive.org/web/20230406010422/https://www.rsssf.org/tablesl/lux-intres.html |url-status=live }}</ref><ref>{{cite news|url=https://www.bbc.com/sport/football/41138056|title=France coach Didier Deschamps was left "infuriated" by his side's failures in front of goal in their goalless draw with Luxembourg, a result labelled "historic" by his opposite number.|website=[[BBC Sport]]|date=4 September 2017|access-date=4 September 2017|archive-date=3 September 2017|archive-url=https://web.archive.org/web/20170903220631/http://www.bbc.com/sport/football/41138056|url-status=live}}</ref> On 10 November 2017, Luxembourg defeated [[Hungary national football team|Hungary]] 2–1 in a friendly victory.<ref>{{Cite web|url=https://www.chicago-fire.com/post/2017/11/09/nikolic-scores-hungary-falls-2-1-luxembourg-international-friendly|title=Nikolic scores as Hungary falls 2-1 to Luxembourg in international friendly &#124; Chicago Fire FC|access-date=2017-11-09|archive-date=2017-11-10|archive-url=https://web.archive.org/web/20171110024245/https://www.chicago-fire.com/post/2017/11/09/nikolic-scores-hungary-falls-2-1-luxembourg-international-friendly|url-status=live}}</ref>
+
+On 28 March 2021, Luxembourg beat the [[Republic of Ireland national football team|Republic of Ireland]] in a [[2022 FIFA World Cup qualification]] match with a goal from [[Gerson Rodrigues (footballer, born 1995)|Gerson Rodrigues]] in the 85th minute.<ref>{{cite web |last=Cooney |first=Gavin |date=27 March 2021 |title=Awful Ireland embarrassed in defeat at home to Luxembourg |url=https://www.the42.ie/ireland-luxembourg-2-5393924-Mar2021/ |access-date=31 March 2021|website=[[TheJournal.ie]]|archive-date=10 April 2023 |archive-url=https://web.archive.org/web/20230410013441/https://www.the42.ie/ireland-luxembourg-2-5393924-Mar2021/ |url-status=live }}</ref><ref>{{Cite news |title=Republic defeat 'embarrassing', Coleman |url=https://www.bbc.com/sport/football/56552884 |access-date=11 January 2014|website=BBC Sport|archive-date=30 March 2021|archive-url=https://web.archive.org/web/20210330174611/https://www.bbc.com/sport/football/56552884 |url-status=live }}</ref> In 2023, Luxembourg achieved some of their best results in European Championship qualifying, finishing [[UEFA Euro 2024 qualifying Group J|third in their group]] (of six teams) and qualifying for a play-off for a finals berth,<ref>{{Cite web |last=Horváth |first=Bence |date=19 October 2023 |title=Football in Luxembourg: Euro 2024: Playoffs provide lifeline for the Red Lions |url=https://today.rtl.lu/sport/local/a/2128132.html |url-status=live|website=RTL Lëtzebuerg|access-date=11 January 2024|archive-url=https://web.archive.org/web/20240111183742/https://today.rtl.lu/sport/local/a/2128132.html |archive-date=11 January 2024}}</ref><ref>{{Cite news |last=Mackey |first=Ed |title=Euro 2024 play-offs: All you need to know |url=https://www.nytimes.com/athletic/5068159/2023/11/23/euro-2024-play-offs-teams-dates/ |access-date=11 January 2024|newspaper=[[The Athletic]]|date=4 December 2023 |archive-url=https://web.archive.org/web/20240111183741/https://theathletic.com/5068159/2023/11/23/euro-2024-play-offs-teams-dates/|archive-date=11 January 2024|url-status=live }}</ref><ref>{{Cite web |title=Luxembourg 4-1 Bosnia and Herzegovina|url=https://www.espn.com/soccer/report/_/gameId/655438|publisher=[[ESPN]]|date=16 November 2023|access-date=26 April 2024}}</ref><ref>{{Cite web |first=Bence|last=Horváth|date=22 November 2023 |title=International football: Luxembourg to play Georgia at Euro 2024 playoff round |url=https://today.rtl.lu/sport/local/a/2140702.html|website=RTL Lëtzebuerg|access-date=11 January 2024|archive-url=https://web.archive.org/web/20240111183743/https://today.rtl.lu/sport/local/a/2140702.html|archive-date=11 January 2024|url-status=live }}</ref><ref>{{Cite web|title=Luxembourg football scales new heights |url=https://www.uefa.com/news-media/news/0288-199762623e72-2493528ebf56-1000--luxembourg-football-scales-new-heights/|website=[[UEFA]]|date=1 December 2023|archive-url=https://web.archive.org/web/20240110171045/https://www.uefa.com/insideuefa/news/0288-199762623e72-2493528ebf56-1000--luxembourg-football-scales-new-heights/|archive-date=10 January 2024|url-status=live }}</ref><ref>{{Cite web |date=11 September 2023|title=The development of football in Luxembourg|url=https://www.365scores.com/news/the-development-of-football-in-luxembourg|website=365scores|access-date=11 January 2024|archive-url=https://web.archive.org/web/20240111191251/https://www.365scores.com/news/the-development-of-football-in-luxembourg|archive-date=11 January 2024|url-status=live}}</ref> but they lost 2–0 against [[Georgia national football team|Georgia]].<ref>{{Cite web|first=Gaël|last=Arellano|title=Euro 2024 Qualifiers: VAR heartbreak for Luxembourg in Georgia|url=https://today.rtl.lu/sport/local/a/2180029.html|website=RTL Lëtzebuerg|date=21 March 2024|access-date=26 April 2024}}</ref> Rodrigues also became the top goalscorer in the history of the national team, surpassing the 16-goal tally by [[Léon Mart]], by scoring five goals during the qualifying process, a record for a Luxembourgian footballer.<ref>{{Cite web|last=Inshakov|first=Maksym |date=14 October 2023 |title=Dynamo footballer scores a goal in 56 seconds, setting a record. Video |url=https://eng.obozrevatel.com/section-news/news-dynamo-footballer-scores-a-goal-in-56-seconds-setting-a-record-video-14-10-2023.html |website=Obozrevatel|access-date=19 February 2024}}</ref><ref>{{Cite web |last=Dunbar |first=Graham |date=20 March 2024|title=Luxembourg looks to be soccer's next Cinderella story going into Euro 2024 playoffs |url=https://apnews.com/article/euro-2024-playoffs-luxembourg-philipp-b7b39d6f26ccda7ee3f94916e2f3520a|work=[[Associated Press News]]|access-date=26 April 2024}}</ref>
+
+On 22 March 2025, Luxembourg showed improvement with a convincing victory against [[Sweden men's national football team|Sweden]] in a friendly match.<ref>{{Cite web|title=Friendlies Sweden vs. Luxembourg|url=https://www.bbc.com/sport/football/live/c14j203n034t|website=BBC Sport|date=22 March 2025|access-date=13 May 2025}}</ref><ref>{{cite news|url=https://www.chronicle.lu/category/football/54034-luxembourg-secure-first-ever-football-win-against-sweden|title=Luxembourg Secure First-Ever Football Win Against Sweden|website=chronicle.lu |date=24 March 2025|access-date=25 March 2025}}</ref>
+
+==Kit==
+{| class="wikitable"
+|-
+! Kit provider
+! Period
+|-
+| {{flagicon|GER}} [[Adidas]]
+| 1976–2005
+|-
+| {{flagicon|ITA}} [[Erreà]]
+| 2005–2007
+|-
+| {{flagicon|GER}} [[Jako]]
+| 2008–2013
+|-
+| {{flagicon|GER}} [[Adidas]]
+| 2014–2018
+|-
+| {{flagicon|ITA}} [[Macron (sportswear)|Macron]]
+| 2018–2022
+|-
+| {{flagicon|ITA}} [[Erreà]]
+| 2022–present
+|-
+|}
+
+==Home stadium==
+[[File:Luxembourg, stade de Luxembourg (101).jpg|thumb|right|Stade de Luxembourg]]
+As of 1 September 2021, the Luxembourg national team adopted Luxembourg City's [[Stade de Luxembourg]], the country's [[national stadium]], as its home venue. Formerly, the team played at the [[Stade Josy Barthel]], where, at counting in August 2015, it had played 235 games, including unofficial matches.<ref>{{cite web|title=Stade Josy Barthel, Lëtzebuerg|url=http://eu-football.info/_venue.php?id=447&page=7 |website=eu-football.info|access-date=23 Aug 2015 |archive-date=7 September 2023 |archive-url=https://web.archive.org/web/20230907184603/https://eu-football.info/_venue.php?id=447&page=7 |url-status=live }}</ref>
+=== Supporters ===
+
+The [[M-Block Fanatics]] is a non-profit football supporters' association for the Luxembourg national football team. M-Block Fanatics was founded in 1995 and derives its name from the fact that originally they used to occupy the ''M-Block'' of the former National Stadium.
+
+==Results and fixtures==
+{{Main|Luxembourg national football team results}}
+The following is a list of match results in the last 12 months, as well as any future matches that have been scheduled.
+
+{{legend2|#CCFFCC|Win|border=1px solid #AAAAAA}}
+{{legend2|#FFFFCC|Draw|border=1px solid #AAAAAA}}
+{{legend2|#FFCCCC|Loss|border=1px solid #AAAAAA}}
+{{legend2|#FFFFFF|Fixture|border=1px solid #AAAAAA}}
+
+===2025===
+{{footballbox collapsible|format=1
+|round      = [[Exhibition game#Association football|Friendly]]
+|date       = 10 June 2025
+|time       = {{UTZ|20:45|1}}
+|team1      = {{fb-rt|LUX}}
+|score      = 0–0
+|report     = https://www.uefa.com/uefanationsleague/friendlies/match/2044975--luxembourg-vs-republic-of-ireland/
+|team2      = {{fb|IRL}}
+|goals1     = 
+|goals2     = 
+|stadium    = [[Stade de Luxembourg]]
+|location   = [[Luxembourg City]], Luxembourg
+|attendance = 6,312 
+|referee    = Stefan Ebner ([[Austrian Football Association|Austria]])
+|result     = D
+}}
+{{Football box collapsible|format=1
+|round      = [[2026 FIFA World Cup qualification – UEFA Group A|2026 FIFA World Cup qualification]]
+|date       = 4 September 2025
+|time       = {{UTZ|20:45|+2}}
+|team1      = {{fb-rt|LUX}}
+|score      = 1–3
+|team2      = {{fb|NIR}}
+|report     = https://www.uefa.com/european-qualifiers/match/2044213/
+|goals1     =
+*[[Aiman Dardari|Dardari]] {{goal|30}}
+|goals2     =
+*[[Jamie Reid (footballer, born July 1994)|Reid]] {{goal|7}}
+*[[Shea Charles|S. Charles]] {{goal|46}}
+*[[Justin Devenny|Devenny]] {{goal|69}}
+|location   = [[Luxembourg City]], Luxembourg
+|stadium    = [[Stade de Luxembourg]]
+|attendance = 9,214
+|referee    = [[Andris Treimanis]] ([[Latvian Football Federation|Latvia]])
+|result     = L
+}}
+{{Football box collapsible|format=1
+|round      = [[2026 FIFA World Cup qualification – UEFA Group A|2026 FIFA World Cup qualification]]
+|date       = 7 September 2025
+|time       = {{UTZ|20:45|+2}}
+|team1      = {{fb-rt|LUX}}
+|score      = 0–1
+|team2      = {{fb|SVK}}
+|report     = https://www.uefa.com/european-qualifiers/match/2044238/
+|goals1     =
+|goals2     =
+*[[Tomáš Rigo|Rigo]] {{goal|90}}
+|location   = [[Luxembourg City]], Luxembourg
+|stadium    = [[Stade de Luxembourg]]
+|attendance = 8,487
+|referee    = [[Nick Walsh (referee)|Nicholas Walsh]] ([[Scottish Football Association|Scotland]])
+|result     = L
+}}
+{{Football box collapsible|format=1
+|round      = [[2026 FIFA World Cup qualification – UEFA Group A|2026 FIFA World Cup qualification]]
+|date       = 10 October 2025
+|time       = {{UTZ|20:45|+2}}
+|team1      = {{fb-rt|GER}}
+|score      = 4–0
+|team2      = {{fb|LUX}}
+|report     = https://www.uefa.com/european-qualifiers/match/2044267/
+|goals1     =
+*[[David Raum|Raum]] {{goal|12}}
+*[[Joshua Kimmich|Kimmich]] {{goal|21|pen.|50}}
+*[[Serge Gnabry|Gnabry]] {{goal|48}}
+|goals2     =
+|location   = [[Sinsheim]], Germany
+|stadium    = [[Rhein-Neckar-Arena|PreZero Arena]]
+|attendance = 25,249
+|referee    = Nenad Minaković ([[Football Association of Serbia|Serbia]])
+|result     = L
+}}
+{{Football box collapsible|format=1
+|round      = [[2026 FIFA World Cup qualification – UEFA Group A|2026 FIFA World Cup qualification]]
+|date       = 13 October 2025
+|time       = {{UTZ|20:45|+2}}
+|team1      = {{fb-rt|SVK}}
+|score      = 2–0
+|team2      = {{fb|LUX}}
+|report     = https://www.uefa.com/european-qualifiers/match/2044294/
+|goals1     =
+*[[Adam Obert|Obert]] {{goal|55}}
+*[[Ivan Schranz|Schranz]] {{goal|72}}
+|goals2     =
+|location   = [[Trnava]], Slovakia
+|stadium    = [[Anton Malatinský Stadium]]
+|attendance = 13,010
+|referee    = Rade Obrenović ([[Football Association of Slovenia|Slovenia]])
+|result     = L
+}}
+{{Football box collapsible|format=1
+|round      = [[2026 FIFA World Cup qualification – UEFA Group A|2026 FIFA World Cup qualification]]
+|date       = 14 November 2025
+|time       = {{UTZ|20:45|+1}}
+|team1      = {{fb-rt|LUX}}
+|score      = 0–2
+|team2      = {{fb|GER}}
+|report     = https://www.uefa.com/european-qualifiers/match/2044313/
+|goals1     =
+|goals2     =
+*[[Nick Woltemade|Woltemade]] {{goal|49||69}}
+|location   = [[Luxembourg City]], Luxembourg
+|stadium    = [[Stade de Luxembourg]]
+|attendance = 9,214
+|referee    = [[John Brooks (referee)|John Brooks]] ([[The Football Association|England]])
+|result     = L
+}}
+{{Football box collapsible|format=1
+|round      = [[2026 FIFA World Cup qualification – UEFA Group A|2026 FIFA World Cup qualification]]
+|date       = 17 November 2025
+|time       = {{UTZ|19:45|+0}}
+|team1      = {{fb-rt|NIR}}
+|score      = 1–0
+|team2      = {{fb|LUX}}
+|report     = https://www.uefa.com/european-qualifiers/match/2044338/
+|goals1     =
+*[[Jamie Donley|Donley]] {{goal|44|pen.}}
+|goals2     =
+|location   = [[Belfast]], Northern Ireland
+|stadium    = [[Windsor Park]]
+|attendance = 18,037
+|referee    = [[Kristo Tohver]] ([[Estonian Football Association|Estonia]])
+|result     = L
+}}
+
+===2026===
+{{Football box collapsible|format=1
+|round      = [[2024–25 UEFA Nations League promotion/relegation play-offs#Matches 3|2024-25 Nations League Playoff C/D]]
+|date       = 26 March 2026
+|time       = {{UTZ|18:00|+1}}
+|team1      = {{fb-rt|MLT}}
+|score      = 0–2
+|team2      = {{fb|LUX}}
+|report     = https://www.uefa.com/uefanationsleague/match/2043053/
+|goals1     =
+|goals2     =
+*[[Vincent Thill|V. Thill]] {{goal|47}}
+*[[Mathias Olesen|Olesen]] {{goal|90+3}}
+|location   = [[Ta' Qali]], Malta
+|stadium    = [[National Stadium, Ta' Qali|National Stadium]]
+|attendance = 9,467
+|referee    = [[Irfan Peljto]] ([[Football Association of Bosnia and Herzegovina|Bosnia and Herzegovina]])
+|result     = W
+}}
+{{Football box collapsible|format=1
+|round          = [[2024–25 UEFA Nations League promotion/relegation play-offs#Matches 3|2024-25 Nations League Playoff C/D]]
+|date           = 31 March 2026
+|time           = {{UTZ|18:00|+1}}
+|team1          = {{fb-rt|LUX}}
+|score          = 3–0
+|aggregatescore = 5–0
+|team2          = {{fb|MLT}}
+|report         = https://www.uefa.com/uefanationsleague/match/2043055/
+|goals1         =
+*[[Vincent Thill|V. Thill]] {{goal|20}}
+*[[Danel Sinani|Sinani]] {{goal|50}}
+*[[Tomás Moreira|Moreira]] {{goal|70}}
+|goals2         =
+|location       = [[Luxembourg City]], Luxembourg
+|stadium        = [[Stade de Luxembourg]]
+|attendance     = 9,113
+|referee        = [[Daniel Siebert (referee)|Daniel Siebert]] ([[German Football Association|Germany]])
+|result         = W
+}}
+{{Football box collapsible|format=1
+|round      = [[Exhibition game#Association football|Friendly]]
+|date       = 3 June 2026
+|time       = {{UTZ|20:45|+2}}
+|team1      = {{fb-rt|LUX}}
+|score      = 0–1
+|team2      = {{fb|ITA}}
+|report     = https://www.uefa.com/european-qualifiers/friendlies/match/2048228--luxembourg-vs-italy/
+|goals1     =
+|goals2     =
+*[[Pio Esposito|Esposito]] {{goal|49}}
+|location   = [[Luxembourg City]], Luxembourg
+|stadium    = [[Stade de Luxembourg]]
+|attendance = 9,214
+|referee    = Joey Kooij ([[Royal Dutch Football Association|Netherlands]])
+|result     = L
+}}
+{{Football box collapsible|format=1
+|round      = [[Exhibition game#Association football|Friendly]]
+|date       = 6 June 2026
+|time       = {{UTZ|20:00|+2}}
+|team1      = {{fb-rt|ALB}}
+|score      = 0–1
+|team2      = {{fb|LUX}}
+|report     = https://www.uefa.com/european-qualifiers/friendlies/match/2048232--albania-vs-luxembourg/
+|goals1     =
+|goals2     =
+*[[Danel Sinani|Sinani]] {{goal|8}}
+|location   = [[Tirana]], Albania
+|stadium    = [[Arena Kombëtare]]
+|attendance = 5,142
+|referee    = Genc Nuza ([[Football Federation of Kosovo|Kosovo]])
+|result     = W
+}}
+{{Football box collapsible|format=1
+|round      = [[2026–27 UEFA Nations League C#Group 4|2026–27 Nations League]]
+|date       = 26 September 2026
+|time       = {{UTZ|19:00|+3}}
+|team1      = {{fb-rt|BUL}}
+|score      = 
+|team2      = {{fb|LUX}}
+|report     = https://www.uefa.com/uefanationsleague/match/2048026/
+|goals1     =
+|goals2     =
+|location   = [[Plovdiv]], Bulgaria
+|stadium    = [[Hristo Botev Stadium (Plovdiv)|Hristo Botev Stadium]] 
+|attendance =
+|referee    =
+|result     =
+}}
+{{Football box collapsible|format=1
+|round      = [[2026–27 UEFA Nations League C#Group 4|2026–27 Nations League]]
+|date       = 29 September 2026
+|time       = {{UTZ|20:45|+2}}
+|team1      = {{fb-rt|LUX}}
+|score      = 
+|team2      = {{fb|ISL}}
+|report     = https://www.uefa.com/uefanationsleague/match/2047998/
+|goals1     =
+|goals2     =
+|location   = [[Luxembourg City]], Luxembourg
+|stadium    = [[Stade de Luxembourg]]
+|attendance =
+|referee    =
+|result     =
+}}
+{{Football box collapsible|format=1
+|round      = [[2026–27 UEFA Nations League C#Group 4|2026–27 Nations League]]
+|date       = 3 October 2026
+|time       = {{UTZ|19:00|+3}}
+|team1      = {{fb-rt|EST}}
+|score      = 
+|team2      = {{fb|LUX}}
+|report     = https://www.uefa.com/uefanationsleague/match/2047974/
+|goals1     =
+|goals2     =
+|location   = [[Tallinn]], Estonia
+|stadium    = [[Lilleküla Stadium]]
+|attendance =
+|referee    =
+|result     =
+}}
+{{Football box collapsible|format=1
+|round      = [[2026–27 UEFA Nations League C#Group 4|2026–27 Nations League]]
+|date       = 6 October 2026
+|time       = {{UTZ|20:45|+2}}
+|team1      = {{fb-rt|LUX}}
+|score      = 
+|team2      = {{fb|BUL}}
+|report     = https://www.uefa.com/uefanationsleague/match/2047943/
+|goals1     =
+|goals2     =
+|location   = [[Luxembourg City]], Luxembourg
+|stadium    = [[Stade de Luxembourg]]
+|attendance =
+|referee    =
+|result     =
+}}
+{{Football box collapsible|format=1
+|round      = [[2026–27 UEFA Nations League C#Group 4|2026–27 Nations League]]
+|date       = 13 November 2026
+|time       = {{UTZ|20:45|+1}}
+|team1      = {{fb-rt|LUX}}
+|score      = 
+|team2      = {{fb|EST}}
+|report     = https://www.uefa.com/uefanationsleague/match/2047881/
+|goals1     =
+|goals2     =
+|location   = [[Luxembourg City]], Luxembourg
+|stadium    = [[Stade de Luxembourg]]
+|attendance =
+|referee    =
+|result     =
+}}
+{{Football box collapsible|format=1
+|round      = [[2026–27 UEFA Nations League C#Group 4|2026–27 Nations League]]
+|date       = 16 November 2026
+|time       = {{UTZ|17:00|+0}}
+|team1      = {{fb-rt|ISL}}
+|score      = 
+|team2      = {{fb|LUX}}
+|report     = https://www.uefa.com/uefanationsleague/match/2047906/
+|goals1     =
+|goals2     =
+|location   = [[Reykjavík]], Iceland
+|stadium    = [[Laugardalsvöllur]]
+|attendance =
+|referee    =
+|result     =
+}}
+
+==Staff==
+[[File:Luc Holtz.jpg|thumb|250px|Luc Holtz, the Luxembourg manager from 2010 to 2025]]
+As of 2025, the staff of the Luxembourg national team includes the following members:<ref>{{cite web|title=Staff|url=https://www.flf.lu/kader-staff-80254v4/groups/142533/seasons/212|publisher=Luxembourg Football Federation|access-date=18 November 2022|language=fr|archive-date=18 February 2024 |archive-url=https://web.archive.org/web/20240218165812/https://www.flf.lu/kader-staff-80254v4/groups/142533/seasons/212 |url-status=live }}</ref>
+
+{| class="wikitable"
+|-
+!Position
+!Name
+|-
+|Technical director
+|{{flagicon|LUX}} [[Manuel Cardoni]]
+|-
+|-
+|Head coach
+|{{flagicon|LUX}} [[Jeff Strasser]]
+|-
+|Assistant coach
+|{{flagicon|LUX}} [[Mario Mutsch]]
+|-
+|Goalkeeping coach
+|{{flagicon|LUX}} Rui Forte
+|-
+|Fitness coach
+|{{flagicon|LUX}} Claude Origer
+|-
+|rowspan=2|Doctors
+|{{flagicon|LUX}} Patrick Dang
+|-
+|{{flagicon|LUX}} Lara Heinz
+|-
+|rowspan=3|Physiotherapists
+|{{flagicon|GER}} Alexander Kähler
+|-
+|{{flagicon|LUX}} Erwan Deshoux
+|-
+|{{flagicon|LUX}} Gilles Hoffmann
+|-
+|Video analyst
+|{{flagicon|FRA}} Clément Gonin
+|-
+|rowspan=3|Equipment manager
+|{{flagicon|LUX}} Léon Huss
+|-
+|{{flagicon|LUX}} Jos Koecher
+|-
+|{{flagicon|LUX}} Romain Sailer
+|}
+
+===Coaching history===
+The following managers have been in charge of Luxembourg's national squad:<ref>{{cite web|url=http://www.profootball.lu/Navigation+2/Entra%C3%AEneurs+nationaux.html|title=Les entraîneurs nationaux du Luxembourg|language=fr|access-date=31 August 2012|website=profootball.lu|archive-url=https://web.archive.org/web/20120625001705/http://www.profootball.lu/Navigation+2/Entra%C3%AEneurs+nationaux.html|archive-date=25 June 2012|url-status=dead}}</ref>
+
+{{div col|colwidth=20em}}
+*{{flagicon|Luxembourg}} [[Paul Feierstein]] (1933–1948)
+*{{flagicon|Luxembourg}} [[Jean-Pierre Hoscheid]], [[Jules Müller]], & [[Albert Reuter]] (1948–1949)
+*{{flagicon|Austria}} [[Adolf Patek]] (1949–1953)
+*{{flagicon|Hungary|1949}} [[Béla Volentik]] (1953–1955)
+*{{flagicon|Austria}} [[Eduard Havlicek]] (1955)
+*{{flagicon|Hungary}} [[Nándor Lengyel]] (1955–1959)
+*{{flagicon|France|1794}} [[Pierre Sinibaldi]] (1959–1960)
+*{{flagicon|West Germany}} [[Robert Heinz]] (1960–1969)
+*{{flagicon|Austria}} [[Ernst Melchior]] (1969–1972)
+*{{flagicon|France|1974}} [[Gilbert Legrand]] (1972–1977)
+*{{flagicon|Luxembourg}} [[Arthur Schoos]] (1978)
+*{{flagicon|Luxembourg}} [[Louis Pilot]] (1978–1984)
+*{{flagicon|Belgium}} [[Jozef Vliers]] (1984)
+*{{flagicon|Luxembourg}} [[Josy Kirchens]] (1985)
+*{{flagicon|Luxembourg}} [[Paul Philipp]] (1985–2001)
+*{{flagicon|Denmark}} [[Allan Simonsen]] (2001–2004)
+*{{flagicon|Luxembourg}} [[Guy Hellers]] (2004–2010)
+*{{flagicon|Luxembourg}} [[Luc Holtz]] (2010–2025)
+*{{flagicon|Luxembourg}} [[Jeff Strasser]] (2025–)
+{{div col end}}
+
+==Players==
+
+===Current squad===
+The following players were called up for the [[Exhibition game|friendly]] matches against [[Italy national football team|Italy]] and [[Albania national football team|Albania]] on 3 and 6 June 2026.<ref>{{cite web|title=LA SÉLECTION DES ROUT LÉIWEN POUR LES MATCHS CONTRE L'ITALIE ET L'ALBANIE|trans-title=The selection of Red Lions for matches against Italy and Albania|url=https://www.flf.lu/post-296485v4/posts/66232|publisher=Luxembourg Football Federation|date=21 May 2026|access-date=21 May 2026|language=fr}}</ref>
+
+''Caps and goals as of 6 June 2026 after the match against [[Albania national football team|Albania]].''<ref>{{cite web |title=Luxembourg vs. Albania|url=https://www.soccerway.com/match/albania-ELP2K4oB/luxembourg-2cnFSaNj/|website=Soccerway|date=6 June 2026|access-date=6 June 2026}}</ref>
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Tiago Pereira Cardoso]]|sortname=Pereira Cardoso, Tiago|age={{birth date and age|2006|4|7|df=y}}|caps=8|goals=0|club=[[Borussia Mönchengladbach]]|clubnat=GER}}
+{{nat fs g player|no=12|pos=GK|name=[[Lucas Fox (footballer)|Lucas Fox]]|sortname=Fox, Lucas|age={{birth date and age|2000|10|2|df=y}}|caps=0|goals=0|club=[[1. FC Bocholt]]|clubnat=GER}}
+{{nat fs g player|no=23|pos=GK|name=[[Tim Kips]]|sortname=Kips, Tim|age={{birth date and age|2000|11|1|df=y}}|caps=0|goals=0|club=[[1. FC Phönix Lübeck|Phönix Lübeck]]|clubnat=GER}}
+{{nat fs g player|no=|pos=GK|name=[[Anthony Moris]]|sortname=Moris, Anthony|age={{birth date and age|1990|4|29|df=y}}|caps=82|goals=0|club=[[Al-Khaleej FC|Al-Khaleej]]|clubnat=KSA}}
+{{nat fs break}}
+{{nat fs g player|no=2|pos=DF|name=[[Seid Korać]]|sortname=Korac, Seid|age={{birth date and age|2001|10|20|df=y}}|caps=23|goals=2|club=[[Venezia FC|Venezia]]|clubnat=ITA}}
+{{nat fs g player|no=3|pos=DF|name=[[Enes Mahmutović]]|sortname=Mahmutović, Enes|age={{birth date and age|1997|5|22|df=y}}|caps=44|goals=0|club=[[NAC Breda]]|clubnat=NED}}
+{{nat fs g player|no=4|pos=DF|name=[[Florian Bohnert]]|sortname=Bohnert, Florian|age={{birth date and age|1997|11|9|df=y}}|caps=63|goals=1|club=[[SC Bastia|Bastia]]|clubnat=FRA}}
+{{nat fs g player|no=5|pos=DF|name=[[Vahid Selimović]]|sortname=Selimović, Vahid|age={{birth date and age|1997|4|3|df=y}}|caps=15|goals=1|club=[[FC Iberia 1999|Iberia 1999]]|clubnat=GEO}}
+{{nat fs g player|no=13|pos=DF|name=[[Dirk Carlson]]|sortname=Carlson, Dirk|age={{birth date and age|1998|4|1|df=y}}|caps=73|goals=0|club=[[SKN St. Pölten|St. Pölten]]|clubnat=AUT}}
+{{nat fs g player|no=14|pos=DF|name=[[Eric Veiga]]|sortname=Veiga, Eric|age={{birth date and age|1997|2|18|df=y}}|caps=10|goals=0|club=[[Flamurtari FC|Flamurtari]]|clubnat=ALB}}
+{{nat fs g player|no=17|pos=DF|name=[[Mica Pinto]]|sortname=Pinto, Mica|age={{birth date and age|1993|6|4|df=y}}|caps=43|goals=1|club=[[FC Dordrecht|Dordrecht]]|clubnat=NED}}
+{{nat fs g player|no=18|pos=DF|name=[[Laurent Jans]]|sortname=Jans, Laurent|other=[[Captain (association football)|Captain]]|age={{birth date and age|1992|8|5|df=y}}|caps=124|goals=1|club=[[S.K. Beveren|Beveren]]|clubnat=BEL}}
+{{nat fs g player|no=|pos=DF|name=[[Helmer Tavares]]|sortname=Tavares, Helmer|age={{birth date and age|2007|04|27|df=y}}|caps=0|goals=0|club=[[Rayo Ciudad Alcobendas CF|RC Alcobendas]]|clubnat=ESP}}
+{{nat fs break}}
+{{nat fs g player|no=6|pos=MF|name=[[Tomás Moreira]]|sortname=Moreira, Tomás|age={{birth date and age|2005|6|26|df=y}}|caps=16|goals=1|club=[[S.L. Benfica B |Benfica B]]|clubnat=POR}}
+{{nat fs g player|no=8|pos=MF|name=[[Christopher Martins]]|sortname=Martins, Christopher|age={{birth date and age|1997|2|19|df=y}}|caps=83|goals=1|club=[[FC Spartak Moscow|Spartak Moscow]]|clubnat=RUS}}
+{{nat fs g player|no=16|pos=MF|name=[[Miguel Gonçalves (footballer)|Miguel Gonçalves]]|sortname=Gonçalves, Miguel|age={{birth date and age|2004|08|18|df=y}}|caps=2|goals=0|club=[[FC 08 Homburg]]|clubnat=GER}}
+{{nat fs g player|no=19|pos=MF|name=[[Mathias Olesen]]|sortname=Olesen, Mathias|age={{birth date and age|2001|3|21|df=y}}|caps=39|goals=2|club=[[Grazer AK]]|clubnat=AUT}}
+{{nat fs g player|no=21|pos=MF|name=[[Sébastien Thill]]|sortname=Thill, Sébastien|age={{birth date and age|1993|12|29|df=y}}|caps=47|goals=2|club=[[Stal Rzeszów (football)|Stal Rzeszów]]|clubnat=POL}}
+{{nat fs g player|no=22|pos=MF|name=[[Enzo Duarte]]|sortname=Duarte, Enzo|age={{birth date and age|2009|6|28|df=y}}|caps=5|goals=0|club=[[Borussia Dortmund II]]|clubnat=GER}}
+{{nat fs break}}
+{{nat fs g player|no=7|pos=FW|name=[[Aiman Dardari]]|age={{birth date and age|2005|3|21|df=y}}|caps=13|goals=1|club=[[SpVgg Greuther Fürth|Greuther Fürth]]|clubnat=GER}}
+{{nat fs g player|no=9|pos=FW|name=[[Alessio Curci]]|sortname=Curci, Alessio|age={{birth date and age|2002|2|16|df=y}}|caps=20|goals=1|club=[[Neftçi PFK|Neftçi]]|clubnat=AZE}}
+{{nat fs g player|no=10|pos=FW|name=[[Danel Sinani]]|sortname=Sinani, Danel|age={{birth date and age|1997|4|5|df=y}}|caps=82|goals=16|club=[[FC St. Pauli]]|clubnat=GER}}
+{{nat fs g player|no=11|pos=FW|name=[[Edvin Muratović]]|age={{birth date and age|1997|2|15|df=y}}|caps=22|goals=1|club=[[FK Panevėžys|Panevėžys]]|clubnat=LTU}}
+{{nat fs g player|no=15|pos=FW|name=[[Vincent Thill]]|sortname=Thill, Vincent|age={{birth date and age|2000|2|4|df=y}}|caps=61|goals=5|club=[[SV Waldhof Mannheim|Waldhof Mannheim]]|clubnat=GER}}
+{{nat fs g player|no=20|pos=FW|name=[[Hamza Kadamani]]|sortname=Kadamani, Hamza|age={{birth date and age|2009|09|13|df=y}}|caps=2|goals=0|club=[[FC Metz|Metz]]|clubnat=FRA}}
+{{nat fs g player|no=|pos=FW|name=[[Leon Elshan]]|sortname=Elshan, Leon|age={{birth date and age|2004|09|22|df=y}}|caps=0|goals=0|club=[[Jeunesse Esch]]|clubnat=LUX}}
+{{nat fs end}}
+
+===Recent call-ups===
+The following players have been called up for the team within the last 12 months and are still available and eligible for selection.
+<!--Sorted by position, date of birth, caps, goals and most recent call-up.-->
+{{nat fs r start}}
+<!--{{nat fs break}}-->
+{{nat fs r player|no=|pos=DF|name=[[Eldin Džogović]]|sortname=Dzogovic, Eldin|age={{birth date and age|2003|6|8|df=y}}|caps=13|goals=0|club=[[1. FC Magdeburg]]|clubnat=GER|latest=v. {{fb|MLT}}, 31 March 2026}}
+{{nat fs r player|no=|pos=DF|name=[[Marvin Martins]]|sortname=Martins, Marvin|age={{birth date and age|1995|2|17|df=y}}|caps=41|goals=3|club=[[FK Liepāja|Liepāja]]|clubnat=LVA|latest=v. {{fb|NIR}}, 17 November 2025}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=MF|name=[[Diego Duarte (footballer, born 2006)|Diego Duarte]]|sortname=Duarte, Diego|age={{birth date and age|2006|05|03|df=y}}|caps=1|goals=0|club=[[RFC Seraing (1922)|Seraing]]|clubnat=BEL|latest=v. {{fb|ITA}}, 3 June 2026}}<sup>U21</sup>
+{{nat fs r player|no=|pos=MF|name=[[Leandro Barreiro]]|sortname=Barreiro, Leandro|age={{birth date and age|2000|1|3|df=y}}|caps=73|goals=2|club=[[S.L. Benfica|Benfica]]|clubnat=POR|latest=v. {{fb|MLT}}, 31 March 2026}}
+{{nat fs r player|no=|pos=MF|name=[[Olivier Thill]]|sortname=Thill, Olivier|age={{birth date and age|1996|12|17|df=y}}|caps=48|goals=3|club=[[Free agent|''Unattached'']]|clubnat=|latest=v. {{fb|NIR}}, 17 November 2025}}
+{{nat fs r player|no=|pos=MF|name=[[Mirza Mustafić]]|sortname=Mustafić, Mirza|age={{birth date and age|1998|06|20|df=yes}}|caps=1|goals=0|club=[[Bali United F.C.|Bali United]]|clubnat=IDN|latest=v. {{fb|NIR}}, 17 November 2025}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=FW|name=[[Yvandro Borges Sanches]]|sortname=Sanches, Yvandro Borges|age={{birth date and age|2004|5|24|df=y}}|caps=29|goals=3|club=[[Heracles Almelo]]|clubnat=NED|latest=v. {{fb|ITA}}, 3 June 2026}}<sup>INJ</sup>
+{{nat fs r player|no=|pos=FW|name=[[Jayson Videira]]|age={{birth date and age|2005|2|17|df=y}}|caps=3|goals=0|club=[[1. FSV Mainz 05 II|Mainz 05 II]]|clubnat=GER|latest=v. {{fb|MLT}}, 31 March 2026}}
+{{nat fs r player|no=|pos=FW|name=[[Kenan Avdusinovic]]|age={{birth date and age|1998|3|3|df=y}}|caps=1|goals=0|club=[[FC Progrès Niederkorn|Progrès Niederkorn]]|clubnat=LUX|latest=v. {{fb|NIR}}, 17 November 2025}}
+{{nat fs r player|no=|pos=FW|name=[[Adulai Djabi Embalo]]|sortname=Embalo, Adulai Djabi|age={{birth date and age|2005|06|20|df=y}}|caps=1|goals=0|club=[[Virtus Entella]]|clubnat=ITA|latest=v. {{fb|NIR}}, 17 November 2025}}
+{{nat fs break}}
+;Notes
+*<sup>PRE</sup> = Preliminary squad/standby.
+*<sup>INJ</sup> = Not part of the [[#Current squad|current squad]] due to injury.
+*<sup>WD</sup> = Player withdrew from the current squad due to non-injury issue.
+*<sup>U21</sup> = Player joined under-21 team after opening game of window.
+{{nat fs end}}
+
+==Player records==
+{{main|List of Luxembourg international footballers}}
+
+{{updated|6 June 2026}}<ref name="RSSSF">{{cite web |last=Mamrud |first=Roberto |title=Luxembourg {{!}} Record International Players |url=https://www.rsssf.org/miscellaneous/lux-recintlp.html |website=RSSSF |access-date=8 February 2019 |archive-date=24 March 2023 |archive-url=https://web.archive.org/web/20230324222306/https://www.rsssf.org/miscellaneous/lux-recintlp.html |url-status=live }}</ref>
+Players in '''bold''' are still active with Luxembourg.
+
+===Most capped players===
+[[File:RC Lens - FC Metz (09-02-2019) 57.jpg|175px|right|thumb|Laurent Jans is Luxembourg's most capped player with 124 appearances.]]
+
+{| class="wikitable sortable" style="text-align: center;"
+|-
+!width=30|Rank
+!width=150|Player
+!width=50|Caps
+!width=50|Goals
+!width=100|Years
+|-
+|1
+|align=left|'''[[Laurent Jans]]'''{{efn|name=Jans|Laurent Jans also played in Luxembourg's match against Belgium in 2014, but Belgium used seven substitutions, rendering the match unofficial according to FIFA regulations.}}
+|124
+|1
+|2012–present
+|-
+|2
+|align=left|[[Mario Mutsch]]{{efn|Mario Mutsch also played in Luxembourg's match against Belgium in 2014, but Belgium used seven substitutions, rendering the match unofficial according to FIFA regulations.}}
+|102
+|4
+|2005–2019
+|-
+|rowspan=2|3
+|align=left|[[Daniel da Mota]]{{efn|Daniel da Mota also played in Luxembourg's match against Belgium in 2014, but Belgium used seven substitutions, rendering the match unofficial according to FIFA regulations.}}
+|100
+|7
+|2007–2021
+|-
+|align=left|'''[[Lars Gerson]]'''{{efn|Lars Gerson also played in Luxembourg's match against Belgium in 2014, but Belgium used 7 substitutions, rendering the match unofficial according to FIFA regulations.}}
+|100
+|4
+|2008–present
+|-
+|5
+|align=left|[[Jeff Strasser]]
+|98
+|7
+|1993–2010
+|-
+|6
+|align=left|[[René Peters (footballer)|René Peters]]{{efn|René Peters also played and scored against Faroe Islands in 2004, but this was not recognised as a full A-international by FIFA.}}
+|92
+|3
+|2000–2013
+|-
+|7
+|align=left|[[Jonathan Joubert]]
+|90
+|0
+|2006–2017
+|-
+|8
+|align=left|[[Eric Hoffmann]]{{efn|Eric Hoffmann also played and scored against Faroe Islands in 2004, but this was not recognised as a full senior international match by FIFA.}}
+|88
+|0
+|2002–2014
+|-
+|9
+|align=left|[[Carlo Weis]]{{efn|Carlo Weis also played in three matches against France Amateur, West Germany B and France B, but these are not recognised as full senior international matches by FIFA.}}
+|85
+|1
+|1978–1998
+|-
+|10
+|align=left|'''[[Christopher Martins]]'''
+|83
+|1
+|2014–present
+|-
+|}
+
+===Top goalscorers===
+[[File:Жерсон Родрігеш. 1 серпня 2021 року — 1253175 (cropped).jpg |190px|right|thumb|Gerson Rodrigues is Luxembourg's top scorer with 23 goals.]]
+{| class="wikitable sortable" style="text-align:center"
+|-
+!width=30px|Rank
+!width=150px|Player
+!width=50px|Goals
+!width=50px|Caps
+!width=50px|Ratio
+!width=100px|Career
+|-
+|1
+|align=left|[[Gerson Rodrigues (footballer, born 1995)|Gerson Rodrigues]]
+|23
+|72
+|{{#expr:23/72 round 2}}
+|2017–2025
+|-
+|rowspan="2"|2
+|align=left|[[Léon Mart]]
+|16
+|24
+|{{#expr:16/24 round 2}}
+|1933–1945
+|-
+|align=left|'''[[Danel Sinani]]'''
+|16
+|82
+|{{#expr:16/82 round 2}}
+|2017–present
+|-
+|rowspan=2|4
+|align=left|[[Gustave Kemp]]{{efn|Gustave Kemp also played a match at the [[Football at the 1936 Summer Olympics|1936 Summer Olympics]], but this was not recognised as a full senior international match by FIFA.}}
+|15
+|20
+|{{#expr:15/20 round 2}}
+|1938–1945
+|-
+|align=left|[[Aurélien Joachim]]{{efn|name=Joachim|Aurélien Joachim also played and scored in Luxembourg's match against Belgium in 2014, but Belgium used seven substitutions, rendering the match unofficial according to FIFA regulations.}}
+|15
+|80
+|{{#expr:15/80 round 2}}
+|2005–2019
+|-
+|6
+|align=left|[[Camille Libar]]
+|14
+|24
+|{{#expr:14/24 round 2}}
+|1938–1947
+|-
+|7
+|align=left|[[Nicolas Kettel]]{{efn|Nicolas Kettel also played and scored at the [[Football at the 1948 Summer Olympics|1948 Summer Olympics]], however these matches are not recognised as full A-internationals by FIFA.}}
+|13
+|56
+|{{#expr:13/56 round 2}}
+|1946–1959
+|-
+|8
+|align=left|[[François Müller]]{{efn|François Müller also played at the [[Football at the 1952 Summer Olympics|1952 Summer Olympics]], however these matches are not recognised as full A-internationals by FIFA.}}
+|12
+|27
+|{{#expr:12/27 round 2}}
+|1949–1954
+|-
+|9
+|align=left|[[Léon Letsch]]
+|11
+|48
+|{{#expr:11/48 round 2}}
+|1947–1963
+|-
+|10
+|align=left|[[Gilbert Dussier]]
+|9
+|39
+|{{#expr:9/39 round 2}}
+|1971–1978
+|}
+
+==Competitive record==
+===FIFA World Cup===
+{| class="wikitable" style="text-align: center;"
+!colspan=9|[[FIFA World Cup]] record
+!width=1% rowspan=28|
+!colspan=7|[[FIFA World Cup qualification|Qualification]] record
+|-
+!Year
+!Round
+!Position
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}*
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+|-
+|{{flagicon|Uruguay}} [[1930 FIFA World Cup|1930]]
+|colspan=8|''Did not enter''
+|colspan=6|''Declined invitation''
+|-
+|{{flagicon|Italy|1861}} [[1934 FIFA World Cup|1934]]
+|colspan=8 rowspan=22|''Did not qualify''
+|2
+|0
+|0
+|2
+|2
+|15
+|-
+|{{flagicon|France|1794}} [[1938 FIFA World Cup|1938]]
+|2
+|0
+|0
+|2
+|2
+|7
+|-
+|{{flagicon|Brazil|1889}} [[1950 FIFA World Cup|1950]]
+|2
+|0
+|0
+|2
+|4
+|8
+|-
+|{{flagicon|Switzerland}} [[1954 FIFA World Cup|1954]]
+|4
+|0
+|0
+|4
+|1
+|19
+|-
+|{{flagicon|Sweden}} [[1958 FIFA World Cup|1958]]
+|4
+|0
+|0
+|4
+|3
+|19
+|-
+|{{flagicon|Chile}} [[1962 FIFA World Cup|1962]]
+|4
+|1
+|0
+|3
+|5
+|21
+|-
+|{{flagicon|England}} [[1966 FIFA World Cup|1966]]
+|6
+|0
+|0
+|6
+|6
+|20
+|-
+|{{flagicon|Mexico}} [[1970 FIFA World Cup|1970]]
+|6
+|0
+|0
+|6
+|4
+|24
+|-
+|{{flagicon|West Germany}} [[1974 FIFA World Cup|1974]]
+|6
+|1
+|0
+|5
+|2
+|14
+|-
+|{{flagicon|Argentina}} [[1978 FIFA World Cup|1978]]
+|6
+|0
+|0
+|6
+|2
+|22
+|-
+|{{flagicon|Spain}} [[1982 FIFA World Cup|1982]]
+|8
+|0
+|0
+|8
+|1
+|23
+|-
+|{{flagicon|Mexico}} [[1986 FIFA World Cup|1986]]
+|8
+|0
+|0
+|8
+|2
+|27
+|-
+|{{flagicon|Italy}} [[1990 FIFA World Cup|1990]]
+|8
+|0
+|1
+|7
+|3
+|22
+|-
+|{{flagicon|United States}} [[1994 FIFA World Cup|1994]]
+|8
+|0
+|1
+|7
+|2
+|17
+|-
+|{{flagicon|France|1974}} [[1998 FIFA World Cup|1998]]
+|8
+|0
+|0
+|8
+|2
+|22
+|-
+|{{flagicon|South Korea|1997}} {{flagicon|Japan}} [[2002 FIFA World Cup|2002]]
+|10
+|0
+|0
+|10
+|4
+|28
+|-
+|{{flagicon|Germany}} [[2006 FIFA World Cup|2006]]
+|12
+|0
+|0
+|12
+|5
+|48
+|-
+|{{flagicon|South Africa}} [[2010 FIFA World Cup|2010]]
+|10
+|1
+|2
+|7
+|4
+|25
+|-
+|{{flagicon|Brazil}} [[2014 FIFA World Cup|2014]]
+|10
+|1
+|3
+|6
+|7
+|26
+|-
+|{{flagicon|Russia}} [[2018 FIFA World Cup|2018]]
+|10
+|1
+|3
+|6
+|8
+|26
+|-
+|{{flagicon|Qatar}} [[2022 FIFA World Cup|2022]]
+|8
+|3
+|0
+|5
+|8
+|18
+|-
+|{{flagicon|Canada}} {{flagicon|Mexico}} {{flagicon|United States}} [[2026 FIFA World Cup|2026]]
+|6
+|0
+|0
+|6
+|1
+|13
+|-
+|{{flagicon|Morocco}} {{flagicon|Portugal}} {{flagicon|Spain}} [[2030 FIFA World Cup|2030]]
+|colspan=8 rowspan=2|''To be determined''
+|colspan=6 rowspan=2|''To be determined''
+|-
+|{{flagicon|Saudi Arabia}} [[2034 FIFA World Cup|2034]]
+|-
+!Total
+!—
+!{{Tooltip|0/23|Number of tournaments qualified for}}
+!—
+!—
+!—
+!—
+!—
+!—
+!148
+!8
+!10
+!130
+!78
+!464
+|}
+
+===UEFA European Championship===
+{| class="wikitable" style="text-align: center;"
+!colspan=9|[[UEFA European Championship]] record
+!width=1% rowspan=22|
+!colspan=6|[[UEFA European Championship qualifying|Qualifying]] record
+|-
+!Year
+!Round
+!Position
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}*
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+|-
+| {{flagicon|France|1794}} [[1960 European Nations' Cup|1960]]
+| colspan=8|''Did not enter''
+| colspan=6|''Declined participation''
+|-
+| {{flagicon|Spain|1945}} [[1964 European Nations' Cup|1964]]
+| colspan=8 rowspan=16|''Did not qualify''
+| 5
+| 1
+| 3
+| 1
+| 8
+| 8
+|-
+| {{flagicon|Italy|1946}} [[UEFA Euro 1968|1968]]
+| 6
+| 0
+| 1
+| 5
+| 1
+| 18
+|-
+| {{flagicon|Belgium}} [[UEFA Euro 1972|1972]]
+| 6
+| 0
+| 1
+| 5
+| 1
+| 23
+|-
+| {{flagicon|Yugoslavia}} [[UEFA Euro 1976|1976]]
+| 6
+| 0
+| 0
+| 6
+| 7
+| 28
+|-
+| {{flagicon|Italy|1946}} [[UEFA Euro 1980|1980]]
+| 6
+| 0
+| 1
+| 5
+| 2
+| 17
+|-
+| {{flagicon|France|1974}} [[UEFA Euro 1984|1984]]
+| 8
+| 0
+| 0
+| 8
+| 5
+| 36
+|-
+| {{flagicon|West Germany}} [[UEFA Euro 1988|1988]]
+| 8
+| 0
+| 1
+| 7
+| 2
+| 23
+|-
+| {{flagicon|Sweden}} [[UEFA Euro 1992|1992]]
+| 6
+| 0
+| 0
+| 6
+| 2
+| 14
+|-
+| {{flagicon|England}} [[UEFA Euro 1996|1996]]
+| 10
+| 3
+| 1
+| 6
+| 3
+| 21
+|-
+| {{flagicon|Belgium}} {{flagicon|Netherlands}} [[UEFA Euro 2000|2000]]
+| 8
+| 0
+| 0
+| 8
+| 2
+| 23
+|-
+| {{flagicon|Portugal}} [[UEFA Euro 2004|2004]]
+| 8
+| 0
+| 0
+| 8
+| 0
+| 21
+|-
+| {{flagicon|Austria}} {{flagicon|Switzerland}} [[UEFA Euro 2008|2008]]
+| 12
+| 1
+| 0
+| 11
+| 2
+| 23
+|-
+| {{flagicon|Poland}} {{flagicon|Ukraine}} [[UEFA Euro 2012|2012]]
+| 10
+| 1
+| 1
+| 8
+| 3
+| 21
+|-
+| {{flagicon|France|1974}} [[UEFA Euro 2016|2016]]
+| 10
+| 1
+| 1
+| 8
+| 6
+| 27
+|-
+| {{flagicon|European Union}} [[UEFA Euro 2020|2020]]
+| 8
+| 1
+| 1
+| 6
+| 7
+| 16
+|-
+| {{flagicon|Germany}} [[UEFA Euro 2024|2024]]
+| 11
+| 5
+| 2
+| 4
+| 13
+| 21
+|-
+| {{flagicon|United Kingdom}} {{flagicon|Republic of Ireland}} [[UEFA Euro 2028|2028]]
+| colspan=8 rowspan=2|''To be determined''
+| colspan=6 rowspan=2|''To be determined''
+|-
+| {{flagicon|Italy}} {{flagicon|Turkey}} [[UEFA Euro 2032|2032]]
+|-
+!Total
+!—
+!0/17
+!—
+!—
+!—
+!—
+!—
+!—
+!128
+!13
+!13
+!102
+!64
+!340
+|}
+
+===UEFA Nations League===
+{| class="wikitable" style="text-align: center;"
+! colspan="18" |[[UEFA Nations League]] record
+|-
+! colspan="12" |League phase
+! colspan="6" |Promotion/Relegation play-offs
+|-
+!Season
+!Division
+!Group
+! width="70" |{{Tooltip|Pos|Position (overall)}}
+! width="30" |{{Tooltip|Pld|Games played}}
+! width="30" |{{Tooltip|W|Won}}
+! width="30" |{{Tooltip|D|Drawn}}
+! width="30" |{{Tooltip|L|Lost}}
+! width="30" |{{Tooltip|GF|Goals for}}
+! width="30" |{{Tooltip|GA|Goals against}}
+! width="35" |{{Tooltip|P/R|Promotion/relegation at end of season}}
+! width="28" |{{Tooltip|RK|Overall rank}}
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+|-
+|[[2018–19 UEFA Nations League|2018–19]]
+|[[2018–19 UEFA Nations League D|D]]
+|[[2018–19 UEFA Nations League D#Group 2|2]]
+| 2nd || 6 || 3 || 1 || 2 || 11 || 4 ||{{rise}}||44th
+| colspan="6" rowspan="3" |'''–'''
+|-
+|[[2020–21 UEFA Nations League|2020–21]]
+|[[2020–21 UEFA Nations League C|C]]
+|[[2020–21 UEFA Nations League C#Group 1|1]]
+| 2nd || 6 || 3 || 1 || 2 || 7 || 5 ||{{same position}}||39th
+|-
+|[[2022–23 UEFA Nations League|2022–23]]
+|[[2022–23 UEFA Nations League C|C]]
+|[[2022–23 UEFA Nations League C#Group 1|1]]
+| 2nd || 6 || 3 || 2 || 1 || 9 || 7 ||{{same position}}||37th
+|-
+|[[2024–25 UEFA Nations League|2024–25]]
+|[[2024–25 UEFA Nations League C|C]]
+|[[2024–25 UEFA Nations League C#Group 3|3]]
+|4th
+|6
+|0
+|3
+|3
+|3
+|7
+|{{same position}}
+|46th
+|2
+|2
+|0
+|0
+|5
+|0
+|-
+!colspan=4|Total !! 18 !! 9 !! 4 !! 5 !! 27 !! 16 !! colspan=2|37th
+!2
+!2
+!0
+!0
+!5
+!0
+|}
+
+===Olympic Games===
+[[File:BEL-LUX SO1928.JPG|thumb|Hectic phase during the goal-rich Olympic defeat against [[Belgium national football team|Belgium]] in 1928 (5–3)]]
+{| class="wikitable" style="text-align: center;"
+|-
+!colspan=9|[[Football at the Summer Olympics|Olympic Games]] record<ref name = "results"/>
+|-
+!Year
+!Round
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!Squad
+|-
+|{{flagicon|Belgium}} [[Football at the 1920 Summer Olympics|1920]]||Round 1||1||0||0||1||0||3||[[Football at the 1920 Summer Olympics - Men's team squads#Luxembourg|Squad]]
+|-
+|{{flagicon|France|1794}} [[Football at the 1924 Summer Olympics|1924]]||Round 2||1||0||0||1||0||2||[[Football at the 1924 Summer Olympics - Men's team squads#Luxembourg|Squad]]
+|-
+|{{flagicon|Netherlands}} [[Football at the 1928 Summer Olympics|1928]]||rowspan=4|Round 1||1||0||0||1||3||5||[[Football at the 1928 Summer Olympics - Men's team squads#Luxembourg|Squad]]
+|-
+|{{flagicon|Nazi Germany}} [[Football at the 1936 Summer Olympics|1936]]||1||0||0||1||0||9||[[Football at the 1936 Summer Olympics - Men's team squads#Luxembourg|Squad]]
+|-
+|{{flagicon|United Kingdom}} [[Football at the 1948 Summer Olympics|1948]]||2||1||0||1||7||6||[[Football at the 1948 Summer Olympics - Men's team squads#Luxembourg|Squad]]
+|-
+|{{flagicon|Finland}} [[Football at the 1952 Summer Olympics|1952]]||2||1||0||1||6||5||[[Football at the 1952 Summer Olympics - Men's team squads#Luxembourg|Squad]]
+|-
+!colspan=2|Total||8||2||0||6||16||30||—
+|}
+
+==Head to head record==
+As of 6 June 2026 after the match against [[Albania national football team|Albania]], the Luxembourg national team playing record is as follows:<ref name = "results"/>
+{| class="wikitable sortable collapsible collapsed" style="text-align: center; font-size: 100%;"
+!Opponent
+!P
+!W
+!D
+!L
+|-
+|style="text-align:left;"|{{fb|AFG|2013}}
+|1
+|1
+|0
+|0
+|-
+|style="text-align:left;"|{{fb|ALB}}
+|8
+|3
+|1
+|4
+|-
+|style="text-align:left;"|{{fb|ALG}}
+|1
+|0
+|1
+|0
+|-
+|style="text-align:left;"|{{fb|ARM}}
+|1
+|0
+|1
+|0
+|-
+|style="text-align:left;"|{{fb|AUT}}
+|7
+|0
+|0
+|7
+|-
+|style="text-align:left;"|{{fb|AZE}}
+|7
+|3
+|3
+|1
+|-
+|style="text-align:left;"|{{fb|BLR}}
+|14
+|2
+|5
+|7
+|-
+|style="text-align:left;"|{{fb|BEL}}
+|20
+|1
+|3
+|16
+|-
+|style="text-align:left;"|{{fb|BIH}}
+|9
+|2
+|0
+|7
+|-
+|style="text-align:left;"|{{fb|BUL}}
+|17
+|0
+|3
+|14
+|-
+|style="text-align:left;"|{{fb|CMR}}
+|1
+|0
+|0
+|1
+|-
+|style="text-align:left;"|{{fb|CAN}}
+|2
+|0
+|0
+|2
+|-
+|style="text-align:left;"|{{fb|CPV}}
+|4
+|0
+|3
+|1
+|-
+|style="text-align:left;"|{{fb|CYP}}
+|5
+|1
+|0
+|4
+|-
+|style="text-align:left;"|{{fb|CZE}}
+|2
+|1
+|0
+|1
+|-
+|style="text-align:left;"|{{fb|TCH}}
+|7
+|0
+|1
+|6
+|-
+|style="text-align:left;"|{{fb|DEN}}
+|11
+|0
+|2
+|9
+|-
+|style="text-align:left;"|{{fb|GDR}}
+|5
+|0
+|0
+|5
+|-
+|style="text-align:left;"|{{fb|EGY}}
+|1
+|0
+|1
+|0
+|-
+|style="text-align:left;"|{{fb|ENG}}
+|9
+|0
+|0
+|9
+|-
+|style="text-align:left;"|{{fb|EST}}
+|3
+|0
+|1
+|2
+|-
+|style="text-align:left;"|{{fb|FRO}}
+|6
+|1
+|2
+|3
+|-
+|style="text-align:left;"|{{fb|FIN}}
+|5
+|1
+|0
+|4
+|-
+|style="text-align:left;"|{{fb|FRA}}
+|19
+|1
+|1
+|17
+|-
+|style="text-align:left;"|{{fb|GAM}}
+|1
+|1
+|0
+|0
+|-
+|style="text-align:left;"|{{fb|GEO}}
+|5
+|1
+|1
+|3
+|-
+|style="text-align:left;"|{{fb|GER}}
+|15
+|1
+|0
+|14
+|-
+|style="text-align:left;"|{{fb|GRE}}
+|9
+|1
+|0
+|8
+|-
+|style="text-align:left;"|{{fb|HUN}}
+|11
+|1
+|1
+|9
+|-
+|style="text-align:left;"|{{fb|ISL}}
+|9
+|1
+|4
+|4
+|-
+|style="text-align:left;"|{{fb|ISR}}
+|9
+|0
+|0
+|9
+|-
+|style="text-align:left;"|{{fb|ITA}}
+|10
+|0
+|1
+|9
+|-
+|style="text-align:left;"|{{fb|JPN}}
+|1
+|0
+|0
+|1
+|-
+|style="text-align:left;"|{{fb|KAZ}}
+|1
+|1
+|0
+|0
+|-
+|style="text-align:left;"|{{fb|LVA}}
+|7
+|0
+|1
+|6
+|-
+|style="text-align:left;"|{{fb|LIE}}
+|6
+|2
+|1
+|3
+|-
+|style="text-align:left;"|{{fb|LTU}}
+|6
+|4
+|1
+|1
+|-
+|style="text-align:left;"|{{fb|MAD}}
+|1
+|0
+|1
+|0
+|-
+|style="text-align:left;"|{{fb|MLT}}
+|9
+|5
+|2
+|2
+|-
+|style="text-align:left;"|{{fb|MEX}}
+|1
+|1
+|0
+|0
+|-
+|style="text-align:left;"|{{fb|MDA}}
+|6
+|1
+|4
+|1
+|-
+|style="text-align:left;"|{{fb|MNE}}
+|3
+|1
+|0
+|2
+|-
+|style="text-align:left;"|{{fb|MAR}}
+|3
+|0
+|0
+|3
+|-
+|style="text-align:left;"|{{fb|MYA}}
+|1
+|0
+|0
+|1
+|-
+|style="text-align:left;"|{{fb|NED}}
+|18
+|2
+|1
+|15
+|-
+|style="text-align:left;"|{{fb|NGA}}
+|1
+|0
+|0
+|1
+|-
+|style="text-align:left;"|{{fb|NIR}}
+|9
+|1
+|2
+|6
+|-
+|style="text-align:left;"|{{fb|MKD}}
+|4
+|2
+|0
+|2
+|-
+|style="text-align:left;"|{{fb|NOR}}
+|12
+|2
+|1
+|9
+|-
+|style="text-align:left;"|{{fb|POL}}
+|7
+|0
+|1
+|6
+|-
+|style="text-align:left;"|{{fb|POR}}
+|21
+|1
+|1
+|19
+|-
+|style="text-align:left;"|{{fb|QAT}}
+|2
+|0
+|1
+|1
+|-
+|style="text-align:left;"|{{fb|IRL}}
+|8
+|1
+|1
+|6
+|-
+|style="text-align:left;"|{{fb|ROU}}
+|6
+|0
+|0
+|6
+|-
+|style="text-align:left;"|{{fb|RUS}}
+|10
+|0
+|0
+|10
+|-
+|style="text-align:left;"|{{fb|SMR}}
+|2
+|2
+|0
+|0
+|-
+|style="text-align:left;"|{{fb|KSA}}
+|1
+|0
+|0
+|1
+|-
+|style="text-align:left;"|{{fb|SCO}}
+|5
+|0
+|1
+|4
+|-
+|style="text-align:left;"|{{fb|SEN}}
+|1
+|0
+|1
+|0
+|-
+|style="text-align:left;"|{{fb|SRB}}
+|4
+|0
+|0
+|4
+|-
+|style="text-align:left;"|{{fb|SCG}}
+|2
+|0
+|0
+|2
+|-
+|style="text-align:left;"|{{fb|SVK}}
+|9
+|1
+|1
+|7
+|-
+|style="text-align:left;"|{{fb|SVN}}
+|5
+|0
+|0
+|5
+|-
+|style="text-align:left;"|{{fb|KOR}}
+|2
+|1
+|0
+|1
+|-
+|style="text-align:left;"|{{fb|URS}}
+|1
+|0
+|0
+|1
+|-
+|style="text-align:left;"|{{fb|ESP}}
+|6
+|0
+|0
+|6
+|-
+|style="text-align:left;"|{{fb|SWE}}
+|7
+|1
+|1
+|5
+|-
+|style="text-align:left;"|{{fb|SUI}}
+|13
+|1
+|1
+|11
+|-
+|style="text-align:left;"|{{fb|TOG}}
+|1
+|0
+|1
+|0
+|-
+|style="text-align:left;"|{{fb|TUR}}
+|9
+|1
+|1
+|7
+|-
+|style="text-align:left;"|{{fb|UKR}}
+|5
+|0
+|0
+|5
+|-
+|style="text-align:left;"|{{fb|USA}}
+|1
+|0
+|0
+|1
+|-
+|style="text-align:left;"|{{fb|URU}}
+|1
+|0
+|0
+|1
+|-
+|style="text-align:left;"|{{fb|WAL}}
+|6
+|0
+|0
+|6
+|-
+|style="text-align:left;"|{{fb|YUG}}
+|9
+|0
+|1
+|8
+|}
+
+==Footnotes==
+{{notelist}}
+{{notelist-ua}}
+
+==See also==
+*[[Luxembourg national under-21 football team|Luxembourg men's national under-21 football team]]
+*[[Luxembourg national under-19 football team|Luxembourg men's national under-19 football team]]
+*[[Luxembourg national under-17 football team|Luxembourg men's national under-17 football team]]
+*[[Luxembourg women's national football team]]
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons category}}
+* [http://www.flf.lu/ Official website]
+* [https://www.fifa.com/about-fifa/associations/LUX Luxembourg] at [[FIFA]]
+* [https://www.uefa.com/nationalassociations/lux/ Luxembourg] at [[UEFA]]
+* [https://www.rsssf.org/tablesl/lux-intres.html Results (1911–present)] at RSSSF
+* [https://www.rsssf.org/tablesl/lux-unoff-intres.html Results from unofficial games (1921–present)] at RSSSF
+
+{{Luxembourg national football team}}
+{{Navboxes
+|title=Luxembourg squads
+|bg=#EF3340
+|fg=white
+|bordercolor=#00A3E0
+|list1=
+{{Luxembourg football squad 1920 Summer Olympics}}
+{{Luxembourg football squad 1924 Summer Olympics}}
+{{Luxembourg football squad 1928 Summer Olympics}}
+{{Luxembourg football squad 1936 Summer Olympics}}
+{{Luxembourg football squad 1948 Summer Olympics}}
+{{Luxembourg football squad 1952 Summer Olympics}}
+}}
+{{Luxembourg football}}
+{{UEFA teams}}
+{{National sports teams of Luxembourg}}
+{{Portal bar|Association football|Luxembourg}}
+
+[[Category:Luxembourg national football team| ]]
+[[Category:Luxembourg men's national football teams| ]]
+[[Category:European national association football teams]]
+[[Category:1911 establishments in Luxembourg]]
+[[Category:National sports teams established in 1911]]

@@ -1,0 +1,2818 @@
+{{Short description|Men's association football team}}
+{{About|the men's team|the women's team|Qatar women's national football team}}
+{{Multiple issues|
+{{Promotional|date=October 2025}}
+{{More citations needed|date=October 2025}}
+}}
+{{Use dmy dates|date=January 2024}}
+{{Infobox national football team
+| Name                   = Qatar
+| Badge                  = Flag of Qatar.svg
+| Nickname               = {{lang|ar|العنابي}}<br>(The Maroon One)<ref>{{cite web | url=https://www.goal.com/en-om/news/qatar-the-maroons-world-cup-2022-critics-wrong/s13yywbt43c51bg94nelb4g57 | title='Undeserving to continent's finest' - The Maroons have helped Qatar prove critics wrong | date=7 September 2019 | access-date=20 January 2023 | archive-date=20 January 2023 | archive-url=https://web.archive.org/web/20230120145708/https://www.goal.com/en-om/news/qatar-the-maroons-world-cup-2022-critics-wrong/s13yywbt43c51bg94nelb4g57 | url-status=live }}</ref>
+| Association            = [[Qatar Football Association]] (QFA)
+| Confederation          = [[Asian Football Confederation|AFC]] (Asia)
+| Sub-confederation      = [[West Asian Football Federation|WAFF]] (West Asia)
+| website                = {{URL|https://www.qfa.qa/|qfa.qa}}
+| Coach                  = [[Julen Lopetegui]]
+| Captain                = [[Hassan Al-Haydos]]
+| Most caps              = Hassan Al-Haydos (188)<ref>{{Cite web|url=https://www.rsssf.org/miscellaneous/qat-haydos-intlg.html|title=Hassan Khalid Al-Haydos - Century of International Appearances|access-date=2 February 2023|archive-date=3 June 2023|archive-url=https://web.archive.org/web/20230603042002/https://rsssf.org/miscellaneous/qat-haydos-intlg.html|url-status=live}}</ref>
+| Top scorer             = [[Almoez Ali]] ([[List of international goals scored by Almoez Ali|60]])
+| Home Stadium           = [[List of football stadiums in Qatar|Various]]
+| FIFA Trigramme         = QAT
+| FIFA Rank              = {{FIFA World Rankings|QAT}}
+| FIFA max               = 34
+| FIFA max date          = April and July 2024
+| FIFA min               = 113
+| FIFA min date          = November 2010
+| Elo Rank               = {{World Football Elo Ratings|Qatar}}
+| Elo max                = 24
+| Elo max date           = February 2019
+| Elo min                = 135
+| Elo min date           = April 1975
+| pattern_la1            = _qat26h
+| pattern_b1             = _qat26hA
+| pattern_ra1            = _qat26h
+| pattern_sh1            = _qat26h
+| pattern_so1            = _qat26hl
+| leftarm1               = 7c202b
+| body1                  = 7c202b
+| rightarm1              = 7c202b
+| shorts1                = 7c202b
+| socks1                 = 7c202b
+| pattern_la2            = _qat26a
+| pattern_b2             = _qat26aA
+| pattern_ra2            = _qat26a
+| pattern_sh2            = _qat26a
+| pattern_so2            = _adidasonwhitel
+| leftarm2               = FFFFFF
+| body2                  = FFFFFF
+| rightarm2              = FFFFFF
+| shorts2                = FFFFFF
+| socks2                 = 7c202b
+| First game             = {{fb|BHR|1932}} 2–1 {{fb-rt|QAT|1949}}<br>([[Isa Town]], [[Bahrain]]; 27 March 1970)
+| Largest win            = {{fb|QAT}} 15–0 {{fb-rt|BHU}}<br>([[Doha]], [[Qatar]]; 3 September 2015)
+| Largest loss           = {{fb|KUW}} 9–0 {{fb-rt|QAT}}<br>([[Kuwait]]; 8 January 1973)
+| World cup apps         = 2
+| World cup first        = 2022
+| World cup best         = Group stage ([[2022 FIFA World Cup|2022]], [[2026 FIFA World Cup|2026]])
+| Regional name          = [[AFC Asian Cup|Asian Cup]]
+| Regional cup apps      = 12
+| Regional cup first     = [[1980 AFC Asian Cup|1980]]
+| Regional cup best      = '''Champions''' ([[2019 AFC Asian Cup|2019]], [[2023 AFC Asian Cup|2023]])
+| 2ndRegional name       = [[FIFA Arab Cup|Arab Cup / FIFA Arab Cup]]
+| 2ndRegional cup apps   = 3
+| 2ndRegional cup first  = [[1985 Arab Cup|1985]]
+| 2ndRegional cup best   = Runners-up ([[1998 Arab Cup|1998]])
+|
+|       = 
+{{MedalSport|Men's [[Association football|football]]}}
+{{MedalCompetition|[[AFC Asian Cup]]}}
+{{MedalGold|[[2019 AFC Asian Cup|2019 UAE]]|[[2019 AFC Asian Cup squads#Qatar|Team]]}}
+{{MedalGold|[[2023 AFC Asian Cup|2023 Qatar]]|[[2023 AFC Asian Cup squads#Qatar|Team]]}}
+{{MedalCompetition|[[FIFA Arab Cup|Arab Cup / FIFA Arab Cup]]}}
+{{MedalSilver|[[1998 Arab Cup|1998 Qatar]]|[[1998 Arab Cup squads#Qatar|Team]]}}
+{{MedalBronze|[[2021 FIFA Arab Cup|2021 Qatar]]|[[2021 FIFA Arab Cup squads#Qatar|Team]]}}
+{{MedalCompetition|[[Asian Games]]}}
+{{MedalGold|[[2006 Asian Games|2006 Qatar]]|[[Football at the 2006 Asian Games – Men's team squads#Qatar|Team]]}}
+{{MedalCompetition|[[Arabian Gulf Cup]]}}
+{{MedalGold|[[11th Arabian Gulf Cup|1992 Qatar]]|Team}}
+{{MedalGold|[[17th Arabian Gulf Cup|2004 Qatar]]|Team}}
+{{MedalGold|[[22nd Arabian Gulf Cup|2014 Saudi Arabia]]|[[22nd Arabian Gulf Cup squads#Qatar|Team]]}}
+{{MedalSilver|[[7th Arabian Gulf Cup|1984 Oman]]|Team}}
+{{MedalSilver|[[10th Arabian Gulf Cup|1990 Kuwait]]|Team}}
+{{MedalSilver|[[13th Arabian Gulf Cup|1996 Oman]]|Team}}
+{{MedalSilver|[[15th Arabian Gulf Cup|2002 Saudi Arabia]]|Team}}
+{{MedalBronze|[[4th Arabian Gulf Cup|1976 Qatar]]|Team}}
+{{MedalBronze|[[16th Arabian Gulf Cup|2003/4 Kuwait]]|Team}}
+}}
+
+The '''Qatar national football team''' ({{langx|ar|منتخب قطر لكرة القدم}}), nicknamed "The Maroons", represents [[Qatar]] in international [[association football|football]], and is controlled by the Qatar Football Association, which is affiliated with the [[Asian Football Confederation]] (AFC) and comes under the global jurisdiction of world football’s governing body [[FIFA]]. They play their home games at [[Jassim bin Hamad Stadium]].<ref>{{cite web|url=http://www.qatarvisitor.com/world-cup-2022/qatar-stadiums|title=Qatar stadia|publisher=qatarvisitor.com|access-date=26 December 2014|archive-date=27 December 2014|archive-url=https://web.archive.org/web/20141227040413/http://www.qatarvisitor.com/world-cup-2022/qatar-stadiums|url-status=live}}</ref>
+
+The team won the Arabian Gulf Cup in [[11th Arabian Gulf Cup|1992]], [[17th Arabian Gulf Cup|2004]] and [[22nd Arabian Gulf Cup|2014]]. They have appeared in ten [[AFC Asian Cup|Asian Cup]] tournaments and won it twice in [[2019 AFC Asian Cup|2019]] and [[2023 AFC Asian Cup|2023]], beating [[Japan national football team|Japan]], [[Saudi Arabia national football team|Saudi Arabia]], and [[South Korea national football team|South Korea]] in the process during 2019, conceding just one goal.
+
+Qatar hosted the [[2022 FIFA World Cup]] and therefore qualified automatically for what was their first appearance in the event. Amidst the controversy, it was the first time an [[Arab world|Arab nation]] hosted the competition.<ref>{{cite web | url=https://www.fifa.com/fifaplus/en/articles/hostcountry-en | title=Host Country | date= | access-date=2022-12-28 | archive-date=29 December 2022 | archive-url=https://web.archive.org/web/20221229075022/https://www.fifa.com/fifaplus/en/articles/hostcountry-en | url-status=live }}</ref> On 25 November 2022, Qatar were the first team to be eliminated from the World Cup; subsequently, they became the worst performing host nation in the history of the FIFA World Cup, losing every game. On 14 October 2025, Qatar qualified directly for the [[2026 FIFA World Cup]] after a 2–1 victory over the United Arab Emirates.<ref>{{Cite web |date=14 October 2025 |title=Qatar and Saudi Arabia qualify for 2026 World Cup |url=https://global.espn.com/football/story/_/id/46597037/qatar-saudi-arabia-qualify-2026-fifa-world-cup |access-date=15 October 2025 |website=ESPN.com |language=en}}</ref>
+
+Qatar has footballing rivalries with [[Bahrain national football team|Bahrain]],<ref>{{cite web | url=https://www.middleeasteye.net/news/qatar-world-cup-bahrain-lost-economic-opportunity | title=Qatar World Cup 2022: A lost economic opportunity for Bahrain? | date=2022-11-10 | access-date=2023-01-17 | archive-date=17 January 2023 | archive-url=https://web.archive.org/web/20230117162643/https://www.middleeasteye.net/news/qatar-world-cup-bahrain-lost-economic-opportunity | url-status=live }}</ref> [[United Arab Emirates national football team|United Arab Emirates]],<ref>{{cite web | url=https://www.euronews.com/culture/2022/12/07/beyond-rivalry-shared-passion-brings-football-fans-together-in-dubai | title=Beyond rivalry, shared passion brings football fans together in Dubai | date=2022-12-07 | access-date=2023-01-17 | archive-date=17 January 2023 | archive-url=https://web.archive.org/web/20230117162641/https://www.euronews.com/culture/2022/12/07/beyond-rivalry-shared-passion-brings-football-fans-together-in-dubai | url-status=live }}</ref> and [[Saudi Arabia national football team|Saudi Arabia]].<ref>{{cite web | url=https://www.aljazeera.com/sports/2019/1/17/qatar-vs-saudi-arabia-football-blockade-and-piracy-at-asian-cup | title=Qatar vs Saudi Arabia: Football, blockade and piracy at Asian Cup | date=2019-01-17 | access-date=2023-01-17 | archive-date=17 January 2023 | archive-url=https://web.archive.org/web/20230117162641/https://www.aljazeera.com/sports/2019/1/17/qatar-vs-saudi-arabia-football-blockade-and-piracy-at-asian-cup | url-status=live }}</ref>
+
+==History==
+===Early years (1940s–1950s)===
+[[Association football|Football]] was brought to [[Qatar]] during a time which coincided with the initial discovery of oil reserves in [[Dukhan]] in 1940.<ref>{{cite web|url=https://www.bbc.com/news/world-middle-east-14702609|title=Chronological timeline|publisher=bbc.com|date=25 November 2014|access-date=26 December 2014|archive-date=13 December 2014|archive-url=https://web.archive.org/web/20141213075832/http://www.bbc.com/news/world-middle-east-14702609|url-status=live}}</ref> By 1948, teams were created by expatriate oil workers from countries such as [[India]], and various Arabian nations. Among the first documented teams in Qatar were a team formed for the Northern Arab Region, and a team formed near the Al-Khatia area of Dukhan.<ref>{{Cite web |title=حقبة الأربعينيات والخمسينيات - توثيق كرة القدم القطرية |url=https://www.qfl.qa/decades/1/ |access-date=2025-09-27 |website=www.qfl.qa }}{{Dead link|date=January 2026 |bot=InternetArchiveBot }}</ref> The first tournament in the country was the "Ezz Eddin Tournament", held by the Qatar Oil Company in 1951. In the late 1950s, the name was changed to the "Pukett Cup".<ref>{{Cite web |title=Deliver Amazing |url=http://sc.qa/en/qatar/football |archive-url=https://web.archive.org/web/20150206084225/http://sc.qa/en/qatar/football |archive-date=2015-02-06 |access-date=2025-09-27 |website=Supreme Committee for Delivery & Legacy |language=en}}</ref>
+
+With the growing interest in football, The [[Qatar Football Association]] (QFA) was established in 1960, and the QFA joined [[FIFA]] in 1963.<ref>{{cite web | url=https://www.hitc.com/en-gb/2022/09/23/has-qatar-been-in-the-world-cup-before-2022-hosts-tournament-record/ | title=Has Qatar been in the World Cup before? 2022 host's tournament record | date=23 September 2022 | access-date=6 November 2022 | archive-date=3 November 2022 | archive-url=https://web.archive.org/web/20221103084546/https://www.hitc.com/en-gb/2022/09/23/has-qatar-been-in-the-world-cup-before-2022-hosts-tournament-record/ | url-status=live }}</ref> Simultaneously during this period, the [[Bahrain Football Association]] were drawing up plans for the establishment of a regional football competition within the [[Cooperation Council for the Arab States of the Gulf|GCC]] and Qatari officials were involved with the collaboration of this proposal.<ref>{{cite web|url=http://www.gulfcup.com/gulfcup/indexa.php?page=history_a.php|title=Gulf Cup: History|publisher=gulfcup.com|access-date=26 December 2014|archive-url=https://web.archive.org/web/20171229232129/http://www.gulfcup.com/gulfcup/indexa.php?page=history_a.php|archive-date=29 December 2017|url-status=dead}}</ref> The plans came to fruition and in March of 1970, when the [[Arabian Gulf Cup]] was inaugurated.<ref>{{cite web | url=https://www.gulf-times.com/story/648484/When-Qatar-left-a-mark-at-Arabian-Gulf-Cup | title=When Qatar left a mark at Arabian Gulf Cup | work=Gulf Times | date=24 November 2019 | access-date=6 November 2022 | archive-date=23 March 2022 | archive-url=https://web.archive.org/web/20220323073212/https://www.gulf-times.com/story/648484/When-Qatar-left-a-mark-at-Arabian-Gulf-Cup | url-status=live }}</ref>
+
+===Rise of Qatari football: 1970s–1980s===
+The Qatar national team played its first official match on 27 March 1970 against hosts [[Bahrain national football team|Bahrain]] in the [[1st Arabian Gulf Cup|1970 Gulf Cup]], losing 1–2 with Mubarak Faraj scoring the sole goal for Qatar.<ref>{{cite web|url=http://www.gulfcup.com/soccer/matches/matcha.php?match_id=36&period=1|title=Match report (Bahrain v Qatar), 1970|publisher=gulfcup.com|access-date=26 December 2014|archive-url=https://web.archive.org/web/20171229232001/http://www.gulfcup.com/soccer/matches/matcha.php?match_id=36&period=1|archive-date=29 December 2017|url-status=dead}}</ref> The newly formed Qatar side gave underwhelming performances in the tournament, coming in last place with a single point, with the highlight of their tournament being a 1–1 draw with rivals [[Saudi Arabia national football team|Saudi Arabia]] in their final match, and player [[Khaled Ballan]] winning the Best Player of the Tournament.<ref>{{cite web|url=http://www.gulfcup.com/soccer/matches/tournamenta.php?period=1|title=Final table (1970 Gulf Cup)|publisher=gulfcup.com|access-date=26 December 2014|archive-url=https://web.archive.org/web/20171229231907/http://www.gulfcup.com/soccer/matches/tournamenta.php?period=1|archive-date=29 December 2017|url-status=dead}}</ref>
+
+In 1972, the next edition of the [[2nd Arabian Gulf Cup|1972 Gulf Cup]], Qatar again finished last place after suffering 3 straight defeats.<ref>{{cite web|url=http://www.gulfcup.com/soccer/matches/tournamenta.php?period=2|title=Final table (1972 Gulf Cup)|publisher=gulfcup.com|access-date=26 December 2014|archive-url=https://web.archive.org/web/20171229231944/http://www.gulfcup.com/soccer/matches/tournamenta.php?period=2|archive-date=29 December 2017|url-status=dead}}</ref> The next tournament in [[3rd Arabian Gulf Cup|1974]] proved to be somewhat of a breakthrough for the Qataris as they achieved their first triumph in international football with a 4–0 victory over [[Oman national football team|Oman]]. The team lost to [[Saudi Arabia national football team|Saudi Arabia]] in the semi-finals, where they achieved a 3rd place finish in the tournament, after emerging victorious in a [[Penalty shoot-out (association football)|penalty shoot-out]] against the [[United Arab Emirates national football team|United Arab Emirates]], Qatari player [[Mohammed Ghanim (footballer)|Mohammed Ghanim]] won the Best Player of the Tournament award.<ref>{{cite web|url=http://www.gulfcup.com/soccer/matches/matcha.php?match_id=269&period=3|title=Match report (Qatar v UAE), 1974|publisher=gulfcup.com|access-date=26 December 2014|archive-url=https://web.archive.org/web/20171229232020/http://www.gulfcup.com/soccer/matches/matcha.php?match_id=269&period=3|archive-date=29 December 2017|url-status=dead}}</ref>
+
+Qatar entered the [[1976 AFC Asian Cup qualification]] for the [[AFC Asian Cup]] which was held in the next year. They were not successful in qualifying, with [[Iraq national football team|Iraq]] and [[Saudi Arabia national football team|Saudi Arabia]] qualifying. Despite this setback, Qatar went on to finish 3rd place in the [[4th Arabian Gulf Cup|1976 Gulf Cup]] as the host nation the next year, solidifying themselves as one of the best teams in the [[Arab world|Arab region]], with emerging players such as [[Mansour Muftah]], [[Khaled Ballan]], [[Mohammed Ghanim (footballer)|Mohammed Ghanim]].<ref>{{cite web|url=http://www.gulfcup.com/soccer/matches/tournamenta.php?period=4|title=Final table (1976 Gulf Cup)|publisher=gulfcup.com|access-date=26 December 2014|archive-url=https://web.archive.org/web/20171229232113/http://www.gulfcup.com/soccer/matches/tournamenta.php?period=4|archive-date=29 December 2017|url-status=dead}}</ref>
+
+The national team participated in the [[1978 FIFA World Cup qualification|FIFA World Cup qualifiers]] match for the [[1978 FIFA World Cup]]. Qatar was set to play the [[United Arab Emirates national football team|United Arab Emirates]] on 11 March 1977, but a last-minute with-drawal of the [[Emiratis]] team from the competition merely postponed Qatar's debut until two days later when [[Bahrain national football team|Bahrain]] were defeated 2–0 in [[Doha]].<ref>{{cite web|url=https://www.fifa.com/mm/document/tournament/competition/01/46/63/42/prelkit2014-2maoverviewlatest.pdf|archive-url=https://web.archive.org/web/20141227040140/http://www.fifa.com/mm/document/tournament/competition/01/46/63/42/prelkit2014-2maoverviewlatest.pdf|url-status=dead|archive-date=27 December 2014|title=Team preliminary competition facts: AFC|publisher=FIFA|access-date=26 December 2014}}</ref>
+
+===1980s–1990s===
+Qatar debuted for their first AFC Asian Cup in the [[1980 AFC Asian Cup]] under Brazilian head coach [[Evaristo de Macedo|Evaristo]]. They had qualified for the tournament after topping a relatively easy group composing of [[Bangladesh national football team|Bangladesh]] and [[Afghanistan national football team|Afghanistan]]. In the main tournament, Qatar was unsuccessful in advancing to the knockout stage, making an early exit from the competition with two defeats, one draw and one win.<ref>{{cite web|url=https://www.rsssf.org/tables/80asch.html|title=1980 Asian Nations Cup|website=[[RSSSF]]|access-date=26 December 2014|archive-date=2 September 2023|archive-url=https://web.archive.org/web/20230902221846/https://www.rsssf.org/tables/80asch.html|url-status=live}}</ref>
+
+In 1984, Qatar narrowly lost to [[Iraq national football team|Iraq]] in the finals of the [[7th Arabian Gulf Cup|1984 Gulf Cup]], nonetheless they were named runners-up, one of their most impressive achievements until their [[11th Arabian Gulf Cup|1992 Gulf Cup]].<ref>{{cite web|url=http://www.gulfcup.com/soccer/matches/tournamenta.php?period=7|title=Final table (1984 Gulf Cup)|publisher=gulfcup.com|access-date=26 December 2014|archive-url=https://web.archive.org/web/20171229231639/http://www.gulfcup.com/soccer/matches/tournamenta.php?period=7|archive-date=29 December 2017|url-status=dead}}</ref>
+
+They failed to make it out of the preliminary stages of the [[1982 FIFA World Cup|1982]] and [[1986 FIFA World Cup]] qualifying rounds. However, the team qualified for both the [[1984 AFC Asian Cup|1984]] and [[1988 AFC Asian Cup|1988]] editions of the Asian Cup. They fell short of qualifying for the semi-finals of the [[1984 AFC Asian Cup|1984]] tournament, with [[Saudi Arabia national football team|Saudi Arabia]]'s [[Mohaisen Al-Jam'an]]'s 88th-minute goal against [[Kuwait national football team|Kuwait]], ensuring a semi-final position for both teams. They also missed out on a semi-final place in [[1988 AFC Asian Cup|1988]], however, they notably defeated [[Japan national football team|Japan]] by a score of 3–0.<ref>{{cite web|url=https://www.rsssf.org/tables/88asch.html |title=1988 Asian Nations Cup |access-date=26 December 2014 |url-status=live |website=[[RSSSF]] |archive-url=https://web.archive.org/web/20120912132621/http://www.rsssf.com/tables/88asch.html |archive-date=12 September 2012 }}</ref>
+
+===Golden era: 1990s–2000s===
+Qatar arguably reached its peak in the 1990s, attaining a [[FIFA]] rating of (53) in August 1993.<ref>{{cite web|url=https://www.fifa.com/associations/association=qat/ranking/gender=m/|archive-url=https://web.archive.org/web/20131227033159/http://www.fifa.com/associations/association=qat/ranking/gender=m/|url-status=dead|archive-date=27 December 2013|title=Qatar: FIFA/Coca-Cola World Ranking|publisher=FIFA|access-date=26 December 2014}}</ref> Qatar started off with an emphatic qualifying campaign for the [[1990 FIFA World Cup]], finishing at the top of their group. However they couldn't advance in the tournament, due to finishing below the [[United Arab Emirates national football team|United Arab Emirates]] and [[South Korea national football team|South Korea]] in the final round of the qualifiers.
+
+In the [[10th Arabian Gulf Cup|1990 Gulf Cup]], the national team once again finished runners-up as [[Kuwait national football team|Kuwait]] won the final two matches of the tournament.<ref>{{cite web|url=http://www.gulfcup.com/soccer/matches/tournamenta.php?period=10|title=Final table (1990 Gulf Cup)|publisher=gulfcup.com|access-date=26 December 2014|archive-url=https://web.archive.org/web/20171229231925/http://www.gulfcup.com/soccer/matches/tournamenta.php?period=10|archive-date=29 December 2017|url-status=dead}}</ref> 
+
+In 1992, they won the [[11th Arabian Gulf Cup|1992 Gulf Cup]] on home soil for the first time under the leadership of Sebastião Lapola, despite a 1–0 loss against [[Saudi Arabia national football team|Saudi Arabia]] in their final game.<ref>{{cite web|url=http://www.gulfcup.com/soccer/matches/tournamenta.php?period=11|title=Final table (1992 Gulf Cup)|publisher=gulfcup.com|access-date=26 December 2014|archive-url=https://web.archive.org/web/20180617192704/http://www.gulfcup.com/soccer/matches/tournamenta.php?period=11|archive-date=17 June 2018|url-status=dead}}</ref> [[Mubarak Mustafa]], won both the top scorer and man of the tournament awards.<ref>{{cite web|url=https://www.raya.com/2023/01/07/%d8%a7%d9%84%d8%b1%d8%a7%d9%8a%d8%a9-%d9%84%d9%88%d9%91%d9%84-%d8%b5%d9%81%d8%ad%d8%a9-%d8%a3%d8%b3%d8%a8%d9%88%d8%b9%d9%8a%d9%91%d8%a9-%d8%aa%d8%b5%d8%af%d8%b1-%d9%83%d9%84-%d8%b3%d8%a8%d8%aa-56/|title=الراية لوّل ….صفحة أسبوعيّة تصدر كل سبت وتستعرض أبرز ما نشرته الراية منذ انطلاق العدد الأوّل منها في 10 مايو 1979|work=جريدة الراية |publisher=Al Raya|language=Arabic|date=7 January 2023|accessdate=10 June 2024}}</ref> They were also named runners-up in the [[13th Arabian Gulf Cup|1996 Gulf Cup]].
+
+Qatar reached the Asian Zone's final qualifying round for the [[1998 FIFA World Cup]]. After wins against China and Iran, they played their last match against [[Saudi Arabia national football team|Saudi Arabia]], where a victory would have earned qualification. However, they lost out as Saudi Arabia won 1–0 to reach the finals.
+
+As [[1998 Arab Cup]] hosts, they finished runners-up to Saudi Arabia.<ref>{{cite web|url=https://www.rsssf.org/tablesa/arabcup.html|title=1998 Arab Cup|website=[[RSSSF]]|access-date=26 December 2014|archive-date=2 September 2023|archive-url=https://web.archive.org/web/20230902222045/https://www.rsssf.org/tablesa/arabcup.html|url-status=live}}</ref>
+
+===2000–2010===
+They made it to the quarter-finals of the [[2000 AFC Asian Cup]] despite finishing 3rd in their group, but lost to [[China national football team|China]] in their quarter-final confrontation.<ref>{{cite web|url=https://www.rsssf.org/tables/00asch.html|title=2000 Asian Cup|website=[[RSSSF]]|access-date=26 December 2014|archive-date=1 April 2015|archive-url=https://web.archive.org/web/20150401085957/http://www.rsssf.com/tables/00asch.html|url-status=live}}</ref>
+
+They reached the final qualifying round again in 2001 but were defeated by [[Bora Milutinovic]]'s China team, who topped the section to progress to their first FIFA World Cup. Frenchman [[Philippe Troussier]] took the manager's job after the [[2002 FIFA World Cup]] in [[Korea]] and [[Japan]], but was unsuccessful in both the [[2004 AFC Asian Cup]] and the [[2006 FIFA World Cup qualification (AFC)|qualifying campaign]] for the [[2006 FIFA World Cup]] in [[Germany]].
+
+Troussier was sacked after the World Cup qualifying campaign, and under Bosnian [[Džemaludin Mušović]], the team won the [[Arabian Gulf Cup|Gulf Cup]] in [[17th Arabian Gulf Cup|2004]] and the [[Qatar national under-23 football team|under 23 teams']] [[Football at the 2006 Asian Games|Asian Games]] gold in 2006. Mušović stepped down after Qatar only earned two points from three matches in the [[2007 AFC Asian Cup]].
+
+The job of coaching the team in qualifying for the [[2010 FIFA World Cup]] fell to Uruguayan head coach [[Jorge Fossati]], who led the team throughout the first and second AFC rounds up to the third round. After leaving them at the top of their group with only two played matches, Fossati had to undergo stomach surgery. Subsequently, the Qatar Football Association ended their cooperation with him in September 2008, as the QFA claimed he needed too long to recover from surgery.<ref>{{cite web|url=https://int.soccerway.com/news/2008/September/24/qatar-fa-sack-jorge-fossati/n134091/|title=Qatar FA sack Jorge Fossati|publisher=soccerway.com|date=24 September 2008|access-date=26 December 2014|archive-date=7 November 2022|archive-url=https://web.archive.org/web/20221107103147/https://int.soccerway.com/news/2008/September/24/qatar-fa-sack-jorge-fossati/n134091/|url-status=live}}</ref> [[Bruno Metsu]] was called up for the job, but Qatar failed to qualify after finishing fourth in their qualifying group.
+
+===2010–2020===
+[[File:Qatar national football team.jpg|thumb|left|Qatar national team in 2011 during the [[2014 FIFA World Cup]] qualifying rounds.]]
+Qatar was announced as hosts of the [[2022 FIFA World Cup]] in December 2010.
+
+In 2011, as hosts of the [[2011 AFC Asian Cup]], they advanced to the quarter-finals. They succumbed to a late 2–3 defeat to eventual champions [[Japan national football team|Japan]] after a goal was scored by [[Masahiko Inoha]] in the 89th minute.
+
+Also, as hosts, they went on to win the [[2013 WAFF Championship]] after defeating [[Jordan national football team|Jordan]] 2–0 in the final. The competition was made up primarily of youth and reserve teams, of which Qatar's was the latter.<ref>{{cite web|url=https://www.fifa.com/world-match-centre/news/newsid/248/709/9/|archive-url=https://web.archive.org/web/20141227041002/http://www.fifa.com/world-match-centre/news/newsid/248/709/9/|url-status=dead|archive-date=27 December 2014|title=Belmadi: Qatar have big ambitions|publisher=FIFA|date=2 December 2014|access-date=26 December 2014}}</ref> [[Djamel Belmadi]], the head coach of the B team, replaced [[Fahad Thani]] as the head coach of the senior team as a result of the team's positive performances. 10 months later, Djamel Belmadi led Qatar to gold in the [[22nd Arabian Gulf Cup|2014 Gulf Cup]]. They advanced from the group stages after three draws, going on to defeat [[Oman national football team|Oman]] 3–1 in the semi-final, and were victorious in the final against [[Saudi Arabia national football team|Saudi Arabia]], who was playing in front of a home crowd, by a margin of 2–1.<ref>{{cite web|url=http://www.gulf-daily-news.com/NewsDetails.aspx?storyid=390874|title=Qatar lift Gulf Cup|date=26 November 2014|work=Gulf Daily News|access-date=27 November 2014|archive-date=6 December 2014|archive-url=https://web.archive.org/web/20141206122830/http://www.gulf-daily-news.com/NewsDetails.aspx?storyid=390874|url-status=dead}}</ref>
+
+Despite winning the Gulf Cup and finishing the year 2014 with only one defeat, Qatar showed poor form in the [[2015 AFC Asian Cup]]. Qatar was defeated 1–4 by the [[United Arab Emirates national football team|United Arab Emirates]] in their opener. This was continued with a 0–1 loss to [[Iran national football team|Iran]] and 1–2 to [[Bahrain national football team|Bahrain]]. Qatar was eliminated in the group stages with no points and placed 4th in Group C.
+
+Qatar's campaign in [[2018 FIFA World Cup qualification (AFC)|qualifying]] for the [[2018 FIFA World Cup]] in [[Russia]] was a surprise. Their start in the [[2018 FIFA World Cup qualification – AFC second round|second round of FIFA World Cup qualifying]] in the [[Asian Football Confederation|AFC]] was nearly perfect, with seven wins and only one loss. However, their success in the second round didn't follow them to the [[2018 FIFA World Cup qualification – AFC third round|third round]]. Qatar finished bottom of their group, ensuring they would play their first World Cup match on home soil in 2022, the first team to do so since [[Italy national football team|Italy]] in [[1934 FIFA World Cup|1934]].
+
+Qatar continued its poor form in the [[23rd Arabian Gulf Cup|2017 Gulf Cup]], which was hosted by [[Kuwait]]. Qatar opened the tournament with a 4–0 win against [[Yemen national football team|Yemen]], but that was followed by a 1–2 loss to [[Iraq national football team|Iraq]] and an unconvincing 1–1 draw to Bahrain. Qatar took third place in Group B with four points and was eliminated in the group stage of the competition, which was considered an upsetting of the tournament, especially after winning the 2014 edition.
+
+[[File:Qatar - Japan, AFC Asian Cup 2019 56.jpg|thumb|left|Qatar's players celebrating the country's first-ever Asian Cup title in [[2019 AFC Asian Cup|2019]].]]{{football squad on pitch|align=right
+| GK  = '''[[Saad Al-Sheeb|Al-Sheeb]]'''
+| RWB  = '''[[Ró-Ró]]'''
+| RCB = '''[[Bassam Al-Rawi|Al-Rawi]]'''
+| CB = '''[[Boualem Khoukhi|Khoukhi]]'''
+| LCB  = '''[[Tarek Salman|Salman]]'''
+| LWB = '''[[Abdelkarim Hassan|Hassan]]'''
+| RCM = '''[[Hassan Al-Haydos|Al-Haydos]]'''
+| CM  = '''[[Abdulaziz Hatem|Hatem]]'''
+| LCM  = '''[[Assim Madibo|Madibo]]'''
+| RCF  = '''[[Akram Afif|Afif]]'''
+| LCF  = '''[[Almoez Ali|Almoez]]'''
+| caption = Qatar starting line-up against [[Japan national football team|Japan]] at the [[2019 AFC Asian Cup Final]], a match they won 3–1.
+}}
+However, Qatar had an excellent campaign at the [[2019 AFC Asian Cup]]. Their opener saw them defeat [[Lebanon national football team|Lebanon]] 2–0. This was followed by a 6–0 thrashing of [[North Korea national football team|North Korea]] and a 2–0 win against three-time champions Saudi Arabia, which sealed the team getting first place in the [[2019 AFC Asian Cup Group E|group]]. They had a 1–0 win against Iraq in the [[2019 AFC Asian Cup knockout stage#Qatar vs Iraq|Round of 16]] and a late win against defending runners-up [[South Korea national football team|South Korea]] in the [[2019 AFC Asian Cup knockout stage#South Korea vs Qatar|quarter-finals]], seeing them through to the [[2019 AFC Asian Cup knockout stage#Qatar vs United Arab Emirates|semi-finals]] for the first time ever, where they defeated the hosts United Arab Emirates 4–0 to set up a final against 4-time winners Japan. Qatar ended up winning the [[2019 AFC Asian Cup Final|final]] 3–1 over Japan, marking their first-ever major tournament title in their history, and capping off one of the most improbable Asian Cup runs in the tournament's history, especially since they conceded only one goal in all their games.<ref>{{cite web|url=https://www.theguardian.com/football/2019/feb/01/qatar-stun-japan-with-3-1-win-to-be-crowned-asian-cup-champions|title=Qatar stun Japan with 3–1 win to be crowned Asian Cup champions|date=1 February 2019|website=theguardian.com|publisher=Guardian News & Media Limited|access-date=5 February 2019|archive-date=7 May 2019|archive-url=https://web.archive.org/web/20190507081628/https://www.theguardian.com/football/2019/feb/01/qatar-stun-japan-with-3-1-win-to-be-crowned-asian-cup-champions|url-status=live}}</ref>	 
+{{clear|left}}
+
+Qatar was invited to the [[2019 Copa América]]. They were placed in [[2019 Copa América Group B|Group B]] with [[Colombia national football team|Colombia]], [[Argentina national football team|Argentina]] and [[Paraguay national football team|Paraguay]]. Their first game was against Paraguay where they came back from a 2–0 deficit to tie it 2–2, but this marked the first time Qatar suffered more than one goal in any major competition since winning the Asian Cup in the UAE.<ref>{{cite web |url=https://www.euronews.com/2019/06/16/qatar-shake-up-copa-with-thrilling-comeback-against-paraguay |title=Qatar shake up Copa with thrilling comeback against Paraguay |website=euronews.com |publisher=Euronews |date=16 June 2019 |access-date=17 June 2019 |archive-date=24 October 2020 |archive-url=https://web.archive.org/web/20201024234520/https://www.euronews.com/2019/06/16/qatar-shake-up-copa-with-thrilling-comeback-against-paraguay |url-status=live }}</ref> It was followed by a 0–1 loss to Colombia, ending the team's undefeated streak in any major competition to eight.<ref>{{cite web|url=https://www.espn.com/soccer/report?gameId=535891|title=Colombia in Copa quarters with win over Qatar|website=espn.com|publisher=ESPN|date=19 June 2019|access-date=9 July 2019|archive-date=20 June 2019|archive-url=https://web.archive.org/web/20190620202631/https://www.espn.com/soccer/report?gameId=535891|url-status=live}}</ref> A 0–2 loss to Argentina meant Qatar took the last place in Group B with a single point and was eliminated in the group stage of the competition.<ref>{{cite web|url=https://www.theguardian.com/football/2019/jun/23/qatar-argentina--copa-america-match-report|title=Sergio Agüero guides Argentina past Qatar to reach Copa América last eight|website=theguardian.com|publisher=Guardian News & Media Limited|date=23 June 2019|access-date=9 July 2019|archive-date=26 November 2020|archive-url=https://web.archive.org/web/20201126140807/https://www.theguardian.com/football/2019/jun/23/qatar-argentina--copa-america-match-report|url-status=live}}</ref>
+
+=== Preparation for the FIFA World Cup as host: 2020–present ===
+Despite Qatar having automatic qualification for the 2022 World Cup as hosts, they had to play the AFC qualifiers in the second round as part of it also acting as qualification for the [[2023 AFC Asian Cup]] and won 7 of 8 games, conceding only one goal. Qatar was invited for the first time to the [[2021 CONCACAF Gold Cup]]. They played in [[2021 CONCACAF Gold Cup|Group D]] with [[Honduras national football team|Honduras]], [[Panama national football team|Panama]] and [[Grenada national football team|Grenada]].<ref>{{cite web | url=https://www.the-afc.com/en/more/news/qatar_in_group_d_of_2021_concacaf_gold_cup.html | title=Qatar in Group D of 2021 Concacaf Gold Cup | date=2020-09-29 | access-date=2022-12-29 | archive-date=29 December 2022 | archive-url=https://web.archive.org/web/20221229080201/https://www.the-afc.com/en/more/news/qatar_in_group_d_of_2021_concacaf_gold_cup.html | url-status=live }}</ref> In December 2020, [[UEFA]] invited Qatar to play [[Exhibition game|friendlies]] against the teams in [[2022 FIFA World Cup qualification – UEFA Group A|Group A of the 2022 World Cup qualifying group]] – [[Azerbaijan national football team|Azerbaijan]], [[Luxembourg national football team|Luxembourg]], [[Portugal national football team|Portugal]], the [[Republic of Ireland national football team|Republic of Ireland]] and [[Serbia national football team|Serbia]] – as five teams in one group means one team will not be playing on any given match day. These friendlies did not count in the qualifying group standings. Qatar played their "home" matches in Europe in order to allow short travel times for their opponents.<ref>{{cite web |url=https://www.uefa.com/european-qualifiers/news/0264-11103d6ec600-5258c3966355-1000/ |title=Group A matches with Qatar |work=UEFA |date=11 December 2020 |access-date=12 December 2020 |archive-date=31 December 2020 |archive-url=https://web.archive.org/web/20201231182744/https://www.uefa.com/european-qualifiers/news/0264-11103d6ec600-5258c3966355-1000/ |url-status=live }}</ref><ref>{{cite web |url=https://editorial.uefa.com/resources/0264-110ad9b5b487-e3521001b47e-1000/group_a_-_fixtures_list_with_qatar.pdf |title=World Cup Qualifying Calendar – Group A with Qatar |work=UEFA |date=8 December 2020 |access-date=8 December 2020 |archive-date=18 January 2021 |archive-url=https://web.archive.org/web/20210118003759/https://editorial.uefa.com/resources/0264-110ad9b5b487-e3521001b47e-1000/group_a_-_fixtures_list_with_qatar.pdf |url-status=live }}</ref>
+[[File:QAT-ECU 2022-11-20.svg|thumb|Qatar opening match starting line-up against Ecuador at the [[2022 FIFA World Cup]]. ]]
+In the [[2021 CONCACAF Gold Cup]], Qatar claimed 7 points in [[2021 CONCACAF Gold Cup|Group D]]. Their debut was against [[Panama national football team|Panama]] with a 3–3 draw, ensuring them their first point. This was followed by a 4–0 victory over [[Grenada national football team|Grenada]] and a 2–0 win over [[Honduras national football team|Honduras]] ensuring a quarter-final place where they would face [[El Salvador national football team|El Salvador]], ultimately securing a semi-final place against the [[United States men's national soccer team|United States]] with a 3–2 win. However, against the hosts with its squad made up of the majority of [[Major League Soccer|MLS]] players, Qatar failed to find the way to the net, in spite of having a penalty in the 60th minute, ultimately conceding a late goal from [[Gyasi Zardes]] to end Qatar's campaign with a 1–0 loss. In the [[2021 FIFA Arab Cup]], Qatar won all of its group-stage matches and faced [[United Arab Emirates national football team|UAE]], winning 5–0. They lost 2–1 in the semi-final against [[Algeria national football team|Algeria]],<ref>{{cite web | url=https://www.fifa.com/en/tournaments/mens/arabcup/arabcup2021/match-center/400175832 | title=FIFA Arab Cup • 15 Dec 2021 • 11:00 • Al Thumama Stadium | date=2021-12-15 | access-date=2022-12-28 | archive-date=29 December 2022 | archive-url=https://web.archive.org/web/20221229075922/https://www.fifa.com/en/tournaments/mens/arabcup/arabcup2021/match-center/400175832 | url-status=live }}</ref> eventually placing 3rd.<ref>{{cite web | url=https://www.aljazeera.com/news/2021/12/18/qatar-beats-egypt-to-join-fifa-2021-arab-cup-podium | title=Qatar beats Egypt to clinch third place at FIFA Arab Cup 2021 | date=2021-12-18 | access-date=2022-12-28 | archive-date=27 May 2023 | archive-url=https://web.archive.org/web/20230527030941/https://www.aljazeera.com/news/2021/12/18/qatar-beats-egypt-to-join-fifa-2021-arab-cup-podium | url-status=live }}</ref>
+
+Despite the very successful performance of Qatar in various major tournaments, the [[2022 FIFA World Cup]] held at home proved to be a nightmare for the Qataris. Being automatically drawn into the [[2022 FIFA World Cup Group A|Group A]] as hosts, Qatar started with a 0–2 loss to [[Ecuador national football team|Ecuador]] in the opening match, conceding two goals in the first half from [[Enner Valencia]], making Qatar the first host country to lose their opening game.<ref>{{Cite web |title=Qatar 0-2 Ecuador: Enner Valencia at the double as hosts lose World Cup opener for first time |url=https://www.skysports.com/football/news/12098/12751714/qatar-0-2-ecuador-enner-valencia-at-the-double-as-hosts-lose-world-cup-opener-for-first-time |access-date=2022-12-05 |website=Sky Sports |language=en |archive-date=5 December 2022 |archive-url=https://web.archive.org/web/20221205194915/https://www.skysports.com/football/news/12098/12751714/qatar-0-2-ecuador-enner-valencia-at-the-double-as-hosts-lose-world-cup-opener-for-first-time |url-status=live }}</ref> The situation did not improve for the Qataris in their second meeting with Senegal, when the Africans beat the Qataris 3–1 to condemn the hosts to an early World Cup exit, becoming the second host country after [[South Africa national soccer team|South Africa]], the [[2010 FIFA World Cup]] hosts, to have such an unwanted record (although they were eliminated only on inferior goal differences to [[Mexico national football team|Mexico]] after three matches); they became the first host team to be eliminated after two group games and guaranteed to be the worst-host ever, although Ghanaian-born [[Mohammed Muntari]] became Qatar's first World Cup scorer in this game.<ref>{{Cite web |date=2022-11-25 |title=Qatar 1-3 Senegal: World Cup hosts eliminated from tournament in record time despite scoring historic goal in Group A |url=https://www.eurosport.com/football/world-cup/2022/fifa-world-cup-2022-in-qatar-live-qatar-v-senegal-updates_sto9237968/story.shtml |access-date=2024-02-28 |website=Eurosport |language=en}}</ref><ref>{{Cite web |last=Archer |first=Kyle |date=2022-11-26 |title=Worst World Cup host nations as Qatar become first team eliminated in 2022 |url=https://www.hitc.com/en-gb/2022/11/26/worst-world-cup-host-nations-with-qatar-the-first-team-eliminated-in-2022/ |access-date=2024-02-28 |website=HITC |language=en-GB}}</ref><ref>{{Cite web |last=Brown |first=Luke |title=Qatar lose again — but has a host nation ever been knocked out in the World Cup group stage? |url=https://www.nytimes.com/athletic/3934896/2022/11/25/qatar-hosts-world-cup-group-qualifying/ |access-date=2024-02-28 |website=The Athletic |date=29 November 2022 |language=en}}</ref> With Qatar's elimination confirmed, the hosts then fell to the Netherlands 0–2, making an unwanted record as the first hosts to score the fewest goals (1), the first to lose all three group games (all previous hosts had won a match), and the lowest-ranked team in the tournament (ranked 32nd).<ref>{{Cite web |last=Furniss |first=Matt |date=2022-11-29 |title=Netherlands 2-0 Qatar: Dutch Delight |url=https://theanalyst.com/2022/11/netherlands-2-0-qatar-world-cup-stats/ |access-date=2024-02-28 |website=The Analyst |language=en}}</ref><ref>{{Cite web |date=2022-11-29 |title=Qatar performance is worst ever by a World Cup host nation |url=https://www.france24.com/en/live-news/20221129-qatar-performance-is-worst-ever-by-a-world-cup-host-nation |access-date=2024-02-28 |website=France 24 |language=en}}</ref>
+
+14 months later, they would redeem themselves at the [[2023 AFC Asian Cup]], also held at home. The Maroons defeated [[Lebanon national football team|Lebanon]] 3–0 to start off their campaign, and they entered the round of 16 as group winners following 2 other successes, all without conceding a goal. They had to overcome [[Palestine national football team|Palestine]] (2–1) and then [[Uzbekistan national football team|Uzbekistan]] in the next round (1–1 a.e.t., 3 p.s.o. to 2) to reach the last four, but without convincing. After defeating [[Iran]] narrowly in a 3–2 dramatic semifinal match, they would face off against [[Jordan]] in the final, where a penalty hat-trick by [[Akram Afif]] helped Qatar defeat [[Jordan national football team|Jordan]] 3–1 to clinch their second successive [[AFC Asian Cup]], becoming the first team since [[Japan national football team|Japan]] to successfully defend their title.<ref>{{Cite web |date=2024-02-10 |title=Afif stakes claim as one of Asian Cup's greatest as Qatar win back-to-back titles |url=https://www.espn.com/soccer/story/_/id/39498805/akram-afif-stakes-claim-asian-cup-greatest-qatar-win-back-back-titles |access-date=2024-02-28 |website=ESPN.com |language=en}}</ref><ref>{{Cite news |agency=Reuters |date=2024-02-10 |title=Akram Afif's hat-trick of penalties secures Asian Cup glory for Qatar |url=https://www.theguardian.com/football/2024/feb/10/qatar-jordan-asian-cup-final-match-report |access-date=2024-02-28 |work=The Guardian |language=en-GB |issn=0261-3077}}</ref><ref>{{Cite web |date=2024-02-10 |title=Qatar win back-to-back AFC Asian Cup championships behind three penalties from magic man Akram Afif |url=https://www.cbssports.com/soccer/news/qatar-win-back-to-back-afc-asian-cup-championships-behind-three-penalties-from-magic-man-akram-afif/ |access-date=2024-02-28 |website=CBSSports.com |language=en}}</ref>
+
+On 14 October 2025, Qatar secured qualification for the [[2026 FIFA World Cup]] after defeating the [[United Arab Emirates national football team|United Arab Emirates]] 2–1 at the [[Jassim bin Hamad Stadium]] in [[Doha]], [[Qatar]]. The result marked their first-ever qualification for a World Cup through the standard AFC qualification process, having previously participated in [[2022 FIFA World Cup|2022]] as hosts.<ref>{{Cite web |title=Qatar reach World Cup through qualification for first time, beating UAE |url=https://www.aljazeera.com/sports/2025/10/14/qatar-reach-world-cup-through-qualification-for-first-time-beating-uae |access-date=2025-10-15 |website=Al Jazeera |language=en}}</ref><ref>{{Cite web |title=Qatar 2 - 1 United Arab Emirates |url=https://www.fifa.com/en/match-centre/match/520/288263/288279/400020391 |access-date=2025-10-15 |website=www.fifa.com}}</ref>
+
+==Team image==
+===Kits and crest===
+{{Commons|Qatar national football team kits}} 
+[[File:2022 FIFA World Cup Qatar 0–2 Ecuador - (16).jpg|thumb|Qatar v [[Ecuador national football team|Ecuador]] at the [[2022 FIFA World Cup]].]]Qatar wears all-maroon as their home colours and all-white colours as an away kit. Their first manufacturer was [[Umbro]] from 1980 to 1984. All Qatar kits are currently manufactured by [[Adidas]].<ref>{{cite web | url=https://www.aljazeera.com/news/2021/12/18/qatar-beats-egypt-to-join-fifa-2021-arab-cup-podium | title=2022 World Cup Kit Makers Battle – 32 Team, 9 Brands | date=2022-11-12 | access-date=2023-01-20 | archive-date=27 May 2023 | archive-url=https://web.archive.org/web/20230527030941/https://www.aljazeera.com/news/2021/12/18/qatar-beats-egypt-to-join-fifa-2021-arab-cup-podium | url-status=live }}</ref>
+{| class="wikitable"
+|-
+! Kit suppliers
+! Period
+|-
+|{{flagicon|UK}} [[Umbro]]
+|1980–1984
+|-
+|{{flagicon|GER}} [[Adidas]]
+|1984–1992
+|-
+|{{flagicon|EGY}} Venecia
+|1993–1995
+|-
+|{{flagicon|THA}} [[Grand Sport Group|Grand Sport]] 
+|1996–2002
+|-
+|{{flagicon|GER}} [[Adidas]]
+|2002–2008
+|-
+|{{flagicon|SUI}} [[Burrda Sport|Burrda]] 
+|2009–2011
+|-
+|{{flagicon|USA}} [[Nike, Inc.|Nike]] 
+|2012–2024
+|-
+|{{flagicon|GER}} [[Adidas]]<ref>{{Cite web |last=Baniya |first=Sudesh |date=2024-09-02 |title=Qatar announces Adidas as new kit manufacturer |url=https://dohanews.co/qatar-announce-adidas-as-new-kit-manufacturer/ |access-date=2025-02-16 |website=Doha News |language=en-US}}</ref>
+|2024–present
+|}
+
+==Rivalries==
+{{Updated|30 July 2021|<ref>{{cite web |url=https://www.rsssf.org/miscellaneous/qat-recintlp.html |title=Qatar - Record International Players |access-date=2 February 2023 |archive-date=4 February 2023 |archive-url=https://web.archive.org/web/20230204161231/https://rsssf.org/miscellaneous/qat-recintlp.html |url-status=live }}</ref>}}
+
+=== Bahrain ===
+{| style="float: right; margin-left: 1em; margin-bottom: 0.5em; width: 200px; border: solid 1px"
+|-
+|
+{| class="wikitable" style="text-align: center;font-size:90%;"
+!colspan="7"|Statistics vs. {{fb|Bahrain}}
+|-
+!{{Abbr|Pld|Played}}
+!{{Abbr|W|Won}}
+!{{Abbr|D|Drawn}}
+!{{Abbr|L|Lost}}
+!{{Abbr|GF|Goals for}}
+!{{Abbr|GA|Goals against}}
+!{{Abbr|GD|Goal difference}}
+|-
+|39||8||19||11|| 32 || 36||−4
+|}
+|}
+Qatar has a major rivalry against [[Bahrain national football team|Bahrain]] due to historical tension between the two countries. With 39 matches played, the overall record favours Bahrain, who won 11 matches, lost 8, and tied 19. From 2004 until 2021, Qatar suffered a winless streak over Bahrain with six defeats and ten draws before finally registering a win in the [[2021 FIFA Arab Cup]].
+
+=== United Arab Emirates ===
+{{main|Qatar–United Arab Emirates football rivalry}}
+
+{| style="float: right; margin-left: 1em; margin-bottom: 0.5em; width: 200px; border: solid 1px"
+|-
+|
+{| class="wikitable" style="text-align: center;font-size:90%;"
+!colspan="7"|{{nowrap|Statistics vs. {{fb|United Arab Emirates}}}}
+|-
+!{{Abbr|Pld|Played}}
+!{{Abbr|W|Won}}
+!{{Abbr|D|Drawn}}
+!{{Abbr|L|Lost}}
+!{{Abbr|GF|Goals for}}
+!{{Abbr|GA|Goals against}}
+!{{Abbr|GD|Goal difference}}
+|-
+|34||14||9||11||47||40||+7
+|}
+|}
+The rivalry with United Arab Emirates is a competitive one in the [[Arabian Gulf Cup]] meeting on multiple occasions, due to the 2017–2021 [[Qatar diplomatic crisis]], increasing tensions had been witnessed, with the captain of UAE under-19 youth team refusing to shake hands with Qatar's youth captain in [[2018 AFC U-19 Championship]] held in Indonesia; in this tournament, the UAE beat Qatar 2–1 but still crashed out from the group stage while Qatar would recover to qualify for the [[2019 FIFA U-20 World Cup]].<ref>{{cite web|url=https://www.foxsportsasia.com/football/asian-football/afc-u19-championship/955915/political-tension-uae-vs-qatar-afc-u-19/|title=Political tension spills on the pitch between UAE and Qatar in AFC U19|date=18 October 2018|work=foxnews|access-date=30 July 2021|archive-date=9 April 2019|archive-url=https://web.archive.org/web/20190409020423/https://www.foxsportsasia.com/football/asian-football/afc-u19-championship/955915/political-tension-uae-vs-qatar-afc-u-19/|url-status=dead}}</ref> As of 2020, Qatar and UAE have played 31 official matches, most of which was held competitively in the [[Arabian Gulf Cup]], it started off with the United Arab Emirates beating Qatar 1–0. They only played 2 friendly games and the last friendly was held in 2011 which ended with an Emirati victory. In the 2019 AFC Asian Cup, hosted by the UAE, Qatar overran the UAE for the first time since 2001 with a result of 4–0, with heavy tensions occurring between the two teams and Emirati supporters cheering anti-Qatari chants.<ref>{{cite web|url=https://www.goal.com/en-ae/news/watch-uae-fans-throw-shoes-and-bottles-at-qatar-players/1hb2ugcnngjfe15kvayfrmccij|title=UAE fans throw shoes and bottles at "Qatari" players|date=27 January 2019|publisher=|access-date=30 July 2021|archive-date=30 July 2021|archive-url=https://web.archive.org/web/20210730143407/https://www.goal.com/en-ae/news/watch-uae-fans-throw-shoes-and-bottles-at-qatar-players/1hb2ugcnngjfe15kvayfrmccij|url-status=live}}</ref>
+
+=== Saudi Arabia ===
+{| style="float: right; margin-left: 1em; margin-bottom: 0.5em; width: 200px; border: solid 1px"
+|-
+|
+{| class="wikitable" style="text-align: center;font-size:90%;"
+!colspan="7"|{{nowrap|Statistics vs. {{fb|Saudi Arabia}}}}
+|-
+!{{Abbr|Pld|Played}}
+!{{Abbr|W|Won}}
+!{{Abbr|D|Drawn}}
+!{{Abbr|L|Lost}}
+!{{Abbr|GF|Goals for}}
+!{{Abbr|GA|Goals against}}
+!{{Abbr|GD|Goal difference}}
+|-
+|41||8||16||17||31||53||−22
+|}
+|}
+Qatar has a major rivalry against [[Saudi Arabia national football team|Saudi Arabia]] due to historical tension between the two countries and the 2017–2021 [[Qatar diplomatic crisis]]. Qatar has an overall negative record against Saudi Arabia; with 41 matches played, Qatar has won 8 matches, lost 17, and tied 16.
+
+==Results and fixtures==
+{{main|Qatar national football team results (2020–present)|Qatar national football team results}}
+
+The following is a list of match results in the last 12 months, as well as any future matches that have been scheduled.
+
+{{legend2|#CCFFCC|Win|border=1px solid #AAAAAA}}
+{{legend2|#FFFFCC|Draw|border=1px solid #AAAAAA}}
+{{legend2|#FFCCCC|Loss|border=1px solid #AAAAAA}}
+{{legend2|#FFFFFF|Fixture|border=1px solid #AAAAAA}}
+
+===2025===
+{{football box collapsible
+|format       = 1
+|round        = [[Exhibition game#International football|Unofficial friendly]]
+|date         = 24 August
+|time         = {{UTZ|18:30|3}}
+|team1        = {{fb-rt|QAT}}
+|score        = 0–1
+|team2        = {{fb|LBN}}
+|report       = https://www.the-lfa.com.lb/news/LebxQat_24825.php
+|goals1       =
+|goals2       =
+*[[Khoder Kaddour|Kaddour]] {{goal|6}}
+|location     = [[Al Rayyan (city)|Al Rayyan]], Qatar
+|stadium      = [[Khalifa International Stadium]]
+|attendance   = 0
+|referee      = 
+|result       = L
+|note         = The match was not considered an official international fixture, as it was played in two 35-minute halves (70 minutes in total).
+}}
+{{Football box collapsible
+|format      = 1
+|round        = [[Exhibition game#International football|Unofficial friendly]]
+|date        = 3 September
+|time        = {{UTZ|19:15|3}}
+|team1       = {{fb-rt|QAT}}
+|score       = 2–2
+|team2       = {{fb|BHR}}
+|report      = 
+|goals1      =
+*[[Mohammed Muntari|Muntari]] {{goal|17}}
+*[[Ahmed Alaaeldin|Alaaeldin]] {{goal|87}}
+|goals2      =
+*[[Kamil Al-Aswad|Al-Aswad]] {{goal|62|pen.}}
+*[[Ebrahim Al-Khattal|Al-Khattal]] {{goal|66}}
+|location    = [[Doha]], Qatar
+|stadium     = [[Al Thumama Stadium]]
+|attendance  = 
+|referee     = 
+|result      = D
+}}
+{{Football box collapsible
+|format      = 1
+|round       = [[Exhibition game#Association football|Friendly]]
+|date        = 7 September
+|time        = {{UTZ|18:15|3}}
+|team1       = {{fb-rt|QAT}}
+|score       = 1–4
+|team2       = {{fb|RUS}}
+|report      = https://www.qfa.qa/news/alaanaby-ykhsr-mn-nthyrh-alrosy-odya-astaadada-llmlhk-alasyoy
+|goals1      =
+*[[Akram Afif|Afif]] {{goal|62}}
+|goals2      =
+*[[Aleksandr Golovin (footballer)|Golovin]] {{goal|33}}
+*[[Matvey Kislyak|Kislyak]] {{goal|35}}
+*[[Ivan Sergeyev (footballer)|Sergeyev]] {{goal|45}}
+*[[Aleksei Miranchuk|Al. Miranchuk]] {{goal|69}}
+|location    = [[Al Rayyan (city)|Al Rayyan]], Qatar
+|stadium     = [[Jassim bin Hamad Stadium]]
+|attendance  = 8,953
+|referee     = Yousif Saeed Hasan ([[Iraq Football Association|Iraq]])
+|result      = L
+}}
+{{football box collapsible 
+|format      = 1
+|date        = 8 October
+|time        = {{UTZ|18:00|3}}
+|round       = [[2026 FIFA World Cup qualification – AFC fourth round|2026 World Cup qualification]]
+|team1       = {{fb-rt|OMA}}
+|score       = 0–0
+|report      = [https://www.fifa.com/en/match-centre/match/520/288263/288279/400020389 Report (FIFA)]<br/>[https://www.the-afc.com/en/matches/asian-qualifiers/2026/2582221 Report (AFC)]
+|team2       = {{fb|QAT}}
+|goals1      =
+|goals2      =
+|location    = [[Al Rayyan (city)|Al Rayyan]], Qatar
+|stadium     = [[Jassim bin Hamad Stadium]]
+|attendance  = 12,975
+|referee     = Yusuke Araki ([[Japan Football Association|Japan]])
+|result      = D
+}}
+{{football box collapsible 
+|format       = 1
+|date         = 14 October
+|time         = {{UTZ|20:00|3}}
+|round        = [[2026 FIFA World Cup qualification – AFC fourth round|2026 World Cup qualification]]
+|team1        = {{fb-rt|QAT}}
+|score        = 2–1
+|team2        = {{fb|UAE}}
+|report       = [https://www.fifa.com/en/match-centre/match/520/288263/288279/400020391 Report (FIFA)]<br/>[https://www.the-afc.com/en/matches/asian-qualifiers/2026/2582223 Report (AFC)]
+|goals1       =
+*[[Boualem Khoukhi|Khoukhi]] {{goal|49}}
+*[[Pedro Miguel (footballer)|Pedro]] {{goal|74}}
+|goals2       =
+*[[Sultan Adil|Adil]] {{goal|90+8}}
+|location     = [[Al Rayyan (city)|Al Rayyan]], Qatar
+|stadium      = [[Jassim bin Hamad Stadium]]
+|attendance   = 13,038
+|referee      = Ilgiz Tantashev ([[Uzbekistan Football Association|Uzbekistan]])
+|result       = W
+}}
+{{Football box collapsible
+|format      = 1
+|round       = [[Exhibition game#Association football|Unofficial Friendly]]
+|date        = 17 November
+|time        = {{UTZ|19:30|3}}
+|team1       = {{fb-rt|QAT}}
+|score       = 1–2
+|team2       = {{fb|ZIM}}
+|report      = https://www.fifa.com/en/match-centre/match/cesdwwnxbc5fmajgroc0hqzy2/8pw8cm9fuczk7lmxm1oxjdyc4/1rj1740ys47h5s938mfswsh78/4ae7ma69sde7l3dil7pti97v8
+|goals1      =
+*[[Mohamed Khaled Gouda|Gouda]] {{goal|9}}
+|goals2      =
+*[[Munashe Garananga|Garananga]] {{goal|24}}
+*[[Bill Antonio|Antonio]] {{goal|74}}
+|location    = [[Doha]], Qatar
+|stadium     = [[Abdullah bin Khalifa Stadium]]
+|attendance  = 
+|referee     = Mohamed Ebrahim Saad ([[Bahrain Football Association|Bahrain]])
+|result      = L
+}}
+{{football box collapsible 
+|format       = 1
+|date         = 1 December
+|time         = {{UTZ|18:45|3}}
+|round        = [[2025 FIFA Arab Cup]]
+|team1        = {{fb-rt|QAT}}
+|score        = 0–1
+|team2        = {{fb|PLE}}
+|report       = https://www.fifa.com/en/match-centre/match/10013/290556/290557/400020114
+|goals1       = 
+|goals2       = [[Sultan Al-Brake|Al-Brake]] {{goal|90+5|o.g.}}
+|location     = [[Al Khor (city)|Al Khor]], Qatar
+|stadium      = [[Al Bayt Stadium]]
+|attendance   = 61,475
+|referee      = [[Glenn Nyberg]] ([[Swedish Football Association|Sweden]])
+|result       = L
+}}
+{{football box collapsible 
+|format       = 1
+|date         = 4 December
+|time         = {{UTZ|20:00|3}}
+|round        = [[2025 FIFA Arab Cup]]
+|team1        = {{fb-rt|SYR}}
+|score        = 1–1
+|team2        = {{fb|QAT}}
+|report       = https://www.fifa.com/en/match-centre/match/10013/290556/290557/400020115
+|goals1       = [[Omar Khribin|Khribin]] {{goal|90}}
+|goals2       = [[Ahmed Alaaeldin|Alaaeldin]] {{goal|77}}
+|location     = [[Al Rayyan (city)|Al Rayyan]], Qatar
+|stadium      = [[Khalifa International Stadium]]
+|attendance   = 42,467
+|referee      = [[Mario Escobar (referee)|Mario Escobar]] ([[National Football Federation of Guatemala|Guatemala]])
+|result       = D
+}}
+{{football box collapsible 
+|format       = 1
+|date         = 7 December
+|time         = {{UTZ|20:00|3}}
+|round        = [[2025 FIFA Arab Cup]]
+|team1        = {{fb-rt|QAT}}
+|score        = 0–3
+|team2        = {{fb|TUN}}
+|report       = https://www.fifa.com/en/match-centre/match/10013/290556/290557/400020120
+|goals1       = 
+|goals2       = 
+* [[Mohamed Ali Ben Romdhane|Ben Romdhane]] {{goal|16}}
+* [[Yassine Meriah|Meriah]] {{goal|62}}
+* [[Mohamed Ben Ali|Ben Ali]] {{goal|90+4}}
+|location     = [[Al Khor (city)|Al Khor]], Qatar
+|stadium      = [[Al Bayt Stadium]]
+|attendance   = 48,151
+|referee      = [[Espen Eskås]] ([[Norwegian Football Federation|Norway]])
+|result       = L
+}}
+
+===2026===
+{{Football box collapsible
+|format     = 1
+|round      = [[Exhibition match|Friendly]]
+|date       = 26 March
+|time       = {{UTZ|17:00|3}}
+|team1      = {{fb-rt|QAT}}
+|score      = Cancelled
+|team2      = {{fb|SER}}
+|goals1     = 
+|goals2     = 
+|location   = [[Al Rayyan]], Qatar
+|stadium    = [[Jassim bin Hamad Stadium]]
+|attendance =
+|referee    = 
+|report     = https://www.fifa.com/en/match-centre/match/17/285023/289273/400021447
+|result     = P
+|note       = Cancelled due to the [[2026 Iran war]].
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[Exhibition match|Friendly]]
+|date       = 31 March
+|time       = {{UTZ|19:00|3}}
+|team1      = {{fb-rt|QAT}}
+|score      = Cancelled
+|team2      = {{fb|ARG}}
+|goals1     = 
+|goals2     = 
+|location   = [[Lusail]], Qatar
+|stadium    = [[Lusail Stadium]]
+|attendance =
+|referee    = 
+|report     = 
+|result     = P
+|note       = Cancelled due to the [[2026 Iran war]].
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[Exhibition match|Friendly]]
+|date       = 21 May
+|time       = {{UTZ|18:30|3}}
+|team1      = {{fb-rt|QAT}}
+|score      = Cancelled
+|team2      = {{fb|SUD}}
+|goals1     = 
+|goals2     = 
+|location   = [[Doha]], Qatar
+|stadium    = [[Abdullah bin Khalifa Stadium]]
+|attendance =
+|referee    = 
+|report     = https://www.medameek.com/?p=200298 
+|result     = P
+|note       = Cancelled as several players in the Sudan team contracted [[jaundice]] upon their arrival in Qatar.
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[Exhibition match|Friendly]]
+|date       = 28 May
+|time       = {{UTZ|19:45|1}}
+|team1      = {{fb-rt|IRL}}
+|score      = 1–0
+|team2      = {{fb|QAT}}
+|goals1     = 
+*[[Nathan Collins|Collins]] {{Goal|5}}
+|goals2     = 
+|location   = [[Dublin]], Ireland
+|stadium    = [[Aviva Stadium]]
+|attendance = 28,981
+|referee    = Jamie Robinson ([[Irish Football Association|Northern Ireland]])
+|report     = https://www.fifa.com/en/match-centre/match/cesdwwnxbc5fmajgroc0hqzy2/dezv8l0fzgcxtejl0dwmy1gyc/2m1wojm5bt709wu4kugtytxqs/6w89623vojcheocd7kn67eac?date=2026-05-28
+|result     = l
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[Exhibition game#Association football|Friendly]]
+|date       = 6 June
+|time       = {{UTZ|13:00|-7}}
+|team1      = {{fb-rt|SLV}}
+|score      = 0–0
+|team2      = {{fb|QAT}}
+|report     = https://www.elgrafico.com/selecciones/el-salvador-fue-atrevido-y-empato-con-catar-en-cierre-de-la-fecha-fifa-20260606-0008.html
+|goals1     =
+|goals2     =
+|location   = [[Los Angeles]], United States
+|stadium    = [[BMO Stadium]]
+|attendance =
+|referee    = [[Rubiel Vazquez]] ([[United States Soccer Federation|United States]])
+|result     = D
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[2026 FIFA World Cup Group B|2026 FIFA World Cup GS]]
+|date       = 13 June
+|time       = {{UTZ|12:00|-7}}
+|team1      = {{fb-rt|QAT}}
+|score      = 1–1
+|team2      = {{fb|SUI}}
+|goals1= 
+[[Miro Muheim|Muheim]] {{goal|90+4|o.g.}}
+|goals2= 
+*[[Breel Embolo|Embolo]] {{goal|17|pen.}}
+|location   = [[Santa Clara, California|Santa Clara]], United States
+|stadium    = [[Levi's Stadium]]
+|attendance = 67,966
+|referee    = [[Saíd Martínez]] ([[Football Federation of Honduras|Honduras]])
+|report     = https://www.fifa.com/en/match-centre/match/17/285023/289273/400021447
+|result     = D
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[2026 FIFA World Cup Group B|2026 FIFA World Cup GS]]
+|date       = 18 June
+|time       = {{UTZ|15:00|-7}}
+|team1      = {{fb-rt|CAN}}
+|score      = 6–0
+|team2      = {{fb|QAT}}
+|goals1     = 
+*[[Cyle Larin|Larin]] {{goal|16}}
+*[[Jonathan David|David]] {{goal|29||45+3||90+2}}
+*[[Nathan Saliba|Saliba]] {{goal|64}}
+*[[Mohamed Manai|Manai]] {{goal|75|o.g.}}
+|goals2     = 
+|location   = [[Vancouver]], Canada
+|stadium    = [[BC Place]]
+|attendance = 52,497
+|referee    = [[Cristián Garay]] ([[Football Federation of Chile|Chile]])
+|report     = https://www.fifa.com/en/match-centre/match/17/285023/289273/400021450
+|result     = L
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[2026 FIFA World Cup Group B|2026 FIFA World Cup GS]]
+|date       = 24 June
+|time       = {{UTZ|12:00|-7}}
+|team1      = {{fb-rt|BIH}}
+|score      = 3–1
+|team2      = {{fb|QAT}}
+|report     = https://www.fifa.com/en/match-centre/match/17/285023/289273/400021448
+|goals1=
+* [[Kerim Alajbegović|Alajbegović]] {{goal|29}}
+* [[Mahmud Abunada|Abunada]] {{goal|34|o.g.}}
+* [[Ermin Mahmić|Mahmić]] {{goal|80}}
+|goals2=
+* [[Hassan Al-Haydos|Al-Haydos]] {{goal|42}}
+|location   = [[Seattle]], United States
+|stadium    = [[Lumen Field]]
+|attendance = 66,925
+|referee    = [[Jesús Valenzuela]] ([[Venezuelan Football Federation|Venezuela]])
+|result     = L
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[27th Arabian Gulf Cup#Group B|2026 Gulf Cup GS]]
+|date       = 24 September
+|time       = {{UTZ|21:00|3}}
+|team1      = {{fb-rt|QAT}}
+|score      = 
+|team2      = {{fb|BHR}}
+|goals1     = 
+|goals2     = 
+|location   = [[Jeddah]], Saudi Arabia
+|stadium    = [[Prince Abdullah Al-Faisal Sports City Stadium]]
+|attendance =
+|referee    = 
+|report     = 
+|result     = 
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[27th Arabian Gulf Cup#Group B|2026 Gulf Cup GS]]
+|date       = 27 September
+|time       = {{UTZ|18:55|3}}
+|team1      = {{fb-rt|YEM}}
+|score      = 
+|team2      = {{fb|QAT}}
+|goals1     = 
+|goals2     = 
+|location   = [[Jeddah]], Saudi Arabia
+|stadium    = [[King Abdullah Sports City Stadium]]
+|attendance =
+|referee    = 
+|report     = 
+|result     = 
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[27th Arabian Gulf Cup#Group B|2026 Gulf Cup GS]]
+|date       = 30 September
+|time       = {{UTZ|20:30|3}}
+|team1      = {{fb-rt|UAE}}
+|score      = 
+|team2      = {{fb|QAT}}
+|goals1     = 
+|goals2     = 
+|location   = [[Jeddah]], Saudi Arabia
+|stadium    = [[King Abdullah Sports City Stadium]]
+|attendance =
+|referee    = 
+|report     = 
+|result     = 
+}}
+{{footballbox collapsible
+|format     = 1
+|date       = November
+|time       = {{UTZ|}}
+|round      = [[2026 WAFF Championship]]
+|team1      = {{fb-rt|QAT}}
+|score      = 
+|report     = 
+|team2      = 
+|goals1     = 
+|goals2     = 
+|stadium    = 
+|location   = Oman
+|attendance = 
+|referee    =  
+|result     = 
+}}
+{{footballbox collapsible
+|format     = 1
+|date       = November
+|time       = {{UTZ|}}
+|round      = [[2026 WAFF Championship]]
+|team1      = {{fb-rt|QAT}}
+|score      = 
+|report     = 
+|team2      = 
+|goals1     = 
+|goals2     = 
+|stadium    = 
+|location   = Oman
+|attendance = 
+|referee    =  
+|result     = 
+}}
+
+===2027===
+{{Football box collapsible
+|format     = 1
+|date       = 11 January
+|time       = {{UTZ|--:--|}}
+|round      = [[2027 AFC Asian Cup Group F|2027 Asian Cup GS]]
+|score      = 
+|report     = 
+|team1      = {{fb-rt|QAT}}
+|goals1     =
+|team2      = {{fb|THA}}
+|goals2     =
+|stadium    = [[Imam Mohammad Ibn Saud Islamic University|Imam Mohammed Ibn Saud University Stadium]] 
+|location   = [[Riyadh]], Saudi Arabia
+|attendance = 
+|referee    = 
+|result     = 
+}} 
+{{Football box collapsible
+|format     = 1
+|date       = 16 January
+|time       = {{UTZ|--:--|}}
+|round      = [[2027 AFC Asian Cup Group F|2027 Asian Cup GS]]
+|score      = 
+|report     = 
+|team1      = {{fb-rt|IDN}}
+|goals1     =
+|team2      = {{fb|QAT}}
+|goals2     =
+|stadium    = [[Aramco Stadium]] 
+|location   = [[Al Khobar]], Saudi Arabia
+|attendance = 
+|referee    = 
+|result     = 
+}}
+{{Football box collapsible
+|format     = 1
+|date       = 20 January
+|time       = {{UTZ|--:--|}}
+|round      = [[2027 AFC Asian Cup Group F|2027 Asian Cup GS]]
+|score      = 
+|report     = 
+|team1      = {{fb-rt|JPN}}
+|goals1     =
+|team2      = {{fb|QAT}}
+|goals2     =
+|stadium    = [[Imam Mohammad Ibn Saud Islamic University|Imam Mohammed Ibn Saud University Stadium]] 
+|location   = [[Riyadh]], Saudi Arabia
+|attendance = 
+|referee    = 
+|result     = 
+}}
+
+==Coaching staff==
+
+[[File:Julen Lopetegui 2017 (cropped).jpg|thumb|Julen Lopetegui, the current head coach of the Qatar national football team]]
+{| class="wikitable"
+|+
+|-
+!colspan="2" style="color:#FFFFFF;background:#8A1538"|Technical staff
+|-
+|Head coach
+|{{flagicon|ESP}} [[Julen Lopetegui]]
+|-
+|Assistant coach
+|{{flagicon|ESP}} Óscar Caro<br>{{flagicon|ESP}} [[Pablo Sanz (footballer, born 1973)|Pablo Sanz]]
+|-	
+|Official 
+|{{flagicon|QAT}} Saad Al-Alawi
+|-
+|Fitness coach
+|{{flagicon|ESP}} Borja De Alba<br> {{flagicon|FRA}} Sébastien Braillard<br> {{flagicon|POL}} Dominik Milewski
+|-
+|Technical coach
+|{{flagicon|ESP}} Juan Ochoa
+|-
+|Match analyst
+|{{flagicon|ESP}} Alejandro Caro
+|-
+|Physiotherapist
+|{{flagicon|QAT}} Maqbool Al-Khelaifi<br>{{flagicon|IRL}} [[Richie Partridge]]
+|-
+|Doctor
+|{{flagicon|NED}} Frank van Hellemondt<br>{{flagicon|ESP}} Alejandro Álvarez
+|-
+|Rehabilitation
+|{{flagicon|FRA}} Sébastien Braillard<br>
+|-
+|Masseur
+|{{flagicon|BRA}} Jorge Luiz da Silva Pereira<br>{{flagicon|BRA}} Jefferson Gomes
+|-
+!colspan="2" style="color:#FFFFFF;background:#A60014"|Administrative staff
+|-
+|Administrator
+|{{flagicon|QAT}} Mohamed Salem Al Etawi
+|-
+|Media coordinator
+|{{flagicon|QAT}} Ali Hassan Al-Salat
+|}
+
+===Coaching history===
+{{Updated|June 2026}}
+:Caretaker managers are listed in ''italics''.
+
+{{Div col|colwidth=22em}}
+*{{flagicon|EGY|1958}} [[Taha Toukhi]] (1969)
+*{{flagicon|SUD}} [[Mohammed Hassan Kheiri]] (1969–1972)
+*{{flagicon|EGY|1972}} [[Helmi Hussein Mahmoud]] (1974)
+*{{flagicon|ENG}} [[Frank Wignall]] (1975–1977)
+*{{flagicon|ENG}} [[John Carrdone]] (1977–1978)
+*{{flagicon|SUD}} [[Hassan Othman]] (1979)
+*{{flagicon|BRA|1968}} [[Evaristo (footballer)|Evaristo]] (1979–1984)
+*{{flagicon|BRA|1968}} ''[[Ronald de Carvalho (footballer)|Ronald de Carvalho]]'' (1984)
+*{{flagicon|BRA|1968}} [[Evaristo (footballer)|Evaristo]] (1984–1985)
+*{{flagicon|BRA|1968}} [[Dino Sani]] & {{flagicon|BRA}} [[Júlio Espinosa]] (1985–1986)
+*{{flagicon|BRA|1968}} [[Procópio Cardoso]] (1987–1988)
+*{{flagicon|SUN}} [[Anatoliy Prokopenko]] (1988)
+*{{flagicon|QAT}} [[Mohammed Daham]] (1988)
+*{{flagicon|BRA|1968}} [[Cabralzinho (footballer)|Cabralzinho]] (1989)
+*{{flagicon|BRA|1968}} [[Dino Sani]] (1989–1990)
+*{{flagicon|FRG}} [[Uli Maslo]] (1990)
+*{{flagicon|BRA|1968}} [[Dino Sani]] (1990)
+*{{flagicon|BRA|1968}} [[Evaristo (footballer)|Evaristo]] (1992)
+*{{flagicon|BRA}} [[Luís Fernandes (football manager)|Luís Fernandes]] (1992)
+*{{flagicon|BRA}} [[Ivo Wortmann]] (1992)
+*{{flagicon|BRA}} [[Sebastião Lapola]] (1992–1993)
+*{{flagicon|QAT}} [[Abdul Mallalah]] (1993)
+*{{flagicon|SCO}} [[Dave Mackay]] (1994–1995)
+*{{flagicon|DEN}} [[Jørgen E. Larsen]] (1995–1996)
+*{{flagicon|NED}} [[Jo Bonfrère]] (1996–1997)
+*{{flagicon|BIH|1992}} [[Džemal Hadžiabdić]] (1997–1998)
+*{{flagicon|BRA}} [[Zé Mário (footballer, born 1949)|Zé Mario]] (1998)
+*{{flagicon|ENG}} [[Jensen Wright]] (1998)
+*{{flagicon|NED}} [[Jo Bonfrère]] (1998–1999)
+*{{flagicon|BIH}} [[Džemal Hadžiabdić]] (1999–2001)
+*{{flagicon|BRA}} [[Paulo Campos (football manager)|Paulo Campos]] (2001)
+*{{flagicon|FRA|1974}} [[Pierre Lechantre]] (2002–2003)
+*{{flagicon|FRA|1974}} [[Philippe Troussier]] (2003–2004)
+*{{flagicon|QAT}} ''[[Saeed Al Misnad]]'' (2004)
+*{{flagicon|BIH}} [[Džemaludin Mušović]] (2004–2007)
+*{{flagicon|URU}} [[Jorge Fossati]] (2007–2008)
+*{{flagicon|FRA|1974}} [[Bruno Metsu]] (2008–2011)
+*{{flagicon|SRB}} [[Milovan Rajevac]] (2011)
+*{{flagicon|BRA}} [[Sebastião Lazaroni]] (2011–2012)
+*{{flagicon|BRA}} [[Paulo Autuori]] (2012–2013)
+*{{flagicon|QAT}} [[Fahad Thani]] (2013–2014)
+*{{flagicon|ALG}} [[Djamel Belmadi]] (2014–2015)
+*{{flagicon|URU}} [[José Daniel Carreño]] (2015–2016) 
+*{{flagicon|URU}} [[Jorge Fossati]] (2016–2017)
+*{{flagicon|ESP}} [[Félix Sánchez (football manager)|Félix Sánchez]] (2017–2022)
+*{{flagicon|POR}} [[Bruno Pinheiro (football manager)|Bruno Pinheiro]] (2022–2023)
+*{{flagicon|POR}} [[Carlos Queiroz]] (2023)
+*{{flagicon|ESP}} [[Tintín Márquez]] (2023–2024)
+*{{flagicon|ESP}} [[Luis García (footballer, born 1981)|Luis García]] (2024–2025)
+*{{flagicon|ESP}} [[Julen Lopetegui]] (2025–present)
+{{div col end}}
+
+==Players==
+===Current squad===
+The following 26 players were named in the squad for the [[2026 FIFA World Cup]].<ref>{{cite tweet |author=Qatar Football Association |author-link=Qatar Football Association |user=QFA_EN |number=2061519863403741405 |date=June 1, 2026 |title=The official squad for the FIFA World Cup 2026™ has been announced. |access-date=June 2, 2026}}</ref>
+<br>''Caps and goals correct as of 24 June 2026, after the match against [[Bosnia and Herzegovina national football team|Bosnia and Herzegovina]].''
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Mahmud Abunada]]|age={{bda|2000|2|5|df=y}}|caps=8|goals=0|club=[[Al-Rayyan SC|Al-Rayyan]]|clubnat=QAT}}
+{{nat fs g player|no=21|pos=GK|name=[[Salah Zakaria]]|age={{bda|1999|4|24|df=y}}|caps=8|goals=0|club=[[Al Duhail SC|Al-Duhail]]|clubnat=QAT}}
+{{nat fs g player|no=22|pos=GK|name=[[Meshaal Barsham]]|age={{bda|1998|2|14|df=y}}|caps=52|goals=0|club=[[Al Sadd SC|Al-Sadd]]|clubnat=QAT}}
+{{nat fs break}}
+{{nat fs g player|no=2|pos=DF|name=[[Pedro Miguel (footballer)|Pedro Miguel]]|age={{bda|1990|8|6|df=y}}|caps=102|goals=3|club=[[Al Sadd SC|Al-Sadd]]|clubnat=QAT}}
+{{nat fs g player|no=3|pos=DF|name=[[Lucas Mendes (footballer, born 1990)|Lucas Mendes]]|age={{bda|1990|7|3|df=y}}|caps=26|goals=1|club=[[Al-Wakrah SC|Al-Wakrah]]|clubnat=QAT}}
+{{nat fs g player|no=4|pos=DF|name=[[Issa Laye]]|age={{bda|1997|12|22|df=y}}|caps=7|goals=0|club=[[Al-Arabi SC (Qatar)|Al-Arabi]]|clubnat=QAT}}
+{{nat fs g player|no=13|pos=DF|name=[[Ayoub Al-Oui]]|age={{bda|2005|3|11|df=y}}|caps=8|goals=0|club=[[Al-Gharafa SC|Al-Gharafa]]|clubnat=QAT}}
+{{nat fs g player|no=14|pos=DF|name=[[Homam Ahmed]]|age={{bda|1999|8|25|df=y}}|caps=70|goals=3|club=[[Cultural y Deportiva Leonesa|Cultural Leonesa]]|clubnat=ESP}}
+{{nat fs g player|no=16|pos=DF|name=[[Boualem Khoukhi]]|age={{bda|1990|7|9|df=y}}|caps=119|goals=21|club=[[Al Sadd SC|Al-Sadd]]|clubnat=QAT}}
+{{nat fs g player|no=18|pos=DF|name=[[Sultan Al-Brake]]|age={{bda|1996|4|7|df=y}}|caps=19|goals=0|club=[[Al Duhail SC|Al-Duhail]]|clubnat=QAT}}
+{{nat fs g player|no=25|pos=DF|name=[[Al-Hashmi Al-Hussain]]|age={{bda|2003|8|15|df=y}}|caps=9|goals=0|club=[[Al-Arabi SC (Qatar)|Al-Arabi]]|clubnat=QAT}}
+{{nat fs break}}
+{{nat fs g player|no=5|pos=MF|name=[[Jassem Gaber]]|age={{bda|2002|2|20|df=y}}|caps=35|goals=1|club=[[Al-Rayyan SC|Al-Rayyan]]|clubnat=QAT}}
+{{nat fs g player|no=6|pos=MF|name=[[Abdulaziz Hatem]]|age={{bda|1990|10|28|df=y}}|caps=118|goals=11|club=[[Al-Rayyan SC|Al-Rayyan]]|clubnat=QAT}}
+{{nat fs g player|no=12|pos=MF|name=[[Karim Boudiaf]]|age={{bda|1990|9|16|df=y}}|caps=120|goals=5|club=[[Al Duhail SC|Al-Duhail]]|clubnat=QAT}}
+{{nat fs g player|no=20|pos=MF|name=[[Ahmed Fathy (Qatari footballer)|Ahmed Fathy]]|age={{bda|1993|1|25|df=y}}|caps=51|goals=0|club=[[Al-Arabi SC (Qatar)|Al-Arabi]]|clubnat=QAT}}
+{{nat fs g player|no=23|pos=MF|name=[[Assim Madibo]]|age={{bda|1996|10|22|df=y}}|caps=53|goals=0|club=[[Al-Wakrah SC|Al-Wakrah]]|clubnat=QAT}}
+{{nat fs g player|no=26|pos=MF|name=[[Mohamed Manai]]|age={{bda|2002|10|25|df=y}}|caps=13|goals=0|club=[[Al-Shamal SC|Al-Shamal]]|clubnat=QAT}}
+{{nat fs break}}
+{{nat fs g player|no=7|pos=FW|name=[[Ahmed Alaaeldin]]|age={{bda|1993|1|31|df=y}}|caps=70|goals=9|club=[[Al-Rayyan SC|Al-Rayyan]]|clubnat=QAT}}
+{{nat fs g player|no=8|pos=FW|name=[[Edmilson Junior]]|age={{bda|1994|8|19|df=y}}|caps=19|goals=0|club=[[Al Duhail SC|Al-Duhail]]|clubnat=QAT}}
+{{nat fs g player|no=9|pos=FW|name=[[Mohammed Muntari]]|age={{bda|1993|12|20|df=y}}|caps=67|goals=16|club=[[Al-Gharafa SC|Al-Gharafa]]|clubnat=QAT}}
+{{nat fs g player|no=10|pos=FW|name=[[Hassan Al-Haydos]]|other=[[Captain (association football)|captain]]|age={{bda|1990|12|11|df=y}}|caps=188|goals=42|club=[[Al Sadd SC|Al-Sadd]]|clubnat=QAT}}
+{{nat fs g player|no=11|pos=FW|name=[[Akram Afif]]|age={{bda|1996|11|18|df=y}}|caps=128|goals=39|club=[[Al Sadd SC|Al-Sadd]]|clubnat=QAT}}
+{{nat fs g player|no=15|pos=FW|name=[[Yusuf Abdurisag]]|age={{bda|1999|8|6|df=y}}|caps=41|goals=3|club=[[Al-Wakrah SC|Al-Wakrah]]|clubnat=QAT}}
+{{nat fs g player|no=17|pos=FW|name=[[Ahmed Al-Ganehi]]|age={{bda|2000|9|22|df=y}}|caps=14|goals=1|club=[[Al-Gharafa SC|Al-Gharafa]]|clubnat=QAT}}
+{{nat fs g player|no=19|pos=FW|name=[[Almoez Ali]]|age={{bda|1996|8|19|df=y}}|caps=129|goals=[[List of international goals scored by Almoez Ali|60]]|club=[[Al Duhail SC|Al-Duhail]]|clubnat=QAT}}
+{{nat fs g player|no=24|pos=FW|name=[[Tahsin Jamshid]]|age={{bda|2006|6|16|df=y}}|caps=3|goals=0|club=[[Al Duhail SC|Al-Duhail]]|clubnat=QAT}}
+{{nat fs end}}
+
+===Recent call-ups===
+The following players have also been called up to the Qatar squad within the last twelve months.
+<!--Sorted by position, most recent call-up, caps, goals and last name.-->
+{{nat fs r start}}
+{{nat fs r player|no=|pos=GK|name=[[Shehab Ellethy]]|age={{bda|2000|4|18|df=y}}|caps=1|goals=0|club=[[Al Shahaniya SC|Al-Shahaniya]]|clubnat=QAT|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=GK|name=[[Fahad Younis]]|age={{bda|1994|7|30|df=y}}|caps=0|goals=0|club=[[Al Sailiya SC|Al-Sailiya]]|clubnat=QAT|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=GK|name=[[Marwan Badreldin]]|age={{bda|1999|4|15|df=y}}|caps=0|goals=0|club=[[Al Ahli SC (Doha)|Al-Ahli]]|clubnat=QAT|latest=v. {{fb|UAE}}, 14 October 2025}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=DF|name=[[Tarek Salman]]|age={{bda|1997|12|5|df=y}}|caps=90|goals=0|club=[[Al Sadd SC|Al-Sadd]]|clubnat=QAT|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=DF|name=[[Bassam Al-Rawi]]|age={{bda|1997|12|16|df=y}}|caps=70|goals=2|club=[[Al Duhail SC|Al-Duhail]]|clubnat=QAT|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=DF|name=[[Rayyan Al-Ali]]|age={{bda|2006|3|26|df=y}}|caps=1|goals=0|club=[[Al-Gharafa SC|Al-Gharafa]]|clubnat=QAT|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=DF|name=[[Niall Mason]]|age={{bda|1997|1|10|df=y}}|caps=0|goals=0|club=[[Qatar SC]]|clubnat=QAT|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=DF|name=[[Eisa Palangi]]|age={{bda|1999|2|21|df=y}}|caps=0|goals=0|club=[[Qatar SC]]|clubnat=QAT|latest=Centralized training camp, March 2026}}
+{{nat fs r player|no=|pos=DF|name=[[Marwan Sherif (footballer, born 2006)|Marwan Sherif]]|age={{bda|2006|5|1|df=y}}|caps=0|goals=0|club=[[Al-Arabi SC (Qatar)|Al-Arabi]]|clubnat=QAT|latest=Centralized training camp, March 2026}}
+{{nat fs r player|no=|pos=DF|name=[[Yousef Aymen]]|age={{bda|1999|3|21|df=y}}|caps=9|goals=1|club=[[Al Duhail SC|Al-Duhail]]|clubnat=QAT|latest=[[2025 FIFA Arab Cup]]}}
+{{nat fs r player|no=|pos=DF|name=[[Ahmed Suhail]]|age={{bda|1999|2|8|df=y}}|caps=13|goals=1|club=[[Al Sadd SC|Al-Sadd]]|clubnat=QAT|latest=v. {{fb|ZIM}}, 17 November 2025}}
+{{nat fs r player|no=|pos=DF|name=[[Nabil Irfan]]|age={{bda|2004|2|7|df=y}}|caps=0|goals=0|club=[[Al-Wakrah SC|Al-Wakrah]]|clubnat=QAT|latest=v. {{fb|ZIM}}, 17 November 2025}}
+{{nat fs r player|no=|pos=DF|name=[[Al-Mahdi Ali Mukhtar]]|age={{bda|1992|3|2|df=y}}|caps=39|goals=2|club=[[Al-Wakrah SC|Al-Wakrah]]|clubnat=QAT|latest=v. {{fb|RUS}}, 7 September 2025}}
+{{nat fs r player|no=|pos=DF|name=[[Abdullah Yousef]]|age={{bda|2002|4|10|df=y}}|caps=6|goals=0|club=[[Al-Rayyan SC|Al-Rayyan]]|clubnat=QAT|latest=v. {{fb|RUS}}, 7 September 2025}}
+{{nat fs r player|no=|pos=DF|name=[[Hazem Shehata]]|age={{bda|1998|2|2|df=y}}|caps=11|goals=1|club=[[Al-Rayyan SC|Al-Rayyan]]|clubnat=QAT|latest=Austria training camp, July 2025}}
+{{nat fs r player|no=|pos=DF|name=[[Abdullah Al-Yazidi]]|age={{bda|2002|3|28|df=y}}|caps=5|goals=0|club=[[Al Sadd SC|Al-Sadd]]|clubnat=QAT|latest=Austria training camp, July 2025}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=MF|name=[[Mohammed Waad]]|age={{bda|1999|9|18|df=y}}|caps=49|goals=0|club=[[Al-Shamal SC|Al-Shamal]]|clubnat=QAT|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=MF|name=[[Mostafa Meshaal (footballer)|Mostafa Meshaal]]|age={{bda|2001|3|28|df=y}}|caps=26|goals=2|club=[[K.A.S. Eupen|Eupen]]|clubnat=BEL|latest=Centralized training camp, March 2026}}
+{{nat fs r player|no=|pos=MF|name=[[Ibrahim Al-Hassan]]|age={{bda|2005|10|26|df=y}}|caps=12|goals=3|club=[[Al-Rayyan SC|Al-Rayyan]]|clubnat=QAT|latest=Centralized training camp, March 2026}}
+{{nat fs r player|no=|pos=MF|name=[[Khalid Ali Sabah]]|age={{bda|2001|10|5|df=y}}|caps=2|goals=0|club=[[Al-Sailiya SC|Al-Sailiya]]|clubnat=QAT|latest=Centralized training camp, March 2026}}
+{{nat fs r player|no=|pos=MF|name=[[Anas Abweny]]|age={{bda|2004|9|11|df=y}}|caps=0|goals=0|club=[[Al Sadd SC|Al-Sadd]]|clubnat=QAT|latest=Centralized training camp, March 2026}}
+{{nat fs r player|no=|pos=MF|name=[[Khaled Mohammed]]|age={{bda|2000|6|7|df=y}}|caps=3|goals=0|club=[[Al Ahli SC (Doha)|Al-Ahli]]|clubnat=QAT|latest=v. {{fb|ZIM}}, 17 November 2025}}
+{{nat fs r player|no=|pos=MF|name=[[Guilherme Torres]]|age={{bda|1991|4|5|df=y}}|caps=2|goals=0|club=[[Al Sadd SC|Al-Sadd]]|clubnat=QAT|latest=v. {{fb|UAE}}, 14 November 2025}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=FW|name=[[Sebastián Soria]]|age={{bda|1983|11|8|df=y}}|caps=124|goals=39|club=[[Qatar SC]]|clubnat=QAT|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=FW|name=[[Mubarak Shanan]]|age={{bda|2004|2|20|df=y}}|caps=2|goals=0|club=[[Al Duhail SC|Al-Duhail]]|clubnat=QAT|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=FW|name=[[Ahmed Al-Rawi]]|age={{bda|2004|5|30|df=y}}|caps=9|goals=3|club=[[Qatar SC]]|clubnat=QAT|latest=Centralized training camp, March 2026}}
+{{nat fs r player|no=|pos=FW|name=[[Mohamed Khaled Gouda|Mohamed Gouda]]|age={{bda|2005|1|26|df=y}}|caps=7|goals=0|club=[[Al-Arabi SC (Qatar)|Al-Arabi]]|clubnat=QAT|latest=Centralized training camp, March 2026}}
+{{nat fs r player|no=|pos=FW|name=[[Ismaeel Mohammad]]|age={{bda|1990|4|5|df=y}}|caps=84|goals=4|club=[[Al Duhail SC|Al-Duhail]]|clubnat=QAT|latest=v. {{fb|UAE}}, 14 November 2025}}
+{{nat fs break}}
+*<sup>INJ</sup> Player withdrew from the squad due to an injury.
+*<sup>PRE</sup> Preliminary squad.
+*<sup>RET</sup> Retired from the national team.
+*<sup>SUS</sup> Player is serving a suspension.
+*<sup>WD</sup> Player withdrew from the squad due to non-injury issue.
+{{nat fs end}}
+
+===Naturalised players===
+While it is reasonably common for footballers to represent national teams other than their birth nations,<ref>{{cite web |url=https://www.nationalgeographic.com/magazine/2018/07/world-cup-fifa-soccer-players-national-teams-foreign-born/ |archive-url=https://web.archive.org/web/20180703154203/https://www.nationalgeographic.com/magazine/2018/07/world-cup-fifa-soccer-players-national-teams-foreign-born/ |url-status=dead |archive-date=3 July 2018 |title=See Which World Cup Teams Have the Most Foreign-Born Players |website=[[National Geographic]] |date=July 2018 |access-date=1 July 2019 |first=Riley |last=Champine}}</ref> the nature and extent of the practice for the Qatari team have been the subject of scrutiny and criticism at various points during the 21st century. In the early 1970s, shortly after the formation of the national team, the [[Qatar Football Association|QFA]] revealed that it had naturalized its first players in a February 1976 telegram sent to FIFA: Ezzuldin Osman of Sudan, Hassan Mukhtar of Egypt and Ryad Murad of Lebanon. This practice of naturalizing Arabic-speaking foreigners to compete for the national team continued throughout the 20th century, albeit at a relatively slow rate.<ref>{{cite thesis|url=https://fis.dshs-koeln.de/portal/files/3998204/Rolim_Silva_PHD_FULL_DOC.pdf|title=The Formation of an Olympic Nation in the Persian Gulf: sociocultural history of the sport in Qatar, 1948-1984|year=2019|author=Luís Henrique Rolim Silva|publisher=Deutsche Sporthochschule Köln|pages=272–273|access-date=16 June 2023|archive-date=15 December 2022|archive-url=https://web.archive.org/web/20221215083615/https://fis.dshs-koeln.de/portal/files/3998204/Rolim_Silva_PHD_FULL_DOC.pdf|url-status=live}}</ref> In 2004, FIFA cited the intention of three Brazilian players – [[Aílton (footballer, born 1973)|Aílton]], [[Dedé (footballer, born 1978)|Dedé]] and [[Leandro de Deus Santos|Leandro]] – to play for the Qatar national team as the immediate trigger to their decision to tighten eligibility rules to ensure players have ties to the country they represent.<ref>{{cite web |url=https://www.fifa.com/who-we-are/news/players-seeking-naturalisation-with-clear-connection-country-ineligibl-91082 |archive-url=https://web.archive.org/web/20201024011803/https://www.fifa.com/who-we-are/news/players-seeking-naturalisation-with-clear-connection-country-ineligibl-91082 |url-status=dead |archive-date=24 October 2020 |title=Players seeking naturalisation with no clear connection to country ineligible to represent national teams |website=[[FIFA]] |date=17 March 2004 |access-date=21 September 2020}}</ref><ref>{{cite web |url=https://news.bbc.co.uk/sport2/hi/football/africa/3523266.stm |title=Fifa rules on eligibility |website=[[BBC Sport]] |date=18 March 2004 |access-date=1 July 2019 |archive-date=23 July 2004 |archive-url=https://web.archive.org/web/20040723224447/http://news.bbc.co.uk/sport1/hi/football/africa/3523266.stm |url-status=live }}</ref>
+
+While Qatari authorities described it as a humanitarian effort and a way to provide competition for native Qatari players, critics claimed that it was merely another exploitative way of acquiring naturalized players,<ref>{{cite news |url=https://www.irishtimes.com/sport/soccer/is-this-the-academy-of-dreams-or-exploitation-1.1906302 |title=Is this the academy of dreams or exploitation? |newspaper=[[The Irish Times]] |date=23 August 2014 |access-date=1 July 2019 |first1=Steve |last1=Eder |first2=Christopher |last2=Harress |first3=Sam |last3=Borden |first4=Jack |last4=Williams |archive-date=12 August 2020 |archive-url=https://web.archive.org/web/20200812182011/https://www.irishtimes.com/sport/soccer/is-this-the-academy-of-dreams-or-exploitation-1.1906302 |url-status=live }}</ref> with ''[[Vice (magazine)|Vice]]'' linking it to human rights abuses and the [[kafala system]].<ref>{{cite web |url=https://www.vice.com/en/article/does-qatars-football-policy-put-players-at-risk-of-exploitation/ |title=Does Qatar's Football Policy Put Players at Risk of Exploitation? |website=[[Vice (magazine)|Vice]] |date=9 January 2017 |access-date=1 July 2019 |first=Hayden |last=Vernon |archive-date=1 July 2019 |archive-url=https://web.archive.org/web/20190701234408/https://www.vice.com/en_uk/article/z4ayz5/does-qatars-football-policy-put-players-at-risk-of-exploitation |url-status=live }}</ref> The [[International Labour Organization]] (ILO) and Qatar announced the removal of the Kafala on 12 December 2016; the law came into effect in 2018.<ref>{{Cite web |title=Qatar's human-rights reversal |url=https://www.ips-journal.eu/work-and-digitalisation/qatars-human-rights-reversal-5977/ |access-date=26 September 2022 |website=IPS |date=8 June 2022 |language=en-GB |archive-date=26 September 2022 |archive-url=https://web.archive.org/web/20220926121610/https://www.ips-journal.eu/work-and-digitalisation/qatars-human-rights-reversal-5977/ |url-status=live }}</ref> The reform took place between UN's International labor organization and the state of Qatar and was proven to be the part of many said assurances that nation has claimed for the 2022 World Cup. Though claimed by independent bodies of Qatar foundering to achieve the same, both sides had agreed to revise previous acts that had been taken. To make this all possible, the hosting country declared to pay compensation for the deaths of its migrant workers on 12 August 2022.<ref>{{Cite web |date=12 August 2022 |title=FIFA/Qatar: Commit to Compensate Abused Migrant Workers |url=https://www.hrw.org/news/2022/08/12/fifa/qatar-commit-compensate-abused-migrant-workers |access-date=26 September 2022 |website=Human Rights Watch |language=en |archive-date=26 September 2022 |archive-url=https://web.archive.org/web/20220926121607/https://www.hrw.org/news/2022/08/12/fifa/qatar-commit-compensate-abused-migrant-workers |url-status=live }}</ref>
+
+Job changes between September 2020 and March 2022, the establishment of a nondiscriminatory wage system for all workers in March 2021, and workers' funds and insurance policies in the workplace are all data that showcased the functioning of the state for its workers.<ref>{{Cite web |date=19 May 2021 |title=Overview of Qatar's labor reforms |url=https://www.ilo.org/beirut/countries/qatar/WCMS_760466/lang--en/index.htm |website=International Labor Organization |access-date=26 September 2022 |archive-date=26 September 2022 |archive-url=https://web.archive.org/web/20220926121608/https://www.ilo.org/beirut/countries/qatar/WCMS_760466/lang--en/index.htm |url-status=live }}</ref>
+
+In the 2015 friendly against [[Algeria national football team|Algeria]], six of the eleven players in the starting team were born outside of Qatar.<ref>{{cite web |url=https://www.bbc.co.uk/sport/football/32147203 |title=How will Qatar build a good team for the 2022 World Cup? |website=[[BBC Sport]] |date=8 April 2015 |access-date=1 July 2019 |first=Alex |last=South |archive-date=2 July 2019 |archive-url=https://web.archive.org/web/20190702080034/https://www.bbc.co.uk/sport/football/32147203 |url-status=live }}</ref> Then-president of FIFA, [[Sepp Blatter]], warned Qatar that FIFA would monitor their player selection to ensure that they were not relying too heavily on naturalised players. He made comparisons to the [[Qatar men's national handball team]], referring to the team's selection for the [[2015 World Men's Handball Championship]] as an "absurdity".<ref>{{cite web |url=https://www.espn.co.uk/football/fifa-world-cup/story/2285181/fifa-chief-sepp-blatter-warns-qatar-over-imported-players-for-2022-world-cup?src=com |title=FIFA chief Sepp Blatter warns Qatar over imported players for 2022 |website=[[ESPN]] |date=6 February 2015 |access-date=1 July 2019 |archive-date=2 July 2019 |archive-url=https://web.archive.org/web/20190702103530/https://www.espn.co.uk/football/fifa-world-cup/story/2285181/fifa-chief-sepp-blatter-warns-qatar-over-imported-players-for-2022-world-cup%3Fsrc%3Dcom |url-status=live }}</ref> The following year, naturalized players formed the backbone of the team and were sufficiently integral that head coach [[Jorge Fossati]] threatened to resign if they were removed.<ref>{{cite web |url=https://www.reuters.com/article/uk-soccer-worldcup-qatar/qatar-soccer-coach-threatens-to-resign-if-naturalised-players-excluded-idUKKBN13I0UA |title=Qatar soccer coach threatens to resign if naturalised players excluded |website=[[Reuters]] |date=23 November 2016 |access-date=1 July 2019 |first=Tom |last=Finn |archive-date=1 July 2019 |archive-url=https://web.archive.org/web/20190701234407/https://www.reuters.com/article/uk-soccer-worldcup-qatar/qatar-soccer-coach-threatens-to-resign-if-naturalised-players-excluded-idUKKBN13I0UA |url-status=live }}</ref><ref>{{cite web |url=http://www.dohastadiumplusqatar.com/contentpage.aspx?article=End-of-naturalisation |title=End of naturalisation? |website=Doha Stadium Plus |date=23 November 2016 |access-date=1 July 2019 |archive-date=1 December 2019 |archive-url=https://web.archive.org/web/20191201004140/http://www.dohastadiumplusqatar.com/contentpage.aspx?article=End-of-naturalisation |url-status=dead }}</ref>
+
+The reliance on naturalised players has subsequently reduced, with only two members of the squad that beat [[Switzerland national football team|Switzerland]] in a 2018 friendly being born outside Qatar.<ref>{{cite web |url=https://www.espn.com/soccer/fifa-world-cup/4/blog/post/3700843/qatars-unknown-players-may-not-be-the-2022-world-cup-flops-theyre-expected-to-be |title=Qatar's mystery men may not be the 2022 World Cup flops they're expected to be |website=[[ESPN]] |date=15 November 2018 |access-date=1 July 2019 |first=Mark |last=Ogden |archive-date=1 July 2019 |archive-url=https://web.archive.org/web/20190701234406/https://www.espn.com/soccer/fifa-world-cup/4/blog/post/3700843/qatars-unknown-players-may-not-be-the-2022-world-cup-flops-theyre-expected-to-be |url-status=live }}</ref> However, at the [[2019 AFC Asian Cup|2019 Asian Cup]], amidst [[Qatar–United Arab Emirates relations|diplomatic tensions between the two countries]], the [[United Arab Emirates Football Association]] lodged a formal complaint against Qatar, alleging that [[Almoez Ali]] and [[Bassam Al-Rawi]] were not eligible to play for them.<ref>{{cite web |url=https://www.nytimes.com/2019/01/31/sports/soccer/qatar-uae-asian-cup.html |title=U.A.E. Accuses Qatar of Fielding Ineligible Players at Asian Cup |website=[[New York Times]] |date=31 January 2019 |access-date=1 July 2019 |first=Tariq |last=Panja |archive-date=1 February 2019 |archive-url=https://web.archive.org/web/20190201104735/https://www.nytimes.com/2019/01/31/sports/soccer/qatar-uae-asian-cup.html |url-status=live }}</ref> These complaints were dismissed by the AFC.<ref>{{cite news |url=http://www.the-afc.com/news/afcsection/uae-fa-protest-dismissed |title=UAE FA protest dismissed |website=The-AFC.com |publisher=[[Asian Football Confederation]] |date=1 February 2019 |access-date=1 July 2019 |archive-date=7 November 2020 |archive-url=https://web.archive.org/web/20201107224033/https://www.the-afc.com/news/afcsection/uae-fa-protest-dismissed |url-status=live }}</ref><ref>{{cite web|url=https://uk.reuters.com/article/uk-soccer-asiancup-final/uae-protest-at-eligibility-of-qataris-dismissed-on-day-of-final-idUKKCN1PQ4JC|title=UAE protest at eligibility of Qataris dismissed on day of final|first1=Nick|last1=Mulvenney|first2=Alexander|last2=Cornwell|work=Reuters|date=1 February 2019|access-date=1 July 2019|archive-date=4 October 2020|archive-url=https://web.archive.org/web/20201004024616/https://uk.reuters.com/article/uk-soccer-asiancup-final/uae-protest-at-eligibility-of-qataris-dismissed-on-day-of-final-idUKKCN1PQ4JC|url-status=dead}}</ref>
+
+Of the 26 players called up to the [[2022 FIFA World Cup]], 10 players were born outside of Qatar.<ref name=":0">{{Cite tweet |user=QFA_EN |number=1591124871764791297 |date=11 November 2022 |title=Our national team squad for the #2022WorldCup}}</ref>
+
+==Player records==
+{{updated|24 June 2026}}<ref>{{cite web |title=Qatar - Record International Players |url=https://www.rsssf.org/miscellaneous/qat-recintlp.html |website=RSSSF}}</ref><ref>{{cite web |title=Qatar |url=https://www.national-football-teams.com/country/150/Qatar.html |website=National Football Teams}}</ref>
+:''Players in '''bold''' are still active with Qatar.''
+
+===Most appearances===
+[[File:Qatar - Japan, AFC Asian Cup 2019 58 - Hassan Al Haydos.jpg|200px|right|thumb|[[Hassan Al-Haydos]] is Qatar's most capped player with 188 appearances.]]
+
+{| class="wikitable sortable" style="text-align:center;"
+|-
+!width=30px|Rank
+! style="width:175px;"|Player
+!width=50px|Caps
+!width=50px|Goals
+! style="width:100px;"|Career
+|-
+| 1 ||align=left| '''[[Hassan Al-Haydos]]''' || '''188''' || 42 || 2008–present
+|-
+| 2 ||align=left|'''[[Akram Afif]]''' || '''138''' || 41 || 2015–present
+|-
+| 3 ||align=left| '''[[Abdelkarim Hassan]]''' || '''136''' || 15 || 2010–present 
+|-
+| 4 || align=left| '''[[Abdulaziz Hatem]]''' || '''133''' || 12 || 2009–present
+|-
+| 5 ||align=left| '''[[Karim Boudiaf]]''' || '''130''' || 6 || 2013–present
+|-
+|rowspan=2|6 || align=left| '''[[Almoez Ali]]''' || '''129''' || 60 || 2016–present
+|-
+| align=left| '''[[Boualem Khoukhi]]''' || '''129''' || 21 || 2013–present
+|-
+| 8 || align=left| '''[[Sebastián Soria]]''' || '''124''' || 39 ||  2007–present 
+|-
+|rowspan=2|9 || align=left| [[Bilal Mohammed]] || '''114''' || 7 || 2003–2014
+|-
+| align=left| [[Wesam Rizik]] || '''114''' || 7 || 2001–2014
+|-
+|}
+
+===Top goalscorers===
+[[File:Moez Ali at Qatar v Japan – AFC Asian Cup 2019 final 32.jpg|200px|right|thumb|[[Almoez Ali]] is Qatar's top scorer with 60 goals.]]
+
+{| class="wikitable sortable" style="text-align:center;"
+|-
+!width=30px|Rank
+!width=175px|Player
+!width=50px|Goals
+!width=50px|Caps
+!width=50px|Ratio
+! style="width:100px;"|Career
+|-
+| 1 ||align=left| '''[[Almoez Ali]]''' <small>([[List of international goals scored by Almoez Ali|list]])</small> || '''60''' || 129 || {{#expr:60/129 round 2}} || 2016–present
+|-
+| 2 ||align=left|[[Mansour Muftah]]|| '''48''' || 84 || {{#expr:48/84 round 2}} || 1976–1993
+|-
+| 3 ||align=left| '''[[Hassan Al-Haydos]]''' || '''42''' || 188 || {{#expr:42/188 round 2}} || 2008–present 
+|-
+|rowspan=2|4|| align=left| [[Mubarak Mustafa]] || '''41''' || 106 || {{#expr:41/106 round 2}} || 1992–2004
+|-
+| align=left|'''[[Akram Afif]]''' || '''41''' || 138 || {{#expr:41/138 round 2}} || 2015–present
+|-
+| 6 || align=left| '''[[Sebastián Soria]]''' || '''39''' || 124 || {{#expr:39/124 round 2}} || 2007–present 
+|-
+| 7 ||align=left| [[Mohammed Salem Al-Enazi]] || '''34''' || 69 || {{#expr:34/69 round 2}} || 1996–2003
+|-
+| 8 ||align=left| [[Mahmoud Soufi]] || '''31''' || 84 || {{#expr:31/84 round 2}} || 1988–1998
+|-
+|rowspan=2|9||align=left| [[Khalfan Ibrahim]] || '''21''' || 95 ||{{#expr:21/95 round 2}} ||  2006–2015
+|-
+|align=left| '''[[Boualem Khoukhi]]''' || '''21''' || 129 || {{#expr:21/129 round 2}} || 2013–present
+|}
+
+==Competitive record==
+
+{{Color box|gold|border=darkgray}} '''Champions'''&nbsp;&nbsp;{{Color box|silver|border=darkgray}} '''Runners-up'''&nbsp;&nbsp;{{Color box|#cc9966|border=darkgray}} '''Third place'''&nbsp;&nbsp;
+{| class="wikitable" style="width:90%;text-align:center"
+|-
+!colspan="6" style="background: #8A1538; color:white; border: 1px solid gainsboro;"|Overview
+|-
+! Competition
+!style="width:30%;background:gold"| 1st Place
+!style="width:30%;background:silver"| 2nd Place
+!style="width:30%;background:#c96"| 3rd Place
+!style="width:30%;background:#9acdff"| '''Total'''
+|-
+|align=left|[[AFC Asian Cup]]
+! 2
+! 0
+! 0
+! 2
+|-
+|align=left|[[FIFA Arab Cup]]
+! 0
+! 1
+! 1
+! 2
+|-
+|align=left|[[WAFF Championship]]
+! 1
+! 0
+! 1
+! 2
+|-
+|align=left|[[Arabian Gulf Cup]]
+! 3
+! 4
+! 2
+! 9
+|-
+|-style="background:#9acdff"
+|'''Total'''
+!6
+!5
+!3
+!14
+|}
+
+===FIFA World Cup===
+{{Main|Qatar at the FIFA World Cup}}
+
+{| class="wikitable" style="text-align:center"
+|-
+!colspan=10|[[FIFA World Cup]]
+!rowspan=28|
+! colspan="6" |[[FIFA World Cup qualification|Qualification]]
+|-
+!Year
+!Result
+!Position
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!Squad
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+|-
+|{{flagicon|Uruguay}} [[1930 FIFA World Cup|1930]]
+| rowspan="6" colspan="9" |''Protectorate of the {{flagicon|Great Britain}} [[United Kingdom]]''
+| rowspan="6" colspan="6" |''Protectorate of the {{flagicon|Great Britain}} [[United Kingdom]]''
+|-
+|{{flagicon|Italy|1861}} [[1934 FIFA World Cup|1934]]
+|-
+|{{flagicon|France|1794}} [[1938 FIFA World Cup|1938]]
+|-
+|{{flagicon|Brazil|1889}} [[1950 FIFA World Cup|1950]]
+|-
+|{{flagicon|Switzerland}} [[1954 FIFA World Cup|1954]]
+|-
+|{{flagicon|Sweden}} [[1958 FIFA World Cup|1958]]
+|-
+|{{flagicon|Chile}} [[1962 FIFA World Cup|1962]]
+| colspan="9" |''Not a FIFA member''
+| colspan="6" |''Not a FIFA member''
+|-
+|{{flagicon|England}} [[1966 FIFA World Cup|1966]]
+| rowspan="2" colspan="9" |''Did not enter''
+| rowspan="2" colspan="6" |''Did not enter''
+|-
+|{{flagicon|Mexico}} [[1970 FIFA World Cup|1970]]
+|-
+| {{flagicon|West Germany}} [[1974 FIFA World Cup|1974]]
+|colspan=9|''Withdrew from qualifiers''
+|colspan=6|''Withdrew from qualifiers''
+|-
+| {{flagicon|Argentina}} [[1978 FIFA World Cup|1978]]
+|colspan=9 rowspan=11|''Did not qualify''
+|4||1||0||3||3||9
+|-
+| {{flagicon|Spain}} [[1982 FIFA World Cup|1982]]
+|4||2||0||2||5||3
+|-
+| {{flagicon|Mexico}} [[1986 FIFA World Cup|1986]]
+|4||2||0||2||6||3
+|-
+| {{flagicon|Italy}} [[1990 FIFA World Cup|1990]]
+|11||4||6||1||12||8
+|-
+| {{flagicon|United States}} [[1994 FIFA World Cup|1994]]
+|8||5||1||2||22||8
+|-
+| {{flagicon|France|1974}} [[1998 FIFA World Cup|1998]]
+|11||6||1||4||21||10
+|-
+| {{flagicon|South Korea|1997}} {{flagicon|Japan}} [[2002 FIFA World Cup|2002]]
+||14||7||4||3||24||13
+|-
+| {{flagicon|Germany}} [[2006 FIFA World Cup|2006]]
+|6||3||0||3||16||8
+|-
+| {{flagicon|South Africa}} [[2010 FIFA World Cup|2010]]
+|16||6||4||6||16||20
+|-
+|{{flagicon|Brazil}} [[2014 FIFA World Cup|2014]]
+|16||5||5||6||19||20
+|-
+|{{flagicon|Russia}} [[2018 FIFA World Cup|2018]]
+|18||9||1||8||37||19
+|-
+|style="border: 3px solid red"|{{flagicon|Qatar}} [[2022 FIFA World Cup|2022]]
+| rowspan="2" |Group stage||32nd||3||0||0||3||1||7||[[2022 FIFA World Cup squads#Qatar|Squad]]
+|8||7||1||0||18||1
+|-
+|{{flagicon|Canada}} {{flagicon|Mexico}} {{flagicon|United States}} [[2026 FIFA World Cup|2026]]||41st||3||0||1||2||2||10||[[2026 FIFA World Cup squads#Qatar|Squad]]
+|18||10||3||5||38||29
+|-
+|{{flagicon|Spain}} {{flagicon|Portugal}} {{flagicon|Morocco}} [[2030 FIFA World Cup|2030]]
+|colspan=9 rowspan=2|''To be determined''
+|colspan=6 rowspan=2|''To be determined''
+|-
+|{{flagicon|Saudi Arabia}} [[2034 FIFA World Cup|2034]]
+|-
+!Total:{{Tooltip|2/16|Number of tournaments qualified for}}||{{Tooltip|Group stage|Highest finish}}||32nd||6||0||1||5||3||17||
+!138||67||26||45||236||150
+|}
+
+===AFC Asian Cup===
+{{main|Qatar at the AFC Asian Cup}}
+
+{| class="wikitable" style="text-align:center; width:100%"
+|-
+!colspan=10|[[AFC Asian Cup]] record
+! style="width:1%;" rowspan=22|
+!colspan=7|[[AFC Asian Cup qualification|Qualification]] record
+|-
+!Year
+!Result
+!Position
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!Squad
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+|-
+|{{flagicon|Hong Kong|1955}} [[1956 AFC Asian Cup|1956]]
+|colspan=9 rowspan=5|''Protectorate of the [[United Kingdom]]''
+|colspan=9 rowspan=5|''Protectorate of the [[United Kingdom]]''
+|-
+|{{flagicon|South Korea|1949}} [[1960 AFC Asian Cup|1960]]
+|-
+|{{flagicon|Israel}} [[1964 AFC Asian Cup|1964]]
+|-
+|{{flagicon|Iran|1964}} [[1968 AFC Asian Cup|1968]]
+|-
+|{{flagicon|Thailand}} [[1972 AFC Asian Cup|1972]]
+|-
+|{{flagicon|Iran|1964}} [[1976 AFC Asian Cup|1976]]
+|colspan=9|''Did not qualify''
+|6||2||1||3||5||8
+|-
+|{{flagicon|Kuwait}} [[1980 AFC Asian Cup|1980]]
+|rowspan=4|Group stage
+|8th
+|4
+|1
+|1
+|2
+|3
+|8
+|[[1980 AFC Asian Cup squads#Qatar|Squad]]
+|4||3||1||0||10||2
+|-
+| {{flagicon|Singapore}} [[1984 AFC Asian Cup|1984]]
+|5th||4||1||2||1||3||3||[[1984 AFC Asian Cup squads#Qatar|Squad]]
+|4||3||0||1||11||1
+|-
+|style="border: 3px solid red"|{{flagicon|Qatar}} [[1988 AFC Asian Cup|1988]]
+|5th||4||2||0||2||7||6||[[1988 AFC Asian Cup squads#Qatar|Squad]]
+|colspan=6|''Qualified as hosts''
+|-
+|{{flagicon|Japan|1870}} [[1992 AFC Asian Cup|1992]]
+|6th||3||0||2||1||3||4||[[1992 AFC Asian Cup squads#Qatar|Squad]]
+|2||2||0||0||8||2
+|-
+|{{flagicon|United Arab Emirates}} [[1996 AFC Asian Cup|1996]]
+|colspan=9|''Did not qualify''
+|4||2||0||2||5||4
+|-
+|{{flagicon|Lebanon}} [[2000 AFC Asian Cup|2000]]
+|Quarter-finals||8th||4||0||3||1||3||5||[[2000 AFC Asian Cup squads#Qatar|Squad]]
+|4||3||1||0||11||3
+|-
+|{{flagicon|China}} [[2004 AFC Asian Cup|2004]]
+|rowspan=2|Group stage
+|14th
+|3
+|0
+|1
+|2
+|2
+|4
+|[[2004 AFC Asian Cup squads#Qatar|Squad]]
+|6||3||2||1||10||7
+|-
+|{{flagicon|Indonesia}} {{flagicon|Malaysia}} {{flagicon|Thailand}} {{flagicon|Vietnam}} [[2007 AFC Asian Cup|2007]]
+|14th||3||0||2||1||3||4||[[2007 AFC Asian Cup squads#Qatar|Squad]]
+|6||5||0||1||14||4
+|-
+|style="border: 3px solid red"|{{flagicon|Qatar}} [[2011 AFC Asian Cup|2011]]
+|Quarter-finals||5th||4||2||0||2||7||5||[[2011 AFC Asian Cup squads#Qatar|Squad]]
+|colspan=6|''Qualified as hosts''
+|-
+|{{flagicon|Australia}} [[2015 AFC Asian Cup|2015]]
+|Group stage||13th||3||0||0||3||2||7||[[2015 AFC Asian Cup squads#Qatar|Squad]]
+|6||4||1||1||13||2
+|- style="background:gold;"
+|{{flagicon|United Arab Emirates}} [[2019 AFC Asian Cup|2019]]||'''[[2019 AFC Asian Cup final|Champions]]''' ||'''1st'''||'''7'''||'''7'''||'''0'''||'''0'''||'''19'''||'''1'''||'''[[2019 AFC Asian Cup squads#Qatar|Squad]]'''
+|8||7||0||1||29||4
+|- style="background:gold
+|style="border: 3px solid red"|{{flagicon|Qatar}} [[2023 AFC Asian Cup|2023]]
+|'''[[2023 AFC Asian Cup final|Champions]]'''
+|'''1st'''
+|'''7'''
+|'''6'''
+|'''1'''
+|'''0'''
+|'''14'''
+|'''5'''
+|'''[[2023 AFC Asian Cup squads#Qatar|Squad]]'''
+|8||7||1||0||18||1
+|-
+|{{flagicon|Saudi Arabia}} [[2027 AFC Asian Cup|2027]]
+|colspan=9|''Qualified''
+|6||5||1||0||18||3
+|-
+|-
+!Total||2 Titles||12/14||46||19||12||15||66||52||—
+!64||46||8||10||163||40
+|}
+{| class="wikitable collapsible collapsed" style="text-align: center;font-size:90%;"
+|-
+!colspan=2|AFC Asian Cup history
+|-
+!First match
+|{{fb|QAT}} 2–1 {{fb-rt|UAE}}<br> (17 September 1980; [[Kuwait City]], Kuwait)
+|-
+!Biggest win
+|{{fb|PRK}} 0–6 {{fb-rt|QAT}}<br> (13 January 2019; [[Al Ain]], United Arab Emirates)
+|-
+!Biggest defeat
+|{{fb|KUW}} 4–0 {{fb-rt|QAT}}<br> (25 September 1980; [[Kuwait City]], Kuwait)
+|-
+!Best result
+|'''Champions''' ([[2019 AFC Asian Cup|2019]], [[2023 AFC Asian Cup|2023]])
+|-
+!Worst result
+|Group stage ([[1980 AFC Asian Cup|1980]], [[1984 AFC Asian Cup|1984]], [[1988 AFC Asian Cup|1988]], [[1992 AFC Asian Cup|1992]], [[2004 AFC Asian Cup|2004]],<br>[[2007 AFC Asian Cup|2007]], [[2015 AFC Asian Cup|2015]])
+|}
+
+===FIFA Arab Cup===
+{| class="wikitable" style="font-size:90%; text-align:center; width:50%"
+!colspan=8|[[FIFA Arab Cup]] record
+|-
+!Year||Result||Pld||W||D||L||GF||GA
+|-
+|{{flagicon|Lebanon}} [[1963 Arab Cup|1963]]||colspan=7 rowspan=3|''Did not enter''
+|-
+|{{flagicon|Kuwait}} [[1964 Arab Cup|1964]]
+|-
+|{{flagicon|Iraq|1963}} [[1966 Arab Cup|1966]]
+|- style="background:#9acdff;"
+|{{flagicon|Saudi Arabia}} [[1985 Arab Cup|1985]]|| '''Fourth place''' ||'''4'''||'''1'''||'''2'''||'''1'''||'''3'''||'''2'''
+|-
+|{{flagicon|Jordan}} [[1988 Arab Cup|1988]]||colspan=7 rowspan=2|''Did not enter''
+|-
+|{{flagicon|Syria|1980}} [[1992 Arab Cup|1992]]
+|-
+|- style="background:silver;"
+|style="border: 3px solid red"|{{flagicon|Qatar}} [[1998 Arab Cup|1998]]|| '''Runners-up''' ||'''4'''||'''3'''||'''0'''||'''1'''||'''7'''||'''5'''
+|-
+|{{flagicon|Kuwait}} [[2002 Arab Cup|2002]]||colspan=7 rowspan=2|''Did not enter''
+|-
+|{{flagicon|Saudi Arabia}} [[2012 Arab Cup|2012]]
+|-bgcolor="#cc9966"
+|style="border: 3px solid red"|{{flagicon|Qatar}} [[2021 FIFA Arab Cup|2021]]|||'''Third place'''
+|'''6'''||'''4'''||'''1'''||'''1'''||'''12'''||'''3'''
+|-
+|style="border: 3px solid red"|{{flagicon|Qatar}} [[2025 FIFA Arab Cup|2025]]||'''Group stage'''||'''3'''||'''0'''||'''1'''||'''2'''||'''1'''||'''5'''
+|-
+!Total||4/11||17||8||4||5||23||15
+|}
+
+===Copa América===
+{{main|Qatar at the Copa América}}
+
+Qatar was the second team from outside the [[Americas]] to participate in the [[Copa América]], and were invited for the first time in [[2019 Copa América|2019]].
+
+{| class="wikitable" style="font-size:90%; text-align:center; width:50%"
+|-
+!colspan=9|[[Copa América]] record
+|-
+!Year
+!Result
+!Position
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}*
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+|-
+|{{flagicon|Brazil}} [[2019 Copa América|2019]]
+|Group stage
+|10th
+|3
+|0
+|1
+|2
+|2
+|5
+|-
+!Total||Group stage||10th|| 3 || 0 || 1 || 2 || 2 || 5
+|}
+
+===CONCACAF Gold Cup===
+{{main|Qatar at the CONCACAF Gold Cup}}
+
+Qatar was the second team from [[Asia]] to participate in the [[CONCACAF Gold Cup]] after [[South Korea national football team|South Korea]], and were invited for the first time in [[2021 CONCACAF Gold Cup|2021]].
+
+{| class="wikitable" style="font-size:90%; text-align:center; width:50%"
+|-
+!colspan=9|[[CONCACAF Gold Cup]] record
+|-
+!Year
+!Result
+!Position
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}*
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+|-style="background:#c96;"
+|{{flagicon|USA}} [[2021 CONCACAF Gold Cup|2021]]
+|'''Semi-finals'''||'''3rd'''||'''5'''||'''3'''||'''1'''||'''1'''||'''12'''||'''6'''
+|-
+|{{flagicon|CAN}} {{flagicon|USA}} [[2023 CONCACAF Gold Cup|2023]]||Quarter-finals||8th
+|4||1||1||2||3||7
+|-
+!Total||Semi-finals|| 2/28 || 9 || 4 || 2 || 3 || 15 || 13
+|}
+
+===Gulf Cup===
+{| class="wikitable" style="font-size:90%; text-align:center; width:50%"
+|-
+!colspan=8|[[Gulf Cup]] record
+|-
+!Year
+!Result
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+|-
+| {{flagicon|BHR|1932}} [[1970 Gulf Cup of Nations|1970]]|| Fourth place ||3||0||1||2||4||7
+|-
+| {{flagicon|KSA|1938}} [[1972 Gulf Cup of Nations|1972]]|| Fourth place ||3||0||0||3||0||10
+|-
+| {{flagicon|KUW}} [[1974 Gulf Cup of Nations|1974]]|| Semi-finals ||3||1||0||2||5||4
+|-
+|style="border: 3px solid red"|{{flagicon|QAT}} [[1976 Gulf Cup of Nations|1976]]|| Third place ||6||4||1||1||11||6
+|-
+| {{flagicon|IRQ|1963}} [[1979 Gulf Cup of Nations|1979]]|| Fifth place ||6||2||1||3||4||13
+|-
+| {{flagicon|UAE}} [[1982 Gulf Cup of Nations|1982]]|| Fifth place ||5||2||0||3||5||4
+|- style="background:silver;"
+| {{flagicon|OMN}} [[1984 Gulf Cup of Nations|1984]]|| Runners-up ||7||4||1||2||10||6
+|-
+| {{flagicon|BHR|1972}} [[1986 Gulf Cup of Nations|1986]]|| Fourth place ||6||2||2||2||7||8
+|-
+| {{flagicon|KSA}} [[1988 Gulf Cup of Nations|1988]]|| Sixth place ||6||1||2||3||4||8
+|- style="background:silver;"
+| {{flagicon|KUW}} [[1990 Gulf Cup of Nations|1990]]|| Runners-up ||4||1||2||1||4||4
+|- style="background:gold;"
+|style="border: 3px solid red"|{{flagicon|QAT}} [[1992 Gulf Cup of Nations|1992]]|| '''Champions''' ||5||4||0||1||8||1
+|-
+| {{flagicon|UAE}} [[1994 Gulf Cup of Nations|1994]]|| Fourth place ||5||1||1||3||6||8
+|- style="background:silver;"
+| {{flagicon|OMN}} [[1996 Gulf Cup of Nations|1996]]|| Runners-up ||5||3||1||1||9||5
+|-
+| {{flagicon|BHR|1972}} [[1998 Gulf Cup of Nations|1998]]|| Sixth place ||5||0||3||2||3||8
+|- style="background:silver;"
+| {{flagicon|KSA}} [[2002 Gulf Cup of Nations|2002]]|| Runners-up ||5||4||0||1||7||4
+|-
+| {{flagicon|KUW}} [[16th Arabian Gulf Cup|2003–04]]|| Third place ||6||2||3||1||5||3
+|- style="background:gold;"
+|style="border: 3px solid red"|{{flagicon|QAT}} [[17th Arabian Gulf Cup|2004]]|| '''Champions''' ||5||3||2||0||10||7
+|-
+| {{flagicon|UAE}} [[18th Arabian Gulf Cup|2007]]|| Group stage ||3||0||1||2||2||4
+|-
+| {{flagicon|OMA}} [[19th Arabian Gulf Cup|2009]]|| Semi-finals ||4||1||2||1||2||2
+|-
+| {{flagicon|YEM}} [[20th Arabian Gulf Cup|2010]]|| Group stage ||3||1||1||1||3||3
+|-
+| {{flagicon|BHR}} [[21st Arabian Gulf Cup|2013]]|| Group stage ||3||1||0||2||3||5
+|- style="background:gold;"
+| {{flagicon|KSA}} [[22nd Arabian Gulf Cup|2014]]|| '''Champions''' ||5||2||3||0||6||3
+|-
+| {{flagicon|KUW}} [[23rd Arabian Gulf Cup|2017–18]]|| Group stage ||3||1||1||1||6||3
+|-
+|style="border: 3px solid red"|{{flagicon|QAT}} [[24th Arabian Gulf Cup|2019]]|| Semi-finals ||4||2||0||2||11||5
+|-
+| {{flagicon|IRQ}} [[25th Arabian Gulf Cup|2023]]|| Semi-finals ||4||1||1||2||5||5
+|-
+| {{flagicon|KWT}} [[26th Arabian Gulf Cup|2024–25]]|| Group stage ||3||0||2||1||3||4
+|-
+|{{flagicon|KSA}} [[27th Arabian Gulf Cup|2026]]
+| colspan="7" |''TBD''
+|-
+! Total ||26/26||114||43||29||42||140||136
+|}
+
+<small>The Gulf Cup has been played on a bi-annual basis since 1970. The tournament has changed since the first edition from a round-robin basis to a knockout tournament in the latter years. Notably, the 2000 edition was cancelled and the 2003 and 2010 were moved due to congested fixture lists with other tournaments, such as the [[AFC Asian Cup|Asian Cup]].</small>
+
+===Arab Games===
+{| class="wikitable" style="font-size:90%; text-align:center; width:50%"
+|-
+!colspan=9|[[Football at the Arab Games|Arab Games]] record
+|-
+!Year||Round||Result||M||W||D||L||GF||GA
+|-
+|1953-1997
+|colspan=9|''Did not enter''
+|-
+|{{flagicon|JOR}} [[Football at the 1999 Arab Games|1999]]||First group stage||10th||2||0||0||2||0||4
+|-
+|{{flagicon|EGY}} [[Football at the 2007 Arab Games|2007]]
+|colspan=9|''Did not enter''
+|-
+|style=border: 3px solid red;| {{flagicon|QAT}} [[Football at the 2011 Arab Games|2011]]||Group stage||6th||2||0||2||0||2||2
+|-
+|{{flagicon|Algeria}} [[Football at the 2023 Arab Games|2023]]
+|colspan=9|''Did not enter''
+|-
+!Total !! 2/10 !! 6th !! 4 !! 0 !! 2 !! 2 !! 2 !! 6
+|}
+
+===WAFF Championship===
+{| class="wikitable" style="font-size:90%; text-align:center; width:50%"
+!colspan=8|[[WAFF Championship]] record
+|-
+!Year
+!Result
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}*
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+|-
+|{{flagicon|JOR}} [[2000 West Asian Football Federation Championship|2000]] ||rowspan=4 colspan=7|''Did not enter''
+|-
+|{{flagicon|SYR|1980}} [[2002 West Asian Football Federation Championship|2002]]
+|-
+|{{flagicon|IRN}} [[2004 West Asian Football Federation Championship|2004]]
+|-
+|{{flagicon|JOR}} [[2007 West Asian Football Federation Championship|2007]]
+|-
+|{{flagicon|IRN}} [[2008 West Asian Football Federation Championship|2008]]|| Semi-finals ||3||1||0||2||2||9
+|-
+|{{flagicon|JOR}} [[2010 West Asian Football Federation Championship|2010]] ||rowspan=2 colspan=7|''Did not enter''
+|-
+|{{flagicon|KUW}} [[2012 West Asian Football Federation Championship|2012]]
+|- style="background:gold;"
+|style="border: 3px solid red"|{{flagicon|QAT}} [[2013 West Asian Football Federation Championship|2013]]|| '''Champions''' ||4||4||0||0||10||1
+|-
+|{{flagicon|IRQ}} [[2019 WAFF Championship|2019]]||colspan=7|''Did not enter''
+|-
+| [[2023 WAFF Championship|2023]]||colspan=7|''Withdrew''
+|-
+!Total !! 2/10 !! 7 !! 5 !! 0 !! 2 !! 12 !! 10
+|}
+
+===Olympic Games===
+
+{| class="wikitable" style="font-size:90%; text-align:center; width:100%"
+|-
+!colspan=9|[[Football at the Summer Olympics|Summer Olympics]] record
+! style="width:1px;" rowspan=8|
+!colspan=7|Qualification record
+|-
+!Year||Result||Position||M||W||D||L||GF||GA||M||W||D||L||GF||GA
+|-
+|{{flagicon|CAN}} [[Football at the 1976 Summer Olympics|1976]]||rowspan=2 colspan=8|''Did not enter''||rowspan=2 colspan=6|''Did not enter''
+|-
+|{{flagicon|URS|1955}} [[Football at the 1980 Summer Olympics|1980]]
+|-
+|{{flagicon|USA}} [[Football at the 1984 Summer Olympics|1984]]||Group stage||15th||3||0||1||2||2||5||10||6||4||0||13||5
+|-
+|{{flagicon|KOR|1984}} [[Football at the 1988 Summer Olympics|1988]]||colspan=8|''Did not qualify''||8||2||3||3||6||9
+|-
+|[[Football at the 1992 Summer Olympics|1992]] – present
+|colspan=8|''See [[Qatar national under-23 football team#Olympic Games Record|Qatar national under-23 team]]''
+|colspan=6|''See [[Qatar national under-23 football team#Olympic Games Record|Qatar national under-23 team]]''
+|-
+!Total||Group stage||1/17||3||0||1||2||2||5||18||8||7||3||19||14
+|}
+
+===Asian Games===
+
+{| class="wikitable" style="font-size:90%; text-align:center; width:50%"
+|-
+!colspan=9|[[Football at the Asian Games|Asian Games]] record
+|-
+!Year||Round||M||W||D||L||GF||GA
+|-
+|1951-1974||colspan=7|''Did not enter''
+|-
+| {{flagicon|THA}} [[Football at the 1978 Asian Games|1978]]||Group stage||3||0||1||2||3||7
+|-
+| {{flagicon|IND}} [[Football at the 1982 Asian Games|1982]]||colspan=7|''Did not enter''
+|-
+| {{flagicon|KOR|1984}} [[Football at the 1986 Asian Games|1986]]||Group stage||3||0||2||1||2||3
+|-
+| {{flagicon|CHN}} [[Football at the 1990 Asian Games|1990]]||colspan=7|''Did not enter''
+|-
+| {{flagicon|JPN|1947}} [[Football at the 1994 Asian Games|1994]]||Group stage||3||0||3||0||5||5
+|-
+| {{flagicon|THA}} [[Football at the 1998 Asian Games|1998]]||Quarter-finals||6||4||1||1||9||4
+|-
+|[[Football at the 2002 Asian Games|2002]]–present
+|colspan=8|''See [[Qatar national under-23 football team]]''
+|-
+!Total||4/13||15||4||7||4||19||19
+|}
+
+==Head-to-head record==
+* Source:[https://www.besoccer.com/team/seleccion-qatar] {{Webarchive|url=https://web.archive.org/web/20221021065113/https://www.besoccer.com/team/seleccion-qatar |date=21 October 2022 }}
+
+''Updated on 24 June 2026 after the match against [[Bosnia and Herzegovina national football team|Bosnia and Herzegovina]].''
+
+{{legend2|#CCFFCC|Positive Record|border=1px solid #AAAAAA}}
+{{legend2|#FFFFCC|Neutral Record|border=1px solid #AAAAAA}}
+{{legend2|#FFCCCC|Negative Record|border=1px solid #AAAAAA}}
+{|class="sortable wikitable" style="text-align:center; width:50%"
+|-
+!style="background-color:#8A1538; color:white;"|Team
+!style="background-color:#8A1538; color:white;"|{{Abbr|Pld|Games played}}
+!style="background-color:#8A1538; color:white;"|{{Abbr|W|Won}}
+!style="background-color:#8A1538; color:white;"|{{Abbr|D|Drawn}}
+!style="background-color:#8A1538; color:white;"|{{Abbr|L|Lost}}
+!style="background-color:#8A1538; color:white;"|{{Abbr|GF|Goals for}}
+!style="background-color:#8A1538; color:white;"|{{Abbr|GA|Goals against}}
+!style="background-color:#8A1538; color:white;"|{{Abbr|GD|Goals differences}}
+!style="background-color:#8A1538; color:white;"|{{Abbr|Confederation|FIFA}}
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|AFG|2013}}
+|9
+|7
+|2
+|0
+|31
+|4
+|27
+|  |[[Asian Football Confederation|AFC]]
+|-bgcolor=#FFCCCC
+|align="left"|{{fb|ALB}}
+|3
+|1
+|0
+|2
+|3
+|5
+|−2
+|  |[[UEFA]]
+|-bgcolor=#FFCCCC
+|align="left"|{{fb|ALG}}
+|6
+|1
+|1
+|4
+|3
+|10
+|−7
+|  |[[Confederation of African Football|CAF]]
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|AND}}
+|1
+|1
+|0
+|0
+|1
+|0
+|1
+|  |[[UEFA]]
+|-bgcolor=#FFCCCC
+|align="left"|{{fb|ARG}}
+|2
+|0
+|0
+|2
+|0
+|5
+|−5
+| |[[CONMEBOL]]
+|-bgcolor=#FFCCCC
+|align="left"|{{fb|AUS}}
+|5
+|1
+|1
+|3
+|2
+|10
+|−8
+| |[[Asian Football Confederation|AFC]]
+|-bgcolor=#FFFFCC
+|align="left"|{{fb|AZE}}
+|4
+|1
+|2
+|1
+|6
+|6
+|0
+||[[UEFA]]
+|-bgcolor=#FFFFCC
+|align="left"|{{fb|BHR}}
+|41
+|8
+|20
+|13
+|36
+|40
+|−4
+||[[Asian Football Confederation|AFC]]
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|BAN}}
+|7
+|5
+|2
+|0
+|18
+|3
+|17
+||[[Asian Football Confederation|AFC]]
+|-bgcolor=#FFCCCC
+|align="left"|{{fb|BEL}}
+|1
+|0
+|0
+|1
+|0
+|2
+|−2
+|  |[[UEFA]]
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|BHU}}
+|2
+|2
+|0
+|0
+|18
+|0
+|18
+|  |[[Asian Football Confederation|AFC]]
+|-bgcolor=#FFFFCC
+|align="left"|{{fb|BIH}}
+|4
+|2
+|1
+|1
+|6
+|4
+|2
+|  |[[UEFA]]
+|-bgcolor=#FFCCCC
+|align="left"|{{fb|BRA}}
+|2
+|0
+|0
+|2
+|1
+|8
+|−7
+|  |[[CONMEBOL]]
+|-bgcolor=#FFFFCC
+|align="left"|{{fb|BUL}}
+|2
+|1
+|0
+|1
+|4
+|4
+|0
+||[[UEFA]]
+|-bgcolor=#FFFFCC
+|align="left"|{{fb|BFA}}
+|1
+|0
+|1
+|0
+|2
+|2
+|0
+||[[Confederation of African Football|CAF]]
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|CAM}}
+|1
+|1
+|0
+|0
+|3
+|0
+|0
+||[[Asian Football Confederation|AFC]]
+|-bgcolor=#FFCCCC
+|align="left"|{{fb|CAN}}
+|2
+|0
+|0
+|2
+|0
+|8
+|–8
+| |[[CONCACAF]]
+|-bgcolor=#FFFFCC
+|align="left"|{{fb|CHI}}
+|1
+|0
+|1
+|0
+|2
+|2
+|0
+||[[CONMEBOL]]
+|-bgcolor=#FFCCCC
+|align="left"|{{fb|CHN}}
+|20
+|7
+|5
+|8
+|17
+|23
+|−6
+| |[[Asian Football Confederation|AFC]]
+|-bgcolor=#FFCCCC
+|align="left"|{{fb|COL}}
+|1
+|0
+|0
+|1
+|0
+|1
+|−1
+| |[[CONMEBOL]]
+|-bgcolor=#FFFFCC
+|align="left"|{{fb|COD|name=Congo DR}}
+|1
+|0
+|1
+|0
+|2
+|2
+|0
+| |[[Confederation of African Football|CAF]]
+|-bgcolor=#FFFFCC
+|align="left"|{{fb|CRC}}
+|1
+|0
+|1
+|0
+|1
+|1
+|0
+| |[[CONCACAF]]
+|-bgcolor=#FFCCCC
+|align="left"|{{fb|CRO}}
+|1
+|0
+|0
+|1
+|2
+|3
+|−1
+| |[[UEFA]]
+|-bgcolor=#FFCCCC
+|align="left"|{{fb|CUR}}
+|1
+|0
+|0
+|1
+|1
+|2
+|−1
+|  |[[CONCACAF]]
+|-bgcolor=#FFCCCC
+|align="left"|{{fb|CZE}}
+|1
+|0
+|0
+|1
+|0
+|1
+|−1
+| |[[UEFA]]
+|-bgcolor=#FFCCCC
+|align="left"|{{fb|DEN}}
+|1
+|0
+|0
+|1
+|0
+|1
+|−1
+| |[[UEFA]]
+|-bgcolor=#FFCCCC
+|align="left"|{{fb|ECU}}
+|4
+|1
+|1
+|2
+|6
+|8
+|–2
+| |[[CONMEBOL]]
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|SLV}}
+|3
+|2
+|1
+|0
+|4
+|2
+|2
+| |[[CONCACAF]]
+|-bgcolor=#FFCCCC
+|align="left"|{{fb|EGY}}
+|8
+|2
+|2
+|4
+|7
+|18
+|−11
+| |[[Confederation of African Football|CAF]]
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|EST}}
+|2
+|2
+|0
+|0
+|5
+|0
+|5
+|  |[[UEFA]]
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|FIN}}
+|4
+|1
+|3
+|0
+|4
+|3
+|1
+|  |[[UEFA]]
+|-bgcolor=#FFCCCC
+|align="left"|{{fb|GEO}}
+|1
+|0
+|0
+|1
+|1
+|2
+|−1
+| |[[UEFA]]
+|-bgcolor=#FFFFCC
+|align="left"|{{fb|GHA}}
+|2
+|1
+|0
+|1
+|3
+|6
+|–3
+|  |[[Confederation of African Football|CAF]]
+|-bgcolor=#FFCCCC
+|align="left"|{{fb|GRE}}
+|1
+|0
+|0
+|1
+|0
+|1
+|−1
+| |[[UEFA]]
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|GRN}}
+|1
+|1
+|0
+|0
+|4
+|0
+|4
+|  |[[CONCACAF]]
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|GUA}}
+|1
+|1
+|0
+|0
+|2
+|0
+|2
+|  |[[CONCACAF]]
+|-bgcolor=#FFCCCC
+|align="left"|{{fb|HAI}}
+|2
+|0
+|0
+|2
+|1
+|3
+|−2
+|  |[[CONCACAF]]
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|HON}}
+|3
+|2
+|1
+|0
+|4
+|1
+|3
+|  |[[CONCACAF]]
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|HKG}}
+|7
+|7
+|0
+|0
+|16
+|2
+|14
+| |[[Asian Football Confederation|AFC]]
+|-bgcolor=#FFCCCC
+|align="left"|{{fb|HUN}}
+|3
+|0
+|1
+|2
+|2
+|8
+|−6
+| |[[UEFA]]
+|-bgcolor=#FFFFCC
+|align="left"|{{fb|ISL}}
+|2
+|0
+|2
+|0
+|3
+|3
+|0
+|  |[[UEFA]]
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|IND}}
+|6
+|4
+|1
+|1
+|13
+|3
+|10
+|  |[[Asian Football Confederation|AFC]]
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|IDN}}
+|9
+|6
+|2
+|1
+|23
+|10
+|13
+|  |[[Asian Football Confederation|AFC]]
+|-bgcolor=#FFCCCC
+|align="left"|{{fb|IRN}}
+|26
+|5
+|5
+|16
+|20
+|45
+|−25
+| |[[Asian Football Confederation|AFC]]
+|-bgcolor=#FFCCCC
+|align="left"|{{fb|IRQ}}
+|34
+|9
+|10
+|15
+|34
+|41
+|−7
+| |[[Asian Football Confederation|AFC]]
+|-bgcolor=#FFCCCC
+|align="left"|{{fb|CIV}}
+|1
+|0
+|0
+|1
+|1
+|6
+|−5
+| |[[Confederation of African Football|CAF]]
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|JAM}}
+|2
+|1
+|1
+|0
+|3
+|2
+|1
+| |[[CONCACAF]]
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|JPN}}
+|10
+|3
+|4
+|3
+|13
+|12
+|1
+|  |[[Asian Football Confederation|AFC]]
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|JOR}}
+|24
+|13
+|5
+|6
+|35
+|19
+|14
+|  |[[Asian Football Confederation|AFC]]
+|-bgcolor=#FFFFCC
+|align="left"|{{fb|KAZ}}
+|4
+|2
+|0
+|2
+|6
+|4
+|2
+| |[[UEFA]]
+|-bgcolor=#FFCCCC
+|align="left"|{{fb|KEN}}
+|1
+|0
+|0
+|1
+|1
+|2
+|−1
+|  |[[Confederation of African Football|CAF]]
+|-bgcolor=#FFFFCC
+|align="left"|{{fb|PRK}}
+|14
+|4
+|6
+|4
+|26
+|18
+|8
+|  |[[Asian Football Confederation|AFC]]
+|-bgcolor=#FFCCCC
+|align="left"|{{fb|KOR}}
+|12
+|4
+|2
+|6
+|15
+|20
+|−5
+|  |[[Asian Football Confederation|AFC]]
+|-bgcolor=#FFCCCC
+|align="left"|{{fb|KUW}}
+|39
+|14
+|4
+|21
+|46
+|59
+|−13
+|  |[[Asian Football Confederation|AFC]]
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|KGZ}}
+|4
+|2
+|1
+|1
+|5
+|4
+|1
+|  |[[Asian Football Confederation|AFC]]
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|LAO}}
+|2
+|2
+|0
+|0
+|11
+|1
+|10
+| |[[Asian Football Confederation|AFC]]
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|LAT}}
+|1
+|1
+|0
+|0
+|3
+|1
+|2
+| |[[UEFA]]
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|LIB}}
+|15
+|11
+|3
+|1
+|37
+|4
+|33
+|  |[[Asian Football Confederation|AFC]]
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|LBY}}
+|4
+|2
+|1
+|1
+|4
+|2
+|2
+|  |[[Confederation of African Football|CAF]]
+|-bgcolor=#FFCCCC
+|align="left"|{{fb|LIE}}
+|1
+|0
+|0
+|1
+|1
+|2
+|−1
+|  |[[UEFA]]
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|LUX}}
+|2
+|1
+|1
+|0
+|2
+|1
+|1
+|  |[[UEFA]]
+|-bgcolor=#FFFFCC
+|align="left"|{{fb|MKD}}
+|3
+|1
+|1
+|1
+|2
+|2
+|0
+|  |[[UEFA]]
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|MAS}}
+|7
+|4
+|3
+|0
+|11
+|3
+|8
+|  |[[Asian Football Confederation|AFC]]
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|MDV}}
+|3
+|3
+|0
+|0
+|9
+|0
+|9
+| |[[Asian Football Confederation|AFC]]
+|-bgcolor=#FFFFCC
+|align="left"|{{fb|MLI}}
+|1
+|0
+|1
+|0
+|0
+|0
+|0
+|  |[[Confederation of African Football|CAF]]
+|-bgcolor=#FFCCCC
+|align="left"|{{fb|MLT}}
+|2
+|0
+|0
+|2
+|0
+|4
+|−4
+|  |[[UEFA]]
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|MRI}}
+|1
+|1
+|0
+|0
+|3
+|0
+|3
+|  |[[Confederation of African Football|CAF]]
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|MEX}}
+|1
+|1
+|0
+|0
+|1
+|0
+|1
+|  |[[CONCACAF]]
+|-bgcolor=#FFFFCC
+|align="left"|{{fb|MDA}}
+|1
+|0
+|1
+|0
+|1
+|1
+|0
+|  |[[UEFA]]
+|-bgcolor=#FFCCCC
+|align="left"|{{fb|MAR}}
+|3
+|0
+|2
+|1
+|2
+|3
+|−1
+| |[[Confederation of African Football|CAF]]
+|-bgcolor=#FFFFCC
+|align="left"|{{fb|MYA}}
+|1
+|0
+|1
+|0
+|2
+|2
+|0
+|  |[[Asian Football Confederation|AFC]]
+|-bgcolor=#FFCCCC
+|align="left"|{{fb|NED}}
+|1
+|0
+|0
+|1
+|0
+|2
+|−2
+| |[[UEFA]]
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|NZL}}
+|1
+|1
+|0
+|0
+|3
+|2
+|1
+| |[[Oceania Football Confederation|OFC]]
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|NIC}}
+|1
+|1
+|0
+|0
+|2
+|1
+|1
+| |[[CONCACAF]]
+|-bgcolor=#FFFFCC
+|align="left"|{{fb|NIR}}
+|1
+|0
+|1
+|0
+|1
+|1
+|0
+| |[[UEFA]]
+|-bgcolor=#FFCCCC
+|align="left"|{{fb|NOR}}
+|1
+|0
+|0
+|1
+|1
+|6
+|−5
+|  |[[UEFA]]
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|OMA}}
+|36
+|20
+|9
+|7
+|62
+|30
+|32
+|  |[[Asian Football Confederation|AFC]]
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|PAK}}
+|1
+|1
+|0
+|0
+|5
+|0
+|5
+|  |[[Asian Football Confederation|AFC]]
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|PLE}}
+|13
+|8
+|2
+|3
+|15
+|9
+|6
+| |[[Asian Football Confederation|AFC]]
+|-bgcolor=#FFFFCC
+|align="left"|{{fb|PAN}}
+|3
+|1
+|1
+|1
+|5
+|8
+|−3
+|  |[[CONCACAF]]
+|-bgcolor=#FFFFCC
+|align="left"|{{fb|PAR}}
+|4
+|1
+|2
+|1
+|5
+|6
+|−1
+|  |[[CONMEBOL]]
+|-bgcolor=#FFCCCC
+|align="left"|{{fb|PER}}
+|1
+|0
+|0
+|1
+|0
+|2
+|−2
+|  |[[CONMEBOL]]
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|PHI}}
+|1
+|1
+|0
+|0
+|5
+|0
+|5
+|  |[[Asian Football Confederation|AFC]]
+|-bgcolor=#FFCCCC
+|align="left"|{{fb|POR}}
+|2
+|0
+|0
+|2
+|1
+|6
+|−5
+|  |[[UEFA]]
+|-bgcolor=#FFCCCC
+|align="left"|{{fb|IRL}}
+|3
+|0
+|1
+|2
+|1
+|6
+|–5
+|  |[[UEFA]]
+|-bgcolor=#FFFFCC
+|align="left"|{{fb|RUS}}
+|5
+|1
+|2
+|2
+|7
+|12
+|−5
+|  |[[UEFA]]
+|- bgcolor=#FFCCCC
+|align="left"|{{fb|KSA}}
+|40
+|7
+|15
+|18
+|29
+|53
+|−24
+|  |[[Asian Football Confederation|AFC]]
+|-bgcolor=#FFCCCC
+|align="left"|{{fb|SCO}}
+|1
+|0
+|0
+|1
+|0
+|1
+|−1
+|  |[[UEFA]]
+|-bgcolor=#FFCCCC
+|align="left"|{{fb|SEN}}
+|1
+|0
+|0
+|1
+|1
+|3
+|–2
+| |[[Confederation of African Football|CAF]]
+|-bgcolor=#FFCCCC
+|align="left"|{{fb|SRB}}
+|3
+|1
+|0
+|2
+|3
+|8
+|–5
+|  |[[UEFA]]
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|SGP}}
+|14
+|12
+|1
+|1
+|32
+|5
+|27
+|  |[[Asian Football Confederation|AFC]]
+|-bgcolor=#FFFFCC
+|align="left"|{{fb|SVN}}
+|3
+|1
+|1
+|1
+|2
+|4
+|−2
+|  |[[UEFA]]
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|SRI}}
+|3
+|3
+|0
+|0
+|9
+|0
+|9
+|  |[[Asian Football Confederation|AFC]]
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|SUD}}
+|4
+|3
+|1
+|0
+|9
+|2
+|7
+|  |[[Confederation of African Football|CAF]]
+|-bgcolor=#FFCCCC
+|align="left"|{{fb|SWE}}
+|2
+|0
+|1
+|1
+|2
+|3
+|−1
+|  |[[UEFA]]
+|-bgcolor=#FFFFCC
+|align="left"|{{fb|SUI}}
+|3
+|1
+|2
+|0
+|3
+|2
+|1
+|  |[[UEFA]]
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|SYR}}
+|13
+|5
+|4
+|4
+|19
+|19
+|0
+|  |[[Asian Football Confederation|AFC]]
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|TJK}}
+|5
+|4
+|0
+|1
+|11
+|3
+|8
+| |[[Asian Football Confederation|AFC]]
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|THA}}
+|14
+|6
+|4
+|4
+|18
+|16
+|2
+|  |[[Asian Football Confederation|AFC]]
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|TUN}}
+|1
+|1
+|0
+|0
+|1
+|0
+|0
+|  |[[Confederation of African Football|CAF]]
+|-bgcolor=#FFCCCC
+|align="left"|{{fb|TUR}}
+|1
+|0
+|0
+|1
+|1
+|2
+|−1
+|  |[[UEFA]]
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|TKM}}
+|3
+|3
+|0
+|0
+|8
+|1
+|7
+|  |[[Asian Football Confederation|AFC]]
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|UAE}}
+|36
+|15
+|10
+|11
+|50
+|43
+|7
+|  |[[Asian Football Confederation|AFC]]
+|-bgcolor=#FFCCCC
+|align="left"|{{fb|USA}}
+|1
+|0
+|0
+|1
+|0
+|1
+|−1
+|  |[[CONCACAF]]
+|-bgcolor=#FFCCCC
+|align="left"|{{fb|UZB}}
+|16
+|4
+|3
+|10
+|17
+|30
+|−13
+|  |[[Asian Football Confederation|AFC]]
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|VIE}}
+|6
+|3
+|1
+|2
+|14
+|5
+|9
+|  |[[Asian Football Confederation|AFC]]
+|-bgcolor=#FFCCCC
+|align="left"|{{fb|WAL}}
+|1
+|0
+|0
+|1
+|0
+|1
+|−1
+|  |[[UEFA]]
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|YEM}}
+|9
+|8
+|1
+|0
+|26
+|3
+|23
+|  |[[Asian Football Confederation|AFC]]
+|-bgcolor=#FFCCCC
+|align="left"|{{fb|ZIM}}
+|2
+|0
+|0
+|2
+|1
+|4
+|−3
+|  |[[Confederation of African Football|CAF]]
+|- class="sortbottom"
+!Total 
+| '''658''' || '''265''' || '''165''' || '''268''' || '''924''' || '''806''' || '''+118''' || [[FIFA]]
+|}
+
+==Honours==
+<!-- DO NOT ADD UNOFFICIAL OR FRIENDLY COMPETITIONS IN THE SUMMARY TABLE FOR OFFICIAL HONOURS ONLY - DO NOT ADD PARTICIPATIONS THAT ARE NOT HONOURS -->
+===Continental===
+* '''[[AFC Asian Cup]]'''
+** {{Gold1}} '''Champions (2)''': [[2019 AFC Asian Cup|2019]], [[2023 AFC Asian Cup|2023]]
+
+===Regional===
+* '''[[FIFA Arab Cup|Arab Cup / FIFA Arab Cup]]'''<sup>'''1'''</sup>
+** {{Silver2}} Runners-up (1): [[1998 Arab Cup|1998]]
+** {{Bronze3}} Third place (1): [[2021 FIFA Arab Cup|2021]]
+* '''[[Arabian Gulf Cup]]'''
+** {{Gold1}} '''Champions (3)''': [[11th Arabian Gulf Cup|1992]], [[17th Arabian Gulf Cup|2004]], [[22nd Arabian Gulf Cup|2014]]
+** {{Silver2}} Runners-up (4): [[7th Arabian Gulf Cup|1984]], [[10th Arabian Gulf Cup|1990]], [[13th Arabian Gulf Cup|1996]], [[15th Arabian Gulf Cup|2002]]
+** {{Bronze3}} Third place (2): [[4th Arabian Gulf Cup|1976]], [[16th Arabian Gulf Cup|2003–04]]
+* '''[[WAFF Championship]]'''
+** {{Gold1}} '''Champions (1)''': [[2013 WAFF Championship|2013]]
+
+===Friendly===
+* '''[[2018 International Friendship Championship|International Friendship Championship]] (1)''': [[2018 International Friendship Championship|2018]]
+
+===Awards===
+* '''[[AFC Asian Cup awards#Fair Play Award|AFC Asian Cup Fair Play Award]] (1)''': 2023
+* '''[[Arabian Gulf Cup|Arabian Gulf Cup Fair Play Award]] (1)''': 2019
+
+===Summary===
+{| class="wikitable" width=30% style="font-size:90%; text-align:center;"
+|-
+!Competition !!{{Gold1}} !!{{Silver2}} !!{{Bronze3}} !!Total
+|-
+|align=left|[[AFC Asian Cup]]
+|2||0||0||2
+|-
+|align=left|[[FIFA Arab Cup]]
+|0||0||1||1
+|-
+!Total!!2!!0!!1!!3
+|}
+;
+==See also==
+*[[Sport in Qatar]]
+*[[Football in Qatar]]
+*[[Qatar Football Association]]
+*[[Qatar national under-23 football team]] (Qatar Olympic team)
+*[[Qatar national under-20 football team]]
+*[[Qatar national under-17 football team]]
+
+==Notes==
+
+# Official regional competition organized and recognized by FIFA since [[2021 FIFA Arab Cup|2021]]. Previous editions were organized by [[Union of Arab Football Associations|UAFA]].
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+{{Commons category}}
+* [https://www.fifa.com/about-fifa/associations/QAT Qatar] at [[FIFA]]
+* [https://www.the-afc.com/en/west/qatar.html Qatar] at [[Asian Football Confederation|AFC]]
+* [https://www.national-football-teams.com/country/150/2022/Qatar.html Qatar] – NFT profile
+
+{{AFC Asian Cup winners}}
+{{Arabian Gulf Cup winners}}
+{{Qatar national football team}}
+{{Navboxes
+|title= Qatar squads
+|bg= #8A1538
+|fg= white
+|bordercolor=gainsboro
+|list1=
+{{Qatar football squad 1984 Summer Olympics}}
+{{Qatar squad 2000 AFC Asian Cup}}
+{{Qatar squad 2004 AFC Asian Cup}}
+{{Qatar squad 2007 AFC Asian Cup}}
+{{Qatar squad 2011 AFC Asian Cup}}
+{{Qatar squad 2015 AFC Asian Cup}}
+{{Qatar squad 2019 AFC Asian Cup}}
+{{Qatar squad 2019 Copa América}}
+{{Qatar squad 2021 CONCACAF Gold Cup}}
+{{Qatar squad 2022 FIFA World Cup}}
+{{Qatar squad 2023 CONCACAF Gold Cup}}
+{{Qatar squad 2023 AFC Asian Cup}}
+{{Qatar squad 2026 FIFA World Cup}}
+}}
+{{Qatar national football team managers}}
+{{Navboxes
+| title = Qatar AFC Asian Cup finalists
+| list  = 
+{{1980 AFC Asian Cup finalists}}
+{{1984 AFC Asian Cup finalists}}
+{{1988 AFC Asian Cup finalists}}
+{{1992 AFC Asian Cup finalists}}
+{{2000 AFC Asian Cup finalists}}
+{{2004 AFC Asian Cup finalists}}
+{{2007 AFC Asian Cup finalists}}
+{{2011 AFC Asian Cup finalists}}
+{{2015 AFC Asian Cup finalists}}
+{{2019 AFC Asian Cup finalists}}
+{{2022 FIFA World Cup finalists}}
+{{2023 AFC Asian Cup finalists}}
+{{2026 FIFA World Cup finalists}}
+}}
+{{Football in Qatar}}
+{{UAFA Football}}
+{{AFC teams}}
+{{National sports teams of Qatar}}
+
+{{DEFAULTSORT:Qatar National Football Team}}
+[[Category:Qatar national football team| ]]
+[[Category:AFC Asian Cup–winning countries]]
+[[Category:Asian national association football teams]]
+[[Category:National sports teams established in 1970]]
+[[Category:1970 establishments in Qatar]]

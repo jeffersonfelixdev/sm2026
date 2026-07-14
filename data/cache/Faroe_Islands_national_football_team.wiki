@@ -1,0 +1,2359 @@
+{{Short description|Association football team}}
+{{About|the men's team|the women's team|Faroe Islands women's national football team}}
+{{Use British English|date = June 2026}}
+{{Infobox national football team
+| Name                  = Faroe Islands
+| Badge                 = Faroe Islands Football Association logo.svg
+| Badge_size            = 155px
+| FIFA Trigramme        = FRO
+| Nickname              = ''Landsliðið'' (The National Team)
+| Association           = [[Faroe Islands Football Association|Fótbóltssamband Føroya]] (FSF)
+| Confederation         = [[UEFA]] (Europe)
+| Coach                 = [[Eyðun Klakstein]] 
+| Captain               = [[Hallur Hansson]]
+| Most caps             = [[Jóan Símun Edmundsson]] (100)
+| Top scorer            = [[Rógvi Jacobsen]]<br>[[Klæmint Olsen]] (10)
+| Home Stadium          = [[Tórsvøllur]]
+| FIFA Rank             = {{FIFA World Rankings|FRO}}
+| FIFA max              = 74
+| FIFA max date         = July 2015, October 2016
+| FIFA min              = 198
+| FIFA min date         = September 2008
+| Elo Rank              = {{World Football Elo Ratings|Faroe Islands}}
+| Elo max               = 136
+| Elo max date          = March 2018
+| Elo min               = 173
+| Elo min date          = 4 June 2008, 10 September 2008
+| pattern_la1           = _fro26h
+| pattern_b1            = _fro26h
+| pattern_ra1           = _fro26h
+| pattern_sh1           = _fro26h
+| pattern_so1           = 
+| leftarm1              = FFFFFF
+| body1                 = FFFFFF
+| rightarm1             = FFFFFF
+| shorts1               = 0000E0
+| socks1                = FFFFFF
+| pattern_la2           = _fro26a
+| pattern_b2            = _fro26a
+| pattern_ra2           = _fro26a
+| pattern_sh2           = 
+| pattern_so2           = 
+| leftarm2              = 000055
+| body2                 = 000055
+| rightarm2             = 000055
+| shorts2               = 000055
+| socks2                = 000055
+| pattern_la3           = 
+| pattern_b3            = 
+| pattern_ra3           = 
+| pattern_sh3           = 
+| pattern_so3           = 
+| leftarm3              = 
+| body3                 = 
+| rightarm3             = 
+| shorts3               = 
+| socks3                = 
+| First game            = {{fb|FRO}} 1–0 {{fb-rt|CAN}}<br>([[Tórshavn]], [[Faroe Islands]]; 2 July 1988)
+| Largest win           = {{fb|FRO}} 5–1 {{fb-rt|LIE}}<br>([[Tórshavn]], [[Faroe Islands]]; 7 June 2021)<br>{{fb|FRO}} 4–0 {{fb-rt|LIE}}<br>([[Marbella]], [[Spain]]; 22 March 2024) <br>{{fb|FRO}} 4–0 {{fb-rt|MNE}}<br>([[Tórshavn]], [[Faroe Islands]]; 9 October 2025)
+| Largest loss          = ''Unofficial''<br>{{fb|ISL}} 9–0 {{fb-rt|FRO}}<br>([[Keflavík]], [[Iceland]]; 10 July 1985)<br>''Official''<br>{{fb|YUG}} 7–0 {{fb-rt|FRO}}<br>([[Belgrade]], [[Socialist Federal Republic of Yugoslavia|Yugoslavia]]; 16 May 1991)<br>{{fb|ROU}} 7–0 {{fb-rt|FRO}}<br>([[Bucharest]], [[Romania]]; 6 May 1992)<br>{{fb|FRO}} 0–7 {{fb-rt|NOR}}<br>([[Toftir]], [[Faroe Islands]]; 11 August 1993)<br>{{fb|FRO}} 1–8 {{fb-rt|FRY}}<br>([[Toftir]], [[Faroe Islands]]; 6 October 1996)
+| Regional name         = [[Baltic Cup (football)|Baltic Cup]]
+| Regional cup apps     = 2
+| Regional cup first    = [[2024 Baltic Cup|2024]]
+| Regional cup best     = Third place ([[2026 Baltic Cup|2026]])
+| 2ndRegional name      = [[Football at the Island Games|Island Games]]
+| 2ndRegional cup first = [[1989 Island Games|1989]]
+| 2ndRegional cup apps  = 2
+| 2ndRegional cup best  = '''Champions''' ([[1989 Island Games|1989]], [[1991 Island Games|1991]])
+| 3rdRegional cup apps  = 3
+| 3rdRegional name      = [[Greenland Cup]]
+| 3rdRegional cup first = [[Greenland Cup#1980|1980]]
+| 3rdRegional cup best  = '''Champions''' ([[Greenland Cup#1983|1983]], [[Greenland Cup#1984|1984]])
+}}
+[[File:FIFA WC-qualification 2014 - Austria vs Faroe Islands 2013-03-22 (01).jpg|thumb|right|Faroe Islands national football team in March 2013]]
+[[File:Faroe Islands vs Italy 0-1 on 2 September 2011.jpg|thumb|Faroe Islands playing against Italy on 2 September 2011. The match ended in a 1–0 defeat.]]
+
+The '''Faroe Islands national football team''' ({{langx|fo|Føroyska fótbóltsmanslandsliðið}}) represents the [[Faroe Islands]] in men's international [[association football|football]], and is governed by the [[Faroe Islands Football Association]] (FSF). The FSF became a member of [[FIFA]] in 1988 and [[UEFA]] in 1990 and represents the fourth-smallest UEFA country by population.<ref>{{Cite web|url=https://www.fifa.com/associations/association=fro/index.html|archive-url=https://web.archive.org/web/20070606210729/http://www.fifa.com/associations/association=fro/index.html|url-status=dead|archive-date=June 6, 2007|title=Member Association - Faroe Islands|website=FIFA.com|language=en-GB|access-date=2018-08-19}}</ref>
+
+The team has never advanced to the finals of the [[FIFA World Cup]] or [[UEFA European Football Championship|UEFA European Championship]]. They took part in the [[Football at the Island Games|Island Games]] in 1989 and 1991 and won both tournaments. The team also took part in the [[2000–01 Nordic Football Championship|Nordic Football Championship]] for the first time in [[2000–01 Nordic Football Championship|2000–01]], the last time the competition was played. In 2024, they made their debut in the [[Baltic Cup (football)|Baltic Cup]] as a guest entrant and placed fourth. In the Faroe Islands, the team is known as the ''landsliðið''. Home matches are played at [[Tórsvøllur]].
+
+==History==
+
+===Early years (1930–1988)===
+From 1930 to 1988 before joining FIFA, the Faroe Islands gameplay was limited to national friendly matches against [[Iceland national football team|Iceland]], [[Shetland national football team|Shetland]], [[Orkney national football team|Orkney Islands]], [[Greenland national football team|Greenland]] and [[Denmark national under-21 football team|Denmark U-21]]. None of these matches was sanctioned by [[FIFA]], nor the [[Faroe Islands Football Association]].<ref name="RSSSF">{{cite web|last=Courtney|first=Barrie|title=Faroe Islands&nbsp;– List of International Matches|url=https://www.rsssf.org/tablesf/far-intres.html|access-date=3 November 2010|website=[[RSSSF]]|date=16 May 2008|archive-date=28 September 2022|archive-url=https://web.archive.org/web/20220928215543/https://www.rsssf.org/tablesf/far-intres.html|url-status=live}}</ref>
+
+The Faroe Islands tied [[Iceland football team|Iceland]] for the most successful team at the friendly [[Greenland Cup]] tournament with two wins back-to-back in 1983 and 1984.<ref>{{Cite web|url=https://www.rsssf.org/tablesf/far-intres.html|title=Faroe Islands - List of International Matches|website=[[RSSSF]]|access-date=2018-08-19|archive-date=2022-09-28|archive-url=https://web.archive.org/web/20220928215543/https://www.rsssf.org/tablesf/far-intres.html|url-status=live}}</ref><ref>{{Cite web|url=https://www.rsssf.org/tablesg/groenlandcup.html|title=Greenland Cups 1980-84|website=[[RSSSF]]|access-date=2018-08-19|archive-date=2022-12-12|archive-url=https://web.archive.org/web/20221212195521/https://www.rsssf.org/tablesg/groenlandcup.html|url-status=live}}</ref>
+
+===International membership and the miracle of Landskrona (1988–1993)===
+{{See also|Faroe Islands v Austria (UEFA Euro 1992 qualifying)}}
+The FSF gained [[FIFA]] membership on 2 July 1988 and the team's first official victory was a 1–0 win in a friendly match against [[Canada men's national soccer team|Canada]] the next year. The next year, the FSF joined the [[UEFA]] on 18 April 1990.<ref>{{cite web|title=Faroe Islands at UEFA.com|date=9 July 2018|url=https://www.uefa.com/nationalassociations/fro/|publisher=UEFA|access-date=10 November 2020|archive-date=2 November 2021|archive-url=https://web.archive.org/web/20211102202219/https://www.uefa.com/insideuefa/member-associations/fro/|url-status=live}}</ref>
+
+The Faroe Islands participated in two [[Football at the Island Games|Island Games]], winning both tournaments in [[Football at the 1989 Island Games|1989]] and [[Football at the 1991 Island Games|1991]]. They never entered the tournament again, as the opponent teams were considered too weak a match for the Faroese side.
+
+The Faroe Islands made football history on 12 September 1990 when they beat [[Austria national football team|Austria]] [[Faroe Islands v Austria (UEFA Euro 1992 qualifying)|1–0]] in their first-ever competitive international.<ref>{{cite web|url=http://www.fsf.fo/Default.aspx?ID=93&Action=1&NewsId=15&M=NewsV2&PID=146|publisher=FSF|title=Føroyar&nbsp;– Eysturríki 1–0|access-date=14 September 2013|language=fo|archive-date=23 October 2013|archive-url=https://web.archive.org/web/20131023104209/http://www.fsf.fo/Default.aspx?ID=93&Action=1&NewsId=15&M=NewsV2&PID=146|url-status=dead}}</ref> The game, a [[1992 UEFA European Football Championship|Euro 92]] qualifier, was played in [[Landskrona]], [[Sweden]] because there were no grass pitches on the Faroe Islands at the time. [[Torkil Nielsen]]—a chess player and salesman for his local building company—scored the lone game-winning goal.<ref>{{cite web|url=http://www.fsf.fo/Default.aspx?ID=1048|title=The Faroe Islands National Team|work=fsf.fo|access-date=10 March 2017|archive-date=16 June 2017|archive-url=https://web.archive.org/web/20170616231645/http://www.fsf.fo/Default.aspx?ID=1048|url-status=dead}}</ref> 32-year-old national coach [[Páll Guðlaugsson]] became a folk hero overnight and is today remembered by his players as a fearless character who believed, against the odds, that the Faroe Islands could get a result against their bigger nation opponents. In his autobiography, national goalkeeper [[Jens Martin Knudsen (footballer)|Jens Martin Knudsen]] revealed that Guðlaugsson gave a stirring pre-match speech that boosted the team's confidence prior to the match against the Austrians. Guðlaugsson told the players, "Think of the Faroese flag. Your flag. Take it with you on that field. Throw yourself into the tackles against those arrogant Austrians with one mission—to win the game for your nation. Tonight you pay back your childhood home. You have the opportunity now and it is an irreparable blow if you don't seize it!"<ref name="fsf.fo">{{cite web|url=http://www.fsf.fo/Default.aspx?ID=1079|title=National Coaches|work=fsf.fo|access-date=10 March 2017|archive-date=4 September 2017|archive-url=https://web.archive.org/web/20170904012701/http://www.fsf.fo/Default.aspx?ID=1079|url-status=dead}}</ref> The team's underdog win remains the story most often retold about Faroese football and sports in the Faroe Islands. The Faroese victory was rated number 10 of all-time football greatest upsets by American sports magazine Soccerphile.<ref>{{cite web|url=http://www.soccerphile.com/soccerphile/news/greatest-upsets.html|title=Football's 20 Greatest Upsets - Soccerphile|work=soccerphile.com|access-date=10 March 2017|archive-date=4 September 2017|archive-url=https://web.archive.org/web/20170904015310/http://www.soccerphile.com/soccerphile/news/greatest-upsets.html|url-status=live}}</ref>
+
+One month later, the Faroe Islands lost 4–1 to [[Denmark national football team|Denmark]] at [[Telia Parken|Parken, Copenhagen]]. The same team got another good result in the qualifying tournament on 1 May 1991, when they drew 1–1 against Northern Ireland at [[Windsor Park]]. However, the Faroe Islands subsequently lost the remaining five matches of the tournament.
+
+===The Allan Simonsen years (1994–2001)===
+Since Landskrona, Faroese football continued its upward trajectory, regularly getting good results against stronger teams. In 1994—[[Allan Simonsen]] was appointed the new coach for the Faroese national team. Allan Simonsen spent seven years at the team's helm and is remembered as the coach who lifted the Faroese amateurs to a more professional level of play.
+
+As a coach, he asked the FSF to lengthen the season and the Faroese clubs to screen players for talent. Both requests were granted and have become an essential part of the Faroese national team's success at the highest level of the sport.
+
+Under the guidance of Allan Simonsen, the Faroe Islands won two [[1996 UEFA European Championship (qualifying)|Euro 1996 qualifiers]] matches against [[San Marino national football team|San Marino]] 3–0 and 3–1. Two years later, in the [[1998 FIFA World Cup qualification (UEFA)|1998 World Cup Qualifiers]], the team won two 2–1 matches against Malta. In the  [[2000 UEFA European Championship (qualifying)|Euro 2000 qualifiers]], they played three draws—[[Lithuania national football team|Lithuania]] 0–0, [[Scotland national football team|Scotland]] 1–1, and [[Bosnia national football team|Bosnia]] 2–2. In 2002, the team played a 2–2 draw against [[Slovenia national football team|Slovenia]] for their most successful [[2002 FIFA World Cup qualification (UEFA)|2002 World Cup Qualifying]] matches until 2018.<ref name="fsf.fo" />
+
+===The Henrik Larsen years (2002–2005)===
+The role was given to former Danish international and [[UEFA Euro 1992]]-winning player, [[Henrik Larsen]], who succeeded his countryman [[Allan Simonsen]] as head coach of the Faroe Islands national team.
+
+On 7 September 2002, in the first match with Larsen as a coach, an experienced Faroese team played Scotland at home in a [[Euro 2004 qualifying|Euro 2004 qualifier]]. Though the Faroe Islands led Scotland 2–0 at halftime, the game ended in a 2–2 draw.
+
+In the same qualifying tournament on 16 October 2002 at the [[HDI-Arena]]  in [[Hannover]], the Faroe Islands were close to a big upset against [[Germany national football team|Germany.]] Unfortunately for the Faroese, the post denied them a draw in the dying seconds of the match, and the game ended 2–1 for the German side. However, the Faroe Islands managed one more draw against [[Cyprus national football team|Cyprus]] on 9 October 2004 in the [[2006 FIFA World Cup qualification (UEFA)|2006 World Cup Qualifying]] match.<ref name="fsf.fo"/>
+
+===The Jógvan Martin Olsen years (2006–2008)===
+In 2006, the Faroe Islands finally got their first Faroese coach in [[Jógvan Martin Olsen]] from [[Toftir]], who had served as an assistant coach for the Faroese national team for nine years prior to his appointment. That same year, many experienced players who had been regulars on the national squad for years retired from the team, giving Olsen's the task of building a new squad with a new generation of players. The team's turnover and inexperience affected their results, and the Faroe Islands got zero points in the [[Euro 2008 qualifying|Euro 2008 qualifier]], their first qualification match under Olsen as head coach.
+
+However, in the 2 June 2007 game against [[Italy national football team|Italy]], the Faroes netted a 77th-minute goal and surprisingly took the sluggish world champions to the limit after a 2–1 loss. Overall, the Euro 2008 qualifying campaign was disastrous for the young team, as they conceded 43 goals and scored only four (all of which were scored by the same player, [[Rógvi Jacobsen]]), and half of which were against Italy en route to losing all twelve matches, of which three of were 6–0 defeats.
+
+During the summer of 2008, the Faroese side played two friendlies. In the 4–3 loss to [[Estonia national football team|Estonia]] on 1 June 2008, and the team is credited with their only official international match in which they scored 3 goals but lost. Later they lost 5–0 to [[Portugal national football team|Portugal]].
+
+Olsen remained as a coach for the first four qualification matches in the [[2010 FIFA World Cup qualification (UEFA)|2010 World Cup Qualifiers]]. After announcing the squad against the Austrian national team, Olsen announced that he was stepping down after three years in charge. Before this departure, he finally managed to get a big result with the team on 11 October 2008 against Austria. The game ended 1–1, giving the Faroe Islands their first qualifying point in four years.
+
+===The Brian Kerr years (2009–2011)===
+On 22 March 2009, the Faroese people witnessed their national team beat the [[Iceland national football team|Icelandic national team]] 2–1 in a friendly match, their first-ever victory over Iceland. Caretaker Heðin Askham managed the Faroese team in this match.
+
+On 5 April 2009, former [[Republic of Ireland national football team|Republic of Ireland]] manager [[Brian Kerr (Irish football manager)|Brian Kerr]] was appointed as head coach of the team.<ref>{{cite web|url=https://news.bbc.co.uk/sport2/hi/football/internationals/7985564.stm|title=Kerr takes on Faroe Islands post|date=2009-04-06|work=[[BBC Sport]]|access-date=2009-04-06|archive-date=2018-11-24|archive-url=https://web.archive.org/web/20181124011228/http://news.bbc.co.uk/sport2/hi/football/internationals/7985564.stm|url-status=live}}</ref> With his charisma and Irish humour, he soon became a favourite among the Faroese football fans.
+
+On 9 September 2009, the Faroe Islands recorded their first competitive win since the [[2002 FIFA World Cup qualification (UEFA)|2002 World Cup qualification stage]], beating [[Lithuania national football team|Lithuania]] 2–1.<ref>{{cite web|url=http://soccernet.espn.go.com/report?id=236532&cc=5739|title=Eight years of hurt ends|date=2009-09-09|work=ESPN|access-date=2009-11-17|archive-date=2011-06-04|archive-url=https://web.archive.org/web/20110604103257/http://soccernet.espn.go.com/report?id=236532&cc=5739|url-status=dead}}</ref>
+
+On 11 August 2010, the Faroe Islands came close to an away win against [[Estonia national football team|Estonia]] during the [[UEFA Euro 2012 qualifying|UEFA Euro 2012 qualifiers]]. The Faroes took the lead in the first half with a goal by [[Jóan Símun Edmundsson]], but Estonia managed to turn the match around with two goals in stoppage time.
+
+Two months later, on 12 October 2010, the Faroe Islands drew 1–1 against higher-ranked [[Northern Ireland national football team|Northern Ireland]] at Svangaskarð Stadion, [[Toftir]]. Midfielder [[Christian Holst]] scored for the Faroes in the 60th minute before [[Kyle Lafferty]] equalised 16 minutes later, earning a point for both teams.
+
+On 7 June 2011, the Faroe Islands defeated [[Estonia national football team|Estonia]] 2–0 at [[Svangaskarð]]. Captain [[Fróði Benjaminsen]] opened the scoring from the penalty spot in the 43rd minute before [[Arnbjørn Hansen]]  secured the win with a follow-up after another Benjaminsen penalty. It was the Faroe Islands' first [[UEFA European Football Championship|UEFA Euro]] qualification win since [[UEFA Euro 1996 qualifying|1995]].
+
+The Faroe Islands were drawn against Kerr's former employers, the [[Republic of Ireland national football team|Republic of Ireland]], in [[2014 FIFA World Cup qualification&nbsp;– UEFA Group C|Group C]] for the [[2014 FIFA World Cup qualification (UEFA)|2014 World Cup Qualifying]]. The other teams in the group were [[Germany national football team|Germany]], [[Sweden men's national football team|Sweden]], [[Austria national football team|Austria]], and [[Kazakhstan national football team|Kazakhstan]].
+
+The players liked the Irishman and they described him as a very motivating figure. His pre-match speeches were full of passion and gave the players confidence to go out and play against the very best in Europe.<ref name="fsf.fo" /> However, on 26 October 2011, the [[Faroe Islands Football Association]] (FSF) announced that "it was not possible to agree on a new contract with Brian Kerr".<ref>{{cite web|date=2011-10-26|title=Brian Kerr steps down as coach for the Faroese National Team|url=https://www.uefa.com/uefaeuro/history/news/0254-0d7d3f96e6da-91737f0e55bc-1000--kerr-to-leave-faroe-islands-post/|access-date=2011-10-26|work=[[UEFA]]|archive-date=2023-09-08|archive-url=https://web.archive.org/web/20230908132829/https://www.uefa.com/uefaeuro/history/news/0254-0d7d3f96e6da-91737f0e55bc-1000--kerr-to-leave-faroe-islands-post/|url-status=live}}</ref> Brian Kerr stepped down as coach after unsuccessful negotiations with the FSF.
+
+===The Lars Olsen years and double Greek victory (2011–2019)===
+[[File:Faroe Islands - Greece, 13 June 2015.JPG|thumb|Faroe Islands defeated Greece 2–1 on 13 June 2015.]]
+On 8 November 2011, the Faroese Football Association announced that an agreement had been reached with the 50-year-old former [[Denmark national football team|Denmark]] captain and European Champion from 1992, [[Lars Olsen]], to become the next coach of the Faroe Islands and the third Dane at the helm, after [[Allan Simonsen]] and [[Henrik Larsen]].<ref>{{cite web|url=https://www.uefa.com/uefaeuro/history/news/0254-0d7d3f96ddbd-296f49a4b8bf-1000--olsen-takes-up-faroe-islands-challenge/|title=Lars Olsen becomes coach of the Faroe Islands|date=2011-11-08|work=[[UEFA]]|access-date=2011-11-08|archive-date=2023-09-08|archive-url=https://web.archive.org/web/20230908132832/https://www.uefa.com/uefaeuro/history/news/0254-0d7d3f96ddbd-296f49a4b8bf-1000--olsen-takes-up-faroe-islands-challenge/|url-status=live}}</ref>
+
+On 1 March 2014, for the first time in the Faroe Islands' history, the team scored four goals in a match. In what was only [[Gibraltar national football team|Gibraltar]]'s second match as an official UEFA member, the hosts lost their first-ever home match by the score of 1–4. Faroe midfielder Christian Holst scored twice. On 11 October 2013, Olsen got his first point as the Faroe Islands head coach in a 1–1 draw against [[Kazakhstan national football team|Kazakhstan]].
+
+On 25 September 2014, Faroese football lost one of its most promising football players, when 22-year-old [[Gunnar Zachariasen]] died in a tragic accident on board a Greenlandic fishing trawler, which had docked in Tórshavn in order to unload its cargo. The accident happened when a EUR-pallet stacked with frozen fish fell on top of Gunnar Zachariasen who died instantly. According to Rúni Nolsøe, Zachariasen's coach at EB/Streymur, Faroese football had lost a very good football player. He played 11 caps and scored 4 goals for the U21 Faroe Islands team.<ref>{{cite web |url=https://www.uefa.com/insideuefa/member-associations/FRO/news/0219-0f8a6ac141ac-ab34316a5e59-1000--faroe-islands-prospect-zachariasen-mourned/ |title=Faroe Islands prospect Zachariasen mourned {{!}} Inside UEFA |access-date=2021-09-10 |archive-date=2021-09-10 |archive-url=https://web.archive.org/web/20210910032413/https://www.uefa.com/insideuefa/member-associations/FRO/news/0219-0f8a6ac141ac-ab34316a5e59-1000--faroe-islands-prospect-zachariasen-mourned/ |url-status=dead }}</ref>
+
+On 14 November 2014, the Faroe Islands caused a major international football upset by defeating host [[Greece national football team|Greece]] [[2014 Greece v Faroe Islands football match|0–1]] during the [[Euro 2016 qualifiers]].<ref>{{cite web|url=https://www.uefa.com/european-qualifiers/news/0253-0d7f8196b8d3-2657ac2a08f2-1000--the-faroes-stun-greece-with-brilliant-away-win/|publisher=UEFA|title=The Faroes stun Greece with brilliant away win|date=14 November 2014|access-date=15 November 2014|archive-date=10 September 2018|archive-url=https://web.archive.org/web/20180910095544/https://www.uefa.com/uefaeuro/season=2016/matches/round=2000446/match=2013895/postmatch/report/index.html#faroes+greece|url-status=live}}</ref><ref>{{cite web|url=http://faroefootball.blogspot.com.br/2014/11/historico-ilhas-faroe-vence-grecia-fora.html|publisher=Faroe Football|title=HISTÓRICO! Ilhas Faroe vence Grécia fora de casa|date=14 November 2014|language=pt|access-date=15 November 2014|archive-date=4 March 2016|archive-url=https://web.archive.org/web/20160304052842/http://faroefootball.blogspot.com.br/2014/11/historico-ilhas-faroe-vence-grecia-fora.html|url-status=live}}</ref> [[The Guardian]] reckoned the win as the biggest upset ever in terms of [[FIFA Rankings]]; Greece were ranked 18th, the Faroe Islands 187th, a 169-place difference.<ref>{{cite web | url=https://www.theguardian.com/football/2014/nov/19/the-knowledge-faroe-islands-biggest-shock-ever | title=Is the Faroe Islands' win over Greece the biggest shock of all time? | work=[[The Guardian]] | date=14 November 2014 | access-date=27 May 2015 | archive-date=28 November 2016 | archive-url=https://web.archive.org/web/20161128141420/https://www.theguardian.com/football/2014/nov/19/the-knowledge-faroe-islands-biggest-shock-ever | url-status=live }}</ref>
+
+On 13 June 2015, the Faroe Islands stunned the world yet again by defeating the same Greek side in their second meeting of the Euro 2016 qualifying tournament [[2015 Faroe Islands v Greece football match|by a score of 2–1]].<ref>{{cite news|url=https://www.theguardian.com/football/2015/jun/14/faroes-humiliate-greece-double-euro-2016-qualifying|title=Faroes humiliate Greece by sealing double in Euro 2016 qualifying|newspaper=The Guardian|date=13 June 2015|access-date=10 March 2017|archive-date=30 November 2016|archive-url=https://web.archive.org/web/20161130045531/https://www.theguardian.com/football/2015/jun/14/faroes-humiliate-greece-double-euro-2016-qualifying|url-status=live}}</ref><ref>{{cite web|url=https://www.uefa.com/uefaeuro/match/2013958--faroe-islands-vs-greece/|title=UEFA EURO 2016 - Matches |work=[[UEFA]]|access-date=10 March 2017|archive-date=31 July 2015|archive-url=https://web.archive.org/web/20150731211030/http://www.uefa.com/uefaeuro/qualifiers/season=2016/matches/round=2000446/match=2013958/postmatch/quotes/|url-status=live}}</ref> These two wins saw the national team moving from 187th place to 74th place in the FIFA rankings. The team eventually finished fifth in their group with six points, without conceding more than three goals in a match.
+
+On 29 March 2016, the Faroe Islands beat [[Liechtenstein national football team|Liechtenstein]] 3–2 in a friendly match in [[Marbella]], [[Spain]]. The opposition scored two late goals in stoppage time, but this was the Faroe Islands' fourth victory over Liechtenstein since 2000.<ref>{{cite web|url=http://www.in.fo/news-detail/news/beinleidis-liktinstein-foeroyar/|title=Føroyar fingu fyri fjórðu ferð fult ímóti Liktinstein|work=in.fo|access-date=10 March 2017|archive-date=20 September 2016|archive-url=https://web.archive.org/web/20160920104721/http://www.in.fo/news-detail/news/beinleidis-liktinstein-foeroyar/|url-status=dead}}</ref>
+
+On 6 September 2016, the Faroe Islands draw 0–0 against [[Hungary national football team|Hungary]] in a [[2018 FIFA World Cup qualification (UEFA)|2018 World Cup Qualifying]] match at [[Tórsvøllur]].
+
+On 10 October 2016, the Faroe Islands defeated Latvia 2–0 in a [[2018 FIFA World Cup qualification (UEFA)|2018 World Cup Qualifying]] match.<ref>{{cite news|url=https://www.bbc.co.uk/sport/football/37591202|title=Latvia v Faroe Islands|work=BBC Sport|date=7 October 2016|access-date=10 March 2017|archive-date=11 October 2016|archive-url=https://web.archive.org/web/20161011145017/http://www.bbc.co.uk/sport/football/37591202|url-status=live}}</ref>
+
+On 3 September 2017, the Faroe Islands defeated Andorra 1–0 in a [[2018 FIFA World Cup qualification (UEFA)|2018 World Cup Qualifying]] match on home soil, beating their own record which was 7 points in a Euro or World Cup qualification; after the victory over Andorra the Faroe Islands reached a record nine points in all competitions.<ref name="Andorra_2017">{{cite web|url=http://www.fsf.fo/Default.aspx?ID=208&Action=1&NewsId=2283&PID=487|title=Fantastiskur sigur á Andorra|date=3 September 2017|publisher=Faroese Football Association|language=fo|access-date=5 September 2017|archive-date=5 September 2017|archive-url=https://web.archive.org/web/20170905094338/http://www.fsf.fo/Default.aspx?ID=208&Action=1&NewsId=2283&PID=487|url-status=live}}</ref>
+
+On 18 November 2019, Lars Olsen led his team to a 0–3 loss against [[Sweden men's national football team|Sweden]], in his last international match as the manager for the Faroe Islands. He's regarded as the most successful manager in the nation's 29-year history, as members of [[UEFA]] and [[FIFA]]. In the same match, captain [[Atli Gregersen]] retired from international duties as well, after winning 59 caps for the national team.<ref>{{cite web |url=https://kvf.fo/netvarp/sv/2019/09/30/19093032larstakkarfyrisegnet |title=Video: Lars Olsen takkar fyri seg {{!}} Kringvarp Føroya |access-date=2019-12-16 |archive-date=2019-12-16 |archive-url=https://web.archive.org/web/20191216104218/https://kvf.fo/netvarp/sv/2019/09/30/19093032larstakkarfyrisegnet |url-status=live }}</ref><ref>{{cite web |url=https://www.in.fo/itrottur/sport-detail/news/tidindafundur-atli-gregersen-takkar-fyri-seg/ |url-status=dead |archive-url=https://web.archive.org/web/20191216104207/https://www.in.fo/itrottur/sport-detail/news/tidindafundur-atli-gregersen-takkar-fyri-seg/ |archive-date=2019-12-16 |title=in.fo - fyrst og fremst}}</ref>
+
+===The Håkan Ericson years (2019–2024)===
+On 16 December 2019, the [[Faroe Islands Football Association]] announced they had signed a four-year deal with Swedish coach [[Håkan Ericson]].<ref>{{cite web |url=https://www.in.fo/itrottur/sport-detail/news/her-er-nyggi-landslidsvenjarin/ |url-status=dead |archive-url=https://web.archive.org/web/20191216121730/https://www.in.fo/itrottur/sport-detail/news/her-er-nyggi-landslidsvenjarin/ |archive-date=2019-12-16 |title=in.fo - fyrst og fremst}}</ref>
+
+On 3 September 2020, in what would be his first match in charge, Håkan Ericson's side won 3–2 against [[Malta national football team|Malta]]<ref name="in.fo">{{cite web |url=https://www.in.fo/itrottur/sport-detail/news/brandur-og-lava-settu-eld-i/ |url-status=dead |archive-url=https://web.archive.org/web/20201202212359/https://www.in.fo/itrottur/sport-detail/news/brandur-og-lava-settu-eld-i/ |archive-date=2020-12-02 |title=in.fo - fyrst og fremst}}</ref> in a [[2020-21 UEFA Nations League]] match. Only three days later, in what would be the 200th competitive match for Faroe Islands since joining FIFA and UEFA back in 1988, they recorded their second win in a row with a 1–0 win over [[Andorra national football team|Andorra]],<ref name="ReferenceA">{{cite web |url=https://www.in.fo/itrottur/sport-detail/news/sannfoerandi-sigur-a-runda-degnum/ |url-status=dead |archive-url=https://web.archive.org/web/20201202211621/https://www.in.fo/itrottur/sport-detail/news/sannfoerandi-sigur-a-runda-degnum/ |archive-date=2020-12-02 |title=in.fo - fyrst og fremst}}</ref> their first double victory since a 2–1 win against [[Malta national football team|Malta]] on 8 June 1997.<ref>{{cite web |url=https://kvf.fo/netvarp/sv/2020/09/03/foroyarmalta1997 |title=1997: Dreymamál frá Toda {{!}} Kringvarp Føroya |access-date=2020-10-07 |archive-date=2020-10-14 |archive-url=https://web.archive.org/web/20201014082627/https://kvf.fo/netvarp/sv/2020/09/03/foroyarmalta1997 |url-status=live }}</ref>
+
+On 17 November 2020, Ericson's side won their first-ever competitive tournament, after a 1–1 draw against [[Malta national football team|Malta]] secured them the top spot and promotion from the [[2020-21 UEFA Nations League|2020–21 UEFA Nations League D]], followed by a new record of 12 points in all competitions, beating the previous [[2018 FIFA World Cup qualification (UEFA)]] record at 9 points.<ref name="ReferenceB">https://www.in.fo/itrottur/sport-detail/news/foeroyingar-fegnast-um-uppflytingina/ {{Dead link|date=February 2022}}</ref>
+
+On 7 June 2021, the Faroese national team recorded their biggest win ever in a 5–1 friendly against [[Liechtenstein national football team|Liechtenstein]]<ref name="ReferenceC">{{cite web |url=https://in.fo/news-detail/sigurin-moti-liktinstein-var-soeguligur |title=in.fo - fyrst og fremst |date=6 July 2021 |access-date=8 June 2021 |archive-date=8 June 2021 |archive-url=https://web.archive.org/web/20210608130403/https://in.fo/news-detail/sigurin-moti-liktinstein-var-soeguligur |url-status=live }}</ref> in [[Tórshavn]].
+
+On 26 September 2022, the Faroese national team defied all odds when beating Turkey 2–1 in the last game of the [[2022–23 UEFA Nations League]] campaign. The win pushed their unbeaten record to four games, the longest streak in their history, and the result was arguably their best since the Greek Double victories of 2014 and 2015 respectively, although unlike the double Greek victories, the win against Turkey proved meaningless as Turkey had already won promotion earlier.<ref>{{cite web | url=https://www.besoccer.com/new/there-is-no-excuse-for-this-ndash-gurler-stunned-by-turkey-s-defeat-to-faroe-islands-1186099 | title=Gurler stunned by Turkey's defeat to Faroe Islands | access-date=2022-09-26 | archive-date=2022-09-26 | archive-url=https://web.archive.org/web/20220926072200/https://www.besoccer.com/new/there-is-no-excuse-for-this-ndash-gurler-stunned-by-turkey-s-defeat-to-faroe-islands-1186099 | url-status=live }}</ref>
+
+As of 26 September 2022, the Faroese national team has thirteen full-time professionals playing in [[Belgium|Belgian]], [[Norway|Norwegian]], [[Denmark|Danish]], [[Sweden|Swedish]] and [[Iceland]]ic leagues, compared to the 1990 team who won the Austria game in Landskrona, which was entirely made up of amateurs.
+
+The Faroe Islands played in the [[2024 Baltic Cup]] and on 8 June 2024, they lost their semi-final match 4–1 against [[Estonia national football team|Estonia]]. They then lost 1–0 in the third place playoff against [[Latvia national football team|Latvia]] on 11 June. Ericson was fired on October 16, 2024; [[Eyðun Klakstein]] took over as interim manager. During Ericson's time as manager, the Faroe Islands were able to secure points in almost half of the matches played, which makes him the most successful manager in the nation's history.<ref>{{Cite web |last=Nielsdóttir |first=Alda |date=2024-10-16 |title=Håkan Ericson fired as head coach for Faroe national football team |url=https://local.fo/hakan-ericson-fired-as-head-coach-for-faroe-national-football-team/ |access-date=2024-11-20 |website=Local.fo |language=en-US}}</ref> 
+
+=== The Eyðun Klakstein years (2025–present) ===
+In Eyðun Klakstein's first 2 matches as manager, the Faroes beat [[Armenia national football team|Armenia]] 1-0 and lost 1-0 to [[North Macedonia national football team|North Macedonia]], securing their spot in the [[UEFA Nations League|Nations League C]] for another season. Klakstein was named permanent manager on February 5, 2025, making him the first Faroese manager of the team since [[Jógvan Martin Olsen]].<ref>{{Cite web |last=Osa |first=Jakup |date=2025-02-05 |title=FSF hevur valt Eyðun Klakstein |url=https://bolt.fo/news/details?title=FSF%20hevur%20valt%20Ey%C3%B0un%20Klakstein&id=9387 |access-date=2025-02-20 |website=bolt.fo |language=fo}}</ref> Under Klakstein, the Faroe Islands had their best qualifying campaign for a major football tournament to date, finishing their [[2026 FIFA World Cup qualification – UEFA Group L|2026 World Cup qualifying group]] with 12 points from eight games and only missing out on a play-off berth due to a defeat on their final match to group leaders [[Croatia national football team|Croatia]].
+
+==Stadiums==
+
+Between 1999 and 2011, the Faroe Islands rotated its home matches between two different stadiums, [[Tórsvøllur]] and [[Svangaskarð]]. Their latest match in Svangaskarð was a 2–0 victory in a [[UEFA Euro 2012 qualifying]] match against [[Estonia national football team|Estonia]] on 7 June 2011.<ref>{{cite web|url=https://www.uefa.com/uefaeuro/history/news/0254-0d7cf0446034-0bfc3634b4ae-1000--faroe-islands-stun-estonia-to-end-16-year-wait/|title=UEFA EURO 2012 - History - Faroe Islands-Estonia |date=7 June 2011|work=[[UEFA]]|access-date=10 March 2017|archive-date=8 September 2023|archive-url=https://web.archive.org/web/20230908132833/https://www.uefa.com/uefaeuro/history/news/0254-0d7cf0446034-0bfc3634b4ae-1000--faroe-islands-stun-estonia-to-end-16-year-wait/|url-status=live}}</ref>
+
+Tórsvøllur has since undergone comprehensive renovation, transforming it into a multifunctional venue for concerts and sports in general, although it is primarily used for football. Floodlights were introduced in 2011, and 6,000 new seats were installed, all under roof. The stadium has been resurfaced with artificial grass and now meets all UEFA and FIFA demands.<ref>{{cite web|url=http://www.fsf.fo/Default.aspx?ID=415&Action=1&NewsId=1369&currentPage=2&PID=698|title=Útbygging: Seta spakan í|work=fsf.fo|access-date=10 March 2017|archive-date=14 April 2016|archive-url=https://web.archive.org/web/20160414022139/http://www.fsf.fo/Default.aspx?ID=415&Action=1&NewsId=1369&currentPage=2&PID=698|url-status=dead}}</ref>
+
+Work on [[Tórsvøllur]] was completed in 2021.
+
+==Supporters==
+[[File:Faroese football supporters - Skansin - 13 June 2015.JPG|thumb|''Skansin'', Faroese football supporters at the Faroe Islands vs Greece match at Tórsvøllur 2015.]]
+Faroe Islands have a main stand for their supporters at [[Tórsvøllur]], which is known as "''Skansin''", meaning ''fort'' in English. Skansin was formed in 2014, following their 1–0 away victory against [[Greece national football team|Greece]] in [[Pireaus]] and the opening of their newly renovated stadium.
+
+As of September 2021, Skansin has 600 members domestically, and stand tickets are sold out every home match. Following [[Northern Ireland national football team|Northern Ireland]]'s 3–1 victory against Faroe Islands during the [[Euro 2016 qualifiers]] on 4 September 2015, Northern Ireland forward [[Kyle Lafferty]] stated that he was particularly impressed with the Faroese supporters, as they cheered for their players throughout the entire match, even when the Faroes threw away a likely 1–1 result.
+
+Drums, trumpets and folksongs are an essential part of their support.<ref>{{cite web|url=http://portal.fo/nordurirar%20vunnu%2031%20a%20torsvolli.html|title=Norðurírar vunnu 3-1 á Tórsvølli|work=portal.fo|access-date=10 March 2017|archive-date=29 July 2018|archive-url=https://web.archive.org/web/20180729050045/http://portal.fo/nordurirar%20vunnu%2031%20a%20torsvolli.html|url-status=live}}</ref>
+
+==Results and fixtures==
+{{main|Faroe Islands national football team results (2020–present)}}
+
+The following is a list of match results in the last 12 months, as well as any future matches that have been scheduled.
+
+{{legend2|#CCFFCC|Win|border=1px solid #AAAAAA}}
+{{legend2|#FFFFCC|Draw|border=1px solid #AAAAAA}}
+{{legend2|#FFCCCC|Loss|border=1px solid #AAAAAA}}
+{{legend2|#FFFFFF|Fixture|border=1px solid #AAAAAA}}
+
+===2025===
+{{football box collapsible|format=1
+|date              = 5 June
+|time              = {{UTZ|20:00|4}}
+|round             = [[Exhibition game#Association football|Friendly]]
+|team1             = {{fb-rt|GEO}}
+|score             = 1–0
+|report            = https://www.uefa.com/uefanationsleague/friendlies/match/2044965--georgia-vs-faroe-islands/
+|team2             = {{fb|FRO}}
+|goals1            = 
+*[[Luka Lochoshvili|Lochoshvili]] {{goal|9}}
+|goals2            =
+|stadium           = [[Boris Paichadze Dinamo Arena]]
+|location          = [[Tbilisi]], Georgia
+|attendance        = 17,645
+|referee           = Jasper Vergoote ([[Royal Belgian Football Association|Belgium]])
+|result            = L
+}}
+{{football box collapsible|format=1
+|date              = 9 June
+|time              = {{UTZ|19:45|1}}
+|round             = [[2026 FIFA World Cup qualification – UEFA Group L|2026 FIFA World Cup qualification]]
+|team1             = {{fb-rt|FRO}}
+|score             = 2–1
+|report            = https://www.uefa.com/european-qualifiers/match/2044201/
+|team2             = {{fb|GIB}}
+|goals1            =
+*[[Árni Frederiksberg|Frederiksberg]] {{goal|71}}
+*[[Patrik Johannesen|Johannsen]] {{goal|86}}
+|goals2            =
+*[[James Scanlon (footballer)|Scanlon]] {{goal|23}}
+|stadium           = [[Tórsvøllur]]
+|location          = [[Tórshavn]], Faroe Islands
+|attendance        = 2,632
+|referee           = Yigal Frid ([[Israel Football Association|Israel]])
+|result            = W
+}}
+{{football box collapsible|format=1
+|date              = 5 September
+|time              = {{UTZ|19:45|1}}
+|round             = [[2026 FIFA World Cup qualification – UEFA Group L|2026 FIFA World Cup qualification]]
+|team1             = {{fb-rt|FRO}}
+|score             = 0–1
+|report            = https://www.uefa.com/european-qualifiers/match/2044224/
+|team2             = {{fb|CRO}}
+|goals1            =
+|goals2            =
+*[[Andrej Kramarić|Kramarić]] {{goal|31}}
+|stadium           = [[Tórsvøllur]]
+|location          = [[Tórshavn]], Faroe Islands
+|attendance        = 4,632
+|referee           = [[Kristo Tohver]] ([[Estonian Football Association|Estonia]])
+|result            = L
+}}
+{{football box collapsible|format=1
+|date              = 8 September
+|time              = {{UTZ|20:45|2}}
+|round             = [[2026 FIFA World Cup qualification – UEFA Group L|2026 FIFA World Cup qualification]]
+|team1             = {{fb-rt|GIB}}
+|score             = 0–1
+|report            = https://www.uefa.com/european-qualifiers/match/2044243/
+|team2             = {{fb|FRO}}
+|goals1            =
+|goals2            =
+*[[Martin Agnarsson|Agnarsson]] {{goal|68}}
+|stadium           = [[Europa Sports Park]]
+|location          = [[Europa Point]], Gibraltar
+|attendance        = 1,603
+|referee           = [[Mohammed Al-Hakim]] ([[Swedish Football Association|Sweden]])
+|result            = W
+}}
+{{football box collapsible|format=1
+|date              = 9 October
+|time              = {{UTZ|19:45|1}}
+|round             = [[2026 FIFA World Cup qualification – UEFA Group L|2026 FIFA World Cup qualification]]
+|team1             = {{fb-rt|FRO}}
+|score             = 4–0
+|report            = https://www.uefa.com/european-qualifiers/match/2044262/
+|team2             = {{fb|MNE}}
+|goals1            =
+*[[Hanus Sørensen|Sørensen]] {{goal|16||55}}
+*[[Milan Roganović|Roganović]] {{goal|36|o.g.}}
+*[[Árni Frederiksberg|Frederiksberg]] {{goal|72|pen.}}
+|goals2            =
+|stadium           = [[Tórsvøllur]]
+|location          = [[Tórshavn]], Faroe Islands
+|attendance        = 2,034
+|referee           = Javier Alberola Rojas ([[Royal Spanish Football Federation|Spain]])
+|result            = W
+}}
+{{football box collapsible|format=1
+|date              = 12 October
+|time              = {{UTZ|17:00|1}}
+|round             = [[2026 FIFA World Cup qualification – UEFA Group L|2026 FIFA World Cup qualification]]
+|team1             = {{fb-rt|FRO}}
+|score             = 2–1
+|report            = https://www.uefa.com/european-qualifiers/match/2044285/
+|team2             = {{fb|CZE}}
+|goals1            =
+*[[Hanus Sørensen|Sørensen]] {{goal|67}}
+*[[Martin Agnarsson|Agnarsson]] {{goal|81}}
+|goals2            =
+*[[Adam Karabec|Karabec]] {{goal|78}}
+|stadium           = [[Tórsvøllur]]
+|location          = [[Tórshavn]], Faroe Islands
+|attendance        = 2,908
+|referee           = Andrea Colombo ([[Italian Football Federation|Italy]])
+|result            = W
+}}
+{{football box collapsible|format=1
+|date              = 14 November
+|time              = {{UTZ|20:45|1}}
+|round             = [[2026 FIFA World Cup qualification – UEFA Group L|2026 FIFA World Cup qualification]]
+|team1             = {{fb-rt|CRO}}
+|score             = 3–1
+|report            = https://www.uefa.com/european-qualifiers/match/2044315/
+|team2             = {{fb|FRO}}
+|goals1            =
+*[[Joško Gvardiol|Gvardiol]] {{goal|23}}
+*[[Petar Musa|Musa]] {{goal|57}}
+*[[Nikola Vlašić|Vlašić]] {{goal|70}}
+|goals2            =
+*[[Géza Dávid Turi|Turi]] {{goal|16}}
+|stadium           = [[Stadion Rujevica]]
+|location          = [[Rijeka]], Croatia
+|attendance        = 7,846
+|referee           = [[Aliyar Aghayev]] ([[Association of Football Federations of Azerbaijan|Azerbaijan]])
+|result            = L
+}}
+{{football box collapsible|format=1
+|date              = 18 November
+|time              = {{UTZ|18:00|2}}
+|round             = [[Exhibition game#Association football|Friendly]]
+|team1             = {{fb-rt|FRO}}
+|score             = 1–0
+|report            = https://www.uefa.com/european-qualifiers/friendlies/match/2046686--faroe-islands-vs-kazakhstan/
+|team2             = {{fb|KAZ}}
+|goals1            =
+*[[Petur Knudsen|Knudsen]] {{goal|25}}
+|goals2            =
+|stadium           = [[Stadion Aldo Drosina]]
+|location          = [[Pula]], Croatia
+|attendance        =
+|referee           = Duje Strukan ([[Croatian Football Federation|Croatia]])
+|result            = W
+}}
+
+===2026===
+{{football box collapsible
+|format=1
+|date              = 26 March
+|time              = {{UTZ|17:00|4}}
+|round             = [[Exhibition game#Association football|Friendly]]
+|team1             = {{fb-rt|FRO}}
+|score             = <small>Cancelled</small>
+|report            = 
+|team2             = {{fb|SIN}}
+|goals1            =
+|goals2            =
+|stadium           = [[Rashid Stadium]]
+|location          = [[Dubai]], United Arab Emirates
+|attendance        = 
+|referee           = 
+|result            = P
+|note              = Match cancelled due to the [[2026 Iran war]]<ref>{{cite news |author=Firdaus Hamzah |title=Singapore's friendly against Faroe Islands in Dubai cancelled due to conflict in Middle East |url=https://www.channelnewsasia.com/singapore/lions-football-friendly-faroe-islands-dubai-cancelled-middle-east-5985691 |publisher=[[Channel News Asia|CNA]] |date=11 Mar 2026}}</ref>
+}}
+{{Football box collapsible|format=1
+|date = 28 March
+|time = {{UTZ|15:00|1}}
+|round = [[Exhibition match|Friendly]]
+|team1 = {{fb-rt|SMR}}
+|score = 1–2
+|report = https://www.uefa.com/european-qualifiers/friendlies/match/2048162--san-marino-vs-faroe-islands/
+|team2 = {{fb|FRO}}
+|goals1 = 
+*[[Nicolas Giacopetti|N. Giacopetti]] {{goal|22}}
+|goals2 = 
+*[[Jákup Andreasen|Andreasen]] {{goal|45+1}}
+*[[Árni Frederiksberg|Frederiksberg]] {{goal|65}}
+|stadium = [[San Marino Stadium]]
+|location = [[Serravalle, San Marino|Serravalle]], San Marino
+|attendance = 320
+|referee = [[Kyriakos Athanasiou]] ([[Cyprus Football Association|Cyprus]])
+|result = W
+}}
+{{football box collapsible|format=1
+|date              = 6 June
+|time              = {{UTZ|18:00|3}}
+|round             = [[2026 Baltic Cup]]
+|team1             = {{fb-rt|EST}}
+|score             = 1–0
+|report            = https://www.uefa.com/european-qualifiers/friendlies/match/2048188--estonia-vs-faroe-islands/
+|team2             = {{fb|FRO}}
+|goals1            =
+*[[Tony Varjund|Varjund]] {{goal|66}}
+|goals2            =
+|stadium           = [[Pärnu Rannastaadion]]
+|location          = [[Pärnu]], Estonia
+|attendance        = 1,543
+|referee           = Kristaps Ratnieks ([[Latvian Football Federation|Latvia]])
+|result            = L
+}}
+{{football box collapsible|format=1
+|date              = 9 June
+|time              = {{UTZ|18:00|3}}
+|round             = [[2026 Baltic Cup]]
+|team1             = {{fb-rt|LVA}}
+|score             = 0–1
+|report            = https://www.uefa.com/european-qualifiers/friendlies/match/2048240--latvia-vs-faroe-islands/
+|team2             = {{fb|FRO}}
+|goals1            =
+|goals2            =
+*[[Hanus Sørensen|Sørensen]] {{goal|81}}
+|stadium           = [[LNK Sporta Parks]]
+|location          = [[Riga]], Latvia
+|attendance        = 729
+|referee           = Dovydas Švėgžda ([[Lithuanian Football Federation|Lithuania]])
+|result            = W
+}}
+{{football box collapsible
+|format     = 1
+|date       = 26 September
+|time       = {{UTZ|17:00|1}}
+|round      = [[2026–27 UEFA Nations League C#Group 3|2026–27 Nations League]]
+|score      = 
+|report     = https://www.uefa.com/uefanationsleague/match/2048024/
+|team1      = {{fb-rt|FRO}}
+|goals1     = 
+|team2      = {{fb|KAZ}}
+|goals2     = 
+|stadium    = [[Tórsvøllur]]
+|location   = [[Tórshavn]], Faroe Islands
+|attendance = 
+|referee    = 
+|result     = 
+}}
+{{football box collapsible
+|format     = 1
+|date       = 29 September
+|time       = {{UTZ|21:45|3}}
+|round      = [[2026–27 UEFA Nations League C#Group 3|2026–27 Nations League]]
+|score      = 
+|report     = https://www.uefa.com/uefanationsleague/match/2047994/
+|team1      = {{fb-rt|MDA}}
+|goals1     = 
+|team2      = {{fb|FRO}}
+|goals2     = 
+|stadium    = [[Zimbru Stadium|Stadionul Zimbru]]
+|location   = [[Chișinău]], Moldova
+|attendance = 
+|referee    = 
+|result     = 
+}}
+{{football box collapsible
+|format     = 1
+|date       = 2 October
+|time       = {{UTZ|19:45|1}}
+|round      = [[2026–27 UEFA Nations League C#Group 3|2026–27 Nations League]]
+|score      = 
+|report     = https://www.uefa.com/uefanationsleague/match/2047965/
+|team1      = {{fb-rt|FRO}}
+|goals1     = 
+|team2      = {{fb|SVK}}
+|goals2     = 
+|stadium    = [[Tórsvøllur]]
+|location   = [[Tórshavn]], Faroe Islands
+|attendance = 
+|referee    = 
+|result     = 
+}}
+{{football box collapsible
+|format     = 1
+|date       = 6 October
+|time       = {{UTZ|19:00|5}}
+|round      = [[2026–27 UEFA Nations League C#Group 3|2026–27 Nations League]]
+|score      = 
+|report     = https://www.uefa.com/uefanationsleague/match/2047949/
+|team1      = {{fb-rt|KAZ}}
+|goals1     = 
+|team2      = {{fb|FRO}}
+|goals2     = 
+|stadium    = [[Astana Arena]]
+|location   = [[Astana]], Kazakhstan
+|attendance = 
+|referee    = 
+|result     = 
+}}
+{{football box collapsible
+|format     = 1
+|date       = 13 November
+|time       = {{UTZ|20:45|1}}
+|round      = [[2026–27 UEFA Nations League C#Group 3|2026–27 Nations League]]
+|score      = 
+|report     = https://www.uefa.com/uefanationsleague/match/2047880/
+|team1      = {{fb-rt|SVK}}
+|goals1     = 
+|team2      = {{fb|FRO}}
+|goals2     = 
+|stadium    = [[Tehelné pole]]
+|location   = [[Bratislava]], Slovakia
+|attendance = 
+|referee    = 
+|result     = 
+}}
+{{football box collapsible
+|format     = 1
+|date       = 16 November
+|time       = {{UTZ|15:00|0}}
+|round      = [[2026–27 UEFA Nations League C#Group 3|2026–27 Nations League]]
+|score      = 
+|report     = https://www.uefa.com/uefanationsleague/match/2047910/
+|team1      = {{fb-rt|FRO}}
+|goals1     = 
+|team2      = {{fb|MDA}}
+|goals2     = 
+|stadium    = [[Tórsvøllur]]
+|location   = [[Tórshavn]], Faroe Islands
+|attendance = 
+|referee    = 
+|result     = 
+}}
+
+==Coaching staff==
+
+{{Updated|17 November 2024}}<ref>{{cite web|url=http://www.fsf.fo/Default.aspx?ID=541|title=Venjarar og leiðarar|work=fsf.fo|access-date=10 March 2017|archive-date=20 June 2018|archive-url=https://web.archive.org/web/20180620181314/http://www.fsf.fo/Default.aspx?ID=541|url-status=live}}</ref>
+{| class="wikitable" style="text-align:center"
+|-
+!Position
+!Name
+|-
+| style="text-align:left;"|Head coach
+| style="text-align:left;"|{{flagicon|FAR}} [[Eyðun Klakstein]]
+|-
+| style="text-align:left;"|Assistant coach
+| style="text-align:left;"|{{flagicon|FAR}} [[Atli Gregersen]]
+|-
+| style="text-align:left;"|Goalkeeping coach
+| style="text-align:left;"|{{flagicon|FAR}} Hjørtur Askham
+|-
+| style="text-align:left;"|Team Doctor<hr />Team Doctor Coordinator
+| style="text-align:left;"|{{flagicon|FAR}} Elmar Ósá
+|-
+| style="text-align:left;"|Team Doctor
+| style="text-align:left;"|{{flagicon|FAR}} Ólavur Johannesen
+|-
+| style="text-align:left;"|Fitness Coach<hr />Physio<hr />Physio Coordinator
+| style="text-align:left;"|{{flagicon|FAR}} Álvur Hansen
+|-
+| style="text-align:left;"|Physio
+| style="text-align:left;"|{{flagicon|FAR}} Øssur Steinhólm
+|-
+| style="text-align:left;"|Kit Manager
+| style="text-align:left;"|{{flagicon|FAR}} Bárður Lava Olsen
+|}
+
+===Coaching history===
+
+{{Updated|12 October 2025}} ''after the game against [[Czech Republic national football team|Czech Republic]].''<ref name="ReferenceC"/>
+*Friendly matches included.
+
+{| class="wikitable sortable" style="text-align: center"
+|-
+!Name
+!class="unsortable"|From
+!class="unsortable"|To
+!abbr="TOTAL OF MATCHES PLAYED"|P
+!abbr="MATCHES WON"|W
+!abbr="MATCHES DRAWN"|D
+!abbr="MATCHES LOST"|L
+!abbr="GOALS SCORED"|GS
+!abbr="GOAL AGAINST"|GA
+!abbr="PERCENTAGE OF MATCHES WON"|%W
+!abbr="HONOURS"|Honours
+!abbr="NOTES"|Notes
+|-
+|align=left|{{fbicon|ISL}} [[Páll Guðlaugsson]]
+|align=left|1988
+|align=left|1993
+{{WDL|25|2|3|20|for=9|against=76}}
+|style="text-align:left;font-size:smaller"|
+|
+|-
+|align=left|{{fbicon|FRO}} Johan Nielsen <br> {{fbicon|FRO}} Jógvan Norðbúð ({{Abbr|C|Caretaker manager}})
+|align=left|1993
+|align=left|1993
+{{WDL|1|0|0|1|for=0|against=4}}
+|style="text-align:left;font-size:smaller"|
+|
+|-
+|align=left|{{fbicon|DEN}} [[Allan Simonsen]]
+|align=left|1994
+|align=left|2001
+{{WDL|52|8|7|37|for=37|against=119}}
+|style="text-align:left;font-size:smaller"|
+|
+|-
+|align=left|{{fbicon|DEN}} [[Henrik Larsen]]
+|align=left|2002
+|align=left|2005
+{{WDL|26|5|2|19|for=24|against=62}}
+|style="text-align:left;font-size:smaller"|
+|
+|-
+|align=left|{{fbicon|FRO}} [[Jógvan Martin Olsen]]
+|align=left|2006
+|align=left|2008
+{{WDL|20|0|1|19|for=8|against=64}}
+|style="text-align:left;font-size:smaller"|
+|
+|-
+|align=left|{{fbicon|FRO}} Heðin Askham ({{Abbr|C|Caretaker manager}})
+|align=left|2009
+|align=left|2009
+{{WDL|1|1|0|0|for=2|against=1}}
+|style="text-align:left;font-size:smaller"|
+|
+|-
+|align=left|{{fbicon|IRL}} [[Brian Kerr (Irish football manager)|Brian Kerr]]
+|align=left|6 April 2009
+|align=left|26 October 2011
+{{WDL|19|2|3|14|for=10|against=46}}
+|style="text-align:left;font-size:smaller"|
+|
+|-
+|align=left|{{fbicon|DEN}} [[Lars Olsen]]
+|align=left|November 2011
+|align=left|November 2019
+{{WDL|56|9|7|40|for=37|against=114}}
+|style="text-align:left;font-size:smaller"|
+|
+|-
+|align=left|{{fbicon|SWE}} [[Håkan Ericson]]
+|align=left|16 December 2019
+|align=left|16 October 2024
+{{WDL|48|9|13|26|for=42|against=80}}
+|style="text-align:left;font-size:smaller"|
+|
+|-
+|align=left|{{fbicon|FRO}} [[Eyðun Klakstein]]
+|align=left|16 October 2024
+|align=left|Present
+{{WDL|10|5|0|5|for=11|against=8}}
+|style="text-align:left;font-size:smaller"|
+|
+|}
+
+==Players==
+===Current squad===
+The following players were called up for the [[2026 Baltic Cup]].<ref>{{Cite web |title=A-landsliðið |url=https://www.fsf.fo/landslidini/menn/a-landslidid/ |access-date=2026-06-05 |website=Fótbóltssamband Føroya |language=fo}}</ref>
+
+''Caps and goals correct as of 9 June 2026, after the match against [[Latvia national football team|Latvia]].''
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=Ari Petersen|age={{birth date and age|2002|12|7|df=y}}|caps=0|goals=0|club=[[ÍBV men's football|ÍBV]]|clubnat=ISL}}
+{{nat fs g player|no=12|pos=GK|name=Silas Eyðsteinsson|age={{birth date and age|1998|2|13|df=y}}|caps=0|goals=0|club=[[B36 Tórshavn]]|clubnat=FRO}}
+{{nat fs g player|no=23|pos=GK|name=[[Bárður á Reynatrøð]]|age={{birth date and age|2000|1|8|df=y}}|caps=16|goals=0|club=[[Víkingur Gøta]]|clubnat=FRO}}
+{{nat fs g player|no=|pos=GK|name=[[Mattias Lamhauge]]|age={{birth date and age|1999|8|2|df=y}}|caps=16|goals=0|club=[[Strømsgodset Toppfotball|Strømsgodset]]|clubnat=NOR}}
+{{nat fs break}}
+{{nat fs g player|no=2|pos=DF|name=[[Jóannes Danielsen]]|age={{Birth date and age|1997|09|10|df=yes}}|caps=26|goals=0|club=[[Klaksvíkar Ítróttarfelag|KÍ]]|clubnat=FRO}}
+{{nat fs g player|no=3|pos=DF|name=[[Viljormur Davidsen]]|age={{birth date and age|1991|07|19|df=y}}|caps=94|goals=6|club=[[Havnar Bóltfelag|HB]]|clubnat=FRO}}
+{{nat fs g player|no=4|pos=DF|name=[[Samuel Chukwudi]]|age={{Birth date and age|2003|6|25|df=yes}}|caps=9|goals=0|club=[[SV Ried]]|clubnat=AUT}}
+{{nat fs g player|no=5|pos=DF|name=[[Arnbjørn Svensson]]|age={{birth date and age|1999|8|1|df=y}}|caps=4|goals=1|club=[[Víkingur Gøta]]|clubnat=FRO}}
+{{nat fs g player|no=13|pos=DF|name=[[Martin Agnarsson]]|age={{birth date and age|2003|12|7|df=y}}|caps=11|goals=2|club=[[Mjällby AIF]]|clubnat=SWE}}
+{{nat fs g player|no=14|pos=DF|name=[[Gullbrandur Øregaard]]|age={{birth date and age|2002|7|18|df=yes}}|caps=3|goals=0|club=[[Sandnes Ulf]]|clubnat=NOR}}
+{{nat fs g player|no=15|pos=DF|name=Ari Olsen|age={{birth date and age|1998|09|09|df=yes}}|caps=0|goals=0|club=[[Vendsyssel FF|Vendsyssel]]|clubnat=DEN}}
+{{nat fs g player|no=16|pos=DF|name=[[Gunnar Vatnhamar]]||age={{Birth date and age|1995|3|29|df=yes}}|caps=58|goals=3|club=[[Knattspyrnufélagið Víkingur|Víkingur Reykjavík]]|clubnat=ISL}}
+{{nat fs g player|no=19|pos=DF|name=[[Jann Benjaminsen]]|age={{birth date and age|1997|4|3|df=y}}|caps=14|goals=1|club=[[NSÍ Runavík|NSÍ]]|clubnat=FRO}}
+{{nat fs g player|no=20|pos=DF|name=[[Hanus Sørensen]]|age={{birth date and age|2001|2|19|df=y}}|caps=28|goals=5|club=[[NK Aluminij]]|clubnat=SLO}}
+{{nat fs g player|no=|pos=DF|name=[[Odmar Færø]]|age={{birth date and age|1989|11|1|df=y}}|caps=71|goals=2|club=[[Klaksvíkar Ítróttarfelag|KÍ]]|clubnat=FRO}}
+{{nat fs break}}
+{{nat fs g player|no=6|pos=MF|name=[[Noah Mneney]]|age={{birth date and age|2002|12|6|df=y}}|caps=12|goals=0|club=[[Havnar Bóltfelag|HB]]|clubnat=FRO}}
+{{nat fs g player|no=8|pos=MF|name=[[Brandur Hendriksson]]||age={{Birth date and age|1995|12|19|df=yes}}|caps=72|goals=6|club=[[NSÍ Runavík|NSÍ]]|clubnat=FRO}}
+{{nat fs g player|no=21|pos=MF|name=[[Géza Dávid Turi]]|age={{Birth date and age|2001|10|6|df=yes}}|caps=9|goals=1|club=[[Grimsby Town F.C.|Grimsby Town]]|clubnat=ENG}}
+{{nat fs g player|no=22|pos=MF|name=[[Jákup Andreasen]]|age={{birth date and age|1998|5|31|df=y}}|caps=35|goals=3|club=[[Klaksvíkar Ítróttarfelag|KÍ]]|clubnat=FRO}}
+{{nat fs break}}
+{{nat fs g player|no=7|pos=FW|name=[[Jóannes Bjartalíð]]|age={{birth date and age|1996|7|10|df=y}}|caps=42|goals=3|club=[[FC Kyzylzhar|Kyzylzhar]]|clubnat=KAZ}}
+{{nat fs g player|no=9|pos=FW|name=[[Páll Klettskarð]]|age={{Birth date and age|1990|5|17|df=yes}}|caps=24|goals=0|club=[[Klaksvíkar Ítróttarfelag|KÍ]]|clubnat=FRO}}
+{{nat fs g player|no=10|pos=FW|name=[[Áki Samuelsen]]|age={{Birth date and age|2004|4|17|df=yes}}|caps=2|goals=0|club=[[Mjällby AIF]]|clubnat=SWE}}
+{{nat fs g player|no=11|pos=FW|name=[[Árni Frederiksberg]]|age={{birth date and age|1992|6|12|df=y}}|caps=24|goals=4|club=[[Klaksvíkar Ítróttarfelag|KÍ]]|clubnat=FRO}}
+{{nat fs g player|no=17|pos=FW|name=[[Adrian Justinussen]]|age={{birth date and age|1998|7|21|df=y}}|caps=21|goals=1|club=[[AC Horsens|Horsens]]|clubnat=DEN}}
+{{nat fs g player|no=18|pos=FW|name=[[Petur Knudsen]]|age={{birth date and age|1998|4|21|df=y}}|caps=29|goals=2|club=[[NSÍ Runavík|NSÍ]]|clubnat=FRO}}
+{{nat fs g player|no=|pos=FW|name=[[Poul Kallsberg]]|age={{Birth date and age|2003|2|4|df=yes}}|caps=2|goals=0|club=[[Hillerød Fodbold|Hillerød]]|clubnat=DEN}}
+{{nat fs end}}
+
+===Recent call-ups===
+The following players have been called up within the last 12 months.
+<!--Sorted by position, most recent call-up, caps, goals and last name.-->
+{{nat fs r start}}
+{{nat fs r player|no=|pos=GK|name=Bjarti Mørk|age={{birth date and age|2001|6|7|df=y}}|caps=0|goals=0|club=[[Havnar Bóltfelag|HB]]|clubnat=FRO|latest=v. {{fb|SMR}}, 28 March 2026}}
+{{nat fs break}}
+{{nat fs r player|no=15|pos=DF|name=[[Andrias Edmundsson]]|age={{birth date and age|2000|12|18|df=y}}|caps=19|goals=0|club=[[Hellas Verona]]|clubnat=ITA|latest=v. {{fb|SMR}}, 28 March 2026}}
+{{nat fs r player|no=8|pos=DF|name=[[Heini Vatnsdal]]|age={{birth date and age|1991|10|18|df=y}}|caps=38|goals=1|club=[[B36 Tórshavn]]|clubnat=FRO|latest=v. {{fb|SMR}}, 28 March 2026}}
+{{nat fs r player|no=|pos=DF|name=[[Daniel Johansen (footballer)|Daniel Johansen]]|age={{birth date and age|1998|7|9|df=y}}|caps=9|goals=0|club=[[Klaksvíkar Ítróttarfelag|KÍ]]|clubnat=FRO|latest=v. {{fb|GIB}}, 9 June 2025}}
+{{nat fs break}}
+{{nat fs r player|no=6|pos=MF|name=[[René Joensen]]|age={{birth date and age|1993|2|8|df=y}}|caps=64|goals=3|club=[[Klaksvíkar Ítróttarfelag|KÍ]]|clubnat=FRO|latest=v. {{fb|KAZ}}, 18 November 2025}}
+{{Nat fs r player|no=|pos=MF|name=[[Hallur Hansson]]|age={{birth date and age|1992|7|8|df=y}}|caps=76|goals=5|clubnat=FRO|club=[[Klaksvíkar Ítróttarfelag|KÍ]]|latest=v. {{fb|CZE}}, 12 October 2025}}
+{{nat fs r player|no=|pos=MF|name=[[Patrik Johannesen]]|age={{birth date and age|1995|12|19|df=y}}|caps=27|goals=2|club=[[Klaksvíkar Ítróttarfelag|KÍ]]|clubnat=FRO|latest=v. {{fb|SMR}}, 28 March 2026}}
+{{nat fs r player|no=10|pos=MF|name=[[Meinhard Olsen]]|age={{Birth date and age|1997|4|10|df=yes}}|caps=42|goals=1|club=[[Kolding IF|Kolding]]|clubnat=DEN|latest=v. {{fb|KAZ}}, 18 November 2025}}
+{{nat fs break}}
+{{nat fs r player|no=14|pos=FW|name=[[Jóan Símun Edmundsson]]|age={{birth date and age|1991|07|26|df=yes}}|caps=100|goals=8|club=[[KA Akureyri]]|clubnat=ISL|latest=v. {{fb|KAZ}}, 18 November 2025}}
+{{nat fs break}}
+;Notes
+*<sup>INJ</sup> = Not part of the [[#Current squad|current squad]] due to injury.
+*<sup>PRE</sup> = Preliminary squad/standby.
+*<sup>RET</sup> = Retired from the national team.
+*<sup>WD</sup> = Player withdrew from the current squad due to non-injury issue.
+{{nat fs end}}
+
+==Records==
+{{updated|18 November 2025}}<ref>{{cite web |title=Faroe Islands |url=https://www.national-football-teams.com/country/64/Faroe_Islands.html |website=National Football Teams}}</ref>
+:''Players in '''bold''' are still active with Faroe Islands.''
+
+===Most appearances===
+[[File:FIFA WC-qualification 2014 - Austria vs Faroe Islands 2013-03-22 - Jóan Símun Edmundsson 01.JPG|200px|right|thumb|[[Jóan Símun Edmundsson]] is Faroe Islands' most capped player with 100 appearances.]]
+
+{| class="wikitable sortable" style="text-align: center"
+|-
+!width=25|Rank
+!width=160|Player
+!width=50|Caps
+!width=50|Goals
+!width=100|Career
+|-
+|1
+|align=left|'''[[Jóan Símun Edmundsson]]'''
+|100
+|8
+|2009–present
+|-
+|2
+|align=left|[[Fróði Benjaminsen]]
+|95
+|6
+|1999–2017
+|-
+|3
+|align=left|'''[[Viljormur Davidsen]]'''
+|92
+|6
+|2013–present
+|-
+|4
+|align=left|[[Óli Johannesen]]
+|83
+|1
+|1992–2007
+|-
+|5
+|align=left|'''[[Sølvi Vatnhamar]]'''
+|79
+|2
+|2013–present
+|-
+|rowspan=2|6
+|align=left|'''[[Hallur Hansson]]'''
+|76
+|5
+|2012–present
+|-
+|align="left" |[[Jákup Mikkelsen]]
+|76
+|0
+|1995–2012
+|-
+|8
+| align="left" |'''[[Brandur Hendriksson]]'''
+|72
+|6
+|2014–present
+|-
+|9
+| align="left" |'''[[Odmar Færø]]'''
+|71
+|2
+|2012–present
+|-
+|10
+|align=left|[[Gunnar Nielsen (Faroese footballer)|Gunnar Nielsen]]
+|70
+|0
+|2009–2022
+|-
+|
+|}
+
+===Top goalscorers===
+[[File:Klæmint Olsen.png|200px|right|thumb|[[Klæmint Olsen]] is Faroe Islands' joint top scorer with 10 goals.]]
+
+{| class="wikitable sortable" style="text-align: center"
+|-
+!width=25|Rank
+!width=160|Player
+!width=50|Goals
+!width=50|Caps
+!width=50|Ratio
+!width=100|Career
+|-
+|rowspan=2|1
+|align=left|[[Rógvi Jacobsen]]
+|10
+|53
+|{{#expr: 10/53 round 2}}
+|1999–2009
+|-
+|align=left|'''[[Klæmint Olsen]]'''
+|10
+|64
+|{{#expr: 10/64 round 2}}
+|2012–present
+|-
+|3
+|align=left|[[Todi Jónsson]]
+|9
+|45
+|{{#expr: 9/45 round 2}}
+|1991–2005
+|-
+|rowspan=2|4
+|align=left|[[Uni Arge]]
+|8
+|37
+|{{#expr: 8/37 round 2}}
+|1992–2002
+|-
+|align=left|'''[[Jóan Símun Edmundsson]]'''
+|8
+|100
+|{{#expr: 8/100 round 2}}
+|2009–present
+|-
+|rowspan="4" |6
+|align=left|[[John Petersen (footballer)|John Petersen]]
+|6
+|57
+|{{#expr: 6/57 round 2}}
+|1995–2004
+|-
+|align=left|'''[[Brandur Hendriksson]]'''
+|6
+|71
+|{{#expr: 6/71 round 2}}
+|2014–present
+|-
+| align="left" |'''[[Viljormur Davidsen]]'''
+|6
+|92
+|{{#expr: 6/92 round 2}}
+|2013–present
+|-
+|align=left|[[Fróði Benjaminsen]]
+|6
+|95
+|{{#expr: 6/95 round 2}}
+|1999–2017
+|-
+| rowspan="2" |10
+|align="left" |'''[[Hallur Hansson]]'''
+|5
+|76
+|{{#expr: 5/76 round 2}}
+|2012–present
+|-
+| align="left" |'''[[Hanus Sørensen]]'''
+|5
+|28
+|0.17
+|2022–present
+|-
+|
+|}
+
+==Competitive record==
+
+===FIFA World Cup===
+{| class="wikitable" style="text-align: center"
+!colspan=9|[[FIFA World Cup]]
+!rowspan=40|
+!colspan=7|[[FIFA World Cup qualification|Qualification]]
+|-
+!Year
+!Round
+!Position
+!{{Tooltip|Pld|Matches played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!{{Tooltip|Pld|Matches played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+|-
+|{{flagicon|Uruguay}} [[1930 FIFA World Cup|1930]] to {{flagicon|Mexico}} [[1986 FIFA World Cup|1986]]
+|colspan=8|''Not a FIFA member''
+|colspan=6|''Not a FIFA member''
+|-
+|{{flagicon|Italy}} [[1990 FIFA World Cup|1990]]
+|colspan=8|''Did not enter''
+|colspan=6|''Did not enter''
+|-
+|{{flagicon|United States of America}} [[1994 FIFA World Cup|1994]]
+|colspan=9 rowspan=9|''Did not qualify''
+|10
+|0
+|0
+|10
+|1
+|38
+|-
+|{{flagicon|France|1974}} [[1998 FIFA World Cup|1998]]
+|10
+|2
+|0
+|8
+|10
+|31
+|-
+|{{flagicon|South Korea|1997}} {{flagicon|Japan}} [[2002 FIFA World Cup|2002]]
+|10
+|2
+|1
+|7
+|6
+|23
+|-
+|{{flagicon|Germany}} [[2006 FIFA World Cup|2006]]
+|10
+|0
+|1
+|9
+|4
+|27
+|-
+|{{flagicon|South Africa}} [[2010 FIFA World Cup|2010]]
+|10
+|1
+|1
+|8
+|5
+|20
+|-
+|{{flagicon|Brazil}} [[2014 FIFA World Cup|2014]]
+|10
+|0
+|1
+|9
+|4
+|29
+|-
+|{{flagicon|Russia}} [[2018 FIFA World Cup|2018]]
+|10
+|2
+|3
+|5
+|4
+|16
+|-
+|{{flagicon|Qatar}} [[2022 FIFA World Cup|2022]]
+|10
+|1
+|1
+|8
+|7
+|23
+|-
+|{{flagicon|Canada}} {{flagicon|Mexico}} {{flagicon|United States of America}} [[2026 FIFA World Cup|2026]]
+|8
+|4
+|0
+|4
+|11
+|9
+|-
+|{{flagicon|Morocco}} {{flagicon|Portugal}} {{flagicon|Spain}} [[2030 FIFA World Cup|2030]]
+| colspan=8 rowspan=2| ''To be determined''
+|-
+|{{flagicon|Saudi Arabia}} [[2034 FIFA World Cup|2034]]
+|-
+!Total
+!
+!{{Tooltip|0/9|Number of tournaments qualified for}}
+!
+!
+!
+!
+!
+!
+!88
+!12
+!8
+!68
+!52
+!216
+|}
+
+===UEFA European Championship===
+{| class="wikitable" style="text-align: center"
+!colspan=9|[[UEFA European Championship]] record
+! rowspan=39|
+!colspan=7|[[UEFA European Championship qualifying|Qualification]] record
+|-
+!Year
+!Round
+!Position
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}*
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+|-
+|{{flagicon|France}} [[1960 European Nations' Cup|1960]] to {{flagicon|West Germany}} [[UEFA Euro 1988|1988]]
+|colspan=8|''Did not enter''
+|colspan=6|''Declined participation''
+|-
+|{{flagicon|Sweden}} [[UEFA Euro 1992|1992]]
+|colspan=9 rowspan=9|''Did not qualify''
+|8
+|1
+|1
+|6
+|3
+|26
+|-
+|{{flagicon|England}} [[UEFA Euro 1996|1996]]
+|10
+|2
+|0
+|8
+|10
+|35
+|-
+|{{flagicon|Belgium}} {{flagicon|Netherlands}} [[UEFA Euro 2000|2000]]
+|10
+|0
+|3
+|7
+|4
+|17
+|-
+|{{flagicon|Portugal}} [[UEFA Euro 2004|2004]]
+|8
+|0
+|1
+|7
+|7
+|18
+|-
+|{{flagicon|Austria}} {{flagicon|Switzerland}} [[UEFA Euro 2008|2008]]
+|12
+|0
+|0
+|12
+|4
+|43
+|-
+|{{flagicon|Poland}} {{flagicon|Ukraine}} [[UEFA Euro 2012|2012]]
+|10
+|1
+|1
+|8
+|6
+|26
+|-
+|{{flagicon|France|1974}} [[UEFA Euro 2016|2016]]
+|10
+|2
+|0
+|8
+|6
+|17
+|-
+|{{flagicon|European Union}} [[UEFA Euro 2020|2020]]
+|10
+|1
+|0
+|9
+|4
+|30
+|-
+|{{flagicon|Germany}} [[UEFA Euro 2024|2024]]
+|8
+|0
+|2
+|6
+|2
+|13
+|-
+|{{flagicon|United Kingdom}} {{flagicon|Ireland}} [[UEFA Euro 2028|2028]]
+|colspan=8 rowspan=2|''To be determined''
+|colspan=6 rowspan=2|''To be determined''
+|-
+|{{flagicon|Italy}} {{flagicon|Turkey}} [[UEFA Euro 2032|2032]]
+|-
+!Total
+!
+!0/17
+!
+!
+!
+!
+!
+!
+!86
+!7
+!8
+!71
+!46
+!225
+|}
+
+===UEFA Nations League===
+{| class="wikitable" style="text-align:center"
+!colspan=11 |[[UEFA Nations League]] record
+|-
+!Season
+!Division
+!Group
+!width=28 |{{Tooltip|Pld|Matches played}}
+!width=28 |{{Tooltip|W|Won}}
+!width=28 |{{Tooltip|D|Drawn}}
+!width=28 |{{Tooltip|L|Lost}}
+!width=28 |{{Tooltip|GF|Goals for}}
+!width=28 |{{Tooltip|GA|Goals against}}
+!width=35 |{{Tooltip|P/R|Promotion/relegation at end of season}}
+!width=28 |{{Tooltip|RK|Overall rank}}
+|-
+|[[2018–19 UEFA Nations League|2018–19]]
+|[[2018–19 UEFA Nations League D|D]]
+|[[2018–19 UEFA Nations League D#Group 3|3]]
+|6||1||2||3||5||10||{{same position}}||50th
+|-
+|[[2020–21 UEFA Nations League|2020–21]]
+|[[2020–21 UEFA Nations League D|D]]
+|[[2020–21 UEFA Nations League D#Group 1|1]]
+|6||3||3||0||9||5||{{rise}}||50th
+|-
+|[[2022–23 UEFA Nations League|2022–23]]
+|[[2022–23 UEFA Nations League C|C]]
+|[[2022–23 UEFA Nations League C#Group 1|1]]
+|6||2||2||2||7||10||{{same position}}||41st
+|-
+|[[2024–25 UEFA Nations League|2024–25]]
+|[[2024–25 UEFA Nations League C|C]]
+|[[2024–25 UEFA Nations League C#Group 4|4]]
+|6||1||3||2||5||6||{{same position}}||42nd
+|-
+!colspan=3 |Total
+!24
+!7
+!10
+!7
+!26
+!31
+!colspan=2 |41st
+|}
+
+===Island Games===
+{| class="wikitable" style="text-align: center"
+!colspan=8|[[Football at the Island Games|Island Games]] record
+|-
+!Year
+!Result
+!Pld
+!W
+!D
+!L
+!GF
+!GA
+|- bgcolor=gold
+|style="border: 3px solid red"|{{flagicon|Faroe Islands}} [[Football at the 1989 Island Games|1989]]||'''Champions'''||'''4'''||'''4'''||'''0'''||'''0'''||'''20'''||'''1'''
+|- bgcolor=gold
+|{{flagicon|Åland}} [[Football at the 1991 Island Games|1991]]||'''Champions'''||'''4'''||'''4'''||'''0'''||'''0'''||'''13'''||'''5'''
+|-
+|{{flagicon|Isle of Wight}} [[Football at the 1993 Island Games|1993]] to present||colspan=8|''Did not enter''
+|-
+!colspan=2|Total
+!8
+!8
+!0
+!0
+!33
+!6
+|}
+
+==Notable matches==
+*Friendly matches not included.
+{{updated|match played 12 October 2025}}
+{{football box collapsible
+|date         = {{dts|format=dmy|1990|09|12}}
+|team1        = {{fb-rt|FRO}}
+|team2        = {{fb|AUT}}
+|goals1       = [[Torkil Nielsen|Nielsen]]
+|score        = [[Faroe Islands v Austria (UEFA Euro 1992 qualifying)|1–0]]
+|report       = <ref name="International 1990">{{cite web|last=Manaschev|first=Erlan|title=International Matches 1990&nbsp;– Europe, July–December|url=https://www.rsssf.org/intldetails/1990e2.html|publisher=[[Rec.Sport.Soccer Statistics Foundation]]|access-date=26 June 2011|date=2 February 2005|archive-date=28 November 2022|archive-url=https://web.archive.org/web/20221128123738/https://www.rsssf.org/intldetails/1990e2.html|url-status=live}}</ref>
+|stadium      = [[Landskrona IP|Idrottsparken]], [[Landskrona]] (N)
+|attendance   = 1,265
+|result       = W
+}}
+{{football box collapsible
+|date         = {{dts|format=dmy|1991|05|01}}
+|team1        = {{fb-rt|NIR}}
+|team2        = {{fb|FRO}}
+|goals2       = [[Kári Reynheim|Reynheim]]
+|score        = 1–1
+|report       = <ref name="International 1991 1">{{cite web|last1=Morrison|first1=Neil|last2=Cazal|first2=Jean-Michel|title=International Matches 1991&nbsp;– Europe, January–June|url=https://www.rsssf.org/intldetails/1991e1.html|publisher=[[Rec.Sport.Soccer Statistics Foundation]]|access-date=26 June 2011|date=2 February 2005|archive-date=26 November 2022|archive-url=https://web.archive.org/web/20221126224756/https://www.rsssf.org/intldetails/1991e1.html|url-status=live}}</ref>
+|stadium      = [[Windsor Park]], [[Belfast]] (A)
+|attendance   = 10,000
+|result       = D
+}}
+{{football box collapsible
+|date         = {{dts|format=dmy|1995|05|25}}
+|team1        = {{fb-rt|FRO}}
+|team2        = {{fb|SMR}}
+|goals1       = [[Jens Kristian Hansen|J. Hansen]]<br>[[Jens Erik Rasmussen|Rasmussen]]<br>[[Julian Johnsson|Johnsson]]
+|score        = 3–0
+|report       = <ref name="International 1995 1">{{cite web|last=Gerrard|first=Russell|title=International Matches 1995&nbsp;– Europe, April–June|url=https://www.rsssf.org/intldetails/1995e2.html|publisher=[[Rec.Sport.Soccer Statistics Foundation]]|access-date=4 July 2011|date=2 February 2005|archive-date=4 December 2022|archive-url=https://web.archive.org/web/20221204092102/https://www.rsssf.org/intldetails/1995e2.html|url-status=live}}</ref>
+|stadium      = [[Svangaskarð]], [[Toftir]] (H)
+|attendance   = 3,450
+|result       = W
+}}
+{{football box collapsible
+|date         = {{dts|format=dmy|1995|10|11}}
+|team1        = {{fb-rt|SMR}}
+|team2        = {{fb|FRO}}
+|goals2       = [[Todi Jónsson|T. Jónsson]] (3)
+|score        = 1–3
+|report       = <ref name="International 1995 3">{{cite web|last=Morrison|first=Neil|title=International Matches 1995&nbsp;– Europe, October–December|url=https://www.rsssf.org/intldetails/1995e4.html|publisher=[[Rec.Sport.Soccer Statistics Foundation]]|access-date=4 July 2011|date=2 February 2005|archive-date=7 October 2022|archive-url=https://web.archive.org/web/20221007084944/https://www.rsssf.org/intldetails/1995e4.html|url-status=live}}</ref>
+|stadium      = [[Stadio Olimpico (San Marino)|Stadio Olimpico]], [[Serravalle (San Marino)|Serravalle]] (A)
+|attendance   = 928
+|result       = W
+}}
+{{football box collapsible
+|date         = {{dts|format=dmy|1997|04|30}}
+|team1        = {{fb-rt|MLT}}
+|team2        = {{fb|FRO}}
+|goals2       = [[Øssur Hansen|Ø. Hansen]]<br>[[Todi Jónsson|T. Jónsson]]
+|score        = 1–2
+|report       = <ref name="International 1997 1">{{cite web|last=Kutschera|first=Ambrosius|title=International Matches 1997&nbsp;– Europe, January–June|url=https://www.rsssf.org/intldetails/1997e1.html|publisher=[[Rec.Sport.Soccer Statistics Foundation]]|access-date=4 July 2011|date=2 February 2005|archive-date=28 November 2022|archive-url=https://web.archive.org/web/20221128110121/https://www.rsssf.org/intldetails/1997e1.html|url-status=live}}</ref>
+|stadium      = [[Ta' Qali National Stadium]], [[Ta' Qali]] (A)
+|attendance   = 2,750
+|result       = W
+}}
+{{football box collapsible
+|date         = {{dts|format=dmy|1997|06|08}}
+|team1        = {{fb-rt|FRO}}
+|team2        = {{fb|MLT}}
+|goals1       = [[Todi Jónsson|T. Jónsson]] (2)
+|score        = 2–1
+|report       = <ref name="International 1997 1"/>
+|stadium      = [[Svangaskarð]], [[Toftir]] (H)
+|attendance   = 6,400
+|result       = W
+}}
+{{football box collapsible
+|date         = {{dts|format=dmy|1998|10|10}}
+|team1        = {{fb-rt|LIT}}
+|team2        = {{fb|FRO}}
+|score        = 0–0
+|report       = <ref name="International 1998 1">{{cite web|last=Kutschera|first=Ambrosius|title=International Matches 1998&nbsp;– Europe, July–December|url=https://www.rsssf.org/intldetails/1998e2.html|publisher=[[Rec.Sport.Soccer Statistics Foundation]]|access-date=4 July 2011|date=2 February 2005|archive-date=7 December 2022|archive-url=https://web.archive.org/web/20221207042735/https://www.rsssf.org/intldetails/1998e2.html|url-status=live}}</ref>
+|stadium      = [[Žalgiris Stadium]], [[Vilnius]] (A)
+|attendance   = 1,500
+|result       = D
+}}
+{{football box collapsible
+|date         = {{dts|format=dmy|1999|06|05}}
+|team1        = {{fb-rt|FRO}}
+|team2        = {{fb|SCO}}
+|goals1       = [[Hans Fróði Hansen|H. Hansen]]
+|score        = 1–1
+|report       = <ref name="International 1999 1">{{cite web|last=Kutschera|first=Ambrosius|title=International Matches 1999&nbsp;– Europe, January–September|url=https://www.rsssf.org/intldetails/1999e1.html|publisher=[[Rec.Sport.Soccer Statistics Foundation]]|access-date=4 July 2011|date=2 February 2005|archive-date=4 December 2022|archive-url=https://web.archive.org/web/20221204162229/https://www.rsssf.org/intldetails/1999e1.html|url-status=live}}</ref>
+|stadium      = [[Svangaskarð]], [[Toftir]] (H)
+|attendance   = 4,100
+|result       = D
+}}
+{{football box collapsible
+|date         = {{dts|format=dmy|1999|06|09}}
+|team1        = {{fb-rt|FRO}}
+|team2        = {{fb|BIH}}
+|goals1       = [[Uni Arge|Arge]] (2)
+|score        = 2–2
+|report       = <ref name="International 1999 1"/>
+|stadium      = [[Svangaskarð]], [[Toftir]] (H)
+|attendance   = 4,800
+|result       = D
+}}
+{{football box collapsible
+|date         = {{dts|format=dmy|2000|09|03}}
+|team1        = {{fb-rt|FRO}}
+|team2        = {{fb|SLO}}
+|goals1       = [[Uni Arge|Arge]]<br>[[Øssur Hansen|Ø. Hansen]]
+|score        = 2–2
+|report       = <ref name="International 2000 2">{{cite web|last=Owsiański|first=Jarosław|title=International Matches 2000&nbsp;– Europe, July–September|url=https://www.rsssf.org/intldetails/2000e3.html|publisher=[[Rec.Sport.Soccer Statistics Foundation]]|access-date=9 July 2011|date=2 February 2005|archive-date=4 December 2022|archive-url=https://web.archive.org/web/20221204093036/https://www.rsssf.org/intldetails/2000e3.html|url-status=live}}</ref>
+|stadium      = [[Svangaskarð]], [[Toftir]] (H)
+|attendance   = 3,200
+|result       = D
+}}
+{{football box collapsible
+|date         = {{dts|format=dmy|2001|01|31}}
+|team1        = {{fb-rt|SWE}}
+|team2        = {{fb|FRO}}
+|score        = 0–0
+|report       = <ref name="International 2001 1">{{cite web|last=Kutschera|first=Ambrosius|title=International Matches 2001&nbsp;– Europe, January–June|url=https://www.rsssf.org/intldetails/2001e1.html|publisher=[[Rec.Sport.Soccer Statistics Foundation]]|access-date=12 July 2011|date=2 February 2005|archive-date=23 November 2022|archive-url=https://web.archive.org/web/20221123145934/https://www.rsssf.org/intldetails/2001e1.html|url-status=live}}</ref>
+|stadium      = [[Tipshallen (Jönköping)|Tipshallen]], [[Växjö]] (A)
+|attendance   = 2,204
+|result       = D
+}}
+{{football box collapsible
+|date         = {{dts|format=dmy|2001|03|24}}
+|team1        = {{fb-rt|LUX}}
+|team2        = {{fb|FRO}}
+|goals2       = [[Christian Høgni Jacobsen|C. Jacobsen]]<br>[[Kurt Mørkøre|K. Mørkøre]]
+|score        = 0–2
+|report       = <ref name="International 2001 1"/>
+|stadium      = [[Stade Josy Barthel]], [[Luxembourg City]] (A)
+|attendance   = 2,500
+|result       = W
+}}
+{{football box collapsible
+|date         = {{dts|format=dmy|2001|09|01}}
+|team1        = {{fb-rt|FRO}}
+|team2        = {{fb|LUX}}
+|goals1       = [[Jens Kristian Hansen|J. Hansen]]
+|score        = 1–0
+|report       = <ref name="International 2001 2">{{cite web|last=Manaschev|first=Erlan|title=International Matches 2001&nbsp;– Europe, July–December|url=https://www.rsssf.org/intldetails/2001e2.html|publisher=[[Rec.Sport.Soccer Statistics Foundation]]|access-date=12 July 2011|date=2 February 2005|archive-date=27 November 2022|archive-url=https://web.archive.org/web/20221127194913/https://www.rsssf.org/intldetails/2001e2.html|url-status=live}}</ref>
+|stadium      = [[Svangaskarð]], [[Toftir]] (H)
+|attendance   = 1,464
+|result       = W
+}}
+{{football box collapsible
+|date         = {{dts|format=dmy|2002|09|07}}
+|team1        = {{fb-rt|FRO}}
+|team2        = {{fb|SCO}}
+|goals1       = [[John Petersen (footballer)|J. Petersen]] (2)
+|score        = 2–2
+|report       = <ref name="International 2002 2">{{cite web|last=Kutschera|first=Ambrosius|title=International Matches 2002&nbsp;– Europe, July–December|url=https://www.rsssf.org/intldetails/2002e3.html|publisher=[[Rec.Sport.Soccer Statistics Foundation]]|access-date=12 July 2011|date=2 February 2005|archive-date=27 November 2022|archive-url=https://web.archive.org/web/20221127190926/https://www.rsssf.org/intldetails/2002e3.html|url-status=live}}</ref>
+|stadium      = [[Svangaskarð]], [[Toftir]] (H)
+|attendance   = 4,000
+|result       = D
+}}
+{{football box collapsible
+|date         = {{dts|format=dmy|2004|10|09}}
+|team1        = {{fb-rt|CYP}}
+|team2        = {{fb|FRO}}
+|goals2       = [[Claus Bech Jørgensen|Jørgensen]]<br>[[Rógvi Jacobsen|R. Jacobsen]]
+|score        = 2–2
+|report       = <ref name="2006 World Cup">{{cite web |title=2006 FIFA World Cup Germany ™ Preliminaries |url=https://www.fifa.com/worldcup/archive/germany2006/preliminaries/preliminary=8071/index.html |publisher=[[FIFA]] |access-date=13 September 2012 |url-status=dead |archive-url=https://web.archive.org/web/20140112182108/http://www.fifa.com/worldcup/archive/germany2006/preliminaries/preliminary%3D8071/index.html |archive-date=12 January 2014 }}</ref>
+|stadium      = [[GSP Stadium]], [[Nicosia]] (A)
+|attendance   = 1,400
+|result       = D
+}}
+{{football box collapsible
+|date         = {{dts|format=dmy|2008|10|11}}
+|team1        = {{fb-rt|FRO}}
+|team2        = {{fb|AUT}}
+|goals1       = [[Bogi Løkin|Løkin]]
+|score        = 1–1
+|report       = <ref name="FIFA">{{cite web|title=Faroe Islands&nbsp;– Fixtures and results|url=https://www.fifa.com/associations/association=fro/fixturesresults/gender=m/index.html|archive-url=https://web.archive.org/web/20070624120904/http://www.fifa.com/associations/association=fro/fixturesresults/gender=m/index.html|url-status=dead|archive-date=June 24, 2007|publisher=[[FIFA]]|access-date=13 July 2011}}</ref>
+|stadium      = [[Tórsvøllur]], [[Tórshavn]] (H)
+|attendance   = 1,890
+|result       = D
+}}
+{{football box collapsible
+|date         = {{dts|format=dmy|2009|09|09}}
+|team1        = {{fb-rt|FRO}}
+|team2        = {{fb|LIT}}
+|goals1       = [[Súni Olsen|S. Olsen]]<br>[[Arnbjørn Hansen|A. Hansen]]
+|score        = 2–1
+|report       = <ref name="FIFA"/>
+|stadium      = [[Svangaskarð]], [[Toftir]] (H)
+|attendance   = 1,942
+|result       = W
+}}
+{{football box collapsible
+|date         = {{dts|format=dmy|2010|10|12}}
+|team1        = {{fb-rt|FRO}}
+|team2        = {{fb|NIR}}
+|goals1       = [[Christian Holst|Holst]]
+|score        = 1–1
+|report       = <ref name="Euro 2012">{{cite web|title=European Championship Qualification&nbsp;– 2012 Poland/Ukraine|url=https://int.soccerway.com/international/europe/european-championship-qualification/2012-poland-ukraine/qualifying-round/group-c/|work=Soccerway|publisher=Global Sports Media|access-date=13 September 2012|archive-date=24 March 2013|archive-url=https://web.archive.org/web/20130324062930/http://int.soccerway.com/international/europe/european-championship-qualification/2012-poland-ukraine/qualifying-round/group-c/|url-status=live}}</ref>
+|stadium      = [[Svangaskarð]], [[Toftir]] (H)
+|attendance   = 1,921
+|result       = D
+}}
+{{football box collapsible
+|date         = {{dts|format=dmy|2011|06|07}}
+|team1        = {{fb-rt|FRO}}
+|team2        = {{fb|EST}}
+|goals1       = [[Fróði Benjaminsen|Benjaminsen]]<br>[[Arnbjørn Hansen|A. Hansen]]
+|score        = 2–0
+|report       = <ref name="Euro 2012"/>
+|stadium      = [[Svangaskarð]], [[Toftir]] (H)
+|attendance   = 1,715
+|result       = W
+}}
+{{football box collapsible
+|date         = {{dts|format=dmy|2014|11|14}}
+|team1        = {{fb-rt|GRE}}
+|team2        = {{fb|FRO}}
+|goals2       = [[Jóan Símun Edmundsson|Edmundsson]]
+|score        = [[2014–15 Faroe Islands v Greece football matches|0–1]]
+|report       = 
+|stadium      = [[Karaiskakis Stadium]], [[Piraeus]] (A)
+|attendance   = 16,821
+|result       = W
+}}
+{{football box collapsible
+|date         = {{dts|format=dmy|2015|6|13}}
+|team1        = {{fb-rt|FRO}}
+|team2        = {{fb|GRE}}
+|goals1       = [[Hallur Hansson|Hansson]]<br>[[Brandur Hendriksson|Hendriksson]]
+|score        = [[2014–15 Faroe Islands v Greece football matches|2–1]]
+|report       = 
+|stadium      = [[Tórsvøllur]], [[Tórshavn]] (H)
+|attendance   = 5,000
+|result       = W
+}}
+{{football box collapsible
+|date         = {{dts|format=dmy|2016|9|6}}
+|team1        = {{fb-rt|FRO}}
+|team2        = {{fb|HUN}}
+|goals1       = 
+|score        = 0–0
+|report       = 
+|stadium      = [[Tórsvøllur]], [[Tórshavn]] (H)
+|attendance   = 4,066
+|result       = D
+}}
+{{football box collapsible
+|date         = {{dts|format=dmy|2016|10|7}}
+|team1        = {{fb-rt|LAT}}
+|team2        = {{fb|FRO}}
+|goals2       = [[Sonni Nattestad|Nattestad]]<br>[[Jóan Símun Edmundsson|Edmundsson]]
+|score        = 0–2
+|report       = 
+|stadium      = [[Skonto Stadium]], [[Riga]] (A)
+|attendance   = 4,823
+|result       = W
+}}
+{{football box collapsible
+|date         = {{dts|format=dmy|2017|03|25}}
+|team1        = {{fb-rt|AND}}
+|team2        = {{fb|FRO}}
+|goals2       = 
+|score        = 0–0
+|report       = 
+|stadium      = [[Estadi Nacional]], [[Andorra la Vella]] (A)
+|attendance   = 1,000
+|result       = D
+}}
+{{football box collapsible
+|date         = {{dts|format=dmy|2017|09|03}}
+|team1        = {{fb-rt|FRO}}
+|team2        = {{fb|AND}}
+|goals1       = [[Gilli Sørensen|Rólantsson]]
+|score        = 1–0
+|report       = 
+|stadium      = [[Tórsvøllur]], [[Tórshavn]] (H)
+|attendance   = 4,357
+|result       = W
+}}
+{{football box collapsible
+|date         = {{dts|format=dmy|2017|10|08}}
+|team1        = {{fb-rt|FRO}}
+|team2        = {{fb|LAT}}
+|goals1       = 
+|score        = 0–0
+|report       = 
+|stadium      = [[Tórsvøllur]], [[Tórshavn]] (H)
+|attendance   = 4,206
+|result       = D
+}}
+{{football box collapsible
+|date         = {{dts|format=dmy|2018|09|07}}
+|team1        = {{fb-rt|FRO}}
+|team2        = {{fb|MLT}}
+|goals1       = [[Jóan Símun Edmundsson|Edmundsson]], [[Rene Joensen|R. Joensen]], [[Sonni Nattestad|Nattestad]]
+|score        = 3–1
+|report       = 
+|stadium      = [[Tórsvøllur]], [[Tórshavn]] (H)
+|attendance   = 
+|result       = W
+}}
+{{football box collapsible
+|date         = {{dts|format=dmy|2018|10|14}}
+|team1        = {{fb-rt|FRO}}
+|team2        = {{fb|KOS}}
+|goals1       = [[Rene Joensen|R. Joensen]]
+|score        = 1–1
+|report       = 
+|stadium      = [[Tórsvøllur]], [[Tórshavn]] (H)
+|attendance   = 
+|result       = D
+}}
+{{football box collapsible
+|date         = {{dts|format=dmy|2018|11|20}}
+|team1        = {{fb-rt|FRO}}
+|team2        = {{fb|MLT}}
+|goals1       = [[Rene Joensen|R. Joensen]]
+|score        = 1–1
+|report       = 
+|stadium      = [[Tórsvøllur]], [[Tórshavn]] (H)
+|attendance   = 
+|result       = D
+}}
+{{football box collapsible
+|date         = {{dts|format=dmy|2019|10|15}}
+|team1        = {{fb-rt|FRO}}
+|team2        = {{fb|MLT}}
+|goals1       = [[Rógvi Baldvinsson|Baldvinsson]]
+|score        = 1–0
+|report       = 
+|stadium      = [[Tórsvøllur]], [[Tórshavn]] (H)
+|attendance   = 
+|result       = W
+}}
+{{football box collapsible
+|date         = {{dts|format=dmy|2020|09|03}}
+|team1        = {{fb-rt|FRO}}
+|team2        = {{fb|MLT}}
+|goals1       = [[Klæmint Olsen|K. Olsen]], [[Andreas Olsen (footballer, born 1987)|A. Olsen]], [[Brandur Hendriksson|Hendriksson]]
+|score        = 3–2
+|report       = <ref name="in.fo" />
+|stadium      = [[Tórsvøllur]], [[Tórshavn]] (H)
+|attendance   = 0
+|result       = W
+}}
+{{football box collapsible
+|date         = {{dts|format=dmy|2020|09|06}}
+|team1        = {{fb-rt|AND}}
+|team2        = {{fb|FRO}}
+|goals2       = [[Klæmint Olsen|K. Olsen]]
+|score        = 0–1
+|report       = <ref name="ReferenceA" />
+|stadium      = [[Estadi Nacional]], [[Andorra la Vella]] (A)
+|attendance   = 0
+|result       = W
+}}
+{{football box collapsible
+|date         = {{dts|format=dmy|2020|10|10}}
+|team1        = {{fb-rt|FRO}}
+|team2        = {{fb|LAT}}
+|goals1       = [[Odmar Færø|Færø]]
+|score        = 1–1
+|report       = <ref>{{cite web |url=https://www.in.fo/itrottur/sport-detail/news/sidsta-brikslid-var-storur-laetti/ |url-status=dead |archive-url=https://web.archive.org/web/20201015074812/https://www.in.fo/itrottur/sport-detail/news/sidsta-brikslid-var-storur-laetti/ |archive-date=2020-10-15 |title=in.fo - fyrst og fremst}}</ref>
+|stadium      = [[Tórsvøllur]], [[Tórshavn]] (H)
+|attendance   = 447
+|result       = D
+}}
+{{football box collapsible
+|date         = {{dts|format=dmy|2020|10|13}}
+|team1        = {{fb-rt|FRO}}
+|team2        = {{fb|AND}}
+|goals1       = [[Klæmint Olsen|K.Olsen]] (2)
+|score        = 2–0
+|report       = <ref>{{cite web |url=https://www.in.fo/itrottur/sport-detail/news/allir-komu-snikkaleysir-fra-sigrinum/ |url-status=dead |archive-url=https://web.archive.org/web/20201018064224/https://www.in.fo/itrottur/sport-detail/news/allir-komu-snikkaleysir-fra-sigrinum/ |archive-date=2020-10-18 |title=in.fo - fyrst og fremst}}</ref>
+|stadium      = [[Tórsvøllur]], [[Tórshavn]] (H)
+|attendance   = 500
+|result       = W
+}}
+{{football box collapsible
+|date         = {{dts|format=dmy|2020|11|14}}
+|team1        = {{fb-rt|LAT}}
+|team2        = {{fb|FRO}}
+|goals2       = [[Gunnar Vatnhamar|G. Vatnhamar]]
+|score        = 1–1
+|report       = https://www.uefa.com/uefanationsleague/match/2030097/
+|stadium      = [[Skonto Stadium]], [[Riga]] (A)
+|attendance   = 500
+|result       = D
+}}
+{{football box collapsible
+|date         = {{dts|format=dmy|2020|11|17}}
+|team1        = {{fb-rt|MLT}}
+|team2        = {{fb|FRO}}
+|goals2       = [[Ári Jónsson|Á. Jónsson]]
+|score        = 1–1
+|report       = <ref name="ReferenceB" />
+|stadium      = [[Ta' Qali National Stadium]], [[Ta' Qali]] (A)
+|attendance   = 0
+|result       = D
+}}
+{{Football box collapsible
+|date = 25 March 2021
+|team1 = {{fb-rt|MDA}}
+|score = 1–1
+|report = https://www.uefa.com/european-qualifiers/match/2030785/
+|team2 = {{fb|FRO}}
+|goals2 =
+*[[Meinhard Olsen|M. Olsen]] {{goal|83}}
+|stadium = [[Stadionul Zimbru]], [[Chișinău]] (A)
+|attendance =
+|result = D
+}}
+{{Football box collapsible
+|date = 7 September 2021
+|team1 = {{fb-rt|FRO}} 
+|score = 2–1
+|report = https://www.uefa.com/european-qualifiers/match/2030899--faroe-islands-vs-moldova/
+|team2 = {{fb|MDA}}
+|goals1 =
+*[[Klæmint Olsen|K. Olsen]] {{goal|68}}
+*[[Heini Vatnsdal|Vatnsdal]] {{goal|72}}
+|stadium = [[Tórsvøllur]], [[Tórshavn]] (H)
+|attendance =
+|result = W
+}}
+{{Football box collapsible
+|date = 11 June 2022
+|team1 = {{fb-rt|FRO}} 
+|score = 2–1
+|report = https://www.uefa.com/uefanationsleague/match/2034490--faroe-islands-vs-lithuania/
+|team2 = {{fb|LIT}}
+|goals1 =
+*[[Viljormur Davidsen|Davidsen]] {{goal|20}}
+*[[Jákup Biskopstø Andreasen|Andreasen]] {{goal|45}}
+|stadium = [[Tórsvøllur]], [[Tórshavn]] (H)
+|attendance =
+|result = W
+}}
+{{Football box collapsible
+|date = 14 June 2022
+|team1 = {{fb-rt|LUX}} 
+|score = 2–2
+|report = https://www.uefa.com/uefanationsleague/match/2034517--luxembourg-vs-faroe-islands/
+|team2 = {{fb|FRO}}
+|goals2 =
+*[[Jóannes Bjartalíð|Bjartalíð]] {{goal|57|59}}
+|stadium = [[Stade de Luxembourg]], [[Luxembourg]] (A)
+|attendance =
+|result = D
+}}
+{{Football box collapsible
+|date = 22 September 2022
+|team1 = {{fb-rt|LIT}} 
+|score = 1–1
+|report = https://www.uefa.com/uefanationsleague/match/2034526--lithuania-vs-faroe-islands/
+|team2 = {{fb|FRO}}
+|goals2 =
+*[[Jákup Biskopstø Andreasen|Andreasen]] {{goal|22}}
+|stadium = [[LFF Stadium]], [[Vilnius]] (A)
+|attendance =
+|result = D
+}}
+{{Football box collapsible
+|date = 25 September 2022
+|team1 = {{fb-rt|FRO}} 
+|score = 2–1
+|report = https://www.uefa.com/uefanationsleague/match/2034556--faroe-islands-vs-turkiye/
+|team2 = {{fb|TUR}}
+|goals1 =
+*[[Viljormur Davidsen|Davidsen]] {{goal|51}}
+*[[Jóan Símun Edmundsson|Edmundsson]] {{goal|59}}
+|stadium = [[Tórsvøllur]], [[Tórshavn]] (H)
+|attendance = 2500
+|result = W
+}}
+{{Football box collapsible
+|date = 7 September 2024
+|team1 = {{fb-rt|FRO}} 
+|score = 1–1
+|report = https://www.uefa.com/uefanationsleague/teams/51218--faroe-islands/
+|team2 = {{fb|MKD}}
+|goals1 =
+*[[Viljormur Davidsen|Davidsen]] {{goal|9}}
+|stadium = [[Tórsvøllur]], [[Tórshavn]] (H)
+|attendance = 2057
+|result = D
+}}
+{{Football box collapsible
+|date = 10 October 2024
+|team1 = {{fb-rt|FRO}} 
+|score = 2–2
+|report = https://www.uefa.com/uefanationsleague/teams/51218--faroe-islands/
+|team2 = {{fb|ARM}}
+|goals1 =
+*[[Jann Benjaminsen]] {{goal|37}}
+*[[Jóannes Bjartalíð]] {{goal|85}}
+|stadium = [[Tórsvøllur]], [[Tórshavn]] (H)
+|attendance = 1852
+|result = D
+}}
+{{Football box collapsible
+|date = 13 October 2024
+|team1 = {{fb-rt|FRO}} 
+|score = 1–1
+|report = https://www.uefa.com/uefanationsleague/teams/51218--faroe-islands/
+|team2 = {{fb|LAT}}
+|goals1 =
+*[[Hanus Sørensen]] {{goal|40}}
+|stadium = [[Tórsvøllur]], [[Tórshavn]] (H)
+|attendance = 2017
+|result = D
+}}
+{{Football box collapsible
+|date = 14 November 2024
+|team1 = {{fb-rt|ARM}} 
+|score = 0–1
+|report = https://www.uefa.com/uefanationsleague/teams/51218--faroe-islands/
+|team2 = {{fb|FRO}}
+|goals1 =
+*[[Viljormur Davidsen]] {{goal|33|pen}}
+|stadium = [[Vazgen Sargsyan Republican Stadium]], [[Yerevan]] (A)
+|attendance = 6043
+|result = W
+}}
+{{football box collapsible
+|date              = 9 October 2025
+|team1             = {{fb-rt|FRO}}
+|score             = 4–0
+|report            = https://www.uefa.com/european-qualifiers/match/2044262/
+|team2             = {{fb|MNE}}
+|goals1            =
+*[[Hanus Sørensen|Sørensen]] {{goal|16||55}}
+*[[Milan Roganović|Roganović]] {{goal|36|o.g.}}
+*[[Árni Frederiksberg|Frederiksberg]] {{goal|72|pen.}}
+|goals2            =
+|stadium           = [[Tórsvøllur]]
+|location          = [[Tórshavn]] (H)
+|attendance        = 2,034
+|referee           = Javier Alberola Rojas ([[Royal Spanish Football Federation|Spain]])
+|result            = W
+}}
+{{football box collapsible
+|date              = 12 October 2025
+|team1             = {{fb-rt|FRO}}
+|score             = 2–1
+|report            = https://www.uefa.com/european-qualifiers/match/2044285/
+|team2             = {{fb|CZE}}
+|goals1            =
+*[[Hanus Sørensen|Sørensen]] {{goal|67}}
+*[[Martin Agnarsson|Agnarsson]] {{goal|81}}
+|goals2            =
+|stadium           = [[Tórsvøllur]]
+|location          = [[Tórshavn]] (H)
+|attendance        = 2,908
+|referee           = Andrea Colombo ([[Italian Football Federation|Italy]])
+|result            = W
+}}
+
+==FIFA ranking history==
+Source:<ref>{{cite web | url=https://en.fifaranking.net/nations/fro/ranking_d.php | title=Annual Changes Faroe Islands FIFA Ranking 2013-2022 | date=6 October 2022 | access-date=26 September 2022 | archive-date=26 September 2022 | archive-url=https://web.archive.org/web/20220926081021/https://en.fifaranking.net/nations/fro/ranking_d.php | url-status=live }}</ref>
+{| class="wikitable" style="text-align:center; font-size:90%; width:100%"
+|-
+!1993
+!1994
+!1995
+!1996
+!1997
+!1998
+!1999
+!2000
+!2001
+!2002
+!2003
+!2004
+!2005
+!2006
+!2007
+!2008
+!2009
+!2010
+!2011
+!2012
+!2013
+!2014
+!2015
+!2016
+!2017
+!2018
+!2019
+!2020
+!2021
+!2022
+!2023
+!2024
+|-
+| 115
+| 133
+| 120
+| 135
+| 117
+| 125
+| 112
+| 117
+| 117
+| 114
+| 126
+| 131
+| 132
+| 181
+| 194
+| 184
+| 117
+| 136
+| 116
+| 153
+| 170
+| 104
+| 97
+| 83
+| 95
+| 94
+| 110
+| 107
+| 123
+| 122
+| 135
+| 137
+|}
+
+== All-time record ==
+{{updated|match played 28 March 2026}}
+
+{| class="wikitable plainrowheaders sortable" style="text-align:center"
+|+ All-time record of the Faroe Islands national football team
+|-
+!scope="col"|Opponents
+!width=40|{{Tooltip|Pld|Games played}}
+!width=40|{{Tooltip|W|Won}}
+!width=40|{{Tooltip|D|Drawn}}
+!width=40|{{Tooltip|L|Lost}}
+!width=40|{{Tooltip|GF|Goals for}}
+!width=40|{{Tooltip|GA|Goals against}}
+!width=40|{{Tooltip|Pts|Points}}
+|-
+!scope="row" align="left"|{{fb|ALB}}
+|2
+|0
+|1
+|1
+|1
+|3
+|1
+|-
+!scope="row" align="left"|{{fb|AND}}
+|5
+|3
+|2
+|0
+|4
+|0
+|11
+|-
+!scope="row" align="left"|{{fb|ARM}}
+|2
+|1
+|1
+|0
+|3
+|2
+|4
+|-
+!scope="row" align="left"|{{fb|AUT}}
+|8
+|1
+|1
+|6
+|4
+|21
+|4
+|-
+!scope="row" align="left"|{{fb|AZE}}
+|3
+|0
+|0
+|3
+|0
+|8
+|0
+|-
+!scope="row" align="left"|{{fb|BEL}}
+|2
+|0
+|0
+|2
+|0
+|6
+|0
+|-
+!scope="row" align="left"|{{fb|BIH}}
+|2
+|0
+|1
+|1
+|2
+|3
+|1
+|-
+!scope="row" align="left"|{{fb|CAN}}
+|2
+|1
+|0
+|1
+|1
+|1
+|3
+|-
+!scope="row" align="left"|{{fb|CRO}}
+|2
+|0
+|0
+|2
+|1
+|4
+|0
+|-
+!scope="row" align="left"|{{fb|CYP}}
+|4
+|0
+|1
+|3
+|3
+|10
+|1
+|-
+!scope="row" align="left"|{{fb|CZE}}
+|9
+|1
+|0
+|8
+|3
+|19
+|3
+|-
+!scope="row" align="left"|{{fb|TCH}}
+|2
+|0
+|0
+|2
+|0
+|7
+|0
+|-
+!scope="row" align="left"|{{fb|DEN}}
+|7
+|0
+|0
+|7
+|2
+|20
+|0
+|-
+!scope="row" align="left"|{{fb|EST}}
+|8
+|2
+|1
+|5
+|11
+|19
+|7
+|-
+!scope="row" align="left"|{{fb|FIN}}
+|5
+|0
+|0
+|5
+|1
+|14
+|0
+|-
+!scope="row" align="left"|{{fb|FRA}}
+|6
+|0
+|0
+|6
+|0
+|22
+|0
+|-
+!scope="row" align="left"|{{fb|GEO}}
+|3
+|0
+|0
+|3
+|1
+|10
+|0
+|-
+!scope="row" align="left"|{{fb|GER}}
+|4
+|0
+|0
+|4
+|1
+|10
+|0
+|-
+!scope="row" align="left"|{{fb|GIB}}
+|4
+|3
+|1
+|0
+|7
+|2
+|10
+|-
+!scope="row" align="left"|{{fb|GRE}}
+|4
+|2
+|0
+|2
+|4
+|11
+|6
+|-
+!scope="row" align="left"|{{fb|HUN}}
+|4
+|0
+|1
+|3
+|1
+|4
+|1
+|-
+!scope="row" align="left"|{{fb|ISL}}
+|14
+|1
+|0
+|13
+|8
+|25
+|3
+|-
+!scope="row" align="left"|{{fb|ISR}}
+|5
+|0
+|1
+|4
+|4
+|12
+|1
+|-
+!scope="row" align="left"|{{fb|ITA}}
+|4
+|0
+|0
+|4
+|2
+|11
+|0
+|-
+!scope="row" align="left"|{{fb|KAZ}}
+|5
+|3
+|1
+|1
+|8
+|6
+|10
+|-
+!scope="row" align="left"|{{fb|KOS}}
+|4
+|0
+|2
+|2
+|2
+|6
+|2
+|-
+!scope="row" align="left"|{{fb|LVA}}
+|8
+|1
+|5
+|2
+|5
+|5
+|8
+|-
+!scope="row" align="left"|{{fb|LIE}}
+|8
+|7
+|1
+|0
+|19
+|5
+|22
+|-
+!scope="row" align="left"|{{fb|LIT}}
+|11
+|2
+|2
+|7
+|8
+|15
+|8
+|-
+!scope="row" align="left"|{{fb|LUX}}
+|6
+|3
+|2
+|1
+|9
+|5
+|11
+|-
+!scope="row" align="left"|{{fb|MLT}}
+|10
+|6
+|2
+|2
+|19
+|14
+|20
+|-
+!scope="row" align="left"|{{fb|MDA}}
+|4
+|1
+|2
+|1
+|4
+|4
+|5
+|-
+!scope="row" align="left"|{{fb|MNE}}
+|2
+|1
+|0
+|1
+|4
+|1
+|3
+|-
+!scope="row" align="left"|{{fb|NED}}
+|1
+|0
+|0
+|1
+|0
+|3
+|0
+|-
+!scope="row" align="left"|{{fb|NIR}}
+|6
+|0
+|2
+|4
+|3
+|16
+|2
+|-
+!scope="row" align="left"|{{fb|MKD}}
+|3
+|0
+|1
+|2
+|1
+|3
+|1
+|-
+!scope="row" align="left"|{{fb|NOR}}
+|5
+|0
+|0
+|5
+|0
+|17
+|0
+|-
+!scope="row" align="left"|{{fb|POL}}
+|5
+|0
+|0
+|5
+|1
+|16
+|0
+|-
+!scope="row" align="left"|{{fb|POR}}
+|3
+|0
+|0
+|3
+|1
+|16
+|0
+|-
+!scope="row" align="left"|{{fb|IRL}}
+|4
+|0
+|0
+|4
+|1
+|11
+|0
+|-
+!scope="row" align="left"|{{fb|ROM}}
+|8
+|0
+|0
+|8
+|2
+|26
+|0
+|-
+!scope="row" align="left"|{{fb|RUS}}
+|4
+|0
+|0
+|4
+|2
+|12
+|0
+|-
+!scope="row" align="left"|{{fb|SMR}}
+|3
+|3
+|0
+|0
+|8
+|2
+|9
+|-
+!scope="row" align="left"|{{fb|SCO}}
+|11
+|0
+|2
+|9
+|6
+|31
+|2
+|-
+!scope="row" align="left"|{{fb|SER}}
+|4
+|0
+|0
+|4
+|1
+|10
+|0
+|-
+!scope="row" align="left"|{{fb|SVK}}
+|2
+|0
+|0
+|2
+|1
+|5
+|0
+|-
+!scope="row" align="left"|{{fb|SLO}}
+|4
+|0
+|1
+|3
+|3
+|12
+|1
+|-
+!scope="row" align="left"|{{fb|ESP}}
+|4
+|0
+|0
+|4
+|4
+|17
+|0
+|-
+!scope="row" align="left"|{{fb|SWE}}
+|5
+|0
+|1
+|4
+|1
+|13
+|1
+|-
+!scope="row" align="left"|{{fb|SUI}}
+|6
+|0
+|0
+|6
+|2
+|19
+|0
+|-
+!scope="row" align="left"|{{fb|TUR}}
+|3
+|1
+|1
+|1
+|3
+|6
+|4
+|-
+!scope="row" align="left"|{{fb|UKR}}
+|2
+|0
+|0
+|2
+|0
+|7
+|0
+|-
+!scope="row" align="left"|{{fb|WAL}}
+|2
+|0
+|0
+|2
+|0
+|9
+|0
+|-
+!scope="row" align="left"|{{fb|YUG}}
+|6
+|0
+|0
+|6
+|2
+|28
+|0
+|}
+
+==Honours==
+===Friendly===
+* '''[[Football at the Island Games|Island Games]]'''
+** '''Gold medal (2)''': 1989, 1991
+* '''[[Greenland Cup]]'''
+** '''Champions (2)''': 1983, 1984
+** Runners-up (1): 1980
+
+==See also==
+{{Portal|Association football|Faroe Islands}}
+*[[Faroe Islands national under-21 football team]]
+*[[Faroe Islands women's national football team]]
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons category|Faroe Islands national association football team}}
+* {{Official website|http://www.fsf.fo/}}
+* [https://www.rsssf.org/tablesf/far-intres.html RSSSF archive of results 1930–2008]
+* [https://www.rsssf.org/miscellaneous/far-recintlp.html RSSSF Record of Faroese International Players]
+* [https://www.uefa.com/nationalassociations/fro/ Faroe Islands] at [[UEFA]]
+* [https://www.fifa.com/about-fifa/associations/FRO Faroe Islands] at [[FIFA]]
+* [https://web.archive.org/web/20070328201910/http://footballsupporters.fo/ Footballsupporters.fo] (12. Maður&nbsp;– "12th Man", the supporters of the Faroe Islands national football team)
+
+{{Faroe Islands national football team}}
+{{Football in the Faroe Islands}}
+{{Island Games football teams}}
+{{UEFA teams}}
+{{National sports teams of the Faroe Islands}}
+
+[[Category:Faroe Islands national football team| ]]
+[[Category:Faroe Islands men's national football teams| ]]
+[[Category:Faroe Islands Football Association national teams| ]]
+[[Category:European national association football teams]]

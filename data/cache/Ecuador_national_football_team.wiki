@@ -1,0 +1,1455 @@
+{{Short description|Men's association football team}}
+{{About|the men's team|the women's team|Ecuador women's national football team}}
+{{Use dmy dates|date=June 2026}}
+{{Infobox national football team
+| Name                  = Ecuador
+| Nickname              = {{nowrap|{{lang|es|La Tri}}}} (The Tri)<br />{{nowrap|{{lang|es|La Tricolor}}}} (The Tricolours)<br /> ''La Selección'' (The Selection)
+| Badge                 = Logo de la Federación Ecuatoriana de Fútbol (2).svg
+| Badge_size            = 200px
+| Association           = [[Ecuadorian Football Federation|Federación Ecuatoriana de Fútbol]] (FEF)
+| Confederation         = [[CONMEBOL]] (South America)
+| Coach                 = ''Vacant''
+| Captain               = [[Moisés Caicedo]]
+| Most caps             = [[Iván Hurtado]] (168)
+| Top scorer            = [[Enner Valencia]] (49)
+| Home Stadium          = [[Estadio Rodrigo Paz Delgado]]
+| FIFA Trigramme        = ECU
+| FIFA Rank             = {{FIFA World Rankings|ECU}}
+| FIFA max              = 10
+| FIFA max date         = June 2013
+| FIFA min              = 71
+| FIFA min date         = November 2017
+| Elo Rank              = {{World Football Elo Ratings|Ecuador}}
+| Elo max               = 11
+| Elo max date          = 27 March 2013
+| Elo min               = 120
+| Elo min date          = December 1959
+<!-- home kit -->
+| pattern_la1           = _ecu26h
+| pattern_b1            = _ecu26h
+| pattern_ra1           = _ecu26h
+| pattern_sh1           = _ecu26h
+| pattern_so1           = _ecu26hl
+| leftarm1              = FFE80B
+| body1                 = FFE80B
+| rightarm1             = FFE80B
+| shorts1               = 253167
+| socks1                = 000000
+<!-- away kit -->
+| pattern_la2           = _ecu26a
+| pattern_b2            = _ecu26a
+| pattern_ra2           = _ecu26a
+| pattern_sh2           = _ecu26a
+| pattern_so2           = _ecu26al
+| leftarm2              = 0D183B
+| body2                 = 0D183B
+| rightarm2             = 0D183B
+| shorts2               = FFffff
+| socks2                = 000000
+<!-- third kit -->
+| pattern_la3           = _ecu26t
+| pattern_b3            = _ecu26t
+| pattern_ra3           = _ecu26t
+| pattern_sh3           = _ecu26t
+| pattern_so3           = _ecu26tl
+| leftarm3              = Ffffff
+| body3                 = Ffffff
+| rightarm3             = Ffffff
+| shorts3               = FFffff
+| socks3                = Ffffff
+
+| First game            = {{fb|BOL}} [[Football at the 1938 Bolivarian Games|1–1]] {{fb-rt|ECU|1900}}<br />([[Bogotá]], [[Colombia]]; 8 August 1938)
+| Largest win           = {{fb|ECU|1900}} 6–0 {{fb-rt|PER}}<br />([[Quito]], [[Ecuador]]; 22 June 1975)
+| Largest loss          = {{fb|ARG}} 12–0 {{fb-rt|ECU|1900}}<br />([[Montevideo]], [[Uruguay]]; 22 January 1942)
+| World cup apps        = 5
+| World cup first       = 2002
+| World cup best        = Round of 16 ([[2006 FIFA World Cup|2006]])
+| Regional name         = [[Copa América]]
+| Regional cup apps     = 30
+| Regional cup first    = [[1939 South American Championship|1939]]
+| Regional cup best     = Fourth place ([[1959 South American Championship (Ecuador)|1959]], [[1993 Copa América|1993]])
+| 2ndRegional name      = [[CONCACAF Gold Cup]]
+| 2ndRegional cup apps  = 1
+| 2ndRegional cup first = [[2002 CONCACAF Gold Cup|2002]]
+| 2ndRegional cup best  = Group stage ([[2002 CONCACAF Gold Cup|2002]])
+}}
+
+The '''Ecuador national football team''' ({{langx|es|Selección de fútbol de Ecuador}}), nicknamed '''''La Tricolor''''', represents [[Ecuador]] in men's international [[Association football|football]] and is controlled by the [[Ecuadorian Football Federation|Federación Ecuatoriana de Fútbol]] ({{langx|en|Ecuadorian Football Federation}}). They joined [[FIFA]] in 1926 and [[CONMEBOL]] a year later.
+
+Discarding an invitation to participate in the [[1930 FIFA World Cup|inaugural FIFA World Cup]] held in [[Uruguay]], Ecuador did not make their tournament debut until [[2002 FIFA World Cup|2002]]. After finishing above [[Brazil national football team|Brazil]] and [[Uruguay national football team|Uruguay]] in the standings, the qualifying campaign marked the emergence of several players, such as [[Agustín Delgado]], [[Álex Aguinaga]], [[Iván Hurtado]], [[Ulises de la Cruz]] and [[Iván Kaviedes]], who would set the stage for Ecuador's achievements in the next decade.<ref name="Ecuador's first World Cup">{{cite web|url=https://www.eluniverso.com/deportes/2019/11/06/nota/7591304/ecuador-18-anos-mundial-fifa-corea-japon-2002|title=Hace 18 años Ecuador clasificó a su primer mundial de fútbol|date=7 November 2019|language=es|work=El Universo|access-date=27 April 2020}}</ref> Having reached the Round of 16 in a memorable [[2006 FIFA World Cup|2006 World Cup]] campaign,<ref>{{cite news|url=https://www.nytimes.com/2006/06/15/sports/soccer/15cnd-ecuador.html|title=Ecuador Breathes the Thick Air of Victory|newspaper=The New York Times |date=15 June 2006|access-date=27 April 2020}}</ref> they were expected to deliver at the [[2007 Copa América]] but were eliminated in the group stage.<ref>{{cite web|url=http://www.hoy.com.ec/NoticiaNue.asp?row_id=271481|title=Falta de puntería silencia a seleccionados ecuatorianos|date=6 July 2007|author=Raúl Chávez|url-status=dead|archive-url=https://web.archive.org/web/20071227184300/http://www.hoy.com.ec/NoticiaNue.asp?row_id=271481|archive-date=27 December 2007|access-date=27 April 2020}}</ref> Along with [[Venezuela national football team|Venezuela]], they have not won the [[Copa América|continental tournament]]. ''La Tri''{{'}}s best performance was fourth in [[1959 South American Championship (Ecuador)|1959]] and [[1993 Copa América|1993]], both times on home soil.
+
+Ecuador plays the majority of their home matches at the [[Estadio Olímpico Atahualpa]] in [[Quito]].
+
+==History==
+Historically, Ecuador has been seen as a struggling footballing nation in South America. Despite their past failures, however, Ecuador has risen to be a serious South American competitor in recent years.
+
+Football was introduced to Ecuador by Juan Alfredo Wright, who had recently returned from university in England. On 23 April 1899, he and his brother Roberto founded the first Ecuadorian football team, [[Guayaquil Sport Club]].<ref>{{cite web|url=http://studiofutbol.com.ec/2013/04/26/como-llego-el-futbol-a-ecuador/|title=¿Cómo llegó el fútbol a Ecuador|date=26 April 2013|access-date=27 April 2020|language=es|url-status= dead|archive-url=https://web.archive.org/web/20190627023359/http://studiofutbol.com.ec/2013/04/26/como-llego-el-futbol-a-ecuador/|archive-date=27 June 2019}}</ref><ref name= "Ecuador football history">{{cite web|url=http://www.ecuafutbol.org/web/historia.php|title=Historia de La Federación Ecuatoriana de Fútbol|website=ecuafutbol.org|access-date=27 April 2020|url-status=dead|archive-url=https://web.archive.org/web/20180822213834/http://www.ecuafutbol.org/web/historia.php|archive-date=22 August 2018}}</ref> As the popularity of the sport grew in the country, more teams were established. On 30 May 1925, the Federación Deportiva Nacional del Ecuador was founded.<ref name="Ecuador football history"/> In 1930, [[FIFA]] sent an invitation encouraging for a men's national team to participate at the [[1930 FIFA World Cup|maiden World Cup]]. However, the then-Minister of Social Security and Sports declined the offer as they did not approve of the financial allocation.<ref>{{cite web|url=http://www.ecuador-embassy.or.jp/wc2002/s/history.html|title=Ecuador en la Copa Mundo|access-date=27 April 2020|archive-date=18 June 2008|archive-url=https://web.archive.org/web/20080618104203/http://www.ecuador-embassy.or.jp/wc2002/s/history.html|url-status=dead}}</ref>
+
+In 1938, the [[1938 Bolivarian Games|I Bolivarian Games]] were organized, with Ecuador set to take part in the [[Football at the 1938 Bolivarian Games|football tournament]]. On 8 August 1938, they played their first-ever match; a 1–1 draw with [[Bolivia national football team|Bolivia]]. Their following game saw the national team earn a 2–1 win against [[Colombia national football team|Colombia]]. Following a 9–1 crushing by [[Peru national football team|Peru]] and a 5–2 victory over [[Venezuela national football team|Venezuela]], Ecuador was tied for the silver medal with Bolivia. A playoff saw the Bolivians emerge triumphantly and the Ecuadorians finished the competition with the bronze medal.<ref>{{cite web|author1=José Luis Pierrend|author2=Alfonzo Cornejo|title=Bolivarian Games: Soccer Tournaments|website=[[RSSSF]]|url=https://www.rsssf.org/tablesb/bolivarianos.html|access-date=27 April 2020}}</ref>
+
+[[File:Ecuador v uruguay 1942.jpg|thumb|left|250px|The Ecuador squad that participated at the [[1942 South American Championship]]]]
+
+After finishing fourth at the [[1959 South American Championship (Ecuador)|1959 South American Championship]], the team entered the [[1962 FIFA World Cup qualification|World Cup qualifiers]] for the first time. They failed to qualify for [[1962 FIFA World Cup|1962]] after inflicted defeats by [[Argentina national football team|Argentina]].
+
+The [[1998 FIFA World Cup qualification (CONMEBOL)|1998 World Cup qualifiers]] saw the format for qualifying in [[CONMEBOL]] changed to a league home-and-away system. This difference made a huge impact on Ecuador's performance as they clinched several important home wins during the campaign. In the end, they achieved a 6th-place finish, just under [[Peru national football team|Peru]] and [[Chile national football team|Chile]].
+
+[[File:Switzerland and Ecuador match 2014-06-15 Vanishing foam.jpg|thumb|right|250px|[[Michael Arroyo]] executing a free kick against [[Switzerland national football team|Switzerland]] at the 2014 World Cup]]
+
+[[File:Cruyff, Jordi.jpg|thumb|right|250px|[[Jordi Cruyff|Jordi Cruijff]] became the manager of Ecuador in 2020]]
+
+Following the appointment of [[Hernán Darío Gómez]] for their [[2002 FIFA World Cup qualification (CONMEBOL)|2002 World Cup qualifying]] campaign, Ecuador recorded a historic 1–0 win against [[Brazil national football team|Brazil]].<ref name="Ecuador beats Brazil">{{cite web|url=https://www.eluniverso.com/2002/05/15/0001/664/F8AF5E2DDEDA44EAAD4F4D95A8F8ED7D.html|title=Otra primera vez, Ecuador venció a Brasil|date=15 May 2002|language=es|work=El Universo|access-date=28 April 2020|archive-date=6 February 2017|archive-url=https://web.archive.org/web/20170206180338/http://www.eluniverso.com/2002/05/15/0001/664/F8AF5E2DDEDA44EAAD4F4D95A8F8ED7D.html|url-status=dead}}</ref> A 5–1 win over Bolivia saw ''la Tricolor'' only needing a point to qualify for the World Cup. They faced [[Uruguay national football team|Uruguay]], and, after managing to cling onto a 1–1 draw, obtained their spot in the [[2002 FIFA World Cup|World Cup]] in East Asia.<ref name="Ecuador's first World Cup"/>
+
+Ecuador started the 2002 World Cup with a 2–0 loss to [[Italy national football team|Italy]]. [[Agustín Delgado]] scored his country's first World Cup goal; he opened the scoring in a 2–1 loss to [[Mexico national football team|Mexico]].<ref>{{cite web|url=https://www.eluniverso.com/2002/06/09/0001/653/BC1EE6CAB12140F98A01304C63D206D4.html|title=Tin Delgado, un goleador mundial...|date=9 June 2002|language=es|work=El Universo|access-date=27 April 2020}}</ref> Despite defeating [[Croatia national football team|Croatia]], who had achieved third place in the [[1998 FIFA World Cup|previous tournament]], and eliminating the Croats in process, Ecuador placed fourth in Group G and 24th overall.
+
+A disappointing showing at the [[2004 Copa América]] led to the resignation of Gómez, who was replaced by [[Luis Fernando Suárez]]. He led them successfully through the latter stages of the [[2006 FIFA World Cup qualification (CONMEBOL)|qualification process for the 2006 FIFA World Cup]], finishing third to make the finals. In Germany, they were drawn into Group A with [[German national football team|the hosts]], [[Poland national football team|Poland]], and [[Costa Rica national football team|Costa Rica]]. Wins over Poland and Costa Rica earned Ecuador qualification to the knockout stages for the first time.
+
+After a dull [[2014 FIFA World Cup]], and an unpleasant streak of failing to advance past the group stages of the [[Copa América]], [[Gustavo Quinteros]] was hired to help rebuild the national team. Quinteros helped Ecuador reach the quarter-finals of the [[Copa América Centenario]]<ref>{{cite web|url=https://www.eluniverso.com/deportes/2016/06/16/nota/5639523/ecuador-estados-unidos-cuartos-final-copa-america-centenario|title=Ecuador cayó 2-1 ante Estados Unidos y se despidió de la Copa América 2016|work=El Universo|date=16 June 2016|language=es|access-date=27 April 2020}}</ref> and started the [[2018 FIFA World Cup qualification (CONMEBOL)|2018 World Cup qualifiers]] strong. They were setback after a loss to [[Uruguay national football team|Uruguay]] and finished eighth in the standings.
+
+Gómez was reinstalled to lead Ecuador at the [[2019 Copa América]]. His second stint was short, as he was soon fired after a disastrous tournament, having only earned a point.<ref>{{cite web|url=https://www.infobae.com/america/deportes/2019/07/31/a-menos-de-un-ano-de-su-presentacion-hernan-dario-gomez-dejo-de-ser-el-tecnico-de-ecuador/|title=A menos de un año de su presentación, Hernán Darío Gómez dejó de ser el técnico de Ecuador|author=infobae.com|date=31 July 2019|language=es}}</ref>
+
+For [[2026 FIFA World Cup qualification (CONMEBOL)|the qualifying for the 2026 FIFA World Cup]], as punishment for fielding the player [[Byron Castillo]] who had a passport with falsified information in the previous World Cup qualification cycle, Ecuador was deducted three points and fined [[Swiss franc|CHF]] 100,000.<ref name="ecuador_deduction">{{cite web |url=https://www.tas-cas.org/fileadmin/user_upload/CAS_Media_Release_9175_9176_Decision.pdf |title=The CAS confirms the eligibility of the player Byron Castillo (Ecuador) but imposes sanctions against the Ecuadorian Football Federation for a violation of the FIFA regulations |work=Court of Arbitration for Sport |date=8 November 2022}}</ref>
+
+==Home stadium==
+{{main|Estadio Olímpico Atahualpa}}
+[[File:MIRANDO A QUITO DESDE LAS ALTURAS (37628605982).jpg|thumb|left|250px|Aerial view of the stadium in 2017]]
+
+The Ecuador national team plays their home games at the Estadio Olímpico Atahualpa in [[Quito]]. Having opened in 1951, it initially had a capacity of 45,000, but was later reduced to 35,724.
+
+The stadium has a [[running track]], which has gone to be one of the most important in [[South America]] for events organized by the former [[World Athletics|International Association of Athletics Federations]].<ref>{{cite web|url=https://www.afa.com.ar/5847/posts/conoce-el-estadio-olimpico-atahualpa|title=Conocé el Estadio Olímpico Atahualpa|author=AFA|date=30 January 2017|access-date=5 May 2020}}</ref>
+
+15 gates surround the stadium, allowing for an evacuation to be completed in about 10 minutes. The venue also features an electronic scoreboard located in the northern sector. The screen, manufactured by Hungarian-based company Elektroimpex in 1985, measures 10 meters tall and 30 meters wide.<ref>{{cite web|url=https://www.eltelegrafo.com.ec/noticias/eliminatorias/24/el-marcador-del-atahualpa-tambien-celebra-las-victorias-de-ecuador|title=El marcador del Atahualpa también celebra las victorias de Ecuador|author=El Telégrafo|date=8 October 2016|access-date=5 May 2020|url-status=dead|archive-url=https://web.archive.org/web/20181019121935/https://www.eltelegrafo.com.ec/noticias/eliminatorias/24/el-marcador-del-atahualpa-tambien-celebra-las-victorias-de-ecuador|archive-date=19 October 2018}}</ref>
+
+In this stadium, Ecuador defeated [[Uruguay national football team|Uruguay]] at the [[1993 Copa América]] and [[Brazil national football team|Brazil]] at the [[2002 FIFA World Cup qualification|2002 World Cup qualifiers]].<ref name="Ecuador beats Brazil"/> After tying with the former on 7 November 2001, Ecuador qualified for their first World Cup. Since then, Ecuador has qualified three times.
+
+The stadium is set to be demolished in late-2020 for a newer stadium, which in first instance was for preparation for the [[2024 Copa América]].<ref>{{cite web|url=https://www.eluniverso.com/2012/06/14/1/1372/ecuador-comenzo-estudios-modernizar-estadios-2023.html|title=Ecuador comenzó estudios para modernizar los estadios para 2023|work=El Universo|date=14 June 2012|access-date=5 May 2020}}</ref><ref name="Ecuador stadium demolished">{{cite web |date=13 January 2020 |title=El estadio Olímpico Atahualpa será demolido a finales del 2020 y se levantará otro estadio con mayor capacidad |url=https://www.eluniverso.com/deportes/2020/01/13/nota/7689729/estadio-olimpico-atahualpa-sera-demolido-su-lugar-se-construira |access-date=27 April 2020 |language=es}}</ref> However, Ecuador declined to host Copa America in 2022.<ref>{{Cite web |date=November 9, 2022 |title=Ya es oficial: Ecuador no será sede de la Copa América 2024 |url=https://www.eluniverso.com/deportes/futbol/ya-es-oficial-ecuador-no-sera-sede-la-copa-america-2024-nota/ |access-date=November 10, 2022 |website=El Universo |language=es}}</ref>
+
+For the [[2022 FIFA World Cup qualification|2022 FIFA World Cup qualifiers]], Ecuador played at the ''[[Estadio Rodrigo Paz Delgado|Casa Blanca]].''{{citation needed|date=January 2022}}
+
+==Team image==
+{{Commons|Ecuador national football team kits}}
+[[File:ECUADOR VS ARGENTINA (37593214472).jpg|thumb|right|250px|The Ecuador team posing before facing [[Argentina national football team|Argentina]] in October 2017]]
+
+The standard Ecuador uniform maintains the [[List of countries by colors of national flags|colours]] of the [[Flag of Ecuador|national flag]], typically a yellow top, blue shorts, and red socks.<ref>{{cite web |url=http://www.ecuafutbol.org/selecciones/camisetas_40.aspx |title=Federación Ecuatoriana de Fútbol, el portal de fútbol ecuatoriano |access-date=12 November 2013 |url-status=dead |archive-url=https://web.archive.org/web/20131101015232/http://www.ecuafutbol.org/selecciones/camisetas_40.aspx |archive-date=1 November 2013 }}</ref> The alternate [[National colours|colours]] of the uniform are white and blue, this being based on the flag of the [[Guayas Province]]. From 1965 to 2020, the crest featured the [[Andean condor]], Ecuador's national bird, above a shield with the country's colors. In January 2020, the [[Ecuadorian Football Federation]] announced a rebrand of the logo; a navy blue shield with an "FEF" monogram attempting to "abstractly build a condor".<ref>{{Cite web | url=http://www.sportslogos.net/teams/list_by_league/58/CONMEBOL/CONMEBOL/logos |title = SportsLogos.Net - CONMEBOL Logos - CONMEBOL Logos - the News and History of Sports Logos and Uniforms}}</ref><ref>{{Cite web | url=https://www.underconsideration.com/brandnew/archives/new_logo_for_federacion_ecuatoriana_de_futbol.php |title = Flight of the Condor|author=underconsideration.com|date=31 January 2020|access-date=27 April 2020}}</ref>
+
+===Kit sponsorship===
+{| class="wikitable"
+|-
+! Kit supplier
+! Period
+|-
+|{{flagicon|FRG}} [[Adidas]]
+| 1985
+|-
+|{{flagicon|ECU|1900}} Credeport
+| 1986–1990
+|-
+|{{flagicon|GER}} [[Puma (brand)|Puma]]
+| 1991–1992
+|-
+|{{flagicon|USA}} [[Reebok]]
+| 1993–1994
+|-
+|{{flagicon|ECU}} [[Marathon Sports|Marathon]]
+| 1994–present
+|}
+
+==Results and fixtures==
+{{main|Ecuador national football team results (2020–present)}}
+The following is a list of match results in the last 12 months, as well as any future matches that have been scheduled.
+
+{{legend2|#CCFFCC|Win|border=1px solid #AAAAAA}}
+{{legend2|#FFFFCC|Draw|border=1px solid #AAAAAA}}
+{{legend2|#FFCCCC|Loss|border=1px solid #AAAAAA}}
+{{legend2|#FFFFFF|Fixture|border=1px solid #AAAAAA}}
+
+===2025===
+{{football box collapsible
+|format     = 1
+|round      = [[2026 FIFA World Cup qualification (CONMEBOL)#Matchday 12|2026 FIFA World Cup qualification]]
+|date       = 4 September
+|time       = {{UTZ|20:30|−3}}
+|team1      = {{fb-rt|PAR}}
+|score      = 0–0
+|team2      = {{fb|ECU}}
+|report     = https://www.fifa.com/en/match-centre/match/520/288315/288316/400020570
+|goals1     =
+|goals2     =
+|location   = [[Asunción]], Paraguay
+|stadium    = [[Estadio Defensores del Chaco]]
+|attendance = 
+|referee    = [[Raphael Claus]] ([[Brazilian Football Confederation|Brazil]])
+|result     = D
+}}
+{{football box collapsible
+|format     = 1
+|round      = [[2026 FIFA World Cup qualification (CONMEBOL)#Matchday 12|2026 FIFA World Cup qualification]]
+|date       = 9 September
+|time       = {{UTZ|18:00|−5}}
+|team1      = {{fb-rt|ECU}}
+|score      = 1–0
+|team2      = {{fb|ARG}}
+|report     = https://www.fifa.com/en/match-centre/match/520/288315/288316/400020574
+|goals1     =
+*[[Enner Valencia|E. Valencia]] {{goal|45+13|pen.}}
+|goals2     =
+|location   = [[Guayaquil]], Ecuador
+|stadium    = [[Estadio Monumental Isidro Romero Carbo]]
+|attendance = 
+|referee    = [[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+|result     = W
+}}
+{{football box collapsible
+|format     = 1
+|round      = [[Exhibition game#Association football|Friendly]]
+|date       = 10 October
+|time       = {{UTZ|19:30|−5}}
+|team1      = {{fb-rt|USA}}
+|score      = 1–1
+|team2      = {{fb|ECU}}
+|report     = https://www.soccerway.com/match/ecuador-8tbm8Tri/usa-fuitL4CF/
+|goals1     =
+*[[Folarin Balogun|Balogun]] {{goal|71}}
+|goals2     =
+*[[Enner Valencia|E. Valencia]] {{goal|24}}
+|location   = [[Austin, Texas|Austin]], United States
+|stadium    = [[Q2 Stadium]]
+|attendance = 20,738
+|referee    = [[Filip Dujic]] ([[Canadian Soccer Association|Canada]])
+|result     = D
+}}
+{{football box collapsible
+|format     = 1
+|round      = [[Exhibition game#Association football|Friendly]]
+|date       = 14 October
+|time       = {{UTZ|20:30|−6}}
+|team1      = {{fb-rt|MEX}}
+|score      = 1–1
+|team2      = {{fb|ECU}}
+|report     = https://www.soccerway.com/match/ecuador-8tbm8Tri/mexico-O6iHcNkd/
+|goals1     =
+*[[Germán Berterame|Berterame]] {{goal|3}}
+|goals2     =
+*[[Jordy Alcívar|Alcívar]] {{goal|20|pen.}}
+|location   = [[Zapopan]], Mexico
+|stadium    = [[Estadio Akron]]
+|attendance = 49,850
+|referee    = Victor Rivas ([[United States Soccer Federation|United States]])
+|result     = D
+}}
+{{football box collapsible
+|format     = 1
+|round      = [[Exhibition game#Association football|Friendly]]
+|date       = 13 November
+|time       = {{UTZ|19:30|-5}}
+|team1      = {{fb-rt|CAN}}
+|score      = 0–0
+|team2      = {{fb|ECU}}
+|report     = https://www.soccerway.com/match/canada-x4toKORL/ecuador-8tbm8Tri/?mid=fPhfOq77
+|goals1     =
+|goals2     =
+|location   = [[Toronto]], Canada
+|stadium    = [[BMO Field]]
+|attendance = 28,740
+|referee    = Fernando Hernández ([[Mexican Football Federation|Mexico]])
+|result     = D
+}}
+{{football box collapsible
+|format     = 1
+|round      = [[Exhibition game#Association football|Friendly]]
+|date       = 18 November
+|time       = {{UTZ|20:30|-5}}
+|team1      = {{fb-rt|ECU}}
+|score      = 2–0
+|team2      = {{fb|NZL}}
+|report     = https://www.soccerway.com/match/ecuador-8tbm8Tri/new-zealand-rLctHkpU/?mid=pAyQLUqL
+|goals1     =
+*[[Nilson Angulo|Angulo]] {{goal|50}}
+*[[Leonardo Campana|Campana]] {{goal|83}}
+|goals2     =
+|location   = [[Harrison, New Jersey|Harrison]], United States
+|stadium    = [[Sports Illustrated Stadium]]
+|attendance =
+|referee    = 
+|result     = W
+}}
+
+===2026===
+{{football box collapsible
+|format     = 1
+|date       = 27 March
+|round      = [[Exhibition game#Association football|Friendly]]
+|time       = {{UTZ|20:15|+1}}
+|team1      = {{fb-rt|MAR}}
+|score      = 1–1
+|team2      = {{fb|ECU}}
+|report     = https://www.soccerway.com/match/ecuador-8tbm8Tri/morocco-IDKYO3R8/?mid=v17JEQCb
+|goals1     =
+*[[Neil El Aynaoui|El Aynaoui]] {{goal|88}}
+|goals2     =
+*[[John Yeboah|Yeboah]] {{goal|48}}
+|location   = [[Madrid]], Spain
+|stadium    = [[Metropolitano Stadium]]
+|attendance = 61,622
+|referee    = [[José Luis Munuera Montero]] ([[Spanish Football Federation|Spain]])
+|result     = D
+}}
+{{football box collapsible
+|format     = 1
+|round      = [[Exhibition game#Association football|Friendly]]
+|date       = 31 March
+|time       = {{UTZ|20:45|+2}}
+|team1      = {{fb-rt|NED}}
+|score      = 1–1
+|team2      = {{fb|ECU}}
+|report     = https://www.soccerway.com/match/ecuador-8tbm8Tri/netherlands-WYintcWb/?mid=2PWJ81Ur
+|goals1     =
+*[[Willian Pacho|Pacho]] {{goal|3|o.g.}}
+|goals2     =
+*[[Enner Valencia|E. Valencia]] {{goal|24|pen.}}
+|location   = [[Eindhoven]], Netherlands
+|stadium    = [[Philips Stadion]]
+|attendance = 29,344
+|referee    = [[Sascha Stegemann]] ([[German Football Association|Germany]])
+|result     = D
+}}
+{{football box collapsible
+|format     = 1
+|round      = [[Exhibition game#Association football|Friendly]]
+|date       = 30 May
+|time       = {{UTZ|19:30|-4}}
+|team1      = {{fb-rt|ECU}}
+|score      = 2–1
+|team2      = {{fb|KSA}}
+|report     = https://www.soccerway.com/match/ecuador-8tbm8Tri/saudi-arabia-biSY8ox4/?mid=zXYgLzxo
+|goals1     =
+*[[Jackson Porozo|Porozo]] {{goal|35}}
+*[[Anthony Valencia|A. Valencia]] {{goal|51}}
+|goals2     =
+*[[Sultan Mandash|Mandash]] {{goal|87}}
+|location   = [[Harrison, New Jersey|Harrison]], United States
+|stadium    = [[Sports Illustrated Stadium]]
+|attendance =
+|referee    = Pierre-Luc Lauziere ([[Canadian Soccer Association|Canada]])
+|result     = W
+}}
+{{football box collapsible
+|format     = 1
+|round      = [[Exhibition game#Association football|Friendly]]
+|date       = 7 June
+|time       = {{UTZ|16:00|-4}}
+|team1      = {{fb-rt|ECU}}
+|score      = 3–0
+|team2      = {{fb|GUA}}
+|report     = https://www.soccerway.com/match/ecuador-8tbm8Tri/guatemala-8KhCLQs3/?mid=hnYs0nU6
+|goals1     =
+*[[Jordy Caicedo|J. Caicedo]] {{goal|19|pen.}}
+*[[Nilson Angulo|Angulo]] {{goal|73}}
+*[[Pervis Estupiñán|Estupiñán]] {{goal|78}}
+|goals2     =
+|location   = [[Columbus, Ohio|Columbus]], United States
+|stadium    = [[ScottsMiracle-Gro Field]]
+|attendance =
+|referee    = Marco Ortíz ([[Mexican Football Federation|Mexico]])
+|result     = W
+}}
+{{football box collapsible
+|format     = 1
+|round      = [[2026 FIFA World Cup Group E|2026 FIFA World Cup GS]]
+|date       = 14 June
+|time       = {{UTZ|19:00|−4}}
+|team1      = {{fb-rt|CIV}}
+|score      = 1–0
+|team2      = {{fb|ECU}}
+|report     = https://www.fifa.com/en/match-centre/match/17/285023/289273/400021467
+|goals1     =
+*[[Amad Diallo|Amad]] {{goal|90}}
+|goals2     =
+|location   = [[Philadelphia]], United States
+|stadium    = [[Lincoln Financial Field]]
+|attendance = 68,274
+|referee    = [[François Letexier]] ([[French Football Federation|France]])
+|result     = L
+}}
+{{football box collapsible
+|format     = 1
+|round      = [[2026 FIFA World Cup Group E|2026 FIFA World Cup GS]]
+|date       = 20 June
+|time       = {{UTZ|19:00|−5}}
+|team1      = {{fb-rt|ECU}}
+|score      = 0–0
+|team2      = {{fb|CUR}}
+|report     = https://www.fifa.com/en/match-centre/match/17/285023/289273/400021465
+|goals1     =
+|goals2     =
+|location   = [[Kansas City, Missouri|Kansas City]], United States
+|stadium    = [[Arrowhead Stadium]]
+|attendance = 68,598
+|referee    = [[Ma Ning (referee)|Ma Ning]] ([[Chinese Football Association|China]])
+|result     = D
+}}
+{{football box collapsible
+|format     = 1
+|round      = [[2026 FIFA World Cup Group E|2026 FIFA World Cup GS]]
+|date       = 25 June
+|time       = {{UTZ|16:00|−4}}
+|team1      = {{fb-rt|ECU}}
+|score      = 2–1
+|team2      = {{fb|GER}}
+|report     = https://www.fifa.com/en/match-centre/match/17/285023/289273/400021466
+|goals1     =
+*[[Nilson Angulo|Angulo]] {{goal|9}}
+*[[Gonzalo Plata|Plata]] {{goal|77}}
+|goals2     =
+*[[Leroy Sane|Sane]] {{goal|2}}
+|location   = [[East Rutherford, New Jersey|East Rutherford]], United States
+|stadium    = [[MetLife Stadium]]
+|attendance = 80,663
+|referee    = [[Tori Penso]] ([[United States Soccer Federation|United States]])
+|result     = W
+}}
+{{football box collapsible
+|format     = 1
+|round      = [[2026 FIFA World Cup knockout stage|2026 FIFA World Cup R32]]
+|date       =  30 June
+|time       = {{UTZ|20:00|-6}}
+|team1      = {{fb-rt|MEX}}
+|score      = 2–0
+|team2      = {{fb|ECU}}
+|report     = https://www.fifa.com/en/match-centre/match/17/285023/289287/400021520
+|goals1     = 
+*[[Julián Andrés Quiñones|Quiñones]] {{goal|22}}
+*[[Raúl Jiménez|Jiménez]] {{goal|31}}
+|goals2     = 
+|location   = [[Mexico City]], Mexico
+|stadium    = [[Estadio Azteca]]
+|attendance = 80,824
+|referee    = [[Slavko Vinčić]] ([[Football Association of Slovenia|Slovenia]])
+|result     = L
+}}
+
+==Coaching staff==
+[[File:Sebastián Beccacece - Russia 2018.jpg|thumb|upright=0.6|Current head coach [[Sebastián Beccacece]]]]
+{| class="wikitable"
+|-
+!style="color:#002040;background:#FFFF00;"|Position
+!style="color:#002040;background:#FFFF00;"|Name
+|-
+| Head coach || ''Vacant''
+|-
+| Assistant coach || {{flagicon|ARG}} [[Nicolás Chiesa]] <br/> {{flagicon|ARG}} [[Guillermo Marino]]
+|-
+| Goalkeeper coach || {{flagicon|ARG}} [[Gustavo Campagnuolo]]
+|-
+| Fitness coach || {{flagicon|ARG}} Martín Bressan
+|}
+
+==Coaching history==
+{{div col|colwidth=20em}}
+*{{flagicon|CHI}} [[Enrique Lamas]] (1938)
+*{{flagicon|ECU|1900}} [[Ramón Unamuno]] (1939)
+*{{flagicon|ARG}} [[Juan Parodi]] (1941–1942)
+*{{flagicon|ARG}} [[Rodolfo Orlandini]] (1945)
+*{{flagicon|ECU|1900}} [[Ramón Unamuno]] (1947)
+*{{flagicon|ESP|1945}} [[José Planas Artés|José Planas]] (1949)
+*{{flagicon|ARG}} [[Iván Esperón]] (1953)
+*{{flagicon|ECU|1900}} [[José María Díaz Granados|José María Díaz]] (1955)
+*{{flagicon|ITA}} {{flagicon|ARG}} [[Eduardo Spandre]] (1957)
+*{{flagicon|URU}} [[Juan López (football manager, born 1908)|Juan López]] (1959–1960)
+*{{flagicon|ECU|1900}} [[Fausto Montalván]] (1963, 1966)
+*{{flagicon|URU}} [[José María Rodríguez (football manager)|José María Rodríguez]] (1965)
+*{{flagicon|BRA|1968}} [[José Gomes Nogueira]] (1969)
+*{{flagicon|ECU|1900}} [[Ernesto Guerra]] (1970, 1977–1979, 1983)
+*{{flagicon|ECU|1900}} [[Jorge Lazo]] (1972)
+*{{flagicon|ARG}} [[Roberto Resquín]] (1973)
+*{{flagicon|URU}} [[Roque Máspoli]] (1975–1977)
+*{{flagicon|ECU|1900}} [[Héctor Morales (footballer, born 1944)|Héctor Morales]] (1979–1980)
+*{{flagicon|BRA|1968}} [[Otto Vieira]] (1981)
+*{{flagicon|URU}} [[Juan Hohberg]] (1981–1982)
+*{{flagicon|BRA|1968}} [[Antoninho Ferreira]] (1984–1985)
+*{{flagicon|URU}} [[Luis Grimaldi]] (1986–1987)
+*{{flagicon|YUG}} {{flagicon|MNE}} [[Dušan Drašković]] (1988–1993)
+*{{flagicon|ECU|1900}} [[Carlos Torres Garcés]] (1994)
+*{{flagicon|ECU|1900}} [[Carlos Ron]] (1994)
+*{{flagicon|COL}} [[Francisco Maturana]] (1995–1997, 1997)
+*{{flagicon|COL}} [[Luis Fernando Suárez]] (1997, 2004–2007)
+*{{flagicon|ECU|1900}} [[Polo Carrera]] (1998)
+*{{flagicon|ECU|1900}} [[Carlos Sevilla]] (1999)
+*{{flagicon|COL}} [[Hernán Darío Gómez]] (1999–2004, 2018–2019)
+*{{flagicon|ECU}} [[Sixto Vizuete]] (2007–2010, 2014–2015)
+*{{flagicon|COL}} [[Reinaldo Rueda]] (2010–2014)
+*{{flagicon|ARG}} {{flagicon|BOL|civil}} [[Gustavo Quinteros]] (2015–2017)
+*{{flagicon|ARG}} [[Jorge Célico]] (2017–2018, 2019–2020)
+*{{flagicon|NED}} {{flagicon|ESP}} [[Jordi Cruyff]] (2020)
+*{{flagicon|ARG}} [[Gustavo Alfaro]] (2020–2023)
+*{{flagicon|ESP}} [[Félix Sánchez (football manager)|Félix Sánchez]] (2023–2024)
+*{{flagicon|ARG}} [[Sebastián Beccacece]] (2024–2026)
+{{div col end}}
+
+==Players==
+===Current squad===
+The following 26 players were called up to the [[2026 FIFA World Cup]].<ref>{{cite web |url=https://www.instagram.com/p/DZBsBHEMqH-/?hl=en |title=Nosotros vamos en serio. Porque estos 26 van con la misma hambre de 18 millones de ecuatorianos. Con el mismo sacrificio de los que salieron desde abajo y llegaron lejos. Esta es nuestra lista, y vamos a demostrar al mundo que esto es Ecuador. |trans-title=We're going for real. Because these 26 go with the same hunger of 18 million Ecuadorians. With the same sacrifice of those who came from the bottom and reached far.This is our list, and we will show the world that this is Ecuador. |publisher=[[Ecuadorian Football Federation]] |date=31 May 2026 |access-date=31 May 2026 |language=es}}</ref>
+<br>''Caps and goals current as of 30 June 2026, after the match against [[Mexico national football team|Mexico]].''
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Hernán Galíndez]]|age={{birth date and age|df=yes|1987|3|30}}|caps=39|goals=0|club=[[Club Atlético Huracán|Huracán]]|clubnat=ARG}}
+{{nat fs g player|no=12|pos=GK|name=[[Moisés Ramírez]]|age={{birth date and age|df=yes|2000|9|9}}|caps=7|goals=0|club=[[A.E. Kifisia F.C.|Kifisia]]|clubnat=GRE}}
+{{nat fs g player|no=22|pos=GK|name=[[Gonzalo Valle]]|age={{birth date and age|df=yes|1996|2|28}}|caps=4|goals=0|club=[[L.D.U. Quito|LDU Quito]]|clubnat=ECU}}
+{{nat fs break}}
+{{nat fs g player|no=2|pos=DF|name=[[Félix Torres (footballer, born 1997)|Félix Torres]]|age={{birth date and age|df=yes|1997|1|11}}|caps=50|goals=5|club=[[SC Internacional|Internacional]]|clubnat=BRA}}
+{{nat fs g player|no=3|pos=DF|name=[[Piero Hincapié]]|age={{birth date and age|df=yes|2002|1|9}}|caps=56|goals=3|club=[[Arsenal F.C.|Arsenal]]|clubnat=ENG}}
+{{nat fs g player|no=4|pos=DF|name=[[Joel Ordóñez]]|age={{birth date and age|df=yes|2004|4|21}}|caps=20|goals=0|club=[[Club Brugge]]|clubnat=BEL}}
+{{nat fs g player|no=6|pos=DF|name=[[Willian Pacho]]|age={{birth date and age|df=yes|2001|10|16}}|caps=38|goals=2|club=[[Paris Saint-Germain FC|Paris Saint-Germain]]|clubnat=FRA}}
+{{nat fs g player|no=7|pos=DF|name=[[Pervis Estupiñán]]|age={{birth date and age|df=yes|1998|1|21}}|caps=56|goals=5|club=[[Aston Villa]]|clubnat=ENG}}
+{{nat fs g player|no=17|pos=DF|name=[[Ángelo Preciado]]|age={{birth date and age|df=yes|1998|2|18}}|caps=59|goals=0|club=[[Clube Atlético Mineiro|Atlético Mineiro]]|clubnat=BRA}}
+{{nat fs g player|no=25|pos=DF|name=[[Jackson Porozo]]|age={{birth date and age|df=yes|2000|8|4}}|caps=11|goals=1|club=[[Club Tijuana|Tijuana]]|clubnat=MEX}}
+{{nat fs break}}
+{{nat fs g player|no=5|pos=MF|name=[[Jordy Alcívar]]|age={{birth date and age|df=yes|1999|8|5}}|caps=12|goals=1|club=[[Independiente del Valle]]|clubnat=ECU}}
+{{nat fs g player|no=8|pos=MF|name=[[Anthony Valencia]]|age={{birth date and age|df=yes|2003|7|21}}|caps=3|goals=1|club=[[Royal Antwerp F.C.|Antwerp]]|clubnat=BEL}}
+{{nat fs g player|no=9|pos=MF|name=[[John Yeboah]]|age={{birth date and age|df=yes|2000|6|23}}|caps=27|goals=3|club=[[Venezia FC|Venezia]]|clubnat=ITA}}
+{{nat fs g player|no=10|pos=MF|name=[[Kendry Páez]]|age={{birth date and age|df=yes|2007|5|4}}|caps=27|goals=2|club=[[Club Atlético River Plate|River Plate]]|clubnat=ARG}}
+{{nat fs g player|no=14|pos=MF|name=[[Alan Minda]]|age={{birth date and age|df=yes|2003|5|14}}|caps=21|goals=2|club=[[Clube Atlético Mineiro|Atlético Mineiro]]|clubnat=BRA}}
+{{nat fs g player|no=15|pos=MF|name=[[Pedro Vite]]|age={{birth date and age|df=yes|2002|3|9}}|caps=21|goals=1|club=[[Pumas UNAM|UNAM]]|clubnat=MEX}}
+{{nat fs g player|no=18|pos=MF|name=[[Denil Castillo]]|age={{birth date and age|df=yes|2004|3|24}}|caps=5|goals=0|club=[[FC Midtjylland|Midtjylland]]|clubnat=DEN}}
+{{nat fs g player|no=19|pos=MF|name=[[Gonzalo Plata]]|age={{birth date and age|df=yes|2000|11|1}}|caps=54|goals=9|club=[[CR Flamengo|Flamengo]]|clubnat=BRA}}
+{{nat fs g player|no=21|pos=MF|name=[[Alan Franco (footballer, born 1998)|Alan Franco]]|age={{birth date and age|df=yes|1998|8|21}}|caps=62|goals=1|club=[[Clube Atlético Mineiro|Atlético Mineiro]]|clubnat=BRA}}
+{{nat fs g player|no=23|pos=MF|name=[[Moisés Caicedo]]|age={{birth date and age|df=yes|2001|11|2}}|caps=65|goals=3|club=[[Chelsea F.C.|Chelsea]]|clubnat=ENG}}
+{{nat fs g player|no=26|pos=MF|name=[[Yaimar Medina]]|age={{birth date and age|df=yes|2004|11|5}}|caps=7|goals=0|club=[[K.R.C. Genk|Genk]]|clubnat=BEL}}
+{{nat fs break}}
+{{nat fs g player|no=11|pos=FW|name=[[Kevin Rodríguez (footballer, born 2000)|Kevin Rodríguez]]|age={{birth date and age|df=yes|2000|3|4}}|caps=35|goals=2|club=[[Royale Union Saint-Gilloise|Union Saint-Gilloise]]|clubnat=BEL}}
+{{nat fs g player|no=13|pos=FW|name=[[Enner Valencia]]|other=[[Captain (association football)|captain]]|age={{birth date and age|df=yes|1989|11|4}}|caps=109|goals=49|club=[[C.F. Pachuca|Pachuca]]|clubnat=MEX}}
+{{nat fs g player|no=16|pos=FW|name=[[Jordy Caicedo]]|age={{birth date and age|df=yes|1997|11|18}}|caps=23|goals=4|club=[[Club Atlético Huracán|Huracán]]|clubnat=ARG}}
+{{nat fs g player|no=20|pos=FW|name=[[Nilson Angulo]]|age={{birth date and age|df=yes|2003|6|19}}|caps=18|goals=3|club=[[Sunderland A.F.C.|Sunderland]]|clubnat=ENG}}
+{{nat fs g player|no=24|pos=FW|name=[[Jeremy Arévalo]]|age={{birth date and age|df=yes|2005|3|19}}|caps=4|goals=0|club=[[VfB Stuttgart]]|clubnat=GER}}
+{{nat fs end}}
+
+===Recent call-ups===
+The following players have been called up during the last twelve months.
+<!--Sorted by position, most recent call-up, caps, goals and last name.-->
+{{nat fs r start}}
+{{nat fs r player|no=|pos=GK|name=[[Cristhian Loor]]|age={{birth date and age|df=yes|2006|3|9}}|caps=0|goals=0|club=[[Botafogo FR|Botafogo]]|clubnat=BRA|latest=v. {{fb|KSA}}, 31 May 2026}}
+{{nat fs r player|no=|pos=GK|name=[[David Cabezas]]|age={{birth date and age|df=yes|1995|6|12}}|caps=1|goals=0|club=[[Libertad F.C. (Ecuador)|Libertad]]|clubnat=ECU|latest=v. {{fb|NED}}, 31 March 2026}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=DF|name=[[José Hurtado (footballer)|José Hurtado]]|age={{birth date and age|df=yes|2001|12|23}}|caps=10|goals=0|club=[[Red Bull Bragantino]]|clubnat=BRA|latest=v. {{fb|KSA}}, 31 May 2026}}
+{{nat fs r player|no=|pos=DF|name=[[Fricio Caicedo]]|age={{birth date and age|df=yes|2008|4|17}}|caps=1|goals=0|club=[[LDU Quito]]|clubnat=ECU|latest=v. {{fb|KSA}}, 31 May 2026}}
+{{nat fs r player|no=|pos=DF|name=[[Deinner Ordóñez]]|age={{birth date and age|df=yes|2009|10|29}}|caps=0|goals=0|club=[[Independiente del Valle]]|clubnat=ECU|latest=v. {{fb|KSA}}, 31 May 2026}}
+{{nat fs r player|no=|pos=DF|name=[[Leonardo Realpe]]|age={{birth date and age|df=yes|2001|2|26}}|caps=3|goals=0|club=[[F.C. Famalicão|Famalicão]]|clubnat=POR|latest=v. {{fb|NED}}, 31 March 2026}}
+{{nat fs r player|no=|pos=DF|name=[[Cristian Ramírez (Ecuadorian footballer)|Cristian Ramírez]]|age={{birth date and age|df=yes|1994|8|12}}|caps=22|goals=1|club=[[FC Lokomotiv Moscow|Lokomotiv Moscow]]|clubnat=RUS|latest=v. {{fb|NZL}}, 18 November 2025}}
+{{nat fs r player|no=|pos=DF|name=[[Jhoanner Chávez]]|age={{birth date and age|df=yes|2002|4|25}}|caps=7|goals=0|club=[[AC Sparta Prague|Sparta Prague]]|clubnat=CZE|latest=v. {{fb|NZL}}, 18 November 2025}}
+{{nat fs r player|no=|pos=DF|name=[[Xavier Arreaga]]|age={{birth date and age|df=yes|1994|9|28}}|caps=20|goals=1|club=[[Club Bolívar|Bolívar]]|clubnat=BOL|latest=v. {{fb|MEX}}, 14 October 2025}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=MF|name=[[Darwin Guagua]]|age={{birth date and age|df=yes|2007|11|6}}|caps=2|goals=0|club=[[Independiente del Valle]]|clubnat=ECU|latest=v. {{fb|KSA}}, 31 May 2026}}
+{{nat fs r player|no=|pos=MF|name=[[Bruno Caicedo]]|age={{birth date and age|df=yes|2005|1|15}}|caps=0|goals=0|club=[[Vancouver Whitecaps FC|Vancouver Whitecaps]]|clubnat=CAN|latest=v. {{fb|KSA}}, 31 May 2026}}
+{{nat fs r player|no=|pos=MF|name=[[Ederson Castillo]]|age={{birth date and age|df=yes|2008|12|10}}|caps=0|goals=0|club=[[LDU Quito]]|clubnat=ECU|latest=v. {{fb|KSA}}, 31 May 2026}}
+{{nat fs r player|no=|pos=MF|name=[[Malcom Dacosta]]|age={{birth date and age|df=yes|2008|4|17}}|caps=0|goals=0|club=[[AFC Bournemouth|Bournemouth]]|clubnat=ENG|latest=v. {{fb|KSA}}, 31 May 2026}}
+{{nat fs r player|no=|pos=MF|name=[[Luis Fragozo]]|age={{birth date and age|df=yes|2010|4|8}}|caps=0|goals=0|club=[[Club Sport Emelec|Emelec]]|clubnat=ECU|latest=v. {{fb|KSA}}, 31 May 2026}}
+{{nat fs r player|no=|pos=MF|name=[[Bryan Ramírez]]|age={{birth date and age|df=yes|2000|8|11}}|caps=0|goals=0|club=[[FC Cincinnati|Cincinnati]]|clubnat=USA|latest=v. {{fb|NED}}, 31 March 2026}}
+{{nat fs r player|no=|pos=MF|name=[[Patrik Mercado]]|age={{birth date and age|df=yes|2003|7|31}}|caps=3|goals=0|club=[[Independiente del Valle]]|clubnat=ECU|latest=v. {{fb|MAR}}, 27 March 2026 <sup>INJ</sup>}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=FW|name=[[John Mercado]]|age={{birth date and age|df=yes|2002|6|3}}|caps=7|goals=0|club=[[AC Sparta Prague|Sparta Prague]]|clubnat=CZE|latest=v. {{fb|KSA}}, 31 May 2026}}
+{{nat fs r player|no=|pos=FW|name=[[Janner Corozo]]|age={{birth date and age|df=yes|1995|9|8}}|caps=7|goals=1|club=[[LDU Quito]]|clubnat=ECU|latest=v. {{fb|NED}}, 31 March 2026}}
+{{nat fs r player|no=|pos=FW|name=[[Elías Legendre]]|age={{birth date and age|df=yes|2008|4|22}}|caps=0|goals=0|club=[[Stade Rennais FC|Rennes]]|clubnat=FRA|latest=v. {{fb|NED}}, 31 March 2026}}
+{{nat fs r player|no=|pos=FW|name=[[Leonardo Campana]]|age={{birth date and age|df=yes|2000|7|24}}|caps=20|goals=1|club=[[New England Revolution]]|clubnat=USA|latest=v. {{fb|MAR}}, 27 March 2026 <sup>INJ</sup>}}
+{{nat fs break}}
+<sup>INJ</sup> Withdrew from the squad due to injury.<br/>
+<sup>PRE</sup> Preliminary squad / standby.<br/>
+<sup>RET</sup> Retired from the national team.<br/>
+<sup>SUS</sup>  Withdrew from the squad due to suspension.<br/>
+<sup>WD</sup>  Withdrew from the squad for non-injury related reasons.
+{{nat fs end}}
+
+===Retired numbers===
+Following the death of [[Christian Benítez]], the [[Ecuadorian Football Federation]] retired his jersey number 11 from the national team.  According to the Federation's then-president, [[Luis Chiriboga]], to honor Benítez the number would no longer be used by any other team player.<ref>{{cite web|url=http://www.ecuafutbol.org/ui/detalle.aspx?seccion=1&categserie=7&nivel=0&subnivel=0&id=3041&tabla=N|title=Número 11 de Ecuador Siempre Será de Chucho|publisher=ecuafutbol.org|work=Federación Ecuatoriana de Fútbol|date=1 August 2013|language=es|url-status=dead|archive-url=https://web.archive.org/web/20130819062130/http://www.ecuafutbol.org/ui/detalle.aspx?seccion=1&categserie=7&nivel=0&subnivel=0&id=3041&tabla=N|archive-date=19 August 2013}}</ref>  However, due to FIFA regulations, the number had to be reinstated for the [[2014 FIFA World Cup squads#Ecuador|2014 World Cup squad]], taken by [[Felipe Caicedo]].<ref>{{cite web|url=http://uk.reuters.com/article/soccer-friendlies-latam-idUKL3N0M33JT20140306|archive-url=https://web.archive.org/web/20151208231243/http://uk.reuters.com/article/soccer-friendlies-latam-idUKL3N0M33JT20140306|url-status=dead|archive-date=8 December 2015|title=Soccer-Ecuador to reinstate Benitez's number 11 for World Cup|date=6 March 2014|publisher=reuters.com}}</ref>
+
+==Player records==
+{{updated|30 June 2026.}}<ref>{{cite web|url=https://www.rsssf.org/miscellaneous/ecua-recintlp.html|title=Ecuador - International Appearances by Player|website=RSSSF}}</ref>
+:''Players in '''bold''' are still active with Ecuador.''
+
+===Most appearances===
+[[File:Iván Hurtado en 2017.jpg|thumb|250px|Iván Hurtado is Ecuador's most capped player, with 168 appearances.]]
+
+{|class="wikitable sortable" style=text-align:center
+|-
+!width=30|Rank
+!width=150|Player
+!width=50|Caps
+!width=50|Goals
+!width=100|Ecuador career
+|-
+|1
+|align=left|[[Iván Hurtado]]
+|'''168'''
+|4
+|{{nowrap|1992–2014}}
+|-
+|2
+|align=left|[[Walter Ayoví]]
+|'''121'''
+|8
+|2001–2017
+|-
+|3
+|align=left|[[Édison Méndez]]
+|'''111'''
+|18
+|2000–2014
+|-
+|rowspan="2"|4
+|align=left|[[Enner Valencia]]
+|'''109'''
+|49
+|2012–2026
+|-
+|align=left|[[Álex Aguinaga]]
+|'''109'''
+|23
+|1987–2004
+|-
+|6
+|align=left|[[Ulises de la Cruz]]
+|'''101'''
+|6
+|1995–2010
+|-
+|7
+|align=left|[[Luis Capurro]]
+|'''100'''
+|1
+|1985–2003
+|-
+|8
+|align=left|[[Antonio Valencia]]
+|'''99'''
+|11
+|2004–2019
+|-
+|9
+|align=left|[[Giovanny Espinoza]]
+|'''90'''
+|3
+|2000–2009
+|-
+|rowspan=2|10
+|align=left|[[Segundo Castillo (footballer, born 1982)|Segundo Castillo]]
+|'''88'''
+|9
+|2003–2016
+|-
+|align=left|[[José Cevallos (footballer, born 1971)|José Francisco Cevallos]]
+|'''88'''
+|0
+|1994–2010
+|}
+
+===Top goalscorers===
+[[File:Ecu-Panama (3).jpg|thumb|250px|Enner Valencia is Ecuador's top scorer with 49 goals.]]
+
+{|class="wikitable sortable" style=text-align:center
+|-
+!width=30|Rank
+!width=150|Player
+!width=50|Goals
+!width=50|Caps
+!width=50|Ratio
+!width=100|Ecuador career
+|-
+|1
+|align=left|[[Enner Valencia]]
+|'''49'''
+|109
+|{{#expr:49/109 round 2}}
+|{{nowrap|2012–2026}}
+|-
+|2
+| align="left" |[[Agustín Delgado]]
+|'''31'''
+|72
+|{{#expr:31/71 round 2}}
+|{{nowrap|1994–2011}}
+|-
+|3
+|align=left|[[Eduardo Hurtado]]
+|'''26'''
+|74
+|{{#expr:26/74 round 2}}
+|1992–2002
+|-
+|4
+|align=left|[[Christian Benítez]]
+|'''25'''
+|61
+|{{#expr:25/61 round 2}}
+|2005–2013
+|-
+|5
+|align=left|[[Álex Aguinaga]]
+|'''23'''
+|109
+|{{#expr:23/109 round 2}}
+|1987–2004
+|-
+|6
+|align=left|[[Felipe Caicedo]]
+|'''22'''
+|68
+|{{#expr:22/68 round 2}}
+|2005–2017
+|-
+|7
+|align=left|[[Édison Méndez]]
+|'''18'''
+|111
+|{{#expr:18/111 round 2}}
+|2000–2014
+|-
+|rowspan=2|8
+|align=left|[[Raúl Avilés]]
+|'''16'''
+|55
+|{{#expr:16/55 round 2}}
+|1987–1993
+|-
+|align=left|[[Iván Kaviedes]]
+|'''16'''
+|57
+|{{#expr:16/57 round 2}}
+|1996–2012
+|-
+|10
+|align=left|[[Ariel Graziani]]
+|'''15'''
+|34
+|{{#expr:15/34 round 2}}
+|1997–2000
+|}
+
+==Competitive record==
+===FIFA World Cup===
+{{main|Ecuador at the FIFA World Cup}}
+
+{| class="wikitable" style="text-align: center;"
+!colspan=10|[[FIFA World Cup]] record
+!width=1% rowspan=28|
+!colspan=7|[[FIFA World Cup qualification|Qualification]] record
+|-
+!Year
+!Round
+!Position
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!Squad
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+|-
+| {{flagicon|Uruguay}} [[1930 FIFA World Cup|1930]]
+| colspan=9 rowspan=3|''Did not enter''
+| colspan=7|''Declined invitation''
+|-
+| {{flagicon|Italy|1861}} [[1934 FIFA World Cup|1934]]
+| colspan=7 rowspan=2|''Did not enter''
+|-
+| {{flagicon|France|1794}} [[1938 FIFA World Cup|1938]]
+|-
+| {{flagicon|Brazil|1889}} [[1950 FIFA World Cup|1950]]
+| colspan=9|''Withdrew''
+| colspan=7|''Withdrew''
+|-
+| {{flagicon|Switzerland}} [[1954 FIFA World Cup|1954]]
+| colspan=9 rowspan=2|''Did not enter''
+| colspan=7 rowspan=2|''Did not enter''
+|-
+| {{flagicon|Sweden}} [[1958 FIFA World Cup|1958]]
+|-
+| {{flagicon|Chile}} [[1962 FIFA World Cup|1962]]
+| colspan=9 rowspan=10|''Did not qualify''
+| 2
+| 0
+| 0
+| 2
+| 3
+| 11
+|-
+| {{flagicon|England}} [[1966 FIFA World Cup|1966]]
+| 5
+| 2
+| 1
+| 2
+| 7
+| 7
+|-
+| {{flagicon|Mexico}} [[1970 FIFA World Cup|1970]]
+| 4
+| 0
+| 1
+| 3
+| 2
+| 8
+|-
+| {{flagicon|West Germany}} [[1974 FIFA World Cup|1974]]
+| 4
+| 0
+| 2
+| 2
+| 3
+| 8
+|-
+| {{flagicon|Argentina}} [[1978 FIFA World Cup|1978]]
+| 4
+| 0
+| 1
+| 3
+| 1
+| 9
+|-
+| {{flagicon|Spain}} [[1982 FIFA World Cup|1982]]
+| 4
+| 1
+| 1
+| 2
+| 2
+| 5
+|-
+| {{flagicon|Mexico}} [[1986 FIFA World Cup|1986]]
+| 4
+| 0
+| 1
+| 3
+| 4
+| 11
+|-
+| {{flagicon|Italy}} [[1990 FIFA World Cup|1990]]
+| 4
+| 1
+| 1
+| 2
+| 4
+| 5
+|-
+| {{flagicon|United States}} [[1994 FIFA World Cup|1994]]
+| 8
+| 1
+| 3
+| 4
+| 7
+| 7
+|-
+| {{flagicon|France|1974}} [[1998 FIFA World Cup|1998]]
+| 16
+| 6
+| 3
+| 7
+| 22
+| 21
+|-
+| {{flagicon|South Korea}} {{flagicon|Japan}} [[2002 FIFA World Cup|2002]]
+| Group stage
+| 24th
+| 3
+| 1
+| 0
+| 2
+| 2
+| 4
+| [[2002 FIFA World Cup squads#Ecuador|Squad]]
+| 18
+| 9
+| 4
+| 5
+| 23
+| 20
+|-
+| {{flagicon|Germany}} [[2006 FIFA World Cup|2006]]
+| Round of 16
+| 12th
+| 4
+| 2
+| 0
+| 2
+| 5
+| 4
+| [[2006 FIFA World Cup squads#Ecuador|Squad]]
+| 18
+| 8
+| 4
+| 6
+| 23
+| 19
+|-
+| {{flagicon|South Africa}} [[2010 FIFA World Cup|2010]]
+| colspan=9|''Did not qualify''
+| 18
+| 6
+| 5
+| 7
+| 22
+| 26
+|-
+| {{flagicon|Brazil}} [[2014 FIFA World Cup|2014]]
+| Group stage
+| 17th
+| 3
+| 1
+| 1
+| 1
+| 3
+| 3
+| [[2014 FIFA World Cup squads#Ecuador|Squad]]
+| 16
+| 7
+| 4
+| 5
+| 20
+| 16
+|-
+| {{flagicon|Russia}} [[2018 FIFA World Cup|2018]]
+| colspan=9|''Did not qualify''
+| 18
+| 6
+| 2
+| 10
+| 26
+| 29
+|-
+| {{flagicon|Qatar}} [[2022 FIFA World Cup|2022]]
+| Group stage
+| 18th
+| 3
+| 1
+| 1
+| 1
+| 4
+| 3
+| [[2022 FIFA World Cup squads#Ecuador|Squad]]
+| 18
+| 7
+| 5
+| 6
+| 27
+| 19
+|-
+| {{flagicon|Canada}} {{flagicon|Mexico}} {{flagicon|United States}} [[2026 FIFA World Cup|2026]]
+| Round of 32
+| 25th
+| 4
+| 1
+| 1
+| 2
+| 2
+| 4
+| [[2026 FIFA World Cup squads#Ecuador|Squad]]
+| 18
+| 8
+| 8
+| 2
+| 14
+| 5
+|-
+| {{flagicon|Morocco}} {{flagicon|Portugal}} {{flagicon|Spain}} [[2030 FIFA World Cup|2030]]
+| colspan=9 rowspan=2|''To be determined''
+| colspan=6 rowspan=2|''To be determined''
+|-
+| {{flagicon|Saudi Arabia}} [[2034 FIFA World Cup|2034]]
+|-
+!Total
+!Round of 16
+!{{Tooltip|5/23 (WC Apps)|Number of tournaments qualified for}}
+!17
+!6
+!3
+!8
+!16
+!18
+!—
+!179
+!62
+!46
+!71
+!210
+!226
+|}
+
+===Copa América===
+{{main|Ecuador at the Copa América}}
+{{Color box|gold|border=darkgray}} '''Champions'''&nbsp;&nbsp;{{Color box|silver|border=darkgray}} '''Runners-up'''&nbsp;&nbsp;{{Color box|#cc9966|border=darkgray}} Third place&nbsp;&nbsp;{{Color box|LemonChiffon|border=darkgray}} Fourth place&nbsp;&nbsp;
+
+{| class="wikitable" style="text-align:center"
+|-
+!colspan=10|[[Copa América|South American Championship / Copa América]] record
+|-
+!width=100|Year
+!width=95|Round
+!width=60|Position
+!width=20|{{Abbr|Pld|Matches played}}
+!width=20|{{Abbr|W|Matches won}}
+!width=20|{{Abbr|D|Matches drawn}}
+!width=20|{{Abbr|L|Matches lost}}
+!width=20|{{Abbr|GF|Goals for}}
+!width=20|{{Abbr|GA|Goals against}}
+!width=60|Squad
+|-
+|{{flagicon|Argentina}} [[1916 South American Championship|1916]]||colspan=9 rowspan=8|''No national representative''
+|-
+|{{flagicon|Uruguay}} [[1917 South American Championship|1917]]
+|-
+|{{flagicon|Brazil|1889}} [[1919 South American Championship|1919]]
+|-
+|{{flagicon|Chile}} [[1920 South American Championship|1920]]
+|-
+|{{flagicon|Argentina}} [[1921 South American Championship|1921]]
+|-
+|{{flagicon|Brazil|1889}} [[1922 South American Championship|1922]]
+|-
+|{{flagicon|Uruguay}} [[1923 South American Championship|1923]]
+|-
+|{{flagicon|Uruguay}} [[1924 South American Championship|1924]]
+|-
+|{{flagicon|Argentina}} [[1925 South American Championship|1925]]||colspan=9 rowspan=2|''Not a CONMEBOL member''
+|-
+|{{flagicon|Chile}} [[1926 South American Championship|1926]]
+|-
+|{{flagicon|Peru|1884}} [[1927 South American Championship|1927]]||colspan=9 rowspan=4|''Did not participate''
+|-
+|{{flagicon|Argentina}} [[1929 South American Championship|1929]]
+|-
+|{{flagicon|Peru|1884}} [[1935 South American Championship|1935]]
+|-
+|{{flagicon|Argentina}} [[1937 South American Championship|1937]]
+|-
+|{{flagicon|Peru|1884}} [[1939 South American Championship|1939]]||rowspan=2|Fifth place||5th||4||0||0||4||4||18
+|[[1939 South American Championship squads#Ecuador|Squad]]
+|-
+|{{flagicon|Chile}} [[1941 South American Championship|1941]]||5th||4||0||0||4||1||21
+|[[1941 South American Championship squads#Ecuador|Squad]]
+|-
+|{{flagicon|Uruguay}} [[1942 South American Championship|1942]]||rowspan=2|Seventh place||7th||6||0||0||6||4||31
+|[[1942 South American Championship squads#Ecuador|Squad]]
+|-
+|{{flagicon|Chile}} [[1945 South American Championship|1945]]||7th||6||0||1||5||9||27
+|[[1945 South American Championship squads#Ecuador|Squad]]
+|-
+|{{flagicon|Argentina}} [[1946 South American Championship|1946]]||colspan=9|''Withdrew''
+|-
+|style="border:3px solid red"|{{flagicon|Ecuador|1900}} [[1947 South American Championship|1947]]
+|Sixth place||6th||7||0||3||4||3||17
+|[[1947 South American Championship squads#Ecuador|Squad]]
+|-
+|{{flagicon|Brazil|1889}} [[1949 South American Championship|1949]]||rowspan=2|Seventh place||7th||7||1||0||6||7||21
+|[[1949 South American Championship squads#Ecuador|Squad]]
+|-
+|{{flagicon|Peru|football}} [[1953 South American Championship|1953]]||7th||6||0||2||4||1||13
+|[[1953 South American Championship squads#Ecuador|Squad]]
+|-
+|{{flagicon|Chile}} [[1955 South American Championship|1955]]
+|Sixth place||6th||5||0||0||5||4||22
+|[[1955 South American Championship squads#Ecuador|Squad]]
+|-
+|{{flagicon|Uruguay}} [[1956 South American Championship|1956]]||colspan=9|''Withdrew''
+|-
+|{{flagicon|Peru|football}} [[1957 South American Championship|1957]]
+|Seventh place||7th||6||0||1||5||7||23
+|[[1957 South American Championship squads#Ecuador|Squad]]
+|-
+|{{flagicon|Argentina}} [[1959 South American Championship (Argentina)|1959]]||colspan=9|''Withdrew''
+|- style="background:LemonChiffon;"
+|style="border:3px solid red"|{{flagicon|Ecuador|1900}} [[1959 South American Championship (Ecuador)|1959]]
+|Fourth place||4th||4||1||1||2||5||9
+|[[1959 South American Championship (Ecuador) squads#Ecuador|Squad]]
+|-
+|{{flagicon|Bolivia|civil}} [[1963 South American Championship|1963]]
+|Sixth place||6th||6||1||2||3||14||18
+|[[1963 South American Championship squads#Ecuador|Squad]]
+|-
+|{{flagicon|Uruguay}} [[1967 South American Championship|1967]]
+|colspan=9|''Did not qualify''
+|-
+|[[1975 Copa América|1975]]||rowspan=6|Group stage||9th||4||0||1||3||4||10
+|[[1975 Copa América squads#Ecuador|Squad]]
+|-
+|[[1979 Copa América|1979]]||9th||4||1||0||3||4||7
+|[[1979 Copa América squads#Ecuador|Squad]]
+|-
+|[[1983 Copa América|1983]]||9th||4||0||2||2||4||10
+|[[1983 Copa América squads#Ecuador|Squad]]
+|-
+|{{flagicon|Argentina}} [[1987 Copa América|1987]]||8th||2||0||1||1||1||4
+|[[1987 Copa América squads#Ecuador|Squad]]
+|-
+|{{flagicon|Brazil}} [[1989 Copa América|1989]]||7th||4||1||2||1||2||2
+|[[1989 Copa América squads#Ecuador|Squad]]
+|-
+|{{flagicon|Chile}} [[1991 Copa América|1991]]||7th||4||1||1||2||6||5
+|[[1991 Copa América squads#Ecuador|Squad]]
+|- style="background:LemonChiffon;"
+|style="border:3px solid red"|{{flagicon|Ecuador|1900}} [[1993 Copa América|1993]]
+|Fourth place||4th||6||4||0||2||13||5
+|[[1993 Copa América squads#Ecuador|Squad]]
+|-
+|{{flagicon|Uruguay}} [[1995 Copa América|1995]]
+|Group stage||9th||3||1||0||2||2||3
+|[[1995 Copa América squads#Ecuador|Squad]]
+|-
+|{{flagicon|Bolivia|civil}} [[1997 Copa América|1997]]
+|Quarter-finals||5th||4||2||2||0||5||2
+|[[1997 Copa América squads#Ecuador|Squad]]
+|-
+|{{flagicon|Paraguay|1990}} [[1999 Copa América|1999]]||rowspan=6|Group stage||11th||3||0||0||3||3||7
+|[[1999 Copa América squads#Ecuador|Squad]]
+|-
+|{{flagicon|Colombia}} [[2001 Copa América|2001]]||9th||3||1||0||2||5||5
+|[[2001 Copa América squads#Ecuador|Squad]]
+|-
+|{{flagicon|Peru|football}} [[2004 Copa América|2004]]||12th||3||0||0||3||3||10
+|[[2004 Copa América squads#Ecuador|Squad]]
+|-
+|{{flagicon|Venezuela}} [[2007 Copa América|2007]]||11th||3||0||0||3||3||6
+|[[2007 Copa América squads#Ecuador|Squad]]
+|-
+|{{flagicon|Argentina}} [[2011 Copa América|2011]]||10th||3||0||1||2||2||5
+|[[2011 Copa América squads#Ecuador|Squad]]
+|-
+|{{flagicon|Chile}} [[2015 Copa América|2015]]||10th||3||1||0||2||4||6
+|[[2015 Copa América squads#Ecuador|Squad]]
+|-
+|{{flagicon|United States}} [[Copa América Centenario|2016]]
+|Quarter-finals||8th||4||1||2||1||7||4
+|[[Copa América Centenario squads#Ecuador|Squad]]
+|-
+|{{flagicon|Brazil}} [[2019 Copa América|2019]]
+|Group stage||11th||3||0||1||2||2||7
+|[[2019 Copa América squads#Ecuador|Squad]]
+|-
+|{{flagicon|Brazil}} [[2021 Copa América|2021]]
+|rowspan=2|Quarter-finals||8th||5||0||3||2||5||9
+|[[2021 Copa América squads#Ecuador|Squad]]
+|-
+|{{flagicon|United States}} [[2024 Copa América|2024]]
+|8th||4||1||2||1||5||4
+|[[2024 Copa América squads#Ecuador|Squad]]
+|-
+!Total||Fourth place||30/38||130||17||28||85||139||331||—
+|}
+
+===Pan American Games===
+{| class="wikitable" style="text-align: center;"
+|-
+!colspan=9|[[Football at the Pan American Games|Pan American Games]] record
+|-
+!Year
+!Round
+!Position
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+|-
+| {{flagicon|Argentina}} [[Football at the 1951 Pan American Games|1951]]||colspan=9 rowspan=11|''Did not participate''
+|-
+| {{flagicon|Mexico|1934}} [[Football at the 1955 Pan American Games|1955]]
+|-
+| {{flagicon|United States|1959}} [[Football at the 1959 Pan American Games|1959]]
+|-
+|{{flagicon|Brazil|1960}} [[Football at the 1963 Pan American Games|1963]]
+|-
+| {{flagicon|Canada}} [[Football at the 1967 Pan American Games|1967]]
+|-
+| {{flagicon|Colombia}} [[Football at the 1971 Pan American Games|1971]]
+|-
+| {{flagicon|Mexico}} [[Football at the 1975 Pan American Games|1975]]
+|-
+| {{flagicon|Puerto Rico|1952}} [[Football at the 1979 Pan American Games|1979]]
+|-
+| {{flagicon|Venezuela|1954}} [[Football at the 1983 Pan American Games|1983]]
+|-
+| {{flagicon|United States}} [[Football at the 1987 Pan American Games|1987]]
+|-
+| {{flagicon|Cuba}} [[Football at the 1991 Pan American Games|1991]]
+|-
+| {{flagicon|Argentina}} [[Football at the 1995 Pan American Games|1995]]||Group stage||9th||3||1||0||2|| 6||10
+|-
+|Since [[Football at the 1999 Pan American Games – Men's tournament|1999]]||colspan=8|''See [[Ecuador national under-23 football team]]''
+|-
+!Total||Group stage||1/12||3||1||0||2||6||10
+|}
+
+==Head-to-head record==
+Below is a result summary of all matches Ecuador have played against [[FIFA]] recognized teams.<ref>{{cite web|url=http://eloratings.net/Ecuador|title=World Football Elo Ratings: Ecuador}}</ref>
+
+{{updated|30 June 2026}}
+
+{{legend2|#CCFFCC|Positive Record|border=1px solid #AAAAAA}}
+{{legend2|#FFFFCC|Neutral Record|border=1px solid #AAAAAA}}
+{{legend2|#FFDACC|Negative Record|border=1px solid #AAAAAA}}
+{| class="wikitable sortable collapsible collapsed" style="text-align: center; font-size: 100%;"
+|- style="color:black;"
+! style="width:145px;"|Opponents
+!width=30|{{Tooltip|Pld|Games played}}
+!width=30|{{Tooltip|W|Won}}
+!width=30|{{Tooltip|D|Drawn}}
+!width=30|{{Tooltip|L|Lost}}
+!width=35|{{Tooltip|GF|Goals for}}
+!width=35|{{Tooltip|GA|Goals against}}
+!width=35|{{Tooltip|GD|Goal difference}}
+!width=35|{{Tooltip|Win %|Win percentage}}
+|-
+|- bgcolor=#FFCCCC
+|align=left|{{fb|Argentina}} || 42 || 6 || 12 || 24 || 37 || 99 || –62 || 14.29%
+|-
+|- bgcolor=#CCFFCC
+|align=left|{{fb|Armenia}} || 1 || 1 || 0 || 0 || 3 || 0 || +3 || 100%
+|-
+|- bgcolor=#CCFFCC
+|align=left|{{fb|Australia}} || 3 || 2 || 0 || 1 || 7 || 7 || 0 || 66.67%
+|-
+|- bgcolor=#FFFFCC
+|align=left|{{fb|Belarus}} || 1 || 0 || 1 || 0 || 1 || 1 || 0 || 0%
+|-
+|- bgcolor=#CCFFCC
+|align=left|{{fb|Bolivia}} || 39 || 21 || 12 || 6 || 75 || 39 || +36 || 53.85%
+|-
+|- bgcolor=#FFCCCC
+|align=left|{{fb|Brazil}} || 37 || 2 || 7 || 28 || 24 || 99 || –75 || 5.41%
+|-
+|- bgcolor=#FFFFCC
+|align=left|{{fb|Bulgaria}} || 2 || 1 || 0 || 1 || 4 || 3 || +1 || 50%
+|-
+|- bgcolor=#FFFFCC
+|align=left|{{fb|Cameroon}} || 1 || 0 || 1 || 0 || 0 || 0 || 0 || 0%
+|-
+|- bgcolor=#CCFFCC
+|align=left|{{fb|Canada}} || 5 || 2 || 3 || 0 || 6 || 3 || +3 || 40%
+|-
+|- bgcolor=#CCFFCC
+|align=left|{{fb|Cape Verde}} || 1 || 1 || 0 || 0 || 1 || 0 || +1 || 100%
+|-
+|- bgcolor=#FFCCCC
+|align=left|{{fb|Chile}} || 55 || 12 || 14 || 29 || 54 || 99 || –45 || 21.82%
+|-
+|- bgcolor=#FFFFCC
+|align=left|{{fb|China}} || 1 || 0 || 1 || 0 || 0 || 0 || 0 || 0%
+|-
+|- bgcolor=#FFCCCC
+|align=left|{{fb|Colombia}} || 50 || 14 || 13 || 23 || 45 || 54 || –9 || 28%
+|-
+|- bgcolor=#CCFFCC
+|align=left|{{fb|Costa Rica}} || 12 || 6 || 5 || 1 || 22 || 10 || +12 || 50%
+|-
+|- bgcolor=#CCFFCC
+|align=left|{{fb|Croatia}} || 1 || 1 || 0 || 0 || 1 || 0 || +1 || 100%
+|-
+|- bgcolor=#FFCCCC
+|align=left|{{fb|Cuba}} || 4 || 0 || 2 || 2 || 1 || 3 || –2 || 0%
+|-
+|- bgcolor=#FFFFCC
+|align=left|{{fb|Curaçao}} || 1 || 0 || 1 || 0 || 0 || 0 || 0 || 0%
+|-
+|- bgcolor=#CCFFCC
+|align=left|{{fb|El Salvador}} || 10 || 7 || 2 || 1 || 31 || 8 || +23 || 70%
+|-
+|- bgcolor=#FFCCCC
+|align=left|{{fb|England}} || 3 || 0 || 1 || 2 || 2 || 5 || –3 || 0%
+|-
+|- bgcolor=#CCFFCC
+|align=left|{{fb|Estonia}} || 2 || 2 || 0 || 0 || 3 || 1 || +2 || 100%
+|-
+|- bgcolor=#CCFFCC
+|align=left|{{fb|Finland}} || 1 || 1 || 0 || 0 || 3 || 1 || +2 || 100%
+|-
+|- bgcolor=#FFCCCC
+|align=left|{{fb|France}} || 2 || 0 || 1 || 1 || 0 || 2 || –2 || 0%
+|-
+|- bgcolor=#CCFFCC
+|align=left|{{fb|FR Yugoslavia}} || 1 || 1 || 0 || 0 || 1 || 0 || +1 || 100%
+|-
+|- bgcolor=#FFCCCC
+|align=left|{{fb|Germany}} || 3 || 1 || 0 || 2 || 4 || 8 || –4 || 33.33%
+|-
+|- bgcolor=#FFFFCC
+|align=left|{{fb|Greece}} || 1 || 0 || 1 || 0 || 1 || 1 || 0 || 0%
+|-
+|- bgcolor=#CCFFCC
+|align=left|{{fb|Guatemala}} || 11 || 6 || 3 || 2 || 14 || 4 || +10 || 54.55%
+|-
+|- bgcolor=#CCFFCC
+|align=left|{{fb|Haiti}} || 6 || 4 || 0 || 2 || 12 || 6 || +6 || 66.67%
+|-
+|- bgcolor=#CCFFCC
+|align=left|{{fb|Honduras}} || 19 || 7 || 9 || 3 || 24 || 18 || +6 || 36.84%
+|-
+|- bgcolor=#CCFFCC
+|align=left|{{fb|Hungary}} || 1 || 1 || 0 || 0 || 1 || 0 || +1 || 100%
+|-
+|- bgcolor=#CCFFCC
+|align=left|{{fb|Iran}} || 3 || 1 || 2 || 0 || 3 || 2 || +1 || 33.33%
+|-
+|- bgcolor=#FFFFCC
+|align=left|{{fb|Iraq}} || 1 || 0 || 1 || 0 || 0 || 0 || 0 || 0%
+|-
+|- bgcolor=#FFCCCC
+|align=left|{{fb|Italy}} || 3 || 0 || 1 || 2 || 1 || 5 || –4 || 0%
+|-
+|- bgcolor=#FFCCCC
+|align=left|{{fb|Ivory Coast}} || 1 || 0 || 0 || 1 || 0 || 1 || –1 || 0%
+|-
+|- bgcolor=#CCFFCC
+|align=left|{{fb|Jamaica}} || 5 || 3 || 2 || 0 || 7 || 2 || +5 || 60%
+|-
+|- bgcolor=#FFCCCC
+|align=left|{{fb|Japan}} || 4 || 0 || 2 || 2 || 1 || 5 || –4 || 0%
+|-
+|- bgcolor=#FFCCCC
+|align=left|{{fb|Jordan}} || 1 || 0 || 0 || 1 || 0 || 3 || –3 || 0%
+|-
+|- bgcolor=#CCFFCC
+|align=left|{{fb|Kuwait}} || 1 || 1 || 0 || 0 || 3 || 0 || +3 || 100%
+|-
+|- bgcolor=#FFCCCC
+|align=left|{{fb|Lebanon}} || 1 || 0 || 0 || 1 || 0 || 1 || –1 || 0%
+|-
+|- bgcolor=#FFCCCC
+|align=left|{{fb|Libya}} || 1 || 0 || 0 || 1 || 0 || 1 || –1 || 0%
+|-
+|- bgcolor=#FFCCCC
+|align=left|{{fb|Mexico}} || 27 || 4 || 8 || 15 || 25 || 43 || –18 || 15.38%
+|-
+|- bgcolor=#FFFFCC
+|align=left|{{fb|Morocco}} || 1 || 0 || 1 || 0 || 1 || 1 || 0 || 0%
+|-
+|- bgcolor=#FFCCCC
+|align=left|{{fb|Netherlands}} || 4 || 0 || 3 || 1 || 3 || 4 || –1 || 0%
+|-
+|- bgcolor=#CCFFCC
+|align=left|{{fb|New Zealand}} || 1 || 2 || 0 || 0 || 2 || 0 || +2 || 100%
+|-
+|- bgcolor=#CCFFCC
+|align=left|{{fb|Nigeria}} || 1 || 1 || 0 || 0 || 1 || 0 || +1 || 100%
+|-
+|- bgcolor=#FFCCCC
+|align=left|{{fb|North Macedonia}} || 1 || 0 || 0 || 1 || 1 || 2 || –1 || 0%
+|-
+|- bgcolor=#FFFFCC
+|align=left|{{fb|Oman}} || 3 || 1 || 1 || 1 || 2 || 2 || 0 || 33.33%
+|-
+|- bgcolor=#CCFFCC
+|align=left|{{fb|Panama}} || 9 || 6 || 2 || 1 || 20 || 4 || +16 || 66.67%
+|-
+|- bgcolor=#FFCCCC
+|align=left|{{fb|Paraguay}} || 42 || 12 || 8 || 22 || 52 || 72 || –20 || 28.57%
+|-
+|- bgcolor=#FFCCCC
+|align=left|{{fb|Peru}} || [[Ecuador–Peru football rivalry|58]]|| 18 || 18 || 22 || 71 || 84 || –13 || 31.03%
+|-
+|- bgcolor=#FFFFCC
+|align=left|{{fb|Poland}} || 3 || 1 || 1 || 1 || 4 || 5 || –1 || 33.33%
+|-
+|- bgcolor=#FFFFCC
+|align=left|{{fb|Portugal}} || 2 || 1 || 0 || 1 || 3 || 5 || –2 || 50%
+|-
+|- bgcolor=#CCFFCC
+|align=left|{{fb|Qatar}} || 4 || 2 || 1 || 1 || 8 || 6 || +2 || 50%
+|-
+|- bgcolor=#FFCCCC
+|align=left|{{fb|Republic of Ireland}} || 2 || 0 || 1 || 1 || 3 || 4 || –1 || 0%
+|-
+|- bgcolor=#FFFFCC
+|align=left|{{fb|Romania}} || 2 || 1 || 0 || 1 || 4 || 3 || +1 || 50%
+|-
+|- bgcolor=#FFCCCC
+|align=left|{{fb|Scotland}} || 1 || 0 || 0 || 1 || 1 || 2 || –1 || 0%
+|-
+|- bgcolor=#FFCCCC
+|align=left|{{fb|Senegal}} || 2 || 0 || 0 || 2 || 1 || 3 || –2 || 0%
+|-
+|- bgcolor=#FFFFCC
+|align=left|{{fb|Saudi Arabia}} || 3 || 1 || 2 || 0 || 2 || 1 || +1 || 33.33%
+|-
+|- bgcolor=#FFFFCC
+|align=left|{{fb|South Korea}} || 2 || 1 || 0 || 1 || 2 || 3 || –1 || 50%
+|-
+|- bgcolor=#FFCCCC
+|align=left|{{fb|Spain}} || 2 || 0 || 0 || 2 || 0 || 6 || –6 || 0%
+|-
+|- bgcolor=#CCFFCC
+|align=left|{{fb|Sweden}} || 2 || 1 || 1 || 0 || 3 || 2 || +1 || 50%
+|-
+|- bgcolor=#FFCCCC
+|align=left|{{fb|Switzerland}} || 1 || 0 || 0 || 1 || 1 || 2 || –1 || 0%
+|-
+|- bgcolor=#CCFFCC
+|align=left|{{fb|Trinidad and Tobago}} || 2 || 2 || 0 || 0 || 6 || 1 || +5 || 100%
+|-
+|- bgcolor=#CCFFCC
+|align=left|{{fb|Turkey}} || 1 || 1 || 0 || 0 || 1 || 0 || +1 || 100%
+|-
+|- bgcolor=#FFCCCC
+|align=left|{{fb|Uganda}} || 1 || 0 || 0 || 1 || 1 || 2 || –1 || 0%
+|-
+|- bgcolor=#FFCCCC
+|align=left|{{fb|Uruguay}} || 50 || 8 || 11 || 31 || 46 || 115 || –69 || 16%
+|-
+|- bgcolor=#FFFFCC
+|align=left|{{fb|United States}} || 16 || 5 || 6 || 5 || 13 || 12 || +1 || 31.25%
+|-
+|- bgcolor=#CCFFCC
+|align=left|{{fb|Venezuela}} || 34 || 16 || 6 || 12 || 59 || 37 || +22 || 47.06%
+|-
+|- bgcolor=#CCFFCC
+|align=left|{{fb|Zambia}} || 2 || 2 || 0 || 0 || 5 || 1 || +4 || 100%
+|- class="sortbottom"
+!Total (68)
+| '''628''' || '''189''' || '''168''' || '''271''' || '''723''' || '''916''' || '''–193''' || '''{{#expr:189/627*100 round 0}}%'''
+|}
+{{notelist}}
+
+==Honours==
+===Regional===
+* '''[[Football at the Bolivarian Games|Bolivarian Games]]'''
+** '''{{gold1}} Gold medal (2)''': 1965, 1985
+** {{bronze3}} Bronze medal (1): [[Football at the 1938 Bolivarian Games|1938]]
+
+===Friendly===
+* '''[[Korea Cup]] (1)''': 1995
+* '''[[Canada Cup (soccer)|Canada Cup]] (1)''': [[1999 Canada Cup|1999]]
+
+==See also==
+{{portal|Association football|Ecuador}}
+* [[Ecuador national under-23 football team]]
+* [[Ecuador national under-20 football team]]
+* [[Ecuador national under-17 football team]]
+* [[Ecuador national futsal team]]
+
+== Trophies==
+Ecuador has won the Panamerican Games 2006/2007 Trophy, Ecuador also won the 1999 Canada Cup Trophy, 1995 Korea Cup Trophy and Finally Ecuador achieved 1st place Gold Medal at the 1965 Bolivarian Games. 
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+{{commons category}}
+* {{official website}} {{in lang|es}}
+* [https://www.fifa.com/about-fifa/associations/ECU Ecuador FIFA profile]
+* [http://www.futbolecuador.com/ Fútbol Ecuador] {{in lang|es}}
+
+{{Ecuador national football team}}
+{{Football in Ecuador}}
+{{National sports teams of Ecuador}}
+{{CONMEBOL teams}}
+{{Navboxes||title=[[Ecuador at the FIFA World Cup]]|list1=
+{{2002 FIFA World Cup finalists}}
+{{2006 FIFA World Cup finalists}}
+{{2014 FIFA World Cup finalists}}
+{{2022 FIFA World Cup finalists}}
+{{2026 FIFA World Cup finalists}}
+}}
+
+[[Category:Ecuador national football team| ]]
+[[Category:Ecuador national football teams| ]]
+[[Category:South American national association football teams]]

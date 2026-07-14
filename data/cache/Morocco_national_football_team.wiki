@@ -1,0 +1,3233 @@
+{{Short description|Men's association football team}}
+{{About|the men's team|the women's team|Morocco women's national football team}}
+{{pp-vandalism|small=yes}}
+{{More citations needed|date=May 2026}}
+{{Use dmy dates|date=June 2025}}
+{{Infobox national football team
+| Name                  = Morocco
+| Badge                 = Royal Moroccan Football Federation logo.svg
+| Badge_size            = 200px
+| Nickname              = {{Plainlist|
+* The Atlas Lions{{efn|name=nickname|{{langx|ar|أُسُودُ الأَطلَس}}<br>[[Standard Moroccan Amazigh|Amazighic]]: ⵉⵣⴻⵎ ⵏ ⵡⴰⵟⵍⴰⵙ}}}}
+| Association           = [[Royal Moroccan Football Federation]] (FRMF)
+| Confederation         = [[Confederation of African Football|CAF]] (Africa)
+| Sub-confederation     = [[Union of North African Football Federations|UNAF]] (North Africa)
+| Coach                 = [[Mohamed Ouahbi]]
+| Captain               = [[Achraf Hakimi]]
+| Most caps             = [[Noureddine Naybet]] (115)
+| Top scorer            = [[Ahmed Faras]] ([[List of international goals scored by Ahmed Faras|36]])<ref name="rsssf.com">{{Cite web|url=https://www.rsssf.org/miscellaneous/maro-recintlp.html|title=Morocco – Record International Players|website=[[RSSSF]]|access-date=3 February 2023|archive-date=4 February 2023|archive-url=https://web.archive.org/web/20230204153950/https://rsssf.org/miscellaneous/maro-recintlp.html|url-status=live}}</ref>
+| Home Stadium          = [[Prince Moulay Abdellah Stadium]]
+| FIFA Trigramme        = MAR
+| FIFA Rank             = {{FIFA World Rankings|MAR}}
+| FIFA max              = 7<!--ONLY OFFICIAL RANKING (of 11 June 2026), The live ranking is considered unofficial until all matches are approved as international 'A' matches. Last official ranking from June 11.-->
+| FIFA max date         = June 2026
+| FIFA min              = 95
+| FIFA min date         = September 2010
+| pattern_la1           = _mrc26h
+| pattern_b1            = _mrc26h
+| pattern_ra1           = _mrc26h
+| pattern_sh1           = _mrc26h2
+| pattern_so1           = _mrc26hl
+| leftarm1              = FF0000
+| body1                 = FF0000
+| rightarm1             = FF0000
+| shorts1               = FFFFFF
+| socks1                = FF0000
+| pattern_la2           = _mrc26a
+| pattern_b2            = _mrc26a
+| pattern_ra2           = _mrc26a
+| pattern_sh2           = _mrc26a
+| pattern_so2           = _mrc26al
+| leftarm2              = FFFFFF
+| body2                 = FFFFFF
+| rightarm2             = FFFFFF
+| shorts2               = FFFFFF 
+| socks2                = FFFFFF
+| First game            = {{fb|MAR}} 3–3 {{fb-rt|IRQ|1924}}<br />([[Beirut]], Lebanon; 19 October 1957)
+| Largest win           = {{fb|MAR|1961}} 13–1 {{fb-rt|KSA|1938}}<br />([[Casablanca]], Morocco; 6 September 1961)
+| Largest loss          = {{fb|HUN|1957}} 6–0 {{fb-rt|MAR}}<br />([[Tokyo]], Japan; 11 October 1964)
+| World cup apps        = 7
+| World cup first       = 1970&hairsp;
+| World cup best        = Fourth place ([[2022 FIFA World Cup|2022]])
+| Regional name         = [[Africa Cup of Nations]]
+| Regional cup apps     = 20
+| Regional cup first    = [[1972 African Cup of Nations|1972]]&hairsp;
+| Regional cup best     = '''Champions''' ([[1976 African Cup of Nations|1976]], [[2025 African Cup of Nations|2025]])
+| 2ndRegional name      = [[FIFA Arab Cup|Arab Cup]]
+| 2ndRegional cup apps  = 5
+| 2ndRegional cup first = [[1998 Arab Cup|1998]]&hairsp;
+| 2ndRegional cup best  = '''Champions''' ([[2012 Arab Cup|2012]], [[2025 Arab Cup|2025]])
+| 3rdRegional name      = [[African Nations Championship]]
+| 3rdRegional cup apps  = 5
+| 3rdRegional cup first = [[2014 African Nations Championship|2014]]&hairsp;
+| 3rdRegional cup best  = '''Champions''' ([[2018 African Nations Championship|2018]], [[2020 African Nations Championship|2020]], [[2024 African Nations Championship|2024]])
+| medaltemplates        = 
+{{MedalCompetition|[[Africa Cup of Nations]]}}
+{{MedalGold|[[1976 Africa Cup of Nations|1976 Ethiopia]]|}}
+{{MedalGold|[[2025 African Cup of Nations|2025 Morocco]]|}}
+{{MedalSilver|[[2004 African Cup of Nations|2004 Tunisia]]|}}
+{{MedalBronze|[[1980 African Cup of Nations|1980 Nigeria]]|}}
+{{MedalCompetition|[[Arab Cup]]}}
+{{MedalGold|[[2012 Arab Cup|2012 Saudi Arabia]]|}}
+{{MedalGold|[[2025 FIFA Arab Cup|2025 Qatar]]|}}
+{{MedalCompetition|[[African Nations Championship]]}}
+{{MedalGold|[[2018 African Nations Championship|2018 Morocco]]|}}
+{{MedalGold|[[2020 African Nations Championship|2020 Cameroon]]|}}
+{{MedalGold|[[2024 African Nations Championship|2024 Kenya, Tanzania and Uganda]]|}}
+{{MedalCompetition|[[Football at the Mediterranean Games|Mediterranean Games]]}}
+{{MedalGold|[[Football at the 1983 Mediterranean Games|1983 Morocco]]|}}
+{{MedalCompetition|[[Football at the Arab Games|Arab Games]]}}
+{{MedalGold|[[Football at the 1961 Arab Games|1961 Casablanca]]|}}
+{{MedalGold|[[Football at the 1976 Arab Games|1976 Damascus]]|}}
+{{MedalSilver|[[Football at the 1985 Arab Games|1985 Rabat]]|}}
+}}
+The '''Morocco national football team'''{{efn|{{langx|ar|منتخب المغرب لكرة القدم}}; {{Langx|zgh|ⵜⴰⵔⴰⴱⴱⵓⵜ ⵜⴰⵏⴰⵎⵓⵔⵜ ⵜⴰⵎⵖⵔⵉⴱⵉⵜ ⵏ ⵜⵛⴰⵎⵎⴰ ⵏ ⵓⴹⴰⵕ}}}} has represented [[Morocco]] in men's international [[Association football|football]] since their first international match in 1957. It is controlled by the [[Royal Moroccan Football Federation]] (FRMF), the governing body for [[football in Morocco]]. It has been affiliated with [[FIFA]] since 1960, with the [[Confederation of African Football]] since 1959, and with the [[UNAF|Union of North African Football]] since 2005. The team, which is known as the ''Atlas Lions'', plays home matches at the [[Prince Moulay Abdellah Stadium]] in [[Rabat]], and trains at the Mohammed VI Football Complex in [[Salé]].
+
+Morocco is regarded as one of Africa's most successful national football teams. They have won five continental titles, including the [[1976 African Cup of Nations|1976]] and [[2025 African Cup of Nations|2025]] editions of the [[Africa Cup of Nations|African Cup of Nations]]. They won the [[African Nations Championship]] in [[2018 African Nations Championship|2018]], [[2020 African Nations Championship|2020]] and [[2024 African Nations Championship|2024]]. Morocco has qualified for the [[FIFA World Cup]] on seven occasions. In [[1986 FIFA World Cup|1986]], they made history as the first African team to win a World Cup group and advance to the [[1986 FIFA World Cup knockout stage|knockout stage]]. At the [[2022 FIFA World Cup|2022 World Cup]], Morocco became the first African and first Arab team to reach a World Cup semi-final. They were also the third World Cup semi-finalist from outside [[UEFA|Europe]] or [[CONMEBOL|South America]]. Over 2025–2026, Morocco broke two international football [[List of world association football records|world records]], achieving the longest winning streak at 19 matches.
+
+== History ==
+=== Formation and early years ===
+The Moroccan national team was founded in 1928 and played its first game on 22 December of that year against France's B team, losing 2–1. The team, formed of the best footballers of the Moroccan Football League (LMFA), was active in friendly matches against other North African teams such as [[Algeria national football team|Algeria]] and [[Tunisia national football team|Tunisia]].
+
+On 9 September 1954, an [[1954 Chlef earthquake|earthquake]] struck the Algerian region of Orléansville (now [[Chlef]]), destroying the city and killing 1,400 people. On 7 October 1954, the [[French Football Association]] and the Maghreb inhabitants organized a charity match to raise funds for the families of the victims of the earthquake. In the match, held at the [[Parc de Princes]] in Paris, a team made up of Moroccans, Algerians and Tunisians played against [[France national football team|France]]. Led by star [[Larbi Benbarek]], the Maghreb selection managed to win 3–2, a month before the [[Toussaint Rouge]] attacks by the [[National Liberation Front (Algeria)|Algerian National Liberation Front]] which marked the beginning of the [[Algerian War]].
+
+In 1955, the [[Royal Moroccan Football Federation]] was established, at the end of the [[French protectorate of Morocco]], which had lasted since 1912.
+
+On 19 October 1957, at the [[Football at the 1957 Arab Games|second edition of the Arab Games]] in Lebanon, Morocco made its debut as an independent country against Iraq, at the [[Camille Chamoun Sports City Stadium]], and drew 3–3. At the tournament, Morocco recorded their first-ever win, defeating [[Libya national football team|Libya]] 5–1, then beat [[Tunisia national football team|Tunisia]] 3–1 to reach the semi-finals. After a 1–1 draw with [[Syria national football team|Syria]], lots were drawn to decide who would progress to the final, and Syria were selected at Morocco's expense. Morocco withdrew from the third-place play-off against [[Lebanon national football team|Lebanon]] and finished fourth overall.<ref>{{Cite web|title=2nd Arab Games, 1957 (Beirut, Lebanon)|url=https://www.rsssf.org/tablesa/arabgam57.html|access-date=19 January 2022|website=[[RSSSF]]|archive-date=27 September 2022|archive-url=https://web.archive.org/web/20220927133121/https://www.rsssf.org/tablesa/arabgam57.html|url-status=live}}</ref>
+
+Between 1957 and 1958, Morocco held numerous friendly matches against the National Liberation Front team, the representative of Algeria before its independence in 1958. In 1959, the team took part for the first time in an international competition, the [[Football at the 1960 Summer Olympics – Men's African Qualifiers|qualifying rounds of the 1960 Rome Olympics]]. Drawn into a group with Tunisia and Malta, Morocco finished second on goal difference and failed to progress. That same year, the Royal Moroccan Football Federation joined FIFA.[[File:Sélection_régional_du_Maroc_1942.jpg|alt=|thumb|The Morocco national team in 1942 with [[Larbi Benbarek]]|right]]In 1960, Morocco competed in [[1962 FIFA World Cup qualification|World Cup qualification]] for the first time. Drawn against Tunisia in the first round, Morocco won the first leg 2–1, while Tunisia won the second leg by the same score. A play-off held in [[Palermo]], Italy finished in a draw, so a coin toss was used to determine who progressed. Morocco won the toss, and beat Ghana 1–0 on aggregate to reach the [[1962 FIFA World Cup qualification#Inter-confederation play-offs|inter-continental play-offs]]. Drawn against [[Spain national football team|Spain]], Morocco lost 4–2 on aggregate and thus failed to qualify.
+
+The following year, Morocco held the [[Football at the 1961 Arab Games|Pan-Arab Games]] and won the football tournament, winning all five of their matches. Their third match, against Saudi Arabia, resulted in Morocco's biggest-ever victory, winning 13–1.<ref>{{Cite web|title=3rd Arab Games, 1961 (Casablanca, Morocco)|url=https://www.rsssf.org/tablesa/arabgam61.html|access-date=13 January 2022|website=[[RSSSF]]|archive-date=27 September 2022|archive-url=https://web.archive.org/web/20220927150610/https://www.rsssf.org/tablesa/arabgam61.html|url-status=live}}</ref> They also claimed their first two wins against a European team, beating [[East Germany national football team|East Germany]] 2–1 and 2–0.
+
+In 1963, the Moroccan team came close to [[1963 Africa Cup of Nations qualification|qualifying for the African Cup of Nations]]; in the decisive play-off against Tunisia, they were defeated 4–1 in [[Tunis]] and won 4–2 at home, therefore being eliminated. At the [[Football at the 1963 Mediterranean Games|1963 Mediterranean Games]] in [[Naples]], they finished fourth after a 2–1 defeat in the final for third place against Spain's reserve team.<ref>{{Cite web|title=Mediterranean Games 1963 (Italy)|url=https://www.rsssf.org/tablesm/medgames63.html|access-date=19 January 2022|website=[[RSSSF]]|archive-date=18 October 2022|archive-url=https://web.archive.org/web/20221018213132/https://www.rsssf.org/tablesm/medgames63.html|url-status=live}}</ref>
+
+=== 1963–1976: First international competitions ===
+[[File:Massoun ou Masson Mohamed Entraineur de l'Equype National du Maroc de Novembre 1960 à Novembre 1967 ; égaleùent Entraineur de l'Equipe du WYDAD de Casablanca de 1953 à 1969 02.jpg|alt=|thumb|[[:fr:Mohamed Massoun|Mohamed Massoun]], Morocco's coach in the 1960s|right]]Morocco participated in the final phase of an international competition for the first time at the [[Football at the 1964 Summer Olympics|1964 Tokyo Olympics]]. Having qualified under the leadership of manager Mohamed Massoun, the Moroccans were included in a group of three teams due to the withdrawal of [[North Korea national football team|North Korea]]. Morocco lost both their matches, against [[Hungary national football team|Hungary]] (6–0, the team's worst-ever defeat) and Yugoslavia (3–1, despite taking the lead in the second minute via [[Ali Bouachra]]).
+
+In 1966, the Moroccan Football Association joined the [[Confederation of African Football]], and the team participated in [[1970 FIFA World Cup qualification|qualifying]] for the [[1970 FIFA World Cup|1970 World Cup]] in Mexico. Their debut eliminated [[Senegal national football team|Senegal]] (1–0) and Tunisia after a draw. In the final round of the preliminaries, against [[Sudan national football team|Sudan]] and [[Nigeria national football team|Nigeria]], Morocco obtained five points, finishing ahead of Nigeria. Shortly after, Morocco lost the decisive play-off against Algeria to enter the final stage of the [[1970 Africa Cup of Nations]].
+
+Morocco thus became the first African national team to qualify for the World Cup after having played in an elimination tournament. The Moroccan team, coached by the Yugoslav [[Blagoje Vidinić]], consisted entirely of players in the Moroccan league, including [[Driss Bamous]] and [[Ahmed Faras]].
+
+On 3 June 1970, against [[West Germany national football team|West Germany]], Morocco opened the scoring with a goal in the 21st minute of the game scored by [[Houmane Jarir]]. In the second half, however, the Germans scored twice and won 2–1. The Atlas Lions then played against [[Peru national football team|Peru]], conceding three goals in ten minutes to lose 3–0. On 11 June 1970, the eliminated Moroccans drew with [[Bulgaria national football team|Bulgaria]] 1–1. It was the first point obtained by an African national team at the World Cup.<ref>{{Cite web|title=World Cup 1970 finals|url=https://www.rsssf.org/tables/70full.html|access-date=13 January 2022|website=[[RSSSF]]|archive-date=1 July 2016|archive-url=https://web.archive.org/web/20160701154217/http://www.rsssf.com/tables/70full.html|url-status=live}}</ref>
+
+In [[1972 Africa Cup of Nations qualification]], the Atlas Lions ousted Algeria, then faced Egypt, defeating them 3–0 in the first leg and suffering a 3–2 defeat on the way back. However, the aggregate win meant they qualified for the final phase of the continental tournament for the first time. In the group stage, they accumulated three 1–1 draws against [[Congo national football team|Congo]], Sudan and [[Zaire national football team|Zaire]] and were eliminated in the first round. All three Moroccan goals were scored by Ahmed Faras.
+
+Qualifying for the [[Football at the 1972 Summer Olympics|1972 Olympics]] in Munich with two wins and two draws, Morocco debuted in Group A with a goalless draw against the [[United States men's national soccer team|United States]], then lost 3–0 against hosts West Germany and defeated [[Malaysia national football team|Malaysia]] 6–0 with a Faras hat-trick, thereby advancing to the second round. Due to defeats against [[USSR national football team|USSR]] (3–0), [[Denmark national football team|Denmark]] (3–1) and [[Poland national football team|Poland]] (5–0), they were eliminated from the tournament; finishing bottom of their group.<ref>{{Cite web|title=Games of the XX. Olympiad – Football Tournament|url=https://www.rsssf.org/tableso/ol1972f.html|access-date=13 January 2022|website=[[RSSSF]]|archive-date=11 July 2022|archive-url=https://web.archive.org/web/20220711203920/https://www.rsssf.org/tableso/ol1972f.html|url-status=live}}</ref>
+
+In the [[1974 FIFA World Cup qualification (CAF)|1974 World Cup qualifiers]], Morocco successfully passed three qualifying rounds before entering the final stage alongside [[Zambia national football team|Zambia]] and [[Zaire national football team|Zaire]]. Losing 4–0 away against Zambia, the Moroccans bounced back in the second game, defeating the same opponent 2–0 at home. They then went to Zaire for their third game but lost 3–0, conceding all three goals in the second half, with Faras leaving the field due to injury. Morocco filed an appeal, trying to get the match to be replayed; it was dismissed by FIFA. In protest, Morocco withdrew from the qualifiers causing the Atlas Lions to miss their final game at home against Zaire which had already qualified for the finals, with FIFA awarding Zaire a 2–0 win on walkover. For the same reason, Morocco also decided not to take part in the [[1974 African Cup of Nations qualification]]. As a result, in 1974, Morocco played only two games, both against Algeria, achieving a 2–0 win and a 0–0 draw. Morocco then resumed playing in FIFA and CAF competitions, qualifying for the [[1976 Africa Cup of Nations]] by eliminating Ghana in the last round, but failed to qualify for the [[Football at the 1976 Summer Olympics – Men's African Qualifiers|1976 Olympics]], being eliminated by Nigeria.
+
+=== 1976–1986: Victories and defeats ===
+Morocco, coached by the Romanian [[Virgil Mărdărescu]] and captained by Faras, took the continental throne at [[1976 African Cup of Nations]], in only the country's second participation in the competition. Ahmed Makrouh scored in the final to equalize at 1–1, which gave Morocco the first, and to date, only cup in its history.<ref>{{Cite web|title=African Nations Cup 1976|url=https://www.rsssf.org/tables/76a.html|access-date=13 January 2022|website=[[RSSSF]]|archive-date=22 August 2022|archive-url=https://web.archive.org/web/20220822095118/https://www.rsssf.org/tables/76a.html|url-status=live}}</ref>
+
+After failing to qualify for the 1974 FIFA World Cup, they also missed the [[1978 FIFA World Cup|1978]] and [[1982 FIFA World Cup|1982]] tournaments. At the [[1978 Africa Cup of Nations]], they were eliminated in the first round, while in [[1980 Africa Cup of Nations|1980]] they finished in third place, beating Egypt 2–0.<ref>{{Cite web|title=African Nations Cup 1980|url=https://www.rsssf.org/tables/80a.html|access-date=19 January 2022|website=[[RSSSF]]|archive-date=22 August 2022|archive-url=https://web.archive.org/web/20220822095120/https://www.rsssf.org/tables/80a.html|url-status=live}}</ref> They then won the [[Football at the 1983 Mediterranean Games|1983 Mediterranean Games]], played at home, after a 3–0 win in the final against [[Turkey national football B team|Turkey B]].<ref>{{Cite web|title=Mediterranean Games 1983 (Morocco)|url=https://www.rsssf.org/tablesm/medgames83.html|access-date=13 January 2022|website=[[RSSSF]]|archive-date=23 September 2022|archive-url=https://web.archive.org/web/20220923222645/https://www.rsssf.org/tablesm/medgames83.html|url-status=live}}</ref>
+
+Morocco did not qualify for either the [[1982 Africa Cup of Nations|1982]] or [[1984 Africa Cup of Nations]]. [[1986 Africa Cup of Nations|Two years later]], they finished fourth, losing 3–2 in the third-place play-off to [[Ivory Coast national football team|Ivory Coast]].<ref>{{Cite web|title=African Nations Cup 1986|url=https://www.rsssf.org/tables/86a.html|access-date=19 January 2022|website=[[RSSSF]]|archive-date=22 August 2022|archive-url=https://web.archive.org/web/20220822095117/https://www.rsssf.org/tables/86a.html|url-status=live}}</ref>
+
+=== 1986–2000: The golden generation ===
+{{football squad on pitch|align=right
+|  GK = '''[[Badou Zaki|Zaki (C)]]'''
+|  LB = '''[[Abdelmajid Lamriss|Lamriss]]'''
+| RCB = '''[[Noureddine Bouyahyaoui|Bouyahyaoui]]'''
+| LCB = '''[[Mustapha El Biyaz|El Biyaz]]'''
+|  RB = '''[[Labid Khalifa|Khalifa]]'''
+|  LCM = '''[[Abdelmajid Dolmy|Dolmy]]'''
+|  RCM = '''[[Mustafa El Haddaoui|El Haddaoui]]'''
+| AM = ''' [[Mohamed Timoumi|Timoumi]]'''
+|  LW = ''' [[Abderrazak Khairi|Khairi]]'''
+|  RW = '''[[Aziz Bouderbala|Bouderbala]]'''
+|  CF = ''' [[Abdelkrim Merry|Merry]]'''
+| caption = Morocco's typical starting line-up at the [[1986 FIFA World Cup]] 
+}}
+Morocco qualified for the [[1986 FIFA World Cup]] in Mexico, and topped a group consisting [[Portugal national football team|Portugal]], [[England national football team|England]] and [[Poland national football team|Poland]], thanks to two draws against the English and Polish<ref>{{Cite web|title=Morocco vs. Poland – Football Match Summary – June 2, 1986 – ESPN|url=https://www.espn.com/soccer/match/_/gameId/197953|access-date=19 January 2022|website=ESPN.com|language=en|archive-date=19 January 2022|archive-url=https://web.archive.org/web/20220119171104/https://www.espn.com/soccer/match/_/gameId/197953|url-status=live}}</ref> and a 3–1 win against the Portuguese.<ref>{{Cite web|title=Portugal vs. Morocco – Football Match Summary – June 11, 1986|url=https://www.espn.in/football/match/_/gameId/197958|access-date=19 January 2022|website=ESPN|language=en|archive-date=19 January 2022|archive-url=https://web.archive.org/web/20220119171105/https://www.espn.in/football/match/_/gameId/197958|url-status=live}}</ref> However, they were narrowly eliminated by [[West Germany national football team|West Germany]] in the first knockout round, thanks to a goal from [[Lothar Matthäus]] one minute from the end of regulation time. Morocco became the first African and Arab national team to advance from the first round of the World Cup.<ref>{{Cite web|title=World Cup 1986 finals|url=https://www.rsssf.org/tables/86full.html|access-date=13 January 2022|website=[[RSSSF]]|archive-date=1 March 2020|archive-url=https://web.archive.org/web/20200301052859/http://www.rsssf.com/tables/86full.html|url-status=live}}</ref>
+
+Two years later, the Moroccan team presented itself at the [[1988 African Cup of Nations]] as a host country with high expectations. After winning in the first round, they were eliminated in the semi-finals by [[Cameroon national football team|Cameroon]] and finished in fourth place after losing the third-place play-off against [[Algeria national football team|Algeria]] 1–1 after extra time, 4–3 after penalties.
+
+Morocco failed to qualify for the [[1990 FIFA World Cup]] and was eliminated in the group stage of the [[1992 African Cup of Nations]]. The team also did not qualify for the [[1994 African Cup of Nations|1994]] and [[1996 African Cup of Nations]] tournaments. Despite these setbacks, the team qualified for the [[1994 FIFA World Cup]] in the [[United States]] and the [[1998 FIFA World Cup]] in [[France]]. In both tournaments, Morocco were praised for their attacking style of play, led by key players such as Mustapha Hadji, Noureddine Naybet, and Salaheddine Bassir.<ref>{{Cite web|title=World Cup 1994 finals|url=https://www.rsssf.org/tables/94full.html|access-date=13 January 2022|website=[[RSSSF]]|archive-date=19 December 2017|archive-url=https://web.archive.org/web/20171219031509/http://www.rsssf.com/tables/94full.html|url-status=live}}</ref><ref>{{Cite web|title=World Cup 1998 finals|url=https://www.rsssf.org/tables/98full.html|access-date=13 January 2022|website=[[RSSSF]]|archive-date=28 January 2015|archive-url=https://web.archive.org/web/20150128114726/http://www.rsssf.com/tables/98full.html|url-status=live}}</ref>
+
+At the [[1998 Africa Cup of Nations]], after winning their group, Morocco were defeated by [[South Africa national football team|South Africa]] 2–1.<ref>{{Cite web |title=African Nations Cup 1998 |url=https://www.rsssf.org/tables/98a.html |access-date=15 October 2022 |website=[[RSSSF]] |archive-date=25 September 2022 |archive-url=https://web.archive.org/web/20220925235940/https://www.rsssf.org/tables/98a.html |url-status=live }}</ref>
+
+=== 2000–2021: Difficult years ===
+[[File:Morocco vs Niger, February 09 2011-1.jpg|thumb|The Morocco national team in 2011]]Morocco took part in the [[2004 African Cup of Nations]], drawn into Group D defeating [[Nigeria national football team|Nigeria]] 1–0, defeating [[Benin national football team|Benin]] 4–0<ref>{{Cite web|title=Morocco vs. Benin – Football Match Summary – January 31, 2004 – ESPN|url=https://global.espn.com/football/match/_/gameId/135838|access-date=19 January 2022|website=ESPN.com|language=en|archive-date=19 January 2022|archive-url=https://web.archive.org/web/20220119171105/https://global.espn.com/football/match/_/gameId/135838|url-status=live}}</ref> and drawing 1–1 with [[South Africa national soccer team|South Africa]]. Morocco qualified to the knockout stages, facing [[Algeria national football team|Algeria]]; they eventually won 3–1 in extra time,<ref>{{Cite web|title=Morocco vs. Algeria – Football Match Summary – February 8, 2004 – ESPN|url=https://www.espn.com/soccer/match/_/gameId/138173|access-date=19 January 2022|website=ESPN.com|language=en|archive-date=19 January 2022|archive-url=https://web.archive.org/web/20220119171106/https://www.espn.com/soccer/match/_/gameId/138173|url-status=live}}</ref> and 4–0 against [[Mali national football team|Mali]] in the semi-final.<ref>{{Cite web|title=Morocco vs. Mali – Football Match Summary – February 11, 2004 – ESPN|url=https://www.espn.com/soccer/match/_/gameId/138175|access-date=19 January 2022|website=ESPN.com|language=en|archive-date=19 January 2022|archive-url=https://web.archive.org/web/20220119171105/https://www.espn.com/soccer/match/_/gameId/138175|url-status=live}}</ref> They lost the [[2004 African Cup of Nations Final]] against [[Tunisia national football team|Tunisia]] 2–1.<ref>{{Cite web|title=African Nations Cup 2004|url=https://www.rsssf.org/tables/04a.html|access-date=14 January 2022|website=[[RSSSF]]|archive-date=13 October 2022|archive-url=https://web.archive.org/web/20221013070926/https://www.rsssf.org/tables/04a.html|url-status=live}}</ref>
+
+In 2012, the national team won the [[2012 Arab Cup|Arab Cup]], topping their group, defeating [[Iraq national football team|Iraq]] in the semi-final and Libya in the final.<ref>{{Cite web|title=Arab Cup|url=https://www.rsssf.org/tablesa/arabcup.html|access-date=13 January 2022|website=[[RSSSF]]|archive-date=31 January 2023|archive-url=https://web.archive.org/web/20230131231630/https://www.rsssf.org/tablesa/arabcup.html|url-status=live}}</ref>
+
+In [[2014 African Nations Championship|2014]], Morocco debuted in the [[African Nations Championship]] after failing to qualify in the [[2009 African Nations Championship|2009]] and [[2011 African Nations Championship|2011]] editions. Led by coach [[Hassan Benabicha]], Morocco were eliminated in the second round after losing 4–3 to [[Nigeria national football team|Nigeria]] in the [[2014 African Nations Championship#Quarter-finals|quarter-finals]].<ref>{{Cite web|title=African Nations Championship 2014|url=https://www.rsssf.org/tables/2014anch.html|access-date=26 December 2021|website=[[RSSSF]]|archive-date=29 September 2022|archive-url=https://web.archive.org/web/20220929101033/https://www.rsssf.org/tables/2014anch.html|url-status=live}}</ref> They managed to qualify for the [[2016 African Nations Championship]], but were eliminated in the group stages.<ref>{{Cite web|title=African Nations Championship 2016|url=https://www.rsssf.org/tables/2016anch.html|access-date=19 January 2022|website=[[RSSSF]]|archive-date=28 September 2022|archive-url=https://web.archive.org/web/20220928225430/https://www.rsssf.org/tables/2016anch.html|url-status=live}}</ref> Morocco hosted the [[2018 African Nations Championship]], which included a victory for the home nation, the third North African country to win the competition's title.<ref>{{Cite web|title=Reactions: Morocco 4–0 Mauritania|url=https://www.cafonline.com/total-african-nations-championship/news/reactions-morocco-4-0-mauritania|access-date=5 February 2022|website=CAF|language=en|archive-date=5 February 2022|archive-url=https://web.archive.org/web/20220205123812/https://www.cafonline.com/total-african-nations-championship/news/reactions-morocco-4-0-mauritania|url-status=live}}</ref><ref>{{Cite news |title=Hosts Morocco crowned CHAN champions |language=en-GB |work=BBC Sport |url=https://www.bbc.com/sport/football/42939957 |access-date=13 November 2022 |archive-date=21 October 2022 |archive-url=https://web.archive.org/web/20221021192153/https://www.bbc.com/sport/football/42939957 |url-status=live }}</ref><ref>{{Cite web |date=4 February 2018 |title=Morocco crush Nigeria 4–0 to win CHAN crown |url=https://www.espn.com/soccer/nigeria/story/3372759/morocco-crush-nigeria-4-0-to-win-chan-crown |access-date=13 November 2022 |website=ESPN.com |language=en |archive-date=13 November 2022 |archive-url=https://web.archive.org/web/20221113145026/https://www.espn.com/soccer/nigeria/story/3372759/morocco-crush-nigeria-4-0-to-win-chan-crown |url-status=live }}</ref>
+
+Morocco returned to the World Cup after a 20-year absence in [[2018 FIFA World Cup|2018]].<ref>{{Cite web|title=World Cup 2018|url=https://www.rsssf.org/tables/2018f.html|access-date=26 December 2021|website=[[RSSSF]]|archive-date=30 June 2020|archive-url=https://web.archive.org/web/20200630070249/http://rsssf.com/tables/2018f.html|url-status=live}}</ref> The North Africans were drawn in [[2018 FIFA World Cup Group B|Group B]] with World Cup favourites [[Spain national football team|Spain]], [[Portugal national football team|Portugal]], and [[Iran national football team|Iran]].<ref>{{Cite web |title=World Cup 2018 Group B: Fixtures, standings, squads & full details on Spain & Portugal group |url=https://www.goal.com/en/news/world-cup-2018-group-b-fixtures-standings-squads--spain--portugal-group-iran-morocco/1rpmcanpurbi112dcsljicuoe4 |access-date=15 October 2022 |website=Goal |archive-date=15 October 2022 |archive-url=https://web.archive.org/web/20221015153738/https://www.goal.com/en/news/world-cup-2018-group-b-fixtures-standings-squads--spain--portugal-group-iran-morocco/1rpmcanpurbi112dcsljicuoe4 |url-status=live }}</ref> In their opening game against Iran, Morocco showed full dedication but lost 1{{ndash}}0 in the final minutes of the match, scored by an own goal.<ref>{{Cite news|last=Mather|first=Victor|date=15 June 2018|title=After Morocco Own Goal, Iran Wins World Cup Slugfest|language=en-US|work=The New York Times|url=https://www.nytimes.com/2018/06/15/sports/world-cup/morocco-iran-live-score.html|access-date=13 January 2022|issn=0362-4331|archive-date=13 January 2022|archive-url=https://web.archive.org/web/20220113112406/https://www.nytimes.com/2018/06/15/sports/world-cup/morocco-iran-live-score.html|url-status=live}}</ref> In their second game, Morocco faced Portugal but ended losing 1–0 by a goal scored by [[Cristiano Ronaldo]] and also got eliminated from the tournament.<ref>{{Cite news|last=Doyle|first=Paul|date=20 June 2018|title=Portugal 1–0 Morocco: World Cup 2018 – as it happened|language=en-GB|work=The Guardian|url=https://www.theguardian.com/football/live/2018/jun/20/portugal-v-morocco-world-cup-2018-live|access-date=13 January 2022|issn=0261-3077|archive-date=13 January 2022|archive-url=https://web.archive.org/web/20220113112402/https://www.theguardian.com/football/live/2018/jun/20/portugal-v-morocco-world-cup-2018-live|url-status=live}}</ref> In the last match against Spain they took a 2–1 lead, with goals scored by [[Khalid Boutaïb]] and [[Youssef En-Nesyri]], but the match eventually ended 2–2.<ref>{{Cite web|title=Spain 2–2 Morocco: Spain top Group B after dramatic turnaround|url=https://www.skysports.com/football/news/12098/11416733/spain-2-2-morocco-spain-top-group-b-after-dramatic-turnaround|access-date=13 January 2022|website=Sky Sports|language=en|archive-date=13 January 2022|archive-url=https://web.archive.org/web/20220113112402/https://www.skysports.com/football/news/12098/11416733/spain-2-2-morocco-spain-top-group-b-after-dramatic-turnaround|url-status=live}}</ref>
+
+{{football squad on pitch|align=right
+|  GK = '''[[Anas Zniti|Zniti]]'''
+|  LB = '''[[Hamza El Moussaoui|El Moussaoui]]'''
+| RCB = '''[[Soufiane Bouftini|Bouftini]]'''
+| LCB = '''[[Abdelmounaim Boutouil|Boutouil]]'''
+|  RB = '''[[Omar Namsaoui|Namsaoui]]'''
+|  LDM = '''[[Mohammed Ali Bemammer|Bemammer]]'''
+| RDM = '''[[Yahya Jabrane|Jabrane]]'''
+| AM = '''[[Abdelilah Hafidi|Hafidi]]'''
+|  LW = '''[[Noah Sadaoui|Sadaoui]]'''
+|  RW = '''[[Soufiane Rahimi|Rahimi]]'''
+|  CF = '''[[Ayoub El Kaabi|El Kaabi]]''' (C)
+| caption = Morocco's starting line-up against [[Mali national football team|Mali]] at the [[2020 African Nations Championship Final]], a match they won 2–0
+}}
+
+Morocco entered the [[2019 AFCON]] with high confidence and players claiming them to be the favourite to win.<ref>{{Cite news |last=Kasraoui |first=Safaa |title=Clarence Seedorf: Morocco Among Favorites to Win 2019 AFCON |work=Morocco world news |url=https://www.moroccoworldnews.com/2019/05/273770/clarence-seedorf-morocco-can-afcon |access-date=15 October 2022 |archive-date=15 October 2022 |archive-url=https://web.archive.org/web/20221015153738/https://www.moroccoworldnews.com/2019/05/273770/clarence-seedorf-morocco-can-afcon |url-status=live }}</ref><ref>{{Cite news |last=Kasraoui |first=Safaa |title=El Hadji Diouf Says Morocco Among Favorites to Win 2019 CAN |work=Morocco world news |url=https://www.moroccoworldnews.com/2019/04/269949/el-hadji-diouf-says-morocco-among-favorites-to-win-2019-can |access-date=15 October 2022 |archive-date=15 October 2022 |archive-url=https://web.archive.org/web/20221015153739/https://www.moroccoworldnews.com/2019/04/269949/el-hadji-diouf-says-morocco-among-favorites-to-win-2019-can |url-status=live }}</ref> However, in spite of three straight group stage wins, Morocco were shockingly knocked out by [[Benin national football team|Benin]] in the round of sixteen.<ref>{{Cite web|title=African Nations Cup 2019|url=https://www.rsssf.org/tables/2019a.html|access-date=14 January 2022|website=[[RSSSF]]|archive-date=15 August 2022|archive-url=https://web.archive.org/web/20220815123913/https://www.rsssf.org/tables/2019a.html|url-status=live}}</ref><ref>{{Cite news |title=Benin shock Morocco to reach last eight |language=en-GB |work=BBC Sport |url=https://www.bbc.com/sport/football/48795602 |access-date=15 October 2022 |archive-date=15 October 2022 |archive-url=https://web.archive.org/web/20221015155241/https://www.bbc.com/sport/football/48795602 |url-status=live }}</ref>
+
+At the [[2020 African Nations Championship]] in Cameroon,<ref>{{Cite web|title=Holders Morocco humble Algeria for Cameroon place|url=https://www.cafonline.com/news-center/news/holders-morocco-humble-algeria-for-cameroon-place|access-date=15 January 2022|website=CAF|language=en|archive-date=7 January 2022|archive-url=https://web.archive.org/web/20220107035810/https://www.cafonline.com/news-center/news/holders-morocco-humble-algeria-for-cameroon-place|url-status=live}}</ref> Morocco won their second CHAN title, in its second consecutive final appearance. Captained by [[Ayoub El Kaabi]], they defeated [[Togo national football team|Togo]] (1–0),<ref>{{Cite web|title=Title holders Morocco labour to defeat Togo at CHAN|url=https://www.cafonline.com/total-african-nations-championship/news/title-holders-morocco-labour-to-defeat-togo-at-chan|access-date=25 December 2021|website=CAF|language=en|archive-date=25 December 2021|archive-url=https://web.archive.org/web/20211225110223/https://www.cafonline.com/total-african-nations-championship/news/title-holders-morocco-labour-to-defeat-togo-at-chan|url-status=live}}</ref> [[Rwanda national football team|Rwanda]] (0–0),<ref>{{Cite web |title=Holders Morocco held by Rwanda in CHAN Group C clash |url=https://www.cafonline.com/total-african-nations-championship/news/holders-morocco-held-by-rwanda-in-chan-group-c-clash |access-date=15 October 2022 |website=CAF |language=en |archive-date=15 October 2022 |archive-url=https://web.archive.org/web/20221015153738/https://www.cafonline.com/total-african-nations-championship/news/holders-morocco-held-by-rwanda-in-chan-group-c-clash |url-status=live }}</ref> the [[Uganda national football team|Uganda]] (5–2),<ref>{{Cite web |title=Uganda v Morocco Match Report, 26/01/2021, African Nations Championship |url=https://www.goal.com/en-bh/match/uganda-v-morocco/report/5aun7kx46al9zehimtasxpai2 |access-date=15 October 2022 |website=Goal |archive-date=15 October 2022 |archive-url=https://web.archive.org/web/20221015153739/https://www.goal.com/en-bh/match/uganda-v-morocco/report/5aun7kx46al9zehimtasxpai2 |url-status=live }}</ref> [[Zambia national football team|Zambia]] (3–1),<ref>{{Cite web|title=Defending champions Morocco see off Zambia to reach CHAN semis|url=https://www.cafonline.com/total-african-nations-championship/news/defending-champions-morocco-see-off-zambia-to-reach-chan-semis|access-date=25 December 2021|website=CAF|language=en|archive-date=25 December 2021|archive-url=https://web.archive.org/web/20211225110216/https://www.cafonline.com/total-african-nations-championship/news/defending-champions-morocco-see-off-zambia-to-reach-chan-semis|url-status=live}}</ref> and [[Cameroon national football team|Cameroon]] (4–0)<ref>{{Cite web|title=HIGHLIGHTS {{!}} Total CHAN 2020 {{!}} Semi-final 2: Morocco 4–0 Cameroon|url=https://www.cafonline.com/total-african-nations-championship/videos/highlights-total-chan-2020-semi-final-2-morocco-4-0-cameroon|access-date=25 December 2021|website=CAF|language=en|archive-date=25 December 2021|archive-url=https://web.archive.org/web/20211225110218/https://www.cafonline.com/total-african-nations-championship/videos/highlights-total-chan-2020-semi-final-2-morocco-4-0-cameroon|url-status=live}}</ref> on the way to a final against [[Mali national football team|Mali]] in [[Yaoundé]]. Morocco won 2–0, with both goals scored late into the second half by [[Soufiane Bouftini]] and [[Ayoub El Kaabi]].<ref>{{Cite web|title=Morocco win second CHAN title after defeating Mali in final|url=https://www.cafonline.com/total-african-nations-championship/news/morocco-win-second-chan-title-after-defeating-mali-in-final|access-date=24 December 2021|website=CAF|language=en|archive-date=24 November 2021|archive-url=https://web.archive.org/web/20211124202824/https://www.cafonline.com/total-african-nations-championship/news/morocco-win-second-chan-title-after-defeating-mali-in-final|url-status=live}}</ref> Morocco thus became the first team to win back-to-back titles.<ref>{{Cite web |title=Morocco defeat Mali 2–0 to retain Chan title |url=https://www.goal.com/en/news/morocco-defeat-mali-2-0-to-retain-chan-title/tq6vkptjqs91pgoaganvxtss |access-date=13 November 2022 |website=Goal |archive-date=13 November 2022 |archive-url=https://web.archive.org/web/20221113145026/https://www.goal.com/en/news/morocco-defeat-mali-2-0-to-retain-chan-title/tq6vkptjqs91pgoaganvxtss |url-status=live }}</ref> [[Soufiane Rahimi]] went on to be named Total Man of the tournament after an astonishing performance scoring a total of 5 goals.<ref>{{Cite web |title=Morocco star Rahimi wins CHAN best player, top-scorer awards |url=https://www.cafonline.com/total-african-nations-championship/news/soufiane-rahimi-best-player-of-total-chan-cameroon-2020 |access-date=25 December 2021 |website=CAF |language=en |archive-date=7 December 2022 |archive-url=https://web.archive.org/web/20221207140236/https://www.cafonline.com/total-african-nations-championship/news/soufiane-rahimi-best-player-of-total-chan-cameroon-2020 |url-status=live }}</ref>
+
+In December 2021, Morocco started its venture at the [[2021 FIFA Arab Cup]]'s [[2021 FIFA Arab Cup Group C|Group C]], along with [[Jordan national football team|Jordan]], [[Palestine national football team|Palestine]] and [[Saudi Arabia national football team|Saudi Arabia]]. Morocco opened the tournament with a 4–0 win against Palestine,<ref>{{Cite web|title=Morocco v Palestine Live Commentary & Result, 01/12/2021, Arab Cup|url=https://www.goal.com/en/match/morocco-v-palestine/5fj2bsrmjjlei16vgv2dvz7ys|access-date=5 February 2022|website=Goal|archive-date=5 February 2022|archive-url=https://web.archive.org/web/20220205142231/https://www.goal.com/en/match/morocco-v-palestine/5fj2bsrmjjlei16vgv2dvz7ys|url-status=live}}</ref> and then managed to overcome a highly defensive Jordan with another 4–0 triumph,<ref>{{Cite web|date=4 December 2021|title=Arab Cup: Morocco beats Jordan (4–0) and goes to the quarter-finals|url=https://moroccolatestnews.com/arab-cup-morocco-beats-jordan-4-0-and-goes-to-the-quarter-finals/|access-date=5 February 2022|website=Morocco Latest News|language=en-US|archive-date=5 February 2022|archive-url=https://web.archive.org/web/20220205142233/https://moroccolatestnews.com/arab-cup-morocco-beats-jordan-4-0-and-goes-to-the-quarter-finals/|url-status=usurped}}</ref> before winning their final match in a 1–0 victory against Saudi Arabia.<ref>{{Cite web|title=Morocco v Saudi Arabia Live Commentary & Result, 07/12/2021, Arab Cup|url=https://www.goal.com/en/match/morocco-v-saudi-arabia/cxqo5r029ftmcxcbjbwm44sno|access-date=5 February 2022|website=Goal|archive-date=5 February 2022|archive-url=https://web.archive.org/web/20220205142246/https://www.goal.com/en/match/morocco-v-saudi-arabia/cxqo5r029ftmcxcbjbwm44sno|url-status=live}}</ref> They were eliminated in the quarter-finals after a penalty-shootout against [[Algeria national football team|Algeria]].<ref>{{Cite web|last=Pens|first=Alg Win|title=Morocco vs. Algeria – December 11, 2021|url=https://www.foxsports.com/soccer/boxscore?id=90848|access-date=5 February 2022|website=FOX Sports|language=en-US|archive-date=5 February 2022|archive-url=https://web.archive.org/web/20220205142240/https://www.foxsports.com/soccer/boxscore?id=90848|url-status=live}}</ref>
+
+=== 2021–2026: Comeback ===
+After easily topping their [[2021 Africa Cup of Nations]] qualification group which consisted of Mauritania, Burundi, and Central African Republic, Morocco entered the tournament in Cameroon.<ref>{{Cite web|date=9 January 2022|title=Predicting the Africa Cup of Nations 2021 Winner|url=https://theanalyst.com/2022/01/afcon-2021-predictions-nigeria-morocco-egypt-cameroon-senegal-algeria/|access-date=30 January 2022|website=The Analyst|language=en|archive-date=31 January 2022|archive-url=https://web.archive.org/web/20220131111817/https://theanalyst.com/2022/01/afcon-2021-predictions-nigeria-morocco-egypt-cameroon-senegal-algeria/|url-status=live}}</ref> Morocco were drawn into group E alongside [[Gabon national football team|Gabon]], [[Ghana national football team|Ghana]] and [[Comoros national football team|Comoros]], and won their first game against Ghana scored by [[Sofiane Boufal]] in the final minutes of the game.<ref>{{Cite news |title=Morocco flog Ghana 1–0 for Afcon 2021 first encounter |work=BBC News Pidgin |url=https://www.bbc.com/pidgin/sport-59941067 |access-date=16 October 2022 |archive-date=16 October 2022 |archive-url=https://web.archive.org/web/20221016122341/https://www.bbc.com/pidgin/sport-59941067 |url-status=live }}</ref> In their second game against Comoros, they claimed a 2–0 victory.<ref>{{Cite web |title=Morocco 2–0 Comoros Islands: Wins sees Vahid Halilhodzic's side reach AFCON last 16 |url=https://www.skysports.com/football/news/13962/12514158/morocco-2-0-comoros-islands-wins-sees-vahid-halilhodzics-side-reach-afcon-last-16 |access-date=16 October 2022 |website=Sky Sports |language=en |archive-date=16 October 2022 |archive-url=https://web.archive.org/web/20221016122347/https://www.skysports.com/football/news/13962/12514158/morocco-2-0-comoros-islands-wins-sees-vahid-halilhodzics-side-reach-afcon-last-16 |url-status=live }}</ref> Their final match against Gabon ended in a draw, making Morocco reach the round of 16 after ending up first in the group.<ref>{{Cite web|title=Morocco seal top spot with hard fought Gabon draw|url=https://www.cafonline.com/total-africa-cup-of-nations/news/morocco-seal-top-spot-with-hard-fought-gabon-draw|access-date=30 January 2022|website=CAF|language=en|archive-date=31 January 2022|archive-url=https://web.archive.org/web/20220131001533/https://www.cafonline.com/total-africa-cup-of-nations/news/morocco-seal-top-spot-with-hard-fought-gabon-draw|url-status=live}}</ref> They defeated [[Malawi national football team|Malawi]] 2–1 in the round of 16,<ref>{{Cite web|title=Morocco's Atlas Lions switch off Malawi Flames to qualify for quarters|url=https://www.cafonline.com/total-africa-cup-of-nations/news/morocco-s-atlas-lions-switch-off-malawi-flames-to-qualify-for-quarters|access-date=30 January 2022|website=CAF|language=en|archive-date=28 January 2022|archive-url=https://web.archive.org/web/20220128180500/https://www.cafonline.com/total-africa-cup-of-nations/news/morocco-s-atlas-lions-switch-off-malawi-flames-to-qualify-for-quarters|url-status=live}}</ref> before being eliminated in the quarter-finals after a 2–1 loss against [[Egypt national football team|Egypt]].<ref>{{Cite web|title=Egypt beat Morocco to move to the semis|url=https://www.cafonline.com/total-africa-cup-of-nations/news/egypt-beat-morocco-to-move-to-the-semis|access-date=30 January 2022|website=CAF|language=en|archive-date=4 February 2022|archive-url=https://web.archive.org/web/20220204084132/https://www.cafonline.com/total-africa-cup-of-nations/news/egypt-beat-morocco-to-move-to-the-semis|url-status=live}}</ref>
+
+{{football squad on pitch|align=right
+|  GK = '''[[Yassine Bounou|Bounou]]'''
+|  LB = '''[[Noussair Mazraoui|Mazraoui]]'''
+| LCB = '''[[Romain Saïss|Saïss]]''' (C)
+| RCB = '''[[Nayef Aguerd|Aguerd]]'''
+|  RB = '''[[Achraf Hakimi|Hakimi]]'''
+|  LW = '''[[Sofiane Boufal|Boufal]]'''
+| DM = '''[[Sofyan Amrabat|Amrabat]]'''
+| RCM = '''[[Azzedine Ounahi|Ounahi]]'''
+| LCM = '''[[Selim Amallah|Amallah]]'''
+|  RW = '''[[Hakim Ziyech|Ziyech]]'''
+|  CF = '''[[Youssef En-Nesyri|En-Nesyri]]'''
+| caption = Morocco's typical starting line-up at the [[2022 FIFA World Cup|2022 World Cup]] 
+}}
+After qualifying for the [[2022 FIFA World Cup]] by winning the [[2022 FIFA World Cup qualification – CAF third round|third round of CAF qualifiers]],<ref>{{Cite web |last=Toutate |first=Issam |title=Morocco's Atlas Lions Beat DR Congo 4–1, Qualify for FIFA World Cup 2022 |url=https://www.moroccoworldnews.com/2022/03/347980/moroccos-atlas-lions-beat-dr-congo-4-1-qualify-for-fifa-world-cup-2022 |access-date=17 December 2022 |website=moroccoworldnews |date=29 March 2022 |language=en |archive-date=17 December 2022 |archive-url=https://web.archive.org/web/20221217174003/https://www.moroccoworldnews.com/2022/03/347980/moroccos-atlas-lions-beat-dr-congo-4-1-qualify-for-fifa-world-cup-2022 |url-status=live }}</ref> the team was drawn in [[2022 FIFA World Cup Group F|Group F]] along with [[Croatia national football team|Croatia]], [[Belgium national football team|Belgium]], and [[Canada men's national soccer team|Canada]]. After holding [[2018 FIFA World Cup final|previous runners-up]] Croatia to a 0–0 draw and defeating Belgium 2–0, a 2–1 win over Canada meant they finished top of the group and advanced to the round of 16 for the first time since 1986.<ref>{{Cite web |date=1 December 2022 |title=Morocco top World Cup group after Ziyech and En-Nesyri see off Canada |url=https://www.theguardian.com/football/2022/dec/01/canada-morocco-world-cup-group-f-match-report |access-date=17 December 2022 |website=the Guardian |language=en |archive-date=17 December 2022 |archive-url=https://web.archive.org/web/20221217174002/https://www.theguardian.com/football/2022/dec/01/canada-morocco-world-cup-group-f-match-report |url-status=live }}</ref><ref>{{Cite web |agency=AFP |title=Morocco top Group F, advance to World Cup last 16 with Croatia as Belgium knocked out |url=https://www.news24.com/sport/soccer/worldcup/morocco-top-group-f-advance-to-world-cup-last-16-with-croatia-as-belgium-knocked-out-20221201 |access-date=17 December 2022 |website=Sport |language=en-US |archive-date=17 December 2022 |archive-url=https://web.archive.org/web/20221217174005/https://www.news24.com/sport/soccer/worldcup/morocco-top-group-f-advance-to-world-cup-last-16-with-croatia-as-belgium-knocked-out-20221201 |url-status=live }}</ref> In the round of 16, they met [[Spain national football team|Spain]], drawing 0–0. In the subsequent penalty shootout, goalkeeper [[Yassine Bounou]] saved two penalties, and [[Achraf Hakimi]] scored the decisive penalty with a [[Panenka (penalty kick)|panenka]] penalty for Morocco to advance to the quarter-finals for the first time.<ref>{{Cite news |last=Smith |first=Rory |date=6 December 2022 |title=Morocco Knocks Spain Out of the World Cup on Penalty Kicks |language=en-US |work=The New York Times |url=https://www.nytimes.com/live/2022/12/06/sports/spain-morocco-world-cup-score |access-date=17 December 2022 |issn=0362-4331 |archive-date=17 December 2022 |archive-url=https://web.archive.org/web/20221217120904/https://www.nytimes.com/live/2022/12/06/sports/spain-morocco-world-cup-score |url-status=live }}</ref> They advanced further to the semi-finals winning against favourite Portugal, 1–0, with a powerful header by Youssef En-Nesyri.<ref>{{Cite web |title=Morocco vs Portugal – Betting Odds |url=http://www.oddschecker.com/football/world-cup/morocco-v-portugal/winner |url-status=dead |archive-url=https://web.archive.org/web/20221210011057/https://www.oddschecker.com/football/world-cup/morocco-v-portugal/winner |archive-date=10 December 2022 |access-date=11 December 2022 |website=[[Oddschecker]]}}</ref><ref>{{Cite web |last=Khalil |first=Shaimaa |date=11 December 2022 |title=World Cup 2022: 'We witnessed history as Morocco won' |url=https://www.bbc.co.uk/news/world-middle-east-63930050 |access-date=14 December 2022 |website=[[BBC News]] |archive-date=13 December 2022 |archive-url=https://web.archive.org/web/20221213175354/https://www.bbc.co.uk/news/world-middle-east-63930050 |url-status=live }}</ref><ref>{{Cite web |title=Morocco 1–0 Portugal |url=https://www.fifa.com/fifaplus/en/match-centre/match/17/255711/285074/400128140?competitionEntryId=17 |access-date=10 December 2022 |website=[[FIFA]] |archive-date=4 December 2022 |archive-url=https://web.archive.org/web/20221204070412/https://www.fifa.com/fifaplus/en/match-centre/match/17/255711/285074/400128140?competitionEntryId=17 |url-status=live }}</ref> Morocco therefore became the first African and Arab team to qualify for the semi-finals.<ref>{{Cite news |last1=Byrne |first1=Cal |last2=Arun |first2=Shubhankar |last3=Child |first3=David |last4=Geiger |first4=Dorian |date=10 December 2022 |title=Morocco vs Portugal 1–0: World Cup 2022 – as it happened |work=[[Al Jazeera English|Al Jazeera]] |url=https://www.aljazeera.com/sports/liveblog/2022/12/10/live-morocco-vs-portugal-world-cup-2022 |access-date=10 December 2022 |archive-date=10 December 2022 |archive-url=https://web.archive.org/web/20221210100541/https://www.aljazeera.com/sports/liveblog/2022/12/10/live-morocco-vs-portugal-world-cup-2022 |url-status=live }}</ref><ref>{{Cite news |last=Quinn |first=Andrew |date=10 December 2022 |title='Continental history': How the world reacted to Morocco's victory over Portugal – and Ronaldo's tears |language=en-GB |work=[[The Daily Telegraph|The Telegraph]] |url=https://www.telegraph.co.uk/world-cup/2022/12/10/continental-history-how-world-reacted-moroccos-win-portugal/ |access-date=11 December 2022 |issn=0307-1235 |archive-date=10 December 2022 |archive-url=https://web.archive.org/web/20221210202704/https://www.telegraph.co.uk/world-cup/2022/12/10/continental-history-how-world-reacted-moroccos-win-portugal/ |url-status=live }}</ref>
+
+However, they lost to [[France national football team|France]] in the semi-final, 2–0 on 14 December at the [[Al Bayt Stadium]] in [[Al Khor]], putting an end to Morocco's World Cup run.<ref>{{Cite web |title=France 2–0 Morocco |url=https://www.fifa.com/fifaplus/en/match-centre/match/17/255711/285075/400128142?competitionEntryId=17 |access-date=14 December 2022 |website=[[FIFA]] |archive-date=16 December 2022 |archive-url=https://web.archive.org/web/20221216015054/https://www.fifa.com/fifaplus/en/match-centre/match/17/255711/285075/400128142?competitionEntryId=17 |url-status=live }}</ref> They played Croatia in the third place play-off on 17 December at the [[Khalifa International Stadium]] in [[Al Rayyan (city)|Al-Rayyan]], a rematch of the earlier group stage meeting.<ref>{{Cite web |title=Croatia vs. Morocco |url=https://www.fifa.com/fifaplus/en/match-centre/match/17/255711/285076/400128144?competitionEntryId=17 |access-date=14 December 2022 |website=[[FIFA]] |archive-date=4 December 2022 |archive-url=https://web.archive.org/web/20221204070405/https://www.fifa.com/fifaplus/en/match-centre/match/17/255711/285076/400128144?competitionEntryId=17 |url-status=live }}</ref> They lost 2–1 to the latter, and ended their World Cup campaign at fourth place.<ref>{{Cite web |date=17 December 2022 |title=Croatia 2–1 Morocco: World Cup 2022 third-place playoff – as it happened |url=https://www.theguardian.com/football/live/2022/dec/17/croatia-morocco-world-cup-2022-third-place-playoff-live-score-updates |access-date=17 December 2022 |website=the Guardian |language=en |archive-date=17 December 2022 |archive-url=https://web.archive.org/web/20221217133711/https://www.theguardian.com/football/live/2022/dec/17/croatia-morocco-world-cup-2022-third-place-playoff-live-score-updates |url-status=live }}</ref> The team would go on to donate their entire World Cup earnings from the tournament to charities within Morocco that help with poverty that affects children and families in the country.<ref>{{cite news |author1=Godwin Nii Armah Tagoe |title=World Cup 2022: Morocco Players Donate Earnings to Charity |url=https://sportsbrief.com/football/30769-world-cup-2022-morocco-players-donate-earnings-poor-children-families/ |access-date=9 January 2023 |work=sportsbrief.com |date=20 December 2022 |archive-date=9 January 2023 |archive-url=https://web.archive.org/web/20230109064709/https://sportsbrief.com/football/30769-world-cup-2022-morocco-players-donate-earnings-poor-children-families/ |url-status=live }}</ref>
+
+In October 2025, Morocco broke the world record for the longest winning streak in international football, surpassing Spain's previous mark of 15 consecutive victories set between June 2008 and June 2009. With a 1–0 win over [[Congo national football team|Congo]] in [[Rabat]], Morocco extended their unbeaten run to 16 straight wins across all competitions, including [[FIFA World Cup qualification|World Cup qualifiers]] and friendlies.<ref name=":02">{{Cite web |date=14 October 2025 |title=Morocco beat Congo to surpass Spain's wins record |url=https://www.reuters.com/sports/soccer/morocco-beat-congo-surpass-spains-wins-record-2025-10-14/ |access-date=14 October 2025 |website=Reuters}}</ref> The streak, which began in June 2024, ultimately reached 19 consecutive wins before ending with a draw in December 2025.<ref>{{Cite web |title=Africa Cup of Nations hosts Morocco to open tournament on record winning streak |quote=Morocco enter the 35th edition of Africa's most prestigious football competition riding high on a world record 18-match winning streak, stretching back to March 2024. |url=https://www.rfi.fr/en/sports/20251221-africa-cup-of-nations-hosts-morocco-to-open-tournament-on-record-winning-streak |last=Myers |first=Paul |date=2025-12-21 |access-date=2025-12-21 |website=RFI |archive-date=21 December 2025 |archive-url=https://web.archive.org/web/20251221075513/https://www.rfi.fr/en/sports/20251221-africa-cup-of-nations-hosts-morocco-to-open-tournament-on-record-winning-streak |url-status=live }}</ref><ref name=":1">{{Cite web |date=26 December 2025 |title=Morocco held to a draw by Mali to end record winning run |url=https://www.reuters.com/sports/soccer/morocco-held-draw-by-mali-end-record-run-wins-2025-12-26/ |access-date=27 December 2025 |website=Reuters}}</ref>. Morocco overtook Italy as the nation with the longest undefeated streak in international football following a draw to Brazil at the [[2026 FIFA World Cup|2026 World Cup]].<ref>{{Cite web | title=Moroccan National Team Achieves Unprecedented Historic…{{!}} YSscores | url=https://www.ysscores.com/en/news/13983312/moroccan-national-team-achieves-unprecedented-historical-achievement#google_vignette | access-date=2026-07-06 | website=www.ysscores.com}}</ref>
+
+Morocco won the [[2025 FIFA Arab Cup]] with its national [[Morocco A' national football team|A' team]], defeating [[Jordan national football team|Jordan]] 3–2 after extra time in the final. The Moroccan side, composed primarily of players active in domestic and regional leagues, secured the title following a closely contested match in which the score was level at the end of regular time. The victory marked Morocco's second triumph in the [[FIFA Arab Cup]], after its first title in [[2012 Arab Cup|2012]].<ref>{{Cite web |title=Hamdallah double sends Morocco to Arab Cup glory after extra-time win over Jordan |url=https://www.beinsports.com/en-mena/football/arab-cup/articles-video/hamdallah-double-sends-morocco-to-arab-cup-glory-after-extra-time-win-over-jordan-2025-12-18 |access-date=2025-12-18 |website=beIN SPORTS |language=en |archive-date=19 December 2025 |archive-url=https://web.archive.org/web/20251219083109/https://www.beinsports.com/en-mena/football/arab-cup/articles-video/hamdallah-double-sends-morocco-to-arab-cup-glory-after-extra-time-win-over-jordan-2025-12-18 |url-status=live }}</ref>
+
+Morocco hosted the [[2025 Africa Cup of Nations]] and advanced from the group stage through the knockout rounds, reaching the [[2025 Africa Cup of Nations final|final]] for the first time in two decades, where they faced [[Senegal national football team|Senegal]]. The match remained scoreless after regular and stoppage time. During this period, Morocco was awarded a penalty following a VAR review; however, play was briefly interrupted when the Senegal team left the pitch in protest before returning several minutes later. Brahim Díaz's penalty was saved, and the match proceeded to extra time, where Senegal scored the only goal.<ref>{{Cite news|title=Pape Gueye fires Senegal to Afcon glory against Morocco after walk-off chaos|url=https://www.theguardian.com/football/2026/jan/18/senegal-morocco-afcon-final-match-report|work=The Guardian|date=2026-01-18|access-date=2026-02-02|issn=0261-3077|language=en-GB|first=Jonathan|last=Wilson}}</ref>
+
+The final initially ended in a 1–0 victory for Senegal after extra time. However, on 17 March 2026, the CAF Appeal Board ruled that Senegal had forfeited the match after temporarily refusing to play and leaving the pitch in protest of a refereeing decision. In accordance with articles 82 and 84 of the competition regulations, the result was overturned and recorded as a {{nowrap|3–0}} victory for Morocco, thereby awarding them the title of 2025 Africa Cup of Nations champions and annulling Senegal's win.<ref>{{Cite web |date=2026-03-17 |title=Afcon 2025: Morocco declared the winners after CAF overturns final defeat to Senegal |url=https://www.bbc.com/sport/football/articles/ce949glzzglo |access-date=2026-03-17 |website=BBC Sport |language=en-GB}}</ref>
+
+== Home stadiums ==
+Morocco’s primary home stadium is [[Prince Moulay Abdellah Stadium]] in [[Rabat]], where the national team plays most of its home matches.
+
+During [[Ezzaki Badou]]’s tenure as head coach from 2014 to 2016, Morocco played most of its matches at the [[Adrar Stadium]] in [[Agadir]], which has a capacity of 45,480.<ref>{{Cite web |last=باكريم |first=الحسن |title=بادو الزاكي ينوه بالجمهور السوسي |url=https://anfaspress.com/index.php/news/voir/26004-2015-10-08-09-27-50 |url-status=live |archive-url=https://web.archive.org/web/20221211185233/https://anfaspress.com/index.php/news/voir/26004-2015-10-08-09-27-50 |archive-date=11 December 2022 |access-date=11 December 2022 |website=الكاتب |language=fr}}</ref><ref>{{Cite web |title=الزاكي مصر على اختيار أدرار لملاقاة الرأس الأخضر |url=https://m.le360.ma/sport/ar/page.php?link=http://ar.sport.le360.ma/maroc/4563 |url-status=live |archive-url=https://web.archive.org/web/20221211185230/https://m.le360.ma/sport/ar/page.php?link=http://ar.sport.le360.ma/maroc/4563 |archive-date=11 December 2022 |access-date=11 December 2022 |website=Le360 |language=ar-ma}}</ref> Morocco also has several other large venues, including [[Fez Stadium]], [[Marrakesh Stadium]], and [[Ibn Battouta Stadium]] in [[Tangier]].<gallery widths="220" heights="150">
+File:Moulay Abdellah Stadium.jpg|[[Prince Moulay Abdellah Stadium]], Rabat
+File:Tangier Stadium.jpg|[[Ibn Batouta Stadium]], Tangier
+File:Stade de marrakech.jpg|[[Marrakesh Stadium]], Marrakesh
+File:Stade-Adrar2019.png|[[Adrar Stadium]], Agadir
+</gallery>
+
+== Kit suppliers ==
+{{Commons|Morocco national football team kits}}
+Morocco's home colours are most red shirts and green shorts and socks. Away colours are usually all white or all green.
+{| class="wikitable sortable"
+! Kit provider
+! Period
+|-
+| {{#invoke:flag|icon|GER}} [[Adidas]]
+| 1976–1993
+|-
+| {{#invoke:flag|icon|ITA}} [[Lotto Sport Italia|Lotto]]
+| 1994–1997
+|-
+|{{#invoke:flag|icon|GER}} [[Puma SE|Puma]]
+| 1998–2002
+|-
+| {{#invoke:flag|icon|USA}} [[Nike, Inc.|Nike]]
+| 2003–2006
+|-
+|{{#invoke:flag|icon|GER}} Puma
+| 2007–2011
+|-
+| {{#invoke:flag|icon|GER}} Adidas
+| 2012–2019
+|-
+| {{#invoke:flag|icon|GER}} Puma
+| 2019–present<ref>{{Cite news |author=Staff Writer |date=14 August 2019 |title=FRMF Signs Contract with Puma after Adidas Deal Expiration |work=Morocco world news |url=https://www.moroccoworldnews.com/2019/08/280348/frmf-contract-puma-adidas-expiration |access-date=16 October 2022 |archive-date=18 October 2022 |archive-url=https://web.archive.org/web/20221018113927/https://www.moroccoworldnews.com/2019/08/280348/frmf-contract-puma-adidas-expiration |url-status=live }}</ref>
+|}
+
+== Results and fixtures ==
+{{main|Morocco national football team results (2020–present)}}
+
+The following is a list of match results in the last 12 months, as well as any future matches that have been scheduled.
+
+{{legend2|#CCFFCC|Win|border=1px solid #AAAAAA}}
+{{legend2|#FFFFCC|Draw|border=1px solid #AAAAAA}}
+{{legend2|#FFCCCC|Loss|border=1px solid #AAAAAA}}
+{{legend2|#FFFFFF|Fixture|border=1px solid #AAAAAA}}
+
+=== 2025 ===
+{{Football box collapsible
+| format     = 1
+| date       = 5 September
+| time       = {{UTZ|19:00|1}}
+| round      = [[2026 FIFA World Cup qualification – CAF Group E|2026 FIFA World Cup qualification]]
+| team1      = {{fb-rt|MAR}} 
+| team2      = {{fb|NIG}} 
+| score      = 5–0
+| report     = https://www.fifa.com/en/match-centre/match/520/288282/288289/400020793
+|goals1     = 
+*[[Ismael Saibari|Saibari]] {{goal|29||38}}
+*[[Ayoub El Kaabi|El Kaabi]] {{goal|51}}
+*[[Hamza Igamane|Igamane]] {{goal|69}}
+*[[Azzedine Ounahi|Ounahi]] {{goal|84}}
+| stadium    = [[Prince Moulay Abdellah Stadium]]
+| location   = [[Rabat]], Morocco
+| attendance = 68,000
+| referee    = [[Jean-Jacques Ndala]] ([[Congolese Association Football Federation|DR Congo]])
+| result     = W
+}}
+{{Football box collapsible
+| format     = 1
+| date       = 8 September
+| time       = {{UTZ|15:00|2}}
+| round      = [[2026 FIFA World Cup qualification – CAF Group E|2026 FIFA World Cup qualification]]
+| team1      = {{fb-rt|ZAM}} 
+| team2      = {{fb|MAR}} 
+| score      = 0–2
+| report     = https://www.fifa.com/en/match-centre/match/520/288282/288289/400020790
+| goals1     = 
+| goals2     = 
+*[[Youssef En-Nesyri|En-Nesyri]] {{goal|7}}
+*[[Hamza Igamane|Igamane]] {{goal|47}}
+| stadium    = [[Levy Mwanawasa Stadium]]
+| location   = [[Ndola]], Zambia
+| attendance = 
+| referee    = Louis Houngnandandé ([[Benin national football team|Benin]])
+| result     = W
+}}
+{{Football box collapsible
+| format     = 1
+| date       = 9 October
+| time       = {{UTZ|20:00|1}}
+| round      = [[Exhibition game#Association football|Friendly]]
+| team1      = {{fb-rt|MAR}} 
+| team2      = {{fb|BHR}} 
+| score      = 1–0
+| report     = https://www.fifa.com/en/match-centre/match/cesdwwnxbc5fmajgroc0hqzy2/8pw8cm9fuczk7lmxm1oxjdyc4/1rj1740ys47h5s938mfswsh78/2i4gr76q2oxl89qtopzt15st0
+| goals1     = 
+*[[Jawad El Yamiq|El Yamiq]] {{goal|90+4}}
+| goals2     = 
+| stadium    = [[Prince Moulay Abdellah Stadium]]
+| location   = [[Rabat]], Morocco
+| attendance = Sadok Selmi ([[Tunisian Football Federation|Tunisia]])
+| result     = W
+}}
+{{Football box collapsible
+| format     = 1
+| date       = 14 October
+| time       = {{UTZ|20:00|1}}
+| round      = [[2026 FIFA World Cup qualification – CAF Group E|2026 FIFA World Cup qualification]]
+| team1      = {{fb-rt|MAR}} 
+| team2      = {{fb|CGO}} 
+| score      = 1–0
+| report     = https://www.fifa.com/en/match-centre/match/520/288282/288289/400021057
+| goals1     = 
+*[[Youssef En-Nesyri|En-Nesyri]] {{goal|63}}
+| goals2     = 
+| stadium    = [[Prince Moulay Abdellah Stadium]]
+| location   = [[Rabat]], Morocco
+| attendance = Abdel Aziz Bouh ([[Football Federation of the Islamic Republic of Mauritania|Mauritania]])
+| result     = W
+}}
+{{Football box collapsible
+|format     = 1
+|date       = 14 November
+|round      = [[Exhibition game#Association football|Friendly]]
+|time       = {{UTZ|20:00|1}}
+|team1      = {{fb-rt|MAR}}
+|score      = 1–0
+|team2      = {{fb|MOZ}}
+|report     = https://www.fifa.com/en/match-centre/match/cesdwwnxbc5fmajgroc0hqzy2/8pw8cm9fuczk7lmxm1oxjdyc4/1rj1740ys47h5s938mfswsh78/8kk1qo9wy235epjk053c4a0pg
+|goals1     = 
+*[[Azzedine Ounahi|Ounahi]] {{goal|7}}
+|goals2     = 
+|stadium    = [[Ibn Batouta Stadium]]
+|location   = [[Tangier]], Morocco
+|attendance = 60,000
+|referee    = [[Moussa Diou]] ([[Football Federation of the Islamic Republic of Mauritania|Mauritania]])
+|result     = W
+}}
+{{Football box collapsible
+|format     = 1
+|date       = 18 November
+|round      = [[Exhibition game#Association football|Friendly]]
+|time       = {{UTZ|20:00|1}}
+|team1      = {{fb-rt|MAR}}
+|score      = 4–0
+|team2      = {{fb|UGA}}
+|report     = https://www.fifa.com/en/match-centre/match/cesdwwnxbc5fmajgroc0hqzy2/8pw8cm9fuczk7lmxm1oxjdyc4/1rj1740ys47h5s938mfswsh78/8l7jo6ne62aw6hzadden7byfo
+|goals1     = 
+*[[Herbert Achai|Achai]] {{goal|4|o.g.}}
+*[[Ismael Saibari|Saibari]] {{goal|33}}
+*[[Soufiane Rahimi|Rahimi]] {{goal|79|pen.}}
+*[[Bilal El Khannouss|El Khannouss]] {{goal|88}}
+|goals2     = 
+|stadium    = [[Ibn Batouta Stadium]]
+|location   = [[Tangier]], Morocco
+|attendance = 
+|referee    = Ousmane Diakate ([[Malian Football Federation|Mali]])
+|result     = W
+}}
+{{Football box collapsible
+|format     = 1
+|date       = 2 December
+|time       = {{UTZ|15:00|+3}}
+|round      = [[2025 FIFA Arab Cup Group B]]
+|score      = 3–1
+|report     = https://www.fifa.com/en/match-centre/match/10013/290556/290557/400020122
+|team1      = {{fbl-rt|MAR}} 
+|goals1     = 
+*[[Soufiane Bouftini|Bouftini]] {{goal|5}}
+*[[Tarik Tissoudali|Tissoudali]] {{goal|11}}
+*[[Karim El Berkaoui|El Berkaoui]] {{goal|45+4}}
+|team2      = {{fb|COM}} 
+|goals2     = 
+*[[Mohamed Boulacsoute|Boulacsoute]] {{goal|56|o.g.}}
+|stadium    = [[Khalifa International Stadium]]
+|location   = [[Al Rayyan (city)|Al Rayyan]], Qatar
+|attendance = 10,246
+|referee    = [[Ma Ning (referee)|Ma Ning]] ([[Chinese Football Association|China]])
+|result     = W
+}}
+{{Football box collapsible
+|format     = 1
+|date       = 5 December
+|time       = {{UTZ|17:30|+3}}
+|round      = [[2025 FIFA Arab Cup Group B]]
+|score      = 0–0
+|report     = https://www.fifa.com/en/match-centre/match/10013/290556/290557/400020124
+|team1      = {{fb-rt|OMA}}
+|goals1     =
+|team2      = {{fbl|MAR}} 
+|goals2     =
+|stadium    = [[Education City Stadium]]
+|location   = [[Al Rayyan (city)|Al Rayyan]], Qatar
+|attendance = 37,996
+|referee    = Juan Gabriel Benítez ([[Paraguayan Football Association|Paraguay]])
+|result     = D
+}}
+{{Football box collapsible
+|format     = 1
+|date       = 8 December
+|time       = {{UTZ|20:00|+3}}
+|round      = [[2025 FIFA Arab Cup Group B]]
+|score      = 1–0
+|report     = https://www.fifa.com/en/match-centre/match/10013/290556/290557/400020126
+|team1      = {{fbl-rt|MAR}} 
+|goals1     =
+*[[Karim El Berkaoui|El Berkaoui]] {{goal|11}}
+|team2      = {{fb|KSA}}
+|goals2     =
+|stadium    = [[Lusail Stadium]]
+|location   = [[Lusail]], Qatar
+|attendance = 78,131
+|referee    = [[Mario Escobar (referee)|Mario Escobar]] ([[National Football Federation of Guatemala|Guatemala]])
+|result     = W
+}}
+{{Football box collapsible
+|format     = 1
+|date       = 11 December
+|time       = {{UTZ|17:30|+3}}
+|round      = [[2025 FIFA Arab Cup knockout stage#Quarter-finals|2025 FIFA Arab Cup Quarter-finals]]
+|score      = 1–0
+|report     = https://www.fifa.com/en/match-centre/match/10013/290556/290562/400020141
+|team1      = {{fbl-rt|MAR}} 
+|goals1     =
+*[[Walid Azaro|Azaro]] {{goal|79}}
+|team2      = {{fb|SYR}}
+|goals2     =
+|stadium    = [[Khalifa International Stadium]]
+|location   = [[Al Rayyan (city)|Al Rayyan]], Qatar
+|attendance = 39,167
+|referee    = Cristián Garay ([[Football Federation of Chile|Chile]])
+|result     = W
+}}
+{{Football box collapsible
+|format     = 1
+|date       = 15 December
+|time       = {{UTZ|17:30|+3}}
+|round      = [[2025 FIFA Arab Cup knockout stage#Semi-finals|2025 FIFA Arab Cup Semi-finals]]
+|score      = 3–0
+|report     = https://www.fifa.com/en/match-centre/match/10013/290556/290562/400020117
+|team1      = {{fbl-rt|MAR}} 
+|goals1     = 
+*[[Karim El Berkaoui|El Berkaoui]] {{goal|28}}
+*[[Aschraf El Mahdioui|El Mahdioui]] {{goal|83}}
+*[[Abderrazak Hamdallah|Hamdallah]] {{goal|90+2}}
+|team2      = {{fb|UAE}}
+|goals2     =
+|stadium    = [[Khalifa International Stadium]]
+|location   = [[Al Rayyan (city)|Al Rayyan]], Qatar
+|attendance = 33,898
+|referee    = [[Espen Eskås]] ([[Norwegian Football Federation|Norway]])
+|result     = W
+}}
+{{Football box collapsible
+|format     = 1
+|aet        = yes
+|date       = 18 December
+|time       = {{UTZ|19:00|+3}}
+|round      = [[2025 FIFA Arab Cup final]]
+|score      = 2–3
+|report     = https://www.fifa.com/en/match-centre/match/10013/290556/290562/400020119
+|team1      = {{fb-rt|JOR}} 
+|goals1     = 
+*[[Ali Olwan|Olwan]] {{goal|48||68|pen.}}
+|team2      = {{fbl|MAR}}
+|goals2     = 
+*[[Oussama Tannane|Tannane]] {{goal|4}}
+*[[Abderrazak Hamdallah|Hamdallah]] {{goal|88||100}}
+|stadium    = [[Lusail Stadium]]
+|location   = [[Lusail]], Qatar
+|attendance = 84,517
+|referee    = [[Glenn Nyberg]] ([[Swedish Football Association|Sweden]])
+|result     = W
+}}
+{{Football box collapsible
+|format     = 1
+|date       = 21 December
+|time       = {{UTZ|20:00|1}}
+|round      = [[2025 Africa Cup of Nations Group A|2025 AFCON Group A]]
+|score      = 2–0
+|report     = https://www.cafonline.com/afcon2025/match-centre?competition=190&season=2025&match=2506774
+|team1      = {{fb-rt|MAR}} 
+|goals1     =
+*[[Brahim Díaz|Brahim]] {{goal|55}}
+*[[Ayoub El Kaabi|El Kaabi]] {{goal|74}}
+|team2      = {{fb|COM}}
+|goals2     =
+|stadium    = [[Prince Moulay Abdellah Stadium (1983)|Prince Moulay Abdellah Stadium]]
+|location   = [[Rabat]], Morocco
+|attendance = 60,180
+|referee    = [[Jean-Jacques Ndala]] ([[Congolese Association Football Federation|DR Congo]])
+|result     = W
+}}
+{{Football box collapsible
+|format     = 1
+|date       = 26 December
+|time       = {{UTZ|21:00|1}}
+|round      = [[2025 Africa Cup of Nations Group A|2025 AFCON Group A]]
+|score      = 1–1
+|report     = https://www.cafonline.com/afcon2025/match-centre?competition=190&season=2025&match=2506786
+|team1      = {{fb-rt|MAR}} 
+|goals1     =
+*[[Brahim Díaz|Brahim]] {{goal|45+5|pen.}}
+|team2      = {{fb|MLI}}
+|goals2     = 
+*[[Lassine Sinayoko|Sinayoko]] {{goal|64|pen.}}
+|stadium    = [[Prince Moulay Abdellah Stadium (1983)|Prince Moulay Abdellah Stadium]]
+|location   = [[Rabat]], Morocco
+|attendance = 63,844
+|referee    = [[Abdou Mefire]] ([[Cameroonian Football Federation|Cameroon]])
+|result     = D
+}}
+{{Football box collapsible
+|format     = 1
+|date       = 29 December
+|time       = {{UTZ|20:00|1}}
+|round      = [[2025 Africa Cup of Nations Group A|2025 AFCON Group A]]
+|score      = 0–3
+|report     = https://www.cafonline.com/afcon2025/match-centre?competition=190&season=2025&match=2506798
+|team1      = {{fb-rt|ZAM}}
+|goals1     =
+|team2      = {{fb|MAR}} 
+|goals2     = 
+*[[Ayoub El Kaabi|El Kaabi]] {{goal|9||50}}
+*[[Brahim Díaz|Brahim]] {{goal|27}}
+|stadium    = [[Prince Moulay Abdellah Stadium]]
+|location   = [[Rabat]], Morocco
+|attendance = 
+|referee    = [[Issa Sy]] ([[Senegalese Football Federation|Senegal]])
+|result     = W
+}}
+
+=== 2026 ===
+{{Football box collapsible
+|format     = 1
+|date       = 4 January
+|time       = {{UTZ|17:00|1}}
+|round      = [[2025 Africa Cup of Nations knockout stage#Round of 16|2025 AFCON Round of 16]]
+|score      = 1–0 
+|report     = https://www.cafonline.com/afcon2025/match-centre?competition=190&season=2025&match=2506812
+|team1      = {{fb-rt|MAR}}
+|goals1     =
+*[[Brahim Díaz|Brahim]] {{goal|64}} 
+|team2      = {{fb|TAN}} 
+|goals2     =
+|stadium    = [[Prince Moulay Abdellah Stadium]]
+|location   = [[Rabat]], Morocco
+|attendance =63,894 
+|referee    =Boubou Traore ([[Malian Football Federation|Mali]]) 
+|result     =W 
+}} 
+{{Football box collapsible
+|format     = 1
+|date       = 9 January
+|time       = {{UTZ|20:00|1}}
+|round      = [[2025 Africa Cup of Nations knockout stage#Quarter-finals|2025 AFCON Quarter-finals]]
+|score      =0–2
+|report     = https://www.cafonline.com/afcon2025/match-centre?competition=190&season=2025&match=2506819
+|team1      = {{fb-rt|CMR}}
+|goals1     =
+|team2      = {{fb|MAR}} 
+|goals2     =
+*[[Brahim Díaz|Brahim]] {{goal|26}}
+*[[Ismael Saibari|Saibari]] {{goal|74}}
+|stadium    = [[Prince Moulay Abdellah Stadium]]
+|location   = [[Rabat]], Morocco
+|attendance = 64,178
+|referee    = [[Dahane Beida]] ([[Football Federation of the Islamic Republic of Mauritania|Mauritania]])
+|result     = W
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[2025 Africa Cup of Nations knockout stage#Semi-finals|2025 AFCON Semi-finals]]
+|date       = 14 January
+|time       = {{UTZ|21:00|1}}
+|team1      = {{fb-rt|NGA}}
+|score      = 0–0
+|aet        = yes
+|penaltyscore = 2–4
+|team2      = {{fb|MAR}}
+|goals1     = 
+|goals2     =
+|penalties1 =
+*[[Paul Onuachu|Onuachu]] {{pengoal}}
+*[[Samuel Chukwueze|Chukwueze]] {{penmiss}}
+*[[Fisayo Dele-Bashiru|Dele-Bashiru]] {{pengoal}}
+*[[Bruno Onyemaechi|Onyemaechi]] {{penmiss}}
+|penalties2 =
+*{{pengoal}} [[Neil El Aynaoui|El Aynaoui]]
+*{{penmiss}} [[Hamza Igamane|Igamane]]
+*{{pengoal}} [[Eliesse Ben Seghir|Ben Seghir]]
+*{{pengoal}} [[Achraf Hakimi|Hakimi]]
+*{{pengoal}} [[Youssef En-Nesyri|En-Nesyri]]
+|stadium    = [[Prince Moulay Abdellah Stadium]]
+|location   = [[Rabat]], Morocco
+|attendance = 65,458
+|referee    = [[Daniel Nii Laryea]] ([[Ghana Football Association|Ghana]])
+|report     = https://www.cafonline.com/afcon2025/match-centre?competition=190&season=2025&match=2506823
+|result     = D
+}}
+{{Football box collapsible
+|format= 1
+|id = Senegal v Morocco
+|round= [[2025 Africa Cup of Nations knockout stage|2025 AFCON Final]]
+|date= 18 January
+|time= {{UTZ|20:00|1}}
+|team1= {{fb-rt|SEN}}
+|score= 0–3
+|scorenote  = Awarded{{refn|group="lower-alpha"|name=Awarded|The final match originally finished 1–0 for Senegal after [[Overtime (sports)#Association football|extra time]]. On 17 March 2026, the CAF Appeal Board ruled that Senegal had forfeited the match for temporarily refusing to play and leaving the pitch in protest of a refereeing decision.<ref>{{cite web |url=https://www.bbc.com/sport/football/articles/ce949glzzglo |title=Morocco awarded Afcon title after CAF overturns result |work=[[BBC Sport]] |date=17 March 2026 |access-date=17 March 2026}}</ref> Pursuant to articles 82 and 84 of the competition regulations, the final was awarded as a 3–0 win for Morocco, thereby retroactively declaring them as 2025 Africa Cup of Nations champions and stripping Senegal of the title.<ref name="CAF appeal">{{cite web |url=https://www.cafonline.com/news/caf-appeal-board-media-statement/ |title=CAF Appeal Board Media Statement |publisher=[[Confederation of African Football]] |date=17 March 2026 |access-date=17 March 2026|archive-date=17 March 2026 |archive-url=https://web.archive.org/web/20260317220033/http://web.archive.org/screenshot/https://www.cafonline.com/news/caf-appeal-board-media-statement/ |url-status=live }}</ref> The following day, the [[Senegalese Football Federation]] announced it would appeal the decision to the [[Court of Arbitration for Sport]].<ref name="Senegal appeal">{{cite web |url=https://fsfoot.sn/affaire-decision-jury-dappel-de-la-caf/ |title=Affaire décision Jury d'appel de la CAF |trans-title=CAF Appeal Board Decision |publisher=[[Senegalese Football Federation]] |date=18 March 2026 |access-date=18 March 2026 |language=fr}}</ref>}}
+|report= https://www.cafonline.com/afcon2025/match-centre?competition=190&season=2025&match=2506822
+|team2= {{fb|MAR}}
+|goals1 = 
+|stadium= [[Prince Moulay Abdellah Stadium]]
+|location= [[Rabat]], Morocco
+|attendance= 66,526
+|referee= [[Jean-Jacques Ndala]] ([[Congolese Association Football Federation|DR Congo]])
+|result= W
+}}
+{{Football box collapsible
+|format     = 1
+|date       = 27 March
+|round      = [[Exhibition game#Association football|Friendly]]
+|time       = {{UTZ|20:15|+1}}
+|team1      = {{fb-rt|MAR}}
+|score      = 1–1
+|team2      = {{fb|ECU}}
+|report     = https://www.soccerway.com/match/ecuador-8tbm8Tri/morocco-IDKYO3R8/?mid=v17JEQCb
+|goals1     = [[Neil El Aynaoui|El Aynaoui]] {{goal|88}}
+|goals2     = [[John Yeboah|Yeboah]] {{goal|48}}
+|stadium    = [[Metropolitano Stadium]]
+|location   = [[Madrid]], Spain
+|attendance = 61,622
+|referee    = [[José Luis Munuera Montero]] ([[Spanish Football Federation|Spain]])
+|result     = D
+}}
+{{Football box collapsible
+|format     = 1
+|date       = 31 March
+|round      = [[Exhibition game#Association football|Friendly]]
+|time       = {{UTZ|19:00|+1}}
+|team1      = {{fb-rt|MAR}}
+|score      = 2–1
+|team2      = {{fb|PAR}}
+|report     = https://www.fifa.com/en/match-centre/match/cesdwwnxbc5fmajgroc0hqzy2/dezv8l0fzgcxtejl0dwmy1gyc/2m1wojm5bt709wu4kugtytxqs/77hzffnp3jua5x9isndy8g0es
+|goals1     = 
+*[[Bilal El Khannouss|El Khannouss]] {{goal|48}}
+*[[Neil El Aynaoui|El Aynaoui]] {{goal|53}}
+|goals2     = 
+*[[Gustavo Caballero|Caballero]] {{goal|88}}
+|stadium    = [[Stade Bollaert-Delelis]]
+|location   = [[Lens, Pas-de-Calais|Lens]], France
+|attendance = 38,000
+|referee    = [[Eric Wattellier]] ([[French Football Federation|France]])
+|result     = W
+}}
+{{Football box collapsible
+|format     = 1
+|date       = 26 May
+|time       = {{UTZ|18:00|+1}}
+|round      = [[Exhibition game#Association football|Friendly]]
+|score      = 5–0
+|report     = https://www.fifa.com/en/match-centre/match/cesdwwnxbc5fmajgroc0hqzy2/dezv8l0fzgcxtejl0dwmy1gyc/2m1wojm5bt709wu4kugtytxqs/b2jg5tj46orgxz0l5il8xz8d0
+|team1      = {{fb-rt|MAR}}
+|goals1     = 
+*[[Ayoub El Kaabi|El Kaabi]] {{goal|59||63}}
+*[[Tawfik Bentayeb|Bentayeb]] {{goal|71}}
+*[[Soufiane Benjdida|Benjdida]] {{goal|80||90}}
+|team2      = {{fb|BDI}}
+|goals2     =
+|stadium    = [[Mohammed VI Football Academy|Mohammed VI Football Complexe]]
+|location   = [[Salé]], Morocco
+|attendance = 0 ([[Behind closed doors (sport)|BCD]])
+|referee    = 
+|result     = W
+}}
+{{Football box collapsible
+|format     = 1
+|date       = 2 June
+|time       = {{UTZ|18:00|+1}}
+|round      = [[Exhibition game#Association football|Friendly]]
+|score      = 4–0
+|report     = https://www.fifa.com/en/match-centre/match/cesdwwnxbc5fmajgroc0hqzy2/dezv8l0fzgcxtejl0dwmy1gyc/2m1wojm5bt709wu4kugtytxqs/b327bmj1z3pcouo6k27evmzv8
+|team1      = {{fb-rt|MAR}}
+|goals1     =
+*[[Ismael Saibari|Saibari]] {{goal|4||25}}
+*[[Soufiane Rahimi|Rahimi]] {{goal|78|pen.}}
+*[[Ayoub El Kaabi|El Kaabi]] {{goal|87}}
+|team2      = {{fb|MDG}}
+|goals2     =
+|stadium    = [[Prince Moulay Abdellah Stadium]]
+|location   = [[Rabat]], Morocco
+|attendance = 
+|referee    = Boubou Traoré ([[Malian Football Federation|Mali]])
+|result     = W
+}}
+{{Football box collapsible
+|format     = 1
+|date       = 7 June
+|time       = {{UTZ|15:00|-4}}
+|round      = [[Exhibition game#Association football|Friendly]]
+|score      = 1–1 
+|report     = https://www.fifa.com/en/match-centre/match/cesdwwnxbc5fmajgroc0hqzy2/dezv8l0fzgcxtejl0dwmy1gyc/2m1wojm5bt709wu4kugtytxqs/afaeyqcr3bc46emoetjjinnro
+|team1      = {{fb-rt|MAR}}
+|goals1     =
+*[[Brahim Díaz|Brahim]] {{goal|8}}
+|team2      = {{fb|NOR}}
+|goals2     =
+*[[Martin Ødegaard|Ødegaard]] {{goal|75}}
+|stadium    = [[Sports Illustrated Stadium]]
+|location   = [[Harrison, New Jersey|Harrison]], [[New Jersey]], United States
+|attendance = 25,000
+|referee    = Pierre-Luc Lauzière ([[Canadian Soccer Association|Canada]])
+|result     = D 
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[2026 FIFA World Cup|2026 FIFA World Cup GS]] ([[2026 FIFA World Cup Group C|Group C]])
+|date       = 13 June
+|time       = {{UTZ|18:00|-4}}
+|team1      = {{fb-rt|BRA}}
+|score      = 1–1
+|team2      = {{fb|MAR}}
+|report     = https://www.fifa.com/en/match-centre/match/17/285023/289273/400021456
+|goals1     =
+*[[Vinícius Júnior|Vinícius]] {{goal|32}}
+|goals2=
+*[[Ismael Saibari|Saibari]] {{goal|21}}
+|location   = [[East Rutherford, New Jersey|East Rutherford]], [[New Jersey]], United States
+|stadium    = [[MetLife Stadium]]
+|attendance = 80,663
+|referee    = [[Slavko Vinčić]] ([[Football Association of Slovenia|Slovenia]])
+|result     = D
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[2026 FIFA World Cup|2026 FIFA World Cup GS]] ([[2026 FIFA World Cup Group C|Group C]])
+|date       = 19 June
+|time       = {{UTZ|18:00|-4}}
+|team1      = {{fb-rt|SCO}}
+|score      = 0–1
+|team2      = {{fb|MAR}}
+|report     = https://www.fifa.com/en/match-centre/match/17/285023/289273/400021454
+|goals1     =
+|goals2     =
+*[[Ismael Saibari|Saibari]] {{goal|2}}
+|location   = [[Foxborough, Massachusetts|Foxborough]], [[Massachusetts]], United States
+|stadium    = [[Gillette Stadium]]
+|attendance = 64,146
+|referee    = [[Ilgiz Tantashev]] ([[Uzbekistan Football Association|Uzbekistan]])
+|result     = W
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[2026 FIFA World Cup|2026 FIFA World Cup GS]] ([[2026 FIFA World Cup Group C|Group C]])
+|date       = 24 June
+|time       = {{UTZ|18:00|-4}}
+|team1      = {{fb-rt|MAR}}
+|score      = 4–2
+|team2      = {{fb|HAI}}
+|report     = https://www.fifa.com/en/match-centre/match/17/285023/289273/400021452
+|goals1     =
+*[[Achraf Hakimi|Hakimi]] {{goal|39}}
+*[[Ismael Saibari|Saibari]] {{goal|45+1}}
+*[[Soufiane Rahimi|Rahimi]] {{goal|78}}
+*[[Gessime Yassine|Yassine]] {{goal|89}}
+|goals2     =
+*[[Yassine Bounou|Bounou]] {{goal|10|o.g.}}
+*[[Wilson Isidor|Isidor]] {{goal|43}}
+|location   = [[Atlanta]], [[Georgia (U.S. state)|Georgia]], United States
+|stadium    = [[Mercedes-Benz Stadium]]
+|attendance = 68,239
+|referee    = [[Danny Makkelie]] ([[Royal Dutch Football Association|Netherlands]])
+|result     = W
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[2026 FIFA World Cup|2026 FIFA World Cup]] ([[2026 FIFA World Cup knockout stage#Round of 32|Round of 32]])
+|date       = 29 June
+|time       = {{UTZ|19:00|-6}}
+|team1      = {{fb-rt|NED}}
+|score      = 1–1
+|aet        = yes
+|team2      = {{fb|MAR}}
+|report     = https://www.fifa.com/en/match-centre/match/17/285023/289287/400021522
+|goals1     =
+*[[Cody Gakpo|Gakpo]] {{goal|72}}
+|goals2     =
+*[[Issa Diop (footballer)|Diop]] {{goal|90+1}}
+|penalties1 =
+*[[Teun Koopmeiners|Koopmeiners]] {{pengoal}}
+*[[Justin Kluivert|Kluivert]] {{penmiss}}
+*[[Wout Weghorst|Weghorst]] {{pengoal}}
+*[[Quinten Timber|Timber]] {{penmiss}}
+*[[Crysencio Summerville|Summerville]] {{penmiss}}
+|penaltyscore = 2–3
+|penalties2 =
+*{{penmiss}} [[Neil El Aynaoui|El Aynaoui]]
+*{{pengoal}} [[Soufiane Rahimi|Rahimi]]
+*{{pengoal}} [[Chemsdine Talbi|Talbi]]
+*{{penmiss}} [[Achraf Hakimi|Hakimi]]
+*{{pengoal}} [[Ismael Saibari|Saibari]]
+|location   = [[Guadalupe, Nuevo León|Guadalupe]], [[Nuevo León]], Mexico
+|stadium    = [[Estadio BBVA]]
+|attendance = 51,243
+|referee    = [[Wilton Sampaio]] ([[Brazilian Football Confederation|Brazil]])
+|result     = D
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[2026 FIFA World Cup|2026 FIFA World Cup]] ([[2026 FIFA World Cup knockout stage#Round of 16|Round of 16]])
+|date       = 4 July
+|time       = {{UTZ|12:00|-5}}
+|team1      = {{fb-rt|CAN}}
+|score      = 0–3
+|team2      = {{fb|MAR}}
+|report     = https://www.fifa.com/en/match-centre/match/17/285023/289288/400021530
+|goals1     =
+|goals2     =
+*[[Azzedine Ounahi|Ounahi]] {{goal|50|82}}
+*[[Soufiane Rahimi|Rahimi]] {{goal|90+8}}
+|stadium    = [[NRG Stadium]]
+|location   = [[Houston]], [[Texas]], United States 
+|attendance = 68,777
+|referee    = [[Michael Oliver (referee)|Michael Oliver]] ([[The Football Association|England]])
+|result     = W
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[2026 FIFA World Cup|2026 FIFA World Cup]] ([[2026 FIFA World Cup knockout stage#Quarterfinals|Quarter finals]])
+|date       = 9 July
+|time       = {{UTZ|16:00|-4}}
+|team1      = {{fb-rt|FRA}}
+|score      = 2–0
+|team2      = {{fb|MAR}}
+|report     = https://www.fifa.com/en/match-centre/match/17/285023/289289/400021536
+|goals1     =
+*[[Kylian Mbappé|Mbappé]] {{goal|60}}
+*[[Ousmane Dembélé|Dembélé]] {{goal|66}}
+|goals2     =
+|stadium    = [[Gillette Stadium]]
+|location   = [[Foxborough, Massachusetts|Foxborough]], [[Massachusetts]], United States 
+|attendance = 63,881
+|referee    = [[Facundo Tello]] ([[Argentine Football Association|Argentina]])
+|result     = L
+}}
+{{footballbox collapsible
+|format     = 1
+|round      = [[2027 Africa Cup of Nations qualification|2027 AFCON qualification]]
+|date       = TBD
+|time       = TBD
+|team1      = {{fb-rt|GAB}}
+|score      = 
+|team2      = {{fb|MAR}}
+|report     = 
+|goals1     =
+|goals2     =
+|location   = TBD, Gabon
+|stadium    = TBD
+|attendance = 
+|referee    = 
+|result     =
+}}
+{{footballbox collapsible
+|format     = 1
+|round      = [[2027 Africa Cup of Nations qualification|2027 AFCON qualification]]
+|date       = TBD
+|time       = TBD
+|team1      = {{fb-rt|MAR}}
+|score      = 
+|team2      = {{fb|GAB}}
+|report     = 
+|goals1     =
+|goals2     =
+|location   = TBD, Morocco
+|stadium    = TBD
+|attendance = 
+|referee    = 
+|result     =
+}}
+{{footballbox collapsible
+|format     = 1
+|round      = [[2027 Africa Cup of Nations qualification|2027 AFCON qualification]]
+|date       = TBD
+|time       = TBD
+|team1      = {{fb-rt|MAR}}
+|score      = 
+|team2      = {{fb|NIG}}
+|report     = 
+|goals1     =
+|goals2     =
+|location   = TBD, Morocco
+|stadium    = TBD
+|attendance = 
+|referee    = 
+|result     =
+}}
+{{footballbox collapsible
+|format     = 1
+|round      = [[2027 Africa Cup of Nations qualification|2027 AFCON qualification]]
+|date       = TBD
+|time       = TBD
+|team1      = {{fb-rt|NIG}}
+|score      = 
+|team2      = {{fb|MAR}}
+|report     = 
+|goals1     =
+|goals2     =
+|location   = TBD, Niger
+|stadium    = TBD
+|attendance = 
+|referee    = 
+|result     =
+}}
+{{footballbox collapsible
+|format     = 1
+|round      = [[2027 Africa Cup of Nations qualification|2027 AFCON qualification]]
+|date       = TBD
+|time       = TBD
+|team1      = {{fb-rt|MAR}}
+|score      = 
+|team2      = {{fb|LES}}
+|report     = 
+|goals1     =
+|goals2     =
+|location   = TBD, Morocco
+|stadium    = TBD
+|attendance = 
+|referee    = 
+|result     =
+}}
+{{footballbox collapsible
+|format     = 1
+|round      = [[2027 Africa Cup of Nations qualification|2027 AFCON qualification]]
+|date       = TBD
+|time       = TBD
+|team1      = {{fb-rt|LES}}
+|score      = 
+|team2      = {{fb|MAR}}
+|report     = 
+|goals1     =
+|goals2     =
+|location   = TBD, Lesotho
+|stadium    = TBD
+|attendance = 
+|referee    = 
+|result     =
+}}
+
+== Coaching staff ==
+[[File:Mohamed Ouahbi vs Paraguay.jpg|thumb|upright=0.7|Current head coach [[Mohamed Ouahbi]]]]
+{| class="wikitable sortable" style="text-align:center"
+! Position
+! Name
+|-
+| style="text-align:left" | Head coach
+| style="text-align:left" | {{#invoke:flag|icon|MAR}} [[Mohamed Ouahbi]]<ref name="ouahbi">{{cite web|title=الجامعة الملكية المغربية لكرة القدم تعين السيد محمد وهبي مدربا للمنتخب الوطني الأول وتعزز طاقمه في إطار خارطة الطريق “المغرب |trans-title=The Royal Moroccan Football Federation appoints Mr. Mohamed Wahbi as coach of the first national team and strengthens his staff within the framework of the "Morocco" roadmap |url=https://frmf.ma/%d8%a7%d9%84%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d8%a7%d9%84%d9%85%d9%84%d9%83%d9%8a%d8%a9-%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8%d9%8a%d8%a9-%d9%84%d9%83%d8%b1%d8%a9-%d8%a7%d9%84%d9%82%d8%af%d9%85-%d8%aa-22/|website=FRMF.ma|date=5 March 2026|access-date=5 March 2026 }}</ref>
+|-
+| style="text-align:left" rowspan="2" | Assistant coach(es)
+| style="text-align:left" | {{#invoke:flag|icon|POR}} [[João Sacramento]]<ref name="ouahbi"/>
+|-
+| style="text-align:left" | {{#invoke:flag|icon|MAR}} [[Youssouf Hadji]]
+|-
+| style="text-align:left" | Goalkeeping coach
+| style="text-align:left" | {{#invoke:flag|icon|MAR}} Slimane Ben Houcine
+|-
+| style="text-align:left" | Fitness coach
+| style="text-align:left" | {{#invoke:flag|icon|MAR}} Oussama Bentalib
+|-
+| style="text-align:left" | Video analyst
+| style="text-align:left" | {{#invoke:flag|icon|MAR}} Ayman Makroud
+|-
+| rowspan="2" style="text-align:left" | Technical directors
+| style="text-align:left" | {{#invoke:flag|icon|MAR}} Abdelilah Moussaoui
+|-
+| style="text-align:left" | {{#invoke:flag|icon|MAR}} [[Fathi Jamal]]
+|}
+
+=== Coaching history ===
+{{updated|5 March 2026}}<ref>{{cite web|author=Hassanin Mubarak|title=Morocco National Team Coaches|url=https://www.rsssf.org/miscellaneous/maro-coach.html|website=[[RSSSF]]|access-date=15 February 2012|archive-date=7 December 2022|archive-url=https://web.archive.org/web/20221207163629/https://www.rsssf.org/miscellaneous/maro-coach.html|url-status=live}}</ref>
+{| class="wikitable sortable collapsible collapsed" style="text-align:center"
+! colspan="6" style="text-align:center" | Managers
+|-
+! Name
+! Nationality
+! Years as manager
+! Trophy won
+! World Cup
+! Africa Cup
+|-
+|-
+| [[Larbi Benbarek]]
+| {{#invoke:flag|icon|MAR}}
+| 1957
+| –
+| –
+| –
+|-
+| Mohammed Khamirib & Abdelkader Lokhmiri
+| {{#invoke:flag|icon|MAR}}
+| 1959
+| –
+| –
+| –
+|-
+| [[Larbi Benbarek]]
+| {{#invoke:flag|icon|MAR}}
+| 1960
+| –
+| –
+| –
+|-
+| Mohammed Massoun & [[Abderrahmane Mahjoub]]
+| {{#invoke:flag|icon|MAR}}
+| 1961–1967
+| –
+| –
+| –
+|-
+| Guy Cluzeau & Abdellah Settati
+| {{#invoke:flag|icon|FRA|1830}} {{#invoke:flag|icon|MAR}}
+| 1968–1969
+| –
+| –
+| –
+|-
+| [[Blagoja Vidinić]]
+| {{#invoke:flag|icon|Yugoslavia}}
+| 1970
+| –
+| [[1970 FIFA World Cup|1970]] (GS)
+| –
+|-
+| [[Sabino Barinaga|José Barinaga]]
+| {{#invoke:flag|icon|Spain|1945}}
+| 1971–1972
+| –
+| –
+| [[1972 Africa Cup of Nations|1972]] (GS)
+|-
+| [[Abderrahmane Mahjoub]]
+| {{#invoke:flag|icon|MAR}}
+| 1972–1973
+| –
+| –
+| –
+|-
+| [[Virgil Mărdărescu]]
+| {{#invoke:flag|icon|ROU|1965}}
+| 1974–1978
+| [[1976 African Cup of Nations]]
+| –
+| [[1976 Africa Cup of Nations|1976]] (W) – [[1978 Africa Cup of Nations|1978]] (GS)
+|-
+| [[Just Fontaine]]
+| {{#invoke:flag|icon|FRA|1974}} {{#invoke:flag|icon|MAR}}
+| 1979–1980
+| –
+| –
+| –
+|-
+| Jebrane & Yabram Hamidouch
+| {{#invoke:flag|icon|MAR}}
+| 1980–1981
+| –
+| –
+| [[1980 Africa Cup of Nations|1980]] (3RD)
+|-
+| Abdellah El-Ammari
+| {{#invoke:flag|icon|MAR}}
+| 1982
+| –
+| –
+| –
+|-
+| [[José Faria|Mehdi Faria]]
+| {{#invoke:flag|icon|BRA|1968}}
+| 1983–1988
+| –
+| [[1986 FIFA World Cup|1986]] (R16)
+| [[1986 Africa Cup of Nations|1986]] (4TH) – [[1988 Africa Cup of Nations|1988]] (4TH)
+|-
+| [[Antonio Valentín Angelillo|Antonio Valentín]]
+| {{#invoke:flag|icon|ARG}}
+| 1989–1990
+| –
+| –
+| –
+|-
+| [[Abdellah Blinda|Abdellah Ajri Blinda]]
+| {{#invoke:flag|icon|MAR}}
+| 1990
+| –
+| –
+| –
+|-
+| [[Werner Olk]]
+| {{#invoke:flag|icon|GER}}
+| 1990–1992
+| –
+| –
+| [[1992 Africa Cup of Nations|1992]] (GS)
+|-
+
+| Mohamed Ellouzani
+| {{#invoke:flag|icon|MAR}}
+| 1992–1994
+| –
+| –
+| –
+|-
+
+| [[Abdellah Blinda|Abdellah Ajri Blinda]]
+| {{#invoke:flag|icon|MAR}}
+| 1993–1994
+| –
+| [[1994 FIFA World Cup|1994]] (GS)
+| –
+|-
+| [[Mohamed Lamari|Mohammed Lamari]]
+| {{#invoke:flag|icon|MAR}}
+| 1994
+| –
+| –
+| –
+|-
+| [[Henri Michel]]
+| {{#invoke:flag|icon|FRA|1974}}
+| 1995–2000
+| –
+| [[1998 FIFA World Cup|1998]] (GS)
+| [[1998 Africa Cup of Nations|1998]] (QF) – [[2000 Africa Cup of Nations|2000]] (GS)
+|-
+| [[Humberto Coelho]]
+| {{#invoke:flag|icon|POR}}
+| 2000–2002
+| –
+| –
+| [[2002 Africa Cup of Nations|2002]] (GS)
+|-
+| [[Badou Ezzaki]]
+| {{#invoke:flag|icon|MAR}}
+| 2002–2005
+| –
+| –
+| [[2004 Africa Cup of Nations|2004]] (F)
+|-
+| [[Mohamed Fakhir]]
+| {{#invoke:flag|icon|MAR}}
+| 2006–2007
+| –
+| –
+| [[2006 Africa Cup of Nations|2006]] (GS)
+|-
+| [[Henri Michel]]
+| {{#invoke:flag|icon|FRA|1974}}
+| 2007–2008
+| –
+| –
+| [[2008 Africa Cup of Nations|2008]] (GS)
+|-
+| [[Hassan Moumen]]
+| {{#invoke:flag|icon|MAR}}
+| 2009–2010
+| –
+| –
+| –
+|-
+| [[Eric Gerets]]
+| {{#invoke:flag|icon|BEL}}
+| 2010–2012
+| –
+| –
+| [[2012 Africa Cup of Nations|2012]] (GS)
+|-
+| [[Rachid Taoussi]]
+| {{#invoke:flag|icon|MAR}}
+| 2012–2013
+| –
+| –
+| [[2013 Africa Cup of Nations|2013]] (GS)
+|-
+| [[Badou Ezzaki]]<ref name="BBC2014AL">{{cite news |website=bbc.com |publisher=BBC Sport |title=Morocco name former player Badou Zaki as new coach |url=https://www.bbc.com/sport/football/27252927 |date=2 May 2014 |access-date=2 May 2014 |archive-date=18 September 2015 |archive-url=https://web.archive.org/web/20150918142414/http://www.bbc.com/sport/0/football/27252927 |url-status=live }}</ref>
+| {{#invoke:flag|icon|MAR}}
+| 2014–2016
+| –
+| –
+| –
+|-
+| [[Hervé Renard]]<ref name="BBC2016AL">{{cite news |website=bbc.com |publisher=BBC Sport |title=Morocco unveil Frenchman Herve Renard as coach |url=https://www.bbc.com/sport/football/35586217 |date=16 February 2016 |access-date=16 February 2016 |archive-date=19 February 2016 |archive-url=https://web.archive.org/web/20160219010925/http://www.bbc.com/sport/football/35586217 |url-status=live }}</ref>
+| {{#invoke:flag|icon|FRA|1974}}
+| 2016–2019
+| –
+| [[2018 FIFA World Cup|2018]] (GS)
+| [[2017 Africa Cup of Nations|2017]] (QF) – [[2019 Africa Cup of Nations|2019]] (R16)
+|-
+| [[Vahid Halilhodžić]]<ref name="NAP">{{cite web|url=http://northafricapost.com/32968-morocco-frmf-to-name-former-fennec-manager-as-new-coach-of-atlas-lions.html|title=Morocco: FRMF to name former Fennec manager as new coach of Atlas Lions|website=The North Africa Post|date=2 August 2019|access-date=5 August 2019|archive-date=5 August 2019|archive-url=https://web.archive.org/web/20190805090927/http://northafricapost.com/32968-morocco-frmf-to-name-former-fennec-manager-as-new-coach-of-atlas-lions.html|url-status=live}}</ref>
+| {{#invoke:flag|icon|BIH|}}
+| 2019–2022
+| –
+| –
+| [[2021 Africa Cup of Nations|2021]] (QF)
+|-
+| [[Walid Regragui]]<ref name="Regragui">{{cite news |website=frmf.ma |publisher=[[Royal Moroccan Football Federation]] |title=وليد الركراكي مدربا للمنتخب الوطني |trans-title=Walid Regragui, coach of the national team |url=https://site.frmf.ma/%d9%88%d9%84%d9%8a%d8%af-%d8%a7%d9%84%d8%b1%d9%83%d8%b1%d8%a7%d9%83%d9%8a-%d9%85%d8%af%d8%b1%d8%a8%d8%a7-%d9%84%d9%84%d9%85%d9%86%d8%aa%d8%ae%d8%a8-%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a/ |date=31 August 2022 |access-date=31 August 2022 |archive-date=31 August 2022 |archive-url=https://web.archive.org/web/20220831192335/https://site.frmf.ma/%D9%88%D9%84%D9%8A%D8%AF-%D8%A7%D9%84%D8%B1%D9%83%D8%B1%D8%A7%D9%83%D9%8A-%D9%85%D8%AF%D8%B1%D8%A8%D8%A7-%D9%84%D9%84%D9%85%D9%86%D8%AA%D8%AE%D8%A8-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A/ |url-status=live }}</ref>
+| {{#invoke:flag|icon|MAR}}
+| 2022–2026
+| [[2025 Africa Cup of Nations]] 
+| [[2022 FIFA World Cup|2022]] (4TH)
+| [[2023 Africa Cup of Nations|2023]] (R16)
+|-
+| [[Mohamed Ouahbi]]
+| {{#invoke:flag|icon|MAR}}
+| 2026–
+| –
+| –
+| –
+|}
+
+== Players ==
+=== Current squad ===
+The following players were called up for the [[2026 FIFA World Cup]].<ref>{{cite web |url=https://frmf.ma/fr/articles/coupe-du-monde-2026-de-la-fifa-coach-ouahbi-retient-26-joueurs-liste-finale |title=Coupe du Monde-2026 de la FIFA: coach Ouahbi retient 26 joueurs (liste finale) |trans-title=2026 FIFA World Cup: Coach Ouahbi names 26-man squad (final list) |publisher=[[Royal Moroccan Football Federation]] |date=26 May 2026 |access-date=26 May 2026 |language=fr}}</ref> [[Abde Ezzalzouli]] and [[Nayef Aguerd]] withdrew injured and were replaced by [[Amine Sbaï]] and [[Marwane Saâdane]] on 10 June, respectively.<ref>{{cite web |url=https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/06/10/adversario-do-brasil-na-estreia-da-copa-do-mundo-marrocos-troca-astro-e-defensor-por-lesoes.ghtml|title=Adversário do Brasil na estreia da Copa do Mundo, Marrocos troca astro e defensor por lesões|trans-title=Brazil's opponent at their debut, Morocco changes star and defender due to injuries |date=10 June 2026 |access-date=10 June 2026 |language=pr-br }}</ref>
+<br>''Caps and goals are correct as of 9 July 2026, after the match against [[France national football team|France]].'' 
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Yassine Bounou]]|other=[[Captain (association football)|vice-captain]]|age={{birth date and age|1991|4|5|df=y}}|caps=96|goals=0|club=[[Al Hilal SFC|Al-Hilal]]|clubnat=KSA}}
+{{nat fs g player|no=12|pos=GK|name=[[Munir Mohamedi]]|age={{birth date and age|1989|5|10|df=y}}|caps=52|goals=0|club=[[Free agent|''Unattached'']]|clubnat=}}
+{{nat fs g player|no=22|pos=GK|name=[[Ahmed Reda Tagnaouti]]|age={{birth date and age|1996|4|5|df=y}}|caps=3|goals=0|club=[[AS FAR]]|clubnat=MAR}}
+{{nat fs break}}
+{{nat fs g player|no=2|pos=DF|name=[[Achraf Hakimi]]|other=[[Captain (association football)|captain]]|age={{birth date and age|1998|11|4|df=y}}|caps=102|goals=12|club=[[Paris Saint-Germain FC|Paris Saint-Germain]]|clubnat=FRA}}
+{{nat fs g player|no=3|pos=DF|name=[[Noussair Mazraoui]]|age={{birth date and age|1997|11|14|df=y}}|caps=51|goals=2|club=[[Manchester United F.C.|Manchester United]]|clubnat=ENG}}
+{{nat fs g player|no=5|pos=DF|name=[[Marwane Saâdane]]|age={{birth date and age|1992|1|17|df=y}}|caps=9|goals=0|club=[[Free agent|''Unattached'']]|clubnat=}}
+{{nat fs g player|no=13|pos=DF|name=[[Zakaria El Ouahdi]]|age={{birth date and age|2001|12|31|df=y}}|caps=4|goals=0|club=[[KRC Genk|Genk]]|clubnat=BEL}}
+{{nat fs g player|no=14|pos=DF|name=[[Issa Diop (footballer)|Issa Diop]]|age={{birth date and age|1997|1|9|df=y}}|caps=9|goals=1|club=[[Fulham F.C.|Fulham]]|clubnat=ENG}}
+{{nat fs g player|no=18|pos=DF|name=[[Chadi Riad]]|age={{birth date and age|2003|6|17|df=y}}|caps=10|goals=1|club=[[Crystal Palace F.C.|Crystal Palace]]|clubnat=ENG}}
+{{nat fs g player|no=19|pos=DF|name=[[Youssef Belammari]]|age={{birth date and age|1998|9|20|df=y}}|caps=18|goals=0|club=[[Al Ahly SC|Al Ahly]]|clubnat=EGY}}
+{{nat fs g player|no=25|pos=DF|name=[[Redouane Halhal]]|age={{birth date and age|2003|3|5|df=y}}|caps=5|goals=0|club=[[K.V. Mechelen|Mechelen]]|clubnat=BEL}}
+{{nat fs g player|no=26|pos=DF|name=[[Anass Salah-Eddine]]|age={{birth date and age|2002|1|18|df=y}}|caps=13|goals=0|club=[[AS Roma|Roma]]|clubnat=ITA}}
+{{nat fs break}}
+{{nat fs g player|no=4|pos=MF|name=[[Sofyan Amrabat]]|age={{birth date and age|1996|8|21|df=y}}|caps=78|goals=0|club=[[Fenerbahçe S.K.|Fenerbahçe]]|clubnat=TUR}}
+{{nat fs g player|no=6|pos=MF|name=[[Ayyoub Bouaddi]]|age={{birth date and age|2007|10|2|df=y}}|caps=8|goals=0|club=[[Lille OSC|Lille]]|clubnat=FRA}}
+{{nat fs g player|no=7|pos=MF|name=[[Chemsdine Talbi]]|age={{birth date and age|2005|5|9|df=y}}|caps=10|goals=0|club=[[Sunderland A.F.C.|Sunderland]]|clubnat=ENG}}
+{{nat fs g player|no=8|pos=MF|name=[[Azzedine Ounahi]]|age={{birth date and age|2000|4|19|df=y}}|caps=55|goals=11|club=[[Girona FC|Girona]]|clubnat=ESP}}
+{{nat fs g player|no=11|pos=MF|name=[[Ismael Saibari]]|age={{birth date and age|2001|1|28|df=y}}|caps=35|goals=12|club=[[Bayern Munich]]|clubnat=GER}}
+{{nat fs g player|no=15|pos=MF|name=[[Samir El Mourabet]]|age={{birth date and age|2006|8|6|df=y}}|caps=9|goals=0|club=[[RC Strasbourg|Strasbourg]]|clubnat=FRA}}
+{{nat fs g player|no=16|pos=MF|name=[[Gessime Yassine]]|age={{birth date and age|2005|11|22|df=y}}|caps=7|goals=1|club=[[RC Strasbourg Alsace|Strasbourg]]|clubnat=FRA}}
+{{nat fs g player|no=23|pos=MF|name=[[Bilal El Khannouss]]|age={{birth date and age|2004|5|10|df=y}}|caps=43|goals=3|club=[[VfB Stuttgart]]|clubnat=GER}}
+{{nat fs g player|no=24|pos=MF|name=[[Neil El Aynaoui]]|age={{birth date and age|2001|7|2|df=y}}|caps=22|goals=2|club=[[AS Roma|Roma]]|clubnat=ITA}}
+{{nat fs break}}
+{{nat fs g player|no=9|pos=FW|name=[[Soufiane Rahimi]]|age={{birth date and age|1996|6|2|df=y}}|caps=43|goals=14|club=[[Al Ain FC|Al Ain]]|clubnat=UAE}}
+{{nat fs g player|no=10|pos=FW|name=[[Brahim Díaz]]|age={{birth date and age|1999|8|3|df=y}}|caps=32|goals=14|club=[[Real Madrid CF|Real Madrid]]|clubnat=ESP}}
+{{nat fs g player|no=17|pos=FW|name=[[Amine Sbaï]]|age={{birth date and age|2000|11|5|df=y}}|caps=3|goals=0|club=[[Angers SCO|Angers]]|clubnat=FRA}}
+{{nat fs g player|no=20|pos=FW|name=[[Ayoub El Kaabi]]|age={{birth date and age|1993|6|25|df=y}}|caps=72|goals=35|club=[[Olympiacos F.C.|Olympiacos]]|clubnat=GRE}}
+{{nat fs g player|no=21|pos=FW|name=[[Ayoube Amaimouni]]|age={{birth date and age|2004|11|30|df=y}}|caps=4|goals=0|club=[[Eintracht Frankfurt]]|clubnat=GER}}
+{{nat fs end}}
+
+=== Recent call-ups ===
+The following players have also been called up for the team in the last twelve months.
+<!--Sorted by position, most recent call-up, caps, goals and last name.-->
+{{nat fs r start}}
+{{nat fs r player|no=|pos=GK|name=[[El Mehdi Al Harrar]]|age={{birth date and age|2000|11|30|df=y}}|caps=0|goals=0|club=[[Raja CA|Raja Casablanca]]|clubnat=MAR|latest=[[2026 FIFA World Cup]]  <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=GK|name=[[Yanis Benchaouch]]|age={{birth date and age|2006|4|10|df=y}}|caps=0|goals=0|club=[[AS Monaco FC|Monaco B]]{{efn|name=mon|[[AS Monaco FC|Monaco]] is a Monégasque club playing in the [[French football league system]].}}|clubnat=FRA|latest=v. {{fb|BDI}}, 26 May 2026}}
+{{nat fs r player|no=|pos=GK|name=[[Ibrahim Gomis]]|age={{birth date and age|2005|3|20|df=y}}|caps=0|goals=0|club=[[Olympique de Marseille|Marseille B]]|clubnat=FRA|latest=v. {{fb|BDI}}, 26 May 2026}}
+{{nat fs r player|no=|pos=GK|name=[[Mehdi Benabid]]|age={{birth date and age|1998|1|24|df=y}}|caps=5|goals=0|club=[[Wydad AC|Wydad Casablanca]]|clubnat=MAR|latest=v. {{fb|PAR}}, 31 March 2026}}
+{{nat fs r player|no=|pos=GK|name=[[Salaheddine Chihab]]|age={{birth date and age|1993|2|23|df=y}}|caps=1|goals=0|club=[[Maghreb of Fez|MAS Fès]]|clubnat=MAR|latest=[[2025 FIFA Arab Cup]]}}
+{{nat fs r player|no=|pos=GK|name=[[Rachid Ghanimi]]|age={{birth date and age|2001|4|25|df=y}}|caps=0|goals=0|club=[[Fath Union Sport|FUS Rabat]]|clubnat=MAR|latest=[[2025 FIFA Arab Cup]]}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=DF|name=[[Nayef Aguerd]]|age={{birth date and age|1996|3|30|df=y}}|caps=64|goals=2|club=[[Olympique de Marseille|Marseille]]|clubnat=FRA|latest=[[2026 FIFA World Cup]]  <sup>INJ</sup>}}
+{{nat fs r player|no=|pos=DF|name=[[Ali Maamar]]|age={{birth date and age|2005|3|23|df=y}}|caps=1|goals=0|club=[[RSC Anderlecht|Anderlecht]]|clubnat=BEL|latest=[[2026 FIFA World Cup]]  <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=DF|name=[[Soufiane Bouftini]]|age={{birth date and age|1994|5|3|df=y}}|caps=14|goals=3|club=[[Al Wasl F.C.|Al Wasl]]|clubnat=UAE|latest=v. {{fb|BDI}}, 26 May 2026}}
+{{nat fs r player|no=|pos=DF|name=[[Mohamed Chibi]]|age={{birth date and age|1993|1|21|df=y}}|caps=11|goals=1|club=[[Pyramids FC|Pyramids]]|clubnat=EGY|latest=v. {{fb|BDI}}, 26 May 2026}}
+{{nat fs r player|no=|pos=DF|name=[[Souffian El Karouani]]|age={{birth date and age|2000|10|19|df=y}}|caps=6|goals=0|club=[[Al Qadsiah FC|Al-Qadsiah]]|clubnat=KSA|latest=v. {{fb|BDI}}, 26 May 2026}}
+{{nat fs r player|no=|pos=DF|name=[[Abdelhamid Aït Boudlal]]|age={{birth date and age|2006|4|16|df=y}}|caps=1|goals=0|club=[[Stade Rennais FC|Rennes]]|clubnat=FRA|latest=v. {{fb|BDI}}, 26 May 2026}}
+{{nat fs r player|no=|pos=DF|name=[[Ismaël Baouf]]|age={{birth date and age|2006|9|17|df=y}}|caps=1|goals=0|club=[[SC Cambuur|Cambuur]]|clubnat=NED|latest=v. {{fb|BDI}}, 26 May 2026}}
+{{nat fs r player|no=|pos=DF|name=[[Romain Saïss]] <sup>RET</sup>|age={{birth date and age|1990|3|26|df=y}}|caps=86|goals=3|club=[[Free agent|''Unattached'']]|clubnat=|latest=[[2025 Africa Cup of Nations]]}}
+{{nat fs r player|no=|pos=DF|name=[[Jawad El Yamiq]]|age={{birth date and age|1992|2|29|df=y}}|caps=31|goals=3|club=[[Free agent|''Unattached'']]|clubnat=|latest=[[2025 Africa Cup of Nations]]}}
+{{nat fs r player|no=|pos=DF|name=[[Adam Masina]]|age={{birth date and age|1994|1|2|df=y}}|caps=29|goals=0|club=[[Free agent|''Unattached'']]|clubnat=|latest=[[2025 Africa Cup of Nations]]}}
+{{nat fs r player|no=|pos=DF|name=[[Hamza El Moussaoui]]|age={{birth date and age|1993|4|7|df=y}}|caps=12|goals=1|club=[[RS Berkane]]|clubnat=MAR|latest=[[2025 FIFA Arab Cup]]}}
+{{nat fs r player|no=|pos=DF|name=[[Mohamed Boulacsoute]]|age={{birth date and age|1998|9|23|df=y}}|caps=6|goals=0|club=[[Raja CA|Raja Casablanca]]|clubnat=MAR|latest=[[2025 FIFA Arab Cup]]}}
+{{nat fs r player|no=|pos=DF|name=[[Anas Bach]]|age={{birth date and age|1998|2|10|df=y}}|caps=5|goals=0|club=[[AS FAR]]|clubnat=MAR|latest=[[2025 FIFA Arab Cup]]}}
+{{nat fs r player|no=|pos=DF|name=[[Mahmoud Bentayg]]|age={{birth date and age|1999|10|30|df=y}}|caps=4|goals=0|club=[[Zamalek SC|Zamalek]]|clubnat=EGY|latest=[[2025 FIFA Arab Cup]]}}
+{{nat fs r player|no=|pos=DF|name=[[Marouane Louadni]]|age={{birth date and age|1994|12|21|df=y}}|caps=4|goals=0|club=[[AS FAR]]|clubnat=MAR|latest=[[2025 FIFA Arab Cup]]}}
+{{nat fs r player|no=|pos=DF|name=[[Mohamed Moufid]]|age={{birth date and age|2000|1|12|df=y}}|caps=3|goals=0|club=[[Wydad AC|Wydad Casablanca]]|clubnat=MAR|latest=[[2025 FIFA Arab Cup]]}}
+{{nat fs r player|no=|pos=DF|name=[[Omar El Hilali]]|age={{birth date and age|2003|9|12|df=y}}|caps=1|goals=0|club=[[RCD Espanyol|Espanyol]]|clubnat=ESP|latest=v. {{fb|CGO}}, 14 October 2025}}
+{{nat fs r player|no=|pos=DF|name=[[Abdel Abqar]]|age={{birth date and age|1999|3|10|df=y}}|caps=3|goals=0|club=[[Getafe CF|Getafe]]|clubnat=ESP|latest=v. {{fb|BHR}}, 9 October 2025}}
+{{nat fs r player|no=|pos=DF|name=[[Achraf Dari]]|age={{birth date and age|1999|5|6|df=y}}|caps=7|goals=1|club=[[Kalmar FF|Kalmar]]|clubnat=SWE|latest=v. {{fb|NIG}}, 5 September 2025}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=MF|name=[[Sofiane Boufal]]|age={{birth date and age|1993|9|17|df=y}}|caps=47|goals=8|club=[[Le Havre AC|Le Havre]]|clubnat=FRA|latest=v. {{fb|BDI}}, 26 May 2026}}
+{{nat fs r player|no=|pos=MF|name=[[Imrân Louza]]|age={{birth date and age|1999|5|1|df=y}}|caps=16|goals=2|club=[[Watford F.C.|Watford]]|clubnat=ENG|latest=v. {{fb|BDI}}, 26 May 2026}}
+{{nat fs r player|no=|pos=MF|name=[[Oussama Targhalline]]|age={{birth date and age|2002|5|20|df=y}}|caps=11|goals=0|club=[[Feyenoord]]|clubnat=NED|latest=v. {{fb|BDI}}, 26 May 2026}}
+{{nat fs r player|no=|pos=MF|name=[[Rayane Bounida]]|age={{birth date and age|2006|3|3|df=y}}|caps=1|goals=0|club=[[AFC Ajax|Ajax]]|clubnat=NED|latest=v. {{fb|BDI}}, 26 May 2026}}
+{{nat fs r player|no=|pos=MF|name=[[Soufiane El-Faouzi]]|age={{birth date and age|2002|7|13|df=y}}|caps=1|goals=0|club=[[FC Schalke 04|Schalke 04]]|clubnat=GER|latest=v. {{fb|BDI}}, 26 May 2026}}
+{{nat fs r player|no=|pos=MF|name=[[Mohamed Rabie Hrimat]]|age={{birth date and age|1994|8|17|df=y}}|caps=8|goals=0|club=[[AS FAR]]|clubnat=MAR|latest=v. {{fb|PAR}}, 31 March 2026}}
+{{nat fs r player|no=|pos=MF|name=[[Walid El Karti]]|age={{birth date and age|1994|7|23|df=y}}|caps=25|goals=3|club=[[Pyramids FC|Pyramids]]|clubnat=EGY|latest=[[2025 FIFA Arab Cup]]}}
+{{nat fs r player|no=|pos=MF|name=[[Oussama Tannane]]|age={{birth date and age|1994|3|23|df=y}}|caps=15|goals=3|club=[[Free agent|''Unattached'']]|clubnat=|latest=[[2025 FIFA Arab Cup]]}}
+{{nat fs r player|no=|pos=MF|name=[[Sabir Bougrine]]|age={{birth date and age|1996|7|10|df=y}}|caps=9|goals=2|club=[[Raja CA|Raja Casablanca]]|clubnat=MAR|latest=[[2025 FIFA Arab Cup]]}}
+{{nat fs r player|no=|pos=MF|name=[[Amin Zahzouh]]|age={{birth date and age|2000|8|11|df=y}}|caps=7|goals=0|club=[[Al-Wakrah SC|Al-Wakrah]]|clubnat=QAT|latest=[[2025 FIFA Arab Cup]]}}
+{{nat fs r player|no=|pos=MF|name=[[Aschraf El Mahdioui]]|age={{birth date and age|1996|5|24|df=y}}|caps=6|goals=1|club=[[Al Taawoun FC|Al-Taawoun]]|clubnat=KSA|latest=[[2025 FIFA Arab Cup]]}}
+{{nat fs r player|no=|pos=MF|name=[[Oussama El Azzouzi]]|age={{birth date and age|2001|5|29|df=y}}|caps=6|goals=0|club=[[AJ Auxerre|Auxerre]]|clubnat=FRA|latest=v. {{fb|NIG}}, 5 September 2025}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=FW|name=[[Abde Ezzalzouli]]|age={{birth date and age|2001|12|17|df=y}}|caps=37|goals=2|club=[[Real Betis|Betis]]|clubnat=ESP|latest=[[2026 FIFA World Cup]]  <sup>INJ</sup>}}
+{{nat fs r player|no=|pos=FW|name=[[Soufiane Benjdida]]|age={{birth date and age|2001|9|5|df=y}}|caps=1|goals=2|club=[[Maghreb of Fez|MAS Fès]]|clubnat=MAR|latest=v. {{fb|BDI}}, 26 May 2026}}
+{{nat fs r player|no=|pos=FW|name=[[Tawfik Bentayeb]]|age={{birth date and age|2002|1|14|df=y}}|caps=1|goals=1|club=[[ES Troyes AC|Troyes]]|clubnat=FRA|latest=v. {{fb|BDI}}, 26 May 2026}}
+{{nat fs r player|no=|pos=FW|name=[[Othmane Maamma]]|age={{birth date and age|2005|10|6|df=y}}|caps=1|goals=0|club=[[Watford F.C.|Watford]]|clubnat=ENG|latest=v. {{fb|BDI}}, 26 May 2026}}
+{{nat fs r player|no=|pos=FW|name=[[Yassir Zabiri]]|age={{birth date and age|2005|2|23|df=y}}|caps=1|goals=0|club=[[Stade Rennais FC|Rennes]]|clubnat=FRA|latest=v. {{fb|BDI}}, 26 May 2026}}
+{{nat fs r player|no=|pos=FW|name=[[Yanis Begraoui]]|age={{birth date and age|2001|7|4|df=y}}|caps=0|goals=0|club=[[G.D. Estoril Praia|Estoril Praia]]|clubnat=POR|latest=v. {{fb|BDI}}, 26 May 2026}}
+{{nat fs r player|no=|pos=FW|name=[[Amine Adli]]|age={{birth date and age|2000|5|10|df=y}}|caps=17|goals=1|club=[[AFC Bournemouth|Bournemouth]]|clubnat=ENG|latest=v. {{fb|PAR}}, 31 March 2026}}
+{{nat fs r player|no=|pos=FW|name=[[Youssef En-Nesyri]]|age={{birth date and age|1997|6|1|df=y}}|caps=92|goals=25|club=[[Al-Ittihad Club (Jeddah)|Al-Ittihad]]|clubnat=KSA|latest=[[2025 Africa Cup of Nations]]}}
+{{nat fs r player|no=|pos=FW|name=[[Eliesse Ben Seghir]]|age={{birth date and age|2005|2|16|df=y}}|caps=20|goals=3|club=[[Bayer 04 Leverkusen|Bayer Leverkusen]]|clubnat=GER|latest=[[2025 Africa Cup of Nations]]}}
+{{nat fs r player|no=|pos=FW|name=[[Ilias Akhomach]]|age={{birth date and age|2004|4|16|df=y}}|caps=13|goals=0|club=[[Rayo Vallecano]]|clubnat=ESP|latest=[[2025 Africa Cup of Nations]]}}
+{{nat fs r player|no=|pos=FW|name=[[Hamza Igamane]]|age={{birth date and age|2002|11|2|df=y}}|caps=10|goals=2|club=[[Lille OSC|Lille]]|clubnat=FRA|latest=[[2025 Africa Cup of Nations]]}}
+{{nat fs r player|no=|pos=FW|name=[[Abderrazak Hamdallah]] <sup>RET</sup>|age={{birth date and age|1990|12|17|df=y}}|caps=29|goals=10|club=[[Al Taawoun FC|Al-Taawoun]]|clubnat=KSA|latest=[[2025 FIFA Arab Cup]]}}
+{{nat fs r player|no=|pos=FW|name=[[Tarik Tissoudali]]|age={{birth date and age|1993|4|2|df=y}}|caps=15|goals=3|club=[[Khor Fakkan Club|Khor Fakkan]]|clubnat=UAE|latest=[[2025 FIFA Arab Cup]]}}
+{{nat fs r player|no=|pos=FW|name=[[Walid Azaro]]|age={{birth date and age|1995|6|11|df=y}}|caps=10|goals=1|club=[[Ajman Club|Ajman]]|clubnat=UAE|latest=[[2025 FIFA Arab Cup]]}}
+{{nat fs r player|no=|pos=FW|name=[[Karim El Berkaoui]]|age={{birth date and age|1995|3|29|df=y}}|caps=6|goals=3|club=[[Al Dhafra FC|Al Dhafra]]|clubnat=UAE|latest=[[2025 FIFA Arab Cup]]}}
+{{nat fs r player|no=|pos=FW|name=[[Mounir Chouiar]]|age={{birth date and age|1999|1|23|df=y}}|caps=2|goals=0|club=[[RS Berkane]]|clubnat=MAR|latest=[[2025 FIFA Arab Cup]]}}
+{{nat fs r player|no=|pos=FW|name=[[Hamza Hannouri]]|age={{birth date and age|1998|1|22|df=y}}|caps=0|goals=0|club=[[Wydad AC|Wydad Casablanca]]|clubnat=MAR|latest=[[2025 FIFA Arab Cup]]}}
+{{nat fs r player|no=|pos=FW|name=[[Achraf Bencharki]]|age={{birth date and age|1994|9|24|df=y}}|caps=10|goals=0|club=[[Al Ahly SC|Al Ahly]]|clubnat=EGY|latest=[[2025 FIFA Arab Cup]] <sup>INJ</sup>}}
+{{nat fs r player|no=|pos=FW|name=[[Youssef Mehri]]|age={{birth date and age|1999|9|7|df=y}}|caps=0|goals=0|club=[[RS Berkane]]|clubnat=MAR|latest=[[2025 FIFA Arab Cup]] <sup>WD</sup>}}
+{{nat fs r player|no=|pos=FW|name=[[Sofiane Diop]]|age={{birth date and age|2000|6|9|df=y}}|caps=1|goals=0|club=[[OGC Nice|Nice]]|clubnat=FRA|latest=v. {{fb|UGA}}, 18 November 2025}}
+{{nat fs r player|no=|pos=FW|name=[[Maroan Sannadi]]|age={{birth date and age|2001|2|1|df=y}}|caps=3|goals=0|club=[[Athletic Bilbao]]|clubnat=ESP|latest=v. {{fb|ZAM}}, 8 September 2025}}
+{{nat fs break}}
+<sup>DEC</sup><span style="font-size:90%"> Player declined the call-up to the squad</span><br />
+<sup>INJ</sup><span style="font-size:90%"> Did not make it to the current squad due to injury</span><br />
+<sup>PRE</sup><span style="font-size:90%"> Preliminary squad / standby</span><br />
+<sup>RET</sup><span style="font-size:90%"> Player retired from internationals</span><br />
+<sup>SUS</sup><span style="font-size:90%"> Player is suspended</span><br />
+<sup>WD</sup><span style="font-size:90%"> Player withdrew from the roster for non-injury related reasons</span><br />
+{{nat fs end}}
+
+=== Previous squads ===
+{{col-begin}}
+{{col-3}}
+{| class="wikitable sortable collapsible collapsed" style="text-align:center"
+! colspan="1" style="text-align:center" | Africa Cup of Nations squads
+|-
+! Squads
+|-
+| [[1972 African Cup of Nations squads#Morocco|CAN 1972 squad]]
+|-
+| '''[[1976 African Cup of Nations squads#Morocco|CAN 1976 squad]]'''
+|-
+| [[1978 African Cup of Nations squads#Morocco|CAN 1978 squad]]
+|-
+| [[1980 African Cup of Nations squads#Morocco|CAN 1980 squad]]
+|-
+| [[1986 African Cup of Nations squads#Morocco|CAN 1986 squad]]
+|-
+| [[1988 African Cup of Nations squads#Morocco|CAN 1988 squad]]
+|-
+| [[1992 African Cup of Nations squads#Morocco|CAN 1992 squad]]
+|-
+| [[1998 African Cup of Nations squads#Morocco|CAN 1998 squad]]
+|-
+| [[2000 African Cup of Nations squads#Morocco|CAN 2000 squad]]
+|-
+| [[2002 African Cup of Nations squads#Morocco|CAN 2002 squad]]
+|-
+| [[2004 African Cup of Nations squads#Morocco|CAN 2004 squad]]
+|-
+| [[2006 African Cup of Nations squads#Morocco|CAN 2006 squad]]
+|-
+| [[2008 African Cup of Nations squads#Morocco|CAN 2008 squad]]
+|-
+| [[2012 African Cup of Nations squads#Morocco|CAN 2012 squad]]
+|-
+| [[2013 Africa Cup of Nations squads#Morocco|CAN 2013 squad]]
+|-
+| [[2017 Africa Cup of Nations squads#Morocco|CAN 2017 squad]]
+|-
+| [[2019 Africa Cup of Nations squads#Morocco|CAN 2019 squad]]
+|-
+| [[2021 Africa Cup of Nations squads#Morocco|CAN 2021 squad]]
+|-
+| [[2023 Africa Cup of Nations squads#Morocco|CAN 2023 squad]]
+|-
+| '''[[2025 Africa Cup of Nations squads#Morocco|CAN 2025 squad]]'''
+|}
+{| class="wikitable sortable collapsible collapsed" style="text-align:center"
+! colspan="1" style="text-align:center" | African Nations Championship squads
+|-
+! Squads
+|-
+| [[2014 African Nations Championship squads#Morocco|CHAN 2014 squad]]
+|-
+| [[2016 African Nations Championship squads#Morocco|CHAN 2016 squad]]
+|-
+| '''[[2018 African Nations Championship squads#Morocco|CHAN 2018 squad]]'''
+|-
+| '''[[2020 African Nations Championship squads#Morocco|CHAN 2020 squad]]'''
+|-
+| '''[[2024 African Nations Championship squads#Morocco|CHAN 2024 squad]]'''
+|}
+{{col-3}}
+{| class="wikitable sortable collapsible collapsed" style="text-align:center"
+! colspan="1" style="text-align:center" | FIFA World Cup squads
+|-
+! Squads
+|-
+| [[1970 FIFA World Cup squads#Morocco|1970 FIFA World Cup squad]]
+|-
+| [[1986 FIFA World Cup squads#Morocco|1986 FIFA World Cup squad]]
+|-
+| [[1994 FIFA World Cup squads#Morocco|1994 FIFA World Cup squad]]
+|-
+| [[1998 FIFA World Cup squads#Morocco|1998 FIFA World Cup squad]]
+|-
+| [[2018 FIFA World Cup squads#Morocco|2018 FIFA World Cup squad]]
+|-
+| [[2022 FIFA World Cup squads#Morocco|2022 FIFA World Cup squad]]
+|-
+| [[2026 FIFA World Cup squads#Morocco|2026 FIFA World Cup squad]]
+|}
+{| class="wikitable sortable collapsible collapsed" style="text-align:center"
+! colspan="1" style="text-align:center"| Summer Olympics squads
+|-
+! Squads
+|-
+| [[Football at the 1964 Summer Olympics&nbsp;– Men's team squads#Morocco|Olympics 1964 squad]]
+|-
+| [[Football at the 1972 Summer Olympics&nbsp;– Men's team squads#Morocco|Olympics 1972 squad]]
+|-
+| [[Football at the 1984 Summer Olympics&nbsp;– Men's team squads#Morocco|Olympics 1984 squad]]
+|-
+| [[Football at the 1992 Summer Olympics&nbsp;– Men's team squads#Morocco|Olympics 1992 squad]]
+|-
+| [[Football at the 2000 Summer Olympics&nbsp;– Men's team squads#Morocco|Olympics 2000 squad]]
+|-
+| [[Football at the 2004 Summer Olympics&nbsp;– Men's team squads#Morocco|Olympics 2004 squad]]
+|-
+| [[Football at the 2012 Summer Olympics&nbsp;– Men's team squads#Morocco|Olympics 2012 squad]]
+|-
+| [[Football at the 2024 Summer Olympics&nbsp;– Men's team squads#Morocco|Olympics 2024 squad]]
+|}
+{{col-end}}
+
+== Player records ==
+{{updated|9 July 2026}}<ref>{{cite web |title=Morocco |url=https://www.national-football-teams.com/country/125/2024/Morocco.html |website=National Football Teams |access-date=9 October 2024 |archive-date=9 October 2024 |archive-url=https://web.archive.org/web/20241009120523/https://www.national-football-teams.com/country/125/2024/Morocco.html |url-status=live }}</ref><ref>{{cite web |title=Morocco - Record International Players |url=https://www.rsssf.org/miscellaneous/maro-recintlp.html |website=RSSSF |access-date=23 October 2025 |archive-date=4 February 2023 |archive-url=https://web.archive.org/web/20230204153950/https://rsssf.org/miscellaneous/maro-recintlp.html |url-status=live }}</ref>
+: ''Statistics include official FIFA-recognised matches only.{{efn|Since 2014, [[African Nations Championship]] games have been considered official by FIFA.<ref>{{cite web |url=https://www.cafonline.com/news-center/news/chan-henceforth-taken-into-account-in-fifa-rankings |title=CHAN Henceforth Taken into Account in FIFA Rankings  |date=January 14, 2014 |url-status=dead |archive-url=https://web.archive.org/web/20220127180154/https://www.cafonline.com/news-center/news/chan-henceforth-taken-into-account-in-fifa-rankings |archive-date=2022-01-27}}</ref>}}''
+:''Players in '''bold''' are still active with Morocco.''
+
+=== Most appearances ===
+[[File:نور الدين النيبت (cropped).jpg|thumb|200px|[[Noureddine Naybet]] is Morocco's most capped player with 115 appearances]]
+
+{| class="wikitable sortable nowrap" style="text-align:center"
+! style="background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}; width:30px" | Rank
+! style="background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}; width:150px" | Player
+! style="background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}; width:50px"| Caps
+! style="background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}; width:50px"| Goals
+! style="background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}; width:100px"| Career
+|-
+| 1
+| style="text-align:left" | [[Noureddine Naybet]]
+| 115
+| 4
+| {{nowrap|1990–2006}}
+|-
+| 2
+| style="text-align:left" | '''[[Achraf Hakimi]]'''
+| 102
+| 12
+| 2016–present
+|-
+| 3
+| style="text-align:left" | '''[[Yassine Bounou]]'''
+| 96
+| 0
+| 2013–present
+|-
+| 4
+| style="text-align:left" | [[Ahmed Faras]]
+| 94
+| 36
+| 1966–1979
+|-
+| 5
+| style="text-align:left" | '''[[Youssef En-Nesyri]]'''
+| 92
+| 25
+| 2016–present
+|-
+| 6
+| style="text-align:left" | [[Romain Saïss]]
+| 86
+| 3
+| 2012–2026
+|-
+| rowspan="2" | 7
+| style="text-align:left" | [[Houssine Kharja]]
+| 79
+| 13
+| 2003–2015
+|-
+| style="text-align:left" | [[Youssef Safri]]
+| 79
+| 9
+| 1999–2009
+|-
+| rowspan="2" | 9
+| style="text-align:left" | '''[[Sofyan Amrabat]]'''
+| 78
+| 0
+| 2017–
+|-
+| style="text-align:left" | [[Ezzaki Badou]]
+| 78
+| 0
+| 1979–1992
+|-
+|}
+
+=== Top goalscorers ===
+{{CSS image crop
+|Image = Ahmed Faras México 70.png
+|bSize = 300
+|cWidth = 200
+|cHeight = 310
+|oTop = 30
+|oLeft = 50
+|Location = right
+|Description = [[Ahmed Faras]] is Morocco's top scorer with 36 goals
+}}
+
+{| class="wikitable sortable nowrap" style="text-align:center"
+! style="background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}; width:30px" | Rank
+! style="background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}; width:150px" | Player
+! style="background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}; width:50px" | Goals
+! style="background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}; width:50px" | Caps
+! style="background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}; width:50px" | Ratio
+! style="background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}; width:100px" | Career
+|-
+| 1
+| style="text-align:left" | [[Ahmed Faras]]
+| [[List of international goals scored by Ahmed Faras|36]]
+| 94
+| {{#expr:36/94 round 2}}
+| 1966–1979
+|-
+| 2
+| style="text-align:left" | '''[[Ayoub El Kaabi]]'''
+| 35
+| 72
+| {{#expr:35/72 round 2}}
+| {{nowrap|2018–present}} 
+|-
+| 3
+| style="text-align:left" | [[Salaheddine Bassir]]
+| 27
+| 59
+| {{#expr:27/59 round 2}}
+| 1994–2002
+|-
+| rowspan="2" | 4
+| style="text-align:left" | [[Hakim Ziyech]]
+| 25
+| 64
+| {{#expr:25/64 round 2}}
+| {{nowrap|2015–2024}}
+|-
+| style="text-align:left" | '''[[Youssef En-Nesyri]]'''
+| 25
+| 92
+| {{#expr:25/92 round 2}}
+| 2016–present
+|-
+| 6
+| style="text-align:left" | [[Abdeljalil Hadda]]
+| 19
+| 49
+| {{#expr:19/49 round 2}}
+| 1995–2002
+|-
+| rowspan="2" | 7
+| style="text-align:left" | [[Hassan Amcharrat]]
+| 18
+| 39
+| {{#expr:18/39 round 2}}
+| 1971–1979
+|-
+| style="text-align:left" | [[Marouane Chamakh]]
+| 18
+| 65
+| {{#expr:18/65 round 2}}
+| 2003–2014
+|-
+| 9
+| style="text-align:left" | [[Abdeslam Laghrissi]]
+| 17
+| 35
+| {{#expr:17/35 round 2}}
+| 1984–1995
+|-
+| rowspan="2" | 10
+| style="text-align:left" | [[Youssef El-Arabi]]
+| 16
+| 47
+| {{#expr:16/47 round 2}}
+| 2010–2021
+|-
+| style="text-align:left" | [[Youssouf Hadji]]
+| 16
+| 64
+| {{#expr:16/64 round 2}}
+| 2003–2012
+|}
+
+== Competitive record ==
+=== FIFA World Cup ===
+{{main|Morocco at the FIFA World Cup}}
+
+Morocco's national football team has participated in the [[FIFA World Cup|World Cup]] seven times. Their best performance was in the [[2022 FIFA World Cup|2022 tournament]] where they finished in fourth place, becoming the first African nation to reach the semi-finals of the tournament.
+
+{| class="wikitable" style="font-size:90%; text-align:center; width:100%"
+! colspan="9" style="background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | [[FIFA World Cup|<span style="color:#FFFFFF">FIFA World Cup</span>]] record
+! rowspan="28" style="width:1%; background:#FFFFFF; border-top-style:hidden; border-bottom-style:hidden" |
+! colspan="7" style="background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | [[FIFA World Cup qualification|<span style="color:#FFFFFF">FIFA World Cup<br />qualification</span>]] record
+|-
+! style="width:15%; background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | Year
+! style="width:15%; background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | Round
+! style="width:5%; background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | Position
+! style="width:5%; background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | {{Tooltip|Pld|Games played}}
+! style="width:5%; background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | {{Tooltip|W|Games won}}
+! style="width:5%; background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | {{Tooltip|D|Games drawn, including knockout matches decided on penalty kicks}}
+! style="width:5%; background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | {{Tooltip|L|Games lost}}
+! style="width:5%; background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | {{Tooltip|GF|Goals for}}
+! style="width:5%; background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | {{Tooltip|GA|Goals against}}
+! style="width:5%; background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | {{Tooltip|Pld|Games played}}
+! style="width:5%; background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | {{Tooltip|W|Games won}}
+! style="width:5%; background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | {{Tooltip|D|Games drawn}}
+! style="width:5%; background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | {{Tooltip|L|Games lost}}
+! style="width:5%; background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | {{Tooltip|GF|Goals for}}
+! style="width:5%; background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | {{Tooltip|GA|Goals against}}
+|-
+| {{flagicon|Uruguay}} [[1930 FIFA World Cup|1930]]
+| colspan="8" rowspan="6" | ''Not affiliated''
+| colspan="6" rowspan="6" | ''Not affiliated''
+|-
+| {{flagicon|Italy|1861}} [[1934 FIFA World Cup|1934]]
+|-
+| {{flagicon|France|1794}} [[1938 FIFA World Cup|1938]]
+|-
+| {{flagicon|Brazil|1889}} [[1950 FIFA World Cup|1950]]
+|-
+| {{flagicon|Switzerland}} [[1954 FIFA World Cup|1954]]
+|-
+| {{flagicon|Sweden}} [[1958 FIFA World Cup|1958]]
+|-
+| {{flagicon|Chile}} [[1962 FIFA World Cup|1962]]
+| colspan="8" | ''Did not qualify''
+| 7
+| 2
+| 2
+| 3
+| 7
+| 8
+|-
+| {{flagicon|England}} [[1966 FIFA World Cup|1966]]
+| colspan="8" | ''Withdrew''
+| colspan="6" | ''Withdrew''
+|-
+| {{flagicon|Mexico}} [[1970 FIFA World Cup|1970]]
+| Group stage
+| 14th
+| 3
+| 0
+| 1
+| 2
+| 2
+| 6
+| 10
+| 4
+| 4
+| 2
+| 11
+| 7
+|-
+| {{flagicon|West Germany}} [[1974 FIFA World Cup|1974]]
+| colspan="8" rowspan="3" | ''Did not qualify''
+| 10
+| 4
+| 3
+| 3
+| 12
+| 13
+|-
+| {{flagicon|Argentina}} [[1978 FIFA World Cup|1978]]
+| 2
+| 0
+| 2
+| 0
+| 2
+| 2
+|-
+| {{flagicon|Spain}} [[1982 FIFA World Cup|1982]]
+| 8
+| 3
+| 2
+| 3
+| 5
+| 6
+|-
+| {{flagicon|Mexico}} [[1986 FIFA World Cup|1986]]
+| Round of 16
+| 11th
+| 4
+| 1
+| 2
+| 1
+| 3
+| 2
+| 8
+| 5
+| 2
+| 1
+| 12
+| 1
+|-
+| {{flagicon|Italy|1946}} [[1990 FIFA World Cup|1990]]
+| colspan="8" | ''Did not qualify''
+| 6
+| 1
+| 3
+| 2
+| 4
+| 5
+|-
+| {{flagicon|United States}} [[1994 FIFA World Cup|1994]]
+| rowspan="2" | Group stage
+| 23rd
+| 3
+| 0
+| 0
+| 3
+| 2
+| 5
+| 10
+| 7
+| 2
+| 1
+| 19
+| 4
+|-
+| {{flagicon|France|1974}} [[1998 FIFA World Cup|1998]]
+| 18th
+| 3
+| 1
+| 1
+| 1
+| 5
+| 5
+| 6
+| 5
+| 1
+| 0
+| 14
+| 2
+|-
+| {{flagicon|South Korea|1997}} {{flagicon|Japan}} [[2002 FIFA World Cup|2002]]
+| colspan="8" rowspan="4" | ''Did not qualify''
+| 10
+| 6
+| 3
+| 1
+| 11
+| 3
+|-
+| {{flagicon|Germany}} [[2006 FIFA World Cup|2006]]
+| 10
+| 5
+| 5
+| 0
+| 17
+| 7
+|-
+| {{flagicon|South Africa}} [[2010 FIFA World Cup|2010]]
+| 10
+| 3
+| 3
+| 4
+| 14
+| 13
+|-
+| {{flagicon|Brazil}} [[2014 FIFA World Cup|2014]]
+| 6
+| 2
+| 3
+| 1
+| 9
+| 8
+|-
+| {{flagicon|Russia}} [[2018 FIFA World Cup|2018]]
+| Group stage
+| 27th
+| 3
+| 0
+| 1
+| 2
+| 2
+| 4
+| 8
+| 4
+| 3
+| 1
+| 13
+| 1
+|- style="background:#9ACDFF"
+| {{flagicon|Qatar}} [[2022 FIFA World Cup|2022]]
+| '''Fourth place'''
+| 4th
+| 7
+| 3
+| 2
+| 2
+| 6
+| 5
+| 8
+| 7
+| 1
+| 0
+| 25
+| 3
+|-
+| {{flagicon|Canada}} {{flagicon|Mexico}} {{flagicon|United States}} [[2026 FIFA World Cup|2026]]
+| Quarter-finals
+| 7th
+| 6
+| 3
+| 2
+| 1
+| 10
+| 6
+| 8
+| 8
+| 0
+| 0
+| 22
+| 2
+|-
+| style="border:3px solid red" | {{flagicon|Morocco}} {{flagicon|Portugal}} {{flagicon|Spain}} [[2030 FIFA World Cup|2030]]
+| colspan="8" | ''Qualified as co-hosts''
+| colspan="6" | ''Qualified as co-hosts'' 
+|-
+| {{flagicon|Saudi Arabia}} [[2034 FIFA World Cup|2034]]
+| colspan="8" | ''To be determined''
+| colspan="6" | ''To be determined''
+|-
+|- style="color:#FFFFFF"
+! style="background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | Total: {{Tooltip|8/24|Number of tournaments qualified for}}
+! colspan=2 style="background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233 |2px}}" |{{Tooltip|Fourth place|Highest finish}}
+! style="background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | 29
+! style="background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | 8
+! style="background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | 9
+! style="background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | 12
+! style="background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | 30
+! style="background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | 33
+! style="background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | 127
+! style="background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | 66
+! style="background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | 39
+! style="background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | 22
+! style="background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | 197
+! style="background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | 85
+|}
+
+=== Africa Cup of Nations ===
+{{main|Morocco at the Africa Cup of Nations}}
+
+{| class="wikitable" style="font-size:90%; text-align:center; width:100%"
+! colspan="9" style="background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | [[Africa Cup of Nations|<span style="color:#FFFFFF">Africa Cup of Nations</span>]] record
+! rowspan="39" style="width:1%; background:#FFFFFF; border-top-style:hidden; border-bottom-style:hidden" |
+! colspan="6" style="background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | Africa Cup of Nations<br />qualification record
+|-
+! style="width:15%; background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | Year
+! style="width:15%; background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | Round
+! style="width:5%; background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | Position
+! style="width:5%; background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | {{Tooltip|Pld|Games played}}
+! style="width:5%; background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | {{Tooltip|W|Games won}}
+! style="width:5%; background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | {{Tooltip|D|Games drawn, including knockout matches decided on penalty kicks}}
+! style="width:5%; background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | {{Tooltip|L|Games lost}}
+! style="width:5%; background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | {{Tooltip|GF|Goals for}}
+! style="width:5%; background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | {{Tooltip|GA|Goals against}}
+! style="width:5%; background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | {{Tooltip|Pld|Games played}}
+! style="width:5%; background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | {{Tooltip|W|Games won}}
+! style="width:5%; background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | {{Tooltip|D|Games drawn}}
+! style="width:5%; background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | {{Tooltip|L|Games lost}}
+! style="width:5%; background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | {{Tooltip|GF|Goals for}}
+! style="width:5%; background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | {{Tooltip|GA|Goals against}}
+|-
+| {{flagicon|Sudan|1956}} [[1957 African Cup of Nations|1957]]
+| colspan="8" rowspan="2" | ''Not affiliated to CAF''
+| colspan="6" rowspan="2" | ''Not affiliated to CAF''
+|-
+| {{flagicon|United Arab Republic}} [[1959 African Cup of Nations|1959]]
+|-
+| {{flagicon|Ethiopia|1897}} [[1962 African Cup of Nations|1962]]
+| colspan="8"  rowspan="2" | ''Did not qualify''
+| colspan="6" | ''Withdrew''
+|-
+| {{flagicon|Ghana}} [[1963 African Cup of Nations|1963]]
+| 2
+| 1
+| 0
+| 1
+| 5
+| 6
+|-
+| {{flagicon|Tunisia|1959}} [[1965 African Cup of Nations|1965]]
+| colspan="8" rowspan="2" | ''Did not enter''
+| colspan="6" rowspan="2" | ''Did not enter''
+|-
+| {{flagicon|Ethiopia|1897}} [[1968 African Cup of Nations|1968]]
+|-
+| {{flagicon|Sudan|1956}} [[1970 African Cup of Nations|1970]]
+| colspan="8" | ''Did not qualify''
+| 2
+| 1
+| 0
+| 1
+| 1
+| 2
+|-
+| {{flagicon|Cameroon|1961}} [[1972 African Cup of Nations|1972]]
+| Group stage
+| 5th
+| 3
+| 0
+| 3
+| 0
+| 3
+| 3
+| 4
+| 2
+| 0
+| 2
+| 9
+| 6
+|-
+| {{flagicon|Egypt|1972}} [[1974 African Cup of Nations|1974]]
+| colspan="8" | ''Did not enter''
+| colspan="6" | ''Did not enter''
+|- style="background:Gold"
+| {{flagicon|Ethiopia|1975}} [[1976 African Cup of Nations|1976]]
+| '''[[Guinea v Morocco (1976 African Cup of Nations)|Champions]]'''
+| 1st
+| 6
+| 4
+| 2
+| 0
+| 11
+| 6
+| 6
+| 4
+| 0
+| 2
+| 13
+| 4
+|-
+| {{flagicon|Ghana}} [[1978 African Cup of Nations|1978]]
+| Group stage
+| 6th
+| 3
+| 1
+| 1
+| 1
+| 2
+| 4
+| colspan="6" | ''Qualified as defending champions''
+|- style="background:#C96"
+| {{flagicon|Nigeria}} [[1980 African Cup of Nations|1980]]
+| '''Third place'''
+| 3rd
+| 5
+| 2
+| 1
+| 2
+| 4
+| 3
+| 4
+| 2
+| 1
+| 1
+| 14
+| 5
+|-
+| {{flagicon|Libya|1977}} [[1982 African Cup of Nations|1982]]
+| colspan="8" rowspan="2" | ''Did not qualify''
+| 4
+| 3
+| 0
+| 1
+| 8
+| 4
+|-
+| {{flagicon|Ivory Coast}} [[1984 African Cup of Nations|1984]]
+| 4
+| 1
+| 2
+| 1
+| 4
+| 2
+|- style="background:#9ACDFF"
+| {{flagicon|Egypt}} [[1986 African Cup of Nations|1986]]
+| rowspan="2" | '''Fourth place'''
+| rowspan="2" | 4th
+| 5
+| 1
+| 2
+| 2
+| 4
+| 5
+| 2
+| 1
+| 1
+| 0
+| 1
+| 0
+|- style="background:#9ACDFF"
+| style="border:3px solid red" | {{flagicon|Morocco}} [[1988 African Cup of Nations|1988]]
+| 5
+| 1
+| 3
+| 1
+| 3
+| 3
+| colspan="6" | ''Qualified as hosts''
+|-
+| {{flagicon|Algeria}} [[1990 African Cup of Nations|1990]]
+| colspan="8" | ''Did not qualify''
+| 2
+| 0
+| 2
+| 0
+| 1
+| 1
+|-
+| {{flagicon|Senegal}} [[1992 African Cup of Nations|1992]]
+| Group stage
+| 9th
+| 2
+| 0
+| 1
+| 1
+| 1
+| 2
+| 6
+| 4
+| 0
+| 2
+| 11
+| 4
+|-
+| {{flagicon|Tunisia|1959}} [[1994 African Cup of Nations|1994]]
+| colspan="8" rowspan="2" | ''Did not qualify''
+| 6
+| 2
+| 2
+| 2
+| 5
+| 4
+|-
+| {{flagicon|South Africa}} [[1996 African Cup of Nations|1996]]
+| 4
+| 1
+| 1
+| 2
+| 2
+| 4
+|-
+| {{flagicon|Burkina Faso}} [[1998 African Cup of Nations|1998]]
+| Quarter-finals
+| 6th
+| 4
+| 2
+| 1
+| 1
+| 6
+| 3
+| 6
+| 4
+| 2
+| 0
+| 10
+| 1
+|-
+| {{flagicon|Ghana}} {{flagicon|Nigeria}} [[2000 African Cup of Nations|2000]]
+| rowspan="2" | Group stage
+| 11th
+| 3
+| 1
+| 1
+| 1
+| 1
+| 2
+| 4
+| 2
+| 2
+| 0
+| 6
+| 4
+|-
+| {{flagicon|Mali}} [[2002 African Cup of Nations|2002]]
+| 9th
+| 3
+| 1
+| 1
+| 1
+| 3
+| 4
+| 6
+| 3
+| 1
+| 2
+| 5
+| 4
+|- style="background:silver"
+| {{flagicon|Tunisia}} [[2004 African Cup of Nations|2004]]
+| [[2004 Africa Cup of Nations Final|'''Runners-up''']]
+| 2nd
+| 6
+| 4
+| 1
+| 1
+| 14
+| 4
+| 6
+| 5
+| 1
+| 0
+| 10
+| 0
+|-
+| {{flagicon|Egypt}} [[2006 Africa Cup of Nations|2006]]
+| rowspan="2" | Group stage
+| 13th
+| 3
+| 0
+| 2
+| 1
+| 0
+| 1
+| 10
+| 5
+| 5
+| 0
+| 17
+| 7
+|-
+| {{flagicon|Ghana}} [[2008 Africa Cup of Nations|2008]]
+| 11th
+| 3
+| 1
+| 0
+| 2
+| 7
+| 6
+| 4
+| 3
+| 1
+| 0
+| 6
+| 1
+|-
+| {{flagicon|Angola}} [[2010 Africa Cup of Nations|2010]]
+| colspan="8" | ''Did not qualify''
+| 10
+| 3
+| 3
+| 4
+| 14
+| 13
+|-
+| {{flagicon|Equatorial Guinea}} {{flagicon|Gabon}} [[2012 Africa Cup of Nations|2012]]
+| rowspan="2" | Group stage
+| 12th
+| 3
+| 1
+| 0
+| 2
+| 4
+| 5
+| 6
+| 3
+| 2
+| 1
+| 8
+| 2
+|-
+| {{flagicon|South Africa}} [[2013 Africa Cup of Nations|2013]]
+| 10th
+| 3
+| 0
+| 3
+| 0
+| 3
+| 3
+| 2
+| 1
+| 0
+| 1
+| 4
+| 2
+|-
+| {{flagicon|Equatorial Guinea}} [[2015 Africa Cup of Nations|2015]]
+| colspan="8" | ''Disqualified''
+| colspan="6" | ''Originally qualified as hosts, then disqualified''
+|-
+| {{flagicon|Gabon}} [[2017 Africa Cup of Nations|2017]]
+| Quarter-finals
+| 7th
+| 4
+| 2
+| 0
+| 2
+| 4
+| 3
+| 6
+| 5
+| 1
+| 0
+| 10
+| 1
+|-
+| {{flagicon|Egypt}} [[2019 Africa Cup of Nations|2019]]
+| Round of 16
+| 9th
+| 4
+| 3
+| 1
+| 0
+| 4
+| 1
+| 6
+| 3
+| 2
+| 1
+| 8
+| 3
+|-
+| {{flagicon|Cameroon}} [[2021 Africa Cup of Nations|2021]]
+| Quarter-finals
+| 5th
+| 5
+| 3
+| 1
+| 1
+| 8
+| 5
+| 6
+| 4
+| 2
+| 0
+| 10
+| 1
+|-
+| {{flagicon|Ivory Coast}} [[2023 Africa Cup of Nations|2023]]
+| Round of 16
+| 11th
+| 4
+| 2
+| 1
+| 1
+| 5
+| 3
+| 4
+| 3
+| 0
+| 1
+| 8
+| 3
+|- style="background:Gold"
+| style="border:3px solid red" | {{flagicon|Morocco}} [[2025 Africa Cup of Nations|2025]]
+| [[2025 Africa Cup of Nations final|'''Champions''']]
+| 1st
+| 7
+| 5
+| 2
+| 0
+| 12
+| 1
+| 6
+| 6
+| 0
+| 0
+| 26
+| 2
+|-
+| {{flagicon|Kenya}} {{flagicon|Tanzania}} {{flagicon|Uganda}} [[2027 Africa Cup of Nations|2027]]
+| colspan="8" | ''To be determined''
+| colspan="6" | ''To be determined''
+|-
+! style="background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | Total: {{Tooltip|20/35|Number of tournaments qualified for}}
+! colspan=2 style="background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233 |2px}}" |{{Tooltip|2 Titles|Highest finish}}
+! style="background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | 81
+! style="background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | 33
+! style="background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | 27
+! style="background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | 21
+! style="background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | 96
+! style="background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | 68
+! style="background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | 128
+! style="background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | 72
+! style="background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | 31
+! style="background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | 25
+! style="background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | 216
+! style="background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | 86
+|}
+
+===African Nations Championship===
+{{main|Morocco A' national football team}}
+
+{| class="wikitable" style="font-size:90%; text-align:center; width:100%"
+! colspan="9" style="background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" |[[African Nations Championship|<span style="color:#FFFFFF">African Nations Championship</span>]] record
+! rowspan="11" style="width:1%; background:#FFFFFF; border-top-style:hidden; border-bottom-style:hidden" |
+! colspan="6" style="background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | African Nations Championship<br />qualification record
+|-
+! style="width:15%; background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | Year
+! style="width:15%; background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | Round
+! style="width:5%; background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | Position
+! style="width:5%; background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | {{Tooltip|Pld|Games played}}
+! style="width:5%; background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | {{Tooltip|W|Games won}}
+! style="width:5%; background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | {{Tooltip|D|Games drawn, including knockout matches decided on penalty kicks}}
+! style="width:5%; background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | {{Tooltip|L|Games lost}}
+! style="width:5%; background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | {{Tooltip|GF|Goals for}}
+! style="width:5%; background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | {{Tooltip|GA|Goals against}}
+! style="width:5%; background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | {{Tooltip|Pld|Games played}}
+! style="width:5%; background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | {{Tooltip|W|Games won}}
+! style="width:5%; background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | {{Tooltip|D|Games drawn}}
+! style="width:5%; background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | {{Tooltip|L|Games lost}}
+! style="width:5%; background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | {{Tooltip|GF|Goals for}}
+! style="width:5%; background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | {{Tooltip|GA|Goals against}}
+|-
+| {{flagicon|Ivory Coast}} [[2009 African Nations Championship|2009]]
+| colspan="8" rowspan="2" | ''Did not qualify''
+| 4
+| 1
+| 2
+| 1
+| 5
+| 6
+|-
+| {{flagicon|Sudan}} [[2011 African Nations Championship|2011]]
+| 2
+| 0
+| 2
+| 0
+| 3
+| 3
+|-
+| {{flagicon|South Africa}} [[2014 African Nations Championship|2014]]
+| Quarter-finals
+| 8th
+| 4
+| 1
+| 2
+| 1
+| 7
+| 6
+| 2
+| 1
+| 1
+| 0
+| 1
+| 0
+|-
+| {{flagicon|Rwanda}} [[2016 African Nations Championship|2016]]
+| Group stage
+| 10th
+| 3
+| 1
+| 1
+| 1
+| 4
+| 2
+| 4
+| 3
+| 1
+| 0
+| 11
+| 3
+|- style="background:gold"
+| style="border:3px solid red" | {{flagicon|Morocco}} [[2018 African Nations Championship|2018]]
+| '''[[2018 African Nations Championship final|Champions]]'''
+| 1st
+| 6
+| 5
+| 1
+| 0
+| 16
+| 2
+| 2
+| 1
+| 1
+| 0
+| 4
+| 2
+|- style="background:gold"
+| {{flagicon|Cameroon}} [[2020 African Nations Championship|2020]]
+| '''[[2020 African Nations Championship final|Champions]]'''
+| 1st
+| 6
+| 5
+| 1
+| 0
+| 15
+| 3
+| 2
+| 1
+| 1
+| 0
+| 3
+| 0
+|-
+| {{flagicon|Algeria}} [[2022 African Nations Championship|2022]]
+| colspan="8" | ''Qualified, but were unable to participate due to [[Algeria–Morocco relations|diplomatic disputes]].''
+| colspan="6" | ''Qualified automatically''
+|-
+|- style="background:gold"
+| {{flagicon|Kenya}} {{flagicon|Tanzania}} {{flagicon|Uganda}} [[2024 African Nations Championship|2024]]
+| '''[[2024 African Nations Championship final|Champions]]'''
+| 1st
+| 7
+| 5
+| 1
+| 1
+| 13
+| 6
+| colspan="6" | ''Qualified by default''
+|-
+! style="background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | Total: {{Tooltip|5/8|Number of tournaments qualified for}}
+! colspan=2 style="background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | {{Tooltip|3 Titles|Highest finish}}
+! style="background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | 26
+! style="background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | 17
+! style="background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | 6
+! style="background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | 3
+! style="background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | 55
+! style="background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | 19
+! style="background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | 16
+! style="background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | 7
+! style="background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | 8
+! style="background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | 1
+! style="background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | 27
+! style="background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | 14
+|}
+
+===Olympic Games===
+{| class="wikitable" style="font-size:90%; text-align:center; width:40%"
+! colspan="9" style="background:#C1272D; color:white; {{box-shadow border|a|#006233 |2px}}"|[[Summer Olympics|{{color|#FFFFFF|Summer Olympics}}]]
+|-
+! style="width:15%; background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | Year
+! style="width:15%; background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | Round
+! style="width:5%; background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | Position
+! style="width:5%; background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | {{Tooltip|Pld|Games played}}
+! style="width:5%; background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | {{Tooltip|W|Games won}}
+! style="width:5%; background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | {{Tooltip|D|Games drawn, including knockout matches decided on penalty kicks}}
+! style="width:5%; background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | {{Tooltip|L|Games lost}}
+! style="width:5%; background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | {{Tooltip|GF|Goals for}}
+! style="width:5%; background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | {{Tooltip|GA|Goals against}}
+|-
+|[[Football at the 1896 Summer Olympics|1896]]–[[Association football at the 1956 Summer Olympics|1956]]||colspan=8|''Not affiliated''
+|-
+|{{#invoke:flag|icon|Italy}} [[Football at the 1960 Summer Olympics|1960]]||colspan=8|''Did not qualify''
+|-
+|{{#invoke:flag|icon|Japan|1870}} [[Football at the 1964 Summer Olympics|1964]]||Round 1||13th||2||0||0||2||1||9
+|-
+|{{#invoke:flag|icon|Mexico}} [[Football at the 1968 Summer Olympics|1968]]||colspan=8|''Qualified, but withdrew''
+|-
+|{{#invoke:flag|icon|West Germany}} [[Football at the 1972 Summer Olympics|1972]]||Round 2||8th||6||1||1||4||7||14
+|-
+|{{#invoke:flag|icon|Canada}} [[Football at the 1976 Summer Olympics|1976]]||colspan=8 rowspan=2|''Did not qualify''
+|-
+|{{#invoke:flag|icon|USSR}} [[Football at the 1980 Summer Olympics|1980]]
+|-
+|{{#invoke:flag|icon|United States of America}} [[Football at the 1984 Summer Olympics|1984]]||Round 1||12th||3||1||0||2||1||4
+|-
+|{{#invoke:flag|icon|South Korea|1984}} [[Football at the 1988 Summer Olympics|1988]]||colspan=8|''Did not qualify''
+|-
+|Since [[Football at the 1992 Summer Olympics|1992]]||colspan=8|''See [[Morocco national under-23 football team]]''
+|-|-
+! style="background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" |Total
+! style="background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" |{{Tooltip|Round 2|Highest finish}}
+! style="background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" |7/26
+! style="background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" |23
+! style="background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" |3
+! style="background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" |5
+! style="background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" |15
+! style="background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" |17
+! style="background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" |48
+|}
+
+* Football at the Summer Olympics has been an [[Morocco national under-23 football team|under-23]] tournament since the 1992 edition.
+
+===African Games===
+{| class="wikitable" style="font-size:90%; text-align:center; width:40%"
+|-
+! colspan="9" style="background:#C1272D; color:white; {{box-shadow border|a|#006233 |2px}}"|[[African Games|{{color|#FFFFFF|African Games}}]]
+|-
+! style="width:15%; background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | Year
+! style="width:15%; background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | Round
+! style="width:5%; background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | Position
+! style="width:5%; background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | {{Tooltip|Pld|Games played}}
+! style="width:5%; background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | {{Tooltip|W|Games won}}
+! style="width:5%; background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | {{Tooltip|D|Games drawn, including knockout matches decided on penalty kicks}}
+! style="width:5%; background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | {{Tooltip|L|Games lost}}
+! style="width:5%; background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | {{Tooltip|GF|Goals for}}
+! style="width:5%; background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | {{Tooltip|GA|Goals against}}
+|-
+|{{#invoke:flag|icon|Congo|1970}} [[Football at the 1965 All-Africa Games|1965]]||colspan=8 rowspan=4|''Did not enter''
+|-
+|{{#invoke:flag|icon|Nigeria}} [[Football at the 1973 All-Africa Games|1973]]
+|-
+|{{#invoke:flag|icon|Algeria}} [[Football at the 1978 All-Africa Games|1978]]
+|-
+|{{#invoke:flag|icon|Kenya}} [[Football at the 1987 All-Africa Games|1987]]
+|-
+|Since [[Football at the 1991 All-Africa Games|1991]]
+|colspan=8|''See [[Morocco national under-23 football team]] or [[Morocco national under-20 football team]]''
+|-
+! style="background:#C1272D; color:white; {{box-shadow border|a|#006233 |2px}}" |Total
+! colspan=2 style="background:#C1272D; color:white; {{box-shadow border|a|#006233 |2px}}" |None
+! style="background:#C1272D; color:white; {{box-shadow border|a|#006233 |2px}}" |0
+! style="background:#C1272D; color:white; {{box-shadow border|a|#006233 |2px}}" |0
+! style="background:#C1272D; color:white; {{box-shadow border|a|#006233 |2px}}" |0
+! style="background:#C1272D; color:white; {{box-shadow border|a|#006233 |2px}}" |0
+! style="background:#C1272D; color:white; {{box-shadow border|a|#006233 |2px}}" |0
+! style="background:#C1272D; color:white; {{box-shadow border|a|#006233 |2px}}" |0
+|}
+
+* <small>Prior to the [[1991 All-Africa Games|Cairo 1991]] campaign, the [[Football at the All-Africa Games]] was open to full senior national teams.</small>
+
+===Mediterranean Games===
+''1951 to 1987 senior teams, from 1991 youth teams.''
+{| class="wikitable" style="font-size:90%; text-align:center; width:60%"
+|-
+! colspan="9" style="background:#C1272D; color:white; {{box-shadow border|a|#006233 |2px}}"|[[Mediterranean Games|{{color|#FFFFFF|Mediterranean Games}}]]
+|-
+! style="width:15%; background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | Year
+! style="width:15%; background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | Round
+! style="width:5%; background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | Position
+! style="width:5%; background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | {{Tooltip|Pld|Games played}}
+! style="width:5%; background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | {{Tooltip|W|Games won}}
+! style="width:5%; background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | {{Tooltip|D|Games drawn, including knockout matches decided on penalty kicks}}
+! style="width:5%; background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | {{Tooltip|L|Games lost}}
+! style="width:5%; background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | {{Tooltip|GF|Goals for}}
+! style="width:5%; background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | {{Tooltip|GA|Goals against}}
+|-
+|{{#invoke:flag|icon|Egypt|1922}} [[Football at the 1951 Mediterranean Games|1951]]||colspan=8 rowspan=3|''Did not enter''
+|-
+|{{#invoke:flag|icon|Spain|1945}} [[Football at the 1955 Mediterranean Games|1955]]
+|-
+|{{#invoke:flag|icon|Lebanon}} [[Football at the 1959 Mediterranean Games|1959]]
+|-style="background:#9acdff;"
+|{{#invoke:flag|icon|Italy}} [[Football at the 1963 Mediterranean Games|1963]]||'''Fourth place'''||4th||4||2||0||2||4||6
+|-
+|{{#invoke:flag|icon|Tunisia}} [[Football at the 1967 Mediterranean Games|1967]]||Group stage||7th||3||1||0||2||4||6
+|-
+|{{#invoke:flag|icon|Turkey}} [[Football at the 1971 Mediterranean Games|1971]]||colspan=8|''Disqualified''
+|-style="background:#9acdff;"
+|{{#invoke:flag|icon|Algeria}} [[Football at the 1975 Mediterranean Games|1975]]||'''Fourth place'''||4th||5||1||4||0||3||2
+|-
+|{{#invoke:flag|icon|Yugoslavia}} [[Football at the 1979 Mediterranean Games|1979]]||Group stage||6th||3||0||2||1||2||3
+|- bgcolor="gold"
+|style="border: 3px solid red"|{{#invoke:flag|icon|Morocco}} [[Football at the 1983 Mediterranean Games|1983]]||[[File:Gold medal icon.svg|16px]] '''Gold Medal'''||1st||4||3||1||0||8||2
+|-
+|{{#invoke:flag|icon|Syria}} [[Football at the 1987 Mediterranean Games|1987]]||Group stage||5th||3||1||1||1||2||2
+|-
+|Since [[Football at the 1991 Mediterranean Games|1991]]
+|colspan=8|''See [[Morocco national under-23 football team]] or [[Morocco national under-20 football team]]''
+|-
+! style="background:#C1272D; color:white; {{box-shadow border|a|#006233 |2px}}" |Total
+! style="background:#C1272D; color:white; {{box-shadow border|a|#006233 |2px}}" |{{Tooltip|1 Title|Highest finish}}
+! style="background:#C1272D; color:white; {{box-shadow border|a|#006233 |2px}}" |7/10
+! style="background:#C1272D; color:white; {{box-shadow border|a|#006233 |2px}}" |22
+! style="background:#C1272D; color:white; {{box-shadow border|a|#006233 |2px}}" |8
+! style="background:#C1272D; color:white; {{box-shadow border|a|#006233 |2px}}" |8
+! style="background:#C1272D; color:white; {{box-shadow border|a|#006233 |2px}}" |6
+! style="background:#C1272D; color:white; {{box-shadow border|a|#006233 |2px}}" |23
+! style="background:#C1272D; color:white; {{box-shadow border|a|#006233 |2px}}" |21
+|}
+
+===Arab Games===
+{| class="wikitable" style="font-size:90%; text-align:center; width:40%"
+|-
+! colspan="9" style="background:#C1272D; color:white; {{box-shadow border|a|#006233 |2px}}"|[[Arab Games|{{color|#FFFFFF|Arab Games}}]]
+|-
+! style="width:15%; background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | Year
+! style="width:15%; background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | Round
+! style="width:5%; background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | Position
+! style="width:5%; background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | {{Tooltip|Pld|Games played}}
+! style="width:5%; background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | {{Tooltip|W|Games won}}
+! style="width:5%; background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | {{Tooltip|D|Games drawn, including knockout matches decided on penalty kicks}}
+! style="width:5%; background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | {{Tooltip|L|Games lost}}
+! style="width:5%; background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | {{Tooltip|GF|Goals for}}
+! style="width:5%; background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | {{Tooltip|GA|Goals against}}
+|-
+|{{#invoke:flag|icon|Egypt|1922}} [[Football at the 1953 Arab Games|1953]]||colspan=8|''Did not enter''
+|-style="background:#9acdff;"
+|{{#invoke:flag|icon|Lebanon}} [[Football at the 1957 Arab Games|1957]]||'''Fourth place'''||4th||4||2||2||0||12||6
+|- bgcolor="gold"
+|style="border: 3px solid red"|{{#invoke:flag|icon|Morocco}} [[Football at the 1961 Arab Games|1961]]||[[File:Gold medal icon.svg|16px]] '''Gold Medal'''||1st||5||5||0||0||26||6
+|-
+|{{#invoke:flag|icon|UAR}} [[Football at the 1965 Arab Games|1965]]||colspan=8|''Did not enter''
+|- bgcolor="gold"
+|{{#invoke:flag|icon|Syria|1972}} [[Football at the 1976 Arab Games|1976]]||[[File:Gold medal icon.svg|16px]] '''Gold Medal'''||1st||6||4||2||0||12||0
+|- bgcolor="silver"
+|style="border: 3px solid red"|{{#invoke:flag|icon|Morocco}} [[Football at the 1985 Arab Games|1985]]||[[File:Silver medal icon.svg|16px]] '''Silver Medal'''||2nd||5||3||1||1||9||3
+|-
+|{{#invoke:flag|icon|Syria}} 1992||colspan=8 rowspan=3|''Did not enter''
+|-
+|{{#invoke:flag|icon|Lebanon}} [[Football at the 1997 Arab Games|1997]]
+|-
+|{{#invoke:flag|icon|Jordan}} [[Football at the 1999 Arab Games|1999]]
+|-
+|{{#invoke:flag|icon|Algeria}} 2004||colspan=8|''No football tournament''
+|-
+|{{#invoke:flag|icon|Egypt}} [[Football at the 2007 Arab Games|2007]]||colspan=8 rowspan=2|''Did not enter''
+|-
+|{{#invoke:flag|icon|Qatar}} [[Football at the 2011 Arab Games|2011]]
+|-
+|Since [[Football at the 2023 Arab Games|2023]]
+|colspan=8|''See [[Morocco national under-23 football team]] or [[Morocco national under-20 football team]]''
+|-
+! style="background:#C1272D; color:white; {{box-shadow border|a|#006233 |2px}}" |Total
+! style="background:#C1272D; color:white; {{box-shadow border|a|#006233 |2px}}" |{{Tooltip|2 Titles|Highest finish}}
+! style="background:#C1272D; color:white; {{box-shadow border|a|#006233 |2px}}" |4/12
+! style="background:#C1272D; color:white; {{box-shadow border|a|#006233 |2px}}" |20
+! style="background:#C1272D; color:white; {{box-shadow border|a|#006233 |2px}}" |14
+! style="background:#C1272D; color:white; {{box-shadow border|a|#006233 |2px}}" |5
+! style="background:#C1272D; color:white; {{box-shadow border|a|#006233 |2px}}" |1
+! style="background:#C1272D; color:white; {{box-shadow border|a|#006233 |2px}}" |59
+! style="background:#C1272D; color:white; {{box-shadow border|a|#006233 |2px}}" |15
+|}
+
+===FIFA Arab Cup===
+{| class="wikitable" style="font-size:90%; text-align:center; width:40%"
+|-
+! colspan="9" style="background:#C1272D; color:white; {{box-shadow border|a|#006233 |2px}}"|[[FIFA Arab Cup|{{color|#FFFFFF|FIFA Arab Cup}}]]
+|-
+! style="width:15%; background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | Year
+! style="width:15%; background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | Round
+! style="width:5%; background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | Position
+! style="width:5%; background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | {{Tooltip|Pld|Games played}}
+! style="width:5%; background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | {{Tooltip|W|Games won}}
+! style="width:5%; background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | {{Tooltip|D|Games drawn, including knockout matches decided on penalty kicks}}
+! style="width:5%; background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | {{Tooltip|L|Games lost}}
+! style="width:5%; background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | {{Tooltip|GF|Goals for}}
+! style="width:5%; background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | {{Tooltip|GA|Goals against}}
+|-
+|{{#invoke:flag|icon|Lebanon}} [[1963 Arab Cup|1963]]|| colspan="8" rowspan="6" |''Did not participate''
+|-
+|{{#invoke:flag|icon|Kuwait}} [[1964 Arab Cup|1964]]
+|-
+|{{#invoke:flag|icon|Iraq}} [[1966 Arab Cup|1966]]
+|-
+|{{#invoke:flag|icon|Saudi Arabia}} [[1985 Arab Cup|1985]]
+|-
+|{{#invoke:flag|icon|Jordan}} [[1988 Arab Cup|1988]]
+|-
+|{{#invoke:flag|icon|Syria}} [[1992 Arab Cup|1992]]
+|-
+|{{#invoke:flag|icon|Qatar}} [[1998 Arab Cup|1998]]
+| Group stage
+|5th
+|2
+|1
+|0
+|1
+|2
+|2
+|- style="background:#c96;"
+|{{#invoke:flag|icon|Kuwait}} [[2002 Arab Cup|2002]]
+| '''Semi-finals'''
+|3rd
+|5
+|1
+|2
+|2
+|5
+|6
+|-
+|{{#invoke:flag|icon|blank|border=0}} [[2009 Arab Cup|2009]]|| colspan="8" |''Cancelled''
+|-style="background:Gold;"
+|{{#invoke:flag|icon|Saudi Arabia}} [[2012 Arab Cup|2012]]
+| '''[[2012 Arab Cup final|Champions]]'''
+|1st
+|5
+|4
+|1
+|0
+|11
+|2
+|-
+|{{#invoke:flag|icon|QAT}} [[2021 FIFA Arab Cup|2021]]
+| Quarter-finals
+|5th
+|4
+|3
+|1
+|0
+|11
+|2
+|-style="background:Gold;"
+|{{#invoke:flag|icon|QAT}} [[2025 FIFA Arab Cup|2025]]
+| '''[[2025 FIFA Arab Cup final|Champions]]'''
+|1st
+|6
+|5
+|1
+|0
+|11
+|3
+|-
+|{{#invoke:flag|icon|QAT}} 2029||colspan=8 rowspan=2|''To be determined''
+|-
+|{{#invoke:flag|icon|QAT}} 2033
+|-
+! style="background:#C1272D; color:white; {{box-shadow border|a|#006233 |2px}}" |Total
+! style="background:#C1272D; color:white; {{box-shadow border|a|#006233 |2px}}" |{{Tooltip|2 Titles|Highest finish}}
+! style="background:#C1272D; color:white; {{box-shadow border|a|#006233 |2px}}" |5/11
+! style="background:#C1272D; color:white; {{box-shadow border|a|#006233 |2px}}" |22
+! style="background:#C1272D; color:white; {{box-shadow border|a|#006233 |2px}}" |13
+! style="background:#C1272D; color:white; {{box-shadow border|a|#006233 |2px}}" |6
+! style="background:#C1272D; color:white; {{box-shadow border|a|#006233 |2px}}" |3
+! style="background:#C1272D; color:white; {{box-shadow border|a|#006233 |2px}}" |40
+! style="background:#C1272D; color:white; {{box-shadow border|a|#006233 |2px}}" |15
+|}
+
+=== Minor tournaments ===
+{| class="wikitable" style="font-size:90%; text-align:center; width:70%"
+! style="width:15%; background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | Year
+! style="width:15%; background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | Round
+! style="width:5%; background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | Position
+! style="width:5%; background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | {{Tooltip|Pld|Games played}}
+! style="width:5%; background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | {{Tooltip|W|Games won}}
+! style="width:5%; background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | {{Tooltip|D|Games drawn, including knockout matches decided on penalty kicks}}
+! style="width:5%; background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | {{Tooltip|L|Games lost}}
+! style="width:5%; background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | {{Tooltip|GF|Goals for}}
+! style="width:5%; background:#C1272D; color:#FFFFFF; {{box-shadow border|a|#006233|2px}}" | {{Tooltip|GA|Goals against}}
+|-
+|- style="background:#c96;"
+|{{#invoke:flag|icon|Tunisia}} 1958 Djamila Bouhired Tournament||'''Third place'''||3rd||2||1||0||1||3||3
+|- style="background:#c96;"
+|{{#invoke:flag|icon|Libya}} [[1964 Tripoli Fair Tournament]]||'''Third place'''||3rd||4||2||0||2||5||5
+|- style="background:#c96;"
+|{{#invoke:flag|icon|ESP|1945}} 1965 [[World Military Cup]]||'''Third place'''||3rd||3||1||1||1||3||5
+|- style="background:#c96;"
+|{{#invoke:flag|icon|Libya}} [[1965 Tripoli Fair Tournament]]||'''Third place'''||3rd||3||1||1||1||2||1
+|- style="background:silver;"
+|style="border: 3px solid red"|{{#invoke:flag|icon|Morocco}} 1966 [[World Military Cup]]||'''Runners-up'''||2nd||3||0||1||2||1||4
+|-style="background:Gold;"
+|{{#invoke:flag|icon|Libya}} [[1966 Tripoli Fair Tournament]]||'''Winners'''||1st||4||3||0||1||4||5
+|- style="background:#c96;"
+|{{#invoke:flag|icon|BEL}} 1967 [[World Military Cup]]||'''Third place'''||3rd||-||-||-||-||-||-
+|-style="background:Gold;"
+|{{#invoke:flag|icon|Syria|1972}} [[1974 Kuneitra Cup]]||'''Winners'''||1st||7||6||1||0||16||5
+|-style="background:Gold;"
+|{{#invoke:flag|icon|Malaysia}} [[1980 Merdeka Tournament]]||'''Winners'''||1st||8||5||2||1||15||7
+|-style="background:Gold;"
+|{{#invoke:flag|icon|China}} 1982 Beijing International Friendship Tournaments||'''Winners'''||1st||5||1||4||0||7||6
+|- style="background:#c96;"
+|{{#invoke:flag|icon|IND}} [[:es:Copa Nehru 1985|1985 Nehru Cup]]||'''Semi-finals'''||3rd||4||2||1||1||7||3
+|-
+|{{#invoke:flag|icon|KOR}} [[1987 President's Cup Football Tournament]]||Group stage||6th||5||2||0||3||6||6
+|- style="background:silver;"
+|{{#invoke:flag|icon|France|1974}} [[1988 Tournoi de France]]||'''Runners-up'''||2nd||2||1||0||1||4||3
+|- style="background:silver;"
+|{{#invoke:flag|icon|ITA}} 1989 [[World Military Cup]]||'''Runners-up'''||2nd||3||1||1||1||3||4
+|- style="background:silver;"
+|style="border: 3px solid red"|{{#invoke:flag|icon|Morocco}} 1993 [[World Military Cup]]||'''Runners-up'''||2nd||5||4||0||1||16||5
+|- style="background:silver;"
+|{{#invoke:flag|icon|UAE}} 1994 [[Friendship Tournament]]||'''Runners-up'''||2nd||3||1||2||0||4||3
+|- style="background:silver;"
+|{{#invoke:flag|icon|UAE}} 1996 [[Friendship Tournament]]||'''Runners-up'''||2nd||3||1||1||1||4||3
+|- style="background:#c96;"
+|style="border: 3px solid red"|{{#invoke:flag|icon|Morocco}} [[1996 King Hassan II International Cup Tournament]]||'''Third place'''||3rd||2||1||1||0||4||2
+|- style="background:#c96;"
+|style="border: 3px solid red"|{{#invoke:flag|icon|Morocco}} [[1998 King Hassan II International Cup Tournament]]||'''Third place'''||3rd||2||0||1||1||2||3
+|- style="background:#9acdff;"
+|{{#invoke:flag|icon|GUI}} 1998 [[African Military Cup]]||'''Fourth place'''||4th||-||-||-||-||-||-
+|- style="background:silver;"
+|style="border: 3px solid red"|{{#invoke:flag|icon|Morocco}} [[1999 LG Cup (Morocco)]]||'''Runners-up'''||2nd||2||1||0||1||2||2
+|- style="background:silver;"
+|style="border: 3px solid red"|{{#invoke:flag|icon|Morocco}} [[2000 King Hassan II International Cup Tournament]]||'''Runners-up'''||2nd||2||1||0||1||2||5
+|-style="background:Gold;"
+|{{#invoke:flag|icon|UAE}} 2001 [[Friendship Tournament]]||'''Winners'''||1st||3||1||2||0||6||4
+|- style="background:#c96;"
+|style="border: 3px solid red"|{{#invoke:flag|icon|Morocco}} [[2002 LG Cup (Morocco)]]||'''Third place'''||3rd||2||1||1||0||2||0
+|- style="background:#c96;"
+|{{#invoke:flag|icon|Iran}} [[2002 LG Cup (Iran)]]||'''Third place'''||3rd||2||0||2||0||1||1
+|-style="background:Gold;"
+|{{#invoke:flag|icon|QAT}} 2004 [[Qatar International Friendship Tournament]]||'''Winners'''||1st||5||4||0||1||9||4
+|- style="background:#c96;"
+|style="border: 3px solid red"|{{#invoke:flag|icon|Morocco}} [[2011 LG Cup (Morocco)]]||'''Third place'''||3rd||2||0||1||1||1||2
+|- style="background:silver;"
+|{{#invoke:flag|icon|France|1974}} [[2015 Toulon Tournament]]||'''Runners-up'''||2nd||5||2||2||1||9||7
+|-
+! style="background:#C1272D; color:white; {{box-shadow border|a|#006233 |2px}}" |Total
+! style="background:#C1272D; color:white; {{box-shadow border|a|#006233 |2px}}" |{{Tooltip|6 Titles|Highest finish}}
+! style="background:#C1272D; color:white; {{box-shadow border|a|#006233 |2px}}" |28/28
+! style="background:#C1272D; color:white; {{box-shadow border|a|#006233 |2px}}" |91
+! style="background:#C1272D; color:white; {{box-shadow border|a|#006233 |2px}}" |43
+! style="background:#C1272D; color:white; {{box-shadow border|a|#006233 |2px}}" |25
+! style="background:#C1272D; color:white; {{box-shadow border|a|#006233 |2px}}" |23
+! style="background:#C1272D; color:white; {{box-shadow border|a|#006233 |2px}}" |138
+! style="background:#C1272D; color:white; {{box-shadow border|a|#006233 |2px}}" |98
+|}
+
+
+== Head-to-head performance ==
+''Correct as of 4 July 2026 after the match against Canada.''{{efn|These statistics include historical matches played, which may include some or all pre-1992 Olympic qualifiers and final tournament, African Nations Championship (CHAN) games, and non-FIFA friendlies. This may differ from official FIFA-recognized "Class A" senior records, which exclude certain non-senior competitions.}}
+
+{|class="sortable wikitable" style="text-align:center; width:50%"
+|-
+!width=200|Team
+!width=12|Confederation
+!width=30|{{Tooltip|GP|Games played}}
+!width=30|{{Tooltip|W|Wins}}
+!width=30|{{Tooltip|D|Draws}}
+!width=30|{{Tooltip|L|Losses}}
+!width=30|{{Tooltip|GF|Goals for}}
+!width=30|{{Tooltip|GA|Goals against}}
+!width=30|{{Tooltip|GD|goal difference}}
+!width=30|{{Tooltip|Win%|Win percentage}}
+!width=30|{{Tooltip|Loss%|Loss percentage}}
+|-bgcolor=#FFFFCC
+|{{fb|ALB}} || [[UEFA]] || 1 || 0 || 1 || 0 || 0 || 0 || 0 || {{#expr:0/1*100 round 2}}% || {{#expr:0/1*100 round 2}}%
+|-bgcolor=#CCFFCC
+|{{fb|ALG}} || CAF || 32 || 14 || 10 || 8 || 35 || 30 || +18 || {{#expr:14/35*100 round 2}}% || {{#expr:8/35*100 round 2}}%
+|-bgcolor=#CCFFCC
+|{{fb|ANG}} || CAF || 8 || 5 || 2 || 1 || 12 || 7 || +5 || {{#expr:5/8*100 round 2}}% || {{#expr:1/8*100 round 2}}%
+|-bgcolor=#FFCCCC
+|{{fb|ARG}} || [[CONMEBOL]] || 3 || 0
+ || 0 || 3 || 1 || 5 || −4 || {{#expr:0/3*100 round 2}}% || {{#expr:3/3*100 round 2}}%
+|-bgcolor=#CCFFCC
+|{{fb|ARM}} || UEFA || 1 || 1 || 0 || 0 || 6 || 0 || +6 || {{#expr:1/1*100 round 2}}% || {{#expr:0/1*100 round 2}}%
+|-bgcolor=#FFCCCC
+|{{fb|AUS}} || [[Asian Football Confederation|AFC]] || 1 || 0 || 0 || 1 || 0 || 1 || −1 || {{#expr:0/1*100 round 2}}% || {{#expr:1/1*100 round 2}}%
+|-bgcolor=#CCFFCC
+|{{fb|AUT}} || UEFA || 1 || 1 || 0 || 0 || 3 || 1 || +2 || {{#expr:1/1*100 round 2}}% || {{#expr:0/1*100 round 2}}%
+|-bgcolor=#CCFFCC
+|{{fb|BHR}} || AFC || 3 || 3 || 0 || 0 || 6 || 0 || +6 || {{#expr:3/3*100 round 2}}% || {{#expr:0/3*100 round 2}}%
+|-bgcolor=#FFFFCC
+|{{fb|BEL}} || UEFA || 4 || 2 || 0 || 2 || 6 || 6 || 0 || {{#expr:1/2*100 round 2}}% || {{#expr:1/2*100 round 2}}%
+|-bgcolor=#CCFFCC
+|{{fb|BEN}} || CAF || 7 || 6 || 1 || 0 || 21 || 3 || +18 || {{#expr:6/7*100 round 2}}% || {{#expr:0/7*100 round 2}}%
+|-bgcolor=#CCFFCC
+|{{fb|BOT}} || CAF || 2 || 2 || 0 || 0 || 2 || 0 || +2 || {{#expr:2/2*100 round 2}}% || {{#expr:0/2*100 round 2}}%
+|-bgcolor=#FFCCCC
+|{{fb|BRA}} || CONMEBOL || 5 || 1 || 1 || 3 || 3 || 9 || −6 || {{#expr:1/5*100 round 2}}% || {{#expr:3/5*100 round 2}}%
+|-bgcolor=#CCFFCC
+|{{fb|BUL}} || UEFA || 6 || 2 || 3 || 1 || 10 || 5 || +5 || {{#expr:2/6*100 round 2}}% || {{#expr:1/6*100 round 2}}%
+|-bgcolor=#CCFFCC
+|{{fb|BFA}} || CAF || 12 || 8 || 2 || 2 || 17 || 6 || +11 || {{#expr:8/12*100 round 2}}% || {{#expr:2/12*100 round 2}}%
+|-bgcolor=#CCFFCC
+|{{fb|BDI}} || CAF || 3 || 3 || 0 || 0 || 9 || 0 || +9 || {{#expr:3/3*100 round 2}}% || {{#expr:0/3*100 round 2}}%
+|-bgcolor=#FFCCCC
+|{{fb|CMR}} || CAF || 14 || 3 || 5 || 6 || 12 || 12 || 0 || {{#expr:3/14*100 round 2}}% || {{#expr:6/14*100 round 2}}%
+|-bgcolor=#CCFFCC
+|{{fb|CAN}} || [[CONCACAF]] || 5 || 4 || 1 || 0 || 13 || 4 || +9 || {{#expr:4/5*100 round 2}}% || {{#expr:0/5*100 round 2}}%
+|-bgcolor=#CCFFCC
+|{{fb|CPV}} || CAF || 4 || 2 || 2 || 0 || 4 || 1 || +3 || {{#expr:2/4*100 round 2}}% || {{#expr:0/4*100 round 2}}%
+|-bgcolor=#CCFFCC
+|{{fb|CAR}} || CAF || 7 || 5 || 2 || 0 || 19 || 1 || +18 || {{#expr:5/7*100 round 2}}% || {{#expr:0/7*100 round 2}}%
+|-bgcolor=#CCFFCC
+|{{fb|CHI}} || CONMEBOL || 2 || 1 || 1 || 0 || 3 || 1 || +2 || {{#expr:1/2*100 round 2}}% || {{#expr:0/2*100 round 2}}%
+|-bgcolor=#FFFFCC
+|{{fb|CHN}} || AFC || 1 || 0 || 1 || 0 || 3 || 3 || 0 || {{#expr:0/1*100 round 2}}% || {{#expr:0/1*100 round 2}}%
+|-bgcolor=#FFCCCC
+|{{fb|COL}} || CONMEBOL || 1 || 0 || 0 || 1 || 0 || 2 || −2 || {{#expr:0/1*100 round 2}}% || {{#expr:1/1*100 round 2}}%
+|-bgcolor=#CCFFCC
+|{{fb|COM}} || CAF || 5 || 4 || 1 || 0 || 10 || 3 || +7 || {{#expr:4/5*100 round 2}}% || {{#expr:0/5*100 round 2}}%
+|-bgcolor=#CCFFCC
+|{{fb|CGO}} || CAF || 7 || 5 || 2 || 0 || 13 || 2 || +11 || {{#expr:5/7*100 round 2}}% || {{#expr:0/7*100 round 2}}%
+|-bgcolor=#CCFFCC
+|{{fb|CRC}} || CONCACAF || 1 || 1 || 0 || 0 || 1 || 0 || +1 || {{#expr:1/1*100 round 2}}% || {{#expr:0/1*100 round 2}}%
+|-bgcolor=#FFCCCC
+|{{fb|CRO}} || UEFA || 3 || 0 || 2 || 1 || 3 || 4 || −1 || {{#expr:0/3*100 round 2}}% || {{#expr:1/3*100 round 2}}%
+|-bgcolor=#FFFFCC
+|{{fb|CZE}} || UEFA || 1 || 0 || 1 || 0 || 0 || 0 || 0 || {{#expr:0/1*100 round 2}}% || {{#expr:0/1*100 round 2}}%
+|-bgcolor=#FFFFCC
+|{{fb|DEN}} || UEFA || 2 || 1 || 0 || 1 || 5 || 5 || 0 || {{#expr:1/2*100 round 2}}% || {{#expr:1/2*100 round 2}}%
+|-bgcolor=#CCFFCC
+|{{fb|COD}} || CAF || 17 || 5 || 9 || 3 || 23 || 14 || +9 || {{#expr:5/17*100 round 2}}% || {{#expr:3/17*100 round 2}}%
+|-bgcolor=#CCFFCC
+|{{fb|GDR}} || UEFA || 4 || 3 || 0 || 1 || 8 || 5 || +3 || {{#expr:3/4*100 round 2}}% || {{#expr:1/4*100 round 2}}%
+|-bgcolor=#FFFFCC
+|{{fb|ECU}} || CONMEBOL || 1 || 0 || 1 || 0 || 1 || 1 || 0 || {{#expr:0/1*100 round 2}}% || {{#expr:0/1*100 round 2}}%
+|-bgcolor=#CCFFCC
+|{{fb|EGY}} || CAF || 30 || 14 || 12 || 4 || 35 || 18 || +17 || {{#expr:14/30*100 round 2}}% || {{#expr:4/30*100 round 2}}%
+|-bgcolor=#FFCCCC
+|{{fb|ENG}} || UEFA || 2 || 0 || 1 || 1 || 0 || 1 || −1 || {{#expr:0/2*100 round 2}}% || {{#expr:1/2*100 round 2}}%
+|-bgcolor=#CCFFCC
+|{{fb|EQG}} || CAF || 5 || 4 || 0 || 1 || 10 || 2 || +2 || {{#expr:4/5*100 round 2}}% || {{#expr:1/5*100 round 2}}%
+|-bgcolor=#CCFFCC
+|{{fb|EST}} || UEFA || 1 || 1 || 0 || 0 || 3 || 1 || +2 || {{#expr:1/1*100 round 2}}% || {{#expr:0/1*100 round 2}}%
+|-bgcolor=#CCFFCC
+|{{fb|ETH}} || CAF || 7 || 7 || 0 || 0 || 16 || 0 || +16 || {{#expr:7/7*100 round 2}}% || {{#expr:0/7*100 round 2}}%
+|-bgcolor=#FFCCCC
+|{{fb|FIN}} || UEFA || 2 || 0 || 1 || 1 || 0 || 1 || −1 || {{#expr:0/2*100 round 2}}% || {{#expr:1/2*100 round 2}}%
+|-bgcolor=#FFCCCC
+|{{fb|FRA}} || UEFA || 6 || 0 || 2 || 4 || 6 || 14 || −8 || {{#expr:0/6*100 round 2}}% || {{#expr:4/6*100 round 2}}%
+|-bgcolor=#CCFFCC
+|{{fb|GAB}} || CAF || 21 || 11 || 4 || 6 || 47 || 22 || +25 || {{#expr:11/21*100 round 2}}% || {{#expr:6/21*100 round 2}}%
+|-bgcolor=#CCFFCC
+|{{fb|GAM}} || CAF || 8 || 6 || 1 || 1 || 14 || 2 || +12 || {{#expr:6/8*100 round 2}}% || {{#expr:1/8*100 round 2}}%
+|-bgcolor=#CCFFCC
+|{{fb|GEO}} || UEFA || 1 || 1 || 0 || 0 || 3 || 0 || +3 || {{#expr:1/1*100 round 2}}% || {{#expr:0/1*100 round 2}}%
+|-bgcolor=#FFCCCC
+|{{fb|GER}}{{efn-ua|Includes {{fb|FRG}}}} || UEFA || 6 || 0 || 0 || 6 || 3 || 17 || −14 || {{#expr:0/6*100 round 2}}% || {{#expr:6/6*100 round 2}}%
+|-bgcolor=#CCFFCC
+|{{fb|GHA}} || CAF || 11 || 5 || 3 || 3 || 8 || 8 || 0 || {{#expr:5/11*100 round 2}}% || {{#expr:3/11*100 round 2}}%
+|-bgcolor=#FFFFCC
+|{{fb|GRE}} || UEFA || 1 || 0 || 1 || 0 || 0 || 0 || 0 || {{#expr:0/1*100 round 2}}% || {{#expr:0/1*100 round 2}}%
+|-bgcolor=#CCFFCC
+|{{fb|GUI}} || CAF || 14 || 6 || 6 || 2 || 19 || 12 || +7 || {{#expr:6/14*100 round 2}}% || {{#expr:2/14*100 round 2}}%
+|-bgcolor=#CCFFCC
+|{{fb|GNB}} || CAF || 2 || 2 || 0 || 0 || 8 || 0 || +8 || {{#expr:2/2*100 round 2}}% || {{#expr:0/2*100 round 2}}%
+|-bgcolor=#CCFFCC
+|{{fb|HAI}} || CONCACAF || 1 || 1 || 0 || 0 || 4 || 2 || +2 || {{#expr:1/1*100 round 2}}% || {{#expr:0/1*100 round 2}}%
+|-bgcolor=#FFFFCC
+|{{fb|HKG}} || AFC || 1 || 0 || 1 || 0 || 0 || 0 || 0 || {{#expr:0/1*100 round 2}}% || {{#expr:0/1*100 round 2}}%
+|-bgcolor=#FFCCCC
+|{{fb|HUN}} || UEFA || 3 || 0 || 0 || 3 || 2 || 12 || −10 || {{#expr:0/3*100 round 2}}% || {{#expr:3/3*100 round 2}}%
+|-bgcolor=#CCFFCC
+|{{fb|IND}} || AFC || 1 || 1 || 0 || 0 || 1 || 0 || +1 || {{#expr:1/1*100 round 2}}% || {{#expr:0/1*100 round 2}}%
+|-bgcolor=#CCFFCC
+|{{fb|IDN}} || AFC || 1 || 1 || 0 || 0 || 2 || 0 || +2 || {{#expr:1/1*100 round 2}}% || {{#expr:0/1*100 round 2}}%
+|-bgcolor=#FFCCCC
+|{{fb|IRN}} || AFC || 1 || 0 || 0 || 1 || 0 || 1 || −1 || {{#expr:0/1*100 round 2}}% || {{#expr:1/1*100 round 2}}%
+|-bgcolor=#FFFFCC
+|{{fb|IRQ}} || AFC || 10 || 3 || 4 || 3 || 6 || 10 || −4 || {{#expr:3/10*100 round 2}}% || {{#expr:3/10*100 round 2}}%
+|-bgcolor=#FFCCCC
+|{{fb|ITA}} || UEFA || 1 || 0 || 0 || 1 || 0 || 1 || −1 || {{#expr:0/1*100 round 2}}% || {{#expr:1/1*100 round 2}}%
+|-bgcolor=#FFFFCC
+|{{fb|CIV}} || CAF || 22 || 7 || 8 || 7 || 28 || 26 || +2 || {{#expr:7/22*100 round 2}}% || {{#expr:7/22*100 round 2}}%
+|-bgcolor=#CCFFCC
+|{{fb|JAM}} || CONCACAF || 1 || 1 || 0 || 0 || 1 || 0 || +1 || {{#expr:1/1*100 round 2}}% || {{#expr:0/1*100 round 2}}%
+|-bgcolor=#CCFFCC
+|{{fb|JOR}} || AFC || 5 || 4 || 1 || 0 || 15 || 4 || +11 || {{#expr:4/5*100 round 2}}% || {{#expr:0/5*100 round 2}}%
+|-bgcolor=#CCFFCC
+|{{fb|KEN}} || CAF || 5 || 3 || 2 || 0 || 10 || 2 || +8 || {{#expr:3/5*100 round 2}}% || {{#expr:0/5*100 round 2}}%
+|-bgcolor=#CCFFCC
+|{{fb|KUW}} || AFC || 6 || 3 || 2 || 1 || 14 || 9 || +5 || {{#expr:3/6*100 round 2}}% || {{#expr:1/6*100 round 2}}%
+|-bgcolor=#CCFFCC
+|{{fb|LIB}} || AFC || 3 || 2 || 0 || 1 || 5 || 2 || +3 || 0% || 0%
+|-bgcolor=#CCFFCC
+|{{fb|LES}} || CAF || 2 || 2 || 0 || 0 || 8 || 0 || +8 || {{#expr:2/2*100 round 2}}% || {{#expr:0/2*100 round 2}}%
+|-bgcolor=#CCFFCC
+|{{fb|LBR}} || CAF || 5 || 4 || 0 || 1 || 14 || 3 || +11 || {{#expr:4/5*100 round 2}}% || {{#expr:1/5*100 round 2}}%
+|-bgcolor=#CCFFCC
+|{{fb|LBY}} || CAF || 20 || 10 || 6 || 4 || 34 || 18 || +16 || {{#expr:10/20*100 round 2}}% || {{#expr:4/20*100 round 2}}%
+|-bgcolor=#CCFFCC
+|{{fb|LUX}} || UEFA || 3 || 3 || 0 || 0 || 6 || 1 || +5 || {{#expr:3/3*100 round 2}}% || {{#expr:0/3*100 round 2}}%
+|-bgcolor=#CCFFCC
+|{{fb|MAD}} || CAF || 2 || 2 || 0 || 0 || 7 || 2 || +5 || {{#expr:2/2*100 round 2}}% || {{#expr:0/2*100 round 2}}%
+|-bgcolor=#CCFFCC
+|{{fb|MWI}} || CAF || 11 || 7 || 3 || 1 || 17 || 4 || +13 || {{#expr:7/11*100 round 2}}% || {{#expr:1/11*100 round 2}}%
+|-bgcolor=#CCFFCC
+|{{fb|MAS}} || AFC || 4 || 2 || 1 || 1 || 9 || 4 || +5 || {{#expr:2/4*100 round 2}}% || 50%
+|-bgcolor=#CCFFCC
+|{{fb|MLI}} || CAF || 21 || 9 || 7 || 5 || 34 || 13 || +21 || {{#expr:9/21*100 round 2}}% || {{#expr:5/21*100 round 2}}%
+|-bgcolor=#CCFFCC
+|{{fb|MLT}} || UEFA || 3 || 2 || 1 || 0 || 7 || 4 || +3 || {{#expr:2/3*100 round 2}}% || {{#expr:0/3*100 round 2}}%
+|-bgcolor=#CCFFCC
+|{{fb|MTN}} || CAF || 11 || 7 || 4 || 0 || 27 || 5 || +22 || {{#expr:7/11*100 round 2}}% || {{#expr:0/11*100 round 2}}%
+|-bgcolor=#CCFFCC
+|{{fb|MEX}} || CONCACAF || 1 || 1 || 0 || 0 || 2 || 1 || +1 || {{#expr:1/1*100 round 2}}% || {{#expr:0/1*100 round 2}}%
+|-bgcolor=#CCFFCC
+|{{fb|MOZ}} || CAF || 5 || 4 || 0 || 1 || 12 || 2 || +10 || {{#expr:4/5*100 round 2}}% || {{#expr:1/5*100 round 2}}%
+|-bgcolor=#FFFFCC
+|{{fb|MYA}} || AFC || 1 || 0 || 1 || 0 || 2 || 2 || 0 || {{#expr:0/1*100 round 2}}% || {{#expr:0/1*100 round 2}}%
+|-bgcolor=#CCFFCC
+|{{fb|NAM}} || CAF || 7 || 6 || 1 || 0 || 15 || 2 || +13 || {{#expr:6/7*100 round 2}}% || {{#expr:0/7*100 round 2}}%
+|-bgcolor=#FFCCCC
+|{{fb|NED}} || UEFA || 4 || 1 || 1 || 2 || 5 || 6 || −1 || {{#expr:1/4*100 round 2}}% || {{#expr:2/4*100 round 2}}%
+|-bgcolor=#CCFFCC
+|{{fb|NZL}} || [[Oceanian Football Confederation|OFC]] || 2 || 2 || 0 || 0 || 6 || 0 || +6 || {{#expr:2/2*100 round 2}}% || {{#expr:0/2*100 round 2}}%
+|-bgcolor=#CCFFCC
+|{{fb|NIG}} || CAF || 9 || 8 || 0 || 1 || 23 || 3 || +20 || {{#expr:8/9*100 round 2}}% || {{#expr:1/9*100 round 2}}%
+|-bgcolor=#CCFFCC
+|{{fb|NGA}} || CAF || 12 || 6 || 3 || 3 || 14 || 8 || +6 || {{#expr:6/12*100 round 2}}% || {{#expr:3/12*100 round 2}}%
+|-bgcolor=#FFCCCC
+|{{fb|NIR}} || UEFA || 2 || 0 || 1 || 1 || 2 || 3 ||−1 || {{#expr:0/2*100 round 2}}% || {{#expr:1/2*100 round 2}}%
+|-bgcolor=#FFFFCC
+|{{fb|NOR}} || UEFA || 2 || 0 || 2 || 0 || 3 || 3 || 0 || {{#expr:0/2*100 round 2}}% || {{#expr:0/2*100 round 2}}%
+|-bgcolor=#FFFFCC
+|{{fb|OMA}} || AFC || 2 || 0 || 2 || 0 || 0 || 0 || 0 || {{#expr:0/2*100 round 2}}% || {{#expr:0/2*100 round 2}}%
+|-bgcolor=#CCFFCC
+|{{fb|PLE}} || AFC || 2 || 2 || 0 || 0 || 7 || 0 || +7 || {{#expr:2/2*100 round 2}}% || {{#expr:0/1*100 round 2}}%
+|-bgcolor=#CCFFCC
+|{{fb|PAR}} || CONMEBOL || 2 || 1 || 1 || 0 || 2 || 1 || +1 || {{#expr:1/2*100 round 2}}% || {{#expr:0/2*100 round 2}}%
+|-bgcolor=#FFCCCC
+|{{fb|PER}} || CONMEBOL || 2 || 0 || 1 || 1 || 0 || 3 || −3 || {{#expr:0/2*100 round 2}}% || {{#expr:1/2*100 round 2}}%
+|-bgcolor=#FFCCCC
+|{{fb|POL}} || UEFA || 5 || 1 || 2 || 2 || 3 || 9 || −6 || {{#expr:1/5*100 round 2}}% || {{#expr:2/5*100 round 2}}%
+|-bgcolor=#CCFFCC
+|{{fb|POR}} || UEFA || 3 || 2 || 0 || 1 || 4 || 2 || +2 || {{#expr:2/3*100 round 2}}% || {{#expr:1/3*100 round 2}}%
+|-bgcolor=#CCFFCC
+|{{fb|QAT}} || AFC || 2 || 1 || 1 || 0 || 1 || 0 || +1 || {{#expr:1/2*100 round 2}}% || {{#expr:0/2*100 round 2}}%
+|-bgcolor=#FFCCCC
+|{{fb|IRL}} || UEFA || 1 || 0 || 0 || 1 || 0 || 1 || −1 || {{#expr:0/1*100 round 2}}% || {{#expr:1/1*100 round 2}}%
+|-bgcolor=#FFFFCC
+|{{fb|ROU}} || UEFA || 2 || 1 || 0 || 1 || 3 || 5 || −2 || {{#expr:1/2*100 round 2}}% || {{#expr:1/2*100 round 2}}%
+|-bgcolor=#FFCCCC
+|{{fb|RUS}}{{efn-ua|Includes {{fb|URS}}}} || UEFA || 4 || 0 || 1 || 3 || 3 || 7 || −4 || {{#expr:0/4*100 round 2}}% || {{#expr:3/4*100 round 2}}%
+|-bgcolor=#CCFFCC
+|{{fb|RWA}} || CAF || 4 || 2 || 1 || 1 || 7 || 4 || +3 || {{#expr:2/4*100 round 2}}% || {{#expr:1/4*100 round 2}}%
+|-bgcolor=#CCFFCC
+|{{fb|STP}} || CAF || 2 || 2 || 0 || 0 || 5 || 0 || +5 || {{#expr:2/2*100 round 2}}% || {{#expr:0/2*100 round 2}}%
+|-bgcolor=#CCFFCC
+|{{fb|KSA}} || AFC || 9 || 4 || 2 || 3 || 18 || 7 || +11 || {{#expr:4/9*100 round 2}}% || {{#expr:3/9*100 round 2}}%
+|-bgcolor=#CCFFCC
+|{{fb|SCO}} || UEFA || 2 || 2 || 0 || 0 || 4 || 0 || +4 || {{#expr:2/2*100 round 2}}% || {{#expr:0/2*100 round 2}}%
+|-bgcolor=#CCFFCC
+|{{fb|SEN}} || CAF || 32 || 17 || 6 || 9 || 42 || 20 || +22 || {{#expr:17/32*100 round 2}}% || {{#expr:9/32*100 round 2}}%
+|-bgcolor=#FFCCCC
+|{{fb|SRB}}{{efn-ua|Includes {{fb|YUG}}}} || UEFA || 6 || 1 || 1 || 4 || 5 || 12 || −7 || {{#expr:1/6*100 round 2}}% || {{#expr:4/6*100 round 2}}%
+|-bgcolor=#CCFFCC
+|{{fb|SLE}} || CAF || 8 || 7 || 1 || 0 || 17 || 1 || +16 || {{#expr:7/8*100 round 2}}% || {{#expr:0/8*100 round 2}}%
+|-bgcolor=#CCFFCC
+|{{fb|SIN}} || AFC || 1 || 1 || 0 || 0 || 1 || 0 || +1 || {{#expr:1/1*100 round 2}}% || {{#expr:0/1*100 round 2}}%
+|-bgcolor=#CCFFCC
+|{{fb|SVK}} || UEFA || 2 || 2 || 0 || 0 || 4 || 2 || 0 || {{#expr:2/2*100 round 2}}% || {{#expr:0/2*100 round 2}}%
+|-bgcolor=#CCFFCC
+|{{fb|SOM}} || CAF || 1 || 1 || 0 || 0 || 3 || 0 || +3 || {{#expr:1/1*100 round 2}}% || {{#expr:0/1*100 round 2}}%
+|-bgcolor=#FFCCCC
+|{{fb|RSA}} || CAF || 9 || 2 || 3 || 4 || 10 || 14 || −4 || {{#expr:2/9*100 round 2}}% || {{#expr:4/9*100 round 2}}%
+|-bgcolor=#FFFFCC
+|{{fb|KOR}} || AFC || 6 || 1 || 4 || 1 || 10 || 9 || +1 || {{#expr:1/6*100 round 2}}% || {{#expr:1/6*100 round 2}}%
+|-bgcolor=#CCFFCC
+|{{fb|South Yemen}} || AFC || 1 || 1 || 0 || 0 || 4 || 0 || +4 || 0% || {{#expr:0/1*100 round 2}}%
+|-bgcolor=#FFCCCC
+|{{fb|ESP}} || UEFA || 4 || 0 || 2 || 2 || 4 || 6 || −2 || {{#expr:0/4*100 round 2}}% || {{#expr:2/4*100 round 2}}%
+|-bgcolor=#CCFFCC
+|{{fb|SUD}} || CAF || 7 || 3 || 4 || 0 || 9 || 3 || 0 || {{#expr:3/7*100 round 2}}% || {{#expr:0/7*100 round 2}}%
+|-bgcolor=#CCFFCC
+|{{fb|SUI}} || UEFA || 3 || 3 || 0 || 0 || 6 || 2 || +4 || {{#expr:3/3*100 round 2}}% || {{#expr:0/3*100 round 2}}%
+|-bgcolor=#CCFFCC
+|{{fb|SYR|revolution}} || AFC || 4 || 4 || 0 || 0 || 7 || 0 || +7 || {{#expr:4/4*100 round 2}}% || {{#expr:0/4*100 round 2}}%
+|-bgcolor=#CCFFCC
+|{{fb|TAN}} || CAF || 8 || 7 || 0 || 1 || 15 || 5 || +10 || {{#expr:7/8*100 round 2}}% || {{#expr:1/8*100 round 2}}%
+|-bgcolor=#CCFFCC
+|{{fb|THA}} || AFC || 1 || 1 || 0 || 0 || 2 || 1 || +1 || {{#expr:1/1*100 round 2}}% || {{#expr:0/1*100 round 2}}%
+|-bgcolor=#CCFFCC
+|{{fb|TOG}} || CAF || 12 || 6 || 3 || 3 || 22 || 11 || +11 || {{#expr:6/12*100 round 2}}% || {{#expr:3/12*100 round 2}}%
+|-bgcolor=#CCFFCC
+|{{fb|TRI}} || CONCACAF || 3 || 3 || 0 || 0 || 4 || 0 || +4 || {{#expr:3/3*100 round 2}}% || {{#expr:0/3*100 round 2}}%
+|-bgcolor=#CCFFCC
+|{{fb|TUN}} || CAF || 51 || 14 || 28 || 9 || 55 || 46 || +9 || {{#expr:14/51*100 round 2}}% || {{#expr:9/51*100 round 2}}%
+|-bgcolor=#CCFFCC
+|{{fb|UGA}} || CAF || 5 || 3 || 0 || 2 || 14 || 8 || +6 || {{#expr:3/5*100 round 2}}% || {{#expr:2/5*100 round 2}}%
+|-bgcolor=#FFFFCC
+|{{fb|UKR}} || UEFA || 1 || 0 || 1 || 0 || 0 || 0 || 0 || {{#expr:0/1*100 round 2}}% || {{#expr:0/1*100 round 2}}%
+|-bgcolor=#CCFFCC
+|{{fb|UAE}} || AFC || 6 || 3 || 2 || 1 || 9 || 4 || +5 || {{#expr:3/6*100 round 2}}% || {{#expr:1/6*100 round 2}}%
+|-bgcolor=#FFCCCC
+|{{fb|URU}} || CONMEBOL || 2 || 0 || 0 || 2 || 0 || 2 || −2 || {{#expr:0/2*100 round 2}}% || {{#expr:2/2*100 round 2}}%
+|-bgcolor=#CCFFCC
+|{{fb|USA}} || CONCACAF || 5 || 3 || 1 || 1 || 6 || 5 || +1 || {{#expr:3/5*100 round 2}}% || {{#expr:1/5*100 round 2}}%
+|-bgcolor=#CCFFCC
+|{{fb|UZB}} || AFC || 1 || 1 || 0 || 0 || 2 || 0 || +2 || {{#expr:1/1*100 round 2}}% || {{#expr:0/1*100 round 2}}%
+|-bgcolor=#CCFFCC
+|{{fb|YEM}} || AFC || 1 || 1 || 0 || 0 || 4 || 0 || +4 || {{#expr:1/1*100 round 2}}% || {{#expr:0/1*100 round 2}}%
+|-bgcolor=#CCFFCC
+|{{fb|ZAM}} || CAF || 22 || 14 || 2 || 6 || 31 || 19 || +12 || {{#expr:14/22*100 round 2}}% || {{#expr:6/22*100 round 2}}%
+|-bgcolor=#CCFFCC
+|{{fb|ZIM}} || CAF || 5 || 3 || 2 || 0 || 6 || 2 || +4 || {{#expr:3/5*100 round 2}}% || {{#expr:0/5*100 round 2}}%
+|- class="sortbottom"
+!Total (121)
+! All !! 713 !! 354 !! 221 !! 138 !! 1076 !! 589 !! +487 !! {{#expr:354/713*100 round 2}}% || {{#expr:138/713*100 round 2}}%
+|}
+
+{{notelist-ua}}
+
+==Honours==
+{{col-begin|width=100%}}
+{{Col-3}}
+===Continental===
+* '''[[Africa Cup of Nations]]'''<ref>{{Cite web|title=African Nations Cup|url=https://www.rsssf.org/tablesa/afrchamp.html|access-date=3 October 2022|website=[[RSSSF]]|archive-date=2 October 2022|archive-url=https://web.archive.org/web/20221002133729/https://rsssf.org/tablesa/afrchamp.html|url-status=live}}</ref>
+** [[File:Coppa Africa.svg|22px]] '''Champions (2)''': [[1976 Africa Cup of Nations|1976]], [[2025 Africa Cup of Nations|2025]]
+** [[File:Silver medal africa.svg|15px]] Runners-up (1): [[2004 Africa Cup of Nations|2004]]
+** [[File:Bronze medal africa.svg|15px]] Third place (1): [[1980 Africa Cup of Nations|1980]]
+* '''[[African Nations Championship]]'''<ref>{{Cite web|title=African Nations Championship|url=https://www.rsssf.org/tables/00allanch.html|access-date=3 October 2022|website=[[RSSSF]]|archive-date=6 October 2022|archive-url=https://web.archive.org/web/20221006014908/https://rsssf.org/tables/00allanch.html|url-status=live}}</ref>
+** [[File:Gold medal africa.svg|15px]] '''Champions (3)''': [[2018 African Nations Championship|2018]], [[2020 African Nations Championship|2020]], [[2024 African Nations Championship|2024]]
+
+===Subregional===
+* '''[[FIFA Arab Cup|Arab Cup / FIFA Arab Cup]]'''<ref>{{cite web |title=Arab cup |url=https://www.rsssf.org/tablesa/arabcup.html |website=Rsssf |access-date=6 October 2022 |archive-date=31 January 2023 |archive-url=https://web.archive.org/web/20230131231630/https://www.rsssf.org/tablesa/arabcup.html |url-status=live }}</ref>
+** [[File:Arab_Cup_icon.png|40px]] '''Champions (2)''': [[2012 Arab Cup|2012]], [[2025 Arab Cup|2025]]
+* '''[[Football at the Arab Games|Arab Games]]'''<ref>{{Cite web|title=Arab Games Overview|url=https://www.rsssf.org/tablesa/arabgam.html|access-date=3 October 2022|website=[[RSSSF]]|archive-date=30 September 2022|archive-url=https://web.archive.org/web/20220930231029/https://www.rsssf.org/tablesa/arabgam.html|url-status=live}}</ref>
+** {{Gold1}} '''Gold Medal (2)''': [[Football at the 1961 Arab Games|1961]], [[Football at the 1976 Arab Games|1976]]
+** {{Silver2}} Silver Medal (1): [[Football at the 1985 Arab Games|1985]]
+* '''[[Football at the Mediterranean Games|Mediterranean Games]]'''<ref>{{Cite web|title=Mediterranean Cup and Mediterranean Games – Overview|url=https://www.rsssf.org/tablesm/medgames.html|access-date=3 October 2022|website=[[RSSSF]]|archive-date=5 October 2022|archive-url=https://web.archive.org/web/20221005235543/https://rsssf.org/tablesm/medgames.html|url-status=live}}</ref>
+** {{Gold1}} '''Gold Medal (1)''': [[Football at the 1983 Mediterranean Games|1983]]
+
+===Awards===
+* '''[[CAF Awards#African National Team of the Year|African National Team of the Year]] (4)''': 1985, 1986, 1997, 2023
+*'''[[2025 Africa Cup of Nations|Africa Cup of Nations Fair play award]] (1)''': 2025
+
+===Orders and decorations===
+*{{#invoke:flag|Morocco}}: Officers of the Order of National Merit 2004
+:Officers of the [[Order of the Throne]] (20 December 2022)<ref>{{Cite web |last=Zouiten |first=Sara |title=King Mohammed VI Awards Atlas Lions with Wissams at Royal Reception |url=https://www.moroccoworldnews.com/2022/12/353140/king-mohammed-vi-awards-atlas-lions-with-wissams-at-royal-reception |access-date=2022-12-23 |website=moroccoworldnews |date=20 December 2022 |language=en |archive-date=24 December 2022 |archive-url=https://web.archive.org/web/20221224121217/https://www.moroccoworldnews.com/2022/12/353140/king-mohammed-vi-awards-atlas-lions-with-wissams-at-royal-reception |url-status=live }}</ref><ref>{{Cite web |date=20 December 2022 |title=King receives members of national soccer team, decorates them with Royal wissams |url=https://en.hespress.com/55519-king-receives-members-of-national-soccer-team-decorates-them-with-royal-wissams.html |access-date=2022-12-23 |website=HESPRESS English – Morocco News |language=en-US |archive-date=25 December 2022 |archive-url=https://web.archive.org/web/20221225111556/https://en.hespress.com/55519-king-receives-members-of-national-soccer-team-decorates-them-with-royal-wissams.html |url-status=live }}</ref>
+{{Col-end}}
+
+===Summary===
+{| class="wikitable" width=30% style="font-size:90; text-align:center;"
+|-
+!Competition!!{{Gold1}}!!{{Silver2}}!!{{Bronze3}}!!Total
+|-
+|align=left|[[African Cup of Nations|CAF African Cup of Nations]]
+|2||1||1||4
+|-
+|align=left|[[African Nations Championship|CAF African Nations Championship]]
+|3||0||0||3
+|-
+|align=left|[[FIFA Arab Cup]]
+|2||0||0||2
+|-
+!Total!!7!!1!!1!!9
+|}
+
+==See also==
+{{Portal|Association football|Morocco}}
+* [[Barbary lion#Cultural significance|Cultural significance of the Atlas lion]]
+* [[Morocco A' national football team]]
+* [[Morocco national under-23 football team]]
+* [[Morocco national under-20 football team]]
+* [[Morocco national under-17 football team]]
+* [[Morocco women's national football team]]
+* [[List of Morocco football players in foreign leagues]]
+* [[Morocco national football team records and statistics]]
+
+===Other football codes===
+* [[Morocco national futsal team]]
+* [[Morocco national beach soccer team]]
+
+==Notes==
+<references group="lower-alpha" />
+
+==References==
+{{Reflist|refs=
+<!--
+<ref>{{Cite web |title=Atlas Lions make history: Morocco's road to the semi-finals |url=https://www.aljazeera.com/sports/2022/12/10/world-cup-2022-moroccos-road-to-the-semi-final |url-status=live |archive-url=https://web.archive.org/web/20250213022459/https://www.aljazeera.com/sports/2022/12/10/world-cup-2022-moroccos-road-to-the-semi-final |archive-date=13 February 2025 |access-date=2025-02-13 |website=Al Jazeera |language=en}}</ref>
+
+<ref>{{Cite news |title=Morocco is the first African and Arab team to advance to the World Cup semi-finals |url=https://www.npr.org/2022/12/13/1142594844/morocco-is-the-first-african-and-arab-team-to-advance-to-the-world-cup-semi-fina |access-date=2025-02-22 |work=NPR |language=en}}</ref>
+
+<ref>{{cite web |title=Planet World Cup – Nations – Morocco |url=http://www.planetworldcup.com/NATIONS/mor.html |url-status=live |archive-url=https://web.archive.org/web/20171218174135/http://www.planetworldcup.com/NATIONS/mor.html |archive-date=18 December 2017 |access-date=21 January 2022 |website=Planet World Cup}}</ref>
+
+<ref>{{Cite web |last=Hand |first=Kevin |title=Morocco, Tunisia are in but who else has qualified for the FIFA World Cup? |url=https://www.aljazeera.com/sports/2025/9/10/who-are-the-latest-2026-fifa-world-cup-qualifying-teams-and-who-are-out |url-status=live |archive-url=https://web.archive.org/web/20251005135529/https://www.aljazeera.com/sports/2025/9/10/who-are-the-latest-2026-fifa-world-cup-qualifying-teams-and-who-are-out |archive-date=5 October 2025 |access-date=2025-11-10 |website=Al Jazeera |language=en}}</ref>
+
+<ref>{{cite news |date=10 December 2022 |title=Morocco write World Cup history as they reach semi-finals |url=https://www.reuters.com/lifestyle/sports/morocco-write-world-cup-history-they-reach-semi-finals-2022-12-10/ |access-date=23 February 2025 |work=Reuters}}</ref>
+-->
+}}
+
+==External links==
+{{Commons category}}
+* [http://www.frmf.ma/ Official website] of Morocco's FA {{in lang|ar}}
+* [https://www.fifa.com/about-fifa/associations/MAR Morocco FIFA profile]
+* [https://www.cafonline.com/member-associations/mar/ Morocco CAF profile]
+* [https://www.rsssf.org/tablesm/maro-intres.html RSSSF archive of results]
+
+{{Morocco national football team}}
+{{Navboxes top|title=Links to related articles|titlestyle=background:#C1272D; color:white; border:1px solid #006233}}
+{{Navboxes top| title = Morocco achievements and awards|titlestyle=background:#C1272D; color:white; border:1px solid #006233}}
+{{S-start}}
+{{Succession box
+| before = [[1974 African Cup of Nations|1974]]<br />{{fb|Zaire}}
+| title = [[Africa Cup of Nations|African Champions]]
+| years = [[1976 Africa Cup of Nations|1976]] (First title)
+| after = [[1978 African Cup of Nations|1978]]<br />{{fb-rt|GHA}}
+}}
+{{S-end}}
+{{Navboxes bottom}}
+{{Navboxes top| title = Morocco squads| titlestyle = background:#C1272D; color:white; border:1px solid #006233;}}
+{{Navboxes top| title = Morocco FIFA World Cup squads| titlestyle = background:#C1272D; color:white; border:1px solid #006233;}}
+{{Morocco squad 1970 FIFA World Cup}}
+{{Morocco squad 1986 FIFA World Cup}}
+{{Morocco squad 1994 FIFA World Cup}}
+{{Morocco squad 1998 FIFA World Cup}}
+{{Morocco squad 2018 FIFA World Cup}}
+{{Morocco squad 2022 FIFA World Cup}}
+{{Morocco squad 2026 FIFA World Cup}}
+{{Navboxes bottom}}
+{{Navboxes top|title = Morocco Africa Cup of Nations squads| titlestyle = background:#C1272D; color:white; border:1px solid #006233;}}
+{{Morocco squad 1976 African Cup of Nations}}
+{{Morocco squad 1986 African Cup of Nations}}
+{{Morocco squad 1988 African Cup of Nations}}
+{{Morocco squad 1992 African Cup of Nations}}
+{{Morocco squad 1998 African Cup of Nations}}
+{{Morocco squad 2000 African Cup of Nations}}
+{{Morocco squad 2002 African Cup of Nations}}
+{{Morocco squad 2004 African Cup of Nations}}
+{{Morocco squad 2006 Africa Cup of Nations}}
+{{Morocco squad 2008 Africa Cup of Nations}}
+{{Morocco squad 2012 Africa Cup of Nations}}
+{{Morocco squad 2013 Africa Cup of Nations}}
+{{Morocco squad 2017 Africa Cup of Nations}}
+{{Morocco squad 2019 Africa Cup of Nations}}
+{{Morocco squad 2021 Africa Cup of Nations}}
+{{Morocco squad 2023 Africa Cup of Nations}}
+{{Morocco squad 2025 Africa Cup of Nations}}
+{{Navboxes bottom}}
+{{Navboxes bottom}}
+{{Africa Cup of Nations winners}}
+{{African Nations Championship winners}}
+{{Men's Mediterranean Games Football winners}}
+{{FIFA Arab Cup winners}}
+{{Navboxes top| title = Competitions}}
+{{1970 FIFA World Cup finalists}}
+{{1986 FIFA World Cup finalists}}
+{{1994 FIFA World Cup finalists}}
+{{1998 FIFA World Cup finalists}}
+{{2018 FIFA World Cup finalists}}
+{{2022 FIFA World Cup finalists}}
+{{2026 FIFA World Cup finalists}}
+{{2012 Africa Cup of Nations finalists}}
+{{2013 Africa Cup of Nations finalists}}
+{{Navboxes bottom}}
+{{Moroccan football}}
+{{UAFA Football}}
+{{UNAF Football}}
+{{CAF teams}}
+{{National sports teams of Morocco}}
+{{Navboxes bottom}}
+
+{{DEFAULTSORT:Morocco National Football Team}}
+[[Category:Morocco national football team| ]]
+[[Category:African national association football teams]]
+[[Category:Africa Cup of Nations–winning countries|M]]

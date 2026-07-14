@@ -1,0 +1,1508 @@
+{{Short description|Men's association football team}}
+{{About|the men's team|the women's team|Netherlands women's national football team}}
+{{Use dmy dates|date=November 2022}}
+{{Infobox national football team
+| Name                  = Netherlands
+| Nickname              = ''Oranje''<br />''Clockwork Orange''<br />''The Flying Dutchmen''<ref>{{cite web|url=http://www.rnw.nl/english/article/holland%E2%80%99s-media-friendly-football-pros|title=Holland's media-friendly football pros|publisher=[[Radio Netherlands Worldwide]]|date=17 December 2011|access-date=25 July 2013|url-status=dead|archive-url=https://web.archive.org/web/20131012031717/http://www.rnw.nl/english/article/holland%E2%80%99s-media-friendly-football-pros|archive-date=12 October 2013}}</ref>
+| Badge                 = Netherlands national football team logo.svg
+| Badge_size            = 170px
+| Association           = [[Royal Dutch Football Association|Koninklijke Nederlandse Voetbalbond]] (KNVB)
+| Confederation         = [[UEFA]] (Europe)
+| Coach                 = Vacant
+| Captain               = [[Virgil van Dijk]]
+| Most caps             = [[Wesley Sneijder]] (134)
+| Top scorer            = [[Memphis Depay]] ([[List of international goals scored by Memphis Depay|55]])
+| Home Stadium          = [[List of football stadiums in the Netherlands|Various]]
+| FIFA Trigramme        = NED
+| FIFA Rank             = {{FIFA World Rankings|NED}}
+| FIFA max              = 1<ref>{{Cite web|url=https://www.fifa.com/fifa-world-ranking/ranking-table/men/rank/id9731/|archive-url=https://web.archive.org/web/20191006015149/https://www.fifa.com/fifa-world-ranking/ranking-table/men/rank/id9731/|url-status=dead|archive-date=6 October 2019|title=The FIFA/Coca-Cola World Ranking - Ranking Table |website=FIFA.com}}</ref>
+| FIFA max date         = August 2011
+| FIFA min              = 36<ref>{{Cite web|url=https://www.fifa.com/fifa-world-ranking/ranking-table/men/rank/id11909/|archive-url=https://web.archive.org/web/20191006021138/https://www.fifa.com/fifa-world-ranking/ranking-table/men/rank/id11909/|url-status=dead|archive-date=6 October 2019|title=The FIFA/Coca-Cola World Ranking - Ranking Table |website=FIFA.com}}</ref>
+| FIFA min date         = August 2017
+| Elo Rank              = {{World Football Elo Ratings|Netherlands}}
+| Elo max               = [[World Football Elo Ratings#List of number one teams|1]]
+| Elo max date          = 1978, 1988–1990, 1992, 2002, 2003, 2005, 2008, 2010, 2014
+| Elo min               = 49
+| Elo min date          = October 1954
+| pattern_la1           = _ned26h
+| pattern_b1            = _ned26h
+| pattern_ra1           = _ned26h
+| pattern_sh1           = _ned26h
+| pattern_so1           = 
+| leftarm1              = FF5533
+| body1                 = FF5533
+| rightarm1             = FF5533
+| shorts1               = 000000
+| socks1                = FF5533
+| pattern_la2           = _ned26a
+| pattern_b2            = _ned26a
+| pattern_ra2           = _ned26a
+| pattern_sh2           = _ned26a
+| pattern_so2           = 
+| leftarm2              = FFFFFF
+| body2                 = FFFFFF
+| rightarm2             = FFFFFF
+| shorts2               = FF6600
+| socks2                = FFFFFF
+| First game            = {{fb|BEL}} [[Belgium vs Netherlands Cups|1–4]] {{fb-rt|NED}}<br />([[Antwerp]], [[Belgium]]; 30 April 1905)
+| Largest win           = {{fb|NED}} 11–0 {{fb-rt|SMR}}<br />([[Eindhoven]], [[Netherlands]]; 2 September 2011)
+| Largest loss          = {{nowrap|{{Fbam|ENG|full=y}} 12–2 {{fb-rt|NED}}}}<br />([[Darlington]], [[England]]; 21 December 1907){{efn-ua|Note that this match is not considered to be a full international by the English [[The Football Association|Football Association]], and does not appear in the records of the [[England national football team|England team]], because professional football had already been introduced in England at that time. In the Netherlands, however, professional football was not introduced until 1954. Before then, players who left the Netherlands to turn pro in another country were banned from the national team.<!--<ref>{{cite web |url=http://www.voetbalstats.nl/listjaarnedxi.php?jaar=1907 |title=Interlands Nederlands Eiftal en 1907 |access-date=20 December 2014 | publisher=www.voetbalstats.nl }}</ref>-->}}
+| World cup apps        = 12
+| World cup first       = 1934
+| World cup best        = Runners-up ([[1974 FIFA World Cup|1974]], [[1978 FIFA World Cup|1978]], [[2010 FIFA World Cup|2010]])
+| Regional name         = [[UEFA European Championship|European Championship]]
+| Regional cup apps     = 11
+| Regional cup first    = [[UEFA Euro 1976|1976]]
+| Regional cup best     = '''Champions''' ([[UEFA Euro 1988|1988]])
+| 2ndRegional name      = [[UEFA Nations League|Nations League Finals]]
+| 2ndRegional cup apps  = 2
+| 2ndRegional cup first = [[2019 UEFA Nations League Finals|2019]]
+| 2ndRegional cup best  = Runners-up ([[2019 UEFA Nations League Finals|2019]])
+| 3rdRegional name      = [[Football at the Summer Olympics|Olympic Games]]
+| 3rdRegional cup apps  = 7
+| 3rdRegional cup first = [[Football at the 1908 Summer Olympics|1908]]
+| 3rdRegional cup best  = [[File:Bronze medal.svg|16px]] Bronze medal ([[Football at the 1908 Summer Olympics|1908]], [[Football at the 1912 Summer Olympics|1912]], [[Football at the 1920 Summer Olympics|1920]])
+| website               = {{URL|https://www.onsoranje.nl/|onsoranje.nl}} {{in lang|nl}}
+| medaltemplates        = 
+{{MedalSport|Men's [[Association football|football]]}}
+{{MedalCompetition|[[FIFA World Cup]]}}
+{{MedalSilver|[[1974 FIFA World Cup|1974 West Germany]]|[[1974 FIFA World Cup squads#Netherlands|Team]]}}
+{{MedalSilver|[[1978 FIFA World Cup|1978 Argentina]]|[[1978 FIFA World Cup squads#Netherlands|Team]]}}
+{{MedalSilver|[[2010 FIFA World Cup|2010 South Africa]]|[[2010 FIFA World Cup squads#Netherlands|Team]]}}
+{{MedalBronze|[[2014 FIFA World Cup|2014 Brazil]]|[[2014 FIFA World Cup squads#Netherlands|Team]]}}
+{{MedalCompetition|[[UEFA European Championship]]}}
+{{MedalGold|[[UEFA Euro 1988|1988 West Germany]]|[[UEFA Euro 1988 squads#Netherlands|Team]]}}
+{{MedalBronze|[[UEFA Euro 1976|1976 Yugoslavia]]|[[UEFA Euro 1976 squads#Netherlands|Team]]}}
+{{MedalCompetition|[[UEFA Nations League]]}}
+{{MedalSilver|[[2019 UEFA Nations League Finals|2019 Portugal]]|[[2019 UEFA Nations League Finals squads#Netherlands|Team]]}}
+{{MedalCompetition|[[Football at the Summer Olympics|Olympic Games]]}}
+{{MedalBronze|[[1908 Summer Olympics|1908 London]]|[[Football at the 1908 Summer Olympics|Team]]}}
+{{MedalBronze|[[1912 Summer Olympics|1912 Stockholm]]|[[Football at the 1912 Summer Olympics|Team]]}}
+{{MedalBronze|[[1920 Summer Olympics|1920 Antwerp]]|[[Football at the 1920 Summer Olympics|Team]]}}
+}}
+
+The '''Netherlands national football team'''{{efn|{{langx|nl|Nederlands voetbalelftal}}}} has represented the [[Netherlands]] in international men's [[Association football|football]] matches since 1905. The men's national team is controlled by the [[Royal Dutch Football Association]] (KNVB), the governing body for [[football in the Netherlands]], which is a part of [[UEFA]], under the jurisdiction of [[FIFA]]. Most of the Netherlands home matches are played at the [[Johan Cruyff Arena]], [[De Kuip]], [[Philips Stadion]], and [[De Grolsch Veste]].
+
+The team is colloquially referred to as ''Het Nederlands Elftal'' (The Dutch Eleven) or ''Oranje'', after the [[House of Orange-Nassau]] and their distinctive orange jerseys. Their fan club is known as ''Het Oranje Legioen'' (The Orange Legion).<ref name=HetLegioen>{{cite web|url=https://www.knvb.com/dutch-football/international-football|website=KNVB|access-date=14 March 2022|title=International football &#124; KNVB|archive-date=5 April 2022|archive-url=https://web.archive.org/web/20220405090958/https://www.knvb.com/dutch-football/international-football|url-status=live}}</ref>
+
+The Netherlands has competed in eleven [[FIFA World Cup]]s, appearing in the final three times (in [[1974 FIFA World Cup|1974]], [[1978 FIFA World Cup|1978]], and [[2010 FIFA World Cup|2010]]), finishing as runners-up on all three occasions. They have also appeared in eleven [[UEFA European Championship]]s, winning the [[UEFA Euro 1988|1988]] tournament in West Germany. Additionally, the team has won bronze medals at three [[Football at the Summer Olympics|Olympic football tournaments]], in [[Football at the 1908 Summer Olympics|1908]], [[Football at the 1912 Summer Olympics|1912]], and [[Football at the 1920 Summer Olympics|1920]]. The Netherlands has long-standing football rivalries with neighbours [[Low Countries derby|Belgium]] and [[Germany–Netherlands football rivalry|Germany]] as well as the South American country of [[Argentina–Netherlands football rivalry|Argentina]].
+
+==History==
+{{Main|History of the Netherlands national football team}}
+
+===Beginnings: 1905–1969===
+[[File:Nederlands elftal 1905 colorized.jpg|left|thumb|1905 Netherlands team]]
+
+The [[Netherlands]] played their first international match in [[Antwerp]] against [[Belgium national football team|Belgium]] on 30 April 1905, with the players selected by a five-member commission from the Dutch Football Association. After 90 minutes, the score was tied at 1–1. Since the match was for the Coupe van den Abeele, it went into extra time, during which [[Eddy de Neve]] scored [[List of Netherlands national football team hat-tricks|three times]], making the score 4–1 for the Netherlands.<ref>{{cite web|url=http://www.iffhs.de/?29da14a8db55291a14681bd4685fdcdc3bfcdc0aec28d6eda0a61c|publisher=[[International Federation of Football History & Statistics]]|title=Netherlands: Full "A" internationals (1905–1910)|access-date=15 May 2010|archive-date=3 April 2012|archive-url=https://web.archive.org/web/20120403235540/http://www.iffhs.de/?29da14a8db55291a14681bd4685fdcdc3bfcdc0aec28d6eda0a61c|url-status=live}}</ref> Some historians, however, attribute one of the goals scored to [[Willem Hesselink]].<ref>{{cite web|url=https://www.bayerncentral.com/2017/09/willem-hesselink-original-mr-bayern/|title=Willem Hesselink: The original "Mr. Bayern"|date=21 September 2017|access-date=24 April 2019|first=Rick|last=Joshua|archive-date=24 April 2019|archive-url=https://web.archive.org/web/20190424041548/https://www.bayerncentral.com/2017/09/willem-hesselink-original-mr-bayern/|url-status=dead}}</ref>
+
+In 1908, the Netherlands competed in their first official tournament at the [[Football at the 1908 Summer Olympics|Summer Olympics]] in [[London]]. They received a bronze medal after losing to [[Great Britain men's Olympic football team|Great Britain]] in the semi-finals, before defeating [[Sweden men's national football team|Sweden]] in the bronze medal match 2–0.<ref>{{Cite web |url=http://www.la84foundation.org/6oic/OfficialReports/1908/1908.pdf |title=The fourth Olympiad London 1908 |website=la84foundation.org |access-date=30 December 2008 |archive-url=https://web.archive.org/web/20070927222443/http://www.la84foundation.org/6oic/OfficialReports/1908/1908.pdf |archive-date=27 September 2007 |url-status=dead }}</ref> At the Olympic Games in 1912 and 1920, the Netherlands finished with the bronze medal as they lost to Denmark and Belgium in the respective tournament.<ref>{{cite web|url=https://www.rsssf.org/tableso/ol1912f.html|title=Games of the V. Olympiad|date=26 June 2008|first=Lars|last=Aarhus|website=[[RSSSF]]|access-date=11 February 2019|archive-date=11 July 2022|archive-url=https://web.archive.org/web/20220711203920/https://www.rsssf.org/tableso/ol1912f.html|url-status=live}}</ref><ref>{{cite web|url=https://www.rsssf.org/tableso/ol1920f.html|title=Games of the VII. Olympiad|date=29 October 2015|first1=Karel|last1=Stokkermans|first2=Mikael|last2=Jönsson|website=[[RSSSF]]|access-date=11 February 2019|archive-date=1 July 2016|archive-url=https://web.archive.org/web/20160701150243/http://www.rsssf.com/tableso/ol1920f.html|url-status=live}}</ref>
+
+[[File:Holland - Switzerland - Football World Cup 1934.jpg|thumb|Netherlands make their way out to face Switzerland at the [[1934 FIFA World Cup]].]]
+
+The Netherlands reached the semi-finals at the [[Football at the 1924 Summer Olympics|1924 Summer Olympics]] in Paris after winning against [[Romania national football team|Romania]] and [[Republic of Ireland national football team|Ireland]]. In the semi-finals, they gave up a one-goal lead, scored by [[Kees Pijl]], and lost 2–1 against Uruguay, ending up in the third place play-off for the fourth time,<ref>{{cite web|url=https://www.fifa.com/tournaments/archive/mensolympic/paris1924/matches/round=197026/match=32311/index.html|title=Netherlands – Uruguay|access-date=18 February 2019|publisher=[[FIFA]]|archive-date=18 February 2019|archive-url=https://web.archive.org/web/20190218141849/https://www.fifa.com/tournaments/archive/mensolympic/paris1924/matches/round=197026/match=32311/index.html|url-status=live}}</ref> losing to Sweden in a replay.<ref>{{cite web|url=https://www.rsssf.org/tableso/ol1924f.html|title=Games of the VIII. Olympiad|date=20 October 2015|first1=Karel|last1=Stokkermans|first2=Mikael|last2=Jönsson|access-date=18 February 2019|archive-date=11 July 2022|archive-url=https://web.archive.org/web/20220711203915/https://www.rsssf.org/tableso/ol1924f.html|url-status=live}}</ref>
+
+After being eliminated in the first round at the [[Football at the 1928 Summer Olympics|1928 Summer Olympics]] on home turf,<ref>{{cite web|url=https://www.rsssf.org/tableso/ol1928f.html|title=Games of the IX. Olympiad|date=20 October 2015|first1=Karel|last1=Stokkermans|first2=Mikael|last2=Jönsson|website=[[RSSSF]]|access-date=18 February 2019|archive-date=15 June 2023|archive-url=https://web.archive.org/web/20230615155802/https://www.rsssf.org/tableso/ol1928f.html|url-status=live}}</ref> they skipped the [[1930 FIFA World Cup|first World Cup]] in 1930 due to the cost of travel from Europe to South America.<ref name=FIFA1930>{{cite web |url=http://fifaworldcup.yahoo.com/06/en/p/pwc/1930.html |archive-url=https://web.archive.org/web/20060426212450/http://fifaworldcup.yahoo.com/06/en/p/pwc/1930.html |archive-date=26 April 2006 |title=FIFA World Cup&nbsp;– Classic Moments from FIFA World Cup History |work=FIFA |access-date=14 June 2009}}</ref> The team made their first appearance at a [[FIFA World Cup]] in [[1934 FIFA World Cup|1934]] where they took on [[Switzerland national football team|Switzerland]]. [[Kick Smit]] was the first goalscorer for the Netherlands in a World Cup. The team was eliminated in the opening round by Switzerland 3–2.<ref name="fiedler" >{{Cite book |title=The Complete History of the World Cup |last=Fielder |first=Robert |publisher=Kindle Edition |year=2018}}</ref> A second appearance at the [[1938 FIFA World Cup|1938 World Cup]] resulted in a first-round elimination against [[Czechoslovakia national football team|Czechoslovakia]].<ref>{{cite web|url=https://www.fifa.com/worldcup/matches/round=206/match=1172/index.html|archive-url=https://web.archive.org/web/20151003220353/http://www.fifa.com/worldcup/matches/round=206/match=1172/index.html|url-status=dead|archive-date=3 October 2015|title=Czechoslovakia – Netherlands|access-date=19 February 2019|publisher=[[FIFA]]}}</ref>
+
+After the Second World War, the Netherlands qualified for only two international tournaments before the 1970s: the [[Football at the 1948 Summer Olympics|1948 Summer Olympics]] in Great Britain and the [[Football at the 1952 Summer Olympics|1952 Summer Olympics]] in Finland. They suffered early elimination, losing to the hosts in 1948<ref name=1948OLY>{{cite web|url=https://www.rsssf.org/tableso/ol1948f.html|title=Games of the XIV. Olympiad|first=Lars|last=Aarhus|date=6 April 2011|access-date=11 March 2019|archive-date=11 July 2022|archive-url=https://web.archive.org/web/20220711203915/https://www.rsssf.org/tableso/ol1948f.html|url-status=live}}</ref> and to [[Brazil national football team|Brazil]] in 1952.<ref name=1952OLY>{{cite web|url=https://www.rsssf.org/tableso/ol1952f.html|title=Games of the XV. Olympiad|first=Lars|last=Aarhus|date=26 July 2012|access-date=11 March 2019|archive-date=22 September 2008|archive-url=https://web.archive.org/web/20080922182234/http://rsssf.com/tableso/ol1952f.html|url-status=live}}</ref>
+
+===Total football in the 1970s and first golden generation===
+During the 1970s, the team adopted the [[Total Football]] ({{langx|nl|Totaalvoetbal}}) strategy pioneered by [[AFC Ajax|Ajax]], and led by playmaker [[Johan Cruyff]] and national team head coach [[Rinus Michels]]. The Netherlands made significant strides, qualifying for two World Cup finals in the decade. [[Carlos Alberto Torres|Carlos Alberto]], captain of the Brazilian team that won the [[1970 FIFA World Cup]] said: "The only team I've seen that did things differently was Holland at the [[1974 FIFA World Cup|1974 World Cup]] in West Germany. Since then everything looks more or less the same to me&nbsp;... Their 'carousel' style of play was amazing to watch and marvelous for the game."<ref>{{cite web|url=http://www.tomwfootball.com/2010/10/15/tactics-were-holland-1974-the-last-true-innovators/ |title=Tactics: Were Holland 1974 the last true innovators? |publisher=Football Further |date=14 July 2010 |url-status=dead |archive-url=https://web.archive.org/web/20150702120848/http://www.tomwfootball.com/2010/10/15/tactics-were-holland-1974-the-last-true-innovators/|archive-date=2 July 2015}}</ref>
+
+[[File:Bundesarchiv Bild 183-N0716-0311, Fußball-WM, BRD - Niederlande 2-1.jpg|thumb|The Netherlands team before their 1–2 loss against [[Germany national football team|West Germany]] in the [[1974 FIFA World Cup final|final]] of the [[1974 FIFA World Cup|1974 World Cup]]]]
+
+In 1974, the Netherlands beat both Brazil and [[Argentina national football team|Argentina]] in the second group stage, reaching the final for the first time in their history. However, they lost to [[Germany national football team|West Germany]] in [[1974 FIFA World Cup final|the final]] in [[Munich]], after having gone up 1–0 through [[Johan Neeskens]]' early [[Penalty kick (association football)|penalty kick]] before a German had even touched the ball. However, a penalty by [[Paul Breitner]] and the winner from [[Gerd Müller]], led to a victory for the Germans.<ref name="74WC">{{Cite web|url=http://www.thescore.ie/holland-1974-world-cup-tragedy-1488354-Jun2014/|title=The greatest World Cup tragedies: Holland 1974|date=6 June 2014|work=The Score|access-date=6 June 2014|archive-url=https://web.archive.org/web/20140606222718/http://www.thescore.ie/holland-1974-world-cup-tragedy-1488354-Jun2014/|archive-date=6 June 2014|url-status=dead}}</ref>
+
+The [[UEFA Euro 1976|1976 European Championship]] saw the Netherlands reach their first [[UEFA European Championship|European Championship]]. Czechoslovakia defeated the Netherlands in extra time.<ref>{{cite web|url=https://www.uefa.com/uefaeuro/history/news/0254-0d7b2e5381a3-a1ffd58abfeb-1000--czechoslovakia-battle-rain-and-netherlands-to-reach-euro-/|title=Czechoslovakia rain on Dutch parade|website=UEFA|date=3 October 2003|access-date=12 March 2019|archive-date=3 April 2019|archive-url=https://web.archive.org/web/20190403203426/https://www.uefa.com/uefaeuro/season=1976/matches/round=191/match=3690/postmatch/report/index.html|url-status=live}}</ref> The Netherlands finished in third place after defeating hosts Yugoslavia in extra time.<ref>{{cite web|url=https://www.uefa.com/uefaeuro/history/news/0254-0d7b2f2bcf30-fadcecdbfdfa-1000--netherlands-edge-yugoslavia-in-euro-1976-third-place-thr/|title=Dutch edge third-place thriller|website=UEFA|date=3 October 2003|access-date=12 March 2019|archive-date=3 April 2019|archive-url=https://web.archive.org/web/20190403203419/https://www.uefa.com/uefaeuro/season=1976/matches/round=192/match=3692/postmatch/report/index.html|url-status=live}}</ref>
+
+In [[1978 FIFA World Cup|1978]], the Netherlands qualified for the World Cup in Argentina. Johan Cruyff chose not to participate in the competition after a kidnapping attempt targeting him and his family in their Barcelona home, prioritising his family's safety and well-being over playing football.<ref>{{cite news |url=https://www.theguardian.com/football/2008/apr/16/newsstory.sport15 |title=Kidnappers made Cruyff miss World Cup |work=[[The Guardian]] |location=London |date=16 April 2008 |access-date=20 June 2008 |first=Paul |last=Doyle |archive-date=5 December 2013 |archive-url=https://web.archive.org/web/20131205014012/https://www.theguardian.com/football/2008/apr/16/newsstory.sport15 |url-status=live }}</ref> [[Willem van Hanegem]] also declined to play after his AZ teammate Hugo Hovenkamp had to pull out and after he had fallen out with the Dutch coach, Ernst Happel. The squad still had players like [[Jan Jongbloed]], [[Rob Rensenbrink]], [[Johan Neeskens]], [[Wim Suurbier]], and [[Ruud Krol]] from the previous World Cup.<ref>{{cite web |url=http://easyweb.easynet.co.uk/goldkeep/Holland78/Squad.htm |title=The Squad |archive-url=https://web.archive.org/web/20090413193725/http://easyweb.easynet.co.uk/goldkeep/Holland78/Squad.htm |archive-date=13 April 2009 |access-date=22 March 2019 |url-status=live }}</ref> After finishing runners-up in Group 4 behind [[Peru national football team|Peru]], they recorded wins against Austria and [[Italy national football team|Italy]] to set up [[1978 FIFA World Cup Final|a final with Argentina]]. After a controversial start, with Argentina questioning the plaster cast on [[René van de Kerkhof]]'s wrist, the match headed to extra time where the Netherlands lost 3–1 after two goals from [[Mario Kempes]] and [[Daniel Bertoni]].<ref name="78WC">{{cite web|url=https://www.esquire.com/uk/culture/a21454856/argentina-1978-world-cup/|title=Remembering Argentina 1978: The Dirtiest World Cup Of All Time|date=14 June 2018|first=Will|last=Hersey|access-date=11 February 2019|archive-date=28 August 2020|archive-url=https://web.archive.org/web/20200828071101/https://www.esquire.com/uk/culture/a21454856/argentina-1978-world-cup/|url-status=live}}</ref>
+
+===1980s: Decline before European champions===
+[[UEFA Euro 1980|Euro 1980]] was the last tournament for which the Total Football team qualified. Despite the tournament format being expanded that year they did not advance past the group stage as they finished behind Czechoslovakia by goal difference.<ref>{{cite magazine |last=Barreca|first=Vincenzo|date=December 1999|language=it|title=La storia degli Europei – 1980 Germania Ovest|trans-title=The history of Euro Cup – 1980|magazine=Calcio 2000|publisher=Action Group|page=54}}</ref>
+
+Veterans such as Krol and Rensenbrink retired soon afterwards and the Netherlands hit a low point in their history: they missed the [[1982 FIFA World Cup|1982 World Cup]] in Spain, [[UEFA Euro 1984|Euro 1984]] in France, and the [[1986 FIFA World Cup|1986 World Cup]] in Mexico; they missed the French tournament by virtue of goals scored when [[Spain national football team|Spain]] scored twelve in the final game against [[Malta national football team|Malta]]. While both teams had the same [[goal difference]] (+16), Spain qualified having scored two more goals than the Netherlands.<ref>{{cite web|url=https://www.timesofmalta.com/articles/view/20131221/sport/spain-recalls-12-1-victory-over-malta-30-years-ago-today.499958#.Utagk_RdVc4|title=Spain's top newspaper recalls 12–1 victory over Malta 30 years ago today|website=[[Times of Malta]]|date=21 December 2013|access-date=11 March 2019|archive-date=23 January 2019|archive-url=https://web.archive.org/web/20190123121349/https://www.timesofmalta.com/articles/view/20131221/sport/spain-recalls-12-1-victory-over-malta-30-years-ago-today.499958#.Utagk_RdVc4|url-status=live}}</ref> During the qualification stage for the 1986 World Cup the Netherlands finished in second place and advanced to the play-offs against neighbours Belgium. After losing the first leg 1–0 in [[Brussels]], they held a 2–0 lead at [[Rotterdam]] with a few minutes remaining. [[Georges Grün]]'s header in the 84th minute resulted in the Netherlands' elimination as Belgium advanced to the World Cup on [[away goals rule|away goals]].<ref name=1986WCQ>{{cite web|url=https://www.rsssf.org/tables/86qual.html|title=World Cup 1986 qualifications|website=[[RSSSF]]|access-date=11 March 2019|archive-date=10 November 2022|archive-url=https://web.archive.org/web/20221110103049/https://www.rsssf.org/tables/86qual.html|url-status=live}}</ref><ref>{{cite web|url=https://www.theguardian.com/football/2013/nov/18/how-belgiums-last-gasp-goal-kept-holland-out-of-the-1986-world-cup|title=How Belgium's last-gasp goal kept Holland out of the 1986 World Cup|first=Steven|last=Pye|website=The Guardian|date=19 November 2013|access-date=11 March 2019|archive-date=28 May 2021|archive-url=https://web.archive.org/web/20210528113230/https://www.theguardian.com/football/2013/nov/18/how-belgiums-last-gasp-goal-kept-holland-out-of-the-1986-world-cup|url-status=live}}</ref>
+
+[[File:De Beker.jpg|thumb|upright|The 1988 trophy on display in [[Amsterdam]]]]
+
+[[File:Rinus Michels (1984).jpg|thumb|upright|[[Rinus Michels]]]]
+
+Rinus Michels returned, with his technical assistant [[Nol de Ruiter]], to coach the team for [[UEFA Euro 1988|Euro 1988]] in West Germany. After losing the first group match against the [[Soviet Union national football team|Soviet Union]] 1–0, the Netherlands qualified for the semi-finals by defeating [[England national football team|England]] 3–1 (with a [[List of UEFA European Championship hat-tricks|hat-trick]] by [[Marco van Basten]]), and the [[Republic of Ireland national football team|Republic of Ireland]] 1–0. Van Basten scored against the hosts in the 89th minute to sink the German side.<ref name=Riv>{{cite web|url=http://www.ajax-usa.com:80/desk/cheeseheads-vs-krauts-30-years-of-enmity.html|title=Cheeseheads vs Krauts": 30 Years of Enmity|website=Ajax-USA.com|date=14 June 2004|url-status=usurped|archive-url=https://web.archive.org/web/20100330053429/http://www.ajax-usa.com/desk/cheeseheads-vs-krauts-30-years-of-enmity.html|archive-date=30 March 2010|access-date=22 June 2006}}</ref> The Netherlands won [[UEFA Euro 1988 final|the final]] with a victory over the USSR with a header by [[Ruud Gullit]] and a volley by Van Basten. This was the national team's first major tournament win.<ref>{{cite web|url=https://www.uefa.com/uefaeuro/history/news/0253-0d7b2f78ca99-40f24ef873fd-1000--van-basten-volley-crowns-netherlands-euro-1988-final-win-ag/|title=Van Basten ends Dutch wait|date=5 October 2003|website=UEFA|access-date=19 March 2019|archive-date=2 September 2018|archive-url=https://web.archive.org/web/20180902014727/https://www.uefa.com/uefaeuro/season=1988/matches/round=210/match=22/postmatch/report/index.html|url-status=live}}</ref>
+
+The Netherlands was one of the favourites for the [[1990 FIFA World Cup|1990 World Cup]] tournament in Italy,<ref>{{cite web|url=https://apnews.com/7cb5af07edbf0ff39e9271b4c308b6d1|title=WORLD CUP NOTES|website=[[Associated Press]] |date=1 June 1990|url-status=live|archive-url=https://web.archive.org/web/20140723085722/http://www.apnewsarchive.com/1990/World-Cup-Notes/id-7cb5af07edbf0ff39e9271b4c308b6d1|archive-date=23 July 2014|access-date=24 March 2019}}</ref> but they scored only two goals in the group stage which featured England, [[Egypt national football team|Egypt]] and the Republic of Ireland. The two goal were made by Fynn Bijsterveld. After finishing the group stage with identical records, the Netherlands and the Republic of Ireland drew lots to determine which team would finish second. The Netherlands had the tougher draw against West Germany, while the Republic of Ireland faced Romania.<ref name=OddTieBreakers>{{cite web|url=https://www.theguardian.com/football/2018/jun/27/the-six-oddest-tie-breaking-rules-in-world-cup-history|title=The six oddest tie-breaking rules in World Cup history|date=27 June 2018|first=Martin|last=Belam|work=The Guardian|access-date=11 February 2019|archive-date=12 February 2019|archive-url=https://web.archive.org/web/20190212011742/https://www.theguardian.com/football/2018/jun/27/the-six-oddest-tie-breaking-rules-in-world-cup-history|url-status=live}}</ref> The match against West Germany is mostly remembered for the spitting incident involving [[Frank Rijkaard]] and [[Rudi Völler]] as the Netherlands were defeated 2–1.<ref name=Riv/>
+
+The team reached the semi-finals in the [[UEFA Euro 1992|Euro 1992]] in Sweden. They were eliminated by eventual champions [[Denmark national football team|Denmark]] when [[Peter Schmeichel]] saved Van Basten's kick in the penalty shootout.<ref>{{cite web|url=https://www.uefa.com/uefaeuro/history/news/0253-0d7b304421ec-0ee876f51d67-1000--schmeichel-helps-denmark-down-netherlands-in-euro-1992-s/|title=Schmeichel helps Denmark down Netherlands|website=[[UEFA]]|date=5 October 2003|access-date=19 March 2019|archive-date=27 March 2019|archive-url=https://web.archive.org/web/20190327102639/https://www.uefa.com/uefaeuro/season=1992/matches/round=216/match=6097/postmatch/report/index.html|url-status=live}}</ref> This was Van Basten's last major tournament as he suffered a serious ankle injury shortly after, and eventually retired at age 30 in 1995. It was also the last hurrah for Rinus Michels, who returned for one final spell in charge of the team before retiring for good after the tournament ended.
+
+[[Dick Advocaat]] took over from Michels on the understanding that he would be replaced by Johan Cruyff the following year.<ref name="Independent">{{cite news |url=https://www.independent.co.uk/sport/football-dutchman-for-whom-winning-is-losing-if-dick-advocaats-team-beat-england-in-wednesdays-world-1509666.html |archive-url=https://ghostarchive.org/archive/20220618/https://www.independent.co.uk/sport/football-dutchman-for-whom-winning-is-losing-if-dick-advocaats-team-beat-england-in-wednesdays-world-1509666.html |archive-date=18 June 2022 |url-access=subscription |url-status=live |title=Football: Dutchman for whom winning is losing: If Dick Advocaat's team beat England in Wednesday's World Cup tie he will still lose his job. Joe Lovejoy met him |last=Lovejoy |first=Joe |date=9 October 1993 |work=[[The Independent]] |access-date=2 May 2019 |location=London}}</ref> After talks between Cruyff and the KNVB broke down, Advocaat remained in charge of the national team for the [[1994 FIFA World Cup|1994 World Cup]] in the United States.<ref>{{cite news |url=http://www.highbeam.com/doc/1P2-872404.html |archive-url=https://web.archive.org/web/20121102151430/http://www.highbeam.com/doc/1P2-872404.html |url-status=dead |archive-date=2 November 2012 |title=Some Dutch Unhappy Cruyff Out of Picture |last=Goff |first=Steven |date=24 January 1994 |newspaper=[[The Washington Post]] |access-date=29 November 2009}}</ref> In the World Cup, Van Basten and [[Forward (association football)|striker]] Ruud Gullit were injured;<ref>{{cite web|url=https://www.goal.com/en/slideshow/656/4?ICID=OP|title=Ten international player v manager bust-ups|website=goal.com|date=11 October 2012|access-date=24 March 2019}}</ref> Dennis Bergkamp led the team with three goals and the Netherlands advanced to the quarter-finals, where they lost 3–2 to eventual champions Brazil.<ref name=1994WC>{{cite web|url=https://www.bbc.co.uk/blogs/chrisbevan/2010/05/the_story_of_the_1994_world_cu.html|title=The story of the 1994 World Cup|first=Chris|last=Bevan|publisher=[[BBC]]|date=27 May 2010|access-date=11 February 2019|archive-date=14 August 2018|archive-url=https://web.archive.org/web/20180814220142/http://www.bbc.co.uk/blogs/chrisbevan/2010/05/the_story_of_the_1994_world_cu.html|url-status=live}}</ref>
+
+===Second golden generation: 1996–2014===
+[[File:Scotland-holland euro 96.jpg|thumb|Netherlands at the [[UEFA Euro 1996|Euro 1996]] match against Scotland at [[Villa Park]] stadium in [[Birmingham]]]]
+
+With [[Guus Hiddink]] as manager, Holland went to [[UEFA Euro 1996|Euro 1996]]. After finishing second in their group, they played [[France national football team|France]] in the quarter-finals. With the score 0–0, the match went to penalties. [[Clarence Seedorf]]'s shot in the fourth round was stopped by French goalkeeper [[Bernard Lama]], and the penalty by [[Laurent Blanc]] eliminated the Netherlands.<ref>{{cite web|url=https://www.uefa.com/uefaeuro/history/news/0254-0d7b2e30f9c9-aa62ed408a94-1000--france-reach-euro-96-last-four-after-shoot-out-success-agai/|title=France reach last four after shoot-out success|website=[[UEFA]]|date=6 October 2003|access-date=15 March 2019|archive-date=20 September 2017|archive-url=https://web.archive.org/web/20170920100018/http://www.uefa.com/uefaeuro/season=1996/matches/round=223/match=52912/postmatch/report/index.html|url-status=live}}</ref> After they finished top of the [[1998 FIFA World Cup qualification – UEFA Group 7|qualifying group]], they were drawn in Group E of the [[1998 FIFA World Cup|1998 World Cup]]. With the Netherlands team featuring Dennis Bergkamp, [[Marc Overmars]], [[Phillip Cocu]], [[Edgar Davids]], [[Frank de Boer]], [[Ronald de Boer]] and [[Patrick Kluivert]], they reached the semi-finals where they again lost on penalties, this time to Brazil. They then lost the third place play-off to [[Croatia national football team|Croatia]].<ref>{{cite web|url=http://sportsillustrated.cnn.com/soccer/world/events/1998/worldcup/news/1998/07/07/brazil_update/|title=Orange crushed|date=7 July 1998|location=Marseille|archive-url=https://web.archive.org/web/20020223102130/http://sportsillustrated.cnn.com/soccer/world/events/1998/worldcup/news/1998/07/07/brazil_update/|archive-date=23 February 2002 |url-status=live }}</ref><ref>{{cite web|url=http://sportsillustrated.cnn.com/soccer/world/events/1998/worldcup/news/1998/07/12/croatia_reaction/|title=Croatia goes home satisfied|date=12 July 1998|location=Marseille|archive-url=https://web.archive.org/web/20020212094151/http://sportsillustrated.cnn.com/soccer/world/events/1998/worldcup/news/1998/07/12/croatia_reaction/|archive-date=12 February 2002 |url-status=live }}</ref> Soon afterwards, Hiddink resigned, to be replaced by Frank Rijkaard. The Netherlands co-hosted [[UEFA Euro 2000|Euro 2000]] with Belgium and won all three games in the group stage and then defeated [[Serbia and Montenegro national football team|FR Yugoslavia]] 6–1 in the quarter-finals. In the semi-finals, Italian goalkeeper [[Francesco Toldo]] made two penalty shootout saves to eliminate the Netherlands. The team failed to qualify for the [[2002 FIFA World Cup|2002 World Cup]] after crucial losses to [[Portugal national football team|Portugal]] and the Republic of Ireland, prompting manager [[Louis van Gaal]] to resign.<ref>{{cite news |url=https://www.theguardian.com/football/blog/2011/nov/18/joy-of-six-republic-ireland-football |title=The Joy of Six: Republic of Ireland football moments |work=The Guardian |date=18 November 2011 |access-date=12 July 2014 |archive-date=14 July 2014 |archive-url=https://web.archive.org/web/20140714220654/http://www.theguardian.com/football/blog/2011/nov/18/joy-of-six-republic-ireland-football |url-status=live }}</ref>
+
+[[File:Training Netherlands in Freiburg.JPG|thumb|left|Netherlands at the [[2006 FIFA World Cup|2006 World Cup]]]]
+
+Dick Advocaat became the national coach of the Netherlands for the second time in January 2002.<ref name="Dual">{{cite news |url=https://www.independent.co.uk/sport/football/scottish/advocaat-stays-at-rangers-but-takes-dutch-job-670274.html |archive-url=https://ghostarchive.org/archive/20220618/https://www.independent.co.uk/sport/football/scottish/advocaat-stays-at-rangers-but-takes-dutch-job-670274.html |archive-date=18 June 2022 |url-access=subscription |url-status=live |title=Advocaat stays at Rangers but takes Dutch job |last=Pierson |first=Mark |date=26 January 2002 |work=[[The Independent]] |access-date=28 December 2009 |location=London}}</ref> They qualified for [[UEFA Euro 2004]] after beating [[Scotland national football team|Scotland]] in emphatic fashion in the play-offs.<ref>{{cite web|url=https://www.uefa.com/uefaeuro/history/news/0254-0d7b3189f957-32e27f106f77-1000--dutch-find-winning-formula/|title=Dutch find winning formula|first=Pete|last=Sanderson|website=UEFA|date=20 November 2003|access-date=12 March 2019|location=[[Amsterdam ArenA]]|archive-date=12 October 2019|archive-url=https://web.archive.org/web/20191012172538/https://www.uefa.com/uefaeuro/season=2004/matches/round=1580/match=73610/postmatch/report/index.html|url-status=live}}</ref> The tournament saw the Netherlands reach the semi-finals where they lost to hosts Portugal.<ref>{{cite web|url=https://www.uefa.com/uefaeuro/history/news/0254-0d7b3189f957-32e27f106f77-1000--dutch-find-winning-formula/|title=Maniche has final say against Oranje|first=Adam|last=Szreter|website=UEFA|date=1 July 2004|access-date=12 March 2019|location=[[Estádio José Alvalade]]|archive-date=12 October 2019|archive-url=https://web.archive.org/web/20191012172538/https://www.uefa.com/uefaeuro/season=2004/matches/round=1580/match=73610/postmatch/report/index.html|url-status=live}}</ref> Advocaat resigned following criticism of his leadership in July 2004.<ref name="Quits">{{cite news |url=https://www.telegraph.co.uk/sport/2382529/Advocaat-quits-Holland.html |archive-url=https://ghostarchive.org/archive/20220111/https://www.telegraph.co.uk/sport/2382529/Advocaat-quits-Holland.html |archive-date=11 January 2022 |url-access=subscription |url-status=live |title=Advocaat quits Holland |last=Groves |first=Nancy |date=7 July 2004 |work=[[The Daily Telegraph]] |access-date=28 December 2009 |location=London}}{{cbignore}}</ref>
+
+The Netherlands qualified for the [[2006 FIFA World Cup|2006 World Cup]] under new manager Marco van Basten. They were eliminated in the second round after losing 1–0 to Portugal. The match produced 16 [[Fouls and misconduct (association football)|yellow cards]], matching the World Cup record for most cautions in one game set in 2002, and set a new World Cup record of [[Fouls and misconduct (association football)|four red cards]], two per side;<ref name=abc>{{cite web|url=http://www.abc.net.au/sport/columns/200607/s1681791.htm|title=Fair play takes a dive|work=[[ABC Sport]]|date=8 July 2006|access-date=16 January 2008|archive-date=27 August 2017|archive-url=https://web.archive.org/web/20170827091041/http://www.abc.net.au/sport/columns/200607/s1681791.htm|url-status=live}}</ref> it was nicknamed "the [[Battle of Nuremberg (2006 FIFA World Cup)|Battle of Nuremberg]]" by the press.<ref name=Nuremberg>{{cite web |url=http://www.abc.net.au/news/newsitems/200606/s1671528.htm |title=Portugal wins battle of Nuremberg |first=Stuart |last=Watt |location=Nuremberg|date=26 June 2006 |publisher=[[Australian Broadcasting Corporation]]|archive-url=https://web.archive.org/web/20100811060538/http://www.abc.net.au/news/newsitems/200606/s1671528.htm|archive-date=11 August 2010|url-status=dead}}</ref> Despite criticism surrounding his selection decisions and the lack of attacking football from his team, Van Basten was offered a two-year extension to his contract by the KNVB. This allowed him to serve as national coach during [[UEFA Euro 2008|Euro 2008]] and the [[2010 FIFA World Cup|2010 World Cup]].<ref>{{cite web |url=http://www.football.co.uk/netherlands/van_basten_on_right_track_230197.shtml |title=Van Basten on right track |access-date=4 May 2012 |date=27 June 2006 |publisher=Football.co.uk |archive-date=12 October 2013 |archive-url=https://web.archive.org/web/20131012045346/http://www.football.co.uk/netherlands/van_basten_on_right_track_230197.shtml |url-status=live }}</ref> The Netherlands qualified for Euro 2008, where they were drawn in the "[[Group of death|Group of Death]]", together with France, Italy and Romania.<ref>{{cite news |title=Italy and France in Euro 2008 'group of death' |url=http://soccernet.espn.go.com/news/story?id=486945&cc=5901 |work=ESPN Soccernet |publisher=ESPN |date=2 December 2007 |access-date=3 March 2008 |archive-date=5 October 2012 |archive-url=https://web.archive.org/web/20121005141133/http://soccernet.espn.go.com/news/story?id=486945&cc=5901 |url-status=dead }}</ref> They began with a 3–0 win over world champions Italy in [[Bern]], their first victory over the Italians since 1978. They then beat France by 4–1 to qualify for the second round, and went on winning the group on nine points after beating Romania 2–0. However, they then lost in the quarter-finals to Guus Hiddink's [[Russia national football team|Russia]] 3–1, with [[Ruud van Nistelrooy]] scoring an 86th-minute equaliser to force extra time, where the Russians scored twice through [[Andrey Arshavin]]. Following the tournament, Van Basten resigned having accepted the role at Ajax.<ref name="Van Basten takes Ajax role">{{cite news |url=http://www.skysports.com/story/0,19528,11913_3183560,00.html |title=Van Basten takes Ajax role |publisher=Sky Sports |date=22 February 2008|archive-url=https://web.archive.org/web/20121007103420/https://www.skysports.com/story/0,19528,11913_3183560,00.html |archive-date=7 October 2012 |url-status=live}}</ref>
+
+[[File:Holland - France Euro 2008 entrance into stadium.JPG|thumb|Netherlands&nbsp;– France at Euro 2008]]
+
+[[File:Netherlands - Denmark WC2010.jpg|thumb|Netherlands&nbsp;– Denmark at the 2010 World Cup]]
+
+Under new coach [[Bert van Marwijk]], the Netherlands went on to secure a 100% record in [[2010 FIFA World Cup qualification&nbsp;– UEFA Group 9|their World Cup 2010 qualification campaign]], winning all their eight games to qualify for the World Cup. After they had comfortably qualified with maximum points in Group E<ref>{{cite web|url=https://www.fifa.com/worldcup/news/dutch-comfort-japanese-firecrackers-1258926|archive-url=https://web.archive.org/web/20190404142729/https://www.fifa.com/worldcup/news/dutch-comfort-japanese-firecrackers-1258926|url-status=dead|archive-date=4 April 2019|title=Dutch comfort, Japanese firecrackers|website=FIFA|date=25 June 2010|access-date=15 March 2019}}</ref> and [[Slovakia national football team|Slovakia]]<ref name=NEDVSSVK>{{cite web|url=https://www.fifa.com/worldcup/news/returning-robben-helps-sink-slovakia-1261846|archive-url=https://web.archive.org/web/20180909185518/https://www.fifa.com/worldcup/news/returning-robben-helps-sink-slovakia-1261846|url-status=dead|archive-date=9 September 2018|title=Returning Robben helps sink Slovakia|date=28 June 2010|access-date=25 February 2019|publisher=FIFA}}</ref> in the round of 16, they took on Brazil in the quarter-finals. After trailing 1–0 at half-time, [[Wesley Sneijder]] scored two goals in the second half to advance the team to the semi-finals where they beat [[Uruguay national football team|Uruguay]] 3–2.<ref name=NEDVSBRA>{{cite web|url=https://www.fifa.com/worldcup/news/dutch-fightback-buries-brazil-1264985|archive-url=https://web.archive.org/web/20180601191007/http://www.fifa.com/worldcup/news/dutch-fightback-buries-brazil-1264985|url-status=dead|archive-date=1 June 2018|title=Dutch fightback buries Brazil|date=2 July 2010|access-date=25 February 2019|publisher=FIFA}}</ref> They advanced to their first World Cup final since 1978 but [[2010 FIFA World Cup Final|fell to Spain 1–0]] after midfielder [[Andrés Iniesta]] scored in extra time.<ref name="2010WCF">{{cite web|url=https://www.fifa.com/worldcup/news/iniesta-puts-spain-top-the-world-1272241|archive-url=https://web.archive.org/web/20180518105715/http://www.fifa.com/worldcup/news/iniesta-puts-spain-top-the-world-1272241|url-status=dead|archive-date=18 May 2018|title=Iniesta puts Spain on top of the world|date=11 July 2010|publisher=FIFA|access-date=25 February 2019}}</ref> From August to September 2011, the team was ranked number one in the [[FIFA Men's World Ranking|FIFA World Ranking]],<ref>{{cite web |title=FIFA Ranking: Netherlands dethrone Spain |url=http://www.football-rankings.info/2011/08/fifa-ranking-netherlands-dethrone-spain.html |work=Football-Rankings.info |date=12 August 2011 |access-date=24 August 2011 |archive-date=19 June 2014 |archive-url=https://web.archive.org/web/20140619221506/http://www.football-rankings.info/2011/08/fifa-ranking-netherlands-dethrone-spain.html |url-status=live }}</ref> becoming the second national football team, after Spain, to top the ranking without previously winning a World Cup.
+
+For [[UEFA Euro 2012|Euro 2012]], the Netherlands were placed in Group B with Germany, Portugal and Denmark, dubbed the tournament "Group of Death".<ref>{{cite web|url=http://www.livesoccertv.com/news/4747/uefa-euro-2012-group-of-death-germany-with-portugal-holland-who-ll-be-doomed/|title=UEFA Euro 2012 Group of Death: Germany with Portugal & Holland. Who'll be doomed?|last=Asante|first=Angela|date=2 December 2011|publisher=Livesoccertv|access-date=3 December 2011|archive-date=30 April 2012|archive-url=https://web.archive.org/web/20120430200211/http://www.livesoccertv.com/news/4747/uefa-euro-2012-group-of-death-germany-with-portugal-holland-who-ll-be-doomed/|url-status=live}}</ref> The Netherlands lost all three of their group matches in a tournament for the first time in their history. Manager Bert van Marwijk resigned after the disappointment.<ref>{{cite news|title=Euro 2012: Bert van Marwijk quits as Netherlands coach|url=https://www.bbc.com/sport/0/football/18620504|date=27 June 2012|work=BBC News|access-date=18 June 2015|archive-date=19 August 2015|archive-url=https://web.archive.org/web/20150819064828/http://www.bbc.com/sport/0/football/18620504|url-status=live}}</ref>
+
+Louis van Gaal became the manager for the second time. In the [[2014 FIFA World Cup qualification (UEFA)|2014 World Cup UEFA qualifying round]], the Netherlands won nine games and drew one, topping the group and earning automatic qualification. They were drawn into [[2014 FIFA World Cup Group B|Group B]], alongside Spain, [[Chile national football team|Chile]] and [[Australia men's national soccer team|Australia]]. The team avenged their 2010 defeat by defeating title holders Spain 5–1 in their opening match.<ref name=NEDESP2014>{{cite web|url=https://www.theguardian.com/football/2014/jun/13/spain-holland-world-cup-2014-group-b-match-report|title=Spain humiliated as rampant Holland blast five in World Cup shock|first=Paul|last=Wilson|work=[[The Guardian]]|date=14 June 2014|access-date=11 March 2019|archive-date=28 November 2018|archive-url=https://web.archive.org/web/20181128052650/https://www.theguardian.com/football/2014/jun/13/spain-holland-world-cup-2014-group-b-match-report|url-status=live}}</ref>
+
+[[File:FIFA World Cup 2010 Final Netherlands team.JPG|thumb|The national football team of the Netherlands before the 2010 FIFA World Cup final]]
+
+After finishing top of Group B, the Netherlands defeated [[Mexico national football team|Mexico]] 2–1 in the round of 16, with Wesley Sneijder equalising late in the match and [[Klaas-Jan Huntelaar]] scoring a penalty.<ref name=NEDvMEX>{{cite web|url=https://www.theguardian.com/football/2014/jun/29/holland-mexico-world-cup-2014-last-16-match-report|title=Holland come from behind to snatch last-gasp victory against Mexico|first=Sid|last=Lowe|work=[[The Guardian]]|date=30 June 2014|access-date=11 March 2019|archive-date=4 April 2019|archive-url=https://web.archive.org/web/20190404113812/https://www.theguardian.com/football/2014/jun/29/holland-mexico-world-cup-2014-last-16-match-report|url-status=live}}</ref> In the quarter-finals, where they faced [[Costa Rica national football team|Costa Rica]]. After a 0–0 draw, the Netherlands won the ensuing penalty shootout 4–3. Backup goalkeeper [[Tim Krul]] was brought on just before the end of extra time and made two saves in the shootout.<ref name=CRCvNED>{{cite web|last1=FIFA|title=Tenacity triumphs as last four completed|url=https://www.fifa.com/worldcup/news/y=2014/m=7/news=tenacity-triumphs-as-last-four-completed-2400196.html|archive-url=https://web.archive.org/web/20140707155011/http://www.fifa.com/worldcup/news/y=2014/m=7/news=tenacity-triumphs-as-last-four-completed-2400196.html|url-status=dead|archive-date=7 July 2014|website=FIFA.com|publisher=FIFA}}</ref>
+
+In the semi-final against Argentina, the Netherlands were eliminated 4–2 on penalties.<ref>{{cite news|url=http://nos.nl/artikel/672991-oranje-ten-onder-na-strafschoppen.html|website=NOS.nl|date=10 July 2014|title=Oranje ten onder na strafschoppen|trans-title=Orange perished after penalties|language=nl|access-date=18 June 2015|archive-date=19 June 2015|archive-url=https://web.archive.org/web/20150619010853/http://nos.nl/artikel/672991-oranje-ten-onder-na-strafschoppen.html|url-status=live}}</ref> The Netherlands won the third place match against hosts Brazil. Van Gaal, who successfully motivated the team after their semi-final elimination,<ref>{{cite web |url=http://www.goal.com/en-india/news/3832/2014-world-cup/2014/07/13/4955338/van-gaal-we-showed-how-good-we-are |title=Van Gaal: We showed how good we are |first=Ben |last=Hayward |date=13 July 2014 |website=Goal.com |access-date=18 June 2015 |archive-date=24 September 2015 |archive-url=https://web.archive.org/web/20150924150030/http://www.goal.com/en-india/news/3832/2014-world-cup/2014/07/13/4955338/van-gaal-we-showed-how-good-we-are |url-status=live }}</ref> received praise for getting more out of the young and inexperienced Netherlands squad than many expected.<ref>{{cite news|url=https://www.sbnation.com/soccer/2014/7/13/5895081/world-cup-2014-results-reaction-and-analysis-brazil-suffer-again-as|title=Brazil Turn Up At Their Own Funeral|first=Graham|last=MacAree|website=SBNation.com|date=13 July 2014|access-date=18 June 2015|archive-date=1 July 2015|archive-url=https://web.archive.org/web/20150701073845/http://www.sbnation.com/soccer/2014/7/13/5895081/world-cup-2014-results-reaction-and-analysis-brazil-suffer-again-as|url-status=live}}</ref><ref>{{cite news |url=http://www.soccerladuma.co.za/news/articles/leagues/world-cup/jose-mourinho-hails-louis-van-gaal-and-slams-alejandro-sabella/169292 |title=Mourinho: Van Gaal Best Coach At World Cup |date=14 July 2014 |first=David |last=Kappel |work=Soccer Laduma |access-date=18 June 2015 |archive-date=3 July 2015 |archive-url=https://web.archive.org/web/20150703220805/http://www.soccerladuma.co.za/news/articles/leagues/world-cup/jose-mourinho-hails-louis-van-gaal-and-slams-alejandro-sabella/169292 |url-status=live }}</ref>
+
+===Decline and recovery: 2014–present===
+Guus Hiddink followed Van Gaal as manager for the [[UEFA Euro 2016 qualifying|Euro 2016 qualifying]] campaign. On 29 June 2015, Hiddink resigned and was succeeded by his assistant [[Danny Blind]]. The Netherlands finished fourth in their group, failing to qualify for the European Championship for the first time since 1984, and missing a major tournament for the first time since 2002.<ref>{{cite web|url=https://www.bbc.com/sport/0/football/33544119|title=Holland 2 Czech Republic 3|date=13 October 2015|work=BBC Sport|access-date=14 October 2015|archive-date=14 October 2015|archive-url=https://web.archive.org/web/20151014195954/http://www.bbc.com/sport/0/football/33544119|url-status=live}}</ref> The team's poor form continued into the [[2018 FIFA World Cup qualification (UEFA)|2018 World Cup qualifiers]], eventually resulting in Blind being dismissed after a 2–0 defeat to [[Bulgaria national football team|Bulgaria]] in March 2017. After the return of Dick Advocaat as coach, the Netherlands failed to qualify for the [[2018 FIFA World Cup|2018 World Cup]], finishing third in [[2018 FIFA World Cup qualification – UEFA Group A|Group A]] behind France and [[Sweden men's national football team|Sweden]].<ref>{{cite news|url=http://www.smh.com.au/sport/soccer/a-win-for-the-netherlands-but-not-enough-to-secure-world-cup-qualification-20171010-gyycx4.html|title=A win for the Netherlands, but not enough to secure World Cup qualification|date=11 October 2017|work=Sydney Morning Herald|url-status=dead|archive-url=https://web.archive.org/web/20171012002420/http://www.smh.com.au/sport/soccer/a-win-for-the-netherlands-but-not-enough-to-secure-world-cup-qualification-20171010-gyycx4.html|archive-date=12 October 2017}}</ref>
+
+In February 2018, Advocaat was replaced by [[Ronald Koeman]], on a contract until the summer of 2022.<ref>{{cite news |title=Ronald Koeman appointed as Netherlands manager |url=https://www.theguardian.com/football/2018/feb/05/ronald-koeman-netherlands-manager-everton |access-date=4 December 2018 |work=The Guardian |agency=Press Association |date=5 February 2018 |archive-date=4 December 2018 |archive-url=https://web.archive.org/web/20181204151626/https://www.theguardian.com/football/2018/feb/05/ronald-koeman-netherlands-manager-everton |url-status=live }}</ref> The Netherlands qualified for League A in the [[2018–19 UEFA Nations League|UEFA Nations League]] which they would win to qualify for the final four after drawing with Germany on the last match day, beating France on the head-to-head record.<ref>{{cite web|url=https://www.nytimes.com/2018/11/19/sports/uefa-nations-league-netherlands-germany.html|title=The Dutch Rally to Reach the UEFA Nations League Final Four|date=19 November 2018|access-date=1 May 2019|work=The New York Times|archive-date=1 May 2019|archive-url=https://web.archive.org/web/20190501005552/https://www.nytimes.com/2018/11/19/sports/uefa-nations-league-netherlands-germany.html|url-status=live}}</ref> The Netherlands beat [[England national football team|England]] in the semi-finals of the Nations League, but lost 1–0 in the final against [[Portugal national football team|Portugal]].<ref>{{cite web|url=https://www.bbc.com/sport/football/48191922|title=Portugal 1 Holland 0|date=9 June 2019|work=BBC Sport|access-date=16 November 2019|archive-date=22 May 2020|archive-url=https://web.archive.org/web/20200522164835/https://www.bbc.com/sport/football/48191922|url-status=live}}</ref>
+
+The Netherlands qualified for [[UEFA Euro 2020 qualifying Group C|UEFA Euro 2020]],<ref>{{cite web|url=https://www.eurosport.com/football/euro-qualifying/2020/northern-ireland-suffer-penalty-heartbreak-as-germany-netherlands-qualify-for-euro-2020_sto7538664/story.shtml|title=Northern Ireland suffer penalty heartbreak as Germany, Netherlands qualify for Euro 2020|date=16 November 2019|access-date=16 November 2019|archive-date=13 September 2023|archive-url=https://web.archive.org/web/20230913064453/https://www.eurosport.com/geoblocking.shtml|url-status=live}}</ref> however following the qualification, Ronald Koeman resigned from the team to coach [[FC Barcelona|Barcelona]], eventually to be succeeded by [[Frank de Boer]]. With the [[COVID-19 pandemic in Europe|coronavirus pandemic]] postponing [[UEFA Euro 2020|Euro 2020]] to 2021, the Netherlands played their group matches at home at the Johan Cruyff Arena in Amsterdam, beating [[Ukraine national football team|Ukraine]] 3–2, [[Austria national football team|Austria]] 2–0 and [[North Macedonia national football team|North Macedonia]] 3–0. However, the tournament ended in disappointment for the Netherlands once more, as they were beaten 2–0 by the [[Czech Republic national football team|Czech Republic]] in their round of 16 tie in [[Puskás Aréna|Budapest]]. Two days later, De Boer left his position.<ref>{{Cite web|url=https://nos.nl/l/2387210|title=Frank de Boer stapt per direct op als bondscoach van het Nederlands elftal|website=nos.nl|date=29 June 2021|access-date=25 July 2021|archive-date=13 September 2023|archive-url=https://web.archive.org/web/20230913064410/https://nos.nl/collectie/13781/artikel/2387210-frank-de-boer-stapt-per-direct-op-als-bondscoach-van-het-nederlands-elftal|url-status=live}}</ref> He was replaced by Louis van Gaal, who came out of retirement to return for a third spell in charge of the side.<ref>{{cite web |url=https://www.theguardian.com/football/2021/aug/04/louis-van-gaal-named-as-netherlands-manager-for-third-time |title=Louis van Gaal named as Netherlands manager for third time |agency=Reuters |work=The Guardian |date=4 August 2021 |access-date=24 August 2021 |archive-date=2 September 2021 |archive-url=https://web.archive.org/web/20210902144510/https://www.theguardian.com/football/2021/aug/04/louis-van-gaal-named-as-netherlands-manager-for-third-time |url-status=live }}</ref> On 16 November 2021, the Netherlands qualified for the [[2022 FIFA World Cup|2022 World Cup]] after beating [[Norway national football team|Norway]] 2–0 and topping their [[2022 FIFA World Cup qualification – UEFA Group G|qualification group]] on the final day. In the [[2022 FIFA World Cup|2022 World Cup]], the Netherlands topped their group with 7 points. They progressed to the quarter-finals where they eventually lost to [[Argentina national football team|Argentina]] on penalties.<ref>{{Cite web|url=https://www.foxsports.com/stories/soccer/world-cup-2022-top-plays-netherlands-argentina-quarterfinals|title=Netherlands vs. Argentina highlights: Argentina wins in dramatic PKs|website=Fox Sports|date=9 December 2022|access-date=9 December 2022|archive-date=9 December 2022|archive-url=https://web.archive.org/web/20221209211544/https://www.foxsports.com/stories/soccer/world-cup-2022-top-plays-netherlands-argentina-quarterfinals|url-status=live}}</ref> The tournament was a farewell to manager Louis Van Gaal. He had come out of retirement, despite suffering from prostate cancer and promising his wife he was done with football. According to Dutch media, Van Gaal hid his health struggles from the Dutch team in the build up to the World Cup, even attending training with a catheter in.{{citation needed|date=June 2025}}
+
+At [[UEFA Euro 2024|Euro 2024]], the Netherlands qualified from the group stage as one of the best third place teams after a win against [[Poland national football team|Poland]], a draw with [[France national football team|France]] and a defeat to [[Austria national football team|Austria]].<ref>{{Cite web|title=Poland v. Netherlands - UEFA Euro 2024|url=https://www.uefa.com/uefaeuro/match/2036167/|website=[[UEFA]]|access-date=20 July 2024}}</ref><ref>{{Cite web|title=Netherlands v. France - UEFA Euro 2024|url=https://www.uefa.com/uefaeuro/match/2036180/|website=[[UEFA]]|access-date=20 July 2024}}</ref><ref>{{Cite web|title=Netherlands v. Austria - UEFA Euro 2024|url=https://www.uefa.com/uefaeuro/match/2036192/|website=[[UEFA]]|access-date=20 July 2024}}</ref> In the round of 16, the Netherlands won 3–0 against [[Romania national football team|Romania]].<ref>{{Cite web|title=How the Netherlands cruised past Romania with Cody Gakpo starring in the 3–0 last-16 win|url=https://www.nytimes.com/athletic/live-blogs/romania-netherlands-live-updates-euro-2024-score-result/qNYcJoudcRPa/|website=The New York Times|date=2 July 2024|access-date=20 July 2024}}</ref> In the quarter-final, they faced [[Turkey national football team|Turkey]] who initially took the lead before [[Stefan de Vrij]] equalised for the Netherlands. The comeback was completed with an own goal by [[Mert Müldür]].<ref>{{Cite web|title=Netherlands v. Turkey – BBC Sport|url=https://www.bbc.com/sport/football/live/cg3e7v2dqg8t|website=BBC|access-date=20 July 2024}}</ref> In the semi-final, they were eliminated by England after a late goal.<ref>{{Cite web|title=England 2–1 Netherlands, Ollie Watkins scores as England reach the Euro finale|url=https://www.bbc.com/sport/football/live/cjern44reddt|website=BBC|access-date=20 July 2024}}</ref>
+
+At the [[2026 FIFA World Cup|2026 World Cup]], the Netherlands topped their group with 7 points before being knocked out in the round of 32 on penalties by [[Morocco national football team|Morocco]]. In the wake of their exit from the tournament Ronald Koeman announced his resignation as manager.
+
+==Team image==
+===Kits and crest===
+{{Commons|Netherlands national football team kits}}
+
+[[File:Netherlands fans - 2006 FIFA World Cup.jpg|thumb|Dutch fans wearing the [[Oranjegekte|traditional orange]] colours at a [[2006 FIFA World Cup|2006 World Cup]] match in [[Stuttgart]]]]
+
+The Netherlands national football team famously plays in bright orange shirts. Orange is the historic [[national colours|national colour]] of the Netherlands, originating from one of the many titles of the ruling head of state, [[Prince of Orange]]. The current Netherlands away shirt is blue. The lion on the crest is the Netherlands' national and royal animal and has been on the crest since 1907 when they won 3–1 over Belgium.<ref>{{cite web|url=https://www.goal.com/en-gb/news/6815/hyundai/2014/06/12/4877196/why-netherlands-fans-dress-up-as-orange-lions|title=Why Netherlands fans dress up as orange lions|access-date=13 May 2019|publisher=goal.com|first=Stefan|last=Coerts|archive-date=13 May 2019|archive-url=https://web.archive.org/web/20190513010420/https://www.goal.com/en-gb/news/6815/hyundai/2014/06/12/4877196/why-netherlands-fans-dress-up-as-orange-lions|url-status=live}}</ref> It is different from the [[Netherlands women's national football team|women's team]] logo, which sports a lioness. 
+
+[[Nike, Inc.|Nike]] is the national team's [[Kit (association football)|kit]] provider, a sponsorship that began in 1996 and is contracted to continue until at least 2026.<ref>{{cite news|url=http://news.nike.com/news/dutch-national-team-and-nike-to-renew-partnership|title=Dutch National Team and Nike Renew Partnership|newspaper=Nike News|publisher=Nike|date=20 June 2014|access-date=13 May 2019|archive-date=5 April 2018|archive-url=https://web.archive.org/web/20180405152826/https://news.nike.com/news/dutch-national-team-and-nike-to-renew-partnership|url-status=live}}</ref> Before that the team was supplied by [[Adidas]] and [[Lotto Sport Italia|Lotto]].<ref>{{cite book|last=Devlin|first=John|date=17 May 2018|title=International Football Kits (True Colours): The Illustrated Guide|url=https://books.google.com/books?id=tKhVDwAAQBAJ&q=Lotto+Netherlands+kits+history&pg=PA110|page=110|publisher=Bloomsbury|isbn=9781472956262|access-date=18 November 2020|archive-date=13 September 2023|archive-url=https://web.archive.org/web/20230913064409/https://books.google.com/books?id=tKhVDwAAQBAJ&q=Lotto+Netherlands+kits+history&pg=PA110|url-status=live}}</ref>
+
+===Kit suppliers===
+{| class="wikitable"
+|-
+!Kit supplier
+!Period
+!Notes
+|-
+|{{flagicon|NED}} [[:nl:Tweka|Tweka]]<ref name="auto1">{{Cite web |title=500 wedstrijdgedragen Oranje-shirts |url=https://staantribune.nl/themas-en-verhalen/500-wedstrijdgedragen-oranje-shirts/ |access-date=2024-02-08 |website=Staantribune |language=nl-NL}}</ref><ref name="auto">{{Cite web |title=Voetbalshirts #3: Nederlands Elftal [podcast] |url=https://staantribune.nl/themas-en-verhalen/voetbalshirts-3-nederlands-elftal-podcast/ |access-date=2024-02-28 |website=Staantribune |language=nl-NL}}</ref>
+|1934–1966
+|
+|-
+|{{flagicon|ENG}} [[Umbro]]
+|1966–1969
+|
+|-
+|{{flagicon|NED}} [[:nl:Jansen & Tilanus|Jansen & Tilanus]]<ref name="auto1"/><ref name="auto"/>
+|1969–1974
+|
+|-
+|{{flagicon|GER}} [[Adidas]]
+|1974–1990
+|
+|-
+|{{flagicon|ITA}} [[Lotto Sport Italia|Lotto]]
+|1991–1996
+|
+|-
+|{{flagicon|USA}} [[Nike, Inc.|Nike]]
+|1996–present
+|
+|}
+
+===Rivalries===
+{{Main|Germany–Netherlands football rivalry|Low Countries derby}}
+
+Deeply rooted in [[anti-German sentiment]] due to the [[Netherlands in World War II|occupation of the Netherlands by Germany]] during World War II, the Netherlands' long-time football rival is [[Germany national football team|Germany]]. Beginning in 1974, when the Netherlands lost the 1974 World Cup to West Germany in the [[1974 FIFA World Cup final|final]], the rivalry between the two nations has become one of the best-known [[List of association football rivalries|in international football]].<ref>{{cite web|url=http://bleacherreport.com/articles/272899-ten-best-rivalries-in-international-football#page/8|title=10 best rivalries in international football|website=Bleacher Report|first=Andrew|last=Jordan|date=16 October 2009|access-date=18 June 2015|archive-date=25 December 2014|archive-url=https://web.archive.org/web/20141225183736/http://bleacherreport.com/articles/272899-ten-best-rivalries-in-international-football#page/8|url-status=dead}}</ref><ref>{{cite web|url=https://www.espn.com/soccer/story/_/id/37431801/international-football-10-greatest-rivalries|title=The 10 greatest rivalries in international football|first=Nick|last=Miller|date=9 October 2015|access-date=22 March 2019|archive-date=22 March 2019|archive-url=https://web.archive.org/web/20190322062353/http://www.espn.com/soccer/blog/espn-fc-united/68/post/2652620/international-footballs-10-greatest-rivalries|url-status=live}}</ref>
+
+To a lesser extent, the Netherlands maintains a rivalry with their other neighbour, [[belgium national football team|Belgium]]; a Belgium–Netherlands fixture is referred to as a [[Low Countries derby]]. They have played in 129 matches {{as of|2022|09|lc=y}} with the two competing against each other regularly between 1905 and 1964. This has diminished due to the rise of semi-professional football.<ref name="DerbyBelNed">{{cite web |url=https://www.rsssf.org/tablesb/belnedres.html |title=The "Derby der Lage Landen" |first=Karel |last=Stokkermans |date=6 March 2014 |access-date=16 May 2014 |website=[[RSSSF]] |archive-url=https://web.archive.org/web/20160629063447/http://www.rsssf.com/tablesb/belnedres.html |archive-date=29 June 2016}}</ref>
+
+In recent years, the Netherlands has also developed a [[Argentina–Netherlands football rivalry|intercontinental rivalry with Argentina]].
+Recently known from the 2022 World Cup quarter-final match in Qatar, the match became known as the [[Battle of Lusail]].
+
+Another rivalry that has been developing in recent times is against [[Spain national football team|Spain]]. Although not seen as intense by both sides in the past, matches like the [[2010 FIFA World Cup]], [[2014 FIFA World Cup]], and Nations League have helped make this rivalry grow.
+
+===Fandom===
+Since the 2004 UEFA European championship, the [[Dutch Orange Bus]] has been a part of the fan experience, leading fan marches and tailgate parties.
+
+===Media coverage===
+The Netherlands are broadcast on [[Nederlandse Omroep Stichting]] which includes all friendlies, Nations League matches and [[FIFA World Cup qualification|World Cup qualifiers]]. The newest contract is a seven-year deal until 2027.<ref>{{cite web|url=https://over.nos.nl/nieuws/1018/het-nederlands-elftal-blijft-bij-de-nos|title=Het Nederlands elftal blijft bij de NOS|date=17 July 2018|access-date=31 March 2019|language=nl|archive-date=30 May 2019|archive-url=https://web.archive.org/web/20190530011152/https://over.nos.nl/nieuws/1018/het-nederlands-elftal-blijft-bij-de-nos|url-status=live}}</ref>
+
+==Home stadium==
+[[File:Amsterdam ArenA1.jpg|thumb|The Netherlands play most of their matches at [[Johan Cruyff Arena]].]]
+
+The Netherlands national team does not have a national stadium but plays mostly at the [[Johan Cruyff Arena]] in [[Amsterdam]]. It played host to its first competitive Netherlands international match back in 1997, a [[1998 FIFA World Cup qualification (UEFA)|1998 World Cup qualification]] match against [[San Marino national football team|San Marino]] which the Netherlands won 4–0,<ref>{{cite web|url=https://www.johancruijffarena.nl/stadion-omgeving/geschiedenis.htm|title=DE HISTORIE VAN DE AMSTERDAM ARENA|website=johancruijffarena.nl|date=13 February 2019|access-date=31 March 2019|language=nl|archive-date=31 March 2019|archive-url=https://web.archive.org/web/20190331042556/https://www.johancruijffarena.nl/stadion-omgeving/geschiedenis.htm|url-status=live}}</ref> after hosting a friendly match between The Netherlands and Brazil in 1996, which ended in a 2-2 draw.<ref>{{cite web |title=Netherlands vs Brazil international football match report |url=https://eu-football.info/_match.php?id=25183 |archive-url=https://web.archive.org/web/20201204183804/https://eu-football.info/_match.php?id=25183 |archive-date=2020-12-04}}</ref> The stadium was formally called the Amsterdam Arena until 2018 when it was renamed in memory of Johan Cruyff.<ref name="johan-cruijff-arena-1">{{cite web |url=http://www.amsterdamarena.nl/article-tonen-op-pagina/-amsterdam-arena-wordt-officieel-johan-cruijff-arena-.htm |title=Amsterdam ArenA wordt officieel Johan Cruijff ArenA |language=nl |date=5 April 2018 |publisher=Amsterdam Arena |access-date=31 March 2019 |archive-date=10 April 2018 |archive-url=https://web.archive.org/web/20180410000919/http://www.amsterdamarena.nl/article-tonen-op-pagina/-amsterdam-arena-wordt-officieel-johan-cruijff-arena-.htm |url-status=live }}</ref>
+
+Over the last few years, [[De Kuip]] in [[Rotterdam]] has hosted matches regularly and historically very often. Occasionally, matches take place at [[Philips Stadion]] in [[Eindhoven]] and also sometimes at the [[De Grolsch Veste]] in [[Enschede]].<ref name="stadiums">{{cite news|title=Venues prepare for summer drama |url=http://www.euro2000.org/en/venues/0,1068,,00.html |work=[[UEFA]] |publisher=Union of European Football Associations |access-date=12 July 2012 |archive-url=https://web.archive.org/web/20010810002245/http://www.euro2000.org/en/venues/0%2C1068%2C%2C00.html |archive-date=10 August 2001 |url-status=dead }}</ref>
+
+==Results and fixtures==
+{{Main|Netherlands national football team results}}
+
+The following is a list of match results in the last 12 months, as well as any future matches that have been scheduled.
+
+{{legend2|#CCFFCC|Win|border=1px solid #AAAAAA}}
+{{legend2|#FFFFCC|Draw|border=1px solid #AAAAAA}}
+{{legend2|#FFCCCC|Loss|border=1px solid #AAAAAA}}
+{{legend2|#FFFFFF|Fixture|border=1px solid #AAAAAA}}
+
+===2025===
+{{football box collapsible|format=1
+|date              = 4 September 2025
+|time              = 20:45 [[Central European Summer Time|CEST]] ([[UTC+2:00|UTC+2]])
+|round             = [[2026 FIFA World Cup qualification – UEFA Group G|2026 World Cup qualification]]
+|team1             = {{fb-rt|NED}}
+|score             = 1–1
+|report            = https://www.uefa.com/european-qualifiers/match/2044209/
+|team2             = {{fb|POL}}
+|goals1            =
+*[[Denzel Dumfries|Dumfries]] {{goal|28}}
+|goals2            =
+*[[Matty Cash|Cash]] {{goal|80}}
+|stadium           = [[De Kuip]]
+|location          = [[Rotterdam]], Netherlands
+|attendance        = 40,904
+|referee           = Simone Sozza ([[Italian Football Federation|Italy]])
+|result            = D
+}}
+{{football box collapsible|format=1
+|date              = 7 September 2025
+|time              = 19:00 [[Eastern European Summer Time|EEST]] ([[UTC+03:00|UTC+3]])
+|round             = [[2026 FIFA World Cup qualification – UEFA Group G|2026 World Cup qualification]]
+|team1             = {{fb-rt|LTU}}
+|score             = 2–3
+|report            = https://www.uefa.com/european-qualifiers/match/2044240/
+|team2             = {{fb|NED}}
+|goals1            = 
+*[[Gvidas Gineitis|Gineitis]] {{goal|36}}
+*[[Edvinas Girdvainis|Girdvainis]] {{goal|43}}
+|goals2            =
+*[[Memphis Depay|Depay]] {{goal|11||63}}
+*[[Quinten Timber|Q. Timber]] {{goal|33}}
+|stadium           = [[Darius and Girėnas Stadium]]
+|location          = [[Kaunas]], Lithuania
+|attendance        = 14,797
+|referee           = Elchin Masiyev ([[Association of Football Federations of Azerbaijan|Azerbaijan]])
+|result            = W
+}}
+{{football box collapsible|format=1
+|date              = 9 October 2025
+|time              = 20:45 [[Central European Summer Time|CET]] ([[UTC+02:00|UTC+2]])
+|round             = [[2026 FIFA World Cup qualification – UEFA Group G|2026 World Cup qualification]]
+|team1             = {{fb-rt|MLT}}
+|score             = 0–4
+|report            = https://www.uefa.com/european-qualifiers/match/2044263/
+|team2             = {{fb|NED}}
+|goals1            =
+|goals2            =
+*[[Cody Gakpo|Gakpo]] {{goal|12|pen.|49|pen.}}
+*[[Tijjani Reijnders|Reijnders]] {{goal|57}}
+*[[Memphis Depay|Depay]] {{goal|90+3}}
+|stadium           = [[National Stadium, Ta' Qali|National Stadium]]
+|location          = [[Ta' Qali]], Malta
+|attendance        = 9,254
+|referee           = Duje Strukan ([[Croatian Football Federation|Croatia]])
+|result            = W
+}}
+{{football box collapsible|format=1
+|date              = 12 October 2025
+|time              = 18:00 [[Central European Summer Time|CET]] ([[UTC+02:00|UTC+2]])
+|round             = [[2026 FIFA World Cup qualification – UEFA Group G|2026 World Cup qualification]]
+|team1             = {{fb-rt|NED}}
+|score             = 4–0
+|report            = https://www.uefa.com/european-qualifiers/match/2044288/
+|team2             = {{fb|FIN}}
+|goals1            =
+*[[Donyell Malen|Malen]] {{goal|8}}
+*[[Virgil van Dijk|Van Dijk]] {{goal|17}}
+*[[Memphis Depay|Depay]] {{goal|38|pen.}}
+*[[Cody Gakpo|Gakpo]] {{goal|84}}
+|goals2            = 
+|stadium           = [[Johan Cruyff Arena]]
+|location          = [[Amsterdam]], Netherlands
+|attendance        = 52,387
+|referee           = [[Slavko Vinčić]] ([[Football Association of Slovenia|Slovenia]])
+|result            = W
+}}
+{{football box collapsible|format=1
+|date              = 14 November 2025
+|time              = 20:45 [[Central European Time|CET]] ([[UTC+1:00|UTC+1]])
+|round             = [[2026 FIFA World Cup qualification – UEFA Group G|2026 World Cup qualification]]
+|team1             = {{fb-rt|POL}}
+|score             = 1–1
+|report            = https://www.uefa.com/european-qualifiers/match/2044316/
+|team2             = {{fb|NED}}
+|goals1            =
+*[[Jakub Kamiński|Kamiński]] {{goal|43}}
+|goals2            =
+*[[Memphis Depay|Depay]] {{goal|47}}
+|stadium           = [[Stadion Narodowy]]
+|location          = [[Warsaw]], Poland
+|attendance        = 56,278
+|referee           = [[Maurizio Mariani]]  ([[Italian Football Federation|Italy]])
+|result            = D
+}}
+{{football box collapsible|format=1
+|date              = 17 November 2025
+|time              = 20:45 [[Central European Time|CET]] ([[UTC+1:00|UTC+1]])
+|round             = [[2026 FIFA World Cup qualification – UEFA Group G|2026 World Cup qualification]]
+|team1             = {{fb-rt|NED}}
+|score             = 4–0
+|report            = https://www.uefa.com/european-qualifiers/match/2044342/
+|team2             = {{fb|LTU}}
+|goals1            =
+*[[Tijjani Reijnders|Reijnders]] {{goal|16}}
+*[[Cody Gakpo|Gakpo]] {{goal|58|pen.}}
+*[[Xavi Simons|Simons]] {{goal|60}}
+*[[Donyell Malen|Malen]] {{goal|62}}
+|goals2            =
+|stadium           = [[Johan Cruyff Arena]]
+|location          = [[Amsterdam]], Netherlands
+|attendance        = 46,913
+|referee           = Luis Godinho ([[Portuguese Football Federation|Portugal]])
+|result            = W
+}}
+
+===2026===
+{{Football box collapsible
+|format = 1
+|round = [[Exhibition game|Friendly]]
+|date = 27 March 2026
+|time = 20:45 [[Central European Time|CET]] ([[UTC+1:00|UTC+1]])
+|team1 = {{fb-rt|NED}}
+|score = 2–1
+|report = https://www.uefa.com/european-qualifiers/friendlies/match/2047663--netherlands-vs-norway/
+|team2 = {{fb|NOR}}
+|goals1 = 
+*[[Virgil van Dijk|Van Dijk]] {{goal|35}}
+*[[Tijjani Reijnders|Reijnders]] {{goal|51}}
+|goals2 = 
+*[[Andreas Schjelderup|Schjelderup]] {{goal|24}}
+|location = [[Amsterdam]], Netherlands
+|stadium = [[Johan Cruyff Arena]]
+|attendance = 50,327
+|referee = [[Lawrence Visser]] ([[Belgian Football Association|Belgium]])
+|result = W
+}}
+{{Football box collapsible
+|format = 1
+|round = [[Exhibition game|Friendly]]
+|date = 31 March 2026
+|time = 20:45 [[Central European Summer Time|CEST]] ([[UTC+2:00|UTC+2]])
+|team1 = {{fb-rt|NED}}
+|score = 1–1
+|report = https://www.uefa.com/european-qualifiers/friendlies/match/2047669--netherlands-vs-ecuador/
+|team2 = {{fb|ECU}}
+|goals1 = 
+* [[Willian Pacho|Pacho]] {{goal|3|o.g.}}
+|goals2 = 
+* [[Enner Valencia|Valencia]] {{goal|24|pen.}}
+|location = [[Eindhoven]], Netherlands
+|stadium = [[Philips Stadion]]
+|attendance = 29,344
+|referee = [[Sascha Stegemann]] ([[German Football Association|Germany]])
+|result = D
+}}
+{{Football box collapsible
+|format = 1
+|round = [[Exhibition game|Friendly]]
+|date = 3 June 2026
+|time = 20:45 [[Central European Summer Time|CEST]] ([[UTC+2:00|UTC+2]])
+|team1 = {{fb-rt|NED}}
+|score = 0–1
+|report = https://www.uefa.com/european-qualifiers/friendlies/match/2048186--netherlands-vs-algeria/
+|team2 = {{fb|ALG}}
+|goals1 = 
+|goals2 = 
+* [[Anis Hadj Moussa|Hadj Moussa]] {{goal|86}}
+|stadium = [[De Kuip]]
+|location = [[Rotterdam]], Netherlands
+|attendance = 40,306
+|referee = {{ill|Jakob Semler|de|Jakob Semler (Schiedsrichter)}} ([[Austrian Football Association|Austria]])
+|result = L
+}}
+{{Football box collapsible
+|format = 1
+|round = [[Exhibition game|Friendly]]
+|date = 8 June 2026
+|time = 14:45 [[Eastern Daylight Time|EDT]] ([[UTC-4:00|UTC-4]])
+|team1 = {{fb-rt|NED}}
+|score = 2–1
+|report = https://www.uefa.com/european-qualifiers/friendlies/match/2048314--netherlands-vs-uzbekistan/
+|team2 = {{fb|UZB}}
+|goals1 = 
+* [[Cody Gakpo|Gakpo]] {{goal|32|pen.|90+8|pen.}}
+|goals2 = 
+* [[Igor Sergeev|Sergeev]] {{goal|90+2}}
+|stadium = [[Icahn Stadium]]
+|location = [[New York City|New York]], United States ([[Behind closed doors (sport)|BCD]])
+|attendance = 0
+|referee = [[Alyssa Pennington]] ([[United States Soccer Federation|United States]])<ref>[https://globalsportsarchive.com/en/soccer/match/2026-06-08/netherlands-vs-uzbekistan/4302074]</ref>
+|result = W
+}}
+{{Football box collapsible
+|format = 1
+|round = [[2026 World Cup]] [[2026 FIFA World Cup Group F|Group F]]
+|date = 14 June 2026
+|time = 15:00 [[Eastern Standard Time|EST]] ([[UTC-05:00|UTC-5]]) 
+|team1 = {{fb-rt|NED}}
+|score = 2–2
+|team2 = {{fb|JPN}}
+|report = https://www.fifa.com/en/match-centre/match/17/285023/289273/400021470
+|goals1 =
+*[[Virgil van Dijk|Van Dijk]] {{goal|51}}
+*[[Crysencio Summerville|Summerville]] {{goal|64}}
+|goals2 =
+*[[Keito Nakamura|Nakamura]] {{goal|57}}
+*[[Daichi Kamada|Kamada]] {{goal|88}}
+|location   = [[Arlington, Texas|Arlington]], [[Texas]], United States 
+|stadium    = [[AT&T Stadium]]
+|attendance = 69,285
+|referee    = [[Ismail Elfath]] ([[United States Soccer Federation|United States]])
+|result     = D
+}}
+{{Football box collapsible
+|format = 1
+|round = [[2026 World Cup]] [[2026 FIFA World Cup Group F|Group F]]
+|date = 20 June 2026
+|time = 12:00 [[Eastern Standard Time|EST]] ([[UTC-05:00|UTC-5]])
+|team1 = {{fb-rt|NED}}
+|score = 5–1
+|report = https://www.fifa.com/en/match-centre/match/17/285023/289273/400021472
+|team2 = {{fb|SWE}}
+|goals1 =
+*[[Brian Brobbey|Brobbey]] {{goal|5||17}}
+*[[Cody Gakpo|Gakpo]] {{goal|47||54}}
+*[[Crysencio Summerville|Summerville]] {{goal|89}}
+|goals2=
+*[[Anthony Elanga|Elanga]] {{goal|59}}
+|stadium = [[NRG Stadium]]
+|location = [[Houston]], [[Texas]], United States 
+|attendance = 68,777
+|referee = [[Michael Oliver (referee)|Michael Oliver]] ([[The Football Association|England]])
+|result = W
+}}
+{{Football box collapsible
+|format = 1
+|round = [[2026 World Cup]] [[2026 FIFA World Cup Group F|Group F]]
+|date = 25 June 2026
+|time = 18:00 [[Eastern Standard Time|EST]] ([[UTC-05:00|UTC-5]])
+|team1 = {{fb-rt|TUN}}
+|score = 1–3
+|report = https://www.fifa.com/en/match-centre/match/17/285023/289273/400021473
+|team2 = {{fb|NED}}
+|goals1 =
+*[[Hazem Mastouri|Mastouri]] {{goal|54}}
+|goals2 =
+*[[Ellyes Skhiri|Skhiri]] {{goal|3|o.g.}}
+*[[Brian Brobbey|Brobbey]] {{goal|7}}
+*[[Jan Paul van Hecke|Van Hecke]] {{goal|62}}
+|stadium = [[Arrowhead Stadium]]
+|location = [[Kansas City, Missouri|Kansas City]], [[Missouri]], United States 
+|attendance = 68,391
+|referee = [[Katia Itzel García]] ([[Mexican Football Federation|Mexico]])
+|result = W
+}}
+{{Football box collapsible
+|format = 1
+|round = [[2026 World Cup]] [[2026 FIFA World Cup knockout stage|Round of 32]]
+|date = 29 June 2026
+|time = 19:00 [[Central Time Zone|CST]] ([[UTC-06:00|UTC-6]])
+|team1 = {{fb-rt|NED}}
+|score = 1–1
+|aet = yes
+|report = https://www.fifa.com/en/match-centre/match/17/285023/289287/400021522
+|team2 = {{fb|MAR}}
+|goals1 =
+*[[Cody Gakpo|Gakpo]] {{goal|72}}
+|goals2 =
+*[[Issa Diop (footballer)|Diop]] {{goal|90+1}}
+|penalties1 =
+*[[Teun Koopmeiners|Koopmeiners]] {{pengoal}}
+*[[Justin Kluivert|Kluivert]] {{penmiss}}
+*[[Wout Weghorst|Weghorst]] {{pengoal}}
+*[[Quinten Timber|Timber]] {{penmiss}}
+*[[Crysencio Summerville|Summerville]] {{penmiss}}
+|penaltyscore = 2–3
+|penalties2 =
+*{{penmiss}} [[Neil El Aynaoui|El Aynaoui]]
+*{{pengoal}} [[Soufiane Rahimi|Rahimi]]
+*{{pengoal}} [[Chemsdine Talbi|Talbi]]
+*{{penmiss}} [[Achraf Hakimi|Hakimi]]
+*{{pengoal}} [[Ismael Saibari|Saibari]]
+|stadium = [[Estadio BBVA]]
+|location = [[Guadalupe, Nuevo León|Guadalupe]], [[Nuevo León]], México
+|attendance = 51,243
+|referee = [[Wilton Sampaio]] ([[Brazilian Football Confederation|Brazil]])
+|result = D
+}}
+{{football box collapsible
+|format     = 1
+|date       = 24 September 2026
+|time       = 20:45 [[Central European Summer Time|CEST]] ([[UTC+02:00]])
+|round      = [[2026–27 UEFA Nations League A|2026–27 UEFA Nations League]]
+|score      = 
+|report     = https://www.uefa.com/uefanationsleague/match/2048003/
+|team1      = {{fb-rt|NED}}
+|goals1     = 
+|team2      = {{fb|GER}}
+|goals2     = 
+|location   = [[Amsterdam]], Netherlands
+|stadium    = [[Johan Cruyff Arena]]
+|attendance = 
+|referee    = 
+|result     = 
+}}
+{{football box collapsible
+|format     = 1
+|date       = 27 September 2026
+|time       = 18:00 [[Central European Summer Time|CEST]] ([[UTC+02:00]])
+|round      = [[2026–27 UEFA Nations League A|2026–27 UEFA Nations League]]
+|score      = 
+|report     = https://www.uefa.com/uefanationsleague/match/2047981/
+|team1      = {{fb-rt|SER}}
+|goals1     = 
+|team2      = {{fb|NED}}
+|goals2     = 
+|stadium    = [[Rajko Mitić Stadium]]
+|location   = [[Belgrade]], Serbia
+|attendance = 
+|referee    = 
+|result     = 
+}}
+{{football box collapsible
+|format     = 1
+|date       = 1 October 2026
+|time       = 21:45 [[Eastern European Summer Time|EEST]] ([[UTC+03:00]])
+|round      = [[2026–27 UEFA Nations League A|2026–27 UEFA Nations League]]
+|score      = 
+|report     = https://www.uefa.com/uefanationsleague/match/2047951/
+|team1      = {{fb-rt|GRE}}
+|goals1     = 
+|team2      = {{fb|NED}}
+|goals2     = 
+|stadium    = [[Toumba Stadium]]
+|location   = [[Thessaloniki]], Greece
+|attendance = 
+|referee    = 
+|result     = 
+}}
+{{football box collapsible
+|format     = 1
+|date       = 4 October 2026
+|time       = 20:45 [[Central European Summer Time|CEST]] ([[UTC+02:00]])
+|round      = [[2026–27 UEFA Nations League A|2026–27 UEFA Nations League]]
+|score      = 
+|report     = https://www.uefa.com/uefanationsleague/match/2047925/
+|team1      = {{fb-rt|NED}}
+|goals1     = 
+|team2      = {{fb|SER}}
+|goals2     = 
+|location   = [[Eindhoven]], Netherlands
+|stadium    = [[Philips Stadion]]
+|attendance = 
+|referee    = 
+|result     = 
+}}
+{{football box collapsible
+|format     = 1
+|date       = 13 November 2026
+|time       = 20:45 [[Central European Time|CET]] ([[UTC+01:00]])
+|round      = [[2026–27 UEFA Nations League A|2026–27 UEFA Nations League]]
+|score      = 
+|report     = https://www.uefa.com/uefanationsleague/match/2047886/
+|team1      = {{fb-rt|NED}}
+|goals1     = 
+|team2      = {{fb|GRE}}
+|goals2     = 
+|location   = [[Amsterdam]], Netherlands
+|stadium    = [[Johan Cruyff Arena]]
+|attendance = 
+|referee    = 
+|result     = 
+}}
+{{football box collapsible
+|format     = 1
+|date       = 16 November 2026
+|time       = 20:45 [[Central European Time|CET]] ([[UTC+01:00]])
+|round      = [[2026–27 UEFA Nations League A|2026–27 UEFA Nations League]]
+|score      = 
+|report     = https://www.uefa.com/uefanationsleague/match/2047909/
+|team1      = {{fb-rt|GER}}
+|goals1     = 
+|team2      = {{fb|NED}}
+|goals2     = 
+|stadium    = [[Olympiastadion (Berlin)|Olympiastadion]]
+|location   = [[Berlin]], Germany
+|attendance = 
+|referee    = 
+|result     = 
+}}
+
+==Coaching staff==
+{| class="wikitable"
+|-
+!Position
+!Name
+|-
+|Head coach
+|{{flagicon|NED}} Vacant
+|-
+|Assistant coaches
+|{{flagicon|NED}} [[Ruud van Nistelrooy]]
+|-
+|Goalkeeping coach
+|{{flagicon|NED}} [[Patrick Lodewijks]]
+|-
+|Fitness coaches
+|{{flagicon|NED}} Jan Kluitenberg<hr />{{flagicon|NED}} Martin Cruijff
+|-
+|Team manager
+|{{flagicon|NED}} Cor Asp
+|-
+|Sports Scientist
+|{{flagicon|NED}} David van Maurik
+|-
+|Physiotherapist(s)
+|{{flagicon|NED}} Ricardo de Sanders<hr />{{flagicon|NED}} Gert-Jan Goudswaard<hr />{{flagicon|NED}} Luc van Agt
+|-
+|Doctor(s)
+|{{flagicon|NED}} Edwin Goedhart<hr />{{flagicon|NED}} Rien Heijboer
+|-
+|Masseurs
+|{{flagicon|NED}} Rob Koster
+|-
+|Analyst(s)
+|{{flagicon|NED}} Cees Lok<hr />{{flagicon|NED}} Gert Aandewiel<hr />{{flagicon|NED}} Dennis Demmers
+|-
+|}
+
+===Coaching history===
+{{Main|List of Netherlands national football team managers}}
+
+==Players==
+{{See also|List of Netherlands international footballers}}
+
+===Current squad===
+The following 26 players were included in the squad for the [[2026 FIFA World Cup]].<ref>{{cite web |url=https://www.onsoranje.nl/nieuws/nederlands-elftal-mannen/82598/definitieve-selectie-oranje-m-voor-fifa-world-cup-2026 |title=Definitieve selectie Oranje (m) voor FIFA World Cup 2026 |trans-title=Final roster for the Netherlands men's national team for the 2026 FIFA World Cup |publisher=[[Royal Dutch Football Association]] |date=May 27, 2026 |access-date=May 27, 2026 |language=nl |archive-date=May 27, 2026 |archive-url=https://web.archive.org/web/20260527152448/https://www.onsoranje.nl/nieuws/nederlands-elftal-mannen/82598/definitieve-selectie-oranje-m-voor-fifa-world-cup-2026 |url-status=live }}</ref> [[Jurriën Timber]] withdrew injured and was replaced by [[Lutsharel Geertruida]] on 8 June.<ref>{{cite web |url=https://nos.nl/artikel/2617697-jurrien-timber-mist-toch-wk-met-oranje-geertruida-opgeroepen-als-vervanger |title=Jurriën Timber mist toch WK met Oranje, Geertruida opgeroepen als vervanger |trans-title=Jurriën Timber misses World Cup with the Netherlands after all, Geertruida called up as replacement |publisher=[[Nederlandse Omroep Stichting]] |date=June 8, 2026 |access-date=June 8, 2026}}</ref>
+<br>''Caps and goals are correct as of 29 June 2026, after the match against [[Morocco national football team|Morocco]].''<ref>{{cite web|url=https://www.onsoranje.nl/nieuws/nederlands-elftal-mannen/82598/definitieve-selectie-oranje-m-voor-fifa-world-cup-2026|title=Definitieve selectie Oranje (m) voor FIFA World Cup 2026|website=onsoranje.nl|access-date=27 May 2026|archive-date=27 May 2026|archive-url=https://web.archive.org/web/20260527152448/https://www.onsoranje.nl/nieuws/nederlands-elftal-mannen/82598/definitieve-selectie-oranje-m-voor-fifa-world-cup-2026|url-status=live|language=nl}}</ref>
+<!--DO NOT RE-SORT BY SQUAD NUMBER, that is meaningless and ever changing-->
+<!--ORGANISED BY POSITION, THEN MOST CAPS-->
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Bart Verbruggen]]|sortname=Verbruggen, Bart|age={{birth date and age|2002|8|18|df=y}}|caps=33|goals=0|club=[[Brighton & Hove Albion F.C.|Brighton & Hove Albion]]|clubnat=ENG}}
+{{nat fs g player|no=13|pos=GK|name=[[Robin Roefs]]|sortname=Roefs, Robin|age={{birth date and age|2003|1|17|df=y}}|caps=1|goals=0|club=[[Sunderland A.F.C.|Sunderland]]|clubnat=ENG}}
+{{nat fs g player|no=23|pos=GK|name=[[Mark Flekken]]|sortname=Flekken, Mark|age={{birth date and age|1993|6|13|df=y}}|caps=12|goals=0|club=[[Bayer 04 Leverkusen|Bayer Leverkusen]]|clubnat=GER}}
+{{nat fs break}}
+{{nat fs g player|no=2|pos=DF|name=[[Lutsharel Geertruida]]|sortname=Geertruida, Lutsharel|age={{birth date and age|2000|7|18|df=y}}|caps=21|goals=0|club=[[RB Leipzig]]|clubnat=GER}}
+{{nat fs g player|no=4|pos=DF|name=[[Virgil van Dijk]]|sortname=van Dijk, Virgil|other=[[Captain (association football)|captain]]|age={{birth date and age|1991|7|8|df=y}}|caps=96|goals=13|club=[[Liverpool F.C.|Liverpool]]|clubnat=ENG}}
+{{nat fs g player|no=5|pos=DF|name=[[Nathan Aké]]|sortname=Aké, Nathan|age={{birth date and age|1995|2|18|df=y}}|caps=62|goals=5|club=[[Fenerbahçe S.K.|Fenerbahçe]]|clubnat=TUR}}
+{{nat fs g player|no=6|pos=DF|name=[[Jan Paul van Hecke]]|sortname=van Hecke, Jan Paul|age={{birth date and age|2000|6|8|df=y}}|caps=16|goals=1|club=[[Tottenham Hotspur F.C.|Tottenham Hotspur]]|clubnat=ENG}}
+{{nat fs g player|no=12|pos=DF|name=[[Mats Wieffer]]|sortname=Wieffer, Mats|age={{birth date and age|1999|11|16|df=y}}|caps=15|goals=1|club=[[Brighton & Hove Albion F.C.|Brighton & Hove Albion]]|clubnat=ENG}}
+{{nat fs g player|no=15|pos=DF|name=[[Micky van de Ven]]|sortname=Van de Ven, Micky|age={{birth date and age|2001|4|19|df=y}}|caps=24|goals=1|club=[[Tottenham Hotspur F.C.|Tottenham Hotspur]]|clubnat=ENG}}
+{{nat fs g player|no=22|pos=DF|name=[[Denzel Dumfries]]|sortname=Dumfries, Denzel|age={{birth date and age|1996|4|18|df=y}}|caps=76|goals=11|club=[[Real Madrid C.F.|Real Madrid]]|clubnat=ESP}}
+{{nat fs g player|no=25|pos=DF|name=[[Jorrel Hato]]|sortname=Hato, Jorrel|age={{birth date and age|2006|3|7|df=y}}|caps=9|goals=0|club=[[Chelsea FC|Chelsea]]|clubnat=ENG}}
+{{nat fs break}}
+{{nat fs g player|no=3|pos=MF|name=[[Marten de Roon]]|sortname=de Roon, Marten|age={{birth date and age|1991|3|29|df=y}}|caps=44|goals=1|club=[[Atalanta BC|Atalanta]]|clubnat=ITA}}
+{{nat fs g player|no=7|pos=MF|name=[[Justin Kluivert]]|sortname=Kluivert, Justin|age={{birth date and age|1999|5|5|df=y}}|caps=14|goals=0|club=[[AFC Bournemouth|Bournemouth]]|clubnat=ENG}}
+{{nat fs g player|no=8|pos=MF|name=[[Ryan Gravenberch]]|sortname=Gravenberch, Ryan|age={{birth date and age|2002|5|16|df=y}}|caps=31|goals=1|club=[[Liverpool F.C.|Liverpool]]|clubnat=ENG}}
+{{nat fs g player|no=14|pos=MF|name=[[Tijjani Reijnders]]|sortname=Reijnders, Tijjani|age={{birth date and age|1998|7|29|df=y}}|caps=35|goals=7|club=[[Manchester City F.C.|Manchester City]]|clubnat=ENG}}
+{{nat fs g player|no=16|pos=MF|name=[[Guus Til]]|sortname=Til, Guus|age={{birth date and age|1997|12|22|df=y}}|caps=8|goals=1|club=[[PSV Eindhoven|PSV]]|clubnat=NED}}
+{{nat fs g player|no=20|pos=MF|name=[[Teun Koopmeiners]]|sortname=Koopmeiners, Teun|age={{birth date and age|1998|2|28|df=y}}|caps=32|goals=3|club=[[Juventus FC|Juventus]]|clubnat=ITA}}
+{{nat fs g player|no=21|pos=MF|name=[[Frenkie de Jong]]|sortname=de Jong, Frenkie|age={{birth date and age|1997|5|12|df=y}}|caps=70|goals=2|club=[[FC Barcelona|Barcelona]]|clubnat=ESP}}
+{{nat fs g player|no=26|pos=MF|name=[[Quinten Timber]]|sortname=Timber, Quinten|age={{birth date and age|2001|6|17|df=y}}|caps=13|goals=1|club=[[Olympique de Marseille|Marseille]]|clubnat=FRA}}
+{{nat fs break}}
+{{nat fs g player|no=9|pos=FW|name=[[Wout Weghorst]]|sortname=Weghorst, Wout|age={{birth date and age|1992|8|7|df=y}}|caps=53|goals=14|club=[[FC Twente|Twente]]|clubnat=NED}}
+{{nat fs g player|no=10|pos=FW|name=[[Memphis Depay]]|sortname=Depay, Memphis|age={{birth date and age|1994|2|13|df=y}}|caps=112|goals=[[List of international goals scored by Memphis Depay|55]]|club=[[Sport Club Corinthians Paulista|Corinthians]]|clubnat=BRA}}
+{{nat fs g player|no=11|pos=FW|name=[[Cody Gakpo]]|sortname=Gakpo, Cody|age={{birth date and age|1999|5|7|df=y}}|caps=54|goals=24|club=[[Liverpool F.C.|Liverpool]]|clubnat=ENG}}
+{{nat fs g player|no=17|pos=FW|name=[[Noa Lang]]|sortname=Lang, Noa|age={{birth date and age|1999|6|17|df=y}}|caps=17|goals=3|club=[[Galatasaray S.K. (football)|Galatasaray]]|clubnat=TUR}}
+{{nat fs g player|no=18|pos=FW|name=[[Donyell Malen]]|sortname=Malen, Donyell|age={{birth date and age|1999|1|19|df=y}}|caps=56|goals=13|club=[[AS Roma|Roma]]|clubnat=ITA}}
+{{nat fs g player|no=19|pos=FW|name=[[Brian Brobbey]]|sortname=Brobbey, Brian|age={{birth date and age|2002|2|1|df=y}}|caps=16|goals=4|club=[[Sunderland AFC|Sunderland]]|clubnat=ENG}}
+{{nat fs g player|no=24|pos=FW|name=[[Crysencio Summerville]]|sortname=Summerville, Crysencio|age={{birth date and age|2001|10|30|df=y}}|caps=6|goals=2|club=[[West Ham United F.C.|West Ham United]]|clubnat=ENG}}
+{{nat fs end}}
+
+===Recent call-ups===
+The following players have also been called up for the team in the last twelve months.
+<!--Sorted by number, position, most recent call-up, caps, goals and last name.-->
+
+{{nat fs r start}}
+{{nat fs r player|no=|pos=GK|name=[[Justin Bijlow]]|sortname=Bijlow, Robin|age={{birth date and age|1998|1|22|df=y}}|caps=8|goals=0|club=[[Genoa CFC|Genoa]]|clubnat=ITA|latest=v. {{fb|ECU}}, 31 March 2026}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=DF|name=[[Jurriën Timber]]|sortname=Timber, Jurrien|age={{birth date and age|2001|6|17|df=y}}|caps=24|goals=0|club=[[Arsenal F.C.|Arsenal]]|clubnat=ENG|latest=[[2026 FIFA World Cup]] <sup>INJ</sup>}}
+{{nat fs r player|no=|pos=DF|name=[[Ian Maatsen]]|sortname=Maatsen, Ian|age={{Birth date and age|df=y|2002|3|10}}|caps=1|goals=1|club=[[Aston Villa F.C.|Aston Villa]]|clubnat=ENG|latest=v. {{fb|ALG}}, 3 June 2026}}
+{{nat fs r player|no=|pos=DF|name=[[Stefan de Vrij]]|sortname=de Vrij, Stefan|age={{birth date and age|1992|2|5|df=y}}|caps=79|goals=4|club=[[Panathinaikos F.C.|Panathinaikos]]|clubnat=GRE|latest=v. {{fb|ECU}}, 31 March 2026}}
+{{nat fs r player|no=|pos=DF|name=[[Jeremie Frimpong]]|sortname=Frimpong, Jeremie|age={{birth date and age|2000|12|10|df=y}}|caps=15|goals=1|club=[[Liverpool F.C.|Liverpool]]|clubnat=ENG|latest=v. {{fb|ECU}}, 31 March 2026}}
+{{nat fs r player|no=|pos=DF|name=[[Matthijs de Ligt]]|sortname=de Ligt, Matthijs|age={{birth date and age|1999|8|12|df=y}}|caps=52|goals=2|club=[[Manchester United F.C.|Manchester United]]|clubnat=ENG|latest=v. {{fb|LIT}}, 17 November 2025 <sup>INJ</sup>}}
+{{nat fs r player|no=|pos=DF|name=[[Quilindschy Hartman]]|sortname=Hartman, Quilindschy|age={{birth date and age|2001|11|14|df=y}}|caps=5|goals=1|club=[[Burnley F.C.|Burnley]]|clubnat=ENG|latest=v. {{fb|POL}}, 14 November 2025 <sup>FIT</sup>}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=MF|name=[[Xavi Simons]]|sortname=Simons, Xavi|age={{birth date and age|2003|4|21|df=y}}|caps=34|goals=6|club=[[Tottenham Hotspur F.C.|Tottenham Hotspur]]|clubnat=ENG|latest=v. {{fb|ECU}}, 31 March 2026}}
+{{nat fs r player|no=|pos=MF|name=[[Jerdy Schouten]]|sortname=Schouten, Jerdy|age={{birth date and age|1997|1|12|df=y}}|caps=17|goals=0|club=[[PSV Eindhoven|PSV]]|clubnat=NED|latest=v. {{fb|ECU}}, 31 March 2026}}
+{{nat fs r player|no=|pos=MF|name=[[Luciano Valente]]|sortname=Valente, Luciano|age={{birth date and age|2003|10|4|df=y}}|caps=2|goals=0|club=[[Feyenoord]]|clubnat=NED|latest=v. {{fb|ECU}}, 31 March 2026}}
+{{nat fs r player|no=|pos=MF|name=[[Kees Smit]]|sortname=Smit, Kees|age={{birth date and age|2006|1|20|df=y}}|caps=1|goals=0|club=[[AZ Alkmaar|AZ]]|clubnat=NED|latest=v. {{fb|ECU}}, 31 March 2026}}
+{{nat fs r player|no=|pos=MF|name=[[Sem Steijn]]|sortname=Steijn, Sem|age={{birth date and age|2001|11|12|df=y}}|caps=1|goals=0|club=[[Feyenoord]]|clubnat=NED|latest=v. {{fb|LIT}}, 7 September 2025}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=FW|name=[[Emmanuel Emegha]]|sortname=Emegha, Emmanuel|age={{birth date and age|2003|2|3|df=y}}|caps=2|goals=0|club=[[Chelsea F.C.|Chelsea]]|clubnat=ENG|latest=v. {{fb|LIT}}, 17 November 2025 <sup>INJ</sup>}}
+{{nat fs r player|no=|pos=FW|name=[[Mexx Meerdink]]|sortname=Meerdink, Mexx|age={{birth date and age|2003|7|24|df=y}}|caps=0|goals=0|club=[[AZ Alkmaar|AZ]]|clubnat=NED|latest=v. {{fb|MLT}}, 9 October 2025}}
+{{nat fs break}}
+<sup>INJ</sup> Player withdrew from the squad due to an injury.<br />
+<sup>FIT</sup> Player withdrew from the squad due to fitness concerns.<br />
+<sup>PRE</sup> Preliminary squad.<br />
+<sup>RET</sup> Player had announced retirement from national team.<br />
+<sup>SUS</sup> Player is serving a suspension.<br />
+<sup>PRI</sup> Player absent due to private circumstances.<br />
+{{nat fs end}}
+
+==Individual statistics==
+===Player records===
+{{Main|Netherlands national football team records and statistics}}
+
+{{updated|29 June 2026.}}<ref name="RSSSF">{{cite web |last1=Stokkermans |first1=Karel |title=Netherlands - International Players Records |url=https://www.rsssf.org/miscellaneous/ned-recintlp.html |website=RSSSF |access-date=2 February 2023 |archive-date=15 August 2022 |archive-url=https://web.archive.org/web/20220815011034/https://www.rsssf.org/miscellaneous/ned-recintlp.html |url-status=live }}</ref>
+:''Players in '''bold''' are still active with the Netherlands.''
+
+===Most appearances===
+[[File:Wesley Sneijder (15487233555) (cropped).jpg|thumb|Wesley Sneijder is the Netherlands' most capped player, with 134 appearances.]]
+
+{| class="wikitable sortable" style="text-align:center"
+|-
+! style="width:25px;background:#FF771D;color:white"|Rank
+! style="width:150px;background:#FF771D;color:white"|Player
+! style="width:50px;background:#FF771D;color:white"|Matches
+! style="width:50px;background:#FF771D;color:white"|Goals
+! style="width:100px;background:#FF771D;color:white"|Career
+|-
+|1
+|align=left|[[Wesley Sneijder]]
+|'''134'''
+|31
+|2003–2018
+|-
+|2
+|align=left|[[Edwin van der Sar]]
+|'''130'''
+|0
+|1995–2008
+|-
+|rowspan="2"|3
+|align=left|'''[[Memphis Depay]]'''
+|'''112'''
+|55
+|2013–present
+|-
+|align=left|[[Frank de Boer]]
+|'''112'''
+|13
+|1990–2004
+|-
+|5
+|align=left|[[Rafael van der Vaart]]
+|'''109'''
+|25
+|2001–2013
+|-
+|6
+|align=left|[[Daley Blind]]
+|'''108'''
+|3
+|2013–2024
+|-
+|7
+|align=left|[[Giovanni van Bronckhorst]]
+|'''106'''
+|6
+|1996–2010
+|-
+|8
+|align=left|[[Dirk Kuyt]]
+|'''104'''
+|24
+|2004–2014
+|-
+|9
+|align=left|[[Robin van Persie]]
+|'''102'''
+|50
+|2005–2017
+|-
+|10
+|align=left|[[Phillip Cocu]]
+|'''101'''
+|10
+|1996–2006
+|}
+
+===Top goalscorers===
+[[File:Depay NL Training 2015 (cropped).jpg|thumb|Memphis Depay is the Netherlands' top scorer, with 55 goals.]]
+
+{| class="wikitable sortable" style="text-align:center"
+|-
+! style="width:25px;background:#FF771D;color:white"|Rank
+! style="width:150px;background:#FF771D;color:white"|Player
+! style="width:50px;background:#FF771D;color:white"|Goals
+! style="width:50px;background:#FF771D;color:white"|Matches
+! style="width:50px;background:#FF771D;color:white"|Ratio
+! style="width:100px;background:#FF771D;color:white"|Career
+|-
+|1
+|align=left|'''[[Memphis Depay]]'''
+|'''[[List of international goals scored by Memphis Depay|55]]'''
+|112
+|{{#expr:55/112 round 2}}
+|2013–present
+|-
+|2
+|align=left|[[Robin van Persie]]
+|'''[[List of international goals scored by Robin van Persie|50]]'''
+|102
+|{{#expr:50/102 round 2}}
+|2005–2017
+|-
+|3
+|align=left|[[Klaas-Jan Huntelaar]]
+|'''42'''
+|76
+|{{#expr:42/76 round 2}}
+|2006–2015
+|-
+|4
+|align=left|[[Patrick Kluivert]]
+|'''40'''
+|79
+|{{#expr:40/79 round 2}}
+|1994–2004
+|-
+|rowspan=2|5
+|align=left|[[Dennis Bergkamp]]
+|'''37'''
+|79
+|{{#expr:37/79 round 2}}
+|1990–2000
+|-
+|align=left|[[Arjen Robben]]
+|'''37'''
+|96
+|{{#expr:37/96 round 2}}
+|2003–2017
+|-
+|rowspan=2|7
+|align=left|[[Faas Wilkes]]
+|'''35'''
+|38
+|{{#expr:35/38 round 2}}
+|1946–1961
+|-
+|align=left|[[Ruud van Nistelrooy]]
+|'''35'''
+|70
+|{{#expr:35/70 round 2}}
+|1998–2011
+|-
+|rowspan=2|9
+|align=left|[[Abe Lenstra]]
+|'''33'''
+|47
+|{{#expr:33/47 round 2}}
+|1940–1959
+|-
+|align=left|[[Johan Cruyff]]
+|'''33'''
+|48
+|{{#expr:33/48 round 2}}
+|1966–1977
+|}
+
+===Manager records===
+{{Main|List of Netherlands national football team managers}}
+
+* Most wins: [[Louis van Gaal]], 40 wins
+* Longest reign: [[Bob Glendenning]], 15 years
+* Most tenures: [[Rinus Michels]], 4 tenures
+
+==Team records==
+{{Main|Netherlands national football team records and statistics}}
+
+* '''Biggest win''':
+** {{fb|NED}} 11–0 {{fb-rt|SMR}} ([[Eindhoven]], [[Netherlands]]; 2 September 2011)
+* '''Biggest defeat''':
+** {{Fbam|ENG|full=y}} 12–2 {{fb-rt|NED}} ([[Darlington]], [[England]]; 21 December 1907)
+
+==Competitive record==
+===FIFA World Cup===
+{{Main|Netherlands at the FIFA World Cup}}
+
+The Netherlands' first two tournament appearances at the 1934 and the 1938 editions saw them lose their first round matches to Switzerland (1934) and Czechoslovakia (1938).<ref name="rsssf34">{{cite web |url=https://www.rsssf.org/tables/34full.html |title=World Cup 1934 finals |website=[[RSSSF]] |access-date=11 February 2019 |archive-date=1 July 2016 |archive-url=https://web.archive.org/web/20160701145038/http://www.rsssf.com/tables/34full.html |url-status=live }}</ref><ref name="wc38">{{cite web|url=https://www.fifa.com/tournaments/mens/worldcup/1938france|title=1938 FIFA World Cup France|publisher=[[FIFA]]|access-date=11 February 2019|archive-date=16 April 2022|archive-url=https://web.archive.org/web/20220416082749/https://www.fifa.com/tournaments/mens/worldcup/1938france|url-status=live}}</ref>
+
+After not entering the 1950 and 1954 tournaments before failing to qualify for the next four World Cups, they qualified for the 1974 FIFA World Cup in [[West Germany]]. They lost 2–1 in the final, with Gerd Müller scoring the winning goal for the Germans, that year's hosts.<ref name="74WC"/> The Netherlands once again made the [[1978 FIFA World Cup]] [[1978 FIFA World Cup final|final]] with the team finishing second in the group behind Peru. After finishing top of the all-European group in the second round, they met Argentina in the final. Argentina protested René van de Kerkhof's forearm plaster cast. After that protest, the game went to extra time where Argentina won 3–1 after scoring two goals in extra time.<ref name="78WC"/>
+
+The 1990 edition saw the Netherlands not win a single game throughout the tournament, scoring only two goals in the group stage.<ref name=OddTieBreakers/><ref name="rsssf90">{{cite web|url=https://www.rsssf.org/tables/90full.html |title=World Cup 1990 finals |access-date=19 July 2016 |website=[[RSSSF]] |archive-url=https://web.archive.org/web/20090421181034/http://www.rsssf.com/tables/90full.html |archive-date=21 April 2009}}</ref> 1994 saw the Netherlands knocked out in the quarter-final stage as they lost to eventual champions Brazil with [[Branco (footballer)|Branco]]'s brutal free-kick sending them out.<ref name=1994WC/> After qualifying from their group with five points, the Netherlands made the semi-finals of the 1998 edition where they once again lost to the Brazilians, this time via a penalty shootout. Both Phillip Cocu's and Ronald de Boer's shots missed the goal to give Brazil a spot in the final. This was taken very hard by the Netherlands. The Netherlands went on to finish in fourth place after losing to Croatia in the third place playoff.<ref>{{cite web|url=https://www.espn.com/soccer/story/_/id/37364021/1998|title=World Cup History: 1998|first1=John|last1=Brewin|first2=Martin|last2=Williamson|publisher=[[ESPN]]|date=1 May 2014|access-date=25 February 2019|archive-date=31 May 2019|archive-url=https://web.archive.org/web/20190531121452/http://www.espn.com/soccer/news/story/_/id/1834595/1998|url-status=live}}</ref>
+
+In 2006, the Netherlands made it to the round of 16 where, in what was called the "Battle of Nuremberg" they lost by a single goal to Portugal. The Netherlands were given seven yellow cards.<ref name=Nuremberg/> The following edition, in 2010, saw the team qualify to the knockout stage by finishing atop Group E. After defeating Slovakia 2–1 in the round of 16, they came back from an early goal by [[Robinho]] to defeat Brazil 2–1 in the quarter-finals as Wesley Sneijder scored a double.<ref name=NEDVSSVK/><ref name=NEDVSBRA/> In the semi-finals, they defeated Uruguay in a tough game for the Netherlands, making their first World Cup final since 1978.<ref>{{cite news|url=https://news.bbc.co.uk/sport2/hi/football/world_cup_2010/matches/match_61/default.stm|title=Uruguay 2–3 Netherlands|last=Bevan|first=Chris|date=6 July 2010|publisher=BBC Sport|access-date=25 February 2019|archive-date=6 July 2010|archive-url=https://web.archive.org/web/20100706185257/http://news.bbc.co.uk/sport2/hi/football/world_cup_2010/matches/match_61/default.stm|url-status=live}}</ref> The Netherlands faced Spain in the final, the latter appearing in their first World Cup final. However, the Dutch were once again defeated in the final with Spain winning 1-0 in extra-time.<ref>{{cite news|title=2010 FIFA World Cup Final: Spain vs. Netherlands. Spain Wins Andres Iniesta Goal |url=http://www.barcelonareporter.com/index.php?/news/comments/2010_fifa_world_cup_final_spain_vs._netherlands._spain_wins_andres_iniesta_/ |publisher=Barcelona Reporter |date=15 July 2010 |access-date=15 July 2010 |url-status=dead |archive-url=https://web.archive.org/web/20110513031733/http://www.barcelonareporter.com/index.php?%2Fnews%2Fcomments%2F2010_fifa_world_cup_final_spain_vs._netherlands._spain_wins_andres_iniesta_%2F |archive-date=13 May 2011}}</ref><ref name="2010WCF"/>
+
+In 2014, the Netherlands finished atop Group B with wins over Spain, Australia and Chile.<ref name="WC2014">{{cite web |url=https://www.rsssf.org/tables/2014full.html |title=World Cup 2014 – Match Details |first=Neil |last=Morrison |date=24 July 2014 |access-date=27 August 2015 |website=[[RSSSF]] |archive-url=https://web.archive.org/web/20181005012946/http://www.rsssf.com/tables/2014full.html |archive-date=5 October 2018}}</ref> The Netherlands took bronze in the tournament after defeating host nation Brazil 3–0 in the third place playoff.<ref name=CRCvNED/><ref>{{cite web|url=https://www.fifa.com/worldcup/news/defeated-dutch-take-stock-for-future-days-2402907|archive-url=https://web.archive.org/web/20180511202827/http://www.fifa.com/worldcup/news/defeated-dutch-take-stock-for-future-days-2402907|url-status=dead|archive-date=11 May 2018|title=Defeated Dutch take stock for future days|publisher=FIFA|date=10 July 2014|access-date=24 March 2019}}</ref>
+
+With the Netherlands having failed to qualify for the [[2018 FIFA World Cup|2018 World Cup]], falling behind France and Sweden in the qualifying group stage, they qualified for the [[2022 FIFA World Cup|2022 World Cup]]. They defeated Senegal in the group stage, followed by a draw against Ecuador, and a win over hosts Qatar. In the Round of 16 the Netherlands defeated the United States 3-1, only to lose to eventual champions Argentina in the Quarter Finals in a penalty shootout after 2-2.
+
+{{Netherlands FIFA World Cup record}}
+{| class="wikitable collapsible collapsed" style="width:50%;text-align:center"
+|-
+!style="background:#FF5F00; color:white; {{box-shadow border|a|black|2px}}" colspan=2|Netherlands' World Cup history
+|-
+!style="background:black; color:white; {{box-shadow border|a|#FF5F00|2px}}|First Match
+|{{fb|Switzerland}} 3–2 {{fb-rt|Netherlands}}<br />(27 May 1934; [[Milan]], [[Italy]])
+|-
+!style="background:black; color:white; {{box-shadow border|a|#FF5F00|2px}}|Biggest Win
+|{{fb|Netherlands}} 5–0 {{fb-rt|South Korea|1997}}<br />(20 June 1998; [[Marseille]], [[France]])
+|-
+!style="background:black; color:white; {{box-shadow border|a|#FF5F00|2px}}|Biggest Defeat
+|{{fb|Czechoslovakia}} 3–0 {{fb-rt|Netherlands}}<br />(5 June 1938; [[Le Havre]], [[France]])
+|-
+!style="background:black; color:white; {{box-shadow border|a|#FF5F00|2px}}|Best Result
+|Runners-up in [[1974 FIFA World Cup|1974]], [[1978 FIFA World Cup|1978]], [[2010 FIFA World Cup|2010]]
+|-
+!style="background:black; color:white; {{box-shadow border|a|#FF5F00|2px}}|Worst Result
+|Round of 32 in [[2026 FIFA World Cup|2026]] 
+|}
+
+===UEFA European Championship===
+{{Main|Netherlands at the UEFA European Championship}}
+
+{{Netherlands UEFA European Championship record}}
+
+===Olympic Games===
+{| class="wikitable" style="text-align: center;"
+|- 
+!style="color:white; background:#FF771D;" colspan=10|[[Football at the Summer Olympics|{{white|Olympic Games}}]] record
+|-
+!Year
+!Round
+!{{Abbr|Pld|Games played}}
+!{{Abbr|W|Won}}
+!{{Abbr|D|Drawn}}
+!{{Abbr|L|Lost}}
+!{{Abbr|GF|Goals for}}
+!{{Abbr|GA|Goals against}}
+!Squad
+|- bgcolor=#cc9966
+|{{flagicon|United Kingdom}} [[Football at the 1908 Summer Olympics|1908]]||Bronze medal||2||1||0||1||2||4||[[Football at the 1908 Summer Olympics&nbsp;– Men's team squads#Netherlands|Squad]]
+|- bgcolor=#cc9966
+|{{flagicon|Sweden}} [[Football at the 1912 Summer Olympics|1912]]||Bronze medal||4||3||0||1||17||8||[[Football at the 1912 Summer Olympics&nbsp;– Men's team squads#Netherlands|Squad]]
+|- bgcolor=#cc9966
+|{{flagicon|Belgium}} [[Football at the 1920 Summer Olympics|1920]]||Bronze medal||4||2||0||2||9||10||[[Football at the 1920 Summer Olympics&nbsp;– Men's team squads#Netherlands|Squad]]
+|- bgcolor=#9acdff
+|{{flagicon|France}} [[Football at the 1924 Summer Olympics|1924]]||Fourth place||5||2||1||2||11||7||[[Football at the 1924 Summer Olympics&nbsp;– Men's team squads#Netherlands|Squad]]
+|-
+| style="border: 3px solid red"|{{flagicon|Netherlands}} [[Football at the 1928 Summer Olympics|1928]]||Round of 16||1||0||0||1||0||2||[[Football at the 1928 Summer Olympics&nbsp;– Men's team squads#Netherlands|Squad]]
+|-
+|{{flagicon|Nazi Germany}} [[Football at the 1936 Summer Olympics|1936]]
+|colspan=9|''Did not enter''
+|-
+|{{flagicon|United Kingdom}} [[Football at the 1948 Summer Olympics|1948]]||Round of 16||2||1||0||1||6||5||[[Football at the 1948 Summer Olympics&nbsp;– Men's team squads#Netherlands|Squad]]
+|-
+|{{flagicon|Finland}} [[Football at the 1952 Summer Olympics|1952]]||Round of 16||1||0||0||1||1||5||[[Football at the 1952 Summer Olympics&nbsp;– Men's team squads#Netherlands|Squad]]
+|-
+|{{flagicon|Australia}} [[Association football at the 1956 Summer Olympics|1956]]
+|colspan=9 rowspan=7|''Did not enter''
+|-
+|{{flagicon|Italy}} [[Football at the 1960 Summer Olympics|1960]]
+|-
+|{{flagicon|Japan|1947}} [[Football at the 1964 Summer Olympics|1964]]
+|-
+|{{flagicon|Mexico}} [[Football at the 1968 Summer Olympics|1968]]
+|-
+|{{flagicon|West Germany}} [[Football at the 1972 Summer Olympics|1972]]
+|-
+|{{flagicon|Canada}} [[Football at the 1976 Summer Olympics|1976]]
+|-
+|{{flagicon|Soviet Union}} [[Football at the 1980 Summer Olympics|1980]]
+|-
+|{{flagicon|United States}} [[Football at the 1984 Summer Olympics|1984]]
+|colspan=8 rowspan=2|''Did not qualify''
+|-
+|{{flagicon|South Korea|1984}} [[Football at the 1988 Summer Olympics|1988]]
+|-
+|Since [[Football at the 1992 Summer Olympics|1992]]||colspan=9|''See [[Netherlands national under-21 football team]]''
+|-
+!style="color:white; background:#FF771D;"|Total
+!style="color:white; background:#FF771D;"|8/17
+!style="color:white; background:#FF771D;"|23
+!style="color:white; background:#FF771D;"|9
+!style="color:white; background:#FF771D;"|1
+!style="color:white; background:#FF771D;"|9
+!style="color:white; background:#FF771D;"|46
+!style="color:white; background:#FF771D;"|41
+!style="color:white; background:#FF771D;"|—
+|}
+''Since 1992, the Olympic Games has been an under-23 tournament (with three players of over 23 years of age allowed in the squad).''
+
+===UEFA Nations League===
+{| class="wikitable" style="text-align:center"
+!colspan=24 style="color:white;background:#FF771D"|[[UEFA Nations League|{{white|UEFA Nations League}}]] record
+|-
+!colspan=12|League phase / quarter-finals
+!rowspan=7|
+!colspan=9|Finals
+!rowspan=7|
+!rowspan=2|{{Tooltip|RK|Overall ranking}}
+|-
+!Season
+!{{Tooltip|LG|League (A, B, C or D)}}
+!{{Tooltip|Grp|Group (1, 2, 3 or 4)}}
+!{{Tooltip|Pos|Position}}
+!{{Tooltip|Pld|Matches played}}
+!{{Tooltip|W|Matches won}}
+!{{Tooltip|D|Matches drawn}}
+!{{Tooltip|L|Matches lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!{{Tooltip|P/R|Promotion/relegation at end of season}}
+!{{Tooltip|RK|Interim ranking}}
+!Year
+!Round
+!{{Tooltip|Pld|Matches played}}
+!{{Tooltip|W|Matches won}}
+!{{Tooltip|D|Matches drawn}}
+!{{Tooltip|L|Matches lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!Squad
+|- bgcolor=silver
+|[[2018–19 UEFA Nations League|2018–19]]
+|[[2018–19 UEFA Nations League A|A]]
+|[[2018–19 UEFA Nations League A#Group 1|1]]
+|1st||4||2||1||1||8||4||{{same position}}||3rd
+|{{flagicon|Portugal}} [[2019 UEFA Nations League Finals|2019]]
+|[[2019 UEFA Nations League final|Runners-up]]
+|2||1||0||1||3||2
+|[[2019 UEFA Nations League Finals squads#Netherlands|Squad]]
+|2nd
+|-
+|[[2020–21 UEFA Nations League|2020–21]]
+|[[2020–21 UEFA Nations League A|A]]
+|[[2020–21 UEFA Nations League A#Group 1|1]]
+|2nd||6||3||2||1||7||4||{{same position}}||6th
+|{{flagicon|Italy}} [[2021 UEFA Nations League Finals|2021]]
+|colspan=8|''Did not qualify''
+|6th
+|- 
+|- bgcolor=#9acdff
+|[[2022–23 UEFA Nations League|2022–23]]
+|[[2022–23 UEFA Nations League A|A]]
+|[[2022–23 UEFA Nations League A#Group 4|4]]
+|1st||6||5||1||0||14||6||{{same position}}||1st
+| style="border: 3px solid red"|{{flagicon|NED}} [[2023 UEFA Nations League Finals|2023]]
+|Fourth place
+|2||0||0||2||4||7
+|[[2023 UEFA Nations League Finals squads#Netherlands|Squad]]
+|4th
+|-
+|[[2024–25 UEFA Nations League|2024–25]]
+|[[2024–25 UEFA Nations League A|A]]
+|[[2024–25 UEFA Nations League A#Group 3|3]]
+|2nd||8||2||5||1||18||12||{{same position}}||6th
+|{{flagicon|Germany}} [[2025 UEFA Nations League Finals|2025]]
+|colspan=8|''Did not qualify''
+|6th
+|-
+!colspan=4 style="color:white;background:#FF771D"|Total
+!style="color:white;background:#FF771D"|24
+!style="color:white;background:#FF771D"|12
+!style="color:white;background:#FF771D"|9
+!style="color:white;background:#FF771D"|3
+!style="color:white;background:#FF771D"|47
+!style="color:white;background:#FF771D"|26
+!colspan=2 style="color:white;background:#FF771D"|''N/A''
+!colspan=2 style="color:white;background:#FF771D"|Total
+!style="color:white;background:#FF771D"|4
+!style="color:white;background:#FF771D"|1
+!style="color:white;background:#FF771D"|0
+!style="color:white;background:#FF771D"|3
+!style="color:white;background:#FF771D"|7
+!style="color:white;background:#FF771D"|9
+!style="color:white;background:#FF771D"|—
+!style="color:white;background:#FF771D"|2nd
+|}
+
+==FIFA Ranking==
+''Last update was on 21 December 2023.''<!-- Need to update with valid reason and proof -->
+Source:<ref>{{cite web|title=FIFA-ranking|url=https://www.fifa.com/fifa-world-ranking/associations/association=mas/men/index.html|archive-url=https://web.archive.org/web/20150219161019/http://www.fifa.com/fifa-world-ranking/associations/association=mas/men/index.html|url-status=dead|archive-date=19 February 2015|access-date=11 September 2018}}</ref>
+[https://www.fifa.com/fifa-world-ranking/associations/association/NED/men/ The FIFA/Coca-Cola World Ranking - Associations - Netherlands - Men's ]
+{{Graph:Chart
+ | colors=blue, gold
+ | width=400
+ | height=100
+ | legend=Ranking
+ | type=line
+ | xType=string
+ | xAxisAngle=60
+ | x=1993,
+1994,
+1995,
+1996,
+1997,
+1998,
+1999,
+2000,
+2001,
+2002,
+2003,
+2004,
+2005,
+2006,
+2007,
+2008,
+2009,
+2010,
+2011,
+2012,
+2013,
+2014,
+2015,
+2016,
+2017,
+2018,
+2019,
+2020,
+2021,
+2023
+ | yGrid=
+ | y1Title=Best
+ | y2Title=Worst
+ | y1=2,
+2,
+5,
+6,
+4,
+6,
+8,
+8,
+7,
+6,
+4,
+4,
+2,
+3,
+5,
+3,
+2,
+2,
+1,
+2,
+5,
+3,
+5,
+14,
+20,
+14,
+12,
+13,
+10,
+7
+
+ | y2=16,
+11,
+17,
+13,
+22,
+25,
+19,
+21,
+10,
+15,
+7,
+6,
+7,
+6,
+9,
+10,
+3,
+4,
+2,
+8,
+9,
+15,
+16,
+26,
+36,
+21,
+16,
+15,
+16
+ | yAxisMax=0
+ | yAxisMin=40
+
+}}
+{{Color box|gold|border=darkgray}} '''Worst Ranking'''&nbsp;&nbsp;{{Color box|blue|border=darkgray}} '''Best Ranking'''&nbsp;&nbsp;{{Color box|red|border=darkgray}} '''Worst Mover'''&nbsp;&nbsp;{{Color box|green|border=darkgray}} '''Best Mover'''&nbsp;&nbsp;
+{| class="wikitable sortable" style="text-align:center"
+|-
+!colspan=12 style="background:#013A5E;color:#FFFFFF;|[[FIFA World Ranking|{{color|#FFFFFF|Netherlands's FIFA world ranking}}]]
+|-
+!rowspan=2|
+!rowspan=2|Rank
+!rowspan=2|Year
+!rowspan=2|Games<br />played
+!rowspan=2|Won
+!rowspan=2|Drawn
+!rowspan=2|Lost
+!colspan=2|Best
+!colspan=2|Worst
+|-
+!Rank
+!Move
+!Rank
+!Move
+|-
+|||7||1993||7||5||1||2
+|2||align=left|{{increase}} 5||16||align=left|{{decrease}} 9
+|-
+|||6||1994||15||9||3||3
+|2||align=left|{{increase}} 9||11||align=left|{{decrease}} 6
+|-
+|||6||1995||9||5||0||4
+|5||align=left|{{increase}} 12||17||align=left|{{decrease}} 9
+|-
+|||9||1996||11||6||3||2
+|6||align=left|{{increase}} 7||13||align=left|{{decrease}} 5
+|-
+|||22||1997||7||4||1||2
+|4||align=left|{{increase}} 4||22||align=left|{{decrease}} 10
+|-
+|{{Color box|green|border=darkgray}}||11||1998||15||8||5||2
+|6||align=left|{{increase}} 19||25||align=left|{{decrease}} 11
+|-
+|||19||1999||9||0||7||2
+|8||align=left|{{increase}} 3||19||align=left|{{decrease}} 3
+|-
+|||8||2000||14||9||4||1
+|8||align=left|{{increase}} 13||21||align=left|{{decrease}} 2
+|-
+|||8||2001||10||6||3||1
+|7||align=left|{{increase}} 2||10||align=left|{{decrease}} 1
+|-
+|||6||2002||7||6||1||0
+|6||align=left|{{increase}} 4||15||align=left|{{decrease}} 6
+|-
+|||4||2003||11||6||3||2
+|4||align=left|{{increase}} 2||7||align=left|{{decrease}} 3
+|-
+|||6||2004||17||8||5||4
+|4||align=left|{{increase}} 1||6||align=left|{{decrease}} 1
+|-
+|||3||2005||11||7||3||1
+|2||align=left|{{increase}} 2||7||align=left|{{decrease}} 1
+|-
+|||7||2006||14||6||4||4
+|3||align=left|{{increase}} 0||6||align=left|{{decrease}} 3
+|-
+|||9||2007||12||7||3||2
+|5||align=left|{{increase}} 2||9||align=left|{{decrease}} 3
+|-
+|||3||2008||15||6||3||6
+|3||align=left|{{increase}} 5||10||align=left|{{decrease}} 1
+|-
+|||3||2009||11||5||3||3
+|2||align=left|{{increase}} 1||3||align=left|{{decrease}} 1
+|-
+|||2||2010||17||15||1||1
+|2||align=left|{{increase}} 2||4||align=left|{{decrease}} 1
+|-
+|{{Color box|blue|border=darkgray}}||2||2011||11||6||2||2
+|1||align=left|{{increase}} 1||2||align=left|{{decrease}} 1
+|-
+|||8||2012||13||7||1||6
+|2||align=left|{{increase}} 2||8||align=left|{{decrease}} 4
+|-
+|||9||2013||12||7||5||0
+|5||align=left|{{increase}} 4||9||align=left|{{decrease}} 4
+|-
+|||5||2014||17||9||3||5
+|3||align=left|{{increase}} 12||15||align=left|{{decrease}} 4
+|-
+|||14||2015||9||4||1||4
+|5||align=left|{{increase}} 2||16||align=left|{{decrease}} 7
+|-
+|{{Color box|red|border=darkgray}} {{Color box|yellow|border=darkgray}}||22||2016||11||5||3||3
+|14||align=left|{{increase}} 4||26||align=left|{{decrease}} 12
+|-
+|||20||2017||11||8||0||3
+|20||align=left|{{increase}} 9||36||align=left|{{decrease}} 11
+|-
+|||14||2018||10||4||4||2
+|14||align=left|{{increase}} 2||21||align=left|{{decrease}} 1
+|-
+|||14||2019||10||7||1||2
+|12||align=left|{{increase}} 1||16||align=left|{{decrease}} 2
+|-
+|||14||2020||8||3||3||2
+|13||align=left|{{increase}} 1||15||align=left|{{decrease}} 2
+|-
+|||10||2021||16||11||3||2
+|10||align=left|{{increase}} 1||16||align=left|{{decrease}} 2
+|-
+|||6||2023||10||6||0||4
+|6||align=left|{{increase}} 4||7||align=left|{{decrease}} 1
+|}
+
+==Honours==
+===Global===
+* '''[[FIFA World Cup]]'''
+** {{Silver2}} Runners-up (3): [[1974 FIFA World Cup|1974]], [[1978 FIFA World Cup|1978]], [[2010 FIFA World Cup|2010]]
+** {{Bronze3}} Third place (1): [[2014 FIFA World Cup|2014]]
+* '''[[Football at the Summer Olympics|Olympic Games]]'''
+** {{Bronze3}} Bronze medal (3): [[Football at the 1908 Summer Olympics|1908]], [[Football at the 1912 Summer Olympics|1912]], [[Football at the 1920 Summer Olympics|1920]]
+
+===Continental===
+* '''[[UEFA European Championship]]'''
+** {{Gold1}} '''Champions''' (1): [[UEFA Euro 1988|1988]]
+** {{Bronze3}} Third place (1): [[UEFA Euro 1976|1976]]
+* '''[[UEFA Nations League]]'''
+** {{Silver2}} Runners-up (1): [[2019 UEFA Nations League Finals|2019]]
+
+===Awards===
+* '''[[World Soccer (magazine)#Men's World Team of the Year|World Soccer Team of the Year]]''': 1988
+
+===Summary===
+{| class="wikitable" width=30% style="font-size:90%; text-align:center;"
+|-
+!Competition!!{{Gold1}}!!{{Silver2}}!!{{Bronze3}}!!Total
+|-
+|align="left"|[[FIFA World Cup]]
+|0||3||1||4
+|-
+|align="left"|[[Olympic Games]]
+|0||0||3||3
+|-
+|align="left"|[[UEFA European Championship]]
+|1||0||1||2
+|-
+|align="left"|[[UEFA Nations League]]
+|0||1||0||1
+|-
+!Total!!1!!4!!5!!10
+|}
+
+==See also==
+{{Portal bar|Association football|Netherlands}}
+* Netherlands Golden Generation
+* [[Netherlands national under-21 football team]]
+* [[Netherlands national under-19 football team]]
+* [[Netherlands national under-17 football team]]
+
+==Notes==
+{{Reflist|group=upper-alpha}}
+{{Reflist|group=lower-alpha}}
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons category|Netherlands national association football team}}
+* {{Official website|https://www.onsoranje.nl/|onsoranje.nl – official website}} {{in lang|nl}}
+* [http://www.voetbalstats.nl/ voetbalstats.nl – statistics of the national football team] {{in lang|nl}}
+* [https://www.uefa.com/nationalassociations/ned/ Netherlands] at [[UEFA]]
+* [https://www.fifa.com/about-fifa/associations/NED Netherlands] at [[FIFA]]
+* [https://globalsportsarchive.com/en/soccer/team/netherlands/686 Netherlands national football team] at  Global Sports Archive
+* [https://www.rsssf.org/miscellaneous/ned-recintlp.html Netherlands internationals] at the [[RSSSF]] archive
+* [https://www.rsssf.org/miscellaneous/ned-coach-triv.html Netherlands managers] at the [[RSSSF]] archive
+
+{{Netherlands national football team}}
+{{Navboxes top
+| title = Links to related articles
+| bg = #FF771D
+| fg = white
+| bordercolor = #21468B
+}}
+{{UEFA Euro Winners}}
+{{Navboxes top
+| title = Netherlands squads
+| bg = #FF771D
+| fg = white
+| bordercolor = #21468B
+}}
+{{Navboxes top
+| title = Netherlands UEFA European Championship squads
+| bg = #FF771D
+| fg = white
+| bordercolor = #21468B
+}}{{Netherlands squad UEFA Euro 1976}}
+{{Netherlands squad UEFA Euro 1980}}
+{{Netherlands squad UEFA Euro 1988}}
+{{Netherlands squad UEFA Euro 1992}}
+{{Netherlands squad UEFA Euro 1996}}
+{{Netherlands squad UEFA Euro 2000}}
+{{Netherlands squad UEFA Euro 2004}}
+{{Netherlands squad UEFA Euro 2008}}
+{{Netherlands squad UEFA Euro 2012}}
+{{Netherlands squad UEFA Euro 2020}}
+{{Navboxes bottom}}
+{{Navboxes top
+| title = Netherlands FIFA World Cup squads
+| bg = #FF771D
+| fg = white
+| bordercolor = #21468B
+}}
+{{Netherlands squad 1934 FIFA World Cup}}
+{{Netherlands squad 1938 FIFA World Cup}}
+{{Netherlands squad 1974 FIFA World Cup}}
+{{Netherlands squad 1978 FIFA World Cup}}
+{{Netherlands squad 1990 FIFA World Cup}}
+{{Netherlands squad 1994 FIFA World Cup}}
+{{Netherlands squad 1998 FIFA World Cup}}
+{{Netherlands squad 2006 FIFA World Cup}}
+{{Netherlands squad 2010 FIFA World Cup}}
+{{Netherlands squad 2014 FIFA World Cup}}
+{{Netherlands squad 2022 FIFA World Cup}}
+{{Netherlands squad 2026 FIFA World Cup}}
+{{Navboxes bottom}}
+{{Navboxes top
+| title = Netherlands Football at the Summer Olympics squads
+| bg = #FF771D
+| fg = white
+| bordercolor = #21468B
+}}{{Netherlands football squad 1908 Summer Olympics}}
+{{Netherlands football squad 1912 Summer Olympics}}
+{{Netherlands football squad 1920 Summer Olympics}}
+{{Netherlands football squad 1924 Summer Olympics}}
+{{Netherlands football squad 1928 Summer Olympics}}
+{{Netherlands football squad 1948 Summer Olympics}}
+{{Netherlands football squad 1952 Summer Olympics}}
+{{Netherlands men's football squad 2008 Summer Olympics}}
+{{Navboxes bottom}}
+{{Navboxes
+| title = FIFA World Cup and UEFA European Championship finalists
+| list1 =
+{{1934 FIFA World Cup finalists}}
+{{1938 FIFA World Cup finalists}}
+{{1974 FIFA World Cup finalists}}
+{{UEFA Euro 1976 finalists}}
+{{1978 FIFA World Cup finalists}}
+{{UEFA Euro 1980 finalists}}
+{{UEFA Euro 1988 finalists}}
+{{1990 FIFA World Cup finalists}}
+{{UEFA Euro 1992 finalists}}
+{{1994 FIFA World Cup finalists}}
+{{UEFA Euro 1996 finalists}}
+{{1998 FIFA World Cup finalists}}
+{{UEFA Euro 2000 finalists}}
+{{UEFA Euro 2004 finalists}}
+{{2006 FIFA World Cup finalists}}
+{{UEFA Euro 2008 finalists}}
+{{2010 FIFA World Cup finalists}}
+{{UEFA Euro 2012 finalists}}
+{{2014 FIFA World Cup finalists}}
+{{UEFA Euro 2020 finalists}}
+{{2022 FIFA World Cup finalists}}
+}}
+{{Navboxes bottom}}
+{{Football in the Netherlands}}
+{{UEFA teams}}
+{{National sports teams of the Netherlands}}
+{{Navboxes bottom}}
+
+{{DEFAULTSORT:Netherlands National Football Team}}
+[[Category:Netherlands national football team| ]]
+[[Category:Netherlands men's national football teams| ]]
+[[Category:European national association football teams]]
+[[Category:UEFA European Championship–winning countries]]
+[[Category:1905 establishments in the Netherlands]]
+[[Category:National sports teams established in 1905]]

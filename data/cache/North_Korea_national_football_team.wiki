@@ -1,0 +1,1262 @@
+{{Short description|none}}
+{{About|the men's team|the women's team|North Korea women's national football team}}
+{{Use dmy dates|date=June 2025}}
+{{Infobox national football team
+| Name                  = DPR Korea
+| Nickname              = ''[[Qianlima|Chollima]]'' <br /> ({{langx|ko|천리마}})<ref name="Montague2017">{{Cite web | title = Inside the Secret World of Football in North Korea | last = Montague | first = James | work = Bleacher Report | date = 12 December 2017 | access-date = 3 January 2018 | url = https://bleacherreport.com/articles/2746418-inside-the-secret-world-of-football-in-north-korea | archive-date = 3 January 2018 | archive-url = https://web.archive.org/web/20180103070351/http://bleacherreport.com/articles/2746418-inside-the-secret-world-of-football-in-north-korea | url-status = live }}</ref> <br /> ''Samba of East Asia'' <br /> ({{langx|ko|동아시아의 삼바}})
+| Badge                 = North_Korea_FA.png
+| Association           = [[DPR Korea Football Association]] (PRKFA)
+| Confederation         = [[Asian Football Confederation|AFC]] (Asia)
+| Sub-confederation     = [[East Asian Football Federation|EAFF]] (East Asia)
+| Coach                 = [[Sin Yong-nam]]
+| Captain               = [[Jang Kuk-chol]]
+| Most caps             = [[Ri Myong-guk]] (118)
+| Top scorer            = [[Jong Il-gwan]] (31)
+| Home Stadium          = [[Kim Il Sung Stadium]]
+| FIFA Trigramme        = PRK
+| FIFA Rank             = {{FIFA World Rankings|PRK}}
+| FIFA max              = 57
+| FIFA max date         = November 1993
+| FIFA min              = 181
+| FIFA min date         = October – November 1998
+| Elo Rank              = {{World Football Elo Ratings|North Korea}}
+| Elo max               = 10
+| Elo max date          = January 1970 <ref name=nkelo>[https://www.eloratings.net/North_Korea North Korea] {{Webarchive|url=https://web.archive.org/web/20190103210239/http://www.eloratings.net/North_Korea |date=3 January 2019}} at World Football Elo Ratings</ref>
+| Elo min               = 131
+| Elo min date          = June 2019<ref name=nkelo/>
+| pattern_la1           = _dpr1617a
+| pattern_b1            = _dpr1617a
+| pattern_ra1           = _dpr1617a
+| pattern_sh1           = _dpr1617a
+| leftarm1              = FF0000
+| body1                 = FF0000
+| rightarm1             = FF0000
+| shorts1               = FF0000
+| socks1                = FF0000
+| pattern_la2           = _dpr1617h
+| pattern_b2            = _dpr1617h
+| pattern_ra2           = _dpr1617h
+| pattern_sh2           = _dpr1617h
+| leftarm2              = FFFFFF
+| body2                 = FFFFFF
+| rightarm2             = FFFFFF
+| shorts2               = FFFFFF
+| socks2                = FFFFFF
+| First game            = {{fb|CHN}}  0–1 {{fb-rt|PRK|1948}} <br />([[Beijing]], [[China]]; 7 October 1956)<ref>{{Cite web |url=http://www.eloratings.net/North_Korea.htm |title=North Korea matches, ratings and points exchanged<!-- Bot generated title --> |access-date=19 November 2010 |archive-date=22 November 2010 |archive-url=https://web.archive.org/web/20101122061459/http://eloratings.net/North_Korea.htm |url-status=live }}</ref>
+| Largest win           = {{fb|PRK|1992}} 21–0 {{fb-rt|GUM}} <br /> ([[Taipei]], [[Republic of China|Taiwan]]; 11 March 2005)
+| Largest loss          = {{fb|POR}} [[2010 FIFA World Cup Group G#Portugal vs North Korea|7–0]] {{fb-rt|PRK|1992}}<br />([[Cape Town]], [[South Africa]]; 21 June 2010)
+| World cup apps        = 2
+| World cup first       = 1966
+| World cup best        = Quarter-finals ([[1966 FIFA World Cup|1966]])
+| Regional name         = [[AFC Asian Cup]]
+| Regional cup apps     = 6
+| Regional cup first    = [[1980 AFC Asian Cup|1980]]
+| Regional cup best     = Fourth place ([[1980 AFC Asian Cup|1980]])
+| 2ndRegional name      = [[AFC Challenge Cup]]
+| 2ndRegional cup apps  = 3
+| 2ndRegional cup first = [[2008 AFC Challenge Cup|2008]]
+| 2ndRegional cup best  = Champions ([[2010 AFC Challenge Cup|2010]], [[2012 AFC Challenge Cup|2012]])
+| 3rdRegional name      = [[EAFF E-1 Football Championship]]
+| 3rdRegional cup apps  = 4
+| 3rdRegional cup first = [[2005 East Asian Football Championship|2005]]
+| 3rdRegional cup best  = Third place ([[2005 East Asian Football Championship|2005]], [[2015 EAFF East Asian Cup|2015]]) 
+| medaltemplates =
+{{MedalCompetition| [[Football at the Asian Games|Asian Games]]}}
+{{MedalGold|[[Football at the 1978 Asian Games|1978 Thailand]] | [[Football at the 1978 Asian Games – Squads|Team]]}}
+{{MedalSilver|[[Football at the 1990 Asian Games|1990 China]] | [[Football at the 1990 Asian Games – Squads#North Korea|Team]]}}
+{{MedalCompetition| [[AFC Challenge Cup]]}}
+{{MedalGold| [[2012 AFC Challenge Cup|2012 Nepal]]| [[2012 AFC Challenge Cup squads|Team]]}}
+{{MedalGold| [[2010 AFC Challenge Cup|2010 Sri Lanka]]| [[2010 AFC Challenge Cup squads|Team]]}}
+{{MedalBronze| [[2008 AFC Challenge Cup|2008 India]]| [[2008 AFC Challenge Cup squads|Team]]}}
+{{MedalCompetition| [[EAFF E-1 Football Championship]]}}
+{{MedalBronze| [[2005 East Asian Football Championship|2005 South Korea]]| [[2005 East Asian Football Championship Final squads|Team]]}}
+{{MedalBronze| [[2015 EAFF East Asian Cup|2015 China]]| [[2015 EAFF East Asian Cup Final squads|Team]]}}
+}}
+{{Infobox Korean name|title=DPR of Korea national football team
+|hangul=조선민주주의인민공화국 축구 국가대표팀|othername1=[[Munhwaŏ]]|
+|hangul1=조선민주주의인민공화국 국가종합팀
+|hanja1=朝鮮民主主義人民共和國國家綜合팀|rr1=Joseon Minjujuui Inmin Gonghwaguk Gukga Jonghap Tim|mr1=Chosŏn Minjujuŭi Inmin Konghwaguk Kukka Chonghap T'im
+|hanja=朝鮮民主主義人民共和國蹴球國家代表팀|rr=Joseon Minjujuui Inmin Gonghwaguk Chukgu Gukga Daepyo Tim|mr=Chosŏn Minjujuŭi Inmin Konghwaguk Ch'ukku Kukka Taep'yo T'im|context=north}}
+
+The '''North Korea national football team''' ({{Korean|hangul=조선민주주의인민공화국 국가종합팀}}; recognized as '''DPR Korea''' by [[FIFA]])<ref>{{cite news |date= |title=Korea DPR |publisher=FIFA |url=https://www.fifa.com/fifa-world-ranking/PRK |access-date= |archive-date=6 March 2022 |archive-url=https://web.archive.org/web/20220306011334/https://www.fifa.com/fifa-world-ranking/PRK |url-status=live }}</ref> represents [[North Korea]] in men's international [[Association football|football]] and it is controlled by the [[DPR Korea Football Association]], the governing body for [[football in North Korea]]. It has been a member of [[FIFA]] since 1958 and also a member of [[Asian Football Confederation|AFC]] since 1974.
+
+North Korea’s national team made its [[FIFA World Cup]] debut in [[1966 FIFA World Cup|1966]], reaching the quarter-finals and defeating [[Italy national football team|Italy]] in the group stage, becoming the first men's Asian team in history to advance beyond the group stage. During the [[2006 FIFA World Cup qualification (AFC)|2006 FIFA World Cup qualifiers]], controversy arose when the team's supporters rioted over the team's failure to qualify, interfering with the opposing team’s exit from the stadium. In 2009, the team secured qualification for the [[2010 FIFA World Cup]], marking its second World Cup appearance in their history. North Korea has qualified for the [[AFC Asian Cup]] six times; finishing fourth in [[1980 AFC Asian Cup|1980]], and appearing in [[1992 AFC Asian Cup|1992]], [[2011 AFC Asian Cup|2011]], in [[2015 AFC Asian Cup|2015]], and in [[2019 AFC Asian Cup|2019]]. The current squad includes both native North Koreans and Japanese [[Zainichi Koreans]].
+
+==History ==
+
+===North Korea's debut and the 1966 FIFA World Cup ===
+The [[DPR Korea Football Association|North Korea Football Association]] was founded in 1945. It became a member of the [[Asian Football Confederation|AFC]] during the confederation's first year of existence in 1954, and has been affiliated with [[FIFA]] since 1958. The first official match of the North Korean national football team was played on 22 March 1964, in [[Rangoon]], against [[Burma national football team|Burma]], as part of the [[Football at the 1964 Summer Olympics – Men's qualification#Asia|1964 Olympic qualifiers]]. This first match in the history of the North Korean selection ended in a goalless draw. Thanks to their victory over the Burmese in the second leg, the ''Chollimas'' reached the next round against [[Thailand national football team|Thailand]], a two-legged affair also hosted in Rangoon. They won easily (7–0 over the two matches), but were forced to forfeit the final phase of the tournament because the [[International Olympic Committee|IOC]] decided to ban any athlete who participated in the [[GANEFO]]—which several footballers from the national team did.<ref>{{cite news |title=REVERSAL SOUGHT IN GAMES DISPUTE; Olympic Croup Hopes to Get Ban on 2 Nations Lifted |url=https://www.nytimes.com/1964/09/19/archives/reversal-sought-in-games-dispute-olympic-croup-hopes-to-get-ban-on.html |website=[[New York Times]] |date=19 September 1964 |access-date=17 February 2022 |archive-date=17 February 2022 |archive-url=https://web.archive.org/web/20220217132717/https://www.nytimes.com/1964/09/19/archives/reversal-sought-in-games-dispute-olympic-croup-hopes-to-get-ban-on.html |url-status=live }}</ref>
+
+In 1965, the national team took part again in GANEFO, and in [[1966 FIFA World Cup qualification (Africa, Asia and Oceania)|1966 FIFA World Cup qualification]] for the first time. That year, FIFA decided to place all the selections entered from Africa, Asia and Oceania in a single qualifying group, with the aim of offering only one place. All registered African countries protested by withdrawing from the competition, leaving only North Korea and [[Australia men's national soccer team|Australia]]. The Australians started as favourites, but the North Koreans won both matches (6–1 and 3–1) and qualified for the final phase. The qualification of North Korea posed a diplomatic problem for the organizing country, the [[United Kingdom]]; since the [[Korean War]], they had not recognized the legitimacy of the Pyongyang government and would not fly its flag or play its national anthem. The problem was only partly solved before the start of the competition in July 1966; the North Korean flag was flown alongside those of the other participants, but the national anthem was not played before the team's matches.<ref>{{cite book |last1=Atherton |first1=Martin |title=The theft of the Jules Rimet Trophy : the hidden history of the 1966 World Cup |date=2008 |publisher=Meyer & Meyer Sport |location=Aachen |isbn=9781841262277 |page=15 |url=https://books.google.com/books?id=m7SbwNM4Y0sC |access-date=19 February 2022 |archive-date=26 January 2024 |archive-url=https://web.archive.org/web/20240126081317/https://books.google.com/books?id=m7SbwNM4Y0sC |url-status=live }}</ref>
+
+In the [[1966 FIFA World Cup]], they were drawn into group 4, along with the [[USSR national football team|USSR]], [[Italy national football team|Italy]] and [[Chile national football team|Chile]], the first time North Korea would face teams from another continent. The ''Chollimas'' lost their first game against the Soviets, then managed a 1–1 draw against Chile ([[Pak Seung-zin]] scoring North Korea's first goal at a World Cup). The last match, against the Italian double world champions, was crucial, as the winner would obtain their ticket to the quarter-finals. The discipline of [[Myung Rye-hyun]]'s men managed to secure them a historic 1–0 upset victory with a goal from [[Pak Doo-ik]]. This was the first time an Asian team qualified for the quarter-finals of a World Cup. At the same time, the public began to take an interest in these disciplined players from a closed country. They were cheered on by locals in the town of [[Middlesbrough]], where they were housed, including the team's star players, [[Pak Seung-zin]] and [[Pak Doo-ik]].<ref>{{cite news |last1=Menzies |first1=Paul |title=50 years ago: Why Middlesbrough would never forget North Korea |url=https://www.gazettelive.co.uk/news/nostalgia/one-thing-certain-middlesbrough-would-11576650 |access-date=5 February 2025 |work=Teesside Live |date=19 July 2016 |language=en}}</ref><ref>{{cite news |last1=Taylor |first1=Louise |title=How little stars from North Korea were taken to Middlesbrough's heart |url=https://www.theguardian.com/football/2010/jun/08/north-korea-world-cup-middlesbrough |access-date=5 February 2025 |work=The Guardian |date=8 June 2010}}</ref> In the quarter-finals, North Korea faced [[Portugal national football team|Portugal]], which had eliminated reigning world champions [[Brazil national football team|Brazil]] in the group stage. After 25 minutes of play, the Koreans led 3–0 (goals from [[Pak Seung-zin]], [[Yang Seung-kook]] and [[Li Dong-woon]]) but began to lose their discipline. Portuguese star player [[Eusébio]] went on to score four goals, and [[José Augusto (footballer)|José Augusto]] added another to defeat North Korea 5–3.<ref>{{Cite web |title=Four-goal Eusebio inspires comeback for the ages |url=https://www.fifa.com/en/tournaments/mens/worldcup/articles/portugal-korea-dpr-eusebio-england-1966 |archive-url=https://web.archive.org/web/20241107214844/https://www.fifa.com/en/tournaments/mens/worldcup/articles/portugal-korea-dpr-eusebio-england-1966 |archive-date=2024-11-07 |access-date=2025-06-05 |website=www.fifa.com |language=en}}</ref> When the North Korean players returned home, the crowd cheered them on as heroes. [[Pak Seung-zin]] remains North Korea's top scorer in the FIFA World Cup with two goals in four games.{{citation needed|date=September 2023}}
+
+Thirty-five years later, British director [[Dan Gordon (screenwriter)|Dan Gordon]] and North Korea specialist Nicholas Bonner (Koryo Tours), made a film called ''[[The Game of Their Lives (2002 film)|The Game of Their Lives]]'' after finding the seven surviving players of the 1966 side, who had become favourites with the British public and were celebrated as heroes on their return to their country. The film screened in North Korea and South Korea and received the award for Best Sports Documentary from the [[Royal Television Society]].{{citation needed|date=January 2026}}. In 2002, Gordon and Bonner brought the team back to the site of their victory in Middlesbrough.<ref>{{cite news|last=White|first=Jim|url=https://www.theguardian.com/football/2002/oct/18/newsstory.sport|title=North Korea in town to relive game of their lives|newspaper=[[The Guardian]]|date=18 October 2002|access-date=19 June 2026}}</ref>
+
+===After the FIFA World Cup (1967–1980) ===
+
+Following the FIFA World Cup, North Korea only rarely took part in the qualifying campaigns for the various continental and world tournaments. The ''Chollimas'' forfeited the [[Football at the 1968 Summer Olympics – Men's qualification|1968 Olympic qualifiers]], and failed to enter the [[1968 AFC Asian Cup qualification]] and [[1970 FIFA World Cup qualification (AFC and OFC)|1970 FIFA World Cup qualifiers]] when they refused to face the [[Israel national football team|Israeli team]] in the second round of the playoffs. Between their World Cup quarter-final and 1971, they played only one [[exhibition match|friendly]] against [[Algeria national football team|Algeria]], losing 3–1 in [[Algiers]]. This meeting was the first in the history of the North Korean team against an African side.
+
+The North Koreans played their first official game since 1966 in 1972, as part of the [[Football at the 1972 Summer Olympics – Men's Asian Qualifiers|1972 Olympic qualifiers]]. They defeated [[Syria national football team|Syria]] and [[Iraq national football team|Iraq]], but ended up losing against [[Iran national football team|Iran]] 2–0 in a play-off match, following 0–0 draws in both of the first two legs. They decided again not to register for the [[1972 AFC Asian Cup qualification|1972 AFC Asian Cup qualifiers]]. In May 1973, [[Pak Seung-zin]]'s men were in [[Tehran]] to play the first phase of the [[1974 FIFA World Cup qualification (AFC and OFC)|1974 FIFA World Cup qualifiers]]. They were in Group 2, along with host nation [[Iran national football team|Iran]], [[Syria national football team|Syria]] and [[Kuwait national football team|Kuwait]]. The team finished third in the group, behind the Iranians, who qualified for the rest of the competition, and Syria.
+
+North Korea took part in Asian Cup qualification for the first time in [[1976 AFC Asian Cup qualification|1976]]. Placed in group 4-B, with [[Japan national football team|Japan]] and [[Singapore national football team|Singapore]], the ''Chollimas'' finished first, then beat [[Hong Kong national football team|Hong Kong]] in the semi-finals, ensuring their participation in the tournament proper, then beating [[China national football team|China]] in the final match. But, like [[Saudi Arabia national football team|Saudi Arabia]] and [[Thailand national football team|Thailand]], the North Koreans withdrew and missed the opportunity to take part in the continental tournament for the first time.
+
+The following year, under the direction of former striker [[Pak Doo-ik]], the team qualified for the [[Football at the 1976 Summer Olympics|Olympic football tournament]] for the second time. They finished first during [[Football at the 1976 Summer Olympics – Men's Asian Qualifiers|qualification]] and advanced following a penalty shootout against [[Indonesia national football team|Indonesia]]. In [[Montreal]], they were placed in Group 3 with hosts [[Canada men's national soccer team|Canada]] and the [[USSR national football team|USSR]]. The North Koreans beat Canada 3–1, then lost to the Soviets 0–3, but still qualified for the quarter-finals in second. They failed again at this stage, suffering a heavy 5-0 defeat against future silver medalist team [[Poland national football team|Poland]]. They played the last half hour with ten men against the Poles, led by [[Grzegorz Lato]] and [[Andrzej Szarmach]], who each scored twice.
+
+The following two qualifying campaigns, for the [[1978 FIFA World Cup qualification (AFC and OFC)|1978 FIFA World Cup]] and for the [[Football at the 1980 Summer Olympics – Men's Asian Qualifiers|1980 Olympics]], were failures. The former was cut short with a withdrawal for diplomatic reasons, the North Koreans finding themselves in the same qualifying group as their southern neighbors, and in 1980, the ''Chollimas'' finished in 4th place in Group 3 of the pre-tournament, overtaken by [[Iran national football team|Iran]], [[Singapore national football team|Singapore]] and [[China national football team|China]].
+
+In 1980, this time with [[Yang Seung-kook]] on the bench, the North Koreans took part in [[1980 AFC Asian Cup qualification]] which saw successes against [[Thailand national football team|Thailand]] and [[Malaysia national football team|Malaysia]]. They finished in second place in Group 1 of the [[1980 AFC Asian Cup]], behind defending champions [[Iran national football team|Iran]]. In the semi-finals, they faced [[South Korea national football team|South Korea]] in an event of both sporting and political significance. After opening the scoring early, North Korea conceded two goals by [[Chung Hae-won]] in the last ten minutes and saw their journey come to an end in the semi-final, their best performance in the Asian Cup of Nations. The game for third place was a disaster, with a 3–0 defeat against [[Iran national football team|Iran]].
+
+===From one Asian Cup to another (1981–1992) ===
+
+In 1980, with former international [[Han Bong-zin]] on the bench, the North Koreans moved on to [[1982 FIFA World Cup qualification (AFC and OFC)|1982 FIFA World Cup qualification]]. After finishing top of their group (ahead of [[Hong Kong national football team|Hong Kong]] and [[Singapore national football team|Singapore]]), they eliminated [[Japan national football team|Japan]] in the semi-finals but lost to [[China national football team|China]] in the group final, ending any hopes of qualification. The following year, the selection participated in the [[Football at the 1982 Asian Games|1982 Asian Games]]. North Korean progressed through the first round (drawing against [[Syria national football team|Syria]] and [[Saudi Arabia national football team|Saudi Arabia]] and victory against [[Thailand national football team|Thailand]]), then beat [[Japan national football team|Japan]] in the quarter-finals. They lost in extra time in the semi-finals, against [[Kuwait national football team|Kuwait]]. The end of the match was extremely turbulent as the North Korean players attacked Thai referee [[Vijit Getkaew]]. The penalties from the [[Asian Football Confederation|AFC]] were heavy with a two-year suspension, which began as soon as the match ended, therefore they did not even play the match for the bronze medal, which automatically went to Saudi Arabia, the other unfortunate semi-finalists. The immediate consequence of this decision by the AFC, was the disqualification of North Korea from the [[1984 AFC Asian Cup qualification|1984 AFC Asian Cup qualifiers]] and from the [[Football at the 1984 Summer Olympics – Men's qualification|1984 Olympic qualifiers]] which were boycotted by North Korea.
+
+The selection therefore spent almost four years without playing official matches. For the [[1986 FIFA World Cup qualification (AFC)|1986 FIFA World Cup qualifiers]], they entered Group 4 alongside [[Japan national football team|Japan]] and [[Singapore national football team|Singapore]], two nations they had beaten four years previously. This time, it was the Japanese, led by [[Hiromi Hara]], who finished top of the group and continued their qualifying campaign.
+
+In 1988, North Korea did not participate in the [[Football at the 1988 Summer Olympics – Men's qualification|1988 Olympic tournament]]. North Korea had initially asked to be involved in the Games, a request refused by the [[International Olympic Committee]], resulting in their boycott of the Games. As for the [[1988 AFC Asian Cup qualification]], North Korea only placed third in their qualifying group, behind [[Syria national football team|Syria]] and [[Iran national football team|Iran]], both of which qualified for the tournament.
+
+In 1990, North Korea took part in the inaugural [[1990 Dynasty Cup]]. North Korea finished in third place. The following year, in the [[1990 FIFA World Cup qualification (AFC)|1990 FIFA World Cup qualifiers]], North Korea finished top of their first-round pool, winning all three of their home matches. In the final round, North Korea finished last, winning only one game, against [[Qatar national football team|Qatar]].
+
+Two years later, in 1991, the federation hired a foreign manager for the first time: Hungarian [[Pál Csernai]], the former coach of [[Bayern Munich]]. North Korea finished the [[1992 AFC Asian Cup qualification]] in first, ahead of [[Macao national football team|Macao]], [[Hong Kong national football team|Hong Kong]] and [[Chinese Taipei national football team|Chinese Taipei]]. It thus qualified for the Asian Cup for the second time, twelve years after its successful debut in Kuwait. Csernai's team were drawn into Group 1, along with hosts [[Japan national football team|Japan]], [[Iran national football team|Iran]] and the [[United Arab Emirates national football team|United Arab Emirates]]. This time, their tournament ended in the first round, finishing without a win and with only two goals scored, both by [[Kim Kwang-min (footballer, born 1962)|Kim Kwang-min]].
+
+North Korea entered [[Football at the 1992 Summer Olympics – Men's qualification|1992 Olympic qualifiers]] after two consecutive withdrawals. Placed in Group E, [[Pyongyang]] was chosen, along with [[Beijing]], to host the qualifying matches. Once again, the final tournament escaped them, finishing in second place behind [[China national football team|China]]. Right after the Games, the team took part in the [[1992 Dynasty Cup]]. Like two years before, the team finished on the third step of the podium, behind [[Japan national football team|Japan]] and [[South Korea national football team|South Korea]].
+
+===Withdrawal period (1993–2005) ===
+
+Invigorated by their participation in the final phase of the [[1992 AFC Asian Cup]], Csernai's men turned to qualification for the [[1994 FIFA World Cup]]. Placed into [[1994 FIFA World Cup qualification – AFC first round#Group C|Group C]], North Korea finished undefeated, ahead of [[Qatar national football team|Qatar]], [[Singapore national football team|Singapore]], [[Indonesia national football team|Indonesia]] and [[Vietnam national football team|Vietnam]]. The next round took the form of a single pool bringing together the six winners of the first round, the matches again held in Doha. Unfortunately for the North Koreans, after an inaugural victory against [[Iraq national football team|Iraq]] (3–2), they suffered four defeats in a row. Csernai left his post after the last meeting and left for Europe without returning to Pyongyang, and the federation put the national team on hold for more than four years. During this period, which saw North Korea tumble in the [[FIFA]] rankings, they choose not to register for any competition. This period of withdrawal coincided with the [[North Korean famine]] (1994–1998), which caused hundreds of thousands of deaths, as well as the official three-year mourning following the death of President [[Kim Il Sung]] in 1994 and the accession to power of his son [[Kim Jong Il]].
+
+North Korea made their return to official games in [[2000 AFC Asian Cup qualification]]. Placed into Group 8 along with [[Thailand national football team|Thailand]], [[Malaysia national football team|Malaysia]] and [[Chinese Taipei national football team|Chinese Taipei]], [[Myong Dong-chan]]'s men only lost to the Thais, and booked their ticket for the final tournament. They continued with the [[Football at the 2000 Summer Olympics – Men's Asian Qualifiers|2000 Olympic qualification]] but they finished second in their group, failing to advance. Following this, the federation again decided to sideline the team, withdrawing it from the qualifiers for the [[2002 FIFA World Cup qualification – AFC first round|2002 FIFA World Cup]] and for the [[2003 East Asian Football Championship|2003 EAFC]].
+
+In 2003, it was with [[Yun Jong-su]] on the bench that the North Koreans started the [[2004 AFC Asian Cup qualification]]. After a preliminary round where they defeated the [[India men's national football team|Indian]] team, the ''Chollimas'' finished last in the second round. These playoffs were marked by two incidents: first, during the game against [[Iran national football team|Iran]], where the North Koreans left the field as a result of smoke bombs which landed on the field; second, when North Korea refused to issue the Jordanian players visas, leading to the AFC granting [[Jordan national football team|Jordan]] a 3–0 victory and suspending North Korea from all competition in Asia for a year, including the [[2007 AFC Asian Cup]].
+
+In 2005, the North Koreans returned to the [[2006 FIFA World Cup qualification (AFC)|2006 FIFA World Cup qualifiers]], twelve years after their last campaign. Placed in Group 5 in the second round, they finished top. In the next round, they saw their journey come to an end, finishing last behind [[Japan national football team|Japan]], [[Iran national football team|Iran]], and [[Bahrain national football team|Bahrain]]. A few months later, North Korea returned to the [[2005 East Asian Football Championship]], thirteen years after their last participation. In the qualifying round, the North Koreans broke their record for biggest victory with a 21–0 victory against [[Guam national football team|Guam]]. As in the 1990 and 1992 editions, the ''Chollimas'' finished on the podium, in third place, behind [[China national football team|China]] and [[Japan national football team|Japan]], whom they beat 1–0 in the first match of the final round.
+
+===First title and return to the FIFA World Cup (2006–2010) ===
+The sanction imposed by the AFC on North Korea deprived it of participation in the qualifications for the [[2007 AFC Asian Cup]]. With coach [[Kim Jong-hun (footballer)|Kim Jong-hun]] at its head, the selection entered the [[2008 AFC Challenge Cup]], a competition reserved for so-called developing nations by the AFC and whose winner obtained direct qualification for the [[2011 AFC Asian Cup]]. The North Korean selection had a good run which ended on the third step of the podium, after a defeat in the semi-finals against [[Tajikistan national football team|Tajikistan]] then a big success (4–0) in the third-placed match against [[Burma national football team|Myanmar]].
+[[File:Portugal vs. Korea DPR.jpg|left|thumb|320x320px|North Korea and [[Portugal national football team|Portugal]] players before their [[2010 FIFA World Cup]] group match, in which North Korea suffered its heaviest-ever defeat.]]
+In the [[2010 FIFA World Cup qualification (AFC)|2010 FIFA World Cup qualifiers]], the ''Chollimas'' easily dismissed [[Mongolia national football team|Mongolia]] (4–1 and 5–1) then finished second behind [[South Korea national football team|South Korea]], without any defeats or even conceding a goal in the third round. North Korea again finished second behind South Korea in the fourth round, thus qualifying for the FIFA World Cup for only the second time after a 44-year hiatus. During these qualifiers there were diplomatic incidents with South Korea after [[Kim Jong Il]] refused to have the South Korean national anthem played, or even to fly the flag in the country, the two meetings against the ''Taeguk Warriors'' had to be relocated to China. At the end of the year, the North Koreans managed to qualify for the [[2008 East Asian Football Championship]], after beating [[Hong Kong national football team|Hong Kong]]. During this four-man final phase played in [[Chongqing]], China, they finished last, with two draws (against [[Japan national football team|Japan]] and [[South Korea national football team|South Korea]], who won the tournament, and a defeat against [[China national football team|China]]).
+
+To prepare for the FIFA World Cup and get used to the European style of play, the North Korean selection organized a preparation camp in the fall of 2009 in France. On this occasion, they played two friendly matches: against [[FC Nantes|Nantes]] on 9 October at [[La Roche-sur-Yon]]  then against [[Congo national football team|Congo]] on 13 October at [[Le Mans]].[[File:Audience at Brazil and North Korea match at FIFA World Cup 2010-06-15 4.jpg|thumb|North Korea's flag at the 2010 FIFA World Cup.|272x272px]]In early 2010, a few months before the FIFA World Cup, North Korea participated in the [[2010 AFC Challenge Cup]] with the winner automatically qualifying for the final phase of the [[2011 AFC Asian Cup]]. The ''Chollimas'', still led by [[Kim Jong-hun (footballer)|Kim Jong-hun]], had an excellent run in the competition. After finishing top of their first round group, ahead of [[Turkmenistan national football team|Turkmenistan]], they swept [[Myanmar national football team|Myanmar]] 5–0 in the semi-finals before winning, after the penalty shootout, again facing the Turkmens in the final. This success allowed them to secure a place in the continental finals, ten years after their last participation. It was also the first title obtained by the men's national team. The following month, in February, the North Koreans engaged in the [[2010 East Asian Football Championship]] where they entered in the second round. For the first time, they did not reach the final pool, beaten on goal difference by [[Hong Kong national football team|Hong Kong]]. 
+
+With a final pre-tournament ranking of 105th, North Korea were the lowest-ranked team at the [[2010 FIFA World Cup]]. They were drawn in Group G alongside [[Brazil national football team|Brazil]], [[Portugal national football team|Portugal]], and [[Ivory Coast national football team|Ivory Coast]], in what some commentators referred to as a "[[Group of death]]".<ref>{{cite web|url=http://sportsillustrated.cnn.com/multimedia/photo_gallery/0912/soccer.world.cup.groups.of.death/content.1.html|title=2010: Group G: Brazil/North Korea/Ivory Coast/Portugal|work=Groups of Death in World Cup History|publisher=Sports Illustrated|access-date=26 June 2010|archive-date=17 March 2010|archive-url=https://web.archive.org/web/20100317153012/http://sportsillustrated.cnn.com/multimedia/photo_gallery/0912/soccer.world.cup.groups.of.death/content.1.html|url-status=dead}}</ref> After a 2–1 defeat against Brazil with [[Ji Yun-nam]] scoring the only goal for North Korea in the FIFA World Cup, North Korea were eliminated after losing 7–0 to Portugal, the heaviest defeat in the team's history. After trailing 1–0 at halftime, they conceded six goals in the second half. The match was shown live in North Korea - an exceptionally rare occurrence for a foreign broadcast - but the broadcast was interrupted after Portugal's fourth goal.<ref>{{cite web |last1=Luz |first1=Nuno |last2=Mayo |first2=Adapted by Marc |title=How North Korea took Spain's 2010 World Cup triumph and handed it to Portugal |url=https://www.marca.com/en/football/spanish-football/2017/06/12/593e63bf46163f41198b45b2.html |website=MARCA in English |access-date=9 August 2023 |language=en |date=12 June 2017 |archive-date=10 August 2023 |archive-url=https://web.archive.org/web/20230810230057/https://www.marca.com/en/football/spanish-football/2017/06/12/593e63bf46163f41198b45b2.html |url-status=live }}</ref> North Korea went on to lose their final match against Ivory Coast 3–0 to record the worst performance of any team at that year's FIFA World Cup.
+
+After the FIFA World Cup, [[Radio Free Asia]] reported based on anonymous reports that coach Kim Jong-hun had been punished by being sent to forced labor camps, while some players had been subjected to "harsh ideological criticism".<ref>{{Cite web |author1=John M. Glionna |author2=Ethan Kim|date=13 August 2010 |title=North Korean soccer team reportedly punished |url=https://www.latimes.com/archives/la-xpm-2010-aug-13-la-fg-north-korea-soccer-20100813-story.html |access-date=16 June 2024 |website=Los Angeles Times|archive-url=https://web.archive.org/web/20240616004653/https://www.latimes.com/archives/la-xpm-2010-aug-13-la-fg-north-korea-soccer-20100813-story.html |archive-date=16 June 2024 }}</ref> In 2024, retired midfielder [[An Yong-hak]] said such reports are a hoax.<ref>{{Cite web |author1=Gawon Bae |author2=Hanako Montgomery |author3=Andrew McNicol |date=12 June 2024 |title=Inside the world's most secretive soccer team |url=https://www.cnn.com/2024/06/11/sport/north-korea-soccer-team-inside-spt-intl/index.html |access-date=16 June 2026 |website=CNN}}</ref>
+
+===Successes and difficult times (2011–2022) ===
+
+Six months after the FIFA World Cup, North Korea entered the [[2011 AFC Asian Cup]]. The team managed to draw 0–0 against the [[United Arab Emirates national football team|United Arab Emirates]] and two 1–0 defeats against [[Iran national football team|Iran]] and [[Iraq national football team|Iraq]]. In the fall, the North Koreans entered the [[2014 FIFA World Cup qualification (AFC)|2014 FIFA World Cup qualifiers]], with the hope of participating in a second consecutive tournament. They did not enter the competition until the third round, finding themselves in the same group as [[Japan national football team|Japan]], [[Uzbekistan national football team|Uzbekistan]] and [[Tajikistan national football team|Tajikistan]] (which benefited from the disqualification of [[Syria national football team|Syria]]). The ''Chollimas'' finished in 3rd place of the group. The round featured the first meeting of the Japanese team and their North Korean counterparts in [[Pyongyang]] in 22 years. 150 Japanese supporters were allowed to be present but they received four-hour checks upon their arrival at [[Pyongyang International Airport]], an "icy" reception at [[Kim Il Sung Stadium]], where they were warned not to wave Japanese flags, and had their national anthem booed by the North Korean crowd.<ref>{{cite web |last1=McCurry |first1=Justin |title=Tensions run high for Japan v North Korea World Cup qualifier |url=https://www.theguardian.com/world/2011/nov/15/japan-north-korea-world-cup-qualifier |website=Guardian |date=15 November 2011 |access-date=17 February 2022 |archive-date=17 December 2017 |archive-url=https://web.archive.org/web/20171217014945/https://www.theguardian.com/world/2011/nov/15/japan-north-korea-world-cup-qualifier |url-status=live }}</ref>
+
+In March 2012, the North Koreans defended the [[2012 AFC Challenge Cup]] with the possibility again to qualify for the [[2015 AFC Asian Cup]]. The ''Chollimas'' advance to the finals after finishing top of their qualifying group, along with [[Nepal national football team|Nepal]]. In the semi-finals, they beat [[Palestine national football team|Palestine]] and then managed to retain their title, following their success in the final against [[Turkmenistan national football team|Turkmenistan]]. This victory assured them of a second consecutive participation in the [[AFC Asian Cup]], which was a first.
+[[File:North Korea v Philippines, 8 October 2015 B.png|thumb|North Korea against Philippines at the [[2018 FIFA World Cup qualification (AFC)|2018 FIFA World Cup qualification]].|273x273px]]
+The team enjoyed a two-year unbeaten run, after the home defeat against [[Uzbekistan national football team|Uzbekistan]] in the [[2014 FIFA World Cup qualification (AFC)|2014 FIFA World Cup qualifiers]].The ''Chollimas'' played in the second round of the [[2013 EAFF East Asian Cup]] but failed to advance on goal difference, coming second to [[Australia men's national soccer team|Australia]]. In November 2013, the unbeaten streak ended with a loss to [[Kuwait national football team|Kuwait]] (2–1). They managed to finish first in the [[2015 EAFF East Asian Cup]] qualifying pool, getting their ticket to the finals for the first time since 2008.
+
+A few weeks before the star of the [[2015 AFC Asian Cup]], the North Korean federation relieved [[Yun Jong-su]] of his duties, following his suspension of one year decided by the AFC. Jong-su was penalized for his unsportsmanlike behaviour towards the referees during the Asian Games soccer tournament final against [[South Korea national football team|South Korea]]. North Korea left the competition at the end of the group stage, after losing their three matches. Following this competition, the team restored its image by winning several friendly matches before finishing on the podium of the [[2015 EAFF East Asian Cup]], including a prestigious victory over [[Japan national football team|Japan]] (2–1).
+In the [[2018 FIFA World Cup qualification (AFC)|2018 FIFA World Cup qualifiers]], North Korea got off to a flying start by winning their first three games, but failed to qualify for the 3rd round, following a defeat to the [[Philippines national football team|Philippines]] at the very end of the match (2–3, having led 2–1 until the 85th minute) during the final match. North Korea finished in second place in their group with 16 points, but this defeat prevented the ''Chollima'' from finishing among the four best runners-up and advancing to the next round. This led to the dismissal of [[Kim Chang-bok]], replaced by [[Jørn Andersen]], the second European coach to manage North Korea after the Hungarian [[Pál Csernai]]. The early elimination in World Cup qualifying meant that North Korea had to enter the 3rd qualifying round for the [[2019 AFC Asian Cup]]. This [[2019 AFC Asian Cup qualification|qualifying campaign]] gave rise to a triple postponement by the AFC of the home match against [[Malaysia national football team|Malaysia]], at the request of the [[Football Association of Malaysia|Malaysian Federation]], fearing the poisoning of its players if they went to North Korea following diplomatic tensions between the two countries - linked to the [[assassination of Kim Jong-nam]], the North Korean leader's half-brother, at [[Kuala Lumpur International Airport|Kuala Lumpur airport]] on 13 February 2017. The meetings between the two teams were finally held on neutral ground in Thailand, where North Korea needed two victories to give them a chance to qualify, dominating [[Malaysia national football team|Malaysia]] (4–1 and 4–1). At the [[2017 EAFF E-1 Football Championship]], the ''Chollima'' failed to win a single match and finished 4th and last in the final round, with two opening losses against [[Japan national football team|Japan]] and [[South Korea national football team|South Korea]] (0–1 each time) before ending the competition in a draw (1–1) against [[China national football team|China]].[[File:Lebanon v North Korea, 19 November 2019 06.jpg|thumb|North Korea players line-up against [[Lebanon national football team|Lebanon]] at the [[2022 FIFA World Cup qualification (AFC)|2022 FIFA World Cup qualification]].|264x264px]]In the [[2019 AFC Asian Cup]], North Korea were swept away by [[Saudi Arabia national football team|Saudi Arabia]] (0–4), [[Qatar national football team|Qatar]] (6–0, suffering the second heaviest defeat in its history) and against [[Lebanon national football team|Lebanon]] (1–4), leaving the competition with the worst record of the 24 teams involved (three defeats in as many games played, only one goal scored, 14 conceded, and two red cards received). North Korea then participated in the 2nd round of the [[2022 FIFA World Cup qualification (AFC)|2022 FIFA World Cup qualifiers]] and beat [[Lebanon national football team|Lebanon]] (2–0) thanks to a double from [[Jong Il-gwan]]. North Korea managed to follow up with a narrow victory in [[Sri Lanka national football team|Sri Lanka]] five days later (1–0) with a goal by [[Jang Kuk-chol]] before facing [[South Korea national football team|South Korea]]. For the first time since a friendly match in 1990 and for the first time in a qualifier, the meeting between the two Koreas took place in [[Pyongyang]], however the match was not televised live and no Korean supporters or foreign journalists were allowed to attend the match, which ended in a scoreless draw (0–0), leaving the two teams at the top of Pool H tied. Following the match against their rivals, they lost for the first time in their history against [[Turkmenistan national football team|Turkmenistan]] (1–3) but managed to beat Lebanon 2–0. Five days later, they played Lebanon again, drawing 0–0, preserving their chances of qualifying for the next round. However, North Korea withdrew from qualifying due to fears related to the [[COVID-19 pandemic]].<ref>{{cite news|title=South Korea: North Koreans pull out of World Cup qualifying|url=https://apnews.com/article/south-korea-north-korea-world-cup-international-soccer-soccer-fdd6542dd5b1f585b61ca4f3e3fcb167|date=4 May 2021|access-date=7 May 2021|publisher=AP News|archive-date=6 May 2021|archive-url=https://web.archive.org/web/20210506070820/https://apnews.com/article/south-korea-north-korea-world-cup-international-soccer-soccer-fdd6542dd5b1f585b61ca4f3e3fcb167|url-status=live}}</ref><ref>{{Cite web|url=https://www.the-afc.com/competitions/afc-asian-cup/news/latest-update-on-asian-qualifiers|title=Latest update on Asian Qualifiers|publisher=Asian Football Confederation|date=16 May 2021|access-date=17 May 2021|archive-date=20 May 2021|archive-url=https://web.archive.org/web/20210520215555/https://www.the-afc.com/competitions/afc-asian-cup/news/latest-update-on-asian-qualifiers|url-status=live}}</ref><ref name="AFC May update">{{Cite web|url=https://www.the-afc.com/competitions/afc-asian-cup/news/latest-decision-on-asian-qualifiers|title=Latest decision on Asian Qualifiers|publisher=Asian Football Confederation|date=27 May 2021|access-date=6 March 2023|archive-date=2 June 2021|archive-url=https://web.archive.org/web/20210602001057/https://www.the-afc.com/competitions/afc-asian-cup/news/latest-decision-on-asian-qualifiers|url-status=live}}</ref> [[FIFA]] and the AFC announced that all results of matches played by North Korea since the start of the 2nd qualifying round and [[2023 AFC Asian Cup]] were void and would not count towards qualification, thus North Korea would not play in the 2023 AFC Asian Cup, their first miss out from the event since 2007.
+
+=== Return after a long hiatus (2023–present) ===
+In August 2023, North Korea announced interest in returning to sporting competitions, including football, and signaled interest in joining the [[2026 FIFA World Cup qualification (AFC)|2026 FIFA World Cup qualification]]. North Korea found themselves in Group B of the [[2026 FIFA World Cup qualification – AFC second round|second round]] against Japan, [[Syria national football team|Syria]] and [[Myanmar national football team|Myanmar]]. The country's move was confirmed by FIFA and the AFC as North Korea sought to enhance its football reputation, already damaged due to the isolation related to the pandemic.<ref>{{Cite web |date=10 August 2023 |title=NK resumes sports diplomacy to brand itself as 'normal state' |url=https://www.koreatimes.co.kr/www/nation/2023/10/103_356789.html |access-date=20 October 2023 |website=[[The Korea Times]] |language=en |archive-date=23 October 2023 |archive-url=https://web.archive.org/web/20231023184259/https://www.koreatimes.co.kr/www/nation/2023/10/103_356789.html |url-status=live }}</ref> After more than 5 years of inactive international football, North Korea played against Syria on 16 November 2023, a game Syria won 1–0. On 21 November, North Korea defeated Myanmar 6–1 at the [[Thuwunna Stadium]], with [[Jong Il-gwan]] scoring a hat-trick in the match.
+
+The team advanced to the [[2026 FIFA World Cup qualification – AFC third round|final round]] of the FIFA World Cup qualification for the first time since 2010, and qualified to the AFC Asian Cup for the [[2027 AFC Asian Cup|2027 edition]], after missing out in [[2023 AFC Asian Cup|2023]]. However, they would finish last in their FIFA World Cup qualifying group, eliminating them from contention.
+
+==Team image==
+{{More citations needed section|date=November 2017}}
+Between 2014 and January 2024, the official kit provider for the North Korean national teams was the North Korean sports company [[Ch'oeusu]].<ref>{{cite news |url=http://www.kcna.co.jp/item/2014/201407/news01/20140701-21ee.html |title=Home-made Football Popular among DPRK People |publisher=[[Korean Central News Agency]] |date=1 July 2014 |access-date=1 July 2014 |archive-url=https://web.archive.org/web/20141011171831/http://www.kcna.co.jp/item/2014/201407/news01/20140701-21ee.html |archive-date=11 October 2014 |url-status=dead}}</ref> In January 2024, Chinese sports brand [[Inlang]] became the official kit sponsor.<ref>{{cite web|url=https://www.dongqiudi.com/articles/3995873.html|title=多年"裸奔"结束，茵浪体育让朝鲜国家足球队有了官方赞助商|trans-title=Years of "naked running" comes to an end, as Inlang Sports provided the North Korea national football team an official sponsor|website=dongqiudi.com|publisher=Dongqiudi|date=26 January 2024|access-date=1 February 2024|language=zh}}</ref>
+{| class="wikitable" style="text-align: left"
+|-
+!Period
+!Kit Provider
+|-
+|1985–1988
+|{{flagicon|UK}} [[Admiral Sportswear|Admiral]]
+|-
+|1989-1990
+|{{flagicon|GER}} [[Adidas]]
+|-
+|1991-1992
+|{{flagicon|JAP}} [[Mizuno]]
+|-
+|1993–1997
+|{{flagicon|UK}} [[Admiral Sportswear|Admiral]]
+|-
+|1998–2002
+|{{flagicon|ITA}} [[Fila (company)|Fila]]
+|-
+|2002–2003
+|{{flagicon|ITA|2003}} [[Lotto Sport Italia|Lotto]]
+|-
+|2003–2005
+|{{flagicon|GER}} [[Adidas]]
+|-
+|2005–2006
+|{{flagicon|UK}} [[Umbro]]
+|-
+|2006–2008
+|{{flagicon|DEN}} [[Hummel International|Hummel]]
+|-
+|2008–2010
+|{{flagicon|CHN}} [[Erke (brand)|Erke]]
+|-
+|2010–2014
+|{{flagicon|ITA}} [[Legea]]
+|-
+|2014–2024
+|{{flagicon|PRK}} [[Ch'oeusu]]
+|-
+|2024–present
+|{{flagicon|CHN}} [[Inlang]]
+|}
+
+=== Stadium ===
+North Korea plays their home matches at the [[Rungrado 1st of May Stadium]] on [[Rŭngrado|Rungra Island]], [[Pyongyang]]. It is the second largest stadium in the world with a capacity of 114,000. However, North Korea mostly used the [[Kim Il Sung Stadium]] in [[Pyongyang]] as their main stadium. Since 2019, North Korea has  hosted their home matches in neutral venues. 
+
+{| class="wikitable"
+! colspan="5" |North Korea national football team home stadiums
+|-
+!Image
+!Stadium
+!Capacity
+!Location
+!Last match
+|-
+|[[File:Arirang Mass Games 12.JPG|frameless|192x192px]]
+|[[Rungrado 1st of May Stadium]]
+|114,000
+|[[Pyongyang]]
+|'''v'''&nbsp;&nbsp;{{fb|Jordan}} <small>(14 June 2008; [[2010 FIFA World Cup qualification – AFC third round|2010 FIFA World Cup qualification]])</small>
+|-
+|[[File:North Korea v Philippines, 8 October 2015 F.png|frameless|199x199px]]
+|[[Kim Il Sung Stadium]]
+|50,000
+|[[Pyongyang]]
+|'''v'''&nbsp;&nbsp;{{fb|South Korea}} <small>(15 October 2019; [[2022 FIFA World Cup qualification – AFC second round|2022 FIFA World Cup qualification]])</small>
+|}
+
+=== Neutral venue ===
+List of neutral venue grounds for North Korea in the FIFA World Cup qualifications and AFC Asian Cup qualifications
+{| class="wikitable mw-collapsible"
+! colspan="5" |North Korea neutral home stadiums
+|-
+!Image
+!Stadium
+!Capacity
+!Location
+!Last match
+|-
+|[[File:Stadium Laos National Stadium.jpg|frameless]]
+|[[New Laos National Stadium]]
+|25,000
+|[[Vientiane]], [[Laos]]
+|'''v'''&nbsp;&nbsp;{{fb|Uzbekistan}} <small>(19 November 2024; [[2026 FIFA World Cup qualification – AFC third round|2026 FIFA World Cup qualification]])</small>
+|-
+|
+|[[Prince Faisal bin Fahd Sports City Stadium]]
+|22,188
+|[[Riyadh]], [[Saudi Arabia]]
+|'''v'''&nbsp;&nbsp;{{fb|Kyrgyzstan}} <small>(5 June 2025; [[2026 FIFA World Cup qualification – AFC third round|2026 FIFA World Cup qualification]])</small>
+|}
+
+==Results and fixtures==
+{{main|North Korea national football team results}}
+
+The following is a list of match results in the last 12 months, as well as any future matches that have been scheduled.
+
+{{legend2|#CCFFCC|Win|border=1px solid #AAAAAA}}
+{{legend2|#FFFFCC|Draw|border=1px solid #AAAAAA}}
+{{legend2|#FFCCCC|Loss|border=1px solid #AAAAAA}}
+{{legend2|#FFFFFF|Fixture|border=1px solid #AAAAAA}}
+
+===2025===
+{{Football box collapsible
+| format     = 1
+| round      = [[2026 FIFA World Cup qualification – AFC third round|2026 World Cup qualification R3]]
+| date       = 5 June
+| time       = {{UTZ|21:15|3}}
+| team1      = {{fb-rt|PRK}}
+| score      = 2–2
+| team2      = {{fb|KGZ}}
+| report     = https://www.fifa.com/en/match-centre/match/520/288263/288276/400018443
+| goals1     =
+*[[Pak Kwang-hun]] {{goal|44}}
+*[[Ri Jo-guk]] {{goal|52}}
+| goals2     =
+*[[Gulzhigit Alykulov|Alykulov]] {{goal|57}}
+*[[Kim Sung-hye]] {{goal|90+5|o.g.}}
+| location   = [[Riyadh]], Saudi Arabia{{refn|group="note"|name=North Korea 2|North Korea chose Riyadh as their home site for their match against the United Arab Emirates due to "security concerns".<ref>{{cite web |url=https://gulfnews.com/sport/football/north-korea-v-uae-to-held-in-riyadh-1.500053777 |title=North Korea v UAE to be held in Riyadh |website=[[Gulf News]] |date=6 March 2025 |access-date=13 March 2025}}</ref>}}
+| stadium    = [[Prince Faisal bin Fahd Sports City Stadium]]
+| attendance = 100
+| referee    = [[Adham Makhadmeh]] ([[Jordan Football Association|Jordan]])
+| result     = D
+}}
+{{Football box collapsible
+| format     = 1
+| round      = [[2026 FIFA World Cup qualification – AFC third round|2026 World Cup qualification R3]]
+| date       = 10 June
+| time       = {{UTZ|19:30|3:30}}
+| team1      = {{fb-rt|IRN}}
+| score      = 3–0
+| team2      = {{fb|PRK}}
+| report     = https://www.fifa.com/en/match-centre/match/520/288263/288276/400018435
+| goals1     =
+*[[Mohammad Mehdi Mohebi|Mohebi]] {{goal|74}}
+*[[Mehdi Taremi|Taremi]] {{goal|77}}
+*[[Amirhossein Hosseinzadeh|Hosseinzadeh]] {{goal|90+3}}
+| goals2     =
+| location   = [[Tehran]], Iran
+| stadium    = [[Azadi Stadium]]
+| attendance = 
+| referee    = [[Nazmi Nasaruddin]] ([[Football Association of Malaysia|Malaysia]])
+| result     = L
+}}
+
+===2026===
+{{Football box collapsible
+| format     = 1
+| round      = [[Exhibition game|Hybrid friendly]]
+| date       = 17 January
+| time       = {{UTZ||8}}
+| team1      = [[Chongqing Handa FC|Chongqing Handa]] {{flagicon|CHN}}
+| score      = 0–8 
+| team2      = {{fb|PRK}}
+| report     = 
+| goals1     =
+| goals2     =
+| location   = [[Chongqing]], China 
+| stadium    = 
+| attendance = 
+| referee    = 
+| result     = W
+}}
+{{Football box collapsible
+| format     = 1
+| round      = [[Exhibition game|Hybrid friendly]]
+| date       = 21 January
+| time       = {{UTZ||8}}
+| team1      = [[FC Dynamo Vladivostok|Dynamo Vladivostok]] {{flagicon|RUS}}
+| score      = 0–0  
+| team2      = {{fb|PRK}}
+| report     = 
+| goals1     =
+| goals2     =
+| location   = [[Kunming]], China 
+| stadium    = Kunming Hongta Stadium
+| attendance = 
+| referee    = 
+| result     = D
+}}
+{{Football box collapsible
+| format     = 1
+| round      = [[Exhibition game|Hybrid friendly]]
+| date       = 24 January
+| time       = {{UTZ||8}}
+| team1      = [[Yunnan Yukun F.C.|Yunnan Yukun]] {{flagicon|CHN}}
+| score      = 1–3 
+| team2      = {{fb|PRK}}
+| report     = 
+| goals1     =
+*[[Oscar Maritu|Maritu]] {{Goal}}
+| goals2     =
+| location   = [[Yuxi]], China 
+| stadium    = 
+| attendance = 
+| referee    = 
+| result     = W
+}}
+
+===2027===
+{{Football box collapsible
+|format     = 1
+|date       = 8 January
+|time       = {{UTZ|--:--|}}
+|round      = [[2027 AFC Asian Cup Group B|2027 Asian Cup GS]]
+|score      = 
+|report     = 
+|team1      = {{fb-rt|BHR}}
+|goals1     =
+|team2      = {{fb|PRK}}
+|goals2     =
+|stadium    = [[Imam Mohammad Ibn Saud Islamic University|Imam Mohammed Ibn Saud University Stadium]] 
+|location   = [[Riyadh]], Saudi Arabia
+|attendance = 
+|referee    = 
+|result     = 
+}} 
+{{Football box collapsible
+|format     = 1
+|date       = 13 January
+|time       = {{UTZ|--:--|}}
+|round      = [[2027 AFC Asian Cup Group B|2027 Asian Cup GS]]
+|score      = 
+|report     = 
+|team1      = {{fb-rt|PRK}}
+|goals1     =
+|team2      = {{fb|UZB}}
+|goals2     =
+|stadium    = [[Kingdom Arena]] 
+|location   = [[Riyadh]], Saudi Arabia
+|attendance = 
+|referee    = 
+|result     = 
+}}
+{{Football box collapsible
+|format     = 1
+|date       = 18 January
+|time       = {{UTZ|--:--|}}
+|round      = [[2027 AFC Asian Cup Group B|2027 Asian Cup GS]]
+|score      = 
+|report     = 
+|team1      = {{fb-rt|PRK}}
+|goals1     =
+|team2      = {{fb|JOR}}
+|goals2     =
+|stadium    = [[Imam Mohammad Ibn Saud Islamic University|Imam Mohammed Ibn Saud University Stadium]] 
+|location   = [[Riyadh]], Saudi Arabia
+|attendance = 
+|referee    = 
+|result     = 
+}}
+
+==Coaching staff==
+
+{| class="wikitable"
+|-
+!style="color:#FFFFFF;background:#FF0000"|Role
+!style="color:#FFFFFF;background:#FF0000"|Name
+|-
+|Head coach
+|{{flagicon|PRK}} [[Sin Yong-nam]]
+|-
+|Assistant coaches
+|{{flagicon|PRK}} [[Pak Nam-chol (footballer, born 1985)|Pak Nam-chol]]<br>{{flagicon|PRK}} [[Kim Kum-il]]
+|-
+|Goalkeeping coach
+|{{flagicon|PRK}} [[Ri Myong-guk]]
+|-
+|Match analyst
+|{{flagicon|PRK}} Choe Gwan-il
+|-
+|Performance coach
+|{{flagicon|PRK}} Pak Kuk-myong
+|-
+|Team doctors
+|{{flagicon|PRK}} Jang Il-bom<br>{{flagicon|PRK}} Song Jong-chol
+|-
+|Physiotherapists
+|{{flagicon|PRK}} Choe Nam-kuk<br>{{flagicon|PRK}} Kim Myong-il<br>{{flagicon|PRK}} Ri Song-pyong<br>{{flagicon|PRK}} Yun Kuk-hyong
+|-
+|Team coordinator
+|{{flagicon|PRK}} [[Ri Chol-myong]]
+|-
+|Technical director
+|{{flagicon|PRK}} [[Yun Jong-su]]
+|}
+
+=== Coaching history ===
+{{div col|colwidth=25em}}
+* {{flagicon|North Korea}} [[Myung Rye-hyun]] (1960–1966)
+* {{flagicon|North Korea}} [[Pak Doo-ik]] (1976–1977,1986–1989)
+* {{flagicon|North Korea}} Pak Du-sok (1978–1979,1982)
+* {{flagicon|North Korea}} [[Yang Song-guk]] (1980)
+* {{flagicon|North Korea}} [[Han Bong-zin]] (1980–1981)
+* {{flagicon|North Korea}} [[Yun Myung-chan]] (1992–1993)
+* {{flagicon|Hungary}} [[Pál Csernai]] (1993)
+* {{flagicon|North Korea}} [[Yun Jong-su]] (1999–2005,2006–2008, 2011–2014, 2019–2022) ([[2019 AFC Asian Cup]])
+* {{flagicon|North Korea}} [[Ri Jong-man]] (2001–2003, 2006–2007)
+* {{flagicon|North Korea}} [[Kim Myong-Song]] (2004–2006)
+* {{flagicon|North Korea}} [[Kim Jong-hun (footballer)|Kim Jong-hun]] (2007–2010) ([[2010 FIFA World Cup]])
+* {{flagicon|North Korea}} [[Jo Tong-sop]] (2010–2011, 2014–2015) ([[2015 AFC Asian Cup]])
+* {{flagicon|North Korea}} [[Kim Chang-bok]] (2015–2016)
+* {{flagicon|Norway}} [[Jørn Andersen]] (2016–2018)
+* {{flagicon|North Korea}} [[Kim Yong-jun (footballer)|Kim Yong-jun]] (2018–2019)
+* {{flagicon|North Korea}} [[Sin Yong-nam]] (2023–''present'')
+{{div col end}}
+
+==Players==
+===Current squad===
+The following players were called up for the [[2026 FIFA World Cup qualification – AFC third round|2026 FIFA World Cup qualification]] games against [[Kyrgyzstan national football team|Kyrgyzstan]] and [[Iran national football team|Iran]] in June 2025.
+
+*''All caps and goals as of 10 June 2025, after match against [[Iran national football team|Iran]].''
+
+{{nat fs g start}}
+{{nat fs g player|pos=GK|no=1|name=[[Kang Ju-hyok]]|age={{birth date and age|1997|5|31|df=y}}|caps=16|goals=0|club=[[Hwaebul Sports Club|Hwaebul]]|clubnat=PRK}}
+{{nat fs g player|pos=GK|no=18|name=[[Hong Kil-ryong]]|age={{birth date and age|2005|7|1|df=y}}|caps=0|goals=0|club=[[Hwaebul Sports Club|Hwaebul]]|clubnat=PRK}}
+{{nat fs g player|pos=GK|no=21|name=[[Yu Kwang-jun]]|age={{birth date and age|2000|11|5|df=y}}|caps=2|goals=0|club=[[Ryomyong Sports Club|Ryomyong]]|clubnat=PRK}}
+{{nat fs break}}
+{{nat fs g player|pos=DF|no=2|name=[[Kim Jin-hyok (footballer, born 2002)|Kim Jin-hyok]]|age={{birth date and age|2002|3|25|df=y}}|caps=4|goals=0|club=[[Sonbong Sports Club|Sonbong]]|clubnat=PRK}}
+{{nat fs g player|pos=DF|no=3|name=[[Jang Kuk-chol]]|other=[[Captain (association football)|captain]]|age={{birth date and age|1994|2|16|df=y}}|caps=75|goals=5|club=[[Hwaebul Sports Club|Hwaebul]]|clubnat=PRK}}
+{{nat fs g player|pos=DF|no=5|name=[[Jong Hwi-nam]]|age={{birth date and age|2003|5|15|df=y}}|caps=3|goals=0|club=''Unknown''|clubnat=PRK}}
+{{nat fs g player|pos=DF|no=12|name=[[Choe Ryong-il]]|age={{birth date and age|2004|03|23|df=y}}|caps=4|goals=0|club=[[April 25 Sports Club|April 25]]|clubnat=PRK}}
+{{nat fs g player|pos=DF|no=16|name=[[Kim Yu-song (footballer, born 2003)|Kim Yu-song]]|age={{birth date and age|2003|7|18|df=y}}|caps=16|goals=2|club=[[Amnokgang Sports Club|Amnokgang]]|clubnat=PRK}}
+{{nat fs g player|pos=DF|no=19|name=[[Kim Sung-hye]]|age={{birth date and age|2003|1|15|df=y}}|caps=6|goals=0|club=[[Sonbong Sports Club|Sonbong]]|clubnat=PRK}}
+{{nat fs g player|pos=DF|no=23|name=[[Jong Kum-song]]|age={{birth date and age|1997|1|24|df=y}}|caps=6|goals=0|club=[[Rimyongsu Sports Club|Rimyongsu]]|clubnat=PRK}}
+{{nat fs break}}
+{{nat fs g player|pos=MF|no=6|name=[[Kye Tam]]|age={{birth date and age|2000|10|6|df=y}}|caps=6|goals=0|club=[[Ryomyong Sports Club|Ryomyong]]|clubnat=PRK}}
+{{nat fs g player|pos=MF|no=8|name=[[Sin Kwang-nam]]|age={{birth date and age|2003|11|1|df=y}}|caps=2|goals=0|club=''Unknown''|clubnat=PRK}}
+{{nat fs g player|pos=MF|no=15|name=[[Ra Myong-song]]|age={{birth date and age|2003|1|6|df=y}}|caps=5|goals=0|club=''Unknown''|clubnat=PRK}}
+{{nat fs g player|pos=MF|no=17|name=[[Kang Kuk-chol (footballer, born 1999)|Kang Kuk-chol]]|age={{birth date and age|1999|9|29|df=y}}|caps=29|goals=1|club=[[Rimyongsu Sports Club|Rimyongsu]]|clubnat=PRK}}
+{{nat fs g player|pos=MF|no=20|name=[[Paek Chung-song]]|age={{birth date and age|2000|2|25|df=y}}|caps=16|goals=0|club=[[Ryomyong Sports Club|Ryomyong]]|clubnat=PRK}}
+{{nat fs g player|pos=MF|no=22|name=[[Han Chung-guk]]|age={{birth date and age|2002|3|28|df=y}}|caps=1|goals=0|club=''Unknown''|clubnat=PRK}}
+{{nat fs break}}
+{{nat fs g player|pos=FW|no=4|name=[[Ri Kum-chol (footballer, born 2004)|Ri Kum-chol]]|age={{birth date and age|2004|03|26|df=y}}|caps=2|goals=0|club=[[April 25 Sports Club|April 25]]|clubnat=PRK}}
+{{nat fs g player|pos=FW|no=7|name=[[Kim Kuk-jin (footballer, born 2000)|Kim Kuk-jin]]|age={{birth date and age|2000|10|11|df=y}}|caps=12|goals=0|club=[[Kigwancha Sports Club|Kigwancha]]|clubnat=PRK}} 
+{{nat fs g player|pos=FW|no=9|name=[[Ri Jo-guk]]|age={{birth date and age|2002|5|9|df=y}}|caps=11|goals=4|club=[[Ryomyong Sports Club|Ryomyong]]|clubnat=PRK}}
+{{nat fs g player|pos=FW|no=10|name=[[Ri Il-song]]|age={{birth date and age|2004|1|14|df=y}}|caps=14|goals=4|club=[[Ryomyong Sports Club|Ryomyong]]|clubnat=PRK}} 
+{{nat fs g player|pos=FW|no=11|name=[[Pak Kwang-hun]]|age={{birth date and age|1997|4|18|df=y}}|caps=7|goals=2|club=[[Rimyongsu Sports Club|Rimyongsu]]|clubnat=PRK}}
+{{nat fs g player|pos=FW|no=13|name=[[Choe Kuk]]|age={{birth date and age|2005|3|21|df=y}}|caps=3|goals=0|club=[[Wolmido Sports Club|Wolmido]]|clubnat=PRK}}
+{{nat fs g player|pos=FW|no=14|name=[[Ri Kwang-myong]]|age={{birth date and age|2005|4|12|df=y}}|caps=3|goals=0|club=''Unknown''|clubnat=PRK}}
+{{nat fs g end}}
+
+===Recent call-ups===
+The following players have been called up for the team within the last 12 months and are still 
+available for selection.
+<!--Sorted by position, date of birth, caps, goals and most recent call-up.-->
+{{nat fs r start}}
+{{nat fs r player|pos=GK|no=|name=[[Sin Tae-song]]|age={{birth date and age|2000|5|30|df=y}}|caps=0|goals=0|club=[[April 25 Sports Club|April 25]]|clubnat=PRK|latest=v. {{fb|UZB}}, 19 November 2024}}
+{{nat fs break}}
+{{nat fs r player|pos=DF|no=|name=[[Kim Pom-hyok]]|age={{birth date and age|2000|4|15|df=y}}|caps=9|goals=0|club=[[Ryomyong Sports Club|Ryomyong]]|clubnat=PRK|latest=v. {{fb|UZB}}, 19 November 2024}}
+{{nat fs r player|pos=DF|no=|name=[[Choe Ok-chol]]|age={{birth date and age|1998|11|11|df=y}}|caps=11|goals=0|club=[[Kigwancha Sports Club|Kigwancha]]|clubnat=PRK|latest=v. {{fb|UZB}}, 19 November 2024}}
+{{nat fs break}}
+{{nat fs r player|pos=MF|no=|name=[[Kim Kum-chon]]|age={{birth date and age|2003|3|10|df=y}}|caps=0|goals=0|club=[[Kigwancha Sports Club|Kigwancha]]|clubnat=PRK|latest=v. {{fb|UZB}}, 19 November 2024}}
+{{nat fs r player|pos=MF|no=|name=[[Ri Hun]]|age={{birth date and age|1997|8|31|df=y}}|caps=2|goals=0|club=[[Ryomyong Sports Club|Ryomyong]]|clubnat=PRK|latest=v. {{fb|UZB}}, 19 November 2024}}
+{{nat fs r player|pos=MF|no=|name=[[Ri Un-chol]]|age={{birth date and age|1995|7|13|df=y}}|caps=34|goals=1|club=[[Kigwancha Sports Club|Kigwancha]]|clubnat=PRK|latest=v. {{fb|UZB}}, 19 November 2024}}
+{{nat fs break}}
+{{nat fs r player|pos=FW|no=|name=[[Han Kwang-song]]|age={{birth date and age|1998|9|11|df=y}}|caps=21|goals=2|club=[[April 25 Sports Club|April 25]]|clubnat=PRK|latest=v. {{fb|UZB}}, 19 November 2024}}
+{{nat fs r player|pos=FW|no=|name=[[Jong Il-gwan]]|age={{Birth date and age|1992|10|30|df=y}}|caps=85|goals=31|club=[[Ryomyong Sports Club|Ryomyong]]|clubnat=PRK|latest=v. {{fb|UZB}}, 19 November 2024}}
+{{nat fs r player|pos=FW|no=|name=[[Choe Ju-song]]|age={{birth date and age|1996|1|27|df=y}}|caps=16|goals=1|club=[[Amnokgang Sports Club|Amnokgang]]|clubnat=PRK|latest=v. {{fb|UZB}}, 19 November 2024}}
+{{nat fs break}}
+;Notes
+*<sup>INJ</sup> = Withdrawn due to injury.
+*<sup>PRE</sup> = Preliminary squad/standby.
+*<sup>SUS</sup> = Serving suspension
+{{nat fs end}}
+
+==Records==
+{{Updated|10 June 2025.}}<ref>{{cite web |last1=Mamrud |first1=Roberto |title=North Korea - Record International Players |url=https://www.rsssf.org/miscellaneous/nkor-recintlp.html |website=RSSSF |access-date=2 February 2023 |archive-date=9 December 2022 |archive-url=https://web.archive.org/web/20221209064056/https://www.rsssf.org/miscellaneous/nkor-recintlp.html |url-status=live }}</ref>
+:''Players in '''bold''' are still active with North Korea.''
+
+===Most appearances===
+
+{| class="wikitable sortable" style="text-align: center;"
+|-
+!width=30px|Rank
+!width=150px|Name
+!width=50px|Caps
+!width=50px|Goals
+!width=100px|Career
+|-
+|1
+|align=left| [[Ri Myong-guk]]
+| 118
+| 0
+| 2007–2019
+|-
+|2
+|align=left| '''[[Jong Il-gwan]]'''
+| 85
+| 31  
+| 2011–present
+|-
+|3
+|align=left| [[Pak Nam-chol (footballer, born 1985)|Pak Nam-chol]]
+| 77
+| 15
+| 2004–2012
+|-
+|4
+|align=left| '''[[Jang Kuk-chol]]'''
+| 75
+| 5
+| 2011–present
+|-
+|5
+|align=left| [[Ri Kwang-chon]]
+| 70
+| 1
+| 2001–2012
+|-
+| 6
+|align=left| [[Kim Yong-jun (footballer)|Kim Yong-jun]]
+| 62
+| 8 
+| 2001–2011
+|-
+|7
+|align=left| [[Pak Song-chol (footballer, born 1987)|Pak Song-chol]]
+| 58
+| 13
+| 2007–2017
+|-
+|rowspan=2|8
+|align=left| [[Mun In-guk]]
+| 55
+| 6
+| 2004–2011
+|-
+|align=left| [[Tak Yong-bin]]
+| 55
+| 2
+| 1985–1993
+|-
+| 10
+|align=left |[[Jon Kwang-ik]]
+| 53
+| 2
+| 2007–2016
+|-
+|}
+
+===Top goalscorers===
+[[File:Jong Il-Gwan.JPG|200px|right|thumb|Jong Il-gwan is North Korea's top goalscorer with 31 goals.]]
+
+{| class="wikitable sortable" style="text-align: center;"
+|-
+!width=30px|Rank
+!width=150px|Player
+!width=50px|Goals
+!width=50px|Caps
+!width=50px|Ratio
+!width=100px|Career
+|-
+| 1
+|align=left| '''[[Jong Il-gwan]]'''
+| 31
+| 85 
+|{{#expr:31/85 round 2}}
+| 2011–present
+|-
+| rowspan=2|2
+|align=left| [[Jong Tae-se]]
+| 15
+| 33
+|{{#expr:15/33 round 2}}
+| 2007–2011
+|-
+|align=left| [[Pak Nam-chol (footballer, born 1985)|Pak Nam-chol]] 
+| 15
+| 77
+|{{#expr:15/77 round 2}}
+| 2004–2012
+|-
+| 4
+|align=left| [[Pak Kwang-ryong]]
+| 14
+| 43
+|{{#expr:14/43 round 2}}
+| 2009–2023
+|-
+| rowspan=2|5
+|align=left| [[Hong Yong-jo]]
+| 13
+| 51
+|{{#expr:13/51 round 2}}
+| 2002–2011
+|-
+|align=left| [[Pak Song-chol (footballer, born 1987)|Pak Song-chol]]
+| 13
+| 58
+|{{#expr:13/58 round 2}}
+| 2007–2017
+|-
+| 7
+|align=left| [[Choe Chol-man]]
+| 11
+| 21
+|{{#expr:11/21 round 2}}
+| 2005–2010
+|-
+| 8
+|align=left| [[Choi Yong-son]]
+| 10
+| 29
+|{{#expr:10/29 round 2}}
+| 1990–1993
+|-
+| rowspan=2|9
+|align=left| [[Kang Jin-hyok]]
+| 9
+| 6
+|{{#expr:9/6 round 2}}
+| 2005–2007
+|-
+|align=left| [[An Chol-hyok]]
+| 9
+| 29
+|{{#expr:9/29 round 2}}
+| 2005–2011
+|-
+|}
+
+==Competitive record==
+
+===FIFA World Cup===
+{{main|North Korea at the FIFA World Cup}}
+
+{| class="wikitable" style="text-align: center;"
+!colspan=10|[[FIFA World Cup]] record
+!width=1% rowspan=28|
+!colspan=7|[[FIFA World Cup qualification|Qualification]] record
+|-
+!Year
+!Result
+!Position
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!Squad
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+|-
+|{{flagicon|Uruguay}} [[1930 FIFA World Cup|1930]]
+|colspan=9 rowspan=3|''Part of {{Flagdeco|Empire of Japan}} [[Japan national football team|Japan]]''
+|colspan=6 rowspan=3|''Part of {{Flagdeco|Empire of Japan}} [[Japan national football team|Japan]]''
+|-
+|{{flagicon|Italy|1861}} [[1934 FIFA World Cup|1934]] 
+|-
+|{{flagicon|France|1794}} [[1938 FIFA World Cup|1938]]
+|-
+|{{flagicon|Brazil|1889}} [[1950 FIFA World Cup|1950]]
+|colspan=9 rowspan=3|''Not a FIFA member''
+|colspan=6 rowspan=3|''Not a FIFA member''
+|-
+|{{flagicon|Switzerland}} [[1954 FIFA World Cup|1954]]
+|-
+|{{flagicon|Sweden}} [[1958 FIFA World Cup|1958]]
+|-
+|{{flagicon|Chile}} [[1962 FIFA World Cup|1962]]
+|colspan=9|''Did not enter''
+|colspan=6|''Did not enter''
+|-
+|{{flagicon|England}} [[1966 FIFA World Cup|1966]]
+|Quarter-finals
+|8th
+|4
+|1
+|1
+|2
+|5
+|9
+|[[1966 FIFA World Cup squads#North Korea|Squad]]
+||2||2||0||0||9||2
+|-
+|{{flagicon|Mexico}} [[1970 FIFA World Cup|1970]]
+|colspan=9|''Withdrew''
+|colspan=6|''Withdrew''
+|-
+|{{flagicon|West Germany}} [[1974 FIFA World Cup|1974]]
+|colspan=9|''Did not qualify''
+||6||1||3||2||5||5
+|-
+|{{flagicon|Argentina}} [[1978 FIFA World Cup|1978]]
+|colspan=9|''Withdrew''
+|colspan=6|''Withdrew''
+|-
+|{{flagicon|Spain}} [[1982 FIFA World Cup|1982]]
+|colspan=9 rowspan=4|''Did not qualify''
+||5||3||1||1||9||6
+|-
+|{{flagicon|Mexico}} [[1986 FIFA World Cup|1986]]
+||4||1||2||1||3||2
+|-
+|{{flagicon|Italy}} [[1990 FIFA World Cup|1990]]
+||11||5||2||4||13||9
+|-
+|{{flagicon|United States}} [[1994 FIFA World Cup|1994]]
+||13||8||1||4||24||18
+|-
+|{{flagicon|France|1974}} [[1998 FIFA World Cup|1998]]
+|colspan=9 rowspan=2|''Did not enter''
+|colspan=6 rowspan=2|''Did not enter''
+|-
+|{{flagicon|South Korea|1997}} {{flagicon|Japan}} [[2002 FIFA World Cup|2002]]
+|-
+|{{flagicon|Germany}} [[2006 FIFA World Cup|2006]]
+|colspan=9|''Did not qualify''
+||12||4||2||6||16||16
+|-
+|{{flagicon|South Africa}} [[2010 FIFA World Cup|2010]]
+|Group stage
+|32nd
+|3
+|0
+|0
+|3
+|1
+|12
+|[[2010 FIFA World Cup squads#North Korea|Squad]]
+||16||8||6||2||20||7
+|-
+|{{flagicon|Brazil}} [[2014 FIFA World Cup|2014]]
+|colspan=9 rowspan=2|''Did not qualify''
+||6||2||1||3||3||4
+|-
+|{{flagicon|Russia}} [[2018 FIFA World Cup|2018]]
+||8||5||1||2||14||8
+|-
+|{{flagicon|Qatar}} [[2022 FIFA World Cup|2022]]
+|colspan=9|''Withdrew''
+|colspan=6|''Withdrew''
+|-
+|{{flagicon|Canada}} {{flagicon|Mexico}} {{flagicon|United States}} [[2026 FIFA World Cup|2026]]
+|colspan=9|''Did not qualify''
+|16||3||3||10||20||28
+|-
+|{{flagicon|Morocco}} {{flagicon|Portugal}} {{flagicon|Spain}} [[2030 FIFA World Cup|2030]]
+|colspan=9 rowspan=2|''To be determined''
+|colspan=6 rowspan=2|''To be determined''
+|-
+|{{flagicon|Saudi Arabia}} [[2034 FIFA World Cup|2034]]
+|-
+!Total
+!{{Tooltip|Quarter-finals|Highest finish}}
+!{{Tooltip|2/17|Number of tournaments qualified for}}
+!7
+!1
+!1
+!5
+!6
+!21
+!—
+!99||42||22||35||136||105
+|}
+{| class="wikitable collapsible collapsed" style="text-align: center;font-size:90%;"
+|-
+!colspan=4|List of FIFA World Cup matches
+|-
+!Year
+!Round
+!Score
+!Result
+|-
+|rowspan=4|[[1966 FIFA World Cup|1966]]
+|Round 1||align="left"|{{fb|PRK|1948}} '''0–3''' {{fb|URS|1955}}||Loss
+|-
+|Round 1||align="left"|{{fb|PRK|1948}} '''1–1''' {{fb|CHI}}||Draw
+|-
+|Round 1||align="left"|{{fb|PRK|1948}} '''1–0''' {{fb|ITA|1946}}||Win
+|-
+|Round 2||align="left"|{{fb|PRK|1948}} '''3–5''' {{fb|POR}}||Loss
+|-
+|rowspan=3|[[2010 FIFA World Cup|2010]]
+|Round 1||align="left"|{{fb|PRK}} '''1–2''' {{fb|BRA}}||Loss
+|-
+|Round 1||align="left"|{{fb|PRK}} '''0–7''' {{fb|POR}}||Loss
+|-
+|Round 1||align="left"|{{fb|PRK}} '''0–3''' {{fb|CIV}}||Loss
+|}
+
+===AFC Asian Cup===
+{{See also|North Korea at the AFC Asian Cup}}
+
+{| class="wikitable" style="text-align: center;"
+|-
+!colspan=10|[[AFC Asian Cup]] record
+! style="width:1%;" rowspan=22|
+!colspan=7|[[AFC Asian Cup qualification|Qualification]] record
+|-
+!Year
+!Result
+!Position
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!Squad
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+|-
+|{{flagicon|Hong Kong|1955}} [[1956 AFC Asian Cup|1956]]
+|colspan=9 rowspan=5|''Not an AFC member''
+|colspan=6 rowspan=5|''Not an AFC member''
+|-
+|{{flagicon|South Korea|1949}} [[1960 AFC Asian Cup|1960]]
+|-
+|{{flagicon|Israel}} [[1964 AFC Asian Cup|1964]]
+|-
+|{{flagicon|Iran|1964}} [[1968 AFC Asian Cup|1968]]
+|-
+|{{flagicon|Thailand}} [[1972 AFC Asian Cup|1972]]
+|-
+|{{flagicon|Iran|1964}} [[1976 AFC Asian Cup|1976]]
+|colspan=9|''Qualified but withdrew''
+||5||3||1||1||7||4
+|-
+|- style="background:#9acdff;"
+|{{flagicon|Kuwait}} [[1980 AFC Asian Cup|1980]]
+|'''Fourth place'''||'''4th'''||'''6'''||'''3'''||'''0'''||'''3'''||'''10'''||'''12'''||'''[[1980 AFC Asian Cup squads#North Korea|Squad]]'''
+||5||4||1||0||9||2
+|-
+|{{flagicon|Singapore}} [[1984 AFC Asian Cup|1984]]
+|colspan=9|''Banned''
+|colspan=6|''Banned''
+|-
+|{{flagicon|Qatar}} [[1988 AFC Asian Cup|1988]]
+|colspan=9|''Did not qualify''
+||4||2||1||1||3||2
+|-
+|{{flagicon|Japan|1870}} [[1992 AFC Asian Cup|1992]]
+|Group stage||8th||3||0||1||2||2||5||[[1992 AFC Asian Cup squads#North Korea|Squad]]
+||3||2||1||0||8||0
+|-
+|{{flagicon|United Arab Emirates}} [[1996 AFC Asian Cup|1996]]
+|colspan=9|''Did not enter''
+|colspan=6|''Did not enter''
+|-
+|{{flagicon|Lebanon}} [[2000 AFC Asian Cup|2000]]
+|colspan=9 rowspan=2|''Did not qualify''
+||6||3||2||1||11||7
+|-
+|{{flagicon|China}} [[2004 AFC Asian Cup|2004]]
+||8||1||2||5||5||15
+|-
+|{{flagicon|Indonesia}} {{flagicon|Malaysia}} {{flagicon|Thailand}} {{flagicon|Vietnam}} [[2007 AFC Asian Cup|2007]]
+|colspan=9|''Banned''
+|colspan=6|''Banned''
+|-
+|{{flagicon|Qatar}} [[2011 AFC Asian Cup|2011]]
+|rowspan=3|Group stage
+|12th
+|3
+|0
+|1
+|2
+|0
+|2
+|[[2011 AFC Asian Cup squads#North Korea|Squad]]
+|colspan=6 rowspan=2|''[[AFC Challenge Cup]]''
+|-
+|{{flagicon|Australia}} [[2015 AFC Asian Cup|2015]] 
+|14th
+|3
+|0
+|0
+|3
+|2
+|7
+|[[2015 AFC Asian Cup squads#North Korea|Squad]]
+|-
+|{{flagicon|United Arab Emirates}} [[2019 AFC Asian Cup|2019]]
+|24th
+|3
+|0
+|0
+|3
+|1
+|14
+|[[2019 AFC Asian Cup squads#North Korea|Squad]]
+||14||8||3||3||27||18
+|-
+|{{flagicon|Qatar}} [[2023 AFC Asian Cup|2023]]
+|colspan=9|''Withdrew''
+|colspan=6|''Withdrew during qualifying''
+|-
+|{{flagicon|Saudi Arabia}} [[2027 AFC Asian Cup|2027]]
+|colspan=9|''Qualified''
+|6||3||0||3||11||7
+|-
+!Total||Fourth place||6/14||18||3||2||13||15||40||—
+!51||26||11||14||76||55
+|}
+
+===EAFF Championship===
+{| class="wikitable" style="text-align: center;"
+|-
+!colspan=10|[[EAFF Championship]] record
+! style="width:1%;" rowspan=13|
+!colspan=6|[[EAFF E-1 Football Championship#Preliminary round (2003–2017)|Preliminary round]]
+|-
+!Year
+!Result
+!Position
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!Squad
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+|-
+|{{flagicon|Japan}} [[2003 East Asian Football Championship|2003]]
+|colspan=9|''Withdrew''
+|colspan=6|''Withdrew''
+|- style="background:#c96;"
+| {{flagicon|South Korea|1997}} [[2005 East Asian Football Championship|2005]]
+|'''Third place'''||'''3rd'''||'''3'''||'''1'''||'''1'''||'''1'''||'''1'''||'''2'''||'''[[2005 East Asian Football Championship Final squads#North Korea|Squad]]'''
+|4||4||0||0||31||0
+|- style="background:#9acdff;"
+|{{flagicon|China}} [[2008 East Asian Football Championship|2008]]
+|'''Fourth place'''||'''4th'''||'''3'''||'''0'''||'''2'''||'''1'''||'''3'''||'''5'''||'''[[2008 East Asian Football Championship Final squads#North Korea|Squad]]'''
+|3||3||0||0||15||1
+|-
+|{{flagicon|Japan}} [[2010 East Asian Football Championship|2010]]
+|colspan=9 rowspan=2|''Did not qualify''
+|3||2||1||0||11||3
+|-
+|{{flagicon|South Korea}} [[2013 EAFF East Asian Cup|2013]]
+|4||3||1||0||16||2
+|- style="background:#c96;"
+|{{flagicon|China}} [[2015 EAFF East Asian Cup|2015]]
+|'''Third place'''||'''3rd'''||'''3'''||'''1'''||'''1'''||'''1'''||'''2'''||'''3'''||'''[[2015 EAFF East Asian Cup Final squads#North Korea|Squad]]'''
+|3||2||1||0||7||2
+|- style="background:#9acdff;"
+|{{flagicon|Japan}} [[2017 EAFF E-1 Football Championship|2017]]
+|'''Fourth place'''||'''4th'''||'''3'''||'''0'''||'''1'''||'''2'''||'''1'''||'''3'''||'''[[2017 EAFF E-1 Football Championship Final squads#North Korea|Squad]]'''
+|3||3||0||0||5||0
+|-
+|{{flagicon|South Korea}} [[2019 EAFF E-1 Football Championship|2019]]
+|colspan=9|''Did not qualify''
+|3||2||1||0||6||1
+|-
+|{{flagicon|Japan}} [[2022 EAFF E-1 Football Championship|2022]]
+|colspan=9|''Did not participate''
+|colspan=6|''Not held''
+|-
+|{{flagicon|South Korea}} [[2025 EAFF E-1 Football Championship|2025]]
+|colspan=9|''Withdrew''
+|colspan=6|''Withdrew''
+|-
+!Total!!Third place!!4/10!!12!!2!!5!!5!!7!!13!!—!!23!!19!!4!!0!!91!!9
+|}
+
+===Asian Games===
+{| class="wikitable" style="text-align: center;"
+|-
+!colspan=10|[[Football at the Asian Games|Asian Games]] record
+|-
+!Year
+!Result
+!Position
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!Squad
+|-
+|[[Football at the 1951 Asian Games|1951]] to [[Football at the 1970 Asian Games|1970]]||colspan=9|''Did not enter''
+|-bgcolor="#9acdff"
+|{{Flagicon|IRI|1964}} [[Football at the 1974 Asian Games|1974]]||'''Fourth place'''||'''4th'''||'''7'''||'''3'''||'''1'''||'''3'''||'''11'''||'''8'''||'''[[Football at the 1974 Asian Games – Men's team squads#North Korea|Squad]]'''
+|-bgcolor=gold
+|{{flagicon|THA}} [[Football at the 1978 Asian Games|1978]]||'''Champions'''||'''1st'''||'''6'''||'''4'''||'''2'''||'''0'''||'''12'''||'''3'''||'''[[Football at the 1978 Asian Games – Men's team squads#North Korea|Squad]]'''
+|-bgcolor="#9acdff"
+|{{flagicon|IND}} [[Football at the 1982 Asian Games|1982]]||'''Fourth place'''||'''4th'''||'''6'''||'''2'''||'''2'''||'''2'''||'''9'''||'''8'''||'''[[Football at the 1982 Asian Games – Men's team squads#North Korea|Squad]]'''
+|-
+|{{flagicon|KOR|1984}} [[Football at the 1986 Asian Games|1986]]||colspan=9|''Did not enter''
+|-bgcolor=silver
+|{{flagicon|CHN}} [[Football at the 1990 Asian Games|1990]]||'''Runners-up'''||'''2nd'''||'''5'''||'''1'''||'''3'''||'''1'''||'''2'''||'''2'''||'''[[Football at the 1990 Asian Games – Men's team squads#North Korea|Squad]]'''
+|-
+|{{flagicon|JPN|1870}} [[Football at the 1994 Asian Games|1994]]||colspan=9|''Did not enter''
+|- 
+|{{flagicon|THA}} [[Football at the 1998 Asian Games|1998]]||Second round||13th||4||1||2||1||6||8||[[Football at the 1998 Asian Games – Men's team squads#North Korea|Squad]]
+|-
+|[[Football at the 2002 Asian Games|2002]]–present
+|colspan=9|''See [[North Korea national under-23 football team]]''
+|-
+!Total||1 Gold medal||5/13||28||11||10||7||40||29||—
+|}
+
+===AFC Challenge Cup===
+{| class="wikitable" style="text-align: center;"
+!colspan=9|[[AFC Challenge Cup]] record
+|-
+!Year
+!Result
+!Position
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+|-
+|{{flagicon|Bangladesh}} [[2006 AFC Challenge Cup|2006]]||colspan=8|''Did not enter''
+|-bgcolor="#cc9966"
+|{{flagicon|India}} [[2008 AFC Challenge Cup|2008]]||'''Third place'''||'''3rd'''||'''5'''||'''4'''||'''0'''||'''1'''||'''9'''||'''1'''
+|-bgcolor=gold
+|{{flagicon|Sri Lanka}} [[2010 AFC Challenge Cup|2010]]||'''Champions'''||'''1st'''||'''5'''||'''3'''||'''2'''||'''0'''||'''14'''||'''2'''
+|-bgcolor=gold
+|{{flagicon|Nepal}} [[2012 AFC Challenge Cup|2012]]||'''Champions'''||'''1st'''||'''5'''||'''5'''||'''0'''||'''0'''||'''12'''||'''1'''
+|-
+|{{flagicon|Maldives}} [[2014 AFC Challenge Cup|2014]]||colspan=8|''Did not enter''
+|-
+!Total||2 Titles||3/5||15||12||2||1||35||4
+|}
+
+===Dynasty Cup===
+{| class="wikitable" style="text-align: center;"
+|-
+!colspan=9|[[Dynasty Cup]] record
+|-
+! width="80" |Year
+! width="120" |Result
+! width="50" |Position
+! width="20" |{{Tooltip|Pld|Games played}}
+! width="20" |{{Tooltip|W|Won}}
+! width="20" |{{Tooltip|D|Drawn}}
+! width="20" |{{Tooltip|L|Lost}}
+! width="20" |{{Tooltip|GF|Goals for}}
+! width="20" |{{Tooltip|GA|Goals against}}
+|- style="background:#c96;"
+|{{flagicon|China}} [[1990 Dynasty Cup|1990]]
+|'''Third place'''||'''3rd'''||'''3'''||'''0'''||'''1'''||'''2'''||'''1'''||'''3'''
+|- style="background:#c96;"
+|{{flagicon|China}} [[1992 Dynasty Cup|1992]]
+|'''Third place'''||'''3rd'''||'''3'''||'''0'''||'''2'''||'''1'''||'''4'''||'''7'''
+|-
+|{{flagicon|Hong Kong|colonial}} [[1995 Dynasty Cup|1995]]
+|colspan=8 rowspan=2|''Did not enter''
+|-
+|{{flagicon|Japan|1870}} [[1998 Dynasty Cup|1998]]
+|-
+!Total!!Third place!!2/4!!6!!0!!3!!3!!5!!10
+|}
+
+==All-time results==
+The following table shows North Korea's all-time international record, correct as of 10 June 2025.
+{| class="wikitable" style="text-align: center; font-size: 100%;"
+|-
+! rowspan=2|Total
+! {{tooltip | Pld | Matches played}}
+! {{tooltip | W | Won}}
+! {{tooltip | D | Drawn}}
+! {{tooltip | L | Lost}}
+!{{tooltip | GF | Goals for}}
+!{{tooltip | GA | Goals against}}
+|-
+!362!!140!!90!!122!!500!!411
+|}
+
+* [https://www.worldfootball.net/teams/te14012/north-korea/ worldfootball.net]
+* [https://web.archive.org/web/20160807021514/http://www.fifa.com/live-scores/teams/country=prk/men/matches/index.html#yearnull FIFA.com]
+
+==Honours==
+<!-- DO NOT ADD UNOFFICIAL OR FRIENDLY COMPETITIONS IN THE SUMMARY TABLE FOR OFFICIAL HONOURS ONLY -->
+===Continental===
+* '''[[AFC Challenge Cup]]'''
+** {{Gold1}} '''Champions (2)''': [[2010 AFC Challenge Cup|2010]], [[2012 AFC Challenge Cup|2012]]
+** {{Bronze3}} Third place (1): [[2008 AFC Challenge Cup|2008]]
+* '''[[Football at the Asian Games|Asian Games]]'''<sup>'''1'''</sup>
+** {{Gold1}} '''Gold medal (1)''': [[Football at the 1978 Asian Games|1978]]
+** {{Silver2}} Silver medal (1): [[Football at the 1990 Asian Games|1990]]
+
+===Regional===
+* '''[[EAFF E-1 Football Championship|EAFF East Asian Cup / EAFF E-1 Football Championship]]'''
+** {{Bronze3}} Third place (2): [[2005 East Asian Football Championship|2005]], [[2015 EAFF East Asian Cup|2015]]
+
+===Friendly===
+* '''[[Nehru Cup]] (1)''': [[1993 Nehru Cup|1993]]<ref>{{Cite web | title = Nehru Cup 1993 | last1 = Bobrowsky | first1 = Josef | last2 = King | first2 = Ian | date = 1 January 2006 | access-date = 22 June 2018 | website = [[RSSSF]] | url = https://www.rsssf.org/tablesn/nehru93.html | archive-date = 5 October 2018 | archive-url = https://web.archive.org/web/20181005151547/http://www.rsssf.com/tablesn/nehru93.html | url-status = live }}</ref>
+* '''[[Intercontinental Cup (India)|AIFF Intercontinental Cup]] (1)''': [[2019 Intercontinental Cup (India)|2019]]<ref>{{cite web |title=DPR KOREA LIFT HERO INTERCONTINENTAL CUP 2019 TITLE |url=https://www.the-aiff.com/news-center-details.htm?id=9827 |publisher=AIFF |access-date=19 July 2019 |date=19 July 2019 |archive-url=https://archive.today/20190729145527/https://www.the-aiff.com/news-center-details.htm?id=9827 |archive-date=29 July 2019 |url-status=dead }}</ref>
+* '''[[Qatar International Friendship Tournament]] (1)''': [[9th International Friendship Tournament|2010]]
+* '''[[VFF Cup|VFF Vietnam International Friendly Cup]] (1)''': [[2010 VFF SonHa Cup|2010]]
+* '''[[King's Cup (Thailand)|King's Cup]] (3)''': 1986, 1987, 2002
+* '''[[Four Nations Men's Football Tournament (China)|Four Nations Tournament]] (1)''': 2001
+
+===Summary===
+Only official honours are included, according to ''FIFA statutes'' (competitions organized/recognized by [[FIFA]] or an affiliated confederation).
+{| class="wikitable" width=30% style="font-size:90% text-align:center;"
+|-
+!Competition !!{{Gold1}} !!{{Silver2}} !!{{Bronze3}} !!Total
+|-
+|align=left|[[AFC Challenge Cup]]
+|2||0||1||3
+|-
+!Total!!2!!0!!1!!3
+|}
+# Competition organized by [[Olympic Council of Asia|OCA]], officially not recognized by FIFA.
+
+==See also==
+{{portal|Association football|North Korea}}
+*[[Football in North Korea]]
+*[[North Korea–South Korea football rivalry]]
+*[[The Game of Their Lives (2002 film)|''The Game of Their Lives'' (2002 film)]]
+
+==Notes==
+{{reflist|group=note}}
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons category}}
+* [http://calciocorea.altervista.org/ Blog about football Democratic People's Republic of Korea] {{in lang|it}}
+* [https://www.fifa.com/about-fifa/associations/PRK Korea DPR] at [[FIFA]]
+* [https://www.the-afc.com/en/east/dpr_korea.html Korea DPR] at [[Asian Football Confederation|AFC]]
+* [https://news.bbc.co.uk/sport1/hi/football/world_cup_2010/8688593.stm North Korea&nbsp;– The World Cup's Mystery Men] by ''[[BBC News]]'', 9 June 2010
+* [http://soccerlens.com/northern-exposure-the-peoples-team-abroad/50816/ Northern Exposure: The People's Team Abroad] by ''Soccerlens'', 25 July 2010
+
+{{North Korea national football team}}
+{{Navboxes
+| title = Links to related articles
+| titlestyle = background: #ED1C27; color: white; border: 1px solid #024FA2;
+| list =
+{{Asian Games football men's tournament winners}}
+{{AFC Challenge Cup winners}}
+{{Navboxes
+| bg = #ED1C27
+| fg = white
+| bordercolor = #024FA2
+| title = North Korea squads
+| list1 = 
+{{North Korea squad 1966 FIFA World Cup}}
+{{North Korea football squad 1976 Summer Olympics}}
+{{North Korea squad 1980 AFC Asian Cup}}
+{{North Korea squad 1992 AFC Asian Cup}}
+{{North Korea squad 2010 FIFA World Cup}}
+{{North Korea squad 2011 AFC Asian Cup}}
+{{North Korea squad 2015 AFC Asian Cup}}
+{{North Korea squad 2019 AFC Asian Cup}}
+}}
+{{Navboxes
+| title = '''North Korea at major tournaments'''
+| list1 = 
+{{1966 FIFA World Cup finalists}}
+{{1980 AFC Asian Cup finalists}}
+{{1992 AFC Asian Cup finalists}}
+{{2010 FIFA World Cup finalists}}
+{{2011 AFC Asian Cup finalists}}
+{{2015 AFC Asian Cup finalists}}
+{{2019 AFC Asian Cup finalists}}
+}}
+{{Football in North Korea}}
+{{EAFF teams}}
+{{AFC teams}}
+{{National sports teams of North Korea}}
+{{s-start}}
+{{succession box
+ | before = [[Football at the 1974 Asian Games|1974]] {{fb-rt|IRN|1964}}
+ | title  = [[Football at the Asian Games|Asian Games Champions]]
+ | years  = [[Football at the 1978 Asian Games|1978]] (first title)
+ | after  = [[Football at the 1982 Asian Games|1982]] {{fb-rt|Iraq}}
+}}
+{{succession box
+ | before = [[2008 AFC Challenge Cup|2008]] {{fb-rt|IND}}
+ | title  = [[AFC Challenge Cup|AFC Challenge Cup Champions]]
+ | years  = [[2010 AFC Challenge Cup|2010]] (first title)<br /> [[2012 AFC Challenge Cup|2012]] (second title)
+ | after  = [[2014 AFC Challenge Cup|2014]] {{fb-rt|Palestine}}
+}}
+{{s-end}}
+}}
+{{Authority control}}
+
+{{DEFAULTSORT:Korea DPR National Football Team}}
+[[Category:North Korea national football team| ]]
+[[Category:North Korea men's national football teams| ]]
+[[Category:Asian national association football teams]]

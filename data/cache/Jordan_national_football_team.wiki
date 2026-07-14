@@ -1,0 +1,1693 @@
+{{Short description|Jordanian association football team for men}}
+{{About|the men's team|the women's team|Jordan women's national football team}}
+{{Use dmy dates|date=November 2022}}
+{{Infobox national football team
+| Nickname              = {{lang|ar|النشامى}} ({{transliteration|ar|Al-Nashama}})<br />(The Chivalrous Ones)
+| Name                  = Jordan
+| Badge                 = Jordan national football team logo 2024.svg 
+| Badge_size            = 175px
+| Association           = [[Jordan Football Association]] (JFA) 
+| Confederation         = [[Asian Football Confederation|AFC]] (Asia)
+| Sub-confederation     = [[West Asian Football Federation|WAFF]] (West Asia)
+| Coach                 = Vacant
+| Captain               = [[Ihsan Haddad]]
+| Most caps             = [[Amer Shafi]] (171)<ref>{{Cite web |url=https://www.rsssf.org/miscellaneous/sabbah-intl.html |title=Amer Shafi Sabbah Mahmoud - Century of International Appearances |access-date=2 February 2023 |archive-date=10 May 2017 |archive-url=https://web.archive.org/web/20170510042400/http://www.rsssf.com/miscellaneous/sabbah-intl.html |url-status=live }}</ref><ref>{{Cite web |url=https://digitalhub.fifa.com/m/7a29d8a2cac79416/original/Century-Club-01112021.pdf |title=FIFA Century Club |access-date=3 October 2023 |archive-date=4 August 2021 |archive-url=https://web.archive.org/web/20210804001601/https://digitalhub.fifa.com/m/453a231298ba04f1/original/FIFA-Century-Club-03082021.pdf |url-status=live }}</ref>
+| Top scorer            = [[Hamza Al-Dardour]] (31)
+| Home Stadium          = [[Amman International Stadium]]<br>[[King Abdullah II Stadium]]
+| FIFA Trigramme        = JOR
+| FIFA Rank             = {{FIFA World Rankings|JOR}}<ref>{{Cite web|url=http://www.fifa.com/fifa-world-ranking/associations/association=jor/men/index.html|archive-url=https://web.archive.org/web/20150219140633/http://www.fifa.com/fifa-world-ranking/associations/association=jor/men/index.html|url-status=dead|archive-date=19 February 2015|title=The FIFA/Coca-Cola World Ranking - Associations - Jordan - Men's|website=FIFA|access-date=22 February 2019}}</ref>
+| FIFA max              = 37
+| FIFA max date         = August – September 2004
+| FIFA min              = 152
+| FIFA min date         = July 1996
+| Elo Rank              = {{nowrap|{{World Football Elo Ratings|Jordan}}}}
+| Elo max               = 37
+| Elo max date          = 23 July 2004
+| Elo min               = 143
+| Elo min date          = September 1984, July 1985
+| pattern_b1            = _jor26h
+| pattern_la1           = _jor26h
+| pattern_ra1           = _jor26h
+| pattern_sh1           = _jor26h
+| pattern_so1           = _jor26h
+| leftarm1              = FFFFFF
+| body1                 = FFFFFF
+| rightarm1             = FFFFFF
+| shorts1               = FFFFFF
+| socks1                = FFFFFF
+| pattern_b2            = _jor26a
+| pattern_la2           = _jor26a
+| pattern_ra2           = _jor26a
+| pattern_sh2           = _jor26a
+| pattern_so2           = _jor26a
+| leftarm2              = FF0000
+| body2                 = FF0000
+| rightarm2             = FF0000
+| shorts2               = FF0000
+| socks2                = FF0000
+| pattern_b3            = _jor24T
+| pattern_la3           = _jor24T
+| pattern_ra3           = _jor24T
+| pattern_sh3           = 
+| pattern_so3           = 
+| leftarm3              = 000000
+| body3                 = 000000
+| rightarm3             = 000000
+| shorts3               = 000000
+| socks3                = 000000
+| First game            = {{fb|Syria|1932}} 3–1 {{fb-rt|JOR}}<br>([[Alexandria]], Egypt; 1 August 1953)
+| Largest win           = {{fb|JOR}} 9–0 {{fb-rt|NEP}}<br>([[Amman]], Jordan; 23 July 2011)
+| Largest loss          = {{fb|Lebanon|1943}} 6–0 {{fb-rt|Jordan}}<br>([[Beirut]], Lebanon; 22 October 1957)<br>{{fb|IRQ|1963}} 7–1 {{fb-rt|Jordan}}<br>(Iraq; 19 February 1982)<br>{{fb|China}} 6–0 {{fb-rt|Jordan}}<br>([[Guangzhou]], China; 15 September 1984)<br>{{fb|JPN}} 6–0 {{fb-rt|JOR}}<br>([[Saitama, Saitama|Saitama]], Japan; 8 June 2012)<br>{{fb|NOR}} 6–0 {{fb-rt|JOR}}<br>([[Oslo]], Norway; 7 September 2023)
+| World cup apps        = 1
+| World cup first       = 2026
+| World cup best        = Group stage ([[2026 FIFA World Cup|2026]])
+| Regional name         = [[AFC Asian Cup|Asian Cup]]
+| Regional cup apps     = 6
+| Regional cup first    = [[2004 AFC Asian Cup|2004]]
+| Regional cup best     = Runners-up ([[2023 AFC Asian Cup|2023]])
+| 2ndRegional name      = [[WAFF Championship]]
+| 2ndRegional cup apps  = 9
+| 2ndRegional cup first = [[2000 WAFF Championship|2000]]
+| 2ndRegional cup best  = Runners-up ([[2002 WAFF Championship|2002]], [[2008 WAFF Championship|2008]], [[2013 WAFF Championship|2013]])
+| medaltemplates        = 
+{{MedalCompetition|[[AFC Asian Cup]]}}
+{{MedalSilver|[[2023 AFC Asian Cup|2023 Qatar]]|[[2023 AFC Asian Cup squads#Group E|Team]]}}
+{{MedalCompetition|[[FIFA Arab Cup]]}}
+{{MedalSilver|[[2025 FIFA Arab Cup|2025 Qatar]]|[[2025 FIFA Arab Cup squads#Group C|Team]]}}
+{{MedalCompetition|[[Football at the Arab Games|Arab Games]]}}
+{{MedalGold|[[1997 Arab Games|1997 Beirut]]|Team}}
+{{MedalGold|[[1999 Arab Games|1999 Amman]]|Team}}
+{{MedalSilver|[[2011 Arab Games|2011 Doha]]|Team}}
+{{MedalCompetition|[[WAFF Championship]]}}
+{{MedalSilver|[[2002 WAFF Championship|2002 Syria]]|Team}}
+{{MedalSilver|[[2008 WAFF Championship|2008 Iran]]|Team}}
+{{MedalSilver|[[2013 WAFF Championship|2013 Qatar]]|[[2013 WAFF Championship squads#Group C|Team]]}}
+| website               = {{URL|https://www.jfa.jo/|jfa.jo}} {{in lang|ar}}
+|3rdRegional cup apps=10|3rdRegional name=[[FIFA Arab Cup]]|3rdRegional cup first=[[1963 Arab Cup|1963]]|3rdRegional cup best=Runners-up ([[2025 FIFA Arab Cup|2025]])}}
+
+The '''Jordan national football team''' ({{langx|ar|منتخب الأردن لكرة القدم}}) represents [[Jordan]] in men's international [[Association football|football]]. It is under the jurisdiction of the [[Jordan Football Association]].
+
+Nicknamed "Al Nashama" ({{lit|''The Chivalrous Ones''}}),<ref>{{cite news |last1=Smale |first1=Simon |title=Who the Socceroos are facing as the Asian Cup kicks off, and when to watch |url=https://www.abc.net.au/news/2019-01-06/socceroos-asian-cup-group-b-preview-when-to-watch/10685218 |website=ABC News |date=5 January 2019 |publisher=Australian Broadcasting Corporation |access-date=6 January 2019 |archive-date=5 January 2019 |archive-url=https://web.archive.org/web/20190105221045/https://www.abc.net.au/news/2019-01-06/socceroos-asian-cup-group-b-preview-when-to-watch/10685218 |url-status=live }}</ref> Jordan has appeared in five [[AFC Asian Cup]] tournaments, achieving its best result in the [[2023 AFC Asian Cup|2023]] edition by reaching the final and finishing as runners-up. The team also finished runners-up at the [[FIFA Arab Cup]] in [[2025 FIFA Arab Cup|2025]], won the [[Arab Games]] in [[1997 Arab Games|1997]] and [[1999 Arab Games|1999]], and reached the [[WAFF Championship]] final on three occasions. In [[2026 FIFA World Cup|2026]], Jordan qualified for the [[FIFA World Cup]] for the first time in its history.
+
+==History==
+{{Expand section|date=June 2025}}
+
+=== Early history (1953–1996) ===
+The Jordanian national football team's first international match was played in 1953 in [[Egypt]] where the team were defeated by Syria 3–1. The first [[FIFA World Cup]] qualifiers Jordan took part in were for the [[1986 FIFA World Cup qualification|1986 tournament]]. They failed to qualify for the World Cup in 1986.
+
+=== Development era (1997–2007) ===
+{{Multiple issues|section=yes|
+{{Expand section|date=June 2025}}
+{{More citations needed section|date=June 2025}}
+}}
+[[Mohammad Awad]] coached Jordan to two [[Arab Games]] championships, in 1997 in [[Beirut]], and 1999 in [[Amman]]. The country then hired [[Serbia]]n head coach [[Branko Smiljanić]], who won two matches in the first round of [[2002 FIFA World Cup qualification|2002 World Cup qualifiers]]. Jordan failed to qualify for the next round. Jordan also reached the semi-finals of the [[2002 Arab Cup]].<ref>{{Cite web |title=Arabian Cup 2002 Details |url=https://www.rsssf.org/tablesa/arabcup02-details.html?utm |access-date=2025-09-21 |website=www.rsssf.org}}</ref>
+
+Under the leadership of Egyptian [[Mahmoud El-Gohary]], the Jordan national team was able to qualify for their first [[AFC Asian Cup]] tournament, in [[2004 AFC Asian Cup|2004]], and reach the quarter-finals, where they lost to eventual winners [[Japan national football team|Japan]] in a penalty shoot-out. Despite this, Jordan reached their highest-ever [[FIFA World Rankings|FIFA world ranking]], at 37th place; they would eventually fail to qualify for the [[2006 FIFA World Cup]] in Germany.
+
+In the 2004 and 2007 WAFF Championships, Jordan finished in third place in the former and made another semi-final in the latter. Five matches into [[2007 AFC Asian Cup qualification]], El-Gohary retired as a football coach, and the [[Jordan Football Association]] hired the Portuguese [[Nelo Vingada]] to take over as the head coach of Jordan; they still missed the [[2007 AFC Asian Cup|finals]].
+
+=== Renaissance of Jordan football (2008–2015) ===
+Under Vingada, Jordan were runners-up in the [[2008 West Asian Football Federation Championship]], but failed to qualify for the [[2010 FIFA World Cup|2010 World Cup]] in South Africa. He was replaced by Iraq's [[Adnan Hamad]], a coach in Asia known for his successes with his national team in Iraq as head coach as well as Iraq U-23 and other Iraq youth teams and clubs.{{Citation needed|date=June 2025}} Jordan qualified for their second Asian Cup tournament in [[2011 AFC Asian Cup|2011]], where they made the quarter-finals before losing to [[Uzbekistan national football team|Uzbekistan]] 2–1. Jordan also finished runner-up at the [[2011 Arab Games]] in Qatar. In 2013, Jordan ended up third in their qualifying group for the [[2014 FIFA World Cup|World Cup]] the following year.
+
+Another Egyptian, [[Hossam Hassan (footballer, born 1966)|Hossam Hassan]], led Jordan to the play-off against Uzbekistan to determine the AFC participant in the [[2014 FIFA World Cup qualification (inter-confederation play-offs)|inter-confederation play-offs]]. With the two teams still evenly matched at full-time in the second leg, Jordan eventually progressed to the intercontinental playoff after winning 9–8 on penalties. The Jordanians missed their first FIFA World Cup debut after losing 5–0 on aggregate to [[Uruguay national football team|Uruguay]].
+
+Jordan qualified to the [[2015 AFC Asian Cup]]. On 3 September 2014, [[Ray Wilkins]] was appointed as the new head coach. Wilkins led Jordan to a group stage exit at the Asian Cup after losses to Iraq and [[Japan national football team|Japan]] and a win over [[Palestine national football team|Palestine]].
+
+=== Stagnation (2016–2023) ===
+Jordan failed to make the final round of [[2018 FIFA World Cup qualification (AFC)|2018 FIFA World Cup qualification]], losing 0–1 to [[Kyrgyzstan national football team|Kyrgyzstan]] and 1–5 to [[Australia men's national soccer team|Australia]]. They would qualify for the [[2019 AFC Asian Cup|2019 Asian Cup]] where Jordan defeated Australia 1–0 and [[Syria national football team|Syria]] 2–0, along with a draw against Palestine in the group stage. They were knocked out by [[Vietnam national football team|Vietnam]], losing in a penalty shootout 2–4.
+
+In the [[2022 FIFA World Cup qualification – AFC second round|2022 World Cup qualification second round]], Jordan finished third in their group. Subsequently, they clinched the top spot in their group during the [[2023 AFC Asian Cup qualification – third round|2023 Asian Cup qualification]], earning themselves a berth in the main tournament.
+
+=== Re-emergence and golden generation (2024–present) ===
+[[File:Asian Nations Cup - Jordan and South Korea (67).jpg|thumb|243x243px|Jordan's starting 11 against South Korea in the 2023 Asian Cup]]
+
+In June 2023, [[Hussein Ammouta]] was appointed as the Jordan national team coach.<ref>{{Cite web |title=Ammouta takes charge of Jordan |url=https://www.the-afc.com/en/national/afc_asian_cup/news/ammouta_takes_charge_of_jordan.html |url-status=live |archive-url=https://web.archive.org/web/20240116171537/https://www.the-afc.com/en/national/afc_asian_cup/news/ammouta_takes_charge_of_jordan.html |archive-date=16 January 2024 |access-date=2024-01-16 |website=the-AFC |language=en}}</ref> In early 2024, he led his squad to their first ever [[2023 AFC Asian Cup final|Asian Cup final]], after defeating Iraq 3–2 after scoring two goals during stoppage time, and beating [[Tajikistan national football team|Tajikistan]] 1–0 and South Korea 2–0 during the knockout stages. In the final, Jordan lost 3–1 to the host nation [[Qatar national football team|Qatar]].<ref>{{cite web |date=10 February 2024 |title=Akram Afif's hat-trick of penalties secures Asian Cup glory for Qatar |url=https://www.theguardian.com/football/2024/feb/10/qatar-jordan-asian-cup-final-match-report |url-status=live |archive-url=https://web.archive.org/web/20240210193719/https://www.theguardian.com/football/2024/feb/10/qatar-jordan-asian-cup-final-match-report |archive-date=10 February 2024 |access-date=10 February 2024 |work=The Guardian}}</ref> Following the national team's historic run to the Asian Cup final, Jordan's [[FIFA Men's World Ranking|FIFA ranking]] rose to 70th, the nation's highest since September 2014.<ref>{{Cite web |title=Men's Ranking |url=https://www.fifa.com/origin1904-p.cxm.fifa.com/fifa-world-ranking/men |access-date=2024-02-15 |website=www.fifa.com |language=en}}</ref><ref>{{Cite web |title=African and Asian teams grab headlines in latest ranking |url=https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/canadamexicousa2026/articles/fifa-world-ranking-february-2024 |access-date=2024-02-15 |website=www.fifa.com}}</ref>
+
+In June 2024, Ammouta requested to leave Jordan due to family reasons and was replaced by [[Jamal Sellami]], who signed a three-year contract.<ref>{{Cite web |date=2024-06-22 |title=تعيين المغربي جمال السلامي مدربا لمنتخب الأردن خلفا لـ عموتة |url=https://www.skynewsarabia.com/sport/1723987-تعيين-المغربي-جمال-السلامي-مدربا-لمنتخب-الأردن |access-date=2024-06-23 |website=Sky News Arabia |language=ar}}</ref><ref>{{Cite web |last= |date=June 22, 2024 |title=Jordan parts ways with coach Ammouta by mutual consent |url=https://www.reuters.com/sports/soccer/jordan-parts-ways-with-coach-ammouta-by-mutual-consent-2024-06-22/ |website=Reuters}}</ref> On 5 June 2025, Jordan secured a berth at the [[2026 FIFA World Cup]], their first ever, with a 3–0 away victory over [[Oman national football team|Oman]].<ref>{{cite web |date=5 June 2025 |title=World Cup 2026: Jordan, South Korea, Uzbekistan qualify |url=https://www.espn.com/soccer/story/_/id/45458584/world-cup-2026-qualified-uzbekistan-australia-south-korea-jordan |access-date=5 June 2025 |publisher=ESPN}}</ref><ref>{{cite web |date=6 June 2025 |title=History-making Jordan qualify for first World Cup |url=https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/jordan-qualify |access-date=31 July 2025 |work=FIFA.com}}</ref><ref>{{cite web |date=11 June 2025 |title=Jordan's long road to World Cup qualification took a strange diversion |url=https://www.theguardian.com/football/2025/jun/11/jordan-world-cup-qualification-harry-redknapp-ray-wilkins |access-date=31 July 2025 |work=Guardian}}</ref>
+
+In December 2025, Sellami led Jordan to their first ever [[2025 FIFA Arab Cup final|FIFA Arab Cup final]]. Jordan went unbeaten up until the final, beating the [[United Arab Emirates national football team|United Arab Emirates]] 2–1, [[Kuwait national football team|Kuwait]] 3–1, [[Egypt national football team|Egypt]] 3–0, Iraq 1–0 and Saudi Arabia 1–0. In the final, Jordan lost 3–2 to [[Morocco national football team|Morocco]].<ref>{{Cite web |date=18 December 2025 |title=Morocco Come From Behind to Defeat Jordan and Win the 2025 FIFA Arab Cup |url=https://www.beinsports.com/en-us/soccer/fifa-arab-cup/articles/morocco-come-from-behind-to-defeat-jordan-and-win-the-2025-fifa-arab-cup-2025-12-18 |website=[[beinSports]]}}</ref> Following the historic run in the Arab Cup, [[Abdullah II of Jordan|His Majesty Abdullah II]] granted Sellami with Jordanian citizenship.<ref>{{Cite web |date=18 December 2025 |title=Nashama coach Jamal Sellami to receive Jordanian citizenship |url=https://en.royanews.tv/news/65826/Jordan-striker-Yazan-Al-Naimat-to-undergo-knee-surgery-in-Doha-on-Wednesday |website=Roya News}}</ref>
+
+==== 2026 FIFA World Cup ====
+Before heading to the [[2026 FIFA World Cup]], Jordan hosted the 2026 edition of its [[Jordan International Tournament]] as preparation.<ref>{{Cite web |date=20 February 2026|title=اتحاد كرة القدم ينظم دورة رباعية دولية بمشاركة النشامى.. ويكشف خطة إعداد المونديال|url=https://jfa.com.jo/news.php?id=31033&title=اتحاد-كرة-القدم-ينظم-دورة-رباعية-دولية-بمشاركة-النشامى..-ويكشف-خطة-إعداد-المونديال|website=[[Jordan Football Association]]|language=Arabic}}</ref> The tournament was moved from Amman to [[Antalya]], Turkey due to the [[2026 Iran war]].<ref>{{Cite web |date=14 March 2026|title=أنطاليا تحتضن الدورة الدولية الرباعية بمشاركة النشامى|url=https://jfa.com.jo/news.php?id=31053&title=أنطاليا-تحتضن-الدورة-الدولية-الرباعية-بمشاركة-النشامى|website=[[Jordan Football Association]]|language=Arabic}}</ref><ref>{{Cite web |date=26 March 2026|title=Amid US-Israel war, Iran football team trains in Turkiye before World Cup|url=https://www.aljazeera.com/sports/2026/3/26/amid-us-israel-war-iran-football-team-trains-in-turkiye-before-world-cup|website=[[Al Jazeera]]}}</ref> Jordan drew 2–2 to both [[Costa Rica national football team|Costa Rica]] and [[Nigeria national football team|Nigeria]].<ref>{{Cite news |date=31 March 2026|title=Nigeria defeat Jordan to win Antalya tournament|url=https://dailytrust.com/nigeria-defeat-jordan-to-win-antalya-tournament/|newspaper=[[Daily Trust]]}}</ref> They later faced [[Switzerland national football team|Switzerland]] in [[St. Gallen]] and [[Colombia national football team|Colombia]] in [[San Diego, California|San Diego]], marking Jordan's ever ever match in [[North America]].<ref>{{Cite web |date=31 May 2026 |title=Jordan Lose to Switzerland |url=https://www.joc.jo/en/news/6027/jordan-lose-to-switzerland-in-world-cup-friendly/ |website=Jordan Olympic Compete}}</ref>
+
+Jordan entered the 2026 FIFA World Cup as debutants, alongside [[Uzbekistan national football team|Uzbekistan]], [[Curaçao national football team|Curaçao]], and [[Cape Verde national football team|Cape Verde]].<ref>{{cite web |date=October 13, 2025 |title=Cabo Verde seal historic World Cup qualification |url=https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/cabo-verde-qualify |access-date=October 14, 2025 |publisher=FIFA}}</ref><ref name=":2">{{cite news |last=Wilson |first=Jonathan |title=Curaçao complete fairytale with battling draw in Jamaica to qualify for World Cup |url=https://www.theguardian.com/football/2025/nov/19/curacao-complete-fairytale-with-battling-draw-in-jamaica-to-qualify-for-world-cup |access-date=November 19, 2025 |work=The Guardian}}</ref><ref>{{Cite news |last=Millar |first=Colin |date=June 5, 2025 |title=Uzbekistan, Jordan qualify for World Cup for first time |url=https://www.nytimes.com/athletic/6229851/2025/06/05/uzbekistan-world-cup-qualification-2026/ |access-date=November 19, 2025 |work=[[The New York Times]] |department=[[The Athletic]] |issn=0362-4331}}</ref> They play their debut match on 18 June at the [[Levi's Stadium]] in [[Santa Clara, California]], losing 3–1 to [[Austria national football team|Austria]]. [[Ali Olwan]] scored the country's first-ever World Cup goal.<ref>{{cite web |last=Emons|first=Michael|url=https://www.bbc.com/sport/football/live/czde4dj23qmt|title=Austria 3–1 Jordan|publisher=BBC Sport|date=17 June 2026}}</ref> They later faced [[Algeria national football team|Algeria]] and suffered a 2–1 defeat, eliminating them from knockout stage contention.<ref>{{Cite web |date=23 June 2026 |title=Algeria come from behind to beat Jordan and bolster qualification hopes |url=https://www.espn.com/soccer/report/_/gameId/760455 |website=[[ESPN]]}}</ref> Their final match was against the [[2022 FIFA World Cup]] world champions [[Argentina national football team|Argentina]], scoring one goal from [[Musa Al-Taamari]] and conceding three goals, one from [[Lionel Messi]].<ref>{{Cite web |date=28 June 2026 |title=Lionel Messi sets another World Cup record as Argentina make it three wins in three |url=https://www.espn.com/soccer/report/_/gameId/760483 |website=[[ESPN]]}}</ref> Jordan became the first team to score against Argentina this World Cup and are the first debutants to score in all three matches since [[Ivory Coast national football team|Ivory Coast]] at the [[2006 FIFA World Cup]].
+
+{{2026 FIFA World Cup group tables|Group J}}
+
+== Home stadiums ==
+Jordan's primary home stadium is the [[Amman International Stadium]] in [[Amman]], where the national team plays majority of its home matches. The stadium is also home to [[Al-Faisaly SC (Amman)|Al-Faisaly]].<ref>{{cite web|url=http://www.worldstadiums.com/stadium_pictures/middle_east/jordan/amman_stadium.shtml|title=World Stadiums - International Stadium in Amman|website=www.worldstadiums.com|access-date=2010-07-01|archive-date=2010-04-05|archive-url=https://web.archive.org/web/20100405132004/http://www.worldstadiums.com/stadium_pictures/middle_east/jordan/amman_stadium.shtml|url-status=dead}}</ref> Other stadiums that Jordan occasionally plays at include [[King Abdullah II Stadium]] in Amman, home to [[Al-Wehdat SC|Al-Wehdat]] and [[Petra Stadium]] in Amman, home to the [[Jordan women's national football team|women's national team]].<ref>{{Cite web|url=https://www.fifa.com/u17womensworldcup/destination/cities/city=1913/|archive-url=https://web.archive.org/web/20161003072947/http://www.fifa.com/u17womensworldcup/destination/cities/city=1913/|url-status=dead|archive-date=3 October 2016|title = King Abdullah II International Stadium – Amman|access-date=27 November 2021|publisher=FIFA}}</ref><ref>{{Cite web |url=http://www.youthcity.gov.jo/petra%20stadium.html |title=Archived copy |access-date=2017-09-21 |archive-date=2017-09-22 |archive-url=https://web.archive.org/web/20170922050825/http://www.youthcity.gov.jo/petra%20stadium.html |url-status=dead }}</ref>
+
+In late 2025, plans were announced for a new home stadium named Al Hussein bin Abdallah II in the new [[Amra City]] as part of Jordan's new urban and sports development initiatives. Construction is set to start in 2026 and to be completed by 2029.<ref>{{Cite news|url=https://jordantimes.com/news/local/king-briefed-on-government-plan-to-develop-first-phase-of-amra-city|title=King briefed on government plan to develop first phase of Amra City|date=2025-12-14|access-date=2025-12-19|publisher=The Jordan Times|language=en}}</ref><ref>{{Cite news|url=https://jordantimes.com/news/local/govt-to-launch-tenders-for-amra-city-development-project|title=Gov't to launch tenders for Amra City development project|date=2025-12-14|access-date=2025-12-19|publisher=The Jordan Times|language=en}}</ref>
+
+<gallery widths="220" heights="150">
+File:Inside the Amman International Stadium.jpg|[[Amman International Stadium]], Amman
+File:King Abdullah II Stadium, Amman, Jordan.jpg|[[King Abdullah II Stadium]], Amman
+File:Sport City Amman JO 90.jpg|[[Petra Stadium]], Amman
+</gallery>
+
+== Kit suppliers ==
+Jordan's home colours are usually white shirts with white shorts. Away colours are usually all red.
+
+{| class="wikitable sortable"
+|-
+! Kit provider
+! Period
+|-
+| {{#invoke:flag|icon|JOR}} ''Unknown''
+| 1953–1997
+|-
+| {{#invoke:flag|icon|GER}} [[Puma (brand)|Puma]]
+| 1997–1999
+|-
+| {{#invoke:flag|icon|GER}} [[Adidas]]
+| 1999–2005
+|-
+|{{#invoke:flag|icon|GER}} [[Jako]]
+| 2005–2009
+|-
+| {{#invoke:flag|icon|GER}} [[Uhlsport]]
+| 2009–2010
+|-
+|{{#invoke:flag|icon|GER}} Adidas
+| 2010–2012
+|-
+| {{#invoke:flag|icon|GER}} Jako
+| 2012–2015<ref>{{Cite web|url=https://footballfashion.org/wordpress/2012/09/13/jordan-201214-jako-home-and-away-jerseys/|title=Jordan 2012/14 Jako Home and Away Jerseys|work=Football Fashion|date=2012-09-13|language=en-US|access-date=2019-02-22|archive-date=23 February 2019|archive-url=https://web.archive.org/web/20190223020501/https://footballfashion.org/wordpress/2012/09/13/jordan-201214-jako-home-and-away-jerseys/|url-status=live}}</ref>
+|-
+|{{#invoke:flag|icon|GER}} Adidas
+| 2015–2018<ref>{{Cite web|url=http://www.insidethegames.biz/articles/1068802/jordan-olympic-committee-announce-joma-kit-deal|title=Jordan Olympic Committee announce JOMA kit deal|date=15 August 2018|website=www.insidethegames.biz|access-date=2019-02-22|archive-date=23 February 2019|archive-url=https://web.archive.org/web/20190223184653/https://www.insidethegames.biz/articles/1068802/jordan-olympic-committee-announce-joma-kit-deal|url-status=live}}</ref>
+|-
+|{{#invoke:flag|icon|ESP}} [[Joma]]
+| 2018–2021
+|-
+|{{#invoke:flag|icon|ENG}} [[Umbro]]
+| 2021–2022
+|-
+|{{#invoke:flag|icon|GER}} Jako
+| 2022–2024
+|-
+|{{#invoke:flag|icon|ESP}} [[Kelme (company)|Kelme]]
+| 2024–2030<ref>{{Cite web |date=18 May 2026 |title=الاتحاد يبرم اتفاقية شراكة مع "كيلمي" العالمية |url=https://www.jfa.jo/news.php?id=31153&title=الاتحاد-يبرم-اتفاقية-شراكة-مع-%252522كيلمي%252522-العالمية |website=[[Jordan Football Association]] |language=Arabic |trans-quote=The federation signs a partnership agreement with Kelme International.}}</ref>
+|-
+|}
+
+==Results and fixtures==
+{{main|Jordan national football team results|Jordan national football team results (2020–present)}}
+
+The following is a list of match results in the last 12 months, as well as any future matches that have been scheduled.
+
+{{legend2|#CCFFCC|Win|border=1px solid #AAAAAA}}
+{{legend2|#FFFFCC|Draw|border=1px solid #AAAAAA}}
+{{legend2|#FFCCCC|Loss|border=1px solid #AAAAAA}}
+{{legend2|#FFFFFF|Fixture|border=1px solid #AAAAAA}}
+
+=== 2025 ===
+{{Football box collapsible
+| format     = 1
+| round      = [[Exhibition game#Association football|Friendly]]
+| date       = 4 September
+| time       = {{UTZ|20:00|+3}}
+| team1      = {{fb-rt|RUS}}
+| score      = 0–0
+| report     = https://int.soccerway.com/matches/2025/09/04/world/friendlies/russia/jordan/I2189972/
+| team2      = {{fb|JOR}}
+| goals1     = 
+| goals2     =
+| stadium    = [[Otkrytie Arena]]
+| location   = [[Moscow]], Russia
+| attendance = 24,915
+| referee    = Ilgiz Tantashev ([[Uzbekistan Football Association|Uzbekistan]])
+| result     = D
+}}
+{{Football box collapsible
+| format     = 1
+| round      = [[Exhibition game#Association football|Friendly]]
+| date       = 9 September
+| time       =  {{UTZ|20:00|3}}
+|team1       = {{fb-rt|JOR}}
+|score       = 3–0
+|report      = https://int.soccerway.com/matches/2025/09/09/world/friendlies/jordan/dominican-rep/I2189963
+|team2       = {{fb|DOM}}
+|goals1      = 
+*[[Ali Olwan|Olwan]] {{Goal|7}}
+*[[Ibrahim Sadeh|Sadeh]] {{Goal|48}}
+* [[Mohammad Abu Zrayq|Abu Zrayq]] {{Goal|90+3}}
+|goals2      =
+|stadium     = [[Amman International Stadium]]
+|location    = [[Amman]], Jordan
+|attendance  = 2,405
+|referee     = Feras Taweel ([[Syria Football Association|Syria]])
+|result      = W
+}}
+{{Football box collapsible
+| format    = 1
+| round     = [[Exhibition game#Association football|Friendly]]
+| date      = 10 October
+| time      = {{UTZ|19:00|+3}}
+|team1      = {{fb-rt|JOR}}
+|score      = 0–1
+|report     = https://www.bbc.com/sport/football/live/cz69zw8xvxzt
+|team2      = {{fb|BOL}}
+|goals1     = 
+|goals2     =
+*[[Robson Matheus|Matheus]] {{goal|90}}
+|stadium    = [[Recep Tayyip Erdoğan Stadium]]
+|location   = [[Istanbul]], Turkey
+|attendance = 
+|referee    = Mehmet Türkmen ([[Turkish Football Federation|Turkey]])
+|result     = L
+}}
+{{Football box collapsible
+| format    = 1
+| round     = [[Exhibition game#Association football|Friendly]]
+| date      = 14 October
+| time      = {{UTZ|19:00|+2}}
+|team1      = {{fb-rt|ALB}}
+|score      = 4–2
+|report     = https://www.uefa.com/european-qualifiers/friendlies/match/2046528--albania-vs-jordan/
+|team2      = {{fb|JOR}}
+|goals1     = 
+*[[Mo Abualnadi|Abualnadi]] {{goal|40|o.g.}}
+*[[Armando Broja|Broja]] {{goal|65}}
+*[[Arbër Hoxha|Hoxha]] {{goal|75}}
+*[[Nedim Bajrami|Bajrami]] {{goal|79}}
+|goals2     =
+*[[Nizar Al-Rashdan|Al-Rashdan]] {{goal|27}}
+*[[Ali Olwan|Olwan]] {{goal|90}}
+|stadium    = [[Arena Kombëtare]]
+|location   = [[Tirana]], Albania
+|attendance = 9,265
+|referee    = Lukas Fähndrich ([[Swiss Football Association|Switzerland]])
+|result     = L
+}}
+{{Football box collapsible
+| format    = 1
+| round     = [[Exhibition game#Association football|Friendly]]
+| date      = 14 November
+| time      = {{UTZ|17:45|+1}}
+|team1      = {{fb-rt|TUN}}
+|score      = 3–2
+|report     = https://globalsportsarchive.com/en/soccer/match/2025-11-14/tunisia-vs-jordan/3936868
+|team2      = {{fb|JOR}}
+|goals1     = 
+*[[Ali Abdi (footballer)|Abdi]] {{goal|44}}
+*[[Montassar Talbi|Talbi]] {{goal|67}}
+*[[Elias Achouri|Achouri]] {{goal|85}}
+|goals2     =
+*[[Yazan Al-Naimat|Al-Naimat]] {{goal|28}}
+*[[Amer Jamous|Jamous]] {{goal|51}}
+|stadium    = [[Hammadi Agrebi Stadium]]
+|location   = [[Tunis]], Tunisia
+|attendance = 13,000
+|referee    = Samir Guezzaz ([[Royal Moroccan Football Federation|Morocco]])
+|result     = L
+}}
+{{Football box collapsible
+| format    = 1
+| round     = [[Exhibition game#Association football|Friendly]]
+| date      = 18 November
+| time      = {{UTZ|20:30|+1}}
+|team1      = {{fb-rt|JOR}}
+|score      = 0–0
+|report     = https://www.soccerway.com/match/jordan-vNcmJoU2/mali-jVn5lThB/?mid=dYznnANp
+|team2      = {{fb|MLI}}
+|goals1     = 
+|goals2     =
+|stadium    = [[Hammadi Agrebi Stadium]]
+|location   = [[Tunis]], Tunisia
+|attendance = 
+|referee    = Nidhal Letaief ([[Tunisian Football Federation|Tunisia]])
+|result     = D
+}}
+{{Football box collapsible
+| format    = 1
+|round      = [[2025 FIFA Arab Cup Group C|2025 Arab Cup Group C]]
+| date      = 3 December
+| time      = {{UTZ|20:00|+3}}
+|team1      = {{fb-rt|JOR}}
+|score      = 2–1
+|team2      = {{fb|UAE}}
+|report     = https://www.fifa.com/en/match-centre/match/FAC/290556/290557/400020129
+|goals1     =
+*[[Ali Olwan|Olwan]] {{goal|20|pen.}}
+*[[Yazan Al-Naimat|Al-Naimat]] {{goal|63}}
+|goals2     =
+*[[Bruno (footballer, born 2001)|Bruno]] {{goal|47}}
+|location   = [[Al Khor]], Qatar
+|stadium    = [[Al Bayt Stadium]]
+|attendance =  30,759
+|referee    = [[Ahmed Al-Kaf]] ([[Oman Football Association|Oman]])
+|result     = W
+}}
+{{Football box collapsible
+| format    = 1
+|round      = [[2025 FIFA Arab Cup Group C|2025 Arab Cup Group C]]
+| date      = 6 December
+| time      = {{UTZ|14:00|+3}}
+|team1      = {{fb-rt|KUW}}
+|score      = 1–3
+|team2      = {{fb|JOR}}
+|report     = https://www.fifa.com/en/match-centre/match/FAC/290556/290557/400020130
+|goals1     =
+* [[Yousef Nasser|Nasser]] {{goal|84}}
+|goals2     =
+* [[Mohannad Abu Taha|Abu Taha]] {{goal|17}}
+* [[Saed Al-Rosan|Al-Rosan]] {{goal|49}}
+* [[Ali Olwan|Olwan]] {{goal|90+7|pen.}}
+|location   = [[Al Rayyan (city)|Al Rayyan]], Qatar
+|stadium    = [[Ahmad bin Ali Stadium]]
+|attendance = 35,933
+|referee    = Cristián Garay ([[Football Federation of Chile|Chile]])
+|result     = W
+}}
+{{Football box collapsible
+| format    = 1
+|round      = [[2025 FIFA Arab Cup Group C|2025 Arab Cup Group C]]
+| date      = 9 December
+| time      = {{UTZ|17:30|+3}}
+|team1      = {{fb-rt|EGY}}
+|score      = 0–3
+|team2      = {{fb|JOR}}
+|report     = https://www.fifa.com/en/match-centre/match/FAC/290556/290557/400020132
+|goals1     =
+|goals2     =
+*[[Mohammad Abu Hashish|Abu Hashish]] {{goal|19}}
+*[[Mohammad Abu Zrayq|Abu Zrayq]] {{goal|41}}
+*[[Ali Olwan|Olwan]] {{goal|90+2|pen.}}
+|location   = [[Al Khor]], Qatar
+|stadium    = [[Al Bayt Stadium]]
+|attendance = 55,658
+|referee    = [[Ismail Elfath]] ([[United States Soccer Federation|United States]])
+|result     = W
+}}
+{{Football box collapsible
+| format    = 1
+|round      = [[2025 FIFA Arab Cup knockout stage#Quarter-finals|2025 Arab Cup quarter-finals]]
+| date      = 12 December
+| time      = {{UTZ|17:30|+3}}
+|team1      = {{fb-rt|JOR}}
+|score      = [[2025 FIFA Arab Cup knockout stage#Jordan vs Iraq|1–0]]
+|team2      = {{fb|IRQ}}
+|report     = https://www.fifa.com/en/match-centre/match/10013/290556/290563/400020143
+|goals1     =
+* [[Ali Olwan|Olwan]] {{goal|41|pen.}}
+|goals2     =
+|location   = [[Al Rayyan (city)|Al Rayyan]], Qatar
+|stadium    = [[Education City Stadium]]
+|attendance = 43,486
+|referee    = [[Espen Eskås]] ([[Norwegian Football Federation|Norway]])
+|result     = W
+}}
+{{Football box collapsible
+| format    = 1
+|round      = [[2025 FIFA Arab Cup knockout stage#Semi-finals|2025 Arab Cup semi-finals]]
+| date      = 15 December
+| time      = {{UTZ|20:30|+3}}
+|team1      = {{fb-rt|KSA}}
+|score      = [[2025 FIFA Arab Cup knockout stage#Saudi Arabia vs Jordan|0–1]]
+|team2      = {{fb|JOR}}
+|report     = https://www.fifa.com/en/match-centre/match/10013/290556/290562/400020144
+|goals1     =
+|goals2     =
+* [[Nizar Al-Rashdan|Al-Rashdan]] {{goal|66}}
+|location   = [[Al Khor]], Qatar
+|stadium    = [[Al Bayt Stadium]]
+|attendance = 62,825
+|referee    = Juan Gabriel Benítez ([[Paraguayan Football Association|Paraguay]])
+|result     = W
+}}
+{{Football box collapsible
+| format    = 1
+|round      = [[2025 FIFA Arab Cup final|2025 Arab Cup final]]
+| date      = 18 December
+| time      = {{UTZ|19:00|+3}}
+|team1      = {{fb-rt|JOR}}
+|score      = [[2025 FIFA Arab Cup knockout stage#Final|2–3]]
+|aet        = yes
+|team2      = {{fb|MAR}}
+|report     = 
+|goals1     =
+*[[Ali Olwan|Olwan]] {{goal|48||68|pen.}}
+|goals2     = 
+*[[Oussama Tannane|Tannane]] {{goal|4}}
+*[[Abderrazak Hamdallah|Hamdallah]] {{goal|88||100}}
+|location   = [[Lusail]], Qatar
+|stadium    = [[Lusail Stadium]]
+|attendance = 84,517
+|referee    = [[Glenn Nyberg]] ([[Swedish Football Association|Sweden]])
+|result     = L
+}}
+
+=== 2026 ===
+{{Football box collapsible
+| format    = 1
+| round      = [[Exhibition match|Friendly]]
+| date      = 27 March
+| time      = {{UTZ|20:30|+3}}
+| team1      = {{fb-rt|JOR}}
+| score      = 2–2
+| team2      = {{fb|CRC}}
+| report     = https://jfa.com.jo/news.php?id=31033&title=اتحاد-كرة-القدم-ينظم-دورة-رباعية-دولية-بمشاركة-النشامى..-ويكشف-خطة-إعداد-المونديال
+| goals1     =
+*[[Baha' Faisal|Faisal]] {{goal|50|pen.}}
+*[[Ibrahim Sabra|Sabra]] {{goal|76}}
+| goals2     =
+*[[Josimar Alcócer|Alcócer]] {{goal|84}}
+*[[Warren Madrigal|Madrigal]] {{goal|90+1}}
+|location   = [[Antalya]], Türkiye{{Efn|name="Mar26"|The four mini tournaments between Jordan, [[Iran national football team|Iran]], [[Nigeria national football team|Nigeria]], and [[Costa Rica national football team|Costa Rica]] were moved from [[Amman]], Jordan to Antalya, Turkey due to the travel restrictions from the [[2026 Iran war]].<ref>{{Cite web |date=14 March 2026 |title=أنطاليا تحتضن الدورة الدولية الرباعية بمشاركة النشامى |url=https://jfa.com.jo/news.php?id=31053&title=أنطاليا-تحتضن-الدورة-الدولية-الرباعية-بمشاركة-النشامى |website=[[Jordan Football Association]] |language=Arabic}}</ref>}}
+|stadium    = [[Mardan Sports Complex]]
+|attendance =
+|referee    = Kadir Sağlam ([[Turkish Football Federation|Turkey]])
+|result     = D
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[Exhibition match|Friendly]]
+|date       = 31 March
+|time       = {{UTZ|20:30|+3}}
+|team1      = {{fb-rt|JOR}}
+|score      = 2–2
+|team2      = {{fb|NGA}}
+|report     = https://jfa.com.jo/news.php?id=31033&title=اتحاد-كرة-القدم-ينظم-دورة-رباعية-دولية-بمشاركة-النشامى..-ويكشف-خطة-إعداد-المونديال
+|goals1     =
+*[[Musa Al-Taamari|Al-Taamari]] {{goal|17}}
+*[[Mohammad Al-Dawoud|Al-Dawoud]] {{goal|77}}
+|goals2     =
+*[[Moses Simon|Simon]] {{goal|25}}
+*[[Emmanuel Fernandez (footballer)|E. Fernandez]] {{goal|41}}
+|location   = [[Antalya]], Türkiye{{efn|name="Mar26"}}
+|stadium    = [[Mardan Sports Complex]]
+|attendance =
+|referee    = Atilla Karaoğlan ([[Turkish Football Federation|Turkey]])
+|result     = D
+}}
+{{Football box collapsible
+| format    = 1
+|round      = [[Exhibition match|Friendly]]
+| date      = 31 May
+| time      = {{UTZ|15:00|2}}
+|team1      = {{fb-rt|SUI|civil}}
+|score      = 4–1
+|team2      = {{fb|JOR}}
+|report     = https://www.uefa.com/european-qualifiers/friendlies/match/2048184--switzerland-vs-jordan/
+|goals1     =
+* [[Breel Embolo|Embolo]] {{goal|27|pen.}}
+* [[Dan Ndoye|Ndoye]] {{goal|33}}
+* [[Granit Xhaka|Xhaka]] {{goal|45+9|pen.}}
+* [[Christian Fassnacht|Fassnacht]] {{goal|79}}
+|goals2     =
+* [[Odeh Al-Fakhouri|Al-Fakhouri]] {{goal|52}}
+|stadium    = [[Kybunpark]]
+|location   = [[St. Gallen]], Switzerland
+|attendance =
+|referee    = Rohit Saggi ([[Norwegian Football Federation|Norway]])
+|result     = L
+}}
+{{Football box collapsible
+| format    = 1
+| round      = [[Exhibition match|Friendly]]
+| date      = 7 June
+| time      = {{UTZ|16:00|-7}}
+| team1      = {{fb-rt|COL}}
+| score      = 2–0
+| team2      = {{fb|JOR}}
+| report     = https://jfa.com.jo/news.php?id=31033&title=اتحاد-كرة-القدم-ينظم-دورة-رباعية-دولية-بمشاركة-النشامى..-ويكشف-خطة-إعداد-المونديال
+| goals1     = [[Jhon Arias (footballer)|J. Arias]] {{goal|41||55}}
+| goals2     =
+| stadium    = [[Snapdragon Stadium]]
+| location   = [[San Diego, California|San Diego]], [[California]], United States
+| attendance = 28,831
+| referee    = Jesús López Valle ([[Mexican Football Federation|Mexico]])
+| result     = L
+}}
+{{football box collapsible
+| format     = 1
+| round      = [[2026 FIFA World Cup|2026 World Cup]] [[2026 FIFA World Cup Group J|Group J]]
+| date       = 16 June
+| time       = {{UTZ|21:00|-7}}
+| team1      = {{fb-rt|AUT}}
+| score      = 3–1
+| report     = https://www.fifa.com/en/match-centre/match/17/285023/289273/400021498
+| team2      = {{fb|JOR}}
+| goals1     =
+*[[Romano Schmid|Schmid]] {{goal|21}}
+*[[Yazan Al-Arab|Al-Arab]] {{goal|76|o.g.}}
+*[[Marko Arnautović|Arnautović]] {{goal|90+12|pen.}}
+| goals2     = [[Ali Olwan|Olwan]] {{goal|50}}
+| stadium    = [[Levi's Stadium]]
+| location   = [[Santa Clara, California|Santa Clara]], California, United States
+| attendance = 68,527
+| referee    = [[Dahane Beida]] ([[Football Federation of the Islamic Republic of Mauritania|Maritania]])
+| result     = L
+}}
+{{football box collapsible
+| format     = 1
+| round      = [[2026 FIFA World Cup|2026 World Cup]] [[2026 FIFA World Cup Group J|Group J]]
+| date       = 22 June
+| time       = {{UTZ|20:00|-7}}
+| team1      = {{fb-rt|JOR}}
+| score      = 1–2
+| report     = https://www.fifa.com/en/match-centre/match/17/285023/289273/400021499
+| team2      = {{fb|ALG}}
+|goals1=
+*[[Nizar Al-Rashdan|Al-Rashdan]] {{goal|36}}
+|goals2=
+*[[Nadhir Benbouali|Benbouali]] {{goal|69}}
+*[[Amine Gouiri|Gouiri]] {{goal|82}}
+| stadium    = [[Levi's Stadium]]
+| location   = [[Santa Clara, California|Santa Clara]], California, United States
+| attendance = 68,371
+| referee    = [[Slavko Vinčić]] ([[Football Association of Slovenia|Slovenia]])
+| result     = L
+}}
+{{football box collapsible
+| format     = 1
+| round      = [[2026 FIFA World Cup|2026 World Cup]] [[2026 FIFA World Cup Group J|Group J]]
+| date       = 27 June
+| time       = {{UTZ|21:00|-5}}
+| team1      = {{fb-rt|JOR}}
+| score      = 1–3
+| report     = https://www.fifa.com/en/match-centre/match/17/285023/289273/400021495
+| team2      = {{fb|ARG}}
+| goals1     =
+*[[Musa Al-Taamari|Al-Taamari]] {{goal|55}}
+|goals2     =
+*[[Giovani Lo Celso|Lo Celso]] {{goal|19}}
+*[[Lautaro Martínez|La. Martínez]] {{goal|31|pen.}}
+*[[Lionel Messi|Messi]] {{goal|80}}
+| stadium    = [[AT&T Stadium]]
+| location   = [[Arlington, Texas|Arlington]], [[Texas]], United States
+| attendance = 70,649
+| referee    = [[István Kovács (referee)|István Kovács]] ([[Romanian Football Federation|Romania]])
+| result     = L
+}}
+
+===2027===
+{{Football box collapsible
+|format     = 1
+|date       = 8 January
+|time       = {{UTZ|--:--|}}
+|round      = [[2027 AFC Asian Cup Group B|2027 Asian Cup GS]]
+|score      = 
+|report     = 
+|team1      = {{fb-rt|UZB}}
+|goals1     =
+|team2      = {{fb|JOR}}
+|goals2     =
+|stadium    = [[King Abdullah Sports City Stadium]] 
+|location   = [[Jeddah]], Saudi Arabia
+|attendance = 
+|referee    = 
+|result     = 
+}} 
+{{Football box collapsible
+|format     = 1
+|date       = 13 January
+|time       = {{UTZ|--:--|}}
+|round      = [[2027 AFC Asian Cup Group B|2027 Asian Cup GS]]
+|score      = 
+|report     = 
+|team1      = {{fb-rt|JOR}}
+|goals1     =
+|team2      = {{fb|BHR}}
+|goals2     =
+|stadium    = [[King Abdullah Sports City Stadium]] 
+|location   = [[Jeddah]], Saudi Arabia
+|attendance = 
+|referee    = 
+|result     = 
+}}
+{{Football box collapsible
+|format     = 1
+|date       = 18 January
+|time       = {{UTZ|--:--|}}
+|round      = [[2027 AFC Asian Cup Group B|2027 Asian Cup GS]]
+|score      = 
+|report     = 
+|team1      = {{fb-rt|PRK}}
+|goals1     =
+|team2      = {{fb|JOR}}
+|goals2     =
+|stadium    = [[Imam Mohammad Ibn Saud Islamic University|Imam Mohammed Ibn Saud University Stadium]] 
+|location   = [[Riyadh]], Saudi Arabia
+|attendance = 
+|referee    = 
+|result     = 
+}}
+
+==Coaching staff==
+{| class="wikitable"
+|-
+! style="color:#FF0000;background:#FFFFFF"|Position
+! style="color:#FF0000;background:#FFFFFF"|Name
+! style="color:#FF0000;background:#FFFFFF"|Ref.
+|-
+| Technical director
+| {{flagicon|TUN}} [[Abdelhay Ben Soltane]] 
+| 
+|-
+| Head coach
+| Vacant
+| 
+|-
+| Assistant coach
+| {{flagicon|MAR}} Mustapha Khalfi <br/> {{flagicon|MAR}} Omar Najhi
+| 
+|-
+| Goalkeeping coach
+| {{Flagicon|JOR}} Ibrahim Ayed
+| 
+|-
+| Physiotherapist
+| {{Flagicon|JOR}} Amer Al-Tamari
+| 
+|-
+| Doctor
+| {{Flagicon|JOR}} Youssef Al-Aramsheh
+| 
+|-
+| Team manager
+| {{Flagicon|JOR}} Mohammed Mango
+|
+|}
+
+===Coaching history===
+<ref>{{cite web |url=https://www.rsssf.org/miscellaneous/jord-coach.html |title=Jordan national team coaches |website=[[RSSSF]] |access-date=8 July 2014 |archive-date=2 October 2022 |archive-url=https://web.archive.org/web/20221002124021/https://www.rsssf.org/miscellaneous/jord-coach.html |url-status=live }}</ref>
+{{Div col|colwidth=22em}}
+*{{flagicon|JOR}} Shehadeh Mousa (1963–1964)
+*{{flagicon|HUN}} [[Miklós Vadas]] (1966–1967)
+*{{flagicon|ENG}} [[George Skinner (footballer)|George Skinner]] (1968–1969)
+*{{flagicon|JOR}} Shehadeh Mousa (1971–1972)
+*{{flagicon|JOR}} [[Mohammad Awad]] (1972–1975, 1985–1986, 1997–1998, 1998–2000)
+*{{flagicon|FRG}} Josef Steiger (1975–1976)
+*{{flagicon|SCO}} [[Danny McLennan]] (1978–1980)
+*{{flagicon|JOR}} Math'har Al-Saeed (1981)
+*{{flagicon|ENG}} Tony Banfield (1983, 1989)
+*{{flagicon|BRA}} [[Edson Tavares]] (1986–1987)
+*{{flagicon|YUG}} Slobodan Ogsananovic (1988–1989)
+*{{flagicon|JOR}} Ezzat Hamza (1992, 1995)
+*{{flagicon|RUS}} [[Aleksandr Maksimenkov]] (1992–1993)
+*{{flagicon|SCG}} [[Vukašin Višnjevac]] (1998)
+*{{flagicon|ARG}} [[Ricardo Carugati]] (2000–2001)
+*{{flagicon|SCG}} [[Branko Smiljanić]] (2001–2002)
+*{{flagicon|EGY}} [[Mahmoud El-Gohary]] (2002–2007)
+*{{flagicon|POR}} [[Nelo Vingada]] (2007–2009)
+*{{flagicon|IRQ}} [[Adnan Hamad]] (2009–2013)
+*{{flagicon|EGY}} [[Hossam Hassan]] (2013–2014)
+*{{flagicon|JOR}} [[Ahmed Abdel-Qader]] (2014, 2015)
+*{{flagicon|ENG}} [[Ray Wilkins]] (2014–2015)
+*{{flagicon|BEL}} [[Paul Put]] (June 2015–January 2016)
+*{{flagicon|JOR}} [[Abdullah Abu Zema]] (January 2016–March 2016)
+*{{flagicon|ENG}} [[Harry Redknapp]] (March 2016)
+*{{flagicon|JOR}} [[Abdullah Abu Zema]] (March 2016–December 2016)
+*{{flagicon|UAE}} [[Abdullah Mesfer]] (December 2016–October 2017)
+*{{flagicon|JOR}} [[Jamal Abu-Abed]] (October 2017–September 2018)
+*{{flagicon|BEL}} [[Vital Borkelmans]] (September 2018–June 2021)
+*{{flagicon|IRQ}} [[Adnan Hamad]] (June 2021–June 2023)
+*{{flagicon|MAR}} [[Hussein Ammouta]] (June 2023–August 2024)
+*{{flagicon|MAR}} [[Jamal Sellami]] (August 2024–July 2026)
+{{div col end}}
+
+==Players==
+===Current squad===
+The following players were named on 2 June 2026 in the official squad for the [[2026 FIFA World Cup]].<ref>{{Cite web |last=Dorff |first=Marcel |date=2026-06-02 |title=Jordan Announces Squad for 2026 FIFA World Cup |url=https://heavy.com/sports/soccer/world-cup/jordan-announces-squad-fifa-world-cup/ |access-date=2026-06-02 |website=HEAVY |language=en-US}}</ref> [[Ibrahim Sabra]] withdrew injured on June 5<ref>{{cite web |url=https://x.com/JordanFA/status/2062955822317977881 |title=أمنيات السلامة والشفاء العاجل للاعب إبراهيم صبرة، والعودة إلى الملاعب في أقرب وقت بعد أن أظهرت الفحوصات الطبية إصابته بتمزق في أربطة الكاحل للقدم اليسرى أثناء التدريبات، ما يستدعي خضوعه لبرنامج علاجي وتأهيلي خلال الفترة المقبلة، واستبعاده من قائمة النشامى لكأس العالم 2026|trans-title=Wishing safety and a speedy recovery for player Ibrahim Sabra, and a return to the fields at the earliest opportunity, after medical examinations revealed his injury with a tear in the ligaments of his left ankle during training, which necessitates his undergoing a treatment and rehabilitation program in the coming period, and his exclusion from the Nashama squad for the 2026 World Cup.|publisher=[[Jordan Football Association]] |date=June 5, 2026 |access-date=June 5, 2026 |language=ar}}</ref> and was replaced by [[Mohammad Taha (footballer)|Mohammad Taha]].<ref>{{cite web |url=https://x.com/JordanFA/status/2064030556929593647 |title=
+قرر الجهاز الفني للنشامى بقيادة المدرب جمال سلامي ضم اللاعب محمد أبو غوش إلى قائمة النشامى لكأس العالم 2026
+|trans-title=The national team’s technical staff, led by head coach Jamal Sellami, has decided to include the player Mohammad Abu Ghoush in the Nashama squad for the 2026 World Cup|publisher=[[Jordan Football Association]] |date=June 8, 2026 |access-date=June 5, 2026 |language=ar}}</ref>
+<br>''Caps and goals correct as of 27 June 2026, after the match against [[Argentina national football team|Argentina]].''
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Yazeed Abulaila]]|age={{birth date and age|1993|1|8|df=y}}|caps=79|goals=0|club=[[Al-Hussein SC (Irbid)|Al-Hussein]]|clubnat=JOR}}
+{{nat fs g player|no=12|pos=GK|name=[[Nour Bani Attiah]]|age={{birth date and age|1993|1|25|df=y}}|caps=5|goals=0|club=[[Al-Faisaly SC|Al-Faisaly]]|clubnat=JOR}}
+{{nat fs g player|no=22|pos=GK|name=[[Abdallah Al-Fakhouri]]|age={{birth date and age|2000|1|22|df=y}}|caps=11|goals=0|club=[[Al-Wehdat SC|Al-Wehdat]]|clubnat=JOR}}
+{{nat fs break}}
+{{nat fs g player|no=3|pos=DF|name=[[Abdallah Nasib]]|age={{birth date and age|1994|2|25|df=y}}|caps=68|goals=3|club=[[Free agent|''Unattached'']]|clubnat=}}
+{{nat fs g player|no=4|pos=DF|name=[[Husam Abu Dahab]]|age={{birth date and age|2000|5|13|df=y}}|caps=20|goals=0|club=[[Al-Faisaly SC|Al-Faisaly]]|clubnat=JOR}}
+{{nat fs g player|no=5|pos=DF|name=[[Yazan Al-Arab]]|age={{birth date and age|1996|1|31|df=y}}|caps=83|goals=3|club=[[FC Seoul]]|clubnat=KOR}}
+{{nat fs g player|no=16|pos=DF|name=[[Mohammad Abualnadi]]|age={{birth date and age|2001|2|8|df=y}}|caps=19|goals=0|club=[[Corvinul Hunedoara]]|clubnat=ROM}}
+{{nat fs g player|no=17|pos=DF|name=[[Salim Obaid]]|age={{birth date and age|1992|1|17|df=y}}|caps=14|goals=0|club=[[Al-Hussein (Irbid)|Al-Hussein]]|clubnat=JOR}}
+{{nat fs g player|no=18|pos=DF|name=[[Mohammad Taha (footballer)|Mohammad Taha]]|age={{birth date and age|2005|7|13|df=y}}|caps=2|goals=0|club=[[Al-Hussein SC (Irbid)|Al-Hussein]]|clubnat=JOR}}
+{{nat fs g player|no=19|pos=DF|name=[[Saed Al-Rosan]]|age={{birth date and age|1997|2|1|df=y}}|caps=22|goals=2|club=[[Al-Quwa Al-Jawiya]]|clubnat=IRQ}}
+{{nat fs g player|no=23|pos=DF|name=[[Ihsan Haddad]]|other=[[Captain (association football)|captain]]|age={{birth date and age|1994|2|5|df=y}}|caps=95|goals=2|club=[[Al-Hussein SC (Irbid)|Al-Hussein]]|clubnat=JOR}}
+{{nat fs g player|no=26|pos=DF|name=[[Anas Badawi]]|age={{birth date and age|1997|9|13|df=y}}|caps=1|goals=0|club=[[Al-Faisaly SC|Al-Faisaly]]|clubnat=JOR}}
+{{nat fs break}}
+{{nat fs g player|no=2|pos=MF|name=[[Mohammad Abu Hashish]]|age={{birth date and age|1995|5|9|df=y}}|caps=57|goals=1|club=[[Al-Karma SC|Al-Karma]]|clubnat=IRQ}}
+{{nat fs g player|no=6|pos=MF|name=[[Amer Jamous]]|age={{birth date and age|2002|7|3|df=y}}|caps=20|goals=1|club=[[Al-Zawraa SC|Al-Zawraa]]|clubnat=IRQ}}
+{{nat fs g player|no=8|pos=MF|name=[[Noor Al-Rawabdeh]]|age={{birth date and age|1997|2|24|df=y}}|caps=71|goals=3|club=[[Free agent|''Unattached'']]|clubnat=}}
+{{nat fs g player|no=14|pos=MF|name=[[Rajaei Ayed]]|age={{birth date and age|1993|7|25|df=y}}|caps=72|goals=0|club=[[Al-Talaba]]|clubnat=IRQ}}
+{{nat fs g player|no=15|pos=MF|name=[[Ibrahim Sa'deh]]|age={{birth date and age|2000|4|27|df=y}}|caps=57|goals=3|club=[[Al-Karma SC|Al-Karma]]|clubnat=IRQ}}
+{{nat fs g player|no=20|pos=MF|name=[[Mohannad Abu Taha]]|age={{birth date and age|2003|2|2|df=y}}|caps=32|goals=1|club=[[Free agent|''Unattached'']]|clubnat=}}
+{{nat fs g player|no=21|pos=MF|name=[[Nizar Al-Rashdan]]|age={{birth date and age|1999|3|23|df=y}}|caps=50|goals=5|club=[[Free agent|''Unattached'']]|clubnat=}}
+{{nat fs g player|no=25|pos=MF|name=[[Mohammad Al-Dawoud]]|age={{birth date and age|1992|12|4|df=y}}|caps=14|goals=1|club=[[Al-Wehdat SC|Al-Wehdat]]|clubnat=JOR}}
+{{nat fs break}}
+{{nat fs g player|no=7|pos=FW|name=[[Mohammad Abu Zrayq]]|age={{birth date and age|1997|12|30|df=y}}|caps=43|goals=5|club=[[Raja Casablanca]]|clubnat=MAR}}
+{{nat fs g player|no=9|pos=FW|name=[[Ali Olwan]]|age={{birth date and age|2000|3|26|df=y}}|caps=69|goals=30|club=[[Al-Sailiya SC|Al-Sailiya]]|clubnat=QAT}}
+{{nat fs g player|no=10|pos=FW|name=[[Musa Al-Taamari]]|age={{birth date and age|1997|6|10|df=y}}|caps=95|goals=25|club=[[Stade Rennais FC|Rennes]]|clubnat=FRA}}
+{{nat fs g player|no=11|pos=FW|name=[[Odeh Al-Fakhouri]]|age={{birth date and age|2005|11|22|df=y}}|caps=13|goals=1|club=[[Pyramids FC|Pyramids]]|clubnat=EGY}}
+{{nat fs g player|no=13|pos=FW|name=[[Mahmoud Al-Mardi]]|age={{birth date and age|1993|10|6|df=y}}|caps=92|goals=9|club=[[Al-Hussein SC (Irbid)|Al-Hussein]]|clubnat=JOR}}
+{{nat fs g player|no=24|pos=FW|name=[[Ali Azaizeh]]|age={{birth date and age|2004|4|13|df=y}}|caps=7|goals=0|club= [[Kazma SC|Kazma]]|clubnat=KUW}}
+{{nat fs end}}
+
+===Recent call-ups===
+The following players have been called up for the team within the last 12 months and are still available for selection.
+<!--Sorted by position, date of birth, caps, goals and most recent call-up.-->
+{{nat fs r start}}
+{{nat fs r player|no=|pos=GK|name=[[Ahmad Al-Jaidi]]|age={{birth date and age|2001|4|9|df=y}}|caps=0|goals=0|club=[[Shabab Al-Ordon SC|Shabab Al-Ordon]]|clubnat=JOR|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=GK|name=[[Abdel Rahman Al-Talalga]]|age={{birth date and age|2003|4|12|df=y}}|caps=0|goals=0|club=[[Al-Faisaly SC|Al-Faisaly]]|clubnat=JOR|latest=v. {{fb|NGR}}, 31 March 2026}}
+{{nat fs r player|no=|pos=GK|name=[[Malek Shalabiya]]|age={{birth date and age|1988|2|20|df=y}}|caps=1|goals=0|club=[[Al-Ramtha SC|Al-Ramtha]]|clubnat=JOR|latest=[[2025 FIFA Arab Cup]]}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=DF|name=[[Ahmad Assaf]]|age={{birth date and age|1999|7|21|df=y}}|caps=6|goals=0|club=[[Al-Hussein SC (Irbid)|Al-Hussein]]|clubnat=JOR|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=DF|name=[[Yousef Abu Al-Jazar]]|age={{birth date and age|1999|10|25|df=y}}|caps=15|goals=0|club=[[Al-Hussein SC (Irbid)|Al-Hussein]]|clubnat=JOR|latest=v. {{fb|NGR}}, 31 March 2026}}
+{{nat fs r player|no=|pos=DF|name=[[Hadi Al-Hourani]]|age={{birth date and age|2000|3|14|df=y}}|caps=9|goals=0|club=[[Al-Faisaly SC|Al-Faisaly]]|clubnat=JOR|latest=[[2025 FIFA Arab Cup]]}}
+{{nat fs r player|no=|pos=DF|name=[[Ali Hajabi]]|age={{birth date and age|2004|5|2|df=y}}|caps=9|goals=0|club=[[Al-Hussein SC (Irbid)|Al-Hussein]]|clubnat=JOR|latest=[[2025 FIFA Arab Cup]]}}
+{{nat fs r player|no=|pos=DF|name=[[Ja'far Samara]]|age={{birth date and age|2004|6|8|df=y}}|caps=0|goals=0|club=[[Al-Ramtha SC|Al-Ramtha]]|clubnat=JOR|latest=v. {{fb|MLI}}, 18 November 2025}}
+{{nat fs r player|no=|pos=DF|name=[[Mohannad Khairullah]]|age={{birth date and age|1993|7|25|df=y}}|caps=20|goals=2|club=[[Al-Faisaly SC|Al-Faisaly]]|clubnat=JOR|latest=Amman training camp, 25 August 2025 <sup>PRE</sup>}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=MF|name=[[Adham Al-Quraishi]]|age={{birth date and age|1995|3|7|df=y}}|caps=11|goals=0|club=[[Al-Hussein SC (Irbid)|Al-Hussein]]|clubnat=JOR|latest=[[2025 FIFA Arab Cup]] <sup>INJ</sup>}}
+{{nat fs r player|no=|pos=MF|name=[[Issam Smeeri]]|age={{birth date and age|1999|5|30|df=y}}|caps=7|goals=0|club=[[Al-Salt SC|Al-Salt]]|clubnat=JOR|latest=[[2025 FIFA Arab Cup]] <sup>INJ</sup>}}
+{{nat fs r player|no=|pos=MF|name=[[Ahmad Al-Salman]]|age={{birth date and age|2002|7|2|df=y}}|caps=1|goals=0|club=[[Al-Ramtha SC|Al-Ramtha]]|clubnat=JOR|latest=v. {{fb|MLI}}, 18 November 2025}}
+{{nat fs r player|no=|pos=MF|name=[[Khaled Zakaria]]|age={{birth date and age|2000|9|8|df=y}}|caps=2|goals=0|club=[[Al-Faisaly SC|Al-Faisaly]]|clubnat=JOR|latest=Amman training camp, 25 August 2025 <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=MF|name=[[Yousef Qashi]]|age={{birth date and age|2005|4|15|df=y}}|caps=1|goals=0|club=[[Al-Hussein SC (Irbid)|Al-Hussein]]|clubnat=JOR|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=FW|name=[[Ibrahim Sabra]]|age={{birth date and age|2006|2|1|df=y}}|caps=9|goals=1|club=[[Göztepe S.K.|Göztepe]]|clubnat=TUR|latest=[[2026 FIFA World Cup]] <sup>INJ</sup>}}
+{{nat fs r player|no=|pos=FW|name=[[Baha' Faisal]]|age={{birth date and age|1995|5|30|df=y}}|caps=57|goals=18|club=[[Al-Waab SC|Al-Waab]]|clubnat=QAT|latest=v. {{fb|NGR}}, 31 March 2026}}
+{{nat fs r player|no=|pos=FW|name=[[Yazan Al-Naimat]]|age={{birth date and age|1999|6|4|df=y}}|caps=70|goals=26|club=[[Shabab Al Ahli Club|Shabab Al Ahli]]|clubnat=UAE|latest=[[2025 FIFA Arab Cup]] <sup>INJ</sup>}}
+{{nat fs r player|no=|pos=FW|name=[[Ahmad Ersan]]|age={{birth date and age|1995|9|28|df=y}}|caps=44|goals=4|club=[[Al-Faisaly SC|Al-Faisaly]]|clubnat=JOR|latest=[[2025 FIFA Arab Cup]]}}
+{{nat fs r player|no=|pos=FW|name=[[Aref Al-Haj]]|age={{birth date and age|2001|5|28|df=y}}|caps=4|goals=0|club=[[Al-Hussein SC (Irbid)|Al-Hussein]]|clubnat=JOR|latest=v. {{fb|MLI}}, 18 November 2025}}
+{{nat fs r player|no=|pos=FW|name=[[Abdallah Awad]]|age={{birth date and age|2000|2|19|df=y}}|caps=1|goals=0|club=[[Al-Wehdat SC|Al-Wehdat]]|clubnat=JOR|latest=v. {{fb|MLI}}, 18 November 2025}}
+{{nat fs r player|no=|pos=FW|name=[[Tammer Bany]]|age={{birth date and age|2003|10|19|df=y}}|caps=1|goals=0|club=[[West Bromwich Albion F.C.|West Bromwich Albion]]|clubnat=ENG|latest=v. {{fb|MLI}}, 18 November 2025}}
+{{nat fs r player|no=20|pos=FW|name=[[Reziq Bani Hani]]|age={{birth date and age|2002|1|28|df=y}}|caps=6|goals=0|club=[[Al-Hussein SC (Irbid)|Al-Hussein]]|clubnat=JOR|latest=v. {{fb|ALB}}, 14 October 2025}}
+{{nat fs break}}
+;Notes
+*<sup>INJ</sup> = Not part of the [[#Current squad|current squad]], due to injury.
+*<sup>PRE</sup> = Preliminary squad.
+*<sup>WD</sup> = Player withdrew from the current squad due to non-injury issue.
+{{nat fs end}}
+
+===Past squads===
+;FIFA World Cup
+* [[2026 FIFA World Cup squads#Jordan|2026 FIFA World Cup]]
+
+;AFC Asian Cup
+* [[2004 AFC Asian Cup squads#Jordan|2004 AFC Asian Cup]]
+* [[2011 AFC Asian Cup squads#Jordan|2011 AFC Asian Cup]]
+* [[2015 AFC Asian Cup squads#Jordan|2015 AFC Asian Cup]]
+* [[2019 AFC Asian Cup squads#Jordan|2019 AFC Asian Cup]]
+* [[2023 AFC Asian Cup squads#Jordan|2023 AFC Asian Cup]]
+
+;WAFF Championship
+* [[2019 WAFF Championship squads#Jordan|2019 WAFF Championship]]
+
+;FIFA Arab Cup
+* [[2021 FIFA Arab Cup squads#Jordan|2021 FIFA Arab Cup]]
+* [[2025 FIFA Arab Cup squads#Jordan|2025 FIFA Arab Cup]]
+
+==Player records==
+{{Updated|27 June 2026}}<ref>{{cite web |url=https://www.rsssf.org/miscellaneous/jord-recintlp.html |title=Jordan – Record International Players |last=Mamrud |first=Roberto |date=7 February 2019 |website=[[RSSSF]] |df=dmy |access-date=2 February 2023 |archive-date=30 March 2023 |archive-url=https://web.archive.org/web/20230330192939/https://www.rsssf.org/miscellaneous/jord-recintlp.html |url-status=live }}</ref>
+: Statistics include official FIFA-recognised matches only
+:''Players in '''bold''' are still active at international level.''
+
+=== Most capped players ===
+
+{| class="wikitable sortable" style="text-align:center;"
+|-
+!width=30px|Rank
+! style="width:150px;"|Name
+!width=50px|Caps
+!width=50px|Goals
+!width=50px|Position
+! style="width:100px;"|Career
+|-
+|1
+|align="left"|[[Amer Shafi]]
+|171
+|1
+|GK
+|2002–2021
+|-
+|2
+|align="left"| [[Baha' Abdel-Rahman]]
+|152
+|6
+|MF
+|2007–2022
+|-
+|3
+|align="left"|[[Hatem Aqel]]
+|137
+|10
+|DF
+|1998–2014
+|-
+|4
+|align="left"|[[Amer Deeb]]
+|130
+|21
+|MF
+|2002–2014
+|-
+|5
+|align="left"|[[Hassouneh Al-Sheikh]]
+|120
+|12
+|MF
+|1997–2010
+|-
+|6
+|align="left"|[[Odai Al-Saify]]
+|118
+|15
+|MF
+|2007–2023
+|-
+|7
+|align="left"|[[Abdallah Deeb]]
+|115
+|19
+|FW
+|2007–2016
+|-
+|rowspan=2|8
+|align="left"|[[Anas Bani Yaseen]]
+|113
+|6
+|DF
+|2008–2024
+|-
+|align="left"|[[Hamza Al-Dardour]]
+|113
+|31
+|FW
+|2011–2024
+|-
+|10
+|align="left"|[[Hassan Abdel-Fattah]]
+|110
+|29
+|FW
+|2002–2015
+|-
+|}
+
+=== Top goalscorers ===
+
+{| class="wikitable sortable" style="text-align:center;"
+|-
+!width=30px|Rank
+! style="width:150px;"|Name
+!width=50px|Goals
+!width=50px|Caps
+!width=50px|Ratio
+! style="width:100px;"|Career
+|-
+|1
+|align=left|[[Hamza Al-Dardour]]
+|31
+|113
+|{{#expr: 31/113 round 2}}
+|2011–2024
+|-
+|2
+|align=left|'''[[Ali Olwan]]'''
+|30
+|69
+|{{#expr: 30/69 round 2}}
+|2020–present
+|-
+|3
+|align=left|[[Hassan Abdel-Fattah]]
+|29
+|110
+|{{#expr: 29/110 round 2}}
+|2002–2015
+|-
+|4
+|align=left|[[Badran Al-Shaqran]]
+|28
+|81
+|{{#expr: 28/81 round 2}}
+|1996–2006
+|-
+|5
+|align=left|'''[[Yazan Al-Naimat]]'''
+|26
+|70
+|{{#expr: 26/70 round 2}}
+|2021–present
+|-
+|6
+|align=left|'''[[Musa Al-Taamari]]'''
+|25
+|95
+|{{#expr: 25/95 round 2}}
+|2016–present
+|-
+|rowspan=2|7
+|align=left|[[Mahmoud Shelbaieh]]
+|21
+|79
+|{{#expr: 21/79 round 2}}
+|2000–2011
+|-
+|align=left|[[Amer Deeb]]
+|21
+|130
+|{{#expr: 21/130 round 2}}
+|2002–2014
+|-
+|9
+|align=left|[[Abdallah Deeb]]
+|19
+|115
+|{{#expr: 19/115 round 2}}
+|2007–2016
+|-
+|rowspan=3|10
+|align=left|'''[[Baha' Faisal]]'''
+|18
+|58
+|{{#expr: 18/58 round 2}}
+|2016–present
+|-
+|}
+
+==Competitive record==
+
+===FIFA World Cup===
+{{Main|Jordan at the FIFA World Cup}}
+
+{| class="wikitable" style="text-align: center;"
+|-
+!colspan=10|[[FIFA World Cup]] record
+!rowspan=39|
+!colspan=6|[[FIFA World Cup qualification|Qualification]] record
+|-
+!Year
+!Result
+!Position
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!Squad
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+|-
+|{{flagicon|Uruguay}} [[1930 FIFA World Cup|1930]]
+| rowspan="5" colspan="9" |''Not a FIFA member''
+| rowspan="5" colspan="6" |''Not a FIFA member''
+|-
+|{{flagicon|Italy|1861}} [[1934 FIFA World Cup|1934]]
+|-
+|{{flagicon|France|1794}} [[1938 FIFA World Cup|1938]]
+|-
+|{{flagicon|Brazil|1889}} [[1950 FIFA World Cup|1950]]
+|-
+|{{flagicon|Switzerland}} [[1954 FIFA World Cup|1954]]
+|-
+|{{flagicon|Sweden}} [[1958 FIFA World Cup|1958]]
+| rowspan="7" colspan="9" |''Did not enter''
+| rowspan="7" colspan="6" |''Did not enter''
+|-
+|{{flagicon|Chile}} [[1962 FIFA World Cup|1962]]
+|-
+|{{flagicon|England}} [[1966 FIFA World Cup|1966]]
+|-
+|{{flagicon|Mexico}} [[1970 FIFA World Cup|1970]]
+|-
+|{{flagicon|West Germany}} [[1974 FIFA World Cup|1974]]
+|-
+|{{flagicon|Argentina}} [[1978 FIFA World Cup|1978]]
+|-
+|{{flagicon|Spain}} [[1982 FIFA World Cup|1982]]
+|-
+| {{flagicon|Mexico}} [[1986 FIFA World Cup|1986]] ||colspan=9 rowspan=10|''Did not qualify''
+|4||1||0||3||3||7
+|-
+| {{flagicon|Italy}} [[1990 FIFA World Cup|1990]]
+|6||2||1||3||5||7
+|-
+| {{flagicon|United States of America}} [[1994 FIFA World Cup|1994]]
+|8||2||3||3||12||15
+|-
+| {{flagicon|France|1974}} [[1998 FIFA World Cup|1998]]
+|4||1||1||2||4||4
+|-
+| {{flagicon|South Korea|1997}} {{flagicon|Japan}} [[2002 FIFA World Cup|2002]]
+|6||2||2||2||12||7
+|-
+| {{flagicon|Germany}} [[2006 FIFA World Cup|2006]]
+|6||4||0||2||10||6
+|-
+| {{flagicon|South Africa}} [[2010 FIFA World Cup|2010]]
+|8||3||1||4||8||8
+|-
+| {{flagicon|Brazil}} [[2014 FIFA World Cup|2014]]
+|20||8||5||7||30||31
+|-
+| {{flagicon|Russia}} [[2018 FIFA World Cup|2018]]
+|8||5||1||2||21||7
+|-
+| {{flagicon|Qatar}} [[2022 FIFA World Cup|2022]]
+|8||4||2||2||13||3
+|-
+| {{flagicon|Canada}} {{flagicon|Mexico}} {{flagicon|United States}} [[2026 FIFA World Cup|2026]]
+|Group stage
+|44th
+|3
+|0
+|0
+|3
+|3
+|8
+|[[2026 FIFA World Cup squads#Jordan|Squad]]
+|16||8||5||3||32||12
+|-
+| {{flagicon|Morocco}} {{flagicon|Portugal}} {{flagicon|Spain}} [[2030 FIFA World Cup|2030]]
+|colspan=9 rowspan=2|''TBD''
+|colspan=8 rowspan=2|''TBD''
+|-
+| {{flagicon|Saudi Arabia}} [[2034 FIFA World Cup|2034]]
+|-
+!Total||Group stage||44th||3||0||0||3||3||8||{{Tooltip|1/18|Number of tournaments qualified for}}
+!94||40||21||33||150||107
+|}
+
+===AFC Asian Cup===
+{{main|Jordan at the AFC Asian Cup}}
+
+{| class="wikitable" style="text-align: center;"
+!colspan=9|[[AFC Asian Cup]] record
+!width=1% rowspan=22|
+!colspan=6|[[AFC Asian Cup qualification|Qualification]] record
+|-
+!Year
+!Round
+!Position
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}*
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+|-
+|{{flagicon|Hong Kong|1955}} [[1956 AFC Asian Cup|1956]]
+|colspan=8 rowspan=4|''Not an AFC member''
+|colspan=8 rowspan=4|''Not an AFC member''
+|-
+|{{flagicon|South Korea|1949}} [[1960 AFC Asian Cup|1960]]
+|-
+|{{flagicon|Israel}} [[1964 AFC Asian Cup|1964]]
+|-
+|{{flagicon|Iran|1964}} [[1968 AFC Asian Cup|1968]]
+|-
+|{{flagicon|Thailand}} [[1972 AFC Asian Cup|1972]]
+|colspan=8|''Did not qualify''
+|6
+|2
+|1
+|3
+|5
+|9
+|-
+|{{flagicon|Iran|1964}} [[1976 AFC Asian Cup|1976]]
+|colspan=8 rowspan=2|''Did not enter''
+|colspan=8 rowspan=2|''Did not enter''
+|-
+|{{flagicon|Kuwait}} [[1980 AFC Asian Cup|1980]]
+|-
+|{{flagicon|Singapore}} [[1984 AFC Asian Cup|1984]]
+|colspan=8 rowspan=2|''Did not qualify''
+|4
+|1
+|1
+|2
+|7
+|10
+|-
+|{{flagicon|Qatar}} [[1988 AFC Asian Cup|1988]]
+|4
+|1
+|3
+|0
+|2
+|1
+|-
+|{{flagicon|Japan|1870}} [[1992 AFC Asian Cup|1992]]
+|colspan=8|''Did not enter''
+|colspan=6|''Did not enter''
+|-
+|{{flagicon|United Arab Emirates}} [[1996 AFC Asian Cup|1996]]
+|colspan=8 rowspan=2|''Did not qualify''
+|2
+|1
+|0
+|1
+|4
+|1
+|-
+|{{flagicon|Lebanon}} [[2000 AFC Asian Cup|2000]]
+|4
+|2
+|1
+|1
+|12
+|4
+|-
+|{{flagicon|China}} [[2004 AFC Asian Cup|2004]]
+|Quarter-finals
+|7th
+|4
+|1
+|3
+|0
+|3
+|1
+|6
+|5
+|0
+|1
+|13
+|6
+|-
+|{{flagicon|Indonesia}} {{flagicon|Malaysia}} {{flagicon|Thailand}} {{flagicon|Vietnam}} [[2007 AFC Asian Cup|2007]]
+|colspan=8|''Did not qualify''
+|6
+|3
+|1
+|2
+|10
+|5
+|-
+|{{flagicon|Qatar}} [[2011 AFC Asian Cup|2011]]
+|Quarter-finals
+|6th
+|4
+|2
+|1
+|1
+|5
+|4
+|6
+|2
+|2
+|2
+|4
+|4
+|-
+|{{flagicon|Australia}} [[2015 AFC Asian Cup|2015]]
+|Group stage
+|rowspan=2|9th
+|3
+|1
+|0
+|2
+|5
+|4
+|6
+|3
+|3
+|0
+|10
+|3
+|-
+|{{flagicon|United Arab Emirates}} [[2019 AFC Asian Cup|2019]]
+|Round of 16
+|4
+|2
+|2
+|0
+|4
+|1
+|14
+|8
+|4
+|2
+|37
+|12
+|-bgcolor=silver
+|{{flagicon|Qatar}} [[2023 AFC Asian Cup|2023]]
+|'''[[2023 AFC Asian Cup final|Runners-up]]'''
+|'''2nd'''
+|'''7'''
+|'''4'''
+|'''1'''
+|'''2'''
+|'''13'''
+|'''8'''
+|11
+|7
+|2
+|2
+|19
+|3
+|-
+|{{flagicon|Saudi Arabia}} [[2027 AFC Asian Cup|2027]]
+|colspan=8|''Qualified''
+|6
+|4
+|1
+|1
+|16
+|4
+|-
+!Total
+!Runners-up
+!6/19
+!22
+!10
+!7
+!5
+!30
+!18
+!75
+!39
+!19
+!17
+!139
+!62
+|}
+
+:''*Denotes draws include knockout matches decided via [[Penalty shoot-out (association football)|penalty shoot-out]].''
+
+===West Asian Championship===
+{| class="wikitable" style="text-align: center;"
+!colspan=10|[[West Asian Football Federation Championship]] record
+|-
+!Year
+!Result
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!{{Tooltip|GD|Goal difference}}
+|-bgcolor=#9acdff
+|style="border: 3px solid red"|{{flagicon|Jordan}} [[2000 West Asian Football Federation Championship|2000]]||'''Fourth place'''||'''5'''||'''1'''||'''2'''||'''2'''||'''3'''||'''5'''||'''−2'''
+|-bgcolor=silver
+|{{flagicon|Syria|1980}} [[2002 West Asian Football Federation Championship|2002]]||'''Runners-up'''||'''4'''||'''3'''||'''0'''||'''1'''||'''6'''||'''4'''||'''2'''
+|-bgcolor="#cc9966"
+|{{flagicon|Iran}} [[2004 West Asian Football Federation Championship|2004]]||'''Third place'''||'''4'''||'''2'''||'''2'''||'''0'''||'''7'''||'''3'''||'''4'''
+|-bgcolor="#cc9966"
+|style="border: 3px solid red"|{{flagicon|Jordan}} [[2007 West Asian Football Federation Championship|2007]]||'''Semi-finals'''||'''3'''||'''1'''||'''0'''||'''2'''||'''3'''||'''2'''||'''1'''
+|-bgcolor=silver
+|{{flagicon|Iran}} [[2008 West Asian Football Federation Championship|2008]]||'''Runners-up'''||'''4'''||'''2'''||'''1'''||'''1'''||'''7'''||'''3'''||'''4'''
+|-
+|style="border: 3px solid red"|{{flagicon|Jordan}} [[2010 West Asian Football Federation Championship|2010]]||Group stage||2||0||2||0||3||3||0
+|-
+|{{flagicon|Kuwait}} [[2012 West Asian Football Federation Championship|2012]]||Group stage||2||0||0||2||1||3||−2
+|-bgcolor=silver
+|{{flagicon|Qatar}} [[2013 WAFF Championship|2013]]||'''Runners-up'''||'''4'''||'''2'''||'''1'''||'''1'''||'''3'''||'''3'''||'''0'''
+|-
+|{{flagicon|Iraq}} [[2019 WAFF Championship|2019]]||Group stage||3||1||1||1||4||2||2
+|-
+|{{flagicon|Oman}} [[2026 WAFF Championship|TBA]]||''Qualified''|| colspan="7" |''TBD''
+|-
+! Total || 9/9 || 31 || 12 || 9 || 10 || 37 || 28 || +9
+|}
+
+===FIFA Arab Cup===
+{| class="wikitable" style="text-align: center;"
+!colspan=10|[[FIFA Arab Cup]] record
+|-
+!Year
+!Result
+!Position
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!{{Tooltip|GD|Goal difference}}
+|-
+| {{flagicon|Lebanon|1943}} [[1963 Arab Cup|1963]]||Group stage||5th||0||0||4||0||17||−17
+|-
+| {{flagicon|Kuwait}} [[1964 Arab Cup|1964]]||Group stage||5th||0||1||3||3||10||−7
+|-
+| {{flagicon|Iraq|1963}} [[1966 Arab Cup|1966]]||Round 1||6th||1||1||2||6||7||−1
+|-
+| {{flagicon|Saudi Arabia}} [[1985 Arab Cup|1985]]||Round 1||6th||1||0||2||3||8||−5
+|-bgcolor=#9acdff
+|style="border: 3px solid red"|{{flagicon|Jordan}} [[1988 Arab Cup|1988]]||'''Fourth place'''||'''4th'''||'''2'''||'''1'''||'''3'''||'''4'''||'''7'''||'''−3'''
+|-
+| {{flagicon|Syria|1980}} [[1992 Arab Cup|1992]]||Round 1||6th||0||1||1||2||5||−3
+|-
+| {{flagicon|Qatar}} [[1998 Arab Cup|1998]]||Round 1||6th||2||1||2||5||7||−2
+|-bgcolor="#cc9966"
+| {{flagicon|Kuwait}} [[2002 Arab Cup|2002]]||'''Semi-finals'''||'''3rd'''||'''2'''||'''2'''||'''1'''||'''7'''||'''6'''||'''1'''
+|-
+| {{flagicon|Saudi Arabia}} [[2012 Arab Cup|2012]]||colspan=8|''Did not enter''
+|-
+|{{flagicon|Qatar}} [[2021 FIFA Arab Cup|2021]]||Quarter-finals||6th||2||0||2||10||8||+2
+|-bgcolor=silver
+|{{flagicon|Qatar}} [[2025 FIFA Arab Cup|2025]]||'''Runners-up'''||'''2nd'''||'''5'''||'''0'''||'''1'''||'''12'''||'''5'''||'''+7'''
+|-
+|{{flagicon|Qatar}} [[FIFA Arab Cup|2029]]||colspan="8" |''TBD''
+|-
+|{{flagicon|Qatar}} [[FIFA Arab Cup|2033]]||colspan="8" |''TBD''
+|-
+! Total || Finalists || 10/11 || 14 || 7 || 21 || 49 || 78 || −29
+|}
+
+===Arab Games===
+{| class="wikitable" style="text-align: center;"
+!colspan=10|[[Football at the Arab Games|Arab Games]] record
+|-
+!Year
+!Result
+!Position
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!{{Tooltip|GD|Goal difference}}
+|-bgcolor=#9acdff
+|{{flagicon|Egypt|1922}} [[1953 Arab Games|1953]]||'''Fourth place'''||'''4th'''||'''1'''||'''0'''||'''2'''||'''7'''||'''7'''||'''0'''
+|-
+|{{flagicon|Lebanon|1943}} [[1957 Arab Games|1957]]||Group stage||6th||1||0||2||4||10||−6
+|-
+|{{flagicon|Syria|1972}} [[1976 Arab Games|1976]]||Group stage||5th||3||0||3||7||9||−2
+|-bgcolor=gold
+|{{flagicon|Lebanon}} [[1997 Arab Games|1997]]||'''Champions'''||'''1st'''||'''3'''||'''2'''||'''0'''||'''9'''||'''5'''||'''4'''
+|-bgcolor=gold
+|style="border: 3px solid red"|{{flagicon|Jordan}} [[1999 Arab Games|1999]]||'''Champions'''||'''1st'''||'''5'''||'''1'''||'''1'''||'''18'''||'''9'''||'''9'''
+|-bgcolor=silver
+|{{flagicon|Qatar}} [[2011 Arab Games|2011]]||'''Runners-up'''||'''2nd'''||'''2'''||'''2'''||'''1'''||'''6'''||'''2'''||'''4'''
+|-
+! Total || 2 Titles || 6/12 || 15 || 5 || 9 || 51 || 42 || +9
+|}
+
+===Asian Games===
+{| class="wikitable" style="text-align: center;"
+|-
+! colspan=9|[[Football at the Asian Games|Asian Games]] record
+|-
+! Year||Result||M||W||D||L||GF||GA
+|-
+| 1951-1994||colspan=8|''Did not participate''
+|-
+| [[Football at the 2002 Asian Games|2002]]–present
+|colspan=8|''See [[Jordan national under-23 football team]]''
+|-
+! Total ||0/13||0||0||0||0||0||0
+|}
+
+==Head-to-head record==
+[[File:AUS-JOR 20190106 Asian Cup 2.jpg|thumb|260x260px|Australia & Jordan Group B match, 2019 AFC Asian Cup]]
+
+The following table shows Jordan's all-time international record.{{updated|27 June 2026}} after the match against [[Argentina national football team|Argentina]].<ref>{{cite web | url=https://int.soccerway.com/teams/jordan/jordan/1349/matches/ | title=Jordan - Jordan - Results and fixtures - Soccerway | access-date=14 September 2022 | archive-date=22 September 2022 | archive-url=https://web.archive.org/web/20220922112532/https://int.soccerway.com/teams/jordan/jordan/1349/matches/ | url-status=live }}</ref>
+
+{{legend2|#CCFFCC|Positive record|border=1px solid #AAAAAA}}
+{{legend2|#FFFFCC|Neutral record|border=1px solid #AAAAAA}}
+{{legend2|#FFCCCC|Negative record|border=1px solid #AAAAAA}}
+
+All friendly and international matches except the Olympics are included.
+
+{| class="wikitable sortable" style="font-size:90%; text-align:center;"
+|-
+! Against
+! Played
+! Won
+! Drawn
+! Lost
+! GF
+! GA
+! GD
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|AFG|2013}} || 3 || 2 || 1 || 0|| 13 || 5 || +8
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|ALB}} || 2 || 0 || 1 || 1 || 2 || 4 ||-2
+|- bgcolor=FFFACD
+| style="text-align:left;"| {{fb|ALG}} || 3 || 1 || 1 || 1 || 4 || 4 || 0
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|ARG}} || 1 || 0 || 0 || 1 || 1 || 3 || –2
+|- bgcolor=FFFACD
+| style="text-align:left;"| {{fb|ARM}} || 1 || 0 || 1 || 0 || 0 || 0 || 0
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|AUS}} || 8 || 3 || 0 || 5 || 7 || 14 || −7
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|AUT}} || 1 || 0 || 0 || 1 || 1 || 3 || –2
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|AZE}} || 2 || 0 || 1 || 2 || 2 || 5 || −3
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|BHR}} || 32 || 13 || 7 || 12 || 34 || 31 || +3
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|BAN}} || 2 || 2 || 0 || 0|| 12 || 0 || +12
+|- bgcolor=FFFACD
+| style="text-align:left;"| {{fb|BLR}} || 2 || 1 || 0 || 1 || 1 || 1 || 0
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|BOL}} || 1 || 0 || 0 || 1 || 0 || 1 || −1
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|BIH}} || 2 || 0 || 1 || 1 || 1 || 2 || −1
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|BUL}} || 1 || 0 || 0 || 1 || 0 || 2 || −2
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|CAM}} || 2 || 2 || 0 || 0 || 8 || 0 || +8
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|CHA}} || 1 || 1 || 0 || 0 || 1 || 0 || +1
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|CHN}} || 11 || 2 || 4 || 5 || 14 || 18 || −4
+|- bgcolor=FFCCCC 
+| style="text-align:left;"| {{fb|COL}} || 2 || 0 || 0 || 2 || 0 || 5 || −5
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|CGO}} || 1 || 1 || 0 || 0 || 1 || 0 || +1
+|- bgcolor=FFFACD 
+| style="text-align:left;"| {{fb|CRC}} || 1 || 0 || 1 || 0 || 2 || 2 || 0
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|CRO}} || 1 || 0 || 0 || 1 || 1 || 2 || −1
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|CYP}} || 5 || 2 || 2 || 1 || 6 || 3 || +3
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|DEN}} || 1 || 1 || 0 || 0 || 3 || 2 || +1
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|Dominican Republic}} || 1 || 1 || 0 || 0 || 3 || 0 || +3
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|ECU}} || 1 || 1 || 0 || 0 || 3 || 0 || +3
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|EGY}} || 6 || 2 || 1 || 3 || 6 || 11 || −5
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|EST}} || 1 || 0 || 0 || 1 || 0 || 1 || −1
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|FIN}} || 1 || 0 || 0 || 1 || 1 || 2 || −1
+|- bgcolor=FFFACD
+| style="text-align:left;"| {{fb|GEO}} || 2 || 1 || 0 || 1 || 3 || 3 || 0
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|HAI}} || 1 || 0 || 0 || 1 || 0 || 2 || –2
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|HKG}} || 4 || 2 || 2 || 0 || 7 || 1 || +6
+|- bgcolor=FFFACD
+| style="text-align:left;"| {{fb|HUN}} || 1 || 0 || 1 || 0 || 1 || 1 || 0
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|IND}} || 2 || 2 || 0 || 0 || 4 || 1 || +3
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|IDN}} || 6 || 6 || 0 || 0 || 17 || 3 || +14
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|IRN}} || 14 || 4 || 3 || 7 || 11 || 18 || −7
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|IRQ}} || 54 || 12 || 14 || 28 || 53 || 83 || −30
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|CIV}} || 1 || 0 || 0 || 1 || 0 || 2 || −2
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|JAM}} || 1 || 1 || 0 || 0 || 2 || 1 || +1
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|JPN}} || 6 || 1 || 3 || 2 || 5 || 12 || −7
+|- bgcolor=FFFACD
+| style="text-align:left;"| {{fb|KAZ}} || 2 || 1 || 0 || 1 || 2 || 1 || +1
+|- bgcolor=FFFACD
+| style="text-align:left;"| {{fb|KEN}} || 1 || 0 || 1 || 0 || 1 || 1 || 0
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|KOS}} || 1 || 1 || 0 || 0 || 2 || 0 || +2
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|KUW}} || 31 || 8 || 13 || 10 || 36 || 41 || −5
+|- bgcolor=FFFACD
+| style="text-align:left;"| {{fb|KGZ}} || 5 || 2 || 1 || 2 || 4 || 3 || +1
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|LAO}} || 2 || 2 || 0 || 0 || 8 || 2 || +6
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|LIB}} || 32 || 10 || 13 || 9 || 31 || 33 || −2
+|- bgcolor=FFFACD
+| style="text-align:left;"| {{fb|LBY}} || 10 || 3 || 4 || 3 || 10 || 12 || −2
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|LIT}} || 1 || 1 || 0 || 0 || 3 || 0 || +3
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|MAS}} || 6 || 4 || 2 || 0 || 10 || 0 || +10
+|- bgcolor=FFFACD
+| style="text-align:left;"| {{fb|MLI}} || 1 || 0 || 1 || 0 || 0 || 0 || 0
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|MLT}} || 3 || 1 || 0 || 2 || 4 || 5 || −1
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|MTN}} || 1 || 1 || 0 || 0 || 2 || 1 || +1
+|- bgcolor=FFFACD
+| style="text-align:left;"| {{fb|MEX}} || 1 || 0 || 1 || 0 || 0 || 0 || 0
+|- bgcolor=FFFACD
+| style="text-align:left;"| {{fb|MDA}} || 2 || 1 || 0 || 1 || 1 || 2 || −1
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|MAR}} || 6 || 0 || 2 || 4 || 5 || 15 || −10
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|NEP}} || 5 || 4 || 1 || 0 || 18 || 1 || +17
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|NZL}} || 3 || 2 || 0 || 1 || 5 || 4 || +1
+|- bgcolor=FFFACD
+| style="text-align:left;"| {{fb|NGA}} || 3 || 1 || 1 || 1 || 3 || 4 || −1
+|- bgcolor=FFFACD
+| style="text-align:left;"| {{fb|PRK}} || 7 || 3 || 1 || 3 || 8 || 6 || +2
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|NOR}} || 2 || 0 || 1 || 1 || 0 || 6 || –6
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|OMN}} || 28 || 15 || 8 || 4 || 42 || 15 || +27
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|PAK}} || 9 || 9 || 0 || 0 || 34 || 1 || +33
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|PLE}} || 17 || 10 || 6 || 1 || 44 || 14 || +30
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|PAR}} || 1 || 0 || 0 || 1 || 2 || 4 || −2
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|PHI}} || 1 || 1 || 0 || 0 || 4 || 0 || +4
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|QTR}} || 24 || 7 || 4 || 13 || 23 || 36 || −13
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|ROU}} || 1 || 1 || 0 || 0 || 1 || 0 || +1
+|- bgcolor=FFFACD 
+| style="text-align:left;"| {{fb|RUS}} || 1 || 0 || 1 || 0 || 0 || 0 || 0
+|- bgcolor=CCFFCC 
+| style="text-align:left;"| {{fb|KSA}} || 20 || 9 || 3 || 8 || 20 || 22 || –2
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|SER}} || 1 || 0 || 0|| 1 || 2 || 3 || −1
+|- bgcolor=FFFACD
+| style="text-align:left;"| {{fb|SLE}} || 2 || 1 || 0 || 1 || 5 || 2 || +3
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|SIN}} || 9 || 7 || 1 || 1 || 20 || 6 || +14
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|SVK}} || 1 || 0 || 0|| 1 || 1 || 5 || −4
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|KOR}} || 9 || 1 || 4 || 4 || 7 || 10 || −3
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|SSD}} || 2 || 2 || 0 || 0 || 5 || 1 || +4
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|South Yemen}} || 1 || 1 || 0 || 0 || 3 || 2 || +1
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|ESP}} || 1 || 0 || 0 || 1 || 1 || 3 || –2
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|Sri Lanka}} || 1 || 1 || 0 || 0 || 2 || 1 || +1
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|SDN}} || 3 || 2 || 1 || 0 || 5 || 1 || +4
+|- bgcolor=FFFACD
+| style="text-align:left;"| {{fb|SWE}} || 1 || 0 || 1 || 0 || 0 || 0 || 0
+|- bgcolor=
+| style="text-align:left;"| {{fb|SUI}} || 1 || 0 || 0 || 1 || 1 || 4 || –3
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|SYR}} || 43 || 15 || 14 || 14 || 44 || 47 || −3
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|TPE}} || 4 || 4 || 0 || 0 || 15 || 1 || +14
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|TJK}} || 7 || 5 || 1 || 1 || 13 || 3 || +10
+|- bgcolor=FFFACD
+| style="text-align:left;"| {{fb|THA}} || 7 || 1 || 5 || 1 || 3 || 4 || −1
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|TRI}} || 1 || 1 || 0 || 0 || 3 || 0 || +3
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|TUN}} || 3 || 0 || 1 || 3 || 5 || 15 || −10
+|- bgcolor=FFFACD
+| style="text-align:left;"| {{fb|TKM}} || 4 || 2 || 0 || 2 || 5 || 4 || +1
+|- bgcolor=FFFACD
+| style="text-align:left;"| {{fb|UKR}} || 1 || 0 || 1 || 0 || 0 || 0 || 0
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|UAE}} || 19 || 4 || 4 || 11 || 18 || 31 || –13
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|URU}} || 2 || 0 || 1 || 1 || 0 || 5 || −5
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|UZB}} || 14 || 2 || 5 || 7 || 15 || 21 || −6
+|- bgcolor=FFFACD
+| style="text-align:left;"| {{fb|VIE}} || 4 || 0 || 4 || 0 || 3 || 3 || 0
+|- bgcolor=FFFACD
+| style="text-align:left;"| {{fb|YEM}} || 3 || 1 || 2 || 0 || 6 || 2 || +4
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|ZAM}} || 1 || 1 || 0 || 0 || 1 || 0 || +1
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|ZIM}} || 1 || 1 || 0 || 0 || 2 || 0 || +2
+|-
+!Total || 559 || 210 || 152 || 196 || 724 || 641 || +83
+|}
+
+==Honours==
+<!-- DO NOT ADD UNOFFICIAL OR FRIENDLY COMPETITIONS IN THE SUMMARY TABLE FOR OFFICIAL HONOURS ONLY -->
+=== Continental ===
+* '''[[AFC Asian Cup]]'''
+** {{Silver2}} Runners-up (1): [[2023 AFC Asian Cup|2023]]
+
+=== Subregional ===
+* '''[[FIFA Arab Cup]]'''{{sup|1}}
+** {{Silver2}} Runners-up (1): [[2025 FIFA Arab Cup|2025]]
+* '''[[WAFF Championship]]'''
+** {{Silver2}} Runners-up (3): [[2002 WAFF Championship|2002]], [[2008 WAFF Championship|2008]], [[2013 WAFF Championship|2013]]
+** {{Bronze3}} Third place (2): [[2004 WAFF Championship|2004]], [[2007 WAFF Championship|2007]]
+* '''[[Football at the Arab Games|Arab Games]]'''
+** {{Gold1}} '''Gold medal (2)''': [[Football at the 1997 Arab Games|1997]], [[Football at the 1999 Arab Games|1999]]
+** {{Silver2}} Silver medal (1): [[Football at the 2011 Arab Games|2011]]
+
+===Summary===
+Only official honours are included, according to FIFA statutes (competitions organized/recognized by [[FIFA]] or an affiliated confederation).
+{| class="wikitable" width=30% style="font-size:90%; text-align:center;"
+|-
+!Competition!!{{Gold1}}!!{{Silver2}}!!{{Bronze3}}!!Total
+|-
+|align=left|[[AFC Asian Cup]]
+|0||1||0||1
+|-
+|align=left|[[FIFA Arab Cup]]
+|0||1||0||1
+|-
+!Total!!0!!2!!0!!2
+|}
+
+;Notes
+# Official subregional competition organized and recognized by [[FIFA]] since [[2021 FIFA Arab Cup|2021]]. Previous editions were organized by [[Union of Arab Football Associations|UAFA]].
+
+== See also ==
+* [[Jordan national under-23 football team]]
+* [[Jordan national under-20 football team]]
+* [[Jordan national under-17 football team]]
+* [[Jordan women's national football team]]
+
+== Notes ==
+{{notelist}}
+
+== References ==
+{{Reflist}}
+
+== External links ==
+{{Commons category|Jordan national association football team}}
+* [https://www.jfa.com.jo/montkbat.php?id=1&idcat=5&idsubcat=18&title=%D9%85%D9%86%D8%AA%D8%AE%D8%A8-%D8%A7%D9%84%D9%86%D8%B4%D8%A7%D9%85%D9%89 Jordan Football Federation official website]
+* [https://www.the-afc.com/en/west/jordan.html Jordan] at [[Asian Football Confederation|AFC]]
+* [https://www.fifa.com/about-fifa/associations/JOR Jordan] at [[FIFA]]
+* [http://www.kooora.com/?team=307 Jordan national football team] on kooora.com
+* [https://int.soccerway.com/teams/jordan/jordan/ Jordan national football team] on soccerway.com
+* [http://www.futbol24.com/team/AFC/Jordan/ Jordan national football team] on futbol24.com
+* [https://score24tv.com/team/jordan/168112/ Jordan national football team] on score24tv.com
+
+{{Jordan national football team managers}}
+{{Jordan national football team}}
+{{Football in Jordan}}
+{{2026 FIFA World Cup finalists}}
+{{UAFA Football}}
+{{AFC teams}}
+{{National sports teams of Jordan}}
+
+{{DEFAULTSORT:Jordan National Football Team}}
+[[Category:Jordan national football team| ]]
+[[Category:Jordan men's national football teams| ]]
+[[Category:Asian national association football teams]]
+[[Category:National sports teams established in 1953]]

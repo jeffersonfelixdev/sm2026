@@ -1,0 +1,2168 @@
+{{Short description|Men's association football team}}
+{{About|the men's senior team|the women's senior team|Iran women's national football team}}
+{{Use dmy dates|date=June 2026}}
+{{Infobox national football team
+| Name                  = IR Iran
+| Nickname              = {{ubl|''Team Melli''<br />(National Team)|''Yuzhaye Irani''<br />(Persian Cheetahs)|''[[#Nicknames|other nicknames]]''}}
+| Badge                 = Football Federation Islamic Republic of Iran logo.svg
+| Badge_size            = 135px
+| Association           = [[Football Federation Islamic Republic of Iran]] (FFIRI)
+| Confederation         = [[Asian Football Confederation|AFC]] (Asia)
+| Sub-confederation     = [[Central Asian Football Association|CAFA]] (Central Asia)
+| FIFA Trigramme        = IRN
+| FIFA Rank             = {{FIFA World Rankings|IRN}}
+| FIFA max              = 15
+| FIFA max date         = August 2005<ref>{{#invoke:cite|web|url=https://www.fifa.com/fifa-world-ranking/ranking-table/men/rank=135/index.html|archive-url=https://web.archive.org/web/20150711230353/http://www.fifa.com/fifa-world-ranking/ranking-table/men/rank=135/index.html|url-status=dead|archive-date=11 July 2015|title=The FIFA/Coca-Cola World Ranking – Ranking Table |website=FIFA.com}}</ref>
+| FIFA min              = 122
+| FIFA min date         = May 1996<ref>{{#invoke:cite|web|url=https://www.fifa.com/fifa-world-ranking/ranking-table/men/rank=30/index.html|archive-url=https://web.archive.org/web/20160622181606/http://www.fifa.com/fifa-world-ranking/ranking-table/men/rank=30/index.html|url-status=dead|archive-date=22 June 2016|title=The FIFA/Coca-Cola World Ranking – Ranking Table|website=FIFA.com}}</ref>
+| Elo Rank              = {{World Football Elo Ratings|Iran}}
+| Elo max               = 16
+| Elo max date          = 11 April 2005, 24 January 2019
+| Elo min               = 77
+| Elo min date          = 11 November 1945
+| Coach                 = [[Amir Ghalenoei]]
+| Captain               = [[Ehsan Hajsafi]]
+| Most caps             = [[Javad Nekounam]] (149){{efn|name=Nekounam|group=players|Nekounam has two additional caps awarded by the Iranian FA. Those matches are not considered full internationals by FIFA, which only counts 149 appearances.<ref name="RSSSFNEKU">[https://www.rsssf.org/miscellaneous/nekounam-intl.html Javad Nekounam – Century of International Appearances]; at [[RSSSF]]</ref>}}
+| Top scorer            =[[Ali Daei]] ([[List of international goals scored by Ali Daei|108]]){{efn|name=Daei|group=players|Daei has an additional cap and goal awarded by the Iranian FA but in a match that is not considered a full international by FIFA, which only counts 108 goals and 148 appearances.<ref name="RSSSFdaei">[https://www.rsssf.org/miscellaneous/daei-intlg.html Ali Daei – Century of International Appearances]; at [[RSSSF]]</ref>}}
+| Home Stadium          = [[Azadi Stadium]]
+| pattern_la1           = _irn26h
+| pattern_b1            = _irn26h
+| pattern_ra1           = _irn26h
+| pattern_sh1           =
+| pattern_so1           =
+| leftarm1              = EC0000
+| body1                 = FFFFFF
+| rightarm1             = FFFFFF
+| shorts1               = FFFFFF
+| socks1                = FFFFFF
+| pattern_la2           = _irn26a
+| pattern_b2            = _irn26a
+| pattern_ra2           = _irn26a
+| pattern_sh2           =
+| pattern_so2           =
+| leftarm2              = EC0000
+| body2                 = EC0000
+| rightarm2             = EC0000
+| shorts2               = FF0000
+| socks2                = FF0000
+| First game            = {{fb|AFG|1930}} 0–0 {{fb-rt|IRN|1925}}<br />([[Kabul]], [[Kingdom of Afghanistan|Afghanistan]]; 25 August 1941)
+| Largest win           = {{fb|IRN}} [[2002 FIFA World Cup qualification – AFC first round#Group 2|19–0]] {{fb-rt|GUM}}<br />([[Tabriz]], [[Iran]]; 24 November 2000)<ref>{{#invoke:cite|web| url=https://www.fifa.com/mm/document/fifafacts/stats-matches/52/00/64/170429-factsheet-fifacompetitionsbiggestmarginvictories.pdf | archive-url=https://web.archive.org/web/20130521083035/http://www.fifa.com/mm/document/fifafacts/stats-matches/52/00/64/170429-factsheet-fifacompetitionsbiggestmarginvictories.pdf | url-status=dead | archive-date=21 May 2013 |title=Biggest margin victories/losses (Fifa fact-Sheet) |publisher=FIFA.com| access-date=27 November 2013}}</ref>
+| Largest loss          = {{fb|TUR}} 6–1 {{fb-rt|IRN|1925}}<br />([[Istanbul]], [[Turkey]]; 28 May 1950)<ref name="Iran: Fixtures and Results" /><br />{{fb|KOR|1949}} 5–0 {{fb-rt|IRN|1925}}<br />([[Tokyo]], Japan; 28 May 1958)<ref>{{#invoke:cite|web|url=https://www.rsssf.org/tablesa/asgames58.html|title=Asian Games 1958 (Tokyo, Japan)|publisher=rsssf|access-date=17 December 2010|archive-date=25 December 2018|archive-url=https://web.archive.org/web/20181225010545/http://www.rsssf.com/tablesa/asgames58.html|url-status=live}}</ref>
+| World cup apps        = 7
+| World cup first       = 1978
+| World cup best        = Group stage ([[1978 FIFA World Cup|1978]], [[1998 FIFA World Cup|1998]], [[2006 FIFA World Cup|2006]], [[2014 FIFA World Cup|2014]], [[2018 FIFA World Cup|2018]], [[2022 FIFA World Cup|2022]], [[2026 FIFA World Cup|2026]])
+| Regional name         = [[AFC Asian Cup|Asian Cup]]
+| Regional cup apps     = 16
+| Regional cup first    = [[1972 AFC Asian Cup|1968]]
+| Regional cup best     = '''Champions''' ([[1968 AFC Asian Cup|1968]], [[1972 AFC Asian Cup|1972]], [[1976 AFC Asian Cup|1976]])
+| 2ndRegional name      = [[Summer Olympics|Olympic Games]]
+| 2ndRegional cup apps  = 4
+| 2ndRegional cup first = [[Football at the 1964 Summer Olympics|1964]]
+| 2ndRegional cup best  = Quarter-finals ([[Football at the 1976 Summer Olympics|1976]])
+| 3rdRegional name      = [[Afro-Asian Cup of Nations]]
+| 3rdRegional cup apps  = 2
+| 3rdRegional cup first = [[1978 Afro-Asian Cup of Nations|1978]]
+| 3rdRegional cup best  = Runners-up ([[1991 Afro-Asian Cup of Nations|1991]])
+| 4thRegional name      = [[AFC–OFC Challenge Cup]]
+| 4thRegional cup apps  = 1
+| 4thRegional cup first = [[2003 AFC–OFC Challenge Cup|2003]]
+| 4thRegional cup best  = '''Champions''' ([[2003 AFC–OFC Challenge Cup|2003]])
+| medaltemplates =
+{{MedalSport|Men's [[Association football|football]]}}
+{{Medal|Competition|[[AFC Asian Cup]]}}
+{{MedalGold|[[1968 AFC Asian Cup|1968 Iran]]|[[1968 AFC Asian Cup squads#Iran|Team]]}}
+{{MedalGold|[[1972 AFC Asian Cup|1972 Thailand]]|[[1972 AFC Asian Cup squads#Iran|Team]]}}
+{{MedalGold|[[1976 AFC Asian Cup|1976 Iran]]|[[1976 AFC Asian Cup squads#Iran|Team]]}}
+{{MedalBronze|[[1980 AFC Asian Cup|1980 Kuwait]]|[[1980 AFC Asian Cup squads#Iran|Team]]}}
+{{MedalBronze |[[1988 AFC Asian Cup|1988 Qatar]]|[[1988 AFC Asian Cup squads#Iran|Team]]}}
+{{MedalBronze |[[1996 AFC Asian Cup|1996 UAE]]|[[1996 AFC Asian Cup squads#Iran|Team]]}}
+{{MedalBronze |[[2004 AFC Asian Cup|2004 China]]|[[2004 AFC Asian Cup squads#Iran|Team]]}}
+{{MedalBronze |[[2019 AFC Asian Cup|2019 UAE]]|[[2019 AFC Asian Cup squads#Iran|Team]]}}
+{{MedalBronze |[[2023 AFC Asian Cup|2023 Qatar]]|[[2023 AFC Asian Cup squads#Iran|Team]]}}
+{{Medal|Competition|[[Football at the Asian Games|Asian Games]]}}
+{{MedalGold |[[Football at the 1974 Asian Games|1974 Tehran]]|[[Football at the 1974 Asian Games – Men's team squads#Iran|Team]]}}
+{{MedalGold |[[Football at the 1990 Asian Games|1990 Beijing]]|[[Football at the 1990 Asian Games – Men's team squads#Iran|Team]]}}
+{{MedalGold |[[Football at the 1998 Asian Games|1998 Bangkok]]|[[Football at the 1998 Asian Games – Men's team squads#Iran|Team]]}}
+{{MedalSilver |[[Football at the 1951 Asian Games|1951 New Delhi]]|[[Football at the 1951 Asian Games – Men's team squads#Iran|Team]]}}
+{{MedalSilver |[[Football at the 1966 Asian Games|1966 Bangkok]]|[[Football at the 1966 Asian Games – Men's team squads#Iran|Team]]}}
+{{Medal|Competition|[[WAFF Championship]]}}
+{{MedalGold|[[2000 WAFF Championship|2000 Jordan]]|Team}}
+{{MedalGold|[[2004 WAFF Championship|2004 Iran]]|Team}}
+{{MedalGold|[[2007 WAFF Championship|2007 Jordan]]|Team}}
+{{MedalGold|[[2008 WAFF Championship|2008 Iran]]|Team}}
+{{MedalSilver|[[2010 WAFF Championship|2010 Jordan]]|Team}}
+{{MedalBronze|[[2002 WAFF Championship|2002 Syria]]|Team}}
+{{Medal|Competition|[[CAFA Nations Cup]]}}
+{{MedalGold|[[2023 CAFA Nations Cup|2023 Kyrgyzstan and Uzbekistan]]|[[2023 CAFA Nations Cup squads#Iran|Team]]}}
+{{MedalSilver|[[2025 CAFA Nations Cup|2025 Tajikistan and Uzbekistan]]|[[2025 CAFA Nations Cup squads#Iran|Team]]}}
+{{Medal|Competition|[[Afro-Asian Cup of Nations]]}}
+{{MedalSilver|[[1991 Afro-Asian Cup of Nations|1991 Iran and Algeria]]|Team}}
+{{Medal|Competition|[[AFC–OFC Challenge Cup]]}}
+{{MedalGold|[[2003 AFC–OFC Challenge Cup|2003 Iran]]|Team}}
+}}
+
+The '''Iran national football team'''{{efn|{{langx|fa|تیم ملی فوتبال مردان ایران|Team-e Melli-ye Futbâl-e Mardân-e Irân}}). The team is officially recognised as '''IR Iran''' by [[FIFA]] since 2018<ref>{{#invoke:cite|web|url=https://www.fifa.com/associations/association/irn/|archive-url=https://web.archive.org/web/20190504124701/https://www.fifa.com/associations/association/IRN/|url-status=dead|archive-date=4 May 2019|title=Member Association – IR Iran|website=FIFA|access-date=22 June 2021}}</ref>}} have represented [[Iran]] in men's international [[Association football|football]] since their first international match in 1941. It is administered by the [[Football Federation Islamic Republic of Iran]] (FFIRI), the governing body of [[Football in Iran|football in]] [[Football in Iran|Iran]], which is affiliated with [[Asian Football Confederation|AFC]] and comes under the global jurisdiction of [[FIFA]].
+
+At the continental level, Iran has won three [[AFC Asian Cup]] championships in [[1968 AFC Asian Cup|1968]], [[1972 AFC Asian Cup|1972]], and [[1976 AFC Asian Cup|1976]]. They have also won three [[Football at the Asian Games|Asian Games]] in [[Football at the 1974 Asian Games|1974]], [[Football at the 1990 Asian Games|1990]], and [[Football at the 1998 Asian Games|1998]]. The nation's best performance at the world level was reaching the quarter-finals at the [[Football at the 1976 Summer Olympics|1976 Summer Olympics]]. At the [[FIFA World Cup]], Iran have qualified seven times ([[1978 FIFA World Cup|1978]], [[1998 FIFA World Cup|1998]], [[2006 FIFA World Cup|2006]], [[2014 FIFA World Cup|2014]], [[2018 FIFA World Cup|2018]], [[2022 FIFA World Cup|2022]] and [[2026 FIFA World Cup|2026]]) but have never progressed beyond the group stages; they have however, won three matches: against the [[United States men's national soccer team|United States]] in 1998, [[Morocco national football team|Morocco]] in 2018, and [[Wales national football team|Wales]] in 2022. At the regional level, Iran has won four [[WAFF Championship]]s and one [[CAFA Nations Cup]]. The team also won intercontinental [[AFC–OFC Challenge Cup]] in 2003.
+The Iranian National team managed to go undefeated in the World Cup 2026 edition, drawing three games out of three, despite being eliminated.
+
+==History==
+{{See also|Football in Iran|History of the Iran national football team}}
+===Early years===
+{{expand section|date=October 2022}}
+{{Expand Persian|date=February 2024}}
+[[File:Iran1304.jpg|thumb|left|The very first Iran football team that traveled to [[Baku]], [[USSR]] in 1926]]
+The [[Iranian Football Federation]] was founded in 1920.<ref>{{#invoke:cite|web|url=https://www.fifa.com/associations/association=irn/|archive-url=https://web.archive.org/web/20070603155130/http://www.fifa.com/associations/association=irn/|url-status=dead|archive-date=3 June 2007|title=Member Association – Iran}}</ref><ref>{{Cite web |title=Football Federation Islamic Federation of Iran |url=https://the-ffiri.com/en}}</ref> In 1926, [[Tehran XI]] (selected players from [[Tehran Club]], [[:fa:باشگاه فوتبال توفان تهران|Toofan]], and [[Armenian Sports Club]]) traveled across the border to [[Baku]], Soviet Union; this was the first away football match for an Iranian team. This Tehran Select team is the predecessor of Iran's national football team.
+
+The first match that ''Team Melli'' played was on 23 August 1941, away at [[Kabul]] in a 1–0 win against [[India men's national football team|British India]] while Iran's first [[FIFA]] international match was on 25 August 1941, away at [[Afghanistan national football team|Afghanistan]].<ref name="Iran: Fixtures and Results">{{#invoke:cite|web|url=https://www.fifa.com/associations/association=irn/fixturesresults/gender=m/index.html|archive-url=https://web.archive.org/web/20070603173212/http://www.fifa.com/associations/association=irn/fixturesresults/gender=m/index.html|url-status=dead|archive-date=3 June 2007|title=Iran: Fixtures and Results|publisher=FIFA.com }}</ref> 
+
+Iran won three [[AFC Asian Cup]]s in [[1968 AFC Asian Cup|1968]], [[1972 AFC Asian Cup|1972]], and [[1976 AFC Asian Cup|1976]], the latter being their most recent Asian Cup win. In [[1978 FIFA World Cup|1978]], Iran made its first appearance in the [[FIFA World Cup]] after defeating [[Australia men's national soccer team|Australia]] in [[Tehran]]. They lost two of three group stage matches against the [[Netherlands national football team|Netherlands]] and [[Peru national football team|Peru]],<ref>{{#invoke:cite|web|url=http://www.teammelli.com/articles/iran_in_world_cup_1978.htm|title=Iran in World Cup 1978|work=teammelli.com|access-date=21 January 2008|archive-url=https://web.archive.org/web/20100104101448/http://www.teammelli.com/articles/iran_in_world_cup_1978.htm|archive-date=4 January 2010|url-status=dead}}</ref> and only earned one point by drawing<ref>{{#invoke:cite|news| url=http://news.bbc.co.uk/sport1/low/football/world_cup_2002/1632238.stm | work=BBC News | title=Iranian football facts | date=1 November 2001 | access-date=5 May 2010 | archive-date=19 November 2021 | archive-url=https://web.archive.org/web/20211119142638/http://news.bbc.co.uk/sport2/hi/football/world_cup_2002/1632238.stm | url-status=live }}</ref> [[Scotland national football team|Scotland]], in a match that saw [[Iraj Danaeifard]] cancel out an own goal scored by [[Andranik Eskandarian]] for a score of 1–1.<ref name="autogenerated2">{{#invoke:cite|web|url=http://www.the-world-cup-2006.com/teams-iran.htm|title=while FIFA World Cup 2006 Iran Team Overview<!-- Bot generated title -->|url-status=dead|archive-url=https://web.archive.org/web/20080719151054/http://www.the-world-cup-2006.com/teams-iran.htm|archive-date=19 July 2008}}</ref>
+
+[[File:Iran Football 78WC.jpg|thumb|left|Iran playing in the 1978 World Cup against [[Scotland national football team|Scotland]] in [[Córdoba, Argentina|Córdoba]], Argentina]]
+
+===After the Iranian Revolution===
+After the [[Iranian Revolution]], football was somewhat neglected. During the [[Iran national football team results – 1980s|1980s]], the Iranian national team did not feature in World Cup competitions due to the [[Iran–Iraq War]] (1980–88) and domestic football embraced the inevitable effects of conflict. The national team withdrew from the Asian qualifiers for the [[1982 FIFA World Cup]] and refused to participate in the qualifiers for the [[1986 FIFA World Cup]] because of having to play on neutral ground. The war and political upheavals left Iran without major club competitions until 1989 when the [[1989–90 Qods League|Qods League]] was established. A year later, the Qods League was renamed the [[Azadegan League]]. Despite failing to qualify for both the [[1990 FIFA World Cup|1990]] and [[1994 FIFA World Cup|1994]] World Cups, it was said that during this period, a number of quality players burst onto the Iranian football scene laying the foundation for third place in the [[1996 AFC Asian Cup]] (victories in that tournament included a 3–0 victory against [[Saudi Arabia national football team|Saudi Arabia]] and a 6–2 victory against [[South Korea national football team|South Korea]]) and their second stab at World Cup glory in [[1998 FIFA World Cup|1998]].<ref name="autogenerated1">{{#invoke:cite|web|url=http://www.iranvisitor.com/index.php?cID=416&pID=1176|title=The History of Soccer in Iran|work=iranvisitor.com|access-date=21 January 2008|archive-date=31 December 2010|archive-url=https://web.archive.org/web/20101231095740/http://www.iranvisitor.com/index.php?cID=416&pID=1176|url-status=live}}</ref>
+
+===1998–2006===
+{{Further|1998 FIFA World Cup qualification (AFC–OFC play-off)|1998 FIFA World Cup}}
+On 29 November 1997, Iran qualified for the [[1998 FIFA World Cup]] after eliminating [[Australia men's national soccer team|Australia]] in a close playoff series. After being tied 3–3 on aggregate, Iran advanced due to the [[away goals rule]]; Iran held Australia to a 1–1 draw at home, and a 2–2 draw in [[Melbourne]].<ref>{{#invoke:cite|web|url=http://mondediplo.com/1998/04/04iran|title=A third half for Iranian football|work=mondediplo.com|date=April 1998 |access-date=21 January 2008|archive-date=15 December 2007|archive-url=https://web.archive.org/web/20071215113041/http://mondediplo.com/1998/04/04iran|url-status=live}}</ref>
+
+At their first game at the [[1998 FIFA World Cup]] against Yugoslavia, Iran lost 1–0 to a free kick by [[Siniša Mihajlović]].<ref name="autogenerated1" /> Iran recorded their first World Cup victory in the second game<ref name="autogenerated2" /> beating and eliminating the [[United States men's national soccer team|United States]] 2–1 with [[Hamid Estili]] and [[Mehdi Mahdavikia]] scoring goals for Iran. The [[United States v Iran (1998 FIFA World Cup)|Iran-US World Cup match]] was preheated with certain excitement because of each country's political stance after the [[Iranian revolution]] and the [[Iran hostage crisis]]. However, in an act of defiance against all forms of hatred or politics in sports, both sides presented one another with gifts and flowers and took ceremonial pictures before the match kickoff.<ref>{{#invoke:cite|web|url=http://1800-worldcup.com/world_cup_finals/france1998/matches/jun21.htm|title=France 1998 World Cup: 1st Round – Day 12 Match Reports|work=1800-worldcup.com|access-date=22 January 2008|archive-date=3 March 2016|archive-url=https://web.archive.org/web/20160303224104/http://1800-worldcup.com/world_cup_finals/france1998/matches/jun21.htm|url-status=live}}</ref> Iran played against [[Germany national football team|Germany]] in the third game, losing 2–0 courtesy of goals from [[Oliver Bierhoff]] and [[Jürgen Klinsmann]], finishing third in the group with 3 points.<ref>{{#invoke:cite|web|url=https://www.fifa.com/worldcup/archive/edition=1013/results/matches/match=8767/report.html|archive-url=https://web.archive.org/web/20070930225110/http://www.fifa.com/worldcup/archive/edition=1013/results/matches/match=8767/report.html|url-status=dead|archive-date=30 September 2007|title=FIFA.com – 1998 FIFA World Cup France <!-- Bot generated title -->}}</ref>
+
+Iran finished first in the group stage of the [[2000 AFC Asian Cup]] but lost to [[South Korea national football team|South Korea]] in the quarter-finals. They failed to qualify for [[2002 FIFA World Cup]], held in Asia for the first time, after an aggregate defeat to the [[Republic of Ireland national football team|Republic of Ireland]], losing 2–0 in [[Dublin]] and winning 1–0 in [[Tehran]]. The elimination saw manager [[Miroslav Blažević]] step down from the top spot to be replaced by his assistant [[Branko Ivanković]] who stepped up from assistant coach.
+
+After qualifying to the [[2004 AFC Asian Cup]], Iran was drawn with [[Thailand national football team|Thailand]], [[Oman national football team|Oman]] and [[Japan national football team|Japan]] in the tournament. Iran finished second in the group. In the quarter-final clash against [[South Korea national football team|South Korea]], Iran won 4–3. They then lost to host [[China national football team|China]] on penalty kicks, and won against [[Bahrain national football team|Bahrain]] 4–2 to finish third place in the tournament.
+
+[[File:Iran equaliser.JPG|thumb|left|Iran scores against [[Angola national football team|Angola]] at the [[2006 FIFA World Cup]].]]
+
+On 8 June 2005, Iran and [[Japan national football team|Japan]] became the first countries other than hosts [[Germany national football team|Germany]] to qualify for the [[2006 FIFA World Cup]]. The match between the two countries in Tehran, played on 24 March 2005, was the highest attended qualifying match among all confederations. The match ended with five fans dead and several others injured as they left the [[Azadi Stadium]] at the end of the match.<ref>{{#invoke:cite|news|url=http://news.bbc.co.uk/1/hi/world/middle_east/4383939.stm|title=Five die after Iran football game|publisher=BBC|access-date=7 June 2013|date=26 March 2005|archive-date=19 November 2021|archive-url=https://web.archive.org/web/20211119142637/http://news.bbc.co.uk/2/hi/middle_east/4383939.stm|url-status=live}}</ref>
+
+Iran started their 2006 FIFA World Cup appearance in Germany with a match against North America's [[Mexico national football team|Mexico]] in [[2006 FIFA World Cup Group D|Group D]]. Being 1–1 at half-time, defensive mistakes led to a Mexican 3–1 win, with goals from [[Omar Bravo]] and [[Sinha (footballer)|Sinha]]. [[Yahya Golmohammadi]] scored the only Iranian goal. Team Melli played against [[Portugal national football team|Portugal]] in the second game, losing 2–0. The goals were scored by [[Deco]] and a penalty from [[Cristiano Ronaldo]]. Iran were eliminated from the competition before their third and final game against [[Angola national football team|Angola]], a 1–1 draw.
+
+===Temporary suspension===
+In November 2006, Iran was suspended by [[FIFA]] from all participation in international football on the grounds of governmental interference in the national football association.<ref>{{#invoke:cite|web|url=https://www.fifa.com/en/media/index/0,1369,126229,00.html |title=FIFA suspends Iran Football Federation |publisher=[[FIFA]] |access-date=27 November 2006 |archive-url=https://web.archive.org/web/20070102093639/http://www.fifa.com/en/media/index/0%2C1369%2C126229%2C00.html |archive-date=2 January 2007 |url-status=dead }}</ref> The ban lasted less than a month<ref>{{#invoke:cite|web|url=http://the-afc.com/english/media/default.asp?mnsection=media&section=newsDetails&newsID=7658 |title=FIFA to lift Iran ban: Blatter |publisher=the-AFC.com |access-date=17 December 2006 |url-status=dead |archive-url=https://web.archive.org/web/20070623134749/http://www.the-afc.com/english/media/default.asp?mnsection=media |archive-date=23 June 2007 }}</ref> and as a dispensation was given to allow the [[Iran national under-23 football team|Iran under-23 team]] to participate in the [[football at the 2006 Asian Games|football competition]] of the [[2006 Asian Games]],<ref>{{#invoke:cite|web|url=http://the-afc.com/english/media/default.asp?mnsection=media&section=newsDetails&newsID=7543 |title=FIFA President announces temporary lifting of Iran ban |publisher=the-AFC.com |access-date=27 November 2006 |url-status=dead |archive-url=https://web.archive.org/web/20070623134749/http://www.the-afc.com/english/media/default.asp?mnsection=media |archive-date=23 June 2007 }}</ref> fixtures were unaffected.
+
+===2007–2014===
+{{Main|2007 AFC Asian Cup}}
+
+The [[IRIFF]] appointed [[Amir Ghalenoei]] as manager of Iran on 17 July 2006 to succeed [[Branko Ivanković]]. After finishing first in the [[2007 AFC Asian Cup]] qualifying round two points ahead of [[South Korea national football team|South Korea]], Iran placed first in the group stage of the final tournament in Malaysia, eventually losing to their qualifying opponents in a penalty shoot-out in the quarterfinals. His contract was not renewed and Team Melli was left with a caretaker manager for several months.
+
+Then-leading international goalscorer [[Ali Daei]] was chosen to become the new manager after Spanish coach [[Javier Clemente]] had been closer to signing on as Iran's national team manager, when talks collapsed when he refused to live full-time in the country.<ref>{{#invoke:cite|web|url=https://int.soccerway.com/news/2008/March/02/ali-daei-named-new-iran-coach|title=Ali Daei named new Iran coach|work=soccerway.com}}</ref> Iran was placed with [[Kuwait national football team|Kuwait]], [[Syria national football team|Syria]] and [[United Arab Emirates national football team|United Arab Emirates]] in the third round of [[2010 FIFA World Cup qualification (AFC)|2010 FIFA World Cup qualifying]]. Ali Daei resigned from his position as the Iranian national coach on 29 March 2009,<ref>{{#invoke:cite|news| url=https://www.theguardian.com/football/2009/mar/30/iran-football-ali-daei | work=The Guardian | location=London | title=Iran football coach Ali Daei loses job following team's defeat | first=Robert | last=Tait | date=30 March 2009 | access-date=5 May 2010 | archive-date=6 September 2013 | archive-url=https://web.archive.org/web/20130906062749/http://www.theguardian.com/football/2009/mar/30/iran-football-ali-daei | url-status=live }}</ref> replaced by [[Afshin Ghotbi]]. Iran failed to qualify for the 2010 World Cup after finishing fourth overall in its group.<ref>{{#invoke:cite|web|url=https://www.fifa.com/worldcup/preliminaries/asia/standings/index.html |archive-url=https://web.archive.org/web/20071113083920/http://www.fifa.com/worldcup/preliminaries/asia/standings/index.html |url-status=dead |archive-date=13 November 2007 |title=FIFA.com |publisher=FIFA.com |access-date=7 September 2010}}</ref>
+
+During the final game of the [[2010 FIFA World Cup qualification – AFC fourth round|2010 FIFA World Cup qualifiers]] against [[South Korea national football team|South Korea]] in [[Seoul]] on 17 June 2009, seven members of the team wore green wristbands in support of the [[Iranian Green Movement]] during the [[2009 Iranian election protests]]. Initial rumors and false reports were that all seven players were banned for life by the [[Football Federation Islamic Republic of Iran|Iranian Football Federation]], however, state-run media claimed that all seven had "retired".<ref>{{#invoke:cite|news|url=http://www.nydailynews.com/sports/2009/06/24/2009-06-24_iran_soccer_players_banned.html |title=Iran soccer players banned from national team after wearing green pro-opposition wristbands |first=Andy |last=Clayton |date=24 June 2009 |work=NY Daily News |access-date=8 July 2010 |location=New York |archive-date=31 August 2009 |archive-url=https://web.archive.org/web/20090831040659/http://www.nydailynews.com/sports/2009/06/24/2009-06-24_iran_soccer_players_banned.html |url-status=live }}</ref><ref name="theguardian">{{#invoke:cite|web|url=https://www.theguardian.com/world/2009/jun/23/iran-football-protest-ban|first=Robert|last=Tait|date=23 June 2009|access-date=16 December 2017|title=Iran bans election protest footballers|work=The Guardian|archive-date=6 September 2013|archive-url=https://web.archive.org/web/20130906195640/http://www.theguardian.com/world/2009/jun/23/iran-football-protest-ban|url-status=live}}</ref> On 24 June 2009, FIFA wrote to Iran's Football Federation asking for clarification on the situation. The Iranian Football Federation replied that no disciplinary action has been taken against any player.<ref>{{#invoke:cite|news|url=http://www.cbc.ca/sports/soccer/story/2009/06/26/sp-iran-green.html |title=Iran says it didn't punish soccer players |date=26 June 2009 |publisher=CBC |access-date=8 July 2010 |archive-date=28 June 2009 |archive-url=https://web.archive.org/web/20090628190654/http://www.cbc.ca/sports/soccer/story/2009/06/26/sp-iran-green.html |url-status=live }}</ref>
+
+[[Afshin Ghotbi]] renewed his contract until the end of [[2011 AFC Asian Cup]] and the team qualified for the tournament with 13 points as group winners. During the final [[2010 FIFA World Cup qualification – AFC fourth round|qualification]] match against [[South Korea national football team|South Korea]], several Iranian players started the match wearing green [[armband]]s or [[wristband]]s, a symbol of [[2009 Iranian election protests|protest at the outcome of the Iranian presidential election]].<ref>{{#invoke:cite|news|url=https://www.telegraph.co.uk/news/worldnews/middleeast/iran/5559871/Iranian-football-team-shows-support-for-Mousavi-with-green-arm-bands-at-Seoul-World-Cup-qualifier.html |title=Iranian football team shows support for Mousavi with green arm bands at Seoul World Cup qualifier |date=17 June 2009 |work=[[The Daily Telegraph]] |access-date=17 June 2009 |location=London |archive-date=16 June 2018 |archive-url=https://web.archive.org/web/20180616095809/https://www.telegraph.co.uk/news/worldnews/middleeast/iran/5559871/Iranian-football-team-shows-support-for-Mousavi-with-green-arm-bands-at-Seoul-World-Cup-qualifier.html |url-status=live }}</ref> Most removed them at half-time. The newspaper ''Iran'' reported that [[Ali Karimi]], [[Mehdi Mahdavikia]], [[Hosein Kaebi]] and [[Vahid Hashemian]] had received life bans from the [[Football Federation Islamic Republic of Iran|Iranian FA]] for the gesture.<ref>{{#invoke:cite|news|url=https://www.irishtimes.com/newspaper/sport/2009/0625/1224249508070.html |title=Iranian players receive life bans for gestures |last=Tait |first=Robert |date=25 June 2009 |work=[[The Guardian]] |access-date=25 June 2009 |archive-date=20 October 2012 |archive-url=https://web.archive.org/web/20121020142037/http://www.irishtimes.com/newspaper/sport/2009/0625/1224249508070.html |url-status=live }}</ref> However, the Iranian FA denied this claim in a response to FIFA's inquiry saying that "the comments in foreign media are nothing but lies and a mischievous act."<ref>{{#invoke:cite|news|url=https://www.telegraph.co.uk/sport/football/international/5634682/Iran-denies-punishing-players-for-wearing-green-wristbands.html|title=Iran denies punishing players for wearing green wristbands|newspaper=The Daily Telegraph|date=25 June 2009|access-date=25 June 2009|location=London|archive-date=14 June 2018|archive-url=https://web.archive.org/web/20180614112258/https://www.telegraph.co.uk/sport/football/international/5634682/Iran-denies-punishing-players-for-wearing-green-wristbands.html|url-status=live}}</ref> Head coach [[Afshin Ghotbi]] also confirmed that it was a rumour and the Iranian FA "has not taken any official stand on this issue."<ref>{{#invoke:cite|news|url=http://goal.blogs.nytimes.com/2009/06/26/iran-did-not-suspend-players-coach-says/|title=Iran Did Not Suspend Players, Coach Says|newspaper=The New York Times|date=26 June 2009|access-date=27 June 2009|first=Jack|last=Bell|archive-date=28 June 2009|archive-url=https://web.archive.org/web/20090628191517/http://goal.blogs.nytimes.com/2009/06/26/iran-did-not-suspend-players-coach-says/|url-status=live}}</ref>
+
+[[Afshin Ghotbi]] qualified Iran for the 2011 Asian Cup and finished second in the [[2010 WAFF Championship]] just a few months before the Asian Cup. Iran were able to gain all nine possible points in the group stage of the Asian Cup but after an extra time goal from South Korea, Iran were yet again eliminated from the quarter-finals.
+
+On 4 April 2011, former [[Real Madrid]] manager [[Carlos Queiroz]] agreed to a two-and-a-half-year deal to coach the Iranian national team until the end of the [[2014 FIFA World Cup]] in Brazil.<ref name="Goal">{{#invoke:cite|news| title = Carlos Queiroz agrees deal to become Iran head coach | work = Sport | publisher = Soccernet | date = 4 April 2011 | url = http://soccernet.espn.go.com/news/story/_/id/902584/carlos-queiroz-agrees-deal-to-become-iran-coach?cc=5901 | access-date = 4 April 2011 | location = Dubai | archive-date = 18 August 2011 | archive-url = https://web.archive.org/web/20110818141931/http://soccernet.espn.go.com/news/story/_/id/902584/carlos-queiroz-agrees-deal-to-become-iran-coach?cc=5901 | url-status = live }}</ref> Under Queiroz, Iran began their [[2014 FIFA World Cup qualification (AFC)|2014 FIFA World Cup qualification]] campaign successfully, defeating the [[Maldives national football team|Maldives]] 4–0 in the first leg of their [[2014 FIFA World Cup qualification – AFC second round|second round of qualifiers]]. After winning 5–0 on aggregate, Iran advanced to the [[2014 FIFA World Cup qualification – AFC third round|third round of qualifiers]] where they were drawn with [[Indonesia national football team|Indonesia]], [[Qatar national football team|Qatar]] and [[Bahrain national football team|Bahrain]].
+
+[[File:Iran-Maldavies.jpg|250px|thumbnail|Iran's squad in July 2011 against Maldives. Manager: [[Carlos Queiroz]]. Standing left to right: [[Hadi Aghili|Aghili]], [[Jalal Hosseini|Hosseini]], [[Ghasem Haddadifar|Haddadifar]], [[Karim Ansarifard|Ansarifard]], [[Maziar Zare|Zare]], [[Mehrdad Pooladi|Pooladi]]; sitting left to right: [[Khosro Heydari|Heydari]], [[Hadi Norouzi|Norouzi]], [[Mehdi Rahmati|Rahmati]], [[Mohammad Reza Khalatbari (footballer, born 1983)|Khalatbari]], [[Ali Karimi|Karimi]].]]
+
+Iran topped [[2014 FIFA World Cup qualification – AFC third round#Group E|their group]] by defeating Bahrain 6–0 at home in the [[Azadi Stadium]] as well as inviting former [[Germany national youth football team|German youth international]] [[Ashkan Dejagah]] who scored twice on his debut against Qatar. After a 4–1 win at Indonesia, Iran qualified for the final round of direct qualifiers, the [[2014 FIFA World Cup qualification – AFC fourth round|fourth round]]. In the fourth round, Iran played South Korea, [[Qatar national football team|Qatar]], [[Uzbekistan national football team|Uzbekistan]] and [[Lebanon national football team|Lebanon]] in [[2014 FIFA World Cup qualification – AFC fourth round#Group A|their group]]. Queiroz made new [[Iranian diaspora|foreign-based]] additions to his squad, adding players such as [[Reza Ghoochannejhad]].
+
+Iran started the fourth round of Asian qualifiers with a 1–0 win in Uzbekistan. ''Team Melli'' then drew Qatar and lost in Lebanon before defeating South Korea at the Azadi on 16 October with a goal from captain [[Javad Nekounam]]. After a 1–0 loss in Tehran against Uzbekistan, Iran defeated Qatar 1–0 in [[Doha]] and Lebanon 4–0 at home. In their last qualification match, Iran defeated South Korea 1–0 in [[Ulsan Munsu Football Stadium|Ulsan Munsu]] with a goal from Ghoochannejhad, clinching their ticket to Brazil as group winners with 16 points. Thus, Iran became the third team that Queiroz has managed to qualify for the World Cup, having reached the [[2002 FIFA World Cup|2002 edition]] with [[South Africa national football team|South Africa]] and the [[2010 FIFA World Cup|2010 edition]] with [[Portugal national football team|Portugal]], leading the latter to a knockout stage finish. Iran continued their winning streak, securing [[2015 AFC Asian Cup qualification|qualification]] to the [[2015 AFC Asian Cup|2015 Asian Cup]] months later as well.<ref>{{#invoke:cite|web|url=http://www.the-afc.com/en/tournaments/men/afc-asian-cup-qualifiers/27245-lib-irn-md5-201113.html |title=Asian Cup 2015 (Qs) MD5: Lebanon 1–4 Iran |publisher=[[Asian Football Confederation|AFC]] |date=20 November 2013 |url-status=dead |archive-url=https://web.archive.org/web/20140514040022/http://www.the-afc.com/en/tournaments/men/afc-asian-cup-qualifiers/27245-lib-irn-md5-201113.html |archive-date=14 May 2014 }}</ref>
+
+[[File:Iran vs. Argentina match, 2014 FIFA World Cup 15.jpg|thumb|Iran v [[Argentina national football team|Argentina]] at the [[2014 FIFA World Cup|2014 World Cup]] in Brazil]]
+
+Since Queiroz's role as manager of the Iranian national team, he has introduced players from the [[Iranian diaspora]] to the national squad. These players include [[Iranians in Germany|German-Iranians]] [[Daniel Davari]] and [[Ashkan Dejagah]], [[Iranians in the Netherlands|Dutch-Iranian]] [[Reza Ghoochannejhad]], [[Swedish Iranians|Swedish-Iranians]] [[Omid Nazari]] and [[Saman Ghoddos]], and [[Iranian Americans|Iranian-American]] [[Steven Beitashour]] among others.<ref>{{#invoke:cite|web|url=https://abcnews.go.com/Sports/wireStory/iran-players-watch-world-cup-23269497|title=5 Iran Players to Watch at the World Cup|work=ABC News |publisher=[[ABC News (United States)|ABC News]]|access-date=16 April 2014|archive-date=17 April 2014|archive-url=https://web.archive.org/web/20140417091756/https://abcnews.go.com/Sports/wireStory/iran-players-watch-world-cup-23269497|url-status=live}}</ref><ref name="guardianmagath">{{#invoke:cite|news|url=https://www.theguardian.com/football/2014/apr/18/asgkan-dejagah-felix-magath-fulham|title=Ashkan Dejagah says Felix Magath is the right man to keep Fulham up|newspaper=The Guardian|date=18 April 2014|access-date=19 April 2014|archive-date=19 April 2014|archive-url=https://web.archive.org/web/20140419064501/http://www.theguardian.com/football/2014/apr/18/asgkan-dejagah-felix-magath-fulham|url-status=live}}</ref>
+
+Iran competed in [[2014 FIFA World Cup Group F|Group F]] alongside [[Argentina national football team|Argentina]], [[Nigeria national football team|Nigeria]] and [[Bosnia and Herzegovina national football team|Bosnia and Herzegovina]]. Prior to the tournament, they founded the [[Central Asian Football Association]].<ref>{{Cite web|url=http://www.the-afc.com/en/about-afc/afc-committees/1127-executive-committee/28784-central-zone-gets-thumbs-up-from-tajikistan.html|archive-url=https://web.archive.org/web/20140612013350/http://www.the-afc.com/en/about-afc/afc-committees/1127-executive-committee/28784-central-zone-gets-thumbs-up-from-tajikistan.html|url-status=dead|title='Central Zone' gets thumbs up from Tajikistan|archive-date=12 June 2014}}</ref>
+
+In the opening match of the tournament on 16 June, Iran drew [[Nigeria national football team|Nigeria]] 0–0 making it their first clean sheet in the World Cup.<ref>{{#invoke:cite|web|url=https://www.sbnation.com/soccer/2014/6/16/5815590/nigeria-vs-iran-2014-world-cup-final-score-result|title=Nigeria vs. Iran: Final score 0–0, Super Eagles held in dire stalemate|work=[[SB Nation]]|date=16 June 2014 |access-date=24 July 2020|archive-date=24 July 2020|archive-url=https://web.archive.org/web/20200724035818/https://www.sbnation.com/soccer/2014/6/16/5815590/nigeria-vs-iran-2014-world-cup-final-score-result|url-status=live}}</ref> In their next match, Iran was [[List of 2014 FIFA World Cup controversies#Argentina vs Iran|defeated]] by [[Argentina national football team|Argentina]] 1–0 with a late goal from [[Lionel Messi]] and received praise after holding Argentina for 90 minutes while creating some attacking opportunities of their own.<ref>{{#invoke:cite|news|url=https://www.bbc.com/sport/0/football/25285221|title=BBC Sport – World Cup: Argentina 1–0 Iran|first=David|last=Ornstein|work=BBC Sport|date=19 December 2013 |access-date=12 February 2018|archive-date=14 January 2016|archive-url=https://web.archive.org/web/20160114205734/http://www.bbc.com/sport/0/football/25285221|url-status=live}}</ref> Iran was eliminated from the tournament in their next game, a 3–1 defeat to [[Bosnia and Herzegovina national football team|Bosnia and Herzegovina]]. Iran's lone goal was scored by [[Reza Ghoochannejhad]].<ref>{{#invoke:cite|web|url=http://www.cafc.co.uk/news/article/20140625-reza-makes-charlton-history-at-world-cup-1678140.aspx|title=Iran's Rez Ghoochannejhad becomes Charlton's first ever player to score a goal at the World Cup after 3–1 loss to Bosnia and Herzegovina|first=Olly|last=Groome|work=CAFC|url-status=dead|archive-url=https://web.archive.org/web/20140730124624/http://www.cafc.co.uk/news/article/20140625-reza-makes-charlton-history-at-world-cup-1678140.aspx|archive-date=30 July 2014}}</ref> After the tournament, Queiroz declared he would resign as manager of Iran but later switched and extended his contract until the [[2018 FIFA World Cup]].<ref>{{#invoke:cite|news|url=http://uk.reuters.com/article/uk-soccer-asia-iran-quieroz-idUKKBN0HC04720140917|title=Queiroz ends contract saga by signing Iran deal|work=Reuters UK|date=17 September 2014 |access-date=6 July 2021|archive-date=24 October 2020|archive-url=https://web.archive.org/web/20201024014437/https://uk.reuters.com/article/uk-soccer-asia-iran-quieroz-idUKKBN0HC04720140917|url-status=live}}</ref>
+
+===Late 2010s===
+Iran qualified for the [[2015 AFC Asian Cup]] as [[2015 AFC Asian Cup qualification#Group B|group winners]] where Team Melli were the highest [[FIFA World Rankings|ranked]] [[Seed (sports)|seed]].<ref>{{#invoke:cite|news|url=http://uk.reuters.com/article/uk-soccer-asia-cup-idUKBREA2H04J20140318|title=Hosts Australia top seeds for 2015 Asian Cup|work=Reuters|access-date=18 March 2014|archive-date=6 March 2016|archive-url=https://web.archive.org/web/20160306222654/http://uk.reuters.com/article/uk-soccer-asia-cup-idUKBREA2H04J20140318|url-status=live}}</ref> Iran faced [[Bahrain national football team|Bahrain]], [[Qatar national football team|Qatar]] and the [[United Arab Emirates national football team|UAE]] in [[2015 AFC Asian Cup Group C|Group C]]. With the second highest number of fans in the tournament after hosts [[Australia men's national soccer team|Australia]], the Iranians defeated Bahrain 2–0 with limited preparations.<ref>{{#invoke:cite|web|url=https://au.sports.yahoo.com/football/news/article/-/25960236/iranian-crowd-sets-asian-cup-standard/|title=Iranian crowd sets Asian Cup standard|work=yahoo.com|url-status=dead|archive-url=https://web.archive.org/web/20150124082850/https://au.sports.yahoo.com/football/news/article/-/25960236/iranian-crowd-sets-asian-cup-standard/|archive-date=24 January 2015}}</ref><ref>{{#invoke:cite|web|url=http://www.goal.com/en/news/3550/asian-cup/2015/01/11/7862822/queiroz-iran-victimised-by-fifa-sanctions|title=Queiroz: Iran 'victimised' by sanctions - Goal.com|work=Goal.com|access-date=12 January 2015|archive-date=13 January 2015|archive-url=https://web.archive.org/web/20150113181409/http://www.goal.com/en/news/3550/asian-cup/2015/01/11/7862822/queiroz-iran-victimised-by-fifa-sanctions|url-status=live}}</ref> A defensive-minded Iran then defeated Qatar 1–0 thanks to a [[Sardar Azmoun]] goal before defeating UAE by the same scoreline to reach the top of their group.<ref>{{#invoke:cite|news|url=http://www.abc.net.au/news/2015-01-23/iran-censors-images-of--inappropriate-female-soccer-fans/6043600|title=#teammelli: Social media helps Iranian fans defy censorship of images from Asian Cup matches in Australia|work=ABC News|date=23 January 2015 |access-date=23 January 2015|archive-date=23 January 2015|archive-url=https://web.archive.org/web/20150123132254/http://www.abc.net.au/news/2015-01-23/iran-censors-images-of--inappropriate-female-soccer-fans/6043600|url-status=live}}</ref><ref>{{#invoke:cite|web|url=http://www.goal.com/en/match/iran-vs-uae/1466402/report|title=Iran 1 - 0 UAE Match report - 1/19/15 Asian Cup - Goal.com|work=goal.com|access-date=23 January 2015|archive-date=22 January 2015|archive-url=https://web.archive.org/web/20150122214758/http://www.goal.com/en/match/iran-vs-uae/1466402/report|url-status=live}}</ref> In the [[2015 AFC Asian Cup knockout stage#Iran vs Iraq|quarter-finals]] Iran faced [[Iraq national football team|Iraq]] who they had beaten weeks prior in a [[Exhibition game#International football|friendly match]]. Having received a controversial [[Red card (sport)|red card]] in the first half, Iran competed with ten men, managing to score goals late in [[Overtime (association football)|extra time]] to draw the match 3–3. In the ensuing [[Penalty shoot-out (association football)|penalty shootout]], Iran lost 7–6.<ref>{{#invoke:cite|web|url=https://www.smh.com.au/sport/soccer/afc-asian-cup/former-socceroos-blast-referee-ben-williams-for-embarrasing-sendoff-in-irans-asian-cup-loss-to-iraq-20150124-12xdox.html|title=Former Socceroos blast referee Ben Williams for 'embarrasing' &#91;sic&#93; send-off in Iran's Asian Cup loss to Iraq|work=The Sydney Morning Herald|date=24 January 2015 |access-date=16 April 2020|archive-date=27 November 2017|archive-url=https://web.archive.org/web/20171127064307/http://www.smh.com.au/sport/soccer/afc-asian-cup/former-socceroos-blast-referee-ben-williams-for-embarrasing-sendoff-in-irans-asian-cup-loss-to-iraq-20150124-12xdox.html|url-status=live}}</ref><ref>{{#invoke:cite|web|url=https://www.theguardian.com/football/blog/2015/jan/23/asian-cup-iran-fans-protest|title=Iranian women stand united in protest and hope at Asian Cup|first=Joe|last=Gorman|work=The Guardian|date=23 January 2015 |access-date=11 December 2016|archive-date=5 January 2017|archive-url=https://web.archive.org/web/20170105182316/https://www.theguardian.com/football/blog/2015/jan/23/asian-cup-iran-fans-protest|url-status=live}}</ref>
+
+[[File:Portugal and Iran match at the FIFA World Cup 2018 1.jpg|thumb|Iran's squad against [[Portugal national football team|Portugal]] in [[Mordovia Arena]] at the [[2018 FIFA World Cup]]]]
+
+Iran began their [[2018 FIFA World Cup qualification (AFC)|2018 FIFA World Cup qualification campaign]] with [[Exhibition game#International football|friendly matches]] against [[Chile national football team|Chile]] and [[Sweden men's national football team|Sweden]] in March 2015.<ref>{{#invoke:cite|web|url=http://www.goal.com/en/match/iran-vs-chile/1998633/report|title=Iran 2 - 0 Chile Match report - 3/26/15 Friendlies - Goal.com|work=goal.com|access-date=31 March 2015|archive-date=2 April 2015|archive-url=https://web.archive.org/web/20150402073759/http://www.goal.com/en/match/iran-vs-chile/1998633/report|url-status=live}}</ref><ref>{{#invoke:cite|news|url=http://uk.reuters.com/article/uk-soccer-friendly-sweden-idUKKBN0MR2JI20150331|title=Ibra silences raucous Iran fans to give Sweden 3–1 win|work=Reuters UK|date=31 March 2015 |access-date=6 July 2021|archive-date=18 August 2017|archive-url=https://web.archive.org/web/20170818215110/https://uk.reuters.com/article/uk-soccer-friendly-sweden-idUKKBN0MR2JI20150331|url-status=live}}</ref><ref>{{#invoke:cite|news|url=http://sverigesradio.se/sida/artikel.aspx?programid=3993&artikel=6131039|title=Regimkritiska budskap på Friends kan ge böter|newspaper=Sveriges Radio|date=31 March 2015 |access-date=31 March 2015|archive-date=2 April 2015|archive-url=https://web.archive.org/web/20150402135739/http://sverigesradio.se/sida/artikel.aspx?programid=3993&artikel=6131039|url-status=live|last1=Ramel |first1=Fredrik |last2=Akhtari |first2=Kavoos }}</ref> Queiroz resigned from his managerial post thereafter due to disagreements with the [[Iranian Football Federation]].<ref>{{#invoke:cite|web|url=http://www.foxsportsasia.com/football/asian-football/news/detail/item38283/Queiroz-quits-as-Iran-coach|title=Asian Football News – Queiroz quits as Iran coach – FOX SPORTS|work=FOX SPORTS|url-status=dead|archive-url=https://web.archive.org/web/20150323003733/http://www.foxsportsasia.com/football/asian-football/news/detail/item38283/Queiroz-quits-as-Iran-coach|archive-date=23 March 2015}}</ref> On 14 April 2015, Iran were drawn with [[Oman national football team|Oman]], [[India men's national football team|India]], [[Turkmenistan national football team|Turkmenistan]] and [[Guam national football team|Guam]] in the [[2018 FIFA World Cup qualification – AFC second round#Group D|second round]] of qualifiers.<ref>{{#invoke:cite|web|url=https://www.fifa.com/worldcup/news/y=2015/m=4/news=draw-throws-up-derbies-and-drama-2590319.html?intcmp=fifacom_hp_module_news|archive-url=https://web.archive.org/web/20150418130433/http://www.fifa.com/worldcup/news/y=2015/m=4/news=draw-throws-up-derbies-and-drama-2590319.html?intcmp=fifacom_hp_module_news|url-status=dead|archive-date=18 April 2015|title=Asian draw throws up derbies and drama|date=14 April 2015|work=FIFA.com}}</ref> On 26 April, Queiroz announced that he would continue as the manager of Iran for their 2018 World Cup campaign. Iran became the second team to qualify for the [[2018 World Cup]]<ref>{{#invoke:cite|news|agency=[[Associated Press]] |title=Iran become second team to qualify for World Cup |url=https://www.khaleejtimes.com/iran-become-second-team-to-qualify-for-world-cup |date=13 June 2017 |access-date=15 June 2018 |newspaper=[[Khaleej Times]] |location=Tehran |archive-date=15 June 2018 |archive-url=https://web.archive.org/web/20180615214954/https://www.khaleejtimes.com/iran-become-second-team-to-qualify-for-world-cup |url-status=live }}</ref> after a 2–0 win at home over [[Uzbekistan national football team|Uzbekistan]] on 12 June 2017.<ref>{{#invoke:cite|news|agency=[[Associated Press]] |title=Iran second team to qualify for 2018 World Cup after beating Uzbekistan |url=https://eu.usatoday.com/story/sports/soccer/2017/06/12/iran-qualifies-for-2018-world-cup-after-beating-uzbekistan/102786192/ |date=12 June 2017 |access-date=15 June 2018 |newspaper=[[USA Today]] |publisher=[[Gannett]] |archive-date=19 November 2021 |archive-url=https://web.archive.org/web/20211119142638/https://www.usatoday.com/story/sports/soccer/2017/06/12/iran-qualifies-for-2018-world-cup-after-beating-uzbekistan/102786192/ |url-status=live }}</ref> They also clinched first place in their qualification [[2018 FIFA World Cup qualification – AFC third round#Group A|group]] after South Korea's defeat to [[Qatar national football team|Qatar]].<ref>{{#invoke:cite|news|last=Church |first=Michael |title=China, Qatar face elimination as Iran look to Russia |url=https://www.reuters.com/article/uk-soccer-worldcup-asia/china-qatar-face-elimination-as-iran-look-to-russia-idUKKBN192090 |date=11 June 2017 |access-date=15 June 2018 |work=[[Reuters]] |archive-date=15 June 2018 |archive-url=https://web.archive.org/web/20180615214927/https://www.reuters.com/article/uk-soccer-worldcup-asia/china-qatar-face-elimination-as-iran-look-to-russia-idUKKBN192090 |url-status=live }}</ref>
+
+Iran won the first match against [[Morocco national football team|Morocco]] after [[Aziz Bouhaddouz]] scoring an own goal.<ref>{{#invoke:cite|news|last=Miller |first=Nick |title=Aziz Bouhaddouz own goal in added time hands Iran win against Morocco |url=https://www.theguardian.com/football/2018/jun/15/morocco-iran-world-cup-group-b-match-report |date=15 June 2018 |access-date=15 June 2018 |newspaper=[[The Guardian]] |publisher=[[Guardian News and Media Limited]] |archive-date=15 June 2018 |archive-url=https://web.archive.org/web/20180615224921/https://www.theguardian.com/football/2018/jun/15/morocco-iran-world-cup-group-b-match-report |url-status=live }}</ref> They then lost against [[Spain national football team|Spain]] with a goal scored by [[Diego Costa]], with [[video assistant referee]]s denying an Iranian equalizer.<ref>{{#invoke:cite|news|last1=White |first1=Jim |last2=Bloom |first2=Ben |title=Fortunate Diego Costa goal sees Spain overcome Iran's stubborn resistance |url=https://www.telegraph.co.uk/world-cup/2018/06/20/iran-vs-spain-world-cup-2018-live-score-latest-updates/ |date=20 June 2018 |access-date=21 June 2018 |newspaper=[[The Daily Telegraph]] |archive-date=20 June 2018 |archive-url=https://web.archive.org/web/20180620203455/https://www.telegraph.co.uk/world-cup/2018/06/20/iran-vs-spain-world-cup-2018-live-score-latest-updates/ |url-status=live }}</ref> The third match against [[Portugal national football team|Portugal]] ended in a draw after a [[Penalty (association football)|penalty]] scored by [[Karim Ansarifard]] in the stoppage time, while [[Cristiano Ronaldo]] missed a penalty when Iran was trailing, with [[Alireza Beiranvand]] making a decisive save<ref>{{#invoke:cite|news|title=Late penalty holds Portugal to runner-up spot in Group B |url=http://www.marca.com/en/world-cup/2018/06/25/5b314da246163fc8048b45b7.html |date=25 June 2018 |access-date=26 June 2018 |newspaper=[[Marca (newspaper)|Marca]] |language=es |publisher=[[Unidad Editorial]] Información Deportiva, S.L.U. |archive-date=26 June 2018 |archive-url=https://web.archive.org/web/20180626135600/http://www.marca.com/en/world-cup/2018/06/25/5b314da246163fc8048b45b7.html |url-status=live }}</ref> and because Morocco could only manage a 2–2 draw to Spain, Iran were eliminated.<ref>{{#invoke:cite|web|url=https://www.cbssports.com/soccer/world-cup/news/iran-scores-results-world-cup-ends-after-nearly-forcing-ronaldo-portugal-on-brink-of-elimination/ |title=Iran scores, results: World Cup ends after nearly forcing Ronaldo, Portugal on brink of elimination |last=Gonzalez |first=Roger |date=25 June 2018 |access-date=26 June 2018 |work=[[CBS Sports]] |publisher=[[CBS Interactive Inc.]] |archive-date=26 June 2018 |archive-url=https://web.archive.org/web/20180626201007/https://www.cbssports.com/soccer/world-cup/news/iran-scores-results-world-cup-ends-after-nearly-forcing-ronaldo-portugal-on-brink-of-elimination/ |url-status=live }}</ref> Iran's four points is the most received in any World Cup appearance.
+
+[[File:China-Iran 2019 AFC Asian Cup by Mehdi Zare 1.jpg|thumb|Iran's squad against [[China national football team|China]] at the [[2019 AFC Asian Cup]]]]
+[[File:IRN-VIETNAM 20190112 Asian Cup 18.jpg|thumb|[[Sardar Azmoun|Azmoun]] and [[Mehdi Taremi|Taremi]] played a key role in the front line of the team in these years.]]
+
+Having qualified for the [[2019 AFC Asian Cup]] earlier, Iran was drawn into [[2019 AFC Asian Cup Group D|group D]], where they shared fate with [[Iraq national football team|Iraq]], [[Vietnam national football team|Vietnam]] and [[Yemen national football team|Yemen]]. Iran opened their tournament against Yemen, nearly conceding a goal early but after 10 minutes, Iran regained the ground and proved more dominant in certain aspects, thrashing Yemen 5–0.<ref>{{#invoke:cite|web|url=https://english.alaraby.co.uk/english/blog/2019/1/8/asian-cup-2019-iran-takes-5-0-win-against-yemen |title=Asian Cup 2019: An emotional loss for Yemen as Iran takes 5–0 win |last1=Levy |first1=Uri |work=alaraby |publisher=English.alaraby.co.uk |date=23 May 2019 |access-date=19 November 2021 |archive-date=30 September 2020 |archive-url=https://web.archive.org/web/20200930103941/https://english.alaraby.co.uk/english/blog/2019/1/8/asian-cup-2019-iran-takes-5-0-win-against-yemen |url-status=live }}</ref> A 2–0 win over the Vietnamese side gave Iran direct qualification to the knockout stage.<ref>{{#invoke:cite|web|url=https://english.alarabiya.net/en/sports/2019/01/12/Iran-beats-Vietnam-2-0-for-2nd-win-at-Asian-Cup.html |title=Iran beats Vietnam 2–0 for second win at Asian Cup |publisher=Al Arabiya English |date= 12 January 2019|access-date=19 November 2021 |archive-date=16 June 2020 |archive-url=https://web.archive.org/web/20200616083857/https://english.alarabiya.net/en/sports/2019/01/12/Iran-beats-Vietnam-2-0-for-2nd-win-at-Asian-Cup.html |url-status=live }}</ref> Iran ended their group stage with a goalless draw over neighbor Iraq and took first place.<ref>{{#invoke:cite|web|first=Karzan |last=Sulaivany |url=https://www.kurdistan24.net/en/sport/ac86f49b-3286-4643-8088-6f6594957dfe |title=Asian Cup 2019: Iran tops group after fiery goalless draw against rivals Iraq |publisher=Kurdistan24.net |date=16 January 2019 |access-date=19 November 2021 |archive-date=25 April 2019 |archive-url=https://web.archive.org/web/20190425052302/http://www.kurdistan24.net/en/sport/ac86f49b-3286-4643-8088-6f6594957dfe |url-status=live }}</ref> After the group stage, Iran encountered [[Oman national football team|Oman]], with a defending mistake almost costing Iran's chances but [[Ahmed Mubarak Al-Mahaijri]]'s penalty was saved by [[Alireza Beiranvand]]. Iran then defeated Oman 2–0 to reach the last eight.<ref>{{#invoke:cite|web|first=David |last=Nelson |url=https://en.as.com/en/2019/01/20/football/1548001356_977417.html |title=Iran into the quarter-finals with solid performance against Oman - AS.com |work=AS.com |publisher=En.as.com |date=20 January 2019 |access-date=19 November 2021 |archive-date=24 September 2020 |archive-url=https://web.archive.org/web/20200924014256/https://en.as.com/en/2019/01/20/football/1548001356_977417.html |url-status=live }}</ref> In the quarter-finals against a defensive [[China national football team|China]], Iran outclassed the Chinese 3–0 to meet [[Japan national football team|Japan]] in the semi-finals.<ref>{{#invoke:cite|web|first=Robbie |last=Dunne |url=https://en.as.com/en/2019/01/24/football/1548342829_085944.html |title=Iran have too much for China as they march on to the semi-final - AS.com |work=AS.com |publisher=En.as.com |date=24 January 2019 |access-date=19 November 2021 |archive-date=9 August 2020 |archive-url=https://web.archive.org/web/20200809000314/https://en.as.com/en/2019/01/24/football/1548342829_085944.html |url-status=live }}</ref> Iran missed the opportunity to reach the final once again when they fell 3–0 with all three goals scored in second half.<ref>{{#invoke:cite|web|url=https://en.mehrnews.com/news/141983/Iran-eliminated-from-AFC-Asian-CUP-after-losing-to-Japan-0-3 |title=Iran eliminated from AFC Asian CUP after losing to Japan 0–3 in semifinals – Mehr News Agency |publisher=En.mehrnews.com |date=28 January 2019 |access-date=19 November 2021 |archive-date=2 November 2021 |archive-url=https://web.archive.org/web/20211102204613/https://en.mehrnews.com/news/141983/Iran-eliminated-from-AFC-Asian-CUP-after-losing-to-Japan-0-3 |url-status=live }}</ref>
+
+===Early 2020s===
+{{Main|2022 FIFA World Cup qualification (AFC)|2022 FIFA World Cup|2022 FIFA World Cup controversies#Iranian protests}}
+
+[[File:2022 FIFA World Cup England 6–2 Iran - (7).jpg|thumb|Iran's squad against [[England national football team|England]] at the [[2022 FIFA World Cup]]]]
+Iran was the highest-ranked team to be seeded in the [[2022 FIFA World Cup qualification (AFC)|2022 FIFA World Cup qualification]], being drawn into the [[2022 FIFA World Cup qualification – AFC second round|second round]] where they would deal with two Arab countries, Iraq and [[Bahrain national football team|Bahrain]], along with [[Cambodia national football team|Cambodia]] and [[Hong Kong national football team|Hong Kong]]. Iran, under new Belgian manager [[Marc Wilmots]], began with a 2–0 away win over Hong Kong. After the [[death of Sahar Khodayari]], the 14–0 win over Cambodia allowed select Iranian women to enter the stadium for the first time since the [[Iranian Revolution|1979 Islamic Revolution]].<ref name=reuters-40-yrs>{{#invoke:cite|news|date=2019-10-10 |title=Iranian women attend first soccer match in 40 years |language=en |work=Reuters |url=https://www.reuters.com/article/us-iran-soccer-women-idUSKBN1WP1QZ |access-date=2022-11-25}}</ref><ref>{{#invoke:cite|web| url = https://www.the-afc.com/competitions/fifa-world-cup/latest/news/md2-group-c-hong-kong-0-2-ir-iran| title = MD2 – Group C: Hong Kong 0–2 IR Iran| access-date = 24 November 2020| archive-date = 22 October 2020| archive-url = https://web.archive.org/web/20201022041032/https://www.the-afc.com/competitions/fifa-world-cup/latest/news/md2-group-c-hong-kong-0-2-ir-iran| url-status = dead}}</ref><ref>{{#invoke:cite|web|url=https://en.as.com/en/2019/10/10/football/1570717133_630385.html |title=Iran 14-0 Cambodia as women return to stadium after 40 years |work=AS.com |publisher=AS |date=10 October 2019 |access-date=19 November 2021 |archive-date=26 October 2020 |archive-url=https://web.archive.org/web/20201026020859/https://en.as.com/en/2019/10/10/football/1570717133_630385.html |url-status=live }}</ref> Their next away encounters against Bahrain and Iraq went on to be consecutive defeats which Iran lost 0–1 and 1–2, respectively.<ref>{{#invoke:cite|web|url=https://english.alarabiya.net/en/sports/2019/10/15/Bahrain-defeats-Iran-1-0-in-second-round-of-Asian-WC-qualifiers |title=Bahrain defeats Iran 1–0 in second round of Asian WC qualifiers |publisher=Al Arabiya English |date= 15 October 2019|access-date=19 November 2021 |archive-date=19 November 2021 |archive-url=https://web.archive.org/web/20211119142640/https://english.alarabiya.net/sports/2019/10/15/Bahrain-defeats-Iran-1-0-in-second-round-of-Asian-WC-qualifiers |url-status=live }}</ref><ref>{{#invoke:cite|web|url=http://www.xinhuanet.com/english/2019-11/15/c_138557140.htm |title=Iraq beats Iran 2–1 at FIFA World Cup Qatar 2022 group C match – Xinhua &#124; English.news.cn |publisher=Xinhuanet.com |date=15 November 2019 |access-date=19 November 2021 |archive-date=30 June 2020 |archive-url=https://web.archive.org/web/20200630025728/http://www.xinhuanet.com/english/2019-11/15/c_138557140.htm |url-status=dead }}</ref> Following two consecutive draws between Iraq and Bahrain, Iran was left with the possibility of being eliminated from the World Cup outright in the second round, leading to the sacking of Marc Wilmots.<ref>{{#invoke:cite|web|first=Ben |last=Thomas |url=https://www.japantimes.co.jp/sports/2019/12/05/soccer/marc-wilmots-steps-iran-coach/ |title=Article expired |publisher=The Japan Times |date=1 January 1970 |access-date=19 November 2021 |archive-date=27 October 2020 |archive-url=https://web.archive.org/web/20201027041617/https://www.japantimes.co.jp/sports/2019/12/05/soccer/marc-wilmots-steps-iran-coach/ |url-status=live }}</ref>
+
+The [[COVID-19 pandemic in Iran]] forced the remaining fixtures to be played without spectators in June 2021, forcing Iran to play their remaining games in Bahrain under new coach [[Dragan Skočić]]; but with Bahrain losing its home support as an advantage, and Iraq assured a place in the [[2022 FIFA World Cup qualification – AFC third round|final phase]], Iran was able to stage a comeback, occupying first place and, together with Iraq, progressed to the final phase.<ref>{{#invoke:cite|web|url=https://www.france24.com/en/live-news/20210615-iran-iraq-and-uae-saudi-march-into-final-phase-of-world-cup-qualifying |title=Iran, Iraq and UAE, Saudi march into final phase of World Cup qualifying |publisher=France 24 |date=15 June 2021 |access-date=19 November 2021 |archive-date=14 July 2021 |archive-url=https://web.archive.org/web/20210714151141/https://www.france24.com/en/live-news/20210615-iran-iraq-and-uae-saudi-march-into-final-phase-of-world-cup-qualifying |url-status=live }}</ref>
+
+Iran became the thirteenth team to qualify for the [[2022 FIFA World Cup]] after a 1–0 win at home over Iraq on 27 January 2022. In March 2022, Iranian women were again banned from entering the stadium for a World Cup qualifier.<ref>{{#invoke:cite|web|title=Iran again bans women from football stadium – Al-Monitor: Independent, trusted coverage of the Middle East |url=https://www.al-monitor.com/originals/2022/03/iran-again-bans-women-football-stadium |access-date=2022-11-25 |website=Al-monitor.com |date=30 March 2022 |language=en}}</ref> Iran's World Cup preparation friendly match against [[Canada men's national soccer team|Canada]] at [[BC Place]] in June 2022 was cancelled by the [[Canadian Soccer Association]] amid opposition and mounting criticism, namely in regards to the Iranian government's role in shooting down [[Ukraine International Airlines Flight 752]].<ref>{{#invoke:cite|web| url=https://www.espn.com/soccer/canada-can/story/4675795/canada-soccer-cancels-iran-friendly-amid-opposition | title=Canada cancels Iran friendly amid opposition | date=26 May 2022 }}</ref><ref>{{#invoke:cite|web| url=https://www.sportsnet.ca/soccer/article/canada-soccer-cancels-mens-national-team-friendly-vs-iran-in-vancouver/ | title=Canada Soccer cancels men's national team friendly vs. Iran in Vancouver | date=26 May 2022 }}</ref>
+
+By the start of the World Cup in Qatar, Iran was the highest ranked team from Asia. In October 2022, calls were made to ban the Iranian national team from the World Cup for the Iranian government's [[Sex segregation in Iran#Sport events|blocking of Iranian women from their stadiums]], their supplying of weapons to Russia during the [[2022 Russian invasion of Ukraine|invasion of Ukraine]], and the treatment towards protesters during the [[Mahsa Amini protests]].<ref>{{#invoke:cite|news|last=Hall |first=Peter |date=2022-11-02 |title='This is not our national team' – why some Iranians want their own country banned from World Cup |language= |work=Reuters |url=https://www.reuters.com/lifestyle/sports/this-is-not-our-national-team-why-some-iranians-want-their-own-country-banned-2022-11-01/ |access-date=2022-11-04}}</ref><ref>{{#invoke:cite|news|date=2022-10-31 |title=Qatar World Cup 2022: Ukraine FA wants Fifa to ban Iran from tournament |language= |work=BBC Sport |url=https://www.bbc.com/sport/football/63463937 |access-date=2022-11-04}}</ref><ref>{{#invoke:cite|news|date=2022-10-20 |title=Qatar World Cup 2022: Fifa asked to ban Iran from tournament |language= |work=BBC Sport |url=https://www.bbc.com/sport/football/63338691 |access-date=2022-11-04}}</ref> However, Iran started its World Cup campaign with a nightmare, losing 2–6 to [[England national football team|England]] in the opening game as Iran suffered the worst ever loss in its FIFA World Cup history.<ref>{{#invoke:cite|web|title=England demolish Iran in World Cup opener as Bukayo Saka and Jude Bellingham play starring roles |url=https://www.planetsport.com/soccer/news/england-demolish-iran-world-cup-opener-bukayo-saka-jude-bellingham-play-starring-roles |access-date=2022-11-25 |website=PlanetSport |date=21 November 2022 |language=en}}</ref> The Iranian team notably made headlines in their opening match against England after refusing to sing the [[National Anthem of the Islamic Republic of Iran|national anthem]] in solidarity with the [[Mahsa Amini protests]], with some Iranian supporters cheering against their own team or [[2022 FIFA World Cup controversies#Iranian protests|boycotting their team]] amidst the ongoing protests as they felt the team was representing the government.<ref>{{#invoke:cite|web|last=Church |first=Ben |date=2022-11-21 |title=Iran players remain silent during national anthem at World Cup in apparent protest at Iranian regime |url=https://www.cnn.com/2022/11/21/football/iran-national-anthem-england-2022-world-cup-spt-intl/index.html |access-date=2022-11-25 |website=CNN |language=en}}</ref><ref>{{#invoke:cite|news|title=Iran players decline to sing national anthem |language=en-GB |work=BBC Sport |date=21 November 2022 |url=https://www.bbc.com/sport/football/63706487 |access-date=2022-11-25}}</ref><ref>{{#invoke:cite|web|date=2022-11-21 |title='Guilty conscience': Iranians in London torn over cheering on their team |url=https://www.theguardian.com/football/2022/nov/21/guilty-conscience-iranians-in-london-torn-over-cheering-on-their-country-due-to-crackdown |access-date=2022-11-25 |website=the Guardian |language=en}}</ref><ref>{{#invoke:cite|news|last=Whitehead |first=Jacob |title=Iranian state television censors players protesting anthem at World Cup |url=https://theathletic.com/3919310/2022/11/21/iran-world-cup-protest/ |access-date=2022-11-25 |website=The Athletic |date=21 November 2022 |language=en}}</ref>
+
+In the following match against [[Wales national football team|Wales]], amidst the boos and whistles from some of the Iranian supporters during the playing of the national anthem, the Iranian players were filmed singing the national anthem before defeating Wales 2–0 for their first-ever win over a European nation at the World Cup, with some protestors having their pre-revolutionary [[Lion and Sun]] [[Flag of Iran|flags]] and [[Woman, Life, Freedom|Women, Life, Freedom]] banners snatched from them by pro-government fans and stadium security at the [[Ahmad bin Ali Stadium]].<ref>{{#invoke:cite|news| url=https://www.bbc.com/news/world-middle-east-63762276 | title=World Cup: Iran protesters confronted at World Cup game against Wales | work=BBC News | date=25 November 2022 }}</ref><ref>{{#invoke:cite|web| url=https://www.theguardian.com/football/2022/nov/25/iran-supporters-jeer-national-anthem-before-emotional-win-over-wales | title=Iran offer powerful show of defiance on day of jeers, tears and joy | website=[[TheGuardian.com]] | date=25 November 2022 }}</ref><ref>{{#invoke:cite|web| url=https://www.mirror.co.uk/sport/football/news/world-cup-security-confiscate-iran-28582265 | title=World Cup security take Iran fans' flag as joint protest broken up at Wales game | website=[[Daily Mirror]] | date=25 November 2022 }}</ref><ref>{{#invoke:cite|news| url=https://www.bbc.com/sport/football/63753096 | title=Iran players sing national anthem against Wales | work=BBC Sport | date=25 November 2022 }}</ref> Protesters were harassed by government supporters with some protesters being detained by Qatari police, while stadium security confirmed they were given orders to confiscate anything but the flag of the Islamic Republic of Iran.<ref>{{#invoke:cite|web| url=https://www.usatoday.com/story/sports/soccer/worldcup/2022/11/25/iran-protesters-world-cup-harassed-wales-match/10771198002/ | title=Iran protesters harassed by government supporters at World Cup match vs. Wales | website=[[USA Today]] }}</ref><ref>{{#invoke:cite|news|url=https://theathletic.com/3944297/2022/11/28/world-cup-iran-women-life-freedom/|title=Detained at the World Cup for wearing a 'Women Life Freedom' T-shirt|date=28 November 2022|work=The Athletic}}</ref> Documents obtained by [[Iran International]] showed Iran was coordinating secret efforts with Qatar to control who attends the World Cup and restrict any signs of dissent.<ref>{{#invoke:cite|web| url=https://www.iranintl.com/en/202211279876 | title=IRGC Man Says Qatar Helping Iran Silence Dissidents in World Cup | date=9 March 2024 }}</ref>
+
+Ahead of Iran's final group stage match against the [[United States men's national soccer team|United States]], the Iranian players were allegedly called in to a meeting with members of the [[Islamic Revolutionary Guard Corps|IRGC]] and were threatened with violence and torture for their families if they did not sing the national anthem or joined the protests against the Iranian regime.<ref>{{#invoke:cite|news|url=https://www.cnn.com/2022/11/28/football/iran-soccer-family-threats-intl-spt/index.html|title=Iran threatened families of World Cup soccer team, according to security source|date=28 November 2022|work=CNN}}</ref> During the match, the Iranian players sang the national anthem again before losing to the United States 1–0 for the first time in their history and thereby being knocked out of the tournament, being the only team to finish third in the group with three points instead of four.<ref>{{#invoke:cite|web| url=https://www.nationalreview.com/news/iranian-players-mumble-through-national-anthem-at-world-cup-after-alleged-government-threats/ | title=Iranian Players Mumble through National Anthem at World Cup after Alleged Government Threats | website=[[National Review]] | date=29 November 2022 }}</ref> Many Iranians celebrated the defeat and one Iranian man was killed by security forces in [[Bandar-e Anzali]] after honking his car horn in celebration.<ref>{{#invoke:cite|news| url=https://www.bbc.com/news/world-middle-east-63805284 | title=World Cup 2022: Man killed in Iran celebrating football team's loss – report | work=BBC News | date=30 November 2022 }}</ref> Another Iranian fan was also arrested by Qatari police after he was wearing a shirt with the [[Woman, Life, Freedom]] slogan.<ref>{{#invoke:cite|web| url=https://www.nbcnews.com/video/iranian-soccer-fan-tackled-by-qatar-world-cup-security-over-protest-slogan-155670597526 | title=Iranian soccer fan tackled by Qatar World Cup security over protest slogan | website=[[NBC News]] }}</ref>
+
+During the FIFA World Cup as well as the [[2023 AFC Asian Cup]], the Iranian government reportedly sent paid members of the [[Basij]] and [[Islamic Revolutionary Guard Corps|IRGC]] to cheer for the team in the stands.<ref>{{Cite web|url=https://iranwire.com/en/sports/124132-iranwire-exclusive-hundreds-of-basij-to-cheer-iranian-football-team-in-qatar/|title=IranWire Exclusive: Hundreds of Basij to Cheer Iranian Football Team in Qatar|website=Iranwire.com|access-date=12 March 2024}}</ref><ref>{{Cite web|url=https://iranwire.com/en/news/124570-iranian-football-supporters-sent-to-qatar-earn-up-to-100-daily/|title=Iranian Football "Supporters" Sent To Qatar Earn up to $100 Daily|website=Iranwire.com|access-date=12 March 2024}}</ref><ref>{{cite web | url=https://www.fotbollskanalen.se/landslag/politiskt-spant-kring-iran-ghoddos-intervju-overvakad-sa-jag-inte-sager-fel-/ | title=Politiskt spänt kring Iran - Ghoddos intervju övervakad: "Så jag inte säger fel saker" }}</ref> Iran were eventually knocked out in the semi-final of the Asian Cup by hosts [[Qatar national football team|Qatar]].<ref>{{cite news | url=https://www.bbc.com/sport/football/68220280 | title=Ali fires Qatar past Iran and into Asian Cup final | work=BBC Sport }}</ref> After the game, Iranian officials reportedly arrested ten teenagers in the city of [[Javanrud]] for celebrating the team's elimination from the tournament.<ref>{{cite tweet|user=IranIntl_En|number=1758573218896531959
+|title=Iran's regime has arrested ten teenagers in the city of Jawanrud in western Iran for celebrating the Islamic Republic's football (soccer) team's elimination from AFC Asian Cup 2023 after being defeated by holders Qatar in the semi-finals}} {{better source|date=March 2024}}</ref>
+
+===Late 2020s===
+{{see also| List of 2026 FIFA World Cup controversies#Iran's participation}}
+
+====2026 FIFA World Cup Qualification====
+
+Iran qualified for the [[2026 FIFA World Cup]] on 25 March 2025 following a 2–2 home draw against [[Uzbekistan national football team|Uzbekistan]] in the [[2026 FIFA World Cup qualification – AFC third round|third round of AFC qualification]].<ref>{{cite web | url=https://www.espn.com/soccer/story/_/id/44403276/world-cup-2026-iran-qualifies-uzbekistan | title=Iran qualifies for 2026 World Cup, Australia close | date=25 March 2025 }}</ref>
+
+====World Cup Draw and Pride Match Controversy====
+
+They were placed in pot 2 for the [[2026 FIFA World Cup seeding|World Cup draw]] and were subsequently drawn into [[2026 FIFA World Cup Group G|Group G]] alongside [[Belgium national football team|Belgium]], [[Egypt national football team|Egypt]], and [[New Zealand men's national football team|New Zealand]].<ref>{{cite web|url=https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/procedures-pots-final-draw|title=Procedures for the FIFA World Cup 2026 Final Draw revealed|website=Fifa.com|access-date=16 June 2026}}</ref><ref>{{cite web|url=https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/live-draw|title=FIFA World Cup 2026 Final Draw |website=Fifa.com|access-date=16 June 2026}}</ref>
+
+Prior to the draw, a group stage match scheduled to be played in Seattle was designated as a "[[Pride (LGBTQ culture)|Pride]] Match" by the City of [[Seattle]] to coincide with the city's [[Seattle Pride|annual Pride celebrations]] and to promote [[LGBT]] inclusion.<ref>{{Cite news |last=Smith |first=Emma |date=December 8, 2025 |title=2026 World Cup: 'Pride Match' to feature Egypt and Iran - where homosexuality is illegal |url=https://www.bbc.com/sport/football/articles/ce8q01d56v7o |publisher=BBC Sport |access-date=December 9, 2025}}</ref> Following the draw, the fixture was confirmed to be [[Egypt vs Iran at the 2026 FIFA World Cup|the match between Iran and Egypt]]. Both Iran and Egypt are countries where homosexuality is criminalized under domestic law, with [[LGBTQ history in Iran|Iran in particular having imposed capital punishment in certain cases]].<ref>{{Cite web |last=Mesa |first=Jesus |title=World Cup pride match to feature two countries that prosecute gays |url=https://www.newsweek.com/sports/world-cup-pride-match-iran-egypt-seattle-11174210 |access-date=2025-12-10 |website=Newsweek |language=en}}</ref> The [[Iranian Football Federation]] and the [[Egyptian Football Association]] objected to the match's designation; however, [[FIFA]] and local organizers confirmed that associated LGBT events would proceed, and that [[Rainbow flag (LGBTQ)|rainbow flags]] would be permitted inside the stadium.<ref>{{cite news |last=Fassihi |first=Farnaz |date=December 9, 2025 |title=Seattle Plans Pride Match at Soccer World Cup, Infuriating Iran and Egypt |url=https://www.nytimes.com/2025/12/09/world/middleeast/iran-egypt-world-cup-seattle-pride.html |work=[[The New York Times]] |access-date=December 10, 2025}}</ref><ref>{{cite web | last1=MacInnes | first1=Paul | title=LGBT events to go ahead at World Cup game despite Egypt and Iran objections | work=The Guardian | url=https://www.theguardian.com/football/2025/dec/10/lgbtq-pride-world-cup-egypt-iran-objections-seattle-fifa }}</ref>
+
+====2025–26 Iranian Protests and Impact on Football====
+
+In January 2026, multiple Iranian footballers and athletes were killed by the Iranian regime during the [[2026 Iran massacres]] amid the [[2025–2026 Iranian protests]], including former [[Tractor Sazi F.C.]] midfielder [[Mojtaba Tarshiz]], prompting former Iran national team captain [[Masoud Shojaei]] to criticise FIFA for its silence over the killing of Iranian athletes during protests, while then-captain [[Mehdi Taremi]] expressed solidarity with the Iranian people.<ref>{{Cite web |url=https://www.euronews.com/2026/01/15/iranian-footballers-killed-in-protests-as-former-national-team-captain-slams-fifa-silence |title=Iranian footballers killed in protests as former national team captain slams FIFA silence |website=[[Euronews]] |date=15 January 2026 |access-date=15 January 2026 |language=en}}</ref><ref>{{Cite web |url=https://www.theguardian.com/football/2026/jan/14/iran-football-team-battle-to-be-heard-regime-protests |title=Iran's footballers face battle to be heard as regime brutally clamps down on protests |website=[[The Guardian]] |date=14 January 2026 |access-date=15 January 2026 |language=en}}</ref><ref>{{Cite web |url=https://www.theguardian.com/football/2026/jan/15/geopolitical-football-iran-trump-how-can-the-game-stand-strong-in-a-fractured-world |title=Geopolitical football: Iran? Trump? How the game can stand strong in a fractured world |website=The Guardian |date=15 January 2026 |access-date=15 January 2026 |language=en}}</ref>
+
+Following the massacres, activists called on FIFA to ban the Iranian national team from the 2026 FIFA World Cup.<ref>{{Cite web |url=https://www.foxnews.com/world/kick-iran-out-olympics-world-cup-execution-over-30-athletes-activists-demand |title=Kick Iran out of Olympics, World Cup for execution of over 30 athletes, activists demand |date=7 February 2026}}</ref><ref>{{Cite web |url=https://www.iranintl.com/202602072057 |title=مخالفان خواستار اخراج جمهوری اسلامی از المپیک و جام جهانی به دلیل اعدام ورزشکاران هستند |date=7 February 2026}}</ref> [[Ali Karimi]], a former footballer for the Iran national team, along with a coalition of prominent Iranians, wrote an open letter to FIFA and all its member associations, calling on FIFA president [[Gianni Infantino]] to speak up on the protest deaths.<ref>{{cite web|last=Aarons |first=Ed |url=https://www.theguardian.com/football/2026/jan/26/iran-football-ali-karimi-infantino-fifa-protest-deaths |title=Iran football great Ali Karimi leads call for Infantino to speak up on protest deaths |date=January 26, 2026 |website=[[The Guardian]] |access-date=February 8, 2026}}</ref> Following the protests and ensuing crackdown, the [[Royal Spanish Football Federation|Spanish Football Federation]] reportedly pulled out of a planned friendly match with Iran.<ref>{{Cite web |url=https://www.iranintl.com/en/202602122069 |title=Spain pulls out of soccer match with Iran's national team - report |date=12 February 2026}}</ref>
+
+Amid the [[2026 Iran war|Iran war]], [[Sardar Azmoun]] was reportedly expelled from the national team after posting a picture of himself with the ruler of the UAE on social media.<ref>{{Cite web|url=https://www.aljazeera.com/sports/2026/3/20/iran-footballer-azmoun-kicked-off-national-team-for-disloyalty-say-reports|title=Iran footballer Azmoun kicked off national team for disloyalty, say reports|website=Aljzeera.com|access-date=16 June 2026}}</ref> On 30 April 2026, [[2026 Iranian diaspora protests|protests]] were held outside the 2026 [[FIFA Congress]] in [[Vancouver]], calling on FIFA to ban the Iranian team and stating that it represents and recruits players from the [[Islamic Revolutionary Guard Corps]] (IRGC) instead of the people of Iran.<ref>{{cite web|url=https://www.reuters.com/sports/soccer/they-are-not-representing-iran-protesters-urge-fifa-ban-iran-world-cup-2026-04-30/|title=They are not representing Iran': protesters urge FIFA to ban Iran from World Cup|website=Reuters.com|access-date=16 June 2026}}</ref>
+
+On 19 May, it was reported that FIFA would again [[List of 2026 FIFA World Cup controversies#Protests and massacres in Iran|ban]] the pre-revolutionary [[Lion and Sun flag]] from World Cup stadiums, [[List of 2022 FIFA World Cup controversies#Iranian protests|similar to previous World Cups]].<ref>{{Cite web|url=https://www.nytimes.com/athletic/7288376/2026/05/19/world-cup-fifa-iran-flag/|title=FIFA will again prohibit the pre-revolutionary Iran flag in World Cup stadiums|first1=Adam|last1=Crafton|first2=Christopher|last2=Kamrani|date=19 May 2026|access-date=16 June 2026|website=Nytimes.com}}</ref><ref>{{Cite web|url=https://www.iranintl.com/en/202605195257|title=FIFA to ban pre-revolutionary Iran flag at World Cup - Athletic|date=19 May 2026|website=Iranintl.com|access-date=16 June 2026}}</ref> On 25 May, President [[Claudia Sheinbaum]] announced that Mexico will host the team for the World Cup after Trump administration refused to host the team in the United States during [[2026 Iran war|its war against Iran]].<ref>{{Cite news |date=25 May 2026 |title=Mexico to host Iran's World Cup team after US refusal, president says |url=https://www.straitstimes.com/sport/football/mexico-to-host-irans-world-cup-team-after-us-refusal-president-says |access-date=25 May 2026 |agency=[[Reuters]]|publisher=The Straits Times}}</ref>
+
+====US visa disputes====
+
+According to reports, several members of the support staff for the Iranian national football team were denied entry visas to the United States, leading to a diplomatic dispute just days before the team was scheduled to compete in the 2026 FIFA World Cup.<ref>{{Cite web |title=Iran 2026 World Cup squad heads to Mexico as US visa dispute erupts |url=https://www.aljazeera.com/sports/2026/6/6/iran-2026-world-cup-squad-heads-to-mexico-as-us-visa-dispute-erupts |access-date=2026-06-09 |website=Al Jazeera |language=en}}</ref> The Iranian embassy in [[Turkey]] issued a statement claiming that visas were refused for "a large part of the management and executive staff, technical advisors, and others who are an integral part of any national football team," arguing that the United States government was "effectively depriving the Iranian national team of its right to play in the World Cup under normal conditions and without undue pressure and stress."
+
+Among those reportedly excluded from receiving visas was [[Mehdi Taj]], the head of the Football Federation Islamic Republic of Iran (FFIRI). The [[Tasnim News Agency|Tasnim news agency]] reported that three additional FFIRI officials—executive director Mehdi Kharati, secretary general Hedayat Mombini, and media director Mohsen Motamedkia—had also not received visas, and were expected to travel with the team to Mexico while efforts to secure them continued. In response, the [[Football Federation Islamic Republic of Iran|FFIRI]] issued a statement asserting that the conduct of the United States, as a co-host of the tournament, "contradicts international sporting rules," and that "the US government, continuing its hostile actions against the Iranian national team, has taken an unsportsmanlike and purely political decision to deny visas to key management and administrative members of the Iranian national football team." The federation also called on FIFA, as the world governing body of football, to pursue and finalize visa arrangements for the team's managerial, executive, technical, and support staff.<ref>{{Cite web |date=2026-06-06 |title=Iran says soccer staff denied visas for World Cup |url=https://www.politico.com/news/2026/06/06/iran-soccer-visas-world-cup-00952705 |access-date=2026-06-09 |website=POLITICO |language=en}}</ref>
+
+Meanwhile, Iran's ambassador to Mexico, Abolfazl Pasandideh, told reporters that the squad had been informed that under the terms of the visas issued, the team must enter and leave United States territory on the same day as its matches, adding: "We can enter in the morning and we must leave the same day."<ref>{{Cite news |last=Abnos |first=Alexander |date=2026-06-06 |title=Iran World Cup team travels to Mexico with US visas reportedly denied for several staff |url=https://www.theguardian.com/football/2026/jun/06/iran-world-cup-visas-mexico |access-date=2026-06-09 |work=The Guardian |language=en-GB |issn=0261-3077}}</ref>
+
+=== 2026 World Cup ===
+Despite the visa dispute and training in Mexico, the Iranian national team flew to the US for its first two games in the tournament. In the first game Iran came twice from behind to draw 2-2 against New Zealand, with R. Rezaeian M. Mohebi scoring for Iran.<ref>{{Cite web |last=Emons |first=Live ReportingMichael |title=Iran 2-2 New Zealand: Elijah Just scores twice in entertaining Group G draw |url=https://www.bbc.com/sport/football/live/c23yvpljjl9t |access-date=2026-06-22 |website=BBC Sport |language=en-GB}}</ref> Mohammad Mohebi's goal celebration sparked controversy after he appeared to mimic a finger-gun gesture while celebrating. The match was already politically charged, with pre-revolutionary Iranian flags visible in the crowd despite FIFA's restrictions. The incident added another layer of debate, as social media users widely discussed the meaning and appropriateness of the celebration. Mohebi later denied any political intent, stating that it was simply a celebratory gesture and nothing more.<ref>{{Cite news |title=Iran ‘gun’ act stuns World Cup, star responds |url=https://www.news.com.au/sport/football/world-cup/iran-gun-celebration-stuns-world-cup-as-star-explains-reason-for-gesture/news-story/27058eb6f3b0e50ce4fb857a74e16bb0 |archive-url=http://web.archive.org/web/20260618135812/https://www.news.com.au/sport/football/world-cup/iran-gun-celebration-stuns-world-cup-as-star-explains-reason-for-gesture/news-story/27058eb6f3b0e50ce4fb857a74e16bb0 |archive-date=2026-06-18 |access-date=2026-06-22 |work=news.com.au |language=en-AU}}</ref><ref>{{Cite news |date=2026 |title=FIFA World Cup: Iran's Mohammad Mohebi Does 'Gun Firing Celebration' After Goal, Sparks Controversy |url=https://sports.ndtv.com/fifa-world-cup-2026/fifa-world-cup-irans-mohammad-mohebi-does-gun-firing-celebration-after-goal-sparks-controversy-11642050}}</ref> In its second game Iran drew 0-0 against Belgium.<ref>{{Cite web |last=Coates |first=Live ReportingCharlotte |title=Belgium 0-0 Iran: Nathan Ngoy sent off as Red Devils' World Cup fate goes to final group game |url=https://www.bbc.com/sport/football/live/clyr5n2xqd2t |access-date=2026-06-22 |website=BBC Sport |language=en-GB}}</ref> It was reported that the team left a handwritten note in the dressing room of [[SoFi Stadium]] after the game calling for peace: "may peace, respect and friendship prevail among all nations".<ref>{{Cite web |date=2026-06-22 |title=World Cup 2026: Iran leave message asking for peace after Belgium draw |url=https://www.bbc.com/sport/football/articles/cwy0ppqx1p9o |access-date=2026-06-22 |website=BBC Sport |language=en-GB}}</ref> They left a similar message in the dressing room of [[Lumen Field]] after their third and final game of the tournament against Egypt which ended 1-1.<ref>{{Cite web |last=read |first=Josh Barker·2 min |date=2026-06-27 |title=Iran leave second handwritten note in dressing room after final World Cup group game in US |url=https://sports.yahoo.com/articles/iran-leave-second-handwritten-note-093000796.html |access-date=2026-06-28 |website=Yahoo Sports |language=en-US}}</ref><ref>{{Cite web |last=Reuters |date=2026-06-27 |title=Iran leaves handwritten note after Egypt draw, says fair play is soul of football |url=https://sportstar.thehindu.com/football/fifa-world-cup/fifa-world-cup-iran-thank-you-note-seattle-fans-soul-of-football-knockouts-update-football/article71155481.ece |access-date=2026-06-28 |website=Sportstar |language=en}}</ref> Despite not qualifying for the knockout round, this was the first time Iran finished an iteration of the World Cup without a loss and became the only undefeated team as well as the highest ranked team to not advance to the knockout stage.<ref>{{Cite web |date=2026-06-28 |title=Iran narrowly knocked out of tumultuous World Cup on Austria's last-second goal |url=https://apnews.com/article/iran-world-cup-2026-3d644f91e648232e2a407eab23748afd |access-date=2026-06-30 |website=AP News |language=en}}</ref><ref>{{Cite news |date=2026 |title=Late drama ends Iran's hopes of reaching World Cup knockouts for first time |url=https://www.reuters.com/sports/soccer/late-drama-ends-irans-hopes-reaching-world-cup-knockouts-first-time-2026-06-28}}</ref><ref>{{Cite news |last=sport |first=Guardian |date=2026-06-28 |title=Iran and South Korea miss out on World Cup last 32 in dramatic third-place race |url=https://www.theguardian.com/football/2026/jun/28/iran-south-korea-world-cup-last-32-best-third-place-finishers |access-date=2026-06-30 |work=The Guardian |language=en-GB |issn=0261-3077}}</ref>
+
+== Team image ==
+===Nicknames===
+The Iranian national team has received several nicknames by supporters and media. The most common one used is {{Transliteration|fa|Team Melli}} (meaning "National Team" in [[Persian language|Persian]]). Although the Iranian supporters have popularized {{Transliteration|fa|Team Melli}},<ref>{{#invoke:cite|web|url=http://www.goal.com/en/match/45657/uae-vs-iran/report |title=UAE 0–3 Iran: Team Melli Cruise Into Quarter-Finals |publisher=Goal.com |access-date=21 October 2013 |archive-date=24 June 2018 |archive-url=https://web.archive.org/web/20180624165159/http://www.goal.com/en/match/45657/uae-vs-iran/report |url-status=live }}</ref><ref name="Veo 2014">{{#invoke:cite|web| last=Veo | first=Valerio | title=Team Melli looked excellent in defeat | website=ESPNFC.com | date=23 November 2014 | url=http://www.espnfc.com/team/iran/469/blog/post/1901739/iran-played-to-an-impressive-1-0-loss-to-argentina-at-the-2014-world-cup | access-date=11 January 2015 | archive-date=25 December 2018 | archive-url=https://web.archive.org/web/20181225010542/http://www.espnfc.com/team/iran/469/blog/post/1901739/iran-played-to-an-impressive-1-0-loss-to-argentina-at-the-2014-world-cup%20 | url-status=live }}</ref> other nicknames for the team include {{Transliteration|fa|Shiran e Iran}}, ("[[Persian lion|Lions of Iran]]"),<ref>{{#invoke:cite|web|url=https://www.pbs.org/wgbh/pages/frontline/tehranbureau/2012/06/sports-the-lions-of-persia.html |title=The Lions of Persia |publisher=Public Broadcasting Service (PBS) |date=12 June 2012 |access-date=22 October 2013 |archive-date=23 October 2013 |archive-url=https://web.archive.org/web/20131023061144/http://www.pbs.org/wgbh/pages/frontline/tehranbureau/2012/06/sports-the-lions-of-persia.html |url-status=live }}</ref><ref>{{cite web | url=http://mentalfloss.com/article/54205/nicknames-all-32-world-cup-2014-teams | archive-url=https://web.archive.org/web/20180721162301/http://mentalfloss.com/article/54205/nicknames-all-32-world-cup-2014-teams | archive-date=21 July 2018 | title=The Nicknames of All 32 World Cup 2014 Teams | date=6 January 2014 }}</ref><ref name="varzesh11">{{#invoke:cite|web|url=http://www.varzesh11.com/fa/soccer_news_centre/news/تمجید_سایت_AFC_از_رحمان_احمدی_دروازه_بان_شیران_ایران/2426 |title=The AFC website hailed Rahman Ahmadi the goalkeeper of Iranian lions (in Persian) |publisher=Varzesh11 |access-date=22 October 2013 |archive-date=28 October 2013 |archive-url=https://web.archive.org/web/20131028211614/http://www.varzesh11.com/fa/soccer_news_centre/news/%D8%AA%D9%85%D8%AC%DB%8C%D8%AF_%D8%B3%D8%A7%DB%8C%D8%AA_AFC_%D8%A7%D8%B2_%D8%B1%D8%AD%D9%85%D8%A7%D9%86_%D8%A7%D8%AD%D9%85%D8%AF%DB%8C_%D8%AF%D8%B1%D9%88%D8%A7%D8%B2%D9%87_%D8%A8%D8%A7%D9%86_%D8%B4%DB%8C%D8%B1%D8%A7%D9%86_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86/2426 |url-status=dead }}</ref> and "Princes of Persia"<ref name="espnfc">{{#invoke:cite|web|url=http://espnfc.com/columns/story/_/id/861355/john-duerden:-asian-cup-history?cc=5901 |title=Traditional powers eye return to glory (Princes of Persia become Kings of Asia) |publisher=ESPN |date=6 January 2011 |access-date=21 October 2013 |archive-date=10 January 2014 |archive-url=https://web.archive.org/web/20140110204006/http://espnfc.com/columns/story/_/id/861355/john-duerden:-asian-cup-history?cc=5901 |url-status=live }}</ref><ref name="irandaily">{{#invoke:cite|web| url=http://www.iran-daily.com/1389/10/9/MainPaper/3858/Page/11/MainPaper_3858_11.pdf | title=Princes of Persia Rout Qatar Army | publisher=Iran-daily | access-date=22 October 2013 | archive-date=20 September 2020 | archive-url=https://web.archive.org/web/20200920173057/http://www.iran-daily.com/1389/10/9/MainPaper/3858/Page/11/MainPaper_3858_11.pdf | url-status=live }}</ref> (used since [[2011 AFC Asian Cup|AFC Asian Cup 2011]]).<ref>{{#invoke:cite|web| url=http://ireport.cnn.com/docs/DOC-534561 | title=What a despicable slogan for Iranian soccer team | publisher=CNN iReport | access-date=22 October 2013 | archive-date=23 October 2013 | archive-url=https://web.archive.org/web/20131023061544/http://ireport.cnn.com/docs/DOC-534561 | url-status=live }}</ref> Iran's slogan for the [[2014 FIFA World Cup]] was ''Honour of Persia'', selected in an internet poll held by [[FIFA]].<ref name="honourofpersia">{{#invoke:cite|news|url=http://www.cnn.com/2014/05/15/sport/football/world-cup-slogans-football/|title=World Cup 2014: FIFA's bus slogans cause misery and mirth on social media|first=Matt |last=Knight|date=15 May 2014|work=CNN|access-date=16 May 2014|archive-date=22 June 2014|archive-url=https://web.archive.org/web/20140622224001/http://www.cnn.com/2014/05/15/sport/football/world-cup-slogans-football|url-status=live}}</ref><ref name="fifa.slogans2014">{{#invoke:cite|web|url=https://www.fifa.com/worldcup/games/be-there-with-hyundai/winning-slogans |archive-url=https://web.archive.org/web/20140518031244/http://www.fifa.com/worldcup/games/be-there-with-hyundai/winning-slogans/ |url-status=dead |archive-date=18 May 2014 |title=The Winners |publisher=fifa.com|access-date=10 June 2014}}</ref> A more recently used nickname, due to the presence of the [[Asiatic cheetah]] on the 2014 World Cup jersey, is {{Transliteration|fa|Yuzpalangan}} which means "The Cheetahs";<ref name="PersianFootball.com">{{#invoke:cite|web|url=http://www.persianfootball.com/news/2014/02/01/irans-world-cup-kit-unveiled-photos/|title=Iran's World Cup kits unveiled [PHOTOS]|publisher=PersianFootball.com|access-date=1 February 2014|archive-date=3 February 2014|archive-url=https://web.archive.org/web/20140203073932/http://www.persianfootball.com/news/2014/02/01/irans-world-cup-kit-unveiled-photos/|url-status=live}}</ref> the team mascot "Yupa" is also a cheetah,<ref>{{#invoke:cite|web|date=2018-05-19 |title=Iran national football teams' mascot unveiled |url=https://www.tehrantimes.com/news/423740/Iran-national-football-teams-mascot-unveiled |access-date=2023-04-02 |website=Tehran Times |language=en}}</ref> although this has been seen as a government propaganda ploy to wane people away from the lion nickname due to the pre-revolutionary [[Lion and Sun]].<ref>{{cite journal | url=https://journals.sagepub.com/doi/abs/10.1177/10126902251330409 | doi=10.1177/10126902251330409 | title=Political protest on the Persian Twittersphere: Examining the dichotomy of World Cup framing by the Iranian regime's proponents and opponents | date=2025 | last1=Latififard | first1=Mahdi | last2=Sadri | first2=Sean R. | last3=Billings | first3=Andrew C. | last4=Yadegari | first4=Amin | journal=International Review for the Sociology of Sport | article-number=10126902251330409 | url-access=subscription }}</ref><ref>{{cite web | url=https://financialtribune.com/articles/sports/85337/team-melli-s-controversial-kit-will-be-unveiled | title=Team Melli's Controversial Kit Will be Unveiled &#124; FinancialTribune | date=25 April 2018 }}</ref>
+
+===Kits and crests===
+{{Commons|Iran national football team kits}}
+Traditionally, Iran national football team's home kit is white, and the away kit is red. Sometimes, green shirts with white shorts and red socks are used.
+
+====Kit suppliers====
+The table below shows the history of kit suppliers for the Iranian national football team.
+{| class="wikitable"
+|-
+! Kit supplier
+! Period
+|-
+|[[Adidas]]
+| 1978
+|-
+|[[Puma SE|Puma]]<ref>{{#invoke:cite|web|url=https://www.youtube.com/watch?v=3USDwh2yUZQ
+|title=Iran national football team (Team Melli) 1980 Asian Cup and 1980 Olympic qualifiers
+|website=YouTube
+| date=17 January 2011 |access-date=4 January 2018
+|archive-date=11 February 2019
+|archive-url=https://web.archive.org/web/20190211083731/https://www.youtube.com/watch?v=3USDwh2yUZQ&gl=US&hl=en
+|url-status=live
+}}</ref>
+| 1980
+|-
+|Amini<ref>{{#invoke:cite|web|url=http://www.varzesh3.com/news/1353457/|title=تیم ملی و آدیداس بعد از 40 سال به هم رسیدند|access-date=28 August 2016|archive-date=19 November 2021|archive-url=https://web.archive.org/web/20211119142647/https://www.varzesh3.com/news/1353457/%d8%aa%db%8c%d9%85-%d9%85%d9%84%db%8c-%d9%88-%d8%a2%d8%af%db%8c%d8%af%d8%a7%d8%b3-%d8%a8%d8%b9%d8%af-%d8%a7%d8%b2-40-%d8%b3%d8%a7%d9%84-%d8%a8%d9%87-%d9%87%d9%85-%d8%b1%d8%b3%db%8c%d8%af%d9%86%d8%af|url-status=live}}</ref>
+| 1981–1993
+|-
+|Shekari
+| 1993–1998
+|-
+|[[Puma SE|Puma]]
+| 1998–2000
+|-
+|Shekari
+| 2000–2003
+|-
+|[[Daei Sport]]
+| 2003–2006
+|-
+|[[Puma SE|Puma]]
+| 2006–2007
+|-
+|[[Merooj]]
+| 2007–2008
+|-
+|[[Daei Sport]]
+| 2008–2009
+|-
+|[[Legea]]
+| 2009–2012
+|-
+|[[Uhlsport]]<ref name="PersianFootball.com" />
+| 2012–2016
+|-
+|[[Givova]]<ref>{{#invoke:cite|web|url=http://www.varzesh3.com/news/1313518/|title=برند ایتالیایی اسپانسر تیم ملی شد|work=Varzesh3.com|access-date=30 March 2016|archive-date=19 November 2021|archive-url=https://web.archive.org/web/20211119142654/https://www.varzesh3.com/news/1313518/%d8%a8%d8%b1%d9%86%d8%af-%d8%a7%db%8c%d8%aa%d8%a7%d9%84%db%8c%d8%a7%db%8c%db%8c-%d8%a7%d8%b3%d9%be%d8%a7%d9%86%d8%b3%d8%b1-%d8%aa%db%8c%d9%85-%d9%85%d9%84%db%8c-%d8%b4%d8%af|url-status=live}}</ref>
+| 2016
+|-
+|[[Adidas]]<ref>{{#invoke:cite|web|url=http://90tv.ir/news/294431/توافق-حاصل-شد-تیم-ملی-آدیداس-می-پوشد|title=توافق حاصل شد/ تیم ملی آدیداس می پوشد|work=90tv.ir|access-date=27 August 2016|archive-date=29 August 2016|archive-url=https://web.archive.org/web/20160829081229/http://90tv.ir/news/294431/%D8%AA%D9%88%D8%A7%D9%81%D9%82-%D8%AD%D8%A7%D8%B5%D9%84-%D8%B4%D8%AF-%D8%AA%DB%8C%D9%85-%D9%85%D9%84%DB%8C-%D8%A2%D8%AF%DB%8C%D8%AF%D8%A7%D8%B3-%D9%85%DB%8C-%D9%BE%D9%88%D8%B4%D8%AF|url-status=live}}</ref>
+| 2016–2019
+|-
+|[[Uhlsport]]
+| 2019–2022
+|-
+|[[Merooj]]<ref>{{#invoke:cite|web|date=2022-07-24 |title=نتیجه مزایده اسپانسر تیم ملی فوتبال ایران چطور تغییر کرد؟ |url=https://www.mehrnews.com/news/5541945/نتیجه-مزایده-اسپانسر-تیم-ملی-فوتبال-ایران-چطور-تغییر-کرد |access-date=2023-03-20 |website=Mehr News Agency |language=fa}}</ref>
+| 2022–present
+|-
+|}
+
+===Sponsorship===
+<!-- Primary sponsors include [[Adidas]], [[Bank Pasargad]], [[Mobile Telecommunication Company of Iran|9090]], [[Golrang Industrial Group|Golrang]], Oila and Kaspid.<ref>{{cite web|url=http://www.ffiri.ir/|title=فدراسیون فوتبال جمهوری اسلامی ایران|work=ffiri.ir|access-date=19 August 2008|archive-url=https://web.archive.org/web/20170807234254/http://www.ffiri.ir/|archive-date=7 August 2017|url-status=dead}}</ref>
+ -->
+On 1 February 2014, Iran announced the addition of the endangered [[Asiatic cheetah]] on their [[2014 FIFA World Cup]] [[Kit (association football)|kits]] to bring attention to its conservation efforts.<ref name="PersianFootball.com" />
+
+===Rivalries===
+{{Main|Iran–Iraq football rivalry|Iran–Saudi Arabia football rivalry}}
+
+Iran and [[Iraq national football team|Iraq]] are neighboring rivals.<ref>{{Cite news|title=Iran vs Iraq – tension, admiration and 'one of the best atmospheres in world football'|url=https://www.nytimes.com/athletic/3093349/2022/01/27/iran-v-iraq-tension-admiration-and-one-of-the-best-atmospheres-in-world-football/|work=The New York Times|date=2022-01-27|access-date=2025-11-30|issn=0362-4331|language=en-US|first=Peter|last=Rutzler}}</ref><ref>{{Cite web|title=It's not war, it's a football match say Iran and Iraq|url=https://www.dawn.com/news/597624/its-not-war-its-a-football-match-say-iran-and-iraq|website=Dawn|date=2011-01-10|access-date=2025-11-30|language=en}}</ref> According to the ''[[Malay Mail]]'', "Emotions are always high when Iran and Iraq meet on the football pitch". In the contemporary era, especially during the reign of [[Saddam Hussein]], the two countries had worsened relations and fought the [[Iran–Iraq War]] for 8 years.<ref name="ESPN">{{#invoke:cite|web|last=Duerden |first=John |title=Asia awaits neighbourly rivalry |url=http://www.espnfc.com/story/863589 |url-status=live |archive-url=https://web.archive.org/web/20170905023944/http://www.espnfc.com/story/863589 |archive-date=5 September 2017 |access-date=22 November 2014 |work=[[ESPN]]}}</ref><ref name="CNN">{{#invoke:cite|web|last=Montague |first=James |date=13 January 2011 |title=Pitch Warfare: Iran face Iraq in soccer grudge match |url=http://edition.cnn.com/2011/SPORT/01/11/football.asian.iraq.iran/ |url-status=live |archive-url=https://web.archive.org/web/20170905001230/http://edition.cnn.com/2011/SPORT/01/11/football.asian.iraq.iran/ |archive-date=5 September 2017 |access-date=21 November 2014 |work=[[CNN]]}}</ref><ref name="Iran Daily">{{#invoke:cite|news|date=5 November 2014 |title=Iran-Iraq classic rivalry |page=11 |newspaper=[[Iran Daily]] |number=4924 |url=http://newspaper.iran-daily.com/newspaper/page/4924/11/21845/0 |url-status=live |access-date=5 May 2017 |archive-url=https://web.archive.org/web/20170905002709/http://newspaper.iran-daily.com/newspaper/page/4924/11/21845/0 |archive-date=5 September 2017}}</ref><ref>{{#invoke:cite|web|title=Iraq vs. Iran a 53 years old rivalry |url=http://www.teammelli.com/2015/01/21/iraq-vs-iran-a-53-years-old-rivalry/ |url-status=live |archive-url=https://web.archive.org/web/20170905005210/http://www.teammelli.com/2015/01/21/iraq-vs-iran-a-53-years-old-rivalry/ |archive-date=5 September 2017 |access-date=20 May 2017 |work=Team Melli}}</ref><ref name="BBC">{{#invoke:cite|news|title=Trouble flares after Iran beat Iraq |work=[[BBC]] |date=12 October 2001 |url=http://news.bbc.co.uk/sport1/hi/football/world_cup_2002/1595244.stm |url-status=live |access-date=20 May 2017 |archive-url=https://web.archive.org/web/20211119142641/http://news.bbc.co.uk/sport2/hi/football/world_cup_2002/1595244.stm |archive-date=19 November 2021}}</ref> In 2001, for the first time in decades, an Iran-Iraq match was not held at a neutral venue.<ref name="Iran Daily" /> The rivalry was escalated after Iraq knocked Iran out of the [[2015 AFC Asian Cup]] in controversial circumstances.<ref name="ABC">{{#invoke:cite|news|date=25 January 2015 |title=Asian Cup: Iran claims Iraq's Alaa Abdul-Zahra tested positive, lodges complaint about quarter-final result |work=ABC News |url=http://www.abc.net.au/news/2015-01-25/iran-lodges-complaint-over-asian-cup-quarter-final-result/6045114 |url-status=live |access-date=5 May 2017 |archive-url=https://web.archive.org/web/20160703101908/http://www.abc.net.au/news/2015-01-25/iran-lodges-complaint-over-asian-cup-quarter-final-result/6045114 |archive-date=3 July 2016}}</ref><ref>{{#invoke:cite|news|date=25 January 2015 |title=AFC rejects Iranian protest over Iraqi player ineligibility |url=http://www.iraqinews.com/sports/afc-rejects-iranian-protest-over-iraqi-player-ineligibility/ |url-status=live |access-date=5 May 2017 |archive-url=https://web.archive.org/web/20170905003911/http://www.iraqinews.com/sports/afc-rejects-iranian-protest-over-iraqi-player-ineligibility/ |archive-date=5 September 2017}}</ref> Iran leads the series with 18 wins, 7 draws and 6 losses.
+
+Iran and [[Saudi Arabia national football team|Saudi Arabia]] are ideological rivals.<ref name="FIFA">{{#invoke:cite|web|url=https://www.fifa.com/classicfootball/matches/qualifiers/match=2712/index.html|archive-url=https://web.archive.org/web/20130105035322/http://www.fifa.com/classicfootball/matches/qualifiers/match=2712/index.html|url-status=dead|archive-date=5 January 2013|title=Saudi Arabia VS Iran: Launch pad for Saudi reign|date=28 October 1993|access-date=21 November 2014|work=[[FIFA]].com}}</ref> The game was ranked eighth in ''[[Goal.com]]'s'' 2010 list of "Football's 10 Greatest International Rivalries".<ref name="Goal.com">{{#invoke:cite|web|url=http://www.goal.com/en/news/2377/top-10/2010/11/17/2216499/footballs-10-greatest-international-rivalries-argentina|first=Peter|last=Staunton|title=Football's 10 Greatest International Rivalries; Argentina – Brazil, Portugal – Spain, Algeria – Egypt, Japan – South Korea And More|date=17 November 2010|access-date=21 November 2014|work=Goal.com|archive-date=22 June 2019|archive-url=https://web.archive.org/web/20190622153351/https://www.goal.com/en/news/2377/top-10/2010/11/17/2216499/footballs-10-greatest-international-rivalries-argentina|url-status=live}}</ref> and ninth in ''[[Bleacher Report]]'s'' 2014 list of "International Football's 10 Most Politically-Charged Football Rivalries"<ref name="Bleacher Report">{{#invoke:cite|web|url=http://stag-br-app-s5.brenv.net/articles/2233242-international-footballs-10-most-politically-charged-football-rivalries/page/3|first=Jerrad|last=Peters|title=International Football's 10 Most Politically-Charged Football Rivalries|date=15 October 2014|access-date=21 November 2014|work=[[Bleacher Report]]|url-status=dead|archive-url=https://web.archive.org/web/20151017205954/http://stag-br-app-s5.brenv.net/articles/2233242-international-footballs-10-most-politically-charged-football-rivalries/page/3|archive-date=17 October 2015}}</ref> All of their matches have been competitive; none of them were [[Exhibition game|friendlies]]. The first match was played on 24 August 1975, with Iran defeating Saudi Arabia 3–0. Iran leads the series with 5 wins, 6 draws and 4 losses.
+
+===Stadiums===
+{{Main|Iran national football team records#Home record}}
+
+[[File:Azadi Stadium 1991.PNG|thumb|[[Azadi Stadium]], 1991]]
+Since 1972, Iran's national stadium has been [[Tehran]]'s [[Azadi Stadium]] with a nominal capacity of 78,116 spectators.<ref>{{#invoke:cite|web|url=http://www.varzesh3.com/news/1343153/|title=Azadi Stadium Capacity|date=23 July 2016|work=Varzesh3|access-date=24 July 2016|archive-date=29 July 2017|archive-url=https://web.archive.org/web/20170729005246/http://www.varzesh3.com/news/1343153|url-status=live}}</ref> Azadi Stadium is the [[List of association football stadia by capacity|28th largest association football stadium in the world, seventh in Asia and first in West Asia]]. A record was set in Azadi for the [[1998 FIFA World Cup qualification (AFC–OFC play-off)|1998 FIFA World Cup qualifier]] against [[Australia men's national soccer team|Australia]] with over 128,000 in attendance.<ref name="fifa97">{{#invoke:cite|web|url=https://www.fifa.com/classicfootball/matches/qualifiers/match=8705/index.html|archive-url=https://web.archive.org/web/20130425053310/http://www.fifa.com/classicfootball/matches/qualifiers/match=8705/index.html|url-status=dead|archive-date=25 April 2013|title=Classic Football|work=FIFA.com}}</ref> Since [[Iranian Revolution|1979]], the government [[Football revolution|restricts]] [[Women in Iran|Iranian women]] from entering the stadiums.<ref>{{#invoke:cite|web|url=https://www.telegraph.co.uk/women/womens-life/10927470/World-Cup-ban-Irans-women-just-dont-care.html|title=World Cup ban? Iran's women just don't care|date=26 June 2014|work=Telegraph.co.uk|access-date=3 April 2018|archive-date=19 March 2018|archive-url=https://web.archive.org/web/20180319161850/https://www.telegraph.co.uk/women/womens-life/10927470/World-Cup-ban-Irans-women-just-dont-care.html|url-status=live}}</ref><ref>{{#invoke:cite|web|url=https://bleacherreport.com/articles/2782231-women-allowed-into-iran-football-stadium-for-the-first-time-since-1979 |title=Women Allowed into Iranian Football Stadium for the 1st Time Since 1979 |website=[[Bleacher Report]] |access-date=27 October 2022 |archive-date=27 October 2022 |archive-url=https://web.archive.org/web/20221027182447/https://bleacherreport.com/articles/2782231-women-allowed-into-iran-football-stadium-for-the-first-time-since-1979 |url-status=live }}</ref> However, FIFA condemned the move and wrote to Iranian Football Federation in June 2019. The federation in their letter gave deadline to uplift the restrictions and let women enter the stadiums. On 25 August 2019, deputy Sports Minister Jamshid Taghizadeh stated: "Women can go to Tehran's Azadi stadium to watch the match between Iran's national team and Cambodia in October for the Qatar World Cup qualifier.”<ref>{{#invoke:cite|web|url=https://nnn.com.ng/2019/08/25/iranian-women-allowed-to-watch-world-cup-qualifier-in-stadium-official/|title=Sport Iranian women allowed to watch World Cup qualifier in stadium – official|date=25 August 2019|access-date=25 August 2019|publisher=NNN|archive-date=29 August 2019|archive-url=https://web.archive.org/web/20190829141337/https://nnn.com.ng/2019/08/25/iranian-women-allowed-to-watch-world-cup-qualifier-in-stadium-official/|url-status=live}}</ref> After the [[death of Sahar Khodayari]], select Iranian women were allowed to attend the match against Cambodia in October 2019.<ref name=reuters-40-yrs/> However, in March 2022, Iranian women were again blocked from entering the stadium for a FIFA World Cup qualifier.<ref>{{#invoke:cite|web|url=https://www.hrw.org/news/2022/03/31/iran-women-blocked-entering-stadium |title=Iran: Women Blocked from Entering Stadium |date=31 March 2022 |access-date=27 October 2022 |archive-date=26 October 2022 |archive-url=https://web.archive.org/web/20221026010926/https://www.hrw.org/news/2022/03/31/iran-women-blocked-entering-stadium |url-status=live }}</ref>
+
+From 1942 to 1972, [[Amjadieh Stadium]] was Iran's national stadium. Other stadiums that Iran has played international games at are [[Takhti Stadium (Tabriz)|Bagh Shomal]] and [[Yadegar-e-Emam Stadium (Tabriz)|Yadegar Emam Stadium]] ([[Tabriz]]), [[Takhti Stadium (Tehran)|Takhti Stadium]] ([[Tehran]]), [[Enghelab Stadium]] ([[Karaj]]), [[Hafezieh Stadium]] ([[Shiraz]]), [[Takhti Stadium (Mashhad)|Takhti Stadium]] and [[Imam Reza Stadium]] ([[Mashhad]]).
+
+The [[Iran National Football Camp]] is the team's training ground.
+
+== Results and fixtures ==
+[[File:Iran national football team opponents.png|thumb|right|300px|All opponents that the Iran football team has played at least once]]
+{{Main|Iran national football team results|Iran national football team records and statistics#Head-to-head records}}
+
+{{Further|Iran national football team results (2020–present)}}
+The following is a list of match results in the last 12 months, as well as any future matches that have been scheduled.
+
+{{legend2|#CCFFCC|Win|border=1px solid #AAAAAA}}
+{{legend2|#FFFFCC|Draw|border=1px solid #AAAAAA}}
+{{legend2|#FFCCCC|Loss|border=1px solid #AAAAAA}}
+{{legend2|#FFFFFF|Fixture|border=1px solid #AAAAAA}}
+
+===2025===
+{{Football box collapsible
+| format     = 1
+| round      = [[2025 CAFA Nations Cup]]
+| date       = 29 August
+| time       = 15:30 
+| team1      = {{fb-rt|IRN}}
+| score      = 3–1
+| team2      = {{fb|AFG}}
+| report     = 
+| goals1     =
+*[[Majid Aliyari|Aliyari]] {{goal|26||64}}
+*[[Amir Hossein Hosseinzadeh|Hosseinzadeh]] {{goal|37}}
+| goals2     =
+*[[Omid Musawi|Musawi]] {{goal|21}}
+| location   = [[Hisar (Tajikistan)|Hisor]], Tajikistan
+|stadium    = [[Hisor Central Stadium]]
+| attendance = 
+| referee    = Sanzhar Zhakypbekov ([[Kyrgyz Football Union|Kyrgyzstan]])
+| result     = W
+}}
+{{Football box collapsible
+| format     = 1
+| round      = [[2025 CAFA Nations Cup]]
+| date       = 1 September
+| time       = 15:30
+| team1      = {{fb-rt|IND}}
+| score      = 0–3
+| team2      = {{fb|IRN}}
+| report     = 
+| goals1     =
+| goals2     =
+*[[Amir Hossein Hosseinzadeh|Hosseinzadeh]] {{goal|59}}
+*[[Ali Alipour|Alipour]] {{goal|89}}
+*[[Mehdi Taremi|Taremi]] {{goal|90+6}}
+| location   = [[Hisar (Tajikistan)|Hisor]], Tajikistan
+|stadium    = [[Hisor Central Stadium]]
+| attendance = 
+| referee    = Ilgiz Tantashev ([[Uzbekistan Football Association|Uzbekistan]])
+| result     = W
+}}
+{{Football box collapsible
+| format     = 1
+| round      = [[2025 CAFA Nations Cup]]
+| date       = 4 September
+| time       = 19:00
+| team1      = {{fb-rt|TJK}}
+| score      = 2–2 
+| team2      = {{fb|IRN}}
+| report     = 
+| goals1     =
+*[[Shahrom Samiev|Samiev]] {{goal|54}}
+*[[Zoir Dzhuraboyev|Dzhuraboyev]] {{goal|76}}
+| goals2     =
+*[[Mohammad Mehdi Mohebi]] {{goal|38}}
+*[[Mohammad Mohebi]] {{goal|47}}
+| location   = [[Hisar (Tajikistan)|Hisor]], Tajikistan
+|stadium    = [[Hisor Central Stadium]]
+| attendance = 
+| referee    = Axrol Riskullayev ([[Uzbekistan Football Association|Uzbekistan]])
+| result     = D
+}}
+{{Football box collapsible
+| format     = 1
+| round      = [[2025 CAFA Nations Cup]]
+| date       = 8 September
+| time       = {{UTZ|19:30|+5}}
+| team1      = {{fb-rt|UZB}}
+| score      = 1–0
+| aet        = Yes
+| team2      = {{fb|IRN}}
+| report     = https://www.flashscore.com/match/football/iran-xrRx85iA/uzbekistan-EZYKKRMc/?mid=pG8Jdwgm
+| goals1     =
+*[[Khojiakbar Alijonov|Alijonov]] {{goal|120}}
+| goals2     =
+| location   = [[Tashkent]], Uzbekistan
+| stadium    = [[Olympic City Stadium]]
+| attendance = 11,482
+| referee    = Nurzatbek Abdıkadırov ([[Kyrgyz Football Union|Kyrgyzstan]])
+| result     = L
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[Exhibition game#Association football|Friendly]]
+|date       = 10 October
+|time       = {{UTZ|20:00|+3}}
+|team1      = {{fb-rt|RUS}}
+|score      = 2–1
+|team2      = {{fb|IRN}}
+|report     = https://www.soccerway.com/match/iran-xrRx85iA/russia-hrgrswHh/?mid=zw3eaSz9
+|goals1     =
+*[[Dmitry Vorobyov (footballer)|Vorobyov]] {{goal|22}}
+*[[Aleksei Batrakov|Batrakov]] {{goal|70}}
+|goals2     =
+*[[Amirhossein Hosseinzadeh|Hosseinzadeh]] {{goal|48}}
+|location   = [[Volgograd]], Russia
+|stadium    = [[Volgograd Arena]]
+|attendance = 42,387
+|referee    = [[Nikola Dabanović]] ([[Football Association of Montenegro|Montenegro]])
+|result     = L
+}}
+{{Football box collapsible
+| format     = 1
+| round      = [[Exhibition game#Association football|Friendly]]
+| date       = 14 October
+| time       = {{UTZ|20:00|+4}}
+| team1      = {{fb-rt|IRN}}
+| score      = 2–0
+| team2      = {{fb|TAN}}
+| report     = https://www.espn.com/soccer/match/_/gameId/759665/tanzania-iran
+| goals1     =
+*[[Amirhossein Hosseinzadeh|Hosseinzadeh]] {{goal|17|pen}}
+*[[Mohammad Mohebi|Mohebi]] {{goal|26}}
+| goals2     =
+| location   = [[Dubai]], United Arab Emirates
+| stadium    = [[Rashid Stadium]]
+| attendance = 
+| referee    = Adel Al Naqbi ([[United Arab Emirates Football Association|United Arab Emirates]])
+| result     = W
+}}
+{{Football box collapsible
+| format     = 1
+| round      = [[2025 Al Ain International Cup#Semi-finals|2025 Al Ain International Cup semi-final]]
+| date       = 13 November
+| time       = {{UTZ|20:00|+4}}
+| team1      = {{fb-rt|IRN}}
+| score      = 0–0
+| team2      = {{fb|CPV}}
+| report     = https://globalsportsarchive.com/en/soccer/match/2025-11-13/ir-iran-vs-cabo-verde/3912565
+| goals1     =
+| goals2     =
+| penaltyscore = 5–4
+| penalties1 =
+*[[Omid Noorafkan|Noorafkan]] {{pengoal}}
+*[[Ali Alipour|Alipour]] {{pengoal}}
+*[[Mohammad Mohebi|Mohebi]] {{pengoal}}
+*[[Saeid Ezatolahi|Ezatolahi]] {{pengoal}}
+*[[Mehdi Taremi|Taremi]] {{pengoal}}
+| penalties2 =
+*{{pengoal}} [[Garry Rodrigues|Rodrigues]]
+*{{pengoal}} [[Diney (footballer, born 1995)|Diney]]
+*{{pengoal}} [[David Moreira|Moreira]]
+*{{penmiss}} [[Laros Duarte|Duarte]]
+*{{pengoal}} [[Telmo Arcanjo|Arcanjo]]
+| location   = [[Al Ain]], United Arab Emirates
+| stadium    = [[Hazza bin Zayed Stadium]]
+| attendance = 634
+| referee    = Mohamed Al-Harmoodi ([[United Arab Emirates Football Association|United Arab Emirates]])
+| result     = D
+}}
+{{football box collapsible
+| format       = 1
+| round        = [[2025 Al Ain International Cup#Final|2025 Al Ain International Cup final]]
+| date         = 18 November
+| time         = {{UTZ|20:00|+4}}
+| team1        = {{fb-rt|IRN}}
+| score        = 0–0
+| team2        = {{fb|UZB}}
+| report       = https://www.soccerway.com/match/iran-xrRx85iA/uzbekistan-EZYKKRMc/?mid=GQTQKy7s
+| goals1       =
+| goals2       =
+| penaltyscore = 3–4
+| penalties1   =
+*[[Omid Noorafkan|Noorafkan]] {{pengoal}}
+*[[Mohammad Ghorbani (footballer)|Ghorbani]] {{pengoal}}
+*[[Mohammad Mehdi Mohebi|Mohebi]] {{penmiss}}
+*[[Majid Hosseini|Hosseini]] {{pengoal}}
+*[[Milad Mohammadi|Mohammadi]] {{penmiss}}
+| penalties2   =
+*{{pengoal}} [[Eldor Shomurodov|Shomurodov]]
+*{{penmiss}} [[Jamshid Iskanderov|Iskanderov]]
+*{{pengoal}} [[Abdulla Abdullaev|Abdullaev]]
+*{{pengoal}} [[Rustam Ashurmatov|Ashurmatov]]
+*{{pengoal}} [[Akmal Mozgovoy|Mozgovoy]]
+| location     = [[Al Ain]], United Arab Emirates
+| stadium      = [[Hazza bin Zayed Stadium]]
+| attendance   = 4,700
+| referee      = Ali Saeed Al-Naqbi ([[United Arab Emirates Football Association|United Arab Emirates]])
+| result       = D
+}}
+
+===2026===
+{{Football box collapsible
+|format     = 1
+|round      = [[Jordan International Tournament|2026 Jordan International Tournament]]
+|date       = 27 March
+|time       = {{UTZ|15:30|3}}
+|team1      = {{fb-rt|IRN}}
+|score      = 1–2
+|team2      = {{fb|NGA}}
+|report     = https://www.soccerway.com/match/iran-xrRx85iA/nigeria-EBE2Xb3l/?mid=028Y0vQP
+|goals1     =
+*[[Mehdi Taremi|Taremi]] {{goal|67}}
+|goals2     = 
+*[[Moses Simon|Simon]] {{goal|6}}
+*[[Akor Adams|Adams]] {{goal|51}}
+|location   = [[Antalya]], Turkey{{Efn|name="Mar26"|The four nation tournament between [[Jordan national football team|Jordan]], [[Iran national football team|Iran]], Nigeria, and [[Costa Rica national football team|Costa Rica]] were moved from [[Amman]], Jordan to Antalya, Turkey due to the travel restrictions from the [[2026 Iran war]].<ref>{{Cite web |date=14 March 2026 |title=أنطاليا تحتضن الدورة الدولية الرباعية بمشاركة النشامى |url=https://jfa.com.jo/news.php?id=31053&title=أنطاليا-تحتضن-الدورة-الدولية-الرباعية-بمشاركة-النشامى |website=[[Jordan Football Association]] |language=Arabic}}</ref>}}
+|stadium    = [[Mardan Sports Complex]]
+|attendance = 0
+|referee    = Cihan Aydın ([[Turkish Football Federation|Turkey]])
+|result     = L
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[Jordan International Tournament|2026 Jordan International Tournament]]
+|date       = 31 March
+|time       = {{UTZ|16:00|3}}
+|team1      = {{fb-rt|CRC}}
+|score      = 0–5
+|team2      = {{fb|IRN}}
+|report     = https://www.soccerway.com/match/costa-rica-C4ePE2kq/iran-xrRx85iA/?mid=jFeKizmC
+|goals1     =
+|goals2     =
+*[[Ali Gholizadeh|Gholizadeh]] {{goal|10}}
+*[[Mehdi Taremi|Taremi]] {{goal|19|pen.|34|pen.}}
+*[[Mohammad Mohebi|Mohebi]] {{goal|31}}
+*[[Mehdi Ghayedi|Ghayedi]] {{goal|54}}
+|location   = [[Antalya]], Turkey{{efn|name="Mar26"}}
+|stadium    = [[Mardan Sports Complex]]
+|attendance =
+|referee    = Cihan Aydin ([[Turkish Football Federation|Turkey]])
+|result     = W
+}}
+{{football box collapsible
+|format     = 1
+|round      = [[Exhibition game#Association football|Friendly]]
+|date       = 29 May
+|time       = 14:00
+|team1      = {{fb-rt|IRN}}
+|score      = 3–1
+|team2      = {{fb|GAM}}
+|report     = https://www.fifa.com/en/match-centre/match/cesdwwnxbc5fmajgroc0hqzy2/dezv8l0fzgcxtejl0dwmy1gyc/2m1wojm5bt709wu4kugtytxqs/4lic6qsdto0pi15b9l7a65hjo
+|goals1     = *[[Aria Yousefi|Yousefi]] {{Goal|47}}
+*[[Ramin Rezaeian|Rezaeian]] {{Goal|59}}
+*[[Mehdi Taremi|Taremi]] {{Goal|68}}
+|goals2     = *[[Omar Colley|O. Colley]] {{goal|42}}
+|location   = [[Antalya]], Turkey
+|stadium    = [[Mardan Sports Complex]]
+|attendance = 
+|referee    = {{ill|Atilla Karaoğlan|tr}} ([[Turkish Football Federation|Türkiye]])
+|result     = w
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[Exhibition game#Association football|Friendly]]
+|date       = 4 June
+|time       = 17:30
+|team1      = {{fb-rt|IRN}}
+|score      = 2–0
+|team2      = {{fb|MLI}}
+|report     = N/A
+|goals1     = 
+*[[Saeid_Ezatolahi|Ezatolahi]] {{Goal|12}}
+*[[Ramin Rezaeian|Rezaeian]] {{Goal|55}}
+|goals2     = 
+|location   = [[Antalya]], Turkey
+|stadium    = [[Mardan Sports Complex]]
+|attendance = 0
+|referee    = 
+|result     = W
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[2026 FIFA World Cup]] [[2026 FIFA World Cup Group G|Group G]]
+|date       = 15 June
+|time       = {{UTZ|18:00|-7}}
+|team1      = {{fb-rt|IRN}}
+|score      = 2–2
+|team2      = {{fb|NZL}}
+|report     = https://www.fifa.com/en/match-centre/match/17/285023/289273/400021476
+|goals1     =
+*[[Ramin Rezaeian|Rezaeian]] {{goal|32}}
+*[[Mohammad Mohebi|Mohebi]] {{goal|64}}
+|goals2=
+*[[Elijah Just|Just]] {{goal|7||54}}
+|location   = [[Inglewood, California|Inglewood]], [[California]], United States
+|stadium    = [[SoFi Stadium]]
+|attendance = 70,108
+|referee    = [[César Arturo Ramos]] ([[Mexican Football Federation|Mexico]])
+|result     = D
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[2026 FIFA World Cup]] [[2026 FIFA World Cup Group G|Group G]]
+|date       = 21 June
+|time       = {{UTZ|12:00|-7}}
+|team1      = {{fb-rt|BEL}}
+|score      = 0–0
+|team2      = {{fb|IRN}}
+|report     = https://www.fifa.com/en/match-centre/match/17/285023/289273/400021477
+|location   = [[Inglewood, California|Inglewood]], California, United States
+|stadium    = [[SoFi Stadium]]
+|attendance = 70,317
+|referee    = [[Darío Herrera (referee)|Darío Herrera]] ([[Argentine Football Association|Argentina]])
+|result     = D
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[2026 FIFA World Cup]] [[2026 FIFA World Cup Group G|Group G]]
+|date       = 26 June
+|time       = {{UTZ|20:00|-7}}
+|team1      = {{fb-rt|EGY}}
+|score      = 1–1
+|team2      = {{fb|IRN}}
+|report     = https://www.fifa.com/en/match-centre/match/17/285023/289273/400021479
+|goals1     =
+*[[Mahmoud Saber|Saber]] {{goal|5}}
+|goals2     =
+*[[Ramin Rezaeian|Rezaeian]] {{goal|14}}
+|location   = [[Seattle]], [[Washington (state)|Washington]], United States
+|stadium    = [[Lumen Field]]
+|attendance = 66,925
+|referee    = [[Szymon Marciniak]] ([[Polish Football Association|Poland]])
+|result     = D
+}}
+
+===2027===
+{{Football box collapsible
+|format     = 1
+|date       = 9 January
+|time       = {{UTZ|--:--|}}
+|round      = [[2027 AFC Asian Cup Group C|2027 Asian Cup GS]]
+|score      = 
+|report     = 
+|team1      = {{fb-rt|IRN}}
+|goals1     =
+|team2      = {{fb|CHN}}
+|goals2     =
+|stadium    = [[Kingdom Arena]] 
+|location   = [[Riyadh]], Saudi Arabia
+|attendance = 
+|referee    = 
+|result     = 
+}} 
+{{Football box collapsible
+|format     = 1
+|date       = 13 January
+|time       = {{UTZ|--:--|}}
+|round      = [[2027 AFC Asian Cup Group C|2027 Asian Cup GS]]
+|score      = 
+|report     = 
+|team1      = {{fb-rt|KGZ}}
+|goals1     =
+|team2      = {{fb|IRN}}
+|goals2     =
+|stadium    = [[Al-Shabab Club Stadium|Al Shabab Stadium]] 
+|location   = [[Riyadh]], Saudi Arabia
+|attendance = 
+|referee    = 
+|result     = 
+}}
+{{Football box collapsible
+|format     = 1
+|date       = 18 January
+|time       = {{UTZ|--:--|}}
+|round      = [[2027 AFC Asian Cup Group C|2027 Asian Cup GS]]
+|score      = 
+|report     = 
+|team1      = {{fb-rt|IRN}}
+|goals1     =
+|team2      = {{fb|SYR}}
+|goals2     =
+|stadium    = [[King Fahd Sports City Stadium]] 
+|location   = [[Riyadh]], Saudi Arabia
+|attendance = 
+|referee    = 
+|result     = 
+}}
+
+== Coaching staff ==
+[[File:Amir Ghalenoei 2019.jpg|thumb|Current head coach [[Amir Ghalenoei]]]]
+{{Main|List of Iran national football team managers}}
+
+<ref>{{#invoke:cite|web|url=https://www.hamshahrionline.ir/news/749094/%D8%AF%D8%B3%D8%AA%DB%8C%D8%A7%D8%B1%D8%A7%D9%86-%D9%82%D9%84%D8%B9%D9%87-%D9%86%D9%88%DB%8C%DB%8C-%D8%AF%D8%B1-%D8%AA%DB%8C%D9%85-%D9%85%D9%84%DB%8C-%D9%85%D8%B1%D8%A8%DB%8C-%D8%A8%D8%B1%D8%B2%DB%8C%D9%84%DB%8C-%D9%88-%DB%8C%DA%A9-%D9%BE%D8%B1%D8%B3%D9%BE%D9%88%D9%84%DB%8C%D8%B3%DB%8C-%D8%B1%D9%88%DB%8C |title=همشهری آنلاین: دستیاران قلعه نویی در تیم ملی؛ مربی برزیلی و یک پرسپولیسی روی نیمکت ایران |date=15 March 2023 |access-date=15 March 2023 |archive-date= |archive-url= |url-status= }}</ref>
+{| class="wikitable"
+|-
+!style="color:#FF0000;background:#FFFFFF|Position 
+!style="color:#FF0000;background:#FFFFFF|Name 
+|-
+| Head Coach
+|{{#invoke:flag|icon|IRN}} [[Amir Ghalenoei]]
+|-
+| rowspan="4" |Assistant Coach(es)
+|{{#invoke:flag|icon|IRN}} [[Rahman Rezaei]]
+|-
+|{{#invoke:flag|icon|IRN}} [[Andranik Teymourian]] 
+|-
+|{{#invoke:flag|icon|IRN}} [[Saeed Alhoei]]
+|-
+|{{#invoke:flag|icon|IRN}} [[Human Afazeli]]
+|-
+|Goalkeeping Coach
+|{{#invoke:flag|icon|ROM}} [[Alin Dincă]]
+|-
+| Fitness Coach
+| {{#invoke:flag|icon|IRN}} [[Ali Asghar Ghorbanalipour]]
+|-
+| Physiotherapist
+| {{#invoke:flag|icon|IRN}} [[Alireza Shahab]]
+|-
+| Team Doctor
+| {{#invoke:flag|icon|IRN}} [[Parhan Khanlari]]
+|-
+| rowspan="2" | Masseurs
+|{{#invoke:flag|icon|IRN}} [[Amir Esmaeili]]
+|-
+| {{#invoke:flag|icon|IRN}} [[Hadi Nejatpour]] 
+|-
+| Team Supervisor
+| {{#invoke:flag|icon|IRN}} [[Mehdi Kharati]]
+|-
+| Team Management
+| {{#invoke:flag|icon|IRN}} [[Mahdi Mohammadnabi]]
+|}
+
+==Players==
+===Current squad===
+The following players have been called up to participate in the [[2026 FIFA World Cup]].<ref>{{Cite web |date=4 October 2025 |title=30 بازیکن به تیم ملی فوتبال دعوت شدند |url=https://the-ffiri.com/fa/news/28384/ |website=Iran Football Federation |language=fa}}</ref>
+<br />''Caps and goals updated as of 26 June 2026, after the match against [[Egypt national football team|Egypt]].''<ref>{{Cite web |date=10 June 2025 |title=لیست 30 نفره ایران برای جام جهانی اعلام شد |url=https://www.varzesh3.com/news/2361381/%D9%81%D9%88%D8%B1%DB%8C-%D9%84%DB%8C%D8%B3%D8%AA-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AC%D8%A7%D9%85-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D8%A7%D8%B9%D9%84%D8%A7%D9%85-%D8%B4%D8%AF}}</ref>
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Alireza Beiranvand]]|sortname=Beiranvand, Alireza|age={{bda|df=y|1992|9|21}}|caps=89|goals=0|club=[[Free agent|''Unattached'']]|clubnat=}}
+{{nat fs g player|no=12|pos=GK|name=[[Payam Niazmand]]|sortname=Niazmand, Payam|age={{bda|df=y|1995|4|6}}|caps=15|goals=0|club=[[Persepolis F.C.|Persepolis]]|clubnat=IRN}}
+{{nat fs g player|no=22|pos=GK|name=[[Hossein Hosseini (footballer, born 1992)|Hossein Hosseini]]|sortname=Hosseini, Hossein|age={{bda|df=y|1992|6|30}}|caps=13|goals=0|club=[[Sepahan S.C.|Sepahan]]|clubnat=IRN}}
+{{nat fs break}}
+{{nat fs g player|no=2|pos=DF|name=[[Saleh Hardani]]|sortname=Hardani, Saleh|age={{bda|df=y|1998|12|26}}|caps=20|goals=1|club=[[Esteghlal F.C.|Esteghlal]]|clubnat=IRN}}
+{{nat fs g player|no=3|pos=DF|name=[[Ehsan Hajsafi]]|sortname=Hajsafi, Ehsan|age={{bda|df=y|1990|2|25}}|caps=148|goals=7|club=[[Sepahan S.C.|Sepahan]]|clubnat=IRN|other=[[Captain (association football)|captain]]}}
+{{nat fs g player|no=4|pos=DF|name=[[Shojae Khalilzadeh]]|sortname=Khalilzadeh, Shojae|age={{bda|df=y|1989|5|14}}|caps=61|goals=2|club=[[Tractor S.C.|Tractor]]|clubnat=IRN}}
+{{nat fs g player|no=5|pos=DF|name=[[Milad Mohammadi]]|sortname=Mohammadi, Milad|age={{bda|df=y|1993|9|29}}|caps=79|goals=1|club=[[Persepolis F.C.|Persepolis]]|clubnat=IRN}}
+{{nat fs g player|no=13|pos=DF|name=[[Hossein Kanaanizadegan]]|sortname=Kanaanizadegan, Hossein|age={{bda|df=y|1994|3|23}}|caps=67|goals=6|club=[[Persepolis F.C.|Persepolis]]|clubnat=IRN}}
+{{nat fs g player|no=17|pos=DF|name=[[Aria Yousefi]]|sortname=Yousefi, Aria|age={{bda|df=y|2002|4|22}}|caps=15|goals=1|club=[[Sepahan S.C.|Sepahan]]|clubnat=IRN}}
+{{nat fs g player|no=19|pos=DF|name=[[Ali Nemati]]|sortname=Nemati, Ali|age={{bda|df=y|1996|2|7}}|caps=21|goals=0|club=[[Foolad F.C.|Foolad]]|clubnat=IRN}}
+{{nat fs g player|no=23|pos=DF|name=[[Ramin Rezaeian]]|sortname=Rezaeian, Ramin|age={{bda|df=y|1990|3|21}}|caps=77|goals=10|club=[[Foolad F.C.|Foolad]]|clubnat=IRN}}
+{{nat fs g player|no=25|pos=DF|name=[[Danial Eiri]]|sortname=Eiri, Danial|age={{bda|df=y|2003|10|26}}|caps=0|goals=0|club=[[Malavan F.C.|Malavan]]|clubnat=IRN}}
+{{nat fs break}}
+{{nat fs g player|no=6|pos=MF|name=[[Saeid Ezatolahi]]|sortname=Ezatolahi, Saeid|age={{bda|df=y|1996|10|1}}|caps=86|goals=2|club=[[Shabab Al Ahli Club|Shabab Al-Ahli]]|clubnat=UAE}}
+{{nat fs g player|no=7|pos=MF|name=[[Alireza Jahanbakhsh]]|sortname=Jahanbakhsh, Alireza|age={{bda|df=y|1993|8|11}}|caps=101|goals=17|club=[[Free agent|''Unattached'']]|clubnat=}}
+{{nat fs g player|no=8|pos=MF|name=[[Mohammad Mohebi]]|sortname=Mohebi, Mohammad Mehdi|age={{bda|1998|12|20|df=y}}|caps=40|goals=15|club=[[FC Rostov|Rostov]]|clubnat=RUS}}
+{{nat fs g player|no=14|pos=MF|name=[[Saman Ghoddos]]||sortname=Ghoddos, Saman|age={{bda|df=y|1993|9|6}}|caps=71|goals=3|club=[[Kalba FC|Kalba]]|clubnat=UAE}}
+{{nat fs g player|no=15|pos=MF|name=[[Rouzbeh Cheshmi]]||sortname=Cheshmi, Rouzbeh|age={{bda|df=y|1993|7|24}}|caps=40|goals=3|club=[[Esteghlal F.C.|Esteghlal]]|clubnat=IRN}}
+{{nat fs g player|no=16|pos=MF|name=[[Mahdi Torabi]]|sortname=Torabi, Mahdi|age={{bda|df=y|1994|9|10}}|caps=53|goals=7|club=[[Tractor S.C.|Tractor]]|clubnat=IRN}}
+{{nat fs g player|no=21|pos=MF|name=[[Mohammad Ghorbani (footballer)|Mohammad Ghorbani]]|sortname=Ghorbani, Mohammad|age={{bda|df=y|2001|5|21}}|caps=17|goals=0|club=[[Al Wahda FC|Al-Wahda]]|clubnat=UAE}}
+{{nat fs g player|no=26|pos=MF|name=[[Amirmohammad Razzaghinia]]|sortname=Razzaghnia, Amirmohammad|age={{bda|df=y|2006|4|11}}|caps=4|goals=0|club=[[Esteghlal F.C.|Esteghlal]]|clubnat=IRN}}
+{{nat fs break}}
+{{nat fs g player|no=9|pos=FW|name=[[Mehdi Taremi]]|sortname=Taremi, Mehdi|age={{bda|df=y|1992|7|18}}|caps=108|goals=60|club=[[Olympiacos F.C.|Olympiacos]]|clubnat=GRE}}
+{{nat fs g player|no=10|pos=FW|name=[[Mehdi Ghayedi]]||sortname=Ghayedi, Mehdi|age={{bda|df=y|1998|12|5}}|caps=31|goals=10|club=[[Al-Nasr SC (Dubai)|Al-Nasr]]|clubnat=UAE}}
+{{nat fs g player|no=11|pos=FW|name=[[Ali Alipour]]|sortname=Alipour, Ali|age={{bda|df=y|1995|11|11}}|caps=15|goals=1|club=[[Persepolis F.C.|Persepolis]]|clubnat=IRN}}
+{{nat fs g player|no=18|pos=FW|name=[[Amirhossein Hosseinzadeh]]|sortname=Hosseinzadeh, Amirhossein|age={{bda|df=y|2000|10|30}}|caps=20|goals=5|club=[[Tractor S.C.|Tractor]]|clubnat=IRN}}
+{{nat fs g player|no=20|pos=FW|name=[[Shahriyar Moghanlou]]||sortname=Moghanlou, Shahriyar|age={{bda|df=y|1994|12|21}}|caps=24|goals=2|club=[[Kalba FC|Kalba]]|clubnat=UAE}}
+{{nat fs g player|no=24|pos=FW|name=[[Dennis Eckert]]||sortname=Eckert, Dennis|age={{bda|df=y|1997|1|9}}|caps=0|goals=0|club=[[Standard Liège]]|clubnat=BEL}}
+{{nat fs end}}
+
+===Recent call-ups===
+The following players have been called up to the team in the last 12 months.
+<!--Sorted by position, most recent call-up, caps, goals and last name.-->
+{{nat fs r start}}
+{{nat fs r player|no=|pos=GK|name=[[Mohammad Khalife]]||sortname=Khalife, Mohammad Reza|age={{bda|df=y|2004|8|19}}|caps=0|goals=0|club=[[Aluminium Arak F.C.|Aluminium Arak]]|clubnat=IRN|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=GK|name=[[Mohammad Reza Akhbari]]||sortname=Akhbari, Mohammad Reza|age={{bda|df=y|1993|2|15}}|caps=1|goals=0|club=[[Sepahan S.C.|Sepahan]]|clubnat=IRN|latest=v. {{fb|UZB}}, 18 November 2025}}
+{{nat fs r player|no=|pos=GK|name=[[Ahmad Gohari]]|sortname=Gohari, Ahmad|age={{bda|df=y|1996|1|12}}|caps=0|goals=0|club=[[Paykan F.C.|Paykan]]|clubnat=IRN|latest=[[2025 CAFA Nations Cup]]}}
+{{nat fs r player|no=|pos=GK|name=[[Nima Mirzazad]]|sortname=Mirzazad, Nima|age={{bda|df=y|1997|2|27}}|caps=0|goals=0|club=[[Mes Rafsanjan F.C.|Mes Rafsanjan]]|clubnat=IRN|latest=[[2025 CAFA Nations Cup]]}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=DF|name=[[Aref Aghasi]]|sortname=Aghasi, Aref|age={{bda|df=y|1997|1|2}}|caps=6|goals=0|club=[[Esteghlal F.C.|Esteghlal]]|clubnat=IRN|latest=Tehran Training Camp, 19 April 2026}}
+{{nat fs r player|no=|pos=DF|name=[[Danial Esmaeilifar]]|sortname=Esmaeilifar, Danial|age={{bda|df=y|1993|3|18}}|caps=6|goals=0|club=[[Tractor S.C.|Tractor]]|clubnat=IRN|latest=Tehran Training Camp, 19 April 2026}}
+{{nat fs r player|no=|pos=DF|name=[[Hossein Abarghouei]]|sortname=Abarghouei, Hossein|age={{bda|df=y|1997|9|17}}|caps=1|goals=0|club=[[Persepolis F.C.|Persepolis]]|clubnat=IRN|latest=Tehran Training Camp, 19 April 2026}}
+{{nat fs r player|no=|pos=DF|name=[[Masoud Mohebi]]|sortname=Mohebi, Masoud|age={{bda|df=y|2005|2|6}}|caps=0|goals=0|club=[[Kheybar Khorramabad F.C.|Kheybar]]|clubnat=IRN|latest=Tehran Training Camp, 19 April 2026}}
+{{nat fs r player|no=|pos=DF|name=[[Abolfazl Jalali]]|sortname=Jalali, Abolfazl|age={{bda|df=y|1998|6|26}}|caps=8|goals=0|club= [[Esteghlal F.C.|Esteghlal]]|clubnat=IRN|latest=v. {{fb|CRC}}, 31 March 2026}}
+{{nat fs r player|no=|pos=DF|name=[[Saman Fallah]]|sortname=Fallah, Saman|age={{bda|df=y|2001|5|12}}|caps=4|goals=0|club=[[Esteghlal F.C.|Esteghlal]]|clubnat=IRN|latest=v. {{fb|CRC}}, 31 March 2026}}
+{{nat fs r player|no=|pos=DF|name=[[Majid Hosseini]]|sortname=Hosseini, Majid|age={{bda|df=y|1996|6|20}}|caps=30|goals=0|club=[[Kayserispor]]|clubnat=TUR|latest=v. {{fb|UZB}}, 18 November 2025}}
+{{nat fs r player|no=|pos=DF|name=[[Amin Hazbavi]]|sortname=Hazbavi, Amin|age={{bda|df=y|2003|5|6}}|caps=7|goals=0|club=[[Sepahan S.C.|Sepahan]]|clubnat=IRN|latest=[[2025 Al Ain International Cup]] <sup>PRE / INJ</sup>}}
+{{nat fs r player|no=|pos=DF|name=[[Mohammadmehdi Zare|Mohammad Mehdi Zare]]|sortname=Zare, Mehdi|age={{bda|df=y|2003|1|25}}|caps=0|goals=0|club=[[FC Akhmat Grozny|Akhmat Grozny]]|clubnat=RUS|latest=v. {{fb|TAN}}, 14 October 2025}}
+{{nat fs r player|no=|pos=DF|name=[[Mohammad Naderi]]|sortname=Naderi, Mohammad|age={{bda|df=y|1996|10|5}}|caps=3|goals=0|club=[[Tractor S.C.|Tractor]]|clubnat=IRN|latest=[[2025 CAFA Nations Cup]]}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=MF|name=[[Omid Noorafkan]]||sortname=Noorafkan, Omid|age={{bda|1997|4|9|df=y}}|caps=40|goals=1|club=[[Sepahan S.C.|Sepahan]]|clubnat=IRN|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=MF|name=[[Hadi Habibinejad]]|sortname=Habibinejad, Hadi|age={{bda|df=y|1995|10|17}}|caps=1|goals=0|club=[[Chadormalou Ardakan S.C.|Chadormalou]]|clubnat=IRN|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=MF|name=[[Mehdi Hashemnejad]]|sortname=Hashemnejad, Mehdi|age={{bda|df=y|2001|10|27}}|caps=7|goals=0|club=[[Tractor S.C.|Tractor]]|clubnat=IRN|latest=Tehran Training Camp, 19 April 2026}}
+{{nat fs r player|no=|pos=MF|name=[[Mohammad Mehdi Mohebi]]|sortname=Mohebi, Mohammad Mehdi|age={{bda|df=y|2000|2|10}}|caps=4|goals=2|club=[[Sepahan S.C.|Sepahan]]|clubnat=IRN|latest=Tehran Training Camp, 19 April 2026}}
+{{nat fs r player|no=|pos=MF|name=[[Aref Haji Eydi]]|sortname=Haji Eydi, Aref|age={{bda|df=y|1999|4|6}}|caps=0|goals=0|club=[[Sepahan S.C.|Sepahan]]|clubnat=IRN|latest=Tehran Training Camp, 19 April 2026}}
+{{nat fs r player|no=|pos=MF|name=[[Ali Gholizadeh]]|sortname=Gholizadeh, Ali|age={{bda|df=y|1996|3|10}}|caps=44|goals=7|club=[[Lech Poznań]]|clubnat=POL|latest=v. {{fb|CRC}}, 31 March 2026}}
+{{nat fs r player|no=|pos=MF|name=[[Alireza Koushki]]|sortname=Koushki, Alireza|age={{bda|df=y|2000|2|16}}|caps=2|goals=0|club=[[Esteghlal F.C.|Esteghlal]]|clubnat=IRN|latest=v. {{fb|UZB}}, 18 November 2025}}
+{{nat fs r player|no=|pos=MF|name=[[Mehdi Tikdari]]|sortname=Tikdari, Mehdi|age={{bda|df=y|1996|7|12}}|caps=1|goals=0|club=[[Gol Gohar Sirjan F.C.|Gol Gohar]]|clubnat=IRN|latest=v. {{fb|UZB}}, 18 November 2025}}
+{{nat fs r player|no=|pos=MF|name=[[Mohammad Javad Hosseinnejad]]|sortname=Hosseinnejad, Mohammad Javad|age={{bda|df=y|2003|6|26}}|caps=5|goals=0|club=[[FC Dynamo Makhachkala|Dynamo Makhachkala]]|clubnat=RUS|latest=v. {{fb|TAN}}, 14 October 2025}}
+{{nat fs r player|no=|pos=MF|name=[[Mohammad Khodabandelou]]|sortname=Khodabandelou, Mohammad|age={{bda|df=y|1999|9|7}}|caps=1|goals=0|club=[[Persepolis F.C.|Persepolis]]|clubnat=IRN|latest=v. {{fb|TAN}}, 14 October 2025}}
+{{nat fs r player|no=|pos=MF|name=[[Mehran Ahmadi (footballer)|Mehran Ahmadi]]|sortname=Ahmadi, Mehran|age={{bda|df=y|1997|12|26}}|caps=2|goals=0|club=[[Esteghlal F.C.|Esteghlal]]|clubnat=IRN|latest=[[2025 CAFA Nations Cup]]}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=FW|name=[[Kasra Taheri]]|sortname=Taheri, Kasra|age={{bda|df=y|2006|8|6}}|caps=3|goals=0|club=[[FC Rubin Kazan|Rubin Kazan]]|clubnat=RUS|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=FW|name=[[Amirhossein Mahmoudi]]||sortname=Mahmoudi, Amirhossein|age={{bda|df=y|2006|7|12}}|caps=3|goals=0|club=[[Persepolis F.C.|Persepolis]]|clubnat=IRN|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=FW|name=[[Ehsan Mahroughi]]||sortname=Mahroughi, Ehsan|age={{bda|df=y|1998|12|9}}|caps=0|goals=0|club=[[Foolad F.C.|Foolad]]|clubnat=IRN|latest=Tehran Training Camp, 19 April 2026}}
+{{nat fs r player|no=|pos=FW|name=[[Pouria Shahrabadi]]||sortname=Shahrabadi, Pouria|age={{bda|df=y|2006|6|15}}|caps=0|goals=0|club=[[Gol Gohar Sirjan F.C.|Gol Gohar]]|clubnat=IRN|latest=Tehran Training Camp, 19 April 2026}}
+{{nat fs r player|no=|pos=FW|name=[[Mohammad Omri]]|sortname=Omri, Mohammad|age={{bda|df=y|2000|3|11}}|caps=0|goals=0|club=[[Persepolis F.C.|Persepolis]]|clubnat=IRN|latest=v. {{fb|UZB}}, 18 November 2025}}
+{{nat fs r player|no=|pos=FW|name=[[Allahyar Sayyadmanesh]]|sortname=Sayyadmanesh, Allahyar|age={{bda|df=y|2001|6|29}}|caps=9|goals=1|club=[[Lech Poznań]]|clubnat=POL|latest=v. {{fb|TAN}}, 14 October 2025}}
+{{nat fs r player|no=|pos=FW|name=[[Majid Aliyari]]|sortname=Aliyari, Majid|age={{bda|df=y|1996|3|2}}|caps=2|goals=2|club=[[Sepahan S.C.|Sepahan]]|clubnat=IRN|latest=[[2025 CAFA Nations Cup]]}}
+{{nat fs break}}
+<sup>INJ</sup> Withdrew due to injury<br />
+<sup>PRE</sup> Preliminary squad / standby<br />
+<sup>RET</sup> Retired from the national team<br />
+<sup>SUS</sup> Serving suspension<br />
+<sup>WD</sup> Player withdrew from the squad due to a non-injury issue.<br />
+{{nat fs end}}
+
+==Player records==
+{{Main|Iran national football team records and statistics|Category:Iran men's international footballers|List of Iran international footballers}}
+
+:{{updated|26 June 2026}}<ref name="RSSSF">{{#invoke:cite|web|last1=Mamrud |first1=Roberto |title=Iran – Record International Players |url=https://www.rsssf.org/miscellaneous/iran-recintlp.html |website=RSSSF |access-date=31 May 2004 |archive-date=20 July 2018 |archive-url=https://web.archive.org/web/20180720140046/http://www.rsssf.com/miscellaneous/iran-recintlp.html |url-status=live }}</ref>
+: Statistics include official FIFA-recognised matches only.
+:''Players in '''bold''' are still active with Iran.''
+
+===Most appearances===
+{{Main|List of men's footballers with 100 or more international caps}}
+
+{| class="wikitable sortable" style="text-align:center;"
+|-
+!width=30px|Rank
+!style="width:175px;"|Player
+!width=50px|Caps
+!width=50px|Goals
+!style="width:100px;"|Career
+|-
+|1
+| style="text-align:left;"|[[Javad Nekounam]]{{efn|name=Nekounam}}
+|149
+|38
+|2000–2015
+|-
+|rowspan="2"|2
+| style="text-align:left;"|[[Ali Daei]]{{efn|name=Daei}}
+|148
+|108
+|1993–2006
+|-
+|align="left"|'''[[Ehsan Hajsafi]]'''{{efn|name=Hajsafi|group=players|Hajsafi has an additional cap awarded by the Iranian FA for the match vs. Iraq on 18 March 2017, but it has not mentioned by FIFA.<ref name="RSSSFhajsafi">[https://www.rsssf.org/miscellaneous/iran-hajsafy-intl.html Ehsan Hajsafi – Century of International Appearances]; at [[RSSSF]]</ref>}}
+|148
+|7
+|2008–present
+|-
+|4
+|align="left"|[[Ali Karimi]]
+|127
+|38
+|1998–2012
+|-
+|5
+|align="left"|[[Jalal Hosseini]]
+|115
+|8
+|2007–2018
+|-
+|6
+|align="left"|[[Mehdi Mahdavikia]]
+|110
+|13
+|1996–2009
+|-
+|7
+|align="left"|'''[[Mehdi Taremi]]'''
+|108
+|60
+|2015–present
+|-
+|8
+|style="text-align:left;"|[[Karim Ansarifard]]
+|104
+|30
+|2009–2024
+|-
+|rowspan="2"|9
+|align="left"|'''[[Alireza Jahanbakhsh]]'''
+|101
+|17
+|2013–present
+|-
+|align="left"|[[Andranik Teymourian]]
+|101
+|9
+|2005–2016
+|-
+|}
+
+===Top goalscorers===
+{{See also|List of men's footballers with 50 or more international goals}}
+[[File:Ali Daei, Saipa vs. Al-Rayyan pre-match conference.jpg|thumb|180px|[[Ali Daei]] is the world's third [[List of top international men's football goal scorers by country|all-time leading goalscorer]] in international matches, having scored 108 goals in 148 matches.]]
+
+{| class="wikitable sortable" style="text-align:center;"
+|-
+!width=30px|Rank
+!style="width:175px;"|Player
+!width=50px|Goals
+!width=50px|Caps
+!width=50px|Ratio
+!style="width:100px;"|Career
+|-
+|1
+|align="left"|[[Ali Daei]]{{efn|name=Daei}} <small>([[List of international goals scored by Ali Daei|list]])</small>
+|108
+|148
+|{{#expr:108/148 round 2}}
+|1993–2006
+|-
+|2
+|style="text-align:left;"|'''[[Mehdi Taremi]]'''
+|60
+|108
+|{{#expr:60/108 round 2}}
+|2015–present
+|-
+|3
+|align="left"|[[Sardar Azmoun]]
+|57
+|91
+|{{#expr:57/91 round 2}}
+|2014–2025
+|-
+|4
+|align="left"|[[Karim Bagheri]]
+|50
+|87
+|{{#expr:50/87 round 2}}
+|1993–2010
+|-
+|rowspan="2"|5
+|align="left"|[[Ali Karimi]]
+|38
+|127
+|{{#expr:38/127 round 2}}
+|1998–2012
+|-
+|align="left"|[[Javad Nekounam]]
+|38
+|149
+|{{#expr:38/149 round 2}}
+|2000–2015
+|-
+|7
+|align="left"|[[Karim Ansarifard]]
+|30
+|104
+|{{#expr:30/104 round 2}}
+|2009–2024
+|-
+|8
+|align="left"|[[Gholam Hossein Mazloumi]]
+|19
+|40
+|{{#expr:19/40 round 2}}
+|1969–1977
+|-
+|9
+| style="text-align:left;"|[[Farshad Pious]]<ref>{{#invoke:cite|web|url=http://www.teammelli.com/matchdata/details/player.php?id=420|title=Statistics: Iran [ Team Melli]|access-date=8 June 2016|archive-date=13 September 2017|archive-url=https://web.archive.org/web/20170913091727/http://www.teammelli.com/matchdata/details/player.php?id=420|url-status=live}}</ref>
+|18
+|34
+|{{#expr:18/34 round 2}}
+|1984–1994
+|-
+|rowspan=2|10
+|style="text-align:left;"|[[Reza Ghoochannejhad]]
+|17
+|44
+|{{#expr:17/44 round 2}}
+|2012–2018
+|-
+|style="text-align:left;"|'''[[Alireza Jahanbakhsh]]'''
+|17
+|101
+|{{#expr:17/101 round 2}}
+|2013–present
+|-
+|}
+
+'''Notes'''
+{{notelist|group=players}}
+
+===Most capped goalkeepers===
+[[File:Alireza Beiranvand 14021113000490638424849868670974 66487.jpg|alt=Alireza |thumb|241x241px|[[Alireza Beiranvand]], goalkeeper.]]<!---PLEASE ADD CLEAN SHEETS WHEN DATA BECOMES AVAILABLE!--->
+{| class="wikitable sortable" style="text-align:center;"
+|-
+!width=30px|Rank
+!style="width:175px;"|Player
+!width=50px|Caps
+!style="width:100px;"|Career
+|-
+|1
+|align="left"|'''[[Alireza Beiranvand]]'''
+|89
+|2015–present
+|-
+|2
+|align="left"|[[Mehdi Rahmati]]
+|76
+|2004–2012
+|-
+|3
+|align="left"|[[Ahmad Reza Abedzadeh]]
+|73
+|1987–1998
+|-
+|4
+|align="left"|[[Ebrahim Mirzapour]]
+|70
+|2001–2011
+|-
+|5
+|align="left"|[[Nasser Hejazi]]<ref>{{#invoke:cite|web|url=https://www.fifa.com/world-match-centre/news/newsid/144/149/5/index.html|archive-url=https://web.archive.org/web/20141213041951/http://www.fifa.com/world-match-centre/news/newsid/144/149/5/index.html|url-status=dead|archive-date=13 December 2014|title=Iran says farewell to 'The Legend'|website=FIFA.com|date=26 May 2011}}</ref>
+|62
+|1968–1980
+|-
+|6
+|align="left"|[[Behzad Gholampour]]
+|27
+|1990–1999
+|-
+|7
+|align="left"|[[Aziz Asli]]
+|24
+|1962–1968
+|-
+|8
+|align="left"|[[Alireza Haghighi]]
+|23
+|2012–2018
+|-
+| rowspan="2" |9
+|align="left"|[[Mansour Rashidi]]
+| rowspan="2" |20
+|1972–1985
+|-
+|align="left"|[[Parviz Boroumand]]
+|1998–2001
+|}
+
+===Captains===
+
+{| class="wikitable sortable" style="text-align:center;"
+|-
+!scope=col rowspan=2|#
+!scope=col rowspan=2|{{Tooltip|Reign|Years as captain}}
+!scope=col rowspan=2|Player
+!scope=col rowspan=2|{{Tooltip|Career|Years representing Iran}}
+!scope=col colspan=2|Total
+!scope=col colspan=2|As Captain
+!scope=col rowspan=2|Tournaments
+|- class=unsortable
+!scope=col|Caps
+!scope=col|Goals
+!scope=col|Caps
+!scope=col|Goals
+|-
+|1
+|1965–1967
+|style="text-align:left;"|[[Mohammad Ranjbar]]
+|1959–1967
+|23
+|0
+|9
+|0
+|
+|-
+|2
+|1967–1970
+|style="text-align:left;"|[[Hassan Habibi (footballer)|Hassan Habibi]]
+|1958–1970
+|31
+|0
+|10
+|0
+|[[1968 AFC Asian Cup]]
+|-
+|3
+|1970–1972
+|style="text-align:left;"|[[Mostafa Arab]]
+|1959–1972
+|48
+|2
+|13
+|0
+|[[1972 AFC Asian Cup]]
+|-
+|4
+|1972–1977
+|style="text-align:left;"|[[Parviz Ghelichkhani]]
+|1964–1977
+|64
+|12
+|26
+|7
+|[[1976 AFC Asian Cup]]
+|-
+|5
+|1977–1980
+|style="text-align:left;"|[[Ali Parvin]]
+|1970–1980
+|76
+|13
+|31
+|2
+|[[1978 FIFA World Cup]]
+|-
+|6
+|1980
+|style="text-align:left;"|[[Nasser Hejazi]]
+|1968–1980
+|62
+|0
+|7
+|0
+|[[1980 AFC Asian Cup]]
+|-
+|7
+|1980–1984
+|style="text-align:left;"|[[Mehdi Dinvarzadeh]]
+|1977–1984
+|26
+|0
+|9
+|0
+|
+|-
+|8
+|1984–87<br />1989–91
+|style="text-align:left;"|[[Mohammad Panjali]]
+|1978–1991
+|45
+|0
+|27
+|0
+|[[1984 AFC Asian Cup]]
+|-
+|9
+|1987–89<br />1991–93
+|style="text-align:left;"|[[Sirous Ghayeghran]]
+|1986–1993
+|43
+|6
+|22
+|3
+|[[1988 AFC Asian Cup]]<br />[[1992 AFC Asian Cup]]
+|-
+|10
+|1993
+|style="text-align:left;"|[[Hamid Derakhshan]]
+|1980–1993
+|41
+|9
+|12
+|3
+|
+|-
+|11
+|1993–1994
+|style="text-align:left;"|[[Farshad Pious]]
+|1984–1994
+|35
+|19
+|4
+|1
+|
+|-
+|12
+|1996
+|style="text-align:left;"|[[Mojtaba Moharrami]]
+|1988–1996
+|37
+|5
+|2
+|0
+|[[1996 AFC Asian Cup]]
+|-
+|13
+|1996–1998
+|style="text-align:left;"|[[Ahmad Reza Abedzadeh]]
+|1988–1998
+|73
+|0
+|38
+|0
+|[[1998 FIFA World Cup]]
+|-
+|14
+|1998–1999
+|style="text-align:left;"|[[Nader Mohammadkhani]]
+|1988–1999
+|64
+|4
+|9
+|1
+|[[1998 FIFA World Cup]]
+|-
+|15
+|1999–2000
+|style="text-align:left;"|[[Javad Zarincheh]]
+|1987–2000
+|80
+|1
+|8
+|0
+|
+|-
+|16
+|2000–2006
+|style="text-align:left;"|[[Ali Daei]]
+|1993–2006
+|148
+|108
+|80
+|44
+|[[2000 AFC Asian Cup]]<br />[[2004 AFC Asian Cup]]<br />[[2006 FIFA World Cup]]
+|-
+|17
+|2006–2009
+|style="text-align:left;"|[[Mehdi Mahdavikia]]
+|1996–2009
+|111
+|13
+|17
+|1
+|[[2007 AFC Asian Cup]]
+|-
+|18
+|2009–2015
+|style="text-align:left;"|[[Javad Nekounam]]
+|2000–2015
+|149
+|38
+|56
+|18
+|[[2011 AFC Asian Cup]]<br />[[2014 FIFA World Cup]]<br />[[2015 AFC Asian Cup]]
+|-
+|19
+|2015–2016
+|style="text-align:left;"|[[Andranik Teymourian]]
+|2005–2016
+|101
+|9
+|9
+|1
+|
+|-
+|20
+|2016–2019
+|style="text-align:left;"|[[Masoud Shojaei]]
+|2004–2019
+|87
+|8
+|11
+|0
+|[[2018 FIFA World Cup]]<br />[[2019 AFC Asian Cup]]
+|-
+|21
+|2019–2024<br />2026–
+|style="text-align:left;"|'''[[Ehsan Hajsafi]]'''
+|2008–
+|148
+|7
+|45
+|3
+|[[2022 FIFA World Cup]]<br />[[2023 AFC Asian Cup]]<br /> [[2026 FIFA World Cup]]
+|-
+|22
+|2024–2026
+|style="text-align:left;"|'''[[Alireza Jahanbakhsh]]'''
+|2013–
+|101
+|17
+|6
+|0
+|
+|}
+
+== Competitive record ==
+{{See also|Iran national football team records and statistics}}
+===FIFA World Cup===
+{{main|Iran at the FIFA World Cup}}
+{{See also|FIFA World Cup records and statistics}}
+{| class="wikitable" style="text-align: center;"
+|-
+!colspan=10|[[FIFA World Cup]] finals record
+! style="width:1%;" rowspan="39"|
+!colspan=6|[[FIFA World Cup qualification]] record
+|-
+!Year
+!Round
+!Position
+!{{Tooltip|Pld|Matches played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!Squad
+!width=30|{{Tooltip|Pld|Matches played}}
+!width=30|{{Tooltip|W|Won}}
+!width=30|{{Tooltip|D|Drawn}}
+!width=30|{{Tooltip|L|Lost}}
+!width=30|{{Tooltip|GF|Goals for}}
+!width=30|{{Tooltip|GA|Goals against}}
+|-
+|{{flagicon|Uruguay}} [[1930 FIFA World Cup|1930]]||colspan=9 rowspan=3|''Not a FIFA member''
+|colspan=6|''No qualification''
+|-
+|{{flagicon|Italy|1861}} [[1934 FIFA World Cup|1934]]||colspan=6 rowspan=2|''Not a FIFA member''
+|-
+|{{flagicon|France|1794}} [[1938 FIFA World Cup|1938]]
+|-
+|{{flagicon|Brazil|1889}} [[1950 FIFA World Cup|1950]]||colspan=9 rowspan=6|''Did not enter''
+|colspan=6 rowspan=6|''Did not enter''
+|-
+|{{flagicon|Switzerland}} [[1954 FIFA World Cup|1954]]
+|-
+|{{flagicon|Sweden}} [[1958 FIFA World Cup|1958]]
+|-
+|{{flagicon|Chile}} [[1962 FIFA World Cup|1962]]
+|-
+|{{flagicon|England}} [[1966 FIFA World Cup|1966]]
+|-
+|{{flagicon|Mexico}} [[1970 FIFA World Cup|1970]]
+|-
+|{{flagicon|West Germany}} [[1974 FIFA World Cup|1974]]||colspan=9|''Did not qualify''
+||8||5||1||2||9||6
+|-
+|{{flagicon|Argentina}} [[1978 FIFA World Cup|1978]]||First group stage||14th||3||0||1||2||2||8||[[1978 FIFA World Cup squads#Iran|Squad]]||12||10||2||0||20||3
+|-
+|{{flagicon|Spain}} [[1982 FIFA World Cup|1982]]||colspan=9|''Withdrew''
+|colspan=6|''Withdrew''
+|-
+|{{flagicon|Mexico}} [[1986 FIFA World Cup|1986]]||colspan=9|''Disqualified''
+|colspan=6|''Disqualified''
+|-
+||{{flagicon|Italy}} [[1990 FIFA World Cup|1990]]||colspan=9 rowspan=2|''Did not qualify''
+||6||5||0||1||12||5
+|-
+||{{flagicon|United States of America}} [[1994 FIFA World Cup|1994]]
+||11||5||3||3||23||13
+|-
+|{{flagicon|France|1974}} [[1998 FIFA World Cup|1998]]||Group stage||20th||3||1||0||2||2||4||[[1998 FIFA World Cup squads#Iran|Squad]]||17||8||6||3||57||17
+|-
+|{{flagicon|South Korea|1997}} {{flagicon|Japan}} [[2002 FIFA World Cup|2002]]||colspan=9|''Did not qualify''||14||9||3||2||36||9
+|-
+|{{flagicon|Germany}} [[2006 FIFA World Cup|2006]]||Group stage||25th||3||0||1||2||2||6||[[2006 FIFA World Cup squads#Iran|Squad]]||12||9||1||2||29||7
+|-
+|{{flagicon|South Africa}} [[2010 FIFA World Cup|2010]]||colspan=9|''Did not qualify''||14||5||8||1||15||9
+|-
+|{{flagicon|Brazil}} [[2014 FIFA World Cup|2014]]||rowspan=4|Group stage
+|28th
+||3||0||1||2||1||4||[[2014 FIFA World Cup squads#Iran|Squad]]||16 ||10 ||4 ||2 ||30 ||7
+|-
+|{{flagicon|Russia}} [[2018 FIFA World Cup|2018]]
+||18th
+||3||1||1||1||2||2||[[2018 FIFA World Cup squads#Iran|Squad]]||18||12||6||0||36||5
+|-
+|{{flagicon|Qatar}} [[2022 FIFA World Cup|2022]]||26th||3||1||0||2||4||7||[[2022 FIFA World Cup squads#Iran|Squad]]
+||18||14||1||3||49||8
+|-
+|{{flagicon|Canada}} {{flagicon|Mexico}} {{flagicon|United States of America}} [[2026 FIFA World Cup|2026]]
+|| 33rd || 3 || 0 || 3 || 0 || 3 || 3 ||[[2026 FIFA World Cup squads#Iran|Squad]]
+|16||11||4||1||35||12
+|-
+|{{flagicon|Morocco}} {{flagicon|Portugal}} {{flagicon|Spain}} [[2030 FIFA World Cup|2030]]
+|colspan=9 rowspan=2|''To be determined''
+|colspan=6 rowspan=2|''To be determined''
+|-
+|{{flagicon|Saudi Arabia}} [[2034 FIFA World Cup|2034]]
+|-
+!Total||First round||{{Tooltip|7/20|Number of tournaments qualified for}}||21||3||7||11||16||34||—||162||103||39||20||351||101
+|}
+
+{| class="wikitable collapsible collapsed" style="width:65%;font-size:80%"
+|-
+!colspan="2"|<big>Iran's World Cup record</big>
+|-
+!width=10%|First match
+|width=23%|<div style="text-align:center">{{fb|NED}} 3–0 {{fb-rt|IRN|1964}}<br /> (3 June 1978; [[Mendoza, Argentina|Mendoza]], Argentina)</div>
+|-
+!width=10%|Biggest win
+|width=23%|<div style="text-align:center">{{fb|WAL}} 0–2 {{fb-rt|IRN}}<br /> (25 November 2022; [[Al Rayyan]], [[Qatar]])</div>
+|-
+!width=10%|Biggest defeat
+|width=23%|<div style="text-align:center">{{fb|ENG}} 6–2 {{fb-rt|IRN}}<br /> (21 November 2022; [[Al Rayyan]], [[Qatar]])</div>
+|-
+!width=10%|Fastest Goal
+|width=23%|<div style="text-align:center">14th minute, [[Ramin Rezaeian]], vs {{fb-rt|EGY}}<br /> (26 June 2026; [[Seattle]], [[United States America]])</div>
+|-
+!width=10%|Latest goal
+|width=23%|<div style="text-align:center">90+13th minute, [[Mehdi Taremi]], vs {{fb-rt|ENG}}<br /> (21 November 2022; [[Al Rayyan]], [[Qatar]])</div>
+|}
+
+===AFC Asian Cup===
+{{See also|AFC Asian Cup records and statistics}}
+{| class="wikitable" style="font-size:100%; text-align:center; width:100%"
+! colspan="10" |[[AFC Asian Cup]] record
+! style="width:1%;background:white" rowspan="26"|
+! colspan="6" |[[AFC Asian Cup qualification|Qualification]] record
+|-
+! width="185" |Year
+! width="125" |Round
+! width="75" |Position
+! width="25" |{{Tooltip|Pld|Games played}}
+! width="25" |{{Tooltip|W|Games won}}
+! width="25" |{{Tooltip|D|Games drawn, including knockout matches decided on penalty kicks}}
+! width="25" |{{Tooltip|L|Games lost}}
+! width="25" |{{Tooltip|GF|Goals scored}}
+! width="25" |{{Tooltip|GA|Goals conceded}}
+! width="50" |Squad
+! width="25" |{{Tooltip|Pld|Games played}}
+! width="25" |{{Tooltip|W|Games won}}
+! width="25" |{{Tooltip|D|Games drawn}}
+! width="25" |{{Tooltip|L|Games lost}}
+! width="25" |{{Tooltip|GF|Goals scored}}
+! width="25" |{{Tooltip|GA|Goals conceded}}
+|-
+|{{#invoke:flag|icon|Hong Kong|1910}} [[1956 AFC Asian Cup|1956]]||colspan=10|''Withdrew''
+|colspan=6|''Withdrew''
+|-
+|{{#invoke:flag|icon|Korea Republic}} [[1960 AFC Asian Cup|1960]]||colspan=10|''Did not qualify''
+||6||3||1||2||12||10
+|-
+|{{#invoke:flag|icon|Israel}} [[1964 AFC Asian Cup|1964]]||colspan=10|''Withdrew''
+|colspan=6|''Withdrew''
+|- style="background:gold;"
+|style="border: 3px solid red"|{{#invoke:flag|icon|Iran|1964}} [[1968 AFC Asian Cup|1968]]||'''Champions'''||'''1st'''||'''4'''||'''4'''||'''0'''||'''0'''||'''11'''||'''2'''||'''[[1968 AFC Asian Cup squads#Iran|Squad]]'''||colspan=6|''Qualified as hosts''
+|- style="background:gold;"
+|{{#invoke:flag|icon|Thailand}} [[1972 AFC Asian Cup|1972]]||[[1972 AFC Asian Cup Final|'''Champions''']]||'''1st'''||'''5'''||'''5'''||'''0'''||'''0'''||'''12'''||'''4'''||'''[[1972 AFC Asian Cup squads#Iran|Squad]]'''||colspan=6|''Qualified as champions''
+|- style="background:gold;"
+|style="border: 3px solid red"|{{#invoke:flag|icon|Iran|1964}} [[1976 AFC Asian Cup|1976]]||'''[[1976 AFC Asian Cup Final|Champions]]''' ||'''1st'''||'''4'''||'''4'''||'''0'''||'''0'''||'''13'''||'''0'''||'''[[1976 AFC Asian Cup squads#Iran|Squad]]'''||colspan=6|''Qualified as hosts''
+|- style="background:#c96;"
+|{{#invoke:flag|icon|Kuwait}} [[1980 AFC Asian Cup|1980]]||'''Third place'''||'''3rd'''||'''6'''||'''3'''||'''2'''||'''1'''||'''16'''||'''6'''||'''[[1980 AFC Asian Cup squads#Iran|Squad]]'''||colspan=6|''Qualified as champions''
+|- style="background:#9acdff;"
+|{{#invoke:flag|icon|Singapore}} [[1984 AFC Asian Cup|1984]]||'''Fourth place'''||'''4th'''||'''6'''||'''2'''||'''4'''||'''0'''||'''8'''||'''3'''||'''[[1984 AFC Asian Cup squads#Iran|Squad]]'''||6||6||0||0||22||2
+|- style="background:#c96;"
+|{{#invoke:flag|icon|Qatar}} [[1988 AFC Asian Cup|1988]]||'''Third place'''||'''3rd'''||'''6'''||'''2'''||'''2'''||'''2'''||'''3'''||'''4'''||'''[[1988 AFC Asian Cup squads#Iran|Squad]]'''||4||2||2||0||6||1
+|-
+|{{#invoke:flag|icon|Japan}} [[1992 AFC Asian Cup|1992]]||Group stage||5th||3||1||1||1||2||1||[[Asian Cup 1992 squads#Iran|Squad]]||2||2||0||0||10||0
+|- style="background:#c96;"
+|{{#invoke:flag|icon|UAE}} [[1996 AFC Asian Cup|1996]]||'''Third place'''||'''3rd'''||'''6'''||'''3'''||'''2'''||'''1'''||'''14'''||'''6'''||'''[[Asian Cup 1996 squads#Iran|Squad]]'''||6||6||0||0||27||1
+|-
+|{{#invoke:flag|icon|Lebanon}} [[2000 AFC Asian Cup|2000]]||Quarter-finals||6th||4||2||1||1||7||3||[[Asian Cup 2000 squads#Iran|Squad]]||6||4||1||1||16||2
+|- style="background:#c96;"
+|{{#invoke:flag|icon|China}} [[2004 AFC Asian Cup|2004]]||'''Third place'''||'''3rd'''||'''6'''||'''3'''||'''3'''||'''0'''||'''14'''||'''8'''||'''[[Asian Cup 2004 squads#Iran|Squad]]'''||6||5||0||1||16||5
+|- 
+|{{#invoke:flag|icon|Indonesia}} {{#invoke:flag|icon|Malaysia}} {{#invoke:flag|icon|Thailand}} {{#invoke:flag|icon|Vietnam}} [[2007 AFC Asian Cup|2007]]||Quarter-finals||6th||4||2||2||0||6||3||[[Asian Cup 2007 squads#Iran|Squad]]||6||4||2||0||12||2
+|- 
+|{{#invoke:flag|icon|Qatar}} [[2011 AFC Asian Cup|2011]]||Quarter-finals||7th||4||3||0||1||6||2|||[[2011 AFC Asian Cup squads#Iran|Squad]]||6||4||1||1||11||2
+|- 
+|{{#invoke:flag|icon|AUS}} [[2015 AFC Asian Cup|2015]]||Quarter-finals||6th||4||3||1||0||7||3||[[2015 AFC Asian Cup squads#Iran|Squad]]||6||5||1||0||18||5
+|- style="background:#c96;"
+|{{#invoke:flag|icon|UAE}} [[2019 AFC Asian Cup|2019]]||'''Semi-finals'''||'''3rd'''||'''6'''||'''4'''||'''1'''||'''1'''||'''12'''||'''3'''||'''[[2019 AFC Asian Cup squads#Iran|Squad]]'''||8||6||2||0||26||3
+|- style="background:#c96;"
+|{{#invoke:flag|icon|QAT}} [[2023 AFC Asian Cup|2023]]||'''Semi-finals'''||'''3rd'''||'''6'''||'''4'''||'''1'''||'''1'''||'''12'''||'''7'''||'''[[2023 AFC Asian Cup squads#Iran|Squad]]'''||8||6||0||2||34||4
+|-
+|{{#invoke:flag|icon|Saudi Arabia}} [[2027 AFC Asian Cup|2027]]||colspan=10|''Qualified''
+|6||4||2||0||16||4
+|-
+!Total||3 titles||16/19||74||45||20||9||143||55||—||76||57||12||7||226||41
+|}
+
+{| class="wikitable collapsible collapsed" style="width:65%;font-size:80%"
+|-
+!colspan="2"|<big>Iran's AFC Asian Cup record</big>
+|-
+!width=10%|First match
+|width=23%|<div style="text-align:center">{{fb|IRN|1964}} 2–0 {{fb-rt|Hong Kong|1959}}<br /> (10 May 1968; [[Tehran]], [[Iran]])</div>
+|-
+!width=10%|Biggest win(s)
+|width=23%|<div style="text-align:center">{{fb|IRN|1964}} 8–0 {{fb-rt|South Yemen}}<br /> (8 June 1976; [[Tehran]], [[Iran]])</div>
+|-
+!width=10%|Biggest defeat(s)
+|width=23%|<div style="text-align:center">{{fb|KOR|1984}} 3–0 {{fb-rt|IRN}}<br /> (11 December 1988; [[Doha]], [[Qatar]])</div><div style="text-align:center">{{fb|IRN}} 0–3 {{fb-rt|JPN}}<br /> (28 January 2019; [[Al Ain]], [[UAE]])</div>
+|-
+!width=10%|Best result
+|width=23%|<div style="text-align:center">'''Champions''' in [[1968 AFC Asian Cup|1968]], [[1972 AFC Asian Cup|1972]] and [[1976 AFC Asian Cup|1976]]</div>
+|-
+!width=10%|Worst result
+|width=23%|<div style="text-align:center">[[1992 AFC Asian Cup|1992]] (group stage)</div>
+|}
+
+===Olympic Games===
+{| class="wikitable" style="text-align: center;"
+|-
+!colspan=10|[[Football at the Summer Olympics|Summer Olympics]] record
+! style="width:1" rowspan=23|
+!colspan=6|Qualification record
+|-
+! width="165" |Year
+! width="135" |Round
+! width="75" |Position
+! width="25" |{{Tooltip|Pld|Games played}}
+! width="25" |{{Tooltip|W|Games won}}
+! width="25" |{{Tooltip|D|Games drawn, including knockout matches decided on penalty kicks}}
+! width="25" |{{Tooltip|L|Games lost}}
+! width="25" |{{Tooltip|GF|Goals scored}}
+! width="25" |{{Tooltip|GA|Goals conceded}}
+! width="50" |Squad
+! width="25" |{{Tooltip|Pld|Games played}}
+! width="25" |{{Tooltip|W|Games won}}
+! width="25" |{{Tooltip|D|Games drawn}}
+! width="25" |{{Tooltip|L|Games lost}}
+! width="25" |{{Tooltip|GF|Goals scored}}
+! width="25" |{{Tooltip|GA|Goals conceded}}
+|-
+|{{flagicon|FRA|1794}} [[Football at the 1900 Summer Olympics|1900]]||colspan=9 rowspan=8|''Not an [[International Olympic Committee|IOC]] member''
+|colspan=6 rowspan=10|''No qualification''
+|-
+|{{flagicon|USA|1896}} [[Football at the 1904 Summer Olympics|1904]]
+|-
+|{{flagicon|UK}} [[Football at the 1908 Summer Olympics|1908]]
+|-
+|{{flagicon|SWE}} [[Football at the 1912 Summer Olympics|1912]]
+|-
+|{{flagicon|BEL}} [[Football at the 1920 Summer Olympics|1920]]
+|-
+|{{flagicon|FRA|1794}} [[Football at the 1924 Summer Olympics|1924]]
+|-
+|{{flagicon|NED}} [[Football at the 1928 Summer Olympics|1928]]
+|-
+|{{flagicon|GER|1935}} [[Football at the 1936 Summer Olympics|1936]]
+|-
+|{{flagicon|UK}} [[Football at the 1948 Summer Olympics|1948]]||colspan=9 rowspan=2|''Did not enter''
+|-
+|{{flagicon|FIN}} [[Football at the 1952 Summer Olympics|1952]]
+|-
+|{{flagicon|AUS}} [[Association football at the 1956 Summer Olympics|1956]]||colspan=9|''Withdrew''
+|colspan=6|''Withdrew''
+|-
+|{{flagicon|ITA}} [[Football at the 1960 Summer Olympics|1960]]||colspan=9|''Did not enter''
+|colspan=6|''Did not enter''
+|-
+|{{flagicon|JPN|1870}} [[Football at the 1964 Summer Olympics|1964]]||First round||12th||3||0||1||2||1||6||[[Football at the 1964 Summer Olympics – Men's team squads#Iran|Squad]]||6||4||1||1||14||3
+|-
+|{{flagicon|MEX}} [[Football at the 1968 Summer Olympics|1968]]||colspan=9|''Withdrew''
+|colspan=6|''Withdrew''
+|-
+|{{flagicon|FRG}} [[Football at the 1972 Summer Olympics|1972]]||First round||12th||3||1||0||2||1||9||[[Football at the 1972 Summer Olympics – Men's team squads#Iran|Squad]]||5||3||2||0||6||0
+|-
+|{{flagicon|CAN}} [[Football at the 1976 Summer Olympics|1976]]||{{nowrap|Quarter-finals}}||7th||3||1||0||2||4||5||[[Football at the 1976 Summer Olympics – Men's team squads#Iran|Squad]]||4||3||1||0||8||1
+|-
+|{{flagicon|URS}} [[Football at the 1980 Summer Olympics|1980]]||colspan=9|''Qualified but later withdrew''
+||6||4||2||0||22||2
+|-
+|{{flagicon|USA}} [[Football at the 1984 Summer Olympics|1984]]||colspan=9|''Did not enter''
+|colspan=6|''Did not enter''
+|-
+|{{flagicon|KOR|1984}} [[Football at the 1988 Summer Olympics|1988]]||colspan=9|''Did not qualify''
+||2||1||0||1||2||2
+|-
+|[[Football at the 1992 Summer Olympics|1992]]–present
+|colspan=9|''See [[Iran national under-23 football team#Olympic Games|Iran national under-23 team]]''
+|colspan=6|''See [[Iran national under-23 football team#Olympic Games|Iran national under-23 team]]''
+|-
+!Total||{{nowrap|Quarter-finals}}||4/17||9||2||1||6||6||20||—
+!|23||15||6||2||52||8
+|}
+
+===Asian Games===
+{| class="wikitable" style="text-align: center;"
+|-
+!colspan=10|[[Football at the Asian Games|Asian Games]] record
+|-
+! width="165" |Year
+! width="135" |Round
+! width="75" |Position
+! width="25" |{{Tooltip|Pld|Games played}}
+! width="25" |{{Tooltip|W|Games won}}
+! width="25" |{{Tooltip|D|Games drawn, including knockout matches decided on penalty kicks}}
+! width="25" |{{Tooltip|L|Games lost}}
+! width="25" |{{Tooltip|GF|Goals scored}}
+! width="25" |{{Tooltip|GA|Goals conceded}}
+! width="50" |Squad
+|- style="background:silver;"
+|{{flagicon|IND}} [[Football at the 1951 Asian Games – Men|1951]]||'''Runners-up'''||'''2nd'''||'''3'''||'''2'''||'''0'''||'''1'''||'''2'''||'''1'''||'''[[Football at the 1951 Asian Games – Squads|Squad]]'''
+|-
+|{{flagicon|PHI|1936}} [[Football at the 1954 Asian Games – Men|1954]]||colspan=9|''Did not enter''
+|-
+|{{flagicon|JPN|1870}} [[Football at the 1958 Asian Games – Men|1958]]||Preliminary round||14th||2||0||0||2||0||9||[[Football at the 1958 Asian Games – Squads#Iran|Squad]]
+|-
+|{{flagicon|IDN}} [[Football at the 1962 Asian Games – Men|1962]]||colspan=9|''Did not enter''
+|- style="background:silver;"
+|{{flagicon|THA}} [[Football at the 1966 Asian Games – Men|1966]]||'''Runners-up'''||'''2nd'''||'''7'''||'''4'''||'''0'''||'''3'''||'''9'''||'''6'''||'''[[Football at the 1966 Asian Games – Squads#Iran|Squad]]'''
+|-
+|{{flagicon|THA}} [[Football at the 1970 Asian Games – Men|1970]]||Preliminary round||8th||2||0||1||1||2||3||[[Football at the 1970 Asian Games – Squads#Iran|Squad]]
+|- style="background:gold;"
+|style="border: 3px solid red"|{{flagicon|IRN|1964}} [[Football at the 1974 Asian Games|1974]]||'''Champions '''||'''1st'''||'''7'''||'''7'''||'''0'''||'''0'''||'''20'''||'''1'''||'''[[Football at the 1974 Asian Games – Squads#Iran|Squad]]'''
+|-
+|{{flagicon|THA}} [[Football at the 1978 Asian Games|1978]]||colspan=9|''Did not enter''
+|- style="background:LemonChiffon;"
+|{{flagicon|IND}} [[Football at the 1982 Asian Games–Men|1982]]||Quarter-finals||8th||4||2||0||2||3||2||[[Football at the 1982 Asian Games – Squads#Iran|Squad]]
+|- style="background:LemonChiffon;"
+|{{flagicon|KOR|1984}} [[Football at the 1986 Asian Games – Men|1986]]||Quarter-finals||6th||5||3||1||1||13||2||[[Football at the 1986 Asian Games – Squads#Iran|Squad]]
+|- style="background:gold;"
+|{{flagicon|CHN}} [[Football at the 1990 Asian Games – Men|1990]]||'''Champions'''||'''1st'''||'''5'''||'''4'''||'''1'''||'''0'''||'''7'''||'''1'''||'''[[Football at the 1990 Asian Games – Squads#Iran|Squad]]'''
+|-
+|{{flagicon|JPN|1870}} [[Football at the 1994 Asian Games – Men|1994]]||Preliminary round||9th||4||1||2||1||5||2||[[Football at the 1994 Asian Games – Squads#Iran|Squad]]
+|- style="background:gold;"
+|{{flagicon|THA}} [[Football at the 1998 Asian Games – Men|1998]]||'''Champions'''||'''1st'''||'''8'''||'''7'''||'''0'''||'''1'''||'''25'''||'''7'''||'''[[Football at the 1998 Asian Games – Squads#Iran|Squad]]'''
+|-
+|[[Football at the 2002 Asian Games|2002]]–present
+|colspan=9|''See [[Iran national under-23 football team#Asian Games|Iran national under-23 team]]''
+|-
+!Total||3 titles||10/13||47||30||5||12||86||34||—
+|}
+
+===WAFF Championship===
+{| class="wikitable" style="text-align: center;"
+|-
+!colspan=10|[[WAFF Championship]] record
+|-
+! width="175" |Year
+! width="125" |Round
+! width="75" |Position
+! width="25" |{{Tooltip|Pld|Games played}}
+! width="25" |{{Tooltip|W|Games won}}
+! width="25" |{{Tooltip|D|Games drawn, including knockout matches decided on penalty kicks}}
+! width="25" |{{Tooltip|L|Games lost}}
+! width="25" |{{Tooltip|GF|Goals scored}}
+! width="25" |{{Tooltip|GA|Goals conceded}}
+! width="50" |Squad
+|- style="background:gold;"
+|{{flagicon|Jordan}} [[West Asian Football Federation Championship 2000|2000]]||'''Champions '''||'''1st'''||'''5'''||'''4'''||'''1'''||'''0'''||'''7'''||'''1'''||'''Squad'''
+|- style="background:#c96;"
+|{{flagicon|Syria}} [[West Asian Football Federation Championship 2002|2002]]||'''Third place'''||'''3rd'''||'''4'''||'''1'''||'''2'''||'''1'''||'''4'''||'''3'''||'''Squad'''
+|- style="background:gold;"
+|style="border: 3px solid red"|{{flagicon|Iran}} [[West Asian Football Federation Championship 2004|2004]]||'''Champions'''||'''1st'''||'''4'''||'''4'''||'''0'''||'''0'''||'''17'''||'''3'''||'''Squad'''
+|- style="background:gold;"
+|{{flagicon|Jordan}} [[West Asian Football Federation Championship 2007|2007]]||'''Champions'''||'''1st'''||'''4'''{{efn|Iran played their [[Iran B national football team|B team]] in this tournament, however all matches are recognised as international "A" matches.}}||'''3'''||'''1'''||'''0'''||'''5'''||'''1'''||'''Squad'''
+|- style="background:gold;"
+|style="border: 3px solid red"|{{flagicon|Iran}} [[West Asian Football Federation Championship 2008|2008]]||'''Champions'''||'''1st'''||'''4'''||'''4'''||'''0'''||'''0'''||'''13'''||'''2'''||'''Squad'''
+|- style="background:silver;"
+|{{flagicon|Jordan}} [[2010 West Asian Football Federation Championship|2010]]||'''Runners-up'''||'''2nd'''||'''4'''||'''2'''||'''1'''||'''1'''||'''8'''||'''5'''||'''Squad'''
+|-
+|{{flagicon|Kuwait}} [[2012 West Asian Football Federation Championship|2012]]||Group stage ||6th||3||1||2||0||2||1||Squad
+|-
+|{{flagicon|Qatar}} [[2014 West Asian Football Federation Championship|2014]]||colspan=9|''Did not enter''
+|-
+| [[2019 WAFF Championship|2019]]–onwards||colspan=9|''Not a [[West Asian Football Federation|WAFF]] member''
+|-
+!Total||4 titles||7/8||28||19||7||2||56||16||—
+|}
+{{notelist}}
+
+===CAFA Nations Cup===
+{{main|CAFA Nations Cup}}
+{| class="wikitable" style="text-align: center;"
+|-
+!colspan=10|[[CAFA Nations Cup]] record
+|-
+! width="175" |Year
+! width="125" |Round
+! width="75" |Position
+! width="25" |{{Tooltip|Pld|Games played}}
+! width="25" |{{Tooltip|W|Games won}}
+! width="25" |{{Tooltip|D|Games drawn, including knockout matches decided on penalty kicks}}
+! width="25" |{{Tooltip|L|Games lost}}
+! width="25" |{{Tooltip|GF|Goals scored}}
+! width="25" |{{Tooltip|GA|Goals conceded}}
+! width="50" |Squad
+|- style="background:gold;"
+|{{flagicon|KGZ}}{{flagicon|UZB}} [[2023 CAFA Nations Cup|2023]]||'''Champions '''||'''1st'''||'''3'''||'''3'''||'''0'''||'''0'''||'''12'''||'''2'''||'''[[2023 CAFA Nations Cup squads#Iran|Squad]]'''
+|-bgcolor=silver
+|{{flagicon|TJK}}{{flagicon|UZB}} [[2025 CAFA Nations Cup|2025]]||'''Runners-up''' ||'''2nd'''||'''4'''||'''2'''||'''1'''||'''1'''||'''8'''||'''4'''||'''[[2025 CAFA Nations Cup#Iran|Squad]]'''
+|-
+!Total||1 title||2/2||7||5||1||1||20||6||—
+|}
+
+===RCD Cup/ECO Cup===
+{| class="wikitable" style="text-align: center;"
+|-
+!colspan=10|[[ECO Cup|RCD Cup/ECO Cup]] record (Defunct){{efn|The tournament was not organized by an official sub-confederation, but was part of a socio-economic pact between its member states. Therefore, it is not considered an official regional tournament.}}
+|-
+! width="175" |Year
+! width="125" |Round
+! width="75" |Position
+! width="25" |{{Tooltip|Pld|Games played}}
+! width="25" |{{Tooltip|W|Games won}}
+! width="25" |{{Tooltip|D|Games drawn, including knockout matches decided on penalty kicks}}
+! width="25" |{{Tooltip|L|Games lost}}
+! width="25" |{{Tooltip|GF|Goals scored}}
+! width="25" |{{Tooltip|GA|Goals conceded}}
+! width="50" |Squad
+|- style="background:gold;"
+|style="border: 3px solid red"|{{flagicon|Iran|1964}} [[1965 RCD Cup|1965]]||'''Champions'''||'''1st'''||'''2'''||'''1'''||'''1'''||'''0'''||'''4'''||'''1'''||'''[[1965 RCD Cup#Squads|Squad]]'''
+|- style="background:silver;"
+|{{flagicon|Pakistan}} [[1967 RCD Cup|1967]]||'''Runners-up'''||'''2nd'''||'''2'''||'''1'''||'''0'''||'''1'''||'''2'''||'''1'''||'''[[1967 RCD Cup#Squads|Squad]]'''
+|- style="background:silver;"
+|{{flagicon|Turkey}} [[1969 RCD Cup|1969]]||'''Runners-up'''||'''2nd'''||'''2'''||'''1'''||'''0'''||'''1'''||'''4'''||'''6'''||'''[[1969 RCD Cup#Squads|Squad]]'''
+|- style="background:gold;"
+|style="border: 3px solid red"|{{flagicon|Iran|1964}} [[1970 RCD Cup|1970]]||'''Champions'''||'''1st'''||'''2'''{{efn|Match against Turkey XI is not recognized as international "A" match.}}||'''1'''||'''1'''||'''0'''||'''8'''||'''1'''||'''[[1970 RCD Cup#Squads|Squad]]'''
+|- style="background:silver;"
+|{{flagicon|Pakistan}} [[1974 RCD Cup|1974]]||'''Runners-up'''||'''2nd'''||'''2'''{{efn|Iran sent [[Malavan F.C.]] to this tournament, therefore matches against Pakistan and Turkey are not recognized as international "A" matches.}}||'''1'''||'''0'''||'''1'''||'''2'''||'''2'''||'''[[1974 RCD Cup#Squads|Squad]]'''
+|- style="background:gold;"
+|style="border: 3px solid red"|{{flagicon|Iran}} [[1993 ECO Cup|1993]]||'''Champions'''||'''1st'''||'''4'''||'''4'''||'''0'''||'''0'''||'''10'''||'''2'''||'''[[1993 ECO Cup#Squads|Squad]]'''
+|-
+!Total||3 titles||6/6||14||9||2||3||30||13||—
+|-
+!Only "A" matches||3 titles||6/6||11||8||1||2||27||10||—
+|}
+{{notelist}}
+
+===Afro-Asian Cup of Nations===
+{| class="wikitable" style="text-align: center;"
+|-
+!colspan=10|[[Afro-Asian Cup of Nations]] record (Defunct)
+|-
+! width="175" |Year
+! width="125" |Round
+! width="75" |Position
+! width="25" |{{Tooltip|Pld|Games played}}
+! width="25" |{{Tooltip|W|Games won}}
+! width="25" |{{Tooltip|D|Games drawn, including knockout matches decided on penalty kicks}}
+! width="25" |{{Tooltip|L|Games lost}}
+! width="25" |{{Tooltip|GF|Goals scored}}
+! width="25" |{{Tooltip|GA|Goals conceded}}
+! width="50" |Squad
+|-
+|style="border: 3px solid red"|{{flagicon|GHA}}{{flagicon|IRN|1964}} [[1978 Afro-Asian Cup of Nations|1978]]||colspan=2|''Not completed''{{efn|The trophy was not awarded, because the second leg was cancelled.}}||1||1||0||0||3||0||[[1978 Afro-Asian Cup of Nations#First leg|Squad]]
+|-
+|{{flagicon|CMR}}{{flagicon|KSA}} [[1985 Afro-Asian Cup of Nations|1985]]||colspan=9 rowspan=2|''Did not qualify''
+|-
+|{{flagicon|QAT}} [[1987 Afro-Asian Cup of Nations|1987]]
+|-bgcolor=silver
+|style="border: 3px solid red"|{{flagicon|ALG}}{{flagicon|IRN}} [[1991 Afro-Asian Cup of Nations|1991]]||'''Runners-up'''||'''2nd'''||'''2'''||'''1'''||'''0'''||'''1'''||'''2'''||'''2'''||'''[[1991 Afro-Asian Cup of Nations#First leg|Squad]]<hr/>[[1991 Afro-Asian Cup of Nations#Second leg|Squad]]'''
+|-
+|{{flagicon|JPN}} [[1993 Afro-Asian Cup of Nations|1993]]||colspan=9 rowspan=4|''Did not qualify''
+|-
+|{{flagicon|NGA}}{{flagicon|UZB}} [[1995 Afro-Asian Cup of Nations|1995]]
+|-
+|{{flagicon|KSA}}{{flagicon|SAF}} [[1997 Afro-Asian Cup of Nations|1997]]
+|-
+|{{flagicon|JPN}} [[2007 Afro-Asian Cup of Nations|2007]]
+|-
+!Total||Runners-up||2/8||3||2||0||1||5||2||—
+|}
+{{notelist}}
+
+===AFC–OFC Challenge Cup===
+{| class="wikitable" style="text-align: center;"
+|-
+!colspan=10|[[AFC–OFC Challenge Cup]] record (Defunct)
+|-
+! width="175" |Year
+! width="125" |Round
+! width="75" |Position
+! width="25" |{{Tooltip|Pld|Games played}}
+! width="25" |{{Tooltip|W|Games won}}
+! width="25" |{{Tooltip|D|Games drawn, including knockout matches decided on penalty kicks}}
+! width="25" |{{Tooltip|L|Games lost}}
+! width="25" |{{Tooltip|GF|Goals scored}}
+! width="25" |{{Tooltip|GA|Goals conceded}}
+! width="50" |Squad
+|-
+|{{flagicon|JPN}} [[2001 AFC–OFC Challenge Cup|2001]]||colspan=9|''Did not qualify''
+|-bgcolor=gold
+|style="border: 3px solid red"|{{flagicon|IRN}} [[2003 AFC–OFC Challenge Cup|2003]]||'''Champions'''||'''1st'''||'''1'''||'''1'''||'''0'''||'''0'''||'''3'''||'''0'''||'''Squad'''
+|-
+!Total||1 title||1/2||1||1||0||0||3||0||—
+|}
+
+== Head-to-head record ==
+{{Main|Iran national football team records and statistics}}
+
+{{#section-h:Iran national football team records and statistics|Head-to-head records}}
+
+== FIFA World rankings ==
+{{Main|Asian Football Confederation#Team of the Year}}
+{{See also|FIFA World Rankings}}
+{{Update section|date=October 2022|reason=Include post-2021 rankings}}
+
+9 {{gold1}} , 9 {{silver2}} , 2 {{bronze3}} , 5 (Fourth Place) (25/31) (1993–2023)<ref>{{cite web | url=https://www.fifa.com/fifa-world-ranking/men | title=Men's Ranking |website=Fifa.com}}</ref>
+
+[[File:Iran FIFA Ranking.png|thumb|300px|[[FIFA World Rankings]] for Iran, August 1993 – June 2026<ref name="fifatoo">[https://web.archive.org/web/20070604211258/http://fifa.com/associations/association=irn/ranking/gender=m/index.html FIFA/Coca-Cola World Ranking], ''Fifa.com''</ref>]]
+
+Between December 2014 and May 2018, Iran was the highest-ranked team in [[Asian Football Confederation|Asia]], which is the longest continuous period of time that a team has held that distinction.<ref>{{#invoke:cite|web|url=https://www.fifa.com/associations/association=irn/ranking/gender=m/index.html |archive-url=https://web.archive.org/web/20070604211258/http://fifa.com/associations/association=irn/ranking/gender=m/index.html |url-status=dead |archive-date=4 June 2007 |title=Iran: FIFA/Coca-Cola World Ranking |publisher=FIFA.com |access-date=23 December 2016}}</ref>
+
+; Highest FIFA ranking : '''15''' (July 2005)<ref name="fifa">{{#invoke:cite|news|date=17 June 2013 |title=Asia's finale sees three spots up for grabs |publisher=FIFA.com |url=https://www.fifa.com/worldcup/preliminaries/news/newsid=2111172/ |url-status=dead |access-date=19 October 2013 |archive-url=https://web.archive.org/web/20130621052549/http://www.fifa.com/worldcup/preliminaries/news/newsid=2111172/ |archive-date=21 June 2013}}</ref>
+; Lowest FIFA ranking : '''122''' (May 1996)<ref name="fifa"/>
+; Best mover : '''+65''' (July 1996)<ref name="fifa"/>
+; Worst mover : '''–43''' (October 1995)<ref name="fifa"/>
+
+''Last update was on 01 January 2022.''<ref>{{#invoke:cite|web|title=Iran Mens ranking|url=https://www.fifa.com/fifa-world-ranking/IRN|access-date=21 December 2020|archive-date=10 July 2021|archive-url=https://web.archive.org/web/20210710004402/https://www.fifa.com/fifa-world-ranking/IRN|url-status=live}}</ref><!-- Need to update with valid reason and proof -->
+
+{{Color box|blue|border=darkgray}} '''Best Ranking'''&nbsp;&nbsp;{{Color box|gold|border=darkgray}} '''Worst Ranking'''&nbsp;&nbsp;{{Color box|green|border=darkgray}} '''Best Mover'''&nbsp;&nbsp;{{Color box|red|border=darkgray}} '''Worst Mover'''&nbsp;&nbsp;
+
+{| class="wikitable sortable" style="text-align:center;"
+|-
+! colspan="11" style="background:white; border:3px solid #00A693", color:#DA0000;"|{{#invoke:flag|icon|IRN}} Iran's [[FIFA World Rankings|FIFA World Ranking]] History
+|-
+!rowspan=2 style="background-color: #00A693; color: #FFFFFF;|Rank
+!rowspan=2 style="background-color: #00A693; color: #FFFFFF;|Year
+!rowspan=2 style="background-color: #00A693; color: #FFFFFF;|Games<br />Played
+!rowspan=2 style="background-color: #00A693; color: #FFFFFF;|Won
+!rowspan=2 style="background-color: #00A693; color: #FFFFFF;|Drawn
+!rowspan=2 style="background-color: #00A693; color: #FFFFFF;|Lost
+!colspan=2 style="background-color: #00A693; color: #FFFFFF;|Best
+!colspan=2 style="background-color: #00A693; color: #FFFFFF;|Worst
+|-
+! style="background-color: #00A693; color: #FFFFFF;|Rank
+! style="background-color: #00A693; color: #FFFFFF;|Move
+! style="background-color: #00A693; color: #FFFFFF;|Rank
+! style="background-color: #00A693; color: #FFFFFF;|Move
+|-
+| 24 || 2022 ||11 ||6 ||1 ||4
+| 20 ||align=left|{{increase}} 2 || 24 ||align=left|{{decrease}} 4
+|-
+| 21 || 2021 ||11 ||10 ||1 ||0
+| 21 ||align=left|{{increase}} 5 || 31 ||align=left|{{decrease}} 2
+|-
+| 29 || 2020 ||2 ||2 ||0 ||0
+| 29 ||align=left|{{increase}} 3 || 33 ||align=left|{{decrease}} 0
+|-
+| 33 || 2019 ||12 ||7 ||2 ||3
+| 20 ||align=left|{{increase}} 7 || 33 ||align=left|{{decrease}} 6
+|-
+| 29 || 2018 ||15 ||9||3||3
+| 28 ||align=left|{{increase}} 5 || 37 ||align=left|{{decrease}} 3
+|-
+| 32 || 2017 ||11 ||7 ||3 ||1
+| 23 ||align=left|{{increase}} 7 || 43 ||align=left|{{decrease}} 9
+|-
+| 29 || 2016 ||10 ||8 ||2 ||0
+| 27 ||align=left|{{increase}} 10 || 44 ||align=left|{{decrease}} 3
+|-
+| 45 || 2015 ||15 || 10||4 ||1
+| 38 ||align=left|{{increase}} 10 || 51 ||align=left|{{decrease}} 4
+|-
+| 51 || 2014 ||10 ||3 ||4 ||3
+| 34 ||align=left|{{increase}} 5 || 56 ||align=left|{{decrease}} 7
+|-
+| 33 || 2013 ||9 ||7 ||1 ||1
+| 33 ||align=left|{{increase}} 15 || 67 ||align=left|{{decrease}} 10
+|-
+| 59 || 2012 ||14 ||4 ||7 ||3
+| 44 ||align=left|{{increase}} 14 || 59 ||align=left|{{decrease}} 15
+|-
+| 45 || 2011 ||15 ||12 ||2 ||1
+| 42 ||align=left|{{increase}} 21 || 65 ||align=left|{{decrease}} 4
+|-
+| 66 || 2010 ||12 ||8 ||2 ||2
+| 57 ||align=left|{{increase}} 8 || 67 ||align=left|{{decrease}} 4
+|-
+| 64 || 2009 ||21 ||7 ||8 ||6
+| 42 ||align=left|{{increase}} 2 || 64 ||align=left|{{decrease}} 11
+|-
+| 43 || 2008 ||21 ||12 ||7 ||2
+| 37 ||align=left|{{increase}} 11 || 51 ||align=left|{{decrease}} 10
+|-
+| 41 || 2007 ||13 ||8 ||4 ||1
+| 32 ||align=left|{{increase}} 5 || 47 ||align=left|{{decrease}} 8
+|-
+| 38 || 2006 ||15 ||8 ||5 ||2
+| 19 ||align=left|{{increase}} 5 || 47 ||align=left|{{decrease}} 24
+|-
+| 19 || 2005 ||11 ||8||1 ||2
+| style="border: 3px solid blue"|15 ||align=left|{{increase}} 2 || 21 ||align=left|{{decrease}} 3
+|-
+| 20 || 2004 ||18 ||13 || 3||2
+| 17 ||align=left|{{increase}} 7 || 31 ||align=left|{{decrease}} 3
+|-
+| 28 || 2003 ||11 ||6 ||1 ||4
+| 28 ||align=left|{{increase}} 7 || 47 ||align=left|{{decrease}} 7
+|-
+| 33 || 2002 ||10 || 4||4 ||2
+| 29 ||align=left|{{increase}} 2 || 34 ||align=left|{{decrease}} 3
+|-
+| 29 || 2001 ||20 ||11 || 4||5
+| 29 ||align=left|{{increase}} 8 || 51 ||align=left|{{decrease}} 7
+|-
+| 37 || 2000 ||26 ||15 ||7 ||4
+| 37 ||align=left|{{increase}} 7 || 53 ||align=left|{{decrease}} 6
+|-
+| 49 || 1999 ||6 ||2 ||4 ||0
+| 44 ||align=left|{{increase}} 3 || 51 ||align=left|{{decrease}} 20
+|-
+| 27 || 1998 ||18 || 9||2 ||7
+| 27 ||align=left|{{increase}} 17 || 47 ||align=left|{{decrease}} 6
+|-
+| 46 || 1997 ||22 ||11 ||7 ||4
+| 46 ||align=left|{{increase}} 17 || 87 ||align=left|{{decrease}} 6
+|-
+| 83 || 1996 ||21 ||13 ||5 ||3
+| 57 ||style="border: 3px solid green" align=left|{{increase}} 65 || style="border: 3px solid gold"|122 ||align=left|{{decrease}} 7
+|-
+| 108 || 1995 ||0||0||0||0
+|63  ||align=left|{{increase}} 26 || 108 ||style="border: 3px solid red" align=left|{{decrease}} 43
+|-
+| 75 || 1994 ||4||1 ||2||1
+| 57 ||align=left|{{increase}} 2 ||75  ||align=left|{{decrease}} 9
+|-
+| 59 || 1993 ||15 ||9 ||3 ||3
+| 54 ||align=left|{{increase}} 7 || 59 ||align=left|{{decrease}} 4
+|}
+
+== Honours ==
+<!-- DO NOT ADD UNOFFICIAL OR FRIENDLY COMPETITIONS IN THE SUMMARY TABLE FOR OFFICIAL HONOURS ONLY -->
+===Intercontinental===
+* '''[[Afro-Asian Cup of Nations]]'''
+** {{silver2}} Runners-up (1): [[1991 Afro-Asian Cup of Nations|1991]]
+* '''[[AFC–OFC Challenge Cup]]'''
+** {{gold1}} '''Champions (1)''': [[2003 AFC–OFC Challenge Cup|2003]]
+
+===Continental===
+* '''[[AFC Asian Cup]]'''
+** [[File:Gold medal asia.svg|15px]] '''Champions (3)''': [[1968 AFC Asian Cup|1968]], [[1972 AFC Asian Cup|1972]], [[1976 AFC Asian Cup|1976]]
+** [[File:Bronze medal asia.svg|15px]] Third place (6): [[1980 AFC Asian Cup|1980]], [[1988 AFC Asian Cup|1988]], [[1996 AFC Asian Cup|1996]], [[2004 AFC Asian Cup|2004]], [[2019 AFC Asian Cup|2019]], [[2023 AFC Asian Cup|2023]]
+* '''[[Football at the Asian Games|Asian Games]]'''<sup>'''1'''</sup>
+** [[File:Gold medal asia.svg|15px]] '''Gold medal (4)''': [[Football at the 1974 Asian Games|1974]], [[Football at the 1990 Asian Games|1990]], [[Football at the 1998 Asian Games|1998]], [[Football at the 2002 Asian Games|2002]]
+** [[File:Silver medal asia.svg|15px]] Silver medal (2): [[Football at the 1951 Asian Games|1951]], [[Football at the 1966 Asian Games|1966]]
+
+===Regional===
+* '''[[WAFF Championship]]'''
+** {{gold1}} '''Champions (4)''': [[West Asian Football Federation Championship 2000|2000]], [[West Asian Football Federation Championship 2004|2004]], [[West Asian Football Federation Championship 2007|2007]]*, [[West Asian Football Federation Championship 2008|2008]]
+** {{silver2}} Runners-up (1): [[2010 West Asian Football Federation Championship|2010]]
+** {{bronze3}} Third place (1): [[2002 West Asian Football Federation Championship|2002]]
+* '''[[CAFA Nations Cup]]'''
+** {{gold1}} '''Champions (1)''': [[2023 CAFA Nations Cup|2023]]
+** {{silver2}} Runners-up (1): [[2025 CAFA Nations Cup|2025]]
+* '''[[Football at the West Asian Games|West Asian Games]]'''
+** {{gold01}} '''Gold medal (1)''': [[Football at the 1997 West Asian Games|1997]]
+** {{silver2}} Runners-up (1): [[Football at the 2002 West Asian Games|2002]]
+** {{bronze3}} Third place (1): [[Football at the 2005 West Asian Games|2005]]
+
+===Friendly===
+* '''[[ECO Cup]]''' 
+** '''Winners''': [[1965 RCD Cup|1965]], [[1970 RCD Cup|1970]], [[1993 ECO Cup|1993]]
+** Runners-up: [[1967 RCD Cup|1967]], [[1969 RCD Cup|1969]], [[1974 RCD Cup|1974]]**
+* '''[[LG Cup (association football)|LG Cup]]'''<ref>{{#invoke:cite|web|url=https://www.rsssf.org/tablesl/lgcup.html| work=[[RSSSF]]|author=rsssf.com|title=LG Cup Four Nations Tournament |date=|access-date=6 November 2022}}</ref>
+** '''Winners''': [[2001 LG Cup (Iran)|2001]], [[2002 LG Cup (Morocco)|2002 (Morocco)]], [[2002 LG Cup (Iran)|2002 (Iran)]]
+** Third place: [[2000 LG Cup (Iran)|2000]]
+* '''[[Quaid-e-Azam International Tournament]]'''
+** '''Winners''': [[1982 Quaid-e-Azam International Tournament|1982]]
+* '''Iran Friendship Cup'''
+** Runners-up: [[1969 Friendship Cup|1969]]
+* '''[[1971 Cyrus International Tournament|Cyrus International Tournament]]'''
+** '''Winners''': 1971
+* '''[[1974 Iran International Tournament|Iran International Tournament]]'''
+** '''Winners''': 1974
+* '''[[1986 Fajr International Tournament|Fajr International Tournament]]'''
+** Runners-up: 1986
+* '''[[Lunar New Year Cup]]'''
+** Runners-up: [[2003 Lunar New Year Cup|2003]]
+** Third place: [[1998 Lunar New Year Cup|1998]]
+* '''Ciao February Cup'''
+** Runners-up: 1999
+* '''[[Canada Cup (soccer)|Canada Cup]]'''
+** Runners-up: [[1999 Canada Cup|1999]]
+* '''Civilization Cup'''
+** Third place: 2001
+* '''Tehran Cup'''
+** Third place: 2005
+* '''Oman Cup'''
+** Third place: 2008
+* '''[[2025 Al Ain International Cup|Al Ain International Cup]]'''
+** Runners-up: 2025
+<sup>**</sup> as [[Malavan F.C.|Malavan]]
+
+===Awards===
+* '''[[AFC Asian Cup awards#Fair Play Award|AFC Asian Cup Fair Play Award]]''': 1996
+
+===Summary===
+Only official honours are included, according to ''FIFA statutes'' (competitions organized/recognized by [[FIFA]] or an affiliated confederation).
+{| class="wikitable" width=30% style="font-size:90; text-align:center;"
+|-
+!Competition!!{{Gold1}}!!{{Silver2}}!!{{Bronze3}}!!Total
+|-
+|align=left|[[AFC Asian Cup]]
+|3||0||6||9
+|-
+|align=left|[[Afro-Asian Cup of Nations]]
+|0||1||0||1
+|-
+|align=left|[[AFC–OFC Challenge Cup]]
+|1||0||0||1
+|-
+!Total!!4!!1!!6!!11
+|}
+;Notes:
+# Competition organized by [[Olympic Council of Asia|OCA]], officially not recognized by FIFA.
+
+== See also ==
+* [[Iran national football B team]]
+* [[Football Federation Islamic Republic of Iran]]
+* [[Persian Gulf Pro League]]
+* [[Iranian football clubs in the AFC Champions League]]
+* [[Asian Club Championship and AFC Champions League Elite records and statistics]]
+* [[Football in Iran]]
+* [[Futsal in Iran]]
+* [[Iran national futsal team]]
+* [[Iran national beach soccer team]]
+* [[Iran national under-23 football team]]
+* [[Iran national under-20 football team]]
+* [[Iran national under-17 football team]]
+* [[Iran women's national football team]]
+* [[Iran women's national under-20 football team]]
+* [[Iran women's national under-17 football team]]
+* [[Iran women's national futsal team]]
+* [[Tehran XI]]
+
+== Notes ==
+{{notelist}}
+<references group="note" /><references group="lower-alpha" />
+
+== References ==
+{{reflist|colwidth=30em}}
+
+== External links ==
+{{Commons category}}
+*[https://www.fifa.com/about-fifa/associations/IRN Iran profile] at FIFA.com
+*[http://www.teammelli.com/ Extensive archive of Team's results, squads, campaigns and players]
+*[http://www.parstimes.com/soccer/ Players Profile, Articles, Statistics and Gallery of National Team]
+*[https://www.rsssf.org/tablesi/iran-intres.html RSSSF archive of results since 1941]
+*[https://www.rsssf.org/miscellaneous/iran-recintlp.html RSSSF archive of most capped players and top goalscorers]
+
+{{s-start-collapsible|header={{s-ach}}}}
+{{succession box
+ | before = [[1964 AFC Asian Cup|1964]] {{fb-rt|Israel}}
+ | title  = [[AFC Asian Cup|Asian Champions]]
+ | years  = [[1968 AFC Asian Cup|1968]] (first title)<br />[[1972 AFC Asian Cup|1972]] (second title)<br />[[1976 AFC Asian Cup|1976]] (third title)
+ | after  = [[1980 AFC Asian Cup|1980]] {{fb-rt|Kuwait}}
+}}
+{{succession box
+ | before = {{fb-big|Myanmar|1974}}<br />{{fb-big|South Korea}}
+ | title  = [[Football at the Asian Games|Asian Games Champions]]
+ | years  = 1974 (first title)
+ | after  = {{fb-big|North Korea}}<br />{{fb-big|South Korea}}
+}}
+{{succession box
+ | before = {{fb-rt|South Korea}}
+ | title  = [[Football at the Asian Games|Asian Games Champions]]
+ | years  = 1990 (second title)
+ | after  = {{fb-big|Uzbekistan}}
+}}
+{{succession box
+ | before = {{fb-rt|Uzbekistan}}
+ | title  = [[Football at the Asian Games|Asian Games Champions]]
+ | years  = 1998 (third title)<br />2002 (fourth title)
+ | after  = {{fb-big|Qatar}}
+}}
+{{succession box
+ | before = Inaugural champions
+ | title  = [[West Asian Football Federation Championship|WAFF Champions]]
+ | years  = [[West Asian Football Federation Championship 2000|2000]] (first title)
+ | after  = [[West Asian Football Federation Championship 2002|2002]] {{fb|Iraq|1991}}
+}}
+{{succession box
+ | before = [[West Asian Football Federation Championship 2002|2002]] {{fb|Iraq|1991}}
+ | title  = [[West Asian Football Federation Championship|WAFF Champions]]
+ | years  = [[West Asian Football Federation Championship 2004|2004]] (second title)<br />[[West Asian Football Federation Championship 2007|2007]] (third title)<br />[[West Asian Football Federation Championship 2008|2008]] (fourth title)
+ | after  = [[West Asian Football Federation Championship 2010|2010]] {{fb|Kuwait}}
+}}
+{{succession box
+ | before = Inaugural champions
+ | title  = [[CAFA Nations Cup|CAFA Champions]]
+ | years  = [[2023 CAFA Nations Cup|2023]] (first title)
+ | after  = {{fb-big|Uzbekistan}}
+}}
+{{s-end}}
+{{AFC Asian Cup winners}}
+{{Asian Games football men's tournament winners}}
+{{Iran national football team}}
+{{#invoke:navboxes|top
+|title = World Cup Finalists
+|state = collapsed}}
+{{1978 FIFA World Cup finalists}}
+{{1998 FIFA World Cup finalists}}
+{{2006 FIFA World Cup finalists}}
+{{2014 FIFA World Cup finalists}}
+{{2018 FIFA World Cup finalists}}
+{{2022 FIFA World Cup finalists}}
+{{2026 FIFA World Cup finalists}}
+{{#invoke:navboxes|bottom}}
+{{#invoke:navboxes|top
+|title = Asian Cup Finalists
+|state = collapsed}}
+{{1968 AFC Asian Cup finalists}}
+{{1972 AFC Asian Cup finalists}}
+{{1976 AFC Asian Cup finalists}}
+{{1980 AFC Asian Cup finalists}}
+{{1984 AFC Asian Cup finalists}}
+{{1988 AFC Asian Cup finalists}}
+{{1992 AFC Asian Cup finalists}}
+{{1996 AFC Asian Cup finalists}}
+{{2000 AFC Asian Cup finalists}}
+{{2004 AFC Asian Cup finalists}}
+{{2007 AFC Asian Cup finalists}}
+{{2011 AFC Asian Cup finalists}}
+{{2015 AFC Asian Cup finalists}}
+{{2019 AFC Asian Cup finalists}}
+{{2023 AFC Asian Cup finalists}}
+{{#invoke:navboxes|bottom}}
+{{navboxes top|title = [[Football at the Summer Olympics|Olympics]] squads navigation boxes}}
+{{Iran football squad 1964 Summer Olympics}}
+{{Iran football squad 1972 Summer Olympics}}
+{{Iran football squad 1976 Summer Olympics}}
+{{navboxes bottom}}
+{{navboxes top|title = [[FIFA World Cup]] squads navigation boxes}}
+{{Iran squad 1978 FIFA World Cup}}
+{{Iran squad 1998 FIFA World Cup}}
+{{Iran squad 2006 FIFA World Cup}}
+{{Iran squad 2014 FIFA World Cup}}
+{{Iran squad 2018 FIFA World Cup}}
+{{Iran squad 2022 FIFA World Cup}}
+{{Iran squad 2026 FIFA World Cup}}
+{{navboxes bottom}}
+{{navboxes top|title = [[AFC Asian Cup]] squads navigation boxes}} 
+{{Iran squad 1968 AFC Asian Cup}}
+{{Iran squad 1972 AFC Asian Cup}}
+{{Iran squad 1976 AFC Asian Cup}}
+{{Iran squad 1980 AFC Asian Cup}}
+{{Iran squad 1984 AFC Asian Cup}}
+{{Iran squad 1988 AFC Asian Cup}}
+{{Iran squad 1992 AFC Asian Cup}}
+{{Iran squad 1996 AFC Asian Cup}}
+{{Iran squad 2000 AFC Asian Cup}}
+{{Iran squad 2004 AFC Asian Cup}}
+{{Iran squad 2007 AFC Asian Cup}}
+{{Iran squad 2011 AFC Asian Cup}}
+{{Iran squad 2015 AFC Asian Cup}}
+{{Iran squad 2019 AFC Asian Cup}}
+{{Iran squad 2023 AFC Asian Cup}}
+{{navboxes bottom}}
+{{Football in Iran}}
+{{AFC teams}}
+{{National sports teams of Iran}}
+
+[[Category:Iran national football team| ]]
+[[Category:Iran men's national football teams| ]]
+[[Category:AFC Asian Cup–winning countries]]
+[[Category:Asian national association football teams]]
+[[Category:Football Federation Islamic Republic of Iran national teams| ]]

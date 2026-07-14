@@ -1,0 +1,3131 @@
+{{Short description|Men's association football team}}
+{{About|the men's team|the women's team|Costa Rica women's national football team}}
+{{Use dmy dates|date=June 2026}}
+{{Infobox national football team
+| Name                  = Costa Rica
+| Badge                 = Costa Rica national football team logo.svg
+| Badge_size            = 185px
+| FIFA Trigramme        = CRC
+| Nickname              = ''Los Ticos''<br>''La Sele''<br>''La Tricolor''
+| Association           = [[Costa Rican Football Federation|Federación Costarricense de Fútbol]] (FCRF)<ref>{{#invoke:cite|news|last1=Araya |first1=José Fernando |title=Esta es la nueva imagen de la Federación Costarricense de Fútbol |url=https://www.teletica.com/la-sele/esta-es-la-nueva-imagen-de-la-federacion-costarricense-de-futbol_299815 |access-date=25 November 2021 |work=[[Teletica]] |date=24 November 2021 |language=es |archive-date=25 November 2021 |archive-url=https://web.archive.org/web/20211125015635/https://www.teletica.com/la-sele/esta-es-la-nueva-imagen-de-la-federacion-costarricense-de-futbol_299815 |url-status=live }}</ref>
+| Confederation         = [[CONCACAF]] (North America)
+| Sub-confederation     = [[Central American Football Union|UNCAF]] (Central America)
+| Coach                 = [[Fernando Batista]]
+| Home Stadium          = [[Estadio Nacional de Costa Rica (2011)|Estadio Nacional]]
+| Captain               = [[Orlando Galo]]
+| Most caps             = [[Celso Borges]] (164)
+| Top scorer            = [[Rolando Fonseca]] (47)
+| FIFA Rank             = {{FIFA World Rankings|CRC}}
+| FIFA max              = 13
+| FIFA max date         = February–March 2015
+| FIFA min              = 93
+| FIFA min date         = July 1996
+| Elo Rank              = {{World Football Elo Ratings|Costa Rica}}
+| Elo max               = 13
+| Elo max year          = 11 March 1960
+| Elo min               = 81
+| Elo min date          = March 1983
+| pattern_la1           = _crc26h
+| pattern_b1            = _crc26hA
+| pattern_ra1           = _crc26h
+| pattern_sh1           = _crc26h
+| pattern_so1           = _crc26hl
+| leftarm1              = EF0000
+| body1                 = EF0000
+| rightarm1             = EF0000
+| shorts1               = 000066
+| socks1                = EF0000
+| pattern_la2           = _crc26a
+| pattern_b2            = _crc26a
+| pattern_ra2           = _crc26a
+| pattern_sh2           = _crc26a
+| pattern_so2           = _adidasnavyl
+| leftarm2              = FFFFFF
+| body2                 = FFFFFF
+| rightarm2             = FFFFFF
+| shorts2               = FFFFFF
+| socks2                = FFFFFF
+| First game            = {{nowrap|{{fb|CRC}} 7–0 {{fb-rt|SLV}}<br>([[Guatemala City]], Guatemala; 14 September 1921)}}
+| Largest win           = {{fb|CRC}} 12–0 {{fb-rt|PUR|1912}}<br>([[Barranquilla]], Colombia; 10 December 1946)
+| Largest loss          = {{fb|MEX}} 7–0 {{fb-rt|CRC}}<br>([[Mexico City]], Mexico; 17 August 1975)<br>{{fb|ESP}} 7–0 {{fb-rt|CRC}}<br>([[Doha]], Qatar; 23 November 2022)
+| World cup apps        = 6<!--as of 2026-->
+| World cup first       = 1990
+| World cup best        = Quarter-finals ([[2014 FIFA World Cup|2014]])
+| Regional name         = [[CONCACAF Championship]] / [[CONCACAF Gold Cup|Gold Cup]]
+| Regional cup apps     = 23<!--as of 2025-->
+| Regional cup first    = [[1963 CONCACAF Championship|1963]]
+| Regional cup best     = '''Champions''' ([[1963 CONCACAF Championship|1963]], [[1969 CONCACAF Championship|1969]], [[1989 CONCACAF Championship|1989]])
+| 2ndRegional name      = [[CONCACAF Nations League]]
+| 2ndRegional cup apps  = 4<!--as of 2025-->
+| 2ndRegional cup first = [[2019–20 CONCACAF Nations League|2019–20]]
+| 2ndRegional cup best  = Fourth place ([[2021 CONCACAF Nations League Finals|2021]])
+| 3rdRegional name      = [[Copa América]]
+| 3rdRegional cup apps  = 6<!--as of 2024-->
+| 3rdRegional cup first = [[1997 Copa América|1997]]
+| 3rdRegional cup best  = Quarter-finals ([[2001 Copa América|2001]], [[2004 Copa América|2004]])
+| 4thRegional name      = [[CCCF Championship]]
+| 4thRegional cup apps  = 9
+| 4thRegional cup first = [[1941 CCCF Championship|1941]]
+| 4thRegional cup best  = '''Champions''' ([[1941 CCCF Championship|1941]], [[1946 CCCF Championship|1946]], [[1948 CCCF Championship|1948]], [[1953 CCCF Championship|1953]], [[1955 CCCF Championship|1955]], [[1960 CCCF Championship|1960]], [[1961 CCCF Championship|1961]])
+| medaltemplates        =
+{{MedalCompetition|[[CONCACAF Championship]] / [[CONCACAF Gold Cup|Gold Cup]]}}
+{{MedalGold|[[1963 CONCACAF Championship|1963 El Salvador]]|[[1963 CONCACAF Championship squads#Costa Rica|Team]]}}
+{{MedalGold|[[1969 CONCACAF Championship|1969 Costa Rica]]|Team}}
+{{MedalGold|[[1989 CONCACAF Championship|1989 North America]]|Team}}
+{{MedalSilver|[[2002 CONCACAF Gold Cup|2002 United States]]|[[2002 CONCACAF Gold Cup squads#Costa Rica|Team]]}}
+{{MedalBronze|[[1965 CONCACAF Championship|1965 Guatemala]]|[[1965 CONCACAF Championship squads#Costa Rica|Team]]}}
+{{MedalBronze|[[1971 CONCACAF Championship|1971 Trinidad and Tobago]]|Team}}
+{{MedalBronze|[[1985 CONCACAF Championship|1985 North America]]|Team}}
+{{MedalBronze|[[1993 CONCACAF Gold Cup|1993 United States and Mexico]]|Team}}
+{{MedalCompetition|[[CCCF Championship]]}}
+{{MedalGold|[[1941 CCCF Championship|1941 Costa Rica]]|[[1941 CCCF Championship squads#Costa Rica|Team]]}}
+{{MedalGold|[[1946 CCCF Championship|1946 Costa Rica]]|[[1946 CCCF Championship squads#Costa Rica|Team]]}}
+{{MedalGold|[[1948 CCCF Championship|1948 Guatemala]]|[[1948 CCCF Championship squads#Costa Rica|Team]]}}
+{{MedalGold|[[1953 CCCF Championship|1953 Costa Rica]]|[[1953 CCCF Championship squads#Costa Rica|Team]]}}
+{{MedalGold|[[1955 CCCF Championship|1955 Honduras]]|[[1955 CCCF Championship squads#Costa Rica|Team]]}}
+{{MedalGold|[[1960 CCCF Championship|1960 Cuba]]|[[1960 CCCF Championship squads#Costa Rica|Team]]}}
+{{MedalGold|[[1961 CCCF Championship|1961 Costa Rica]]|[[1961 CCCF Championship squads#Costa Rica|Team]]}}
+{{MedalSilver|[[1951 CCCF Championship|1951 Panama]]|[[1951 CCCF Championship squads#Costa Rica|Team]]}}
+{{MedalBronze|[[1943 CCCF Championship|1943 El Salvador]]|[[1943 CCCF Championship squads#Costa Rica|Team]]}}
+{{MedalCompetition|[[Panamerican Championship]]}}
+{{MedalBronze|[[1956 Panamerican Championship|1956 Mexico]]|[[1956 Panamerican Championship squads#Costa Rica|Team]]}}
+{{MedalCompetition|[[Copa Centroamericana]]}}
+{{MedalGold|[[1991 UNCAF Nations Cup|1991 Costa Rica]]|[[1991 UNCAF Nations Cup squads#Costa Rica|Team]]}}
+{{MedalGold|[[1997 UNCAF Nations Cup|1997 Guatemala]]|[[1997 UNCAF Nations Cup squads#Costa Rica|Team]]}}
+{{MedalGold|[[1999 UNCAF Nations Cup|1999 Cost Rica]]|[[1999 UNCAF Nations Cup squads#Costa Rica|Team]]}}
+{{MedalGold|[[2003 UNCAF Nations Cup|2003 Panama]]|[[2003 UNCAF Nations Cup squads#Costa Rica|Team]]}}
+{{MedalGold|[[2005 UNCAF Nations Cup|2005 Guatemala]]|[[2005 UNCAF Nations Cup squads#Costa Rica|Team]]}}
+{{MedalGold|[[2007 UNCAF Nations Cup|2007 El Salvador]]|[[2007 UNCAF Nations Cup squads#Costa Rica|Team]]}}
+{{MedalGold|[[2013 Copa Centroamericana|2013 Costa Rica]]|[[2013 Copa Centroamericana squads#Costa Rica|Team]]}}
+{{MedalGold|[[2014 Copa Centroamericana|2014 United States]]|[[2014 Copa Centroamericana squads#Costa Rica|Team]]}}
+{{MedalSilver|[[1993 UNCAF Nations Cup|1993 Honduras]]|[[1993 UNCAF Nations Cup squads#Costa Rica|Team]]}}
+{{MedalSilver|[[2001 UNCAF Nations Cup|2001 Honduras]]|[[2001 UNCAF Nations Cup squads#Costa Rica|Team]]}}
+{{MedalSilver|[[2009 UNCAF Nations Cup|2009 Honduras]]|[[2009 UNCAF Nations Cup squads#Costa Rica|Team]]}}
+{{MedalSilver|[[2011 Copa Centroamericana|2011 Panama]]|[[2011 Copa Centroamericana squads#Costa Rica|Team]]}}
+{{MedalCompetition|[[Football at the Central American and Caribbean Games|Central American and Caribbean Games]]}}
+{{MedalSilver|[[Football at the 1930 Central American and Caribbean Games|1930 Cuba]]|Team}}
+{{MedalSilver|[[Football at the 1935 Central American and Caribbean Games|1935 El Salvador]]|Team}}
+{{MedalSilver|[[Football at the 1938 Central American and Caribbean Games|1938 Panama]]|Team}}
+| website = {{URL|https://www.fcrf.cr/category/noticias/seles-masculinas/sele-mayor/|fcrf.cr/sele-mayor}}
+}}
+ 
+The '''Costa Rica national football team''' ({{langx|es|Selección de fútbol de Costa Rica}}) represents [[Costa Rica]] in men's international [[Association football|football]], which is governed by the [[Costa Rican Football Federation|Federación Costarricense de Fútbol]] ({{langx|en|Costa Rican Football Federation}}), the governing body for [[football in Costa Rica]] founded in 1921. It has been an affiliate member of [[FIFA]] since 1927 and a founding affiliate member of [[CONCACAF]] since 1961. Regionally, it is an affiliate member of [[Central American Football Union|UNCAF]] in the Central American Zone. 
+From 1938 to 1961, it was a member of [[Confederación Centroamericana y del Caribe de Fútbol|CCCF]], the former governing body of football in Central America and Caribbean and a predecessor confederation of CONCACAF, and also a member of [[Panamerican Championship#Panamerican Football Confederation|PFC]], the former unified confederation of the Americas, from 1946 to 1961.
+
+Costa Rica has qualified for the [[FIFA World Cup]] six times, and it is one of four CONCACAF teams to have advanced to the knockout stage, reaching the quarter-finals in [[2014 FIFA World Cup|2014]] and also reaching the round of 16 in [[1990 FIFA World Cup|1990]]. It also participated twice in the [[Football at the Summer Olympics|Olympic Games]] ([[Football at the 1980 Summer Olympics|1980]] and [[Football at the 1984 Summer Olympics|1984]]).
+
+Costa Rica has participated twenty-three times in CONCACAF's premier continental competition; it is the third most successful team in its confederation and the most successful Central American team, winning 3 [[CONCACAF Championship]] titles ([[1963 CONCACAF Championship|1963]], [[1969 CONCACAF Championship|1969]] and [[1989 CONCACAF Championship|1989]]), becoming the first champions of the competition in 1963. The team's best performance under the [[CONCACAF Gold Cup]] format was finishing as runners-up in [[2002 CONCACAF Gold Cup|2002]]. It has participated four times in League A of the [[CONCACAF Nations League]], finishing in fourth place in the [[2021 CONCACAF Nations League Finals|2021 finals]].
+It has participated six times in the [[Copa América]], reaching the quarter-finals ([[2001 Copa América|2001]] and [[2004 Copa América|2004]]), and also participated twice in the [[Panamerican Championship]], finishing in third place in [[1956 Panamerican Championship|1956]].
+
+Regionally, the team won 7 [[CCCF Championship]] titles and 8 [[Copa Centroamericana]] titles. 
+
+Costa Rica has the [[World Football Elo Ratings#Strongest teams since the mid to late 1960s|all-time highest average Football Elo Ranking in Central America]] with 1597.1, and the [[World Football Elo Ratings#All-time highest ratings|all-time highest Football Elo Ranking in Central America]], with 1806 in 2014.
+Since the late 1980s, the team has continuously been visible as a solidly competitive side and has been widely considered to be the second or third best team in the CONCACAF, with a prominent performance in the [[1990 FIFA World Cup]] in Italy, making it to the [[Single-elimination tournament|knockout stage]] in their debut after finishing second in their group during the first phase, below [[Brazil national football team|Brazil]]. They also qualified for the [[2002 FIFA World Cup|2002]] and [[2006 FIFA World Cup|2006 World Cup]]s. In [[2014 FIFA World Cup|2014]], Costa Rica achieved their best performance in history by [[2014 FIFA World Cup Group D|finishing first in their group]] that consisted of three former World Cup champions: [[Uruguay national football team|Uruguay]], [[Italy national football team|Italy]], and [[England national football team|England]]. During the round 16 they defeated [[Greece national football team|Greece]] 5–3 via a penalty shoot-out after a 1–1 draw. Moreover, during their match against the Greek team, [[Keylor Navas]] saved more than 15 shots. They reached the quarter-finals for the first time but were defeated by the [[Netherlands national football team|Netherlands]], also in a penalty shoot-out (3–4) after a scoreless draw on 5 July.<ref>{{#invoke:cite|news|url=https://www.nytimes.com/2014/07/05/sports/worldcup/world-cup-2014-costa-rica-could-learn-from-uruguays-example.html?_r=0|title=The Hopes of Central America Rest on a Perpetual Underdog : World Cup 2014: Costa Rica Could Learn From Uruguay's Example|newspaper=[[The New York Times]]|date=4 July 2014|access-date=19 December 2014|last1=Campomar|first1=Andreas|archive-date=20 December 2014|archive-url=https://web.archive.org/web/20141220000826/http://www.nytimes.com/2014/07/05/sports/worldcup/world-cup-2014-costa-rica-could-learn-from-uruguays-example.html?_r=0|url-status=live}}</ref><ref>{{#invoke:cite|web|url=http://www.wsc.co.uk/wsc-daily/1183-world-cup-2014/11720-costa-rica-goes-crazy-for-their-team-of-migrants|title=When Saturday Comes&nbsp;– Costa Rica goes crazy for the "team of migrants"|work=[[The New York Times]]|access-date=19 December 2014|archive-date=9 July 2014|archive-url=https://web.archive.org/web/20140709205045/http://www.wsc.co.uk/wsc-daily/1183-world-cup-2014/11720-costa-rica-goes-crazy-for-their-team-of-migrants|url-status=dead}}</ref> Both their [[2018 FIFA World Cup|2018]] and [[2022 FIFA World Cup|2022 World Cup]] campaigns ended in a fourth place group stage exit, with their only points coming from a 2–2 draw against [[Switzerland national football team|Switzerland]] in 2018 and a 1–0 win over [[Japan national football team|Japan]] in 2022.
+
+==History==
+
+===Early history===
+[[File:Costa Rica vs El Salvador 1921.jpg|thumb|left|The first-ever Costa Rican squad at the [[Independence Centenary Games]]]]
+The national team made its debut in the [[Independence Centenary Games]] held in [[Guatemala City]] in September 1921, winning their first game 7–0 against [[El Salvador national football team|El Salvador]]. In the final, Costa Rica defeated 6–0 [[Guatemala national football team|Guatemala]] to claim the trophy.<ref>{{#invoke:cite|web|last=Romero|first=Marcos|title=Costa Rica International Soccer Matches Since 1920|url=https://www.rsssf.org/tablesc/cos-intres.html|date=28 August 2009|website=[[RSSSF]]|access-date=2 November 2010|archive-date=3 December 2022|archive-url=https://web.archive.org/web/20221203211137/https://www.rsssf.org/tablesc/cos-intres.html|url-status=live}}</ref>
+
+Costa Rica's team in the late 1940s acquired the nickname "The Gold Shorties".<ref>{{#invoke:cite|web|title="Los Chaparritos de Oro", la increíble generación de la Selección de Costa Rica en los 50 |url=https://futbolcentroamerica.com/costarica/Los-Chaparritos-de-Oro-la-increible-generacion-de-la-Seleccion-de-Costa-Rica-en-los-50-20220422-0016.html |access-date=25 April 2022 |website=Fútbol Centroamérica |date=22 April 2022 |language=es-ES |archive-date=23 April 2022 |archive-url=https://web.archive.org/web/20220423010139/https://futbolcentroamerica.com/costarica/Los-Chaparritos-de-Oro-la-increible-generacion-de-la-Seleccion-de-Costa-Rica-en-los-50-20220422-0016.html |url-status=live }}</ref> Throughout the '50s and '60s, they were the second strongest team in the CONCACAF zone behind [[Mexico national football team|Mexico]], finishing runners-up in World Cup qualifying in the 1958, 1962 and 1966 qualifiers. Stars of the side during this period included Ruben Jimenez, Errol Daniels, Leonel Hernández and Edgar Marín. However, Costa Rica was not able to utilize this advantage, hence failed to reach any World Cup at that decade.
+
+At the end of the 1960s their fortunes declined as Guatemala, [[Honduras national football team|Honduras]], [[El Salvador national football team|El Salvador]], [[Haiti national football team|Haiti]], [[Trinidad and Tobago national football team|Trinidad and Tobago]], and [[Canada men's national soccer team|Canada]] rose in prominence.
+
+===1980s===
+Costa Rica failed to qualify for any of the World Cups in the 1970s and 1980s, and did not reach the final round of the CONCACAF qualifying until the [[1985 CONCACAF Championship|1986 qualifiers]].
+
+They participated in two consecutive Summer Olympic Games, in Moscow 1980 and in Los Angeles 1984. In 1980, Costa Rica competed against [[Yugoslavia national football team|Yugoslavia]], [[Finland national football team|Finland]] and [[Iraq national football team|Iraq]] in Group D, losing 3–2, 3–0 and 3–0 respectively. In [[Los Angeles]], the Ticos lost 3–0 against the [[United States men's national soccer team|United States]], and 4–1 against [[Egypt national football team|Egypt]], but beat a strong [[Italy national football team|Italy]] team, which included [[Walter Zenga]], [[Pietro Vierchowod]], [[Franco Baresi]] and [[Aldo Serena]], 1–0 with a goal by the midfielder [[Enrique Rivers]].
+
+===1990 World Cup===
+{{football squad on pitch|align=right
+|  GK = [[Luis Gabelo Conejo|'''Gabelo Conejo''']]
+|  RB = [[Germán Chavarría|'''Chavarría''']]
+| RCB = [[Róger Flores (Costa Rican footballer)|'''Flores''']]
+| LCB = [[Mauricio Montero|'''Montero''']]
+|  LB = [[José Carlos Chaves|'''Chaves''']]
+| RDM = [[Héctor Marchena|'''Marchena''']]
+| LDM = [[Rónald González (Costa Rican footballer)|'''González Brenes''']]
+|  RM = [[Roger Gómez|'''Gómez''']]
+|  AM = [[Juan Cayasso|'''Cayasso''']]
+|  LM = [[Óscar Ramírez (footballer, born 1964)|'''Ramírez''']]
+|  CF = [[Claudio Jara|'''Jara''']]
+| caption = Costa Rica's starting lineup against [[Scotland national football team|Scotland]] at the [[1990 FIFA World Cup]]
+}}
+Costa Rica won the [[1989 CONCACAF Championship]] to qualify for the finals of a [[FIFA World Cup|World Cup]] for the first time. In the first round of the qualifiers, they beat [[Panama national football team|Panama]] 3–1 on aggregate after a 2–0 away victory in the second leg, with goals by [[Juan Cayasso]] and [[Hernán Medford]]. They were drawn against Mexico in the second round, but advanced automatically when their opponents were disqualified for age fraud.
+
+Costa Rica started the final qualifying group stage with a home victory and an away defeat against both Guatemala and the United States. They drew 1–1 with Trinidad and Tobago and then beat the same opponents 1–0 at home with a goal by Cayasso. They achieved an important away win, 4–2 against El Salvador at the [[Estadio Cuscatlán]], with goals from [[:es:Carlos Mario Hidalgo|Carlos Hidalgo]], Cayasso and a brace from [[Leonidas Flores]], before beating El Salvador 1–0 in [[San José, Costa Rica|San José]] with a goal from [[Pastor Fernández]]. They finished first in the group table, ahead of the United States on goal difference.
+
+{{main|1989 CONCACAF Championship}}
+{{:1989 CONCACAF Championship|showteam=CRC|show_matches=n}}
+Placed in [[1990 FIFA World Cup Group C|Group C]] at the [[1990 FIFA World Cup|World Cup finals]], Costa Rica began by beating [[Scotland national football team|Scotland]] 1–0 thanks to another goal by Cayasso. Although they lost to [[Brazil national football team|Brazil]] by the same score, they came from behind to beat [[Sweden men's national football team|Sweden]] 2–1 in their final group match to reach the knockout stages. There, they lost 4–1 to [[Czechoslovakia national football team|Czechoslovakia]], for whom [[Tomáš Skuhravý]] scored a hat-trick.
+{{main|1990 FIFA World Cup Group C}}
+{{:1990 FIFA World Cup Group C|transcludesection=Standings|showteam=CRC}}
+
+===2002 World Cup===
+After failing to qualify for the [[1994 FIFA World Cup qualification (CONCACAF)|1994]] and [[1998 FIFA World Cup qualification (CONCACAF)|1998]] editions of the World Cup, the Ticos placed first in qualification for the [[2002 FIFA World Cup|2002 World Cup]] held in [[South Korea]] and [[Japan]]. During the qualifiers, Costa Rica were coached by Brazilian [[Gílson Nunes]], and then by the naturalised Brazilian, [[Alexandre Guimarães]]. The first qualifying group stage began with an unexpected 2–1 defeat to [[Barbados national football team|Barbados]]. After this humiliation, Costa Rica beat the United States 2–1 at the [[Estadio Ricardo Saprissa Aymá|Ricardo Saprissa Stadium]], with goals from [[Rolando Fonseca]] and [[Hernán Medford]]. They then beat Guatemala 2–1 in the [[Estadio Alejandro Morera Soto]], with two goals from [[Paulo Wanchope]] and Barbados 3–0 at the Ricardo Saprissa, with goals from [[Jafet Soto]], Fonseca and Medford. A draw against the United States and a 2–1 defeat to Guatemala forced Costa Rica into a play-off against Guatemala in [[Miami]]. Costa Rica won 5–2 with two goals from Fonseca and one each from Wanchope, [[Reynaldo Parks]] and [[Jafeth Soto]].
+
+Costa Rica displayed fine attacking form during the final qualifying round, beginning with a 2–2 draw against Honduras at the Ricardo Saprissa, with goals from Fonseca and [[Rodrigo Cordero]], and a 3–0 defeat of Trinidad and Tobago at the Morera Soto. Their only loss in this round came when the United States beat them 1–0. Costa Rica bounced back with a 2–1 win against Mexico in [[Mexico City]], a match known as the ''[[Aztecazo]]'',<ref>{{#invoke:cite|web|title=¡Aztecazo!|url=http://wvw.nacion.com/ln_ee/2001/junio/17/home.html|website=[[La Nación (San José)|Nación.com]]|access-date=26 March 2017|archive-date=29 June 2019|archive-url=https://web.archive.org/web/20190629040333/http://wvw.nacion.com/ln_ee/2001/junio/17/home.html|url-status=live}}</ref> with goals from Fonseca and Medford. Further wins over [[Jamaica national football team|Jamaica]], Honduras and Trinidad and Tobago took Costa Rica to the brink of qualification, which they sealed with an emotional 2–0 win against the United States in the Saprissa, with a brace from Fonseca.
+{{Main|2002 FIFA World Cup qualification – CONCACAF final round}}
+{{:2002 FIFA World Cup qualification – CONCACAF final round|show_matches=n|showteam=CRC}}
+In the [[2002 FIFA World Cup|finals]], Costa Rica were drawn into [[2002 FIFA World Cup Group C|Group C]] with Brazil, [[China national football team|China]], and [[Turkey national football team|Turkey]]. Their campaign started in [[Gwangju]], where the Ticos beat China 2–0. In their second game against Turkey in [[Incheon]], [[Winston Parks]] scored an 86th-minute goal to earn a 1–1 draw. Against Brazil, Costa Rica fought back from 3–0 down to 3–2 early in the second half, only to concede two further goals and lose 5–2. With Turkey beating China 3–0, Costa Rica finished behind Turkey on goal difference and were eliminated.
+{{Main|2002 FIFA World Cup Group C}}
+{{:2002 FIFA World Cup Group C|transcludesection=Standings|showteam=CRC}}
+
+===2006 World Cup===
+Costa Rica again managed to qualify for the [[2006 FIFA World Cup|World Cup finals]] in 2006, albeit with difficulties that saw their American coach [[Steve Sampson]] depart after they required away goals to beat [[Cuba national football team|Cuba]] in the preliminary phase. The Colombian [[Jorge Luis Pinto]] took over for the [[2006 FIFA World Cup qualification – CONCACAF third round|next round]], which began with a disastrous 5–2 defeat at home against Honduras and a 2–1 loss in Guatemala. Costa Rica recovered with two wins over Canada and a resounding 5–0 triumph over Guatemala, when Wanchope scored a hat-trick and [[Carlos Hernández (footballer, born 1982)|Carlos Hernández]] and Fonseca added further goals. Costa Rica advanced to the hexagonal round by winning the group.
+
+In the [[2006 FIFA World Cup qualification – CONCACAF fourth round|final round]] they started with a 2–1 defeat against Mexico at the Saprissa, before beating Panama by the same score, with goals from Wayne Wilson and [[Roy Myrie]]. Pinto was dismissed after a goalless draw with Trinidad and Tobago, and Guimarães returned as coach. His first match ended in a 3–0 defeat to the United States, but wins followed against Guatemala, Panama and Trinidad and Tobago. Costa Rica decisively beat the United States in the Saprissa, 3–0, with a goal from Wanchope and two from Hernández, to guarantee their third World Cup qualification.
+
+{{main|2006 FIFA World Cup qualification – CONCACAF fourth round}}
+{{2006 FIFA World Cup qualification - CONCACAF fourth round|only_pld_pts=no|show_matches=yes}}
+
+On 9 June 2006, Costa Rica played their debut match in [[Munich]] in the opening match of the World Cup against the hosts, [[Germany national football team|Germany]]. Wanchope scored to equalise after an early goal from [[Philipp Lahm]], and later added another, but Costa Rica lost 4–2. They failed to match this encouraging performance in their remaining two games, losing 3–0 against [[Ecuador national football team|Ecuador]] and 2–1 against [[Poland national football team|Poland]] in a dead rubber.
+
+{{main|2006 FIFA World Cup Group A}}
+{{:2006 FIFA World Cup Group A|transcludesection=standings|showteam=CRC}}
+
+===2010 World Cup===
+Costa Rica began the [[2010 FIFA World Cup qualification (CONCACAF)|qualifying competition]] for the [[2010 FIFA World Cup|2010 World Cup]] against [[Grenada national football team|Grenada]], winning 5–2 on aggregate (2–2, 3–0). They won all six games played in the next phase, against El Salvador (1–0, 3–1), Haiti (3–1, 2–0) and [[Suriname national football team|Suriname]] (7–0, 4–1).
+
+With two games left in the [[2010 FIFA World Cup qualification – CONCACAF fourth round|Hexagonal round]], Costa Rica trailed Honduras by one point in trying to win the third automatic qualification place behind the United States and Mexico. When Honduras lost 3–2 at home to the United States, Costa Rica overtook them with a 4–0 win against Trinidad and Tobago. Needing to win the final match in [[Washington, D.C.]] against the United States to ensure qualification, the Ticos led 2–0 at half-time, but [[Jonathan Bornstein]] scored an injury-time equaliser to draw the match 2–2. Meanwhile, Honduras's 1–0 victory over El Salvador moved them into third place in the group table on goal difference.
+
+Costa Rica finished fourth, pushing them into a [[2010 FIFA World Cup qualification (CONCACAF–CONMEBOL play-off)|play-off]] with the fifth-placed team from the [[CONMEBOL]] region, Uruguay. The Ticos lost the first leg in San José 1–0, after a goal by [[Diego Lugano]], and finished with ten men after [[Randall Azofeifa]] was sent off. In the second leg, played at the Estadio Centenario in [[Montevideo]], [[Sebastián Abreu]] put Uruguay ahead twenty minutes from time, and although [[Walter Centeno]] equalised, the 1–1 draw sent Uruguay to the World Cup finals, 2–1 on aggregate.
+
+After failing to qualify, the team began a new era, with the young talent of players such as Azofeifa, [[Keylor Navas]], [[Cristian Bolaños]], [[Michael Barrantes]] and [[Joel Campbell]]. [[Rónald González Brenes|Rónald González]] was the interim coach before [[Ricardo La Volpe]] was appointed in September 2010. He lasted only ten months before being replaced by the Colombian, Jorge Luis Pinto, in his second spell in charge. During this period, Costa Rica played many friendlies against the top-ranked teams in the world, including the world champion [[Spain national football team|Spain]], most of them in the new national stadium, the [[Estadio Nacional de Costa Rica (2011)|Estadio Nacional]], which was opened in 2011.
+
+===2014 World Cup===
+The Ticos' [[2014 FIFA World Cup|2014 World Cup]] campaign began with a 2–2 draw against El Salvador in the third round of the [[2014 FIFA World Cup qualification (CONCACAF)|qualifiers]]. They followed this with a 4–0 win over [[Guyana national football team|Guyana]] with a hat-trick by [[Álvaro Saborío]]. Two defeats to Mexico put the Ticos one defeat away from elimination, but they resurrected their campaign with a 1–0 win against El Salvador, with the only goal scored by [[José Miguel Cubero]]. They clinched a final round berth with a 7–0 win over Guyana, with goals scored by [[Randall Brenes]], Saborío, [[Cristian Bolaños]], [[Celso Borges]] and [[Cristian Gamboa]].
+
+The [[2014 FIFA World Cup qualification – CONCACAF fourth round|fourth round]] began with a 2–2 draw against Panama. In March, Costa Rica lost 1–0 against the United States in [[Denver]], and launched an unsuccessful appeal against the match because of inclement weather.<ref>{{#invoke:cite|web|url=http://edition.cnn.com/2013/03/26/sport/football/united-states-costa-rica-mexico-football/index.html|title=U.S. win stands as Costa Rica appeal blown away|date=26 March 2013|work=CNN|access-date=19 December 2014|archive-date=19 December 2014|archive-url=https://web.archive.org/web/20141219232416/http://edition.cnn.com/2013/03/26/sport/football/united-states-costa-rica-mexico-football/index.html|url-status=live}}</ref> Costa Rica again fell 1–0 to the United States in the [[2013 CONCACAF Gold Cup|Gold Cup]] that June.<ref>{{#invoke:cite|web|url=http://www.cbssports.com/general/eye-on-sports/22794673/us-downs-costa-rica-10-in-gold-cup-group-stage-advances-to-quarters|title=U.S. downs Costa Rica 1–0 in Gold Cup group stage, advances to quarters|work=CBSSports.com|access-date=19 December 2014|archive-date=19 December 2014|archive-url=https://web.archive.org/web/20141219225735/http://www.cbssports.com/general/eye-on-sports/22794673/us-downs-costa-rica-10-in-gold-cup-group-stage-advances-to-quarters|url-status=live}}</ref> Costa Rica then won 2–0 against Jamaica, beat Honduras 1–0 against, drew 0–0 at the [[Estadio Azteca|Azteca]] against Mexico and won at home 2–0 against Panama. In September, they won 3–1 against the United States in San José.
+
+On 10 September 2013, Costa Rica drew 1–1 with Jamaica, thanks to a goal from Brenes, to qualify with two games to spare. After a 1–0 loss at Honduras and 2–1 win over Mexico in October, Costa Rica finished second in the table, behind the United States.
+{{Main|2014 FIFA World Cup qualification – CONCACAF fourth round}}
+{{:2014 FIFA World Cup qualification –  CONCACAF fourth round|showteam=CRC}}
+Costa Rica were drawn in finals Group D against three previous tournament winners – [[Italy national football team|Italy]], [[England national football team|England]] and Uruguay – and were given odds of 2500–1 to win the tournament.{{citation needed|date=May 2020}} However, they beat Uruguay and Italy and drew 0–0 with England to finish top of the group and qualify for the knockout stage.
+{{Main|2014 FIFA World Cup Group D}}
+{{:2014 FIFA World Cup Group D|transcludesection=standings|showteam=CRC}}
+In the second round, they beat [[Greece national football team|Greece]] 5–3 on penalties after a 1–1 draw, seeing them through to the quarter-finals for the first time. There, they held the [[Netherlands national football team|Netherlands]] to a 0–0 draw after extra time, before losing 4–3 on penalties. Costa Rica rose 12 places to 16th in the [[FIFA World Rankings]]. Former player [[Rónald González Brenes|Rónald González]] cited their long-term progress since 2007 as the reason for their achievement.<ref>{{#invoke:cite|web|url=http://www.mundodeportivo.com/20140707/futbol/el-exito-de-costa-rica-se-debe-a-la-paciencia-segun-exmundialista-gonzalez_54410863402.html|title=El éxito de Costa Rica se debe a la paciencia, según exmundialista González|work=mundodeportivo.com|date=7 July 2014|access-date=4 January 2017|archive-date=21 August 2016|archive-url=https://web.archive.org/web/20160821232636/http://www.mundodeportivo.com/20140707/futbol/el-exito-de-costa-rica-se-debe-a-la-paciencia-segun-exmundialista-gonzalez_54410863402.html|url-status=live}}</ref>
+
+===2018 World Cup===
+[[File:Cos-Serb (3).jpg|thumb|Costa Rica national team at the [[2018 FIFA World Cup|2018 World Cup]] in Russia]]
+The Ticos' qualification for the [[2018 FIFA World Cup|2018 World Cup]] started with a bye to the [[2018 FIFA World Cup qualification – CONCACAF fourth round|fourth qualifying round]], where they won five games and drew one, winning their group. In the [[2018 FIFA World Cup qualification – CONCACAF fifth round|final round]], they finished second behind Mexico to qualify automatically, winning four matches, drawing four and losing two.
+{{Main|2018 FIFA World Cup qualification – CONCACAF fifth round}}
+{{:2018 FIFA World Cup qualification – CONCACAF fifth round|transcludesection=Standings|show_matches=yes}}
+Costa Rica were drawn in [[2018 FIFA World Cup Group E|Group E]] alongside Brazil, Switzerland and [[Serbia national football team|Serbia]]. Many key players from 2014 remained in the squad, but they made a disappointing exit at the group stage. Costa Rica lost their first two games, against Serbia and Brazil, without scoring, but drew 2–2 with Switzerland in their last match after equalising in injury time.
+{{Main|2018 FIFA World Cup Group E}}
+{{:2018 FIFA World Cup Group E|transcludesection=standings|showteam=CRC}}
+
+===2022 World Cup===
+The Ticos' qualification for the [[2022 FIFA World Cup|2022 World Cup]] started with a bye to the final qualifying round. They finished fourth behind the United States to advance to [[2022 FIFA World Cup qualification (inter-confederation play-offs)|inter-confederation play-offs]] winning seven matches, drawing four and losing three. In the inter-confederation play-offs in [[Al Rayyan]], Qatar, Costa Rica won the match 1–0 against New Zealand and qualified for the World Cup.
+
+{{Main|2022 FIFA World Cup qualification – CONCACAF third round}}
+{{:2022 FIFA World Cup qualification – CONCACAF third round|only_pld_pts=n|show_matches=n|showteam=CRC}}
+{{main|2022 FIFA World Cup qualification (CONCACAF–OFC play-off)}}
+{{:2022 FIFA World Cup qualification (CONCACAF–OFC play-off)}}
+On November 23, 2022, Costa Rica lost 7–0 against Spain, the biggest World Cup loss since 2010.<ref>[https://www.fifa.com/fifaplus/en/match-centre/match/17/255711/285063/400235472 Group E. Spain 7– Costa Rica 0] {{Webarchive|url=https://web.archive.org/web/20221123170550/https://www.fifa.com/fifaplus/en/match-centre/match/17/255711/285063/400235472 |date=23 November 2022 }} FIFA</ref> This match also tied for their worst defeat in professional football with a match against Mexico, which ended with Mexico 7–0 Costa Rica in Mexico City on 17 August 1975. They came back to defeat [[Japan national football team|Japan]] in the next game, and after falling behind to [[Germany national football team|Germany]] in the first half in the final group stage match, they scored two second half goals against to briefly move into position to advance to the knockout rounds in the live standings. However, Germany scored three late goals and eliminated Costa Rica. For a couple of minutes Costa Rica and Japan were making history, with results that would've eliminated both Spain and Germany, two powerhouses of international football. Nevertheless, Costa Rica were bested by Germany's experience in the international stage.
+{{Main|2022 FIFA World Cup Group E}}
+
+{{2022 FIFA World Cup group tables|Group E|showteam=CRC}}
+
+===2026 FIFA World Cup: Failure===
+In June 2024, Costa Rica began its [[2026 FIFA World Cup qualification (CONCACAF)|qualifying campaign]], against [[Saint Kitts and Nevis national football team|Saint Kitts and Nevis]], Grenada, [[Bahamas national football team|Bahamas]] and Trinidad and Tobago, winning all 4 games and finishing in first place. Because the tournament was being played at North America, United States, Mexico and Canada qualified automatically as co-hosts, leaving 3 spots for more CONCACAF countries to qualify.
+
+In the second round, they were placed in Group C, along with Haiti, Honduras and Nicaragua. Costa Rica got a draw in its first match 1–1 against Nicaragua, a 3–3 draw at home against Haiti and getting a 0–0 draw against Honduras. Costa Rica had to win all matches remaining if they were to finish first. The "Ticos" got their first win, 4–1 at home against Nicaragua, but at the next match, they got defeated 1–0 against Haiti. By this point, Costa Rica had 6 points, and needed to win against Honduras while hoping Haiti would lose or draw against Nicaragua to finish first. On the final matchday, Nicaragua lost to Haiti 2–0, and the match between Costa Rica and Honduras finished 0–0. With this result, Haiti qualified for the World Cup in the first time since 1974, while both Costa Rica and Honduras were eliminated. This was Costa Rica's first failed qualification campaign since 2010. 
+
+Shortly after, the [[Costa Rican Football Federation|FCRF]] announced that [[Miguel Herrera]], the head coach had been sacked for not being able to qualify for the World Cup. The fans were angry with both the players and the coach for not qualifying for the "easiest qualification competition".<ref>{{Cite web|url=https://www.tudn.com/mundial-2026/eliminatorias/mundial-2026-miguel-herrera-renuncia-plena-conferencia-tras-quedar-eliminado|title=Mundial 2026: ¿Miguel Herrera renuncia en plena conferencia tras quedar eliminado? &#124; TUDN Copa Mundial de Futbol 2026 Eliminatorias|date=18 November 2025|website=Tudn.com|access-date=3 June 2026}}</ref>
+
+<onlyinclude>{{#invoke:Sports table|main|style=WDL
+|section=Group C
+|class_rules=[[2026 FIFA World Cup qualification#Tiebreakers|Tiebreakers]]
+|source=[https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/canadamexicousa2026/qualifiers/concacaf/standings FIFA]
+|show_matches=yes
+
+<!--Update team positions below (check tiebreakers)-->
+|team_order=HAI, HON, CRC, NCA
+
+<!--Update team results below (including date)-->
+|update=complete 
+|win_CRC=1 |draw_CRC=4 |loss_CRC=1 |gf_CRC=8 |ga_CRC=6
+|win_HON=2 |draw_HON=3 |loss_HON=1 |gf_HON=5 |ga_HON=2
+|win_HAI=3 |draw_HAI=2 |loss_HAI=1 |gf_HAI=9 |ga_HAI=6
+|win_NCA=1 |draw_NCA=1 |loss_NCA=4 |gf_NCA=4 |ga_NCA=12
+
+<!--Update results below-->
+|match_CRC_HON=[[2026 FIFA World Cup qualification – CONCACAF third round#CRC v HON|0–0]]
+|match_CRC_HAI=[[2026 FIFA World Cup qualification – CONCACAF third round#CRC v HAI|3–3]]
+|match_CRC_NCA=[[2026 FIFA World Cup qualification – CONCACAF third round#CRC v NCA|4–1]]
+
+|match_HON_CRC=[[2026 FIFA World Cup qualification – CONCACAF third round#HON v CRC|0–0]]
+|match_HON_HAI=[[2026 FIFA World Cup qualification – CONCACAF third round#HON v HAI|3–0]]
+|match_HON_NCA=[[2026 FIFA World Cup qualification – CONCACAF third round#HON v NCA|2–0]]
+
+|match_HAI_CRC=[[2026 FIFA World Cup qualification – CONCACAF third round#HAI v CRC|1–0]]
+|match_HAI_HON=[[2026 FIFA World Cup qualification – CONCACAF third round#HAI v HON|0–0]]
+|match_HAI_NCA=[[2026 FIFA World Cup qualification – CONCACAF third round#HAI v NCA|2–0]]
+
+|match_NCA_CRC=[[2026 FIFA World Cup qualification – CONCACAF third round#NCA v CRC|1–1]]
+|match_NCA_HON=[[2026 FIFA World Cup qualification – CONCACAF third round#NCA v HON|2–0]]
+|match_NCA_HAI=[[2026 FIFA World Cup qualification – CONCACAF third round#NCA v HAI|0–3]]
+
+<!--Team definitions-->
+|name_CRC={{fb|CRC}} |short_CRC={{fbicon|CRC}}
+|name_HON={{fb|HON|2022}} |short_HON={{fbicon|HON|2022}}
+|name_HAI={{fb|HAI}} |short_HAI={{fbicon|HAI}}
+|name_NCA={{fb|NCA}} |short_NCA={{fbicon|NCA}}
+
+<!--Qualification column definitions-->
+|res_col_header=Q
+|result1=WC
+|col_WC=green1 |text_WC={{nowrap|[[2026 FIFA World Cup]]}}
+}}</onlyinclude>
+
+==Home stadium==
+[[Estadio Nacional de Costa Rica (2011)|Estadio Nacional]] is the home stadium of the Costa Rica national team since its opening on 10 January 2011 This venue hosts their friendly matches as well as the World Cup qualifying matches against [[CONCACAF]] rivals. Previous matches were played in [[Estadio Ricardo Saprissa Aymá|Estadio Ricardo Saprissa]] or in [[Estadio Alejandro Morera Soto]].{{citation needed|date=May 2024}}
+
+==Team image==
+{{Commons|Costa Rica national football team kits}}
+[[File:Limón sign with Costa Rica national team uniform 02.jpg|thumb|right|150px|Costa Rica's 2018 FIFA World Cup kit showcased in [[Limón]]]]
+Costa Rica traditionally wears a red jersey with blue shorts and white socks. Their away kit historically was a [[Juventus]]-style black and white striped jersey with white shorts and white or black socks, due to these colors being the ones of CS La Libertad, one of the oldest clubs in Costa Rica. In the 1990 FIFA World Cup, the striped kit was used for two matches due to its resemblance to the home kit of [[FK Partizan]] of which Bora Milutinovic, then-coach of Costa Rica, was a fan.<ref>{{Cite web |title=Costa Rica, nel nome di Bora |url=https://www.rivistacontrasti.it/costa-rica-nel-nome-di-bora-milutinovic-qatar-2022-mondiali/ |access-date=2024-12-14 |website=Rivista Contrasti |language=it-IT}}</ref> However, after 1997, the striped kit was replaced by a white kit. In 2015, [[Boston]]-based sportswear company [[New Balance]] became the provider of the national team, after taking over for Italian company [[Lotto Sport Italia|Lotto]]. Since 2023, [[Adidas]] is the kit provider for the national team.
+
+===Kit sponsorship===
+{| class="wikitable"
+|+
+!Supplier
+!Period
+|-
+|{{#invoke:flag|icon|Costa Rica}} [[Desport]]
+|1980–1989
+|-
+|{{#invoke:flag|icon|Italy}} [[Lotto Sport Italia|Lotto]]
+|1990–1994
+|-
+|{{#invoke:flag|icon|United States}} [[Reebok]]
+|1995–1999
+|-
+|{{#invoke:flag|icon|Costa Rica}} Trooper
+|1999
+|-
+|{{#invoke:flag|icon|Mexico}} [[Atletica]]
+|2000–2001
+|-
+|{{#invoke:flag|icon|Spain}} [[Joma]]
+|2001–2007
+|-
+|{{#invoke:flag|icon|Italy}} [[Lotto Sport Italia|Lotto]]
+|2007–2014
+|-
+|{{#invoke:flag|icon|United States}} [[New Balance]]
+|2015–2022
+|-
+|{{#invoke:flag|icon|Germany}} [[Adidas]]
+|2023–present
+|}
+
+==Results and fixtures==
+{{main|Costa Rica national football team results (2020–present)}}
+
+The following is a list of match results in the last 12 months, as well as any future matches that have been scheduled.
+
+{{legend2|#CCFFCC|Win|border=1px solid #AAAAAA}}
+{{legend2|#FFFFCC|Draw|border=1px solid #AAAAAA}}
+{{legend2|#FFCCCC|Loss|border=1px solid #AAAAAA}}
+{{legend2|#FFFFFF|Fixture|border=1px solid #AAAAAA}}
+
+===2025===
+{{footballbox collapsible
+| round        = [[2025 CONCACAF Gold Cup knockout stage|2025 Gold Cup QF]]
+| date         = 29 June
+| time         = {{UTZ|18:00|-5}}
+| team1        = {{fb-rt|USA}}
+| score        = 2–2
+| team2        = {{fb|CRC}}
+| report       = https://www.soccerway.com/match/costa-rica-C4ePE2kq/usa-fuitL4CF/?mid=lls7HKN0
+| goals1       =
+*[[Diego Luna (soccer, born 2003)|Luna]] {{goal|43}}
+*[[Maximilian Arfsten|Arfsten]] {{goal|47}}
+| goals2       =
+*[[Francisco Calvo|Calvo]] {{goal|12|pen.}}
+*[[Alonso Martínez (footballer)|Martínez]] {{goal|71}}
+| penalties1   =
+*[[Tyler Adams|Adams]] {{pengoal}}
+*[[Malik Tillman|Tillman]] {{pengoal}}
+*[[Sebastian Berhalter|Berhalter]] {{penmiss}}
+*[[Alex Freeman|Freeman]] {{pengoal}}
+*[[John Tolkin|Tolkin]] {{penmiss}}
+*[[Damion Downs|Downs]] {{pengoal}}
+| penaltyscore = 4–3
+| penalties2   =
+*{{pengoal}} [[Alonso Martínez (footballer)|Martínez]]
+*{{penmiss}} [[Juan Pablo Vargas|J. Vargas]]
+*{{pengoal}} [[Santiago van der Putten|Van der Putten]]
+*{{pengoal}} [[Jefferson Brenes|Brenes]]
+*{{penmiss}} [[Francisco Calvo|Calvo]]
+*{{penmiss}} [[Andy Rojas (footballer)|Rojas]]
+| location     = [[Minneapolis]], United States
+| stadium      = [[U.S. Bank Stadium]]
+| attendance   = 32,289
+| referee      = [[Walter López Castellanos|Walter López]] ([[National Football Federation of Guatemala|Guatemala]])
+| result       = D
+}}
+{{footballbox collapsible
+| round      = [[2026 FIFA World Cup qualification – CONCACAF second round#Group B|2026 World Cup qualification]]
+| date       = 5 September
+| time       = {{UTZ|20:00|-6}}
+| team1      = {{fb-rt|NCA}}
+| score      = 1–1
+| team2      = {{fb|CRC}}
+| report     = https://www.fifa.com/en/match-centre/match/520/288301/288312/400020610
+| goals1     = 
+*[[Byron Bonilla|Bonilla]] {{goal|80|pen.}}
+| goals2     =
+*[[Alexis Gamboa|Gamboa]] {{goal|60}}
+| location   = [[Managua]], Nicaragua
+| stadium    = [[Nicaragua National Football Stadium|Estadio Nacional]]
+| attendance = 19,532
+| referee    = Marco Ortiz ([[Mexican Football Federation|Mexico]])
+| result     = D
+}}
+{{footballbox collapsible
+| round      = [[2026 FIFA World Cup qualification – CONCACAF second round#Group B|2026 World Cup qualification]]
+| date       = 9 September
+| time       = {{UTZ|20:00|-6}}
+| team1      = {{fb-rt|CRC}}
+| score      = 3–3
+| team2      = {{fb|HAI}}
+| report     = https://www.fifa.com/en/match-centre/match/520/288301/288312/400020601
+| goals1     =
+*[[Kenneth Vargas|K. Vargas]] {{goal|1}}
+*[[Alonso Martínez (footballer)|Martínez]] {{goal|35}}
+*[[Juan Pablo Vargas|J. Vargas]] {{goal|90+1}}
+| goals2     =
+*[[Duckens Nazon|Nazon]] {{goal|55||58||86}}
+| location   = [[San José, Costa Rica|San José]], Costa Rica
+| stadium    = [[Estadio Nacional de Costa Rica (2011)|Estadio Nacional]]
+| attendance =
+| referee    = [[Tori Penso]] ([[United States Soccer Federation|United States]])
+| result     = D
+}}
+{{footballbox collapsible
+| round      = [[2026 FIFA World Cup qualification – CONCACAF third round#Group C|2026 World Cup qualification]]
+| date       = 9 October
+| time       = {{UTZ|20:00|-6}}
+| team1      = {{fb-rt|HON|2022}}
+| score      = 0–0
+| team2      = {{fb|CRC}}
+| report     = https://www.fifa.com/en/match-centre/match/520/288301/288312/400020607
+| goals1     =
+| goals2     =
+| location   = [[San Pedro Sula]], Honduras
+| stadium    = [[Estadio General Francisco Morazán]]
+| attendance = 15,109
+| referee    = [[Walter López Castellanos|Walter López]] ([[National Football Federation of Guatemala|Guatemala]])
+| result     = D
+}}
+{{footballbox collapsible
+| round      = [[2026 FIFA World Cup qualification – CONCACAF third round#Group C|2026 World Cup qualification]]
+| date       = 13 October
+| time       = {{UTZ|20:00|-6}}
+| team1      = {{fb-rt|CRC}}
+| score      = 4–1
+| team2      = {{fb|NCA}}
+| report     = https://www.fifa.com/en/match-centre/match/520/288301/288312/400020603
+| goals1     =
+*[[Alonso Martínez (footballer)|Martínez]] {{goal|12||28}}
+*[[Manfred Ugalde|Ugalde]] {{goal|49}}
+*[[Francisco Calvo|Calvo]] {{goal|90+4}}
+| goals2     =
+*[[Junior Arteaga|Arteaga]] {{goal|26}}
+| location   = [[San José, Costa Rica|San José]], Costa Rica
+| stadium    = [[Estadio Nacional de Costa Rica (2011)|Estadio Nacional]]
+| attendance = 30,927
+| referee    = Ismael Cornejo ([[Salvadoran Football Federation|El Salvador]])
+| result     = W
+}}
+{{footballbox collapsible
+| round      = [[2026 FIFA World Cup qualification – CONCACAF third round#Group C|2026 World Cup qualification]]
+| date       = 13 November
+| time       = {{UTZ|22:00|-4}}
+| team1      = {{fb-rt|HAI}}
+| score      = 1–0
+| team2      = {{fb|CRC}}
+| report     = https://www.fifa.com/en/match-centre/match/520/288301/288312/400020604
+| goals1     =
+*[[Frantzdy Pierrot|Pierrot]] {{goal|44}}
+| goals2     =
+| location   = [[Willemstad]], Curaçao
+| stadium    = [[Ergilio Hato Stadium]]
+| attendance = 1,571
+| referee    = [[Joe Dickerson]] ([[United States Soccer Federation|United States]])
+| result     = L
+}}
+{{footballbox collapsible
+| round      = [[2026 FIFA World Cup qualification – CONCACAF third round#Group C|2026 World Cup qualification]]
+| date       = 18 November
+| time       = {{UTZ|19:00|-6}}
+| team1      = {{fb-rt|CRC}}
+| score      = 0–0
+| team2      = {{fb|HON|2022}}
+| report     = https://www.fifa.com/en/match-centre/match/520/288301/288312/400020602
+| goals1     =
+| goals2     =
+| location   = [[San José, Costa Rica|San José]], Costa Rica
+| stadium    = [[Estadio Nacional de Costa Rica (2011)|Estadio Nacional]]
+| attendance =
+| referee    = [[Drew Fischer]] ([[Canadian Soccer Association|Canada]])
+| result     = D
+}}
+
+===2026===
+{{Football box collapsible
+| format     = 1
+| round      = [[Jordan International Tournament|2026 Jordan International Tournament]]
+| date       = 27 March
+| time       = {{UTZ|20:30|+3}}
+| team1      = {{fb-rt|JOR}}
+| score      = 2–2
+| team2      = {{fb|CRC}}
+| report     = https://www.soccerway.com/match/costa-rica-C4ePE2kq/jordan-vNcmJoU2/?mid=Wpa4eImm
+| goals1     =
+*[[Baha' Faisal|Faisal]] {{goal|50|pen.}}
+*[[Ibrahim Sabra|Sabra]] {{goal|76}}
+| goals2     =
+*[[Josimar Alcócer|Alcócer]] {{goal|84}}
+*[[Warren Madrigal|Madrigal]] {{goal|90+1}}
+| location   = [[Antalya]], Turkey{{Efn|name="Mar26"|The four mini tournament between [[Jordan national football team|Jordan]], [[Iran national football team|Iran]], [[Nigeria national football team|Nigeria]], and Costa Rica were moved from [[Amman]], Jordan to Antalya, Turkey due to the travel restrictions from the [[2026 Iran war]].<ref>{{Cite web |date=14 March 2026 |title=أنطاليا تحتضن الدورة الدولية الرباعية بمشاركة النشامى |url=https://jfa.com.jo/news.php?id=31053&title=أنطاليا-تحتضن-الدورة-الدولية-الرباعية-بمشاركة-النشامى |website=[[Jordan Football Association]] |language=Arabic}}</ref>}}
+| stadium    = [[Mardan Sports Complex]]
+| attendance =
+| referee    = Kadir Sağlam ([[Turkish Football Federation|Turkey]])
+| result     = D
+}}
+{{Football box collapsible
+| format     = 1
+| round      = [[Jordan International Tournament|2026 Jordan International Tournament]]
+| date       = 31 March
+| time       = {{UTZ|16:00|+3}}
+| team1      = {{fb-rt|CRC}}
+| score      = 0–5
+| team2      = {{fb|IRN}}
+| report     = https://www.soccerway.com/match/costa-rica-C4ePE2kq/iran-xrRx85iA/?mid=jFeKizmC
+| goals1     =
+| goals2     =
+*[[Ali Gholizadeh|Gholizadeh]] {{goal|10}}
+*[[Mehdi Taremi|Taremi]] {{goal|19|pen.|34|pen.}}
+*[[Mohammad Mohebi|Mohebi]] {{goal|31}}
+*[[Mehdi Ghayedi|Ghayedi]] {{goal|54}}
+| location   = [[Antalya]], Turkey{{efn|name="Mar26"}}
+| stadium    = [[Antalya Stadium|Corendon Airlines Park]]
+| attendance =
+| referee    = Cihan Aydin ([[Turkish Football Federation|Turkey]])
+| result     = L
+}}
+{{football box collapsible
+| format     = 1
+| round      = [[Exhibition game#Association football|Friendly]]
+| date       = 1 June
+| time       = {{UTZ|18:00|-5}}
+| team1      = {{fb-rt|COL}}
+| score      = 3–1
+| team2      = {{fb|CRC}}
+| report     = https://www.soccerway.com/match/colombia-G02s4PCS/costa-rica-C4ePE2kq/?mid=hQpHo1w9
+| goals1     =
+*[[Davinson Sánchez|Sánchez]] {{goal|17}}
+*[[Luis Díaz (footballer, born 1997)|Díaz]] {{goal|23}}
+*[[Luis Suárez (footballer, born 1997)|Suárez]] {{goal|81}}
+| goals2     =
+*[[Andrey Soto|Soto]] {{goal|33}}
+| location   = [[Bogotá]], Colombia
+| stadium    = [[Estadio El Campín|El Campín]]
+| attendance = 11,806
+| referee    = Guillermo Guerrero ([[Ecuadorian Football Federation|Ecuador]])
+| result     = L
+}}
+{{football box collapsible
+| format     = 1
+| round      = [[Exhibition game#Association football|Friendly]]
+| date       = 10 June
+| time       = {{UTZ|16:00|-4}}
+| team1      = {{fb-rt|ENG}}
+| score      = 3–0
+| team2      = {{fb|CRC}}
+| report     = https://www.soccerway.com/match/costa-rica-C4ePE2kq/england-j9N9ZNFA/?mid=KjB2DklK
+| goals1     =
+*[[Declan Rice|Rice]] {{goal|9}}
+*[[Anthony Gordon (footballer)|Gordon]] {{goal|68|pen.}}
+*[[Ollie Watkins|Watkins]] {{goal|87}}
+| goals2     =
+| location   = [[Orlando, Florida|Orlando]], United States
+| stadium    = [[Inter&Co Stadium]]
+| attendance = 25,500
+| referee    = [[Katja Koroleva]] ([[United States Soccer Federation|United States]])
+| result     = L
+}}
+
+==Coaching staff==
+
+{| class="wikitable" style="text-align: left"
+|-
+!style="color:white;background:#DA291C"|Position
+!style="color:white;background:#DA291C"|Name
+|-
+|Head coach || 
+{{#invoke:flag|icon|ARG}} [[Fernando Batista]]
+|-
+|Assistant coach || {{#invoke:flag|icon|ARG}} [[:es:Nicolás Batista|Nicolás Batista]]
+|-
+|Goalkeeper's coach ||{{#invoke:flag|icon|CRC}} Ricardo González
+|-
+|Fitness coach 1||''Vacant''
+|-
+|Video analyst||{{#invoke:flag|icon|ARG}} Carlos Di Pasqua
+|-
+|Doctor||{{#invoke:flag|icon|CRC}} Alejandro Ramírez
+|-
+|rowspan=2|Physiotherapist||{{#invoke:flag|icon|CRC}} Martha Sisfontes
+|-
+|{{#invoke:flag|icon|CRC}} Brayner Sánchez
+|-
+|Nutritionist||{{#invoke:flag|icon|CRC}} Alhelí Mateos
+|-
+|Massage therapist||{{#invoke:flag|icon|CRC}} Óscar Segura
+|-
+|rowspan=2|Props||{{#invoke:flag|icon|CRC}} Randall Obando
+|-
+|{{#invoke:flag|icon|CRC}} Alberto Mena
+|-
+|Team administrator||{{#invoke:flag|icon|CRC}} Alvaro Herrera
+|-
+|Sporting director||{{#invoke:flag|icon|ARG}} [[Claudio Vivas]]
+|}
+
+===Coaching history===
+:Caretaker managers are listed in ''italics''.
+{{Div col|colwidth=20em}}
+* {{#invoke:flag|icon|CRC}} [[Eladio Rosabal Cordero]] (1921)
+* {{#invoke:flag|icon|CRC}} [[Manolo Rodríguez (footballer)|Manolo Rodríguez]] (1930)
+* {{#invoke:flag|icon|ESA}} [[Ricardo Saprissa]] (1935–1938)
+* {{#invoke:flag|icon|CRC}} [[Alejandro Morera Soto]] (1941, 1943)
+* {{#invoke:flag|icon|CRC}} [[Jorge "Lalo" Rojas|Jorge Rojas]] (1943)
+* {{#invoke:flag|icon|CRC}} [[Hernán Bolaños]] (1946); (1948)
+* {{#invoke:flag|icon|ENG}} [[Randolph Galloway]] & {{#invoke:flag|icon|CRC}} [[Hernán Bolaños]] (1946)
+* {{#invoke:flag|icon|CRC}} [[Santiago Bonilla]] (1950)
+* {{#invoke:flag|icon|CRC}} [[Ismael Quesada]] (1951)
+* {{#invoke:flag|icon|ESA}} [[Ricardo Saprissa]] & {{#invoke:flag|icon|CRC}} [[Luis Cartín Paniagua]] (1951)
+* {{#invoke:flag|icon|BRA|1889}} [[Otto Bumbel]] (1953)
+* {{#invoke:flag|icon|CRC}} [[Alfredo Piedra Mora|Alfredo Piedra]] (1955–1957)
+* {{#invoke:flag|icon|URU}} [[Rubén Amorín]] (1960)
+* {{#invoke:flag|icon|CHI}} [[Hugo Tassara]] (1960)
+* {{#invoke:flag|icon|ESP|1945}} [[Eduardo Toba Muíño]] (1961)
+* {{#invoke:flag|icon|CRC}} [[Alfredo Piedra Mora|Alfredo Piedra]] (1961–1963)
+* {{#invoke:flag|icon|ESP|1945}} [[Eduardo Viso Abella]], {{#invoke:flag|icon|CRC}} [[Alfredo Piedra Mora|Alfredo Piedra]], & {{#invoke:flag|icon|CRC}} [[Mario "Catato" Cordero]] (1965)
+* {{#invoke:flag|icon|CRC}} [[Rodolfo Ulloa Antillón]] (1967–1968)
+* {{#invoke:flag|icon|HUN|1968}} [[Américo Brunner]] (1968)
+* {{#invoke:flag|icon|CRC}} [[Rogelio Rojas]] (1969)
+* {{#invoke:flag|icon|CRC}} [[Marvin Rodríguez]] (1969, 1971, 1975, 1989–1990, 1992, 1999–2000)
+* {{#invoke:flag|icon|ESP|1945}} [[Eduardo Viso Abella]] (1970)
+* {{#invoke:flag|icon|ARG}} [[Humberto Maschio]] (1972)
+* {{#invoke:flag|icon|URU}} [[José Etchegoyen]] (1975)
+* {{#invoke:flag|icon|CRC}} [[Juan José Gámez]] (1976)
+* {{#invoke:flag|icon|ESP|1977}} [[Antonio Moyano (footballer, born 1928)|Antonio Moyano]] (1979–1980, 1983–1984, 1994)
+* {{#invoke:flag|icon|CSK}} [[Ivan Mráz]] (1980)
+* {{#invoke:flag|icon|BRA|1968}} [[Odir Jacques]] (1985)
+* {{#invoke:flag|icon|CRC}} [[Álvaro Grant MacDonald]] (1985, 1993)
+* {{#invoke:flag|icon|URU}} [[Gustavo De Simone]] (1987–1989)
+* {{#invoke:flag|icon|ESP}} [[Antonio Moyano (footballer, born 1928)|Antonio Moyano]] & {{#invoke:flag|icon|CRC}} [[Marvin Rodríguez]] (1989)
+* {{#invoke:flag|icon|YUG}} [[Bora Milutinović]] (1990)
+* {{#invoke:flag|icon|CRC}} [[Rolando Villalobos]] (1991, 1998)
+* {{#invoke:flag|icon|URU}} [[Héctor Núñez]] (1992)
+* {{#invoke:flag|icon|CRC}} [[Juan José Gámez]] (1993)
+* {{#invoke:flag|icon|ESP}} [[Juan Luis Hernández Fuertes]] (1993–1994, 1997)
+* {{#invoke:flag|icon|CRC}} [[Toribio Rojas]] (1994–1995)
+* {{#invoke:flag|icon|CRC}} [[Juan Blanco (footballer)|Juan Blanco]] (1995)
+* {{#invoke:flag|icon|BRA}} [[Valdeir Vieira]] (1996)
+* {{#invoke:flag|icon|ARG}} [[Horacio Cordero]] (1997)
+* {{#invoke:flag|icon|COL}} [[Francisco Maturana]] (1998–1999)
+* {{#invoke:flag|icon|BRA}} [[Gílson Nunes]] (2000)
+* {{#invoke:flag|icon|CRC}} [[Alexandre Guimarães]] (2001–2002, 2005–2006)
+* {{#invoke:flag|icon|CRC}} ''[[Rodrigo Kenton]]'' (2002)
+* {{#invoke:flag|icon|USA}} [[Steve Sampson]] (2003–2004)
+* {{#invoke:flag|icon|COL}} [[Jorge Luis Pinto]] (2004–2005, 2011–2014)
+* {{#invoke:flag|icon|CRC}} ''[[Carlos Watson (footballer)|Carlos Watson]]'' (2006)
+* {{#invoke:flag|icon|CRC}} [[Hernán Medford]] (2007–2008)
+* {{#invoke:flag|icon|CRC}} [[Rodrigo Kenton]] (2008–2009)
+* {{#invoke:flag|icon|BRA}} [[Renê Simões]] (2009)
+* {{#invoke:flag|icon|CRC}} ''[[Rónald González Brenes|Rónald González]]'' (2010, 2018)
+* {{#invoke:flag|icon|ARG}} [[Ricardo La Volpe]] (2010–2011)
+* {{#invoke:flag|icon|CRC}} [[Paulo Wanchope]] (2014–2015)
+* {{#invoke:flag|icon|CRC}} [[Óscar Ramírez (footballer, born 1964)|Óscar Ramírez]] (2015–2018)
+* {{#invoke:flag|icon|URU}} [[Gustavo Matosas]] (2018–2019)
+* {{#invoke:flag|icon|CRC}} ''[[Douglas Sequeira]]'' (2019)
+* {{#invoke:flag|icon|CRC}} [[Rónald González Brenes]] (2019–2021)
+* {{#invoke:flag|icon|COL}} [[Luis Fernando Suárez]] (2021–2023)
+* {{#invoke:flag|icon|ARG}} ''[[Claudio Vivas]]'' (2023)
+* {{#invoke:flag|icon|ARG}} [[Gustavo Alfaro]] (2023–2024)
+* {{#invoke:flag|icon|ARG}} ''[[Claudio Vivas]]'' (2024)
+* {{#invoke:flag|icon|MEX}} [[Miguel Herrera]] (2025)
+*{{#invoke:flag|icon|ARG}} [[Fernando Batista]] (2026)
+{{div col end}}
+
+==Players==
+===Current squad===
+The following players were called up for the [[Exhibition game#Association football|friendly]] matches against [[Colombia national football team|Colombia]] and [[England national football team|England]] on 1 and 10 June 2026.<ref>{{cite web|first=Daniel|last=Jiménez|title=Fernando Batista dio lista de convocados para partido ante Colombia|url=https://www.teletica.com/la-sele/fernando-batista-dio-lista-de-convocados-para-partido-ante-colombia_409788|website=DeporteTotalUSA.com|date=31 May 2026|access-date=2 June 2026|language=Spanish}}</ref><ref>{{cite web|first=Alfredo|last=Oyarzún|title=Convocados de Costa Rica para enfrentar a Colombia e Inglaterra: Fernando Batista mantiene la renovación|url=https://www.365scores.com/es/news/convocados-costa-rica-colombia-batista/|website=365Scores.com|date=22 May 2026|access-date=3 July 2026|language=Spanish}}</ref>
+<br>''Caps and goals correct as of 10 June 2026, after the match against [[England national football team|England]].''
+
+{{nat fs g start}}
+{{nat fs g player|no=|pos=GK|name=[[Patrick Sequeira]]|age={{birth date and age|1999|3|1|df=y}}|caps=18|goals=0|club=[[Casa Pia A.C.|Casa Pia]]|clubnat=POR}}
+{{nat fs g player|no=|pos=GK|name=[[Abraham Madriz]]|age={{birth date and age|2004|4|2|df=y}}|caps=1|goals=0|club=[[Deportivo Saprissa|Saprissa]]|clubnat=CRC}}
+{{nat fs g player|no=|pos=GK|name=[[Bayron Mora]]|age={{birth date and age|2003|5|5|df=y}}|caps=0|goals=0|club=[[Liga Deportiva Alajuelense|Alajuelense]]|clubnat=CRC}}
+{{fs break}}
+{{nat fs g player|no=|pos=DF|name=[[Jeyland Mitchell]]|age={{birth date and age|2004|9|29|df=y}}|caps=22|goals=2|club=[[SK Sturm Graz|Sturm Graz]]|clubnat=AUT}}
+{{nat fs g player|no=|pos=DF|name=[[Haxzel Quirós]]|age={{birth date and age|1998|6|3|df=y}}|caps=17|goals=0|club=[[Club Sport Herediano|Herediano]]|clubnat=CRC}}
+{{nat fs g player|no=|pos=DF|name=[[Fernán Faerrón]]|age={{birth date and age|2000|8|22|df=y}}|caps=10|goals=0|club=[[C.S. Cartaginés|Cartaginés]]|clubnat=CRC}}
+{{nat fs g player|no=|pos=DF|name=[[Aarón Salazar]]|age={{birth date and age|1999|5|15|df=y}}|caps=6|goals=0|club=[[Liga Deportiva Alajuelense|Alajuelense]]|clubnat=CRC}}
+{{nat fs g player|no=|pos=DF|name=[[Darril Araya]]|age={{birth date and age|2000|11|8|df=y}}|caps=3|goals=0|club=[[Club Sport Herediano|Herediano]]|clubnat=CRC}}
+{{nat fs g player|no=|pos=DF|name=[[John Ruiz (footballer, born 2004)|John Ruiz]]|age={{birth date and age|2004|12|27|df=y}}|caps=2|goals=0|club=[[Liga Deportiva Alajuelense|Alajuelense]]|clubnat=CRC}}
+{{nat fs g player|no=|pos=DF|name=[[Shawn Johnson (footballer)|Shawn Johnson]]|age={{birth date and age|2003|2|28|df=y}}|caps=1|goals=0|club=[[Municipal Liberia]]|clubnat=CRC}}
+{{nat fs g player|no=|pos=DF|name=[[Joseth Peraza]]|age={{birth date and age|2004|12|9|df=y}}|caps=1|goals=0|club=[[Zalaegerszegi TE|Zalaegerszeg]]|clubnat=HUN}}
+{{nat fs g player|no=|pos=DF|name=[[Farbod Samadian]]|age={{birth date and age|2005|2|6|df=y}}|caps=0|goals=0|club=[[Liga Deportiva Alajuelense|Alajuelense]]|clubnat=CRC}}
+{{fs break}}
+{{nat fs g player|no=|pos=MF|name=[[Orlando Galo]]|age={{birth date and age|2000|8|11|df=y}}|caps=33|goals=4|club=[[Riga FC|Riga]]|clubnat=LVA}}
+{{nat fs g player|no=|pos=MF|name=[[Carlos Mora (footballer)|Carlos Mora]]|age={{birth date and age|2001|3|18|df=y}}|caps=21|goals=0|club=[[CS Universitatea Craiova|Universitatea Craiova]]|clubnat=ROM}}
+{{nat fs g player|no=|pos=MF|name=[[Cristopher Núñez]]|age={{birth date and age|1997|12|8|df=y}}|caps=14|goals=0|club=[[C.S. Cartaginés|Cartaginés]]|clubnat=CRC}}
+{{nat fs g player|no=|pos=MF|name=[[Andrey Soto]]|age={{birth date and age|2003|4|8|df=y}}|caps=4|goals=1|club=[[Municipal Pérez Zeledón|Pérez Zeledón]]|clubnat=CRC}}
+{{nat fs g player|no=|pos=MF|name=[[Luis Flores (Costarrican footballer)|Luis Flores]]|age={{birth date and age|1994|1|23|df=y}}|caps=3|goals=0|club=[[C.S. Cartaginés|Cartaginés]]|clubnat=CRC}}
+{{nat fs g player|no=|pos=MF|name=[[Gian Mauro Morera]]|age={{birth date and age|2005|8|31|df=y}}|caps=0|goals=0|club=[[Guadalupe F.C.|Guadalupe]]|clubnat=CRC}}
+{{nat fs g player|no=|pos=MF|name=[[Sebastián Padilla]]|age={{birth date and age|2005|3|1|df=y}}|caps=0|goals=0|club=[[Municipal Liberia]]|clubnat=CRC}}
+{{fs break}}
+{{nat fs g player|no=|pos=FW|name=[[Manfred Ugalde]]|age={{birth date and age|2002|5|25|df=y}}|caps=32|goals=11|club=[[FC Spartak Moscow|Spartak Moscow]]|clubnat=RUS}}
+{{nat fs g player|no=|pos=FW|name=[[Josimar Alcócer]]|age={{birth date and age|2004|7|7|df=y}}|caps=30|goals=7|club=[[AC Sparta Prague|Sparta Prague]]|clubnat=CZE}}
+{{nat fs g player|no=|pos=FW|name=[[Álvaro Zamora]]|age={{birth date and age|2002|3|9|df=y}}|caps=25|goals=5|club=[[Académico de Viseu F.C.|Académico de Viseu]]|clubnat=POR}}
+{{nat fs g player|no=|pos=FW|name=[[Orlando Sinclair]]|age={{birth date and age|1998|4|19|df=y}}|caps=3|goals=0|club=[[Deportivo Saprissa|Saprissa]]|clubnat=CRC}}
+{{nat fs g player|no=|pos=FW|name=[[Doryan Rodríguez]]|age={{birth date and age|2003|1|18|df=y}}|caps=1|goals=0|club=[[Puntarenas F.C.|Puntarenas]]|clubnat=CRC}}
+{{nat fs end}}
+
+===Recent call-ups===
+The following players have been called up within the last twelve months.
+<!--Sorted by position, most recent call-up, caps, goals and last name.-->
+{{nat fs r start}}
+{{nat fs r player|no=|pos=GK|name=[[Christopher Moya]]|age={{birth date and age|2004|9|1|df=y}}|caps=0|goals=0|club=[[C.S. Cartaginés|Cartaginés]]|clubnat=CRC|latest=v. {{fb|COL}}, 1 June 2026 <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=GK|name=[[Kevin Chamorro]]|age={{birth date and age|2000|4|8|df=y}}|caps=9|goals=0|club=[[Rio Ave F.C.|Rio Ave]]|clubnat=POR|latest=[[Jordan International Tournament]]}}
+{{nat fs r player|no=|pos=GK|name=[[Keylor Navas]]|other=[[Captain (association football)|captain]]|age={{birth date and age|1986|12|15|df=y}}|caps=125|goals=0|club=[[Pumas UNAM|UNAM]]|clubnat=MEX|latest=v. {{fb|HON}}, 18 November 2025}}
+{{nat fs r player|no=|pos=GK|name=[[Esteban Alvarado]]|age={{birth date and age|1989|4|28|df=y}}|caps=26|goals=0|club=''Retired''|clubnat=|latest=v. {{fb|NCA}}, 13 October 2025}}
+{{nat fs r player|no=|pos=GK|name=[[Alexandre Lezcano]]|age={{birth date and age|2001|8|26|df=y}}|caps=0|goals=0|club=[[Club Sport Herediano|Herediano]]|clubnat=CRC|latest=v. {{fb|NCA}}, 13 October 2025}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=DF|name=[[Jorkaeff Azofeifa]]|age={{birth date and age|2001|2|9|df=y}}|caps=1|goals=0|club=[[Deportivo Saprissa|Saprissa]]|clubnat=CRC|latest=v. {{fb|COL}}, 1 June 2026 <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=DF|name=[[Juan Pablo Vargas]]|age={{birth date and age|1995|6|6|df=y}}|caps=41|goals=3|club=[[Club Puebla|Puebla]]|clubnat=MEX|latest=[[Jordan International Tournament]]}}
+{{nat fs r player|no=|pos=DF|name=[[Gerald Taylor (footballer)|Gerald Taylor]]|age={{birth date and age|2001|5|28|df=y}}|caps=8|goals=1|club=[[Deportivo Saprissa|Saprissa]]|clubnat=CRC|latest=[[Jordan International Tournament]]}}
+{{nat fs r player|no=|pos=DF|name=[[Guillermo Villalobos (footballer)|Guillermo Villalobos]]|age={{birth date and age|2001|6|7|df=y}}|caps=4|goals=0|club=[[Liga Deportiva Alajuelense|Alajuelense]]|clubnat=CRC|latest=[[Jordan International Tournament]]}}
+{{nat fs r player|no=|pos=DF|name=[[Santiago van der Putten]]|age={{birth date and age|2004|6|25|df=y}}|caps=3|goals=0|club=[[Liga Deportiva Alajuelense|Alajuelense]]|clubnat=CRC|latest=[[Jordan International Tournament]] <sup>INJ</sup>}}
+{{nat fs r player|no=|pos=DF|name=[[Francisco Calvo]]|age={{birth date and age|1992|7|8|df=y}}|caps=108|goals=13|club=[[Club Nacional de Football|Nacional]]|clubnat=URU|latest=v. {{fb|HON}}, 18 November 2025}}
+{{nat fs r player|no=|pos=DF|name=[[Kendall Waston]]|age={{birth date and age|1988|1|1|df=y}}|caps=78|goals=10|club=[[Deportivo Saprissa|Saprissa]]|clubnat=CRC|latest=v. {{fb|HON}}, 18 November 2025}}
+{{nat fs r player|no=|pos=DF|name=[[Joseph Mora]]|age={{birth date and age|1993|1|15|df=y}}|caps=21|goals=1|club=[[Deportivo Saprissa|Saprissa]]|clubnat=CRC|latest=v. {{fb|HON}}, 18 November 2025}}
+{{nat fs r player|no=|pos=DF|name=[[Julio Cascante]]|age={{birth date and age|1993|10|3|df=y}}|caps=12|goals=1|club=[[Free agent|''Unattached'']]|clubnat=|latest=v. {{fb|HON}}, 18 November 2025}}
+{{nat fs r player|no=|pos=DF|name=[[Alexis Gamboa]]|age={{birth date and age|1999|3|20|df=y}}|caps=12|goals=1|club=[[Liga Deportiva Alajuelense|Alajuelense]]|clubnat=CRC|latest=v. {{fb|HON}}, 18 November 2025}}
+{{nat fs r player|no=|pos=DF|name=[[Kenay Myrie]]|age={{birth date and age|2006|9|6|df=y}}|caps=5|goals=0|club=[[F.C. Copenhagen|Copenhagen]]|clubnat=DEN|latest=v. {{fb|HAI}}, 9 September 2025}}
+{{nat fs r player|no=|pos=DF|name=[[Rónald Matarrita]]|age={{birth date and age|1994|7|9|df=y}}|caps=56|goals=3|club=[[Liga Deportiva Alajuelense|Alajuelense]]|clubnat=CRC|latest=[[2025 CONCACAF Gold Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=DF|name=[[Yostin Salinas]]|age={{birth date and age|1998|9|14|df=y}}|caps=4|goals=0|club=[[Sporting F.C.|Sporting San José]]|clubnat=CRC|latest=[[2025 CONCACAF Gold Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=DF|name=[[Kevin Espinoza]]|age={{birth date and age|1997|2|11|df=y}}|caps=1|goals=0|club=[[Sporting F.C.|Sporting San José]]|clubnat=CRC|latest=[[2025 CONCACAF Gold Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=DF|name=[[Carlos Barahona (footballer, born 2002)|Carlos Barahona]]|age={{birth date and age|2002|8|22|df=y}}|caps=0|goals=0|club=[[C.S. Cartaginés|Cartaginés]]|clubnat=CRC|latest=[[2025 CONCACAF Gold Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=DF|name=[[Yeison Molina]]|age={{birth date and age|1996|1|25|df=y}}|caps=0|goals=0|club=[[Municipal Liberia]]|clubnat=CRC|latest=[[2025 CONCACAF Gold Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=DF|name=[[Yurguin Román]]|age={{birth date and age|1997|1|19|df=y}}|caps=0|goals=0|club=[[Club Sport Herediano|Herediano]]|clubnat=CRC|latest=[[2025 CONCACAF Gold Cup]] <sup>PRE</sup>}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=MF|name=[[Alejandro Bran]]|age={{birth date and age|2001|3|5|df=y}}|caps=20|goals=3|club=[[FC Petrolul Ploiești|Petrolul Ploiești]]|clubnat=ROU|latest=v. {{fb|COL}}, 1 June 2026 <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=MF|name=[[Jefferson Brenes]]|age={{birth date and age|1997|4|13|df=y}}|caps=18|goals=1|club=[[Deportivo Saprissa|Saprissa]]|clubnat=CRC|latest=[[Jordan International Tournament]]}}
+{{nat fs r player|no=|pos=MF|name=[[Jewison Bennette]]|age={{birth date and age|2004|6|15|df=y}}|caps=14|goals=2|club=[[FC LNZ Cherkasy|LNZ Cherkasy]]|clubnat=UKR|latest=[[Jordan International Tournament]]}}
+{{nat fs r player|no=|pos=MF|name=[[Douglas López]]|age={{birth date and age|1998|9|21|df=y}}|caps=4|goals=0|club=[[C.S. Cartaginés|Cartaginés]]|clubnat=CRC|latest=[[Jordan International Tournament]]}}
+{{nat fs r player|no=|pos=MF|name=[[Creichel Pérez]]|age={{birth date and age|2004|11|11|df=y}}|caps=1|goals=0|club=[[Liga Deportiva Alajuelense|Alajuelense]]|clubnat=CRC|latest=[[Jordan International Tournament]]}}
+{{nat fs r player|no=|pos=MF|name=[[Celso Borges]]|age={{birth date and age|1988|5|27|df=y}}|caps=164|goals=27|club=[[Liga Deportiva Alajuelense|Alajuelense]]|clubnat=CRC|latest=v. {{fb|HON}}, 18 November 2025}}
+{{nat fs r player|no=|pos=MF|name=[[Aarón Murillo]]|age={{birth date and age|1998|3|20|df=y}}|caps=4|goals=0|club=[[Club Sport Herediano|Herediano]]|clubnat=CRC|latest=v. {{fb|HON}}, 18 November 2025}}
+{{nat fs r player|no=|pos=MF|name=[[Allan Cruz]]|age={{birth date and age|1996|2|24|df=y}}|caps=27|goals=2|club=[[Club Sport Herediano|Herediano]]|clubnat=CRC|latest=v. {{fb|NCA}}, 13 October 2025}}
+{{nat fs r player|no=|pos=MF|name=[[Ariel Lassiter]]|age={{birth date and age|1994|9|27|df=y}}|caps=30|goals=0|club=[[Portland Timbers]]|clubnat=USA|latest=v. {{fb|HAI}}, 9 September 2025}}
+{{nat fs r player|no=|pos=MF|name=[[Brandon Aguilera]]|age={{birth date and age|2003|6|28|df=y}}|caps=27|goals=0|club=[[Rio Ave F.C.|Rio Ave]]|clubnat=POR|latest=v. {{fb|HAI}}, 9 September 2025}}
+{{nat fs r player|no=|pos=MF|name=[[Sebastián Acuña]]|age={{birth date and age|2002|6|25|df=y}}|caps=5|goals=0|club=[[Deportivo Saprissa|Saprissa]]|clubnat=CRC|latest=v. {{fb|HAI}}, 9 September 2025}}
+{{nat fs r player|no=|pos=MF|name=[[Randall Leal]]|age={{birth date and age|1997|1|14|df=y}}|caps=29|goals=1|club=[[Club Sport Herediano|Herediano]]|clubnat=CRC|latest=[[2025 CONCACAF Gold Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=MF|name=[[Gerson Torres]]|age={{birth date and age|1997|8|28|df=y}}|caps=13|goals=1|club=[[Deportivo Saprissa|Saprissa]]|clubnat=CRC|latest=[[2025 CONCACAF Gold Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=MF|name=[[Aarón Suárez]]|age={{birth date and age|2002|6|27|df=y}}|caps=9|goals=1|club=[[Club Sport Herediano|Herediano]]|clubnat=CRC|latest=[[2025 CONCACAF Gold Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=MF|name=[[Luis Díaz (Costa Rican footballer)|Luis Díaz]]|age={{birth date and age|1998|12|6|df=y}}|caps=7|goals=0|club=[[Sporting F.C.|Sporting San José]]|clubnat=CRC|latest=[[2025 CONCACAF Gold Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=MF|name=[[Roan Wilson]]|age={{birth date and age|2002|5|1|df=y}}|caps=7|goals=0|club=[[Liga Deportiva Alajuelense|Alajuelense]]|clubnat=CRC|latest=[[2025 CONCACAF Gold Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=MF|name=[[Rashir Parkins]]|age={{birth date and age|2001|2|23|df=y}}|caps=2|goals=0|club=[[Liga Deportiva Alajuelense|Alajuelense]]|clubnat=CRC|latest=[[2025 CONCACAF Gold Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=MF|name=[[Randy Vega]]|age={{birth date and age|2001|12|31|df=y}}|caps=1|goals=0|club=[[Inter de San Carlos]]|clubnat=CRC|latest=[[2025 CONCACAF Gold Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=MF|name=[[Mauricio Villalobos]]|age={{birth date and age|1999|8|20|df=y}}|caps=1|goals=0|club=[[Municipal Liberia]]|clubnat=CRC|latest=[[2025 CONCACAF Gold Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=MF|name=[[Deylan Aguilar]]|age={{birth date and age|2007|1|6|df=y}}|caps=0|goals=0|club=[[Liga Deportiva Alajuelense|Alajuelense]]|clubnat=CRC|latest=[[2025 CONCACAF Gold Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=MF|name=[[Dax Palmer]]|age={{birth date and age|2007|2|8|df=y}}|caps=0|goals=0|club=[[Júpiter Leonés]]|clubnat=ESP|latest=[[2025 CONCACAF Gold Cup]] <sup>PRE</sup>}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=FW|name=[[Warren Madrigal]]|age={{birth date and age|2004|7|24|df=y}}|caps=24|goals=6|club=[[Nashville SC|Nashville]]|clubnat=USA|latest=v. {{fb|COL}}, 1 June 2026 <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=FW|name=[[Kenneth Vargas]]|age={{birth date and age|2002|4|17|df=y}}|caps=19|goals=3|club=[[Kalamata F.C.|Kalamata]]|clubnat=GRE|latest=v. {{fb|COL}}, 1 June 2026 <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=FW|name=[[Andy Rojas (footballer)|Andy Rojas]]|age={{birth date and age|2005|12|5|df=y}}|caps=17|goals=1|club=[[New York Red Bulls]]|clubnat=USA|latest=[[Jordan International Tournament]]}}
+{{nat fs r player|no=|pos=FW|name=[[Joel Campbell]]|age={{birth date and age|1992|6|26|df=y}}|caps=143|goals=24|club=[[Inter San Carlos]]|clubnat=CRC|latest=v. {{fb|HON}}, 18 November 2025}}
+{{nat fs r player|no=|pos=FW|name=[[Alonso Martínez (footballer)|Alonso Martínez]]|age={{birth date and age|1998|10|15|df=y}}|caps=29|goals=8|club=[[New York City FC|New York City]]|clubnat=USA|latest=v. {{fb|HON}}, 18 November 2025}}
+{{nat fs r player|no=|pos=FW|name=[[Anthony Hernández (footballer, born 2001)|Anthony Hernández]]|age={{birth date and age|2001|11|10|df=y}}|caps=5|goals=1|club=[[Liga Deportiva Alajuelense|Alajuelense]]|clubnat=CRC|latest=v. {{fb|HON}}, 18 November 2025}}
+{{nat fs r player|no=|pos=FW|name=[[Anthony Contreras]]|age={{birth date and age|2000|1|29|df=y}}|caps=27|goals=2|club=[[Riga FC|Riga]]|clubnat=LVA|latest=v. {{fb|HAI}}, 9 September 2025}}
+{{nat fs r player|no=|pos=FW|name=[[Jimmy Marín]]|age={{birth date and age|1997|10|8|df=y}}|caps=13|goals=1|club=[[PFC Krylia Sovetov Samara|Krylia Sovetov Samara]]|clubnat=RUS|latest=[[2025 CONCACAF Gold Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=FW|name=[[Josimar Méndez]]|age={{birth date and age|2001|9|19|df=y}}|caps=1|goals=0|club=[[Sporting F.C.|Sporting San José]]|clubnat=CRC|latest=[[2025 CONCACAF Gold Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=FW|name=[[Isaac Badilla]]|age={{birth date and age|2008|6|18|df=y}}|caps=0|goals=0|club=[[Liga Deportiva Alajuelense|Alajuelense]]|clubnat=CRC|latest=[[2025 CONCACAF Gold Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=FW|name=[[Kenyel Michel]]|age={{birth date and age|2004|9|17|df=y}}|caps=0|goals=0|club=[[Minnesota United FC|Minnesota United]]|clubnat=USA|latest=[[2025 CONCACAF Gold Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=FW|name=[[José Mora (footballer, born 2004)|José Mora]]|age={{birth date and age|2004|2|27|df=y}}|caps=0|goals=0|club=[[C.S. Cartaginés|Cartaginés]]|clubnat=CRC|latest=[[2025 CONCACAF Gold Cup]] <sup>PRE</sup>}}
+{{nat fs break}}
+<sup>INJ</sup> Withdrew due to injury.<br>
+<sup>RET</sup> Retired from the national team.<br>
+<sup>ILL</sup> Withdrew due to illness.<br>
+<sup>PRE</sup> Preliminary squad.<br>
+<sup>WD</sup> Withdrew for personal reasons.<br>
+{{nat fs r end}}
+
+==Records==
+{{updated|18 November 2025}}<ref>{{#invoke:cite|web|url=http://www.ruife.es/costa-rica/ |title=Costa Rica&nbsp;– Record International Players |author=Luis Fernando Passo Alpuin |publisher=RSSSF |access-date=4 July 2013 |url-status=dead |archive-url=https://web.archive.org/web/20140720071710/http://www.ruife.es/costa-rica/ |archive-date=20 July 2014 }}</ref>
+:''Players in '''bold''' are still active with Costa Rica.''
+
+===Most appearances===
+[[File:Celso Borges - Gold Cup 2015.jpg|200px|right|thumb|[[Celso Borges]] is Costa Rica's most capped player with 164 appearances.]]
+
+{| class="wikitable sortable" style="text-align:center;"
+|-
+!width=30px|Rank
+!style="width:150px;"|Player
+!width=50px|Caps
+!width=50px|Goals
+!style="width:100px;"|Career
+|-
+| 1 || align=left| '''[[Celso Borges]]''' || 164 || 27 || 2008–present
+|-
+| 2 ||align=left| '''[[Joel Campbell]]''' || 150 || 27 || 2011–present
+|-
+| 3 || align=left| [[Bryan Ruiz]] || 147 || 29 || 2005–2022
+|-
+| 4 || align=left| [[Walter Centeno]] || 137 || 24 || 1995–2009
+|-
+| 5 || align=left| [[Luis Marín (footballer, born 1974)|Luis Marín]] || 128 || 5 || 1993–2009
+|-
+| 6 ||  align=left| '''[[Keylor Navas]]''' || 127 || 0 || 2008–present
+|-
+| 7 || align=left| '''[[Francisco Calvo]]''' || 115 || 15 || 2011–present
+|-
+| 8 || align=left| [[Rolando Fonseca]] || 113 || 47 || 1992–2011
+|-
+| 9 || align=left| [[Álvaro Saborío]] || 112 || 36 || 2002–2021
+|-
+| 10 || align=left| [[Mauricio Solís]] || 110 || 6 || 1993–2006
+|-
+|}
+
+===Top goalscorers===
+
+[[File:Rolando Fonseca - Oct. 2006.jpg|200px|right|thumb|[[Rolando Fonseca]] is Costa Rica's all-time top scorer with 47 goals.]]
+
+{| class="wikitable sortable" style="text-align:center;"
+|-
+!width=30px|Rank
+!style="width:150px;"|Player
+!width=50px|Goals
+!width=50px|Caps
+!width=50px|Ratio
+!style="width:100px;"|Career
+|-
+| 1 ||align=left| [[Rolando Fonseca]] || 47 || 113 || {{#expr: 47/113 round 2}} || 1992–2011
+|-
+| 2 ||align=left| [[Paulo Wanchope]] || 45 || 73 || {{#expr: 45/73 round 2}} || 1996–2008
+|-
+| 3 ||align=left| [[Álvaro Saborío]] || 36 || 112 || {{#expr: 36/112 round 2}} || 2002–2021
+|-
+| 4 ||align=left| [[Bryan Ruiz]] || 29 || 147 || {{#expr: 29/147 round 2}} || 2005–2022
+|-
+|rowspan=3|5 ||align=left| [[Juan Ulloa]] || 27 || 27 || {{#expr: 27/27 round 2}} || 1955–1970
+|-
+|align=left| '''[[Joel Campbell]]''' || 27 || 150 || {{#expr: 27/150 round 2}} || 2011–present
+|-
+|align=left| '''[[Celso Borges]]''' || 27 || 164 || {{#expr: 27/164 round 2}} || 2008–present
+|-
+| rowspan=2|8 ||align=left| [[Rónald Gómez]] || 24 || 91 || {{#expr: 24/91 round 2}} || 1993–2008
+|-
+|align=left| [[Walter Centeno]] || 24 || 137 || {{#expr: 24/137 round 2}} || 1995–2009
+|-
+| 10 ||align=left| [[Jorge Monge]] || 23 || 27 || {{#expr: 23/27 round 2}} || 1955–1961
+|}
+
+==Competitive record==
+===FIFA World Cup===
+{{Main|Costa Rica at the FIFA World Cup}}
+
+{| class="wikitable" style="text-align: center;"
+!colspan=10|[[FIFA World Cup]] record
+!width=1% rowspan=28|
+!colspan=7|[[FIFA World Cup qualification|Qualification]] record
+|-
+!Year
+!Round
+!Position
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!Squad
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!—
+|-
+| {{flagicon|Uruguay}} [[1930 FIFA World Cup|1930]]
+| colspan=9 rowspan=2|''Did not enter''
+| colspan=7|''Declined invitation''
+|-
+| {{flagicon|Italy|1861}} [[1934 FIFA World Cup|1934]]
+| colspan=7|''Did not enter''
+|-
+| {{flagicon|France|1794}} [[1938 FIFA World Cup|1938]]
+| colspan=9|''Withdrew''
+| colspan=7|''Withdrew''
+|-
+| {{flagicon|Brazil|1889}} [[1950 FIFA World Cup|1950]]
+| colspan=9|''Did not enter''
+| colspan=7|''Did not enter''
+|-
+| {{flagicon|Switzerland}} [[1954 FIFA World Cup|1954]]
+| colspan=9|''Entry not accepted by FIFA''
+| colspan=7|''Entry not accepted by FIFA''
+|-
+| {{flagicon|Sweden}} [[1958 FIFA World Cup|1958]]
+| colspan=9 rowspan=8|''Did not qualify''
+| 6
+| 4
+| 1
+| 1
+| 16
+| 7
+| [[1958 FIFA World Cup qualification (CCCF and NAFC)|1958]]
+|-
+| {{flagicon|Chile}} [[1962 FIFA World Cup|1962]]
+| 9
+| 5
+| 1
+| 3
+| 22
+| 14
+| [[1962 FIFA World Cup qualification (CCCF and NAFC)|1962]]
+|-
+| {{flagicon|England}} [[1966 FIFA World Cup|1966]]
+| 8
+| 5
+| 2
+| 1
+| 17
+| 3
+| [[1966 FIFA World Cup qualification (CONCACAF)|1966]]
+|-
+| {{flagicon|Mexico}} [[1970 FIFA World Cup|1970]]
+| 4
+| 2
+| 1
+| 1
+| 7
+| 3
+| [[1970 FIFA World Cup qualification (CONCACAF)|1970]]
+|-
+| {{flagicon|West Germany}} [[1974 FIFA World Cup|1974]]
+| 2
+| 0
+| 1
+| 1
+| 4
+| 5
+| [[1973 CONCACAF Championship|1973]]
+|-
+| {{flagicon|Argentina}} [[1978 FIFA World Cup|1978]]
+| 6
+| 1
+| 4
+| 1
+| 8
+| 6
+| [[1977 CONCACAF Championship|1978]]
+|-
+| {{flagicon|Spain}} [[1982 FIFA World Cup|1982]]
+| 8
+| 1
+| 4
+| 3
+| 6
+| 10
+| [[1981 CONCACAF Championship|1981]]
+|-
+| {{flagicon|Mexico}} [[1986 FIFA World Cup|1986]]
+| 8
+| 2
+| 5
+| 1
+| 10
+| 8
+| [[1985 CONCACAF Championship|1986]]
+|-
+| {{flagicon|Italy}} [[1990 FIFA World Cup|1990]]
+| Round of 16
+| 13th
+| 4
+| 2
+| 0
+| 2
+| 4
+| 6
+| [[1990 FIFA World Cup squads#Costa Rica|Squad]]
+| 10
+| 6
+| 2
+| 2
+| 13
+| 7
+| [[1989 CONCACAF Championship|1990]]
+|-
+| {{flagicon|United States}} [[1994 FIFA World Cup|1994]]
+| colspan=9 rowspan=2|''Did not qualify''
+| 8
+| 4
+| 0
+| 4
+| 16
+| 11
+| [[1994 FIFA World Cup qualification (CONCACAF)|1994]]
+|-
+| {{flagicon|France|1974}} [[1998 FIFA World Cup|1998]]
+| 16
+| 7
+| 3
+| 6
+| 22
+| 17
+| [[1998 FIFA World Cup qualification (CONCACAF)|1998]]
+|-
+| {{flagicon|South Korea|1997}} {{#invoke:flag|icon|Japan}} [[2002 FIFA World Cup|2002]]
+| rowspan=2|Group stage
+| 19th
+| 3
+| 1
+| 1
+| 1
+| 5
+| 6
+| [[2002 FIFA World Cup squads#Costa Rica|Squad]]
+| 17
+| 11
+| 3
+| 3
+| 31
+| 10
+| [[2002 FIFA World Cup qualification (CONCACAF)|2002]]
+|-
+| {{flagicon|Germany}} [[2006 FIFA World Cup|2006]]
+| 31st
+| 3
+| 0
+| 0
+| 3
+| 3
+| 9
+| [[2006 FIFA World Cup squads#Costa Rica|Squad]]
+| 18
+| 8
+| 4
+| 6
+| 30
+| 25
+| [[2006 FIFA World Cup qualification (CONCACAF)|2006]]
+|-
+| {{flagicon|South Africa}} [[2010 FIFA World Cup|2010]]
+| colspan=9|''Did not qualify''
+| 20
+| 12
+| 3
+| 5
+| 41
+| 22
+| [[2010 FIFA World Cup qualification (CONCACAF)|2010]]
+|-
+| {{flagicon|Brazil}} [[2014 FIFA World Cup|2014]]
+| Quarter-finals
+| 8th
+| 5
+| 2
+| 3
+| 0
+| 5
+| 2
+| [[2014 FIFA World Cup squads#Costa Rica|Squad]]
+| 16
+| 8
+| 4
+| 4
+| 27
+| 12
+| [[2014 FIFA World Cup qualification (CONCACAF)|2014]]
+|-
+| {{flagicon|Russia}} [[2018 FIFA World Cup|2018]]
+| rowspan=2|Group stage
+| 29th
+| 3
+| 0
+| 1
+| 2
+| 2
+| 5
+| [[2018 FIFA World Cup squads#Costa Rica|Squad]]
+| 16
+| 9
+| 5
+| 2
+| 25
+| 11
+| [[2018 FIFA World Cup qualification (CONCACAF)|2018]]
+|-
+| {{flagicon|Qatar}} [[2022 FIFA World Cup|2022]]
+| 27th
+| 3
+| 1
+| 0
+| 2
+| 3
+| 11
+| [[2022 FIFA World Cup squads#Costa Rica|Squad]]
+| 15
+| 8
+| 4
+| 3
+| 14
+| 8
+| [[2022 FIFA World Cup qualification (CONCACAF)|2022]]
+|-
+| {{flagicon|Canada}} {{flagicon|Mexico}} {{flagicon|United States}} [[2026 FIFA World Cup|2026]]
+| colspan=9|''Did not qualify''
+| 10
+| 5
+| 4
+| 1
+| 25
+| 7
+| [[2026 FIFA World Cup qualification (CONCACAF)|2026]]
+|-
+| {{flagicon|Morocco}} {{flagicon|Portugal}} {{flagicon|Spain}} [[2030 FIFA World Cup|2030]]
+| colspan=9 rowspan=2|''To be determined''
+| colspan=6 rowspan=2|''To be determined''
+| [[2030 FIFA World Cup qualification (CONCACAF)|2030]]
+|-
+| {{flagicon|Saudi Arabia}} [[2034 FIFA World Cup|2034]]
+| [[2034 FIFA World Cup qualification (CONCACAF)|2034]]
+|-
+!Total
+!{{Tooltip|Quarter-finals|Highest finish}}
+!{{Tooltip|6/23|Number of tournaments qualified for}}
+!21
+!6
+!5
+!10
+!22
+!39
+!—
+!197
+!98
+!51
+!48
+!334
+!191
+!—
+|}
+{| class="wikitable collapsible collapsed" style="text-align: center;font-size:90%;"
+|-
+!colspan=2|FIFA World Cup history
+|-
+!First match
+|{{fb|CRC}} 1–0 {{fb-rt|SCO}}<br>(11 June 1990; [[Genoa]], Italy)
+|-
+!Biggest win
+|{{fb|URU}} 1–3 {{fb-rt|CRC}}<br>(14 June 2014; [[Fortaleza]], Brazil)
+|-
+!Biggest defeat
+|{{fb|ESP}} 7–0 {{fb-rt|CRC}}<br>(23 November 2022; [[Doha]], Qatar)
+|-
+!Best result
+|Quarter-finals ([[2014 FIFA World Cup|2014]])
+|-
+!Worst result
+|Group stage ([[2002 FIFA World Cup|2002]], [[2006 FIFA World Cup|2006]], [[2018 FIFA World Cup|2018]], [[2022 FIFA World Cup|2022]])
+|}
+:''*Draws include knockout matches decided via [[Penalty shoot-out (association football)|penalty shoot-out]].''
+
+===CONCACAF Gold Cup===
+{{Main|Costa Rica at the CONCACAF Gold Cup}}
+{| class="wikitable" style="text-align: center;"
+|-
+!colspan=10|[[CONCACAF Championship]] & [[CONCACAF Gold Cup|Gold Cup]] record
+!width=1% rowspan=31|
+!colspan=6|[[CONCACAF Gold Cup qualification|Qualification]] record
+|-
+!Year
+!Round
+!Position
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!Squad
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+|- style="background:Gold;"
+| {{flagicon|El Salvador}} [[1963 CONCACAF Championship|1963]]
+| '''Champions'''
+| '''1st'''
+| '''6'''
+| '''5'''
+| '''1'''
+| '''0'''
+| '''14'''
+| '''2'''
+| '''Squad'''
+| colspan=6|''Qualified automatically''
+|- style="background:#c96;"
+| {{flagicon|Guatemala}} [[1965 CONCACAF Championship|1965]]
+| Third place
+| 3rd
+| 5
+| 2
+| 2
+| 1
+| 11
+| 4
+| Squad
+| colspan=6|''Automatically entered''
+|-
+| {{flagicon|Honduras|1949}} [[1967 CONCACAF Championship|1967]]
+| colspan=9|''Did not enter''
+| colspan=6|''Did not enter''
+|- style="background:Gold;"
+| style="border: 3px solid red"|{{#invoke:flag|icon|Costa Rica}} [[1969 CONCACAF Championship|1969]]
+| '''Champions'''
+| '''1st'''
+| '''5'''
+| '''4'''
+| '''1'''
+| '''0'''
+| '''13'''
+| '''2'''
+| '''Squad'''
+| colspan=6|''Qualified as hosts''
+|- style="background:#c96;"
+| {{flagicon|Trinidad and Tobago}} [[1971 CONCACAF Championship|1971]]
+| Third place
+| 3rd
+| 5
+| 2
+| 1
+| 2
+| 6
+| 5
+| Squad
+| colspan=6|<span class="nowrap">''Qualified as defending champions''</span>
+|-
+| {{flagicon|Haiti|1964}} [[1973 CONCACAF Championship|1973]]
+| colspan=9 rowspan=3|''Did not qualify''
+| 2
+| 0
+| 1
+| 1
+| 4
+| 5
+|-
+| {{flagicon|Mexico}} [[1977 CONCACAF Championship|1977]]
+| 6
+| 1
+| 4
+| 1
+| 8
+| 6
+|-
+| {{flagicon|Honduras|1949}} [[1981 CONCACAF Championship|1981]]
+| 8
+| 1
+| 4
+| 3
+| 6
+| 10
+|- style="background:#c96;"
+| [[1985 CONCACAF Championship|1985]]
+| Third place
+| 3rd
+| 8
+| 2
+| 5
+| 1
+| 10
+| 8
+| Squad
+| 5
+| 1
+| 0
+| 4
+| 5
+| 9
+|- style="background:Gold;"
+| [[1989 CONCACAF Championship|1989]]
+| '''Champions'''
+| '''1st'''
+| '''8'''
+| '''5'''
+| '''1'''
+| '''2'''
+| '''10'''
+| '''6'''
+| '''Squad'''
+| colspan=6|''Qualified automatically''
+|- style="background:#9acdff;"
+| {{flagicon|United States}} [[1991 CONCACAF Gold Cup|1991]]
+| Fourth place
+| 4th
+| 5
+| 1
+| 0
+| 4
+| 5
+| 9
+| [[1991 CONCACAF Gold Cup squads#Costa Rica|Squad]]
+| colspan=6|''Qualified as defending champions''
+|- style="background:#c96;"
+| {{flagicon|Mexico}} {{flagicon|United States}} [[1993 CONCACAF Gold Cup|1993]]
+| Third place
+| 3rd
+| 5
+| 1
+| 3
+| 1
+| 6
+| 5
+| [[1993 CONCACAF Gold Cup squads#Costa Rica|Squad]]
+| 5
+| 4
+| 0
+| 1
+| 11
+| 2
+|-
+| {{flagicon|United States}} [[1996 CONCACAF Gold Cup|1996]]
+| colspan=9|''Did not qualify''
+| 4
+| 1
+| 1
+| 2
+| 5
+| 6
+|-
+| {{flagicon|United States}} [[1998 CONCACAF Gold Cup|1998]]
+| Group stage
+| 5th
+| 2
+| 1
+| 0
+| 1
+| 8
+| 4
+| [[1998 CONCACAF Gold Cup squads#Costa Rica|Squad]]
+| 5
+| 3
+| 2
+| 0
+| 12
+| 3
+|-
+| {{flagicon|United States}} [[2000 CONCACAF Gold Cup|2000]]
+| Quarter-finals
+| 6th
+| 3
+| 0
+| 2
+| 1
+| 5
+| 6
+| [[2000 CONCACAF Gold Cup squads#Costa Rica|Squad]]
+| 5
+| 3
+| 0
+| 2
+| 13
+| 3
+|- style="background:Silver;"
+| {{flagicon|United States}} [[2002 CONCACAF Gold Cup|2002]]
+| '''[[2002 CONCACAF Gold Cup final|Runners-up]]'''
+| '''2nd'''
+| '''5'''
+| '''3'''
+| '''1'''
+| '''1'''
+| '''8'''
+| '''5'''
+| '''[[2002 CONCACAF Gold Cup squads#Costa Rica|Squad]]'''
+| 5
+| 2
+| 2
+| 1
+| 8
+| 5
+|- style="background:#9acdff;"
+| {{flagicon|Mexico}} {{flagicon|United States}} [[2003 CONCACAF Gold Cup|2003]]
+| Fourth place
+| 4th
+| 5
+| 2
+| 0
+| 3
+| 10
+| 8
+| [[2003 CONCACAF Gold Cup squads#Costa Rica|Squad]]
+| 5
+| 4
+| 1
+| 0
+| 5
+| 1
+|-
+| {{flagicon|United States}} [[2005 CONCACAF Gold Cup|2005]]
+| rowspan=2|Quarter-finals
+| 6th
+| 4
+| 2
+| 1
+| 1
+| 6
+| 4
+| [[2005 CONCACAF Gold Cup squads#Costa Rica|Squad]]
+| 4
+| 3
+| 1
+| 0
+| 8
+| 2
+|-
+| {{flagicon|United States}} [[2007 CONCACAF Gold Cup|2007]]
+| 7th
+| 4
+| 1
+| 1
+| 2
+| 3
+| 4
+| [[2007 CONCACAF Gold Cup squads#Costa Rica|Squad]]
+| 4
+| 2
+| 1
+| 1
+| 6
+| 3
+|- style="background:#9acdff;"
+| {{flagicon|United States}} [[2009 CONCACAF Gold Cup|2009]]
+| Semi-finals
+| 4th
+| 5
+| 2
+| 2
+| 1
+| 10
+| 6
+| [[2009 CONCACAF Gold Cup squads#Costa Rica|Squad]]
+| 4
+| 3
+| 1
+| 0
+| 9
+| 1
+|-
+| {{flagicon|United States}} [[2011 CONCACAF Gold Cup|2011]]
+| rowspan=3|Quarter-finals
+| 5th
+| 4
+| 1
+| 2
+| 1
+| 8
+| 6
+| [[2011 CONCACAF Gold Cup squads#Costa Rica|Squad]]
+| 4
+| 1
+| 2
+| 1
+| 5
+| 4
+|-
+| {{flagicon|United States}} [[2013 CONCACAF Gold Cup|2013]]
+| 5th
+| 4
+| 2
+| 0
+| 2
+| 4
+| 2
+| [[2013 CONCACAF Gold Cup squads#Costa Rica|Squad]]
+| 5
+| 4
+| 1
+| 0
+| 6
+| 1
+|-
+| {{flagicon|Canada}} {{flagicon|United States}} [[2015 CONCACAF Gold Cup|2015]]
+| 7th
+| 4
+| 0
+| 3
+| 1
+| 3
+| 4
+| [[2015 CONCACAF Gold Cup squads#Costa Rica|Squad]]
+| 3
+| 2
+| 1
+| 0
+| 7
+| 3
+|- style="background:#9acdff;"
+| {{flagicon|United States}} [[2017 CONCACAF Gold Cup|2017]]
+| Semi-finals
+| 4th
+| 5
+| 3
+| 1
+| 1
+| 6
+| 3
+| [[2017 CONCACAF Gold Cup squads#Costa Rica|Squad]]
+| 5
+| 1
+| 3
+| 1
+| 4
+| 2
+|-
+| style="border: 3px solid red"|{{flagicon|Costa Rica}} {{flagicon|Jamaica}} {{flagicon|United States}} [[2019 CONCACAF Gold Cup|2019]]
+| rowspan=4|Quarter-finals
+| 5th
+| 4
+| 2
+| 1
+| 1
+| 8
+| 4
+| [[2019 CONCACAF Gold Cup squads#Costa Rica|Squad]]
+| colspan=6|''Qualified automatically''
+|-
+| {{flagicon|United States}} [[2021 CONCACAF Gold Cup|2021]]
+| 5th
+| 4
+| 3
+| 0
+| 1
+| 6
+| 4
+| [[2021 CONCACAF Gold Cup squads#Costa Rica|Squad]]
+| 4
+| 1
+| 3
+| 0
+| 4
+| 3
+|-
+| {{flagicon|Canada}} {{flagicon|United States}} [[2023 CONCACAF Gold Cup|2023]]
+| 7th
+| 4
+| 1
+| 1
+| 2
+| 7
+| 8
+| [[2023 CONCACAF Gold Cup squads#Costa Rica|Squad]]
+| 4
+| 2
+| 0
+| 2
+| 4
+| 4
+|-
+| {{flagicon|Canada}} {{flagicon|United States}} [[2025 CONCACAF Gold Cup|2025]]
+| 7th
+| 4
+| 2
+| 2
+| 0
+| 8
+| 6
+| [[2025 CONCACAF Gold Cup squads#Costa Rica|Squad]]
+| 8
+| 4
+| 3
+| 1
+| 22
+| 5
+|-
+!Total
+!3 Titles
+!23/28
+!108
+!47
+!31
+!30
+!175
+!115
+!—
+!90
+!42
+!31
+!17
+!147
+!69
+|}
+{| class="wikitable collapsible collapsed" style="text-align: center;font-size:90%;"
+|-
+!colspan=2|CONCACAF Championship & Gold Cup history
+|-
+!First match
+|{{fb|CRC}} 6–0 {{fb-rt|JAM}}<br>(24 March 1963; [[Santa Ana, El Salvador|Santa Ana]], El Salvador)
+|-
+!Biggest win
+|{{fb|CRC}} 6–0 {{fb-rt|JAM}}<br>(24 March 1963; Santa Ana, El Salvador)<br/>{{fb|CRC}} 6–0 {{fb-rt|ANT}}<br>(28 March 1965; [[Guatemala City]], Guatemala)
+|-
+!Biggest defeat
+|{{fb|MEX}} 4–1 {{fb-rt|CRC}}<br>(12 June 2011; [[Chicago]], United States)
+|-
+!Best result
+|'''Champions''' ([[1963 CONCACAF Championship|1963]], [[1969 CONCACAF Championship|1969]], [[1989 CONCACAF Championship|1989]])
+|-
+!Worst result
+|Quarter-finals ([[2007 CONCACAF Gold Cup|2007]], [[2015 CONCACAF Gold Cup|2015]], [[2023 CONCACAF Gold Cup|2023]], [[2025 CONCACAF Gold Cup|2025]])
+|}
+
+===CONCACAF Nations League===
+{| class="wikitable" style="text-align: center;"
+|-
+! colspan=21|[[CONCACAF Nations League]] record
+|-
+! colspan=10|League phase / Quarter-finals
+! rowspan=8|
+! colspan=9|Finals
+|-
+!Season
+!Division
+!Group
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!{{Tooltip|P/R|Promotion/relegation at end of season}}
+!Year
+!Result
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!{{Tooltip|Squad|Finals Squad Only}}
+|- style="background:#9acdff;"
+|bgcolor="#f8f9fa"|[[2019–20 CONCACAF Nations League|2019−20]]
+|bgcolor="#f8f9fa"|[[2019–20 CONCACAF Nations League A|A]]
+|bgcolor="#f8f9fa"|[[2019–20 CONCACAF Nations League A#Group D|D]]
+|bgcolor="#f8f9fa"|4
+|bgcolor="#f8f9fa"|1
+|bgcolor="#f8f9fa"|3
+|bgcolor="#f8f9fa"|0
+|bgcolor="#f8f9fa"|4
+|bgcolor="#f8f9fa"|3
+|bgcolor="#f8f9fa"|{{same position}}
+|{{flagicon|USA}} [[2021 CONCACAF Nations League Finals|2021]]
+|Fourth place
+|2
+|0
+|2
+|0
+|2
+|0
+|[[2021 CONCACAF Nations League Finals squads#Costa Rica|Squad]]
+|-
+|[[2022–23 CONCACAF Nations League|2022–23]]
+|[[2022–23 CONCACAF Nations League A|A]]
+|[[2022–23 CONCACAF Nations League A#Group B|B]]
+|4
+|2
+|0
+|2
+|4
+|4
+|{{same position}}
+|{{flagicon|USA}} [[2023 CONCACAF Nations League Finals|2023]]
+|colspan=8 rowspan=3|''Did not qualify''
+|-
+|[[2023–24 CONCACAF Nations League|2023–24]]
+|[[2023–24 CONCACAF Nations League A|A]]
+|colspan=7|''[[Bye (sports)|Bye]]''
+|{{same position}}
+|{{flagicon|USA}} [[2024 CONCACAF Nations League Finals|2024]]
+|-
+|[[2024–25 CONCACAF Nations League|2024–25]]
+|[[2024–25 CONCACAF Nations League A|A]]
+|[[2024–25 CONCACAF Nations League A#Group A|A]]
+|6
+|2
+|3
+|1
+|9
+|4
+|{{same position}}
+|{{flagicon|USA}} [[2025 CONCACAF Nations League Finals|2025]]
+|-
+|''2026–27''
+|''A''
+|colspan=8|''To be determined''
+|{{flagicon image|Flag of none.svg}} ''2027''
+|colspan=8|''To be determined''
+|-
+!Total
+!—
+!—
+!14
+!5
+!6
+!3
+!17
+!11
+!—
+!Total
+!0 Titles
+!2
+!0
+!2
+!0
+!2
+!0
+!—
+|}
+{| class="wikitable collapsible collapsed" style="text-align: center;font-size:90%;"
+|-
+!colspan=2|CONCACAF Nations League history
+|-
+!First match
+|{{fb|HAI}} 1–1 {{fb-rt|CRC}}<br>(10 October 2019; [[Nassau, Bahamas|Nassau]], Bahamas)
+|-
+!Biggest win
+|{{fb|CRC}} 3–0 {{fb-rt|GLP}}<br>(5 September 2024; [[San José, Costa Rica|San José]], Costa Rica)<br/>{{fb|CRC}} 3–0 {{fb-rt|GUA}}<br>(15 October 2024; San José, Costa Rica)
+|-
+!Biggest defeat
+|{{fb|CRC}} 0–3 {{fb-rt|PAN}}<br>(16 November 2023; San José, Costa Rica)
+|-
+!Best result
+| Fourth place ([[2021 CONCACAF Nations League Finals|2019–20]])
+|-
+!Worst result
+| Eighth place ([[2023–24 CONCACAF Nations League|2023–24]])
+|}
+
+===Copa América===
+{{main|Costa Rica at the Copa América}}
+{| class="wikitable" style="text-align:center;"
+!colspan=10|[[Copa América]] record
+|-
+!Year
+!Round
+!Position
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!Squad
+|-
+|{{flagicon|Bolivia}} [[1997 Copa América|1997]]
+|Group stage||10th||3||0||1||2||2||10||[[1997 Copa América squads#Costa Rica|Squad]]
+|-
+|{{flagicon|Colombia}} [[2001 Copa América|2001]]
+|rowspan=2|Quarter-finals||5th||4||2||1||1||7||3||[[2001 Copa América squads#Costa Rica|Squad]]
+|-
+|{{flagicon|Peru}} [[2004 Copa América|2004]]
+|7th||4||1||0||3||3||8||[[2004 Copa América squads#Costa Rica|Squad]]
+|-
+|{{flagicon|Argentina}} [[2011 Copa América|2011]]
+|Group stage||9th||3||1||0||2||2||4||[[2011 Copa América squads#Costa Rica|Squad]]
+|-
+|{{flagicon|United States}} [[Copa América Centenario|2016]]
+|Group stage||10th||3||1||1||1||3||6||[[Copa América Centenario squads#Costa Rica|Squad]]
+|-
+|{{flagicon|United States}} [[2024 Copa América|2024]]
+|Group stage||10th||3||1||1||1||2||4||[[2024 Copa América squads#Costa Rica|Squad]]
+|-
+!Total||Quarter-finals||6/6||20||6||4||10||19||35||—
+|}
+{| class="wikitable collapsible collapsed" style="text-align:center; font-size:90%;"
+|-
+!colspan=2|Copa América history
+|-
+!First match
+|{{fb|BRA}} 5–0 {{fb-rt|CRC}}<br>(13 June 1997; [[Santa Cruz de la Sierra|Santa Cruz]], Paraguay)
+|-
+!Biggest win
+|{{fb|BOL}} 0–4 {{fb-rt|CRC}}<br>(19 June 2001; [[Medellín]], Colombia)
+|-
+!Biggest defeat
+|{{fb|BRA}} 5–0 {{fb-rt|CRC}}<br>(13 June 1997; [[Santa Cruz de la Sierra|Santa Cruz]], Paraguay)
+|-
+!Best result
+|Quarter-finals ([[2001 Copa América|2001]], [[2004 Copa América|2004]])
+|-
+!Worst result
+|10th – Group stage ([[1997 Copa América|1997]], [[Copa Centenario|2016]], [[2024 Copa América|2024]])
+|}
+
+===Copa Centroamericana===
+{| class="wikitable" style="text-align: center;"
+|-
+!colspan=9|[[Copa Centroamericana]] record 
+|-
+!Year
+!Round
+!Position
+!{{Abbr|Pld|Games played}}
+!{{Abbr|W|Won}}
+!{{Abbr|D|Drawn}}
+!{{Abbr|L|Lost}}
+!{{Abbr|GF|Goals for}}
+!{{Abbr|GA|Goals against}}
+|- style="background:Gold;"
+| style="border: 3px solid red"|{{#invoke:flag|icon|Costa Rica}} [[1991 UNCAF Nations Cup|1991]]
+| '''Champions'''
+| 1st
+| 3
+| 3
+| 0
+| 0
+| 10
+| 1
+|- style="background:Silver;"
+| {{flagicon|Honduras|1949}} [[1993 UNCAF Nations Cup|1993]]
+| '''Runners-up'''
+| 2nd
+| 3
+| 2
+| 0
+| 1
+| 3
+| 2
+|- style="background:#9acdff;"
+| {{flagicon|El Salvador}} [[1995 UNCAF Nations Cup|1995]]
+| Fourth place
+| 4th
+| 4
+| 1
+| 1
+| 2
+| 5
+| 6
+|- style="background:Gold;"
+| {{flagicon|Guatemala}} [[1997 UNCAF Nations Cup|1997]]
+|rowspan=2| '''Champions'''
+| 1st
+| 5
+| 3
+| 2
+| 0
+| 12
+| 3
+|- style="background:Gold;"
+| style="border: 3px solid red"|{{flagicon|Costa Rica}} [[1999 UNCAF Nations Cup|1999]]
+| 1st
+| 5
+| 3
+| 0
+| 2
+| 13
+| 3
+|- style="background:Silver;"
+| {{flagicon|Honduras|1949}} [[2001 UNCAF Nations Cup|2001]]
+| '''Runners-up'''
+| 2nd
+| 5
+| 2
+| 2
+| 1
+| 8
+| 5
+|- style="background:Gold;"
+| {{flagicon|Panama}} [[2003 UNCAF Nations Cup|2003]]
+|rowspan=3| '''Champions'''
+| 1st
+| 5
+| 4
+| 1
+| 0
+| 5
+| 1
+|- style="background:Gold;"
+| {{flagicon|Guatemala}} [[2005 UNCAF Nations Cup|2005]]
+| 1st
+| 4
+| 3
+| 1
+| 0
+| 8
+| 2
+|- style="background:Gold;"
+| {{flagicon|El Salvador}} [[2007 UNCAF Nations Cup|2007]]
+| 1st
+| 4
+| 2
+| 1
+| 1
+| 5
+| 2
+|- style="background:Silver;"
+| {{flagicon|Honduras|1949}} [[2009 UNCAF Nations Cup|2009]]
+|rowspan=2| '''Runners-up'''
+| 2nd
+| 4
+| 3
+| 1
+| 0
+| 9
+| 1
+|- style="background:Silver;"
+| {{flagicon|Panama}} [[2011 Copa Centroamericana|2011]]
+| 2nd
+| 4
+| 1
+| 2
+| 1
+| 6
+| 5
+|- style="background:Gold;"
+| style="border: 3px solid red"|{{flagicon|Costa Rica}} [[2013 Copa Centroamericana|2013]]
+|rowspan=2| '''Champions'''
+| 1st
+| 5
+| 4
+| 1
+| 0
+| 6
+| 1
+|- style="background:Gold;"
+| {{flagicon|United States}} [[2014 Copa Centroamericana|2014]]
+| 1st
+| 3
+| 2
+| 1
+| 0
+| 7
+| 3
+|- style="background:#9acdff;"
+| {{flagicon|Panama}} [[2017 Copa Centroamericana|2017]]
+| Fourth place
+| 4th
+| 5
+| 1
+| 3
+| 1
+| 4
+| 2
+|-
+!Total||8 Titles||14/14||59||34||16||9||103||37
+|}
+
+===CCCF Championship===
+{| class="wikitable" style="text-align: center;"
+|-
+!colspan=10|[[CCCF Championship]] record 
+|-
+!Year
+!Round
+!Position
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+|- style="background:Gold;"
+| style="border: 3px solid red"|{{flagicon|Costa Rica}} [[1941 CCCF Championship|1941]]
+| '''Champions'''
+| 1st
+| 4
+| 4
+| 0
+| 0
+| 23
+| 5
+|- style="background:#c96;"
+| {{flagicon|El Salvador}} [[1943 CCCF Championship|1943]]
+| Third place
+| 3rd
+| 6
+| 3
+| 0
+| 3
+| 20
+| 15
+|- style="background:Gold;"
+| style="border: 3px solid red"|{{flagicon|Costa Rica}} [[1946 CCCF Championship|1946]]
+| '''Champions'''
+| 1st
+| 5
+| 4
+| 0
+| 1
+| 24
+| 6
+|- style="background:Gold;"
+| {{flagicon|Guatemala}} [[1948 CCCF Championship|1948]]
+| '''Champions'''
+| 1st
+| 8
+| 5
+| 1
+| 2
+| 25
+| 11
+|- style="background:Silver;"
+| {{flagicon|Panama}} [[1951 CCCF Championship|1951]]
+| '''Runners-up'''
+| 2nd
+| 4
+| 2
+| 1
+| 1
+| 13
+| 5
+|- style="background:Gold;"
+| style="border: 3px solid red"|{{flagicon|Costa Rica}} [[1953 CCCF Championship|1953]]
+| '''Champions'''
+| 1st
+| 6
+| 6
+| 0
+| 0
+| 19
+| 2
+|- style="background:Gold;"
+| {{flagicon|Honduras|1949}} [[1955 CCCF Championship|1955]]
+| '''Champions'''
+| 1st
+| 6
+| 6
+| 0
+| 0
+| 19
+| 4
+|-
+| {{flagicon|Netherlands Antilles}} [[1957 CCCF Championship|1957]]
+| colspan=8|''Withdrew''
+|- style="background:Gold;"
+| {{flagicon|Cuba}} [[1960 CCCF Championship|1960]]
+| '''Champions'''
+| 1st
+| 5
+| 3
+| 2
+| 0
+| 14
+| 4
+|- style="background:Gold;"
+| style="border: 3px solid red"|{{flagicon|Costa Rica}} [[1961 CCCF Championship|1961]]
+| '''Champions'''
+| 1st
+| 7
+| 7
+| 0
+| 0
+| 32
+| 4
+|-
+!Total!!7 Titles!!9/10!!51!!40!!4!!7!!191!!56
+|}
+
+===Olympic Games===
+{| class="wikitable" style="text-align:center;"
+|-
+!colspan=10|[[Football at the Summer Olympics|Olympic Games]] record
+|-
+!Year
+!Round
+!Position
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!Squad
+|-
+| {{flagicon|France|1794}} [[Football at the 1900 Summer Olympics|1900]]||colspan=9 rowspan=2|''Only club teams participated''
+|-
+| {{flagicon|United States|1896}} [[Football at the 1904 Summer Olympics|1904]]
+|-
+| {{flagicon|United Kingdom}} [[Football at the 1908 Summer Olympics|1908]]||colspan=9 rowspan=3|''No national representative''
+|-
+| {{flagicon|Sweden}} [[Football at the 1912 Summer Olympics|1912]]
+|-
+| {{flagicon|Belgium}} [[Football at the 1920 Summer Olympics|1920]]
+|-
+| {{flagicon|France|1794}} [[Football at the 1924 Summer Olympics|1924]]||colspan=9 rowspan=2|''Not an IOC member''
+|-
+| {{flagicon|Netherlands}} [[Football at the 1928 Summer Olympics|1928]]
+|-
+| {{flagicon|Nazi Germany}} [[Football at the 1936 Summer Olympics|1936]]||colspan=9 rowspan=6|''Did not participate''
+|-
+| {{flagicon|United Kingdom}} [[Football at the 1948 Summer Olympics|1948]]
+|-
+| {{flagicon|Finland}} [[Football at the 1952 Summer Olympics|1952]]
+|-
+| {{flagicon|Australia}} [[Association football at the 1956 Summer Olympics|1956]]
+|-
+| {{flagicon|Italy}} [[Football at the 1960 Summer Olympics|1960]]
+|-
+| {{flagicon|Japan|1947}} [[Football at the 1964 Summer Olympics|1964]]
+|-
+| {{flagicon|Mexico}} [[Football at the 1968 Summer Olympics|1968]]||colspan=9 rowspan=3|''Did not qualify''
+|-
+| {{flagicon|West Germany}} [[Football at the 1972 Summer Olympics|1972]]
+|-
+| {{flagicon|Canada}} [[Football at the 1976 Summer Olympics|1976]]
+|-
+| {{flagicon|Soviet Union}} [[Football at the 1980 Summer Olympics|1980]]||Group stage||16th||3||0||0||3||2||9
+|[[Football at the 1980 Summer Olympics – Men's team squads#Costa Rica|Squad]]
+|-
+| {{flagicon|United States}} [[Football at the 1984 Summer Olympics|1984]]||Group stage||13th||3||1||0||2||2||7
+|[[Football at the 1984 Summer Olympics – Men's team squads#Costa Rica|Squad]]
+|-
+| {{flagicon|South Korea|1984}} [[Football at the 1988 Summer Olympics|1988]]||colspan=9|''Did not qualify''
+|-
+|Since [[Football at the 1992 Summer Olympics|1992]]||colspan=9|''See [[Costa Rica national under-23 football team]]''
+|-
+!Total||Quarter-finals||2/12||6||1||0||5||4||16||—
+|}
+
+===Pan American Games===
+{| class="wikitable" style="text-align:center"
+|-
+!colspan=9|[[Football at the Pan American Games|Pan American Games]] record
+|-
+!Year
+!Round
+!Position
+!{{Abbr|Pld|Games played}}
+!{{Abbr|W|Won}}
+!{{Abbr|D|Drawn}}
+!{{Abbr|L|Lost}}
+!{{Abbr|GF|Goals for}}
+!{{Abbr|GA|Goals against}}
+|- style="background:Silver;"
+| {{flagicon|Argentina}} [[Football at the 1951 Pan American Games|1951]]
+| '''Silver medal''' || 2nd || 4 || 2 || 1 || 1 || 9 || 12
+|-
+| {{flagicon|Mexico|1934}} [[Football at the 1955 Pan American Games|1955]]
+| colspan=8|''Did not participate''
+|-
+| {{flagicon|United States|1959}} [[Football at the 1959 Pan American Games|1959]]
+| Round-robin || 5th || 6 || 2 || 1 || 3 || 10 || 16
+|-
+| {{flagicon|Brazil|1960}} [[Football at the 1963 Pan American Games|1963]]
+| colspan=8 rowspan=3|''Did not participate''
+|-
+| {{flagicon|Canada}} [[Football at the 1967 Pan American Games|1967]]
+|-
+| {{flagicon|Colombia}} [[Football at the 1971 Pan American Games|1971]]
+|- style="background:#9acdff;"
+| {{flagicon|Mexico}} [[Football at the 1975 Pan American Games|1975]]
+| Fourth place || 4th || 6 || 2 || 1 || 3 || 7 || 13
+|- style="background:#9acdff;"
+| {{flagicon|Puerto Rico|1952}} [[Football at the 1979 Pan American Games|1979]]
+| Fourth place || 4th || 5 || 2 || 0 || 3 || 8 || 7
+|-
+| {{flagicon|Venezuela|1954}} [[Football at the 1983 Pan American Games|1983]]
+| colspan=8 rowspan=3|''Did not participate''
+|-
+| {{flagicon|United States}} [[Football at the 1987 Pan American Games|1987]]
+|-
+| {{flagicon|Cuba}} [[Football at the 1991 Pan American Games|1991]]
+|-
+| {{flagicon|Argentina}} [[Football at the 1995 Pan American Games|1995]]
+| Quarter-finals || 6th || 4 || 2 || 0 || 2 || 12 || 6
+|-
+|Since [[Football at the 1999 Pan American Games – Men's tournament|1999]]||colspan=9|''See [[Costa Rica national under-23 football team]]''
+|-
+!Total||Silver medal||5/12||25||10||3||12||46||54
+|}
+
+===Panamerican Championship===
+{| class="wikitable" style="text-align:center"
+|-
+!colspan=9|[[Panamerican Championship]] record
+|-
+!Year
+!Round
+!Position
+!{{Abbr|Pld|Games played}}
+!{{Abbr|W|Won}}
+!{{Abbr|D|Drawn}}
+!{{Abbr|L|Lost}}
+!{{Abbr|GF|Goals for}}
+!{{Abbr|GA|Goals against}}
+|-
+| {{flagicon|Chile}} [[1952 Panamerican Championship|1952]]
+|colspan=8|''Did not qualify''
+|- style="background:#c96;"
+| {{flagicon|Mexico}} [[1956 Panamerican Championship|1956]]
+|'''Third place'''||'''3rd'''||'''5'''||'''2'''||'''1'''||'''2'''||'''11'''||'''15'''
+|- style="background:#9acdff;"
+|style="border: 3px solid red"|{{flagicon|CRC}} [[1960 Panamerican Championship|1960]]
+|'''Fourth place'''||'''4th'''||'''6'''||'''1'''||'''2'''||'''3'''||'''4'''||'''10'''
+|-
+!Total||Third place||2/3||11||3||3||5||15||25
+|}
+
+==Head-to-head record==
+{{main|Costa Rica national football team results}}
+
+The following table shows Costa Rica's all-time international record, correct as of 10 June 2026.
+
+{{legend2|#CCFFCC|Positive Record|border=1px solid #AAAAAA}}
+{{legend2|#FFFFCC|Neutral Record|border=1px solid #AAAAAA}}
+{{legend2|#FFCCCC|Negative Record|border=1px solid #AAAAAA}}
+{|class="sortable wikitable" style="text-align:center;"
+|-
+!Team
+!{{Abbr|M|Games Played}}
+!{{Abbr|W|Won}}
+!{{Abbr|D|Drawn}}
+!{{Abbr|L|Lost}}
+!{{Abbr|GF|Goals for}}
+!{{Abbr|GA|Goals against}}
+!{{Abbr|GD|Goals differences}}
+|-bgcolor=#FFCCCC
+|align="left"|{{fb|ARG}}||7||0||2||5||6||15||–9
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|ARU}}|||2||1||1||0||4||3||1
+|-bgcolor=#FFCCCC
+|align="left"|{{fb|AUS}}
+|1
+|0
+|0
+|1
+|0
+|1
+|–1
+|-bgcolor=#FFCCCC
+|align="left"|{{fb|AUT}}
+|2
+|0
+|1
+|1
+|2
+|4
+|–2
+|-bgcolor=#FFFFCC
+|align="left"|{{fb|BAR}}
+|2
+|1
+|0
+|1
+|4
+|2
+|2
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|BAH}}
+|1
+|1
+|0
+|0
+|8
+|0
+|8
+|-bgcolor=#FFCCCC
+|align="left"|{{fb|BEL}}
+|2
+|0
+|0
+|2
+|1
+|5
+|–4
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|BLZ}}
+|8
+|8
+|0
+|0
+|31
+|2
+|29
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|BER}}
+|1
+|1
+|0
+|0
+|2
+|1
+|1
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|BOL}}
+|3
+|2
+|1
+|0
+|7
+|1
+|6
+|-bgcolor=#FFFFCC
+|align="left"|{{fb|BIH}}
+|1
+|0
+|1
+|0
+|0
+|0
+|0
+|-bgcolor=#FFCCCC
+|align="left"|{{fb|BRA}}
+|12
+|1
+|1
+|10
+|9
+|34
+|–25
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|CMR}}
+|1
+|1
+|0
+|0
+|5
+|0
+|5
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|CAN}}
+|24
+|9
+|9
+|6
+|22
+|18
+|4
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|CHI}}
+|11
+|6
+|2
+|3
+|13
+|10
+|3
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|CHN}}
+|5
+|2
+|2
+|1
+|8
+|6
+|2
+|-bgcolor=#FFCCCC
+|align="left"|{{fb|COL}}
+|16
+|4
+|1
+|11
+|18
+|33
+|–15
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|CUB}}
+|18
+|15
+|3
+|0
+|57
+|11
+|46
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|CUR}}
+|2
+|1
+|1
+|0
+|3
+|2
+|1
+|-bgcolor=#FFCCCC
+|align="left"|{{fb|CZE}}{{efn|include {{fb|TCH}}}}
+|2
+|0
+|0
+|2
+|1
+|5
+|–5
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|DOM}}
+|3
+|3
+|0
+|0
+|10
+|2
+|8
+|-bgcolor=#FFCCCC
+|align="left"|{{fb|ECU}}
+|12
+|1
+|5
+|6
+|10
+|22
+|–12
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|SLV}}
+|69
+|40
+|15
+|14
+|151
+|58
+|93
+|-bgcolor=#FFCCCC
+|align="left"|{{fb|ENG}}
+|3
+|0
+|1
+|2
+|0
+|5
+|–5
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|FIN}}
+|1
+|1
+|0
+|0
+|2
+|1
+|1
+|-bgcolor=#FFCCCC
+|align="left"|{{fb|FRA}}
+|2
+|0
+|0
+|2
+|3
+|5
+|–2
+|-bgcolor=#CCFFCC
+|align="left"|''{{fb|GUF}}''
+|1
+|1
+|0
+|0
+|3
+|0
+|3
+|-bgcolor=#FFCCCC
+|align="left"|{{fb|GER}}
+|2
+|0
+|0
+|2
+|4
+|8
+|–4
+|-bgcolor=#FFFFCC
+|align="left"|{{fb|GRE}}
+|1
+|0
+|1
+|0
+|1
+|1
+|0
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|GRN}}
+|3
+|2
+|1
+|0
+|8
+|2
+|6
+|-bgcolor=#CCFFCC
+|align="left"|''{{fb|GLP}}''
+|4
+|4
+|0
+|0
+|12
+|2
+|10
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|GUA}}
+|66
+|33
+|16
+|17
+|135
+|72
+|63
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|GUY}}
+|2
+|2
+|0
+|0
+|11
+|0
+|11
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|HAI}}
+|17
+|8
+|6
+|3
+|31
+|14
+|17
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|HON}}
+|[[Clásico centroamericano|71]]
+|26
+|26
+|19
+|114
+|84
+|30
+|-bgcolor=#FFCCCC
+|align="left"|{{fb|HUN}}
+|1
+|0
+|0
+|1
+|0
+|1
+|–1
+|-bgcolor=#FFCCCC
+|align="left"|{{fb|IRN}}
+|3
+|0
+|1
+|2
+|2
+|8
+|–6
+|-bgcolor=#FFFFCC
+|align="left"|{{fb|ITA}}
+|2
+|1
+|0
+|1
+|1
+|1
+|0
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|JAM}}
+|31
+|15
+|11
+|4
+|56
+|19
+|37
+|-bgcolor=#FFCCCC
+|align="left"|{{fb|JPN}}
+|6
+|1
+|1
+|4
+|4
+|13
+|–9
+|-bgcolor=#FFFFCC
+|align="left"|{{fb|JOR}}
+|1
+|0
+|1
+|0
+|2
+|2
+|0
+|-bgcolor=#CCFFCC
+|align="left"|''{{fb|MTQ|local}}''
+|5
+|5
+|0
+|0
+|15
+|6
+|9
+|-bgcolor=#FFCCCC
+|align="left"|{{fb|MEX}}
+|59
+|6
+|21
+|32
+|34
+|88
+|–54
+|-bgcolor=#FFFFCC
+|align="left"|{{fb|NED}}
+|1
+|0
+|1
+|0
+|0
+|0
+|0
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|NZL}}
+|3
+|3
+|0
+|0
+|6
+|0
+|6
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|NIC}}
+|21
+|18
+|2
+|1
+|77
+|12
+|65
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|NGA}}
+|1
+|1
+|0
+|0
+|2
+|0
+|2
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|NIR}}
+|1
+|1
+|0
+|0
+|3
+|0
+|3
+|-bgcolor=#FFCCCC
+|align="left"|{{fb|NOR}}
+|2
+|0
+|1
+|1
+|0
+|1
+|–1
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|OMA}}
+|1
+|1
+|0
+|0
+|4
+|3
+|1
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|PAN}}
+|64
+|29
+|16
+|19
+|122
+|63
+|59
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|PAR}}
+|10
+|4
+|3
+|3
+|7
+|7
+|0
+|-bgcolor=#FFCCCC
+|align="left"|{{fb|PER}}
+|9
+|2
+|1
+|6
+|10
+|18
+|–8
+|-bgcolor=#FFCCCC
+|align="left"|{{fb|POL}}
+|3
+|0
+|0
+|3
+|3
+|8
+|–5
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|PUR}}
+|1
+|1
+|0
+|0
+|13
+|0
+|13
+|-bgcolor=#FFFFCC
+|align="left"|{{fb|QAT}}
+|1
+|0
+|1
+|0
+|1
+|1
+|0
+|-bgcolor=#FFFFCC
+|align="left"|{{fb|IRL}}
+|1
+|0
+|1
+|0
+|1
+|1
+|0
+|-bgcolor=#FFFFCC
+|align="left"|{{fb|RUS}}{{efn|include {{fb|URS}}}}
+|2
+|1
+|0
+|1
+|5
+|5
+|0
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|SKN}}
+|1
+|1
+|0
+|0
+|4
+|0
+|4
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|KSA}}
+|5
+|4
+|0
+|1
+|12
+|6
+|6
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|SCO}}
+|2
+|2
+|0
+|0
+|2
+|0
+|2
+|-bgcolor=#FFCCCC
+|align="left"|{{fb|SRB}}
+|1
+|0
+|0
+|1
+|0
+|1
+|–1
+|-bgcolor=#FFFFCC
+|align="left"|{{fb|SVK}}
+|3
+|1
+|1
+|1
+|6
+|5
+|1
+|-bgcolor=#FFCCCC
+|align="left"|{{fb|RSA}}
+|2
+|0
+|0
+|2
+|1
+|3
+|–2
+|-bgcolor=#FFCCCC
+|align="left"|{{fb|KOR}}
+|11
+|3
+|3
+|5
+|12
+|14
+|–2
+|-bgcolor=#FFCCCC
+|align="left"|{{fb|ESP}}
+|4
+|0
+|1
+|3
+|3
+|16
+|–13
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|VIN}}
+|3
+|3
+|0
+|0
+|13
+|1
+|12
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|SUR}}
+|8
+|7
+|1
+|0
+|24
+|8
+|16
+|-bgcolor=#FFFFCC
+|align="left"|{{fb|SWE}}
+|2
+|1
+|0
+|1
+|2
+|2
+|0
+|-bgcolor=#FFFFCC
+|align="left"|{{fb|SUI}}
+|3
+|1
+|1
+|1
+|3
+|4
+|–1
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|TRI}}
+|27
+|20
+|4
+|3
+|61
+|16
+|45
+|-bgcolor=#FFCCCC
+|align="left"|{{fb|TUN}}
+|1
+|0
+|0
+|1
+|0
+|1
+|–1
+|-bgcolor=#FFFFCC
+|align="left"|{{fb|TUR}}
+|1
+|0
+|1
+|0
+|1
+|1
+|0
+|-bgcolor=#FFCCCC
+|align="left"|{{fb|UKR}}
+|1
+|0
+|0
+|1
+|0
+|4
+|–4
+|-bgcolor=#FFCCCC
+|align="left"|{{fb|URU}}
+|15
+|3
+|4
+|8
+|19
+|26
+|–7
+|-bgcolor=#FFCCCC
+|align="left"|{{fb|UAE}}
+|1
+|0
+|0
+|1
+|1
+|4
+|–3
+|-bgcolor=#FFCCCC
+|align="left"|{{fb|USA}}
+|42
+|17
+|5
+|20
+|49
+|52
+|–3
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|UZB}}
+|1
+|1
+|0
+|0
+|2
+|1
+|1
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|VEN}}
+|16
+|7
+|5
+|4
+|28
+|24
+|4
+|-bgcolor=#FFFFCC
+|align="left"|{{fb|WAL}}
+|2
+|1
+|0
+|1
+|1
+|1
+|0
+|- 
+!Total (79)
+| '''757''' || '''214''' || '''142''' || '''239''' || '''1,308''' || '''871''' || '''+437'''
+|}
+
+<templatestyles src="Reflist/styles.css" /><div class="reflist reflist-lower-alpha"><references group="lower-alpha" /></div>
+
+==Honours==
+[[File:CRI ENG 24 06 2014 9660.JPG|thumb|300px|Costa Rica national football team players celebrating their classification at the [[FIFA World Cup 2014]] for the round of 16 in first place of Group D at [[Mineirão|Mineirão stadium]] in [[Belo Horizonte]] after their draw with [[England national football team|England]].]]
+
+===Continental===
+* '''[[CONCACAF Championship]] / [[CONCACAF Gold Cup|Gold Cup]]'''
+** [[File:CONCACAF - Gold Cup.svg|22px]] '''Champions (3)''': [[1963 CONCACAF Championship|1963]], [[1969 CONCACAF Championship|1969]], [[1989 CONCACAF Championship|1989]]
+** {{silver2}} Runners-up (1): [[2002 CONCACAF Gold Cup|2002]]
+** {{bronze3}} Third place (4): [[1965 CONCACAF Championship|1965]], [[1971 CONCACAF Championship|1971]], [[1985 CONCACAF Championship|1985]], [[1993 CONCACAF Gold Cup|1993]]
+* '''[[Panamerican Championship]]'''{{sup|1}}
+** {{bronze3}} Third place (1): [[1956 Panamerican Championship|1956]]
+
+===Subregional===
+* '''[[CCCF Championship]]'''{{sup|2}}
+** {{gold1}} '''Champions (7)''': [[1941 CCCF Championship|1941]], [[1946 CCCF Championship|1946]], [[1948 CCCF Championship|1948]], [[1953 CCCF Championship|1953]], [[1955 CCCF Championship|1955]], [[1960 CCCF Championship|1960]], [[1961 CCCF Championship|1961]]
+** {{silver2}} Runners-up (1): [[1951 CCCF Championship|1951]]
+** {{bronze3}} Third place (1): [[1943 CCCF Championship|1943]]
+* '''[[Copa Centroamericana|Copa de Naciones UNCAF / Copa Centroamericana]]'''
+** {{gold1}} '''Champions (8)''': [[1991 UNCAF Nations Cup|1991]], [[1997 UNCAF Nations Cup|1997]], [[1999 UNCAF Nations Cup|1999]], [[2003 UNCAF Nations Cup|2003]], [[2005 UNCAF Nations Cup|2005]], [[2007 UNCAF Nations Cup|2007]], [[2013 Copa Centroamericana|2013]], [[2014 Copa Centroamericana|2014]]
+** {{silver2}} Runners-up (4): [[1993 UNCAF Nations Cup|1993]], [[2001 UNCAF Nations Cup|2001]], [[2009 UNCAF Nations Cup|2009]], [[2011 Copa Centroamericana|2011]]
+* '''[[Football at the Central American and Caribbean Games|Central American and Caribbean Games]]'''
+** {{silver2}} Silver medal (3): [[Football at the 1930 Central American and Caribbean Games|1930]], [[Football at the 1935 Central American and Caribbean Games|1935]], [[Football at the 1938 Central American and Caribbean Games|1938]]
+
+===Friendly===
+* '''[[Independence Centenary Games]] (1)''': [[Independence Centenary Games|1921]]
+* '''Copa Centroamérica-Independencia (1)''': 2006
+
+===Summary===
+Only official honours are included, according to ''FIFA statutes'' (competitions organized/recognized by [[FIFA]] or an affiliated confederation).
+{| class="wikitable" width=30% style="font-size:90%; text-align:center;"
+!Competition!!{{gold1}}!!{{silver2}}!!{{bronze3}}!!Total
+|-
+|align=left|[[CONCACAF Championship]] / [[CONCACAF Gold Cup|Gold Cup]]
+|3||1||4||8
+|-
+|align=left|[[Panamerican Championship]]{{sup|1}}
+|0||0||1||1
+|-
+|align=left|[[CCCF Championship]]{{sup|2}}
+|7||1||1||9
+|-
+!Total!!10!!2!!6!!18
+|}
+
+;Notes
+# Official continental competition organized by [[Panamerican Championship#Panamerican Football Confederation|PFC]], the former unified confederation of the Americas, formed by NAFC, CCCF and CONMEBOL (1946–1961).
+# Official subregional competition organized by [[Confederación Centroamericana y del Caribe de Fútbol|CCCF]], direct predecessor confederation of CONCACAF and the former governing body of football in Central America and Caribbean (1938–1961).
+
+==FIFA World Ranking==
+{{See also|FIFA World Rankings}}
+
+''Last update was on 27 May 2021''
+Source:<ref>{{#invoke:cite|web|url=https://www.fifa.com/fifa-world-ranking/crc|title=Costa Rica in the FIFA World Ranking|access-date=26 July 2021|archive-date=24 November 2022|archive-url=https://web.archive.org/web/20221124033958/https://www.fifa.com/fifa-world-ranking/CRC|url-status=live}}</ref>
+
+{{Color box|blue|border=darkgray}} '''Best Ranking'''&nbsp;&nbsp;{{Color box|gold|border=darkgray}} '''Worst Ranking'''&nbsp;&nbsp;{{Color box|green|border=darkgray}} '''Best Mover'''&nbsp;&nbsp;{{Color box|red|border=darkgray}} '''Worst Mover'''&nbsp;&nbsp;
+
+{| class="wikitable sortable" style="text-align:center;"
+|-
+!colspan=9 style="background: #DA291C; color: #FFFFFF;|{{flagdeco|Costa Rica}} Costa Rica's [[FIFA World Rankings|{{color|#FFFFFF|FIFA World Ranking}}]] History
+|-
+!rowspan=2 style="background-color: #001489; color: #FFFFFF;|Rank
+!rowspan=2 style="background-color: #001489; color: #FFFFFF;|Year
+!colspan=2 style="background-color: #001489; color: #FFFFFF;|Best
+!colspan=2 style="background-color: #001489; color: #FFFFFF;|Worst
+|-
+!style="background-color: #001489; color: #FFFFFF;|Rank
+!style="background-color: #001489; color: #FFFFFF;|Move
+!style="background-color: #001489; color: #FFFFFF;|Rank
+!style="background-color: #001489; color: #FFFFFF;|Move
+|-
+| 50 || 2021 || — || — || — || —
+|-
+| 51 || 2020 || 46 || {{steady}} || 51 || {{decrease}} 4
+|-
+| 46 || 2019 || 37 || {{increase}} 1 || 47 || {{decrease}} 5
+|-
+| 36 || 2018 || 23 || {{increase}} 2 || 37 || {{decrease}} 9
+|-
+| 26 || 2017 || 17 || {{increase}} 5 || 26 || {{decrease}} 7
+|-
+| 17 || 2016 || 17 || {{increase}} 8 || 37 || {{decrease}} 4
+|-
+| 37 || 2015 || style="border: 3px solid blue"|13 || {{increase}} 3 || 42 || style="border: 3px solid red"| {{decrease}} 27
+|-
+| 16 || 2014 || 15 || {{increase}} 12 || 35 || {{decrease}} 3
+|-
+| 31 || 2013 || 31 || {{increase}} 16 || 66 || {{decrease}} 3
+|-
+| 66 || 2012 || 57 || {{increase}} 8 || 72 || {{decrease}} 6
+|-
+| 65 || 2011 || 48 || style="border: 3px solid green"|{{increase}} 21 || 69 || {{decrease}} 5
+|-
+| 69 || 2010 || 40 || {{increase}} 3 || 69 || {{decrease}} 13
+|-
+| 44 || 2009 || 30 || {{increase}} 11 || 47 || {{decrease}} 8
+|-
+| 53 || 2008 || 53 || {{increase}} 12 || 79 || {{decrease}} 4
+|-
+| 70 || 2007 || 46 || {{increase}} 12 || 70 || {{decrease}} 10
+|-
+| 68 || 2006 || 21 || {{steady}} || 68 || {{decrease}} 19
+|-
+| 21 || 2005 || 19 || {{increase}} 6 || 27 || {{decrease}} 3
+|-
+| 27 || 2004 || 17 || {{increase}} 5 || 33 || {{decrease}} 5
+|-
+| 17 || 2003 || 17 || {{increase}} 3 || 22 || {{decrease}} 2
+|-
+| 21 || 2002 || 21 || {{increase}} 5 || 30 || {{decrease}} 2
+|-
+| 30 || 2001 || 29 || {{increase}} 14 || 56 || {{decrease}} 2
+|-
+| 60 || 2000 || 54 || {{increase}} 8 || 69 || {{decrease}} 5
+|-
+| 64 || 1999 || 64 || {{increase}} 5 || 69 || {{decrease}} 2
+|-
+| 67 || 1998 || 46 || {{increase}} 7 || 67 || {{decrease}} 15
+|-
+| 51 || 1997 || 51 || {{increase}} 9 || 66 || {{decrease}} 2
+|-
+| 72 || 1996 || 72 || {{increase}} 12 || style="border: 3px solid gold"|93 || {{decrease}} 6
+|-
+| 78 || 1995 || 56 || {{increase}} 18 || 78 || {{decrease}} 13
+|-
+| 65 || 1994 || 39 || {{increase}} 3 || 65 || {{decrease}} 9
+|-
+| 42 || 1993 || 37 || {{increase}} 1 || 42 || {{decrease}} 5
+|}
+
+==See also==
+{{portal|Association football|Costa Rica}}
+* [[Costa Rica national under-23 football team]]
+* [[Costa Rica national under-20 football team]]
+* [[Costa Rica national under-17 football team]]
+* [[Costa Rica at the FIFA World Cup]]
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+{{commons category}}
+* {{official website}}
+*[https://www.fifa.com/about-fifa/associations/CRC Costa Rica FIFA profile]
+*[https://www.rsssf.org/tablesc/cos-intres.html 1921 to 2009 Costa Rica match results] by ''Marcos Romero'' at [[Rec.Sport.Soccer Statistics Foundation|RSSSF]]
+
+{{Costa Rica national football team}}
+{{CONCACAF Gold Cup winners}}
+{{#invoke:navboxes|top
+|title = [[FIFA World Cup]] appearances
+|state = collapsed}}
+{{1990 FIFA World Cup finalists}}
+{{2002 FIFA World Cup finalists}}
+{{2006 FIFA World Cup finalists}}
+{{2014 FIFA World Cup finalists}}
+{{2018 FIFA World Cup finalists}}
+{{2022 FIFA World Cup finalists}}
+{{#invoke:navboxes|bottom}}
+{{#invoke:navboxes|top
+|title = Costa Rica squads
+|state = collapsed}}
+{{#invoke:navboxes|top
+|title = FIFA World Cup
+|state = collapsed}}
+{{Costa Rica squad 1990 FIFA World Cup}}
+{{Costa Rica squad 2002 FIFA World Cup}}
+{{Costa Rica squad 2006 FIFA World Cup}}
+{{Costa Rica squad 2014 FIFA World Cup}}
+{{Costa Rica squad 2018 FIFA World Cup}}
+{{Costa Rica squad 2022 FIFA World Cup}}
+{{#invoke:navboxes|bottom}}
+{{#invoke:navboxes|top
+|title = CONCACAF Gold Cup
+|state = collapsed}}
+{{Costa Rica squad 1991 CONCACAF Gold Cup}}
+{{Costa Rica squad 1993 CONCACAF Gold Cup}}
+{{Costa Rica squad 1998 CONCACAF Gold Cup}}
+{{Costa Rica squad 2000 CONCACAF Gold Cup}}
+{{Costa Rica squad 2002 CONCACAF Gold Cup}}
+{{Costa Rica squad 2003 CONCACAF Gold Cup}}
+{{Costa Rica squad 2005 CONCACAF Gold Cup}}
+{{Costa Rica squad 2007 CONCACAF Gold Cup}}
+{{Costa Rica squad 2009 CONCACAF Gold Cup}}
+{{Costa Rica squad 2011 CONCACAF Gold Cup}}
+{{Costa Rica squad 2013 CONCACAF Gold Cup}}
+{{Costa Rica squad 2015 CONCACAF Gold Cup}}
+{{Costa Rica squad 2017 CONCACAF Gold Cup}}
+{{Costa Rica squad 2019 CONCACAF Gold Cup}}
+{{Costa Rica squad 2021 CONCACAF Gold Cup}}
+{{Costa Rica squad 2023 CONCACAF Gold Cup}}
+{{Costa Rica squad 2025 CONCACAF Gold Cup}}
+{{#invoke:navboxes|bottom}}
+{{#invoke:navboxes|top
+|title = Copa América
+|state = collapsed}}
+{{Costa Rica squad 1997 Copa América}}
+{{Costa Rica squad 2001 Copa América}}
+{{Costa Rica squad 2004 Copa América}}
+{{Costa Rica squad 2011 Copa América}}
+{{Costa Rica squad Copa América Centenario}}
+{{#invoke:navboxes|bottom}}
+{{#invoke:navboxes|bottom}}
+{{Football in Costa Rica}}
+{{CONCACAF teams}}
+{{National sports teams of Costa Rica}}
+
+{{DEFAULTSORT:Costa Rica National Football Team}}
+[[Category:Costa Rica national football team| ]]
+[[Category:Central American national association football teams]]
+[[Category:1921 establishments in Costa Rica]]
+[[Category:National sports teams established in 1921]]

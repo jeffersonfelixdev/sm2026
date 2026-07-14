@@ -1,0 +1,1959 @@
+{{Short description|Men's association football team}}
+{{About|the men's team|the women's team|Brazil women's national football team}}
+{{Use dmy dates|date=March 2026}}
+{{Infobox national football team
+| Name                     = Brazil
+| Badge                    = Confederação Brasileira de Futebol logo (2020).svg<!-- Do not change this logo as it is the logo used in the uniform. -->
+| Badge_size               = 190
+
+| FIFA Trigramme           = BRA
+| Nickname                 = {{ubl
+  | {{lang|pt|Canarinho}}{{efn|name=Canarinho|{{IPA|pt|kanaˈɾiɲu|small=no}}, {{lit|little [[Saffron finch|canary]]}}.}}
+  | {{lang|pt|Amarelinha}}{{efn|{{IPA|pt-BR|amaɾɛˈliɲɐ|small=no}}, {{lit|little yellow}}.}}
+  | {{lang|pt|Verde-Amarela}}{{efn|{{IPA|pt-BR|ˈveʁdʒi.amaˈɾɛlɐ|small=no}}, {{lit|green-yellow}}.}}
+  | {{lang|pt|A Maior do Mundo}}{{efn|{{IPA|pt-BR|ɐ majˈɔʁ du mũdu|small=no}}, {{lit|greatest in the world}}.}}
+  }}
+| Association              = [[Brazil Football Confederation|Confederação Brasila de Futebol]] (CBF)
+| Confederation            = [[CONMEBOL]] (South America)
+| Coach   Carlo Ancelotti]]
+| Captain                  = [[ Marquinhos]]
+| Most caps                = [[Cafu]] (142)<ref>[https://www.fifa.com/mm/document/fifafacts/stats-centclub/52/00/59/centuryclub290715_neutral.pdf "FIFA Century Club"] {{Webarchive|url=https://web.archive.org/web/20161018144458/http://wwwfifa.com/mm/document/fifafacts/stats-centclub/52/00/59/centuryclub290715_neutral.pdf |date=18 October 2016 }}. FIFA. Retrieved 9 June 2018.</ref><ref>{{cite web|url=https://www.rsssf.org/miscellaneous/cafu-intl.html |title=Marcos Evangelista de Morais "CAFU" – Century of International Appearances |date=23 July 2006 |access-date=23 January 2009 |url-status=live |publisher=[[RSSSF]] |archive-url=https://web.archive.org/web/20090221202802/http://rsssf.com/miscellaneous/cafu-intl.html |archive-date=21 February 2009 }}</ref>
+| Top scorer               = [[Neymar]] ([[List of international goals scored by Neymar|80]])
+| FIFA Rank                = {{FIFA World Rankings|BRA}}
+| FIFA max                 = 1{{efn|{{ubl
+  | September 1993 – November 1993
+  | April 1994 – June 1994
+  | July 1994 – May 2001
+  | July 2002 – February 2007
+  | July 2007 – September 2007
+  | July 2009 – November 2009
+  | April 2010 – July 2010
+  | April 2017 – July 2017
+  | August 2017 – September 2017
+  |  March 2022 – April 2023
+  }}}}
+| FIFA min                 = 22
+| FIFA min date            = 6 June 2013
+| Elo Rank                 = {{World Football Elo Ratings|Brazil}}
+| Elo max                  = 1
+| Elo max year             = 8,640 days on 40 occasions<ref>1958–63, 1965–66, 1970–74, 1978–79, 1981–83, 1986–87, 1990, 1992, 1994–00, 2002–10, 2016–2017, 2018–present</ref>
+| Elo min                  = 20
+| Elo min date             = 7 November 2001
+| Home Stadium             = [[List of football stadiums in Brazil|Various]]
+| pattern_la1              = _bra26h
+| pattern_b1               = _bra26h
+| pattern_ra1              = _bra26h
+| pattern_sh1              = _bra26h
+| pattern_so1              = _bra26hl
+| leftarm1                 = FFE540
+| body1                    = FFE540
+| rightarm1                = FFE540
+| shorts1                  = 4080FF
+| socks1                   = FFFFFF
+| pattern_la2              = _bra26a
+| pattern_b2               = _bra26a
+| pattern_ra2              = _bra26a
+| pattern_sh2              = _bra26a1
+| pattern_so2              =
+| leftarm2                 = 2A4A9F
+| body2                    = 2A4A9F
+| rightarm2                = 2A4A9F
+| shorts2                  = 2A4A9F
+| socks2                   = 0F0F0F
+| pattern_la3              =
+| pattern_b3               =
+| pattern_ra3              =
+| pattern_sh3              =
+| pattern_so3              =
+| leftarm3                 =
+| body3                    =
+| rightarm3                =
+| shorts3                  =
+| socks3                   =
+| First game               = {{fb|ARG|1861}} 3–0 {{fb-rt|BRA|1889}}<br />([[Buenos Aires]], [[Argentina]]; 20 September 1914)<ref>{{Cite web|title=Argentina v Brazil, 20 September 1914|url=https://www.11v11.com/matches/argentina-v-brazil-20-september-1914-222984/|access-date=3 July 2021|website=11v11.com|archive-date=26 November 2016|archive-url=https://web.archive.org/web/20161126150739/http://www.11v11.com/matches/argentina-v-brazil-20-september-1914-222984/|url-status=live}}</ref><ref>{{Cite web|date=31 May 2021|title=Brazil & Argentina: A rivalry like no other – FIFA Museum (English)|url=https://www.fifamuseum.com/en/stories/blog/brazil-argentina-a-rivalry-like-no-other-2616769/|access-date=3 July 2021|website=fifamuseum.com|archive-date=3 March 2021|archive-url=https://web.archive.org/web/20210303082831/https://www.fifamuseum.com/en/stories/blog/brazil-argentina-a-rivalry-like-no-other-2616769/|url-status=live}}</ref>
+| Largest win              = {{fb|BRA|1889}} 10–1 {{fb-rt|BOL}}<br />([[São Paulo]], [[Brazil]]; 10 April 1949)<ref>{{cite web|url=http://www.eloratings.net/Brazil.htm|title=Brazil matches, ratings and points exchanged|publisher=Eloratings.net|access-date=3 August 2014|archive-date=24 April 2018|archive-url=https://web.archive.org/web/20180424220152/http://www.eloratings.net/Brazil.htm|url-status=live}}</ref><br />{{fb|BRA|1889}} 9–0 {{fb-rt|COL}}<br />([[Lima]], [[Peru]]; 24 March 1957)
+| Largest loss             = {{fb|URU}} 6−0 {{fb-rt|BRA|1889}}<br />([[Viña del Mar]], [[Chile]]; 18 September 1920)<br />{{fb|BRA}} [[Brazil v Germany (2014 FIFA World Cup)|1−7]] {{fb-rt|GER}}<br />([[Belo Horizonte]], Brazil; 8 July 2014)<ref>{{cite news|url=https://www.bbc.com/sport/football/28102403|title=Brazil 1 - 7 Germany|work=BBC Sport|access-date=20 December 2022|archive-date=19 January 2016|archive-url=https://web.archive.org/web/20160119103654/http://www.bbc.com/sport/0/football/28102403|url-status=live}}</ref>
+| World cup apps           = 23
+| World cup first          = 1930
+| World cup best           = '''Champions''' ([[1958 FIFA World Cup|1958]], [[1962 FIFA World Cup|1962]], [[1970 FIFA World Cup|1970]], [[1994 FIFA World Cup|1994]], [[2002 FIFA World Cup|2002]])
+| Confederations cup apps  = 7
+| Confederations cup first = [[1997 FIFA Confederations Cup|1997]]
+| Confederations cup best  = '''Champions''' ([[1997 FIFA Confederations Cup|1997]], [[2005 FIFA Confederations Cup|2005]], [[2009 FIFA Confederations Cup|2009]], [[2013 FIFA Confederations Cup|2013]])
+| Regional name            = [[Copa América]]
+| Regional cup apps        = 38
+| Regional cup first       = [[1916 South American Championship|1916]]
+| Regional cup best        = '''Champions''' ([[1919 South American Championship|1919]], [[1922 South American Championship|1922]], [[1949 South American Championship|1949]], [[1989 Copa América|1989]], [[1997 Copa América|1997]], [[1999 Copa América|1999]], [[2004 Copa América|2004]], [[2007 Copa América|2007]], [[2019 Copa América|2019]])
+| 2ndRegional name         = [[Panamerican Championship]]
+| 2ndRegional cup apps     = 3
+| 2ndRegional cup first    = [[1952 Panamerican Championship|1952]]
+| 2ndRegional cup best     = '''Champions''' ([[1952 Panamerican Championship|1952]], [[1956 Panamerican Championship|1956]])
+| 3rdRegional name         = [[CONCACAF Gold Cup]]
+| 3rdRegional cup apps     = 3
+| 3rdRegional cup first    = [[1996 CONCACAF Gold Cup|1996]]
+| 3rdRegional cup best     = Runners-up ([[1996 CONCACAF Gold Cup|1996]], [[2003 CONCACAF Gold Cup|2003]])
+| medaltemplates           =
+{{Medal|Competition|[[FIFA World Cup]]}}
+{{Medal|Gold|[[1958 FIFA World Cup|1958 Sweden]]|[[1958 FIFA World Cup squads|Team]]}}
+{{Medal|Gold|[[1962 FIFA World Cup|1962 Chile]]|[[1962 FIFA World Cup squads|Team]]}}
+{{Medal|Gold|[[1970 FIFA World Cup|1970 Mexico]]|[[1970 FIFA World Cup squads|Team]]}}
+{{Medal|Gold|[[1994 FIFA World Cup|1994 United States]]|[[1994 FIFA World Cup squads|Team]]}}
+{{Medal|Gold|[[2002 FIFA World Cup|2002 Korea and Japan]]|[[2002 FIFA World Cup squads|Team]]}}
+{{Medal|Silver|[[1950 FIFA World Cup|1950 Brazil]]|[[1950 FIFA World Cup squads|Team]]}}
+{{Medal|Silver|[[1998 FIFA World Cup|1998 France]]|[[1998 FIFA World Cup squads|Team]]}}
+{{Medal|Bronze|[[1938 FIFA World Cup|1938 France]]|[[1938 FIFA World Cup squads|Team]]}}
+{{Medal|Bronze|[[1978 FIFA World Cup|1978 Argentina]]|[[1978 FIFA World Cup squads|Team]]}}
+{{MedalCompetition|[[FIFA Confederations Cup]]}}
+{{MedalGold|[[1997 FIFA Confederations Cup|1997 Saudi Arabia]]|[[1997 FIFA Confederations Cup squads|Team]]}}
+{{MedalGold|[[2005 FIFA Confederations Cup|2005 Germany]]|[[2005 FIFA Confederations Cup squads|Team]]}}
+{{MedalGold|[[2009 FIFA Confederations Cup|2009 South Africa]]|[[2009 FIFA Confederations Cup squads|Team]]}}
+{{MedalGold|[[2013 FIFA Confederations Cup|2013 Brazil]]|[[2013 FIFA Confederations Cup squads|Team]]}}
+{{MedalSilver|[[1999 FIFA Confederations Cup|1999 Mexico]]|[[1999 FIFA Confederations Cup squads|Team]]}}
+{{Medal|Competition|[[Copa América]]}}
+{{Medal|Gold|[[1919 South American Championship|1919 Brazil]]|[[1919 South American Championship squads|Team]]}}
+{{Medal|Gold|[[1922 South American Championship|1922 Brazil]]|[[1922 South American Championship squads|Team]]}}
+{{Medal|Gold|[[1949 South American Championship|1949 Brazil]]|[[1949 South American Championship squads|Team]]}}
+{{Medal|Gold|[[1989 Copa América|1989 Brazil]]|[[1989 Copa América squads|Team]]}}
+{{Medal|Gold|[[1997 Copa América|1997 Bolivia]]|[[1997 Copa América squads|Team]]}}
+{{Medal|Gold|[[1999 Copa América|1999 Paraguay]]|[[1999 Copa América squads|Team]]}}
+{{Medal|Gold|[[2004 Copa América|2004 Peru]]|[[2004 Copa América squads|Team]]}}
+{{Medal|Gold|[[2007 Copa América|2007 Venezuela]]|[[2007 Copa América squads|Team]]}}
+{{Medal|Gold|[[2019 Copa América|2019 Brazil]]|[[2019 Copa América squads|Team]]}}
+{{Medal|Silver|[[1921 South American Championship|1921 Argentina]]|[[1921 South American Championship squads|Team]]}}
+{{Medal|Silver|[[1925 South American Championship|1925 Argentina]]|[[1925 South American Championship squads|Team]]}}
+{{Medal|Silver|[[1937 South American Championship|1937 Argentina]]|[[1937 South American Championship squads|Team]]}}
+{{Medal|Silver|[[1945 South American Championship|1945 Chile]]|[[1945 South American Championship squads|Team]]}}
+{{Medal|Silver|[[1946 South American Championship|1946 Argentina]]|[[1946 South American Championship squads|Team]]}}
+{{Medal|Silver|[[1953 South American Championship|1953 Peru]]|[[1953 South American Championship squads|Team]]}}
+{{Medal|Silver|[[1957 South American Championship|1957 Peru]]|[[1957 South American Championship squads|Team]]}}
+{{Medal|Silver|[[1959 South American Championship (Argentina)|1959 Argentina]]|[[1959 South American Championship (Argentina) squads|Team]]}}
+{{Medal|Silver|[[1983 Copa América|1983 South America]]|[[1983 Copa América squads|Team]]}}
+{{Medal|Silver|[[1991 Copa América|1991 Chile]]|[[1991 Copa América squads|Team]]}}
+{{Medal|Silver|[[1995 Copa América|1995 Uruguay]]|[[1995 Copa América squads|Team]]}}
+{{Medal|Silver|[[2021 Copa América|2021 Brazil]]|[[2021 Copa América squads|Team]]}}
+{{Medal|Bronze|[[1916 South American Championship|1916 Argentina]]|[[1916 South American Championship squads|Team]]}}
+{{Medal|Bronze|[[1917 South American Championship|1917 Uruguay]]|[[1917 South American Championship squads|Team]]}}
+{{Medal|Bronze|[[1920 South American Championship|1920 Chile]]|[[1920 South American Championship squads|Team]]}}
+{{Medal|Bronze|[[1942 South American Championship|1942 Uruguay]]|[[1942 South American Championship squads|Team]]}}
+{{Medal|Bronze|[[1959 South American Championship (Ecuador)|1959 Ecuador]]|[[1959 South American Championship (Ecuador) squads|Team]]}}
+{{Medal|Bronze|[[1975 Copa América|1975 South America]]|[[1975 Copa América squads|Team]]}}
+{{Medal|Bronze|[[1979 Copa América|1979 South America]]|[[1979 Copa América squads|Team]]}}
+{{Medal|Competition|[[Panamerican Championship]]}}
+{{Medal|Gold|[[1952 Panamerican Championship|1952 Chile]]|Team}}
+{{Medal|Gold|[[1956 Panamerican Championship|1956 Mexico]]|Team}}
+{{Medal|Silver|[[1960 Panamerican Championship|1960 Costa Rica]]|Team}}
+{{Medal|Competition|[[CONCACAF Gold Cup]]}}
+{{Medal|Silver|[[1996 CONCACAF Gold Cup|1996 United States]]|[[1996 CONCACAF Gold Cup squads|Team]]}}
+{{Medal|Silver|[[2003 CONCACAF Gold Cup|2003 United States and Mexico]]|[[2003 CONCACAF Gold Cup squads|Team]]}}
+{{Medal|Bronze|[[1998 CONCACAF Gold Cup|1998 United States]]|[[1998 CONCACAF Gold Cup squads|Team]]}}
+{{Medal|Competition|[[Football at the Summer Olympics|Olympic Games]]}}
+{{Medal|Silver|[[Football at the 1984 Summer Olympics|1984 Los Angeles]]|[[Football at the 1984 Summer Olympics – Men's team squads|Team]]}}
+{{Medal|Silver|[[Football at the 1988 Summer Olympics|1988 Seoul]]|[[Football at the 1988 Summer Olympics – Men's team squads|Team]]}}
+| website = {{URL|https://www.cbf.com.br/selecao-brasileira|cbf.com.br/selecao-brasileira}}
+}}
+
+The '''Brazil men's national football team''' ({{langx|pt|Seleção Brasileira de Futebol}}),{{efn|{{IPA|pt-BR|seleˈsɐ̃w bɾaziˈlejɾɐ dʒi futʃiˈbɔw|small=no}}.}} nicknamed '''''Canarinho''''',{{efn|name=Canarinho}} represents [[Brazil]] in men's international [[Association football|football]] and is administered by the [[Brazilian Football Confederation]], the governing body of [[football in Brazil]]. It has been a member of [[FIFA]] since 1923 and was a founding member of [[CONMEBOL]] in 1916. It was also a member of [[Panamerican Championship#Panamerican Football Confederation|PFC]], the unified confederation of the Americas, from 1946 to 1961.
+
+Brazil is the most successful national team in the [[FIFA World Cup]], winning the tournament five times: [[1958 FIFA World Cup|1958]], [[1962 FIFA World Cup|1962]], [[1970 FIFA World Cup|1970]], [[1994 FIFA World Cup|1994]] and [[2002 FIFA World Cup|2002]]. The ''Seleção'' also has the best overall performance in the World Cup competition with a record of 79 victories in 119 matches played and 135 [[goal difference]].<ref>{{cite web |url=http://www.thesoccerworldcups.com/statistics/all_time_standings.php |title=Soccer World Cup All-Time Standings |publisher=Thesoccerworldcups.com |access-date=3 August 2014 |archive-date=22 January 2021 |archive-url=https://web.archive.org/web/20210122180813/https://www.thesoccerworldcups.com/statistics/all_time_standings.php |url-status=live }}</ref><ref>[[All-time table of the FIFA World Cup]]</ref> It is the only national team to have played in all [[National team appearances in the FIFA World Cup#Comprehensive team results by tournament|World Cup editions]] without any absence nor need for playoffs,<ref>[[Brazil at the FIFA World Cup]]</ref> and the only team to have won the World Cup in four different continents. Brazil was the most successful team in the now-defunct [[FIFA Confederations Cup]], with victories in [[1997 FIFA Confederations Cup|1997]], [[2005 FIFA Confederations Cup|2005]], [[2009 FIFA Confederations Cup|2009]], and [[2013 FIFA Confederations Cup|2013]].
+
+In FIFA's ranking system, Brazil holds the record for most [[FIFA World Rankings#Performances by countries|Team of the Year]] first ranking wins with 13.<ref name="FIFA Team of the Year">{{cite web |last1=Wood |first1=Robert |title=FIFA Ranking Awards: Team of the Year & Mover of the Year |url=https://www.topendsports.com/sport/soccer/awards/team-and-mover-of-the-year.htm |website=Topend Sports Website |publisher=Topend |access-date=30 June 2026}}</ref> Many commentators, football experts, and former players consider the Brazil team of 1970 to be the greatest national squad of all time.{{efn|Attributed to multiple references:<ref name="Greatest1970-Beckenbauer">{{cite web|url=http://www.gazetadopovo.com.br/esportes/poliesportiva/conteudo.phtml?id=1352351&tit=Beckenbauer-diz-que-Brasil-de-1970-foi-melhor-selecao-de-todos-os-tempos|title=Beckenbauer says Brazil 1970 was the best national team of all time|work=Beckenbauer diz que Brasil de 1970 foi melhor seleção de todos os tempos (Portuguese)|publisher=Gazeta do Povo|access-date=1 July 2013|archive-url=https://web.archive.org/web/20141113045708/http://www.gazetadopovo.com.br/esportes/poliesportiva/conteudo.phtml?id=1352351&tit=Beckenbauer-diz-que-Brasil-de-1970-foi-melhor-selecao-de-todos-os-tempos|archive-date=13 November 2014|url-status=dead}}</ref><ref name=Greatest1970vSpain>{{cite news|url=https://www.independent.co.uk/sport/football/news-and-comment/the-greatest-team-of-all-time-brazil-1970-v-spain-2012-7905980.html?|title=The greatest team of all time: Brazil 1970 v Spain 2012|work=The Independent|access-date=1 July 2013|location=London|first=Jack|last=Pitt-Brooke|date=3 July 2012|archive-date=10 July 2013|archive-url=https://web.archive.org/web/20130710092417/http://www.independent.co.uk/sport/football/news-and-comment/the-greatest-team-of-all-time-brazil-1970-v-spain-2012-7905980.html|url-status=live}}</ref><ref name=BleacherReport>{{cite web|title=10 Greatest National Teams in World Football History|url=https://bleacherreport.com/articles/1844324-10-greatest-national-teams-in-world-football-history|website=Bleacher Report|access-date=2 January 2018|archive-date=8 December 2020|archive-url=https://web.archive.org/web/20201208195609/https://bleacherreport.com/articles/1844324-10-greatest-national-teams-in-world-football-history|url-status=live}}</ref><ref name=betsson>{{cite web|title=The Best Ever International Teams: Part Two|url=https://content.betsson.com/en/football/football-international/the-best-ever-international-teams-5-1/|publisher=betsson.com|access-date=2 January 2018|first=Greg|last=Lea|archive-date=12 June 2018|archive-url=https://web.archive.org/web/20180612211310/https://content.betsson.com/en/football/football-international/the-best-ever-international-teams-5-1/|url-status=dead}}</ref><ref name="The Football Pantheon">{{cite web|title=The 30 greatest international teams of all time|date=16 June 2011|url=http://footballpantheon.com/2011/06/the-30-greatest-international-teams-of-all-time/11/|publisher=The Football Pantheon|access-date=14 July 2014|archive-date=21 April 2021|archive-url=https://web.archive.org/web/20210421090931/http://footballpantheon.com/2011/06/the-30-greatest-international-teams-of-all-time/11/|url-status=live}}</ref><ref>{{cite web |url=https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/brasil-de-1970-e-eleito-o-melhor-time-de-futebol-da-historia-veja-ranking/ |title=Brasil de 1970 é eleito o melhor time de futebol da história; veja ranking |trans-title=1970 Brazil is chosen as the greatest football team in history; see the ranking |author=Denise Bonfim |website=CNN Brasil |publisher=CNN Brasil |date=2026-03-06 |access-date=2026-03-14 |language=pt-BR}}</ref>}} Other Brazilian squads are also highly esteemed and regularly appear listed among the best teams of all time, such as the teams of 1958–62 and of 1994–02 period.{{efn|Attributed to multiple references:<ref name="Greatest1958-Zico">{{cite news|url=https://edition.cnn.com/2012/07/05/sport/football/zico-pele-garrincha-football|title=Soccer great Zico: Brazil '58 best team ever|work=Zico|publisher=CNN|access-date=1 July 2013|date=5 July 2012|archive-date=15 October 2013|archive-url=https://web.archive.org/web/20131015043846/http://edition.cnn.com/2012/07/05/sport/football/zico-pele-garrincha-football|url-status=live}}</ref><ref name="Mirror.co.uk">{{cite web|title=Phenomenal goals, silky skills and tight blue shorts – Why Brazil 1982 was the best World Cup team ever|date=10 June 2014|url=https://www.mirror.co.uk/sport/football/world-cup-2014/phenomenal-goals-silky-skills-tight-3665257|publisher=Mirror.co.uk|access-date=14 July 2014|archive-date=3 July 2021|archive-url=https://web.archive.org/web/20210703201016/https://www.mirror.co.uk/sport/football/world-cup-2014/phenomenal-goals-silky-skills-tight-3665257|url-status=live}}</ref><ref name="LA Times">{{cite news|title=World Cup: The 10 best teams of all times|url=http://www.latimes.com/sports/soccer/la-sp-world-cup-best-teams-ever-20140511-story.html|newspaper=Los Angeles Times|access-date=2 January 2018|archive-date=29 July 2020|archive-url=https://web.archive.org/web/20200729152038/https://www.latimes.com/sports/soccer/la-sp-world-cup-best-teams-ever-20140511-story.html|url-status=live}}</ref><ref name="BBC">{{cite news|title=Euro 2016: Which is the greatest team in history of international football?|work=BBC Sport|url=https://www.bbc.com/sport/football/36387046|access-date=2 January 2018|archive-date=22 June 2018|archive-url=https://web.archive.org/web/20180622020136/https://www.bbc.com/sport/football/36387046|url-status=live}}</ref>}} In 1996, Brazil went undefeated for 35 consecutive matches, a world record which held for 25 years.<ref>{{cite news|url=https://edition.cnn.com/2009/SPORT/football/06/20/confedcup.spain.southafrica/|title=Spain win again to extend unbeaten streak|publisher=CNN|access-date=8 August 2014|date=20 June 2009|archive-date=9 October 2014|archive-url=https://web.archive.org/web/20141009235011/http://edition.cnn.com/2009/SPORT/football/06/20/confedcup.spain.southafrica/|url-status=live}}</ref>
+
+Brazil has developed many rivalries through the years, the most notable being with [[Argentina–Brazil football rivalry|Argentina]], [[Brazil–Italy football rivalry|Italy]] and [[Brazil–Uruguay football rivalry|Uruguay]].{{efn|Attributed to multiple references:<ref>{{cite web|url=http://www.abc.es/deportes/futbol/20130321/abci-previa-brasil-italia-201303201706.html|title=Brasil-Italia, el clásico del fútbol mundial que consagró el viejo Sarriá|author=víctor pérez|work=ABC.es|date=21 March 2013 |access-date=9 July 2018|archive-date=22 June 2018|archive-url=https://web.archive.org/web/20180622220352/http://www.abc.es/deportes/futbol/20130321/abci-previa-brasil-italia-201303201706.html|url-status=live}}</ref><ref>{{cite news|url=https://www.cbc.ca/sports/soccer/the-world-derby-brazil-vs-italy-1.830017|title=World Derby: Brazil vs Italy|author=Molinaro, John|work=CBC Sports|access-date=16 October 2018|date=20 June 2009|archive-date=28 October 2020|archive-url=https://web.archive.org/web/20201028034240/https://www.cbc.ca/sports/soccer/the-world-derby-brazil-vs-italy-1.830017|url-status=live}}</ref><ref>{{cite web|url=https://www.fifa.com/u20worldcup/news/brazil-uruguay-a-rivalry-with-history-2640361|title=FIFA U-20 World Cup 2015 – News – Brazil & Uruguay, a rivalry with history – FIFA.com|website=www.fifa.com|access-date=6 June 2019|archive-date=28 September 2020|archive-url=https://web.archive.org/web/20200928123052/https://www.fifa.com/u20worldcup/news/brazil-uruguay-a-rivalry-with-history-2640361|url-status=dead}}</ref>}} Brazil has the highest average [[World Football Elo Ratings|Elo football rating]] over time, and the fourth-highest peak Elo rating of all time.<ref>{{cite web |url=http://www.eloratings.net/|title=World Football Elo Ratings |publisher=eloratings.net |access-date=1 July 2024 }}</ref>
+
+==History==
+{{Main|History of the Brazil national football team}}
+
+===1914–1929: Early history===
+Historical records indicate that Brazil's first-ever game was a 1914 match between a [[Rio de Janeiro]] and [[São Paulo]] select team and the English club [[Exeter City F.C.|Exeter City]], held in the stadium of [[Fluminense FC]].{{efn|Attributed to multiple references:<ref>{{cite web |url=https://apostasnobrasil.org/a-jornada-dos-triunfos-do-brasil-na-copa-do-mundo-da-fifa-de-1958-ate-hoje/|archive-url=https://web.archive.org/web/20230801140736/https://apostasnobrasil.org/a-jornada-dos-triunfos-do-brasil-na-copa-do-mundo-da-fifa-de-1958-ate-hoje/|url-status=usurped|archive-date=1 August 2023|title=A Jornada dos Triunfos do Brasil na Copa do Mundo da FIFA: De 1958 até hoje |date=24 May 2023 }}</ref><ref name="times-magicofbrazil" /><ref name="guardian-howgrecians" />}} Brazil won 2–0 with goals by [[Oswaldo Gomes]] and [[Osman Medeiros]],{{efn|Attributed to multiple references:<ref name="times-magicofbrazil">{{cite news|url=http://www.timesonline.co.uk/tol/sport/football/article436860.ece|title=Magic of Brazil comes to a corner of Devon|work=[[The Times]]|date=15 May 2009|location=London|first=Tom|last=Dart|access-date=20 May 2009|archive-date=14 February 2021|archive-url=https://web.archive.org/web/20210214203439/https://www.thetimes.co.uk/|url-status=dead}}</ref><ref name="guardian-howgrecians">{{cite news|url=https://www.theguardian.com/football/2004/may/31/sport.comment1|title=Grecians paved way despite kick in teeth|work=[[The Guardian]]|date=31 May 2004|access-date=15 May 2009|location=London os|first=Alex|last=Bellos|archive-date=2 February 2017|archive-url=https://web.archive.org/web/20170202123138/https://www.theguardian.com/football/2004/may/31/sport.comment1|url-status=live}}</ref><ref>{{cite book |last=Bellos |first=Alex |title=Futebol: the Brazilian way of life |url=https://archive.org/details/futebolbrazilian0000bell |url-access=registration |page=[https://archive.org/details/futebolbrazilian0000bell/page/37 37] |publisher=Bloomsbury |location=London |year=2002 |isbn=0-7475-6179-6}}</ref>}} though it has also been claimed that the match was a 3–3 draw.<ref name="telegraph-exetfilha da lula am">{{cite news|url=https://www.telegraph.co.uk/sport/2377529/Exeter-fix-dream-date-against-Brazil.html|title=Exeter fix dream date against Brazil|newspaper=The Daily Telegraph|date=23 April 2004|access-date=20 May 2009|location=London|archive-date=3 July 2021|archive-url=https://web.archive.org/web/20210703201021/https://www.telegraph.co.uk/sport/2377529/Exeter-fix-dream-date-against-Brazil.html|url-status=live}}</ref><ref name="indy-brazilpastmasters">{{cite news|url=https://www.independent.co.uk/sport/football/news-and-comment/brazils-past-masters-outsamba-exeter-in-90year-rematch-565306.html|title=Brazil's past masters out-samba Exeter in 90-year rematch|work=[[The Independent]]|date=31 May 2004|access-date=20 May 2009|location=London|first=Danielle|last=Demetriou|archive-date=13 June 2010|archive-url=https://web.archive.org/web/20100613023818/https://www.independent.co.uk/sport/football/news-and-comment/brazils-past-masters-outsamba-exeter-in-90year-rematch-565306.html|url-status=live}}</ref> In 1916, Brazil played its first matches against [[Chile national football team|Chile]] and [[Uruguay national football team|Uruguay]].<ref name="early">{{cite web|url=https://www.rsssfbrasil.com/sel/brazil191422.htm|title=Seleção Brasileira 1914–1922|website=www.rsssfbrasil.com|access-date=4 March 2021|archive-date=7 June 2020|archive-url=https://web.archive.org/web/20200607144047/https://www.rsssfbrasil.com/sel/brazil191422.htm|url-status=live}}</ref>
+
+Brazil achieved third place at the first two editions of the South American Championship—which would later become the [[Copa América]]—in [[1916 South American Championship|1916]] and [[1917 South American Championship|1917]]. Led by the goalscoring abilities of [[Arthur Friedenreich]], they were champions in the [[1919 South American Championship|1919]] edition, which was held in their own country. Brazil finished third in [[1920 South American Championship|1920]] and second in 1921. They won the [[1922 South American Championship|1922]] championship, again on home soil, and achieved second place in [[1925 South American Championship|1925]].{{Citation needed|date=May 2026}}
+
+===1930–1949: First World Cup appearance and title drought===
+In 1930, Brazil played in [[1930 FIFA World Cup|the first FIFA World Cup]], held in [[Uruguay]]. After losing to [[Yugoslavia national football team|Yugoslavia]] and defeating [[Bolivia national football team|Bolivia]] in the group stage, they were eliminated from the competition.<ref>Glanville, Brian (2005). The Story of the World Cup. London: Faber and Faber. p. 19</ref> Four years later, Brazil lost in the first round to [[Spain national football team|Spain]] in the all-knockout [[1934 FIFA World Cup|1934 World Cup]] in Italy.{{Citation needed|date=May 2026}}
+
+After finishing second at the [[1937 South American Championship]], Brazil reached the semi-finals at the [[1938 FIFA World Cup]] in France. They were eliminated by eventual champions [[Italy national football team|Italy]], but managed to achieve third place after defeating [[Sweden men's national football team|Sweden]]. Brazil was the only [[South America]]n team to participate in the tournament; other teams held a boycott to protest the tournament being held in Europe twice in a row. During [[World War II]], Brazil finished third in the [[1942 South American Championship]] and second in the [[1945 South American Championship|1945]] edition. After the war, Brazil achieved second place at the [[1946 South American Championship|1946]] edition, and won their third title at the [[1949 South American Championship|1949]] edition, held in Brazil. The victory ended the team's 27-year drought without a South American title.<ref name="Guy">Oliver, Guy (1992). The Guinness Record of World Soccer. Guinness Publishing. p. 560.</ref>{{Additional citation needed|date=May 2026}}
+
+===1950: World Cup and the ''Maracanazo''===
+[[File:Seleção Brasileira na Copa do Mundo de 1950.tif|left|thumb|The Brazil national team at the 1950 World Cup]]
+After World War II caused widespread destruction in Europe, Brazil's bid to host the [[1950 FIFA World Cup]] went unopposed. During the tournament's group stage, Brazil defeated [[Mexico national football team|Mexico]] 4–0 at the [[Maracanã Stadium|Maracanã]] in [[Rio de Janeiro]] (then the Brazilian capital), tied with [[Switzerland national football team|Switzerland]] 2–2 at the [[Pacaembu Stadium|Pacaembu]] in [[São Paulo]], and returned to the Maracanã to defeat [[Yugoslavia national football team|Yugoslavia]] 2–0.
+
+Unlike World Cup tournaments before and after, this edition had a final group stage to decide the champion. At this stage, Brazil defeated [[Sweden men's national football team|Sweden]] 7-1 and [[Spain national football team|Spain]] 6–1. In the last game of the final round against [[Uruguay national football team|Uruguay]] at the Maracanã, Brazil needed a win or draw to achieve a World Cup victory. Uruguay defeated Brazil 2–1, winning the World Cup in a game known as the [[Uruguay v Brazil (1950 FIFA World Cup)|Maracanazo]]. The defeat led to a period of national mourning in Brazil, and marked the end of the Brazil team wearing white as their default uniform.<ref>{{cite news|url=https://www.washingtonpost.com/sports/dcunited/ghosts-of-uruguays-1950-world-cup-upset-still-haunt-some-in-brazil/2014/06/18/01cf598a-f728-11e3-9e63-ec28e320b8bf_story.html|title=Ghosts of Uruguay's 1950 World Cup upset still haunt some in Brazil|access-date=11 July 2014|newspaper=The Washington Post|archive-date=17 September 2018|archive-url=https://web.archive.org/web/20180917143349/https://www.washingtonpost.com/sports/dcunited/ghosts-of-uruguays-1950-world-cup-upset-still-haunt-some-in-brazil/2014/06/18/01cf598a-f728-11e3-9e63-ec28e320b8bf_story.html|url-status=live}}</ref>
+
+===1951–1957: Modern uniform and the "Battle of Berne"===
+After the disappointment of the Maracanazo, Brazil finished second at the [[1953 South American Championship]] in Peru. At the [[1954 FIFA World Cup|1954 World Cup]] in [[Switzerland]], Brazil debuted a new uniform designed by [[Aldyr Schlee]]. It featured yellow shirts with green details, blue shorts, and white socks, and is still used today.<ref>{{Cite web |date=2018-11-15 |title=Morre Aldyr Schlee, escritor e criador da camisa amarela da seleção brasileira |url=https://ge.globo.com/rs/noticia/morre-aldyr-schlee-escritor-e-criador-da-camisa-da-selecao-brasileira.ghtml |access-date=2025-10-04 |website=ge |language=pt-br}}</ref> In Brazil's two group stage matches, they defeated [[Mexico national football team|Mexico]] 5-0 and tied with [[Yugoslavia national football team|Yugoslavia]] 1–1. In the quarter-finals, Brazil lost 4–2 to [[Hungary national football team|Hungary]] in one of the ugliest matches in football history,{{Citation needed|date=May 2026}} known as the "[[Battle of Berne (1954 FIFA World Cup)|Battle of Berne]]".<ref name="usatodayworldcups">{{cite news| url = https://www.usatoday.com/sports/soccer/worldcup/history-50-70.htm| title = World Cup and U.S. soccer history: 1950–1970| work = [[USA Today]]| access-date = 12 February 2009| date = 9 May 2006| archive-date = 29 April 2011| archive-url = https://web.archive.org/web/20110429192044/http://www.usatoday.com/sports/soccer/worldcup/history-50-70.htm| url-status = dead}}</ref> Brazil did not play in the [[1955 South American Championship]], but finished fourth at both the [[1956 South American Championship|1956]] and [[1957 South American Championship|1957]] editions.
+
+===1958–1970: Pelé and the First Golden Era===
+[[File:Bra par1959ca.jpg|thumb|The Brazil national team at the [[1959 South American Championship (Argentina)|1959 Copa América]]]]
+During the [[1958 FIFA World Cup|1958 World Cup]] in [[Sweden]], Brazil defeated [[Austria national football team|Austria]] 3–0 in their first group match, then tied [[England national football team|England]] 0–0. Before their third group match against the [[Soviet Union national football team|Soviet Union]], coach [[Vicente Feola]] added [[Zito (footballer, born 1932)|Zito]], [[Garrincha]], and [[Pelé]] to the starting line-up. From the [[Kick-off (association football)|kick-off]], Brazil applied relentless pressure; in his biography of Garrincha, [[Ruy Castro]] described the first three minutes of the match as "the greatest three minutes in the history of football".{{Sfn|Castro|2005|p=122}} [[Vavá]] gave Brazil the lead, and they won the match 2–0. Pelé scored the only goal of their quarter-final victory over [[Wales national football team|Wales]], and Brazil defeated [[France national football team|France]] 5–2 in the semi-final. Brazil then achieved a 5–2 victory over [[Sweden men's national football team|Sweden]] in [[1958 FIFA World Cup final|the final]], winning their first World Cup and becoming the first nation to win a World Cup outside of its own continent. Pelé described the moment as "a nation coming of age".<ref>{{cite news|author1=Pelé|title=How a teenager took the world by wizardry|url=https://www.theguardian.com/football/2006/may/13/sport.bookextracts|date=13 May 2006|access-date=16 July 2017|newspaper=The Guardian|archive-date=22 September 2014|archive-url=https://web.archive.org/web/20140922080813/http://www.theguardian.com/football/2006/may/13/sport.bookextracts|url-status=live}}</ref>
+
+Brazil competed in two South American championships held in 1959. They finished second in the [[1959 South American Championship (Argentina)|first tournament]] and third in the [[1959 South American Championship (Ecuador)|second tournament]]. At the [[1962 FIFA World Cup|1962 World Cup]] in [[Chile]], Brazil defeated [[Mexico national football team|Mexico]] 2–0 in their first group match, then tied 0–0 with [[Czechoslovakia national football team|Czechoslovakia]]. Pelé was injured during the second match and was unable to play for the rest of the tournament.<ref>{{cite web |url=https://www.fifa.com/classicfootball/players/player=63869/index.html |title=FIFA Classic Player |publisher=FIFA.com |date=23 October 1940 |access-date=11 August 2012 |archive-date=11 May 2015 |archive-url=https://web.archive.org/web/20150511171147/http://www.fifa.com/classicfootball/players/player=63869/index.html |url-status=dead }}</ref><ref>{{cite web |url=http://www.ifhof.com/hof/pele.asp |title=PELE – International Football Hall of Fame |publisher=Ifhof.com |date=23 October 1940 |access-date=11 August 2012 |archive-date=3 March 2016 |archive-url=https://web.archive.org/web/20160303182600/http://www.ifhof.com/hof/pele.asp |url-status=live }}</ref> Brazil then defeated Spain 2–1 in their final group stage match. Brazil eliminated [[England national football team|England]] 3–1 in the quarterfinals, defeated [[Chile national football team|Chile]] 4–2 in the semifinals, and secured their second consecutive World Cup title with a [[1962 FIFA World Cup final|3–1 win]] in the final against Czechoslovakia.[[File:Seleção Brasileira de Futebol na Copa do Mundo de 1962.tiff|thumb|Defending champions Brazil at the [[1962 FIFA World Cup]]]]Brazil finished second at the [[1963 South American Championship]] in Bolivia. The [[1966 FIFA World Cup|1966 World Cup]] in [[England]] was Brazil's worst performance in a World Cup. They defeated [[Bulgaria national football team|Bulgaria]] 2–0, then lost to [[Hungary national football team|Hungary]] 3–1. The tournament was remembered for its aggressively physical play. Against [[Portugal national football team|Portugal]], several violent tackles by Portuguese defenders caused Pelé to leave the match and the tournament. Brazil lost the match 3–1 and was eliminated in the first round of the World Cup for the first time since 1934. Afterwards, Pelé said he would not play in another World Cup. However, he ultimately returned in 1970.<ref>{{cite web|title=PELE – International Football Hall of Fame|url=http://www.ifhof.com/hof/pele.asp|website=ifhof.com|access-date=16 August 2016|archive-url=https://web.archive.org/web/20160303182600/http://www.ifhof.com/hof/pele.asp|archive-date=3 March 2016 }}</ref>[[File:Brazil 1970.JPG|thumb|The [[1970 FIFA World Cup]]-winning Brazil team, considered by many commentators as the greatest national football team ever]]
+At the [[1970 FIFA World Cup|1970 World Cup]] in [[Mexico]], Brazil fielded what is widely considered the best World Cup squad in history.{{efn|Attributed to multiple references:<ref name="Greatest1970-Beckenbauer" /><ref name="Greatest1970vSpain" /><ref name="BleacherReport" /><ref name="Greatest1958-Zico" />}} It was led by Pelé, captain [[Carlos Alberto Torres]], [[Jairzinho]], [[Tostão]], [[Gérson]], and [[Rivellino]]. The team won all six of their games, starting with the group stage matches: 4–1 over [[Czechoslovakia national football team|Czechoslovakia]], 1–0 over [[England national football team|England]] (despite a famous save by Gordon Banks), and 3–2 over [[Romania national football team|Romania]]. Brazil then won 4–2 against [[Peru national football team|Peru]] in the quarter-finals, defeated [[Uruguay national football team|Uruguay]] 3–1 in the semi-finals, and achieved a 4–1 victory over [[Italy national football team|Italy]] in [[1970 FIFA World Cup final|the final]]. Jairzinho ranked second in total goals scored in the tournament with seven and is the only player to score in every match in a World Cup; Pelé finished with four goals. Brazil became the first nation to lift the [[Jules Rimet trophy]] for the third time, which meant they were allowed to keep it. A replacement trophy was then commissioned, though it would be 24 years before Brazil won it again.<ref name="FourFourTwo">{{cite news |title=Boring, boring Brazil? Why the Seleção's 1994 winners were unloved back home |url=https://www.fourfourtwo.com/features/boring-boring-brazil-why-selecaos-1994-winners-were-unloved-back-home |access-date=14 January 2020 |work=FourFourTwo |archive-date=10 May 2021 |archive-url=https://web.archive.org/web/20210510194335/https://www.fourfourtwo.com/features/boring-boring-brazil-why-selecaos-1994-winners-were-unloved-back-home |url-status=live }}</ref> The Jules Rimet trophy [[1983 theft of the Jules Rimet Trophy|was stolen]] from the [[Brazilian Football Confederation|Confederação Brasileira de Futebol]] (CBF) in 1983 and was never recovered. CBF was later awarded a replica trophy.<ref>{{Cite news |last=Gadsby |first=Paul |date=2014-06-13 |title=World Cup mystery: what happened to the original Jules Rimet trophy? |url=https://www.theguardian.com/football/2014/jun/13/world-cup-mystery-what-happened-jules-rimet-trophy |access-date=2025-09-09 |work=The Guardian |language=en-GB |issn=0261-3077}}</ref>
+
+===1971–1993: The first dry spell===
+After the retirement of Pelé and other stars from the 1970 squad, Brazil played at the [[1974 FIFA World Cup|1974 World Cup]] in [[West Germany]]. Scoreless draws with [[Yugoslavia national football team|Yugoslavia]] and [[Scotland national football team|Scotland]] were followed by a 3–0 win over [[DR Congo national football team|Zaire]] during the first group stage, with Brazil finishing second in the group. During the second group stage, Brazil defeated [[East Germany national football team|East Germany]] 1–0 and [[Argentina national football team|Argentina]] 2–1, but lost 2–0 to the [[Netherlands national football team|Netherlands]]. Brazil finished in fourth place after losing the third place game 1–0 to [[Poland national football team|Poland]].<ref>{{cite news| url = https://www.usatoday.com/sports/soccer/worldcup/2006-brazil-preview.htm| title = Brazil not too comfortable as World Cup favorite| work = [[USA Today]]| date = 23 May 2006| access-date = 12 February 2009| archive-date = 18 October 2011| archive-url = https://web.archive.org/web/20111018081445/http://www.usatoday.com/sports/soccer/worldcup/2006-brazil-preview.htm| url-status = live}}</ref>
+
+Brazil finished third at the [[1975 Copa América]]. At the [[1978 FIFA World Cup|1978 World Cup]] in [[Argentina]], Brazil tied [[Sweden men's national football team|Sweden]] 1-1, tied [[Spain national football team|Spain]] 0-0 and defeated [[Austria national football team|Austria]] 1–0 at the first group stage. Brazil finished second, the last time Brazil failed to win their group on the first stage. In the second group stage, Brazil defeated [[Peru national football team|Peru]] 3–0, tied with tournament hosts [[Argentina national football team|Argentina]] 0-0, and defeated [[Poland national football team|Poland]] 3–1. However, Argentina defeated Peru 6–0 in a match held later the same day, and thus Argentina qualified for the final in a match accused of ultimately-unproven [[match fixing]] at the expense of Brazil. [[Brazil at the 1978 FIFA World Cup#Starting 11|Brazil]] subsequently beat [[Italy national football team|Italy]] 2–1 in the third place play-off, and were the only team to remain unbeaten in the tournament.
+
+Brazil then ended at third place at the [[1979 Copa América]], also without a single host country.
+
+At the [[1982 FIFA World Cup|1982 World Cup]], held in [[Spain]], Brazil were the tournament favorites, and easily moved through the first group stage, with a 2–1 win against the [[Soviet Union national football team|Soviet Union]], a 4–1 victory against [[Scotland national football team|Scotland]] and a 4–0 thrashing of [[New Zealand men's national football team|New Zealand]]. In the second group stage, Brazil defeated [[Argentina national football team|Argentina]] 3–1, but a [[Brazil vs Italy (1982)|3–2 defeat]] in [[Barcelona]] to [[Italy national football team|Italy]], in a classic World Cup match, eliminated them from the tournament in the match that they refer to as "Sarriá's Tragedy", referencing the [[Sarrià Stadium|stadium]]'s name.<ref>{{cite web |url = https://ph.news.yahoo.com/day-paolo-rossi-changed-brazilian-140627796.html |title = The day Paolo Rossi changed Brazilian football for good |date = December 10, 2020 |website = Yahoo |access-date = December 22, 2022 |archive-date = 22 December 2022 |archive-url = https://web.archive.org/web/20221222124125/https://ph.news.yahoo.com/day-paolo-rossi-changed-brazilian-140627796.html |url-status = dead }}</ref><ref>{{cite web |url = https://exame.com/casual/tragedia-do-sarria-da-copa-de-82-completa-30-anos/ |title = The Tragedy of Sarriá completes 30 years |language = Portuguese |website = Exame |date = 10 July 2012 |access-date = December 22, 2022 |archive-date = 22 December 2022 |archive-url = https://web.archive.org/web/20221222124153/https://exame.com/casual/tragedia-do-sarria-da-copa-de-82-completa-30-anos/ |url-status = dead }}</ref> The [[Brazil at the 1982 FIFA World Cup#Starting 11|1982 team]], with a midfield of [[Sócrates]], [[Zico (footballer)|Zico]], [[Paulo Roberto Falcão|Falcão]] and [[Toninho Cerezo]], is remembered as perhaps the greatest team never to win a [[FIFA World Cup|World Cup]].<ref name="Mirror.co.uk" />
+
+At the [[1983 Copa América]], the third and final tournament without a fixed host, Brazil lost the title to [[Uruguay national football team|Uruguay]] and finished runners-up.
+
+Several players, including Sócrates and Zico, from 1982 returned to play at the [[1986 FIFA World Cup|1986 World Cup]] in [[Mexico]]. Brazil, still a very good team and more disciplined defensively than four years earlier, won the three group stage matches (1–0 against [[Spain national football team|Spain]], 1–0 against [[Algeria national football team|Algeria]], and 3–0 against [[Northern Ireland national football team|Northern Ireland]]), without conceding a goal. Then Brazil defeated [[Poland national football team|Poland]] 4–0 in the round of 16, and in the quarterfinals Brazil faced the [[Michel Platini]]-led [[France national football team|France]] in a classic of [[Total Football]]. The game played to a 1–1 draw in regulation time where Zico missed a penalty kick, and after a goalless extra time, it all came down to a penalty shoot-out, where Brazil was defeated 4–3.
+
+Brazil finished fifth place at the [[1987 Copa América]] held in [[Argentina]], and in 1989, Brazil hosted and won the [[1989 Copa América]], thus ending Brazil's 19-year streak without an official title.
+
+At the [[1990 FIFA World Cup|1990 World Cup]] in [[Italy]], Brazil was coached by [[Sebastião Lazaroni]], who had been the coach in the 1989 Copa América. With a [[Brazil at the 1990 FIFA World Cup#Starting 11|defensive scheme]], whose main symbol was midfielder [[Dunga]], forward [[Careca]] and three centre-backs, the team lacked creativity but made it to the second round after defeating [[Sweden men's national football team|Sweden]] 2–1, [[Costa Rica national football team|Costa Rica]] 1–0, and [[Scotland national football team|Scotland]] 1–0. Brazil was eliminated by [[Diego Maradona]]-led [[Argentina national football team|Argentina]] in the round of 16 in [[Turin]], losing to their South American archrivals 1–0 thanks to a goal by [[Claudio Caniggia]].<ref>[http://www.espnfc.com/feature/_/id/696774?cc=5739 "World Cup 1990"] {{Webarchive|url=https://web.archive.org/web/20140425021202/http://www.espnfc.com/feature/_/id/696774?cc=5739 |date=25 April 2014 }}.ESPN. Retrieved 9 June 2018</ref>
+
+Brazil would struggle in the next cycle, as they finished runners-up at the [[1991 Copa América]] held in [[Chile]], losing the title to [[Argentina national football team|Argentina]]. In the [[1993 Copa América]] held in [[Ecuador]], Brazil was knocked out by Argentina on the quarterfinals on penalties. In the [[1994 FIFA World Cup qualification (CONMEBOL)|qualifiers for the 1994 World Cup]], Brazil lost a qualifying match for the first time when [[Bolivia national football team|Bolivia]] defeated the team 2–0 in [[La Paz]]. Brazil qualified for the tournament after defeating Uruguay at Maracanã with two Romário goals.
+
+===1994–2005: The Second Golden Era===
+[[File:Ronaldo_2002_cropped.jpg|alt=Ronaldo 2002 cropped|thumb|270x270px|Brazil's [[Ronaldo (Brazilian footballer)|Ronaldo]] in the 2002 FIFA World Cup]]
+Brazil went 24 years without winning a World Cup or even participating in a final. Their struggles ended at the [[1994 FIFA World Cup|1994 tournament]] held in the [[United States]], where a solid side headed by [[Romário]] and [[Bebeto]] in attack, captain [[Dunga]] in midfield, goalkeeper [[Cláudio Taffarel]] and defender [[Jorginho (footballer, born 1964)|Jorginho]], won the World Cup for a then-record fourth time. Brazil started by defeating [[Russia national football team|Russia]] 2–0, then winning 3–0 against [[Cameroon national football team|Cameroon]] and tying with [[Sweden men's national football team|Sweden]] 1-1. Their campaign proceeded with a 1–0 victory over the [[United States men's national soccer team|United States]] in the round of 16 at [[Stanford Stadium]] on the [[Independence Day (United States)|4th of July]], a 3–2 win over the [[Netherlands national football team|Netherlands]] in the quarter-finals in [[Dallas]], and a 1–0 victory over [[Sweden men's national football team|Sweden]] in a rematch of the group stage match at the semi-finals at [[Pasadena, California|Pasadena]]'s [[Rose Bowl (stadium)|Rose Bowl]]. This set up Brazil–[[Italy national football team|Italy]] in the final in Pasadena. A game played in searing heat ended as a goalless draw, with Italy's defence led by [[Franco Baresi]] keeping out Romário, penalty kicks loomed, and Brazil became champions with [[Roberto Baggio]] missing Italy's last penalty.<ref>{{cite news |title=1994 Brazil winning team |url=https://www.fifa.com/worldcup/archive/usa1994/teams/team=43924/matches.html |agency=FIFA |date=9 June 2018 |access-date=9 June 2018 |archive-date=27 August 2019 |archive-url=https://web.archive.org/web/20190827215144/https://www.fifa.com/worldcup/archive/usa1994/teams/team=43924/matches.html |url-status=dead }}</ref> Despite the triumph, the 1994 World Cup winning team is not held in the same high esteem in Brazil as their other World Cup winning teams. ''[[FourFourTwo]]'' magazine labelled the 1994 team "unloved" in Brazil due to their pragmatic, defensive style over the more typical Brazilian style of attacking flair, in spite of the players' individual status as idols (mainly Romário, who was known as a clinical striker and whose contributions to the team are widely regarded as responsible both for allowing the team to qualify following a rocky start and for winning the tournament).<ref name="FourFourTwo" />
+
+In the meantime, Brazil lost the [[1995 Copa América]] to hosts [[Uruguay national football team|Uruguay]] [[1995 Copa América final|on penalties]], followed by victory in the [[1997 Copa América|1997]] tournament against [[Bolivia national football team|Bolivia]], the host of the latter tournament, after a [[1997 Copa América final|3–1 win]], the first time Brazil won the Copa América held outside of Brazil. That same year, Brazil won the [[1997 FIFA Confederations Cup|Confederations Cup]] in [[Saudi Arabia]] with a [[1997 FIFA Confederations Cup final|6-0 win]] against [[Australia men's national soccer team|Australia]].
+
+Entering the [[1998 FIFA World Cup|1998 World Cup]] as defending champions, Brazil finished runner-up. Having topped their group after beating [[Scotland national football team|Scotland]] 2–1, defeating [[Morocco national football team|Morocco]] 3-0 and losing 2–1 to [[Norway national football team|Norway]], Brazil thrashed [[Chile national football team|Chile]] 4–1 in the round of 16, defeated [[Denmark national football team|Denmark]] 3–2 in the quarterfinals, and then Brazil beat the [[Netherlands national football team|Netherlands]] on penalties in the semi-final following a 1–1 draw. Player of the tournament [[Ronaldo (Brazilian footballer)|Ronaldo]] scored four goals and made three assists en route to the [[1998 FIFA World Cup final|final]]. The build up to the final itself was overshadowed by Ronaldo suffering a [[Epileptic seizure|convulsive fit]] only hours before kick off.<ref>{{cite news |title=The great World Cup Final mystery |url=https://news.bbc.co.uk/sport3/worldcup2002/hi/history/newsid_1749000/1749324.stm |work=BBC Sport |publisher=British Broadcasting Corporation |date=2 April 2002 |access-date=10 June 2018 |archive-date=17 February 2011 |archive-url=https://web.archive.org/web/20110217052606/http://news.bbc.co.uk/sport3/worldcup2002/hi/history/newsid_1749000/1749324.stm |url-status=live }}</ref> The starting line up without Ronaldo was released to a shocked world media, but after pleading that he felt fine and requested to play, Ronaldo was reinstated by the coach, before giving a below par performance as [[France national football team|France]], led by [[Zinedine Zidane|Zidane]], won [[1998 FIFA World Cup final|3-0]].<ref>[https://www.theguardian.com/football/blog/2014/may/08/world-cup-stunning-moments-25-ronaldo-france "World Cup stunning moments: Ronaldo falters as France win"] {{Webarchive|url=https://web.archive.org/web/20180929021532/https://www.theguardian.com/football/blog/2014/may/08/world-cup-stunning-moments-25-ronaldo-france |date=29 September 2018 }}. The Guardian. Retrieved 10 June 2018</ref>
+
+Brazil won the [[1999 Copa América]] held in [[Paraguay]] with a [[1999 Copa América final|3–0 win]] over [[Uruguay national football team|Uruguay]] in the final, but lost the [[1999 FIFA Confederations Cup|1999 Confederations Cup]] [[1999 FIFA Confederations Cup final|final]] to hosts [[Mexico national football team|Mexico]], before being eliminated from the [[2001 Copa América]] held in [[Colombia]] in the quarterfinals with a 2–0 loss to [[Honduras national football team|Honduras]]. The team would also struggle in the [[2002 FIFA World Cup qualification (CONMEBOL)|2002 World Cup qualifiers]], only securing a spot on the final matchday with a 3–0 victory over [[Venezuela national football team|Venezuela]].
+
+[[File:Boeing 767-341-ER, Varig AN0251315.jpg|thumb|2002 World Cup-winning Brazil plane livery, from [[Varig]].]]
+However, the [[2002 FIFA World Cup|2002 World Cup]], co-hosted by [[South Korea]] and [[Japan]], would be different, as Brazil topped their group with nine points and three wins. Brazil played the group stage in South Korea, and their first match was against [[Turkey national football team|Turkey]], in [[Ulsan]]. In that match, Rivaldo fell to the ground clutching his face after Turkey's [[Hakan Ünsal]] had kicked the ball at his legs. Rivaldo escaped suspension but was fined £5,180 for play-acting, and became the first player ever to be punished in [[FIFA]]'s crackdown on [[Diving (association football)|diving]]. Brazil came from behind to defeat the Turks 2–1. This was followed by a 4–0 win over [[China national football team|China]] and a 5–2 victory against [[Costa Rica national football team|Costa Rica]]. For the knockout round matches, Brazil traveled to Japan, continuing their campaign by defeating [[Belgium national football team|Belgium]] 2–0 in [[Kobe]]. They then proceeded to defeat [[England national football team|England]] 2–1 in the quarter-finals in [[Shizuoka, Shizuoka|Shizuoka]], with the winning goal coming from a free-kick by [[Ronaldinho]] from 40 yards out, but Ronaldinho was also sent off that match.<ref>[https://news.bbc.co.uk/sport3/worldcup2002/hi/matches_wallchart/england_v_brazil/newsid_2049000/2049924.stm "Brazil end England's dream"] . BBC Sport. Retrieved 14 January 2020</ref> The semi-final was against Turkey in [[Saitama, Saitama|Saitama]], a rematch of the group stage, with Brazil winning 1–0 to advance to their third consecutive final. The [[2002 FIFA World Cup Final|final]] was against [[Germany national football team|Germany]] in [[Yokohama]], where Ronaldo scored both goals in Brazil's 2–0 triumph.<ref>{{cite news|url=https://news.bbc.co.uk/sport3/worldcup2002/hi/matches_wallchart/germany_v_brazil/newsid_2067000/2067939.stm|title=Brazil crowned world champions|date=30 June 2002|work=BBC Sport|access-date=22 August 2009|archive-date=14 April 2012|archive-url=https://web.archive.org/web/20120414085237/http://news.bbc.co.uk/sport3/worldcup2002/hi/matches_wallchart/germany_v_brazil/newsid_2067000/2067939.stm|url-status=live}}</ref> Ronaldo also won the [[Adidas Golden Shoe|Golden Shoe]] as the tournament's leading scorer with eight goals. Among the highlights of the campaign were the "Three R's" (Ronaldo, [[Rivaldo]] and Ronaldinho).<ref>[https://www.fifa.com/tournaments/archive/worldcup/koreajapan2002/index.html "Redemption for Ronaldo as world's eyes turn east"] {{Webarchive|url=https://web.archive.org/web/20141229005541/http://www.fifa.com/tournaments/archive/worldcup/koreajapan2002/index.html |date=29 December 2014 }}. FIFA.com. Retrieved 9 June 2018</ref> 2002 was Brazil's fifth world championship, their last to date, with the success seeing them receive the [[Laureus World Sports Award for Team of the Year]].<ref>{{cite web| url = http://laureus17.laureus.com/awards-history/2003/nominees/team/#tab-container| title = Laureus World Team of the Year 2003 nominees| publisher = Laureus| access-date = 24 October 2017| url-status=dead| archive-url = https://web.archive.org/web/20171024154022/http://laureus17.laureus.com/awards-history/2003/nominees/team/#tab-container| archive-date = 24 October 2017| df = dmy-all}}</ref>
+
+===2006–present: The second dry spell===
+
+After their World Cup victory in [[Asia]], Brazil won the [[2004 Copa América]] in [[Peru]], defeating [[Argentina national football team|Argentina]] on penalties after a [[2004 Copa América final|2–2 draw in the final]], with a late goal by [[Adriano (footballer, born February 1982)|Adriano]] forcing the shootout. That was their third win in four competitions since 1997.<ref name="copamaerica2004">{{cite web |date=26 July 2004 |title=Brazil 2–2 Argentina: Shoot-out drama |url=http://soccernet.espn.go.com/report?id=151955&cc=3888 |url-status=dead |archive-url=https://web.archive.org/web/20121102100117/http://soccernet.espn.go.com/report?id=151955&cc=3888 |archive-date=2 November 2012 |access-date=5 January 2009 |publisher=[[ESPNsoccernet]]}}</ref> They also won the [[FIFA Confederations Cup]] for the second time in [[2005 FIFA Confederations Cup|2005]], with a [[2005 FIFA Confederations Cup final|4–1 thumping]] of [[Argentina national football team|Argentina]].<ref name="confederationscup2005">{{cite web |date=29 June 2005 |title=Brazil 4–1 Argentina: Adriano stars |url=http://soccernet.espn.go.com/report?id=184118&&cc=3888 |url-status=dead |archive-url=https://web.archive.org/web/20121102100103/http://soccernet.espn.go.com/report?id=184118&&cc=3888 |archive-date=2 November 2012 |access-date=5 January 2009 |publisher=[[ESPNsoccernet]]}}</ref> Manager [[Carlos Alberto Parreira]] built his side through a 4–2–2–2 formation. Nicknamed the "Magic Quartet", the attack was built around four players: Ronaldo, [[Adriano (footballer, born February 1982)|Adriano]], [[Kaká]] and Ronaldinho.<ref name="Quartet">{{cite news |last1=Vickery |first1=Tim |date=18 December 2017 |title=Kaka's spectacular run with Milan and Brazil overshadowed by his successors |url=http://www.espn.com/soccer/club/brazil/205/blog/post/3316565/kakas-spectacular-run-with-milan-and-brazil-overshadowed-by-his-successors |url-status=live |archive-url=https://web.archive.org/web/20180612142032/http://www.espn.com/soccer/club/brazil/205/blog/post/3316565/kakas-spectacular-run-with-milan-and-brazil-overshadowed-by-his-successors |archive-date=12 June 2018 |access-date=9 June 2018 |agency=ESPN}}</ref>[[File:Brazil & Chile match at World Cup 2010-06-28 6.jpg|thumb|Brazil's [[Kaká]] against Chile at the [[2010 FIFA World Cup]] in South Africa]]In the [[2006 FIFA World Cup|2006 World Cup]] held in [[Germany]], Brazil won their three group games against [[Croatia national football team|Croatia]] (1–0), [[Australia men's national soccer team|Australia]] (2–0) and [[Japan national football team|Japan]] (4–1).<ref>{{cite web |url=https://rsssf.org/tables/2006f.html |title=World Cup 2006 |website=RSSSF |access-date=24 May 2024}}</ref> Ronaldo scored twice and equalled the record for the most goals scored across all World Cups. In the round of 16, Brazil beat [[Ghana national football team|Ghana]] 3–0.<ref name="BRGH" /> Ronaldo's goal was his 15th in World Cup history, breaking the record, which would later be broken by [[Miroslav Klose]] in 2014.<ref name="BRGH">{{cite news |url=https://news.bbc.co.uk/sport2/hi/football/world_cup_2006/4991528.stm |title=Brazil 3–0 Ghana |website=BBC Sport |date=27 June 2006 |access-date=24 May 2024}}</ref> Brazil, however, were eliminated in the quarter-finals against [[France national football team|France]], losing 1–0 to a [[Thierry Henry]] goal.<ref name="Quartet" />
+
+[[Dunga]] was appointed as Brazil's new team manager in 2006.<ref name="dungabrazilnewteamcoach">{{cite news| title =Dunga completa dois anos na seleção garantindo ser um desafio ganhar o ouro| url =http://globoesporte.globo.com/Esportes/Noticias/Times/Selecao_Brasileira/0,,MUL690880-15071,00-DUNGA+COMPLETA+DOIS+ANOS+NA+SELECAO+GARANTINDO+SER+UM+DESAFIO+GANHAR+O+OURO.html| access-date =5 January 2009| date =24 July 2009| newspaper =[[O Globo|Globo Esporte]]| language =pt| archive-date =2 August 2008| archive-url =https://web.archive.org/web/20080802225919/http://globoesporte.globo.com/Esportes/Noticias/Times/Selecao_Brasileira/0,,MUL690880-15071,00-DUNGA+COMPLETA+DOIS+ANOS+NA+SELECAO+GARANTINDO+SER+UM+DESAFIO+GANHAR+O+OURO.html| url-status =live}}</ref> Brazil then won the [[2007 Copa América]] held in [[Venezuela]], with a [[2007 Copa América final|3-0 win]] against [[Argentina national football team|Argentina]] in the final.<ref>{{Cite web |title=Brazil 3-0 Argentina: The heart-stopping final of the 2007 CONMEBOL Copa América |url=https://copaamerica.com/news/brasil-3-0-argentina-la-infartante-final-de-la-conmebol-copa-america-2007/?lang=en |access-date=2023-07-17 |website=Copa América }}</ref> Two years later, Brazil won the [[2009 FIFA Confederations Cup]], defeating the [[United States men's national soccer team|United States]] 3–2 in [[2009 FIFA Confederations Cup final|the final]], to seal their third [[FIFA Confederations Cup|Confederations Cup]] title.<ref>{{cite news|url=https://news.bbc.co.uk/sport2/hi/football/internationals/8120561.stm|title=USA 2–3 Brazil|date=28 June 2009|work=BBC Sport|access-date=28 June 2009|first=Phil|last=Dawkes|archive-date=27 August 2019|archive-url=https://web.archive.org/web/20190827183302/http://news.bbc.co.uk/sport2/hi/football/internationals/8120561.stm|url-status=live}}</ref>
+
+At the [[2010 FIFA World Cup|2010 World Cup]] in [[South Africa]], Brazil won their first two matches against [[North Korea national football team|North Korea]] (2–1) and the [[Ivory Coast national football team|Ivory Coast]] (3–1), respectively.<ref name="2010WC">{{cite web |url=https://rsssf.org/tables/2010f.html |title=World Cup 2010 |website=RSSSF |access-date=24 May 2024}}</ref> Their last match, against [[Portugal national football team|Portugal]], ended in a 0–0 draw.<ref name="2010WC"/> They faced [[Chile national football team|Chile]] in the round of 16, winning 3–0, although in the quarter-final they fell to the [[Netherlands national football team|Netherlands]] 2–1.<ref name="2010WC"/><ref>{{cite news|url = https://news.bbc.co.uk/sport2/hi/football/world_cup_2010/matches/match_57/default.stm|title = Netherlands 2–1 Brazil: The Netherlands produced a stunning second-half comeback to reach the semi-finals as Brazil's World Cup imploded in a dramatic game in Port Elizabeth.|date = 2 July 2010|access-date = 12 March 2015|website = BBC Sport|last = Bevan|first = Chris|archive-date = 1 July 2010|archive-url = https://web.archive.org/web/20100701190212/http://news.bbc.co.uk/sport2/hi/football/world_cup_2010/matches/match_57/default.stm|url-status = live}}</ref>
+
+In July 2010, [[Mano Menezes]] was named as Brazil's new coach.<ref>{{cite news|agency=[[Press Association]]|url=https://www.theguardian.com/football/2010/jul/24/brazil-dunga-mano-menezes|title=Brazil name Dunga's replacement as they rebuild for the next World Cup|date=24 July 2010|work=[[The Guardian]]|access-date=26 July 2010|location=London|archive-date=9 March 2021|archive-url=https://web.archive.org/web/20210309021330/https://www.theguardian.com/football/2010/jul/24/brazil-dunga-mano-menezes|url-status=live}}</ref> At the [[2011 Copa América]] held in [[Argentina]], Brazil lost against [[Paraguay national football team|Paraguay]] on penalties and was eliminated in the quarter-finals. Brazil failed to score any penalty in the shootout.<ref>{{Cite news |last=Wilson |first=Jonathan |date=2011-07-18 |title=Argentina and Brazil lead the fall of the Copa América giants |work=The Guardian |url=https://www.theguardian.com/football/blog/2011/jul/18/argentina-brazil-giants-copa-america |access-date=2023-07-17 |issn=0261-3077}}</ref> In November 2012, coach Mano Menezes was sacked and replaced by [[Luiz Felipe Scolari]].<ref>{{cite news|url=http://www.goal.com/en/news/584/brazil/2012/11/23/3551150/mano-menezes-sacked-as-brazil-coach|title=Mano Menezes sacked as Brazil coach|date=23 November 2012|access-date=23 November 2012|publisher=Goal.com|archive-date=24 February 2021|archive-url=https://web.archive.org/web/20210224222935/https://www.goal.com/en/news/584/brazil/2012/11/23/3551150/mano-menezes-sacked-as-brazil-coach|url-status=live}}</ref><ref>{{cite news | date=28 November 2012 | url=http://globoesporte.globo.com/futebol/selecao-brasileira/noticia/2012/11/andres-sanches-deixa-o-cargo-de-diretor-de-selecoes-da-cbf.html | title=Felipão é o novo técnico da Seleção, e Andrés deixa cargo na CBF | publisher=Globoesporte.com | access-date=28 November 2012 | language=pt | archive-date=11 November 2020 | archive-url=https://web.archive.org/web/20201111231252/http://globoesporte.globo.com/futebol/selecao-brasileira/noticia/2012/11/andres-sanches-deixa-o-cargo-de-diretor-de-selecoes-da-cbf.html | url-status=live }}</ref>
+
+On 6 June 2013, Brazil was ranked 22nd in the [[FIFA World Rankings]], their lowest ever.<ref>{{cite news|url=http://www.goal.com/en/news/745/fifa/2013/06/06/4029331/netherlands-go-fifth-in-fifa-ranking|title=Netherlands go fifth in Fifa ranking|date=6 June 2013|access-date=6 June 2013|publisher=Goal.com|archive-date=26 October 2020|archive-url=https://web.archive.org/web/20201026033337/https://www.goal.com/en/news/745/fifa/2013/06/06/4029331/netherlands-go-fifth-in-fifa-ranking|url-status=live}}</ref> At the [[2013 FIFA Confederations Cup|2013 Confederations Cup]], Brazil defended their title, beating Spain in the [[2013 FIFA Confederations Cup Final|final]],<ref>{{cite news|url=http://www.marca.com/2013/06/28/en/football/national_teams/1372444764.html|title=Brazil-Spain: a showdown 27 years in the making|newspaper=Marca|date=28 June 2013|access-date=1 July 2013|archive-date=3 December 2020|archive-url=https://web.archive.org/web/20201203143418/https://www.marca.com/2013/06/28/en/football/national_teams/1372444764.html|url-status=live}}</ref> winning 3–0 and sealing their fourth Confederations Cup title.<ref>{{cite web|url=https://www.fifa.com/confederationscup/matches/round=255211/match=300222461/summary.html |title=Fred and Neymar claim Confeds for Brazil |publisher=FIFA.com |date=1 July 2013 |access-date=1 July 2013 |url-status=dead |archive-url=https://web.archive.org/web/20130702190636/http://www.fifa.com/confederationscup/matches/round%3D255211/match%3D300222461/summary.html |archive-date=2 July 2013 }}</ref><ref>{{cite news|url=https://www.cbc.ca/sports/soccer/brazil-defeats-spain-to-win-confederations-cup-1.1313782|title=Brazil defeats Spain to win Confederations Cup|publisher=[[Canadian Broadcasting Corporation|CBC]]|date=30 June 2013|access-date=1 July 2013|archive-date=29 October 2019|archive-url=https://web.archive.org/web/20191029020214/https://www.cbc.ca/sports/soccer/brazil-defeats-spain-to-win-confederations-cup-1.1313782|url-status=live}}</ref>
+
+====2014 FIFA World Cup disaster====
+{{Main|Brazil at the 2014 FIFA World Cup}}
+
+In the [[2014 FIFA World Cup#Group A|opening match of the 2014 World Cup]] on home soil against [[Croatia national football team|Croatia]], two goals from [[Neymar]] and one from [[Oscar (footballer, born 1991)|Oscar]] sealed a 3–1 comeback win after a [[Marcelo (footballer, born 1988)|Marcelo]] own goal.<ref>{{cite news|title=Brazil 3–1 Croatia|url=https://www.bbc.co.uk/sport/football/25285029|access-date=9 July 2014|work=[[BBC Sport]]|date=12 June 2014|archive-date=8 July 2014|archive-url=https://web.archive.org/web/20140708110046/http://www.bbc.co.uk/sport/0/football/25285029|url-status=live}}</ref> The team then drew 0–0 with [[Mexico national football team|Mexico]], before confirming qualification to the [[2014 FIFA World Cup knockout stage|knockout stage]] by defeating [[Cameroon national football team|Cameroon]] 4–1.<ref>{{cite news|url=https://www.bbc.com/sport/0/football/25285277|title=Cameroon 1–4 Brazil|date=23 June 2014|access-date=9 July 2014|work=BBC|archive-date=24 June 2014|archive-url=https://web.archive.org/web/20140624000126/http://www.bbc.com/sport/0/football/25285277|url-status=live}}</ref><ref>{{cite news|url=https://www.fifa.com/worldcup/matches/round=255931/match=300186509/index.html#nosticky|title=Brazil 0–0 Mexico|date=17 June 2014|access-date=9 July 2014|publisher=FIFA.com|archive-date=9 July 2014|archive-url=https://web.archive.org/web/20140709081543/http://www.fifa.com/worldcup/matches/round=255931/match=300186509/index.html#nosticky|url-status=dead}}</ref> Brazil faced [[Chile national football team|Chile]] in the [[2014 FIFA World Cup round of 16|round of 16]], needing penalties to prevail to the next round following a 1–1 draw.<ref>{{cite news|last1=Ornstein|first1=David|title=Brazil 1–1 Chile|url=https://www.bbc.co.uk/sport/football/27952759|access-date=9 July 2014|work=[[BBC Sport]]|date=28 June 2014|archive-date=9 July 2014|archive-url=https://web.archive.org/web/20140709122914/http://www.bbc.co.uk/sport/0/football/27952759|url-status=live}}</ref>
+
+[[File:Brazil and Colombia match at the FIFA World Cup 2014-07-04 (26).jpg|thumb|left|Brazil line-up against Colombia at the [[2014 FIFA World Cup]]. Neymar (front row, second from right) would play his last game at the tournament after being stretchered off with a fractured vertebra.]]
+The team again faced South American opposition in the quarter-final, defeating [[Colombia national football team|Colombia]] 2–1. However, late in the match, Neymar was stretchered off after a challenge by [[Juan Camilo Zúñiga]], which led to the Brazilian suffering a [[Bone fracture|fractured]] [[Vertebra (anatomy)|vertebra]], ruling him out for the remainder of the tournament.<ref>{{cite news|url=https://www.bbc.com/sport/0/football/28173132|title=Neymar: Injured Brazil forward ruled out of World Cup|date=4 July 2014|access-date=5 July 2014|work=[[BBC Sport]]|archive-date=5 July 2014|archive-url=https://web.archive.org/web/20140705001328/http://www.bbc.com/sport/0/football/28173132|url-status=live}}</ref>
+
+The ''Seleção'' went on to lose [[Brazil v Germany (2014 FIFA World Cup)|7–1]] to the [[Germany national football team|Germans]], their biggest ever defeat at the World Cup and first home loss in a competitive match since 1975.<ref>{{cite news|url=https://uk.eurosport.yahoo.com/blogs/the-rio-report/brazil-national-disaster-germany-enjoy-greatest-half-hour-205347770.html |title=The greatest half-hour in World Cup history? |date=9 July 2014 |access-date=9 July 2014 |work=Eurosport |url-status=dead |archive-url=https://web.archive.org/web/20140714233107/https://uk.eurosport.yahoo.com/blogs/the-rio-report/brazil-national-disaster-germany-enjoy-greatest-half-hour-205347770.html |archive-date=14 July 2014 }}</ref> The match has been nicknamed the ''Mineirazo'', making reference to the nation's previous World Cup defeat on home soil, the [[Uruguay v Brazil (1950 FIFA World Cup)|Maracanazo]] against Uruguay in 1950, and the [[Mineirão|Mineirão stadium]] where the match took place.<ref>{{cite news|url=http://espn.uol.com.br/noticia/423552_maracanazo-foi-tragico-minerazo-a-maior-vergonha-do-brasil|title=Maracanazo foi trágico, 'Minerazo', a maior vergonha do Brasil|date=8 July 2014|access-date=11 July 2014|work=ESPN|archive-date=30 April 2017|archive-url=https://web.archive.org/web/20170430191251/http://espn.uol.com.br/noticia/423552_maracanazo-foi-tragico-minerazo-a-maior-vergonha-do-brasil|url-status=live}}</ref> In that match, [[Miroslav Klose]] scored, making him the top goalscorer at the FIFA World Cup with 16 goals. Curiously, Ronaldo Fenômeno was at the stadium as a commentator for Rede Globo.<ref>{{Cite web |last=Camargo |first=Matheus |date=2021-12-03 |title=Ronaldo lembra 7x1 e diz que Galvão Bueno "não para de falar" |url=https://www.torcedores.com/noticias/2021/12/ronaldo-lembra-transmissao-do-7x1-e-diz-que-galvao-bueno-nao-para-de-falar |access-date=2025-09-09 |website=Torcedores |language=pt-BR}}</ref>
+
+Brazil subsequently lost 3–0 to the [[Netherlands national football team|Netherlands]] in the third-place play-off match.<ref>{{cite web|url=https://www.footballparadise.com/neymar-magical-influence/|title=Neymar and the magical influence of an enigmatic amulet|work=[[Football Paradise]]|last=Kilpeläinen|first=Juuso|date=18 March 2018|access-date=15 December 2020|quote=For the Brazilians, the disappointment was too much to cope with. Canarinho subsequently dropped to fourth place as Holland cruised to a relatively comfortable 3–0 victory in the third place play-off at Estádio Nacional.|archive-date=24 January 2021|archive-url=https://web.archive.org/web/20210124044942/https://www.footballparadise.com/neymar-magical-influence/|url-status=live}}</ref><ref>{{cite news|url=https://www.bbc.com/sport/live/football/27463797|title=Brazil 0–3 Netherlands|date=12 July 2014|access-date=13 June 2014|work=BBC|archive-date=22 October 2020|archive-url=https://web.archive.org/web/20201022034750/https://www.bbc.com/sport/live/football/27463797|url-status=live}}</ref> Following the tournament, Scolari announced his resignation.<ref>{{cite web|url=http://www.theguardian.com/football/2014/jul/14/luiz-filipe-scolari-resigns-brazil-world-cup-2014|title=Luiz Felipe Scolari resigns after Brazil's World Cup 2014 humiliation|date=14 July 2014|website=The Guardian|access-date=4 March 2021|archive-date=21 June 2021|archive-url=https://web.archive.org/web/20210621183219/https://www.theguardian.com/football/2014/jul/14/luiz-filipe-scolari-resigns-brazil-world-cup-2014|url-status=live}}</ref>
+
+====2014–2022: After the 2014 FIFA World Cup====
+[[File:Aecio Neves e Dunga - 17-06-2008 (8368243127) (cropped).jpg|thumb|upright|Brazil's 1994 World Cup winning captain, [[Dunga]], was coach from 2006–2010 and 2014–2016.]]
+On 22 July 2014, Dunga was announced as the new manager of Brazil, returning to the position for his second stint leading the national team.<ref>{{cite news|url=http://www.goal.com/en-india/news/105/main/2014/07/22/4973942/dunga-sends-brazil-back-to-the-future|title=Dunga sends Brazil back to the future|date=22 July 2014|access-date=22 July 2014|publisher=Goal.com|archive-date=19 October 2020|archive-url=https://web.archive.org/web/20201019081052/https://www.goal.com/en-india/news/105/main/2014/07/22/4973942/dunga-sends-brazil-back-to-the-future|url-status=live}}</ref>
+
+At the [[2015 Copa América]] held in [[Chile]], Brazil finished first in Group C to advance to the knockout stages.<ref>{{cite web |url=https://www.rsssf.org/tables/2015sa.html |title=Copa América 2015 |first=Karel |last=Stokkermans |website=RSSSF |date=16 June 2016 |access-date=5 April 2024}}</ref> However, they were eliminated in the next round, again losing on penalties to [[Paraguay national football team|Paraguay]].<ref>{{cite news|url=http://www.goal.com/en-gb/match/brazil-vs-paraguay/1947929?ICID=RE|title=Brazil 1–1 Paraguay (3–4 on pens): Selecao dumped out of Copa America|date=28 June 2015|access-date=30 June 2015|publisher=Goal.com|archive-date=6 March 2016|archive-url=https://web.archive.org/web/20160306225612/http://www.goal.com/en-gb/match/brazil-vs-paraguay/1947929?ICID=RE|url-status=live}}</ref>
+
+At the 2016 [[Copa América Centenario]] held in the [[United States]], Brazil began the tournament with a goalless draw with [[Ecuador national football team|Ecuador]] before beating [[Haiti national football team|Haiti]] 7–1 in the next match.<ref>{{cite news|title=Liverpool's Philippe Coutinho scores hat-trick for Brazil|url=https://www.bbc.co.uk/sport/football/36486889|access-date=9 June 2016|work=BBC Sport|date=8 June 2016|archive-date=22 February 2021|archive-url=https://web.archive.org/web/20210222052205/https://www.bbc.co.uk/sport/football/36486889|url-status=live}}</ref> Needing only a draw to progress to the knockout stage of the tournament, Brazil suffered a controversial 1–0 loss to [[Peru national football team|Peru]], with [[Raúl Ruidíaz]] scoring in the 75th minute.<ref>{{cite web|last1=Wiener|first1=David|title=Brazil v Peru: Raul Ruidiaz scores controversial goal that eliminates Dunga's side from Copa America|url=http://www.foxsports.com.au/football/brazil-v-peru-raul-ruidiaz-scores-controversial-goal-that-eliminates-dungas-side-from-copa-america/news-story/3a16ed9716f8bb9af08f20b20351d397|website=Fox Sports Australia|date=13 June 2016|access-date=13 June 2016|archive-date=15 June 2016|archive-url=https://web.archive.org/web/20160615221027/http://www.foxsports.com.au/football/brazil-v-peru-raul-ruidiaz-scores-controversial-goal-that-eliminates-dungas-side-from-copa-america/news-story/3a16ed9716f8bb9af08f20b20351d397|url-status=live}}</ref> This defeat saw Brazil eliminated from the tournament in the group stage for the first time since [[1987 Copa América|1987]],<ref>{{cite news|title=Brazil knocked out of Copa America by Peru thanks to 'handball' goal|url=https://www.telegraph.co.uk/football/2016/06/13/brazil-knocked-out-of-copa-america-by-peru-thanks-to-handball-go/|website=The Telegraph|date=13 June 2016|access-date=13 June 2016|archive-date=3 July 2021|archive-url=https://web.archive.org/web/20210703201021/https://www.telegraph.co.uk/football/2016/06/13/brazil-knocked-out-of-copa-america-by-peru-thanks-to-handball-go/|url-status=live|last1=Sport|first1=Telegraph}}</ref><ref>{{cite web|title=Brazil dumped out of Copa America by lowly Peru for earliest exit since 1987|url=http://www.independent.ie/sport/soccer/international-soccer/brazil-dumped-out-of-copa-america-by-lowly-peru-for-earliest-exit-since-1987-34795439.html|website=Independent.ie|date=13 June 2016 |access-date=13 June 2016|archive-date=3 August 2020|archive-url=https://web.archive.org/web/20200803012807/https://www.independent.ie/sport/soccer/international-soccer/brazil-dumped-out-of-copa-america-by-lowly-peru-for-earliest-exit-since-1987-34795439.html|url-status=live}}</ref> and also resulted in Dunga being fired from the national team.<ref>{{Cite web |author1=Martín Fernandez |author2=Vicente Seda |date=2016-06-14 |title=Após reunião na CBF, Dunga é demitido do comando da Seleção |url=https://globoesporte.globo.com/futebol/selecao-brasileira/noticia/2016/06/apos-reuniao-na-cbf-dunga-e-demitido-do-comando-da-selecao.html |access-date=2025-08-21 |website=Globoesporte |language=pt-br}}</ref>
+
+[[File:Bra-Cos (2).jpg|thumb|Brazil team prior to their group game against Costa Rica at the [[2018 FIFA World Cup]] in Russia|left]]
+On 14 June 2016, [[Tite (football manager)|Tite]] replaced Dunga as manager of Brazil.<ref>{{cite news |url=http://www.goal.com/en/news/584/brazil/2016/06/14/24633392/dunga-sacked-as-brazil-coach |title=Dunga sacked as Brazil coach |date=14 June 2016 |access-date=14 June 2016 |work=[[Goal.com]] |last=Edwards |first=Daniel |archive-date=22 June 2018 |archive-url=https://web.archive.org/web/20180622140225/http://www.goal.com/en/news/584/brazil/2016/06/14/24633392/dunga-sacked-as-brazil-coach |url-status=live }}</ref><ref>{{cite news |url=https://www.theguardian.com/football/2016/jun/20/brazil-confirm-tite-new-coach |title=Brazil confirm appointment of Tite as new coach to replace Dunga |date=20 June 2016 |newspaper=[[The Guardian]] |access-date=28 June 2016 |agency=Reuters |archive-date=27 July 2020 |archive-url=https://web.archive.org/web/20200727054445/https://www.theguardian.com/football/2016/jun/20/brazil-confirm-tite-new-coach |url-status=live }}</ref> At the [[2018 FIFA World Cup]], Brazil finished top of their group, tying with [[Switzerland national football team|Switzerland]] 1–1, defeating [[Costa Rica national football team|Costa Rica]] 2-0 and [[Serbia national football team|Serbia]] 2–0.<ref>{{cite news |title=Brazil 2–0 Serbia |url=https://www.fifa.com/worldcup/matches/match/300331521/#motm |agency=FIFA.com |date=3 July 2018 |access-date=3 July 2018 |archive-date=26 December 2018 |archive-url=https://web.archive.org/web/20181226162251/https://www.fifa.com/worldcup/matches/match/300331521/#motm |url-status=dead }}</ref> After defeating [[Mexico national football team|Mexico]] 2–0 in the round of 16,<ref>{{cite news |title=Brazil beat Mexico to reach last 8 |url=https://www.bbc.co.uk/sport/football/44597762 |agency=BBC |date=2 July 2018 |access-date=2 July 2018 |archive-date=9 November 2020 |archive-url=https://web.archive.org/web/20201109043559/https://www.bbc.co.uk/sport/football/44597762 |url-status=live }}</ref> Brazil were eliminated in the quarter-finals by [[Belgium national football team|Belgium]], losing 2–1.<ref>{{cite news |title=World Cup 2018: Belgium produce masterclass to knock out Brazil with 2–1 win |url=https://www.bbc.com/sport/football/44652178 |last=Johnston |first=Neil |date=6 July 2018 |access-date=7 July 2018 |work=[[BBC Sport]] |publisher=BBC |archive-date=27 November 2020 |archive-url=https://web.archive.org/web/20201127153334/https://www.bbc.com/sport/football/44652178 |url-status=live }}</ref><ref>{{cite news |last=Rogers |first=Martin |title=Brazil is no longer the class of world soccer |url=https://eu.usatoday.com/story/sports/columnist/martin-rogers/2018/07/06/brazil-neymar-world-cup-belgium/764475002/ |date=6 July 2018 |access-date=7 July 2018 |newspaper=[[USA Today]] |archive-date=9 November 2020 |archive-url=https://web.archive.org/web/20201109043836/https://eu.usatoday.com/story/sports/columnist/martin-rogers/2018/07/06/brazil-neymar-world-cup-belgium/764475002/ |url-status=live }}</ref><ref>{{cite web |url=https://www.businessinsider.es/brazil-knocked-out-world-cup-belgium-wide-open-2018-7?r=US&IR=T |title=Brazil, the overwhelming favorite to win the World Cup, has been knocked out, and now the tournament is wide open |last=Wiggins |first=Brandon |date=6 July 2018 |access-date=7 July 2018 |work=[[Business Insider]] |publisher=[[Axel Springer]] |archive-date=7 July 2018 |archive-url=https://web.archive.org/web/20180707034531/https://www.businessinsider.es/brazil-knocked-out-world-cup-belgium-wide-open-2018-7?r=US&IR=T |url-status=dead }}</ref> Despite elimination from the tournament, Tite remained as head coach.
+
+The [[2019 Copa América]] was held on home soil, with the team beginning the campaign with a 3–0 win against [[Bolivia national football team|Bolivia]], where the Brazilians notoriously wore a white uniform. Then Brazil had a goalless draw with [[Venezuela national football team|Venezuela]], and thumped [[Peru national football team|Peru]] 5–0. In the quarterfinals, Brazil defeated [[Paraguay national football team|Paraguay]] on penalties after another goalless draw. After beating rivals [[Argentina national football team|Argentina]] 2–0 in the semi-finals,<ref>{{cite news|url=https://www.theguardian.com/football/2019/jul/02/argentina-brazil-copa-america-match-report|title=Brazil 2–0 Argentina: Copa América semi-final match report|newspaper=The Guardian |date=3 July 2019|access-date=9 July 2019|archive-date=21 July 2019|archive-url=https://web.archive.org/web/20190721175222/https://www.theguardian.com/football/2019/jul/02/argentina-brazil-copa-america-match-report|url-status=live}}</ref> Brazil beat Peru 3–1 in the final to win their ninth Copa América title, and their first since 2007.<ref>{{Cite news|url=https://www.bbc.com/sport/football/48897389|title=Copa America 2019: Brazil beat Peru 3–1 to win first title in 12 years|work=BBC Sport|date=7 July 2019|access-date=9 July 2019|archive-date=7 July 2019|archive-url=https://web.archive.org/web/20190707141935/https://www.bbc.com/sport/football/48897389|url-status=live}}</ref> The team only conceded once during the tournament, during the final from a penalty kick. The next Copa América was originally scheduled to be played the following year, but due to the [[COVID-19 pandemic]], the competition was postponed to [[2021 Copa América|2021]]. As a result, [[Colombia]] and [[Argentina]] resigned as co-hosts,<ref>{{Cite web |date=2021-05-20 |title=Unrest rules Colombia out as Copa America host |url=https://www.espn.com/soccer/story/_/id/37617481/colombia-ruled-hosts-2021-copa-america-due-unrest |access-date=2025-08-21 |website=ESPN.com |language=en}}</ref> and Brazil was selected to host the tournament.<ref>{{Cite news |last1=Malyon |first1=Ed |last2=Staff |first2=The Athletic |date=2021-06-01 |title=Copa América moved to Brazil after losing second co-host Argentina |url=https://www.nytimes.com/athletic/4211166/2021/05/31/copa-america-moved-to-brazil-after-losing-second-co-host-argentina/ |access-date=2025-08-21 |work=The New York Times |language=en-US |issn=0362-4331}}</ref> The hosts reached the [[2021 Copa América final|final]] once again, this time being defeated by [[Argentina national football team|Argentina]] 1–0 in the [[Maracanã Stadium]]; this was the first time Brazil failed to win the Copa América on home soil.<ref>{{cite web|date=11 July 2021|title=Copa America 2021 Final Highlights: Argentina beat Brazil 1–0, Messi wins first senior International trophy|url=https://indianexpress.com/article/sports/football/copa-america-2021-final-live-score-argentina-vs-brazil-live-score-streaming-7398292/|access-date=11 July 2021|website=The Indian Express|archive-date=11 July 2021|archive-url=https://web.archive.org/web/20210711014514/https://indianexpress.com/article/sports/football/copa-america-2021-final-live-score-argentina-vs-brazil-live-score-streaming-7398292/|url-status=live}}</ref>
+
+At the [[2022 FIFA World Cup|2022 World Cup]], Brazil finished first in their group, with the team defeating [[Serbia national football team|Serbia]] 2–0, [[Switzerland national football team|Switzerland]] 1–0 and losing to [[Cameroon national football team|Cameroon]] 1–0.<ref>{{Cite web |title=World Cup 2022 Group G: Match schedule, fixtures, times and dates for Brazil, Serbia, Switzerland and Cameroon in Qatar |url=https://www.sportingnews.com/us/soccer/news/world-cup-2022-group-g-draw-fixtures-teams-times-schedule/wimywxglszmgrceffvocgxsi |access-date=11 December 2022 |website=www.sportingnews.com |date=29 March 2022 |language=en |archive-date=11 December 2022 |archive-url=https://web.archive.org/web/20221211065120/https://www.sportingnews.com/us/soccer/news/world-cup-2022-group-g-draw-fixtures-teams-times-schedule/wimywxglszmgrceffvocgxsi |url-status=live }}</ref> The team then faced [[South Korea national football team|South Korea]] in the round of 16, winning by 4–1,<ref>{{Cite news |last=Liew |first=Jonathan |date=2022-12-05 |title=Brazil dismantle South Korea to dance into World Cup quarter-finals |work=The Guardian |url=https://www.theguardian.com/football/2022/dec/05/brazil-south-korea-world-cup-last-16-match-report |access-date=2023-07-05 |issn=0261-3077}}</ref> and progressed to the quarter-finals where they lost on penalties to [[Croatia national football team|Croatia]] after a 1–1 draw.<ref>{{Cite web |last=Church |first=Ben |date=2022-12-09 |title=Tournament favorite Brazil out of World Cup after losing to Croatia on penalties |url=https://www.cnn.com/2022/12/09/football/brazil-croatia-world-cup-qatar-quarterfinals-spt-intl/index.html |access-date=2023-07-05 |website=CNN |language=en}}</ref> Following their exit from the World Cup, Tite resigned as head coach.<ref>{{cite news|title=Tite to step down amid criticism after Brazil's defeat to Croatia|url=https://www.theguardian.com/football/2022/dec/09/tite-to-step-down-amid-criticism-following-brazils-defeat-to-croatia|access-date=9 December 2022|website=The Guardian|date=9 December 2022|language=en|last1=Liew|first1=Jonathan|archive-date=9 December 2022|archive-url=https://web.archive.org/web/20221209205007/https://www.theguardian.com/football/2022/dec/09/tite-to-step-down-amid-criticism-following-brazils-defeat-to-croatia|url-status=live}}</ref>
+
+====2023–2026: Recent years and decline====
+After Tite left, [[Ramon Menezes]] served as manager from March to July 2023, before being replaced by [[Fernando Diniz]] until the end of the year. Diniz's tenure ended after Brazil lost to [[Argentina national football team|Argentina]] 1–0 at the Maracanã, with this defeat being their first home loss in FIFA World Cup qualifiers.
+
+The CBF then appointed [[Dorival Júnior]] as manager. At the [[2024 Copa América]] held in the [[United States]], Brazil tied 0–0 with [[Costa Rica national football team|Costa Rica]], thrashed [[Paraguay national football team|Paraguay]] 4–1 and tied 1–1 with [[Colombia national football team|Colombia]]. Brazil was eliminated on penalties by [[Uruguay national football team|Uruguay]] in the quarter-finals following a 0–0 draw.<ref>{{cite news |url=https://www.espn.com/football/report/_/gameId/703949 |title=Uruguay 0–0 Brazil (Game Analysis) |website=ESPN |date=6 July 2024 |access-date=30 July 2024}}</ref> Dorival was fired after losing 4–1 to Argentina at the [[Estadio Monumental (Buenos Aires)|Monumental de Nuñez]],<ref>{{Cite web |date=2025-03-28 |title=Dorival Júnior é demitido do comando da seleção brasileira |url=https://ge.globo.com/futebol/selecao-brasileira/noticia/2025/03/28/dorival-junior-e-demitido-do-comando-da-selecao-brasileira.ghtml |access-date=2025-08-21 |website=ge |language=pt-br}}</ref> and in his place the federation appointed Italian manager [[Carlo Ancelotti]] as a replacement.<ref>{{Cite web |date=2025-05-12 |title=Carlo Ancelotti é o novo técnico da seleção brasileira |url=https://ge.globo.com/futebol/selecao-brasileira/noticia/2025/05/12/carlo-ancelotti-e-o-novo-tecnico-da-selecao-brasileira.ghtml |access-date=2025-08-21 |website=ge |language=pt-br}}</ref><ref>{{Cite web |date=2025-05-12 |title=CBF anuncia Carlo Ancelotti como novo técnico da seleção brasileira |url=https://oglobo.globo.com/esportes/noticia/2025/05/12/cbf-anuncia-carlos-ancelotti-como-novo-tecnico-da-selecao-brasileira.ghtml |access-date=2025-08-21 |website=O Globo |language=pt-br}}</ref>
+
+Brazil qualified for the [[2026 FIFA World Cup]] after a 1–0 victory against [[Paraguay national football team|Paraguay]] on 10 June 2025.<ref>{{Cite web |date=2025-06-10 |title=Brasil garante vaga na Copa do Mundo de 2026; veja todos os classificados |url=https://ge.globo.com/futebol/futebol-internacional/noticia/2025/06/10/brasil-garante-vaga-na-copa-do-mundo-de-2026-veja-todos-os-classificados.ghtml |access-date=2025-08-21 |website=ge |language=pt-br}}</ref> At the tournament the team suffered a 2–1 defeat to [[Norway national football team|Norway]] in the round of 16 and failed to reach the quarter-finals for the first time in 36 years.<ref>{{Cite web |last=Staff |first=Sportsnet |date=2026-07-05 |title=Norway stuns Brazil to reach World Cup quarterfinals for first time |url=https://www.sportsnet.ca/fifa-world-cup/article/norway-stuns-brazil-to-reach-world-cup-quarterfinals-for-first-time/ |access-date=2026-07-05 |website=Sportsnet.ca |language=en}}</ref>
+
+==Team image==
+
+===Uniforms===
+{{Commons|Brazil national football team kits}}
+{{Commons|Brazil national football team kits (alternates)}}
+{{Commons|Brazil national football team kits (goalkeeper kits)}}
+Brazil's first team colors were white with blue collars, but following the defeat at [[Maracanã (stadium)|Maracanã]] in the 1950 World Cup, the colors were criticized for lacking patriotism. With permission from the Brazilian Sports Confederation, the newspaper ''[[Correio da Manhã (Brazil)|Correio da Manhã]]'' held a competition to design a new kit incorporating the four colors of the Brazilian flag.<ref name="p64">''Futebol'', p64</ref> The winning design was a yellow jersey with green trim and blue shorts with white trim drawn by [[Aldyr Garcia Schlee]], a nineteen-year-old from [[Pelotas]].<ref name="p64"/> The new colors were first used in March 1954 in a match against [[Chile national football team|Chile]], and have been used ever since. [[Topper (sports)|Topper]] were the manufacturers of Brazil's kit up to and including the match against [[Wales national football team|Wales]] on 11 September 1991; [[Umbro]] took over before the next match, versus [[Yugoslavia national football team|Yugoslavia]] in October 1991.<ref>{{cite news|title=Topper 1991 Brazil Match Worn Home Shirt|date=3 January 2018|access-date=3 February 2018|work=footballshirtculture.com|publisher=Football Shirt Culture|url=http://www.footballshirtculture.com/Vintage-Football-Shirts/topper-1991-brazil-match-worn-home-shirt-cleber.html}}</ref> [[Nike, Inc.|Nike]] began making the kits for Brazil in late 1996, in time for the [[1997 Copa América]] and the [[1998 FIFA World Cup]].<ref>{{cite web|title=FIFA World Cup 1998 Group A|access-date=3 February 2018|work=historicalkits.co.uk|publisher=Historical Football Kits|url=http://historicalkits.co.uk/international/tournaments/fifa-world-cup/1998/1998-group-a.html}}</ref>
+
+The use of blue and white as the second kit colors owes its origins to the defunct latter-day Portuguese monarchy and dates from the 1930s, but it became the permanent second choice accidentally in the [[1958 FIFA World Cup final]]. Brazil's opponents were [[Sweden men's national football team|Sweden]], who also wore yellow, and a draw gave the home team, Sweden, the right to play in yellow. Brazil, who traveled with no second kit, hurriedly purchased a set of blue shirts and sewed the badges taken from their yellow shirts on them.<ref>''Futebol'', p67</ref>
+
+====Kit sponsorship====
+{| class="wikitable" style="text-align: left"
+! Kit supplier !! Period !! Contract<br />announcement !! Contract<br />duration !! Value !! Ref.
+|-
+|''None''
+|1908–1954
+|
+|
+|
+|
+|-
+| {{flagicon|JPN}} [[Athleta (sports manufacturer)|Athleta]]
+| 1954–1977
+|
+| 1954–1977
+| None
+| <ref>{{cite web|url=https://www.athletabrasil.com/a-athleta|title=Athleta – A Marca|author=Athleta Brasil|access-date=26 August 2021|archive-date=26 August 2021|archive-url=https://web.archive.org/web/20210826083315/https://www.athletabrasil.com/a-athleta|url-status=live}}</ref>
+|-
+| {{flagicon|GER}} [[Adidas]]
+| 1977–1981
+|
+| 1977–1981
+|
+|
+|-
+| {{flagicon|BRA}} [[Topper (sports)|Topper]]
+| 1981–1991
+|
+| 1981–1991
+|
+|
+|-
+| {{flagicon|ENG}} [[Umbro]]
+| 1991–1996
+|
+| 1991–1996
+|
+|
+|-
+| rowspan=3| {{flagicon|USA}} [[Nike, Inc.|Nike]]
+| rowspan=3| 1997–present
+| December 1996
+| 1997–2007
+| Total $200 million~$250 million
+| <ref>{{Cite web|url=https://newslibrary.naver.com/viewer/index.naver?articleId=1996122100099125010&editNo=15&printCount=1&publishDate=1996-12-21&officeId=00009&pageNo=25&printNo=9633&publishType=00010|title=네이버 뉴스 라이브러리|trans-title=Declaration of conquest of the US Nike soccer equipment market|website=NAVER Newslibrary|access-date=26 November 2022|archive-date=26 November 2022|archive-url=https://web.archive.org/web/20221126132057/https://newslibrary.naver.com/viewer/index.naver?articleId=1996122100099125010&editNo=15&printCount=1&publishDate=1996-12-21&officeId=00009&pageNo=25&printNo=9633&publishType=00010|url-status=live}}</ref>
+|-
+| Unknown
+| 2008–2024
+| €69.5&nbsp;million per year
+| <ref>{{cite web|url=https://www.totalsportek.com/money/lucrative-international-football-kit-sponsorship-deals/|title=Most Valuable National Football Team Kit Deals|date=2 September 2016|website=TOTAL SPORTEK|access-date=4 February 2019|archive-date=5 March 2021|archive-url=https://web.archive.org/web/20210305080434/https://www.totalsportek.com/money/lucrative-international-football-kit-sponsorship-deals/|url-status=live}}</ref>
+|-
+| December 2024
+| 2024–2038
+| $100&nbsp;million per year
+| <ref>{{cite web|url=https://ge.globo.com/futebol/selecao-brasileira/noticia/2024/12/06/cbf-renova-contrato-com-a-nike-ate-2038.ghtml|title=CBF renova contrato com a Nike até 2038; veja valores|date=6 December 2024|website=ge|accessdate=6 December 2024}}</ref>
+|}
+
+===Nicknames===
+The Brazil national team is known by different names in various parts of the world. Nicknames for the squad in Brazil include:
+
+* ''Canarinho'', meaning 'Little [[Saffron Finch|Canary]]', a reference to a species of bird commonly found in Brazil that has a vivid yellow color, this phrase was popularized by the late cartoonist Fernando "Mangabeira" Pieruccetti during the [[1950 FIFA World Cup|1950 World Cup]] despite the team not wearing the color yet back then<ref>{{cite web| url=https://www.terra.com.br/istoegente/46/testemunha/| title=Fernando Pieruccetti creates the Canarinhos| work=Terra| access-date=6 October 2006| archive-date=27 July 2020| archive-url=https://web.archive.org/web/20200727035449/http://www.terra.com.br/istoegente/46/testemunha/| url-status=live}}</ref> 
+* ''Amarelinha'' (Little Yellow One)
+* ''Seleção'' (The National Squad)
+* ''Verde-amarela'' (The Green and Yellow)
+* ''Pentacampeão'' (Five-time Champions)<ref>{{cite web| url=http://www.bbc.co.uk/portuguese/forum/020630_copa2002.shtml| title=Reference to Pentacampeão| work=BBC Brasil| access-date=6 October 2006| archive-date=12 July 2011| archive-url=http://archive.wikiwix.com/cache/20110712232520/http://www.bbc.co.uk/portuguese/forum/020630_copa2002.shtml| url-status=dead}}</ref>
+* ''Esquadrão de Ouro'' (The Golden Squad)
+
+Some Latin American commentators often refer to the Brazil team as ''El Scratch'' or ''Scratch du Oro'' (The Scratch), among others.<ref>{{cite web| url=http://www.oocities.org/gszahn/tactics.html| title=Reference to the Scratch| work=Guilherme Soares| access-date=16 June 2011| archive-date=27 July 2020| archive-url=https://web.archive.org/web/20200727040247/http://www.oocities.org/gszahn/tactics.html| url-status=live}}</ref> In the [[2022 FIFA World Cup|2022 World Cup]], [[FIFA]]'s [[YouTube]] channel referred to the team as ''Samba Boys''.<ref>{{Cite web |date=2022-12-09 |title=Samba Boys on the way to the Final 8 |url=https://www.youtube.com/watch?v=NnClPNCkZGs&ab_channel=FIFA |website=FIFA's YouTube}}</ref><ref>{{Cite web |date=2022-12-07 |title=Samba boys turn on the style {{!}} Brazil v Korea Republic {{!}} Round of 16 {{!}} FIFA World Cup Qatar 2022 |url=https://www.youtube.com/watch?v=c0-ZhEkEFtA&ab_channel=FIFA |website=FIFA's YouTube}}</ref>
+
+===Training camp===
+[[File:Teresopolis-Comary1.jpg|thumb|170px|right|[[Granja Comary (CBF)|Granja Comary complex]] is the training camp of the national team.]]
+Brazil's training camp is the [[Granja Comary (CBF)|Granja Comary]] in [[Teresópolis]], located {{cvt|90|km}} from Rio de Janeiro.<ref>{{cite web|url=http://www.coastreporter.net/sports/world/brazil-s-national-team-begins-preparations-for-world-cup-at-home-amid-protests-1.1075303#sthash.RrxygKNZ.dpuf|archive-url=https://web.archive.org/web/20140529103300/http://www.coastreporter.net/sports/world/brazil-s-national-team-begins-preparations-for-world-cup-at-home-amid-protests-1.1075303#sthash.RrxygKNZ.dpuf|url-status=dead|archive-date=29 May 2014|title=Brazil's national team begins preparations for World Cup at home amid protests – World – Coast Reporter|date=29 May 2014}}</ref> Granja Comary was opened in 1987,<ref>{{cite web|url=http://www.copa2014.gov.br/en/noticia/brazils-team-base-camp-granja-comary-reopened|title=Brazil's Team Base Camp Granja Comary is reopened|website=www.copa2014.gov.br|access-date=29 May 2014|archive-url=https://web.archive.org/web/20140529052924/http://www.copa2014.gov.br/en/noticia/brazils-team-base-camp-granja-comary-reopened|archive-date=29 May 2014|url-status=dead}}</ref> and underwent significant renovations in 2013 and 2014.
+
+==Results and fixtures==
+{{Main|Brazil national football team results (2010–present)}}
+
+The following is a list of match results in the last 12 months, as well as any future matches that have been scheduled.
+
+{{legend2|#CCFFCC|Win|border=1px solid #AAAAAA}}
+{{legend2|#FFFFCC|Draw|border=1px solid #AAAAAA}}
+{{legend2|#FFCCCC|Loss|border=1px solid #AAAAAA}}
+{{legend2|#FFFFFF|Fixture|border=1px solid #AAAAAA}}
+
+===2025===
+{{footballbox collapsible
+|format     = 1
+|round      = [[2026 FIFA World Cup qualification (CONMEBOL)|2026 FIFA World Cup qualification]]
+|date       = 4 September 2025
+|time       = {{UTZ|21:30|-3}}
+|team1      = {{fb-rt|BRA}}
+|score      = 3–0
+|team2      = {{fb|CHI}}
+|report     = https://www.fifa.com/en/match-centre/match/520/288315/288316/400020571
+|goals1     =
+*[[Estêvão Willian|Estêvão]] {{goal|38}}
+*[[Lucas Paquetá|Paquetá]] {{goal|72}}
+*[[Bruno Guimarães]] {{goal|76}}
+|goals2     =
+|location   = [[Rio de Janeiro]], Brazil
+|stadium    = [[Maracanã Stadium|Maracanã]]
+|attendance = 57,326
+|referee    = Alexis Herrera ([[Venezuelan Football Federation|Venezuela]])
+|result     = W
+}}
+{{footballbox collapsible
+|format     = 1
+|round      = [[2026 FIFA World Cup qualification (CONMEBOL)|2026 FIFA World Cup qualification]]
+|date       = 9 September 2025
+|time       = {{UTZ|19:30|-4}}
+|team1      = {{fb-rt|BOL}}
+|score      = 1–0
+|team2      = {{fb|BRA}}
+|report     = https://www.fifa.com/en/match-centre/match/520/288315/288316/400020572
+|goals1     =
+*[[Miguel Terceros|Terceros]] {{goal|45+4|pen.}}
+|goals2     =
+|location   = [[El Alto]], Bolivia
+|stadium    = [[Estadio Municipal de El Alto]]
+|attendance = 
+|referee    = Cristian Garay ([[Chilean Football Federation|Chile]])
+|result     = L
+}}
+{{Football box collapsible
+| format     = 1
+| round      = [[Exhibition game#International football|Friendly]]
+| date       = 10 October 2025
+| time       = {{UTZ|20:00|9}}
+| team1      = {{fb-rt|KOR}}
+| score      = 0–5
+| team2      = {{fb|BRA}}
+| report     = https://www.soccerway.com/match/brazil-I9l9aqLq/south-korea-K6Gs7P6G/?mid=UJAwQsfK
+| goals1     =
+| goals2     =
+*[[Estêvão Willian|Estêvão]] {{goal|13||47}}
+*[[Rodrygo]] {{goal|41||49}}
+*[[Vinícius Júnior|Vinícius]] {{goal|77}}
+| location   = [[Seoul]], South Korea
+| stadium    = [[Seoul World Cup Stadium]]
+| attendance = 63,237
+| referee    = [[Abdulrahman Al-Jassim]] ([[Qatar Football Association|Qatar]])
+| result     = W
+}}
+{{Football box collapsible
+| format     = 1
+| round      = [[Kirin Cup Soccer#2025 Kirin Cup Soccer|2025 Kirin Challenge Cup]]
+| date       = 14 October 2025
+| time       = {{UTZ|19:30|9}}
+| team1      = {{fb-rt|JPN}}
+| score      = 3–2
+| team2      = {{fb|BRA}}
+| report     = https://www.soccerway.com/match/brazil-I9l9aqLq/japan-ULXPdOUj/?mid=l4iAKLHs
+| goals1     =
+*[[Takumi Minamino|Minamino]] {{goal|52}}
+*[[Keito Nakamura|Nakamura]] {{goal|62}}
+*[[Ayase Ueda|Ueda]] {{goal|71}}
+| goals2     =
+*[[Paulo Henrique (footballer, born July 1996)|Paulo Henrique]] {{goal|26}}
+*[[Gabriel Martinelli|Martinelli]] {{goal|32}}
+| location   = [[Chōfu]], Japan
+| stadium    = [[Ajinomoto Stadium]]
+| attendance = 44,920
+| referee    = [[Kim Jong-hyeok]] ([[Korea Football Association|South Korea]])
+| result     = L
+}}
+{{Football box collapsible
+| format     = 1
+| round      = [[Exhibition game#International football|Friendly]]
+| date       = 15 November 2025
+| time       = {{UTZ|16:00|0}}
+| team1      = {{fb-rt|BRA}}
+| score      = 2–0
+| team2      = {{fb|SEN}}
+| report     = https://globalsportsarchive.com/en/soccer/match/2025-11-15/brazil-vs-senegal/3933150
+| goals1     = 
+*[[Estêvão Willian|Estêvão]] {{goal|28}}
+* [[Casemiro]] {{goal|35}}
+| goals2     =
+| location   = [[London]], England
+| stadium    = [[Emirates Stadium]]
+| attendance = 58,657
+| referee    = [[Jarred Gillett]] ([[The Football Association|England]])
+| result     = W
+}}
+{{Football box collapsible
+| format     = 1
+| round      = [[Exhibition game#International football|Friendly]]
+| date       = 18 November 2025
+| time       = {{UTZ|20:30|1}}
+| team1      = {{fb-rt|BRA}}
+| score      = 1–1
+| team2      = {{fb|TUN}}
+| report     = https://globalsportsarchive.com/en/soccer/match/2025-11-18/brazil-vs-tunisia/3933151
+| goals1     =
+*[[Estêvão Willian|Estêvão]] {{goal|44|p}}
+| goals2     =
+*[[Hazem Mastouri|Mastouri]] {{goal|23}}
+| location   = [[Lille]], France
+| stadium    = [[Stade Pierre-Mauroy]]
+| attendance = 40,000
+| referee    = [[Jérôme Brisard]] ([[French Football Federation|France]])
+| result     = D
+}}
+
+===2026===
+{{Football box collapsible
+| format     = 1
+| round      = [[Exhibition game#International football|Friendly]]
+| date       = 26 March 2026
+| time       = {{UTZ|16:00|-4}}
+| team1      = {{fb-rt|BRA}}
+| score      = 1–2
+| team2      = {{fb|FRA}}
+| report     = https://www.soccerway.com/match/brazil-I9l9aqLq/france-QkGeVG1n/?mid=few9ITN7
+| goals1     = [[Gleison Bremer|Bremer]] {{goal|78}}
+| goals2     = [[Kylian Mbappé|Mbappé]] {{goal|32}}<br>[[Hugo Ekitike|Ekitike]] {{goal|65}}
+| location   = [[Foxborough, Massachusetts|Foxborough]], [[Massachusetts]], United States
+| stadium    = [[Gillette Stadium]]
+| attendance = 66,215
+| referee    = Guido Gonzales Jr. ([[United States Soccer Federation|United States]])
+| result     = L
+}}
+{{football box collapsible|format=1
+|date              = 31 March 2026
+|time              = 20:00 [[Eastern Daylight Time|EDT]]
+|round             = [[Exhibition game|Friendly]]
+|team1             = {{fb-rt|BRA}}
+|score             = 3–1
+|report            = https://www.soccerway.com/match/brazil-I9l9aqLq/croatia-K8aznggo/?mid=A3LetXFE
+|team2             = {{fb|CRO}} 
+|goals1            = [[Danilo (footballer, born 2001)|Danilo S.]] {{goal|45+2}}<br>[[Igor Thiago]] {{goal|88|pen.}}<br>[[Gabriel Martinelli|Martinelli]] {{goal|90+2}} 
+|goals2            = [[Lovro Majer|Majer]] {{goal|84}}
+|stadium           = [[Camping World Stadium]]
+|location          = [[Orlando, Florida|Orlando]], [[Florida]], United States
+|attendance        = 46,398
+|referee           = [[Armando Villarreal]] ([[United States Soccer Federation|United States]])
+|result            = W
+}}
+{{Football box collapsible
+| format     = 1
+| round      = [[Exhibition game#International football|Friendly]]
+| date       = 31 May 2026
+| time       = {{UTZ|18:30|-3}}
+| team1      = {{fb-rt|BRA}}
+| score      = 6–2
+| team2      = {{fb|PAN}}
+| report     = https://www.fifa.com/en/match-centre/match/cesdwwnxbc5fmajgroc0hqzy2/dezv8l0fzgcxtejl0dwmy1gyc/2m1wojm5bt709wu4kugtytxqs/6ldgjtk9kf1tcfyppin95dxxw
+| goals1     =
+*[[Vinícius Júnior|Vinícius]] {{goal|1}}
+*[[Casemiro]] {{goal|38}}
+*[[Rayan (footballer, born 2006)|Rayan]] {{goal|52}}
+*[[Lucas Paquetá|Paquetá]] {{goal|59}}
+*[[Igor Thiago]] {{goal|62|pen.}}
+*[[Danilo (footballer, born 2001)|Danilo S.]] {{goal|80}}
+| goals2     =
+*[[Matheus Cunha|Cunha]] {{goal|13|o.g.}}
+*[[Carlos Harvey|Harvey]] {{goal|83}}
+| location   = [[Rio de Janeiro]], Brazil
+| stadium    = [[Maracanã Stadium|Maracanã]]
+| attendance = 72,140
+| referee    = Daniel Schlager ([[German Football Association|Germany]])
+| result     = W
+}}
+{{Football box collapsible
+| format     = 1
+| round      = [[Exhibition game#International football|Friendly]]
+| date       = 6 June 2026
+| time       = {{UTZ|18:00|-4}}
+| team1      = {{fb-rt|BRA}}
+| score      = 2–1
+| team2      = {{fb|EGY}}
+| report     = https://www.fifa.com/en/match-centre/match/cesdwwnxbc5fmajgroc0hqzy2/dezv8l0fzgcxtejl0dwmy1gyc/2m1wojm5bt709wu4kugtytxqs/4ceid8yudkkcihumh24hjscno
+| goals1     =
+*[[Bruno Guimarães]] {{goal|7}}
+*[[Endrick (footballer, born 2006)|Endrick]] {{goal|52}}
+| goals2     =
+*[[Mostafa Ziko|Ziko]] {{goal|11}}
+| location   = [[Cleveland]], [[Ohio]], United States
+| stadium    = [[Huntington Bank Field]]
+| attendance = 64,311
+| referee    = Adonai Escobedo ([[Mexican Football Federation|Mexico]])
+| result     = W
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[2026 FIFA World Cup Group C|2026 FIFA World Cup GS]]
+|date       = 13 June 2026
+|time       = {{UTZ|18:00|-4}}
+|team1      = {{fb-rt|BRA}}
+|score      = 1–1
+|team2      = {{fb|MAR}}
+|report     = https://www.fifa.com/en/match-centre/match/17/285023/289273/400021456
+|goals1=
+*[[Vinícius Júnior|Vinícius]] {{goal|32}}
+|goals2=
+*[[Ismael Saibari|Saibari]] {{goal|21}}
+|location   = [[East Rutherford, New Jersey|East Rutherford]], [[New Jersey]], United States
+|stadium    = [[MetLife Stadium]]
+|attendance = 80,663
+|referee    = [[Slavko Vinčić]] ([[Football Association of Slovenia|Slovenia]])
+|result     = D
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[2026 FIFA World Cup Group C|2026 FIFA World Cup GS]]
+|date       = 19 June 2026
+|time       = {{UTZ|20:30|-4}}
+|team1      = {{fb-rt|BRA}}
+|score      = 3–0
+|team2      = {{fb|HAI}}
+|report     = https://www.fifa.com/en/match-centre/match/17/285023/289273/400021457
+|goals1     =
+*[[Matheus Cunha|Cunha]] {{goal|23||36}}
+*[[Vinícius Júnior|Vinícius]] {{goal|45+3}}
+|goals2     =
+|location   = [[Philadelphia]], [[Pennsylvania]], United States
+|stadium    = [[Lincoln Financial Field]]
+|attendance = 68,324
+|referee    = [[Alejandro Hernández Hernández]] ([[Royal Spanish Football Federation|Spain]])
+|result     = W
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[2026 FIFA World Cup Group C|2026 FIFA World Cup GS]]
+|date       = 24 June 2026
+|time       = {{UTZ|18:00|-4}}
+|team1      = {{fb-rt|SCO}}
+|score      = 0–3
+|team2      = {{fb|BRA}}
+|report     = https://www.fifa.com/en/match-centre/match/17/285023/289273/400021455
+|goals1     =
+|goals2     =
+*[[Vinícius Júnior|Vinícius]] {{goal|7|45+3}}
+*[[Matheus Cunha|Cunha]] {{goal|60}}
+|location   = [[Miami Gardens, Florida|Miami Gardens]], Florida, United States
+|stadium    = [[Hard Rock Stadium]]
+|attendance = 64,478
+|referee    = [[César Arturo Ramos]] ([[Mexican Football Federation|Mexico]])
+|result     = W
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[2026_FIFA_World_Cup_knockout_stage#Round_of_32|2026 FIFA World Cup Round of 32]]
+|date       = 29 June 2026
+|time       = {{UTZ|12:00|-5}}
+|team1      = {{fb-rt|BRA}}
+|score      = 2–1
+|team2      = {{fb|JPN}}
+|report     = https://www.fifa.com/en/match-centre/match/17/285023/289287/400021516
+|goals1     =
+*[[Casemiro]] {{goal|56}}
+*[[Gabriel Martinelli|Martinelli]] {{goal|90+5}}
+|goals2     =
+*[[Kaishū Sano|Sano]] {{goal|29}}
+|location   = [[Houston]], Texas, United States
+|stadium    = [[NRG Stadium]]
+|attendance = 68,777
+|referee    = [[Maurizio Mariani]] ([[Italian Football Federation|Italy]])
+|result     =W
+}} 
+{{Football box collapsible
+|format     = 1
+|round      = [[2026_FIFA_World_Cup_knockout_stage#Round_of_16|2026 FIFA World Cup Round of 16]]
+|date       = 5 July 2026
+|time       = {{UTZ|16:00|-4}}
+|team1      = {{fb-rt|BRA}}
+|score      = 1–2 
+|team2      = {{fb|NOR}}
+|report     = https://www.fifa.com/en/match-centre/match/17/285023/289288/400021532
+|goals1     =
+*[[Neymar]] {{goal|90+10|pen.}}
+|goals2     =
+*[[Erling Haaland|Haaland]] {{goal|79||90}}
+|location   = [[East Rutherford, New Jersey|East Rutherford]], New Jersey, United States
+|stadium    = [[MetLife Stadium]]
+|attendance = 80,663
+|referee    = [[Ismail Elfath]] ([[United States Soccer Federation|United States]])
+|result     = L
+}}
+{{footballbox collapsible
+| format     = 1
+| round      = [[Exhibition game#International football|Friendly]]
+| date       = 25 September 2026
+| time       = {{UTZ|--:--|+10}}
+| team1      = {{fb-rt|AUS}}
+| score      =
+| report     = [https://footballaustralia.com.au/news/commbank-socceroos-face-five-time-world-champions-brazil Source]
+| team2      = {{fb|BRA}}
+| goals1     = 
+| goals2     =
+| stadium    = [[North Queensland Stadium]]
+| location   = [[Townsville]], Australia
+| attendance =
+| referee    =
+| result     = 
+}}
+{{footballbox collapsible
+| format     = 1
+| round      = [[Exhibition game#International football|Friendly]]
+| date       = 29 September 2026
+| time       = {{UTZ|--:--|+10}}
+| team1      = {{fb-rt|AUS}}
+| score      =
+| report     = [https://footballaustralia.com.au/news/commbank-socceroos-face-five-time-world-champions-brazil Source]
+| team2      = {{fb|BRA}}
+| goals1     = 
+| goals2     =
+| stadium    = [[Lang Park]]
+| location   = [[Brisbane]], Australia
+| attendance =
+| referee    =
+| result     = 
+}}
+
+==Coaching staff==
+{{Main|List of Brazil national football team managers}}
+
+[[File:Carlo Ancelotti Brazil V Morocco 13 June 2026-47.jpg|thumb|[[Carlo Ancelotti]], the head coach of the Brazil national football team since 26 May 2025, after leaving his former club Real Madrid.]]
+{| class="wikitable" style="text-align:center;"
+!style="color:Green;background:#FFE900"|Position
+!style="color:Green;background:#FFE900"|Name
+!style="color:Green;background:#FFE900"|Ref
+|-
+| style="text-align:left;"|Head coach
+| style="text-align:left;"|{{flagicon|ITA}} [[Carlo Ancelotti]]
+| <ref>{{Cite web |date=2025-05-12 |title=CBF anuncia Carlo Ancelotti como técnico da seleção brasileira |url=https://www.uol.com.br/esporte/futebol/ultimas-noticias/2025/05/12/cbf-anuncia-carlo-ancelotti-como-tecnico-da-selecao.htm |access-date=2025-05-12 |website=UOL |language=pt-br}}</ref>
+|-
+|rowspan=3 style="text-align:left;"|Assistant coaches
+| style="text-align:left;"|{{flagicon|ENG}} [[Paul Clement (football manager)|Paul Clement]]
+|<ref name="Staff">{{cite web|url=https://www.cbf.com.br/selecao-brasileira/noticias/selecao-masculina/comissao-tecnica-viaja-para-acompanhar-partidas-do-brasileir |title=Comissão técnica viaja para observar jogadores dos clubes brasileiros |website=CBF |date=8 April 2024 |access-date=4 June 2024 |language=pt}}</ref>
+|-
+| style="text-align:left;"|{{flagicon|ITA}} [[Davide Ancelotti]]
+|<ref>{{cite web|url=https://bbc.com |title=Lille appoint Davide Ancelotti as new head coach |website=BBC Sport |date=1 June 2026 |access-date=27 June 2026 |language=en}}</ref>
+|-
+| style="text-align:left;"|{{flagicon|ITA}} Luigi Vito Lasala
+|<ref>{{cite web|url=https://www.cbf.com.br/selecao-brasileira/noticias/selecao-masculina/a/selecao-tem-novo-observador-tecnico |title=Seleção tem novo observador técnico |website=CBF |access-date=19 May 2026 |language=pt}}</ref>
+|-
+
+|-
+|rowspan="2" style="text-align:left;"|Goalkeeping coaches
+| style="text-align:left;"|{{flagicon|BRA}} [[Cláudio Taffarel]]
+|<ref name="Taffarel">{{cite web|url=https://ge.globo.com/futebol/selecao-brasileira/noticia/2024/01/29/taffarel-aceita-convite-de-dorival-jr-e-esta-de-volta-a-selecao-brasileira.ghtml |title=Taffarel aceita convite de Dorival Jr e está de volta à seleção brasileira |website=GloboEsporte |date=29 January 2024 |access-date=4 June 2024 |language=pt}}</ref>
+|-
+| style="text-align:left;"|{{flagicon|BRA}} Marco Antônio Trocourt
+|<ref name="Taffarel" />
+|-
+| style="text-align:left;"|Physical coach
+| style="text-align:left;"|{{flagicon|ITA}} Francesco Mauri
+|<ref name="Staff" />
+|-
+|rowspan="2" style="text-align:left;"|Match analysts
+| style="text-align:left;"|{{flagicon|ITA}} Simone Montanaro
+|<ref name="Staff" />
+|-
+| style="text-align:left;"|{{flagicon|BRA}} Thomaz Koerich
+|<ref name="Taffarel" />
+|-
+| style="text-align:left;"|Performance analyst
+| style="text-align:left;"|{{flagicon|ITA}} Mino Fulco
+|<ref name="Staff" />
+|-
+| style="text-align:left;"|Physiologist
+| style="text-align:left;"|{{flagicon|BRA}} Guilherme Passos
+|<ref name="Taffarel" />
+|-
+|rowspan=2 style="text-align:left;"|Doctors
+| style="text-align:left;"|{{flagicon|BRA}} Rodrigo Lasmar
+|<ref>{{cite web|url=https://www.apm.org.br/entrevistas/doutor-selecao-rodrigo-lasmar/ |title=Doutor Seleção |website=Associação Paulista de Medicina |date=27 June 2018 |access-date=12 June 2024 |language=pt}}</ref>
+|-
+| style="text-align:left;"|{{flagicon|BRA}} Andréia Picanço 
+|<ref>{{cite web|url=https://www.band.com.br/esportes/conheca-a-unica-mulher-na-comissao-de-ancelotti-na-selecao-brasileira-202603251346 |title=Conheça a única mulher na comissão de Ancelotti na Seleção Brasileira |website=Band |date=25 March 2026 |language=pt }}</ref>
+|-
+| style="text-align:left;"|Team coordinator
+| style="text-align:left;"|{{flagicon|BRA}} [[Juan (footballer, born 1979)|Juan]]
+|<ref>{{cite web|url=https://ge.globo.com/futebol/times/flamengo/noticia/2024/02/08/juan-deixa-o-flamengo-para-trabalhar-na-cbf.ghtml |title=Juan deixa o Flamengo para trabalhar na CBF |website=GloboEsporte |date=8 February 2024 |access-date=8 June 2024 |language=pt}}</ref>
+|-
+| style="text-align:left;"|Sporting director
+| style="text-align:left;"|{{flagicon|BRA}} [[Rodrigo Caetano]]
+|<ref>{{cite web|url=https://ge.globo.com/futebol/selecao-brasileira/noticia/2024/02/16/agora-e-oficial-rodrigo-caetano-e-o-novo-diretor-de-selecoes-da-cbf.ghtml |title=Agora é oficial! Rodrigo Caetano é o novo diretor de seleções da CBF |website=GloboEsporte |date=16 February 2024 |access-date=4 June 2024 |language=pt}}</ref>
+|}
+
+==Players==
+===Current squad===
+The following 26 players were named in the squad for the [[2026 FIFA World Cup]], and for the pre-tournament friendly matches against [[Panama national football team|Panama]] and [[Egypt national football team|Egypt]] on 31 May and 6 June 2026, respectively.<ref>{{cite web |url=https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/05/18/neymar-vai-para-a-quarta-copa-e-iguala-recorde-entre-brasileiros-veja-a-lista.ghtml/ |title=Neymar vai para a quarta Copa e iguala recorde entre brasileiros; veja a lista |trans-title=Neymar will go to his fourth World Cup and equals the record among Brazilians; see the list |publisher=[[Globo (media company)|Globo]] |date=18 May 2026 |access-date=18 May 2026 |language=pt}}</ref> [[Wesley França|Wesley]] withdrew injured and was replaced by [[Éderson (footballer, born 1999)|Éderson Silva]] on 7 June.<ref>{{cite web |url=https://www.cbf.com.br/selecao-brasileira/noticias/selecao-masculina/a/ederson-e-convocado-pela-selecao-para-a-copa-do-mundo |title=Éderson é convocado pela Seleção para a Copa do Mundo |trans-title=Éderson is called up by the National Team for the World Cup |publisher=[[Brazilian Football Confederation]] |date=7 June 2026 |access-date=7 June 2026 |language=pt |url-status=live |archive-date=8 June 2026 |archive-url=https://web.archive.org/web/20260608032632/https://www.cbf.com.br/selecao-brasileira/noticias/selecao-masculina/a/ederson-e-convocado-pela-selecao-para-a-copa-do-mundo}}</ref>
+<br>''Caps and goals are correct as of 5 July 2026, after the match against [[Norway national football team|Norway]].''
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Alisson Becker|Alisson]]|age={{bda|df=y|1992|10|2}}|caps=83|goals=0|club=[[Liverpool F.C.|Liverpool]]|clubnat=ENG}}
+{{nat fs g player|no=12|pos=GK|name=[[Weverton (footballer, born 1987)|Weverton]]|age={{bda|df=y|1987|12|13}}|caps=11|goals=0|club=[[Grêmio FBPA|Grêmio]]|clubnat=BRA}}
+{{nat fs g player|no=23|pos=GK|name=[[Ederson (footballer, born 1993)|Ederson]]|age={{bda|df=y|1993|8|17}}|caps=32|goals=0|club=[[Fenerbahçe S.K. (football)|Fenerbahçe]]|clubnat=TUR}}
+{{nat fs break}}
+{{nat fs g player|no=3|pos=DF|name=[[Gabriel Magalhães]]|age={{bda|df=yes|1997|12|19}}|caps=22|goals=1|club=[[Arsenal F.C.|Arsenal]]|clubnat=ENG}}
+{{nat fs g player|no=4|pos=DF|name=[[Marquinhos]]|other=[[Captain (association football)|Captain]]|age={{bda|df=y|1994|5|14}}|caps=110|goals=7|club=[[Paris Saint-Germain FC|Paris Saint-Germain]]|clubnat=FRA}}
+{{nat fs g player|no=6|pos=DF|name=[[Alex Sandro]]|age={{bda|df=y|1991|1|26}}|caps=46|goals=2|club=[[CR Flamengo|Flamengo]]|clubnat=BRA}}
+{{nat fs g player|no=13|pos=DF|name=[[Danilo (footballer, born July 1991)|Danilo Luiz]]|age={{bda|df=y|1991|7|15}}|caps=75|goals=1|club=[[CR Flamengo|Flamengo]]|clubnat=BRA}}
+{{nat fs g player|no=14|pos=DF|name=[[Gleison Bremer|Bremer]]|age={{bda|df=y|1997|3|18}}|caps=8|goals=1|club=[[Juventus FC|Juventus]]|clubnat=ITA}}
+{{nat fs g player|no=15|pos=DF|name=[[Léo Pereira (footballer, born 1996)|Léo Pereira]]|age={{bda|df=y|1996|1|31}}|caps=4|goals=0|club=[[CR Flamengo|Flamengo]]|clubnat=BRA}}
+{{nat fs g player|no=16|pos=DF|name=[[Douglas Santos (footballer, born 1994)|Douglas Santos]]|age={{bda|df=y|1994|3|22}}|caps=12|goals=0|club=[[FC Zenit Saint Petersburg|Zenit Saint Petersburg]]|clubnat=RUS}}
+{{nat fs g player|no=24|pos=DF|name=[[Roger Ibañez]]|age={{bda|df=y|1998|11|23}}|caps=8|goals=0|club=[[Al-Ahli Saudi FC|Al-Ahli]]|clubnat=KSA}}
+{{nat fs break}}
+{{nat fs g player|no=2|pos=MF|name=[[Éderson (footballer, born 1999)|Éderson]]|age={{bda|df=y|1999|7|6}}|caps=5|goals=0|club=[[Atalanta BC|Atalanta]]|clubnat=ITA}}
+{{nat fs g player|no=5|pos=MF|name=[[Casemiro]]|other=[[Captain (association football)#Vice-Captain|Vice-Captain]]|age={{bda|df=y|1992|2|23}}|caps=91|goals=10|club=[[Free agent|''Unattached'']]|clubnat=}}
+{{nat fs g player|no=8|pos=MF|name=[[Bruno Guimarães]]|age={{bda|df=y|1997|11|16}}|caps=48|goals=3|club=[[Newcastle United F.C.|Newcastle United]]|clubnat=ENG}}
+{{nat fs g player|no=17|pos=MF|name=[[Fabinho (footballer, born 1993)|Fabinho]]|age={{bda|df=y|1993|10|23}}|caps=36|goals=0|club=[[Al-Ittihad Club (Jeddah)|Al-Ittihad]]|clubnat=KSA}}
+{{nat fs g player|no=18|pos=MF|name=[[Danilo (footballer, born 2001)|Danilo Santos]]|age={{bda|df=y|2001|4|29}}|caps=8|goals=2|club=[[Botafogo FR|Botafogo]]|clubnat=BRA}}
+{{nat fs g player|no=20|pos=MF|name=[[Lucas Paquetá]]|age={{bda|df=y|1997|8|27}}|caps=67|goals=13|club=[[CR Flamengo|Flamengo]]|clubnat=BRA}}
+{{nat fs break}}
+{{nat fs g player|no=7|pos=FW|name=[[Vinícius Júnior]]|age={{bda|df=y|2000|7|12}}|caps=54|goals=13|club=[[Real Madrid CF|Real Madrid]]|clubnat=ESP}}
+{{nat fs g player|no=9|pos=FW|name=[[Matheus Cunha]]|age={{bda|df=y|1999|5|27}}|caps=28|goals=4|club=[[Manchester United F.C.|Manchester United]]|clubnat=ENG}}
+{{nat fs g player|no=|pos=|name=|age=|caps=|goals=|club=|clubnat=}}
+{{nat fs g player|no=10|pos=FW|name=[[Neymar]]<sup>RET</sup>|age={{bda|df=y|1992|02|05}}|caps=130|goals=80|club=[[Santos Futebol Clube|Santos]]|clubnat=BRA}}
+{{nat fs g player|no=|pos=|name=|age=|caps=|goals=|club=|clubnat=}}
+{{nat fs g player|no=11|pos=FW|name=[[Raphinha]]|age={{bda|df=y|1996|12|14}}|caps=41|goals=11|club=[[FC Barcelona|Barcelona]]|clubnat=ESP}}
+{{nat fs g player|no=19|pos=FW|name=[[Endrick (footballer, born 2006)|Endrick]]|age={{bda|df=y|2006|7|21}}|caps=21|goals=4|club=[[Real Madrid]]|clubnat=ESP}}
+{{nat fs g player|no=21|pos=FW|name=[[Luiz Henrique (footballer, born 2001)|Luiz Henrique]]|age={{bda|df=y|2001|1|2}}|caps=16|goals=2|club=[[FC Zenit Saint Petersburg|Zenit Saint Petersburg]]|clubnat=RUS}}
+{{nat fs g player|no=22|pos=FW|name=[[Gabriel Martinelli]]|age={{bda|df=y|2001|6|18}}|caps=27|goals=5|club=[[Arsenal F.C.|Arsenal]]|clubnat=ENG}}
+{{nat fs g player|no=25|pos=FW|name=[[Igor Thiago]]|age={{bda|df=y|2001|6|26}}|caps=5|goals=2|club=[[Brentford F.C.|Brentford]]|clubnat=ENG}}
+{{nat fs g player|no=26|pos=FW|name=[[Rayan (footballer, born 2006)|Rayan]]|age={{bda|df=y|2006|8|3}}|caps=6|goals=1|club=[[AFC Bournemouth|Bournemouth]]|clubnat=ENG}}
+{{nat fs break}}
+*<sup>RET</sup> Player retired from the national team
+{{nat fs end}}
+
+===Recent call-ups===
+The following players have also been called up to the Brazil squad in the last twelve months.
+<!--Sorted by position, most recent call-up, caps, goals, and last name.-->
+{{nat fs r start}}
+{{nat fs r player|no=|pos=GK|name=[[Bento (footballer)|Bento]]|age={{bda|df=y|1999|6|10}}|caps=7|goals=0|club=[[Al Nassr FC|Al-Nassr]]|clubnat=KSA|latest=[[2026 FIFA World Cup]]<sup>PRE</sup>}}
+{{nat fs r player|no=|pos=GK|name=[[Hugo Souza]]|age={{bda|df=y|1999|1|31}}|caps=1|goals=0|club=[[SC Corinthians Paulista|Corinthians]]|clubnat=BRA|latest=[[2026 FIFA World Cup]]<sup>PRE</sup>}}
+{{nat fs r player|no=|pos=GK|name=[[John Victor (footballer)|John Victor]]|age={{bda|df=y|1996|2|13}}|caps=0|goals=0|club=[[Nottingham Forest F.C.|Nottingham Forest]]|clubnat=ENG|latest=[[2026 FIFA World Cup]]<sup>PRE</sup>}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=DF|name=[[Wesley_França|Wesley]]|age={{bda|df=y|2003|9|6}}|caps=8|goals=0|club=[[AS Roma|Roma]]|clubnat=ITA|latest=[[2026 FIFA World Cup]]<sup>INJ</sup>}}
+{{nat fs r player|no=|pos=DF|name=[[Thiago Silva]]|age={{bda|df=y|1984|9|22}}|caps=113|goals=7|club=[[FC Porto|Porto]]|clubnat=POR|latest=[[2026 FIFA World Cup]]<sup>PRE</sup>}}
+{{nat fs r player|no=|pos=DF|name=[[Fabrício Bruno]]|age={{bda|df=y|1996|2|12}}|caps=6|goals=0|club=[[Cruzeiro EC|Cruzeiro]]|clubnat=BRA|latest=[[2026 FIFA World Cup]]<sup>PRE</sup>}}
+{{nat fs r player|no=|pos=DF|name=[[Carlos Augusto (footballer)|Carlos Augusto]]|age={{bda|df=y|1999|1|7}}|caps=4|goals=0|club=[[Inter Milan]]|clubnat=ITA|latest=[[2026 FIFA World Cup]]<sup>PRE</sup>}}
+{{nat fs r player|no=|pos=DF|name=[[Alexsandro (footballer, born 1999)|Alexsandro]]|age={{bda|df=y|1999|8|9}}|caps=3|goals=0|club=[[Lille OSC|Lille]]|clubnat=FRA|latest=[[2026 FIFA World Cup]]<sup>PRE</sup>}}
+{{nat fs r player|no=|pos=DF|name=[[Paulo Henrique (footballer, born July 1996)|Paulo Henrique]]|age={{bda|df=y|1996|7|25}}|caps=2|goals=1|club=[[CR Vasco da Gama|Vasco da Gama]]|clubnat=BRA|latest=[[2026 FIFA World Cup]]<sup>PRE</sup>}}
+{{nat fs r player|no=|pos=DF|name=[[Léo Ortiz]]|age={{bda|df=y|1996|1|3}}|caps=2|goals=0|club=[[CR Flamengo|Flamengo]]|clubnat=BRA|latest=[[2026 FIFA World Cup]]<sup>PRE</sup>}}
+{{nat fs r player|no=|pos=DF|name=[[Vitinho (footballer, born July 1999)|Vitinho]]|age={{bda|df=y|1999|7|23}}|caps=2|goals=0|club=[[Botafogo FR|Botafogo]]|clubnat=BRA|latest=[[2026 FIFA World Cup]]<sup>PRE</sup>}}
+{{nat fs r player|no=|pos=DF|name=[[Kaiki Bruno|Kaiki]]|age={{bda|df=y|2003|3|8}}|caps=1|goals=0|club=[[Cruzeiro EC|Cruzeiro]]|clubnat=BRA|latest=[[2026 FIFA World Cup]]<sup>PRE</sup>}}
+{{nat fs r player|no=|pos=DF|name=[[Luciano Juba]]|age={{bda|df=y|1999|8|29}}|caps=0|goals=0|club=[[Esporte Clube Bahia|Bahia]]|clubnat=BRA|latest=[[2026 FIFA World Cup]]<sup>PRE</sup>}}
+{{nat fs r player|no=|pos=DF|name=[[Vitor Reis]]|age={{bda|df=y|2006|1|12}}|caps=0|goals=0|club=[[Girona FC|Girona]]|clubnat=ESP|latest=[[2026 FIFA World Cup]]<sup>PRE</sup>}}
+{{nat fs r player|no=|pos=DF|name=[[Éder Militão]]|age={{bda|df=y|1998|1|18}}|caps=38|goals=2|club=[[Real Madrid CF|Real Madrid]]|clubnat=ESP|latest=v. {{fb|TUN}}, 18 November 2025}}
+{{nat fs r player|no=|pos=DF|name=[[Caio Henrique]]|age={{bda|df=y|1997|7|31}}|caps=5|goals=0|club=[[AFC Ajax|Ajax]]|clubnat=NED|latest=v. {{fb|TUN}}, 18 November 2025}}
+{{nat fs r player|no=|pos=DF|name=[[Lucas Beraldo]]|age={{bda|df=y|2003|11|24}}|caps=5|goals=0|club=[[Paris Saint-Germain F.C.|Paris Saint-Germain]]|clubnat=FRA|latest=v. {{fb|JPN}}, 14 October 2025}}
+{{nat fs r player|no=|pos=DF|name=[[Vanderson (footballer, born 2001)|Vanderson]]|age={{bda|df=y|2001|6|21}}|caps=7|goals=0|club=[[AS Monaco FC|Monaco]]{{efn|name=mon|[[AS Monaco FC|Monaco]] is a Monégasque club playing in the [[French football league system]].}}|clubnat=FRA|latest=v. {{fb|KOR}}, 10 October 2025 <sup>INJ</sup>}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=MF|name=[[Gerson (footballer, born 1997)|Gerson]]|age={{bda|df=y|1997|5|20}}|caps=14|goals=1|club=[[Cruzeiro EC|Cruzeiro]]|clubnat=BRA|latest=[[2026 FIFA World Cup]]<sup>PRE</sup>}}
+{{nat fs r player|no=|pos=MF|name=[[Andreas Pereira]]|age={{bda|df=y|1996|1|1}}|caps=10|goals=2|club=[[SE Palmeiras|Palmeiras]]|clubnat=BRA|latest=[[2026 FIFA World Cup]]<sup>PRE</sup>}}
+{{nat fs r player|no=|pos=MF|name=[[João Gomes (footballer, born 2001)|João Gomes]]|age={{bda|df=y|2001|2|12}}|caps=10|goals=0|club=[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]|clubnat=ENG|latest=[[2026 FIFA World Cup]]<sup>PRE</sup>}}
+{{nat fs r player|no=|pos=MF|name=[[Andrey Santos]]|age={{bda|df=y|2004|5|3}}|caps=6|goals=0|club=[[Manchester United F.C.|Manchester United]]|clubnat=ENG|latest=[[2026 FIFA World Cup]]<sup>PRE</sup>}}
+{{nat fs r player|no=|pos=MF|name=[[Matheus Pereira (footballer, born 1996)|Matheus Pereira]]|age={{bda|df=y|1996|5|5}}|caps=1|goals=0|club=[[Cruzeiro EC|Cruzeiro]]|clubnat=BRA|latest=[[2026 FIFA World Cup]]<sup>PRE</sup>}}
+{{nat fs r player|no=|pos=MF|name=[[Gabriel Sara]]|age={{bda|df=y|1999|6|26}}|caps=1|goals=0|club=[[Galatasaray S.K. (football)|Galatasaray]]|clubnat=TUR|latest=[[2026 FIFA World Cup]]<sup>PRE</sup>}}
+{{nat fs r player|no=|pos=MF|name=[[André (footballer, born 2001)|André]]|age={{bda|df=y|2001|7|16}}|caps=13|goals=0|club=[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]|clubnat=ENG|latest=v. {{fb|JPN}}, 14 October 2025}}
+{{nat fs r player|no=|pos=MF|name=[[Joelinton]]|age={{bda|df=y|1996|8|14}}|caps=8|goals=1|club=[[Newcastle United F.C.|Newcastle United]]|clubnat=ENG|latest=v. {{fb|JPN}}, 14 October 2025}}
+{{nat fs r player|no=|pos=MF|name=[[Jean Lucas (footballer, born 1998)|Jean Lucas]]|age={{bda|df=y|1998|6|22}}|caps=1|goals=0|club=[[Esporte Clube Bahia|Bahia]]|clubnat=BRA|latest=v. {{fb|BOL}}, 9 September 2025}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=FW|name=[[Gabriel Jesus]]|age={{bda|df=y|1997|4|3}}|caps=64|goals=19|club=[[Arsenal F.C.|Arsenal]]|clubnat=ENG|latest=[[2026 FIFA World Cup]]<sup>PRE</sup>}}
+{{nat fs r player|no=|pos=FW|name=[[Richarlison]]|age={{bda|df=y|1997|5|10}}|caps=54|goals=20|club=[[Tottenham Hotspur F.C.|Tottenham Hotspur]]|clubnat=ENG|latest=[[2026 FIFA World Cup]]<sup>PRE</sup>}}
+{{nat fs r player|no=|pos=FW|name=[[Antony (footballer, born 2000)|Antony]]|age={{bda|df=y|2000|2|24}}|caps=16|goals=2|club=[[Real Betis|Betis]]|clubnat=ESP|latest=[[2026 FIFA World Cup]]<sup>PRE</sup>}}
+{{nat fs r player|no=|pos=FW|name=[[Savinho]]|age={{bda|df=y|2004|4|10}}|caps=13|goals=1|club=[[Manchester City F.C.|Manchester City]]|clubnat=ENG|latest=[[2026 FIFA World Cup]]<sup>PRE</sup>}}
+{{nat fs r player|no=|pos=FW|name=[[João Pedro (footballer, born 2001)|João Pedro]]|age={{bda|df=y|2001|9|26}}|caps=8|goals=0|club=[[Chelsea F.C.|Chelsea]]|clubnat=ENG|latest=[[2026 FIFA World Cup]]<sup>PRE</sup>}}
+{{nat fs r player|no=|pos=FW|name=[[Igor Jesus (footballer, born 2001)|Igor Jesus]]|age={{bda|df=y|2001|2|25}}|caps=5|goals=1|club=[[Nottingham Forest F.C.|Nottingham Forest]]|clubnat=ENG|latest=[[2026 FIFA World Cup]]<sup>PRE</sup>}}
+{{nat fs r player|no=|pos=FW|name=[[Pedro (footballer, born 1997)|Pedro]]|age={{bda|df=y|1997|6|20}}|caps=2|goals=1|club=[[CR Flamengo|Flamengo]]|clubnat=BRA|latest=[[2026 FIFA World Cup]]<sup>PRE</sup>}}
+{{nat fs r player|no=|pos=FW|name=[[Kaio Jorge]]|age={{bda|df=y|2002|1|24}}|caps=1|goals=0|club=[[Cruzeiro EC|Cruzeiro]]|clubnat=BRA|latest=[[2026 FIFA World Cup]]<sup>PRE</sup>}}
+{{nat fs r player|no=|pos=FW|name=[[Samuel Lino]]|age={{bda|df=y|1999|12|23}}|caps=1|goals=0|club=[[CR Flamengo|Flamengo]]|clubnat=BRA|latest=[[2026 FIFA World Cup]]<sup>PRE</sup>}}
+{{nat fs r player|no=|pos=FW|name=[[Rodrygo]]|age={{bda|df=y|2001|1|9}}|caps=37|goals=9|club=[[Real Madrid CF|Real Madrid]]|clubnat=ESP|latest=v. {{fb|TUN}}, 18 November 2025}}
+{{nat fs r player|no=|pos=FW|name=[[Estêvão Willian|Estêvão]]|age={{bda|df=y|2007|4|24}}|caps=11|goals=5|club=[[Chelsea F.C.|Chelsea]]|clubnat=ENG|latest=v. {{fb|TUN}}, 18 November 2025}}
+{{nat fs r player|no=|pos=FW|name=[[Vitor Roque]]|age={{bda|df=y|2005|2|28}}|caps=2|goals=0|club=[[SE Palmeiras|Palmeiras]]|clubnat=BRA|latest=v. {{fb|TUN}}, 18 November 2025}}
+{{nat fs break}}
+* <sup>INJ</sup> Player withdrew from the squad due to injury
+*<sup>RET</sup> Player retired from the national team
+* <sup>SUS</sup> Player served suspension
+* <sup>WIT</sup> Player withdrew from the squad due to non-injury issue
+* <sup>EXP</sup> Player expelled from squad
+{{nat fs end}}
+
+==Individual records==
+{{Main|Brazil national football team records and statistics}}
+
+{{#section-h:Brazil national football team records and statistics|Individual records}}
+
+===Manager records===
+[[Mário Zagallo]] became the first person to win the [[FIFA World Cup]] both as a player ([[1958 FIFA World Cup|1958]] and [[1962 FIFA World Cup|1962]]) and as a manager ([[1970 FIFA World Cup|1970]]). In 1970, at the age of 38, he became the second-youngest coach to win the tournament. While still in Brazil as an assistant coach, the team won the [[1994 FIFA World Cup]].<ref>{{Cite web |last=Lewis |first=Rhett |title=Brazil National Football Team: The History Of The Selecao |url=https://historyofsoccer.info/brazil-national-football-team |access-date=4 October 2022 |website=History Of Soccer |date=15 August 2022 |language=en-US |archive-date=4 October 2022 |archive-url=https://web.archive.org/web/20221004100908/https://historyofsoccer.info/brazil-national-football-team |url-status=live }}</ref>
+
+==Competitive record==
+{{Color box|gold|border=darkgray}} '''Champions'''&nbsp;&nbsp;{{Color box|silver|border=darkgray}} '''Runners-up'''&nbsp;&nbsp;{{Color box|#cc9966|border=darkgray}} '''Third place'''&nbsp;&nbsp;{{Color box|#9acdff|border=darkgray}} Fourth place&nbsp;&nbsp;{{legend-inline|white|border=3px solid red;}} Tournament played fully or partially on home soil&nbsp;&nbsp;
+
+:''*Draws include knockout matches decided via [[Penalty shoot-out (association football)|penalty shoot-out]].''
+
+===FIFA World Cup===
+{{Main|Brazil at the FIFA World Cup}}
+{{See also|FIFA World Cup records and statistics}}
+
+Brazil has qualified for every FIFA World Cup they entered, never requiring a qualifying play-off. With five titles, they have won the tournament on more occasions than any other national team.
+
+{| class="wikitable nowrap" style="text-align: center;"
+!colspan=10|[[FIFA World Cup]] record
+! style="width:1%;" rowspan=28|
+!colspan=8|[[FIFA World Cup qualification|Qualification]] record
+|-
+!Year
+!Round
+!Position
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!Squad
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!—
+|-
+| {{flagicon|Uruguay}} [[1930 FIFA World Cup|1930]]
+| Group stage
+| 6th
+| 2
+| 1
+| 0
+| 1
+| 5
+| 2
+| [[1930 FIFA World Cup squads#Brazil|Squad]]
+| colspan=7|''Qualified as invitees''
+|-
+| {{flagicon|Italy|1861}} [[1934 FIFA World Cup|1934]]
+| Round of 16
+| 14th
+| 1
+| 0
+| 0
+| 1
+| 1
+| 3
+| [[1934 FIFA World Cup squads#Brazil|Squad]]
+| colspan=7 rowspan=2|''Qualified automatically''
+|- style="background:#c96"
+| {{flagicon|France|1794}} [[1938 FIFA World Cup|1938]]
+| '''Third place'''
+| '''3rd'''
+| '''5'''
+| '''3'''
+| '''1'''
+| '''1'''
+| '''14'''
+| '''11'''
+| '''[[1938 FIFA World Cup squads#Brazil|Squad]]'''
+|- style="background:Silver;"
+| style="border: 3px solid red"|{{flagicon|Brazil|1889}} [[1950 FIFA World Cup|1950]]
+| '''[[1950 FIFA World Cup Final|Runners-up]]'''
+| '''2nd'''
+| '''6'''
+| '''4'''
+| '''1'''
+| '''1'''
+| '''22'''
+| '''6'''
+| '''[[1950 FIFA World Cup squads#Brazil|Squad]]'''
+| colspan=7|''Qualified as hosts''
+|-
+| {{flagicon|Switzerland}} [[1954 FIFA World Cup|1954]]
+| Quarter-finals
+| 5th
+| 3
+| 1
+| 1
+| 1
+| 8
+| 5
+| [[1954 FIFA World Cup squads#Brazil|Squad]]
+| 4
+| 4
+| 0
+| 0
+| 8
+| 1
+| [[1954 FIFA World Cup qualification|1954]]
+|- style="background:Gold;"
+| {{flagicon|Sweden}} [[1958 FIFA World Cup|1958]]
+| '''[[1958 FIFA World Cup Final|Champions]]'''
+| '''1st'''
+| '''6'''
+| '''5'''
+| '''1'''
+| '''0'''
+| '''16'''
+| '''4'''
+| '''[[1958 FIFA World Cup squads#Brazil|Squad]]'''
+| 2
+| 1
+| 1
+| 0
+| 2
+| 1
+| [[1958 FIFA World Cup qualification (CONMEBOL)|1958]]
+|- style="background:Gold;"
+| {{flagicon|Chile}} [[1962 FIFA World Cup|1962]]
+| '''[[1962 FIFA World Cup Final|Champions]]'''
+| '''1st'''
+| '''6'''
+| '''5'''
+| '''1'''
+| '''0'''
+| '''14'''
+| '''5'''
+| '''[[1962 FIFA World Cup squads#Brazil|Squad]]'''
+| bgcolor=#f8f9fa colspan=7 rowspan=2|{{nowrap|''Qualified as defending champions''}}
+|-
+| {{flagicon|England}} [[1966 FIFA World Cup|1966]]
+| Group stage
+| 11th
+| 3
+| 1
+| 0
+| 2
+| 4
+| 6
+| [[1966 FIFA World Cup squads#Brazil|Squad]]
+|- style="background:Gold;"
+| {{flagicon|Mexico}} [[1970 FIFA World Cup|1970]]
+| '''[[1970 FIFA World Cup Final|Champions]]'''
+| '''1st'''
+| '''6'''
+| '''6'''
+| '''0'''
+| '''0'''
+| '''19'''
+| '''7'''
+| '''[[1970 FIFA World Cup squads#Brazil|Squad]]'''
+| 6
+| 6
+| 0
+| 0
+| 23
+| 2
+| [[1970 FIFA World Cup qualification (CONMEBOL)|1970]]
+|- style="background:#9acdff;"
+| {{flagicon|West Germany}} [[1974 FIFA World Cup|1974]]
+| Fourth place
+| 4th
+| 7
+| 3
+| 2
+| 2
+| 6
+| 4
+| [[1974 FIFA World Cup squads#Brazil|Squad]]
+| colspan=7|''Qualified as defending champions''
+|- style="background:#c96"
+| {{flagicon|Argentina|1861}} [[1978 FIFA World Cup|1978]]
+| '''Third place'''
+| '''3rd'''
+| '''7'''
+| '''4'''
+| '''3'''
+| '''0'''
+| '''10'''
+| '''3'''
+| '''[[1978 FIFA World Cup squads#Brazil|Squad]]'''
+| 6
+| 4
+| 2
+| 0
+| 17
+| 1
+| [[1978 FIFA World Cup qualification (CONMEBOL)|1978]]
+|-
+| {{flagicon|Spain}} [[1982 FIFA World Cup|1982]]
+| {{nowrap|Second group stage}}
+| 5th
+| 5
+| 4
+| 0
+| 1
+| 15
+| 6
+| [[1982 FIFA World Cup squads#Brazil|Squad]]
+| 4
+| 4
+| 0
+| 0
+| 11
+| 2
+| [[1982 FIFA World Cup qualification (CONMEBOL)|1982]]
+|-
+| {{flagicon|Mexico}} [[1986 FIFA World Cup|1986]]
+| Quarter-finals
+| 5th
+| 5
+| 4
+| 1
+| 0
+| 10
+| 1
+| [[1986 FIFA World Cup squads#Brazil|Squad]]
+| 4
+| 2
+| 2
+| 0
+| 6
+| 2
+| [[1986 FIFA World Cup qualification (CONMEBOL)|1986]]
+|-
+| {{flagicon|Italy|1946}} [[1990 FIFA World Cup|1990]]
+| Round of 16
+| 9th
+| 4
+| 3
+| 0
+| 1
+| 4
+| 2
+| [[1990 FIFA World Cup squads#Brazil|Squad]]
+| 4
+| 3
+| 1
+| 0
+| 13
+| 1
+| [[1990 FIFA World Cup qualification (CONMEBOL)|1990]]
+|- style="background:Gold;"
+| {{flagicon|United States}} [[1994 FIFA World Cup|1994]]
+| '''[[1994 FIFA World Cup Final|Champions]]'''
+| '''1st'''
+| '''7'''
+| '''5'''
+| '''2'''
+| '''0'''
+| '''11'''
+| '''3'''
+| '''[[1994 FIFA World Cup squads#Brazil|Squad]]'''
+| 8
+| 5
+| 2
+| 1
+| 20
+| 4
+| [[1994 FIFA World Cup qualification (CONMEBOL)|1994]]
+|- style="background:silver"
+| {{flagicon|France|1974}} [[1998 FIFA World Cup|1998]]
+| '''[[1998 FIFA World Cup Final|Runners-up]]'''
+| '''2nd'''
+| '''7'''
+| '''4'''
+| '''1'''
+| '''2'''
+| '''14'''
+| '''10'''
+| '''[[1998 FIFA World Cup squads#Brazil|Squad]]'''
+| colspan=7|''Qualified as defending champions''
+|- style="background:Gold;"
+| {{flagicon|South Korea|1997}} {{flagicon|Japan}} [[2002 FIFA World Cup|2002]]
+| '''[[2002 FIFA World Cup Final|Champions]]'''
+| '''1st'''
+| '''7'''
+| '''7'''
+| '''0'''
+| '''0'''
+| '''18'''
+| '''4'''
+| '''[[2002 FIFA World Cup squads#Brazil|Squad]]'''
+| 18
+| 9
+| 3
+| 6
+| 31
+| 17
+| [[2002 FIFA World Cup qualification (CONMEBOL)|2002]]
+|-
+| {{flagicon|Germany}} [[2006 FIFA World Cup|2006]]
+| rowspan=2| Quarter-finals
+| 5th
+| 5
+| 4
+| 0
+| 1
+| 10
+| 2
+| [[2006 FIFA World Cup squads#Brazil|Squad]]
+| 18
+| 9
+| 7
+| 2
+| 35
+| 17
+| [[2006 FIFA World Cup qualification (CONMEBOL)|2006]]
+|-
+| {{flagicon|South Africa}} [[2010 FIFA World Cup|2010]]
+| 6th
+| 5
+| 3
+| 1
+| 1
+| 9
+| 4
+| [[2010 FIFA World Cup squads#Brazil|Squad]]
+| 18
+| 9
+| 7
+| 2
+| 33
+| 11
+| [[2010 FIFA World Cup qualification (CONMEBOL)|2010]]
+|- style="background:#9acdff;"
+| style="border: 3px solid red"|{{flagicon|Brazil}} [[2014 FIFA World Cup|2014]]
+| Fourth place
+| 4th
+| 7
+| 3
+| 2
+| 2
+| 11
+| 14
+| [[2014 FIFA World Cup squads#Brazil|Squad]]
+| colspan=7|''Qualified as hosts''
+|-
+| {{flagicon|Russia}} [[2018 FIFA World Cup|2018]]
+| rowspan=2| Quarter-finals
+| 6th
+| 5
+| 3
+| 1
+| 1
+| 8
+| 3
+| [[2018 FIFA World Cup squads#Brazil|Squad]]
+| 18
+| 12
+| 5
+| 1
+| 41
+| 11
+| [[2018 FIFA World Cup qualification (CONMEBOL)|2018]]
+|-
+| {{flagicon|Qatar}} [[2022 FIFA World Cup|2022]]
+| 7th
+| 5
+| 3
+| 1
+| 1
+| 8
+| 3
+| [[2022 FIFA World Cup squads#Brazil|Squad]]
+| 17
+| 14
+| 3
+| 0
+| 40
+| 5
+| [[2022 FIFA World Cup qualification (CONMEBOL)|2022]]
+|-
+| {{nowrap|{{flagicon|Canada}} {{flagicon|Mexico}} {{flagicon|United States}} [[2026 FIFA World Cup|2026]]}}
+| Round of 16
+| 11th
+| 5
+| 3
+| 1
+| 1
+| 10
+| 4
+| [[2026 FIFA World Cup squads#Brazil|Squad]]
+| 18
+| 8
+| 4
+| 6
+| 24
+| 17
+| [[2026 FIFA World Cup qualification (CONMEBOL)|2026]]
+|-
+| {{flagicon|Morocco}} {{flagicon|Portugal}} {{flagicon|Spain}} [[2030 FIFA World Cup|2030]]
+| colspan=9 rowspan=2|''To be determined''
+| colspan=6 rowspan=2|''To be determined''
+| [[2030 FIFA World Cup qualification (CONMEBOL)|2030]]
+|-
+| {{flagicon|Saudi Arabia}} [[2034 FIFA World Cup|2034]]
+| [[2034 FIFA World Cup qualification (CONMEBOL)|2034]]
+|-
+!Total:{{Tooltip|23/23|Number of tournaments qualified for}}
+!colspan=2|5 Titles
+!119
+!79
+!20
+!20
+!247
+!112
+!—
+!145
+!90
+!37
+!18
+!304
+!92
+!—
+|}
+
+===Copa América===
+{{Main|Brazil at the Copa América}}
+
+{| class="wikitable nowrap" style="text-align:center"
+!colspan=10|[[Copa América|South American Championship / Copa América]] record
+|-
+!width=100|Year
+!width=95|Round
+!width=60|Position
+!width=20|{{Abbr|Pld|Matches played}}
+!width=20|{{Abbr|W|Matches won}}
+!width=20|{{Abbr|D|Matches drawn}}
+!width=20|{{Abbr|L|Matches lost}}
+!width=20|{{Abbr|GF|Goals for}}
+!width=20|{{Abbr|GA|Goals against}}
+!width=60|Squad
+|- style="background:#c96"
+| {{flagicon|Argentina|1861}} [[1916 South American Championship|1916]]|| '''Third place''' || '''3rd''' || '''3''' || '''0''' || '''2''' || '''1''' || '''3''' || '''4'''
+|'''[[1916 South American Championship squads#Brazil|Squad]]'''
+|- style="background:#c96"
+| {{flagicon|Uruguay}} [[1917 South American Championship|1917]]|| '''Third place''' || '''3rd''' || '''3''' || '''1''' || '''0''' || '''2''' || '''7''' || '''8'''
+|'''[[1917 South American Championship squads#Brazil|Squad]]'''
+|- style="background:gold"
+| style="border:3px solid red"|{{flagicon|Brazil|1889}} [[1919 South American Championship|1919]] || '''Champions''' || '''1st''' || '''4''' || '''3''' || '''1''' || '''0''' || '''12''' || '''3'''
+|'''[[1919 South American Championship squads#Brazil|Squad]]'''
+|- style="background:#c96"
+| {{flagicon|Chile}} [[1920 South American Championship|1920]]|| '''Third place''' || '''3rd''' || '''3''' || '''1''' || '''0''' || '''2''' || '''1''' || '''8'''
+|'''[[1920 South American Championship squads#Brazil|Squad]]'''
+|- style="background:silver"
+| {{flagicon|Argentina}} [[1921 South American Championship|1921]]|| '''Runners-up''' || '''2nd''' || '''3''' || '''1''' || '''0''' || '''2''' || '''4''' || '''3'''
+|'''[[1921 South American Championship squads#Brazil|Squad]]'''
+|- style="background:gold"
+| style="border:3px solid red"|{{flagicon|Brazil|1889}} [[1922 South American Championship|1922]]|| '''Champions''' || '''1st''' || '''5''' || '''2''' || '''3''' || '''0''' || '''7''' || '''2'''
+|'''[[1922 South American Championship squads#Brazil|Squad]]'''
+|- style="background:#9acdff;"
+| {{flagicon|Uruguay}} [[1923 South American Championship|1923]]|| Fourth place || 4th || 3 || 0 || 0 || 3 || 2 || 5
+|[[1923 South American Championship squads#Brazil|Squad]]
+|-
+| {{flagicon|Uruguay}} [[1924 South American Championship|1924]]||colspan=9|''Withdrew''
+|- style="background:silver"
+| {{flagicon|Argentina|1861}} [[1925 South American Championship|1925]]|| '''Runners-up''' || '''2nd''' || '''4''' || '''2''' || '''1''' || '''1''' || '''11''' || '''9'''
+|'''[[1925 South American Championship squads#Brazil|Squad]]'''
+|-
+| {{flagicon|Chile}} [[1926 South American Championship|1926]]||colspan=9 rowspan=4|''Withdrew''
+|-
+| {{flagicon|Peru|1825}} [[1927 South American Championship|1927]]
+|-
+| {{flagicon|Argentina|1861}} [[1929 South American Championship|1929]]
+|-
+| {{flagicon|Peru|1825}} [[1935 South American Championship|1935]]
+|- style="background:silver"
+| {{flagicon|Argentina|1861}} [[1937 South American Championship|1937]]|| '''Runners-up''' || '''2nd''' || '''6''' || '''4''' || '''0''' || '''2''' || '''17''' || '''11'''
+|'''[[1937 South American Championship squads#Brazil|Squad]]'''
+|-
+| {{flagicon|Peru|1825}} [[1939 South American Championship|1939]]||colspan=9 rowspan=2|''Withdrew''
+|-
+| {{flagicon|Chile}} [[1941 South American Championship|1941]]
+|- style="background:#c96"
+| {{flagicon|Uruguay}} [[1942 South American Championship|1942]]|| '''Third place''' || '''3rd''' || '''6''' || '''3''' || '''1''' || '''2''' || '''15''' || '''7'''
+|'''[[1942 South American Championship squads#Brazil|Squad]]'''
+|- style="background:silver"
+| {{flagicon|Chile}} [[1945 South American Championship|1945]]|| '''Runners-up''' || '''2nd''' || '''6''' || '''5''' || '''0''' || '''1''' || '''19''' || '''5'''
+|'''[[1945 South American Championship squads#Brazil|Squad]]'''
+|- style="background:silver"
+| {{flagicon|Argentina|1861}} [[1946 South American Championship|1946]]|| '''Runners-up''' || '''2nd''' || '''5''' || '''3''' || '''1''' || '''1''' || '''13''' || '''7'''
+|'''[[1946 South American Championship squads#Brazil|Squad]]'''
+|-
+| {{flagicon|Ecuador|1900}} [[1947 South American Championship|1947]]||colspan=9|''Withdrew''
+|- style="background:gold"
+| style="border:3px solid red"|{{flagicon|Brazil|1889}} [[1949 South American Championship|1949]]|| '''Champions''' || '''1st''' || '''8''' || '''7''' || '''0''' || '''1''' || '''46''' || '''7'''
+|'''[[1949 South American Championship squads#Brazil|Squad]]'''
+|- style="background:silver"
+| {{flagicon|Peru|football}} [[1953 South American Championship|1953]]|| '''Runners-up''' || '''2nd''' || '''7''' || '''4''' || '''0''' || '''3''' || '''17''' || '''9'''
+|'''[[1953 South American Championship squads#Brazil|Squad]]'''
+|-
+| {{flagicon|Chile}} [[1955 South American Championship|1955]]||colspan=9|''Withdrew''
+|- style="background:#9acdff;"
+| {{flagicon|Uruguay}} [[1956 South American Championship|1956]]|| Fourth place || 4th || 5 || 2 || 2 || 1 || 4 || 5
+|[[1956 South American Championship squads#Brazil|Squad]]
+|- style="background:silver"
+| {{flagicon|Peru|football}} [[1957 South American Championship|1957]]|| '''Runners-up''' || '''2nd''' || '''6''' || '''4''' || '''0''' || '''2''' || '''23''' || '''9'''
+|'''[[1957 South American Championship squads#Brazil|Squad]]'''
+|- style="background:silver"
+| {{flagicon|Argentina|1861}} [[1959 South American Championship (Argentina)|1959]]|| '''Runners-up''' || '''2nd''' || '''6''' || '''4''' || '''2''' || '''0''' || '''17''' || '''7'''
+|'''[[1959 South American Championship (Argentina) squads#Brazil|Squad]]'''
+|- style="background:#c96"
+| {{flagicon|Ecuador|1900}} [[1959 South American Championship (Ecuador)|1959]]|| '''Third place''' || '''3rd''' || '''4''' || '''2''' || '''0''' || '''2''' || '''7''' || '''10'''
+|'''[[1959 South American Championship (Ecuador) squads#Brazil|Squad]]'''
+|- style="background:#9acdff;"
+| {{flagicon|Bolivia}} [[1963 South American Championship|1963]]|| Fourth place || 4th || 6 || 2 || 1 || 3 || 12 || 13
+|[[1963 South American Championship squads#Brazil|Squad]]
+|-
+| {{flagicon|Uruguay}} [[1967 South American Championship|1967]]||colspan=9|''Withdrew''
+|- style="background:#c96"
+| style="border: 3px solid red"|{{flagicon|UNASUR}} [[1975 Copa América|1975]]|| '''Third place''' || '''3rd''' || '''6''' || '''5''' || '''0''' || '''1''' || '''16''' || '''4'''
+|'''[[1975 Copa América squads#Brazil|Squad]]'''
+|- style="background:#c96"
+| style="border: 3px solid red"|{{flagicon|UNASUR}} [[1979 Copa América|1979]]|| '''Third place''' || '''3rd''' || '''6''' || '''2''' || '''2''' || '''2''' || '''10''' || '''9'''
+|'''[[1979 Copa América squads#Brazil|Squad]]'''
+|- style="background:silver"
+| style="border: 3px solid red"|{{flagicon|UNASUR}} [[1983 Copa América|1983]]|| '''[[1983 Copa América final|Runners-up]]''' || '''2nd''' || '''8''' || '''2''' || '''4''' || '''2''' || '''8''' || '''5'''
+|'''[[1983 Copa América squads#Brazil|Squad]]'''
+|-
+| {{flagicon|Argentina|1861}} [[1987 Copa América|1987]]|| Group stage || 5th || 2 || 1 || 0 || 1 || 5 || 4
+|[[1987 Copa América squads#Brazil|Squad]]
+|- style="background:gold"
+| style="border:3px solid red"|{{flagicon|Brazil|1968}} [[1989 Copa América|1989]]|| '''Champions''' || '''1st''' || '''7''' || '''5''' || '''2''' || '''0''' || '''11''' || '''1'''
+|'''[[1989 Copa América squads#Brazil|Squad]]'''
+|- style="background:silver"
+| {{flagicon|Chile}} [[1991 Copa América|1991]]|| '''Runners-up''' || '''2nd''' || '''7''' ||''' 4''' || '''1''' || '''2''' || '''12''' || '''8'''
+|'''[[1991 Copa América squads#Brazil|Squad]]'''
+|-
+| {{flagicon|Ecuador|1900}} [[1993 Copa América|1993]]|| Quarter-finals || 5th || 4 || 1 || 2 || 1 || 6 || 4
+|[[1993 Copa América squads#Brazil|Squad]]
+|- style="background:silver"
+| {{flagicon|Uruguay}} [[1995 Copa América|1995]]|| '''[[1995 Copa América final|Runners-up]]''' || '''2nd''' || '''6''' || '''4''' || '''2''' || '''0''' || '''10''' || '''3'''
+|'''[[1995 Copa América squads#Brazil|Squad]]'''
+|- style="background:gold"
+| {{flagicon|Bolivia}} [[1997 Copa América|1997]]|| '''[[1997 Copa América final|Champions]]''' || '''1st''' || '''6''' || '''6''' || '''0''' || '''0''' || '''22''' || '''3'''
+|'''[[1997 Copa América squads#Brazil|Squad]]'''
+|- style="background:gold"
+| {{flagicon|Paraguay|1990}} [[1999 Copa América|1999]]|| '''[[1999 Copa América final|Champions]]''' || '''1st''' || '''6''' || '''6''' || '''0''' || '''0''' || '''17''' || '''2'''
+|'''[[1999 Copa América squads#Brazil|Squad]]'''
+|-
+| {{flagicon|Colombia}} [[2001 Copa América|2001]]|| Quarter-finals || 6th || 4 || 2 || 0 || 2 || 5 || 4
+|[[2001 Copa América squads#Brazil|Squad]]
+|- style="background:gold"
+| {{flagicon|Peru|football}} [[2004 Copa América|2004]]|| '''[[2004 Copa América final|Champions]]''' || '''1st''' || '''6''' || '''3''' || '''2''' || '''1''' || '''13''' || '''6'''
+|'''[[2004 Copa América squads#Brazil|Squad]]'''
+|- style="background:gold"
+| {{flagicon|Venezuela}} [[2007 Copa América|2007]]|| '''[[2007 Copa América final|Champions]]''' || '''1st''' || '''6''' || '''4''' || '''1''' || '''1''' || '''15''' || '''5'''
+|'''[[2007 Copa América squads#Brazil|Squad]]'''
+|-
+| {{flagicon|Argentina}} [[2011 Copa América|2011]]|| rowspan=2|Quarter-finals || 8th || 4 || 1 || 3 || 0 || 6 || 4
+|[[2011 Copa América squads#Brazil|Squad]]
+|-
+| {{flagicon|Chile}} [[2015 Copa América|2015]]|| 5th || 4 || 2 || 1 || 1 || 5 || 4
+|[[2015 Copa América squads#Brazil|Squad]]
+|-
+| {{flagicon|United States}} [[Copa América Centenario|2016]]|| Group stage || 9th || 3 || 1 || 1 || 1 || 7 || 2
+|[[Copa América Centenario squads#Brazil|Squad]]
+|- style="background:gold"
+| style="border:3px solid red"|{{flagicon|Brazil}} [[2019 Copa América|2019]]|| '''[[2019 Copa América final|Champions]]''' || '''1st''' || '''6''' || '''4''' || '''2''' || '''0''' || '''13''' || '''1'''
+|'''[[2019 Copa América squads#Brazil|Squad]]'''
+|- style="background:silver"
+| style="border:3px solid red"|{{flagicon|Brazil}} [[2021 Copa América|2021]]|| '''[[2021 Copa América final|Runners-up]]''' || '''2nd''' || '''7''' || '''5''' || '''1''' || '''1''' || '''12''' || '''3'''
+|'''[[2021 Copa América squads#Brazil|Squad]]'''
+|-
+| {{flagicon|United States}} [[2024 Copa América|2024]]|| Quarter-finals || 6th || 4 || 1 || 3 || 0 || 5 || 2
+|[[2024 Copa América squads#Brazil|Squad]]
+|-
+!Total||9 Titles||38/48||195||109||41||45||435||206||—
+|}
+
+===FIFA Confederations Cup===
+{{Main|Brazil at the FIFA Confederations Cup}}
+
+{| class="wikitable" style="text-align:center"
+!colspan=10|[[FIFA Confederations Cup]] record
+|-
+!Year
+!Round
+!Position
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!Squad
+|-
+| {{flagicon|Saudi Arabia}} [[1992 King Fahd Cup|1992]]
+| colspan=9 rowspan=2|''Did not qualify''
+|-
+| {{flagicon|Saudi Arabia}} [[1995 King Fahd Cup|1995]]
+|- style="background:gold"
+| {{flagicon|Saudi Arabia}} [[1997 FIFA Confederations Cup|1997]]
+| '''[[1997 FIFA Confederations Cup Final|Champions]]'''
+| '''1st'''
+| '''5'''
+| '''4'''
+| '''1'''
+| '''0'''
+| '''14'''
+| '''2'''
+| '''[[1997 FIFA Confederations Cup squads#Brazil|Squad]]'''
+|- style="background:silver"
+| {{flagicon|Mexico}} [[1999 FIFA Confederations Cup|1999]]
+| '''[[1999 FIFA Confederations Cup Final|Runners-up]]'''
+| '''2nd'''
+| '''5'''
+| '''4'''
+| '''0'''
+| '''1'''
+| '''18'''
+| '''6'''
+| '''[[1999 FIFA Confederations Cup squads#Brazil|Squad]]'''
+|- style="background:#9acdff;"
+| {{flagicon|South Korea|1997}} {{flagicon|Japan}} [[2001 FIFA Confederations Cup|2001]]
+| Fourth place
+| 4th
+| 5
+| 1
+| 2
+| 2
+| 3
+| 3
+| [[2001 FIFA Confederations Cup squads#Brazil|Squad]]
+|-
+| {{flagicon|France|1974}} [[2003 FIFA Confederations Cup|2003]]
+| Group stage
+| 5th
+| 3
+| 1
+| 1
+| 1
+| 3
+| 3
+| [[2003 FIFA Confederations Cup squads#Brazil|Squad]]
+|- style="background:gold"
+| {{flagicon|Germany}} [[2005 FIFA Confederations Cup|2005]]
+| '''[[2005 FIFA Confederations Cup Final|Champions]]'''
+| '''1st'''
+| '''5'''
+| '''3'''
+| '''1'''
+| '''1'''
+| '''12'''
+| '''6'''
+| '''[[2005 FIFA Confederations Cup squads#Brazil|Squad]]'''
+|- style="background:gold"
+| {{flagicon|South Africa}} [[2009 FIFA Confederations Cup|2009]]
+| '''[[2009 FIFA Confederations Cup Final|Champions]]'''
+| '''1st'''
+| '''5'''
+| '''5'''
+| '''0'''
+| '''0'''
+| '''14'''
+| '''5'''
+| '''[[2009 FIFA Confederations Cup squads#Brazil|Squad]]'''
+|- style="background:gold"
+| style="border:3px solid red"|{{flagicon|Brazil}} [[2013 FIFA Confederations Cup|2013]]
+| '''[[2013 FIFA Confederations Cup Final|Champions]]'''
+|'''1st'''
+|'''5'''
+|'''5'''
+|'''0'''
+|'''0'''
+|'''14'''
+|'''3'''
+| '''[[2013 FIFA Confederations Cup squads#Brazil|Squad]]'''
+|-
+| {{flagicon|Russia}} [[2017 FIFA Confederations Cup|2017]]
+| colspan=9|''Did not qualify''
+|-
+! Total
+! 4 Titles
+! 7/10
+! 33
+! 23
+! 5
+! 5
+! 78
+! 28
+! —
+|}
+
+===Olympic Games===
+{| class="wikitable" style="text-align: center;"
+!colspan=10|[[Football at the Summer Olympics|Olympic Games]] record
+|-
+!Year
+!Round
+!Position
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!Squad
+|-
+| {{flagicon|France|1794}} [[Football at the 1900 Summer Olympics|1900]]||colspan=9 rowspan=2|''Only club teams participated''
+|-
+| {{flagicon|United States|1896}} [[Football at the 1904 Summer Olympics|1904]]
+|-
+| {{flagicon|United Kingdom}} [[Football at the 1908 Summer Olympics|1908]]||colspan=9 rowspan=2|''No national representative''
+|-
+| {{flagicon|Sweden}} [[Football at the 1912 Summer Olympics|1912]]
+|-
+| {{flagicon|Belgium}} [[Football at the 1920 Summer Olympics|1920]]||colspan=9 rowspan=5|''Did not participate''
+|-
+| {{flagicon|France|1794}} [[Football at the 1924 Summer Olympics|1924]]
+|-
+| {{flagicon|Netherlands}} [[Football at the 1928 Summer Olympics|1928]]
+|-
+| {{flagicon|Germany|1935}} [[Football at the 1936 Summer Olympics|1936]]
+|-
+| {{flagicon|United Kingdom}} [[Football at the 1948 Summer Olympics|1948]]
+|-
+| {{flagicon|Finland}} [[Football at the 1952 Summer Olympics|1952]]|| Quarter-finals || 6th || 3 || 2 || 0 || 1 || 9 || 6
+|[[Football at the 1952 Summer Olympics – Men's team squads#Brazil|Squad]]
+|-
+| {{flagicon|Australia}} [[Association football at the 1956 Summer Olympics|1956]]||colspan=9|''Did not participate''
+|-
+| {{flagicon|Italy|1946}} [[Football at the 1960 Summer Olympics|1960]]|| Group stage || 6th || 3 || 2 || 0 || 1 || 10 || 6
+|[[Football at the 1960 Summer Olympics – Men's team squads#Brazil|Squad]]
+|-
+| {{flagicon|Japan|1947}} [[Football at the 1964 Summer Olympics|1964]]|| Group stage || 9th || 3 || 1 || 1 || 1 || 5 || 2
+|[[Football at the 1964 Summer Olympics – Men's team squads#Brazil|Squad]]
+|-
+| {{flagicon|Mexico}} [[Football at the 1968 Summer Olympics|1968]]|| Group stage || 11th || 3 || 0 || 2 || 1 || 4 || 5
+|[[Football at the 1968 Summer Olympics – Men's team squads#Brazil|Squad]]
+|-
+| {{flagicon|West Germany}} [[Football at the 1972 Summer Olympics|1972]]|| Group stage || 12th || 3 || 0 || 1 || 2 || 4 || 6
+|[[Football at the 1972 Summer Olympics – Men's team squads#Brazil|Squad]]
+|- style="background:#9acdff;"
+| {{flagicon|Canada}} [[Football at the 1976 Summer Olympics|1976]]|| Fourth place || 4th || 5 || 2 || 1 || 2 || 6 || 6
+|[[Football at the 1976 Summer Olympics – Men's team squads#Brazil|Squad]]
+|-
+| {{flagicon|Soviet Union|1955}} [[Football at the 1980 Summer Olympics|1980]]||colspan=9|''Did not qualify''
+|- style="background:Silver;"
+| {{flagicon|United States}} [[Football at the 1984 Summer Olympics|1984]]|| '''Silver medal''' || '''2nd''' || '''6''' || '''4''' || '''1''' || '''1''' || '''9''' || '''5'''
+|'''[[Football at the 1984 Summer Olympics – Men's team squads#Brazil|Squad]]'''
+|- style="background:Silver;"
+| {{flagicon|South Korea|1984}} [[Football at the 1988 Summer Olympics|1988]]|| '''Silver medal''' || '''2nd''' || '''6''' || '''4''' || '''1''' || '''1''' || '''12''' || '''4'''
+|'''[[Football at the 1988 Summer Olympics – Men's team squads#Brazil|Squad]]'''
+|-
+| Since [[Football at the 1992 Summer Olympics|1992]]||colspan=9|''See [[Brazil national under-23 football team]]''
+|-
+!Total||2 Silver medals||8/19||32||15||7||10||59||40||—
+|}
+
+==Head-to-head record==
+{{Main|Brazil national football team records and statistics}}
+
+{{#section-h:Brazil national football team records and statistics|Head-to-head record}}
+
+==Honours==
+===Global===
+* '''[[FIFA World Cup]]'''
+** {{gold1}} '''Champions (5)''': [[1958 FIFA World Cup|1958]], [[1962 FIFA World Cup|1962]], [[1970 FIFA World Cup|1970]], [[1994 FIFA World Cup|1994]], [[2002 FIFA World Cup|2002]]
+** {{silver2}} Runners-up (2): [[1950 FIFA World Cup|1950]], [[1998 FIFA World Cup|1998]]
+** {{bronze3}} Third place (2): [[1938 FIFA World Cup|1938]], [[1978 FIFA World Cup|1978]]
+* '''[[FIFA Confederations Cup]]'''
+** {{gold1}} '''Champions (4)''': [[1997 FIFA Confederations Cup|1997]], [[2005 FIFA Confederations Cup|2005]], [[2009 FIFA Confederations Cup|2009]], [[2013 FIFA Confederations Cup|2013]]
+** {{silver2}} Runners-up (1): [[1999 FIFA Confederations Cup|1999]]
+* '''[[Football at the Summer Olympics|Olympic Games]]'''<ref name="Olympics 1992-">Since 1992, squads for [[Football at the Summer Olympics]] have been restricted to three players over the age of 23. The achievements of such teams are not included in the statistics of the senior national team.</ref>
+** {{silver2}} Silver medal (2): [[Football at the 1984 Summer Olympics|1984]],<sup>'''1'''</sup> [[Football at the 1988 Summer Olympics|1988]]<sup>'''1'''</sup>
+*'''[[1980 Mundialito|World Champions' Gold Cup]]'''
+** {{silver2}} Runners-up (1): [[1980 World Champions' Gold Cup|1980]]
+
+===Continental===
+* '''[[Copa América|South American Championship / Copa América]]'''
+** {{gold1}} '''Champions (9)''': [[1919 South American Championship|1919]], [[1922 South American Championship|1922]], [[1949 South American Championship|1949]], [[1989 Copa América|1989]], [[1997 Copa América|1997]], [[1999 Copa América|1999]], [[2004 Copa América|2004]], [[2007 Copa América|2007]], [[2019 Copa América|2019]]
+** {{silver2}} Runners-up (12): [[1921 South American Championship|1921]], [[1925 South American Championship|1925]], [[1937 South American Championship|1937]], [[1945 South American Championship|1945]], [[1946 South American Championship|1946]], [[1953 South American Championship|1953]], [[1957 South American Championship|1957]], [[1959 South American Championship (Argentina)|1959-I]], [[1983 Copa América|1983]], [[1991 Copa América|1991]], [[1995 Copa América|1995]], [[2021 Copa América|2021]]
+** {{bronze3}} Third place (7): [[1916 South American Championship|1916]], [[1917 South American Championship|1917]], [[1920 South American Championship|1920]], [[1942 South American Championship|1942]], [[1959 South American Championship (Ecuador)|1959-II]], [[1975 Copa América|1975]], [[1979 Copa América|1979]]
+* '''[[Panamerican Championship]]'''
+** {{gold1}} '''Champions (2)''': [[Panamerican Championship 1952|1952]], [[Panamerican Championship 1956|1956]]
+** {{silver2}} Runners-up (1): [[Panamerican Championship 1960|1960]]
+* '''[[CONCACAF Gold Cup]]'''
+** {{silver2}} Runners-up (2): [[1996 CONCACAF Gold Cup|1996]], [[2003 CONCACAF Gold Cup|2003]]
+** {{bronze3}} Third place (1): [[1998 CONCACAF Gold Cup|1998]]
+
+===Friendly===
+* '''[[Roca Cup]] (8)''': 1914, 1922, 1945, 1957, 1960, 1963, 1971{{sup|s}}, 1976
+* '''[[Copa Rodrigues Alves]]<ref>{{cite web|title=Copa Rodrigues Alves|website=[[RSSSF]]|url=https://www.rsssf.org/tablesr/rod-alves.html|access-date=25 June 2021|archive-date=30 September 2022|archive-url=https://web.archive.org/web/20220930023239/https://www.rsssf.org/tablesr/rod-alves.html|url-status=live}}</ref> (2)''': 1922, 1923
+* '''Copa Confraternidad<ref>{{cite web|title=Copa Confraternidad|website=[[RSSSF]]|url=https://www.rsssf.org/tablesc/confrater23.html|access-date=25 June 2021|archive-date=29 September 2022|archive-url=https://web.archive.org/web/20220929041817/https://www.rsssf.org/tablesc/confrater23.html|url-status=live}}</ref> (1)''': 1923
+* '''[[Copa Río Branco]] (7)''': 1931, 1932, 1947, 1950, 1967{{sup|s}}, 1968, 1976
+* '''Taça Interventor Federal (1)''': 1934
+* '''Taça Dois de Julho (1)''': 1934
+* '''[[Taça Oswaldo Cruz]] (8)''': 1950, 1955, 1956, 1958, 1961, 1962, 1968, 1976
+* '''[[Copa Bernardo O'Higgins]]<ref>{{cite web|title=Copa Bernardo O'Higgins|website=[[RSSSF]]|url=https://www.rsssf.org/tableso/ohiggins.html|access-date=25 June 2021|archive-date=29 September 2022|archive-url=https://web.archive.org/web/20220929082713/https://www.rsssf.org/tableso/ohiggins.html|url-status=live}}</ref> (4)''': 1955, 1959, 1961, 1966{{sup|s}}
+* '''[[Taça do Atlântico]]<ref name="brazilianfootballconfederationtitles">{{cite web|title=Sala de Troféus da CBF |url=http://www.cbf.com.br/salao/ |access-date=5 January 2009 |publisher=[[Brazilian Football Confederation|Confederação Brasileira de Futebol (CBF)]] |language=pt |url-status=dead |archive-url=https://web.archive.org/web/20090106202126/http://www.cbf.com.br/salao |archive-date=6 January 2009 }}</ref> (3)''': 1956, 1970, 1976
+* '''[[Taça Jorge Chávez/Santos Dumont|Taça Jorge Chavéz / Santos Dumont]]<ref>{{cite web|title=Taça Jorge Chavéz-Santos Dumont|work=Jogos da Seleção Brasileira de Futebol |date=17 July 1970 |url=https://www.futeboldaselecaobrasileira.com.br/1970/07/peru-0-x-4-brasil.html|access-date=31 July 2021|publisher=Jogos da Seleção Brasileira|language=pt|archive-date=31 July 2021|archive-url=https://web.archive.org/web/20210731192051/https://www.futeboldaselecaobrasileira.com.br/1970/07/peru-0-x-4-brasil.html|url-status=live}}</ref> (1)''': 1968
+* '''Copa Emílio Garrastazú Médici (1)''': 1970
+* '''[[Brazilian Independence Cup|Taça Independência]] (1)''': 1972
+* '''[[1976 U.S.A. Bicentennial Cup Tournament|U.S.A. Bicentennial Cup Tournament]] (1)''': 1976
+* '''Taça Centenário Jornal O Fluminense (1)''': 1978
+* '''Saudi Crown Prince Trophy (1)''': 1978
+* '''[[Rous Cup]] (1)''': [[Rous Cup|1987]]
+* '''[[Australia Bicentenary Gold Cup]] (1)''': 1988
+*  '''[[Copa Teixeira]]<ref>{{cite web|title=Copa Teixeira 1990|website=[[RSSSF]]|url=https://www.rsssf.org/tablest/teixeira90.html|access-date=25 June 2021|archive-date=27 July 2022|archive-url=https://web.archive.org/web/20220727201304/https://www.rsssf.org/tablest/teixeira90.html|url-status=live}}</ref> (1)''': 1990{{sup|s}}
+* '''Amistad Cup<ref>{{cite web|title=Amistad Cups 1989–92|website=[[RSSSF]]|url=https://www.rsssf.org/tablesa/amistad.html|access-date=25 June 2021|archive-date=29 September 2022|archive-url=https://web.archive.org/web/20220929135232/https://www.rsssf.org/tablesa/amistad.html|url-status=live}}</ref> (1)''': 1992
+* '''Copa 50imo Aniversario de Clarín<ref>{{cite web|title=Copa 50imo Aniversario de Clarín|website=[[RSSSF]]|url=https://www.rsssf.org/tablesc/clarin95.html|access-date=25 June 2021|archive-date=29 September 2022|archive-url=https://web.archive.org/web/20220929085034/https://www.rsssf.org/tablesc/clarin95.html|url-status=live}}</ref> (1)''': 1995
+* '''[[Umbro Cup]] (1)''': 1995
+* '''[[Nelson Mandela Challenge]] (1)''': 1996
+* '''[[Lunar New Year Cup]] (1)''': [[2005 Lunar New Year Cup|2005]]
+* '''[[Superclásico de las Américas]] (4)''': [[2011 Superclásico de las Américas|2011]], [[2012 Superclásico de las Américas|2012]], [[2014 Superclásico de las Américas|2014]], [[2018 Superclásico de las Américas|2018]]
+* '''[[Kirin Challenge Cup]]<ref>{{cite web |url=https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/06/06/neymar-zoa-argentina-e-posta-foto-com-trofeu-de-amistoso-quero-nem-saber.htm |title=Neymar zoa Argentina e posta foto com troféu de amistoso: 'Quero nem saber' |website=UOL Esporte |date=6 June 2022 |language=pt |access-date=7 June 2022 |archive-date=7 June 2022 |archive-url=https://web.archive.org/web/20220607020259/https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/06/06/neymar-zoa-argentina-e-posta-foto-com-trofeu-de-amistoso-quero-nem-saber.htm |url-status=live }}</ref> (1)''': [[Kirin Cup#2022 Kirin Challenge Cup|2022]]
+
+===Awards===
+* '''[[FIFA World Rankings#Awards|FIFA Team of the Year]] (13)''': [[FIFA World Rankings|1994]], [[FIFA World Rankings|1995]], [[FIFA World Rankings|1996]], [[FIFA World Rankings|1997]], [[FIFA World Rankings|1998]], [[FIFA World Rankings|1999]], [[FIFA World Rankings|2000]], [[FIFA World Rankings|2002]], [[FIFA World Rankings|2003]], [[FIFA World Rankings|2004]], [[FIFA World Rankings|2005]], [[FIFA World Rankings|2006]], [[FIFA World Rankings|2022]]
+* '''[[FIFA Fair Play Award]] (1)''': [[The Best FIFA Football Awards 2023#FIFA Fair Play Award|2023]]
+* '''[[Laureus World Sports Award for Team of the Year|Laureus World Team of the Year]] (1)''': 2003
+* '''[[World Soccer (magazine)#Men's World Team of the Year|World Soccer Team of the Year]] (2)''': 1982, 2002
+* '''[[Gazzetta Sports Awards#Worldwide|Gazzetta Sports World Team of the Year]] (2)''': 1994, 2002
+* '''[[Princess of Asturias Awards|Prince of Asturias Award for Sports]] (1)''': 2002
+* '''[[FIFA World Cup Fair Play Trophy]] (4)''': [[1982 FIFA World Cup|1982]], [[1986 FIFA World Cup|1986]], [[1994 FIFA World Cup|1994]], [[2006 FIFA World Cup|2006]]
+* '''[[FIFA World Cup awards#Most Entertaining Team|FIFA World Cup Most Entertaining Team]] (1)''': [[1994 FIFA World Cup|1994]]
+* '''[[FIFA Confederations Cup records and statistics#Awards|FIFA Confederations Cup Fair Play Trophy]] (2)''': [[1999 FIFA Confederations Cup|1999]], [[2009 FIFA Confederations Cup|2009]]
+* '''[[Copa América awards#Fair Play Award|Copa America Fair Play Award]] (2)''': [[2019 Copa América|2019]], [[2021 Copa América|2021]]
+
+===Chronology of titles===
+{{Static row numbers}}
+{| class="wikitable static-row-numbers static-row-numbers-center static-row-header-text"
+! Host nation
+! Tournament
+! Year
+|-
+| {{flagu|Brazil|1889}}
+| [[Copa América]]
+| 1919
+|-
+| {{flagu|Brazil|1889}}
+| [[Copa América]]
+| 1922
+|-
+| {{flagu|Brazil|1889}}
+| [[Copa América]]
+| 1949
+|-
+| {{flagu|Chile}}
+| [[Panamerican Championship]]
+| 1952
+|-
+| {{flagu|Mexico|1934}}
+| [[Panamerican Championship]]
+| 1956
+|-
+| {{flagu|Sweden}}
+| [[FIFA World Cup]]
+| 1958
+|-
+| {{flagu|Chile}}
+| [[FIFA World Cup]]
+| 1962
+|-
+| {{flagu|Mexico}}
+| [[FIFA World Cup]]
+| 1970
+|-
+| {{flagu|Brazil|1968}}
+| [[Copa América]]
+| 1989
+|-
+| {{flagu|United States}}
+| [[FIFA World Cup]]
+| 1994
+|-
+| {{flagu|Bolivia}}
+| [[Copa América]]
+| 1997
+|-
+| {{flagu|Saudi Arabia}}
+| [[FIFA Confederations Cup]]
+| 1997
+|-
+| {{flagu|Paraguay|1990}}
+| [[Copa América]]
+| 1999
+|-
+| {{flagicon|KOR|1997}}{{flagicon|JAP}} South Korea–Japan
+| [[FIFA World Cup]]
+| 2002
+|-
+| {{flagu|Peru}}
+| [[Copa América]]
+| 2004
+|-
+| {{flagu|Germany}}
+| [[FIFA Confederations Cup]]
+| 2005
+|-
+| {{flagu|Venezuela}}
+| [[Copa América]]
+| 2007
+|-
+| {{flagu|South Africa}}
+| [[FIFA Confederations Cup]]
+| 2009
+|-
+| {{flagu|Brazil}}
+| [[FIFA Confederations Cup]]
+| 2013
+|-
+| {{flagu|Brazil}}
+| [[Copa América]]
+| 2019
+|}
+
+===Summary===
+{| class="wikitable" width=30% style="font-size:90%; text-align:center;"
+|-
+!Competition !!{{gold1}} !!{{silver2}} !!{{bronze3}} !!Total
+|-
+|align=left|[[FIFA World Cup]]
+|5||2||2||9
+|-
+|align=left|[[FIFA Confederations Cup]]
+|4||1||0||5
+|-
+|align=left|[[Copa América|CONMEBOL Copa América]]
+|9||12||7||28
+|-
+|align=left|[[Panamerican Championship]]<sup>'''2'''</sup>
+|2||1||0||3
+|-
+|align=left|[[CONCACAF Gold Cup]]
+|0||2||1||3
+|-
+!Total!!20!!18!!10!!48
+|}
+;Notes:
+# Official continental competition organized by [[Panamerican Championship#Panamerican Football Confederation|PFC]]. It was a unified confederation of the Americas, which was formed by the NAFC, CCCF and CONMEBOL.
+* {{sup|s}} Shared titles.
+
+==See also==
+* [[Brazil national football team results (2010–present)]]
+* [[Brazil national under-23 football team]]
+* [[Brazil national under-20 football team]]
+* [[Brazil national under-17 football team]]
+* [[Brazil national futsal team]]
+* [[Brazil national beach soccer team]]
+* [[List of Brazil national football team managers]]
+* [[Pra Frente Brasil (song)|Pra Frente Brasil]]
+* [[Sport in Brazil]]
+* [[Argentina–Brazil football rivalry]]
+* [[Brazil–Uruguay football rivalry]]
+* [[Brazil–Italy football rivalry]]
+
+==Notes==
+{{notelist}}
+
+==References==
+
+===Citations===
+{{reflist}}
+
+===Sources===
+* {{cite book | first=Ruy | last = Castro |translator=Andrew Downie | title=Garrincha – The triumph and tragedy of Brazil's forgotten footballing hero | publisher=Yellow Jersey Press |location=London| year=2005| isbn=0-224-06433-9}}
+* {{cite book | author=Ivan Soter | title=Enciclopédia da Seleção: 100 anos de seleção brasileira de futebol | publisher=Folha Seca |location=Rio de Janeiro | year=2015| isbn=978-85-87199-29-4}}
+
+==External links==
+{{Sister project auto}}
+
+* {{Official website}} {{in lang|pt}}
+* [https://www.fifa.com/about-fifa/associations/BRA Brazil FIFA profile]
+* [https://www.conmebol.com/cbf/ Brazil CONMEBOL profile]
+* [http://www.brazilian-football.com/ Brazilian Football – Guide to Football in Brazil]
+* [http://www.rsssfbrasil.com/ RSSSF Brazil]
+* [http://www.sambafoot.com/ All about Brazilian Football – Sambafoot.com]
+
+{{Brazil national football team}}
+{{Brazil national football team records}}
+{{Navboxes top|title = Brazil achievements and awards|titlestyle = background:#FEDF00; color:#050; border:1px solid #002776}}
+{{s-start}}
+{{s-ach|ach}}
+{{succession box
+ | before = [[1954 FIFA World Cup|1954]]<br />{{fb|FRG}}
+ | title = [[FIFA World Cup|World Champions]]
+ | years = [[1958 FIFA World Cup|1958]] (first title)<br />[[1962 FIFA World Cup|1962]] (second title)
+ | after = [[1966 FIFA World Cup|1966]]<br />{{fb-rt|ENG}}
+}}
+{{succession box
+ | before = [[1966 FIFA World Cup|1966]]<br />{{fb|ENG}}
+ | title = [[FIFA World Cup|World Champions]]
+ | years = [[1970 FIFA World Cup|1970]] (third title)
+ | after = [[1974 FIFA World Cup|1974]]<br />{{fb-rt|FRG}}
+}}
+{{succession box
+ | before = [[1990 FIFA World Cup|1990]]<br />{{fb|FRG}}
+ | title = [[FIFA World Cup|World Champions]]
+ | years = [[1994 FIFA World Cup|1994]] (fourth title)
+ | after = [[1998 FIFA World Cup|1998]]<br />{{fb-rt|FRA}}
+}}
+{{succession box
+ | before = [[1998 FIFA World Cup|1998]]<br />{{fb|FRA}}
+ | title = [[FIFA World Cup|World Champions]]
+ | years = [[2002 FIFA World Cup|2002]] (fifth title)
+ | after = [[2006 FIFA World Cup|2006]]<br />{{fb-rt|ITA|2003}}
+}}
+{{succession box
+ | before = [[1995 King Fahd Cup|1995]]<br />{{fb|DEN}}
+ | title = [[FIFA Confederations Cup|Confederations Cup Champions]]
+ | years = [[1997 FIFA Confederations Cup|1997]] (first title)
+ | after = [[1999 FIFA Confederations Cup|1999]]<br />{{fb-rt|MEX}}
+}}
+{{succession box
+ | before = [[2003 FIFA Confederations Cup|2003]]<br />{{fb|FRA}}
+ | title = [[FIFA Confederations Cup|Confederations Cup Champions]]
+ | years = [[2005 FIFA Confederations Cup|2005]] (second title)<br />[[2009 FIFA Confederations Cup|2009]] (third title)<br />[[2013 FIFA Confederations Cup|2013]] (fourth title)
+ | after = [[2017 FIFA Confederations Cup|2017]]<br />{{fb-rt|GER}}
+}}
+{{succession box
+ | before = [[1917 South American Championship|1917]]<br />{{fb|URU}}
+ | title = [[Copa América|South American Champions]]
+ | years = [[1919 South American Championship|1919]] (first title)
+ | after = [[1920 South American Championship|1920]]<br />{{fb-rt|URU}}
+}}
+{{succession box
+ | before = [[1921 South American Championship|1921]]<br />{{fb|ARG}}
+ | title = [[Copa América|South American Champions]]
+ | years = [[1922 South American Championship|1922]] (second title)
+ | after = [[1923 South American Championship|1923]]<br />{{fb-rt|URU}}
+}}
+{{succession box
+ | before = [[1947 South American Championship|1947]]<br />{{fb|ARG}}
+ | title = [[Copa América|South American Champions]]
+ | years = [[1949 South American Championship|1949]] (third title)
+ | after = [[1953 South American Championship|1953]]<br />{{fb-rt|PAR|1842}}
+}}
+{{succession box
+ | before = [[1987 Copa América|1987]]<br />{{fb|URU}}
+ | title = [[Copa América|South American Champions]]
+ | years = [[1989 Copa América|1989]] (fourth title)
+ | after = [[1991 Copa América|1991]]<br />{{fb-rt|ARG}}
+}}
+{{succession box
+ | before = [[1995 Copa América|1995]]<br />{{fb|URU}}
+ | title = [[Copa América|South American Champions]]
+ | years = [[1997 Copa América|1997]] (fifth title)<br />[[1999 Copa América|1999]] (sixth title)
+ | after = [[2001 Copa América|2001]]<br />{{fb-rt|COL}}
+}}
+{{succession box
+ | before = [[2001 Copa América|2001]]<br />{{fb|COL}}
+ | title = [[Copa América|South American Champions]]
+ | years = [[2004 Copa América|2004]] (seventh title)<br />[[2007 Copa América|2007]] (eighth title)
+ | after = [[2011 Copa América|2011]]<br />{{fb-rt|URU}}
+}}
+{{S-ach|aw}}
+{{succession box
+ | before = {{fb|GER}}
+ | after = {{fb-rt|NED}}
+ | title = [[FIFA World Rankings#Team of the Year|FIFA Team of the Year]]
+ | years = 1994–1999
+}}
+{{succession box
+ | before = {{fb|HON}}
+ | after = {{fb-rt|ARG}}
+ | title = [[FIFA World Rankings#Team of the Year|FIFA Team of the Year]]
+ | years = 2002–2006
+}}
+{{Succession box
+ | before = {{flagdeco|ESP}} [[Manuel Estiarte]]
+ | after = [[Tour de France]] {{flagdeco|FRA}}
+ | title = Prince of Asturias Award for Sports
+ | years = 2002
+}}
+{{Succession box
+ | before = {{flagdeco|AUS}} [[Australia national cricket team]]
+ | after = [[England national rugby union team]] {{flagdeco|ENG}}
+ | title = [[Laureus World Sports Award for Team of the Year|Laureus World Team of the Year]]
+ | years=2003
+}}
+{{s-end}}
+{{navboxes bottom}}
+{{Navbox group|list=
+{{Brazil national football team matches}}
+{{Brazil national football team managers}}
+{{FIFA World Cup winners}}
+{{Copa América winners}}
+{{FIFA Confederations Cup winners}}
+{{2013 FIFA Confederations Cup finalists}}
+{{Laureus Team of the Year Award}}
+{{Prince of Asturias Award for Sports}}
+{{Football in Brazil}}
+{{CONMEBOL teams}}
+{{National sports teams of Brazil}}
+}}
+{{Portal bar|Association football|Brazil}}
+{{Authority control}}
+
+[[Category:Brazil national football team| ]]
+[[Category:Brazil national football teams| ]]
+[[Category:FIFA Confederations Cup–winning countries]]
+[[Category:FIFA World Cup–winning countries]]
+[[Category:South American national association football teams]]
+[[Category:National sports teams of Brazil|Football]]
+[[Category:1914 establishments in Brazil]]
+[[Category:National sports teams established in 1914]]

@@ -1,0 +1,1772 @@
+{{Short description|Men's association football team}}
+{{About|the men's team|the women's team|Tunisia women's national football team}}
+{{Use dmy dates|date=November 2022}}
+{{Use British English|date=August 2022}}
+{{Infobox national football team
+| Name                      = Tunisia
+| Nickname                  = {{lang|ar|نسور قرطاج}}<br>(Eagles of [[Carthage]])
+| Badge                     = Tunisia national football team logo.png
+| Badge_size                = 190px
+| Association               = [[Tunisian Football Federation]] (TFF)
+| Confederation             = [[Confederation of African Football|CAF]] (Africa)
+| Sub-confederation         = [[Union of North African Football Federations|UNAF]] (North Africa)
+| Coach                     = ''Vacant''
+| Captain                   = [[Ellyes Skhiri]]
+| Most caps                 = [[Radhi Jaïdi]] (105)
+| Top scorer                = [[Issam Jemâa]] ([[List of international goals scored by Issam Jemâa|36]])
+| FIFA Trigramme            = TUN<ref name=FIFACode>{{cite web |url=https://www.rsssf.org/miscellaneous/fifa-codes.html |title=FIFA Country Codes |date=6 August 2015 |access-date=10 January 2016 |last=Jeffree |website=[[RSSSF]] |first=Iain |archive-date=19 September 2000 |archive-url=https://web.archive.org/web/20000919111901/http://www.rsssf.com/miscellaneous/fifa-codes.html |url-status=live }}</ref>
+| FIFA Rank                 = {{FIFA World Rankings|TUN}}
+| FIFA max                  = 14
+| FIFA max date             = April – May 2018
+| FIFA min                  = 65
+| FIFA min date             = July 2010
+| Home Stadium              = [[Hammadi Agrebi Stadium]]
+| pattern_la1               = _tun26h
+| pattern_b1                = _tun26h
+| pattern_ra1               = _tun26h
+| pattern_sh1               = _tun26h
+| pattern_so1               = 
+| leftarm1                  = FFFFFF
+| body1                     = FFFFFF
+| rightarm1                 = FFFFFF
+| shorts1                   = FFFFFF
+| socks1                    = FFFFFF
+| pattern_la2               = _tun26a
+| pattern_b2                = _tun26a
+| pattern_ra2               = _tun26a
+| pattern_sh2               = _tun26a
+| pattern_so2               = 
+| leftarm2                  = FF0000
+| body2                     = FF0000
+| rightarm2                 = FF0000
+| shorts2                   = FF0000
+| socks2                    = FF0000
+| pattern_la3               = _tun26t
+| pattern_b3                = _tun26t
+| pattern_ra3               = _tun26t
+| pattern_sh3               = 
+| pattern_so3               = 
+| leftarm3                  = 000000
+| body3                     = 000000
+| rightarm3                 = 000000
+| shorts3                   = 000000
+| socks3                    = 000000
+| First game                = {{fb|TUN|1959}} 4–2 {{fb-rt|LBY}}<br />([[Tunis]], Tunisia; 2 June 1957)
+|Largest win                = {{fb|TUN|1959}} 8–1 {{fb-rt|ROC|name=Taiwan}}<br />([[Rome]], Italy; 18 August 1960)<br />{{fb|TUN}} 7–0 {{fb-rt|TOG}}<br />(Tunis, Tunisia; 7 January 2000)<br />{{fb|TUN}} 7–0 {{fb-rt|MWI}}<br />(Tunis, Tunisia; 26 March 2005)<br />{{fb|TUN}} 8–1 {{fb-rt|DJI}}<br />(Tunis, Tunisia; 12 June 2015)
+| Largest loss              = {{fb|HUN}} 10–1 {{fb-rt|TUN|1959}}<br />([[Budapest]], Hungary; 24 July 1960)
+| World cup apps            = 7
+| World cup first           = 1978
+| World cup best            = Group stage ([[1978 FIFA World Cup|1978]], [[1998 FIFA World Cup|1998]], [[2002 FIFA World Cup|2002]], [[2006 FIFA World Cup|2006]], [[2018 FIFA World Cup|2018]], [[2022 FIFA World Cup|2022]], [[2026 FIFA World Cup|2026]])
+| Regional name             = [[Africa Cup of Nations]]
+| Regional cup apps         = 22
+| Regional cup first        = [[1962 African Cup of Nations|1962]]
+| Regional cup best         = '''Champions''' ([[2004 African Cup of Nations|2004]])
+| 2ndRegional name          = [[African Nations Championship]]
+| 2ndRegional cup apps      = 2
+| 2ndRegional cup first     = [[2011 African Nations Championship|2011]]
+| 2ndRegional cup best      = '''Champions''' ([[2011 African Nations Championship|2011]])
+| 3rdRegional name          = [[FIFA Arab Cup|Arab Cup]]
+| 3rdRegional cup best      = '''Champions''' ([[1963 Arab Cup|1963]])
+| 3rdRegional cup apps      = 4
+| 3rdRegional cup first     = [[1963 Arab Cup|1963]]
+| Confederations cup apps   = 1
+| Confederations cup first  = [[2005 FIFA Confederations Cup|2005]]
+| Confederations cup best   = Group stage ([[2005 FIFA Confederations Cup|2005]])
+| website                   = {{URL|ftf.org.tn}} (in French)
+| medaltemplates            = {{MedalSport|Men's [[Association football|Football]]}}
+{{MedalCompetition|[[Africa Cup of Nations]]}}
+{{MedalGold|[[2004 African Cup of Nations|2004 Tunisia]]|[[2004 African Cup of Nations squads#Tunisia|Team]]}}
+{{MedalSilver|[[1965 African Cup of Nations|1965 Tunisia]]|[[1965 African Cup of Nations squads#Tunisia|Team]]}}
+{{MedalSilver|[[1996 African Cup of Nations|1996 South Africa]]|[[1996 African Cup of Nations squads#Tunisia|Team]]}}
+{{MedalBronze|[[1962 African Cup of Nations|1962 Ethiopia]]|[[1962 African Cup of Nations squads#Tunisia|Team]]}}
+{{MedalCompetition|[[African Nations Championship]]}}
+{{MedalGold|[[2011 African Nations Championship|2011 Sudan]]|[[2011 African Nations Championship squads#Tunisia|Team]]}}
+{{MedalCompetition|[[Football at the African Games|African Games]]}}
+{{MedalSilver|[[Football at the 1991 All-Africa Games|1991 Cairo]]|[[Football at the 1991 All-Africa Games – Men's team squads#Tunisia|Team]]}}
+{{MedalBronze|[[Football at the 2007 All-Africa Games – Men's tournament|2007 Algiers]]|[[Football at the 2007 All-Africa Games – Men's team squads#Tunisia|Team]]}}
+{{MedalCompetition|[[FIFA Arab Cup|Arab Cup]]}}
+{{MedalGold|[[1963 Arab Cup|1963 Lebanon]]|[[1963 Arab Cup squads#Tunisia|Team]]}}
+{{MedalSilver|[[2021 FIFA Arab Cup|2021 Qatar]]|[[2021 FIFA Arab Cup squads#Tunisia|Team]]}}
+{{MedalCompetition|[[Palestine Cup of Nations]]}}
+{{MedalGold|[[1973 Palestine Cup of Nations|1973 Libya]]|[[1973 Palestine Cup of Nations squads#Tunisia|Team]]}}
+{{MedalCompetition|[[Football at the Arab Games|Arab Games]]}}
+{{MedalSilver|[[Football at the 1957 Arab Games|1957 Lebanon]]|[[Team]]}}
+{{MedalCompetition|[[Football at the Mediterranean Games|Mediterranean Games]]}}
+{{MedalGold|[[Football at the 2001 Mediterranean Games|2001 Tunis]]|[[Football at the 2001 Mediterranean Games – Men's team squads#Tunisia|Team]]}}
+{{MedalSilver|[[Football at the 1971 Mediterranean Games|1971 Izmir]]|[[Football at the 1971 Mediterranean Games – Men's team squads#Tunisia|Team]]}}
+{{MedalBronze|[[Football at the 1975 Mediterranean Games|1975 Alger]]|[[Football at the 1975 Mediterranean Games – Men's team squads#Tunisia|Team]]}}
+{{MedalBronze|[[Football at the 2013 Mediterranean Games|2013 Mersin]]|[[Football at the 2013 Mediterranean Games – Men's team squads#Tunisia|Team]]}}
+}}
+
+The '''Tunisia national football team''' represents [[Tunisia]] in men's international [[association football]] competitions, and is controlled by the [[Tunisian Football Federation]] (TFF). The team competes under the [[Confederation of African Football]] (CAF) on the continental level, and is affiliated with [[FIFA]] for global competitions. Additionally, the team is a member of the [[UNAF|Union of North African Football]] (UNAF) and the [[Union of Arab Football Associations]] (UAFA). The team is colloquially known as ''Eagles of [[Carthage]]'' by fans and the media, with the [[bald eagle]] serving as its symbol.<ref>{{Cite web |title="Carthage Eagles" home glory |url=https://www.cafonline.com/total-africa-cup-of-nations/news/carthage-eagles-home-glory |access-date=19 April 2022 |website=CAF |language=en}}</ref> Their home kit is primarily white and their away kit is red, which is a reference to the [[Flag of Tunisia|national flag]] of the country. The team has qualified for the [[FIFA World Cup]] seven times and the [[Africa Cup of Nations]] 22 times, and has appeared in four editions of [[Football at the Summer Olympics|Summer Olympics]] and participated once in the [[FIFA Confederations Cup|FIFA Confederation Cup]]. Since 2001, Tunisia's home stadium is the [[Hammadi Agrebi Stadium]] in [[Radès]], Tunis.
+
+Tunisia's first match after independence was against [[Libya national football team|Libya]], which they won 4–2. The team qualified for the FIFA World Cup for the first time in [[1978 FIFA World Cup|1978]] as the only representative of the continent, and became the first African and Arab team to win a World Cup match by beating [[Mexico national football team|Mexico]] [[1978 FIFA World Cup Group 2#Tunisia vs Mexico|3–1]] in the first game. Tunisia holds the most consecutive appearances in the Africa Cup of Nations, with 17, qualifying for every tournament between [[1994 African Cup of Nations|1994]] and [[2025 Africa Cup of Nations|2025]]. By winning the [[2004 African Cup of Nations]], they qualified for the [[2005 FIFA Confederations Cup]] and was eliminated in the group stage. The team qualified twice for the [[African Nations Championship]], winning the title in their first appearance in [[2011 African Nations Championship|2011]], while also competing in the [[FIFA Arab Cup]] three times, winning the title in the inaugural edition in [[1963 Arab Cup|1963]] and finishing second in [[2021 FIFA Arab Cup|2021]]. [[Radhi Jaïdi]], with 105 international matches, holds the record for the number of matches played for Tunisia while [[Issam Jemâa]], with [[List of international goals scored by Issam Jemâa|36 goals]], is their all-time highest scorer. Their highest-ever [[FIFA Men's World Ranking]] was 14th in April and May 2018, while their lowest rank was 65th in July 2010.<ref>{{Cite web |date=12 April 2018 |title=Classement mondial FIFA: L'équipe de Tunisie est classée 14ème mondiale réalisant le meilleur classement de son histoire. |trans-title=FIFA World Ranking: Tunisia team ranked 14th in the world, achieving the best ranking in its history |url=https://www.ftf.org.tn/fr/classement-mondial-fifa-lequipe-de-tunisie-est-classee-14eme-mondiale-realisant-le-meilleur-classement-de-son-histoire/ |access-date=19 September 2024 |website=[[Tunisian Football Federation]] |language=fr-FR}}</ref>
+
+On 13 October 2025, Tunisia became the first team in history to qualify for the World Cup without conceding a goal, during the [[2026 FIFA World Cup qualification – CAF Group H|2026 World Cup qualifying]] campaign.{{citation needed|date=June 2026}}
+
+==History==
+{{Main|History of the Tunisia national football team}}
+
+=== 1928–1956: French protectorate of Tunisia and beginning ===
+[[File:Sélection_tunisienne.jpg|right|thumb|The Tunisian football team in 1939.]]
+Before independence, an unofficial team was formed in 1928, comprising the best Tunisian players from the [[Tunisian Ligue Professionnelle 1|Tunisian League]]. The team's first match was on 11 March 1928, against the [[France national football B team]]; Tunisia lost 8–2.<ref>{{Cite web |last1=texte |first1=Parti socialiste SFIO (France) Auteur du |last2=texte |first2=Parti socialiste (France) Fédération (Paris) Auteur du |date=12 March 1928 |title=Le Populaire : journal-revue hebdomadaire de propagande socialiste et internationaliste ["puis" socialiste-internationaliste] |url=https://gallica.bnf.fr/ark:/12148/bpt6k819267p |access-date=3 August 2020 |website=Gallica |language=EN}}</ref> Their next friendlies, against the same team on 23 March 1930 and 26 March 1933, also resulted in heavy defeats: 0–5 and 1–6 respectively.
+
+Tunisia had to wait until 1932 for their first match win: a 1–0 victory over [[French Algeria]].<ref>{{Cite web |date=2 May 2022 |title=Tunisia v Algeria, 13 November 1932 |url=https://www.11v11.com/matches/tunisia-v-algeria-13-november-1932-224236/ |website=11 v 11 |language=EN}}</ref> Most of the matches that Tunisia played in the 30s and 40s were against French teams, whether it was French Algeria, the [[International Military Sports Council|French military team]] or the France B team, in addition to a match against the [[France national football team|France national team]] in 1941. Most of these matches were played at the [[Stade El Menzah#History|Stade Vélodrome]] in [[Tunis]].
+
+=== 1956–1962: Post independence, First international participation ===
+Tunisia gained [[Tunisian independence|independence]] from France on 20 March 1956. The [[Tunisian Football Federation]] was founded on 29 March 1957 and the Tunisian team played a match with Austrian club [[FC Admira Wacker Mödling]] on 30 December of the same year, winning 4–1. Tunisia became affiliated with [[FIFA]] and the [[Confederation of African Football]] in 1960. The independent Tunisia played their first match against [[Algeria national football team|Algeria]] on 1 June 1957, in the midst of the [[Algerian War]], in which Tunisia lost 2–1. They played their first official match at the [[1957 Arab Games]] where they won against [[Libya national football team|Libya]] 4–3 after scoring the first Tunisian goal in an official competition by {{ill|Brahim Ben Miled|fr|Brahim Ben Miled|lt=Farzit}}. They won against [[Iraq national football team|Iraq]] 4–2 and [[Lebanon national football team|Lebanon]] 4–2 before losing in the final against [[Syria national football team|Syria]] 3–1. In 1960, Yugoslavian [[Milan Kristić]] became the first foreign manager. The national team qualified for the [[1960 Summer Olympics]], their first international event after beating [[Malta national football team|Malta]], [[Morocco national football team|Morocco]] and [[Sudan national football team|Sudan]]. In the Olympic Games, the team suffered three defeats: against [[Poland national football team|Poland]] 6–1, [[Argentina national football team|Argentina]] 2–1, and [[Denmark national football team|Denmark]] 3–1. [[Frane Matošić]] was appointed as the second Yugoslav coach of Tunisia after Kristić led Tunisia to qualify for the Olympics.
+
+=== 1962–1978: Golden generation, First World Cup participation ===
+[[File:Tunisia football team 1978.jpg|thumb|Tunisia at the [[1978 FIFA World Cup qualification]] against Egypt.]]
+
+In 1962, Tunisia entered the [[1962 African Cup of Nations qualification|African Cup of Nations qualifiers]] for the first time. The team qualified for the tournament after beating [[Morocco national football team|Morocco]] and [[Nigeria national football team|Nigeria]], and went on to finish third after beating [[Uganda national football team|Uganda]] in the third-place match. The team won the [[1963 Arab Cup]], after winning against Syria, [[Jordan national football team|Jordan]], Lebanon, and [[Kuwait national football team|Kuwait]]. Tunisia also qualified for the [[1963 Africa Cup of Nations]], and [[Confederation of African Football|CAF]] decided that Tunisia would host the [[1965 Africa Cup of Nations|1965 AFCON]], making the final after beating [[Ethiopia national football team|Ethiopia]] 4–0 in the opening match in [[Stade Chedly Zouiten]],<ref>{{Cite web|title=Tunisia - Ethiopia 4:0|url=https://www.flashscore.com/match/bqReoLuQ/#match-summary|access-date=3 August 2020|website=www.flashscore.com|language=en}}</ref> losing 3–2 to [[Ghana national football team|Ghana]] in extra-time of the final.<ref>{{Cite web|title=Ghana - Tunisia 3:2|url=https://www.flashscore.com/match/biNeyyII/#match-summary|access-date=3 August 2020|website=www.flashscore.com|language=en}}</ref> Despite this early success, Tunisia did not enter the Cup of Nations again until 1976, and did not qualify until 1978. In 1973, the team entered the [[1973 Palestine Cup of Nations|Palestine Cup of Nations]] and won in dominant fashion, winning all six of their matches overcoming Syria, [[Egypt national football team|Egypt]], [[Palestine national football team|Palestine]], [[Yemen national football team|Yemen]] and Iraq, scoring 19 goals. In February 1975, after a short stint with Hungarian manager [[André Nagy]], [[Abdelmajid Chetali]] was hired. Tunisia qualified for their [[FIFA World Cup]] debut in [[1978 FIFA World Cup|1978]]. Tunisia defeated Mexico 3–1,<ref>{{Cite web |title=Tunisia - Mexico 3:1 |url=https://www.flashscore.com/match/SED70PSJ/#match-summary |access-date=23 April 2022 |website=www.flashscore.com |language=en}}</ref> but were defeated by [[Poland national football team|Poland]] 1–0,<ref>{{Cite web |title=Poland - Tunisia 1:0 |url=https://www.flashscore.com/match/nafve3js/#match-summary |access-date=23 April 2022 |website=www.flashscore.com |language=en}}</ref> and drew scoreless against defending champion [[West Germany national football team|West Germany]].
+
+=== 1978–1994: Decline and Missing six editions of the AFCON ===
+After their inaugural World Cup, Tunisia experienced a decline. Between 1980 and 1992, the team managed to qualify for only two tournaments: the [[1982 African Cup of Nations]], and the [[Football at the 1988 Summer Olympics|1988 Summer Olympics]]. In both, they were knocked out in the first round. They, however, reached the last round of the [[1986 FIFA World Cup|1986 World Cup qualifiers]] by beating Nigeria before being defeated by [[Algeria national football team|Algeria]]. Former [[Cameroon national football team|Cameroon]] manager [[Jean Vincent]] was hired but the team was unable to qualify for the [[1988 Africa Cup of Nations|1988 African Cup]] in Morocco after a defeat against Algeria.
+
+The team experienced poor results in the [[1987 All-Africa Games|African Games]] with defeats against Cameroon, [[Madagascar national football team|Madagascar]] and [[Kenya national football team|Kenya]]. [[Taoufik Ben Othman]], assistant manager in 1978,<ref>{{Cite web |title=Olympedia – Taoufik Ben Othman |url=https://www.olympedia.org/athletes/27449 |access-date=17 August 2022 |website=www.olympedia.org}}</ref> improved Tunisia's results, as they qualified for the Olympic Games after surpassing [[Morocco national football team|Morocco]] and [[Egypt national football team|Egypt]] in the qualifiers. However, he was removed days before the start of the competition after poor results in the [[1988 Arab Cup]] and failure to win in their matches against [[Saudi Arabia national football team|Saudi Arabia]],<ref>{{Cite web |title=Saudi Arabia v Tunisia, 11 July 1988 |url=https://www.11v11.com/matches/saudi-arabia-v-tunisia-11-july-1988-241224/ |access-date=17 August 2022 |website=11v11.com}}</ref> Lebanon,<ref>{{Cite web |title=Tunisia v Lebanon, 17 July 1988 |url=https://www.11v11.com/matches/tunisia-v-lebanon-17-july-1988-241244/ |access-date=17 August 2022 |website=11v11.com}}</ref> Egypt<ref>{{Cite web |title=Egypt v Tunisia, 13 July 1988 |url=https://www.11v11.com/matches/egypt-v-tunisia-13-july-1988-241230/ |access-date=17 August 2022 |website=11v11.com}}</ref> and Iraq,<ref>{{Cite web |title=Iraq v Tunisia, 09 July 1988 |url=https://www.11v11.com/matches/iraq-v-tunisia-09-july-1988-241219/ |access-date=17 August 2022 |website=11v11.com}}</ref> as well as friendlies against [[Malta national football team|Malta]], [[Finland national football team|Finland]] and East Germany. Polish manager [[Antoni Piechniczek]] was temporarily appointed and supervised the team in the first round of 1990 World Cup qualifiers and also in the finals of the Olympic Games; in the latter, Tunisia tied [[China national football team|China]] 0–0<ref>{{Cite web |title=Tunisia - China 0:0 |url=https://www.flashscore.com/match/WAIVmxtp/#match-summary |access-date=17 August 2022 |website=www.flashscore.com |language=en}}</ref> and [[Sweden men's national football team|Sweden]] 2–2<ref>{{Cite web |title=Sweden - Tunisia 2:2 |url=https://www.flashscore.com/match/UHEnfv3G/#match-summary |access-date=17 August 2022 |website=www.flashscore.com |language=en}}</ref> and lost to [[West Germany national football team|West Germany]] 4–1.<ref>{{Cite web |title=Tunisia - Germany 1:4 |url=https://www.flashscore.com/match/CQyagbIM/#match-summary |access-date=17 August 2022 |website=www.flashscore.com |language=en}}</ref> [[Mokhtar Tlili]] was appointed manager, however, he still missed the [[1990 Africa Cup of Nations|African Cup]] in 1990 after a defeat to Senegal. Piechniczek returned but still failed to qualify for the 1990 World Cup.{{Context inline|date=October 2024|reason=Who?}} Despite missing the [[1992 Africa Cup of Nations|1992 African Cup]], the federation renewed confidence in him because of the respectable performance he had given in the qualifiers; an early exit from the World Cup qualifiers for [[1994 FIFA World Cup|1994]] contributed to his dismissal after a draw with Morocco.{{Context inline|date=October 2024|reason=This doesn't sufficiently explain information regarding the appointment of the coaches. This reads like "He was appointed and then removed when the team failed to qualify."
+Tell me WHEN he was removed with precise dates. If it isn't that important, why does this need to be in the article at all?}} [[Youssef Zouaoui]] replaced him; Tunisia hosted the 1994 African Cup of Nations replacing original hosts [[Zaire]], but finished at the bottom of the group, after a 2–0 loss to Mali<ref>{{Cite web |title=Tunisia - Mali 0:2 |url=https://www.flashscore.com/match/A9kJPykM/#match-summary |access-date=17 August 2022 |website=www.flashscore.com |language=en}}</ref> and a draw with Zaire.<ref>{{Cite web |title=Tunisia - D.R. Congo 1:1 |url=https://www.flashscore.com/match/bakbKFCq/#match-summary |access-date=17 August 2022 |website=www.flashscore.com |language=en}}</ref>
+
+=== 1994–2002: Beginning of Resurgence, 1996 AFCON runners-up ===
+[[Henryk Kasperczak]] became the new manager after Tunisia hosted the 1994 African Cup of Nations. Tunisia qualified for the [[1996 African Cup of Nations|1996 AFCON]] and finished second in their group, putting them through to the quarter-finals. Tunisia went on to beat [[Gabon national football team|Gabon]] in the quarter-finals and [[Zambia national football team|Zambia]] in the semi-finals,<ref>{{Cite web |title=Gabon - Tunisia 1:2 |url=https://www.flashscore.com/match/GAhdbjCo/#match-summary |access-date=17 August 2022 |website=www.flashscore.com |language=en}}</ref><ref>{{Cite web |title=Zambia - Tunisia 2:4 |url=https://www.flashscore.com/match/2Rf8eld4/#match-summary |access-date=17 August 2022 |website=www.flashscore.com |language=en}}</ref> to reach their first major final in 31 years, but lost to host country [[South Africa national football team|South Africa]] 2–0.<ref>{{Cite web |title=South Africa - Tunisia 2:0 |url=https://www.flashscore.com/match/2BCPgSQG/#match-summary |access-date=17 August 2022 |website=www.flashscore.com |language=en}}</ref> Tunisia reached the quarter-finals of the [[1998 African Cup of Nations]] in the lead of the group with a win over [[DR Congo national football team|DR Congo]],<ref>{{Cite web |title=Tunisia - D.R. Congo 2:1 |url=https://www.flashscore.com/match/EDb5faHR/#match-summary |access-date=17 August 2022 |website=www.flashscore.com |language=en}}</ref> [[Togo national football team|Togo]] and a defeat from [[Ghana national football team|Ghana]],<ref>{{Cite web |title=Tunisia - Togo 3:1 |url=https://www.flashscore.com/match/0lHmlcfe/#match-summary |access-date=17 August 2022 |website=www.flashscore.com |language=en}}</ref><ref>{{Cite web |title=Ghana - Tunisia 2:0 |url=https://www.flashscore.com/match/pvf1eu2L/#match-summary |access-date=17 August 2022 |website=www.flashscore.com |language=en}}</ref> where they were eliminated in a penalty shootout by host country [[Burkina Faso national football team|Burkina Faso]].<ref>{{Cite web |title=Tunisia - Burkina Faso 1:2 |url=https://www.flashscore.com/match/SxSlNH0K/#match-summary |access-date=17 August 2022 |website=www.flashscore.com |language=en}}</ref>  The team also qualified for [[1998 FIFA World Cup|that year's World Cup]] after a 20-year absence: they again failed to advance from the group stages, losing 2–0 to [[England national football team|England]] and 1–0 to [[Colombia national football team|Colombia]],<ref>{{Cite web |title=England - Tunisia 2:0 |url=https://www.flashscore.com/match/lxMpmznS/#match-summary |access-date=17 August 2022 |website=www.flashscore.com |language=en}}</ref><ref>{{Cite web |title=Colombia - Tunisia 1:0 |url=https://www.flashscore.com/match/KKCGsE9k/#match-summary |access-date=17 August 2022 |website=www.flashscore.com |language=en}}</ref> and drawing 1–1 with [[Romania national football team|Romania]].<ref>{{Cite web |title=Romania - Tunisia 1:1 |url=https://www.flashscore.com/match/tz1Puhv2/#match-summary |access-date=17 August 2022 |website=www.flashscore.com |language=en}}</ref> Kasperczak was sacked and replaced with [[Francesco Scoglio]], who guided the team to the [[2000 African Cup of Nations]], where they finished in fourth place after losing to [[Cameroon national football team|Cameroon]] in the semi-finals.<ref>{{Cite web |title=Cameroon - Tunisia 3:0 |url=https://www.flashscore.com/match/tx2sJTGq/#match-summary |access-date=17 August 2022 |website=www.flashscore.com |language=en}}</ref> The following year, Scoglio departed to rejoin [[Genoa CFC]], sparking a period of severe instability. [[Eckhard Krautzun]] initially took over and guided the team to a second [[2002 FIFA World Cup|World Cup]] appearance, but then resigned, citing interference from the [[Tunisian Football Federation|Tunisian FA]] with his coaching. [[Henri Michel]] replaced him, but was sacked when Tunisia crashed out of the [[2002 African Cup of Nations]] without scoring a single goal after scoreless draws with [[Senegal national football team|Senegal]] and Zambia and a defeat from Egypt. Finally, [[Ammar Souayah]] took over in time for the 2002 World Cup; the team drew in friendlies with Norway and South Korea and were defeated by Denmark and Slovenia. In the finals, Tunisia exited the tournament in the group stage, drawing 1–1 with [[Belgium national football team|Belgium]], losing 2–0 to [[Russia national football team|Russia]] and co-hosts [[Japan national football team|Japan]],<ref>{{Cite web |title=Tunisia - Belgium 1:1 |url=https://www.flashscore.com/match/4Eu4yLEe/#match-summary |access-date=17 August 2022 |website=www.flashscore.com |language=en}}</ref><ref>{{Cite web |title=Russia - Tunisia 2:0 |url=https://www.flashscore.com/match/W0sdwspq/#match-summary |access-date=17 August 2022 |website=www.flashscore.com |language=en}}</ref><ref>{{Cite web |title=Tunisia - Japan 0:2 |url=https://www.flashscore.com/match/IHq8zuU1/#match-summary |access-date=17 August 2022 |website=www.flashscore.com |language=en}}</ref> prompting a search for a new manager.<ref>{{Cite web |title=La Tunisie se prépare à la CAN 2004 |url=https://lematin.ma/journal/2003/La-Tunisie--se-prepare-a-la-CAN-2004/28669.html |access-date=17 August 2022 |website=Le Matin |date=4 May 2003 |language=fr}}</ref><ref>{{Cite web |title=Coupe d'afrique des nations de Football en Tunisie CAN 2004 |url=https://coupedafrique.winoo.com/can2004/stades/Stade.cfm?stade=3 |access-date=17 August 2022 |website=coupedafrique.winoo.com}}</ref><ref>{{Cite web |date=26 January 2004 |title=CAN 2004: c'est parti |url=https://www.nouvelobs.com/sport/20040125.OBS3064/can-2004-c-est-parti.html |access-date=17 August 2022 |website=L'Obs |language=fr}}</ref>
+
+=== 2002–2008: Roger Lemerre era, 2004 AFCON champions ===
+[[File:Tunisia - Netherlands (Stade de Radès) 3.jpg|thumb|Tunisia against [[Netherlands national football team|Netherlands]] in a friendly game at the [[Hammadi Agrebi Stadium|7 November Stadium]] in 2009.]]
+In September 2002, the [[Tunisian Football Federation]] announced that it was finalizing a contract with former France manager [[Roger Lemerre]]. Tunisia hosted the [[2004 African Cup of Nations]], winning the group.<ref>{{Cite web|title=Tunisia - Guinea 1:1|url=https://www.flashscore.com/match/UmNCefKB/#standings;table|access-date=1 December 2021|website=www.flashscore.com|language=en}}</ref> They defeated Senegal in the quarter-finals,<ref>{{Cite web|title=Tunisia - Senegal 1:0|url=https://www.flashscore.com/match/fqrhJU2T/#match-summary|access-date=1 December 2021|website=www.flashscore.com|language=en}}</ref> and Nigeria in the semi-finals. Tunisia built a 1–0 lead after four minutes with [[Mehdi Nafti]]'s concentration pushed by [[Francileudo Santos]], before Morocco levelled. Tunisia restored their lead,<ref>{{Cite web|title=Tunisia - Morocco 2:1|url=https://www.flashscore.com/match/67TRZkmA/#match-summary|access-date=1 December 2021|website=www.flashscore.com|language=en}}</ref> giving them their first [[Africa Cup of Nations|African Cup of Nations]] title. They also won the CAF's African National Team of the Year award. Lemerre became the first manager to win two different continental tournaments, having previously won [[UEFA Euro 2000|Euro 2000]] with France. As a result, Tunisia qualified for the [[2005 FIFA Confederations Cup]] in Germany, playing the hosts, [[Argentina national football team|Argentina]] and [[Australia men's national soccer team|Australia]]. The only points they would win was a victory over Australia.<ref>{{Cite web|title=Argentina - Tunisia 2:1|url=https://www.flashscore.com/match/As9oDQ2a/#match-summary|access-date=1 December 2021|website=www.flashscore.com|language=en}}</ref><ref>{{Cite web|title=Tunisia - Germany 0:3|url=https://www.flashscore.com/match/MPz2B4XB/#match-summary|access-date=1 December 2021|website=www.flashscore.com|language=en}}</ref><ref>{{Cite web|title=Australia - Tunisia 0:2|url=https://www.flashscore.com/match/ruPA9r2O/#match-summary|access-date=1 December 2021|website=www.flashscore.com|language=en}}</ref> Before their 2006 World Cup appearance, Lemerre took the Tunisians to a training camp in Switzerland, where they played international friendlies against Swiss clubs. Tunisia would only record one draw in Germany, against Saudi Arabia, losing against [[Spain national football team|Spain]] and [[Ukraine national football team|Ukraine]].<ref>{{Cite web|title=Ukraine - Tunisia 1:0|url=https://www.flashscore.com/match/rmDeruhJ/#match-summary|access-date=1 December 2021|website=www.flashscore.com|language=en}}</ref> [[Hatem Trabelsi]] announced his retirement from international football after eight years,<ref>{{Cite web|date=21 February 2018|title=Hatem Trabelsi |work=National Football Teams|url=http://www.national-football-teams.com:80/player/6730/Hatem_Trabelsi.html|access-date=1 December 2021|archive-url=https://web.archive.org/web/20180221022708/http://www.national-football-teams.com:80/player/6730/Hatem_Trabelsi.html|archive-date=21 February 2018}}</ref><ref>{{Cite web |date=20 May 2018 |title=FIFA Tournaments - Players & Coaches - Hatem TRABELSI |url=http://www.fifa.com:80/fifa-tournaments/players-coaches/people=170770/index.html |access-date=1 December 2021 |website= |archive-url=https://web.archive.org/web/20180520095227/http://www.fifa.com:80/fifa-tournaments/players-coaches/people=170770/index.html |archive-date=20 May 2018 |url-status=dead}}</ref> and Lemerre led Tunisia to the 2008 African Cup of Nations. Tunisia won their 2008 AFCON group after a draw in the opening match against Senegal 2–2, a 3–1 victory over South Africa, and a goalless draw against Angola. They then lost against [[Cameroon national football team|Cameroon]] 3–2 in extra time.<ref>{{Cite web |title=Tunisia - Cameroon 2:3 |url=https://www.flashscore.com/match/l2XD4DFF/#match-summary |access-date=1 December 2021 |website=www.flashscore.com |language=en}}</ref>
+
+=== 2008–2014: Disappointments and missing the World Cup ===
+[[File:Ivory Coast vs Tunisia 2013 AFCON.jpg|thumb|Tunisia against Ivory Coast at the [[2013 Africa Cup of Nations]] in South Africa.]]
+
+Portuguese [[Humberto Coelho]] was appointed as the new manager on 3 June 2008. Coelho would fail to qualify for the 2010 World Cup. [[Faouzi Benzarti]] was appointed as the new manager, and was also sacked after Tunisia were eliminated from the group stage in the [[2010 Africa Cup of Nations]]. In June 2010, [[Bertrand Marchand]] was appointed manager for a two-year contract. After a series of horrendous results, Tunisia fell to 65th in the [[FIFA World Rankings]], the worst in its history. [[Sami Trabelsi]] was appointed, and the team qualified for the [[2012 Africa Cup of Nations]], where they were eliminated in the quarter-finals after a defeat by [[Ghana national football team|Ghana]].
+
+In the [[2013 Africa Cup of Nations]], Tunisia snatched a late winner against [[Algeria national football team|Algeria]], before a defeat by [[Ivory Coast national football team|Ivory Coast]], 3–0. The last match ended with a 1–1 draw against [[Togo national football team|Togo]]. In February 2013, [[Nabil Maâloul]] replaced Sami Trabelsi; in their first two [[2014 FIFA World Cup qualification (CAF)|2014 World Cup qualification]] matches, Tunisia beat Sierra Leone 2–1 and clinched a 2–2 draw in [[Freetown]]. On 16 June, during the fifth round of the group stage, Tunisia tied 1–1 against Equatorial Guinea. A 2–0 loss to Cape Verde on 7 September all but eliminated Tunisia; however, Tunisia advanced after FIFA disqualified Cape Verde for cheating. They would then be knocked out by Cameroon.
+
+=== 2014–2022: Renaissance and two World Cup participations ===
+[[File:Bel-Tun (23).jpg|thumb|Tunisia against Belgium at the [[2018 FIFA World Cup]] in Russia.]]
+[[File:Contrôle de balle tunisien.jpg|thumb|Tunisia against Mali at the [[2021 Africa Cup of Nations]] in Cameroon. The match stopped at the 85th minute.]]
+[[File:Tunisia 0 - 0 Denmark (FIFA World CUP 2022).jpg|thumb|Tunisia against Denmark at the [[2022 FIFA World Cup]] in Qatar.]]
+Belgian manager [[Georges Leekens]] was appointed in early 2014; early results included a 1–1 draw against [[Colombia national football team|Colombia]] and a 1–0 win over [[South Korea national football team|South Korea]],<ref>{{Cite web|title=Colombia - Tunisia 1:1|url=https://www.flashscore.com/match/8Ct7uOS7/#match-summary|access-date=3 August 2020|website=www.flashscore.com|language=en}}</ref><ref>{{Cite web|title=South Korea - Tunisia 0:1|url=https://www.flashscore.com/match/INedKt71/#match-summary|access-date=3 August 2020|website=www.flashscore.com|language=en}}</ref> both in friendly matches. Under Leekens, the team climbed from 49th to 22nd in the FIFA rankings. Tunisia qualified for the [[2015 African Cup of Nations]], and topped their group for the first time since 2008, winning against [[Zambia national football team|Zambia]] and drawing with [[Cape Verde national football team|Cape Verde]] and [[DR Congo national football team|DR Congo]].<ref>{{Cite web|title=Zambia - Tunisia 1:2|url=https://www.flashscore.com/match/CxLpBtin/#match-summary|access-date=3 August 2020|website=www.flashscore.com|language=en}}</ref><ref>{{Cite web|title=Tunisia - Cape Verde 1:1|url=https://www.flashscore.com/match/beEY3PqJ/#match-summary|access-date=3 August 2020|website=www.flashscore.com|language=en}}</ref><ref>{{Cite web|title=D.R. Congo - Tunisia 1:1|url=https://www.flashscore.com/match/pjJh9KLb/#match-summary|access-date=3 August 2020|website=www.flashscore.com|language=en}}</ref> They were eliminated in the quarter-finals after a defeat to host [[Equatorial Guinea national football team|Equatorial Guinea]].<ref>{{Cite web|title=Tunisia - Equatorial Guinea 1:2|url=https://www.flashscore.com/match/0l26giuo/#match-summary|access-date=3 August 2020|website=www.flashscore.com|language=en}}</ref> In July 2015, [[Henryk Kasperczak]] returned as manager after 17 years. He managed to qualify the team for the [[2017 Africa Cup of Nations|2017 African Cup]], and reached the quarter-finals of the competition after beating Algeria and [[Zimbabwe national football team|Zimbabwe]],<ref>{{Cite web|title=Algeria - Tunisia 1:2|url=https://www.flashscore.com/match/M5B8KeYT/#match-summary|access-date=3 August 2020|website=www.flashscore.com|language=en}}</ref><ref>{{Cite web|title=Zimbabwe - Tunisia 2:4|url=https://www.flashscore.com/match/vNuNwJYi/#match-summary|access-date=3 August 2020|website=www.flashscore.com|language=en}}</ref> before losing against [[Burkina Faso national football team|Burkina Faso]].<ref>{{Cite web|title=Burkina Faso - Tunisia 2:0|url=https://www.flashscore.com/match/r1cuHWMo/#match-summary|access-date=3 August 2020|website=www.flashscore.com|language=en}}</ref>
+
+On 27 April 2017, [[Nabil Maâloul]] returned as manager despite the disapproval of the Tunisian supporters following the failure at the 2014 World Cup qualifiers, but this time he qualified Tunisia for the [[2018 FIFA World Cup|2018 World Cup]] in Russia. Tunisia's qualification for the World Cup and its results in friendlies against [[Iran national football team|Iran]] and [[Costa Rica national football team|Costa Rica]],<ref>{{Cite web|title=Tunisia - Iran 1:0|url=https://www.flashscore.com/match/ClJnoE32/#match-summary|access-date=3 August 2020|website=www.flashscore.com|language=en}}</ref> led to its rise to 14th place in the [[FIFA World Rankings]], their best ever. Before the World Cup, Tunisia drew with [[Turkey national football team|Turkey]] and [[Portugal national football team|Portugal]],<ref>{{Cite web|title=Portugal - Tunisia 2:2|url=https://www.flashscore.com/match/SGgwGtU8/#match-summary|access-date=3 August 2020|website=www.flashscore.com|language=en}}</ref> in addition to a narrow defeat against Spain 1–0.<ref>{{Cite web|title=Spain - Tunisia 1:0|url=https://www.flashscore.com/match/dMdR34c8/#match-summary|access-date=3 August 2020|website=www.flashscore.com|language=en}}</ref> Despite this, in the World Cup, Tunisia were once again eliminated from the group stage. In the first match,<ref>{{Cite web|title=Tunisia - England 1:2|url=https://www.flashscore.com/match/COm14u4S/#match-summary|access-date=3 August 2020|website=www.flashscore.com|language=en}}</ref> [[England national football team|England]] won 2–1.<ref>{{cite web|date=18 June 2018|title=England kick off campaign with hard-fought victory|url=https://www.fifa.com/worldcup/archive/russia2018/matches/match/300331554/#match-summary|url-status=live|archive-url=https://web.archive.org/web/20180618185206/https://www.fifa.com/worldcup/archive/russia2018/matches/match/300331554/#match-summary|archive-date=18 June 2018|website=FIFA.com|publisher=Fédération Internationale de Football Association}}</ref> [[Belgium national football team|Belgium]] defeated the North Africans 5–2,<ref>{{Cite web|title=Belgium - Tunisia 5:2|url=https://www.flashscore.com/match/I5QTaaCq/#match-summary|access-date=3 August 2020|website=www.flashscore.com|language=en}}</ref> and in Tunisia's last game against [[Panama national football team|Panama]],<ref>{{Cite web|title=Panama - Tunisia 1:2|url=https://www.flashscore.com/match/4MSuccd2/#match-summary|access-date=3 August 2020|website=www.flashscore.com|language=en}}</ref> the Arab nation won 2–1.<ref>{{cite web|last=Chowdhury|first=Saj|date=28 June 2018|title=Wahbi Khazri scores as Tunisia end with 2-1 win over Panama|url=https://www.bbc.com/sport/football/44439319|work=BBC Sport}}</ref><ref>{{cite web|date=28 June 2018|title=Second-half surge sees Tunisia bow out in style|url=https://www.fifa.com/worldcup/archive/russia2018/matches/match/300331520/#match-summary|website=FIFA.com|publisher=Fédération Internationale de Football Association}}</ref> Tunisia qualified for the [[2019 Africa Cup of Nations]] with new manager [[Alain Giresse]]; the new manager would only record three ties, against [[Angola national football team|Angola]], [[Mali national football team|Mali]], and [[Mauritania national football team|Mauritania]] to qualify for the round 16. They eventually would win against [[Ghana national football team|Ghana]], and [[Madagascar national football team|Madagascar]] 3–0 in the quarter-finals, to qualify for the semi-finals for the first time in 15 years, losing to [[Senegal national football team|Senegal]] 1–0 in extra time. In September 2021, the national team began its [[2022 FIFA World Cup qualification]] campaign with three consecutive victories against Equatorial Guinea, Zambia,<ref>{{Cite web |title=Zambia vs. Tunisia - 7 September 2021 - Soccerway |url=https://int.soccerway.com/matches/2021/09/07/africa/wc-qualifying-africa/zambia/tunisia/3500828/ |access-date=19 December 2021 |website=int.soccerway.com}}</ref>  and Mauritania; they would then draw Mauritania 0–0 and lose against Equatorial Guinea 1–0, to advance for the [[2022 FIFA World Cup qualification – CAF third round|third round]] on the top of [[2022 FIFA World Cup qualification – CAF second round#Group B|the group]].<ref>{{Cite web |title=Equatorial Guinea vs. Tunisia - 13 November 2021 - Soccerway |url=https://int.soccerway.com/matches/2021/11/13/africa/wc-qualifying-africa/equatorial-guinea/tunisia/3500834/ |access-date=19 December 2021 |website=int.soccerway.com}}</ref><ref>{{Cite web |title=Tunisia vs. Mauritania - 7 October 2021 - Soccerway |url=https://int.soccerway.com/matches/2021/10/07/africa/wc-qualifying-africa/tunisia/mauritania/3500830/ |access-date=19 December 2021 |website=int.soccerway.com}}</ref>
+
+Qatar hosted the [[2021 FIFA Arab Cup]]; Tunisia started with a 5–1 win against Mauritania.<ref>{{Cite web |title=Tunisia vs. Mauritania - 30 November 2021 - Soccerway |url=https://int.soccerway.com/matches/2021/11/30/world/arab-cup/tunisia/mauritania/3505766/ |access-date=19 December 2021 |website=int.soccerway.com}}</ref> They then suffered an unexpected defeat to [[Syria national football team|Syria]],<ref>{{Cite web |title=Syria vs. Tunisia - 3 December 2021 - Soccerway |url=https://int.soccerway.com/matches/2021/12/03/world/arab-cup/syria/tunisia/3505771/ |access-date=19 December 2021 |website=int.soccerway.com}}</ref> before winning against the [[United Arab Emirates national football team|United Arab Emirates]].<ref>{{Cite web |title=Tunisia vs. UAE - 6 December 2021 - Soccerway |url=https://int.soccerway.com/matches/2021/12/06/world/arab-cup/tunisia/united-arab-emirates/3505773/ |access-date=19 December 2021 |website=int.soccerway.com}}</ref> In the quarter-finals Tunisia won against [[Oman national football team|Oman]] 2–1, and scored a 95th minute winner against Egypt in the semi-finals.<ref>{{Cite web |title=Tunisia vs. Egypt - 15 December 2021 - Soccerway |url=https://int.soccerway.com/matches/2021/12/15/world/arab-cup/tunisia/egypt/3505764/ |access-date=19 December 2021 |website=int.soccerway.com}}</ref> Tunisia faced [[Algeria national football team|Algeria]] in the final, losing 2–0.<ref>{{Cite web |title=Tunisia vs. Algeria - 18 December 2021 - Soccerway |url=https://int.soccerway.com/matches/2021/12/18/world/arab-cup/tunisia/algeria/3505770/ |access-date=19 December 2021 |website=int.soccerway.com}}</ref> The [[2021 Africa Cup of Nations]] was postponed to early 2022; in the group stage, Tunisia began with a 1–0 defeat against [[Mali national football team|Mali]], with Zambian referee [[Janny Sikazwe]] ending the match in the 85th minute.<ref>{{Cite web |title=Tunisia vs. Mali - 12 January 2022 - Soccerway |url=https://int.soccerway.com/matches/2022/01/12/africa/africa-cup-of-nations/tunisia/mali/3620595/ |access-date=11 June 2022 |website=int.soccerway.com}}</ref><ref>{{cite web |last=Lawless |first=Josh |date=13 January 2022 |title=AFCON Official Explains Why Referee From Tunisia Vs Mali Game Blew Early For Full-Time TWICE |url=https://www.sportbible.com/football/official-explains-why-referee-from-tunisia-vs-mali-game-blew-early-20220113 |url-status=live |archive-url=https://web.archive.org/web/20220125132253/https://www.sportbible.com/football/official-explains-why-referee-from-tunisia-vs-mali-game-blew-early-20220113 |archive-date=25 January 2022 |access-date=25 January 2022 |website=[[SPORTbible]] |publisher=The LADbible Group Ltd}}</ref> In the second match, the team achieved a 4–0 victory over Mauritania,<ref>{{Cite web |title=Tunisia vs. Mauritania - 16 January 2022 - Soccerway |url=https://int.soccerway.com/matches/2022/01/16/africa/africa-cup-of-nations/tunisia/mauritania/3620598/ |access-date=11 June 2022 |website=int.soccerway.com}}</ref> and lost against [[Gambia national football team|Gambia]] in the last group match. Tunisia defeated [[Nigeria national football team|Nigeria]] in the round of 16, and were eliminated by Burkina Faso.<ref>{{Cite web |title=Nigeria vs. Tunisia - 23 January 2022 - Soccerway |url=https://int.soccerway.com/matches/2022/01/23/africa/africa-cup-of-nations/nigeria/tunisia/3620602/ |access-date=11 June 2022 |website=int.soccerway.com}}</ref><ref>{{Cite web |title=Burkina Faso vs. Tunisia - 29 January 2022 - Soccerway |url=https://int.soccerway.com/matches/2022/01/29/africa/africa-cup-of-nations/burkina-faso/tunisia/3620625/ |access-date=11 June 2022 |website=int.soccerway.com}}</ref>
+
+In March, Tunisia qualified for their sixth World Cup, the [[2022 FIFA World Cup|2022 tournament]] in Qatar, the first hosted by an Arab nation, after beating Mali 1–0 on aggregate, taking revenge for the earlier loss in the AFCON.<ref>{{Cite web |title=Tunisia v Mali Match Report, 29/03/2022, WC Qualification Africa |url=https://www.goal.com/en-qa/match/tunisia-v-mali/report/4s40nvofupj68q3rtdbleri1g |access-date=2022-12-08 |website=Goal.com |archive-url=http://web.archive.org/web/20221208081624/https://www.goal.com/en-qa/match/tunisia-v-mali/report/4s40nvofupj68q3rtdbleri1g|archive-date=2022-12-08}}</ref> They then defeated [[Chile national football team|Chile]] and [[Japan national football team|Japan]] to win the [[2022 Kirin Cup Soccer]] title for the first time,<ref>{{Cite web |title=Match Report of Chile vs Tunisia - 2022-06-10 - Kirin Cup Soccer - Global Sports Archive |url=https://globalsportsarchive.com/match/soccer/2022-06-10/chile-vs-tunisia/2690868/ |access-date=11 June 2022 |website=globalsportsarchive.com}}</ref><ref>{{Cite web |date=14 June 2022 |title=Tunisia beat Japan to win Kirin Cup |url=https://www.france24.com/en/live-news/20220614-tunisia-beat-japan-to-win-kirin-cup |access-date=15 June 2022 |website=France 24 |language=en}}</ref> and [[Ferjani Sassi]] was named the best player of the tournament while his compatriot [[Issam Jebali]] finished as the top scorer with two goals.<ref>{{Cite web |date=15 June 2022 |title=Kirin Cup / Tunisie: Ferjani Sassi et Issam Jebali récompensés |url=https://africafootunited.com/kirin-cup-tunisie-ferjani-sassi-et-issam-jebali-recompenses/ |website=africafootunited|archive-url=http://web.archive.org/web/20220616182415/https://africafootunited.com/kirin-cup-tunisie-ferjani-sassi-et-issam-jebali-recompenses/|archive-date=2022-06-16}}</ref> Tunisia played two pre-World Cup friendlies in France in September 2022, defeating Comoros 1−0 in [[Croissy-sur-Seine]]<ref>{{Cite web|date=22 September 2022|title=Global Sports Archive|url=https://globalsportsarchive.com/match/soccer/2022-09-22/tunisia-vs-comoros/2832949/}}</ref>  and losing 5−1 to Brazil at the [[Parc des Princes]] in Paris.<ref>{{Cite web|date=27 September 2022|title=FIFA|url=https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/conmebol/match-center/400104558}}</ref> With the exception of Brazil, Tunisia's relatively good forms increased confidence on the side to break the knockout stage taboo as Tunisia found themselves grouped with world champions [[France national football team|France]], European dark horse [[Denmark national football team|Denmark]] and Asian minnows [[Australia men's national soccer team|Australia]].<ref>{{Cite web |date=2022-11-16 |title=FIFA World Cup 2022 Group D Teams: France, Australia, Denmark and Tunisia to face one another in Group D |url=https://indianexpress.com/article/sports/football/fifa-world-cup-group-d-team-guide-france-australia-denmark-tunisia-8271846/ |access-date=2022-12-08 |website=The Indian Express |language=en}}</ref> In [[2022 FIFA World Cup Group D|Group D]], Tunisia drew Euro 2020 semi-finalists Denmark 0−0 in a rather decent display by the African side.<ref>{{Cite web |last=Alexander |first=Duncan |date=2022-11-22 |title=Denmark 0-0 Tunisia: Goalless, but Far From Drab |url=https://theanalyst.com/2022/11/denmark-tunisia-stats-world-cup-2022/ |access-date=2022-12-08 |website=The Analyst |language=en}}</ref> But a 0−1 loss against Australia followed, severely hampering Tunisia's odds to progress. A 1−0 victory over France courtesy of a goal from [[Wahbi Khazri]] was not enough to seal Tunisia's place in the last 16 as Australia's [[Mathew Leckie]] goal against Denmark meant the Asian representative placed second.<ref>{{Cite web |date=2022-11-26 |title=Tunisia still in limbo after losing to Australia, must win last match |url=https://www.africanews.com/2022/11/26/australia-beats-tunisia-1-0/ |access-date=2022-12-08 |website=Africanews |language=en}}</ref><ref>{{cite web|url=https://www.theguardian.com/football/live/2022/nov/30/tunisia-v-france-world-cup-2022-live-score-updates|title=Tunisia 1 France 0: As it happened|date=30 November 2022|work=BBC Sport|accessdate=1 December 2022}}</ref>
+
+=== 2023–present: Difficulties and temporary decline ===
+After the World Cup, the federation rejected Kadri's resignation and extended his contract until 2024.<ref>{{Cite web |date=2024-09-03 |title=Aigles de Carthage : Jalel Kadri maintenu jusqu'en 2024 |url=https://www.tuniscope.com/ar/article/347043/actualites/sport/tunisie-405007 |access-date=2024-09-03 |website=tuniscope.com |language=fr-FR}}</ref><ref>{{Cite web |date=2022-12-30 |title=Equipe nationale : Jalel Kadri maintenu jusqu'en 2024 |url=https://lapresse.tn/2022/12/30/equipe-nationale-jalel-kadri-maintenu-jusquen-2024/ |access-date=2024-09-03 |website=La Presse de Tunisie |language=fr-FR|archive-url=http://web.archive.org/web/20240808200710/https://lapresse.tn/2022/12/30/equipe-nationale-jalel-kadri-maintenu-jusquen-2024/|archive-date=2024-08-08}}</ref> The team topped their [[2023 Africa Cup of Nations qualification]] group after defeating [[Libya national football team|Libya]] twice, [[Botswana national football team|Botswana]] 3–0, and a loss against [[Equatorial Guinea national football team|Equatorial Guinea]] 0–1. The team's performances began to decline, especially after the [[Tunisian Football Federation]] president, Wadie Jary, was imprisoned after accusations of financial corruption were proven.<ref>{{Cite web |title=En Tunisie, le patron de la fédération de foot écroué |url=https://www.jeuneafrique.com/1498401/politique/en-tunisie-le-patron-de-la-federation-de-foot-ecroue/ |access-date=2024-09-03 |website=JeuneAfrique.com |language=fr-FR}}</ref> On 17 November 2023, the team started [[2026 FIFA World Cup qualification (CAF)|2026 FIFA World Cup qualification]] with two victories against [[São Tomé and Príncipe national football team|São Tomé and Príncipe]] 4–0 and [[Malawi national football team|Malawi]] 1–0.<ref>{{Cite web |title=Match Report of Tunisia vs São Tomé e Príncipe - 2023-11-17 - WC Qualification |url=https://globalsportsarchive.com/match/soccer/2023-11-17/tunisia-vs-sao-tome-e-principe/3164040/ |access-date=2024-09-03 |website=globalsportsarchive.com}}</ref><ref>{{Cite web |title=Match Report of Malawi vs Tunisia - 2023-11-21 - WC Qualification |url=https://globalsportsarchive.com/match/soccer/2023-11-21/malawi-vs-tunisia/3164089/ |access-date=2024-09-03 |website=globalsportsarchive.com}}</ref> At the [[2023 Africa Cup of Nations]], Tunisia was drawn alongside [[Mali national football team|Mali]], [[Namibia national football team|Namibia]] and [[South Africa national soccer team|South Africa]].<ref>{{Cite web |title=CAN 2024: La Tunisie avec l'Afrique du Sud, le Mali et la Namibie |url=https://www.infosfoot.net/2023/10/12/can-2024-la-tunisie-avec-lafrique-du-sud-le-mali-et-la-namibie/ |access-date=2024-10-13 |language=fr-FR}}</ref>
+
+The team endured a poor performance at the tournament, as they lost to Namibia 0–1, before drawing their latter group matches against Mali 1–1 and South Africa 0–0, being eliminated from the group stage. Kadri was dismissed and [[Montasser Louhichi]] was appointed in his place temporarily. In March, the team participated in the Egyptian Capital Cup, a friendly tournament affiliated with the [[2024 FIFA Series#Egypt (ACUD Cup)|2024 FIFA Series]].<ref>{{Cite web |date=2024-03-21 |title=C'est quoi ces FIFA Séries, dernière née des compétitions internationales ? |url=https://www.sofoot.com/articles/cest-quoi-ces-fifa-series-derniere-nee-des-competitions-internationales |access-date=2024-10-13 |website=SOFOOT.com |language=fr}}</ref> The team played in the semi-final against [[Croatia national football team|Croatia]] and, after a 0–0 draw, lost on penalties 4–5.<ref>{{Cite web |title=Match Report of Tunisia vs Croatia - 2024-03-23 - ACUD Cup - Global Sports Archive |url=https://globalsportsarchive.com/match/soccer/2024-03-23/tunisia-vs-croatia/3278205/ |access-date=2024-10-13 |website=globalsportsarchive.com}}</ref> In the third-place match, the team faced [[New Zealand men's national football team|New Zealand]]; the match also ended 0–0, which ended with a 4–2 penalty shootout victory and a third-place finish for Tunisia.<ref>{{Cite web |title=Match Report of New Zealand vs Tunisia - 2024-03-26 - ACUD Cup - Global Sports Archive |url=https://globalsportsarchive.com/match/soccer/2024-03-26/new-zealand-vs-tunisia/3281966/ |access-date=2024-10-13 |website=globalsportsarchive.com}}</ref> Louhichi continued to lead the team in the third and fourth rounds of the World Cup qualifiers.<ref>{{Cite web |last=JENNY |first=Hédi |date=2024-06-03 |title=Eliminatoires mondial 2026 - À la veille de Tunisie-Guinée Équatoriale (ce mercredi à 20h00) : Un choix et une lourde responsabilité |url=https://lapresse.tn/2024/06/03/eliminatoires-mondial-2026-a-la-veille-de-tunisie-guinee-equatoriale-ce-mercredi-a-20h00-un-choix-et-une-lourde-responsabilite/ |access-date=2024-10-13 |website=La Presse de Tunisie |language=fr-FR|archive-url=http://web.archive.org/web/20240611053204/https://lapresse.tn/2024/06/03/eliminatoires-mondial-2026-a-la-veille-de-tunisie-guinee-equatoriale-ce-mercredi-a-20h00-un-choix-et-une-lourde-responsabilite/|archive-date=2024-06-11}}</ref> On 1 July, [[Faouzi Benzarti]] was appointed coach for the fourth time.<ref>{{Cite web |last=Boubaker |first=Saber Ben |date=2024-06-14 |title=Décisions FTF : officiel. Benzarti nouveau sélectionneur national (communiqué) |url=https://sport.tunisienumerique.com/decisions-ftf-officiel-benzarti-nouveau-selectionneur-national-communique/ |access-date=2024-10-13 |website=Sport By TN |language=fr-FR}}</ref> Under Benzarti's leadership, the team started [[2025 Africa Cup of Nations qualification]] with two wins against [[Madagascar national football team|Madagascar]] 1–0 and [[Gambia national football team|Gambia]] 2–1.<ref>{{Cite web |title=Match Report of Tunisia vs Madagascar - 2024-09-05 - TotalEnergies Africa Cup of Nations Qualification - Global Sports Archive |url=https://globalsportsarchive.com/match/soccer/2024-09-05/tunisia-vs-madagascar/3494687/ |access-date=2024-10-13 |website=globalsportsarchive.com}}</ref><ref>{{Cite web |title=Match Report of Gambia vs Tunisia - 2024-09-08 - TotalEnergies Africa Cup of Nations Qualification - Global Sports Archive |url=https://globalsportsarchive.com/match/soccer/2024-09-08/gambia-vs-tunisia/3494689/ |access-date=2024-10-13 |website=globalsportsarchive.com}}</ref> Tunisia then suffered a defeat at home against [[Comoros national football team|Comoros]] 0–1 and drew them away 1–1,<ref>{{Cite web |title=Match Report of Tunisia vs Comoros - 2024-10-11 - TotalEnergies Africa Cup of Nations Qualification - Global Sports Archive |url=https://globalsportsarchive.com/match/soccer/2024-10-11/tunisia-vs-comoros/3494692/ |access-date=2024-10-16 |website=globalsportsarchive.com}}</ref><ref>{{Cite web |title=Match Report of Comoros vs Tunisia - 2024-10-15 - TotalEnergies Africa Cup of Nations Qualification - Global Sports Archive |url=https://globalsportsarchive.com/match/soccer/2024-10-15/comoros-vs-tunisia/3494694/ |access-date=2024-10-16 |website=globalsportsarchive.com}}</ref> prompting Benzati's resignation before being replaced by [[Kais Yaâkoubi]], who led Tunisia to the AFCON.
+
+On February 10, 2025, [[Sami Trabelsi]] returned to the team as coach twelve years after his departure, leading the team to qualifying for the [[2026 FIFA World Cup]].<ref>{{Cite web |title=Sami Trabelsi, sélectionneur des Aigles de Carthage |url=https://www.mosaiquefm.net/fr/football/1378924/sami-trabelsi-selectionneur-des-aigles-de-carthage |access-date=2025-04-19 |website=Mosaique FM |language=fr}}</ref><ref>{{Cite web |last=America |first=Mohamed Ben Romdhane scored in added time to give Tunisia a 1-0 win in Equatorial Guinea on Monday and qualification for the 2026 World Cup in North |title=Tunisia qualify for 2026 World Cup |url=https://www.beinsports.com/en-mena/football/caf-world-cup-qualifiers/articles-video/tunisia-qualify-for-2026-world-cup-2025-09-08 |access-date=2025-09-10 |website=beIN SPORTS |language=en-mena}}</ref> On October 13, 2025, Tunisia became the first team in history to qualify for the World Cup without conceding a goal, during the [[2026 FIFA World Cup qualification – CAF Group H|2026 World Cup qualifying]] campaign.<ref>{{Cite web |title=TRT Afrika - Tunisia finish 2026 World Cup qualifiers without conceding a goal |url=https://www.trtafrika.com/article/0df923946b1f |access-date=2025-10-14 |website=www.trtafrika.com |language=en}}</ref><ref>{{Cite web |title=Tunisia complete perfect World Cup qualifying campaign |url=https://www.cafonline.com/fifa-world-cup/news/tunisia-complete-perfect-world-cup-qualifying-campaign/ |access-date=2025-10-14 |publisher=Confederation of African Football |language=en-GB}}</ref> On November 18, at [[Stade Pierre-Mauroy]] in [[Lille]], Tunisia achieved a historic 1–1 draw against [[Brazil national football team|Brazil]] in front of 40,000 spectators.<ref>{{Cite web|title=Tunisia – Brazil: A Historic Match Tunisians Must Not Miss|url=https://news-tunisia.tunisienumerique.com/tunisia-brazil-a-historic-match-tunisians-must-not-miss/|website=Tunisie|date=2025-11-13|access-date=2025-11-28|language=en-US|first=Saber|last=Boubaker}}</ref> The team entered the [[2025 FIFA Arab Cup]] in Qatar missing key players due to their European clubs refusing to release them and conflicting schedule to the also upcoming [[2025 Africa Cup of Nations]], resulting in their elimination from the group stage after a loss, a draw, and a win.<ref>{{Cite web |last=Boubaker |first=Saber |date=2025-12-07 |title=Arab Cup 2025 – Group A: Tunisia eliminated despite victory, Palestine and Syria reach quarterfinals (video) |url=https://news-tunisia.tunisienumerique.com/arab-cup-2025-group-a-tunisia-eliminated-despite-victory-palestine-and-syria-reach-quarterfinals-video/ |access-date=2025-12-08 |website=Tunisie |language=en-US}}</ref> On June 15, 2026, Tunisia lost 5-1 to Sweden in their first group match of the 2026 FIFA World Cup,<ref>{{Cite web |url=https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/sweden-tunisia-highlights-match-report |title=Five-goal Sweden sink Tunisia {{!}} Match Report and Highlights |access-date=2026-06-21 |website=www.fifa.com}}</ref> and subsequently lost 4-0 to Japan in their second group game, eliminating them from the tournament.<ref>{{cite web |title=Tunisia vs Japan Match Report |url=https://www.bbc.co.uk/sport/football/live/cy498e713k7t |website=BBC Sport |publisher=BBC |access-date=21 June 2026}}</ref>
+
+==Home stadium==
+
+From 1956, the year of independence, until 1967, the 18,000-seat [[Chedly Zouiten Stadium]] was the Tunisian National Stadium.<ref name="worldstadiums.com2">{{Cite web|title=World Stadiums - Stadiums in Tunisia|url=http://www.worldstadiums.com/africa/countries/tunisia.shtml|access-date=16 June 2021|website=www.worldstadiums.com|archive-date=5 June 2011|archive-url=https://web.archive.org/web/20110605172151/http://www.worldstadiums.com/africa/countries/tunisia.shtml|url-status=dead}}</ref> The stadium hosted matches of the [[1965 African Cup of Nations]], including the final between Tunisia and [[Ghana national football team|Ghana]], and matches from the [[1994 African Cup of Nations]]. In 1967, the [[El Menzah Stadium]], with a capacity of 39,858, was opened; it was built to host the [[1967 Mediterranean Games]]. Tunisia's first match at the stadium was played on 8 September 1967 against [[Libya national football team|Libya]]. On 11 December 1977, the stadium witnessed Tunisia qualifying for the World Cup for the first time in its history. It was completely renovated for the 1994 African Cup of Nations, and later hosted some matches for the [[2004 African Cup of Nations]]. Tunisia's last match at El Menzah was on 4 January 2017 against [[Uganda national football team|Uganda]],<ref>{{Cite web|title=Amical : Tunisie-Ouganda aura lieu à El Menzah {{!}} Revue de Sport|url=https://news.gnet.tn/archives/revue-de-sport/amical-tunisie-ouganda-aura-lieu-a-el-menzah/id-menu-323.html|website=news.gnet.tn|access-date=2025-11-28}}</ref> and the stadium has been undergoing renovations since 2022.<ref>{{cite web |access-date=26 August 2022|date=4 June 2022|language=fr|title=Démarrage imminent des travaux de rénovation du stade d’El Menzah|url=https://www.mosaiquefm.net/fr/football/1054979/demarrage-imminent-des-travaux-de-renovation-du-stade-d-el-menzah|website=mosaiquefm.net}}<!-- auto-translated from French by Module:CS1 translator -->.</ref><ref>{{cite web |access-date=26 August 2022|date=11 June 2022|language=fr|title=Réaménagement du stade olympique d'El Menzah : un budget de 100 millions de dinars|url=https://www.webmanagercenter.com/2022/06/11/487824/reamenagement-du-stade-olympique-del-menzah-un-budget-de-100-millions-de-dinars/|website=webmanagercenter.com}}<!-- auto-translated from French by Module:CS1 translator -->.</ref>
+
+In 2001, [[Hammadi Agrebi Stadium]] (opened as 7 November Stadium) was inaugurated as Tunisia's national stadium ahead of the [[2001 Mediterranean Games]]. Located in the sports city of Radès in [[Radès]], in the southern suburb of the city [[Tunis]], has an all-seater capacity of 60,000 as the largest stadium in the country. Tunisia's first match at the stadium was on 21 August 2002 against [[France national football team|France]]. In 2004, the stadium hosted Tunisia's six matches during the 2004 African Cup of Nations, which the team won for the first time after defeating [[Morocco national football team|Morocco]] in [[2004 Africa Cup of Nations final|the final]]. The stadium is considered the team's current stronghold, as they haven't played any matches away from it since 2017.
+
+The Tunisians often host their matches at the [[Mustapha Ben Jannet Stadium]] in [[Monastir, Tunisia|Monastir]] which has a capacity of 20,000. In addition, there are many other venues that host games, such as the [[Sousse Olympic Stadium]], which hosted a friendly match between Tunisia and [[Switzerland national football team|Switzerland]] on 14 November 2012 and also hosted a match in the [[2012 Africa Cup of Nations qualification]].<ref>{{Cite web|title=[EN] La Tunisie recevra la Suisse à Sousse|url=https://tunisie-foot.com/2012/10/19/en-la-tunisie-recevra-la-suisse-a-sousse/|website=Tunisie-Foot|access-date=2025-11-28|language=fr-FR}}</ref> On 15 November 2016, The team played their first match at the [[Gabès Municipal Stadium]] against [[Mauritania national football team|Mauritania]].<ref>{{Cite web|title=[Équipe Nationale] : Tunisie – Mauritanie à Gabès|url=https://tunisie-foot.com/2016/11/01/equipe-nationale-tunisie-mauritanie-a-gabes/|website=Tunisie-Foot|access-date=2025-11-28|language=fr-FR}}</ref>
+{| class="wikitable" width="95%" style="text-align:center;font-size:100%;"
+! colspan="5" style="background:#E70013; color:white; {{box-shadow border|a|white|2px}}"|Tunisia national football team home stadiums
+|-
+! width="1%" |Image
+! width="10%" |Stadium
+! width="5%" |Capacity
+! width="5%" |Location
+! width="20%" |Last match
+|-
+|[[File:الملعب الأولمبي برادس 2.jpg|171x171px]]
+| style="text-align:left" |[[Hammadi Agrebi Stadium]]
+| style="text-align:left" |60,000 
+| style="text-align:left" |[[Radès]]
+| style="text-align:left" |'''v''' {{fb|JOR}} {{small|(14 November 2025; [[Exhibition game|Friendly]])}}
+|}
+
+==Rivalries==
+{{main|Algeria–Tunisia football rivalry|Egypt–Tunisia football rivalry}}
+
+[[File:Tunisia vs Algeria 2013 AFCON.jpg|thumb|Tunisia against [[Algeria national football team|Algeria]] at the [[2013 Africa Cup of Nations]] in South Africa.]]
+Tunisia's main football rivals are its neighbours Algeria, Morocco, and Egypt, with which it shares close cultural and political relations. Tunisia have played 45 games against [[Algeria national football team|Algeria]]. After the [[Algerian War|independence of Algeria]], a friendly match took place at the [[Stade Chedly Zouiten]].<ref>{{Cite journal |date=1983 |title= An Approach to "Halokinematics" and Interplate Tectonics (North-Central Algeria)|url=http://dx.doi.org/10.1306/bf9ab60a-0eb6-11d7-8643000102c1865d |journal= Journal of Petroleum Geology|volume=6 |doi=10.1306/bf9ab60a-0eb6-11d7-8643000102c1865d |issn=0141-6421|last1= Fakhry A. Assaad|url-access=subscription}}</ref> The teams also met three times in the [[FIFA World Cup qualification|qualifying phase of the World Cup]] in [[1970 FIFA World Cup qualification (CAF)|1970]], [[1978 FIFA World Cup qualification (CAF)|1978]] and [[1986 FIFA World Cup qualification (CAF)|1986]]. The overall record slightly favours the Algerians with 16 wins, 14 draws and 14 losses. Algeria and Tunisia have played three times in official competitions: twice in the [[Africa Cup of Nations]], in [[2013 Africa Cup of Nations|2013]] and [[2017 Africa Cup of Nations|2017]],<ref>{{Cite web |date=11 December 2019 |title=TUN 1-0 ALG: Tunisia - Algeria |url=https://www.flashscore.com/match/0llPI9un/#match-summary |access-date=16 August 2022 |archive-url=https://web.archive.org/web/20191211045638/https://www.flashscore.com/match/0llPI9un/#match-summary |archive-date=11 December 2019 }}</ref><ref>{{Cite web |date=11 December 2019 |title=ALG 1-2 TUN: Algeria - Tunisia |url=https://www.flashscore.com/match/M5B8KeYT/#match-summary |access-date=16 August 2022 |archive-url=https://web.archive.org/web/20191211045642/https://www.flashscore.com/match/M5B8KeYT/#match-summary |archive-date=11 December 2019 }}</ref> which Tunisia won both times, and once in the [[FIFA Arab Cup]] in [[2021 FIFA Arab Cup|2021]], which Algeria won.<ref>{{Cite web |title=Tunisia v Algeria, 18 December 2021 |url=https://www.11v11.com/matches/tunisia-v-algeria-18-december-2021-373407/ |access-date=16 August 2022 |website=11v11.com}}</ref> Egypt and Tunisia have met 35 times in both official and friendly matches. Tunisia have won 16 matches against Egypt's 11, while 8 matches have ended in a draw.<ref>{{Cite web |title=Tunisia national football team: record v Egypt |url=https://www.11v11.com/teams/tunisia/tab/opposingTeams/opposition/Egypt/ |access-date=16 August 2022 |website=www.11v11.com}}</ref> Tunisia and [[Morocco national football team|Morocco]] have played 50 games since their independence from France in 1956.<ref>{{Cite web |title=Tunisia national football team: record v Morocco |url=https://www.11v11.com/teams/tunisia/tab/opposingTeams/opposition/Morocco/ |access-date=16 August 2022 |website=www.11v11.com}}</ref> Tunisia first played Morocco in [[1962 FIFA World Cup qualification|1962 World Cup qualification]] on 30 October 1960 in [[Casablanca]].<ref>{{Cite web |title=Morocco v Tunisia, 30 October 1960 |url=https://www.11v11.com/matches/morocco-v-tunisia-30-october-1960-227773/ |access-date=16 August 2022 |website=11v11.com}}</ref> Many matches were played in [[FIFA World Cup qualification|World Cup qualification]] as they met in [[1962 FIFA World Cup|1962]], [[1970 FIFA World Cup|1970]], [[1978 FIFA World Cup|1978]], [[1990 FIFA World Cup|1990]], [[1994 FIFA World Cup|1994]] and [[2006 FIFA World Cup|2006]] qualifying.<ref>{{Cite web |title=Tunisia v Morocco, 08 October 2005 |url=https://www.11v11.com/matches/tunisia-v-morocco-08-october-2005-255012/ |access-date=16 August 2022 |website=11v11.com}}</ref> They also met four times in the African Cup of Nations. Two of them ended in a draw in [[1978 African Cup of Nations|1978]] and [[2000 African Cup of Nations|2000]] and the other two matches ended up as a Tunisian win in the [[2004 African Cup of Nations|2004]] and [[2012 Africa Cup of Nations|2012]] AFCONs.<ref>{{Cite web |title=Morocco v Tunisia, 23 January 2012 |url=https://www.11v11.com/matches/morocco-v-tunisia-23-january-2012-297047/ |access-date=16 August 2022 |website=11v11.com}}</ref>
+
+== Team image ==
+
+=== Supporters ===
+[[File:WM_2006_-_Tunisia.jpg|thumb|Tunisian fans in [[Berlin]] at the [[2006 FIFA World Cup]].]]
+Fans of the Tunisian national team display the [[Flag of Tunisia|country's national flag]], usually with an emphasis on the red element.{{Citation needed|date=September 2025}}
+
+=== Kit manufacturer ===
+{{Commons|Tunisia national football team kits}}
+
+{| class="wikitable"
+! style="background:#E70013; color:white; {{box-shadow border|a|white|2px}}"|Period
+! style="background:#E70013; color:white; {{box-shadow border|a|white|2px}}"|Kit supplier
+! style="background:#E70013; color:white; {{box-shadow border|a|white|2px}}"|{{Tooltip|Ref|References}}
+|-
+|1956–1969
+|Local equipment
+|<ref>{{Cite web|title=Maillot Domicile Tunisia 1973|url=https://www.footballkitarchive.com/fr/tunisia-1973-home-kit/|access-date=20 September 2021|website=Football Kit Archive|language=fr-FR}}</ref>
+|-
+|1970–1993
+|{{Flagicon|GER}} [[Adidas]]
+|<ref>{{Cite web|title=Maillot Domicile Tunisia 1992|url=https://www.footballkitarchive.com/fr/tunisia-1992-home-kit/|access-date=20 September 2021|website=Football Kit Archive|language=fr-FR}}</ref>
+|-
+|1994–1995
+|{{Flagicon|TUN|1959}} Guidas
+|<ref>{{Cite web|title=Maillot Domicile Tunisia 1994|url=https://www.footballkitarchive.com/fr/tunisia-1994-home-kit/|access-date=20 September 2021|website=Football Kit Archive|language=fr-FR}}</ref>
+|-
+|1996–1997
+|{{Flagicon|ITA}} [[Kappa (brand)|Kappa]]
+|<ref>{{Cite web|title=Maillot Domicile Tunisia 1995|url=https://www.footballkitarchive.com/fr/tunisia-1995-home-kit/|access-date=20 September 2021|website=Football Kit Archive|language=fr-FR}}</ref>
+|-
+|1998–1999
+|{{Flagicon|ITA}} [[Lotto Sport Italia|Lotto]]
+|<ref>{{Cite web|title=Maillot Exterieur Tunisia 1998|url=https://www.footballkitarchive.com/fr/tunisia-1998-away-kit/|access-date=20 September 2021|website=Football Kit Archive|language=fr-FR}}</ref>
+|-
+|2000–2001
+|{{Flagicon|GER}} [[Uhlsport]]
+|<ref>{{Cite web|title=Maillot Domicile Tunisia 2001|url=https://www.footballkitarchive.com/fr/tunisia-2001-home-kit/|access-date=20 September 2021|website=Football Kit Archive|language=fr-FR}}</ref>
+|-
+|2002–2011
+|{{Flagicon|GER}} [[Puma (brand)|Puma]]
+|<ref>{{Cite web|title=Maillot Domicile Tunisia 2010|url=https://www.footballkitarchive.com/fr/tunisia-2010-home-kit/|access-date=20 September 2021|website=Football Kit Archive|language=fr-FR}}</ref>
+|-
+|2011–2016
+|{{Flagicon|SUI|civil}} [[Burrda Sport]]
+|<ref>{{Cite web|title=Maillot Domicile Tunisia 2014|url=https://www.footballkitarchive.com/fr/tunisia-2014-home-kit/|access-date=20 September 2021|website=Football Kit Archive|language=fr-FR}}</ref>
+|-
+|2016–2018
+|{{Flagicon|GER}} [[Uhlsport]]
+|<ref>{{Cite web|title=News - uhlsport devient l'équipementier officiel de la Fédération Tunisienne de Football|url=https://www.uhlsport.com/fr/tunisian-football-federation|access-date=20 September 2021|website=uhlsport|language=fr|archive-url=http://web.archive.org/web/20180811215424/https://www.uhlsport.com/fr/tunisian-football-federation|archive-date=2018-08-11}}</ref>
+|-
+|2019–2026
+|{{Flagicon|ITA}} [[Kappa (brand)|Kappa]]
+|<ref>{{Cite web|date=21 November 2018|title=Football - Kappa nouvel équipementier de la Tunisie|url=https://www.sportbuzzbusiness.fr/football-kappa-nouvel-equipementier-de-la-tunisie.html|access-date=20 September 2021|website=SportBuzzBusiness.fr|language=fr-FR}}</ref>
+|-
+|}
+
+==Results and fixtures==
+{{main|Tunisia national football team results}}
+
+{{further|Tunisia national football team results (2020–present)}}
+The following is a list of match results in the last 12 months, as well as any future matches that have been scheduled.
+
+{{legend2|#CCFFCC|Win|border=1px solid #AAAAAA}}
+{{legend2|#FFFFCC|Draw|border=1px solid #AAAAAA}}
+{{legend2|#FFCCCC|Loss|border=1px solid #AAAAAA}}
+{{legend2|#FFFFFF|Fixture|border=1px solid #AAAAAA}}
+
+=== 2025 ===
+{{Football box collapsible
+|format     = 1
+|date       = 4 September
+|round      = [[2026 FIFA World Cup qualification – CAF Group H#TUN v LBR|2026 FIFA World Cup qualification]]
+|time       = {{UTZ|20:00|1}}
+|team1      = Tunisia {{flagdeco|TUN}}
+|score      = 3–0
+|team2      = {{fb|LBR}}
+|report     = https://www.fifa.com/en/match-centre/match/520/288282/288289/400020809
+|goals1     = 
+*[[Hazem Mastouri|Mastouri]] {{goal|5}}
+*[[Ferjani Sassi|Sassi]] {{goal|66}}
+*[[Elias Saad|Saad]] {{goal|90+4}}
+|goals2     = 
+|stadium    = [[Hammadi Agrebi Stadium]]
+|location   = [[Tunis]], Tunisia
+|attendance = 27,000
+|referee    = Adissa Ligali ([[Benin Football Association|Benin]])
+|result     = W
+}}
+{{Football box collapsible
+|format     = 1
+|date       = 8 September
+|round      = [[2026 FIFA World Cup qualification – CAF Group H#EQG v TUN|2026 FIFA World Cup qualification]]
+|time       = {{UTZ|14:00|1}}
+|team1      = {{fb-rt|EQG}}
+|score      = 0–1
+|team2      = {{flagdeco|TUN}} Tunisia
+|report     = https://www.fifa.com/en/match-centre/match/520/288282/288289/400020808
+|goals1     = 
+|goals2     = [[Mohamed Ali Ben Romdhane|Ben Romdhane]] {{goal|90+4}}
+|stadium    = [[Estadio de Malabo]]
+|location   = [[Malabo]], Equatorial Guinea
+|attendance = 
+|referee    = Patrice Milazare ([[Mauritius Football Association|Mauritius]])
+|result     = W
+}}
+{{Football box collapsible
+|format     = 1
+|date       = 10 October
+|round      = [[2026 FIFA World Cup qualification – CAF Group H#STP v TUN|2026 FIFA World Cup qualification]]
+|time       = {{UTZ|17:00|1}}
+|team1      = {{fb-rt|STP}}
+|score      = 0–6 
+|team2      = {{flagdeco|TUN}} Tunisia
+|report     = https://www.fifa.com/en/match-centre/match/520/288282/288289/400021071
+|goals1     = 
+|goals2     =
+*[[Firas Chaouat|Chaouat]] {{goal|36}}
+*[[Elias Saad|Saad]] {{goal|39||43}}
+*[[Ismaël Gharbi|Gharbi]] {{goal|47}}
+*[[Mohamed Ali Ben Romdhane|Ben Romdhane]] {{goal|68|pen.|90}} 
+|stadium    = [[Hammadi Agrebi Stadium]]
+|location   = [[Tunis]], Tunisia
+|attendance = 5,000
+|referee    = Andofetra Rakotojaona ([[Malagasy Football Federation|Madagascar]]) 
+|result     = W 
+}}
+{{Football box collapsible
+|format     = 1
+|date       = 13 October
+|round      = [[2026 FIFA World Cup qualification – CAF Group H#TUN v NAM|2026 FIFA World Cup qualification]]
+|time       = {{UTZ|14:00|1}}
+|team1      = Tunisia {{flagdeco|TUN}}
+|score      = 3–0
+|team2      = {{fb|NAM}}
+|report     = https://www.fifa.com/en/match-centre/match/520/288282/288289/400021072
+|goals1     = 
+|goals2     = 
+*[[Ali Abdi (footballer)|Abdi]] {{goal|28|pen.}}
+*[[Hannibal Mejbri|Mejbri]] {{goal|55}}
+*[[Ferjani Sassi|Sassi]] {{goal|64}}
+|stadium    = [[Hammadi Agrebi Stadium]]
+|location   = [[Tunis]], Tunisia
+|attendance = 
+|referee    = Issa Sy ([[Senegal Football Association|Senegal]])
+|result     = W
+}}
+{{Football box collapsible
+|format     = 1
+|date       = 12 November
+|round      = [[Exhibition game#International football|Friendly]]
+|time       = {{UTZ|17:45|1}}
+|team1      = Tunisia {{flagdeco|TUN}}
+|score      = 1–1
+|team2      = {{fb|MTN}}
+|report     = https://globalsportsarchive.com/en/soccer/match/2025-11-12/tunisia-vs-mauritania/3936867
+|goals1     = [[Firas Chaouat|Chaouat]] {{goal|38}}
+|goals2     = [[Mohamed Sarr (Mauritanian footballer)|M. Sarr]] {{goal|51}}
+|stadium    = [[Hammadi Agrebi Stadium]]
+|location   = [[Tunis]], Tunisia
+|attendance = 
+|referee    = Rafik Aouina ([[Algerian Football Federation|Algeria]])
+|result     = d
+}}
+{{Football box collapsible
+|format     = 1
+|date       = 14 November
+|round      = [[Exhibition game#International football|Friendly]]
+|time       = {{UTZ|17:45|1}}
+|team1      = Tunisia {{flagdeco|TUN}}
+|score      = 3–2
+|team2      = {{fb|JOR}}
+|report     = https://globalsportsarchive.com/en/soccer/match/2025-11-14/tunisia-vs-jordan/3936868
+|goals1     = 
+*[[Ali Abdi (footballer)|Abdi]] {{goal|43}}
+*[[Montassar Talbi|Talbi]] {{goal|66}}
+*[[Elias Saad|Saad]] {{goal|85}}
+|goals2     = 
+*[[Yazan Al-Naimat|Al-Naimat]] {{goal|29}}
+*[[Amer Jamous|Jamous]] {{goal|50}}
+|stadium    = [[Hammadi Agrebi Stadium]]
+|location   = [[Tunis]], Tunisia
+|attendance = 13,000
+|referee    = Samir Guezzaz ([[Royal Moroccan Football Federation|Morocco]])
+|result     = w
+}}
+{{Football box collapsible
+| format    = 1
+| round     = [[Exhibition game#International football|Friendly]]
+| date      = 18 November
+| time      = {{UTZ|20:30|1}}
+| team1     = {{fb-rt|BRA}}
+| score     = 1–1
+| team2     = {{flagdeco|TUN}} Tunisia
+| report    = https://globalsportsarchive.com/en/soccer/match/2025-11-18/brazil-vs-tunisia/3933151
+| goals1    =
+*[[Estêvão Willian|Estêvão]] {{goal|44|p}}
+| goals2    =
+*[[Hazem Mastouri|Mastouri]] {{goal|23}}
+| location  = [[Lille]], France
+| stadium   = [[Stade Pierre-Mauroy]]
+| attendance = 40,000
+| referee   = [[Jérôme Brisard]] ([[French Football Federation|France]])
+| result    = D
+}}
+{{football box collapsible 
+|format       = 1
+|date         = 1 December
+|time         = {{UTZ|16:00|3}}
+|round        = [[2025 FIFA Arab Cup Group A#Tunisia vs Syria|2025 FIFA Arab Cup GS]]
+|team1        = Tunisia {{flagdeco|TUN}}
+|score        = {{score link|2025 FIFA Arab Cup Group A#Tunisia vs Syria|0–1}}
+|team2        = {{fb|SYR}}
+|report       = https://www.fifa.com/en/match-centre/match/10013/290556/290557/400020113
+|goals1       =
+|goals2       =
+*[[Omar Khribin|Khribin]] {{Goal|48}}
+|location     = [[Al Rayyan]], Qatar
+|stadium      = [[Ahmad bin Ali Stadium]]
+|attendance   = 26,966
+|referee      = Juan Calderón ([[Costa Rican Football Federation|Costa Rica]])
+|result       = l
+}}
+{{football box collapsible 
+|format       = 1
+|date         = 4 December
+|time         = {{UTZ|17:30|3}}
+|round        = [[2025 FIFA Arab Cup Group A#Palestine vs Tunisia|2025 FIFA Arab Cup GS]]
+|team1        = {{fb-rt|PLE}}
+|score        = {{score link|2025 FIFA Arab Cup Group A#Palestine vs Tunisia|2–2}}
+|team2        = {{flagdeco|TUN}} Tunisia
+|report       = https://www.fifa.com/en/match-centre/match/10013/290556/290557/400020116
+|goals1       =
+*[[Hamed Hamdan|Hamdan]] {{goal|61}}
+*[[Zaid Qunbar|Qunbar]] {{goal|85}}
+|goals2       =
+*[[Amor Layouni|Layouni]] {{goal|16}}
+*[[Firas Chaouat|Chaouat]] {{goal|51}}
+|location     = [[Lusail]], Qatar
+|stadium      = [[Lusail Stadium]]
+|attendance   = 44,548
+|referee      = [[Ismail Elfath]] ([[United States Soccer Federation|United States]])
+|result       = D
+}}
+{{football box collapsible 
+|format       = 1
+|date         = 7 December
+|time         = {{UTZ|20:00|3}}
+|round        = [[2025 FIFA Arab Cup Group A#Qatar vs Tunisia|2025 FIFA Arab Cup GS]]
+|team1        = {{fb-rt|QAT}}
+|score        = {{score link|2025 FIFA Arab Cup Group A#Qatar vs Tunisia|0–3}}
+|team2        = {{flagdeco|TUN}} Tunisia
+|report       = https://www.fifa.com/en/match-centre/match/10013/290556/290557/400020120
+|goals1       = 
+|goals2       = 
+* [[Mohamed Ali Ben Romdhane|Ben Romdhane]] {{goal|16}}
+* [[Yassine Meriah|Meriah]] {{goal|62}}
+* [[Mohamed Ben Ali|Ben Ali]] {{goal|90+4}}
+|location     = [[Al Khor (city)|Al Khor]], Qatar
+|stadium      = [[Al Bayt Stadium]]
+|attendance   = 48,151
+|referee      = [[Espen Eskås]] ([[Norwegian Football Federation|Norway]])
+|result       = W
+}}
+{{Football box collapsible
+|format     = 1
+|date       = 18 December
+|round      = [[Exhibition game|Friendly]]
+|time       = {{UTZ|15:00|1}}
+|team1      = Tunisia {{flagdeco|TUN}}
+|score      = 2–1
+|team2      = {{fb|BOT}}
+|report     = https://www.flashscore.com/match/football/botswana-naNvXTwI/tunisia-QqZVYk95/?mid=IiijJBiS
+|goals1     = 
+*[[Naïm Sliti|Sliti]] {{goal|85||90+4|p}}
+|goals2     = 
+*[[Tumisang Orebonye|Orebonye]] {{goal|50}}
+|stadium    = Tabarka Training Center
+|location   = [[Tabarka]], Tunisia
+|attendance = 0 ([[Behind closed doors (sport)|Behind closed doors]])
+|referee    = Abdelwahid Haridiwa ([[Libyan Football Federation|Libya]])
+|result     = W
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[2025 Africa Cup of Nations Group C#Tunisia vs Uganda|2025 AFCON GS]]
+|date       = 23 December
+|time       = {{UTZ|21:00|1}}
+|team1      = Tunisia {{flagdeco|TUN}}
+|score      = {{score link|2025 Africa Cup of Nations Group C#Tunisia vs Uganda|3–1}}
+|team2      = {{fb|UGA}}
+|report     = https://www.cafonline.com/afcon2025/match-centre?competition=190&season=2025&match=2506779
+|goals1     = 
+*[[Ellyes Skhiri|Skhiri]] {{goal|10}}
+*[[Elias Achouri|Achouri]] {{goal|40||64}}
+|goals2     = 
+*[[Denis Omedi|Omedi]] {{goal|90+2}}
+|stadium    = [[Rabat Olympic Stadium]]
+|location   = [[Rabat]], Morocco
+|attendance = 13,387
+|referee    = Patrice Mebiame ([[Gabonese Football Federation|Gabon]])
+|result     = W
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[2025 Africa Cup of Nations Group C#Nigeria vs Tunisia|2025 AFCON GS]]
+|date       = 27 December
+|time       = {{UTZ|21:00|1}}
+|team1      = {{fb-rt|NGA}}
+|score      = {{score link|2025 Africa Cup of Nations Group C#Nigeria vs Tunisia|3–2}}
+|team2      = {{flagdeco|TUN}} Tunisia
+|report     = https://www.cafonline.com/afcon2025/match-centre?competition=190&season=2025&match=2506790
+|goals1     = *[[Victor Osimhen|Osimhen]] {{goal|44}}
+*[[Wilfred Ndidi|Ndidi]] {{goal|50}}
+*[[Ademola Lookman|Lookman]] {{goal|67}}
+|goals2     = *[[Montassar Talbi|Talbi]] {{goal|74}}
+*[[Ali Abdi (footballer)|Abdi]] {{goal|87|pen}}
+|stadium    = [[Fez Stadium]]
+|location   = [[Fez, Morocco|Fez]], Morocco
+|attendance = 25,544
+|referee    = [[Boubou Traore]] ([[Malian Football Federation|Mali]])
+|result     = L
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[2025 Africa Cup of Nations Group C#Tanzania vs Tunisia|2025 AFCON GS]]
+|date       = 30 December
+|time       = {{UTZ|17:00|1}}
+|team1      = {{fb-rt|TAN}}
+|score      = {{score link|2025 Africa Cup of Nations Group C#Tanzania vs Tunisia|1–1}}
+|team2      = {{flagdeco|TUN}} Tunisia
+|report     = https://www.cafonline.com/afcon2025/match-centre?competition=190&season=2025&match=2506803
+|goals1     = 
+*[[Feisal Salum|Salum]] {{goal|48}}
+|goals2     = 
+*[[Ismaël Gharbi|Gharbi]] {{goal|43|pen.}}
+|stadium    = [[Rabat Olympic Stadium]]
+|location   = [[Rabat]], Morocco
+|attendance = 15,205
+|referee    = [[Jean-Jacques Ndala]] ([[Congolese Association Football Federation|DR Congo]])
+|result     = d
+}}
+
+=== 2026 ===
+{{Football box collapsible
+|format     = 1
+|round      = [[2025 Africa Cup of Nations knockout stage#Mali vs Tunisia|2025 AFCON R16]]
+|date       = 3 January
+|time       = {{UTZ|20:00|1}}
+|team1      = {{fb-rt|MLI}}
+|score      = {{score link|2025 Africa Cup of Nations knockout stage#Mali vs Tunisia|1–1}}
+|penaltyscore = 3–2
+|aet        = yes
+|report     = https://www.cafonline.com/afcon2025/match-centre?competition=190&season=2025&match=2506811
+|team2      = {{flagdeco|TUN}} Tunisia
+|goals1     = 
+*[[Lassine Sinayoko|Sinayoko]] {{goal|90+6|pen.}}
+|penalties1 = 
+*[[Yves Bissouma|Bissouma]] {{penmiss}}
+*[[Lassine Sinayoko|Sinayoko]] {{pengoal}}
+*[[Dorgeles Nene|Dorgeles]] {{penmiss}}
+*[[Gaoussou Diakité|Diakité]] {{pengoal}}
+*[[El Bilal Touré|Touré]] {{pengoal}}
+|goals2     = [[Firas Chaouat|Chaouat]] {{goal|88}}
+|penalties2 = 
+*{{pengoal}} [[Yassine Meriah|Meriah]]
+*{{penmiss}} [[Ali Abdi (footballer)|Abdi]]
+*{{pengoal}} [[Elias Saad|Saad]]
+*{{penmiss}} [[Elias Achouri|Achouri]]
+*{{penmiss}} [[Mohamed Ali Ben Romdhane|Ben Romdhane]]
+|stadium    = [[Mohammed V Stadium]]
+|location   = [[Casablanca]], Morocco
+|attendance = 41,982
+|referee    = [[Abongile Tom]] ([[South African Football Association|South Africa]])
+|result     = D
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[Exhibition game#Association football|Friendly]]
+|date       = 28 March
+|time       = {{UTZ|20:00|-4}}
+|team1      = {{fb-rt|HAI}}
+|score      = 0–1
+|team2      = {{flagdeco|TUN}} Tunisia
+|goals1     = 
+|goals2     = [[Sebastian Tounekti|Tounekti]] {{goal|7}}
+|location   = [[Toronto]], Canada
+|stadium    = [[BMO Field]]
+|attendance = 13,408
+|referee    = Pierre-Luc Lauzière ([[Canadian Soccer Association|Canada]])
+|report     = https://globalsportsarchive.com/en/soccer/match/2026-03-29/haiti-vs-tunisia/4060696
+|result     = W
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[Exhibition game#Association football|Friendly]]
+|date       = 31 March
+|time       = {{UTZ|21:00|-4}}{{refn|group=note|The Canada v Tunisia match, originally to be played at 19:30 UTC−4, was delayed by 90 minutes due to bad weather.<ref>{{Cite web |last=Callaghan |first=Joe |date=2026-04-01 |title=Canada’s rain-delayed draw with Tunisia ends ‘odd day’ |url=https://www.thestar.com/sports/soccer/world-cup/world-cup-2026-canadas-rain-delayed-draw-with-tunisia-ends-odd-day/article_7316dac6-ed1c-42ae-ac68-2982a1c39726.html |access-date=2026-04-13 |website=Toronto Star |language=en}}</ref>}}
+|team1      = {{fb-rt|CAN}}
+|score      = 0–0
+|team2      = {{flagdeco|TUN}} Tunisia
+|goals1     = 
+|goals2     = 
+|location   = [[Toronto]], Canada
+|stadium    = [[BMO Field]]
+|attendance = 22,624
+|referee    = Keylor Herrera ([[Costa Rican Football Federation|Costa Rica]])
+|report     = https://globalsportsarchive.com/en/soccer/match/2026-04-01/canada-vs-tunisia/4066384
+|result     = D
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[Exhibition game#Association football|Friendly]]
+|date       = 1 June
+|time       = {{UTZ|20:45|2}}
+|team1      = {{fb-rt|AUT}}
+|score      = 1–0
+|team2      = {{flagdeco|TUN}} Tunisia
+|goals1     = [[Marcel Sabitzer|Sabitzer]] {{goal|63}}
+|goals2     = 
+|location   = [[Vienna]], Austria
+|stadium    = [[Ernst-Happel-Stadion]]
+|attendance = 35,100
+|referee    = Jérémie Pignard ([[French Football Federation|France]])
+|report     = https://www.espn.com/soccer/match/_/gameId/401856597/tunisia-austria
+|result     = L
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[Exhibition game#Association football|Friendly]]
+|date       = 6 June 
+|time       = 15:00
+|team1      = {{fb-rt|BEL}} 
+|score      = 5–0
+|report     = https://www.uefa.com/european-qualifiers/friendlies/match/2047814/
+|team2      = {{flagdeco|TUN}} Tunisia
+|goals1     = 
+*[[Leandro Trossard|Trossard]] {{goal|28}}
+*[[Charles De Ketelaere|De Ketelaere]] {{goal|53}}
+*[[Kevin De Bruyne|De Bruyne]] {{goal|65}}
+*[[Dodi Lukébakio|Lukébakio]] {{goal|85}}
+*[[Nicolas Raskin|Raskin]] {{goal|87}}
+|goals2     = 
+|stadium    = [[King Baudouin Stadium]]
+|location   = [[Brussels]], Belgium
+|attendance = 40,236
+|referee    = [[Anastasios Sidiropoulos]] ([[Hellenic Football Federation|Greece]])
+|result     = L
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[2026 FIFA World Cup Group F#UEFA Path B winner vs Tunisia|2026 FIFA World Cup GS]]
+|date       = 14 June
+|time       = 20:00 [[UTC−06:00|UTC−6]]
+|team1      = {{fb-rt|SWE}}
+|score      = {{score link|2026 FIFA World Cup Group F#Sweden vs Tunisia|5–1}}
+|team2      = {{flagdeco|TUN}} Tunisia
+|report     = https://www.fifa.com/en/match-centre/match/17/285023/289273/400021474
+|goals1=
+*[[Yasin Ayari|Ayari]] {{goal|7||90+6}}
+*[[Alexander Isak|Isak]] {{goal|30}}
+*[[Viktor Gyökeres|Gyökeres]] {{goal|59}}
+*[[Mattias Svanberg|Svanber]] {{goal|84}}
+|goals2=
+*[[Omar Rekik|Rekik]] {{goal|43}}
+|location   = [[Guadalupe, Nuevo León|Guadalupe]], [[Nuevo León]], Mexico
+|stadium    = [[Estadio BBVA]] 
+|attendance = 50,987
+|referee    = [[Yael Falcón]] ([[Argentine Football Association|Argentina]])
+|result     = L
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[2026 FIFA World Cup Group F#Tunisia vs Japan|2026 FIFA World Cup GS]]
+|date       = 20 June
+|time       = 22:00 [[UTC−06:00|UTC−6]]
+|team1      = Tunisia {{flagdeco|TUN}}
+|score      = {{score link|2026 FIFA World Cup Group F#Tunisia vs Japan|0–4}}
+|team2      = {{fb|JPN}}
+|report     = https://www.fifa.com/en/match-centre/match/17/285023/289273/400021475
+|goals1     =
+|goals2     =
+*[[Daichi Kamada|Kamada]] {{goal|4}}
+*[[Ayase Ueda|Ueda]] {{goal|31||83}}
+*[[Junya Itō|J. Itō]] {{goal|69}}
+|location   = [[Guadalupe, Nuevo León|Guadalupe]], [[Nuevo León]], Mexico
+|stadium    = [[Estadio BBVA]] 
+|attendance = 51,243
+|referee    = [[István Kovács (referee)|István Kovács]] ([[Romanian Football Federation|Romania]])
+|result     = L
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[2026 FIFA World Cup Group F#Tunisia vs Netherlands|2026 FIFA World Cup GS]]
+|date       = 25 June
+|time       = 18:00 [[UTC−05:00|UTC−5]]
+|team1      = Tunisia {{flagdeco|TUN}}
+|score      = {{score link|2026 FIFA World Cup Group F#Tunisia vs Netherlands|1–3}}
+|team2      = {{fb|NED}}
+|report     = https://www.fifa.com/en/match-centre/match/17/285023/289273/400021473
+|goals1     =
+*[[Hazem Mastouri|Mastouri]] {{goal|54}}
+|goals2     =
+*[[Ellyes Skhiri|Skhiri]] {{goal|3|o.g.}}
+*[[Brian Brobbey|Brobbey]] {{goal|7}}
+*[[Jan Paul van Hecke|van Hecke]] {{goal|62}}
+|location   = [[Kansas City, Missouri|Kansas City]], [[Missouri]], United States
+|stadium    = [[Arrowhead Stadium]]
+|attendance = 68,391
+|referee    = [[Katia Itzel García]] ([[Mexican Football Federation|Mexico]])
+|result     = L
+}}
+{{footballbox collapsible
+|format = 1
+|round = [[2027 Africa Cup of Nations qualification|2027 AFCON qualification]]
+|date = TBD
+|time = TBD
+|team1 = {{fb-rt|TUN}}
+|score =
+|team2 = {{fb|UGA}}
+|report =
+|goals1 =
+|goals2 =
+|location = TBD, Tunisia
+|stadium = TBD
+|attendance =
+|referee =
+|result =
+}}
+{{footballbox collapsible
+|format = 1
+|round = [[2027 Africa Cup of Nations qualification|2027 AFCON qualification]]
+|date = TBD
+|time = TBD
+|team1 = {{fb-rt|UGA}}
+|score =
+|team2 = {{fb|TUN}}
+|report =
+|goals1 =
+|goals2 =
+|location = TBD, Uganda
+|stadium = TBD
+|attendance =
+|referee =
+|result =
+}}
+{{footballbox collapsible
+|format = 1
+|round = [[2027 Africa Cup of Nations qualification|2027 AFCON qualification]]
+|date = TBD
+|time = TBD
+|team1 = {{fb-rt|TUN}}
+|score =
+|team2 = {{fb|LBY}}
+|report =
+|goals1 =
+|goals2 =
+|location = TBD, Tunisia
+|stadium = TBD
+|attendance =
+|referee =
+|result =
+}}
+{{footballbox collapsible
+|format = 1
+|round = [[2027 Africa Cup of Nations qualification|2027 AFCON qualification]]
+|date = TBD
+|time = TBD
+|team1 = {{fb-rt|LBY}}
+|score =
+|team2 = {{fb|TUN}}
+|report =
+|goals1 =
+|goals2 =
+|location = TBD, Libya
+|stadium = TBD
+|attendance =
+|referee =
+|result =
+}}
+{{footballbox collapsible
+|format = 1
+|round = [[2027 Africa Cup of Nations qualification|2027 AFCON qualification]]
+|date = TBD
+|time = TBD
+|team1 = {{fb-rt|TUN}}
+|score =
+|team2 = {{fb|BOT}}
+|report =
+|goals1 =
+|goals2 =
+|location = TBD, Tunisia
+|stadium = TBD
+|attendance =
+|referee =
+|result =
+}}
+{{footballbox collapsible
+|format = 1
+|round = [[2027 Africa Cup of Nations qualification|2027 AFCON qualification]]
+|date = TBD
+|time = TBD
+|team1 = {{fb-rt|BOT}}
+|score =
+|team2 = {{fb|TUN}}
+|report =
+|goals1 =
+|goals2 =
+|location = TBD, Botswana
+|stadium = TBD
+|attendance =
+|referee =
+|result =
+}}
+
+==Coaching staff==
+{{Main|List of Tunisia national football team managers}}
+
+{| class="wikitable" style="text-align:center;"
+!Position
+!Name
+|-
+| style="text-align:left;"|Head coach
+| style="text-align:left;"|''Vacant''
+|-
+| style="text-align:left;"|Assistant coach
+| style="text-align:left;"|{{flagicon|FRA}} [[Frédéric Biancalani]]
+|-	
+| style="text-align:left;"|Goalkeeping coach
+| style="text-align:left;"|{{flagicon|FRA}} Gilles Fouache
+|-
+| style="text-align:left;"|Fitness coach
+| style="text-align:left;"|{{flagicon|FRA}} David Barriac
+----{{flagicon|TUN}} Anas Gazouz
+|-
+| style="text-align:left;"|Analyst
+| style="text-align:left;"|{{flagicon|TUN}} [[Wahbi Khazri]]
+----{{flagicon|FRA}} Alexandre Kerveillant
+----{{flagicon|TUN}} Helmi Kechaou
+----{{flagicon|TUN}} Anis Ben Mlik
+|-
+| style="text-align:left;"|Team doctor
+| style="text-align:left;"|{{flagicon|TUN}} Fayçal Khachnaoui
+|}
+
+==Players==
+===Current squad===
+The following 26 players were called up to the [[2026 FIFA World Cup]], and for the pre-tournament friendly matches against [[Austria national football team|Austria]] and [[Belgium national football team|Belgium]] on 1 and 6 June 2026, respectively.<ref>{{cite web |url=https://www.facebook.com/FTF.OFFICIELLE/posts/pfbid0E866yGc4GeFeJXHB3BHWKda7nNXRFSgXXqMFuW2mhouTJxbLYyc4Lz8ojiwLKYUAl |title=Squad List |publisher=[[Tunisian Football Federation]] |via=[[Facebook]] |date=15 May 2026 |access-date=15 May 2026}}</ref>
+<br>''Caps and goals correct as of 25 June 2026, after the match against the [[Netherlands national football team|Netherlands]].''
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Mouhib Chamakh]]|age={{birth date and age|2001|8|25|df=y}}|caps=4|goals=0|club=[[Club Africain]]|clubnat=TUN}}
+{{nat fs g player|no=16|pos=GK|name=[[Aymen Dahmen]]|age={{birth date and age|1997|1|28|df=y}}|caps=39|goals=0|club=[[CS Sfaxien]]|clubnat=TUN}}
+{{nat fs g player|no=22|pos=GK|name=[[Sabri Ben Hessen]]|age={{birth date and age|1996|6|13|df=y}}|caps=2|goals=0|club=[[Étoile Sportive du Sahel|Étoile du Sahel]]|clubnat=TUN}}
+{{nat fs break}}
+{{nat fs g player|no=2|pos=DF|name=[[Ali Abdi (footballer)|Ali Abdi]]|age={{birth date and age|1993|12|20|df=y}}|caps=49|goals=7|club=[[OGC Nice|Nice]]|clubnat=FRA}}
+{{nat fs g player|no=3|pos=DF|name=[[Montassar Talbi]]|age={{birth date and age|1998|5|26|df=y}}|caps=67|goals=4|club=[[FC Lorient|Lorient]]|clubnat=FRA}}
+{{nat fs g player|no=4|pos=DF|name=[[Omar Rekik]]|age={{birth date and age|2001|12|20|df=y}}|caps=8|goals=1|club=[[NK Maribor|Maribor]]|clubnat=SVN}}
+{{nat fs g player|no=5|pos=DF|name=[[Adem Arous]]|age={{birth date and age|2004|7|17|df=y}}|caps=2|goals=0|club=[[Kasımpaşa S.K.|Kasımpaşa]]|clubnat=TUR}}
+{{nat fs g player|no=6|pos=DF|name=[[Dylan Bronn]]|age={{birth date and age|1995|6|19|df=y}}|caps=53|goals=2|club=[[Servette FC|Servette]]|clubnat=SUI}}
+{{nat fs g player|no=12|pos=DF|name=[[Mortadha Ben Ouanes]]|age={{birth date and age|1994|7|2|df=y}}|caps=19|goals=0|club=[[Kasımpaşa S.K.|Kasımpaşa]]|clubnat=TUR}}
+{{nat fs g player|no=20|pos=DF|name=[[Yan Valery]]|age={{birth date and age|1999|2|22|df=y}}|caps=25|goals=0|club=[[Sheffield Wednesday]]|clubnat=ENG}}
+{{nat fs g player|no=21|pos=DF|name=[[Mohamed Amine Ben Hamida]]|age={{birth date and age|1995|12|15|df=y}}|caps=16|goals=0|club=[[Espérance Sportive de Tunis|Espérance de Tunis]]|clubnat=TUN}}
+{{nat fs g player|no=23|pos=DF|name=[[Moutaz Neffati]]|age={{birth date and age|2004|9|4|df=y}}|caps=5|goals=0|club=[[IFK Norrköping]]|clubnat=SWE}}
+{{nat fs g player|no=24|pos=DF|name=[[Raed Chikhaoui]]|age={{birth date and age|2004|6|9|df=y}}|caps=0|goals=0|club=[[US Monastir (football)|US Monastir]]|clubnat=TUN}}
+{{nat fs break}}
+{{nat fs g player|no=10|pos=MF|name=[[Hannibal Mejbri]]|age={{birth date and age|2003|1|21|df=y}}|caps=48|goals=1|club=[[Burnley F.C.|Burnley]]|clubnat=ENG}}
+{{nat fs g player|no=11|pos=MF|name=[[Ismaël Gharbi]]|age={{birth date and age|2004|4|10|df=y}}|caps=20|goals=2|club=[[SC Braga|Braga]]|clubnat=POR}}
+{{nat fs g player|no=13|pos=MF|name=[[Rani Khedira]]|age={{birth date and age|1994|1|27|df=y}}|caps=6|goals=0|club=[[1. FC Union Berlin|Union Berlin]]|clubnat=GER}} 
+{{nat fs g player|no=15|pos=MF|name=[[Hadj Mahmoud]]|age={{birth date and age|2000|4|24|df=y}}|caps=11|goals=0|club=[[FC Lugano|Lugano]]|clubnat=SUI}}
+{{nat fs g player|no=17|pos=MF|name=[[Ellyes Skhiri]]|other=[[Captain (association football)|captain]]|age={{birth date and age|1995|5|10|df=y}}|caps=86|goals=4|club=[[Eintracht Frankfurt]]|clubnat=GER}}
+{{nat fs g player|no=25|pos=MF|name=[[Anis Ben Slimane]]|age={{birth date and age|2001|3|16|df=y}}|caps=44|goals=4|club=[[Norwich City F.C.|Norwich City]]|clubnat=ENG}}
+{{nat fs break}}
+{{nat fs g player|no=7|pos=FW|name=[[Elias Achouri]]|age={{birth date and age|1999|2|10|df=y}}|caps=33|goals=4|club=[[F.C. Copenhagen|Copenhagen]]|clubnat=DEN}}
+{{nat fs g player|no=8|pos=FW|name=[[Elias Saad]]|age={{birth date and age|1999|12|27|df=y}}|caps=17|goals=4|club=[[FC Augsburg]]|clubnat=GER}}
+{{nat fs g player|no=9|pos=FW|name=[[Hazem Mastouri]]|age={{birth date and age|1997|6|18|df=y}}|caps=20|goals=5|club=[[FC Dynamo Makhachkala|Dynamo Makhachkala]]|clubnat=RUS}}
+{{nat fs g player|no=14|pos=FW|name=[[Khalil Ayari]]|age={{birth date and age|2005|2|2|df=y}}|caps=4|goals=0|club=[[Paris Saint-Germain FC|Paris Saint-Germain]]|clubnat=FRA}}
+{{nat fs g player|no=18|pos=FW|name=[[Rayan Elloumi]]|age={{birth date and age|2007|9|17|df=y}}|caps=4|goals=0|club=[[Vancouver Whitecaps FC|Vancouver Whitecaps]]|clubnat=CAN}}
+{{nat fs g player|no=19|pos=FW|name=[[Firas Chaouat]]|age={{birth date and age|1996|5|8|df=y}}|caps=33|goals=6|club=[[Club Africain]]|clubnat=TUN}}
+{{nat fs g player|no=26|pos=FW|name=[[Sebastian Tounekti]]|age={{birth date and age|2002|7|13|df=y}}|caps=15|goals=1|club=[[Celtic F.C.|Celtic]]|clubnat=SCO}}
+{{nat fs end}}
+
+===Recent call-ups===
+The following players have been called up within the last twelve months.
+<!--Sorted by position, most recent call-up, caps, goals and last name.-->
+{{nat fs r start}}
+{{nat fs r player|pos=GK|name=[[Noureddine Farhati]]|age={{birth date and age|2000|9|14|df=y}}|caps=1|goals=0|club=[[Stade Tunisien]]|clubnat=TUN|latest=v. {{fb|CAN}}, 31 March 2026}}
+{{nat fs r player|pos=GK|name=[[Bechir Ben Saïd]]|age={{birth date and age|1994|11|29|df=y}}|caps=22|goals=0|club=[[Espérance Sportive de Tunis|Espérance de Tunis]]|clubnat=TUN|latest=[[2025 Africa Cup of Nations]]}}
+{{nat fs break}}
+{{nat fs r player|pos=DF|name=[[Alaa Ghram]]|age={{birth date and age|2001|7|24|df=y}}|caps=7|goals=0|club=[[FC Shakhtar Donetsk|Shakhtar Donetsk]]|clubnat=UKR|latest=v. {{fb|CAN}}, 31 March 2026}}
+{{nat fs r player|pos=DF|name=[[Ghaith Zaalouni]]|age={{birth date and age|2002|5|6|df=y}}|caps=1|goals=0|club=[[Club Africain]]|clubnat=TUN|latest=v. {{fb|CAN}}, 31 March 2026}}
+{{nat fs r player|pos=DF|name=[[Yassine Meriah]]|age={{birth date and age|1993|7|2|df=y}}|caps=95|goals=6|club=[[Espérance Sportive de Tunis|Espérance de Tunis]]|clubnat=TUN|latest=[[2025 Africa Cup of Nations]]}}
+{{nat fs r player|pos=DF|name=[[Ali Maâloul]]|age={{birth date and age|1990|1|1|df=y}}|caps=95|goals=3|club=[[CS Sfaxien]]|clubnat=TUN|latest=[[2025 Africa Cup of Nations]]}}
+{{nat fs r player|pos=DF|name=[[Nader Ghandri]]|age={{birth date and age|1995|2|18|df=y}}|caps=20|goals=0|club=[[Asswehly SC|Asswehly]]|clubnat=LBY|latest=[[2025 Africa Cup of Nations]]}}
+{{nat fs r player|pos=DF|name=[[Mohamed Ben Ali]]|age={{birth date and age|1995|2|16|df=y}}|caps=5|goals=1|club=[[Espérance Sportive de Tunis|Espérance de Tunis]]|clubnat=TUN|latest=[[2025 Africa Cup of Nations]]}}
+{{nat fs r player|pos=DF|name=[[Oussama Haddadi]]|age={{birth date and age|1992|1|28|df=y}}|caps=36|goals=0|club=[[RS Berkane]]|clubnat=MAR|latest=[[2025 FIFA Arab Cup]]}}
+{{nat fs r player|pos=DF|name=[[Hamza Jelassi]]|age={{birth date and age|1991|9|29|df=y}}|caps=7|goals=0|club=[[Espérance Sportive de Tunis|Espérance de Tunis]]|clubnat=TUN|latest=[[2025 FIFA Arab Cup]]}}
+{{nat fs r player|pos=DF|name=[[Marouane Sahraoui]]|age={{birth date and age|1996|1|9|df=y}}|caps=1|goals=0|club=[[Stade Tunisien]]|clubnat=TUN|latest=[[2025 FIFA Arab Cup]]}}
+{{nat fs r player|pos=DF|name=[[Mahmoud Ghorbel]]|age={{birth date and age|2003|12|31|df=y}}|caps=3|goals=0|club=[[FC Sheriff Tiraspol|Sheriff Tiraspol]]|clubnat=MDA|latest=v. {{fb|BRA}}, 18 November 2025}}
+{{nat fs r player|pos=DF|name=[[Amin Cherni]]|age={{birth date and age|2001|7|7|df=y}}|caps=3|goals=0|club=[[Göztepe S.K.|Göztepe]]|clubnat=TUR|latest=v. {{fb|NAM}}, 13 October 2025}}
+{{nat fs break}}
+{{nat fs r player|pos=MF|name=[[Ferjani Sassi]]|age={{birth date and age|1992|3|18|df=y}}|caps=102|goals=9|club=[[Free agent|''Unattached'']]|clubnat=|latest=[[2025 Africa Cup of Nations]]}}
+{{nat fs r player|pos=MF|name=[[Mohamed Ali Ben Romdhane]]|age={{birth date and age|1999|9|6|df=y}}|caps=59|goals=7|club=[[Al Ahly SC|Al Ahly]]|clubnat=EGY|latest=[[2025 Africa Cup of Nations]]}}
+{{nat fs r player|pos=MF|name=[[Houssem Tka]]|age={{birth date and age|2000|8|16|df=y}}|caps=4|goals=0|club=[[Espérance Sportive de Tunis|Espérance de Tunis]]|clubnat=TUN|latest=[[2025 Africa Cup of Nations]]}}
+{{nat fs r player|pos=MF|name=[[Chiheb Jebali]]|age={{birth date and age|1996|5|26|df=y}}|caps=3|goals=0|club=[[Espérance Sportive de Tunis|Espérance de Tunis]]|clubnat=TUN|latest=[[2025 FIFA Arab Cup]]}}
+{{nat fs r player|pos=MF|name=[[Firas Ben Larbi]]|age={{birth date and age|1996|5|27|df=y}}|caps=16|goals=3|club=[[Sharjah FC|Sharjah]]|clubnat=UAE|latest=v. {{fb|BRA}}, 18 November 2025}}
+{{nat fs r player|pos=MF|name=[[Aïssa Laïdouni]]|age={{birth date and age|1996|12|13|df=y}}|caps=59|goals=2|club=[[Al-Wakrah SC|Al-Wakrah]]|clubnat=QAT|latest=v. {{fb|NAM}}, 13 October 2025}}
+{{nat fs break}}
+{{nat fs r player|pos=FW|name=[[Sayfallah Ltaief]]|age={{birth date and age|2000|4|12|df=y}}|caps=23|goals=1|club=[[SpVgg Greuther Fürth|Greuther Fürth]]|clubnat=GER|latest=v. {{fb|CAN}}, 31 March 2026}}
+{{nat fs r player|pos=FW|name=[[Louey Ben Farhat]]|age={{birth date and age|2006|7|19|df=y}}|caps=2|goals=0|club=[[Karlsruher SC]]|clubnat=GER|latest=v. {{fb|CAN}}, 31 March 2026}}
+{{nat fs r player|pos=FW|name=[[Omar Ben Ali]]|age={{birth date and age|2005|4|22|df=y}}|caps=0|goals=0|club=[[CS Sfaxien]]|clubnat=TUN|latest=v. {{fb|CAN}}, 31 March 2026}}
+{{nat fs r player|pos=FW|name=[[Anisse Saidi]]|age={{birth date and age|2008|6|20|df=y}}|caps=0|goals=0|club=[[San Diego FC|San Diego]]|clubnat=USA|latest=v. {{fb|CAN}}, 31 March 2026}}
+{{nat fs r player|pos=FW|name=[[Naïm Sliti]]|age={{birth date and age|1992|7|27|df=y}}|caps=85|goals=16|club=[[Free agent|''Unattached'']]|clubnat=|latest=[[2025 Africa Cup of Nations]]<sup>RET</sup>}}
+{{nat fs r player|pos=FW|name=[[Seifeddine Jaziri]]|age={{birth date and age|1993|2|11|df=y}}|caps=44|goals=11|club=[[Zamalek SC|Zamalek]]|clubnat=EGY|latest=[[2025 Africa Cup of Nations]]}}
+{{nat fs r player|pos=FW|name=[[Amor Layouni]]|age={{birth date and age|1992|10|3|df=y}}|caps=16|goals=2|club=[[BK Häcken|Häcken]]|clubnat=SWE|latest=[[2025 FIFA Arab Cup]]}}
+{{nat fs r player|pos=FW|name=[[Rayane Anane]]|age={{birth date and age|2006|8|15|df=y}}|caps=1|goals=0|club=[[Étoile Sportive du Sahel|Étoile du Sahel]]|clubnat=TUN|latest=[[2025 FIFA Arab Cup]]}}
+{{nat fs r player|pos=FW|name=[[Nacim Dendani]]|age={{birth date and age|2006|4|30|df=y}}|caps=0|goals=0|club=[[AS Monaco FC|Monaco]]{{efn|name=mon|[[AS Monaco FC|Monaco]] is a Monégasque club playing in the [[French football league system]].}}|clubnat=FRA|latest=[[2025 FIFA Arab Cup]]}}
+{{nat fs r player|pos=FW|name=[[Issam Jebali]]|age={{birth date and age|1991|12|25|df=y}}|caps=17|goals=2|club=[[Gamba Osaka]]|clubnat=JPN|latest=v. {{fb|BRA}}, 18 November 2025}}
+{{nat fs r player|pos=FW|name=[[Youssef Snana]]|age={{birth date and age|2004|3|24|df=y}}|caps=1|goals=0|club=[[Al-Sailiya SC|Al-Sailiya]]|clubnat=QAT|latest=v. {{fb|NAM}}, 13 October 2025<sup>WD</sup>}}
+{{nat fs break}}
+;Notes
+*<sup>INJ</sup> Player withdrew from the squad due to an injury.
+*<sup>PRE</sup> Preliminary squad.
+*<sup>RET</sup> Player has retired from international football.
+*<sup>SUS</sup> Player is serving a suspension.
+*<sup>WD</sup> Player withdrew for personal reasons.
+{{nat fs end}}
+{{notelist}}
+
+==Player records==
+{{Main|Tunisia national football team records and statistics}}
+
+{{#lsth:Tunisia national football team all-time record|Player records}}
+
+== Competitive record ==
+
+=== FIFA World Cup ===
+{{main|Tunisia at the FIFA World Cup}}
+
+{{#lsth:Tunisia at the FIFA World Cup|Overall record}}
+
+=== Africa Cup of Nations ===
+{{See also|Tunisia at the Africa Cup of Nations}}
+
+{{#lsth:Tunisia at the Africa Cup of Nations|Overall record}}
+
+=== African Nations Championship ===
+{{Main|Tunisia at the African Nations Championship}}
+
+{{#lsth:Tunisia at the African Nations Championship|Overall record}}
+
+=== FIFA Arab Cup ===
+{{Main|Tunisia at the FIFA Arab Cup}}
+
+{{#lsth:Tunisia at the FIFA Arab Cup|Overall record}}
+
+=== Summer Olympics ===
+{| class="wikitable" style="font-size:90%; text-align:center; width:100%"
+|-
+! colspan="10" style="background:#E70013; color:white; {{box-shadow border|a|white|2px}}"|[[Football at the Summer Olympics|<span style="color:white">Summer Olympics</span>]] record
+! rowspan="24" style="width:1%;background:white" |
+! colspan="7" style="background:#E70013; color:white; {{box-shadow border|a|white|2px}}"|Summer Olympics qualification record
+|-
+!width="15%" |Year
+!width="15%" |Round
+!width="5%" |Position
+!width="5%" |{{Tooltip|Pld|Matches played}}
+!width="5%" |{{Tooltip|W|Matches won}}
+!width="5%" |{{Tooltip|D|Matches drawn}}*
+!width="5%" |{{Tooltip|L|Matches lost}}
+!width="5%" |{{Tooltip|GF|Goals for}}
+!width="5%" |{{Tooltip|GA|Goals against}}
+!width="5%" |Squad
+!width="5%" |{{Tooltip|Pld|Matches played}}
+!width="5%" |{{Tooltip|W|Matches won}}
+!width="5%" |{{Tooltip|D|Matches drawn}}
+!width="5%" |{{Tooltip|L|Matches lost}}
+!width="5%" |{{Tooltip|GF|Goals for}}
+!width="5%" |{{Tooltip|GA|Goals against}}
+!width="5%" |{{Tooltip|Ref.|References}}
+|-
+|{{flagicon|Greece|old}} [[1896 Summer Olympics|1896]] to {{flagicon|Finland}} [[Football at the 1952 Summer Olympics|1952]]
+| colspan="9" |''Not affiliated''
+| colspan="7" |''Not affiliated''
+|-
+|{{flagicon|Australia}} [[Association football at the 1956 Summer Olympics|1956]]
+| colspan="9" |''Did not enter''
+| colspan="7" |''Did not enter''
+|-
+|{{flagicon|Italy}} [[Football at the 1960 Summer Olympics|1960]]
+|Group stage
+|15th
+|3
+|0
+|0
+|3
+|3
+|11
+|[[Football at the 1960 Summer Olympics – Men's team squads#Tunisia|Squad]]
+|8
+|3
+|2
+|3
+|8
+|7
+|<ref>{{Cite web |title=Games of the XVII. Olympiad - Football Qualifying Tournament |url=https://www.rsssf.org/tableso/ol1960q.html#Africa |access-date=2024-10-17 |website=www.rsssf.org}}</ref>
+|-
+|{{flagicon|Japan|1947}} [[Football at the 1964 Summer Olympics|1964]]
+| colspan="9" rowspan="6" |''Did not qualify''
+|5
+|1
+|3
+|1
+|6
+|7
+|<ref>{{Cite web |title=Games of the XVIII. Olympiad - Football Qualifying Tournament |url=https://www.rsssf.org/tableso/ol1964q.html#Africa |access-date=2024-10-17 |website=www.rsssf.org}}</ref>
+|-
+|{{flagicon|Mexico}} [[Football at the 1968 Summer Olympics|1968]]
+|2
+|0
+|2
+|0
+|1
+|1
+|<ref>{{Cite web |title=Games of the XIX. Olympiad - Football Qualifying Tournament |url=https://www.rsssf.org/tableso/ol1968q.html#Africa |access-date=2024-10-17 |website=www.rsssf.org}}</ref>
+|-
+|{{flagicon|West Germany}} [[Football at the 1972 Summer Olympics|1972]]
+|6
+|2
+|2
+|2
+|10
+|7
+|<ref>{{Cite web |title=Games of the XX. Olympiad - Football Qualifying Tournament |url=https://www.rsssf.org/tableso/ol1972q.html#Africa |access-date=2024-10-17 |website=www.rsssf.org}}</ref>
+|-
+|{{flagicon|Canada}} [[Football at the 1976 Summer Olympics|1976]]
+|4
+|1
+|1
+|2
+|3
+|4
+|<ref>{{Cite web |title=Games of the XXI. Olympiad - Football Qualifying Tournament |url=https://www.rsssf.org/tableso/ol1976q.html#Africa |access-date=2024-10-17 |website=www.rsssf.org}}</ref>
+|-
+|{{flagicon|Soviet Union|1955}} [[Football at the 1980 Summer Olympics|1980]]
+|2
+|1
+|0
+|1
+|1
+|3
+|<ref>{{Cite web |title=Games of the XXII. Olympiad - Football Qualifying Tournament |url=https://www.rsssf.org/tableso/ol1980q.html#Africa |access-date=2024-10-17 |website=www.rsssf.org}}</ref>
+|-
+|{{flagicon|United States}} [[Football at the 1984 Summer Olympics|1984]]
+|2
+|1
+|1
+|0
+|4
+|1
+|<ref>{{Cite web |title=Games of the XXIII. Olympiad - Football Qualifying Tournament |url=https://www.rsssf.org/tableso/ol1984q.html#Africa |access-date=2024-10-17 |website=www.rsssf.org}}</ref>
+|-
+|{{flagicon|South Korea}} [[Football at the 1988 Summer Olympics|1988]]
+|Group stage
+|13th
+|3
+|0
+|2
+|1
+|3
+|6
+|[[Football at the 1988 Summer Olympics – Men's team squads#Tunisia|Squad]]
+|6
+|3
+|2
+|1
+|6
+|3
+|<ref>{{Cite web |title=Games of the XXIV. Olympiad - Football Qualifying Tournament |url=https://www.rsssf.org/tableso/ol1988q.html#Africa |access-date=2024-10-17 |website=www.rsssf.org}}</ref>
+|-
+|Since {{flagicon|Spain}} [[Football at the 1992 Summer Olympics|1992]]
+| colspan="9" |''See [[Tunisia national under-23 football team]]''
+| colspan="7" |''See [[Tunisia national under-23 football team]]''
+|- style="color:white;"
+! style="background:#E70013; color:white; {{box-shadow border|a|white|2px}}"|Total
+! style="background:#E70013; color:white; {{box-shadow border|a|white|2px}}"|{{Tooltip|Group stage|Highest finish}}
+! style="background:#E70013; color:white; {{box-shadow border|a|white|2px}}"|{{Tooltip|2/15|Number of tournaments qualified for}}
+! style="background:#E70013; color:white; {{box-shadow border|a|white|2px}}"|6
+! style="background:#E70013; color:white; {{box-shadow border|a|white|2px}}"|0
+! style="background:#E70013; color:white; {{box-shadow border|a|white|2px}}"|2
+! style="background:#E70013; color:white; {{box-shadow border|a|white|2px}}"|4
+! style="background:#E70013; color:white; {{box-shadow border|a|white|2px}}"|6
+! style="background:#E70013; color:white; {{box-shadow border|a|white|2px}}"|17
+| style="background:#E70013; color:white; {{box-shadow border|a|white|2px}}"|—
+! style="background:#E70013; color:white; {{box-shadow border|a|white|2px}}"|35
+! style="background:#E70013; color:white; {{box-shadow border|a|white|2px}}"|12
+! style="background:#E70013; color:white; {{box-shadow border|a|white|2px}}"|13
+! style="background:#E70013; color:white; {{box-shadow border|a|white|2px}}"|10
+! style="background:#E70013; color:white; {{box-shadow border|a|white|2px}}"|39
+! style="background:#E70013; color:white; {{box-shadow border|a|white|2px}}"|33
+| style="background:#E70013; color:white; {{box-shadow border|a|white|2px}}"|—
+|}
+
+=== FIFA Confederations Cup ===
+{{Main|Tunisia at the FIFA Confederations Cup}}
+
+{{#lsth:Tunisia at the FIFA Confederations Cup|Overall record}}
+
+=== Mediterranean Games ===
+{| class="wikitable" style="font-size:90%; text-align:center;" width="60%"
+! colspan="11" style="background:#E70013; color:white; {{box-shadow border|a|white|2px}}" |[[Football at the Mediterranean Games|<span style="color:white">Mediterranean Games</span>]] record
+|-
+!width="15%" |Year
+!width="15%" |Round
+!width="5%" |Position
+!width="5%" |{{Tooltip|Pld|Matches played}}
+!width="5%" |{{Tooltip|W|Matches won}}
+!width="5%" |{{Tooltip|D|Matches drawn}}*
+!width="5%" |{{Tooltip|L|Matches lost}}
+!width="5%" |{{Tooltip|GF|Goals for}}
+!width="5%" |{{Tooltip|GA|Goals against}}
+!width="5%" |Squad
+!width="1%" |{{Tooltip|Ref|References}}
+|-
+|{{flagicon|EGY|1922}} [[Football at the 1951 Mediterranean Games|1951]]
+| colspan="10" |''Not affiliated''
+|-
+|{{flagicon|ESP|1945}} [[Football at the 1955 Mediterranean Games|1955]]
+| colspan="10" rowspan="2" |''Did not enter''
+|-
+|{{flagicon|LBN}} [[Football at the 1959 Mediterranean Games|1959]]
+|-
+|{{flagicon|ITA}} [[Football at the 1963 Mediterranean Games|1963]]
+|Group stage
+|6th
+|3
+|1
+|0
+|2
+|3
+|4
+|[[Football at the 1963 Mediterranean Games – Men's team squads#Tunisia|Squad]]
+|<ref>{{Cite web |title=Mediterranean Games 1963 (Italy) |url=http://www.rsssf.com/tablesm/medgames63.html |access-date=18 October 2021 |website=www.rsssf.com}}</ref>
+|-
+| style="border: 3px solid red" |{{flagicon|TUN}} [[Football at the 1967 Mediterranean Games|1967]]
+|Group stage
+|5th
+|3
+|1
+|1
+|1
+|4
+|3
+|[[Football at the 1967 Mediterranean Games – Men's team squads#Tunisia|Squad]]
+|<ref>{{Cite web |title=Mediterranean Games 1967 (Tunis, Tunisia) |url=http://www.rsssf.com/tablesm/medgames67.html |access-date=18 October 2021 |website=www.rsssf.com}}</ref>
+|- style="background:silver;"
+|{{flagicon|Turkey}} [[Football at the 1971 Mediterranean Games|1971]]
+|Runners-up
+|2nd
+|4
+|2
+|1
+|1
+|3
+|2
+|[[Football at the 1971 Mediterranean Games – Men's team squads#Tunisia|Squad]]
+|<ref>{{Cite web |title=Mediterranean Games 1971 (Izmir, Turkey) |url=http://www.rsssf.com/tablesm/medgames71.html |access-date=18 October 2021 |website=www.rsssf.com}}</ref>
+|- style="background:#c96;"
+|{{flagicon|ALG}} [[Football at the 1975 Mediterranean Games|1975]]
+|Third place
+|3rd
+|5
+|1
+|3
+|1
+|5
+|5
+|[[Football at the 1975 Mediterranean Games – Men's team squads#Tunisia|Squad]]
+|<ref>{{Cite web |title=Mediterranean Games 1975 (Alger, Algeria) |url=http://www.rsssf.com/tablesm/medgames75.html |access-date=18 October 2021 |website=www.rsssf.com}}</ref>
+|-
+|{{flagicon|YUG}} [[Football at the 1979 Mediterranean Games|1979]]
+|Group stage
+|7th
+|3
+|0
+|1
+|2
+|2
+|4
+|[[Football at the 1979 Mediterranean Games – Men's team squads#Tunisia|Squad]]
+|<ref>{{Cite web |title=Mediterranean Games 1979 (Split, Yugoslavia) |url=http://www.rsssf.com/tablesm/medgames79.html |access-date=18 October 2021 |website=www.rsssf.com}}</ref>
+|-
+|{{flagicon|MAR}} [[Football at the 1983 Mediterranean Games|1983]]
+|Group stage
+|7th
+|2
+|1
+|0
+|1
+|4
+|5
+|[[Football at the 1983 Mediterranean Games – Men's team squads#Tunisia|Squad]]
+|<ref>{{Cite web |title=Mediterranean Games 1983 (Morocco) |url=http://www.rsssf.com/tablesm/medgames83.html |access-date=18 October 2021 |website=www.rsssf.com}}</ref>
+|-
+|{{flagicon|SYR|1980}} [[Football at the 1987 Mediterranean Games|1987]]
+| colspan="10" |''Did not enter''
+|-
+|Since {{flagicon|GRE}} [[Football at the 1991 Mediterranean Games|1991]]
+| colspan="10" |''See [[Tunisia national under-23 football team]] and [[Tunisia national under-20 football team]]''
+|-
+! style="background:#E70013; color:white; {{box-shadow border|a|white|2px}}" |Total
+! style="background:#E70013; color:white; {{box-shadow border|a|white|2px}}" |{{Tooltip|Runners-up|Highest finish}}
+! style="background:#E70013; color:white; {{box-shadow border|a|white|2px}}" |{{Tooltip|6/10|Number of tournaments qualified for}}
+! style="background:#E70013; color:white; {{box-shadow border|a|white|2px}}" |20
+! style="background:#E70013; color:white; {{box-shadow border|a|white|2px}}" |6
+! style="background:#E70013; color:white; {{box-shadow border|a|white|2px}}" |6
+! style="background:#E70013; color:white; {{box-shadow border|a|white|2px}}" |8
+! style="background:#E70013; color:white; {{box-shadow border|a|white|2px}}" |21
+! style="background:#E70013; color:white; {{box-shadow border|a|white|2px}}" |23
+! style="background:#E70013; color:white; {{box-shadow border|a|white|2px}}" |—
+! style="background:#E70013; color:white; {{box-shadow border|a|white|2px}}" |—
+|}
+
+=== African Games ===
+{| class="wikitable" style="font-size:90%; text-align:center;" width="60%"
+! colspan="11" style="background:#E70013; color:white; {{box-shadow border|a|white|2px}}"|[[Football at the African Games|<span style="color:white">African Games</span>]] record
+|-
+!width="15%" |Year
+!width="15%" |Round
+!width="5%" |Position
+!width="5%" |{{Tooltip|Pld|Matches played}}
+!width="5%" |{{Tooltip|W|Matches won}}
+!width="5%" |{{Tooltip|D|Matches drawn}}*
+!width="5%" |{{Tooltip|L|Matches lost}}
+!width="5%" |{{Tooltip|GF|Goals for}}
+!width="5%" |{{Tooltip|GA|Goals against}}
+!width="5%" |Squad
+!width="1%" |{{Tooltip|Ref|References}}
+|-
+|{{flagicon|CGO|1970}} [[Football at the 1965 All-Africa Games|1965]]|| colspan="10" |''Did not qualify''
+|-
+|{{flagicon|NGR}} [[Football at the 1973 All-Africa Games|1973]]
+| colspan="10" |''Withdrew''
+|-
+|{{flagicon|ALG}} [[Football at the 1978 All-Africa Games|1978]]
+| colspan="10" |''Withdrew after qualifying''
+|-
+|{{flagicon|KEN}} [[Football at the 1987 All-Africa Games|1987]]
+|Group stage
+|8
+|4
+|0
+|0
+|4
+|1
+|8
+|[[Football at the 1987 All-Africa Games – Men's team squads#Tunisia|Squad]]
+|<ref>{{Cite web|title=African Games 1987|url=http://www.rsssf.com/tablesa/afrgames87.html|access-date=18 October 2021|website=www.rsssf.com}}</ref>
+|-
+|Since {{flagicon|Egypt}} [[Football at the 1991 All-Africa Games|1991]]|| colspan="10" |''See [[Tunisia national under-23 football team]]''
+|-
+! style="background:#E70013; color:white; {{box-shadow border|a|white|2px}}"|Total
+! style="background:#E70013; color:white; {{box-shadow border|a|white|2px}}"|{{Tooltip|Group stage|Highest finish}}
+! style="background:#E70013; color:white; {{box-shadow border|a|white|2px}}"|{{Tooltip|1/4|Number of tournaments qualified for}}
+! style="background:#E70013; color:white; {{box-shadow border|a|white|2px}}"|4
+! style="background:#E70013; color:white; {{box-shadow border|a|white|2px}}"|0
+! style="background:#E70013; color:white; {{box-shadow border|a|white|2px}}"|0
+! style="background:#E70013; color:white; {{box-shadow border|a|white|2px}}"|4
+! style="background:#E70013; color:white; {{box-shadow border|a|white|2px}}"|1
+! style="background:#E70013; color:white; {{box-shadow border|a|white|2px}}"|8
+! style="background:#E70013; color:white; {{box-shadow border|a|white|2px}}" |—
+! style="background:#E70013; color:white; {{box-shadow border|a|white|2px}}" |—
+|}
+
+=== Arab Games ===
+{| class="wikitable" style="font-size:90%; text-align:center;" width="60%"
+|-
+! colspan="11" style="background:#E70013; color:white; {{box-shadow border|a|white|2px}}"|[[Football at the Arab Games|<span style="color:white">Arab Games</span>]] record
+|-
+!width="15%" |Year
+!width="15%" |Round
+!width="5%" |Position
+!width="5%" |{{Tooltip|Pld|Matches played}}
+!width="5%" |{{Tooltip|W|Matches won}}
+!width="5%" |{{Tooltip|D|Matches drawn}}*
+!width="5%" |{{Tooltip|L|Matches lost}}
+!width="5%" |{{Tooltip|GF|Goals for}}
+!width="5%" |{{Tooltip|GA|Goals against}}
+!width="5%" |Squad
+!width="1%" |{{Tooltip|Ref|References}}
+|-
+||{{flagicon|EGY|1952}} [[Football at the 1953 Arab Games|1953]]
+| colspan="10" |''Did not enter''
+|- style="background:silver;"
+|{{flagicon|LIB}} [[Football at the 1957 Arab Games|1957]]
+|Runners-up
+|2nd
+|5
+|3
+|0
+|2
+|14
+|13
+|[[Football at the 1957 Arab Games – squads#Tunisia|Squad]]
+|<ref>{{Cite web|title=2nd Arab Games, 1957 (Beirut, Lebanon)|url=http://www.rsssf.com/tablesa/arabgam57.html|access-date=18 October 2021|website=www.rsssf.com}}</ref>
+|-
+|{{flagicon|MAR}} [[Football at the 1961 Arab Games|1961]]
+| colspan="10" rowspan="3" |''Did not enter''
+|-
+|{{flagicon|UAR}} [[Football at the 1965 Arab Games|1965]]
+|-
+|{{flagicon|SYR|1972}} [[Football at the 1976 Arab Games|1976]]
+|-
+|{{flagicon|MAR}} [[Football at the 1985 Arab Games|1985]]
+|Group stage
+|5th
+|3
+|2
+|1
+|0
+|7
+|2
+|[[Football at the 1985 Arab Games – squads#Tunisia|Squad]]
+|<ref>{{Cite web|title=6th Arab Games, 1985 (Morocco)|url=http://www.rsssf.com/tablesa/arabgam85.html|access-date=18 October 2021|website=www.rsssf.com}}</ref>
+|-
+|{{flagicon|LIB}} [[Football at the 1997 Arab Games|1997]]
+| colspan="10" rowspan="4" |''Did not enter''
+|-
+|{{flagicon|JOR}} [[Football at the 1999 Arab Games|1999]]
+|-
+|{{flagicon|EGY}} [[Football at the 2007 Arab Games|2007]]
+|-
+|{{flagicon|QAT}} [[Football at the 2011 Arab Games|2011]]
+|-
+|Since {{flagicon|ALG}} [[Football at the 2023 Arab Games|2023]]
+| colspan="10" |''See [[Tunisia national under-23 football team]]''
+|-
+! style="background:#E70013; color:white; {{box-shadow border|a|white|2px}}"|Total
+! style="background:#E70013; color:white; {{box-shadow border|a|white|2px}}"|{{Tooltip|Runners-up|Highest finish}}
+! style="background:#E70013; color:white; {{box-shadow border|a|white|2px}}"|{{Tooltip|2/10|Number of tournaments qualified for}}
+! style="background:#E70013; color:white; {{box-shadow border|a|white|2px}}"|8
+! style="background:#E70013; color:white; {{box-shadow border|a|white|2px}}"|5
+! style="background:#E70013; color:white; {{box-shadow border|a|white|2px}}"|1
+! style="background:#E70013; color:white; {{box-shadow border|a|white|2px}}"|2
+! style="background:#E70013; color:white; {{box-shadow border|a|white|2px}}"|21
+! style="background:#E70013; color:white; {{box-shadow border|a|white|2px}}"|15
+| style="background:#E70013; color:white; {{box-shadow border|a|white|2px}}" |—
+| style="background:#E70013; color:white; {{box-shadow border|a|white|2px}}" |—
+|}
+
+===Minor tournaments===
+
+{| class="wikitable" style="font-size:90%; text-align:center;" width="60%"
+! colspan="10" style="background:#E70013; color:white; {{box-shadow border|a|white|2px}}"|Other tournaments records
+|-
+! width="35%" |Year
+! width="15%" |Round
+! width="5%" |Position
+! width="5%" |{{Tooltip|Pld|Matches played}}
+! width="5%" |{{Tooltip|W|Matches won}}
+! width="5%" |{{Tooltip|D|Matches drawn}}*
+! width="5%" |{{Tooltip|L|Matches lost}}
+! width="5%" |{{Tooltip|GF|Goals for}}
+! width="5%" |{{Tooltip|GA|Goals against}}
+! width="1%" |{{Tooltip|Ref|References}}
+|- style="background:#c96;"
+|{{flagicon|LBY|1951}} 1962 Tripoli Fair Tournament
+|Third place
+|3rd
+|3
+|1
+|0
+|2
+|6
+|9
+|—
+|- style="background:silver;"
+|{{flagicon|SEN}} 1963 Friendship Games
+|Runners-up
+|2nd
+|6
+|4
+|1
+|0
+|4
+|9
+|<ref>{{Cite web|title=Jeux de l'Amitié 1963 (Dakar)|url=http://www.rsssf.com/tablesa/amitie63.html|access-date=18 October 2021|website=www.rsssf.com}}</ref>
+|- style="background:gold;"
+|{{flagicon|LBY|1951}} [[1965 Tripoli Fair Tournament]]
+|'''Champions'''
+|1st
+|3
+|2
+|1
+|0
+|4
+|2
+|<ref>{{Cite web|title=Tripoli Tournament 1965|url=http://www.rsssf.com/tablest/tripoli-tourn65.html|access-date=18 October 2021|website=www.rsssf.com}}</ref>
+|- style="background:#9acdff;"
+|{{flagicon|LBY|1951}} [[1966 Tripoli Fair Tournament]]
+|Fourth place
+|4th
+|3
+|0
+|1
+|2
+|0
+|3
+|<ref>{{Cite web|title=Tripoli Exhibition Cup 1966|url=http://www.rsssf.com/tablest/tripoli-tourn66.html|access-date=18 October 2021|website=www.rsssf.com}}</ref>
+|- style="background:gold;"
+|{{flagicon|LBY|1972}} [[1973 Palestine Cup of Nations]]
+|'''Champions'''
+|1st
+|6
+|6
+|0
+|0
+|19
+|3
+|<ref>{{Cite web|title=Palestine Cup 1973|url=http://www.rsssf.com/tablesp/palestine73.html|access-date=18 October 2021|website=www.rsssf.com}}</ref>
+|-
+|{{flagicon|IRN|1964}} [[1974 Iran International Tournament]]
+|Group stage
+|6th
+|2
+|0
+|1
+|1
+|0
+|2
+|<ref>{{Cite web|title=Iran International Tournament (Tehran)|url=http://www.rsssf.com/tablesi/iran-youth75.html|access-date=2 May 2022|website=www.rsssf.com}}</ref>
+|- style="background:#c96;"
+|{{flagicon|UAR}} [[1974 Kuneitra Cup]]
+|Third place
+|3rd
+|7
+|4
+|0
+|3
+|10
+|9
+|<ref>{{Cite web|title=Kuneitra Cup 1974 (Syria)|url=http://www.rsssf.com/tablesk/kuneitra74.html|access-date=18 October 2021|website=www.rsssf.com}}</ref>
+|-
+| align="center" style="border:3px solid red;" |{{flagicon|TUN}} [[1975 Palestine Cup of Nations]]
+|Group stage
+|5th
+|2
+|1
+|1
+|0
+|4
+|1
+|<ref>{{Cite web|title=Palestine Cup 1975|url=http://www.rsssf.com/tablesp/palestine75.html|access-date=18 October 2021|website=www.rsssf.com}}</ref>
+|- style="background:#c96;"
+|{{flagicon|CIV}} 1984–85 Friendship Games
+|Third place
+|3rd
+|2
+|1
+|0
+|2
+|2
+|6
+|<ref>{{Cite web|title=Tournoi de l'Amitié Abidjan 1984/85|url=http://www.rsssf.com/tablesi/ivo-amitie85.html|access-date=18 October 2021|website=www.rsssf.com}}</ref>
+|- style="background:#9acdff;"
+|{{flagicon|Malta}} [[1988 Malta International Football Tournament|1988 Malta International Tournament]]
+|Fourth place
+|4th
+|3
+|0
+|0
+|3
+|1
+|10
+|<ref>{{Cite web|title=Rothmans Tournament 1988|url=http://www.rsssf.com/tablesr/rothmans88.html|access-date=18 October 2021|website=www.rsssf.com}}</ref>
+|- style="background:gold;"
+| align="center" style="border:3px solid red;" |{{flagicon|TUN}} [[7th November Cup#First edition 1991|7 November Cup 1991]]
+|'''Champions'''
+|1st
+|2
+|2
+|0
+|0
+|11
+|3
+|<ref>{{Cite web|title=Coupe 7 Novembre (Tunis) 1991|url=http://www.rsssf.com/tablesc/coupe0711-91.html|access-date=18 October 2021|website=www.rsssf.com}}</ref>
+|- style="background:gold;"
+| align="center" style="border:3px solid red;" |{{flagicon|TUN}} [[7th November Cup#Second edition 1993|7 November Cup 1993]]
+|'''Champions'''
+|1st
+|2
+|2
+|0
+|0
+|6
+|1
+|<ref>{{Cite web|title=Coupe 7 Novembre (Tunis) 1993|url=http://www.rsssf.com/tablesc/coupe0711-93.html|access-date=18 October 2021|website=www.rsssf.com}}</ref>
+|- style="background:#c96;"
+|{{flagicon|Malta}} [[1994 Malta International Football Tournament|1994 Malta International Tournament]]
+|Third place
+|3rd
+|3
+|0
+|2
+|1
+|2
+|5
+|<ref>{{Cite web|title=Rothmans Tournament 1994|url=http://www.rsssf.com/tablesr/rothmans94.html|access-date=18 October 2021|website=www.rsssf.com}}</ref>
+|- style="background:gold;"
+| align="center" style="border:3px solid red;" |{{flagicon|TUN}} [[7th November Cup#Third edition 1995|7 November Cup 1995]]
+|'''Champions'''
+|1st
+|2
+|2
+|0
+|0
+|4
+|1
+|<ref>{{Cite web|title=Coupe 7 Novembre (Tunis) 1995|url=http://www.rsssf.com/tablesc/coupe0711-95.html|access-date=18 October 2021|website=www.rsssf.com}}</ref>
+|- style="background:gold;"
+| align="center" style="border:3px solid red;" |{{flagicon|TUN}} [[1997 LG Cup (Tunisia)|1997 LG Cup]]
+|'''Champions'''
+|1st
+|2
+|2
+|0
+|0
+|5
+|1
+|<ref>{{Cite web|title=First LG Cup 1997 (Tunisia)|url=http://www.rsssf.com/tablesl/lgcup97.html|access-date=18 October 2021|website=www.rsssf.com}}</ref>
+|- style="background:gold;"
+| align="center" style="border:3px solid red;" |{{flagicon|TUN}} [[2003 Tunis Four Nations Tournament]]
+|'''Champions'''
+|1st
+|2
+|1
+|1
+|0
+|3
+|2
+|<ref>{{Cite web|title=Four Nations Tournament (Tunis) 2003|url=http://www.rsssf.com/tablest/tunis-4nat03.html|access-date=18 October 2021|website=www.rsssf.com}}</ref>
+|- style="background:silver;"
+| align="center" style="border:3px solid red;" |{{flagicon|TUN}} [[2006 LG Cup (Tunisia)|2006 LG Cup]]
+|Runners-up
+|2nd
+|2
+|1
+|1
+|0
+|3
+|0
+|<ref>{{Cite web|title=LG Cup Four Nations Tournament (Tunisia) 2006|url=http://www.rsssf.com/tablesl/lgcup1-06.html|access-date=18 October 2021|website=www.rsssf.com}}</ref>
+|- style="background:gold;"
+|{{flagicon|ESP}} 2011 Catalonia International Trophy
+|'''Champions'''
+|1st
+|1
+|0
+|1
+|0
+|0
+|0
+|<ref>{{Cite web|work=el Economista|date=10 December 2009|title=Casals: "Catalunya debe jugar contra las mejores 15 selecciones del mundo" – EcoDiario.es|url=https://ecodiario.eleconomista.es/futbol/noticias/1761538/12/09/Casals-Catalunya-debe-jugar-contra-las-mejores-15-selecciones-del-mundo.html|access-date=18 October 2021|language=es}}</ref>
+|- style="background:silver;"
+|{{flagicon|JPN}} 2015 Kirin Challenge Cup
+|Runners-up
+|2nd
+|1
+|0
+|0
+|1
+|0
+|2
+|<ref>{{Cite web|title=キリンチャレンジカップ2015 [3/27] TOP|url=https://www.jfa.jp/samuraiblue/20150327/|access-date=18 October 2021|website=JFA｜公益財団法人日本サッカー協会|language=ja}}</ref>
+|- style="background:gold;"
+|{{flagicon|ESP}} [[2016 Catalonia International Trophy]]
+|'''Champions'''
+|1st
+|1
+|0
+|1
+|0
+|3
+|3
+|<ref>{{Cite web|date=22 December 2009|title=La Selección falló demasiado y cayó ante Catalunya sin atenuantes|url=https://www.clarin.com/ultimo-momento/seleccion-fallo-demasiado-cayo-catalunya-atenuantes_0_r1B-y2D0aYx.html|access-date=18 October 2021|website=Clarín|language=es}}</ref>
+|- style="background:gold;"
+|{{flagicon|JPN}} [[2022 Kirin Cup Soccer]]
+|'''Champions'''
+|1st
+|2
+|2
+|0
+|0
+|5
+|0
+|<ref>{{cite news|url=http://www.jfa.jp/news/00029487/|title=大会参加国、マッチスケジュール、テレビ放送が決定 キリンカップサッカー2022|language=ja|work=[[Japan Football Association]] (JFA) |date=28 April 2022|access-date=28 April 2022}}</ref>
+|- style="background:silver;"
+|{{flagicon|JPN}} 2023 Kirin Challenge Cup
+|Runners-up
+|2nd
+|1
+|0
+|0
+|1
+|0
+|2
+|<ref>{{Cite web |title=KIRIN CHALLENGE CUP 2023 [10/17] TOP |url=https://www.jfa.jp/samuraiblue/20231017/ |access-date=2023-08-10 |website=Japan Football Association |language=ja}}</ref>
+|- style="background:#c96;"
+|{{flagicon|EGY}} [[2024 FIFA Series#Egypt (ACUD Cup)|2024 ACUD Cup]]
+|Third place
+|3rd
+|2
+|0
+|2
+|0
+|0
+|0
+|<ref>{{cite tweet |number=1768259061999394819 |user=EgyptNT_EN |title=We are pleased to announce the participation of our national team in the inaugural ACUD Cup by Sports United alongside Croatia, Tunisia, and New Zealand. The tournament will be held in Egypt from March 18 to 26. |author=Egyptian Football Association |date=14 March 2024 |access-date=15 March 2024}}</ref>
+|-
+! style="background:#E70013; color:white; {{box-shadow border|a|white|2px}}"|Total
+! style="background:#E70013; color:white; {{box-shadow border|a|white|2px}}"|10 Titles
+! style="background:#E70013; color:white; {{box-shadow border|a|white|2px}}"|1st
+! style="background:#E70013; color:white; {{box-shadow border|a|white|2px}}"|60
+! style="background:#E70013; color:white; {{box-shadow border|a|white|2px}}"|31
+! style="background:#E70013; color:white; {{box-shadow border|a|white|2px}}"|13
+! style="background:#E70013; color:white; {{box-shadow border|a|white|2px}}"|16
+! style="background:#E70013; color:white; {{box-shadow border|a|white|2px}}"|92
+! style="background:#E70013; color:white; {{box-shadow border|a|white|2px}}"|74
+! style="background:#E70013; color:white; {{box-shadow border|a|white|2px}}"|—
+|}
+
+==Head-to-head record==
+{{#lsth:Tunisia national football team records and statistics|All−time record against FIFA recognized nations}}
+
+== FIFA rankings ==
+{{#lsth:Tunisia national football team records and statistics|FIFA rankings}}
+
+==Honours==
+{{Main|Tunisia national football team honours}}
+
+Throughout its history, according to FIFA statutes the Tunisian national team has won two official senior titles, the [[2004 African Cup of Nations|2004 Africa Cup of Nations]] and the [[2011 African Nations Championship]].<ref>{{Cite web |title=African Nations Cup 2004 |url=https://www.rsssf.org/tables/04a.html |access-date=2023-06-10 |website=www.rsssf.org}}</ref><ref>{{Cite web |title=African Nations Championship 2011 |url=https://www.rsssf.org/tables/2011anch.html |access-date=2023-06-10 |website=www.rsssf.org}}</ref> It also won two regional competitions, the [[1963 Arab Cup]].<ref>{{Cite web |title=Arab Cup |url=https://www.rsssf.org/tablesa/arabcup.html |access-date=2023-06-10 |website=www.rsssf.org}}</ref> organized by [[Union of Arab Football Associations|UAFA]] and the [[1973 Palestine Cup of Nations]]. The team has also won nine friendly titles, including international friendly tournaments listed below.
+
+{{col-begin|width=100%}}
+{{Col-3}}
+
+=== Continental ===
+* '''[[Africa Cup of Nations]]'''<ref>{{Cite web|title=African Nations Cup|url=http://www.rsssf.com/tablesa/afrchamp.html|access-date=22 June 2021|website=www.rsssf.com}}</ref>
+** [[File:Gold medal africa.svg|15px]] '''Champions (1)''': [[2004 African Cup of Nations|2004]]
+** [[File:Silver medal africa.svg|15px]] Runners-up (2): [[1965 African Cup of Nations|1965]], [[1996 African Cup of Nations|1996]]
+** [[File:Bronze medal africa.svg|15px]] Third place (1): [[1962 African Cup of Nations|1962]]
+* '''[[African Nations Championship]]'''<ref>{{Cite web|title=African Nations Championship|url=http://www.rsssf.com/tables/00allanch.html|access-date=22 June 2021|website=www.rsssf.com}}</ref>
+** [[File:Gold medal africa.svg|15px]] '''Champions (1)''': [[2011 African Nations Championship|2011]]
+
+===Regional===
+* '''[[FIFA Arab Cup|Arab Cup / FIFA Arab Cup]]'''<ref>{{Cite web |title=Arab Cup |url=https://www.rsssf.org/tablesa/arabcup.html |access-date=2024-04-21 |website=www.rsssf.org}}</ref>
+** {{Gold1}} '''Champions (1)''': [[1963 Arab Cup|1963]]
+** {{Silver2}} Runners-up (1): [[2021 FIFA Arab Cup|2021]]
+* '''[[Football at the Arab Games|Arab Games]]'''<ref>{{Cite web|title=Arab Games Overview|url=http://www.rsssf.com/tablesa/arabgam.html|access-date=22 June 2021|website=www.rsssf.com}}</ref>
+** {{Silver2}} Silver Medal (1): [[Football at the 1957 Arab Games|1957]]
+* '''[[Palestine Cup of Nations]]'''<ref>{{Cite web|title= Palestine Cup 1972-1975|url=https://www.rsssf.com}}</ref>
+** {{Gold1}} '''Champions (1)''': [[1973 Palestine Cup of Nations|1973]]
+* '''[[Football at the Mediterranean Games|Mediterranean Games]]'''<ref>{{Cite web|title=Mediterranean Cup and Mediterranean Games – Overview|url=http://www.rsssf.com/tablesm/medgames.html|access-date=22 June 2021|website=www.rsssf.com}}</ref>
+** [[File:Silver MedGames.svg|15px]] Silver medal (1): [[Football at the 1971 Mediterranean Games|1971]]
+** [[File:Bronze MedGames.svg|15px]] Bronze medal (1): [[Football at the 1975 Mediterranean Games|1975]]
+{{Col-3}}
+
+===Friendly===
+
+* '''[[1974 Kuneitra Cup|Kuneitra Cup]]'''<ref>{{Cite web|title=Kuneitra Cup 1974 (Syria)|url=https://www.rsssf.com/tablesk/kuneitra74.html|access-date=22 June 2021|website=www.rsssf.com}}</ref>
+** {{Bronze3}} Third place (1): 1974
+* '''[[7th November Cup]]'''<ref>{{Cite web|title=Coupe 7 Novembre (Tunis) 1991–1995|url=http://www.rsssf.com/tablesc/coupe0711.html|access-date=22 June 2021|website=www.rsssf.com}}</ref>
+** {{Gold1}} '''Champions (3)''': 1991, 1993, 1995
+* '''[[Catalonia International Trophy]]'''<ref>{{Cite web |title=Catalunya empata contra Tunísia (3-3) però cau en els penals - 28 des 2016 |url=https://www.lesportiudecatalunya.cat/seleccions/article/1035834-catalunya-empata-contra-tunisia-3-3-pero-acaba-caient-en-els-penals.html |access-date=2024-04-02 |website=L'Esportiu de Catalunya |language=ca}}</ref>
+** {{Gold1}} '''Champions (2)''': 2011, [[2016 Catalonia International Trophy|2016]]
+* '''[[LG Cup (association football)|LG Cup]]'''<ref>{{Cite web |title=LG Cup Four Nations Tournaments |url=http://www.rsssf.com/tablesl/lgcup.html |access-date=22 June 2021 |website=www.rsssf.com}}</ref>
+** {{Gold1}} '''Champions (1)''': [[1997 LG Cup (Tunisia)|1997]]
+** {{Silver2}} Runners-up (1): [[2006 LG Cup (Tunisia)|2006]]
+* '''[[Tripoli Fair Tournament]]'''<ref>{{Cite web |title=Tripoli Fair Tournament |url=https://forum.kooora.com/f.aspx?t=611287 |access-date=22 June 2021 |website=forum.kooora.com| date=17 May 2005 }}</ref>
+** {{Gold1}} '''Champions (1)''': [[1965 Tripoli Fair Tournament|1965]]
+** {{Bronze3}} Third place (1): 1962
+* '''[[Kirin Cup Soccer]]'''<ref>{{Cite web|title=Kirin Cup Soccer 2022|url=https://www.jfa.jp/eng/samuraiblue/kirincupsoccer_2022/schedule_result/|access-date=14 June 2022|website=www.jfa.jp}}</ref>
+** {{Gold1}} '''Champions (1)''' [[2022 Kirin Cup Soccer|2022]]
+* '''Tunis Four Nations Tournament'''<ref>{{Cite web |title=Four Nations Tournament (Tunis) 2003 |url=http://www.rsssf.com/tablest/tunis-4nat03.html |access-date=22 June 2021 |website=www.rsssf.com}}</ref>
+** {{Gold1}} '''Champions (1)''': [[2003 Tunis Four Nations Tournament|2003]]
+* '''Friendship Games'''<ref>{{Cite web |title=French African Friendship Games 1960-1963 |url=https://www.rsssf.org/tablesa/afr-friendship.html |access-date=2024-04-02 |website=www.rsssf.org}}</ref>
+** {{Silver2}} Runners-up (1): 1963
+** {{Bronze3}} Third place (1): 1984–85
+* '''Kirin Challenge Cup'''
+** {{Silver2}} Runners-up (2): 2015, 2023
+* '''[[Malta International Football Tournament|Malta International Tournament]]'''<ref>{{Cite web |title=Malta (Rothmans) International Tournament |url=http://www.rsssf.com/tablesr/rothmans.html |access-date=22 June 2021 |website=www.rsssf.com}}</ref>
+** {{Bronze3}} Third place (1): [[1994 Malta International Football Tournament|1994]]
+* '''[[FIFA Series]]'''<ref>{{Cite web |date=2024-03-26 |title=ACUD sponsors Egypt Capital Football Cup - Dailynewsegypt |url=https://www.dailynewsegypt.com/2024/03/26/acud-sponsors-egypt-capital-football-cup/ |access-date=2024-04-02 |language=en-US}}</ref>
+** {{Bronze3}} Third place: [[2024 FIFA Series#Egypt (ACUD Cup)|2024]]
+{{Col-3}}
+{{col-end}}
+
+===Awards===
+* '''[[CAF Awards#African National Team of the Year|African National Team of the Year]]'''<ref>{{cite web|url=https://www.rsssf.org/miscellaneous/afr-toy.html|title=African National Team of the Year|website=[[RSSSF]]|publisher=Rec. Sport Soccer Statistics Foundation|date=6 July 2007}}</ref>
+**{{Gold1}} First place: 1995, 1999, 2004, 2005
+**{{Silver2}} Second place: 1996, 1997
+
+=== Decorations ===
+
+* {{TUN}}: Officers of the [[National Order of Merit (Tunisia)|National Order of Merit]] (24 February 2004)<ref>{{Cite web |title=الرئيس التونسى يكرم منتخب بلاده لكرة القدم بمناسبة تتويجه بطلا لافريقيا |trans-title=The Tunisian President honors his country's national football team on the occasion of its coronation as African champions. |url=https://www.kuna.net.kw/ArticleDetails.aspx?id=1417036&language=ar |access-date=2025-09-16 |website=www.kuna.net.kw}}</ref>
+
+==See also==
+* [[Tunisian Football Federation]]
+* [[Tunisia A' national football team]]
+* [[Tunisia national under-23 football team]]
+* [[Tunisia national under-20 football team]]
+* [[Tunisia national under-18 football team]]
+* [[Tunisia national under-17 football team]]
+* [[Tunisia national under-15 football team]]
+* [[Tunisia women's national football team]]
+* [[Tunisia women's national under-20 football team]]
+* [[Tunisia women's national under-17 football team]]
+* [[Algeria–Tunisia football rivalry]]
+
+==Notes==
+<references group="note" />
+
+==References==
+{{reflist|25em}}
+
+==External links==
+{{Commons category}}
+* {{Official website}} {{in lang|fr}}
+* [https://www.cafonline.com/member-associations/tun/ Tunisia] at [[Confederation of African Football|CAF]]
+* [https://www.fifa.com/about-fifa/associations/TUN Tunisia] at [[FIFA]]
+
+{{Tunisia national football team}}
+{{Navboxes top
+| title = Links to related articles
+| bg    = #E70013
+| fg    = white
+| bordercolor = white
+| list1 =}}
+{{Navboxes
+| title = Tunisia achievements and awards
+| bg    = #E70013
+| fg    = white
+| bordercolor = white
+| list1 =
+{{s-start}}
+{{s-ach|ach}}
+{{Succession box
+ | before = –
+ | title = [[FIFA Arab Cup|Arab Cup]] champions
+ | years = '''[[1963 Arab Cup|1963]]''' ''(First title)''
+ | after = {{fb|IRQ|1963}}
+}}
+{{Succession box
+ | before = {{fb|CMR}}
+ | title = [[Africa Cup of Nations]] champions
+ | years = '''[[2004 African Cup of Nations|2004]]''' ''(First title)''
+ | after = {{fb|EGY}}
+}}
+{{Succession box
+ | before = {{fb|COD}}
+ | title = [[African Nations Championship]] champions
+ | years = '''[[2011 African Nations Championship|2011]]''' ''(First title)''
+ | after = {{fb|LBY}}
+}}
+{{S-end}}
+}}
+{{Africa Cup of Nations Winners}}
+{{African Nations Championship winners}}
+{{Men's Mediterranean Games Football winners}}
+{{FIFA Arab Cup winners}}
+{{Football in Tunisia}}
+{{National sports teams of Tunisia}}
+{{UAFA Football}}
+{{UNAF Football}}
+{{CAF teams}}
+{{Navboxes bottom}}
+{{Portal bar|Association football}}
+
+{{DEFAULTSORT:Tunisia National Football Team}}
+[[Category:Tunisia national football team| ]]
+[[Category:Tunisia men's national football teams| ]]
+[[Category:African national association football teams]]
+[[Category:Africa Cup of Nations–winning countries|T]]

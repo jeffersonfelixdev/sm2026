@@ -1,0 +1,2045 @@
+{{Short description|Men's association football team}}
+{{About|the men's team|the women's team|El Salvador women's national football team}}
+{{Use dmy dates|date=June 2026}}
+{{Infobox national football team
+| Name                  = El Salvador
+| Badge                 = El Salvador crest.svg<!--DO NOT CHANGE IMAGE TO FESFUT LOGO. THAT IMAGE IS UNDER FAIR USE AND CANNOT BE USED ON THIS ARTICLE-->
+| Badge_size            = 180px
+| Nickname              = {{lang|es|La Selecta}} (The National Team)<br>{{lang|es|Los Cuscatlecos}} (The Cuscatlecos)<br>{{lang|es|La Azul y Blanco}} (The Blue and White)<br>{{lang|es|La ES}} (The ES)
+| Association           = [[Salvadoran Football Federation]] (FESFUT)
+| Confederation         = [[CONCACAF]] (North America)
+| Sub-confederation     = [[Central American Football Union|UNCAF]] (Central America)
+| Coach                 = [[Hernán Darío Gómez]]
+| Captain               = [[Julio Sibrián]]
+| Most caps             = {{unbulleted list| [[Darwin Cerén]] (108)}}
+| Top scorer            = [[Raúl Díaz Arce]] (39)<ref>{{cite web|url=https://www.rsssf.org/miscellaneous/elsal-recintlp.html|title=El Salvador – Record International Players|work=[[RSSSF]]|access-date=4 January 2017|archive-date=10 July 2022|archive-url=https://web.archive.org/web/20220710163839/https://www.rsssf.org/miscellaneous/elsal-recintlp.html|url-status=live}}</ref>
+| Home Stadium          = [[Estadio Cuscatlán]]<br>[[Estadio Jorge "El Mágico" González]]
+| FIFA Trigramme        = SLV
+| FIFA Rank             = {{FIFA World Rankings|SLV}}
+| FIFA max              = 49
+| FIFA max date         = April 2012
+| FIFA min              = 169
+| FIFA min date         = November 2006<ref>{{cite web|url=https://www.fifa.com/fifa-world-ranking/SLV|title=EL SALVADOR MEN'S RANKING|work=fifa.com|access-date=4 February 2023|archive-date=4 February 2023|archive-url=https://web.archive.org/web/20230204192928/https://www.fifa.com/fifa-world-ranking/SLV|url-status=live}}</ref>
+| Elo Rank              = {{World Football Elo Ratings|El Salvador}}
+| Elo max               = 40
+| Elo max date          = December 1943
+| Elo min               = 125
+| Elo min date          = April 2007
+| pattern_la1           = 
+| pattern_b1            = _slv25h
+| pattern_ra1           = 
+| pattern_sh1           = _slv25h
+| pattern_so1           = _slv25h
+| leftarm1              = 0044FF
+| body1                 = 0044FF
+| rightarm1             = 0044FF
+| shorts1               = 0044FF
+| socks1                = 0044FF
+| pattern_la2           = _slv25a
+| pattern_b2            = _slv25a
+| pattern_ra2           = _slv25a
+| pattern_sh2           = _slv25a
+| pattern_so2           = _slv25a
+| leftarm2              = FFFFFF
+| body2                 = FFFFFF
+| rightarm2             = FFFFFF
+| shorts2               = FFFFFF
+| socks2                = FFFFFF
+| pattern_la3           = 
+| pattern_b3            = 
+| pattern_ra3           = 
+| leftarm3              = 
+| body3                 = 
+| rightarm3             = 
+| shorts3               = 
+| socks3                = 
+| First game            = {{nowrap|{{fb|CRC}} 7–0 {{fb-rt|SLV}}<br>([[Guatemala City]], Guatemala; 14 September 1921)}}
+| Largest win           = {{fb|SLV}} 12–0 {{fb-rt|AIA}}<br>([[San Salvador]], El Salvador; 6 February 2008)
+| Largest loss          = {{fb|HUN}} [[Hungary v El Salvador (1982 FIFA World Cup)|10–1]] {{fb-rt|SLV}}<br>([[Elche]], [[Spain]]; 15 June 1982)
+| World cup apps        = 2
+| World cup first       = 1970
+| World cup best        = Group stage ([[1970 FIFA World Cup|1970]], [[1982 FIFA World Cup|1982]])
+| Regional name         = [[Football at the Summer Olympics|Olympic Games]]
+| Regional cup apps     = 1
+| Regional cup first    = [[Football at the 1968 Summer Olympics|1968]]
+| Regional cup best     = Group stage ([[Football at the 1968 Summer Olympics|1968]])
+| 2ndRegional name      = [[CONCACAF Championship]] / [[CONCACAF Gold Cup|Gold Cup]]
+| 2ndRegional cup apps  = 20<!--as of 2025-->
+| 2ndRegional cup first = [[1963 CONCACAF Championship|1963]]
+| 2ndRegional cup best  = Runners-up ([[1963 CONCACAF Championship|1963]], [[1981 CONCACAF Championship|1981]])
+| 3rdRegional name      = [[CONCACAF Nations League]]
+| 3rdRegional cup apps  = 4
+| 3rdRegional cup first = [[2019–20 CONCACAF Nations League|2019–20]]
+| 3rdRegional cup best  = Group stage ([[2022–23 CONCACAF Nations League|2022–23]], [[2023–24 CONCACAF Nations League|2023–24]])
+| 4thRegional name      = [[CCCF Championship]]
+| 4thRegional cup apps  = 7
+| 4thRegional cup first = [[1941 CCCF Championship|1941]]
+| 4thRegional cup best  = '''Champions''' ([[1943 CCCF Championship|1943]])
+| medaltemplates        =
+{{MedalCompetition|[[CONCACAF Championship]]}}
+{{MedalSilver|[[1963 CONCACAF Championship|1963 El Salvador]]|[[1963 CONCACAF Championship squads#El Salvador|Team]]}}
+{{MedalSilver|[[1981 CONCACAF Championship|1981 Honduras]]|Team}}
+{{MedalBronze|[[1977 CONCACAF Championship|1977 Mexico]]|Team}}
+{{MedalCompetition|[[CCCF Championship]]}}
+{{MedalGold|[[1943 CCCF Championship|1943 El Salvador]]|Team}}
+{{MedalSilver|[[1941 CCCF Championship|1941 Costa Rica]]|Team}}
+{{MedalSilver|[[1961 CCCF Championship|1961 Costa Rica]]|Team}}
+{{MedalCompetition|[[Copa Centroamericana]]}}
+{{MedalBronze|[[1995 UNCAF Nations Cup|1995 El Salvador]]|[[1995 UNCAF Nations Cup squads#El Salvador|Team]]}}
+{{MedalBronze|[[1997 UNCAF Nations Cup|1997 Guatemala]]|[[1997 UNCAF Nations Cup squads#El Salvador|Team]]}}
+{{MedalBronze|[[2001 UNCAF Nations Cup|2001 Honduras]]|[[2001 UNCAF Nations Cup squads#El Salvador|Team]]}}
+{{MedalBronze|[[2003 UNCAF Nations Cup|2003 Panama]]|[[2003 UNCAF Nations Cup squads#El Salvador|Team]]}}
+{{MedalBronze|[[2013 Copa Centroamericana|2013 Costa Rica]]|[[2013 Copa Centroamericana squads#El Salvador|Team]]}}
+{{MedalBronze|[[2017 Copa Centroamericana|2017 Panama]]|[[2017 Copa Centroamericana squads#El Salvador|Team]]}}
+{{MedalCompetition|[[Central American and Caribbean Games]]}}
+{{MedalGold|[[Football at the 1954 Central American and Caribbean Games|1954 Mexico]]|Team}}
+{{MedalBronze|[[Football at the 1935 Central American and Caribbean Games|1935 El Salvador]]|Team}}
+}}
+
+The '''El Salvador national football team''' ({{langx|es|Selección de fútbol de El Salvador}}) represents [[El Salvador]] in men's international [[Association football|football]], which is governed by the [[Salvadoran Football Federation]] (FESFUT) founded in 1935.<ref>{{Cite web|url=https://www.elgrafico.com/futbol/La-actividad-de-la-seleccion-en-2018-20180123-0008.html|title=La actividad de la selección en 2018|work=El Gráfico |access-date=23 January 2018|archive-date=23 January 2018|archive-url=https://web.archive.org/web/20180123202709/https://www.elgrafico.com/futbol/La-actividad-de-la-seleccion-en-2018-20180123-0008.html|url-status=live}}</ref> It has been an affiliate member of  [[FIFA]] since 1938 and a founding affiliate member of [[CONCACAF]] since 1961. Regionally, it is an affiliate member of [[Central American Football Union|UNCAF]] in the Central American Zone. From 1938 to 1961, it was a member of [[Confederación Centroamericana y del Caribe de Fútbol|CCCF]], the former governing body of football in Central America and Caribbean and a predecessor confederation of CONCACAF, and also a member of [[Panamerican Championship#Panamerican Football Confederation|PFC]], the former unified confederation of the Americas, from 1946 to 1961.
+
+El Salvador has qualified for the [[FIFA World Cup]] twice ([[1970 FIFA World Cup|1970]] and [[1982 FIFA World Cup|1982]]). It also participated once in the [[Football at the Summer Olympics|Olympic Games]] ([[Football at the 1968 Summer Olympics|1968]]).
+
+El Salvador has participated twenty times in CONCACAF's premier continental competition, finishing as runners-up twice in the [[CONCACAF Championship]] ([[1963 CONCACAF Championship|1963]] and [[1981 CONCACAF Championship|1981]]). The team's best performance under the [[CONCACAF Gold Cup]] format was reaching the quarter-finals six times. It has participated twice in League A and twice in League B of the [[CONCACAF Nations League]].
+
+Regionally, the team won the [[CCCF Championship]] in [[1943 CCCF Championship|1943]], and one gold medal at the [[Central American and Caribbean Games]] in [[Football at the 1954 Central American and Caribbean Games|1954]].<ref>{{Cite web|last1=Gráfico |first1=El |url=http://www.elgrafico.com/2017/12/07/el-salvador-celebra-15-aos-del-oro-en-los-centroamericanos-y-del-caribe|title=El Gráfico|access-date=8 December 2017|archive-date=8 December 2017|archive-url=https://web.archive.org/web/20171208122327/http://www.elgrafico.com/2017/12/07/el-salvador-celebra-15-aos-del-oro-en-los-centroamericanos-y-del-caribe|url-status=live}}</ref> It also finished third place six times in the [[Copa Centroamericana]].
+
+The [[Estadio Cuscatlán]], also known as "El Coloso de Montserrat" and "La Catedral del Espectáculo", is the official home stadium of the El Salvador national football team. Since 2017, the national team has had a [[Kit (association football)|kit]] sponsorship contract with England-based supplier [[Umbro]]. [[Raúl Díaz Arce]] is the all-time top-scorer for the national team, with 39 goals, while [[Darwin Cerén]] has the most caps, with 108 appearances.
+
+==History==
+===Beginnings===
+[[File:Independence Centenary Games, Costa Rica vs El Salvador.jpg|thumb|right|The first match of the El Salvador national team, 14 September 1921.]]
+
+Although El Salvador played a few games in the early part of the twentieth century,{{citation needed|date=March 2024}} they did not form an official national team until 1921, when players such as José Pablo Huezo, Carlos Escobar  Leyva or Santiago Barrachina revolutionised football in the country.<ref name="Name">{{cite web|last=Hatcher|first=Dan|title=El Salvador Soccer Team Name Ideas|url=http://danhatcher.com/blog/tag/soccer-team-name-ideas/|access-date=2010-11-01|date=2008-09-14|archive-url=https://web.archive.org/web/20110708224217/http://danhatcher.com/blog/tag/soccer-team-name-ideas/|archive-date=2011-07-08|url-status=dead}}</ref>  In September 1921, El Salvador were invited to [[Guatemala]] to take part in the [[Independence Centenary Games]], to celebrate 100 years of [[Central American declarations of independence|Central American Independence]].<ref name="Start">{{cite web |url=http://www.elsalvador.com/especiales/2008/selecta2008/historia.asp |title=Nace la pasion... |publisher=elsalvador.com |access-date=16 May 2011 |language=es |trans-title=The passion is born... |archive-date=30 September 2012 |archive-url=https://web.archive.org/web/20120930073428/http://www.elsalvador.com/especiales/2008/selecta2008/historia.asp |url-status=live}}</ref><ref name="History of the team">{{cite web |url=http://fesfut.org.sv/historia.php |title=Historia del Fútbol Salvadoreño |publisher=fesfut.org.sv |access-date=16 May 2011 |language=es |trans-title=History of Salvadoran Football |archive-date=16 May 2011 |archive-url=https://web.archive.org/web/20110516135336/http://www.fesfut.org.sv/historia.php |url-status=live}}</ref> The tournament was contested by [[Guatemala national football team|Guatemala]], [[Honduras national football team|Honduras]], [[Costa Rica national football team|Costa Rica]], and El Salvador. The Guatemalans and Costa Ricans had more experience than the Salvadorans and Hondurans.<ref>{{cite web|url=http://www.elsalvador.com/noticias/EDH_DEPORTES/figurauydeportes/Portada.pdf|title=el nacimiento de 'la selecta'|publisher=El Diario de Hoy|access-date=28 August 2011|language=es|archive-url=https://web.archive.org/web/20121004140122/http://www.elsalvador.com/noticias/EDH_DEPORTES/figurauydeportes/Portada.pdf|archive-date=4 October 2012|url-status=dead}}</ref> It was a [[single-elimination tournament|knockout tournament]] with Guatemala playing Honduras and El Salvador playing Costa Rica. El Salvador, wearing white shorts and black shirts, used a classic [[2–3–5]] scheme with their team consisting of Carlos Escobar Leyva; Spanish resident Santiago Barrachina, José Pablo Huezo; Benjamín Sandoval, Emilio Dawson, and Frenchman Emilio Detruit; Víctor Recinos, brothers Guillermo and José E. Alcaine, Guillermo Sandoval and Enrique Lindo. By half-time Costa Rica led 3–0, and at the final whistle, after two 40-minute halves, won 7–0.<ref name="Matches">{{cite web | url= https://www.rsssf.org/tablese/elsal-intres.html | title= 1921 to 2008 El Salvador match results by "Barrie Courtney" | website= [[RSSSF]] | access-date= 16 May 2011 | archive-date= 29 September 2022 | archive-url= https://web.archive.org/web/20220929121227/https://www.rsssf.org/tablese/elsal-intres.html | url-status= live}}</ref>
+
+El Salvador's other matches in the 1920s were friendlies against Costa Rica and Honduras. They lost their first friendly 3–0 against Costa Rica, while the second and third ended in a 1–0 loss and 0–0 draw against Honduras.<ref name="Matches"/> On 7 December 1928, El Salvador recorded their first ever win, 5–0 over Honduras, the team that would become their traditional rivals, with [[Gustavo Marroquín|Gustavo "Taviche" Marroquín]] scoring every goal. The game was played at Campo Marte, San Salvador, and was also the first time the team had scored in an international match.<ref name="Matches"/>
+
+===1930s===
+In the early 1930s, El Salvador appointed their first official national coach, the American [[Mark Scott Thompson]], in preparation for the [[Football at the 1930 Central American and Caribbean Games|1930 Central American and Caribbean Games]] in [[Havana]].<ref name="Directores">{{cite web |url=http://www.elbaloncuscatleco.com/directores.html |title=Los Directores en La Selecta |author=Gomez, Omar |publisher=El Balon Cuscatleco |access-date=16 May 2011 |language=es |trans-title=The Directors of ''La Selecta'' |archive-date=16 July 2019 |archive-url=https://web.archive.org/web/20190716065644/http://www.elbaloncuscatleco.com/directores.html |url-status=live}}</ref> El Salvador finished in fourth place at the games.<ref name="jdcac">{{cite web |url=http://www.elbaloncuscatleco.com/jdcac.html |title=El Salvador en Los Juegos Deportivos |author=Gomez, Omar |publisher=El Balon Cuscatleco |access-date=16 May 2011 |language=es |trans-title=El Salvador in Sportive Games |archive-date=6 September 2011 |archive-url=https://web.archive.org/web/20110906134512/http://www.elbaloncuscatleco.com/jdcac.html |url-status=live}}</ref> The [[Salvadoran Football Federation]] was founded in 1935. By this time, El Salvador were coached by the Spaniard, [[Pablo Ferre Elías]].<ref name="Directores"/> The [[Football at the 1935 Central American and Caribbean Games|1935 Central American and Caribbean Games]] took place in El Salvador's new government-funded [[Estadio Jorge "Mágico" González|Estadio Flor Blanca]], at that time the biggest stadium in the country. The Salvadoran squad consisted of Edmundo Majano as goalkeeper; Tobias Rivera and Raúl Castro in defence; Américo Gonzalez and Napoleon Cañas as midfielders; and Álex Morales, Rogelio Aviles, Fidel Quintanilla, Miguel "Americano" Cruz, and Andrés Hernández as strikers. Previously the national team had worn black and white striped jerseys and this was the first time they turned out in a blue strip. The team finished in third place as bronze medal winners.<ref name="jdcac"/><ref name="CAG 1935">{{cite web |author=Garin, Erik |author2=Morrison, Neil |title=Central American Games 1935 (El Salvador) |url=https://www.rsssf.org/tablesc/cag35.html |access-date=14 May 2011 |website=[[RSSSF]] |date=21 Apr 2011 |archive-date=17 August 2022 |archive-url=https://web.archive.org/web/20220817101835/https://www.rsssf.org/tablesc/cag35.html |url-status=live}}</ref>
+
+In 1938, the Salvadoran Football Federation became affiliates of [[FIFA]].<ref name="FIFA">{{cite web | title= El Salvador| url= https://www.fifa.com/associations/association=slv/index.html | archive-url= https://web.archive.org/web/20070610164348/http://fifa.com/associations/association=slv/index.html | url-status= dead | archive-date= 10 June 2007 | publisher=[[FIFA]] | access-date=16 May 2011}}</ref> El Salvador participated in the [[Football at the 1938 Central American and Caribbean Games|1938 Central American and Caribbean Games]], hosted in [[Panama]], which were won by [[Mexico national football team|Mexico]], with Costa Rica in second place. El Salvador won two and lost three of their five matches. A match for third place against [[Colombia national football team|Colombia]] was cancelled because of the bad state of the players, and El Salvador finished in fourth place.<ref name="jdcac"/><ref name="CAC 1938">{{cite web |author1=Frank Ballesteros |author2=Myk Cameron |author3=Barrie Courtney |author4=Erik Garin |author5=Neil Morrison |title=Central American and Caribbean Games Games 1938 (Panama) |url=https://www.rsssf.org/tablesc/cag38.html |access-date=14 May 2011 |website=[[RSSSF]] |date=24 Feb 2004 |archive-date=13 August 2022 |archive-url=https://web.archive.org/web/20220813174206/https://www.rsssf.org/tablesc/cag38.html |url-status=live}}</ref>
+
+===1940s===
+On 26 April 1940, the first national football federation was approved, with Dr. Luis Rivas Palacios as president.{{citation needed|date=April 2020}} In 1941, the first [[CCCF Championship|Central American and Caribbean Championship (CCCF)]] took place in [[Costa Rica]], organised by [[CONCACAF]], the international governing body for football in North America, Central America and the Caribbean. El Salvador competed alongside [[Costa Rica national football team|Costa Rica]], [[Curaçao national football team|Curaçao]], [[Nicaragua national football team|Nicaragua]] and [[Panama national football team|Panama]]. El Salvador were runners-up, recording two wins, one draw and one loss.<ref>{{cite web |url=https://www.rsssf.org/tablesc/cccf41.html |title=CCCF Championship 1941 |access-date=2010-11-14 |website=[[RSSSF]] |date=2006-05-25 |archive-date=2 December 2022 |archive-url=https://web.archive.org/web/20221202071842/https://rsssf.org/tablesc/cccf41.html |url-status=live}}</ref>
+
+The [[1943 CCCF Championship]] took place in San Salvador with the participation of Costa Rica, [[Guatemala national football team|Guatemala]] and Nicaragua. El Salvador were coached by the former national player [[Américo González (footballer)|Américo González]]. El Salvador and Guatemala finished with the same number of points, Guatemala failed to attend a deciding play-off, resulting in El Salvador winning their first international title. El Salvador's 10–1 win over Nicaragua set the team's record for the most goals scored in a single game. It was also the second time a Salvadoran player ([[Miguel Cruz|Miguel "Americano" Cruz]]) had scored five goals in a match.<ref name="CCCF 1943"/> El Salvador defended their title in the [[1946 CCCF Championship]] in Costa Rica alongside six other participants and finished in third place, winning three matches and losing two. In the [[1948 CCCF Championship]], hosted in [[Guatemala]], Costa Rica won the championship for the third time, with El Salvador finishing in fifth place.
+
+===1950s===
+El Salvador did not participate in qualification for the World Cups in [[1954 FIFA World Cup|1954]], [[1958 FIFA World Cup|1958]], [[1962 FIFA World Cup|1962]] and [[1966 FIFA World Cup|1966]]. During these years El Salvador had a good squad, including goalkeeper Manuel "Tamalón" Garay, Rafael "Chapuda" Reyes, Conrado Miranda, Miguel "Americano" Cruz, Rafael Corado and Mando Rivas.
+
+In the group stage of the [[Football at the 1950 Central American and Caribbean Games|1950 Central American and Caribbean Games]] in Mexico, El Salvador recorded two wins, one draw and one loss. They began the final round by beating Curaçao 3–1, but lost their other two matches, leaving them in fifth place.<ref name="jdcac"/> In 1953, El Salvador took part in their fifth [[1953 CCCF Championship|CCCF Championship]]. The hosts, Costa Rica, became champions for the fourth time, and El Salvador finished in fifth place again.
+
+At the [[Football at the 1954 Central American and Caribbean Games|1954 Central American and Caribbean Games]], El Salvador won their second international title under the [[Carbilio Tomasino]], with a team consisting of Yohalmo Aurora, Manuel "Tamalón" Garay, Hugo Moreno, Armando Larín, Luis Regalado, Conrado Miranda, Fernando Barrios, Ramón "Pezote" Chávez, José Hernández, Mario Montoya, Juan Francisco "Cariota" Barraza, Ricardo "Chilenito" Valencia, Alfredo "Baiza" Ruano, and Obdulio Hernández.{{citation needed|date=April 2020}} They began with a 2–2 draw against Colombia, and then beat [[Cuba national football team|Cuba]] 3–1, Mexico 3–2 and Panama 1–0 with a goal by Barraza. The win against Mexico, with two goals from Montoya and one from Valencia, was the first by a Central American team against Mexico.<ref name="jdcac"/>
+
+In the [[1955 CCCF Championship]], hosted in Honduras, Costa Rica became champions for the fifth time, with El Salvador finishing fourth. El Salvador did not participate in the [[1957 CCCF Championship|1957]] and [[1960 CCCF Championship|1960]] CCCF Championships.
+
+===1960s===
+El Salvador returned to participate in the [[1961 CCCF Championship]], hosted in Costa Rica, alongside nine other national teams. El Salvador were placed in a four-team first group with Honduras, the [[Netherlands Antilles national football team|Netherlands Antilles]], and Nicaragua, which they topped with two wins and a draw. In the final round they finished in second place behind Costa Rica, who won their seventh CCCF Championship. Afterwards the tournament was dissolved and replaced with the [[CONCACAF Championship]].
+
+In the first [[1963 CONCACAF Championship|CONCACAF Championship]], in 1963, El Salvador hosted both the qualification round and the final tournament.  Costa Rica became the first champions, and El Salvador finished as runners-up.<ref>{{cite web |url=https://www.rsssf.org/tablesc/conca63.html |title=CONCACAF Nations Cup 1963 |access-date=2010-11-14 |website=[[RSSSF]] |date=2004-02-14 |archive-date=2 December 2022 |archive-url=https://web.archive.org/web/20221202070518/https://rsssf.org/tablesc/conca63.html |url-status=live}}</ref> In 1964, the Chilean [[Hernán Carrasco Vivanco]], who would later revolutionize Salvadoran football, became the coach of the national team. He led the national team for the first time at the [[1965 CONCACAF Championship]], hosted in Guatemala, where they won two games, drew one and lost two, finishing in fourth place. In 1966, El Salvador took part in the [[1966 Central American and Caribbean Games|Central American and Caribbean Games]] for the sixth time, in [[Puerto Rico]]. They finished in fourth place.<ref name="jdcac"/>
+
+In 1968, El Salvador qualified for the [[1968 Summer Olympics|Olympic Games]] for the first time.<ref name="olimpicos">{{cite web | author=Gomez, Omar | title=El Salvador en Juegos Olimpicos | language=es | url=http://www.elbaloncuscatleco.com/olimpicos.html | publisher=Elbaloncuscatleco.com | access-date=2011-08-21 | archive-date=20 December 2018 | archive-url=https://web.archive.org/web/20181220124554/http://www.elbaloncuscatleco.com/olimpicos.html | url-status=live}}</ref> They lost 4–0 to [[Hungary national football team|Hungary]],<ref name="Hungary 1968">{{cite web|publisher=FIFA|title=Olympic Football Tournament Mexico City 1968 Hungary-El Salvador|url=https://www.fifa.com/tournaments/archive/tournament=512/edition=197099/matches/match=32096/report.html|access-date=2011-02-08|url-status=dead|archive-url=https://web.archive.org/web/20090902222115/http://www.fifa.com/tournaments/archive/tournament%3D512/edition%3D197099/matches/match%3D32096/report.html|archive-date=2009-09-02}}</ref> 3–1 to [[Israel national football team|Israel]],<ref name="Israel 1968">{{cite web|publisher=FIFA|title=Olympic Football Tournament Mexico City 1968 Israel-El Salvador|url=https://www.fifa.com/tournaments/archive/tournament=512/edition=197099/matches/match=32103/report.html|access-date=2011-02-08|url-status=dead|archive-url=https://web.archive.org/web/20120902062125/http://www.fifa.com/tournaments/archive/tournament%3D512/edition%3D197099/matches/match%3D32103/report.html|archive-date=2012-09-02}}</ref> and drew 1–1 with [[Ghana national football team|Ghana]].<ref name="Ghana 1968">{{cite web|publisher=FIFA|title=Olympic Football Tournament Mexico City 1968 Ghana-El Salvador|url=https://www.fifa.com/tournaments/archive/tournament=512/edition=197099/matches/match=32111/report.html|access-date=2011-02-08|url-status=dead|archive-url=https://web.archive.org/web/20120929072158/http://www.fifa.com/tournaments/archive/tournament%3D512/edition%3D197099/matches/match%3D32111/report.html|archive-date=2012-09-29}}</ref> The coach at this time was [[Rigoberto Guzmán]].
+
+Gregorio Bundio and his assistant José Santacolomba coached the team in the [[1970 FIFA World Cup qualification|qualifying stages]] for the [[1970 FIFA World Cup|1970 World Cup]]. This was the first time that El Salvador participated in World Cup qualifying. As hosts, Mexico qualified automatically, leaving one further qualification spot available for the CONCACAF region. El Salvador won [[1970 FIFA World Cup qualification#Group 3 2|Group 3]], winning three and losing one. They qualified for a play-off against their traditional rivals, the Group 2 winners Honduras. The first game, on 8 June 1969 in the Honduran capital of [[Tegucigalpa]], was won 1–0 by the home team and was followed by crowd violence. El Salvador won the second game 3–0 a week later in San Salvador, which was followed by even greater violence.<ref>{{cite book |title=Wars and Peace Treaties, 1816–1991 |last=Goldstein |first=Erik |year=1992 |publisher=Routledge |isbn=978-0-203-97682-1 |pages=195–6 |url=https://books.google.com/books?id=VjWnMm53xQ8C&q=football+war+honduras+el+salvador&pg=PA195 |access-date=4 July 2010}}</ref> A play-off match took place in [[Mexico City]] on 26 June, which El Salvador won 3–2 after extra time. On 14 July, as a result of existing tensions being exacerbated by these matches, the two countries began the hundred-hour-long conflict known as the [[Football War]]. As a result, El Salvador and Honduras were both disqualified from entering [[1969 CONCACAF Championship qualification]].
+
+In the deciding World Cup qualifier, El Salvador faced [[Haiti national football team|Haiti]]. El Salvador won the away leg 2–1, with goals from [[Elmer Acevedo]] and [[Mauricio Alonso Rodríguez|Mauricio "Pipo" Rodríguez]], but lost the second leg 3–0 at home. El Salvador finally won the play-off on 8 October with a goal by [[Juan Ramón Martínez (footballer)|Juan Ramón "Mon" Martínez]] in extra time, allowing them to qualify for the World Cup finals at the first attempt.
+
+"El Pajaro Picón Picón" was a Colombian song written by [[Eliseo Herrera]] which was very popular in El Salvador during the World Cup qualifying stages. During a radio show, Mauricio Bojórquez parodied the song, which he named "Arriba con la Selección". That parody became so famous that it became the official anthem of the El Salvador national football team.<ref name="Official anthem">{{cite web |url=http://lacomunidad.elpais.com/deralte/2011/1/17/el-pajaro-picon-picon-y-guerra-del-futbol |title=El Pájaro Picón y La Guerra de Fútbol |language=es |publisher=lacomunidad.elpais.com |access-date=17 January 2011 |archive-url=https://web.archive.org/web/20110509031600/http://lacomunidad.elpais.com/deralte/2011/1/17/el-pajaro-picon-picon-y-guerra-del-futbol |archive-date=9 May 2011 |url-status=dead}}</ref>
+
+===1970s===
+In the World Cup finals El Salvador were drawn into a group with [[Belgium national football team|Belgium]], Mexico and the [[Soviet Union national football team|Soviet Union]]. El Salvador lost their first game 3–0 to Belgium in Mexico City on 3 June.<ref name="Belgium1">{{cite web |title=FIFA Match Report for Belgium-El Salvador on June 3, 1970 |url=https://www.fifa.com/worldcup/archive/edition=32/results/matches/match=1747/report.html |archive-url=https://web.archive.org/web/20071016132611/http://fifa.com/worldcup/archive/edition=32/results/matches/match=1747/report.html |url-status=dead |archive-date=16 October 2007 |publisher=[[FIFA]] |access-date=2010-11-14 | date=2006-04-12}}</ref> The second match, against Mexico on 7 June, was marred by a controversial call near the end of the first half, with the score still at 0–0. The Egyptian referee [[Ali Kandil]] appeared to signal for a free kick to El Salvador in their own half. However, a Mexican player took the kick, passing to [[Javier Valdivia]], who scored. The Salvadoran players protested vigorously, to the extent of physically jostling the Bermudan linesman, Keith Dunstan,{{citation needed|date=April 2020}} but the goal was allowed to stand. El Salvador restarted the game by kicking the ball into the crowd in protest. They eventually lost 4–0.<ref name="Mexico">{{cite web| title= FIFA Match Report for Mexico-El Salvador on June 7, 1970| url= https://www.fifa.com/worldcup/archive/edition=32/results/matches/match=1820/report.html| publisher= [[FIFA]]| access-date= 2010-11-11| date= 2007-09-20| url-status= dead| archive-url= https://web.archive.org/web/20100615211242/http://www.fifa.com/worldcup/archive/edition%3D32/results/matches/match%3D1820/report.html| archive-date= June 15, 2010}}</ref> The team's third game took place on 10 June, with El Salvador losing 2–0 to the Soviet Union to finish at the bottom of Group A.<ref name="USSR1">{{cite web | title=FIFA Match Report for Soviet Union-El Salvador on June 10, 1970 | url=https://www.fifa.com/worldcup/archive/edition=32/results/matches/match=1823/report.html | publisher=[[FIFA]] | access-date=2010-11-11 | date=2006-04-12 | url-status=dead | archive-url=https://web.archive.org/web/20071016132727/http://fifa.com/worldcup/archive/edition%3D32/results/matches/match%3D1823/report.html | archive-date=October 16, 2007}}</ref>
+
+El Salvador advanced from the first round of [[1971 CONCACAF Championship qualification]] by beating [[Nicaragua national football team|Nicaragua]] 4–2 on aggregate. In the second round, they withdrew from their play-off against Honduras, allowing their opponents to qualify by default. The national team also took part in the [[1973 CONCACAF Championship qualification]], which doubled as qualification for the [[1974 FIFA World Cup|1974 World Cup]], but they did not advance to the [[1973 CONCACAF Championship|final stage]] after they were eliminated by Guatemala 2–0 on aggregate (1–0, 1–0).<ref name="Aggregate score" group="note"/><ref name="cm">{{cite web | title=El Salvador en eliminatorias rumbo a La Copa Mundo | language=es | url=http://www.elbaloncuscatleco.com/cm.html | publisher=Elbaloncuscatleco.com | access-date=2011-04-21 | archive-date=12 September 2011 | archive-url=https://web.archive.org/web/20110912055821/http://www.elbaloncuscatleco.com/cm.html | url-status=live}}</ref> The team was managed by [[Hector D'Angelo]].<ref name="Directores"/>
+
+El Salvador participated at the [[Pan American Games]] for the first time in [[Football at the 1975 Pan American Games|1975]] in Mexico. They began with a 4–1 win against Nicaragua on 14 October, with a hat-trick from [[Norberto Huezo|"Pajarito" Huezo]], on the début of [[José Francisco Jovel|Francisco "Paco" Jovel]]. They then lost 2–0 to [[Brazil national football team|Brazil]] and drew 0–0 against Costa Rica, with [[Luis Ramírez Zapata|"Pelé" Zapata]] missing a penalty. They finished in third place in Group D and failed to advance to the next round.<ref>{{cite web|author=Garin, Erik|title=Panamerican Games 1975 (Mexico)|website=[[RSSSF]]|url=https://www.rsssf.org/tablesp/panam75.html|date=2008-11-27|access-date=2 February 2023|archive-date=29 September 2022|archive-url=https://web.archive.org/web/20220929143401/https://www.rsssf.org/tablesp/panam75.html|url-status=live}}</ref>
+
+In [[1977 CONCACAF Championship qualification]], El Salvador finished second in their group, behind Guatemala and ahead of Costa Rica and Panama, to qualify for the [[1977 CONCACAF Championship|final tournament]], hosted in Mexico. They finished in third place, behind Haiti and Mexico, with the hosts winning the tournament.<ref name="cm"/> El Salvador participated in the [[1978 Central American and Caribbean Games]], hosted in [[Colombia]]. Cuba were crowned champions for the fourth time and El Salvador finished ninth.<ref name="jdcac"/>
+
+===1980s===
+El Salvador played Costa Rica, Guatemala, Honduras and Panama in [[1981 CONCACAF Championship qualification]], in a home-and-away round-robin group with the top two teams advancing to the [[1981 CONCACAF Championship|final tournament]]. El Salvador and Honduras finished with equal points at the top of the group, with Honduras winning the group on goal difference. Once again the finals doubled up as World Cup qualification, this time for the [[1982 FIFA World Cup|1982 World Cup]], with the top two of the six teams qualifying. Going into the final matches, El Salvador had four points and were in third place on goal difference, with Mexico and [[Canada men's national soccer team|Canada]] both also having four points, behind Honduras with seven. On 19 November 1981, El Salvador beat Haiti 1–0, with a penalty by [[Norberto Huezo]]. On 21 November, Canada drew 2–2 with Cuba and were eliminated. In the decisive match the following day, Honduras and Mexico drew 0–0, meaning El Salvador qualified for the World Cup for the second time.
+
+El Salvador took a 20-man squad to Spain, two players short of the maximum number allowed, as a controversial cost–saving measure. They were coached by "Pipo" Rodríguez.<ref name="cm82">{{cite web | title=La historia de la clasificacion a la Copa Mundo 1982 | language=es | url=http://www.elbaloncuscatleco.com/cm82.html | publisher=Elbaloncuscatleco.com | access-date=2011-04-21 | archive-date=24 February 2020 | archive-url=https://web.archive.org/web/20200224233403/http://www.elbaloncuscatleco.com/cm82.html | url-status=dead}}</ref><ref>{{cite web |url=https://www.rsssf.org/tablesc/conca81.html |title=CONCACAF Nations Cup 1981 |access-date=2010-11-14 |website=[[RSSSF]] |date=1998-07-13 |archive-date=2 December 2022 |archive-url=https://web.archive.org/web/20221202071552/https://rsssf.org/tablesc/conca81.html |url-status=live}}</ref> In their first match on 15 June in [[Elche]], they were [[Hungary v El Salvador (1982 FIFA World Cup)|defeated 10–1 by Hungary]], a World Cup Finals record margin of victory.<ref name="Hungary1">{{cite web | title=Did You Know? table | url=https://www.fifa.com/worldcup/archive/edition=32/results/matches/match=1823/report.html | publisher=[[FIFA]] | access-date=2006-04-12 | date=2010-11-11 | url-status=dead | archive-url=https://web.archive.org/web/20071016132727/http://fifa.com/worldcup/archive/edition%3D32/results/matches/match%3D1823/report.html | archive-date=2007-10-16}}</ref> A silver lining was that [[Luis Ramírez Zapata]] scored the country's first World Cup goal during the game, albeit when the Salvadorans were already 5–0 down.<ref name="Hungary2">{{cite web | title=FIFA Match Report for Hungary-El Salvador on June 15, 1982 | url=https://www.fifa.com/worldcup/archive/edition=59/results/matches/match=896/report.html | publisher=[[FIFA]] | access-date=2010-11-11 | date=2006-04-12 | url-status=dead | archive-url=https://web.archive.org/web/20100615211424/http://www.fifa.com/worldcup/archive/edition%3D59/results/matches/match%3D896/report.html | archive-date=June 15, 2010}}</ref><ref>{{cite web|url=https://www.theguardian.com/football/blog/2014/may/20/25-world-cup-stunning-moments-el-salvador-hungary-spain-1982|title=World Cup: 25 stunning moments ... No18: El Salvador humiliated in Spain|date=20 May 2014|work=Guardian|access-date=2 April 2015|archive-date=25 January 2021|archive-url=https://web.archive.org/web/20210125193837/https://www.theguardian.com/football/blog/2014/may/20/25-world-cup-stunning-moments-el-salvador-hungary-spain-1982|url-status=live}}</ref> When Zapata scored, some Salvadorans cried out not to celebrate the goal because it might make the Hungarians angry and encourage them to score more.<ref>{{Cite web |url=https://www.youtube.com/watch?v=JTsEgsZVXZQ |title=Top 10 Curiosidades Sobre el Partido El Salvador Vs Hungria – YouTube |website=[[YouTube]] |access-date=11 December 2021 |archive-date=11 December 2021 |archive-url=https://web.archive.org/web/20211211124234/https://www.youtube.com/watch?v=JTsEgsZVXZQ |url-status=live}}</ref> Displaying much-improved levels of organisation and commitment, El Salvador lost 1–0 to [[Belgium national football team|Belgium]] on 19 June in Elche and 2–0 to the world champions, [[Argentina national football team|Argentina]], on 23 June in [[Alicante]].<ref name="Belgium2">{{cite web| title= FIFA Match Report for Belgium-El Salvador on June 19, 1982| url= https://www.fifa.com/worldcup/archive/edition=59/results/matches/match=774/report.html| publisher= [[FIFA]]| access-date= 2010-11-12| date= 2006-04-12| url-status= dead| archive-url= https://web.archive.org/web/20100615211429/http://www.fifa.com/worldcup/archive/edition%3D59/results/matches/match%3D774/report.html| archive-date= June 15, 2010}}</ref><ref name="Argentina2">{{cite web | title= FIFA Match Report for Argentina-El Salvador on June 23, 1982 | url= https://www.fifa.com/worldcup/archive/edition=59/results/matches/match=751/report.html | publisher= [[FIFA]] | access-date= 2010-11-11 | date= 2006-04-12 | url-status= dead | archive-url= https://web.archive.org/web/20100615211433/http://www.fifa.com/worldcup/archive/edition%3D59/results/matches/match%3D751/report.html | archive-date= June 15, 2010}}</ref>
+
+There were several reasons the tournament went so badly for El Salvador. First of all, their reduced squad meant that they omitted Gilberto Quinteros and Miguel González. According to [[Luis Guevara Mora]], the 20-year-old goalkeeper, the [[Salvadoran Football Federation]] decided to take members of the Federation, as well as their friends and family, and spent so much money they could not afford to bring a full squad.{{citation needed|date=September 2015}} The team took many stops throughout Europe under the direction of the Federation, taking three days to arrive in Spain and were the last team to do so. Once they arrived, there was more trouble. [[Adidas]] sent four white and three blue uniforms for each player, but only three white and one blue arrived. The remaining uniforms were said to have been taken away by the association.{{citation needed|date=September 2015}} They decided to play with the white uniform and keep the blue as a keepsake. Next, someone stole the balls that the team needed to train with. The day before the match against Hungary, the Hungarians had the 25 balls the organization had given them while El Salvador had none and were unable to train.{{citation needed|date=September 2015}} To make things even worse, El Salvador had never seen Hungary play, and the only knowledge that they had about the team was an outdated video that they had bought.{{citation needed|date=April 2020}} On the field there were more problems. Hungary's fourth goal was caused by [[José Francisco Jovel|Francisco Jovel]]'s sudden deafness after he had received a heavy blow on the cheek. When Guevara Mora called to him to stop a ball, the defender did not hear him, and the ball went past Jovel in front of the net.{{citation needed|date=April 2020}} After the match, the Salvadoran squad had a tense meeting with the coaching staff and Federation. The coach was dismissed immediately and the matches against Belgium and Argentina were managed by players Jovel, Huezo and Fagoaga.<ref name="cm82-mundial">{{cite web|last=Gomez|first=Omar|title=El Salvador en la Copa Mundo 1982|url=http://www.elbaloncuscatleco.com/cm82-mundial.html|publisher=elbaloncuscatleco.com|access-date=2011-08-24|language=es|archive-date=4 October 2011|archive-url=https://web.archive.org/web/20111004123844/http://www.elbaloncuscatleco.com/cm82-mundial.html|url-status=live}}</ref> Although the tournament overall was a big disappointment, Jorge "Mágico" González was considered by the national and international press as the best player,{{citation needed|date=April 2020}} and he stayed in Spain to play for [[Cádiz CF]] and [[Real Valladolid]].
+
+In [[1985 CONCACAF Championship qualification]], El Salvador beat [[Puerto Rico national football team|Puerto Rico]] 8–0 on aggregate (5–0, 3–0) to qualify for the [[1985 CONCACAF Championship|final tournament]]. They were placed in a group with Honduras and [[Suriname national football team|Suriname]], with the top team advancing. They finished second in the group with five points,<ref name="cm"/> one point behind Honduras. In [[1989 CONCACAF Championship qualification]] they eliminated the [[Netherlands Antilles national football team|Netherlands Antilles]] 6–0 on aggregate (1–0, 5–0). El Salvador finished last, with just two points, in the round-robin [[1989 CONCACAF Championship|final tournament]].<ref name="cm"/>
+
+===1990s===
+At a CONCACAF congress, held in Guatemala on 26 January 1991, a new tournament, called the [[UNCAF Nations Cup]], was conceived for Central American teams. The inaugural tournament was hosted in [[1991 UNCAF Nations Cup|1991]], hosted by Costa Rica. The tournament also doubled as qualification for the [[CONCACAF Gold Cup]], a new tournament which replaced the [[CONCACAF Championship]].<ref name="uncaf">{{cite web | title=El Salvador en UNCAF | language=es | url=http://www.elbaloncuscatleco.com/uncaf.html | publisher=Elbaloncuscatleco.com | access-date=2011-04-21 | archive-date=27 January 2007 | archive-url=https://web.archive.org/web/20070127120157/http://www.elbaloncuscatleco.com/uncaf.html | url-status=live}}</ref><ref name="Gold Cup 1991">{{cite web | author=Mazet, François | title=CONCACAF Championship, Gold Cup 1991 | url=https://www.rsssf.org/tables/91gc.html | access-date=16 May 2011 | website=[[RSSSF]] | date=9 July 2001 | archive-date=4 March 2016 | archive-url=https://web.archive.org/web/20160304205944/http://www.rsssf.com/tables/91gc.html | url-status=live}}</ref> In qualification, ''La Selecta'' defeated Nicaragua 5–2 on aggregate (3–2, 2–0) and advanced to the final tournament. In the finals, they played three games, drawing one and losing two, finishing in last place and failing to advance to the [[1991 CONCACAF Gold Cup]].<ref name="uncaf" /> The [[1993 UNCAF Nations Cup]] once again served as qualification to the Gold Cup, this time for the [[1993 CONCACAF Gold Cup]].<ref name="uncaf"/> Coached by [[Jorge Vieira (Brazilian footballer)|Jorge Vieira]], ''La Selecta'' advanced to the final tournament automatically. There they played three games, once again drawing one and losing two to finish last and fail to advance to the Gold Cup.<ref name="uncaf"/>
+
+In [[1994 FIFA World Cup qualification (CONCACAF)|1994 World Cup qualification]], El Salvador eliminated Nicaragua 10–1 on aggregate (5–0, 5–1) in the first round, then finished first in a group composed of [[Bermuda national football team|Bermuda]] (0–1, 4–1), Canada (1–1, 3–2), and [[Jamaica national football team|Jamaica]] (2–0, 2–1) in the second round. In the third round, El Salvador began with a win against Mexico at home, but lost their next four games, including two defeats against Canada. They beat Honduras 2–1 at home in their final game, but finished third in the group and were eliminated.
+
+El Salvador hosted the [[1995 UNCAF Nations Cup]]. In their first round, they topped a group containing Costa Rica and [[Belize national football team|Belize]], and lost 1–0 to Guatemala in the knockout round. They won the third place match 2–1 against Costa Rica and advanced to the [[1996 CONCACAF Gold Cup]] alongside Guatemala and the tournament winners, Honduras.<ref name="1996qr1afa">{{cite web|title=UNCAF Tournament 1995 |language=es |url=https://www.rsssf.org/tablesg/gold-cam95.html |work=[[RSSSF]] |access-date=2015-09-26 |date=2001-11-01 |url-status=live |archive-url=https://web.archive.org/web/20110514025907/http://www.rsssf.com/tablesg/gold-cam95.html |archive-date=2011-05-14}}</ref> This was their first appearance at the Gold Cup.<ref name="uncaf"/><ref>{{cite web|url=https://www.rsssf.org/tablesg/gold-cam95.html |title=UNCAF Nations Cup 1995 |access-date=2010-11-14 |date=2001-11-01 |url-status=live |website=[[RSSSF]] |archive-url=https://web.archive.org/web/20110514025907/http://www.rsssf.com/tablesg/gold-cam95.html |archive-date=2011-05-14}}</ref> At the finals of the 1996 Gold Cup, El Salvador defeated [[Trinidad and Tobago national football team|Trinidad and Tobago]] 3–2, with goals from [[Raúl Díaz Arce]] (2) and [[Ronald Cerritos]] in their first game, but then lost 2–0 to the [[United States men's national soccer team|United States]] and did not advance from the first round.<ref name="concacaf">{{cite web | title=El Salvador en CONCACAF | language=es | url=http://www.elbaloncuscatleco.com/concacaf.html | publisher=Elbaloncuscatleco.com | access-date=2011-04-21 | archive-date=28 August 2011 | archive-url=https://web.archive.org/web/20110828034632/http://www.elbaloncuscatleco.com/concacaf.html | url-status=live}}</ref><ref name="Gold Cup 1996">{{cite web | author=Stokkermans, Karel | title=CONCACAF Championship, Gold Cup 1996 | url=https://www.rsssf.org/tables/96gc.html | access-date=16 May 2011 | website=[[RSSSF]] | date=22 October 2001 | archive-date=3 October 2022 | archive-url=https://web.archive.org/web/20221003042619/https://www.rsssf.org/tables/96gc.html | url-status=live}}</ref>
+
+At the [[1997 UNCAF Nations Cup]], hosted in Guatemala, El Salvador lost 3–0 to Honduras in their first match but defeated Panama 2–0 in their second. In the second group stage they finished in third place, losing 1–0 to both Guatemala and Costa Rica, and drawing 0–0 against Honduras. They advanced to the [[1998 CONCACAF Gold Cup]], hosted in the [[United States]].<ref name="uncaf"/><ref>{{cite web |url=https://www.rsssf.org/tablesg/gold-cam97.html |title=UNCAF Nations Cup 1997 |access-date=2010-11-14 |website=[[RSSSF]] |date=2003-01-26 |archive-date=7 December 2022 |archive-url=https://web.archive.org/web/20221207035127/https://www.rsssf.org/tablesg/gold-cam97.html |url-status=live}}</ref> El Salvador were coached by [[Kiril Dojcinovski]]. In the group stage, they drew 0–0 with Guatemala, and lost to Brazil (4–0) and Jamaica (2–0).<ref name="concacaf"/><ref name="Gold Cup 1998">{{cite web | author=Stokkermans, Karel | title=CONCACAF Championship, Gold Cup 1998 | url=https://www.rsssf.org/tables/98gc.html | access-date=16 May 2011 | website=[[RSSSF]] | date=22 October 2001 | archive-date=30 September 2022 | archive-url=https://web.archive.org/web/20220930065210/https://www.rsssf.org/tables/98gc.html | url-status=live}}</ref>
+
+In [[1998 FIFA World Cup qualification (CONCACAF)|1998 World Cup qualification]], El Salvador received a bye to the third round, where they were drawn into a group with Canada, Cuba, and Panama. They finished second behind Canada and advanced to the six-team final round. El Salvador finished in fifth place with two wins, four draws, and four defeats.<ref name="cm"/> This was the closest they had come to qualifying for a World Cup since 1982.
+
+At the [[1999 UNCAF Nations Cup]], hosted in Costa Rica, El Salvador drew 1–1 with Guatemala and defeated Nicaragua 1–0 in the first round, with Magdonio Corrales scoring in both games. In the second group stage, they lost 3–1 to Honduras, 1–0 Guatemala and 4–0 to Costa Rica to finish bottom of the group, and failed to advance to the [[2000 CONCACAF Gold Cup]]. They were coached by [[Marinho Peres|Mario Peres Ulibarri]].<ref name="UNCAF Nations Cup 1999">{{cite web |author=Courtney, Barrie |url=https://www.rsssf.org/tablesg/gold-cam99.html |title=Qualifying Tournament for Gold Cup 1999 |access-date=16 May 2011 |website=[[RSSSF]] |date=2 Mar 2005 |archive-date=14 May 2011 |archive-url=https://web.archive.org/web/20110514025901/http://www.rsssf.com/tablesg/gold-cam99.html |url-status=live}}</ref>
+
+===2000s===
+In [[2002 FIFA World Cup qualification (CONCACAF)|2002 World Cup qualification]], El Salvador topped a first round group ahead of Belize and Guatemala, but finished third behind and Jamaica in the second round, and were eliminated.<ref name="2002 World Cup qualify">{{cite web |author=Stokkermans, Karel |url=https://www.rsssf.org/tables/2002q.html |title=World Cup 2002 Qualifying |access-date=16 May 2011 |website=[[RSSSF]] |date=26 November 2009 |archive-date=16 January 2009 |archive-url=https://web.archive.org/web/20090116173331/http://www.rsssf.com/tables/2002q.html |url-status=live}}</ref>
+
+In the [[2001 UNCAF Nations Cup]] in Honduras, El Salvador topped their first-round group, defeating Nicaragua 3–0, Panama 2–1, and drawing 1–1 with the hosts. In the final round they drew all their games to finish third and advance to the [[2002 CONCACAF Gold Cup]]. They were coached by [[Carlos Recinos]].<ref name="uncaf"/><ref>{{cite web |url=https://www.rsssf.org/tablesg/gold-cam01.html |title=UNCAF Nations Cup 2001 |access-date=2010-11-14 |website=[[RSSSF]] |date=2007-02-21 |archive-date=9 December 2022 |archive-url=https://web.archive.org/web/20221209065638/https://www.rsssf.org/tablesg/gold-cam01.html |url-status=live}}</ref> In the Gold Cup, El Salvador lost their first match in Group A to Mexico (1–0), but defeated Guatemala by the same score, with a goal from [[Santos Cabrera]]. This allowed them to advance to the quarter-finals of the Gold Cup for the first time, but they lost 4–0 at that stage to the eventual champions, the United States.<ref name="concacaf"/><ref name="Gold Cup 2002">{{cite web | author=Gonzalez, Miguel Alvin | title=CONCACAF Championship, Gold Cup 2002 | url=https://www.rsssf.org/tables/02gc.html | access-date=16 May 2011 | website=[[RSSSF]] | date=29 April 2002 | archive-date=21 September 2022 | archive-url=https://web.archive.org/web/20220921234130/https://www.rsssf.org/tables/02gc.html | url-status=live}}</ref>
+
+At the [[2003 UNCAF Nations Cup]] in Panama, El Salvador finished third again, with [[Juan Ramón Paredes]] as head coach. In the tournament, they won 2–1 against Panama, lost 1–0 to Costa Rica, beat Nicaragua 3–0 and Honduras 1–0, and lost 2–0 against Guatemala. They qualified for the [[2003 CONCACAF Gold Cup]],<ref>{{cite web |url=https://www.rsssf.org/tablesg/gold-cam03.html |title=UNCAF Nations Cup 2003 |access-date=2010-11-14 |website=[[RSSSF]] |date=2005-03-02 |archive-date=30 November 2022 |archive-url=https://web.archive.org/web/20221130132057/https://www.rsssf.org/tablesg/gold-cam03.html |url-status=live}}</ref> where they were drawn into Group C with [[Martinique national football team|Martinique]] and the United States. El Salvador 2–0 lost to the United States but beat Martinique 1–0 with a goal from [[Marvin González]]. In the quarter-finals, they were beaten 5–2 by Costa Rica, with three of the seven goals coming from penalty kicks.<ref name="concacaf"/><ref name="Gold Cup 2003">{{cite web |title=CONCACAF Championship, Gold Cup 2003 |url=https://www.rsssf.org/tables/03gc.html |access-date=16 May 2011 |website=[[RSSSF]] |date=5 Mar 2005 |archive-date=21 August 2022 |archive-url=https://web.archive.org/web/20220821025615/https://www.rsssf.org/tables/03gc.html |url-status=live}}</ref>
+
+The [[2006 FIFA World Cup qualification (CONCACAF)|2006 World Cup qualifiers]] and [[2005 UNCAF Nations Cup]], hosted in Guatemala, were both huge disasters for El Salvador. In the former they received a bye to the second round, where they inched past Bermuda 4–3 on aggregate (2–1, 2–2). In the third round they finished last in a group that contained Jamaica, Panama and the United States, with just four points from six games.<ref name="2006 World Cup qualify">{{cite web |author1=Karel Stokkermans |author2=Lars Aarhus |author3=Jim Goloboy |author4=Ian King |author5=Jarek Owsianski |author6=Malik Riaz Hai Naveed |author7=Julián Díaz Rubio |author8=Martín Tabeira |author9=Antonio Zea |author10=Andre Zlotkowski |url=https://www.rsssf.org/tables/2006q.html |title=World Cup 2006 Qualifying |access-date=16 May 2011 |website=[[RSSSF]] |date=26 November 2009 |archive-date=20 July 2022 |archive-url=https://web.archive.org/web/20220720114857/https://www.rsssf.org/tables/2006q.html |url-status=live}}</ref> In the 2005 UNCAF Nations Cup they went out in the first round after losing against Panama (1–0) and Costa Rica (2–1), which meant they also failed to qualify for the [[2005 CONCACAF Gold Cup]]. They were coached by [[Carlos Cavagnaro]].<ref name="UNCAF Nations Cup 2005">{{cite web |author=Courtney, Barrie |url=https://www.rsssf.org/tablesg/gold-cam05det.html |title=Qualifying Tournament for Gold Cup 2005&nbsp;– Details |access-date=16 May 2011 |date=2 Mar 2005 |url-status=live |website=[[RSSSF]] |archive-url=https://web.archive.org/web/20090402133826/http://rsssf.com/tablesg/gold-cam05det.html |archive-date=2 April 2009}}</ref>
+
+Coached by [[Carlos de los Cobos]], El Salvador hosted the [[2007 UNCAF Nations Cup]], and won their first-round group after 2–1 wins over Belize and Nicaragua, and a 0–0 draw with Guatemala. In the semi-finals, they lost 1–0 to the eventual champions, Costa Rica, and finished the tournament in fourth after Guatemala beat them by the same scored in the third place play-off.<ref name="UNCAF Nations Cup 2007">{{cite web|author=Courtney, Barrie |url=https://www.rsssf.org/tablesg/gold-cam07det.html |title=Qualifying Tournament for Gold Cup 2007&nbsp;– Details |access-date=16 May 2011 |date=2 May 2007 |url-status=live |website=[[RSSSF]] |archive-url=https://web.archive.org/web/20081024034751/http://www.rsssf.com/tablesg/gold-cam07det.html |archive-date=24 October 2008}}</ref> This allowed them to qualify for the [[2007 CONCACAF Gold Cup]], where they began with a 2–1 win against Trinidad and Tobago 2–1, with goals from [[Ramón Sánchez (footballer)|Ramón Sánchez]] and [[Dennis Alas]]. They lost their next two matches against Guatemala (1–0) and the United States (4–0) and exited the tournament.<ref name="Gold Cup 2007">{{cite web |title=CONCACAF Championship, Gold Cup 2007 |url=https://www.rsssf.org/tables/07gc.html |access-date=16 May 2011 |website=[[RSSSF]] |date=29 January 2009 |archive-date=22 September 2022 |archive-url=https://web.archive.org/web/20220922024433/https://www.rsssf.org/tables/07gc.html |url-status=live}}</ref>
+
+On 16 June 2007, El Salvador met Hungary at the [[Estadio Cuscatlán]] in a repeat of their match at the 1982 World Cup. Many of the same players that had played the original World Cup match played again. The match was drawn 2–2, with goals from [[Lázár Szentes]] and [[Ferenc Csongrádi]] for Hungary and two goals from Luis Ramírez Zapata for El Salvador.<ref>{{cite web|last=Gomez|first=Omar|title=Los Mundialistas del '82 en el 2007|url=http://www.elbaloncuscatleco.com/cm82-2007.html|publisher=elbaoncuscatleco.com|access-date=28 August 2011|archive-date=3 February 2020|archive-url=https://web.archive.org/web/20200203061133/http://www.elbaloncuscatleco.com/cm82-2007.html|url-status=live}}</ref>
+
+At the [[2009 UNCAF Nations Cup]] in [[Honduras]], El Salvador finished second in their group after Belize 4–1, drawing 1–1 with Nicaragua and losing 2–0 to Honduras, and Nicaragua. Their semi-final against Costa Rica was called off after 60 minutes, with Costa Rica leading 1–0, when El Salvador were reduced to six players. [[Alexander Escobar]] and [[Eliseo Quintanilla]] were sent off in the first half, while [[Deris Umanzor]], [[Rodolfo Zelaya]] and their goalkeeper [[Juan José Gómez]] were injured and had to leave the field after El Salvador had already used their three substitutions. The game was awarded as a 3–0 win to Costa Rica. In the third place play-off, they lost 1–0 to Honduras after a goal by [[Roger Espinoza]].<ref name="UNCAF Nations Cup 2009">{{cite web |author=Lugo, Erik Francisco |url=https://www.rsssf.org/tablesg/gold-cam09.html |title=UNCAF Nations Cup 2009 |access-date=16 May 2011 |website=[[RSSSF]] |date=28 Oct 2010 |archive-date=2 October 2022 |archive-url=https://web.archive.org/web/20221002091852/https://www.rsssf.org/tablesg/gold-cam09.html |url-status=live}}</ref> At the [[2009 CONCACAF Gold Cup]], El Salvador began by beating Costa Rica 2–1, with two goals by [[Osael Romero]]. However, they lost 1–0 against Canada and Jamaica and were eliminated.<ref name="Gold Cup 2009">{{cite web |title=CONCACAF Championship, Gold Cup 2009 |url=https://www.rsssf.org/tables/09gc.html |access-date=16 May 2011 |website=[[RSSSF]] |date=25 March 2011 |archive-date=4 October 2018 |archive-url=https://web.archive.org/web/20181004024107/http://www.rsssf.com/tables/09gc.html |url-status=live}}</ref>
+
+===2010s===
+In [[2010 FIFA World Cup qualification (CONCACAF)|2010 World Cup qualification]] El Salvador beat [[Anguilla national football team|Anguilla]] 16–0 on aggregate and Panama 3–2 on aggregate in the first two rounds. In their third round group, they finished second in the group behind Costa Rica, ahead of Haiti and Suriname, to advance to the ''Hexagonal'' round. Despite drawing against the United States and beating Mexico, El Salvador finished in fifth place and were eliminated. [[Rudis Corrales]] was their top scorer in qualification with 8 goals.<ref name="2010 World Cup qualify">{{cite web |author1=Ian King |author2=Erik Francisco Lugo |author3=Karel Stokkermans |author4=Andre Zlotkowski |url=https://www.rsssf.org/tables/2010q.html |title=World Cup 2010 Qualifying |access-date=16 May 2011 |website=[[RSSSF]] |date=28 October 2010 |archive-date=20 July 2022 |archive-url=https://web.archive.org/web/20220720114908/https://www.rsssf.org/tables/2010q.html |url-status=live}}</ref>
+
+On 11 May 2010, the [[FIFA Emergency Committee]] suspended the [[Salvadoran Football Federation]] (FESFUT) on account of government interference, as the statutes ratified by the FESFUT general assembly in August 2009 had not been entered in the country's official register, and that the government had failed to acknowledge the authority of the Normalisation Committee set up to represent FESFUT.<ref name="Suspension1">{{cite web | title= Suspension of the Salvadoran Football Association | url= https://www.fifa.com/aboutfifa/organisation/news/newsid=1209619/ | archive-url= https://archive.today/20130122215039/http://www.fifa.com/aboutfifa/organisation/news/newsid=1209619/ | url-status= dead | archive-date= 22 January 2013 | publisher=[[FIFA]] | access-date=2010-11-12 | date=2010-04-12}}</ref> The suspension was lifted by 28 May, allowing ''La Selecta'' to participate in international tournaments. El Salvador's [[El Salvador national under-21 football team|under-21 team]] qualified for the [[2010 Central American and Caribbean Games]] (CAC) in Mayagüez, Puerto Rico. However, CONCACAF decided to suspend football at the 2010 CAC shortly after. El Salvador were also able to participate in the [[2012 CONCACAF Men's Olympic Qualifying Championship|qualifying tournament]] for the [[2012 Summer Olympics]].<ref name="Suspension2">{{cite web | title= Suspension of Salvadoran Football Association lifted | url= https://www.fifa.com/aboutfifa/organisation/news/newsid=1220034/ | archive-url= https://archive.today/20130123034414/http://www.fifa.com/aboutfifa/organisation/news/newsid=1220034/ | url-status= dead | archive-date= 23 January 2013 | publisher=[[FIFA]] | access-date=2010-11-12 | date=2010-04-27}}</ref>
+
+In the [[2011 Copa Centroamericana]], the new version of the reorganized UNCAF Nations Cup, El Salvador qualified from their first-round group in second place after defeating Nicaragua 2–0 and Belize 5–2, and losing 2–0 against Panama. In the semi-finals they lost 2–0 to Honduras, and lost 5–4 in a penalty shootout to Panama, after a 0–0 draw. This performance qualified El Salvador for the [[2011 CONCACAF Gold Cup]]. The team was coached by [[José Luis Rugamas]]. Forward [[Rafael Burgos (footballer)|Rafael Burgos]] jointly received the Golden Boot with Costa Rica's [[Marco Ureña]], with three goals.<ref name="2011 Copa Centroamericana">{{cite web|author=Lugo, Erik Francisco |author2=Torres, Steven |url=https://www.rsssf.org/tablesg/gold-cam2011.html |title=2011 Copa Centroamericana |access-date=16 May 2011 |date=25 March 2011 |url-status=live |website=[[RSSSF]] |archive-url=https://web.archive.org/web/20131105045831/http://www.rsssf.com/tablesg/gold-cam2011.html |archive-date=5 November 2013}}</ref>
+
+In April 2011, two months before the start of the Gold Cup, José Luis Rugamas was replaced as coach by [[Rubén Israel]].<ref name="New coach">{{cite web |url=http://www.elsalvadorfc.com/2011-04-06-israel-hemos-venido-a-honrar-el-trabajo |title='We have come to honor the work,' Israel |language=es |publisher=elsalvadorfc.com |access-date=2011-04-13 |url-status=dead |archive-url=https://archive.today/20130102144428/http://www.elsalvadorfc.com/2011-04-06-israel-hemos-venido-a-honrar-el-trabajo |archive-date=2013-01-02}}</ref> At the Gold Cup, El Salvador began with a 5–0 defeat to Mexico.<ref name="2011 CONCACAF Gold Cup - Mexico">{{cite web |author= McCauley, Kevin |url= https://www.sbnation.com/soccer/2011/6/5/2208429/mexico-vs-el-salvador-2011-gold-cup-final-score-copa-oro-chicharito-el-tri |title= Mexico Vs. El Salvador, 2011 Gold Cup: Final Score, El Tri Win 5–0; 'Chicharito' Javier Hernandez Nets Hat Trick |publisher= sbnation.com |access-date= 17 June 2011 |date= 5 June 2011 |archive-date= 10 June 2011 |archive-url= https://web.archive.org/web/20110610130728/http://www.sbnation.com/soccer/2011/6/5/2208429/mexico-vs-el-salvador-2011-gold-cup-final-score-copa-oro-chicharito-el-tri |url-status= live}}</ref> They drew 1–1 with Costa Rica, with [[Rodolfo Zelaya]]'s 25-yard free-kick opener being equalised by a Costa Rican goal in injury time,<ref name="2011 CONCACAF Gold Cup - Costa Rica">{{cite web |author= McCauley, Kevin |url= https://www.sbnation.com/soccer/2011/6/9/2216543/costa-rica-vs-el-salvador-final-score-copa-oro-2011-gold-cup |title= Costa Rica Vs. El Salvador Final Score, Gold Cup 2011: Ticos Snatch Late Draw |publisher= sbnation.com |access-date= 17 June 2011 |date= 9 June 2011 |archive-date= 15 June 2011 |archive-url= https://web.archive.org/web/20110615172920/http://www.sbnation.com/soccer/2011/6/9/2216543/costa-rica-vs-el-salvador-final-score-copa-oro-2011-gold-cup |url-status= live}}</ref> and beat Cuba 6–1 to reach the knockout stage for the first time since 2003.<ref name="2011 CONCACAF Gold Cup - Cuba">{{cite web |author= Lewis, Michael |url= http://www.goldcup.org/page/GoldCup/NewsDetail/0,,12802~2378368,00.html |title= El Salvador ignoring past against Panama |publisher= goldcup.org |access-date= 17 June 2011 |date= 17 June 2011 |archive-url= https://web.archive.org/web/20110619012316/http://www.goldcup.org/page/GoldCup/NewsDetail/0,,12802~2378368,00.html |archive-date= 19 June 2011 |url-status= dead}}</ref><ref name="2011 CONCACAF Gold Cup">{{cite web |author=Lugo, Erik Francisco |url=https://www.rsssf.org/tables/2011gc.html |title=2011 CONCACAF Championship, Gold Cup 2011 |access-date=17 June 2011 |website=[[RSSSF]] |date=16 June 2011 |archive-date=24 September 2022 |archive-url=https://web.archive.org/web/20220924235133/https://www.rsssf.org/tables/2011gc.html |url-status=live}}</ref> In the quarter-finals they drew 1–1 with Panama, with Panama scoring a controversial equaliser through [[Luis Tejada]] one minute from the end. Their coach Israel called the decision an "error of haste."<ref name="2011 CONCACAF Gold Cup - Error">{{cite web |author=Hernández, Diego |url=http://www.goal.com/es-us/news/3443/el-salvador/2011/06/20/2540555/copa-oro-debemos-la-eliminaci%C3%B3n-a-un-error-humano-se%C3%B1al%C3%B3 |title="Debemos la eliminación a un error humano", señaló Israel |publisher=goal.com |access-date=19 June 2011 |date=19 June 2011 |language=es |trans-title="We owe the elimination to a human error", says Israel |archive-date=23 June 2011 |archive-url=https://web.archive.org/web/20110623064607/http://www.goal.com/es-us/news/3443/el-salvador/2011/06/20/2540555/copa-oro-debemos-la-eliminaci%C3%B3n-a-un-error-humano-se%C3%B1al%C3%B3 |url-status=live}}</ref> Panama won the penalty shoot-out 5–3.<ref name="2011 CONCACAF Gold Cup - Panama">{{cite web |author=CONCACAF |url=http://www.concacaf.com/page/GoldCup/NewsDetail/0,,12813~2378721,00.html |title=Panama returns to Gold Cup semifinals |publisher=CONCACAF.com |access-date=19 June 2011 |date=19 June 2011 |archive-url=https://web.archive.org/web/20110624184540/http://www.concacaf.com/page/GoldCup/NewsDetail/0,,12813~2378721,00.html |archive-date=24 June 2011 |url-status=dead}}</ref>
+
+In [[2014 FIFA World Cup qualification (CONCACAF)|2014 World Cup qualification]], El Salvador received a bye to the second round, where they began with a 3–2 win against the [[Dominican Republic national football team|Dominican Republic]], with goals scored by [[Rodolfo Zelaya]] (2) and [[Cristián Bautista]].<ref>{{cite web|title=Triunfo bueno, marcador engañoso|url=http://www.elgrafico.com/gol-nacional/13-gol-nacional/17397-el-salvador-0-0-dominicana-primer-tiempo.html|publisher=elgrafico.com|access-date=7 September 2011|language=es|archive-date=4 June 2012|archive-url=https://web.archive.org/web/20120604234625/http://www.elgrafico.com/gol-nacional/13-gol-nacional/17397-el-salvador-0-0-dominicana-primer-tiempo.html|url-status=live}}</ref> They then beat the [[Cayman Islands national football team|Cayman Islands]] 4–1 with goals from Bautista, [[Luis Anaya]] (2) and [[Xavier García (footballer)|Xavier García]]<ref>{{cite web|last=Arteaga|first=Ernesto|title=Anaya, goleador inesperado|url=http://www.elgrafico.com/destacado-portada/36-destacadas/17557-anaya-goleador-inesperado.html|publisher=elgrafico.com|access-date=7 September 2011|language=es|archive-date=13 June 2012|archive-url=https://web.archive.org/web/20120613015042/http://www.elgrafico.com/destacado-portada/36-destacadas/17557-anaya-goleador-inesperado.html|url-status=live}}</ref> before winning the return against the Dominican Republic 2–1.<ref>{{cite web|title=Otra victoria con susto|url=http://www.elgrafico.com/gol-nacional/13-gol-nacional/18663-dominicana-0-0-el-salvador.html|work=elgrafico.com|access-date=14 October 2011|language=es|archive-date=13 June 2012|archive-url=https://web.archive.org/web/20120613015105/http://www.elgrafico.com/gol-nacional/13-gol-nacional/18663-dominicana-0-0-el-salvador.html|url-status=dead}}</ref> They beat the Cayman Islands 4–0 at home, with goals by [[Víctor Turcios]], [[Steve Purdy]], [[Jaime Alas]] and [[Herbert Sosa]]. The last of these was the thousandth goal scored by the national team.<ref>{{cite web|title=El Salvador gana y llega a mil goles|url=http://www.elgrafico.com/gol-nacional/13-gol-nacional/18797-el-salvador-0-0-islas-caiman-primer-tiempo.html|work=elgrafico.com|access-date=14 October 2011|language=es|archive-date=13 June 2012|archive-url=https://web.archive.org/web/20120613015130/http://www.elgrafico.com/gol-nacional/13-gol-nacional/18797-el-salvador-0-0-islas-caiman-primer-tiempo.html|url-status=live}}</ref> Two comfortable wins over Suriname gave them a perfect record of six wins in six matches.
+
+In the next round, El Salvador snatched a draw against Costa Rica in [[San José (Costa Rica)|San José]] after being 2–0 down, but a home defeat against Mexico four days later precipitated the departure of Israel, whose poor relations with [[Jaime Rodríguez]], the president of the National Institute of Sport Salvador (INDES) were widely known. The [[Salvadoran Football Association]] (FESFUT) named the Mexican [[Juan de Dios Castillo]] as his replacement.
+
+Despite a good start, a 1–0 win in a friendly match against [[Guatemala national football team|Guatemala]], a 2–2 draw at the Estadio Cuscatlán in a qualifier against modest [[Guyana national football team|Guyana]] earned him the wrath of the public.{{citation needed|date=April 2020}} A 3–2 victory in [[Georgetown, Guyana|Georgetown]], with a penalty saved by El Salvador's goalkeeper [[Dagoberto Portillo]] in additional time, kept their qualifying hopes alive, but these were ended by a 1–0 home defeat against Costa Rica. Juan de Dios Castillo was sacked in November 2012 and replaced on 17 December by the Peruvian [[Agustín Castillo]], a five-time national champion with [[C.D. FAS]].
+
+El Salvador finished third in the [[2013 Copa Centroamericana]], allowing them to qualify for the [[2013 CONCACAF Gold Cup]] in the United States. In that tournament, a 1–0 win over Haiti allowed them to qualify from the group stages in third place, but they lost 5–1 to the host nation in the quarter-finals.<ref>{{cite web |url=https://www.rsssf.org/tablesg/gold-cam2013.html |title=UNCAF Nations Cup 2013 |access-date=2010-11-14 |website=[[RSSSF]] |date=2009-03-10 |archive-date=28 November 2022 |archive-url=https://web.archive.org/web/20221128143256/https://www.rsssf.org/tablesg/gold-cam2013.html |url-status=live}}</ref>
+
+In [[2018 FIFA World Cup qualification (CONCACAF)|2018 World Cup qualification]], El Salvador won knockout ties against [[Saint Kitts and Nevis national football team|Saint Kitts and Nevis]] and Curaçao to reach the fourth round group stage, but they finished bottom of a group containing Mexico, Honduras and Canada with two draws and four defeats from their six matches.
+
+===2020s===
+After [[COVID-19]] restrictions had loosened up a bit, El Salvador organized a friendly match against the US in December 2020 to start things off again. However, they lost 6–0 to the CONCACAF giants. [[2022 FIFA World Cup qualification (CONCACAF)|2022 FIFA World Cup qualification]] were soon on the horizon and El Salvador had to play against Grenada and Montserrat in the March 2021 calendar. El Salvador won at home against Grenada in a 2–0 victory and tied with Montserrat in a grueling 1–1 match. This was when El Salvador needed a change fast and they soon sacked [[Carlos de los Cobos]]. They hired a [[Hugo Pérez (soccer, born 1963)|Hugo Pérez]] as their new coach, who was also coaching the El Salvador Sub-23s in the Olympic Qualifiers in the same year. Hugo Perez made radical changes to the team and called up more newer players to help represent El Salvador. When June rolled by, El Salvador's next opponents were the US Virgin Islands and Antigua & Barbuda. El Salvador crushed the Virgin Islands with a 7–0 victory away and won again at home against Antigua in a 3–0 win; El Salvador were on their way to the second round of qualifications. El Salvador then faced off against Saint Kitts & Nevis in a round robin format. El Salvador managed to pull off a 0–4 victory away and a 2–0 victory at home, which got them to the final round of qualifications for the first time in over 10 years. In preparation for the upcoming [[2021 CONCACAF Gold Cup]], El Salvador organized three friendlies. On June 26, El Salvador played against Guatemala to a 0–0 standstill. However, Hugo Perez was trying to experiment with more younger and less or known players at the time to form an underwhelming B Team. El Salvador then flew to Croatia to face their next opponents. On July 2, La Selecta faced off against [[NK Istra 1961]] to a 2–1 defeat. On July 4, El Salvador faced the Asian Cup winners, [[Qatar national football team|Qatar]], to a 1–0 defeat.
+
+On July 11, El Salvador played their first game in the [[2021 CONCACAF Gold Cup]] against their Central American rivals, [[Guatemala national football team|Guatemala]], to a 2–0 victory. On July 14, El Salvador faced [[Trinidad and Tobago national football team|Trinidad & Tobago]] to another 2–0 victory to land El Salvador in the Quarter-Finals and gain 6 points for the first time in the Gold Cup. On July 18, El Salvador played their last game against [[Mexico national football team|Mexico]] to prove how much they've grown or not. El Salvador lost to Mexico in a tense 1–0 defeat. In the quarter-finals, El Salvador faced off against [[Qatar national football team|Qatar]] and lost once again in a 3–2 defeat, ending their Gold Cup run.
+
+On September 19, 2023, FESFUT hired Spanish manager [[Rubén de la Barrera]] to coach to the El Salvador national team.<ref>{{cite web|url=https://www.laprensagrafica.com/deportes/FESFUT-anuncia-a-Ruben-de-la-Barrera-como-DT-de-la-seleccion-de-El-Salvador-20230919-0057.html|title=FESFUT anuncia a Rubén de la Barrera como director técnico de la selección de El Salvador|language=es|work=[[La Prensa Gráfica]]}}</ref>
+
+Barrera would leave after 3 months and [[David Dóniga]] would take over on January 2, 2024.
+
+It was announced to the public that a friendly bout was arranged by [[Inter Miami CF]] (where [[Lionel Messi]] was playing at the time) to face off against El Salvador on 19 January 2024 in Estadio Cuscatlán, where the match ended in a 0–0 stalemate. From the period of friendlies in February to March, El Salvador faced [[Costa Rica national football team|Costa Rica]] to a 2–0 defeat in San Jose, then faced [[Bonaire national football team|Bonaire]] to a highly scrutinized 1–1 result in Washington DC, then took on world champions [[Argentina national football team|Argentina]] to a 3–0 defeat, and eventually ended with a match against [[Honduras national football team|Honduras]] in a vigorous 1–1 draw. On June 6, [[2026 FIFA World Cup qualification – CONCACAF second round|2026 World cup qualifiers]] commenced in the CONCACAF region as El Salvador faced [[Puerto Rico national football team|Puerto Rico]] to an excruciating draw of 0–0. However, on June 9, El Salvador took on [[Saint Vincent and the Grenadines national football team|Saint Vincent and The Grenadines]] away and ended up claiming the victory in a 1–3 result. It was a significant breakthrough as El Salvador has never won a match since 2022 against [[Grenada national football team|Grenada]].<ref>{{Cite web |last=Tovar |first=Diego |title=La escuadra cuscatleca sumó su primera victoria en las eliminatorias rumbo al Mundial 2026. |url=https://www.elgrafico.com/selecciones/El-Salvador-vence-a-San-Vicente-y-las-Granadinas-y-rompe-sequia-sin-triunfos-20240609-0014.html |access-date=2 Nov 2025 |website=elgrafico.com}}</ref> After 2 friendly matches against [[Peru national football team|Peru]] (0–1 loss June 14) and [[Guatemala national football team|Guatemala]] (0–1 win July 27), El Salvador prepared themselves for the upcoming [[2024–25 CONCACAF Nations League B|CONCACAF Nations League]] in a duration of 3 months. In the month of September, El Salvador defeated Montserrat (1–4) and Bonaire (2–1). In October, El Salvador faced off against Saint Vincent and The Grenadines twice, each sharing wins (2–3 win and 1–2 loss). In November, El Salvador concluded their campaign by defeating Bonaire and Montserrat; all in a 1–0 verdict and topping their group to ascend to Nations League A after relegation. The team and [[David Dóniga]] were heavily criticized during this period for mediocre performances. On February 24, 2025, David Doniga would end up relinquishing his position as head coach for the national team.
+
+On February 25, 2025, [[National Institute of Sports of El Salvador|INDES]] and [[Salvadoran Football Federation|FESFUT]] would officially proclaim [[Hernán Darío Gómez]] to be the new incumbent head coach of the national team.
+
+From March to May, El Salvador played 3 exhibition fixtures where they faced [[Houston Dynamo FC|Houston Dynamo]](2–1 loss), [[C.F. Pachuca|Pachuca]](1–1 draw), and Guatemala(1–1 draw). On June 7 and 10, El Salvador concluded their [[2026 FIFA World Cup qualification – CONCACAF second round|2nd round]] of qualifiers against Anguilla and Suriname. El Salvador defeated Anguilla 0–3 and measured up to a highly contested 1–1 draw against Suriname at home and advance to the [[2026 FIFA World Cup qualification – CONCACAF third round#Group A|final round of qualifying]].
+
+In the same month, El Salvador would go on to have one of their worst [[2025 CONCACAF Gold Cup Group B|Gold Cup]] performances since [[1998 CONCACAF Gold Cup|1998]]. Only able to claim one point from Curaçao in a 0–0 draw, failing to score a single goal, and finishing their tenure with 2 losses against Honduras and Canada, which would drop them into last place in their group.
+
+El Salvador would participate in the [[2026 FIFA World Cup qualification – CONCACAF third round|final round]] of world cup qualifiers from September to November of 2025. From the period time that was given to them, El Salvador managed to defeat Guatemala away in their first fixture. However, El Salvador failed to secure any meaningful results afterwards; losing the rest of their 5 games (home and away) to Suriname, Panama, and Guatemala. El Salvador concluded their campaign with only three points and finishing last in their group.
+
+===Match fixing===
+The national team has had accusations of several players losing matches on purpose in exchange for monetary rewards. Some of these allegations involved games against [[Venezuela national football team|Venezuela]], Mexico, USA, and Costa Rica. Fourteen players were handed lifetime bans from football on 20 September 2013: [[Luis Anaya]], [[Osael Romero]], [[Ramón Sánchez (footballer)|Ramón Sánchez]], [[Christian Castillo (footballer)|Christian Castillo]], [[José Miguel Granadino|Miguel Granadino]], [[Miguel Montes (footballer, born 1980)|Miguel Montes]], [[Dagoberto Portillo]], [[Dennis Alas]], [[Darwin Bonilla]], [[Ramón Flores (footballer)|Ramón Flores]], [[Alfredo Pacheco]], [[José Henríquez|José Mardoqueo Henríquez]], [[Marvin González]], and [[Reynaldo Antonio Hernández|Reynaldo Hernández]]. [[Carlos Monteagudo]] received a ban of 18 months. [[Eliseo Quintanilla]] and [[Víctor Turcios]] received six-month bans. [[Alexander Escobar]], Christian Sánchez, and under-20 goalkeeper Yimmy Cuellar received bans of 30 days. After a further 20-day investigation, Rodrigo Martínez was sentenced to a ban of five years, [[Rodolfo Zelaya]] to a ban of one year, and [[Benji Villalobos]] to a ban of six months.
+
+On 6 September 2016, the team revealed that they had turned down an offer to ensure that their result against Canada saw Honduras progress to the [[2018 FIFA World Cup qualification – CONCACAF fifth round|next round]] of World Cup qualification.<ref>{{cite web|title=World Cup 2018 qualifying: El Salvador 'refuse bribe to fix match'|url=https://www.bbc.co.uk/sport/football/37284033|website=bbc.co.uk|publisher=BBC Sport|access-date=6 September 2016|date=6 September 2016|archive-date=6 September 2016|archive-url=https://web.archive.org/web/20160906081321/http://www.bbc.co.uk/sport/football/37284033|url-status=live}}</ref> Their coach [[Ramon Maradiaga]] was later fined 20,000 Swiss francs and banned from football for two years for not disclosing the approach.<ref>{{cite web|title=Fifa bans former El Salvador coach for two years for involvement in match-fixing case|url=https://www.bbc.co.uk/sport/football/43981077|website=bbc.co.uk|publisher=BBC Sport|access-date=10 October 2018|date=2 May 2018|archive-date=27 December 2018|archive-url=https://web.archive.org/web/20181227030323/https://www.bbc.co.uk/sport/football/43981077|url-status=live}}</ref>
+
+==Stadium==
+{{main|Estadio Jorge "Mágico" González|Estadio Cuscatlán|Estadio Nacional de El Salvador}}
+[[File:Canchas y Estadio ES.jpg|300px|thumb|Aerial view of the [[Estadio Cuscatlán]], El Salvador's national stadium]]
+
+El Salvador's [[national stadium]] is the [[Estadio Cuscatlán]] in [[San Salvador]], which saw its first game in 1976.
+
+During the national team's early history, the national stadium was the Campo Marte, 16 acres of land that housed a small stadium, now known as ''Parque Infantil'', between 1928 and 1934.<ref name="Campo Marte">{{cite web | author=Guevara, Ricardo | title=El campo para los niños | url=http://www.elsalvador.com/noticias/EDICIONESANTERIORES/octubre11/VIDA/ | publisher=elsalvador.com | access-date=22 May 2011 | date=11 October 1999 | language=es | trans-title=The field for the children | archive-date=15 October 2011 | archive-url=https://web.archive.org/web/20111015033529/http://www.elsalvador.com/noticias/EDICIONESANTERIORES/octubre11/VIDA/ | url-status=live}}</ref> Succeeding, El Salvador played at the [[Estadio Jorge "Mágico" González|Estadio Nacional de la Flor Blanca]], now known as Estadio Jorge "Mágico" González, also in San Salvador. It was opened on 19 April 1932 during the presidency of Maximiliano Hernández Martínez in preparation for the [[1935 Central American and Caribbean Games]]. On 24 March 1935 El Salvador played its first game at the Flor Blanca against [[Cuba national football team|Cuba]] and won 4–1.<ref name="Estadio Magico">{{cite web | author=Gomez, Omar | title=Estadio Jorge Magico Gonzalez | url=http://www.elbaloncuscatleco.com/estadiomagico.html | publisher=El Balon Cuscatleco | access-date=19 May 2011 | language=es | trans-title=Jorge "Magico" Gonzalez Stadium | archive-date=4 October 2011 | archive-url=https://web.archive.org/web/20111004123502/http://www.elbaloncuscatleco.com/estadiomagico.html | url-status=live}}</ref> El Salvador played at this stadium during [[1970 FIFA World Cup qualification (CONCACAF)|qualification for the 1970 World Cup]].<ref name="Estadio Magico"/> On 15 November 2000, a one-off game was played at the stadium, to commemorate a major refurbishment, against [[Jamaica national football team|Jamaica]] in the [[2002 FIFA World Cup qualification (CONCACAF)|2002 World Cup qualifiers]].<ref name="Estadio Magico"/>
+
+In 1969, EDESSA (Estadios Deportivos de El Salvador Sociedad Anónima) proposed the idea of a new national stadium.<ref name="EDESSA">{{cite web |title=EDESSA primero ideas para la construcción del Estadio Cuscatlán |url=http://www.1572-8.com/aa-company/deporte/estadiocuscatlan/estadio-historia.html |publisher=AA-Company |access-date=19 May 2011 |date=7 June 2009 |language=es |trans-title=EDESSA first thoughts for the construction of the Estadio Cuscatlán |url-status=usurped |archive-url=https://web.archive.org/web/20100615060912/http://www.1572-8.com/aa-company/deporte/estadiocuscatlan/estadio-historia.html |archive-date=15 June 2010}}</ref> This resulted in construction of the Estadio Cuscatlán, with the president of El Salvador, [[Fidel Sánchez Hernández|General Fidel Sánchez Hernández]], breaking ground on 24 March 1971. The stadium held its first game on 24 July 1976, a friendly between El Salvador and the [[Bundesliga|German Bundesliga]] champions, [[Borussia Mönchengladbach]]. It ended in a 2–0 victory to the German side. The Borussia squad featured players from their [[1974 FIFA World Cup|1974 World Cup]] winning squad, including [[Berti Vogts]], [[Rainer Bonhof]], [[Wolfgang Kleff]] and [[Jupp Heynckes]], alongside [[Allan Simonsen]], who later won the 1977 [[Ballon d'Or]] and joined [[FC Barcelona|Barcelona]]. El Salvador's team was [[Tomás Pineda]] (Mauricio "Tarzán" Alvarenga), Guillermo "Billy" Rodríguez Bou, [[Ramón Fagoaga]], [[Carlos Recinos|Humberto "Imacasa" Recinos]], Eduardo "Conejo" Valdés, Víctor "Pato" Valencia, Warner Solís, [[Félix Pineda|Félix "Garrobita" Pineda]] (César "Piscucha" Acevedo), [[Luis Ramírez Zapata|Luis "Pelé" Ramírez Zapata]] ([[Luis Abraham Coreas|Abraham Coreas]]) & [[Ismaél Díaz (Salvadoran footballer)|Ismael "Cisco" Díaz]] ([[David Arnoldo Cabrera|David Cabrera]]). Borussia also fielded [[Wolfgang Kneib]], [[Hans-Jürgen Wittkamp]], [[Horst Wohlers]], [[Dietmar Danner]], [[Hans Klinkhammer]], [[Carsten Nielsen]] and [[Uli Stielike]].<ref>{{cite news|last=Zelada|first=Victor|title=La primera pincelada azul|url=http://www.elsalvador.com/mwedh/epaper/20110725/EDH20110725DEP024P.PDF|access-date=3 November 2011|newspaper=El Diario de Hoy (El Salvador)|date=25 July 2011|archive-date=2 May 2020|archive-url=https://web.archive.org/web/20200502124533/http://www.elsalvador.com/mwedh/epaper/20110725/EDH20110725DEP024P.PDF|url-status=live}}</ref> Since that match, El Salvador has used the stadium for almost every major home game, and it is also the home ground of [[Alianza F.C. (San Salvador)|Alianza]].<ref name="Stadium">{{cite web|title=Monumental Estadio Cuscatlán |url=http://www.1572-8.com/aa-company/deporte/estadiocuscatlan/estadio-historia.html |publisher=elsalvadorguia.com |access-date=2010-11-11 |date=2005-07-22 |url-status=usurped |archive-url=https://web.archive.org/web/20100615060912/http://www.1572-8.com/aa-company/deporte/estadiocuscatlan/estadio-historia.html |archive-date=June 15, 2010}}</ref>  On 25 May 1978, EDESSA agreed to sign a 99-year lease of the stadium to CLIMA (Asociación de Clubes de Liga Mayor A) to operate and control which events are held there.<ref name="History">{{cite web |url=http://www.elbaloncuscatleco.com/historia.html |title=Historia |author=Gomez, Omar |publisher=El Balon Cusctatleco |access-date=16 May 2011 |language=es |trans-title=History |archive-date=7 July 2007 |archive-url=https://web.archive.org/web/20070707060213/http://www.elbaloncuscatleco.com/historia.html |url-status=live}}</ref>
+
+==Team image==
+El Salvador's traditional first kit colour is blue with white trim, their second kit being white with blue trim. The current home and away kit features the traditional colours with the exception of bold curved trims that run from the center of the neck and open to the sides, forming two panels on the chest that contain the Umbro logo and emblem of the Salvadoran Football Federation. At the center of the kit El Salvador national emblem, once again, is shown. The right sleeve shows the national flag.<ref>{{cite web|title=El Salvador Mitre 2011/13 Home Jersey / Camiseta|date=3 August 2011|url=http://footballfashion.org/wordpress/2011/08/03/el-salvador-mitre-201113-home-jersey-camiseta/|publisher=footballfasion.org|access-date=4 August 2011|archive-date=25 March 2012|archive-url=https://web.archive.org/web/20120325125010/http://footballfashion.org/wordpress/2011/08/03/el-salvador-mitre-201113-home-jersey-camiseta/|url-status=live}}</ref>
+
+El Salvador and [[Mitre Sports International|Mitre]] announced a new partnership in 2008 that saw them supply the [[Central America]]n national football team with home and away kits, training, and bench wear until August 2010. Mitre, and their Panamanian partner, The Harari Group, designed the kit that El Salvador used. The kit was showcased by the team on February 11, 2009, as they started their [[2010 FIFA World Cup qualification (CONCACAF)|FIFA World Cup qualifying]] campaign against [[Trinidad & Tobago national football team|Trinidad & Tobago]] in the [[CONCACAF]] (Central-American Football Union) Hexagonal Cup.<ref name="Mitre">{{cite web | title=Mitre (El Salvador) | url=http://www.mitre.com/el-salvador.html | publisher=[[Mitre Sports International|Mitre]] | access-date=2010-11-11 | date=2009-03-09 | archive-date=28 October 2010 | archive-url=https://web.archive.org/web/20101028122513/http://www.mitre.com/el-salvador.html | url-status=live}}</ref>
+
+On 22 October 2010, the [[Salvadoran Football Association|FESFUT]] extended the contract with Mitre by four years.<ref name="Mitre 2014">{{cite web | title= Mitre and El Salvador extend partnership | url= http://www.mitre.com/news/mitre-and-el-salvador-extend-partnership/ | publisher= [[Mitre Sports International|Mitre]] | access-date= 2010-11-22 | date= 2010-11-02 | url-status= dead | archive-url= https://web.archive.org/web/20101223165249/http://www.mitre.com/news/mitre-and-el-salvador-extend-partnership/ | archive-date= 2010-12-23}}</ref> The first home and away kit made by Mitre feature a [[watermark]] of the country's national shield on the center of the shirt and some horizontal stripes along the kit. The current kit featured white remains along the neck, at the bottom of the kit, and over the shoulders. When this kit was introduced in 2009 it also introduced a new [[logo]] that replaced the typical logo of an "E"  and an "S" surrounded by a circle.<ref name="Kit">{{cite web |url=http://www.soccershopusa.com/Display_Product_Detail.asp?ProductID=3978&Cat1ID=10&Cat2ID=55&Cat3ID= |title=El Salvador Home Kit |publisher=Soccer Shop USA |access-date=2010-11-14 |archive-url=https://web.archive.org/web/20110716101116/http://www.soccershopusa.com/Display_Product_Detail.asp?ProductID=3978&Cat1ID=10&Cat2ID=55&Cat3ID= |archive-date=2011-07-16 |url-status=dead}}</ref> Umbro has become the new kit supplier of the El Salvador national football team. Replacing Mitre, the first Umbro El Salvador football kits were released 15 June 2017, and were debuted in the 2017 Gold Cup.
+
+=== Kit sponsorship ===
+{| class="wikitable" style="text-align:left;"
+|-
+! Kit supplier
+! Period
+|-
+| {{flagicon|United States}} [[Pony International|Pony]] || 1980–1982
+|-
+| {{flagicon|West Germany}} [[Adidas]] || 1982–1987
+|-
+| {{flagicon|United States}} [[Pony International|Pony]] || 1988–1992
+|-
+| {{flagicon|El Salvador}} Galaxia || 1992
+|-
+| {{flagicon|United States}} Score || 1992–1995
+|-
+| {{flagicon|United States}} [[Reebok]] || 1996
+|-
+| {{flagicon|Italy}} [[:it:Lanzera|Lanzera]] || 1996–1998
+|-
+| {{flagicon|Italy}} [[Kappa (brand)|Kappa]] || 1999–2000
+|-
+| {{flagicon|Spain}} [[Joma]] || 2001–2002
+|-
+| {{flagicon|El Salvador}} Galaxia || 2003
+|-
+| {{flagicon|Mexico}} [[Atletica]] || 2004–2007
+|-
+| {{flagicon|El Salvador}} Milán || 2007
+|-
+| {{flagicon|Mexico}} [[Atletica]] || 2007–2009
+|-
+| {{flagicon|United Kingdom}} [[Mitre Sports International|Mitre]] || 2009–2017
+|-
+| {{flagicon|United Kingdom}} [[Umbro]] || 2017–present
+|}
+
+==Results and fixtures==
+{{main|El Salvador national football team results (2020–present)}}
+The following is a list of match results in the last 12 months, as well as any future matches that have been scheduled.
+
+{{legend2|#CCFFCC|Win|border=1px solid #AAAAAA}}
+{{legend2|#FFFFCC|Draw|border=1px solid #AAAAAA}}
+{{legend2|#FFCCCC|Loss|border=1px solid #AAAAAA}}
+{{legend2|#FFFFFF|Fixture|border=1px solid #AAAAAA}}
+
+===2025===
+{{football box collapsible
+|format     = 1
+|round      = [[2026 FIFA World Cup qualification – CONCACAF third round#Group A|2026 FIFA World Cup qualification]]
+|date       = 4 September
+|time       = {{UTZ|20:00|-6}}
+|team1      = {{fb-rt|GUA}}
+|score      = 0–1
+|team2      = {{fb|SLV}}
+|report     = https://www.fifa.com/en/match-centre/match/520/288301/288312/400020580
+|goals1     =
+|goals2     =
+*[[Harold Osorio|Osorio]] {{goal|79}}
+|location   = [[Guatemala City]], Guatemala
+|stadium    = [[Estadio Cementos Progreso]]
+|attendance = 
+|referee    = Juan Calderón ([[Costa Rican Football Federation|Costa Rica]])
+|result     = W
+}}
+{{football box collapsible
+|format     = 1
+|round      = [[2026 FIFA World Cup qualification – CONCACAF third round#Group A|2026 FIFA World Cup qualification]]
+|date       = 8 September
+|time       = {{UTZ|18:30|-6}}
+|team1      = {{fb-rt|SLV}}
+|score      = 1–2
+|team2      = {{fb|SUR}}
+|report     = https://www.fifa.com/en/match-centre/match/520/288301/288312/400020579
+|goals1     =
+*[[Anfernee Dijksteel|Dijksteel]] {{goal|73|o.g.}}
+|goals2     =
+*[[Radinio Balker|Balker]] {{goal|12}}
+*[[Dhoraso Klas|Klas]] {{goal|81}}
+|location   = [[San Salvador]], El Salvador
+|stadium    = [[Estadio Cuscatlán]]
+|attendance = 28,186
+|referee    = Adonai González ([[Mexican Football Federation|Mexico]])
+|result     = L
+}}
+{{football box collapsible
+|format     = 1
+|round      = [[2026 FIFA World Cup qualification – CONCACAF third round#Group A|2026 FIFA World Cup qualification]]
+|date       = 10 October
+|time       = {{UTZ|19:00|-6}}
+|team1      = {{fb-rt|SLV}}
+|score      = 0–1
+|team2      = {{fb|PAN}}
+|report     = https://www.fifa.com/en/match-centre/match/520/288301/288312/400020578
+|goals1     =
+|goals2     =
+*[[José Fajardo (footballer)|Fajardo]] {{goal|55}}
+|location   = [[San Salvador]], El Salvador
+|stadium    = [[Estadio Cuscatlán]]
+|attendance = 22,805
+|referee    = [[Drew Fischer]] ([[Canadian Soccer Association|Canada]])
+|result     = L
+}}
+{{football box collapsible
+|format     = 1
+|round      = [[2026 FIFA World Cup qualification – CONCACAF third round#Group A|2026 FIFA World Cup qualification]]
+|date       = 14 October
+|time       = {{UTZ|20:00|-6}}
+|team1      = {{fb-rt|SLV}}
+|score      = 0–1
+|team2      = {{fb|GUA}}
+|report     = https://www.fifa.com/en/match-centre/match/520/288301/288312/400020577
+|goals1     =
+|goals2     =
+*[[Óscar Santis|Santis]] {{goal|46}}
+|location   = [[San Salvador]], El Salvador
+|stadium    = [[Cuscatlán Stadium|Estadio Cuscatlán]]
+|attendance = 26,931
+|referee    = Pierre-Luc Lauzière ([[Canadian Soccer Association|Canada]])
+|result     = L
+}}
+{{football box collapsible
+|format     = 1
+|round      = [[2026 FIFA World Cup qualification – CONCACAF third round#Group A|2026 FIFA World Cup qualification]]
+|date       = 13 November
+|time       = {{UTZ|19:00|-3}}
+|team1      = {{fb-rt|SUR}}
+|score      = 4–0
+|team2      = {{fb|SLV}}
+|report     = https://www.fifa.com/en/match-centre/match/520/288301/288312/400020586
+|goals1     =
+*[[Tjaronn Chery|Chery]] {{goal|44|pen.}}
+*[[Richonell Margaret|Margaret]] {{goal|74||76}}
+*[[Dhoraso Klas|Klas]] {{goal|83}}
+|goals2     =
+|location   = [[Paramaribo]], Suriname
+|stadium    = [[Dr. Ir. Franklin Essed Stadion|Franklin Essed Stadion]]
+|attendance =
+|referee    = Oshane Nation ([[Jamaica Football Federation|Jamaica]])
+|result     = L
+}}
+{{football box collapsible
+|format     = 1
+|round      = [[2026 FIFA World Cup qualification – CONCACAF third round#Group A|2026 FIFA World Cup qualification]]
+|date       = 18 November
+|time       = {{UTZ|20:00|-5}}
+|team1      = {{fb-rt|PAN}}
+|score      = 3–0
+|team2      = {{fb|SLV}}
+|report     = https://www.fifa.com/en/match-centre/match/520/288301/288312/400020583
+|goals1     =
+*[[César Blackman|Blackman]] {{goal|17}}
+*[[Eric Davis (Panamanian footballer)|Davis]] {{goal|45+4|pen.}}
+*[[José Luis Rodríguez (footballer, born 1998)|Rodríguez]] {{goal|85}}
+|goals2     =
+|location   = [[Panama City]], Panama
+|stadium    = [[Rommel Fernández Stadium|Estadio Rommel Fernández]]
+|attendance =
+|referee    = [[Saíd Martínez]] ([[National Autonomous Federation of Football of Honduras|Honduras]])
+|result     = L
+}}
+
+===2026===
+{{footballbox collapsible
+|format     = 1
+|round      = [[2025–26 CONCACAF Series]]
+|date       = 26 March
+|time       = {{UTZ|20:00|-4}}
+|team1      = {{fb-rt|DOM}}
+|score      = 2–2
+|team2      = {{fb|SLV}}
+|report     = https://globalsportsarchive.com/en/soccer/match/2026-03-27/dominican-republic-vs-el-salvador/4095364
+|goals1     =
+*[[Junior Firpo|Firpo]] {{goal|15}}
+*[[Dorny Romero|Romero]] {{goal|90+4}}
+|goals2     =
+*[[Nathan Ordaz|Ordaz]] {{goal|62||78}}
+|location   = [[Santiago de los caballeros|Santiago]], Dominican Republic
+|stadium    = [[Estadio Cibao FC]]
+|attendance =
+|referee    = Oliver Vergara ([[Panamanian Football Federation|Panama]])
+|result     = D
+}}
+{{footballbox collapsible
+|format     = 1
+|round      = [[2025–26 CONCACAF Series]]
+|date       = 29 March
+|time       = {{UTZ|16:00|-4}}
+|team1      = {{fb-rt|MTQ}}
+|score      = 0–1
+|team2      = {{fb|SLV}}
+|report     = https://globalsportsarchive.com/en/soccer/match/2026-03-29/martinique-vs-el-salvador/4095369
+|goals1     =
+|goals2     =
+*[[Mayer Gil|M. Gil]] {{goal|90+2}}
+|location   = [[Santiago de los Caballeros|Santiago]], Dominican Republic
+|stadium    = [[Estadio Cibao]]
+|attendance =
+|referee    = Jefferson Escobar ([[Football Federation of Honduras|Honduras]])
+|result     = W
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[Exhibition game#Association football|Friendly]]
+|date       = 3 June
+|time       = {{UTZ|19:00|-6}}
+|team1      = {{fb-rt|KOR}}
+|score      = 1–0
+|team2      = {{fb|SLV}}
+|report     = https://www.soccerway.com/match/el-salvador-8b5z2tKe/south-korea-K6Gs7P6G/?mid=MVBloMFO
+|goals1     =
+*[[Lee Dong-gyeong]] {{goal|57}}
+|goals2     =
+|location   = [[Provo, Utah|Provo]], United States
+|stadium    = [[South Field (Provo)|South Field]]
+|attendance =
+|referee    = Natalie Simon ([[United States Soccer Federation|United States]])
+|result     = L
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[Exhibition game#Association football|Friendly]]
+|date       = 6 June
+|time       = {{UTZ|13:00|-7}}
+|team1      = {{fb-rt|SLV}}
+|score      = 0–0
+|team2      = {{fb|QAT}}
+|report     = https://www.elgrafico.com/selecciones/el-salvador-fue-atrevido-y-empato-con-catar-en-cierre-de-la-fecha-fifa-20260606-0008.html
+|goals1     =
+|goals2     =
+|location   = [[Los Angeles]], United States
+|stadium    = [[BMO Stadium]]
+|attendance =
+|referee    = [[Rubiel Vazquez]] ([[United States Soccer Federation|United States]])
+|result     = D
+}}
+
+==Coaching staff==
+''As of February 2025 [https://www.elsalvador.com/deportes/selecciones/hernan-dario-bolillo-gomez-nuevo-tecnico-selecta-fesfut-indes/1202556/2025/]''
+{| class="wikitable"
+|-
+!style="color:#FFFFFF;background:#4169E1"|Position
+!style="color:#FFFFFF;background:#4169E1"|Staff
+|-
+| Head coach
+| {{flagicon|COL}} [[Hernán Darío Gómez]]
+|-
+| Assistant coach
+| {{flagicon|COL}} [[Édgar Carvajal]]
+|-
+| Assistant coach
+| {{flagicon|SLV}} Juan Carlos Serrano
+|-
+| Fitness coach
+| {{flagicon|COL}} Mauricio Roldán
+|-
+| Goalkeeping coach
+| {{flagicon|SLV}} [[Misael Alfaro|Álvaro Misael Alfaro]]
+|-
+| Director of football
+| Vacant
+|-
+| Coordinator of football
+| {{flagicon|SLV}} Juan Carlos Serrano
+|-
+|}
+
+===Coaching history===
+Since the creation of the national team in 1921, several coaches have been in charge of managing El Salvador. From 1930 to 1935, [[Mark Scott Thompson]] was appointed as El Salvador's first ever manager. {{As of|2012|1}}, the El Salvador national football team has presented itself with 60 managers in the national team. It is reported that all 3 titles ([[1943 CCCF Championship|1943]],<ref name="CCCF 1943">{{cite web|url=https://www.rsssf.org/tablesc/cccf43.html|title=CCCF Championship 1943 (San Salvador, El Salvador, Dec 5–19)|date=2002-08-06|website=[[RSSSF]]|access-date=2010-11-11|archive-date=2 December 2022|archive-url=https://web.archive.org/web/20221202072542/https://rsssf.org/tablesc/cccf43.html|url-status=live}}</ref> [[Football at the 1954 Central American and Caribbean Games|1954]]<ref name="CAG 1954">{{cite web|url=https://www.rsssf.org/tablesc/cag54.html|title=Central American and Caribbean Games 1954 (Mexico)|date=2007-04-02|website=[[RSSSF]]|access-date=2010-11-11|archive-date=25 December 2022|archive-url=https://web.archive.org/web/20221225051555/https://www.rsssf.org/tablesc/cag54.html|url-status=live}}</ref> and [[Football at the 2002 Central American and Caribbean Games|2002]]<ref name="CAG 2002">{{cite web|url=https://www.rsssf.org/tablesc/cag02.html|title=Central American and Caribbean Games 2002 (El Salvador)|date=2005-12-21|website=[[RSSSF]]|access-date=2010-11-11|archive-date=25 December 2022|archive-url=https://web.archive.org/web/20221225051555/https://www.rsssf.org/tablesc/cag02.html|url-status=live}}</ref>) have been won by Salvadoran born managers. [[Conrado Miranda]] has managed in 4 different occasions and [[Armando Contreras Palma]] in 3. [[Chilean people|Chilean]] [[Hernán Carrasco Vivanco|Hernán Vivanco]] was manager when El Salvador competed at their first [[1970 FIFA World Cup|World Cup]].<ref name="Managers">{{cite web|url=http://www.elbaloncuscatleco.com/directores.html|title=Directores|date=2008-01-24|access-date=2010-11-11|publisher=El Balon Cuscatleco|language=es|trans-title=Managers|archive-date=16 July 2019|archive-url=https://web.archive.org/web/20190716065644/http://www.elbaloncuscatleco.com/directores.html|url-status=live}}</ref> [[Mauricio Alonso Rodríguez|Mauricio Rodríguez]] managed to qualify El Salvador to another [[1982 FIFA World Cup|World Cup]]. Rodríguez participated at the 1970 FIFA World Cup.
+
+{{div col|colwidth=20em}}
+*{{Flagicon|USA|1912}} [[Mark Scott Thompson]] (1930–1935)
+*{{Flagicon|ESP|1931}} [[Pablo Ferré Elías]] (1935–1938)
+*{{Flagicon|CHI}}{{Flagicon|HUN|1920}} [[Máximo Garay]] (1940–1941)
+*{{Flagicon|ENG}} [[Charlie Slade]] (1941–1943)
+*{{Flagicon|SLV}} [[Américo González (footballer)|Américo González]] (1943–1948)
+*{{Flagicon|ARG}} [[Rodolfo Orlandini]] (1949–1951)
+*{{Flagicon|SLV}} [[Marcelo Estrada]] (1953)
+*{{Flagicon|SLV}} [[Carbilio Tomasino]] (1954–1959)
+*{{Flagicon|SLV}} [[Emilio Guardado]] (1959–1960)
+*{{Flagicon|SLV}} [[Conrado Miranda]] (1961)
+*{{Flagicon|URU}} [[Luis Comitante]] (1963)
+*{{Flagicon|CHI}} [[Hernán Carrasco Vivanco]] (1965–1967)
+*{{Flagicon|SLV}} [[Rigoberto Guzmán]] (1968)
+*{{Flagicon|ARG}} [[Gregorio Bundio]] (1968–1970)
+*{{Flagicon|CHI}} [[Hernán Carrasco Vivanco]] (1970)
+*{{Flagicon|SLV}} [[Conrado Miranda]] (1971)
+*{{Flagicon|ARG}} [[Héctor D'Angelo]] (1972)
+*{{Flagicon|BRA|1968}} [[Jorge Tupinambá dos Santos|Jorge Tupinambá]] (1973)
+*{{Flagicon|SLV}} [[Mauricio Alonso Rodríguez|Mauricio Rodríguez]] (1973–1974)
+*{{Flagicon|SLV}} [[Conrado Miranda]] (1975)
+*{{Flagicon|SLV}} [[Marcelo Estrada]] (1975–1976)
+*{{Flagicon|SLV}} [[Raúl Magaña]] (1976)
+*{{Flagicon|BRA|1968}} [[Pinto Beltrao]] (1976)
+*{{Flagicon|URU}} [[Juan Ricardo Faccio]] (1977)
+*{{Flagicon|SLV}} [[Julio Contreras]] (1977)
+*{{Flagicon|SLV}} [[Ricardo Tomasino]] (1978)
+*{{Flagicon|SLV}} [[Raúl Magaña]] (1979)
+*{{Flagicon|SLV}} [[Salvador Mariona]] (1979)
+*{{Flagicon|SLV}} [[Mauricio Alonso Rodríguez|Mauricio Rodríguez]] (1979–1982)
+*{{Flagicon|SLV}} [[Armando Contreras Palma|Armando Palma]] (1983)
+*{{Flagicon|SLV}} [[Raúl Magaña]] (1984)
+*{{Flagicon|ARG}} [[Juan Quarterone]] (1984–1985)
+*{{Flagicon|SLV}} [[Paulo Roberto Cabrera]] (1986)
+*{{Flagicon|SLV}} [[Raúl Magaña]] (1987)
+*{{Flagicon|YUG}} [[Milovan Đorić]] (1988)
+*{{Flagicon|YUG}} [[Miroslav Vukašinović]] (1988–1989)
+*{{Flagicon|SLV}} [[Conrado Miranda]] (1989)
+*{{Flagicon|YUG}} [[Kiril Dojčinovski]] (1989)
+*{{Flagicon|SLV}} [[Óscar Emigdio Benítez|Óscar Benítez]] (1991)
+*{{Flagicon|URU}} [[Jorge Aude]] (1991)
+*{{Flagicon|URU}} [[Aníbal Ruiz]] (1992)
+*{{Flagicon|BRA}} [[Jorge Vieira (Brazilian footballer)|Jorge Vieira]] (1993)
+*{{Flagicon|CHI}} [[Néstor Matamala]] (1993)
+*{{Flagicon|SLV}} [[Ricardo López Tenorio|Ricardo Tenorio]] (1993)
+*{{Flagicon|MKD|1992}} [[Kiril Dojčinovski]] (1994)
+*{{Flagicon|ARG}} [[José Omar Pastoriza|José Pastoriza]] (1995–1996)
+*{{Flagicon|SLV}} [[Armando Contreras Palma|Armando Palma]] (1996)
+*{{Flagicon|SRB|1991}} [[Milovan Đorić]] (1997)
+*{{Flagicon|MKD}} [[Kiril Dojčinovski]] (1998)
+*{{Flagicon|CHI}} [[Julio Escobar]] (1998)
+*{{Flagicon|BRA}} [[Marinho Peres]] (1999)
+*{{Flagicon|SLV}} [[Ricardo López Tenorio|Ricardo Tenorio]] (1999)
+*{{Flagicon|SLV}} [[Óscar Emigdio Benítez|Óscar Benítez]] (1999–2000)
+*{{Flagicon|SLV}} [[Carlos Recinos]] (2000–2002)
+*{{Flagicon|SLV}} [[Juan Ramón Paredes]] (2002–2004)
+*{{Flagicon|SLV}} [[Armando Contreras Palma|Armando Palma]] (2004)
+*{{Flagicon|ARG}} [[Carlos Cavagnaro]] (2005)
+*{{Flagicon|SLV}} [[Miguel Aguilar Obando|Miguel Aguilar]] (2005–2006)
+*{{Flagicon|MEX}} [[Carlos de los Cobos]] (2006–2009)
+*{{Flagicon|SLV}} [[José Luis Rugamas]] (2010–2011)
+*{{Flagicon|URU}} [[Rubén Israel]] (2011–2012)
+*{{Flagicon|MEX}} [[Juan de Dios Castillo]] (2012)
+*{{Flagicon|PER}} [[Agustín Castillo]] (2012–2013)
+*{{Flagicon|SLV}} [[Mauricio Alfaro]] (2014)
+*{{Flagicon|ESP}} [[Albert Roca]] (2014–2015)
+*{{Flagicon|SLV}} [[Jorge Rodríguez (footballer, born 1971)|Jorge Rodríguez]] (2015)
+*{{Flagicon|HON|1949}} [[Ramón Maradiaga]] (2015–2016)
+*{{Flagicon|COL}} [[Eduardo Lara]] (2016–2017)
+*{{Flagicon|MEX}} [[Carlos de los Cobos]] (2018–2021)
+*{{Flagicon|USA}}{{Flagicon|SLV}} [[Hugo Pérez (soccer, born 1963)|Hugo Pérez]] (2021–2023)
+*{{Flagicon|ESP}} [[Rubén de la Barrera]] (2023)
+*{{Flagicon|ESP}} [[David Dóniga]] (2024–2025)
+*{{Flagicon|COL}} [[Hernán Darío Gómez]] (2025–present)
+{{div col end}}
+
+==Players==
+
+===Current squad===
+The following players were called up for the [[Exhibition game#International football|friendly]] matches against [[South Korea national football team|South Korea]] and [[Qatar national football team|Qatar]] on 3 and 6 June 2026, respectively.
+<br>''Caps and goals as of 6 June 2026, after the match against [[Qatar national football team|Qatar]].''
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Mario González (footballer, born 1997)|Mario González]]|other=[[Captain (association football)|captain]]|age={{birth date and age|df=yes|1997|5|20}}|caps=57|goals=0|club=[[A.D. San Carlos|San Carlos]]|clubnat=CRC}}
+{{nat fs g player|no=18|pos=GK|name=[[Geonathan Barrera]]|age={{birth date and age|df=yes|2004|11|18}}|caps=0|goals=0|club=[[Dorados de Sinaloa|Sinaloa]]|clubnat=MEX}}
+{{nat fs g player|no=22|pos=GK|name=[[Benji Villalobos]]|age={{birth date and age|df=yes|1988|7|18}}|caps=19|goals=0|club=[[C.D. Águila|Águila]]|clubnat=SLV}}
+{{nat fs break}}
+{{nat fs g player|no=2|pos=DF|name=[[Julio Sibrián]]|age={{birth date and age|1996|07|17|df=yes}}|caps=29|goals=0|club=[[C.D. Águila|Águila]]|clubnat=SLV}}
+{{nat fs g player|no=4|pos=DF|name=[[Jorge Cruz (footballer)|Jorge Cruz]]|age={{birth date and age|2000|1|24|df=y}}|caps=23|goals=0|club=[[C.D. FAS|FAS]]|clubnat=SLV}}
+{{nat fs g player|no=5|pos=DF|name=[[Rudy Clavel]]|age={{birth date and age|1996|10|10|df=y}}|caps=22|goals=1|club=[[C.D. FAS|FAS]]|clubnat=SLV}}
+{{nat fs g player|no=13|pos=DF|name=[[Danis Cerros]]|age={{birth date and age|1999|5|12|df=y}}|caps=2|goals=0|club=[[C.D. Municipal Limeño|Municipal Limeño]]|clubnat=SLV}}
+{{nat fs g player|no=15|pos=DF|name=[[Jefferson Valladares]]|age={{birth date and age|2002|12|8|df=y}}|caps=16|goals=0|club=[[C.D. Municipal Limeño|Municipal Limeño]]|clubnat=SLV}}
+{{nat fs g player|no=16|pos=DF|name=[[Diego Flores (Salvadoran footballer)|Diego Flores]]|age={{birth date and age|df=yes|2001|7|1}}|caps=17|goals=1|club=[[C.D. Luis Ángel Firpo|Luis Ángel Firpo]]|clubnat=SLV}}
+{{nat fs g player|no=21|pos=DF|name=[[Alejandro Henríquez]]|age={{birth date and age|2002|8|28|df=y}}|caps=5|goals=0|club=[[Alianza F.C. (El Salvador)|Alianza]]|clubnat=SLV}}
+{{nat fs g player|no=24|pos=DF|name=[[Alejandro Cano]]|age={{birth date and age|2004|5|21|df=y}}|caps=1|goals=0|club=[[San Jose Earthquakes II]]|clubnat=USA}}
+{{nat fs break}}
+{{nat fs g player|no=3|pos=MF|name=[[Isaac Portillo]]|age={{birth date and age|1994|11|8|df=yes}}|caps=19|goals=0|club=[[Inter Santa Tecla]]|clubnat=SLV}}
+{{nat fs g player|no=6|pos=MF|name=[[Kevin Reyes]]|age={{birth date and age|df=yes|1999|8|28}}|caps=22|goals=0|club=[[A.D. Isidro Metapán|Isidro Metapán]]|clubnat=SLV}}
+{{nat fs g player|no=8|pos=MF|name=[[Bryan Landaverde]]|age={{birth date and age|1995|5|27|df=y}}|caps=38|goals=1|club=[[C.D. Luis Ángel Firpo|Luis Ángel Firpo]]|clubnat=SLV}}
+{{nat fs g player|no=11|pos=MF|name=[[Mayer Gil]]|age={{birth date and age|df=yes|2003|9|7}}|caps=18|goals=2|club=[[Deportivo Pasto]]|clubnat=COL}}
+{{nat fs g player|no=12|pos=MF|name=[[Marcelo Díaz (Salvadoran footballer)|Marcelo Díaz]]|age={{birth date and age|df=yes|2000|12|19}}|caps=11|goals=0|club=[[C.D. Águila|Águila]]|clubnat=SLV}}
+{{nat fs g player|no=14|pos=MF|name=[[Christian Martínez (footballer, born 1994)|Christian Martínez]]|age={{birth date and age|df=yes|1994|8|12}}|caps=43|goals=0|club=[[A.D. San Carlos|San Carlos]]|clubnat=CRC}}
+{{nat fs g player|no=17|pos=MF|name=[[Jairo Henríquez]]|age={{birth date and age|df=yes|1993|8|31}}|caps=63|goals=5|club=[[Inter Santa Tecla]]|clubnat=SLV}}
+{{nat fs g player|no=19|pos=MF|name=[[Rafael Tejada]]|age={{birth date and age|2003|03|12|df=yes}}|caps=13|goals=2|club=[[C.D. FAS|FAS]]|clubnat=SLV}}
+{{nat fs g player|no=20|pos=MF|name=[[Mauricio Cerritos]]|age={{birth date and age|2003|10|17|df=yes}}|caps=13|goals=0|club=[[C.D. Luis Ángel Firpo|Luis Ángel Firpo]]|clubnat=SLV}}
+{{nat fs g player|no=23|pos=MF|name=[[Leonardo Menjívar]]|age={{birth date and age|2001|10|24|df=y}}|caps=16|goals=0|club=[[Alianza F.C. (El Salvador)|Alianza]]|clubnat=SLV}}
+{{nat fs g player|no=26|pos=MF|name=[[Diego Ortez]]|age={{birth date and age|2003|9|30|df=yes}}|caps=0|goals=0|club=[[C.D. Luis Ángel Firpo|Luis Ángel Firpo]]|clubnat=SLV}}
+{{nat fs break}}
+{{nat fs g player|no=7|pos=FW|name=[[Styven Vásquez]]|age={{birth date and age|2002|10|29|df=y}}|caps=22|goals=3|club=[[C.D. Irapuato|Irapuato]]|clubnat=MEX}}
+{{nat fs g player|no=9|pos=FW|name=[[Cristian Gil (footballer, born 1996)|Cristian Gil]]|age={{birth date and age|1996|11|5|df=yes}}|caps=21|goals=3|club=[[C.D. Luis Ángel Firpo|Luis Ángel Firpo]]|clubnat=SLV}}
+{{nat fs g player|no=10|pos=FW|name=[[Nathan Ordaz]]|age={{birth date and age|df=yes|2004|1|12}}|caps=14|goals=2|club=[[D.C. United]]|clubnat=USA}}
+{{nat fs end}}
+
+===Recent call-ups===
+The following players have been called up within the last 12 months.
+<!--Sorted by position, most recent call-up, caps, goals and last name.-->
+{{nat fs r start}}
+{{nat fs r player|no=22|pos=GK|name=[[Daniel Franco (El Salvador)|Daniel Franco]]|age={{birth date and age|df=yes|2006|10|10}}|caps=0|goals=0|club=[[Alianza F.C. (El Salvador)|Alianza]]|clubnat=SLV|latest=Training camp 18–29 May 2026}}
+{{nat fs r player|no=1|pos=GK|name=[[Sergio Sibrián]]|age={{birth date and age|df=yes|2004|7|8}}|caps=0|goals=0|club=[[Inter Santa Tecla]]|clubnat=SLV|latest=v. [[The Dreams FC|The Dreams]], 28 April 2026}}
+{{nat fs r player|no=18|pos=GK|name=[[Kevin Carabantes]]|age={{birth date and age|df=yes|1993|2|6}}|caps=7|goals=0|club=[[C.D. FAS|FAS]]|clubnat=SLV|latest=Training camp 26–28 January 2026}}
+{{nat fs r player|no=18|pos=GK|name=[[Tomás Romero (footballer)|Tomás Romero]]|age={{birth date and age|df=yes|2000|12|19}}|caps=19|goals=0|club=[[New York City FC|New York City]]|clubnat=USA|latest=v. {{fb|PAN}}, 18 November 2025}}
+{{nat fs break}}
+{{nat fs r player|no=3|pos=DF|name=[[Lizandro Claros]]|age={{birth date and age|df=yes|1998|1|25}}|caps=4|goals=0|club=[[C.D. Luis Ángel Firpo|Luis Ángel Firpo]]|clubnat=SLV|latest=v. {{fb|MTQ}}, 29 March 2026}}
+{{nat fs r player|no=5|pos=DF|name=[[Elvis Claros]]|age={{birth date and age|2000|8|31|df=y}}|caps=2|goals=0|club=[[C.D. Municipal Limeño|Municipal Limeño]]|clubnat=SLV|latest=v. [[C.F. Pachuca|Pachuca]], 3 March 2026}}
+{{nat fs r player|no=3|pos=DF|name=[[Ronald Rodríguez]]|age={{birth date and age|df=yes|1998|9|22}}|caps=34|goals=0|club=[[C.D. Águila|Águila]]|clubnat=SLV|latest=Training camp 26–28 January 2026}}
+{{nat fs r player|no=4|pos=DF|name=[[Adán Clímaco]]|age={{birth date and age|2001|1|5|df=y}}|caps=14|goals=0|club=[[Inter Santa Tecla]]|clubnat=SLV|latest=v. {{fb|PAN}}, 18 November 2025}}
+{{nat fs r player|no=13|pos=DF|name=[[Nelson Rodríguez (footballer)|Nelson Rodríguez]]|age={{birth date and age|2003|6|24|df=yes}}|caps=0|goals=0|club=[[Alianza F.C. (El Salvador)|Alianza]]|clubnat=SLV|latest=v. {{fb|PAN}}, 18 November 2025}}
+{{nat fs r player|no=3|pos=DF|name=[[Kiano Falcao]]|age={{birth date and age|2006|4|11|df=y}}|caps=0|goals=0|club=[[TJ Jednota Bánová|Jednota Bánová]]|clubnat=SVK|latest=v. {{fb|GUA}}, 14 October 2025}}
+{{nat fs r player|no=3|pos=DF|name=[[Roberto Domínguez (footballer)|Roberto Domínguez]]|age={{birth date and age|df=yes|1997|5|9}}|caps=68|goals=1|club=[[Inter Santa Tecla]]|clubnat=SLV|latest=v. {{fb|PAN}}, 10 October 2025}}
+{{nat fs r player|no=21|pos=DF|name=[[Bryan Tamacas]] <sup>INJ</sup>|age={{birth date and age|1995|2|21|df=y}}|caps=86|goals=3|club=[[Alianza F.C. (El Salvador)|Alianza]]|clubnat=SLV|latest=v. {{fb|SUR}}, 8 September 2025}}
+{{nat fs r player|no=16|pos=DF|name=[[Henry Romero (Salvadoran footballer)|Henry Romero]] <sup>INJ</sup>|age={{birth date and age|1991|10|17|df=yes}}|caps=30|goals=1|club=[[Alianza F.C. (El Salvador)|Alianza]]|clubnat=SLV|latest=v. {{fb|SUR}}, 8 September 2025}}
+{{nat fs break}}
+{{nat fs r player|no=23|pos=MF|name=[[Noel Rivera (footballer)|Noel Rivera]]|age={{birth date and age|2004|6|18|df=y}}|caps=4|goals=0|club=[[Alianza F.C. (El Salvador)|Alianza]]|clubnat=SLV|latest=Training camp 18–29 May 2026}}
+{{nat fs r player|no=|pos=MF|name=[[Stiven Menjívar]]|age={{birth date and age|2007|1|1|df=yes}}|caps=0|goals=0|club=[[C.D. Talleres Jr|Talleres Jr]]|clubnat=SLV|latest=Training camp 18–29 May 2026}}
+{{nat fs r player|no=16|pos=MF|name=[[Jefferson Amaya]]|age={{birth date and age|2003|6|14|df=y}}|caps=0|goals=0|club=[[Charlotte Independence]]|clubnat=USA|latest=Training camp 18–29 May 2026}}
+{{nat fs r player|no=6|pos=MF|name=[[José Portillo]]|age={{birth date and age|df=yes|1999|11|14}}|caps=1|goals=0|club=[[C.D. FAS|FAS]]|clubnat=SLV|latest=v. [[The Dreams FC|The Dreams]], 28 April 2026}}
+{{nat fs r player|no=13|pos=MF|name=[[Gabriel Arnold]]|age={{birth date and age|df=yes|2007|2|1}}|caps=0|goals=0|club=[[Ventura County FC|Ventura County]]|clubnat=USA|latest=v. [[The Dreams FC|The Dreams]], 28 April 2026}}
+{{nat fs r player|no=12|pos=MF|name=[[Nelson Díaz (El Salvador)|Nelson Díaz]]|age={{birth date and age|2006|7|4|df=y}}|caps=0|goals=0|club=[[C.D. Luis Ángel Firpo|Luis Ángel Firpo]]|clubnat=SLV|latest=v. [[The Dreams FC|The Dreams]], 28 April 2026}}
+{{nat fs r player|no=10|pos=MF|name=[[Harold Osorio]] <sup>INJ</sup>|age={{birth date and age|2003|08|20|df=yes}}|caps=15|goals=1|club=[[Alianza F.C. (El Salvador)|Alianza]]|clubnat=SLV|latest=Training camp 26–28 January 2026}}
+{{nat fs r player|no=6|pos=MF|name=[[Steven Guerra]]|age={{birth date and age|2005|3|12|df=y}}|caps=4|goals=0|club=[[A.D. Isidro Metapán|Isidro Metapán]]|clubnat=SLV|latest=Training camp 26–28 January 2026}}
+{{nat fs r player|no=8|pos=MF|name=[[Johann Ortíz]]|age={{birth date and age|2007|1|1|df=y}}|caps=0|goals=0|club=[[Sporting Kansas City II]]|clubnat=USA|latest=Training camp 26–28 January 2026}}
+{{nat fs r player|no=7|pos=MF|name=[[Darwin Cerén]]|age={{birth date and age|df=yes|1989|12|31}}|caps=108|goals=5|club=[[Inter Santa Tecla]]|clubnat=SLV|latest=v. {{fb|PAN}}, 18 November 2025}}
+{{nat fs r player|no=21|pos=MF|name=[[Elmer Bonilla]]|age={{birth date and age|df=yes|2003|5|10}}|caps=0|goals=0|club=[[C.D. FAS|FAS]]|clubnat=SLV|latest=v. {{fb|PAN}}, 18 November 2025}}
+{{nat fs r player|no=10|pos=MF|name=[[Enrico Hernández|Enrico Dueñas]]|age={{birth date and age|2001|02|23|df=yes}}|caps=23|goals=1|club=[[Free Agent]]|clubnat=|latest=v. {{fb|GUA}}, 14 October 2025}}
+{{nat fs r player|no=13|pos=MF|name=[[Tomás Granitto]]|age={{birth date and age|1993|6|12|df=yes}}|caps=3|goals=0|club=[[C.D. Águila|Águila]]|clubnat=SLV|latest=v. {{fb|SUR}}, 8 September 2025}}
+{{nat fs break}}
+{{nat fs r player|no=19|pos=FW|name=[[Emerson Mauricio]]|age={{birth date and age|2002|8|27|df=y}}|caps=13|goals=2|club=[[Inter Santa Tecla]]|clubnat=SLV|latest=Training camp 18–29 May 2026}}
+{{nat fs r player|no=9|pos=FW|name=[[Brayan Gil]]|age={{birth date and age|df=yes|2001|6|28}}|caps=22|goals=5|club=[[FC Baltika Kaliningrad|Baltika Kaliningrad]]|clubnat=RUS|latest=v. {{fb|MTQ}}, 29 March 2026}}
+{{nat fs r player|no=16|pos=FW|name=[[Francis Castillo]]|age={{birth date and age|df=yes|2005|11|7}}|caps=6|goals=1|club=[[Alianza F.C. (El Salvador)|Alianza]]|clubnat=SLV|latest=Training camp 26–28 January 2026}}
+{{nat fs r player|no=16|pos=FW|name=[[Juan Carlos Argueta]]|age={{birth date and age|df=yes|2000|5|18}}|caps=1|goals=0|club=[[C.D. Municipal Limeño|Municipal Limeño]]|clubnat=SLV|latest=Training camp 26–28 January 2026}}
+{{nat fs r player|no=6|pos=FW|name=[[Joshua Pérez]]|age={{birth date and age|1998|1|21|df=y}}|caps=27|goals=3|club=[[Odra Opole]]|clubnat=POL|latest=v. {{fb|PAN}}, 18 November 2025}}
+{{nat fs r player|no=15|pos=FW|name=[[Michell Mercado]]|age={{birth date and age|1991|09|22|df=yes}}|caps=1|goals=0|club=[[Free Agent]]|clubnat=|latest=v. {{fb|PAN}}, 18 November 2025}}
+{{nat fs r player|no=19|pos=FW|name=[[Josué Rivera]]|age={{birth date and age|1999|05|09|df=y}}|caps=1|goals=0|club=[[Inter Santa Tecla]]|clubnat=SLV|latest=v. {{fb|GUA}}, 14 October 2025}}
+{{nat fs break}}
+<sup>INJ</sup> Player withdrew from the [[#Current squad|current squad]] due to injury.<br />
+<sup>COV</sup> Player withdrew due to testing positively for [[COVID-19]] or having to self-isolate because of it.<br />
+<sup>PRE</sup> Preliminary squad.<br />
+<sup>RET</sup> Player had announced retirement from international football.<br />
+<sup>SUS</sup> Player is serving a suspension.<br />
+<sup>WD</sup> Player withdrew for personal reasons.<br />
+<sup>EXC</sup> Excluded from squad.<br />
+<sup>SUS</sup> Suspended.<br />
+{{nat fs end}}
+
+==Player records==
+{{updated|29 March 2026}}<ref>{{cite web |last1=Passo Alpuin |first1=Luis Fernando |title=El Salvador – Record International Players |url=https://www.rsssf.org/miscellaneous/elsal-recintlp.html |website=RSSSF |access-date=2 February 2023 |archive-date=6 February 2023 |archive-url=https://web.archive.org/web/20230206142449/https://www.rsssf.org/miscellaneous/elsal-recintlp.html |url-status=live}}</ref>
+:''Players in '''bold''' are still active with El Salvador.''
+
+===Most appearances===
+[[File:Ceren at Avaya.jpg|200px|right|thumb|[[Darwin Cerén]] is El Salvador's most capped player with 108 appearances.]]
+
+{| class="wikitable sortable" style="text-align:center;"
+|-
+!width=30px|Rank
+! style="width:150px;"|Player
+!width=50px|Caps
+!width=50px|Goals
+! style="width:100px;"|Career
+|-
+|1
+|align=left|'''[[Darwin Cerén]]'''
+|108
+|5
+|2012–present
+|-
+|rowspan=2|2
+|align=left|'''[[Alexander Larín]]'''
+|86
+|7
+|2012–present
+|-
+|align=left|'''[[Bryan Tamacas]]'''
+|86
+|3
+|2016–present
+|-
+|4
+|align=left|[[Alfredo Pacheco]]
+|85
+|7
+|2002–2013
+|-
+|5
+|align=left|[[Dennis Alas]]
+|83
+|3
+|2001–2012
+|-
+|6
+|align=left|[[Leonel Cárcamo]]
+|82
+|0
+|1988–2000
+|-
+|7
+|align=left|[[Marvin González]]
+|81
+|1
+|2002–2011
+|-
+|rowspan=2|8
+|align=left|[[Rudis Corrales]]
+|78
+|17
+|1999–2011
+|-
+|align=left|[[Ramón Sánchez (footballer)|Ramón Sánchez]]
+|78
+|2
+|2003–2012
+|-
+|10
+|align=left|[[Osael Romero]]
+|77
+|16
+|2007–2013
+|-
+|}
+
+===Top goalscorers===
+
+{| class="wikitable sortable" style="text-align:center;"
+|-
+!width=30px|Rank
+! style="width:150px;"|Player
+!width=50px|Goals
+!width=50px|Caps
+!width=50px|Ratio
+! style="width:100px;"|Career
+|-
+|1
+|align=left|[[Raúl Díaz Arce]]
+|39
+|72
+|{{#expr:39/72 round 2}}
+|1991–2000
+|-
+|2
+|align=left|[[Rodolfo Zelaya]]
+|23
+|53
+|{{#expr:23/53 round 2}}
+|2008–2019
+|-
+|3
+|align=left|[[Mágico González|Jorge "Mágico" González]]
+|21
+|62
+|{{#expr:21/62 round 2}}
+|1976–1998
+|-
+|4
+|align=left|'''[[Nelson Bonilla]]'''
+|20
+|65
+|{{#expr:20/65 round 2}}
+|2012–present
+|-
+|rowspan=2|5
+|align=left|[[Juan Francisco Barraza]]
+|19
+|40
+|{{#expr:19/40 round 2}}
+|1953–1969
+|-
+|align=left|[[José María Rivas]]
+|19
+|47
+|{{#expr:19/47 round 2}}
+|1979–1989
+|-
+|7
+|align=left|[[Rudis Corrales]]
+|17
+|78
+|{{#expr:17/78 round 2}}
+|2001–2011
+|-
+|rowspan=2|8
+|align=left|[[Luis Ramírez Zapata]]
+|16
+|58
+|{{#expr:16/58 round 2}}
+|1971–1989
+|-
+|align=left|[[Osael Romero]]
+|16
+|77
+|{{#expr:16/77 round 2}}
+|2007–2013
+|-
+|rowspan=3|10
+|align=left|[[Miguel Cruz]]
+|15
+|14
+|{{#expr:15/14 round 2}}
+|1935–1950
+|-
+|align=left|[[Eliseo Quintanilla]]
+|15
+|68
+|{{#expr:15/68 round 2}}
+|2006–2012
+|-
+|align=left|[[Guillermo Rivera (footballer)|Guillermo Rivera]]
+|15
+|76
+|{{#expr:15/76 round 2}}
+|1988–2000
+|}
+
+==Competitive record==
+
+===FIFA World Cup===
+{{main|El Salvador at the FIFA World Cup}}
+
+{| class="wikitable" style="text-align:center;"
+!colspan=10|[[FIFA World Cup]] record
+!width=1% rowspan=28|
+!colspan=7|[[FIFA World Cup qualification|Qualification]] record
+|-
+!Year
+!Round
+!Position
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!Squad
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+|-
+| {{flagicon|Uruguay}} [[1930 FIFA World Cup|1930]]
+| colspan=9 rowspan=2|''Not a FIFA member''
+| colspan=7 rowspan=2|''Not a FIFA member''
+|-
+| {{flagicon|Italy|1861}} [[1934 FIFA World Cup|1934]]
+|-
+| {{flagicon|France|1794}} [[1938 FIFA World Cup|1938]]
+| colspan=9|''Did not participate''
+| colspan=7|''Did not participate''
+|-
+| {{flagicon|Brazil|1889}} [[1950 FIFA World Cup|1950]]
+| colspan=9|''Withdrew''<ref name="Withdrew" group="note" />
+| colspan=7|''Withdrew''
+|-
+| {{flagicon|Switzerland}} [[1954 FIFA World Cup|1954]]
+| colspan=9 rowspan=4|''Did not participate''
+| colspan=7 rowspan=4|''Did not participate''
+|-
+| {{flagicon|Sweden}} [[1958 FIFA World Cup|1958]]
+|-
+| {{flagicon|Chile}} [[1962 FIFA World Cup|1962]]
+|-
+| {{flagicon|England}} [[1966 FIFA World Cup|1966]]
+|-
+| {{flagicon|Mexico}} [[1970 FIFA World Cup|1970]]
+| Group stage
+| 16th
+| 3
+| 0
+| 0
+| 3
+| 0
+| 9
+| [[1970 FIFA World Cup squads#El Salvador|Squad]]
+| 10
+| 7
+| 0
+| 3
+| 19
+| 12
+|-
+| {{flagicon|West Germany}} [[1974 FIFA World Cup|1974]]
+| colspan=9 rowspan=2|''Did not qualify''
+| 2
+| 0
+| 0
+| 2
+| 0
+| 2
+|-
+| {{flagicon|Argentina}} [[1978 FIFA World Cup|1978]]
+| 11
+| 4
+| 4
+| 3
+| 18
+| 16
+|-
+| {{flagicon|Spain}} [[1982 FIFA World Cup|1982]]
+| Group stage
+| 24th
+| 3
+| 0
+| 0
+| 3
+| 1
+| 13
+| [[1982 FIFA World Cup squads#El Salvador|Squad]]
+| 13
+| 7
+| 4
+| 2
+| 14
+| 6
+|-
+| {{flagicon|Mexico}} [[1986 FIFA World Cup|1986]]
+| colspan=9 rowspan=11|''Did not qualify''
+| 6
+| 4
+| 1
+| 1
+| 15
+| 2
+|-
+| {{flagicon|Italy}} [[1990 FIFA World Cup|1990]]
+| 8
+| 2
+| 2
+| 4
+| 8
+| 8
+|-
+| {{flagicon|United States}} [[1994 FIFA World Cup|1994]]
+| 14
+| 8
+| 1
+| 5
+| 28
+| 18
+|-
+| {{flagicon|France|1974}} [[1998 FIFA World Cup|1998]]
+| 16
+| 5
+| 5
+| 6
+| 23
+| 22
+|-
+| {{flagicon|South Korea|1997}} {{flagicon|Japan}} [[2002 FIFA World Cup|2002]]
+| 10
+| 6
+| 1
+| 3
+| 23
+| 15
+|-
+| {{flagicon|Germany}} [[2006 FIFA World Cup|2006]]
+| 8
+| 2
+| 2
+| 4
+| 6
+| 14
+|-
+| {{flagicon|South Africa}} [[2010 FIFA World Cup|2010]]
+| 20
+| 8
+| 3
+| 9
+| 39
+| 21
+|-
+| {{flagicon|Brazil}} [[2014 FIFA World Cup|2014]]
+| 12
+| 7
+| 2
+| 3
+| 28
+| 16
+|-
+| {{flagicon|Russia}} [[2018 FIFA World Cup|2018]]
+| 10
+| 3
+| 3
+| 4
+| 12
+| 16
+|-
+| {{flagicon|Qatar}} [[2022 FIFA World Cup|2022]]
+| 20
+| 7
+| 5
+| 8
+| 27
+| 19
+|-
+| {{flagicon|Canada}} {{flagicon|Mexico}} {{flagicon|United States}} [[2026 FIFA World Cup|2026]]
+| 10
+| 3
+| 2
+| 5
+| 9
+| 13
+|-
+| {{flagicon|Morocco}} {{flagicon|Portugal}} {{flagicon|Spain}} [[2030 FIFA World Cup|2030]]
+| colspan=9 rowspan=2|''To be determined''
+| colspan=7 rowspan=2|''To be determined''
+|-
+| {{flagicon|Saudi Arabia}} [[2034 FIFA World Cup|2034]]
+|-
+!Total
+!Group stage
+!{{Tooltip|2/21|Number of tournaments qualified for}}
+!6
+!0
+!0
+!6
+!1
+!22
+!—
+!170
+!73
+!35
+!62
+!269
+!200
+|}
+{|class="wikitable collapsible collapsed" style="text-align:center; font-size:90%;"
+|-
+!colspan=2|FIFA World Cup history
+|-
+!First match
+|{{fb|BEL}} 3–0 {{fb-rt|SLV}}<br>(3 June 1970; [[Mexico City]], Mexico)
+|-
+!Biggest win
+|—
+|-
+!Biggest defeat
+|{{fb|HUN}} 10–1 {{fb-rt|SLV}}<br>(15 June 1982; [[Elche]], Spain)
+|-
+!Best result
+|Group stage ([[1970 FIFA World Cup|1970]], [[1986 FIFA World Cup|1986]])
+|-
+!Worst result
+|—
+|}
+
+===CONCACAF Gold Cup===
+{{main|El Salvador at the CONCACAF Gold Cup}}
+{| class="wikitable" style="text-align:center;"
+|-
+!colspan=10|[[CONCACAF Championship]] / [[CONCACAF Gold Cup|Gold Cup]] record
+!width=1% rowspan=31|
+!colspan=6|[[CONCACAF Gold Cup qualification|Qualification]] record
+|-
+!Year
+!Round
+!Position
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!Squad
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+|- style="background:silver;"
+|style="border: 3px solid red"|{{flagicon|El Salvador}} [[1963 CONCACAF Championship|1963]]||'''Runners-up'''||'''2nd'''||'''7'''||'''3'''||'''3'''||'''1'''||'''17'''||'''11'''
+|—
+|colspan=6|''Qualified as hosts''
+|-
+|- style="background:#9acdff;"
+| {{flagicon|Guatemala|1871}} [[1965 CONCACAF Championship|1965]]||Fourth place||4th||5||2||1||2||7||9
+|—
+|2
+|2
+|0
+|0
+|7
+|1
+|-
+| {{flagicon|Honduras|1949}} [[1967 CONCACAF Championship|1967]]||colspan=9|''Did not participate''
+|colspan=6|''Did not participate''
+|-
+| {{flagicon|Costa Rica}} [[1969 CONCACAF Championship|1969]]||colspan=9|''Banned''
+|colspan=6|''Banned''
+|-
+| {{flagicon|Trinidad and Tobago}} [[1971 CONCACAF Championship|1971]]||colspan=9|''Withdrew''
+|colspan=6|''Withdrew''
+|-
+| {{flagicon|Haiti|1964}} [[1973 CONCACAF Championship|1973]]||colspan=9|''Did not qualify''
+|2
+|0
+|0
+|2
+|0
+|2
+|- style="background:#c96;"
+| {{flagicon|Mexico}} [[1977 CONCACAF Championship|1977]]||Third place||3rd||5||2||1||2||8||9
+|—
+|6
+|2
+|3
+|1
+|10
+|7
+|- style="background:silver;"
+| {{flagicon|Honduras|1949}} [[1981 CONCACAF Championship|1981]]||'''Runners-up'''||'''2nd'''||'''5'''||'''2'''||'''2'''||'''1'''||'''2'''||'''1'''
+|—
+|8
+|5
+|2
+|1
+|12
+|5
+|-
+|- style="background:#9acdff;"
+| [[1985 CONCACAF Championship|1985]]||Fourth place||4th||4||2||1||1||7||2
+|—
+|2
+|2
+|0
+|0
+|8
+|0
+|-
+| [[1989 CONCACAF Championship|1989]]||Round-robin||5th||6||0||2||4||2||8
+|—
+|2
+|2
+|0
+|0
+|6
+|0
+|-
+| {{flagicon|United States}} [[1991 CONCACAF Gold Cup|1991]]||colspan=9 rowspan=2|''Did not qualify''
+|5
+|2
+|1
+|2
+|7
+|11
+|-
+| {{flagicon|Mexico}} {{flagicon|United States}} [[1993 CONCACAF Gold Cup|1993]]
+|3
+|0
+|1
+|2
+|1
+|5
+|-
+| {{flagicon|United States}} [[1996 CONCACAF Gold Cup|1996]]||rowspan=2|Group stage||6th||2||1||0||1||3||4
+|[[1996 CONCACAF Gold Cup squads#El Salvador|Squad]]
+|4
+|3
+|0
+|1
+|7
+|3
+|-
+| {{flagicon|United States}} [[1998 CONCACAF Gold Cup|1998]]||8th||3||0||1||2||0||6
+|[[1998 CONCACAF Gold Cup squads#El Salvador|Squad]]
+|5
+|1
+|1
+|3
+|2
+|5
+|-
+| {{flagicon|United States}} [[2000 CONCACAF Gold Cup|2000]]||colspan=9|''Did not qualify''
+|8
+|1
+|2
+|5
+|6
+|15
+|-
+| {{flagicon|United States}} [[2002 CONCACAF Gold Cup|2002]]||rowspan=2|Quarter-finals||8th||3||1||0||2||1||5
+|[[2002 CONCACAF Gold Cup squads#El Salvador|Squad]]
+|6
+|2
+|4
+|0
+|8
+|4
+|-
+| {{flagicon|Mexico}} {{flagicon|United States}} [[2003 CONCACAF Gold Cup|2003]]||6th||3||1||0||2||3||7
+|[[2003 CONCACAF Gold Cup squads#El Salvador|Squad]]
+|5
+|3
+|0
+|2
+|6
+|4
+|-
+| {{flagicon|United States}} [[2005 CONCACAF Gold Cup|2005]]||colspan=9|''Did not qualify''
+|2
+|0
+|0
+|2
+|1
+|3
+|-
+| {{flagicon|United States}} [[2007 CONCACAF Gold Cup|2007]]||rowspan=2|Group stage||9th||3||1||0||2||2||6
+|[[2007 CONCACAF Gold Cup squads#El Salvador|Squad]]
+|5
+|2
+|1
+|2
+|4
+|5
+|-
+| {{flagicon|United States}} [[2009 CONCACAF Gold Cup|2009]]||9th||3||1||0||2||2||3
+|[[2009 CONCACAF Gold Cup squads#El Salvador|Squad]]
+|5
+|1
+|1
+|3
+|5
+|8
+|-
+| {{flagicon|United States}} [[2011 CONCACAF Gold Cup|2011]]||rowspan=2|Quarter-finals||7th||4||1||2||1||8||8
+|[[2011 CONCACAF Gold Cup squads#El Salvador|Squad]]
+|5
+|2
+|1
+|2
+|7
+|6
+|-
+| {{flagicon|United States}} [[2013 CONCACAF Gold Cup|2013]]||7th||4||1||1||2||4||8
+|[[2013 CONCACAF Gold Cup squads#El Salvador|Squad]]
+|4
+|1
+|2
+|1
+|2
+|2
+|-
+| {{flagicon|Canada}} {{flagicon|United States}} [[2015 CONCACAF Gold Cup|2015]]||Group stage||9th||3||0||2||1||1||2
+|[[2015 CONCACAF Gold Cup squads#El Salvador|Squad]]
+|4
+|2
+|0
+|2
+|4
+|3
+|-
+| {{flagicon|United States}} [[2017 CONCACAF Gold Cup|2017]]||Quarter-finals||8th||4||1||1||2||4||6
+|[[2017 CONCACAF Gold Cup squads#El Salvador|Squad]]
+|5
+|2
+|1
+|2
+|5
+|4
+|-
+| {{flagicon|Costa Rica}} {{flagicon|Jamaica}} {{flagicon|United States}} [[2019 CONCACAF Gold Cup|2019]]||Group stage||9th||3||1||1||1||1||4
+|[[2019 CONCACAF Gold Cup squads#El Salvador|Squad]]
+|4
+|3
+|0
+|1
+|7
+|2
+|-
+|{{flagicon|United States}} [[2021 CONCACAF Gold Cup|2021]]||Quarter-finals||6th||4||2||0||2||6||4
+|[[2021 CONCACAF Gold Cup squads#El Salvador|Squad]]
+|6
+|5
+|0
+|1
+|10
+|1
+|-
+|{{flagicon|Canada}} {{flagicon|United States}} [[2023 CONCACAF Gold Cup|2023]]||rowspan=2|Group stage||14th||3||0||2||1||3||4
+|[[2023 CONCACAF Gold Cup squads#El Salvador|Squad]]
+|4
+|1
+|2
+|1
+|6
+|5
+|-
+|{{flagicon|Canada}} {{flagicon|United States}} [[2025 CONCACAF Gold Cup|2025]]||15th||3||0||1||2||0||4
+|[[2025 CONCACAF Gold Cup squads#El Salvador|Squad]]
+|6
+|5
+|0
+|1
+|12
+|6
+|-
+!Total||Runners-up||20/28||77||22||21||34||81||111||—||108||49||22||37||143||107
+|}
+{| class="wikitable collapsible collapsed" style="text-align: center;font-size:90%;"
+|-
+!colspan=2|CONCACAF Championship & Gold Cup history
+|-
+!First match
+|{{fb|SLV}} 1–1 {{fb-rt|PAN}}<br />(23 March 1963; [[San Salvador]], El Salvador)
+|-
+!Biggest win
+|{{fb|SLV}} 6–1 {{fb-rt|NCA}}<br />(25 March 1963; [[San Salvador]], El Salvador)<br />{{fb|SLV}} 6–1 {{fb-rt|CUB}}<br />(12 June 2011; [[Chicago]], United States)
+|-
+!Biggest defeat
+|{{fb|MEX}} 5–0 {{fb-rt|SLV}}<br />(5 June 2011; [[Arlington, Texas|Arlington]], United States)
+|-
+!Best result
+|'''Runners-up''' ([[1963 CONCACAF Championship|1963]], [[1981 CONCACAF Championship|1981]])
+|-
+!Worst result
+|Group stage ([[1996 CONCACAF Gold Cup|1996]], [[1998 CONCACAF Gold Cup|1998]], [[2007 CONCACAF Gold Cup|2007]], [[2009 CONCACAF Gold Cup|2009]], [[2015 CONCACAF Gold Cup|2015]], [[2019 CONCACAF Gold Cup|2019]],<br>[[2023 CONCACAF Gold Cup|2023]], [[2025 CONCACAF Gold Cup|2025]])
+|}
+
+===CONCACAF Nations League===
+{| class="wikitable" style="text-align: center;"
+|-
+! colspan=21|[[CONCACAF Nations League]] record
+|-
+! colspan=10|League phase
+! rowspan=8|
+! colspan=9|Finals
+|-
+!Season
+!Division
+!Group
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!{{Tooltip|P/R|Promotion/relegation at end of season}}
+!Year
+!Result
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!{{Tooltip|Squad|Finals Squad Only}}
+|-
+|[[2019–20 CONCACAF Nations League|2019–20]]
+|[[2019–20 CONCACAF Nations League B|B]]
+|[[2019–20 CONCACAF Nations League B#Group B|B]]
+|6
+|5
+|0
+|1
+|10
+|1
+|{{rise}}
+|{{flagicon|USA}} [[2021 CONCACAF Nations League Finals|2021]]
+|colspan=8|''Ineligible''
+|-
+|[[2022–23 CONCACAF Nations League|2022–23]]
+|[[2022–23 CONCACAF Nations League A|A]]
+|[[2022–23 CONCACAF Nations League A#Group D|D]]
+|4
+|1
+|2
+|1
+|6
+|5
+|{{same position}}
+|{{flagicon|USA}} [[2023 CONCACAF Nations League Finals|2023]]
+|colspan=8 rowspan=2|''Did not qualify''
+|-
+|[[2023–24 CONCACAF Nations League|2023–24]]
+|[[2023–24 CONCACAF Nations League A|A]]
+|[[2023–24 CONCACAF Nations League A#Group A|A]]
+|4
+|0
+|1
+|3
+|2
+|6
+|{{fall}}
+|{{flagicon|USA}} [[2024 CONCACAF Nations League Finals|2024]]
+|-
+|[[2024–25 CONCACAF Nations League|2024–25]]
+|[[2024–25 CONCACAF Nations League B|B]]
+|[[2024–25 CONCACAF Nations League B#Group A|A]]
+|6
+|5
+|0
+|1
+|12
+|6
+|{{rise}}
+|{{flagicon|USA}} [[2025 CONCACAF Nations League Finals|2025]]
+|colspan=8|''Ineligible''
+|-
+|[[2026–27 CONCACAF Nations League|2026–27]]
+|''A''
+|colspan=8|''To be determined''
+|{{flagicon image|Flag of none.svg}} ''2027''
+|colspan=8|''To be determined''
+|-
+!Total
+!—
+!—
+!20
+!11
+!3
+!6
+!30
+!18
+!—
+!Total
+!0 Titles
+!—
+!—
+!—
+!—
+!—
+!—
+!—
+|}
+{| class="wikitable collapsible collapsed" style="text-align: center;font-size:90%;"
+|-
+!colspan=2|CONCACAF Nations League history
+|-
+!First match
+|{{fb|SLV}} 3–0 {{fb-rt|LCA}}<br>(7 September 2019; [[San Salvador]], El Salvador)
+|-
+!Biggest win
+|{{fb|SLV}} 3–0 {{fb-rt|LCA}}<br>(7 September 2019; [[San Salvador]], El Salvador)<br>{{fb|MSR}} 1–4 {{fb-rt|SLV}}<br>(5 September 2024; [[Rincon, Bonaire|Rincon]], Bonaire)
+|-
+!Biggest defeat
+|{{fb|GUA}} 2–0 {{fb-rt|SLV}}<br>(7 September 2023; [[Guatemala City]], Guatemala)
+|-
+!Best result
+|—
+|-
+!Worst result
+|—
+|}
+
+===Copa Centroamericana===
+{| class="wikitable" style="text-align:center;"
+|-
+!colspan=10|[[Copa Centroamericana]] record
+|-
+!Year
+!Round
+!Position
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+|- style="background:#9acdff;"
+| {{flagicon|Costa Rica}} [[UNCAF Nations Cup 1991|1991]]||Fourth place||4th||3||0||1||2||2||9
+|- style="background:#9acdff;"
+| {{flagicon|Honduras|1949}} [[UNCAF Nations Cup 1993|1993]]||Fourth place||4th||3||0||1||2||1||5
+|- style="background:#c96;"
+|style="border: 3px solid red"|{{flagicon|El Salvador}} [[UNCAF Nations Cup 1995|1995]]||Third place||3rd||4||2||0||2||5||5
+|- style="background:#c96;"
+| {{flagicon|Guatemala}} [[UNCAF Nations Cup 1997|1997]]||Third place||3rd||5||3||1||1||5||5
+|- style="background:#9acdff;"
+| {{flagicon|Costa Rica}} [[UNCAF Nations Cup 1999|1999]]||Fourth place||4th||5||1||1||3||3||9
+|- style="background:#c96;"
+| {{flagicon|Honduras|1949}} [[UNCAF Nations Cup 2001|2001]]||Third place||3rd||6||2||4||0||8||4
+|- style="background:#c96;"
+| {{flagicon|Panama}} [[UNCAF Nations Cup 2003|2003]]||Third place||3rd||5||3||0||2||6||4
+|-
+| {{flagicon|Guatemala}} [[UNCAF Nations Cup 2005|2005]]||Round 1||6th||2||0||0||2||1||3
+|- style="background:#9acdff;"
+|style="border: 3px solid red"|{{flagicon|El Salvador}} [[UNCAF Nations Cup 2007|2007]]||Fourth place||4th||5||2||1||2||4||5
+|- style="background:#9acdff;"
+| {{flagicon|Honduras|1949}} [[UNCAF Nations Cup 2009|2009]]||Fourth place||4th||5||1||1||3||5||6
+|- style="background:#9acdff;"
+| {{flagicon|Panama}} [[2011 Copa Centroamericana|2011]]||Fourth place||4th||5||2||1||2||7||6
+|- style="background:#c96;"
+| {{flagicon|Costa Rica}} [[2013 Copa Centroamericana|2013]]||Third place||3rd||4||1||2||1||2||2
+|- style="background:#9acdff;"
+| {{flagicon|United States}} [[2014 Copa Centroamericana|2014]]||Fourth place||4th||4||2||0||2||4||3
+|- style="background:#c96;"
+| {{flagicon|Panama}} [[2017 Copa Centroamericana|2017]]||Third place||3rd||5||2||1||2||5||4
+|-
+!Total!!Third place!!14/14!!57!!19!!14!!24!!54!!67
+|}
+
+===CCCF Championship===
+{| class="wikitable" style="text-align: center;"
+|-
+!colspan=10|[[CCCF Championship]] record
+|-
+!Year
+!Round
+!Position
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+|- style="background:silver;"
+| {{flagicon|Costa Rica}} [[1941 CCCF Championship|1941]]||'''Runners-up'''||'''2nd'''||'''4'''||'''2'''||'''1'''||'''1'''||'''15'''||'''8'''
+|- style="background:gold;"
+|style="border: 3px solid red"|{{flagicon|El Salvador}} [[1943 CCCF Championship|1943]]||'''Champions'''||'''1st'''||'''6'''||'''4'''||'''1'''||'''1'''||'''28'''||'''11'''
+|- style="background:#c96;"
+| {{flagicon|Costa Rica}} [[1946 CCCF Championship|1946]]||Third place||3rd||5||3||0||2||15||11
+|-
+| {{flagicon|Guatemala|1871}} [[1948 CCCF Championship|1948]]||Fifth place||5th||8||2||1||5||6||17
+|-
+| {{flagicon|Panama}} [[1951 CCCF Championship|1951]]||colspan=8|''Did not enter''
+|-
+| {{flagicon|Costa Rica}} [[1953 CCCF Championship|1953]]||Fifth place||5th||6||2||1||3||10||14
+|- style="background:#9acdff;"
+| {{flagicon|Honduras|1949}} [[1955 CCCF Championship|1955]]||Fourth place||4th||6||3||0||3||8||13
+|-
+| {{flagicon|Netherlands Antilles}} [[1957 CCCF Championship|1957]]||colspan=9|''Did not enter''
+|-
+| {{flagicon|Cuba}} [[1960 CCCF Championship|1960]]||colspan=9|''Withdrew''
+|- style="background:silver;"
+| {{flagicon|Costa Rica}} [[1961 CCCF Championship|1961]]||'''Runners-up'''||'''2nd'''||'''6'''||'''4'''||'''1'''||'''1'''||'''18'''||'''7'''
+|-
+!Total!!1 Title!!7/10!!41!!20!!5!!16!!100!!81
+|}
+
+===Olympic Games===
+{| class="wikitable" style="text-align: center;"
+|-
+!colspan=10|[[Football at the Summer Olympics|Olympic Games]] record
+|-
+!Year
+!Round
+!Position
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!Squad
+|-
+| {{flagicon|France|1794}} [[Football at the 1900 Summer Olympics|1900]]||colspan=9 rowspan=2|''Only club teams participated''
+|-
+| {{flagicon|United States|1896}} [[Football at the 1904 Summer Olympics|1904]]
+|-
+| {{flagicon|United Kingdom}} [[Football at the 1908 Summer Olympics|1908]]||colspan=9 rowspan=5|''No national representative''
+|-
+| {{flagicon|Sweden}} [[Football at the 1912 Summer Olympics|1912]]
+|-
+| {{flagicon|Belgium}} [[Football at the 1920 Summer Olympics|1920]]
+|-
+| {{flagicon|France|1794}} [[Football at the 1924 Summer Olympics|1924]]
+|-
+| {{flagicon|Netherlands}} [[Football at the 1928 Summer Olympics|1928]]
+|-
+| {{flagicon|Nazi Germany}} [[Football at the 1936 Summer Olympics|1936]]||colspan=9|''Not an IOC member''
+|-
+| {{flagicon|United Kingdom}} [[Football at the 1948 Summer Olympics|1948]]||colspan=9 rowspan=5|''Did not participate''
+|-
+| {{flagicon|Finland}} [[Football at the 1952 Summer Olympics|1952]]
+|-
+| {{flagicon|Australia}} [[Association football at the 1956 Summer Olympics|1956]]
+|-
+| {{flagicon|Italy}} [[Football at the 1960 Summer Olympics|1960]]
+|-
+| {{flagicon|Japan|1947}} [[Football at the 1964 Summer Olympics|1964]]
+|-
+| {{flagicon|Mexico}} [[Football at the 1968 Summer Olympics|1968]]||Group stage||15th||3||0||1||2||2||8
+|[[Football at the 1968 Summer Olympics – Men's team squads#El Salvador|Squad]]
+|-
+| {{flagicon|West Germany}} [[Football at the 1972 Summer Olympics|1972]]||colspan=9 rowspan=4|''Did not participate''
+|-
+| {{flagicon|Canada}} [[Football at the 1976 Summer Olympics|1976]]
+|-
+| {{flagicon|Soviet Union}} [[Football at the 1980 Summer Olympics|1980]]
+|-
+| {{flagicon|United States}} [[Football at the 1984 Summer Olympics|1984]]
+|-
+| {{flagicon|South Korea|1984}} [[Football at the 1988 Summer Olympics|1988]]||colspan=9|''Did not qualify''
+|-
+|Since [[Football at the 1992 Summer Olympics|1992]]||colspan=9|''See [[El Salvador national under-23 football team]]''
+|-
+!Total||Group stage||1/11||3||0||1||2||2||8||—
+|}
+
+===Pan American Games===
+{| class="wikitable" style="text-align:center"
+|-
+!colspan=9|[[Football at the Pan American Games|Pan American Games]] record
+|-
+!Year
+!Round
+!Position
+!{{Abbr|Pld|Games played}}
+!{{Abbr|W|Won}}
+!{{Abbr|D|Drawn}}
+!{{Abbr|L|Lost}}
+!{{Abbr|GF|Goals for}}
+!{{Abbr|GA|Goals against}}
+|-
+| {{flagicon|Argentina}} [[Football at the 1951 Pan American Games|1951]]||colspan=8 rowspan=6|''Did not qualify''
+|-
+| {{flagicon|Mexico|1934}} [[Football at the 1955 Pan American Games|1955]]
+|-
+| {{flagicon|United States|1959}} [[Football at the 1959 Pan American Games|1959]]
+|-
+|{{flagicon|Brazil|1960}} [[Football at the 1963 Pan American Games|1963]]
+|-
+| {{flagicon|Canada}} [[Football at the 1967 Pan American Games|1967]]
+|-
+| {{flagicon|Colombia}} [[Football at the 1971 Pan American Games|1971]]
+|-
+| {{flagicon|Mexico}} [[Football at the 1975 Pan American Games|1975]]||Preliminary round||10th||3||1||1||1||4||3
+|-
+| {{flagicon|Puerto Rico|1952}} [[Football at the 1979 Pan American Games|1979]]||colspan=8 rowspan=2|''Did not qualify''
+|-
+| {{flagicon|Venezuela|1954}} [[Football at the 1983 Pan American Games|1983]]
+|-
+| {{flagicon|United States}} [[Football at the 1987 Pan American Games|1987]]||Preliminary round||7th||3||1||1||1||1||1
+|-
+| {{flagicon|Cuba}} [[Football at the 1991 Pan American Games|1991]]||colspan=8 rowspan=2|''Did not qualify''
+|-
+| {{flagicon|Argentina}} [[Football at the 1995 Pan American Games|1995]]
+|-
+|Since [[Football at the 1999 Pan American Games|1999]]||colspan=8|''See [[El Salvador national under-23 football team]]''
+|-
+!Total||Preliminary round||2/12||6||2||2||2||5||4
+|}
+
+===Central American and Caribbean Games===
+{| class="wikitable" style="text-align:center;"
+|-
+!colspan=9|[[Football at the Central American and Caribbean Games|Central American and Caribbean Games]] record
+|-
+!Year
+!Round
+!Position
+!{{Abbr|Pld|Games played}}
+!{{Abbr|W|Won}}
+!{{Abbr|D|Drawn}}
+!{{Abbr|L|Lost}}
+!{{Abbr|GF|Goals for}}
+!{{Abbr|GA|Goals against}}
+|- style="background:#9acdff;"
+| {{flagicon|Cuba}} [[Football at the 1930 Central American and Caribbean Games|1930]]||Fourth place||4th||5||1||0||4||13||25
+|- style="background:#c96;"
+|style="border: 3px solid red"|{{flagicon|El Salvador}} [[Football at the 1935 Central American and Caribbean Games|1935]]||Bronze medal||3rd||5||2||0||3||15||20
+|- style="background:#9acdff;"
+| {{flagicon|Panama}} [[Football at the 1938 Central American and Caribbean Games|1938]]||Fourth place||4th||5||2||0||3||7||19
+|-
+| {{flagicon|Colombia}} [[Football at the 1946 Central American and Caribbean Games|1946]]||colspan=8|''Did not qualify''
+|- style="background:#9acdff;"
+| {{flagicon|Guatemala|1871}} [[Football at the 1950 Central American and Caribbean Games|1950]]||Fourth place||4th||3||1||0||2||4||5
+|- style="background:gold;"
+| {{flagicon|Mexico}} [[Football at the 1954 Central American and Caribbean Games|1954]]||'''Gold medal'''||'''1st'''||'''4'''||'''3'''||'''1'''||'''0'''||'''9'''||'''5'''
+|-
+| {{flagicon|Venezuela|1954}} [[Football at the 1959 Central American and Caribbean Games|1959]]||colspan=8 rowspan=2|''Did not qualify''
+|-
+| {{flagicon|Jamaica}} [[Football at the 1962 Central American and Caribbean Games|1962]]
+|- style="background:#9acdff;"
+| {{flagicon|Puerto Rico|1952}} [[Football at the 1966 Central American and Caribbean Games|1966]]||Fourth place||4th||5||1||2||2||5||9
+|-
+| {{flagicon|Panama}} [[Football at the 1970 Central American and Caribbean Games|1970]]||colspan=8 rowspan=8 rowspan=2|''Did not qualify''
+|-
+| {{flagicon|Dominican Republic}} [[Football at the 1974 Central American and Caribbean Games|1974]]
+|-
+| {{flagicon|Colombia}} [[Football at the 1978 Central American and Caribbean Games|1978]]||Group stage||9th||5||1||0||4||2||21
+|-
+| {{flagicon|Cuba}} [[Football at the 1982 Central American and Caribbean Games|1982]]||colspan=8 rowspan=2|''Did not qualify''
+|-
+| {{flagicon|Dominican Republic}} [[Football at the 1986 Central American and Caribbean Games|1986]]
+|-
+|Since [[Football at the 1990 Central American and Caribbean Games|1990]]||colspan=8|''Youth teams participated''
+|-
+!Total!!1 Gold medal!!7/14!!32!!11!!3!!18!!55!!83
+|}
+
+==Head-to-head record==
+{{main|El Salvador national football team records and statistics}}
+{{updated|6 June 2026}}.<ref>{{Cite web|url=http://eloratings.net/El_Salvador|title=World Football Elo Ratings}}</ref>
+
+{{legend2|#CCFFCC|Positive Record|border=1px solid #AAAAAA}}
+{{legend2|#FFFFCC|Neutral Record|border=1px solid #AAAAAA}}
+{{legend2|#FFDACC|Negative Record|border=1px solid #AAAAAA}}
+{| class="wikitable sortable collapsible collapsed" style="text-align: center; font-size: 100%;"
+|- style="color:black;"
+! style="width:145px;"|Opponents
+!width=30|{{Tooltip|Pld|Games played}}
+!width=30|{{Tooltip|W|Won}}
+!width=30|{{Tooltip|D|Drawn}}
+!width=30|{{Tooltip|L|Lost}}
+!width=35|{{Tooltip|GF|Goals for}}
+!width=35|{{Tooltip|GA|Goals against}}
+!width=35|{{Tooltip|GD|Goal difference}}
+|-
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|Anguilla}} || 3 || 3 || 0 || 0 || 19 || 0 || +19
+|-
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|Antigua and Barbuda}} || 1 || 1 || 0 || 0 || 3 || 0 || +3
+|-
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|Argentina}} || 3 || 0 || 0 || 3 || 0 || 7 || −7
+|-
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|Armenia}} || 1 || 0 || 0 || 1 || 0 || 4 || −4
+|-
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|Aruba}} || 1 || 1 || 0 || 0 || 2 || 0 || +2
+|-
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|Barbados}} || 1 || 1 || 0 || 0 || 3 || 0 || +3
+|-
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|Belgium}} || 2 || 0 || 0 || 2 || 0 || 4 || −4
+|-
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|Belize}} || 9 || 9 || 0 || 0 || 26 || 6 || +20
+|-
+|- bgcolor=FFFACD
+| style="text-align:left;"| {{fb|Bermuda}} || 5 || 2 || 1 || 2 || 8 || 6 || +2
+|-
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|Bolivia}} || 5 || 1 || 2 || 2 || 6 || 9 || −3
+|-
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|Bonaire}} || 3 || 2 || 1 || 0 || 4 || 2 || +2
+|-
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|Brazil}} || 3 || 0 || 0 || 3 || 0 || 13 || −13
+|-
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|Canada}} || 18 || 4 || 4 || 10 || 13 || 24 || −11
+|-
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|Cayman Islands}} || 2 || 2 || 0 || 0 || 8 || 1 || +7
+|-
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|Chile}} || 3 || 0 || 0 || 3 || 0 || 3 || −3
+|-
+|- bgcolor=FFFACD
+| style="text-align:left;"| {{fb|China}} || 1 || 0 || 1 || 0 || 2 || 2 || 0
+|-
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|Colombia}} || 8 || 1 || 2 || 5 || 9 || 18 || −9
+|-
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|Costa Rica}} || 60 || 9 || 13 || 38 || 50 || 130 || −80
+|-
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|Cuba}} || 9 || 7 || 2 || 0 || 24 || 4 || +20
+|-
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|Curacao}}{{efn|Includes matches against the [[Netherlands Antilles national football team|Netherlands Antilles]].}} || 23 || 12 || 9 || 2 || 31 || 17 || +14
+|-
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|Denmark}} || 1 || 1 || 0 || 0 || 1 || 0 || +1
+|-
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|Dominican Republic}} || 5 || 3 || 1 || 1 || 9 || 6 || +3
+|-
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|Ecuador}} || 10 || 1 || 2 || 7 || 8 || 31 || −23
+|-
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|Estonia}} || 1 || 0 || 0 || 1 || 0 || 2 || −2
+|-
+|- bgcolor=FFFACD
+| style="text-align:left;"| {{fb|Ghana}} || 1 || 0 || 1 || 0 || 1 || 1 || 0
+|-
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|Greece}} || 2 || 0 || 0 || 2 || 1 || 6 || −5
+|-
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|Grenada}} || 3 || 2 || 1 || 0 || 7 || 3 || +4
+|-
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|Guatemala}} || 89 || 23 || 27 || 39 || 75 || 104 || −29
+|-
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|Guyana}} || 2 || 1 || 1 || 0 || 5 || 4 || +1
+|-
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|Haiti}} || 27 || 15 || 6 || 6 || 36 || 18 || +18
+|-
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|Honduras}} || [[El Salvador–Honduras football rivalry|78]]|| 18 || 21 || 39 || 76 || 126 || −50
+|-
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|Hungary}} || 4 || 0 || 1 || 3 || 3 || 17 || −14
+|-
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|Iceland}} || 1 || 0 || 0 || 1 || 0 || 1 || −1
+|-
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|Israel}} || 1 || 0 || 0 || 1 || 1 || 3 || −2
+|-
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|Ivory Coast}} || 1 || 0 || 0 || 1 || 1 || 2 || −1
+|-
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|Jamaica}} || 26 || 6 || 10 || 10 || 18 || 27 || −9
+|-
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|Japan}} || 2 || 0 || 0 || 2 || 0 || 8 || −8
+|-
+|- bgcolor=FFFACD
+| style="text-align:left;"| {{fb|Martinique}} || 5 || 2 || 1 || 2 || 3 || 3 || 0
+|-
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|Mexico}} || 37 || 4 || 1 || 32 || 20 || 106 || −86
+|-
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|Moldova}} || 1 || 1 || 0 || 0 || 2 || 0 || +2
+|-
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|Montserrat}} || 6 || 5 || 1 || 0 || 11 || 3 || +8
+|-
+|- bgcolor=FFFACD
+| style="text-align:left;"| {{fb|New Zealand}} || 1 || 0 || 1 || 0 || 2 || 2 || 0
+|-
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|Nicaragua}} || 31 || 27 || 3 || 1 || 120 || 21 || +99
+|-
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|Panama}} || 45 || 14 || 11 || 20 || 58 || 64 || −6
+|-
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|Paraguay}} || 6 || 0 || 0 || 6 || 1 || 11 || −10
+|-
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|Peru}} || 7 || 2 || 0 || 5 || 6 || 15 || −9
+|-
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|Puerto Rico}} || 4 || 2 || 2 || 0 || 10 || 2 || +8
+|-
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|Qatar}} || 3 || 0 || 1 || 2 || 2 || 4 || −2
+|-
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|Republic of Ireland}} || 1 || 1 || 0 || 0 || 1 || 0 || +1
+|-
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|Russia}}{{efn|Includes matches against the [[Soviet Union national football team|Soviet Union]].}} || 5 || 0 || 0 || 5 || 1 || 10 || −9
+|-
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|Saint Kitts and Nevis}} || 4 || 3 || 1 || 0 || 12 || 3 || +9
+|-
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|Saint Lucia}} || 2 || 2 || 0 || 0 || 5 || 0 || +5
+|-
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|Saint Vincent and the Grenadines}} || 5 || 4 || 0 || 1 || 16 || 7 || +9
+|-
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|Serbia}}{{efn|Includes matches against [[Yugoslavia national football team|Yugoslavia]].}} || 1 || 0 || 0 || 1 || 1 || 4 || −3
+|-
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|South Korea}} || 2 || 0 || 1 || 1 || 1 || 2 || −1
+|-
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|Spain}} || 1 || 0 || 0 || 1 || 0 || 2 || −2
+|-
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|Suriname}} || 12 || 8 || 1 || 3 || 30 || 14 || +16
+|-
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|Trinidad and Tobago}} || 13 || 4 || 4 || 5 || 16 || 17 || −1
+|-
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|United States}} || 28 || 1 || 7 || 20 || 16 || 63 || −47
+|-
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|United States Virgin Islands}} || 1 || 1 || 0 || 0 || 7 || 0 || +7
+|-
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|Venezuela}} || 5 || 2 || 0 || 3 || 6 || 7 || −1
+|-
+|- bgcolor=FFFACD
+| style="text-align:left;"| {{fb|Zimbabwe}} || 1 || 0 || 1 || 0 || 0 || 0 || 0
+|- class="sortbottom"
+!Total (62)
+| 642 || 208 || 142 || 292 || 797 || 967 || −170
+|}
+{{notelist}}
+
+==FIFA ranking history==
+The following is a chart of the yearly averages of El Salvador's [[FIFA ranking]].
+{{#chart:El Salvador FIFA ranking history.chart}}
+
+==Honours==
+===Continental===
+* '''[[CONCACAF Championship]]'''
+** {{silver2}} Runners-up (2): [[1963 CONCACAF Championship|1963]], [[1981 CONCACAF Championship|1981]]
+** {{bronze3}} Third place (1): [[1977 CONCACAF Championship|1977]]
+
+===Subregional===
+* '''[[CCCF Championship]]'''{{sup|1}}
+** {{gold1}} '''Champions (1)''': [[1943 CCCF Championship|1943]]
+** {{silver2}} Runners-up (2): [[1941 CCCF Championship|1941]], [[1961 CCCF Championship|1961]]
+** {{bronze3}} Third place (1): [[1946 CCCF Championship|1946]]
+* '''[[Copa Centroamericana|Copa de Naciones UNCAF / Copa Centroamericana]]'''
+** {{bronze3}} Third place (6): [[1995 UNCAF Nations Cup|1995]], [[UNCAF Nations Cup 1997|1997]], [[UNCAF Nations Cup 2001|2001]], [[UNCAF Nations Cup 2003|2003]], [[2013 Copa Centroamericana|2013]], [[2017 Copa Centroamericana|2017]]
+* '''[[Football at the Central American and Caribbean Games|Central American and Caribbean Games]]'''
+** {{gold1}} '''Gold medal (1)''': [[Football at the 1954 Central American and Caribbean Games|1954]]
+** {{bronze3}} Bronze medal (1): [[Football at the 1935 Central American and Caribbean Games|1935]]
+
+===Summary===
+Only official honours are included, according to ''FIFA statutes'' (competitions organized/recognized by [[FIFA]] or an affiliated confederation).
+{| class="wikitable" width=30% style="font-size:90%; text-align:center;"
+!Competition!!{{gold1}}!!{{silver2}}!!{{bronze3}}!!Total
+|-
+|align=left|[[CONCACAF Championship]]
+|0||2||1||3
+|-
+|align=left|[[CCCF Championship]]{{sup|1}}
+|1||2||1||4
+|-
+!Total!!1!!4!!2!!7
+|}
+
+;Notes
+# Official subregional competition organized by [[Confederación Centroamericana y del Caribe de Fútbol|CCCF]], direct predecessor confederation of CONCACAF and the former governing body of football in Central America and Caribbean (1938–1961).
+
+==See also==
+{{portal|Association football|El Salvador}}
+* [[El Salvador national under-23 football team]]
+* [[El Salvador national under-21 football team]]
+* [[El Salvador national under-17 football team]]
+* [[List of football clubs in El Salvador]]
+* [[Primera División de El Salvador]]
+
+==Notes==
+{{reflist|group="note"|refs=<ref name="Aggregate score" group="note">Some notes in this article indicate the two scores that add to the aggregate score; for example, (2–0,1–1) results in an aggregate score of 3–1—2–0 being the first match played and 1–1 being the second match played.</ref>
+<ref name="Withdrew" group="note">El Salvador turned down an invitation from [[Brazil national football team|Brazil]].</ref>
+
+<!-- The following references appeared in the reflist but were not used in the prior text. Please return them to the reflist once they have been correctly cited in the main article.
+<ref name="First game" group="note">The final score of the first match has also been considered to be 3–0. Different texts of sports magazines and books on Guatemalan, Salvadoran and Costa Rican football history do not agree with the result obtained.</ref>
+<ref name="Minute goal scored" group="note">Some notes in this article indicate the time at which a goal was scored; for example, (30') indicates that a goal was scored at the 30th minute. This may also be combined by other goals scored by one player; for example, (30',63') indicates that 2 goals were scored at the 30th minute and 63rd minute by one player—which should be noted right before.</ref>
+-->
+}}
+
+==References==
+{{reflist|colwidth=30em}}
+
+==External links==
+{{commons category|El Salvador national association football team|El Salvador national football team}}
+* [https://fesfut.org.sv Federación Salvadoreña de Fútbol official site] {{in lang|es}}
+* [http://www.elbaloncuscatleco.com/ El Salvador national football team (non-official site)] {{in lang|es}}
+* [https://www.fifa.com/about-fifa/associations/SLV El Salvador FIFA profile]
+* [https://www.rsssf.org/tablese/elsal-intres-detwcq.html El Salvador&nbsp;– Details of World Cup Qualifiers] – [[RSSSF]]
+* [https://www.fesfut.org.sv/selecciones/masculinas/ Selecciones]{{Dead link|date=August 2025 |bot=InternetArchiveBot |fix-attempted=yes }} – fesfut.org
+
+{{Navboxes||title=Finalists|list1=
+{{1970 FIFA World Cup finalists}}
+{{1982 FIFA World Cup finalists}}
+}}
+{{Navboxes||title=Squads|list1=
+{{Navboxes
+|title= El Salvador World Cup squads
+|bg=#0047AB
+|fg=white
+|bordercolor=#002977
+|list1=
+{{El Salvador squad 1970 FIFA World Cup}}
+{{El Salvador squad 1982 FIFA World Cup}}
+}}
+{{Navboxes
+|title= El Salvador CONCACAF Gold Cup squads
+|bg=#0047AB
+|fg=white
+|bordercolor=#002977
+|list1=
+{{El Salvador squad 1998 CONCACAF Gold Cup}}
+{{El Salvador squad 2002 CONCACAF Gold Cup}}
+{{El Salvador squad 2003 CONCACAF Gold Cup}}
+{{El Salvador squad 2007 CONCACAF Gold Cup}}
+{{El Salvador squad 2009 CONCACAF Gold Cup}}
+{{El Salvador squad 2011 CONCACAF Gold Cup}}
+{{El Salvador squad 2013 CONCACAF Gold Cup}}
+{{El Salvador squad 2015 CONCACAF Gold Cup}}
+{{El Salvador squad 2017 CONCACAF Gold Cup}}
+{{El Salvador squad 2019 CONCACAF Gold Cup}}
+{{El Salvador squad 2021 CONCACAF Gold Cup}}
+{{El Salvador squad 2023 CONCACAF Gold Cup}}
+{{El Salvador squad 2025 CONCACAF Gold Cup}}
+}}
+}}
+{{El Salvador national football team}}
+{{Football in El Salvador}}
+{{CONCACAF teams}}
+{{National sports teams of El Salvador}}
+
+{{DEFAULTSORT:El Salvador National Football Team}}
+[[Category:El Salvador national football team| ]]
+[[Category:Central American national association football teams]]
+[[Category:1921 establishments in El Salvador]]
+[[Category:National sports teams established in 1921]]

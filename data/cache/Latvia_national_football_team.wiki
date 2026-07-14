@@ -1,0 +1,1935 @@
+{{Short description|Men's association football team}}
+{{About|the men's team|the women's team|Latvia women's national football team}}
+{{Use dmy dates|date=June 2026}}
+{{Infobox national football team
+| Name                  = Latvia
+| Nickname              = 11 vilki<ref>{{cite web |last1=Krīgers |first1=Renārs |title=Jauna identitāte |url=https://lff.lv/faniem/11vilki/ |website=www.lff.lv |publisher=LFF |access-date=15 October 2018 |archive-date=4 April 2019 |archive-url=https://web.archive.org/web/20190404183833/https://lff.lv/faniem/11vilki/ |url-status=live }}</ref><br>(''11 Wolves'')
+| Badge                 = Latvia national team logo.png
+| Association           = [[Latvian Football Federation|Latvijas Futbola Federācija]] (LFF)
+| Confederation         = [[UEFA]] (Europe)
+| Coach                 = [[Paolo Nicolato]]
+| Captain               = [[Antonijs Černomordijs]]
+| Most caps             = [[Vitālijs Astafjevs]] (167)
+| Top scorer            = [[Māris Verpakovskis]] (29)
+| Home Stadium          = [[Skonto Stadium]]<br>[[Daugava Stadium (Riga)|Daugava Stadium]] (rare matches)
+| FIFA Trigramme        = LVA
+| FIFA Rank             = {{FIFA World Rankings|LVA}}
+| FIFA max              = 45
+| FIFA max date         = November 2009
+| FIFA min              = 148
+| FIFA min date         = September 2017
+| Elo Rank              = {{World Football Elo Ratings|Latvia}}
+| Elo max               = 45
+| Elo max date          = 25 September 1938
+| Elo min               = 155
+| Elo min date          = October 2019
+| pattern_la1           = _lva24h
+| pattern_b1            = _lva24h
+| pattern_ra1           = _lva24h
+| pattern_sh1           = _lva24h
+| pattern_so1           = 
+| leftarm1              = AA0000
+| body1                 = AA0000
+| rightarm1             = AA0000
+| shorts1               = 000000
+| socks1                = AA0000
+| pattern_la2           = _lva24a
+| pattern_b2            = _lva24a
+| pattern_ra2           = _lva24a
+| pattern_sh2           = _lva24a
+| pattern_so2           = 
+| leftarm2              = FFFFFF
+| body2                 = FFFFFF
+| rightarm2             = FFFFFF
+| shorts2               = FFFFFF
+| socks2                = FFFFFF
+| First game            = {{fb|LAT}} 1–1 {{fb-rt|EST}}<br>([[Riga]], [[Latvia]]; 24 September 1922)
+| Largest win           = {{fb|EST}} 1–8 {{fb-rt|LAT}}<br>([[Tallinn]], [[Estonia]]; 18 August 1942)
+| Largest loss          = {{fb|SWE}} 12–0 {{fb-rt|LAT}}<br>([[Stockholm]], [[Sweden]]; 29 May 1927)
+| Regional name         = [[UEFA European Football Championship|European Championship]]
+| Regional cup apps     = 1
+| Regional cup first    = [[2004 European Football Championship|2004]]
+| Regional cup best     = Group stage ([[UEFA Euro 2004|2004]])
+| 2ndRegional name      = [[Baltic Cup (football)|Baltic Cup]]
+| 2ndRegional cup apps  = 29
+| 2ndRegional cup first = [[1928 Baltic Cup|1928]]
+| 2ndRegional cup best  = '''Champions''' ([[1928 Baltic Cup|1928]], [[1932 Baltic Cup|1932]], [[1936 Baltic Cup|1936]], [[1937 Baltic Cup|1937]], [[1993 Baltic Cup|1993]], [[1995 Baltic Cup|1995]], [[2001 Baltic Cup|2001]], [[2003 Baltic Cup|2003]], [[2008 Baltic Cup|2008]], [[2012 Baltic Cup|2012]], [[2014 Baltic Cup|2014]], [[2016 Baltic Cup|2016]], [[2018 Baltic Cup|2018]])
+}}
+
+The '''Latvia national football team''' ({{langx|lv|Latvijas futbola izlase}}) represents [[Latvia]] in men's international [[Association football|football]] and is governed by the [[Latvian Football Federation]] (LFF), the sport's official governing body in the country.
+
+The team played its first official international match in 1922,<ref>{{cite web |title=Latvia vs Estonia , 24 September 1922 |url=https://eu-football.info/_match.php?id=4912 |website=EU Football |access-date=5 August 2025}}</ref> a 1–1 draw against [[Estonia national football team|Estonia]], and joined [[FIFA]] later that same year. In 1924, Latvia made its Olympic debut by participating in the [[Football at the 1924 Summer Olympics|Summer Games in Paris]], and was an active participant in early international football. The team came close to qualifying for the [[1938 FIFA World Cup qualification|1938 FIFA World Cup]], but political events soon altered its course.<ref>{{cite web |title=11 vilki - the early history of Latvia's national football team |url=https://www.europeana.eu/es/stories/11-vilki-the-early-history-of-latvias-national-football-team |website=Europeana.eu |date=11 August 2021 |publisher=National Library of Latvia}}</ref>
+
+Following the [[Soviet occupation of Latvia in 1940|Soviet occupation and annexation of Latvia]] during [[World War II]],<ref>{{cite web |last1=Gulyans |first1=Peteris |title=Latvia - The Soviet occupation and incorporation |url=https://www.britannica.com/place/Latvia/The-Soviet-occupation-and-incorporation |website=Britannica.com |publisher=Britannica |access-date=5 August 2025}}</ref> the national team disappeared from the international stage for over 50 years. Football development in Latvia was largely constrained under the Soviet system, where local players could only compete as part of the [[Latvian Soviet Socialist Republic|Latvian SSR]] in inter-republic tournaments or under the flag of the USSR, limiting the country's independent footballing identity and progress.
+After regaining [[On the Restoration of Independence of the Republic of Latvia|independence in 1991]], Latvia resumed international competition and achieved its greatest success in 2004, when the team qualified for the [[UEFA Euro 2004|UEFA European Championship]] under head coach [[Aleksandrs Starkovs]] — the nation’s only major tournament appearance to date.
+Latvia came close to reaching the FIFA World Cup on several occasions, most notably during the [[2010 FIFA World Cup qualification – UEFA Group 2|2010 qualification campaign]], when the team finished just three points behind a playoff spot. 
+The team regularly competes in the [[Baltic Cup (football)|Baltic Cup]], a sub-regional tournament between [[Latvia]], [[Lithuania]], and [[Estonia]]. Latvia holds the record for the most tournament victories, with 13 titles, most recently in [[2018 Baltic Cup|2018]].
+Home matches are primarily played at [[Skonto Stadium]] in [[Riga]], although [[Daugava Stadium (Riga)|Daugava Stadium]] is also used for select fixtures, particularly those requiring greater capacity.
+
+==History==
+{{Section rewrite|date=March 2025}}
+
+=== Early years ===
+The Latvia national football team played their first official match on 24 September 1922, against Estonia, resulting in a 1–1 draw. The first goal in the team's history was scored by forward [[Edvīns Bārda]]. In 1920, the Latvian Football Union (today - Latvijas Futbola federācija) was established, which led to the formation of the national team. Latvia participated in the [[1924 Summer Olympics|Football at the 1924 Summer Olympics]], but lost their only match 0–7 to [[France national football team|France]]. The team's first victory came on 18 October 1924, against [[Estonia national football team|Estonia]], winning 2–0.<ref>{{cite web |title=Latvian national team history |url=https://lff.lv/en/lff/ |website=LFF.lv |publisher=LFF |access-date=29 November 2024}}</ref>
+
+In 1928, Latvia triumphed in the inaugural [[1928 Baltic Cup|Baltic Cup]], defeating the national teams of [[Lithuania national football team|Lithuania]] and [[Estonia national football team|Estonia]]. During the 1920s, some of the standout players included goalkeeper [[Arvīds Jurgens]] and the Bārda brothers—[[Edvīns Bārda|Edvīns]], [[Arvīds Bārda|Arvīds]], and [[Rūdolfs Bārda|Rūdolfs]]—as well as Voldemārs Grāvelis, [[Arnolds Tauriņš]], and [[Alberts Šeibelis]].
+
+The 1930s marked a period of growth for the Latvian national team, particularly between 1936 and 1938 under Austrian coach Rudolf Stanzl. Latvia frequently played friendly matches against teams such as [[Lithuania national football team|Lithuania]], [[Estonia national football team|Estonia]], [[Finland national football team|Finland]], [[Sweden men's national football team|Sweden]], and [[Poland national football team|Poland]]. In 1937, Latvia participated in the [[1938 FIFA World Cup qualification]]. Placed in Group 8 alongside [[Austria national football team|Austria]] and [[Lithuania national football team|Lithuania]], Latvia achieved notable victories, beating Lithuania 4–2 in [[Riga]], with a [[Fricis Kaņeps]] hat-trick and a goal from [[Iļja Vestermans]]. In [[Kaunas]], they secured a 5–1 win with two goals each from [[Fricis Kaņeps|Kaņeps]], [[Vaclavs Borduško]], and [[Iļja Vestermans]]. However, they lost 1–2 in a decisive away match against [[Austria national football team|Austria]], despite an early goal from Vestermans.
+
+In April 1938, Austria's [[Anschluss]] rendered their team ineligible to participate in the [[FIFA World Cup]]. Despite Latvia being the group's runner-up, FIFA did not invite them to replace [[Austria national football team|Austria]].
+
+Latvia played 99 official matches during the pre-war period from 1922 to 1940 and won the [[Baltic Cup (football)|Baltic Cup]] 12 times. The last match of the pre-war Latvian national team was on 18 July 1940, against [[Estonia national football team|Estonia]], ending in a 1–2 loss. The outbreak of [[World War II]] initially limited and eventually halted the team's activities entirely. During the German and Soviet occupations, the Latvian national team ceased to exist in its form during Latvia's independence.
+
+The best players of the 1930s included [[Jānis Lidmanis]], [[Ēriks Raisters]], [[Jānis Rozītis]], [[Fricis Kaņeps]], [[Iļja Vestermans]], and [[Aleksandrs Vanags]]. [[Ēriks Pētersons]] is considered the greatest Latvian footballer of the pre-war era, having scored 21 goals in 63 matches for the national team.
+
+=== Latvian SSR national team during the Soviet era (1940–1991) ===
+Latvian football's evident growth was abruptly halted and devastated when, in 1940, Latvia was [[Occupation of the Baltic states|occupied and annexed]] by the [[Soviet Union]].
+The largest internal sports event in the Soviet Union was the [[Spartakiad of the Peoples of the USSR]]. Football was included in some editions, featuring teams representing the Soviet republics, as well as Moscow and Leningrad. In the [[Football at the 1956 Spartakiad of the Peoples of the USSR|1956 Spartakiad]], Latvia was represented by [[FC Daugava Riga]]. The team played four matches, securing three victories and suffering one defeat, with a goal difference of 10–7.{{citation needed|date=December 2024}}
+
+Football returned to the [[Spartakiad]] program only in [[Football at the 1979 Spartakiad of the Peoples of the USSR|1979]], and once again, Latvia was represented by [[FC Daugava Riga]]. However, the results were poor, with one victory and five losses, and a goal difference of 10–16. In subsequent [[Spartakiad]]s, youth teams (under 20 years old) participated instead.
+
+During the [[Soviet occupation]], the Latvian SSR national football team continued to compete in the [[Baltic Cup (football)|Baltic Cup]] — a tournament first held in 1928 — until 1976.
+
+=== The Early Years of the Restored Latvian National Team (1992–1997) ===
+The country [[Singing Revolution|regained its independence]] in [[The Barricades|1991]], before, in 1990, the [[Latvian Football Federation]] (LFF) was reestablished, and Latvia rejoined [[FIFA]] shortly after regaining independence. However, the Latvian national football team had to be built from scratch. In December 1991, during an LFF executive committee meeting, [[Jānis Gilis]] was appointed as the first head coach of the restored national team. It was decided that the position of national team head coach was of such importance that it should not be combined with any club coaching roles. Gilis committed to focusing entirely on the national team, stepping down from his role with [[FK Pārdaugava]]'s youth team. His competitor for the position, Marks Zahodins, expressed willingness to support Gilis as an assistant coach if needed.
+
+Following his appointment, Gilis emphasized the challenge of assembling a team from scratch, meeting with potential players, and ensuring that those selected prioritized national pride above all else. The experimental team fielded in the autumn of 1991 was put together hastily, even lacking proper kits initially. Offers from international suppliers soon resolved this issue, and Gilis selected [[Vadims Ulbergs]] and Vladimirs Beškarevs as his assistants.
+
+Latvia's first victory came on 10 July 1992, with a 2–1 win over Estonia, thanks to two goals by [[Ainārs Linards]]. Later that summer, Latvia began its campaign in the [[1994 FIFA World Cup qualification]] tournament. The team achieved historic draws against [[Spain national football team|Spain]] (0–0) and [[Denmark national football team|Denmark]] (0–0) but suffered heavy defeats to [[Spain national football team|Spain]] (0–5) and [[Republic of Ireland national football team|Ireland]] (0–4). With five draws and five points, Latvia finished 6th out of 7 teams in their [[1994 FIFA World Cup qualification – UEFA Group 3|group]]. Key players during this period included former Riga "Daugava" stars such as [[Jurijs Popkovs]], [[Jurijs Ševļakovs]], [[Oļegs Aleksejenko]], [[Ainārs Linards]], and [[Oļegs Karavajevs]], as well as promising newcomers like [[Mihails Zemļinskis]] and [[Vitālijs Astafjevs]].
+
+In the qualification campaign for the [[UEFA Euro 1996 qualifying Group 6|1996 UEFA European Championship]], Latvia demonstrated increasing competitiveness, securing wins against [[Austria national football team|Austria]] and [[Northern Ireland national football team|Northern Ireland]]. The most memorable match of the campaign was a 2–3 loss to [[Portugal national football team|Portugal]] in [[Porto]], where Latvia rallied from a 0–3 halftime deficit with two goals from young striker [[Vīts Rimkus]], who became the team's top scorer of the campaign with five goals in five matches. This period also saw the emergence of new talents such as [[Imants Bleidelis]], [[Andrejs Štolcers]], and [[Igors Stepanovs]].
+
+In the [[1998 FIFA World Cup qualification – UEFA Group 4|qualification for the 1998 FIFA World Cup]], Latvia faced tough competition, narrowly losing to [[Austria national football team|Austria]], [[Scotland national football team|Scotland]], and [[Sweden men's national football team|Sweden]]. However, the team secured victories against [[Belarus national football team|Belarus]] and [[Estonia national football team|Estonia]]. By this time, the squad's core included [[Skonto FC]] players such as [[Vitālijs Astafjevs]], [[Igors Stepanovs]], [[Marians Pahars]], and [[Andrejs Štolcers]].
+
+In late 1997, [[Jānis Gilis]] stepped down as head coach, marking the end of an era. Around the same time, team captain and defensive leader [[Jurijs Ševļakovs]] retired from international football. These years laid the groundwork for Latvia's growing competitiveness on the international stage.
+
+=== The 100th game of the restored Latvian national team ===
+On 8 April 1992, after a 52-year hiatus, the restored Latvian national football team played its first match in [[Bucharest]], losing 0–2 to [[Romania national football team|Romania]]. This marked Latvia's 100th match in its football history, with 10,000 spectators in attendance. The players experienced unfamiliar conditions, as accommodations, catering, and training facilities were of the highest standard.
+
+A notable figure in the Latvian Football Federation (LFF) delegation was [[Vadims Ulbergs]], who had witnessed the previous match between Latvia and [[Romania national football team|Romania]] in 1937, a 0–0 draw at the [[Latvijas Universitātes stadions|ASK Stadium]] in Riga. The match in Bucharest attracted significant media attention, with representatives from all teams in the upcoming qualification cycle present, including the Belgian coach [[Paul van Himst]].
+
+Romania fielded an almost full-strength team, with the only notable absence being [[Gheorghe Hagi]], who was withheld by [[Real Madrid]]. The match also marked the debut of Romania's coach, [[Cornel Dinu]]. The game was hosted at the [[Complexul Sportiv Steaua]], referred to as the "Temple of Romanian Football," built under the direction of one of [[Nicolae Ceaușescu]]'s sons and maintained by the army. Tickets for the match were priced at 150 lei, approximately $2.50.
+
+Latvia’s head coach, [[Jānis Gilis]], opted to trust younger players and implemented a tactical scheme with two free defenders, placing additional pressure on the midfielders and forwards. The first half was promising, but in the second half, a lack of discipline allowed Romania to dominate territorially.
+
+The match began with a costly mistake when goalkeeper [[Raimonds Laizāns]] slipped while preparing to save a 30-meter shot from [[Pavel Badea]], allowing the ball to soar into the net. Latvia had an opportunity to equalize when [[Aivars Drupass]], assisted by [[Jurijs Popkovs]], made a sharp strike from six meters, but Romania’s goalkeeper [[Bogdan Stelea]] reacted brilliantly. Another defensive error early in the second half led to Romania’s second goal. Despite this, Laizāns recovered his composure, earning applause for saving a free kick by [[Gabi Balint]] in the 84th minute.
+
+[[Rolands Bulders]] also came close to scoring but could not produce a strong enough shot in a favorable position. While the team showed resilience, Gilis expressed disappointment with some players, including [[Vitālijs Teplovs]] and [[Aivars Drupass]], who played with a minor injury. [[Ilmārs Verpakovskis]], meanwhile, struggled due to his age. Gilis emphasized the need for a stronger attack, acknowledging that solid defence alone would not secure victories.
+
+Romanian observers were astonished to learn that none of the Latvian players had ever competed for the [[Soviet national football team]] or played in the [[Soviet Top League]]. This game provided Latvia with an opportunity to showcase its potential on the international stage, serving as a catalyst for growth. However, progress was hampered by a lack of professionalism in some teams and a casual attitude toward training among certain players.
+
+=== The Starkovs–Verpakovskis era and UEFA Euro 2004 (2001–2004) ===
+Following [[Gary Johnson]]'s departure, the experienced [[Skonto FC]] head coach [[Aleksandrs Starkovs]] was appointed as the head coach of the Latvian national team. Under Starkovs' leadership, Latvia finished the [[2002 FIFA World Cup qualification]] cycle with three narrow defeats against group favorites, showcasing the team's growing competitiveness. [[File:Marians Pahars Against Scotland in the 2002 FIFA World Cup Qualifiers.jpg|thumb|230px|right|Marians Pahars Against Scotland in the 2002 FIFA World Cup Qualifiers]]
+
+The [[UEFA Euro 2004 qualification]] campaign began with a 0–0 draw against [[Sweden men's national football team|Sweden]], followed by a vital 1–0 victory over [[Poland national football team|Poland]]. Latvia then secured two wins against [[San Marino national football team|San Marino]] but suffered a setback with a loss to [[Hungary national football team|Hungary]]. [[Māris Verpakovskis]] emerged as the team's new offensive leader, replacing injury-plagued [[Marians Pahars]], while veteran striker [[Vīts Rimkus]] returned to the squad.
+
+Despite a 0–2 loss to [[Poland national football team|Poland]], which complicated Latvia’s position in the standings, the team rebounded with a 3–1 win over [[Hungary national football team|Hungary]] and a crucial 1–0 victory against [[Sweden men's national football team|Sweden]]. Verpakovskis scored in both matches, helping Latvia secure second place in their group and earn a spot in the [[UEFA Euro 2004 qualifying play-offs|play-offs]].
+
+In November 2003, Latvia faced [[Turkey national football team|Turkey]], a strong opponent who had recently reached the semi-finals of the [[2002 FIFA World Cup]]. In the first leg in [[Riga]], Verpakovskis scored the only goal, giving Latvia a 1–0 advantage. The second leg in [[Istanbul]] was dramatic, with [[Turkey national football team|Turkey]] taking a 2–0 lead. However, Latvia fought back with goals from [[Juris Laizāns]] and Verpakovskis, securing a 2–2 draw. With a 3–2 aggregate victory, Latvia qualified for the [[UEFA European Championship]] for the first time in its history. [[File:Latvia's National Team Celebrates Euro 2004 Qualification in Turkey.jpg|thumb|230px|left|Latvia's National Team Celebrates Euro 2004 Qualification in Turkey]]
+
+The key players during this period included Verpakovskis, captain [[Vitālijs Astafjevs]], midfielders [[Juris Laizāns]] and [[Andrejs Rubins]], defenders [[Mihails Zemļinskis]] and [[Igors Stepanovs]], and goalkeeper [[Aleksandrs Koliņko]].
+
+=== Performance at UEFA Euro 2004 ===
+In the [[UEFA Euro 2004]] finals held in [[Portugal]], Latvia was drawn into a challenging [[UEFA Euro 2004 Group D|group]] alongside the [[Czech Republic national football team|Czech Republic]], [[Germany national football team|Germany]], and the [[Netherlands national football team|Netherlands]]. In their opening match, Latvia delivered a strong performance but lost 1–2 to the [[Czech Republic national football team|Czech Republic]], with Verpakovskis scoring Latvia’s first-ever goal in a major tournament. [[File:Latvian kannattajia.jpg|thumb|230px|left|Latvian fans at Euro 2004]]
+
+The second match against [[Germany national football team|Germany]] was historic, as Latvia achieved a 0–0 draw, earning their first point at a European Championship. The final group stage match saw Latvia face the [[Netherlands national football team|Netherlands]], where they suffered a 0–3 defeat, ending their journey in the tournament.
+
+Although Latvia did not advance past the group stage, their performances, especially the draw against Germany, were widely praised. The campaign marked a golden era for Latvian football, with Starkovs' strategic leadership and Verpakovskis' outstanding form bringing the team to unprecedented heights.
+
+This period remains a cornerstone in Latvian football history, demonstrating the team’s ability to compete on the European stage and inspiring future generations.
+
+=== 2006 FIFA World Cup qualification ===
+After Latvia's historic success at [[UEFA Euro 2004]], [[Aleksandrs Starkovs]] remained at the helm of the national team, but subsequent results failed to meet the high expectations set during the golden era. Latvia struggled in the qualification campaigns for the [[2006 FIFA World Cup]] and [[UEFA Euro 2008]]. The team faced challenges in maintaining consistency, and the departure of key players like [[Māris Verpakovskis]] and [[Mihails Zemļinskis]] from their peak form further weakened the squad.
+
+Under [[Aleksandrs Starkovs]], Latvia began its [[2006 FIFA World Cup qualification]] campaign, but controversy struck in the opening match against [[Portugal]] when Starkovs was suspended for six games. His assistant, [[Jurijs Andrejevs]], took charge from the sidelines, while Starkovs continued as head coach for the next four matches.
+
+In November 2004, Starkovs resigned from his role, opting to manage [[FC Spartak Moscow|Spartak Moscow]] in [[Russia]]. Andrejevs was promoted to head coach but failed to deliver notable success. Latvia ended the qualification cycle in 5th place in their group with 15 points from 12 matches. The team managed victories only against [[Luxembourg]] and [[Liechtenstein]] and drew with [[Russia]], [[Estonia]], and [[Slovakia]]. Notably, Latvia suffered their first defeat to [[Estonia]] since 1940, losing 1–2.
+
+=== UEFA Euro 2008 qualification ===
+Latvia’s campaign for [[UEFA Euro 2008|Euro 2008]] began in a group featuring [[Spain]], [[Sweden]], [[Denmark]], [[Iceland]], [[Northern Ireland]], and [[Liechtenstein]]. The team started with a narrow 0–1 loss to Sweden at home, followed by a commanding 4–0 victory over Iceland and a 0–1 defeat to [[Northern Ireland]].
+[[File:Dzintars Zirnis in a Battle Against Sergio Ramos.jpg|thumb|230px|left|Dzintars Zirnis in a Battle Against Sergio Ramos]]
+
+After a shock loss to Liechtenstein in March 2007, Andrejevs resigned as head coach. In April, [[Aleksandrs Starkovs]] returned to lead the team. Under his guidance, Latvia achieved victories over Liechtenstein, Iceland, and Northern Ireland, but suffered defeats to Spain, Denmark, and Sweden. Latvia concluded the qualification cycle in 5th place in their group.
+
+=== 2010 FIFA World Cup qualification ===
+During his second tenure, Starkovs aimed to rebuild the team by integrating younger players while relying on experienced veterans like [[Vitālijs Astafjevs]] and [[Māris Verpakovskis]] to provide leadership. While Latvia did not achieve the same level of success as during the early 2000s, Starkovs' influence helped maintain competitiveness and ensured that the team remained a respected opponent in international football.
+In the fall of 2008, Latvia began their qualification campaign for the [[2010 FIFA World Cup]]. Drawn into a group with [[Greece]], [[Israel]], [[Switzerland]], [[Moldova]], and [[Luxembourg]], Latvia opened with a 2–1 victory over Moldova in Chișinău. However, the team then suffered defeats to group favorites Greece (0–2 at home) and Switzerland (1–2 away), despite a header goal from [[Deniss Ivanovs]].
+
+Latvia bounced back with a 1–1 draw against Israel in Riga and two wins against Luxembourg (4–0 away and 2–0 at home). In a pivotal autumn match, Latvia defeated Israel 1–0 in Tel Aviv, keeping their hopes alive for a top-two finish.
+
+On 9 September 2009, Latvia drew 2–2 against Switzerland at [[Skonto Stadium]], maintaining their contention for second place as Greece surprisingly drew 1–1 against Moldova in [[Chișinău]]. At this stage, Latvia remained in a competitive position to vie for a spot in the [[FIFA World Cup]]. [[File:Latvia's National Team Draws Against Switzerland.jpg|thumb|230px|right|Latvia's National Team Draws Against Switzerland in 2009]]
+
+In the penultimate and decisive match of the [[2010 FIFA World Cup qualification]], Latvia faced Greece at the [[Athens Olympic Stadium]]. Despite taking a 2–1 lead in the first half through [[Māris Verpakovskis]], a controversial penalty awarded to Greece early in the second half turned the tide. [[Theofanis Gekas]] scored from the spot and added two more goals, while [[Georgios Samaras]] also found the net, resulting in a 2–5 loss for Latvia.
+
+In the final match of the campaign, Latvia defeated Moldova 3–2 at home. Despite finishing third in the group, Latvia narrowly missed out on qualification.
+
+His second term further solidified Starkovs’ legacy as one of the most influential figures in the history of Latvian football, showcasing his dedication and impact on the national team’s development.
+
+==== Group standings situation ====
+As of the decisive matches, the group standings were tightly contested, with Latvia demonstrating resilience and ambition under Starkovs’ leadership. The team's ability to challenge strong opponents marked a continued effort to build on the success of the early 2000s.
+{| class="wikitable"
+!Position
+!Team
+!Points
+|-
+|1.
+|{{Fb|Switzerland}}
+|17
+|-
+|2.
+|{{Fb|Greece}}
+|14
+|-
+|3.
+|{{Fb|Latvia}}
+|14
+|-
+|4.
+|{{Fb|Israel}}
+|12
+|-
+|5.
+|{{Fb|Luxembourg}}
+|5
+|-
+|6.
+|{{Fb|Moldova}}
+|3
+|}
+
+=== UEFA Euro 2012 qualification ===
+From September 2010 to October 2011, Latvia competed in the [[UEFA Euro 2012 qualifying]] tournament, drawn into Group F with Greece, Croatia, Israel, Georgia, and Malta.
+
+Latvia began the campaign with a 0–3 home defeat to Croatia, followed by a 2–0 away win against Malta. In October, Latvia lost 0–1 to Greece in Athens but secured a last-minute 1–1 draw against Georgia in Riga thanks to a [[Aleksandrs Cauņa|Aleksandrs Cauņa's]] equalizer.
+
+The 2011 campaign saw Latvia lose twice to Israel (1–2 both home and away) before securing a 1–0 victory against Georgia in Tbilisi and a 1–1 draw with Greece in Riga. Latvia ended the cycle with a 2–0 win over Malta but concluded with a 0–2 loss to Croatia. Latvia finished fourth in the group, missing out on qualification.
+
+=== 2014 FIFA World Cup qualification ===
+Latvia participated in the [[2014 FIFA World Cup qualification]] from September 2012 to October 2013. The team was placed in Group G alongside Greece, Slovakia, Bosnia and Herzegovina, Lithuania, and Liechtenstein.
+
+Latvia started with losses to Greece (1–2), Bosnia and Herzegovina (1–4), and Slovakia (1–2) but managed a 2–0 victory against Liechtenstein. However, their form faltered in 2013, starting with a disappointing 1–1 draw against Liechtenstein and a heavy 0–5 loss to Bosnia and Herzegovina.
+
+Following the Bosnia defeat, there were calls within the [[Latvian Football Federation]] (LFF) to dismiss head coach [[Aleksandrs Starkovs]], but the board voted against it. Despite the decision, Starkovs later submitted his resignation.
+
+=== Transition to Pahars' leadership ===
+After Starkovs' resignation, former national team player [[Marians Pahars]] was appointed as head coach with a contract extending until the end of the [[2018 FIFA World Cup qualification]] cycle. This marked a new chapter for the Latvian national team, as Pahars sought to rejuvenate the squad and improve its competitiveness on the international stage.
+
+==== Marians Pahars era (2013–2017) ====
+
+===== First matches and early success =====
+Marians Pahars’ tenure as head coach of the Latvian national football team began with a friendly match against Estonia, which ended in a 1–1 draw. His first victory came on 6 September 2013, during the [[2014 FIFA World Cup qualification]] campaign, with a 2–1 win against Lithuania in Riga. However, the team suffered two away losses (0–1 against both Greece and Lithuania) before finishing the campaign with a 2–2 draw against Slovakia. Latvia concluded the qualification cycle in 5th place in their group, ahead of Liechtenstein but trailing Lithuania by three points.
+
+===== Baltic Cup Victory =====
+
+In the 2014 Baltic Cup, Latvia defeated Estonia in the semifinals following a penalty shootout and secured the title by beating Lithuania 1–0 in the final, with [[Nauris Bulvītis]] scoring the winning goal. This victory marked Latvia's 22nd Baltic Cup win.
+
+===== UEFA Euro 2016 qualification =====
+
+The [[UEFA Euro 2016 qualifying|UEFA Euro 2016 qualification]] campaign was Pahars’ first full qualification cycle as head coach. Latvia was drawn into Group A alongside the Czech Republic, Iceland, Kazakhstan, the Netherlands, and Turkey.
+
+Latvia started with a 0–0 draw away against Kazakhstan. They then lost 0–3 at home to Iceland, followed by a 1–1 draw with Turkey. A heavy 0–6 defeat to the Netherlands concluded the year. In 2015, Latvia drew 1–1 against the Czech Republic, conceding an equalizer in the 90th minute, and lost 0–2 in a rematch against the Netherlands.
+
+A 1–1 draw in Turkey and a 2–2 draw in Iceland highlighted occasional resilience.
+However, the campaign ended on a sour note with a 0–1 home defeat to Kazakhstan, leaving Latvia in last place (6th) in the group standings. Latvia rebounded in June 2016 by winning the Baltic Cup for the 23rd time. They defeated Lithuania 2–1 and drew 0–0 with Estonia to secure the title.
+
+=== 2018 FIFA World cup qualification and resignation ===
+Latvia began their [[2018 FIFA World Cup qualification]] campaign with a promising 1–0 away win against Andorra. However, the team struggled in subsequent matches:
+
+Losses to the Faroe Islands (0–2), Hungary (0–2), Portugal (1–4), and Switzerland (0–1) followed. On 28 March 2017, Latvia suffered a crushing 0–5 defeat to Georgia in a friendly match. This prompted [[Marians Pahars]] to submit his resignation, ending his tenure as head coach.
+
+Despite occasional successes, including two [[Baltic Cup (football)|Baltic Cup]] victories, Pahars’ time as coach was marked by inconsistency in competitive matches, culminating in a disappointing World Cup qualification campaign.
+
+=== Starkovs' third stint and foreign coaches (2017–2020) ===
+==== Starkovs' third term ====
+
+On 19 April 2017, Aleksandrs Starkovs was appointed head coach of the Latvian national team for the third time, replacing [[Marians Pahars]]. Starkovs' return saw a series of disappointing results, with the sole victory being a 1–0 win against Andorra on 10 October in the final match of the [[2018 FIFA World Cup qualification]] campaign.
+
+During his tenure, Latvia reached its lowest-ever [[FIFA World Ranking]], falling to 148th place in September 2017. After a shocking 0–1 loss to Gibraltar on 25 March 2018, Starkovs was dismissed.
+
+==== Miksu Paatelainen (2018–2019) ====
+
+On 24 May 2018, Finnish coach [[Miksu Paatelainen]] was appointed head coach. Under his leadership, Latvia won the [[2018 Baltic Cup]], a bright moment amidst otherwise underwhelming results.
+
+Latvia’s campaign in the [[2018–19 UEFA Nations League]] was considered disappointing by many. In their League D group alongside Georgia, Kazakhstan, and Andorra, Latvia failed to win a match, collecting only four points and finishing third in the group. Following these results, Paatelainen left his position as head coach.
+
+==== Slaviša Stojanović (2019–2020) ====
+
+On 1 March 2019, Slovenian coach [[Slaviša Stojanović (footballer, born 1969)|Slaviša Stojanović]] was named head coach. His tenure was marked by a record nine consecutive defeats during the [[UEFA Euro 2020 qualification]] campaign. Latvia managed only one win, a surprise 1–0 victory over Austria in their final group match.
+
+Latvia finished last in their group, which included Poland, Austria, North Macedonia, Slovenia, and Israel. In January 2020, the Latvian Football Federation terminated its contract with Stojanović, ending a tumultuous chapter in the team’s history.
+
+This period highlighted Latvia’s struggles on the international stage, with fleeting moments of success overshadowed by poor performances and instability at the managerial level.
+
+=== Dainis Kazakevičs’ era: the positive vector and challenges (2020–2023) ===
+In early 2020, the Latvian football community increasingly voiced the need for a local specialist to lead the national team—someone familiar with the nuances of Latvian football. Amid political uncertainty within the [[Latvian Football Federation]] (LFF), which was briefly without a president, the regular rotation of head coaches seemed unlikely to yield a long-term solution. Thus, following Slaviša Stojanović’s dismissal, [[Dainis Kazakevičs]] was appointed as head coach for a three-year term.
+
+==== Early struggles and Nations League campaigns ====
+
+In the 2020–2021 UEFA Nations League, Latvia competed in Group D alongside the Faroe Islands, Malta, and Andorra. Despite high hopes, the team failed to secure a win in its first five matches, drawing four and losing to Malta. Latvia finally claimed a decisive 5–0 victory against Andorra in the last game but finished third in the group.
+
+Despite this disappointing start, the LFF remained committed to Kazakevičs’ long-term vision. This decision bore fruit with an eight-match unbeaten streak (including friendlies) and Latvia's triumph in the 2022–2023 UEFA Nations League. Latvia won their group against Andorra, Moldova, and Liechtenstein, securing promotion to League C.
+
+==== Late setbacks and narrow success ====
+
+The campaign nearly unraveled in the penultimate match, where Latvia suffered a surprising 1–2 defeat to Moldova in front of a packed home crowd in Riga. This result left the decisive final game against Andorra fraught with tension.
+
+In Andorra, Latvia took the lead in the 50th minute through [[Vladislavs Gutkovskis]]. However, a critical error by goalkeeper [[Pāvels Šteinbors]] allowed Andorra to equalize two minutes before full time. The draw left the team stunned, but Latvia retained first place in the group due to a superior goal difference over Moldova, earning promotion to League C. Unfortunately, the shaky end to the season dashed Latvia’s hopes of securing a playoff spot for [[UEFA Euro 2024]].
+
+==== Mounting criticism and Kazakevičs’ departure ====
+
+Kazakevičs faced criticism from the outset, with skeptics questioning his suitability for the role. Although the five-match winning streak in 2022 brought some relief, doubts persisted. By 2023, public pressure reached a peak, with the slogan “DainisOut” gaining traction.
+
+The national team’s performance in 2023 exacerbated discontent. Out of ten matches, Latvia lost nine, scoring just two goals in their last six games. Even a win over Armenia was overshadowed by fan protests, as supporters demonstratively left the stands during the first half, demanding Kazakevičs’ resignation.
+
+The sustained public and media pressure eventually led to the termination of Kazakevičs’ contract, bringing an end to his tenure as head coach.
+
+==== Legacy ====
+
+Kazakevičs' era was a mix of modest successes and persistent challenges. While Latvia’s [[UEFA Nations League|Nations League]] promotion to League C marked a positive milestone, inconsistent performances and public dissatisfaction highlighted the difficulty of building a cohesive and competitive national team.
+
+==Team image==
+===Kits===
+[[File:LVA football kit.svg|thumb]]
+Latvia's kit is traditionally a carmine red jersey with white trim, carmine red shorts and socks, whilst their current away kit is all predominantly white. Latvia's kits have been produced by various manufacturers.
+
+===Crest===
+Until July 2018, the team crest consisted of the [[Latvian Football Federation]] logo, when it was switched to a shield with a football in the colors of the Latvian flag and 'LATVIJA' written above. A similar crest with a head of a howling wolf was also unveiled as a secondary logo for use in souvenirs etc. as part of the #11vilki (''#11wolves'') brand.<ref>{{Cite web |date=18 July 2018 |title=Vilks - Latvijas futbola izlases jaunā identitāte |trans-title=Wolf - the new identity of the Latvian national football team |url=https://sports.tvnet.lv/5770595/vilks-latvijas-futbola-izlases-jauna-identitate |access-date=7 May 2023 |website=TVNET |language=lv |archive-date=7 May 2023 |archive-url=https://web.archive.org/web/20230507092043/https://sports.tvnet.lv/5770595/vilks-latvijas-futbola-izlases-jauna-identitate |url-status=live }}</ref>
+
+===Kit suppliers===
+{| class="wikitable" style="text-align: left" 
+|-
+!Kit supplier
+!Period
+|-
+|{{flagicon|England}} [[Umbro]]
+|1992-1994
+|-
+|{{flagicon|Germany}} [[Adidas]]
+|1994-1996
+|-
+|{{flagicon|Austria}} Tro
+| 1996–1998
+|-
+|{{flagicon|Germany}} [[Puma (brand)|Puma]]
+| 1998–2000
+|-
+|{{flagicon|Switzerland|}} Tramondi
+| 2000–2002
+|-
+|{{flagicon|Germany}} [[Adidas]]
+| 2002–present
+|}
+
+==Media coverage==
+All Latvian matches are currently broadcast with full commentary on the [[Go3 Sport|Go3]] web streaming service, owned by [[TV3 Group (Baltics)|TV3 Group]]. Since the 1990s, [[LTV7]] (initially LTV2) was the broadcaster of all of the team games, before the ''All Media Baltics'' conglomerate took over broadcasting rights in September 2018.<ref>{{Cite web |title=All Media Baltics pārraidīs visas Latvijas izlases spēles |url=https://lff.lv/zinas/9759/all-media-baltics-parraidis-visas-latvijas-izlases-speles/ |access-date=10 April 2024 |website=LFF.lv |language=lv}}</ref> Games were broadcast on the group's [[TV6 (Latvian TV channel)|TV6]] channel and the ''TVPlay'' and ''Viaplay'' streaming platforms. ''All Media Baltics'' later became TV3 Group.
+
+From the 2022 season until the 2028 season, Latvia's home and away qualifiers, and friendlies both home and away were broadcast live exclusively by Swedish [[Viaplay Group]] on their web streaming service. On 20 July 2023, Viaplay announced that it will leave the market of the [[Baltic states]].<ref>{{cite web |last1=Eliņš |first1=Rolands |title=Futbola izlases, NHL un F1 raidtiesību īpašniece "Viaplay" atstās Baltijas valstu tirgu |url=https://sportacentrs.com/futbols/latvijas_izlase/20072023-futbola_izlases_nhl_un_f1_raidtiesibu_ipa |website=Sportacentrs.com |date=20 July 2023 |publisher=Sportacentrs |access-date=20 July 2023}}</ref><ref>{{cite web |title=Straumēšanas pakalpojumu sniedzējs 'Viaplay' aiziet no Baltijas tirgus |url=https://www.delfi.lv/bizness/tehnologijas/straumesanas-pakalpojumu-sniedzejs-viaplay-aiziet-no-baltijas-tirgus.d?id=55770984 |website=Delfi.lv | date=20 July 2023 |publisher=LETA |access-date=20 July 2023}}</ref> Upon exiting, all sports licenses owned by Viasat - including the Baltic broadcasting rights for the [[Baltic Cup (football)|Baltic Cup]], [[UEFA Champions League]], [[Premier League]], [[Formula One|Formula 1]] and the [[National Hockey League|NHL]] - were acquired by TV3 Group.<ref>{{Cite web |title="Viaplay" un TV3 grupas noslēdz vienošanos Baltijas valstīs |url=https://lff.lv/zinas/17339/viaplay-un-tv3-grupas-nosledz-vienosanos-baltijas-valstis/?debug=1 |access-date=10 April 2024 |website=LFF.lv |language=lv}}</ref> This means that the matches of the Latvian national football team are returning [[LTV7]], in September 2024.<ref>{{cite news|title="Futbols atgriežas mājās!" – Latvijas Televīzija iegūst tiesības pārraidīt Latvijas nacionālās futbola izlases spēles UEFA rīkotajās sacensībās|url=https://ltv.lsm.lv/aktuali/futbols-atgriezas-majas-latvijas-televizija-iegust-tiesibas-parraidit-latvijas-nacionalas-futbola-izlases-speles-uefa-rikotajas-sacensibas.id336308?page=1|work=LTV|date=4 September 2024}}</ref><ref>{{Cite web |title=Latvijas izlases spēles atgriežas Latvijas Televīzijā |url=https://lff.lv/zinas/17770/latvijas-izlases-speles-atgriezas-latvijas-televizija/ |access-date=14 October 2024 |website=LFF.lv |language=lv}}</ref>
+
+==Stadium==
+In recent years, the home venue of the team has fluctuated between [[Skonto Stadium]] and the [[Daugava Stadium (Riga)|Daugava Stadium]] in Riga. Daugava was the main venue of the team from 1992 to 2000, when Skonto Stadium was unveiled as a temporary location due to the planned renovation of the Daugava. However, the renovation of the complex only began in 2017, with the first stage completed a year later.
+
+The team then returned to the Daugava after an 18-year absence in the summer of 2018 with a game against Estonia on 2 June.<ref>{{Cite web |last= |first= |date=15 May 2018 |title=Daugava Stadium in Riga to open at end-May after reconstruction |url=https://www.baltic-course.com/eng/good_for_business/://baltic-course.com/eng/good_for_business/?doc=139986&output=d |access-date=11 June 2024 |website=The Baltic Course {{!}} Baltic States news & analytics}}</ref> However, since mid-2022 home matches were once again temporarily moved to Skonto Stadium due to problems with the grass pitch and other issues. Works on replacing and upgrading the pitch began in October 2023.<ref>{{Cite web |last=Kļavenieks |first=Mārtiņš |date=28 September 2023 |title='Daugava' Stadium in Rīga to get major upgrades |url=https://eng.lsm.lv/article/culture/sport/28.09.2023-daugava-stadium-in-riga-to-get-major-upgrades.a525665/ |access-date=11 June 2024 |website=[[eng.lsm.lv]] |language=en}}</ref> At the time, Latvian Football Federation president [[Vadims Ļašenko]] said that Skonto would become the main home of the men's team, with Daugava serving as a backup and the venue for the [[Latvia women's national football team|women's]] and youth national teams.<ref>{{Cite web |last=Kļavenieks |first=Mārtiņš |date=28 September 2023 |title="Daugavas" stadions pārtop: vieglatlēti gaida manēžu; drīz mainīs futbola zālienu un skrejceliņu |url=https://www.lsm.lv/raksts/sports/citi/28.09.2023-daugavas-stadions-partop-vieglatleti-gaida-manezu-driz-mainis-futbola-zalienu-un-skrejcelinu.a525627/ |access-date=11 June 2024 |website=LSM.lv |language=lv}}</ref>
+
+In the interwar era between 1921 and 1940, games were held in various locations such as the [[Latvijas Universitātes stadions|Army Sports Club Stadium]] in Riga and others.
+
+===Home venues record===
+The following table provides a summary of Latvia's results at home venues since 1992.
+{{updated|18 November 2024}}.
+
+{| class="wikitable sortable plainrowheaders" style="text-align: center;"
+|-
+!scope="col"| Stadium
+!scope="col"| City / town
+!scope="col"| {{Tooltip|Pld|Games played}}
+!scope="col"| {{Tooltip|W|Games won}}
+!scope="col"| {{Tooltip|D|Games drawn, including knockout matches decided on penalty kicks}}
+!scope="col"| {{Tooltip|L|Games lost}}
+!scope="col"| Win %
+!scope="col"| Last match hosted
+|-
+!scope="row" style="text-align: left;"|[[Skonto stadions|Skonto Stadium]]
+|style="text-align: left;"|[[Riga]]
+{{WDL|decimals=1|70|21|15|34}}
+|2024
+|-
+!scope="row" style="text-align: left;"|[[Daugava Stadium (Riga)|Daugava Stadium]]
+|style="text-align: left;"|[[Riga]]
+{{WDL|decimals=1|39|15|7|17}}
+|2022
+|-
+!scope="row" style="text-align: left;"|[[Daugava Stadium (Liepāja)|Daugava Stadium]]
+|style="text-align: left;"|[[Liepāja]]
+{{WDL|decimals=1|8|5|0|3}}
+|2024
+|-
+!scope="row" style="text-align: left;"|[[Ventspils Olimpiskais Stadions|Olympic Stadium]]
+|style="text-align: left;"|[[Ventspils]]
+{{WDL|decimals=1|1|1|0|0}}
+|2002
+|-
+!scope="row" style="text-align: left;"|[[Latvijas Universitātes stadions|ASK Stadium]]
+|style="text-align: left;"|[[Riga]]
+{{WDL|decimals=1|1|0|0|1}}
+|1994
+|-
+!scope="row" style="text-align: left;"|[[Ozolnieku stadions|Ozolnieki Stadium]]
+|style="text-align: left;"|[[Ozolnieki]]
+{{WDL|decimals=1|1|0|1|0}}
+|1994
+|-
+! colspan="2"|Totals !! 102!! 35 !! 23 !! 44 !! !! {{sortdash}}
+|}
+
+==Results and fixtures==
+{{Main|Latvia national football team results (2020–present)}}
+The following is a list of match results in the last 12 months, as well as any future matches that have been scheduled.
+
+{{legend2|#CCFFCC|Win|border=1px solid #AAAAAA}}
+{{legend2|#FFFFCC|Draw|border=1px solid #AAAAAA}}
+{{legend2|#FFCCCC|Loss|border=1px solid #AAAAAA}}
+{{legend2|#FFFFFF|Fixture|border=1px solid #AAAAAA}}
+
+===2025===
+{{Football box collapsible|format=1
+|round      = [[Exhibition game#Association football|Friendly]]
+|date       = 7 June 2025
+|time       = {{UTZ|16:00|+3}}
+|team1      = {{fb-rt|LVA}}
+|score      = 0–0
+|team2      = {{fb|AZE}}
+|report     = https://www.uefa.com/uefanationsleague/friendlies/match/2044968--latvia-vs-azerbaijan/
+|goals1     =
+|goals2     =
+|location   = [[Riga]], Latvia
+|stadium    = [[Skonto Stadium]]
+|attendance = 4,594
+|referee    = Trustin Farrugia Cann ([[Malta Football Association|Malta]])
+|result     = D
+}}
+{{Football box collapsible|format=1
+|round      = [[2026 FIFA World Cup qualification – UEFA Group K|2026 FIFA World Cup qualification]]
+|date       = 10 June 2025
+|time       = {{UTZ|21:45|+3}}
+|team1      = {{fb-rt|LVA}}
+|score      = 1–1
+|team2      = {{fb|ALB}}
+|report     = https://www.uefa.com/european-qualifiers/match/2044206/
+|goals1     =
+*[[Antonijs Černomordijs|Černomordijs]] {{goal|45+4}}
+|goals2     =
+*[[Antonijs Černomordijs|Černomordijs]] {{goal|29|o.g.}}
+|location   = [[Riga]], Latvia
+|stadium    = [[Skonto Stadions]]
+|attendance = 6,083
+|referee    = [[Halil Umut Meler]] ([[Turkish Football Federation|Turkey]])
+|result     = D
+}}
+{{Football box collapsible|format=1
+|round      = [[2026 FIFA World Cup qualification – UEFA Group K|2026 FIFA World Cup qualification]]
+|date       = 6 September 2025
+|time       = {{UTZ|16:00|+3}}
+|team1      = {{fb-rt|LVA}}
+|score      = 0–1
+|team2      = {{fb|SRB}}
+|report     = https://www.uefa.com/european-qualifiers/match/2044231/
+|goals1     =
+|goals2     =
+*[[Dušan Vlahović|Vlahović]] {{goal|12}}
+|location   = [[Riga]], Latvia
+|stadium    = [[Daugava Stadium (Riga)|Daugava Stadium]]
+|attendance = 6,238
+|referee    = Julian Weinberger ([[Austrian Football Association|Austria]])
+|result     = L
+}}
+{{Football box collapsible|format=1
+|round      = [[2026 FIFA World Cup qualification – UEFA Group K|2026 FIFA World Cup qualification]]
+|date       = 9 September 2025
+|time       = {{UTZ|20:45|+2}}
+|team1      = {{fb-rt|ALB}}
+|score      = 1–0
+|team2      = {{fb|LVA}}
+|report     = https://www.uefa.com/european-qualifiers/match/2044255/
+|goals1     =
+*[[Kristjan Asllani|Asllani]] {{goal|25|pen.}}
+|goals2     =
+|location   = [[Tirana]], Albania
+|stadium    = [[Arena Kombëtare]]
+|attendance = 16,568
+|referee    = Damian Sylwestrzak ([[Polish Football Association|Poland]])
+|result     = L
+}}
+{{Football box collapsible|format=1
+|round      = [[2026 FIFA World Cup qualification – UEFA Group K|2026 FIFA World Cup qualification]]
+|date       = 11 October 2025
+|time       = {{UTZ|16:00|+3}}
+|team1      = {{fb-rt|LVA}}
+|score      = 2–2
+|team2      = {{fb|AND}}
+|report     = https://www.uefa.com/european-qualifiers/match/2044277/
+|goals1     =
+*[[Dmitrijs Zelenkovs|Zelenkovs]] {{goal|41}}
+*[[Vladislavs Gutkovskis|Gutkovskis]] {{goal|55|pen.}}
+|goals2     =
+*[[Moisés San Nicolás|San Nicolás]] {{goal|33}}
+*[[Ian Olivera|Olivera]] {{goal|78}}
+|location   = [[Riga]], Latvia
+|stadium    = [[Daugava Stadium (Riga)|Daugava Stadium]]
+|attendance = 5,027
+|referee    = [[Georgi Kabakov]] ([[Bulgarian Football Union|Bulgaria]])
+|result     = D
+}}
+{{Football box collapsible|format=1
+|round      = [[2026 FIFA World Cup qualification – UEFA Group K|2026 FIFA World Cup qualification]]
+|date       = 14 October 2025
+|time       = {{UTZ|21:45|+3}}
+|team1      = {{fb-rt|LVA}}
+|score      = 0–5
+|team2      = {{fb|ENG}}
+|report     = https://www.uefa.com/european-qualifiers/match/2044297/
+|goals1     =
+|goals2     =
+*[[Anthony Gordon (footballer)|Gordon]] {{goal|26}}
+*[[Harry Kane|Kane]] {{goal|44||45+4|pen.}}
+*[[Maksims Toņiševs|Toņiševs]] {{goal|58|o.g.}}
+*[[Eberechi Eze|Eze]] {{goal|86}}
+|location   = [[Riga]], Latvia
+|stadium    = [[Daugava Stadium (Riga)|Daugava Stadium]]
+|attendance = 10,404
+|referee    = [[Tasos Sidiropoulos]] ([[Hellenic Football Federation|Greece]])
+|result     = L
+}}
+{{Football box collapsible|format=1
+|round      = [[Exhibition game#Association football|Friendly]]
+|date       = 13 November 2025
+|time       = {{UTZ|18:00|+1}}
+|team1      = {{fb-rt|MKD}}
+|score      = 0–0
+|team2      = {{fb|LVA}}
+|report     = https://www.uefa.com/european-qualifiers/friendlies/match/2046639--north-macedonia-vs-latvia/
+|goals1     =
+|goals2     =
+|location   = [[Skopje]], North Macedonia
+|stadium    = [[Toše Proeski Arena]]
+|attendance = 4,000
+|referee    = Miloš Savović ([[Football Association of Montenegro|Montenegro]])
+|result     = D
+}}
+{{Football box collapsible|format=1
+|round      = [[2026 FIFA World Cup qualification – UEFA Group K|2026 FIFA World Cup qualification]]
+|date       = 16 November 2025
+|time       = {{UTZ|18:00|+1}}
+|team1      = {{fb-rt|SRB}}
+|score      = 2–1
+|team2      = {{fb|LVA}}
+|report     = https://www.uefa.com/european-qualifiers/match/2044331/
+|goals1     =
+*[[Aleksandar Katai|Katai]] {{goal|49}}
+*[[Aleksandar Stanković (footballer, born 2005)|Stanković]] {{goal|60}}
+|goals2     =
+*[[Vladislavs Gutkovskis|Gutkovskis]] {{goal|12}}
+|location   = [[Leskovac]], Serbia
+|stadium    = [[Dubočica Stadium]]
+|attendance = 3,894
+|referee    = [[Ricardo de Burgos Bengoetxea]] ([[Royal Spanish Football Federation|Spain]])
+|result     = L
+}}
+
+===2026===
+{{Football box collapsible|format=1
+|round      = [[2024–25 UEFA Nations League promotion/relegation play-offs|2024–25 Nations League promotion/relegation play-offs]]
+|date       = 26 March 2026
+|time       = {{UTZ|18:00|+1}}
+|team1      = {{fb-rt|GIB}}
+|score      = 0–1
+|team2      = {{fb|LVA}}
+|report     = https://www.uefa.com/uefanationsleague/match/2043052/
+|goals1     =
+|goals2     =
+*[[Vladislavs Gutkovskis|Gutkovskis]] {{goal|64|pen.}}
+|location   = [[Europa Point]], Gibraltar
+|stadium    = [[Europa Sports Park]]
+|attendance = 1,442
+|referee    = [[Ivan Kružliak]] ([[Slovak Football Association|Slovakia]])
+|result     = W
+}}
+{{Football box collapsible|format=1
+|round          = [[2024–25 UEFA Nations League promotion/relegation play-offs|2024–25 Nations League promotion/relegation play-offs]]
+|date           = 31 March 2026
+|time           = {{UTZ|19:00|+3}}
+|team1          = {{fb-rt|LVA}}
+|score          = 1–0
+|aggregatescore = 2–0
+|team2          = {{fb|GIB}}
+|report         = https://www.uefa.com/uefanationsleague/match/2043054/
+|goals1         =
+*[[Antonijs Černomordijs|Černomordijs]] {{goal|90+3}}
+|goals2         =
+|location       = [[Riga]], Latvia
+|stadium        = [[Skonto Stadium]]
+|attendance     = 5,120
+|referee        = [[Sandro Schärer]] ([[Swiss Football Association|Switzerland]])
+|result         = W
+}}
+{{Football box collapsible|format=1
+|round        = [[2026 Baltic Cup]]
+|date         = 6 June 2026
+|time         = {{UTZ|16:00|+3}}
+|team1        = {{fb-rt|LTU}}
+|score        = 1–1
+|team2        = {{fb|LVA}}
+|report       = https://www.soccerway.com/match/latvia-WC2jLpW4/lithuania-lfrBTu8p/?mid=bsbzrmR0
+|goals1       =
+*[[Armandas Kučys|Kučys]] {{goal|28}}
+|goals2       =
+*[[Maksims Toņiševs|Toņiševs]] {{goal|60}}
+|penaltyscore = 5–4
+|penalties1   =
+*[[Edgaras Utkus|Utkus]] {{pengoal}}
+*[[Gvidas Gineitis|Gineitis]] {{pengoal}}
+*[[Armandas Kučys|Kučys]] {{pengoal}}
+*[[Lukas Michelbrink|Michelbrink]] {{penmiss}}
+*[[Arvydas Novikovas|Novikovas]] {{pengoal}}
+*[[Motiejus Burba|Burba]] {{pengoal}}
+|penalties2   =
+*{{pengoal}} [[Marko Regža|Regža]]
+*{{pengoal}} [[Mārtiņš Ķigurs|Ķigurs]]
+*{{penmiss}} [[Deniss Meļņiks|Meļņiks]]
+*{{pengoal}} [[Andrejs Cigaņiks|Cigaņiks]]
+*{{pengoal}} [[Aleksejs Saveļjevs|Saveļjevs]]
+*{{penmiss}} [[Kristers Penkevics|Penkevics]]
+|location     = [[Kaunas]], Lithuania
+|stadium      = [[Darius and Girėnas Stadium]]
+|attendance   = 7,789
+|referee      = Joonas Jaanotivs ([[Estonian Football Federation|Estonia]])
+|result       = D
+}}
+{{Football box collapsible|format=1
+|round      = [[2026 Baltic Cup]]
+|date       = 9 June 2026
+|time       = {{UTZ|18:00|+3}}
+|team1      = {{fb-rt|LVA}}
+|score      = 0–1
+|team2      = {{fb|FRO}}
+|report     = https://www.soccerway.com/match/faroe-islands-nBmAj3Fc/latvia-WC2jLpW4/?mid=zTGF2XLj
+|goals1     =
+|goals2     =
+*[[Hanus Sørensen|Sørensen]] {{goal|81}}
+|location   = [[Riga]], Latvia
+|stadium    = [[LNK Sporta Parks]]
+|attendance = 729
+|referee    = Dovydas Švėgžda ([[Lithuanian Football Federation|Lithuania]])
+|result     = L
+}}
+{{Football box collapsible|format=1
+|round      = [[2026–27 UEFA Nations League C#Group 2|2026–27 Nations League]]
+|date       = 25 September 2026
+|time       = {{UTZ|20:00|+4}}
+|team1      = {{fb-rt|ARM}}
+|score      = 
+|team2      = {{fb|LVA}}
+|report     = https://www.uefa.com/uefanationsleague/match/2048017/
+|goals1     =
+|goals2     =
+|location   = [[Yerevan]], Armenia
+|stadium    = [[Vazgen Sargsyan Republican Stadium]]
+|attendance =
+|referee    =
+|result     =
+}}
+{{Football box collapsible|format=1
+|round      = [[2026–27 UEFA Nations League C#Group 2|2026–27 Nations League]]
+|date       = 29 September 2026
+|time       = {{UTZ|20:00|+3}}
+|team1      = {{fb-rt|LVA}}
+|score      = 
+|team2      = {{fb|CYP}}
+|report     = https://www.uefa.com/uefanationsleague/match/2047988/
+|goals1     =
+|goals2     =
+|location   = [[Riga]], Latvia
+|stadium    = [[Skonto Stadium]]
+|attendance =
+|referee    =
+|result     =
+}}
+{{Football box collapsible|format=1
+|round      = [[2026–27 UEFA Nations League C#Group 2|2026–27 Nations League]]
+|date       = 2 October 2026
+|time       = {{UTZ|20:00|+3}}
+|team1      = {{fb-rt|LVA}}
+|score      = 
+|team2      = {{fb|MNE}}
+|report     = https://www.uefa.com/uefanationsleague/match/2047958/
+|goals1     =
+|goals2     =
+|location   = [[Riga]], Latvia
+|stadium    = [[Skonto Stadium]]
+|attendance =
+|referee    =
+|result     =
+}}
+{{Football box collapsible|format=1
+|round      = [[2026–27 UEFA Nations League C#Group 2|2026–27 Nations League]]
+|date       = 5 October 2026
+|time       = {{UTZ|21:45|+3}}
+|team1      = {{fb-rt|CYP}}
+|score      = 
+|team2      = {{fb|LVA}}
+|report     = https://www.uefa.com/uefanationsleague/match/2047936/
+|goals1     =
+|goals2     =
+|location   = [[Nicosia]], Cyprus
+|stadium    = [[GSP Stadium]]
+|attendance =
+|referee    =
+|result     =
+}}
+{{Football box collapsible|format=1
+|round      = [[2026–27 UEFA Nations League C#Group 2|2026–27 Nations League]]
+|date       = 12 November 2026
+|time       = {{UTZ|20:45|+1}}
+|team1      = {{fb-rt|MNE}}
+|score      = 
+|team2      = {{fb|LVA}}
+|report     = https://www.uefa.com/uefanationsleague/match/2047875/
+|goals1     =
+|goals2     =
+|location   = [[Podgorica]], Montenegro
+|stadium    = [[Podgorica City Stadium]]
+|attendance =
+|referee    =
+|result     =
+}}
+{{Football box collapsible|format=1
+|round      = [[2026–27 UEFA Nations League C#Group 2|2026–27 Nations League]]
+|date       = 15 November 2026
+|time       = {{UTZ|16:00|+2}}
+|team1      = {{fb-rt|LVA}}
+|score      = 
+|team2      = {{fb|ARM}}
+|report     = https://www.uefa.com/uefanationsleague/match/2047899/
+|goals1     =
+|goals2     =
+|location   = [[Riga]], Latvia
+|stadium    = [[Skonto Stadium]]
+|attendance =
+|referee    =
+|result     =
+}}
+
+==Coaching staff==
+{{updated|6 March 2024.}}
+{| class="wikitable" ;font-size:50%;"
+|-
+! Position
+! Name
+|-
+| Head coach
+|{{flagicon|ITA}} [[Paolo Nicolato]]<ref>{{cite web | url=https://sportacentrs.com/futbols/latvijas_izlase/05022024-italis_nikolato_galvenais_kandidats_uz_tr | title=Oficiāli: Par Latvijas izlases nākamo treneri kļūst itālis Nikolato | date=5 February 2024 }}</ref>
+|-
+|rowspan=2|Assistant coach
+|{{flagicon|ITA}} [[Massimo Paganin]]
+|-
+|{{flagicon|LVA}} [[Aleksandrs Cauņa]]
+|-
+| Video analyst
+|{{flagicon|ITA}} Leonardo Carletti
+|-
+| Video analyst
+|{{flagicon|LVA}} [[Iļja Ščaņicins]]
+|-
+| Fitness coach
+|{{flagicon|LVA}} [[Māris Smirnovs]]
+|-
+| Fitness coach
+|{{flagicon|ITA}} Vincenzo Pincolini
+|-
+| Goalkeeping coach
+|{{flagicon|ITA}} [[Gabriele Aldegani]]
+|-
+|rowspan=3|Physiotherapist
+|{{flagicon|LVA}} Artūrs Ivuškāns
+|-
+|{{flagicon|LVA}} Jurijs Ksenzovs
+|-
+|{{flagicon|LVA}} Dmitrijs Jefremenkovs
+|-
+| Masseur
+|{{flagicon|LVA}} Sergejs Avakovs
+|-
+| Doctor
+|{{flagicon|LVA}} Boriss Novikovs
+|-
+| Manager
+|{{flagicon|LVA}} [[Roberts Mežeckis]]
+|-
+| Kitman
+|{{flagicon|LVA}} Jānis Zeltiņš
+|-
+| Media officer
+|{{flagicon|LVA}} Iļja Poļakovs
+|-
+|}
+
+===Manager statistics===
+{{updated|12 June 2025}}.
+
+{| class="wikitable" style="text-align: center"
+|-
+!rowspan="2"|Team
+!rowspan="2"|From
+!rowspan="2"|To
+!colspan="5"|Record
+|-
+!G!!W!!D!!L!!Win %
+|-
+|align=left|[[Juris Rēdlihs-Raiskums]]
+|align=left|1922
+|align=left|1924
+{{WDL|3|0|2|1}}
+|-
+|align=left|[[Willi Malošík]]
+|align=left|1924
+|align=left|1924
+{{WDL|4|2|0|2}}
+|-
+|align=left|[[Walter Wilson (footballer, fl. 1894)|Walter Wilson]]
+|align=left|1925
+|align=left|1925
+{{WDL|3|0|2|1}}
+|-
+|align=left|[[Ferenc Molnár (footballer, born 1884)|Ferenc Molnár]]
+|align=left|1926
+|align=left|1926
+{{WDL|4|2|0|2}}
+|-
+|align=left|[[Karl Kurz]]
+|align=left|1927
+|align=left|1927
+{{WDL|5|2|0|3}}
+|-
+|align=left|[[Jānis Lapiņš]]
+|align=left|1932
+|align=left|1932
+{{WDL|1|0|0|1}}
+|-
+|align=left|[[Ferenc Voggenhuber]]
+|align=left|1935
+|align=left|1935
+{{WDL|9|1|5|3}}
+|-
+|align=left|[[Rudolf Stanzel]]
+|align=left|1936
+|align=left|1939
+{{WDL|25|14|6|5}}
+|-
+|align=left|[[Kārlis Upenieks]]
+|align=left|1940
+|align=left|1940
+{{WDL|1|0|1|0}}
+|-
+|align=left|[[Jānis Gilis]]
+|align=left|1992
+|align=left|1997
+{{WDL|61|17|11|33}}
+|-
+|align=left|[[Revaz Dzodzuashvili]]
+|align=left|1998
+|align=left|1999
+{{WDL|18|5|3|10}}
+|-
+|align=left|[[Gary Johnson (footballer, born 1955)|Gary Johnson]]
+|align=left|1999
+|align=left|2001
+{{WDL|15|3|3|9}}
+|-
+|align=left|[[Aleksandrs Starkovs]]
+|align=left|2001
+|align=left|2004
+{{WDL|43|16|8|19}}
+|-
+|align=left|[[Jurijs Andrejevs]]
+|align=left|2004
+|align=left|2007
+{{WDL|27|5|8|14}}
+|-
+|align=left|[[Aleksandrs Starkovs]]
+|align=left|2007
+|align=left|2013
+{{WDL|62|18|13|31}}
+|-
+|align=left|[[Marians Pahars]]
+|align=left|2013
+|align=left|2017
+{{WDL|33|7|11|15}}
+|-
+|align=left|[[Aleksandrs Starkovs]]
+|align=left|2017
+|align=left|2018
+{{WDL|11|1|2|8}}
+|-
+|align=left|[[Mixu Paatelainen]]
+|align=left|2018
+|align=left|2018
+{{WDL|9|1|5|3}}
+|-
+|align=left|[[Slaviša Stojanović (footballer, born 1969)|Slaviša Stojanović]]
+|align=left|2019
+|align=left|2020
+{{WDL|10|1|0|9}}
+|-
+|align=left|[[Dainis Kazakevičs]]
+|align=left|2020
+|align=left|2023
+{{WDL|41|11|12|18}}
+|-
+|align=left|[[Paolo Nicolato]]
+|align=left|2024
+|
+{{WDL|14|3|5|6}}
+|-
+|}
+
+===Coaching history===
+
+{{div col|colwidth=25em}}
+*{{flagicon|LVA}} [[Juris Rēdlihs-Raiskums]] (1922–1924)
+*{{flagicon|AUT}} [[Willi Malošík]] (1924)
+*{{flagicon|ENG}} [[Walter Wilson (footballer, fl. 1894)|Walter Wilson]] (1925)
+*{{flagicon|HUN|1920}} [[Ferenc Molnár (footballer, born 1884)|Ferenc Molnár]] (1926)
+*{{flagicon|AUT}} [[Karl Kurz]] (1927)
+*{{flagicon|AUT}} [[Willi Malošík]] (1929) <!-- No contemporary sources found linking him to the national team; newspapers from 1929 only identify him as coach of Riga based club, Wanderers. -->
+*{{flagicon|LVA}} [[Juris Rēdlihs-Raiskums]] (1930–1931) <!-- Possibly team delegate rather than manager; needs reliable source -->
+*{{flagicon|LVA}} [[Jānis Lapiņš]] (1932)
+*{{flagicon|HUN|1920}} [[Ferenc Voggenhuber]] (1935)
+*{{flagicon|AUT}} [[Rudolf Stanzel]] (1936–1939)
+*{{flagicon|LVA}} [[Kārlis Upenieks]] (1940)
+*{{flagicon|LVA}} [[Jānis Gilis]] (1992–1997)
+*{{flagicon|GEO|1990}} [[Revaz Dzodzuashvili]] (1998–1999)
+*{{flagicon|ENG}} [[Gary Johnson (footballer, born 1955)|Gary Johnson]] (1999–2001)
+*{{flagicon|LVA}} [[Aleksandrs Starkovs]] (2001–2004)
+*{{flagicon|LVA}} [[Jurijs Andrejevs]] (2004–2007)
+*{{flagicon|LVA}} [[Aleksandrs Starkovs]] (2007–2013)
+*{{flagicon|LVA}} [[Marians Pahars]] (2013–2017)
+*{{flagicon|LVA}} [[Aleksandrs Starkovs]] (2017–2018)
+*{{flagicon|FIN}} [[Mixu Paatelainen]] (2018)
+*{{flagicon|SVN}} [[Slaviša Stojanović (footballer, born 1969)|Slaviša Stojanović]] (2019–2020)
+*{{flagicon|LVA}} [[Dainis Kazakevičs]] (2020–2023)
+*{{flagicon|ITA}} [[Paolo Nicolato]] (2024–present)
+{{div col end}}
+
+==Players==
+
+===Current squad===
+The following players were called up for the [[2024–25 UEFA Nations League promotion/relegation play-offs]] against [[Gibraltar national football team|Gibraltar]] on 26 and 31 March 2026.<ref>{{cite web | title=Latvijas izlases sastāvs marta spēlēm ar Gibraltāru | url=https://lff.lv/zinas/18838/latvijas-izlases-sastavs-marta-spelem-ar-gibraltaru/}}</ref>
+
+''Caps and goals as of 15 November 2025, after the match against [[North Macedonia national football team|North Macedonia]].''
+
+{{nat fs g start}}
+{{nat fs g player|no=|pos=GK|name=[[Rihards Matrevics]]|age={{birth date and age|1999|3|18|df=y}}|caps=16|goals=0|club=[[FK Dukla Prague|Dukla Prague]]|clubnat=CZE}}
+{{nat fs g player|no=|pos=GK|name=[[Krišjānis Zviedris]]|age={{birth date and age|1997|1|21|df=y}}|caps=6|goals=0|club=[[Riga FC|Riga]]|clubnat=LVA}}
+{{nat fs g player|no=|pos=GK|name=[[Frenks Dāvids Orols]]|age={{birth date and age|2000|6|26|df=y}}|caps=0|goals=0|club=[[Riga FC|Riga]]|clubnat=LVA}}
+{{nat fs break}}
+{{nat fs g player|no=|pos=DF|name=[[Roberts Savaļnieks]]|age={{birth date and age|1993|2|4|df=y}}|caps=72|goals=2|club=[[FK RFS|RFS]]|clubnat=LVA}}
+{{nat fs g player|no=|pos=DF|name=[[Andrejs Cigaņiks]]|age={{Birth date and age|1997|4|12|df=y}}|caps=70|goals=4|club=[[FC Luzern|Luzern]]|clubnat=SUI}}
+{{nat fs g player|no=|pos=DF|name=[[Raivis Jurkovskis|Raivis Andris Jurkovskis]]|age={{Birth date and age|1996|12|9|df=y}}|caps=59|goals=0|club=[[Riga FC|Riga]]|clubnat=LVA}}
+{{nat fs g player|no=|pos=DF|name=[[Antonijs Černomordijs]]|age={{Birth date and age|1996|9|26|df=y}}|caps=47|goals=4|club=[[Riga FC|Riga]]|clubnat=LVA}}
+{{nat fs g player|no=|pos=DF|name=[[Vitālijs Jagodinskis]]|age={{Birth date and age|1992|2|28|df=y}}|caps=38|goals=0|club=[[Visakha FC|Visakha]]|clubnat=CAM}}
+{{nat fs g player|no=|pos=DF|name=[[Daniels Balodis]]|age={{Birth date and age|1998|6|10|df=y}}|caps=26|goals=1|club=[[FC Tatran Prešov|Tatran Prešov]]|clubnat=SVK}}
+{{nat fs g player|no=|pos=DF|name=[[Deniss Meļņiks]]|age={{Birth date and age|2002|9|7|df=y}}|caps=10|goals=0|club=[[FK Auda]]|clubnat=LVA}}
+{{nat fs g player|no=|pos=DF|name=[[Roberts Veips]]|age={{birth date and age|2000|2|22|df=y}}|caps=5|goals=0|club=[[FK RFS|RFS]]|clubnat=LVA}}
+{{nat fs g player|no=|pos=DF|name=[[Emīls Birka]]|age={{Birth date and age|2000|4|25|df=y}}|caps=1|goals=0|club=[[Riga FC|Riga]]|clubnat=LVA}}
+{{nat fs g player|no=|pos=DF|name=[[Niks Sliede]]|age={{Birth date and age|2004|3|8|df=y}}|caps=1|goals=0|club=[[FK RFS|RFS]]|clubnat=LVA}}
+{{nat fs g player|no=|pos=DF|name=[[Dennis Cirkin]]|age={{Birth date and age|2002|4|6|df=y}}|caps=0|goals=0|club=[[Sunderland A.F.C.|Sunderland]]|clubnat=ENG}}
+{{nat fs break}}
+{{nat fs g player|no=|pos=MF|name=[[Jānis Ikaunieks (footballer)|Jānis Ikaunieks]]|age={{birth date and age|1995|2|16|df=y}}|caps=73|goals=12|club=[[FK RFS|RFS]]|clubnat=LVA}}
+{{nat fs g player|no=|pos=MF|name=[[Aleksejs Saveļjevs]]|age={{Birth date and age|1999|1|30|df=y}}|caps=34|goals=1|club=[[FK Asia Talas|Asia Talas]]|clubnat=KGZ}}
+{{nat fs g player|no=|pos=MF|name=[[Eduards Emsis]]|age={{Birth date and age|1996|2|23|df=y}}|caps=33|goals=2|club=[[SK Super Nova|Super Nova]]|clubnat=LVA}}
+{{nat fs g player|no=|pos=MF|name=[[Dmitrijs Zelenkovs]]|age={{Birth date and age|2000|5|15|df=y}}|caps=23|goals=1|club=[[FK RFS|RFS]]|clubnat=LVA}}
+{{nat fs g player|no=|pos=MF|name=[[Renārs Varslavāns]]|age={{birth date and age|2001|8|23|df=y}}|caps=22|goals=1|club=[[Riga FC|Riga]]|clubnat=LVA}}
+{{nat fs g player|no=|pos=MF|name=[[Lukass Vapne]]|age={{Birth date and age|2003|8|31|df=y}}|caps=17|goals=0|club=[[Sogndal Fotball|Sogndal]]|clubnat=NOR}}
+{{nat fs g player|no=|pos=MF|name=[[Kristers Penkevics]]|age={{Birth date and age|2003|1|28|df=y}}|caps=1|goals=0|club=[[FC Zlín|Zlín]]|clubnat=CZE}}
+{{nat fs g player|no=|pos=MF|name=[[Kristaps Grabovskis]]|age={{birth date and age|2005|6|14|df=y}}|caps=2|goals=0|club=[[Boldklubben af 1893]]|clubnat=DEN}}
+{{nat fs g player|no=|pos=MF|name=[[Danila Patijčuks]]|age={{Birth date and age|2003|3|22|df=y}}|caps=0|goals=0|club=[[FK Liepāja]]|clubnat=LVA}}
+{{nat fs break}}
+{{nat fs g player|no=|pos=FW|name=[[Vladislavs Gutkovskis]]|age={{Birth date and age|1995|4|2|df=y}}|caps=61|goals=14|club=[[Arka Gdynia]]|clubnat=POL}}
+{{nat fs g player|no=|pos=FW|name=[[Roberts Uldriķis]]|age={{Birth date and age|1998|4|3|df=y}}|caps=56|goals=8|club=[[Arminia Bielefeld]]||clubnat=GER}}
+{{nat fs g player|no=|pos=FW|name=[[Marko Regža]]|age={{Birth date and age|1999|1|20|df=y}}|caps=15|goals=0|club=[[FC Hradec Králové|Hradec Králové]]|clubnat=CZE}}
+{{nat fs g player|no=|pos=FW|name=[[Dario Šits]]|age={{Birth date and age|2004|2|4|df=y}}|caps=10|goals=2|club=[[Atlético Madrileño|Atlético Madrid B]]|clubnat=ESP}}
+{{nat fs end}}
+
+===Recent call-ups===
+The following players have been called up within the last twelve months.
+<!--Sorted by position, most recent call-up, caps, goals and last name.-->
+{{nat fs r start}}
+{{nat fs r player|no=|pos=DF|name=[[Maksims Toņiševs]]|age={{Birth date and age|2000|5|12|df=y}}|caps=7|goals=0|club=[[Riga FC|Riga]]|clubnat=LVA|latest=v. {{fb|SRB}}, 16 November 2025}}
+{{nat fs r player|no=|pos=DF|name=[[Vjačeslavs Isajevs]]|age={{Birth date and age|1993|8|23|df=y}}|caps=7|goals=0|club=[[FK Liepāja]]|clubnat=LVA|latest=v. {{fb|ENG}}, 14 October 2025}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=MF|name=[[Bruno Melnis]] <sup>INJ</sup>|age={{Birth date and age|2004|1|21|df=y}}|caps=4|goals=0|club=[[FK Liepāja]]|clubnat=LVA|latest=v. {{fb|GIB}}, 26 March 2026}}
+{{nat fs r player|no=|pos=MF|name=[[Eduards Dašķevičs]]|age={{Birth date and age|2002|7|12|df=y}}|caps=23|goals=0|club=[[FK Auda]]|clubnat=LVA|latest=v. {{fb|SRB}}, 16 November 2025}}
+{{nat fs r player|no=|pos=MF|name=[[Alvis Jaunzems]] <sup>INJ</sup>|age={{Birth date and age|1999|6|16|df=yes}}|caps=46|goals=0|club=[[Lechia Gdańsk]]|clubnat=POL|latest=v. {{fb|ENG}}, 14 October 2025}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=FW|name=[[Ingars Pūlis]]|age={{Birth date and age|2001|1|24|df=y}}|caps=1|goals=0|club=[[FK Liepāja]]|clubnat=LVA|latest=v. {{fb|SRB}}, 16 November 2025}}
+{{nat fs break}}
+<sup>RET</sup> Retired from national team<br>
+<sup>INJ</sup> Injured player<br>
+<sup>WD</sup> Withdrew from the squad due to non-injury issue
+{{nat fs end}}
+
+==Player records==
+{{updated|21 November 2023.}}<ref>{{cite web |title=Latvia |url=https://www.national-football-teams.com/country/102/Latvia.html |website=National Football Teams}}</ref>
+:''Players in '''bold''' are still active with Latvia.''
+
+===Most appearances===
+[[File:Vitālijs Astafjevs LVA.jpg|175px|right|thumb|Vitālijs Astafjevs is Latvia's most capped player with 167 appearances.]]
+
+{| class="wikitable sortable" style="font-size:100%; text-align:center;"
+|-
+!width=30px|Rank
+!width=150px|Player
+!width=50px|Caps
+!width=50px|Goals
+!width=100px|Period
+|-
+|1
+|align="left"|[[Vitālijs Astafjevs]]
+|167
+|16
+|1992–2010
+|-
+|2
+|align="left"|[[Andrejs Rubins]]
+|117
+|9
+|1998–2011
+|-
+|3
+|align="left"|[[Juris Laizāns]]
+|113
+|15
+|1998–2013
+|-
+|4
+|align="left"|[[Imants Bleidelis]]
+|106
+|10
+|1995–2007
+|-
+|5
+|align="left"|[[Mihails Zemļinskis]]
+|105
+|12
+|1992–2005
+|-
+|6
+|align="left"|[[Māris Verpakovskis]]
+|104
+|29
+|1999–2014
+|-
+|rowspan=2|7
+|align="left"|[[Igors Stepanovs]]
+|100
+|4
+|1995–2011
+|-
+|align="left"|[[Andris Vaņins]]
+|100
+|0
+|2000–2019
+|-
+|9
+|align="left"|[[Aleksandrs Koliņko]]
+|94
+|0
+|1997–2015
+|-
+|10
+|align="left"|[[Kaspars Gorkšs]]
+|89
+|5
+|2005–2017
+|-
+|}
+
+===Top goalscorers===
+[[File:Māris Verpakovskis.jpg|200px|right|thumb|Māris Verpakovskis is Latvia's top scorer with 29 goals.]]
+
+{| class="wikitable sortable" style="font-size:100%; text-align:center;"
+|-
+!width=30px|Rank
+!width=175px|Player
+!width=50px|Goals
+!width=50px|Caps
+!width=50px|Average
+!width=100px|Period
+|-
+|1.
+|style="text-align:left;"|[[Māris Verpakovskis]]
+|29
+|104
+|{{#expr: 29/104 round 2}}
+|1999–2014
+|-
+|2.
+|style="text-align:left;"|[[Ēriks Pētersons]]
+|24
+|63
+|{{#expr: 24/63 round 2}}
+|1929–1939
+|-
+|3.
+|style="text-align:left;"|[[Vitālijs Astafjevs]]
+|16
+|167
+|{{#expr: 16/167 round 2}}
+|1992–2010
+|-
+|rowspan=2|4.
+|style="text-align:left;"|[[Marians Pahars]]
+|15
+|75
+|{{#expr: 15/75 round 2}}
+|1996–2007
+|-
+|style="text-align:left;"|[[Juris Laizāns]]
+|15
+|113
+|{{#expr: 15/113 round 2}}
+|1998–2013
+|-
+|6.
+|style="text-align:left;"|[[Alberts Šeibelis]]
+|14
+|54
+|{{#expr: 14/54 round 2}}
+|1925–1939
+|-
+|rowspan=2|7.
+|style="text-align:left;"|[[Iļja Vestermans]]
+|13
+|23
+|{{#expr: 13/23 round 2}}
+|1935–1938
+|-
+|style="text-align:left;"|[[Valērijs Šabala]]
+|13
+|53
+|{{#expr: 13/53 round 2}}
+|2013–2019
+|-
+|rowspan=4|9.
+|style="text-align:left;"|[[Aleksandrs Cauņa]]
+|12
+|45
+|{{#expr: 12/45 round 2}}
+|2007–2015
+|-
+|style="text-align:left;"|'''[[Vladislavs Gutkovskis]]'''
+|12
+|56
+|{{#expr: 12/65 round 2}}
+|2016–present
+|-
+|style="text-align:left;"|'''[[Jānis Ikaunieks (footballer)|Jānis Ikaunieks]]'''
+|12
+|65
+|{{#expr: 12/65 round 2}}
+|2014–present
+|-
+|style="text-align:left;"|[[Mihails Zemļinskis]]
+|12
+|105
+|{{#expr: 12/105 round 2}}
+|1992–2005
+|-
+|}
+
+===Hat-tricks===
+{| class="wikitable sortable"
+|-
+! Player !! style="text-align:center" | Competition !! Against !! style="text-align:center" | Home/Away !! style="text-align:center;"| Result !! Date
+|-
+| {{sortname|Voldemārs Žins||}}|| style="text-align:center;"| International Friendly ||{{flagicon|LIT}} [[Lithuania national football team|Lithuania]] || style="text-align:center;"| Home || style="text-align:center;"| 6–3||{{dts|format=dmy|1927|7|27}}
+|-
+| {{sortname|Voldemārs Plade||}}|| style="text-align:center;"| [[1929 Baltic Cup]] ||{{flagicon|LIT}} [[Lithuania national football team|Lithuania]] || style="text-align:center;"| Home || style="text-align:center;"| 3–1||{{dts|format=dmy|1929|8|14}}
+|-
+| {{sortname|Ēriks Pētersons||}}|| style="text-align:center;"| [[1930 Baltic Cup]] ||{{flagicon|LIT}} [[Lithuania national football team|Lithuania]] || style="text-align:center;"| Away || style="text-align:center;"| 3–3||{{dts|format=dmy|1930|8|17}}
+|-
+| {{sortname|Ēriks Pētersons||}}<sup> 4</sup> || style="text-align:center;"| International Friendly ||{{flagicon|LIT}} [[Lithuania national football team|Lithuania]] || style="text-align:center;"| Home || style="text-align:center;"| 5–2||{{dts|format=dmy|1931|6|30}}
+|-
+| {{sortname|Ēriks Pētersons||}}|| style="text-align:center;"| International Friendly ||{{flagicon|LIT}} [[Lithuania national football team|Lithuania]] || style="text-align:center;"| Home || style="text-align:center;"| 6–2||{{dts|format=dmy|1933|6|12}}
+|-
+| [[Hugo Vītols]]|| style="text-align:center;" | International Friendly ||{{flagicon|LIT}} [[Lithuania national football team|Lithuania]] || style="text-align:center;"| Home || style="text-align:center;"| 6–1||{{dts|format=dmy|1935|5|30}}
+|-
+| {{sortname|Fricis Kaņeps||}}|| style="text-align:center;"| [[1938 FIFA World Cup qualification]] ||{{flagicon|LIT}} [[Lithuania national football team|Lithuania]] || style="text-align:center;"| Home || style="text-align:center;"| 4–2||{{dts|format=dmy|1937|7|29}}
+|}
+* <small><sup>4</sup> Player scored 4 goals</small>
+
+===Clean sheets===
+{| class="wikitable"
+|-
+! Rank
+! Player
+! Games
+|-
+!rowspan=1 align=center|1
+|[[Andris Vaņins]]
+|align=center|25
+|-
+!rowspan=1 align=center|2
+|[[Aleksandrs Koliņko]]
+|align=center|21
+|-
+!rowspan=1 align=center|3
+|[[Oļegs Karavajevs]]
+|align=center|13
+|-
+!rowspan=1 align=center|4
+|[[Raimonds Laizāns]]
+|align=center|12
+|-
+!rowspan=3 align=center|5
+|[[Arvīds Jurgens]]
+|align=center|5
+|-
+|[[Jānis Bebris]]
+|align=center|5
+|-
+|[[Pāvels Šteinbors]]
+|align=center|5
+|-
+!rowspan=2 align=center|8
+|[[Jānis Kļaviņš]]
+|align=center|4
+|-
+|'''[[Roberts Ozols (footballer)|Roberts Ozols]]'''
+|align=center|4
+|-
+!align=center|10
+|[[Andrejs Piedels]]
+|align=center|2
+|-
+|}
+
+==Competitive record==
+===FIFA World Cup===
+{| class="wikitable" style="text-align: center;"
+!colspan=9|[[FIFA World Cup]] record
+!width=1% rowspan=28|
+!colspan=6|[[FIFA World Cup qualification|Qualification]] record
+|-
+!Year
+!Result
+!Position
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}*
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+|-
+|{{flagicon|Uruguay}} [[1930 FIFA World Cup|1930]]
+| colspan=8 rowspan=2|''Did not enter''
+| colspan=6|''Declined invitation''
+|-
+|{{flagicon|Italy|1861}} [[1934 FIFA World Cup|1934]]
+| colspan=6|''Did not enter''
+|-
+|{{flagicon|France|1794}} [[1938 FIFA World Cup|1938]]
+| colspan=8|''Did not qualify''
+| 3
+| 2
+| 0
+| 1
+| 10
+| 5
+|-
+|{{flagicon|Brazil|1889}} [[1950 FIFA World Cup|1950]]
+| colspan=8 rowspan=11|''Part of the {{fb|Soviet Union}}''
+| colspan=6 rowspan=11|''Part of the {{fb|Soviet Union}}''
+|-
+|{{flagicon|Switzerland}} [[1954 FIFA World Cup|1954]]
+|-
+|{{flagicon|Sweden}} [[1958 FIFA World Cup|1958]]
+|-
+|{{flagicon|Chile}} [[1962 FIFA World Cup|1962]]
+|-
+|{{flagicon|England}} [[1966 FIFA World Cup|1966]]
+|-
+|{{flagicon|Mexico}} [[1970 FIFA World Cup|1970]]
+|-
+|{{flagicon|West Germany}} [[1974 FIFA World Cup|1974]]
+|-
+|{{flagicon|Argentina}} [[1978 FIFA World Cup|1978]]
+|-
+|{{flagicon|Spain}} [[1982 FIFA World Cup|1982]]
+|-
+|{{flagicon|Mexico}} [[1986 FIFA World Cup|1986]]
+|-
+|{{flagicon|Italy}} [[1990 FIFA World Cup|1990]]
+|-
+|{{flagicon|United States}} [[1994 FIFA World Cup|1994]]
+| colspan=8 rowspan=9|''Did not qualify''
+| 12
+| 0
+| 5
+| 7
+| 4
+| 21
+|-
+|{{flagicon|France|1974}} [[1998 FIFA World Cup|1998]]
+| 10
+| 3
+| 1
+| 6
+| 10
+| 14
+|-
+|{{flagicon|South Korea|1997}} {{flagicon|Japan}} [[2002 FIFA World Cup|2002]]
+| 8
+| 1
+| 1
+| 6
+| 5
+| 16
+|-
+|{{flagicon|Germany}} [[2006 FIFA World Cup|2006]]
+| 12
+| 4
+| 3
+| 5
+| 18
+| 21
+|-
+|{{flagicon|South Africa}} [[2010 FIFA World Cup|2010]]
+| 10
+| 5
+| 2
+| 3
+| 18
+| 15
+|-
+|{{flagicon|Brazil}} [[2014 FIFA World Cup|2014]]
+| 10
+| 2
+| 2
+| 6
+| 10
+| 20
+|-
+|{{flagicon|Russia}} [[2018 FIFA World Cup|2018]]
+| 10
+| 2
+| 1
+| 7
+| 7
+| 18
+|-
+|{{flagicon|Qatar}} [[2022 FIFA World Cup|2022]]
+| 10
+| 2
+| 3
+| 5
+| 11
+| 14
+|-
+|{{flagicon|Canada}} {{flagicon|Mexico}} {{flagicon|United States}} [[2026 FIFA World Cup|2026]]
+| 8
+| 1
+| 2
+| 5
+| 5
+| 15
+|-
+|{{flagicon|Morocco}} {{flagicon|Portugal}} {{flagicon|Spain}} [[2030 FIFA World Cup|2030]]
+| colspan=8 rowspan=2|''To be determined''
+| colspan=6 rowspan=2|''To be determined''
+|-
+|{{flagicon|Saudi Arabia}} [[2034 FIFA World Cup|2034]]
+|-
+!Total
+! 
+!{{Tooltip|0/12|Number of tournaments qualified for}}
+! 
+! 
+! 
+! 
+!
+!
+!93
+!22
+!20
+!51
+!98
+!159
+|}
+
+===UEFA European Championship===
+{{Main|Latvia at the UEFA European Championship}}
+{| class="wikitable" style="text-align: center;"
+|-
+!colspan=10|[[UEFA European Championship]] record 
+! style="width:1%;" rowspan=22|
+!colspan=6|[[UEFA European Championship qualifying|Qualifying]] record
+|-
+!Year
+!Result
+!Position
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}*
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!Squad 
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+|-
+|{{flagicon|France|1794}} [[1960 European Nations' Cup|1960]]
+| colspan=9 rowspan=9|''Part of the {{fb|Soviet Union}}''
+| colspan=6 rowspan=9|''Part of the {{fb|Soviet Union}}''
+|-
+|{{flagicon|Spain|1945}} [[1964 European Nations' Cup|1964]]
+|-
+|{{flagicon|Italy}} [[UEFA Euro 1968|1968]]
+|-
+|{{flagicon|Belgium}} [[UEFA Euro 1972|1972]]
+|-
+|{{flagicon|Yugoslavia}} [[UEFA Euro 1976|1976]]
+|-
+|{{flagicon|Italy}} [[UEFA Euro 1980|1980]]
+|-
+|{{flagicon|France|1974}} [[UEFA Euro 1984|1984]]
+|-
+|{{flagicon|West Germany}} [[UEFA Euro 1988|1988]]
+|- 
+|{{flagicon|Sweden}} [[UEFA Euro 1992|1992]]
+|-
+|{{flagicon|England}} [[UEFA Euro 1996|1996]]
+| colspan=9 rowspan=2|''Did not qualify''
+| 10
+| 4
+| 0
+| 6
+| 11
+| 20
+|-
+|{{flagicon|Belgium}} {{flagicon|Netherlands}} [[UEFA Euro 2000|2000]]
+| 10
+| 3
+| 4
+| 3
+| 13
+| 12
+|-
+|{{flagicon|Portugal}} [[UEFA Euro 2004|2004]]
+| Group stage
+| 14th
+| 3
+| 0
+| 1
+| 2
+| 1
+| 5
+|[[UEFA Euro 2004 squads#Latvia|Squad]]
+| 10
+| 6
+| 2
+| 2
+| 13
+| 8
+|-
+|{{flagicon|Austria}} {{flagicon|Switzerland}} [[UEFA Euro 2008|2008]]
+| colspan=9 rowspan=5|''Did not qualify''
+| 12
+| 4
+| 0
+| 8
+| 15
+| 17
+|-
+|{{flagicon|Poland}} {{flagicon|Ukraine}} [[UEFA Euro 2012|2012]]
+| 10
+| 3
+| 2
+| 5
+| 9
+| 12
+|-
+|{{flagicon|France|1974}} [[UEFA Euro 2016|2016]]
+| 10
+| 0
+| 5
+| 5
+| 6
+| 19
+|-
+|{{flagicon|Europe}} [[UEFA Euro 2020|2020]]
+| 10
+| 1
+| 0
+| 9
+| 3
+| 28
+|-
+|{{flagicon|Germany}} [[UEFA Euro 2024|2024]]
+| 8
+| 1
+| 0
+| 7
+| 5
+| 19
+|-
+|{{flagicon|United Kingdom}} {{flagicon|Republic of Ireland}} [[UEFA Euro 2028|2028]]
+| colspan=9 rowspan=2|''To be determined''
+| colspan=6 rowspan=2|''To be determined''
+|-
+|{{flagicon|Italy}} {{flagicon|Turkey}}  [[UEFA Euro 2032|2032]]
+|-
+!Total
+!Group stage
+!1/8
+!3
+!0
+!1
+!2
+!1
+!5
+!—
+!80
+!22
+!13
+!45
+!75
+!135
+|}
+
+===UEFA Nations League===
+{| class="wikitable" style="text-align: center;"
+|-
+!colspan=11|[[UEFA Nations League]] record
+|-
+!Season
+!Division
+!Group
+!width=28|{{Tooltip|Pld|Games played}}
+!width=28|{{Tooltip|W|Won}}
+!width=28|{{Tooltip|D|Drawn}}
+!width=28|{{Tooltip|L|Lost}}
+!width=28|{{Tooltip|GF|Goals for}}
+!width=28|{{Tooltip|GA|Goals against}}
+!width=35|{{Tooltip|P/R|Promotion/relegation at end of season}}
+!width=28|{{Tooltip|RK|Overall rank}}
+|-
+|[[2018–19 UEFA Nations League|2018–19]]
+|[[2018–19 UEFA Nations League D|D]]
+|[[2018–19 UEFA Nations League D#Group 1|1]]
+|6||0||4||2||2||6||{{same position}}||51st
+|-
+|[[2020–21 UEFA Nations League|2020–21]]
+|[[2020–21 UEFA Nations League D|D]]
+|[[2020–21 UEFA Nations League D#Group 1|1]]
+||6||1||4||1||8||4||{{same position}}||53rd
+|-
+|[[2022–23 UEFA Nations League|2022–23]]
+|[[2022–23 UEFA Nations League D|D]]
+|[[2022–23 UEFA Nations League D#Group 1|1]]
+||6||4||1||1||12||5||{{rise}}||50th
+|-
+|[[2024–25 UEFA Nations League|2024–25]]
+|[[2024–25 UEFA Nations League C|C]]
+|[[2024–25 UEFA Nations League C#Group 4|4]]
+||8||3||1||4||6||11||{{same position}}||TBD
+|-
+!colspan=3|Total
+!26
+!8
+!10
+!8
+!28
+!26
+!colspan=2|50th
+|}
+
+===Baltic Cup===
+{| class="wikitable" style="text-align: center;"
+|-
+!colspan=9|[[Baltic Cup (football)|Baltic Cup]] record
+|-
+!Year||Result||Position||Pld||W||D||L||GF||GA
+|-style="background:gold;"
+| [[1928 Baltic Cup|1928]] ||'''Champions'''||'''1st'''||2||2||0||0||4||0
+|-style="background:Silver;"
+| [[1928 Baltic Cup|1929]] ||Runners-up||2nd||2||1||1||0||5||3
+|-style="background:Silver;"
+| [[1930 Baltic Cup|1930]] ||Runners-up||2nd||2||1||1||0||6||5
+|-style="background:Silver;"
+| [[1931 Baltic Cup|1931]] ||Runners-up||2nd||2||1||0||1||2||3
+|-style="background:gold;"
+| [[1932 Baltic Cup|1932]] ||'''Champions'''||'''1st'''||2||2||0||0||5||1
+|-
+| [[1933 Baltic Cup|1933]] ||''Abandoned''||1st||2||1||1||0||3||2
+|-style="background:Silver;"
+| [[1935 Baltic Cup|1935]] ||Runners-up||2nd||2||0||2||0||3||3
+|-style="background:gold;"
+| [[1936 Baltic Cup|1936]] ||'''Champions'''||'''1st'''||2||2||0||0||4||2
+|-style="background:gold;"
+| [[1937 Baltic Cup|1937]] ||'''Champions'''||'''1st'''||2||1||1||0||6||2
+|-style="background:Silver;"
+| [[1938 Baltic Cup|1938]] ||Runners-up||2nd||2||0||2||0||2||2
+|-style="background:Silver;"
+| [[1991 Baltic Cup|1991]] ||Runners-up||2nd||2||1||1||0||3||1
+|-style="background:Silver;"
+| [[1992 Baltic Cup|1992]] ||Runners-up||2nd||2||1||0||1||4||4
+|-style="background:gold;"
+| [[1993 Baltic Cup|1993]] ||'''Champions'''||1st||2||1||1||0||2||0
+|-style="background:Silver;"
+| [[1994 Baltic Cup|1994]] ||Runners-up||2nd||2||1||0||1||2||1
+|-style="background:gold;"
+| [[1995 Baltic Cup|1995]] ||'''Champions'''||'''1st'''||2||2||0||0||4||0
+|-style="background:#c96;"
+| [[1996 Baltic Cup|1996]] ||Third place||3rd||2||0||1||1||2||3
+|-style="background:Silver;"
+| [[1997 Baltic Cup|1997]] ||Runners-up||2nd||2||1||0||1||2||2
+|-style="background:Silver;"
+| [[1998 Baltic Cup|1998]] ||Runners-up||2nd||2||1||0||1||2||1
+|-style="background:gold;"
+| [[2001 Baltic Cup|2001]] ||'''Champions'''||'''1st'''||2||2||0||0||7||2
+|-style="background:gold;"
+| [[2003 Baltic Cup|2003]] ||'''Champions'''||'''1st'''||2||1||1||0||2||1
+|-style="background:Silver;"
+| [[2005 Baltic Cup|2005]] ||Runners-up||2nd||1||0||0||1||0||2
+|-style="background:gold;"
+| [[2008 Baltic Cup|2008]] ||'''Champions'''||'''1st'''||2||2||0||0||3||1
+|-style="background:Silver;"
+| [[2010 Baltic Cup|2010]] ||Runners-up||2nd||2||0||2||0||0||0
+|-style="background:gold;"
+| [[2012 Baltic Cup|2012]] ||'''Champions'''||'''1st'''||2||2||0||0||6||1
+|-style="background:gold;"
+| [[2014 Baltic Cup|2014]] ||'''Champions'''||'''1st'''||2||2||0||0||1||0
+|-style="background:gold;"
+| [[2016 Baltic Cup|2016]] ||'''Champions'''||'''1st'''||2||1||1||0||2||1
+|-style="background:gold;"
+| [[2018 Baltic Cup|2018]] ||'''Champions'''||'''1st'''||2||1||1||0||2||1
+|-style="background:Silver;"
+| [[2020 Baltic Cup|2020]] ||Runners-up||2nd||2||1||0||1||4||3
+|-style="background:Silver;"
+| [[2022 Baltic Cup|2022]] ||Runners-up||2nd||2||1||0||1||2||2
+|-style="background:#c96;"
+| [[2024 Baltic Cup|2024]] ||Third place||3rd||2||1||0||1||1||2
+|-
+| [[2026 Baltic Cup|2026]] ||Fourth place||4th||2||0||1||1||1||2
+|-
+! Total ||13 Titles||31/31||61||33||17||11||92||53
+|}
+
+===Olympic Games===
+{| class="wikitable" style="text-align: center;"
+|-
+!colspan=10|[[Football at the Summer Olympics|Olympic Games]] record
+|-
+!Year
+!Result
+!Position
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!Squad
+|-
+|{{flagicon|France|1794}} [[Football at the 1924 Summer Olympics|1924]]||Second round ||15th||1||0||0||1||0||7||[[Football at the 1924 Summer Olympics&nbsp;– Men's team squads#Latvia|Squad]]
+|-
+!Total||Second round||1/1||1||0||0||1||0||7||—
+|}
+
+==Head-to-head record==
+''As of 16 November 2025 after match against [[Serbia national football team|Serbia]].''<ref>{{cite web|url=http://www.eloratings.net/Latvia|title=World Football Elo Ratings: Latvia|publisher=Elo Ratings|access-date=6 July 2017|archive-date=29 January 2018|archive-url=https://web.archive.org/web/20180129004602/http://www.eloratings.net/Latvia|url-status=live}}</ref>
+
+{| class="wikitable sortable collapsible collapsed" style="text-align: center; font-size: 100%;"
+|-
+! Opponent
+! Pld
+! W
+! D *
+! L
+! GF
+! GA
+! GD
+|- bgcolor="#d0ffd0" align="center"
+|-
+|- bgcolor="#FFFACD"
+| align="left" | {{fb|ALB}} || 7 || 0 || 6 || 1 || 7 || 8 || –1
+|-
+|- bgcolor="#CCFFCC"
+| align="left" | {{fb|AND}} || 13|| 8 || 5 || 0 || 26 || 4 || +22
+|-
+|- bgcolor="#FFFACD"
+| align="left" | {{fb|ANG}} || 1 || 0 || 1 || 0 || 1 || 1 || 0
+|-
+|- bgcolor="#FFCCCC"
+| align="left" | {{fb|ARM}} || 6 || 2 || 1 || 3 || 7 || 8 || –1
+|-
+|- bgcolor="#FFCCCC"
+| align="left" | {{fb|AUT}} || 9 || 2 || 1 || 6 || 9 || 24 || −15
+|-
+|- bgcolor="#FFFACD"
+| align="left" | {{fb|AZE}} || 6 || 1 || 4 || 1 || 4 || 5 || −1
+|-
+|- bgcolor="#FFFACD"
+| align="left" | {{fb|BHR}} || 1 || 0 || 1 || 0 || 2 || 2 || 0
+|-
+|- bgcolor="#FFCCCC"
+| align="left" | {{fb|BLR}} || 6 || 1 || 1 || 4 || 7 || 13 || −6
+|-
+|- bgcolor="#FFCCCC"
+| align="left" | {{fb|BEL}} || 2 || 0 || 0 || 2 || 1 || 7 || −6
+|-
+|- bgcolor="#CCFFCC"
+| align="left" | {{fb|BOL}} || 1 || 1 || 0 || 0 || 2 || 1 || +1
+|-
+|- bgcolor="#FFCCCC"
+| align="left" | {{fb|BIH}} || 2 || 0 || 0 || 2 || 1 || 9 || −8
+|-
+|- bgcolor="#FFCCCC"
+| align="left" | {{fb|BRA}} || 1 || 0 || 0 || 1 || 0 || 3 || −3
+|-
+|- bgcolor="#FFCCCC"
+| align="left" | {{fb|BUL}} || 3 || 0 || 0 || 3 || 0 || 6 || −6
+|-
+|- bgcolor="#FFCCCC"
+| align="left" | {{fb|CHN}} || 1 || 0 || 0 || 1 || 0 || 1 || −1
+|-
+|- bgcolor="#FFCCCC"
+| align="left" | {{fb|CRO}} || 6 || 0 || 0 || 6 || 1 || 17 || −16
+|-
+|- bgcolor="#FFCCCC"
+| align="left" | {{fb|CYP}} || 3 || 0 || 1 || 2 || 1 || 4 || −3
+|-
+|- bgcolor="#FFCCCC"
+| align="left" | {{fb|CZE}} || 5 || 0 || 1 || 4 || 4 || 13 || −9
+|-
+|- bgcolor="#FFCCCC"
+| align="left" | {{fb|DEN}} || 4 || 0 || 1 || 3 || 1 || 7 || −6
+|-
+|- bgcolor="#FFCCCC"
+| align="left" | {{fb|ENG}} || 2 || 0 || 0 || 2 || 0 || 8 || −8
+|-
+|- bgcolor="#CCFFCC"
+| align="left" | {{fb|EST}} || 61 || 28 || 22 || 11 || 95 || 63 || +32
+|-
+|- bgcolor="#CCFFCC"
+| align="left" | {{fb|FRO}} || 8 || 2 || 5 || 1 || 5 || 5 || 0
+|-
+|- bgcolor="#FFCCCC"
+| align="left" | {{fb|FIN}} || 17 || 4 || 3 || 10 || 18 || 32 || −14
+|-
+|- bgcolor="#FFCCCC"
+| align="left" | {{fb|FRA}} || 1 || 0 || 0 || 1 || 0 || 7 || −7
+|-
+|- bgcolor="#FFCCCC"
+| align="left" | {{fb|GEO}} || 10 || 3 || 2 || 5 || 10 || 18 || −8
+|-
+|- bgcolor="#FFCCCC"
+| align="left" | {{fb|GER}} || 4 || 0 || 1 || 3 || 2 || 13 || −11
+|-
+|- bgcolor="#FFCCCC"
+| align="left" | {{fb|GHA}} || 1 || 0 || 0 || 1 || 0 || 1 || −1
+|-
+|- bgcolor="#CCFFCC"
+| align="left" | {{fb|GIB}} || 4 || 3 || 0 || 1 || 11 || 3 || +8
+|-
+|- bgcolor="#FFCCCC"
+| align="left" | {{fb|GRE}} || 8 || 1 || 2 || 5 || 6 || 13 || −7
+|-
+|- bgcolor="#FFCCCC"
+| align="left" | {{fb|HON}} || 1 || 0 || 0 || 1 || 1 || 2 || −1
+|-
+|- bgcolor="#FFCCCC"
+| align="left" | {{fb|HUN}} || 7 || 1 || 0 || 6 || 7 || 16 || −9
+|-
+|- bgcolor="#FFFACD"
+| align="left" | {{fb|ISL}} || 7 || 2 || 3 || 2 || 12 || 12 || 0
+|-
+|- bgcolor="#FFCCCC"
+| align="left" | {{fb|ISR}} || 8 || 1 || 1 || 6 || 6 || 18 || −12
+|-
+|- bgcolor="#FFCCCC"
+| align="left" | {{fb|JPN}} || 2 || 0 || 1 || 1 || 2 || 5 || −3
+|-
+|- bgcolor="#CCFFCC"
+| align="left" | {{fb|KAZ}} || 7 || 2 || 4 || 1 || 7 || 5 || +2
+|-
+|- bgcolor="#FFCCCC"
+| align="left" | {{fb|KOS}} || 1 || 0 || 0 || 1 || 3 || 4 || −1
+|-
+|- bgcolor="#FFCCCC"
+| align="left" | {{fb|KUW}} || 2 || 0 || 1 || 1 || 1 || 3 || −2
+|-
+|- bgcolor="#CCFFCC"
+| align="left" | {{fb|LIE}} || 12 || 9 || 2 || 1 || 19 || 5 || +14
+|-
+|- bgcolor="#CCFFCC"
+| align="left" | {{fb|LIT}} || 57 || 29 || 12 || 16 || 119 || 79 || +40
+|-
+|- bgcolor="#CCFFCC"
+| align="left" | {{fb|LUX}} || 7 || 6 || 1 || 0 || 20 || 4 || +16
+|-
+|- bgcolor="#FFFACD"
+| align="left" | {{fb|MLT}} || 7 || 3 || 1 || 3 || 8 || 5 || +3
+|-
+|- bgcolor="#CCFFCC"
+| align="left" | {{fb|MDA}} || 5 || 3 || 0 || 2 || 11 || 9 || +2
+|-
+|- bgcolor="#FFCCCC"
+| align="left" | {{fb|MNE}} || 4 || 0 || 2 || 2 || 2 || 5 || −3
+|-
+|- bgcolor="#FFCCCC"
+| align="left" | {{fb|NED}} || 5 || 0 || 0 || 5 || 0 || 14 || −14
+|-
+|- bgcolor="#CCFFCC"
+| align="left" | {{fb|PRK}} || 2 || 1 || 1 || 0 || 3 || 2 || +1
+|-
+|- bgcolor="#FFCCCC"
+| align="left" | {{fb|MKD}} || 6 || 0 || 1 || 5 || 2 || 11 || −9
+|-
+|- bgcolor="#FFCCCC"
+| align="left" | {{fb|NIR}} || 7 || 2 || 0 || 5 || 4 || 8 || −4
+|-
+|- bgcolor="#FFCCCC"
+| align="left" | {{fb|NOR}} || 4 || 1 || 1 || 2 || 4 || 5 || -1
+|-
+|- bgcolor="#FFFACD"
+| align="left" | {{fb|OMA}} || 2 || 1 || 0 || 1 || 4 || 4 || 0
+|-
+|- bgcolor="#FFCCCC"
+| align="left" | {{fb|POL}} || 16 || 2 || 2 || 12 || 15 || 42 || −27
+|-
+|- bgcolor="#FFCCCC"
+| align="left" | {{fb|POR}} || 6 || 0 || 0 || 6 || 4 || 18 || −14
+|-
+|- bgcolor="#FFCCCC"
+| align="left" | {{fb|QAT}} || 1 || 0 || 0 || 1 || 1 || 3 || −2
+|-
+|- bgcolor="#FFCCCC"
+| align="left" | {{fb|IRL}} || 6 || 0 || 0 || 6 || 3 || 17 || −14
+|-
+|- bgcolor="#FFCCCC"
+| align="left" | {{fb|ROM}} || 5 || 0 || 1 || 4 || 0 || 9 || −9
+|-
+|- bgcolor="#FFCCCC"
+| align="left" | {{fb|RUS}} || 4 || 0 || 1 || 3 || 2 || 7 || −5
+|-
+|- bgcolor="#CCFFCC"
+| align="left" | {{fb|SMR}} || 5 || 4 || 1 || 0 || 9 || 1 || +8
+|-
+|- bgcolor="#FFCCCC"
+| align="left" | {{fb|SAU}} || 1 || 0 || 0 || 1 || 0 || 2 || –2
+|-
+|- bgcolor="#FFCCCC"
+| align="left" | {{fb|SCO}} || 4 || 0 || 0 || 4 || 1 || 7 || −6
+|-
+|- bgcolor="#FFCCCC"
+| align="left" | {{fb|SRB}} || 2 || 0 || 0 || 2 || 1 || 3 || −2
+|-
+|- bgcolor="#FFCCCC"
+| align="left" | {{fb|SVK}} || 5 || 0 || 3 || 2 || 5 || 9 || −4
+|-
+|- bgcolor="#FFCCCC"
+| align="left" | {{fb|SVN}} || 5 || 1 || 0 || 4 || 2 || 9 || −7
+|-
+|- bgcolor="#FFCCCC"
+| align="left" | {{fb|KOR}} || 2 || 0 || 0 || 2 || 0 || 2 || −2
+|-
+|- bgcolor="#FFCCCC"
+| align="left" | {{fb|SPA}} || 4 || 0 || 1 || 3 || 0 || 9 || −9
+|-
+|- bgcolor="#FFCCCC"
+| align="left" | {{fb|SWE}} || 17 || 2 || 4 || 11 || 12 || 54 || −42
+|-
+|- bgcolor="#FFCCCC"
+| align="left" | {{fb|SUI}} || 5 || 0 || 1 || 4 || 3 || 9 || −6
+|-
+|- bgcolor="#FFFACD"
+| align="left" | {{fb|THA}} || 1 || 0 || 1 || 0 || 1 || 1 || 0
+|-
+|- bgcolor="#FFCCCC"
+| align="left" | {{fb|TUN}} || 1 || 0 || 0 || 1 || 0 || 3 || −3
+|-
+|- bgcolor="#FFCCCC"
+| align="left" | {{fb|TUR}} || 10 || 1 || 5 || 4 || 15 || 22 || −7
+|-
+|- bgcolor="#FFCCCC"
+| align="left" | {{fb|UKR}} || 3 || 0 || 1 || 2 || 1 || 3 || −2
+|-
+|- bgcolor="#FFCCCC"
+| align="left" | {{fb|USA}} || 1 || 0 || 0 || 1 || 0 || 1 || −1
+|-
+|- bgcolor="#FFCCCC"
+| align="left" | {{fb|UZB}} || 1 || 0 || 0 || 1 || 0 || 3 || −3
+|-
+|- bgcolor="#FFCCCC"
+| align="left" | {{fb|WAL}} || 3 || 0 || 0 || 3 || 0 || 5 || −5
+|-class="sortbottom"
+! Total || 428 || 119 || 105 || 204 || 500 || 707 || −207
+|}
+:''*Draws include knockout matches decided on [[Penalty shoot-out (association football)|penalty kicks]].''
+
+==Honours==
+===Regional===
+*'''[[Baltic Cup (football)|Baltic Cup]]'''
+** '''Champions (13)''': [[1928 Baltic Cup|1928]], [[1932 Baltic Cup|1932]], [[1936 Baltic Cup|1936]], [[1937 Baltic Cup|1937]], [[1993 Baltic Cup|1993]], [[1995 Baltic Cup|1995]], [[2001 Baltic Cup|2001]], [[2003 Baltic Cup|2003]], [[2008 Baltic Cup|2008]], [[2012 Baltic Cup|2012]], [[2014 Baltic Cup|2014]], [[2016 Baltic Cup|2016]], [[2018 Baltic Cup|2018]]
+** Runners-up (14): [[1929 Baltic Cup|1929]], [[1930 Baltic Cup|1930]], [[1931 Baltic Cup|1931]], [[1935 Baltic Cup|1935]], [[1938 Baltic Cup|1938]], [[1991 Baltic Cup|1991]], [[1992 Baltic Cup|1992]], [[1994 Baltic Cup|1994]], [[1997 Baltic Cup|1997]], [[1998 Baltic Cup|1998]], [[2005 Baltic Cup|2005]], [[2010 Baltic Cup|2010]], [[2020 Baltic Cup|2020]], [[2022 Baltic Cup|2022]]
+** Third place (2): [[1996 Baltic Cup|1996]], [[2024 Baltic Cup|2024]]
+
+===Friendly===
+*'''[[King's Cup (Thailand)|King's Cup]]'''
+** '''Champions (1)''': [[2005 King's Cup|2005]]
+
+==See also==
+{{Portal|Association football|Latvia}}
+*[[Latvia national under-21 football team|Latvia men's national under-21 football team]]
+*[[Latvia national under-19 football team|Latvia men's national under-19 football team]]
+*[[Latvia national under-17 football team|Latvia men's national under-17 football team]]
+*[[Latvia women's national football team]]
+*[[Latvia women's national under-17 football team]]
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+{{Commons category}}
+*{{official website|http://www.lff.lv}} {{in lang|lv}} 
+*[https://www.fifa.com/about-fifa/associations/LVA Latvia] at [[FIFA]]
+*[https://www.uefa.com/nationalassociations/lva/ Latvia] at [[UEFA]]
+*[https://www.rsssf.org/tablesl/let-intres.html Latvia] at [[Rec.Sport.Soccer Statistics Foundation|RSSSF]]
+
+{{Latvia national football team}}
+{{Football in Latvia}}
+{{UEFA teams}}
+{{National sports teams of Latvia}}
+{{Navboxes||title=Squads|list1=
+{{Latvia squad UEFA Euro 2004}}
+}}
+{{Navboxes||title=Finalists|list1=
+{{UEFA Euro 2004 finalists}}
+}}
+{{Authority control}}
+
+[[Category:Latvia national football team| ]]
+[[Category:Latvia men's national football teams| ]]
+[[Category:European national association football teams]]
+[[Category:1922 establishments in Latvia]]
+[[Category:National sports teams established in 1922]]

@@ -1,0 +1,2400 @@
+{{Short description|Men's national association football team representing Saudi Arabia}}
+{{About|the men's team|the women's team|Saudi Arabia women's national football team}}
+{{Use dmy dates|date=January 2023}}
+{{Infobox national football team
+| Name                     = Saudi Arabia
+| Badge                    = Saudi Arabia national football team logo.svg
+| Badge_size               = 195px
+| Nickname = {{lang|ar|الصقور الخضر}} (The Green Falcons)<br>{{lang|ar|الصقور العربية}} (The Arabian Falcons)
+| Association              = [[Saudi Arabian Football Federation]] (SAFF)
+| Confederation            = [[Asian Football Confederation|AFC]] (Asia)
+| Sub-confederation        = [[West Asian Football Federation|WAFF]] (West Asia)
+| website                  = [https://saff.com.sa/ saff.sa]
+| Coach                    = [[Georgios Donis]]
+| Captain                  = [[Salem Al-Dawsari]]
+| Most caps                = {{nowrap|[[Mohamed Al-Deayea]] (173)}}<ref name="fifa.com">{{cite web|url=https://www.fifa.com/mm/document/fifafacts/stats-centclub/52/00/59/centuryclub290715_neutral.pdf |archive-url=https://web.archive.org/web/20150905145250/http://www.fifa.com/mm/document/fifafacts/stats-centclub/52/00/59/centuryclub290715_neutral.pdf |url-status=dead |archive-date=5 September 2015 |title=FIFA Century Club |website=Fifa.com |access-date=10 September 2016}}</ref>
+| Top scorer               = [[Majed Abdullah]] (72)<ref>{{cite web |title=Majed Abdullah |url=https://www.rsssf.org/miscellaneous/abdullah-intl.html |website=RSSSF |access-date=2 February 2023 |archive-date=22 March 2019 |archive-url=https://web.archive.org/web/20190322084123/http://www.rsssf.com/miscellaneous/abdullah-intl.html |url-status=live }}</ref>
+| Home Stadium             = [[List of football stadiums in Saudi Arabia|Various]]
+| FIFA Trigramme           = KSA
+| FIFA Rank                = {{FIFA World Rankings|KSA}}
+| FIFA max                 = 21
+| FIFA max date            = July 2004
+| FIFA min                 = 126
+| FIFA min date            = December 2012
+| Elo Rank                 = {{World Football Elo Ratings|Saudi Arabia}}
+| Elo max                  = 27
+| Elo max date             = November 1998
+| Elo min                  = 112
+| Elo min date             = 1970, 1972
+| pattern_la1              = _ksa26h
+| pattern_b1               = _ksa26hA
+| pattern_ra1              = _ksa26h
+| pattern_sh1              = _ksa26h
+| pattern_so1              = _ksa26hl
+| leftarm1                 = 43b88b
+| body1                    = 43b88b
+| rightarm1                = 43b88b
+| shorts1                  = 43b88b
+| socks1                   = 004B49
+| pattern_la2              = _ksa26a
+| pattern_b2               = _ksa26a
+| pattern_ra2              = _ksa26a
+| pattern_sh2              = _ksa26A
+| pattern_so2              = _ksa26al
+| leftarm2                 = ffffff
+| body2                    = ffffff
+| rightarm2                = ffffff
+| shorts2                  = ffffff
+| socks2                   = ffffff
+| First game               = {{#invoke:flag|fb|LIB|1943}} 1–1 {{#invoke:flag|fb-rt|KSA|1938}}<br>([[Beirut]], [[Lebanon]]; 18 January 1957)
+| Largest win              = {{#invoke:flag|fb|TLS}} 0–10 {{#invoke:flag|fb-rt|KSA}}<br>([[Dili]], [[East Timor|Timor-Leste]]; 17 November 2015)
+| Largest loss             = {{nowrap|{{#invoke:flag|fb|UAR}} 13–0 {{#invoke:flag|fb-rt|KSA|1938}}<br>([[Casablanca]], [[Morocco]]; 3 September 1961)}}
+| World cup apps           = 7
+| World cup first          = 1994
+| World cup best           = Round of 16 ([[1994 FIFA World Cup|1994]])
+| Regional name            = [[AFC Asian Cup]]
+| Regional cup apps        = 12
+| Regional cup first       = [[1984 AFC Asian Cup|1984]]
+| Regional cup best        = '''Champions''' ([[1984 AFC Asian Cup|1984]], [[1988 AFC Asian Cup|1988]], [[1996 AFC Asian Cup|1996]])
+| Confederations cup apps  = 4
+| Confederations cup first = [[1992 King Fahd Cup|1992]]
+| Confederations cup best  = Runners-up ([[1992 King Fahd Cup|1992]])
+| 2ndRegional name         = [[FIFA Arab Cup|Arab Cup]]
+| 2ndRegional cup apps     = 8
+| 2ndRegional cup first    = [[1985 Arab Cup|1985]]
+| 2ndRegional cup best     = '''Champions''' ([[1998 Arab Cup|1998]], [[2002 Arab Cup|2002]])
+| 3rdRegional name         = [[Arabian Gulf Cup]]
+| 3rdRegional cup apps     = 24
+| 3rdRegional cup first    = [[1st Arabian Gulf Cup|1970]]
+| 3rdRegional cup best     = '''Champions''' ([[1994 Gulf Cup of Nations|1994]], [[2002 Gulf Cup of Nations|2002]], [[16th Arabian Gulf Cup|2003–04]])
+| 4thRegional name         = [[CONCACAF Gold Cup]]
+| 4thRegional cup apps     = 1
+| 4thRegional cup first    = [[2025 CONCACAF Gold Cup|2025]]
+| 4thRegional cup best     = Quarter-finals ([[2025 CONCACAF Gold Cup|2025]])
+| medaltemplates           = 
+{{MedalSport|Men's [[Association football|football]]}}
+{{Medal|Competition|[[FIFA Confederations Cup]]}}
+{{MedalSilver|[[1992 King Fahd Cup|Saudi Arabia 1992]]|[[1992 King Fahd Cup squads#Saudi Arabia|Squad]]}}
+{{Medal|Competition|[[Afro-Asian Cup of Nations]]}}
+{{MedalSilver|[[1985 Afro-Asian Cup of Nations|Cameroon and Saudi Arabia 1985]]|Squad}}
+{{MedalSilver|[[1997 Afro-Asian Cup of Nations|South Africa and Saudi Arabia 1997]]|Squad}}
+{{Medal|Competition|[[FIFA Arab Cup|Arab Cup]]}}
+{{MedalGold|[[1998 Arab Cup|Qatar 1998]]|[[1998 Arab Cup squads#Saudi Arabia|Squad]]}}
+{{MedalGold|[[2002 Arab Cup|Kuwait 2002]]|[[2002 Arab Cup squads#Saudi Arabia|Squad]]}}
+{{MedalSilver|[[1992 Arab Cup|Syria 1992]]|[[1992 Arab Cup squads#Saudi Arabia|Squad]]}}
+{{MedalBronze|[[1985 Arab Cup|Saudi Arabia 1985]]|[[1985 Arab Cup squads#Saudi Arabia|Squad]]}}
+{{Medal|Competition|[[AFC Asian Cup]]}}
+{{MedalGold|[[1984 AFC Asian Cup|Singapore 1984]]|[[1984 AFC Asian Cup squads#Saudi Arabia|Squad]]}}
+{{MedalGold|[[1988 AFC Asian Cup|Qatar 1988]]|[[1988 AFC Asian Cup squads#Saudi Arabia|Squad]]}}
+{{MedalGold|[[1996 AFC Asian Cup|UAE 1996]]|[[1996 AFC Asian Cup squads#Saudi Arabia|Squad]]}}
+{{MedalSilver|[[1992 AFC Asian Cup|Japan 1992]]|[[1992 AFC Asian Cup squads#Saudi Arabia|Squad]]}}
+{{MedalSilver|[[2000 AFC Asian Cup|Lebanon 2000]]|[[2000 AFC Asian Cup squads#Saudi Arabia|Squad]]}}
+{{MedalSilver|[[2007 AFC Asian Cup|Indonesia, Malaysia, Thailand and Vietnam 2007]]|[[2007 AFC Asian Cup squads#Saudi Arabia|Squad]]}}
+{{Medal|Competition|[[Asian Games]]}}
+{{MedalSilver|[[Football at the 1986 Asian Games|Seoul 1986]]|[[Football at the 1986 Asian Games – Men's team squads#Saudi Arabia|Squad]]}}
+{{MedalBronze|[[Football at the 1982 Asian Games|New Delhi 1982]]|[[Football at the 1982 Asian Games – Men's team squads#Saudi Arabia|Squad]]}}
+{{Medal|Competition|[[Arab Games]]}}
+{{MedalSilver|[[Football at the 1976 Arab Games|Damascus 1976]]|[[Football at the 1976 Arab Games – Men's team squads#Saudi Arabia|Squad]]}}
+{{MedalBronze|[[Football at the 2007 Arab Games|Cairo 2007]]|[[Football at the 2007 Arab Games – Men's team squads#Saudi Arabia|Squad]]}}
+}}
+The '''Saudi Arabia national football team''' ({{langx|ar|مُنْتَخَب السُّعُودِيَّة لِكُرَّةِ الْقَدَم}}) represents the country in senior men's international [[Association football|association football]]. The team is governed by the [[Saudi Arabian Football Federation]] (SAFF), the governing body for [[football in Saudi Arabia]].
+
+Considered one of Asia's most successful national teams, Saudi Arabia have won the [[AFC Asian Cup]] three times (1984, 1988 and 1996), reached a joint record six Asian Cup finals and have qualified for the [[FIFA World Cup]] on seven occasions since debuting at the [[1994 FIFA World Cup|1994]] tournament. Saudi Arabia are the first Asian team to reach the final of a senior FIFA competition at the [[1992 King Fahd Cup]], which would eventually become the [[FIFA Confederations Cup]]. Only [[Australia men's national soccer team|Australia]] and [[Japan national football team|Japan]] managed to repeat this feat in [[1997 FIFA Confederations Cup|1997]] and [[2001 FIFA Confederations Cup|2001]] respectively, though Australia achieved it when they were a member of the [[Oceania Football Confederation|OFC]].
+
+At the 1994 FIFA World Cup, under the leadership of [[Jorge Solari]], Saudi Arabia beat both [[Belgium national football team|Belgium]] and [[Morocco national football team|Morocco]] in the group stage before falling to [[Sweden men's national football team|Sweden]] in the round of 16. Thus, they became the second Arab team in history to reach the knockout stage of a FIFA World Cup after Morocco in [[1986 FIFA World Cup|1986]] and [[2022 FIFA World Cup|2022]], and one of the few Asian national football teams (the others being Australia, Japan, [[South Korea national football team|South Korea]] and [[North Korea national football team|North Korea]]) to accomplish such a feat to date. During the [[2022 World Cup|2022 FIFA World Cup]], Saudi Arabia caused a large upset when they beat eventual champions [[Argentina national football team|Argentina]] 2–1, the first time Argentina lost to an Asian representative at the World Cup. However, Saudi Arabia then lost the following matches against [[Poland national football team|Poland]] and [[Mexico national football team|Mexico]] to finish last.
+
+In 2027, Saudi Arabia will host the [[2027 AFC Asian Cup|AFC Asian Cup]], the first time that the nation has ever hosted a major international tournament.<ref>{{Cite web |title=Saudi Arabia confirmed as hosts of the AFC Asian Cup 2027 |url=https://www.the-afc.com/en/about_afc/afc_congress/news/saudi_arabia_confirmed_as_hosts_of_the_afc_asian_cup_2027.html |access-date=2023-05-12 |website=the-AFC |language=en |archive-date=21 February 2023 |archive-url=https://web.archive.org/web/20230221161820/https://www.the-afc.com/en/about_afc/afc_congress/news/saudi_arabia_confirmed_as_hosts_of_the_afc_asian_cup_2027.html |url-status=live }}</ref> They will also host the [[2034 FIFA World Cup]].<ref name=":02">{{Cite news |last=Panja |first=Tariq |date=15 November 2023 |title=Inside Man: How FIFA Guided the World Cup to Saudi Arabia |url=https://www.nytimes.com/2023/11/15/world/middleeast/saudi-arabia-fifa-world-cup.html |url-status=live |archive-url=https://web.archive.org/web/20231117041337/https://www.nytimes.com/2023/11/15/world/middleeast/saudi-arabia-fifa-world-cup.html |archive-date=17 November 2023 |access-date=17 November 2023 |work=The New York Times |issn=0362-4331}}</ref>
+
+==History==
+
+=== Early history (1951–1955) ===
+The idea of a Saudi national team first came about in 1951, when a Saudi XI team consisting of players from [[Al-Wehda Club (Mecca)|Al-Wehda]] and [[Al-Ahli Saudi FC|Al-Ahli]] took part in a friendly game against the [[Egyptian Ministry of Health]] on 27 June at the Al-Saban Stadium in [[Jeddah]]. The following day, the Egyptians took on a Saudi team made up of players from [[Al-Ittihad Club (Jeddah)|Al-Ittihad]] and [[Al-Hilal FC|Al-Hilal]] in Al-Bahri in the same city. On 2 August, His Royal Highness Prince [[Abdullah bin Faisal Al Saud|Abdullah Al-Faisal]] organized a third friendly with the Egyptian team against Saudi Arabia with players from [[Al-Wehda Club (Mecca)|Al-Wehda]], and [[Al-Ahli Saudi FC|Al-Ahli]]. By then, the idea of a national select team to represent the Kingdom of Saudi Arabia was already in full flow, and in 1953 the first-ever Saudi team traveled to play friendly matches abroad. The same year, a Saudi team traveled to [[Damascus]] to play friendly matches as part of then-Crown Prince [[Saud of Saudi Arabia|Saud bin Abdulaziz]]'s visit to the country in April.<ref>{{cite web|title=1953.. أول بعثة رياضية إلى الخارج|url=https://arriyadiyah.com/614470|language=ar|access-date=13 October 2019|archive-date=23 May 2022|archive-url=https://web.archive.org/web/20220523152512/https://arriyadiyah.com/614470|url-status=live}}</ref>
+
+In 1957, the Saudi national team took part in their first international tournament at the [[Football at the 1957 Arab Games|2nd Pan-Arab Games]] in [[Beirut]], where King Saud was invited to attend the opening ceremony and the inauguration of the [[Camille Chamoun Sports City Stadium]] with Lebanese President [[Camille Chamoun]] on 18 October. Abdulmajeed Kayal scored for the Saudis while [[Levon Altonian]] netted for the home side.<ref>{{cite web |title=Saudi Arabia - History |url=https://www.rsssf.org/tabless/sau-intres.html |access-date=2 February 2023 |archive-date=27 March 2023 |archive-url=https://web.archive.org/web/20230327200640/https://www.rsssf.org/tabless/sau-intres.html |url-status=live }}</ref>
+
+=== Debuting successes and subsequent declines (1956–2016) ===
+Though their football federation was established in 1956, the Saudi Arabia national team did not participate in a tournament until they qualified for the [[AFC Asian Cup]] in [[1984 AFC Asian Cup|1984]], becoming Asian champions for the first time.<ref>{{Cite web |title=Flashback: Saudi Arabia's historic triumph at the 1984 AFC Asian Cup |url=https://www.the-afc.com/en/national/afc_asian_cup/news/flashback_saudi_arabias_historic_triumph_at_the_1984_afc_asian_cup.html |access-date=2023-05-12 |website=the-AFC |language=en}}</ref> Since then, they reached the next four consecutive Asian Cup finals, winning two of them ([[1988 AFC Asian Cup|1988]] and [[1996 AFC Asian Cup|1996]]).<ref>{{Cite web |title=Saudi-Arabien - Südkorea 4:3 (Asian Cup 1988 Katar, Finale) |url=https://www.weltfussball.de/spielbericht/asian-cup-1988-in-katar-endspiel-saudi-arabien-suedkorea/ |access-date=2023-05-12 |website=weltfussball.de |language=de |archive-date=12 May 2023 |archive-url=https://web.archive.org/web/20230512021524/https://www.weltfussball.de/spielbericht/asian-cup-1988-in-katar-endspiel-saudi-arabien-suedkorea/ |url-status=live }}</ref><ref>{{Cite web |title=Flashback To UAE 1996: The Green Falcons win third AFC Asian Cup |url=https://www.the-afc.com/en/national/afc_asian_cup/news/flashback_to_uae_1996_the_green_falcons_win_third_afc_asian_cup.html |access-date=2023-05-12 |website=the-AFC |language=en |archive-date=12 May 2023 |archive-url=https://web.archive.org/web/20230512021525/https://www.the-afc.com/en/national/afc_asian_cup/news/flashback_to_uae_1996_the_green_falcons_win_third_afc_asian_cup.html |url-status=live }}</ref> They have qualified for every AFC Asian Cup since, reaching the final in the [[2007 AFC Asian Cup final|2007 edition]].<ref>{{Cite web |title=2007 AFC Asian Cup: Iraq's amazing triumph revisited |url=https://www.the-afc.com/en/national/afc_asian_cup/news/2007_afc_asian_cup%E2%84%A2_lookback_1.html |access-date=2023-05-12 |website=the-AFC |language=en |archive-date=15 May 2023 |archive-url=https://web.archive.org/web/20230515063016/https://www.the-afc.com/en/national/afc_asian_cup/news/2007_afc_asian_cup%E2%84%A2_lookback_1.html |url-status=live }}</ref>
+[[File:Saudi Arabia national football team in 1984.jpg|left|thumb|Saudi national team in 1984.]]
+[[File:Asian Cup 1984, match Saudi Arabia and China.jpg|thumb|Saudi Arabia facing China in the [[1984 AFC Asian Cup]].]]
+Saudi Arabia qualified for their first [[FIFA World Cup]] in [[1994 FIFA World Cup|1994]] under the leadership of Argentine manager [[Jorge Solari]] and talents like [[Saeed Al-Owairan]] and [[Sami Al-Jaber]], reinforced by national veteran [[Majed Abdullah]] as team captain. Wins against [[Belgium national football team|Belgium]] and [[Morocco national football team|Morocco]] in the group stage led to a match-up against Sweden in the round of 16, a 3–1 loss.<ref>{{Cite web |date=2020-04-07 |title=When Saudi Arabia dreamed of a World Cup miracle |url=https://arab.news/v956x |access-date=2023-05-12 |website=Arab News |language=en |archive-date=6 July 2023 |archive-url=https://web.archive.org/web/20230706072604/https://www.arabnews.com/node/1654841/sport |url-status=live }}</ref> Saudi Arabia qualified for the next three FIFA World Cups, but failed to win a match in any of them; in the [[1998 FIFA World Cup]], the team suffered an agonizing group stage elimination for the first time after only a draw was achieved, which occurred against [[South Africa national soccer team|South Africa]]. The team placed last in the [[2002 FIFA World Cup]] without scoring a goal, while conceding 12, including eight against [[Germany national football team|Germany]], the most humiliating FIFA World Cup performance ever by an Asian team since [[1954 FIFA World Cup|1954]], and the team saw no improvement in the [[2006 FIFA World Cup]] after winning only a single point against Arab rival [[Tunisia national football team|Tunisia]].
+
+After the [[2007 AFC Asian Cup]], Saudi Arabia suffered even further setbacks. The Saudis failed to qualify for the [[2010 FIFA World Cup]] in agonizing [[2010 FIFA World Cup qualification – AFC fifth round|playoffs]] that saw them again give up their 2–1 lead to a 2–2 draw to neighbor [[Bahrain national football team|Bahrain]].<ref>{{Cite web |date=2009-09-10 |title=Saudi Arabia 2 – 2 Bahrain (agg 2-2): History beckons for Bahrain |url=https://muslimsoccer.wordpress.com/2009/09/10/saudi-arabia-2-2-bahrain-agg-2-2-history-beckons-for-bahrain/ |access-date=2023-09-15 |website=Muslim Soccer |language=en}}</ref> In the [[2011 AFC Asian Cup]], the Saudis went on to have their worst-ever Asian Cup performance in history, losing all three games in a shocking style to [[Syria national football team|Syria]], [[Jordan national football team|Jordan]] and [[Japan national football team|Japan]].<ref>{{Cite web |title=Saudi Arabia make Asian Cup exit |url=https://www.aljazeera.com/sports/2011/1/13/saudi-arabia-make-asian-cup-exit |access-date=2023-09-15 |website=Al Jazeera |language=en}}</ref> Later on, Saudi Arabia failed to qualify for the [[2014 FIFA World Cup]], finishing behind [[Australia men's national soccer team|Australia]] and [[Oman national football team|Oman]] in the [[2014 FIFA World Cup qualification – AFC third round|third round]]. This embarrassing record kept following the Saudis into the [[2015 AFC Asian Cup]], as the Saudis suffered another group stage exit, this time losing to [[China national football team|China]] and [[Uzbekistan national football team|Uzbekistan]]. They only won against [[North Korea national football team|North Korea]].
+
+=== Revival (2017–present) ===
+Saudi Arabia secured qualification for the [[2018 FIFA World Cup]], their first in 12 years,<ref>{{cite news |title=Saudi Arabia reaches World Cup finals with dramatic win over Japan |url=http://www.arabnews.com/node/1156276/sports |date=6 September 2017 |access-date=8 November 2017 |newspaper=[[Arab News]] |archive-date=10 November 2017 |archive-url=https://web.archive.org/web/20171110021206/http://www.arabnews.com/node/1156276/sports |url-status=live }}</ref> ahead of Australia. In the first match of [[2018 FIFA World Cup Group A|Group A]] and the tournament, Saudi Arabia were crushed by hosts [[Russia national football team|Russia]] 5–0,<ref>{{cite web |url=https://www.bbc.com/sport/football/44392911 |title=World Cup 2018: Russia thrash Saudi Arabia 5-0 in tournament |last=Fletcher |first=Paul |date=14 June 2018 |access-date=21 June 2018 |work=[[BBC Sport]] |publisher=[[BBC]] |location=Moscow |archive-date=15 June 2018 |archive-url=https://web.archive.org/web/20180615203938/https://www.bbc.com/sport/football/44392911 |url-status=live }}</ref> making this the second largest victory of any host.<ref>{{cite web |url=https://talksport.com/uncategorized/387465/saudi-arabia-worst-team-world-cup/ |title=Are Saudi Arabia the worst team ever at a World Cup? |last=Bond |first=George |date=20 June 2018 |access-date=21 June 2018 |work=[[Talksport]] |archive-date=21 June 2018 |archive-url=https://web.archive.org/web/20180621020039/https://talksport.com/uncategorized/387465/saudi-arabia-worst-team-world-cup/ |url-status=live }}</ref> Saudi Arabia then lost 1–0 to a [[Luis Suárez]] goal that put [[Uruguay national football team|Uruguay]] as the eventual group winners.<ref>{{cite news |title=World Cup: Uruguay defeat Saudi Arabia 1-0, qualify for knockout stages |url=http://www.euronews.com/2018/06/20/world-cup-live-uruguay-vs-saudi-arabia |date=20 June 2018 |access-date=21 June 2018 |work=[[Euronews]] |archive-date=21 June 2018 |archive-url=https://web.archive.org/web/20180621015818/http://www.euronews.com/2018/06/20/world-cup-live-uruguay-vs-saudi-arabia |url-status=live }}</ref> Although they were already eliminated,<ref>{{cite web |url=https://www.itv.com/fifaworldcup/highlights/highlights-saudi-arabia-beat-egypt-as-both-nations-eliminated |title=Highlights: Saudi Arabia beat Egypt as both nations eliminated |date=25 June 2018 |access-date=27 June 2018 |work=[[itv.com]] |publisher=[[ITV plc]] |archive-date=27 June 2018 |archive-url=https://web.archive.org/web/20180627144325/https://www.itv.com/fifaworldcup/highlights/highlights-saudi-arabia-beat-egypt-as-both-nations-eliminated |url-status=live }}</ref> Saudi Arabia managed to win their final group stage match against [[Red Sea]] neighbours [[Egypt national football team|Egypt]] 2–1, coming back from behind after a [[Mohamed Salah]] goal.<ref>{{cite web |url=https://www.bbc.co.uk/sport/football/44439204 |first=Saj |last=Chowdhury |work=[[BBC Sport]] |date=25 June 2018 |access-date=27 June 2018 |publisher=[[BBC]] |title=Mohamed Salah scored his second goal of the World Cup but Egypt ended their campaign pointless with defeat by Saudi Arabia at Volgograd Arena |archive-date=24 June 2020 |archive-url=https://web.archive.org/web/20200624050459/https://www.bbc.co.uk/sport/football/44439204 |url-status=live }}</ref>
+
+After the 2018 World Cup, Saudi Arabia participated in the [[2019 AFC Asian Cup]], held in the [[United Arab Emirates]]; the team finished second in the group stage, after falling to [[Qatar national football team|Qatar]] in the final game,<ref>{{cite web |url=http://iranpress.com/en/middle_east-i131625-afc_asian_cup_2019_saudi_arabia_0_2_qatar_in_abu_dhabi |title=AFC Asian Cup 2019: Saudi Arabia 0-2 Qatar in Abu Dhabi |access-date=2 April 2020 |archive-date=29 January 2020 |archive-url=https://web.archive.org/web/20200129133111/http://iranpress.com/en/middle_east-i131625-afc_asian_cup_2019_saudi_arabia_0_2_qatar_in_abu_dhabi |url-status=live }}</ref> leading to a showdown against [[Japan national football team|Japan]] in the round of 16. The Saudis dominated the whole game, but ultimately lost 1–0 due to poor finishing.<ref>{{Cite web |last=Dunne |first=Robbie |date=2019-01-21 |title=Japan see off Saudi to reach quarters |url=https://en.as.com/en/2019/01/21/soccer/1548064939_786033.html |access-date=2023-05-12 |website=Diario AS |language=en-us |archive-date=12 May 2023 |archive-url=https://web.archive.org/web/20230512021523/https://en.as.com/en/2019/01/21/soccer/1548064939_786033.html |url-status=live }}</ref>[[File:KSA-EGY (2).jpg|thumb|Saudi Arabia against [[Egypt national football team|Egypt]] in the [[2018 World Cup]].]]
+
+On 15 October 2019, Saudi Arabia played its first-ever game with [[Palestine national football team|Palestine]] in the [[West Bank]]; the game marked a change in policy for Saudi Arabia, which has previously played matches against the Palestinian team in third-party countries. The visit was condemned by some Palestinian activists, who considered the game as a start of normalizing the relations between Saudi Arabia and Israel, but it was viewed by the [[Palestinian National Authority]] as a support for their sovereignty over the West Bank.<ref>{{cite news |title=Some booed Saudi-Palestinian soccer match in West Bank even before it started |url=https://www.washingtonpost.com/world/middle_east/saudi-arabia-breaks-its-decades-long-boycott-to-play-soccer-in-the-west-bank/2019/10/14/9cd78ca0-eea2-11e9-bb7e-d2026ee0c199_story.html |newspaper=The Washington Post |access-date=20 October 2019 |archive-date=22 October 2019 |archive-url=https://web.archive.org/web/20191022064539/https://www.washingtonpost.com/world/middle_east/saudi-arabia-breaks-its-decades-long-boycott-to-play-soccer-in-the-west-bank/2019/10/14/9cd78ca0-eea2-11e9-bb7e-d2026ee0c199_story.html |url-status=live }}</ref> The game ended in a scoreless draw.<ref>{{cite web |title=2022 FIFA World Cup Qatar Qualifiers - Asia - Matches - Palestine - Saudi Arabia |url=https://www.fifa.com/worldcup/qatar2022/preliminaries/asia/matches/match/400080685/#match-timeline |archive-url=https://web.archive.org/web/20190901183301/https://www.fifa.com/worldcup/qatar2022/preliminaries/asia/matches/match/400080685/#match-timeline |url-status=dead |archive-date=1 September 2019 |website=www.fifa.com |access-date=20 October 2019}}</ref>
+
+Saudi Arabia qualified for the [[2022 FIFA World Cup]] in [[Qatar]], the first to be held in the Middle East, by topping their qualifying group and were drawn against [[Argentina national football team|Argentina]], [[Poland national football team|Poland]] and [[Mexico national football team|Mexico]].<ref>{{cite web|title=Schedule|url=https://en.as.com/en/2022/04/02/soccer/1648917717_429206.html|publisher=[[AS.com]]|date=2 April 2022|access-date=18 July 2022|archive-date=18 July 2022|archive-url=https://web.archive.org/web/20220718032334/https://en.as.com/en/2022/04/02/soccer/1648917717_429206.html|url-status=live}}</ref> In their opening game, they upset [[Argentina national football team|Argentina]] 2–1 within the first five minutes of the second half with goals from [[Saleh Al-Shehri]] and [[Salem Al-Dawsari]], ending an Argentine unbeaten streak of 36 games dating back to 2019. The Saudi King declared a holiday after the win and Saudi fans celebrated with mocking words against [[Lionel Messi]] and the Argentine team.<ref>{{cite web|url=https://www.the42.ie/saudi-arabia-declares-national-holiday-after-shock-win-5927588-Nov2022/|title=Saudi Arabia declares national holiday after shock win|date=22 November 2022|work=The 42|accessdate=23 November 2022|archive-date=23 November 2022|archive-url=https://web.archive.org/web/20221123003555/https://www.the42.ie/saudi-arabia-declares-national-holiday-after-shock-win-5927588-Nov2022/|url-status=live}}</ref><ref>{{Cite web |title='It's coming to Mecca': Fans go wild as Saudi Arabia stun Argentina |url=http://www.middleeasteye.net/discover/qatar-world-cup-saudi-arabia-argentina-upset-fans-reactions |access-date=2023-01-07 |website=Middle East Eye |language=en |archive-date=7 January 2023 |archive-url=https://web.archive.org/web/20230107050400/https://www.middleeasteye.net/discover/qatar-world-cup-saudi-arabia-argentina-upset-fans-reactions |url-status=live }}</ref> In the next match against Poland, [[Piotr Zieliński]] opened proceedings with a goal in the 39th minute and [[Robert Lewandowski]] scored the second goal, while [[Salem Al-Dawsari]]'s penalty kick was saved by Polish goalkeeper [[Wojciech Szczęsny]] as Saudi Arabia lost 2–0.<ref>{{Cite web |date=2022-11-26 |title=Poland 2-0 Saudi Arabia: Robert Lewandowski bags elusive World Cup goal as Poles down Qatar giantkillers |url=https://www.eurosport.com/football/world-cup/2022/fifa-world-cup-2022-in-qatar-live-poland-v-saudi-arabia-updates_sto9242704/story.shtml |access-date=2023-01-07 |website=Eurosport |language=en |archive-date=26 November 2022 |archive-url=https://web.archive.org/web/20221126163350/https://www.eurosport.com/football/world-cup/2022/fifa-world-cup-2022-in-qatar-live-poland-v-saudi-arabia-updates_sto9242704/story.shtml |url-status=live }}</ref> This required a win against [[Mexico national football team|Mexico]] to advance to the round of 16 regardless of the Argentina–Poland result. Fielding three strikers in front, Saudi Arabia however were unable to exert any domination over the Mexican side, conceding two early second half goals by [[Henry Martín]] and [[Luis Chávez (footballer)|Luis Chávez]], the second being a thunderous midfield free kick; a late consolation goal by Salem Al-Dawsari was not enough as Saudi Arabia fell 2–1 and were eliminated after finishing last in [[2022 FIFA World Cup Group C|Group C]].<ref>{{Cite news |title=Mexico out despite victory over Saudi Arabia |language=en-GB |work=BBC Sport |url=https://www.bbc.com/sport/football/63725315 |access-date=2023-01-07 |archive-date=3 January 2023 |archive-url=https://web.archive.org/web/20230103080813/https://www.bbc.com/sport/football/63725315 |url-status=live }}</ref>
+[[File:ARG-KSA 2022-11-22.svg|thumb|Saudi Arabia starting line-up against eventual 2022 FIFA World Cup champions, where Saudi Arabia went on to beat [[Argentina national football team|Argentina]] 2–1.]]
+Saudi Arabia, under new manager [[Roberto Mancini]], entered the [[2023 AFC Asian Cup]] in [[2023 AFC Asian Cup Group F|Group F]] with [[Oman national football team|Oman]], [[Kyrgyzstan national football team|Kyrgyzstan]] and [[Thailand national football team|Thailand]]. The Saudis started their campaign with a 2–1 comeback win over neighbour Oman, where [[Abdulrahman Ghareeb]] scored from a solo before a late [[Ali Al-Bulaihi]]'s header sealed the dramatic win.<ref>{{cite web | url=https://apnews.com/article/asian-cup-scores-saudi-arabia-oman-1a5236cbc394039df913bfcb314128e8 | title=Saudi Arabia beats Oman 2-1 with stoppage-time winner in the Asian Cup | website=[[Associated Press News]] | date=16 January 2024 }}</ref> They then achieved a 2–0 win over Kyrgyzstan, where the Saudis were dominant from beginning to end against a nine-man squad.<ref>{{cite web | url=https://apnews.com/article/asian-cup-thailand-oman-score-saudi-kyrgyzstan-08a4f1afdb5b2e12a3cf819d317f5366 | title=Saudi Arabia beats 9-man Kyrgyzstan 2-0 to advance to the knockout stage of Asian Cup | website=[[Associated Press News]] | date=21 January 2024 }}</ref> The Saudis rested most of their key players as they held Thailand in a goalless draw to advance and top the group, putting the Saudis against [[South Korea national football team|South Korea]] in the last sixteen.<ref>{{cite web | url=https://www.arabnews.com/node/2448221/sport | title=Saudi Arabia draw with Thailand to win group and book Korea clash | date=25 January 2024 }}</ref> Against South Korea, [[Abdullah Radif]] opened the scoring in the first minute of the second half, but after conceding a [[Cho Gue-sung]] header in the ninth minute of second-half stoppage time, the game was determined by a penalty shootout after 30 minutes of extra time, where the Saudis lost 4–2 on penalties and were eliminated.<ref>{{cite web | url=https://sports.yahoo.com/saudi-arabia-1-1-south-191200891.html | title=Saudi Arabia 1-1 South Korea (2-4 pens): Hwang Hee-chan seals shootout win in dramatic Asian Cup last-16 clash | date=30 January 2024 }}</ref>
+
+Saudi Arabia struggled in their [[2026 FIFA World Cup qualification (AFC)|2026 FIFA World Cup qualification]] campaign. After the [[2026 FIFA World Cup qualification – AFC second round|second round]], Saudi Arabia's [[2026 FIFA World Cup qualification – AFC third round|third round]] proved troublesome; excluding China as the only team Saudi Arabia grabbed full six points, they obtained only one point against [[Indonesia national football team|Indonesia]] along with a 2–0 home loss to Japan, the first time ever Saudi Arabia lost to the Japanese at home.<ref>{{cite web | title=Classy Japan put a dent in Saudi Arabia's World Cup hopes | date=11 October 2024 | url=https://www.arabnews.com/node/2574829/sport }}</ref><ref>{{cite web | title=More World Cup woe as Saudi Arabia draw a blank against Bahrain | date=15 October 2024 | url=https://www.arabnews.com/node/2575433/sport }}</ref> Roberto Mancini was then sacked and Hervé Renard was recalled to salvage Saudi Arabia's campaign, but Saudi Arabia still failed to finish second place behind Australia in the end, resulting in their appearance in the [[2026 FIFA World Cup qualification – AFC fourth round|fourth round]].<ref>{{cite web | last1=Lynch | first1=Joey | title=Socceroos secure World Cup place with come-from-behind win over Saudi Arabia | work=The Guardian | date=10 June 2025 | url=https://www.theguardian.com/football/2025/jun/11/soccceroos-australia-saudi-arabia-football-world-cup-qualifying-result-match-report }}</ref>
+
+Saudi Arabia participated in their first [[CONCACAF Gold Cup]] tournament in [[2025 CONCACAF Gold Cup|2025]], reaching the quarter-finals where they lost 2–0 to [[Mexico national football team|Mexico]].<ref>{{Cite web |date=29 June 2025 |title=Mexico vs. Saudi Arabia highlights, score: El Tri reach the Gold Cup semifinals |url=https://www.foxsports.com/live-blog/soccer/mexico-vs-saudi-arabia-highlights-score-wholl-reach-gold-cup-semifinals |access-date=30 June 2025 |website=FOX Sports}}</ref> They then qualified for the [[2026 FIFA World Cup]] in October 2025, following their 3–2 fourth-round win over Indonesia and a goalless draw to Iraq that allowed Saudi Arabia to stay on top by superior goals scored; this is their third consecutive World Cup appearance and seventh overall.<ref>{{cite web | url=https://ummid.com/news/2025/october/15-10-2025/saudi-arabia-makes-it-to-2026-fifa-world-cup.html | title=Saudi Arabia makes it to 2026 FIFA World Cup | work=ummid.com | date=October 2025 | accessdate=15 October 2025}}</ref>
+
+==Kits and crests==
+{{Commons|Saudi Arabia national football team kits}}
+Traditionally, Saudi Arabia's home kit is white with a green trim, and the away kit is green with a white trim (the [[Flag of Saudi Arabia|Saudi flag]] colors).<ref>{{Cite web |url=https://news.nike.com/news/saudi-arabia-national-team-collection |title=UNDER THE RADAR BUT BRIMMING WITH OPTIMISM |access-date=3 August 2018 |archive-date=15 June 2018 |archive-url=https://web.archive.org/web/20180615145055/https://news.nike.com/news/saudi-arabia-national-team-collection |url-status=live }}</ref> The team switched their colors to green as the home and white as the away in 2023.
+
+=== Kit suppliers ===
+{| class="wikitable"
+|-
+! Kit supplier
+! Period
+|-
+|{{#invoke:flag|icon|UK}} [[Admiral Sportswear|Admiral]]
+| 1976–1979
+|-
+|{{#invoke:flag|icon|GER}} [[Puma (brand)|Puma]]
+| 1980–1984
+|-
+|{{#invoke:flag|icon|ARG}} [[Topper (brand)|Topper]]<ref>{{Cite web |title=Saudi Arabia Kits 1980s - Football Kit Archive |url=https://www.footballkitarchive.com/saudi-arabia-kits-t452/#1980s |access-date=2026-05-20 |website=www.footballkitarchive.com |url-status=live }}</ref>
+| 1984–1986
+|-
+|{{#invoke:flag|icon|KSA}} Faisok
+| 1987–1989
+|-
+|{{#invoke:flag|icon|GER}} [[Adidas]]
+| 1990–1993
+|-
+|{{#invoke:flag|icon|KSA}} Shammel
+| 1994–2000
+|-
+|{{#invoke:flag|icon|GER}} Adidas
+| 2001–2003
+|-
+|{{#invoke:flag|icon|FRA|1974}} [[Le Coq Sportif]]
+| 2004–2005
+|-
+|{{#invoke:flag|icon|GER}} [[Puma (brand)|Puma]]
+| 2006–2010
+|-
+|{{#invoke:flag|icon|US}} [[Nike, Inc.|Nike]]<ref>{{Cite web |title=Saudi Arabian Football Federation and Nike to end partnership - Saudi Arabian Football Federation |url=https://www.saff.com.sa/en/news.php?id=1950 |access-date=2023-05-12 |website=www.saff.com.sa |language= |archive-date=12 May 2023 |archive-url=https://web.archive.org/web/20230512021524/https://www.saff.com.sa/en/news.php?id=1950 |url-status=live }}</ref>
+| 2011–2023
+|-
+|{{#invoke:flag|icon|GER}} Adidas<ref>{{Cite web |date=2023-03-22 |title=Adidas launches all-new Saudi Arabian Football Federation home, away jerseys |url=https://arab.news/zav9y |access-date=2023-05-12 |website=Arab News |language=en |archive-date=6 July 2023 |archive-url=https://web.archive.org/web/20230706072617/https://www.arabnews.com/node/2273481/sport |url-status=live }}</ref>
+| 2023–present
+|}
+
+==Rivalries==
+{{Expand section|date=November 2024}}
+{{main|Iran–Saudi Arabia football rivalry|Iraq–Saudi Arabia football rivalry}}
+
+Saudi Arabia's main rivals are mostly from the Gulf, notably [[Iran national football team|Iran]], [[Iraq national football team|Iraq]], [[Qatar national football team|Qatar]], [[Kuwait national football team|Kuwait]], and the [[United Arab Emirates national football team|United Arab Emirates]].
+
+Due to historical reasons, matches against Iran have been frequently followed and seen by Saudis as the most important rival. This stems from the strong hatred between Saudi Arabia and Iran, in particular in recent years due to historical enmities. Saudi Arabia has won 6 matches, drew 6 times, and lost 5 against Iran. In 2014, ''[[Bleacher Report]]'' called it one of the ten most heated rivalries with political influence.<ref>{{cite web |url=https://bleacherreport.com/articles/2233242-international-footballs-10-most-politically-charged-football-rivalries |title=International Football's 10 Most Politically-Charged Football Rivalries |author=Jerrad Peters|website=[[Bleacher Report]] |date=15 October 2014|access-date=19 September 2020}}</ref><ref>{{cite web |url=https://www.csis.org/analysis/policy-goals-soccer-and-saudi-iranian-rivalry |title=Policy Goals: Soccer and the Saudi-Iranian Rivalry |work=Center for Strategic and International Studies |date=20 October 2015 |access-date=19 September 2020}}</ref>
+
+Saudi Arabia's rivalry against Iraq began in the 1970s. Due to the [[Gulf War]], in which Iraq invaded Saudi Arabia's ally Kuwait, Saudi Arabia and Iraq eventually became bitter rivals fighting to salvage Arab pride.<ref>{{Cite web |last=Hersh |first=Phil |date=1993-10-15 |title=WORLD CUP '94-POLITICAL FOOTBALL |url=https://www.chicagotribune.com/news/ct-xpm-1993-10-15-9310190165-story.html |access-date=2024-01-02 |website=[[Chicago Tribune]]}}</ref> The two countries since then have been up-and-down in relations, often ranging from lack of cooperation to political confrontation. Iraq almost pulled out of the [[21st Arabian Gulf Cup]] after the country was disallowed to host the competition in a move believed to be motivated by Saudi Arabia.<ref>{{Cite web |date=2013-10-08 |title=Gulf Cup shifts from Iraq to Saudi Arabia |url=https://apnews.com/gulf-cup-shifts-from-iraq-to-saudi-arabia-ea4f86afda304e46b5f8b946c81a2adc |access-date=2024-01-02 |website=AP News |language=en}}</ref><ref>{{Cite web |title=Gulf Cup shifts from Iraq to Saudi Arabia |url=https://www.arabnews.com/node/467109/amp |access-date=2024-01-02 |website=Arab News |language=en}}</ref>
+
+Outside the Middle East, the Saudis also have established rivalries with [[South Korea national football team|South Korea]], [[Japan national football team|Japan]] (including two Asian Cup finals) and most recently [[Australia men's national soccer team|Australia]].{{Citation needed|date=November 2024}}
+
+==Venues==
+Historically, Saudi Arabia played most of their home matches in [[King Fahd Sports City]], located in the capital [[Riyadh]]. The stadium was also where some of Saudi Arabia's most important fixtures were played when the country hosted the first three [[FIFA Confederations Cup|King Fahd Cup]]s (the predecessor of the FIFA Confederations Cup). The stadium was also home to some of Saudi Arabia's matches in the [[FIFA World Cup qualification|FIFA World Cup qualifiers]].
+
+Saudi Arabia started to diversify the use of venues from outside Riyadh in the 2000s, with the [[2002 FIFA World Cup qualification – AFC first round|2002 FIFA World Cup qualifying first round]] being played in [[Prince Mohamed bin Fahd Stadium]] in [[Dammam]] and the [[2002 FIFA World Cup qualification – AFC second round|second round]] being played entirely in [[Prince Faisal bin Fahd Stadium]]. In the [[2006 FIFA World Cup qualification – AFC second round|2006 FIFA World Cup qualifying second round]] against [[Sri Lanka national football team|Sri Lanka]] and the first fixture against [[Uzbekistan national football team|Uzbekistan]] in the [[2006 FIFA World Cup qualification – AFC third round|third round]], Saudi Arabia also played in Prince Mohamed bin Fahd Stadium.{{citation needed|date=May 2024}}
+
+== Results and fixtures ==
+{{main|Saudi Arabia national football team results (2020–present)}}
+
+The following is a list of match results in the last 12 months, as well as any future matches that have been scheduled.
+
+{{legend2|#CCFFCC|Win|border=1px solid #AAAAAA}}
+{{legend2|#FFFFCC|Draw|border=1px solid #AAAAAA}}
+{{legend2|#FFCCCC|Loss|border=1px solid #AAAAAA}}
+{{legend2|#FFFFFF|Fixture|border=1px solid #AAAAAA}}
+
+===2025===
+{{#invoke:Football box collapsible|main
+| format     = 1
+| round      = [[2025 CONCACAF Gold Cup knockout stage#Quarter-finals|2025 CONCACAF Gold Cup QF]]
+| date       = 28 June 
+| time       = {{UTZ|19:15|-7}}
+| team1      = {{#invoke:flag|fb-rt|MEX}}
+| score      = 2–0
+| team2      = {{#invoke:flag|fb|KSA}}
+| report     = https://www.concacaf.com/en/gold-cup/game-details?competition=f51991ex45qhp1p3iu74u4d4e&season=5r564yyrugptqzsrsphcyk7pw&match=egtkhrmgl0lra9ppsyawhkb2s
+| goals1     =
+*[[Alexis Vega (Mexican footballer)|Vega]] {{goal|49}}
+*[[Abdullah Madu|Madu]] {{goal|81|o.g.}}
+| goals2     =
+| location   = [[Glendale, Arizona|Glendale]], [[Arizona]], United States
+| stadium    = [[State Farm Stadium]]
+| attendance =
+| referee    =Lukasz Szpala ([[United States Soccer Federation|United States]])
+| result     = L
+}}
+{{#invoke:Football box collapsible|main
+|date        = 4 September
+|time        = {{UTZ|17:00|2}}
+|round       = [[Exhibition game|Friendly]]
+|score       = 1–2
+|report      = https://www.uefa.com/european-qualifiers/friendlies/match/2045897--saudi-arabia-vs-north-macedonia/
+|team1       = {{#invoke:flag|fb-rt|MKD}}
+|goals1=
+*[[Aleksandar Trajkovski|Trajkovski]] {{goal|41}}
+|team2       = {{#invoke:flag|fb|KSA}}
+|goals2      =
+*[[Firas Al-Buraikan|Al-Buraikan]] {{goal|45}}
+*[[Abdullah Al-Hamdan|Al-Hamdan]] {{goal|78}}
+|stadium     = [[FK Viktoria Stadion]]
+|location    = [[Prague]], Czech Republic
+|attendance  =
+|referee     = Dominik Starý ([[Football Association of the Czech Republic|Czech Republic]])
+|format      = 1
+|result      = W
+}}
+{{#invoke:Football box collapsible|main
+|date        = 8 September
+|time        = {{UTZ|19:15|2}}
+|round       = [[Exhibition game|Friendly]]
+|score       = 1–1
+|report      = https://www.uefa.com/european-qualifiers/friendlies/match/2045700--czechia-vs-saudi-arabia/
+|team1       = {{#invoke:flag|fb-rt|CZE}}
+|goals1      =
+*[[Tomáš Chorý|Chorý]] {{goal|21|pen.}}
+|team2       = {{#invoke:flag|fb|KSA}}
+|goals2      = 
+*[[Abdullah Al-Hamdan|Al-Hamdan]] {{goal|90+1}}
+|stadium     = [[Malšovická aréna]]
+|location    = [[Hradec Králové]], Czech Republic
+|attendance  =
+|referee     = [[Martin Dohal]] ([[Slovak Football Association|Slovakia]])
+|format      = 1
+|result      = D
+}}
+{{#invoke:Football box collapsible|main
+|format     = 1
+|round      = [[2026 FIFA World Cup qualification – AFC fourth round#Group B|2026 World Cup qualification R4]]
+|date       = 8 October
+|time       = {{UTZ|20:15|3}}
+|team1      = {{#invoke:flag|fb-rt|IDN}}
+|score      = 2–3 
+|report     = [https://www.fifa.com/en/match-centre/match/520/288263/288279/400020392 Report (FIFA)]<br>[https://www.the-afc.com/en/matches/asian-qualifiers/2026/2582224 Report (AFC)]
+|team2      = {{#invoke:flag|fb|KSA}}
+|goals1     =
+*[[Kevin Diks|Diks]] {{goal|11|p|88|p}}
+|goals2     =
+*[[Saleh Abu Al-Shamat|Abu Al-Shamat]] {{goal|17}}
+*[[Firas Al-Buraikan|Al-Buraikan]] {{goal|36|p|62}}
+|stadium    = [[King Abdullah Sports City Stadium]]
+|location   = [[Jeddah]], Saudi Arabia
+|attendance = 40,634
+|referee    = Ahmed Al Ali ([[Kuwait Football Association|Kuwait]])
+|result     = W 
+|id=Indonesia V Saudi Arabia
+}}
+{{#invoke:Football box collapsible|main
+|format     = 1
+|round      = [[2026 FIFA World Cup qualification – AFC fourth round#Group B|2026 World Cup qualification R4]]
+|date       = 14 October
+|time       = {{UTZ|21:45|3}}
+|team1      = {{#invoke:flag|fb-rt|KSA}}
+|score      = 0–0 
+|report     = [https://www.fifa.com/en/match-centre/match/520/288263/288279/400020394 Report (FIFA)]<br>[https://www.the-afc.com/en/matches/asian-qualifiers/2026/2582226 Report (AFC)]
+|team2      = {{#invoke:flag|fb|IRQ}}
+|goals1     =
+|goals2     =
+|stadium    = [[King Abdullah Sports City Stadium]]
+|location   = [[Jeddah]], Saudi Arabia
+|attendance = 60,816
+|referee    = [[Adham Makhadmeh]] ([[Jordan Football Association|Jordan]])
+|result     = D
+|id=
+}} 
+{{#invoke:Football box collapsible|main
+|date       = 14 November
+|time       = {{UTZ|19:30|3}}
+|round      = [[Exhibition game|Friendly]]
+|score      = 1–0
+|report     = https://www.fifa.com/en/match-centre/match/cesdwwnxbc5fmajgroc0hqzy2/8pw8cm9fuczk7lmxm1oxjdyc4/1rj1740ys47h5s938mfswsh78/9ws4meschsyh1w29dnr38u1as?date=2025-11-14
+|team1      = {{#invoke:flag|fb-rt|KSA}}
+|goals1     = 
+*[[Saleh Abu Al-Shamat|Abu Al-Shamat]] {{goal|8}}
+|team2      = {{#invoke:flag|fb|CIV}}
+|goals2     =  
+|stadium    = [[Prince Abdullah Al-Faisal Sports City Stadium]]
+|location   = [[Jeddah]], Saudi Arabia
+|attendance = 2,271
+|referee    = [[Yahya Almulla]] ([[United Arab Emirates Football Association|United Arab Emirates]])
+|format     = 1
+|result     = W
+}} 
+{{#invoke:Football box collapsible|main
+|format     = 1
+|date       = 18 November
+|time       = {{UTZ|19:30|3}}
+|round      = [[Exhibition game|Friendly]]
+|team1      = {{#invoke:flag|fb-rt|KSA}}
+|score      = 0–2
+|team2      = {{#invoke:flag|fb|ALG}}
+|goals1     = 
+|goals2     = 
+*[[Riyad Mahrez|Mahrez]] {{goal|75|pen.}}
+*[[Rafik Belghali|Belghali]] {{goal|85}}
+|stadium    = [[Prince Abdullah Al-Faisal Sports City Stadium]]
+|location   = [[Jeddah]], Saudi Arabia
+|attendance = 
+|referee    = Abdulhadi Al-Ruwaili ([[Qatar Football Association|Qatar]])
+|report     = 
+|result     = L
+}}
+{{#invoke:Football box collapsible|main
+|format     = 1
+|date       = 2 December
+|time       = {{UTZ|20:00|3}}
+|round      = [[2025 FIFA Arab Cup Group B|2025 FIFA Arab Cup GS]]
+|score      = 2–1
+|report     = https://www.fifa.com/en/match-centre/match/10013/290556/290557/400020123
+|team1      = {{#invoke:flag|fb-rt|KSA}}
+|goals1     =
+*[[Firas Al-Buraikan|Al-Buraikan]] {{goal|55}}
+*[[Saleh Al-Shehri|Al-Shehri]] {{goal|77}}
+|team2      = {{#invoke:flag|fb|OMA}}
+|goals2     =
+*[[Gehmat Al-Habashi|Al-Habashi]] {{goal|70}}
+|stadium    = [[Education City Stadium]] 
+|location   = [[Al Rayyan (city)|Al Rayyan]], Qatar
+|attendance = 21,628
+|referee    = [[Adham Makhadmeh]] ([[Jordan Football Association|Jordan]])
+|result     = W
+}}
+{{#invoke:Football box collapsible|main
+|format     = 1
+|date       = 5 December
+|time       = {{UTZ|21:30|3}}
+|round      = [[2025 FIFA Arab Cup Group B|2025 FIFA Arab Cup GS]]
+|score      = 1–3
+|report     = https://www.fifa.com/en/match-centre/match/10013/290556/290557/400020125
+|team1      = {{#invoke:flag|fb-rt|COM}} 
+|goals1     = [[Ibroihim Djoudja|Djoudja]] {{goal|63}}
+|team2      = {{#invoke:flag|fb|KSA}} 
+|goals2     = 
+*[[Mohamed Kanno|Kanno]] {{goal|45+4||51}}
+*[[Salem Al-Dawsari|Al-Dawsari]] {{goal|76}}
+|stadium    = [[Al Bayt Stadium]]
+|location   = [[Al Khor (city)|Al Khor]], Qatar
+|attendance = 32,219
+|referee    = Juan Calderón ([[Costa Rican Football Federation|Costa Rica]])
+|result     = W
+}}
+{{#invoke:Football box collapsible|main
+|format     = 1
+|date       = 8 December
+|time       = {{UTZ|20:00|3}}
+|round      = [[2025 FIFA Arab Cup Group B|2025 FIFA Arab Cup GS]]
+|score      = 1–0
+|report     = https://www.fifa.com/en/match-centre/match/10013/290556/290557/400020126
+|team1      = {{#invoke:flag|fb-rt|MAR}}
+|goals1     = [[Karim El Berkaoui|El Berkaoui]] {{goal|11}}
+|team2      = {{#invoke:flag|fb|KSA}} 
+|goals2     =
+|stadium    = [[Lusail Stadium]]
+|location   = [[Lusail]], Qatar
+|attendance = 78,131
+|referee    = [[Mario Escobar (referee)|Mario Escobar]] ([[National Football Federation of Guatemala|Guatemala]])
+|result     = L
+}}
+{{#invoke:Football box collapsible|main
+|format     = 1
+|date       = 11 December
+|time       = {{UTZ|20:30|3}}
+|round      = [[2025 FIFA Arab Cup knockout stage|2025 FIFA Arab Cup QF]]
+|score      = 1–2
+|aet        = yes
+|report     = https://www.fifa.com/en/match-centre/match/10013/290556/290563/400020140
+|team1      = {{#invoke:flag|fb-rt|PLE}}
+|goals1     = 
+*[[Oday Dabbagh|Dabbagh]] {{goal|64}}
+|team2      = {{#invoke:flag|fb|KSA}} 
+|goals2     = 
+*[[Firas Al-Buraikan|Al-Buraikan]] {{goal|58|pen.}}
+*[[Mohamed Kanno|Kanno]] {{goal|115}}
+|stadium    = [[Lusail Stadium]]
+|location   = [[Lusail]], Qatar
+|attendance = 77,197
+|referee    = [[Amin Omar]] ([[Egyptian Football Association|Egypt]])
+|result     = W
+}}
+{{#invoke:Football box collapsible|main
+|format     = 1
+|date       = 15 December
+|time       = {{UTZ|20:30|3}}
+|round      = [[2025 FIFA Arab Cup knockout stage|2025 FIFA Arab Cup SF]]
+|score      = 0–1
+|report     = https://www.fifa.com/en/match-centre/match/10013/290556/290564/400020144
+|team1      = {{#invoke:flag|fb-rt|KSA}}
+|goals1     = [[Waleed Al-Ahmed|Al-Ahmed]] {{sentoff|0|90+6}}
+|team2      = {{#invoke:flag|fb|JOR}} 
+|goals2     = [[Nizar Al-Rashdan|Al-Rashdan]] {{goal|66}}
+|stadium    = [[Al Bayt Stadium]]
+|location   = [[Al Khor (city)|Al Khor]], Qatar
+|attendance = 62,825
+|referee    = [[Juan Gabriel Benítez]] ([[Paraguayan Football Association|Paraguay]])
+|result     = L
+}}
+{{#invoke:Football box collapsible|main
+|format     = 1
+|date       = 18 December
+|time       = {{UTZ|14:00|3}}
+|round      = [[2025 FIFA Arab Cup knockout stage#Third place play-off|2025 FIFA Arab Cup 3rd place]]
+|team1      = {{#invoke:flag|fb-rt|KSA}}
+|score      = 0–0
+|scorenote  = Abandoned
+|report     = https://www.fifa.com/en/match-centre/match/10013/290556/290565/400020118
+|team2      = {{#invoke:flag|fb|UAE}}
+|goals1     = 
+|goals2     = 
+|stadium    = [[Khalifa International Stadium]]
+|location   = [[Al Rayyan]], Qatar
+|attendance = 
+|referee    = [[Cristián Garay]] ([[Football Federation of Chile|Chile]])  
+|result     = P
+|note       = Match was abandoned at halftime (when the score was 0–0) due to heavy rainfall.<ref>{{cite news|url=https://en.royanews.tv/news/65881/UAE-vs-Saudi-Arabia-match-canceled-due-to-heavy-rain|title=UAE vs Saudi Arabia match canceled due to heavy rain|access-date=18 December 2025|date=18 December 2025}}</ref>
+}}
+
+===2026===
+{{#invoke:Football box collapsible|main|format=1
+|round      = [[Exhibition match#International football|Friendly]]
+|date       = 27 March
+|time       = {{UTZ|20:30|3}}
+|team1      = {{#invoke:flag|fb-rt|KSA}}
+|score      = 0–4
+|team2      = {{#invoke:flag|fb|EGY}}
+|goals1     = 
+|goals2     = 
+*[[Islam Issa (footballer)|Issa]] {{goal|4}}
+*[[Trézéguet (Egyptian footballer)|Trézéguet]] {{goal|16}}
+*[[Zizo (footballer)|Zizo]] {{goal|44}}
+*[[Omar Marmoush|Marmoush]] {{goal|56}}
+|location   = [[Jeddah]], Saudi Arabia{{efn|The Saudi Arabia v Egypt match, originally scheduled to be played at the [[Ahmad bin Ali Stadium]], [[Al Rayyan]], was relocated to Saudi Arabia due to the [[2026 Iran war]].}}
+|stadium    = [[King Abdullah Sports City]]
+|attendance = 
+|referee    = Abdulla Ali Al Athba ([[Qatar Football Association|Qatar]])
+|report     = https://www.soccerway.com/match/egypt-bejDn7NN/saudi-arabia-biSY8ox4/?mid=KjQUOcYo
+|result     = L
+}}
+{{#invoke:Football box collapsible|main|format=1
+|round      = [[Exhibition match#International football|Friendly]]
+|date       = 31 March
+|time       = {{UTZ|17:00|3}}
+|team1      = {{#invoke:flag|fb-rt|SER}}
+|score      = 2–1
+|team2      = {{#invoke:flag|fb|KSA}}
+|goals1     = 
+*[[Strahinja Pavlović|Pavlović]] {{goal|66}}
+*[[Aleksandar Mitrović|Mitrović]] {{goal|70}}
+|goals2     = 
+*[[Abdullah Al-Hamdan|Al-Hamdan]] {{goal|8}}
+|location   = [[Bačka Topola]], Serbia{{efn|The Serbia v Saudi Arabia match, originally scheduled to be played at the [[Jassim bin Hamad Stadium]], [[Al Rayyan]], was relocated to Serbia due to the [[2026 Iran war]].}}
+|stadium    = [[TSC Arena]] 
+|attendance = 4,101
+|referee    = [[Balázs Berke (referee)|Balázs Berke]] ([[Hungarian Football Federation|Hungary]])
+|report     = https://us.soccerway.com/game/saudi-arabia-biSY8ox4/serbia-8Kl6iq0i/
+|result     = L
+}}
+{{#invoke:Football box collapsible|main
+|format     = 1
+|date       = 30 May
+|time       = {{UTZ|19:30|-4}}
+|round      = [[Exhibition match#International football|Friendly]]
+|score      = 2–1
+|report     = https://www.espn.com/soccer/match/_/gameId/401869431/saudi-arabia-ecuador
+|team1      = {{#invoke:flag|fb-rt|ECU}}
+|goals1     =
+*[[Jackson Porozo|Porozo]] {{goal|35}}
+*[[Anthony Valencia|Valencia]] {{goal|51}}
+|team2      = {{#invoke:flag|fb|KSA}}
+|goals2     =
+*[[Sultan Mandash|Mandash]] {{goal|87}}
+|stadium    = [[Sports Illustrated Stadium]]
+|location   = [[Harrison, New Jersey|Harrison]], [[New Jersey]], United States
+|attendance = 
+|referee    = [[Pierre-Luc Lauziere]] ([[Canadian Soccer Association|Canada]])
+|result     = L
+}}
+{{footballbox collapsible
+|date=5 June
+|time={{UTZ|19:00|-4}}
+|round=[[Exhibition match#International football|Friendly]]
+|score= 0–3
+|report=https://globalsportsarchive.com/en/soccer/match/2026-06-06/saudi-arabia-vs-puerto-rico/4310687
+|team1={{#invoke:flag|fb-rt|PUR}}
+|goals1=
+|team2={{#invoke:flag|fb|KSA}}
+|goals2=
+*[[Sultan Mandash|Mandash]] {{goal|45+1}}
+*[[Abdullah Al-Hamdan|Al-Hamdan]] {{goal|50}}
+*[[Salem Al-Dawsari|S. Al-Dawsari]] {{goal|88}}
+|stadium=[[Q2 Stadium]]
+|location=[[Austin, Texas|Austin]], [[Texas]], United States
+|attendance=
+|referee=[[Reon Radix]] ([[Grenada Football Association|Grenada]])
+|format=1
+|result= W
+}}
+{{#invoke:Football box collapsible|main
+|format     = 1
+|date       = 9 June
+|time       = {{UTZ|16:00|-5}}
+|round      = [[Exhibition match#International football|Friendly]]
+|score      = 0–0
+|report     = 
+|team1      = {{#invoke:flag|fb-rt|KSA}}
+|goals1     =
+|team2      = {{#invoke:flag|fb|SEN}}
+|goals2     =
+|stadium    = [[Toyota Field]]
+|location   = [[San Antonio]], [[Texas]], United States
+|attendance = 
+|referee    = [[Víctor Rivas]] ([[United States Soccer Federation|United States]])
+|result     = D
+}}
+{{#invoke:Football box collapsible|main
+|format     = 1
+|date       = 15 June
+|time       = {{UTZ|18:00|-4}}
+|round      = [[2026 FIFA World Cup Group H|2026 World Cup GS]]
+|score      = 1–1
+|report     = https://www.fifa.com/en/match-centre/match/17/285023/289273/400021486
+|team1      = {{#invoke:flag|fb-rt|KSA}}
+|goals1     =
+*[[Abdulelah Al-Amri|Al-Amri]] {{goal|41}}
+|team2      = {{#invoke:flag|fb|URU}}
+|goals2     =
+*[[Maximiliano Araújo|Araújo]] {{goal|80}}
+|stadium    = [[Hard Rock Stadium]]
+|location   = [[Miami Gardens, Florida|Miami Gardens]], [[Florida]], United States
+|attendance = 62,764
+|referee    = [[Maurizio Mariani]] ([[Italian Football Federation|Italy]])
+|result     = D
+}}
+{{#invoke:Football box collapsible|main
+|format     = 1
+|date       = 21 June
+|time       = {{UTZ|12:00|-4}}
+|round      = [[2026 FIFA World Cup Group H|2026 World Cup GS]]
+|score      = 4–0
+|report     = https://www.fifa.com/en/match-centre/match/17/285023/289273/400021483
+|team1      = {{#invoke:flag|fb-rt|ESP}}
+|goals1     =
+|team2      = {{#invoke:flag|fb|KSA}}
+|goals2     =
+|stadium    = [[Mercedes-Benz Stadium]] 
+|location   = [[Atlanta]], [[Georgia (U.S. state)|Georgia]], United States
+|attendance = 68,239
+|referee    = [[Raphael Claus]] ([[Brazilian Football Confederation|Brazil]])
+|result     = L
+}}
+{{#invoke:Football box collapsible|main
+|format     = 1
+|date       = 26 June
+|time       = {{UTZ|19:00|-5}}
+|round      = [[2026 FIFA World Cup Group H|2026 World Cup GS]]
+|score      = 0–0
+|report     = https://www.fifa.com/en/match-centre/match/17/285023/289273/400021485
+|team1      = {{#invoke:flag|fb-rt|CPV}}
+|goals1     =
+|team2      = {{#invoke:flag|fb|KSA}}
+|goals2     =
+|stadium    = [[NRG Stadium]] 
+|location   = [[Houston]], [[Texas]], United States 
+|attendance = 68,278
+|referee    = [[François Letexier]] ([[French Football Federation|France]])
+|result     = D
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[27th Arabian Gulf Cup#Group A|2026 Gulf Cup GS]]
+|date       = 23 September 
+|time       = {{UTZ||3}}
+|team1      = {{fb-rt|KSA}}
+|score      = 
+|team2      = {{fb|KUW}}
+|goals1     = 
+|goals2     = 
+|location   = [[Jeddah]], Saudi Arabia
+|stadium    = [[King Abdullah Sports City Stadium]]
+|attendance =
+|referee    = 
+|report     = 
+|result     = 
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[27th Arabian Gulf Cup#Group A|2026 Gulf Cup GS]]
+|date       = 26 September
+|time       = {{UTZ||3}}
+|team1      = {{fb-rt|OMA}}
+|score      = 
+|team2      = {{fb|KSA}}
+|goals1     = 
+|goals2     = 
+|location   = [[Jeddah]], Saudi Arabia
+|stadium    = [[King Abdullah Sports City Stadium]]
+|attendance =
+|referee    = 
+|report     = 
+|result     = 
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[27th Arabian Gulf Cup#Group A|2026 Gulf Cup GS]]
+|date       = 29 September
+|time       = {{UTZ||3}}
+|team1      = {{fb-rt|KSA}}
+|score      = 
+|team2      = {{fb|IRQ}}
+|goals1     = 
+|goals2     = 
+|location   = [[Jeddah]], Saudi Arabia
+|stadium    = [[King Abdullah Sports City Stadium]]
+|attendance =
+|referee    = 
+|report     = 
+|result     = 
+}}
+{{footballbox collapsible
+|format     = 1
+|date       = November
+|time       = {{UTZ|}}
+|round      = [[2026 WAFF Championship]]
+|team1      = {{fb-rt|KSA}}
+|score      = 
+|report     = 
+|team2      = 
+|goals1     = 
+|goals2     = 
+|stadium    = 
+|location   = Oman
+|attendance = 
+|referee    =  
+|result     = 
+}}
+{{footballbox collapsible
+|format     = 1
+|date       = November
+|time       = {{UTZ|}}
+|round      = [[2026 WAFF Championship]]
+|team1      = {{fb-rt|KSA}}
+|score      = 
+|report     = 
+|team2      = 
+|goals1     = 
+|goals2     = 
+|stadium    = 
+|location   = Oman
+|attendance = 
+|referee    =  
+|result     = 
+}}
+
+===2027===
+{{#invoke:Football box collapsible|main
+|format     = 1
+|date       = 7 January
+|time       = {{UTZ|--:--|}}
+|round      = [[2027 AFC Asian Cup Group A|2027 Asian Cup GS]]
+|score      = 
+|report     = 
+|team1      = {{#invoke:flag|fb-rt|KSA}}
+|goals1     =
+|team2      = {{#invoke:flag|fb|PLE}}
+|goals2     =
+|stadium    = [[King Fahd Sports City Stadium]] 
+|location   = [[Riyadh]], Saudi Arabia
+|attendance = 
+|referee    = 
+|result     = 
+}} 
+{{#invoke:Football box collapsible|main
+|format     = 1
+|date       = 12 January
+|time       = {{UTZ|--:--|}}
+|round      = [[2027 AFC Asian Cup Group A|2027 Asian Cup GS]]
+|score      = 
+|report     = 
+|team1      = {{#invoke:flag|fb-rt|OMA}}
+|goals1     =
+|team2      = {{#invoke:flag|fb|KSA}}
+|goals2     =
+|stadium    = [[King Fahd Sports City Stadium]] 
+|location   = [[Riyadh]], Saudi Arabia
+|attendance = 
+|referee    = 
+|result     = 
+}}
+{{#invoke:Football box collapsible|main
+|format     = 1
+|date       = 17 January
+|time       = {{UTZ|--:--|}}
+|round      = [[2027 AFC Asian Cup Group A|2027 Asian Cup GS]]
+|score      = 
+|report     = 
+|team1      = {{#invoke:flag|fb-rt|KSA}}
+|goals1     =
+|team2      = {{#invoke:flag|fb|KUW}}
+|goals2     =
+|stadium    = [[King Abdullah Sports City Stadium]] 
+|location   = [[Jeddah]], Saudi Arabia
+|attendance = 
+|referee    = 
+|result     = 
+}}
+
+==Coaching staff==
+
+{| class="wikitable plainrowheaders" style="text-align:center; font-size: 95%; border: 1px; text-align: middle; width=20%"
+!style="background:#006C35; color:white; {{box-shadow border|a|#005429|2px}}|Position
+!style="background:#006C35; color:white; {{box-shadow border|a|#005429|2px}}|Name
+!style="background:#006C35; color:white; {{box-shadow border|a|#005429|2px}}|Ref.
+|-
+|Head coach
+|align=left|{{#invoke:flag|icon|GER}} {{#invoke:flag|icon|GRE}} [[Georgios Donis]]
+|
+|-
+|rowspan=5| Assistant coaches
+|align=left|{{#invoke:flag|icon|GRE}} Makis Angelinas
+|
+|-
+|align=left|{{#invoke:flag|icon|GRE}} [[Leonidas Vokolos]]
+|
+|-
+|align=left|{{#invoke:flag|icon|GRE}} [[Savvas Pantelidis]]
+|
+|-
+|align=left|{{#invoke:flag|icon|CIV}} [[Yaya Touré]]
+|
+|-
+|align=left|{{#invoke:flag|icon|KSA}} Mohammed Amin
+|
+|-
+|Goalkeeping coach
+|align=left|{{#invoke:flag|icon|GRE}} Panagiotis Maliaritsis
+|
+|-
+|Technical coach
+|align=left|{{#invoke:flag|icon|KSA}} [[Osama Hawsawi]]
+|
+|-
+|Fitness coach
+|align=left|{{#invoke:flag|icon|GRE}} Giannis Stavrinos
+|
+|-
+|rowspan=2|Trainer
+|align=left|{{#invoke:flag|icon|KSA}} Abdulsalam Al-Farabi 
+|
+|-
+|align=left|{{#invoke:flag|icon|KSA}} Ibrahim Al-Jalali
+|
+|-
+|Scout
+|align=left|{{#invoke:flag|icon|KSA}} Mohamed Al-Ghanim
+|
+|-
+|Technical director
+|align=left|{{#invoke:flag|icon|MAR}} [[Nasser Larguet]]
+|<ref name=":0">{{Cite web |last=Heyes |first=Apollo |date=25 August 2023 |title=Mancini builds staff for Saudi national team |url=https://football-italia.net/mancini-builds-staff-for-saudi-national-team/ |website=Football Italia}}</ref>
+|}
+
+===Coaching history===
+{| class="wikitable collapsible" style="text-align:center; font-size: 95%; border: 1px; text-align: middle; width=100%"
+!style="background:#006C35; color:white; {{box-shadow border|a|#005429|2px}}"width="5%" |No.
+!style="background:#006C35; color:white; {{box-shadow border|a|#005429|2px}}"width="15%" |Coach
+!style="background:#006C35; color:white; {{box-shadow border|a|#005429|2px}}"width="5%" |{{Abbr|Nat|Nationality}}
+!style="background:#006C35; color:white; {{box-shadow border|a|#005429|2px}}"width="10%" |First match
+!style="background:#006C35; color:white; {{box-shadow border|a|#005429|2px}}"width="10%" |Last match
+!style="background:#006C35; color:white; {{box-shadow border|a|#005429|2px}}"width="5%" |{{abbr|2=games played|Pld}}
+!style="background:#006C35; color:white; {{box-shadow border|a|#005429|2px}}"width="5%" |{{abbr|2=games won|W}}
+!style="background:#006C35; color:white; {{box-shadow border|a|#005429|2px}}"width="5%" |{{abbr|2=games drawn|D}}
+!style="background:#006C35; color:white; {{box-shadow border|a|#005429|2px}}"width="5%" |{{abbr|2=games lost|L}}
+!style="background:#006C35; color:white; {{box-shadow border|a|#005429|2px}}"width="5%" |{{abbr|2=win percentage|Win %}}
+|-align="center"
+|1
+|[[Abdulrahman Fawzi]]
+|{{#invoke:flag|icon|EGY|1958}}
+|{{dts|link=off|format=dmy|1957|10|18}} || {{dts|link=off|format=dmy|1961|9|6}}
+|6
+|1
+|1
+|4
+|16.67%
+|-align="center"
+|2
+|[[Ali Chaouach]]
+|{{#invoke:flag|icon|Tunisia|variant=1959}}
+|{{dts|link=off|format=dmy|1967|12|1}} || {{dts|link=off|format=dmy|1969|1|17}}
+|2
+|1
+|0
+|1
+|50.00%
+|-align="center"
+|3
+|[[George Skinner (footballer)|George Skinner]]
+|{{#invoke:flag|icon|England}}
+|{{dts|link=off|format=dmy|1970|3|28}} || {{dts|link=off|format=dmy|1970|4|2}}
+|3
+|0
+|2
+|1
+|0.00%
+|-align="center"
+|4
+|[[Taha Ismail]]
+|{{#invoke:flag|icon|EGY|1972}}
+|{{dts|link=off|format=dmy|1972|3|16}} || {{dts|link=off|format=dmy|1972|3|28}}
+|3
+|2
+|1
+|0
+|66.67%
+|-align="center"
+|5
+|[[Saleh El Wahsh|Abdo Saleh El Wahsh]]
+|{{#invoke:flag|icon|EGY|1972}}
+|{{dts|link=off|format=dmy|1974|3|6}} || {{dts|link=off|format=dmy|1974|3|29}}
+|6
+|4
+|1
+|1
+|66.67%
+|-align="center"
+|6
+|[[Ferenc Puskás]]
+|{{#invoke:flag|icon|Hungary}}
+|{{dts|link=off|format=dmy|1975|11|21}} || {{dts|link=off|format=dmy|1976|4|11}}
+|16
+|5
+|1
+|10
+|31.25%
+|-align="center"
+|7
+|[[Bill McGarry]]
+|{{#invoke:flag|icon|England}}
+|{{dts|link=off|format=dmy|1976|9|5}} || {{dts|link=off|format=dmy|1977|4|22}}
+|12
+|3
+|2
+|7
+|25.00%
+|-align="center"
+|8
+|[[Ronnie Allen]]
+|{{#invoke:flag|icon|England}}
+|{{dts|link=off|format=dmy|1978|11|15}} || {{dts|link=off|format=dmy|1978|12|14}}
+|4
+|0
+|3
+|1
+|0.00%
+|-align="center"
+|9
+|[[David Woodfield]]
+|{{#invoke:flag|icon|England}}
+|{{dts|link=off|format=dmy|1979|3|24}} || {{dts|link=off|format=dmy|1979|4|8}}
+|6
+|3
+|2
+|1
+|50.00%
+|-align="center"
+|10
+|[[Rubens Minelli]]
+|{{#invoke:flag|icon|Brazil|1968}}
+|{{dts|link=off|format=dmy|1980|1|30}} || {{dts|link=off|format=dmy|1981|12|19}}
+|22
+|9
+|3
+|10
+|40.91%
+|-align="center"
+|11
+|[[Mário Zagallo]]
+|{{#invoke:flag|icon|Brazil|1968}}
+|{{dts|link=off|format=dmy|1982|3|21}} || {{dts|link=off|format=dmy|1984|3|17}}
+|17
+|7
+|5
+|5
+|41.18%
+|-align="center"
+|12
+|[[Khalil Al-Zayani|Khalil Ibrahim Al-Zayani]]
+|{{#invoke:flag|icon|Saudi Arabia}}
+|{{dts|link=off|format=dmy|1984|3|20}} || {{dts|link=off|format=dmy|1986|4|5}}
+|39
+|19
+|9
+|11
+|48.72%
+|-align="center"
+|13
+|[[Carlos Castilho]]
+|{{#invoke:flag|icon|Brazil|1968}}
+|{{dts|link=off|format=dmy|1986|9|7}} || {{dts|link=off|format=dmy|1986|10|5}}
+|7
+|4
+|2
+|1
+|57.14%
+|-align="center"
+|14
+|[[Omar Borrás]]
+|{{#invoke:flag|icon|Uruguay}}
+|{{dts|link=off|format=dmy|1988|2|17}} || {{dts|link=off|format=dmy|1988|3|18}}
+|7
+|2
+|4
+|1
+|28.57%
+|-align="center"
+|15
+|[[Carlos Alberto Parreira]] (1)
+|{{#invoke:flag|icon|Brazil}}
+|{{dts|link=off|format=dmy|1988|4|21}} || {{dts|link=off|format=dmy|1989|10|28}}
+|26
+|10
+|9
+|7
+|38.46%
+|-align="center"
+|16
+|[[Paulo Massa]]
+|{{#invoke:flag|icon|Brazil}}
+|{{dts|link=off|format=dmy|1990|9|24}} || {{dts|link=off|format=dmy|1990|10|1}}
+|3
+|2
+|1
+|0
+|66.67%
+|-align="center"
+|17
+|[[Nelsinho Rosa]]
+|{{#invoke:flag|icon|Brazil}}
+|{{dts|link=off|format=dmy|1992|9|11}} || {{dts|link=off|format=dmy|1992|12|10}}
+|14
+|7
+|3
+|4
+|50.00%
+|-align="center"
+|18
+|[[Candinho]]
+|{{#invoke:flag|icon|Brazil}}
+|{{dts|link=off|format=dmy|1993|4|9}} || {{dts|link=off|format=dmy|1993|10|24}}
+|19
+|12
+|5
+|2
+|63.16%
+|-align="center"
+|19
+|[[Mohammed Al-Kharashy]] (1)
+|{{#invoke:flag|icon|Saudi Arabia}}
+|{{dts|link=off|format=dmy|1993|10|28}} || {{dts|link=off|format=dmy|1993|10|28}}
+|1
+|1
+|0
+|0
+|100.00%
+|-align="center"
+|20
+|[[Leo Beenhakker]]
+|{{#invoke:flag|icon|The Netherlands}}
+|{{dts|link=off|format=dmy|1994|1|23}} || {{dts|link=off|format=dmy|1994|2|9}}
+|4
+|1
+|2
+|1
+|25.00%
+|-align="center"
+|21
+|[[Jorge Solari]]
+|{{#invoke:flag|icon|Argentina}}
+|{{dts|link=off|format=dmy|1994|3|26}} || {{dts|link=off|format=dmy|1994|7|3}}
+|12
+|4
+|2
+|6
+|33.33%
+|-align="center"
+|22
+|[[Ivo Wortmann]]
+|{{#invoke:flag|icon|Brazil}}
+|{{dts|link=off|format=dmy|1994|10|1}} || {{dts|link=off|format=dmy|1994|10|13}}
+|5
+|3
+|0
+|2
+|60.00%
+|-align="center"
+|23
+|[[Mohammed Al-Kharashy]] (2)
+|{{#invoke:flag|icon|Saudi Arabia}}
+|{{dts|link=off|format=dmy|1994|10|19}} || {{dts|link=off|format=dmy|1995|1|8}}
+|11
+|6
+|1
+|4
+|54.54%
+|-align="center"
+|24
+|[[Zé Mário (footballer, born 1949)|Zé Mário]]
+|{{#invoke:flag|icon|Brazil}}
+|{{dts|link=off|format=dmy|1995|10|8}} || {{dts|link=off|format=dmy|1996|10|27}}
+|20
+|9
+|5
+|6
+|45.00%
+|-align="center"
+|25
+|[[Nelo Vingada]]
+|{{#invoke:flag|icon|Portugal}}
+|{{dts|link=off|format=dmy|1996|11|6}} || {{dts|link=off|format=dmy|1997|10|11}}
+|25
+|16
+|6
+|3
+|64.00%
+|-align="center"
+|26
+|[[Otto Pfister]] (1)
+|{{#invoke:flag|icon|Germany}}
+|{{dts|link=off|format=dmy|1997|10|17}} || {{dts|link=off|format=dmy|1997|12|16}}
+|8
+|3
+|2
+|3
+|37.50%
+|-align="center"
+|27
+|[[Carlos Alberto Parreira]] (2)
+|{{#invoke:flag|icon|Brazil}}
+|{{dts|link=off|format=dmy|1998|2|22}} || {{dts|link=off|format=dmy|1998|6|18}}
+|10
+|2
+|4
+|4
+|20.00%
+|-align="center"
+|28
+|[[Mohammed Al-Kharashy]] (3)
+|{{#invoke:flag|icon|Saudi Arabia}}
+|{{dts|link=off|format=dmy|1998|6|24}} || {{dts|link=off|format=dmy|1998|6|24}}
+|1
+|0
+|1
+|0
+|0.00%
+|-align="center"
+|29
+|[[Otto Pfister]] (2)
+|{{#invoke:flag|icon|Germany}}
+|{{dts|link=off|format=dmy|1998|9|11}} || {{dts|link=off|format=dmy|1998|11|11}}
+|11
+|9
+|2
+|0
+|81.81%
+|-align="center"
+|30
+|[[Milan Máčala]]
+|{{#invoke:flag|icon|Czech Republic}}
+|{{dts|link=off|format=dmy|1999|6|18}} || {{dts|link=off|format=dmy|2000|10|14}}
+|26
+|11
+|6
+|9
+|42.31%
+|-align="center"
+|31
+|[[Nasser Al-Johar]] (1)
+|{{#invoke:flag|icon|Saudi Arabia}}
+|{{dts|link=off|format=dmy|2000|10|17}} || {{dts|link=off|format=dmy|2001|2|19}}
+|13
+|11
+|1
+|1
+|84.61%
+|-align="center"
+|32
+|[[Slobodan Santrač]]
+|{{#invoke:flag|icon|Serbia and Montenegro}}
+|{{dts|link=off|format=dmy|2001|7|10}} || {{dts|link=off|format=dmy|2001|8|24}}
+|7
+|3
+|2
+|2
+|42.86%
+|-align="center"
+|33
+|[[Nasser Al-Johar]] (2)
+|{{#invoke:flag|icon|Saudi Arabia}}
+|{{dts|link=off|format=dmy|2001|8|31}} || {{dts|link=off|format=dmy|2002|6|11}}
+|23
+|13
+|2
+|8
+|56.52%
+|-align="center"
+|34
+|[[Gerard van der Lem]]
+|{{#invoke:flag|icon|The Netherlands}}
+|{{dts|link=off|format=dmy|2002|12|17}} || {{dts|link=off|format=dmy|2004|7|26}}
+|26
+|17
+|6
+|3
+|65.38%
+|-align="center"
+|35
+|[[Martin Koopman]]
+|{{#invoke:flag|icon|The Netherlands}}
+|{{dts|link=off|format=dmy|2002|12|30}} || {{dts|link=off|format=dmy|2002|12|30}}
+|1
+|1
+|0
+|0
+|100.00%
+|-align="center"
+|36
+|[[Nasser Al-Johar]] (3)
+|{{#invoke:flag|icon|Saudi Arabia}}
+|{{dts|link=off|format=dmy|2004|9|1}} || {{dts|link=off|format=dmy|2004|11|17}}
+|5
+|3
+|2
+|0
+|60.00%
+|-align="center"
+|37
+|[[Gabriel Calderón]]
+|{{#invoke:flag|icon|Argentina}}
+|{{dts|link=off|format=dmy|2004|12|11}} || {{dts|link=off|format=dmy|2005|12|8}}
+|19
+|8
+|4
+|7
+|42.11%
+|-align="center"
+|38
+|[[Marcos Paquetá]]
+|{{#invoke:flag|icon|Brazil}}
+|{{dts|link=off|format=dmy|2006|1|18}} || {{dts|link=off|format=dmy|2007|1|27}}
+|30
+|13
+|7
+|10
+|43.33%
+|-align="center"
+|39
+|[[Hélio dos Anjos]]
+|{{#invoke:flag|icon|Brazil}}
+|{{dts|link=off|format=dmy|2007|6|24}} || {{dts|link=off|format=dmy|2008|6|7}}
+|22
+|15
+|3
+|4
+|68.18%
+|-align="center"
+|40
+|[[Nasser Al-Johar]] (4)
+|{{#invoke:flag|icon|Saudi Arabia}}
+|{{dts|link=off|format=dmy|2008|6|14}} || {{dts|link=off|format=dmy|2009|2|11}}
+|18
+|10
+|5
+|3
+|55.55%
+|-align="center"
+|41
+|[[José Peseiro]]
+|{{#invoke:flag|icon|Portugal}}
+|{{dts|link=off|format=dmy|2009|3|22}} || {{dts|link=off|format=dmy|2011|1|9}}
+|31
+|12
+|12
+|7
+|38.71%
+|-align="center"
+|42
+|[[Nasser Al-Johar]] (5)
+|{{#invoke:flag|icon|Saudi Arabia}}
+|{{dts|link=off|format=dmy|2011|1|13}} || {{dts|link=off|format=dmy|2011|1|17}}
+|2
+|0
+|0
+|2
+|0.00%
+|-align="center"
+|43
+|[[Rogério Lourenço]]
+|{{#invoke:flag|icon|Brazil}}
+|{{dts|link=off|format=dmy|2011|7|13}} || {{dts|link=off|format=dmy|2011|7|28}}
+|4
+|2
+|1
+|1
+|50.00%
+|-align="center"
+|44
+|[[Frank Rijkaard]]
+|{{#invoke:flag|icon|Netherlands}}
+|{{dts|link=off|format=dmy|2011|9|2}} || {{dts|link=off|format=dmy|2013|1|12}}
+|17
+|4
+|6
+|7
+|23.53%
+|-align="center"
+|45
+|[[Khalid Al-Koroni]]
+|{{#invoke:flag|icon|Saudi Arabia}}
+|{{dts|link=off|format=dmy|2012|12|9}} || {{dts|link=off|format=dmy|2012|12|15}}
+|3
+|1
+|1
+|1
+|33.33%
+|-align="center"
+|46
+|[[Juan Ramón López Caro]]
+|{{#invoke:flag|icon|Spain}}
+|{{dts|link=off|format=dmy|2013|2|6}} || {{dts|link=off|format=dmy|2014|11|26}}
+|19
+|9
+|4
+|6
+|47.37%
+|-align="center"
+|47
+|[[Cosmin Olăroiu]]
+|{{#invoke:flag|icon|Romania}}
+|{{dts|link=off|format=dmy|2014|12|30}} || {{dts|link=off|format=dmy|2015|1|18}}
+|4
+|1
+|0
+|3
+|25.00%
+|-align="center"
+|48
+|[[Faisal Al Baden]]
+|{{#invoke:flag|icon|Saudi Arabia}}
+|{{dts|link=off|format=dmy|2015|3|30}} || {{dts|link=off|format=dmy|2015|6|11}}
+|2
+|2
+|0
+|0
+|100.00%
+|-align="center"
+|49
+|[[Bert van Marwijk]]
+|{{#invoke:flag|icon|The Netherlands}}
+|{{dts|link=off|format=dmy|2015|9|3}} || {{dts|link=off|format=dmy|2017|11|9}}
+|20
+|13
+|4
+|3
+|65.00%
+|-align="center"
+|50
+|[[Edgardo Bauza]]
+|{{#invoke:flag|icon|Argentina}}
+|{{dts|link=off|format=dmy|2017|11|10}} || {{dts|link=off|format=dmy|2017|11|13}}
+|2
+|0
+|0
+|2
+|0.00%
+|-align="center"
+|51
+|[[Krunoslav Jurčić]]
+|{{#invoke:flag|icon|CRO}}
+|{{dts|link=off|format=dmy|2017|12|22}} || {{dts|link=off|format=dmy|2017|12|28}}
+|3
+|1
+|1
+|1
+|33.33%
+|-align="center"
+|52
+|[[Juan Antonio Pizzi]]
+|{{#invoke:flag|icon|Spain}}
+|{{dts|link=off|format=dmy|2018|2|26}} || {{dts|link=off|format=dmy|2019|1|21}}
+|22
+|7
+|5
+|10
+|31.82%
+|-align="center"
+|53
+|[[Youssef Anbar]]
+|{{#invoke:flag|icon|Saudi Arabia}}
+|{{dts|link=off|format=dmy|2019|3|21}} || {{dts|link=off|format=dmy|2019|3|25}}
+|2
+|1
+|0
+|1
+|50.00%
+|- align="center"
+|54
+|[[Hervé Renard]] (1)
+|{{#invoke:flag|icon|France}}
+|{{dts|link=off|format=dmy|2019|9|5}}|| {{dts|link=off|format=dmy|2023|3|28}}
+|45
+|20
+|10
+|15
+|44.45%
+|- align="center"
+|55
+|[[Laurent Bonadéi]]{{efn|The assistant coach, Laurent Bonadéi took charge of the national team temporarily for the [[2021 FIFA Arab Cup]].}}
+|{{#invoke:flag|icon|France}}
+|{{dts|link=off|format=dmy|2021|12|1}}|| {{dts|link=off|format=dmy|2021|12|7}}
+|3
+|0
+|1
+|2
+|0.00%
+|-
+|56
+|[[Saad Al-Shehri]]{{efn|The assistant coach, Saad Al-Shehri took charge of the national team temporarily for the [[25th Arabian Gulf Cup]]. He was once again named interim coach following Hervé Renard's resignation.}}
+|{{#invoke:flag|icon|Saudi Arabia}}
+|{{dts|link=off|format=dmy|2023|1|6}} || {{dts|link=off|format=dmy|2023|8|23}}
+|3
+|1
+|0
+|2
+|33.33%
+|-align="center"
+|57
+|[[Roberto Mancini]] 
+|{{#invoke:flag|icon|Italy}}
+|28 August 2023
+|24 October 2024
+|20
+|8
+|7
+|5
+|38.89%
+|- align="center"
+|58
+|[[Hervé Renard]] (2)
+|{{#invoke:flag|icon|France}}
+|27 October 2024
+|17 April 2026
+|21
+|10
+|5
+|6
+|47.62%
+|- align="center"
+|58
+|[[Georgios Donis]] 
+|{{#invoke:flag|icon|Germany}}<br>{{#invoke:flag|icon|Greece}}
+|{{dts|link=off|format=dmy|2026|04|23}}
+|
+|4
+|1
+|2
+|1
+|25.00%
+|}
+
+==Players==
+===Current squad===
+The following players were called up for the [[2026 FIFA World Cup]].<ref>{{cite web |url=https://saff.com.sa/en/news.php?id=4222 |title=Head Coach Giorgos Donis Announces The NT Squad for 2026 World Cup Training Camp |publisher=[[Saudi Arabian Football Federation]] |date=May 23, 2026 |access-date=May 23, 2026}}</ref>
+<br>''Caps and goals correct as of 26 June 2026, after the match against [[Cape Verde national football team|Cape Verde]].''
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Nawaf Al-Aqidi]]|age={{birth date and age|2000|5|10|df=y}}|caps=24|goals=0|club=[[Al-Nassr FC|Al-Nassr]]|clubnat=KSA}}
+{{nat fs g player|no=21|pos=GK|name=[[Mohammed Al-Owais]]|age={{birth date and age|1991|10|10|df=y}}|caps=68|goals=0|club=[[Al-Ula FC|Al-Ula]]|clubnat=KSA}}
+{{nat fs g player|no=22|pos=GK|name=[[Ahmed Al-Kassar]]|age={{birth date and age|1991|5|8|df=y}}|caps=9|goals=0|club=[[Al Qadsiah FC|Al-Qadsiah]]|clubnat=KSA}}
+{{nat fs break}}
+{{nat fs g player|no=2|pos=DF|name=[[Ali Majrashi]]|age={{birth date and age|1999|10|2|df=y}}|caps=21|goals=0|club=[[Al-Ahli Saudi FC|Al-Ahli]]|clubnat=KSA}}
+{{nat fs g player|no=3|pos=DF|name=[[Ali Lajami]]|age={{birth date and age|1996|4|24|df=y}}|caps=27|goals=1|club=[[Al Hilal SFC|Al-Hilal]]|clubnat=KSA}}
+{{nat fs g player|no=4|pos=DF|name=[[Abdulelah Al-Amri]]|age={{birth date and age|df=y|1997|1|15}}|caps=47|goals=2|club=[[Al-Nassr FC|Al-Nassr]]|clubnat=KSA}}
+{{nat fs g player|no=5|pos=DF|name=[[Hassan Al-Tambakti]]|age={{birth date and age|1999|2|9|df=y}}|caps=57|goals=1|club=[[Al Hilal SFC|Al-Hilal]]|clubnat=KSA}}
+{{nat fs g player|no=12|pos=DF|name=[[Saud Abdulhamid]]|age={{birth date and age|df=y|1999|7|18}}|caps=58|goals=1|club=[[RC Lens|Lens]]|clubnat=FRA}}
+{{nat fs g player|no=13|pos=DF|name=[[Nawaf Boushal]]|age={{birth date and age|1999|9|16|df=y}}|caps=29|goals=0|club=[[Al-Nassr FC|Al-Nassr]]|clubnat=KSA}}
+{{nat fs g player|no=14|pos=DF|name=[[Hassan Kadesh]]|age={{birth date and age|df=y|1992|9|27}}|caps=21|goals=2|club=[[Al-Ittihad Club (Jeddah)|Al-Ittihad]]|clubnat=KSA}}
+{{nat fs g player|no=24|pos=DF|name=[[Moteb Al-Harbi]]|age={{birth date and age|2000|2|20|df=y}}|caps=16|goals=0|club=[[Al Hilal SFC|Al-Hilal]]|clubnat=KSA}}
+{{nat fs g player|no=25|pos=DF|name=[[Jehad Thakri]]|age={{birth date and age|df=y|2001|7|21}}|caps=8|goals=0|club=[[Al Qadsiah FC|Al-Qadsiah]]|clubnat=KSA}}
+{{nat fs g player|no=26|pos=DF|name=[[Mohammed Abu Al-Shamat]]|age={{birth date and age|2002|8|11|df=y}}|caps=11|goals=0|club=[[Al Qadsiah FC|Al-Qadsiah]]|clubnat=KSA}}
+{{nat fs break}}
+{{nat fs g player|no=6|pos=MF|name=[[Nasser Al-Dawsari]]|age={{birth date and age|df=y|1998|12|19}}||caps=50|goals=1|club=[[Al Hilal SFC|Al-Hilal]]|clubnat=KSA}}
+{{nat fs g player|no=7|pos=MF|name=[[Musab Al-Juwayr]]|age={{birth date and age|df=y|2003|6|20}}|caps=40|goals=6|club=[[Al Qadsiah FC|Al-Qadsiah]]|clubnat=KSA}}
+{{nat fs g player|no=8|pos=MF|name=[[Ayman Yahya]]|age={{birth date and age|2001|5|14|df=y}}|caps=26|goals=0|club=[[Al-Nassr FC|Al-Nassr]]|clubnat=KSA}}
+{{nat fs g player|no=10|pos=MF|name=[[Salem Al-Dawsari]]|other=[[Captain (association football)|captain]]|age={{birth date and age|1991|8|19|df=y}}|caps=114|goals=27|club=[[Al Hilal SFC|Al-Hilal]]|clubnat=KSA}}
+{{nat fs g player|no=15|pos=MF|name=[[Abdullah Al-Khaibari]]|age={{birth date and age|df=y|1996|8|16}}|caps=45|goals=0|club=[[Al-Nassr FC|Al-Nassr]]|clubnat=KSA}}
+{{nat fs g player|no=16|pos=MF|name=[[Ziyad Al-Johani]]|age={{birth date and age|2001|11|11|df=y}}|caps=12|goals=0|club=[[Al-Ahli Saudi FC|Al-Ahli]]|clubnat=KSA}}
+{{nat fs g player|no=18|pos=MF|name=[[Alaa Al-Hejji]]|age={{birth date and age|1995|12|3|df=y}}|caps=5|goals=0|club=[[Neom SC|Neom]]|clubnat=KSA}}
+{{nat fs g player|no=20|pos=MF|name=[[Sultan Mandash]]|age={{birth date and age|1994|10|17|df=y}}|caps=8|goals=2|club=[[Al Hilal SFC|Al-Hilal]]|clubnat=KSA}}
+{{nat fs g player|no=23|pos=MF|name=[[Mohamed Kanno]]|other=[[Captain (association football)|vice-captain]]|age={{birth date and age|1994|9|22|df=y}}|caps=82|goals=8|club=[[Al Hilal SFC|Al-Hilal]]|clubnat=KSA}}
+{{nat fs break}}
+{{nat fs g player|no=9|pos=FW|name=[[Firas Al-Buraikan]]|age={{birth date and age|2000|5|14|df=y}}|caps=75|goals=16|club=[[Al-Ahli Saudi FC|Al-Ahli]]|clubnat=KSA}}
+{{nat fs g player|no=11|pos=FW|name=[[Saleh Al-Shehri]]|age={{birth date and age|1993|11|1|df=y}}|caps=59|goals=19|club=[[Al-Ittihad Club (Jeddah)|Al-Ittihad]]|clubnat=KSA}}
+{{nat fs g player|no=17|pos=FW|name=[[Khalid Al-Ghannam]]|age={{birth date and age|2000|11|8|df=y}}|caps=8|goals=0|club=[[Al-Ettifaq Club|Al-Ettifaq]]|clubnat=KSA}}
+{{nat fs g player|no=19|pos=FW|name=[[Abdullah Al-Hamdan]]|age={{birth date and age|1999|9|13|df=y}}|caps=55|goals=13|club=[[Al-Nassr FC|Al-Nassr]]|clubnat=KSA}}
+{{nat fs end}}
+
+===Recent call-ups===
+The following players have also been called up to the Saudi Arabia squad within the last 12 months.
+<!--Sorted by position, most recent call-up, caps, goals and last name.-->
+{{nat fs r start}}
+{{nat fs r player|no=|pos=GK|name=[[Abdulquddus Atiah]]|age={{birth date and age|1997|3|1|df=y}}|caps=2|goals=0|club=[[Al-Taawoun FC|Al-Taawoun]]|clubnat=KSA|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=GK|name=[[Mohammed Al-Rubaie]]|age={{birth date and age|1997|8|14|df=y}}|caps=7|goals=0|club=[[Al Hilal SFC|Al-Hilal]]|clubnat=KSA|latest=v. {{#invoke:flag|fb|SRB}}, 31 March 2026}}
+{{nat fs r player|no=|pos=GK|name=[[Abdulrahman Al-Sanbi]]|age={{birth date and age|2001|2|3|df=y}}|caps=3|goals=0|club=[[Al-Ahli Saudi FC|Al-Ahli]]|clubnat=KSA|latest=[[2025 FIFA Arab Cup]]}}
+{{nat fs r player|no=|pos=GK|name=[[Raghed Al-Najjar]]|age={{birth date and age|1996|9|20|df=y}}|caps=1|goals=0|club=[[Al-Nassr FC|Al-Nassr]]|clubnat=KSA|latest=[[2025 FIFA Arab Cup]]}}
+{{nat fs r player|no=|pos=GK|name=[[Osama Al-Mermesh]]|age={{birth date and age|2003|7|6|df=y}}|caps=0|goals=0|club=[[Al-Ittihad Club (Jeddah)|Al-Ittihad]]|clubnat=KSA|latest=v. {{#invoke:flag|fb|CZE}}, 8 September 2025}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=DF|name=[[Zakaria Hawsawi]]|age={{birth date and age|df=y|2001|1|12}}|caps=1|goals=0|club=[[Al-Ahli Saudi FC|Al-Ahli]]|clubnat=KSA|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=DF|name=[[Muteb Al-Mufarrij]]|age={{birth date and age|df=y|1996|8|19}}|caps=5|goals=0|club=[[Al Taawoun FC|Al-Taawoun]]|clubnat=KSA|latest=v. {{#invoke:flag|fb|SRB}}, 31 March 2026}}
+{{nat fs r player|no=|pos=DF|name=[[Rayan Hamed]]|age={{birth date and age|df=y|2002|4|13}}|caps=5|goals=0|club=[[Al-Ahli Saudi FC|Al-Ahli]]|clubnat=KSA|latest=v. {{#invoke:flag|fb|SRB}}, 31 March 2026}}
+{{nat fs r player|no=|pos=DF|name=[[Khalifah Al-Dawsari]]|age={{birth date and age|df=y|1999|1|2}}|caps=2|goals=0|club=[[Neom SC|Neom]]|clubnat=KSA|latest=v. {{#invoke:flag|fb|SRB}}, 31 March 2026}}
+{{nat fs r player|no=|pos=DF|name=[[Mohammed Mahzari]]|age={{birth date and age|df=y|1999|5|19}}|caps=1|goals=0|club=[[Al Taawoun FC|Al-Taawoun]]|clubnat=KSA|latest=v. {{#invoke:flag|fb|SRB}}, 31 March 2026}}
+{{nat fs r player|no=|pos=DF|name=[[Waleed Al-Ahmed]]|age={{birth date and age|1999|5|3|df=y}}|caps=8|goals=0|club=[[Al Qadsiah FC|Al-Qadsiah]]|clubnat=KSA|latest=[[2025 FIFA Arab Cup]]}}
+{{nat fs r player|no=|pos=DF|name=[[Mohammed Sulaiman (footballer)|Mohammed Sulaiman]]|age={{birth date and age|df=y|2004|4|8}}||caps=5|goals=0|club=[[Al-Ahli Saudi FC|Al-Ahli]]|clubnat=KSA|latest=[[2025 FIFA Arab Cup]]}}
+{{nat fs r player|no=|pos=DF|name=[[Saad Al-Mousa]]|age={{birth date and age|2002|12|10|df=y}}|caps=3|goals=0|club=[[Al-Ittihad Club (Jeddah)|Al-Ittihad]]|clubnat=KSA|latest=v. {{#invoke:flag|fb|IRQ}}, 14 October 2025}}
+{{nat fs r player|no=|pos=DF|name=[[Saad Al-Nasser]]|age={{birth date and age|df=y|2001|1|8}}|caps=5|goals=0|club=[[Al-Nassr FC|Al-Nassr]]|clubnat=KSA|latest=v. {{#invoke:flag|fb|CZE}}, 8 September 2025}}
+{{nat fs r player|no=|pos=DF|name=[[Muhannad Al-Shanqeeti]]|age={{birth date and age|df=y|1999|3|12}}|caps=5|goals=0|club=[[Al-Ittihad Club (Jeddah)|Al-Ittihad]]|clubnat=KSA|latest=v. {{#invoke:flag|fb|CZE}}, 8 September 2025}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=MF|name=[[Saleh Abu Al-Shamat]]|age={{birth date and age|2002|8|11|df=y}}|caps=11|goals=2|club=[[Al-Ahli Saudi FC|Al-Ahli]]|clubnat=KSA|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=MF|name=[[Salman Al-Faraj]]|age={{birth date and age|1989|8|1|df=y}}|caps=75|goals=9|club=[[Neom SC|Neom]]|clubnat=KSA|latest=v. {{#invoke:flag|fb|SRB}}, 31 March 2026}}
+{{nat fs r player|no=|pos=MF|name=[[Marwan Al-Sahafi]]|age={{birth date and age|2004|2|17|df=y}}|caps=16|goals=0|club=[[Royal Antwerp F.C.|Antwerp]]|clubnat=BEL|latest=v. {{#invoke:flag|fb|SRB}}, 31 March 2026}}
+{{nat fs r player|no=|pos=MF|name=[[Turki Al-Ammar]]|age={{birth date and age|df=y|1999|9|23}}|caps=13|goals=1|club=[[Al Qadsiah FC|Al-Qadsiah]]|clubnat=KSA|latest=v. {{#invoke:flag|fb|SRB}}, 31 March 2026}}
+{{nat fs r player|no=|pos=MF|name=[[Naif Masoud]]|age={{birth date and age|2001|3|8|df=y}}|caps=5|goals=0|club=[[Al Fateh SC|Al-Fateh]]|clubnat=KSA|latest=v. {{#invoke:flag|fb|SRB}}, 31 March 2026}}
+{{nat fs r player|no=|pos=MF|name=[[Mohammed Al-Majhad]]|age={{birth date and age|1998|7|16|df=y}}|caps=2|goals=0|club=[[Al-Ula FC|Al-Ula]]|clubnat=KSA|latest=v. {{#invoke:flag|fb|SRB}}, 31 March 2026}}
+{{nat fs r player|no=|pos=MF|name=[[Murad Hawsawi]]|age={{birth date and age|2001|6|3|df=y}}|caps=2|goals=0|club=[[Al Hilal SFC|Al-Hilal]]|clubnat=KSA|latest=v. {{#invoke:flag|fb|SRB}}, 31 March 2026}}
+{{nat fs r player|no=|pos=MF|name=[[Abdulaziz Al-Aliwa]]|age={{birth date and age|2004|2|11|df=y}}|caps=1|goals=0|club=[[Al-Kholood Club|Al-Kholood]]|clubnat=KSA|latest=v. {{#invoke:flag|fb|SRB}}, 31 March 2026}}
+{{nat fs r player|no=|pos=MF|name=[[Mohammed Al-Yami (footballer, born 2002)|Mohammed Al-Yami]]|age={{birth date and age|2002|2|4|df=y}}|caps=0|goals=0|club=[[Alhazem|Al-Hazem]]|clubnat=KSA|latest=v. {{#invoke:flag|fb|SRB}}, 31 March 2026}}
+{{nat fs r player|no=|pos=MF|name=[[Abdulrahman Al-Aboud]]|age={{birth date and age|1995|6|1|df=y}}|caps=18|goals=2|club=[[Al-Ittihad Club (Jeddah)|Al-Ittihad]]|clubnat=KSA|latest=[[2025 FIFA Arab Cup]]}}
+{{nat fs r player|no=|pos=MF|name=[[Ali Al-Hassan]]|age={{birth date and age|1997|3|4|df=y}}|caps=18|goals=1|club=[[Al-Nassr FC|Al-Nassr]]|clubnat=KSA|latest=v. {{#invoke:flag|fb|IRQ}}, 14 October 2025}}
+{{nat fs r player|no=|pos=MF|name=[[Muhannad Al-Saad (footballer, born 2003)|Muhannad Al-Saad]]|age={{birth date and age|2003|6|29|df=y}}|caps=2|goals=1|club=[[Neom SC|Neom]]|clubnat=KSA|latest=v. {{#invoke:flag|fb|IRQ}}, 14 October 2025}}
+{{nat fs r player|no=|pos=MF|name=[[Mukhtar Ali]]|age={{birth date and age|1997|10|30|df=y}}|caps=16|goals=0|club=[[Al-Ettifaq Club|Al-Ettifaq]]|clubnat=KSA|latest=v. {{#invoke:flag|fb|CZE}}, 8 September 2025}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=FW|name=[[Abdullah Al-Salem (footballer)|Abdullah Al-Salem]]|age={{birth date and age|1992|12|19|df=y}}|caps=3|goals=0|club=[[Al Qadsiah FC|Al-Qadsiah]]|clubnat=KSA|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs break}}
+*<sup>INJ</sup> Player withdrew from the squad due to an injury.
+*<sup>PRE</sup> Preliminary squad.
+*<sup>RET</sup> Retired from the national team.
+*<sup>SUS</sup> Player is serving a suspension.
+*<sup>WD</sup> Player withdrew from the squad due to non-injury issue.
+{{nat fs end}}
+
+==Player records==
+{{Updated|26 June 2026}}<ref>{{cite web |url=https://www.rsssf.org/miscellaneous/sau-recintlp.html |title=Saudi Arabia&nbsp;– Record International Players |author=Naeim Albakr |website=[[RSSSF]] |access-date=14 September 2013 |archive-date=10 July 2022 |archive-url=https://web.archive.org/web/20220710163554/https://www.rsssf.org/miscellaneous/sau-recintlp.html |url-status=live }}</ref>
+: Statistics include official FIFA-recognised matches only
+:''Players in '''bold''' are still active with Saudi Arabia.''
+
+===Most appearances===
+{{Main|List of men's footballers with 100 or more international caps}}
+
+[[File:Mohamed Al-Deayea 2010.jpg|200px|right|thumb|[[Mohamed Al-Deayea]] is Saudi Arabia's most capped player with 173 appearances.]]
+
+{| class="wikitable sortable" style="text-align:center;"
+|-
+! width="30px" |Rank
+! style="width:150px;" |Player
+! width="50px" |Caps
+! width="50px" |Goals
+! style="width:100px;" |Career
+|-
+| 1 ||align=left| [[Mohamed Al-Deayea]]{{efn-lr|Some sources have Al-Deayea listed with 178 appearances but this includes matches played against Olympic sides, matches that are not considered official for his teammates Sami Al-Jaber or Abdullah Zubromawi.<ref>{{cite web |last1=Mamrud |first1=Roberto |title=Mohamed Al-Deayea - Century of International Appearances |url=https://www.rsssf.org/miscellaneous/deayea-intl.html |website=RSSSF |access-date=22 May 2023 |archive-date=6 April 2023 |archive-url=https://web.archive.org/web/20230406183014/https://www.rsssf.org/miscellaneous/deayea-intl.html |url-status=live }}</ref><ref>{{cite web |last1=Mamrud |first1=Roberto |title=Sami Abdullah Al-Jaber - Century of International Appearances |url=https://www.rsssf.org/miscellaneous/aljaber-intlg.html |website=RSSSF |access-date=22 May 2023 |archive-date=18 April 2023 |archive-url=https://web.archive.org/web/20230418073146/https://www.rsssf.org/miscellaneous/aljaber-intlg.html |url-status=live }}</ref><ref>{{cite web |last1=Mamrud |first1=Roberto |title=Abdullah Suleiman Al-Zubromawi - Century of International Appearances |url=https://www.rsssf.org/miscellaneous/zubromawi-intl.html |website=RSSSF |access-date=22 May 2023 |archive-date=28 January 2023 |archive-url=https://web.archive.org/web/20230128134929/https://rsssf.org/miscellaneous/zubromawi-intl.html |url-status=live }}</ref>}} || 173 || 0 || 1993–2006
+|-
+| 2 ||align=left| [[Mohammed Al-Khilaiwi]] || 163 || 3 || 1990–2001
+|-
+| 3 ||align=left| [[Sami Al-Jaber]] || 156 || 46 || 1992–2006
+|-
+| 4 ||align=left| [[Abdullah Zubromawi]] || 142 || 3 || 1993–2002
+|-
+| rowspan=2|5 ||align=left| [[Hussein Abdulghani]] || 138 || 5 || 1996–2018
+|-
+|align=left| [[Osama Hawsawi]] || 138 || 7 || 2006–2018
+|-
+| 7 ||align=left| [[Taisir Al-Jassim]] || 134 || 19 || 2004–2018
+|-
+| 8 ||align=left| [[Saud Kariri]] || 133 || 7 || 2001–2015
+|-
+| 9 ||align=left| [[Mohamed Abd Al-Jawad]] || 121 || 7 || 1981–1994
+|-
+| 10 ||align=left| [[Mohammad Al-Shalhoub]] || 118 || 19 || 2000–2018
+|}
+
+{{notelist-lr}}
+
+===Top goalscorers===
+{{See also|List of men's footballers with 50 or more international goals}}
+
+[[File:Majed Abdullah in 1984.jpg|200px|right|thumb|[[Majed Abdullah]] is Saudi Arabia's top scorer with 72 goals.]]
+
+{| class="wikitable sortable" style="text-align:center;"
+|-
+! width="30px" |Rank
+! style="width:150px;" |Player
+! width="50px" |Goals
+! width="50px" |Caps
+! width="50px" |Ratio
+! style="width:100px;" |Career
+|-
+| 1 ||align=left| [[Majed Abdullah]] || 72 || 116 || {{#expr:71/116 round 2}} || 1978–1994
+|-
+| 2 ||align=left| [[Sami Al-Jaber]] || 46 || 156 || {{#expr:46/156 round 2}} || 1992–2006
+|-
+| 3 ||align=left| [[Yasser Al-Qahtani]] || 42 || 108 || {{#expr:42/108 round 2}} || 2002–2013
+|-
+| 4 ||align=left| [[Obeid Al-Dosari]] || 41 || 94 || {{#expr:41/94 round 2}} || 1994–2002
+|-
+| 5 ||align=left| [[Talal Al-Meshal]] || 32 || 60 || {{#expr:32/60 round 2}} || 1998–2006
+|-
+| rowspan=2|6 ||align=left| [[Mohammad Al-Sahlawi]] || 28 || 42|| {{#expr:28/42 round 2}} || 2010–2018
+|-
+|align=left| [[Khaled Al-Muwallid]] || 28 || 114 || {{#expr:28/114 round 2}} || 1988–1998
+|-
+| 8 ||align=left| '''[[Salem Al-Dawsari]]''' || 27 || 114 || {{#expr:27/114 round 2}} || 2012–present 
+|-
+| rowspan=2| 9 ||align=left| [[Hamzah Idris]] || 26 || 66|| {{#expr:26/66 round 2}} || 1992–2000
+|-
+|align=left| [[Fahad Al-Mehallel]] || 26 || 87 || {{#expr:26/87 round 2}} || 1992–1999
+|}
+
+==Competitive record==
+:''*Denotes draws includes knockout matches decided on [[penalty shoot-out (association football)|penalty shootouts]]. Red border indicates that the tournament was hosted on home soil. Gold, silver, bronze backgrounds indicate 1st, 2nd and 3rd finishes respectively. Bold text indicates best finish in tournament.''
+
+{{Color box|gold|border=darkgray}} '''Champion'''&nbsp;&nbsp;{{Color box|silver|border=darkgray}} '''Runners-up'''&nbsp;&nbsp;{{Color box|#cc9966|border=darkgray}} '''Third place'''&nbsp;&nbsp;
+{| class="wikitable" style="width:60%;text-align:center"
+|-
+!colspan="5" style="background: #006C35;border: 2px solid #FFFFFF;color: #FFFFFF;"|Overview
+|-
+!width:75%;| Event
+!style="width:20%;background:gold"| 1st Place
+!style="width:20%;background:silver"| 2nd Place
+!style="width:20%;background:#c96"| 3rd Place
+|-
+|align=left|[[FIFA Confederations Cup|Confederations Cup]]
+! 0
+! 1
+! 0
+|-
+|align=left|[[AFC Asian Cup]]
+! 3
+! 3
+! 0
+|-
+|align=left|[[FIFA Arab Cup]]
+! 2
+! 1
+! 2
+|-
+|align=left|[[Gulf Cup]]
+! 3
+! 7
+! 8
+|-
+|align=left|{{nowrap|[[Football at the Asian Games|Asian Games]]}}
+! 0
+! 1
+! 1
+|-
+|align=left|{{nowrap|[[Football at the Arab Games|Arab Games]]}}
+! 1
+! 1
+! 1
+|-
+|-
+|-style="background:silver"
+|Total
+!9
+!14
+!12
+|}
+
+===FIFA World Cup===
+{{main|Saudi Arabia at the FIFA World Cup}}
+
+{| class="wikitable" style="text-align: center;"
+|-
+!colspan=9|[[FIFA World Cup]] record
+! style="width:1%;" rowspan=35|
+!colspan=7|[[FIFA World Cup qualification|Qualification]] record
+|-
+!Year
+!Round
+!{{Tooltip|Pos.|Position}}
+!{{Tooltip|Pld|Matches played}}
+!{{Tooltip|W|Matches won}}
+!{{Tooltip|D|Matches drawn, including knockout matches decided via penalty shoot-out}}
+!{{Tooltip|L|Matches lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!{{Tooltip|Pld|Matches played}}
+!{{Tooltip|W|Matches won}}
+!{{Tooltip|D|Matches drawn}}
+!{{Tooltip|L|Matches lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+|-
+|{{flagicon|Uruguay}} [[1930 FIFA World Cup|1930]]
+| rowspan="5" colspan="8" |''Not a FIFA member''
+| rowspan="5" colspan="7" |''Not a FIFA member''
+|-
+|{{flagicon|Italy|1861}} [[1934 FIFA World Cup|1934]]
+|-
+|{{flagicon|France|1794}} [[1938 FIFA World Cup|1938]]
+|-
+|{{flagicon|Brazil|1889}} [[1950 FIFA World Cup|1950]]
+|-
+|{{flagicon|Switzerland}} [[1954 FIFA World Cup|1954]]
+|-
+|{{flagicon|Sweden}} [[1958 FIFA World Cup|1958]]
+| rowspan="5" colspan="8" |''Did not enter''
+| rowspan="5" colspan="7" |''Did not enter''
+|-
+|{{flagicon|Chile}} [[1962 FIFA World Cup|1962]]
+|-
+|{{flagicon|England}} [[1966 FIFA World Cup|1966]]
+|-
+|{{flagicon|Mexico}} [[1970 FIFA World Cup|1970]]
+|-
+| {{flagicon|West Germany}} [[1974 FIFA World Cup|1974]]
+|-
+| {{#invoke:flag|icon|ARG}} [[1978 FIFA World Cup|1978]] 
+|rowspan=4 colspan=8|''Did not qualify''
+||4||1||0||3||3||7
+|-
+| {{#invoke:flag|icon|SPA}} [[1982 FIFA World Cup|1982]]
+||10||4||1||5||9||16
+|-
+| {{#invoke:flag|icon|MEX}} [[1986 FIFA World Cup|1986]]
+||2||0||1||1||0||1||[[1986 FIFA World Cup qualification (AFC)|1986]]
+|-
+| {{#invoke:flag|icon|ITA|1946}} [[1990 FIFA World Cup|1990]]
+||9||4||3||2||11||9||[[1990 FIFA World Cup qualification (AFC)|1990]]
+|-
+| {{#invoke:flag|icon|USA}} [[1994 FIFA World Cup|1994]]
+|'''Round of 16'''||'''12th'''||4||2||0||2||5||6
+||11||6||5||0||28||7||[[1994 FIFA World Cup qualification (AFC)|1994]]
+|-
+| {{#invoke:flag|icon|FRA|1974}} [[1998 FIFA World Cup|1998]]
+|rowspan=3|Group stage||28th||3||0||1||2||2||7
+||14||9||3||2||26||7||[[1998 FIFA World Cup qualification (AFC)|1998]]
+|-
+| {{#invoke:flag|icon|KOR|1997}} {{#invoke:flag|icon|JPN}} [[2002 FIFA World Cup|2002]]
+|32nd||3||0||0||3||0||12
+||14||11||2||1||47||8||[[2002 FIFA World Cup qualification (AFC)|2002]]
+|-
+| {{#invoke:flag|icon|GER}} [[2006 FIFA World Cup|2006]]
+|28th||3||0||1||2||2||7
+||12||10||2||0||24||2||[[2006 FIFA World Cup qualification (AFC)|2006]]
+|-
+| {{#invoke:flag|icon|RSA}} [[2010 FIFA World Cup|2010]]
+|rowspan=2 colspan=8|''Did not qualify''
+||16||8||5||3||25||15||[[2010 FIFA World Cup qualification (AFC)|2010]]
+|-
+| {{#invoke:flag|icon|BRA}} [[2014 FIFA World Cup|2014]]
+||8||3||3||2||14||7||[[2014 FIFA World Cup qualification (AFC)|2014]]
+|-
+| {{#invoke:flag|icon|RUS}} [[2018 FIFA World Cup|2018]]
+|rowspan="3" |Group stage||26th||3||1||0||2||2||7
+||18||12||3||3||45||14||[[2018 FIFA World Cup qualification (AFC)|2018]]
+|-
+| {{#invoke:flag|icon|QAT}} [[2022 FIFA World Cup|2022]]
+|25th||3||1||0||2||3||5
+||18||13||4||1||34||10||[[2022 FIFA World Cup qualification (AFC)|2022]]
+|-
+| {{#invoke:flag|icon|CAN}} {{#invoke:flag|icon|MEX}} {{#invoke:flag|icon|USA}} [[2026 FIFA World Cup|2026]]
+|38th||3||0||2||1||1||5
+||18||8||6||4||22||13||[[2026 FIFA World Cup qualification (AFC)|2026]]
+|-
+| {{#invoke:flag|icon|MAR}} {{#invoke:flag|icon|POR}} {{#invoke:flag|icon|ESP}} [[2030 FIFA World Cup|2030]]
+|colspan="8" |''TBD''
+|colspan="6" |''TBD''||[[2030 FIFA World Cup qualification (AFC)|2030]]
+|-
+|style="border: 3px solid red"|{{#invoke:flag|icon|KSA}} [[2034 FIFA World Cup|2034]]
+| colspan="8" |''Qualified as hosts''
+|colspan=8|''Qualified as hosts''
+|-
+!Total:{{Tooltip|8/19|Number of tournaments qualified for}}||{{Tooltip|Round of 16|Highest finish}}||12th||21||4||4||14||15||49||154||89||38||27||288||116
+|}
+
+===AFC Asian Cup=== 
+{{main|Saudi Arabia at the AFC Asian Cup}}
+
+{| class="wikitable" style="text-align: center;"
+|-
+!colspan=9|[[AFC Asian Cup]] record
+! style="width:1%;" rowspan=22|
+!colspan=6|[[AFC Asian Cup qualifiers|Qualification]] record
+|-
+!Year||Result||Position||Pld||W||D||L||GF||GA||Pld||W||D||L||GF||GA
+|-
+|{{#invoke:flag|icon|HKG|1910}} [[1956 AFC Asian Cup|1956]]||rowspan=5 colspan=8|''Not an AFC member''
+|colspan=8 rowspan=5|''Not an AFC member''
+|-
+|{{#invoke:flag|icon|KOR|1949}} [[1960 AFC Asian Cup|1960]]
+|-
+|{{#invoke:flag|icon|ISR}} [[1964 AFC Asian Cup|1964]]
+|-
+|{{#invoke:flag|icon|IRN|1964}} [[1968 AFC Asian Cup|1968]]
+|-
+|{{#invoke:flag|icon|THA}} [[1972 AFC Asian Cup|1972]]
+|-
+|{{#invoke:flag|icon|IRN|1964}} [[1976 AFC Asian Cup|1976]]||colspan=8|''Qualified but withdrew''
+||6||3||1||2||12||5
+|-
+|{{#invoke:flag|icon|KUW}} [[1980 AFC Asian Cup|1980]]
+|colspan=8|''Withdrew''||colspan=6|''Withdrew''
+|- style="background:gold;"
+|{{#invoke:flag|icon|SIN}} [[1984 AFC Asian Cup|1984]]
+|'''[[1984 AFC Asian Cup Final|Champions]]'''
+|'''1st'''
+|'''6'''
+|'''3'''
+|'''3'''
+|'''0'''
+|'''7'''
+|'''3'''
+||4||4||0||0||19||0
+|- style="background:gold;"
+|{{#invoke:flag|icon|QAT}} [[1988 AFC Asian Cup|1988]]
+|'''[[1988 AFC Asian Cup final|Champions]]'''
+|'''1st'''
+|'''6'''
+|'''3'''
+|'''3'''
+|'''0'''
+|'''5'''
+|'''1'''
+|colspan=6|''Automatic qualification as champions''
+|- style="background:silver;"
+|{{#invoke:flag|icon|JPN|1870}} [[1992 AFC Asian Cup|1992]]
+|'''[[1992 AFC Asian Cup final|Runners-up]]'''
+|'''2nd'''
+|'''5'''
+|'''2'''
+|'''2'''
+|'''1'''
+|'''8'''
+|'''3'''
+|colspan=6|''Automatic qualification as champions''
+|- style="background:gold;"
+|{{#invoke:flag|icon|UAE}} [[1996 AFC Asian Cup|1996]]
+|'''[[1996 AFC Asian Cup final|Champions]] '''
+|'''1st'''
+|'''6'''
+|'''3'''
+|'''2'''
+|'''1'''
+|'''11'''
+|'''6'''
+||4||4||0||0||10||0
+|- style="background:silver;"
+|{{#invoke:flag|icon|LBN}} [[2000 AFC Asian Cup|2000]]
+|'''[[2000 AFC Asian Cup final|Runners-up]]'''
+|'''2nd'''
+|'''6'''
+|'''3'''
+|'''1'''
+|'''2'''
+|'''11'''
+|'''8'''
+|colspan=6|''Automatic qualification as champions''
+|-
+|{{#invoke:flag|icon|CHN}} [[2004 AFC Asian Cup|2004]]||Group stage||13th||3||0||1||2||3||5
+||6||6||0||0||31||1
+|- style="background:silver;"
+|{{#invoke:flag|icon|IDN}} {{#invoke:flag|icon|MAS}} {{#invoke:flag|icon|THA}} {{#invoke:flag|icon|VIE}} [[2007 AFC Asian Cup|2007]]
+|'''[[2007 AFC Asian Cup final|Runners-up]]'''
+|'''2nd'''
+|'''6'''
+|'''4'''
+|'''1'''
+|'''1'''
+|'''12'''
+|'''6'''
+||6||5||0||1||21||4
+|-
+|{{#invoke:flag|icon|QAT}} [[2011 AFC Asian Cup|2011]]||rowspan=2|Group stage||15th||3||0||0||3||1||8
+|colspan=6|''Automatic qualification as runners-up''
+|-
+|{{#invoke:flag|icon|AUS}} [[2015 AFC Asian Cup|2015]]
+|10th
+|3
+|1
+|0
+|2
+|5
+|5
+|6
+|5
+|1
+|0
+|9
+|3
+|-
+|{{#invoke:flag|icon|UAE}} [[2019 AFC Asian Cup|2019]]||rowspan=2|Round of 16||12th||4||2||0||2||6||3
+||8||6||2||0||28||4
+|-
+|{{#invoke:flag|icon|QAT}} [[2023 AFC Asian Cup|2023]]||9th||4||2||2||0||5||2
+||8||6||2||0||22||4
+|-
+|style="border: 3px solid red"|{{#invoke:flag|icon|KSA}} [[2027 AFC Asian Cup|2027]]|| colspan="8" |''Qualified as hosts''
+||6||4||1||1||12||3
+|-
+!Total||3 Titles||12/19||52||23||15||14||74||50||54||43||7||4||164||24
+|}
+
+===Olympic Games===
+* [[Football at the 1976 Summer Olympics – Men's Asian Qualifiers]]
+* [[Football at the 1984 Summer Olympics – Men's Asian Qualifiers]]
+* [[Football at the 1988 Summer Olympics – Men's Asian Qualifiers]]
+
+===CONCACAF Gold Cup===
+{{main|Saudi Arabia at the CONCACAF Gold Cup}}
+[[File:Asian Cup 1984, match Saudi Arabia and China.jpg|thumb|The final of the [[1984 AFC Asian Cup]], against [[China national football team|China]]. Saudi Arabia won their first [[AFC Asian Cup]] in their first appearance in the competition.]]
+[[File:WM06 ASA-UKR Warm Up.jpg|thumb|Saudi players warm-up before their match against [[Ukraine national football team|Ukraine]] during the [[2006 FIFA World Cup]] on 19 June.]]
+[[File:Sdm 4680.jpg|thumb|Saudi Arabia before the [[2018 FIFA World Cup]] opening fixture, against hosts [[Russia national football team|Russia]] in [[2018 FIFA World Cup Group A|Group A]].]]
+
+{| class="wikitable" style="text-align: center;"
+|-
+!colspan=10|[[CONCACAF Gold Cup]] record
+|-
+!Year
+!Round
+!{{Tooltip|Pos.|Position}}
+!{{Tooltip|Pld|Matches played}}
+!{{Tooltip|W|Matches won}}
+!{{Tooltip|D|Matches drawn, including knockout matches decided via penalty shoot-out}}
+!{{Tooltip|L|Matches lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+|-
+|{{#invoke:flag|icon|CAN}} {{#invoke:flag|icon|USA}}[[2025 CONCACAF Gold Cup|2025]]||Quarter-finals||8th||4||1||1||2||2||4
+|-
+!Total||Quarter-finals||1/28||4||1||1||2||2||4
+|}
+
+===FIFA Arab Cup===
+{| class="wikitable" style="text-align: center;"
+|-
+! colspan="8" |[[FIFA Arab Cup]] record
+|-
+!Year||Result||Pld||W||D||L||GF||GA
+|-
+|{{#invoke:flag|icon|Lebanon}} [[1963 Arab Cup|1963]]||rowspan=3 colspan=7|''Did not enter''
+|-
+|{{#invoke:flag|icon|Kuwait}} [[1964 Arab Cup|1964]]
+|-
+|{{#invoke:flag|icon|Iraq|1963}} [[1966 Arab Cup|1966]]
+|- style="background:#c96;"
+|style="border: 3px solid red"|{{#invoke:flag|icon|Saudi Arabia}} [[1985 Arab Cup|1985]]||'''Third place''' || '''4'''|| '''2'''|| '''1'''|| '''1'''|| '''7'''|| '''3'''
+|-
+|{{#invoke:flag|icon|Jordan}} [[1988 Arab Cup|1988]]||Group stage|| 4|| 0|| 2|| 2|| 1||4
+|- style="background:silver;"
+|{{#invoke:flag|icon|Syria|1980}} [[1992 Arab Cup|1992]]||'''Runners-up'''||'''4''' || '''2'''|| '''1'''|| '''1'''|| '''7'''||'''5'''
+|- style="background:gold;"
+|{{#invoke:flag|icon|Qatar}} [[1998 Arab Cup|1998]]||'''Champions'''|| '''4'''|| '''4'''|| '''0'''|| '''0'''|| '''12'''||'''3'''
+|- style="background:gold;"
+|{{#invoke:flag|icon|Kuwait}} [[2002 Arab Cup|2002]]||'''Champions'''|| '''6''' || '''5'''|| '''1'''|| '''0'''|| '''11'''||'''3'''
+|-
+|[[2009 Arab Cup|2009]]||colspan=7|''Cancelled''
+|-
+|style="border: 3px solid red"|{{#invoke:flag|icon|Saudi Arabia}} [[2012 Arab Cup|2012]]||'''Fourth place'''|| '''4'''|| '''1'''|| '''1'''|| '''2'''|| '''6'''||'''5'''
+|-
+|{{#invoke:flag|icon|Qatar}} [[2021 FIFA Arab Cup|2021]]||Group stage|| 3|| 0|| 1|| 2|| 1|| 3
+|- style="background:#c96;
+|{{#invoke:flag|icon|Qatar}} [[2025 FIFA Arab Cup|2025]]||'''Third place'''||'''5'''||'''3'''||'''0'''||'''2'''||'''7'''||'''5'''
+|-
+!Total||8/11||34||17||7||10||52||31
+|}
+
+===West Asian Football Federation Championship===
+{| class="wikitable" style="text-align: center;"
+|-
+!colspan=9|[[WAFF Championship]] record
+|-
+!Year
+!Round
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+|-
+|{{#invoke:flag|icon|Jordan}} [[2000 West Asian Football Federation Championship|2000]]||rowspan=6 colspan=8|''Did not participate''
+|-
+|{{#invoke:flag|icon|Syria|1980}} [[2002 West Asian Football Federation Championship|2002]]
+|-
+|{{#invoke:flag|icon|Iran}} [[2004 West Asian Football Federation Championship|2004]]
+|-
+|{{#invoke:flag|icon|Jordan}} [[2007 West Asian Football Federation Championship|2007]]
+|-
+|{{#invoke:flag|icon|Iran}} [[2008 West Asian Football Federation Championship|2008]]
+|-
+|{{#invoke:flag|icon|Jordan}} [[2010 West Asian Football Federation Championship|2010]]
+|-
+|{{#invoke:flag|icon|Kuwait}} [[2012 West Asian Football Federation Championship|2012]]||rowspan=3|Group stage||3||1||1||1||1||1
+|-
+|{{#invoke:flag|icon|Qatar}} [[2014 WAFF Championship|2014]]||2||0||1||1||1||4
+|-
+|{{#invoke:flag|icon|Iraq}} [[2019 WAFF Championship|2019]]||3||0||1||2||1||5
+|-
+|{{#invoke:flag|icon|United Arab Emirates}} [[2026 WAFF Championship|2026]]||colspan=7|''Qualified''
+|-
+!Total||4/10||8||1||3||4||3||10
+|}
+
+===Gulf Cup===
+
+{| class="wikitable" style="text-align: center;"
+|-
+!colspan=9|[[Gulf Cup]] record
+|-
+!Year||Result||Position||Pld||W||D||L||GF||GA
+|- style="background:#c96;"
+|{{#invoke:flag|icon|BHR|1932}} [[1st Arabian Gulf Cup|1970]]||'''Third place'''||'''3rd'''||'''3'''||'''0'''||'''2'''||'''1'''||'''2'''||'''4'''
+|-style="background:silver;"
+|style="border: 3px solid red"|{{#invoke:flag|icon|KSA|1938}} [[2nd Arabian Gulf Cup|1972]]||'''Runners-up'''||'''2nd'''||'''3'''||'''2'''||'''1'''||'''0'''||'''10'''||'''2'''
+|-style="background:silver;"
+|{{#invoke:flag|icon|KUW}} [[3rd Arabian Gulf Cup|1974]]||'''Runners-up'''||'''2nd'''||'''4'''||'''3'''||'''0'''||'''1'''||'''9'''||'''6'''
+|-
+|{{#invoke:flag|icon|QAT}} [[4th Arabian Gulf Cup|1976]]||Group stage||5th||6||2||0||4||8||14
+|- style="background:#c96;"
+|{{#invoke:flag|icon|IRQ|1963}} [[5th Arabian Gulf Cup|1979]]||'''Third place'''||'''3rd'''||'''6'''||'''3'''||'''2'''||'''1'''||'''14'''||'''4'''
+|-
+|{{#invoke:flag|icon|UAE}} [[6th Arabian Gulf Cup|1982]]||Group stage||4th||5||2||1||2||6||4
+|- style="background:#c96;"
+|{{#invoke:flag|icon|OMA}} [[7th Arabian Gulf Cup|1984]]||'''Third place'''||'''3rd'''||'''6'''||'''3'''||'''1'''||'''2'''||'''9'''||'''8'''
+|- style="background:#c96;"
+|{{#invoke:flag|icon|BHR|1972}} [[8th Arabian Gulf Cup|1986]]||'''Third place'''||'''3rd'''||'''6'''||'''3'''||'''0'''||'''3'''||'''9'''||'''9'''
+|- style="background:#c96;"
+|style="border: 3px solid red"|{{#invoke:flag|icon|KSA}} [[9th Arabian Gulf Cup|1988]]||'''Third place'''||'''3rd'''||'''6'''||'''2'''||'''3'''||'''1'''||'''5'''||'''4'''
+|-
+|{{#invoke:flag|icon|KUW}} [[10th Arabian Gulf Cup|1990]]||rowspan=1 colspan=8|''Withdrew''
+|- style="background:#c96;"
+|{{#invoke:flag|icon|QAT}} [[11th Arabian Gulf Cup|1992]]||'''Third place'''||'''3rd'''||'''5'''||'''3'''||'''0'''||'''2'''||'''6'''||'''4'''
+|- style="background:gold;"
+|{{#invoke:flag|icon|UAE}} [[12th Arabian Gulf Cup|1994]]||'''Champions'''||'''1st'''||'''5'''||'''4'''||'''1'''||'''0'''||'''10'''||'''4'''
+|- style="background:#c96;"
+|{{#invoke:flag|icon|OMA}} [[13th Arabian Gulf Cup|1996]]||'''Third place'''||'''3rd'''||'''5'''||'''2'''||'''2'''||'''1'''||'''8'''||'''6'''
+|- style="background:silver;"
+|{{#invoke:flag|icon|BHR}} [[14th Arabian Gulf Cup|1998]]||'''Runners-up'''||'''2nd'''||'''5'''||'''3'''||'''2'''||'''0'''||'''5'''||'''2'''
+|- style="background:gold;"
+|style="border: 3px solid red"|{{#invoke:flag|icon|KSA}} [[15th Arabian Gulf Cup|2002]]||'''Champions'''||'''1st'''||'''5'''||'''4'''||'''1'''||'''0'''||'''10'''||'''3'''
+|- style="background:gold;"
+|{{#invoke:flag|icon|KUW}} [[16th Arabian Gulf Cup|2003–04]]||'''Champions'''||'''1st'''||'''6'''||'''4'''||'''2'''||'''0'''||'''8'''||'''2'''
+|-
+|{{#invoke:flag|icon|QAT}} [[17th Arabian Gulf Cup|2004]]||Group stage||5th||3||1||0||2||4||5
+|- style="background:#c96;"
+|{{#invoke:flag|icon|UAE}} [[18th Arabian Gulf Cup|2007]]||'''Third place'''||'''3rd'''||'''4'''||'''2'''||'''1'''||'''1'''||'''4'''||'''3'''
+|- style="background:silver;"
+|{{#invoke:flag|icon|OMA}} [[19th Arabian Gulf Cup|2009]]||'''Runners-up'''||'''2nd'''||'''5'''||'''3'''||'''2'''||'''0'''||'''10'''||'''0'''
+|- style="background:silver;"
+|{{#invoke:flag|icon|YEM}} [[20th Arabian Gulf Cup|2010]]||'''Runners-up'''||'''2nd'''||'''5'''||'''2'''||'''2'''||'''1'''||'''6'''||'''2'''
+|-
+|{{#invoke:flag|icon|BHR}} [[21st Arabian Gulf Cup|2013]]||Group stage||5th||3||1||0||2||2||3
+|- style="background:silver;"
+|style="border: 3px solid red"|{{#invoke:flag|icon|KSA}} [[22nd Arabian Gulf Cup|2014]]||'''Runners-up'''||'''2nd'''||'''5'''||'''3'''||'''1'''||'''1'''||'''9'''||'''5'''
+|-
+|{{#invoke:flag|icon|KUW}} [[23rd Arabian Gulf Cup|2017–18]]||Group stage||6th||3||1||1||1||2||3
+|- style="background:silver;"
+|{{#invoke:flag|icon|QAT}} [[24th Arabian Gulf Cup|2019]]||'''Runners-up'''||'''2nd'''||'''5'''||'''3'''||'''0'''||'''2'''||'''7'''||'''5'''
+|-
+|{{#invoke:flag|icon|IRQ}} [[25th Arabian Gulf Cup|2023]]||Group stage||6th||3||1||0||2||3||4
+|- style="background:#c96;"
+|{{#invoke:flag|icon|KWT}} [[26th Arabian Gulf Cup|2024–25]]||Semifinal||Third place||4||2||0||2||9||8
+|-
+|style="border: 3px solid red"|{{#invoke:flag|icon|KSA}} [[27th Arabian Gulf Cup|2026]]
+|-
+!Total||3 Titles||25/26||116||59||25||32||175||114
+|}
+
+===Arab Games===
+{| class="wikitable" style="text-align: center;"
+|-
+!colspan=9|[[Football at the Arab Games|Arab Games]] record
+|-
+!Year||Result||Pld||W||D||L||GF||GA
+|-
+| {{#invoke:flag|icon|EGY|1922}} [[Football at the 1953 Arab Games|1953]] ||colspan=7|''Did not enter''
+|-
+| {{#invoke:flag|icon|LIB}} [[Football at the 1957 Arab Games|1957]] ||Group stage||3||1||1||1||4||3
+|-
+| {{#invoke:flag|icon|MAR}} [[Football at the 1961 Arab Games|1961]] ||Fifth place||5||1||0||4||4||38
+|-
+| {{#invoke:flag|icon|UAR}} [[Football at the 1965 Arab Games|1965]] ||colspan=7|''Did not enter''
+|- style="background:silver;"
+| {{#invoke:flag|icon|SYR|1972}} [[Football at the 1976 Arab Games|1976]] ||'''Runners-up'''||'''6'''||'''3'''||'''1'''||'''2'''||'''9'''||'''4'''
+|-
+| {{#invoke:flag|icon|MAR}} [[Football at the 1985 Arab Games|1985]] ||'''Fourth place'''||'''4'''||'''3'''||'''0'''||'''1'''||'''6'''||'''3'''
+|-
+| {{#invoke:flag|icon|LIB}} [[Football at the 1997 Arab Games|1997]] ||colspan=7|''Did not enter''
+|-
+| {{#invoke:flag|icon|JOR}} [[Football at the 1999 Arab Games|1999]] ||First round||2||0||1||1||2||3
+|- style="background:#c96;"
+| {{#invoke:flag|icon|EGY}} [[Football at the 2007 Arab Games|2007]] ||'''Third place'''||'''4'''||'''1'''||'''1'''||'''2'''||'''5'''||'''5'''
+|-
+| {{#invoke:flag|icon|QAT}} [[Football at the 2011 Arab Games|2011]] ||First round||2||0||1||1||0||2
+|-
+| [[Football at the 2023 Arab Games|2023]]–present
+|colspan=7|''See [[Saudi Arabia national under-23 football team]]''
+|-
+! Total || 7/10 || 26 || 9 || 5 || 12 || 30 || 58
+|}
+
+===Asian Games===
+{| class="wikitable" style="text-align: center;"
+|-
+!colspan=10|[[Football at the Asian Games|Asian Games]] record
+|-
+!Year||Round||Position||Pld||W||D||L||GF||GA
+|-
+| {{#invoke:flag|icon|IND}} [[Football at the 1951 Asian Games|1951]]||colspan=8 rowspan=7|''Did not enter''
+|-
+| {{#invoke:flag|icon|PHI}} [[Football at the 1954 Asian Games|1954]]
+|-
+| {{#invoke:flag|icon|JPN|1947}} [[Football at the 1958 Asian Games|1958]]
+|-
+| {{#invoke:flag|icon|INA}} [[Football at the 1962 Asian Games|1962]]
+|-
+| {{#invoke:flag|icon|THA}} [[Football at the 1966 Asian Games|1966]]
+|-
+| {{#invoke:flag|icon|THA}} [[Football at the 1970 Asian Games|1970]]
+|-
+| {{#invoke:flag|icon|IRI|1964}} [[Football at the 1974 Asian Games|1974]]
+|-
+| {{#invoke:flag|icon|THA}} [[Football at the 1978 Asian Games|1978]]||Group stage||10th||3||0||2||1||3||4
+|- style="background:#c96;"
+| {{#invoke:flag|icon|IND}} [[Football at the 1982 Asian Games|1982]]||Semi-finals||'''Third place'''||'''6'''||'''3'''||'''2'''||'''1'''||'''7'''||'''4'''
+|- style="background:Silver;"
+| {{#invoke:flag|icon|KOR|1984}} [[Football at the 1986 Asian Games|1986]]||Final||'''Runners-up'''||'''6'''||'''3'''||'''2'''||'''1'''||'''9'''||'''6'''
+|-
+| {{#invoke:flag|icon|CHN}} [[Football at the 1990 Asian Games|1990]]||Quarter-finals||5th||3||2||1||0||6||0
+|-
+| {{#invoke:flag|icon|JPN|1947}} [[Football at the 1994 Asian Games|1994]]||Quarter-finals||5th||5||3||0||2||9||10
+|-
+| {{#invoke:flag|icon|THA}} [[Football at the 1998 Asian Games|1998]]||colspan=8|''Did not enter''
+|-
+| [[Football at the 2002 Asian Games|2002]]–present
+|colspan=9|''See [[Saudi Arabia national under-23 football team]]''
+|-
+! Total ||Final||5/13||23||11||7||5||34||24
+|}
+
+===FIFA Confederations Cup===
+{| class="wikitable" style="text-align: center;"
+|-
+!colspan=10|[[FIFA Confederations Cup]] record
+|-
+!Year
+!Round
+!Position
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+|- style="background:Silver;"
+|style="border: 3px solid red"|{{#invoke:flag|icon|Saudi Arabia}} [[1992 King Fahd Cup|1992]]
+|'''[[1992 King Fahd Cup Final|Runners-up]]'''
+|'''2nd'''
+|'''2'''
+|'''1'''
+|'''0'''
+|'''1'''
+|'''4'''
+|'''3'''
+|-
+|style="border: 3px solid red"|{{#invoke:flag|icon|Saudi Arabia}} [[1995 King Fahd Cup|1995]]
+|rowspan=2|Group stage
+|5th
+|2
+|0
+|0
+|2
+|0
+|4
+|-
+|style="border: 3px solid red"|{{#invoke:flag|icon|Saudi Arabia}} [[1997 FIFA Confederations Cup|1997]]
+|7th
+|3
+|1
+|0
+|2
+|1
+|8
+|-
+|{{#invoke:flag|icon|Mexico}} [[1999 FIFA Confederations Cup|1999]]
+|Fourth place
+|4th
+|5
+|1
+|1
+|3
+|8
+|16
+|-
+|{{#invoke:flag|icon|South Korea|1997}} {{#invoke:flag|icon|Japan}} [[2001 FIFA Confederations Cup|2001]]
+|rowspan=6 colspan=8|''Did not qualify''
+|-
+|{{#invoke:flag|icon|France|1974}} [[2003 FIFA Confederations Cup|2003]]
+|-
+|{{#invoke:flag|icon|Germany}} [[2005 FIFA Confederations Cup|2005]]
+|-
+|{{#invoke:flag|icon|South Africa}} [[2009 FIFA Confederations Cup|2009]]
+|-
+|{{#invoke:flag|icon|Brazil}} [[2013 FIFA Confederations Cup|2013]]
+|-
+|{{#invoke:flag|icon|Russia}} [[2017 FIFA Confederations Cup|2017]]
+|-
+!Total
+!Runners-up
+!4/10
+!12
+!3
+!1
+!8
+!13
+!31
+|}
+
+==All-time results==
+{{main|Saudi Arabia national football team results}}
+
+The following table shows Saudi Arabia's all-time international record, correct as of 26 June 2026.
+{| class="wikitable" style="text-align: center; font-size: 100%;"
+|-
+! Against
+! Played
+! Won
+! Drawn
+! Lost
+! GF
+! GA
+! GD
+|-
+|Total||768||356||177||224||1141||810||+331
+|}
+
+* [https://www.worldfootball.net/teams/te1628/saudi-arabia/ Worldfootball.net]
+* [https://web.archive.org/web/20160817034149/http://www.fifa.com/live-scores/teams/country=ksa/men/matches/index.html#yearnull FIFA.com]
+
+==Honours==
+<!-- DO NOT ADD UNOFFICIAL OR FRIENDLY COMPETITIONS IN THE SUMMARY TABLE FOR OFFICIAL HONOURS ONLY -->
+===Global===
+* '''[[FIFA Confederations Cup]]'''
+** {{Silver2}} Runners-up (1): [[1992 King Fahd Cup|1992]]
+
+===Intercontinental===
+* '''[[Afro-Asian Cup of Nations]]'''
+** {{Silver2}} Runners-up (2): [[1985 Afro-Asian Cup of Nations|1985]], [[1997 Afro-Asian Cup of Nations|1997]]
+
+===Continental===
+* '''[[AFC Asian Cup]]'''
+** [[File:Coppa Asia.svg|25px]] '''Champions (3)''': [[1984 AFC Asian Cup|1984]], [[1988 AFC Asian Cup|1988]], [[1996 AFC Asian Cup|1996]]
+** {{Silver2}} Runners-up (3): [[1992 AFC Asian Cup|1992]], [[2000 AFC Asian Cup|2000]], [[2007 AFC Asian Cup|2007]]
+* '''[[Football at the Asian Games|Asian Games]]'''{{efn|Competition organized by [[Olympic Council of Asia|OCA]], officially not recognized by FIFA.}}
+** {{Silver2}} Silver medal (1): [[Football at the 1986 Asian Games|1986]]
+** {{Bronze3}} Bronze medal (1): [[Football at the 1982 Asian Games|1982]]
+
+===Regional===
+* '''[[Arabian Gulf Cup]]'''
+** {{Gold1}} '''Champions (3)''': [[12th Arabian Gulf Cup|1994]], [[15th Arabian Gulf Cup|2002]], [[16th Arabian Gulf Cup|2003–04]]
+** {{Silver2}} Runners-up (7): [[1972 Gulf Cup of Nations|1972]], [[1974 Gulf Cup of Nations|1974]], [[1998 Gulf Cup of Nations|1998]], [[2009 Gulf Cup of Nations|2009]], [[2010 Gulf Cup of Nations|2010]], [[2014 Gulf Cup of Nations|2014]], [[24th Arabian Gulf Cup|2019]]
+** {{Bronze3}} Third place (9):  [[1970 Gulf Cup of Nations|1970]], [[1979 Gulf Cup of Nations|1979]], [[1984 Gulf Cup of Nations|1984]], [[1986 Gulf Cup of Nations|1986]], [[1988 Gulf Cup of Nations|1988]], [[1992 Gulf Cup of Nations|1992]], [[1996 Gulf Cup of Nations|1996]], [[2007 Gulf Cup of Nations|2007]], [[26th Arabian Gulf Cup|2024–25]]
+* '''[[FIFA Arab Cup|Arab Cup]]'''{{efn|Official subregional competition organized and recognized by [[FIFA]] since [[2021 FIFA Arab Cup|2021]]. Previous editions were organized by [[Union of Arab Football Associations|UAFA]].}}
+** {{Gold1}} '''Champions (2)''': [[1998 Arab Cup|1998]], [[2002 Arab Cup|2002]]
+** {{Silver2}} Runners-up (1): [[1992 Arab Cup|1992]]{{efn|name=arabcup"|The [[1992 Arab Cup]] also counted as an edition of the [[Football at the Arab Games|Arab Games]].}}
+** {{Bronze3}} Third place (2): [[1985 Arab Cup|1985]], [[2025 FIFA Arab Cup|2025]]
+* '''[[Football at the Arab Games|Arab Games]]'''
+** {{Silver2}} Silver medal (2): [[1976 Arab Games|1976]], [[1992 Arab Cup|1992]]{{efn|name=arabcup"}}
+** {{Bronze3}} Bronze medal (1): [[2007 Arab Games|2007]]
+* '''[[Islamic Solidarity Games]]'''
+** {{Gold1}} '''Gold medal (1)''': [[Football at the 2005 Islamic Solidarity Games|2005]]
+* '''[[Islamic Games]]'''
+** {{Bronze3}} Bronze medal (1): [[Football at the Islamic Games|1980]]
+
+===Awards===
+* '''[[AFC Annual Awards#Team awards|AFC National Team of the Year]] (1)''': 1996
+* '''[[AFC Asian Cup awards#Fair Play Award|AFC Asian Cup Fair Play Award]] (1)''': 2000
+
+===Summary===
+Only official honours are included, according to ''FIFA statutes'' (competitions organized/recognized by [[FIFA]] or an affiliated confederation).
+{| class="wikitable" width=30% style="font-size:90%; text-align:center;"
+|-
+!Competition !!{{Gold1}} !!{{Silver2}} !!{{Bronze3}} !!Total
+|-
+|align=left|[[FIFA Confederations Cup]]
+|0||1||0||1
+|-
+|align=left|[[AFC Asian Cup]]
+|3||3||0||6
+|-
+|align=left|[[Afro-Asian Cup of Nations]]
+|0||2||0||2
+|-
+|align=left|[[FIFA Arab Cup|Arab Cup / FIFA Arab Cup]]
+|0||0||1||1
+|-
+!Total!!3!!6!!1!!10
+|}
+
+==Titles==
+=== AFC Asian Cup ===
+{{s-start}}
+{{succession box
+| before = [[1980 AFC Asian Cup|1980]] {{#invoke:flag|fb-rt|Kuwait}}
+| title  = [[AFC Asian Cup|Asian Cup Champions]]
+| years  = [[1984 AFC Asian Cup|1984]] (First title)<br>[[1988 AFC Asian Cup|1988]] (Second title)
+| after  = [[1992 AFC Asian Cup|1992]] {{#invoke:flag|fb-rt|Japan}}
+}}
+{{succession box
+| before = [[1992 AFC Asian Cup|1992]] {{#invoke:flag|fb-rt|Japan}}
+| title  = [[AFC Asian Cup|Asian Cup Champions]]
+| years  = [[1996 AFC Asian Cup|1996]] (Third title)
+| after  = [[2000 AFC Asian Cup|2000]] {{#invoke:flag|fb-rt|Japan}}
+}}
+{{s-end}}
+
+=== Arab Cup ===
+{{s-start}}
+{{succession box
+| before = [[1992 Arab Cup|1992]] {{#invoke:flag|fb-rt|Egypt}}
+| title  = [[FIFA Arab Cup|Arab Cup Champions]]
+| years  = [[1998 Arab Cup|1998]] (First title)<br>[[2002 Arab Cup|2002]] (Second title)
+| after  = [[2012 Arab Cup|2012]] {{#invoke:flag|fb-rt|Morocco}}
+}}
+{{s-end}}
+
+=== Arabian Gulf Cup ===
+{{s-start}}
+{{succession box
+| before = [[11th Arabian Gulf Cup|1992]] {{#invoke:flag|fb-rt|Qatar}}
+| title  = [[Arabian Gulf Cup|Gulf Cup Champions]]
+| years  = [[12th Arabian Gulf Cup|1994]] (First title)
+| after  = [[13th Arabian Gulf Cup|1996]] {{#invoke:flag|fb-rt|Kuwait}}
+}}
+{{succession box
+| before = [[14th Arabian Gulf Cup|1998]] {{#invoke:flag|fb-rt|Kuwait}}
+| title  = [[Arabian Gulf Cup|Gulf Cup Champions]]
+| years  = [[15th Arabian Gulf Cup|2002]] (Second title)<br>[[16th Arabian Gulf Cup|2003–04]] (Third title)
+| after  = [[17th Arabian Gulf Cup|2004]] {{#invoke:flag|fb-rt|Qatar}}
+}}
+{{s-end}}
+
+==Notes==
+{{notelist}}
+
+==References==
+<references />
+
+==External links==
+{{Commons category}}
+* {{official website}}
+* [https://www.fifa.com/about-fifa/associations/KSA Saudi Arabia] at [[FIFA]]
+* [https://www.the-afc.com/en/west/saudi_arabia.html Saudi Arabia] at [[Asian Football Confederation|AFC]]
+* [http://www.ksa-team.com/english/index.php Saudi Arabia national football team website]
+
+{{Navboxes top
+| title = Titles
+| bg    = gold
+}}
+{{AFC Asian Cup winners}}
+{{FIFA Arab Cup winners}}
+{{Arabian Gulf Cup winners}}
+{{Navboxes bottom}}
+{{Saudi Arabia national football team}}
+{{Navboxes top
+| title = Saudi Arabia FIFA World Cup squads
+| bg    = #006C35
+| fg    = white
+}}
+{{Saudi Arabia squad 1994 FIFA World Cup}}
+{{Saudi Arabia squad 1998 FIFA World Cup}}
+{{Saudi Arabia squad 2002 FIFA World Cup}}
+{{Saudi Arabia squad 2006 FIFA World Cup}}
+{{Saudi Arabia squad 2018 FIFA World Cup}}
+{{Saudi Arabia squad 2022 FIFA World Cup}}
+{{Saudi Arabia squad 2026 FIFA World Cup}}
+{{Navboxes bottom}}
+{{Navboxes top
+| title = Saudi Arabia FIFA Confederations Cup squads
+| bg    = #006C35
+| fg    = white
+}}
+{{Saudi Arabia squad 1992 King Fahd Cup}}
+{{Saudi Arabia squad 1995 King Fahd Cup}}
+{{Saudi Arabia squad 1997 FIFA Confederations Cup}}
+{{Saudi Arabia squad 1999 FIFA Confederations Cup}}
+{{Navboxes bottom}}
+{{Navboxes top
+| title = Saudi Arabia AFC Asian Cup squads
+| bg    = #006C35
+| fg    = white
+}}
+{{Saudi Arabia squad 1984 AFC Asian Cup}}
+{{Saudi Arabia squad 1988 AFC Asian Cup}}
+{{Saudi Arabia squad 1992 AFC Asian Cup}}
+{{Saudi Arabia squad 1996 AFC Asian Cup}}
+{{Saudi Arabia squad 2000 AFC Asian Cup}}
+{{Saudi Arabia squad 2004 AFC Asian Cup}}
+{{Saudi Arabia squad 2007 AFC Asian Cup}}
+{{Saudi Arabia squad 2011 AFC Asian Cup}}
+{{Saudi Arabia squad 2015 AFC Asian Cup}}
+{{Saudi Arabia squad 2019 AFC Asian Cup}}
+{{Saudi Arabia squad 2023 AFC Asian Cup}}
+{{Navboxes bottom}}
+{{Navboxes top
+| title = Saudi Arabia CONCACAF Gold Cup squads
+| bg    = #006C35
+| fg    = white
+}}
+{{Saudi Arabia squad 2025 CONCACAF Gold Cup}}
+{{Navboxes bottom}}
+{{Navboxes top
+| title = Saudi Arabia finalists
+| bg    = #006C35
+| fg    = white
+}}
+{{1984 AFC Asian Cup finalists}}
+{{1988 AFC Asian Cup finalists}}
+{{1992 AFC Asian Cup finalists}}
+{{1994 FIFA World Cup finalists}}
+{{1996 AFC Asian Cup finalists}}
+{{1998 FIFA World Cup finalists}}
+{{2000 AFC Asian Cup finalists}}
+{{2002 FIFA World Cup finalists}}
+{{2006 FIFA World Cup finalists}}
+{{2004 AFC Asian Cup finalists}}
+{{2007 AFC Asian Cup finalists}}
+{{2011 AFC Asian Cup finalists}}
+{{2015 AFC Asian Cup finalists}}
+{{2018 FIFA World Cup finalists}}
+{{2019 AFC Asian Cup finalists}}
+{{2022 FIFA World Cup finalists}}
+{{2023 AFC Asian Cup finalists}}
+{{2026 FIFA World Cup finalists}}
+{{Navboxes bottom}}
+{{Navboxes top
+| title = Links to related articles
+| bg    = #006C35
+| fg    = white
+}}
+{{Football in Saudi Arabia}}
+{{UAFA Football}}
+{{AFC teams}}
+{{National sports teams of Saudi Arabia}}
+{{Navboxes bottom}}
+
+{{DEFAULTSORT:Saudi Arabia National Football Team}}
+[[Category:Saudi Arabia national football team| ]]
+[[Category:AFC Asian Cup–winning countries]]
+[[Category:Asian national association football teams]]
+[[Category:Football in Saudi Arabia]]

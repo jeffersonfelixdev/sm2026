@@ -1,0 +1,1585 @@
+{{short description|Men's association football team}}
+{{About|the men's team|the women's team|South Korea women's national football team}}
+{{Use dmy dates|date=October 2024}}
+{{Infobox national football team
+| Name                     = Korea Republic
+| Badge                    = South Korea national football team.svg
+| Badge_size               = 145px 
+| Nickname                 = [[Taegeuk]] Warriors<br />Tigers of Asia
+| Association              = [[Korea Football Association]] (KFA)
+| Confederation            = [[Asian Football Confederation|AFC]] (Asia)
+| Sub-confederation        = [[East Asian Football Federation|EAFF]] (East Asia)
+| FIFA Trigramme           = KOR
+| FIFA Rank                = {{FIFA World Rankings|KOR}}
+| FIFA max                 = 17
+| FIFA max date            = December 1998
+| FIFA min                 = 69
+| FIFA min date            = November 2014 – January 2015
+| website                  = {{official URL}}
+| Coach                    = ''Vacant''
+| Captain                  = [[Son Heung-min]]
+| Most caps                = Son Heung-min (147)
+| Top scorer               = [[Cha Bum-kun]] (58)
+| pattern_la1      = _kor26h
+| pattern_b1       = _kor26h
+| pattern_ra1      = _kor26h
+| pattern_sh1      = _kor26h
+| pattern_so1      = _kor26hl
+| leftarm1         = FF354F
+| body1            = FF354F
+| rightarm1        = FF354F
+| shorts1          = FF354F
+| socks1           = D20010
+| pattern_la2      = _kor26a
+| pattern_b2       = _kor26a
+| pattern_ra2      = _kor26a
+| pattern_sh2      =_kor26a
+| pattern_so2      =_kor26al
+| leftarm2         = 000000
+| body2            = 000000
+| rightarm2        = 000000
+| shorts2          = 000000
+| socks2           = 000000
+| First game               = {{fb|KOR|1948}} 5–3 {{fb-rt|MEX|1934}}<br>([[London]], England; 2 August 1948)
+| Largest win              = {{nowrap|{{fb|KOR|1997}} 16–0 {{fb-rt|NEP}}<br>([[Incheon]], South Korea; 29 September 2003)}}
+| Largest loss             = {{fb|KOR|1948}} 0–12 {{fb-rt|SWE}}<br>(London, England; 5 August 1948)
+| World cup apps           = 12
+| World cup first          = 1954
+| World cup best           = Fourth place ([[2002 FIFA World Cup|2002]])
+| Regional name            = [[AFC Asian Cup|Asian Cup]]
+| Regional cup apps        = 15
+| Regional cup first       = [[1956 AFC Asian Cup|1956]]
+| Regional cup best        = '''Champions''' ([[1956 AFC Asian Cup|1956]], [[1960 AFC Asian Cup|1960]])
+| 2ndRegional name         = [[EAFF E-1 Football Championship|EAFF Championship]]
+| 2ndRegional cup apps     = 10
+| 2ndRegional cup first    = [[2003 East Asian Football Championship|2003]]
+| 2ndRegional cup best     = '''Champions''' ([[2003 East Asian Football Championship|2003]], [[2008 East Asian Football Championship|2008]], [[2015 EAFF East Asian Cup|2015]], [[2017 EAFF E-1 Football Championship|2017]], [[2019 EAFF E-1 Football Championship|2019]])
+| Confederations cup apps  = 1
+| Confederations cup first = [[2001 FIFA Confederations Cup|2001]]
+| Confederations cup best  = Group stage ([[2001 FIFA Confederations Cup|2001]])
+| medaltemplates           = 
+{{MedalSport|Men's [[Association football|football]]}}
+{{MedalCompetition | [[AFC Asian Cup]]}}
+{{MedalGold | [[1956 AFC Asian Cup|1956 Hong Kong]]|}}
+{{MedalGold | [[1960 AFC Asian Cup|1960 South Korea]]|}}
+{{MedalSilver | [[1972 AFC Asian Cup|1972 Thailand]]|}}
+{{MedalSilver | [[1980 AFC Asian Cup|1980 Kuwait]]|}}
+{{MedalSilver | [[1988 AFC Asian Cup|1988 Qatar]]|}}
+{{MedalSilver | [[2015 AFC Asian Cup|2015 Australia]]|}}
+{{MedalBronze | [[1964 AFC Asian Cup|1964 Israel]]|}}
+{{MedalBronze | [[2000 AFC Asian Cup|2000 Lebanon]]|}}
+{{MedalBronze | [[2007 AFC Asian Cup|2007 Indonesia, Malaysia,<br>Thailand and Vietnam]]|}}
+{{MedalBronze | [[2011 AFC Asian Cup|2011 Qatar]]|}}
+{{MedalCompetition | [[Asian Games]]}}
+{{MedalGold | [[Football at the 1970 Asian Games|1970 Bangkok]]|}}
+{{MedalGold | [[Football at the 1978 Asian Games|1978 Bangkok]]|}}
+{{MedalGold | [[Football at the 1986 Asian Games|1986 Seoul]]|}}
+{{MedalSilver | [[Football at the 1954 Asian Games|1954 Manila]]|}}
+{{MedalSilver | [[Football at the 1958 Asian Games|1958 Tokyo]]|}}
+{{MedalSilver | [[Football at the 1962 Asian Games|1962 Jakarta]]|}}
+{{MedalBronze | [[Football at the 1990 Asian Games – Men's tournament|1990 Beijing]]|}}
+{{MedalCompetition|[[EAFF E-1 Football Championship|EAFF Championship]]}}
+{{MedalGold | [[2003 East Asian Football Championship|2003 Japan]]|}}
+{{MedalGold | [[2008 East Asian Football Championship|2008 China]]|}}
+{{MedalGold | [[2015 EAFF East Asian Cup|2015 China]]|}}
+{{MedalGold | [[2017 EAFF E-1 Football Championship|2017 Japan]]|}}
+{{MedalGold | [[2019 EAFF E-1 Football Championship|2019 South Korea]]|}}
+{{MedalSilver | [[2010 East Asian Football Championship|2010 Japan]]|}}
+{{MedalSilver | [[2022 EAFF E-1 Football Championship|2022 Japan]]|}}
+{{MedalSilver | [[2025 EAFF E-1 Football Championship|2025 South Korea]]|}}
+{{MedalBronze | [[2013 EAFF East Asian Cup|2013 South Korea]]|}}
+}}
+{{Infobox Korean name/auto
+| hangul = ^대한민국 축구 국가대표팀
+| hanja  = 大韓民國 蹴球 國家代表팀
+}}
+The '''South Korea national football team''' ({{Langx|ko|대한민국 축구 국가대표팀}}; recognized as '''Korea Republic''' by [[FIFA]]<ref>{{cite web|title=Korea Republic|url=https://www.fifa.com/fifa-world-ranking/KOR|access-date=1 February 2022|website=FIFA.com|archive-date=1 February 2022|archive-url=https://web.archive.org/web/20220201031310/https://www.fifa.com/fifa-world-ranking/KOR|url-status=live}}</ref>) represents [[South Korea]] in men's international [[Association football|football]] and is governed by the [[Korea Football Association]], a member of FIFA and the [[Asian Football Confederation]] (AFC).
+
+South Korea has emerged as a major football power in Asia since the 1980s, having participated in eleven consecutive and twelve overall [[FIFA World Cup]] tournaments, the most for any Asian country. Despite initially going through five World Cup tournaments without winning a match, South Korea became the first (and so far only) Asian team to reach the semi-finals when they co-hosted the [[2002 FIFA World Cup|2002 tournament]] with Japan. South Korea also has won two [[AFC Asian Cup]] titles, and finished as runners-up on four occasions. Furthermore, the team won three gold medals and three silver medals at the senior [[Football at the Asian Games|Asian Games]].<ref>{{cite web |url=https://www.rte.ie/sport/world-cup-2018/2018/0606/968706-world-cup-2018-why-you-should-follow-south-korea/ |title=World Cup 2018: Why you should follow South Korea |first=Rob |last=Wright |date=June 6, 2018 |publisher=RTÉ |access-date=June 11, 2018 |archive-date=June 12, 2018 |archive-url=https://web.archive.org/web/20180612140625/https://www.rte.ie/sport/world-cup-2018/2018/0606/968706-world-cup-2018-why-you-should-follow-south-korea/ |url-status=live }}</ref>
+
+The team is commonly nicknamed the "Reds" by both fans and the media due to the color of their primary kit. The national team's supporting group is officially referred to as the [[Red Devils (supporters club)|Red Devils]].<ref>{{Cite web |url=https://terms.naver.com/entry.nhn?docId=1820710&cid=46634&categoryId=46634 |script-title=ko:붉은악마 |trans-title=Red Devils |language=ko |website=[[Naver]] |publisher=[[Encyclopedia of Korean Culture]] |access-date=October 6, 2019 |archive-date=July 12, 2020 |archive-url=https://web.archive.org/web/20200712021716/https://terms.naver.com/entry.nhn?docId=1820710&cid=46634&categoryId=46634 |url-status=live }}</ref>
+
+==History==
+{{main|History of the South Korea national football team}}
+{{#lst:History of the South Korea national football team|senior}}
+
+==Team image==
+===Nicknames===
+The South Korea national football team has been known or nicknamed as the ''[[Taegeuk]] Warriors'' ({{korean|hangul=태극전사}}) and the ''Tigers of Asia'' ({{korean|hangul=아시아의 호랑이}}).<ref>{{cite web |title=Undermanned S. Korea overmatched against Japan in football friendly loss |url=https://en.yna.co.kr/view/AEN20210325010700315 |website=[[Yonhap News Agency]] |access-date=March 26, 2021|date=March 25, 2021 |archive-date=March 25, 2021 |archive-url=https://web.archive.org/web/20210325133222/https://en.yna.co.kr/view/AEN20210325010700315 |url-status=live }}</ref><ref>{{cite web |script-title=ko:한일전, 손흥민 있었다면 달랐을까… 벤투 "해서는 안될말" |url=https://www.chosun.com/sports/sports_photo/2021/03/26/CRK33QDX4NGFTSTBN7NGPA4ZR4/ |website=[[The Chosun Ilbo]] |access-date=March 26, 2021 |language=ko |date=March 26, 2021 |archive-date=March 26, 2021 |archive-url=https://web.archive.org/web/20210326034559/https://www.chosun.com/sports/sports_photo/2021/03/26/CRK33QDX4NGFTSTBN7NGPA4ZR4/ |url-status=live }}</ref>
+
+===Kits and crest===
+{{Commons|South Korea national football team kits}}
+Red is the traditional shirt color of the South Korean national team, who are consequently nicknamed the "Reds", while the fans are called the "Red Devils". The away shirt has varied between white and blue. In 1994, the home shirt shifted from red to white, but in October 1995, red returned as the home color, paired with black shorts.
+
+South Korea used to wear the [[Flag of South Korea|country's flag]] as their shirt badge until 2001, when their tiger crest was unveiled.<ref>{{cite web |url=https://sports.news.naver.com/general/news/read.nhn?oid=015&aid=0000369548 |website=[[Naver]] |script-title=ko:"호랑이 한국축구 새얼굴" .. 축구協 엠블럼 공식발표 |publisher=[[The Korea Economic Daily]] |date=May 2, 2001 |access-date=May 26, 2020 |language=ko}}</ref> On 5 February 2020, the [[Korea Football Association|KFA]] announced a new, more simplistic logo.<ref name=":1">{{Cite web |url=https://www.kfa.or.kr/layer_popup/popup_live.php?act=news_tv_detail&idx=22265&div_code=news&check_url=bGF5ZXI= |script-title=ko:KFA, 신규 엠블럼 공개...19년만에 새 얼굴로 |publisher=[[Korea Football Association]] |language=ko |access-date=February 5, 2020 |archive-date=August 7, 2020 |archive-url=https://web.archive.org/web/20200807131353/https://www.kfa.or.kr/layer_popup/popup_live.php?act=news_tv_detail&idx=22265&div_code=news&check_url=bGF5ZXI= |url-status=live }}</ref> The emblem retained the tiger, albeit in a more minimalist design, enclosed in a rectangular frame.<ref name=":1"/> Red, blue and white, South Korea's traditional colors, have been maintained in the new logo.<ref name=":1"/>
+
+==== Kit suppliers ====
+{| class="wikitable" style="text-align:left;"
+|-
+! Kit supplier
+! Period
+! Notes
+|-
+| align="center"|[[Adidas]], [[Asics]], [[Kolon Industries|Kolon Sports]], [[Pro-Specs]], Weekend
+| align="center"|1977–1986
+| South Korea contracted with Adidas as their first official kit sponsor, but they did not have an exclusive kit sponsor at that time.<ref>{{cite news |url=https://newslibrary.naver.com/viewer/index.nhn?editNo=2&printCount=1&publishDate=1981-02-07&officeId=00032&pageNo=8&printNo=10879&publishType=00020&articleId=1981020700329208014 |script-title=ko:대표선수도 국제경기서 버젓이 서독 아디다스, 일본 미즈노등 외제 스포츠용품 국내시장 석권 |publisher=[[Kyunghyang Sinmun]] |newspaper=[[Naver]] |date=February 27, 1981 |language=ko |access-date=April 11, 2021 |archive-date=April 11, 2021 |archive-url=https://web.archive.org/web/20210411092726/https://newslibrary.naver.com/viewer/index.nhn?editNo=2&printCount=1&publishDate=1981-02-07&officeId=00032&pageNo=8&printNo=10879&publishType=00020&articleId=1981020700329208014 |url-status=live }}</ref><ref name="suppliers">{{cite news |url=https://www.yna.co.kr/view/AKR20100226043600007 |script-title=ko:축구대표팀 유니폼 변천..기능에 친환경까지 |language=ko |publisher=[[Yonhap News Agency]] |date=2010-02-26 |access-date=2024-11-09}}</ref>
+|-
+| align="center"|{{ill|Samsung C&T Corporation#Fashion Group|lt=Rapido|ko|라피도|display=1}} (Weekend)
+| align="center"|1987–1995
+| Signed a long-term contract with Weekend (renamed Rapido in January 1988) in 1987.<ref name="suppliers"/><ref>{{cite news |url=https://newslibrary.naver.com/viewer/index.nhn?editNo=3&printCount=1&publishDate=1990-06-20&officeId=00032&pageNo=20&printNo=13764&publishType=00020&articleId=1990062000329220001 |script-title=ko:월드컵 상혼 장외서 뜨거운 "광고전쟁" |publisher=[[Kyunghyang Sinmun|Kyunghyang Newspaper]] |newspaper=[[Naver]] |date=June 20, 1990 |language=ko |access-date=April 11, 2021 |archive-date=April 11, 2021 |archive-url=https://web.archive.org/web/20210411092723/https://newslibrary.naver.com/viewer/index.nhn?editNo=3&printCount=1&publishDate=1990-06-20&officeId=00032&pageNo=20&printNo=13764&publishType=00020&articleId=1990062000329220001 |url-status=live }}</ref>
+|-
+| align="center"|[[Nike, Inc.|Nike]]
+| align="center"|1996–present
+| Contracted at the end of 1995,<ref>{{cite news |url=https://newslibrary.naver.com/viewer/index.nhn?articleId=1997121100329114017&editNo=45&printCount=1&publishDate=1997-12-11&officeId=00032&pageNo=14&printNo=16298&publishType=00010 |script-title=ko:축구협회 월드컵유니폼 교체 '후원금 최소 100억' |publisher=[[Kyunghyang Sinmun|Kyunghyang Newspaper]] |newspaper=[[Naver]] |date=December 11, 1997 |language=ko |access-date=April 11, 2021 |archive-date=April 11, 2021 |archive-url=https://web.archive.org/web/20210411092724/https://newslibrary.naver.com/viewer/index.nhn?articleId=1997121100329114017&editNo=45&printCount=1&publishDate=1997-12-11&officeId=00032&pageNo=14&printNo=16298&publishType=00010 |url-status=live }}</ref> and sponsored since 1 January 1996.
+|}
+
+====Kit deals====
+{| class="wikitable" style="text-align:left;"
+! Kit supplier
+! Period
+! Contract date
+! Contract duration
+! Total
+! Annual
+! Ref.
+|-
+| align="center" rowspan="6"| [[Nike, Inc.|Nike]]
+| align="center" rowspan="6"| 1996–present
+| {{center| December 1995 }}
+| align="center"|1996–1997
+| align="right"|$3 million
+| align="right"|$1.5 million
+| align="left"|
+|-
+| align="center"|16 December 1997
+| align="center"|1998–2002
+| align="right"|$38 million
+| align="right"|$7.6 million
+| align="left"|<ref>{{Cite web |url=https://newslibrary.naver.com/viewer/index.nhn?articleId=1997121700289120013&editNo=7&printCount=1&publishDate=1997-12-17&officeId=00028&pageNo=20&printNo=3067&publishType=00010 |script-title=ko:나이키"한국축구 380억 지원" |publisher=[[The Hankyoreh]] |website=[[Naver]] |date=December 17, 1997 |access-date=May 26, 2020 |language=ko}}</ref>
+|-
+| align="center"|9 January 2003
+| align="center"|2003–2007
+| align="right"|$50 million
+| align="right"|$10.0 million
+| align="left"|<ref>{{Cite web |url=https://sports.news.naver.com/news.nhn?oid=001&aid=0000302456 |script-title=ko:한국축구, 나이키와 500억 후원계약 |website=[[Naver]] |publisher=[[Yonhap News Agency]] |date=January 9, 2003 |access-date=May 26, 2020 |language=ko |archive-date=December 19, 2021 |archive-url=https://web.archive.org/web/20211219050553/https://sports.news.naver.com/news.nhn?oid=001&aid=0000302456 |url-status=live }}</ref>
+|-
+| align="center"|23 October 2007
+| align="center"|2008–2011
+| align="right"|$49 million
+| align="right"|$12.3 million
+| align="left"|<ref>{{Cite web |url=https://sports.news.naver.com/news.nhn?oid=003&aid=0000613869 |script-title=ko:나이키, 축구대표팀 유니폼 후원 490억원에 4년 연장 |website=[[Naver]] |publisher=[[Newsis]] |date=October 23, 2007 |access-date=May 26, 2020 |language=ko |archive-date=December 19, 2021 |archive-url=https://web.archive.org/web/20211219050550/https://sports.news.naver.com/news.nhn?oid=003&aid=0000613869 |url-status=live }}</ref>
+|-
+| align="center"|13 January 2012
+| align="center"|2012–2019
+| align="right"|$120 million
+| align="right"|$15.0 million
+| align="left"|<ref>{{Cite web |url=http://news.jtbc.joins.com/article/ArticlePrint.aspx?news_id=NB10056902 |script-title=ko:축구대표 가슴 로고 값은 1200억원 |website=JTBC.joins.com |publisher=[[JoongAng Ilbo]] |date=January 16, 2012 |access-date=May 26, 2020 |language=ko |archive-date=December 19, 2021 |archive-url=https://web.archive.org/web/20211219050557/https://news.jtbc.joins.com/article/ArticlePrint.aspx?news_id=NB10056902 |url-status=live }}</ref>
+|-
+| {{center|20 January 2020}}
+| align="center"|2020–2031
+| align="right"|$204 million
+| align="right"|$17.0 million
+| align="left"|<ref>{{Cite web |url=http://www.kfa.or.kr/layer_popup/popup_live.php?act=news_tv_detail&idx=22238&div_code=news&check_url=bGF5ZXI=&lang=KOR |script-title=ko:KFA, 나이키와 역대 최대규모-최장기간 파트너 계약 체결 |publisher=[[Korea Football Association]] |date=January 20, 2020 |access-date=May 26, 2020 |language=ko |archive-date=December 19, 2021 |archive-url=https://web.archive.org/web/20211219050558/https://www.kfa.or.kr/layer_popup/popup_live.php?act=news_tv_detail&idx=22238&div_code=news&check_url=bGF5ZXI=&lang=KOR |url-status=live }}</ref>
+|}
+
+===Home stadium===
+{{main|List of football stadiums in South Korea}}
+The South Korea national team played their first home match at the [[Dongdaemun Stadium]] on 21 April 1956. The match was a [[1956 AFC Asian Cup qualification|qualifier]] for the [[1956 AFC Asian Cup]] against the [[Philippines national football team|Philippines]].<ref>{{cite web |url=https://www.kfa.or.kr/national/?act=nt_man&position=&s_idx=1619&search_val=1956&cursor=#cursor_location_sub |title=Match results – 1956 |publisher=[[Korea Football Association]] |language=ko |access-date=July 9, 2020 |archive-date=June 18, 2020 |archive-url=https://web.archive.org/web/20200618113038/https://www.kfa.or.kr/national/?act=nt_man&position=&s_idx=1619&search_val=1956&cursor=#cursor_location_sub |url-status=live }}</ref> They currently play their home matches at several stadiums, which are also used by [[K League]] clubs.
+
+===Rivalries===
+{{main|Japan–South Korea football rivalry|l1=Football rivalries between Japan–South Korea|Australia–South Korea football rivalry|l2=between Australia–South Korea|China–South Korea football rivalry|l3=between China–South Korea|North Korea–South Korea football rivalry|l4=between North Korea–South Korea}}
+South Korea's biggest rival is [[Japan national football team|Japan]]. The rivalry is an extension of a competitive rivalry between the two nations that goes beyond football, and some matches in the past have been tainted with controversy.<ref>{{cite web |title=Red Devils' anti-Japan banner at soccer match stirs debate |url=https://www.koreaherald.com/view.php?ud=20130729000796 |website=[[The Korea Herald]] |access-date=July 27, 2022|date=July 29, 2013 |archive-date=July 27, 2022 |archive-url=https://web.archive.org/web/20220727152635/https://www.koreaherald.com/view.php?ud=20130729000796 |url-status=live }}</ref><ref>{{cite web |first=Justin |last=McCurry |title=South Korean footballer's monkey impression angers Japan |url=https://www.theguardian.com/football/2011/jan/28/ki-sung-yeung-monkey-face |website=The Guardian |access-date=July 27, 2022|date=January 28, 2011 |archive-date=November 12, 2020 |archive-url=https://web.archive.org/web/20201112004234/https://www.theguardian.com/football/2011/jan/28/ki-sung-yeung-monkey-face |url-status=live }}</ref> South Korea leads the all-time series with 42 wins, 23 draws and 17 losses.<ref name="alltimerecord"/>
+
+A rivalry has also developed with [[Iran national football team|Iran]].<ref name="fifa">{{cite news |url=https://www.fifa.com/worldcup/preliminaries/news/newsid=2111172/ |title=Asia's finale sees three spots up for grabs |date=June 17, 2013 |publisher=FIFA |access-date=October 19, 2013 |archive-url=https://web.archive.org/web/20131023043731/http://www.fifa.com/worldcup/preliminaries/news/newsid=2111172/ |archive-date=October 23, 2013}}</ref> The two nations have played against each other officially since 1958, totalling 33 matches as of March 2022, including eleven World Cup qualifiers. Although the teams played against each other only once in the final match of the [[AFC Asian Cup|Asian Cup]], in [[1972 AFC Asian Cup|1972]], they have faced each other five consecutive times in the quarter-finals between 1996 and 2011, with each team recording two wins, two losses, and a draw. Iran leads the all-time series with 13 wins, 10 draws and 10 losses.<ref name="alltimerecord"/>
+
+Another major rival is [[Australia men's national soccer team|Australia]]. In head-to-head matches, each team achieved 9 wins in 29 encounters, and 11 matches ended in a draw.<ref name="alltimerecord"/> The two countries have also met in four matches at the Asian Cup,<ref>{{cite web |title=Korea Republic national football team: record v Australia |url=https://www.11v11.com/teams/korea-republic/tab/opposingTeams/opposition/Australia/ |website=11v11.com |access-date=February 2, 2024}}</ref> including the [[2015 AFC Asian Cup final|2015 final]], where Australia won 2–1 after extra time for their first ever Asian championship.<ref>{{cite web |title=A long standing rivalry: Caltex Socceroos' history against Korea Republic |url=https://www.socceroos.com.au/news/caltex-socceroos-history-against-korea-republic |publisher=Football Federation Australia |first=John |last=Greco |date=August 21, 2018 |access-date=September 26, 2020 |archive-date=November 28, 2020 |archive-url=https://web.archive.org/web/20201128105238/https://www.socceroos.com.au/news/caltex-socceroos-history-against-korea-republic |url-status=live }}</ref>
+
+South Korea has had great success against [[China national football team|China]], as China failed to beat them in competitive matches for 32 years before finally winning in 2010.<ref>{{cite web |title=China beats South Korea 3–0 at East Asian Champs |url=https://www.chinadaily.com.cn/sports/2010-02/10/content_9459219.htm |website=chinadaily.com.cn |access-date=May 20, 2024 |date=February 10, 2010}}</ref> They also possess a strong rivalry with [[North Korea national football team|North Korea]], though matches are infrequent due to diplomatic and security reasons.
+
+===Supporters===
+{{main|Red Devils (supporters club)}}
+The official supporter group of the national team, the Red Devils, were founded in 1995. Known for their passionate support, they are commonly referred to as the [[12th man (football)|12th man]].<ref name="History of the Red Devils"/> Their most common chant is {{ill|South Korean football chant|ko|대~한민국|lt="Dae~ Han-Min-Guk"}} ({{korean|hangul=대~한민국|labels=no}}), followed by five claps.<ref>{{cite web |title=Korea's World Cup chant owned by Shin Hae-chul, singer's agency claims |url=http://www.koreaherald.com/view.php?ud=20140617000846 |website=[[The Korea Herald]] |access-date=March 25, 2021|date=June 17, 2014 |archive-date=October 8, 2021 |archive-url=https://web.archive.org/web/20211008100610/http://www.koreaherald.com/view.php?ud=20140617000846 |url-status=live }}</ref>
+
+The [[FIFA Fan Fest]] was introduced at the [[2002 FIFA World Cup|2002 World Cup]] in South Korea.{{Citation needed|date=November 2024}}
+
+==Recent results and fixtures==
+{{Main|South Korea national football team results (2020–present)}}
+The following is a list of match results in the last 12 months, as well as any future matches that have been scheduled.<ref>{{cite web |title=Korea Republic – Korea Republic – Results and fixtures – Soccerway |url=https://int.soccerway.com/teams/korea-republic/korea-republic/1385/matches/ |publisher=Soccerway |access-date=March 25, 2021 |archive-date=June 5, 2021 |archive-url=https://web.archive.org/web/20210605135227/https://int.soccerway.com/teams/korea-republic/korea-republic/1385/matches/ |url-status=live }}</ref><ref>{{cite web |title=South Korea – Fixtures & Results 2022 |url=https://www.worldfootball.net/teams/te1842/south-korea/all-matches/ |website=worldfootball.net |access-date=March 27, 2021|archive-date=October 9, 2021 |archive-url=https://web.archive.org/web/20211009131827/https://www.worldfootball.net/teams/suedkorea-team/2022/3/ |url-status=live }}</ref><ref>{{cite web |title=Korea Republic Results |url=https://www.skysports.com/football/teams/south-korea/results |publisher=[[Sky Sports]] |access-date=March 27, 2021|archive-date=June 5, 2021 |archive-url=https://web.archive.org/web/20210605135226/https://www.skysports.com/football/teams/south-korea/results |url-status=live }}</ref><ref>{{cite web|title=South Korea – Results/Matches|url=https://www.soccerbase.com/teams/team.sd?team_id=717|website=soccerbase.com|access-date=March 27, 2021|archive-date=March 7, 2021|archive-url=https://web.archive.org/web/20210307045022/https://www.soccerbase.com/teams/team.sd?team_id=717|url-status=live}}</ref>
+
+{{legend2|#CCFFCC|Win|border=1px solid #AAAAAA}}{{0}}
+{{legend2|#FFFFCC|Draw|border=1px solid #AAAAAA}}{{0}}
+{{legend2|#FFCCCC|Loss|border=1px solid #AAAAAA}}{{0}}
+{{legend2|#FFFFFF|Fixture|border=1px solid #AAAAAA}}
+
+===2025===
+{{Football box collapsible
+| format = 1
+| round = [[Exhibition game#Association football|Friendly]]
+| date = 6 September
+| time = {{UTZ|17:00|-4}}
+| team1 = {{fb-rt|USA}}
+| score = 0–2
+| team2 = {{fb|KOR}}
+| report = https://www.soccerway.com/match/south-korea-K6Gs7P6G/usa-fuitL4CF/?mid=pzV3qmue
+| goals1 =
+| goals2 =
+* [[Son Heung-min]] {{goal|18}}
+* [[Lee Dong-gyeong]] {{goal|43}}
+| stadium = [[Sports Illustrated Stadium]]
+| location = [[Harrison, New Jersey]], United States
+| attendance = 26,500
+| referee = Reon Radix ([[Grenada Football Association|Grenada]])
+| result = W
+}}
+{{Football box collapsible
+| format = 1
+| round = [[Exhibition game#Association football|Friendly]]
+| date = 9 September
+| time = {{UTZ|20:00|-5}}
+| team1 = {{fb-rt|MEX}}
+| score = 2–2
+| report = https://www.soccerway.com/match/mexico-O6iHcNkd/south-korea-K6Gs7P6G/?mid=nw4HFBLj
+| team2 = {{fb|KOR}}
+| goals1 =
+*[[Raúl Jiménez|Jiménez]] {{goal|22}}
+*[[Santiago Giménez|Giménez]] {{goal|90+4}}
+| goals2 =
+*[[Son Heung-min]] {{goal|65}}
+*[[Oh Hyeon-gyu]] {{goal|75}}
+| stadium = [[Geodis Park]]
+| location = [[Nashville, Tennessee]], United States
+| attendance = 27,604
+| referee = Guido Gonzales Jr. ([[United States Soccer Federation|United States]])
+| result = D
+}}
+{{Football box collapsible
+| format = 1
+| round = [[Exhibition game#Association football|Friendly]]
+| date = 10 October
+| time = {{UTZ|20:00|9}}
+| team1 = {{fb-rt|KOR}}
+| score = 0–5
+| report = https://www.soccerway.com/match/brazil-I9l9aqLq/south-korea-K6Gs7P6G/?mid=UJAwQsfK
+| team2 = {{fb|BRA}}
+| goals1 =
+| goals2 =
+*[[Estêvão Willian|Estêvão]] {{goal|13||47}}
+*[[Rodrygo]] {{goal|41||49}}
+*[[Vinícius Júnior|Vinícius]] {{goal|77}}
+| stadium = [[Seoul World Cup Stadium]]
+| location = [[Seoul]], South Korea
+| attendance = 63,237
+| referee = [[Abdulrahman Al-Jassim]] ([[Qatar Football Association|Qatar]])
+| result = L
+}}
+{{Football box collapsible
+| format = 1
+| round = [[Exhibition game#Association football|Friendly]]
+| date = 14 October
+| time = {{UTZ|20:00|9}}
+| team1 = {{fb-rt|KOR}}
+| score = 2–0
+| report = https://www.soccerway.com/match/paraguay-YaNlqp6j/south-korea-K6Gs7P6G/?mid=fsx18kCr
+| team2 = {{fb|PAR}}
+| goals1 =
+*[[Eom Ji-sung]] {{goal|15}}
+*[[Oh Hyeon-gyu]] {{goal|75}}
+| goals2 =
+| stadium = [[Seoul World Cup Stadium]]
+| location = [[Seoul]], South Korea
+| attendance = 22,206
+| referee = Yusuke Araki ([[Japan Football Association|Japan]])
+| result = W
+}}
+{{Football box collapsible
+| format = 1
+| round = [[Exhibition game#Association football|Friendly]]
+| date = 14 November
+| time = {{UTZ|20:00|9}}
+| team1 = {{fb-rt|KOR}}
+| score = 2–0
+| report = https://www.soccerway.com/match/bolivia-nXdi7mbc/south-korea-K6Gs7P6G/?mid=lQ6TaS54
+| team2 = {{fb|BOL}}
+| goals1 =
+*[[Son Heung-min]] {{goal|57}}
+*[[Cho Gue-sung]] {{goal|88}}
+| goals2 = 
+| stadium = [[Daejeon World Cup Stadium]]
+| location = [[Daejeon]], South Korea
+| attendance = 33,852
+| referee = [[Ma Ning (referee)|Ma Ning]] ([[Chinese Football Association|China]])
+| result = W
+}}
+{{Football box collapsible
+| format = 1
+| round = [[Exhibition game#Association football|Friendly]]
+| date = 18 November
+| time = {{UTZ|20:00|9}}
+| team1 = {{fb-rt|KOR}}
+| score = 1–0
+| report = https://www.soccerway.com/match/ghana-nNBjHale/south-korea-K6Gs7P6G/?mid=ltH5hbvJ
+| team2 = {{fb|GHA}}
+| goals1 =
+*[[Lee Tae-seok]] {{goal|63}}
+| goals2 = 
+| stadium = [[Seoul World Cup Stadium]]
+| location = [[Seoul]], South Korea
+| attendance = 33,256
+| referee = Ahmad Al-Ali ([[Kuwait Football Association|Kuwait]])
+| result = W
+}}
+
+===2026===
+{{Football box collapsible
+| format = 1
+| round = [[Exhibition game#Association football|Friendly]]
+| date = 28 March
+| time = {{UTZ|14:00|0}}
+| team1 = {{fb-rt|KOR}}
+| score = 0–4
+| report = https://www.soccerway.com/match/ivory-coast-G2FRjBgn/south-korea-K6Gs7P6G/?mid=Ua91qRCr
+| team2 = {{fb|CIV}}
+| goals1 =
+| goals2 =
+*[[Evann Guessand|Guessand]] {{goal|35}}
+*[[Simon Adingra|Adingra]] {{goal|45+1}}
+*[[Martial Godo|Godo]] {{goal|62}}
+*[[Wilfried Singo|Singo]] {{goal|90+3}}
+| stadium = [[Stadium MK]]
+| location = [[Milton Keynes]], England
+| attendance = 5,917
+| referee = Ian McNabb ([[Irish Football Association|Northern Ireland]])
+| result = L
+}}
+{{Football box collapsible
+| format = 1
+| round = [[Exhibition game#Association football|Friendly]]
+| date = 31 March
+| time = {{UTZ|20:45|2}}
+| team1 = {{fb-rt|AUT}}
+| score = 1–0
+| report = https://www.soccerway.com/match/austria-naHiWdnt/south-korea-K6Gs7P6G/
+| team2 = {{fb|KOR}}
+| goals1 = 
+* [[Marcel Sabitzer|Sabitzer]] {{goal|48}}
+| goals2 =
+| stadium = [[Ernst-Happel-Stadion]]
+| location = [[Vienna]], Austria
+| attendance = 35,300
+| referee = Sander van der Eijk ([[Royal Dutch Football Association|Netherlands]])
+| result = L
+}}
+{{Football box collapsible
+| format = 1
+| round = [[Exhibition game#Association football|Friendly]]
+| date = 30 May
+| time = {{UTZ|19:00|-6}}
+| team1 = {{fb-rt|KOR}}
+| score = 5–0
+| team2 = {{fb|TRI}}
+| report = https://www.soccerway.com/match/south-korea-K6Gs7P6G/trinidad-tobago-UTg8M6Sd/?mid=tSWLzA4M
+| goals1 =
+* [[Son Heung-min]] {{goal|40||43|pen.}}
+* [[Cho Gue-sung]] {{goal|65||77}}
+* [[Hwang Hee-chan]] {{goal|75|pen.}}
+| goals2 =
+| stadium = [[South Field (Provo)|South Field]]
+| location = [[Provo, Utah]], United States
+| attendance = 3,454
+| referee = Victor Rivas ([[United States Soccer Federation|United States]])
+| result = W
+}}
+{{Football box collapsible
+| format = 1
+| round = [[Exhibition game#Association football|Friendly]]
+| date = 3 June
+| time = {{UTZ|19:00|-6}}
+| team1 = {{fb-rt|KOR}}
+| score = 1–0
+| team2 = {{fb|SLV}}
+| report = https://www.soccerway.com/match/el-salvador-8b5z2tKe/south-korea-K6Gs7P6G/?mid=MVBloMFO
+| goals1 =
+* [[Lee Dong-gyeong]] {{goal|57}}
+| goals2 =
+| stadium = [[South Field (Provo)|South Field]]
+| location = [[Provo, Utah]], United States
+| attendance = 
+| referee = Natalie Simon ([[United States Soccer Federation|United States]])
+| result = W
+}}
+{{Football box collapsible
+| format = 1
+| round = [[2026 FIFA World Cup]] [[2026 FIFA World Cup Group A|Group A]]
+| date = 11 June
+| time = {{UTZ|20:00|-6}}
+| team1 = {{fb-rt|KOR}}
+| score = 2–1
+| report = https://www.fifa.com/en/match-centre/match/17/285023/289273/400021441
+| team2 = {{fb|CZE}}
+| goals1 =
+*[[Hwang In-beom]] {{goal|67}}
+*[[Oh Hyeon-gyu]] {{goal|80}}
+| goals2 = 
+*[[Ladislav Krejčí (footballer, born 1999)|Krejčí]] {{goal|59}}
+| stadium = [[Estadio Akron]]
+| location = [[Zapopan]], Mexico
+| attendance = 44,985
+| referee = [[Amin Omar|Amin Mohamed Omar]] ([[Egyptian Football Association|Egypt]])
+| result = W
+}}
+{{Football box collapsible
+| format = 1
+| round = [[2026 FIFA World Cup]] [[2026 FIFA World Cup Group A|Group A]]
+| date = 18 June
+| time = {{UTZ|19:00|-6}}
+| team1 = {{fb-rt|MEX}}
+| score = 1–0
+| report = https://www.fifa.com/en/match-centre/match/17/285023/289273/400021442
+| team2 = {{fb|KOR}}
+| goals1 =
+*[[Luis Romo|Romo]] {{goal|50}}
+| goals2 = 
+| stadium = [[Estadio Akron]]
+| location = [[Zapopan]], Mexico
+| attendance = 45,522
+| referee = [[Gustavo Tejera]] ([[Uruguayan Football Association|Uruguay]])
+| result = L
+}}
+{{Football box collapsible
+| format = 1
+| round = [[2026 FIFA World Cup]] [[2026 FIFA World Cup Group A|Group A]]
+| date = 24 June
+| time = {{UTZ|19:00|-6}}
+| team1 = {{fb-rt|RSA}}
+| score = 1–0
+| report = https://www.fifa.com/en/match-centre/match/17/285023/289273/400021445
+| team2 = {{fb|KOR}}
+| goals1 =
+*[[Thapelo Maseko|Maseko]] {{goal|63}}
+| goals2 = 
+| stadium = [[Estadio BBVA]]
+| location = [[Guadalupe, Nuevo León|Guadalupe]], Mexico
+| attendance = 51,243
+| referee = [[Facundo Tello]] ([[Argentine Football Association|Argentina]])
+| result = L
+}}
+
+===2027===
+{{Football box collapsible
+|format = 1
+|date = 10 January
+|time = {{UTZ||+3}}
+|round = [[2027 AFC Asian Cup]] [[2027 AFC Asian Cup Group E|Group E]]
+|score = 
+|report = 
+|team1 = {{fb-rt|KOR}}
+|goals1 =
+|team2 = {{fb|YEM}}
+|goals2 =
+|stadium = [[King Abdullah Sports City Stadium]]
+|location = [[Jeddah]], Saudi Arabia
+|attendance = 
+|referee = 
+|result = 
+}} 
+{{Football box collapsible
+|format = 1
+|date = 15 January
+|time = {{UTZ||+3}}
+|round = [[2027 AFC Asian Cup]] [[2027 AFC Asian Cup Group E|Group E]]
+|score = 
+|report = 
+|team1 = {{fb-rt|VIE}}
+|goals1 =
+|team2 = {{fb|KOR}}
+|goals2 =
+|stadium = [[Kingdom Arena]]
+|location = [[Riyadh]], Saudi Arabia
+|attendance = 
+|referee = 
+|result = 
+}}
+{{Football box collapsible
+|format = 1
+|date = 20 January
+|time = {{UTZ||+3}}
+|round = [[2027 AFC Asian Cup]] [[2027 AFC Asian Cup Group E|Group E]]
+|score = 
+|report = 
+|team1 = {{fb-rt|KOR}}
+|goals1 =
+|team2 = {{fb|UAE}}
+|goals2 =
+|stadium = [[King Saud University Stadium]]
+|location = [[Riyadh]], Saudi Arabia
+|attendance = 
+|referee = 
+|result = 
+}}
+
+==All-time results==
+{{Main|South Korea national football team results}}
+{{updated|24 June 2026}}
+
+{| class="wikitable" style="text-align:center;"
+|+Results by decade
+|-
+! width="120"|Year
+! width="40" |{{Tooltip|Pld|Matches played}}
+! width="40" |{{Tooltip|W|Matches won}}
+! width="40" |{{Tooltip|D|Matches drawn, including knockout matches decided via penalty shoot-out}}
+! width="40" |{{Tooltip|L|Matches lost}}
+! width="60" |{{Tooltip|Win %|Win percentage}}
+! width="60" |Matches
+|-
+|1948–1959
+{{WDL|48|28|9|11}}
+|[[South Korea national football team results (1948–1959)|Matches]]
+|-
+|1960–1969
+{{WDL|90|52|15|23}}
+|[[South Korea national football team results (1960–1969)|Matches]]
+|-
+|1970–1979
+{{WDL|186|117|44|25}}
+|[[South Korea national football team results (1970–1979)|Matches]]
+|-
+|1980–1989
+{{WDL|129|75|29|25}}
+|[[South Korea national football team results (1980–1989)|Matches]]
+|-
+|1990–1999
+{{WDL|151|70|45|36}}
+|[[South Korea national football team results (1990–1999)|Matches]]
+|-
+|2000–2009
+{{WDL|171|76|56|39}}
+|[[South Korea national football team results (2000–2009)|Matches]]
+|-
+|2010–2019
+{{WDL|154|81|31|42}}
+|[[South Korea national football team results (2010–2019)|Matches]]
+|-
+|2020–present
+{{WDL|79|46|17|16}}
+|[[South Korea national football team results (2020–present)|Matches]]
+|-
+!Total
+{{WDLtot|1008|545|246|217}}
+!—
+|}
+
+==Coaching staff==
+{{Main|List of South Korea national football team managers}}
+{{updated|28 June 2026}}<ref>{{cite web |url=https://www.kfa.or.kr/layer_popup/popup_live.php?act=news_tv_detail&idx=26509&div_code=news&check_url=bGF5ZXI=&lang=KOR|script-title=ko:축구 국가대표팀 외국인 코칭스태프 선임|trans-title=Appointment of foreign coaching staff for the national football team |language=ko |publisher=KFA|date=August 21, 2024|access-date=August 21, 2024}}</ref><ref>{{cite web |url=https://www.kfa.or.kr/layer_popup/popup_live.php?act=news_tv_detail&idx=26492&div_code=news&check_url=bGF5ZXI=&lang=KOR|script-title=ko:대표팀 국내 코치진 발표 - 박건하, 김동진, 김진규 선임|trans-title=Announcement of the national team's domestic coaches - Appointment of Park Kun-ha, Kim Dong-jin, and Kim Jin-kyu |language=ko |publisher=KFA |date=August 16, 2024|access-date=August 21, 2024}}</ref><ref>{{cite web |url=https://www.kfa.or.kr/layer_popup/popup_live.php?act=news_tv_detail&idx=27306&div_code=news&check_url=bGF5ZXI=&lang=KOR|script-title=ko:2026 북중미 월드컵 본선 대비 축구대표팀 코칭스태프 개편|trans-title=2026 Football North and Central America Finals National Team Coaching Staff Reorganization |language=ko |publisher=KFA |date=July 24, 2025|access-date=July 24, 2025}}</ref>
+
+{|class="wikitable"
+|+ Current coaching staff
+|-
+!Position
+!Coach
+|-
+|Head coach
+|''Vacant''
+|-
+|Assistant coach
+|{{flagicon|POR}} João Aroso
+|-
+|Tactical coach
+|{{flagicon|POR}} Tiago Maia
+|-
+|Coaches
+|{{flagicon|KOR}} [[Kim Dong-jin]]<hr />{{flagicon|KOR}} [[Kim Jin-kyu]]
+|-
+|Goalkeeping coach
+|{{flagicon|POR}} [[Pedro Roma]]
+|-
+|Fitness coaches
+|{{flagicon|KOR}} Lee Jae-hong<hr />{{flagicon|POR}} Nuno Matias
+|}{{clear}}
+
+==Players==
+===Current squad===
+The following 26 players were called up to the [[2026 FIFA World Cup]].<ref>{{cite web |trans-title=We are announcing the roster for the 🇰🇷South Korea national football team participating in the 2026 FIFA World Cup in North America!|script-title=ko:2026 FIFA 북중미 월드컵에 참가하는 🇰🇷대한민국 축구국가대표팀의 명단을 공개합니다!|url=https://www.instagram.com/p/DYY_nO7D-SP/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA== |publisher=[[Korea Football Association]] |access-date=16 May 2026 |language=ko}}</ref><ref>{{cite web |trans-title=Squad List |script-title=ko:선수 명단 |url=https://www.kfa.or.kr/national/?act=nt_man |publisher=[[Korea Football Association]] |access-date=16 May 2026 |language=ko}}</ref>
+<br>''Caps and goals updated as of 24 June 2026, after the match against [[South Africa national soccer team|South Africa]].''
+
+{{nat fs g start}}
+{{nat fs g player|pos=GK|no=1|name=[[Kim Seung-gyu]]|age={{birth date and age|1990|9|30|df=y}}|caps=90|goals=0|club=[[FC Tokyo]]|clubnat=JPN}}
+{{nat fs g player|pos=GK|no=12|name=[[Song Bum-keun]]|age={{birth date and age|1997|10|15|df=y}}|caps=3|goals=0|club=[[Jeonbuk Hyundai Motors]]|clubnat=KOR}}
+{{nat fs g player|pos=GK|no=21|name=[[Jo Hyeon-woo]]|age={{birth date and age|1991|9|25|df=y}}|caps=48|goals=0|club=[[Ulsan HD FC|Ulsan HD]]|clubnat=KOR}}
+{{nat fs break}}
+{{nat fs g player|pos=DF|no=2|name=[[Lee Han-beom]]|age={{birth date and age|2002|6|17|df=y}}|caps=11|goals=0|club=[[FC Midtjylland|Midtjylland]]|clubnat=DEN}}
+{{nat fs g player|pos=DF|no=3|name=[[Lee Gi-hyuk]]|age={{birth date and age|2000|7|7|df=y}}|caps=6|goals=0|club=[[Gangwon FC]]|clubnat=KOR}}
+{{nat fs g player|pos=DF|no=4|name=[[Kim Min-jae (footballer)|Kim Min-jae]]|age={{birth date and age|1996|11|15|df=y}}|caps=82|goals=4|club=[[FC Bayern Munich|Bayern Munich]]|clubnat=GER}}
+{{nat fs g player|pos=DF|no=5|name=[[Kim Tae-hyeon]]|age={{birth date and age|2000|9|17|df=y}}|caps=7|goals=0|club=[[Kashima Antlers]]|clubnat=JPN}}
+{{nat fs g player|pos=DF|no=13|name=[[Lee Tae-seok]]|age={{birth date and age|2002|7|28|df=y}}|caps=17|goals=1|club=[[FK Austria Wien|Austria Wien]]|clubnat=AUT}}
+{{nat fs g player|pos=DF|no=14|name=[[Cho Wi-je]]|age={{birth date and age|2001|8|25|df=y}}|caps=1|goals=0|club=[[Jeonbuk Hyundai Motors]]|clubnat=KOR}}
+{{nat fs g player|pos=DF|no=15|name=[[Kim Moon-hwan]]|age={{birth date and age|1995|8|1|df=y}}|caps=36|goals=0|club=[[Daejeon Hana Citizen]]|clubnat=KOR}}
+{{nat fs g player|pos=DF|no=16|name=[[Park Jin-seob (footballer, born 1995)|Park Jin-seob]]|age={{birth date and age|1995|10|23|df=y}}|caps=16|goals=1|club=[[Zhejiang Professional F.C.|Zhejiang FC]]|clubnat=CHN}}
+{{nat fs g player|pos=DF|no=22|name=[[Seol Young-woo]]|age={{birth date and age|1998|12|5|df=y}}|caps=37|goals=0|club=[[Red Star Belgrade]]|clubnat=SRB}}
+{{nat fs g player|pos=DF|no=23|name=[[Jens Castrop]]|age={{birth date and age|2003|7|29|df=y}}|caps=8|goals=0|club=[[Borussia Mönchengladbach]]|clubnat=GER}}
+{{nat fs break}}
+{{nat fs g player|pos=MF|no=6|name=[[Hwang In-beom]]|age={{birth date and age|1996|9|20|df=y}}|caps=76|goals=7|club=[[Feyenoord]]|clubnat=NED}}
+{{nat fs g player|pos=MF|no=8|name=[[Paik Seung-ho]]|age={{birth date and age|1997|3|17|df=y}}|caps=30|goals=3|club=[[Birmingham City F.C.|Birmingham City]]|clubnat=ENG}}
+{{nat fs g player|pos=MF|no=10|name=[[Lee Jae-sung]]|age={{birth date and age|1992|8|10|df=y}}|caps=107|goals=15|club=[[1. FSV Mainz 05|Mainz 05]]|clubnat=GER}}
+{{nat fs g player|pos=MF|no=11|name=[[Hwang Hee-chan]]|age={{birth date and age|1996|1|26|df=y}}|caps=82|goals=17|club=[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]|clubnat=ENG}}
+{{nat fs g player|pos=MF|no=17|name=[[Bae Jun-ho]]|age={{birth date and age|2003|8|21|df=y}}|caps=13|goals=2|club=[[Stoke City F.C.|Stoke City]]|clubnat=ENG}}
+{{nat fs g player|pos=MF|no=19|name=[[Lee Kang-in]]|age={{birth date and age|2001|2|19|df=y}}|caps=50|goals=11|club=[[Paris Saint-Germain F.C.|Paris Saint-Germain]]|clubnat=FRA}}
+{{nat fs g player|pos=MF|no=20|name=[[Yang Hyun-jun]]|age={{birth date and age|2002|5|25|df=y}}|caps=10|goals=0|club=[[Celtic F.C.|Celtic]]|clubnat=SCO}}
+{{nat fs g player|pos=MF|no=24|name=[[Kim Jin-gyu (footballer, born 1997)|Kim Jin-gyu]]|age={{birth date and age|1997|2|24|df=y}}|caps=24|goals=3|club=[[Jeonbuk Hyundai Motors]]|clubnat=KOR}}
+{{nat fs g player|pos=MF|no=25|name=[[Eom Ji-sung]]|age={{birth date and age|2002|5|9|df=y}}|caps=11|goals=2|club=[[Swansea City A.F.C.|Swansea City]]|clubnat=WAL}}
+{{nat fs g player|pos=MF|no=26|name=[[Lee Dong-gyeong]]|age={{birth date and age|1997|9|20|df=y}}|caps=18|goals=4|club=[[Ulsan HD FC|Ulsan HD]]|clubnat=KOR}}
+{{nat fs break}}
+{{nat fs g player|pos=FW|no=7|name=[[Son Heung-min]]|other=[[Captain (association football)|captain]]|age={{birth date and age|1992|7|8|df=y}}|caps=147|goals=56|club=[[Los Angeles FC]]|clubnat=USA}}
+{{nat fs g player|pos=FW|no=9|name=[[Cho Gue-sung]]|age={{birth date and age|1998|1|25|df=y}}|caps=46|goals=12|club=[[FC Midtjylland|Midtjylland]]|clubnat=DEN}}
+{{nat fs g player|pos=FW|no=18|name=[[Oh Hyeon-gyu]]|age={{birth date and age|2001|4|12|df=y}}|caps=30|goals=7|club=[[Beşiktaş J.K.|Beşiktaş]]|clubnat=TUR}}
+{{nat fs end}}
+
+===Recent call-ups===
+The following players have also been called up to the South Korea squad within the last twelve months.
+
+{{nat fs r start}}
+{{nat fs r player|pos=GK|no=|name=[[Yun Ki-wook]]|age={{birth date and age|2006|10|10|df=y}}|caps=0|goals=0|club=[[FC Seoul]]|clubnat=KOR|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs break}}
+{{nat fs r player|pos=DF|no=|name=[[Cho Yu-min]]|age={{birth date and age|1996|11|17|df=y}}|caps=19|goals=0|club=[[Sharjah FC|Sharjah]]|clubnat=UAE|latest=[[2026 FIFA World Cup]] <sup>INJ</sup>}}
+{{nat fs r player|pos=DF|no=|name=[[Kim Ju-sung]]|age={{birth date and age|2000|12|12|df=y}}|caps=8|goals=1|club=[[Sanfrecce Hiroshima]]|clubnat=JPN|latest=v. {{fb|AUT}}, 31 March 2026}}
+{{nat fs r player|pos=DF|no=|name=[[Lee Myung-jae]]|age={{birth date and age|1993|11|4|df=y}}|caps=10|goals=0|club=[[Daejeon Hana Citizen]]|clubnat=KOR|latest=v. {{fb|GHA}}, 18 November 2025}}
+{{nat fs r player|pos=DF|no=|name=[[Jeong Sang-bin]]|age={{birth date and age|2002|4|1|df=y}}|caps=3|goals=1|club=[[St. Louis City SC|St. Louis City]]|clubnat=USA|latest=v. {{fb|PAR}}, 14 October 2025}}
+{{nat fs r player|pos=DF|no=|name=[[Kim Ji-soo (footballer)|Kim Ji-soo]]|age={{birth date and age|2004|12|24|df=y}}|caps=0|goals=0|club=[[Brentford F.C.|Brentford]]|clubnat=ENG|latest=v. {{fb|PAR}}, 14 October 2025}}
+{{nat fs r player|pos=DF|no=|name=[[Byeon Jun-soo]]|age={{birth date and age|2001|11|30|df=y}}|caps=1|goals=0|club=[[Gimcheon Sangmu FC|Gimcheon Sangmu]]|clubnat=KOR|latest=v. {{fb|MEX}}, 9 September 2025}}
+{{nat fs break}}
+{{nat fs r player|pos=MF|no=|name=[[Kang Sang-yoon]]|age={{birth date and age|2004|5|31|df=y}}|caps=3|goals=1|club=[[Jeonbuk Hyundai Motors]]|clubnat=KOR|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|pos=MF|no=|name=[[Hong Hyun-seok]]|age={{birth date and age|1999|6|16|df=y}}|caps=16|goals=0|club=[[1. FSV Mainz 05|Mainz 05]]|clubnat=GER|latest=v. {{fb|AUT}}, 31 March 2026}}
+{{nat fs r player|pos=MF|no=|name=[[Kwon Hyeok-kyu]]|age={{birth date and age|2001|3|13|df=y}}|caps=2|goals=0|club=[[Karlsruher SC]]|clubnat=GER|latest=v. {{fb|AUT}}, 31 March 2026}}
+{{nat fs r player|pos=MF|no=|name=[[Won Du-jae]]|age={{birth date and age|1997|11|18|df=y}}|caps=11|goals=0|club=[[Shimizu S-Pulse]]|clubnat=JPN|latest=v. {{fb|GHA}}, 18 November 2025}}
+{{nat fs r player|pos=MF|no=|name=[[Seo Min-woo (footballer)|Seo Min-woo]]|age={{birth date and age|1998|3|12|df=y}}|caps=4|goals=0|club=[[Gangwon FC]]|clubnat=KOR|latest=v. {{fb|GHA}}, 18 November 2025}}
+{{nat fs r player|pos=MF|no=|name=[[Yang Min-hyeok]]|age={{birth date and age|2006|4|16|df=y}}|caps=2|goals=0|club=[[Tottenham Hotspur F.C.|Tottenham Hotspur]]|clubnat=ENG|latest=v. {{fb|GHA}}, 18 November 2025}}
+{{nat fs r player|pos=MF|no=|name=[[Park Yong-woo (footballer)|Park Yong-woo]]|age={{birth date and age|1993|9|10|df=y}}|caps=24|goals=0|club=[[Free agent|''Unattached'']]|clubnat=|latest=v. {{fb|MEX}}, 9 September 2025}}
+{{nat fs break}}
+{{nat fs r player|pos=FW|no=|name=[[Oh Se-hun (footballer)|Oh Se-hun]]|age={{birth date and age|1999|1|15|df=y}}|caps=10|goals=2|club=[[Shimizu S-Pulse]]|clubnat=JPN|latest=v. {{fb|MEX}}, 9 September 2025}}
+{{nat fs break}}
+;Notes
+*<sup>INJ</sup> = Withdrew due to injury
+*<sup>PRE</sup> = Preliminary squad
+{{nat fs end}}
+
+===Hall of Fame===
+{{see|KFA Awards}}
+
+The following players were inducted into the official Hall of Fame.
+{{#lst:KFA Awards|hof}}
+
+== Individual records ==
+<noinclude>{{main|South Korea national football team records and statistics}}</noinclude>
+{{updated|24 June 2026}}<ref name="RSSSF">{{cite web |last1=Mamrud |first1=Roberto |title=South Korea – Record International Players |url=https://www.rsssf.org/miscellaneous/skor-recintlp.html |website=[[RSSSF]] |access-date=25 February 2021 |archive-date=10 July 2022 |archive-url=https://web.archive.org/web/20220710163228/https://www.rsssf.org/miscellaneous/skor-recintlp.html |url-status=live }}</ref>
+Players in '''bold''' are still active with South Korea.
+
+=== Most appearances ===
+[[File:BFA 2023 -2 Heung-Min Son (cropped).jpg|thumb|200px|[[Son Heung-min]] is South Korea's most-capped player with 147 appearances.]]
+
+{| class="wikitable sortable" style="text-align:center;"
+!width="30"|Rank
+!width="150"|Player
+!width="50"|Caps
+!width="50"|Goals
+!width="100"|Career
+|-
+|-
+|1
+|align="left"|'''[[Son Heung-min]]'''
+|147
+|56
+|2010–present
+|-
+|rowspan="2"|2
+|align="left"|[[Cha Bum-kun]]
+|136
+|58
+|{{nowrap|1972–1986}}
+|-
+|align="left"|[[Hong Myung-bo]]
+|136
+|10
+|1990–2002
+|-
+|4
+|align="left"|[[Lee Woon-jae]]
+|133
+|0
+|1994–2010
+|-
+|5
+|align="left"|[[Lee Young-pyo]]
+|127
+|5
+|1999–2011
+|-
+|6
+|align="left"|[[Kim Ho-kon]]
+|124
+|5
+|1971–1979
+|-
+|7
+|align="left"|[[Yoo Sang-chul]]
+|122
+|18
+|1994–2005
+|-
+|8
+|align="left"|[[Cho Young-jeung]]
+|113
+|1
+|1975–1986
+|-
+|9
+|align="left"|[[Kim Young-gwon]]
+|112
+|7
+|2010–2024
+|-
+|10
+|align="left"|[[Ki Sung-yueng]]
+|110
+|10
+|2008–2019
+|}
+
+=== Top goalscorers ===
+[[File:Cha Bum Kun.jpg|thumb|200px|[[Cha Bum-kun]] is South Korea's top goalscorer with 58 goals.]]
+
+{| class="wikitable sortable" style="text-align:center;"
+!width="30"|Rank
+!width="150"|Player
+!width="50"|Goals
+!width="50"|Caps
+!width="50"|Ratio
+!width="100"|Career
+|-
+|1
+|align="left"|[[Cha Bum-kun]]
+|58
+|136
+|{{#expr:58/136 round 2}}
+|{{nowrap|1972–1986}}
+|-
+|2
+|align="left"|'''[[Son Heung-min]]'''
+|56
+|147
+|{{#expr:56/147 round 2}}
+|2010–present
+|-
+|3
+|align="left"|[[Hwang Sun-hong]]
+|50
+|103
+|{{#expr:50/103 round 2}}
+|1988–2002
+|-
+|4
+|align="left"|[[Park Lee-chun]]
+|36
+|89
+|{{#expr:36/89 round 2}}
+|1969–1974
+|-
+|rowspan="2"|5
+|align="left"|[[Kim Jae-han]]
+|33
+|57
+|{{#expr:33/57 round 2}}
+|1972–1979
+|-
+|align="left"|[[Lee Dong-gook]]
+|33
+|105
+|{{#expr:33/105 round 2}}
+|1998–2017
+|-
+|7
+|align="left"|[[Choi Soon-ho]]
+|30
+|103
+|{{#expr:30/103 round 2}}
+|1980–1991
+|-
+|rowspan="2"|8
+|align="left"|[[Kim Do-hoon]]
+|29
+|72
+|{{#expr:29/72 round 2}}
+|1994–2003
+|-
+|align="left"|[[Huh Jung-moo]]
+|29
+|84
+|{{#expr:29/84 round 2}}
+|1974–1986
+|-
+|rowspan="3"|10
+|align="left"|[[Choi Yong-soo]]
+|27
+|67
+|{{#expr:27/67 round 2}}
+|1995–2003
+|-
+|align="left"|[[Lee Tae-ho]]
+|27
+|72
+|{{#expr:27/72 round 2}}
+|1980–1991
+|-
+|align="left"|[[Kim Jin-kook]]
+|27
+|94
+|{{#expr:27/94 round 2}}
+|1972–1978
+|}
+
+==Competitive record==
+{{Color box|gold|border=darkgray}} Champions{{0}}
+{{Color box|silver|border=darkgray}} Runners-up{{0}}
+{{Color box|#cc9966|border=darkgray}} Third place{{0}}
+{{legend-inline|white|border=3px solid red;}}Tournament played on home soil
+
+===FIFA World Cup===
+{{main|South Korea at the FIFA World Cup}}
+{{trim|{{#section-h:South Korea at the FIFA World Cup|Competitive record}}}}
+
+===Summer Olympics===
+:''Football at the Summer Olympics has been an under-23 tournament since 1992.''
+
+{| class="wikitable" style="text-align: center;"
+|-
+! colspan="9" |[[Football at the Summer Olympics|Summer Olympics]] record
+! style="width:1" rowspan="17"|
+!colspan=6|Qualification record<ref>{{cite web |url=https://www.rsssf.org/tableso/olympics.html |title=Football Tournament of the Olympic Games – Overview |website=[[RSSSF]] |date=February 12, 2020 |access-date=August 24, 2020 |archive-date=July 11, 2022 |archive-url=https://web.archive.org/web/20220711203909/https://www.rsssf.org/tableso/olympics.html |url-status=live }}</ref>
+|-
+! width="180" |Year
+! width="120" |Round
+! width="30" |{{Tooltip|Pld|Matches played}}
+! width="30" |{{Tooltip|W|Matches won}}
+! width="30" |{{Tooltip|D|Matches drawn, including knockout matches decided via penalty shoot-out}}
+! width="30" |{{Tooltip|L|Matches lost}}
+! width="30" |{{Tooltip|GF|Goals for}}
+! width="30" |{{Tooltip|GA|Goals against}}
+! width="60" |Squad
+! width="30" |{{Tooltip|Pld|Matches played}}
+! width="30" |{{Tooltip|W|Matches won}}
+! width="30" |{{Tooltip|D|Matches drawn}}
+! width="30" |{{Tooltip|L|Matches lost}}
+! width="30" |{{Tooltip|GF|Goals for}}
+! width="30" |{{Tooltip|GA|Goals against}}
+|-
+|[[Football at the 1900 Summer Olympics|1900]] to [[Football at the 1908 Summer Olympics|1908]]
+| colspan="8" |''Part of the [[Korean Empire]]''
+|colspan="6"|''Part of the [[Korean Empire]]''
+|-
+|[[Football at the 1912 Summer Olympics|1912]] to [[Football at the 1936 Summer Olympics|1936]]
+| colspan="8" |''[[Korea under Japanese rule|Part]] of [[Japan national football team|Japan]]''
+|colspan="6"|''[[Korea under Japanese rule|Part]] of [[Japan national football team|Japan]]''
+|-
+|{{flagicon|United Kingdom}} [[Football at the 1948 Summer Olympics|1948]]||Quarter-finals||2||1||0||1||5||15
+|[[Football at the 1948 Summer Olympics - Men's team squads#South Korea|Squad]]
+|colspan=6|''Directly qualified''
+|-
+|{{flagicon|FIN}} [[Football at the 1952 Summer Olympics|1952]]|| colspan="8" |''Did not enter''
+|colspan=6|''Did not enter''
+|-
+|{{flagicon|Australia}} [[Association football at the 1956 Summer Olympics|1956]]|| colspan="8" rowspan="2" |''Did not qualify''
+|2||1||0||1||2||2
+|-
+|{{flagicon|ITA}} [[Football at the 1960 Summer Olympics|1960]]
+|4||2||0||2||4||4
+|-
+|{{flagicon|JPN|1870}} [[Football at the 1964 Summer Olympics|1964]]||Group stage||3{{efn|Includes one unofficial match against [[Brazil national under-23 football team|Brazil Olympic]].}}||0||0||3||1||20
+|[[Football at the 1964 Summer Olympics - Men's team squads#South Korea|Squad]]
+|4||2||1||1||7||4
+|-
+|{{flagicon|Mexico}} [[Football at the 1968 Summer Olympics|1968]]|| colspan="8" rowspan="5" |''Did not qualify''
+|5||4||1||0||17||5
+|-
+|{{flagicon|West Germany}} [[Football at the 1972 Summer Olympics|1972]]
+|4||3||0||1||16||2
+|-
+|{{flagicon|Canada}} [[Football at the 1976 Summer Olympics|1976]]
+|6||3||2||1||10||5
+|-
+|{{flagicon|URS|1955}} [[Football at the 1980 Summer Olympics|1980]]
+|6||4||0||2||16||6
+|-
+|{{flagicon|US|1960}} [[Football at the 1984 Summer Olympics|1984]]
+|11||5||3||3||19||11
+|-
+|style="border: 3px solid red" | {{flagicon|KOR|1984}} [[Football at the 1988 Summer Olympics|1988]]||Group stage||3{{efn|Includes two unofficial matches against the [[Soviet Union Olympic football team|Soviet Union Olympic]] and Argentina Olympic.}}||0||2||1||1||2
+|[[Football at the 1988 Summer Olympics - Men's team squads#South Korea|Squad]]
+|colspan=6|''Qualified as hosts''
+|-
+|[[Football at the 1992 Summer Olympics|1992]] to present
+| colspan="8" |''Entered with the [[South Korea national under-23 football team#Summer Olympics|under-23 team]]''
+|colspan=6|''Entered with the [[South Korea national under-23 football team#Summer Olympics|under-23 team]]''
+|-
+!Total||{{Tooltip|Quarter-finals|Highest finish}}||8||1||2||5||7||37
+!{{Tooltip|3/11|Number of tournaments qualified for}}{{efn|Statistics since 1947, when South Korea became a member of the [[International Olympic Committee]].}}
+!42||24||7||11||91||39
+|}
+{{notelist}}
+
+===AFC Asian Cup===
+{{main|South Korea at the AFC Asian Cup}}
+{{trim|{{#section-h:South Korea at the AFC Asian Cup|Competitive record}}}}
+
+===Asian Games===
+:''Football at the Asian Games has been an under-23 tournament since 2002.''
+
+{| class="wikitable" style="text-align: center;"
+|-
+! colspan="9" |[[Football at the Asian Games|Asian Games]] record
+|-
+! width="180" |Year
+! width="120" |Round
+! width="30" |{{Tooltip|Pld|Matches played}}
+! width="30" |{{Tooltip|W|Matches won}}
+! width="30" |{{Tooltip|D|Matches drawn, including knockout matches decided via penalty shoot-out}}
+! width="30" |{{Tooltip|L|Matches lost}}
+! width="30" |{{Tooltip|GF|Goals for}}
+! width="30" |{{Tooltip|GA|Goals against}}
+! width="60" |Squad
+|-
+|{{flagicon|India}} [[Football at the 1951 Asian Games|1951]]|| colspan="8" |''Did not enter''
+|-
+|{{flagicon|Philippines|1936}} [[Football at the 1954 Asian Games|1954]]||bgcolor=silver|Silver medalists||4||1||2||1||15||12
+|[[Football at the 1954 Asian Games – Squads#South Korea|Squad]]
+|-
+|{{flagicon|JPN|1947}} [[Football at the 1958 Asian Games|1958]]||bgcolor=silver|Silver medalists||5||4||0||1||15||6
+|[[Football at the 1958 Asian Games – Squads#South Korea|Squad]]
+|-
+|{{flagicon|Indonesia}} [[Football at the 1962 Asian Games|1962]]||bgcolor=silver|Silver medalists||5||4||0||1||9||5
+|[[Football at the 1962 Asian Games – Squads#South Korea|Squad]]
+|-
+|[[File:Flag of Thailand (TIS 982 draft standard).svg|23px|border|link=Thailand]] [[Football at the 1966 Asian Games|1966]]||First round||2||0||0||2||0||4
+|[[Football at the 1966 Asian Games – Squads#South Korea|Squad]]
+|-
+|[[File:Flag of Thailand (TIS 982 draft standard).svg|23px|border|link=Thailand]] [[Football at the 1970 Asian Games|1970]]||bgcolor=gold|Gold medalists||6||3||2||1||5||3
+|[[Football at the 1970 Asian Games – Squads#South Korea|Squad]]
+|-
+|{{Flagicon|Iran|1964}} [[Football at the 1974 Asian Games|1974]]||Second round||5||1||1||3||4||10
+|[[Football at the 1974 Asian Games – Squads#South Korea|Squad]]
+|-
+|[[File:Flag of Thailand (TIS 982 draft standard).svg|23px|border|link=Thailand]] [[Football at the 1978 Asian Games|1978]]||bgcolor=gold|Gold medalists||7||6||1||0||15||3
+|[[Football at the 1978 Asian Games – Squads#South Korea|Squad]]
+|-
+|{{flagicon|India}} [[Football at the 1982 Asian Games|1982]]||Group stage||3||1||0||2||4||3
+|[[Football at the 1982 Asian Games – Squads#South Korea|Squad]]
+|-
+|style="border: 3px solid red"| {{flagicon|KOR|1984}} [[Football at the 1986 Asian Games|1986]]||bgcolor=gold|Gold medalists||6||4||2||0||14||3
+|[[Football at the 1986 Asian Games – Squads#South Korea|Squad]]
+|-
+|{{flagicon|CHN}} [[Football at the 1990 Asian Games|1990]]||bgcolor="#cc9966"|Bronze medalists||6||5||0||1||18||1
+|[[Football at the 1990 Asian Games – Squads#South Korea|Squad]]
+|-
+|{{flagicon|JPN|1947}} [[Football at the 1994 Asian Games|1994]]||Fourth place||6||3||0||3||17||7
+|[[Football at the 1994 Asian Games – Squads#South Korea|Squad]]
+|-
+|[[File:Flag of Thailand (TIS 982 draft standard).svg|23px|border|link=Thailand]] [[Football at the 1998 Asian Games|1998]]||Quarter-finals||6||4||0||2||12||6
+|[[Football at the 1998 Asian Games – Squads#South Korea|Squad]]
+|-
+|[[Football at the 2002 Asian Games|2002]] to present
+| colspan="8" |''Entered with the [[South Korea national under-23 football team#Asian Games|under-23 team]]''
+|-
+!Total!!{{Tooltip|Gold medalists|Highest finish}}!!61!!36!!8!!17!!128!!63!!{{Tooltip|12/13|Number of tournaments qualified for}}
+|}
+
+===EAFF Championship===
+{| class="wikitable" style="text-align: center;"
+|-
+! colspan="9" |[[EAFF E-1 Football Championship|EAFF Championship]] record
+|-
+! width="180" |Year
+! width="120" |Round
+! width="30" |{{Tooltip|Pld|Matches played}}
+! width="30" |{{Tooltip|W|Matches won}}
+! width="30" |{{Tooltip|D|Matches drawn, including knockout matches decided via penalty shoot-out}}
+! width="30" |{{Tooltip|L|Matches lost}}
+! width="30" |{{Tooltip|GF|Goals for}}
+! width="30" |{{Tooltip|GA|Goals against}}
+! width="60" |Squad
+|-
+|{{flagicon|Japan}} [[2003 East Asian Cup|2003]]||style="background:gold;"|Champions||3||2||1||0||4||1
+|[[2003 East Asian Football Championship Final squads#South Korea|Squad]]
+|-
+|style="border: 3px solid red"| {{flagicon|KOR|1997}} [[2005 East Asian Cup|2005]]||Fourth place||3||0||2||1||1||2
+|[[2005 East Asian Football Championship Final squads#South Korea|Squad]]
+|-
+|{{flagicon|China}} [[2008 East Asian Cup|2008]]||style="background:gold;"|Champions||3||1||2||0||5||4
+|[[2008 East Asian Football Championship Final squads#South Korea|Squad]]
+|-
+|{{flagicon|Japan}} [[East Asian Football Championship 2010|2010]]||style="background:silver;"|Runners-up||3||2||0||1||8||4
+|[[2010 East Asian Football Championship Final squads#South Korea|Squad]]
+|-
+|style="border: 3px solid red"|{{flagicon|South Korea}} [[2013 EAFF East Asian Cup|2013]]||style="background:#c96;"|Third place||3||0||2||1||1||2
+|[[2013 EAFF East Asian Cup Final squads#South Korea|Squad]]
+|-
+|{{flagicon|China}} [[2015 EAFF East Asian Cup|2015]]||style="background:gold;"|Champions||3||1||2||0||3||1
+|[[2015 EAFF East Asian Cup Final squads#South Korea|Squad]]
+|-
+|{{flagicon|Japan}} [[2017 EAFF East Asian Cup|2017]]||style="background:gold;"|Champions||3||2||1||0||7||3
+|[[2017 EAFF East Asian Cup Final squads#South Korea|Squad]]
+|-
+|style="border: 3px solid red"|{{flagicon|South Korea}} [[2019 EAFF E-1 Football Championship|2019]]||style="background:gold;"|Champions||3||3||0||0||4||0
+|[[2019 EAFF E-1 Football Championship Final squads#South Korea|Squad]]
+|-
+|{{flagicon|Japan}} [[2022 EAFF E-1 Football Championship|2022]]||style="background:silver;"|Runners-up||3||2||0||1||6||3
+|[[2022 EAFF E-1 Football Championship Final squads#South Korea|Squad]]
+|-
+|style="border: 3px solid red"|{{flagicon|South Korea}} [[2025 EAFF E-1 Football Championship|2025]]||style="background:silver;"|Runners-up||3||2||0||1||5||1
+|[[2025 EAFF E-1 Football Championship Final squads#South Korea|Squad]]
+|-
+!Total!!{{Tooltip|Champions|Highest finish}}!!30!!15!!10!!5!!44!!21!!{{Tooltip|10/10|Number of tournaments qualified for}}
+|}
+
+===Other competitions===
+{| class="wikitable" style="text-align: center;"
+|-
+! width="360" |Competition
+! width="120" |Round
+! width="30" |{{Tooltip|Pld|Matches played}}
+! width="30" |{{Tooltip|W|Matches won}}
+! width="30" |{{Tooltip|D|Matches drawn, including knockout matches decided via penalty shoot-out}}
+! width="30" |{{Tooltip|L|Matches lost}}
+! width="30" |{{Tooltip|GF|Goals for}}
+! width="30" |{{Tooltip|GA|Goals against}}
+! width="60" |Squad
+|-
+|{{flagicon|United States}} [[2000 CONCACAF Gold Cup]]
+|Group stage||2||0||2||0||2||2
+|[[2000 CONCACAF Gold Cup squads#South Korea|Squad]]
+|-
+|style="border: 3px solid red"| {{flagicon|KOR|1997}} {{flagicon|JPN}} [[2001 FIFA Confederations Cup]]
+|Group stage||3||2||0||1||3||6
+|[[2001 FIFA Confederations Cup squads#South Korea|Squad]]
+|-
+|{{flagicon|United States}} [[2002 CONCACAF Gold Cup]]
+|Fourth place||5||0||2||3||3||7
+|[[2002 CONCACAF Gold Cup squads#South Korea|Squad]]
+|}
+
+==Head-to-head record==
+The following table shows South Korea's head-to-head record, correct as of 24 June 2026.<ref name="alltimerecord">{{cite web |url=https://www.kfa.or.kr/archive/national_record.php |title=All-time record per countries |access-date=18 November 2025|publisher=[[Korea Football Association]] |language=ko |archive-date=24 June 2021 |archive-url=https://web.archive.org/web/20210624195650/https://www.kfa.or.kr/archive/national_record.php |url-status=live }}</ref>
+
+{| class="wikitable sortable collapsible collapsed" style="text-align: center; font-size: 100%;"
+! Team
+!{{tooltip|Pld|Matches played}}
+!{{tooltip|W|Matches won}}
+!{{tooltip|D|Matches drawn, including knockout matches decided via penalty shoot-out}}
+!{{tooltip|L|Matches lost}}
+!{{tooltip|GF|Goals for}}
+!{{tooltip|GA|Goals against}}
+!{{tooltip|GD|Goal difference}}
+!{{tooltip|Win %|Win percentage}}
+|-
+|align=left|{{fb|AFG|2013}}
+{{WDL|1|1|0|0|for=8|against=2|diff=yes}}
+|-
+|align=left|{{fb|ALG}}
+{{WDL|2|1|0|1|for=4|against=4|diff=yes}}
+|-
+|align=left|{{fb|ANG}}
+{{WDL|1|1|0|0|for=1|against=0|diff=yes}}
+|-
+|align=left|{{fb|ARG}}
+{{WDL|3|0|0|3|for=2|against=8|diff=yes}}
+|-
+|align=left|{{fb|AUS}} <small>([[Australia–South Korea football rivalry|list]])</small>
+{{WDL|29|9|11|9|for=30|against=29|diff=yes}}
+|-
+|align=left|{{fb|AUT}}
+{{WDL|1|0|0|1|for=0|against=1|diff=yes}}
+|-
+|align=left|{{fb|BHR}}
+{{WDL|17|12|4|1|for=40|against=12|diff=yes}}
+|-
+|align=left|{{fb|BAN}}
+{{WDL|2|2|0|0|for=13|against=0|diff=yes}}
+|-
+|align=left|{{fb|BLR}}
+{{WDL|1|0|0|1|for=0|against=1|diff=yes}}
+|-
+|align=left|{{fb|BEL}}
+{{WDL|4|0|1|3|for=2|against=6|diff=yes}}
+|-
+|align=left|{{fb|BOL}}
+{{WDL|4|2|2|0|for=3|against=0|diff=yes}}
+|-
+|align=left|{{fb|BIH}}
+{{WDL|2|1|0|1|for=3|against=3|diff=yes}}
+|-
+|align=left|{{fb|BRA}}
+{{WDL|9|1|0|8|for=6|against=25|diff=yes}}
+|-
+|align=left|{{fb|BRU}}
+{{WDL|1|1|0|0|for=3|against=0|diff=yes}}
+|-
+|align=left|{{fb|BUL}}
+{{WDL|2|0|1|1|for=1|against=2|diff=yes}}
+|-
+|align=left|{{fb|BFA}}
+{{WDL|1|1|0|0|for=1|against=0|diff=yes}}
+|-
+|align=left|{{fb|CAM}}
+{{WDL|7|6|0|1|for=22|against=4|diff=yes}}
+|-
+|align=left|{{fb|CMR}}
+{{WDL|5|3|2|0|for=10|against=3|diff=yes}}
+|-
+|align=left|{{fb|CAN}}
+{{WDL|5|2|1|2|for=5|against=4|diff=yes}}
+|-
+|align=left|{{fb|CHI}}
+{{WDL|3|1|1|1|for=2|against=1|diff=yes}}
+|-
+|align=left|{{fb|CHN}} <small>([[China–South Korea football rivalry|list]])</small>
+{{WDL|39|24|13|2|for=59|against=26|diff=yes}}
+|-
+|align=left|{{fb|TPE}}
+{{WDL|21|14|1|6|for=50|against=19|diff=yes}}
+|-
+|align=left|{{fb|COL}}
+{{WDL|8|4|3|1|for=14|against=9|diff=yes}}
+|-
+|align=left|{{fb|CRC}}
+{{WDL|10|4|3|3|for=13|against=12|diff=yes}}
+|-
+|align=left|{{fb|CRO}}
+{{WDL|7|2|2|3|for=7|against=11|diff=yes}}
+|-
+|align=left|{{fb|CUB}}
+{{WDL|1|0|1|0|for=0|against=0|diff=yes}}
+|-
+|align=left|{{fb|CZE}}{{efn|Including [[Czechoslovakia national football team|Czechoslovakia]].}}
+{{WDL|6|2|2|2|for=7|against=15|diff=yes}}
+|-
+|align=left|{{fb|DEN}}
+{{WDL|2|0|1|1|for=1|against=3|diff=yes}}
+|-
+|align=left|{{fb|ECU}}
+{{WDL|2|1|0|1|for=3|against=2|diff=yes}}
+|-
+|align=left|{{fb|EGY}}
+{{WDL|18|6|7|5|for=18|against=21|diff=yes}}
+|-
+|align=left|{{fb|El Salvador}}
+{{WDL|2|1|1|0|for=2|against=1|diff=yes}}
+|-
+|align=left|{{fb|ENG}}
+{{WDL|1|0|1|0|for=1|against=1|diff=yes}}
+|-
+|align=left|{{fb|FIN}}
+{{WDL|3|3|0|0|for=5|against=0|diff=yes}}
+|-
+|align=left|{{fb|FRA}}
+{{WDL|3|0|1|2|for=3|against=9|diff=yes}}
+|-
+|align=left|{{fb|GEO}}
+{{WDL|1|0|1|0|for=2|against=2|diff=yes}}
+|-
+|align=left|{{fb|GER}}
+{{WDL|4|2|0|2|for=7|against=5|diff=yes}}
+|-
+|align=left|{{fb|GHA}}
+{{WDL|8|4|0|4|for=11|against=14|diff=yes}}
+|-
+|align=left|{{fb|GRE}}
+{{WDL|4|3|1|0|for=6|against=1|diff=yes}}
+|-
+|align=left|{{fb|GUM}}
+{{WDL|1|1|0|0|for=9|against=0|diff=yes}}
+|-
+|align=left|{{fb|GUA}}
+{{WDL|3|1|1|1|for=4|against=3|diff=yes}}
+|-
+|align=left|{{fb|HAI}}
+{{WDL|1|1|0|0|for=4|against=1|diff=yes}}
+|-
+|align=left|{{fb|HON}}
+{{WDL|3|3|0|0|for=9|against=0|diff=yes}}
+|-
+|align=left|{{fb|HKG}}
+{{WDL|30|23|5|2|for=71|against=21|diff=yes}}
+|-
+|align=left|{{fb|HUN}}
+{{WDL|2|0|0|2|for=0|against=10|diff=yes}}
+|-
+|align=left|{{fb|ISL}}
+{{WDL|2|2|0|0|for=6|against=1|diff=yes}}
+|-
+|align=left|{{fb|IND}}
+{{WDL|19|14|2|3|for=48|against=12|diff=yes}}
+|-
+|align=left|{{fb|IDN}}
+{{WDL|36|30|4|2|for=84|against=19|diff=yes}}
+|-
+|align=left|{{fb|IRN}}
+{{WDL|33|10|10|13|for=36|against=34|diff=yes}}
+|-
+|align=left|{{fb|IRQ}}
+{{WDL|25|11|12|2|for=32|against=16|diff=yes}}
+|-
+|align=left|{{fb|ISR}}
+{{WDL|11|5|4|2|for=17|against=12|diff=yes}}
+|-
+|align=left|{{fb|ITA}}
+{{WDL|2|1|0|1|for=4|against=4|diff=yes}}
+|-
+|align=left|{{fb|CIV}}
+{{WDL|2|1|0|1|for=2|against=4|diff=yes}}
+|-
+|align=left|{{fb|JAM}}
+{{WDL|4|2|2|0|for=7|against=3|diff=yes}}
+|-
+|align=left|{{fb|JPN}} <small>([[Japan–South Korea football rivalry|list]])</small>
+{{WDL|82|42|23|17|for=124|against=77|diff=yes}}
+|-
+|align=left|{{fb|JOR}}
+{{WDL|9|4|4|1|for=10|against=7|diff=yes}}
+|-
+|align=left|{{fb|KAZ}}
+{{WDL|2|1|1|0|for=4|against=1|diff=yes}}
+|-
+|align=left|{{fb|KUW}}
+{{WDL|26|14|4|8|for=37|against=21|diff=yes}}
+|-
+|align=left|{{fb|Kyrgyzstan}}
+{{WDL|1|1|0|0|for=1|against=0|diff=yes}}
+|-
+|align=left|{{fb|LAO}}
+{{WDL|5|5|0|0|for=28|against=0|diff=yes}}
+|-
+|align=left|{{fb|LVA}}
+{{WDL|2|2|0|0|for=2|against=0|diff=yes}}
+|-
+|align=left|{{fb|LIB}}
+{{WDL|16|12|3|1|for=28|against=5|diff=yes}}
+|-
+|align=left|{{fb|LBY}}
+{{WDL|1|1|0|0|for=4|against=0|diff=yes}}
+|-
+|align=left|{{fb|MAC}}
+{{WDL|3|3|0|0|for=11|against=2|diff=yes}}
+|-
+|align=left|{{fb|MAS}}
+{{WDL|47|26|13|8|for=81|against=45|diff=yes}}
+|-
+|align=left|{{fb|MDV}}
+{{WDL|2|1|1|0|for=2|against=0|diff=yes}}
+|-
+|align=left|{{fb|MLI}}
+{{WDL|1|1|0|0|for=3|against=1|diff=yes}}
+|-
+|align=left|{{fb|MLT}}
+{{WDL|2|1|1|0|for=3|against=2|diff=yes}}
+|-
+|align=left|{{fb|MEX}}
+{{WDL|16|4|3|9|for=20|against=32|diff=yes}}
+|-
+|align=left|{{fb|MDA}}
+{{WDL|2|2|0|0|for=5|against=0|diff=yes}}
+|-
+|align=left|{{fb|MNG}}
+{{WDL|1|1|0|0|for=6|against=0|diff=yes}}
+|-
+|align=left|{{fb|MAR}}
+{{WDL|2|0|1|1|for=3|against=5|diff=yes}}
+|-
+|align=left|{{fb|MYA}}
+{{WDL|27|15|7|5|for=42|against=15|diff=yes}}
+|-
+|align=left|{{fb|NEP}}
+{{WDL|7|7|0|0|for=53|against=0|diff=yes}}
+|-
+|align=left|{{fb|NED}}
+{{WDL|2|0|0|2|for=0|against=7|diff=yes}}
+|-
+|align=left|{{fb|NZL}}
+{{WDL|7|6|1|0|for=10|against=1|diff=yes}}
+|-
+|align=left|{{fb|NGA}}
+{{WDL|5|3|2|0|for=9|against=6|diff=yes}}
+|-
+|align=left|{{fb|PRK}} <small>([[North Korea–South Korea football rivalry|list]])</small>
+{{WDL|17|7|9|1|for=14|against=6|diff=yes}}
+|-
+|align=left|{{fb|MKD}}
+{{WDL|2|1|1|0|for=4|against=3|diff=yes}}
+|-
+|align=left|{{fb|NIR}}
+{{WDL|1|0|0|1|for=1|against=2|diff=yes}}
+|-
+|align=left|{{fb|NOR}}
+{{WDL|4|1|1|2|for=5|against=6|diff=yes}}
+|-
+|align=left|{{fb|OMA}}
+{{WDL|7|5|1|1|for=14|against=6|diff=yes}}
+|-
+|align=left|{{fb|PAK}}
+{{WDL|2|2|0|0|for=13|against=0|diff=yes}}
+|-
+|align=left|{{fb|PLE}}
+{{WDL|2|0|2|0|for=1|against=1|diff=yes}}
+|-
+|align=left|{{fb|PAN}}
+{{WDL|1|0|1|0|for=2|against=2|diff=yes}}
+|-
+|align=left|{{fb|PAR}}
+{{WDL|8|3|4|1|for=10|against=7|diff=yes}}
+|-
+|align=left|{{fb|PER}}
+{{WDL|3|0|1|2|for=0|against=5|diff=yes}}
+|-
+|align=left|{{fb|PHI}}
+{{WDL|8|8|0|0|for=37|against=0|diff=yes}}
+|-
+|align=left|{{fb|POL}}
+{{WDL|2|1|0|1|for=4|against=3|diff=yes}}
+|-
+|align=left|{{fb|POR}}
+{{WDL|2|2|0|0|for=3|against=1|diff=yes}}
+|-
+|align=left|{{fb|QAT}}
+{{WDL|11|6|2|3|for=19|against=13|diff=yes}}
+|-
+|align=left|{{fb|ROU}}
+{{WDL|1|0|0|1|for=1|against=2|diff=yes}}
+|-
+|align=left|{{fb|RUS}}
+{{WDL|3|0|1|2|for=4|against=7|diff=yes}}
+|-
+|align=left|{{fb|KSA}}
+{{WDL|19|5|9|5|for=20|against=18|diff=yes}}
+|-
+|align=left|{{fb|SCO}}
+{{WDL|1|1|0|0|for=4|against=1|diff=yes}}
+|-
+|align=left|{{fb|SEN}}
+{{WDL|4|1|1|2|for=3|against=4|diff=yes}}
+|-
+|align=left|{{fb|SRB}}
+{{WDL|3|1|1|1|for=3|against=3|diff=yes}}
+|-
+|align=left|{{fb|SCG}}<ref>{{cite web |url=https://www.kfa.or.kr/national/?act=nt_man&position=&s_idx=1619&search_val=2005&cursor=#cursor_location_sub |title=Match results – 2005 |publisher=[[Korea Football Association]] |language=ko |access-date=September 16, 2020 |archive-date=October 18, 2020 |archive-url=https://web.archive.org/web/20201018155743/https://www.kfa.or.kr/national/?act=nt_man&position=&s_idx=1619&search_val=2005&cursor=#cursor_location_sub |url-status=live }}</ref>
+{{WDL|1|1|0|0|for=2|against=0|diff=yes}}
+|-
+|align=left|{{fb|SIN}}
+{{WDL|28|23|3|2|for=97|against=19|diff=yes}}
+|-
+|align=left|{{fb|SVK}}
+{{WDL|1|0|1|0|for=0|against=0|diff=yes}}
+|-
+|align=left|{{fb|RSA}}
+{{WDL|1|0|0|1|for=0|against=1|diff=yes}}
+|-
+|align=left|{{fb|South Yemen}}
+{{WDL|1|1|0|0|for=3|against=0|diff=yes}}
+|-
+|align=left|{{fb|ESP}}
+{{WDL|6|0|2|4|for=5|against=16|diff=yes}}
+|-
+|align=left|{{fb|SRI}}
+{{WDL|3|3|0|0|for=19|against=0|diff=yes}}
+|-
+|align=left|{{fb|SUD}}
+{{WDL|1|1|0|0|for=8|against=0|diff=yes}}
+|-
+|align=left|{{fb|SWE}}
+{{WDL|5|0|2|3|for=3|against=18|diff=yes}}
+|-
+|align=left|{{fb|SUI}}
+{{WDL|2|1|0|1|for=2|against=3|diff=yes}}
+|-
+|align=left|{{fb|SYR}}
+{{WDL|10|6|3|1|for=12|against=5|diff=yes}}
+|-
+|align=left|{{fb|TJK}}
+{{WDL|1|1|0|0|for=4|against=1|diff=yes}}
+|-
+|align=left|{{fb|THA}}
+{{WDL|47|31|8|8|for=96|against=37|diff=yes}}
+|-
+|align=left|{{fb|TOG}}
+{{WDL|1|1|0|0|for=2|against=1|diff=yes}}
+|-
+|align=left|{{fb|TRI}}
+{{WDL|2|1|1|0|for=6|against=1|diff=yes}}
+|-
+|align=left|{{fb|TUN}}
+{{WDL|3|1|1|1|for=4|against=1|diff=yes}}
+|-
+|align=left|{{fb|TUR}}
+{{WDL|7|1|2|4|for=4|against=13|diff=yes}}
+|-
+|align=left|{{fb|TKM}}
+{{WDL|5|4|0|1|for=16|against=4|diff=yes}}
+|-
+|align=left|{{fb|UKR}}
+{{WDL|2|2|0|0|for=3|against=0|diff=yes}}
+|-
+|align=left|{{fb|UAE}}
+{{WDL|21|13|5|3|for=38|against=14|diff=yes}}
+|-
+|align=left|{{fb|USA}}
+{{WDL|12|6|3|3|for=12|against=8|diff=yes}}
+|-
+|align=left|{{fb|URU}}
+{{WDL|10|1|2|7|for=7|against=15|diff=yes}}
+|-
+|align=left|{{fb|UZB}}
+{{WDL|16|11|4|1|for=34|against=14|diff=yes}}
+|-
+|align=left|{{fb|VEN}}
+{{WDL|1|1|0|0|for=3|against=1|diff=yes}}
+|-
+|align=left|{{fb|VIE}}{{efn|Including [[South Vietnam national football team|South Vietnam]].}}
+{{WDL|25|17|6|2|for=66|against=21|diff=yes}}
+|-
+|align=left|{{fb|Wales}}
+{{WDL|1|0|1|0|for=0|against=0|diff=yes}}
+|-
+|align=left|{{fb|Yemen}}{{efn|Including North Yemen.}}
+{{WDL|1|1|0|0|for=6|against=0|diff=yes}}
+|-
+|align=left|{{fb|SFR Yugoslavia}}{{efn|Including SFR Yugoslavia and [[Serbia and Montenegro national football team|FR Yugoslavia]].}}
+{{WDL|7|0|3|4|for=4|against=13|diff=yes}}
+|-
+|align=left|{{fb|ZAM}}
+{{WDL|4|2|0|2|for=10|against=8|diff=yes}}
+|- class=sortbottom
+!Total
+{{WDLtot|1008|545|246|217|for=1812|against=927|diff=yes}}
+|}
+{{notelist}}
+
+==Honours==
+
+===Intercontinental===
+* '''[[Afro-Asian Cup of Nations]]'''
+: [[File:Med 1.png]] Champions: [[1987 Afro-Asian Cup of Nations|1987]]
+
+===Continental===
+* '''[[AFC Asian Cup]]'''
+: [[File:Med 1.png]] Champions: [[1956 AFC Asian Cup|1956]], [[1960 AFC Asian Cup|1960]]
+: [[File:Med 2.png]] Runners-up: [[1972 AFC Asian Cup|1972]], [[1980 AFC Asian Cup|1980]], [[1988 AFC Asian Cup|1988]], [[2015 AFC Asian Cup|2015]]
+: [[File:Med 3.png]] Third place: [[1964 AFC Asian Cup|1964]], [[2000 AFC Asian Cup|2000]], [[2007 AFC Asian Cup|2007]], [[2011 AFC Asian Cup|2011]]
+
+* '''[[Football at the Asian Games|Asian Games]]'''
+: [[File:Med 1.png]] Gold medalists: [[Football at the 1970 Asian Games|1970]], [[Football at the 1978 Asian Games|1978]], [[Football at the 1986 Asian Games|1986]]
+: [[File:Med 2.png]] Silver medalists: [[Football at the 1954 Asian Games|1954]], [[Football at the 1958 Asian Games|1958]], [[Football at the 1962 Asian Games|1962]]
+: [[File:Med 3.png]] Bronze medalists: [[Football at the 1990 Asian Games|1990]]
+
+===Regional===
+* '''[[EAFF E-1 Football Championship|EAFF Championship]]'''
+: [[File:Med 1.png]] Champions: [[2003 East Asian Football Championship|2003]], [[2008 East Asian Football Championship|2008]], [[2015 EAFF East Asian Cup|2015]], [[2017 EAFF E-1 Football Championship|2017]], [[2019 EAFF E-1 Football Championship|2019]]
+: [[File:Med 2.png]] Runners-up: [[2010 East Asian Football Championship|2010]], [[2022 EAFF E-1 Football Championship|2022]], [[2025 EAFF E-1 Football Championship|2025]]
+: [[File:Med 3.png]] Third place: [[2013 EAFF East Asian Cup|2013]]
+
+===Friendly competitions===
+* [[Korea Cup]]: [[1971 President's Cup Football Tournament|1971]], [[1974 President's Cup Football Tournament|1974]], [[1975 President's Cup Football Tournament|1975]], [[1976 President's Cup Football Tournament|1976]], [[1978 President's Cup Football Tournament|1978]], [[1980 President's Cup Football Tournament|1980]], [[1981 President's Cup Football Tournament|1981]], [[1982 President's Cup Football Tournament|1982]], [[1985 President's Cup Football Tournament|1985]], [[1987 President's Cup International Football Tournament|1987]], [[1991 President's Cup International Football Tournament|1991]], [[1997 Korea Cup|1997]]<ref>{{cite web |title=President's Cup (South Korea) |url=https://www.rsssf.org/tabless/skor-pres.html |website=[[RSSSF]] |access-date=March 26, 2021 |archive-date=September 25, 2022 |archive-url=https://web.archive.org/web/20220925011729/https://www.rsssf.org/tabless/skor-pres.html |url-status=live }}</ref>
+* [[Merdeka Tournament]]: 1960, 1965, 1967, 1970, 1972, [[1975 Merdeka Tournament|1975]], 1977, 1978<ref>{{cite web |title=Merdeka Tournament (Malaysia) |url=https://www.rsssf.org/tablesm/merdeka.html |website=[[RSSSF]] |access-date=March 26, 2021 |archive-date=January 13, 2010 |archive-url=https://web.archive.org/web/20100113153958/http://www.rsssf.com/tablesm/merdeka.html |url-status=live }}</ref>
+* [[King's Cup (Thailand)|King's Cup]]: 1969, 1970, 1971, 1973, 1974, 1975, 1998<ref>{{cite web|title=King's Cup (Bangkok, Thailand)|url=https://www.rsssf.org/tablesk/kings.html|website=[[RSSSF]]|access-date=March 26, 2021|archive-date=September 25, 2022|archive-url=https://web.archive.org/web/20220925085224/https://www.rsssf.org/tablesk/kings.html|url-status=live}}</ref>
+* [[Jakarta Anniversary Tournament]]: [[1981 Jakarta Anniversary Tournament|1981]]<ref>{{cite web|title=Jakarta Anniversary Tournament (Indonesia)|url=https://www.rsssf.org/tablesj/jakarta-ann.html|website=[[RSSSF]]|access-date=March 26, 2021|archive-date=April 4, 2023|archive-url=https://web.archive.org/web/20230404160305/https://www.rsssf.org/tablesj/jakarta-ann.html|url-status=live}}</ref>
+* [[Dynasty Cup]]: [[1990 Dynasty Cup|1990]]<ref>{{cite web|title=Dynasty Cup|url=https://www.rsssf.org/tablesd/dynastycup.html|website=[[RSSSF]]|access-date=March 26, 2021|archive-date=September 25, 2022|archive-url=https://web.archive.org/web/20220925052237/https://www.rsssf.org/tablesd/dynastycup.html|url-status=live}}</ref>
+* [[LG Cup (association football)|LG Cup]]: [[2000 LG Cup (Iran)|2000 (Iran)]], [[2001 LG Cup (Egypt)|2001 (Egypt)]], [[2006 LG Cup (Saudi Arabia)|2006 (Saudi Arabia)]]<ref>{{cite web|title=LG Cup Four Nations Tournaments|url=https://www.rsssf.org/tablesl/lgcup.html|website=[[RSSSF]]|access-date=March 26, 2021|archive-date=July 14, 2022|archive-url=https://web.archive.org/web/20220714181113/https://www.rsssf.org/tablesl/lgcup.html|url-status=live}}</ref>
+
+===Awards===
+* [[FIFA World Cup awards#Most Entertaining Team|FIFA World Cup Most Entertaining Team]]: [[2002 FIFA World Cup|2002]]
+* [[AFC Annual Awards#Team awards|AFC National Team of the Year]]: 2002, 2009
+* [[EAFF E-1 Football Championship|EAFF Championship]] Fair Play Award: [[2008 East Asian Football Championship|2008]]
+* [[AFC Asian Cup awards#Fair Play Award|AFC Asian Cup Fair Play Award]]: [[2011 AFC Asian Cup|2011]]
+
+==See also==
+*[[Football in South Korea]]
+*[[South Korea national under-20 football team]]
+*[[South Korea national under-17 football team]]
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons category|South Korea national association football team}}
+* {{official website|https://www.kfa.or.kr/}} of the [[Korea Football Association]]
+* [https://www.fifa.com/about-fifa/associations/KOR Korea Republic] at FIFA
+* [https://www.the-afc.com/en/east/korea_republic.html Korea Republic] at AFC
+
+{{South Korea national football team}}
+{{Navboxes
+| title = Links to related articles
+| titlestyle = background: #C21E2B; color: white; border: 1px solid #0047A0;
+|list =
+{{Navboxes
+| title = South Korea achievements and awards
+| titlestyle = background: #C21E2B; color: white; border: 1px solid #0047A0;
+|list =
+{{S-start}}
+{{S-ach|ach}}
+{{s-bef|before = Inaugural champions}}
+{{s-ttl|title = [[AFC Asian Cup|Asian Champions]]
+| years = [[1956 AFC Asian Cup|1956]] (first title)<br />[[1960 AFC Asian Cup|1960]] (second title)}}
+{{s-aft|after = [[1964 AFC Asian Cup|1964]] {{fb-rt|Israel}}}}
+{{s-bef|before = 1966 {{fb-rt|Burma}}}}
+{{s-ttl|title = [[Football at the Asian Games|Asian Games Champions]]
+| years = 1970 (first title)}}
+{{s-aft|after = 1974 {{fb-rt|Iran|1964}}}}
+{{s-bef|before = 1974 {{fb-rt|Iran|1964}}}}
+{{s-ttl|title = [[Football at the Asian Games|Asian Games Champions]]
+| years = 1978 (second title)}}
+{{s-aft|after = 1982 {{fb-rt|Iraq|1963}}}}
+{{s-bef|before = 1982 {{fb-rt|Iraq|1963}}}}
+{{s-ttl|title = [[Football at the Asian Games|Asian Games Champions]]
+| years = 1986 (third title)}}
+{{s-aft|after = 1990 {{fb-rt|Iran}}}}
+{{s-bef|before = 1985 {{fb-rt|CMR}}}}
+{{s-ttl|title = [[Afro-Asian Cup of Nations|Afro-Asian Cup Champions]]
+| years = 1988 (first title)}}
+{{s-aft|after = 1991 {{fb-rt|ALG}}}}
+{{s-bef|before = Inaugural champions}}
+{{s-ttl|title = [[East Asian Football Championship|EAFF Champions]]
+| years = [[East Asian Football Championship 2003|2003]] (first title)}}
+{{s-aft|after = [[East Asian Football Championship 2005|2005]] {{fb-rt|China}}}}
+{{s-bef|before = [[East Asian Football Championship 2005|2005]] {{fb-rt|China}}}}
+{{s-ttl|title = [[East Asian Football Championship|EAFF Champions]]
+| years = [[East Asian Football Championship 2008|2008]] (second title)}}
+{{s-aft|after = [[East Asian Football Championship 2010|2010]] {{fb-rt|China}}}}
+{{s-bef|before = [[2013 EAFF East Asian Cup|2013]] {{fb-rt|Japan}}}}
+{{s-ttl|title = [[East Asian Football Championship|EAFF Champions]]
+| years = [[2015 EAFF East Asian Cup|2015]] (third title)<br />[[2017 EAFF E-1 Football Championship|2017]] (fourth title)<br />[[2019 EAFF E-1 Football Championship|2019]] (fifth title)}}
+{{s-aft|after = [[2022 EAFF E-1 Football Championship|2022]] {{fb-rt|Japan}}}}
+{{s-ach|aw}}
+{{succession box
+ | before = {{fb-rt|China}}
+ | after = {{fb-rt|Iraq|1991}}
+ | title = [[Asian Football Confederation#Awards|AFC Men's Team of the Year]]
+ | years = 2002
+|}}
+{{succession box
+ | before = {{fb-rt|Japan}}
+ | after = {{fb-rt|Japan}}
+ | title = [[Asian Football Confederation#Awards|AFC Men's Team of the Year]]
+ | years = 2009
+|}}
+{{S-end}}
+}}
+{{AFC Asian Cup winners}}
+{{Asian Games football men's tournament winners}}
+{{Football in South Korea}}
+{{EAFF teams}}
+{{AFC teams}}
+{{National sports teams of South Korea}}
+}}
+{{portal bar|Association football|Sports|South Korea}}
+{{Authority control}}
+
+{{DEFAULTSORT:South Korea national football team}}
+[[Category:South Korea national football team| ]]
+[[Category:South Korea men's national football teams| ]]
+[[Category:AFC Asian Cup–winning countries]]
+[[Category:Asian national association football teams]]

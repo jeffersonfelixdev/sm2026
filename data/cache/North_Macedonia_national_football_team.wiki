@@ -1,0 +1,1607 @@
+{{Short description|none}} <!-- "none" is preferred when the title is sufficiently descriptive; see [[WP:SDNONE]] -->
+{{About|the men's team|the women's team|North Macedonia women's national football team}}
+{{pp-protected|small=yes}}
+{{Use British English|date = October 2025}}
+{{Use dmy dates|date=October 2025}}
+{{Infobox national football team
+| Name               = North Macedonia
+| Badge              = Coat of arms of the President of North Macedonia.svg
+| Nickname           = {{unbulleted list| {{lang|mk|Рисови}}<br>{{lang|mk-Latn|Risovi}} {{nowrap|([[Balkan lynx|Lynxes]])}}| {{lang|mk|Лавови}}<br>{{lang|mk-Latn|Lavovi}} {{nowrap|(Lions)}}}}
+| Association        = [[Football Federation of Macedonia]] (FFM)
+| Confederation      = [[UEFA]] (Europe)
+| Coach              = [[Goce Sedloski]]
+| Captain            = [[Enis Bardhi]]
+| Most caps          = [[Goran Pandev]] (122)
+| Top scorer         = Goran Pandev (38)
+| Home Stadium       = [[Toše Proeski Arena|National Arena Todor Proeski]]
+| FIFA Trigramme     = MKD
+| FIFA Rank          = {{FIFA World Rankings|MKD}}
+| FIFA max           = 46
+| FIFA max date      = October 2008
+| FIFA min           = 166
+| FIFA min date      = March 2017
+| Elo Rank           = {{World Football Elo Ratings|MKD}}
+| Elo max            = 41
+| Elo max date       = 12 April 2017
+| Elo min            = 113
+| Elo min date       = January 2017
+| pattern_la1        = _mkd26h
+| pattern_b1         = _mkd26h
+| pattern_ra1        = _mkd26h
+| pattern_sh1        = _mkd26h
+| pattern_so1        = _3_stripes_red
+| leftarm1           = FF0000
+| body1              = FF0000
+| rightarm1          = FF0000
+| shorts1            = FF0000
+| socks1             = FFD300
+| pattern_la2        = _tun can82h
+| pattern_b2         = _tun can82h
+| pattern_ra2        = _tun can82h
+| pattern_sh2        = _adidas_red
+| pattern_so2        = _3_stripes_white
+| leftarm2           = 
+| body2              = 
+| rightarm2          = 
+| shorts2            = _3_stripes_red
+| socks2             = 000000
+| pattern_la3        = _mex13t
+| pattern_b3         = _mex13t
+| pattern_ra3        = _mex13t
+| pattern_sh3        = _adidas_white
+| pattern_so3        = _3_stripes_black
+| leftarm3           = FFFFFF
+| body3              = FFFFFF
+| rightarm3          = FFFFFF
+| shorts3            = 000000
+| socks3             = FFD300
+| First game         = ''Unofficial''<br>{{nowrap|{{flagicon|SFR Yugoslavia}} Vojvodina 3–1 '''Macedonia '''{{flagicon|SR Macedonia|1944}}}}<br>([[Belgrade]], Yugoslavia; 3 September 1945)<br>
+''Official''<br>{{nowrap|{{fb|SVN}} 1–4 {{fb-rt|MKD|1992|name=Macedonia}}}}<br>([[Kranj]], Slovenia; 13 October 1993)
+| Largest win        = {{fb|LIE}} 1–11 {{fb-rt|MKD|name=Macedonia}}<br>([[Eschen]], Liechtenstein; 9 November 1996) 
+| Largest loss       = {{fb|ENG}}
+7–0 {{fb-rt|MKD|name=North Macedonia}}<br>([[Manchester]], England; 19 June 2023)
+| Regional name      = [[UEFA European Championship|European Championship]]
+| Regional cup apps  = 1
+| Regional cup first = [[UEFA Euro 2020|2020]]
+| Regional cup best  = Group stage ([[UEFA Euro 2020|2020]])
+| website            = [https://ffm.mk/ ffm.mk]
+}}
+The '''North Macedonia national football team''' ({{langx|mk|Фудбалска репрезентација на Северна Македонија|Fudbalska reprezentacija na Severna Makedonija}}) represents [[North Macedonia]] in men's international [[Association football|football]]. It is administered by the [[Football Federation of Macedonia]]. The team plays their home matches at the [[Toše Proeski Arena|Toše Proeski National Arena]] in [[Skopje]].
+
+North Macedonia has reached [[UEFA Euro 2020|Euro 2020]] (its first major tournament)<ref>{{Cite news |date=13 November 2024|title=North Macedonia Beats Georgia To Qualify For First-Ever Major Soccer Tournament |url=https://www.rferl.org/a/north-macedonia-beats-georgia-to-qualify-for-first-ever-major-tournament/30945927.html |access-date=13 May 2024|work=Radio Free Europe/Radio Liberty}}</ref><ref>{{Cite web |title=North Macedonia's journey to Euro 2020: A story of perseverance and dedication |url=https://www.fifa.com/fifaplus/en/articles/north-macedonias-journey-to-euro-2020-a-story-of-perseverance-and-dedication|website=[[FIFA]]|access-date=13 May 2024}}</ref> and the European qualifying play-off final of the [[2022 FIFA World Cup|2022 World Cup]] (after defeating [[Germany national football team|Germany]] in [[Duisburg]] and [[Italy national football team|Italy]] in [[Palermo]]).<ref>{{cite web |title=Italy vs. North Macedonia |url=https://www.espn.com/soccer/match/_/gameId/622109 |website=ESPN |access-date=25 March 2022 |archive-date=25 March 2022 |archive-url=https://web.archive.org/web/20220325000829/https://www.espn.com/soccer/match/_/gameId/622109 |url-status=live }}</ref>
+
+==History==
+===Early years (1991–96)===
+
+====First official international match====
+{{football squad on pitch|align=right
+| GK = Z. Micevski
+| LCB = [[Zoran Jovanovski|Jovanovski]]
+| RCB = [[Boban Babunski|Babunski]]
+| LB = [[Ilija Najdoski|Najdoski]]
+| RB = [[Kire Grozdanov|Grozdanov]]
+| LDM  = [[Čedomir Janevski|Janevski]]
+| RDM = [[Ljupčo Markovski|Markovski]]
+| LAM = [[Toni Micevski|T. Micevski]]
+| RAM = [[Dragi Kanatlarovski|Kanatlarovski]]
+| RCF = [[Zoran Boškovski|Boškovski]]
+| LCF = [[Darko Pančev|Pančev]]
+| caption = The squad on the first official international match against [[Slovenia national football team|Slovenia]] on 13 October 1993<ref name="svnmkd1993">{{cite web |url=http://macedonianfootball.com/index.php?option=com_content&view=article&id=860:svn-mkd-match-report&catid=13:national-teams&Itemid=64 |title=SVN vs. MKD match report|website=Macedonian Football|access-date=2 June 2016 |archive-date=24 June 2016 |archive-url=https://web.archive.org/web/20160624210830/http://macedonianfootball.com/index.php?option=com_content&view=article&id=860:svn-mkd-match-report&catid=13:national-teams&Itemid=64 |url-status=live }}</ref>
+}}
+They had their first official international match as a 4–1 victory against [[Slovenia national football team|Slovenia]] in a friendly on 13 October 1993 under coach [[Andon Dončevski]].<ref name="svnmkd1993" /> In 1994, the newly proclaimed Republic of Macedonia became a separate member of [[FIFA]] and [[UEFA]] after its [[Independence Day (North Macedonia)|independence referendum]] and split of the [[Socialist Federal Republic of Yugoslavia|Yugoslav]] federal team.
+
+====Euro 1996 qualifiers====
+{{main|UEFA Euro 1996 qualifying Group 2}}
+The [[UEFA Euro 1996 qualifying]] was the first major qualifying tournament that Macedonia participated in as an independent nation,  grouped with [[Spain men's national football team|Spain]], [[Denmark national football team|Denmark]], [[Belgium national football team|Belgium]], [[Cyprus national football team|Cyprus]] and [[Armenia national football team|Armenia]]. In their opening game, which was also their first ever official match, Macedonia played the [[UEFA Euro 1992|reigning European champions]] Denmark, finishing 1–1 after Macedonia led for most of the game.<ref>{{cite web|url=http://macedonianfootball.com/index.php?option=com_content&view=article&id=4732 |title=MKD vs. DEN match report|website=MacedonianFootball|access-date=2 June 2016 |archive-date=24 June 2016 |archive-url=https://web.archive.org/web/20160624205822/http://macedonianfootball.com/index.php?option=com_content&view=article&id=4732 |url-status=live }}</ref> Later, Macedonia suffered one of its worst ever defeats, 5–0 against Belgium on 7 June 1995.<ref>{{cite web |url=http://macedonianfootball.com/index.php?option=com_content&view=article&id=4740|title=MKD vs BEL match report|website=Macedonian Football|access-date=2 June 2016 |archive-date=24 June 2016 |archive-url=https://web.archive.org/web/20160624211435/http://macedonianfootball.com/index.php?option=com_content&view=article&id=4740 |url-status=live }}</ref> They failed to qualify for [[UEFA Euro 1996]], finishing fourth in the group with seven points.<ref>{{cite web |url=http://macedonianfootball.com/index.php?option=com_content&view=article&id=835&Itemid=61 |title=Euro 1996 Qualification|publisher=Macedonian Football|access-date=2 June 2016 |archive-date=19 May 2016 |archive-url=https://web.archive.org/web/20160519021942/http://macedonianfootball.com/index.php?option=com_content&view=article&id=835&Itemid=61 |url-status=live }}</ref>
+
+=== 1996–2001 ===
+====1998 FIFA World Cup qualification====
+{{main|1998 FIFA World Cup qualification – UEFA Group 8}}
+The tournament began on 24 April 1996 with a 3–0 win at home against Liechtenstein. On 9 November 1996, Macedonia recorded their biggest ever, an 11–1 thrashing victory against Liechtenstein.<ref>{{cite web |url=http://macedonianfootball.com/index.php?option=com_content&view=article&id=1149:lie-mkd-match-report&catid=13:national-teams&Itemid=64 |title=LIE vs. MKD match report |website=Macedonian Football|access-date=2 June 2016 |archive-date=24 June 2016 |archive-url=https://web.archive.org/web/20160624204702/http://macedonianfootball.com/index.php?option=com_content&view=article&id=1149:lie-mkd-match-report&catid=13:national-teams&Itemid=64 |url-status=live }}</ref> Macedonia defeated the Republic of Ireland 3–2 at home, their first victory against a major European team, but failed again to qualify for the [[1998 FIFA World Cup|1998 World Cup]] in France, finishing fourth in the group on 13 points.<ref>{{cite web |url=http://macedonianfootball.com/index.php?option=com_content&view=article&id=820&Itemid=60 |title=WC 1998 Qualification|website=Macedonian Football|access-date=2 June 2016 |archive-date=19 May 2016 |archive-url=https://web.archive.org/web/20160519021530/http://macedonianfootball.com/index.php?option=com_content&view=article&id=820&Itemid=60 |url-status=live }}</ref>
+
+====UEFA Euro 2000 qualification====
+{{main|UEFA Euro 2000 qualifying Group 8}}
+Macedonia's journey to qualify for the [[UEFA Euro 2000]] in the Netherlands and Belgium saw them grouped with [[Serbia and Montenegro national football team|FRY]], [[Republic of Ireland national football team|Republic of Ireland]], [[Croatia national football team|Croatia]], and [[Malta national football team|Malta]]. They once again opened their qualifying campaign with a victory after beating Malta 4–0 at home on 6 September 1998. Their most notable result in the campaign was a 1–1 draw against Croatia in June 1999, with an equalizer of [[Georgi Hristov (footballer, born 1976)|Georgi Hristov]] ten minutes before the end of the game. They helped Yugoslavia qualify directly and eliminate Croatia because they drew 1–1 against the Republic of Ireland with a last-minute equalizer of [[Goran Stavrevski]]. However, they failed to qualify again, finishing fourth in the group with eight points.<ref>{{cite web |url=http://macedonianfootball.com/index.php?option=com_content&view=article&id=799&Itemid=59 |title=Euro 2000 Qualification|website=Macedonian Football|access-date=2 June 2016 |archive-date=19 May 2016 |archive-url=https://web.archive.org/web/20160519021937/http://macedonianfootball.com/index.php?option=com_content&view=article&id=799&Itemid=59 |url-status=live }}</ref>
+
+====2002 FIFA World Cup qualification====
+{{main|2002 FIFA World Cup qualification&nbsp;– UEFA Group 4}}
+Macedonia's [[2002 FIFA World Cup|2002 World Cup]] qualifying campaign saw them grouped with [[Sweden men's national football team|Sweden]], [[Turkey national football team|Turkey]], [[Slovakia national football team|Slovakia]], [[Moldova national football team|Moldova]], and [[Azerbaijan national football team|Azerbaijan]]. They were unsuccessful in their opening match, going down to Slovakia 2–0 in [[Bratislava]] on 3 September 2000. The Macedonians once again failed to qualify for the 2002 World Cup as they finished fourth in the group with seven points.<ref>{{cite web |url=http://macedonianfootball.com/index.php?option=com_content&view=article&id=791&Itemid=56 |title=WC 2002 Qualification|website=Macedonian Football|access-date=2 June 2016 |archive-date=19 May 2016 |archive-url=https://web.archive.org/web/20160519021520/http://macedonianfootball.com/index.php?option=com_content&view=article&id=791&Itemid=56 |url-status=live }}</ref>
+
+===Rise and fall (2001–06) ===
+====UEFA Euro 2004 qualification====
+{{main|UEFA Euro 2004 qualifying Group 7}}
+The [[UEFA Euro 2004 qualifying|Euro 2004 Qualifiers]] saw Macedonia grouped alongside [[England national football team|England]], [[Turkey national football team|Turkey]], [[Slovakia national football team|Slovakia]], and Liechtenstein.
+Macedonia played England in [[Southampton]], England's first home match in Southampton in almost 100 years. Macedonia grabbed the lead early in the first half after [[Artim Šakiri]] scored directly from a corner kick. England soon leveled the game, before Macedonia led again. The game eventually ended 2–2.<ref>{{cite web |url=http://macedonianfootball.com/index.php?option=com_content&view=article&id=1139:eng-mkd-match-report&catid=13:national-teams&Itemid=64 |title=ENG vs. MKD match report (2002)|website=Macedonian Football|access-date=2 June 2016 |archive-date=24 June 2016 |archive-url=https://web.archive.org/web/20160624210112/http://macedonianfootball.com/index.php?option=com_content&view=article&id=1139:eng-mkd-match-report&catid=13:national-teams&Itemid=64 |url-status=live }}</ref> Macedonia lost to England 2–1 at home in the return leg, which took place in September 2003.<ref>{{cite web |url=http://macedonianfootball.com/index.php?option=com_content&view=article&id=1140:mkd-eng-match-report&catid=13:national-teams&Itemid=64 |title=MKD vs. ENG match report (2003)|website=Macedonian Football|access-date=2 June 2016 |archive-date=24 June 2016 |archive-url=https://web.archive.org/web/20160624205143/http://macedonianfootball.com/index.php?option=com_content&view=article&id=1140:mkd-eng-match-report&catid=13:national-teams&Itemid=64 |url-status=live }}</ref> Macedonia's only win of the campaign came on 7 June 2003, when they beat Liechtenstein 3–1 at home.
+[[File:Goran Popov.jpg|thumb|200px| Goran Popov]]
+
+====2006 FIFA World Cup qualification====
+{{Main|2006 FIFA World Cup qualification&nbsp;– UEFA Group 1}}
+On 9 October 2004, Macedonia managed to hold the Netherlands to a surprise 2–2 draw in Skopje in front of a crowd of 17,000 at the Skopje City Stadium,<ref>{{cite web |url=http://macedonianfootball.com/index.php?option=com_content&view=article&id=1084:mkd-ned-match-report&catid=13:national-teams&Itemid=64 |title=MKD vs. NED match report|website=Macedonian Football|access-date=2 June 2016 |archive-date=24 June 2016 |archive-url=https://web.archive.org/web/20160624204404/http://macedonianfootball.com/index.php?option=com_content&view=article&id=1084:mkd-ned-match-report&catid=13:national-teams&Itemid=64 |url-status=live }}</ref> but just four days later, they suffered a 1–0 loss away to Andorra.<ref>{{cite web |url=http://macedonianfootball.com/index.php?option=com_content&view=article&id=1100:and-mkd-match-report&catid=13:national-teams&Itemid=64 |title=AND& vs. MKD match report|website=Macedonian Football|access-date=2 June 2016 |archive-date=24 June 2016 |archive-url=https://web.archive.org/web/20160624210108/http://macedonianfootball.com/index.php?option=com_content&view=article&id=1100:and-mkd-match-report&catid=13:national-teams&Itemid=64 |url-status=live }}</ref> Macedonia then set a new team record for most goals conceded in a game when they lost 6–1 away to the Czech Republic in June 2005.
+
+=== Best FIFA ranking (2006–10) ===
+====Euro 2008 qualifiers====
+{{main|UEFA Euro 2008 qualifying Group E}}
+[[file:Agim Ibraimi (2011).jpg|thumb|left|200px|[[Agim Ibraimi]]]]
+Macedonia opened its [[UEFA Euro 2008 qualifying]] campaign with a 1–0 away victory against Estonia on 16 August 2006. Macedonia hosted England on 6 September in their second game of the qualifiers. England went on to win 1–0, the first time that Macedonia failed to score against the country.<ref>{{cite web |url=http://macedonianfootball.com/index.php?option=com_content&view=article&id=1120:mkd-eng-match-report&catid=13:national-teams&Itemid=64 |title=MKD vs. ENG match report (2006)|website=Macedonian Football|access-date=2 June 2016 |archive-date=24 June 2016 |archive-url=https://web.archive.org/web/20160624205723/http://macedonianfootball.com/index.php?option=com_content&view=article&id=1120:mkd-eng-match-report&catid=13:national-teams&Itemid=64 |url-status=live }}</ref>
+
+A month later, on 7 October 2006, the two teams met once again in [[Manchester]], where England was held to a 0–0 draw in front of 72,062 people.<ref>{{cite web |url=http://macedonianfootball.com/index.php?option=com_content&view=article&id=1121:eng-mkd-match-report&catid=13:national-teams&Itemid=64 |title=ENG vs. MKD match report (2006) |publisher=MacedonianFootball.com |access-date=2 June 2016 |archive-date=24 June 2016 |archive-url=https://web.archive.org/web/20160624204932/http://macedonianfootball.com/index.php?option=com_content&view=article&id=1121:eng-mkd-match-report&catid=13:national-teams&Itemid=64 |url-status=live }}</ref> On 17 October 2007, Macedonia recorded their first win on home soil since August 2004 when they defeated [[Andorra national football team|Andorra]] 3–0 in Skopje.<ref>{{cite web |url=http://macedonianfootball.com/index.php?option=com_content&view=article&id=182:macedonia-finally-wins-in-skopje&catid=13:international&Itemid=64 |title=Macedonia finally wins in Skopje|website=Macedonian Football|date=18 October 2007 |access-date=8 June 2016 |archive-date=25 June 2016 |archive-url=https://web.archive.org/web/20160625154315/http://macedonianfootball.com/index.php?option=com_content&view=article&id=182:macedonia-finally-wins-in-skopje&catid=13:international&Itemid=64 |url-status=live }}</ref>
+
+Macedonia then recorded one of their most impressive wins to date when they picked up a 2–0 victory over eventual group winners Croatia on 17 November 2007. It was also a first victory for Macedonia against a nation that was ranked in the top ten of the [[FIFA World Rankings]].<ref>{{cite web |url=http://macedonianfootball.com/index.php?option=com_content&view=article&id=200:macedonia-croatia-20&catid=13:international&Itemid=64 |title=Macedonia 2–0 Croatia|website=Macedonian Football|date=17 November 2007 |access-date=2 June 2016 |archive-date=24 June 2016 |archive-url=https://web.archive.org/web/20160624211713/http://macedonianfootball.com/index.php?option=com_content&view=article&id=200:macedonia-croatia-20&catid=13:international&Itemid=64 |url-status=live }}</ref> Despite this, Macedonia failed to qualify for Euro 2008 after finishing fifth in the group with 14 points.<ref>{{cite web |url=http://macedonianfootball.com/index.php?option=com_content&view=article&id=776&Itemid=55 |title=Euro 2008 Qualification|website=Macedonian Football|access-date=2 June 2016 |archive-date=19 May 2016 |archive-url=https://web.archive.org/web/20160519021515/http://macedonianfootball.com/index.php?option=com_content&view=article&id=776&Itemid=55 |url-status=live }}</ref>
+
+====2010 UEFA World Cup qualification====
+{{main|2010 FIFA World Cup qualification&nbsp;– UEFA Group 9}}
+[[File:Vanče Šikov 2011.jpg|thumb|right|175px|[[Vanche Shikov]]]]
+On 25 November 2007, just days after Macedonia completed its qualifying campaign for Euro 2008, the groups for European qualifiers for the [[2010 FIFA World Cup|2010 World Cup]] were held in [[Durban]], [[South Africa]], where Macedonia was seeded in Pot 4 and grouped along with the [[Netherlands national football team|Netherlands]], [[Scotland national football team|Scotland]], [[Norway national football team|Norway]] and [[Iceland national football team|Iceland]].<ref>{{cite web |url=http://macedonianfootball.com/index.php?option=com_content&view=article&id=209:2010-world-cup-draw&catid=13:international&Itemid=64 |title=2010 World Cup draw|website=Macedonian Football|date=25 November 2007 |access-date=2 June 2016 |archive-date=24 June 2016 |archive-url=https://web.archive.org/web/20160624204449/http://macedonianfootball.com/index.php?option=com_content&view=article&id=209:2010-world-cup-draw&catid=13:international&Itemid=64 |url-status=live }}</ref> Manager Srečko Katanec received a two-year extension on 21 December 2007, which meant he would be under contract through the end of the 2010 World Cup qualifiers.<ref>{{cite web |url=http://macedonianfootball.com/index.php?option=com_content&view=article&id=230:katanec-stays-with-macedonia&catid=13:international&Itemid=64 |title=Katanec stays with Macedonia|website=Macedonian Football|date=21 December 2007 |access-date=2 June 2016 |archive-date=24 June 2016 |archive-url=https://web.archive.org/web/20160624211620/http://macedonianfootball.com/index.php?option=com_content&view=article&id=230:katanec-stays-with-macedonia&catid=13:international&Itemid=64 |url-status=live }}</ref> In the lead up to the campaign, Macedonia played three friendlies against [[Serbia national football team|Serbia]], [[Bosnia and Herzegovina national football team|Bosnia and Herzegovina]] and [[Poland national football team|Poland]], which all ended in draws.
+
+On 6 September 2008, Macedonia opened their campaign with a 1–0 home win against Scotland when [[Ilčo Naumoski]] scored on a rebound after a missed free kick by [[Goce Sedloski]]. Following these impressive results, they moved up ten places to 46th in the FIFA world rankings for October 2008, their highest ever ranking. However, Katanec resigned following a 4–0 loss to the Netherlands in [[Amsterdam]] in April 2009, allegedly for getting into an argument with [[Goran Pandev]].<ref>{{cite web |url=http://macedonianfootball.com/index.php?option=com_content&view=article&id=1286:katanec-lost-the-control-over-the-team&catid=13:international&Itemid=64 |title=Katanec lost the control over the team|website=Macedonian Football|date=7 April 2009 |access-date=2 June 2016 |archive-date=24 June 2016 |archive-url=https://web.archive.org/web/20160624204837/http://macedonianfootball.com/index.php?option=com_content&view=article&id=1286:katanec-lost-the-control-over-the-team&catid=13:international&Itemid=64 |url-status=live }}</ref>
+
+Soon afterwards, the manager of the under-21 team, [[Mirsad Jonuz]], was appointed senior coach and remained until the end of the World Cup qualifying campaign.<ref>{{cite web |url=http://macedonianfootball.com/index.php?option=com_content&view=article&id=1344:mirsad-jonuz-named-as-new-macedonian-coach&catid=13:international&Itemid=64 |title=Mirsad Jonuz named as new Macedonian coach|website=Macedonian Football|date=16 May 2009 |access-date=2 June 2016 |archive-date=24 June 2016 |archive-url=https://web.archive.org/web/20160624205820/http://macedonianfootball.com/index.php?option=com_content&view=article&id=1344:mirsad-jonuz-named-as-new-macedonian-coach&catid=13:international&Itemid=64 |url-status=live }}</ref> On 12 August 2009, a friendly match against [[Spain men's national football team|Spain]] was held at the newly built City Park Stadium in Skopje. The defending European champions won 3–2 after being 2–0 down at halftime.<ref>{{Cite web|title=FFM withdraws tickets for football match with Spain to replace them with new ones|url=http://www.mia.com.mk/default.aspx?vId=66682811&lId=2|url-status=dead|agency=Macedonian Information Agency|date=7 August 2009|archive-url=https://web.archive.org/web/20120308115850/http://www.mia.com.mk/default.aspx?vId=66682811&lId=2|archive-date=8 March 2012}}</ref> In September, Macedonia lost 2–0 against Scotland and Norway.
+
+=== Fall and resurgence (2010–2018) ===
+====Euro 2012 qualifiers====
+{{main|UEFA Euro 2012 qualifying Group B}}
+[[File:Veliče Šumulikoski 2011.jpg|thumb|left|200px|[[Veliče Šumulikoski]]]]
+
+Macedonia was placed in Group B for the [[UEFA Euro 2012|Euro 2012]] qualifiers alongside [[Russia national football team|Russia]], [[Slovakia national football team|Slovakia]], [[Republic of Ireland national football team|Republic of Ireland]], [[Armenia national football team|Armenia]] and [[Andorra national football team|Andorra]].<ref>{{cite web |url=http://macedonianfootball.com/index.php?option=com_content&view=article&id=1953:russia-slovakia-ireland-armenia-and-andorra&catid=13:international&Itemid=64 |title=Russia, Slovakia, Ireland, Armenia and Andorra|website=Macedonian Football|date=7 February 2010 |access-date=2 June 2016 |archive-date=24 June 2016 |archive-url=https://web.archive.org/web/20160624211431/http://macedonianfootball.com/index.php?option=com_content&view=article&id=1953:russia-slovakia-ireland-armenia-and-andorra&catid=13:international&Itemid=64 |url-status=live }}</ref> In the lead up to the qualifiers, an under-strength Macedonia side played friendlies against Azerbaijan, Romania, and Malta, winning the first two 3–1 and 1–0 respectively, and tied 1–1 against Malta later the summer.
+
+Macedonia finished fifth in the group with only two victories against Andorra as well as two home draws, against Armenia and Slovakia. Coach [[Mirsad Jonuz]] was dismissed on 18 June 2011<ref>{{cite web |url=http://macedonianfootball.com/index.php?option=com_content&view=article&id=2997:mirsad-jonuz-fired&catid=13:international&Itemid=64 |title=Mirsad Jonuz fired!|website=Macedonian Football|date=18 June 2011 |access-date=2 June 2016 |archive-date=24 June 2016 |archive-url=https://web.archive.org/web/20160624211524/http://macedonianfootball.com/index.php?option=com_content&view=article&id=2997:mirsad-jonuz-fired&catid=13:international&Itemid=64 |url-status=live }}</ref> and replaced by [[John Toshack]].<ref>{{cite web |url=http://macedonianfootball.com/index.php?option=com_content&view=article&id=3183:john-toshack-is-the-new-manager&catid=13:international&Itemid=64 |title=John Toshack is the new manager |publisher=MacedonianFootball.com |date=7 August 2011 |access-date=2 June 2016 |archive-date=24 June 2016 |archive-url=https://web.archive.org/web/20160624211617/http://macedonianfootball.com/index.php?option=com_content&view=article&id=3183:john-toshack-is-the-new-manager&catid=13:international&Itemid=64 |url-status=live }}</ref>
+
+====2014 FIFA World Cup qualification====
+{{main|2014 FIFA World Cup qualification&nbsp;– UEFA Group A}}
+Macedonia's [[2014 FIFA World Cup|2014 World Cup]] qualifying campaign saw them grouped with Croatia, [[Serbia national football team|Serbia]], [[Belgium national football team|Belgium]], [[Scotland national football team|Scotland]] and [[Wales national football team|Wales]].<ref>{{cite web |url=http://macedonianfootball.com/index.php?option=com_content&view=article&id=3148:tough-group-for-macedonia&catid=13:international&Itemid=64 |title=Tough group for Macedonia!|website=Macedonian Football|date=30 July 2011 |access-date=2 June 2016 |archive-date=24 June 2016 |archive-url=https://web.archive.org/web/20160624210930/http://macedonianfootball.com/index.php?option=com_content&view=article&id=3148:tough-group-for-macedonia&catid=13:international&Itemid=64 |url-status=live }}</ref> In August 2012, prior to the qualifiers, John Toshack resigned<ref>{{cite web |url=http://macedonianfootball.com/index.php?option=com_content&view=article&id=4900:manager-john-toshack-relieved-of-his-duties&catid=13:international&Itemid=64 |title=Manager John Toshack relieved of his duties|website=Macedonian Football|date=12 August 2012 |access-date=2 June 2016 |archive-date=24 June 2016 |archive-url=https://web.archive.org/web/20160624205436/http://macedonianfootball.com/index.php?option=com_content&view=article&id=4900:manager-john-toshack-relieved-of-his-duties&catid=13:international&Itemid=64 |url-status=live }}</ref> and was replaced by [[Čedomir Janevski]].<ref>{{cite web |url=http://macedonianfootball.com/index.php?option=com_content&view=article&id=4928:janevski-officially-presented-as-new-macedonia-manager&catid=13:international&Itemid=64 |title=Janevski officially presented as new manager|website=Macedonian Football|date=22 August 2012 |access-date=2 June 2016 |archive-date=24 June 2016 |archive-url=https://web.archive.org/web/20160624211108/http://macedonianfootball.com/index.php?option=com_content&view=article&id=4928:janevski-officially-presented-as-new-macedonia-manager&catid=13:international&Itemid=64 |url-status=live }}</ref> The national team would begin the qualification round with a loss to Croatia in [[Zagreb]] and would go on to draw against [[Scotland national football team|Scotland]] in [[Glasgow]]. They lost again to Croatia and won against [[Serbia national football team|Serbia]] in Skopje after a [[Penalty kick (association football)|penalty kick]] taken by [[Agim Ibraimi]].<ref>{{cite web |url=http://macedonianfootball.com/index.php?option=com_content&view=article&id=5146:macedonia-serbia-10&catid=13:international&Itemid=64 |title=Macedonia&nbsp;– Serbia 1:0 |publisher=MacedonianFootball.com |date=16 October 2012 |access-date=2 June 2016 |archive-date=24 June 2016 |archive-url=https://web.archive.org/web/20160624205620/http://macedonianfootball.com/index.php?option=com_content&view=article&id=5146:macedonia-serbia-10&catid=13:international&Itemid=64 |url-status=live }}</ref> Later in qualification, the national team would go on to lose twice to the eventual group winners [[Belgium national football team|Belgium]].
+
+Macedonia would beat [[Wales national football team|Wales]] and lose against [[Scotland national football team|Scotland]] at home. Around the end of September 2013, Janevski would leave the team for Belgian club [[RAEC Mons (1910)|R.A.E.C. Mons]]<ref>{{cite web |url=http://macedonianfootball.com/index.php?option=com_content&view=article&id=5890:janevski-leaves-macedonia-nt-for-mons-post&catid=13:international&Itemid=64 |title=Janevski leaves Macedonia NT for Mons post|website=Macedonian Football|date=27 September 2013 |access-date=2 June 2016 |archive-date=24 June 2016 |archive-url=https://web.archive.org/web/20160624210341/http://macedonianfootball.com/index.php?option=com_content&view=article&id=5890:janevski-leaves-macedonia-nt-for-mons-post&catid=13:international&Itemid=64 |url-status=live }}</ref> and would be replaced by [[Zoran Stratev]] for the last two matches.<ref>{{cite web |url=http://macedonianfootball.com/index.php?option=com_content&view=article&id=5891:zoran-stratev-to-lead-macedonia-in-remaining-qualifiers&catid=13:international&Itemid=64 |title=Zoran Stratev named caretaker manager|website=Macedonian Football|date=28 September 2013 |access-date=2 June 2016 |archive-date=24 June 2016 |archive-url=https://web.archive.org/web/20160624210434/http://macedonianfootball.com/index.php?option=com_content&view=article&id=5891:zoran-stratev-to-lead-macedonia-in-remaining-qualifiers&catid=13:international&Itemid=64 |url-status=live }}</ref> Away losses to Wales and [[Serbia national football team|Serbia]] meant they would finish last in their group.
+
+After the run, Goran Pandev, [[Nikolče Noveski]], [[Veliče Šumulikoski]] and others would retire from the national team due to turbulent relations with the [[Football Federation of Macedonia]].<ref>{{cite web |url=http://macedonianfootball.com/index.php?option=com_content&view=article&id=5944:goran-pandev-to-retire-from-national-team&catid=13:international&Itemid=64 |title=Goran Pandev to retire from national team|website=Macedonian Football|date=17 October 2013 |access-date=2 June 2016 |archive-date=24 June 2016 |archive-url=https://web.archive.org/web/20160624210344/http://macedonianfootball.com/index.php?option=com_content&view=article&id=5944:goran-pandev-to-retire-from-national-team&catid=13:international&Itemid=64 |url-status=live }}</ref> In November 2013, [[Boško Gjurovski]] would be appointed the new national team manager.<ref>{{cite web |url=http://ekipa.mk/boshko-g-urovski-nov-selektor-na-makedonskata-reprezentatsija/|script-title=mk:Бошко Ѓуровски {{!}} нов селектор на македонската репрезентација!|website=Ekipa.mk |date=26 November 2013 |access-date=2 June 2016 |language=mk |archive-url=https://web.archive.org/web/20160813074943/http://ekipa.mk/boshko-g-urovski-nov-selektor-na-makedonskata-reprezentatsija/ |archive-date=13 August 2016 |url-status=dead }}</ref>
+
+Ironically, a significant number of players originally from Macedonia appeared at the [[2014 FIFA World Cup|2014 World Cup]], including [[Blerim Džemaili]], [[Admir Mehmedi]] and [[Shkodran Mustafi]] who couldn't be convinced to represent Macedonia instead.
+
+====UEFA Euro 2016 qualification====
+{{main|UEFA Euro 2016 qualifying Group C}}
+[[File:Ukro-Maki (12).jpg|thumb|left|350px|The team before a match with Ukraine in 2014]]
+On 23 February 2014, Macedonia was placed in Group C for the [[UEFA Euro 2016|Euro 2016]] qualifiers alongside [[Spain men's national football team|Spain]], [[Ukraine national football team|Ukraine]], [[Slovakia national football team|Slovakia]], [[Belarus national football team|Belarus]] and [[Luxembourg national football team|Luxembourg]].<ref>{{cite web |url=http://macedonianfootball.com/index.php?option=com_content&view=article&id=6294:euro-2016-macedonia-in-qual-group-c&catid=13:international&Itemid=64 |title=Euro 2016: Macedonia drawn in Group C|website=Macedonian Football|date=23 February 2014 |access-date=2 June 2016 |archive-date=24 June 2016 |archive-url=https://web.archive.org/web/20160624204535/http://macedonianfootball.com/index.php?option=com_content&view=article&id=6294:euro-2016-macedonia-in-qual-group-c&catid=13:international&Itemid=64 |url-status=live }}</ref> With 5–1 loss against Spain in [[Valencia]], the only victory they earned was against Luxembourg in Skopje.
+
+After four losses, coach [[Boško Gjurovski]] was dismissed on 7 April 2015<ref>{{cite web |url=http://ekipa.mk/ofitsijalno-boshko-gurovski-dobi-otkaz-od-ffm/|script-title=mk:Официјално: Бошко Ѓуровски доби отказ од ФФМ|website=Ekipa.mk |date=7 April 2015 |access-date=2 June 2016 |language=mk |archive-url=https://web.archive.org/web/20160813074937/http://ekipa.mk/ofitsijalno-boshko-gurovski-dobi-otkaz-od-ffm/ |archive-date=13 August 2016 |url-status=dead }}</ref> and replaced by [[Ljubinko Drulović]].<ref>{{cite web |url=http://ekipa.mk/lubinko-drulovik-e-nov-selektor-na-makedonija/|script-title=mk:Љубинко Друловиќ е нов селектор на Македонија!|website=Ekipa.mk|date=23 April 2015 |access-date=2 June 2016 |language=mk |archive-url=https://web.archive.org/web/20160813074949/http://ekipa.mk/lubinko-drulovik-e-nov-selektor-na-makedonija/ |archive-date=13 August 2016 |url-status=dead }}</ref> Further losses came against Slovakia and surprisingly Luxembourg. Macedonia drew their last match with Belarus in [[Barysaw]], but still finished last in their group.
+
+====2018 World Cup qualifiers====
+{{main|2018 FIFA World Cup qualification (UEFA)|2018 FIFA World Cup qualification&nbsp;– UEFA Group G}}
+On 25 July 2015, in the middle of the Euro 2016 qualifying, Macedonia was seeded in Pot 5. They were put in the same group as [[Spain men's national football team|Spain]] again, for the first time with [[Italy national football team|Italy]], along with Albania , Israel, and Liechtenstein.<ref>{{cite web |url=http://macedonianfootball.com/index.php?option=com_content&view=article&id=7624:spain-italy-drawn-in-macedonias-group&catid=13:international&Itemid=64 |title=Spain, Italy drawn in Macedonia's group|website=Macedonian Football|date=25 July 2015 |access-date=2 June 2016 |archive-date=24 June 2016 |archive-url=https://web.archive.org/web/20160624211809/http://macedonianfootball.com/index.php?option=com_content&view=article&id=7624:spain-italy-drawn-in-macedonias-group&catid=13:international&Itemid=64 |url-status=live }}</ref>
+
+In October 2015, Drulović left the national team.<ref>{{cite web |url=http://ekipa.mk/zbogum-makedonija-partizan-go-potvrdi-izborot-na-drulovik/|script-title=mk:Збогум, Македонија: Партизан го потврди изборот на Друловиќ|website=Ekipa.mk |date=15 October 2015 |access-date=2 June 2016 |language=mk |archive-url=https://web.archive.org/web/20170924003105/http://ekipa.mk/zbogum-makedonija-partizan-go-potvrdi-izborot-na-drulovik/ |archive-date=24 September 2017 |url-status=dead }}</ref> and the manager place was taken over by the former manager of [[FK Rabotnički|Rabotnički]], [[Igor Angelovski]].<ref>{{cite web |url=http://ekipa.mk/ffm-potvrdi-angelovski-nov-predvodnik-na-a-timot/|script-title=mk:ФФМ потврди: Ангеловски нов предводник на А-тимот|website=Ekipa.mk |date=16 October 2015 |access-date=2 June 2016 |language=mk |archive-url=https://web.archive.org/web/20160326134701/http://ekipa.mk/ffm-potvrdi-angelovski-nov-predvodnik-na-a-timot/ |archive-date=26 March 2016 |url-status=dead }}</ref> That same month, 2010 UEFA Champions League champion [[Goran Pandev]] came back to the national team after two years of absence.<ref>{{cite web |url=http://ekipa.mk/najradosnata-vest-goran-pandev-se-vraka-vo-reprezentatsijata/|script-title=mk:Најрадосната Вест: Горан Пандев се враќа во репрезентацијата! |publisher=Ekipa.mk |date=20 October 2015 |access-date=2 June 2016 |language=mk |archive-url=https://web.archive.org/web/20170923212744/http://ekipa.mk/najradosnata-vest-goran-pandev-se-vraka-vo-reprezentatsijata/ |archive-date=23 September 2017 |url-status=dead }}</ref>
+[[File:Ukro-Maki (17).jpg|thumb|200px|Ezgjan Alioski]]
+Macedonia started with another disappointing loss against Albania in [[Shkodër]], with a goal scored by [[Bekim Balaj]] in the last moments of the game, in a match that was played over two days because of interruption in the 76th minute due to weather.<ref>{{cite web |url=http://ekipa.mk/144580/|script-title=mk:Прекинатиот меч Албанија – Македонија (1–1) ќе се доигра утре, од 76.минута|website=Ekipa.mk |date=5 September 2016 |access-date=7 October 2016 |language=mk |archive-url=https://web.archive.org/web/20161010123436/http://ekipa.mk/144580/ |archive-date=10 October 2016 |url-status=dead }}</ref><ref>{{cite web |url=http://macedonianfootball.com/index.php?option=com_content&view=article&id=8232:wc-qualifier-albania-macedonia-21-video&catid=13:international&Itemid=64 |title=WC qualifier: Albania 2–1 Macedonia (Video)|website=Macedonian Football|date=6 September 2016 |access-date=7 October 2016 |archive-date=9 October 2016 |archive-url=https://web.archive.org/web/20161009164621/http://macedonianfootball.com/index.php?option=com_content&view=article&id=8232:wc-qualifier-albania-macedonia-21-video&catid=13:international&Itemid=64 |url-status=live }}</ref> Later on they also lost to Israel at home after missing a penalty kick by [[Adis Jahović]].<ref>{{cite web |url=http://macedonianfootball.com/index.php?option=com_content&view=article&id=8265:macedonia-israel-12-photoavideo&catid=13:international&Itemid=64 |title=Macedonia 1–2 Israel (Photo & Video) |publisher=Macedonian Football|date=6 October 2016 |access-date=7 October 2016 |archive-date=9 October 2016 |archive-url=https://web.archive.org/web/20161009180338/http://macedonianfootball.com/index.php?option=com_content&view=article&id=8265:macedonia-israel-12-photoavideo&catid=13:international&Itemid=64 |url-status=live }}</ref> After that, the national team also lost to Italy beside their 2–1 lead with the goals scored by [[Ilija Nestorovski]] and [[Ferhan Hasani]].<ref>{{cite web |url=http://macedonianfootball.com/index.php?option=com_content&view=article&id=8269:macedonia-italy-23-video&catid=13:international&Itemid=64 |title=Macedonia 2–3 Italy (Photo & Video)|website=Macedonian Football|date=9 October 2016 |access-date=13 November 2016 |archive-date=14 November 2016 |archive-url=https://web.archive.org/web/20161114084403/http://macedonianfootball.com/index.php?option=com_content&view=article&id=8269:macedonia-italy-23-video&catid=13:international&Itemid=64 |url-status=live }}</ref> At the end of 2016, Macedonia was beaten by Spain in [[Granada]] 4–0;<ref>{{cite web |url=http://macedonianfootball.com/index.php?option=com_content&view=article&id=8328:spain-macedonia-40-video&catid=13:international&Itemid=64 |title=Spain 4–0 Macedonia (Video)|website=Macedonian Football|date=12 November 2016 |access-date=13 November 2016 |archive-date=14 November 2016 |archive-url=https://web.archive.org/web/20161114084033/http://macedonianfootball.com/index.php?option=com_content&view=article&id=8328:spain-macedonia-40-video&catid=13:international&Itemid=64 |url-status=live }}</ref> Macedonia had not scored a single point, the worst qualifying start in the history of the national team.<ref>{{cite web |url=http://ekipa.mk/makedonija-so-ubedlivo-najlosh-kvalifikatsiski-start-vo-istorijata/|script-title=mk:Македонија со убедливо најлош квалификациски старт во историјата!|website=Ekipa.mk |date=13 November 2016 |access-date=14 November 2016 |language=mk |archive-url=https://web.archive.org/web/20161115024026/http://ekipa.mk/makedonija-so-ubedlivo-najlosh-kvalifikatsiski-start-vo-istorijata/ |archive-date=15 November 2016 |url-status=dead }}</ref>
+
+In March 2017, Macedonia recorded their first 3–0 qualification victory against Liechtenstein.<ref>{{cite web |work=ФФМ - Фудбалска Федерација на Македонија |url=http://ffm.mk/makedonija-ubedlivo-so-30-pobedi-vo-lihtenshtajn|script-title=mk:Македонија убедливо со 3:0 победи во Лихтенштајн |publisher=[[Football Federation of Macedonia]] |date=24 March 2017 |access-date=27 March 2017 |language=mk |archive-date=27 March 2017 |archive-url=https://web.archive.org/web/20170327172015/http://ffm.mk/makedonija-ubedlivo-so-30-pobedi-vo-lihtenshtajn |url-status=live }}</ref> They later lost against Spain in Skopje 2–1.<ref>{{cite web |url=http://macedonianfootball.com/index.php?option=com_content&view=article&id=8460:macedonia-spain-12&catid=13:international&Itemid=64 |title=Macedonia 1–2 Spain (Video)|website=Macedonian Football|date=12 June 2017 |access-date=6 September 2017 |archive-date=6 September 2017 |archive-url=https://web.archive.org/web/20170906183254/http://macedonianfootball.com/index.php?option=com_content&view=article&id=8460:macedonia-spain-12&catid=13:international&Itemid=64 |url-status=live }}</ref> Macedonia also defeated Israel away through the sole goal by Goran Pandev, which was also a first ever victory against Israel.<ref>{{cite web |url=http://macedonianfootball.com/index.php?option=com_content&view=article&id=8517:israel-macedonia-01&catid=13:international&Itemid=64 |title=Israel 0–1 Macedonia|website=Macedonian Football|date=3 September 2017 |access-date=6 September 2017 |archive-date=6 September 2017 |archive-url=https://web.archive.org/web/20170906181912/http://macedonianfootball.com/index.php?option=com_content&view=article&id=8517:israel-macedonia-01&catid=13:international&Itemid=64 |url-status=live }}</ref> Macedonia later tied Albania in [[Strumica]] 1–1.<ref>{{cite web |url=http://macedonianfootball.com/index.php?option=com_content&view=article&id=8521:macedonia-albania-11&catid=13:international&Itemid=64 |title=Macedonia 1–1 Albania (Video)|website=Macedonian Football|date=5 September 2017 |access-date=6 September 2017 |archive-date=6 September 2017 |archive-url=https://web.archive.org/web/20170906182419/http://macedonianfootball.com/index.php?option=com_content&view=article&id=8521:macedonia-albania-11&catid=13:international&Itemid=64 |url-status=live }}</ref>
+
+=== 2018–present ===
+====2018–19 UEFA Nations League D====
+{{Main|2018–19 UEFA Nations League D#Group 4}}
+[[File:Горан Пандев.jpg|thumb|right|175px|[[Goran Pandev]]]]
+In the inaugural [[UEFA Nations League]], Macedonia played in [[2018–19 UEFA Nations League D|League D]], the lowest division.<ref>{{cite web |url=https://sport1.mk/fudbal/reprezentacija/uefa-potvrdi-makedonija-nositel-vo-liga-na-nacii-foto|script-title=mk:УЕФА потврди: Македонија носител во Лига на нации! (ФОТО)|website=Sport1|date=11 October 2017 |access-date=11 October 2017 |language=mk |archive-date=20 November 2018 |archive-url=https://web.archive.org/web/20181120015128/https://sport1.mk/fudbal/reprezentacija/uefa-potvrdi-makedonija-nositel-vo-liga-na-nacii-foto |url-status=live }}</ref> Macedonia were drawn in Group 4 with [[Armenia national football team|Armenia]], Liechtenstein and [[Gibraltar national football team|Gibraltar]].<ref>{{cite web |url=http://www.gol.mk/fudbal/liga-na-nacii-makedonija-vo-grupa-so-ermenija-lihtenshtajn-i-gibraltar|script-title=mk:Лига на нации: Македонија во група со Ерменија, Лихтенштајн и Гибралтар|website=Gol.mk |date=24 January 2018 |access-date=24 January 2018 |language=mk |archive-date=25 January 2018 |archive-url=https://web.archive.org/web/20180125020015/http://www.gol.mk/fudbal/liga-na-nacii-makedonija-vo-grupa-so-ermenija-lihtenshtajn-i-gibraltar |url-status=live }}</ref> The national team won the group with five wins and one loss, were promoted to the League C for the next edition of the Nations League, and were assured of a [[UEFA Euro 2020 qualifying play-offs]] place.<ref>{{cite web |url=https://ekipa.mk/misijata-kompletirana-zemavme-zalet-za-evropsko/|script-title=mk:Мисијата комплетирана – земавме залет за Европско!|website=Ekipa.mk |date=19 November 2018 |access-date=19 November 2018 |language=mk |archive-date=20 November 2018 |archive-url=https://web.archive.org/web/20181120005558/https://ekipa.mk/misijata-kompletirana-zemavme-zalet-za-evropsko/ |url-status=live }}</ref>
+
+====Euro 2020 qualifiers====
+{{main|UEFA Euro 2020 qualifying Group G}}
+[[File:Ukro-Maki (14).jpg|thumb|right|175px|[[Stefan Ristovski]]]]
+For the [[UEFA Euro 2020 qualifying]], the newly-renamed North Macedonia were placed in Group G, along with [[Austria national football team|Austria]], Israel, [[Latvia national football team|Latvia]], Poland, and Slovenia.<ref>{{cite web |url=http://macedonianfootball.com/euro-2020-qualifying-draw-made/ |title=Euro 2020 qualifying draw made|website=Macedonian Football|date=2 December 2018 |access-date=2 December 2018 |archive-date=2 December 2018 |archive-url=https://web.archive.org/web/20181202202715/http://macedonianfootball.com/euro-2020-qualifying-draw-made/ |url-status=live }}</ref> North Macedonia managed two first impressive results with a 1–1 away draw against Slovenia.<ref>{{cite web |url=https://www.uefa.com/uefaeuro/match/2026049--slovenia-vs-north-macedonia/ |title=Slovenia-North Macedonia {{!}} UEFA Euro 2020|website=UEFA|access-date=24 March 2019 |archive-date=10 May 2019 |archive-url=https://web.archive.org/web/20190510120309/https://www.uefa.com/european-qualifiers/season=2020/matches/round=2001086/match=2026049/ |url-status=live }}</ref> Prior to the match, Macedonia defeated Latvia 3–1 at home,.<ref>{{cite web |url=https://www.uefa.com/uefaeuro/match/2026022--north-macedonia-vs-latvia/ |title=North Macedonia-Latvia {{!}} UEFA Euro 2020|website=UEFA|access-date=19 March 2019 |archive-date=17 June 2019 |archive-url=https://web.archive.org/web/20190617153158/https://www.uefa.com/european-qualifiers/season=2020/matches/round=2001086/match=2026022/ |url-status=live }}</ref> However, North Macedonia would soon fall 1–0 to Poland<ref>{{cite web |url=https://www.uefa.com/uefaeuro/match/2026080--north-macedonia-vs-poland/ |title=North Macedonia-Poland {{!}} UEFA Euro 2020|website=UEFA|access-date=7 June 2019 |archive-date=18 May 2019 |archive-url=https://web.archive.org/web/20190518135855/https://www.uefa.com/european-qualifiers/season=2020/matches/round=2001086/match=2026080/ |url-status=live }}</ref> and 4–1 to Austria.<ref>{{cite web |url=https://www.uefa.com/uefaeuro/match/2026150--north-macedonia-vs-austria/ |title = North Macedonia-Austria {{!}} UEFA EURO 2020 {{!}} UEFA.com}}</ref> Later, the North Macedonia recorded a 1–1 away draw against Israel,<ref>{{cite web |url=https://www.uefa.com/european-qualifiers/match/2026172--israel-vs-north-macedonia/ |title=Israel-North Macedonia {{!}} European Qualifiers|website=UEFA|access-date=10 August 2020 |archive-date=14 August 2020 |archive-url=https://web.archive.org/web/20200814093515/https://www.uefa.com/european-qualifiers/match/2026172--israel-vs-north-macedonia/ |url-status=live }}</ref> and a 2–1 home victory against Slovenia.<ref>{{cite web |url=https://www.uefa.com/european-qualifiers/match/2026222--north-macedonia-vs-slovenia/ |title=North Macedonia-Slovenia {{!}} European Qualifiers|website=UEFA|access-date=10 October 2019 |archive-date=6 November 2019 |archive-url=https://web.archive.org/web/20191106071418/https://www.uefa.com/european-qualifiers/match/2026222--north-macedonia-vs-slovenia/ |url-status=live }}</ref> North Macedonia lost 2–0 away against Poland,<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/50035075 |title=Poland 2-0 North Macedonia: Poland qualify for Euro 2020|website=[[BBC Sport]]|publisher=[[BBC]]|access-date=10 August 2020 |archive-date=13 October 2019 |archive-url=https://web.archive.org/web/20191013205614/https://www.bbc.co.uk/sport/football/50035075 |url-status=live }}</ref> and 2–1 away against Austria, ending up in third place.<ref>{{cite web |url=https://www.espn.com/soccer/report?gameId=528870 |access-date=28 November 2021 |title=Austria beat North Macedonia to qualify for Euro 2020 |website=ESPN|date=17 November 2019 |archive-date=16 November 2021 |archive-url=https://web.archive.org/web/20211116134957/https://www.espn.com/soccer/report?gameId=528870 |url-status=live }}</ref>
+
+However, due to them having successfully taken first place in the UEFA Nations League earlier, North Macedonia eventually reached its first ever competitive playoff in history and was scheduled against [[Kosovo national football team|Kosovo]]. Eventually, in the [[UEFA Euro 2020 qualifying play-offs]] semi-final, North Macedonia overcame Kosovo 2–1 at home. Then they faced [[Georgia national football team|Georgia]] in the final of Path D's play-offs on 13 November in [[Tbilisi]], winning 1–0.<ref>{{Cite news |title=North Macedonia reach Euro 2020 |url=https://www.bbc.com/sport/football/54923164|website=BBC Sport|date=12 November 2020|access-date=29 March 2024}}</ref>
+
+====2020–21 UEFA Nations League C====
+{{Main|2020–21 UEFA Nations League C#Group 2}}
+After winning the League D group in the first edition of the [[UEFA Nations League]], North Macedonia were promoted to the third division of the competition, League C. North Macedonia was drawn in Group 2 together with [[Armenia national football team|Armenia]], [[Estonia national football team|Estonia]] and Georgia.<ref>{{cite web |url=https://www.uefa.com/uefanationsleague/standings/#grp-2007350 |title=UEFA Nations League |publisher=[[UEFA]] |date=1 September 2020|access-date=6 September 2020 |archive-date=10 June 2021 |archive-url=https://web.archive.org/web/20210610173844/https://www.uefa.com/uefanationsleague/standings/#grp-2007350 |url-status=live }}</ref>
+
+====UEFA Euro 2020====
+{{football squad on pitch|align=right
+| GK = [[Stole Dimitrievski|Dimitrievski]]
+| LCB = [[Visar Musliu|Musliu]]
+| CB = [[Darko Velkovski|Velkovski]]
+| RCB = [[Stefan Ristovski|Ristovski]]
+| LWB = [[Ezgjan Alioski|Alioski]]
+| RWB = [[Boban Nikolov|Nikolov]]
+| LCM  = [[Elif Elmas|Elmas]]
+| CM = [[Arijan Ademi|Ademi]]
+| RCM = [[Enis Bardhi|Bardhi]]
+| LCF = [[Aleksandar Trajkovski|Trajkovski]]
+| RCF = [[Goran Pandev|Pandev]]
+| caption = The starting lineup against [[Austria national football team|Austria]] in group C at the [[UEFA Euro 2020]]
+}}
+North Macedonia made their Euros debut in 2020, postponed to 2021 due to the [[COVID-19 pandemic]]. All three [[UEFA Euro 2020 Group C|Group C]] matches ended up in a loss, to Austria, Ukraine, and the Netherlands; [[Goran Pandev]] equalized against Austria in the 28th minute and [[Ezgjan Alioski]] scored against Ukraine. North Macedonia was the second debutant, after [[Finland national football team|Finland]].
+
+====2022 World Cup qualifiers====
+{{main|2022 FIFA World Cup qualification – UEFA Group J}}
+
+For the [[2022 FIFA World Cup|2022 World Cup]] qualifying campaign, North Macedonia was drawn in [[2022 FIFA World Cup qualification – UEFA Group J|Group J]] with [[Germany national football team|Germany]], [[Romania national football team|Romania]], [[Iceland national football team|Iceland]], [[Armenia national football team|Armenia]] and [[Liechtenstein national football team|Liechtenstein]].<ref>{{cite web |url=http://macedonianfootball.com/2022-fifa-world-cup-qualifying-draw-made/ |title=2022 FIFA World Cup qualifying draw made|website=Macedonian Football|date=7 December 2020 |access-date=7 December 2020 |archive-date=25 February 2021 |archive-url=https://web.archive.org/web/20210225195202/http://macedonianfootball.com/2022-fifa-world-cup-qualifying-draw-made/ |url-status=live }}</ref> On matchday 3, North Macedonia inflicted a 2–1 defeat on Germany in [[Duisburg]], which was Germany's first World Cup qualification defeat since 2001 and only the third in their history.<ref>{{cite news |title=North Macedonia beat Germany to end World Cup qualifying run |url=https://www.aljazeera.com/news/2021/3/31/germany-beaten-by-north-macedonia-to-end-world-cup-qualifying-run |access-date=1 April 2021 |agency=Associated Press |via=Al Jazeera |date=31 March 2021 |archive-date=31 March 2021 |archive-url=https://web.archive.org/web/20210331213249/https://www.aljazeera.com/news/2021/3/31/germany-beaten-by-north-macedonia-to-end-world-cup-qualifying-run |url-status=live }}</ref><ref>{{cite web|url=https://www.bbc.com/sport/football/56596712|title=Germany 1–2 North Macedonia|date=31 March 2021|website=BBC Sport|access-date=1 April 2021|archive-date=31 March 2021|archive-url=https://web.archive.org/web/20210331212631/https://www.bbc.com/sport/football/56596712|url-status=live}}</ref> In the last two games against Armenia and Iceland, North Macedonia won both (5–0 away against Armenia, 3–1 against Iceland) to put them in 2nd in Group J. Qualifying for the play-offs, they defeated reigning European champions [[Italy national football team|Italy]] in [[Palermo]] on 24 March 2022, and faced [[Portugal national football team|Portugal]] in the play-off final on 29 March where they lost 2–0.<ref>{{cite news |title=Italy 0–1 North Macedonia |url=https://www.bbc.co.uk/sport/football/60869125 |access-date=24 March 2022|website=BBC Sport|publisher=BBC|date=24 March 2022 |archive-date=24 March 2022 |archive-url=https://web.archive.org/web/20220324195102/https://www.bbc.co.uk/sport/football/60869125 |url-status=live }}</ref><ref>{{cite web|url=https://www.theguardian.com/football/2022/mar/29/portugal-north-macedonia-world-cup-playoff-match-report|title=Bruno Fernandes strikes send Portugal past North Macedonia to World Cup|date=29 March 2022|newspaper=[[The Guardian]]|access-date=30 March 2022|archive-date=29 March 2022|archive-url=https://web.archive.org/web/20220329223840/https://www.theguardian.com/football/2022/mar/29/portugal-north-macedonia-world-cup-playoff-match-report|url-status=live}}</ref>
+
+====2022–23 UEFA Nations League C and Euro 2024 qualification====
+{{main|2022–23 UEFA Nations League C#Group 4|UEFA Euro 2024 qualifying}}
+
+North Macedonia played in the [[UEFA Nations League]] against Georgia, Gibraltar, and Bulgaria – eventually finishing third place. Meanwhile, in the UEFA Euro 2024 qualifying, North Macedonia failed to qualify for the [[UEFA Euro 2024]], finishing fourth in their group after England, Italy, Ukraine, and above Malta.<ref>{{Cite web |date=17 October 2023|title=Italy don't fear win or go home Euro games |url=https://www.espn.com/soccer/story/_/id/38682909/italy-fear-win-go-home-euro-qualifying-games|website=ESPN|access-date=29 March 2024}}</ref>
+[[File:Enis Bardhi (cropped).jpg|thumb|200px|Enis Bardhi]]
+
+==Team image==
+[[File:Macedonian fans.JPG|thumb|350px|'''Devoted Fans''']]
+===Stadiums===
+<gallery widths="400">
+File:Philip II Arena 2017-1.jpg|Capacity 36,500
+File:Стадион Младост Струмица.jpg|Capacity 10,000
+File:StadiumTetovo.jpg|Capacity 15,000
+File:PrilepStadionGoceDelchev.png|Capacity 15,000
+</gallery>
+{| class="wikitable" style="text-align: left;"
+|-
+!Number of<br>matches
+!Stadium
+!First international
+!Last international
+|-
+|align=center|130
+|[[Toše Proeski Arena]], [[Skopje]]<ref>{{cite web |url=https://eu-football.info/_venue.php?id=361 |title=Telekom Arena, Skopje |website=EU-Football.info |access-date=1 July 2017 |archive-date=25 May 2016 |archive-url=https://web.archive.org/web/20160525224120/http://eu-football.info/_venue.php?id=361 |url-status=live }}</ref>
+|23 March 1994
+|13 November 2025
+|-
+|align=center|5
+|[[Stadion Goce Delčev]], [[Prilep]]<ref>{{cite web |url=https://eu-football.info/_venue.php?id=1694 |title=Gradski Stadion Goce Delčev, Prilep |website=EU-Football.info |access-date=1 July 2017 |archive-date=10 September 2018 |archive-url=https://web.archive.org/web/20180910204606/https://eu-football.info/_venue.php?id=1694 |url-status=live }}</ref>
+|27 March 1996
+|15 November 2011
+|-
+|align=center|5
+|[[Stadion Blagoj Istatov|Stadion Mladost]], [[Strumica]]<ref>{{cite web |url=https://eu-football.info/_venue.php?id=1868 |title=Stadion Mladost, Strumica |website=EU-Football.info |access-date=1 July 2017 |archive-date=6 September 2017 |archive-url=https://web.archive.org/web/20170906041343/https://eu-football.info/_venue.php?id=1868 |url-status=live }}</ref>
+|12 April 1995
+|17 October 2023
+|-
+|align=center|1
+|[[Ecolog Arena|Gradski stadion]], [[Tetovo]]<ref>{{cite web |url=https://eu-football.info/_venue.php?id=1692 |title=Gradski Stadion, Tetovo |website=EU-Football.info |access-date=1 July 2017 |archive-date=14 February 2019 |archive-url=https://web.archive.org/web/20190214061843/https://eu-football.info/_venue.php?id=1692 |url-status=live }}</ref>
+|14 May 1994
+|14 May 1994
+|-
+|align=center|1
+|[[Gradski Stadium Kumanovo|Gradski stadion]], [[Kumanovo]]<ref>{{cite web |url=https://eu-football.info/_venue.php?id=1695 |title=Gradski Stadion, Kumanovo |website=EU-Football.info |access-date=1 July 2017 |archive-date=30 May 2015 |archive-url=https://web.archive.org/web/20150530183505/https://eu-football.info/_venue.php?id=1695 |url-status=live }}</ref>
+|29 September 1998
+|29 September 1998
+|}
+
+===Kit sponsorship===
+{{Football kit box
+| align      = right
+| pattern_la = _macedonia1617h
+| pattern_b  = _macedonia1617h
+| pattern_ra = _macedonia1617h
+| pattern_sh = _macedonia1617h
+| pattern_so = _macedonia1617h
+| leftarm    = FF0000
+| body       = FF0000
+| rightarm   = FF0000
+| shorts     = FF0000
+| socks      = FF0000
+| title      = [[UEFA Euro 2020]] ''' Debut Kit'''
+}}
+{{Commons|North Macedonia national football team kits}}
+{| class="wikitable" style="text-align: left" 
+|-
+! Kit supplier
+! Period
+|-
+| {{flagicon|GER}} [[Adidas]]
+| 1992–1993
+|-
+| {{flagicon|ITA}} [[Gems]]
+| 1994–1998
+|-
+| {{flagicon|GER}} [[Puma (brand)|Puma]]
+| 1998–2014
+|-
+| {{flagicon|GER}} [[Jako]]
+| 2015–2025
+|-
+| {{flagicon|GER}} [[Adidas]]
+| 2026–present
+|}
+
+==Results and fixtures==
+{{main|Macedonia national football team results|North Macedonia national football team results}}
+The following is a list of match results in the last 12 months, as well as any future matches that have been scheduled.
+
+{{legend2|#CCFFCC|Win|border=1px solid #AAAAAA}}
+{{legend2|#FFFFCC|Draw|border=1px solid #AAAAAA}}
+{{legend2|#FFCCCC|Loss|border=1px solid #AAAAAA}}
+{{legend2|#FFFFFF|Fixture|border=1px solid #AAAAAA}}
+
+===2025===
+{{football box collapsible
+|format            = 1
+|date              = 4 September
+|time              = {{UTZ|17:00|2}}
+|round             = [[Exhibition game|Friendly]]
+|team1             = {{fb-rt|KSA}}
+|score             = 2–1
+|report            = https://www.uefa.com/european-qualifiers/friendlies/match/2045897--saudi-arabia-vs-north-macedonia/
+|team2             = {{fb|MKD}}
+|goals1            =
+*[[Firas Al-Buraikan|Al-Buraikan]] {{goal|45}}
+*[[Abdullah Al-Hamdan|Al-Hamdan]] {{goal|78}}
+|goals2            =
+*[[Aleksandar Trajkovski|Trajkovski]] {{goal|41}}
+|stadium           = [[FK Viktoria Stadion]]
+|location          = [[Prague]], Czech Republic
+|attendance        = 500
+|referee           = [[Dominik Starý]] ([[Football Association of the Czech Republic|Czech Republic]])
+|result            = L
+}}
+{{football box collapsible|format=1
+|date              = 7 September 
+|time              = {{UTZ|18:00|2}}
+|round             = [[2026 FIFA World Cup qualification – UEFA Group J|2026 FIFA World Cup qualification]]
+|team1             = {{fb-rt|MKD}}
+|score             = 5–0
+|report            = https://www.uefa.com/european-qualifiers/match/2044236/
+|team2             = {{fb|LIE}}
+|goals1            =
+*[[Benjamin Büchel|Büchel]] {{goal|15|o.g.}}
+*[[Enis Bardhi|Bardhi]] {{goal|52}}
+*[[Darko Churlinov|Churlinov]] {{goal|56}}
+*[[Lirim Qamili|Qamili]] {{goal|82}}
+*[[Luka Stankovski|Stankovski]] {{goal|90}}
+|goals2            =
+|stadium           = [[Toše Proeski Arena]]
+|location          = [[Skopje]], North Macedonia
+|attendance        = 8,693
+|referee           = Horațiu Feșnic ([[Romanian Football Federation|Romania]])
+|result            = W
+}}
+{{football box collapsible|format=1
+|date              = 10 October
+|time              = {{UTZ|20:45|2}}
+|round             = [[2026 FIFA World Cup qualification – UEFA Group J|2026 FIFA World Cup qualification]]
+|team1             = {{fb-rt|BEL}}
+|score             = 0–0
+|report            = https://www.uefa.com/european-qualifiers/match/2044268/
+|team2             = {{fb|MKD}}
+|goals1            =
+|goals2            =
+|stadium           = [[Planet Group Arena]]
+|location          = [[Ghent]], Belgium
+|attendance        = 18,583
+|referee           = [[Halil Umut Meler]] ([[Turkish Football Federation|Turkey]])
+|result            = D
+}}
+{{football box collapsible|format=1
+|date              = 13 October 
+|time              = {{UTZ|20:45|2}}
+|round             = [[2026 FIFA World Cup qualification – UEFA Group J|2026 FIFA World Cup qualification]]
+|team1             = {{fb-rt|MKD}}
+|score             = 1–1
+|report            = https://www.uefa.com/european-qualifiers/match/2044296/
+|team2             = {{fb|KAZ}}
+|goals1            =
+*[[Enis Bardhi|Bardhi]] {{goal|74}}
+|goals2            =
+*[[Dinmukhamed Karaman|Karaman]] {{goal|54}}
+|stadium           = [[Toše Proeski Arena]]
+|location          = [[Skopje]], North Macedonia
+|attendance        = 19,929
+|referee           = [[Juan Martínez Munuera]] ([[Royal Spanish Football Federation|Spain]])
+|result            = D
+}}
+{{football box collapsible
+|format            = 1
+|date              = 13 November
+|time              = {{UTZ|18:00|1}}
+|round             = [[Exhibition game|Friendly]]
+|team1             = {{fb-rt|MKD}}
+|score             = 0–0
+|report            = https://www.uefa.com/european-qualifiers/friendlies/match/2046639--north-macedonia-vs-latvia/
+|team2             = {{fb|LVA}}
+|goals1            =
+|goals2            =
+|stadium           = [[Toše Proeski Arena]]
+|location          = [[Skopje]], North Macedonia
+|attendance        = 4,000
+|referee           = [[Miloš Savović]] ([[Football Association of Montenegro|Montenegro]])
+|result            = D
+}}
+{{football box collapsible|format=1
+|date              = 18 November 
+|time              = {{UTZ|19:45|0}}
+|round             = [[2026 FIFA World Cup qualification – UEFA Group J|2026 FIFA World Cup qualification]]
+|team1             = {{fb-rt|WAL}}
+|score             = 7–1
+|report            = https://www.uefa.com/european-qualifiers/match/2044345/
+|team2             = {{fb|MKD}}
+|goals1            =
+*[[Harry Wilson (footballer, born 1997)|Wilson]] {{goal|18|pen.|75||81|pen.}}
+*[[David Brooks (footballer)|Brooks]] {{goal|21}}
+*[[Brennan Johnson|Johnson]] {{goal|37}}
+*[[Daniel James (footballer)|James]] {{goal|57}}
+*[[Nathan Broadhead|Broadhead]] {{goal|88}}
+|goals2            =
+*[[Bojan Miovski|Miovski]] {{goal|23}}
+|stadium           = [[Cardiff City Stadium]]
+|location          = [[Cardiff]], Wales
+|attendance        = 32,154
+|referee           = [[Danny Makkelie]] ([[Royal Dutch Football Association|Netherlands]])
+|result            = L
+}}
+
+===2026===
+{{football box collapsible
+|format     = 1
+|date       = 26 March
+|time       = {{UTZ|20:45|1}}
+|round      = [[2026 FIFA World Cup qualification – UEFA second round|2026 World Cup qualification play-offs]]
+|score      = 4–0
+|report     = https://www.uefa.com/european-qualifiers/match/2047080/
+|team1      = {{fb-rt|DEN}}
+|goals1     = 
+*[[Mikkel Damsgaard|Damsgaard]] {{goal|49}}
+*[[Gustav Isaksen|Isaksen]] {{goal|58||59}}
+*[[Christian Nørgaard|Nørgaard]] {{goal|75}}
+|team2      = {{fb|MKD}}
+|goals2     = 
+|stadium    = [[Parken Stadium]]
+|location   = [[Copenhagen]], Denmark
+|attendance = 35,746
+|referee    = [[Felix Zwayer]] ([[German Football Association|Germany]])
+|result     = L
+}}
+{{football box collapsible
+|format     = 1
+|round      = [[Exhibition game#International football|Friendly]]
+|date       = 31 March
+|time       = {{UTZ|19:45|1}}
+|team1      = {{fb-rt|IRL}}
+|score      = 0–0
+|team2      = {{fb|MKD}}
+|report     = https://www.uefa.com/european-qualifiers/friendlies/match/2048153--republic-of-ireland-vs-north-macedonia/
+|goals1     =
+|goals2     =
+|location   = [[Dublin]], Ireland
+|stadium    = [[Aviva Stadium]]
+|attendance = 39,560
+|referee    = Iwan Arwel Griffith ([[Football Association of Wales|Wales]])
+|result     = D
+}}
+{{football box collapsible|format=1
+|date              = 29 May
+|time              = {{UTZ|20:30|2}}
+|round             = [[Exhibition game|Friendly]]
+|team1             = {{fb-rt|BIH}}
+|score             = 0–0
+|report            = https://www.uefa.com/european-qualifiers/friendlies/match/2048309--bosnia-and-herzegovina-vs-north-macedonia/
+|team2             = {{fb|MKD}}
+|goals1            =
+|goals2            =
+|stadium           = [[Koševo City Stadium|Stadion Koševo]]
+|location          = [[Sarajevo]], Bosnia and Herzegovina
+|attendance        = 28,961
+|referee           = [[Rade Obrenović]] ([[Football Association of Slovenia|Slovenia]])
+|result            = D
+}}
+{{football box collapsible|format=1
+|date              = 1 June
+|time              = {{UTZ|20:30|3}}
+|round             = [[Exhibition game|Friendly]]
+|team1             = {{fb-rt|TUR}}
+|score             = 4–0
+|report            = https://www.uefa.com/european-qualifiers/friendlies/match/2048300--turkiye-vs-north-macedonia/
+|team2             = {{fb|MKD}}
+|goals1            =
+*[[Orkun Kökçü|Kökçü]] {{goal|2}}
+*[[Can Uzun|Uzun]] {{goal|16}}
+*[[Deniz Gül|Gül]] {{goal|53}}
+*[[Barış Alper Yılmaz|Yılmaz]] {{goal|70}}
+|goals2            =
+|stadium           = [[Şükrü Saracoğlu Stadium]]
+|location          = [[Istanbul]], Turkey
+|attendance        = 33,994
+|referee           = [[José Luis Munuera Montero]] ([[Spanish Football Federation|Spain]])
+|result            = L
+}}
+{{football box collapsible
+|format = 1
+|date = 26 September
+|time = {{UTZ|20:45|2}}
+|round = [[2026–27 UEFA Nations League B]]
+|team1 = {{fb-rt|MKD}}
+|score = 
+|report = https://www.uefa.com/uefanationsleague/match/2048022/
+|team2 = {{fb|SUI}}
+|goals1 = 
+|goals2 = 
+|stadium = [[Toše Proeski Arena]]
+|location = [[Skopje]], North Macedonia
+|attendance = 
+|referee = 
+|result = 
+}}
+{{football box collapsible
+|format = 1
+|date = 29 September
+|time = {{UTZ|20:45|2}}
+|round = [[2026–27 UEFA Nations League B]]
+|team1 = {{fb-rt|SVN}}
+|score = 
+|report = https://www.uefa.com/uefanationsleague/match/2047992/
+|team2 = {{fb|MKD}}
+|goals1 = 
+|goals2 = 
+|stadium = [[Stožice Stadium]]
+|location = [[Ljubljana]], Slovenia
+|attendance = 
+|referee = 
+|result = 
+}}
+{{football box collapsible
+|format = 1
+|date = 3 October
+|time = {{UTZ|20:45|2}}
+|round = [[2026–27 UEFA Nations League B]]
+|team1 = {{fb-rt|MKD}}
+|score = 
+|report = https://www.uefa.com/uefanationsleague/match/2047975/
+|team2 = {{fb|SCO}}
+|goals1 = 
+|goals2 = 
+|stadium = [[Toše Proeski Arena]]
+|location = [[Skopje]], North Macedonia
+|attendance = 
+|referee = 
+|result = 
+}}
+{{football box collapsible
+|format = 1
+|date = 6 October
+|time = {{UTZ|20:45|2}}
+|round = [[2026–27 UEFA Nations League B]]
+|team1 = {{fb-rt|SUI}}
+|score = 
+|report = https://www.uefa.com/uefanationsleague/match/2047940/
+|team2 = {{fb|MKD}}
+|goals1 = 
+|goals2 = 
+|stadium = [[Thermoplan Arena]]
+|location = [[Lucerne]], Switzerland
+|attendance = 
+|referee = 
+|result = 
+}}
+{{football box collapsible
+|format = 1
+|date = 13 November
+|time = {{UTZ|19:45|0}}
+|round = [[2026–27 UEFA Nations League B]]
+|team1 = {{fb-rt|SCO}}
+|score = 
+|report = https://www.uefa.com/uefanationsleague/match/2047888/
+|team2 = {{fb|MKD}}
+|goals1 = 
+|goals2 = 
+|stadium = [[Hampden Park]]
+|location = [[Glasgow]], Scotland
+|attendance = 
+|referee = 
+|result = 
+}}
+{{football box collapsible
+|format = 1
+|date = 16 November
+|time = {{UTZ|20:45|1}}
+|round = [[2026–27 UEFA Nations League B]]
+|team1 = {{fb-rt|MKD}}
+|score = 
+|report = https://www.uefa.com/uefanationsleague/match/2047915/
+|team2 = {{fb|SVN}}
+|goals1 = 
+|goals2 = 
+|stadium = [[Toše Proeski Arena]]
+|location = [[Skopje]], North Macedonia
+|attendance = 
+|referee = 
+|result = 
+}}
+
+==Coaching staff==
+
+{| class="wikitable"
+|+
+!Position
+!Name
+|-
+|Head coach
+|{{Flagicon|MKD}} [[Goce Sedloski]]
+|-
+|Assistant coaches
+|{{Flagicon|MKD}} [[Vlatko Grozdanoski]]<br>{{flagicon|MKD}} Robert Stojanovski
+|-
+|Goalkeeper coach
+|{{Flagicon|MKD}} [[Gogo Jovčev]]
+|-
+|Physical coach
+|{{Flagicon|MKD}} Vladimir Vuksanovikj
+|-
+|Video analyst
+|{{Flagicon|SRB}} Goran Stanić
+|-
+|Team doctor
+|{{Flagicon|MKD}} Nebojsha Nastov
+|-
+|Physiotherapists
+|{{Flagicon|MKD}} Makedonka Siljanoska
+|-
+|Masseur
+|{{Flagicon|MKD}} Mohammed Trapanovski
+|-
+|Kit manager
+|{{Flagicon|MKD}} Behar Dimoski
+|-
+|Team manager
+|{{Flagicon|MKD}} Zoran Zafirov
+|-
+|Sporting director
+|{{Flagicon|MKD}} [[Goran Pandev]]
+|-
+|Technical director
+|{{Flagicon|MKD}} [[Zoran Stratev]]
+|}
+
+==Coaching history==
+''Updated on 30 May 2026''<ref>{{cite web |url=http://macedonianfootball.com/list-of-all-senior-national-team-coaches/ |title=List of all senior national team coaches |date=28 December 2014 |publisher=MacedonianFootball.com |access-date=2 June 2016 |archive-date=21 January 2018 |archive-url=https://web.archive.org/web/20180121074617/http://macedonianfootball.com/list-of-all-senior-national-team-coaches/ |url-status=live }}</ref>
+{|class=wikitable style="text-align:left"
+|-
+!Name
+!First game
+!Last game
+!{{abbr|P|Matches played}}
+!{{abbr|W|Matches won}}
+!{{abbr|D|Matches drawn}}
+!{{abbr|L|Matches lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!{{Tooltip|GD|Goal differential}}
+!{{abbr|Win %|Win percentage}}
+!Achievements
+|-
+|style="text-align: left;"|{{flagicon|MKD|1992}} {{sortname|Gjoko|Hadžievski| |Hadzievski, Gjoko}}
+|9 October 1991
+|16 June 1993
+{{WDL|4|2|0|2|for=6|against=9|diff=yes}}
+|
+|-
+|style="text-align: left;"|{{flagicon|MKD|1992}} {{flagicon|MKD}} {{sortname|Andon|Dončevski| |Doncevski, Andon}}
+|13 October 1993
+|15 November 1995
+{{WDL|17|5|5|7|for=23|against=23|diff=yes}}
+|
+|-
+|style="text-align: left;"|{{flagicon|MKD}} {{sortname|Gjoko|Hadžievski| |Hadzievski, Gjoko}}
+|27 March 1996
+|9 June 1999
+{{WDL|28|10|7|11|for=42|against=37|diff=yes}}
+|
+|-
+|style="text-align: left;"|{{flagicon|MKD}} {{sortname|Dragi|Kanatlarovski}}
+|5 September 1999
+|13 February 2005
+{{WDL|31|8|8|15|for=32|against=37|diff=yes}}
+|
+|-
+|style="text-align: left;"|{{flagicon|MKD}} {{sortname|Gjore|Jovanovski}}
+|2 June 2001
+|10 January 2002
+{{WDL|13|0|6|7|for=9|against=27|diff=yes}}
+|
+|-
+|style="text-align: left;"|{{flagicon|MKD}} {{sortname|Nikola|Ilievski}}
+|27 March 2002
+|11 June 2003
+{{WDL|13|3|4|6|for=23|against=24|diff=yes}}
+|
+|-
+|style="text-align: left;"|{{flagicon|SCG}} {{sortname|Slobodan|Santrač| |Santrac, Slobodan}}
+|30 March 2005
+|17 August 2005
+{{WDL|4|1|0|3|for=4|against=12|diff=yes}}
+|
+|-
+|style="text-align: left;"|{{flagicon|MKD}} {{sortname|Boban|Babunski}} ([[Caretaker manager|caretaker]])
+|7 September 2005
+|10 August 2011
+{{WDL|4|2|1|1|for=4|against=6|diff=yes}}
+|
+|-
+|style="text-align: left;"|{{flagicon|SVN}} {{sortname|Srečko|Katanec| |Katanec, Srecko}}
+|1 March 2006
+|1 April 2009
+{{WDL|27|9|7|11|for=28|against=29|diff=yes}}
+|
+|-
+|style="text-align: left;"|{{flagicon|MKD}} {{sortname|Mirsad|Jonuz}}
+|6 June 2009
+|4 June 2011
+{{WDL|20|7|4|9|for=21|against=19|diff=yes}}
+|
+|-
+|style="text-align: left;"|{{flagicon|MKD}} {{sortname|Vlatko|Kostov}} (caretaker)
+|7 September 2010
+|7 September 2010
+{{WDL|1|0|1|0|for=2|against=2|diff=yes}}
+|
+|-
+|style="text-align: left;"|{{flagicon|WAL}} {{sortname|John|Toshack}}
+|2 September 2011
+|29 May 2012
+{{WDL|8|1|4|3|for=4|against=8|diff=yes}}
+|
+|-
+|style="text-align: left;"|{{flagicon|MKD}} {{sortname|Goce|Sedloski}} (caretaker)
+|15 August 2012
+|15 August 2012
+{{WDL|1|1|0|0|for=1|against=0|diff=yes}}
+|
+|-
+|style="text-align: left;"|{{flagicon|MKD}} {{sortname|Čedomir|Janevski| |Janevski, Cedomir}}
+|7 September 2012
+|10 September 2013
+{{WDL|14|5|1|8|for=15|against=19|diff=yes}}
+|
+|-
+|style="text-align: left;"|{{flagicon|MKD}} {{sortname|Zoran|Stratev}} (caretaker)
+|11 October 2013
+|15 October 2013
+{{WDL|2|0|0|2|for=1|against=6|diff=yes}}
+|
+|-
+|style="text-align: left;"|{{flagicon|MKD}} {{sortname|Boško|Gjurovski| |Gjurovski, Bosko}}
+|5 March 2014
+|30 March 2015
+{{WDL|11|2|3|6|for=7|against=12|diff=yes}}
+|
+|-
+|style="text-align: left;"|{{flagicon|SRB}} {{sortname|Ljubinko|Drulović| |Drulovic, Ljubinko}}
+|14 June 2015
+|12 October 2015
+{{WDL|5|0|1|4|for=1|against=6|diff=yes}}
+|
+|-
+|style="text-align: left;"|{{flagicon|MKD}} {{sortname|Igor|Angelovski}}
+|12 November 2015
+|21 June 2021
+{{WDL|53|23|11|19|for=83|against=65|diff=yes}}
+|<small>[[UEFA Euro 2020]] [[UEFA Euro 2020 Group C|group stage]]</small>
+|-
+|style="text-align: left;"|{{flagicon|MKD}} {{sortname|Blagoja|Milevski}}
+|2 September 2021
+|18 November 2025
+{{WDL|48|18|14|16|for=64|against=62|diff=yes}}
+|
+|-
+|style="text-align: left;"|{{flagicon|MKD}} {{sortname|Goce|Sedloski}}
+|23 December 2025
+|
+{{WDL|3|0|2|1|for=0|against=4|diff=yes}}
+|
+|-
+!colspan=3|Total
+{{WDLtot|298|95|76|127|for=341|against=368|diff=yes}}
+!align=center|—
+|}
+
+==Players==
+===Current squad===
+The following players were called up for the friendly match against [[Bosnia-Herzegovina national football team|Bosnia-Herzegovina]] and [[Türkiye national football team|Türkiye]] on 29 May and 1 June 2026.<ref>{{cite news|title=Петмина дебитанти на списокот на Седлоски за БиХ и Турција|url=https://www.ffm.mk/petmina-debitanti-na-spisokot-na-sedloski-za-bih-i-turcija/|date=21 May 2026|access-date=21 May 2026|language=Macedonian}}</ref>
+<br>''Caps and goals are correct as of 2 June 2026, after the match against [[Türkiye national football team|Türkiye]].''<ref>{{cite web|url=https://www.uefa.com/european-qualifiers/friendlies/match/2048309--bosnia-and-herzegovina-vs-north-macedonia|title=Bosnia and Herzegovina - North Macedonia|work=[[UEFA]]|access-date=30 May 2026}}</ref>
+
+{{nat fs g start}}
+{{nat fs g player|no=23|pos=GK|name=[[Stole Dimitrievski]]|age={{birth date and age|1993|12|25|df=y}}|caps=90|goals=0|club=[[Valencia CF|Valencia]]|clubnat=ESP}}
+{{nat fs g player|no=1|pos=GK|name=[[Damjan Shishkovski]]|age={{birth date and age|1995|3|18|df=y}}|caps=12|goals=0|club=[[FK Borac Banja Luka|Borac]]|clubnat=BIH}}
+{{nat fs g player|no=12|pos=GK|name=[[Davor Taleski]]|age={{birth date and age|1995|5|19|df=y}}|caps=1|goals=0|club=[[FK Vardar|Vardar]]|clubnat=MKD}}
+{{nat fs break}}
+{{nat fs g player|no=10|pos=DF|name=[[Ezgjan Alioski]]|age={{birth date and age|1992|2|12|df=y}}|caps=91|goals=13|club=[[FC Lugano|Lugano]]|clubnat=SUI}}
+{{nat fs g player|no=6|pos=DF|name=[[Visar Musliu]]|age={{birth date and age|1994|11|13|df=y}}|caps=74|goals=2|club=[[Sint-Truidense V.V.|Sint-Truiden]]|clubnat=BEL}}
+{{nat fs g player|no=14|pos=DF|name=[[Darko Velkovski]]|age={{birth date and age|1995|6|21|df=y}}|caps=62|goals=3|club=[[FK Vardar|Vardar]]|clubnat=MKD}}
+{{nat fs g player|no=5|pos=DF|name=[[Gjoko Zajkov]]|age={{birth date and age|1995|2|10|df=y}}|caps=46|goals=1|club=[[Ajman Club|Ajman]]|clubnat=UAE}}
+{{nat fs g player|no=4|pos=DF|name=[[Nikola Serafimov]]|age={{birth date and age|1999|8|11|df=y}}|caps=29|goals=1|club=[[PFC Levski Sofia|Levski]]|clubnat=BUL}}
+{{nat fs g player|no=25|pos=DF|name=[[Jovan Manev]]|age={{birth date and age|2001|1|25|df=y}}|caps=13|goals=1|club=[[FK Novi Pazar|Novi Pazar]]|clubnat=SRB}}
+{{nat fs g player|no=2|pos=DF|name=[[Stefan Despotovski]]|age={{birth date and age|2003|1|23|df=y}}|caps=4|goals=0|club=[[OFK Beograd|Beograd]]|clubnat=SRB}}
+{{nat fs g player|no=13|pos=DF|name=[[Imran Fetai]]|age={{birth date and age|2002|8|2|df=y}}|caps=3|goals=0|club=[[KF Shkëndija|Shkëndija]]|clubnat=MKD}}
+{{nat fs g player|no=3|pos=DF|name=[[Sebastián Herrera (footballer, born 1995)|Sebastián Herrera]]|age={{birth date and age|1995|1|23|df=y}}|caps=3|goals=0|club=[[FK Borac Banja Luka|Borac]]|clubnat=BIH}}
+{{nat fs g player|no=22|pos=DF|name=[[Din Alomerovikj]]|age={{birth date and age|1997|6|29|df=y}}|caps=2|goals=0|club=[[FC UTA Arad|UTA]]|clubnat=ROU}}
+{{nat fs g player|no=18|pos=DF|name=Georgije Jankulov|age={{birth date and age|2001|11|25|df=y}}|caps=1|goals=0|club=[[FK Vardar|Vardar]]|clubnat=MKD}}
+{{nat fs break}}
+{{nat fs g player|no=7|pos=MF|name=[[Eljif Elmas]]|age={{birth date and age|1999|9|24|df=y}}|caps=79|goals=13|club=[[SSC Napoli|Napoli]]|clubnat=ITA}}
+{{nat fs g player|no=16|pos=MF|name=[[Boban Nikolov]]|age={{birth date and age|1994|7|28|df=y}}|caps=51|goals=4|club=[[FK Vardar|Vardar]]|clubnat=MKD}}
+{{nat fs g player|no=21|pos=MF|name=[[Jani Atanasov]]|age={{birth date and age|1999|10|31|df=y}}|caps=32|goals=3|club=[[FC Aktobe|Aktobe]]|clubnat=KAZ}}
+{{nat fs g player|no=8|pos=MF|name=[[Agon Elezi]]|age={{birth date and age|2001|3|1|df=y}}|caps=14|goals=0|club=[[FK Sarajevo|Sarajevo]]|clubnat=BIH}}
+{{nat fs g player|no=26|pos=MF|name=Darko Angjeleski|age={{birth date and age|1999|7|19|df=y}}|caps=1|goals=0|club=[[FK Sileks|Sileks]]|clubnat=MKD}}
+{{nat fs g player|no=20|pos=MF|name=[[Sefer Emini]]|age={{birth date and age|2000|7|15|df=y}}|caps=1|goals=0|club=[[Sønderjyske Fodbold|Sønderjyske]]|clubnat=DEN}}
+{{nat fs break}}
+{{nat fs g player|no=11|pos=FW|name=[[Darko Churlinov]]|age={{birth date and age|2000|7|11|df=y}}|caps=42|goals=5|club=[[Kocaelispor]]|clubnat=TUR}}
+{{nat fs g player|no=9|pos=FW|name=[[Bojan Miovski]]|age={{birth date and age|1999|6|24|df=y}}|caps=41|goals=9|club=[[Rangers F.C.|Rangers]]|clubnat=SCO}}
+{{nat fs g player|no=19|pos=FW|name=[[Milan Ristovski]]|age={{birth date and age|1998|4|8|df=y}}|caps=40|goals=4|club=[[Bohemians 1905|Bohemians]]|clubnat=CZE}}
+{{nat fs g player|no=15|pos=FW|name=[[Elmin Rastoder]]|age={{birth date and age|2001|10|7|df=y}}|caps=9|goals=0|club=[[Panathinaikos F.C.|Panathinaikos]]|clubnat=GRE}}
+{{nat fs g player|no=17|pos=FW|name=[[Azer Omeragikj]]|age={{birth date and age|2002|7|14|df=y}}|caps=2|goals=0|club=[[FK Vardar|Vardar]]|clubnat=MKD}}
+{{nat fs g player|no=24|pos=FW|name=Darko Dodev|age={{birth date and age|1998|1|16|df=y}}|caps=1|goals=0|club=[[FC Altai|Altai]]|clubnat=KAZ}}
+{{nat fs end}}
+
+===Recent call-ups===
+The following players have been called up for the team within the last 12 months and are still available for selection.
+<!--Sorted by position, most recent call-up, caps, goals and last name.-->
+{{nat fs r start}}
+{{nat fs r player|no=|pos=GK|name=[[Dejan Iliev]] <sup>INJ</sup>|age={{birth date and age|1995|2|25|df=y}}|caps=1|goals=0|club=[[FC Rapid București|Rapid]]|clubnat=ROU|latest=v. {{fb|IRL}}, 31 March 2026}}
+{{nat fs r player|no=|pos=GK|name=[[Igor Aleksovski]]|age={{birth date and age|1995|2|24|df=y}}|caps=1|goals=0|club=[[AF Elbasani|Elbasani]]|clubnat=ALB|latest=v. {{fb|WAL}}, 18 November 2025}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=DF|name=[[Egzon Bejtullai]] <sup>INJ</sup>|age={{birth date and age|1994|1|7|df=y}}|caps=28|goals=0|club=[[FC Drita|Drita]]|clubnat=KOS|latest=v. {{fb|IRL}}, 31 March 2026}}
+{{nat fs r player|no=|pos=DF|name=[[Andrej Stojchevski]]|age={{birth date and age|2003|5|26|df=y}}|caps=7|goals=0|club=[[1. FC Slovácko|Slovácko]]|clubnat=CZE|latest=v. {{fb|IRL}}, 31 March 2026}}
+{{nat fs r player|no=|pos=DF|name=[[Stefan Ashkovski]]|age={{birth date and age|1992|2|24|df=y}}|caps=40|goals=0|club=''[[Free agent|Unattached]]''|clubnat=|latest=v. {{fb|WAL}}, 18 November 2025}}
+{{nat fs r player|no=|pos=DF|name=[[Bojan Dimoski]]|age={{birth date and age|2001|11|23|df=y}}|caps=21|goals=0|club=[[KF Shkëndija|Shkëndija]]|clubnat=MKD|latest=v. {{fb|WAL}}, 18 November 2025}}
+{{nat fs r player|no=|pos=DF|name=[[Bojan Ilievski]]|age={{birth date and age|1999|9|1|df=y}}|caps=10|goals=0|club=[[FC Struga|Struga]]|clubnat=MKD|latest=v. {{fb|WAL}}, 18 November 2025}}
+{{nat fs break}}
+{{nat fs r player|no=10|pos=MF|name=[[Enis Bardhi]] <sup>INJ</sup>|other=[[Captain (association football)|captain]]|age={{birth date and age|1995|7|2|df=y}}|caps=82|goals=20|club=[[Konyaspor]]|clubnat=TUR|latest=v. {{fb|BIH}}, 29 May 2026 <sup>WD</sup>}}
+{{nat fs r player|no=|pos=MF|name=[[Tihomir Kostadinov]]|age={{birth date and age|1996|3|4|df=y}}|caps=36|goals=0|club=[[SK Sigma Olomouc|Sigma]]|clubnat=CZE|latest=v. {{fb|IRL}}, 31 March 2026}}
+{{nat fs r player|no=|pos=MF|name=[[Isnik Alimi]]|age={{birth date and age|1994|2|2|df=y}}|caps=23|goals=2|club=[[Dalian Yingbo F.C.|Dalian Yingbo]]|clubnat=CHN|latest=v. {{fb|IRL}}, 31 March 2026}}
+{{nat fs r player|no=|pos=MF|name=[[Luka Stankovski]] <sup>INJ</sup>|age={{birth date and age|2002|9|2|df=y}}|caps=3|goals=1|club=[[FC Kolos Kovalivka|Kolos]]|clubnat=UKR|latest=v. {{fb|IRL}}, 31 March 2026}}
+{{nat fs r player|no=|pos=MF|name=[[Reshat Ramadani]] <sup>INJ</sup>|age={{birth date and age|2003|6|30|df=y}}|caps=3|goals=0|club=[[KF Shkëndija|Shkëndija]]|clubnat=MKD|latest=v. {{fb|IRL}}, 31 March 2026}}
+{{nat fs r player|no=|pos=MF|name=[[David Babunski]]|age={{birth date and age|1994|3|1|df=y}}|caps=18|goals=0|club=[[FK Vardar|Vardar]]|clubnat=MKD|latest=v. {{fb|WAL}}, 18 November 2025}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=FW|name=[[Aleksandar Trajkovski]] <sup>RET</sup>|age={{birth date and age|1992|9|5|df=y}}|caps=98|goals=24|club=[[NK Lokomotiva Zagreb|Lokomotiva]]|clubnat=CRO|latest=v. {{fb|IRL}}, 31 March 2026}}
+{{nat fs r player|no=|pos=FW|name=[[Lirim Qamili]]|age={{birth date and age|1998|6|4|df=y}}|caps=14|goals=2|club=[[Sønderjyske Fodbold|Sønderjyske]]|clubnat=DEN|latest=v. {{fb|IRL}}, 31 March 2026}}
+{{nat fs r player|no=|pos=FW|name=[[Ljupcho Doriev]] <sup>INJ</sup>|age={{birth date and age|1995|9|13|df=y}}|caps=11|goals=0|club=[[FC Sogdiana|Sogdiana]]|clubnat=UZB|latest=v. {{fb|IRL}}, 31 March 2026}}
+{{nat fs r player|no=|pos=FW|name=[[Danny Musovski]]|age={{birth date and age|1995|11|30|df=y}}|caps=2|goals=0|club=[[Seattle Sounders FC|Seattle Sounders]]|clubnat=USA|latest=v. {{fb|IRL}}, 31 March 2026}}
+{{nat fs r player|no=|pos=FW|name=[[Kristijan Trapanovski]]|age={{birth date and age|1999|8|14|df=y}}|caps=2|goals=0|club=[[Dundee United F.C.|Dundee United]]|clubnat=SCO|latest=v. {{fb|WAL}}, 18 November 2025}}
+{{nat fs r player|no=|pos=FW|name=[[Dimitar Mitrovski]] <sup>INJ</sup>|age={{birth date and age|1999|1|28|df=y}}|caps=8|goals=0|club=[[NK Olimpija Ljubljana|Olimpija]]|clubnat=SVN|latest=v. {{fb|KSA}}, 4 September 2025 <sup>WD</sup>}}
+{{nat fs break}}
+;Notes
+*<sup>INJ</sup> = Withdrew due to injury
+*<sup>PRE</sup> = Preliminary squad / standby
+*<sup>RET</sup> = Retired from the national team
+*<sup>SUS</sup> = Serving suspension
+*<sup>U21</sup> = Player called up to the [[North Macedonia national under-21 football team|U21]] squad.
+*<sup>WD</sup> = Player withdrew from the squad.
+{{nat fs end}}
+
+==Statistics==
+{{main|List of North Macedonia international footballers}}
+{{updated|30 May 2026}}<ref>{{cite web |last1=Mamrud |first1=Roberto |title=(North) Macedonia - Record International Players |url=https://www.rsssf.org/miscellaneous/fyrom-recintlp.html |website=RSSSF |access-date=2 February 2023 |archive-date=1 December 2022 |archive-url=https://web.archive.org/web/20221201222659/https://www.rsssf.org/miscellaneous/fyrom-recintlp.html |url-status=live }}</ref>
+:''Players in '''bold''' are still active with Macedonia.''
+
+===Most appearances===
+[[File:Goran Pandev.JPG|thumb|200px|right|Goran Pandev is North Macedonia's top goalscorer and their most capped player.]]
+{| class="wikitable sortable" style="text-align: center;"
+|-
+!width=30| Rank
+!width=150| Player 
+!width=50| Caps 
+!width=50| Goals 
+!width=100| Career
+|-
+|1
+|style="text-align: left;"|[[Goran Pandev]]
+|122
+|38
+|2001–2021
+|-
+|2
+|style="text-align: left;"|[[Goce Sedloski]]
+|100
+|8
+|1996–2010
+|-
+|3
+|style="text-align: left;"|[[Aleksandar Trajkovski]]
+|98
+|24
+|2011–2026
+|-
+|4
+|style="text-align: left;"|'''[[Ezgjan Alioski]]'''
+|90
+|13
+|2013–present
+|-
+|5
+|style="text-align: left;"|'''[[Stole Dimitrievski]]'''
+|89
+|0
+|2015–present
+|-
+|6
+|style="text-align: left;"|[[Veliče Šumulikoski]]
+|84
+|1
+|2002–2013
+|-
+|rowspan="2"|7
+|style="text-align: left;"|'''[[Enis Bardhi]]'''
+|82
+|20
+|2015–present
+|-
+|style="text-align: left;"|[[Stefan Ristovski]]
+|82
+|2
+|2011–2023
+|-
+|9
+|style="text-align: left;"|'''[[Eljif Elmas]]'''
+|78
+|13
+|2017–present
+|-
+|10
+|style="text-align: left;"|[[Artim Šakiri]]
+|73
+|15
+|1996–2006
+|-
+|}
+
+===Top goalscorers===
+
+{| class="wikitable sortable" style="text-align: center;"
+|-
+!width=30| Rank
+!width=150| Player 
+!width=50| Goals 
+!width=50| Caps 
+!width=50| Ratio 
+!width=100| Career
+|-
+|1
+|style="text-align: left;"|[[Goran Pandev]]
+|38
+|122
+|{{#expr: 38 / 122 round 2}}
+|2001–2021
+|-
+|2
+|style="text-align: left;"|[[Aleksandar Trajkovski]]
+|24
+|98
+|{{#expr: 24 / 98 round 2}}
+|2011–2026
+|-
+|3
+|style="text-align: left;"|'''[[Enis Bardhi]]'''
+|20
+|82
+|{{#expr: 20 / 82 round 2}}
+|2015–present
+|-
+|4
+|style="text-align: left;"|[[Georgi Hristov (footballer, born 1976)|Georgi Hristov]]
+|16
+|48
+|{{#expr: 16 / 48 round 2}}
+|1995–2005
+|-
+|5
+|style="text-align: left;"|[[Artim Šakiri]]
+|15
+|73
+|{{#expr: 15 / 73 round 2}}
+|1996–2006
+|-
+|rowspan="2"|6
+|style="text-align: left;"|'''[[Elif Elmas]]'''
+|rowspan="2"|13
+|78
+|{{#expr: 13 / 78 round 2}}
+|2017–present
+|-
+|style="text-align: left;"|'''[[Ezgjan Alioski]]'''
+|90
+|{{#expr: 13 / 90 round 2}}
+|2013–present
+|-
+|rowspan="2"|8
+|style="text-align: left;"|[[Goran Maznov]]
+|rowspan="2"|10
+|45
+|{{#expr: 10 / 45 round 2}}
+|2001–2009
+|-
+|style="text-align: left;"|[[Ilija Nestorovski]]
+|52
+|{{#expr: 10 / 52 round 2}}
+|2016–2023
+|-
+|rowspan="2"|10
+|style="text-align: left;"|'''[[Bojan Miovski]]'''
+|rowspan="2"|9
+|40
+|{{#expr: 9 / 40 round 2}}
+|2021–present
+|-
+|style="text-align: left;"|[[Ilčo Naumoski]]
+|46
+|{{#expr: 9 / 46 round 2}}
+|2003–2012
+|-
+|}
+
+===Captains===
+This is a list of Macedonian captains for five or more official and friendly matches.
+
+{|class="wikitable sortable" style="text-align: center;"
+|-
+!Player
+!Period
+!Games as captain (Total caps)
+!Major tournaments as captain (Games)
+|-
+|style="text-align:left;"|[[Darko Pančev]]
+|1993–1995
+|'''6''' (6)
+|
+|-
+|style="text-align:left;"|[[Toni Micevski]]
+|1996–2001
+|'''12''' (44)
+|
+|-
+|style="text-align:left;"|[[Artim Šakiri]]
+|2002–2005
+|'''10''' (72)
+|
+|-
+|style="text-align:left;"|[[Goce Sedloski]]
+|2004–2009
+|'''43''' (100)
+|
+|-
+|style="text-align:left;"|[[Veliče Šumulikoski]]
+|2009–2012
+|'''11''' (84)
+|
+|-
+|style="text-align:left;"|[[Goran Pandev]]
+|2010–2013
+|'''22''' (75)
+|
+|-
+|style="text-align:left;"|[[Tome Pachovski]]
+|2014–2015
+|'''10''' (46)
+|
+|-
+|style="text-align:left;"|[[Goran Pandev]]
+|2016–2021
+|'''69''' (122)
+|[[UEFA Euro 2020]] (3)
+|-
+|style="text-align:left;"|[[Stefan Ristovski]]
+|2019–2023
+|'''16''' (82)
+|
+|-
+|style="text-align:left;"|[[Enis Bardhi]]
+|2021–
+|'''31''' (82)
+|
+|-
+|}
+'''Note''': Some of the other players to have captained the team include: [[Dragi Kanatlarovski]] (1 cap; 1993), [[Ilija Najdoski]] (3; 1994), [[Dančo Celeski]] (2; 1995), [[Ljupčo Markovski]] (4; 1995 to 1997), [[Mitko Stojkovski]] (2; 1998), [[Boban Babunski]] (2; 1996 and 1999), [[Georgi Hristov (footballer, born 1976)|Georgi Hristov]] (2; 2002 to 2003), [[Petar Miloševski]] (2; 2004 and 2008), [[Ilčo Naumoski]] (1; 2008), [[Igor Mitreski]] (4; 2007 to 2010), [[Aleksandar Lazevski]] (1; 2010), [[Nikolče Noveski]] (4; 2011 to 2013), [[Daniel Mojsov]] (1; 2012), [[Boban Grncharov]] (3; 2012 to 2014), [[Blazhe Ilijoski]] (1; 2014), [[Blagoja Todorovski]] (1; 2014), [[Vanče Šikov]] (4; 2015), [[Ivan Trichkovski]] (4; 2018 to 2020), [[Ilija Nestorovski]] (1; 2019), [[Darko Velkovski]] (1; 2022), [[Elif Elmas]] (1; 2023) and [[Stole Dimitrievski]] (3; 2024 and 2025).
+
+==Competitive record==
+===FIFA World Cup===
+{| class="wikitable" style="text-align: center;"
+!colspan=9|[[FIFA World Cup]] record
+!width=1% rowspan=15|
+!colspan=7|[[FIFA World Cup qualification]] record
+|-
+!Year
+!Round
+!Position
+!{{Tooltip|Pld|Matches played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!{{Tooltip|Pld|Matches played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!Position
+|-
+|{{flagicon|Uruguay}} [[1930 FIFA World Cup|1930]] to {{flagicon|Italy}} [[1990 FIFA World Cup|1990]]
+|colspan=8|''1930,1950,1954,1958,1962,1974,1982,1990<br> Within {{fb|YUG}} team''
+|colspan=8|''Within {{fb|YUG}} team''
+|-
+|{{flagicon|United States}} [[1994 FIFA World Cup|1994]]
+|colspan=8|''Did not enter''
+|colspan=7|''Did not enter''
+|-
+|{{flagicon|France|1974}} [[1998 FIFA World Cup|1998]]
+|rowspan="8" colspan="8" |''Did not qualify''||10||4||1||5||22||18||4/6
+|-
+|{{flagicon|South Korea|1997}} {{flagicon|JPN}} [[2002 FIFA World Cup|2002]]
+||10||1||4||5||11||18||4/6
+|-
+|{{flagicon|Germany}} [[2006 FIFA World Cup|2006]]
+||12||2||3||7||11||24||5/7
+|-
+|{{flagicon|South Africa}} [[2010 FIFA World Cup|2010]]
+||8||2||1||5||5||11||4/5
+|-
+|{{flagicon|Brazil}} [[2014 FIFA World Cup|2014]]
+||10||2||1||7||7||16||6/6
+|-
+|{{flagicon|Russia}} [[2018 FIFA World Cup|2018]]
+||10||3||2||5||15||15||5/6
+|-
+|{{flagicon|Qatar}} [[2022 FIFA World Cup|2022]]
+||12||6||3||3||24||13||2/6 ([[2022 FIFA World Cup qualification – UEFA second round|play-offs]])
+|-
+|-
+|{{flagicon|Canada}} {{flagicon|Mexico}} {{flagicon|United States}} [[2026 FIFA World Cup|2026]]
+||9||3||4||2||13||14||''TBD'' ([[2026 FIFA World Cup qualification – UEFA second round|play-offs]])
+|-
+|{{flagicon|Morocco}} {{flagicon|Portugal}} {{flagicon|Spain}} [[2030 FIFA World Cup|2030]]
+|colspan=8 rowspan=2|''To be determined''
+|colspan=8 rowspan=2|''To be determined''
+|-
+|{{flagicon|Saudi Arabia}} [[2034 FIFA World Cup|2034]]
+|-
+!Total
+!
+!{{Tooltip|0/8|Number of tournaments qualified for}}
+!–
+!–
+!–
+!–
+!–
+!–
+!81
+!23
+!19
+!39
+!108
+!129
+!—
+|}
+
+===UEFA European Championship===
+{{main|North Macedonia at the UEFA European Championship}}
+
+{| class="wikitable" style="text-align: center;"
+!colspan=9 |[[UEFA European Championship]] record
+!width=1% rowspan=52|
+!colspan=8 |[[UEFA European Championship qualifying]] record
+|-
+!Year
+!Round
+!Position
+!{{Tooltip|Pld|Matches played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!{{Tooltip|Pld|Matches played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!Position
+|-
+|{{flagicon|France}} [[1960 European Nations' Cup|1960]] to {{flagicon|Sweden}} [[UEFA Euro 1992|1992]]
+|colspan=8|''1960,1968,1972,1976,1984,1992<br> Within {{fb|YUG}} team ''
+|colspan=7|'' Within {{fb|YUG}} team''
+|-
+|{{flagicon|England}} [[UEFA Euro 1996|1996]]
+|rowspan=6 colspan=8|''Did not qualify''
+|10
+|1
+|4
+|5
+|9
+|18
+|4/6
+|-
+|{{flagicon|Belgium}} {{flagicon|Netherlands}} [[UEFA Euro 2000|2000]]
+|8
+|2
+|2
+|4
+|13
+|14
+|4/5
+|-
+|{{flagicon|Portugal}} [[UEFA Euro 2004|2004]]
+|8
+|1
+|3
+|4
+|11
+|14
+|4/5
+|-
+|{{flagicon|Austria}} {{flagicon|Switzerland}} [[UEFA Euro 2008|2008]]
+|12
+|4
+|2
+|6
+|12
+|12
+|5/7
+|-
+|{{flagicon|Poland}} {{flagicon|Ukraine}} [[UEFA Euro 2012|2012]]
+|10
+|2
+|2
+|6
+|8
+|14
+|5/6
+|-
+|{{flagicon|France|1974}} [[UEFA Euro 2016|2016]]
+|10
+|1
+|1
+|8
+|6
+|18
+|6/6
+|-
+|{{flagicon|Europe}} [[UEFA Euro 2020|2020]]
+|Group stage
+|23rd
+|3
+|0
+|0
+|3
+|2
+|8
+|12
+|6
+|2
+|4
+|15
+|14
+|3/6 {{nowrap|([[UEFA Euro 2020 qualifying play-offs|PO winners]])}}
+|-
+|{{flagicon|Germany}} [[UEFA Euro 2024|2024]]
+|colspan=8 |''Did not qualify''
+|8
+|2
+|2
+|4
+|10
+|20
+|4/5
+|-
+|{{flagicon|United Kingdom}} {{flagicon|Republic of Ireland}} [[UEFA Euro 2028|2028]]
+|colspan=8 rowspan=2|''To be determined''
+|colspan=7 rowspan=2|''To be determined'' 
+|-
+|{{flagicon|Italy}} {{flagicon|Turkey}} [[UEFA Euro 2032|2032]]
+|-
+!Total
+!Group stage
+!1/8
+!3
+!0
+!0
+!3
+!2
+!8
+!78
+!19
+!18
+!41
+!84
+!123
+!—
+|}
+
+=== Olympic Record ===
+* 1896-1912 Within [[Bournabat Football Club#1906 Olympics squad|Ottoman Empire team]]
+* Within [[Yugoslavia national football team|Yugoslavia]] Team
+1920 Round 1, 1924 Preliminary, 1928 Preliminary, 1948 (2nd), 1952 (2nd), 1956 (2nd), 1960 Champion, 1964 1/4 finals, 1980 (4th), 1984 (3rd), 1988 group
+*1992 : didn’t participate{{efn| North Macedonia was part of [[Independent Olympic Participants at the 1992 Summer Olympics|Independent Olympic Participants]] team which did not compete in the [[Football at the 1992 Summer Olympics|Football tournament]]}}
+*'''Since 1996 under 21 team plays at Olympics '''
+*1996 did not enter 
+*2000–2024 did not qualify
+
+===UEFA Nations League===
+{| class="wikitable" style="text-align: center;"
+!colspan=12|[[UEFA Nations League]] record
+|-
+!Season
+!Division
+!Group
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!{{Abbr|GD|Goal difference}}
+!width=35|{{Tooltip|P/R|Promotion/relegation at end of season}}
+!width=28|{{Tooltip|RK|Overall rank}}
+|-
+|[[2018–19 UEFA Nations League|2018–19]]
+|[[2018–19 UEFA Nations League D|D]]
+|[[2018–19 UEFA Nations League D#Group 4|4]]
+|6
+|5
+|0
+|1
+|14
+|5
+| +9
+|{{rise}}
+|41st
+|-
+|[[2020–21 UEFA Nations League|2020–21]]
+|[[2020–21 UEFA Nations League C|C]]
+|[[2020–21 UEFA Nations League C#Group 2|2]]
+|6
+|2
+|3
+|1
+|9
+|8
+| +1
+|{{same position}}
+|40th
+|-
+|[[2022–23 UEFA Nations League|2022–23]]
+|[[2022–23 UEFA Nations League C|C]]
+|[[2022–23 UEFA Nations League C#Group 4|4]]
+|6
+|2
+|1
+|3
+|7
+|7
+|0
+|{{same position}}
+|42nd
+|-
+|[[2024–25 UEFA Nations League|2024–25]]
+|[[2024–25 UEFA Nations League C|C]]
+|[[2024–25 UEFA Nations League C#Group 4|4]]
+|6
+|5
+|1
+|0
+|10
+|1
+| +9
+|{{rise}}
+|35th
+|-
+!colspan=3|Total
+!24
+!14
+!5
+!5
+!40
+!21
+!+19
+!colspan="2"|35th
+|}
+
+===Minor tournaments===
+* '''[[1945 Yugoslav Football Tournament|Yugoslav Football Tournament]]'''
+** 5th place: [[1945 Yugoslav Football Tournament|1945]]
+
+;{{flagicon|SR Macedonia}} Team Macedonia: Rustenov, Bogojevski, Vidovik, Martinovski, Petrovski, Davidovski, Janevski, Adamovski, [[Todor Atanaskov|Atanaskov]], Balevski, Gerov. [[Manager]]:  [[Illes Spitz]]
+
+*'''[[Kosovo national football team results (1942–1975)#Brotherhood and Unity Tournament|Yugoslav tournament 1975 Brotherhood and Unity]]'''
+** 2nd place 
+;{{flagicon|SR Macedonia}} Team Macedonia: Sharenac, Grncharov, Srebrov, Andreevski, Krstanov, Filipovski, Dimitrovski, Rajchevski, Nikolikj, Spasovski, Draganikj, Paunovski. [[Manager]]: Chaslav Bozhinovski
+
+==Head-to-head record==
+{{updated|1 June 2026}}, ''after the match against [[Turkey national football team|Turkey]].''
+
+{| class="wikitable sortable mw-collapsible mw-collapsed" style="text-align: center; font-size: 100%;"
+|-
+!colspan="12"| North Macedonia all-time head-to-head record
+|-
+! Against
+! Region
+! {{abbr|Pld|Played}}
+! {{abbr|W|Won}}
+! {{abbr|D|Drawn}}
+! {{abbr|L|Lost}}
+! {{abbr|GF|Goals for}}
+! {{abbr|GA|Goals against}}
+! {{abbr|GD|Goal difference}}
+! Win %
+! First match
+! Last match
+|- bgcolor="#bbf3bb"
+| style="text-align:left;"| {{fb|ALB}} || UEFA || 10 || 4 || 4 || 2 || 12 || 7 || +5 || {{#expr:4/10*100 round 2}}% || {{dts|format=dmy|1994|05|14}} || {{dts|format=dmy|2017|09|05}}
+|- bgcolor="#bbf3bb"
+| style="text-align:left;"| {{fb|AND}} || UEFA || 6 || 4 || 1 || 1 || 9 || 1 || +8 || {{#expr:4/6*100 round 2}}% || {{dts|format=dmy|2004|10|13}} || {{dts|format=dmy|2011|09|06}}
+|- bgcolor="#ffffbb"
+| style="text-align:left;"| {{fb|ANG}} || CAF || 1 || 0 || 1 || 0 || 0 || 0 || 0 || {{#expr:0/1*100 round 2}}% ||colspan=2| {{dts|format=dmy|2012|05|29}} 
+|- bgcolor="#bbf3bb"
+| style="text-align:left;"| {{fb|ARM}} || UEFA || 15 || 8 || 3 || 4 || 27 || 18 || +9 || {{#expr:8/15*100 round 2}}% || {{dts|format=dmy|1995|05|10}} || {{dts|format=dmy|2024|10|13}}
+|- bgcolor="#ffbbbb"
+| style="text-align:left;"| {{fb|AUS}} || AFC || 2 || 0 || 1 || 1 || 0 || 1 || −1 || {{#expr:0/2*100 round 2}}% || {{dts|format=dmy|1997|03|12}} || {{dts|format=dmy|2015|03|30}}
+|- bgcolor="#ffbbbb"
+| style="text-align:left;"| {{fb|AUT}} || UEFA || 3 || 0 || 0 || 3 || 3 || 9 || −6 || {{#expr:0/2*100 round 2}}% || {{dts|format=dmy|2019|06|10}} || {{dts|format=dmy|2021|06|13}}
+|- bgcolor="#bbf3bb"
+| style="text-align:left;"| {{fb|AZE}} || UEFA || 8 || 5 || 2 || 1 || 15 || 8 || +7 || {{#expr:5/8*100 round 2}}% || {{dts|format=dmy|2000|07|26}} || {{dts|format=dmy|2022|11|20}}
+|- bgcolor="#ffffbb"
+| style="text-align:left;"| {{fb|BHR}} || AFC || 1 || 0 || 1 || 0 || 1 || 1 || 0 || {{#expr:0/1*100 round 2}}% ||colspan=2| {{dts|format=dmy|2001|01|07}}
+|- bgcolor="#ffffbb"
+| style="text-align:left;"| {{fb|BLR}} || UEFA || 3 || 1 || 1 || 1 || 4 || 2 || +2 || {{#expr:1/3*100 round 2}}% || {{dts|format=dmy|2015|03|27}} || {{dts|format=dmy|2017|03|28}}
+|- bgcolor="#ffbbbb"
+| style="text-align:left;"| {{fb|BEL}} || UEFA || 6 || 0 || 3 || 3 || 2 || 10 || −8 || {{#expr:0/5*100 round 2}}% || {{dts|format=dmy|1994|11|16}} || {{dts|format=dmy|2025|10|10}}
+|- bgcolor="#ffffbb"
+| style="text-align:left;"| {{fb|BIH}} || UEFA || 6 || 1 || 4 || 1 || 8 || 8 || 0 || {{#expr:1/6*100 round 2}}% || {{dts|format=dmy|1998|06|03}} || {{dts|format=dmy|2026|05|29}}
+|- bgcolor="#ffbbbb"
+| style="text-align:left;"| {{fb|BUL}} || UEFA || 9 || 2 || 2 || 5 || 4 || 9 || −5 || {{#expr:2/9*100 round 2}}% || {{dts|format=dmy|1995|04|12}} || {{dts|format=dmy|2022|09|26}}
+|- bgcolor="#ffbbbb"
+| style="text-align:left;"| {{fb|CMR}} || CAF || 2 || 0 || 0 || 2 || 0 || 3 || −3 || {{#expr:0/2*100 round 2}}% || {{dts|format=dmy|2011|02|09}} || {{dts|format=dmy|2014|05|26}}
+|- bgcolor="#ffffbb"
+| style="text-align:left;"| {{fb|CAN}} || CONCACAF || 2 || 1 || 0 || 1 || 3 || 1 || +2 || {{#expr:1/2*100 round 2}}% || {{dts|format=dmy|1998|05|18}} || {{dts|format=dmy|2009|11|14}}
+|- bgcolor="#ffbbbb"
+| style="text-align:left;"| {{fb|CHN}} || AFC || 5 || 0 || 2 || 3 || 0 || 4 || −4 || {{#expr:0/5*100 round 2}}% || {{dts|format=dmy|2004|01|27}} || {{dts|format=dmy|2014|06|22}}
+|- bgcolor="#ffbbbb"
+| style="text-align:left;"| {{fb|CRO}} || UEFA || 9 || 1 || 2 || 6 || 9 || 15 || −6 || {{#expr:1/9*100 round 2}}% || {{dts|format=dmy|1998|10|14}} || {{dts|format=dmy|2024|06|03}}
+|- bgcolor="#bbf3bb"
+| style="text-align:left;"| {{fb|CYP}} || UEFA || 2 || 1 || 1 || 0 || 4 || 1 || +3 || {{#expr:1/2*100 round 2}}% || {{dts|format=dmy|1994|12|17}} || {{dts|format=dmy|1995|10|11}}
+|- bgcolor="#ffbbbb"
+| style="text-align:left;"| {{fb|CZE}} || UEFA || 4 || 0 || 1 || 3 || 3 || 11 || −8 || {{#expr:0/4*100 round 2}}% || {{dts|format=dmy|2001|02|28}} || {{dts|format=dmy|2024|06|10}}
+|- bgcolor="#ffbbbb"
+| style="text-align:left;"| {{fb|DEN}} || UEFA || 4 || 1 || 1 || 2 || 4 || 6 || –2 || {{#expr:1/4*100 round 2}}% || {{dts|format=dmy|1994|09|07}} || {{dts|format=dmy|2026|03|06}}
+|- bgcolor="#bbf3bb"
+| style="text-align:left;"| {{fb|ECU}} || CONMEBOL || 1 || 1 || 0 || 0 || 2 || 1 || +1 || {{#expr:1/1*100 round 2}}% ||colspan=2| {{dts|format=dmy|2006|05|28}}
+|- bgcolor="#ffffbb"
+| style="text-align:left;"| {{fb|EGY}} || CAF || 1 || 0 || 1 || 0 || 2 || 2 || 0 || {{#expr:0/1*100 round 2}}% ||colspan=2| {{dts|format=dmy|1998|09|29}}
+|- bgcolor="#ffbbbb"
+| style="text-align:left;"| {{fb|ENG}} || UEFA || 6 || 0 || 3 || 3 || 4 || 13|| -9|| {{#expr:0/6*100 round 2}}% || {{dts|format=dmy|2002|10|16}} || {{dts|format=dmy|2023|11|20}}
+|- bgcolor="#bbf3bb"
+| style="text-align:left;"| {{fb|EST}} || UEFA || 6 || 4 || 2 || 0 || 13 || 7 || +6 || {{#expr:4/6*100 round 2}}% || {{dts|format=dmy|1994|06|01}} || {{dts|format=dmy|2020|11|15}}
+|- bgcolor="#bbf3bb"
+| style="text-align:left;"| {{fb|FRO}} || UEFA || 3 || 2 || 1 || 0 || 3 || 1 || +2 || {{#expr:2/3*100 round 2}}% || {{dts|format=dmy|2023|03|27}} || {{dts|format=dmy|2024|11|17}}
+|- bgcolor="#ffbbbb"
+| style="text-align:left;"| {{fb|FIN}} || UEFA || 6 || 1 || 2 || 3 || 3 || 12 || −9 || {{#expr:1/6*100 round 2}}% || {{dts|format=dmy|2002|01|10}} || {{dts|format=dmy|2022|11|17}}
+|- bgcolor="#ffbbbb"	
+| style="text-align:left;"| {{fb|FRY}} || UEFA || 3 || 0 || 0 || 3 || 4 || 9 || –5 || {{#expr:0/3*100 round 2}}% || {{dts|format=dmy|1999|09|05}} || {{dts|format=dmy|2000|02|23}}
+|- bgcolor="#ffbbbb"
+| style="text-align:left;"| {{fb|GEO}} || UEFA || 5 || 1 || 2 || 2 || 3 || 7 || –4 || {{#expr:1/5*100 round 2}}% || {{dts|format=dmy|2020|09|08}} || {{dts|format=dmy|2022|09|23}}
+|- bgcolor="#ffffbb"
+| style="text-align:left;"| {{fb|GER}} || UEFA || 2 || 1 || 0 || 1 || 2 || 5 || −3 || {{#expr:1/2*100 round 2}}% || {{dts|format=dmy|2021|03|31}} || {{dts|format=dmy|2021|10|11}}
+|- bgcolor="#bbf3bb"
+| style="text-align:left;"| {{fb|GIB}} || UEFA || 4 || 4 || 0 || 0 || 12 || 0 || +12 || {{#expr:4/4*100 round 2}}% || {{dts|format=dmy|2018|09|06}} || {{dts|format=dmy|2022|06|12}}
+|- bgcolor="#ffbbbb"
+| style="text-align:left;"| {{fb|HUN}} || UEFA || 2 || 0 || 1 || 1 || 0 || 5 || −5 || {{#expr:0/2*100 round 2}}% || {{dts|format=dmy|1998|04|22}} || {{dts|format=dmy|2001|11|14}}
+|- bgcolor="#bbf3bb"
+| style="text-align:left;"| {{fb|ISL}} || UEFA || 6 || 3 || 2 || 1 || 9 || 5 || +4 || {{#expr:3/6*100 round 2}}% || {{dts|format=dmy|1996|06|01}} || {{dts|format=dmy|2021|11|14}}
+|- bgcolor="#ffbbbb"
+| style="text-align:left;"| {{fb|IRN}} || AFC || 3 || 0 || 1 || 2 || 3 || 7 || −4 || {{#expr:0/3*100 round 2}}% || {{dts|format=dmy|2000|06|09}} || {{dts|format=dmy|2016|06|02}}
+|- bgcolor="#ffbbbb"
+| style="text-align:left;" |{{fb|ISR}}|| UEFA || 7 || 2 || 1 || 4 || 7 || 9 || −2 || {{#expr:2/7*100 round 2}}% || {{dts|format=dmy|2002|11|20}} || {{dts|format=dmy|2019|09|06}}
+|- bgcolor="#ffbbbb"
+| style="text-align:left;" |{{fb|ITA}}|| UEFA || 5 || 1 || 2 || 2 || 7 || 10 || −3 || {{#expr:1/5*100 round 2}}% || {{dts|format=dmy|2016|10|09}}|| {{dts|format=dmy|2023|11|17}}
+|- bgcolor="#bbf3bb"
+| style="text-align:left;" |{{fb|JAM}}|| CONCACAF || 1 || 1 || 0 || 0 || 2 || 1 || +1 || {{#expr:1/1*100 round 2}}% ||colspan="2"| {{dts|format=dmy|1998|04|20}}
+|- bgcolor="#bbf3bb"
+| style="text-align:left;" |{{fb|KAZ}}|| UEFA || 3 || 2 || 1 || 0 || 6 || 1 || +5 || {{#expr:2/3*100 round 2}}% || {{dts|format=dmy|2021|06|04}} || {{dts|format=dmy|2025|10|13}}
+|- bgcolor="#bbf3bb"
+| style="text-align:left;" |{{fb|KVX}}|| UEFA || 1 || 1 || 0 || 0 || 2 || 1 || +1 || {{#expr:1/1*100 round 2}}% ||colspan="2"| {{dts|format=dmy|2020|10|08}}
+|- bgcolor="#bbf3bb"
+| style="text-align:left;" |{{fb|LVA}}|| UEFA || 6 || 5 || 1 || 0 || 11 || 2 || +9 || {{#expr:5/6*100 round 2}}% || {{dts|format=dmy|2025|11|13}}|| {{dts|format=dmy|2024|11|14}}
+|- bgcolor="#ffbbbb"
+| style="text-align:left;" |{{fb|LIB}}|| AFC || 1 || 0 || 0 || 1 || 0 || 1 || −1 || {{#expr:0/1*100 round 2}}% ||colspan="2"| {{dts|format=dmy|2015|11|17}}
+|- bgcolor="#bbf3bb"
+| style="text-align:left;" |{{fb|LIE}}|| UEFA || 13 || 12 || 1 || 0 || 50 || 5 || +45 || {{#expr:12/13*100 round 2}}% || {{dts|format=dmy|1996|04|24}}|| {{dts|format=dmy|2025|09|07}}
+|- bgcolor="#ffbbbb"
+| style="text-align:left;" |{{fb|LTU}}|| UEFA || 3 || 1 || 0 || 2 || 2 || 4 || −2 || {{#expr:1/3*100 round 2}}% || {{dts|format=dmy|1997|09|06}}|| {{dts|format=dmy|2012|08|15}}
+|- bgcolor="#ffffbb"
+| style="text-align:left;" |{{fb|LUX}}|| UEFA || 4 || 2 || 0 || 2 || 8 || 6 || +2 || {{#expr:2/4*100 round 2}}% || {{dts|format=dmy|2008|08|20}}|| {{dts|format=dmy|2015|09|05}}
+|- bgcolor="#bbf3bb"
+| style="text-align:left;" |{{fb|MLT}}|| UEFA || 8 || 7 || 1 || 0 || 19 || 3 || +16 || {{#expr:7/8*100 round 2}}% || {{dts|format=dmy|1996|03|27}}|| {{dts|format=dmy|2023|09|12}}
+|- bgcolor="#ffffbb"
+| style="text-align:left;" |{{fb|MDA}}|| UEFA || 4 || 0 || 4 || 0 || 4 || 4 || 0 || {{#expr:0/4*100 round 2}}% || {{dts|format=dmy|2000|10|11}}|| {{dts|format=dmy|2024|03|22}}
+|- bgcolor="#ffffbb"
+| style="text-align:left;" |{{fb|MNE}}|| UEFA || 4 || 2 || 0 || 2 || 7 || 5 || +2 || {{#expr:2/4*100 round 2}}% || {{dts|format=dmy|2008|11|19}}|| {{dts|format=dmy|2024|03|25}}
+|- bgcolor="#ffbbbb"
+| style="text-align:left;" |{{fb|NED}}|| UEFA || 5 || 0 || 2 || 3 || 3 || 11 || −8 || {{#expr:0/5*100 round 2}}% || {{dts|format=dmy|2004|10|09}}|| {{dts|format=dmy|2021|06|21}}
+|- bgcolor="#ffffbb"
+| style="text-align:left;" |{{fb|NGA}}|| CAF || 1 || 0 || 1 || 0 || 0 || 0 || 0 || {{#expr:0/1*100 round 2}}% ||colspan="2"| {{dts|format=dmy|2007|08|22}}
+|- bgcolor="#ffbbbb"
+| style="text-align:left;" |{{fb|NOR}}|| UEFA || 4 || 1 || 1 || 2 || 3 || 4 || −1 || {{#expr:1/4*100 round 2}}% || {{dts|format=dmy|2009|06|06}}|| {{dts|format=dmy|2017|11|11}}
+|- bgcolor="#ffbbbb"
+| style="text-align:left;" |{{fb|OMA}}|| AFC || 1 || 0 || 0 || 1 || 0 || 2 || −2 || {{#expr:0/1*100 round 2}}% ||colspan="2"| {{dts|format=dmy|2001|12|30}}
+|- bgcolor="#ffbbbb"
+| style="text-align:left;" |{{fb|POL}}|| UEFA || 5 || 0 || 1 || 4 || 2 || 11 || −9 || {{#expr:0/5*100 round 2}}% || {{dts|format=dmy|2003|02|14}}|| {{dts|format=dmy|2019|10|13}}
+|- bgcolor="#ffbbbb"
+| style="text-align:left;" |{{fb|POR}}|| UEFA || 3 || 0 || 1 || 2 || 0 || 3 || −3 || {{#expr:0/3*100 round 2}}% || {{dts|format=dmy|2003|04|02}}|| {{dts|format=dmy|2022|03|29}}
+|- bgcolor="#ffffbb"
+| style="text-align:left;" |{{fb|QAT}}|| AFC || 3 || 1 || 1 || 1 || 2 || 2 || 0 || {{#expr:1/3*100 round 2}}% || {{dts|format=dmy|2001|07|25}}|| {{dts|format=dmy|2014|05|30}}
+|- bgcolor="#ffbbbb"
+| style="text-align:left;"| {{fb|IRL}} || UEFA || 7 || 1 || 2 || 4 || 5 || 11 || −6 || {{#expr:1/7*100 round 2}}% || {{dts|format=dmy|1996|10|09}} || {{dts|format=dmy|2026|03|31}}
+|- bgcolor="#ffbbbb"
+| style="text-align:left;"| {{fb|ROU}} || UEFA || 7 || 1 || 1 || 5 || 7 || 14 || −7 || {{#expr:1/7*100 round 2}}% || {{dts|format=dmy|1996|12|14}} || {{dts|format=dmy|2021|09|08}}
+|- bgcolor="#ffbbbb"
+| style="text-align:left;"| {{fb|RUS}} || UEFA || 4 || 0 || 0 || 4 || 0 || 7 || −7 || {{#expr:0/4*100 round 2}}% || {{dts|format=dmy|2006|11|15}} || {{dts|format=dmy|2011|09|02}}
+|- bgcolor="#ffbbbb"
+| style="text-align:left;"| {{fb|KSA}} || AFC || 3 || 0 || 1 || 2 || 2 || 4 || −2 || {{#expr:0/2*100 round 2}}% || {{dts|format=dmy|2001|08|01}} || {{dts|format=dmy|2025|09|04}}
+|- bgcolor="#ffbbbb"
+| style="text-align:left;"| {{fb|SCO}} || UEFA || 4 || 1 || 1 || 2 || 3 || 5 || −2 || {{#expr:1/4*100 round 2}}% || {{dts|format=dmy|2008|09|06}} || {{dts|format=dmy|2013|09|10}}
+|- bgcolor="#ffffbb"
+| style="text-align:left;"| {{fb|SRB}} || UEFA|| 3 || 1 || 1 || 1 || 3 || 6 || −3 || {{#expr:1/3*100 round 2}}% || {{dts|format=dmy|2008|02|06}} || {{dts|format=dmy|2013|10|15}}
+|- bgcolor="#ffbbbb"
+| style="text-align:left;"| {{fb|SVK}} || UEFA || 8 || 0 || 2 || 6 || 3 || 16 || −13 || {{#expr:0/8*100 round 2}}% || {{dts|format=dmy|2000|09|03}} || {{dts|format=dmy|2015|06|14}}
+|- bgcolor="#bbf3bb"
+| style="text-align:left;"| {{fb|SVN}} || UEFA || 7 || 4 || 2 || 1 || 13 || 7 || +6 || {{#expr:4/7*100 round 2}}% || {{dts|format=dmy|1993|10|13}} || {{dts|format=dmy|2021|06|01}}
+|- bgcolor="#ffbbbb"
+| style="text-align:left;"| {{fb|KOR}} || AFC || 2 || 0 || 1 || 1 || 3 || 4 || −1 || {{#expr:0/2*100 round 2}}% || {{dts|format=dmy|1998|04|18}} || {{dts|format=dmy|2000|06|07}}
+|- bgcolor="#ffbbbb"
+| style="text-align:left;"| {{fb|ESP}} || UEFA || 7 || 0 || 0 || 7 || 4 || 20 || −16 || {{#expr:0/7*100 round 2}}% || {{dts|format=dmy|1994|10|12}} || {{dts|format=dmy|2017|06|11}}
+|- bgcolor="#ffbbbb"
+| style="text-align:left;"| {{fb|SWE}} || UEFA || 3 || 0 || 0 || 3 || 1 || 4 || −3 || {{#expr:0/3*100 round 2}}% || {{dts|format=dmy|2001|03|24}} || {{dts|format=dmy|2013|06|03}}
+|- bgcolor="#ffbbbb"
+| style="text-align:left;"| {{fb|TUR}} || UEFA || 9 || 1 || 2 || 6 || 9 || 18 || −9 || {{#expr:1/9*100 round 2}}% || {{dts|format=dmy|1994|08|31}} || {{dts|format=dmy|2026|06|01}}
+|- bgcolor="#ffbbbb"
+| style="text-align:left;"| {{fb|UKR}} || UEFA || 7 || 1 || 1 || 5 || 4 || 10 || −6 || {{#expr:1/4*100 round 2}}% || {{dts|format=dmy|2003|10|11}} || {{dts|format=dmy|2023|10|16}}
+|- bgcolor="#ffffbb"
+| style="text-align:left;"| {{fb|USA}} || CONCACAF || 1 || 0 || 1 || 0 || 0 || 0 || 0 || {{#expr:0/1*100 round 2}}% ||colspan=2| {{dts|format=dmy|1998|05|16}}
+|- bgcolor="#ffbbbb"
+| style="text-align:left;"| {{fb|WAL}} || UEFA || 4 || 1 || 1 || 2 || 4 || 10 || –6 || {{#expr:1/4*100 round 2}}% || {{dts|format=dmy|2025|11|18}} || {{dts|format=dmy|2025|03|25}}
+|- class="sortbottom"
+| style="text-align:left;"|Total || 67 nations || 304 || 95 || 79 || 130 || 364 || 410 || −46 || {{#expr:95/300*100 round 2}}% || ||
+|}
+
+==FIFA ranking history==
+FIFA-ranking yearly averages for North Macedonia. The country reached 46th in October 2008, and 166th in March 2017. As of 25 March 2022, they sit in 66th.<ref>{{cite web|url=https://www.fifa.com/fifa-world-ranking/associations/association/MKD/men/|publisher=fifa.com|access-date=13 January 2019|title=FIFA|archive-date=14 April 2020|archive-url=https://web.archive.org/web/20200414142554/https://www.fifa.com/fifa-world-ranking/associations/association/MKD/men/|url-status=live}}</ref>
+{|class="wikitable" style="text-align:center; font-size:90%; width:50%;" 
+|-
+!1993!!1994!!1995!!1996!!1997!!1998!!1999!!2000!!2001!!2002!!2003
+|-
+||x||90||94||86||92||59||68||76||89||85||92
+|-
+!2004!!2005!!2006!!2007!!2008!!2009!!2010!!2011!!2012!!2013!!2014
+|-
+||92||87||style="background:#98fb98;"|54||58||56||65||76||103||81||83||100
+|-
+!2015!!2016!!2017!!2018!!2019!!2020!!2021!!2022!!2023!!2024
+|-
+||136||style="background:#ffa07a;"|162||76||68||68||65||67||65||65||67
+|}
+
+==See also==
+{{portal|Association football|North Macedonia}}
+*[[List of North Macedonia international footballers]]
+* [[North Macedonia national football team results]]
+* [[North Macedonia national under-21 football team]]
+* [[North Macedonia national under-19 football team]]
+* [[North Macedonia national under-17 football team]]
+* [[North Macedonia women's national football team]]
+
+==References==
+{{notelist}}
+{{Reflist}}
+
+==External links==
+{{Commons category}}
+* {{official website|http://ffm.mk/}} {{in lang|mk}}
+* [https://www.fifa.com/about-fifa/associations/MKD Macedonia] at [[FIFA]]
+* [https://www.uefa.com/nationalassociations/mkd/ Macedonia] at [[UEFA]]
+* [http://www.macedonianfootball.com Macedonian Football]
+* [https://www.rsssf.org/tablesf/fyrom-intres.html Macedonia – International Results] (1993–present) at [[RSSSF]]
+
+{{North Macedonia national football team}}
+{{Navboxes
+|title = European Championship finalists
+|list1 =
+{{UEFA Euro 2020 finalists}}
+}}
+{{Football in North Macedonia}}
+{{UEFA teams}}
+{{National sports teams of North Macedonia}}
+
+[[Category:North Macedonia national football team| ]]<!--empty space as standard for catmain-->
+[[Category:North Macedonia men's national football teams| ]]
+[[Category:European national association football teams]]
+[[Category:Football in North Macedonia]]

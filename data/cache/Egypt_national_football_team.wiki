@@ -1,0 +1,3944 @@
+{{Short description|Men's association football team}}
+{{About|the men's team|the women's team|Egypt women's national football team}}
+{{pp-vandalism|small=yes}}
+{{Use dmy dates|date=June 2023|cs1-dates=yy}}
+{{Infobox national football team
+| Name                     = Egypt
+| Nickname                 = {{Plainlist|
+* ''The [[Pharaoh]]s''{{efn|name=nickname|{{langx|ar|الفراعنة}}}}}}
+| Badge                    = Egyptian Football Association logo.svg
+| Badge_size               = 200px
+| Association              = [[Egyptian Football Association]] (EFA)
+| Confederation            = [[Confederation of African Football|CAF]] (Africa)
+| Sub-confederation        = [[Union of North African Football Federations|UNAF]] (North Africa)
+| Coach                    = [[Hossam Hassan]]
+| Captain                  = [[Mohamed Salah]]
+| Most caps                = [[Ahmed Hassan (footballer, born 1975)|Ahmed Hassan]] (184)
+| Top scorer               = Hossam Hassan ([[List of international goals scored by Hossam Hassan|69]])
+| Home Stadium             = [[New Administrative Capital Stadium|Egypt Stadium]], [[The New Capital]]
+| FIFA Trigramme           = EGY
+| FIFA Rank                = {{FIFA World Rankings|EGY}}
+| FIFA max                 = 9
+| FIFA max date            = July – September 2010, December 2010
+| FIFA min                 = 75
+| FIFA min date            = March 2013
+| First game               = {{fb|ITA|1861}} 2–1 {{fb-rt|EGY|1882}}<br />([[Ghent]], Belgium; 28 August 1920)
+| Largest win              = {{flag|UAR}} ('''[[Egyptian Football Association|Egyptian FA]]''') 15–0 {{fb-rt|LAO|1952}}<br />([[Jakarta]], Indonesia; 15 November 1963)
+| Largest loss             = {{fb|ITA|1861}} 11–3 {{fb-rt|EGY|1922}}<br />([[Amsterdam]], Netherlands; 9 June 1928)
+| World cup apps           = 4
+| World cup first          = 1934
+| World cup best           = Round of 16 ([[1934 FIFA World Cup|1934]], [[2026 FIFA World Cup|2026]])
+| Regional name            = [[Africa Cup of Nations]]
+| Regional cup apps        = 27
+| Regional cup first       = [[1957 African Cup of Nations|1957]]
+| Regional cup best        = '''Champions''' ([[1957 African Cup of Nations|1957]], [[1959 African Cup of Nations|1959]], [[1986 African Cup of Nations|1986]], [[1998 African Cup of Nations|1998]], [[2006 Africa Cup of Nations|2006]], [[2008 Africa Cup of Nations|2008]], [[2010 Africa Cup of Nations|2010]])
+| Confederations cup apps  = 2
+| Confederations cup first = [[1999 FIFA Confederations Cup|1999]]
+| Confederations cup best  = Group stage ([[1999 FIFA Confederations Cup|1999]], [[2009 FIFA Confederations Cup|2009]])
+| Website                  = 
+| pattern_la1              = _egy26h
+| pattern_b1               = _egy26h
+| pattern_ra1              = _egy26h
+| pattern_sh1              = _gha26h
+| leftarm1                 = FF0000
+| body1                    = FF0000
+| rightarm1                = FF0000
+| shorts1                  = FFFFFF
+| socks1                   = 000000
+| pattern_la2              = _mrc26a
+| pattern_b2               = _egy26a
+| pattern_ra2              = _mrc26a
+| pattern_sh2              = _nze26a
+| leftarm2                 = FFFFFF
+| body2                    = FFFFFF
+| rightarm2                = FFFFFF
+| shorts2                  = 000000
+| socks2                   = FFFFFF
+| medaltemplates           = {{MedalSport|Men's [[Association football|football]]}}
+{{MedalCompetition|[[Africa Cup of Nations]]}}
+{{MedalGold|[[1957 African Cup of Nations|1957 Sudan]]|[[1957 African Cup of Nations squads#Egypt|Team]]}}
+{{MedalGold|[[1959 African Cup of Nations|1959 United Arab Republic]]|[[1959 African Cup of Nations squads#Egypt|Team]]}}
+{{MedalGold|[[1986 African Cup of Nations|1986 Egypt]]|[[1986 African Cup of Nations squads#Egypt|Team]]}}
+{{MedalGold|[[1998 African Cup of Nations|1998 Burkina Faso]]|[[1998 African Cup of Nations squads#Egypt|Team]]}}
+{{MedalGold|[[2006 Africa Cup of Nations|2006 Egypt]]|[[2006 Africa Cup of Nations squads#Egypt|Team]]}}
+{{MedalGold|[[2008 Africa Cup of Nations|2008 Ghana]]|[[2008 Africa Cup of Nations squads#Egypt|Team]]}}
+{{MedalGold|[[2010 Africa Cup of Nations|2010 Angola]]|[[2010 Africa Cup of Nations squads#Egypt|Team]]}}
+{{MedalSilver|[[1962 African Cup of Nations|1962 Ethiopia]]|[[1962 African Cup of Nations squads#Egypt|Team]]}}
+{{MedalSilver|[[2017 Africa Cup of Nations|2017 Gabon]]|[[2017 Africa Cup of Nations squads#Egypt|Team]]}}
+{{MedalSilver|[[2021 Africa Cup of Nations|2021 Cameroon]]|[[2021 Africa Cup of Nations squads#Egypt|Team]]}}
+{{MedalBronze|[[1963 African Cup of Nations|1963 Ghana]]|[[1963 African Cup of Nations squads#Egypt|Team]]}}
+{{MedalBronze|[[1970 African Cup of Nations|1970 Sudan]]|[[1970 African Cup of Nations squads#Egypt|Team]]}}
+{{MedalBronze|[[1974 African Cup of Nations|1974 Egypt]]|[[1974 African Cup of Nations squads#Egypt|Team]]}}
+{{MedalCompetition|[[FIFA Arab Cup|Arabophone Cup]]}}
+{{MedalGold|[[1992 Arab Cup|1992 Syria]]|[[1992 Arab Cup squads#Egypt|Team]]}}
+{{MedalBronze|[[1988 Arab Cup|1988 Jordan]]|[[1988 Arab Cup squads#Egypt|Team]]}}
+{{MedalCompetition|[[Afro-Asian Cup of Nations]]}}
+{{MedalSilver|[[1987 Afro-Asian Cup of Nations|1987 Qatar]]|Team}}
+{{MedalSilver|[[2007 Afro-Asian Cup of Nations|2007 Japan]]|Team}}
+{{MedalCompetition|[[Football at the African Games|African Games]]}}
+{{MedalGold|[[1987 All-Africa Games|1987 Nairobi]]|[[Football at the 1987 All-Africa Games|Team]]}}
+{{MedalBronze|[[1973 All-Africa Games|1973 Lagos]]|[[Football at the 1973 All-Africa Games|Team]]}}
+{{MedalCompetition|[[Football at the Mediterranean Games|Mediterranean Games]]}}
+{{MedalGold|[[1955 Mediterranean Games|1955 Barcelona]]|[[Football at the 1955 Mediterranean Games|Team]]}}
+{{MedalSilver|[[1951 Mediterranean Games|1951 Alexandria]]|[[Football at the 1951 Mediterranean Games|Team]]}}
+{{MedalBronze|[[1983 Mediterranean Games|1983 Casablanca]]|[[Football at the 1983 Mediterranean Games|Team]]}}
+{{MedalCompetition|[[Arab Games|Arabophone Games]]}}
+{{MedalGold|[[1953 Arab Games|1953 Alexandria]]|[[Football at the 1953 Arab Games|Team]]}}
+{{MedalGold|[[1965 Arab Games|1965 Cairo]]|[[Football at the 1965 Arab Games|Team]]}}
+{{MedalGold|[[1992 Arab Games|1992 Damascus]]|[[1992 Arab Cup|Team]]}}
+{{MedalGold|[[2007 Arab Games|2007 Cairo]]|[[Football at the 2007 Arab Games|Team]]}}
+{{MedalSilver|[[1961 Arab Games|1961 Casablanca]]|[[Football at the 1961 Arab Games|Team]]}}
+}}
+The '''Egypt national football team''',{{efn|({{langx|arz|منتخب مصر لكرة القدم}})}} nicknamed '''the Pharaohs''', represents [[Egypt]] in men's [[FIFA|international]] [[Association football|football]], and is governed by the [[Egyptian Football Association]] (EFA), the governing body of [[football in Egypt]]. It has been a member of [[FIFA]] since 1923 and was a founding member of the [[Confederation of African Football|CAF]] in 1957.
+
+Egypt is the oldest and most successful team in the history of African football, having won the [[Africa Cup of Nations]] for a [[Africa Cup of Nations records and statistics|record 7 times]] and reached the final 10 times. They won the cup 3 times consecutively in [[2006 Africa Cup of Nations|2006]], [[2008 Africa Cup of Nations|2008]], and [[2010 Africa Cup of Nations|2010]] which is a feat unmatched by any other team.<ref>{{Cite web |title=CAF History |url=https://www.cafonline.com/inside-caf/about-us/caf-history/ |access-date=2026-07-05 |website=CAF History |language=en-GB}}</ref><ref>{{cite web |title=The day it all started for Ad-Dibu and the Pharaohs |url=https://www.fifa.com/news/the-day-it-all-started-for-ad-diba-and-the-pharaohs-2867512 |access-date=2022-02-16 |work=FIFA |language=en}}</ref> Internationally, Egypt is the first country in the world outside Europe and the Americas to participate in the [[football at the Summer Olympics|Olympics]] and the [[FIFA World Cup]]. The Egyptians qualified to 13 Olympic Games (an African record), as well as 4 World Cups. Egypt’s first Olympic football participation came in [[Football at the 1920 Summer Olympics|1920 Antwerp]]. Their first participation in a World Cup, slated to be in [[1930 FIFA World Cup|1930]] but the team couldn't travel due to a storm,<ref>{{Cite news |last=Burnton |first=Simon |date=2018-05-10 |title=World Cup stunning moments: the Conte Verde's trip to Uruguay in 1930 |url=https://www.theguardian.com/football/blog/2014/may/13/world-cup-stunning-moments-25-conte-verde-uruguay |access-date=2026-07-08 |work=The Guardian |language=en-GB |issn=0261-3077}}</ref> was in the [[1934 FIFA World Cup|1934 edition]].
+
+Egypt achieved 4th place at 3 Olympics: in [[Football at the 1928 Summer Olympics|1928 Amsterdam]], [[Football at the 1964 Summer Olympics|1964 Tokyo]], and [[Football at the 2024 Summer Olympics – Men's tournament|2024 Paris]]. The Egyptians have also reached the Quarter-finals of Olympic football at 5 other editions. Moreover, [[Egypt national under-20 football team|Egypt]] earned the honour of becoming a [[2001 FIFA World Youth Championship#Final ranking|bronze medalist]] at the [[2001 FIFA World Youth Championship|2001]] [[FIFA U-20 World Cup]] in [[2001 FIFA World Youth Championship|Argentina]].<ref>{{citation|url=https://english.ahram.org.eg/NewsContent/6/52/17515/Sports/National-Teams/Egypt-U-return-to-South-America,-a-decade-after--g.aspx|title=Egypt U-20 return to South America, a decade after 2001 glory}}</ref> In 2010, Egypt reached 9th place in the [[FIFA Men's World Ranking|FIFA world rankings]], marking a massively successful year in which they won the [[2010 Africa Cup of Nations]] and defeated [[2006 FIFA World Cup|World Champions Italy]] in the [[FIFA Confederations Cup]].<ref name="9th">{{citation|title= Pharaohs finish 2010 with a 'historic' ninth place in FIFA ranking|url=https://english.ahram.org.eg/UI/Front/Inner.aspx?NewsContentID=1972|access-date=21 June 2026}}</ref><ref>{{citation|title=Egypt stun world champions Italy|url=https://m.rediff.com/sports/report/confederations-cup-football-egypt-stun-world-champions-italy/20090619.htm|access-date=21 June 2026}}</ref>
+
+== History ==
+{{Main|Category:Egypt at the men's Olympic football tournament|Egypt at the FIFA World Cup|Egypt at the Africa Cup of Nations}}
+===1920s: International successes before continental domination===
+The inaugural [[Football at the Summer Olympics|Olympic football tournaments]] of 1900 and 1904 have seen the participation of European and North American club teams respectively. However, for a long history between 1908 and 1948, the Olympic Games were the world’s most prestigious [[Association football]] competition. Hence, Full "National A" teams used to participate in Olympic football tournaments.
+
+[[File:Équipe d'Égypte de football 1920.jpg|thumb|right|250px|Egypt national team at the [[1920 Summer Olympics]]]]
+
+[[File:Sport, Olympische Spelen Amsterdam, 1928 Het voetbalelftal van Egypte, SFA008001979.jpg|thumb|right|250px|Egypt national team finished in the fourth place at the [[Football at the 1928 Summer Olympics|1928 Summer Olympics]]]]
+
+In light of this, the first Egyptian national football team was constituted in 1920. The Pharaohs became the first [[Football in Africa|African football team]] to compete in the [[Football at the 1920 Summer Olympics|Summer Olympics]] in [[Belgium]]. Egypt became the first country in the world outside Europe and the Americas to participate in the [[football at the Summer Olympics|Olympics]]. The opening match of their campaign was a close 2-1 loss against the [[Italy national football team|Italians]].
+
+Egypt then made its second Olympic appearance at the [[Football at the 1924 Summer Olympics|1924 Summer Olympics]] in [[Paris]]. In the second round, the Egyptians have astonishingly defeated the global elites [[Hungary national football team|Hungary]] 3-0. But they were ultimately eliminated in the quarter-finals against [[Sweden national football team|Sweden]].<ref>{{Cite web |title=Olympics Site Closed {{!}} Olympics at Sports-Reference.com |url=https://www.sports-reference.com/olympics.html |access-date=2026-06-24 |website=www.sports-reference.com}}</ref>
+
+The Egyptian team made history at the [[Football at the 1928 Summer Olympics|1928 Summer Olympics]] in [[Amsterdam]] by finishing in 4th place, becoming the first African and non-European team to reach the semi-finals of a major global football tournament.<ref>{{Cite web |date=4 May 2026 |title=Egypt's five unforgettable moments |url=https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/egypt-five-unforgettable-moments |access-date=2026-06-24 |website=www.fifa.com}}</ref>
+
+===1934–1952: First World Cup appearance===
+After the creation of the [[FIFA World Cup]] in [[1930 FIFA World Cup|1930]], the [[FIFA]] has restricted the participation of elite players in the Olympics to prevent the prestigious [[Football at the Summer Olympics|Olympic football]] tournament from eclipsing its newly born international cup.
+
+Between 1952 and 1980, national amateur teams were the type of team allowed by FIFA to participate in the Olympics. However, countries from [[Warsaw Pact]], mainly Eastern Europe, competed with essentially professional players nominally employed by organs of the state such as armed forces).
+
+While in 1984 and 1988, national teams (with [[UEFA]]/[[CONMEBOL]] restrictions) were allowed to participate. Then in 1992, the FIFA decided national U23 teams can participate. But since 1996, national U23 team with 3 overage players are allowed to compete at the Olympics.
+
+[[File:1934-World-Cup-Egypt.jpg|thumb|right|Egypt national football team at the [[1934 FIFA World Cup]] in Italy]]
+
+Since the inauguration of the FIFA World Cup, [[Egypt at the FIFA World Cup|Egypt has qualified for the FIFA World Cup 4 times]]: in [[1934 FIFA World Cup|1934]], in [[1990 FIFA World Cup|1990]], in [[2018 FIFA World Cup|2018]], and in [[2026 FIFA World Cup|2026]]. In the [[1934 FIFA World Cup qualification]], Egypt became the first African country to qualify for the World Cup, beating [[Mandatory Palestine national football team|Mandatory Palestine]] in the first leg by a score of 7-1 in [[Cairo]] and the second leg by a score of 4-1 in [[Jerusalem]].
+
+In the 1920s and 1930s, the Pharaohs featured iconic pioneers of Egyptian football, including [[Mohamed Latif]], [[Mostafa Taha]], [[Mahmoud Mokhtar El-Tetsh]], [[Mustafa Mansour]], and [[Hassan El-Far]]. They lost to [[Hungary national football team|Hungary]] 4–2 in their first and only match in 1934, with the two Egyptian goals scored by [[Abdulrahman Fawzi]]. 
+
+[[File:Abdulrahman Fawzi.jpg|thumb|140px|[[Abdulrahman Fawzi]] scored two goals in the [[1934 FIFA World Cup]] in Italy.]]
+
+In the [[FIFA World Cup qualification|qualification process]] for the [[1938 FIFA World Cup|1938 World Cup]]. The Egypt national football team competed at the [[Football at the 1936 Summer Olympics|1936 Summer Olympics]] in [[Berlin]], officially finishing in equal 9th place. They played only one match, a Round of 16 fixture on August 5, 1936, where they were defeated 3-1 by [[Austria national football team|Austria]], with [[Abdel-Karim Sakr|Abdel Karim Sakr]] scoring Egypt's lone goal. Egypt finished in joint-ninth place overall at the [[Football at the 1948 Summer Olympics|1948 Summer Olympics]] in [[London]]. They began their campaign with a 7-1 victory over [[Turkey national football team|Turkey]] but were subsequently eliminated in the next round, suffering a 2-1 loss to [[Denmark national football team|Denmark]] in extra time. The Pharaohs featured several notable stars of the era: forwards: [[Yehia Emam]], [[Hanafy Bastan]], [[El-Sayed El-Dhizui]], [[Abdel-Karim Sakr]], [[Ahmed Mekkawi]], and [[Abdel Aziz El-Hammami]]. Egypt withdrew. They did not enter [[1950 FIFA World Cup qualification|1950 qualification]].
+
+===1952–1970: First African Cup titles and another Olympic achievement===
+
+The Egypt national football team competed at the [[Football at the 1952 Summer Olympics|1952 Summer Olympics]] in [[Helsinki]], finishing in joint 9th place. The Egyptian squad defeated Chile 5-4 in a thrilling match in Lahti, where [[El-Sayed El-Dhizui]] scored a [[hat-trick]], and [[Ahmed Mekkawi]] and [[Sharif El-Far]] added a goal each. Egypt then was eliminated after losing 3-1 to [[West Germany national football team results|Germany]] on July 20, 1952. The Pharaohs won the [[gold medal]] at the inaugural [[Football at the 1953 Arab Games|1953 Arab Games]] hosted in [[Alexandria]]. Managed by [[Abdelrahman Fawzy]], the Egyptian squad dominated the tournament, securing victories against [[Palestine national football team|Palestine]] by a score of 8–1, [[Libya national football team|Libya]] 10–2, and defeating [[Syria national football team|Syria]] 4–0 in the final. The squad featured key players from the era's top clubs, including [[Hanafy Bastan]], [[El-Sayed El-Dhizui]], [[Sharif El-Far]], and [[Ad-Diba]].<ref>{{Cite web |title=1st Pan Arab Games, 1953 (Alexandria, Egypt) |url=https://www.rsssf.org/tablesa/arabgam53.html |access-date=2026-07-05 |website=www.rsssf.org}}</ref>
+
+[[File:Hanafy Bastan 1957.jpg|thumb|220x220px|Egypt's captain [[Hanafy Bastan]] (right) with the [[Africa Cup of Nations]] trophy in 1957]]
+
+In [[1954 FIFA World Cup qualification|1954 qualifying]], they faced [[Italy national football team|Italy]] but failed to qualify. The Egyptian team won the [[gold medal]] at the [[Football at the 1955 Mediterranean Games|1955 Mediterranean Games]] held in [[Barcelona]]. This marked Egypt's first-ever tournament championship in [[Football at the Mediterranean Games|Mediterranean Games football]].<ref>{{Cite web |title=Mediterranean Games 1955 (Barcelona, Spain) |url=https://www.rsssf.org/tablesm/medgames55.html |access-date=2026-07-05 |website=www.rsssf.org}}</ref> The squad was managed and represented by a golden generation of Egyptian football, featuring key players such as defender [[Hanafy Bastan]], [[Essam Baheeg]], and [[Raafat Attia]]. In 1957, The Pharaohs first participated in the first [[Africa Cup of Nations]] tournament in 1957. In their first game, a semi-final, they faced [[Sudan national football team|Sudan]], winning 2–1; Egypt won 4–0 in the final.<ref>{{cite web|url=https://www.rsssf.org/tables/57a-det.html|title=African Nations Cup 1957|website=[[RSSSF]]|access-date=15 June 2015|archive-date=30 September 2018|archive-url=https://web.archive.org/web/20180930013226/http://www.rsssf.com/tables/57a-det.html|url-status=live}}</ref> 
+
+[[File:Egypt National Football Team 1959.jpg|thumb|Egyptian squad in 1959]]
+
+Egypt withdrew for the [[1958 FIFA World Cup qualification (AFC/CAF–UEFA play-off)|1958]], and [[1959 African Cup of Nations|one year later]], Egypt were AFCON champions again. There were only three teams in that tournament, Ethiopia, Sudan, and Egypt, who were undefeated.<ref>{{cite web|url=https://www.rsssf.org/tables/59a.html|title=African Nations Cup 1959|website=[[RSSSF]]|access-date=15 June 2015|archive-date=13 April 2020|archive-url=https://web.archive.org/web/20200413153114/http://www.rsssf.com/tables/59a.html|url-status=live}}</ref> Between 1958 and 1961, the country had a political union with Syria and went under the name of [[United Arab Republic|United Arab Republic (UAR)]], though the Egyptian team's records are attributed to Egypt only by [[FIFA]] as it was represented by Egyptian footballers. The Egyptian squad competed at the 1960 Summer Olympics in Rome under the name UAR. They finished third in Group C, recording one win, one draw, and one loss to be eliminated in the preliminary round. Egypt withdrew for the [[1962 FIFA World Cup qualification|1962]], [[1966 FIFA World Cup qualification|1966]] and [[1970 FIFA World Cup qualification|1970 World Cup]] tournaments.
+
+Egypt's fourth AFCON appearance came in [[1963 African Cup of Nations|1963]] in [[Ghana]]. Egypt was placed in Group B with Sudan and [[Nigeria national football team|Nigeria]], defeating [[Nigeria national football team|Nigeria]] 6–3, but drawing 2–2 against Sudan. Despite being undefeated in the group stage, they were ranked second, behind Sudan by goal difference. Egypt, as runners-up in Group B, participated in the third place match, playing against Ethiopia, winning 3–0.<ref>{{cite web|url=https://www.rsssf.org/tables/63a.html|title=African Nations Cup 1963|website=[[RSSSF]]|access-date=15 June 2015|archive-date=12 August 2021|archive-url=https://web.archive.org/web/20210812112552/http://rsssf.com/tables/63a.html|url-status=live}}</ref> 
+
+The Pharaohs had again achieved their best-ever Olympic result at the [[Football at the 1964 Summer Olympics|1964 Summer Olympics]] in [[Tokyo]] by finishing in 4th place. This remains tied with their 1928 performance as the highest placement by an African nation at the time. Egypt was placed in Group C alongside [[Brazil national football team|Brazil]], [[Czechoslovakia national football team|Czechoslovakia]], and [[South Korea national football team|South Korea]]. They advanced to the quarter-finals by securing 2nd place in their group. Notably, Egypt held Brazil to a 1-1 draw and defeated South Korea 10-0. In the knockout Stage, Egypt defeated [[Ghana national football team|Ghana]] 5-1 in the quarter-finals. They were defeated against [[Hungary national football team|Hungary]] in the semi-finals and subsequently lost the bronze medal match to the [[United Team of Germany at the 1964 Summer Olympics|United Team of Germany]].
+
+In 1965, Egypt won the football gold medal at the [[Football at the 1965 Arab Games|1965 Arab Games]] in Cairo.<ref>{{Cite web |title=4th Pan Arab Games, 1965 (Cairo, Egypt) |url=https://www.rsssf.org/tablesa/arabgam65.html |access-date=2026-07-05 |website=www.rsssf.org}}</ref> The Egyptian squad featured notable players, including Abdel Karim El-Gohary, [[Hassan El-Shazly]], [[Moustafa Reyadh]], [[Mahmoud Abou-Regaila]], and [[Taha Ismail]]. For the [[1965 Africa Cup of Nations]], Egypt qualified for the tournament, but withdrew because of their diplomatic relationship with hosts Tunisia.<ref>{{cite web|url=https://www.rsssf.org/tables/65a.html|title=African Nations Cup 1965|website=[[RSSSF]]|access-date=15 June 2015|archive-date=16 May 2020|archive-url=https://web.archive.org/web/20200516104514/https://www.rsssf.com/tables/65a.html|url-status=live}}</ref> They also withdrew in 1968.<ref>{{cite web|url=https://www.rsssf.org/tables/68a.html|title=African Nations Cup 1968|website=[[RSSSF]]|access-date=15 June 2015|archive-date=21 December 2019|archive-url=https://web.archive.org/web/20191221160032/http://www.rsssf.com/tables/68a.html|url-status=live}}</ref>
+
+===1970s===
+In the [[1970 Africa Cup of Nations]], hosted again in Sudan, Egypt were in Group B along with [[Ghana national football team|Ghana]], [[Guinea national football team|Guinea]], and the [[Democratic Republic of the Congo national football team|Democratic Republic of the Congo]], known as Congo-Kinshasa at the time. In their opening match, Egypt defeated Guinea 4–1 and drew Ghana 1–1, before defeating Congo-Kinshasa 1–0. Egypt topped the group, thus advancing to the next round, where they faced Sudan. Egypt eventually lost their first game in the AFCON by a score of 2–1, then in the third place match, won against [[Ivory Coast national football team|Ivory Coast]] 3–1.<ref>{{cite web|url=https://www.rsssf.org/tables/70a.html|title=African Nations Cup 1970|website=[[RSSSF]]|access-date=15 June 2015|archive-date=30 August 2017|archive-url=https://web.archive.org/web/20170830201626/http://www.rsssf.com/tables/70a.html|url-status=live}}</ref>
+
+[[File:Egypt National Football Team (1974).jpg|thumb|alt=Egyptian national team in 1974|Egypt at the [[1974 African Cup of Nations]]]]
+
+The Pharaohs won the inaugural [[1972 Palestine Cup of Nations|1972 Arab Cup of Nations]] hosted in [[Baghdad]]. They defeated the host country, Iraq, 3-1 in the final, with goals scored by [[Hassan El-Shazly]] and two goals from Abdel Aziz Abdel Shafi.<ref>{{Cite web |title=Palestine Cup 1972-1975 |url=https://www.rsssf.org/tablesp/palestine-cups.html |access-date=2026-07-05 |website=www.rsssf.org}}</ref> In the same year, Egypt failed to qualify for the AFCON for the first time in 1972 after being eliminated by [[Morocco national football team|Morocco]] by an aggregate score of 5–3.<ref>{{cite web|url=https://www.rsssf.org/tables/72a.html|title=African Nations Cup 1972|website=[[RSSSF]]|access-date=15 June 2015|archive-date=13 March 2019|archive-url=https://web.archive.org/web/20190313064050/http://www.rsssf.com/tables/72a.html|url-status=live}}</ref> 
+
+The Pharaohs won the Bronze medal at the [[1973 All-Africa Games]]. The next year, Egypt entered [[1974 FIFA World Cup qualification (AFC and OFC)|1974 World Cup qualification]], but did not qualify. They lost their first final in the Africa Cup of Nations in 1962.<ref>{{cite web|url=https://www.rsssf.org/tables/62a.html|title=African Nations Cup 1962|website=[[RSSSF]]|access-date=15 June 2015|archive-date=21 April 2021|archive-url=https://web.archive.org/web/20210421203848/http://www.rsssf.com/tables/62a.html|url-status=live}}</ref> However, Egypt returned for [[1974 African Cup of Nations|1974]], hosting the event, eventually finishing in third place.<ref>{{cite web|url=https://www.rsssf.org/tables/74a.html|title=African Nations Cup 1974|website=[[RSSSF]]|access-date=15 June 2015|archive-date=24 April 2021|archive-url=https://web.archive.org/web/20210424051647/http://www.rsssf.com/tables/74a.html|url-status=live}}</ref>
+
+Egypt won the [[1975 Palestine Cup of Nations|1975 Arab Cup of Nations]], which was the third and final edition of the tournament. Hosted in [[Tunisia]], the Egyptian team claimed their second title by defeating Iraq 1-0 after extra time in the final. Under the captaincy of [[Taha Basry]] and with a squad featuring [[Hassan Shehata]], who was the tournament's top goal scorer. Egypt dominated the tournament by defeating South Yemen 5-0 and Saudi Arabia 2-1. They advanced to the final by defeating Sudan 3-1, and securing the title on with a 1-0 victory over Iraq, with the winning goal scored by Mahmoud Abdel Dayem. [[1976 African Cup of Nations|One year later]], in Ethiopia, they were in Group A with the hosts, Guinea, and Uganda. Egypt defeated Uganda 2–1, but drew against Uganda and Ethiopia. Egypt advanced to the final round, and lost all matches.<ref>{{cite web|url=https://www.rsssf.org/tables/76a.html|title=African Nations Cup 1976|website=[[RSSSF]]|access-date=15 June 2015|archive-date=20 February 2020|archive-url=https://web.archive.org/web/20200220162945/http://www.rsssf.com/tables/76a.html|url-status=live}}</ref> This is the first Africa Cup of Nations tournament that Egypt lost three consecutive games. They then failed to qualify for [[1978 African Cup of Nations|1978]].<ref>{{cite web|url=https://www.rsssf.org/tables/78a.html|title=African Nations Cup 1978|website=[[RSSSF]]|access-date=15 June 2015|archive-date=6 June 2021|archive-url=https://web.archive.org/web/20210606162717/http://www.rsssf.com/tables/78a.html|url-status=live}}</ref>
+
+===1980–2006: African titles and World Cup appearance===
+Egypt reappeared for the [[1980 African Cup of Nations]], defeating Ivory Coast and Tanzania, but losing to hosts Nigeria 1–0. They progressed to the semi-finals to face [[Algeria national football team|Algeria]], who defeated the Egyptians on penalties.<ref>{{cite web|url=https://www.rsssf.org/tables/80a.html|title=African Nations Cup 1980|website=[[RSSSF]]|access-date=15 June 2015|archive-date=9 October 2018|archive-url=https://web.archive.org/web/20181009014349/http://rsssf.com/tables/80a.html|url-status=live}}</ref> [[1984 Africa Cup of Nations|Four years later]], Egypt defeated Cameroon and Ivory Coast, and drew Togo, eventually finishing fourth behind Algeria.<ref>{{cite web|url=https://www.rsssf.org/tables/84a.html|title=African Nations Cup 1984|website=[[RSSSF]]|access-date=15 June 2015|archive-date=24 February 2021|archive-url=https://web.archive.org/web/20210224144731/http://www.rsssf.com/tables/84a.html|url-status=live}}</ref>
+
+[[File:Hassan_Shehata_Egypt_(1981).jpg|thumb|210px|Egypt's captain [[Hassan Shehata]] at the [[1982 FIFA World Cup qualification (CAF)|1982 World Cup qualifier]] against [[Morocco national football team|Morocco]] in [[Casablanca]], April 1981]]
+
+Egypt's [[1982 FIFA World Cup qualification (CAF)|1982 World Cup qualifying]] campaign ended in the third round after initially advancing past the first and the second rounds, where they lost to [[Morocco national football team|Morocco]] 1–0 on aggregate over two legs. In 1983, Egypt won the Bronze Medal at the [[Football at the 1983 Mediterranean Games|1983 Medditeranean Games]]. In 1984, the Egyptian national football team reached the quarter-finals of the [[Football at the 1984 Summer Olympics|1984 Summer Olympics]] in [[Los Angeles]], and finished in fourth place at the [[1984 Africa Cup of Nations]] hosted by [[Ivory Coast]].<ref>{{Cite web |title=Olympedia – Egypt at the 1984 Summer Olympics |url=https://www.olympedia.org/countries/EGY/editions/21 |access-date=2026-07-05 |website=www.olympedia.org}}</ref>
+
+[[File:Egyptian team.jpg|thumb|Egypt's team in 1985]]
+ 
+In [[1986 Africa Cup of Nations|1986]], Egypt hosted; they lost to [[Senegal national football team|Senegal]] 1–0. However, Egypt went on to win their two remaining games in the group stage, 2–0 against the Ivory Coast and [[Mozambique national football team|Mozambique]]. Egypt advanced to the final for the first time since 1962, eventually winning.<ref>{{cite web|url=https://www.rsssf.org/tables/86a.html|title=African Nations Cup 1986|website=[[RSSSF]]|access-date=15 June 2015|archive-date=6 February 2021|archive-url=https://web.archive.org/web/20210206022035/http://www.rsssf.com/tables/86a.html|url-status=live}}</ref> 
+
+The Pharaohs won their first Gold medal at the [[1987 All-Africa Games]]. In 1989, Egypt qualified for the [[1990 Africa Cup of Nations|1990 AFCON]], losing all group stage matches, thus making Egypt fail to obtain at least one point for the first time in the Africa Cup of Nations,<ref name="rsssf.com">{{cite web|url=https://www.rsssf.org/tables/92a.html|title=African Nations Cup 1992|website=[[RSSSF]]|access-date=16 June 2015|archive-date=6 August 2017|archive-url=https://web.archive.org/web/20170806234712/http://www.rsssf.com/tables/92a.html|url-status=live}}</ref> while appearing in the [[1990 FIFA World Cup|World Cup that same year]]. After beating Algeria 1–0 in the playoffs, they were drawn in Group F, with [[Republic of Ireland national football team|Ireland]], [[England national football team|England]] and the [[Netherlands national football team|Netherlands]]. They scored only one goal in the tournament; a 1–1 draw with [[UEFA Euro 1988]] champions Netherlands gave the Egyptians their first point in the World Cup. This was followed by a draw against Ireland and a 0–1 loss to England.
+
+The team lost both of their matches in the [[1992 Africa Cup of Nations|1992 AFCON]].<ref name="rsssf.com"/> In the [[1994 Africa Cup of Nations]] in [[Tunisia]], Egypt defeated Gabon 4–0 and drew Nigeria 0–0. They lost to [[Mali national football team|Mali]] 1–0 in the quarterfinals.<ref>{{cite web|url=https://www.rsssf.org/tables/94a.html|title=African Nations Cup 1994|website=[[RSSSF]]|access-date=16 June 2015|archive-date=10 April 2021|archive-url=https://web.archive.org/web/20210410190841/http://rsssf.com/tables/94a.html|url-status=live}}</ref> They secured their second Gold Medal at the [[Football at the 1995 All-Africa Games|1995 All-Africa Games]]. At the [[1996 Africa Cup of Nations]] hosted in [[South Africa]], they reached the quarter-finals. The Pharaohs then secured their fourth title at the [[1998 Africa Cup of Nations]], defeating South Africa in the final.<ref>{{cite web|url=https://www.rsssf.org/tables/98a-det.html |title=African Nations Cup 1998 - Final Tournament Details |access-date=16 May 2009 |url-status=live |archive-url=https://web.archive.org/web/20160304115941/http://www.rsssf.com/tables/98a-det.html |archive-date=4 March 2016 }}</ref> 
+
+The Egyptian team entered the [[2000 Africa Cup of Nations]] as defending champions, reaching the quarter-finals, before being eliminated by a 1-0 defeat to Tunisia. The tournament took place in Ghana and Nigeria, where Egypt was eliminated from the knockout stage by a 22nd-minute penalty kick in the quarter-final. The Egyptian team reached the quarter-finals of the [[2002 Africa Cup of Nations]] hosted in [[Mali]]. Managed by the legendary Mahmoud El-Gohary, the squad featured a mix of domestic stars and emerging talents, including the likes of [[Essam El Hadary]], [[Hany Ramzy]], [[Hazem Emam]], and [[Mido (footballer)|Mido]]. Egypt qualified for the [[2004 Africa Cup of Nations|2004 AFCON]] in Tunisia, and were placed in Group C with Algeria, [[Zimbabwe national football team|Zimbabwe]], and Cameroon. With a 2–1 win against Zimbabwe, the team then lost 2–1 to Algeria, and drew 0–0 against Cameroon, failing to qualify for the quarter-finals due to Algeria scoring more goals than Egypt in the group stage, after being equal on points and goal difference.<ref>{{cite web|url=https://www.rsssf.org/tables/04a.html|title=African Nations Cup 2004|website=[[RSSSF]]|access-date=16 June 2015|archive-date=20 May 2019|archive-url=https://web.archive.org/web/20190520144211/http://www.rsssf.com/tables/04a.html|url-status=live}}</ref>
+
+===2006–2010: Modern golden generation===
+The Egyptian national football team experienced its most dominant historical era between 2006 and 2010, winning an unprecedented 3 consecutive Africa Cup of Nations (AFCON) titles.
+
+{{football squad on pitch|align=right
+| GK  = [[Essam El Hadary|'''El Hadary''']]
+| SW = [[Ibrahim Said (footballer, born 1979)|'''Said''']]
+| RWB  = [[Mohamed Barakat|'''Barakat''']]
+| RCB = [[Wael Gomaa|'''Gomaa''']]
+| LCB  = [[Abdel-Zaher El-Saqua|'''El-Saqqa''']]
+| LWB  = [[Mohamed Abdelwahab|'''Abdelwahab''']]
+| RCM = [[Ahmed Hassan (footballer, born 1975)|'''Hassan''']]
+| LCM = [[Mohamed Shawky|'''Shawky''']]
+| AM  = [[Mohamed Aboutrika|'''Aboutrika''']]
+| RCF  = [[Emad Moteab|'''Moteab''']]
+| LCF  = [[Amr Zaki|'''Zaki''']]
+| caption = Egypt's starting line-up against [[Ivory Coast national football team|Ivory Coast]] at the [[2006 Africa Cup of Nations final]]
+}}
+
+Managed by [[Hassan Shehata]], this "Golden Generation" relied on a brilliant core of domestic stars, and won the [[2006 Africa Cup of Nations]] was hosted in Egypt; the hosts were in Group A with Libya, Morocco, and the Ivory Coast. After accumulating seven points in the group stage, the Pharaohs would eventually win the tournament on penalties. Followed by the [[2008 Africa Cup of Nations]], in which Egypt secured its sixth title by defeating Cameroon 1-0 in the final. In the [[2010 Africa Cup of Nations]], the Pharaohs became the first and only African nation to win three consecutive tournaments, sealing their seventh overall AFCON title by beating Ghana 1-0 in the final.<ref>{{cite web|url=https://www.rsssf.org/tables/06a.html|title=African Nations Cup 2006|website=[[RSSSF]]|access-date=16 June 2015|archive-date=21 October 2019|archive-url=https://web.archive.org/web/20191021125617/http://www.rsssf.com/tables/06a.html|url-status=live}}</ref><ref>{{cite web |url=https://www.theguardian.com/football/2010/jan/31/egypt-africa-cup-nations-ghana |title=Egypt win Africa Cup of Nations for record third consecutive time |website=The Guardian |date=31 January 2010 |access-date=17 September 2020 |archive-date=29 October 2020 |archive-url=https://web.archive.org/web/20201029115803/https://www.theguardian.com/football/2010/jan/31/egypt-africa-cup-nations-ghana |url-status=live }}</ref>
+
+===2010–2018: Post-golden generation===
+In light of political turmoil, they would then fail to qualify for the next 3 AFCONs (before this Egypt was the sole African country to never miss an African Cup of Nations). Egypt qualified for the 2017 tournament, drawing against [[Mali national football team|Mali]] in their first match in Group D.<ref>{{cite web|url=http://www.kingfut.com/2017/01/18/el-hadary-history-mali-egypt/|title=El Hadary made history as Mali held Egypt to goalless draw|date=18 January 2017|access-date=2 February 2017|archive-date=3 February 2017|archive-url=https://web.archive.org/web/20170203223102/http://www.kingfut.com/2017/01/18/el-hadary-history-mali-egypt/|url-status=live}}</ref> Successive 1–0 wins against [[Uganda national football team|Uganda]] and [[Ghana national football team|Ghana]] saw the Pharaohs qualify to the quarter-finals as group winners.<ref>{{cite web|url=http://www.kingfut.com/2017/01/21/egypt-eliminate-uganda-from-afcon/|title=Late Abdallah El Said goal eliminates Uganda from AFCON|date=21 January 2017|access-date=2 February 2017|archive-date=1 February 2017|archive-url=https://web.archive.org/web/20170201001537/http://www.kingfut.com/2017/01/21/egypt-eliminate-uganda-from-afcon/|url-status=live}}</ref><ref>{{cite web|url=http://www.kingfut.com/2017/01/25/egypt-reach-quarter-final-ghana/|title=Egypt beat Ghana to reach quarter-finals as group winners|date=25 January 2017|access-date=2 February 2017|archive-date=2 February 2017|archive-url=https://web.archive.org/web/20170202223616/http://www.kingfut.com/2017/01/25/egypt-reach-quarter-final-ghana/|url-status=live}}</ref> Egypt faced Morocco at the quarter-final stage, and defeated them for the first time in 31 years to set up a semi-final clash with [[Burkina Faso national football team|Burkina Faso]].<ref>{{cite web|url=http://www.kingfut.com/2017/01/29/egypt-reach-afcon-semis-kahraba/|title=Kahraba strikes late as Egypt beat Morocco, reach AFCON semis|date=29 January 2017|access-date=2 February 2017|archive-date=3 February 2017|archive-url=https://web.archive.org/web/20170203213037/http://www.kingfut.com/2017/01/29/egypt-reach-afcon-semis-kahraba/|url-status=live}}</ref> [[Mohamed Salah]]'s goal against the Stallions was canceled out by an [[Aristide Bancé]] strike; however, veteran goalkeeper [[Essam El Hadary]] saved two spot-kicks in the penalty shootout to earn a spot in the final for Egypt.<ref>{{cite web|url=http://www.kingfut.com/2017/02/02/egypt-reach-afcon-final/|title=El Hadary's heroics send Egypt to AFCON 2017 final|date=2 February 2017|access-date=2 February 2017|archive-date=2 February 2017|archive-url=https://web.archive.org/web/20170202012618/http://www.kingfut.com/2017/02/02/egypt-reach-afcon-final/|url-status=live}}</ref> Egypt then faced Cameroon, and lost the final for the second time.
+
+[[File:KSA-EGY (4).jpg|thumb|Egypt national team at the [[2018 FIFA World Cup]] in Russia]]
+
+On 8 October 2017, Egypt qualified for the [[2018 FIFA World Cup|2018 World Cup]] after topping [[2018 FIFA World Cup qualification – CAF third round|Group E]] over [[Uganda national football team|Uganda]], [[Ghana national football team|Ghana]] and [[Congo national football team|Congo]].<ref>{{cite web|url=http://africanfootball.com/match-report/42299/Egypt-vs-Congo|title=Mohamed Salah brace sends Egypt to Russia|website=AfricanFootball.com|date=8 October 2017|access-date=10 October 2017|archive-date=26 December 2018|archive-url=https://web.archive.org/web/20181226063517/https://africanfootball.com/match-report/42299/Egypt-vs-Congo|url-status=live}}</ref> In the World Cup, Egypt was drawn with [[Saudi Arabia national football team|Saudi Arabia]], [[Uruguay national football team|Uruguay]] and the hosts, [[Russia national football team|Russia]] in Group A. They started their first game against Uruguay, without Salah, who was injured in the [[2018 UEFA Champions League Final|UEFA Champions League final]]. Egypt lost 1–0, and goalkeeper [[Mohamed El Shenawy]] was voted man of the match. He refused the reward due to sponsorship by [[Budweiser]].<ref>{{cite web |title=FIFA changes its protocol of "Man of the Match" award following Egyptian goalkeeper's refusal to accept it |date=22 June 2018 |url=https://egyptindependent.com/fifa-changes-protocol-man-match-award-following-egyptian-goalkeepers-refusal-accept/ |publisher=Egypt Independent |access-date=9 July 2019 |archive-date=29 July 2021 |archive-url=https://web.archive.org/web/20210729130114/https://egyptindependent.com/fifa-changes-protocol-man-match-award-following-egyptian-goalkeepers-refusal-accept/ |url-status=live }}</ref> Salah returned to the starting lineup when Egypt faced hosts Russia. After being down 3–0, Salah scored Egypt's first World Cup goal in 28 years. Egypt's third and final match was a Red Sea derby against Saudi Arabia, also out of contention after two losses. [[Essam El Hadary]] became the oldest player in the World Cup at 45 years and 161 days. Despite Salah scoring a goal, the Egyptians lost 2–1.<ref>{{cite web|last=Brennan|first=Feargal|title=Oldest players in World Cup history including Qatar 2022 tournament|publisher=Sporting News|date=6 December 2022|url=https://www.sportingnews.com/us/soccer/news/qatar-2022-oldest-players-world-cup/tzntzadirmygxpaokzwrkhed|access-date=30 June 2024}}</ref>
+
+[[Héctor Cúper]], who was criticized due to his defensive strategies against Saudi Arabia, was sacked.<ref>{{Cite news|url=https://uk.sports.yahoo.com/news/egypt-part-ways-head-coach-093809082.html|title=Egypt part ways with head coach Hector Cuper|access-date=5 July 2018|language=en-GB|archive-date=31 July 2020|archive-url=https://web.archive.org/web/20200731001719/https://uk.sports.yahoo.com/news/egypt-part-ways-head-coach-093809082.html|url-status=live}}</ref> The [[Egyptian Football Association]] was also criticised due to having its base in Chechnya, far from where Egypt's matches were played.<ref>{{Cite news|url=https://deadspin.com/the-egyptian-football-association-turned-mo-salahs-worl-1827167435|title=The Egyptian Football Association Turned Mo Salah's World Cup Into An Embarrassing Disaster|last=Zidan|first=Karim|work=Deadspin|access-date=5 July 2018|language=en-US|archive-date=6 July 2018|archive-url=https://web.archive.org/web/20180706075115/https://deadspin.com/the-egyptian-football-association-turned-mo-salahs-worl-1827167435|url-status=live}}</ref> The Egyptian media and the public heavily criticized EFA's management of the team.<ref>{{Cite news|url=https://egyptianstreets.com/2018/06/26/egypt-to-investigate-egyptian-football-associations-failures-at-world-cup/|title=Egypt to Investigate Egyptian Football Association's 'Failures' at World Cup {{!}} Egyptian Streets|access-date=5 July 2018|language=en-US|archive-date=29 July 2021|archive-url=https://web.archive.org/web/20210729135617/https://egyptianstreets.com/2018/06/26/egypt-to-investigate-egyptian-football-associations-failures-at-world-cup/|url-status=live}}</ref><ref>{{Cite news|url=https://www.dailynewsegypt.com/2018/06/27/op-ed-review-blaming-efa-bad-management-for-egypts-humiliating-world-cup-defeat-exit/|title=Op-ed review: Blaming EFA, bad management for Egypt's 'humiliating' World Cup defeat, exit - Daily News Egypt|date=27 June 2018|work=Daily News Egypt|access-date=5 July 2018|language=en-US|archive-date=3 September 2018|archive-url=https://web.archive.org/web/20180903154545/https://www.dailynewsegypt.com/2018/06/27/op-ed-review-blaming-efa-bad-management-for-egypts-humiliating-world-cup-defeat-exit/|url-status=live}}</ref><ref>{{Cite news|url=https://bleacherreport.com/articles/623162-egyptian-soccer-focuses-on-corruption-rather-than-performance|title=Egyptian Soccer Focuses on Corruption Rather Than Performance|last=Dorsey|first=James M.|work=Bleacher Report|access-date=5 July 2018|language=en-US|archive-date=29 July 2021|archive-url=https://web.archive.org/web/20210729125128/https://bleacherreport.com/articles/623162-egyptian-soccer-focuses-on-corruption-rather-than-performance|url-status=live}}</ref>
+
+===2018–present: World Cup reappearance===
+In the [[2019 Africa Cup of Nations]], hosts Egypt were knocked out by [[South Africa national football team|South Africa]] in the round of 16, despite three wins in the group stage.<ref>{{cite web|url=https://www.skysports.com/football/news/35849/11758221/egypt-sack-javier-aguirre-after-defeat-to-south-africa-in-africa-cup-of-nations-last-16|title=Egypt sack Javier Aguirre after defeat to South Africa in Africa Cup of Nations last 16|date=7 July 2019|publisher=Sky Sports|access-date=7 July 2019|archive-date=7 July 2019|archive-url=https://web.archive.org/web/20190707135549/https://www.skysports.com/football/news/35849/11758221/egypt-sack-javier-aguirre-after-defeat-to-south-africa-in-africa-cup-of-nations-last-16|url-status=live}}</ref> In the [[2021 Africa Cup of Nations|2021 Africa Cup]], Egypt advanced to the [[2021 Africa Cup of Nations Final|final]] after dire performances in the group stage and beating Ivory Coast on penalties after a 0–0 draw. Egypt then beat Cameroon 3–1 on penalties after a scoreless draw, to reach their 10th final, beating Ghana's record of final appearances. Egypt suffered their first of two losses to Senegal in 2022, both on penalties (in the AFCON final and in [[2022 FIFA World Cup qualification (CAF)|World Cup qualifying]]), with both winning penalties scored by [[Sadio Mané]].<ref>{{cite web |title=Senegal vs. Egypt |url=https://www.espn.com/soccer/match/_/gameId/629216 |website=ESPN |access-date=29 March 2022}}</ref>
+
+The Pharaohs would then qualify for the [[2026 FIFA World Cup|2026 World Cup]] for their 4th appearance.<ref>{{cite web |title=2026 World Cup: Salah double clinches Egypt's qualification |url=https://www.espn.com/soccer/story/_/id/46533232/2026-world-cup-egypt-mo-salah-africa-qualifying |website=[[ESPN.com]] |date=8 October 2025 |access-date=8 October 2025}}</ref> During the 2026 World Cup group stage, Egypt's match against [[Iran]] in [[Seattle]] was designated by the local host-city organisers as the tournament's official "Pride Match".<ref>{{Cite web |date=2025-12-08 |title=2026 World Cup: 'Pride Match' to feature Egypt and Iran - where homosexuality is illegal |url=https://www.bbc.com/sport/football/articles/ce8q01d56v7o |access-date=2025-12-09 |website=BBC Sport |language=en-GB}}</ref> Egypt won their first-ever World Cup match against the [[New Zealand National Football Team]] in the [[2026 FIFA World Cup]]. Egypt advancing to the knockout stage, in the round of 32, defeated Australia in penalties. In round of 16 against Argentina, despite scoring 2 goals, conceded 3 goals in the last 10 minutes of the match and were eliminated from the world cup.  
+
+== Team image ==
+=== Home stadium ===
+{{Expand section|date=June 2026}}
+Egypt's home matches had been played at [[Cairo International Stadium]] since 1960. Today, they mainly switched to [[New Administrative Capital Stadium]], shortly known as ''Egypt Stadium''.<ref>{{citation|title=Egypt 1 - 0 New Zealand (03/22) - Match Report|url=https://www.365scores.com/football/match/new-administrative-capital-cup-8081/egypt-new-zealand-2391-5100-8081|access-date=21 June 2026|website=365 Scores}}</ref>
+
+=== Kit suppliers ===
+{{Commons|Egypt national football team kits}}
+{| class="wikitable"
+|-
+! style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | Kit provider
+! style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | Period
+|-
+| {{flagicon|GER}} [[Adidas]]
+| 1990–1995
+|-
+| {{flagicon|EGY}} Venecia
+| 1995–1998
+|-
+| {{flagicon|GER}} [[Puma SE|Puma]]
+| 1999–2004
+|-
+| {{flagicon|GER}} Adidas
+| 2004–2006
+|-
+| {{flagicon|GER}} [[Puma SE|Puma]]
+| 2006–2012
+|-
+| {{flagicon|GER}} Adidas
+| 2012–2018
+|-
+| {{flagicon|GER}} [[Puma SE|Puma]]
+| 2019–present
+|}
+
+== Results and fixtures ==
+{{Main|Egypt national football team results}}
+
+{{further|Egypt national football team results (2020–present)}}
+The following is a list of match results in the last 12 months, as well as any future matches that have been scheduled.
+
+{{legend2|#CCFFCC|Win|border=1px solid #AAAAAA}}
+{{legend2|#FFFFCC|Draw|border=1px solid #AAAAAA}}
+{{legend2|#FFCCCC|Loss|border=1px solid #AAAAAA}}
+{{legend2|#FFFFFF|Fixture|border=1px solid #AAAAAA}}
+
+===2025===
+{{Football box collapsible
+|date = 5 September
+|time= {{UTZ|21:00|2}}
+|round= [[2026 FIFA World Cup qualification – CAF Group A|2026 FIFA World Cup qualification]]
+|score= 2–0
+|report= https://www.fifa.com/en/match-centre/match/520/288282/288289/400020766
+|team1={{fb-rt|EGY}}
+|goals1=
+*[[Mohamed Salah|Salah]] {{goal|41|pen.}}
+*[[Omar Marmoush|Marmoush]] {{goal|45+2|pen.}}
+|team2={{fb|ETH}}
+|goals2=
+|stadium= [[Cairo International Stadium]]
+|location= [[Cairo]], Egypt
+|attendance= 37,000
+|referee= [[Abongile Tom]] ([[South African Football Association|South Africa]])
+|format=1
+|result= W
+}}
+{{Football box collapsible
+|date= 9 September
+|time= {{UTZ|16:00|0}}
+|round= [[2026 FIFA World Cup qualification – CAF Group A|2026 FIFA World Cup qualification]]
+|score= 0–0
+|report= https://www.fifa.com/en/match-centre/match/520/288282/288289/400020771
+|team1={{fb-rt|BFA}}
+|goals1= 
+|team2={{fb|EGY}}
+|goals2= 
+|stadium= [[Stade du 4 Août]]
+|location= [[Ouagadougou]], Burkina Faso
+|attendance=
+|referee= Messie Nkounkou ([[Congolese Football Federation|Republic of Congo]])
+|format=1
+|result= D
+}}
+{{Football box collapsible
+|date= 8 October
+|time= {{UTZ|17:00|1}}
+|round= [[2026 FIFA World Cup qualification – CAF Group A|2026 FIFA World Cup qualification]]
+|score= 0–3 
+|report= https://www.fifa.com/en/match-centre/match/520/288282/288289/400021032
+|team1= {{fb-rt|DJI}}
+|goals1= 
+|team2= {{fb|EGY}}
+|goals2= 
+*[[Ibrahim Adel|Adel]] {{goal|8}}
+*[[Mohamed Salah|Salah]] {{goal|14||84}}
+|stadium= [[Larbi Zaouli Stadium]]
+|location= [[Casablanca]], Morocco
+|attendance= 1,200
+|referee= Tanguy Mebiame ([[Gabonese Football Federation|Gabon]])
+|format=1
+|result= W
+}}
+{{Football box collapsible
+|date= 12 October
+|time= {{UTZ|21:00|2}}
+|round= [[2026 FIFA World Cup qualification – CAF Group A|2026 FIFA World Cup qualification]]
+|score= 1–0 
+|report= https://www.fifa.com/en/match-centre/match/520/288282/288289/400021030
+|team1= {{fb-rt|EGY}}
+|goals1=
+*[[Mohamed Hamdy (footballer, born 1995)|Hamdy]] {{goal|10}}
+|team2= {{fb|GNB}}
+|goals2=
+|stadium= [[Cairo International Stadium]]
+|location= [[Cairo]], Egypt
+|attendance= 41,000
+|referee= Daniel Nii Ayi Laryea ([[Ghana Football Association|Ghana]])
+|format=1
+|result= W
+}}
+{{football box collapsible
+| format     = 1
+| round      = [[2025 Al Ain International Cup#Semi-finals|2025 Al Ain International Cup semi-final]]
+| date       = 14 November 
+| time       = {{UTZ|20:00|+4}}
+| team1      = {{fb-rt|UZB}}
+| score      = 2–0
+| team2      = {{fb|EGY}}
+| report     = https://www.fifa.com/en/match-centre/match/cesdwwnxbc5fmajgroc0hqzy2/8pw8cm9fuczk7lmxm1oxjdyc4/1rj1740ys47h5s938mfswsh78/a348gvahdtt35q0vub12z7yms
+| goals1     =
+*[[Oston Urunov|Urunov]] {{goal|4||43}}
+| goals2     =
+| location   = [[Al Ain]], United Arab Emirates
+| stadium    = [[Hazza bin Zayed Stadium]]
+| attendance = 6,200
+| referee    = Ahmed Eisa Mohamed Darwish ([[United Arab Emirates Football Association|United Arab Emirates]])
+| result     = L
+}}
+{{Football box collapsible
+| format     = 1
+| round      = [[2025 Al Ain International Cup#Third place match|2025 Al Ain International Cup third place match]]
+| date       = 17 November
+| time       = 17:00
+| team1      = {{fb-rt|CPV}}
+| score      = 1–1
+| team2      = {{fb|EGY}}
+| report     = https://www.fifa.com/en/match-centre/match/cesdwwnxbc5fmajgroc0hqzy2/8pw8cm9fuczk7lmxm1oxjdyc4/1rj1740ys47h5s938mfswsh78/7dl0ri596eh6qqkjjkct48bv8
+| goals1     =
+*[[Garry Rodrigues|Rodrigues]] {{goal|7|pen.}}
+| goals2     = 
+*[[Omar Marmoush|Marmoush]] {{goal|57}}
+| penalties1 =
+*[[Diney (footballer, born 1995)|Diney]] {{penmiss}}
+*[[Jamiro Monteiro|Monteiro]] {{penmiss}}
+*[[Kevin Pina (footballer)|Pina]] {{penmiss}}
+*[[Ryan Mendes|Mendes]] {{penmiss}}
+| penaltyscore= 0–2
+| penalties2 =
+*{{penmiss}} [[Omar Marmoush|Marmoush]]
+*{{pengoal}} [[Hossam Abdelmaguid|Abdelmaguid]]
+*{{pengoal}} [[Mohamed Hamdy (footballer, born 1995)|Hamdy]]
+*{{penmiss}} [[Osama Faisal|Faisal]]
+| location   = [[Al Ain]], United Arab Emirates
+| stadium    = [[Hazza bin Zayed Stadium]]
+| attendance = 2,300
+| referee    = Rawdha Al Mansoori ([[United Arab Emirates Football Association|United Arab Emirates]])
+| result     = D
+}}
+{{Football box collapsible
+|date= 2 December
+|time= {{UTZ|17:30|3}}
+|round= [[2025 FIFA Arab Cup Group C]]
+|score= 1–1
+|report=https://www.fifa.com/en/match-centre/match/10013/290556/290557/400020128
+|team1= {{fb-rt|EGY}}
+|goals1=
+*[[Mohamed Magdy|Afsha]] {{goal|88|pen.}}
+|team2= {{fb|KUW}}
+|goals2=
+*[[Fahad Al Hajeri|Al Hajeri]] {{goal|64}}
+|stadium= [[Lusail Stadium]]
+|location= [[Lusail]], Qatar
+|attendance=24,632
+|referee=[[Espen Eskås]] ([[Norwegian Football Federation|Norway]])
+|format=1
+|result= D
+}}
+{{Football box collapsible
+|date= 6 December
+|time= {{UTZ|21:30|3}}
+|round= [[2025 FIFA Arab Cup Group C]]
+|score= 1–1
+|report= https://www.fifa.com/en/match-centre/match/10013/290556/290557/400020131
+|team1= {{fb-rt|UAE}}
+|goals1 = 
+*[[Caio Lucas|Caio]] {{goal|60}}
+|team2= {{fb|EGY}}
+|goals2 = 
+*[[Marwan Hamdy|Hamdy]] {{goal|85}}
+|stadium= [[Lusail Stadium]]
+|location= [[Lusail]], Qatar
+|attendance= 36,299
+|referee= [[Glenn Nyberg]] ([[Swedish Football Association|Sweden]])
+|format=1
+|result= D
+}}
+{{Football box collapsible
+|date= 9 December
+|time= {{UTZ|17:30|3}}
+|round= [[2025 FIFA Arab Cup Group C]]
+|score= 0–3
+|report= https://www.fifa.com/en/match-centre/match/10013/290556/290557/400020132
+|team1= {{fb-rt|EGY}}
+|goals1=
+|team2= {{fb|JOR}}
+|goals2=
+*[[Mohammad Abu Hashish|Abu Hashish]] {{goal|19}}
+*[[Mohammad Abu Zrayq|Abu Zrayq]] {{goal|41}}
+*[[Ali Olwan|Olwan]] {{goal|90+2|pen.}}
+|stadium= [[Al Bayt Stadium]]
+|location= [[Al Khor (city)|Al Khor]], Qatar
+|attendance= 55,658
+|referee= [[Ismail Elfath]] ([[United States Soccer Federation|United States]])
+|format=1
+|result= L
+}}
+{{Football box collapsible
+|date= 16 December
+|time= {{UTZ|20:00|2}}
+|round= [[Exhibition game#Association football|Friendly]]
+|score= 2–1
+|report= https://www.fifa.com/en/match-centre/match/cesdwwnxbc5fmajgroc0hqzy2/8pw8cm9fuczk7lmxm1oxjdyc4/1rj1740ys47h5s938mfswsh78/7i4r0s2bzdd6oqo041ohvt3o
+|team1= {{fb-rt|EGY}}
+|goals1= 
+*[[Mahmoud Saber|Saber]] {{goal|28}}
+*[[Mostafa Mohamed (footballer)|M. Mohamed]] {{goal|53}}
+|team2= {{fb|NGA}}
+|goals2= 
+*[[Chidozie Awaziem|Awaziem]] {{goal|45+3}}
+|stadium= [[Cairo International Stadium]]
+|location= [[Cairo]], Egypt
+|attendance= 
+|referee= Mahmoud Nagy ([[Egyptian Football Association|Egypt]])
+|format= 1
+|result= W
+}}
+{{Football box collapsible
+|date= 22 December
+|time= {{UTZ|21:00|1}}
+|round= [[2025 Africa Cup of Nations Group B|2025 AFCON Group B]]
+|score= 2–1
+|report= https://www.cafonline.com/afcon2025/match-centre?competition=190&season=2025&match=2506776
+|team1= {{fb-rt|EGY}}
+|goals1= 
+*[[Omar Marmoush|Marmoush]] {{goal|64}}
+*[[Mohamed Salah|Salah]] {{goal|90+1}}
+|team2= {{fb|ZIM}}
+|goals2= 
+*[[Prince Dube|Dube]] {{goal|20}}
+|stadium= [[Adrar Stadium]]
+|location= [[Agadir]], Morocco
+|attendance= 28,199
+|referee= [[Issa Sy]] ([[Senegalese Football Federation|Senegal]])
+|format= 1
+|result= W
+}}
+{{Football box collapsible
+|date= 26 December
+|time= {{UTZ|16:00|1}}
+|round= [[2025 Africa Cup of Nations Group B|2025 AFCON Group B]]
+|score= 1–0
+|report= https://www.cafonline.com/afcon2025/match-centre?competition=190&season=2025&match=2506788
+|team1= {{fb-rt|EGY}}
+|goals1= 
+*[[Mohamed Salah|Salah]] {{goal|45|pen.}}
+|team2= {{fb|RSA}}
+|goals2=
+|stadium= [[Adrar Stadium]]
+|location= [[Agadir]], Morocco
+|attendance= 40,219
+|referee= [[Pacifique Ndabihawenimana]] ([[Football Federation of Burundi|Burundi]])
+|format= 1
+|result= W 
+}}
+{{Football box collapsible
+|date       = 29 December
+|round      = [[2025 Africa Cup of Nations Group B|2025 AFCON Group B]]
+|time       = {{UTZ|17:00|1}}
+|format     = 1
+|team1      = {{fb-rt|ANG}}
+|score      = 0–0
+|team2      = {{fb|EGY}}
+|goals1     = 
+|goals2     = 
+|stadium    = [[Adrar Stadium]]
+|location   = [[Agadir]], Morocco
+|attendance = 16,090
+|referee    = Clement Franklin Kpan ([[Ivorian Football Federation|Ivory Coast]])
+|report     = https://www.cafonline.com/afcon2025/match-centre?competition=190&season=2025&match=2506800
+|result     = D
+}}
+
+=== 2026 ===
+{{Football box collapsible
+|format     = 1
+|round      = [[2025 Africa Cup of Nations knockout stage#Round of 16|2025 AFCON Round of 16]]
+|time       = {{UTZ|17:00|1}}
+|date       = 5 January
+|team1      = {{fb-rt|EGY}}
+|score      = 3–1
+|aet        = yes
+|team2      = {{fb|BEN}}
+|goals1     = 
+*[[Marwan Attia|Attia]] {{goal|69}}
+*[[Yasser Ibrahim|Ibrahim]] {{goal|97}}
+*[[Mohamed Salah|Salah]] {{goal|120+4}}
+|goals2     = 
+*[[Jodel Dossou|Dossou]] {{goal|83}}
+|stadium= [[Adrar Stadium]]
+|location   = [[Agadir]], Morocco
+|attendance = 20,191
+|referee    = [[Pierre Atcho]] ([[Gabonese Football Federation|Gabon]])
+|report     = https://www.cafonline.com/afcon2025/match-centre?competition=190&season=2025&match=2506814
+|result= W
+}}
+{{Football box collapsible
+|format= 1
+|round= [[2025 Africa Cup of Nations knockout stage#Quarter-finals|2025 AFCON Quarter-finals]]
+|time= {{UTZ|20:00|1}}
+|date= 10 January
+|team1= {{fb-rt|EGY}}
+|score= 3–2
+|team2= {{fb|CIV}}
+|goals1= 
+*[[Omar Marmoush|Marmoush]] {{goal|4}}
+*[[Ramy Rabia|Rabia]] {{goal|32}}
+*[[Mohamed Salah|Salah]] {{goal|52}}
+|goals2= 
+*[[Ahmed Abou El Fotouh|Abou El Fotouh]] {{goal|40|o.g.}}
+*[[Guéla Doué|Doué]] {{goal|73}}
+|stadium= [[Adrar Stadium]]
+|location= [[Agadir]], Morocco
+|attendance= 31,213
+|referee= [[Mustapha Ghorbal]] ([[Algerian Football Federation|Algeria]])
+|report= https://www.cafonline.com/afcon2025/match-centre?competition=190&season=2025&match=2506821
+|result= W
+}}
+{{Football box collapsible
+|format= 1
+|round= [[2025 Africa Cup of Nations knockout stage#Semi-finals|2025 AFCON Semi-finals]]
+|date= 14 January
+|time= {{UTZ|18:00|1}}
+|team1= {{fb-rt|SEN}}
+|score= 1–0
+|report= https://www.cafonline.com/afcon2025/match-centre?competition=190&season=2025&match=2506822
+|team2= {{fb|EGY}}
+|goals1= 
+*[[Sadio Mané|Mané]] {{goal|78}}
+|goals2= 
+|stadium= [[Tangier Grand Stadium]]
+|location= [[Tangier]], Morocco
+|attendance= 52,079
+|referee= [[Pierre Atcho]] ([[Gabonese Football Federation|Gabon]])
+|result= L
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[2025 Africa Cup of Nations knockout stage#Third place play-off|2025 AFCON Third-place match]]
+|date       = 17 January
+|time       = {{UTZ|17:00|1}}
+|team1      = {{fb-rt|EGY}}
+|score      = 0–0
+|penaltyscore = 2–4
+|team2      = {{fb|NGA}}
+|goals1     = 
+|goals2     =
+|penalties1 = 
+*[[Mohamed Salah|Salah]] {{penmiss}}
+*[[Omar Marmoush|Marmoush]] {{penmiss}}
+*[[Rami Rabia|Rabia]] {{pengoal}}
+*[[Mahmoud Saber|Saber]] {{pengoal}}
+|penalties2 = 
+*{{penmiss}} [[Fisayo Dele-Bashiru|Dele-Bashiru]]
+*{{pengoal}} [[Akor Adams|Adams]]
+*{{pengoal}} [[Moses Simon|Simon]]
+*{{pengoal}} [[Alex Iwobi|Iwobi]]
+*{{pengoal}} [[Ademola Lookman|Lookman]]
+|stadium    = [[Mohammed V Stadium]]
+|location   = [[Casablanca]], Morocco
+|attendance = 38,113
+|referee    = [[Jalal Jayed]] ([[Royal Moroccan Football Federation|Morocco]])
+|report     = https://www.cafonline.com/afcon2025/match-centre?competition=190&season=2025&match=2506824
+|result     = D
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[Exhibition game#International football|Friendly]]
+|date       = 27 March
+|time       = {{UTZ|20:30|3}}
+|team1      = {{fb-rt|KSA}}
+|score      = 0–4
+|team2      = {{fb|EGY}}
+|report     = https://www.fifa.com/en/match-centre/match/cesdwwnxbc5fmajgroc0hqzy2/dezv8l0fzgcxtejl0dwmy1gyc/2m1wojm5bt709wu4kugtytxqs/8dfu7be9cd6srea65oaez31n8
+|goals1     =
+|goals2     =
+*[[Islam Issa (footballer)|Issa]] {{goal|4}}
+*[[Trézéguet (Egyptian footballer)|Trézéguet]] {{goal|16}}
+*[[Zizo (footballer)|Zizo]] {{goal|44}}
+*[[Omar Marmoush|Marmoush]] {{goal|56}}
+|location   = [[Jeddah]], Saudi Arabia{{efn|The Saudi Arabia v Egypt match, originally scheduled to be played at the [[Ahmad bin Ali Stadium]], [[Al Rayyan]], [[Qatar]], was relocated to Saudi Arabia due to the [[2026 Iran war]].}}
+|stadium    = [[King Abdullah Sports City]]
+|attendance = 25,000
+|referee    = Abdulla Ali Al Athba ([[Qatar Football Association|Qatar]])
+|result     = W
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[Exhibition game#Association football|Friendly]]
+|date       = 31 March
+|time       = {{UTZ|21:00|2}}
+|team1      = {{fb-rt|ESP}}
+|score      = 0–0
+|team2      = {{fb|EGY}}
+|report     = https://www.fifa.com/en/match-centre/match/cesdwwnxbc5fmajgroc0hqzy2/dezv8l0fzgcxtejl0dwmy1gyc/2m1wojm5bt709wu4kugtytxqs/52cm9g2ph41wy7jcvhjsbkc9g
+|goals1     =
+|goals2     =
+|location   = [[Cornellà de Llobregat]], Spain{{refn|The Egypt v Spain match, originally scheduled to be played at the [[Lusail Stadium]], [[Lusail]], [[Qatar]], was relocated to Spain due to the [[2026 Iran war]].|group="note"|name="Egypt v Spain"}}
+|stadium    = [[RCDE Stadium]]
+|attendance = 35,895
+|referee    = [[Georgi Kabakov]] ([[Bulgarian Football Union|Bulgaria]])
+|result     = D
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[Exhibition game#International football|Friendly]]
+|date       = 28 May
+|time       = {{UTZ|21:00|3}}
+|team1      = {{fb-rt|EGY}}
+|score      = 1–0
+|team2      = {{fb|RUS}}
+|report     = https://www.fifa.com/en/match-centre/match/cesdwwnxbc5fmajgroc0hqzy2/dezv8l0fzgcxtejl0dwmy1gyc/2m1wojm5bt709wu4kugtytxqs/eroqzn1trwb812wczpi3ys844
+|goals1     = 
+*[[Mostafa Ziko|Ziko]] {{goal|65}}
+|goals2     =
+|location   = [[Cairo]], Egypt
+|stadium    = [[Cairo International Stadium]]
+|attendance = 35,000
+|referee    = Lahlou Benbraham ([[Algerian Football Federation|Algeria]])
+|result     = W
+}}
+{{Football box collapsible
+| format     = 1
+| round      = [[Exhibition game#International football|Friendly]]
+| date       = 6 June
+| time       = {{UTZ|18:00|-4}}
+| team1      = {{fb-rt|BRA}}
+| score      = 2–1
+| team2      = {{fb|EGY}}
+| report     = https://www.fifa.com/en/match-centre/match/cesdwwnxbc5fmajgroc0hqzy2/dezv8l0fzgcxtejl0dwmy1gyc/2m1wojm5bt709wu4kugtytxqs/4ceid8yudkkcihumh24hjscno
+| goals1     =
+*[[Bruno Guimarães]] {{goal|7}}
+*[[Endrick (footballer, born 2006)|Endrick]] {{goal|52}}
+| goals2     = 
+*[[Mostafa Ziko|Ziko]] {{goal|11}}
+| location   = [[Cleveland]], [[Ohio]], United States
+| stadium    = [[Huntington Bank Field]]
+| attendance = 64,311
+| referee    = Adonai Escobedo ([[Mexican Football Federation|Mexico]])
+| result     = L
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[2026 FIFA World Cup]] [[2026 FIFA World Cup Group G|Group G]]
+|date       = 15 June
+|time       = {{UTZ|12:00|-7}}
+|team1      = {{fb-rt|BEL}}
+|score      = 1–1
+|team2      = {{fb|EGY}}
+|report     = https://www.fifa.com/en/match-centre/match/17/285023/289273/400021478
+|goals1     =
+*[[Mohamed Hany|Hany]] {{goal|66|o.g.}} 
+|goals2=
+*[[Emam Ashour|Ashour]] {{goal|19}}
+|location   = [[Seattle]], [[Washington (state)|Washington]], United States
+|stadium    = [[Lumen Field]]
+|attendance = 66,775
+|referee    = [[Ramon Abatti]] ([[Brazilian Football Confederation|Brazil]])
+|result     = D
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[2026 FIFA World Cup]] [[2026 FIFA World Cup Group G|Group G]]
+|date       = 21 June
+|time       = {{UTZ|18:00|-7}}
+|team1      = {{fb-rt|NZL}}
+|score      = 1–3
+|team2      = {{fb|EGY}}
+|report     = https://www.fifa.com/en/match-centre/match/17/285023/289273/400021480
+|goals1=
+*[[Finn Surman|Surman]] {{goal|15}}
+|goals2=
+*[[Mostafa Ziko|Ziko]] {{goal|58}}
+*[[Mohamed Salah|Salah]] {{goal|67}}
+*[[Trézéguet (Egyptian footballer)|Trézéguet]] {{goal|82}}
+|location   = [[Vancouver]], Canada
+|stadium    = [[BC Place]]
+|attendance = 52,497
+|referee    = [[Omar Al Ali]] ([[United Arab Emirates Football Association|United Arab Emirates]])
+|result     = W
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[2026 FIFA World Cup]] [[2026 FIFA World Cup Group G|Group G]]
+|date       = 26 June
+|time       = {{UTZ|20:00|-7}}
+|team1      = {{fb-rt|EGY}}
+|score      = 1–1
+|team2      = {{fb|IRN}}
+|report     = https://www.fifa.com/en/match-centre/match/17/285023/289273/400021479
+|goals1     =
+*[[Mahmoud Saber|Saber]] {{goal|5}}
+|goals2     =
+*[[Ramin Rezaeian|Rezaeian]] {{goal|14}}
+|location   = [[Seattle]], [[Washington (state)|Washington]], United States
+|stadium    = [[Lumen Field]]
+|attendance = 66,925
+|referee    = [[Szymon Marciniak]] ([[Polish Football Association|Poland]])
+|result     = D
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[2026 FIFA World Cup]] [[2026 FIFA World Cup round of 32|Round of 32]]
+|date       = 3 July
+|time       = {{UTZ|13:00|-5}}
+|team1      = {{fb-rt|AUS}}
+|score      = 1–1
+|penaltyscore = 2–4
+|team2      = {{fb|EGY}}
+|report     = https://www.fifa.com/en/match-centre/match/17/285023/289287/400021515
+|goals1     =
+*[[Mohamed Hany|Hany]] {{goal|51|o.g.}}
+|goals2     =
+*[[Emam Ashour|Ashour]] {{goal|13}}
+|penalties1 =
+*[[Harry Souttar|Souttar]] {{penmiss}}
+*[[Jackson Irvine|Irvine]] {{pengoal}}
+*[[Awer Mabil|Mabil]] {{pengoal}}
+*[[Lucas Herrington|Herrington]] {{penmiss}}
+|penalties2 =
+*[[Mahmoud Saber|Saber]] {{pengoal}}
+*[[Ramy Rabia|Rabia]] {{pengoal}}
+*[[Mohamed Salah|Salah]] {{pengoal}}
+*[[Hossam Abdelmaguid|Abdelmaguid]] {{pengoal}}
+|location   = [[Arlington, Texas|Arlington]], [[Texas]], United States
+|stadium    = [[AT&T Stadium]]
+|attendance = 70,224
+|referee    = [[Gustavo Tejera]] ([[Uruguayan Football Association|Uruguay]])
+|result     = D
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[2026 FIFA World Cup]] [[2026 FIFA World Cup knockout stage#Round of 16|Round of 16]]
+|date       = 7 July
+|time       = {{UTZ|12:00|-4}}
+|team1      = {{fb-rt|ARG}}
+|score      = 3–2
+|team2      = {{fb|EGY}}
+|report     = https://www.fifa.com/en/match-centre/match/17/285023/289288/400021528
+|goals1     =
+*[[Cristian Romero|Romero]] {{goal|79}}
+*[[Lionel Messi|Messi]] {{goal|83}}
+*[[Enzo Fernandez|Fernandez]] {{goal|90+2}}
+|goals2     =
+*[[Yasser Ibrahim|Ibrahim]] {{goal|15}}
+*[[Mostafa Ziko|Ziko]] {{goal|67}}
+|location   = [[Atlanta, Georgia]], United States
+|stadium    = [[Mercedes-Benz Stadium]]
+|attendance = 68,239
+|referee    = [[François Letexier]] ([[French Football Association|France]])
+|result     = L
+}}
+{{footballbox collapsible
+|format     = 1
+|round      = [[2027 Africa Cup of Nations qualification|2027 AFCON qualification]]
+|date       = TBD
+|time       = TBD
+|team1      = {{fb-rt|EGY}}
+|score      = 
+|team2      = {{fb|ANG}}
+|report     = 
+|goals1     =
+|goals2     =
+|location   = TBD, Egypt
+|stadium    = TBD
+|attendance = 
+|referee    = 
+|result     =
+}}
+{{footballbox collapsible
+|format     = 1
+|round      = [[2027 Africa Cup of Nations qualification|2027 AFCON qualification]]
+|date       = TBD
+|time       = TBD
+|team1      = {{fb-rt|ANG}}
+|score      = 
+|team2      = {{fb|EGY}}
+|report     = 
+|goals1     =
+|goals2     =
+|location   = TBD, Angola
+|stadium    = TBD
+|attendance = 
+|referee    = 
+|result     =
+}}
+{{footballbox collapsible
+|format     = 1
+|round      = [[2027 Africa Cup of Nations qualification|2027 AFCON qualification]]
+|date       = TBD
+|time       = TBD
+|team1      = {{fb-rt|EGY}}
+|score      = 
+|team2      = {{fb|MWI}}
+|report     = 
+|goals1     =
+|goals2     =
+|location   = TBD, Egypt
+|stadium    = TBD
+|attendance = 
+|referee    = 
+|result     =
+}}
+{{footballbox collapsible
+|format     = 1
+|round      = [[2027 Africa Cup of Nations qualification|2027 AFCON qualification]]
+|date       = TBD
+|time       = TBD
+|team1      = {{fb-rt|MWI}}
+|score      = 
+|team2      = {{fb|EGY}}
+|report     = 
+|goals1     =
+|goals2     =
+|location   = TBD, Malawi
+|stadium    = TBD
+|attendance = 
+|referee    = 
+|result     =
+}}
+{{footballbox collapsible
+|format     = 1
+|round      = [[2027 Africa Cup of Nations qualification|2027 AFCON qualification]]
+|date       = TBD
+|time       = TBD
+|team1      = {{fb-rt|EGY}}
+|score      = 
+|team2      = {{fb|SSD}}
+|report     = 
+|goals1     =
+|goals2     =
+|location   = TBD, Egypt
+|stadium    = TBD
+|attendance = 
+|referee    = 
+|result     =
+}}
+{{footballbox collapsible
+|format     = 1
+|round      = [[2027 Africa Cup of Nations qualification|2027 AFCON qualification]]
+|date       = TBD
+|time       = TBD
+|team1      = {{fb-rt|SSD}}
+|score      = 
+|team2      = {{fb|EGY}}
+|report     = 
+|goals1     =
+|goals2     =
+|location   = TBD, South Sudan
+|stadium    = TBD
+|attendance = 
+|referee    = 
+|result     =
+}}
+
+== Coaching staff ==
+[[File:Hossam Hassan.png|thumb|Current head coach [[Hossam Hassan]]]]
+{| class="wikitable"
+! style="background:#C8102E; color:white; {{box-shadow border|a|black|2px}}" | Role
+! style="background:#C8102E; color:white; {{box-shadow border|a|black|2px}}" | Name
+|-
+| Head coach
+| {{flagicon|EGY}} [[Hossam Hassan]]
+|-
+| Assistant coach
+| {{flagicon|EGY}} [[Mohamed Abdel Wahed]]
+|-
+| Technical director
+| {{flagicon|EGY}} [[Alaa Nabil]]
+|-
+| Director of the team
+| {{flagicon|EGY}} [[Ibrahim Hassan]]
+|-
+| General coach
+| {{flagicon|EGY}} [[Tarek Soliman]]
+|-
+| Goalkeeper coach
+| {{flagicon|EGY}} [[Saafan El-Sagheer]]
+|-
+| Load trainer
+| {{flagicon|BRA}} Manuel Barrionuevo
+|-
+| Performance analyst
+| {{flagicon|EGY}} [[Mahmoud Seleem]]
+|}
+
+=== Coaching history ===
+[[File:Hassan Shehata 1977.jpg|thumb|165px|[[Hassan Shehata]]]]
+[[File:Mahmoud El Gohary (footballer).jpg|thumb|165px|[[Mahmoud El Gohary]]]]
+
+{{div col|colwidth=22em}}
+#{{flagicon|EGY|1922}} [[Hussein Hegazi]] (1920–1924)
+#{{flagicon|SCO}} [[James McCrae (footballer)|James McCrae]] (1934–36)
+#{{flagicon|EGY|1922}} [[Tewfik Abdullah]] (1940–1944)
+#{{flagicon|ENG}} [[Eric Keen]] (1947–1948)
+#{{flagicon|ENG}} [[Edward Jones (football manager)|Edward Jones]] (1949–1952)
+#{{flagicon|EGY|1922}} National Committee{{efn|A committee of six former Egypt internationals.}} (1953–1954)
+#{{flagicon|YUG}} [[Ljubiša Broćić]] (1954–1955)
+#{{flagicon|EGY|1922}} [[Mourad Fahmy]] (1955–1957)
+#{{flagicon|UAR}} [[Mohamed El-Guindi]] and [[Hanafy Bastan]] (1958, 1962)
+#{{flagicon|HUN}} [[Pál Titkos]] (1959–1961)
+#{{flagicon|UAR}} [[Fouad Ahmed Sedki]] (1963)
+#{{flagicon|YUG}} Branko Horvatek (1963–1964)
+#{{flagicon|YUG}} Andrija Pflander (1964–1965)
+#{{flagicon|YUG}} [[Dimitri Tadić]] (1965)
+#{{flagicon|YUG}} Andrija Kovač (1965)
+#{{flagicon|HUN}} Sándor Kapocsi (1965–1967)
+#{{flagicon|UAR}} [[Saleh El Wahsh]] and Kamal El Sabagh (1968–1970)
+#{{flagicon|FRG}} [[Dettmar Cramer]] (1971–1974)
+#{{flagicon|FRG}} [[Burkhard Pape]] (1975–1977)
+#{{flagicon|YUG}} [[Dušan Nenković]] (1977–1978)
+#{{flagicon|EGY|1972}} [[Taha Ismail]] (1978, 1994)
+#{{flagicon|HUN}} [[Dezső Bundzsák|Bundzsák Dezso]] (1979)
+#{{flagicon|EGY|1972}} [[Fouad Sedki]] (1980)
+#{{flagicon|EGY|1972}} Abdel Monem El Hajj (1980)
+#{{flagicon|EGY|1972}} Hamada El Sharqawy (1980)
+#{{flagicon|FRG}} [[Karl-Heinz Heddergott]] (1982–1984)
+#{{flagicon|EGY|1972}} [[Saleh El Wahsh]] (1984)
+#{{flagicon|ENG}} [[Mike Smith (football manager)|Mike Smith]] (1985–1988)
+#{{flagicon|EGY}} [[Mahmoud El-Gohary|Mahmoud El Gohary]] (1988–1990, 1992, 1997–1999, 2000–2002)
+#{{flagicon|EGY}} [[Hany Moustafa]] (1990)
+#{{flagicon|GER}} [[Dietrich Weise]] (1990–1991)
+#{{flagicon|EGY}} [[Mahmoud Saad (footballer, born 1952)|Mahmoud Saad]] (1992)
+#{{flagicon|EGY}} [[Mohamed Seddik|Mohamed Shehta]] (1993)
+#{{flagicon|ROU}} [[Mircea Rădulescu]] (1993–1994)
+#{{flagicon|NED}} [[Nol de Ruiter]] (1994–1995)
+#{{flagicon|EGY}} [[Mohsen Saleh]] (1995, 2002–2004)
+#{{flagicon|NED}} [[Ruud Krol]] (1996)
+#{{flagicon|EGY}} [[Farouk Gaafar]] (1996–1997)
+#{{flagicon|FRA|1974}} [[Gerard Gili]] (1999–2000)
+#{{flagicon|ITA|2003}} [[Marco Tardelli]] (2004–2005)
+#{{flagicon|EGY}} [[Hassan Shehata]] (2005–2011)
+#{{flagicon|USA}} [[Bob Bradley]] (2011–2013)
+#{{flagicon|EGY}} [[Shawky Gharieb]] (2013–2014)
+#{{flagicon|ARG}} [[Héctor Cúper]] (2015–2018)
+#{{flagicon|MEX}} [[Javier Aguirre]] (2018–2019)
+#{{flagicon|EGY}} [[Hossam El Badry]] (2019–2021)
+#{{flagicon|POR}} [[Carlos Queiroz]] (2021–2022)
+#{{flagicon|EGY}} [[Ehab Galal]] (2022)
+#{{flagicon|POR}} [[Rui Vitória]] (2022–2024)
+#{{flagicon|EGY}} [[Hossam Hassan]] (2024–present)
+{{div col end}}
+
+==Players==
+===Current squad===
+The following players were called up for [[2026 FIFA World Cup]] squad.<ref>{{cite web |url=https://x.com/EFA/status/2060488299849073058 |title=🗒️🔴{{pipe}} أعلن الجهاز الفني لمنتخب مصر الأول لكرة القدم بقيادة حسام حسن، قائمة اللاعبين النهائية التي تضم 26 لاعبا لبطولة كأس العالم 2026 بالولايات المتحدة وكندا والمكسيك خلال الفترة من 11 يونيو إلي 19 يوليو المقبلين. |publisher=[[Egyptian Football Association]] |via=[[X (Twitter)|X]] |date=29 May 2026 |access-date=29 May 2026}}</ref>
+<br>:''Caps and goals are correct as of 7 July 2026, after the match against [[Argentina national football team|Argentina]].''
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Mohamed El Shenawy]]|age={{birth date and age|df=yes|1988|12|18}}|caps=76|goals=0|club=[[Al Ahly SC|Al Ahly]]|clubnat=EGY}}
+{{nat fs g player|no=16|pos=GK|name=[[El Mahdy Soliman]]|age={{birth date and age|df=yes|1987|6|8}}|caps=0|goals=0|club=[[Zamalek SC|Zamalek]]|clubnat=EGY}}
+{{nat fs g player|no=23|pos=GK|name=[[Mostafa Shobeir]]|age={{birth date and age|df=yes|2000|3|17}}|caps=14|goals=0|club=[[Al Ahly SC|Al Ahly]]|clubnat=EGY}}
+{{nat fs g player|no=26|pos=GK|name=[[Mohamed Alaa]]|age={{birth date and age|df=yes|1999|1|9}}|caps=0|goals=0|club=[[El Gouna FC|El Gouna]]|clubnat=EGY}}
+{{nat fs break}}
+{{nat fs g player|no=2|pos=DF|name=[[Yasser Ibrahim]]|age={{birth date and age|df=yes|1993|2|10}}|caps=22|goals=2|club=[[Al Ahly SC|Al Ahly]]|clubnat=EGY}}
+{{nat fs g player|no=3|pos=DF|name=[[Mohamed Hany]]|age={{birth date and age|df=yes|1996|1|25}}|caps=47|goals=0|club=[[Al Ahly SC|Al Ahly]]|clubnat=EGY}}
+{{nat fs g player|no=4|pos=DF|name=[[Hossam Abdelmaguid]]|age={{birth date and age|df=yes|2001|4|30}}|caps=15|goals=0|club=[[Zamalek SC|Zamalek]]|clubnat=EGY}}
+{{nat fs g player|no=5|pos=DF|name=[[Ramy Rabia]]|age={{birth date and age|df=yes|1993|5|20}}|caps=49|goals=5|club=[[Al Ain FC|Al Ain]]|clubnat=UAE}}
+{{nat fs g player|no=6|pos=DF|name=[[Mohamed Abdelmonem]]|age={{birth date and age|df=yes|1999|2|1}}|caps=38|goals=3|club=[[OGC Nice|Nice]]|clubnat=FRA}}
+{{nat fs g player|no=13|pos=DF|name=[[Ahmed Fatouh]]|age={{birth date and age|df=yes|1998|3|22}}|caps=42|goals=1|club=[[Zamalek SC|Zamalek]]|clubnat=EGY}}
+{{nat fs g player|no=15|pos=DF|name=[[Karim Hafez]]|age={{birth date and age|df=yes|1996|3|12}}|caps=12|goals=0|club=[[Pyramids FC|Pyramids]]|clubnat=EGY}}
+{{nat fs g player|no=24|pos=DF|name=[[Tarek Alaa (footballer, born 2002)|Tarek Alaa]]|age={{birth date and age|df=yes|2002|1|5}}|caps=3|goals=0|club=[[ZED FC|ZED]]|clubnat=EGY}}
+{{nat fs break}}
+{{nat fs g player|no=8|pos=MF|name=[[Emam Ashour]]|age={{birth date and age|df=yes|1998|2|20}}|caps=34|goals=2|club=[[Al Ahly SC|Al Ahly]]|clubnat=EGY}}
+{{nat fs g player|no=11|pos=MF|name=[[Mostafa Ziko]]|age={{birth date and age|df=yes|1997|4|27}}|caps=7|goals=4|club=[[Pyramids FC|Pyramids]]|clubnat=EGY}}
+{{nat fs g player|no=14|pos=MF|name=[[Hamdy Fathy]]|age={{birth date and age|df=yes|1994|9|29}}|caps=67|goals=3|club=[[Al-Wakrah SC|Al-Wakrah]]|clubnat=QAT}}
+{{nat fs g player|no=17|pos=MF|name=[[Mohanad Lasheen]]|age={{birth date and age|df=yes|1996|5|29}}|caps=27|goals=0|club=[[Pyramids FC|Pyramids]]|clubnat=EGY}}
+{{nat fs g player|no=18|pos=MF|name=[[Nabil Emad]]|age={{birth date and age|df=yes|1996|4|6}}|caps=12|goals=0|club=[[Al-Najma SC (Saudi Arabia)|Al-Najma]]|clubnat=KSA}}
+{{nat fs g player|no=19|pos=MF|name=[[Marwan Attia]]|age={{birth date and age|df=yes|1998|8|12}}|caps=39|goals=1|club=[[Al Ahly SC|Al Ahly]]|clubnat=EGY}}
+{{nat fs g player|no=21|pos=MF|name=[[Mahmoud Saber]]|age={{birth date and age|df=yes|2001|7|30}}|caps=17|goals=2|club=[[ZED FC|ZED]]|clubnat=EGY}}
+{{nat fs break}}
+{{nat fs g player|no=7|pos=FW|name=[[Trézéguet (Egyptian footballer)|Trézéguet]]|age={{birth date and age|df=yes|1994|10|1}}|caps=100|goals=24|club=[[Al Ahly SC|Al Ahly]]|clubnat=EGY}}
+{{nat fs g player|no=9|pos=FW|name=[[Hamza Abdelkarim]]|age={{birth date and age|df=yes|2008|1|1}}|caps=6|goals=0|club=[[FC Barcelona Atlètic|Barcelona B]]|clubnat=ESP}}
+{{nat fs g player|no=10|pos=FW|name=[[Mohamed Salah]]|other=[[Captain (association football)|captain]]|age={{birth date and age|df=yes|1992|6|15}}|caps=121|goals=68|club=[[Free agent|''Unattached'']]}}
+{{nat fs g player|no=12|pos=FW|name=[[Haissem Hassan]]|age={{birth date and age|df=yes|2002|2|8}}|caps=6|goals=0|club=[[Real Oviedo|Oviedo]]|clubnat=ESP}}
+{{nat fs g player|no=20|pos=FW|name=[[Ibrahim Adel]]|age={{birth date and age|df=yes|2001|4|23}}|caps=25|goals=3|club=[[FC Nordsjælland|Nordsjælland]]|clubnat=DEN}}
+{{nat fs g player|no=22|pos=FW|name=[[Omar Marmoush]]|age={{birth date and age|df=yes|1999|2|7}}|caps=55|goals=11|club=[[Manchester City F.C.|Manchester City]]|clubnat=ENG}}
+{{nat fs g player|no=25|pos=FW|name=[[Zizo (footballer)|Zizo]]|age={{birth date and age|df=yes|1996|1|10}}|caps=67|goals=5|club=[[Al Ahly SC|Al Ahly]]|clubnat=EGY}}
+{{nat fs end}}
+
+===Recent call-ups===
+The following players have been called up for the team in the last 12 months.
+<!--Sorted by position, most recent call-up, caps, goals and last name.-->
+{{nat fs r start}}
+{{nat fs r player|no=|pos=GK|name=[[Mohamed Sobhy (footballer, born 1999)|Mohamed Sobhi]]|age={{birth date and age|df=yes|1999|7|15}}|caps=6|goals=0|club=[[Zamalek SC|Zamalek]]|clubnat=EGY|latest=[[2025 Africa Cup of Nations]]}}
+{{nat fs r player|no=|pos=GK|name=[[Mohamed Awad (Egyptian footballer)|Mohamed Awad]]|age={{birth date and age|df=yes|1992|7|6}}|caps=4|goals=0|club=[[Zamalek SC|Zamalek]]|clubnat=EGY|latest=[[2025 FIFA Arab Cup]]}}
+{{nat fs r player|no=|pos=GK|name=[[Mohamed Bassam]]|age={{birth date and age|df=yes|1990|12|25}}|caps=3|goals=0|club=[[Ceramica Cleopatra FC|Ceramica Cleopatra]]|clubnat=EGY|latest=[[2025 FIFA Arab Cup]]}}
+{{nat fs r player|no=|pos=GK|name=[[Ali Lotfi (footballer)|Ali Lotfi]]|age={{birth date and age|df=yes|1989|10|1}}|caps=1|goals=0|club=[[ZED FC|ZED]]|clubnat=EGY|latest=[[2025 FIFA Arab Cup]]}}
+{{nat fs r player|no=|pos=GK|name=Abdelaziz El Balouti|age={{birth date and age|df=yes|1994|1|8}}|caps=0|goals=0|club=[[National Bank of Egypt SC|National Bank of Egypt]]|clubnat=EGY|latest=v. {{fb|GNB}}, 12 October 2025}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=DF|name=[[Khaled Sobhi]]|age={{birth date and age|df=yes|1995|5|4}}|caps=7|goals=0|club=[[Al Masry SC|Al Masry]]|clubnat=EGY|latest=v. {{fb|ESP}}, 31 March 2026}}
+{{nat fs r player|no=|pos=DF|name=[[Mohamed Hamdy (footballer, born 1995)|Mohamed Hamdy]]|age={{birth date and age|df=yes|1995|3|15}}|caps=36|goals=1|club=[[Pyramids FC|Pyramids]]|clubnat=EGY|latest=[[2025 Africa Cup of Nations]]}}
+{{nat fs r player|no=|pos=DF|name=[[Ahmed Eid (footballer)|Ahmed Eid]]|age={{birth date and age|df=yes|2001|1|2}}|caps=5|goals=0|club=[[Al Masry SC|Al Masry]]|clubnat=EGY|latest=[[2025 Africa Cup of Nations]]}}
+{{nat fs r player|no=|pos=DF|name=[[Mohamed Ismail (footballer)|Mohamed Ismail]]|age={{birth date and age|df=yes|1999|8|1}}|caps=1|goals=0|club=[[Zamalek SC|Zamalek]]|clubnat=EGY|latest=[[2025 Africa Cup of Nations]]}}
+{{nat fs r player|no=|pos=DF|name=[[Mahmoud Hamdy|El-Wensh]]|age={{birth date and age|df=yes|1995|6|1}}|caps=27|goals=5|club=[[Zamalek SC|Zamalek]]|clubnat=EGY|latest=[[2025 FIFA Arab Cup]]}}
+{{nat fs r player|no=|pos=DF|name=[[Karim Fouad]]|age={{birth date and age|df=yes|1999|10|1}}|caps=3|goals=0|club=[[Al Ahly SC|Al Ahly]]|clubnat=EGY|latest=[[2025 FIFA Arab Cup]]}}
+{{nat fs r player|no=|pos=DF|name=[[Yassin Marei]]|age={{birth date and age|df=yes|2001|11|7}}|caps=3|goals=0|club=[[Al Ahly SC|Al Ahly]]|clubnat=EGY|latest=[[2025 FIFA Arab Cup]]}}
+{{nat fs r player|no=|pos=DF|name=Yehia Zakaria|age={{birth date and age|df=yes|2001|12|20}}|caps=3|goals=0|club=[[Ghazl El Mahalla SC|Ghazl El Mahalla]]|clubnat=EGY|latest=[[2025 FIFA Arab Cup]]}}
+{{nat fs r player|no=|pos=DF|name=[[Karim El Eraki]]|age={{birth date and age|df=yes|1997|11|29}}|caps=2|goals=0|club=[[Al Masry SC|Al Masry]]|clubnat=EGY|latest=[[2025 FIFA Arab Cup]]}}
+{{nat fs r player|no=|pos=DF|name=Ragab Nabil|age={{birth date and age|df=yes|1993|1|5}}|caps=2|goals=0|club=[[Ceramica Cleopatra FC|Ceramica Cleopatra]]|clubnat=EGY|latest=[[2025 FIFA Arab Cup]]}}
+{{nat fs r player|no=|pos=DF|name=Ahmed Hany|age={{birth date and age|df=yes|1997|5|19}}|caps=1|goals=0|club=[[Ceramica Cleopatra FC|Ceramica Cleopatra]]|clubnat=EGY|latest=[[2025 FIFA Arab Cup]]}}
+{{nat fs r player|no=|pos=DF|name=Hady Reyad|age={{birth date and age|df=yes|1998|6|10}}|caps=0|goals=0|club=[[Petrojet SC|Petrojet]]|clubnat=EGY|latest=[[2025 FIFA Arab Cup]]}}
+{{nat fs r player|no=|pos=DF|name=Amr El Gazar|age={{birth date and age|df=yes|1999|9|20}}|caps=0|goals=0|club=[[National Bank of Egypt SC|National Bank of Egypt]]|clubnat=EGY|latest=v. {{fb|GNB}}, 12 October 2025}}
+{{nat fs r player|no=|pos=DF|name=Mohamed Rabia|age={{birth date and age|df=yes|1996|5|5}}|caps=2|goals=0|club=[[ZED FC|ZED]]|clubnat=EGY|latest=v. {{fb|BFA}}, 9 September 2025}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=MF|name=[[Ahmed Nabil Koka]]|age={{birth date and age|df=yes|2001|7|4}}|caps=11|goals=0|club=[[Al Ahly SC|Al Ahly]]|clubnat=EGY|latest=v. {{fb|ESP}}, 31 March 2026}}
+{{nat fs r player|no=|pos=MF|name=[[Mohamed Shehata (footballer)|Mohamed Shehata]]|age={{birth date and age|df=yes|2001|2|8}}|caps=9|goals=0|club=[[Zamalek SC|Zamalek]]|clubnat=EGY|latest=[[2025 Africa Cup of Nations]]}}
+{{nat fs r player|no=|pos=MF|name=[[Mohamed Elneny]]|age={{birth date and age|df=yes|1992|7|11}}|caps=105|goals=8|club=[[Free agent|''Unattached'']]|clubnat=|latest=[[2025 FIFA Arab Cup]]}}
+{{nat fs r player|no=|pos=MF|name=[[Amr El Solia]]|age={{birth date and age|df=yes|1990|4|2}}|caps=54|goals=1|club=[[Ceramica Cleopatra FC|Ceramica Cleopatra]]|clubnat=EGY|latest=[[2025 FIFA Arab Cup]]}}
+{{nat fs r player|no=|pos=MF|name=[[Mohamed Magdy|Afsha]]|age={{birth date and age|df=yes|1996|3|6}}|caps=24|goals=6|club=[[Al Ahly SC|Al Ahly]]|clubnat=EGY|latest=[[2025 FIFA Arab Cup]]}}
+{{nat fs r player|no=|pos=MF|name=[[Mostafa Saad]]|age={{birth date and age|df=yes|2001|8|22}}|caps=18|goals=1|club=[[ZED FC|ZED]]|clubnat=EGY|latest=[[2025 FIFA Arab Cup]]}}
+{{nat fs r player|no=|pos=MF|name=[[Akram Tawfik]]|age={{birth date and age|df=yes|1997|11|8}}|caps=15|goals=1|club=[[Al-Shamal SC|Al-Shamal]]|clubnat=QAT|latest=[[2025 FIFA Arab Cup]]}}
+{{nat fs r player|no=|pos=MF|name=[[Mido Gaber]]|age={{birth date and age|df=yes|1995|5|9}}|caps=4|goals=1|club=[[Al Masry SC|Al Masry]]|clubnat=EGY|latest=[[2025 FIFA Arab Cup]]}}
+{{nat fs r player|no=|pos=MF|name=[[Ghanam Mohamed]]|age={{birth date and age|df=yes|1997|3|12}}|caps=4|goals=0|club=[[Modern Sport FC|Modern Sport]]|clubnat=EGY|latest=[[2025 FIFA Arab Cup]]}}
+{{nat fs r player|no=|pos=MF|name=Zalaka|age={{birth date and age|df=yes|1999|9|12}}|caps=3|goals=0|club=[[Pyramids FC|Pyramids]]|clubnat=EGY|latest=[[2025 Al Ain International Cup]]}}
+{{nat fs r player|no=|pos=MF|name=Marwan Otaka|age={{birth date and age|df=yes|2002|7|7}}|caps=1|goals=0|club=[[Ceramica Cleopatra FC|Ceramica Cleopatra]]|clubnat=EGY|latest=[[2025 Al Ain International Cup]]}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=FW|name=Aqtay Abdallah|age={{birth date and age|df=yes|2003|6|1}}|caps=0|goals=0|club=[[ENPPI SC|ENPPI]]|clubnat=EGY|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=FW|name=[[Mostafa Mohamed (footballer)|Mostafa Mohamed]]|age={{birth date and age|df=yes|1997|11|28}}|caps=61|goals=14|club=[[FC Nantes|Nantes]]|clubnat=FRA|latest=v. {{fb|ESP}}, 31 March 2026}}
+{{nat fs r player|no=|pos=FW|name=[[Islam Issa (footballer)|Islam Issa]]|age={{birth date and age|df=yes|1996|2|1}}|caps=6|goals=1|club=[[Ceramica Cleopatra FC|Ceramica Cleopatra]]|clubnat=EGY|latest=v. {{fb|ESP}}, 31 March 2026}}
+{{nat fs r player|no=|pos=FW|name=[[Nasser Mansi]]|age={{birth date and age|df=yes|2001|11|16}}|caps=0|goals=0|club=[[Zamalek SC|Zamalek]]|clubnat=EGY|latest=v. {{fb|ESP}}, 31 March 2026}}
+{{nat fs r player|no=|pos=FW|name=[[Osama Faisal]]|age={{birth date and age|df=yes|2001|1|1}}|caps=16|goals=0|club=[[National Bank of Egypt SC|National Bank of Egypt]]|clubnat=EGY|latest=[[2025 Africa Cup of Nations]]}}
+{{nat fs r player|no=|pos=FW|name=[[Salah Mohsen]]|age={{birth date and age|df=yes|1998|9|1}}|caps=10|goals=1|club=[[Al Masry SC|Al Masry]]|clubnat=EGY|latest=[[2025 Africa Cup of Nations]]}}
+{{nat fs r player|no=|pos=FW|name=[[Mohamed Sherif]]|age={{birth date and age|df=yes|1996|2|4}}|caps=23|goals=3|club=[[Al Ahly SC|Al Ahly]]|clubnat=EGY|latest=[[2025 FIFA Arab Cup]]}}
+{{nat fs r player|no=|pos=FW|name=[[Marwan Hamdy]]|age={{birth date and age|df=yes|1996|11|15}}|caps=17|goals=3|club=[[Pyramids FC|Pyramids]]|clubnat=EGY|latest=[[2025 FIFA Arab Cup]]}}
+{{nat fs r player|no=|pos=FW|name=[[Hossam Hassan (footballer, born 1993)|Hossam Hassan]]|age={{birth date and age|df=yes|1993|9|2}}|caps=7|goals=1|club=[[Modern Sport FC|Modern Sport]]|clubnat=EGY|latest=[[2025 FIFA Arab Cup]]}}
+{{nat fs r player|no=|pos=FW|name=Mohamed Mosaad|age={{birth date and age|df=yes|2001|9|14}}|caps=0|goals=0|club=[[Modern Sport FC|Modern Sport]]|clubnat=EGY|latest=[[2025 FIFA Arab Cup]]}}
+{{nat fs r player|no=|pos=FW|name=[[Ahmed Atef (footballer, born 1998)|Ahmed Atef]]|age={{birth date and age|df=yes|1998|3|21}}|caps=3|goals=0|club=[[ZED FC|ZED]]|clubnat=EGY|latest=[[2025 FIFA Arab Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=FW|name=[[Mostafa Shalaby]]|age={{birth date and age|df=yes|1994|9|1}}|caps=1|goals=0|club=[[National Bank of Egypt SC|National Bank of Egypt]]|clubnat=EGY|latest=[[2025 FIFA Arab Cup]] <sup>INJ</sup>}}
+{{nat fs r player|no=|pos=FW|name=[[Taher Mohamed]]|age={{birth date and age|df=yes|1997|3|7}}|caps=6|goals=1|club=[[Al Ahly SC|Al Ahly]]|clubnat=EGY|latest=[[2025 Al Ain International Cup]]}}
+{{nat fs break}}
+;Notes
+*<sup>INJ</sup> = Player withdrew from the squad due to an injury.
+*<sup>PRE</sup> = Preliminary squad/standby.
+*<sup>RET</sup> = Retired from the national team.
+*<sup>SUS</sup> = Player suspended from the squad for disciplinary reasons.
+*<sup>WD</sup> = Player withdrew from the squad for non-injury related reasons.
+{{nat fs end}}
+
+== Records ==
+{{updated|7 July 2026}}<ref>{{cite web |url=https://www.rsssf.org/miscellaneous/egy-recintlp.html |title=Egypt – Record International Players |first=Hazem |last=Adel |access-date=13 September 2013 |archive-date=26 December 2018 |website=[[RSSSF]] |archive-url=https://web.archive.org/web/20181226063523/http://www.rsssf.com/miscellaneous/egy-recintlp.html%20 |url-status=live }}</ref>
+:''Players in '''bold''' are still active with Egypt.''
+
+=== Most appearances ===
+[[File:أحمد حسن لاعب المنتخب المصري (cropped).png|130px|thumb|right|[[Ahmed Hassan (footballer, born 1975)|Ahmed Hassan]] is Egypt's most capped player with 184 appearances.]]
+{| class="wikitable sortable" style="text-align:center"
+|-
+! width=30px|Rank
+! width=175px|Player
+! width=50px|Caps
+! width=50px|Goals
+! width=100px|Career
+|-
+| 1 || align=left | [[Ahmed Hassan (footballer, born 1975)|Ahmed Hassan]] || 184 || 33 || {{nowrap|1995–2012}}
+|-
+| 2 || align=left | [[Hossam Hassan]]{{efn|name=Hossam Hassan|Matches against UAE and Morocco (in 1988), Kuwait (in 1989), Mali (twice in 1994) and Ghana (in 1997) are not considered full internationals by FIFA but they are recognised by the Egyptian FA.<ref>{{cite web|url=https://www.rsssf.org/miscellaneous/hassan-intl.html|title=Hossam Hassan – Century of International Appearances|date=30 July 2020|access-date=18 August 2020|archive-date=3 June 2021|website=[[RSSSF]]|archive-url=https://web.archive.org/web/20210603083532/http://www.rsssf.com/miscellaneous/hassan-intl.html|url-status=live}}</ref>}} || 176 || 69 || 1985–2006
+|-
+| 3 || align=left | [[Essam El Hadary]] || 159 || 0 || 1996–2018
+|-
+| 4 || align=left | [[Ahmed Fathy]] || 136 || 3 || 2002–2021
+|-
+| 5 || align=left | [[Ibrahim Hassan]] || 131 || 17 || 1988–2002
+|-
+| 6 || align=left | [[Hany Ramzy]] || 123 || 3 || 1988–2003
+|-
+| 7 || align=left | '''[[Mohamed Salah]]''' || 121 || 68 || 2011–present
+|-
+| 8 || align=left | [[Wael Gomaa]] || 114 || 1 || 2001–2013
+|-
+| rowspan=2|9 || align=left | [[Ahmed El-Kass|Ahmed El Kass]] || 112 || 25 || 1987–1997
+|-
+| align=left | [[Abdel Zaher El Saka]] || 112 || 4 || 1997–2010
+|}
+
+=== Top goalscorers ===
+[[File:Hossam Hassan.png|220px|thumb|right|[[Hossam Hassan]] is Egypt's top goalscorer with 69 goals, and is currently the manager of the team.<ref>{{Cite web |title=Egypt - Record International Players |url=https://www.rsssf.org/miscellaneous/egy-recintlp.html |access-date=2024-05-09 |website=www.rsssf.org}}</ref>]]
+{| class="wikitable sortable" style="text-align:center"
+|-
+! width=30px|Rank
+! width=175px|Player
+! width=50px|Goals
+! width=50px|Caps
+! width=50px|Ratio
+! width=100px|Career
+|-
+| 1 || align=left | [[Hossam Hassan]]{{efn|name=Hossam Hassan}} ([[List of international goals scored by Hossam Hassan|list]]) || 69|| 176 || {{#expr:69/176 round 2}} || {{nowrap|1985–2006}}
+|-
+| 2 || align=left | '''[[Mohamed Salah]]''' || 68 || 121 || {{#expr:68/119 round 2}} || 2011–present
+|-
+| 3 || align=left | [[Hassan El-Shazly|Hassan El Shazly]] || 49 || 64 || 0.77 || 1961–1975
+|-
+| 4 || align=left | [[El-Sayed El-Dhizui]] || 41 || 50 || 0.82 || 1948–1960
+|-
+| 5 || align=left | [[Mohamed Aboutrika|Mohamed Abou Trika]] || 38 || 100 || {{#expr:38/100 round 2}} || 2001–2013
+|-
+| 6 || align=left | [[Ahmed Hassan (footballer, born 1975)|Ahmed Hassan]] || 33 || 184 || {{#expr:33/184 round 2}} || 1995–2012
+|-
+| 7 || align=left | [[Amr Zaki]] || 30 || 63 || {{#expr:30/63 round 2}} || 2004–2013
+|-
+| 8 || align=left | [[Emad Moteab]] || 28 || 70 || {{#expr:28/70 round 2}} || 2004–2015
+|-
+|9 || align=left | [[Badawi Abdel Fattah]] || 27 || 27 || 1.0 || 1960–1966
+|-
+| 10 || align=left | [[Moustafa Reyadh]] || 26 || 66 || {{#expr:26/66 round 2}} || 1962–1972
+|}
+
+== Competitive records ==
+=== FIFA World Cup ===
+{{Main|Egypt at the FIFA World Cup}}
+
+{| class="wikitable" style="font-size:90%; text-align:center; width:100%"
+! colspan="10" style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" |[[FIFA World Cup|<span style="color:white">FIFA World Cup</span>]] record
+! rowspan="38" style="width:1%;background:white" |
+! colspan="7" style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" |[[FIFA World Cup qualification|<span style="color:white">FIFA World Cup qualification</span>]] record
+|-
+!width="15%" |Year
+!width="15%" |Round
+!width="5%" |Position
+!width="5%" |{{Tooltip|Pld|Matches played}}
+!width="5%" |{{Tooltip|W|Matches won}}
+!width="5%" |{{Tooltip|D|Matches drawn}}*
+!width="5%" |{{Tooltip|L|Matches lost}}
+!width="5%" |{{Tooltip|GF|Goals for}}
+!width="5%" |{{Tooltip|GA|Goals against}}
+!width="5%" |Squad
+!width="5%" |{{Tooltip|Pld|Matches played}}
+!width="5%" |{{Tooltip|W|Matches won}}
+!width="5%" |{{Tooltip|D|Matches drawn}}
+!width="5%" |{{Tooltip|L|Matches lost}}
+!width="5%" |{{Tooltip|GF|Goals for}}
+!width="5%" |{{Tooltip|GA|Goals against}}
+|-
+| {{flagicon|Uruguay}} [[1930 FIFA World Cup|1930]]
+| colspan="9" | ''Withdrew due to storm''<ref>{{Cite web |last=Benjamin |first=Brian |date=2014-09-04 |title=The story of the 1930 World Cup |url=https://thesefootballtimes.co/2014/09/04/the-story-of-the-1930-world-cup/ |access-date=2023-07-16 |website=These Football Times |language=en-GB}}</ref>
+| colspan="6" | ''Qualified as invitees''
+|-
+| {{flagicon|Italy|1861}} [[1934 FIFA World Cup|1934]]
+| Round of 16
+| 13th
+| 1
+| 0
+| 0
+| 1
+| 2
+| 4
+| [[1934 FIFA World Cup squads#Egypt|Squad]]
+| 2
+| 2
+| 0
+| 0
+| 11
+| 2
+|-
+| {{flagicon|France|1794}} [[1938 FIFA World Cup|1938]]
+| colspan="9" | ''Withdrew''
+| colspan="6" | ''Withdrew''
+|-
+| {{flagicon|Brazil|1889}} [[1950 FIFA World Cup|1950]]
+| colspan="9" | ''Did not enter''
+| colspan="6" | ''Did not enter''
+|-
+| {{flagicon|Switzerland}} [[1954 FIFA World Cup|1954]]
+| colspan="9" | ''Did not qualify''
+| 2
+| 0
+| 0
+| 2
+| 2
+| 7
+|-
+| {{flagicon|Sweden}} [[1958 FIFA World Cup|1958]]
+| rowspan="3" colspan="9" | ''Withdrew''
+| rowspan="3" colspan="6" | ''Withdrew''
+|-
+| {{flagicon|Chile}} [[1962 FIFA World Cup|1962]]
+|-
+| {{flagicon|England}} [[1966 FIFA World Cup|1966]]
+|-
+| {{flagicon|Mexico}} [[1970 FIFA World Cup|1970]]
+| colspan="9" | ''Did not enter''
+| colspan="6" | ''Did not enter''
+|-
+| {{flagicon|West Germany}} [[1974 FIFA World Cup|1974]]
+| rowspan="4" colspan="9" | ''Did not qualify''
+| 2
+| 1
+| 0
+| 1
+| 2
+| 3
+|-
+| {{flagicon|Argentina}} [[1978 FIFA World Cup|1978]]
+| 10
+| 6
+| 2
+| 2
+| 15
+| 12
+|-
+| {{flagicon|Spain}} [[1982 FIFA World Cup|1982]]
+| 2
+| 0
+| 1
+| 1
+| 0
+| 1
+|-
+| {{flagicon|Mexico}} [[1986 FIFA World Cup|1986]]
+| 6
+| 2
+| 2
+| 2
+| 3
+| 4
+|-
+| {{flagicon|Italy}} [[1990 FIFA World Cup|1990]]
+| Group stage
+| 20th
+| 3
+| 0
+| 2
+| 1
+| 1
+| 2
+| [[1990 FIFA World Cup squads#Egypt|Squad]]
+| 8
+| 4
+| 3
+| 1
+| 7
+| 2
+|-
+| {{flagicon|United States}} [[1994 FIFA World Cup|1994]]
+| rowspan="6" colspan="9" | ''Did not qualify''
+| 6
+| 3
+| 2
+| 1
+| 9
+| 3
+|-
+| {{flagicon|France|1974}} [[1998 FIFA World Cup|1998]]
+| 6
+| 3
+| 1
+| 2
+| 15
+| 5
+|-
+| {{flagicon|South Korea|1997}} {{flagicon|Japan}} [[2002 FIFA World Cup|2002]]
+| 10
+| 5
+| 4
+| 1
+| 22
+| 9
+|-
+| {{flagicon|Germany}} [[2006 FIFA World Cup|2006]]
+| 10
+| 5
+| 2
+| 3
+| 26
+| 15
+|-
+| {{flagicon|South Africa}} [[2010 FIFA World Cup|2010]]
+| 13
+| 9
+| 1
+| 3
+| 22
+| 7
+|-
+| {{flagicon|Brazil}} [[2014 FIFA World Cup|2014]]
+| 8
+| 7
+| 0
+| 1
+| 19
+| 14
+|-
+| {{flagicon|Russia}} [[2018 FIFA World Cup|2018]]
+| Group stage
+| 31st
+| 3
+| 0
+| 0
+| 3
+| 2
+| 6
+| [[2018 FIFA World Cup squads#Egypt|Squad]]
+| 8
+| 5
+| 1
+| 2
+| 12
+| 5
+|-
+| {{flagicon|Qatar}} [[2022 FIFA World Cup|2022]]
+| colspan="9" | ''Did not qualify''
+| 8
+| 5
+| 2
+| 1
+| 11
+| 5
+|-
+| {{flagicon|Canada}} {{flagicon|Mexico}} {{flagicon|United States}} [[2026 FIFA World Cup|2026]]
+| Round of 16
+| 15th
+| 5
+| 1
+| 3
+| 1
+| 8
+| 7
+| [[2026 FIFA World Cup squads#Egypt|Squad]]
+| 10
+| 8
+| 2
+| 0
+| 20
+| 2
+|-
+| {{flagicon|Morocco}} {{flagicon|Portugal}} {{flagicon|Spain}} [[2030 FIFA World Cup|2030]]
+| rowspan="2" colspan="9" | ''To be determined''
+| rowspan="2" colspan="9" | ''To be determined''
+|-
+| {{flagicon|Saudi Arabia}} [[2034 FIFA World Cup|2034]]
+|-
+! style="background:#CE1126; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | Total:{{Tooltip|4/22|Number of tournaments qualified for}}
+! style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | {{Tooltip|Round of 16|Highest finish}}
+! style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | 13th
+! style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | 11
+! style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | 1
+! style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | 4
+! style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | 6
+! style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | 12
+! style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | 18
+! style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | —
+! style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | 111
+! style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | 65
+! style="background:#CE1126; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | 23
+! style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | 23
+! style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | 196
+! style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | 96
+|}
+
+=== Africa Cup of Nations ===
+{{Main|Egypt at the Africa Cup of Nations}}
+
+{| class="wikitable" style="font-size:90%; text-align:center; width:100%"
+! colspan="10" style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | [[Africa Cup of Nations|<span style="color:#FFFFFF">Africa Cup of Nations</span>]] record
+! rowspan="40" style="width:1%;background:white" |
+! colspan="6" style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | Africa Cup of Nations qualification record
+|-
+!width="15%" |Year
+!width="15%" |Round
+!width="5%" |Position
+!width="5%" |{{Tooltip|Pld|Matches played}}
+!width="5%" |{{Tooltip|W|Matches won}}
+!width="5%" |{{Tooltip|D|Matches drawn}}*
+!width="5%" |{{Tooltip|L|Matches lost}}
+!width="5%" |{{Tooltip|GF|Goals for}}
+!width="5%" |{{Tooltip|GA|Goals against}}
+!width="5%" |Squad
+!width="5%" |{{Tooltip|Pld|Matches played}}
+!width="5%" |{{Tooltip|W|Matches won}}
+!width="5%" |{{Tooltip|D|Matches drawn}}
+!width="5%" |{{Tooltip|L|Matches lost}}
+!width="5%" |{{Tooltip|GF|Goals for}}
+!width="5%" |{{Tooltip|GA|Goals against}}
+|- style="background:gold"
+| {{flagicon|SUD|1956}} [[1957 African Cup of Nations|1957]]
+| '''[[1957 African Cup of Nations final|Champions]]'''
+| 1st
+| 2
+| 2
+| 0
+| 0
+| 6
+| 1
+| [[1957 African Cup of Nations squads#Egypt|Squad]]
+| colspan="6" | ''No Qualification''
+|- style="background:gold"
+| style="background:gold" style="border:3px solid red" | {{flagicon|UAR}} [[1959 African Cup of Nations|1959]]
+| '''[[United Arab Republic v Sudan (1959 African Cup of Nations)|Champions]]'''
+| 1st
+| 2
+| 2
+| 0
+| 0
+| 6
+| 1
+| [[1959 African Cup of Nations squads#Egypt|Squad]]
+| colspan="6" | ''No Qualification''
+|- style="background:silver"
+| {{flagicon|ETH|1897}} [[1962 African Cup of Nations|1962]]
+| [[1962 Africa Cup of Nations#Final|Runners-up]]
+| 2nd
+| 2
+| 1
+| 0
+| 1
+| 4
+| 5
+| [[1962 African Cup of Nations squads#Egypt|Squad]]
+| colspan="6" | ''Qualified as defending champions''
+|- style="background:#CC9966"
+| {{flagicon|GHA}} [[1963 African Cup of Nations|1963]]
+| Third place
+| 3rd
+| 3
+| 2
+| 1
+| 0
+| 11
+| 5
+| [[1963 African Cup of Nations squads#Egypt|Squad]]
+| colspan="6" | ''Qualified by default''
+|-
+| {{flagicon|TUN|1959}} [[1965 African Cup of Nations|1965]]
+| colspan="9" | ''Withdrew''
+| colspan="6" | ''Withdrew''
+|-
+| {{flagicon|ETH|1897}} [[1968 African Cup of Nations|1968]]
+| colspan="9" | ''Withdrew during qualifications''
+| 3
+| 2
+| 1
+| 0
+| 6
+| 4
+|- style="background:#CC9966"
+| {{flagicon|SUD|1956}} [[1970 African Cup of Nations|1970]]
+| Third place
+| 3rd
+| 5
+| 3
+| 1
+| 1
+| 10
+| 5
+| [[1970 African Cup of Nations squads#Egypt|Squad]]
+| 2
+| 1
+| 1
+| 0
+| 2
+| 1
+|-
+| {{flagicon|CMR|1961}} [[1972 African Cup of Nations|1972]]
+| colspan="9" | ''Did not qualify''
+| 4
+| 3
+| 0
+| 1
+| 6
+| 6
+|- style="background:#CC9966"
+| style="border:3px solid red" | {{flagicon|EGY|1972}} [[1974 African Cup of Nations|1974]]
+| Third place
+| 3rd
+| 5
+| 4
+| 0
+| 1
+| 13
+| 5
+| [[1974 African Cup of Nations squads#Egypt|Squad]]
+| colspan="6" | ''Qualified as hosts''
+|- style="background:#9ACDFF"
+| {{flagicon|ETH|1975}} [[1976 African Cup of Nations|1976]]
+| Fourth place
+| 4th
+| 6
+| 1
+| 2
+| 3
+| 9
+| 12
+| [[1976 African Cup of Nations squads#Egypt|Squad]]
+| 4
+| 3
+| 1
+| 0
+| 11
+| 3
+|-
+| {{flagicon|GHA}} [[1978 African Cup of Nations|1978]]
+| colspan="9" | ''Did not qualify''
+| 2
+| 0
+| 1
+| 1
+| 4
+| 5
+|- style="background:#9ACDFF"
+| {{flagicon|NGA}} [[1980 African Cup of Nations|1980]]
+| Fourth place
+| 4th
+| 5
+| 2
+| 1
+| 2
+| 6
+| 7
+| [[1980 African Cup of Nations squads#Egypt|Squad]]
+| 2
+| 1
+| 0
+| 1
+| 4
+| 3
+|-
+| {{flagicon|LBY|1977}} [[1982 African Cup of Nations|1982]]
+| colspan="9" | ''Withdrew''
+| 2
+| 2
+| 0
+| 0
+| 7
+| 3
+|- style="background:#9ACDFF"
+| {{flagicon|CIV}} [[1984 African Cup of Nations|1984]]
+| Fourth place
+| 4th
+| 5
+| 2
+| 2
+| 1
+| 6
+| 6
+| [[1984 African Cup of Nations squads#.C2.A0Egypt|Squad]]
+| 4
+| 2
+| 1
+| 1
+| 3
+| 2
+|- style="background:gold"
+| style="border:3px solid red" | {{flagicon|EGY}} [[1986 African Cup of Nations|1986]]
+| '''[[1986 Africa Cup of Nations Final|Champions]]'''
+| 1st
+| 5
+| 3
+| 1
+| 1
+| 5
+| 1
+| [[1986 African Cup of Nations squads#.C2.A0Egypt|Squad]]
+| colspan="6" | ''Qualified as hosts''
+|-
+| {{flagicon|MAR}} [[1988 African Cup of Nations|1988]]
+| Group stage
+| 6th
+| 3
+| 1
+| 1
+| 1
+| 3
+| 1
+| [[1988 African Cup of Nations squads#Egypt|Squad]]
+| colspan="6" | ''Qualified as defending champions''
+|-
+| {{flagicon|ALG}} [[1990 African Cup of Nations|1990]]
+|Group stage
+| 8th
+| 3
+| 0
+| 0
+| 3
+| 1
+| 6
+| [[1990 African Cup of Nations squads#Egypt|Squad]]
+| 4
+| 2
+| 1
+| 1
+| 8
+| 2
+|-
+| {{flagicon|SEN}} [[1992 African Cup of Nations|1992]]
+|Group stage
+| 11th
+| 2
+| 0
+| 0
+| 2
+| 0
+| 2
+| [[1992 African Cup of Nations squads#Egypt|Squad]]
+| 6
+| 3
+| 3
+| 0
+| 13
+| 5
+|-
+| {{flagicon|TUN|1959}} [[1994 African Cup of Nations|1994]]
+| Quarter-finals
+| 5th
+| 3
+| 1
+| 1
+| 1
+| 4
+| 1
+| [[1994 African Cup of Nations squads#Egypt|Squad]]
+| 6
+| 2
+| 2
+| 2
+| 6
+| 5
+|-
+| {{flagicon|RSA}} [[1996 African Cup of Nations|1996]]
+|Quarter-finals
+| 7th
+| 4
+| 2
+| 0
+| 2
+| 5
+| 6
+| [[1996 African Cup of Nations squads#.C2.A0Egypt|Squad]]
+| 10
+| 6
+| 3
+| 1
+| 24
+| 5
+|- style="background:gold"
+| {{flagicon|BFA}} [[1998 African Cup of Nations|1998]]
+| '''[[1998 Africa Cup of Nations Final|Champions]]'''
+| 1st
+| 6
+| 4
+| 1
+| 1
+| 10
+| 1
+| [[1998 African Cup of Nations squads#Egypt|Squad]]
+| 6
+| 2
+| 3
+| 1
+| 12
+| 4
+|-
+| {{flagicon|GHA}} {{flagicon|NGA}} [[2000 African Cup of Nations|2000]]
+| Quarter-finals
+| 5th
+| 4
+| 3
+| 0
+| 1
+| 7
+| 3
+| [[2000 African Cup of Nations squads#.C2.A0Egypt|Squad]]
+| colspan="6" | ''Qualified as defending champions''
+|-
+| {{flagicon|MLI}} [[2002 African Cup of Nations|2002]]
+|Quarter-finals
+| 6th
+| 4
+| 2
+| 0
+| 2
+| 3
+| 3
+| [[2002 African Cup of Nations squads#Egypt|Squad]]
+| 6
+| 4
+| 1
+| 1
+| 11
+| 6
+|-
+| {{flagicon|TUN}} [[2004 African Cup of Nations|2004]]
+| Group stage
+| 9th
+| 3
+| 1
+| 1
+| 1
+| 3
+| 3
+| [[2004 African Cup of Nations squads#.C2.A0Egypt|Squad]]
+| 4
+| 3
+| 0
+| 1
+| 14
+| 1
+|- style="background:gold"
+| style="border:3px solid red" | {{flagicon|EGY}} [[2006 Africa Cup of Nations|2006]]
+| '''[[2006 Africa Cup of Nations final|Champions]]'''
+| 1st
+| 6
+| 4
+| 2
+| 0
+| 12
+| 3
+| [[2006 Africa Cup of Nations squads#.C2.A0Egypt|Squad]]
+| colspan="6" | ''Qualified as hosts''
+|- style="background:gold"
+| {{flagicon|GHA}} [[2008 Africa Cup of Nations|2008]]
+| '''[[2008 Africa Cup of Nations final|Champions]]'''
+| 1st
+| 6
+| 5
+| 1
+| 0
+| 15
+| 5
+| [[2008 Africa Cup of Nations squads#.C2.A0Egypt|Squad]]
+| 6
+| 3
+| 3
+| 0
+| 9
+| 2
+|- style="background:gold"
+| {{flagicon|ANG}} [[2010 Africa Cup of Nations|2010]]
+| '''[[2010 Africa Cup of Nations final|Champions]]'''
+| 1st
+| 6
+| 6
+| 0
+| 0
+| 15
+| 2
+| [[2010 Africa Cup of Nations squads#.C2.A0Egypt|Squad]]
+| 13
+| 9
+| 1
+| 3
+| 22
+| 7
+|-
+| {{flagicon|EQG}} {{flagicon|GAB}} [[2012 Africa Cup of Nations|2012]]
+| rowspan="3" colspan="9" | ''Did not qualify''
+| 6
+| 1
+| 2
+| 3
+| 5
+| 5
+|-
+| {{flagicon|RSA}} [[2013 Africa Cup of Nations|2013]]
+| 2
+| 0
+| 1
+| 1
+| 3
+| 4
+|-
+| {{flagicon|EQG}} [[2015 Africa Cup of Nations|2015]]
+| 6
+| 2
+| 0
+| 4
+| 5
+| 6
+|- style="background:silver"
+| {{flagicon|GAB}} [[2017 Africa Cup of Nations|2017]]
+| [[2017 Africa Cup of Nations final|Runners-up]]
+| 2nd
+| 6
+| 3
+| 2
+| 1
+| 5
+| 3
+| [[2017 Africa Cup of Nations squads#.C2.A0Egypt|Squad]]
+| 4
+| 3
+| 1
+| 0
+| 7
+| 1
+|-
+| style="border:3px solid red" | {{flagicon|EGY}} [[2019 Africa Cup of Nations|2019]]
+| Round of 16
+| 10th
+| 4
+| 3
+| 0
+| 1
+| 5
+| 1
+| [[2019 Africa Cup of Nations squads#Egypt|Squad]]
+| 6
+| 4
+| 1
+| 1
+| 16
+| 5
+|- style="background:silver"
+| {{flagicon|CMR}} [[2021 Africa Cup of Nations|2021]]
+| [[2021 Africa Cup of Nations final|Runners-up]]
+| 2nd
+| 7
+| 3
+| 3
+| 1
+| 4
+| 2
+| [[2021 Africa Cup of Nations squads#Egypt|Squad]]
+| 6
+| 3
+| 3
+| 0
+| 10
+| 3
+|-
+| {{flagicon|CIV}} [[2023 Africa Cup of Nations|2023]]
+| Round of 16
+| 12th
+| 4
+| 0
+| 4
+| 0
+| 7
+| 7
+| [[2023 Africa Cup of Nations squads#Egypt|Squad]]
+| 6
+| 5
+| 0
+| 1
+| 10
+| 3
+|-
+|- style="background:#9ACDFF"
+| {{flagicon|MAR}} [[2025 Africa Cup of Nations|2025]]||Fourth place
+|4th
+|7
+|4
+|2
+|1
+|9
+|5
+| [[2025 Africa Cup of Nations squads#Egypt|Squad]]
+| 6
+| 4
+| 2
+| 0
+| 12
+| 2
+|-
+| {{flagicon|KEN}} {{flagicon|TAN}} {{flagicon|UGA}} [[2027 Africa Cup of Nations|2027]]
+| colspan="9" rowspan="2" | ''To be determined''
+| colspan="6" rowspan="2" | ''To be determined''
+|-
+| {{flagicon|}} [[2028 Africa Cup of Nations|2028]]
+|-
+! style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | Total
+! style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | {{Tooltip|7 Titles|Highest finish}}
+! style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | {{Tooltip|27/35|Number of tournaments qualified for}}
+! style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | 118
+! style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | 64
+! style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | 26
+! style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | 28
+! style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | 184
+! style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | 102
+! style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | —
+! style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | 125
+! style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | 70
+! style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | 31
+! style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | 24
+! style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | 229
+! style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | 92
+|}
+
+=== Summer Olympics ===
+Egypt withdrew from the [[Association football at the 1956 Summer Olympics – Men's qualification|1956 Football tournament]] and boycotted the [[1980 Summer Olympics|1980 Olympics]], after qualifying for both.
+{| class="wikitable" style="font-size:90%; text-align:center;" width="60%"
+! colspan="10" style="text-align:center; background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | [[Football at the Summer Olympics|<span style="color:#FFFFFF">Summer Olympics</span>]] record
+|-
+!width="15%" |Year
+!width="15%" |Round
+!width="5%" |Position
+!width="5%" |{{Tooltip|Pld|Matches played}}
+!width="5%" |{{Tooltip|W|Matches won}}
+!width="5%" |{{Tooltip|D|Matches drawn}}*
+!width="5%" |{{Tooltip|L|Matches lost}}
+!width="5%" |{{Tooltip|GF|Goals for}}
+!width="5%" |{{Tooltip|GA|Goals against}}
+!width="5%" |Squad
+|-
+| {{flagicon|United Kingdom}} [[Football at the 1908 Summer Olympics|1908]]
+| rowspan="2" colspan="9" | ''Did not participate''
+|-
+| {{flagicon|Sweden}} [[Football at the 1912 Summer Olympics|1912]]
+|-
+| {{flagicon|Belgium}} [[Football at the 1920 Summer Olympics|1920]]
+| First round
+| 8th
+| 1
+| 0
+| 0
+| 1
+| 1
+| 2
+| [[Football at the 1920 Summer Olympics – Men's team squads#Egypt|Squad]]
+|-
+| {{flagicon|France}} [[Football at the 1924 Summer Olympics|1924]]
+| Quarter-final
+| 8th
+| 2
+| 1
+| 0
+| 1
+| 3
+| 5
+| [[Football at the 1924 Summer Olympics – Men's team squads#Egypt|Squad]]
+|- style="background:#9ACDFF"
+| {{flagicon|Netherlands}} [[Football at the 1928 Summer Olympics|1928]]
+| Fourth place
+| 4th
+| 4
+| 2
+| 0
+| 2
+| 12
+| 19
+| [[Football at the 1928 Summer Olympics – Men's team squads#Egypt|Squad]]
+|-
+| {{flagicon|Germany|Nazi}} [[Football at the 1936 Summer Olympics|1936]]
+| First round
+| 11th
+| 1
+| 0
+| 0
+| 1
+| 1
+| 3
+| [[Football at the 1936 Summer Olympics – Men's team squads#Egypt|Squad]]
+|-
+| {{flagicon|United Kingdom}} [[Football at the 1948 Summer Olympics|1948]]
+| First round
+| 13th
+| 1
+| 0
+| 0
+| 1
+| 1
+| 3
+| [[Football at the 1948 Summer Olympics – Men's team squads#Egypt|Squad]]
+|-
+| {{flagicon|Finland}} [[Football at the 1952 Summer Olympics|1952]]
+| First round
+| 12th
+| 2
+| 1
+| 0
+| 1
+| 6
+| 7
+| [[Football at the 1952 Summer Olympics – Men's team squads#Egypt|Squad]]
+|-
+| {{flagicon|Australia}} [[Association football at the 1956 Summer Olympics|1956]]
+| rowspan="1" colspan="9" | ''Withdrew from Finals''
+|-
+| {{flagicon|Italy}} [[Football at the 1960 Summer Olympics|1960]]
+| First round
+| 12th
+| 3
+| 0
+| 1
+| 2
+| 4
+| 11
+| [[Football at the 1960 Summer Olympics – Men's team squads#United Arab Republic|Squad]]
+|- style="background:#9ACDFF"
+| {{flagicon|Japan}} [[Football at the 1964 Summer Olympics|1964]]
+| Fourth place
+| 4th
+| 6
+| 2
+| 1
+| 3
+| 18
+| 16
+| [[Football at the 1964 Summer Olympics – Men's team squads#United Arab Republic|Squad]]
+|-
+| {{flagicon|Mexico}} [[Football at the 1968 Summer Olympics|1968]]
+| colspan="9" | ''Withdrew from qualifiers''
+|-
+| {{flagicon|Germany}} [[Football at the 1972 Summer Olympics|1972]]
+| rowspan="2" colspan="9" | ''Did not qualify''
+|-
+| {{flagicon|Canada}} [[Football at the 1976 Summer Olympics|1976]]
+|-
+| {{flagicon|Soviet Union}} [[Football at the 1980 Summer Olympics|1980]]
+| rowspan="1" colspan="9" | ''Withdrew from finals''
+|-
+| {{flagicon|United States}} [[Football at the 1984 Summer Olympics|1984]]
+| Quarter-final
+| 8th
+| 4
+| 1
+| 1
+| 2
+| 5
+| 5
+| [[Football at the 1984 Summer Olympics – Men's team squads#Egypt|Squad]]
+|-
+| {{flagicon|South Korea}} [[Football at the 1988 Summer Olympics|1988]]
+| rowspan="1" colspan="9" | ''Did not qualify''
+|-
+| [[Football at the 1992 Summer Olympics|1992]] to present
+| colspan="9" | ''See [[Egypt national under-23 football team]]''
+|-
+! style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | Total
+! style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | {{Tooltip|Fourth place|Highest finish}}
+! style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | {{Tooltip|9/17|Number of tournaments qualified for}}
+! style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | 24
+! style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | 7
+! style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | 3
+! style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | 14
+! style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | 51
+! style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | 71
+! style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | —
+|}
+
+=== African Games ===
+{| class="wikitable" style="font-size:90%; text-align:center;" width="60%"
+! colspan="10" style="text-align:center; background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | [[Football at the All-Africa Games|<span style="color:#FFFFFF">African Games</span>]] record
+|-
+!width="15%" |Year
+!width="15%" |Round
+!width="5%" |Position
+!width="5%" |{{Tooltip|Pld|Matches played}}
+!width="5%" |{{Tooltip|W|Matches won}}
+!width="5%" |{{Tooltip|D|Matches drawn}}*
+!width="5%" |{{Tooltip|L|Matches lost}}
+!width="5%" |{{Tooltip|GF|Goals for}}
+!width="5%" |{{Tooltip|GA|Goals against}}
+|-
+| {{flagicon|Republic of the Congo}} [[Football at the 1965 All-Africa Games|1965]]
+| colspan="9" | ''Did not qualify''
+|- style="background:#CC9966"
+| {{flagicon|Nigeria}} [[Football at the 1973 All-Africa Games|1973]]
+| Bronze medal
+| 3rd
+| 5
+| 3
+| 0
+| 2
+| 12
+| 12
+|-
+| {{flagicon|Algeria}} [[Football at the 1978 All-Africa Games|1978]]
+| ''Withdrew''{{efn|In the Egypt-Libya match, the match was abandoned due to a mass brawl between the two teams, their referees, and their fans. Libya was expelled from the tournament, while Egypt withdrew after several of its players were injured, in protest against Algerian police brutality and stadium security.}}
+| 7th
+| 3
+| 2
+| 1
+| 0 
+| 6
+| 2
+|- style="background:gold"
+| {{flagicon|Kenya}} [[Football at the 1987 All-Africa Games|1987]]
+| '''Gold medal'''
+| 1st
+| 5
+| 3
+| 1
+| 1
+| 7
+| 5
+|-
+| [[Football at the 1991 All-Africa Games|1991]] to [[Football at the 2015 African Games – Men's tournament|2015]]
+| colspan="9" | ''See [[Egypt national under-23 football team]]''
+|-
+| [[Football at the 2019 African Games – Men's tournament|2019]] to present
+| colspan="9" | ''See [[Egypt national under-20 football team]]''
+|-
+! style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | Total
+! style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | {{Tooltip|1 Title|Highest finish}}
+! style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | {{Tooltip|3/4|Number of tournaments qualified for}}
+! style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | 13
+! style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | 8
+! style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | 2
+! style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | 3
+! style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | 19
+! style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | 19
+|}
+
+=== Arab Games ===
+{| class="wikitable" style="font-size:90%; text-align:center;" width="60%"
+! colspan="9" style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | [[Football at the Arab Games|<span style="color:#FFFFFF">Arab Games</span>]] record
+|-
+!width="15%" |Year
+!width="15%" |Round
+!width="5%" |Position
+!width="5%" |{{Tooltip|Pld|Matches played}}
+!width="5%" |{{Tooltip|W|Matches won}}
+!width="5%" |{{Tooltip|D|Matches drawn}}*
+!width="5%" |{{Tooltip|L|Matches lost}}
+!width="5%" |{{Tooltip|GF|Goals for}}
+!width="5%" |{{Tooltip|GA|Goals against}}
+|- style="background:gold"
+| style="border:3px solid red" | {{flagicon|Egypt|1922}} [[Football at the 1953 Arab Games|1953]]
+| '''Gold medal'''
+| 1st
+| 3
+| 3
+| 0
+| 0
+| 22
+| 3
+|-
+| {{flagicon|Lebanon}} [[Football at the 1957 Arab Games|1957]]
+| rowspan="2" colspan="8" | ''Did not enter''
+|-
+| {{flagicon|Morocco}} [[Football at the 1961 Arab Games|1961]]
+|- style="background:gold"
+| style="border:3px solid red" | {{flagicon|UAR}} [[Football at the 1965 Arab Games|1965]]
+| '''Gold medal'''
+| 1st
+| 6
+| 6
+| 0
+| 0
+| 30
+| 2
+|-
+| {{flagicon|Syria|1972}} [[Football at the 1976 Arab Games|1976]]
+| rowspan="4" colspan="8" | ''Did not enter''
+|-
+| {{flagicon|Morocco}} [[Football at the 1985 Arab Games|1985]]
+|-
+| {{flagicon|Lebanon}} [[Football at the 1997 Arab Games|1997]]
+|-
+| {{flagicon|Jordan}} [[Football at the 1999 Arab Games|1999]]
+|- style="background:gold"
+| style="border:3px solid red" | {{flagicon|Egypt}} [[Football at the 2007 Arab Games|2007]]
+| '''Gold medal'''
+| 1st
+| 4
+| 3
+| 1
+| 0
+| 10
+| 1
+|-
+| {{flagicon|Qatar}} [[Football at the 2011 Arab Games|2011]]
+| rowspan="1" colspan="8" | ''Did not enter''
+|-
+| [[Football at the 2023 Arab Games|2023]] to present
+| colspan="8" | ''See [[Egypt national under-23 football team]]''
+|-
+! style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | Total
+! style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | {{Tooltip|3 Titles|Highest finish}}
+! style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | {{Tooltip|3/10|Number of tournaments qualified for}}
+! style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | 13
+! style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | 12
+! style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | 1
+! style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | 0
+! style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | 62
+! style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | 6
+|}
+
+=== FIFA Confederations Cup ===
+{| class="wikitable" style="font-size:90%; text-align:center;" width="60%"
+! colspan="10" style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | [[FIFA Confederations Cup|<span style="color:#FFFFFF">FIFA Confederations Cup</span>]] record
+|-
+!width="15%" |Year
+!width="15%" |Round
+!width="5%" |Position
+!width="5%" |{{Tooltip|Pld|Matches played}}
+!width="5%" |{{Tooltip|W|Matches won}}
+!width="5%" |{{Tooltip|D|Matches drawn}}*
+!width="5%" |{{Tooltip|L|Matches lost}}
+!width="5%" |{{Tooltip|GF|Goals for}}
+!width="5%" |{{Tooltip|GA|Goals against}}
+!width="5%" |Squad
+|-
+| {{flagicon|Saudi Arabia}} [[1992 King Fahd Cup|1992]]
+| rowspan=3 colspan=9 | ''Did not qualify''
+|-
+| {{flagicon|Saudi Arabia}} [[1995 King Fahd Cup|1995]]
+|-
+| {{flagicon|Saudi Arabia}} [[1997 FIFA Confederations Cup|1997]]
+|-
+| {{flagicon|Mexico}} [[1999 FIFA Confederations Cup|1999]]
+| Group stage
+| 7th
+| 3
+| 0
+| 2
+| 1
+| 5
+| 9
+| [[1999 FIFA Confederations Cup squads#.C2.A0Egypt|Squad]]
+|-
+| {{flagicon|South Korea|1997}} {{flagicon|Japan}} [[2001 FIFA Confederations Cup|2001]]
+| rowspan="3" colspan="9" | ''Did not qualify''
+|-
+| {{flagicon|France|1974}} [[2003 FIFA Confederations Cup|2003]]
+|-
+| {{flagicon|Germany}} [[2005 FIFA Confederations Cup|2005]]
+|-
+| {{flagicon|South Africa}} [[2009 FIFA Confederations Cup|2009]]
+| Group stage
+| 6th
+| 3
+| 1
+| 0
+| 2
+| 4
+| 7
+| [[2009 FIFA Confederations Cup squads#.C2.A0Egypt|Squad]]
+|-
+| {{flagicon|Brazil}} [[2013 FIFA Confederations Cup|2013]]
+| rowspan="2" colspan="9" | ''Did not qualify''
+|-
+| {{flagicon|Russia}} [[2017 FIFA Confederations Cup|2017]]
+|-
+! style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | Total
+! style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | {{Tooltip|Group stage|Highest finish}}
+! style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | {{Tooltip|2/10|Number of tournaments qualified for}}
+! style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | 6
+! style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | 1
+! style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | 2
+! style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | 3
+! style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | 9
+! style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | 16
+! style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | —
+|}
+
+=== FIFA Arab Cup ===
+{| class="wikitable" style="font-size:90%; text-align:center;" width="60%"
+! colspan="10" style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | [[FIFA Arab Cup|<span style="color:#FFFFFF">FIFA Arab Cup</span>]] record
+|-
+!width="15%" |Year
+!width="15%" |Round
+!width="5%" |Position
+!width="5%" |{{Tooltip|Pld|Matches played}}
+!width="5%" |{{Tooltip|W|Matches won}}
+!width="5%" |{{Tooltip|D|Matches drawn}}*
+!width="5%" |{{Tooltip|L|Matches lost}}
+!width="5%" |{{Tooltip|GF|Goals for}}
+!width="5%" |{{Tooltip|GA|Goals against}}
+!width="5%" |Squad
+|-
+| {{flagicon|Lebanon}} [[1963 Arab Cup|1963]]
+| rowspan=4 colspan="9" | ''Did not enter''
+|-
+| {{flagicon|Kuwait}} [[1964 Arab Cup|1964]]
+|-
+| {{flagicon|Iraq|1963}} [[1966 Arab Cup|1966]]
+|-
+| {{flagicon|Saudi Arabia}} [[1985 Arab Cup|1985]]
+|- style="background:#CC9966"
+| {{flagicon|Jordan}} [[1988 Arab Cup|1988]]
+| Third place
+| 3rd
+| 6
+| 3
+| 2
+| 1
+| 6
+| 0
+| [[1988 Arab Cup squads#.C2.A0Egypt|Squad]]
+|- style="background:gold"
+| {{flagicon|Syria|1980}} [[1992 Arab Cup|1992]]
+| '''[[1992 Arab Cup#Final|Champions]]'''
+| 1st
+| 4
+| 3
+| 1
+| 0
+| 5
+| 3
+| [[1992 Arab Cup squads#.C2.A0Egypt|Squad]]
+|-
+| {{flagicon|Qatar}} [[1998 Arab Cup|1998]]
+| Group stage
+| 10th
+| 2
+| 1
+| 0
+| 1
+| 3
+| 5
+| [[1998 Arab Cup squads#.C2.A0Egypt|Squad]]
+|-
+| {{flagicon|Kuwait}} [[2002 Arab Cup|2002]]
+| colspan="9" | ''Did not enter''
+|-
+| {{flagicon|Saudi Arabia}} [[2012 Arab Cup|2012]]
+| Group stage
+| 7th
+| 3
+| 0
+| 2
+| 1
+| 3
+| 4
+| [[2012 Arab Cup squads#Egypt|Squad]]
+|-
+|- style="background:#9ACDFF"
+| {{flagicon|Qatar}} [[2021 FIFA Arab Cup|2021]]
+| Fourth place
+| 4th
+| 6
+| 3
+| 2
+| 1
+| 10
+| 2
+| [[2021 FIFA Arab Cup squads#Egypt|Squad]]
+|-
+| {{flagicon|Qatar}} [[2025 FIFA Arab Cup|2025]]
+| Group stage
+| 12th
+| 3
+| 0
+| 2
+| 1
+| 2
+| 5
+| [[2025 FIFA Arab Cup squads#Egypt|Squad]]
+|-
+! style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | Total
+! style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | {{Tooltip|1 Title|Highest finish}}
+! style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | {{Tooltip|5/10|Number of tournaments qualified for}}
+! style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | 24
+! style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | 10
+! style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | 9
+! style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | 9
+! style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | 29
+! style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | 19
+! style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | —
+|}
+
+== Head-to-head record ==
+{{Main|Egypt national football team all-time record}}
+
+The following table shows Egypt's all-time international record, correct as of 7 July 2026.<ref>{{cite web |url=https://www.worldfootball.net/teams/te71/egypt/ |website=worldfootball.net |title=Egypt national team: Historical results|access-date=19 November 2024}}</ref>
+
+{| class="wikitable sortable mw-collapsible mw-collapsed" style="text-align:center; width:80%"
+! colspan=11 style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | Egypt national football team head-to-head record
+|-
+! style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | Against
+! style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | Pld
+! style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | Won
+! style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | Drawn
+! style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | Lost
+! style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | GF
+! style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | GA
+! style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | GD
+! style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | Last Played
+! style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | Best Result
+! style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | Notes
+|- bgcolor="#ffbbbb"
+| {{fb|Algeria}}
+| 29
+| 7
+| 12
+| 10
+| 34
+| 34
+| 0
+| 16 October 2023
+| {{fb|Egypt}} 4 – 0 {{fb-rt|Algeria}}<br />([[2010 Africa Cup of Nations|Angola]]; 28 January 2010)
+| 1 [[Penalty shootout (association football)|PSO]] win for Algeria
+|-
+|- bgcolor="#bbf3bb"
+| {{fb|Angola}}
+| 8
+| 4
+| 4
+| 0
+| 11
+| 7
+| +4
+| 29 December 2025
+| {{fb|Egypt}} 2 – 1 {{fb-rt|Angola}}<br />([[2008 Africa Cup of Nations|Ghana]]; 4 February 2008)<br />([[1996 Africa Cup of Nations|South Africa]]; 15 January 1996)
+|
+|-
+|- bgcolor="#ffbbbb"
+| {{fb|Argentina}}
+| 3
+| 0
+| 0
+| 3
+| 2
+| 11
+| −9
+| 7 July 2026
+| {{fb|Egypt}} 0 – 2 {{fb-rt|Argentina}}<br />([[Egypt]]; 26 March 2008)
+|
+|-
+|- bgcolor="#bbf3bb"
+| {{fb|Australia}}
+| 3
+| 1
+| 2
+| 0
+| 4
+| 1
+| +3
+| 3 July 2026
+| {{fb|Egypt}} 3 – 0 {{fb-rt|Australia}}<br />([[Egypt]]; 18 November 2010)
+| 1 [[Penalty shootout (association football)|PSO]] win for Australia
+|-
+|- bgcolor="#ffffbb"
+| {{fb|Austria}}
+| 3
+| 1
+| 1
+| 1
+| 2
+| 3
+| -1
+| 28 February 1990
+| {{flagicon|Egypt|1958}} '''UAR''' 1 – 0 {{fb-rt|Austria}}<br />([[Egypt]]; 5 January 1962)
+|
+|-
+|- bgcolor="#bbf3bb"
+| {{fb|Bahrain}}
+| 1
+| 1
+| 0
+| 0
+| 1
+| 0
+| +1
+| 15 December 2003
+| {{fb|Bahrain}} 0 – 1 {{fb-rt|Egypt}}<br />([[Bahrain]]; 15 December 2003)
+|
+|-
+|- bgcolor="#bbf3bb"
+| {{fb|Belarus}}
+| 1
+| 1
+| 0
+| 0
+| 2
+| 0
+| +2
+| 5 January 1997
+| {{fb|Egypt}} 2 – 0 {{fb-rt|Belarus|1995}}<br />([[Egypt]]; 5 January 1997)
+|
+|-
+|- bgcolor="#bbf3bb"
+| {{fb|Belgium}}
+| 5
+| 3
+| 1
+| 1
+| 8
+| 5
+| +3
+| 15 June 2026
+| {{fb|Egypt}} 4 – 0 {{fb-rt|Belgium}}<br />([[Egypt]]; 9 February 2005)
+|
+|-
+|- bgcolor="#bbf3bb"
+| {{fb|Benin}}
+| 5
+| 4
+| 1
+| 0
+| 17
+| 6
+| +11
+| 5 January 2026
+| {{fb|Egypt}} 5 – 1 {{fb-rt|Benin}}<br />([[Egypt]]; 19 November 2008)
+|
+|-
+|- bgcolor="#bbf3bb"
+| {{fb|Bolivia}}
+| 1
+| 0
+| 1
+| 0
+| 2
+| 2
+| 0
+| 25 July 1999
+| {{fb|Bolivia}} 2 – 2 {{fb-rt|Egypt}}<br />([[1999 FIFA Confederations Cup|Mexico]]; 25 July 1999)
+|
+|-
+|- bgcolor="#bbf3bb"
+| {{fb|Bosnia and Herzegovina}}
+| 1
+| 1
+| 0
+| 0
+| 2
+| 0
+| +2
+| 5 March 2014
+| {{fb|Egypt}} 2 – 0 {{fb-rt|Bosnia and Herzegovina}}<br />([[Austria]]; 5 March 2014)
+|
+|-
+|- bgcolor="#bbf3bb"
+| {{fb|Botswana}}
+| 7
+| 5
+| 2
+| 0
+| 11
+| 1
+| +10
+| 19 November 2024
+| {{fb|Botswana}} 0 – 4 {{fb|Egypt}}<br />([[Botswana]]; 10 September 2024)
+|
+|-
+|- bgcolor="#ffbbbb"
+| {{fb|Brazil}}
+| 7
+| 0
+| 0
+| 7
+| 6
+| 20
+| −15
+| 6 June 2026
+| {{fb|Brazil}} 4 – 3 {{fb-rt|Egypt}}<br />([[2009 FIFA Confederations Cup|South Africa]]; 15 June 2009)
+|
+|-
+|- bgcolor="#bbf3bb"
+| {{fb|Bulgaria}}
+| 10
+| 5
+| 2
+| 3
+| 9
+| 6
+| +3
+| 29 November 2004
+| {{fb|Egypt}} 3 – 1 {{fb-rt|Bulgaria}}<br />([[Hong Kong]]; 16 February 1999)
+|
+|-
+|- bgcolor="#bbf3bb"
+| {{fb|Burkina Faso}}
+| 9
+| 6
+| 3
+| 0
+| 22
+| 18
+| +4
+| 9 September 2025
+| {{fb|Egypt}} 4 – 2 {{fb-rt|Burkina Faso}}<br />([[2000 Africa Cup of Nations|Nigeria]]; 1 February 2000)<br />([[Nigeria]]; 12 January 1973)
+| 1 [[Penalty shoot-out (association football)|PSO]] win for Egypt
+|-
+|- bgcolor="#bbf3bb"
+| {{fb|Burundi}}
+| 6
+| 4
+| 2
+| 0
+| 12
+| 1
+| +11
+| 11 January 2001
+| {{fb|Egypt}} 4 – 1 {{fb-rt|Burundi}}<br />([[Egypt]]; 2 September 2006)
+{{fb|Egypt}} 3 – 0 {{fb-rt|Burundi}}<br />([[Egypt]]; 11 January 2011)<br />([[Burundi]]; 14 September 1976)
+|
+|-
+| {{fb|Cameroon}}
+| 28
+| 14
+| 8
+| 6
+| 34
+| 22
+| +12
+| 3 February 2022
+| {{fb|Egypt|1972}} 4 – 0 {{fb-rt|Cameroon}}<br />([[Egypt]]; 29 May 1983)
+| 3 [[Penalty shootout (association football)|PSO]] wins for Egypt
+|-
+| {{fb|Canada}}
+| 2
+| 2
+| 0
+| 0
+| 4
+| 0
+| +4
+| 24 April 2001
+| {{fb|Egypt}} 3 – 0 {{fb-rt|Canada}}<br />([[Egypt]]; 24 April 2001)
+|
+|-
+| {{fb|Cape Verde}}
+| 4
+| 1
+| 3
+| 0
+| 7
+| 4
+| +3
+| 17 November 2025
+| {{fb|Egypt}} 3 – 0 {{fb-rt|Cape Verde}}<br />([[Egypt]]; 6 September 2024)
+|
+|-
+| {{fb|Central African Republic}}
+| 2
+| 0
+| 1
+| 1
+| 3
+| 4
+| -1
+| 30 June 2012
+| {{fb|Central African Republic}} 1 – 1 {{fb-rt|Egypt}}<br />([[Central African Republic]]; 30 June 2012)
+|
+|-
+| {{fb|Chad}}
+| 6
+| 4
+| 1
+| 1
+| 18
+| 3
+| +15
+| 17 November 2015
+|{{fb|Egypt}} 5 – 1 {{fb-rt|Chad}}<br />([[Egypt]]; 12 July 1991)
+{{fb|Egypt}} 4 – 0 {{fb-rt|Chad}}<br />([[Egypt]]; 31 March 2012)
+{{fb|Egypt}} 4 – 0 {{fb-rt|Chad}}<br />([[Egypt]]; 17 November 2015)
+|
+|-
+| {{fb|Chile}}
+| 3
+| 1
+| 0
+| 2
+| 5
+| 5
+| 0
+| 30 May 2014
+| {{fb|Egypt}} 2 – 0 {{fb-rt|Chile}}<br />([[Egypt]]; 3 June 1989)
+|
+|-
+| {{fb|CHN}}
+| 2
+| 1
+| 1
+| 0
+| 2
+| 0
+| +2
+| 17 January 2001
+| {{flagicon|Egypt|1958}} '''UAR''' 2 – 0 {{fb-rt|CHN}}<br />([[Indonesia]]; 30 April 1963)
+| 1 [[Penalty shootout (association football)|PSO]] win for Egypt
+|-
+| {{fb|Colombia}}
+| 2
+| 0
+| 2
+| 0
+| 1
+| 1
+| 0
+| 26 May 1990
+| {{fb|Egypt}} 1 – 1 {{fb-rt|Colombia}}<br />([[Egypt]]; 30 May 1990)
+|
+|-
+| {{fb|Comoros}}
+| 2
+| 1
+| 1
+| 0
+| 4
+| 0
+| +4
+| 29 March 2021
+| {{fb|Egypt}} 4 – 0 {{fb-rt|Comoros}}<br />([[Egypt]]; 29 March 2021)
+|
+|-
+| {{fb|Republic of the Congo}}
+| 8
+| 7
+| 0
+| 1
+| 17
+| 5
+| +12
+| 8 October 2017
+| {{fb|Egypt|1972}} 4 – 0 {{fb-rt|Republic of the Congo|1970}}<br />([[Egypt]]; 11 March 1974)
+|
+|-
+| {{fb|Croatia}}
+| 3
+| 0
+| 1
+| 2
+| 6
+| 10
+| –4
+| 26 March 2024
+| {{fb|Croatia}} 2 – 2 {{fb-rt|Egypt}}<br />([[South Korea]]; 13 June 1999)
+|
+|-
+| {{fb|Czech Republic}}
+| 3
+| 2
+| 0
+| 1
+| 4
+| 2
+| +2
+| 4 January 1992
+| {{fb|Egypt}} 2 – 0 {{fb-rt|Czech Republic}}<br />([[Egypt]]; 4 January 1992)
+|
+|-
+| {{fb|Denmark}}
+| 3
+| 0
+| 1
+| 2
+| 2
+| 7
+| −5
+| 12 February 2003
+| {{fb|Egypt}} 0 – 0 {{fb-rt|Denmark}}<br />([[Egypt]]; 14 February 1990)
+|
+|-
+| {{fb|Djibouti}}
+| 4
+| 4
+| 0
+| 0
+| 17
+| 0
+| +17
+| 8 October 2025
+| {{fb|Egypt}} 6 – 0 {{fb-rt|Djibouti}}<br />([[Egypt]]; 16 November 2023)
+|
+|-
+| {{fb|Congo DR}}
+| 11
+| 6
+| 4
+| 1
+| 22
+| 11
+| +11
+| 28 January 2024
+| {{fb|Egypt}} 6 – 3 {{fb-rt|Congo DR}}<br />([[Egypt]]; August 2010)
+{{fb|Egypt}} 4 – 1 {{fb-rt|Congo DR|2003}}<br />([[2006 Africa Cup of Nations|Egypt]]; 4 February 2006)
+| 1 [[Penalty shootout (association football)|PSO]] win for DR Congo
+|-
+| {{fb|England}}
+| 3
+| 0
+| 0
+| 3
+| 1
+| 8
+| −7
+| 3 March 2010
+| {{fb|England}} 1 – 0 {{fb-rt|Egypt}}<br />([[Italy]]; 21 June 1990)
+|
+|-
+| {{fb|Estonia}}
+| 2
+| 0
+| 2
+| 0
+| 5
+| 5
+| 0
+| 19 March 2001
+| {{fb|Egypt}} 3 – 3 {{fb-rt|Estonia}}<br />([[Egypt]]; 19 March 2001)
+|
+|-
+| {{fb|Ethiopia}}
+| 19
+| 14
+| 2
+| 3
+| 52
+| 13
+| +39
+| 5 September 2025
+| {{fb|Egypt}} 8 – 1 {{fb-rt|Ethiopia|1996}}<br />([[Egypt]]; 7 July 1997)
+|
+|-
+| {{fb|Finland}}
+| 2
+| 2
+| 0
+| 0
+| 4
+| 2
+| +2
+| 13 January 1989
+| {{fb|Egypt}} 2 – 1 {{fb-rt|Finland}}<br />([[Egypt]]; 13 January 1989)<br />([[Egypt]]; 11 January 1989)
+|
+|-
+| {{fb|France}}
+| 1
+| 0
+| 0
+| 1
+| 0
+| 5
+| −5
+| 30 April 2003
+| {{fb|France|1974}} 5 – 0 {{fb-rt|Egypt}}<br />([[France]]; 30 April 2003)
+| 
+|-
+| {{fb|MKD}}
+| 1
+| 0
+| 1
+| 0
+| 2
+| 2
+| 0
+| 29 September 1998
+| {{fb|Macedonia|name=Macedonia}} 2 – 2 {{fb-rt|Egypt}}<br />([[Republic of Macedonia|Macedonia]]; 29 September 1998)
+|
+|-
+| {{fb|Gabon}}
+| 5
+| 4
+| 1
+| 0
+| 13
+| 2
+| +11
+| 16 November 2021
+| {{fb|Egypt}} 4 – 0 {{fb-rt|Gabon}}<br />([[Egypt]]; 5 January 2000)<br />([[Tunisia]]; 28 March 1994)
+|
+|-
+| {{fb|Georgia}}
+| 1
+| 0
+| 1
+| 0
+| 0
+| 0
+| 0
+| 14 November 2012
+| {{fb|Georgia}} 0 – 0 {{fb-rt|Egypt}}<br />([[Georgia (country)|Georgia]]; 14 November 2012)
+|
+|-
+| {{fb|Germany}}
+| 1
+| 1
+| 0
+| 0
+| 2
+| 1
+| +1
+| 28 December 1958
+| {{fb|Egypt|1958}} 2 – 1 {{fb-rt|Germany}}<br />([[Egypt]]; 28 December 1958)
+|
+|-
+| {{fb|Ghana}}
+| 21
+| 10
+| 6
+| 5
+| 29
+| 20
+| +9
+| 18 January 2024
+| {{fb|Egypt}} 2 – 0 {{fb-rt|Ghana}}<br />([[Egypt]]; 4 January 2002)<br />([[Egypt]]; 17 June 2000)<br />([[South Korea]]; 16 June 1997)<br />([[Egypt]]; 23 August 1994)<br />([[Egypt]]; 13 November 2016)
+|
+|-
+| {{fb|Greece}}
+| 9
+| 3
+| 1
+| 5
+| 12
+| 18
+| −6
+| 27 March 2018
+| {{flagicon|Egypt|1922}} Egypt 3 – 1 {{fb-rt|Greece|old}}<br />([[Egypt]]; 19 June 1936)
+{{flagicon|Egypt|1922}} Egypt 2 – 0 {{fb-rt|Greece|old}}<br />([[Egypt]]; 17 February 1950)
+|
+|-
+|-
+| {{fb|Guinea}}
+| 11
+| 6
+| 3
+| 2
+| 24
+| 19
+| +5
+| 14 June 2023
+| {{flagicon|Egypt|1958}} '''UAR''' 4 – 1 {{fb-rt|Guinea}}<br/>([[Sudan]]; 7 February 1970)
+|
+|-
+| {{fb|Guinea-Bissau}}
+| 3
+| 2
+| 1
+| 0
+| 3
+| 1
+| +2
+| 12 October 2025
+| {{fb|Guinea-Bissau}} 0 – 1 {{fb-rt|Egypt}}<br />([[2021 Africa Cup of Nations|Cameroon]]; 15 January 2022)
+|
+|-
+| {{fb|Hungary}}
+| 5
+| 1
+| 1
+| 3
+| 2
+| 9
+| −7
+| 17 February 1961
+| {{flagicon|Egypt|1922}} Egypt 3 – 0 {{fb-rt|Hungary|1920}} <br />([[Paris]]; 29 May 1924)
+|
+|-
+| {{fb|Indonesia}}
+| 3
+| 2
+| 1
+| 0
+| 11
+| 3
+| +8
+| 11 June 1991
+| {{fb|Indonesia}} 0 – 6 {{fb-rt|Egypt}}<br />([[South Korea]]; 11 June 1991)
+|
+|-
+| {{fb|Iran}}
+| 2
+| 0
+| 2
+| 0
+| 2
+| 2
+| 0
+| 26 June 2026
+| {{fb|Iran}} 1–1 (8–9 PSO) {{fb-rt|Egypt}}<br />([[Iran]]; 7 June 2000)
+| 1 [[Penalty shootout (association football)|PSO]] win for Egypt
+|-
+| {{fb|Iraq}}
+| 7
+| 4
+| 3
+| 0
+| 7
+| 1
+| +6
+| 17 April 2012
+| {{fb|Iraq|1963}} 1 – 3 {{fb-rt|Egypt|1972}}<br />([[Iraq]]; 14 January 1972)
+|
+|-
+| {{fb|Italy}}
+| 3
+| 1
+| 0
+| 2
+| 3
+| 7
+| −4
+| 18 June 2009
+| {{fb|Egypt}} 1 – 0 {{fb-rt|Italy}}<br />([[2009 FIFA Confederations Cup|South Africa]]; 18 June 2009)
+|
+|-
+| {{fb|Ivory Coast}}
+| 23
+| 11
+| 6
+| 6
+| 31
+| 25
+| +6
+| 10 January 2026
+| {{fb|Ivory Coast}} 1 – 4 {{fb-rt|Egypt}}<br />([[2008 Africa Cup of Nations|Ghana]]; 7 February 2008)
+|
+|-
+| {{fb|Jamaica}}
+| 1
+| 0
+| 1
+| 0
+| 2
+| 2
+| 0
+| 4 June 2014
+| {{fb|Egypt}} 2 – 2 {{fb-rt|Jamaica}}<br />([[England]]; 4 June 2014)
+|
+|-
+| {{fb|Japan}}
+| 2
+| 0
+| 0
+| 2
+| 1
+| 5
+| −4
+| 17 October 2007
+| {{fb|Japan|1947}} 1 – 0 {{fb-rt|Egypt}}<br />([[Japan]]; 28 October 1998)
+|
+|-
+| {{fb|Jordan}}
+| 5
+| 3
+| 0
+| 2
+| 10
+| 5
+| +8
+| 9 December 2025
+| {{fb|Egypt|1972}} 5 – 0 {{fb-rt|Jordan}}<br />([[Syria]]; 2 October 1974)
+|
+|-
+| {{fb|Kenya}}
+| 19
+| 13
+| 5
+| 1
+| 36
+| 11
+| +25
+| 25 March 2021
+| {{fb|Egypt}} 5 – 0 {{fb-rt|Kenya}}<br />([[Qatar]]; 27 February 2012)
+|
+|-
+| {{fb|PRK}}
+| 1
+| 1
+| 0
+| 0
+| 1
+| 0
+| +1
+| 23 January 2001
+| {{fb|Egypt}} 1 – 0 {{fb-rt|PRK}}<br />([[Egypt]]; 23 January 2001)
+|
+|-
+| {{fb|Korea Republic}}
+| 17
+| 5
+| 6
+| 6
+| 21
+| 19
+| +2
+| 14 June 2022
+| {{flagicon|Egypt|1958}} '''UAR''' 10 – 0 {{fb-rt|South Korea|1949}}<br />([[Japan]]; 16 October 1964)
+| 2 PSO wins for Korea Republic
+|-
+| {{fb|Kuwait}}
+| 12
+| 4
+| 7
+| 1
+| 15
+| 11
+| +4
+| 2 December 2025
+| {{flagicon|Egypt|1958}} '''UAR''' 8 – 0 {{fb|Kuwait|1940}}<br />([[Morocco]]; 4 September 1961)
+|
+|-
+| {{fb|Laos}}
+| 1
+| 1
+| 0
+| 0
+| 15
+| 0
+| +15
+| 16 November 2018
+| {{fb|Laos}} 0 - 15 {{fb-rt|Egypt}}<br />(Indonesia; 15 November 1963)<br />
+|
+|-
+| {{fb|Lebanon}}
+| 7
+| 6
+| 1
+| 0
+| 16
+| 2
+| +14
+| 1 December 2021
+| {{fb|Lebanon}} 1 – 4 {{fb-rt|Egypt}}<br />([[Libya]]; 11 May 2012)
+{{fb|Egypt}} 3 – 0 {{fb-rt|Lebanon}}<br />([[Jordan]]; 15 July 1988)<br />([[Egypt]]; 28 August 1965)
+|
+|-
+| {{fb|Liberia}}
+| 7
+| 5
+| 0
+| 2
+| 13
+| 2
+| +11
+| 27 September 2022
+| {{fb|Egypt}} 5 – 0 {{fb-rt|Liberia}}<br />([[Egypt]]; 17 August 1997)
+|
+|-
+| {{fb|Libya}}
+| 17
+| 11
+| 3
+| 3
+| 36
+| 13
+| +23
+| 11 October 2021
+| {{flagicon|Egypt|1952}} Egypt 10 – 2 {{fb-rt|Libya|1951}}<br />([[Egypt]]; 6 August 1953)
+|
+|-
+| {{fb|Lithuania}}
+| 1
+| 1
+| 0
+| 0
+| 10
+| 0
+| +10
+| 1 June 1924
+| {{flagicon|Egypt|1922}} Egypt 10 – 0 {{fb-rt|Lithuania|1918}}<br />([[France]]; 1 June 1924)
+|
+|-
+| {{fb|Luxembourg}}
+| 1
+| 0
+| 1
+| 0
+| 1
+| 1
+| 0
+| 28 June 1928
+| {{fb|Luxembourg}} 1-1 {{fb-rt|Egypt|1922}}<br />([[Luxembourg]]; 28 June 1928)
+|
+|-
+| {{fb|Madagascar}}
+| 4
+| 2
+| 0
+| 2
+| 7
+| 2
+| +5
+| 20 June 2003
+| {{fb|Egypt}} 6 – 0 {{fb-rt|Madagascar}}<br />([[Egypt]]; 20 June 2003)
+| 1 PSO win for Egypt
+|-
+| {{fb|Malawi}}
+| 11
+| 6
+| 2
+| 3
+| 18
+| 7
+| +11
+| 28 March 2023
+| {{fb|Egypt|1972}} 4 – 0 {{fb-rt|Malawi}}<br />([[Malawi]]; 28 March 2023)
+|
+|-
+| {{fb|Mali}}
+| 10
+| 4
+| 2
+| 4
+| 8
+| 8
+| 0
+| 17 January 2017
+| {{fb|Egypt}} 2 – 1 {{fb-rt|Mali}}<br />([[Egypt]]; 9 April 1993)
+|
+|-
+| {{fb|Malta}}
+| 2
+| 2
+| 0
+| 0
+| 8
+| 2
+| +5
+| 5 November 1993
+| {{fb|Egypt}} 5 – 2 {{fb-rt|Malta}}<br />([[South Korea]]; 9 June 1991)
+|
+|-
+| {{fb|Mauritania}}
+| 5
+| 4
+| 1
+| 0
+| 10
+| 1
+| +9
+| 15 October 2024
+| {{fb|Egypt}} 3 – 0 {{fb-rt|Mauritania|1959}}<br />([[Egypt]]; 25 March 2007)<br />([[United Arab Emirates]]; 15 April 2012)
+|
+|-
+| {{fb|Mauritius}}
+| 5
+| 5
+| 0
+| 0
+| 18
+| 2
+| +16
+| 2 October 2009
+| {{fb|Egypt}} 7 – 0 {{fb-rt|Mauritius}}<br />([[Egypt]]; 8 June 2003)
+|
+|-
+| {{fb|Mexico}}
+| 3
+| 0
+| 1
+| 2
+| 2
+| 7
+| −5
+| 27 July 1999
+| {{fb|Mexico}} 2 – 2 {{fb-rt|Egypt}}<br />([[1999 FIFA Confederations Cup|Mexico]]; 27 July 1999)
+|
+|-
+| {{fb|Morocco}}
+| 28
+| 4
+| 11
+| 13
+| 16
+| 31
+| −15
+| 30 January 2022
+| {{Fb|Egypt}} 1 – 0 {{Fb-rt|Morocco}}<br />([[1986 Africa Cup of Nations|Egypt]]; 17 March 1986)
+{{flagicon|Egypt|1958}} '''UAR''' 3 – 2 {{Fb-rt|Morocco}}<br />([[Egypt]]; 21 March 1971)
+|
+|-
+| {{fb|Mozambique}}
+| 6
+| 5
+| 1
+| 0
+| 11
+| 2
+| +9
+| 14 January 2024
+| {{fb|Egypt}} 2 – 0 {{fb-rt|Mozambique}}<br />([[Egypt]]; 1 June 2012)<br />([[2010 Africa Cup of Nations|Angola]]; 16 January 2010)<br />([[1998 Africa Cup of Nations|Burkina Faso]]; 10 February 1998)<br />([[1986 Africa Cup of Nations|Egypt]]; 13 March 1986)
+|
+|-
+| {{fb|Namibia}}
+| 6
+| 5
+| 1
+| 0
+| 23
+| 6
+| +17
+| 5 January 2008
+| {{fb|Egypt}} 8 – 2 {{fb-rt|Namibia}}<br />([[Egypt]]; 13 July 2001)
+|
+|-
+| {{fb|Netherlands}}
+| 3
+| 1
+| 2
+| 0
+| 4
+| 3
+| +1
+| 12 June 1990
+| {{fb|Netherlands}} 1 – 2 {{fb-rt|Egypt|1922}}<br />([[Netherlands]]; 14 June 1928)
+|
+|-
+| {{fb|New Zealand}}
+| 5
+| 4
+| 1
+| 0
+| 7
+| 2
+| +5
+| 21 June 2026
+| {{fb|New Zealand}} 1 – 3 {{fb-rt|Egypt}}<br />([[Vancouver]]; 21 June 2026)
+|
+|-
+| {{fb|Niger}}
+| 6
+| 4
+| 1
+| 1
+| 14
+| 2
+| +12
+| 23 September 2022
+| {{fb|Egypt}} 6 – 0 {{fb-rt|Niger}}<br />([[Alexandria]]; 8 September 2018)
+| 
+|-
+| {{fb|Nigeria}}
+| 22
+| 7
+| 7
+| 8
+| 27
+| 30
+| −3
+| 17 January 2026
+| {{flagicon|Egypt|1958}} '''UAR''' 6 – 3 {{fb-rt|Nigeria}}<br />([[Nigeria]]; 24 November 1963)
+| 2 PSO wins for Nigeria
+|-
+| {{fb|Norway}}
+| 4
+| 0
+| 3
+| 1
+| 2
+| 5
+| −3
+| 18 November 1998
+| {{fb|Egypt}} 1 – 1 {{fb-rt|Norway}}<br />([[Egypt]]; 18 November 1998)<br />([[Egypt]]; 24 December 1948)
+|
+|-
+| {{fb|Oman}}
+| 2
+| 1
+| 1
+| 0
+| 2
+| 1
+| +1
+| 15 August 2012
+| {{fb|Oman}} 0 – 1 {{fb-rt|Egypt}}<br />([[Oman]]; 30 May 2009)
+|
+|-
+| {{fb|Poland}}
+| 2
+| 1
+| 1
+| 0
+| 4
+| 0
+| +4
+| 5 December 1991
+| {{fb|Egypt}} 4 – 0 {{fb-rt|Poland}}<br />([[Egypt]]; 3 December 1991)
+|
+|-
+| {{fb|Portugal}}
+| 5
+| 1
+| 0
+| 4
+| 4
+| 11
+| −7
+| 4 June 1928
+| {{fb|Portugal}} 1 – 2 {{fb-rt|Egypt}}<br />([[Netherlands]]; 4 June 1928)
+|
+|-
+| {{fb|Qatar}}
+| 8
+| 4
+| 2
+| 2
+| 18
+| 7
+| +11
+| 18 December 2021
+| {{fb|Egypt}} 6 – 0 {{fb-rt|Qatar}}<br />([[Egypt]]; 19 March 2003)
+| 1 [[Penalty shootout (association football)|PSO]] win for Qatar
+|-
+| {{fb|Republic of Ireland}}
+| 1
+| 0
+| 1
+| 0
+| 0
+| 0
+| 0
+| 17 June 1990
+| {{fb|Republic of Ireland}} 0 – 0 {{fb-rt|Egypt}}<br />([[1990 FIFA World Cup|Italy]]; 17 June 1990)
+|
+|-
+| {{fb|Romania}}
+| 6
+| 1
+| 2
+| 3
+| 7
+| 9
+| −2
+| 24 December 1991
+| {{fb|Egypt}} 3 – 1 {{fb-rt|Romania}}<br />([[Egypt]]; 21 December 1991)
+|
+|-
+| {{fb|Russia}}
+| 2
+| 1
+| 0
+| 1
+| 2
+| 3
+| -1
+| 28 May 2026
+| {{fb|Egypt}} 1 - 3 {{fb-rt|Russia}}<br />([[Russia]]; 19 June 2018) 
+|
+|-
+| {{fb|Rwanda}}
+| 3
+| 3
+| 0
+| 0
+| 9
+| 1
+| +8
+| 5 September 2009
+| {{fb|Egypt}} 3 – 0 {{fb-rt|Rwanda}}<br />([[Egypt]]; 5 July 2009)
+|
+|-
+| {{fb|Saudi Arabia}}
+| 9
+| 6
+| 1
+| 2
+| 31
+| 9
+| +22
+| 27 March 2026
+| {{flagicon|United Arab Republic}} '''UAR''' 13 – 0 [[Saudi Arabia national football team|Saudi Arabia]] {{flagicon image|Flag of Saudi Arabia (1938-1973).svg}}<br />([[Morocco]]; 3 September 1961)
+|
+|-
+| {{fb|Scotland}}
+| 1
+| 1
+| 0
+| 0
+| 3
+| 1
+| +2
+| 16 May 1990
+| {{fb|Scotland}} 1 – 3 {{fb-rt|Egypt}}<br />([[Scotland]]; 16 May 1990)
+|
+|-
+| {{fb|Senegal}}
+| 16
+| 7
+| 2
+| 7
+| 9
+| 8
+| +1
+| 14 January 2026
+| {{fb|Egypt}} 2 – 0 {{fb-rt|Senegal}}<br />([[Egypt]]; 13 July 1997)
+| 2 [[Penalty shootout (association football)|PSO]] win for Senegal
+|-
+| {{fb|Sierra Leone}}
+| 4
+| 2
+| 1
+| 1
+| 5
+| 3
+| +2
+| 25 March 2025
+| {{fb|Sierra Leone}} 0 – 2 {{fb-rt|Egypt}}<br />([[Sierra Leone]]; 19 November 2023)
+|
+|-
+| {{fb|Slovakia}}
+| 4
+| 3
+| 0
+| 1
+| 5
+| 2
+| +3
+| 4 February 1994
+| {{fb|Egypt}} 1 – 0 {{fb-rt|Slovakia}}<br />([[United Arab Emirates]]; 4 February 1994)
+|
+|-
+| {{fb|Somalia}}
+| 1
+| 1
+| 0
+| 0
+| 4
+| 2
+| +2
+| 24 November 1972
+| {{fb|Egypt|1972}} 4 – 2 {{fb-rt|Somalia}}<br />([[Egypt]]; 24 November 1972 )
+|
+|-
+| {{fb|South Africa}}
+| 13
+| 5
+| 1
+| 7
+| 9
+| 10
+| -1
+| 26 December 2025
+| {{fb|South Africa}} 0 – 2 {{fb-rt|Egypt}}<br />([[1998 African Cup of Nations|Burkina Faso]]; 28 February 1998)
+|
+|-
+| {{fb|South Sudan}}
+| 1
+| 1
+| 0
+| 0
+| 3
+| 0
+| +3
+| 6 July 2019
+| {{fb|Egypt}} 3 – 0 {{fb-rt|South Sudan}}<br />([[Egypt]]; 18 June 2023)
+|
+|-
+| {{fb|Spain}}
+| 2
+| 0
+| 1
+| 1
+| 0
+| 2
+| −2
+| 31 March 2026
+| {{fb|Spain}} 2 – 0 {{fb-rt|Egypt}}<br />([[Spain]]; 3 June 2006)
+|
+|-
+| {{fb|Sudan}}
+| 18
+| 14
+| 2
+| 2
+| 43
+| 16
+| +27
+| 19 January 2022
+| {{fb|Egypt}} 6 – 1 {{fb-rt|Sudan}}<br />([[Egypt]]; 5 June 2005)
+|
+|-
+| {{fb|Swaziland}}
+| 3
+| 3
+| 0
+| 0
+| 16
+| 1
+| +15
+| 16 October 2018
+| {{fb|Egypt}} 10 – 0 {{fb-rt|Swaziland}}<br />([[Egypt]]; 22 March 2013)
+|
+|-
+| {{fb|Sweden}}
+| 4
+| 2
+| 0
+| 2
+| 3
+| 10
+| −7
+| 7 February 2007
+| {{fb|Egypt}} 2 – 0 {{fb-rt|Sweden}}<br />([[Egypt]]; 7 February 2007)
+|
+|-
+| {{fb|Switzerland}}
+| 1
+| 0
+| 0
+| 1
+| 1
+| 3
+| −2
+| 14 December 1998
+| {{fb|Egypt}} 1 – 3 {{fb-rt|Switzerland}}<br />([[Egypt]]; 14 December 1998)
+|
+|-
+| {{fb|Syria}}
+| 7
+| 4
+| 1
+| 2
+| 18
+| 6
+| +12
+| 31 March 1995
+| {{flagicon|Egypt|1922}} '''Egypt''' 8 – 0 [[Syria national football team|Syria]] {{flagicon|Syria|1932}}<br />([[Egypt]]; 12 October 1951)
+| 1 PSO win for Syria
+|-
+| {{fb|Tanzania}}
+| 13
+| 12
+| 1
+| 0
+| 43
+| 10
+| +33
+| 7 January 2024
+| {{fb|Egypt}} 6 – 0 {{fb-rt|Tanzania}}<br />([[Egypt]]; 17 April 1986)
+|
+|-
+| {{fb|Thailand}}
+| 1
+| 0
+| 1
+| 0
+| 1
+| 1
+| 0
+| 25 January 1998
+| {{fb|Thailand}} 1 – 1 {{fb-rt|Egypt}}<br />([[Thailand]]; 25 January 1998)
+|
+|-
+| {{fb|Togo}}
+| 10
+| 8
+| 1
+| 1
+| 26
+| 6
+| +20
+| 17 November 2020
+| {{fb|Egypt}} 7 – 2 {{fb-rt|Togo}}<br />([[Egypt]]; 18 December 1997)
+|
+|-
+| {{fb|Trinidad and Tobago}}
+| 1
+| 1
+| 0
+| 0
+| 2
+| 1
+| +1
+| 31 March 2004
+| {{fb|Egypt}} 2 – 1 {{fb-rt|Trinidad and Tobago}}<br />([[Egypt]]; 31 March 2004)
+|
+|-
+| {{fb|Tunisia}}
+| 37
+| 13
+| 8
+| 16
+| 38
+| 42
+| –4
+| 12 September 2023
+| {{fb|Tunisia|1959}} 0 – 4 {{fb-rt|Egypt}}<br />([[Tunisia]]; 7 November 1989)
+|
+|-
+| {{fb|Turkey}}
+| 6
+| 2
+| 0
+| 4
+| 10
+| 13
+| –3
+| 12 May 1949
+| {{fb|Turkey}} 1 – 7 Egypt {{flagicon|Egypt|1922}}<br />([[France]]; 1 June 1924)
+|
+|-
+| {{fb|Uganda}}
+| 21
+| 17
+| 2
+| 2
+| 41
+| 13
+| +28
+| 30 June 2019
+| {{fb|Egypt}} 6 – 0 {{fb-rt|Uganda}}<br />([[Egypt]]; 30 July 1995)
+|
+|-
+| {{fb|UAE}}
+| 6
+| 3
+| 3
+| 0
+| 6
+| 3
+| +4
+| 6 December 2025
+| {{flagicon|UAE}} [[United Arab Emirates national football team|UAE]] 1 – 2 {{fb-rt|Egypt}}<br />([[UAE]]; 16 December 2002)<br />([[Egypt]]; 6 January 2001)
+| 1 PSO win for Egypt
+|-
+| {{fb|Uruguay}}
+| 2
+| 0
+| 0
+| 2
+| 0
+| 3
+| −3
+| 15 June 2018
+| {{fb|Egypt}} 0 – 1 {{fb-rt|Uruguay}}<br />([[Russia]]; 15 June 2018)
+|
+|-
+| {{fb|Uzbekistan}}
+| 1
+| 0
+| 0
+| 1
+| 0
+| 2
+| −2
+| 14 November 2025
+| {{fb|Egypt}} 0 – 2 {{fb-rt|Uzbekistan}}<br />([[Uzbekistan]]; 14 November 2025)
+|
+|-
+| {{fb|USA}}
+| 2
+| 1
+| 0
+| 1
+| 3
+| 4
+| −1
+| 21 June 2009
+| {{fb|Egypt}} 3 – 1 {{fb-rt|USA}}<br />([[South Korea]]; 8 June 1987)
+|
+|-
+| {{fb|VIE}}
+| 1
+| 1
+| 0
+| 0
+| 4
+| 1
+| +3
+| 1 November 1963
+| {{fb|Egypt}} 4 – 1 {{fb-rt|North Vietnam}}<br />([[Indonesia]]; 1 November 1963)
+|
+|-
+| {{fb|Yugoslavia}}
+| 9
+| 0
+| 4
+| 5
+| 5
+| 18
+| −13
+| 14 June 1997
+| {{fb|Yugoslavia}} 0 – 0 {{fb-rt|Egypt}}<br />([[South Korea]]; 14 June 1997)
+|
+|-
+| {{fb|Zambia}}
+| 18
+| 11
+| 4
+| 3
+| 30
+| 16
+| +14
+| 12 October 2023
+| {{fb|Zambia}} 0 – 4 {{fb-rt|Egypt}}<br />([[1998 African Cup of Nations|Burkina Faso]]; 13 February 1998)
+|
+|-
+| {{fb|Zimbabwe}}
+| 14
+| 9
+| 4
+| 1
+| 23
+| 12
+| +11
+| 22 December 2025
+| {{fb|Zimbabwe}} 2 – 4 {{fb-rt|Egypt}}<br />([[Zimbabwe]];9 June 2013)
+{{fb|Egypt}} 2 – 0 {{fb-rt|Zimbabwe}}<br />([[Egypt]]; 5 January 2006)<br />([[Egypt]]; 24 May 2004)
+|
+|-
+! style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | Total
+! style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | 744
+! style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | 373
+! style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | 183
+! style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | 188
+! style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | 1231
+! style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | 758
+! style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | +473
+! style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | —
+! style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | —
+! style="background:#C8102E; color:#FFFFFF; {{box-shadow border|a|#000000|2px}}" | —
+|}
+
+== Honours ==
+===Intercontinental===
+* '''[[Afro-Asian Cup of Nations]]'''
+** {{Silver2}} Runners-up (2): [[1987 Afro-Asian Cup of Nations|1987]], [[2007 Afro-Asian Cup of Nations|2007]]
+
+===Continental===
+* '''[[Africa Cup of Nations|CAF African Cup of Nations]]'''
+** [[File:Coppa Africa.svg|22px]] '''Champions (7)''': [[1957 African Cup of Nations|1957]], [[1959 African Cup of Nations|1959]], [[1986 African Cup of Nations|1986]], [[1998 African Cup of Nations|1998]], [[2006 Africa Cup of Nations|2006]], [[2008 Africa Cup of Nations|2008]], [[2010 Africa Cup of Nations|2010]]
+** [[File:Silver medal africa.svg|15px]] Runners-up (3): [[1962 Africa Cup of Nations|1962]], [[2017 Africa Cup of Nations|2017]], [[2021 Africa Cup of Nations|2021]]
+** [[File:Bronze medal africa.svg|15px]] Third place (3): [[1963 Africa Cup of Nations|1963]], [[1970 Africa Cup of Nations|1970]], [[1974 Africa Cup of Nations|1974]]
+* '''[[Football at the All-Africa Games|African Games]]'''{{efn|Competition organized by [[Association of National Olympic Committees of Africa|ANOCA]], officially not recognized by FIFA.}}
+** [[File:Gold medal africa.svg|15px]] '''Gold medal (1)''': [[1987 All-Africa Games|1987]],[[1995 All-Africa Games|1995]]
+** [[File:Bronze medal africa.svg|15px]] Bronze medal (1): [[1973 All-Africa Games|1973]]
+
+===Regional===
+* '''[[FIFA Arab Cup|Arabophone Cup]]'''{{efn|Official subregional competition organized and recognized by [[FIFA]] since [[2021 FIFA Arab Cup|2021]]. Previous editions were organized by [[Union of Arab Football Associations|UAFA]].}}
+** {{Gold1}} '''Champions (1)''': [[1992 Arab Cup|1992]]{{efn|name="arabcup"|The [[1992 Arab Cup]] also counted as an edition of the [[Arab Games]].}}
+** {{Bronze3}} Third place (1): [[1988 Arab Cup|1988]]
+* '''[[Football at the Arab Games|Arabophone Games]]'''
+** {{Gold1}} '''Gold medal (4)''': [[Football at the 1953 Arab Games|1953]], [[1965 Arab Games|1965]], [[1992 Arab Cup|1992]]{{efn|name="arabcup"}}, [[Football at the 2007 Arab Games|2007]]
+** {{Silver2}} Silver medal (1): [[1961 Arab Games|1961]]
+* '''[[Palestine Cup of Nations]]'''
+** {{Gold1}} '''Champions (2)''': [[1972 Palestine Cup of Nations|1972]], [[1975 Palestine Cup of Nations|1975]]
+* '''[[Football at the Mediterranean Games|Mediterranean Games]]'''
+** {{Gold1}} '''Gold medal (1)''': [[1955 Mediterranean Games|1955]]
+** {{Silver2}} Silver Medal (1): [[1951 Mediterranean Games|1951]]
+** {{Bronze3}} Bronze Medal (1): [[1983 Mediterranean Games|1983]]
+* '''[[Mediterranean Cup (men's football)|Mediterranean Cup]]'''
+** {{Bronze3}} Third place (2): 1949, 1950–53
+
+===Friendly===
+* '''Nile Basin Tournament (1)''': [[2011 Nile Basin Tournament|2011]]
+* '''[[LG Cup (association football)|LG Cup]] (1)''': [[2005 LG Cup (Egypt)|2005]]
+* '''[[Friendship Tournament]] (1)''': 1994
+* '''[[Korea Cup]] (1)''': [[1993 President's Cup International Football Tournament|1993]]
+* '''Capital of Egypt Cup (1)''': 2026
+
+===Awards===
+* '''[[CAF Awards#African National Team of the Year|African National Team of the Year]] (3)''': 1998, 2008, 2017
+* '''[[Africa Cup of Nations awards#Fair Play Award|Africa Cup of Nations Fair Play Award]] (1)''': 2017
+
+===Summary===
+{| class="wikitable" width=30% style="font-size:90%; text-align:center"
+|-
+!Competition !!{{gold1}} !!{{silver2}} !!{{bronze3}} !!Total
+|-
+|align=left|[[African Cup of Nations|CAF African Cup of Nations]]
+|7||3||3||13
+|-
+|align=left|[[Afro-Asian Cup of Nations]]
+|0||2||0||2
+|-
+!Total!!7!!5!!3!!15
+|}
+
+== See also ==
+{{portal|Egypt|Association football}}
+* [[Egypt national under-23 football team]] (Olympic football team)
+* [[Egypt national under-20 football team]]
+* [[Egypt national under-17 football team]]
+* [[Egypt women's national football team]]
+* [[Football in Egypt]]
+
+== Notes ==
+{{Notelist}}
+{{reflist|group=note}}
+
+==References==
+{{Reflist}}
+
+== External links ==
+{{Commons category|Egypt national association football team}}
+* {{Official website}} {{in lang|AR|EN|FR|RU}}
+* [https://www.cafonline.com/member-associations/egy/ Egypt] at [[Confederation of African Football|CAF]]
+* [https://www.fifa.com/about-fifa/associations/EGY Egypt] at [[FIFA]]
+
+{{Egypt national football team}}
+{{Navboxes top
+|titlestyle = background:#C8102E;color:white;border:1px solid black
+|list1 = }}
+{{Navboxes
+|title=Egypt achievements and awards
+|titlestyle = background:#C8102E;color:white;border:1px solid black
+|list1 =
+{{S-start}}
+{{Succession box
+| before = –
+| title = [[African Cup of Nations|African Champions]]
+| years = [[1957 African Cup of Nations|1957]] (1st title)<br /> [[1959 African Cup of Nations|1959]] (2nd title)
+| after = [[1962 African Cup of Nations|1962]] {{fb|ETH}}
+}}
+{{Succession box
+| before = [[1984 African Cup of Nations|1984]] {{fb|CMR}}
+| title = [[African Cup of Nations|African Champions]]
+| years = [[1986 African Cup of Nations|1986]] (3rd title)
+| after = [[1988 African Cup of Nations|1988]] {{fb|CMR}}
+}}
+{{Succession box
+| before = [[1996 African Cup of Nations|1996]] {{fb|ZA}}
+| title = [[African Cup of Nations|African Champions]]
+| years = [[1998 African Cup of Nations|1998]] (4th title)
+| after = [[2000 African Cup of Nations|2000]] {{fb|CMR}}
+}}
+{{Succession box
+| before = [[2004 African Cup of Nations|2004]] {{fb|TUN}}
+| title = [[African Cup of Nations|African Champions]]
+| years = [[2006 African Cup of Nations|2006]] (5th title)<br /> [[2008 African Cup of Nations|2008]] (6th title)<br /> [[2010 African Cup of Nations|2010]] (7th title)
+| after = [[2012 African Cup of Nations|2012]] {{fb|ZAM}}
+}}
+{{S-end}}
+}}
+{{Africa Cup of Nations winners}}
+{{Men's Mediterranean Games Football winners}}
+{{FIFA Arab Cup winners}}
+{{Football in Egypt}}
+{{CAF teams}}
+{{UAFA Football}}
+{{UNAF Football}}
+{{National sports teams of Egypt}}
+{{Navboxes bottom}}
+{{Portal bar|Association football|Egypt}}
+
+[[Category:Egypt national football team| ]]
+[[Category:Egyptian Football Association national teams| ]]
+[[Category:1920 establishments in Egypt]]
+[[Category:African national association football teams]]
+[[Category:Football in Egypt]]
+[[Category:Africa Cup of Nations–winning countries|E]]
+[[Category:National sports teams established in 1920]]

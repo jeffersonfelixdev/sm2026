@@ -1,0 +1,2088 @@
+{{About|the men's team|the women's team|France women's national football team}}
+{{Short description|Men's association football team}}
+{{Use British English|date=November 2025}}
+{{Use dmy dates|date=November 2025}}
+{{Infobox national football team
+| Name                     = France
+| Badge                    = France national football team seal.svg
+| Badge_size               = 155
+| FIFA Trigramme           = FRA
+| Nickname                 = {{lang|fr|Les Bleus}} (The Blues)
+| Association              = [[French Football Federation|Fédération Française de Football]] (FFF)
+| Confederation            = [[UEFA]] (Europe)
+| Coach                    = [[Didier Deschamps]]
+| Captain                  = [[Kylian Mbappé]]
+| Most caps                = [[Hugo Lloris]] (145)
+| Top scorer               = Kylian Mbappé ([[List of international goals scored by Kylian Mbappé|64]])
+| Home Stadium             = [[Stade de France]]
+| FIFA Rank                = {{FIFA World Rankings|FRA}}
+| FIFA max                 = 1
+| FIFA max date            = May 2001 – May 2002, August – September 2018, April 2026 – June 2026
+| FIFA min                 = 26
+| FIFA min date            = September 2010
+| Elo Rank                 = {{World Football Elo Ratings|France}}
+| Elo max                  = 1
+| Elo max date             = 1984–1985, 1986, 1998–1999, 2000–2002, 2003–2004, 2006, 2007, 2018
+| Elo min                  = 40
+| Elo min date             = March–July 1930
+| pattern_la1              = _fra26H
+| pattern_b1               = _fra26H
+| pattern_ra1              = _fra26H
+| pattern_sh1              = _fra26H2
+| pattern_so1              = _fra26Hl
+| leftarm1                 = 17367F
+| body1                    = 17367F
+| rightarm1                = 17367F
+| shorts1                  = FFFFFF
+| socks1                   = FF0000
+| pattern_la2              = _fra26a
+| pattern_b2               = _fra26a
+| pattern_ra2              = _fra26a
+| pattern_sh2              = _fra26a
+| pattern_so2              = _fra26al
+| leftarm2                 = bde4d7
+| body2                    = bde4d7
+| rightarm2                = bde4d7
+| shorts2                  = bde4d7
+| socks2                   = bde4d7
+| First game               = {{fb|BEL}} [[Évence Coppée Trophy|3–3]] {{fb-rt|FRA|1830}}<br>([[Uccle]], Belgium; 1 May 1904)
+| Largest win              = {{fb|FRA}} [[France v Gibraltar (UEFA Euro 2024 qualifying)|14–0]] {{fb-rt|GIB}}<br>([[Nice]], France; 18 November 2023)
+| Largest loss             = {{fb|DEN}} 17–1 {{fb-rt|FRA|1830}}<br>([[London]], England; 22 October 1908)
+| World cup apps           = 17
+| World cup first          = 1930
+| World cup best           = '''Champions''' ([[1998 FIFA World Cup|1998]], [[2018 FIFA World Cup|2018]])
+| Regional name            = [[UEFA European Championship|European Championship]]
+| Regional cup apps        = 11
+| Regional cup first       = [[1960 European Nations' Cup|1960]]
+| Regional cup best        = '''Champions''' ([[UEFA Euro 1984|1984]], [[UEFA Euro 2000|2000]])
+| 2ndRegional name         = [[UEFA Nations League|Nations League Finals]]
+| 2ndRegional cup apps     = 2
+| 2ndRegional cup first    = [[2021 UEFA Nations League Finals|2021]]
+| 2ndRegional cup best     = '''Champions''' ([[2021 UEFA Nations League Finals|2021]])
+| Confederations cup apps  = 2
+| Confederations cup first = [[2001 FIFA Confederations Cup|2001]]
+| Confederations cup best  = '''Champions''' ([[2001 FIFA Confederations Cup|2001]], [[2003 FIFA Confederations Cup|2003]])
+| 3rdRegional name         = [[CONMEBOL–UEFA Cup of Champions]]
+| 3rdRegional cup apps     = 1
+| 3rdRegional cup first    = [[Artemio Franchi Trophy#1985|1985]]
+| 3rdRegional cup best     = '''Champions''' ([[Artemio Franchi Trophy#1985|1985]])
+| medaltemplates           = 
+{{MedalSport|Men's [[Association football|football]]}}
+{{MedalCompetition|[[FIFA World Cup]]}}
+{{MedalGold|[[1998 FIFA World Cup|1998 France]]|[[1998 FIFA World Cup squads#France|Team]]}}
+{{MedalGold|[[2018 FIFA World Cup|2018 Russia]]|[[2018 FIFA World Cup squads#France|Team]]}}
+{{MedalSilver|[[2006 FIFA World Cup|2006 Germany]]|[[2006 FIFA World Cup squads#France|Team]]}}
+{{MedalSilver|[[2022 FIFA World Cup|2022 Qatar]]|[[2022 FIFA World Cup squads#France|Team]]}}
+{{MedalBronze|[[1958 FIFA World Cup|1958 Sweden]]|[[1958 FIFA World Cup squads#France|Team]]}}
+{{MedalBronze|[[1986 FIFA World Cup|1986 Mexico]]|[[1986 FIFA World Cup squads#France|Team]]}}
+{{MedalCompetition|[[FIFA Confederations Cup]]}}
+{{MedalGold|[[2001 FIFA Confederations Cup|2001 Korea and Japan]]|[[2001 FIFA Confederations Cup squads#France|Team]]}}
+{{MedalGold|[[2003 FIFA Confederations Cup|2003 France]]|[[2003 FIFA Confederations Cup squads#France|Team]]}}
+{{MedalCompetition|[[UEFA European Championship]]}}
+{{MedalGold|[[UEFA Euro 1984|1984 France]]|[[UEFA Euro 1984 squads#France|Team]]}}
+{{MedalGold|[[UEFA Euro 2000|2000 Netherlands and Belgium]]|[[UEFA Euro 2000 squads#France|Team]]}}
+{{MedalSilver|[[UEFA Euro 2016|2016 France]]|[[UEFA Euro 2016 squads#France|Team]]}}
+{{MedalCompetition|[[UEFA Nations League]]}}
+{{MedalGold|[[2021 UEFA Nations League Finals|2021 Italy]]|[[2021 UEFA Nations League Finals squads#France|Team]]}}
+{{MedalBronze|[[2025 UEFA Nations League Finals|2025 Germany]]|[[2025 UEFA Nations League Finals squads#France|Team]]}}
+{{MedalCompetition|[[Olympic Games]]}}
+{{MedalGold|[[Football at the 1984 Summer Olympics|1984 Los Angeles]]|[[Football at the 1984 Summer Olympics – Men's team squads#France|Team]]}}
+{{MedalSilver|[[Football at the 1900 Summer Olympics|1900 Paris]]|[[Football at the 1900 Summer Olympics – Men's team squads#France|Team]]}}
+{{MedalCompetition|[[CONMEBOL–UEFA Cup of Champions]]}}
+{{MedalGold|[[1985 Artemio Franchi Cup|1985 Paris]]|[[1985 Artemio Franchi Cup|Team]]}}
+}}
+
+The '''France national football team''' ({{langx|fr|Équipe de France de football}}) represents [[France]] in men's international [[Association football|football]]. It is controlled by the [[French Football Federation]] (FFF; {{lang|fr|Fédération française de football}}), the governing body for [[football in France]]. It is a member of [[UEFA]] in Europe and [[FIFA]] in global competitions. The team's colours and imagery reference two national symbols: the French [[Flag of France|blue-white-red tricolour]] and [[Gallic rooster]] (''coq gaulois''). The team is colloquially known as ''Les Bleus'' (The Blues). They play home matches at the [[Stade de France]] in [[Saint-Denis, Seine-Saint-Denis|Saint-Denis]] and train at [[:fr:Centre_national_du_football|Centre National du Football]] in [[Clairefontaine-en-Yvelines]].
+
+Founded in 1904, the national team has won two [[FIFA World Cup]]s, two [[UEFA European Championship]]s, one [[CONMEBOL–UEFA Cup of Champions]], two [[FIFA Confederations Cup]]s and one [[UEFA Nations League]] title.<ref>{{Cite web |date=February 17, 2017 |title=Brief history of Les Bleus is real coq and ball story |url=https://www.connexionfrance.com/magazine/brief-history-of-les-bleus-is-real-coq-and-ball-story/458584}}</ref> France was one of the four European teams that participated in the first World Cup in [[1930 FIFA World Cup|1930]]. Twenty-eight years later, the team led by [[Raymond Kopa]] and [[Just Fontaine]] finished in third place at the [[1958 FIFA World Cup|1958 World Cup]]. France experienced much of its success in three different eras: in the 1980s, the late 1990s to early 2000s, and the late 2010s to early 2020s.
+
+In the early to mid-1980's, under the leadership of the three-time [[Ballon d'Or]] winner [[Michel Platini]], France won [[UEFA Euro 1984|Euro 1984]] (its first official title), a CONMEBOL–UEFA Cup ([[1985 Artemio Franchi Cup|1985]]), and reached two consecutive World Cup semi-finals ([[1982 FIFA World Cup|1982]] and [[1986 FIFA World Cup|1986]]). During the captaincy of [[Didier Deschamps]], with [[Zinedine Zidane]] being the star player, ''Les Bleus'' won the [[1998 FIFA World Cup|1998 World Cup]] and [[UEFA Euro 2000|Euro 2000]]. They also won the Confederations Cup in [[2001 FIFA Confederations Cup|2001]] and [[2003 FIFA Confederations Cup|2003]]. Three years later, France made it to the [[2006 FIFA World Cup final|final]] of the [[2006 FIFA World Cup|2006 World Cup]], losing 5–3 on [[Penalty shoot-out (association football)|penalties]] to [[Italy national football team|Italy]]. A decade later, the team reached the [[UEFA Euro 2016 final|final]] of [[UEFA Euro 2016|Euro 2016]], where they lost 1–0 to [[Portugal national football team|Portugal]] in extra time. Two years after that, France won the [[2018 FIFA World Cup|2018 World Cup]], its second title in that competition. After winning the [[2020–21 UEFA Nations League|2021 Nations League]], they became the first, and so far, the only European national team to have won every senior FIFA and UEFA competition.<ref>{{cite web |title=– France on |url=https://www.fifa.com/associations/association=fra/index.html |url-status=dead |archive-url=https://web.archive.org/web/20070603161711/http://www.fifa.com/associations/association=fra/index.html |archive-date=3 June 2007 |access-date=7 June 2012 |publisher=FIFA}}</ref><ref>{{cite web |title=– Tournaments |url=https://www.fifa.com/tournaments/index.html |url-status=dead |archive-url=https://web.archive.org/web/20070602023645/http://www.fifa.com/tournaments/index.html |archive-date=2 June 2007 |access-date=7 June 2012 |publisher=FIFA}}</ref> In 2022, France reached a second consecutive [[2022 FIFA World Cup final|World Cup final]], but lost 4–2 on penalties to [[Argentina national football team|Argentina]].
+
+France is one of only two countries, the other being [[Brazil national football team|Brazil]], to have won all men's FIFA 11-player competitions at all age levels,<ref>{{cite news |date=7 October 2022 |title=How many times has France won the World Cup? History, wins, titles for Les Blues in men's FIFA football tournament |url=https://www.sportingnews.com/us/soccer/news/times-france-won-world-cup-wins-titles-history-fifa-football/dex3knagmwxg2mq6rrbj3ezq |access-date=26 August 2023 |website=Sporting News |archive-date=26 August 2023 |archive-url=https://web.archive.org/web/20230826074316/https://www.sportingnews.com/us/soccer/news/times-france-won-world-cup-wins-titles-history-fifa-football/dex3knagmwxg2mq6rrbj3ezq |url-status=live }}</ref><ref>{{Cite web |date=30 June 2003 |title=France wins FIFA Confederations Cup |url=https://www.oceaniafootball.com/archives-13285/ |access-date=26 August 2023 |website=Oceania Football Confederation |archive-date=26 August 2023 |archive-url=https://web.archive.org/web/20230826074317/https://www.oceaniafootball.com/archives-13285/ |url-status=live }}</ref><ref name=":0" /><ref>{{cite web |date=30 September 2016 |title=October 1, 2001: France wins under-17 World Cup |url=https://gulfnews.com/today-history/october-1-2001-france-wins-under-17-world-cup-1.1904674 |access-date=26 August 2023 |website=Gulf News |archive-date=26 August 2023 |archive-url=https://web.archive.org/web/20230826074317/https://gulfnews.com/today-history/october-1-2001-france-wins-under-17-world-cup-1.1904674 |url-status=live }}</ref><ref>{{cite news |date=28 June 2023 |title=France adds Olympic gold to European title |url=https://olympics.com/en/news/france-adds-olympic-gold-to-european-title |website=Olympics |access-date=26 August 2023 |archive-date=20 September 2023 |archive-url=https://web.archive.org/web/20230920222644/https://olympics.com/en/news/france-adds-olympic-gold-to-european-title |url-status=live }}</ref> having claimed the FIFA World Cup, [[FIFA U-20 World Cup]], [[FIFA U-17 World Cup]], the now-defunct FIFA Confederations Cup, and [[Football at the Summer Olympics|Olympic]] title, as well as the first to complete the collection, after the [[France national under-20 football team|U-20 national team]] captured the first U-20 World Cup title in [[2013 FIFA U-20 World Cup|2013]].<ref name=":0">{{cite news |date=13 July 2013 |title=France capture U-20 World Cup title |url=https://www.uefa.com/under19/news/0252-0ce44ef6f4aa-49806573a795-1000--france-capture-u-20-world-cup-title/ |access-date=26 August 2023 |website=[[UEFA]] |archive-date=23 September 2021 |archive-url=https://web.archive.org/web/20210923031319/https://www.uefa.com/under19/news/0252-0ce44ef6f4aa-49806573a795-1000--france-capture-u-20-world-cup-title/ |url-status=live }}</ref> 
+
+France shares historic footballing rivalries with other European nations, most notably [[Italy national football team|Italy]],<ref name="storia recente">{{cite web |date=14 November 2012 |title=Storia recente di Italia-Francia |url=http://www.fantagazzetta.com/approfondimenti/storia-recente-di-italia-francia-165303 |url-status=dead |archive-url=https://web.archive.org/web/20150224213930/http://www.fantagazzetta.com/approfondimenti/storia-recente-di-italia-francia-165303 |archive-date=24 February 2015 |access-date=11 December 2018 |publisher=Fanta Gazzetta |language=it}}</ref>[[Germany national football team|Germany]]<ref>{{cite web |last=Douglas |first=Steve |date=3 July 2014 |title=France, Germany renew rivalry at World Cup |url=https://www.gainesvilletimes.com/sports/national-sports/staff-sports-picks/france-germany-renew-rivalry-at-world-cup/ |access-date=18 December 2022 |publisher=Gainesville Times |archive-date=20 September 2023 |archive-url=https://web.archive.org/web/20230920222700/https://www.gainesvilletimes.com/sports/national-sports/staff-sports-picks/france-germany-renew-rivalry-at-world-cup/?offset=4&snippet_index_3=4&scroll_content_page_count=3 |url-status=live }}</ref> and [[Spain national football team|Spain]].<ref name="Spain and France: An Enduring Rivalry">{{cite web |date=12 July 2026 |title=Spain and France: An Enduring Rivalry
+|url=https://rfef.es/en/noticias/Spain-and-France-An-Enduring-Rivalry |access-date=13 July 2026 |work=RFEF |language=en}}</ref> A bitter rivalry with Argentina also developed and intensified in the late 2010s and early 2020s, defined by two consecutive World Cup knockout stage matches (round of 16 in 2018 and final in 2022).<ref>[https://apnews.com/article/olympics-2024-france-argentina-racism-d60172722edd3b9d976d7bc62b8c484f Le Clash: Bitter soccer rivals France and Argentina meet in Olympic quarterfinals amid a racism spat] Associated Press. 1 August 2024. Retrieved 3 August 2024.</ref>
+
+==History==
+{{main|History of the France national football team}}
+
+===Early years (1900–1930s)===
+[[File:France national football 1904.jpg|thumb|left|France national team that played its first international v [[Belgium national football team|Belgium]] in 1904.]]
+The France national football team was created in 1904, around the time of [[History of FIFA|FIFA's foundation.]]<ref>{{Cite web |title=Our history |url=https://uk.fff.fr/2-our-history.html |access-date=2022-12-18 |website=uk.fff.fr |archive-date=12 December 2022 |archive-url=https://web.archive.org/web/20221212135450/https://uk.fff.fr/2-our-history.html |url-status=live }}</ref> The team competed in [[Évence Coppée Trophy|its first official international match]] on 1 May 1904 against [[Belgium national football team|Belgium]] in [[Brussels]], ending in a 3–3 draw.<ref>{{cite web|url=http://www.fff.fr/servfff/historique/match_detail.php?nomatch=1|title=France v. Belgium 1904 Match Report|work=French Football Federation|access-date=4 June 2010|archive-date=18 June 2010|archive-url=https://web.archive.org/web/20100618050746/http://www.fff.fr/servfff/historique/match_detail.php?nomatch=1|url-status=live}}</ref> The following year, on 12 February 1905, France contested their first-ever home match against [[Switzerland national football team|Switzerland]]. The match was played at the [[Parc des Princes]] in front of 500 supporters. France won the match 1–0 with the only goal coming from [[Gaston Cyprès]]. Due to disagreements between [[FIFA]] and the {{Lang|fr|[[Union des Sociétés Françaises de Sports Athlétiques]]}} (USFSA), the country's [[sports union]], France struggled to establish an identity. On 9 May 1908, the French Interfederal Committee (CFI), a rival organization to the USFSA, ruled that FIFA would now be responsible for the club's appearances in forthcoming Olympic Games and not the USFSA. In 1919, the CFI transformed themselves into the [[French Football Federation]] (FFF). In 1921, the USFSA finally merged with the FFF.
+
+In July 1930, France appeared in the inaugural [[1930 FIFA World Cup|FIFA World Cup]], held in Uruguay. In their first-ever World Cup match, France defeated [[Mexico national football team|Mexico]] 4–1 at the [[Estadio Pocitos]] in [[Montevideo]]. [[Lucien Laurent]] scored the first goal in World Cup history. Conversely, France also became the first team to not score in a World Cup match after losing 1–0 to group stage opponents [[Argentina national football team|Argentina]]. Another loss to [[Chile national football team|Chile]] resulted in the team bowing out in the group stage. The following year saw the first selection of a [[Black skin|black]] player to the national team. [[Raoul Diagne]], who was of Senegalese descent, earned his first cap on 15 February in a 2–1 defeat to [[Czechoslovakia national football team|Czechoslovakia]]. Diagne later played with the team at the [[1938 FIFA World Cup|1938 World Cup]], alongside [[Larbi Benbarek]], who was one of the first players of North African origin to play for the national team. At the [[1934 FIFA World Cup|1934 World Cup]], France suffered elimination in the opening round, losing 3–2 to [[Austria national football team|Austria]]. On the team's return to Paris, they were greeted as heroes by a crowd of over 4,000 supporters. France hosted the 1938 World Cup and reached the quarterfinals, losing 3–1 to defending champions (and eventual 1938 winners) [[Italy national football team|Italy]].
+
+===1950s–1980s===
+France's first '[[Golden Generation]]' in the late 1950s comprised players such as [[Just Fontaine]], [[Raymond Kopa]], [[Jean Vincent (footballer)|Jean Vincent]], [[Robert Jonquet]], [[Maryan Wisnieski]], [[Thadée Cisowski]], and [[Armand Penverne]]. At the [[1958 FIFA World Cup|1958 World Cup]], France reached the semi-finals where they lost to [[Brazil national football team|Brazil]]. In the 3rd-place match, France defeated West Germany 6–3 with Fontaine recording four goals, which brought his goal tally in the competition to 13, a World Cup record that still stands today. France hosted the inaugural [[UEFA European Football Championship]] in 1960. For the second straight international tournament, the team reached the semi-finals, but were defeated 5–4 by [[Yugoslavia national football team|Yugoslavia]] despite being up 4–2 heading into the 75th minute. In the third-place match, France was defeated 2–0 by Czechoslovakia.
+
+The 1960s and 1970s saw France decline significantly playing under several managers and failing to qualify for numerous international tournaments. On 25 April 1962, [[Henri Guérin (footballer)|Henri Guérin]] was officially installed as the team's first manager. Under Guérin, France failed to qualify for the [[1962 FIFA World Cup|1962 World Cup]] and the [[1964 European Nations' Cup]]. The team returned to major tournament play by qualifying for the [[1966 FIFA World Cup|1966 World Cup]], but did not make it past the group stage phase of the tournament. Guérin was fired following the World Cup. He was replaced by [[José Arribas]] and [[Jean Snella]], who worked as [[caretaker manager]]s in dual roles. The two only lasted four matches and were replaced by former international Just Fontaine, who in turn was only in charge for two matches. [[Louis Dugauguez]] succeeded Fontaine and following his early struggles in [[1970 FIFA World Cup qualification|qualification]] for the [[1970 FIFA World Cup|1970 World Cup]], was fired and replaced by [[Georges Boulogne]], who could not get the team to the competition. Boulogne was later fired following his failure to qualify for the [[1974 FIFA World Cup|1974 World Cup]] and was replaced by the Romanian [[Ștefan Kovács]], who became the only international manager to ever manage the national team. Under the management of Kovács, France failed to qualify for [[UEFA Euro 1976]]. After two years in charge, he was sacked and replaced by [[Michel Hidalgo]].
+
+Under Hidalgo, France flourished, mainly due to players such as defenders [[Marius Trésor]] and [[Maxime Bossis]], striker [[Dominique Rocheteau]] and midfielder [[Michel Platini]]. These players, alongside [[Jean Tigana]], [[Alain Giresse]] and [[Luis Fernández]], formed the ''"carré magique"'' ("Magic Square"), which would haunt opposing defenses beginning at the [[1982 FIFA World Cup|1982 World Cup]]. France reached the semi-finals losing on penalties to [[Germany national football team|West Germany]]. The semi-final match-up is considered one of the greatest matches in World Cup history and was [[History of the France national football team#1982 FIFA World Cup|marked by controversy]].<ref>{{cite web|url=http://www.fff.fr/servfff/historique/match_detail.php?nomatch=419|title=France v. Germany 1982 Match Report|work=French Football Federation|access-date=4 June 2010|archive-date=7 December 2009|archive-url=https://web.archive.org/web/20091207074824/http://www.fff.fr/servfff/historique/match_detail.php?nomatch=419|url-status=live}}</ref> France finished fourth overall, losing the third-place playoff 3–2 to Poland. France earned their first major international honor two years later, winning [[UEFA Euro 1984|Euro 1984]], which they hosted. Under the leadership of Platini, who scored a tournament-high nine goals, France defeated Spain 2–0 in the final. Platini and [[Bruno Bellone]] scored, before Hidalgo departed the team in order for [[Henri Michel]] to take over. France subsequently won gold at the [[1984 Summer Olympics]] [[Football at the 1984 Summer Olympics|football tournament]] and, a year later, defeated Uruguay 2–0 to win the [[Artemio Franchi Trophy]], an early precursor to the [[FIFA Confederations Cup]]. In a span of a year, France were holders of three of the four major international trophies. At the [[1986 FIFA World Cup|1986 World Cup]], France reached the semi-finals, losing a rematch to West Germany, but achieved third place with a 4–2 victory over Belgium.
+
+In 1988, the FFF opened the [[INF Clairefontaine|Clairefontaine]] National Football Institute. Its opening ceremony was attended by then-[[President of France]], [[François Mitterrand]].<ref>{{Cite news |last=Lawrence |first=Amy |title=Welcome to Clairefontaine, the French footballing wonderland that helped nurture Kylian Mbappe |url=https://www.nytimes.com/athletic/5765187/2024/09/17/kylian-mbappe-france-clairefontaine-real-madrid/ |access-date=2025-01-11 |work=The New York Times |date=17 September 2024 |language=en-US |issn=0362-4331}}</ref> Five months after Clairefontaine's opening, manager Henri Michel was fired and was replaced by Michel Platini, who failed to get the team to the [[1990 FIFA World Cup|1990 World Cup]].<ref>{{Cite news |last=Hussey |first=Andrew |date=2008-10-25 |title=This man can save English football |url=https://www.theguardian.com/football/2008/oct/26/england-football-platini |access-date=2025-01-11 |work=The Observer |language=en-GB |issn=0029-7712}}</ref>
+
+===Zidane era and World Champions (1995–2006)===
+Under [[Gerard Houllier]], France and its supporters experienced a major disappointment in failing to qualify for the [[1994 FIFA World Cup|1994 World Cup]]. With two matches to play, qualification had been all but secured with matches remaining against last-placed [[Israel national football team|Israel]] and in-contention [[Bulgaria national football team|Bulgaria]]. However, France was upset at home by Israel 3–2 after leading 2–1 late in the match and, against Bulgaria, conceded a 90th-minute goal for a 2–1 defeat.<ref>{{Cite web |date=2012-02-15 |title=The forgotten story of … 17 November 1993 |author=Rob Smyth |url=http://www.theguardian.com/football/blog/2012/feb/15/forgotten-story-17-november-1993 |access-date=2023-01-02 |website=The Guardian |language=en |archive-date=2 January 2023 |archive-url=https://web.archive.org/web/20230102202903/https://www.theguardian.com/football/blog/2012/feb/15/forgotten-story-17-november-1993 |url-status=live }}</ref> The [[History of the France national football team#1994 World Cup qualification|subsequent blame and public outcry]] led to the firing of Houllier and departure of several players, from the national team fold. Houllier's assistant [[Aimé Jacquet]] was appointed as manager.
+
+{{football squad on pitch|align = right
+| GK      = <big>'''16'''</big><br>[[Fabien Barthez|'''Barthez''']]
+| RB      = <big>'''15'''</big><br>[[Lilian Thuram|'''Thuram''']]
+| RCB     = <big>'''18'''</big><br>[[Frank Leboeuf|'''Leboeuf''']]
+| LCB     = <big>'''8'''</big><br>[[Marcel Desailly|'''Desailly''']]
+| LB      = <big>'''3'''</big><br>[[Bixente Lizarazu|'''Lizarazu''']]
+| DM      = <big>'''7'''</big><br>[[Didier Deschamps|'''Deschamps''']] ([[Captain (association football)|c]])
+| RCM     = <big>'''19'''</big><br>[[Christian Karembeu|'''Karembeu''']]
+| LCM     = <big>'''17'''</big><br>[[Emmanuel Petit|'''Petit''']]
+| RAM     = <big>'''10'''</big><br>[[Zinedine Zidane|'''Zidane''']]
+| LAM     = <big>'''6'''</big><br>[[Youri Djorkaeff|'''Djorkaeff''']]
+| CF      = <big>'''9'''</big><br>[[Stéphane Guivarc'h|'''Guivarc'h''']]
+| caption = France starting line-up against [[Brazil national football team|Brazil]] at the [[1998 FIFA World Cup final]], a match they won 3–0
+}}
+
+Under Jacquet, the national team achieved multiple successes. The squad comprised some experienced players from the group that had failed to reach the 1994 World Cup as well as some talented younger players, such as [[Zinedine Zidane]]. The team reached the semi-finals of [[UEFA Euro 1996|Euro 1996]], where they lost 6–5 on penalties to the [[Czech Republic national football team|Czech Republic]]. The team's next major tournament was the [[1998 FIFA World Cup|1998 World Cup]], which France hosted. France went through the tournament undefeated and became the seventh nation to win the World Cup, defeating Brazil 3–0 in the [[1998 FIFA World Cup final|final]] at the [[Stade de France]] in Paris.<ref>{{Cite web |last=Grez |first=Matias |date=2018-06-08 |title=France's 'Rainbow Team' looks back at historic World Cup triumph |url=https://edition.cnn.com/2018/06/08/football/france-1998-world-cup-win-anniversary/index.html |access-date=2025-01-11 |website=CNN |language=en}}</ref> Jacquet stepped down after the country's World Cup triumph and was succeeded by assistant [[Roger Lemerre]] who guided them through [[UEFA Euro 2000|Euro 2000]]. Led by [[FIFA World Player of the Year]] Zidane, France defeated Italy 2–1 in the final. [[David Trezeguet]] scored the [[golden goal]] in [[extra time]].<ref>{{Cite web |last=Murray |first=Scott |title=Golden goal, golden summer: The story of Euro 2000 |url=https://www.eurosport.com/geoblocking.shtml |access-date=2025-01-11 |website=Eurosport}}</ref> The victory gave the team the distinction of holding both the World Cup and Euro titles, a feat first achieved by West Germany in 1974; this was also the first time that a reigning World Cup winner went on to capture the Euro. Following the result, the France national team was accorded the number one spot in the [[FIFA World Rankings]]. In the following year, the team won the [[2001 FIFA Confederations Cup]].<ref>{{Cite web |title=Remembering the 2001 FIFA Confederations Cup |url=https://www.the-afc.com/en/national/fifa_confederations_cup/news/remembering_the_2001_fifa_confederations_cup.html |access-date=2025-01-11 |website=the-AFC |language=en}}</ref>
+
+[[File:Zinedine zidane wcf 2006-edit.jpg|thumb|upright|left|[[Zinedine Zidane]] captaining France at the [[2006 FIFA World Cup]]]]
+After this period of achievement, France were much less successful in subsequent tournaments, and failed to make it past the group stage at the [[2002 FIFA World Cup|2002 World Cup]]. One of the greatest shocks in World Cup history saw France defeated 1–0 by debutantes [[Senegal national football team|Senegal]] in the opening game of the tournament. France became only the second nation to be eliminated in the first round as World Cup holders, the first being Brazil in 1966. After the [[2010 FIFA World Cup|2010]], [[2014 FIFA World Cup|2014]], and [[2018 World Cup]]s, Italy, Spain, and Germany were also added to this list.<ref>{{cite news|url=https://www.independent.co.uk/sport/football/worldcup/world-cup-2014-spain-and-the-world-cup-holders-who-crashed-out-at-the-group-stage-9547351.html|access-date=18 April 2015|newspaper=The Independent|date=18 June 2014|last=Krishnan|first=Joe|title=World Cup 2014: Spain and the World Cup holders who crashed out at the group stage|archive-date=24 June 2014|archive-url=https://web.archive.org/web/20140624060542/http://www.independent.co.uk/sport/football/worldcup/world-cup-2014-spain-and-the-world-cup-holders-who-crashed-out-at-the-group-stage-9547351.html|url-status=live}}</ref><ref>{{cite news|url=https://www.skysports.com/football/news/11096/11418938/the-world-cup-champions-curse-germany-continue-remarkable-trend|title=The World Cup champions' curse: Will France continue long line of title holders from Europe to crash out in first round?|last=Smith|first=Peter|date=22 November 2022|work=Sky Sports News|access-date=11 October 2024}}</ref> After France finished bottom of the group, Lemerre was dismissed and was replaced by [[Jacques Santini]]. A full-strength team started out strongly at [[UEFA Euro 2004|Euro 2004]], but they were upset in the quarter-finals by the eventual winners [[Greece national football team|Greece]]. Santini resigned as coach and [[Raymond Domenech]] was picked as his replacement. France struggled in the early qualifiers for the [[2006 FIFA World Cup|2006 World Cup]]. This prompted Domenech to persuade several past members out of international retirement to help the national team qualify, which they accomplished following a convincing 4–0 win over [[Cyprus national football team|Cyprus]] on the final day of qualifying.
+
+In the 2006 World Cup final stages, France finished undefeated in their group and advanced to the final, defeating Spain, Brazil, and [[Portugal national football team|Portugal]] in the knockout matches. France played Italy in the [[2006 FIFA World Cup final|final]], with the match finishing 1–1 after extra time. Zinedine Zidane had given France an early lead through a [[Panenka (penalty kick)|Panenka penalty]] which hit the crossbar before bouncing past the goal line, however Italy defender [[Marco Materazzi]] equalised from a header seven minutes later. Italy ended up winning 5–3 on penalties. The match featured an incident during extra time between Zidane and Materazzi in which [[Zinedine Zidane#2006 World Cup|Zidane headbutted Materazzi]] on the chest and was sent off.<ref>{{Cite news |last=Ronay |first=Barney |date=2020-05-07 |title=World Cup questions: what did Zidane's head-butt in Berlin mean? |url=https://www.theguardian.com/football/2020/may/07/world-cup-questions-zinedine-zidane-head-butt-2006-berlin-france-italy-marco-materazzi |access-date=2025-01-11 |work=The Guardian |language=en-GB |issn=0261-3077}}</ref> This was Zidane's last appearance in a football match as he announced previously that he would retire from football after the 2006 World Cup.<ref>{{Cite web |title=History of the World Cup: 2006 – Italy does it again |url=https://www.sportsnet.ca/soccer/2006-world-cup-italy-does-it-again/ |access-date=2025-01-11 |website=Sportsnet.ca |language=en}}</ref>
+[[File:France national football team 2006.JPG|thumb|The French team in front of fans after the 2006 World Cup]]
+
+===Decline and rebuild (2007–2015)===
+France started its [[UEFA Euro 2008 qualifying Group B|qualifying round]] for [[UEFA Euro 2008|Euro 2008]] strong and qualified for the tournament, despite two defeats to [[Scotland national football team|Scotland]]. After the performance in the qualifiers, France performed poorly at the final tournament, ending in last place of their group, behind [[Netherlands national football team|Netherlands]], [[Italy national football team|Italy]] and [[Romania national football team|Romania]], obtaining just one point after a 0–0 draw with the Romanian side.<ref>{{cite web |title=Romania 0–0 France: France failed to score in their opening Euro 2008 game against Romania which could leave them with an uphill task to qualify from Group C. |url=https://news.bbc.co.uk/sport2/hi/football/euro_2008/7363325.stm |website=BBC Sport |date=9 June 2008 |access-date=12 October 2018 |archive-date=8 March 2021 |archive-url=https://web.archive.org/web/20210308021647/http://news.bbc.co.uk/sport2/hi/football/euro_2008/7363325.stm |url-status=live }}</ref><ref>{{cite news|url=https://news.bbc.co.uk/sport2/hi/football/euro_2008/7363384.stm|title=France 0–2 Italy & Netherlands 2–0 Romania|publisher=[[BBC]]|date=17 June 2008|access-date=12 October 2018|archive-date=11 December 2019|archive-url=https://web.archive.org/web/20191211232133/http://news.bbc.co.uk/sport1/hi/football/euro_2008/7363384.stm|url-status=live}}</ref> Just like the team's previous World Cup qualifying campaign, the 2010 campaign got off to a disappointing start with France suffering disastrous losses and earning uninspired victories. France eventually finished second in the group and earned a spot in the UEFA play-offs against the [[Republic of Ireland national football team|Republic of Ireland]] for a place in [[2010 FIFA World Cup|South Africa]]. In the first leg, France defeated the Irish 1–0 and in the second leg procured a 1–1 draw, via a [[2009 Republic of Ireland v France football matches|controversial act]] by France forward [[Thierry Henry]], to qualify for the [[2010 FIFA World Cup]] .<ref>{{cite news|title=Hand of Henry Sends France to South Africa|url=https://www.nytimes.com/2009/11/19/sports/soccer/19france.html|work=[[The New York Times]]|date=18 November 2009|access-date=12 October 2018|archive-date=12 October 2018|archive-url=https://web.archive.org/web/20181012054230/https://www.nytimes.com/2009/11/19/sports/soccer/19france.html|url-status=live}}</ref>
+
+At the finals in South Africa, the team continued to underperform and were eliminated in the group stage, while the negative publicity the national team received during the competition led to further repercussions back in France. Midway through the competition, [[Striker (association football)|striker]] [[Nicolas Anelka]] was dismissed from the national team after reportedly having a dispute, in which obscenities were passed, with team manager Raymond Domenech during half-time of the team's loss to [[Mexico national football team|Mexico]].<ref>{{cite news |title=Communiqué de la Fédération |url=http://fff.fr/bleus/actu/533826.shtml |work=French Football Federation |publisher=fff.fr |date=19 June 2010 |access-date=21 June 2010 |archive-url=https://web.archive.org/web/20100622040133/http://www.fff.fr/bleus/actu/533826.shtml |archive-date=22 June 2010 |url-status=dead }}</ref><ref>{{cite news |url=https://news.bbc.co.uk/sport2/hi/football/world_cup_2010/8749698.stm |title=World Cup 2010: Nicolas Anelka sent home after bust-up |work=The Guardian |location=UK |date=19 June 2010 |access-date=19 June 2010 |archive-date=28 September 2017 |archive-url=https://web.archive.org/web/20170928011007/http://news.bbc.co.uk/sport2/hi/football/world_cup_2010/8749698.stm |url-status=live }}</ref> The resulting disagreement over Anelka's expulsion between the players, the coaching staff and FFF officials resulted in the players boycotting training before their third game.<ref>{{cite news |title=French football in chaos after players' mutiny |url=https://www.google.com/hostednews/afp/article/ALeqM5jJUAsTmR7HSPud4_PSwWxUvvRcwQ |work=Agence France Press |date=20 June 2010 |access-date=21 June 2010 |archive-date=20 February 2014 |archive-url=https://web.archive.org/web/20140220055746/https://www.google.com/hostednews/afp/article/ALeqM5jJUAsTmR7HSPud4_PSwWxUvvRcwQ |url-status=dead }}</ref><ref>{{cite news |title=Brazil advances, Italy held to another WCup draw |url=https://www.google.com/hostednews/ap/article/ALeqM5gcsf1SvkjHh5TP4yYWGuVIkogLSgD9GFGVU80 |agency=Associated Press |date=20 June 2010 |access-date=21 June 2010 |archive-date=25 June 2010 |archive-url=https://web.archive.org/web/20100625142532/https://www.google.com/hostednews/ap/article/ALeqM5gcsf1SvkjHh5TP4yYWGuVIkogLSgD9GFGVU80 |url-status=dead }}</ref><ref>{{cite news |title=Communiqué de la FFF |url=http://fff.fr/bleus/actu/533838.shtml |work=French Football Federation |publisher=[[France Football Federation]] |date=20 June 2010 |access-date=21 June 2010 |archive-date=21 August 2012 |archive-url=https://web.archive.org/web/20120821235530/http://www.fff.fr/bleus/actu/533838.shtml |url-status=live }}</ref> In response to the training boycott, Sports Minister [[Roselyne Bachelot]] lectured the players and "reduced France's disgraced World Cup stars to tears with an emotional speech on the eve of their final group A match".<ref>{{Cite web|url=http://usatoday30.usatoday.com/sports/soccer/2010-06-22-3046509653_x.htm|title=Bachelot reduces French World Cup players to tears - USATODAY.com|website=usatoday30.usatoday.com|access-date=2 April 2014|archive-date=7 April 2014|archive-url=https://web.archive.org/web/20140407082124/http://usatoday30.usatoday.com/sports/soccer/2010-06-22-3046509653_x.htm|url-status=live}}</ref> France then lost their final game 2–1 to hosts [[South Africa national football team|South Africa]] and failed to advance to the knockout stage.<ref>{{cite news |url=https://news.bbc.co.uk/sport2/hi/football/world_cup_2010/matches/match_34/default.stm |title=France 1–2 South Africa |author=Chris Bevan |publisher=BBC Sport |date=22 June 2010 |access-date=18 September 2023 |archive-date=25 June 2010 |archive-url=https://web.archive.org/web/20100625153841/http://news.bbc.co.uk/sport2/hi/football/world_cup_2010/matches/match_34/default.stm |url-status=live }}</ref> The day after the team's elimination, it was reported by numerous media outlets that then [[President of France]] [[Nicolas Sarkozy]] would meet with team captain [[Thierry Henry]] to discuss the issues associated with the team's meltdown at the World Cup, at Henry's request.<ref>{{cite news |url=https://www.theguardian.com/world/2010/jun/23/sarkozy-henry-meeting-world-cup-fiasco |author=Kim Willsher |work=The Guardian |location=UK |title=Sarkozy to quiz Thierry Henry over French World Cup fiasco |date=23 June 2010 |access-date=11 December 2016 |archive-date=2 February 2017 |archive-url=https://web.archive.org/web/20170202171742/https://www.theguardian.com/world/2010/jun/23/sarkozy-henry-meeting-world-cup-fiasco |url-status=live }}</ref> Following the completion of the World Cup tournament, Federation President [[Jean-Pierre Escalettes]] resigned from his position.<ref>{{cite news |url=https://www.reuters.com/article/idINIndia-49715820100628 |title=French soccer chief resigns after fiasco |author=Patrick Vignal |publisher=Reuters |date=28 June 2010 |access-date=18 September 2023 |archive-date=20 September 2023 |archive-url=https://web.archive.org/web/20230920222643/https://www.reuters.com/article/idINIndia-49715820100628 |url-status=live }}</ref>
+
+Domenech, whose contract had expired, was succeeded as head coach by former international [[Laurent Blanc]].<ref>{{cite news |url=https://news.bbc.co.uk/sport2/hi/football/world_cup_2010/8685345.stm |title=Laurent Blanc appointed new manager of France |publisher=BBC Sport |date=2 July 2010 |access-date=18 September 2023 |archive-date=30 May 2023 |archive-url=https://web.archive.org/web/20230530113224/http://news.bbc.co.uk/sport1/hi/football/world_cup_2010/8685345.stm |url-status=live }}</ref> On 23 July 2010, at the request of Blanc, the FFF suspended all 23 players in the World Cup squad for the team's friendly match against [[Norway national football team|Norway]] after the World Cup.<ref>{{cite news |url=https://news.bbc.co.uk/sport2/hi/football/8849972.stm |title=France World Cup squad suspended for Norway friendly |work=BBC Sport |date=23 July 2010 |access-date=24 July 2010 |archive-date=23 July 2010 |archive-url=https://web.archive.org/web/20100723190412/http://news.bbc.co.uk/sport1/hi/football/8849972.stm |url-status=live }}</ref> On 6 August, five players who were deemed to have played a major role in the training boycott were disciplined for their roles, and Nicolas Anelka also received an 18-match ban, effectively ending the forward's international career.<ref name="BBC18Aug2010AnelkaLaughs">{{cite news|url=https://news.bbc.co.uk/sport2/hi/football/8893705.stm|title=Nicolas Anelka laughs at 'nonsense' 18-match French ban|publisher=BBC Sport|date=18 August 2010|access-date=18 August 2010|archive-date=31 July 2017|archive-url=https://web.archive.org/web/20170731045149/http://news.bbc.co.uk/sport1/hi/football/8893705.stm|url-status=live}}</ref><ref name="Guardian17Aug2010AnelkaSuspended">{{cite news|url=https://www.theguardian.com/football/2010/aug/17/nicolas-anelka-banned-for-18-matches-france|title=Nicolas Anelka suspended for 18 matches by France over World Cup revolt|work=The Guardian|location=UK|date=17 August 2010|access-date=18 August 2010|first=Lizzy|last=Davies|archive-date=18 August 2011|archive-url=https://web.archive.org/web/20110818103452/http://www.guardian.co.uk/football/2010/aug/17/nicolas-anelka-banned-for-18-matches-france|url-status=live}}</ref>
+
+At [[UEFA Euro 2012|Euro 2012]] in Poland and Ukraine, France reached the quarter-finals, where they were beaten by eventual champions Spain.<ref>{{Cite web|url=https://www.uefa.com/uefaeuro/season=2012/standings/round=15172/group=700967/index.html|title=UEFA EURO 2012 - History - Standings |website=[[UEFA]]|language=en|access-date=12 July 2018|archive-date=12 July 2018|archive-url=https://web.archive.org/web/20180712155231/https://www.uefa.com/uefaeuro/season=2012/standings/round=15172/group=700967/index.html|url-status=dead}}</ref><ref>{{Cite news|url=https://www.bbc.com/sport/football/18355234|title=Spain 2–0 France|date=23 June 2012|work=BBC Sport|access-date=12 July 2018|language=en-GB|archive-date=2 February 2017|archive-url=https://web.archive.org/web/20170202202339/http://www.bbc.com/sport/football/18355234|url-status=live}}</ref> Following the tournament, coach Laurent Blanc resigned and was succeeded by [[Didier Deschamps]], who captained France to glory in the 1998 World Cup and Euro 2000.<ref>{{Cite news|url=https://www.bbc.com/sport/football/18764322|title=Didier Deschamps appointed new France manager|date=8 July 2012|work=BBC Sport|access-date=12 July 2018|language=en-GB|archive-date=20 July 2018|archive-url=https://web.archive.org/web/20180720182008/https://www.bbc.com/sport/football/18764322|url-status=live}}</ref><ref>{{Cite news|url=https://edition.cnn.com/2012/07/08/sport/football/football-france-deschamps-blanc/index.html|title=Deschamps appointed France coach |work=CNN|access-date=12 July 2018|archive-date=12 July 2018|archive-url=https://web.archive.org/web/20180712153849/https://edition.cnn.com/2012/07/08/sport/football/football-france-deschamps-blanc/index.html|url-status=live}}</ref> His team qualified for the [[2014 FIFA World Cup|2014 World Cup]] by beating Ukraine in the play-offs.<ref>{{Cite news|url=https://www.bbc.com/sport/football/24907601|title=France 3–0 Ukraine (agg 3–2)|date=19 November 2013|work=BBC Sport|access-date=12 July 2018|language=en-GB|archive-date=20 July 2018|archive-url=https://web.archive.org/web/20180720222144/https://www.bbc.com/sport/football/24907601|url-status=live}}</ref> At the 2014 World Cup, France lost to eventual champions Germany in the quarter-finals courtesy of an early goal by [[Mats Hummels]].<ref>{{Cite web|url=https://www.theguardian.com/football/2014/jul/04/france-germany-world-cup-2014-quarter-final-match-report|title=France 0–1 Germany: World Cup quarter-final match report|last=Hytner|first=David|date=4 July 2014|website=the Guardian|language=en|access-date=12 July 2018|archive-date=28 February 2021|archive-url=https://web.archive.org/web/20210228104641/https://www.theguardian.com/football/2014/jul/04/france-germany-world-cup-2014-quarter-final-match-report|url-status=live}}</ref>
+
+===Renewed success (2016–present)===
+France automatically qualified as hosts for [[UEFA Euro 2016]],<ref>{{Cite web|url=https://www.uefa.com/insideuefa/news/newsid=1493384.html?redirectFromOrg=true|title=France chosen to host EURO 2016|website=[[UEFA]]|language=en|access-date=12 July 2018|archive-date=15 July 2018|archive-url=https://web.archive.org/web/20180715011748/https://www.uefa.com/insideuefa/news/newsid=1493384.html?redirectFromOrg=true|url-status=dead}}</ref> advancing to the knockout stages, where they defeated the Republic of Ireland and Iceland.<ref>{{cite web |url=https://www.rsssf.org/tables/2016e.html#3rd |title=European Championship 2016 |author=Karel Stokkermans |publisher=RSSSF |access-date=17 September 2023 |archive-date=12 June 2021 |archive-url=https://web.archive.org/web/20210612002331/http://www.rsssf.com/tables/2016e.html#3rd |url-status=live }}</ref> In the semi-final, France defeated Germany 2–0, marking their first win over Germany at a major tournament since [[1958 FIFA World Cup#Third place play-off|1958]].<ref>{{Cite news|url=http://www.skysports.com/football/germany-vs-france/353106|title=Germany 0–2 France: Antoine Griezmann's double sees Didier Deschamps' side into Euro 2016 final|work=Sky Sports|access-date=12 July 2018|language=en|archive-date=12 July 2018|archive-url=https://web.archive.org/web/20180712155527/http://www.skysports.com/football/germany-vs-france/353106|url-status=live}}</ref><ref>{{Cite news|url=https://www.theguardian.com/football/live/2016/jul/07/germany-france-euro-2016-semi-final-live|title=Germany 0–2 France: Euro 2016 semi-final – as it happened|last=Bakowski|first=Gregg|date=7 July 2016|work=The Guardian|access-date=12 July 2018|language=en-GB|issn=0261-3077|archive-date=12 July 2018|archive-url=https://web.archive.org/web/20180712184313/https://www.theguardian.com/football/live/2016/jul/07/germany-france-euro-2016-semi-final-live|url-status=live}}</ref> France, however, were beaten by [[Portugal national football team|Portugal]] 1–0 in the [[UEFA Euro 2016 Final|final]] courtesy of an extra-time goal by [[Eder (Portuguese footballer)|Eder]].<ref>{{Cite news |last=Smyth |first=Rob |date=2016-07-10 |title=Portugal 1-0 France: Euro 2016 final – as it happened |url=https://www.theguardian.com/football/live/2016/jul/10/portugal-v-france-euro-2016-final-live |access-date=2025-01-11 |work=the Guardian |language=en-GB |issn=0261-3077}}</ref>
+
+{{football squad on pitch|align = right
+| GK      = <big>'''1'''</big><br>[[Hugo Lloris|'''Lloris''']]  ([[Captain (association football)|c]])
+| RB      = <big>'''2'''</big><br>[[Benjamin Pavard|'''Pavard''']]
+| RCB     = <big>'''4'''</big><br>[[Raphaël Varane|'''Varane''']]
+| LCB     = <big>'''5'''</big><br>[[Samuel Umtiti|'''Umtiti''']]
+| LB      = <big>'''21'''</big><br>[[Lucas Hernandez|'''Hernandez''']]
+| RDM     = <big>'''6'''</big><br>[[Paul Pogba|'''Pogba''']]
+| LDM     = <big>'''13'''</big><br>[[N'Golo Kanté|'''Kanté''']]
+| RW      = <big>'''10'''</big><br>[[Kylian Mbappé|'''Mbappé''']]
+| LW      = <big>'''14'''</big><br>[[Blaise Matuidi|'''Matuidi''']]
+| AM      = <big>'''7'''</big><br>[[Antoine Griezmann|'''Griezmann''']]
+| CF      = <big>'''9'''</big><br>[[Olivier Giroud|'''Giroud''']]
+| caption = France starting line-up against [[Croatia national football team|Croatia]] at the [[2018 FIFA World Cup final]], a match they won 4–2
+}}
+
+At the [[2018 FIFA World Cup|2018 World Cup]], France finished on top of their group to advance to the [[2018 FIFA World Cup knockout stage#France vs Argentina|round of 16]].<ref name="rsssf2018">{{cite news |url=https://www.rsssf.org/tables/2018f.html |title=World Cup 2018 |author=Rarel Stokkermans |website=RSSSF |access-date=17 September 2023 |archive-date=30 June 2020 |archive-url=https://web.archive.org/web/20200630070249/http://rsssf.com/tables/2018f.html |url-status=live }}</ref> They subsequently defeated [[Argentina national football team|Argentina]] 4–3 in a thrilling match and then [[Uruguay national football team|Uruguay]] [[2018 FIFA World Cup knockout stage#Uruguay vs France|2–0]] to qualify for the [[2018 FIFA World Cup knockout stage#France vs Belgium|semi-final stage]], where they beat [[Belgium national football team|Belgium]] 1–0 courtesy of a goal from defender [[Samuel Umtiti]].<ref name="rsssf2018"/><ref>{{cite web |url=https://www.rsssf.org/tables/2018full.html |title=World Cup 2018 Match details |author=Neil Morrison |publisher=RSSSF |access-date=17 September 2023 |archive-date=3 June 2023 |archive-url=https://web.archive.org/web/20230603000821/https://www.rsssf.org/tables/2018full.html |url-status=live }}</ref> On 15 July, France beat [[Croatia national football team|Croatia]] in the [[2018 FIFA World Cup Final|final]] 4–2 to win the World Cup for the second time.<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/44754965 |title=World Cup 2018: France beat Croatia 4–2 in World Cup final |author=Phil McNulty |publisher=BBC Sport |date=15 July 2018 |access-date=17 September 2023 |archive-date=25 March 2019 |archive-url=https://web.archive.org/web/20190325011256/https://www.bbc.co.uk/sport/football/44754965 |url-status=live }}</ref>
+
+[[UEFA Euro 2020]] was postponed until 2021 due to the [[COVID-19 pandemic]].<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/51909518 |title=Euro 2020 postponed until next summer |publisher=BBC Sport |date=18 March 2020 |access-date=17 September 2023 |archive-date=21 March 2020 |archive-url=https://web.archive.org/web/20200321112316/https://www.bbc.co.uk/sport/football/51909518 |url-status=live }}</ref> At Euro 2020, France finished top of a group containing Germany, Portugal and Hungary,<ref name="RSSSF2020">{{cite web |url=https://www.rsssf.org/tables/2020e.html#grpj |title=European Championship 2021 |publisher=RSSSF |access-date=17 September 2023 |archive-date=13 November 2022 |archive-url=https://web.archive.org/web/20221113210319/https://www.rsssf.org/tables/2020e.html#grpj |url-status=live }}</ref> which was described by pundits as the "group of death".<ref>{{cite news |url=https://theweek.com/952982/euro-2020-group-f-results-final-table |title=Euro 2020 group F: results and final table |publisher=The Week |date=24 June 2021 |access-date=17 September 2023 |archive-date=20 September 2023 |archive-url=https://web.archive.org/web/20230920222643/https://theweek.com/952982/euro-2020-group-f-results-final-table |url-status=live }}</ref> However, they were eliminated by Switzerland in the round of 16.<ref name="RSSSF2020"/> The Swiss had held France to a 3–3 draw in normal time before winning on penalties.<ref name="RSSSF2020"/> France would go on to win the [[2020–21 UEFA Nations League|2020–21 edition]] of the [[UEFA Nations League]], after winning advancement to the final tournament from a group consisting of inaugural champions Portugal. France defeated [[Spain national football team|Spain]] 2–1 in the [[2021 UEFA Nations League final|final]] for their first title.<ref>{{Cite news |date=2021-10-11 |title=France fights back to win Nations League with late goal from Mbappe |url=https://www.abc.net.au/news/2021-10-11/france-wins-uefa-nations-league-over-spain/100530124 |access-date=2025-01-11 |work=ABC News |language=en-AU}}</ref>
+
+At the [[2022 FIFA World Cup]], France looked to defend their title in Qatar.<ref>{{cite news |url=https://www.aljazeera.com/sports/2022/11/19/qatar-world-cup-2022-team-preview-france |title=Can France defend their World Cup title in Qatar? |author=Nils Adler |publisher=AlJazeera |date=19 November 2022 |access-date=17 September 2023 |archive-date=13 June 2023 |archive-url=https://web.archive.org/web/20230613143506/https://www.aljazeera.com/sports/2022/11/19/qatar-world-cup-2022-team-preview-france |url-status=live }}</ref> After finishing top of their group, France did manage to reach a second successive World Cup final, defeating Poland, England and Morocco in the knockout stages.<ref>{{cite web |url=https://rsssf.org/tables/2022f.html |title=World Cup 2022 |author=Roberto Di Maggi |publisher=RSSSF |access-date=17 September 2023 |archive-date=5 June 2023 |archive-url=https://web.archive.org/web/20230605063321/https://www.rsssf.org/tables/2022f.html |url-status=live }}</ref> However, they were defeated on penalties by Argentina after a thrilling 3–3 draw.<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/63932622 |title=World Cup final: Argentina beat France on penalties in dramatic final |author=Phil McNulty |publisher=BBC Sport |date=18 December 2022 |access-date=17 September 2023 |archive-date=28 December 2022 |archive-url=https://web.archive.org/web/20221228151929/https://www.bbc.co.uk/sport/football/63932622 |url-status=live }}</ref>
+
+France qualified for [[UEFA Euro 2024]] in Germany, where they finished second in the [[UEFA Euro 2024 Group D|group stage]] following a victory over [[Austria national football team|Austria]] 1–0 and two draws against [[Netherlands national football team|Netherlands]] (0–0) and [[Poland national football team|Poland]] (1–1), therefore advancing to the knockout stage. They defeated Belgium 1–0 in the [[UEFA Euro 2024#Round of 16|round of 16]] and later advanced to the semi-finals after defeating Portugal in penalties following a 0–0 draw. France were later defeated by Spain 2–1 in the semi-finals,<ref>{{Cite web |date=2024-07-09 |title=France crash out of Euro 2024, Spain goes through to final |url=https://www.france24.com/en/live-news/20240709-%F0%9F%94%B4-france-crash-out-of-euro-2024-spain-goes-through-to-final |access-date=2024-07-10 |website=France 24 |language=en}}</ref> with this becoming their first defeat in regular time since losing to Germany at the 2014 World Cup.<ref>{{Cite web |date=2024-07-10 |title=Espagne-France : cela faisait dix ans que les Bleus n'avaient pas été éliminés dans le temps réglementaire |url=https://www.lefigaro.fr/sports/football/euro/espagne-france-cela-faisait-dix-ans-que-les-bleus-n-avaient-pas-ete-elimines-dans-le-temps-reglementaire-20240710 |access-date=2024-07-10 |website=Le Figaro |language=fr}}</ref>
+
+In 2025, [[Didier Deschamps]] confirmed he will leave when his contract expires after the [[2026 FIFA World Cup|2026 World Cup]] in [[North America]].<ref>{{Cite news |date=2025-01-08 |title=Didier Deschamps to leave as France coach after 2026 World Cup |url=https://www.theguardian.com/football/2025/jan/08/didier-deschamps-leave-job-france-coach-after-2026-world-cup#:~:text=Didier%20Deschamps%20to%20leave%20as%20France%20coach%20after%202026%20World%20Cup,-Deschamps%20in%20charge&text=France's%20coach,%20Didier%20Deschamps,%20has,will%20be%20time%20to%20stop. |access-date=2025-01-12 |work=The Guardian |language=en-GB |issn=0261-3077}}</ref> At the tournament, France opened group play with a 3–1 victory over [[Senegal national football team|Senegal]].<ref>{{Cite web |title=France vs. Senegal - Final Score - June 16, 2026 |url=https://www.foxsports.com/soccer/fifa-world-cup-men-france-vs-senegal-jun-16-2026-game-boxscore-647633 |access-date=2026-06-19 |website=www.foxsports.com |language=en-US}}</ref> During the match, [[Kylian Mbappé]] scored two goals to reach a career total of 58 international goals, surpassing [[Olivier Giroud]] to become the all-time leading goalscorer in the history of the France national team.<ref>{{Cite web |last=Gittins |first=William |date=2026-06-16 |title=Kylian Mbappé breaks France scoring record: How many goals has Mbappé scored? |url=https://en.as.com/soccer/kylian-mbappe-breaks-france-scoring-record-how-many-goals-has-mbappe-scored-f202606-n/ |access-date=2026-06-19 |website=AS USA |language=en-us}}</ref>
+
+==Home stadium==
+{{main|Stade de France|Parc des Princes|INF Clairefontaine}}
+During France's early years, the team's [[national stadium]] alternated between the [[Parc des Princes]] in Paris and the [[Stade Olympique Yves-du-Manoir]] in [[Colombes]]. France also hosted matches at the [[Stade Pershing]], [[Stade de Paris]], and the [[Vélodrome Buffalo and Stade Buffalo|Stade Buffalo]], but to a minimal degree. As time passed, France began hosting matches outside the city of Paris at such venues as the [[Stade Marcel Saupin]] in [[Nantes]], the [[Stade Vélodrome]] in [[Marseille]], the [[Stade de Gerland]] in [[Lyon]], and the [[Stade de la Meinau]] in [[Strasbourg]].
+[[File:StadeFranceNationsLeague2018.jpg|thumb|[[Stade de France]]]]
+Following the renovation of the Parc des Princes in 1972, which gave the stadium the largest capacity in Paris, France moved into the venue permanently. The team still hosted [[Exhibition match|friendly matches]] and minor World Cup and UEFA Euro qualification matches at other venues. France have played home matches in a French overseas department twice&nbsp;– in 2005 against [[Costa Rica national football team|Costa Rica]] in [[Fort-de-France]] ([[Martinique]]) and in 2010 against [[China national football team|China]] in [[Saint-Pierre, Réunion|Saint Pierre]] ([[Réunion]]). Both matches were friendlies.
+
+In 1998, the [[Stade de France]] was inaugurated as France's national stadium ahead of the 1998 World Cup. Located in [[Saint-Denis, Seine-Saint-Denis|Saint-Denis]], a Parisian suburb, the stadium has an all-seater capacity of 81,338. France's first match at the stadium was played on 28 January 1998 against Spain. France won the match 1–0, with Zinedine Zidane scoring the goal. Since that match, France has used the stadium for almost every major home game, including the [[1998 FIFA World Cup Final|1998 World Cup final]].
+
+Prior to matches, home or away, the national team trains at the [[INF Clairefontaine]] academy in [[Clairefontaine-en-Yvelines]]. Clairefontaine is the national association football centre and is among 12 élite academies throughout the country. The centre was inaugurated in 1976 by former FFF president [[Fernand Sastre]] and opened in 1988. The center drew media spotlight following its usage as a base camp by the team that won the 1998 World Cup.
+
+In the 20th and 23rd minute of an international friendly on 13 November 2015, against Germany, [[November 2015 Paris attacks|three groups of terrorists]] attempted to detonate bomb vests, at three entrances of Stade de France, and two explosions occurred. Play would continue, until the 94th minute, in order to keep the crowd from panicking. Consequently, the stadium was evacuated through the unaffected gates of the stadium away from the players benches. Due to the blocked exits, spectators who could not leave the stadium had to go down to the pitch and wait until it was safer. As a result of the attacks, both teams would remain in the stadium until the day after.<ref>{{Cite news |last=Hills |first=David |date=2015-11-14 |title=France players praised for staying with Germany team in Stade de France |language=en-GB |work=The Observer |url=https://www.theguardian.com/football/2015/nov/14/france-players-praised-outstanding-camaraderie-germany-terrorist-attacks-paris |access-date=2023-07-14 |issn=0029-7712 |archive-date=25 April 2023 |archive-url=https://web.archive.org/web/20230425054742/https://www.theguardian.com/football/2015/nov/14/france-players-praised-outstanding-camaraderie-germany-terrorist-attacks-paris |url-status=live }}</ref>
+
+==Team image==
+===Media coverage===
+The national team has a broadcasting agreement with [[TF1 Group]], who the Federal Council of the FFF agreed to extend its exclusive broadcasting agreement with the channel. The new deal grants the channel exclusive broadcast rights for the matches of national team, which include [[Exhibition match|friendlies]] and international games for the next four seasons beginning in August 2010 and ending in June 2014. TF1 will also have extended rights, notably on the Internet, and may also broadcast images of the national team in its weekly program, [[Téléfoot]].<ref>{{cite web|url=http://www.investegate.co.uk/Article.aspx?id=20091218082130P0007|title=TF1, diffuseur exclusif des matches de l'Equi...|work=Investegate|date=18 December 2009|access-date=4 June 2010|archive-date=27 April 2011|archive-url=https://web.archive.org/web/20110427053023/http://www.investegate.co.uk/Article.aspx?id=20091218082130P0007|url-status=live}}</ref> The FFF will receive €45&nbsp;million a season, a €10&nbsp;million decrease from the €55&nbsp;million they received from the previous agreement reached in 2006.<ref>{{cite web |url=http://www.sport24.com/football/equipe-de-france/fil-info/tf1-garde-les-bleus-335350/ |title=TF1 restera le diffuseur de l'équipe de France de football entre 2010 et 2014. |work=Sport24 |date=18 December 2009 |access-date=4 June 2010 |archive-date=6 April 2012 |archive-url=https://web.archive.org/web/20120406201328/http://www.sport24.com/football/equipe-de-france/fil-info/tf1-garde-les-bleus-335350/ |url-status=live }}</ref>
+
+After France won their second World Cup in [[2018 FIFA World Cup|2018]], [[M6 (France)|M6]] together with [[TF1]] broadcast all international fixtures featuring France respectively until 2022.<ref>{{Cite news|url=https://www.lequipe.fr/Medias/Actualites/Tf1-confirme-le-partage-des-bleus-avec-m6/837463|title=TF1 confirme le partage des Bleus avec M6|author=Sacha Nokovitch|work=L'ÉQUIPE|access-date=20 October 2018|language=fr-FR|archive-date=20 October 2018|archive-url=https://web.archive.org/web/20181020140705/https://www.lequipe.fr/Medias/Actualites/Tf1-confirme-le-partage-des-bleus-avec-m6/837463|url-status=live}}</ref>
+{{Col-start}}
+{{Col-2}}
+====Friendlies and qualifiers====
+{| class="wikitable" style="text-align: left"
+|-
+! Television channel
+! Period
+|-
+|[[Office de Radiodiffusion Télévision Française|ORTF]]
+| 1954–1974
+|-
+|[[France 2|Antenne 2]]
+| 1975–1984
+|-
+|[[TF1]]
+| 1984–2026
+|-
+| [[M6 (TV channel)|M6]]
+| 2009–2022
+|-
+|[[TMC (TV channel)|TMC]] (friendly match only)
+|2018–2022
+|-
+|[[L'Équipe (TV channel)|L'Équipe]] (UEFA Nations League match on rebroadcast)
+|2018–2023
+|}
+
+====Finals tournament====
+{| class="wikitable" style="text-align: left"
+|-
+! Television channel
+! Period
+|-
+!colspan=2|FIFA World Cup
+|-
+|[[Office de Radiodiffusion Télévision Française|ORTF]]
+| 1954, 1958, 1966
+|-
+|[[TF1]]
+| 1978–1986, 1998–2022
+|-
+|[[France Télévisions]]
+| 1978–1986 ([[Antenne 2]]), 1998
+|-
+|[[M6 (TV channel)|M6]]
+| 2026
+|-
+!colspan=2|UEFA European Championship
+|-
+|[[Office de Radiodiffusion Télévision Française|ORTF]]
+| 1960
+|-
+|[[TF1]]
+| 1984, 1992–2024
+|-
+|[[France Télévisions]]
+| 1984, 1992 ([[Antenne 2]]), 1996–2004
+|-
+|[[M6 (TV channel)|M6]]
+| 2008–2024
+|}
+{{col-end}}
+
+===Kits and crest===
+[[File:France football 1900.jpg|thumb|USFSA team that represented France at the 1900 Summer Olympics, wearing a white shirt with the rings emblem. That shirt was also worn in the first international v Belgium in 1904.]]
+The France national team utilizes a three colour system composed of blue, white, and red. The team's three colours originate from the [[Flag of France|national flag of France]], known as the ''tricolore''. Nevertheless, the first France shirt (as seen in their first official international match against [[Belgium national football team|Belgium]] in 1904) was white, with the two interlinked rings emblem of [[Union des Sociétés Françaises de Sports Athlétiques|USFSA]] –the body that controlled sport in France by then– on the left.<ref name="quipe2003">"Née le 1er mai 1904" on ''[[L'Équipe]]'', 23 December 2003, page 7</ref><ref name="league">[https://www.rsssf.org/tablesf/franchamp.html Origins of the French League] {{Webarchive|url=https://web.archive.org/web/20170725210524/http://www.rsssf.com/tablesf/franchamp.html |date=25 July 2017 }} by François Mazet and Frédéric Pauron on the RSSSF</ref>{{Commons|France national football team kits}}France normally wear blue shirts, white shorts, and red socks at home, while, when on the road, the team utilizes an all-white combination or white shirts and socks with blue shorts. Between 1909 and 1914, France wore a white shirt with blue stripes, white shorts, and red socks. In a 1978 World Cup match against [[Hungary national football team|Hungary]] in [[Mar del Plata]], both teams arrived at [[Estadio José María Minella]] with white kits, so France played in green-and-white striped shirts borrowed from [[Club Atlético Kimberley]].<ref>{{cite news|url=https://www.theguardian.com/sport/blog/2010/may/21/joy-of-six-world-cup|title=The Joy of Six: Things we miss about the World Cup|last=Murray|first=Scott|date=21 May 2010|work=The Guardian|location=UK|access-date=21 May 2010|archive-date=14 January 2014|archive-url=https://web.archive.org/web/20140114144347/http://www.theguardian.com/sport/blog/2010/may/21/joy-of-six-world-cup|url-status=live}}</ref>
+
+[[File:Zidane-France-2006-home-shirt.jpg|thumb|left|150px|France's [[Zinedine Zidane]] number 10 home shirt, as made by [[Adidas]]]]
+Beginning in 1966, France had its shirts made by [[Le Coq Sportif]] until 1971. In 1972, France reached an agreement with German sports apparel manufacturer [[Adidas]] to be the team's [[Kit (football)|kit]] provider. Over the next 38 years, the two would maintain a healthy relationship with France winning Euro 1984, the 1998 World Cup and Euro 2000 while wearing Adidas' famous tricolour three stripes. During the 2006 World Cup, France wore an all-white change strip in all four of its [[2006 FIFA World Cup knockout stage|knockout matches]], including [[2006 FIFA World Cup Final|the final]].<ref>{{Cite news|url=http://www.historicalkits.co.uk/international/tournaments/fifa-world-cup/2006/2006-knock-out-stages.html|title=FIFA World Cup 2006 Knock Out Stages|access-date=19 April 2013|publisher=Historical Football Kits|archive-date=20 April 2013|archive-url=https://web.archive.org/web/20130420083242/http://historicalkits.co.uk/international/tournaments/fifa-world-cup/2006/2006-knock-out-stages.html|url-status=live}}</ref> On 22 February 2008, the FFF announced that they were ending their partnership with Adidas and signing with [[Nike, Inc.|Nike]], effective 1 January 2011. The deal was valued at €320&nbsp;million over seven years (1 January 2011&nbsp;– 9 July 2018), making France's blue shirt the most expensive sponsorship in the history of football.<ref>{{cite web |url=https://www.lequipe.fr/Football/breves2008/20080222_130219Dev.html |title=Nike prochain équipementier |work=L'Equipe |date=22 February 2008 |access-date=4 June 2010 |url-status=dead |archive-url=https://web.archive.org/web/20100221040225/http://www.lequipe.fr/Football/breves2008/20080222_130219Dev.html |archive-date=21 February 2010 }}</ref><ref>{{cite web|url=http://soccerlens.com/you-are-all-invited-to-the-france-nike-wedding-the-couple-is-registered-for-e320m/6036/|title=You Are All Invited to the France-Nike Wedding, the Couple is Registered for €320m|work=Soccer Lens|date=22 February 2008|access-date=4 June 2010|archive-date=25 March 2010|archive-url=https://web.archive.org/web/20100325231738/http://soccerlens.com/you-are-all-invited-to-the-france-nike-wedding-the-couple-is-registered-for-e320m/6036/|url-status=live}}</ref>
+
+[[File:Maillots de la France à l'Euro 2016.jpg|thumb|right|250px|[[Nike, Inc.|Nike]]-made France merchandise on display for [[UEFA Euro 2016]]]]
+The first France kit worn in a major tournament produced by Nike was the Euro 2012 strip, which was all dark blue and used gold as an accent colour.<ref>{{cite news|url=http://www.historicalkits.co.uk/international/tournaments/euro-2012/euro-2012-main-page.html|title=2012 UEFA European Football Championship|access-date=19 April 2013|publisher=Historical Football Kits|archive-date=12 July 2021|archive-url=https://web.archive.org/web/20210712135914/http://www.historicalkits.co.uk/international/tournaments/euro-2012/euro-2012-main-page.html|url-status=live}}</ref> In February 2013, Nike revealed an all [[baby blue]] change strip.
+
+In advance of France's hosting of Euro 2016, Nike unveiled a new, unconventional kit set: blue shirts and shorts with red socks at home, white shirts and shorts and with blue socks away. The away shirt as worn in pre-Euro friendlies and released to the public also featured one blue sleeve and one red sleeve in reference to the "tricolore". However, due to UEFA regulations, France was forced to wear a modified version with the sleeve colours almost desaturated in their Euro 2016 group stage game against Switzerland, which continued to be worn during [[2018 FIFA World Cup qualification – UEFA Group A|2018 World Cup qualifying]].<ref>{{cite web|url=http://www.footyheadlines.com/2016/06/france-debuts-new-away-kit-switzerland.html|title=France Back in Infamous Euro 2016 Away Kit vs Netherlands|publisher=Footy Headlines|date=10 October 2016|access-date=22 December 2016|archive-date=9 January 2017|archive-url=https://web.archive.org/web/20170109035147/http://www.footyheadlines.com/2016/06/france-debuts-new-away-kit-switzerland.html|url-status=live}}</ref>
+
+====Kit sponsorship====
+{| class="wikitable" style="text-align: left"
+|-
+! Kit supplier
+! Period
+! Notes
+|-
+|{{flagicon|FRA|1830}} Williams & Cie
+|1908{{ndash}}1919<ref>[https://www.chroniquesbleues.fr/une-histoire-des-equipementiers-des-Bleus]</ref>
+|-
+|{{flagicon|FRA|1830}} Ducim
+|1921{{ndash}}1919<ref>[https://www.chroniquesbleues.fr/une-histoire-des-equipementiers-des-Bleus]</ref>
+|-
+|{{flagicon|FRA|1830}} Allen Sport
+|1923{{ndash}}1966<ref>[https://www.chroniquesbleues.fr/une-histoire-des-equipementiers-des-Bleus]</ref><ref>{{cite web |url=http://catalogue.gazette-drouot.com/pdf/355/79044/cataloguevente8juilletmaillotsfootball.pdf?id=79044&cp=355 |title=Collection de Maillots de L'Equipe de France de Football de 1950 à 2003 |website=La Gazette Drouot |language=fr |date=8 July 2016 |archive-url=https://web.archive.org/web/20210713010059/http://catalogue.gazette-drouot.com/pdf/355/79044/cataloguevente8juilletmaillotsfootball.pdf?id=79044&cp=355 |archive-date=13 July 2021 |url-status=live }}</ref><ref>{{Cite web|url=https://futbolasta.com/bids/bidplace?itemid=1402|title=The Football Gallery LLC.|website=futbolasta.com|access-date=10 March 2021|archive-date=14 June 2021|archive-url=https://web.archive.org/web/20210614091409/https://futbolasta.com/bids/bidplace?itemid=1402|url-status=dead}}</ref>
+|
+|-
+|{{flagicon|FRA|1830}} [[Le Coq Sportif]]
+| 1966–1971
+|
+|-
+|{{flagicon|GER}} [[Adidas]]
+| 1972–2010
+|
+|-
+|{{flagicon|USA}} [[Nike, Inc.|Nike]]
+| 2011–present
+|
+|}
+
+====Kit deals====
+{| class="wikitable" style="text-align:left;"
+|-
+! Kit supplier
+! Period
+! Contract<br />announcement
+! Contract<br />duration
+! Value
+! Notes
+|-
+| rowspan=2| {{flagicon|USA}} [[Nike, Inc.|Nike]]
+| rowspan=2| 2011–present
+| {{center| 22 February 2008}}
+| 2011–2018 (7 years)
+| Total [[Euro|€]]340.8 million<br/>([[Euro|€]]42.6 million per year)<ref>{{Cite web|url=https://www.liberation.fr/sports/2008/02/22/nike-nouveau-sponsor-des-bleus_20298/|title=Nike, nouveau sponsor des Bleus|agency=AFP)|website=Libération|access-date=4 March 2021|archive-date=13 June 2021|archive-url=https://web.archive.org/web/20210613053155/https://www.liberation.fr/sports/2008/02/22/nike-nouveau-sponsor-des-bleus_20298/|url-status=live}}</ref>
+| 
+|-
+| {{center| 8 December 2016}}
+| 2018–2026 (8 years)
+| Total [[Euro|€]]450 million<br/>([[Euro|€]]50 million per year)<ref>{{Cite web|url=https://us.fashionnetwork.com/news/Nike-extends-kit-sponsorship-of-france-national-football-team-in-record-deal,762704.html|title=Nike extends kit sponsorship of France national football team in record deal|website=Fashion Network|date=9 December 2016 |access-date=4 March 2021|archive-date=16 November 2020|archive-url=https://web.archive.org/web/20201116161705/https://us.fashionnetwork.com/news/Nike-extends-kit-sponsorship-of-france-national-football-team-in-record-deal,762704.html|url-status=live}}</ref>
+| 
+|}
+
+===Nickname===
+France is often referred to by the media and supporters as ''Les Bleus'' (The Blues), which is the nickname associated with all of France's international sporting teams due to the blue shirts each team incorporates. The team is also referred to as ''Les Tricolores'' or ''L'Equipe Tricolore'' (The Tri-color Team) due to the team's utilization of the country's national colors: blue, white, and red. During the 1980s, France earned the nickname the ''"Brazilians of Europe"'' mainly due to the accolades of the ''"carré magique"'' ("Magic Square"), who were anchored by [[Michel Platini]]. Led by coach [[Michel Hidalgo]], France exhibited an inspiring, elegant, skillful and technically advanced offensive style of football, which was strikingly similar to their [[Brazil national football team|South American counterparts]].<ref>{{cite web |url=http://fourfourtwo.com/interviews/one-on-one/147/article.aspx |title=One-On-One: Michel Platini |work=FourFourTwo |date=30 April 2008 |access-date=4 June 2010 |archive-date=23 September 2010 |archive-url=https://web.archive.org/web/20100923021950/http://fourfourtwo.com/interviews/one-on-one/147/article.aspx |url-status=live }}</ref> Despite being offence oriented, France's defence is considered one of the best in world for their aggression and technicality. Their defence played a vital role in winning the 2018 FIFA World Cup and had earned them the title of&nbsp;"''Mur de fer"'' ("The Iron Wall").
+
+==Results and fixtures==
+{{main|France national football team results}}
+{{Further|France national football team results (2020–present)}}
+{{Further|2025–26 in French football|2026–27 in French football}}
+The following is a list of match results from the last 12 months, as well as any future matches that have been scheduled.
+
+{{legend2|#CCFFCC|Win|border=1px solid #AAAAAA}}
+{{legend2|#FFFFCC|Draw|border=1px solid #AAAAAA}}
+{{legend2|#FFCCCC|Loss|border=1px solid #AAAAAA}}
+{{legend2|#FFFFFF|Fixture|border=1px solid #AAAAAA}}
+
+===2025===
+{{football box collapsible
+|format     = 1
+|date       = 5 September 2025
+|time       = 20:45
+|round      = [[2026 FIFA World Cup qualification – UEFA Group D|2026 World Cup qualification]]
+|team1      = {{fb-rt|UKR}}
+|score      = 0–2
+|report     = https://www.uefa.com/european-qualifiers/match/2044219/
+|team2      = {{fb|FRA}}
+|goals1     = 
+|goals2     = 
+*[[Michael Olise|Olise]] {{goal|10}}
+*[[Kylian Mbappé|Mbappé]] {{goal|82}}
+|stadium    = [[Wrocław Stadium]]
+|location   = [[Wrocław]], Poland{{efn|name=UKR|Due to the [[Russian invasion of Ukraine]], Ukraine are required to play their home matches at neutral venues until further notice.<ref name="ExCo">{{cite web|url=https://www.uefa.com/news-media/news/0272-148740475a92-1b97baa3e9d7-1000/|title=Decisions from today's extraordinary UEFA Executive Committee meeting|work=[[UEFA]]|publisher=Union of European Football Associations|date=25 February 2022|access-date=25 February 2022}}</ref>}}
+|attendance = 38,973
+|referee    = [[Danny Makkelie]] ([[Royal Dutch Football Association|Netherlands]])
+|result     = W
+}}
+{{football box collapsible
+|format     = 1
+|date       = 9 September 2025
+|time       = 20:45
+|round      = [[2026 FIFA World Cup qualification – UEFA Group D|2026 World Cup qualification]]
+|team1      = {{fb-rt|FRA}}
+|score      = 2–1
+|report     = https://www.uefa.com/european-qualifiers/match/2044252/
+|team2      = {{fb|ISL}}
+|goals1     = 
+*[[Kylian Mbappé|Mbappé]] {{goal|45|pen.}}
+*[[Bradley Barcola|Barcola]] {{goal|62}}
+|goals2     = 
+*[[Andri Guðjohnsen|A. Guðjohnsen]] {{goal|21}}
+|location   = [[Paris]], France
+|stadium    = [[Parc des Princes]]
+|attendance = 40,150
+|referee    = António Nobre ([[Portuguese Football Federation|Portugal]])
+|result     = W
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[2026 FIFA World Cup qualification – UEFA Group D|2026 World Cup qualification]]
+|date       = 10 October 2025
+|time       = 20:45
+|team1      = {{fb-rt|FRA}}
+|score      = 3–0
+|team2      = {{fb|AZE}}
+|report     = https://www.uefa.com/european-qualifiers/match/2044266/
+|goals1     = 
+*[[Kylian Mbappé|Mbappé]] {{goal|45+2}}
+*[[Adrien Rabiot|Rabiot]] {{goal|69}}
+*[[Florian Thauvin|Thauvin]] {{goal|84}}
+|goals2     = 
+|location   = [[Paris]], France
+|stadium    = [[Parc des Princes]]
+|attendance = 40,150
+|referee    = Rohit Saggi ([[Norwegian Football Federation|Norway]])
+|result     = W
+}}
+{{football box collapsible
+|format     = 1
+|date       = 13 October 2025
+|time       = 18:45
+|round      = [[2026 FIFA World Cup qualification – UEFA Group D|2026 World Cup qualification]]
+|team1      = {{fb-rt|ISL}}
+|score      = 2–2
+|report     = https://www.uefa.com/european-qualifiers/match/2044289/
+|team2      = {{fb|FRA}}
+|goals1     = 
+*[[Victor Pálsson|Pálsson]] {{goal|39}}
+*[[Kristian Hlynsson|Hlynsson]] {{goal|70}}
+|goals2     = 
+*[[Christopher Nkunku|Nkunku]] {{goal|63}}
+*[[Jean-Philippe Mateta|Mateta]] {{goal|68}}
+|stadium    = [[Laugardalsvöllur]]
+|location   = [[Reykjavík]], Iceland
+|attendance = 9,151
+|referee    = [[Orel Grinfeld]] ([[Israel Football Association|Israel]])
+|result     = D
+}}
+{{football box collapsible
+|format     = 1
+|date       = 13 November 2025
+|time       = 20:45
+|round      = [[2026 FIFA World Cup qualification – UEFA Group D|2026 World Cup qualification]]
+|team1      = {{fb-rt|FRA}}
+|score      = 4–0
+|report     = https://www.uefa.com/european-qualifiers/match/2044310/
+|team2      = {{fb|UKR}}
+|goals1     = 
+*[[Kylian Mbappé|Mbappé]] {{goal|55|pen.|83}}
+*[[Michael Olise|Olise]] {{goal|76}}
+*[[Hugo Ekitike|Ekitike]] {{goal|88}}
+|goals2     = 
+|location   = [[Paris]], France
+|stadium    = [[Parc des Princes]]
+|attendance = 41,055
+|referee    = [[Slavko Vinčić]] ([[Football Association of Slovenia|Slovenia]])
+|result     = W
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[2026 FIFA World Cup qualification – UEFA Group D|2026 World Cup qualification]]
+|date       = 16 November 2025
+|time       = 21:00
+|team1      = {{fb-rt|AZE}}
+|score      = 1–3
+|team2      = {{fb|FRA}}
+|report     = https://www.uefa.com/european-qualifiers/match/2044334/
+|goals1     = 
+*[[Renat Dadaşov|Dadaşov]] {{goal|4}}
+|goals2     = 
+*[[Jean-Philippe Mateta|Mateta]] {{goal|17}}
+*[[Maghnes Akliouche|Akliouche]] {{goal|30}}
+*[[Shakhruddin Magomedaliyev|Magomedaliyev]] {{goal|45|o.g.}}
+|location   = [[Baku]], Azerbaijan
+|stadium    = [[Tofiq Bahramov Republican Stadium]]
+|attendance = 29,700
+|referee    = [[Andris Treimanis]] ([[Latvian Football Federation|Latvia]])
+|result     = W
+}}
+
+===2026===
+{{football box collapsible
+|format     = 1
+|date       = 26 March 2026
+|time       = {{UTZ|16:00|-4}}
+|round      = [[Exhibition game#Association football|Friendly]]
+|team1      = {{fb-rt|BRA}}
+|score      = 1–2
+|report     = https://www.uefa.com/european-qualifiers/friendlies/match/2047721/
+|team2      = {{fb|FRA}}
+|goals1     = 
+*[[Gleison Bremer|Bremer]] {{goal|78}}
+|goals2     = 
+*[[Kylian Mbappé|Mbappé]] {{goal|32}}
+*[[Hugo Ekitike|Ekitike]] {{goal|65}}
+|location   = [[Foxborough, Massachusetts|Foxborough]], [[Massachusetts]], United States
+|stadium    = [[Gillette Stadium]]
+|attendance = 66,215
+|referee    = Guido Gonzales Jr. ([[United States Soccer Federation|United States]])
+|result     = W
+}}
+{{football box collapsible
+|format     = 1
+|date       = 29 March 2026
+|time       = {{UTZ|15:00|-4}}
+|round      = [[Exhibition game#Association football|Friendly]]
+|team1      = {{fb-rt|COL}}
+|score      = 1–3
+|report     = https://www.uefa.com/european-qualifiers/friendlies/match/2047723/
+|team2      = {{fb|FRA}}
+|goals1     = 
+*[[Jaminton Campaz|Campaz]] {{goal|77}}
+|goals2     = 
+*[[Désiré Doué|Doué]] {{goal|29||56}}
+*[[Marcus Thuram|Thuram]] {{goal|41}}
+|location   = [[Landover, Maryland|Landover]], [[Maryland]], United States
+|stadium    = [[Northwest Stadium]]
+|attendance = 60,734
+|referee    = Victor Rivas ([[United States Soccer Federation|United States]])
+|result     = W
+}}
+{{football box collapsible
+|format     = 1
+|date       = 4 June 2026
+|time       = {{UTZ|21:10|+2}}
+|round      = [[Exhibition game#Association football|Friendly]]
+|team1      = {{fb-rt|FRA}}
+|score      = 1–2
+|report     = https://www.uefa.com/european-qualifiers/friendlies/match/2048206/
+|team2      = {{fb|CIV}}
+|goals1     = 
+*[[Rayan Cherki|Cherki]] {{goal|45}}
+|goals2     = 
+*[[Guéla Doué|G. Doué]] {{goal|53}}
+*[[Amad Diallo|A. Diallo]] {{goal|84}}
+|location   = [[Nantes]], France
+|stadium    = [[Stade de la Beaujoire]]
+|attendance = 35,322
+|referee    = {{ill|Sebastian Gishamer|de|Sebastian Gishamer}} ([[Austrian Football Association|Austria]])
+|result     = L
+}}
+{{football box collapsible
+|format     = 1
+|date       = 8 June 2026
+|time       = {{UTZ|21:10|+2}}
+|round      = [[Exhibition game#Association football|Friendly]]
+|team1      = {{fb-rt|FRA}}
+|score      = 3–1
+|report     = https://www.uefa.com/european-qualifiers/friendlies/match/2048199/
+|team2      = {{fb|NIR}}
+|goals1     = 
+*[[Michael Olise|Olise]] {{goal|43||49||75}}
+|goals2     = 
+*[[Patrick Kelly (footballer, born 2004)|Kelly]] {{goal|64}}
+|location   = [[Villeneuve-d'Ascq]], France
+|stadium    = [[Stade Pierre-Mauroy]]
+|attendance = 43,272
+|referee    = [[Sascha Stegemann]] ([[German Football Association|Germany]])
+|result     = W
+}}
+{{football box collapsible
+|format     = 1
+|date       = 16 June 2026
+|time       = 15:00 [[Eastern Daylight Time|EDT]]
+|round      = [[2026 FIFA World Cup]] [[2026 FIFA World Cup Group I|Group I]]
+|team1      = {{fb-rt|FRA}}
+|score      = 3–1
+|report     = https://www.fifa.com/en/match-centre/match/17/285023/289273/400021490
+|team2      = {{fb|SEN}}
+|goals1=
+*[[Kylian Mbappé|Mbappé]] {{goal|66|90+6}}
+*[[Bradley Barcola|Barcola]] {{goal|82}}
+|goals2=
+*[[Ibrahim Mbaye|Mbaye]] {{goal|90+5}}
+|location   = [[East Rutherford, New Jersey|East Rutherford]], [[New Jersey]], United States
+|stadium    = [[MetLife Stadium]]
+|attendance = 80,545
+|referee    = [[Alireza Faghani]] ([[Football Australia|Australia]])
+|result     = W
+}}
+{{football box collapsible
+|format     = 1
+|date       = 22 June 2026
+|time       = 17:00 [[Eastern Daylight Time|EDT]]
+|round      = [[2026 FIFA World Cup]] [[2026 FIFA World Cup Group I|Group I]]
+|team1      = {{fb-rt|FRA}}
+|score      = 3–0
+|report     = https://www.fifa.com/en/match-centre/match/17/285023/289273/400021492
+|team2      = {{fb|IRQ}}
+|goals1     = * [[Kylian Mbappé|Mbappé]] {{goal|14||54}}
+*[[Ousmane Dembélé|Dembélé]] {{goal|66}}
+|goals2     = 
+|location   = [[Philadelphia]], [[Pennsylvania]], United States
+|stadium    = [[Lincoln Financial Field]]
+|attendance = 68,324
+|referee    = [[Drew Fischer]] ([[Canadian Soccer Association|Canada]])
+|result     = W
+}}
+{{football box collapsible
+|format     = 1
+|date       = 26 June 2026
+|time       = 15:00 [[Eastern Daylight Time|EDT]]
+|round      = [[2026 FIFA World Cup]] [[2026 FIFA World Cup Group I|Group I]]
+|team1      = {{fb-rt|NOR}}
+|score      = 1–4
+|report     = https://www.fifa.com/en/match-centre/match/17/285023/289273/400021489
+|team2      = {{fb|FRA}}
+|goals1=
+*[[Thelo Aasgaard|Aasgaard]] {{goal|21}}
+|goals2=
+*[[Ousmane Dembélé|Dembélé]] {{goal|7||20||32}}
+*[[Désiré Doué|Doué]] {{goal|90+4}}
+|location   = [[Foxborough, Massachusetts|Foxborough]], [[Massachusetts]], United States
+|stadium    = [[Gillette Stadium]]
+|attendance = 64,146
+|referee    = [[Michael Oliver (referee)|Michael Oliver]] ([[The Football Association|England]])
+|result     = W
+}}
+{{football box collapsible
+|format     = 1
+|date       = 30 June 2026
+|time       = 17:00 [[Eastern Daylight Time|EDT]]
+|round      = [[2026 FIFA World Cup]] [[2026 FIFA World Cup knockout stage#Round of 32|R32]]
+|team1      = {{fb-rt|FRA}}
+|score      = 3–0
+|report     = https://www.fifa.com/en/match-centre/match/17/285023/289287/400021523
+|team2      = {{fb|SWE}}
+|goals1     = 
+*[[Kylian Mbappé|Mbappé]] {{goal|45||74}}
+*[[Bradley Barcola|Barcola]] {{goal|53}}
+|goals2     = 
+|location   = [[East Rutherford, New Jersey|East Rutherford]], [[New Jersey]], United States
+|stadium    = [[MetLife Stadium]]
+|attendance = 80,663
+|referee    = [[Danny Makkelie]] ([[Royal Dutch Football Association|Netherlands]])
+|result     = W
+}}
+{{football box collapsible
+|format     = 1
+|date       = 4 July 2026
+|time       = 17:00 [[Eastern Daylight Time|EDT]]
+|round      = [[2026 FIFA World Cup]] [[2026 FIFA World Cup knockout stage#Round of 16|R16]]
+|team1      = {{fb-rt|PAR}}
+|score      = 0–1
+|report     = https://www.fifa.com/en/match-centre/match/17/285023/289288/400021533
+|team2      = {{fb|FRA}}
+|goals1     = 
+|goals2     = 
+*[[Kylian Mbappé|Mbappé]] {{goal|70|pen.}}
+|location   = [[Philadelphia]], [[Pennsylvania]], United States
+|stadium    = [[Lincoln Financial Field]]
+|attendance = 68,324
+|referee    = [[Ilgiz Tantashev]] ([[Uzbekistan Football Association|Uzbekistan]])
+|result     = w
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[2026 FIFA World Cup]] [[2026 FIFA World Cup knockout stage#Quarterfinals|QF]]
+|date       = 9 July 2026
+|time       = {{UTZ|16:00|-4}}
+|team1      = {{fb-rt|FRA}}
+|score      = 2–0
+|team2      = {{fb|MAR}}
+|report     = https://www.fifa.com/en/match-centre/match/17/285023/289289/400021536
+|goals1     =
+*[[Kylian Mbappé|Mbappé]] {{goal|60}}
+*[[Ousmane Dembélé|Dembélé]] {{goal|66}}
+|goals2     =
+|stadium    = [[Gillette Stadium]]
+|location   = [[Foxborough, Massachusetts|Foxborough]], [[Massachusetts]], United States 
+|attendance = 63,881
+|referee    = [[Facundo Tello]] ([[Argentine Football Association|Argentina]])
+|result     = W
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[2026 FIFA World Cup]] [[2026 FIFA World Cup knockout stage#Semifinals|SF]]
+|date       = 14 July 2026
+|time       = {{UTZ|14:00|-5}}
+|team1      = {{fb-rt|FRA}}
+|score      = 
+|team2      = {{fb|ESP}}
+|report     = https://www.fifa.com/en/match-centre/match/17/285023/289290/400021541
+|goals1     =
+|goals2     =
+|stadium    = [[AT&T Stadium]]
+|location   = [[Arlington, Texas|Arlington]], [[Texas]], United States 
+|attendance =
+|referee    = [[Iván Barton]] ([[Salvadoran Football Federation|El Salvador]])
+|result     = 
+}}
+{{football box collapsible
+|format     = 1
+|date       = 25 September 2026
+|time       = 20:45 [[Central European Summer Time|CEST]] ([[UTC+02:00]])
+|round      = [[2026–27 UEFA Nations League A|2026–27 UEFA Nations League]]
+|score      = 
+|report     = https://www.uefa.com/uefanationsleague/match/2048011/
+|team1      = {{fb-rt|TUR}}
+|goals1     = 
+|team2      = {{fb|FRA}}
+|goals2     = 
+|stadium    = [[Kocaeli Stadium]]
+|location   = [[İzmit]], Turkey
+|attendance = 
+|referee    = 
+|result     = 
+}}
+{{football box collapsible
+|format     = 1
+|date       = 28 September 2026
+|time       = 20:45 [[Central European Summer Time|CEST]] ([[UTC+02:00]])
+|round      = [[2026–27 UEFA Nations League A|2026–27 UEFA Nations League]]
+|score      = 
+|report     = https://www.uefa.com/uefanationsleague/match/2047989/
+|team1      = {{fb-rt|BEL}}
+|goals1     = 
+|team2      = {{fb|FRA}}
+|goals2     = 
+|stadium    = [[King Baudouin Stadium]]
+|location   = [[Brussels]], Belgium
+|attendance = 
+|referee    = 
+|result     = 
+}}
+{{football box collapsible
+|format     = 1
+|date       = 2 October 2026
+|time       = 20:45 [[Central European Summer Time|CEST]] ([[UTC+02:00]])
+|round      = [[2026–27 UEFA Nations League A|2026–27 UEFA Nations League]]
+|score      = 
+|report     = https://www.uefa.com/uefanationsleague/match/2047960/
+|team1      = {{fb-rt|FRA}}
+|goals1     = 
+|team2      = {{fb|ITA}}
+|goals2     = 
+|stadium    = [[Stade de France]]
+|location   = [[Saint-Denis, Seine-Saint-Denis|Saint-Denis]], France
+|attendance = 
+|referee    = 
+|result     = 
+}}
+{{football box collapsible
+|format     = 1
+|date       = 5 October 2026
+|time       = 20:45 [[Central European Summer Time|CEST]] ([[UTC+02:00]])
+|round      = [[2026–27 UEFA Nations League A|2026–27 UEFA Nations League]]
+|score      = 
+|report     = https://www.uefa.com/uefanationsleague/match/2047937/
+|team1      = {{fb-rt|FRA}}
+|goals1     = 
+|team2      = {{fb|BEL}}
+|goals2     = 
+|stadium    = [[Stade de France]]
+|location   = [[Saint-Denis, Seine-Saint-Denis|Saint-Denis]], France
+|attendance = 
+|referee    = 
+|result     = 
+}}
+{{football box collapsible
+|format     = 1
+|date       = 12 November 2026
+|time       = 20:45 [[Central European Time|CET]] ([[UTC+01:00]])
+|round      = [[2026–27 UEFA Nations League A|2026–27 UEFA Nations League]]
+|score      = 
+|report     = 
+|team1      = {{fb-rt|ITA}}
+|goals1     = 
+|team2      = {{fb|FRA}}
+|goals2     = 
+|stadium    = 
+|location   = Italy
+|attendance = 
+|referee    = 
+|result     = 
+}}
+{{football box collapsible
+|format     = 1
+|date       = 15 November 2026
+|time       = 20:45 [[Central European Time|CET]] ([[UTC+01:00]])
+|round      = [[2026–27 UEFA Nations League A|2026–27 UEFA Nations League]]
+|score      = 
+|report     = https://www.uefa.com/uefanationsleague/match/2047898/
+|team1      = {{fb-rt|FRA}}
+|goals1     = 
+|team2      = {{fb|TUR}}
+|goals2     = 
+|stadium    = [[Stade Atlantique]]
+|location   = [[Bordeaux]], France
+|attendance = 
+|referee    = 
+|result     = 
+}}
+
+==Coaching staff==
+[[File:Didier Deschamps in 2018.jpg|thumb|upright=0.6|[[Didier Deschamps]], the current coach of the France national football team]]
+:''As of March 2024''.<ref>{{cite web |url=https://www.fff.fr/selection/2-equipe-de-france/staff.html |title=Staff Équipe de France|work=[[French Football Federation]] |access-date=18 March 2024 |language=fr}}</ref>
+
+{| class="wikitable"
+|-
+! Position
+! Name
+|-
+| Head coach
+| {{flagicon|FRA}} [[Didier Deschamps]]
+|-
+| Assistant coach
+| {{flagicon|FRA}} [[Guy Stéphan]]
+|-
+| Goalkeeper coach
+| {{flagicon|FRA}} Franck Raviot
+|-
+| Fitness coach
+| {{flagicon|FRA}} Cyril Moine
+|-
+| Doctor
+| {{flagicon|FRA}} Franck Le Gall
+|-
+| Video analysts
+| {{flagicon|FRA}} Thierry Marszalek<hr />{{flagicon|FRA}} Eric Dubray
+|-
+| Osteopath
+| {{flagicon|FRA}} Jean-Yves Vandewalle
+|-
+| Physiotherapists
+| {{flagicon|FRA}} Clément Hazard<hr />{{flagicon|FRA}} Denis Morcel<hr />{{flagicon|FRA}} Alexandre Germain<hr />{{flagicon|FRA}} Guillaume Vassout
+|-
+| Team manager
+| {{flagicon|FRA}} Philippe Brocherieux
+|-
+| Kit manager
+| {{flagicon|FRA}} Nicolas Piry
+|-
+| Chef
+| {{flagicon|FRA}} Xavier Rousseau
+|-
+| Security officer
+| {{flagicon|FRA}} Mohamed Sanhadji
+|-
+| Steward
+| {{flagicon|FRA}} Bachir Nehar<hr />{{flagicon|FRA}} Johan Perez
+|-
+| Media officer
+| {{flagicon|FRA}} Raphaël Raymond
+|-
+| Media reporter
+| {{flagicon|FRA}} Guillaume Bigot
+|}
+
+===Coaching history===
+{{main|France national football team manager}}
+{{updated|9 July 2026}}
+:''Managers in italics were hired as [[caretaker manager|caretakers]].''
+{| class="wikitable sortable" style="text-align:center;"
+|-
+!Manager
+!France career
+!{{Abbr|Pld|Played}}
+!{{Abbr|W|Won}}
+!{{Abbr|D|Drawn}}
+!{{Abbr|L|Lost}}
+!{{Abbr|Win %|Percentage of games won}}
+|-
+|style="text-align: left;"|{{flagicon|France|variant=1794}} {{sortname|Henri|Guérin|Henri Guérin (footballer)}}
+|1964–1966
+{{WDL|decimals=1|15
+|5
+|4
+|6}}
+|-
+|style="text-align: left;"|''{{flagicon|Spain|variant=1945}} {{sortname|José|Arribas}}''<hr />''{{flagicon|France|variant=1794}} {{sortname|Jean|Snella}}''
+|1966
+{{WDL|decimals=1|4
+|2
+|0
+|2}}
+|-
+|style="text-align: left;"|''{{flagicon|France|variant=1794}} {{sortname|Just|Fontaine}}''
+|1967
+{{WDL|decimals=1|2
+|0
+|0
+|2}}
+|-
+|style="text-align: left;"|{{flagicon|France|variant=1794}} {{sortname|Louis|Dugauguez}}
+|1967–1968
+{{WDL|decimals=1|9
+|2
+|3
+|4}}
+|-
+|style="text-align: left;"|{{flagicon|France|variant=1794}} {{sortname|Georges|Boulogne}}
+|1969–1973
+{{WDL|decimals=1|31
+|15
+|5
+|11}}
+|-
+|style="text-align: left;"|{{flagicon|Romania|1965}} {{sortname|Ștefan|Kovács|Ștefan Kovács}}
+|1973–1975
+{{WDL|decimals=1|15
+|6
+|4
+|5}}
+|-
+|style="text-align: left;"|{{flagicon|France|1974}} {{sortname|Michel|Hidalgo}}
+|1976–1984
+{{WDL|decimals=1|75
+|41
+|16
+|18}}
+|-
+|style="text-align: left;"|{{flagicon|France|1974}} {{sortname|Henri|Michel}}
+|1984–1988
+{{WDL|decimals=1|36
+|16
+|12
+|8}}
+|-
+|style="text-align: left;"|{{flagicon|France|1974}} {{sortname|Michel|Platini}}
+|1988–1992
+{{WDL|decimals=1|29
+|16
+|8
+|5}}
+|-
+|style="text-align: left;"|{{flagicon|France|1974}} {{sortname|Gérard|Houllier}}
+|1992–1993
+{{WDL|decimals=1|12
+|7
+|1
+|4}}
+|-
+|style="text-align: left;"|{{flagicon|France|1974}} {{sortname|Aimé|Jacquet}}
+|1993–1998
+{{WDL|decimals=1|53
+|34
+|16
+|3}}
+|-
+|style="text-align: left;"|{{flagicon|France|1974}} {{sortname|Roger|Lemerre}}
+|1998–2002
+{{WDL|decimals=1|53
+|34
+|11
+|8}}
+|-
+|style="text-align: left;"|{{flagicon|France|1974}} {{sortname|Jacques|Santini}}
+|2002–2004
+{{WDL|decimals=1|28
+|22
+|4
+|2}}
+|-
+|style="text-align: left;"|{{flagicon|France|1974}} {{sortname|Raymond|Domenech}}
+|2004–2010
+{{WDL|decimals=1|79
+|41
+|24
+|14}}
+|-
+|style="text-align: left;"|{{flagicon|France|1974}} {{sortname|Laurent|Blanc}}
+|2010–2012
+{{WDL|decimals=1|27
+|16
+|7
+|4}}
+|-
+|style="text-align: left;"|{{flagicon|France}} '''{{sortname|Didier|Deschamps}}'''
+|2012–present
+{{WDL|decimals=1|183
+|120
+|35
+|28}}
+|}
+
+==Players==
+{{For|all past and present players who have appeared for the national team|List of France international footballers}}
+{{See also|List of France national football team captains}}
+
+===Current squad===
+The following 26 players were called up to the [[2026 FIFA World Cup]], and for the pre-tournament friendly matches against [[Ivory Coast national football team|Ivory Coast]] and [[Northern Ireland national football team|Northern Ireland]] on 4 and 8 June 2026, respectively.<ref>{{cite web|title=Les 26 Bleus pour le Mondial 2026|url=https://www.fff.fr/article/16790-les-26-bleus-pour-le-mondial-2026.html|publisher=[[French Football Federation]]|language=fr|date=14 May 2026|access-date=14 May 2026}}</ref>
+<br>''Caps and goals as of 9 July 2026, after the match against [[Morocco national football team|Morocco]].''
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Brice Samba]]|age={{bda|1994|4|25|df=y}}|caps=4|goals=0|club=[[Stade Rennais FC|Rennes]]|clubnat=FRA}}
+{{nat fs g player|no=16|pos=GK|name=[[Mike Maignan]]|age={{bda|1995|7|3|df=y}}|caps=46|goals=0|club=[[AC Milan]]|clubnat=ITA}}
+{{nat fs g player|no=23|pos=GK|name=[[Robin Risser]]|age={{bda|2004|12|2|df=y}}|caps=0|goals=0|club=[[RC Lens|Lens]]|clubnat=FRA}}
+{{nat fs break}}
+{{nat fs g player|no=2|pos=DF|name=[[Malo Gusto]]|age={{bda|2003|5|19|df=y}}|caps=15|goals=0|club=[[Chelsea F.C.|Chelsea]]|clubnat=ENG}}
+{{nat fs g player|no=3|pos=DF|name=[[Lucas Digne]]|age={{bda|1993|7|20|df=y}}|caps=62|goals=0|club=[[Aston Villa F.C.|Aston Villa]]|clubnat=ENG}}
+{{nat fs g player|no=4|pos=DF|name=[[Dayot Upamecano]]|age={{bda|1998|10|27|df=y}}|caps=44|goals=2|club=[[FC Bayern Munich|Bayern Munich]]|clubnat=GER}}
+{{nat fs g player|no=5|pos=DF|name=[[Jules Koundé]]|age={{bda|1998|11|12|df=y}}|caps=54|goals=0|club=[[FC Barcelona|Barcelona]]|clubnat=ESP}}
+{{nat fs g player|no=15|pos=DF|name=[[Ibrahima Konaté]]|age={{bda|1999|5|25|df=y}}|caps=29|goals=0|club=[[Real Madrid CF|Real Madrid]]|clubnat=ESP}}
+{{nat fs g player|no=17|pos=DF|name=[[William Saliba]]|age={{bda|2001|3|24|df=y}}|caps=37|goals=0|club=[[Arsenal F.C.|Arsenal]]|clubnat=ENG}}
+{{nat fs g player|no=19|pos=DF|name=[[Théo Hernandez]]|age={{bda|1997|10|6|df=y}}|caps=47|goals=2|club=[[Al Hilal SFC|Al-Hilal]]|clubnat=KSA}}
+{{nat fs g player|no=21|pos=DF|name=[[Lucas Hernandez]]|age={{bda|1996|2|14|df=y}}|caps=42|goals=0|club=[[Paris Saint-Germain FC|Paris Saint-Germain]]|clubnat=FRA}}
+{{nat fs g player|no=26|pos=DF|name=[[Maxence Lacroix]]|age={{bda|2000|4|6|df=y}}|caps=5|goals=0|club=[[Crystal Palace F.C.|Crystal Palace]]|clubnat=ENG}}
+{{nat fs break}}
+{{nat fs g player|no=6|pos=MF|name=[[Manu Koné]]|age={{bda|2001|5|17|df=y}}|caps=18|goals=0|club=[[AS Roma|Roma]]|clubnat=ITA}}
+{{nat fs g player|no=8|pos=MF|name=[[Aurélien Tchouaméni]]|age={{bda|2000|1|27|df=y}}|caps=49|goals=3|club=[[Real Madrid CF|Real Madrid]]|clubnat=ESP}}
+{{nat fs g player|no=13|pos=MF|name=[[N'Golo Kanté]]|other=[[Captain (association football)|vice-captain]]|age={{bda|1991|3|29|df=y}}|caps=69|goals=2|club=[[Fenerbahçe S.K. (football)|Fenerbahçe]]|clubnat=TUR}}
+{{nat fs g player|no=14|pos=MF|name=[[Adrien Rabiot]]|age={{bda|1995|4|3|df=y}}|caps=64|goals=7|club=[[AC Milan]]|clubnat=ITA}}
+{{nat fs g player|no=18|pos=MF|name=[[Warren Zaïre-Emery]]|age={{bda|2006|3|8|df=y}}|caps=12|goals=1|club=[[Paris Saint-Germain FC|Paris Saint-Germain]]|clubnat=FRA}}
+{{nat fs g player|no=24|pos=MF|name=[[Rayan Cherki]]|age={{bda|2003|8|17|df=y}}|caps=12|goals=2|club=[[Manchester City F.C.|Manchester City]]|clubnat=ENG}}
+{{nat fs g player|no=25|pos=MF|name=[[Maghnes Akliouche]]|age={{bda|2002|2|25|df=y}}|caps=10|goals=1|club=[[AS Monaco FC|Monaco]]{{efn|name=mon|[[AS Monaco FC|Monaco]] is a Monégasque club playing in the [[French football league system]].}}|clubnat=FRA}}
+{{nat fs break}}
+{{Nat fs g player|no=7|pos=FW|name=[[Ousmane Dembélé]]|age={{bda|1997|5|15|df=y}}|caps=65|goals=12|club=[[Paris Saint-Germain FC|Paris Saint-Germain]]|clubnat=FRA}}
+{{nat fs g player|no=9|pos=FW|name=[[Marcus Thuram]]|age={{bda|1997|8|6|df=y}}|caps=35|goals=3|club=[[Inter Milan]]|clubnat=ITA}}
+{{nat fs g player|no=10|pos=FW|name=[[Kylian Mbappé]]|other=[[Captain (association football)|captain]]|age={{bda|1998|12|20|df=y}}|caps=104|goals=[[List of international goals scored by Kylian Mbappé|64]]|club=[[Real Madrid CF|Real Madrid]]|clubnat=ESP}}
+{{nat fs g player|no=11|pos=FW|name=[[Michael Olise]]|age={{bda|2001|12|12|df=y}}|caps=23|goals=7|club=[[FC Bayern Munich|Bayern Munich]]|clubnat=GER}}
+{{nat fs g player|no=12|pos=FW|name=[[Bradley Barcola]]|age={{bda|2002|9|2|df=y}}|caps=26|goals=5|club=[[Paris Saint-Germain FC|Paris Saint-Germain]]|clubnat=FRA}}
+{{nat fs g player|no=20|pos=FW|name=[[Désiré Doué]]|age={{bda|2005|6|3|df=y}}|caps=13|goals=3|club=[[Paris Saint-Germain FC|Paris Saint-Germain]]|clubnat=FRA}}
+{{nat fs g player|no=22|pos=FW|name=[[Jean-Philippe Mateta]]|age={{bda|1997|6|28|df=y}}|caps=7|goals=2|club=[[Crystal Palace F.C.|Crystal Palace]]|clubnat=ENG}}
+{{nat fs end}}
+
+===Recent call-ups===
+The following players have also been called up within the past twelve months.
+<!--Sorted by position, most recent call-up, caps, goals and last name.-->
+{{nat fs r start}}
+{{nat fs r player|no=|pos=GK|name=[[Lucas Chevalier]]|age={{bda|2001|11|6|df=y}}|caps=1|goals=0|club=[[Paris Saint-Germain FC|Paris Saint-Germain]]|clubnat=FRA|latest=v. {{fb|COL}}, 29 March 2026}}
+{{nat fs r player|no=|pos=GK|name=[[Alphonse Areola]]|age={{bda|1993|2|27|df=y}}|caps=5|goals=0|club=[[West Ham United F.C.|West Ham United]]|clubnat=ENG|latest=v. {{fb|ISL}}, 9 September 2025}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=DF|name=[[Pierre Kalulu]]|age={{bda|2000|6|5|df=y}}|caps=3|goals=0|club=[[Juventus FC|Juventus]]|clubnat=ITA|latest=v. {{fb|COL}}, 29 March 2026}}
+{{nat fs r player|no=|pos=DF|name=[[Benjamin Pavard]]|age={{bda|1996|3|28|df=y}}|caps=55|goals=5|club=[[Olympique de Marseille|Marseille]]|clubnat=FRA|latest=v. {{fb|ISL}}, 13 October 2025}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=MF|name=[[Eduardo Camavinga]]|age={{bda|2002|11|10|df=y}}|caps=29|goals=2|club=[[Real Madrid CF|Real Madrid]]|clubnat=ESP|latest=v. {{fb|COL}}, 29 March 2026}}
+{{nat fs r player|no=|pos=MF|name=[[Khéphren Thuram]]|age={{bda|2001|3|26|df=y}}|caps=4|goals=0|club=[[Juventus FC|Juventus]]|clubnat=ITA|latest=v. {{fb|AZE}}, 16 November 2025}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=FW|name=[[Randal Kolo Muani]]|age={{bda|1998|12|5|df=y}}|caps=32|goals=9|club=[[Tottenham Hotspur F.C.|Tottenham Hotspur]]|clubnat=ENG|latest=v. {{fb|COL}}, 29 March 2026}}
+{{nat fs r player|no=|pos=FW|name=[[Hugo Ekitike]]|age={{bda|2002|6|20|df=y}}|caps=8|goals=2|club=[[Liverpool F.C.|Liverpool]]|clubnat=ENG|latest=v. {{fb|COL}}, 29 March 2026}}
+{{nat fs r player|no=|pos=FW|name=[[Christopher Nkunku]]|age={{bda|1997|11|14|df=y}}|caps=18|goals=2|club=[[AC Milan]]|clubnat=ITA|latest=v. {{fb|AZE}}, 16 November 2025}}
+{{nat fs r player|no=|pos=FW|name=[[Florian Thauvin]]|age={{bda|1993|1|26|df=y}}|caps=13|goals=2|club=[[RC Lens|Lens]]|clubnat=FRA|latest=v. {{fb|AZE}}, 16 November 2025}}
+{{nat fs r player|no=|pos=FW|name=[[Kingsley Coman]]|age={{bda|1996|6|13|df=y}}|caps=61|goals=8|club=[[Al-Nassr FC|Al-Nassr]]|clubnat=KSA|latest=v. {{fb|ISL}}, 13 October 2025}}
+{{nat fs break}}
+;Notes
+*<sup>INJ</sup> = Withdrew due to injury
+*<sup>PRE</sup> = Preliminary squad
+*<sup>RET</sup> = Retired from the national team
+*<sup>SUS</sup> = Serving suspension
+{{nat fs end}}
+
+===Player of the Year===
+{{Further|French Player of the Year}}
+
+==Player records==
+{{main|List of France international footballers|France national football team records and statistics}}
+
+{{see also|List of leading goalscorers for the France national football team|List of France national football team captains}}
+
+{{updated|9 July 2026}}<ref>{{cite web |last1=Pierrend |first1=José Luis |title=France - Record International Players |url=https://www.rsssf.org/miscellaneous/fran-recintlp.html |website=RSSSF |access-date=2 February 2023 |archive-date=12 October 2022 |archive-url=https://web.archive.org/web/20221012193757/https://www.rsssf.org/miscellaneous/fran-recintlp.html |url-status=live }}</ref>
+:''Players in '''bold''' are still active with France.''
+===Most appearances===
+[[File:Lloris 2018 (cropped).jpg|upright=0.8|thumb|right|Hugo Lloris is France's most capped player with 145 appearances.]]
+
+{| class="wikitable sortable" style="text-align:center;"
+|-
+!width="30"|Rank
+!style="width:150px;"|Player
+!width="50"|Caps
+!width="50"|Goals
+!style="width:100px;"|Career
+|-
+|1
+|align="left"|[[Hugo Lloris]]
+|'''145'''
+|0
+|{{nowrap|2008–2023}}
+|-
+|2
+| align="left" |[[Lilian Thuram]]
+|'''142'''
+|2
+|1994–2008
+|-
+|rowspan="2"|3
+|align="left"|[[Olivier Giroud]]
+|rowspan="2"|'''137'''
+|57
+|2011–2024
+|-
+|align="left"|[[Antoine Griezmann]]
+|44
+|2014–2024
+|-
+|5
+|align="left"|[[Thierry Henry]]
+|'''123'''
+|51
+|1997–2010
+|-
+|6
+|align="left"|[[Marcel Desailly]]
+|'''116'''
+|3
+|1993–2004
+|-
+|7
+|align="left"|[[Zinedine Zidane]]
+|'''108'''
+|31
+|1994–2006
+|-
+|8
+|align="left"|[[Patrick Vieira]]
+|'''107'''
+|6
+|1997–2009
+|-
+|9
+|align="left"|'''[[Kylian Mbappé]]'''
+|'''104'''
+|64
+|{{nowrap|2017–present}}
+|-
+|10
+|align="left"|[[Didier Deschamps]]
+|'''103'''
+|4
+|1989–2000
+|-
+|}
+
+===Top goalscorers===
+[[File:Kylian Mbappe France v Senegal 16 June 2026-391 (cropped).jpg|upright=0.8|thumb|right|Kylian Mbappé is France's top scorer with 64 goals.]]
+
+{| class="wikitable sortable" style="text-align:center;"
+|-
+!width="30"|Rank
+!style="width:150px;"|Player
+!width="50"|Goals
+!width="50"|Caps
+!width="50"|Average
+!style="width:100px;"|Career
+|-
+|1
+|style="text-align:left;"|'''[[Kylian Mbappé]]''' ([[List of international goals scored by Kylian Mbappé|list]])
+|'''64'''
+|104
+|{{#expr:64/104 round 2}}
+|{{nowrap|2017–present}}
+|-
+|2
+|style="text-align:left;"|[[Olivier Giroud]] ([[List of international goals scored by Olivier Giroud|list]])
+|'''57'''
+|137
+|{{#expr:57/137 round 2}}
+|2011–2024
+|-
+|3
+|style="text-align:left;"|[[Thierry Henry]] ([[List of international goals scored by Thierry Henry|list]])
+|'''51'''
+|123
+|{{#expr:51/123 round 2}}
+|1997–2010
+|-
+|4
+|style="text-align:left;"|[[Antoine Griezmann]]
+|'''44'''
+|137
+|{{#expr:45/137 round 2}}
+|2014–2024
+|-
+|5
+|style="text-align:left;"|[[Michel Platini]]
+|'''41'''
+|72
+|{{#expr:41/72 round 2}}
+|1976–1987
+|-
+|6
+|style="text-align:left;"|[[Karim Benzema]]
+|'''37'''
+|97
+|{{#expr:37/97 round 2}}
+|2007–2022
+|-
+|7
+|style="text-align:left;"|[[David Trezeguet]]
+|'''34'''
+|71
+|{{#expr:34/71 round 2}}
+|1998–2008
+|-
+|8
+|style="text-align:left;"|[[Zinedine Zidane]]
+|'''31'''
+|108
+|{{#expr:31/108 round 2}}
+|1994–2006
+|-
+|rowspan="2"|9
+|style="text-align:left;"|[[Just Fontaine]]
+|rowspan="2"|'''30'''
+|21
+|{{#expr:30/21 round 2}}
+|1953–1960
+|-
+|style="text-align:left;"|[[Jean-Pierre Papin]]
+|54
+|{{#expr:30/54 round 2}}
+|1986–1995
+|}
+
+==Competitive record==
+{{main|France national football team all-time record}}
+
+{{hatnote|For single-match results of the national team, see [[French football]] single-season articles and the team's [[France national football team results (1904–20)|results page]]}}
+{{Color box|gold|border=darkgray}} '''Champions'''&nbsp;&nbsp;{{Color box|silver|border=darkgray}} '''Runners-up'''&nbsp;&nbsp;{{Color box|#cc9966|border=darkgray}} '''Third place'''&nbsp;&nbsp;{{legend-inline|white|border=3px solid red;}} Tournament played on home soil&nbsp;&nbsp;
+
+===FIFA World Cup===
+{{main|France at the FIFA World Cup}}
+
+France was one of the four European teams that participated at the [[1930 FIFA World Cup|inaugural World Cup in 1930]] and have appeared in sixteen [[FIFA World Cup]]s as of 2022.<ref>{{cite news|url=https://www.skysports.com/football/news/11096/11379696/world-cups-remembered-uruguay-1930 |title=World Cups remembered: Uruguay 1930 |author=James Dall |publisher=Sky Sports |date=7 June 2018 |access-date=19 November 2023}}</ref><ref>{{cite news|url=https://www.nbclosangeles.com/news/sports/world-cup-2022/brazil-germany-lead-countries-with-most-world-cup-appearances/3036302/ |title=Brazil, Germany Lead Countries With Most World Cup Appearances |author=Charlotte Edmonds |publisher=NBC Los Angeles |date=17 November 2022 |access-date=19 November 2023}}</ref> The national team is one of eight sides to have won the World Cup.<ref>{{cite news|url=https://olympics.com/en/news/most-fifa-world-cup-football-wins |title=Most FIFA World Cup wins: Brazil lead men's winners list; USA dominate women's roll of honour |author=Aarish Ansari |publisher=Olympics |date=18 December 2022 |access-date=19 November 2023}}</ref> France won their first World Cup title in [[1998 FIFA World Cup|1998]] on home soil by defeating [[Brazil national football team|Brazil]] 3–0 in the final match.<ref>{{cite news|url=https://www.theguardian.com/football/blog/2014/may/08/world-cup-stunning-moments-25-ronaldo-france |title=World Cup stunning moments: Ronaldo falters as France win |author=Jacob Steinberg |work=The Guardian |date=8 May 2018 |access-date=19 November 2023}}</ref>
+
+In [[2006 FIFA World Cup|2006]], France finished as runners-up losing 5–3 on penalties to [[Italy national football team|Italy]].<ref>{{cite news|url=https://news.bbc.co.uk/sport2/hi/football/world_cup_2006/4991652.stm |title=Italy 1–1 France (aet) |author=Jonathan Stevenson |publisher=BBC Sport |date=9 July 2006 |access-date=19 November 2023}}</ref> The team has also finished in third place on two occasions in [[1958 FIFA World Cup|1958]] and [[1986 FIFA World Cup|1986]] and in fourth place once in [[1982 FIFA World Cup|1982]]. The team's worst results in the competition were first round eliminations in [[2002 FIFA World Cup|2002]] and [[2010 FIFA World Cup|2010]]. In 2002, the team suffered an unexpected loss to [[Senegal national football team|Senegal]] and departed the tournament without scoring a goal, while in 2010, a French team torn apart by conflict between the players and staff lost two of three matches and drew the other.<ref>{{cite news |title=Senegal stun France |url=https://news.bbc.co.uk/sport3/worldcup2002/hi/matches_wallchart/france_v_senegal/newsid_1924000/1924440.stm |publisher=British Broadcasting Corporation |date=31 May 2002 |access-date=24 June 2010}}</ref><ref>{{cite news |title=Dismal France eliminated from World Cup |url=http://www.cnn.com/2010/SPORT/football/06/22/france.crisis/index.html |publisher=Cable News Network |date=22 June 2010 |access-date=25 June 2010}}</ref>
+
+In [[2014 FIFA World Cup|2014]], France advanced to the quarter-finals before losing 1–0 to eventual champions Germany. [[2018 FIFA World Cup|Four years later]], France defeated Croatia 4–2 in the [[2018 FIFA World Cup Final|final match]] and won the World Cup for the second time.<ref>{{cite news |url=http://www.abc.net.au/news/2018-07-16/world-cup-final-croatia-v-france-match-report/9996430 |title=World Cup: France beats Croatia 4–2 to become world champion for a second time |first=Liam |last=Butterworth |date=15 July 2018 |access-date=16 July 2018 |work=[[ABC News (Australia)|ABC News]]}}</ref> In [[2022 FIFA World Cup|2022]], France finished runners-up to Argentina, losing 4–2 on penalties.
+
+{{France FIFA World Cup record}}
+
+===UEFA European Championship===
+{{main|France at the UEFA European Championship}}
+
+France is one of the most successful nations at the [[UEFA European Championship]] having won two titles in [[UEFA Euro 1984|1984]] and [[UEFA Euro 2000|2000]]. The team is just below [[Spain national football team|Spain]] with four titles and [[Germany national football team|Germany]] with three. France hosted the [[1960 European Nations' Cup|inaugural competition]] in 1960 and have appeared in eleven UEFA European Championship tournaments, tied for fourth-best. The team won their first title on home soil in 1984 and were led by [[Ballon d'Or]] winner [[Michel Platini]]. In 2000, the team, led by [[FIFA World Player of the Year]] Zinedine Zidane, won its second title in Belgium and the Netherlands. The team's worst result in the competition was a first-round elimination in [[UEFA Euro 1992|1992]] and [[UEFA Euro 2008|2008]].
+
+{| class="wikitable" style="text-align: center;"
+|-
+!colspan=10|[[UEFA European Championship]] record
+!width=1% rowspan=22|
+!colspan=7|[[UEFA European Championship qualifying|Qualifying]] record
+|-
+!Year
+!Round
+!Position
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}*
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!Squad
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!—
+|- style="background:#9acdff"
+|style="border: 3px solid red"|{{flagicon|France|1794}} [[1960 European Nations' Cup|1960]]
+|Fourth place
+|4th
+|2
+|0
+|0
+|2
+|4
+|7
+|[[1960 European Nations' Cup squads#France|Squad]]
+|4
+|3
+|1
+|0
+|17
+|6
+|[[1960 European Nations' Cup qualifying|1960]]
+|-
+|{{flagicon|Spain|1945}} [[1964 European Nations' Cup|1964]]
+|colspan=9 rowspan=5|''Did not qualify''
+|6
+|2
+|1
+|3
+|11
+|10
+|[[1964 European Nations' Cup qualifying|1964]]
+|-
+|{{flagicon|Italy}} [[UEFA Euro 1968|1968]]
+|8
+|4
+|2
+|2
+|16
+|12
+|[[UEFA Euro 1968 qualifying|1968]]
+|-
+|{{flagicon|Belgium}} [[UEFA Euro 1972|1972]]
+|6
+|3
+|1
+|2
+|10
+|8
+|[[UEFA Euro 1972 qualifying|1972]]
+|-
+|{{flagicon|Yugoslavia}} [[UEFA Euro 1976|1976]]
+|6
+|1
+|3
+|2
+|7
+|6
+|[[UEFA Euro 1976 qualifying|1976]]
+|-
+|{{flagicon|Italy}} [[UEFA Euro 1980|1980]]
+|6
+|4
+|1
+|1
+|13
+|7
+|[[UEFA Euro 1980 qualifying|1980]]
+|- style="background:Gold;"
+|style="border: 3px solid red"|{{flagicon|France|1974}} [[UEFA Euro 1984|1984]]
+|'''[[UEFA Euro 1984 final|Champions]]'''
+|'''1st'''
+|'''5'''
+|'''5'''
+|'''0'''
+|'''0'''
+|'''14'''
+|'''4'''
+|'''[[UEFA Euro 1984 squads#France|Squad]]'''
+|colspan=6|''Qualified as hosts''
+|[[UEFA Euro 1984 qualifying|1984]]
+|-
+|{{flagicon|West Germany}} [[UEFA Euro 1988|1988]]
+|colspan=9|''Did not qualify''
+|8
+|1
+|4
+|3
+|4
+|7
+|[[UEFA Euro 1988 qualifying|1988]]
+|-
+|{{flagicon|Sweden}} [[UEFA Euro 1992|1992]]
+|Group stage
+|6th
+|3
+|0
+|2
+|1
+|2
+|3
+|[[UEFA Euro 1992 squads#France|Squad]]
+|8
+|8
+|0
+|0
+|20
+|6
+|[[UEFA Euro 1992 qualifying|1992]]
+|- style="background:#9acdff "
+|{{flagicon|England}} [[UEFA Euro 1996|1996]]
+|Semi-finals
+|4th
+|5
+|2
+|3
+|0
+|5
+|2
+|[[UEFA Euro 1996 squads#France|Squad]]
+|10
+|5
+|5
+|0
+|22
+|2
+|[[UEFA Euro 1996 qualifying|1996]]
+|- style="background:Gold;"
+|{{flagicon|Belgium}} {{flagicon|Netherlands}} [[UEFA Euro 2000|2000]]
+|'''[[UEFA Euro 2000 final|Champions]]'''
+|'''1st'''
+|'''6'''
+|'''5'''
+|'''0'''
+|'''1'''
+|'''13'''
+|'''7'''
+|'''[[UEFA Euro 2000 squads#France|Squad]]'''
+|10
+|6
+|3
+|1
+|17
+|10
+|[[UEFA Euro 2000 qualifying|2000]]
+|-
+|{{flagicon|Portugal}} [[UEFA Euro 2004|2004]]
+|Quarter-finals
+|6th
+|4
+|2
+|1
+|1
+|7
+|5
+|[[UEFA Euro 2004 squads#France|Squad]]
+|8
+|8
+|0
+|0
+|29
+|2
+|[[UEFA Euro 2004 qualifying|2004]]
+|-
+|{{flagicon|Austria}} {{flagicon|Switzerland}} [[UEFA Euro 2008|2008]]
+|Group stage
+|15th
+|3
+|0
+|1
+|2
+|1
+|6
+|[[UEFA Euro 2008 squads#France|Squad]]
+|12
+|8
+|2
+|2
+|25
+|5
+|[[UEFA Euro 2008 qualifying|2008]]
+|-
+|{{flagicon|Poland}} {{flagicon|Ukraine}} [[UEFA Euro 2012|2012]]
+|Quarter-finals
+|8th
+|4
+|1
+|1
+|2
+|3
+|5
+|[[UEFA Euro 2012 squads#France|Squad]]
+|10
+|6
+|3
+|1
+|15
+|4
+|[[UEFA Euro 2012 qualifying|2012]]
+|- style="background:Silver;"
+|style="border: 3px solid red"|{{flagicon|France|1974}} [[UEFA Euro 2016|2016]]
+|'''[[UEFA Euro 2016 final|Runners-up]]'''
+|'''2nd'''
+|'''7'''
+|'''5'''
+|'''1'''
+|'''1'''
+|'''13'''
+|'''5'''
+|'''[[UEFA Euro 2016 squads#France|Squad]]'''
+|colspan=6|''Qualified as hosts''
+|[[UEFA Euro 2016 qualifying|2016]]
+|-
+|{{flagicon|Europe}} [[UEFA Euro 2020|2020]]
+|Round of 16
+|11th
+|4
+|1
+|3
+|0
+|7
+|6
+|[[UEFA Euro 2020 squads#France|Squad]]
+|10
+|8
+|1
+|1
+|25
+|6
+|[[UEFA Euro 2020 qualifying|2020]]
+|- style="background:#9acdff"
+|{{flagicon|Germany}} [[UEFA Euro 2024|2024]]
+||Semi-finals||4th||6||2||3||1||4||3||[[UEFA Euro 2024 squads#France|Squad]]||8||7||1||0||29||3||[[UEFA Euro 2024 qualifying|2024]]
+|-
+|{{flagicon|United Kingdom}} {{flagicon|Republic of Ireland}} [[UEFA Euro 2028|2028]]
+|colspan=9 rowspan=2|''To be determined''
+|colspan=6 rowspan=2|''To be determined''
+|[[UEFA Euro 2028 qualifying|2028]]
+|-
+|{{flagicon|Italy}} {{flagicon|Turkey}} [[UEFA Euro 2032|2032]]
+|2032
+|-
+!Total
+!2 Titles
+!11/17
+!49
+!23
+!15
+!11
+!73
+!53
+!—
+!120
+!74
+!28
+!18
+!260
+!94
+!—
+|}
+:''*Draws include knockout matches decided via [[Penalty shoot-out (association football)|penalty shoot-out]].''
+
+===UEFA Nations League===
+{{main|France in the UEFA Nations League}}
+
+{| class="wikitable" style="text-align:center"
+!colspan=22|[[UEFA Nations League]] record
+|-
+!colspan=12|League phase / quarter-finals
+!rowspan=7|
+!colspan=9|Finals
+|-
+!Season
+!{{Tooltip|LG|League (A, B, C or D)}}
+!{{Tooltip|Grp|Group (1, 2, 3 or 4)}}
+!{{Tooltip|Pos|Position}}
+!{{Tooltip|Pld|Matches played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!{{Tooltip|P/R|Promotion/relegation at end of season}}
+!{{Tooltip|IR|Interim ranking}}
+!Year
+!{{Tooltip|Pld|Matches played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}*
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!Squad
+!{{Tooltip|OR|Overall ranking}}
+|-
+|[[2018–19 UEFA Nations League|2018–19]]
+|[[2018–19 UEFA Nations League A|A]]
+|[[2018–19 UEFA Nations League A#Group 1|1]]
+|2nd||4||2||1||1||4||4||{{same position}}||6th
+|{{flagicon|POR}} [[2019 UEFA Nations League Finals|2019]]
+|colspan=7|''Did not qualify''
+|6th
+|- style="background:Gold;"
+|[[2020–21 UEFA Nations League|2020–21]]
+|[[2020–21 UEFA Nations League A|A]]
+|[[2020–21 UEFA Nations League A#Group 3|3]]
+|1st||6||5||1||0||12||5||{{same position}}||1st
+|{{flagicon|ITA}} [[2021 UEFA Nations League Finals|2021]]
+|'''2'''||'''2'''||'''0'''||'''0'''||'''5'''||'''3'''
+|'''[[2021 UEFA Nations League Finals squads#France|Squad]]'''
+|'''[[2021 UEFA Nations League final|1st]]'''
+|-
+|[[2022–23 UEFA Nations League|2022–23]]
+|[[2022–23 UEFA Nations League A|A]]
+|[[2022–23 UEFA Nations League A#Group 1|1]]
+|3rd||6||1||2||3||5||7||{{same position}}||12th
+|{{flagicon|NED}} [[2023 UEFA Nations League Finals|2023]]
+|colspan=7|''Did not qualify''
+|12th
+|- style="background:#cc9966"
+|[[2024–25 UEFA Nations League|2024–25]]
+|[[2024–25 UEFA Nations League A|A]]
+|[[2024–25 UEFA Nations League A#Group 2|2]]
+|1st||8||5||1||2||14||8||{{same position}}||4th
+|{{flagicon|GER}} [[2025 UEFA Nations League Finals|2025]]
+||'''2'''||'''1'''||'''0'''||'''1'''||'''6'''||'''5'''
+|'''[[2025 UEFA Nations League Finals squads#France|Squad]]'''
+|'''3rd'''
+|-
+!colspan=4|Total
+!24
+!13
+!5
+!6
+!35
+!24
+!colspan=2|—
+!Total
+!4
+!3
+!0
+!1
+!11
+!8
+!—
+!1 Title
+|}
+:''*Draws include knockout matches decided via [[Penalty shoot-out (association football)|penalty shoot-out]].''
+:''**Group stage and quarter-finals played home and away. Flag shown represents host nation for the finals stage. ''
+
+===FIFA Confederations Cup===
+{{main|France at the FIFA Confederations Cup}}
+
+France have appeared in two of the eight [[FIFA Confederations Cup]]s contested and won the competition on both appearances. The team's two titles place in second place only trailing [[Brazil national football team|Brazil]] who have won four. France won their first Confederations Cup in [[2001 FIFA Confederations Cup|2001]] having appeared in the competition as a result of winning the FIFA World Cup in 1998. The team defeated [[Japan national football team|Japan]] 1–0 in the final match. In the following Confederations Cup in [[2003 FIFA Confederations Cup|2003]], France, appearing in the competition as the host country, won the competition beating [[Cameroon national football team|Cameroon]] 1–0 after [[extra time]].
+
+{| class="wikitable" style="text-align: center;"
+!colspan=11|[[FIFA Confederations Cup]] record
+|-
+!Year
+!Round
+!Position
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}*
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!Squad
+|-
+|{{flagicon|Saudi Arabia}} [[1992 King Fahd Cup|1992]]
+|colspan=9 rowspan=4|''Did not qualify''
+|-
+|{{flagicon|Saudi Arabia}} [[1995 King Fahd Cup|1995]]
+|-
+|{{flagicon|Saudi Arabia}} [[1997 FIFA Confederations Cup|1997]]
+|-
+|{{flagicon|Mexico}} [[1999 FIFA Confederations Cup|1999]]
+|- style="background:Gold;"
+|{{flagicon|South Korea}} {{flagicon|Japan}} [[2001 FIFA Confederations Cup|2001]]
+|'''[[2001 FIFA Confederations Cup Final|Champions]]'''
+|'''1st'''
+|'''5'''
+|'''4'''
+|'''0'''
+|'''1'''
+|'''12'''
+|'''2'''
+|'''[[2001 FIFA Confederations Cup squads#France|Squad]]'''
+|- style="background:Gold;"
+|style="border: 3px solid red"|{{flagicon|France|1974}} [[2003 FIFA Confederations Cup|2003]]
+|'''[[2003 FIFA Confederations Cup Final|Champions]]'''
+|'''1st'''
+|'''5'''
+|'''5'''
+|'''0'''
+|'''0'''
+|'''12'''
+|'''3'''
+|'''[[2003 FIFA Confederations Cup squads#France|Squad]]'''
+|-
+|{{flagicon|Germany}} [[2005 FIFA Confederations Cup|2005]]
+|colspan=9 rowspan=4|''Did not qualify''
+|-
+|{{flagicon|South Africa}} [[2009 FIFA Confederations Cup|2009]]
+|-
+|{{flagicon|Brazil}} [[2013 FIFA Confederations Cup|2013]]
+|-
+|{{flagicon|Russia}} [[2017 FIFA Confederations Cup|2017]]
+|-
+!Total
+!2 Titles
+!2/10
+!10
+!9
+!0
+!1
+!24
+!5
+!—
+|}
+
+===CONMEBOL–UEFA Cup of Champions===
+{| class="wikitable" style="text-align: center;"
+!colspan=9|[[CONMEBOL–UEFA Cup of Champions]] record
+|-
+!Year
+!Round
+!Position
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}*
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+|- style="background:Gold;"
+|style="border: 3px solid red"|{{flagicon|France|1974}} [[1985 Artemio Franchi Cup|1985]]
+|'''[[1985 Artemio Franchi Cup|Champions]]'''
+|'''1st'''
+|'''1'''
+|'''1'''
+|'''0'''
+|'''0'''
+|'''2'''
+|'''0'''
+|-
+|{{flagicon|Argentina}} [[1993 Artemio Franchi Cup|1993]]
+|colspan=9 rowspan=3|''Did not qualify''
+|-
+|{{flagicon|England}} [[2022 Finalissima|2022]]
+|-
+|{{flagicon|Qatar}} [[2026 Finalissima|2026]]
+|-
+!Total
+!1 Title
+!1/3
+!1
+!1
+!0
+!0
+!2
+!0
+|}
+
+==Head-to-head record ==
+''Updated as of France vs. Morocco on 9 July 2026''.
+{| class="wikitable sortable"
+|-
+! style="background:lightgrey; width="200" | Opponent
+! style="background:lightgrey; width="70" | Played
+! style="background:lightgrey; width="70" | Won
+! style="background:lightgrey; width="70" | Drawn
+! style="background:lightgrey; width="70" | Lost
+! style="background:lightgrey; width="70" | Goals for
+! style="background:lightgrey; width="70" | Goals against
+! style="background:lightgrey; width="70" | Goal difference
+! style="background:lightgrey; width="70" | % Won
+! style="background:lightgrey; width="70" | Confederation
+|- align="center"| bgcolor=#CCFFCC
+| align=left| {{fb|Albania}} || 9 || 7 || 1 || 1 || 20 || 4 || +16 || {{percentage | 7 | 9 | 2 }} || [[UEFA]]
+|- align="center"|- bgcolor=#CCFFCC
+| align=left| {{fb|Algeria}} || 1 || 1 || 0 || 0 || 4 || 1 || +3 || {{percentage | 1 | 1 | 2 }} || [[Confederation of African Football|CAF]]
+|- align="center"|- bgcolor=#CCFFCC
+| align=left| {{fb|Andorra}} || 5 || 5 || 0 || 0 || 14 || 0 || +14 || {{percentage | 5 | 5 | 2 }} || [[UEFA]]
+|- align="center"|- bgcolor=#FFCCCC
+| align=left| {{fb|Argentina}} || 13 || 3 || 4 || 6 || 14 || 18 || -4 || {{percentage | 3 | 13 | 2 }} || [[CONMEBOL]]
+|- align="center"|- bgcolor=#CCFFCC
+| align=left| {{fb|Armenia}} || 5 || 5 || 0 || 0 || 14 || 2 || +12 || {{percentage | 5 | 5 | 2 }} || [[UEFA]]
+|- align="center"|- bgcolor=#CCFFCC
+| align=left| {{fb|Australia}} || 6 || 4 || 1 || 1 || 14 || 4 || +10 || {{percentage | 4 | 6 | 2 }} || [[Oceania Football Confederation|OFC]]/[[Asian Football Federation|AFC]]
+|- align="center"|- bgcolor=#CCFFCC
+| align=left| {{fb|Austria}} || 26 || 14 || 3 || 9 || 43 || 41 || +2 || {{percentage | 14 | 26 | 2 }} || [[UEFA]]
+|- align="center"|- bgcolor=#CCFFCC
+| align=left| {{fb|Azerbaijan}} || 4 || 4 || 0 || 0 || 18 || 1 || +17 || {{percentage | 4 | 4 | 2 }} || [[UEFA]]
+|- align="center"|- bgcolor=#CCFFCC
+| align=left| {{fb|Belarus}} || 6 || 3 || 2 || 1 || 10 || 6 || +4 || {{percentage | 3 | 6 | 2 }} || [[UEFA]]
+|- align="center"|- bgcolor=#FFCCCC
+| align=left| {{fb|Belgium}} || 78 || 29 || 19 || 30 || 136 || 163 || -27 || {{percentage | 29 | 78 | 2 }} || [[UEFA]]
+|- align="center"|- bgcolor=#CCFFCC
+| align=left| {{fb|Bolivia}} || 1 || 1 || 0 || 0 || 2 || 0 || +2 || {{percentage | 1 | 1 | 2 }} || [[CONMEBOL]]
+|- align="center"|- bgcolor=#CCFFCC
+| align=left| {{fb|Bosnia-Herzegovina}} || 6 || 3 || 3 || 0 || 8 || 4 || +4 || {{percentage | 3 | 6 | 2 }} || [[UEFA]]
+|- align="center"|- bgcolor=#CCFFCC
+| align=left| {{fb|Brazil}} || 17 || 7 || 4 || 6 || 25 || 28 || -3 || {{percentage | 7 | 17 | 2 }} || [[CONMEBOL]]
+|- align="center"|- bgcolor=#CCFFCC
+| align=left| {{fb|Bulgaria}} || 23 || 11 || 4 || 8 || 41 || 26 || +15 || {{percentage | 11 | 23 | 2 }} || [[UEFA]]
+|- align="center"|- bgcolor=#CCFFCC
+| align=left|  [[Confederation of African Football|CAF]] XI || 1 || 1 || 0 || 0 || 2 || 0 || +2 || {{percentage | 1 | 1 | 2 }} || [[Confederation of African Football|CAF]]
+|- align="center"|- bgcolor=#CCFFCC
+| align=left| {{fb|Cameroon}} || 3 || 2 || 1 || 0 || 5 || 3 || +2 || {{percentage | 2 | 3 | 2 }} || [[Confederation of African Football|CAF]]
+|- align="center"|- bgcolor=#CCFFCC
+| align=left| {{fb|Canada}} || 2 || 1 || 1 || 0 || 1 || 0 || +1 || {{percentage | 1 | 2 | 2 }} || [[CONCACAF]]
+|- align="center"|- bgcolor=#CCFFCC
+| align=left| {{fb|Chile}} || 6 || 3 || 1 || 2 || 14 || 7 || +7 || {{percentage | 3 | 6 | 2 }} || [[CONMEBOL]]
+|- align="center"|- bgcolor=#FFFFCC
+| align=left| {{fb|China}} || 2 || 1 || 0 || 1 || 3 || 2 || +1 || {{percentage | 1 | 2 | 2 }} || [[Asian Football Federation|AFC]]
+|- align="center"|- bgcolor=#CCFFCC
+| align=left| {{fb|Colombia}} || 5 || 4 || 0 || 1 || 10 || 6 || +3 || {{percentage | 4 | 5 | 2 }} || [[CONMEBOL]]
+|- align="center"|- bgcolor=#CCFFCC
+| align=left| [[Confederation of Central America|CONCACAF]] XI || 1 || 1 || 0 || 0 || 5 || 0 || +5 || {{percentage | 1 | 1 | 2 }} || [[CONCACAF]]
+|- align="center"|- bgcolor=#CCFFCC
+| align=left| {{fb|Costa Rica}} || 2 || 2 || 0 || 0 || 5 || 3 || +2 || {{percentage | 2 | 2 | 2 }} || [[CONCACAF]]
+|- align="center"|- bgcolor=#CCFFCC
+| align=left| {{fb|Croatia}} || 12 || 7 || 3 || 2 || 22 || 12 || +10 || {{percentage | 7 | 12 | 2 }} || [[UEFA]]
+|- align="center"|- bgcolor=#CCFFCC
+| align=left| {{fb|Cyprus}} || 8 || 7 || 1 || 0 || 27 || 2 || +25 || {{percentage | 7 | 8 | 2 }} || [[UEFA]]
+|- align="center"|- bgcolor=#FFCCCC
+| align=left| {{fb|Czechoslovakia}} || 20 || 7 || 4 || 9 || 29 || 34 || -5 || {{percentage | 7 | 20 | 2 }} || [[UEFA]]
+|- align="center"|- bgcolor=#FFFFCC
+| align=left| {{fb|Czech Republic}} || 4 || 1 || 2 || 1 || 4 || 5 || -1 || {{percentage | 1 | 4 | 2 }} || [[UEFA]]
+|- align="center"|- bgcolor=#CCFFCC
+| align=left| {{fb|Denmark}} || 19 || 9 || 2 || 8 || 23 || 42 || -19 || {{percentage | 9 | 19 | 2 }} || [[UEFA]]
+|- align="center"|- bgcolor=#FFCCCC
+| align=left| {{fb|East Germany}} || 7 || 2 || 2 || 3 || 8 || 7 || +1 || {{percentage | 2 | 7 | 2 }} || [[UEFA]]
+|- align="center"|- bgcolor=#CCFFCC
+| align=left| {{fb|Ecuador}} || 2 || 1 || 1 || 0 || 2 || 0 || +2 || {{percentage | 1 | 2 | 2 }} || [[CONMEBOL]]
+|- align="center"|- bgcolor=#CCFFCC
+| align=left| {{fb|Egypt}} || 1 || 1 || 0 || 0 || 5 || 0 || +5 || {{percentage | 1 | 1 | 2 }} || [[Confederation of African Football|CAF]]
+|- align="center"|- bgcolor=#FFCCCC
+| align=left| {{fb|England}} || 34 || 11 || 6 || 17 || 45 || 75 || -30 || {{percentage | 11 | 34 | 2 }} || [[UEFA]]
+|- align="center"|- bgcolor=#FFCCCC
+| align=left| {{fb|England}} Amateur || 8 || 1 || 0 || 7 || 4 || 61 || -57 || {{percentage | 1 | 8 | 2 }} || [[UEFA]]
+|- align="center"|- bgcolor=#CCFFCC
+| align=left| {{fb|Estonia}} || 1 || 1 || 0 || 0 || 4 || 0 || +4 || {{percentage | 1 | 1 | 2 }} || [[UEFA]]
+|- align="center"|- bgcolor=#CCFFCC
+| align=left| {{fb|Faroe Islands}} || 6 || 6 || 0 || 0 || 22 || 0 || +22 || {{percentage | 6 | 6 | 2 }} || [[UEFA]]
+|- align="center"|- bgcolor=#CCFFCC
+| align=left| [[File:FIFA Flag.svg|20px]] [[FIFA]] XI || 1 || 1 || 0 || 0 || 5 || 1 || +4 || {{percentage | 1 | 1 | 2 }} || [[FIFA]]
+|- align="center"|- bgcolor=#CCFFCC
+| align=left| {{fb|Finland}} || 11 || 10 || 0 || 1 || 22 || 5 || +17 || {{percentage | 10 | 11 | 2 }} || [[UEFA]]
+|- align="center"|- bgcolor=#CCFFCC
+| align=left| {{fb|Georgia}} || 4 || 3 || 1 || 0 || 7 || 1 || +6 || {{percentage | 3 | 4 | 2 }} || [[UEFA]]
+|- align="center"|- bgcolor=#CCFFCC
+| align=left| {{fb|Germany}}{{#tag:ref|Includes matches against {{fb|West Germany}}|group="note"}} || 35 || 16 || 8 || 11 || 53 || 50 || +3 || {{percentage | 16 | 35 | 2 }} || [[UEFA]]
+|- align="center"|- bgcolor=#CCFFCC
+| align=left| {{fb|Greece}} || 10 || 7 || 2 || 1 || 26 || 9 || +17 || {{percentage | 7 | 10 | 2 }} || [[UEFA]]
+|- align="center"|- bgcolor=#CCFFCC
+| align=left| {{fb|Gibraltar}} || 2 || 2 || 0 || 0 || 17 || 0 || +17 || {{percentage | 2 | 2 | 2 }} || [[UEFA]]
+|- align="center"|- bgcolor=#CCFFCC
+| align=left| {{fb|Honduras}} || 1 || 1 || 0 || 0 || 3 || 0 || +3 || {{percentage | 1 | 1 | 2 }} || [[CONCACAF]]
+|- align="center"|- bgcolor=#FFCCCC
+| align=left| {{fb|Hungary}} || 23 || 8 || 3 || 12 || 32 || 48 || -16 || {{percentage | 8 | 23 | 2 }} || [[UEFA]]
+|- align="center"|- bgcolor=#CCFFCC
+| align=left| {{fb|Iceland}} || 17 || 12 || 5 || 0 || 46 || 15 || +31 || {{percentage | 12 | 17 | 2 }} || [[UEFA]]
+|- align="center"|- bgcolor=#CCFFCC
+| align=left| {{fb|Iraq}} || 1 || 1 || 0 || 0 || 3 || 0 || +3 || {{percentage | 1 | 1 | 2 }} || [[AFC]]
+|- align="center"|- bgcolor=#CCFFCC
+| align=left| {{fb|Iran}} || 1 || 1 || 0 || 0 || 2 || 1 || +1 || {{percentage | 1 | 1 | 2 }} || [[Asian Football Federation|AFC]]
+|- align="center"|- bgcolor=#CCFFCC
+| align=left| {{fb|Ireland}} || 1 || 1 || 0 || 0 || 4|| 0 || +4 || {{percentage | 1 | 1 | 2 }} || [[UEFA]]
+|- align="center"|- bgcolor=#FFCCCC
+| align=left| {{fb|Ireland}} Amateur || 1 || 0 || 0 || 1 || 1 || 2 || -1 || {{percentage | 0 | 1 | 2 }} || [[UEFA]]
+|- align="center"|- bgcolor=#CCFFCC
+| align=left| {{fb|Israel}} || 11 || 5 || 5 || 1 || 19 || 7 || +12 || {{percentage | 5 | 11 | 2 }} || [[UEFA]]
+|- align="center"|- bgcolor=#FFCCCC
+| align=left| {{fb|Italy}} || 41 || 12|| 10 || 19 || 60 || 86 || -26 || {{percentage | 11 | 40 | 2 }} || [[UEFA]]
+|- align="center"|- bgcolor=#CCFFCC
+| align=left| {{fb|Côte d'Ivoire}} || 4 || 2 || 1 || 1 || 6 || 3 || +3 || {{percentage | 2 | 4 | 2 }} || [[Confederation of African Football|CAF]]
+|- align="center"|- bgcolor=#CCFFCC
+| align=left| {{fb|Jamaica}} || 1 || 1 || 0 || 0 || 8 || 0 || +8 || {{percentage | 1 | 1 | 2 }} || [[CONCACAF]]
+|- align="center"|- bgcolor=#CCFFCC
+| align=left| {{fb|Japan}} || 6 || 4 || 1 || 1 || 14 || 5 || +9 || {{percentage | 4 | 6 | 2 }} || [[Asian Football Federation|AFC]]
+|- align="center"|- bgcolor=#CCFFCC
+| align=left| {{fb|Kazakhstan}} || 2 || 2 || 0 || 0 || 10 || 0 || +10 || {{percentage | 2 | 2 | 2 }} || [[UEFA]]
+|- align="center"|- bgcolor=#CCFFCC
+| align=left| {{fb|Kuwait}} || 2 || 2 || 0 || 0 || 5 || 1 || +4 || {{percentage | 2 | 2 | 2 }} || [[Asian Football Federation|AFC]]
+|- align="center"|- bgcolor=#CCFFCC
+| align=left| {{fb|Latvia}} || 1 || 1 || 0 || 0 || 7 || 0 || +7 || {{percentage | 1 | 1 | 2 }} || [[UEFA]]
+|- align="center"|- bgcolor=#CCFFCC
+| align=left| {{fb|Lithuania}} || 4 || 4 || 0 || 0 || 5 || 0 || +5 || {{percentage | 4 | 4 | 2 }} || [[UEFA]]
+|- align="center"|- bgcolor=#CCFFCC
+| align=left| {{fb|Luxembourg}} || 19 || 17 || 1 || 1 || 74 || 12 || +62 || {{percentage | 17 | 19 | 2 }} || [[UEFA]]
+|- align="center"|- bgcolor=#CCFFCC
+| align=left| {{fb|Malta}} || 2 || 2 || 0 || 0 || 10 || 0 || +10 || {{percentage | 2 | 2 | 2 }} || [[UEFA]]
+|- align="center"|- bgcolor=#CCFFCC
+| align=left| {{fb|Mexico}} || 7 || 5 || 1 || 1 || 15 || 6 || +9 || {{percentage | 5 | 7 | 2 }} || [[CONCACAF]]
+|- align="center"|- bgcolor=#CCFFCC
+| align=left| {{fb|Moldova}} || 2 || 2 || 0 || 0 || 6 || 2 || +4 || {{percentage | 2 | 2 | 2 }} || [[UEFA]]
+|- align="center"|- bgcolor=#CCFFCC
+| align=left| {{fb|Morocco}} || 7 || 5 || 2 || 0 || 16 || 6 || +10 || {{percentage | 5 | 7 | 2 }} || [[Confederation of African Football|CAF]]
+|- align="center"|- bgcolor=#CCFFCC
+| align=left| {{fb|Netherlands}} || 31 || 15 || 5 ||11 || 53 || 57 || -4 || {{percentage | 15 | 31 | 2 }} || [[UEFA]]
+|- align="center"|- bgcolor=#CCFFCC
+| align=left| {{fb|New Zealand}} || 1 || 1 || 0 || 0 || 5 || 0 || +5 || {{percentage | 1 | 1 | 2 }} || [[Oceania Football Confederation|OFC]]
+|- align="center"|- bgcolor=#FFFFCC
+| align=left| {{fb|Nigeria}} || 2 || 1 || 0 || 1 || 2 || 1 || +1 || {{percentage | 1 | 2 | 2 }} || [[Confederation of African Football|CAF]]
+|- align="center"|- bgcolor=#CCFFCC
+| align=left| {{fb|Northern Ireland}} || 9 || 6 || 3 || 0 || 21 || 5 || +16 || {{percentage | 6 | 9 | 2 }} || [[UEFA]]
+|- align="center"|- bgcolor=#CCFFCC
+| align=left| {{fb|Norway}} || 17 || 9 || 4 || 4 || 28 || 17 || +11 || {{percentage | 9 | 17 | 2 }} || [[UEFA]]
+|- align="center"|- bgcolor=#CCFFCC
+| align=left| {{fb|Paraguay}} || 6 || 4 || 2 || 0 || 15 || 4 || +11 || {{percentage | 4 | 6 | 2 }} || [[CONMEBOL]]
+|- align="center"|- bgcolor=#FFFFCC
+| align=left| {{fb|Peru}} || 2 || 1 || 0 || 1 || 1 || 1 || 0 || {{percentage | 1 | 2 | 2 }} || [[CONMEBOL]]
+|- align="center"|- bgcolor=#CCFFCC
+| align=left| {{fb|Poland}} || 18 || 9 || 6 || 3 || 31 || 18 || +13 || {{percentage | 9 | 18 | 2 }} || [[UEFA]]
+|- align="center"|- bgcolor=#CCFFCC
+| align=left| {{fb|Portugal}} || 29 || 19 || 4 || 6 || 52 || 31 || +21 || {{percentage | 19 | 29 | 2 }} || [[UEFA]]
+|- align="center"|- bgcolor=#CCFFCC
+| align=left| {{fb|Republic of Ireland}} || 19 || 10 || 5 || 4 || 25 || 15 || +10 || {{percentage | 10 | 19 | 2 }} || [[UEFA]]
+|- align="center"|- bgcolor=#CCFFCC
+| align=left| {{fb|Romania}} || 16 || 8 || 5 || 3 || 21 || 16 || +5 || {{percentage | 5 | 8 | 2 }} || [[UEFA]]
+|- align="center"|- bgcolor=#CCFFCC
+| align=left| {{fb|Russia}} || 7 || 4 || 1 || 2 || 15 || 10 || +5 || {{percentage | 4 | 7 | 2 }} || [[UEFA]]
+|- align="center"|- bgcolor=#CCFFCC
+| align=left| {{fb|Saudi Arabia}} || 1 || 1 || 0 || 0 || 4 || 0 || +4 || {{percentage | 1 | 1 | 2 }} || [[Asian Football Federation|AFC]]
+|- align="center"|- bgcolor=#CCFFCC
+| align=left| {{fb|Scotland}} || 17 || 9 || 0 || 8 || 27 || 16 || +11 || {{percentage | 9 | 17 | 2 }} || [[UEFA]]
+|- align="center"|- bgcolor=#FFFFCC
+| align=left| {{fb|Senegal}} || 2 || 1 || 0 || 1 || 3 || 2 || +1 || {{percentage | 1 | 2 | 2 }} || [[Confederation of African Football|CAF]]
+|- align="center"|- bgcolor=#CCFFCC
+| align=left| {{fb|Serbia}} || 5 || 3 || 2 || 0 || 8 || 4 || +4 || {{percentage | 3 | 5 | 2 }} || [[UEFA]]
+|- align="center"|- bgcolor=#CCFFCC
+| align=left| {{fb|Slovakia}} || 4 || 2 || 1 || 1 || 6 || 2 || +4 || {{percentage | 2 | 4 | 2 }} || [[UEFA]]
+|- align="center"|- bgcolor=#CCFFCC
+| align=left| {{fb|Slovenia}} || 3 || 3 || 0 || 0 || 10 || 2 || +8 || {{percentage | 3 | 3 | 2 }} || [[UEFA]]
+|- align="center"|- bgcolor=#CCFFCC
+| align=left| {{fb|South Africa}} || 5 || 3 || 1 || 1 || 11 || 3 || +8 || {{percentage | 3 | 5 | 2 }} || [[Confederation of African Football|CAF]]
+|- align="center"|- bgcolor=#CCFFCC
+| align=left| {{fb|South Korea}} || 3 || 2 || 1 || 0 || 9 || 3 || +6 || {{percentage | 2 | 3 | 2 }} || [[Asian Football Federation|AFC]]
+|- align="center"|- bgcolor=#FFCCCC
+| align=left| {{fb|Soviet Union}} || 12 || 2 || 6 || 4 || 13 || 18 || -11 || {{percentage | 2 | 12 | 2 }} || [[UEFA]]
+|- align="center"|- bgcolor=#FFCCCC
+| align=left| {{fb|Spain}} || 38 || 13 || 7 || 18 || 44 || 71 || -27 || {{percentage | 13 | 38 | 2 }} || [[UEFA]]
+|- align="center"|- bgcolor=#CCFFCC
+| align=left| {{fb|Sweden}} || 24 || 13 || 5 || 6 || 37 || 23 || +14 || {{percentage | 13 | 24 | 2 }} || [[UEFA]]
+|- align="center"|- bgcolor=#CCFFCC
+| align=left| {{fb|Switzerland}} || 39 || 16 || 11 || 12 || 70 || 63 || +7 || {{percentage | 16 | 39 | 2 }} || [[UEFA]]
+|- align="center"|- bgcolor=#CCFFCC
+| align=left| {{fb|Togo}} || 1 || 1 || 0 || 0 || 2 || 0 || +2 || {{percentage | 1 | 1 | 2 }} || [[Confederation of African Football|CAF]]
+|- align="center"|- bgcolor=#CCFFCC
+| align=left| {{fb|Tunisia}} || 5 || 2 || 2 || 1 || 7 || 4 || +3 || {{percentage | 2 | 5 | 2 }} || [[Confederation of African Football|CAF]]
+|- align="center"|- bgcolor=#CCFFCC
+| align=left| {{fb|Turkey}} || 6 || 4 || 1 || 1 || 13 || 5 || +8 || {{percentage | 4 | 6 | 2 }} || [[UEFA]]
+|- align="center"|- bgcolor=#CCFFCC
+| align=left| {{fb|United States}} || 4 || 3 || 1 || 0 || 11 || 1 || +10 || {{percentage | 3 | 4 | 2 }} || [[CONCACAF]]
+|- align="center"|- bgcolor=#CCFFCC
+| align=left| {{fb|Ukraine}} || 14 || 8 || 5 || 1 || 29 || 8 || +21 || {{percentage | 8 | 14 | 2 }} || [[UEFA]]
+|- align="center"|- bgcolor=#FFFFCC
+| align=left| {{fb|Uruguay}} || 10 || 3 || 4 || 3 || 7 || 8 || -1 || {{percentage | 3 | 10 | 2 }} || [[CONMEBOL]]
+|- align="center"|- bgcolor=#CCFFCC
+| align=left| {{fb|Wales}} || 6 || 4 || 1 || 1 || 14 || 4 || +10 || {{percentage | 4 | 6 | 2 }} || [[UEFA]]
+|- align="center"|- bgcolor=#FFCCCC
+| align=left| {{fb|Yugoslavia}} || 26 || 9 || 7 || 10 || 41 || 39 || +2 || {{percentage | 9 | 26 | 2 }} || [[UEFA]]
+|-
+!Total
+{{WDLtot|941|480|195|266|for=1707|against=1264|diff=yes}}
+|}<references group="info" />
+{{reflist|group=note}}
+
+==Honours==
+[[File:France champion of the Football World Cup Russia 2018.jpg|thumb|France celebrating their victory of the [[2018 FIFA World Cup]]]]
+===Global===
+* '''[[FIFA World Cup]]'''
+** {{gold1}} '''Champions (2):''' [[1998 FIFA World Cup|1998]], [[2018 FIFA World Cup|2018]]
+** {{silver2}} Runners-up (2): [[2006 FIFA World Cup|2006]], [[2022 FIFA World Cup|2022]]
+** {{bronze3}} Third place (2): [[1958 FIFA World Cup|1958]], [[1986 FIFA World Cup|1986]]
+* '''[[FIFA Confederations Cup]]'''
+** {{gold1}} '''Champions (2):''' [[2001 FIFA Confederations Cup|2001]], [[2003 FIFA Confederations Cup|2003]]
+* '''[[Football at the Summer Olympics|Olympic Games]]'''
+** {{gold1}} '''Gold medal (1):''' [[Football at the 1984 Summer Olympics|1984]]<sup>'''1'''</sup>
+** {{silver2}} Silver medal (1): [[Football at the 1900 Summer Olympics|1900]]<sup>'''2'''</sup>
+
+===Continental===
+* '''[[UEFA European Championship]]'''
+** {{gold1}} '''Champions (2):''' [[UEFA Euro 1984|1984]], [[UEFA Euro 2000|2000]]
+** {{silver2}} Runners-up (1): [[UEFA Euro 2016|2016]]
+* '''[[UEFA Nations League]]'''
+** {{gold1}} '''Champions (1):''' [[2021 UEFA Nations League Final|2021]]
+** {{bronze3}} Third place (1): [[2025 UEFA Nations League Finals|2025]]
+
+===Intercontinental===
+* '''[[CONMEBOL-UEFA Cup of Champions|Artemio Franchi Cup]]'''
+** {{gold1}} '''Champions (1):''' [[1985 Artemio Franchi Cup|1985]]
+
+===Awards===
+* '''[[FIFA World Rankings#Awards|FIFA Team of the Year]]''': 2001
+* '''[[Laureus World Sports Award for Team of the Year|Laureus World Team of the Year]]''': 2001, 2019
+* '''[[World Soccer (magazine)#Men's World Team of the Year|World Soccer Team of the Year]]''': 1984, 1991, 1998, 2000, 2018
+* '''[[Gazzetta Sports Awards#Worldwide|Gazzetta Sports World Team of the Year]]''': 1998, 2000, 2018
+* '''[[Guerin Sportivo#Team of the Year|Guerin Sportivo Team of the Year]]''': 1984
+* '''[[FIFA World Cup Fair Play Trophy]]''': 1998
+* '''[[FIFA World Cup awards#Most Entertaining Team|FIFA World Cup Most Entertaining Team]]''': 1998
+
+===Summary===
+{| class="wikitable" width=30% style="font-size:90%; text-align:center;"
+|-
+!Competition!!{{gold1}}!!{{silver2}}!!{{bronze3}}!!Total
+|-
+|align=left|[[FIFA World Cup]]
+|2||2||2||6
+|-
+|align="left"|[[FIFA Confederations Cup]]
+|2||0||0||2
+|-
+|align=left|[[UEFA European Championship]]
+|2||1||0||3
+|-
+|align=left|[[UEFA Nations League]]
+|1||0||1||2
+|-
+|align="left"|[[CONMEBOL–UEFA Cup of Champions|Artemio Franchi Cup/Finalissima]]
+|1||0||0||1
+|-
+!Total!!8!!4!!3!!14
+|}
+;Notes:
+# The [[France Olympic football team]] participated, officially not recognized by FIFA in the senior team records.
+# Demonstration matches played by club teams, officially not recognized by FIFA. The [[Club Français]] participated.
+
+==See also==
+{{Portal|Association football|France}}
+* [[France women's national football team]]
+* [[France Olympic football team]]
+* [[France national under-21 football team]]
+* [[France national youth football team]]
+* [[French Guiana national football team]]
+* [[Guadeloupe national football team]]
+* [[Martinique national football team]]
+* [[New Caledonia national football team]]
+* [[Réunion national football team]]
+* [[Saint Martin national football team]]
+* [[Tahiti national football team]]
+* [[Ligue 1]]
+* [[Football in France]]
+* [[Sport in France]]
+* [[Zahia affair]]
+
+==Notes==
+{{Notelist}}
+{{Reflist|group=note}}
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons category}}
+* {{oweb}}
+* [https://www.fifa.com/about-fifa/associations/FRA France] at [[FIFA]]
+* [https://www.uefa.com/nationalassociations/fra/ France] at [[UEFA]]
+
+{{France national football team}}
+{{Navboxes top
+|titlestyle = background:#002395; color:white; border:1px solid #ED2939;
+}}
+{{Navboxes top
+| title = Titles
+| bg = gold
+}}
+{{S-start}}
+{{s-ach|aw}}
+{{s-bef|before = {{fb|BRA}}}}
+{{s-ttl|title = [[FIFA World Rankings#Team of the Year|FIFA Team of the Year]]|years = 2001}}
+{{s-aft|after = {{fb-rt|BRA}}}}
+{{S-end}}
+{{FIFA World Cup winners}}
+{{UEFA Euro winners}}
+{{UEFA Nations League winners}}
+{{FIFA Confederations Cup winners}}
+{{Olympics Men's Football Winners}}
+{{Men's Mediterranean Games Football winners}}
+{{Laureus Team of the Year Award}}
+{{navboxes bottom}}
+{{Navboxes top
+|title = France squads
+|bg=#002395
+|fg=white
+|bordercolor=#ED2939
+}}
+{{Navboxes top
+|title= France FIFA World Cup squads
+|bg=#002395
+|fg=white
+|bordercolor=#ED2939
+}}
+{{France squad 1930 FIFA World Cup}}
+{{France squad 1934 FIFA World Cup}}
+{{France squad 1938 FIFA World Cup}}
+{{France squad 1954 FIFA World Cup}}
+{{France squad 1958 FIFA World Cup}}
+{{France squad 1966 FIFA World Cup}}
+{{France squad 1978 FIFA World Cup}}
+{{France squad 1982 FIFA World Cup}}
+{{France squad 1986 FIFA World Cup}}
+{{France squad 1998 FIFA World Cup}}
+{{France squad 2002 FIFA World Cup}}
+{{France squad 2006 FIFA World Cup}}
+{{France squad 2010 FIFA World Cup}}
+{{France squad 2014 FIFA World Cup}}
+{{France squad 2018 FIFA World Cup}}
+{{France squad 2022 FIFA World Cup}}
+{{France squad 2026 FIFA World Cup}}
+{{navboxes bottom}}
+{{Navboxes top
+|title= France UEFA Euro squads
+|bg=#002395
+|fg=white
+|bordercolor=#ED2939
+}}
+{{France squad 1960 European Nations' Cup}}
+{{France squad UEFA Euro 1984}}
+{{France squad UEFA Euro 1992}}
+{{France squad UEFA Euro 1996}}
+{{France squad UEFA Euro 2000}}
+{{France squad UEFA Euro 2004}}
+{{France squad UEFA Euro 2008}}
+{{France squad UEFA Euro 2012}}
+{{France squad UEFA Euro 2016}}
+{{France squad UEFA Euro 2020}}
+{{France squad UEFA Euro 2024}}
+{{navboxes bottom}}
+{{Navboxes top
+|title = France FIFA Confederations Cup squads
+|bg=#002395
+|fg=white
+|bordercolor=#ED2939
+}}
+{{France squad 2001 FIFA Confederations Cup}}
+{{France squad 2003 FIFA Confederations Cup}}
+{{navboxes bottom}}
+{{navboxes bottom}}
+{{Football in France}}
+{{UEFA teams}}
+{{National sports teams of France}}
+{{navboxes bottom}}
+
+[[Category:France national football team| ]]
+[[Category:France men's national football teams| ]]
+[[Category:European national association football teams]]
+[[Category:French Football Federation national teams| ]]
+[[Category:FIFA World Cup–winning countries]]
+[[Category:FIFA Confederations Cup–winning countries]]
+[[Category:UEFA European Championship–winning countries]]
+[[Category:UEFA Nations League–winning countries]]
+[[Category:Laureus World Sports Awards winners]]
+[[Category:1904 establishments in France]]
+[[Category:National sports teams established in 1904]]

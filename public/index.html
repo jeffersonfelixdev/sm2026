@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>SM2026 — Rumo à Copa do Mundo</title>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>⚽</text></svg>">
+  <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+  <header class="topbar" hidden>
+    <button class="topbar__back" data-back aria-label="Voltar">←</button>
+    <ol class="steps">
+      <li data-step="coach">Treinador</li>
+      <li data-step="confederation">Confederação</li>
+      <li data-step="country">Seleção</li>
+      <li data-step="squad">Convocação</li>
+      <li data-step="qualifiers">Eliminatórias</li>
+      <li data-step="worldcup">Copa</li>
+    </ol>
+    <div class="topbar__badge" data-topbar-team></div>
+    <button type="button" class="topbar__reset" data-reset title="Reiniciar do zero">Reiniciar</button>
+  </header>
+
+  <main id="screen" aria-live="polite"></main>
+
+  <div class="toast" id="toast" role="status" hidden></div>
+
+  <script type="module" src="/js/app.js"></script>
+</body>
+</html>

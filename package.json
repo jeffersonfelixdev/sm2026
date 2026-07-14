@@ -1,0 +1,16 @@
+{
+  "name": "sm2026",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Simulador de carreira de treinador rumo à Copa do Mundo de 2026",
+  "type": "module",
+  "engines": {
+    "node": ">=22.5"
+  },
+  "scripts": {
+    "fetch": "node scripts/fetch-data.mjs",
+    "seed": "node scripts/seed.mjs",
+    "build": "npm run fetch && npm run seed",
+    "start": "node server.mjs"
+  }
+}

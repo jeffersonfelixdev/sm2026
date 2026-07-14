@@ -1,0 +1,1538 @@
+{{Short description|Men's association football team}}
+{{About|the men's team|the women's team|Chile women's national football team}}
+{{Use dmy dates|date=November 2025}}
+{{Infobox national football team
+| Name                     = Chile
+| Nickname                 = {{Lang|es|La Roja}} (The Red One)
+| Badge                    = Federación de Fútbol de Chile logo.svg
+| Badge_size               = 185px
+| Association              = [[Football Federation of Chile|Federación de Fútbol de Chile]] (FFCh)
+| Confederation            = [[CONMEBOL]] (South America)
+| Coach                    = [[Nicolás Córdova]] 
+| Captain                  = [[Gabriel Suazo]]
+| Most caps                = [[Alexis Sánchez]] (168)
+| Top scorer               = Alexis Sánchez ([[List of international goals scored by Alexis Sánchez|51]])
+| Home Stadium             = [[Estadio Nacional Julio Martínez Prádanos]]
+| FIFA Trigramme           = CHI
+| FIFA Rank                = {{FIFA World Rankings|CHI}}
+| FIFA max                 = 3
+| FIFA max date            = April–May 2016
+| FIFA min                 = 84
+| FIFA min date            = December 2002
+| Elo Rank                 = {{World Football Elo Ratings|Chile}}
+| Elo max                  = 2
+| Elo max date             = 7 July 2016
+| Elo min                  = 59
+| Elo min date             = 8 June 2003<ref>{{cite web|url=http://www.eloratings.net/Chile|title=World Football Elo Ratings: Chile|website=eloratings.net|publisher=World Football Elo Ratings|access-date=25 April 2018}}</ref>
+| pattern_la1              = _chl26h
+| pattern_b1               = _chl26hA
+| pattern_ra1              = _chl26h
+| pattern_sh1              = _chl26h
+| pattern_so1              = _chl26hl
+| leftarm1                 = FF0000
+| body1                    = FF0000
+| rightarm1                = FF0000
+| shorts1                  = 0000FF
+| socks1                   = FFffff
+| pattern_la2              = _chl26a
+| pattern_b2               = _chl26aA
+| pattern_ra2              = _chl26a
+| pattern_sh2              = _chl26a
+| pattern_so2              = _chl26a2l
+| leftarm2                 = e0d7cd
+| body2                    = e0d7cd
+| rightarm2                = e0d7cd
+| shorts2                  = 504243
+| socks2                   = 504243
+| First game               = {{fb|ARG}} 3–1 {{fb-rt|CHI}}<br/>([[Buenos Aires]], Argentina; 27 May 1910)
+| Largest win              = {{fb|CHI}} 7–0 {{fb-rt|VEN|1954}}<br/>([[Santiago]], Chile; 29 August 1979)<br>{{fb|CHI}} 7–0 {{fb-rt|ARM}}<br/>([[Viña del Mar]], Chile; 4 January 1997)<br>{{fb|MEX}} 0–7 {{fb-rt|CHI}}<br/>([[Santa Clara, California|Santa Clara]], United States; 18 June 2016)
+| Largest loss             = {{fb|BRA|1889}} 7–0 {{fb-rt|CHI}}<br/>([[Rio de Janeiro]], Brazil; 17 September 1959)
+| World cup apps           = 9
+| World cup first          = 1930
+| World cup best           = {{Bronze3}} 3rd ([[1962 FIFA World Cup|1962]])
+| Regional name            = [[Copa América]]
+| Regional cup apps        = 41
+| Regional cup first       = [[1916 South American Championship|1916]]
+| Regional cup best        = {{Gold1}} 1st ([[2015 Copa América|2015]], [[Copa América Centenario|2016]])
+| 2ndRegional name         = [[Panamerican Championship]]
+| 2ndRegional cup apps     = 2
+| 2ndRegional cup first    = [[1952 Panamerican Championship|1952]]
+| 2ndRegional cup best     = {{Silver2}} 2nd ([[1952 Panamerican Championship|1952]])
+| Confederations cup apps  = 1
+| Confederations cup first = [[2017 FIFA Confederations Cup|2017]]
+| Confederations cup best  = {{Silver2}} 2nd ([[2017 FIFA Confederations Cup|2017]])
+| medaltemplates = 
+{{MedalSport|Men's [[Association football|football]]}}
+{{MedalCompetition|[[FIFA World Cup]]}}
+{{MedalBronze|[[1962 FIFA World Cup|1962 Chile]]|[[1962 FIFA World Cup squads#Chile|Team]]}}
+{{MedalCompetition|[[Copa América]]}}
+{{MedalGold|[[2015 Copa America|2015 Chile]]|[[2015 Copa America squads#Chile|Team]]}}
+{{MedalGold|[[2016 Copa America|2016 United States]]|[[Copa América Centenario squads#Chile|Team]]}}
+{{MedalSilver|[[1955 South American Championship|1955 Chile]]|[[1955 South American Championship squads#Chile|Team]]}}
+{{MedalSilver|[[1956 South American Championship|1956 Uruguay]]|[[1956 South American Championship squads#Chile|Team]]}}
+{{MedalSilver|[[1979 Copa América|1979 South America]]|[[1979 Copa América squads#Chile|Team]]}}
+{{MedalSilver|[[1987 Copa América|1987 Argentina]]|[[1987 Copa América squads#Chile|Team]]}}
+{{MedalBronze|[[1926 South American Championship|1926 Chile]]|[[1926 South American Championship squads#Chile|Team]]}}
+{{MedalBronze|[[1941 South American Championship|1941 Chile]]|[[1941 South American Championship squads#Chile|Team]]}}
+{{MedalBronze|[[1945 South American Championship|1945 Chile]]|[[1945 South American Championship squads#Chile|Team]]}}
+{{MedalBronze|[[1967 South American Championship|1967 Uruguay]]|[[1967 South American Championship squads#Chile|Team]]}}
+{{MedalBronze|[[1991 Copa América|1991 Chile]]|[[1991 Copa América squads#Chile|Team]]}}
+{{MedalCompetition|[[FIFA Confederations Cup]]}}
+{{MedalSilver|[[2017 FIFA Confederations Cup|2017 Russia]]|[[2017 FIFA Confederations Cup squads#Chile|Team]]}}
+{{MedalCompetition|[[Panamerican Championship]]}}
+{{MedalSilver|[[1952 Panamerican Championship|1952 Chile]]|Team}}
+| website = {{URL|https://www.laroja.cl/|laroja.cl}}
+}}
+
+The '''Chile national football team''' ({{langx|es|Selección de fútbol de Chile}}), nicknamed '''''La Roja''''' ({{lit|The Red One}}),<ref name="laroja">{{cite web |date=29 February 2012 |title=Uno a uno de la Roja: Buenas individualidades pero falta juego colectivo |url=http://www.emol.com/noticias/deportes/2012/02/29/528647/el-uno-a-uno-de-la-roja-un-equipo-con-buenas-individualidades-pero-falto-de-juego-colectivo.html |access-date=6 March 2012 |publisher=EMOL (El Mercurio On-Line)}}</ref><ref>{{cite web |author=Mateo, Miguel Ángel |date=31 May 2010 |title=El porqué de 'la Roja' |url=http://www.elmundo.es/mundial/2010/2010/05/31/espana/1275318102.html |access-date=15 September 2011 |publisher=El Mundo (España)}}</ref><ref>{{cite web |date=6 March 2012 |title=Sudáfrica será el octavo Mundial para la 'Roja' |url=http://www.mercurioantofagasta.cl/prontus4_noticias/site/artic/20091011/pags/20091011010612.html |access-date=11 October 2009 |publisher=El Mercurio de Antofagasta}}</ref> represents [[Chile]] in men's international [[Association football|football]] competitions and is controlled by the [[Football Federation of Chile|Federación de Fútbol de Chile]] ({{langx|en|Football Federation of Chile}}), which was established in 1895. Chile has appeared in nine [[FIFA World Cup|World Cup]] tournaments and were hosts of the [[1962 FIFA World Cup]] where they finished in third place, the highest position the country has ever achieved in the World Cup.
+
+Chile won their first [[Copa América]] title on home soil at the [[2015 Copa América]], defeating Argentina in the final.<ref>{{cite web|title=Hosts Chile stun Argentina to claim first Copa América title on penalties|website=[[The Guardian]]|last=Wilson|first=Jonathan|date=4 July 2015|url=https://www.theguardian.com/football/2015/jul/05/chile-argentina-copa-america-final-match-report|access-date=4 July 2015}}</ref> They successfully defended their title in another final against Argentina won on penalties at [[Copa América Centenario]] the following year in the United States.<ref>{{cite web|title=Chile win Copa América once again as Argentina title drought continues|website=[[The Guardian]]|url=https://www.theguardian.com/football/2016/jun/26/chile-win-copa-america-argentina-match-report-penalty-shoot-out|access-date=26 June 2016}}</ref> Prior to this, Chile had been runners-up in the competition on four occasions. As a result of winning the 2015 Copa América, they qualified for the [[2017 FIFA Confederations Cup]], where they finished second, behind Germany, in their debut appearance.
+
+==History==
+{{Main|History of the Chile national football team}}
+[[File:Chile mexico 1930.jpg|thumb|left|180px|The Chile national team playing at the [[1930 FIFA World Cup]] against [[Mexico national football team|Mexico]].]]
+===The early stage===
+The [[Federación de Fútbol de Chile]] is the second oldest South American federation, having been founded in [[Valparaíso]] on 19 June 1895.<ref>{{cite web|url=http://www.conmebol.com/federaciones_pais_index.jsp?pais=chi&slangab=E|title=Confederación Sudamericana de Fútbol<!-- Bot generated title -->}}</ref> Chile was one of the four founding member nations of [[CONMEBOL]]. Together with Argentina, Brazil, and Uruguay, the four competed in the first South American Championship, later to be renamed the [[Copa América]], in 1916. On 12 October 1926, Chile made the first corner-kick goal in Copa América history in a match against [[Bolivia national football team|Bolivia]]. Chile was one of the thirteen national teams that competed in the inaugural [[1930 FIFA World Cup|World Cup]] in 1930. The team started off well, beating [[Mexico national football team|Mexico]] and [[France national football team|France]] without conceding a [[Goal (sport)|goal]]. A 3–1 loss to Argentina in the final game left the Chilean team in second place within the group, eliminating it from the tournament.  In the 1950 World Cup, Chile defeated the [[United States men's national soccer team|United States]], 5–2, but nevertheless was eliminated in the first round.
+
+The best Chilean result in the World Cup was third place in [[1962 FIFA World Cup|1962]], as the host nation. Chile lost 2–4 to the eventual champion [[Brazil national football team|Brazil]] in a semi-final but went on to defeat [[Yugoslavia national football team|Yugoslavia]] 1–0 to win the third place. Chilean players made two World Cup firsts: the first player to miss a World Cup penalty kick was the Chilean [[Guillermo Subiabre]], in a [[1930 FIFA World Cup]] match against [[France national football team|France]],<ref name=autogenerated1>{{cite web |url=http://revista.guachacas.cl/Epi_mundial30.html |title=El Guachaca – Episodios Guachacas de la Historia – Mundial 1930 |access-date=5 September 2007 |url-status=dead |archive-url=https://web.archive.org/web/20070910164430/http://revista.guachacas.cl/Epi_mundial30.html |archive-date=10 September 2007 |language=es}}</ref> and Carlos Caszely of Chile became the first player to be sent off with a red card, during a match against West Germany at the [[1974 World Cup]].
+
+===Scandals===
+A scandal known as "[[El Maracanazo]]" occurred on 3 September 1989. At a [[1990 FIFA World Cup qualification (CONMEBOL)|1990 FIFA World Cup qualifying]] match at Rio de Janeiro's [[Estádio do Maracanã|Maracanã]] stadium, Brazil led Chile 1–0 and ''La Roja'' needed to win. Chilean goalkeeper [[Roberto Rojas (Chilean footballer)|Roberto Rojas]] fell to the pitch with an apparent injury in his forehead. A [[firework]] had been thrown from the stands by a Brazilian fan named [[Rosenery Mello do Nascimento]] and was smouldering about a yard away.<ref>{{cite web|url=http://www.cabecadecuia.com/noticias/97964/rosenery-mello-do-nascimento-a-fogueiteira-do-maracana-tem-morte-cerebral-por-aneurisma-no-rio-aos-45-anos.html|title=Rosenery Mello do Nascimento, a "Fogueteira do Maracanã", tem morte cerebral por aneurisma no Rio aos 45 anos|date=6 June 2011|work=Cabeça de Cuia|access-date=6 June 2011|language=pt|url-status=dead|archive-url=https://web.archive.org/web/20110911134252/http://www.cabecadecuia.com/noticias/97964/rosenery-mello-do-nascimento-a-fogueiteira-do-maracana-tem-morte-cerebral-por-aneurisma-no-rio-aos-45-anos.html|archive-date=11 September 2011}}</ref> After Rojas was carried off the pitch, the Chilean players and coaches claimed that conditions were unsafe and they refused to resume the game, so the match was abandoned. However, a video footage of the match later showed that the firework had not made any contact to Rojas, and examinations of his injury determined it to be caused by a cut, and not from the impact of any firework, as there were no traces of gunpowder; indeed, Rojas would later confess he had a razor concealed in his glove, and it was part of a plan to cancel the match and prevent Brazil's qualification over Chile. Based on this evidence, [[FIFA]] decided to award the victory to Brazil; meanwhile, Chile was banned from the qualifiers for the [[1994 FIFA World Cup]], and Rojas himself was banned for life,<ref>[http://china.goal.com/en/Articolo.aspx?ContenutoId=400545 Goal.com – Editorial/Comment – Own Goal: Faking Being Hit By Objects<!-- Bot generated title -->] {{webarchive|url=https://web.archive.org/web/20071015191047/http://china.goal.com/en/Articolo.aspx?ContenutoId=400545 |date=15 October 2007 }}</ref> although an amnesty was granted in 2001.<ref name=Bolavip>[https://us.bolavip.com/soccer/the-chile-maracanazo-that-left-them-without-two-world-cups-20201013-0012.html The Chile “Maracanazo” that left them without two World Cups] {{Webarchive|url=https://web.archive.org/web/20201115224336/https://us.bolavip.com/soccer/the-chile-maracanazo-that-left-them-without-two-world-cups-20201013-0012.html |date=15 November 2020 }} https://us.bolavip.com {{Webarchive|url=https://web.archive.org/web/20210103150310/https://us.bolavip.com/ |date=3 January 2021 }}</ref>
+
+On 19 July 2007, the [[Federación de Fútbol de Chile|Chilean Football Federation]] banned six of the national team players, because of "internal indiscipline" during the [[Copa América]] tournament, for 20 international matches each as they destroyed the team hotel property while drunk. The players banned were captain [[Jorge Valdivia]], defenders [[Álvaro Ormeño]], [[Rodrigo Tello]], [[Jorge Francisco Vargas|Jorge Vargas]], [[Pablo Contreras]] and striker [[Reinaldo Navia]].<ref name="Bans">{{cite news | url=https://news.bbc.co.uk/sport2/hi/football/internationals/6294098.stm | title=Chile blacklist six Copa players | work=BBC Sport | access-date=12 July 2007 | date=11 July 2007}}</ref> Nelson Acosta's resignation as manager came after Chile were knocked out of the [[2007 Copa América]]. After serving 10 matches from the ban, all players aside from Ormeño sent a letter of apology acknowledging their actions which lifted the ban. Chile had qualified to the quarter-finals after a 3–2 win against Ecuador, and a 0–0 draw against Mexico. But two losses, one of those being a 6–1 defeat against Brazil, sealed Acosta's fate. Former Argentina manager [[Marcelo Bielsa]] was given the task of becoming the Chile national team manager in preparation for the 2010 World Cup qualifiers.<ref>{{cite web|url=https://int.soccerway.com/news/2007/August/10/chile-name-bielsa-as-new-coach/|title=Chile name Bielsa as new coach|access-date=9 July 2015}}</ref>
+
+===Bielsa's era (2008&minus;2011)===
+On 16 October 2008, Chile beat [[Argentina national football team|Argentina]] 1–0 for the first time in a qualifying competition, making history. Marcelo Bielsa was acclaimed for this accomplishment by both Chilean and Argentinian people. This match was seen as one of the reasons that ended [[Alfio Basile]]'s tenure as the [[Argentina national football team|Argentina]] coach.
+
+After finishing second place at [[2010 FIFA World Cup qualification (CONMEBOL)|the 2010 World Cup qualifiers]], Chile qualified for the [[2010 FIFA World Cup]] held in [[South Africa]] after 12 years absence. The team later reached to the round of 16 at the tournament after two wins against [[Honduras national football team|Honduras]] and [[Switzerland national football team|Switzerland]] in the group stage. Despite losing 0–3 to Brazil in the round of 16, Marcelo Bielsa still extended his contract with the Chile national team until 2015.
+
+Bielsa stated that he would leave his position if [[Jorge Segovia]] were elected as President of the Chilean Football Federation. He followed through on this threat, despite Segovia's election being annulled, and resigned in February 2011. [[Claudio Borghi (football manager)|Claudio Borghi]] then became Chile's manager in March 2011. After a string of bad performances and harsh criticisms, Claudio Borghi stepped down as Chile's manager in November 2012.
+
+===The rise of the golden generation (2012&minus;2017)===
+A new manager, [[Jorge Sampaoli]], was appointed in December 2012. A disciple of [[Marcelo Bielsa]], [[Jorge Sampaoli]] broke new records for ''La Roja'' by winning 10, drawing 3, and losing only 3 of 15 games as the head coach of the Chile national team. His coaching era witnessed a rise of the golden generation of Chilean football, with numerous talents such as [[Alexis Sanchez]], [[Arturo Vidal]], [[Eduardo Vargas]], [[Gary Medel]], [[Mauricio Isla]] and [[Claudio Bravo]].  
+
+[[File:Brazil vs. Chile in Mineirão 01.jpg|thumb|left|250px|Chile (red and blue) playing against [[Brazil national football team|Brazil]] (yellow and white), in the [[2014 FIFA World Cup knockout stage#Brazil vs Chile|2014 FIFA World Cup Round of 16]].]]
+
+With Sampaoli, Chile were able to qualify for [[2014 FIFA World Cup]] by [[2014 FIFA World Cup qualification (CONMEBOL)|finishing third in the qualifier]]. The team caused a strong impression by eliminating the defending champion [[Spain national football team|Spain]] by 2–0 win at the group stage and reaching to the [[2014 FIFA World Cup round of 16|round of 16]], where Chile held a dramatic 1–1 draw against the host nation [[Brazil national football team|Brazil]] after 120 minutes playing time, then only lost 2–3 on the [[penalty shoot-out (association football)|penalty shoot-out]].
+
+At the [[2015 Copa América]] where Chile was the host, the team won their first game against [[Ecuador national football team|Ecuador]], with 2–0 win. In their second game, Chile drew 3–3 against [[Mexico national football team|Mexico]]. Chile advanced to the knockout stage as Group A winners with 7 points and most goals scored of any team in the tournament (10). The team later defeated the defending champion Uruguay in the quarterfinals and Peru in the semi-finals. In the final, Chile defeated Argentina on penalties (4–1) after a 0–0 draw, to win their first Copa America title.<ref>{{Cite news |title=Copa America final: Chile defeat Argentina after shootout |url=https://www.bbc.com/sport/live/football/32838240 |access-date=2026-06-07 |work=BBC Sport |language=en-GB}}</ref>
+
+In January 2016, just six months after winning the 2015 Copa America, [[Jorge Sampaoli]] stepped down as Chile's manager.<ref>{{cite news | url=https://www.theguardian.com/football/2016/jan/19/jorge-sampaoli-chile-leaves-post| title=Jorge Sampaoli quits as Chile manager after row with new president| work=The Guardian | access-date=22 November 2016 | date=19 January 2016}}</ref>  A new manager, the Argentinean [[Juan Antonio Pizzi]], was appointed at the end of the same month,<ref>{{cite news | url=https://eu.usatoday.com/story/sports/soccer/2016/01/30/juan-antonio-pizzi-named-new-chile-coach-to-2018-world-cup/79564662/ | title=Juan Antonio Pizzi named new Chile coach to 2018 World Cup | agency=Associated Press | date=30 January 2016}}</ref> who then led ''La Roja'' to a second Copa America Centenario 2016 victory after again beating Argentina in the final.<ref>{{Cite web |last=Carlisle |first=Jeff |title=Copa America Centenario a success despite setbacks, logistical concerns |url=https://www.espn.com.au/football/story/_/id/37451270/copa-america-centenario-success-early-setbacks |access-date=2026-06-07 |website=ESPN}}</ref>
+
+At the [[2017 FIFA Confederations Cup]] held in Russia, for which they had qualified by winning the Copa America, Chile won their first group stage match against [[Cameroon national football team|Cameroon]] with 2–0 being the score. In their second match against the [[Germany national football team|Germany]], Chile drew 1–1 in a tense match. In their final game of the group stage against [[Australia men's national soccer team|Australia]], Chile drew once again but qualified to the knockout stage, being in second place with five points. In the semis, after a tense and exciting match, Chile came out on top, beating [[Portugal national football team|Portugal]] on the penalty shoot-out, 3–0 and hence they qualified for the [[2017 FIFA Confederations Cup Final]]. In their first ever final in a FIFA tournament, Chile faced [[Germany national football team|Germany]] again and lost 0–1.<ref>{{Cite news |last=Pender |first=Kieran |date=2017-07-02 |title=Germany win Confederations Cup after Lars Stindl punishes error to deny Chile |url=https://www.theguardian.com/football/2017/jul/02/chile-germany-confederations-cup-final-match-report |access-date=2026-06-07 |work=The Guardian |language=en-GB |issn=0261-3077}}</ref>
+
+On 10 October 2017, after losing 0–3 to [[Brazil national football team|Brazil]] in the last match of [[2018 FIFA World Cup qualification (CONMEBOL)|2018 FIFA World Cup qualifier]], Chile failed to qualify for the 2018 FIFA World Cup, causing an end to what was perceived as their "golden generation". They ended up being the highest ranked team that failed to qualify for World Cup at 9th, placing sixth in the round-robin after losing out on overall goal difference to [[Peru national football team|Peru]], the number of points being equal.<ref>{{Cite web |last=Zucker |first=Joseph |title=Brazil Prevent Chile from Qualifying for 2018 World Cup with 3-0 Win |url=https://bleacherreport.com/articles/2738026-brazil-prevent-chile-from-qualifying-for-2018-world-cup-with-3-0-win |access-date=2026-06-07 |website=bleacherreport.com |language=en}}</ref> Juan Antonio Pizzi also resigned after failing to help Chile qualify for the tournament.<ref>{{Cite news |date=2017-10-11 |title=Football: Juan Antonio Pizzi quits as Chile coach after World Cup qualification failure - report |url=https://www.straitstimes.com/sport/football/football-juan-antonio-pizzi-quits-as-chile-coach-after-world-cup-qualification#:~:text=The%20Straits%20Times-,Football:%20Juan%20Antonio%20Pizzi%20quits%20as%20Chile%20coach,World%20Cup%20qualification%20failure%20-%20report&text=Juan%20Antonio%20Pizzi's%20contract%20was,to%20discuss%20a%20new%20deal. |access-date=2026-06-07 |work=The Straits Times |language=en |issn=0585-3923}}</ref>
+
+===Decline (2017&minus;present)===
+[[File:New Zealand vs Chile, 30 March 2026.jpg|thumb|Match between [[New Zealand men's national football team|New Zealand]] and Chile in March 2026. Chile became the first South American team to ever lose to New Zealand.<ref>{{cite news|url=https://www.stuff.co.nz/sport/360952594/all-whites-break-south-american-duck-morale-boosting-win-over-10-man-chile|title=All Whites break South American duck with morale-boosting win over 10-man Chile|first=Andrew|last=Voerman|website=[[Stuff (website)|Stuff]]|date=30 March 2026|access-date=31 March 2026}}</ref>]]
+At the [[2019 Copa America]], Chile beat Colombia on penalties in the quarter-finals but then lost 0–3 to Peru in the semi finals. At the [[2021 Copa America]], Chile advanced to the quarter-finals, where the team lost 0–1 to Brazil. Chile [[2022 FIFA World Cup qualification (CONMEBOL)|also failed to qualify for the 2022 FIFA World Cup]], finishing seventh in the standings with five wins, four draws, and nine losses.
+
+At the [[2024 Copa America]], Chile was eliminated in the group stage for the first time since 2004 with only 2 points and was unable to score a goal in the tournament. The [[2026 FIFA World Cup qualification (CONMEBOL)|2026 FIFA World Cup qualifier]] was one of the Chilean's worst qualifiers when the team failed to qualify for the third straight World Cup by standing at the bottom with only two wins, five draws and eleven losses.<ref>{{cite web|url=https://www.espn.co.uk/football/story/_/id/45488242/alexis-sanchez-child-world-cup-qualifying-2026|title=Alexis Sanchez asks for forgiveness as Chile miss World Cup again|publisher=ESPN|date=11 June 2025}}</ref>
+
+==Team image==
+The team's home kit consists of a red jersey, blue shorts, and either red or white socks. The away jersey, meanwhile, features a white jersey, white shorts, and blue socks. The color scheme of red, white, and blue that was featured in the [[1947 South American Championship]], the precursor of the [[Copa América]], has remained in place since. In 2016, red shorts were introduced as an option for the first time.
+
+In August 2010, Puma acquired the contract to be the official kit supplier for the Chilean team from 2011 to 2015, paying [[US dollar|US$]] 3 million per year, also providing referees' kits and balls for domestic club competitions. The previous kit supplier, from 2004 to 2010 including the [[2010 FIFA World Cup|2010 World Cup]], was [[Brooks Sports]].<ref>{{in lang|es}} http://www.emol.com/noticias/deportes/detalle/detallenoticias.asp?idnoticia=251738 {{Webarchive|url=https://web.archive.org/web/20080803021918/http://www.emol.com/noticias/deportes/detalle/detallenoticias.asp?idnoticia=251738 |date=3 August 2008 }}</ref>
+
+Puma company ended its link after the [[2015 Copa América]] with the tender for the new brand that will outfit the team since August 2015. This procedure was won by the American company [[Nike, Inc.|Nike]]. The contract with Nike was supposed to last until the [[2022 FIFA World Cup]], but ended prematurely when the Chilean Football Federation sued Nike for missing payments in 2021.<ref>{{cite web |url=http://www.latercera.com/noticia/deportes/2015/04/656-626946-9-nike-vestira-a-la-roja-hasta-el-mundial-de-rusia-de-2018.shtml |title=Nike vestirá a la Roja hasta el Mundial de Rusia de 2018 |access-date=25 April 2015 |date=24 April 2015 |work=[[La Tercera]] |editor=C. Barrera y M. Parker |publisher=latercera.com |language=es|quote=El acuerdo se cerró en los últimos días. El contrato será vigente después de la Copa América hasta la cita planetaria. |url-status=dead |archive-url=https://web.archive.org/web/20150623165205/http://www.latercera.com/noticia/deportes/2015/04/656-626946-9-nike-vestira-a-la-roja-hasta-el-mundial-de-rusia-de-2018.shtml |archive-date=23 June 2015 }}</ref><ref>{{cite web |url=https://www.latercera.com/el-deportivo/noticia/chile-cumple-la-amenaza-y-jugara-sin-marca-en-la-camiseta-ante-bolivia/E7W4TGUS55BIZDWN3LRZSM6XIQ/ |title=Chile cumple la amenaza y jugó sin marca en la camiseta ante Bolivia |access-date=21 June 2021 |date=18 June 2021 |language=es|work=[[La Tercera]] |editor=Christian González |publisher=latercera.com }}</ref> This dispute lead to Chile blocking the Nike patch with a flag during the 2021 Copa América.<ref>{{Cite news |last=Cardenas |first=Felipe |date=2021-06-19 |title=Chile covers Nike logo on their kits amidst contract dispute |url=https://www.nytimes.com/athletic/2661013/2021/06/18/chile-nike-copa-america/ |access-date=2026-06-07 |work=The New York Times |language=en-US |issn=0362-4331}}</ref> On 1 September 2021, [[Adidas]] were announced as the national team kit supplier until 2026.<ref>{{cite web |url=https://www.laroja.cl/new/adidas-vestira-la-roja-por-los-proximos-5-anos |title=Adidas vestirá La Roja por los próximos 5 años |access-date=2 September 2021 |date=1 September 2021 |language=es|work=La Roja |publisher=laroja.cl }}</ref> On June 18, 2026, it was confirmed that [[Marathon Sports|Marathon]] would be the official kit supplier for the national team starting in 2027.<ref>{{cite web |url=https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/06/18/la-roja-cambia-de-marca-tendra-nuevo-auspiciador-camisetas-rumbo-a-mundial-2030.shtml |title=La Roja cambia de piel: deja adidas y será vestida por marca ecuatoriana rumbo al Mundial 2030 |access-date=June 18, 2026 |date=June 18, 2026 |language=es|website=biobiochile.cl }}</ref>
+
+=== Kit sponsorship ===
+{{Commons|Chile national football team kits}}
+
+{| class="wikitable" style="text-align:left;"
+|-
+! Kit supplier
+! Period
+|-
+| {{flagicon|Germany}} [[Adidas]] || 1979–1983
+|-
+| {{flagicon|Brazil}} [[Penalty (sports manufacturer)|Penalty]] || 1984
+|-
+| {{flagicon|Germany}} [[Puma (brand)|Puma]] || 1985
+|-
+| {{flagicon|United Kingdom}} [[Umbro]] || 1986
+|-
+| {{flagicon|Switzerland}} [[Bata Corporation|Power]] || 1987
+|-
+| {{flagicon|Germany}} [[Puma (brand)|Puma]] || 1987–1988
+|-
+| {{flagicon|Germany}} [[Adidas]] || 1988–1990
+|-
+| {{flagicon|United Kingdom}} [[Umbro]] || 1990–1991
+|-
+| {{flagicon|United States}} [[Avia (shoes)|Avia]] || 1992
+|-
+| {{flagicon|Germany}} [[Adidas]] || 1993–1994
+|-
+| {{flagicon|Brazil}} Rhumell || 1995
+|-
+| {{flagicon|United States}} [[Reebok]] || 1996–2000
+|-
+| {{flagicon|United Kingdom}} [[Umbro]] || 2000–2003
+|-
+| {{flagicon|United States}} [[Brooks Sports|Brooks]] || 2003–2010
+|-
+| {{flagicon|Germany}} [[Puma (brand)|Puma]] || 2010–2015
+|-
+| {{flagicon|United States}} [[Nike, Inc.|Nike]] || 2015–2021
+|-
+| {{flagicon|Germany}} [[Adidas]] || 2021–2026
+|-
+| {{flagicon|Ecuador}} [[Marathon Sports|Marathon]] || 2027–
+|}
+
+==Home stadium==
+{{Main|Estadio Nacional Julio Martínez Prádanos}}
+[[File:Estadio Nacional de Chile.jpg|thumb|225px|Estadio Nacional at night.]]
+The Chile national team plays their qualifying matches at the [[Estadio Nacional Julio Martínez Prádanos]] located in [[Santiago]], Chile and can be found at the commune of [[Ñuñoa]]. The construction of the stadium began in February 1937, and opened on 3 December 1938. The current official registered capacity is of 49,000 spectators, but has surpassed the 75,000 mark on many occasions when the match is of high demand.<ref>{{cite web|url=http://www.stadiumguide.com/nacionalchile.htm|title=Estadio Nacional de Chile|work=The Stadium Guide|date=10 September 2013 |access-date=9 July 2015}}</ref> An example would be the [[1962 FIFA World Cup]] semi-final match Chile vs. Brazil, where over 76,000 spectators viewed the game. The highest attendance ever was 85,262 on 26 December 1962, for a game between [[Club Deportivo Universidad Católica|Universidad Católica]] and [[Club Universidad de Chile|Universidad de Chile]].
+
+It has hosted four [[Copa América]] finals, the [[1962 FIFA World Cup final|final]] of the [[1962 FIFA World Cup]] and the final to the [[1987 FIFA World Youth Championship]].
+
+== Rivalries ==
+
+The Chile national team has no special rivalry in South America or at Latin American level; however, two matches are considered important, although neither is a special rivalry: those are against Argentina and Peru.
+
+=== Peru ===
+{{main|Chile–Peru football rivalry}}
+[[File:Raul Toro y Lolo Fernandez.jpg|upright|thumb|alt=Portrait of two men, dressed in sports attire, looking straight at the viewer|Chile's [[Raúl Toro Julio|Raúl Toro]] and Peru's [[Teodoro Fernández]], opponents in the [[1937 South American Championship]].]]
+The Chile–Peru football rivalry is known in Spanish as the ''Clásico del Pacífico'' ("Pacific Derby").<ref name="Chile Peru rivalry">{{cite news | title=A derby and a debut in South America | publisher=FIFA | url=https://www.fifa.com/worldcup/news/y=2011/m=10/news=derby-and-debut-south-america-1524489.html | archive-url=https://web.archive.org/web/20150626231323/http://www.fifa.com/worldcup/news/y=2011/m=10/news=derby-and-debut-south-america-1524489.html | url-status=dead | archive-date=26 June 2015 | date= 10 October 2011 | access-date=4 July 2015}}</ref>  The rivalry is considered to be one of the fiercest rivalries in the world,<ref name="auto">{{cite web|last1=Arango|first1=Juan|title=Peru, Chile and the War of the Pacific|url=http://goal.blogs.nytimes.com/2013/03/20/peru-chile-and-the-war-of-the-pacific/?_r=0|work=The New York Times|date=20 March 2013|access-date=25 December 2016}}</ref> with [[CNN]] World Sport editor Greg Duke ranking it among the top ten football rivalries in the world.<ref>{{cite news |author=Greg Duke |title=Top 10 international rivalries |publisher=CNN |access-date=27 June 2013 |url=http://edition.cnn.com/2008/SPORT/football/11/06/first11.rivalries/index.html |date=6 November 2008}}</ref> The rivalry between Chile and Peru stems from historical politics, border disputes, and the [[War of the Pacific]],<ref>{{cite web|title=Politics, war and the bicycle kick: Chile and Peru set to renew storied rivalry at Copa America|date=29 June 2015|url=https://www.thenationalnews.com/sport/politics-war-and-the-bicycle-kick-chile-and-peru-set-to-renew-storied-rivalry-at-copa-america-1.102238/|work=The National|access-date=25 December 2016}}</ref><ref>{{cite news|last1=Long|first1=Gideon|title=Fierce rivalry underpins Chile versus Peru clash|date=28 June 2015|url=http://uk.reuters.com/article/uk-soccer-copa-pacific-idUKKCN0P814T20150628|archive-url=https://web.archive.org/web/20161225145602/http://uk.reuters.com/article/uk-soccer-copa-pacific-idUKKCN0P814T20150628|url-status=dead|archive-date=25 December 2016|work=Reuters|access-date=25 December 2016}}</ref><ref>{{cite web|title=Inside South American Soccer Rivalries|date=27 June 2015 |url=http://www.wbur.org/onlyagame/2015/06/27/south-american-soccer-rivals-brazil-peru-argentina|publisher=wbur.org|access-date=25 December 2016}}</ref> with the rivalry producing some of the most intense matches in South American footballing history.<ref name="auto"/>
+
+Chile first faced Peru in the 1935 South American Championship, losing 1–0.<ref name="Chile Peru record">{{cite news|title=Chile&nbsp;– Peru matches, 1935–2011|url=https://www.rsssf.org/tablesc/chilperures.html|date=6 March 2012|publisher=[[Rec.Sport.Soccer Statistics Foundation]]|access-date=17 June 2013}}</ref>
+
+==Sponsors==
+* [[Chilean Safety Association|ACHS]] (2023–2026)<ref>{{cite news |title=La ACHS se convierte en sponsor oficial de La Roja |url=https://www.achs.cl/centro-de-noticias/noticia/2023/la-achs-se-convierte-en-sponsor-oficial-de-la-roja |access-date=3 February 2024 |work=ACHS Web |date=27 March 2023 |language=es}}</ref>
+* [[Adidas]] (since 2021)
+* [[Banco de Crédito e Inversiones|BCI]] (2023–2026)<ref>{{cite news |title=Bci se convierte en nuevo auspiciador de la Selección Nacional de Fútbol |url=https://www.bci.cl/saladeprensa/noticias-sostenibilidad/posts/bci-auspiciador-de-la-roja |access-date=3 February 2024 |work=Bci.cl |date=15 March 2023 |language=es}}</ref>
+* [[Chilevisión]] (TV broadcaster of Chile's qualifying and friendly matches) (2023–2026)
+* [[Compañía de las Cervecerías Unidas|Cristal]] (since 2007)
+* [[Gatorade]] (2023–2026)<ref>{{cite news |title=Gatorade es el nuevo hidratador oficial de la Selección Chilena de Fútbol |url=https://www.ccu.cl/gatorade-es-el-nuevo-hidratador-oficial-de-la-seleccion-chilena-de-futbol/ |access-date=3 February 2024 |work=www.ccu.cl |date=15 November 2023 |language=es}}</ref>
+* [[McDonald's]] (2023–2026)<ref>{{cite news |title=McDonald's es el nuevo auspiciador de La Roja y debuta como su restaurante oficial |url=https://www.anfp.cl/noticia/37817/mcdonalds-es-el-nuevo-auspiciador-de-la-roja-y-debuta-como-su-restaurante-oficial |access-date=3 February 2024 |work=[[Asociación Nacional de Fútbol Profesional|ANFP]] |date=1 September 2023 |language=es}}</ref>
+* [[MG Motor]] (2023–2026)<ref>{{cite news |title=MG MOTOR es el nuevo auspiciador oficial de la Selección Chilena. |url=https://www.chileautos.cl/noticias/detalle/mg-motor-es-el-nuevo-auspiciador-oficial-de-la-seleccion-chilena--29130/#:~:text=2023%20ACTUALIDAD-,MG%20MOTOR%20es%20el%20nuevo%20auspiciador%20oficial%20de%20la%20Selección,presentar%20el%20nuevo%20MG%20ONE. |access-date=3 February 2024 |work=www.chileautos.cl |date=31 May 2023 |language=es}}</ref>
+* [[PedidosYa]] (2023–2026)<ref>{{cite news |title=PedidosYa firma con la Selección Chilena y se convierte en el delivery oficial de La Roja |url=https://www.anfp.cl/noticia/37810/pedidosya-firma-con-la-seleccion-chilena-y-se-convierte-en-el-delivery-oficial-de-la-roja |access-date=3 February 2024 |work=[[Asociación Nacional de Fútbol Profesional|ANFP]] |date=29 August 2023 |language=es}}</ref>
+* [[Sky Airline|SꓘY]] (2023–2026)<ref>{{cite news |title=SKY es la nueva línea aérea oficial de la Selección Chilena y Peruana de Fútbol |url=https://www.skyairline.com/blog/sky-es-la-nueva-linea-aerea-oficial-de-la-seleccion-chilena-y-peruana-de-futbol/ |access-date=3 February 2024 |work=SKY Airline |date=31 August 2023 |language=es}}</ref>
+
+==Results and fixtures==
+{{Further|Chile national football team results (2020–present)}}
+The following is a list of match results in the last 12 months, as well as any future matches that have been scheduled.
+
+{{legend2|#CCFFCC|Win|border=1px solid #AAAAAA}}
+{{legend2|#FFFFCC|Draw|border=1px solid #AAAAAA}}
+{{legend2|#FFCCCC|Loss|border=1px solid #AAAAAA}}
+{{legend2|#FFFFFF|Fixture|border=1px solid #AAAAAA}}
+
+===2025===
+{{Football box collapsible
+|format     = 1
+|round      = [[2026 FIFA World Cup qualification (CONMEBOL)|2026 FIFA World Cup qualification]]
+|date       = 4 September
+|time       = {{UTZ|21:30|-3}}
+|team1      = {{fb-rt|BRA}}
+|score      = 3–0
+|team2      = {{fb|CHI}}
+|report     = https://www.fifa.com/en/match-centre/match/520/288315/288316/400020571
+|goals1     =
+*[[Estêvão Willian|Estêvão]] {{goal|38}}
+*[[Lucas Paquetá|Paquetá]] {{goal|72}}
+*[[Bruno Guimarães|Guimarães]] {{goal|76}}
+|goals2     =
+|location   = [[Rio de Janeiro]], Brazil
+|stadium    = [[Maracanã Stadium|Maracanã]]
+|attendance = 57,326
+|referee    = Alexis Herrera ([[Venezuelan Football Federation|Venezuela]])
+|result     = L
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[2026 FIFA World Cup qualification (CONMEBOL)|2026 FIFA World Cup qualification]]
+|date       = 9 September
+|time       = {{UTZ|20:30|-3}}
+|team1      = {{fb-rt|CHI}}
+|score      = 0–0
+|team2      = {{fb|URU}}
+|report     = https://www.fifa.com/en/match-centre/match/520/288315/288316/400020573
+|goals1     =
+|goals2     =
+|location   = [[Santiago]], Chile
+|stadium    = [[Estadio Nacional Julio Martínez Prádanos]]
+|attendance =
+|referee    = [[Anderson Daronco]] ([[Brazilian Football Confederation|Brazil]])
+|result     = D
+}}
+{{footballbox collapsible
+|format     = 1
+|round      = [[Exhibition game#Association football|Friendly]]
+|date       = 10 October
+|time       = {{UTZ|20:00|-3}}
+|team1      = {{fb-rt|CHI}}
+|score      = 2–1
+|team2      = {{fb|PER}}
+|report     = https://www.soccerway.com/match/chile-KUCG35cM/peru-Uend67D3/?mid=Qmql3Ntn
+|goals1     =
+*[[Ben Brereton Díaz|Brereton Díaz]] {{goal|63}}
+*[[Maximiliano Gutiérrez|Gutiérrez]] {{goal|90+4}}
+|goals2     =
+*[[César Inga|Inga]] {{goal|40}}
+|location   = [[Santiago]], Chile
+|stadium    = [[Estadio Bicentenario de La Florida]]
+|attendance = 7,539
+|referee    = Leandro Rey Hilfer ([[Argentine Football Association|Argentina]])
+|result     = W
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[Exhibition game#Association football|Friendly]]
+|date       = 15 November
+|time       = {{UTZ|20:00|+3}}
+|team1      = {{fb-rt|RUS}}
+|score      = 0–2
+|team2      = {{fb|CHI}}
+|report     = https://www.fifa.com/en/match-centre/match/cesdwwnxbc5fmajgroc0hqzy2/8pw8cm9fuczk7lmxm1oxjdyc4/1rj1740ys47h5s938mfswsh78/3k7yelk52sbo2ohg0doyojvh0
+|goals1     =
+|goals2     =
+*[[Gonzalo Tapia|Tapia]] {{goal|37}}
+*[[Ben Brereton Díaz|Brereton Díaz]] {{goal|76}}
+|location   = [[Sochi]], Russia
+|stadium    = [[Fisht Olympic Stadium]]
+|attendance = 32,779
+|referee    = Firdavs Norsafarov ([[Uzbekistan Football Association|Uzbekistan]])
+|result     = W
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[Exhibition game#Association football|Friendly]]
+|date       = 18 November
+|time       = {{UTZ|20:00|+3}}
+|team1      = {{fb-rt|PER}} 
+|score      = 1–2
+|team2      = {{fb|CHI}}
+|report     = https://www.fifa.com/en/match-centre/match/cesdwwnxbc5fmajgroc0hqzy2/8pw8cm9fuczk7lmxm1oxjdyc4/1rj1740ys47h5s938mfswsh78/3kni0l1y1h70m068c9pq7td04
+|goals1     = 
+*[[Alex Valera|Valera]] {{goal|34|pen.}}
+|goals2     =
+*[[Felipe Loyola|Loyola]] {{goal|53}}
+*[[Darío Osorio|Osorio]] {{goal|60}}
+|location   = [[Sochi]], Russia
+|stadium    = [[Fisht Olympic Stadium]]
+|attendance = 4,000
+|referee    = [[Kirill Levnikov]] ([[Russian Football Union|Russia]])
+|result     = W
+}}
+
+===2026===
+{{football box collapsible
+|format       = 1
+|date         = 27 March
+|time         = {{UTZ|16:00|+13}}
+|round        = [[2026 FIFA Series (men's matches)|2026 FIFA Series]]
+|team1        = {{fb-rt|CHI}}
+|score        = 4–2
+|team2        = {{fb|CPV}}
+|report       = https://us.soccerway.com/game/cape-verde-MocyWdm7/chile-KUCG35cM/?mid=SGTxNy3b
+|goals1     =
+*[[Ben Brereton Díaz|Brereton Díaz]] {{goal|16}}
+*[[Maximiliano Gutiérrez|Gutiérrez]] {{goal|58}}
+*[[Felipe Loyola|Loyola]] {{goal|67}}
+*[[Gonzalo Tapia|Tapia]] {{goal|79}}
+|goals2     =
+*[[Dailon Livramento|Livramento]] {{goal|21}}
+*[[Diney (footballer, born 1995)|Diney]] {{sentoff|0|43}}
+*[[Sidny Lopes Cabral|Sidny Cabral]] {{goal|45+3}}
+|location     = [[Auckland]], New Zealand
+|stadium      = [[Eden Park]]
+|attendance   = 14,000
+|referee      = {{ill|Calvin Berg|de}} ([[Football New Zealand|New Zealand]])
+|result       = W
+}}
+{{football box collapsible
+|format       = 1
+|date         = 30 March
+|time         = {{UTZ|19:00|+13}}
+|round        = [[2026 FIFA Series (men's matches)|2026 FIFA Series]]
+|team1        = {{fb-rt|NZL}}
+|score        = 4–1
+|team2        = {{fb|CHI}}
+|report       = https://www.fifa.com/en/match-centre/match/10017/292883/292884/400021864?date=2026-03-30
+|goals1       =
+*[[Kosta Barbarouses|Barbarouses]] {{goal|31}}
+*[[Elijah Just|Just]] {{goal|40}}
+*[[Jesse Randall|Randall]] {{goal|60}}
+*[[Ben Waine|Waine]] {{goal|71}}
+|goals2       = *[[Darío Osorio|Osorio]] {{sentoff|2|23|27}}
+*[[Gonzalo Tapia|Tapia]] {{goal|83}}
+|location     = [[Auckland]], New Zealand
+|stadium      = [[Eden Park]]
+|attendance   = 14,327
+|referee      = [[Jack Morgan (referee)|Jack Morgan]] ([[Football Australia|Australia]])
+|result       = L
+}}
+{{football box collapsible
+|format       = 1
+|date         = 6 June
+|time         = {{UTZ|18:45|+1}}
+|round        = [[Exhibition game|Friendly]]
+|team1        = {{fb-rt|POR}}
+|score        = 2–1
+|team2        = {{fb|CHI}}
+|report       = https://www.soccerway.com/match/chile-KUCG35cM/portugal-WvJrjFVN/?mid=rwGUvxUs
+|goals1       =
+*[[Gonçalo Guedes|G. Guedes]] {{goal|58}}
+*[[Bruno Miguel Borges Fernandes|B. Fernandes]] {{goal|75}}
+|goals2       = 
+*[[Lucas Cepeda|L. Cepeda]] {{goal|90+2}}
+|location     = [[Oeiras, Portugal|Oeiras]], Portugal
+|stadium      = [[Estádio Nacional]]
+|attendance   = 
+|referee      = [[Luca Zufferli]] ([[Italian Football Federation|Italy]])
+|result       = L
+}}
+{{football box collapsible
+|format       = 1
+|date         = 9 June
+|time         = {{UTZ|18:00|+2}}
+|round        = [[Exhibition game|Friendly]]
+|team1        = {{fb-rt|COD}}
+|score        = 1–2
+|team2        = {{fb|CHI}}
+|report       =
+|goals1       =
+*[[Joris Kayembe|Kayembe]] {{goal|88}}
+|goals2       = 
+*[[Darío Osorio|Osorio]] {{goal|51}}
+*[[Matías Sepúlveda|Sepúlveda]] {{goal|86}}
+|location     = [[Orléans]], France ([[Behind closed doors (sport)|BCD]])
+|stadium      = [[Stade de la Source]]
+|attendance   = 0
+|referee      = Mehrez Melki ([[Tunisian Football Federation|Tunisia]])
+|result       = W
+|note         = Originally, Match cancelled due to [[La Línea de la Concepción]]'s mayoral ban related to the [[2026 Central Africa Ebola epidemic]], but relocated in Orléans.
+}}
+{{football box collapsible
+|format       = 1
+|date         = 26 September
+|time         = 
+|round        = [[Exhibition game|Friendly]]
+|team1        = {{fb-rt|CAN}}
+|score        = 
+|team2        = {{fb|CHI}}
+|report       = 
+|goals1       = 
+|goals2       = 
+|location     = Canada
+|stadium      = 
+|attendance   = 
+|referee      = 
+|result       = 
+}}
+{{football box collapsible
+|format       = 1
+|date         = 29 September
+|time         = 
+|round        = [[Exhibition game|Friendly]]
+|team1        = {{fb-rt|USA}}
+|score        = 
+|team2        = {{fb|CHI}}
+|report       = 
+|goals1       = 
+|goals2       = 
+|location     = United States
+|stadium      = 
+|attendance   = 
+|referee      = 
+|result       = 
+}}
+
+==Coaching staff==
+{{Main|List of Chile national football team managers}}
+{{updated|31 December 2025}}
+
+{| class="wikitable"
+!style="color:#061D8E;background:#E30013"|Position
+!style="color:#061D8E;background:#E30013"|Name
+|-
+| Head coach
+| {{flagicon|CHI}} [[Nicolás Córdova]]
+|-
+| Assistant coaches
+| {{flagicon|CHI}} [[César Cortés]]<br/>{{flagicon|CHI}} Ariel Leporati
+|-
+| Fitness coach
+| {{flagicon|CHI}} Sebastián Rojas Inda
+|-
+| Goalkeeping coach
+| {{flagicon|CHI}} Bruno Vásquez
+|-
+| Doctor
+| Vacant
+|-
+| Physiotherapist
+| Vacant
+|}
+
+==Players==
+{{see also|List of Chile international footballers born outside Chile}}
+
+===Current squad===
+The following players were called up to the squad for the [[Exhibition game|friendly match]]es against [[Portugal national football team|Portugal]] and [[DR Congo national football team|DR Congo]] on 6 and 9 June 2026, respectively.<ref>{{cite instagram |user=laroja |postid=DYp6NZSD4a6 |title=📋 Los nominados de #LaRoja 🇨🇱 para la Fecha FIFA de junio ante Portugal 🇵🇹 y RD Congo 🇨🇩. |access-date=22 May 2026 |publisher=[[Football Federation of Chile|FFCh]] |date=22 May 2026 |language=es}}</ref><ref>{{cite web |title=Convocatoria jugador de la Selección Chilena – lunes 25 de mayo de 2026 |url=https://www.anfp.cl/selecciones/convocatoria-jugador-de-la-seleccion-chilena-lunes-25-de-mayo-de-2026/ |website=[[Asociación Nacional de Fútbol Profesional|ANFP]] |access-date=25 May 2026 |language=es |date=25 May 2026 |quote=ha liberado al jugador Matías Pérez... ha decidido convocar... Ignacio Saavedra – FC Rubin Kazán}}</ref><ref>{{cite web |title=Parte Médico Selección Chilena – Sábado 30 de mayo de 2026 |url=https://www.anfp.cl/selecciones/parte-medico-seleccion-chilena-sabado-30-de-mayo-de-2026/ |website=[[Asociación Nacional de Fútbol Profesional|ANFP]] |access-date=30 May 2026 |language=es |date=30 May 2026 |quote=Francisco Salinas (Coquimbo Unido) ha sido liberado... convocar al siguiente futbolista... Fabián Hormazábal (Universidad de Chile)}}</ref><ref>{{cite web |title=Parte Médico – Selección Chilena jueves 4 de junio de 2026 |url=https://www.anfp.cl/selecciones/parte-medico-seleccion-chilena-jueves-4-de-junio-de-2026/ |website=[[Asociación Nacional de Fútbol Profesional|ANFP]] |access-date=5 June 2026 |language=es |date=4 June 2026 |quote=Ignacio Saavedra (Rubin Kazan) sufrió un desgarro de isquitibiales}}</ref><ref>{{cite web |title=Parte Médico Selección Chilena - Lunes 8 de junio de 2026 |url=https://laroja.cl/new/parte-mdico-seleccin-chilena-lunes-8-de-junio-de-2026 |website=La Roja |publisher=[[Football Federation of Chile|FFCh]] |access-date=8 June 2026 |language=es |date=8 June 2026 |quote=Clemente Montes se encuentra en evolución de un cuadro respiratorio alto}}</ref>
+<br>''Caps and goals updated as of 9 June 2026, after the match against [[DR Congo national football team|DR Congo]].''
+
+<!--Sorted by position, NUMBER (when available), caps, goals and last name.-->
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Thomas Gillier]]|age={{birth date and age|df=yes|2004|5|28}}|caps=0|goals=0|club=[[CF Montréal]]|clubnat=CAN}}
+{{nat fs g player|no=12|pos=GK|name=[[Lawrence Vigouroux]]|age={{birth date and age|df=yes|1993|11|19}}|caps=9|goals=0|club=[[Swansea City A.F.C.|Swansea City]]|clubnat=WAL}}
+{{nat fs g player|no=23|pos=GK|name=[[Brayan Cortés]]|age={{birth date and age|df=yes|1995|3|11}}|caps=25|goals=0|club=[[Argentinos Juniors<!--loan from Colo-Colo-->]]|clubnat=ARG}}
+{{nat fs break}}
+{{nat fs g player|no=2|pos=DF|name=[[Fabián Hormazábal]]|age={{birth date and age|1996|4|26|df=y}}|caps=10|goals=0|club=[[Club Universidad de Chile|Universidad de Chile]]|clubnat=CHI}}
+{{nat fs g player|no=3|pos=DF|name=[[Guillermo Maripán]]|age={{birth date and age|df=yes|1994|5|6}}|caps=62|goals=2|club=[[SC Internacional|Internacional]]|clubnat=BRA}}
+{{nat fs g player|no=4|pos=DF|name=[[Igor Lichnovsky]]|age={{birth date and age|df=yes|1994|3|7}}|caps=16|goals=0|club=[[Fatih Karagümrük S.K.|Fatih Karagümrük]]|clubnat=TUR}}
+{{nat fs g player|no=15|pos=DF|name=[[Francisco Sierralta]]|age={{birth date and age|df=yes|1997|5|6}}|caps=20|goals=0|club=[[AJ Auxerre|Auxerre]]|clubnat=FRA}}
+{{nat fs g player|no=17|pos=DF|name=[[Gabriel Suazo]]|other=[[Captain (association football)|captain]]|age={{birth date and age|df=yes|1997|8|9}}|caps=44|goals=0|club=[[Sevilla FC|Sevilla]]|clubnat=ESP}}
+{{nat fs g player|no=24|pos=DF|name=[[Diego Ulloa]]|age={{birth date and age|2003|6|16|df=y}}|caps=2|goals=0|club=[[Colo-Colo]]|clubnat=CHI}}
+{{nat fs g player|no=26|pos=DF|name=[[Felipe Faúndez]]|age={{birth date and age|2006|3|27|df=y}}|caps=4|goals=0|club=[[O'Higgins F.C.|O'Higgins]]|clubnat=CHI}}
+{{nat fs break}}
+{{nat fs g player|no=6|pos=MF|name=[[Vicente Pizarro]]|age={{birth date and age|2002|11|5|df=y}}|caps=17|goals=0|club=[[Rosario Central]]|clubnat=ARG}}
+{{nat fs g player|no=8|pos=MF|name=[[Felipe Loyola]]|age={{birth date and age|2000|11|9|df=y}}|caps=20|goals=2|club=[[Pisa SC|Pisa]]|clubnat=ITA}}
+{{nat fs g player|no=11|pos=MF|name=[[Darío Osorio]]|age={{birth date and age|df=yes|2004|1|24}}|caps=25|goals=3||club=[[FC Midtjylland|Midtjylland]]|clubnat=DEN}}
+{{nat fs g player|no=13|pos=MF|name=[[Víctor Méndez|Felipe Méndez]]|age={{birth date and age|1999|9|23|df=y}}|caps=14|goals=0|club=[[Colo-Colo]]|clubnat=CHI}}
+{{nat fs g player|no=18|pos=MF|name=[[Rodrigo Echeverría]]|age={{birth date and age|1995|4|17|df=y}}|caps=31|goals=1|club=[[Club León|León]]|clubnat=MEX}}
+{{nat fs g player|no=20|pos=MF|name=[[Matías Sepúlveda]]|age={{birth date and age|df=yes|1999|3|12}}||caps=2|goals=1|club=[[Club Atlético Lanús|Lanús]]|clubnat=ARG}}
+{{nat fs g player|no=21|pos=MF|name=[[Lautaro Millán]]|age={{birth date and age|2005|8|16|df=y}}|caps=4|goals=0|club=[[Club Atlético Independiente|Independiente]]|clubnat=ARG}}
+{{nat fs g player|no=22|pos=MF|name=[[Nils Reichmuth]]|age={{birth date and age|df=yes|2002|2|22}}|caps=2|goals=0|club=[[FC Thun|Thun]]|clubnat=SWI}}
+{{nat fs g player|no=25|pos=MF|name=[[Agustín Arce]]|age={{birth date and age|2005|1|24|df=y}}|caps=2|goals=0|club=[[Club Universidad de Chile|Universidad de Chile]]|clubnat=CHI}}
+{{nat fs break}}
+{{nat fs g player|no=9|pos=FW|name=[[Iván Morales (footballer)|Iván Morales]]|age={{birth date and age|df=yes|1999|7|29}}|caps=7|goals=1|club=[[Argentinos Juniors]]|clubnat=ARG}}
+{{nat fs g player|no=10|pos=FW|name=[[Lucas Cepeda]]|age={{birth date and age|2002|10|31|df=y}}|caps=16|goals=4|club=[[Elche CF|Elche]]|clubnat=ESP}}
+{{nat fs g player|no=16|pos=FW|name=[[Gonzalo Tapia]]|age={{birth date and age|df=yes|2002|2|18}}|caps=12|goals=3|club=[[São Paulo FC|São Paulo]]|clubnat=BRA}}
+{{nat fs g player|no=19|pos=FW|name=[[Maximiliano Gutiérrez]]|age={{birth date and age|2004|5|3|df=y}}|caps=7|goals=2|club=[[Club Atlético Independiente|Independiente]]|clubnat=ARG}}
+{{nat fs end}}
+
+===Recent call-ups===
+The following players have been called up in the last twelve months.
+<!--Sorted by position, most recent call-up, caps, goals and last name.-->
+{{nat fs r start}}
+{{nat fs r player|no=|pos=GK|name=[[Vicente Bernedo]]|age={{birth date and age|df=yes|2001|1|22}}|caps=0|goals=0|club=[[Club Deportivo Universidad Católica|Universidad Católica]]|clubnat=CHI|latest=''Microcycle'', 11–12 May 2026}}
+{{nat fs r player|no=|pos=GK|name=[[Gonzalo Flores]]|age={{birth date and age|df=yes|2000|2|29}}|caps=0|goals=0|club=[[Coquimbo Unido]]|clubnat=CHI|latest=''Microcycle'', 11–12 May 2026}}
+{{nat fs r player|no=|pos=GK|name=[[Jaime Vargas (footballer)|Jaime Vargas]]|age={{birth date and age|df=yes|2004|10|28}}|caps=0|goals=0|club=[[Deportes Recoleta|Recoleta]]|clubnat=CHI|latest=''Microcycle'', 11–12 May 2026}}
+{{nat fs r player|no=|pos=GK|name=[[José Alburquenque]] <sup>TRP</sup>|age={{birth date and age|df=yes|2007|7|19}}|caps=0|goals=0|club=[[Club Universidad de Chile|Universidad de Chile]]|clubnat=CHI|latest=''Microcycle'', 11–12 May 2026}}
+{{nat fs r player|no=|pos=GK|name=[[Maximiliano Mateluna]] <sup>TRP</sup>|age={{birth date and age|df=yes|2007|12|9}}|caps=0|goals=0|club=[[Club Deportivo Palestino|Palestino]]|clubnat=CHI|latest=''Microcycle'', 11–12 May 2026}}
+{{nat fs r player|no=|pos=GK|name=[[Sebastián Mella]]|age={{birth date and age|df=yes|2005|7|31}}|caps=0|goals=0|club=[[Huachipato FC|Huachipato]]|clubnat=CHI|latest=v. {{fb|NZL}}, 30 March 2026}}
+{{nat fs r player|no=23|pos=GK|name=[[Vicente Reyes (footballer)|Vicente Reyes]]|age={{birth date and age|df=yes|2003|11|19}}|caps=0|goals=0|club=[[Norwich City F.C.|Norwich City]]|clubnat=ENG|latest=v. {{fb|URU}}, 9 September 2025}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=DF|name=[[Iván Román]]|age={{birth date and age|df=yes|2006|7|12}}|caps=5|goals=0|club=[[Clube Atlético Mineiro|Atlético Mineiro]]|clubnat=BRA|latest=v. {{fb|DRC}}, 9 June 2026 <sup>SUS</sup>}}
+{{nat fs r player|no=|pos=DF|name=[[Francisco Salinas]]|age={{birth date and age|df=yes|1999|12|4}}|caps=2|goals=0|club=[[Coquimbo Unido]]|clubnat=CHI|latest=v. {{fb|POR}}, 6 June 2026 <sup>INJ</sup>}}
+{{nat fs r player|no=|pos=DF|name=[[Matías Pérez (footballer, born 2005)|Matías Pérez]]|age={{birth date and age|df=yes|2005|4|13}}|caps=0|goals=0|club=[[US Lecce|Lecce]]|clubnat=ITA|latest=v. {{fb|POR}}, 6 June 2026 <sup>WD</sup>}}
+{{nat fs r player|no=|pos=DF|name=[[Benjamín Kuscevic]]|age={{birth date and age|df=yes|1996|5|2}}|caps=16|goals=0|club=[[Toronto FC<!--loan from Fortaleza Esporte Clube|Fortaleza-->]]|clubnat=CAN|latest=v. {{fb|NZL}}, 30 March 2026}}
+{{nat fs r player|no=|pos=DF|name=[[Ian Garguez]]|age={{birth date and age|2005|2|3|df=y}}|caps=4|goals=0|club=[[Club Deportivo Palestino|Palestino]]|clubnat=CHI|latest=v. {{fb|NZL}}, 30 March 2026}}
+{{nat fs r player|no=|pos=DF|name=[[Nicolás Díaz (footballer)|Nicolás Díaz]]|age={{birth date and age|df=yes|1999|5|20}}|caps=5|goals=0|club=[[Club Tijuana|Tijuana]]|clubnat=MEX|latest=v. {{fb|PER}}, 10 October 2025}}
+{{nat fs r player|no=|pos=DF|name=[[Paulo Díaz]]|age={{birth date and age|df=yes|1994|8|25}}|caps=56|goals=1|club=[[Club Atlético River Plate|River Plate]]|clubnat=ARG|latest=v. {{fb|URU}}, 9 September 2025}}
+{{nat fs r player|no=|pos=DF|name=[[Daniel González (footballer, born 2002)|Daniel González]]|age={{birth date and age|2002|2|20|df=y}}|caps=2|goals=0|club=[[Club Deportivo Universidad Católica|Universidad Católica]]|clubnat=CHI|latest=v. {{fb|URU}}, 9 September 2025}}
+{{nat fs r player|no=|pos=DF|name=[[Esteban Matus]]|age={{birth date and age|2002|2|12|df=y}}|caps=0|goals=0|club=[[Audax Italiano]]|clubnat=CHI|latest=v. {{fb|URU}}, 9 September 2025}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=MF|name=[[Ignacio Saavedra]]|age={{birth date and age|df=yes|1999|1|12}}|caps=6|goals=0|club=[[PFC Sochi|Sochi]]|clubnat=RUS|latest=v. {{fb|POR}}, 6 June 2026 <sup>INJ</sup>}}
+{{nat fs r player|no=|pos=MF|name=[[Javier Altamirano]]|age={{birth date and age|1999|8|21|df=y}}|caps=8|goals=0|club=[[Club Universidad de Chile|Universidad de Chile]]|clubnat=CHI|latest=v. {{fb|NZL}}, 30 March 2026}}
+{{nat fs r player|no=|pos=MF|name=[[Benjamín Chandía]]|age={{birth date and age|2002|11|25|df=y}}|caps=1|goals=0|club=[[Coquimbo Unido]]|clubnat=CHI|latest=v. {{fb|NZL}}, 30 March 2026}}
+{{nat fs r player|no=|pos=MF|name=[[Felipe Ogaz]]|age={{birth date and age|2003|5|7|df=y}}|caps=0|goals=0|club=[[O'Higgins F.C.|O'Higgins]]|clubnat=CHI|latest=v. {{fb|NZL}}, 30 March 2026}}
+{{nat fs r player|no=|pos=MF|name=[[Marcelino Núñez]]|age={{birth date and age|df=yes|2000|3|1}}|caps=33|goals=5|club=[[Ipswich Town F.C.|Ipswich Town]]|clubnat=ENG|latest=v. {{fb|PER}}, 18 November 2025}}
+{{nat fs r player|no=|pos=MF|name=[[Lucas Assadi]]|age={{birth date and age|df=yes|2004|1|8}}||caps=6|goals=0|club=[[Club Universidad de Chile|Universidad de Chile]]|clubnat=CHI|latest=v. {{fb|PER}}, 10 October 2025 <sup>WD</sup>}}
+{{nat fs r player|no=|pos=MF|name=[[Luciano Cabral]]|age={{birth date and age|df=yes|1995|4|26}}||caps=3|goals=0|club=[[Club Atlético Independiente|Independiente]]|clubnat=ARG|latest=v. {{fb|URU}}, 9 September 2025}}
+{{nat fs r player|no=|pos=MF|name=[[César Pérez (footballer)|César Pérez]]|age={{birth date and age|2002|11|29|df=y}}|caps=4|goals=0|club=[[Defensa y Justicia]]|clubnat=ARG|latest=v. {{fb|URU}}, 9 September 2025 <sup>INJ</sup>}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=FW|name=[[Clemente Montes]]|age={{birth date and age|df=yes|2001|4|25}}|caps=4|goals=0|club=[[Club Deportivo Universidad Católica|Universidad Católica]]|clubnat=CHI|latest=v. {{fb|DRC}}, 9 June 2026 <sup>WD</sup>}}
+{{nat fs r player|no=|pos=FW|name=[[Ben Brereton Díaz]]|age={{birth date and age|df=yes|1999|4|18}}|caps=42|goals=10|club=[[Southampton F.C.|Southampton]]|clubnat=ENG|latest=v. {{fb|NZL}}, 30 March 2026}}
+{{nat fs r player|no=|pos=FW|name=[[Alexander Aravena]]|age={{birth date and age|df=yes|2002|9|6}}|caps=16|goals=0|club=[[Portland Timbers<!--loan from Grêmio FBPA|Grêmio-->]]|clubnat=USA|latest=v. {{fb|NZL}}, 30 March 2026}}
+{{nat fs r player|no=|pos=FW|name=[[Bruno Barticciotto]]|age={{birth date and age|df=yes|2001|5|7}}|caps=1|goals=2|club=[[Talleres de Córdoba|Talleres]]|clubnat=ARG|latest=v. {{fb|URU}}, 9 September 2025}}
+{{nat fs r player|no=14|pos=FW|name=[[Emiliano Ramos (footballer)|Emiliano Ramos]]|age={{birth date and age|df=yes|2005|3|8}}|caps=1|goals=0|club=[[Everton de Viña del Mar|Everton]]|clubnat=CHI|latest=v. {{fb|URU}}, 9 September 2025}}
+{{nat fs break}}
+*<sup>RET</sup> Retired from the national team
+*<sup>INJ</sup> Withdrew from the squad due to injury
+*<sup>PRE</sup> Preliminary squad
+*<sup>SUS</sup> Withdrew from the squad due to suspension
+*<sup>WD</sup> Withdrew from the squad for non-injury related reasons.
+*<sup>TRP</sup> Invited as a Training player
+{{nat fs end}}
+
+==Player records==
+{{updated|10 June 2025}}<ref>{{cite web |last1=Mamrud |first1=Roberto |title=Chile – Record International Players |url=https://www.rsssf.org/miscellaneous/chil-recintlp.html |publisher=Rec.Sport.Soccer Statistics Foundation}}</ref>
+:''Players in '''bold''' are still active with Chile.''
+
+===Most appearances===
+[[File:Alexis_Sanchez_-_Spain_vs._Chile,_10th_September_2013_(cropped).jpg|160px|thumb|right|Alexis Sánchez is Chile's top goalscorer and their most capped player.]]
+
+{| class="wikitable sortable" style="text-align:center";
+|-
+!width=30 |Rank
+!width=150 |Player
+!width=50 |Caps
+!width=50 |Goals
+!width=100 |Career
+|-
+|1
+|align=left|[[Alexis Sánchez]]
+|168
+|51
+|2006–2025
+|-
+|2
+|align=left|[[Gary Medel]]
+|161
+|7
+|2007–2023
+|-
+|3
+|align=left|[[Claudio Bravo]]
+|150
+|0
+|2004–2024
+|-
+|4
+|align=left|[[Arturo Vidal]]
+|147
+|34
+|2007–2025
+|-
+|5
+|align=left|[[Mauricio Isla]]
+|145
+|5
+|2007–2025
+|-
+|6
+|align=left|[[Eduardo Vargas]]
+|120
+|45
+|2009–2025
+|-
+|7
+|align=left|[[Gonzalo Jara (footballer, born 1985)|Gonzalo Jara]]
+|115
+|3
+|2006–2019
+|-
+|8
+|align=left|[[Jean Beausejour]]
+|109
+|6
+|2004–2021
+|-
+|9
+|align=left|[[Charles Aránguiz]]
+|103
+|7
+|2009–2025
+|-
+|10
+|align=left|[[Leonel Sánchez]]
+|85
+|24
+|1955–1968
+|}
+
+===Top goalscorers===
+{| class="wikitable sortable" style="text-align:center"
+|-
+!width=30 |Rank
+!width=130 |Player
+!width=50 |Goals
+!width=50 |Caps
+!width=50 |Ratio
+!width=100 |Career
+|-
+|1
+|align=left|[[Alexis Sánchez]] ([[List of international goals scored by Alexis Sánchez|list]])
+|51
+|168
+|{{#expr:51/168 round 2}}0
+|{{nowrap|2006–2025}}
+|-
+|2
+|align=left|[[Eduardo Vargas]]
+|45
+|120
+|{{#expr:45/120 round 2}}
+|2009–2025
+|-
+|3
+|align=left|[[Marcelo Salas]]
+|37
+|70
+|{{#expr:37/70 round 2}}
+|1994–2007
+|-
+|rowspan=2|4
+|align=left|[[Iván Zamorano]]
+|34
+|69
+|{{#expr:34/69 round 2}}
+|1987–2001
+|-
+|align=left|[[Arturo Vidal]]
+|34
+|147
+|{{#expr:34/147 round 2}}
+|2007–2025
+|-
+|6
+|align=left|[[Carlos Caszely]]
+|29
+|49
+|{{#expr:29/49 round 2}}
+|1969–1985
+|-
+|7
+|align=left|[[Leonel Sánchez]]
+|24
+|85
+|{{#expr:24/85 round 2}}
+|1955–1968
+|-
+|8
+|align=left|[[Jorge Aravena (footballer)|Jorge Aravena]]
+|22
+|37
+|{{#expr:22/37 round 2}}
+|1983–1990
+|-
+|9
+|align=left|[[Humberto Suazo]]
+|21
+|60
+|{{#expr:21/60 round 2}}
+|2005–2013
+|-
+|10
+|align=left|[[Juan Carlos Letelier]]
+|18
+|57
+|{{#expr:18/57 round 2}}
+|1979–1989
+|}
+
+=== Captains ===
+* [[Sergio Navarro (footballer, born 1936)|Sergio Navarro]] (1961–1962)
+* [[Leonel Sánchez]] (1963–1969)
+* [[Francisco Valdés]] (1969–1974)
+* [[Elías Figueroa]] (1974–1982)
+* [[Carlos Caszely]] (1982–1985)
+* [[Roberto Rojas (Chilean footballer)|Roberto Rojas]] (1985–1989)
+* [[Jaime Pizarro]] (1990–1993)
+* [[Iván Zamorano]] (1993–2001)
+* [[Marcelo Salas]] (2001–2007)
+* [[David Pizarro]] (2002–2005)
+* [[Claudio Bravo]] (2008–2024)
+* [[Gary Medel]] (2018-2021)
+* [[Alexis Sánchez]] (2024–2025)
+* '''[[Gabriel Suazo]]''' (2025–present)
+
+==Competitive record==
+{{Main|Chile national football team records and statistics}}
+
+===FIFA World Cup===
+{{Main|Chile at the FIFA World Cup}}
+
+{{Color box|gold|border=darkgray}} '''Champions'''&nbsp;&nbsp;{{Color box|silver|border=darkgray}} '''Runners-up'''&nbsp;&nbsp;{{Color box|#cc9966|border=darkgray}} Third place&nbsp;&nbsp;{{Color box|LemonChiffon|border=darkgray}} Fourth place&nbsp;&nbsp;
+
+{| class="wikitable" style="text-align: center;"
+!colspan=10|[[FIFA World Cup]] record
+!width=1% rowspan=28|
+!colspan=7|[[FIFA World Cup qualification|Qualification]] record
+|-
+!Year
+!Round
+!Position
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!Squad
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+|-
+| {{flagicon|Uruguay}} [[1930 FIFA World Cup|1930]]
+| Group stage
+| 5th
+| 3
+| 2
+| 0
+| 1
+| 5
+| 3
+| [[1930 FIFA World Cup squads#Chile|Squad]]
+| colspan=7|''Qualified as invitees''
+|-
+| {{flagicon|Italy|1861}} [[1934 FIFA World Cup|1934]]
+| colspan=9 rowspan=2|''Withdrew''
+| colspan=7 rowspan=2|''Withdrew''
+|-
+| {{flagicon|France|1794}} [[1938 FIFA World Cup|1938]]
+|-
+| {{flagicon|Brazil|1889}} [[1950 FIFA World Cup|1950]]
+| Group stage
+| 9th
+| 3
+| 1
+| 0
+| 2
+| 5
+| 6
+| [[1950 FIFA World Cup squads#Chile|Squad]]
+| colspan=7|''Qualified automatically''
+|-
+| {{flagicon|Switzerland}} [[1954 FIFA World Cup|1954]]
+| colspan=9 rowspan=2|''Did not qualify''
+| 4
+| 0
+| 0
+| 4
+| 1
+| 10
+|-
+| {{flagicon|Sweden}} [[1958 FIFA World Cup|1958]]
+| 4
+| 1
+| 0
+| 3
+| 2
+| 10
+|- style="background:#c96"
+| style="border: 3px solid red"|{{flagicon|Chile}} [[1962 FIFA World Cup|1962]]
+| '''Third place'''
+| '''3rd'''
+| '''6'''
+| '''4'''
+| '''0'''
+| '''2'''
+| '''10'''
+| '''8'''
+| '''[[1962 FIFA World Cup squads#Chile|Squad]]'''
+| colspan=7|''Qualified as hosts''
+|-
+| {{flagicon|England}} [[1966 FIFA World Cup|1966]]
+| Group stage
+| 13th
+| 3
+| 0
+| 1
+| 2
+| 2
+| 5
+| [[1966 FIFA World Cup squads#Chile|Squad]]
+| 5
+| 3
+| 1
+| 1
+| 14
+| 8
+|-
+| {{flagicon|Mexico}} [[1970 FIFA World Cup|1970]]
+| colspan=9|''Did not qualify''
+| 4
+| 1
+| 2
+| 1
+| 5
+| 4
+|-
+| {{flagicon|West Germany}} [[1974 FIFA World Cup|1974]]
+| Group stage
+| 11th
+| 3
+| 0
+| 2
+| 1
+| 1
+| 2
+| [[1974 FIFA World Cup squads#Chile|Squad]]
+| 5
+| 3
+| 1
+| 1
+| 6
+| 3
+|-
+| {{flagicon|Argentina}} [[1978 FIFA World Cup|1978]]
+| colspan=9|''Did not qualify''
+| 4
+| 2
+| 1
+| 1
+| 5
+| 3
+|-
+| {{flagicon|Spain}} [[1982 FIFA World Cup|1982]]
+| Group stage
+| 22nd
+| 3
+| 0
+| 0
+| 3
+| 3
+| 8
+| [[1982 FIFA World Cup squads#Chile|Squad]]
+| 4
+| 3
+| 1
+| 0
+| 6
+| 0
+|-
+| {{flagicon|Mexico}} [[1986 FIFA World Cup|1986]]
+| colspan=9 rowspan=2|''Did not qualify''
+| 8
+| 4
+| 2
+| 2
+| 17
+| 12
+|-
+| {{flagicon|Italy}} [[1990 FIFA World Cup|1990]]
+| 4
+| 2
+| 1
+| 1
+| 9
+| 4
+|-
+| {{flagicon|United States}} [[1994 FIFA World Cup|1994]]
+| colspan=9|''Banned''
+| colspan=7|''Banned''
+|-
+| {{flagicon|France|1974}} [[1998 FIFA World Cup|1998]]
+| Round of 16
+| 16th
+| 4
+| 0
+| 3
+| 1
+| 5
+| 8
+| [[1998 FIFA World Cup squads#Chile|Squad]]
+| 16
+| 7
+| 4
+| 5
+| 32
+| 18
+|-
+| {{flagicon|South Korea|1997}} {{flagicon|Japan}} [[2002 FIFA World Cup|2002]]
+| colspan=9 rowspan=2|''Did not qualify''
+| 18
+| 3
+| 3
+| 12
+| 15
+| 27
+|-
+| {{flagicon|Germany}} [[2006 FIFA World Cup|2006]]
+| 18
+| 5
+| 7
+| 6
+| 18
+| 22
+|-
+| {{flagicon|South Africa}} [[2010 FIFA World Cup|2010]]
+| rowspan=2|Round of 16
+| 10th
+| 4
+| 2
+| 0
+| 2
+| 3
+| 5
+| [[2010 FIFA World Cup squads#Chile|Squad]]
+| 18
+| 10
+| 3
+| 5
+| 32
+| 22
+|-
+| {{flagicon|Brazil}} [[2014 FIFA World Cup|2014]]
+| 9th
+| 4
+| 2
+| 1
+| 1
+| 6
+| 4
+| [[2014 FIFA World Cup squads#Chile|Squad]]
+| 16
+| 9
+| 1
+| 6
+| 29
+| 25
+|-
+| {{flagicon|Russia}} [[2018 FIFA World Cup|2018]]
+| colspan=9 rowspan=3|''Did not qualify''
+| 18
+| 8
+| 2
+| 8
+| 26
+| 27
+|-
+| {{flagicon|Qatar}} [[2022 FIFA World Cup|2022]]
+| 18
+| 5
+| 4
+| 9
+| 19
+| 26
+|-
+| {{flagicon|Canada}} {{flagicon|Mexico}} {{flagicon|United States}} [[2026 FIFA World Cup|2026]]
+| 18
+| 2
+| 5
+| 11
+| 9
+| 27
+|-
+| {{flagicon|Morocco}} {{flagicon|Portugal}} {{flagicon|Spain}} [[2030 FIFA World Cup|2030]]
+| colspan=9 rowspan=2|''To be determined''
+| colspan=7 rowspan=2|''To be determined''
+|-
+| {{flagicon|Saudi Arabia}} [[2034 FIFA World Cup|2034]]
+|-
+!Total
+!Third place
+!{{Tooltip|9/23|Number of tournaments qualified for}}
+!33
+!11
+!7
+!15
+!40
+!49
+!—
+!182
+!68
+!38
+!76
+!245
+!248
+|}
+
+===Copa América===
+{{main|Chile at the Copa América}}
+
+{| class="wikitable" style="text-align:center"
+|-
+!colspan=10|[[Copa América|South American Championship / Copa América]] record
+|-
+!width=100|Year
+!width=95|Round
+!width=60|Position
+!width=20|{{Abbr|Pld|Games played}}
+!width=20|{{Abbr|W|Won}}
+!width=20|{{Abbr|D|Drawn}}
+!width=20|{{Abbr|L|Lost}}
+!width=20|{{Abbr|GF|Goals for}}
+!width=20|{{Abbr|GA|Goals against}}
+!width=60|Squad
+|- style="background:LemonChiffon;"
+|{{flagicon|Argentina}} [[1916 South American Championship|1916]]||Fourth place||4th||3||0||1||2||2||11
+|[[1916 South American Championship squads#Chile|Squad]]
+|- style="background:LemonChiffon;"
+|{{flagicon|Uruguay}} [[1917 South American Championship|1917]]||Fourth place||4th||3||0||0||3||0||10
+|[[1917 South American Championship squads#Chile|Squad]]
+|- style="background:LemonChiffon;"
+|{{flagicon|Brazil|1889}} [[1919 South American Championship|1919]]||Fourth place||4th||3||0||0||3||1||12
+|[[1919 South American Championship squads#Chile|Squad]]
+|- style="background:LemonChiffon;"
+|style="border:3px solid red"|{{flagicon|Chile}} [[1920 South American Championship|1920]]||Fourth place||4th||3||0||1||2||2||4
+|[[1920 South American Championship squads#Chile|Squad]]
+|-
+|{{flagicon|Argentina}} [[1921 South American Championship|1921]]
+|colspan=9|''Withdrew''
+|-
+|{{flagicon|Brazil|1889}} [[1922 South American Championship|1922]]
+|Fifth place||5th||4||0||1||3||1||10
+|[[1922 South American Championship squads#Chile|Squad]]
+|-
+|{{flagicon|Uruguay}} [[1923 South American Championship|1923]]
+|colspan=9|''Withdrew''
+|- style="background:LemonChiffon;"
+|{{flagicon|Uruguay}} [[1924 South American Championship|1924]]||Fourth place||4th||3||0||0||3||1||10
+|[[1924 South American Championship squads#Chile|Squad]]
+|-
+|{{flagicon|Argentina}} [[1925 South American Championship|1925]]||colspan=9|''Withdrew''
+|- style="background:#c96;"
+|style="border:3px solid red"|{{flagicon|Chile}} [[1926 South American Championship|1926]]||Third place||3rd||4||2||1||1||14||6
+|[[1926 South American Championship squads#Chile|Squad]]
+|-
+|{{flagicon|Peru|1825}} [[1927 South American Championship|1927]]
+|colspan=9|''Withdrew''
+|-
+|{{flagicon|Argentina}} [[1929 South American Championship|1929]]||colspan=9|''Did not participate''
+|- style="background:LemonChiffon;"
+|{{flagicon|Peru|1825}} [[1935 South American Championship|1935]]||Fourth place||4th||3||0||0||3||2||7
+|[[1935 South American Championship squads#Chile|Squad]]
+|-
+|{{flagicon|Argentina}} [[1937 South American Championship|1937]]||Fifth place||5th||5||1||1||3||12||13
+|[[1937 South American Championship squads#Chile|Squad]]
+|- style="background:LemonChiffon;"
+|{{flagicon|Peru|1825}} [[1939 South American Championship|1939]]||Fourth place||4th||4||1||0||3||8||12
+|[[1939 South American Championship squads#Chile|Squad]]
+|- style="text-align:center; background:#c96;"
+|style="border:3px solid red"|{{flagicon|Chile}} [[1941 South American Championship|1941]]
+|Third place||3rd||4||2||0||2||6||3
+|[[1941 South American Championship squads#Chile|Squad]]
+|-
+|{{flagicon|Uruguay}} [[1942 South American Championship|1942]]||Sixth place||6th||6||1||1||4||4||15
+|[[1942 South American Championship squads#Chile|Squad]]
+|- style="background:#c96;"
+|style="border:3px solid red"|{{flagicon|Chile}} [[1945 South American Championship|1945]]||Third place||3rd||6||4||1||1||15||5
+|[[1945 South American Championship squads#Chile|Squad]]
+|-
+|{{flagicon|Argentina}} [[1946 South American Championship|1946]]||Fifth place||5th||5||2||0||3||8||11
+|[[1946 South American Championship squads#Chile|Squad]]
+|- style="background:LemonChiffon;"
+|{{flagicon|Ecuador|1900}} [[1947 South American Championship|1947]]||Fourth place||4th||7||4||1||2||14||13
+|[[1947 South American Championship squads#Chile|Squad]]
+|-
+|{{flagicon|Brazil|1889}} [[1949 South American Championship|1949]]||Fifth place||5th||7||2||1||4||10||14
+|[[1949 South American Championship squads#Chile|Squad]]
+|- style="background:LemonChiffon;"
+|{{flagicon|Peru|football}} [[1953 South American Championship|1953]]||Fourth place||4th||6||3||1||2||10||10
+|[[1953 South American Championship squads#Chile|Squad]]
+|- style="background:Silver;"
+|style="border:3px solid red"|{{flagicon|Chile}} [[1955 South American Championship|1955]]||'''Runners-up'''||'''2nd'''||'''5'''||'''3'''||'''1'''||'''1'''||'''19'''||'''8'''
+|'''[[1955 South American Championship squads#Chile|Squad]]'''
+|- style="background:Silver;"
+|{{flagicon|Uruguay}} [[1956 South American Championship|1956]]||'''Runners-up'''||'''2nd'''||'''5'''||'''3'''||'''0'''||'''2'''||'''11'''||'''8'''
+|'''[[1956 South American Championship squads#Chile|Squad]]'''
+|-
+|{{flagicon|Peru|football}} [[1957 South American Championship|1957]]||Sixth place||6th||6||1||1||4||9||17
+|[[1957 South American Championship squads#Chile|Squad]]
+|-
+|{{flagicon|Argentina}} [[1959 South American Championship (Argentina)|1959]]||Fifth place||5th||6||2||1||3||9||14
+|[[1959 South American Championship (Argentina) squads#Chile|Squad]]
+|-
+|{{flagicon|Ecuador|1900}} [[1959 South American Championship (Ecuador)|1959]]||colspan=9 rowspan=2|''Did not participate''
+|-
+|{{flagicon|Bolivia|civil}} [[1963 South American Championship|1963]]
+|- style="background:#c96;"
+|{{flagicon|Uruguay}} [[1967 South American Championship|1967]]||Third place||3rd||5||2||2||1||8||6
+|[[1967 South American Championship squads#Chile|Squad]]
+|-
+|[[1975 Copa América|1975]]||Group stage||6th||4||1||1||2||7||6
+|[[1975 Copa América squads#Chile|Squad]]
+|- style="background:Silver;"
+|[[1979 Copa América|1979]]||'''[[1979 Copa América Finals|Runners-up]]'''||'''2nd'''||'''9'''||'''4'''||'''3'''||'''2'''||'''13'''||'''6'''
+|'''[[1979 Copa América squads#Chile|Squad]]'''
+|-
+|[[1983 Copa América|1983]]||Group stage||5th||4||2||1||1||8||2
+|[[1983 Copa América squads#Chile|Squad]]
+|- style="background:Silver;"
+|{{flagicon|Argentina}} [[1987 Copa América|1987]]||'''[[1987 Copa América Final|Runners-up]]'''||'''2nd'''||'''4'''||'''3'''||'''0'''||'''1'''||'''9'''||'''3'''
+|'''[[1987 Copa América squads#Chile|Squad]]'''
+|-
+|{{flagicon|Brazil|1968}} [[1989 Copa América|1989]]||Group stage||5th||4||2||0||2||7||5
+|[[1989 Copa América squads#Chile|Squad]]
+|- style="background:#c96;"
+|style="border:3px solid red"|{{flagicon|Chile}} [[1991 Copa América|1991]]||Third place||3rd||7||3||2||2||11||6
+|[[1991 Copa América squads#Chile|Squad]]
+|-
+|{{flagicon|Ecuador|1900}} [[1993 Copa América|1993]]||Group stage||9th||3||1||0||2||3||4
+|[[1993 Copa América squads#Chile|Squad]]
+|-
+|{{flagicon|Uruguay}} [[1995 Copa América|1995]]||Group stage||11th||3||0||1||2||3||8
+|[[1995 Copa América squads#Chile|Squad]]
+|-
+|{{flagicon|Bolivia|civil}} [[1997 Copa América|1997]]||Group stage||11th||3||0||0||3||1||5
+|[[1997 Copa América squads#Chile|Squad]]
+|- style="background:LemonChiffon;"
+|{{flagicon|Paraguay|1990}} [[1999 Copa América|1999]]||Fourth place||4th||6||2||1||3||8||7
+|[[1999 Copa América squads#Chile|Squad]]
+|-
+|{{flagicon|Colombia}} [[2001 Copa América|2001]]||Quarter-finals||7th||4||2||0||2||5||5
+|[[2001 Copa América squads#Chile|Squad]]
+|-
+|{{flagicon|Peru|football}} [[2004 Copa América|2004]]||Group stage||10th||3||0||1||2||2||4
+|[[2004 Copa América squads#Chile|Squad]]
+|-
+|{{flagicon|Venezuela}} [[2007 Copa América|2007]]||Quarter-finals||8th||4||1||1||2||4||11
+|[[2007 Copa América squads#Chile|Squad]]
+|-
+|{{flagicon|Argentina}} [[2011 Copa América|2011]]||Quarter-finals||5th||4||2||1||1||5||4
+|[[2011 Copa América squads#Chile|Squad]]
+|- style="background:Gold;"
+|style="border:3px solid red"|{{flagicon|Chile}} [[2015 Copa América|2015]]||'''[[2015 Copa América Final|Champions]]'''||'''1st'''||'''6'''||'''4'''||'''2'''||'''0'''||'''13'''||'''4'''
+|'''[[2015 Copa América squads#Chile|Squad]]'''
+|- style="background:Gold;"
+|{{flagicon|United States}} [[Copa América Centenario|2016]]||'''[[Copa América Centenario Final|Champions]]'''||'''1st'''||'''6'''||'''4'''||'''1'''||'''1'''||'''16'''||'''5'''
+|'''[[Copa América Centenario squads#Chile|Squad]]'''
+|- style="background:LemonChiffon;"
+|{{flagicon|Brazil}} [[2019 Copa América|2019]]||Fourth place||4th||6||2||1||3||7||7
+|[[2019 Copa América squads#Chile|Squad]]
+|-
+|{{flagicon|Brazil}} [[2021 Copa América|2021]]
+||Quarter-finals||7th||5||1||2||2||3||5
+|[[2021 Copa América squads#Chile|Squad]]
+|-
+|{{flagicon|United States}} [[2024 Copa América|2024]]
+||Group stage||12th||3||0||2||1||0||1
+|[[2024 Copa América squads#Chile|Squad]]
+|-
+!Total||2 Titles||41/48||191||67||35||89||291||317||—
+|}
+
+===FIFA Confederations Cup===
+{| class="wikitable" style="text-align:center"
+|-
+!colspan=10|[[FIFA Confederations Cup]] record
+|-
+!Year
+!Round
+!Position
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!Squad
+|-
+| {{flagicon|Saudi Arabia}} [[1992 King Fahd Cup|1992]]
+| colspan=9 rowspan=9|''Did not qualify''
+|-
+| {{flagicon|Saudi Arabia}} [[1995 King Fahd Cup|1995]]
+|-
+| {{flagicon|Saudi Arabia}} [[1997 FIFA Confederations Cup|1997]]
+|-
+| {{flagicon|Mexico}} [[1999 FIFA Confederations Cup|1999]]
+|-
+| {{flagicon|South Korea|1997}} {{flagicon|Japan}} [[2001 FIFA Confederations Cup|2001]]
+|-
+| {{flagicon|France|1974}} [[2003 FIFA Confederations Cup|2003]]
+|-
+| {{flagicon|Germany}} [[2005 FIFA Confederations Cup|2005]]
+|-
+| {{flagicon|South Africa}} [[2009 FIFA Confederations Cup|2009]]
+|-
+| {{flagicon|Brazil}} [[2013 FIFA Confederations Cup|2013]]
+|- style="background:Silver;"
+| {{flagicon|Russia}} [[2017 FIFA Confederations Cup|2017]]
+|'''[[2017 FIFA Confederations Cup Final|Runners-up]]'''
+|'''2nd'''
+|'''5'''
+|'''1'''
+|'''3'''
+|'''1'''
+|'''4'''
+|'''3'''
+|'''[[2017 FIFA Confederations Cup squads#Chile|Squad]]'''
+|-
+!Total!!Runners-up!!1/10!!5!!1!!3!!1!!4!!3!!—
+|}
+
+===Olympic Games===
+{| class="wikitable" style="text-align: center;"
+|-
+!colspan=10|[[Football at the Summer Olympics|Olympic Games]] record
+|-
+!Year
+!Round
+!Position
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!Squad
+|-
+| {{flagicon|Greece|old}} [[1896 Summer Olympics|1896]]
+|colspan=9|''No football tournament''
+|-
+| {{flagicon|France|1794}} [[Football at the 1900 Summer Olympics|1900]]
+|colspan=9 rowspan=2|''Only club teams participated''
+|-
+| {{flagicon|United States|1896}} [[Football at the 1904 Summer Olympics|1904]]
+|-
+| {{flagicon|United Kingdom}} [[Football at the 1908 Summer Olympics|1908]]
+|colspan=9 rowspan=4|''Did not participate''
+|-
+| {{flagicon|Sweden}} [[Football at the 1912 Summer Olympics|1912]]
+|-
+| {{flagicon|Belgium}} [[Football at the 1920 Summer Olympics|1920]]
+|-
+| {{flagicon|France|1794}} [[Football at the 1924 Summer Olympics|1924]]
+|-
+| {{flagicon|Netherlands}} [[Football at the 1928 Summer Olympics|1928]]|| Preliminary round || 17th || 3 || 1 || 1 || 1 || 7 || 7
+|[[Football at the 1928 Summer Olympics – Men's team squads#Chile|Squad]]
+|-
+| {{flagicon|United States|1912}} [[1932 Summer Olympics|1932]]
+|colspan=9|''No football tournament''
+|-
+| {{flagicon|Nazi Germany}} [[Football at the 1936 Summer Olympics|1936]]
+|colspan=9|''Withdrew''
+|-
+| {{flagicon|United Kingdom}} [[Football at the 1948 Summer Olympics|1948]]
+|colspan=9|''Did not participate''
+|-
+| {{flagicon|Finland}} [[Football at the 1952 Summer Olympics|1952]]|| Preliminary round || 17th || 1 || 0 || 0 || 1 || 4 || 5
+|[[Football at the 1952 Summer Olympics – Men's team squads#Chile|Squad]]
+|-
+| {{flagicon|Australia}} [[Association football at the 1956 Summer Olympics|1956]]
+|colspan=9|''Did not participate''
+|-
+| {{flagicon|Italy}} [[Football at the 1960 Summer Olympics|1960]]
+|colspan=9 rowspan=6|''Did not qualify''
+|-
+| {{flagicon|Japan|1947}} [[Football at the 1964 Summer Olympics|1964]]
+|-
+| {{flagicon|Mexico}} [[Football at the 1968 Summer Olympics|1968]]
+|-
+| {{flagicon|West Germany}} [[Football at the 1972 Summer Olympics|1972]]
+|-
+| {{flagicon|Canada}} [[Football at the 1976 Summer Olympics|1976]]
+|-
+| {{flagicon|Soviet Union}} [[Football at the 1980 Summer Olympics|1980]]
+|-
+| {{flagicon|United States}} [[Football at the 1984 Summer Olympics|1984]]|| Quarter-finals || 7th || 4 || 1 || 2 || 1 || 2 || 2
+|[[Football at the 1984 Summer Olympics – Men's team squads#Chile|Squad]]
+|-
+| {{flagicon|South Korea|1984}} [[Football at the 1988 Summer Olympics|1988]]
+|colspan=9|''Did not qualify''
+|-
+| Since [[Football at the 1992 Summer Olympics|1992]]||colspan=9|''See [[Chile Olympic football team|Chile national under-23 football team]]''
+|-
+!Total||Quarter-finals||3/19||8||6||3||5||27||20||—
+|}
+
+===Pan American Games===
+{| class="wikitable" style="text-align: center;"
+|-
+!colspan=9|[[Football at the Pan American Games|Pan American Games]] record
+|-
+!Year
+!Round
+!Position
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+|- style="background:#c96;"
+| {{flagicon|Argentina}} [[Football at the 1951 Pan American Games|1951]]
+| Bronze medal || 3rd || 4 || 1 || 2 || 1 || 8 || 6
+|-
+| {{flagicon|Mexico|1934}} [[Football at the 1955 Pan American Games|1955]]
+|colspan=8 rowspan=2|''Did not participate''
+|-
+| {{flagicon|United States|1959}} [[Football at the 1959 Pan American Games|1959]]
+|- style="background:#c96;"
+| {{flagicon|Brazil|1960}} [[Football at the 1963 Pan American Games|1963]]
+| Bronze medal || 3rd || 4 || 2 || 1 || 1 || 12 || 6
+|-
+| {{flagicon|Canada}} [[Football at the 1967 Pan American Games|1967]]
+|colspan=8 rowspan=4|''Did not participate''
+|-
+| {{flagicon|Colombia}} [[Football at the 1971 Pan American Games|1971]]
+|-
+| {{flagicon|Mexico}} [[Football at the 1975 Pan American Games|1975]]
+|-
+| {{flagicon|Puerto Rico|1952}} [[Football at the 1979 Pan American Games|1979]]
+|- style="background:LemonChiffon;"
+| {{flagicon|Venezuela|1954}} [[Football at the 1983 Pan American Games|1983]]
+| Round 1 || 4th || 3 || 1 || 2 || 0 || 3 || 2
+|- style="background:Silver;"
+| {{flagicon|United States}} [[Football at the 1987 Pan American Games|1987]]
+|'''Silver medal'''||'''2nd'''||'''5'''||'''2'''||'''2'''||'''1'''||'''6'''||'''6'''
+|-
+| {{flagicon|Cuba}} [[Football at the 1991 Pan American Games|1991]]
+|colspan=8|''Did not participate''
+|-
+| {{flagicon|Argentina}} [[Football at the 1995 Pan American Games|1995]]
+| Quarter-finals || 7th || 4 || 1 || 1 || 2 || 3 || 6
+|-
+|Since [[Football at the 1999 Pan American Games – Men's tournament|1999]]||colspan=8|''See [[Chile Olympic football team|Chile national under-23 football team]]''
+|-
+!Total||Silver medal||5/12||20||7||8||5||32||26
+|}
+
+==Honours==
+===Global===
+* '''[[FIFA World Cup]]'''
+** {{bronze3}} Third place (1): [[1962 FIFA World Cup|1962]]
+* '''[[FIFA Confederations Cup]]'''
+** {{silver2}} Runners-up (1): [[2017 FIFA Confederations Cup|2017]]
+
+===Continental===
+* '''[[Copa América|South American Championship / Copa América]]'''
+** {{gold1}} '''Champions (2)''': [[2015 Copa América|2015]], [[Copa América Centenario|2016]]
+** {{silver2}} Runners-up (4): [[1955 South American Championship|1955]], [[1956 South American Championship|1956]], [[1979 Copa América|1979]], [[1987 Copa América|1987]]
+** {{bronze3}} Third place (5): [[1926 South American Championship|1926]], [[1941 South American Championship|1941]], [[1945 South American Championship|1945]], [[1967 South American Championship|1967]], [[1991 Copa América|1991]]
+* '''[[Panamerican Championship]]'''<sup>'''1'''</sup>
+** {{silver2}} Runners-up (1): [[Panamerican Championship 1952|1952]]
+
+===Friendly===
+* '''[[Copa Bernardo O'Higgins]] (2)''': [[:es:Copa Bernardo O'Higgins#II Edición|1957]], [[:es:Copa Bernardo O'Higgins#V Edición|1966]]{{sup|s}}
+* '''[[Copa del Pacífico]] (7):''' [[:es:Copa del Pacífico 1965|1965]], [[:es:Copa del Pacífico 1968|1968]], [[:es:Copa del Pacífico 1971|1971]]{{sup|s}}, [[:es:Copa del Pacífico 1983|1983]], [[:es:Copa del Pacífico 1988|1988]], [[:es:Copa del Pacífico 2006|2006]], [[:es:Copa del Pacífico 2012|2012]]
+* '''[[:es:Copa Juan Pinto Durán|Copa Juan Pinto Durán]] (2)''': 1971, 1979
+* '''[[:es:Copa Carlos Dittborn|Copa Carlos Dittborn]] (1)''': 1973
+* '''[[:es:Copa Provoste|Copa Leoncio Provoste]] (1)''': 1973
+* '''Copa Acosta Ñu<ref>{{cite web|title=[22/12/1974] Chile-Paraguay 1:0 |url=https://www.partidosdelaroja.com/1974/12/22121974-chile-paraguay-10.html|publisher=partidosdelaroja.com|accessdate=10 February 2022|language=es}}</ref> (1)''': 1974
+* '''[[Indonesian Independence Cup]] (1)''': 1985
+* '''[[Copa Teixeira]] (1)''': 1990{{sup|s}}
+* '''[[Canada Cup (soccer)|Canada Cup]] (1)''': [[1995 Canada Cup|1995]]
+* '''[[:es:Copa Ciudad de Valparaíso|Copa Ciudad de Valparaíso]] (1)''': [[:es:Copa Ciudad de Valparaíso|2000]]
+* '''[[China Cup]] (1)''': [[2017 China Cup|2017]]
+
+===Chronology of titles===
+{| class="wikitable" style="text-align: left;"
+|-
+!Headquarters
+!Tournament
+!Year
+!N.º
+|-
+|{{flagicon|CHI}} Chile||[[Copa América]]||2015||style="text-align: center;"|1º
+|-
+|{{flagicon|USA}} USA||[[Copa América]]||2016||style="text-align: center;"|2º
+|-
+|}
+
+===Summary===
+{| class="wikitable" width=30% style="font-size:90%; text-align:center;"
+|-
+!Competition !!{{gold1}} !!{{silver2}} !!{{bronze3}} !!Total
+|-
+|align=left|[[FIFA World Cup]]
+|0||0||1||1
+|-
+|align=left|[[FIFA Confederations Cup]]
+|0||1||0||1
+|-
+|align=left|[[Copa América|CONMEBOL Copa América]]
+|2||4||5||11
+|-
+|align=left|[[Panamerican Championship]]<sup>'''1'''</sup>
+|0||1||0||1
+|-
+!Total!!2!!6!!6!!14
+|}
+;Notes:
+# Official continental competition organized by [[Panamerican Championship#Panamerican Football Confederation|PFC]]. It was a unified confederation of the Americas, which was formed by NAFC, CCCF and CONMEBOL.
+* {{sup|s}} Shared titles.
+
+==See also==
+{{portal bar|Association football|Chile}}
+*[[Chile national under-23 football team]]
+*[[Chile national under-20 football team]]
+*[[Chile national under-17 football team]]
+*[[Chile national futsal team]]
+*[[South American Footballer of the Year]]
+
+==Notes==
+{{reflist|group=note}}
+{{notelist-ua}}
+{{notelist}}
+*In 2010, Chicago-based rock band [[Manwomanchild]] released the song "Chile La Roja" in support of Chile's 2010 World Cup team.<ref>{{cite web|url=http://www.mer.cl/modulos/catalogo/Paginas/2010/06/21/MERSTED010MM2106.htm|title=La pegajosa canción que alienta a Chile en inglés|date=21 June 2010|work=Il Mercurio|access-date=29 June 2010|language=es}}</ref><ref>{{cite web|url=http://www.lun.com/Pages/NewsDetail.aspx?dt=2010-06-23&PaginaId=9&bodyid=0|title=Top: La Roja tiene himno anglo|date=23 June 2010|work=Las Últimas Noticias|access-date=29 June 2010|language=es}}</ref><ref>{{cite web|url=http://www.lanacion.cl/la-roja-de-bielsa-ahora-tiene-un-himno-en-version-anglo/noticias/2010-06-23/093008.html|title=La Roja de Bielsa ahora tiene un himno en versión anglo|date=23 June 2010|work=La Nación|access-date=29 June 2010|language=es|url-status=dead|archive-url=https://web.archive.org/web/20100628090857/http://www.lanacion.cl/la-roja-de-bielsa-ahora-tiene-un-himno-en-version-anglo/noticias/2010-06-23/093008.html|archive-date=28 June 2010}}
+</ref>
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+{{Commons category}}
+*{{Official website}}
+*[https://www.anfp.cl/seleccion-masculina national football team web site on ANFP]
+*[https://www.fifa.com/about-fifa/associations/CHI Chile FIFA profile]
+*[https://www.rsssf.org/tablesc/chil-intres.html RSSSF archive of results 1910–2003]
+*[https://www.rsssf.org/miscellaneous/chil-recintlp.html RSSSF archive of most capped players and highest goalscorers]
+
+{{Chile national football team}}
+{{Copa América winners}}
+{{Chile national football team matches}}
+{{Chile national football team managers}}
+{{Navboxes
+|title = Chile FIFA World Cup squads
+|bg=#D72B1F
+|fg=white
+|bordercolor=#0039A6
+|list1=
+{{Chile squad 1930 FIFA World Cup}}
+{{Chile squad 1950 FIFA World Cup}}
+{{Chile squad 1962 FIFA World Cup}}
+{{Chile squad 1966 FIFA World Cup}}
+{{Chile squad 1974 FIFA World Cup}}
+{{Chile squad 1982 FIFA World Cup}}
+{{Chile squad 1998 FIFA World Cup}}
+{{Chile squad 2010 FIFA World Cup}}
+{{Chile squad 2014 FIFA World Cup}}
+}}
+{{Navboxes
+|title = Chile Copa América squads
+|bg=#D72B1F
+|fg=white
+|bordercolor=#0039A6
+|list1=
+{{Chile squad 1916 South American Championship}}
+{{Chile squad 1917 South American Championship}}
+{{Chile squad 1919 South American Championship}}
+{{Chile squad 1920 South American Championship}}
+{{Chile squad 1922 South American Championship}}
+{{Chile squad 1924 South American Championship}}
+{{Chile squad 1926 South American Championship}}
+{{Chile squad 1975 Copa América}}
+{{Chile squad 1979 Copa América}}
+{{Chile squad 1983 Copa América}}
+{{Chile squad 1987 Copa América}}
+{{Chile squad 1989 Copa América}}
+{{Chile squad 1991 Copa América}}
+{{Chile squad 1993 Copa América}}
+{{Chile squad 1995 Copa América}}
+{{Chile squad 1997 Copa América}}
+{{Chile squad 1999 Copa América}}
+{{Chile squad 2001 Copa América}}
+{{Chile squad 2004 Copa América}}
+{{Chile squad 2007 Copa América}}
+{{Chile squad 2011 Copa América}}
+{{Chile squad 2015 Copa América}}
+{{Chile squad Copa América Centenario}}
+{{Chile squad 2019 Copa América}}
+{{Chile squad 2021 Copa América}}
+}}
+{{Navboxes
+|title = Chile Summer Olympics football squads
+|bg=#D72B1F
+|fg=white
+|bordercolor=#0039A6
+|list1=
+{{Chile football squad 1928 Summer Olympics}}
+{{Chile football squad 1952 Summer Olympics}}
+{{Chile football squad 1984 Summer Olympics}}
+{{Chile men's football squad 2000 Summer Olympics}}
+}}
+{{Navboxes
+|title = Finalists
+|list1 =
+{{1930 FIFA World Cup finalists}}
+{{1950 FIFA World Cup finalists}}
+{{1962 FIFA World Cup finalists}}
+{{1966 FIFA World Cup finalists}}
+{{1974 FIFA World Cup finalists}}
+{{1982 FIFA World Cup finalists}}
+{{1998 FIFA World Cup finalists}}
+{{2010 FIFA World Cup finalists}}
+{{2014 FIFA World Cup finalists}}
+}}
+{{Football in Chile}}
+{{CONMEBOL teams}}
+{{National sports teams of Chile}}
+
+{{DEFAULTSORT:Chile National Football Team}}
+[[Category:Chile national football team| ]]
+[[Category:Chile national football teams| ]]
+[[Category:South American national association football teams]]
+[[Category:1910 establishments in Chile]]
+[[Category:National sports teams established in 1910]]
+[[Category:Chile men's national football teams| ]]

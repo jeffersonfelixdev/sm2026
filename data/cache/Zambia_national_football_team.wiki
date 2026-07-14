@@ -1,0 +1,1566 @@
+{{short description|none}}
+{{About|the men's team|the women's team|Zambia women's national football team}}
+{{Use British English|date=October 2025}}
+{{Use dmy dates|date=October 2025}}
+{{Infobox national football team
+| Name              = Zambia
+| Badge             = Flag of Zambia.svg
+| Nickname          = {{lang|bem|Chipolopolo}} (The Copper Bullets)
+| Association       = [[Football Association of Zambia]] (FAZ)
+| Sub-confederation = [[Council of Southern Africa Football Associations|COSAFA]] (Southern Africa)
+| Confederation     = [[Confederation of African Football|CAF]] (Africa)
+| Coach             = [[Moses Sichone]]
+| Captain           = [[Fashion Sakala]]
+| Most caps         = [[Kennedy Mweene]] (122)
+| Top scorer        = [[Godfrey Chitalu]] ([[List of international goals scored by Godfrey Chitalu|79]])
+| Home Stadium      = [[Levy Mwanawasa Stadium]]<br>[[National Heroes Stadium]]
+| FIFA Trigramme    = ZAM
+| FIFA Rank         = {{FIFA World Rankings|ZAM}}
+| FIFA max          = 15
+| FIFA max date     = February – May 1996, August 1996
+| FIFA min          = 102
+| FIFA min date     = February 2011
+| Elo Rank          = {{World Football Elo Ratings|Zambia}}
+| Elo max           = 27
+| Elo max date      = 6 April 1994
+| Elo min           = 106
+| Elo min date      = October 2009
+| pattern_la1=_zam23A
+| pattern_b1=_zam23A
+| pattern_ra1=_zam23A
+| pattern_sh1=_zam23A
+| pattern_so1=
+|leftarm1=FF9900
+|body1=FF9900
+|rightarm1=FF9900
+|shorts1=000000
+|socks1=008A2B
+|pattern_la2=_zam23H
+|pattern_b2=_zam23H
+|pattern_ra2=_zam23H
+|pattern_sh2=_zam23H
+|pattern_so2=
+|leftarm2=008A2B
+|body2=008A2B
+|rightarm2=008A2B
+|shorts2=008A2B
+|socks2=FF9900
+|pattern_la3=_zam23T
+|pattern_b3=_zam23T
+|pattern_ra3=_zam23T
+|pattern_sh3=_zam23T
+|leftarm3=FFFFFF
+|body3=FFFFFF
+|rightarm3=FFFFFF
+|shorts3=FFFFFF
+|socks3=FFFFFF
+| First game   = {{nowrap|{{fb|Southern Rhodesia}} 0–4 {{fb-rt|Northern Rhodesia}} }}<br/> ([[Southern Rhodesia]]; 1946)
+| Largest win  = {{fb|ZAM|1964}} 11–2 {{fb-rt|SWZ|name=Swaziland}} <br/> ([[Lusaka]], [[Zambia]]; 5 February 1978) <br/> {{fb|ZAM|1964}} 9–0 {{fb-rt|KEN}} <br/> ([[Lilongwe]], [[Malawi]]; 13 November 1978) <br/> {{fb|ZAM|1964}} 9–0 {{fb-rt|LES|1987}} <br/> ([[Botswana]]; 8 August 1988)
+| Largest loss = {{fb|COD|1966}} 10–1 {{fb-rt|ZAM|1964}} <br/> ([[Democratic Republic of the Congo|DR Congo]]; 22 November 1969) <br/> {{fb|BEL}} 9–0 {{fb-rt|ZAM|1964}} <br/> ([[Brussels]], [[Belgium]]; 3 June 1994)
+| World cup apps        =
+| World cup first       =
+| World cup best        =
+| Regional name         = [[Africa Cup of Nations]]
+| Regional cup apps     = 19
+| Regional cup first    = [[1974 African Cup of Nations|1974]]
+| Regional cup best     = '''Champions''' ([[2012 Africa Cup of Nations|2012]])
+| 2ndRegional name      = [[COSAFA Cup]]
+| 2ndRegional cup apps  = 19
+| 2ndRegional cup first = [[1997 COSAFA Cup|1997]]
+| 2ndRegional cup best  = '''Champions''' ([[1997 COSAFA Cup|1997]], [[1998 COSAFA Cup|1998]], [[2006 COSAFA Cup|2006]], [[2013 COSAFA Cup|2013]], [[2019 COSAFA Cup|2019]], [[2022 COSAFA Cup|2022]], [[2023 COSAFA Cup|2023]])
+| 3rdRegional name = [[African Nations Championship]]
+| 3rdRegional cup apps = 5
+| 3rdRegional cup first = [[2009 African Nations Championship|2009]]
+| 3rdRegional cup best = Third place ([[2009 African Nations Championship|2009]])
+| medaltemplates        = 
+{{MedalCompetition|[[Africa Cup of Nations]]}}
+{{MedalGold|[[2012 Africa Cup of Nations|2012 Gabon and Equatorial Guinea]]|[[2012 Africa Cup of Nations squads#Zambia|Team]]}}
+{{MedalSilver|[[1974 African Cup of Nations|1974 Egypt]]|[[1974 African Cup of Nations squads#Zambia|Team]]}}
+{{MedalSilver|[[1994 African Cup of Nations|1994 Tunisia]]|[[1994 African Cup of Nations squads#Zambia|Team]]}}
+{{MedalBronze|[[1982 African Cup of Nations|1982 Libya]]|[[1982 African Cup of Nations squads#Zambia|Team]]}}
+{{MedalBronze|[[1990 African Cup of Nations|1990 Algeria]]|[[1990 African Cup of Nations squads#Zambia|Team]]}}
+{{MedalBronze|[[1996 African Cup of Nations|1996 South Africa]]|[[1994 African Cup of Nations squads#Zambia|Team]]}}
+{{MedalCompetition|[[African Nations Championship]]}}
+{{MedalBronze|[[2009 African Nations Championship|2009 Ivory Coast]]|[[2009 African Nations Championship squads#Zambia|Team]]}}
+{{MedalCompetition|[[COSAFA Cup]]}}
+{{MedalGold|[[1997 COSAFA Cup|1997 Southern Africa]]|Team}}
+{{MedalGold|[[1998 COSAFA Cup|1998 Southern Africa]]|Team}}
+{{MedalGold|[[2006 COSAFA Cup|2006 Southern Africa]]|Team}}
+{{MedalGold|[[2013 COSAFA Cup|2013 Zambia]]|[[2013 COSAFA Cup squads#Zambia|Team]]}}
+{{MedalGold|[[2019 COSAFA Cup|2019 South Africa]]|Team}}
+{{MedalGold|[[2022 COSAFA Cup|2022 South Africa]]|Team}}
+{{MedalGold|[[2023 COSAFA Cup|2023 South Africa]]|Team}}
+{{MedalSilver|[[2004 COSAFA Cup|2004 Southern Africa]]|Team}}
+{{MedalSilver|[[2005 COSAFA Cup|2005 Southern Africa]]|Team}}
+{{MedalSilver|[[2007 COSAFA Cup|2007 Southern Africa]]|Team}}
+{{MedalSilver|[[2009 COSAFA Cup|2009 Zimbabwe]]|Team}}
+{{MedalSilver|[[2017 COSAFA Cup|2017 South Africa]]|Team}}
+{{MedalSilver|[[2018 COSAFA Cup|2018 South Africa]]|Team}}
+{{MedalBronze|[[2008 COSAFA Cup|2008 South Africa]]|Team}}
+{{MedalCompetition|[[CECAFA Cup]]}}
+{{MedalGold|[[1984 CECAFA Cup|1984 Uganda]]|Team}}
+{{MedalGold|[[1991 CECAFA Cup|1991 Uganda]]|Team}}
+{{MedalSilver|[[1976 CECAFA Cup|1976 Zanzibar]]|Team}}
+{{MedalSilver|[[1977 CECAFA Cup|1977 Somalia]]|Team}}
+{{MedalSilver|[[1978 CECAFA Cup|1978 Malawi]]|Team}}
+{{MedalSilver|[[1988 CECAFA Cup|1988 Malawi]]|Team}}
+{{MedalSilver|[[2006 CECAFA Cup|2006 Ethiopia]]|Team}}
+{{MedalBronze|[[1973 CECAFA Cup|1973 Uganda]]|Team}}
+{{MedalBronze|[[1974 CECAFA Cup|1974 Tanzania]]|Team}}
+{{MedalBronze|[[1981 CECAFA Cup|1981 Tanzania]]|Team}}
+{{MedalBronze|[[1992 CECAFA Cup|1992 Tanzania]]|Team}}
+{{MedalBronze|[[2013 CECAFA Cup|2013 Kenya]]|Team}}
+}}
+The '''Zambia national football team''' represents [[Zambia]] in men's [[association football]] and is governed by the [[Football Association of Zambia]] (FAZ). During the 1980s, they were known as the '''KK 11''', after founding president Dr. [[Kenneth Kaunda]] ("KK") who ruled Zambia from 1964 to 1991. After the country adopted [[Politics of Zambia#1991: Move to a multiparty state|multiparty politics]], the side was nicknamed ''Chipolopolo'', which means the "Copper Bullets".<ref name="FAZ history">{{cite web | url=http://www.fazfootball.com/content/history-of-zambia-national-team | title=History of Zambian National Team | website=fazfootball.com | publisher=Football Association of Zambia | access-date=29 October 2016 | archive-date=24 March 2019 | archive-url=https://web.archive.org/web/20190324233326/http://www.fazfootball.com/content/history-of-zambia-national-team | url-status=usurped }}</ref> The team won an [[Africa Cup of Nations]] title in [[2012 Africa Cup of Nations|2012]]. The team has also become the most successful team in the [[COSAFA Cup]], surpassing [[Zimbabwe national football team|Zimbabwe]] after winning the [[2023 COSAFA Cup|2023 edition]].
+
+==History==
+===Zambian Air Force Flight 319===
+{{main|1993 Zambia national football team air disaster}}
+
+Tragedy struck the Zambian team when the military plane (REG: AF-319) transporting the team to Senegal for a 1994 FIFA World Cup qualifier crashed late in the evening of April 27, 1993. Three stops were planned for re-fuelling, but at the first stop, in Brazzaville, engine problems were noted on the [[de Havilland Canada DHC-5 Buffalo|Buffalo DHC-5D]] of the [[Zambia Air Force]]. Despite this, the flight continued, and a few minutes after take-off from Libreville, Gabon, where the second stopover had taken place, one of the engines caught fire and stopped. The pilot, who had already made a flight from Mauritius the day before, accidentally shut down the other engine, which was still running. The loss of power, during the climb after take-off, caused the plane to fall and crash into the water 500m off the coast. All 30 passengers and crew, including 18 players, were killed in the accident.<ref>{{cite magazine |url=http://fourfourtwo.com/blogs/africacupofnations2012/archive/2012/02/12/zambia-s-remarkable-journey-makes-them-winners-regardless.aspx |title=Zambia's remarkable journey makes them winners regardless |magazine=FourFourTwo |date=12 February 2012 |access-date=2 December 2013 |archive-date=28 June 2012 |archive-url=https://web.archive.org/web/20120628045205/http://fourfourtwo.com/blogs/africacupofnations2012/archive/2012/02/12/zambia-s-remarkable-journey-makes-them-winners-regardless.aspx |url-status=live }}</ref>
+
+===1994–2012===
+On June 3, 1994, in Brussels, the Zambian football team succumbed to one of the worst losses in its history against Belgium, losing 9–0. At [[1996 African Cup of Nations|CAN 1996]], they finished first in the group with two victories (5–1 against [[Burkina Faso national football team|Burkina Faso]], goals from [[Kenneth Malitoli]], double from [[Kalusha Bwalya]], goals from [[Dennis Lota]] and [[Johnson Bwalya]]); 4–0 against [[Sierra Leone national football team|Sierra Leone]] (a hattrick from [[Kalusha Bwalya]] and goal from [[Mordon Malitoli]]) and a draw (0–0 against [[Algeria national football team|Algeria]]), beat [[Egypt national football team|Egypt]] (3–1) in the quarterfinals and loses in semis against [[Tunisia national football team|Tunisia]] (2–4) but took third place over [[Ghana national football team|Ghana]] (1–0, goal from [[Johnson Bwalya]]). [[Kalusha Bwalya]] was the best in the competition with 5 goals. From 1998 to 2006, Zambia did not pass the first round, except in 2004 when they failed to qualify. On September 3, 2006, at home, Zambia achieved the biggest victory in its history against [[Djibouti national football team|Djibouti]], winning 10–0. During the [[2008 Africa Cup of Nations]], Zambia finished third in the group with a 3–0 victory against [[Sudan national football team|Sudan]] (goals by [[James Chamanga]], [[Jacob Mulenga]] and [[Felix Katongo]]), a draw (1–1 against [[Egypt national football team|Egypt]], goal from [[Chris Katongo]]) and loss (1–5 against [[Cameroon national football team|Cameroon]], goal from [[Chris Katongo]]). In 2010, Zambia finished first in its group and faced [[Nigeria national football team|Nigeria]] in the quarter-finals where they lost on penalties. [[Jacob Mulenga]] and [[Emmanuel Mbola]] were included in the tournament's Best XI.
+In 2012, the best [[2012 Africa Cup of Nations|AFCON]] in Zambia history happened. During the tournament's group stage, they defeated [[Senegal national football team|Senegal]](2–1), drew with [[Libya national football team|Libya]] (2-2), and defeated [[Equatorial Guinea national football team|Equatorial Guinea]] (1–0), and qualified top of their group. During the knockout stage, Zambia defeated [[Sudan national football team|Sudan]] (3–0) in the [[Single-elimination tournament|Quarterfinals]], beat [[Ghana national football team|Ghana]] in the semifinals (1–0) and went up against [[Ivory Coast national football team|Ivory Coast]] in the [[2012 Africa Cup of Nations Final|final]], where they won their first title, after defeating them in a dramatic [[Penalty shootout]] after a 0–0 draw after [[Overtime (association football)|extra time]].<ref>{{cite web |title=CAF releases Top XI of Orange CAN |url=http://www.cafonline.com/competition/african-cup-of-nations-angola_2010/news/4614-caf-releases-top-11-of-orange-can.html |website=CAF Online |access-date=18 October 2021 |archive-date=4 February 2010 |archive-url=https://web.archive.org/web/20100204125848/http://www.cafonline.com/competition/african-cup-of-nations-angola_2010/news/4614-caf-releases-top-11-of-orange-can.html |url-status=live }}</ref>
+
+==Kit provider==
+
+[[File:Match Zambie Vs Tanzanie, CAN 2023 15.jpg|thumb|200px|The national football team of Zambia faced Tanzania in the 2023 Africa Cup of Nations]]
+{| class="wikitable"
+|-
+!Kit provider
+!Period
+|-
+|{{flagicon|GER}} [[Adidas]]
+|1993–1996
+|-
+|{{flagicon|GER}} [[Puma (brand)|Puma]]
+|1997–2000
+|-
+|{{flagicon|ITA}} [[Diadora]]
+|2001–2002
+|-
+|{{flagicon|ENG}} [[Umbro]]
+|2003
+|-
+|{{flagicon|USA}} [[Nike, Inc.|Nike]]
+|2004–2015
+|-
+|{{flagicon|ITA}} [[Kappa (brand)|Kappa]]
+|2016
+|-
+|{{flagicon|SIN}} [[Mafro]]
+|2017
+|-
+|{{flagicon|ZAM}} [[KoPa]]
+|2018–2025
+|-
+|{{Flag|GER|name=.}}[[Adidas]]
+|2026-
+|}
+
+==Results and fixtures==
+The following is a list of match results in the last 12 months, as well as any future matches that have been scheduled.
+
+{{legend2|#CCFFCC|Win|border=1px solid #AAAAAA}}
+{{legend2|#FFFFCC|Draw|border=1px solid #AAAAAA}}
+{{legend2|#FFCCCC|Loss|border=1px solid #AAAAAA}}
+{{legend2|#FFFFFF|Fixture|border=1px solid #AAAAAA}}
+
+=== 2025 ===
+{{Football box collapsible
+|round      = [[2025 COSAFA Cup#Group D|2025 COSAFA Cup]]
+|date       = 6 June
+|time       = {{UTZ|18:00|+2}}
+|team1      = {{fb-rt|ZAM}}
+|score      = 0–1
+|team2      = {{fb|COM}}
+|report     = https://int.soccerway.com/matches/2025/06/06/africa/cosafa-cup/zambia/comoros/4656961/
+|goals1     =
+|goals2     = [[Ibrahim Madi|Madi]] {{goal|31}}
+|location   = [[Bloemfontein]], South Africa
+|stadium    = [[Free State Stadium]]
+|attendance = 
+|referee    = Brighton Chimene ([[Zimbabwe Football Association|Zimbabwe]])
+|result     = L
+}}
+{{Football box collapsible
+|round      = [[2025 COSAFA Cup#Group D|2025 COSAFA Cup]]
+|date       = 11 June
+|time       = {{UTZ|15:00|+2}}
+|team1      = {{fb-rt|BOT}}
+|score      = 3–3
+|team2      = {{fb|ZAM}}
+|report     = https://int.soccerway.com/matches/2025/06/11/africa/cosafa-cup/botswana/zambia/4656963/
+|goals1     = 
+*[[Thatayaone Kgamanyane|Kgamanyane]] {{goal|2}}
+*[[Serati Semadi|Semadi]] {{goal|32|pen.}}
+*[[Thabo Maponda|Maponda]] {{goal|60}}
+|goals2     = 
+*[[Charles Zulu|Zulu]] {{goal|45+3|pen.}}
+*[[Tinklar Sinkala|Sinkala]] {{goal|52}}
+*[[Joseph Phiri|Jo. Phiri]] {{goal|90|pen.}}
+|location   = [[Bloemfontein]], South Africa
+|stadium    = [[Dr. Petrus Molemela Stadium]]
+|attendance = 
+|referee    = [[Akhona Makalima]] ([[South African Football Association|South Africa]])
+|result     = D
+}}
+{{Football box collapsible
+| round      = [[2026 FIFA World Cup qualification – CAF Group E#ZAM v MAR|2026 FIFA World Cup qualification]]
+| date       = 8 September
+| time       = {{UTZ|15:00|2}}
+| team1      = {{fb-rt|ZAM}}
+| score      = 0–2
+| report     = https://ng.soccerway.com/match/morocco-IDKYO3R8/zambia-zBS458hb/?mid=hOMxrfhS
+| team2      = {{fb|MAR}}
+| goals1     = 
+| goals2     = 
+*[[Youssef En-Nesyri|En-Nesyri]] {{goal|7}}
+*[[Hamza Igamane|Igamane]] {{goal|47}}
+| stadium    = [[Levy Mwanawasa Stadium]]
+| location   = [[Ndola]], [[Zambia]]
+| attendance = 49,800
+| referee    = Louis Houngnandande ([[Benin Football Federation|Benin]])
+| result     = L
+}}
+{{Football box collapsible
+| round      = [[2026 FIFA World Cup qualification – CAF Group E#TAN v ZAM|2026 FIFA World Cup qualification]]
+| date       = 8 October
+| time       = {{UTZ|21:00|3}}
+| team1      = {{fb-rt|TAN}}
+| score      = 0–1
+| report     = https://www.soccerway.com/match/tanzania-KzAbFwJ7/zambia-zBS458hb/
+| team2      = {{fb|ZAM}}
+| goals1     = 
+| goals2     = 
+*[[Fashion Sakala|Sakala]] {{goal|75}}
+| stadium    = [[Benjamin Mkapa Stadium]]
+| location   = [[Miburani]], [[Tanzania]]
+| attendance = 
+| referee    = Kalilou Traore ([[Ivorian Football Federation|Ivory Coast]])
+| result     = W
+}}
+{{Football box collapsible
+| round      = [[2026 FIFA World Cup qualification – CAF Group E#ZAM v NIG|2026 FIFA World Cup qualification]]
+| date       = 12 October
+| time       = {{UTZ|15:00|2}}
+| team1      = {{fb-rt|ZAM}}
+| score      = 0–1
+| report     = 
+| team2      = {{fb|NIG}}
+| goals1     = 
+| goals2     = 
+*[[Daniel Sosah|Sosah]] {{goal|56}} 
+| stadium    = [[National Heroes Stadium]]
+| location   = [[Lusaka]], [[Zambia]]
+| attendance = 49,800
+| referee    = 
+| result     = L
+}}
+{{Footballbox collapsible 
+| date       = 15 November 
+| time       = {{UTZ|15:00|2}} 
+| round      = [[Exhibition game#Association football|Friendly]]
+| score      = 3–1
+| report     = https://www.fifa.com/en/match-centre/match/cesdwwnxbc5fmajgroc0hqzy2/8pw8cm9fuczk7lmxm1oxjdyc4/1rj1740ys47h5s938mfswsh78/dh587mqyvg2kwyax7bzzlh5as
+| team1      = {{fb-rt|RSA}} 
+| team2      = {{fb|ZAM}} 
+| goals1     = 
+*[[Oswin Appollis|Appollis]] {{goal|43}}
+*[[Mohau Nkota|Nkota]] {{goal|62}}
+*[[Sphephelo Sithole|Sithole]] {{goal|68}}
+| goals2     = 
+*[[Joseph Sabobo Banda|Sabobo]] {{goal|90+2}}
+| stadium    = [[Nelson Mandela Bay Stadium]]
+| location   = [[Gqeberha]], South Africa
+| attendance = 
+| referee    = [[Naftal Negongo]] ([[Namibia Football Association|Namibia]])
+| result     = L
+}} 
+{{Footballbox collapsible 
+|date       = 18 November 
+|time       = {{UTZ|17:00|1}} 
+|round      = [[Exhibition game#Association football|Friendly]]
+|team1      = {{fb-rt|ANG}} 
+|score      = 3–2
+|report     = https://www.bbc.com/sport/football/live/cn40kxdx080t
+|team2      = {{fb|ZAM}} 
+|goals1     = 
+*[[Felício Milson|Milson]] {{goal|5}}
+*[[Zito Luvumbo|Luvumbo]] {{goal|41}}
+*[[Mabululu]] {{goal|58}}
+|goals2     = 
+*[[Jack Lahne|Lahne]] {{goal|21}}
+*[[Fashion Sakala|F. Sakala]] {{goal|48}}
+|stadium    = [[Estádio 11 de Novembro]]
+|location   = [[Luanda]], Angola
+|attendance = 5000
+|referee    = [[Luxolo Badi]] ([[South African Football Association|South Africa]])
+|result     = L
+}}
+{{Football box collapsible
+|round      = [[Exhibition game#Association football|Friendly]]
+|date       = 16 December
+|time       = {{UTZ|16:00|1}}
+|team1      = {{fb-rt|ZAM}}
+|score      = 0–2
+|team2      = {{fb|COD}}
+|report     = https://www.espn.com/soccer/match/_/gameId/762772/congo-dr-zambia
+|goals1     =
+|goals2     = *[[Arthur Masuaku|Masuaku]] {{goal|21}}
+*[[Rocky Bushiri|Bushiri]] {{goal|72}}
+|location   = [[Murcia]], Spain
+|stadium    = [[Pinatar Arena]]
+|attendance = 
+|referee    = [[Javier Alberola Rojas]] ([[Royal Spanish Football Federation|Spain]])
+|result     = L
+}}
+{{Football box collapsible
+|round = [[2025 Africa Cup of Nations Group A|2025 AFCON Group A]]
+|date = 22 December
+|time = {{UTZ|15:00|1}}
+|team1 = {{fb-rt|MLI}}
+|score = 1–1
+|report= https://www.cafonline.com/afcon2025/match-centre?competition=190&season=2025&match=2506775
+|team2= {{fb|ZAM}}
+|goals1= [[Lassine Sinayoko|Sinayoko]] {{goal|61}}
+|goals2 = [[Patson Daka|Daka]] {{goal|90+2}}
+|stadium = [[Mohammed V Stadium]]
+|location = [[Casablanca]], Morocco
+|attendance = 
+|referee = [[Omar Artan]] ([[Somali Football Federation|Somalia]])
+|result = D
+}}
+{{Footballbox collapsible
+|date= 26 December
+|time= {{UTZ|18:30|1}}
+|round= [[2025 Africa Cup of Nations Group A|2025 AFCON Group A]]
+|score= 0–0
+|report= https://www.cafonline.com/afcon2025/match-centre?competition=190&season=2025&match=2506787
+|team1= {{fb-rt|ZAM}} 
+|goals1=
+|team2= {{fb|COM}}
+|goals2=
+|stadium= [[Mohammed V Stadium]]
+|location= [[Casablanca]], Morocco
+|attendance= 
+|referee= [[Ahmad Heeralall]] ([[Mauritius Football Association|Mauritius]])
+|result= D
+}}
+{{Football box collapsible
+|date       = 29 December
+|time       = {{UTZ|20:00|1}}
+|round      = [[2025 Africa Cup of Nations Group A|2025 AFCON Group A]]
+|score      = 0–3
+|report     = https://www.cafonline.com/afcon2025/match-centre?competition=190&season=2025&match=2506798
+|team1      = {{fb-rt|ZAM}}
+|goals1     = [[Kings Kangwa|Kangwa]] {{sentoff|0|90+5}}
+|team2      = {{fb|MAR}} 
+|goals2     = *[[Ayoub El Kaabi|El Kaabi]] {{goal|9||50}}
+*[[Brahim Díaz|Díaz]] {{goal|27}}
+|stadium    = [[Prince Moulay Abdellah Stadium]]
+|location   = [[Rabat]], Morocco
+|attendance = 
+|referee    = [[Issa Sy]] ([[Senegalese Football Federation|Senegal]])
+|result     = L
+}}
+
+=== 2026 ===
+{{Football box collapsible
+|round      = [[Exhibition game#Association football|Friendly]]
+|date       = 28 March
+|time       = {{UTZ|15:00|2}}
+|team1      = {{fb-rt|ZAM}}
+|score      = 0–0
+|team2      = {{fb|MWI}}
+|report     = 
+|goals1     =
+|goals2     =
+|penalties1   =
+*[[TBA]] {{pengoal}}
+*[[TBA]] {{pengoal}}
+*[[TBA]] {{pengoal}}
+*[[TBA]] {{pengoal}}
+*[[TBA]] {{pengoal}}
+*[[TBA]] {{pengoal}}
+*[[TBA]] {{pengoal}}
+*[[TBA]] {{penmiss}}
+*[[TBA]] {{pengoal}}
+*[[TBA]] {{pengoal}}
+|penaltyscore = 9–8
+|penalties2   =
+*[[TBA]] {{pengoal}}
+*[[TBA]] {{pengoal}}
+*[[TBA]] {{pengoal}}
+*[[TBA]] {{pengoal}}
+*[[TBA]] {{pengoal}}
+*[[TBA]] {{pengoal}}
+*[[TBA]] {{pengoal}}
+*[[TBA]] {{penmiss}}
+*[[TBA]] {{pengoal}}
+*[[TBA]] {{penmiss}}
+|location   = [[Francistown]], Botswana 
+|stadium    = [[Obed Itani Chilume Stadium]]
+|attendance = 
+|referee    = Keabetswe Dintwa ([[Botswana Football Association|Botswana]])
+|result     = D
+}}
+{{Football box collapsible
+|round      = [[Exhibition game#Association football|Friendly]]
+|date       = 31 March
+|time       = 20:30 [[Time in Argentina|ARG]] ([[UTC-03:00|UTC–3]])
+|team1      = {{fb-rt|ARG}}
+|score      = 5–0
+|team2      = {{fb|ZAM}}
+|report     = https://www.soccerway.com/match/argentina-f9OppQjp/zambia-zBS458hb/?mid=ET8reDfR
+|goals1     =
+*[[Julián Alvarez|Alvarez]] {{goal|1}}
+*[[Lionel Messi|Messi]] {{goal|43}}
+*[[Nicolás Otamendi|Otamendi]]{{goal|50|pen.}}
+*[[Dominic Chanda|Chanda]] {{goal|68|own goal}}
+*[[Valentin Barco|Barco]] {{goal|90+4}}
+|goals2     =
+|location   = [[Buenos Aires]], Argentina 
+|stadium    = [[La Bombonera]]
+|attendance = 
+|referee    = Alexis Herrera ([[Venezuelan Football Federation|Venezuela]])
+|result     = L
+}}
+{{Football box collapsible
+|date       = 31 March
+|time       = {{UTZ|17:00|2}}
+|round      = [[Exhibition game#Association football|Friendly]]
+|score      = 0–1
+|report     = https://www.espn.com/soccer/match/_/gameId/401867105/zambia-zimbabwe
+|team1      = {{fb-rt|ZAM}}
+|goals1     = 
+|team2      = {{fb|ZIM}}
+|goals2     = 
+*[[Saisada Kafunti|Kafunti]] {{goal|88|o.g.}}
+|stadium    = [[Obed Itani Chilume Stadium]]
+|location   = [[Francistown]], Botswana
+|attendance = 
+|referee    = Moemedi Thabologang([[Botswana Football Association|Botswana]])
+|result     = L
+}}
+{{footballbox collapsible
+|format = 1
+|round = [[2027 Africa Cup of Nations qualification|2027 AFCON qualification]]
+|date = TBD
+|time = TBD
+|team1 = {{fb-rt|ALG}}
+|score =
+|team2 = {{fb|ZAM}}
+|report =
+|goals1 =
+|goals2 =
+|location = TBD, Algeria
+|stadium = TBD
+|attendance =
+|referee =
+|result =
+}}
+{{footballbox collapsible
+|format = 1
+|round = [[2027 Africa Cup of Nations qualification|2027 AFCON qualification]]
+|date = TBD
+|time = TBD
+|team1 = {{fb-rt|ZAM}}
+|score =
+|team2 = {{fb|ALG}}
+|report =
+|goals1 =
+|goals2 =
+|location = TBD, Zambia
+|stadium = TBD
+|attendance =
+|referee =
+|result =
+}}
+{{footballbox collapsible
+|format = 1
+|round = [[2027 Africa Cup of Nations qualification|2027 AFCON qualification]]
+|date = TBD
+|time = TBD
+|team1 = {{fb-rt|ZAM}}
+|score =
+|team2 = {{fb|TOG}}
+|report =
+|goals1 =
+|goals2 =
+|location = TBD, Zambia
+|stadium = TBD
+|attendance =
+|referee =
+|result =
+}}
+{{footballbox collapsible
+|format = 1
+|round = [[2027 Africa Cup of Nations qualification|2027 AFCON qualification]]
+|date = TBD
+|time = TBD
+|team1 = {{fb-rt|TOG}}
+|score =
+|team2 = {{fb|ZAM}}
+|report =
+|goals1 =
+|goals2 =
+|location = TBD, Togo
+|stadium = TBD
+|attendance =
+|referee =
+|result =
+}}
+{{footballbox collapsible
+|format = 1
+|round = [[2027 Africa Cup of Nations qualification|2027 AFCON qualification]]
+|date = TBD
+|time = TBD
+|team1 = {{fb-rt|ZAM}}
+|score =
+|team2 = {{fb|BDI}}
+|report =
+|goals1 =
+|goals2 =
+|location = TBD, Zambia
+|stadium = TBD
+|attendance =
+|referee =
+|result =
+}}
+{{footballbox collapsible
+|format = 1
+|round = [[2027 Africa Cup of Nations qualification|2027 AFCON qualification]]
+|date = TBD
+|time = TBD
+|team1 = {{fb-rt|BDI}}
+|score =
+|team2 = {{fb|ZAM}}
+|report =
+|goals1 =
+|goals2 =
+|location = TBD, Burundi
+|stadium = TBD
+|attendance =
+|referee =
+|result =
+}}
+
+==Managers==
+
+[[File:Aljosa Asanovic.png|thumb|200px|[[Aljoša Asanović]] coached the national football team of Zambia]]
+[[File:Avram Grant 2012.jpg|thumb|200px|[[Avram Grant]] became the manager of the national football team of Zambia in 2022]]
+
+:Caretaker managers are listed in ''italics''.
+{{div col|colwidth=25em}}
+*{{flagicon|ZAM|1964}} [[Ted Virba]] (1978)
+*{{flagicon|ENG}} [[Brian Tiler]] (1978–80)
+*{{flagicon|ROM|1965}} [[Ted Dumitru]] (1980–81)
+*{{flagicon|YUG}} [[Ante Bušelić]] (1981–82)
+*{{flagicon|ENG}} [[Bill McGarry]] (1982–83)
+*{{flagicon|POL}} [[Wieslaw Grabowski]] (1983–84)
+*{{flagicon|ENG}} [[Jeff Butler (football manager)|Jeff Butler]] (1984)
+*{{flagicon|ZAM|1964}} [[Roy Mulenga]] (1984)
+*{{flagicon|ZAM|1964}} [[Brightwell Banda]] (1984–86)
+*{{flagicon|ZAM|1964}} [[Samuel Ndhlovu]] (1987–92)
+*{{flagicon|ZAM|1964}} [[Moses Simwala]] (1993)
+*{{flagicon|ZAM|1964}} [[Godfrey Chitalu]] (1993)
+*{{flagicon|DEN}} [[Roald Poulsen]] (1993–94)
+*{{flagicon|SCO}} [[Ian Porterfield]] (1994)
+*{{flagicon|DEN|1964}} [[Roald Poulsen]] (1994–96)
+*{{flagicon|ZAM}} [[Freddie Mwila]] (1996–97)
+*{{flagicon|ZAM}} ''[[George Mungwa]]'' (1997)
+*{{flagicon|GER}} [[Burkhard Ziese]] (1997–98)
+*{{Flagicon|ZAM}} ''[[George Mungwa]]'' (1998)
+*{{flagicon|ZAM}} ''[[Obby Kapita]]'' (1998)
+*{{flagicon|ZAM}} [[Fighton Simukonda]] (1998)
+*{{flagicon|ZAM}} [[Ben Bamfuchile]] (1999–2000)
+*{{flagicon|ZAM}} ''[[George Mungwa]]'' (2000)
+*{{flagicon|NED}} [[Jan Brouwer]] (2000–01)
+*{{flagicon|DEN}} [[Roald Poulsen]] (2002)
+*{{flagicon|ZAM}} [[Patrick Phiri]] (2002–03)
+*{{flagicon|ZAM}} [[Kalusha Bwalya]] (2003–06)
+*{{flagicon|ZAM}} [[Patrick Phiri]] (2006–08)
+*{{flagicon|FRA|1974}} [[Hervé Renard]] (2008–10)
+*{{flagicon|ZAM}} [[Wedson Nyirenda]] & {{flagicon|ZAM}} [[Honour Janza]] (2010)
+*{{flagicon|ZAM}} [[George Lwandamina]] (2010)
+*{{flagicon|ITA}} [[Dario Bonetti]] (2010–11)
+*{{flagicon|FRA|1974}} [[Hervé Renard]] (2011–13)
+*{{flagicon|FRA|1974}} [[Patrice Beaumelle]] (2013–14)
+*{{flagicon|ZAM}} [[Honour Janza]] (2014–15)
+*{{flagicon|ZAM}} [[George Lwandamina]] (2015–16)
+*{{flagicon|ZAM}} [[Wedson Nyirenda]] (2016–18)
+*{{flagicon|ZAM}} [[Beston Chambeshi]] (2018)
+*{{flagicon|BEL}} [[Sven Vandenbroeck]] (2018–19)
+*{{flagicon|ZAM}} [[Aggrey Chiyangi]] (2019–20)
+*{{flagicon|SRB}} [[Milutin Sredojević]]  (2020–21)
+*{{flagicon|ZAM}} [[Beston Chambeshi]]  (2021–22)
+*{{flagicon|CRO}} [[Aljoša Asanović]] (2022)
+*{{flagicon|ZAM}} ''[[Moses Sichone]]'' (2022)
+*{{flagicon|ISR}} [[Avram Grant]] (2022–2025)
+*{{flagicon|ZAM}}''[[Moses Sichone]]'' (2025-present){{div col end}}
+
+==Players==
+===Current squad===
+The following players were called up for the [[Exhibition game#International football|friendly match]] against [[Argentina national football team|Argentina]] on 31 March 2026.<ref>{{cite web|url=https://web.facebook.com/FootballAssociationZambia/posts/pfbid02gog4mGRKntXAhogQGQ1nTQoDvS869ryqSTuQwDkoRuXaWkBLhxKyCNNsGB9DKxPVl|title=FIFA WINDOW: Lwandamina Names 23 Bullets for the International Friendly against Argentina|publisher=[[Football Association of Zambia]]|access-date=23 March 2026|date=22 March 2026|via=Facebook}}</ref>
+
+''Caps and goals as of 29 December 2025, after the game against [[Morocco national football team|Morocco]].''
+
+{{nat fs g start}}
+{{nat fs g player|no=|pos=GK|name=[[Willard Mwanza]]|age={{Birth date and age|df=y|1997|6|3}}|caps=4|goals=0|club=[[Power Dynamos F.C.|Power Dynamos]]|clubnat=ZAM}}
+{{nat fs g player|no=|pos=GK|name=[[Victor Chabu]]|age={{Birth date and age|df=y|1994|2|22}}|caps=1|goals=0|club=[[Nchanga Rangers F.C.|Nchanga Rangers]]|clubnat=ZAM}}
+{{nat fs g player|no=|pos=GK|name=[[Mangani Banda]]|age={{Birth date and age|df=y|1997|7|13}}|caps=0|goals=0|club=[[Kabwe Warriors F.C.|Kabwe Warriors]]|clubnat=ZAM}}
+{{nat fs break}}
+{{nat fs g player|no=|pos=DF|name=[[Dominic Chanda]]|age={{Birth date and age|df=y|1996|2|26}}|caps=28|goals=1|club=[[Power Dynamos F.C.|Power Dynamos]]|clubnat=ZAM}}
+{{nat fs g player|no=|pos=DF|name=[[Kondwani Chiboni]]|age={{Birth date and age|df=y|1996|9|14}}|caps=3|goals=0|club=[[Power Dynamos F.C.|Power Dynamos]]|clubnat=ZAM}}
+{{nat fs g player|no=|pos=DF|name=[[Tinklar Sinkala]]|age={{birth date and age|df=y|2001|2|15}}|caps=2|goals=1|club=[[Zanaco F.C.|Zanaco]]|clubnat=ZAM}}
+{{nat fs g player|no=|pos=DF|name=[[Brian Chilimina]]|age={{Birth date and age|df=y|1997|6|27}}|caps=1|goals=0|club=[[Red Arrows F.C.|Red Arrows]]|clubnat=ZAM}}
+{{nat fs g player|no=|pos=DF|name=[[Fredrick Mwimanzi]]|age=|caps=1|goals=0|club=[[Zanaco F.C.|Zanaco]]|clubnat=ZAM}}
+{{nat fs g player|no=|pos=DF|name=[[Owen Mwamba]]|age={{birth date and age|df=y|1998|7|24}}|caps=0|goals=0|club=[[Mufulira Wanderers F.C.|Mufulira Wanderers]]|clubnat=ZAM}}
+{{nat fs break}}
+{{nat fs g player|no=|pos=MF|name=[[Miguel Chaiwa]]|age={{birth date and age|df=y|2004|6|7}}|caps=16|goals=0|club=[[Hibernian F.C.|Hibernian]]|clubnat=SCO}}
+{{nat fs g player|no=|pos=MF|name=[[Fredrick Mulambia]]|age={{birth date and age|2002|7|10|df=yes}}|caps=15|goals=2|club=[[Power Dynamos F.C.|Power Dynamos]]|clubnat=ZAM}}
+{{nat fs g player|no=|pos=MF|name=[[Obino Chisala]]|age={{birth date and age|df=y|1999|9|14}}|caps=11|goals=0|club=[[Al Merrikh SC|Al Merrikh]]|clubnat=SUD}}
+{{nat fs g player|no=|pos=MF|name=[[Owen Tembo]]|age={{birth date and age|1995|05|16|df=yes}}|caps=7|goals=0|club=[[Power Dynamos F.C.|Power Dynamos]]|clubnat=ZAM}}
+{{nat fs g player|no=|pos=MF|name=[[Wilson Chisala]]|age={{birth date and age|2002|5|25|df=yes}}|caps=6|goals=0|club=[[Zanaco F.C.|Zanaco]]|clubnat=ZAM}}
+{{nat fs g player|no=|pos=MF|name=[[Kelvin Mwanza]]|age={{birth date and age|1983|7|9|df=yes}}|caps=6|goals=0|club=[[Maestro United Zambia F.C.|MUZA]]|clubnat=ZAM}}
+{{nat fs g player|no=|pos=MF|name=[[David Simukonda]]|age={{birth date and age|2005|8|10|df=yes}}|caps=4|goals=0|club=[[Ceramica Cleopatra FC|Ceramica Cleopatra]]|clubnat=EGY}}
+{{nat fs g player|no=|pos=MF|name=[[Given Kalusa]]|age={{birth date and age|df=y|2003|11|28}}|caps=1|goals=0|club=[[Maestro United Zambia F.C.|MUZA]]|clubnat=ZAM}}
+{{nat fs break}}
+{{nat fs g player|no=|pos=FW|name=[[Fashion Sakala]]|other=[[Captain (association football)|captain]]|age={{birth date and age|1997|3|14|df=yes}}|caps=38|goals=11|club=[[Al-Fayha FC|Al-Fayha]]|clubnat=KSA}}
+{{nat fs g player|no=|pos=FW|name=[[Patson Daka]]|age={{Birth date and age|df=y|1998|10|9}}|caps=46|goals=21|club=[[Free agent|''Unattached'']]|clubnat=}}
+{{nat fs g player|no=|pos=FW|name=[[Albert Kangwanda]]|age={{Birth date and age|df=y|1999|4|7}}|caps=15|goals=5|club=[[Red Arrows F.C.|Red Arrows]]|clubnat=ZAM}}
+{{nat fs g player|no=|pos=FW|name=[[Kingstone Mutandwa]]|age={{birth date and age|2003|01|05|df=yes}}|caps=2|goals=0|club=[[SV Ried|Ried]]|clubnat=AUT}}
+{{nat fs g player|no=|pos=FW|name=[[Pascal Phiri]]|age={{birth date and age|2005|7|17|df=yes}}|caps=1|goals=0|club=[[Pyramids FC|Pyramids]]|clubnat=EGY}}
+{{nat fs g player|no=|pos=FW|name=[[Chanka Zimba]]|age={{birth date and age|2001|12|29|df=yes}}|caps=0|goals=0|club=[[Inverness Caledonian Thistle F.C.|Inverness Caledonian Thistle]]|clubnat=SCO}}
+{{nat fs end}}
+
+===Recent call-ups===
+The following players had been called up in 12 months preceding the above draft.
+{{nat fs r start}}
+{{nat fs r player|no=16|pos=GK|name=[[Lawrence Mulenga]]|age={{Birth date and age|df=y|1998|8|21}}|caps=18|goals=0|club=[[Power Dynamos F.C.|Power Dynamos]]|clubnat=ZAM|latest=[[2025 Africa Cup of Nations]]}}
+{{nat fs r player|no=18|pos=GK|name=Francis Mwansa|age={{Birth date and age|df=y|2002|7|14}}|caps=7|goals=0|club=[[Zanaco F.C.|Zanaco]]|clubnat=ZAM|latest=[[2025 Africa Cup of Nations]]}}
+{{nat fs r player|no=22|pos=GK|name=[[Toaster Nsabata]]|age={{Birth date and age|df=y|1993|11|24}}|caps=43|goals=0|club=[[Sekhukhune United F.C.|Sekhukhune United]]|clubnat=RSA|latest=v. {{fb|ANG}}, 18 November 2025}}
+{{nat fs r player|no=|pos=GK|name=Charles Kalumba|age={{Birth date and age|df=y|1996|1|21}}|caps=7|goals=0|club=[[Red Arrows F.C.|Red Arrows]]|clubnat=ZAM|latest=v. {{fb|ANG}}, 18 November 2025}}
+{{nat fs r player|no=|pos=GK|name=[[Cyril Chibwe]]|age={{birth date and age|1993|06|17|df=yes}}|caps=12|goals=0|club=[[ZESCO United F.C.|ZESCO United]]|clubnat=ZAM|latest=v. {{fb|MAR}}, 8 September 2025}}
+{{nat fs break}}
+{{nat fs r player|no=2|pos=DF|name=Mathews Banda|age={{birth date and age|2005|8|6|df=y}}|caps=7|goals=0|club=[[Bohemians 1905]]|clubnat=CZE|latest=[[2025 Africa Cup of Nations]]}}
+{{nat fs r player|no=4|pos=DF|name=[[Frankie Musonda]]|age={{birth date and age|1997|12|12|df=y}}|caps=20|goals=1|club=[[Bahrain SC]]|clubnat=BHR|latest=[[2025 Africa Cup of Nations]]}}
+{{nat fs r player|no=8|pos=DF|name=[[Lubambo Musonda]]|other=[[Captain (association football)|vice-captain]]|age={{Birth date and age|df=y|1995|3|1}}|caps=59|goals=2|club=[[1. FC Magdeburg]]|clubnat=GER|latest=[[2025 Africa Cup of Nations]]}}
+{{nat fs r player|no=13|pos=DF|name=[[Stoppila Sunzu]]|age={{birth date and age|1989|06|22|df=yes}}|caps=89|goals=5|club=[[Changchun Yatai F.C.|Changchun Yatai]]|clubnat=CHN|latest=[[2025 Africa Cup of Nations]]}}
+{{nat fs r player|no=14|pos=DF|name=[[Kabaso Chongo]]|age={{birth date and age|df=y|1992|2|11}}|caps=44|goals=1|club=[[ZESCO United F.C.|ZESCO United]]|clubnat=ZAM|latest=[[2025 Africa Cup of Nations]]}}
+{{nat fs r player|no=22|pos=DF|name=[[David Hamansenya]]|age={{birth date and age|2007|06|24|df=yes}}|caps=4|goals=0|club=[[CD Leganés|Leganés]]|clubnat=ESP|latest=[[2025 Africa Cup of Nations]]}}
+{{nat fs r player|no=24|pos=DF|name=[[Gift Mphande]]|age={{birth date and age|df=y|2003|11|19}}|caps=13|goals=0|club=[[ZESCO United F.C.|ZESCO United]]|clubnat=ZAM|latest=[[2025 Africa Cup of Nations]]}}
+{{nat fs r player|no=2|pos=DF|name=Killian Kanguluma|age={{birth date and age|1999|12|16|df=y}}|caps=7|goals=1|club=[[Kabwe Warriors F.C.|Kabwe Warriors]]|clubnat=ZAM|latest=v. {{fb|ANG}}, 18 November 2025}}
+{{nat fs r player|no=19|pos=DF|name=Chanda Chileshe|age={{birth date and age|df=y|2004|11|28}}|caps=0|goals=0|club=[[Maestro United Zambia F.C.|MUZA]]|clubnat=ZAM|latest=v. {{fb|ANG}}, 18 November 2025}}
+{{nat fs r player|no=|pos=DF|name=[[Benedict Chepeshi]]|age={{Birth date and age|df=y|1996|6|10}}|caps=51|goals=0|club=[[ZESCO United F.C.|ZESCO United]]|clubnat=ZAM|latest=v. {{fb|MAR}}, 8 September 2025}}
+{{nat fs break}}
+{{nat fs r player|no=17|pos=MF|name=[[Kings Kangwa]]|age={{Birth date and age|df=y|1999|4|6}}|caps=43|goals=7|club=[[Hapoel Be'er Sheva]]|clubnat=ISR|latest=[[2025 Africa Cup of Nations]]}}
+{{nat fs r player|no=|pos=MF|name=[[Benson Sakala]]|age={{birth date and age|1996|9|12|df=y}}|caps=37|goals=0|club=[[Bohemians 1905]]|clubnat=CZE|latest=[[2025 Africa Cup of Nations]]}}
+{{nat fs r player|no=26|pos=MF|name=[[Joseph Liteta]]|age={{birth date and age|2006|02|22|df=yes}}|caps=1|goals=0|club=[[Cagliari Calcio|Cagliari]]|clubnat=ITA|latest=[[2025 Africa Cup of Nations]]}}
+{{nat fs r player|no=|pos=MF|name=[[Gift Siame]]|age={{birth date and age|2006|4|27|df=yes}}|caps=0|goals=0|club=[[CD Leganés|Leganés]]|clubnat=ESP|latest=v. {{fb|ANG}}, 18 November 2025}}
+{{nat fs r player|no=17|pos=MF|name=Humphrey Bwembya|age={{birth date and age|df=y|2005|11|28}}|caps=0|goals=0|club=[[Kabwe Warriors F.C.|Kabwe Warriors]]|clubnat=ZAM|latest=v. {{fb|ANG}}, 18 November 2025}}
+{{nat fs r player|no=7|pos=MF|name=Rickson Ng'ambi|age={{birth date and age|2004|12|20|df=yes}}|caps=0|goals=0|club=[[Maestro United Zambia F.C.|MUZA]]|clubnat=ZAM|latest=v. {{fb|ANG}}, 18 November 2025}}
+{{nat fs r player|no=18|pos=MF|name=Solomon Mpasela|age={{birth date and age|2004|4|1|df=yes}}|caps=0|goals=0|club=[[Maestro United Zambia F.C.|MUZA]]|clubnat=ZAM|latest=v. {{fb|ANG}}, 18 November 2025}}
+{{nat fs r player|no=|pos=MF|name=[[Kelvin Kampamba]]|age={{birth date and age|1996|11|24|df=y}}|caps=53|goals=7|club=[[ZESCO United F.C.|ZESCO United]]|clubnat=ZAM|latest=v. {{fb|MAR}}, 8 September 2025}}
+{{nat fs r player|no=|pos=MF|name=[[Emmanuel Banda]]|age={{birth date and age|1997|9|29|df=y}}|caps=35|goals=1|club=[[Maccabi Bnei Reineh F.C.|Maccabi Bnei Reineh]]|clubnat=ISR|latest=v. {{fb|MAR}}, 8 September 2025}}
+{{nat fs r player|no=|pos=MF|name=Abraham Siankombo|age={{Birth date and age|df=y|1998|3|3}}|caps=10|goals=0|club=[[ZESCO United F.C.|ZESCO United]]|clubnat=ZAM|latest=v. {{fb|MAR}}, 8 September 2025}}
+{{nat fs r player|no=|pos=MF|name=[[Golden Mafwenta]]|age={{Birth date and age|df=y|2001|1|15}}|caps=10|goals=0|club=''free agent''|clubnat=|latest=v. {{fb|MAR}}, 8 September 2025}}
+{{nat fs r player|no=|pos=MF|name=Joseph Sabobo|age={{birth date and age|2005|12|17|df=yes}}|caps=7|goals=0|club=[[Hapoel Be'er Sheva]]|clubnat=ISR|latest=v. {{fb|MAR}}, 8 September 2025}}
+{{nat fs r player|no=|pos=MF|name=Saddam Phiri|age={{Birth date and age|df=y|1992|9|9}}|caps=6|goals=0|club=[[Red Arrows F.C.|Red Arrows]]|clubnat=ZAM|latest=v. {{fb|MAR}}, 8 September 2025}}
+{{nat fs r player|no=|pos=MF|name=[[Chipyoka Songa]]|age={{birth date and age|2004|09|24|df=yes}}|caps=2|goals=0|club=[[Hapoel Petah Tikva F.C.|Hapoel Petah Tikva]]|clubnat=ISR|latest=v. {{fb|MAR}}, 8 September 2025}}
+{{nat fs break}}
+{{nat fs r player|no=7|pos=FW|name=[[Jack Lahne]]|age={{Birth date and age|df=y|2001|10|24}}|caps=4|goals=1|club=[[SC Austria Lustenau|Austria Lustenau]]|clubnat=AUT|latest=[[2025 Africa Cup of Nations]]}}
+{{nat fs r player|no=9|pos=FW|name=[[Lameck Banda]]|age={{Birth date and age|df=y|2001|1|29}}|caps=22|goals=3|club=[[U.S. Lecce|Lecce]]|clubnat=ITA|latest=[[2025 Africa Cup of Nations]]}}
+{{nat fs r player|no=11|pos=FW|name=[[Joseph Sabobo Banda|Joseph Sabobo]]|age={{Birth date and age|df=y|2005|12|17}}|caps=14|goals=1|club=[[Hapoel Be'er Sheva F.C.|Hapoel Be'er Sheva]]|clubnat=ISR|latest=[[2025 Africa Cup of Nations]]}}
+{{nat fs r player|no=19|pos=FW|name=[[Kennedy Musonda]]|age={{Birth date and age|df=y|1994|12|28}}|caps=20|goals=4|club=[[Hapoel Ramat Gan Givatayim F.C.|Hapoel Ramat Gan]]|clubnat=ISR|latest=[[2025 Africa Cup of Nations]]}}
+{{nat fs r player|no=27|pos=FW|name=Eliya Mandanji|age={{Birth date and age|df=y|2007|11|20}}|caps=3|goals=0|club=[[Zanaco F.C.|Zanaco]]|clubnat=ZAM|latest=[[2025 Africa Cup of Nations]]}}
+{{nat fs r player|no=|pos=FW|name=[[Andrew Phiri]]|age={{Birth date and age|df=y|2001|5|21}}|caps=1|goals=0|club=[[Singida Black Stars FC|Singida Black Stars]]|clubnat=TAN|latest=v. {{fb|ANG}}, 18 November 2025}}
+{{nat fs r player|no=|pos=FW|name=[[Edward Chilufya]]|age={{Birth date and age|df=y|1999|9|17}}|caps=19|goals=1|club=[[FC Midtjylland|Midtjylland]]|clubnat=DEN|latest=v. {{fb|MAR}}, 8 September 2025}}
+{{nat fs break}}
+;Notes
+*<sup>DEC</sup> Refused to join the team after the call-up.
+*<sup>INJ</sup> Withdrew due to an injury.
+*<sup>PRE</sup> Preliminary Squad.
+*<sup>RET</sup> Retired from international association football.
+*<sup>SUS</sup> Suspended from the team.
+{{nat fs end}}
+
+==Player records==
+{{Updated|31 March 2026}}<ref>{{cite web |url=https://www.rsssf.org/miscellaneous/zam-recintlp.html |title=Zambia&nbsp;– Record International Players |author=Jerry Muchimba and Roberto Mamrud |publisher=Rec.Sport.Soccer Statistics Foundation |access-date=1 January 2016 |archive-date=10 July 2022 |archive-url=https://web.archive.org/web/20220710163212/https://www.rsssf.org/miscellaneous/zam-recintlp.html |url-status=live }}</ref>
+:''Players in '''bold''' are still active with Zambia.''
+
+===Most appearances===
+{| class="wikitable sortable"  style="text-align:center;"
+|-
+!style="background:#198A00" width="20px"|<span style="color:white;">Rank</span>
+!style="background:#198A00" width="150px"|<span style="color:white;">Player</span>
+!style="background:#198A00" width="50px"|<span style="color:white;">Apps</span>
+!style="background:#198A00" width="50px"|<span style="color:white;">Goals</span>
+!style="background:#198A00" width="100px"|<span style="color:white;">Career</span>
+|-
+|1
+|align=left| [[Kennedy Mweene]]
+|122
+|2
+|2004–2021
+|-
+|2
+|align=left|[[David Chabala]]
+|115
+|0
+|1983–1993
+|-
+|3
+|align=left|[[Godfrey Chitalu]]
+|111
+|79
+|1968–1980
+|-
+|4
+|align=left|[[Joseph Musonda]]
+|108
+|0
+|2002–2014
+|-
+|rowspan=2|5
+|align=left| [[Rainford Kalaba]]
+|103
+|15
+|2005–2018
+|-
+|align=left|[[Christopher Katongo]]
+|103
+|23
+|2003–2016
+|-
+|7
+|align=left|[[Alex Chola]]
+|102
+|43
+|1975–1985
+|-
+|8
+|align=left|[[Elijah Tana]]
+|101
+|4
+|1995–2009
+|-
+|9
+|align=left|[[Derby Makinka]]
+|98
+|10
+|1985–1993
+|-
+|10
+|align=left|'''[[Stoppila Sunzu]]'''
+|97
+|6
+|2008–present 
+|}
+
+===Top goalscorers===
+{| class="wikitable sortable"  style="text-align:center;"
+|-
+!style="background:#198A00" width="20px"|<span style="color:white;">Rank</span>
+!style="background:#198A00" width="150px"|<span style="color:white;">Player</span>
+!style="background:#198A00" width="50px"|<span style="color:white;">Goals</span>
+!style="background:#198A00" width="50px"|<span style="color:white;">Apps</span>
+!style="background:#198A00" width="50px"|<span style="color:white;">Ratio</span>
+!style="background:#198A00" width="100px"|<span style="color:white;">Career</span>
+|-
+|1
+|align=left|[[Godfrey Chitalu]]
+|[[List of international goals scored by Godfrey Chitalu|79]]
+|111
+|{{#expr:79/111 round 2}}
+|1968–1980
+|-
+|2
+|align=left|[[Alex Chola]]
+|43
+|102
+|{{#expr:43/102 round 2}}
+|1975–1985
+|-
+|3
+|align=left|[[Kalusha Bwalya]]
+|39
+|87
+|{{#expr:39/87 round 2}}
+|1983–2004
+|-
+|4
+|align=left|[[Bernard Chanda]]
+|29
+|68
+|{{#expr:29/68 round 2}}
+|1971–1980
+|-
+|5
+|align=left|[[Christopher Katongo]]
+|23
+|103
+|{{#expr:23/103 round 2}}
+|2003–2016
+|-
+|6
+|align=left| [[Collins Mbesuma]]
+|22
+|65
+|{{#expr:22/65 round 2}}
+|2003–2017
+|-
+|rowspan=2|7
+|align=left|'''[[Patson Daka]]'''
+|21
+|54
+|{{#expr:21/54 round 2}}
+|2015–present
+|-
+|align=left|[[Dennis Lota]]
+|21
+|78
+|{{#expr:21/78 round 2}}
+|1994–2002
+|-
+|9
+|align=left|[[Kenneth Malitoli]]
+|19
+|80
+|{{#expr:19/80 round 2}}
+|1988–1999
+|-
+|10
+|align=left|[[James Chamanga]]
+|17
+|63
+|{{#expr:17/63 round 2}}
+|2005–2015
+|}
+
+==Competitive record==
+===FIFA World Cup===
+{| class="wikitable" style="text-align: center;"
+!colspan=9|[[FIFA World Cup]] record
+!rowspan=39|
+!colspan=6|[[FIFA World Cup qualification|Qualification]] record
+|-
+!Year
+!Round
+!Position
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}*
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+|-
+|[[1930 FIFA World Cup|1930]] to [[1962 FIFA World Cup|1962]]
+|colspan=8|''Not a FIFA member''
+|colspan=6|''Not a FIFA member''
+|-
+|{{flagicon|England}} [[1966 FIFA World Cup|1966]]
+|colspan=8|''Did not enter''
+|colspan=6|''Did not enter''
+|-
+| {{flagicon|Mexico}} [[1970 FIFA World Cup|1970]]
+|colspan=8 rowspan=15 |''Did not qualify''
+| 2	
+| 1	
+| 0	
+| 1	
+| 6	
+| 6
+|-
+| {{flagicon|West Germany}} [[1974 FIFA World Cup|1974]]
+| 10	
+| 4	
+| 3	
+| 3	
+| 19	
+| 11
+|-
+| {{flagicon|Argentina}} [[1978 FIFA World Cup|1978]]
+| 6	
+| 3	
+| 1	
+| 2	
+| 9	
+| 5
+|-
+| {{flagicon|Spain}} [[1982 FIFA World Cup|1982]]
+| 4	
+| 2
+| 1	
+| 1	
+| 6	
+| 2
+|-
+| {{flagicon|Mexico}} [[1986 FIFA World Cup|1986]]
+| 6	
+| 2	
+| 1	
+| 3	
+| 8	
+| 6
+|-
+| {{flagicon|Italy|1946}} [[1990 FIFA World Cup|1990]]
+| 6	
+| 3	
+| 0	
+| 3
+| 7	
+| 6
+|-
+| {{flagicon|United States}} [[1994 FIFA World Cup|1994]]
+| 8
+| 5	
+| 1	
+| 2	
+| 17	
+| 5
+|-
+|{{flagicon|France|1974}} [[1998 FIFA World Cup|1998]]
+| 8
+| 3	
+| 2	
+| 3	
+| 10
+| 8
+|-
+| {{flagicon|South Korea|1997}} {{flagicon|Japan}} [[2002 FIFA World Cup|2002]]
+| 10
+| 5	
+| 2	
+| 3
+| 16
+| 11	
+|-
+| {{flagicon|Germany}} [[2006 FIFA World Cup|2006]]
+| 12
+| 7	
+| 2	
+| 3
+| 21
+| 11	
+|-
+|{{flagicon|South Africa}} [[2010 FIFA World Cup|2010]]
+| 10
+| 3
+| 3
+| 4
+| 4
+| 6
+|-
+|{{flagicon|Brazil}} [[2014 FIFA World Cup|2014]]
+| 6
+| 3	
+| 2	
+| 1	
+| 11
+| 4
+|-
+| {{flagicon|Russia}} [[2018 FIFA World Cup|2018]]
+| 8
+| 4
+| 2	
+| 2	
+| 11
+| 7
+|- 
+|{{flagicon|Qatar}} [[2022 FIFA World Cup|2022]]
+|6
+|2
+|1
+|3
+|8
+|9
+|- 
+|{{flagicon|Canada}} {{flagicon|Mexico}} {{flagicon|United States}} [[2026 FIFA World Cup|2026]]
+|8
+|3
+|0
+|5
+|10
+|10
+|-
+|{{flagicon|Morocco}} {{flagicon|Portugal}} {{flagicon|Spain}} [[2030 FIFA World Cup|2030]]
+|colspan=8 rowspan=2|''To be determined''
+|colspan=6 rowspan=2|''To be determined''
+|-
+|{{flagicon|Saudi Arabia}} [[2034 FIFA World Cup|2034]]
+|-
+!Total||||{{Tooltip|0/15|Number of tournaments qualified for}}||||||||||||
+!110
+!50
+!21
+!39
+!163
+!107
+|}
+
+===Africa Cup of Nations===
+{{main|Zambia at the Africa Cup of Nations}}
+
+{| class="wikitable" style="text-align: center;"
+!colspan=9|[[Africa Cup of Nations]] record 
+!rowspan=41|
+!colspan=6|Qualification record
+|-
+!Year
+!Round
+!Position
+!{{Tooltip|Pld|Matches played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}*
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!{{Tooltip|Pld|Matches played}} 
+!{{Tooltip|W|Won}} 
+!{{Tooltip|D|Drawn}}* 
+!{{Tooltip|L|Lost}} 
+!{{Tooltip|GF|Goals for}} 
+!{{Tooltip|GA|Goals against}} 
+|-
+|{{flagicon|Sudan|1956}} [[1957 Africa Cup of Nations|1957]] to {{flagicon|Ghana}} [[1963 Africa Cup of Nations|1963]]
+|colspan=8|''Not affiliated to CAF''
+|colspan=8|''Not affiliated to CAF''
+|-
+|{{flagicon|Tunisia|1964}} [[1965 Africa Cup of Nations|1965]]
+|colspan=8 rowspan=2|''Did not enter''
+|colspan=8 rowspan=2|''Did not enter''
+|-
+|{{flagicon|Ethiopia|1897}} [[1968 Africa Cup of Nations|1968]]
+|-
+|{{flagicon|Sudan|1956}} [[1970 Africa Cup of Nations|1970]] ||colspan=8 rowspan=2|'' Did not qualify ''
+|1|4||1||1||2||9||8
+|-
+|{{flagicon|Cameroon|1961}} [[1972 Africa Cup of Nations|1972]]
+|4||2||0||2||8||6
+|- bgcolor="silver"
+|{{flagicon|Egypt|1972}} [[1974 Africa Cup of Nations|1974]]
+| '''[[1974 African Cup of Nations final|Runners-up]]'''
+| '''2nd''' 
+| '''5''' 
+| '''3''' 
+| '''1''' 
+| '''2''' 
+| '''9''' 
+| '''9''' 
+| 4
+| 2
+| 0
+| 2 
+| 11 
+| 7
+|-
+|{{flagicon|Ethiopia|1975}} [[1976 Africa Cup of Nations|1976]]
+|colspan=8|''Did not qualify''
+|4||2||0|||2||13||6
+|-
+|{{flagicon|Ghana}} [[1978 Africa Cup of Nations|1978]]
+| Group stage
+| 5th 
+| 3 
+| 1 
+| 1 
+| 1 
+| 3 
+| 2
+| 2
+| 1*
+| 0 
+| 1 
+| 2 
+| 2 
+|-
+|{{flagicon|Nigeria}} [[1980 Africa Cup of Nations|1980]]
+|colspan=8|''Did not qualify''
+|4||1||1||2||5||2
+|- bgcolor="#cc9966"
+|{{flagicon|Libya|1977}} [[1982 Africa Cup of Nations|1982]]
+| Third place
+| 3rd
+| 5
+| 3
+| 0
+| 2
+| 7
+| 3
+| 4
+| 4
+| 0 
+| 0 
+| 6
+| 2
+|-
+|{{flagicon|Ivory Coast}} [[1984 Africa Cup of Nations|1984]]
+|colspan=8|''Did not qualify''
+|2||0||1||1||1||2
+|-
+|{{flagicon|Egypt}} [[1986 Africa Cup of Nations|1986]]
+| Group stage
+| 7th
+| 3 
+| 0 
+| 1 
+| 2 
+| 2 
+| 4 
+| 2
+| 1
+| 1
+| 0 
+| 1 
+| 0
+|-
+|{{flagicon|Morocco}} [[1988 Africa Cup of Nations|1988]]
+|colspan=8|''Withdrew''
+|colspan=8|''Withdrew''
+|- bgcolor="#cc9966"
+|{{flagicon|Algeria}} [[1990 Africa Cup of Nations|1990]]
+| Third place
+| 3rd
+| 5
+| 3
+| 1
+| 1
+| 3
+| 2
+| 4
+| 3
+| 0 
+| 1 
+| 8 
+| 2
+|-
+|{{flagicon|Senegal}} [[1992 Africa Cup of Nations|1992]]
+| Quarter-finals 
+| 7th
+| 3 
+| 1
+| 0
+| 2
+| 1
+| 2 
+| 6 
+| 4 
+| 1 
+| 1 
+| 11 
+| 4
+|- bgcolor="silver"
+|{{flagicon|Tunisia}} [[1994 Africa Cup of Nations|1994]]
+| '''[[1994 African Cup of Nations final|Runners-up]]'''
+| '''2nd''' 
+| '''5''' 
+| '''3''' 
+| '''1''' 
+| '''1''' 
+| '''7''' 
+| '''2''' 
+| 6
+| 4
+| 2 
+| 0
+| 10 
+| 2
+|- bgcolor="#cc9966"
+|{{flagicon|South Africa}} [[1996 Africa Cup of Nations|1996]]
+| Third place
+| 3rd
+| 6
+| 4
+| 1
+| 1
+| 15
+| 6
+| 4
+| 3 
+| 0 
+| 1 
+| 7 
+| 2
+|-
+|{{flagicon|Burkina Faso}} [[1998 Africa Cup of Nations|1998]]
+|rowspan=3|Group stage
+| 10th
+| 3
+| 1
+| 1
+| 1
+| 4
+| 6
+| 6 
+| 4
+| 2 
+| 0 
+| 9 
+| 3
+|-
+|{{flagicon|Ghana}} {{flagicon|Nigeria}} [[2000 Africa Cup of Nations|2000]]
+| 13th
+| 3
+| 0
+| 2
+| 1
+| 3
+| 5
+| 6
+| 5
+| 1
+| 0
+| 9 
+| 2
+|-
+|{{flagicon|Mali}} [[2002 Africa Cup of Nations|2002]]
+| 14th
+| 3
+| 0
+| 1
+| 2
+| 1
+| 3
+| 8
+| 3
+| 2 
+| 3
+| 7 
+| 6
+|-
+|{{flagicon|Tunisia}} [[2004 Africa Cup of Nations|2004]]
+|colspan=8|''Did not qualify''
+|6||3||2||1||6||5
+|-
+|{{flagicon|Egypt}} [[2006 Africa Cup of Nations|2006]]
+|rowspan=2|Group stage
+| 11th
+| 3
+| 1
+| 0
+| 2
+| 3
+| 6
+| 12
+| 7
+| 2
+| 3 
+| 16
+| 11
+|-
+|{{flagicon|Ghana}} [[2008 Africa Cup of Nations|2008]]
+| 9th
+| 3
+| 1
+| 1
+| 1
+| 5
+| 6
+| 6
+| 3
+| 2
+| 1
+| 9
+| 3
+|-
+|{{flagicon|Angola}} [[2010 Africa Cup of Nations|2010]]
+| Quarter-finals
+| 6th
+| 4
+| 1
+| 2
+| 1
+| 5
+| 5
+| 10 
+| 3
+| 3
+| 4
+| 4
+| 10
+|- bgcolor="gold"
+|{{flagicon|Gabon}} {{flagicon|Equatorial Guinea}} [[2012 Africa Cup of Nations|2012]]
+| '''[[2012 Africa Cup of Nations final|Champions]]'''
+| '''1st''' 
+| '''6''' 
+| '''4''' 
+| '''2''' 
+| '''0''' 
+| '''9''' 
+| '''3''' 
+| 6
+| 4
+| 1 
+| 1
+| 11
+| 2
+|-
+|{{flagicon|South Africa}} [[2013 Africa Cup of Nations|2013]]
+|rowspan=2|Group stage
+| 12th
+| 3
+| 0
+| 3
+| 0
+| 2
+| 2
+| 2
+| 1*
+| 0 
+| 1
+| 1
+| 1
+|-
+|{{flagicon|Equatorial Guinea}} [[2015 Africa Cup of Nations|2015]]
+| 13th
+| 3
+| 0
+| 2
+| 1
+| 2
+| 3
+| 6
+| 3
+| 2
+| 1 
+| 6
+| 2
+|-
+|{{flagicon|Gabon}} [[2017 Africa Cup of Nations|2017]]
+|colspan=8 rowspan=3|''Did not qualify''
+|6||1||4||1||7||7
+|-
+|{{flagicon|Egypt}} [[2019 Africa Cup of Nations|2019]]
+|6||2||1||3||8||7
+|-
+|{{flagicon|Cameroon}} [[2021 Africa Cup of Nations|2021]]
+|6||2||1||3||8||12
+|-
+|{{flagicon|Ivory Coast}} [[2023 Africa Cup of Nations|2023]]
+| rowspan=2|Group stage
+| 20th
+| 3
+| 0
+| 2
+| 1
+| 2
+| 3
+| 6
+| 4
+| 1
+| 1
+| 12
+| 6
+|-
+|{{flagicon|Morocco}} [[2025 Africa Cup of Nations|2025]]
+|19th
+|3
+|0
+|2
+|1
+|1
+|4
+|6
+|4
+|1
+|1
+|7
+|4
+|-
+|{{flagicon|Kenya}} {{flagicon|Tanzania}} {{flagicon|Uganda}} [[2027 Africa Cup of Nations|2027]]
+| colspan="8" rowspan="2" | ''To be determined''
+| colspan="8" rowspan="2" | '' To be determined''
+|-
+|{{flagicon|}} [[2028 Africa Cup of Nations|2028]]
+|-
+!Total
+!1 title
+!19/35
+!73
+!26
+!24
+!23
+!84
+!76
+!148
+!77
+!32
+!39
+!212
+!126
+|}
+
+===COSAFA Cup===
+{{main|COSAFA Cup}}
+
+{| class="wikitable" style="text-align: center; width:75%;"
+|-
+!rowspan="2"|Year
+!colspan="7"|[[COSAFA Cup]] record
+|-
+!Result||Pld||W||D||L||GF||GA
+|-bgcolor="gold"
+|[[1997 COSAFA Cup|1997]]
+|Winners||5||3||2||0||11||4
+|-bgcolor="gold"
+|[[1998 COSAFA Cup|1998]]
+|Winners||5||3||2||0||5||2
+|-
+|[[1999 COSAFA Cup|1999]]
+|Semi-finals||2||0||1||1||1||2
+|-
+|[[2000 COSAFA Cup|2000]]
+|Quarter-finals||2||1||1||0||3||0
+|-
+|[[2001 COSAFA Cup|2001]]
+|Semi-finals||3||1||2||0||3||2
+|-
+|[[2002 COSAFA Cup|2002]]
+|Semi-finals||2||1||0||1||3||1
+|-
+|[[2003 COSAFA Cup|2003]]
+|Semi-finals||2||1||1||0||5||3
+|-bgcolor="silver"
+|[[2004 COSAFA Cup|2004]]
+|Runners-up||3||2||1||0||3||1
+|-bgcolor="silver"
+|[[2005 COSAFA Cup|2005]]
+|Runners-up||4||2||1||1||7||3
+|-bgcolor="gold"
+|[[2006 COSAFA Cup|2006]]
+|Winners||4||4||0||0||8||1
+|-bgcolor="silver"
+|[[2007 COSAFA Cup|2007]]
+|Runners-up||2||1||1||0||3||0
+|- 
+|{{flagicon|South Africa}} [[2008 COSAFA Cup|2008]]
+|Third place||3||1||1||1||2||1
+|-bgcolor="silver"
+|{{flagicon|Zimbabwe}} [[2009 COSAFA Cup|2009]]
+|Runners-up||3||2||0||1||4||3
+|-bgcolor="gold"
+|{{flagicon|Zambia}} [[2013 COSAFA Cup|2013]]
+|Winners||3||2||1||0||5||1
+|-
+|{{flagicon|South Africa}} [[2015 COSAFA Cup|2015]]
+|Quarter-finals||3||1||1||1||3||1
+|-
+|{{flagicon|Namibia}} [[2016 COSAFA Cup|2016]]
+|Quarter-finals||1||0||1||0||0||0
+|-bgcolor="silver"
+|{{flagicon|South Africa}} [[2017 COSAFA Cup|2017]]
+|Runners-up||3||2||0||1||7||6
+|-bgcolor="silver"
+|{{flagicon|South Africa}} [[2018 COSAFA Cup|2018]]
+|Runners-up||3||1||1||1||3||4
+|-bgcolor="gold"
+|{{flagicon|South Africa}} [[2019 COSAFA Cup|2019]]
+|Winners||3||2||1||0||3||2
+|-
+|{{flagicon|South Africa}} [[2021 COSAFA Cup|2021]]
+|Group stage||4||1||1||2||3||4
+|-bgcolor="gold"
+|{{flagicon|South Africa}} [[2022 COSAFA Cup|2022]]
+|Winners||3||2||1||0||6||4
+|-bgcolor="gold"
+|{{flagicon|South Africa}} [[2023 COSAFA Cup|2023]]
+|Winners||5||4||0||1||9||5
+|-
+|{{flagicon|South Africa}} [[2024 COSAFA Cup|2024]]
+|Group stage||3||0||0||3||0||5
+|-
+!Total
+!7 titles
+!||||||||||
+|}
+
+==Honours==
+===Continental===
+* '''[[Africa Cup of Nations]]'''
+** {{Gold1}} '''Champions (1):''' [[2012 African Cup of Nations|2012]]
+** {{Silver2}} Runners-up (2): [[1974 African Cup of Nations|1974]], [[1994 African Cup of Nations|1994]]
+** {{Bronze3}} Third place (3): [[1982 African Cup of Nations|1982]], [[1990 African Cup of Nations|1990]], [[1996 African Cup of Nations|1996]]
+* '''[[African Nations Championship]]'''
+** {{Bronze3}} Third place (1): [[2009 African Nations Championship|2009]]
+
+===Regional===
+* '''[[COSAFA Cup]]'''
+** {{Gold1}} '''Champions (7):''' [[1997 COSAFA Cup|1997]], [[1998 COSAFA Cup|1998]], [[2006 COSAFA Cup|2006]], [[2013 COSAFA Cup|2013]], [[2019 COSAFA Cup|2019]], [[2022 COSAFA Cup|2022]], [[2023 COSAFA Cup|2023]]
+** {{Silver2}} Runners-up (6): [[2004 COSAFA Cup|2004]], [[2005 COSAFA Cup|2005]], [[2007 COSAFA Cup|2007]], [[2009 COSAFA Cup|2009]], [[2017 COSAFA Cup|2017]], [[2018 COSAFA Cup|2018]]
+** {{Bronze3}} Third place (1): [[2008 COSAFA Cup|2008]]
+* '''[[CECAFA Cup]]'''
+** {{Gold1}} '''Champions (2):''' [[1984 CECAFA Cup|1984]], [[1991 CECAFA Cup|1991]]
+** {{Silver2}} Runners-up (5): [[1976 CECAFA Cup|1976]], [[1977 CECAFA Cup|1977]], [[1978 CECAFA Cup|1978]], [[1988 CECAFA Cup|1988]], [[2006 CECAFA Cup|2006]]
+** {{Bronze3}} Third place (5): [[1973 CECAFA Cup|1973]]{{sup|s}}, [[1974 CECAFA Cup|1974]]{{sup|s}}, [[1981 CECAFA Cup|1981]], [[1992 CECAFA Cup|1992]], [[2013 CECAFA Cup|2013]]
+
+===Awards===
+* '''[[CAF Awards#African National Team of the Year|African National Team of the Year]] (1)''': 2012
+
+===Summary===
+{| class="wikitable" width=30% style="font-size:90%; text-align:center;"
+|-
+!Competition !!{{gold1}} !!{{silver2}} !!{{bronze3}} !!Total
+|-
+|align=left|[[African Cup of Nations|CAF African Cup of Nations]]
+|1 || 2 || 3 || 6
+|-
+|align=left|[[African Nations Championship|CAF African Nations Championship]]
+|0 || 0 || 1 || 1
+|-
+!Total !! 1 !! 2 !! 4 !! 7
+|}
+;Notes:
+* {{sup|s}} Shared titles.
+
+==References==
+{{Reflist}}
+
+==External links==
+{{commons category}}
+*[http://www.zambiansports.com/ Zambian Sports & Football Website] {{Webarchive|url=https://web.archive.org/web/20230307220138/https://zambiansports.com/ |date=7 March 2023 }}
+*[https://www.faz.co.zm Zambia National Football official] {{Webarchive|url=https://web.archive.org/web/20230307220135/https://www.faz.co.zm/ |date=7 March 2023 }}
+*[https://web.archive.org/web/20070611221921/http://www.fifa.com/associations/association=zam/index.html Zambia] at FIFA.com (archived 11 June 2007)
+
+{{Africa Cup of Nations Winners}}
+{{Zambia national football team}}
+{{Navboxes|title=Africa Cup of Nations Finalists|list1=
+{{2010 Africa Cup of Nations finalists}}
+{{2012 Africa Cup of Nations finalists}}
+{{2013 Africa Cup of Nations finalists}}
+}}
+{{Navboxes|title=Squads and managers|list1=
+{{Zambia squad 1986 African Cup of Nations}}
+{{Zambia squad 1990 African Cup of Nations}}
+{{Zambia squad 1992 African Cup of Nations}}
+{{Zambia squad 1994 African Cup of Nations}}
+{{Zambia squad 1996 African Cup of Nations}}
+{{Zambia squad 1998 African Cup of Nations}}
+{{Zambia squad 2000 African Cup of Nations}}
+{{Zambia squad 2002 African Cup of Nations}}
+{{Zambia squad 2006 Africa Cup of Nations}}
+{{Zambia squad 2008 Africa Cup of Nations}}
+{{Zambia squad 2010 Africa Cup of Nations}}
+{{Zambia squad 2012 Africa Cup of Nations}}
+{{Zambia squad 2013 Africa Cup of Nations}}
+{{Zambia squad 2015 Africa Cup of Nations}}
+{{Zambia squad 2023 Africa Cup of Nations}}
+{{Zambia squad 2025 Africa Cup of Nations}}
+{{Zambia national football team managers}}
+}}
+{{Football in Zambia}}
+{{CAF teams}}
+{{National sports teams of Zambia}}
+
+{{DEFAULTSORT:Zambia National Football Team}}
+[[Category:Africa Cup of Nations–winning countries]]
+[[Category:African national association football teams]]
+[[Category:Zambia national football team| ]]

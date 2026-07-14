@@ -1,0 +1,1385 @@
+{{Short description|Men's association football team}}
+{{About|the men's team|the women's team|Iceland women's national football team}}
+{{Use dmy dates|date=March 2026}}
+{{Infobox national football team
+| Name               = Iceland
+| Badge              = Iceland national football team logo.svg
+| Badge_size         = 200px
+| Nickname           = ''Strákarnir okkar'' (Our Boys)
+| Association        = {{nowrap|{{lang|is|[[Football Association of Iceland|Knattspyrnusamband Íslands]]}} (KSÍ)}}
+| Confederation      = [[UEFA]] (Europe)
+| Coach              = [[Arnar Gunnlaugsson]]<ref>{{cite web|url=https://www.ksi.is/um-ksi/frettir/frettasafn/frett/2025/01/15/Arnar-Gunnlaugsson-nyr-thjalfari-A-landslids-karla-/|title=Arnar Gunnlaugsson nýr þjálfari A landsliðs karla|trans-title=Arnar Gunnlaugsson is the new coach of the men's national team|publisher=[[Football Association of Iceland]]|date=15 January 2025|access-date=16 January 2025|language=is}}</ref>
+| Captain            = [[Orri Óskarsson]]<ref>{{cite web|url=https://www.mbl.is/sport/efstadeild/2025/03/12/orri_er_nyr_landslidsfyrirlidi/|title=Orri er nýr landsliðsfyrirliði|trans-title=Orri is the new national team captain|publisher=[[Morgunblaðið]]|date=12 March 2025|access-date=12 March 2025|language=is}}</ref>
+| Most caps          = [[Birkir Bjarnason]] (113)
+| Top scorer         = [[Gylfi Sigurðsson]] (28)
+| Home Stadium       = [[Laugardalsvöllur]]
+| FIFA Trigramme     = ISL
+| FIFA Rank          = {{FIFA World Rankings|ISL}}
+| FIFA max           = 18
+| FIFA max date      = February–March 2018
+| FIFA min           = 131
+| FIFA min date      = April–June 2012
+| Elo Rank           = {{World Football Elo Ratings|Iceland}}
+| Elo max            = 19
+| Elo max date       = October 2017
+| Elo min            = 128
+| Elo min date       = August 1973
+| pattern_la1        = _isl26h
+| pattern_b1         = _isl26h
+| pattern_ra1        = _isl26h
+| pattern_sh1        = _isl26h
+| pattern_so1        = _isl26hl
+| leftarm1           = 0044FF
+| body1              = 0044FF
+| rightarm1          = 0044FF
+| shorts1            = 0044FF
+| socks1             = 0044FF
+| pattern_la2        = _isl26a
+| pattern_b2         = _isl26a
+| pattern_ra2        = _isl26a
+| pattern_sh2        = _isl26a
+| pattern_so2        = 
+| leftarm2           = d9d9d9
+| body2              = d9d9d9
+| rightarm2          = d9d9d9
+| shorts2            = d9d9d9
+| socks2             = d9d9d9
+| First game         = ''Unofficial''<br>{{fb|FRO|1918}} 0–1 {{fb-rt|ISL}}<br>([[Tórshavn]], [[Faroe Islands]]; 29 July 1930)<ref name="RSSSF">{{cite web|last=Courtney|first=Barrie|title=Faroe Islands&nbsp;– List of International Matches|url=https://www.rsssf.org/tablesf/far-intres.html|access-date=3 November 2010|website=[[RSSSF]]|date=16 May 2008|archive-date=28 September 2022|archive-url=https://web.archive.org/web/20220928215543/https://www.rsssf.org/tablesf/far-intres.html|url-status=live}}</ref><br>''Official''<br>{{fb|ISL}} 0–3 {{fb-rt|DEN}}<br>([[Reykjavík]], [[Iceland]]; 17 July 1946)<ref>{{cite web|last=Nygård|first=Jostein|title=International matches of Iceland|url=https://www.rsssf.org/tablesi/ijs-intres.html|access-date=3 November 2010|website=[[RSSSF]]|date=16 May 2008|archive-date=7 October 2022|archive-url=https://web.archive.org/web/20221007052938/https://www.rsssf.org/tablesi/ijs-intres.html|url-status=live}}</ref>
+| Largest win        = ''Unofficial''<br>{{fb|ISL}} 9–0 {{fb-rt|FRO}}<br>([[Keflavík]], [[Iceland]]; 10 July 1985)<ref>{{cite web|last=Nygård|first=Jostein|title=International matches of Iceland|url=https://www.rsssf.org/tablesi/ijs-intres.html|access-date=16 October 2011|website=[[RSSSF]]|date=16 May 2008|archive-date=7 October 2022|archive-url=https://web.archive.org/web/20221007052938/https://www.rsssf.org/tablesi/ijs-intres.html|url-status=live}}</ref><br>''Official''<br>{{fb|LIE}} 0–7 {{fb-rt|ISL}}<br>([[Vaduz]], [[Liechtenstein]]; 26 March 2023)
+| Largest loss       = {{fb|DEN}} [[1967 Denmark v Iceland football match|14–2]] {{fb-rt|ISL}}<br>([[Copenhagen]], [[Denmark]]; 23 August 1967)
+| World cup apps     = 1
+| World cup first    = 2018
+| World cup best     = Group stage ([[2018 FIFA World Cup|2018]])
+| Regional name      = [[UEFA European Championship|European Championship]]
+| Regional cup apps  = 1
+| Regional cup first = [[UEFA Euro 2016|2016]]
+| Regional cup best  = Quarter-finals ([[UEFA Euro 2016|2016]])
+|2ndRegional cup apps=2|2ndRegional name=[[Greenland Cup]]|2ndRegional cup first=[[Greenland Cup#1980|1980]]|2ndRegional cup best='''Champions''' ([[Greenland Cup#1980|1980]], [[Greenland Cup#1984|1984]])
+| 3rdRegional name      = [[Baltic Cup (football)|Baltic Cup]]
+| 3rdRegional cup apps  = 1
+| 3rdRegional cup first = [[2022 Baltic Cup|2022]]
+| 3rdRegional cup best  = '''Champions''' ([[2022 Baltic Cup|2022]])
+}}
+The '''Iceland national football team''' ({{Langx|is|Íslenska karlalandsliðið í knattspyrnu}}) represents [[Iceland]] in men's international [[Association football|football]]. The team is controlled by the [[Football Association of Iceland]], and have been a [[FIFA]] member since 1947 and a [[UEFA]] member since 1957. The team's nickname is ''Strákarnir okkar'', which means ''Our Boys'' in [[Icelandic language|Icelandic]].
+
+The team enjoyed success in the second half of the 2010s. In the [[2014 FIFA World Cup qualification (UEFA)|qualifying rounds]] for the [[2014 FIFA World Cup]], Iceland reached the playoffs before losing to [[Croatia national football team|Croatia]]. Iceland reached its first major tournament, [[UEFA Euro 2016]], after a qualification campaign which included home and away wins over the [[Netherlands national football team|Netherlands]]. After reaching the knockout stages of Euro 2016, Iceland [[UEFA Euro 2016 knockout phase#England vs Iceland|defeated England in the round of 16]], advancing to the quarter-finals, where they lost to host nation [[France national football team|France]] 5–2. The team qualified for the [[2018 FIFA World Cup|2018 tournament]] on 9 October 2017, becoming the smallest nation by population to clinch a [[FIFA World Cup]] spot.{{efn|This record was eventually broken by [[Curaçao national football team|Curaçao]] when they qualified for the [[2026 FIFA World Cup|2026 tournament]].<ref>{{Cite web|url=https://www.foxsports.com.au/football/wild-scenes-as-27year-wc-drought-ends-with-stunning-goals-and-red-card-drama-wrap/news-story/a41294afec3801b915e75c9b1784a852| title= Population of... 156,000: Caribbean minnows break wild record to secure WC spot — Wrap|work=Fox Sports Australia| date=19 November 2025|access-date=19 November 2025}}</ref>}}<ref>{{Cite web |title=Iceland become smallest nation ever to qualify for World Cup finals |work=The Guardian |date=9 October 2017 |access-date=10 October 2017 |url=https://www.theguardian.com/football/2017/oct/09/iceland-qualify-world-cup-smallest-nation |archive-date=9 October 2017 |archive-url=https://web.archive.org/web/20171009232344/https://www.theguardian.com/football/2017/oct/09/iceland-qualify-world-cup-smallest-nation |url-status=live }}</ref> They drew with [[Argentina national football team|Argentina]] in their opening match, but went out in the group stage.<ref>{{Cite web |title=Lionel Messi penalty saved by Halldórsson as Iceland hold Argentina |work=The Guardian |date=16 June 2018 |access-date=19 October 2019 |url=https://www.theguardian.com/football/2018/jun/16/argentina-iceland-world-cup-match-report |archive-date=19 October 2019 |archive-url=https://web.archive.org/web/20191019125444/https://www.theguardian.com/football/2018/jun/16/argentina-iceland-world-cup-match-report |url-status=live }}</ref><ref>{{Cite web |title=Iceland bow out of World Cup after defeat by Croatia in final group game |work=The Guardian |date=26 June 2018 |access-date=19 October 2019 |url=https://www.theguardian.com/football/2018/jun/26/iceland-croatia-world-cup-match-report |archive-date=30 May 2019 |archive-url=https://web.archive.org/web/20190530224812/https://www.theguardian.com/football/2018/jun/26/iceland-croatia-world-cup-match-report |url-status=live }}</ref>
+
+==History==
+{{recentism|date=December 2022}}
+
+===20th century===
+Although [[Úrvalsdeild]], the Icelandic Football League, was founded in 1912,<ref name="Fieldoo">{{cite web |url=http://blog.fieldoo.com/2014/03/urvalsdeild-pepsi-deildin-northern-lights-of-the-icelandic-premier-league-review/ |title=Icelandic Premier League&nbsp;– Úrvalsdeild / Pepsi-deildin (Review) |date=19 March 2014 |website=Blog.fieldoo.com/ |access-date=28 June 2016 |archive-date=12 June 2018 |archive-url=https://web.archive.org/web/20180612143321/http://blog.fieldoo.com/2014/03/urvalsdeild-pepsi-deildin-northern-lights-of-the-icelandic-premier-league-review/ |url-status=dead }}</ref> the country's first international match was played on 29 July 1930, against the [[Faroe Islands national football team|Faroe Islands]].<ref name="King">{{cite web |url=http://twohundredpercent.net/northern-lights-the-sudden-ascent-of-the-iceland-national-football-team/ |title=Northern Lights: The Sudden Ascent Of The Iceland National Football Team |author=Ian King |date=21 October 2013 |website=Twohundredpercent.net |access-date=28 June 2016 |archive-url=https://web.archive.org/web/20180104155545/http://twohundredpercent.net/northern-lights-the-sudden-ascent-of-the-iceland-national-football-team/ |archive-date=4 January 2018 |url-status=dead }}</ref> Although Iceland won 1–0 away, both teams were at the time unaffiliated with [[FIFA]].<ref>{{Cite news|url=https://guidetoiceland.is/history-culture/football-in-iceland-the-secret-to-success|title=Football in Iceland {{!}} The Secret to Success {{!}} Guide to Iceland|date=2017-07-23|work=Guide to Iceland|access-date=2018-08-19|language=en-GB|archive-date=20 August 2018|archive-url=https://web.archive.org/web/20180820005636/https://guidetoiceland.is/history-culture/football-in-iceland-the-secret-to-success|url-status=live}}</ref> The first match officially recognised by FIFA took place in [[Reykjavík]] on 17 July 1946, a 0–3 loss to their future rivals [[Denmark national football team|Denmark]].<ref name="Bein">{{cite web |url=https://www.beinsports.com/en/euro2016/news/iceland/270664 |title=Iceland |author=<!--Staff writer(s); no by-line.--> |date=3 June 2016 |website=beinsports.com |access-date=28 June 2016 |archive-date=13 August 2016 |archive-url=https://web.archive.org/web/20160813162024/https://www.beinsports.com/en/euro2016/news/iceland/270664 |url-status=live }}</ref> The first international victory was against Finland in 1947.<ref name="Uefa">{{cite web |url=http://www.uefa.org/member-associations/association=isl/index.html |title=Iceland&nbsp;– Member associations |website=Uefa.org |date=20 May 2016 |access-date=29 June 2016 |archive-date=23 June 2016 |archive-url=https://web.archive.org/web/20160623013813/http://www.uefa.org/member-associations/association=isl/index.html |url-status=dead }}</ref> For the first 20 years of the [[Football Association of Iceland]] (KSÍ)'s existence, the team mostly did not participate in qualifying for the [[FIFA World Cup]] or the [[UEFA European Championship]]. In 1954, Iceland applied to take part in qualification for the [[1954 FIFA World Cup|1954 World Cup]], but the application was rejected.<ref name="King"/> In qualification for the [[1958 FIFA World Cup|1958 World Cup]], Iceland finished last in their group with zero wins, conceding 26 goals.<ref name="King"/>
+
+In 1980, Iceland won the first edition of the friendly tournament known as the [[Greenland Cup]].<ref>{{Cite web|url=https://www.rsssf.org/tablesg/groenlandcup.html|title=Greenland Cups 1980-84|website=[[RSSSF]]|access-date=2018-08-19|archive-date=12 December 2022|archive-url=https://web.archive.org/web/20221212195521/https://www.rsssf.org/tablesg/groenlandcup.html|url-status=live}}</ref>
+
+Since 1974, the team has taken part in qualifying for every World Cup and European Championship. In 1994, the team reached their then best ever position in the [[FIFA World Rankings]], 37th. This record stood until 2016 when they managed to reach 21st.<ref>{{cite web |url=http://www.timesofmalta.com/articles/view/20160627/opinion/An-Icelandic-summer.616884 |title=An Icelandic summer |website=Timesofmalta.com |date=19 October 2014 |access-date=29 June 2016 |archive-date=28 June 2016 |archive-url=https://web.archive.org/web/20160628140602/http://www.timesofmalta.com/articles/view/20160627/opinion/An-Icelandic-summer.616884 |url-status=live }}</ref> In a friendly against [[Estonia national football team|Estonia]] on 24 April 1996 in [[Tallinn]], [[Eiður Guðjohnsen|Eiður Smári Guðjohnsen]] entered as a substitute for his father [[Arnór Guðjohnsen|Arnór]]. This marked the first time that a father and son played in the same international match.<ref>{{cite news|title=Iceland's father and son team|url=https://www.independent.co.uk/news/business/icelands-father-and-son-team-1306907.html|access-date=10 October 2017|work=The Independent|date=25 April 1996|archive-date=11 October 2017|archive-url=https://web.archive.org/web/20171011072218/http://www.independent.co.uk/news/business/icelands-father-and-son-team-1306907.html|url-status=live}}</ref>
+
+===21st century===
+[[File:2018 World Cup Iceland1.jpg|thumb|left|Iceland national football team at the [[2018 FIFA World Cup]] in [[Rostov-on-Don]], Russia]]
+In qualification for [[UEFA Euro 2004|Euro 2004]], Iceland finished third in their group, one point behind [[Scotland national football team|Scotland]].<ref>{{cite news |url=https://news.bbc.co.uk/sport1/hi/football/internationals/2899291.stm |title=Euro 2004 Qualifying Group Five |work=BBC News |date=11 October 2003 |access-date=29 June 2016 |archive-date=12 December 2022 |archive-url=https://web.archive.org/web/20221212195518/http://news.bbc.co.uk/sport1/hi/football/internationals/2899291.stm |url-status=live }}</ref> As a result, they failed to qualify for a playoff spot.<ref>{{cite news |url=https://news.bbc.co.uk/sport2/hi/football/internationals/3184184.stm |title=Germany reach Euro 2004 |work=BBC News |date=11 October 2003 |access-date=29 June 2016 |archive-date=12 April 2022 |archive-url=https://web.archive.org/web/20220412052530/http://news.bbc.co.uk/sport1/hi/football/internationals/3184184.stm |url-status=live }}</ref>
+
+However, the following qualifying campaigns were much more difficult for Iceland, which finished near the last places of their respective groups. During the [[UEFA Euro 2008 qualifying Group F|Euro 2008 qualifiers]], Iceland scored two unexpected successes against [[Northern Ireland national football team|Northern Ireland]] (3–0 in the opening away, 2–1 at home in the return), then heroically resisted in the first and second leg against [[Spain national football team|Spain]], winners of the competition (a 1–1 draw at home after having led the score and a short 0–1 defeat away). But Iceland suffered several other heavy defeats, surprisingly losing twice to [[Latvia national football team|Latvia]]  (0–4 away, 2–4 home), which had qualified for [[UEFA Euro 2004|Euro 2004]]. Iceland also lost to [[Liechtenstein national football team|Liechtenstein]] (0–3 away, after a 1–1 home draw).
+
+Iceland's poor results were due to the absence of professionals on the island and the country's hostile climate, where winter lasts for 8 months. The development of the sport was stifled by the dearth of soccer pitches: There were only two synthetic fields, so players trained on gravel or in snow. In the 2000s, Icelandic soccer experienced a real revolution. The economic boom allowed the authorities to create important structures with indoor pitches in synthetic turf, allowing training year-round regardless of weather conditions. These new structures encouraged young people to turn to sports and even led to a decrease in alcohol and tobacco consumption among teenagers.<ref>{{cite web|title=L'Islande, tout sauf un miracle|url=https://www.lequipe.fr/explore-video/islande-tout-sauf-un-miracle/|website=lequipe.fr|publication-date=|access-date=9 May 2022|archive-date=2 July 2017|archive-url=https://web.archive.org/web/20170702120901/https://www.lequipe.fr/explore-video/islande-tout-sauf-un-miracle/|url-status=dead}}</ref>
+
+In 2014, Iceland almost secured qualification for their first World Cup.<ref>{{cite web |last=Nunns |first=Hector |url=https://www.bbc.co.uk/sport/football/24931524 |title=World Cup play-offs: How Iceland can set World Cup record |publisher=Bbc.co.uk |date=1 January 1970 |access-date=28 June 2016 |archive-date=21 November 2013 |archive-url=https://web.archive.org/web/20131121072650/http://www.bbc.co.uk/sport/0/football/24931524 |url-status=live }}</ref> Finishing second in Group D, they played [[Croatia national football team|Croatia]] in a two-leg playoff for qualification.<ref>{{cite web |url=https://www.bbc.co.uk/sport/football/24862499 |title=Iceland 0–0 Croatia |publisher=[[BBC Sport]] |date=15 November 2013 |access-date=29 June 2016 |archive-date=13 February 2016 |archive-url=https://web.archive.org/web/20160213085745/http://www.bbc.co.uk/sport/football/24862499 |url-status=live }}</ref><ref>{{cite web |url=http://www.fourfourtwo.com/news/fifa-world-cup-play-croatia-v-iceland |title=FIFA World Cup Play-Off: Croatia v Iceland |website=FourFourTwo.com |date=17 November 2013 |access-date=29 June 2016 |archive-date=20 August 2016 |archive-url=https://web.archive.org/web/20160820193140/http://www.fourfourtwo.com/news/fifa-world-cup-play-croatia-v-iceland |url-status=live }}</ref> After holding them to a 0–0 draw in the home leg, they lost 2–0 away.<ref>{{cite web |url=https://www.bbc.co.uk/sport/football/24907602 |title=Croatia 2–0 Iceland |publisher=[[BBC Sport]] |date=19 November 2013 |access-date=29 June 2016 |archive-date=12 June 2018 |archive-url=https://web.archive.org/web/20180612143710/https://www.bbc.co.uk/sport/football/24907602 |url-status=live }}</ref>
+
+====Euro 2016====
+Iceland qualified for a major tournament for the first time in 2015 after finishing second in Group A of qualification for [[UEFA Euro 2016|Euro 2016]], losing only two games, and beating the [[Netherlands national football team|Netherlands]] – which had finished third in the 2014 World Cup – twice.<ref>{{Cite web |last=Bishara |first=Motez |date=2016-06-06 |title=Euro 2016: How tiny Iceland slays the giants |url=https://www.cnn.com/2016/06/06/football/iceland-football-euro-2016-gylfi-sigurdsson-eidur-gudjohnsen-island/index.html |access-date=2024-06-29 |website=CNN |language=en}}</ref><ref>{{Cite web |title=Turkey beats Dutch to go 3rd in Group A, Iceland qualifies |url=https://www.usatoday.com/story/sports/soccer/2015/09/06/turkey-beats-netherlands-3-0-to-go-3rd-in-qualifying-group-a/71813528/ |access-date=2024-06-29 |website=USA TODAY |language=en-US}}</ref><ref>{{Cite magazine |date=2015-09-07 |title=Iceland reaches Euro 2016 for its biggest soccer achievement |url=https://www.si.com/soccer/2015/09/07/ap-soc-icelands-moment |access-date=2024-06-29 |magazine=Sports Illustrated |language=en-us}}</ref><ref>{{Cite news |last1=Christenson |first1=Marcus |last2=Einarsson |first2=Magnús Már |date=2015-09-07 |title=Iceland reach Euro 2016 but Lars Lagerback insists: 'Nelson Mandela is a hero, I am not' |url=https://www.theguardian.com/football/2015/sep/07/iceland-qualify-euro-2016-lars-lagerback |access-date=2024-06-29 |work=The Guardian |language=en-GB |issn=0261-3077}}</ref> During the qualification, they reached their then highest ranking in the FIFA World Rankings, 23rd.<ref>{{cite web |url=http://www.timesofmalta.com/articles/view/20160627/opinion/An-Icelandic-summer.616884 |title=An Icelandic summer |date=27 June 2016 |publisher=timesofmalta.com |access-date=3 July 2016 |archive-date=28 June 2016 |archive-url=https://web.archive.org/web/20160628140602/http://www.timesofmalta.com/articles/view/20160627/opinion/An-Icelandic-summer.616884 |url-status=live }}</ref><ref>{{cite web |last=Gonzalez |first=Roger |url=http://www.cbssports.com/general/news/fifa-rankings-argentina-no-1-usa-below-iceland-mexico-algeria/ |title=FIFA rankings: Argentina No. 1, USA below Iceland, Mexico, Algeria |publisher=CBSSports.com |date=1 October 2015 |access-date=3 July 2016 |archive-date=16 September 2016 |archive-url=https://web.archive.org/web/20160916085203/http://www.cbssports.com/general/news/fifa-rankings-argentina-no-1-usa-below-iceland-mexico-algeria/ |url-status=live }}</ref> Iceland were drawn into a group with [[Portugal national football team|Portugal]], [[Hungary national football team|Hungary]] and [[Austria national football team|Austria]] for the final tournament.
+
+At the tournament finals, Iceland recorded 1–1 draws in their first two group stage matches against Portugal and Hungary. They then advanced from their group with a 2–1 victory against Austria.<ref>{{cite news|url=https://www.telegraph.co.uk/football/2016/06/22/iceland-vs-austria-euro-2016-live/ |archive-url=https://web.archive.org/web/20160624033110/http://www.telegraph.co.uk/football/2016/06/22/iceland-vs-austria-euro-2016-live/ |archive-date=2016-06-24 |url-access=subscription |url-status=live|title=Iceland 2–1 Austria, Euro 2016: Rearguard action and late winner set up England tie for competition's smallest nation|work= Telegraph|date=22 June 2016|access-date=27 June 2016|last1=Ough|first1=Tom}}</ref> Iceland qualified for the tournament's quarter-finals after a [[UEFA Euro 2016 knockout phase#England vs Iceland|2–1 upset win over England]] in the Round of 16, which led to England manager [[Roy Hodgson]] resigning in disgrace immediately after the final whistle.<ref>{{cite news|url=https://www.telegraph.co.uk/football/2016/06/27/england-1-iceland-2-euro-2016---humiliation-as-joe-hart-clanger/ |archive-url=https://ghostarchive.org/archive/20220112/https://www.telegraph.co.uk/football/2016/06/27/england-1-iceland-2-euro-2016---humiliation-as-joe-hart-clanger/ |archive-date=12 January 2022 |url-access=subscription |url-status=live|title=England 1 Iceland 2, Euro 2016&nbsp;– Humiliation as Joe Hart clanger sees Roy Hodgson's men crash out in Nice|work=Telegraph|date=27 June 2016|access-date=27 June 2016|last1=Wallace|first1=Sam}}{{cbignore}}</ref> However, they were eliminated by host nation [[France national football team|France]] in the quarter-finals, 5–2.<ref>{{cite news|url=https://www.theguardian.com/football/live/2016/jul/03/france-iceland-euro-2016-live|title=France 5–2 Iceland: Euro 2016 quarter-final&nbsp;– as it happened|work=The Guardian|date=3 July 2016|access-date=3 July 2016|last1=Smyth|first1=Rob|archive-date=8 July 2016|archive-url=https://web.archive.org/web/20160708163329/https://www.theguardian.com/football/live/2016/jul/03/france-iceland-euro-2016-live|url-status=live}}</ref>
+[[File:Iceland national football team World Cup 2018.jpg|thumb|World Cup team 2018]]
+
+====2018 World Cup====
+Iceland qualified for the [[2018 FIFA World Cup|2018 World Cup]], their first ever appearance in the world championship and second major tournament overall, securing qualification on 9 October 2017 after a 2–0 win against [[Kosovo national football team|Kosovo]]. In doing so, they became the lowest-populated country ever to reach the finals until Curaçao broke both records in 2026.<ref>{{Cite news |agency=Reuters |date=2017-10-09 |title=Iceland become smallest nation ever to qualify for World Cup finals |url=https://www.theguardian.com/football/2017/oct/09/iceland-qualify-world-cup-smallest-nation |access-date=2024-06-29 |work=The Guardian |language=en-GB |issn=0261-3077}}</ref> Iceland were drawn to play [[Croatia national football team|Croatia]], [[Argentina national football team|Argentina]] and [[Nigeria national football team|Nigeria]] in a group that was considered by many as the "[[group of death]]".<ref>{{Cite news|url=https://www.standard.co.uk/sport/football/fifa-world-cup-2018-group-of-death-this-is-the-toughest-draw-a3708096.html|title=Fifa World Cup 2018 group of death: This is the toughest draw|work=Evening Standard|access-date=2018-06-28|language=en-GB|archive-date=28 June 2018|archive-url=https://web.archive.org/web/20180628160059/https://www.standard.co.uk/sport/football/fifa-world-cup-2018-group-of-death-this-is-the-toughest-draw-a3708096.html|url-status=live}}</ref><ref>{{Cite web|url=https://www.fifa.com/worldcup/groups/|archive-url=https://web.archive.org/web/20140520184910/http://www.fifa.com/worldcup/groups/|url-status=dead|archive-date=20 May 2014|title=2018 FIFA World Cup Russia |website=FIFA|language=en-GB|access-date=2018-06-28}}</ref> Despite a challenging group, Iceland were tipped to advance from the group by several journalist websites, based on their impressive performance in Euro 2016.<ref>{{Cite web|url=https://www.dw.com/en/world-cup-russia-2018-for-iceland-anything-is-possible/a-43993975|title=World Cup Russia 2018: For Iceland, anything is possible |date=2018-05-30 |website=Deutsche Welle|language=en|access-date=2018-06-28|archive-date=28 June 2018|archive-url=https://web.archive.org/web/20180628155446/https://www.dw.com/en/world-cup-russia-2018-for-iceland-anything-is-possible/a-43993975|url-status=live}}</ref> Their maiden match at the World Cup was against [[2014 FIFA World Cup|2014 runners-up]] Argentina, with Iceland holding Argentina to a 1–1 draw.<ref>{{Cite web|url=https://www.fifa.com/worldcup/matches/match/300331515/|archive-url=https://web.archive.org/web/20180612142534/https://www.fifa.com/worldcup/matches/match/300331515/|url-status=dead|archive-date=12 June 2018|title=2018 FIFA World Cup Russia - Matches - Argentina - Iceland |website=FIFA|language=en-GB|access-date=2018-06-28}}</ref><ref>{{Cite news|url=https://www.bbc.com/sport/football/44422188|title=World Cup 2018: Debutants Iceland hold Argentina to 1-1 draw|date=2018-06-16|work=BBC Sport|access-date=2018-06-28|language=en-GB|archive-date=18 June 2018|archive-url=https://web.archive.org/web/20180618165127/https://www.bbc.com/sport/football/44422188|url-status=live}}</ref> However, their chances of advancing from the group were hurt following a 2–0 loss to Nigeria, with several missed opportunities in the first half and a penalty kick in the second half missed by Gylfi Sigurðsson, putting Iceland in position to play a decisive match against already qualified Croatia.<ref>{{Cite web|url=https://www.fifa.com/worldcup/matches/match/300331497/#match-liveblog|archive-url=https://web.archive.org/web/20180612142235/https://www.fifa.com/worldcup/matches/match/300331497/#match-liveblog|url-status=dead|archive-date=12 June 2018|title=2018 FIFA World Cup Russia - Matches - Nigeria - Iceland |website=FIFA|language=en-GB|access-date=2018-06-28}}</ref><ref>{{Cite news|url=https://www.theguardian.com/football/live/2018/jun/22/nigeria-iceland-world-cup-2018-live|title=Nigeria 2-0 Iceland: World Cup 2018 – as it happened|last=Glendenning|first=Barry|date=2018-06-22|work=The Guardian|access-date=2018-06-28|language=en-GB|issn=0261-3077|archive-date=18 July 2018|archive-url=https://web.archive.org/web/20180718020415/https://www.theguardian.com/football/live/2018/jun/22/nigeria-iceland-world-cup-2018-live|url-status=live}}</ref> Iceland lost to Croatia in their final group game and were eliminated; and because Argentina won against Nigeria, Iceland finished bottom of the group with a single point.<ref>{{Cite web|url=https://www.fifa.com/worldcup/matches/match/300331510/#match-liveblog|archive-url=https://web.archive.org/web/20180612145333/https://www.fifa.com/worldcup/matches/match/300331510/#match-liveblog|url-status=dead|archive-date=12 June 2018|title=2018 FIFA World Cup Russia - Matches - Iceland - Croatia |website=FIFA|language=en-GB|access-date=2018-06-28}}</ref><ref>{{Cite news|url=https://www.bbc.com/sport/football/44439256|title=World Cup 2018: Iceland out after defeat by group winners Croatia|date=2018-06-26|work=BBC Sport|access-date=2018-06-28|language=en-GB|archive-date=4 December 2020|archive-url=https://web.archive.org/web/20201204054718/https://www.bbc.com/sport/football/44439256|url-status=live}}</ref>
+
+====2018–19 UEFA Nations League====
+After Euro 2016 and the 2018 World Cup, Iceland participated in the [[2018–19 UEFA Nations League]], in which they were in [[2018–19 UEFA Nations League A#Group 2|Group 2 of League A]] with [[Switzerland national football team|Switzerland]] and [[Belgium national football team|Belgium]]. Many of Iceland's international matches in this competition were undermined by the repeated absence of some of their key players, often due to injury. Iceland lost all four games and faced relegation to League B,<ref name=whathappened>{{cite web |url=https://the18.com/en/soccer-news/iceland-2018-record-soccer |title=What Has Happened To Icelandic Soccer? Iceland 2018 Record |last=Yoesting |first=Travis |website=the18 |date=15 November 2018 |access-date=26 December 2022 |archive-date=26 December 2022 |archive-url=https://web.archive.org/web/20221226173322/https://the18.com/en/soccer-news/iceland-2018-record-soccer |url-status=live }}</ref> but due to a rule change by UEFA, Iceland was not relegated to League B for the 2020–2021 edition.
+
+====Euro 2020 qualifiers====
+In [[UEFA Euro 2020 qualifying Group H|group H of the Euro qualifiers]] with the world champions [[France national football team|France]], Turkey, Albania, Andorra and Moldova. Iceland lost both confrontations against ''Les Bleus'' (4–0 at the [[Stade de France]] and 1–0 at home on a penalty kick after the hour of play at the end of a tight game) and the away match against [[Albania national football team|Albania]] 4–2, though achieved a win and a draw against Turkey. Iceland finished third behind France and Turkey and advanced to the [[UEFA Euro 2020 qualifying play-offs#Path A|playoffs]], where they defeated [[Romania national football team|Romania]] 2–1. On 12 November 2020, in their [[UEFA Euro 2020 qualifying play-offs#Path A|playoff game against Hungary]], Iceland nearly secured qualification for [[Euro 2020]], having led 1–0 for most of the match, thanks to a direct free kick by Gylfi Sigurðsson. However, Hungary scored two goals in under five minutes, the first in the 88th minute by [[Loïc Nego]] and the second in the second minute of added time by [[Dominik Szoboszlai]], proving to be the winner, thereby securing qualification at Iceland's expense.<ref>{{cite web|url=https://www.theguardian.com/football/2020/nov/12/euro-2020-playoffs-georgia-north-macedonia-hungary-iceland/|title=Euro 2020 play-offs: Hungary fightback stuns Iceland, North Macedonia qualify|website=The Guardian|date=12 November 2020|access-date=20 November 2020|archive-date=20 November 2020|archive-url=https://web.archive.org/web/20201120011348/https://www.theguardian.com/football/2020/nov/12/euro-2020-playoffs-georgia-north-macedonia-hungary-iceland|url-status=live}}</ref>
+
+Iceland had also suffered poor results in their [[2020–21 UEFA Nations League|UEFA Nations League]] campaign in [[2020–21 UEFA Nations League A|League A]], having lost all their [[2020–21 UEFA Nations League A#Group 2|group stage]] matches and failing to garner a single point, resulting in their relegation to League B the [[2022–23 UEFA Nations League|following season]].<ref>{{cite news |last1=Elliott |first1=Alexander |title=Iceland relegated in Nations League |url=https://www.ruv.is/frett/2020/11/19/iceland-relegated-in-nations-league |access-date=11 December 2020 |publisher=RÚV |date=19 November 2020 |archive-date=28 November 2020 |archive-url=https://web.archive.org/web/20201128195355/https://www.ruv.is/frett/2020/11/19/iceland-relegated-in-nations-league |url-status=live }}</ref> Manager [[Erik Hamrén]] ultimately resigned, following their poor performance that year.<ref>{{cite news |last1=O'Connor |first1=Philip |title=Iceland soccer coach Hamren to step down after England game |url=https://in.reuters.com/article/soccer-uefanations-dnk-isl/iceland-soccer-coach-hamren-to-step-down-after-england-game-idINKBN27U0FK |access-date=18 November 2020 |work=Reuters |date=14 November 2020 |archive-date=25 November 2020 |archive-url=https://web.archive.org/web/20201125064006/https://in.reuters.com/article/soccer-uefanations-dnk-isl/iceland-soccer-coach-hamren-to-step-down-after-england-game-idINKBN27U0FK |url-status=dead }}</ref>
+
+====2022 World Cup qualifiers====
+Iceland also had a poor start to [[2022 FIFA World Cup qualification – UEFA Group J|2022 World Cup qualifiers]], suffering two defeats at the beginning of the tournament, away against [[Germany national football team|Germany]] (0–3) and more surprisingly in [[Armenia national football team|Armenia]] (0–2). Preparation for the September games, where Iceland had the advantage of playing all three games at home after several away games and had played some encouraging friendlies in June, was disrupted by extra-sporting affairs involving both [[Kolbeinn Sigþórsson]] and [[Gylfi Sigurðsson]] accused of sexual offences<ref>{{cite web|title=L'Islande face à un scandale d'agression sexuelle, Sigthorsson dans le viseur|url=https://www.sofoot.com/l-islande-face-a-un-scandale-d-agression-sexuelle-sigthorsson-dans-le-viseur-503634.html|website=[[So Foot]]|date=31 August 2021|access-date=3 September 2021|archive-date=3 September 2021|archive-url=https://web.archive.org/web/20210903203151/https://www.sofoot.com/l-islande-face-a-un-scandale-d-agression-sexuelle-sigthorsson-dans-le-viseur-503634.html|url-status=live}}</ref><ref>{{cite web|title=Un joueur d'Everton suspecté d'abus sexuels sur mineurs|url=https://www.sofoot.com/un-joueur-d-everton-suspecte-d-abus-sexuels-sur-mineurs-502233.html|website=[[So Foot]]|date=20 July 2021|access-date=3 September 2021|archive-date=3 September 2021|archive-url=https://web.archive.org/web/20210903155248/https://www.sofoot.com/un-joueur-d-everton-suspecte-d-abus-sexuels-sur-mineurs-502233.html|url-status=live}}</ref> and thus absent from the month's games. The cases also led to the resignation of several senior officials of the [[Football Association of Iceland|Icelandic Football Association]], including its president.<ref>{{cite web|title=Islande : démission collective à la Fédération après un scandale d'agression sexuelle, Sigthorsson dans le viseur|url=https://www.lequipe.fr/Football/Actualites/Islande-demission-collective-a-la-federation-apres-un-scandale-d-agression-sexuelle-sigthorsson-dans-le-viseur/1281862|website=[[L'Équipe]]|date=31 August 2021|access-date=3 September 2021|archive-date=3 September 2021|archive-url=https://web.archive.org/web/20210903155258/https://www.lequipe.fr/Football/Actualites/Islande-demission-collective-a-la-federation-apres-un-scandale-d-agression-sexuelle-sigthorsson-dans-le-viseur/1281862|url-status=live}}</ref> In the aftermath of these affairs, Iceland lost against Romania (0–2), drew against [[North Macedonia national football team|North Macedonia]] (2–2), and suffered a heavy loss against [[Germany national football team|Germany]] (0–4); these results left Iceland in second-to-last place in Group J with four matches remaining. In the two October games, Iceland drew against Armenia (1–1) and defeated Liechtenstein (4–0). Despite these results, along with an away draw against [[Romania national football team|Romania]] (0–0), Iceland was mathematically eliminated with one day remaining, being unable to recover enough points to reach second place.
+
+This run of poor results has been attributed to several factors, both sporting and extra-sporting: the late generational renewal, a process partly hampered by a limited pool of footballers due to Iceland's demographics; the questionable tactical choices of the new coach, resulting in a lack of automatism among new players who are not used to playing together and the absence of a real standard team; and sexual assault scandals that have effectively sidelined some of the team's best players under investigation.<ref>{{cite web|title=Islande in the dark|url=https://www.sofoot.com/est-ce-la-fin-definitive-de-l-epopee-islandaise-505189.html|author=Arthur Jeanne|website=[[So Foot]]|date=8 October 2021|access-date=25 October 2021|archive-date=25 October 2021|archive-url=https://web.archive.org/web/20211025171109/https://www.sofoot.com/est-ce-la-fin-definitive-de-l-epopee-islandaise-505189.html|url-status=live}}</ref><ref>{{cite web|title=Mondial 2022 : en Islande, le clapping de 2016 ne résonne plus|url=https://www.lefigaro.fr/sports/football/coupe-du-monde/mondial-2022-en-islande-le-clapping-de-2016-ne-resonne-plus-20211111|author=Romain Rouillard|website=[[Le Figaro]]|date=11 November 2021|access-date=12 November 2021|archive-date=12 November 2021|archive-url=https://web.archive.org/web/20211112091347/https://www.lefigaro.fr/sports/football/coupe-du-monde/mondial-2022-en-islande-le-clapping-de-2016-ne-resonne-plus-20211111|url-status=live}}</ref>
+
+====Euro 2024 qualifiers====
+The [[UEFA Euro 2024 qualifying Group J|Euro 2024 qualifiers]] have also got off to a poor start in terms of results, with just one win and 3 defeats after 4 matches and a provisional penultimate place. Iceland were swept aside in [[Bosnia and Herzegovina national football team|Bosnia]] (0–3), before recording the biggest official victory in their history against [[Liechtenstein national football team|Liechtenstein]] (7–0). Following a long series of poor results, Icelandic coach [[Arnar Viðarsson]] was sacked<ref>{{cite web|access-date=24 June 2023|date=30 March 2023|title=L'Islande licencie Arnar Vidarsson|url=https://www.lequipe.fr/Football/Actualites/L-islande-licencie-arnar-vidarsson/1388810|website=[[L'Équipe]]}}<!-- auto-translated by Module:CS1 translator --></ref> and replaced by Norwegian [[Åge Hareide]]. Under the new coach and after two away games, Iceland hosted [[Slovakia national football team|Slovakia]] and [[Portugal national football team|Portugal]], but both matches ended in defeat. First, ''Strákarnir okkar'' lost to the Slovaks (1–2) after a crude defensive error with a direct clearance to [[Tomáš Suslov]], who scored Slovakia's 2nd goal when the teams were level. Iceland then put in a better performance than in their previous matches against group favourites Portugal, demonstrating excellent tactical organization and keeping the Lusitanians at bay for long periods. However, a goal by [[Cristiano Ronaldo]] on his 200th appearance for Portugal, initially disallowed but then validated by [[Video assistant referee|VAR]] at the very end of normal time, sealed Portugal's victory (0–1), shortly after the Nordic side had been reduced to 10 men following a second yellow card for [[Willum Þór Willumsson]]. Iceland finished 4th in their group with a disappointing record of 3 wins, 1 draw and 6 defeats, but were eligible for the [[UEFA Euro 2024 qualifying play-offs|play-offs]] thanks to their performance in the [[2022–23 UEFA Nations League B#Group 2|Nations League]]. In the [[UEFA Euro 2024 qualifying play-offs#Semi-finals 2|semi-final of the Path B play-offs]], Iceland set a benchmark against a top 100 FIFA team for the first time in several years by brushing aside [[Israel national football team|Israel]] 4–1, thanks to a hat-trick from [[Albert Guðmundsson (footballer, born 1997)|Albert Guðmundsson]], while Israel finished the match with 10 men and missed a penalty to equalise. In the decisive match against [[Ukraine national football team|Ukraine]], Iceland opened the scoring through [[Albert Guðmundsson (footballer, born 1997)|Albert Guðmundsson]] and led at half-time, but conceded 2 goals in the second half and lost (1–2) in a similar fashion to the previous Euro play-off lost in [[Budapest]] against the Hungarians.
+
+Iceland then had a complicated [[2024–25 UEFA Nations League B|2024–2025 Nations League]], as they were relegated to League C for the next edition, despite having started in the highest League (League A) for the first 2 seasons. ''Strákarnir okkar'' finished 3rd in their group, just ahead of [[Montenegro national football team|Montenegro]], whom they beat 2–0 on each occasion, but suffered 3 heavy defeats (against [[Wales national football team|Wales]] away and twice against [[Turkey national football team|Turkey]]) and a home draw against the Welsh. Iceland's penultimate place in the group means they are eligible for the [[2024–25 UEFA Nations League promotion/relegation play-offs|2024–2025 Nations League promotion/relegation play-offs]], where they face [[Kosovo national football team|Kosovo]], who finished 2nd in their League C group. Iceland lost the first leg 1–2 in [[Pristina]] and had to turn the tie around in the home leg, which was actually played on neutral ground at the [[Estadio Nueva Condomina]] in [[Murcia]], [[Spain]],<ref name=Murcia>{{cite web |url=https://www.ksi.is/um-ksi/frettir/frettasafn/frett/2024/11/29/Murcia-i-mars/ |title=Murcia í mars |trans-title=Murcia in March |publisher=[[Football Association of Iceland]] |date=29 November 2024 |access-date=10 December 2024 |language=is}}</ref> due to renovation work at [[Laugardalsvöllur]], Iceland's only stadium to UEFA standards.<ref name=standards>{{cite web |author=Sindri Sverrisson |url=https://www.visir.is/g/20242651735d/is-land-neydist-i-fyrsta-sinn-til-ad-spila-heima-leik-er-lendis |title=Ísland neyðist í fyrsta sinn til að spila heimaleik erlendis |trans-title=Iceland is forced to play a home game abroad for the first time |work=[[Vísir.is]] |date=19 November 2024 |access-date=23 November 2024 |language=is}}</ref> Deprived of this advantage and reduced to 10 men during the match, they lost again 1–3 (2–5 on aggregate) and failed to maintain their place in League B.
+
+==Team image==
+{{Commons|Iceland national football team kits}}
+[[File:Laugardalsvöllur, Iceland's national football stadium.jpg|thumb|[[Laugardalsvöllur]], Iceland's national football stadium]]
+The national team uses blue as the home colours and white as their second colours; their crest features stylized imagery of Iceland's four [[landvættir]] (''guardian spirits'') [[Icelandic folklore|in local folklore]]: a giant, a dragon, a bull, and an eagle. The team's crest was adopted in 2020 and was designed by [[Reykjavík]]-based firm Bradenburg. Previously the team had used a team crest which featured a shield-type symbol which consisted of the abbreviation of the [[Football Association of Iceland]] in Icelandic (KSI), stripes in the colors of the [[Flag of Iceland]], and a football.<ref>{{cite news |last1=Steven |first1=Rachael |title=Iceland's national football team gets a new identity |url=https://www.creativereview.co.uk/iceland-football-team-logo-rebrand/ |access-date=6 July 2020 |work=Creative Review |archive-date=6 July 2020 |archive-url=https://web.archive.org/web/20200706172152/https://www.creativereview.co.uk/iceland-football-team-logo-rebrand/ |url-status=live }}</ref><ref>{{cite magazine |title=Iceland's Goalkeeper-Film Director Makes Reveal Video for Bold New Crest |url=https://www.si.com/soccer/2020/07/01/iceland-new-crest-video-hannes-thor-halldorsson |access-date=6 July 2020 |magazine=Sports Illustrated |publisher=ABG-SI LLC |date=1 July 2020}}</ref>
+
+Iceland's supporters became known for using the [[Viking Thunder Clap]] chant in the mid-2010s, which involves fans clapping their hands above their heads and yelling "huh!" to the beat of a drum; the tradition originates from Scottish club [[Motherwell F.C.|Motherwell]]. Iceland's Viking Clap first received wider international attention during [[Euro 2016]].<ref>{{cite magazine |last1=West |first1=Jenna |title=What Does Iceland's Skol Viking Clap Mean? |url=https://www.si.com/soccer/2018/06/15/iceland-skol-clap-meaning-explained-world-cup-history |access-date=6 July 2020 |magazine=Sports Illustrated |publisher=ABG-SI LLC |date=15 June 2018}}</ref>
+
+===Kit providers===
+The official kit is produced by German sports manufacturing company [[Puma (brand)|Puma]] since 2020. Before that the kit providers were [[Umbro]] (1975), [[Adidas]] (1976–1992), ABM (1992–1996), [[Reusch (company)|Reusch]] (1996–2001) and [[Erreà]] (2002–2020)
+
+{|class="wikitable" style="text-align: left"
+|-
+!Kit provider
+!Period
+|-
+|{{Flagicon|ENG}} [[Umbro]]
+|1975
+|-
+|{{Flagicon|GER}} [[Adidas]]
+|1976–1991
+|-
+|{{Flagicon|ITA}} ABM
+|1992–1996
+|-
+|{{Flagicon|GER}} [[Reusch (company)|Reusch]]
+|1996–2001
+|-
+|{{Flagicon|ITA}} [[Erreà]]
+|2002–2020
+|-
+|{{Flagicon|GER}} [[Puma (brand)|Puma]] 
+|2020–present
+|}
+
+==Results and fixtures==
+{{main|Iceland national football team results (2020–present)}}
+The following is a list of match results in the last 12 months, as well as any future matches that have been scheduled.
+
+{{legend2|#CCFFCC|Win|border=1px solid #AAAAAA}}
+{{legend2|#FFFFCC|Draw|border=1px solid #AAAAAA}}
+{{legend2|#FFCCCC|Loss|border=1px solid #AAAAAA}}
+{{legend2|#FFFFFF|Fixture|border=1px solid #AAAAAA}}
+
+===2025===
+{{football box collapsible
+|format=1
+|date              = 5 September 2025
+|time              = {{UTZ|18:45|0}}
+|round             = [[2026 FIFA World Cup qualification – UEFA Group D|2026 FIFA World Cup qualification]]
+|team1             = {{fb-rt|ISL}}
+|score             = 5–0
+|report            = https://www.uefa.com/european-qualifiers/match/2044222/
+|team2             = {{fb|AZE}}
+|goals1            =
+*[[Victor Pálsson|Pálsson]] {{goal|45+2}}
+*[[Ísak Bergmann Jóhannesson|Jóhannesson]] {{goal|47||56}}
+*[[Albert Guðmundsson (footballer, born 1997)|Guðmundsson]] {{goal|66}}
+*[[Cəlal Hüseynov|Hüseynov]] {{goal|73|o.g.}}
+|goals2            =
+|stadium           = [[Laugardalsvöllur]]
+|location          = [[Reykjavík]], Iceland
+|attendance        = 4,021
+|referee           = Sander van der Eijk ([[Royal Dutch Football Association|Netherlands]])
+|result            = W
+}}
+{{football box collapsible
+|format=1
+|date              = 9 September 2025
+|time              = {{UTZ|20:45|2}}
+|round             = [[2026 FIFA World Cup qualification – UEFA Group D|2026 FIFA World Cup qualification]]
+|team1             = {{fb-rt|FRA}}
+|score             = 2–1
+|report            = https://www.uefa.com/european-qualifiers/match/2044252/
+|team2             = {{fb|ISL}}
+|goals1            =
+*[[Kylian Mbappé|Mbappé]] {{goal|45|pen.}}
+*[[Bradley Barcola|Barcola]] {{goal|62}}
+|goals2            =
+*[[Andri Guðjohnsen|A. Guðjohnsen]] {{goal|21}}
+|stadium           = [[Parc des Princes]]
+|location          = [[Paris]], France
+|attendance        = 40,150
+|referee           = António Nobre ([[Portuguese Football Federation|Portugal]])
+|result            = L
+}}
+{{football box collapsible
+|format=1
+|date              = 10 October 2025
+|time              = {{UTZ|18:45|0}}
+|round             = [[2026 FIFA World Cup qualification – UEFA Group D|2026 FIFA World Cup qualification]]
+|team1             = {{fb-rt|ISL}}
+|score             = 3–5
+|report            = https://www.uefa.com/european-qualifiers/match/2044270/
+|team2             = {{fb|UKR}}
+|goals1            =
+*[[Mikael Egill Ellertsson|Ellertsson]] {{goal|34}}
+*[[Albert Guðmundsson (footballer, born 1997)|Guðmundsson]] {{goal|59||75}}
+|goals2            =
+*[[Ruslan Malinovskyi|Malinovskyi]] {{goal|14||45+5}}
+*[[Oleksiy Hutsulyak|Hutsulyak]] {{goal|45}}
+*[[Ivan Kalyuzhnyi|Kalyuzhnyi]] {{goal|85}}
+*[[Oleh Ocheretko|Ocheretko]] {{goal|88}}
+|stadium           = [[Laugardalsvöllur]]
+|location          = [[Reykjavík]], Iceland
+|attendance        = 9,111
+|referee           = [[Sven Jablonski]] ([[German Football Association|Germany]])
+|result            = L
+}}
+{{football box collapsible
+|format=1
+|date              = 13 October 2025
+|time              = {{UTZ|18:45|0}}
+|round             = [[2026 FIFA World Cup qualification – UEFA Group D|2026 FIFA World Cup qualification]]
+|team1             = {{fb-rt|ISL}}
+|score             = 2–2
+|report            = https://www.uefa.com/european-qualifiers/match/2044289/
+|team2             = {{fb|FRA}}
+|goals1            =
+*[[Victor Pálsson|Pálsson]] {{goal|39}}
+*[[Kristian Hlynsson|Hlynsson]] {{goal|70}}
+|goals2            =
+*[[Christopher Nkunku|Nkunku]] {{goal|63}}
+*[[Jean-Philippe Mateta|Mateta]] {{goal|68}}
+|stadium           = [[Laugardalsvöllur]]
+|location          = [[Reykjavík]], Iceland
+|attendance        = 9,151
+|referee           = [[Orel Grinfeld]] ([[Israel Football Association|Israel]])
+|result            = D
+}}
+{{football box collapsible
+|format=1
+|date              = 13 November 2025
+|time              = {{UTZ|21:00|4}}
+|round             = [[2026 FIFA World Cup qualification – UEFA Group D|2026 FIFA World Cup qualification]]
+|team1             = {{fb-rt|AZE}}
+|score             = 0–2
+|report            = https://www.uefa.com/european-qualifiers/match/2044306/
+|team2             = {{fb|ISL}}
+|goals1            =
+|goals2            =
+*[[Albert Guðmundsson (footballer, born 1997)|Guðmundsson]] {{goal|20}}
+*[[Sverrir Ingi Ingason|Ingason]] {{goal|39}}
+|stadium           = [[Neftçi Arena]]
+|location          = [[Baku]], Azerbaijan
+|attendance        = 4,300
+|referee           = [[Nikola Dabanović]] ([[Football Association of Montenegro|Montenegro]])
+|result            = W
+}}
+{{football box collapsible
+|format=1
+|date              = 16 November 2025
+|time              = {{UTZ|18:00|1}}
+|round             = [[2026 FIFA World Cup qualification – UEFA Group D|2026 FIFA World Cup qualification]]
+|team1             = {{fb-rt|UKR}}
+|score             = 2–0
+|report            = https://www.uefa.com/european-qualifiers/match/2044330/
+|team2             = {{fb|ISL}}
+|goals1            = 
+*[[Oleksandr Zubkov|Zubkov]] {{goal|83}}
+*[[Oleksii Hutsuliak|Hutsuliak]] {{goal|90+3}}
+|goals2            =
+|stadium           = [[Polish Army Stadium]] 
+|location          = [[Warsaw]], Poland{{refn|group=note|name=UKR|Due to the [[Russian invasion of Ukraine]], Ukraine were required to play their home matches at neutral venues until further notice.<ref name="ExCo">{{cite news |url=https://www.uefa.com/news-media/news/0272-148740475a92-1b97baa3e9d7-1000/ |title=Decisions from today's extraordinary UEFA Executive Committee meeting |work=[[UEFA]] |publisher=Union of European Football Associations |date=25 February 2022 |access-date=25 February 2022}}</ref>}}
+|attendance        = 20,004
+|referee           = [[Anthony Taylor (referee)|Anthony Taylor]] ([[The Football Association|England]])
+|result            = L
+}}
+
+===2026===
+{{football box collapsible
+|format     = 1
+|round      = [[Exhibition game#Association football|Friendly]]
+|date       = 25 February 2026
+|time       = {{UTZ|20:00|-6}}
+|team1      = {{fb-rt|MEX}}
+|score      = 4–0
+|team2      = {{fb|ISL}}
+|report     = https://www.uefa.com/european-qualifiers/friendlies/match/2048036/
+|goals1     =
+*[[Richard Ledezma|Ledezma]] {{goal|22}}
+*[[Armando González (footballer, born 2003)|González]] {{goal|24}}
+*[[Jesús Gallardo|Gallardo]] {{goal|59}}
+*[[Brian Gutiérrez|Gutiérrez]] {{goal|90+2}}
+|goals2     =
+|stadium    = [[Estadio Corregidora]]
+|location   = [[Querétaro (city)|Querétaro]], Mexico
+|attendance = 34,130
+|referee    = Steven Madrigal ([[Costa Rican Football Federation|Costa Rica]])
+|result     = L
+}}
+{{football box collapsible
+|format=1
+|round = [[Exhibition game#Association football|Friendly]]
+|date = 28 March 2026
+|time = {{UTZ|13:00|-4}}
+|team1 = {{fb-rt|CAN}}
+|score = 2–2
+|report = https://www.uefa.com/european-qualifiers/friendlies/match/2047749/
+|team2 = {{fb|ISL}}
+|goals1 =
+*[[Jonathan David|David]] {{goal|67|pen.|75|pen.}}
+*[[Tajon Buchanan|Buchanan]] {{sentoff|0|80}}
+|goals2 =
+*[[Orri Óskarsson|Óskarsson]] {{goal|9||21}}
+|stadium = [[BMO Field]]
+|location = [[Toronto]], Canada
+|attendance = 26,328
+|referee = Jon Freemon ([[United States Soccer Federation|United States]])
+|result = D
+}}
+{{football box collapsible
+|format=1
+|round = [[Exhibition game#Association football|Friendly]]
+|date = 31 March 2026
+|time = {{UTZ|13:30|-4}}{{refn|group=note|The match originally scheduled for 12:30 (UTC−4), but was delayed due to bad weather.}}
+|team1 = {{fb-rt|HAI}}
+|score = 1–1
+|report = https://www.uefa.com/european-qualifiers/friendlies/match/2047754/
+|team2 = {{fb|ISL}}
+|goals1 =
+*[[Wilson Isidor|Isidor]] {{goal|88}}
+|goals2 =
+*[[Gylfi Sigurðsson|Sigurðsson]] {{goal|61}}
+|stadium = [[BMO Field]]
+|location = [[Toronto]], Canada
+|attendance = 0
+|referee = Carly Shaw-Maclaren ([[Canadian Soccer Association|Canada]])
+|result = D
+}}
+{{football box collapsible
+|format=1
+|round = [[Exhibition game#Association football|Kirin Challenge Cup 2026]]
+|date = 31 May 2026
+|time = {{UTZ|19:25|+9}}
+|team1 = {{fb-rt|JPN}}
+|score = 1–0
+|report = https://www.uefa.com/european-qualifiers/friendlies/match/2048183/
+|team2 = {{fb|ISL}}
+|goals1 =
+*[[Koki Ogawa (footballer)|Ogawa]] {{goal|87}}
+|goals2 =
+|location = [[Tokyo]], Japan
+|stadium = [[Japan National Stadium|National Stadium]]
+|attendance = 62,212
+|referee = Damian Kos ([[Polish Football Association|Poland]])
+|result = L
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[Exhibition game#Association football|Friendly]]
+|date       = 9 June 2026
+|time       = {{UTZ|20:00|-6}}
+|team1      = {{fb-rt|ARG}}
+|score      = 3–0
+|team2      = {{fb|ISL}}
+|report     = https://www.uefa.com/european-qualifiers/friendlies/match/2048202/
+|goals1     = 
+*[[Valentín Barco|Barco]] {{goal|8}}
+*[[Lionel Messi|Messi]] {{goal|72|pen.}}
+*[[Thiago Almada|Almada]] {{goal|86}}
+|goals2     =
+|location   = [[Auburn, Alabama|Auburn]], United States
+|stadium    = [[Jordan–Hare Stadium]]
+|attendance = 88,043
+|referee    = Rosendo Mendoza ([[United States Soccer Federation|United States]])
+|result     = L
+}}
+{{football box collapsible
+|format     = 1
+|date       = 26 September 2026
+|time       = {{UTZ|16:00|0}}
+|round      = [[2026–27 UEFA Nations League C#Group 4|2026–27 Nations League]]
+|score      = 
+|report     = https://www.uefa.com/uefanationsleague/match/2048019/
+|team1      = {{fb-rt|ISL}}
+|goals1     = 
+|team2      = {{fb|EST}}
+|goals2     = 
+|stadium    = [[Laugardalsvöllur]]
+|location   = [[Reykjavík]], Iceland
+|attendance = 
+|referee    = 
+|result     = 
+}}
+{{football box collapsible
+|format     = 1
+|date       = 29 September 2026
+|time       = {{UTZ|20:45|2}}
+|round      = [[2026–27 UEFA Nations League C#Group 4|2026–27 Nations League]]
+|score      = 
+|report     = https://www.uefa.com/uefanationsleague/match/2047998/
+|team1      = {{fb-rt|LUX}}
+|goals1     = 
+|team2      = {{fb|ISL}}
+|goals2     = 
+|stadium    = [[Stade de Luxembourg]]
+|location   = [[Luxembourg City]], Luxembourg
+|attendance = 
+|referee    = 
+|result     = 
+}}
+{{football box collapsible
+|format     = 1
+|date       = 3 October 2026
+|time       = {{UTZ|16:00|0}}
+|round      = [[2026–27 UEFA Nations League C#Group 4|2026–27 Nations League]]
+|score      = 
+|report     = https://www.uefa.com/uefanationsleague/match/2047969/
+|team1      = {{fb-rt|ISL}}
+|goals1     = 
+|team2      = {{fb|BUL}}
+|goals2     = 
+|stadium    = [[Laugardalsvöllur]]
+|location   = [[Reykjavík]], Iceland
+|attendance = 
+|referee    = 
+|result     = 
+}}
+{{football box collapsible
+|format     = 1
+|date       = 6 October 2026
+|time       = {{UTZ|21:45|3}}
+|round      = [[2026–27 UEFA Nations League C#Group 4|2026–27 Nations League]]
+|score      = 
+|report     = https://www.uefa.com/uefanationsleague/match/2047945/
+|team1      = {{fb-rt|EST}}
+|goals1     = 
+|team2      = {{fb|ISL}}
+|goals2     = 
+|stadium    = [[Lilleküla Stadium]]
+|location   = [[Tallinn]], Estonia
+|attendance = 
+|referee    = 
+|result     = 
+}}
+{{football box collapsible
+|format     = 1
+|date       = 13 November 2026
+|time       = {{UTZ|21:45|2}}
+|round      = [[2026–27 UEFA Nations League C#Group 4|2026–27 Nations League]]
+|score      = 
+|report     = https://www.uefa.com/uefanationsleague/match/2047882/
+|team1      = {{fb-rt|BUL}}
+|goals1     = 
+|team2      = {{fb|ISL}}
+|goals2     = 
+|location   = [[Plovdiv]], Bulgaria
+|stadium    = [[Stadion Hristo Botev (Plovdiv)|Hristo Botev Stadium]]
+|attendance = 
+|referee    = 
+|result     = 
+}}
+{{football box collapsible
+|format     = 1
+|date       = 15 November 2026
+|time       = {{UTZ|17:00|0}}
+|round      = [[2026–27 UEFA Nations League C#Group 4|2026–27 Nations League]]
+|score      = 
+|report     = https://www.uefa.com/uefanationsleague/match/2047906/
+|team1      = {{fb-rt|ISL}}
+|goals1     = 
+|team2      = {{fb|LUX}}
+|goals2     = 
+|stadium    = [[Laugardalsvöllur]]
+|location   = [[Reykjavík]], Iceland
+|attendance = 
+|referee    = 
+|result     = 
+}}
+
+==Coaching staff==
+{{See also|List of Iceland national football team managers}}
+
+{| class="wikitable"
+|-
+!style="color:white;background:blue|Position
+!style="color:white;background:blue|Name
+|-
+| Head coach
+| {{flagicon|ISL}} [[Arnar Gunnlaugsson]]
+|-
+| Assistant coach
+| {{flagicon|ISL}} Davíð Snorri Jónasson<ref>{{cite web|url=https://www.ksi.is/um-ksi/frettir/frettasafn/frett/2024/05/22/David-Snorri-radinn-adstodarthjalfari-A-landslids-karla/|title=Davíð Snorri ráðinn aðstoðarþjálfari A landsliðs karla|trans-title=Davíð Snorri appointed assistant coach of the A men's national team|publisher=[[Football Association of Iceland]]|date=22 May 2024|access-date=22 May 2024|language=is}}</ref>
+|-
+| Technical advisor
+| {{flagicon|ISL}} Bjarni Jakobsson
+|-
+|Training coach
+| {{flagicon|ISL}} Birkir Eyjólfsson
+|-
+|Fitness coach 
+| {{flagicon|ISL}} Ari Þór Örlygsson
+|-
+|First-Team Doctor 
+| {{flagicon|ISL}} Jóhannes Rúnarsson
+|-
+|Goalkeeper coach 
+| {{flagicon|ISL}} [[Halldór Björnsson]]
+|-
+|Athletic coach 
+| {{flagicon|ISL}} Arnór Snær Guðmundsson
+|-
+|Physiotherapist
+| {{flagicon|ISL}} Sverrir Sigþórsson
+|-
+|}
+
+==Players==
+===Current squad===
+The following players were selected for the [[Exhibition game#International football|friendly]] match against [[Argentina national football team|Argentina]] on 9 June 2026.<ref>{{cite news |title=Hópar A karla fyrir leiki gegn Japan og Argentínu |url=https://www.ksi.is/um-ksi/frettir/landslid/hopar-a-karla-fyrir-leiki-gegn-japan-og-argentinu/ |access-date=31 May 2026 |publisher=Knattspyrnusamband Íslands |date=13 May 2026 |language=Icelandic}}</ref>
+
+''Caps and goals are correct as of 9 June 2026, after the match against [[Argentina national football team|Argentina]].''<ref>{{Cite web|url=https://eu-football.info/_players.php?id=103&data=9|title=Most Iceland Caps - EU-Football.info|website=eu-football.info|access-date=9 June 2022}}</ref>
+
+{{nat fs g start}}
+{{nat fs g player|no=|pos=GK|name=[[Hákon Valdimarsson]]|age={{birth date and age|2001|10|13|df=y}}|caps=22|goals=0|club=[[Brentford F.C.|Brentford]]|clubnat=ENG}}
+{{nat fs g player|no=|pos=GK|name=[[Elías Rafn Ólafsson]]|age={{birth date and age|df=yes|2000|3|11}}|caps=15|goals=0|club=[[FC Midtjylland|Midtjylland]]|clubnat=DEN}}
+{{nat fs g player|no=|pos=GK|name=[[Anton Ari Einarsson]]|age={{birth date and age|1994|8|25|df=y}}|caps=2|goals=0|club=[[Breiðablik men's football|Breiðablik]]|clubnat=ISL}}
+{{nat fs g break}}
+{{nat fs g player|no=|pos=DF|name=[[Aron Gunnarsson]]|age={{birth date and age|df=yes|1989|4|22}}|caps=110|goals=5|club=[[Al-Gharafa SC|Al-Gharafa]]|clubnat=QAT}}
+{{nat fs g player|no=|pos=DF|name=[[Victor Pálsson]]|age={{birth date and age|df=yes|1991|4|30}}|caps=58|goals=5|club=[[AC Horsens|Horsens]]|clubnat=DEN}}
+{{nat fs g player|no=|pos=DF|name=[[Hörður Björgvin Magnússon]]|age={{birth date and age|1993|2|11|df=y}}|caps=54|goals=2|club=[[Levadiakos F.C.|Levadiakos]]|clubnat=GRE}}
+{{nat fs g player|no=|pos=DF|name=[[Hjörtur Hermannsson]]|age={{birth date and age|df=yes|1995|2|8}}|caps=31|goals=0|club=[[Volos F.C.|Volos]]|clubnat=GRE}}
+{{nat fs g player|no=|pos=DF|name=[[Daníel Leó Grétarsson]]|age={{birth date and age|1995|10|2|df=y}}|caps=31|goals=0|club=[[Sønderjyske Fodbold|Sønderjyske]]|clubnat=DEN}}
+{{nat fs g player|no=|pos=DF|name=[[Mikael Egill Ellertsson]]|age={{birth date and age|2002|3|11|df=y}}|caps=31|goals=2|club=[[Genoa CFC|Genoa]]|clubnat=ITA}}
+{{nat fs g player|no=|pos=DF|name=[[Logi Tómasson]]|age={{birth date and age|2000|9|13|df=y}}|caps=16|goals=1|club=[[Samsunspor]]|clubnat=TUR}}
+{{nat fs g player|no=|pos=DF|name=[[Dagur Dan Þórhallsson]]|age={{birth date and age|2000|5|2|df=y}}|caps=10|goals=0|club=[[CF Montréal]]|clubnat=CAN}}
+{{nat fs g break}}
+{{nat fs g player|no=|pos=MF|name=[[Gylfi Sigurðsson]]|age={{birth date and age|df=yes|1989|9|8}}|caps=86|goals=28|club=[[Knattspyrnufélagið Víkingur|Víkingur Reykjavík]]|clubnat=ISL}}
+{{nat fs g player|no=|pos=MF|name=[[Jón Dagur Þorsteinsson]]|age={{birth date and age|df=yes|1998|11|26}}|caps=55|goals=6|club=[[SK Brann|Brann]]|clubnat=NOR}}
+{{nat fs g player|no=|pos=MF|name=[[Ísak Jóhannesson]]|age={{birth date and age|2003|3|23|df=y}}|caps=44|goals=6|club=[[1. FC Köln]]|clubnat=GER}}
+{{nat fs g player|no=|pos=MF|name=[[Arnór Sigurðsson]]|age={{birth date and age|df=yes|1999|5|15}}|caps=36|goals=2|club=[[Kalamata F.C.|Kalamata]]|clubnat=GRE}}
+{{nat fs g player|no=|pos=MF|name=[[Hákon Haraldsson]]|age={{birth date and age|2003|4|10|df=y}}|caps=31|goals=3|club=[[Lille OSC|Lille]]|clubnat=FRA}}
+{{nat fs g player|no=|pos=MF|name=[[Andri Baldursson]]|age={{birth date and age|df=yes|2002|1|10}}|caps=14|goals=0|club=[[Kasımpaşa S.K.|Kasımpaşa]]|clubnat=TUR}}
+{{nat fs g player|no=|pos=MF|name=[[Kristian Hlynsson]]|age={{birth date and age|2004|1|23|df=y}}|caps=13|goals=2|club=[[FC Twente|Twente]]|clubnat=NED}}
+{{nat fs g player|no=|pos=MF|name=[[Kristall Máni Ingason]]|age={{birth date and age|2002|1|18|df=y}}|caps=9|goals=0|club=[[SK Brann|Brann]]|clubnat=NOR}}
+{{nat fs g player|no=|pos=MF|name=[[Gísli Þórðarson]]|age={{birth date and age|2004|9|12|df=y}}|caps=4|goals=0|club=[[Lech Poznań]]|clubnat=POL}}
+{{nat fs g break}}
+{{nat fs g player|no=|pos=FW|name=[[Albert Guðmundsson (footballer, born 1997)|Albert Guðmundsson]]|age={{birth date and age|df=yes|1997|6|15}}|caps=47|goals=14|club=[[ACF Fiorentina|Fiorentina]]|clubnat=ITA}}
+{{nat fs g player|no=|pos=FW|name=[[Orri Óskarsson]]|age={{birth date and age|2004|8|29|df=y}}|caps=18|goals=9|club=[[Real Sociedad]]|clubnat=ESP}}
+{{nat fs g player|no=|pos=FW|name=[[Daníel Guðjohnsen]]|age={{birth date and age|2006|3|1|df=y}}|caps=6|goals=0|club=[[Malmö FF|Malmö]]|clubnat=SWE}}
+{{nat fs g end}}
+<!---
+
+--->
+
+===Recent call-ups===
+The following players have also been called up to the Iceland squad in the last twelve months.
+<!--Sorted by position, most recent call-up, caps, goals and first name.-->
+{{nat fs r start}}
+{{nat fs r player|no=|pos=GK|name=[[Ögmundur Kristinsson (footballer, born 1989)|Ögmundur Kristinsson]]|age={{birth date and age|1989|06|19|df=yes}}|caps=19|goals=0|club=[[Valur (men's football)|Valur]]|clubnat=ISL|latest=v. {{fb|JAP}}, 31 May 2026}}
+{{nat fs r player|no=|pos=GK|name=[[Adam Ingi Benediktsson]]|age={{birth date and age|2002|10|28|df=y}}|caps=0|goals=0|club=[[Akademisk Boldklub|AB]]|clubnat=DEN|latest=v. {{fb|JAP}}, 31 May 2026}}
+{{nat fs r player|no=|pos=GK|name=Viktor Freyr Sigurðsson|age={{birth date and age|2000|7|10|df=y}}|caps=0|goals=0|club=[[Knattspyrnufélagið Fram|Fram]]|clubnat=ISL|latest=v. {{fb|MEX}}, 26 February 2026}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=DF|name=[[Sverrir Ingi Ingason]]|age={{birth date and age|df=yes|1993|8|5}}|caps=66|goals=4|club=[[Panathinaikos F.C.|Panathinaikos]]|clubnat=GRE|latest=v. {{fb|JAP}}, 31 May 2026 <sup>WD</sup>}}
+{{nat fs r player|no=|pos=DF|name=[[Alfons Sampsted]]|age={{birth date and age|1998|04|06|df=yes}}|caps=23|goals=0|club=[[Go Ahead Eagles]]|clubnat=NED|latest=v. {{fb|JAP}}, 31 May 2026}}
+{{nat fs r player|no=|pos=DF|name=[[Valgeir Lunddal Friðriksson]]|age={{birth date and age|2001|9|24|df=y}}|caps=16|goals=0|club=[[Fortuna Düsseldorf]]|clubnat=GER|latest=v. {{fb|JAP}}, 31 May 2026}}
+{{nat fs r player|no=|pos=DF|name=[[Guðmundur Þórarinsson]]|age={{birth date and age|1992|4|15|df=y}}|caps=16|goals=0|club=[[Íþróttabandalag Akraness|ÍA]]|clubnat=ISL|latest=v. {{fb|MEX}}, 26 February 2026}}
+{{nat fs r player|no=|pos=DF|name=[[Höskuldur Gunnlaugsson]]|age={{birth date and age|1994|9|26|df=y}}|caps=9|goals=0|club=[[Breiðablik men's football|Breiðablik]]|clubnat=ISL|latest=v. {{fb|MEX}}, 26 February 2026}}
+{{nat fs r player|no=|pos=DF|name=[[Guðmundur Kristjánsson]]|age={{birth date and age|1989|3|1|df=y}}|caps=7|goals=0|club=[[Stjarnan (men's football)|Stjarnan]]|clubnat=ISL|latest=v. {{fb|MEX}}, 26 February 2026}}
+{{nat fs r player|no=|pos=DF|name=[[Damir Muminovic]]|age={{birth date and age|1990|5|13|df=y}}|caps=7|goals=0|club=[[Grindavík (men's football)|Grindavík]]|clubnat=ISL|latest=v. {{fb|MEX}}, 26 February 2026}}
+{{nat fs r player|no=|pos=DF|name=Karl Friðleifur Gunnarsson|age={{birth date and age|2001|7|6|df=y}}|caps=1|goals=0|club=[[Knattspyrnufélagið Víkingur|Víkingur Reykjavík]]|clubnat=ISL|latest=v. {{fb|MEX}}, 26 February 2026}}
+{{nat fs r player|no=|pos=DF|name=Hans Viktor Guðmundsson|age={{birth date and age|1996|9|9|df=y}}|caps=1|goals=0|club=[[Knattspyrnufélag Akureyrar|KA]]|clubnat=ISL|latest=v. {{fb|MEX}}, 26 February 2026}}
+{{nat fs r player|no=|pos=DF|name=[[Bjarki Steinn Bjarkason]]|age={{birth date and age|df=yes|2000|5|11}}|caps=7|goals=0|club=[[Venezia FC|Venezia]]|clubnat=ITA|latest=v. {{fb|UKR}}, 16 November 2025}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=MF|name=[[Stefán Teitur Þórðarson]]|age={{birth date and age|1998|10|16|df=y}}|caps=37|goals=1|club=[[Hannover 96]]|clubnat=GER|latest=v. {{fb|JAP}}, 31 May 2026}}
+{{nat fs r player|no=|pos=MF|name=[[Willum Þór Willumsson]]|age={{birth date and age|1998|10|23|df=y}}|caps=19|goals=0|club=[[NEC Nijmegen|NEC]]|clubnat=NED|latest=v. {{fb|JAP}}, 31 May 2026}}
+{{nat fs r player|no=|pos=MF|name=[[Mikael Anderson]]|age={{birth date and age|df=yes|1998|7|1}}|caps=39|goals=2|club=[[Djurgårdens IF Fotboll|Djurgården]]|clubnat=SWE|latest=v. {{fb|HAI}}, 31 March 2026}}
+{{nat fs r player|no=|pos=MF|name=[[Jóhann Berg Guðmundsson]]|age={{birth date and age|df=yes|1990|10|27}}|caps=102|goals=8|club=[[Free agent|Unattached]]|clubnat=|latest=v. {{fb|MEX}}, 26 February 2026}}
+{{nat fs r player|no=|pos=MF|name=[[Aron Elís Þrándarson]]|age={{birth date and age|1994|11|10|df=y}}|caps=17|goals=1|club=[[Knattspyrnufélagið Víkingur|Víkingur Reykjavík]]|clubnat=ISL|latest=v. {{fb|MEX}}, 25 February 2026 <sup>WD</sup>}}
+{{nat fs r player|no=|pos=MF|name=[[Aron Sigurðarson]]|age={{birth date and age|1993|10|8|df=y}}|caps=8|goals=2|club=[[Knattspyrnufélag Reykjavíkur|KR]]|clubnat=ISL|latest=v. {{fb|MEX}}, 25 February 2026 <sup>WD</sup>}}
+{{nat fs r player|no=|pos=MF|name=[[Kolbeinn Þórðarson]]|age={{birth date and age|2000|3|12|df=y}}|caps=3|goals=0|club=[[IFK Göteborg]]|clubnat=SWE|latest=v. {{fb|MEX}}, 26 February 2026}}
+{{nat fs r player|no=|pos=MF|name=[[Birnir Snær Ingason]]|age={{birth date and age|1996|12|4|df=y}}|caps=2|goals=0|club=[[Stjarnan (men's football)|Stjarnan]]|clubnat=ISL|latest=v. {{fb|MEX}}, 26 February 2026}}
+{{nat fs r player|no=|pos=MF|name=[[Daníel Hafsteinsson]]|age={{birth date and age|1999|11|12|df=y}}|caps=2|goals=0|club=[[Knattspyrnufélagið Víkingur|Víkingur Reykjavík]]|clubnat=ISL|latest=v. {{fb|MEX}}, 26 February 2026}}
+{{nat fs r player|no=|pos=MF|name=Hallgrímur Mar Steingrímsson|age={{birth date and age|1990|10|2|df=y}}|caps=1|goals=0|club=[[Knattspyrnufélag Akureyrar|KA]]|clubnat=ISL|latest=v. {{fb|MEX}}, 26 February 2026}}
+{{nat fs r player|no=|pos=MF|name=Baldur Kári Helgason|age={{birth date and age|2005|2|8|df=y}}|caps=1|goals=0|club=[[FH (men's football)|FH]]|clubnat=ISL|latest=v. {{fb|MEX}}, 26 February 2026}}
+{{nat fs r player|no=|pos=MF|name=[[Haukur Andri Haraldsson]]|age={{birth date and age|2005|8|24|df=y}}|caps=0|goals=0|club=[[Íþróttabandalag Akraness|ÍA]]|clubnat=ISL|latest=v. {{fb|MEX}}, 26 February 2026}}
+{{nat fs r player|no=|pos=MF|name=[[Eggert Aron Guðmundsson]]|age={{birth date and age|df=yes|2004|2|8}}|caps=2|goals=0|club=[[SK Brann|Brann]]|clubnat=NOR|latest=v. {{fb|UKR}}, 16 November 2025}}
+{{nat fs r player|no=|pos=MF|name=[[Þórir Jóhann Helgason]]|age={{birth date and age|2000|9|28|df=y}}|caps=20|goals=2|club=[[US Lecce|Lecce]]|clubnat=ITA|latest=v. {{fb|FRA}}, 13 October 2025}} 
+{{nat fs r player|no=|pos=MF|name=[[Arnór Ingvi Traustason]]|age={{birth date and age|df=yes|1993|4|30}}|caps=67|goals=6|club=[[Knattspyrnufélag Reykjavíkur|KR Reykjavík]]|clubnat=ISL|latest=v. {{fb|NIR}}, 10 June 2025}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=FW|name=[[Brynjólfur Willumsson]]|age={{birth date and age|2000|8|12|df=y}}|caps=10|goals=1|club=[[FC Groningen|Groningen]]|clubnat=NED|latest=v. {{fb|JAP}}, 31 May 2026}}
+{{nat fs r player|no=|pos=FW|name=[[Ísak Snær Þorvaldsson]]|age={{birth date and age|2005|08|03|df=yes}}|caps=7|goals=1|club=[[Lyngby Boldklub|Lyngby]]|clubnat=DEN|latest=v. {{fb|JAP}}, 31 May 2026}}
+{{nat fs r player|no=|pos=FW|name=[[Stefán Ingi Sigurðarson]]|age={{birth date and age|2001|01|27|df=yes}}|caps=1|goals=0|club=[[Go Ahead Eagles]]|clubnat=NED|latest=v. {{fb|JAP}}, 31 May 2026}}
+{{nat fs r player|no=|pos=FW|name=[[Benoný Breki Andrésson]]|age={{birth date and age|2005|08|03|df=yes}}|caps=1|goals=0|club=[[Stockport County F.C.|Stockport County]]|clubnat=ENG|latest=v. {{fb|JAP}}, 31 May 2026}}
+{{nat fs r player|no=|pos=FW|name=[[Viktor Daðason]]|age={{birth date and age|2008|06|30|df=yes}}|caps=0|goals=0|club=[[F.C. Copenhagen|Copenhagen]]|clubnat=DEN|latest=v. {{fb|JAP}}, 31 May 2026 <sup>INJ</sup>}}
+{{nat fs r player|no=|pos=FW|name=[[Emil Atlason]]|age={{birth date and age|1993|7|22|df=y}}|caps=1|goals=0|club=[[Stjarnan (men's football)|Stjarnan]]|clubnat=ISL|latest=v. {{fb|MEX}}, 26 February 2026}}
+{{nat fs r player|no=|pos=FW|name=Óskar Borgþórsson|age={{birth date and age|2003|7|15|df=y}}|caps=1|goals=0|club=[[Knattspyrnufélagið Víkingur|Víkingur Reykjavík]]|clubnat=ISL|latest=v. {{fb|MEX}}, 26 February 2026}}
+{{nat fs r player|no=|pos=FW|name=Helgi Guðjónsson|age={{birth date and age|1999|8|4|df=y}}|caps=1|goals=0|club=[[Knattspyrnufélagið Víkingur|Víkingur Reykjavík]]|clubnat=ISL|latest=v. {{fb|MEX}}, 26 February 2026}}
+{{nat fs r player|no=|pos=FW|name=Ágúst Orri Þorsteinsson|age={{birth date and age|2005|1|14|df=y}}|caps=1|goals=0|club=[[Breiðablik men's football|Breiðablik]]|clubnat=ISL|latest=v. {{fb|MEX}}, 26 February 2026}}
+{{nat fs r player|no=|pos=FW|name=[[Valdimar Þór Ingimundarson]]|age={{birth date and age|1999|4|28|df=y}}|caps=2|goals=0|club=[[Knattspyrnufélagið Víkingur|Víkingur Reykjavík]]|clubnat=ISL|latest=v. {{fb|MEX}}, 25 February 2026 <sup>WD</sup>}}
+{{nat fs r player|no=|pos=FW|name=[[Andri Guðjohnsen]]|age={{birth date and age|2002|1|29|df=y}}|caps=39|goals=10|club=[[Blackburn Rovers F.C.|Blackburn Rovers]]|clubnat=ENG|latest=v. {{fb|UKR}}, 16 November 2025}}
+{{nat fs r player|no=|pos=FW|name=[[Sævar Atli Magnússon]]|age={{birth date and age|2000|6|16|df=y}}|caps=9|goals=0|club=[[SK Brann|Brann]]|clubnat=NOR|latest=v. {{fb|FRA}}, 13 October 2025}} 
+{{nat fs break}}
+<sup>INJ</sup> Withdrew due to injury.<br>
+<sup>RET</sup> Retired from the national team.<br>
+<sup>SUS</sup> Serving suspension.<br>
+<sup>WD</sup> Withdrew from the squad due to non-injury issue.
+{{nat fs end}}
+
+==Records==
+{{updated|9 June 2026.}}<ref>{{cite web |title=Leikmenn - Knattspyrnusamband Íslands |url=https://www.ksi.is/mot/tolfraedi/leikmenn/?yearfrom=1912&yearto=2025&felag=136924&deildir=116&kyn=1 |publisher=[[KSÍ]] |access-date=25 March 2021 |language=is |archive-date=7 November 2021 |archive-url=https://web.archive.org/web/20211107121739/https://www.ksi.is/mot/tolfraedi/leikmenn/?yearfrom=1912&yearto=2025&felag=136924&deildir=116&kyn=1 |url-status=live }}</ref><ref>{{cite web |last1=Nygård |first1=Jostein |title=Iceland - Record International Players |url=https://www.rsssf.org/miscellaneous/ijs-recintlp.html |website=RSSSF |access-date=4 February 2023 |archive-date=5 April 2023 |archive-url=https://web.archive.org/web/20230405091809/https://www.rsssf.org/miscellaneous/ijs-recintlp.html |url-status=live }}</ref>
+:''Players in '''bold''' are still active with Iceland.''
+
+===Most appearances===
+[[File:Birkir Bjarnason 2018.jpg|upright=1|thumb|Birkir Bjarnason is Iceland's all-time most capped player with 113 appearances.]]
+
+{|class="wikitable sortable" style="text-align:center;"
+|-
+!width=30px|Rank
+!width=180px|Player
+!width=50px|Caps
+!width=50px|Goals
+!width=100px|Career
+|-
+|1
+|align="left"|[[Birkir Bjarnason]]
+|113
+|15
+|2010–2022
+|-
+|2
+|align="left"|'''[[Aron Gunnarsson]]'''
+|110
+|5
+|2008–present
+|-
+|3
+|align="left"|[[Rúnar Kristinsson]]
+|104
+|3
+|1987–2004
+|-
+|4
+|align="left"|[[Birkir Már Sævarsson]]
+|103
+|3
+|2007–2021
+|-
+|5
+|align="left"|'''[[Jóhann Berg Guðmundsson]]'''
+|102
+|8
+|2008–present
+|-
+|6
+|align="left"|[[Ragnar Sigurðsson]]
+|97
+|5
+|2007–2020
+|-
+|7
+|align="left" |[[Kári Árnason (footballer, born 1982)|Kári Árnason]]
+|90
+|6
+|2005–2021
+|-
+|8
+|align="left"|[[Hermann Hreiðarsson]]
+|89
+|5
+|1996–2011
+|-
+|9
+|align="left"|[[Eiður Guðjohnsen]]
+|88
+|26
+|1996–2016
+|-
+|10
+| align="left" |'''[[Gylfi Sigurðsson]]'''
+|86
+|28
+|2010–present
+|}
+
+===Top goalscorers===
+[[File:ISL-HRV (21) (cropped).jpg|upright=1|thumb|Gylfi Sigurðsson is Iceland's all-time top scorer with 28 goals.]]
+
+{|class="wikitable sortable" style="text-align:center;"
+|-
+!width=30px|Rank
+!width=180px|Player
+!width=50px|Goals
+!width=50px|Caps
+!width=50px|Ratio
+!width=100px|Career
+|-
+|1
+|style="text-align:left;"|'''[[Gylfi Sigurðsson]]'''
+|28
+|86
+|{{#expr:28/86 round 2}}
+|2010–present
+|-
+|rowspan=2|2
+|style="text-align:left;"|[[Kolbeinn Sigþórsson]]
+|26
+|64
+|{{#expr:26/64 round 2}}
+|2010–2021
+|-
+|style="text-align:left;"|[[Eiður Guðjohnsen]]
+|26
+|88
+|{{#expr:26/88 round 2}}
+|1996–2016
+|-
+|4
+|style="text-align:left;"|[[Alfreð Finnbogason]]
+|18
+|73
+|{{#expr:18/73 round 2}}
+|2010–2023
+|-
+|5
+|style="text-align:left;"|[[Ríkharður Jónsson]]
+|17
+|33
+|{{#expr:17/33 round 2}}
+|1947–1965
+|-
+|6
+|style="text-align:left;"|[[Birkir Bjarnason]]
+|15
+|113
+|{{#expr:15/113 round 2}}
+|2010–2022
+|-
+|rowspan=3|7
+|style="text-align:left;"|[[Ríkharður Daðason]]
+|14
+|44
+|{{#expr:14/44 round 2}}
+|1991–2004
+|-
+|style="text-align:left;"|'''[[Albert Guðmundsson (footballer, born 1997)|Albert Guðmundsson]]'''
+|14
+|47
+|{{#expr:14/47 round 2}}
+|2017–present
+|-
+|style="text-align:left;"|[[Arnór Guðjohnsen]]
+|14
+|73
+|{{#expr:14/73 round 2}}
+|1979–1997
+|-
+|10
+|style="text-align:left;"|[[Þórður Guðjónsson]]
+|13
+|58
+|{{#expr:13/58 round 2}}
+|1993–2004
+|}
+
+==Competitive record==
+{{For|the all-time record of the national team against opposing nations|Iceland national football team head to head}}
+
+===FIFA World Cup===
+{{main|Iceland at the FIFA World Cup}}
+
+{| class="wikitable sortable" style="text-align: center;"
+|- style="color:#02529C;"
+! colspan="10" style="background:#FFFFFF;" |[[FIFA World Cup]] record
+! style="width:1%; background:#02529C;" rowspan=25|
+! colspan="6" style="background:#FFFFFF;" |[[FIFA World Cup qualification|Qualification]] record
+|-
+!Year
+!Round
+!Position
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!Squad
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+|-
+|{{flagicon|Uruguay}} [[1930 FIFA World Cup|1930]] to {{flagicon|Brazil|1889}} [[1950 FIFA World Cup|1950]]
+|colspan=9|''Not a FIFA member''
+|colspan=6|''Not a FIFA member''
+|-
+|{{flagicon|Switzerland}} [[1954 FIFA World Cup|1954]]
+|colspan=9|''Did not enter''
+|colspan=6|''Did not enter''
+|-
+|{{flagicon|Sweden}} [[1958 FIFA World Cup|1958]]
+| colspan="9" |''Did not qualify''
+| 4
+| 0
+| 0
+| 4
+| 6
+| 26
+|-
+|{{flagicon|Chile}} [[1962 FIFA World Cup|1962]]|| colspan="9" rowspan="3" |''Did not enter''
+|colspan=6 rowspan=3|''Did not enter''
+|-
+|{{flagicon|England}} [[1966 FIFA World Cup|1966]]
+|-
+|{{flagicon|Mexico}} [[1970 FIFA World Cup|1970]]
+|-
+|{{flagicon|West Germany}} [[1974 FIFA World Cup|1974]]
+| colspan="9" rowspan="11" |''Did not qualify''
+| 6
+| 0
+| 0
+| 6
+| 2
+| 29
+|-
+|{{flagicon|Argentina}} [[1978 FIFA World Cup|1978]]
+| 6
+| 1
+| 0
+| 5
+| 2
+| 12
+|-
+|{{flagicon|Spain}} [[1982 FIFA World Cup|1982]]
+| 8
+| 2
+| 2
+| 4
+| 10
+| 21
+|-
+|{{flagicon|Mexico}} [[1986 FIFA World Cup|1986]]
+| 6
+| 1
+| 0
+| 5
+| 4
+| 10
+|-
+|{{flagicon|Italy|1946}} [[1990 FIFA World Cup|1990]]
+| 8
+| 1
+| 4
+| 3
+| 6
+| 11
+|-
+|{{flagicon|United States}} [[1994 FIFA World Cup|1994]]
+| 8
+| 3
+| 2
+| 3
+| 7
+| 6
+|-
+|{{flagicon|France|1974}} [[1998 FIFA World Cup|1998]]
+| 10
+| 2
+| 3
+| 5
+| 11
+| 16
+|-
+|{{flagicon|South Korea|1997}} {{flagicon|Japan}} [[2002 FIFA World Cup|2002]]
+| 10
+| 4
+| 1
+| 5
+| 14
+| 20
+|-
+|{{flagicon|Germany}} [[2006 FIFA World Cup|2006]]
+| 10
+| 1
+| 1
+| 8
+| 14
+| 27
+|-
+|{{flagicon|South Africa}} [[2010 FIFA World Cup|2010]]
+| 8
+| 1
+| 2
+| 5
+| 7
+| 13
+|-
+|{{flagicon|Brazil}} [[2014 FIFA World Cup|2014]]
+| 12
+| 5
+| 3
+| 4
+| 17
+| 17
+|-
+|{{flagicon|Russia}} [[2018 FIFA World Cup|2018]]
+| Group stage
+| 28th
+| 3
+| 0
+| 1
+| 2
+| 2
+| 5
+|[[2018 FIFA World Cup squads#Iceland|Squad]]
+| 10
+| 7
+| 1
+| 2
+| 16
+| 7
+|-
+|{{flagicon|Qatar}} [[2022 FIFA World Cup|2022]]
+| colspan="9" rowspan="2"|''Did not qualify''
+|10
+|2
+|3
+|5
+|12
+|18
+|-
+|{{flagicon|Canada}} {{flagicon|Mexico}} {{flagicon|United States}} [[2026 FIFA World Cup|2026]]
+|6
+|2
+|1
+|3
+|13
+|11
+|-
+|{{flagicon|Morocco}} {{flagicon|Portugal}} {{flagicon|Spain}} [[2030 FIFA World Cup|2030]]
+| colspan="9" rowspan="2" |'' To be determined '' 
+| colspan="6" rowspan="2" |'' To be determined '' 
+|-
+|{{flagicon|Saudi Arabia}} [[2034 FIFA World Cup|2034]]
+|-
+|-style="color:#02529C;"
+! style="background:#FFFFFF;"|Total
+! style="background:#FFFFFF;"|Group stage
+! style="background:#FFFFFF;"|{{Tooltip|1/18|Number of tournaments qualified for}}
+! style="background:#FFFFFF;"|3
+! style="background:#FFFFFF;"|0
+! style="background:#FFFFFF;"|1
+! style="background:#FFFFFF;"|2
+! style="background:#FFFFFF;"|2
+! style="background:#FFFFFF;"|5
+!—
+! style="background:#FFFFFF;"|122
+! style="background:#FFFFFF;"|32
+! style="background:#FFFFFF;"|23
+! style="background:#FFFFFF;"|67
+! style="background:#FFFFFF;"|141
+! style="background:#FFFFFF;"|244
+|}
+
+{| class="wikitable sortable collapsible collapsed" style="text-align: center;font-size:90%;"
+|- style="color:#02529C;"
+! style="background:#FFFFFF;" colspan=7|List of FIFA World Cup matches
+|-
+!Year!!Round!!Opponent!!Score!!Result!!Date!!Venue
+|-
+|rowspan=5|[[2018 FIFA World Cup|2018]]
+|rowspan=3|[[2018 FIFA World Cup Group D|Group D]]||align="left"|{{fb|ARG}}||'''1–1'''||bgcolor="#FFFF99"|'''Draw'''||16 June 2018||[[Moscow]], [[Russia]]
+|-
+|align="left"|{{fb|NGA}}||'''0–2'''|| rowspan="2" bgcolor="#FFBBBB" |'''Loss'''||22 June 2018||[[Volgograd]], [[Russia]]
+|-
+|align="left"|{{fb|CRO}}||'''1–2'''||26 June 2018||[[Rostov-on-Don]], [[Russia]]
+|}
+
+===UEFA European Championship===
+{{main|Iceland at the UEFA European Championship}}
+
+{| class="wikitable sortable" style="text-align: center;"
+|- style="color:#02529C;"
+! colspan="10" style="background:#FFFFFF;" |[[UEFA European Championship]] record
+! style="width:1%; background:#02529C;" rowspan=22|
+! colspan="6" style="background:#FFFFFF;" |[[UEFA European Championship qualifying|Qualifying]] record
+|-
+!Year
+!Round
+!Position
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!Squad
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+|-
+|{{flagicon|France}} [[1960 European Nations' Cup|1960]]
+| colspan="9" |''Did not enter''
+|colspan=6|''Did not enter''
+|-
+|{{flagicon|Spain|1945}} [[1964 European Nations' Cup|1964]]
+| colspan="9" |''Did not qualify''
+| 2
+| 0
+| 1
+| 1
+| 3
+| 5
+|-
+|{{flagicon|Italy}} [[UEFA Euro 1968|1968]]
+| colspan="9" rowspan="2" |''Did not enter''
+|colspan=6 rowspan=2|''Did not enter''
+|-
+|{{flagicon|Belgium}} [[UEFA Euro 1972|1972]]
+|-
+|{{flagicon|Yugoslavia}} [[UEFA Euro 1976|1976]]
+| colspan="9" rowspan="10" |''Did not qualify''
+| 6
+| 1
+| 2
+| 3
+| 3
+| 8
+|-
+|{{flagicon|Italy}} [[UEFA Euro 1980|1980]]
+| 8
+| 0
+| 0
+| 8
+| 2
+| 21
+|-
+|{{flagicon|France|1974}} [[UEFA Euro 1984|1984]]
+| 8
+| 1
+| 1
+| 6
+| 3
+| 13
+|-
+|{{flagicon|West Germany}} [[UEFA Euro 1988|1988]]
+| 8
+| 2
+| 2
+| 4
+| 4
+| 14
+|-
+|{{flagicon|Sweden}} [[UEFA Euro 1992|1992]]
+| 8
+| 2
+| 0
+| 6
+| 7
+| 10
+|-
+|{{flagicon|England}} [[UEFA Euro 1996|1996]]
+| 8
+| 1
+| 2
+| 5
+| 3
+| 12
+|-
+|{{flagicon|Belgium}} {{flagicon|Netherlands}} [[UEFA Euro 2000|2000]]
+| 10
+| 4
+| 3
+| 3
+| 12
+| 7
+|-
+|{{flagicon|Portugal}} [[UEFA Euro 2004|2004]]
+| 8
+| 4
+| 1
+| 3
+| 11
+| 9
+|-
+|{{flagicon|Austria}} {{flagicon|Switzerland}} [[UEFA Euro 2008|2008]]
+| 12
+| 2
+| 2
+| 8
+| 10
+| 27
+|-
+|{{flagicon|Poland}} {{flagicon|Ukraine}} [[UEFA Euro 2012|2012]]
+| 8
+| 1
+| 1
+| 6
+| 6
+| 14
+|-
+|{{flagicon|France|1974}} [[UEFA Euro 2016|2016]]
+|Quarter-finals
+|8th
+|5
+|2
+|2
+|1
+|8
+|9
+|[[UEFA Euro 2016 squads#Iceland|Squad]]
+|10
+|6
+|2
+|2
+|17
+|6
+|-
+|{{flagicon|Europe}} [[UEFA Euro 2020|2020]]
+| colspan="9" rowspan="2" |''Did not qualify''
+|12
+|7
+|1
+|4
+|17
+|14
+|-
+|{{flagicon|Germany}} [[UEFA Euro 2024|2024]]
+|12
+|4
+|1
+|7
+|22
+|19
+|-
+|{{flagicon|United Kingdom}} {{flagicon|Ireland}} [[UEFA Euro 2028|2028]]
+| colspan="9" rowspan="2" |''To be determined''
+| colspan="6" rowspan="2" |''To be determined''
+|-
+|{{flagicon|Italy}} {{flagicon|Turkey}} [[UEFA Euro 2032|2032]]
+|-
+|-style="color:#02529C;"
+! style="background:#FFFFFF;"|Total
+! style="background:#FFFFFF;"|Quarter-finals
+! style="background:#FFFFFF;"|1/14
+! style="background:#FFFFFF;"|5
+! style="background:#FFFFFF;"|2
+! style="background:#FFFFFF;"|2
+! style="background:#FFFFFF;"|1
+! style="background:#FFFFFF;"|8
+! style="background:#FFFFFF;"|9
+!'''–'''
+! style="background:#FFFFFF;" |110
+! style="background:#FFFFFF;"|35
+! style="background:#FFFFFF;"|19
+! style="background:#FFFFFF;"|66
+! style="background:#FFFFFF;"|120
+! style="background:#FFFFFF;"|179
+|}
+
+{| class="wikitable sortable collapsible collapsed" style="text-align: center;font-size:90%;"
+|- style="color:#02529C;"
+! style="background:#FFFFFF;" colspan=7|List of UEFA European Championship matches
+|-
+!Year!!Round!!Opponent!!Score!!Result!!Date!!Venue
+|-
+|rowspan=5|[[UEFA Euro 2016|2016]]
+|rowspan=3|[[UEFA Euro 2016 Group F|Group F]]||align="left"|{{fb|POR}}|| rowspan="2" |'''1–1'''|| rowspan="2" bgcolor="#FFFF99" |'''Draw'''||14 June 2016||[[Saint-Étienne]], [[France]]
+|-
+|align="left"|{{fb|HUN}}||18 June 2016||[[Marseille]], [[France]]
+|-
+|align="left"|{{fb|AUT}}|| rowspan="2" |'''2–1'''|| rowspan="2" bgcolor="#98FB98" |'''Win'''||22 June 2016||[[Paris]], [[France]]
+|-
+|align="left"|[[UEFA Euro 2016#Round of 16|Round of 16]]||align="left"|{{fb|ENG}}||27 June 2016||[[Nice]], [[France]]
+|-
+|align="left"|[[UEFA Euro 2016#Quarter Finals|Quarter- finals]]||align="left"|{{fb|FRA|1974}}||'''2–5'''||bgcolor="#FFA07A"|'''Loss'''||3 July 2016||[[Paris]], [[France]]
+|}
+
+===UEFA Nations League===
+{| class="wikitable sortable" style="text-align: center;"
+!colspan=11|[[UEFA Nations League]] record
+|-
+!Season
+!Division
+!Group
+!width=28|{{Tooltip|Pld|Matches played}}
+!width=28|{{Tooltip|W|Won}}
+!width=28|{{Tooltip|D|Drawn}}
+!width=28|{{Tooltip|L|Lost}}
+!width=28|{{Tooltip|GF|Goals for}}
+!width=28|{{Tooltip|GA|Goals against}}
+!width=28|{{Tooltip|P/R|Promotion and relegation at the end of season}}
+!Rank
+|-
+|[[2018–19 UEFA Nations League|2018–19]]
+|[[2018–19 UEFA Nations League A|A]]
+|[[2018–19 UEFA Nations League A#Group 2|2]]
+|4
+| rowspan="3" |0
+| rowspan="2" |0
+|4
+|1
+|13
+|{{same position}}
+|12th
+|-
+|[[2020–21 UEFA Nations League|2020–21]]
+|[[2020–21 UEFA Nations League A|A]]
+|[[2020–21 UEFA Nations League A#Group 2|2]]
+|6
+|6
+|3
+|17
+|{{fall}}
+|16th
+|-
+|[[2022–23 UEFA Nations League|2022–23]]
+|[[2022–23 UEFA Nations League B|B]]
+|[[2022–23 UEFA Nations League B#Group 2|2]]
+|4
+|4
+|0
+|6
+|6
+|{{same position}}
+|23rd
+|-
+|[[2024–25 UEFA Nations League|2024–25]]
+|[[2024–25 UEFA Nations League B|B]]
+|[[2024–25 UEFA Nations League B#Group 4|4]]
+|8
+|2
+|1
+|5
+|12
+|18
+|{{fall}}
+|27th
+|-
+!colspan=3|Total
+!22
+!2
+!5
+!15
+!22
+!54
+!colspan=2|12th
+|}
+
+== Honours ==
+===Regional===
+* '''[[Nordic Football Championship]]'''
+** Runners-up (1): [[2000–01 Nordic Football Championship|2000-01]]
+*'''[[Baltic Cup (football)|Baltic Cup]]'''
+** '''Champions (1)''': [[2022 Baltic Cup|2022]]
+
+===Friendly===
+* '''[[Greenland Cup]]'''
+** '''Champions (2)''': 1980, 1984
+* '''[[China Cup]]'''
+** Runners-up (1): [[2017 China Cup|2017]]
+
+== FIFA ranking history ==
+Source:<ref>{{Cite web|url=https://www.fifa.com/fifa-world-ranking/associations/association/ISL/men/|title=FIFA World Ranking – Associations: Iceland|website=[[FIFA]]|access-date=8 September 2019|archive-date=14 April 2020|archive-url=https://web.archive.org/web/20200414154527/https://www.fifa.com/fifa-world-ranking/associations/association/ISL/men/|url-status=live}}</ref>
+{| class="wikitable sortable" style=" text-align:center; font-size:90%;" width="100%"
+|-
+!1992
+!1993
+!1994
+!1995
+!1996
+!1997
+!1998
+!1999
+!2000
+!2001
+!2002
+!2003
+!2004
+!2005
+!2006
+!2007
+!2008
+!2009
+!2010
+!2011
+!2012
+!2013
+!2014
+!2015
+!2016
+!2017
+!2018
+!2019
+!2020
+!2021
+!2022
+!2023
+!2024
+|-
+| 46
+| 47
+| 39
+| 50
+| 60
+| 72
+| 64
+| 43
+| 50
+| 52
+| 58
+| 58
+| 93
+| 94
+| 93
+| 90
+| 83
+| 92
+| 112
+| 104
+| 90
+| 49
+| 33
+| 36
+| 21
+| 22
+| 37
+| 39
+| 46
+| 62
+| 63
+| 71
+| 70
+|}
+
+==See also==
+{{Portal|Association football|Iceland}}
+*[[Iceland men's national under-21 football team]]
+*[[Iceland men's national under-19 football team]]
+*[[Iceland men's national under-17 football team]]
+*[[Iceland national futsal team]]
+*[[Iceland women's national football team]]
+
+==Notes==
+{{notelist}}
+{{reflist|group=note}}
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons category}}
+* [http://www.ksi.is/ Football Association of Iceland]
+* [https://www.uefa.com/nationalassociations/isl/ Iceland] at [[UEFA]]
+* [https://www.fifa.com/about-fifa/associations/ISL Iceland] at [[FIFA]]
+* [https://archive.today/20091025074839/http://www.geocities.com/Colosseum/Park/3802/Iceland/index.html?200716 Iceland National Team (1946–2000) by Jostein Nygård (Norway)]
+* [https://www.rsssf.org/tablesi/ijs-intres.html RSSSF archive of results 1946–]
+* [https://www.rsssf.org/miscellaneous/ijs-recintlp.html RSSSF archive of most capped players and highest goalscorers]
+
+{{Iceland national football team}}
+{{Football in Iceland}}
+{{UEFA teams}}
+{{Navboxes||title=Squads|list1=
+{{Iceland squad UEFA Euro 2016}}
+{{Iceland squad 2018 FIFA World Cup}}
+}}
+{{Navboxes||title=Finalists|list1=
+{{2018 FIFA World Cup finalists}}
+{{UEFA Euro 2016 finalists}}
+}}
+{{National sports teams of Iceland}}
+{{reflist|group=lower-alpha}}
+
+{{DEFAULTSORT:Iceland National Football Team}}
+[[Category:Iceland men's national football team| ]]
+[[Category:Iceland men's national football teams| ]]
+[[Category:European national association football teams]]

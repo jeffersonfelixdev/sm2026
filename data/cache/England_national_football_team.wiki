@@ -1,0 +1,2071 @@
+{{Short description|none}}
+{{About|the men's team|the women's team|England women's national football team}}
+{{Pp-semi-indef|small=yes}}
+{{Use British English|date=June 2018}}
+{{Use dmy dates|date=June 2024}}
+{{Infobox national football team
+| Name                  = England
+| Badge                 = England national football team crest.svg
+| Badge_size            = 180
+| FIFA Trigramme        = ENG
+| Nickname              = ''The Three Lions''
+| Association           = [[The Football Association]]<br>(The FA)
+| Confederation         = [[UEFA]] (Europe)
+| website               = [https://www.englandfootball.com/ englandfootball.com]
+| Coach                 = [[Thomas Tuchel]]
+| Most caps             = [[Peter Shilton]] (125)
+| Captain               = [[Harry Kane]]
+| Top scorer            = Harry Kane ([[List of international goals scored by Harry Kane|85]])
+| Home Stadium          = [[Wembley Stadium]]
+| FIFA Rank             = {{FIFA World Rankings|ENG}}
+| FIFA max              = 3
+| FIFA max date         = August–September 2012, September–October 2021, November 2023<ref name="FIFA World Rankings"/>
+| FIFA min              = 27
+| FIFA min date         = February 1996<ref name="FIFA World Rankings"/>
+| Elo Rank              = {{World Football Elo Ratings|England}}
+| Elo max               = 1
+| Elo max date          = 1872–1876, 1892–1911,<br />1966–1970, 1987–1988
+| Elo min               = 17
+| Elo min date          = 11 June 1995
+| pattern_la1           = _eng26H
+| pattern_b1            = _eng26H
+| pattern_ra1           = _eng26H
+| pattern_sh1           = _eng26H
+| pattern_so1           = _eng26Hl
+| leftarm1              = FFFFFF
+| body1                 = FFFFFF
+| rightarm1             = FFFFFF
+| shorts1               = 000040
+| socks1                = FFFFFF
+| pattern_la2           = _eng26A
+| pattern_b2            = _eng26A
+| pattern_ra2           = _eng26A
+| pattern_sh2           = _eng26A
+| pattern_so2           = _eng26Al
+| leftarm2              = fe080a
+| body2                 = fe080a
+| rightarm2             = fe080a
+| shorts2               = 000040
+| socks2                = fe080a
+| First game            = {{fb|SCO}} [[1872 Scotland v England football match|0–0]] {{fb-rt|ENG}}<br />([[Partick]], Scotland<!-- DO NOT LINK, see "MOS:GEOLINK" for further guidance -->; 30 November 1872)<br /><small>(The first ever international football match)</small>
+| Largest win           = {{fb|Ireland|1783}} 0–13 {{fb-rt|ENG}}<br />([[Belfast]], Ireland<!-- DO NOT LINK, see "MOS:GEOLINK" for further guidance -->; 18 February 1882)
+| Largest loss          = {{fb|HUN|1949}} [[1954 Hungary v England football match|7–1]] {{fb-rt|ENG}}<br />([[Budapest]], Hungary<!-- DO NOT LINK, see "MOS:GEOLINK" for further guidance -->; 23 May 1954)
+| World cup apps        = 17
+| World cup first       = 1950
+| World cup best        = '''Champions''' ([[1966 FIFA World Cup|1966]])
+| Regional name         = [[UEFA European Championship|European Championship]]
+| Regional cup apps     = 11
+| Regional cup first    = [[UEFA Euro 1968|1968]]
+| Regional cup best     = Runners-up ([[UEFA Euro 2020|2020]], [[UEFA Euro 2024|2024]])
+| 2ndRegional name      = [[UEFA Nations League|Nations League Finals]]
+| 2ndRegional cup apps  = 1
+| 2ndRegional cup first = [[2019 UEFA Nations League Finals|2019]]
+| 2ndRegional cup best  = Third place ([[2019 UEFA Nations League Finals|2019]])
+| medaltemplates        = 
+{{MedalSport|Men's [[Association football|football]]}}
+{{MedalCompetition|[[FIFA World Cup]]}}
+{{Medal|Gold|[[1966 FIFA World Cup|1966 England]]|[[England 1966 FIFA World Cup squad|Team]]}}
+{{MedalCompetition|[[UEFA European Championship]]}}
+{{Medal|Silver|[[UEFA Euro 2020|2020 Europe]]|[[UEFA Euro 2020 squads#England|Team]]}}
+{{Medal|Silver|[[UEFA Euro 2024|2024 Germany]]|[[UEFA Euro 2024 squads#England|Team]]}}
+{{MedalBronze|[[UEFA Euro 1968|1968 Italy]]|[[UEFA Euro 1968 squads#England|Team]]}}
+{{MedalCompetition|[[UEFA Nations League]]}}
+{{MedalBronze|[[2019 UEFA Nations League Finals|2019 Portugal]]|[[2019 UEFA Nations League Finals squads#England|Team]]}}
+}}
+
+The '''England national football team''' have represented [[England]] in men's international [[Association football|football]] since the first international match in 1872. It is controlled by [[the Football Association]] (FA), the governing body for [[football in England]], which is affiliated with [[UEFA]] and comes under the global jurisdiction of world football's governing body [[FIFA]].<ref>{{cite web|title=FA Handbook 2013–14|url=http://www.thefa.com/~/media/files/thefaportal/governance-docs/rules-of-the-association/2013-14/fa-handbook-2013-14.ashx|publisher=The Football Association|access-date=2 February 2014|page=621|format=PDF|archive-date=19 February 2014|archive-url=https://web.archive.org/web/20140219013018/http://www.thefa.com/~/media/files/thefaportal/governance-docs/rules-of-the-association/2013-14/fa-handbook-2013-14.ashx|url-status=live}}</ref><ref>{{cite web|title=Written evidence submitted by Lord Triesman|url=https://publications.parliament.uk/pa/cm201012/cmselect/cmcumeds/792/792we16.htm|publisher=Parliament of the United Kingdom|access-date=31 August 2014|date=May 2009|archive-date=14 June 2018|archive-url=https://web.archive.org/web/20180614172317/https://publications.parliament.uk/pa/cm201012/cmselect/cmcumeds/792/792we16.htm|url-status=dead}}</ref> England competes in the three major international tournaments contested by European nations: the [[FIFA World Cup]], [[UEFA European Championship]] and [[UEFA Nations League]].
+
+England are the joint oldest national team in football having played in the world's [[1872 Scotland v England football match|first international football match]] in 1872, against [[Scotland men's national football team|Scotland]]. England's home ground is [[Wembley Stadium]], London<!-- DO NOT LINK, see "MOS:GEOLINK" for further guidance -->, and their training headquarters is at [[St George's Park National Football Centre|St George's Park]], Burton upon Trent<!-- DO NOT LINK, see "MOS:GEOLINK" for further guidance -->. [[Thomas Tuchel]] is the current head coach.<ref name=":0">{{cite web |title=Thomas Tuchel appointed as England men's senior head coach |url=https://www.englandfootball.com/articles/2024/Oct/16/thomas-tuchel-appointed-as-england-mens-senior-head-coach-20241610 |access-date=16 October 2024 |website=England Football}}</ref>
+
+England won the [[1966 FIFA World Cup final]] on home soil, making them one of eight nations to have won the World Cup. They have qualified for the World Cup seventeen times, with fourth place finishes in the [[1990 FIFA World Cup|1990]] and [[2018 FIFA World Cup|2018]] editions. England have never won the European Championship, with their best performances to date being runners-up finishes in [[UEFA Euro 2020|2020]] and [[UEFA Euro 2024|2024]]. As a constituent [[Countries of the United Kingdom|country of the United Kingdom]], England are not a member of the [[International Olympic Committee]] (as English athletes compete for [[Great Britain at the Olympics|Great Britain]]), and so do not compete at the [[Olympic Games]]. England are the only team to have won the World Cup at senior level but not their own major continental title, and the only team representing a non-sovereign state to have won the World Cup.
+
+==History==
+{{Main|History of the England national football team}}
+
+===Early years===
+[[File:England 1893.jpg|thumb|left|The England team before a match against [[Scotland men's national football team|Scotland]] at Richmond in 1893]]
+
+The England men's national football team is the joint-oldest in the world; it was formed at the same time as [[Scotland men's national football team|Scotland]]. A [[England v Scotland representative football matches (1870–1872)|representative match between England and Scotland]] was played on 5 March 1870, having been organised by [[the Football Association]].<ref>{{cite news |url=https://www.theguardian.com/theguardian/from-the-archive-blog/2011/may/13/guardian190-football-england-scotland |title=5 March 1870: England v Scotland at The Oval |work=The Guardian |date=13 May 2011 |access-date=26 June 2021 |archive-date=16 March 2016 |archive-url=https://web.archive.org/web/20160316005526/http://www.theguardian.com/theguardian/from-the-archive-blog/2011/may/13/guardian190-football-england-scotland |url-status=live }}</ref> A return fixture was organised by representatives of Scottish football teams on 30 November 1872. This match, played at [[Hamilton Crescent]] in Scotland, is viewed as the first official international football match, because the two teams were independently selected and operated, rather than being the work of a single football association.<ref>{{cite web |title=England Match No. 1&nbsp;– Scotland&nbsp;– 30 November 1872&nbsp;– Match Summary and Report |url=http://www.englandfootballonline.com/Seas1872-00/1872-73/M0001Sco1872.html |publisher=englandfootballonline.com |access-date=22 October 2009 |archive-url=https://web.archive.org/web/20111203105311/http://www.englandfootballonline.com/Seas1872-00/1872-73/M0001Sco1872.html |archive-date=3 December 2011 |url-status=live }}</ref> Over the next 40 years, England played exclusively with the other three [[Home Nations]]—Scotland, [[Wales national football team|Wales]] and [[Ireland national football team (1882–1950)|Ireland]]—in the [[British Home Championship]].
+
+At first, England had no permanent home stadium. They joined [[FIFA]] in 1906 and played their first games against countries other than the Home Nations on a tour of Central Europe in 1908.<ref name="A history of the FA">{{cite news |url=https://www.thefa.com/about-football-association/what-we-do/history |title=A history of the FA |publisher=The Football Association |access-date=26 June 2021 |archive-date=29 November 2020 |archive-url=https://web.archive.org/web/20201129103141/https://www.thefa.com/about-football-association/what-we-do/history |url-status=live }}</ref> [[Wembley Stadium (1923)|Wembley Stadium]] was opened in 1923 and became their home ground.<ref name="A history of the FA"/> The relationship between England and FIFA became strained, and this resulted in their departure from FIFA in 1928, before they rejoined in 1946.<ref>{{cite news |url=https://news.bbc.co.uk/sport3/worldcup2002/hi/team_pages/england/newsid_1739000/1739245.stm |title=England disappointed before '66 |publisher=BBC Sport |date=11 April 2002 |access-date=26 June 2021 |archive-date=26 June 2021 |archive-url=https://web.archive.org/web/20210626170202/http://news.bbc.co.uk/sport3/worldcup2002/hi/team_pages/england/newsid_1739000/1739245.stm |url-status=live }}</ref> As a result, they did not compete in a [[FIFA World Cup|World Cup]] until [[1950 FIFA World Cup|1950]], in which they were [[United States v England (1950 FIFA World Cup)|beaten 1–0]] by the [[United States men's national soccer team|United States]], failing to get past the first round in one of the most embarrassing defeats in the team's history.<ref>{{cite news |url=https://www.telegraph.co.uk/sport/football/teams/england/7823072/England-v-USA-1950-World-Cup-win-over-the-Three-Lions-lives-long-in-the-memory.html |archive-url=https://ghostarchive.org/archive/20220110/https://www.telegraph.co.uk/sport/football/teams/england/7823072/England-v-USA-1950-World-Cup-win-over-the-Three-Lions-lives-long-in-the-memory.html |archive-date=10 January 2022 |url-access=subscription |url-status=live |location=London |work=The Daily Telegraph |first=Tim |last=Hart |title=England v USA: 1950 World Cup win over the Three Lions lives long in the memory |date=12 June 2010}}{{cbignore}}</ref>
+
+Their first defeat on home soil to a foreign team was a [[1949 England v Ireland football match|2–0 loss]] to [[Republic of Ireland national football team|Ireland]], on 21 September 1949 at [[Goodison Park]].<ref>{{cite news |url=https://www.irishexaminer.com/sport/othersport/arid-30951875.html |title='Eleven men from Éire upset the white shirts of England' |author=Paul Rouse |publisher=The Irish Examiner |date=20 September 2019 |access-date=26 June 2021 |archive-date=26 June 2021 |archive-url=https://web.archive.org/web/20210626170159/https://www.irishexaminer.com/sport/othersport/arid-30951875.html |url-status=live }}</ref> A [[Match of the Century (1953 England v Hungary football match)|6–3 loss]] in 1953 to [[Hungary national football team|Hungary]] was their second defeat by a foreign team at Wembley.<ref>{{cite news |url=https://www.theguardian.com/football/blog/2013/nov/25/hungary-england-1953-alf-ramsey |title=England 3–6 Hungary: 60 years on from the game that stunned a nation |author=Jonathan Wilson |work=The Guardian |date=25 November 2013 |access-date=26 June 2021 |archive-date=2 April 2015 |archive-url=https://web.archive.org/web/20150402111530/http://www.theguardian.com/football/blog/2013/nov/25/hungary-england-1953-alf-ramsey |url-status=live }}</ref> In the return match in [[Budapest]], Hungary [[1954 Hungary v England football match|won 7–1]]. This stands as England's largest ever defeat. After the game, a bewildered [[Syd Owen]] said, "it was like playing men from outer space".<ref>{{cite news |url=http://www.timesonline.co.uk/tol/sport/football/article1023170.ece |title=Football's November revolution: Magnificent Magyars storm England's Wembley fortress |first=John |last=Goodbody |newspaper=[[The Times]] |date=22 November 2003 |access-date=13 February 2011 |location=London |url-status=dead |archive-url=https://web.archive.org/web/20110429081007/http://www.timesonline.co.uk/tol/sport/football/article1023170.ece |archive-date=29 April 2011 }}</ref> In the [[1954 FIFA World Cup]], England reached the quarter-finals for the first time, and lost 4–2 to reigning champions [[Uruguay national football team|Uruguay]].<ref>{{cite news |url=https://www.thefa.com/news/2014/jun/17/england-v-uruguay-past-meetings |title=England v Uruguay past-meetings |publisher=The Football Association |date=18 June 2014 |access-date=26 June 2021 |archive-date=26 June 2021 |archive-url=https://web.archive.org/web/20210626174707/https://www.thefa.com/news/2014/jun/17/england-v-uruguay-past-meetings |url-status=live }}</ref>
+
+===Walter Winterbottom and Alf Ramsey===
+Although [[Walter Winterbottom]] was appointed as England's first full-time manager in 1946, the team was still picked by a committee until [[Alf Ramsey]] took over in 1963.<ref>{{cite news |url=https://www.theguardian.com/news/2002/feb/18/guardianobituaries.football1 |title=Sir Walter Winterbottom |author=Brian Glanville |work=The Guardian |date=18 February 2002 |access-date=26 June 2021 |archive-date=26 June 2021 |archive-url=https://web.archive.org/web/20210626170203/https://www.theguardian.com/news/2002/feb/18/guardianobituaries.football1 |url-status=live }}</ref><ref>{{cite news|url=https://www.thefa.com/news/2015/feb/27/sir-alf-ramseys-first-england-game |title=Sir Alf's first game in charge: Alf Ramsey first took charge of England on 27 February 1963 |author=David Barber |publisher=The Football Association |date=27 February 2015 |access-date=26 June 2021}}</ref> The [[1966 FIFA World Cup|1966 World Cup]] was hosted in England and Ramsey guided England to victory with a [[1966 FIFA World Cup final|4–2 win]] against [[Germany national football team|West Germany]] after [[extra time]] in the final, during which [[Geoff Hurst]] scored a [[hat-trick]].<ref>{{cite news |url=http://news.bbc.co.uk/onthisday/hi/dates/stories/july/30/newsid_2644000/2644065.stm |title=1966: Football glory for England |publisher=BBC Sport 30 July 1996 |access-date=26 June 2021 |archive-date=26 January 2021 |archive-url=https://web.archive.org/web/20210126065531/http://news.bbc.co.uk/onthisday/hi/dates/stories/july/30/newsid_2644000/2644065.stm |url-status=live }}</ref> In [[UEFA Euro 1968]], the team reached the semi-finals for the first time, being eliminated by [[Yugoslavia national football team|Yugoslavia]].<ref>{{cite news |url=https://www.uefa.com/uefaeuro-2020/match/3937--yugoslavia-vs-england/postmatch/report/ |title=Yugoslavia beat world champions England to reach EURO 1968 final |publisher=UEFA |date=2 October 2003 |access-date=26 June 2021 |archive-date=26 June 2021 |archive-url=https://web.archive.org/web/20210626170200/https://www.uefa.com/uefaeuro-2020/match/3937--yugoslavia-vs-england/postmatch/report/ |url-status=dead }}</ref>
+
+England qualified automatically for the [[1970 FIFA World Cup|1970 World Cup]] in Mexico as reigning champions, and reached the quarter-finals, where they were knocked out by West Germany. England had been 2–0 up, but were eventually beaten 3–2 after [[extra time]].<ref>{{cite news |url=https://news.bbc.co.uk/sport2/hi/football/7733080.stm |title=World Cup quarter-final 1970 |publisher=BBC Sport |date=17 November 2008 |access-date=26 June 2021 |archive-date=25 April 2022 |archive-url=https://web.archive.org/web/20220425182456/http://news.bbc.co.uk/sport1/hi/football/7733080.stm |url-status=live }}</ref> They then failed to qualify for [[UEFA Euro 1972|Euro 1972]] and the [[1974 FIFA World Cup|1974 World Cup]], leading to Ramsey's dismissal by the [[The Football Association|FA]].<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/24445822 |title=England v Poland 1973: When Clough's 'clown' stopped England |author=Chris Bevan |date=14 October 2013 |access-date=26 June 2021 |archive-date=24 October 2018 |archive-url=https://web.archive.org/web/20181024072513/https://www.bbc.co.uk/sport/football/24445822 |url-status=live }}</ref>
+
+===Don Revie, Ron Greenwood and Bobby Robson===
+Following Ramsey's dismissal, [[Joe Mercer]] took immediate temporary charge of England for a seven-match spell until [[Don Revie]] was appointed as new permanent manager in 1974.<ref>{{cite news|url=https://www.theguardian.com/sport/blog/2012/oct/11/forgotten-story-joe-mercer-england-manager |title=The forgotten story of … England under Joe Mercer |author=Rob Bagchi |work=The Guardian |date=11 October 2012 |access-date=27 June 2021}}</ref> Under Revie, the team underperformed and failed to qualify for either [[UEFA Euro 1976|Euro 1976]] or the [[1978 FIFA World Cup|1978 World Cup]].<ref>{{cite news|url=http://www.bbc.co.uk/leeds/content/articles/2009/06/01/history_don_revie_auction_feature.shtml |title=The Don |publisher=BBC |date=2 June 2009 |access-date=27 June 2021}}</ref> Revie resigned in 1977 and was replaced by [[Ron Greenwood]], under whom performances improved. The team qualified for [[UEFA Euro 1980|Euro 1980]] without losing any of their games, but exited in the group stage of the final tournament.<ref>{{cite web | url=https://www.theguardian.com/football/that-1980s-sports-blog/2020/oct/09/england-fans-ruined-match-belgium-40-years-ago-euro-80 | title=When England fans ruined their match against Belgium 40 years ago | work=The Guardian | first=Steven | last=Pye | date=9 October 2020 | access-date=16 May 2021 | archive-date=16 May 2021 | archive-url=https://web.archive.org/web/20210516044647/https://www.theguardian.com/football/that-1980s-sports-blog/2020/oct/09/england-fans-ruined-match-belgium-40-years-ago-euro-80 | url-status=live }}</ref> They also qualified for the [[1982 FIFA World Cup|1982 World Cup]] in Spain; despite not losing a game, they were eliminated at the second group stage.<ref>{{cite news |url=https://www.theguardian.com/news/2006/feb/10/guardianobituaries.football |title=Ron Greenwood |author=Brian Glanville |work=The Guardian |date=10 February 2006 |access-date=27 June 2021 |archive-date=11 July 2021 |archive-url=https://web.archive.org/web/20210711190709/https://www.theguardian.com/news/2006/feb/10/guardianobituaries.football |url-status=live }}</ref><ref>{{cite news |url=https://www.independent.co.uk/sport/football-england-world-cup-1982-spain-flying-start-frustrating-finish-1162983.html |title=Football: England at the World Cup: 1982 Spain – A flying start but a frustrating finish |author=Ken Jones |work=The Independent |date=23 October 2011 |access-date=27 June 2021 |archive-date=27 June 2021 |archive-url=https://web.archive.org/web/20210627154502/https://www.independent.co.uk/sport/football-england-world-cup-1982-spain-flying-start-frustrating-finish-1162983.html |url-status=live }}</ref>
+
+[[Bobby Robson]] managed England from 1982 to 1990.<ref>{{cite news|url=https://www.telegraph.co.uk/sport/football/teams/england/5949048/Sir-Bobby-Robson-The-England-years-1982-1990.html |archive-url=https://ghostarchive.org/archive/20220110/https://www.telegraph.co.uk/sport/football/teams/england/5949048/Sir-Bobby-Robson-The-England-years-1982-1990.html |archive-date=10 January 2022 |url-access=subscription |url-status=live |title=Sir Bobby Robson: The England years 1982–1990 |author=Jeremy Wilson |work=The Telegraph |date=31 July 2009 |access-date=27 June 2021}}{{cbignore}}</ref> Although the team failed to qualify for [[UEFA Euro 1984|Euro 1984]], they reached the quarter-finals of the [[1986 FIFA World Cup|1986 World Cup]], losing 2–1 to [[Argentina national football team|Argentina]] in a [[Argentina v England (1986 FIFA World Cup)|game]] made famous by two highly contrasting goals scored by [[Diego Maradona]] – the first being blatantly knocked in by his hand, prompting his "[[The hand of God|Hand of God]]" remark, the second being an outstandingly skilful individual goal, involving high speed dribbling past several opponents.<ref>{{cite news |url=https://www.theguardian.com/football/that-1980s-sports-blog/2014/mar/05/england-denmark-defeat-wembley-euro-1984-bobby-robson |title=How a defeat to Denmark cost Bobby Robson's England a place at Euro 84 |work=The Guardian |date=5 March 2014 |access-date=27 June 2021 |archive-date=27 June 2021 |archive-url=https://web.archive.org/web/20210627154502/https://www.theguardian.com/football/that-1980s-sports-blog/2014/mar/05/england-denmark-defeat-wembley-euro-1984-bobby-robson |url-status=live }}</ref><ref>{{cite news|url=https://edition.cnn.com/2018/06/11/football/world-cup-argentina-england-1986-diego-maradona/index.html |title=How Diego Maradona redefined football in the space of less than five minutes |author=Marcela Mora y Araujo |publisher=CNN |date=11 June 2018 |access-date=27 June 2021}}</ref> England striker [[Gary Lineker]] finished as the tournament's top scorer with six goals.<ref>{{cite news |url=https://www.fourfourtwo.com/features/gary-linekers-1986-world-cup-pictures-look-those-nut-huggers-barnso-wearing |title=Gary Lineker's 1986 World Cup in pictures: "Look at those nut-huggers Barnso is wearing..." |publisher=FourFourTwo |date=3 June 2014 |access-date=27 June 2021 |archive-date=27 June 2021 |archive-url=https://web.archive.org/web/20210627154502/https://www.fourfourtwo.com/features/gary-linekers-1986-world-cup-pictures-look-those-nut-huggers-barnso-wearing |url-status=live }}</ref>
+
+England went on to lose every match at [[UEFA Euro 1988|Euro 1988]].<ref>{{cite news |url=https://www.theguardian.com/football/2008/jun/09/englandfootballteam |title=On Second Thoughts: England at Euro 88 |author=Rob Smyth |work=The Guardian |date=9 June 2008 |access-date=27 June 2021 |archive-date=11 July 2019 |archive-url=https://web.archive.org/web/20190711201841/https://www.theguardian.com/football/2008/jun/09/englandfootballteam |url-status=live }}</ref> They next achieved their second best result in the [[1990 FIFA World Cup|1990 World Cup]] by finishing fourth&nbsp;– losing again to West Germany after a closely contested semi-final finishing 1–1 after [[extra time]], then 3–4 in England's first [[penalty shoot-out (association football)|penalty shoot-out]].<ref>{{cite web|url=https://www.theguardian.com/football/2014/mar/27/retro-mbm-england-v-west-germany-sort-of-live|title=England v West Germany at Italia '90 – as it happened|date=27 March 2014|work=The Guardian|access-date=11 July 2018|archive-date=2 April 2019|archive-url=https://web.archive.org/web/20190402221240/https://www.theguardian.com/football/2014/mar/27/retro-mbm-england-v-west-germany-sort-of-live|url-status=live}}</ref> Despite losing to [[Italy national football team|Italy]] in the match for third place, the members of the England team were given bronze medals identical to the Italians'. Due to the team's good performance at the tournament against general expectations, and the emotional nature of the narrow defeat to West Germany,<ref>{{cite web|url=https://www.youtube.com/watch?v=tt0xx3So6zw| archive-url=https://ghostarchive.org/varchive/youtube/20211211/tt0xx3So6zw| archive-date=11 December 2021 | url-status=live|title=Gazza's tears – 1990| date=11 June 2018|via=YouTube}}{{cbignore}}</ref> the team were welcomed home as heroes and thousands of people lined the streets for an open-top bus parade.<ref>{{cite news|url=https://www.thetimes.com/sport/football/article/no-official-celebration-next-week-for-englands-return-hfwnh7n9w|title=No official celebration next week for England's return|author=Martyn Ziegler|work=[[The Times]]|date=12 July 2018|access-date=17 September 2021|archive-date=17 September 2021|archive-url=https://web.archive.org/web/20210917203737/https://www.thetimes.co.uk/article/no-official-celebration-next-week-for-englands-return-hfwnh7n9w|url-status=live}}</ref>
+
+===Graham Taylor, Terry Venables, Glenn Hoddle and Kevin Keegan===
+The 1990s saw four England managers follow Robson, each in the role for a relatively brief period. [[Graham Taylor (footballer)|Graham Taylor]] was Robson's immediate successor.<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/38599231 |title=Graham Taylor: Ex-England, Watford & Aston Villa manager dies aged 72 |publisher=BBC Sport |date=12 January 2017 |access-date=17 September 2021 |archive-date=12 January 2017 |archive-url=https://web.archive.org/web/20170112135427/http://www.bbc.co.uk/sport/football/38599231 |url-status=live }}</ref> England failed to win any matches at [[UEFA Euro 1992|Euro 1992]], drawing with tournament winners [[Denmark national football team|Denmark]] and later with [[France national football team|France]], before being eliminated by host nation [[Sweden men's national football team|Sweden]]. The team then failed to qualify for the [[1994 FIFA World Cup|1994 World Cup]] after losing a controversial game against the [[Netherlands national football team|Netherlands]] in Rotterdam, which resulted in Taylor's resignation. Taylor faced much newspaper criticism during his tenure for his tactics and team selections.<ref>{{cite web | url=https://www.bbc.co.uk/sport/football/38596836 | title=Graham Taylor obituary: Ex-England boss a fount of knowledge and a true gentleman | work=BBC News | first=Phil | last=McNulty | date=12 January 2017 | access-date=10 July 2021 | archive-date=10 July 2021 | archive-url=https://web.archive.org/web/20210710033617/https://www.bbc.co.uk/sport/football/38596836 | url-status=live }}</ref>
+
+Between 1994 and 1996, [[Terry Venables]] took charge of the team. Hosting [[UEFA Euro 1996|Euro 1996]], they equalled their best performance at a [[UEFA European Championship|European Championship]], reaching the semi-finals as they did in 1968, before exiting via another penalty shoot-out loss to Germany.<ref>{{cite news|url=https://www.uefa.com/uefaeuro/history/news/0253-0d7b301cbfd1-46785d59fbda-1000--germany-beat-england-on-penalties-to-reach-euro-96-final/ |title=Germany beat England on penalties to reach EURO '96 final |publisher=UEFA |date=6 October 2003 |access-date=17 September 2021}}</ref> England striker [[Alan Shearer]] was the tournament's top scorer with five goals.<ref>{{cite news |url=https://www.eurosport.co.uk/football/euro-icons-1996-alan-shearer-and-the-summer-when-football-came-home_sto7785555/story.shtml |title=Euro Icons – 1996: Alan Shearer and the summer when football came home |author=Mike Gibbons |publisher=Eurosport |date=6 June 2021 |access-date=17 September 2021 |archive-date=7 October 2022 |archive-url=https://web.archive.org/web/20221007130913/https://www.eurosport.com/geoblocking.shtml |url-status=live }}</ref> At Euro 96, the song "[[Three Lions (song)|Three Lions]]" by [[David Baddiel|Baddiel]], [[Frank Skinner|Skinner]] and [[the Lightning Seeds]] became the definitive anthem for fans on the terraces,<ref>{{cite web|url=https://www.bbc.co.uk/news/newsbeat-44711564|publisher=BBC News|title=It's coming home: How Three Lions became the definitive England song|first=Imran|last=Rahman-Jones|year=2021|access-date=9 July 2021|archive-date=9 July 2021|archive-url=https://web.archive.org/web/20210709191831/https://www.bbc.co.uk/news/newsbeat-44711564|url-status=live}} "Three lions on a shirt / Jules Rimet still gleaming / Thirty years of hurt / never stopped me dreaming"</ref> and popularised the chant "it's coming home".<ref>{{cite web | url= https://www.independent.co.uk/sport/football/england-its-coming-home-lyrics-euro-2024-b2579218.html | title=It's Coming Home: The history of the England fan chant | work=The Independent | first=Joe | last=Sommerlad | date=13 July 2024 | access-date=15 July 2024}}</ref> Venables announced before the tournament that he would resign at the end of it, following investigations into his personal financial activities and ahead of upcoming court cases. Due to the controversy around him, the FA stressed that he was the coach, not the manager, of the team.<ref>{{cite web | url=https://www.theguardian.com/football/2016/sep/27/sam-allardyce-england-managers-controversies-terry-venables-fabio-capello | title=England managers and off-field controversies: from Revie to Hodgson | work=The Guardian | first=Dominic | last=Fifield | date=27 September 2016 | access-date=9 July 2021 | archive-date=6 July 2018 | archive-url=https://web.archive.org/web/20180706132600/https://www.theguardian.com/football/2016/sep/27/sam-allardyce-england-managers-controversies-terry-venables-fabio-capello | url-status=live }}</ref><ref>"Venables is also the only England manager ever to resign from his post because of the muddy personal details set to be showcased in a high-profile trial related to financial irregularities." {{cite book|url=https://books.google.com/books?id=lg7k-Y5vF8kC&pg=PT855 |title=V is for Venables|date=3 August 2006|publisher=[[When Saturday Comes]]|isbn=9780141927039|access-date=10 September 2014}}</ref>
+
+Under Venables's successor, [[Glenn Hoddle]], England won the [[1997 Tournoi de France]], which was their first (and as of June 2026, only) tournament win since the 1966 World Cup.<ref name="Brewin 2024">{{cite news |last1=Brewin |first1=Joe |title=Le Tournoi, 27 years on: When England last won a tournament |url=https://www.fourfourtwo.com/features/le-tournoi-25-years-on-when-england-last-won-a-tournament |access-date=8 July 2026 |work=Four Four Two |date=9 April 2024}}</ref> He then took the team to the [[1998 FIFA World Cup|1998 World Cup]]&nbsp;{{Emdash}} in which England were eliminated in the second round, again by Argentina and again on penalties (after a 2–2 draw).<ref>{{cite news |url=https://www.fifa.com/tournaments/mens/worldcup/1998france/news/world-cup-at-home-argentina-england-1998-3070883 |title=#WorldCupAtHome: Argentina frustrate England again |publisher=FIFA |date=22 April 2020 |access-date=17 September 2021 |archive-date=7 October 2022 |archive-url=https://web.archive.org/web/20221007130915/https://www.fifa.com/tournaments/mens/worldcup/1998france/news/world-cup-at-home-argentina-england-1998-3070883 |url-status=live }}</ref> In February 1999, Hoddle was sacked by the FA due to controversial comments he had made about disabled people to a newspaper.<ref>{{cite news | url= http://news.bbc.co.uk/1/hi/sport/football/270194.stm | title= Hoddle sacked | work= BBC News | date= 3 February 1999 | access-date= 9 July 2021 | archive-date= 23 April 2022 | archive-url= https://web.archive.org/web/20220423093608/http://news.bbc.co.uk/1/hi/sport/football/270194.stm | url-status= live }}</ref> [[Howard Wilkinson]] took over as caretaker manager for two matches.<ref>{{cite news |url=https://www.theguardian.com/football/2016/nov/10/howard-wilkinson-advise-fa-next-england-manager |title=Howard Wilkinson to advise FA in deciding next England manager |author=Owen Gibson |work=The Guardian |date=10 November 2016 |access-date=10 September 2022 |archive-date=10 September 2022 |archive-url=https://web.archive.org/web/20220910152546/https://www.theguardian.com/football/2016/nov/10/howard-wilkinson-advise-fa-next-england-manager |url-status=live }}</ref> [[Kevin Keegan]] was then appointed as the new permanent manager and took England to [[UEFA Euro 2000|Euro 2000]], but the team exited in the group stage and he unexpectedly resigned shortly afterwards.<ref>{{cite news |url=https://www.fourfourtwo.com/news/on-this-day-in-2000-kevin-keegan-resigns-as-england-boss-after-germany-defeat-1601982037000 |title=On this day in 2000: Kevin Keegan resigns as England boss after Germany defeat |publisher=FourFourTwo |date=7 October 2020 |access-date=10 September 2022 |archive-date=10 September 2022 |archive-url=https://web.archive.org/web/20220910152546/https://www.fourfourtwo.com/news/on-this-day-in-2000-kevin-keegan-resigns-as-england-boss-after-germany-defeat-1601982037000 |url-status=live }}</ref>
+
+===Sven-Göran Eriksson and Steve McClaren===
+[[File:England team.jpg|thumb|left|The England team at the [[2006 FIFA World Cup]]]]
+
+[[Peter Taylor (footballer, born 1953)|Peter Taylor]] was appointed as caretaker manager for one match, before [[Sven-Göran Eriksson]] took charge between 2001 and 2006, and was the team's first non-English manager.<ref>{{cite news |url=https://www.theguardian.com/football/2000/nov/09/newsstory.sport6 |title=Taylor names Beckham captain of youthful looking England squad |author=Sean Ingle |work=The Guardian |date=9 November 2000 |access-date=10 September 2022 |archive-date=10 September 2022 |archive-url=https://web.archive.org/web/20220910152528/https://www.theguardian.com/football/2000/nov/09/newsstory.sport6 |url-status=live }}</ref><ref>{{cite news |url=https://www.skysports.com/football/story-telling/12016/12118585/20-years-since-englands-first-foreign-appointment |title=20 years on from the appointment of Sven-Goran Eriksson |author=Ron Walker |publisher=Sky Sports |date=5 January 2021 |access-date=10 September 2022 |archive-date=10 September 2022 |archive-url=https://web.archive.org/web/20220910152546/https://www.skysports.com/football/story-telling/12016/12118585/20-years-since-englands-first-foreign-appointment |url-status=live }}</ref> Although England's players in this era were dubbed a "[[Golden Generation (English football)|golden generation]]" and only lost five competitive matches during Eriksson's tenure,<ref>{{cite news |url=https://www.reuters.com/article/us-soccer-worldcup-swe-eng-eriksson-idUSKBN1JW2QQ |title=England would hate to lose to Sweden, says Sven-Goran Eriksson |author=Philip O'Connor |publisher=Reuters |date=6 July 2018 |access-date=10 September 2022 |archive-date=10 September 2022 |archive-url=https://web.archive.org/web/20220910152528/https://www.reuters.com/article/us-soccer-worldcup-swe-eng-eriksson-idUSKBN1JW2QQ |url-status=live }}</ref> they exited at the quarter-finals of the [[2002 FIFA World Cup|2002 World Cup]], [[UEFA Euro 2004|Euro 2004]] and the [[2006 FIFA World Cup|2006 World Cup]].<ref>{{cite news |url=https://www.fourfourtwo.com/features/what-happened-to-englands-golden-generation-how-the-countrys-most-talented-squad-never-came-good |title=What happened to England's "Golden Generation"? How the country's most talented squad never came good |author=Chris Flanagan |publisher=FourFourTwo |date=16 November 2020 |access-date=30 November 2023 |archive-date=29 October 2023 |archive-url=https://web.archive.org/web/20231029140025/https://www.fourfourtwo.com/features/what-happened-to-englands-golden-generation-how-the-countrys-most-talented-squad-never-came-good |url-status=live }}</ref> In January 2006 it was announced that Eriksson would leave the role following that year's World Cup.<ref>{{cite news |url=https://www.theguardian.com/football/2006/jan/24/newsstory.sport |title=Eriksson takes golden handshake to walk away after World Cup |author=Daniel Taylor |work=The Guardian |date=24 January 2006 |access-date=10 September 2022 |archive-date=10 September 2022 |archive-url=https://web.archive.org/web/20220910152546/https://www.theguardian.com/football/2006/jan/24/newsstory.sport |url-status=live }}</ref> [[Steve McClaren]] was selected to succeed Eriksson, but was sacked on 22 November 2007 after just 18 matches in charge as England failed to qualify for [[UEFA Euro 2008|Euro 2008]].<ref>{{cite news |url=https://news.bbc.co.uk/sport2/hi/football/internationals/7100393.stm |title=McClaren sacked as England coach |publisher=BBC Sport |date=22 November 2007 |access-date=30 November 2023 |archive-date=1 August 2017 |archive-url=https://web.archive.org/web/20170801172602/http://news.bbc.co.uk/sport1/hi/football/internationals/7100393.stm |url-status=live }}</ref> McClaren was criticised for his team selection in his final game – a decisive qualifier against [[Croatia national football team|Croatia]] which England lost 3–2 – particularly the decision to select inexperienced goalkeeper [[Scott Carson]], whose mistake lead to Croatia's first goal.<ref>{{cite news |url=https://news.bbc.co.uk/sport1/hi/football/internationals/7103110.stm | title=England 2-3 Croatia |author=Jonathan Stevenson |publisher=BBC Sport | date=21 November 2007 |access-date=11 July 2024 |archive-date= 22 November 2007 |archive-url=https://web.archive.org/web/20071122091808/http://news.bbc.co.uk/sport1/hi/football/internationals/7103110.stm |url-status=live }}</ref><ref>{{cite news |url=https://www.theguardian.com/football/2007/nov/25/newsstory.sport7 | title=Don't blame Carson - the real gaffe was exposing him to such high pressure |author=David James |work=The Guardian | date=25 November 2007 |access-date=11 July 2024 |archive-date= 6 October 2014 |archive-url=https://web.archive.org/web/20141006014017/http://www.theguardian.com/football/2007/nov/25/newsstory.sport7 |url-status=live }}</ref>
+
+===Fabio Capello, Roy Hodgson and Sam Allardyce===
+On 14 December 2007, Italian manager [[Fabio Capello]] was appointed as McClaren's successor, becoming only the second foreign coach to take the job.<ref>{{cite news |url=https://news.bbc.co.uk/sport2/hi/football/internationals/7137847.stm |title=Capello named new England manager |publisher=BBC Sport |date=14 December 2007 |access-date=10 September 2022 |archive-date=20 November 2020 |archive-url=https://web.archive.org/web/20201120200526/http://news.bbc.co.uk/sport2/hi/football/internationals/7137847.stm |url-status=live }}</ref> At the [[2010 FIFA World Cup|2010 World Cup]], England were considered favourites to top [[2010 FIFA World Cup Group C|their group]]<ref>{{cite news|url=https://bleacherreport.com/articles/401877-2010-world-cup-group-c-preview-england-usa-algeria-slovenia |title=2010 World Cup Group C Preview: England, USA, Algeria, Slovenia |publisher=Bleacher Report |date=5 June 2010 |access-date=29 July 2023}}</ref> but drew their opening two games against the United States and [[Algeria national football team|Algeria]]; this led to questions about the team's spirit, tactics and ability to handle pressure.<ref>{{cite news |title=Rifts appear as players grow tired of Capello regime |url=https://www.theguardian.com/football/blog/2010/jun/21/england-john-terry-fabio-capello |date=21 June 2010 |last=Gibson |first=Owen |newspaper=The Guardian |access-date=3 July 2010 |location=London |archive-date=31 December 2013 |archive-url=https://web.archive.org/web/20131231082933/http://www.theguardian.com/football/blog/2010/jun/21/england-john-terry-fabio-capello |url-status=live}}</ref> Despite this, England progressed to the round of 16, where they were beaten 4–1 by [[Germany national football team|Germany]], their heaviest defeat in a World Cup finals tournament match.<ref>{{cite news |url=https://www.theguardian.com/football/2010/jun/27/germany-england-world-cup-2010 |title=Germany 4–1 England |author=Kevin McCarra |work=The Guardian |date=27 June 2010 |access-date=10 September 2022 |archive-date=5 November 2019 |archive-url=https://web.archive.org/web/20191105145826/https://www.theguardian.com/football/2010/jun/27/germany-england-world-cup-2010 |url-status=live }}</ref> This match became infamous for a [[Ghost goal#England v Germany at the 2010 World Cup|ghost goal]] when [[Frank Lampard]] hit a shot from outside the penalty area that bounced down off the crossbar and over the goal line before being cleared by German goalkeeper [[Manuel Neuer]], with neither the referee nor the assistant opting to award a goal. Had it been given, the goal would have tied the game 2–2 with England coming from two goals down. This incident – along with similar mistakes at the tournament – led to an apology from FIFA president [[Sepp Blatter]] and was a factor in the subsequent decision to introduce [[goal-line technology]] into football.<ref name="nytimes.com">{{cite news|url=https://www.nytimes.com/2010/06/30/sports/soccer/30ref.html?hp|title=FIFA President Apologizes for Refereeing Errors|date=29 June 2010|work=The New York Times|access-date=11 July 2024 | first=Jeffrey | last=Marcus|archive-url=https://web.archive.org/web/20230415145412/https://www.nytimes.com/2010/06/30/sports/soccer/30ref.html|archive-date=15 April 2023| url-status=live}}</ref><ref>{{cite web | url=https://www.si.com/soccer/2020/05/05/frank-lampard-ghost-goal-south-africa-2010-world-cup-var-technology | title=Lampard's Ghost Goal and the Video Revolution in the Decade That Followed | date=5 May 2020 }}</ref> Capello continued as England manager, leading the team's successful [[UEFA Euro 2012 qualifying Group G|qualifying campaign]] for [[Euro 2012]], before resigning from the role in February 2012 following a disagreement with the [[English Football Association|FA]] over their request to remove [[John Terry]] from the team captaincy following [[R v Terry|accusations of racial abuse]] against the player.<ref>{{cite web |url=https://www.bbc.co.uk/sport/football/16941457 |title=Fabio Capello quits as England manager after meeting with FA |publisher=BBC Sport |date=8 February 2012 |access-date=2 August 2012 |archive-url=https://web.archive.org/web/20120729112918/http://www.bbc.co.uk/sport/0/football/16941457 |archive-date=29 July 2012 |url-status=live }}</ref>
+
+Following Capello's departure, [[Stuart Pearce]] was appointed as caretaker manager for one match, after which in May 2012, [[Roy Hodgson]] was announced as the new manager, just six weeks before Euro 2012.<ref>{{cite web |url=https://www.bbc.co.uk/sport/football/17904713 |title=Roy Hodgson appointed England manager by FA |publisher=BBC Sport |date=1 May 2012 |access-date=2 August 2012 |archive-url=https://web.archive.org/web/20120831065249/http://www.bbc.co.uk/sport/0/football/17904713 |archive-date=31 August 2012 |url-status=live }}</ref> England managed to finish top of [[UEFA Euro 2012 Group D|their group]], but exited the European Championship in the quarter-finals via a [[penalty shoot-out (association football)|penalty shoot-out]] against [[Italy national football team|Italy]].<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/18355305 |title=England 0–0 Italy (2–4 on pens) |last=McNulty |first=Phil |date=24 June 2012 |access-date=20 November 2013 |archive-url=https://web.archive.org/web/20131108151407/http://www.bbc.co.uk/sport/0/football/18355305 |archive-date=8 November 2013 |url-status=live }}</ref> In the [[2014 FIFA World Cup|2014 World Cup]], England were eliminated at the group stage for the first time since 1958.<ref>{{Cite news|date=20 June 2014|url=https://www.theguardian.com/football/2014/jun/20/world-cup-2014-england-crash-out|title=World Cup 2014: England crash out after Costa Rica surprise Italy|newspaper=The Guardian|access-date=20 June 2014|archive-url=https://web.archive.org/web/20140622003431/http://www.theguardian.com/football/2014/jun/20/world-cup-2014-england-crash-out|archive-date=22 June 2014|url-status=live}}</ref> At [[UEFA Euro 2016|Euro 2016]], England were eliminated in the round of 16, [[England v Iceland (UEFA Euro 2016)|losing 2–1 to Iceland]]<ref>{{cite news|url=https://www.bbc.co.uk/sport/live/football/35980667|title=FT: England Out of Euro 2016 |publisher=BBC Sport| date=23 June 2016 |access-date=27 June 2016|archive-url=https://web.archive.org/web/20160629190108/http://www.bbc.co.uk/sport/live/football/35980667|archive-date=29 June 2016|url-status=live}}</ref> in a result that has been described as among their worst ever defeats.<ref>{{cite web|url=http://www.espnfc.com/blog/the-match/60/post/2896655/england-defeat-vs-iceland-at-euro-2016-one-of-their-worst-ever|title=England's defeat vs. Iceland at Euro 2016 will go down as one of their worst|date=27 June 2016|publisher=ESPN FC |archive-url=https://web.archive.org/web/20160628093100/http://www.espnfc.com/blog/the-match/60/post/2896655/england-defeat-vs-iceland-at-euro-2016-one-of-their-worst-ever |archive-date=28 June 2016 |url-status=dead}}</ref> Hodgson tendered his resignation shortly after the full-time whistle,<ref>{{cite news|title=Euro 2016: Roy Hodgson resigns after England lose to Iceland|url=https://www.bbc.co.uk/sport/football/36647032|access-date=28 September 2016|publisher=BBC Sport|date=28 June 2016|archive-date=8 October 2016|archive-url=https://web.archive.org/web/20161008004501/http://www.bbc.co.uk/sport/football/36647032|url-status=live}}</ref> with [[Sam Allardyce]] announced as his successor in July 2016.<ref>{{cite news|last1=Taylor|first1=Louise|title=Sam Allardyce appointed England manager and says: 'It's time to deliver'|url=https://www.theguardian.com/football/2016/jul/22/sam-allardyce-appointed-new-england-manager-fa-confirm|access-date=28 September 2016|work=The Guardian|date=22 July 2016|archive-url=https://web.archive.org/web/20161006125331/https://www.theguardian.com/football/2016/jul/22/sam-allardyce-appointed-new-england-manager-fa-confirm|archive-date=6 October 2016|url-status=live}}</ref> After one match and only 67 days in charge, Allardyce resigned from his managerial post by mutual agreement following an [[2016 English football scandal|alleged breach of FA rules]]. This makes Allardyce the shortest serving permanent England manager.<ref name="BBC News 27 September 2016">{{cite web|title= Sam Allardyce: England manager leaves after one match in charge|url= https://www.bbc.co.uk/sport/football/37483344|date= 27 September 2016|website= [[BBC News Online]]|access-date= 27 September 2016|archive-url= https://web.archive.org/web/20160927194600/http://www.bbc.co.uk/sport/football/37483344|archive-date= 27 September 2016|url-status=live}}</ref>
+
+===Gareth Southgate and Thomas Tuchel===
+[[File:England line-up before game v Belgium.jpg|thumb|left|The England line-up before the last match of group G against [[Belgium national football team|Belgium]], 28 June 2018]]
+
+After Allardyce's resignation, [[Gareth Southgate]], then the coach of the [[England national under-21 team|England under-21 team]], was put in temporary charge of the national team until November 2016,<ref name="Gareth Southgate: Interim England manager wants future decided within a month">{{cite news |title=Gareth Southgate: Interim England manager wants future decided within a month |url=https://www.bbc.co.uk/sport/football/37969765 |publisher=BBC Sport |date=14 November 2016 |access-date=24 November 2016 |archive-url=https://web.archive.org/web/20161122182032/http://www.bbc.co.uk/sport/football/37969765 |archive-date=22 November 2016 |url-status=live }}</ref> before being given the position on a permanent basis at the end of that period.<ref name="Former defender signs four-year deal to lead Three Lions">{{cite web |title=Former defender signs four-year deal to lead Three Lions |url=http://www.thefa.com/news/2016/nov/30/gareth-southgate-announcement-301116 |publisher=The Football Association |date=30 November 2016 |access-date=30 November 2016 |archive-url=https://web.archive.org/web/20171029212756/http://www.thefa.com/news/2016/nov/30/gareth-southgate-announcement-301116 |archive-date=29 October 2017 |url-status=live }}</ref> At the [[2018 FIFA World Cup|2018 World Cup]], England reached the semi-finals for the third time. After finishing second in their group, England faced [[Colombia national football team|Colombia]] in the round of 16 where they won on penalties for the first time at a World Cup, before beating [[Sweden men's national football team|Sweden]] in the quarter-finals.<ref>{{cite web|url=https://www.fifa.com/worldcup/groups/|title=2018 FIFA World Cup Russia |publisher=FIFA|access-date=8 July 2018|archive-url=https://web.archive.org/web/20180703110354/https://www.fifa.com/worldcup/groups/|archive-date=3 July 2018|url-status=dead}}</ref><ref>{{Cite news|url=https://www.bbc.com/sport/football/44610244|title=World Cup 2018: England beat Colombia 4–3 on penalties|date=3 July 2018|publisher=BBC Sport|access-date=8 July 2018|archive-url=https://web.archive.org/web/20180708145250/https://www.bbc.com/sport/football/44610244|archive-date=8 July 2018|url-status=live}}</ref><ref>{{Cite news|url=http://www.skysports.com/football/sweden-vs-england/report/385228|title=Sweden 0–2 England: Harry Maguire and Dele Alli head England into World Cup semis|work=Sky Sports|access-date=8 July 2018|archive-url=https://web.archive.org/web/20180708220816/http://www.skysports.com/football/sweden-vs-england/report/385228|archive-date=8 July 2018|url-status=live}}</ref> In the semi-final, they were beaten 2–1 in extra time by [[Croatia national football team|Croatia]] and finished fourth after losing the match for third place against [[Belgium national football team|Belgium]].<ref>{{Cite news|url=https://www.bbc.com/sport/football/44706648|title=World Cup 2018: Croatia v England|date=11 July 2018|publisher=BBC Sport|access-date=12 July 2018|archive-url=https://web.archive.org/web/20180716003438/https://www.bbc.com/sport/football/44706648|archive-date=16 July 2018|url-status=live}}</ref><ref>{{Cite news|url=https://news.sky.com/story/theyve-come-home-englands-world-cup-heroes-arrive-back-in-the-uk-11437999|title=They've come home: England return after World Cup heroics|publisher=Sky News|access-date=15 July 2018|archive-date=15 July 2018|archive-url=https://web.archive.org/web/20180715182713/https://news.sky.com/story/theyve-come-home-englands-world-cup-heroes-arrive-back-in-the-uk-11437999|url-status=live}}</ref> England striker [[Harry Kane]] finished the tournament as top scorer with six goals and was awarded the [[2018 FIFA World Cup#Awards|golden boot]].<ref>{{cite web |url=https://www.standard.co.uk/sport/football/worldcup/harry-kane-wins-world-cup-2018-golden-boot-with-six-goals-in-russia-a3887631.html |title=Harry Kane wins World Cup 2018 Golden Boot with six goals in Russia |newspaper=Evening Standard |date=15 July 2018 |access-date=18 December 2022 |archive-date=14 August 2023 |archive-url=https://web.archive.org/web/20230814122927/https://www.standard.co.uk/sport/football/worldcup/harry-kane-wins-world-cup-2018-golden-boot-with-six-goals-in-russia-a3887631.html |url-status=live }}</ref>
+
+On 14 November 2019, England played their 1000th international match, defeating [[Montenegro national football team|Montenegro]] 7–0 at Wembley in a [[UEFA Euro 2020 qualifying|Euro 2020 qualifying]] match.<ref>{{cite web|url=https://www.bbc.com/sport/football/50340459|title=Three Lions: One World Cup, 147 years and 1,000 games – the numbers behind England men's milestone|date=12 November 2019|publisher=BBC Sport|access-date=14 November 2019|archive-date=13 November 2019|archive-url=https://web.archive.org/web/20191113194534/https://www.bbc.com/sport/football/50340459|url-status=live}}</ref><ref>{{cite web|url=https://www.theguardian.com/football/2019/nov/14/england-montenegro-euro-2020-qualifer-match-report|title=England celebrate 1,000th game with seven-goal charge into Euro 2020 finals|date=14 November 2019|work=The Guardian|access-date=15 November 2019|archive-date=14 November 2019|archive-url=https://web.archive.org/web/20191114235046/https://www.theguardian.com/football/2019/nov/14/england-montenegro-euro-2020-qualifer-match-report|url-status=live}}</ref>
+
+[[File:Harry Kane England cap at the London Museum.jpg|thumb|upright|England cap awarded to [[Harry Kane]] for his appearance against Germany at Euro 2020, his 58th overall]]
+
+At the delayed [[UEFA Euro 2020|Euro 2020]], England reached their first European Championship final, and their first final at a major tournament since 1966.<ref>{{cite news |last1=McNulty |first1=Phil |title=Euro 2020 semi-final: England 2–1 Denmark |url=https://www.bbc.co.uk/sport/football/57734046 |publisher=BBC Sport |access-date=7 July 2021 |archive-date=7 July 2021 |archive-url=https://web.archive.org/web/20210707232914/https://www.bbc.co.uk/sport/football/57734046 |url-status=live }}</ref> After finishing top of their group above Croatia, [[Czech Republic national football team|Czechia]], and Scotland, the Three Lions beat Germany, [[Ukraine national football team|Ukraine]] and [[Denmark national football team|Denmark]] in the knockout rounds to advance to the [[UEFA Euro 2020 final|final]].<ref>{{cite news |last1=McNulty |first1=Phil |title=Euro 2020 semi-final: England 2–1 Denmark |url=https://www.bbc.co.uk/sport/football/57734046 |publisher=BBC Sport |access-date=7 July 2021 |archive-date=7 July 2021 |archive-url=https://web.archive.org/web/20210707232914/https://www.bbc.co.uk/sport/football/57734046 |url-status=live }}</ref> In the final held at Wembley, England were defeated by Italy on penalties after a 1–1 draw.<ref>{{cite news |url=https://www.nytimes.com/live/2021/07/11/sports/england-italy-score-euro-final |title=How Italy beat England to win Euro 2020 |website=New York Times |date=11 July 2021 |access-date=3 March 2023 |archive-date=12 July 2021 |archive-url=https://web.archive.org/web/20210712013204/https://www.nytimes.com/live/2021/07/11/sports/england-italy-score-euro-final |url-status=live }}</ref>
+
+At the [[2022 FIFA World Cup|2022 World Cup]], England defeated [[Iran national football team|Iran]] and Wales in the group stage to qualify for the round of 16.<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/63603382 |title=England 6–2 Iran: Three Lions win World Cup opener |author=Phil McNulty |publisher=BBC Sport |date=21 November 2022 |access-date=19 December 2022 |archive-date=27 November 2022 |archive-url=https://web.archive.org/web/20221127105410/https://www.bbc.co.uk/sport/football/63603382 |url-status=live }}</ref><ref>{{cite news |url=https://www.bbc.co.uk/sport/football/63603442 |title=World Cup 2022: Wales 0–3 England |author=Phil McNulty |publisher=BBC Sport |date=29 November 2022 |access-date=19 December 2022 |archive-date=7 March 2023 |archive-url=https://web.archive.org/web/20230307161656/https://www.bbc.co.uk/sport/football/63603442 |url-status=live }}</ref> In the round of 16, the Three Lions defeated [[Senegal national football team|Senegal]] 3–0,<ref>{{cite news |url=https://www.theguardian.com/football/live/2022/dec/04/england-v-senegal-world-cup-2022-last-16-live |title=England 3–0 Senegal: World Cup 2022, last 16 - as it happened |author=Scott Murray |work=The Guardian |date=4 December 2022 |access-date=19 December 2022 |archive-date=19 December 2022 |archive-url=https://web.archive.org/web/20221219053254/https://www.theguardian.com/football/live/2022/dec/04/england-v-senegal-world-cup-2022-last-16-live |url-status=live }}</ref> but were then eliminated by reigning world champions France in the quarter-finals, 2–1.<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/63843792 |title=Kane misses penalty as England exit World Cup |author=Phil McNulty |publisher=BBC Sport |date=10 December 2022 |access-date=19 December 2022 |archive-date=24 March 2023 |archive-url=https://web.archive.org/web/20230324120616/https://www.bbc.co.uk/sport/football/63843792 |url-status=live }}</ref> In that match, Harry Kane scored his 53rd goal for England, equalling the all-time record at the time.<ref>{{cite news |url=https://www.reuters.com/lifestyle/sports/kane-matches-rooneys-england-scoring-record-53-goals-2022-12-10/#:~:text=Kane%20matches%20Rooney's%20England%20scoring%20record%20of%2053%20goals |title=Kane matches Rooney's England scoring record of 53 goals |work=Reuters |date=10 December 2022 |access-date=19 December 2022 |archive-date=20 July 2023 |archive-url=https://web.archive.org/web/20230720061754/https://www.reuters.com/lifestyle/sports/kane-matches-rooneys-england-scoring-record-53-goals-2022-12-10/#:~:text=Kane%20matches%20Rooney's%20England%20scoring%20record%20of%2053%20goals |url-status=live }}</ref>
+
+At [[UEFA Euro 2024|Euro 2024]], England finished top of [[UEFA Euro 2024 Group C|their group]] above Denmark, [[Slovenia national football team|Slovenia]], and [[Serbia national football team|Serbia]]. In the round of 16, England defeated [[Slovakia national football team|Slovakia]] 2–1 after extra time, with [[Jude Bellingham]] scoring a spectacular [[bicycle kick]] in second-half stoppage time to equalise the match.<ref>{{cite news| url=https://www.skysports.com/football/news/12016/13162463/jude-bellingham-england-midfielder-felt-like-cristiano-ronaldo-after-scoring-bicycle-kick-against-slovakia |title=Jude Bellingham: England midfielder 'felt like Cristiano Ronaldo' after scoring bicycle kick against Slovakia |date=2 July 2024 |access-date=11 July 2024 |publisher=Sky Sports}}</ref> In the quarter-final, England beat [[Switzerland national football team|Switzerland]] on penalties after the game finished 1–1.<ref>{{cite news| url=https://www.theguardian.com/football/article/2024/jul/06/england-switzerland-euro-2024-match-report |title = England into Euro 2024 semi-finals after dramatic shootout win over Switzerland |author=Jacob Steinberg |work= The Guardian |date=6 July 2024| access-date=11 July 2024 }}</ref> The Three Lions reached their second consecutive European Championship final after defeating the [[Netherlands national football team|Netherlands]] 2–1 in the semi-final.<ref>{{cite news| url=https://www.theguardian.com/football/article/2024/jul/10/netherlands-england-euro-2024-semi-final-match-report |title = Ollie Watkins' bolt from blue stuns Netherlands and sends England to final |author=Jacob Steinberg |work= The Guardian |date=10 July 2024| access-date=11 July 2024 }}</ref> In the [[UEFA Euro 2024 final|final]], England were defeated 2–1 by [[Spain national football team|Spain]], becoming the first team to lose consecutive European Championship finals.<ref>{{cite web | url= https://www.telegraph.co.uk/football/2024/07/15/europe-reacted-englands-euro-2024-final-defeat-spain/ | title=Kane curse continues': How Europe reacted to England's Euro 2024 final defeat | work=The Daily Telegraph | date=15 July 2024 | access-date=15 July 2024}}</ref> With three goals, Harry Kane was the joint top scorer at the tournament and shared the [[UEFA European Championship awards#Top goalscorer|golden boot]] with five other players.<ref>{{Cite web |date=14 July 2024 |title=Harry Kane: England striker shares Euro 2024 Golden Boot award with three goals |url=https://www.bbc.com/sport/football/articles/c720870we5wo |access-date=15 July 2024 |website=BBC Sport}}</ref>
+
+Whilst the FA were willing to extend his contract further, Southgate announced his resignation as England manager on 16 July 2024, saying that it was "time for change, and for a new chapter".<ref name="Steinberg July 2024">{{cite news |last1=Steinberg |first1=Jacob |title=Gareth Southgate resigns as England manager after Euro 2024 final defeat |url=https://www.theguardian.com/football/article/2024/jul/16/gareth-southgate-resigns-as-england-manager-after-euro-2024-final-defeat |access-date=16 July 2024 |work=The Guardian |date=16 July 2024}}</ref> Under-21 manager [[Lee Carsley]] was subsequently appointed interim head coach of the senior team.<ref>{{Cite web|title=Lee Carsley appointed as England men's interim head coach |url=https://www.englandfootball.com/articles/2024/Aug/09/lee-carsley-appointed-england-mens-interim-head-coach-20240908 |access-date=2024-08-09 |website=England Football |language=en}}</ref> On 16 October 2024, the FA announced that German manager [[Thomas Tuchel]] would take over as manager from 1 January 2025, becoming the third foreign coach to take up the position.<ref>{{cite news|url=https://www.englandfootball.com/articles/2024/Oct/16/thomas-tuchel-appointed-as-england-mens-senior-head-coach-20241610|title=Thomas Tuchel appointed as England men's senior head coach|publisher=England Football|date=16 October 2024}}</ref>
+
+Under Tuchel, England became the first European nation to secure qualification for the [[2026 FIFA World Cup]] after winning all six of their qualification matches as of 14 October 2025.<ref>{{cite news|url=https://www.englandfootball.com/articles/2025/Oct/14/thomas-tuchel-england-mens-latvia-post-match-reaction-20251410|title=Thomas Tuchel reacts to 2026 FIFA World Cup qualification|publisher=England Football|date=14 October 2025}}</ref>
+
+==Team image==
+===Kits and crest===
+====Kit suppliers====
+{| class="wikitable" style="text-align:left"
+|-
+!Kit supplier
+!Period
+!Ref
+|-
+|St. Blaize and Hope Brothers||1949–1954 ||<ref>{{cite web |title=England's Home Uniform 1949 to 1954 |url=http://www.englandfootballonline.com/TeamUnif/Unif1949H.html |website=England Football Online |access-date=12 February 2020 |archive-date=21 February 2020 |archive-url=https://web.archive.org/web/20200221163436/http://www.englandfootballonline.com/teamunif/Unif1949H.html |url-status=live }}</ref><ref>{{cite web |title=England Player Kits |url=http://www.englandfootballonline.com/teamunif/unif.html |website=England Football Online |access-date=12 February 2020 |archive-date=15 January 2008 |archive-url=https://web.archive.org/web/20080115085155/http://www.englandfootballonline.com/TeamUnif/Unif.html |url-status=live }}</ref>
+|-
+|[[Umbro]]||1954–1961||<ref>{{cite web |title=England's Home Uniform 1954 to 1959 |url=http://www.englandfootballonline.com/TeamUnif/Unif1954H.html |website=englandfootballonline.com |access-date=12 February 2020 |archive-date=21 February 2020 |archive-url=https://web.archive.org/web/20200221112207/http://www.englandfootballonline.com/TeamUnif/Unif1954H.html |url-status=live }}</ref>
+|-
+|[[Bukta]]||1959–1965||<ref>{{cite news |url=http://www.historicalkits.co.uk/international/england/england-1946-1960.html |title=England 1946–1960 |publisher=Historical Football Kits |access-date=16 September 2022 |archive-date=5 January 2022 |archive-url=https://web.archive.org/web/20220105171414/http://www.historicalkits.co.uk/international/england/england-1946-1960.html |url-status=live }}</ref><ref name="england-1960-1983">{{cite news |url=http://www.historicalkits.co.uk/international/england/england-1960-1983.html |title=England 1960–1983 |publisher=Historical Football Kits |access-date=16 September 2022 |archive-date=20 September 2022 |archive-url=https://web.archive.org/web/20220920163300/http://www.historicalkits.co.uk/international/england/england-1960-1983.html |url-status=live }}</ref>
+|-
+|[[Umbro]]||1965–1974||<ref name="england-1960-1983"/>
+|-
+|[[Admiral Sportswear|Admiral]]||1974–1984||<ref name="england-1960-1983"/>
+|-
+|[[Umbro]]||1984–2013||<ref>{{cite news |url=https://www.theguardian.com/football/gallery/2013/mar/20/england-umbro-football-kits-pictures |title=England's Umbro football kits – in pictures |author=Steven Bloor |work=The Guardian |date=20 March 2013 |access-date=16 September 2022 |archive-date=20 September 2022 |archive-url=https://web.archive.org/web/20220920171422/https://www.theguardian.com/football/gallery/2013/mar/20/england-umbro-football-kits-pictures |url-status=live }}</ref>
+|-
+|[[Nike, Inc.|Nike]]||2013–present||<ref>{{cite news |url=https://www.theguardian.com/football/2013/mar/20/umbro-nike-england-kits |title=Farewell Umbro, welcome Nike – England's diamonds become a swoosh |author=Sachin Nakrani |work=The Guardian |date=20 March 2013 |access-date=16 September 2022 |archive-date=20 September 2022 |archive-url=https://web.archive.org/web/20220920163411/https://www.theguardian.com/football/2013/mar/20/umbro-nike-england-kits |url-status=live }}</ref>
+|}
+
+====Kit deals====
+{{Incomplete list|date=February 2019}}
+{| class="wikitable" style="text-align:left;"
+|-
+!Kit supplier
+!Period
+!Contract<br />announcement
+!Contract<br />duration
+!Value
+|-
+|rowspan=2 style="text-align:center;"|[[Nike, Inc.|Nike]]
+|rowspan=2|2013–present
+|style="text-align:center;"|3 September 2012
+|Spring 2013 – July 2018 (5 years)<ref>{{cite web |url=http://www.thefa.com/about-football-association/st-georges-park/discover/discover/news/fa-announce-new-nike-deal |title=FA announce new Nike deal |access-date=3 August 2018 |archive-url=https://web.archive.org/web/20190530041642/http://www.thefa.com/about-football-association/st-georges-park/discover/discover/news/fa-announce-new-nike-deal |archive-date=30 May 2019 |url-status=live }}</ref>
+| Total [[Pound sterling|£]]125m<ref>{{cite web |url=http://www.sportingintelligence.com/2013/05/20/new-nike-deal-makes-england-no2-in-world-football-but-not-on-the-pitch-200501/ |title=New Nike deal makes England no.2 in World Football (but not on the pitch) |access-date=3 August 2018 |archive-url=https://web.archive.org/web/20180712152248/http://www.sportingintelligence.com/2013/05/20/new-nike-deal-makes-england-no2-in-world-football-but-not-on-the-pitch-200501/ |archive-date=12 July 2018 |url-status=live }}</ref><br />(£25m per year)
+|-
+|style="text-align:center;"|13 December 2016
+|August 2018 – 2030 (12 years)
+|Total £400m<ref>{{cite web |url=https://www.theguardian.com/football/2016/dec/13/football-association-clinches-400-million-nike-kit-deal-england-football-team |title=Football Association secures new £400m England kit deal |website=[[The Guardian]] |date=13 December 2016 |access-date=3 August 2018 |archive-url=https://web.archive.org/web/20180622111419/https://www.theguardian.com/football/2016/dec/13/football-association-clinches-400-million-nike-kit-deal-england-football-team |archive-date=22 June 2018 |url-status=live }}</ref><br />(£33.3m per year)
+|}
+
+====Crest====
+[[File:Lion passant guardant of England.svg|thumb|The lion ''passant guardant'' used in the logo of the England national football team]]
+
+The motif of the England national football team has three lions ''passant guardant'', the emblem of King [[Richard I of England|Richard I]], who reigned from 1189 to 1199.<ref>{{cite news|last1=Cartwright|first1=Justin|title=Richard the Lionheart: battle addict who spent much of his life in France|url=https://www.theguardian.com/books/2013/sep/14/richard-lionheart-battle-addict-france|access-date=16 January 2016|work=The Guardian|date=14 September 2013|archive-url=https://web.archive.org/web/20160407080237/http://www.theguardian.com/books/2013/sep/14/richard-lionheart-battle-addict-france|archive-date=7 April 2016|url-status=live}}</ref> In 1872, English players wore white jerseys emblazoned with the three lions crest of the Football Association.<ref name=kits/> The lions, often blue, have had minor changes to colour and appearance.<ref>{{cite news|last1=Winter|first1=Henry|title=England identity crisis ahead as FA rejig Three Lions|url=https://www.telegraph.co.uk/sport/football/teams/england/4928389/England-identity-crisis-ahead-as-FA-rejig-Three-Lions.html|access-date=16 January 2016|work=The Daily Telegraph|date=3 March 2009|archive-url=https://web.archive.org/web/20160205110708/http://www.telegraph.co.uk/sport/football/teams/england/4928389/England-identity-crisis-ahead-as-FA-rejig-Three-Lions.html|archive-date=5 February 2016|url-status=live}}</ref> Initially topped by a crown, this was removed in 1949 when the FA was given an official coat of arms by the [[College of Arms]]; this introduced ten [[Tudor rose]]s, one for each of the regional branches of the FA.<ref name=kits>{{cite web|title=England 1872–1960|url=http://www.historicalkits.co.uk/international/england/england-1872-1960.html|publisher=Historical Football Kits|access-date=16 January 2016|archive-url=https://web.archive.org/web/20160309191735/http://www.historicalkits.co.uk/international/england/england-1872-1960.html|archive-date=9 March 2016|url-status=live}}</ref><ref>{{cite news|title=How The FA found inspiration from the 1100s for its iconic Crest|url=http://www.utalkmarketing.com/pages/article.aspx?articleid=13357&title=how_the_fa_found_inspiration_from_the_1100s_for_its_iconic_crest|access-date=16 January 2016|publisher=UTalk Marketing|date=12 March 2009|archive-url=https://web.archive.org/web/20160205110708/http://www.utalkmarketing.com/pages/article.aspx?articleid=13357&title=how_the_fa_found_inspiration_from_the_1100s_for_its_iconic_crest|archive-date=5 February 2016|url-status=dead}}</ref> Since 2003, England top their logo with a [[Star (football badge)|star]] to recognise their World Cup win in 1966; this was first embroidered onto the left sleeve of the home kit, and a year later was moved to its current position, first on the away shirt.<ref>{{cite web|title=England 1997&nbsp;– 2010|url=https://historicalkits.co.uk/international/england/england-1997-2010.html|publisher=Historical Football Kits|access-date=16 January 2016|archive-url=https://web.archive.org/web/20160102124801/http://www.historicalkits.co.uk/international/england/england-1997-2010.html|archive-date=2 January 2016|url-status=live}}</ref>
+
+====Colours====
+{{Commons|England national football team kits}}
+[[File:Eng1966 football shirt.jpeg|thumb|England shirt for the [[1966 FIFA World Cup final|1966 World Cup final]]]]
+
+England's traditional home colours are white shirts, navy blue shorts and white or black socks. The team has periodically worn an all-white kit.
+
+Although England's first [[away kit]]s were blue, England's traditional away colours are red shirts, white shorts and red socks. In 1996, England's away kit was changed to grey shirts, shorts and socks. This kit was only worn three times, including against [[Germany National Football Team|Germany]] in the semi-final of [[Euro 1996]] but the deviation from the traditional red was unpopular with supporters and the England away kit remained red until 2011, when a navy blue away kit was introduced. The away kit is also sometimes worn during home matches, when a new edition has been released to promote it.
+
+England have occasionally had a third kit. At the 1970 World Cup, England wore a third kit with pale blue shirts, shorts and socks against [[Czechoslovakia national football team|Czechoslovakia]]. They had a kit similar to [[Brazil national football team|Brazil]]'s, with yellow shirts, yellow socks and blue shorts which they wore in the summer of 1973. For the 1986 World Cup, England had a third kit of pale blue, imitating that worn in Mexico 16 years earlier and England retained pale blue third kits until 1992, but they were rarely used.
+
+[[Umbro]] first agreed to manufacture the kit in 1954 and since then has supplied most of the kits, the exceptions being from 1959 to 1965 with [[Bukta]] and 1974–1984 with [[Admiral Sportswear|Admiral]]. [[Nike, Inc.|Nike]] purchased Umbro in 2008 and took over as kit supplier in 2013 following their sale of the Umbro brand.<ref>{{cite web|title=England's Uniforms and Playing Kits|url=http://www.englandfootballonline.com/teamunif/Unif.html|website=EnglandFootballOnline.com|access-date=30 October 2014|archive-url=https://web.archive.org/web/20080115085155/http://www.englandfootballonline.com/TeamUnif/Unif.html|archive-date=15 January 2008|url-status=live}}</ref>
+
+===Home stadium===
+{{Main|England national football team home stadium}}
+
+[[File:Wembley enggermatch.jpg|thumb|[[Wembley Stadium]] during a friendly match between England and [[Germany national football team|Germany]]]]
+
+For the first 50 years of their existence, England played their home matches all around the country. They initially used [[cricket]] grounds before later moving on to football club stadiums. The original [[Wembley Stadium (1923)|Empire Stadium]] was built in [[Wembley]], London, for the [[British Empire Exhibition]].<ref>{{cite news |url=https://www.nytimes.com/1924/06/17/archives/asks-premier-to-stop-rodeo-steer-roping-british-society-appeals-in.html |title=Asks Premier to stop rodeo steer roping; British Society appeals 'in name of humanity' against contest of American cowboys |work=The New York Times |date=17 June 1924 |access-date=16 September 2022 |archive-date=20 September 2022 |archive-url=https://web.archive.org/web/20220920165017/https://www.nytimes.com/1924/06/17/archives/asks-premier-to-stop-rodeo-steer-roping-british-society-appeals-in.html |url-status=live }}</ref><ref>{{cite news |url=https://www.open.ac.uk/researchprojects/makingbritain/content/1924-british-empire-exhibition |title=1924 British Empire Exhibition |author=Open University |access-date=16 September 2022 |archive-date=20 September 2022 |archive-url=https://web.archive.org/web/20220920170540/https://www.open.ac.uk/researchprojects/makingbritain/content/1924-british-empire-exhibition |url-status=live }}</ref>
+
+England played their first match at the stadium in 1924 against Scotland<ref>{{cite news |url=https://www.irishnews.com/sport/2018/04/13/news/on-this-day-april-13-1924-england-played-their-first-international-at-wembley-1303520/ |title=On this day, April 13, 1924, England played their first international at Wembley |publisher=The Irish News |date=13 April 2018 |access-date=16 September 2022 |archive-date=20 September 2022 |archive-url=https://web.archive.org/web/20220920163637/https://www.irishnews.com/sport/2018/04/13/news/on-this-day-april-13-1924-england-played-their-first-international-at-wembley-1303520/ |url-status=live }}</ref> and for the next 27 years Wembley was used as a venue for matches against Scotland only. The stadium later became known simply as Wembley Stadium and it became England's permanent home stadium during the 1950s. In October 2000, the stadium closed its doors, ending with a [[2000 England v Germany football match|defeat]] against Germany.<ref>{{cite news |url=https://www.theguardian.com/football/2020/may/29/golden-goal-dietmar-hamann-for-germany-v-england-2000 |title=Golden Goal: Dietmar Hamann for Germany v England (2000) |author=Alex Hess |work=The Guardian |date=29 May 2020 |access-date=16 September 2022 |archive-date=20 September 2022 |archive-url=https://web.archive.org/web/20220920163525/https://www.theguardian.com/football/2020/may/29/golden-goal-dietmar-hamann-for-germany-v-england-2000 |url-status=live }}</ref>
+
+This stadium was demolished during the period of 2002–03, and work began to completely rebuild it.<ref>{{cite news |url=https://news.bbc.co.uk/sport2/hi/football/2729971.stm |title=End of era for Wembley |publisher=BBC Sport |date=7 February 2003 |access-date=16 September 2022 |archive-date=20 September 2022 |archive-url=https://web.archive.org/web/20220920163657/http://news.bbc.co.uk/sport2/hi/football/2729971.stm |url-status=live }}</ref> During this time, England played at venues across the country, though by the time of the [[2006 FIFA World Cup qualification&nbsp;– UEFA Group 6|2006 World Cup qualification]], this had largely settled down to having [[Manchester United F.C.|Manchester United]]'s [[Old Trafford]] stadium as the primary venue, with [[Newcastle United F.C.|Newcastle United]]'s [[St. James' Park, Newcastle|St. James' Park]] used on occasions when Old Trafford was unavailable.<ref>{{cite news |url=https://www.independent.co.uk/sport/football/international/old-trafford-to-stage-four-home-world-cup-qualifiers-554100.html |title=Old Trafford to stage four home World Cup qualifiers |author=Martyn Ziegler |work=The Independent |date=23 July 2004 |access-date=16 September 2022 |archive-date=20 September 2022 |archive-url=https://web.archive.org/web/20220920170946/https://www.independent.co.uk/sport/football/international/old-trafford-to-stage-four-home-world-cup-qualifiers-554100.html |url-status=live }}</ref>
+
+Their first match in the new [[Wembley Stadium]] was in March 2007 when they drew with Brazil.<ref>{{cite news |url=https://news.bbc.co.uk/sport2/hi/football/internationals/6696153.stm |title=England 1–1 Brazil |publisher=BBC Sport |date=1 June 2007 |access-date=16 September 2022 |archive-date=25 September 2009 |archive-url=https://web.archive.org/web/20090925054608/http://news.bbc.co.uk/sport2/hi/football/internationals/6696153.stm |url-status=live }}</ref> The stadium is now owned by the Football Association, via its subsidiary Wembley National Stadium Limited.<ref>{{cite news |url=https://www.wembleystadium.com/about/stakeholders |title=Stakeholders |publisher=Wembley Stadium |access-date=16 September 2022 |archive-date=31 March 2021 |archive-url=https://web.archive.org/web/20210331103551/https://www.wembleystadium.com/about/stakeholders |url-status=live }}</ref>
+
+===Rivalries===
+England's three main rivalries are with [[Scotland national football team|Scotland]], [[Germany national football team|Germany]], and [[Argentina national football team|Argentina]].<ref>{{cite news |url=https://www.telegraph.co.uk/euro-2021/2021/06/29/englands-worst-top-football-rivalries-germany-euro-2020/ |title=England's top 10 football rivalries — but where do Germany rank? |author=Thom Gibbs |publisher=The Telegraph |date=29 June 2021 |access-date=3 March 2023 |archive-date=24 August 2023 |archive-url=https://web.archive.org/web/20230824151718/https://www.telegraph.co.uk/euro-2021/2021/06/29/englands-worst-top-football-rivalries-germany-euro-2020/ |url-status=live }}</ref> Smaller rivalries with [[France national football team|France]], [[Wales national football team|Wales]], and the [[Republic of Ireland national football team|Republic of Ireland]] have also been observed.<ref>{{cite news |url=https://www.theguardian.com/football/2022/dec/09/france-hugo-lloris-predicts-big-battle-with-england-in-world-cup-quarter-final-qatar-2022 |title=France's Hugo Lloris predicts 'big battle' with England in World Cup quarter-final |author=Ben Fisher |work=The Guardian |date=9 December 2022 |access-date=16 July 2023 |archive-date=17 June 2023 |archive-url=https://web.archive.org/web/20230617185918/https://www.theguardian.com/football/2022/dec/09/france-hugo-lloris-predicts-big-battle-with-england-in-world-cup-quarter-final-qatar-2022 |url-status=live }}</ref><ref>{{cite news |url=https://www.bbc.co.uk/sport/football/63742682 |title=World Cup 2022: 'Anyone but England' - the game Wales do not want |author=Dafydd Pritchard |publisher=BBC Sport |date=29 November 2022 |access-date=16 July 2023 |archive-date=14 August 2023 |archive-url=https://web.archive.org/web/20230814135417/https://www.bbc.co.uk/sport/football/63742682 |url-status=live }}</ref><ref>{{cite news |url=https://www.independent.co.uk/sport/football/international/england-ireland-jack-grealish-declan-rice-b1721479.html |title=What Ireland really feels about England, an 800-year rivalry of shades of grey, green and white |author=Miguel Delaney |publisher=Independent |date=12 November 2020 |access-date=16 July 2023 |archive-date=14 August 2023 |archive-url=https://web.archive.org/web/20230814122856/https://www.independent.co.uk/sport/football/international/england-ireland-jack-grealish-declan-rice-b1721479.html |url-status=live }}</ref>
+
+====Scotland====
+{{Main|England–Scotland football rivalry}}
+England's rivalry with Scotland is one of the fiercest international rivalries that exists.<ref name=HistoryFierce>{{cite news |url=http://news.bbc.co.uk/1/hi/special_report/1999/11/99/battle_of_britain/473756.stm |title=A history of fierce football rivalry |publisher=BBC News |date=13 October 1999 |access-date=17 June 2021 |archive-date=15 September 2007 |archive-url=https://web.archive.org/web/20070915135505/http://news.bbc.co.uk/1/hi/special_report/1999/11/99/battle_of_britain/473756.stm |url-status=live }}</ref><ref>{{cite news |url=http://edition.cnn.com/2008/SPORT/football/11/06/first11.rivalries/index.html |title=Top 10 international rivalries |publisher=CNN |date=6 November 2008 |access-date=29 June 2010 |last=Duke |first=Greg |archive-date=20 February 2020 |archive-url=https://web.archive.org/web/20200220051229/http://edition.cnn.com/2008/SPORT/football/11/06/first11.rivalries/index.html |url-status=live }}</ref> It is the oldest international fixture in the world, [[1872 Scotland v England football match|first played in 1872]] at [[Hamilton Crescent]], Glasgow.<ref>{{cite news |url=https://www.bbc.com/news/uk-scotland-highlands-islands-63781834 |title=The day Scotland and England played the first football international |author=Donald Pollock |publisher=BBC News |date=30 November 2022 |access-date=3 March 2023 |archive-date=24 August 2023 |archive-url=https://web.archive.org/web/20230824151718/https://www.bbc.com/news/uk-scotland-highlands-islands-63781834 |url-status=live }}</ref> The [[history of the British Isles]] has led to much rivalry between the nations in many forms, and the social and cultural effects of centuries of antagonism and conflict between the two has contributed to the intense nature of the sporting contests. [[Scottish national identity|Scottish nationalism]] has also been a factor in the Scots' desire to defeat England above all other rivals, with Scottish [[Sports journalism|sports journalists]] traditionally referring to the English as the "Auld Enemy".<ref>{{cite news|url=http://news.bbc.co.uk/1/hi/scotland/517293.stm|title=Scots relish Auld Enemy showdown|publisher=BBC News|date=12 November 1999|access-date=16 September 2007|archive-date=2 June 2022|archive-url=https://web.archive.org/web/20220602172508/http://news.bbc.co.uk/1/hi/scotland/517293.stm|url-status=live}}</ref> The footballing rivalry has diminished somewhat since the late 1970s, particularly since the annual fixture stopped in 1989. For England, games against Germany and Argentina are now considered to be more important than the historic rivalry with Scotland.<ref>{{cite news |url=http://www.newsandstar.co.uk/features/people/you-re-watching-the-world-cup-from-cumbria-the-home-of-international-football-1.721408?referrerPath=home |title=You're watching the World Cup from Cumbria – the home of international football... |work=News and Star |date=28 June 2010 |access-date=29 June 2010 }}{{dead link|date=May 2026}}</ref>
+
+====Germany====
+{{Main|England–Germany football rivalry}}
+England's rivalry with Germany is considered to be mainly an English phenomenon—in the run-up to any competition match between the two teams, many UK newspapers will print articles detailing results of previous encounters, such as England's win in the [[1966 FIFA World Cup final|1966 World Cup final]] and the semi-final penalty shoot-out defeats of the [[1990 FIFA World Cup knockout stage#West Germany vs England|1990 World Cup]] and [[UEFA Euro 1996 knockout stage|Euro 96]].<ref>{{cite news |url=https://www.theguardian.com/commentisfree/2021/jun/25/england-germany-football-teams-tuesday-heartbreak |title=Rivalry? England v Germany is more like a tale of unrequited love |author=Jonathan Freedland |work=The Guardian |date=25 June 2021 |access-date=3 March 2023 |archive-date=14 August 2023 |archive-url=https://web.archive.org/web/20230814122759/https://www.theguardian.com/commentisfree/2021/jun/25/england-germany-football-teams-tuesday-heartbreak |url-status=live }}</ref><ref>{{cite web | url= https://www.fourfourtwo.com/features/euro-96-complete-history-england-germany-semi-final-penalty-shootout-alan-shearer-gareth-southgate | title=Euro 96, the complete history, part six: England's dream dies in Germany semi-final shootout | work=FourFourTwo | first=Gary | last=Parkinson |date=24 May 2024 |access-date=18 July 2024}}</ref> This rivalry has diminished significantly since the early 2020s.<ref>{{cite news |url=https://www.ft.com/content/495dc000-cc14-4475-85e4-7c5cd2dd3425 |title=England's one-sided football rivalry with Germany loses its bite |author=Simon Kuper |publisher=Financial Times |date=28 June 2021 |access-date=3 March 2023 |archive-date=14 August 2023 |archive-url=https://web.archive.org/web/20230814150318/https://www.ft.com/content/495dc000-cc14-4475-85e4-7c5cd2dd3425 |url-status=live }}</ref> Germans consider [[Italy national football team|Italy]], the [[Netherlands national football team|Netherlands]], and France to be their greater rivals.{{Citation needed|date=July 2026}}
+
+====Argentina====
+{{Main|Argentina–England football rivalry}}
+England's rivalry with Argentina is highly competitive. Games between the two teams, even those that are only [[friendly match]]es, are often marked by notable and sometimes controversial incidents such as the [[The hand of God|hand of God]] in [[Argentina v England (1986 FIFA World Cup)|1986]].<ref name="goal">{{cite web|url=http://www.goal.com/en-gb/news/diego-maradona-the-hand-of-god-the-most-infamous-goal-in/15sev9f2t2sn814f2n8d2ah3zc|title=Diego Maradona & the Hand of God: The most infamous goal in World Cup history|work=[[Goal (website)|Goal]]|access-date=22 June 2018|archive-date=22 June 2018|archive-url=https://web.archive.org/web/20180622193312/http://www.goal.com/en-gb/news/diego-maradona-the-hand-of-god-the-most-infamous-goal-in/15sev9f2t2sn814f2n8d2ah3zc|url-status=live}}</ref><ref name="Arg">{{cite news|url=https://www.theguardian.com/sport/2002/may/19/worldcupfootball2002.football2|title=England v Argentina – A history|last=Carlin|first=John|date=19 May 2002|work=[[The Guardian]]|access-date=22 June 2018|archive-date=8 November 2020|archive-url=https://web.archive.org/web/20201108103757/https://www.theguardian.com/sport/2002/may/19/worldcupfootball2002.football2|url-status=live}}</ref> The rivalry is unusual in that it is an intercontinental one; typically such footballing rivalries exist between bordering nations. England is regarded in Argentina as one of the major rivals of the national football team, matched only by [[Brazil national football team|Brazil]] and [[Uruguay national football team|Uruguay]].<ref name="Arg"/> The rivalry is, to a lesser extent reciprocal in England, locally described as a ''grudge match'' although matches against Germany carry a greater significance in popular perception. The rivalry emerged across several games during the latter half of the 20th century, even though as of 2008 the teams have played each other on only 14 occasions in full internationals.<ref name="11v11">{{cite news |url=https://www.11v11.com/teams/england/tab/opposingTeams/opposition/Argentina/ |title=England national football team: record v Argentina |website=11v11 |access-date=6 March 2023 |archive-date=14 August 2023 |archive-url=https://web.archive.org/web/20230814145919/https://www.11v11.com/teams/england/tab/opposingTeams/opposition/Argentina/ |url-status=live }}</ref> The rivalry was intensified, particularly in Argentina, by non-footballing events, especially the 1982 [[Falklands War]] between Argentina and the United Kingdom.<ref>{{cite web |last=Dawnay |first=Oliver |url=https://talksport.com/football/559182/argentina-legend-diego-maradona-says-hand-of-god-goal-against-england-revenge-falklands-war |title=Argentina legend Diego Maradona says 'Hand of God' goal against England was 'symbolic revenge' for the Falklands War |publisher=[[Talksport]] |date=6 June 2019 |access-date=19 January 2020 |archive-date=21 February 2020 |archive-url=https://web.archive.org/web/20200221133816/https://talksport.com/football/559182/argentina-legend-diego-maradona-says-hand-of-god-goal-against-england-revenge-falklands-war/ |url-status=live }}</ref> England and Argentina have not met since a friendly in November 2005 until the [[2026 FIFA World Cup knockout stage|2026 FIFA World Cup Semi Final]].<ref name="11v11"/>
+
+===Songs===
+{{Main|List of England national football team songs}}
+
+[[List of England national football team songs|Numerous songs]] have been released about the England national football team.
+
+===Media coverage===
+All England matches are broadcast with full commentary on [[Talksport]] and [[BBC Radio 5 Live]]. From the [[2008–09 in English football|2008–09]] season until the 2017–18 season, England's home and away qualifiers, and friendlies both home and away were broadcast live on [[ITV Sport]] (often with the exception of [[STV (TV network)|STV]], the ITV franchisee in central and northern Scotland). England's away qualifiers for the 2010 World Cup were shown on [[Setanta Sports]] until that company's collapse. As a result of Setanta Sports's demise, England's World Cup qualifier in Ukraine on 10 October 2009 was shown in the United Kingdom on a pay-per-view basis via the internet only. This one-off event was the first time an England game had been screened in such a way. The number of subscribers, paying between £4.99 and £11.99 each, was estimated at between 250,000 and 300,000 and the total number of viewers at around 500,000.<ref>{{cite news |title=Meltdown averted as England match draws online audience of 500,000 |newspaper=The Guardian |date=11 October 2009 |last=Gibson |first=Owen |url=https://www.theguardian.com/football/2009/oct/11/england-ukraine-internet-viewing-figures |access-date=23 February 2010 |location=London |archive-url=https://web.archive.org/web/20140808042823/http://www.theguardian.com/football/2009/oct/11/england-ukraine-internet-viewing-figures |archive-date=8 August 2014 |url-status=live }}</ref> In 2018, [[Sky Sports]] broadcast the England UEFA Nations League and in-season friendlies, until 2021 and [[ITV Sport]] broadcast the European qualifiers for Euro-World Cups and pre-tournament friendlies (after the Nations League group matches end), until 2022.<ref>{{cite web|url=http://www.thefa.com/news/2017/jan/26/260117-england-uefa-broadcast-2018-2022-itv-sky|title=England matches to be broadcast by ITV and Sky Sports|publisher=The Football Association|language=en|access-date=19 September 2018|archive-url=https://web.archive.org/web/20171224064012/http://www.thefa.com/news/2017/jan/26/260117-england-uefa-broadcast-2018-2022-itv-sky|archive-date=24 December 2017|url-status=live}}</ref> In April 2022, [[Channel 4]] won the rights for England matches until June 2024, including [[2022–23 UEFA Nations League]] matches, [[UEFA Euro 2024 qualifying|Euro 2024 qualifying]] games, and friendlies. 2022 World Cup rights remained with the BBC and ITV.<ref>{{cite web |author=Dom Smith |url=https://englandfootball.org/2022/04/30/channel-4s-england-deal-is-a-victory-for-those-who-too-often-lose/ |title=Channel 4's England Deal Is a Victory for Those Who Too Often Lose |publisher=Englandfootball.org |date=30 April 2022 |access-date=5 May 2022 |archive-date=30 April 2022 |archive-url=https://web.archive.org/web/20220430010540/https://englandfootball.org/2022/04/30/channel-4s-england-deal-is-a-victory-for-those-who-too-often-lose/ |url-status=live }}</ref>
+
+==Results and fixtures==
+{{Main|England national football team results (2020–present)}}
+{{Further|2025–26 in English football|2026–27 in English football}}
+
+The following is a list of match results in the last 12 months, as well as any future matches that have been scheduled.
+
+{{legend2|#CCFFCC|Win|border=1px solid #AAAAAA}}
+{{legend2|#FFFFCC|Draw|border=1px solid #AAAAAA}}
+{{legend2|#FFCCCC|Loss|border=1px solid #AAAAAA}}
+{{legend2|#FFFFFF|Fixture|border=1px solid #AAAAAA}}
+
+===2025===
+{{football box collapsible
+|format=1
+|date              = 6 September 2025
+|time              = 17:00 [[British Summer Time|BST]] ([[UTC+01:00|UTC+1]])
+|round             = [[2026 FIFA World Cup qualification – UEFA Group K|2026 FIFA World Cup qualification]]
+|team1             = {{fb-rt|ENG}}
+|score             = 2–0
+|report            = https://www.uefa.com/european-qualifiers/match/2044229/
+|team2             = {{fb|AND}}
+|goals1            =
+*[[Christian García (Andorran footballer)|García]] {{goal|25|o.g.}}
+*[[Declan Rice|Rice]] {{goal|67}}
+|goals2            =
+|stadium           = [[Villa Park]]
+|location          = [[Birmingham]], England
+|attendance        = 39,202
+|referee           = [[Mohammad Al-Emara]] ([[Football Association of Finland|Finland]])
+|result            = W
+}}
+{{football box collapsible
+|format=1
+|date              = 9 September 2025
+|time              = 20:45 [[Central European Summer Time|CEST]] ([[UTC+02:00|UTC+2]])
+|round             = [[2026 FIFA World Cup qualification – UEFA Group K|2026 FIFA World Cup qualification]]
+|team1             = {{fb-rt|SRB}}
+|score             = 0–5
+|report            = https://www.uefa.com/european-qualifiers/match/2044254/
+|team2             = {{fb|ENG}}
+|goals1            =
+|goals2            =
+*[[Harry Kane|Kane]] {{goal|33}}
+*[[Noni Madueke|Madueke]] {{goal|35}}
+*[[Ezri Konsa|Konsa]] {{goal|52}}
+*[[Marc Guéhi|Guéhi]] {{goal|75}}
+*[[Marcus Rashford|Rashford]] {{goal|90|pen.}}
+|stadium           = [[Rajko Mitić Stadium]]
+|location          = [[Belgrade]], Serbia
+|attendance        = 39,789
+|referee           = [[Clément Turpin]] ([[French Football Federation|France]])
+|result            = W
+}}
+{{football box collapsible
+|format=1
+|date              = 9 October 2025
+|time              = 19:45 [[British Summer Time|BST]] ([[UTC+01:00|UTC+1]])
+|round             = [[Exhibition game#Association football|Friendly]]
+|team1             = {{fb-rt|ENG}}
+|score             = 3–0
+|report            = https://www.uefa.com/european-qualifiers/friendlies/match/2044868--england-vs-wales/
+|team2             = {{fb|WAL}}
+|goals1            =
+*[[Morgan Rogers|Rogers]] {{goal|3}}
+*[[Ollie Watkins|Watkins]] {{goal|11}}
+*[[Bukayo Saka|Saka]] {{goal|20}}
+|goals2            =
+|stadium           = [[Wembley Stadium]]
+|location          = [[London]], England
+|attendance        = 78,126
+|referee           = [[Urs Schnyder]] ([[Swiss Football Association|Switzerland]])
+|result            = W
+}}
+{{football box collapsible
+|format=1
+|date              = 14 October 2025
+|time              = 21:45 [[Eastern European Summer Time|EEST]] ([[UTC+03:00|UTC+3]])
+|round             = [[2026 FIFA World Cup qualification – UEFA Group K|2026 FIFA World Cup qualification]]
+|team1             = {{fb-rt|LVA}}
+|score             = 0–5
+|report            = https://www.uefa.com/european-qualifiers/match/2044297/
+|team2             = {{fb|ENG}}
+|goals1            =
+|goals2            =
+*[[Anthony Gordon (footballer)|Gordon]] {{goal|26}}
+*[[Harry Kane|Kane]] {{goal|44||45+4|pen.}}
+*[[Maksims Toņiševs|Toņiševs]] {{goal|58|o.g.}}
+*[[Eberechi Eze|Eze]] {{goal|86}}
+|stadium           = [[Daugava Stadium (Riga)|Daugava Stadium]]
+|location          = [[Riga]], Latvia
+|attendance        = 10,404
+|referee           = [[Tasos Sidiropoulos]] ([[Hellenic Football Federation|Greece]])
+|result            = W
+}}
+{{football box collapsible
+|format=1
+|date              = 13 November 2025
+|time              = 19:45 [[Greenwich Mean Time|GMT]] ([[UTC±00:00|UTC±0]])
+|round             = [[2026 FIFA World Cup qualification – UEFA Group K|2026 FIFA World Cup qualification]]
+|team1             = {{fb-rt|ENG}}
+|score             = 2–0
+|report            = https://www.uefa.com/european-qualifiers/match/2044311/
+|team2             = {{fb|SRB}}
+|goals1            =
+*[[Bukayo Saka|Saka]] {{goal|28}}
+*[[Eberechi Eze|Eze]] {{goal|90}}
+|goals2            =
+|stadium           = [[Wembley Stadium]]
+|location          = [[London]], England
+|attendance        = 74,289
+|referee           = [[Ivan Kružliak]] ([[Slovak Football Association|Slovakia]])
+|result            = W
+}}
+{{football box collapsible
+|format=1
+|date              = 16 November 2025
+|time              = 18:00 [[Central European Time|CET]] ([[UTC+01:00|UTC+1]])
+|round             = [[2026 FIFA World Cup qualification – UEFA Group K|2026 FIFA World Cup qualification]]
+|team1             = {{fb-rt|ALB}}
+|score             = 0–2
+|report            = https://www.uefa.com/european-qualifiers/match/2044332/
+|team2             = {{fb|ENG}}
+|goals1            =
+|goals2            =
+*[[Harry Kane|Kane]] {{goal|74||82}}
+|stadium           = [[Arena Kombëtare]]
+|location          = [[Tirana]], Albania
+|attendance        = 21,459
+|referee           = [[Marco Guida]] ([[Italian Football Federation|Italy]])
+|result            = W
+}}
+
+===2026===
+{{football box collapsible
+|format=1
+|date              = 27 March 2026
+|time              = 19:45 [[Greenwich Mean Time|GMT]] ([[UTC±00:00|UTC±0]])
+|round             = [[Exhibition game#Association football|Friendly]]
+|team1             = {{fb-rt|ENG}}
+|score             = 1–1
+|report            = https://www.fifa.com/en/match-centre/match/cesdwwnxbc5fmajgroc0hqzy2/dezv8l0fzgcxtejl0dwmy1gyc/2m1wojm5bt709wu4kugtytxqs/7da5vm7jrz6b800lt0gz12f4k?date=2026-03-27
+|team2             = {{fb|URU}}
+|goals1            = [[Ben White (footballer)|White]] {{goal|81}}
+|goals2            = [[Federico Valverde|Valverde]] {{goal|90+4|pen.}}
+|stadium           = [[Wembley Stadium]]
+|location          = [[London]], England
+|attendance        = 80,581
+|referee           = [[Sven Jablonski]] ([[German Football Association|Germany]])
+|result            = D
+}}
+{{football box collapsible
+|format=1
+|date              = 31 March 2026
+|time              = 19:45 [[British Summer Time|BST]] ([[UTC+01:00|UTC+1]])
+|round             = [[Exhibition game#Association football|Friendly]]
+|team1             = {{fb-rt|ENG}}
+|score             = 0–1
+|report            = https://www.fifa.com/en/match-centre/match/cesdwwnxbc5fmajgroc0hqzy2/dezv8l0fzgcxtejl0dwmy1gyc/2m1wojm5bt709wu4kugtytxqs/7dvu9pni7lpkg85ruh97uq51w
+|team2             = {{fb|JPN}}
+|goals1            =
+|goals2            =[[Kaoru Mitoma|Mitoma]] {{goal|23}}
+|stadium           = [[Wembley Stadium]]
+|location          = [[London]], England
+|attendance        = 79,233
+|referee           = [[Nick Walsh (referee)|Nick Walsh]] ([[Scottish Football Association|Scotland]])
+|result            = L
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[Exhibition game#Association football|Friendly]]
+|date       = 6 June 2026
+|time       = 16:00 [[Eastern Standard Time|EST]] ([[UTC-05:00|UTC-5]])
+|team1      = {{fb-rt|ENG}}
+|score      = 1–0
+|team2      = {{fb|NZL}}
+|report     = https://www.fifa.com/en/match-centre/match/cesdwwnxbc5fmajgroc0hqzy2/dezv8l0fzgcxtejl0dwmy1gyc/2m1wojm5bt709wu4kugtytxqs/7pbr661rsvaaiuhohzjgu6mms?date=2026-06-06
+|goals1     = [[Harry Kane|Kane]] {{goal|45+2}}
+|goals2     =
+|location   = [[Tampa, Florida|Tampa]], United States
+|stadium    = [[Raymond James Stadium]]
+|attendance = 25,889
+|referee    = [[Natalie Simon]] ([[United States Soccer Federation|United States]])
+|result     = W
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[Exhibition game#Association football|Friendly]]
+|date       = 10 June 2026
+|time       = 16:00 [[Eastern Standard Time|EST]] ([[UTC-05:00|UTC-5]])
+|team1      = {{fb-rt|ENG}}
+|score      = 3–0
+|team2      = {{fb|CRC}}
+|report     = https://www.fifa.com/en/match-centre/match/cesdwwnxbc5fmajgroc0hqzy2/dezv8l0fzgcxtejl0dwmy1gyc/2m1wojm5bt709wu4kugtytxqs/7prufijctb3r9h7xgaqh7lkic?date=2026-06-10
+|goals1     =
+*[[Declan Rice|Rice]] {{goal|9}}
+*[[Anthony Gordon (footballer)|Gordon]] {{goal|68|pen.}}
+*[[Ollie Watkins|Watkins]] {{goal|87}}
+|goals2     =
+|location   = [[Orlando, Florida|Orlando]], United States
+|stadium    = [[Inter&Co Stadium]]
+|attendance = 25,500
+|referee    = [[Katja Koroleva]] ([[United States Soccer Federation|United States]])
+|result     = W
+}}
+{{football box collapsible
+|round        = [[2026 FIFA World Cup Group L]]
+|format       = 1
+|date         = {{Start date|2026|6|17|df=y}}
+|time         = 15:00 [[Eastern Standard Time|EST]] ([[UTC-05:00|UTC-5]])
+|team1        = {{fb-rt|ENG}}
+|score        = 4–2
+|report       = https://www.fifa.com/en/match-centre/match/17/285023/289273/400021507
+|team2        = {{fb|CRO}}
+|goals1       = 
+*[[Harry Kane|Kane]] {{goal|12|pen.|42}}
+*[[Jude Bellingham|Bellingham]] {{goal|47}}
+*[[Marcus Rashford|Rashford]] {{goal|85}}
+|goals2       = 
+*[[Martin Baturina|Baturina]] {{goal|36}}
+*[[Petar Musa|Musa]] {{goal|45+5}}
+|stadium      = [[AT&T Stadium]]
+|location     = [[Arlington, Texas|Arlington]], United States
+|attendance   = 70,389
+|referee      = [[Clément Turpin]] ([[French Football Federation|France]])
+|result       = W
+}}
+{{football box collapsible
+|round        = [[2026 FIFA World Cup Group L]]
+|format       = 1
+|date         = {{Start date|2026|6|23|df=y}}
+|time         = 16:00 [[Eastern Daylight Time|EDT]] ([[UTC-04:00|UTC-4]])
+|team1        = {{fb-rt|ENG}}
+|score        = 0–0
+|report       = https://www.fifa.com/en/match-centre/match/17/285023/289273/400021506
+|team2        = {{fb|GHA}}
+|goals1       = 
+|goals2       = 
+|stadium      = [[Gillette Stadium]]
+|location     = [[Foxborough, Massachusetts|Foxborough]], United States
+|attendance   = 63,983
+|referee      = [[Saíd Martínez]] ([[Football Federation of Honduras|Honduras]])
+|result       = D
+}}
+{{football box collapsible
+|round         = [[2026 FIFA World Cup Group L]]
+|format       = 1
+|date         = {{Start date|2026|6|27|df=y}}
+|time         = 17:00 [[Eastern Daylight Time|EDT]] ([[UTC-04:00|UTC-4]])
+|team1        = {{fb-rt|PAN}}
+|score        = 0–2
+|report       = https://www.fifa.com/en/match-centre/match/17/285023/289273/400021508
+|team2        = {{fb|ENG}}
+|goals1       = 
+|goals2       = 
+*[[Jude Bellingham|Bellingham]] {{goal|62}}
+*[[Harry Kane|Kane]] {{goal|67}}
+|stadium      = [[MetLife Stadium]]
+|location     = [[East Rutherford, New Jersey|East Rutherford]], United States
+|attendance=80,663
+|referee=[[Abdulrahman Al-Jassim]] ([[Qatar Football Association|Qatar]])
+|result       = W
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[2026 FIFA World Cup]] [[2026 FIFA World Cup round of 32|Round of 32]]
+|date       = {{Start date|2026|7|1|df=y}}
+|time       = 12:00 [[Eastern Daylight Time|EDT]] ([[UTC-04:00|UTC-4]])
+|team1      = {{fb-rt|ENG}}
+|score      = 2–1
+|team2      = {{fb|COD}}
+|report     = https://www.fifa.com/en/match-centre/match/17/285023/289287/400021512
+|goals1     =
+*[[Harry Kane|Kane]] {{goal|75|86}}
+|goals2     =
+*[[Brian Cipenga|Cipenga]] {{goal|7}}
+|location   = [[Atlanta]], United States
+|stadium    = [[Mercedes-Benz Stadium]]
+|attendance = 68,239
+|referee    = [[Adham Makhadmeh]] ([[Jordan Football Association|Jordan]])
+|result     = W
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[2026 FIFA World Cup]] [[2026 FIFA World Cup knockout stage#Round of 16|Round of 16]]
+|date       = {{Start date|2026|7|5|df=y}}
+|time       = 19:00 [[Central Time Zone|CST]] ([[UTC-06:00|UTC-6]])
+|team1      = {{fb-rt|MEX}}
+|score      = 2–3
+|team2      = {{fb|ENG}}
+|report     = https://www.fifa.com/en/match-centre/match/17/285023/289288/400021531
+|goals1     =
+*[[Julián Andrés Quiñones|Quiñones]] {{goal|42}}
+*[[Raúl Jiménez|Jiménez]] {{goal|69|pen.}}
+|goals2     =
+*[[Jude Bellingham|Bellingham]] {{goal|36||38}}
+*[[Harry Kane|Kane]] {{goal|60|pen.}}
+|location   = [[Mexico City]], Mexico
+|stadium    = [[Estadio Azteca]]
+|attendance = 80,824
+|referee    = [[Alireza Faghani]] ([[Football Australia|Australia]])
+|result     = W
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[2026 FIFA World Cup]] [[2026 FIFA World Cup knockout stage#Quarterfinals|Quarterfinal]]
+|date       = {{Start date|2026|7|11|df=y}}
+|time       = 17:00 [[Eastern Daylight Time|EDT]] ([[UTC-04:00|UTC-4]])
+|aet        = yes
+|team1      = {{fb-rt|NOR}}
+|score      = 1–2
+|team2      = {{fb|ENG}}
+|report     = https://www.fifa.com/en/match-centre/match/17/285023/289289/400021539
+|goals1     = 
+*[[Andreas Schjelderup|Schjelderup]] {{goal|36}}
+|goals2     = 
+*[[Jude Bellingham|Bellingham]] {{goal|45+2||93}} 
+|location   = [[Miami Gardens]], United States
+|stadium    = [[Hard Rock Stadium]]
+|attendance = 64,478
+|referee    = [[Clément Turpin]] [[French Football Federation|(France)]] 
+|result     = W
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[2026 FIFA World Cup]] [[2026 FIFA World Cup knockout stage#Semifinals|Semifinal]]
+|date       = {{Start date|2026|7|15|df=y}}
+|time       = 15:00 [[Eastern Daylight Time|EDT]] ([[UTC-04:00|UTC-4]])
+|team1      = {{fb-rt|ENG}}
+|score      = 
+|team2      = {{fb|ARG}}
+|report     = https://www.fifa.com/en/match-centre/match/17/285023/289290/400021540
+|goals1     =
+|goals2     = 
+|location   = [[Atlanta]], United States
+|stadium    = [[Mercedes-Benz Stadium]]
+|attendance = 
+|referee    = [[Ismail Elfath]] ([[United States Soccer Federation|United States]])
+|result     = 
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[2026 FIFA World Cup]] [[2026 FIFA World Cup knockout stage#Bronze final|3rd place]] or [[2026 FIFA World Cup final|Final]]
+|date       = 18 or 19 July 2026
+|time       = 17:00 or 15:00 [[Eastern Daylight Time|EDT]] ([[UTC-04:00|UTC-4]])
+|team1      = {{fb-rt|FRA}} or {{fb-rt|ESP}}
+|score      = 
+|team2      = {{fb|ENG}}
+|report     =
+|goals1     =
+|goals2     = 
+|location   = [[Miami Gardens]] or [[East Rutherford, New Jersey|East Rutherford]], United States
+|stadium    = [[Hard Rock Stadium]] or [[MetLife Stadium]]
+|attendance = 
+|referee    = 
+|result     = 
+}}
+{{football box collapsible
+|format     = 1
+|date       = 26 September 2026
+|time       = {{UTZ|19:45|+1}}
+|round      = [[2026–27 UEFA Nations League A|2026–27 UEFA Nations League]]
+|score      = 
+|report     = https://www.uefa.com/uefanationsleague/match/2048018/
+|team1      = {{fb-rt|ENG}}
+|goals1     = 
+|team2      = {{fb|ESP}}
+|goals2     = 
+|stadium    = [[Wembley Stadium]]
+|location   = [[London]], England
+|attendance = 
+|referee    = 
+|result     = 
+}}
+{{football box collapsible
+|format     = 1
+|date       = 29 September 2026
+|time       = {{UTZ|20:45|+2}}
+|round      = [[2026–27 UEFA Nations League A|2026–27 UEFA Nations League]]
+|score      = 
+|report     = https://www.uefa.com/uefanationsleague/match/2048000/
+|team1      = {{fb-rt|CZE}}
+|goals1     = 
+|team2      = {{fb|ENG}}
+|goals2     = 
+|stadium    = [[Fortuna Arena]]
+|location   = [[Prague]], Czech Republic
+|attendance = 
+|referee    = 
+|result     = 
+}}
+{{football box collapsible
+|format     = 1
+|date       = 3 October 2026
+|time       = {{UTZ|20:45|+2}}
+|round      = [[2026–27 UEFA Nations League A|2026–27 UEFA Nations League]]
+|score      = 
+|report     = https://www.uefa.com/uefanationsleague/match/2047968/
+|team1      = {{fb-rt|CRO}}
+|goals1     = 
+|team2      = {{fb|ENG}}
+|goals2     = 
+|stadium    = [[Stadion Rujevica]]
+|location   = [[Rijeka]], Croatia
+|attendance = 
+|referee    = 
+|result     = 
+}}
+{{football box collapsible
+|format     = 1
+|date       = 6 October 2026
+|time       = {{UTZ|19:45|+1}}
+|round      = [[2026–27 UEFA Nations League A|2026–27 UEFA Nations League]]
+|score      = 
+|report     = https://www.uefa.com/uefanationsleague/match/2047947/
+|team1      = {{fb-rt|ENG}}
+|goals1     = 
+|team2      = {{fb|CZE}}
+|goals2     = 
+|stadium    = [[Wembley Stadium]]
+|location   = [[London]], England
+|attendance = 
+|referee    = 
+|result     = 
+}}
+{{football box collapsible
+|format     = 1
+|date       = 12 November 2026
+|time       = {{UTZ|19:45|+0}}
+|round      = [[2026–27 UEFA Nations League A|2026–27 UEFA Nations League]]
+|score      = 
+|report     = https://www.uefa.com/uefanationsleague/match/2047879/
+|team1      = {{fb-rt|ENG}}
+|goals1     = 
+|team2      = {{fb|CRO}}
+|goals2     = 
+|stadium    = [[Wembley Stadium]]
+|location   = [[London]], England
+|attendance = 
+|referee    = 
+|result     = 
+}}
+{{football box collapsible
+|format     = 1
+|date       = 15 November 2026
+|time       = {{UTZ|20:45|+1}}
+|round      = [[2026–27 UEFA Nations League A|2026–27 UEFA Nations League]]
+|score      = 
+|report     = https://www.uefa.com/uefanationsleague/match/2047904/
+|team1      = {{fb-rt|ESP}}
+|goals1     = 
+|team2      = {{fb|ENG}}
+|goals2     = 
+|stadium    = 
+|location   = Spain
+|attendance = 
+|referee    = 
+|result     = 
+}}
+
+==Coaching staff==
+{{Main|England national football team manager}}
+
+{{updated|26 February 2025}}<ref>{{cite news |url=https://www.theguardian.com/football/2021/jul/06/gareth-southgate-england-backroom-staff-euro-2020 |title=Team behind the team: meet Gareth Southgate's England backroom staff |author=Sachin Nakrani |work=The Guardian |date=6 July 2021 |access-date=28 September 2022 |archive-date=28 September 2022 |archive-url=https://web.archive.org/web/20220928090931/https://www.theguardian.com/football/2021/jul/06/gareth-southgate-england-backroom-staff-euro-2020 |url-status=live }}</ref><ref>{{cite news |url=https://www.thefa.com/news/2024/oct/16/fa-appoint-thomas-tuchel-as-england-mens-senior-head-coach-20241510 |title=The FA have appointed Thomas Tuchel as England men's senior head coach |date=16 October 2024 |access-date=16 October 2024}}</ref><ref>{{cite news |title=Thomas Tuchel starts England role with triple coaching team appointment |url=https://www.englandfootball.com/articles/2025/Jan/02/thomas-tuchel-england-backroom-team-staff-announced-20250201 |access-date=3 January 2025 |date=2 January 2025}}</ref>
+
+[[File:Thomas Tuchel Chelsea.jpg|thumb|upright|[[Thomas Tuchel]]]]
+
+{| class="wikitable"
+|-
+!Position
+!Name
+|-
+|Manager
+|{{flagicon|Germany}} [[Thomas Tuchel]]
+|-
+|Assistant manager
+|{{flagicon|England}} [[Anthony Barry (footballer)|Anthony Barry]]
+|-
+|Goalkeeping coach
+|{{flagicon|Portugal}} [[Hilário (footballer, born 1975)|Henrique Hilário]]
+|-
+|Coach
+|{{flagicon|Antigua and Barbuda}} [[Justin Cochrane]]
+|-
+|First-team doctor
+|{{flagicon|England}} Mark Williams
+|-
+|Head of physical performance
+|{{flagicon|England}} Steve Kemp
+|-
+|rowspan=2|Physical performance coaches
+|{{flagicon|England}} Hailu Theodros
+|-
+|{{flagicon|France}} Nicolas Mayer
+|-
+|Nutritionist
+|{{flagicon|England}} Mike Naylor
+|-
+|Head of performance medicine
+|{{flagicon|England}} Charlotte Cowie
+|-
+|Lead performance doctor
+|{{flagicon|England}} Mark Williams
+|-
+|Lead physiotherapist
+|{{flagicon|England}} Simon Spencer
+|-
+|Analyst
+|{{flagicon|England}} James Melbourne
+|-
+|Head of performance
+|{{flagicon|England}} Mark Jarvis
+|}
+
+==Players==
+{{For|all past and present players who have appeared for the national team|List of England international footballers}}
+{{See also|List of England national football team captains}}
+
+===Current squad===
+The following 26 players have been named in the squad for the [[2026 FIFA World Cup]].<ref>{{cite web | url=https://www.englandfootball.com/articles/2026/May/22/england-mens-world-cup-2026-squad-named-by-thomas-tuchel-20262205 | title=Three Lions come together for World Cup | publisher=England Football | date=22 May 2026 | accessdate=22 May 2026}}</ref> [[Tino Livramento]] withdrew from the squad on 16 June 2026 due to injury and was replaced with [[Trevoh Chalobah]].<ref>{{cite web | url=https://www.englandfootball.com/articles/2026/Jun/16/england-three-lions-fifa-world-cup-2026-squad-updates | title=Three Lions squad update | publisher=England Football | date=16 June 2026 | accessdate=16 June 2026}}</ref>
+<br>''Caps and goals are correct as of 11 July 2026, after the match against [[Norway national football team|Norway]].''<ref>{{Cite web|url=https://eu-football.info/_players.php?id=60&data=9|title=Most England Caps - EU-Football.info|website=eu-football.info|access-date=9 June 2022|archive-date=16 August 2022|archive-url=https://web.archive.org/web/20220816210906/https://eu-football.info/_players.php?id=60&data=9|url-status=live}}</ref> 
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Jordan Pickford]]|age={{Birth date and age|1994|3|7|df=y}}|caps=90|goals=0|club=[[Everton F.C.|Everton]]|clubnat=ENG}}
+{{nat fs g player|no=13|pos=GK|name=[[Dean Henderson]]|age={{Birth date and age|1997|3|12|df=y}}|caps=5|goals=0|club=[[Crystal Palace F.C.|Crystal Palace]]|clubnat=ENG}}
+{{nat fs g player|no=23|pos=GK|name=[[James Trafford]]|age={{Birth date and age|2002|10|10|df=y}}|caps=2|goals=0|club=[[Manchester City F.C.|Manchester City]]|clubnat=ENG}}
+{{nat fs break}}
+{{nat fs g player|no=2|pos=DF|name=[[Ezri Konsa]]|age={{Birth date and age|1997|10|23|df=y}}|caps=26|goals=1|club=[[Aston Villa F.C.|Aston Villa]]|clubnat=ENG}}
+{{nat fs g player|no=3|pos=DF|name=[[Nico O'Reilly]]|age={{Birth date and age|2005|3|21|df=y}}|caps=11|goals=0|club=[[Manchester City F.C.|Manchester City]]|clubnat=ENG}}
+{{nat fs g player|no=5|pos=DF|name=[[John Stones]]|age={{Birth date and age|1994|5|28|df=y}}|caps=93|goals=3|club=''[[Free agent|Unattached]]''|clubnat=}}
+{{nat fs g player|no=6|pos=DF|name=[[Marc Guéhi]]|age={{Birth date and age|2000|7|13|df=y}}|caps=35|goals=1|club=[[Manchester City F.C.|Manchester City]]|clubnat=ENG}}
+{{nat fs g player|no=12|pos=DF|name=[[Trevoh Chalobah]]|age={{Birth date and age|1999|7|5|df=y}}|caps=1|goals=0|club=[[Chelsea F.C.|Chelsea]]|clubnat=ENG}}
+{{nat fs g player|no=15|pos=DF|name=[[Dan Burn]]|age={{Birth date and age|1992|5|9|df=y}}|caps=10|goals=0|club=[[Newcastle United F.C.|Newcastle United]]|clubnat=ENG}}
+{{nat fs g player|no=24|pos=DF|name=[[Reece James]]|age={{Birth date and age|1999|12|8|df=y}}|caps=27|goals=1|club=[[Chelsea F.C.|Chelsea]]|clubnat=ENG}}
+{{nat fs g player|no=25|pos=DF|name=[[Djed Spence]]|age={{Birth date and age|2000|8|9|df=y}}|caps=12|goals=0|club=[[Tottenham Hotspur F.C.|Tottenham Hotspur]]|clubnat=ENG}}
+{{nat fs g player|no=26|pos=DF|name=[[Jarell Quansah]]|age={{Birth date and age|2003|1|29|df=y}}|caps=5|goals=0|club=[[Bayer 04 Leverkusen|Bayer Leverkusen]]|clubnat=GER}}
+{{nat fs break}}
+{{nat fs g player|no=4|pos=MF|name=[[Declan Rice]]|other=[[Captain (association football)|vice-captain]]|age={{Birth date and age|1999|1|14|df=y}}|caps=78|goals=7|club=[[Arsenal F.C.|Arsenal]]|clubnat=ENG}}
+{{nat fs g player|no=8|pos=MF|name=[[Elliot Anderson]]|age={{Birth date and age|2002|11|6|df=y}}|caps=15|goals=0|club=[[Manchester City F.C.|Manchester City]]|clubnat=ENG}}
+{{nat fs g player|no=10|pos=MF|name=[[Jude Bellingham]]|age={{Birth date and age|2003|6|29|df=y}}|caps=54|goals=12|club=[[Real Madrid CF|Real Madrid]]|clubnat=ESP}}
+{{nat fs g player|no=14|pos=MF|name=[[Jordan Henderson]]|age={{Birth date and age|1990|6|17|df=y}}|caps=91|goals=3|club=[[Brentford F.C.|Brentford]]|clubnat=ENG}}
+{{nat fs g player|no=16|pos=MF|name=[[Kobbie Mainoo]]|age={{Birth date and age|2005|4|19|df=y}}|caps=14|goals=0|club=[[Manchester United F.C.|Manchester United]]|clubnat=ENG}}
+{{nat fs g player|no=17|pos=MF|name=[[Morgan Rogers]]|age={{Birth date and age|2002|7|26|df=y}}|caps=20|goals=1|club=[[Aston Villa F.C.|Aston Villa]]|clubnat=ENG}}
+{{nat fs g player|no=21|pos=MF|name=[[Eberechi Eze]]|age={{Birth date and age|1998|6|29|df=y}}|caps=21|goals=3|club=[[Arsenal F.C.|Arsenal]]|clubnat=ENG}}
+{{nat fs break}}
+{{nat fs g player|no=7|pos=FW|name=[[Bukayo Saka]]|age={{Birth date and age|2001|9|5|df=y}}|caps=55|goals=14|club=[[Arsenal F.C.|Arsenal]]|clubnat=ENG}}
+{{nat fs g player|no=9|pos=FW|name=[[Harry Kane]]|other=[[Captain (association football)|captain]]|age={{Birth date and age|1993|7|28|df=y}}|caps=120|goals=[[List of international goals scored by Harry Kane|85]]|club=[[FC Bayern Munich|Bayern Munich]]|clubnat=GER}}
+{{nat fs g player|no=11|pos=FW|name=[[Marcus Rashford]]|age={{Birth date and age|1997|10|31|df=y}}|caps=76|goals=19|club=[[Manchester United F.C.|Manchester United]]|clubnat=ENG}}
+{{nat fs g player|no=18|pos=FW|name=[[Anthony Gordon (footballer)|Anthony Gordon]]|age={{Birth date and age|2001|2|24|df=y}}|caps=24|goals=3|club=[[FC Barcelona|Barcelona]]|clubnat=ESP}}
+{{nat fs g player|no=19|pos=FW|name=[[Ollie Watkins]]|age={{Birth date and age|1995|12|30|df=y}}|caps=23|goals=7|club=[[Aston Villa F.C.|Aston Villa]]|clubnat=ENG}}
+{{nat fs g player|no=20|pos=FW|name=[[Noni Madueke]]|age={{Birth date and age|2002|3|10|df=y}}|caps=16|goals=1|club=[[Arsenal F.C.|Arsenal]]|clubnat=ENG}}
+{{nat fs g player|no=22|pos=FW|name=[[Ivan Toney]]|age={{Birth date and age|1996|3|16|df=y}}|caps=8|goals=1|club=[[Al-Ahli Saudi FC|Al-Ahli]]|clubnat=KSA}}
+{{nat fs end|background#0B0B3F}}
+
+===Recent call-ups===
+The following players have also been called up to the England squad within the last twelve months.
+<!--Sorted by position, most recent call-up, caps, goals and last name. Only update at the end of the game.-->
+{{nat fs r start}}
+{{nat fs r player|no=|pos=GK|name=[[Jason Steele (footballer)|Jason Steele]]|age={{Birth date and age|1990|8|18|df=y}}|caps=0|goals=0|club=[[Brighton & Hove Albion F.C.|Brighton & Hove Albion]]|clubnat=ENG|latest={{sort|2026-06-10|v. {{fb|CRC}}, 10 June 2026}}}}
+{{nat fs r player|no=|pos=GK|name=[[Aaron Ramsdale]]|age={{Birth date and age|1998|5|14|df=y}}|caps=5|goals=0|club=[[Sunderland A.F.C.|Sunderland]]|clubnat=ENG|latest={{sort|2026-03-31|v. {{fb|JPN}}, 31 March 2026}} <sup>WD</sup>}}
+{{nat fs r player|no=|pos=GK|name=[[Nick Pope (footballer)|Nick Pope]]|age={{Birth date and age|1992|4|19|df=y}}|caps=10|goals=0|club=[[Newcastle United F.C.|Newcastle United]]|clubnat=ENG|latest={{sort|2025-11-13|v. {{fb|SRB}}, 13 November 2025}} <sup>INJ</sup>}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=DF|name=[[Tino Livramento]]|age={{Birth date and age|2002|11|12|df=y}}|caps=6|goals=0|club=[[Newcastle United F.C.|Newcastle United]]|clubnat=ENG|latest={{sort|2026-06-17|[[2026 FIFA World Cup]]}} <sup>INJ</sup>}}
+{{nat fs r player|no=|pos=DF|name=[[Harry Maguire]]|age={{Birth date and age|1993|3|5|df=y}}|caps=66|goals=7|club=[[Manchester United F.C.|Manchester United]]|clubnat=ENG|latest={{sort|2026-03-31|v. {{fb|JPN}}, 31 March 2026}}}}
+{{nat fs r player|no=|pos=DF|name=[[Ben White (footballer)|Ben White]]|age={{Birth date and age|1997|10|8|df=y}}|caps=6|goals=1|club=[[Arsenal F.C.|Arsenal]]|clubnat=ENG|latest={{sort|2026-03-31|v. {{fb|JPN}}, 31 March 2026}}}}
+{{nat fs r player|no=|pos=DF|name=[[Lewis Hall (footballer)|Lewis Hall]]|age={{Birth date and age|2004|9|8|df=y}}|caps=4|goals=0|club=[[Newcastle United F.C.|Newcastle United]]|clubnat=ENG|latest={{sort|2026-03-31|v. {{fb|JPN}}, 31 March 2026}}}}
+{{nat fs r player|no=|pos=DF|name=[[Fikayo Tomori]]|age={{Birth date and age|1997|12|19|df=y}}|caps=6|goals=0|club=[[AC Milan|Milan]]|clubnat=ITA|latest={{sort|2026-03-31|v. {{fb|JPN}}, 31 March 2026}} <sup>WD</sup>}}
+{{nat fs r player|no=|pos=DF|name=[[Myles Lewis-Skelly]]|age={{Birth date and age|2006|9|26|df=y}}|caps=6|goals=1|club=[[Arsenal F.C.|Arsenal]]|clubnat=ENG|latest={{sort|2025-10-14|v. {{fb|LAT}}, 14 October 2025}}}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=MF|name=[[Josh King (footballer, born 2007)|Josh King]]|age={{Birth date and age|2007|1|03|df=y}}|caps=0|goals=0|club=[[Fulham FC|Fulham]]|clubnat=ENG|latest={{sort|2026-06-10|v. {{fb|CRC}}, 10 June 2026}}}}
+{{nat fs r player|no=|pos=MF|name=[[Ethan Nwaneri]]|age={{Birth date and age|2007|3|21|df=y}}|caps=0|goals=0|club=[[Arsenal F.C.|Arsenal]]|clubnat=ENG|latest={{sort|2026-06-10|v. {{fb|CRC}}, 10 June 2026}}}}
+{{nat fs r player|no=|pos=MF|name=[[Alex Scott (footballer, born 2003)|Alex Scott]]|age={{Birth date and age|2003|8|21|df=y}}|caps=0|goals=0|club=[[AFC Bournemouth|Bournemouth]]|clubnat=ENG|latest={{sort|2026-06-10|v. {{fb|CRC}}, 10 June 2026}}}}
+{{nat fs r player|no=|pos=MF|name=[[Cole Palmer]]|age={{Birth date and age|2002|5|6|df=y}}|caps=14|goals=2|club=[[Chelsea F.C.|Chelsea]]|clubnat=ENG|latest={{sort|2026-03-31|v. {{fb|JPN}}, 31 March 2026}}}}
+{{nat fs r player|no=|pos=MF|name=[[James Garner (footballer, born 2001)|James Garner]]|age={{Birth date and age|2001|3|13|df=y}}|caps=2|goals=0|club=[[Everton F.C.|Everton]]|clubnat=ENG|latest={{sort|2026-03-31|v. {{fb|JPN}}, 31 March 2026}}}}
+{{nat fs r player|no=|pos=MF|name=[[Adam Wharton]]|age={{Birth date and age|2004|2|6|df=y}}|caps=4|goals=0|club=[[Crystal Palace F.C.|Crystal Palace]]|clubnat=ENG|latest={{sort|2026-03-31|v. {{fb|JPN}}, 31 March 2026}} <sup>INJ</sup>}}
+{{nat fs r player|no=|pos=MF|name=[[Ruben Loftus-Cheek]]|age={{Birth date and age|1996|1|23|df=y}}|caps=11|goals=0|club=[[AC Milan|Milan]]|clubnat=ITA|latest={{sort|2025-10-14|v. {{fb|LAT}}, 14 October 2025}}}}
+{{nat fs r player|no=|pos=MF|name=[[Morgan Gibbs-White]]|age={{Birth date and age|2000|1|27|df=y}}|caps=6|goals=0|club=[[Nottingham Forest F.C.|Nottingham Forest]]|clubnat=ENG|latest={{sort|2025-10-14|v. {{fb|LAT}}, 14 October 2025}}}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=FW|name=[[Rio Ngumoha]]|age={{Birth date and age|2008|8|29|df=y}}|caps=1|goals=0|club=[[Liverpool F.C.|Liverpool]]|clubnat=ENG|latest={{sort|2026-06-10|v. {{fb|CRC}}, 10 June 2026}}}}
+{{nat fs r player|no=|pos=FW|name=[[Phil Foden]]|age={{Birth date and age|2000|5|28|df=y}}|caps=49|goals=4|club=[[Manchester City F.C.|Manchester City]]|clubnat=ENG|latest={{sort|2026-03-31|v. {{fb|JPN}}, 31 March 2026}}}}
+{{nat fs r player|no=|pos=FW|name=[[Jarrod Bowen]]|age={{Birth date and age|1996|12|20|df=y}}|caps=22|goals=1|club=[[West Ham United F.C.|West Ham United]]|clubnat=ENG|latest={{sort|2026-03-31|v. {{fb|JPN}}, 31 March 2026}}}}
+{{nat fs r player|no=|pos=FW|name=[[Dominic Solanke]]|age={{Birth date and age|1997|9|14|df=y}}|caps=5|goals=0|club=[[Tottenham Hotspur F.C.|Tottenham Hotspur]]|clubnat=ENG|latest={{sort|2026-03-31|v. {{fb|JPN}}, 31 March 2026}}}}
+{{nat fs r player|no=|pos=FW|name=[[Harvey Barnes]]|age={{Birth date and age|1997|12|9|df=y}}|caps=2|goals=0|club=[[Newcastle United F.C.|Newcastle United]]|clubnat=ENG|latest={{sort|2026-03-31|v. {{fb|JPN}}, 31 March 2026}}}} 
+{{nat fs r player|no=|pos=FW|name=[[Dominic Calvert-Lewin]]|age={{Birth date and age|1997|3|16|df=y}}|caps=12|goals=4|club=[[Leeds United F.C.|Leeds United]]|clubnat=ENG|latest={{sort|2026-03-31|v. {{fb|JPN}}, 31 March 2026}} <sup>WD</sup>}}
+{{nat fs break}}
+<sup>INJ</sup> Withdrew due to injury<br />
+<sup>PRE</sup> Preliminary squad / standby<br />
+<sup>RET</sup> Retired from the national team<br />
+<sup>SUS</sup> Serving suspension<br />
+<sup>WD</sup> Player withdrew from the squad due to non-injury issue.
+{{nat fs end}}
+
+==Individual records==
+{{Main|England national football team records and statistics}}
+
+{{See also|List of England international footballers}}
+
+===Most appearances===
+{{Updated|11 July 2026}}.<ref name="RSSSF">{{cite web |last1=Mamrud |first1=Roberto |title=England – Record International Players |url=https://www.rsssf.org/miscellaneous/eng-recintlp.html |publisher=Rec.Sport.Soccer Statistics Foundation |access-date=26 February 2021 |archive-date=2 April 2009 |archive-url=https://web.archive.org/web/20090402210253/http://www.rsssf.com/miscellaneous/eng-recintlp.html |url-status=live }}</ref>
+
+[[File:Shilton.png|thumb|upright|Goalkeeper Peter Shilton is England's most capped player with 125 appearances.]]
+
+{| class="wikitable sortable" style="text-align:center"
+|-
+!style="width:30px;"|Rank
+!style="width:150px;"|Player
+!style="width:50px;"|Caps
+!style="width:50px;"|Goals
+!style="width:50px;"|Position
+!style="width:100px;"|{{Tooltip|Career|Career with national team}}
+|-
+|1
+|style="text-align:left"|[[Peter Shilton]]
+|125
+|0
+|GK
+|{{nowrap|1970–1990}}
+|-
+|rowspan="2"|2
+|style="text-align:left"|'''[[Harry Kane]]'''
+|120
+|85
+|FW
+|2015–present
+|-
+|style="text-align:left"|[[Wayne Rooney]]
+|120
+|53
+|FW
+|2003–2018
+|-
+|4
+|style="text-align:left"|[[David Beckham]]
+|115
+|17
+|MF
+|1996–2009
+|-
+|5
+|style="text-align:left"|[[Steven Gerrard]]
+|114
+|21
+|MF
+|2000–2014
+|-
+|6
+|style="text-align:left"|[[Bobby Moore]]
+|108
+|2
+|DF
+|1962–1973
+|-
+|7
+|style="text-align:left"|[[Ashley Cole]]
+|107
+|0
+|DF
+|2001–2014
+|-
+|rowspan=2|8
+|style="text-align:left"|[[Bobby Charlton]]
+|106
+|49
+|MF
+|1958–1970
+|-
+|style="text-align:left"|[[Frank Lampard]]
+|106
+|29
+|MF
+|1999–2014
+|-
+|10
+|style="text-align:left"|[[Billy Wright (footballer, born 1924)|Billy Wright]]
+|105
+|3
+|DF
+|1946–1959
+|-
+|}
+
+===Top goalscorers===
+<!--------------------- READ THIS NOTICE FIRST BEFORE EDITING --------------------------
+Active players are in bold even if they are not active with the national team any more.
+ -------------------------------------------------------------------------------------->
+{{Updated|11 July 2026}}.<ref>{{cite news |url=https://eu-football.info/_players.php?id=60&data=6 |title=Top England Goal Scorers |website=EU Football Info |access-date=3 March 2023 |archive-date=1 March 2023 |archive-url=https://web.archive.org/web/20230301193849/https://eu-football.info/_players.php?id=60&data=6 |url-status=live }}</ref>
+
+[[File:Harry Kane 9 England v Ghana at 2026 Fifa World Cup by YantsImages 01 (cropped).jpg|thumb|upright|Harry Kane is England's all-time top scorer with 85 goals.]]
+
+{| class="wikitable sortable" style="text-align:center"
+|-
+!style="width:30px;"|Rank
+!style="width:150px;"|Player
+!style="width:50px;"|Goals
+!style="width:50px;"|Caps
+!style="width:50px;"|Average
+!style="width:100px;"|{{Tooltip|Career|Career with national team}}
+|-
+|1
+|style="text-align:left"|'''[[Harry Kane]]''' ([[List of international goals scored by Harry Kane|list]])
+|85
+|120
+|{{round|{{#expr:85/120}}|2}}
+|2015–present
+|-
+|2
+|style="text-align:left"|[[Wayne Rooney]] ([[List of international goals scored by Wayne Rooney|list]])
+|53
+|120
+|{{round|{{#expr:53/120}}|2}}
+|{{nowrap|2003–2018}}
+|-
+|3
+|style="text-align:left"|[[Bobby Charlton]] ([[List of international goals scored by Bobby Charlton|list]])
+|49
+|106
+|{{round|{{#expr:49/106}}|2}}
+|1958–1970
+|-
+|4
+|style="text-align:left"|[[Gary Lineker]]
+|48
+|80
+|{{round|{{#expr:48/80}}|2}}
+|1984–1992
+|-
+|5
+|style="text-align:left"|[[Jimmy Greaves]]
+|44
+|57
+|{{round|{{#expr:44/57}}|2}}
+|1959–1967
+|-
+|6
+|style="text-align:left"|[[Michael Owen]]
+|40
+|89
+|{{round|{{#expr:40/89}}|2}}
+|1998–2008
+|-
+|rowspan=3|7
+|style="text-align:left"|[[Nat Lofthouse]]
+|30
+|33
+|{{round|{{#expr:30/33}}|2}}
+|1950–1958
+|-
+|style="text-align:left"|[[Alan Shearer]]
+|30
+|63
+|{{round|{{#expr:30/63}}|2}}
+|1992–2000
+|-
+|style="text-align:left"|[[Tom Finney]]
+|30
+|76
+|{{round|{{#expr:30/76}}|2}}
+|1946–1958
+|-
+|rowspan=2|10
+|style="text-align:left"|[[Vivian Woodward]]
+|29
+|23
+|{{round|{{#expr:29/23}}|2}}
+|1903–1911
+|-
+|style="text-align:left"|[[Frank Lampard]]
+|29
+|106
+|{{round|{{#expr:29/106}}|2}}
+|1999–2014
+|}
+
+===Most clean sheets===
+<!----------------------------- READ THIS NOTICE FIRST BEFORE EDITING ----------------------------------
+&nbsp;– Active players are in bold even if they are not active with the national team any more.
+ ------------------------------------------------------------------------------------------------------>
+
+<p> A clean sheet is a match where a team does not concede any goals to their opponent.</p>
+
+{{Updated|11 July 2026}}.<ref>{{cite web |title=England goalkeepers: most clean sheets |url=http://www.englandfootballonline.com/TeamGkprs/GkprsClnShts.html |website=englandfootballonline.com |access-date=7 September 2019 |archive-date=26 August 2019 |archive-url=https://web.archive.org/web/20190826015030/http://www.englandfootballonline.com/TeamGkprs/GkprsClnShts.html |url-status=live }}</ref>
+
+{| class="wikitable sortable" style="text-align:center"
+|-
+!style="width:30px;"|Rank
+!style="width:150px;"|Player
+!style="width:50px;"|Clean sheets
+!style="width:50px;"|Caps
+!style="width:50px;"|{{Tooltip|Average|Clean sheets per Cap}}
+!style="width:100px;"|{{Tooltip|Career|Career with national team}}
+|-
+|1
+|style="text-align:left"|[[Peter Shilton]]
+|66
+|125
+|{{round|{{#expr:66/125}}|2}}
+|{{nowrap|1970–1990}}
+|-
+|2
+|style="text-align:left"|'''[[Jordan Pickford]]'''
+|47
+|90
+|{{round|{{#expr:47/90}}|2}}
+|{{nowrap|2017–present}}
+|-
+|3
+|style="text-align:left"|[[Joe Hart]]
+|43
+|75
+|{{round|{{#expr:43/75}}|2}}
+|nowrap|2008–2017
+|-
+|4
+|style="text-align:left"|[[David Seaman]]
+|40
+|75
+|{{round|{{#expr:40/75}}|2}}
+|1988–2002
+|-
+|5
+|style="text-align:left"|[[Gordon Banks]]
+|35
+|73
+|{{round|{{#expr:35/73}}|2}}
+|1963–1972
+|-
+|6
+|style="text-align:left"|[[Ray Clemence]]
+|27
+|61
+|{{round|{{#expr:27/61}}|2}}
+|1972–1983
+|-
+|7
+|style="text-align:left"|[[Chris Woods]]
+|26
+|43
+|{{round|{{#expr:26/43}}|2}}
+|1985–1993
+|-
+|8
+|style="text-align:left"|[[Paul Robinson (footballer, born 1979)|Paul Robinson]]
+|24
+|41
+|{{round|{{#expr:24/41}}|2}}
+|2003–2007
+|-
+|9
+|style="text-align:left"|[[David James (footballer, born 1970)|David James]]
+|21
+|53
+|{{round|{{#expr:21/53}}|2}}
+|1997–2010
+|-
+|10
+|style="text-align:left"|[[Nigel Martyn]]
+|13
+|23
+|{{#expr:13/23 round 2}}
+|1992–2002
+|}
+
+===Manager records===
+{{Main|England national football team manager}}
+
+; Most manager appearances
+: [[Walter Winterbottom]]: 139<ref>{{cite news |url=https://www.independent.co.uk/sport/football/gareth-southgate-england-results-manager-b2247420.html |title=Gareth Southgate: The data behind his England reign so far |author=Tom White |work=The Independent |date=18 December 2022 |access-date=20 February 2023 |archive-date=20 February 2023 |archive-url=https://web.archive.org/web/20230220120919/https://www.independent.co.uk/sport/football/gareth-southgate-england-results-manager-b2247420.html |url-status=live }}</ref>
+; Highest win ratio (minimum 25 games in charge, including friendlies): 
+: [[Fabio Capello]]: 66.7%<ref>{{cite news |url=https://www.mirror.co.uk/news/uk-news/fabio-capello-was-facing-england-player-680049 |title=EXCLUSIVE: Three Lions tamer needed: Fabio was facing player rebellion before he quit |author=Jeremy Armstrong & John Cross |publisher=The Mirror |date=10 February 2012 |access-date=20 February 2023 |archive-date=20 February 2023 |archive-url=https://web.archive.org/web/20230220120925/https://www.mirror.co.uk/news/uk-news/fabio-capello-was-facing-england-player-680049 |url-status=live }}</ref>
+; Most wins in major tournaments
+: [[Gareth Southgate]]: 14<ref>{{cite web | url=https://www.fourfourtwo.com/features/how-does-gareth-southgates-record-compare-to-previous-england-managers | title=How does Gareth Southgate's record compare to previous England managers? | date=12 December 2022 }}</ref>
+; Youngest to take job
+: [[Walter Winterbottom]]: 33 years old<ref>{{cite news |url=https://www.thepfa.com/news/2013/3/18/the-father-of-modern-english-football |title=The father of modern English football |website=PFA |date=18 March 2013 |access-date=20 February 2023 |archive-date=20 February 2023 |archive-url=https://web.archive.org/web/20230220120921/https://www.thepfa.com/news/2013/3/18/the-father-of-modern-english-football |url-status=live }}</ref><ref>{{cite news |url=https://www.nytimes.com/2002/02/20/sports/walter-winterbottom-89-english-soccer-coach.html |title=Walter Winterbottom, 89, English Soccer Coach |author=Jack Bell |work=[[The New York Times]] |date=20 February 2002 |access-date=20 February 2023 |archive-date=20 February 2023 |archive-url=https://web.archive.org/web/20230220120919/https://www.nytimes.com/2002/02/20/sports/walter-winterbottom-89-english-soccer-coach.html |url-status=live }}</ref>
+; Oldest to take job
+: [[Roy Hodgson]]: 64 years old<ref>{{cite news |url=https://www.spectator.co.uk/article/roy-of-the-reader-swapping-novels-with-my-friend-roy-hodgson/ |title=Roy of the reader: swapping novels with my friend Roy Hodgson |author=Michael Henderson |publisher=The Spectator |date=5 May 2012 |access-date=20 February 2023 |archive-date=20 February 2023 |archive-url=https://web.archive.org/web/20230220120928/https://www.spectator.co.uk/article/roy-of-the-reader-swapping-novels-with-my-friend-roy-hodgson/ |url-status=live }}</ref>
+
+==Team records==
+{{Main|England national football team records and statistics}}
+
+; Biggest win{{efn|England's two largest victories (13–0 away and then 13–2 at home) coincidentally both occurred on 18 February, against [[Ireland national football team (1882–1950)|Ireland]]. Four of England's five largest margins of victory occurred away from home. As well as the 13–0 victory, they defeated [[Austria national football team|Austria]] 11–1 in 1908, [[Portugal national football team|Portugal]] 10–0 in 1947, [[United States men's national soccer team|United States]] 10–0 in 1964 and [[San Marino national football team|San Marino]] 10–0 in 2021.}}
+: 13–0 vs. '''[[Ireland national football team (1882–1950)|Ireland]]''', 18 February 1882<ref>{{cite news |url=https://www.theguardian.com/football/2021/nov/15/san-marino-england-world-cup-2022-qualifying-match-report |title=England confirm World Cup 2022 spot with 10-goal demolition of San Marino |author=David Hytner |work=The Guardian |date=15 November 2021 |access-date=16 February 2023 |archive-date=20 October 2023 |archive-url=https://web.archive.org/web/20231020120349/https://www.theguardian.com/football/2021/nov/15/san-marino-england-world-cup-2022-qualifying-match-report |url-status=live }}</ref>
+; Biggest defeat 
+: 1–7 vs. '''[[Hungary national football team|Hungary]]''', 23 May 1954<ref>{{cite news |url=https://www.bbc.com/news/magazine-25033749 |title=England v Hungary - a football match that started a revolution |website=BBC News |date=23 November 2013 |access-date=16 February 2023 |archive-date=14 August 2023 |archive-url=https://web.archive.org/web/20230814122947/https://www.bbc.com/news/magazine-25033749 |url-status=live }}</ref>
+; Longest unbeaten run
+: '''22 games''' from 18 November 2020 to 29 March 2022<ref>{{cite news |url=https://www.independent.co.uk/sport/football/england-hungary-result-score-nations-league-2022-b2094049.html |title=Lacklustre England slip to Nations League defeat in Hungary to end unbeaten streak |author=Miguel Delaney |work=The Independent |date=4 June 2022 |access-date=15 June 2022 |archive-date=14 June 2022 |archive-url=https://web.archive.org/web/20220614223205/https://www.independent.co.uk/sport/football/england-hungary-result-score-nations-league-2022-b2094049.html |url-status=live }}</ref>   
+; Longest winless run
+: '''7 games''' from 11 May 1958 to 4 October 1958<ref>{{cite news |url=http://www.englandfootballonline.com/Seas1946-60/1958-59/M0327Usr1958.html |title=England match no.327 – USSR – 22 October 1958 – Match summary |publisher=England football online |access-date=15 June 2022 |archive-date=22 September 2022 |archive-url=https://web.archive.org/web/20220922151726/http://www.englandfootballonline.com/Seas1946-60/1958-59/M0327Usr1958.html |url-status=live }}</ref>
+; Most consecutive wins
+: '''10 games''' from 6 June 1908 to 1 June 1909<ref>{{cite news |url=https://www.thefa.com/news/2019/nov/12/england-1000-games-opta-stats-121119 |title=Opta facts around England's 1000th game |publisher=FA |date=12 November 2019 |access-date=15 June 2022 |archive-date=12 November 2019 |archive-url=https://web.archive.org/web/20191112151549/http://www.thefa.com/news/2019/nov/12/england-1000-games-opta-stats-121119 |url-status=live }}</ref>
+; Most consecutive matches without conceding a goal
+: '''7 games''' from 2 June 2021 to 3 July 2021<ref>{{cite news |url=https://www.mirror.co.uk/sport/football/news/jordan-pickford-england-record-euros-24484292 |title=Jordan Pickford breaks 55-year record moments before conceding |author=Samuel Meade |work=The Mirror |date=7 July 2021 |access-date=15 June 2022 |archive-date=23 August 2021 |archive-url=https://web.archive.org/web/20210823155610/https://www.mirror.co.uk/sport/football/news/jordan-pickford-england-record-euros-24484292 |url-status=live }}</ref>
+
+==Competitive record==
+{{For|the all-time record of the national team against opposing nations|England national football team all-time record}}
+{{Main|List of England national football team World Cup and European Championship squads}}
+
+===FIFA World Cup===
+{{Main|England at the FIFA World Cup}}
+
+[[File:2018 World Cup Semifinal - England v Croatia.jpg|thumb|2018 World Cup semi-final: England vs. Croatia]]
+
+[[File:ENG-FRG 1966-07-30.svg|thumb|1966 World Cup final lineups: England (red) vs. West Germany]]
+
+England first appeared at the [[1950 FIFA World Cup]], and have subsequently qualified for a total of 16 World Cup tournaments, tied for sixth best by [[National team appearances in the FIFA World Cup|number of appearances]].<ref>{{cite news |url=https://www.theguardian.com/football/blog/2020/jun/01/englands-first-world-cup-adventure-1950-brazil |title=England's first World Cup adventure was a voyage of the damned |author=Neil Duncanson |work=The Guardian |date=1 June 2020 |access-date=3 March 2023 |archive-date=1 March 2023 |archive-url=https://web.archive.org/web/20230301193852/https://www.theguardian.com/football/blog/2020/jun/01/englands-first-world-cup-adventure-1950-brazil |url-status=live }}</ref><ref>{{cite news |url=https://www.nbclosangeles.com/news/sports/world-cup-2022/brazil-germany-lead-countries-with-most-world-cup-appearances/3036302/ |title=Brazil, Germany Lead Countries With Most World Cup Appearances |author=Charlotte Edmonds |publisher=NBC Los Angeles |date=17 November 2022 |access-date=16 February 2023 |archive-date=16 February 2023 |archive-url=https://web.archive.org/web/20230216203114/https://www.nbclosangeles.com/news/sports/world-cup-2022/brazil-germany-lead-countries-with-most-world-cup-appearances/3036302/ |url-status=live }}</ref> They are also placed sixth by number of wins, with 32. The national team is one of only eight nations to have won at least one FIFA World Cup title.<ref>{{cite news |url=https://olympics.com/en/news/most-fifa-world-cup-football-wins |title=Most FIFA World Cup wins: Brazil lead men's winners list; USA dominate women's roll of honour |author=Aarish Ansari |publisher=Olympic Games |date=18 December 2022 |access-date=4 February 2023 |archive-date=10 December 2022 |archive-url=https://web.archive.org/web/20221210185258/https://olympics.com/en/news/most-fifa-world-cup-football-wins |url-status=live }}</ref> The England team won their first and only World Cup title in [[1966 FIFA World Cup|1966]].<ref name="WC 1966">{{cite news |url=https://www.fifa.com/tournaments/mens/worldcup/1966england |title=1966 FIFA World Cup England |website=FIFA |access-date=4 February 2023 |archive-date=12 April 2023 |archive-url=https://web.archive.org/web/20230412140706/https://www.fifa.com/tournaments/mens/worldcup/1966england |url-status=live }}</ref> The tournament was played on home soil, and England defeated [[Germany national football team|West Germany]] 4–2 in the [[1966 FIFA World Cup final|final]].<ref name="WC 1966" /> In [[1990 FIFA World Cup|1990]], England finished in fourth place, losing 2–1 to host nation [[Italy national football team|Italy]] in the match for third place, following defeat on penalties, after extra time, to champions [[Germany national football team|West Germany]] in the semi-final.<ref>{{cite news |url=https://news.bbc.co.uk/sport3/worldcup2002/low/history/newsid_1632000/1632223.stm |title=Italy 1990 |website=BBC Sport |date=17 April 2002 |access-date=4 February 2023 |archive-date=28 March 2023 |archive-url=https://web.archive.org/web/20230328120506/http://news.bbc.co.uk/sport3/worldcup2002/low/history/newsid_1632000/1632223.stm |url-status=live }}</ref> They also finished in fourth place in [[2018 FIFA World Cup|2018]], losing 2–0 to [[Belgium national football team|Belgium]] in the match for third place, following a 2–1 defeat to [[Croatia national football team|Croatia]], again after extra time, in the semi-final.<ref>{{cite news |url=https://www.bbc.com/sport/football/44748604 |title=World Cup 2018: England finish fourth after Belgium defeat |author=Phil McNulty |publisher=BBC Sport |date=14 July 2018 |access-date=4 February 2023 |archive-date=30 June 2019 |archive-url=https://web.archive.org/web/20190630003531/https://www.bbc.com/sport/football/44748604 |url-status=live }}</ref> The team also reached the quarter-final stage in [[1954 FIFA World Cup|1954]], [[1962 FIFA World Cup|1962]], [[1970 FIFA World Cup|1970]], [[1986 FIFA World Cup|1986]], [[2002 FIFA World Cup|2002]], [[2006 FIFA World Cup|2006]] and [[2022 FIFA World Cup|2022]].<ref>{{cite news |url=https://www.mirror.co.uk/sport/football/news/england-france-world-cup-qatar-28705606 |title=England break unwanted record as Three Lions suffer World Cup heartache vs France |author=Kieran King |publisher=The Mirror |date=11 December 2022 |access-date=4 February 2023 |archive-date=4 February 2023 |archive-url=https://web.archive.org/web/20230204221932/https://www.mirror.co.uk/sport/football/news/england-france-world-cup-qatar-28705606 |url-status=live }}</ref>
+
+England failed to qualify for the World Cup in [[1974 FIFA World Cup|1974]], [[1978 FIFA World Cup|1978]] and [[1994 FIFA World Cup|1994]].<ref>{{cite news |url=https://www.mirror.co.uk/sport/row-zed/englands-15-frustrating-world-cup-3664548 |title=England's 15 frustrating World Cup exits: The definitive ranking |author=Martin Belam and James Ashford |publisher=The Mirror |date=9 June 2014 |access-date=4 February 2023 |archive-date=4 February 2023 |archive-url=https://web.archive.org/web/20230204221931/https://www.mirror.co.uk/sport/row-zed/englands-15-frustrating-world-cup-3664548 |url-status=live }}</ref> The team's earliest exit in the finals tournament was elimination in the first round in [[1950 FIFA World Cup|1950]], [[1958 FIFA World Cup|1958]] and, most recently, [[2014 FIFA World Cup|2014]].<ref>{{cite news |url=https://www.fifa.com/fifaplus/en/articles/world-cup-qatar-2022-surprises-that-shook-the-world |title=The greatest FIFA World Cup upsets |website=FIFA |access-date=4 February 2023 |archive-date=4 February 2023 |archive-url=https://web.archive.org/web/20230204221931/https://www.fifa.com/fifaplus/en/articles/world-cup-qatar-2022-surprises-that-shook-the-world |url-status=live }}</ref><ref name="Brazil 2014">{{cite news |url=https://www.bbc.com/sport/football/27935803 |title=World Cup 2014: England knocked out of World Cup |website=BBC Sport |date=20 June 2014 |access-date=4 February 2023 |archive-date=3 February 2023 |archive-url=https://web.archive.org/web/20230203082450/https://www.bbc.com/sport/football/27935803 |url-status=live }}</ref> This was after being defeated in both their opening two matches for the first time, against [[Italy national football team|Italy]] and [[Uruguay national football team|Uruguay]] in Group D.<ref name="Brazil 2014"/> In 1950, four teams remained after the first round, in 1958 eight teams remained and in 2014 sixteen teams remained. In [[2010 FIFA World Cup|2010]], England suffered its most resounding World Cup defeat, 4–1 to [[Germany national football team|Germany]], in the round of 16 stage.<ref>{{cite news |url=https://www.bbc.com/news/10442700 |title=Defeated England football team arrive home |website=BBC News |date=29 June 2010 |access-date=4 February 2023 |archive-date=4 February 2023 |archive-url=https://web.archive.org/web/20230204221932/https://www.bbc.com/news/10442700 |url-status=live }}</ref>
+
+{| class="wikitable" style="text-align:center;"
+|-
+!style="background:white; color:#0B0B3F; {{box-shadow border|a|#0B0B3F|2px}}" colspan=10|FIFA World Cup record
+!style="width:1%;background:white" rowspan=99|<!--Spacer-->
+!style="background:white; color:#0B0B3F; {{box-shadow border|a|#0B0B3F|2px}}" colspan=6|Qualification record
+!style="width:1%;background:white" rowspan=99|<!--Spacer-->
+!style="background:white; color:#0B0B3F; {{box-shadow border|a|#0B0B3F|2px}}" rowspan=2|Manager(s)
+|- 
+!scope="col"|Year
+!scope="col"|Round
+!scope="col"|{{abbr|Pos|Position}}
+!scope="col"|{{abbr|Pld|Games Played}}
+!scope="col"|{{abbr|W|Won}}
+!scope="col"|{{abbr|D{{efn|name=DrawsIncludePenalties|Draws include knockout matches decided by a [[Penalty shoot-out (association football)|penalty shoot-out]].}}|Drawn}}
+!scope="col"|{{abbr|L|Lost}}
+!scope="col"|{{abbr|GF|Goals For}}
+!scope="col"|{{abbr|GA|Goals Against}}
+!scope="col"|Squad
+!scope="col"|{{abbr|Pld|Games Played}}
+!scope="col"|{{abbr|W|Won}}
+!scope="col"|{{abbr|D|Drawn}}
+!scope="col"|{{abbr|L|Lost}}
+!scope="col"|{{abbr|GF|Goals For}}
+!scope="col"|{{abbr|GA|Goals Against}}
+|-
+|scope="row"|{{flagicon|Uruguay}} [[1930 FIFA World Cup|1930]]
+|rowspan=3 colspan=9|''Not a FIFA member''
+|rowspan=3 colspan=6|''Not a FIFA member''
+|rowspan=3|''None''
+|-
+|scope="row"|{{flagicon|Kingdom of Italy}} [[1934 FIFA World Cup|1934]]
+|-
+|scope="row"|{{flagicon|French Fourth Republic}} [[1938 FIFA World Cup|1938]]
+|-
+|scope="row"|{{flagicon|Fourth Brazilian Republic|1889}} [[1950 FIFA World Cup|1950]]
+|Group stage
+|8th
+|3
+|1
+|0
+|2
+|2
+|2
+|[[1950 FIFA World Cup squads#England|Squad]]
+|3
+|3
+|0
+|0
+|14
+|3
+|rowspan=4|[[Walter Winterbottom|Winterbottom]]
+|-
+|scope="row"|{{flagicon|Switzerland}} [[1954 FIFA World Cup|1954]]
+|Quarter-finals
+|7th
+|3
+|1
+|1
+|1
+|8
+|8
+|[[1954 FIFA World Cup squads#England|Squad]]
+|3
+|3
+|0
+|0
+|11
+|4
+|-
+|scope="row"|{{flagicon|Sweden}} [[1958 FIFA World Cup|1958]]
+|Group stage
+|11th
+|4
+|0
+|3
+|1
+|4
+|5
+|[[1958 FIFA World Cup squads#England|Squad]]
+|4
+|3
+|1
+|0
+|15
+|5
+|-
+|scope="row"|{{flagicon|Chile}} [[1962 FIFA World Cup|1962]]
+|Quarter-finals
+|8th
+|4
+|1
+|1
+|2
+|5
+|6
+|[[1962 FIFA World Cup squads#England|Squad]]
+|4
+|3
+|1
+|0
+|16
+|2
+|- style="background:gold"
+|style="border: 3px solid red" scope="row"|{{flagicon|England}} [[1966 FIFA World Cup|1966]]
+|'''[[1966 FIFA World Cup final|Champions]]'''
+|'''1st'''
+|'''6'''
+|'''5'''
+|'''1'''
+|'''0'''
+|'''11'''
+|'''3'''
+|'''[[England 1966 FIFA World Cup squad|Squad]]'''
+|colspan=6|''Qualified as hosts''
+|[[Alf Ramsey|Ramsey]]
+|-
+|scope="row"|{{flagicon|Mexico}} [[1970 FIFA World Cup|1970]]
+|Quarter-finals
+|8th
+|4
+|2
+|0
+|2
+|4
+|4
+|[[1970 FIFA World Cup squads#England|Squad]]
+|colspan=6|''Qualified as defending champions''
+|rowspan=2|Ramsey
+|-
+|scope="row"|{{flagicon|West Germany}} [[1974 FIFA World Cup|1974]]
+|rowspan=2 colspan=9|''Did not qualify''
+|4
+|1
+|2
+|1
+|3
+|4
+|-
+|scope="row"|{{flagicon|Argentina}} [[1978 FIFA World Cup|1978]]
+|6
+|5
+|0
+|1
+|15
+|4
+|[[Don Revie|Revie]]
+|-
+|scope="row"|{{flagicon|Spain}} [[1982 FIFA World Cup|1982]]
+|Second group stage
+|6th
+|5
+|3
+|2
+|0
+|6
+|1
+|[[1982 FIFA World Cup squads#England|Squad]]
+|8
+|4
+|1
+|3
+|13
+|8
+|[[Ron Greenwood|Greenwood]]
+|-
+|scope="row"|{{flagicon|Mexico}} [[1986 FIFA World Cup|1986]]
+|Quarter-finals
+|8th
+|5
+|2
+|1
+|2
+|7
+|3
+|[[1986 FIFA World Cup squads#England|Squad]]
+|8
+|4
+|4
+|0
+|21
+|2
+|[[Bobby Robson|Robson]]
+|- style="background:#9acdff"
+|scope="row"|{{flagicon|Italy}} [[1990 FIFA World Cup|1990]]
+|'''Fourth place'''
+|'''4th'''
+|'''7'''
+|'''3'''
+|'''3'''
+|'''1'''
+|'''8'''
+|'''6'''
+|'''[[1990 FIFA World Cup squads#England|Squad]]'''
+|6
+|3
+|3
+|0
+|10
+|0
+|Robson
+|-
+|scope="row"|{{flagicon|United States}} [[1994 FIFA World Cup|1994]]
+|colspan=9|''Did not qualify''
+|10
+|5
+|3
+|2
+|26
+|9
+|[[Graham Taylor (footballer)|Taylor]]
+|-
+|scope="row"|{{flagicon|France|1974}} [[1998 FIFA World Cup|1998]]
+|Round of 16
+|9th
+|4
+|2
+|1
+|1
+|7
+|4
+|[[1998 FIFA World Cup squads#England|Squad]]
+|8
+|6
+|1
+|1
+|15
+|2
+|[[Glenn Hoddle|Hoddle]]
+|-
+|scope="row"|{{flagicon|South Korea}} {{flagicon|Japan}} [[2002 FIFA World Cup|2002]]{{efn|England played all of their matches in Japan.}}
+|Quarter-finals
+|6th
+|5
+|2
+|2
+|1
+|6
+|3
+|[[2002 FIFA World Cup squads#England|Squad]]
+|8
+|5
+|2
+|1
+|16
+|6
+|[[Kevin Keegan|Keegan]], [[Howard Wilkinson|Wilkinson]], [[Sven-Göran Eriksson|Eriksson]]{{efn|Kevin Keegan and Howard Wilkinson managed one qualifying match each: Sven-Göran Eriksson managed the remaining qualification matches and the finals campaign.}}
+|-
+|scope="row"|{{flagicon|Germany}} [[2006 FIFA World Cup|2006]]
+|Quarter-finals
+|7th
+|5
+|3
+|2
+|0
+|6
+|2
+|[[2006 FIFA World Cup squads#England|Squad]]
+|10
+|8
+|1
+|1
+|17
+|5
+|Eriksson
+|-
+|scope="row"|{{flagicon|South Africa}} [[2010 FIFA World Cup|2010]]
+|Round of 16
+|13th
+|4
+|1
+|2
+|1
+|3
+|5
+|[[2010 FIFA World Cup squads#England|Squad]]
+|10
+|9
+|0
+|1
+|34
+|6
+|[[Fabio Capello|Capello]]
+|-
+|scope="row"|{{flagicon|Brazil}} [[2014 FIFA World Cup|2014]]
+|Group stage
+|26th
+|3
+|0
+|1
+|2
+|2
+|4
+|[[2014 FIFA World Cup squads#England|Squad]]
+|10
+|6
+|4
+|0
+|31
+|4
+|[[Roy Hodgson|Hodgson]]
+|- style="background:#9acdff"
+|scope="row"|{{flagicon|Russia}} [[2018 FIFA World Cup|2018]]
+|'''Fourth place'''
+|'''4th'''
+|'''7'''
+|'''3'''
+|'''1'''
+|'''3'''
+|'''12'''
+|'''8'''
+|'''[[2018 FIFA World Cup squads#England|Squad]]'''
+|10
+|8
+|2
+|0
+|18
+|3
+|[[Sam Allardyce|Allardyce]], [[Gareth Southgate|Southgate]]{{efn|Sam Allardyce managed one qualifying match: Gareth Southgate managed the remaining qualification matches and the finals campaign.}}
+|-
+|scope="row"|{{flagicon|Qatar}} [[2022 FIFA World Cup|2022]]
+|Quarter-finals
+|6th
+|5
+|3
+|1
+|1
+|13
+|4
+|[[2022 FIFA World Cup squads#England|Squad]]
+|10
+|8
+|2
+|0
+|39
+|3
+|Southgate
+|-
+|{{flagicon|Canada}} {{flagicon|Mexico}} {{flagicon|United States}} [[2026 FIFA World Cup|2026]]
+|''in progress'' || TBD || 6 || 5 || 1 || 0 || 13 || 6 ||[[2026 FIFA World Cup squads#England|Squad]]
+|8
+|8
+|0
+|0
+|22
+|0
+|[[Thomas Tuchel|Tuchel]]
+|- 
+|{{flagicon|Morocco}} {{flagicon|Portugal}} {{flagicon|Spain}} [[2030 FIFA World Cup|2030]]{{efn|Additional matches are scheduled to be played in [[Argentina]], [[Paraguay]], and [[Uruguay]] in commemoration of the 100th anniversary of the [[1930 FIFA World Cup|first world cup]], however they are not considered to be official hosts of the tournament.<ref>{{cite web|access-date=2023-10-14|language=english|title=FIFA Council takes key decisions on FIFA World Cup editions in 2030 and 2034|url=https://www.fifa.com/about-fifa/organisation/fifa-council/media-releases/fifa-council-takes-key-decisions-on-fifa-world-cup-tm-editions-in-2030-and-2034|website=FIFA|archive-date=12 October 2023|archive-url=https://web.archive.org/web/20231012092247/https://www.fifa.com/about-fifa/organisation/fifa-council/media-releases/fifa-council-takes-key-decisions-on-fifa-world-cup-tm-editions-in-2030-and-2034|url-status=live}}</ref> }}
+|colspan=9 rowspan=2|''To be determined''
+|colspan=6 rowspan=2|''To be determined''
+|rowspan=2|
+|- 
+|{{flagicon|Saudi Arabia}} [[2034 FIFA World Cup|2034]]
+|-
+!style="background:white; color:#0B0B3F; {{box-shadow border|a|#0B0B3F|2px}}"|Total
+!style="background:white; color:#0B0B3F; {{box-shadow border|a|#0B0B3F|2px}}"|1 Title
+!style="background:white; color:#0B0B3F; {{box-shadow border|a|#0B0B3F|2px}}"|{{Tooltip|17/23|Number of tournaments qualified for}}
+!style="background:white; color:#0B0B3F; {{box-shadow border|a|#0B0B3F|2px}}"|80
+!style="background:white; color:#0B0B3F; {{box-shadow border|a|#0B0B3F|2px}}"|37
+!style="background:white; color:#0B0B3F; {{box-shadow border|a|#0B0B3F|2px}}"|23
+!style="background:white; color:#0B0B3F; {{box-shadow border|a|#0B0B3F|2px}}"|20
+!style="background:white; color:#0B0B3F; {{box-shadow border|a|#0B0B3F|2px}}"|117
+!style="background:white; color:#0B0B3F; {{box-shadow border|a|#0B0B3F|2px}}"|74
+!style="background:white; color:#0B0B3F; {{box-shadow border|a|#0B0B3F|2px}}"|—
+!style="background:white; color:#0B0B3F; {{box-shadow border|a|#0B0B3F|2px}}"|130
+!style="background:white; color:#0B0B3F; {{box-shadow border|a|#0B0B3F|2px}}"|92
+!style="background:white; color:#0B0B3F; {{box-shadow border|a|#0B0B3F|2px}}"|27
+!style="background:white; color:#0B0B3F; {{box-shadow border|a|#0B0B3F|2px}}"|11
+!style="background:white; color:#0B0B3F; {{box-shadow border|a|#0B0B3F|2px}}"|336
+!style="background:white; color:#0B0B3F; {{box-shadow border|a|#0B0B3F|2px}}"|70
+!style="background:white; color:#0B0B3F; {{box-shadow border|a|#0B0B3F|2px}}"|—
+|}
+
+:{{color box|gold}} '''Champions'''&nbsp;&nbsp;{{color box|silver}} '''Runners-up'''&nbsp;&nbsp;{{color box|#cc9966}} '''Third place'''&nbsp;&nbsp;{{color box|#9acdff}} '''Fourth place'''&nbsp;&nbsp;{{color box|border=red}} Hosted tournament
+
+:''Correct as of 16 November 2025''
+
+===UEFA European Championship===
+{{Main|England at the UEFA European Championship}}
+
+[[File:ITA-ENG 2021-07-11.svg|thumb|Euro 2020 final lineups: England (white) vs. Italy]]
+
+[[File:ESP-ENG 2024-07-14.svg|thumb|Euro 2024 final lineups: England (white) vs. Spain]]
+
+England first entered the [[UEFA European Championship]] in 1964,<ref name="EUROapps">{{cite news |url=https://www.uefa.com/uefaeuro/history/news/0269-1237d827c65d-b4baa4043ec8-1000--england-all-their-euro-records-and-stats/ |title=England: all their EURO records and stats |publisher=[[UEFA]] |date=11 July 2021 |access-date=8 September 2023 |archive-date=8 September 2023 |archive-url=https://web.archive.org/web/20230908124708/https://www.uefa.com/uefaeuro/history/news/0269-1237d827c65d-b4baa4043ec8-1000--england-all-their-euro-records-and-stats/ |url-status=live }}</ref> and have since qualified for eleven tournaments,<ref name="EUROapps"/> tied for [[UEFA European Championship records and statistics#Ranking of teams by number of appearances|fourth-best by number of finals appearances]]. England's best results at the tournament were finishing as runners-up in both the [[UEFA Euro 2020|2020]] (held in 2021) and [[UEFA Euro 2024|2024]] editions, followed by a third-place finish in [[UEFA Euro 1968|1968]]<ref name="UEFA">{{cite news |url=https://www.uefa.com/uefaeuro/history/news/026b-12b542b42faf-302503ef857a-1000--italy-vs-england-facts/ |title=Italy vs England: UEFA EURO 2020 final match background, facts and stats |website=UEFA |date=8 July 2021 |access-date=16 February 2023 |archive-date=16 February 2023 |archive-url=https://web.archive.org/web/20230216200046/https://www.uefa.com/uefaeuro/history/news/026b-12b542b42faf-302503ef857a-1000--italy-vs-england-facts/ |url-status=live }}</ref> and reaching the semi-finals of [[UEFA Euro 1996|1996]], a tournament they hosted.<ref>{{cite news |url=https://www.reuters.com/article/uk-soccer-worldcup-cro-eng-preview-engla/for-20-years-football-wasnt-coming-home-for-england-boss-southgate-idUKKBN1K02LZ |title=For 20 years, football wasn't coming home for England boss Southgate |author=Nick Mulvenney |publisher=Reuters |date=10 July 2018 |access-date=16 February 2023 |archive-date=16 February 2023 |archive-url=https://web.archive.org/web/20230216200049/https://www.reuters.com/article/uk-soccer-worldcup-cro-eng-preview-engla/for-20-years-football-wasnt-coming-home-for-england-boss-southgate-idUKKBN1K02LZ |url-status=live }}</ref> In addition, England have reached the quarter-finals on two further occasions, in [[UEFA Euro 2004|2004]] and [[UEFA Euro 2012|2012]].<ref name="UEFA"/>
+
+England's worst results in the finals tournament to date have been first round eliminations in [[UEFA Euro 1980|1980]], [[UEFA Euro 1988|1988]], [[UEFA Euro 1992|1992]] and [[UEFA Euro 2000|2000]], whilst they failed to qualify for the finals in [[UEFA Euro 1964|1964]], [[UEFA Euro 1972|1972]], [[UEFA Euro 1976|1976]], [[UEFA Euro 1984|1984]] and [[UEFA Euro 2008|2008]].<ref name="EUROapps"/>
+
+{| class="wikitable" style="text-align:center;"
+|-
+!style="background:white; color:#0B0B3F; {{box-shadow border|a|#0B0B3F|2px}}" colspan=10|UEFA European Championship record
+!style="width:1%;background:white" rowspan=99|<!--Spacer-->
+!style="background:white; color:#0B0B3F; {{box-shadow border|a|#0B0B3F|2px}}" colspan=6|Qualifying record
+!style="width:1%;background:white" rowspan=99|<!--Spacer-->
+!style="background:white; color:#0B0B3F; {{box-shadow border|a|#0B0B3F|2px}}" rowspan=2|Manager(s)
+|- 
+!scope="col"|Year
+!scope="col"|Round
+!scope="col"|{{abbr|Pos|Position}}
+!scope="col"|{{abbr|Pld|Games played}}
+!scope="col"|{{abbr|W|Won}}
+!scope="col"|{{abbr|D|Drawn}}{{efn|name=DrawsIncludePenalties}}
+!scope="col"|{{abbr|L|Lost}}
+!scope="col"|{{abbr|GF|Goals for}}
+!scope="col"|{{abbr|GA|Goals against}}
+!scope="col"|Squad
+!scope="col"|{{abbr|Pld|Games played}}
+!scope="col"|{{abbr|W|Won}}
+!scope="col"|{{abbr|D|Drawn}}
+!scope="col"|{{abbr|L|Lost}}
+!scope="col"|{{abbr|GF|Goals for}}
+!scope="col"|{{abbr|GA|Goals against}}
+|-
+|scope="row"|{{flagicon|France}} [[1960 European Nations' Cup|1960]]
+|colspan=9|''Did not enter''
+|colspan=6|''Did not enter''
+|[[Walter Winterbottom|Winterbottom]]
+|-
+|scope="row"|{{flagicon|Francoist Spain|1945}} [[1964 European Nations' Cup|1964]]
+|colspan=9|''Did not qualify''
+|2
+|0
+|1
+|1
+|3
+|6
+|Winterbottom, [[Alf Ramsey|Ramsey]]{{efn|England were defeated by France in a two-legged elimination round. Alf Ramsey took over from Walter Winterbottom between the two legs.}}
+|- style="background:#c96"
+|{{flagicon|Italy}} [[UEFA Euro 1968|1968]]
+|'''Third place'''
+|'''3rd'''
+|'''2'''
+|'''1'''
+|'''0'''
+|'''1'''
+|'''2'''
+|'''1'''
+|'''[[UEFA Euro 1968 squads#England|Squad]]'''
+|8
+|6
+|1
+|1
+|18
+|6
+|Ramsey
+|-
+|scope="row"|{{flagicon|Belgium}} [[UEFA Euro 1972|1972]]
+|colspan=9|''Did not qualify''{{efn|Although England did not qualify for the finals, they reached the last eight of the competition. Only the last four teams progressed to the finals.}}
+|8
+|5
+|2
+|1
+|16
+|6
+|Ramsey
+|-
+|scope="row"|{{flagicon|SFR Yugoslavia}} [[UEFA Euro 1976|1976]]
+|colspan=9|''Did not qualify''
+|6
+|3
+|2
+|1
+|11
+|3
+|[[Don Revie|Revie]]
+|-
+|scope="row"|{{flagicon|Italy}} [[UEFA Euro 1980|1980]]
+|Group stage
+|6th
+|3
+|1
+|1
+|1
+|3
+|3
+|[[UEFA Euro 1980 squads#England|Squad]]
+|8
+|7
+|1
+|0
+|22
+|5
+|[[Ron Greenwood|Greenwood]]
+|-
+|scope="row"|{{flagicon|France|1974}} [[UEFA Euro 1984|1984]]
+|colspan=9|''Did not qualify''
+|8
+|5
+|2
+|1
+|23
+|3
+|rowspan=2|[[Bobby Robson|Robson]]
+|-
+|scope="row"|{{flagicon|West Germany}} [[UEFA Euro 1988|1988]]
+|Group stage
+|7th
+|3
+|0
+|0
+|3
+|2
+|7
+|[[UEFA Euro 1988 squads#England|Squad]]
+|6
+|5
+|1
+|0
+|19
+|1
+|-
+|scope="row"|{{flagicon|Sweden}} [[UEFA Euro 1992|1992]]
+|Group stage
+|7th
+|3
+|0
+|2
+|1
+|1
+|2
+|[[UEFA Euro 1992 squads#England|Squad]]
+|6
+|3
+|3
+|0
+|7
+|3
+|[[Graham Taylor|Taylor]]
+|- style="background:#c96"
+|style="border: 3px solid red" scope="row"|{{flagicon|England}} [[UEFA Euro 1996|1996]]
+|'''Semi-finals'''
+|'''3rd'''
+|'''5'''
+|'''2'''
+|'''3'''
+|'''0'''
+|'''8'''
+|'''3'''
+|'''[[UEFA Euro 1996 squads#England|Squad]]'''
+|colspan=6|''Qualified as hosts''
+|[[Terry Venables|Venables]]
+|-
+|scope="row"|{{flagicon|Belgium}} {{flagicon|Netherlands}} [[UEFA Euro 2000|2000]]
+|Group stage
+|11th
+|3
+|1
+|0
+|2
+|5
+|6
+|[[UEFA Euro 2000 squads#England|Squad]]
+|10
+|4
+|4
+|2
+|16
+|5
+|[[Glenn Hoddle|Hoddle]], [[Kevin Keegan|Keegan]]{{efn|Glenn Hoddle managed the first three qualifiers, while Kevin Keegan managed the remaining qualification matches and the finals campaign.}}
+|-
+|scope="row"|{{flagicon|Portugal}} [[UEFA Euro 2004|2004]]
+|Quarter-finals
+|5th
+|4
+|2
+|1
+|1
+|10
+|6
+|[[UEFA Euro 2004 squads#England|Squad]]
+|8
+|6
+|2
+|0
+|14
+|5
+|[[Sven-Göran Eriksson|Eriksson]]
+|-
+|scope="row"|{{flagicon|Austria}} {{flagicon|Switzerland}} [[UEFA Euro 2008|2008]]
+|colspan=9|''Did not qualify''
+|12
+|7
+|2
+|3
+|24
+|7
+|[[Steve McClaren|McClaren]]
+|-
+|scope="row"|{{flagicon|Poland}} {{flagicon|Ukraine}} [[UEFA Euro 2012|2012]]
+|Quarter-finals
+|5th
+|4
+|2
+|2
+|0
+|5
+|3
+|[[UEFA Euro 2012 squads#England|Squad]]
+|8
+|5
+|3
+|0
+|17
+|5
+|[[Fabio Capello|Capello]], [[Roy Hodgson|Hodgson]]{{efn|Fabio Capello managed the qualification campaign. He resigned before the final tournament and was replaced by Roy Hodgson.}}
+|-
+|scope="row"|{{flagicon|France|1974}} [[UEFA Euro 2016|2016]]
+|Round of 16
+|12th
+|4
+|1
+|2
+|1
+|4
+|4
+|[[UEFA Euro 2016 squads#England|Squad]]
+|10
+|10
+|0
+|0
+|31
+|3
+|Hodgson
+|- style="background:silver"
+|style="border: 3px solid red"|{{flagicon|Europe}} [[UEFA Euro 2020|2020]]{{efn|The tournament was held in 11 cities in 11 UEFA countries. London's [[Wembley Stadium]] hosted all of England's games except for their quarter-final match which was hosted at the [[Stadio Olimpico]] in Rome.}}
+|'''[[UEFA Euro 2020 final|Runners-up]]'''
+|'''2nd'''
+|'''7'''
+|'''5'''
+|'''2'''
+|'''0'''
+|'''11'''
+|'''2'''
+|'''[[UEFA Euro 2020 squads#England|Squad]]'''
+|8
+|7
+|0
+|1
+|37
+|6
+|rowspan=2|[[Gareth Southgate|Southgate]]
+|- style="background:silver"
+|{{flagicon|Germany}} [[UEFA Euro 2024|2024]]
+|'''[[UEFA Euro 2024 final|Runners-up]]'''
+|'''2nd'''
+|'''7'''
+|'''3'''
+|'''3'''
+|'''1'''
+|'''8'''
+|'''6'''
+|'''[[UEFA Euro 2024 squads#England|Squad]]'''
+|8
+|6
+|2
+|0
+|22
+|4
+|-
+|style="border: 3px solid red"|{{flagicon|United Kingdom}} {{flagicon|Republic of Ireland}} [[UEFA Euro 2028|2028]]
+|colspan=9 rowspan=2|''To be determined''
+|colspan=6 rowspan=2|''To be determined''
+|
+|-
+||{{flagicon|Italy}} {{flagicon|Turkey}} [[UEFA Euro 2032|2032]]
+|
+|-
+!style="background:white; color:#0B0B3F; {{box-shadow border|a|#0B0B3F|2px}}"|Total
+!style="background:white; color:#0B0B3F; {{box-shadow border|a|#0B0B3F|2px}}"|Runners-up
+!style="background:white; color:#0B0B3F; {{box-shadow border|a|#0B0B3F|2px}}"|{{Tooltip|11/17|Number of tournaments qualified for}}
+!style="background:white; color:#0B0B3F; {{box-shadow border|a|#0B0B3F|2px}}"|45
+!style="background:white; color:#0B0B3F; {{box-shadow border|a|#0B0B3F|2px}}"|18
+!style="background:white; color:#0B0B3F; {{box-shadow border|a|#0B0B3F|2px}}"|16
+!style="background:white; color:#0B0B3F; {{box-shadow border|a|#0B0B3F|2px}}"|11
+!style="background:white; color:#0B0B3F; {{box-shadow border|a|#0B0B3F|2px}}"|59
+!style="background:white; color:#0B0B3F; {{box-shadow border|a|#0B0B3F|2px}}"|43
+!style="background:white; color:#0B0B3F; {{box-shadow border|a|#0B0B3F|2px}}"|—
+!style="background:white; color:#0B0B3F; {{box-shadow border|a|#0B0B3F|2px}}"|116
+!style="background:white; color:#0B0B3F; {{box-shadow border|a|#0B0B3F|2px}}"|79
+!style="background:white; color:#0B0B3F; {{box-shadow border|a|#0B0B3F|2px}}"|26
+!style="background:white; color:#0B0B3F; {{box-shadow border|a|#0B0B3F|2px}}"|11
+!style="background:white; color:#0B0B3F; {{box-shadow border|a|#0B0B3F|2px}}"|280
+!style="background:white; color:#0B0B3F; {{box-shadow border|a|#0B0B3F|2px}}"|68
+!style="background:white; color:#0B0B3F; {{box-shadow border|a|#0B0B3F|2px}}"|—
+|}
+
+:{{color box|gold}} '''Champions'''&nbsp;&nbsp;{{color box|silver}} '''Runners-up'''&nbsp;&nbsp;{{color box|#cc9966}} '''Third place/Semi-finalists'''&nbsp;&nbsp;{{color box|border=red}} Hosted tournament
+
+:''Correct as of 14 July 2024''
+
+===UEFA Nations League===
+England have competed in the [[UEFA Nations League]] since its inaugural season in 2018–19, when they qualified for the [[2019 UEFA Nations League Finals|2019 finals]] and finished third overall. To date, this is their only appearance in the finals and their best performance in the competition.
+
+{| class="wikitable" style="text-align:center"
+!colspan=24 style="background:white; color:#0B0B3F; {{box-shadow border|a|#0B0B3F|2px}}"|UEFA Nations League record
+|-
+!colspan=12 style="background:white; color:#0B0B3F; {{box-shadow border|a|#0B0B3F|2px}}"|League phase{{efn|League phase is played home and away. Flag shown represents host nation for the finals.}}
+!style="width:1%;background:white" rowspan=99|<!--Spacer-->
+!colspan=9 style="background:white; color:#0B0B3F; {{box-shadow border|a|#0B0B3F|2px}}"|Finals
+!style="width:1%;background:white" rowspan=99|<!--Spacer-->
+!rowspan=2 style="background:white; color:#0B0B3F; {{box-shadow border|a|#0B0B3F|2px}}"|Manager(s)
+|-
+!scope="col"|Season
+!scope="col"|{{Tooltip|Lg|League (A, B, C or D)}}
+!scope="col"|{{Tooltip|Grp|Group (1, 2, 3 or 4)}}
+!scope="col"|{{Tooltip|Pos|Position in group}}
+!scope="col"|{{Tooltip|Pld|Games played}}
+!scope="col"|{{Tooltip|W|Won}}
+!scope="col"|{{Tooltip|D|Drawn}}
+!scope="col"|{{Tooltip|L|Lost}}
+!scope="col"|{{Tooltip|GF|Goals for}}
+!scope="col"|{{Tooltip|GA|Goals against}}
+!scope="col"|{{Tooltip|P/R|Promoted, relegated, or remained in same league at end of season}}
+!scope="col"|{{Tooltip|Rnk|Interim overall ranking}}
+!scope="col"|Year
+!scope="col"|{{Tooltip|Pos|Final position}}
+!scope="col"|{{Tooltip|Pld|Games played}}
+!scope="col"|{{abbr|W|Won}}
+!scope="col"|{{abbr|D{{efn|name=DrawsIncludePenalties}}|Drawn}}
+!scope="col"|{{abbr|L|Lost}}
+!scope="col"|{{Tooltip|GF|Goals for}}
+!scope="col"|{{Tooltip|GA|Goals against}}
+!scope="col"|Squad
+|- style="background:#c96"
+|scope="row"|[[2018–19 UEFA Nations League|2018–19]]
+|[[2018–19 UEFA Nations League A|A]]
+|[[2018–19 UEFA Nations League A#Group 4|4]]
+|1st||4||2||1||1||6||5||{{same position}}||4th
+|{{flagicon|POR}} [[2019 UEFA Nations League Finals|2019]]
+|'''3rd'''||'''2'''||'''0'''||'''1'''||'''1'''||'''1'''||'''3'''
+|'''[[2019 UEFA Nations League Finals squads#England|Squad]]'''
+|[[Gareth Southgate|Southgate]]
+|-
+|scope="row"|[[2020–21 UEFA Nations League|2020–21]]
+|[[2020–21 UEFA Nations League A|A]]
+|[[2020–21 UEFA Nations League A#Group 2|2]]
+|3rd||6||3||1||2||7||4||{{same position}}||9th
+|{{flagicon|ITA}} [[2021 UEFA Nations League Finals|2021]]
+|rowspan=3 colspan=8|''Did not qualify''
+|rowspan=2|Southgate
+|-
+|scope="row"|[[2022–23 UEFA Nations League|2022–23]]
+|[[2022–23 UEFA Nations League A|A]]
+|[[2022–23 UEFA Nations League A#Group 3|3]]
+|4th||6||0||3||3||4||10||{{down}}||15th
+|{{flagicon|NED}} [[2023 UEFA Nations League Finals|2023]]
+|-
+|[[2024–25 UEFA Nations League|2024–25]]
+|[[2024–25 UEFA Nations League B|B]]
+|[[2024–25 UEFA Nations League B#Group 2|2]]
+|1st||6||5||0||1||16||3||{{up}}||17th
+|{{flagicon|GER}} [[2025 UEFA Nations League Finals|2025]]
+|[[Lee Carsley|Carsley]]
+|-
+!colspan=4 style="background:white; color:#0B0B3F; {{box-shadow border|a|#0B0B3F|2px}}"|Total
+!style="background:white; color:#0B0B3F; {{box-shadow border|a|#0B0B3F|2px}}"|22
+!style="background:white; color:#0B0B3F; {{box-shadow border|a|#0B0B3F|2px}}"|10
+!style="background:white; color:#0B0B3F; {{box-shadow border|a|#0B0B3F|2px}}"|5
+!style="background:white; color:#0B0B3F; {{box-shadow border|a|#0B0B3F|2px}}"|7
+!style="background:white; color:#0B0B3F; {{box-shadow border|a|#0B0B3F|2px}}"|33
+!style="background:white; color:#0B0B3F; {{box-shadow border|a|#0B0B3F|2px}}"|22
+!colspan=2 style="background:white; color:#0B0B3F; {{box-shadow border|a|#0B0B3F|2px}}"|4th
+!style="background:white; color:#0B0B3F; {{box-shadow border|a|#0B0B3F|2px}}"|Total
+!style="background:white; color:#0B0B3F; {{box-shadow border|a|#0B0B3F|2px}}"|{{Tooltip|1/4|Number of tournaments qualified for}}
+!style="background:white; color:#0B0B3F; {{box-shadow border|a|#0B0B3F|2px}}"|2
+!style="background:white; color:#0B0B3F; {{box-shadow border|a|#0B0B3F|2px}}"|0
+!style="background:white; color:#0B0B3F; {{box-shadow border|a|#0B0B3F|2px}}"|1
+!style="background:white; color:#0B0B3F; {{box-shadow border|a|#0B0B3F|2px}}"|1
+!style="background:white; color:#0B0B3F; {{box-shadow border|a|#0B0B3F|2px}}"|1
+!style="background:white; color:#0B0B3F; {{box-shadow border|a|#0B0B3F|2px}}"|3
+!style="background:white; color:#0B0B3F; {{box-shadow border|a|#0B0B3F|2px}}"|—
+!style="background:white; color:#0B0B3F; {{box-shadow border|a|#0B0B3F|2px}}"|—
+|}
+
+: {{color box|gold}} '''Champions'''&nbsp;&nbsp;{{color box|silver}} '''Runners-up'''&nbsp;&nbsp;{{color box|#cc9966}} '''Third place'''&nbsp;&nbsp;{{Color box|#9acdff|border=darkgray}} '''Fourth place'''&nbsp;&nbsp;
+
+:''Correct as of 17 November 2024''
+
+==Honours==
+===Global===
+* '''[[FIFA World Cup]]'''
+** '''Champions (1):''' [[1966 FIFA World Cup|1966]]
+
+===Continental===
+* '''[[UEFA European Championship]]'''
+** Runners-up (2): [[UEFA Euro 2020|2020]], [[UEFA Euro 2024|2024]]
+** Third place (1): [[UEFA Euro 1968|1968]]
+* '''[[UEFA Nations League]]'''
+** Third place (1): [[2019 UEFA Nations League Finals|2019]]
+
+===Regional===
+* '''[[British Home Championship]]'''
+** '''Champions (54):''' [[1885–86 British Home Championship|1886]]{{sup|s}}, [[1887–88 British Home Championship|1888]], [[1889-90 British Home Championship|1890]]{{sup|s}}, [[1890–91 British Home Championship|1891]], [[1891–92 British Home Championship|1892]], [[1892–93 British Home Championship|1893]], [[1894–95 British Home Championship|1895]], [[1897–98 British Home Championship|1898]], [[1898–99 British Home Championship|1899]], [[1900–01 British Home Championship|1901]], [[1902–03 British Home Championship|1903]]{{sup|s}}, [[1903–04 British Home Championship|1904]], [[1904–05 British Home Championship|1905]], [[1905–06 British Home Championship|1906]]{{sup|s}}, [[1907–08 British Home Championship|1908]]{{sup|s}}, [[1908–09 British Home Championship|1909]], [[1910–11 British Home Championship|1911]], [[1911–12 British Home Championship|1912]]{{sup|s}}, [[1912–13 British Home Championship|1913]], [[1926–27 British Home Championship|1927]]{{sup|s}}, [[1929–30 British Home Championship|1930]], [[1930–31 British Home Championship|1931]]{{sup|s}}, [[1931–32 British Home Championship|1932]], [[1934–35 British Home Championship|1935]]{{sup|s}}, [[1937–38 British Home Championship|1938]], [[1938–39 British Home Championship|1939]]{{sup|s}}, [[1946–47 British Home Championship|1947]], [[1947–48 British Home Championship|1948]], [[1949–50 British Home Championship|1950]], [[1951–52 British Home Championship|1952]]{{sup|s}}, [[1952–53 British Home Championship|1953]]{{sup|s}}, [[1953–54 British Home Championship|1954]], [[1954–55 British Home Championship|1955]], [[1955–56 British Home Championship|1956]]{{sup|s}}, [[1956–57 British Home Championship|1957]], [[1957–58 British Home Championship|1958]]{{sup|s}}, [[1958–59 British Home Championship|1959]]{{sup|s}}, [[1959–60 British Home Championship|1960]]{{sup|s}}, [[1960–61 British Home Championship|1961]], [[1963–64 British Home Championship|1964]]{{sup|s}}, [[1964–65 British Home Championship|1965]], [[1965–66 British Home Championship|1966]], [[1967–68 British Home Championship|1968]], [[1968–69 British Home Championship|1969]], [[1969–70 British Home Championship|1970]]{{sup|s}}, [[1970–71 British Home Championship|1971]], [[1971–72 British Home Championship|1972]]{{sup|s}}, [[1972–73 British Home Championship|1973]], [[1973–74 British Home Championship|1974]]{{sup|s}}, [[1974–75 British Home Championship|1975]], [[1977–78 British Home Championship|1978]], [[1978–79 British Home Championship|1979]], [[1981–82 British Home Championship|1982]], [[1982–83 British Home Championship|1983]]
+
+===Awards===
+* '''[[FIFA World Cup Fair Play Trophy]]''': [[1990 FIFA World Cup|1990]], [[1998 FIFA World Cup|1998]], [[2022 FIFA World Cup|2022]]
+
+===Summary===
+{| class="wikitable" width=30% style="font-size:90%; text-align:center;"
+|-
+!Competition!!{{Gold1}}!!{{Silver2}}!!{{Bronze3}}!!Total
+|-
+|style="text-align:left"|[[FIFA World Cup]]
+|1||0||0||1
+|-
+|style="text-align:left"|[[UEFA European Championship]]
+|0||2||1||3
+|-
+|style="text-align:left"|[[UEFA Nations League]]
+|0||0||1||1
+|-
+!Total!!1!!2!!2!!5
+|}
+;Notes:
+*{{sup|s}} Shared titles.
+
+==See also==
+{{Portal|English football}}
+* [[Great Britain men's Olympic football team]]
+* [[United Kingdom national football team]]
+* [[England national football team manager]]
+* [[England women's national football team]]
+* [[England national amateur football team]]
+* [[England national football B team]]
+* [[England national football C team]]
+
+==Notes==
+{{Notelist}}
+
+==References==
+{{Reflist|colwidth=30em}}
+
+==External links==
+{{Commons category}}
+* {{official website}}
+* [https://www.fifa.com/about-fifa/associations/ENG England] at [[FIFA]]
+* [https://www.uefa.com/nationalassociations/eng/ England] at [[UEFA]]
+* [https://www.englandstats.com/ The England International Database] at Englandstats.com
+
+{{England national football team}}
+{{Navboxes
+|title = Links to related articles
+|bg = white
+|fg = #cf081f
+|bordercolor = #0b0b3f
+|list1 =
+{{Navboxes
+|title = England achievements and awards
+|bg= white
+|fg= #cf081f
+|bordercolor= #0b0b3f
+|list1 =
+{{s-start}}
+{{s-ach|ach}}
+{{succession box
+ | before = [[1962 FIFA World Cup|1962]]<br />{{fb|BRA}}
+ | after = [[1970 FIFA World Cup|1970]]<br />{{fb-rt|BRA}}
+ | title = [[FIFA World Cup|World Champions]]
+ | years = [[1966 FIFA World Cup|1966]] (First title)
+|}}
+{{S-end}}
+}}
+{{Navboxes
+|title = England squads
+|bg = white
+|fg = #cf081f
+|bordercolor = #0b0b3f
+|list1 =
+{{Navboxes
+|title = England squads&nbsp;– FIFA World Cup
+|bg = white
+|fg = #0b0b3f
+|bordercolor = #cf081f
+|list1 =
+{{England squad 1950 FIFA World Cup}}
+{{England squad 1954 FIFA World Cup}}
+{{England squad 1958 FIFA World Cup}}
+{{England squad 1962 FIFA World Cup}}
+{{England squad 1966 FIFA World Cup}}
+{{England squad 1970 FIFA World Cup}}
+{{England squad 1982 FIFA World Cup}}
+{{England squad 1986 FIFA World Cup}}
+{{England squad 1990 FIFA World Cup}}
+{{England squad 1998 FIFA World Cup}}
+{{England squad 2002 FIFA World Cup}}
+{{England squad 2006 FIFA World Cup}}
+{{England squad 2010 FIFA World Cup}}
+{{England squad 2014 FIFA World Cup}}
+{{England squad 2018 FIFA World Cup}}
+{{England squad 2022 FIFA World Cup}}
+{{England squad 2026 FIFA World Cup}}
+}}
+{{Navboxes
+|title = England squads&nbsp;– UEFA European Championship
+|bg = white
+|fg = #0b0b3f
+|bordercolor = #cf081f
+|list1 =
+{{England squad UEFA Euro 1968}}
+{{England squad UEFA Euro 1980}}
+{{England squad UEFA Euro 1988}}
+{{England squad UEFA Euro 1992}}
+{{England squad UEFA Euro 1996}}
+{{England squad UEFA Euro 2000}}
+{{England squad UEFA Euro 2004}}
+{{England squad UEFA Euro 2012}}
+{{England squad UEFA Euro 2016}}
+{{England squad UEFA Euro 2020}}
+{{England squad UEFA Euro 2024}}
+}}
+}}
+{{FIFA World Cup champions}}
+{{Football in England table cells}}
+{{Football in the United Kingdom}}
+{{UK National Football teams}}
+{{UEFA teams}}
+{{National sports teams of England}}
+}}
+{{Portal bar|Association football|England}}
+{{Authority control}}
+
+[[Category:England national football team| ]]
+[[Category:England men's national football teams| ]]
+[[Category:The Football Association national teams| ]]
+[[Category:1872 establishments in England]]
+[[Category:National sports teams established in 1872]]
+[[Category:FIFA World Cup–winning countries]]

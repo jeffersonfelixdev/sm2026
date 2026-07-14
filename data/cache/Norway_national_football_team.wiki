@@ -1,0 +1,1787 @@
+{{Short description|Men's association football team}}
+{{About|the men's team|the women's team|Norway women's national football team}}
+{{Use dmy dates|date=December 2024}}
+{{Infobox national football team
+| Name               = Norway
+| Nickname           = ''Røde, Hvite, Blå'' (Red, White and Blue)<br>''Landslaget'' (National Team)<br>''Drillos''{{efn|Team's nickname that was popular in the 1990s and early 2000s, in association with former player and manager Egil Olsen who was himself nicknamed ''Drillo'', when the national team recorded some of its major achievements. ''Drillos'' could be rendered as "Drillo's Men" in English. The nickname has since become rarely used.}}
+| Badge              = Norway national football team logo.svg
+| Badge_size         = 150px
+| Association        = {{nowrap|{{lang|no|[[Norwegian Football Federation|Norges Fotballforbund]]}} (NFF)}}
+| Confederation      = [[UEFA]] (Europe)
+| website            = [https://www.fotball.no/ fotball.no]
+| Coach              = [[Ståle Solbakken]]
+| Captain            = [[Martin Ødegaard]]
+| Most caps          = {{nowrap|[[John Arne Riise]] (110)}}
+| Top scorer         = [[Erling Haaland]] ([[List of international goals scored by Erling Haaland|62]])
+| Home Stadium       = [[Ullevaal Stadion]]
+| FIFA Rank          = {{FIFA World Rankings|NOR}}
+| FIFA Trigramme     = NOR
+| FIFA max           = 2
+| FIFA max date      = October 1993, {{nowrap|July–August 1995}}
+| FIFA min           = 88
+| FIFA min date      = July 2017
+| Elo Rank           = {{World Football Elo Ratings|Norway}}
+| Elo max            = 6
+| Elo max date       = June 2000
+| Elo min            = 91
+| Elo min date       = May–June 1976
+| pattern_la1        = _nor26h
+| pattern_b1         = _nor26h
+| pattern_ra1        = _nor26h
+| pattern_sh1        = _nor26h
+| pattern_so1        = 
+| leftarm1           = BA0003
+| body1              = BA0003
+| rightarm1          = BA0003
+| shorts1            = BA0003
+| socks1             = 202747
+| pattern_la2        = _nor26a
+| pattern_b2         = _nor26a
+| pattern_ra2        = _nor26a
+| pattern_sh2        = _nor26a
+| pattern_so2        = 
+| leftarm2           = FFFFFF
+| body2              = FFFFFF
+| rightarm2          = FFFFFF
+| shorts2            = FFFFFF
+| socks2             = 000000
+| pattern_la3        = _nor26t
+| pattern_b3         = _nor26t
+| pattern_ra3        = _nor26t
+| pattern_sh3        = _nor26h
+| pattern_so3        = 
+| leftarm3           = FFFFFF
+| body3              = FFFFFF
+| rightarm3          = FFFFFF
+| shorts3            = FFFFFF
+| socks3             = FFFFFF
+| First game         = {{fb|SWE}} 11–3 {{fb-rt|NOR}} <br /> ([[Gothenburg]], [[Sweden]]; 12 July 1908)
+| Largest win        = {{fb|NOR}} 12–0 {{fb-rt|FIN}} <br /> ([[Bergen]], [[Norway]]; 28 June 1946)<ref>{{cite web|url=http://www.rsssf.no/1946/National.html|title=Norwegian national team 1946|website=www.rsssf.no|access-date=20 March 2013|archive-date=27 June 2013|archive-url=https://web.archive.org/web/20130627181122/http://www.rsssf.no/1946/National.html|url-status=live}}</ref>
+| Largest loss       = {{fb|DEN}} 12–0 {{fb-rt|NOR}} <br /> ([[Copenhagen]], [[Denmark]]; 7 October 1917)
+| World cup apps     = 4
+| World cup first    = 1938
+| World cup best     = Quarter-finals ([[2026 FIFA World Cup|2026]])
+| Regional name      = [[UEFA European Championship|European Championship]]
+| Regional cup apps  = 1
+| Regional cup first = [[UEFA Euro 2000|2000]]
+| Regional cup best  = Group stage ([[UEFA Euro 2000|2000]])
+| medaltemplates     = {{MedalSport|Men's [[Association football|football]]}}
+{{Medal|Competition|[[Football at the Summer Olympics|Olympic Games]]}}
+{{Medal|Bronze|[[1936 Summer Olympics|1936 Berlin]]|[[Football at the 1936 Summer Olympics|Team]]}}
+}}
+
+The '''Norway national football team''' ({{langx|no|Norges herrelandslag i fotball}}, or informally ''Landslaget'') represents [[Norway]] in men's international [[Association football|football]], and is controlled by the [[Norwegian Football Federation]], the governing body for [[football in Norway]]. Norway's home ground is [[Ullevaal Stadion]] in [[Oslo]], and their head coach is [[Ståle Solbakken]]. Norway has participated in the [[FIFA World Cup]] four times ([[1938 FIFA World Cup|1938]], [[1994 FIFA World Cup|1994]], [[1998 FIFA World Cup|1998]] and [[2026 FIFA World Cup|2026]]) and once in the [[UEFA European Championship]] ([[UEFA Euro 2000|2000]]). After Euro 2000, Norway failed to qualify for the next twelve major tournaments from 2001 to 2025.<ref>{{Cite web |date=2023-12-02 |title=Why Erling Haaland isn't at the Euros: How Man City star, Martin Odegaard missed out with Norway |url=https://www.sportingnews.com/us/soccer/news/erling-haaland-euros-man-city-martin-odegaard-norway/a4251d495a6588308a015cb5 |access-date=2024-02-05 |website=www.sportingnews.com |language=en-us}}</ref><ref>{{Cite web |date=2023-02-13 |title=Can Haaland and Odegaard take Norway back to international prominence? |url=https://www.france24.com/en/live-news/20230213-can-haaland-and-odegaard-take-norway-back-to-international-prominence |access-date=2024-02-05 |website=France 24 |language=en}}</ref> The team underwent their deepest run at a World Cup, advancing to the quarter-finals for the [[Norway at the FIFA World Cup|first time in their history]] at the [[2026 FIFA World Cup|2026 World Cup]].<ref>{{Cite news |last=Lutz |first=Tom |date=2026-07-05 |title=Brazil 1-2 Norway: World Cup 2026 last 16 – live reaction |url=https://www.theguardian.com/football/live/2026/jul/05/brazil-v-norway-world-cup-2026-last-16-live |access-date=2026-07-05 |work=the Guardian |language=en-GB |issn=0261-3077}}</ref><ref>{{Cite news |last=Keyser |first=Hannah |date=2026-07-05 |title=Norway stuns Brazil with two late goals to knock out the 5-time World Cup champions {{!}} CNN |url=https://www.cnn.com/2026/07/05/sport/world-cup-round-of-16-sunday |access-date=2026-07-05 |work=CNN |language=en}}</ref>
+
+==History==
+{{Main|History of the Norway national football team}}
+The Norwegian team achieved third place in the [[Football at the 1936 Summer Olympics|1936 Summer Olympics]], after beating hosts [[Germany national football team|Germany]] earlier in the tournament. Norway also qualified for the [[1938 FIFA World Cup]], where they lost 2–1 after extra time against eventual champions [[Italy national football team|Italy]], with this being their last appearance until [[1994 FIFA World Cup|1994]].
+
+In the post-war years, Norway did not qualify for a World Cup or European Championship. Despite this, Norway achieved victories such as a 3–0 win against [[Yugoslavia national football team|Yugoslavia]] in 1965, a 1–0 away win against [[France national football team|France]] in 1968, and a 2–1 victory against [[England national football team|England]] in 1981 that prompted radio commentator [[Bjørge Lillelien]]'s famous "Your boys took a hell of a beating" rant.<ref>{{cite web|url=https://www.sportsjournalists.co.uk/sports-broadcasting/the-radio-man-who-gave-englands-boys-a-hell-of-a-beating/|title=The radio man who gave England's boys a hell of a beating|website=www.sportsjournalists.co.uk|publisher=[[Sports Journalists' Association]]|date=8 September 2011|access-date=11 December 2018|archive-date=14 December 2018|archive-url=https://web.archive.org/web/20181214114308/https://www.sportsjournalists.co.uk/sports-broadcasting/the-radio-man-who-gave-englands-boys-a-hell-of-a-beating/|url-status=live}}</ref>
+
+Norway had their first football's [[Golden age (metaphor)|Golden Age]] from 1990 to 1998 under coach [[Egil Olsen|Egil "Drillo" Olsen]], with the team once being [[FIFA Men's World Rankings|ranked]] No. 2. Olsen started his training career with Norway with a 6–1 home victory against [[Cameroon national football team|Cameroon]] on 31 October 1990. In [[1994 FIFA World Cup qualification|qualifying for the 1994 World Cup]], Norway topped their group, finishing above the [[Netherlands national football team|Netherlands]] and England, beating both teams in the process. During the [[1994 FIFA World Cup|finals]] in the United States, Norway was knocked out in the group stage after a win against [[Mexico national football team|Mexico]], a defeat against Italy and a draw against the [[Republic of Ireland national football team|Republic of Ireland]]. Norway failed to qualify for the round of 16 as all four teams in the group finished with four points and identical goal difference. 
+
+At the [[1998 FIFA World Cup|1998 World Cup]] in France, Norway was once again eliminated by Italy in the first round of the knockout stage after finishing second in their group, having drawn against [[Morocco national football team|Morocco]] and [[Scotland national football team|Scotland]] and winning 2–1 against [[Brazil national football team|Brazil]].
+
+Former under-21 coach [[Nils Johan Semb]] replaced Olsen after the latter's retirement. Under Semb's guidance, Norway qualified for [[UEFA Euro 2000|Euro 2000]], their last European Championship appearance to date. Semb resigned at the end of an unsuccessful qualifying campaign in 2003 and was replaced by [[Åge Hareide]]. Under Hareide, Norway came close to reaching both the [[2006 FIFA World Cup|2006 World Cup]] and [[UEFA Euro 2008|Euro 2008]], but ultimately fell short on both occasions. Norway then failed to win a single game in the entirety of 2008, with Hareide resigning at the end of the year. His replacement, initially on a temporary basis, was Olsen, who began his second spell in charge with an away win against Germany, and subsequently signed a three-year contract. Olsen resigned in September 2013<ref>{{cite web |url=https://www.vg.no/sport/fotball/i/nd6BJ/drillo-ferdig-som-landslagssjef-hoegmo-overtar-naa |title=Drillo ferdig som landslagssjef – Høgmo overtar nå |language=no |website=www.vg.no |publisher=[[Verdens Gang]] |date=27 September 2013 |access-date=11 December 2018 |archive-date=14 December 2018 |archive-url=https://web.archive.org/web/20181214065522/https://www.vg.no/sport/fotball/i/nd6BJ/drillo-ferdig-som-landslagssjef-hoegmo-overtar-naa |url-status=live }}</ref> after Norway lost at home to [[Switzerland national football team|Switzerland]] and had limited chances to qualify for the [[2014 FIFA World Cup|2014 World Cup]] with one game to spare. He was replaced with [[Per-Mathias Høgmo]]. Olsen later claimed he was sacked.<ref>{{cite web |url=https://www.vg.no/sport/fotball/i/nd6BJ/drillo-ferdig-som-landslagssjef-hoegmo-overtar-naa |title=Drillo: – Jeg fikk sparken i NFF |trans-title=Drillo: – I was sacked by the NFF |language=no |website=www.nrk.no |publisher=[[NRK]] Østfold |date=27 May 2015 |access-date=11 December 2018 |archive-date=14 December 2018 |archive-url=https://web.archive.org/web/20181214065522/https://www.vg.no/sport/fotball/i/nd6BJ/drillo-ferdig-som-landslagssjef-hoegmo-overtar-naa |url-status=live }}</ref>
+
+==== 2020–present: Rise to Prominence ====
+During the qualification campaign for [[UEFA Euro 2020]], Norway finished third in their [[UEFA Euro 2020 qualifying Group F|group]] behind Spain and Sweden, missing direct qualification for the tournament. The team subsequently contested a playoff semifinal against Serbia in October 2020, but was defeated 1–2 and eliminated from contention. Norway then participated in the [[2020–21 UEFA Nations League]] alongside Austria, Romania, and Northern Ireland, securing second place in the group and thereby retaining its position in [[2020–21 UEFA Nations League B|League B]] for the following edition.
+
+On 3 December 2020, former national team player [[Ståle Solbakken]] was appointed head coach following the departure of [[Lars Lagerbäck]]. In March 2021, Solbakken named [[Martin Ødegaard]] as team captain. Norway failed to qualify for both the [[2022 FIFA World Cup]] and [[UEFA Euro 2024]]. In the [[2022 FIFA World Cup qualification – UEFA Group G|World Cup qualifiers]], they finished third in a group with the Netherlands and Turkey. Later, in the [[UEFA Euro 2024 qualifying Group A|Euro 2024 qualifiers]], they ended behind Spain and Scotland, missing out again. At the [[2024–25 UEFA Nations League]], Norway clinched direct promotion to [[2026–27 UEFA Nations League A|League A]] after topping their group.
+[[File:Norway Italy - June 2025 B 01 (cropped).jpg|thumb|250px|Norway in 2025]]
+On 16 November 2025, Norway secured qualification for the [[2026 FIFA World Cup]], ending a 28-year absence from the tournament. The team won all eight of its qualifying matches and finished first in its [[2026 FIFA World Cup qualification – UEFA Group I|group]]. The campaign concluded with a 4–1 victory over [[Italy national football team|Italy]] in Milan, marking Italy's first-ever home defeat in a World Cup qualifying group-stage match. [[Erling Haaland]] emerged as the [[2026 FIFA World Cup qualification#Top goalscorers|leading scorer]] across all qualifiers with 16 goals. For the tournament, Norway was drawn into [[2026 FIFA World Cup Group I|Group I]] alongside Iraq, Senegal, and France.
+
+On 17 June 2026, Norway opened its World Cup campaign with a 4–1 victory over [[Iraq national football team|Iraq]], highlighted by two goals from Haaland, who became the first Norwegian player to score multiple goals in a World Cup match. It was also the first time Norway had scored more than two goals in a World Cup fixture. The team followed up with a 3–2 win against [[Senegal national football team|Senegal]], securing advancement to the [[2026 FIFA World Cup#Round of 32|Round of 32]] prior to its final group-stage match against [[France national football team|France]]. They were defeated 4-1 in a dead rubber, marking the first ever time they lost to a World Cup match to an opponent other than Italy (who failed to qualify for the tournament after losing on penalties to Bosnia and Herzagovina in the qualification playoffs). In the Round of 32, Norway won 2-1 against [[Ivory Coast national football team|Ivory Coast]] and advanced to the Round of 16 match against Brazil. This was the first time Norway won a match outside the group stages. Norway is one of only three national teams with a winning record against [[Brazil national football team|Brazil]], and the only team to have never lost against them, with three wins and two draws in five matches, including their 2026 round of 16 match.<ref name=":0">{{cite web|url=https://www.11v11.com/teams/norway/tab/opposingTeams/opposition/Brazil/|title=Norway national football team: record v Brazil|website=11v11.com|publisher=11v11|access-date=11 December 2018|archive-date=14 December 2018|archive-url=https://web.archive.org/web/20181214071008/https://www.11v11.com/teams/norway/tab/opposingTeams/opposition/Brazil/|url-status=live}}</ref><ref>{{Cite web |last=Athletic |first=The |date=2026-07-05 |title=Brazil dumped out of World Cup by Haaland-inspired Norway: Live updates |url=https://www.nytimes.com/athletic/live-blogs/brazil-vs-norway-live-updates-world-cup-2026-score-result/LaiSkMM5noEU/ |access-date=2026-07-05 |website=The Athletic |language=en-US}}</ref> The run ended in the quarter finals, where Norway lost 1–2 to [[England national football team|England]].
+
+==Team image==
+===Crest===
+[[File:Badge of Norway (Pantone).svg|thumb|Original badge of the Norwegian national team]]
+Norway has used the [[Flag of Norway|national flag]] on a white circle as their badge since the 1920s. In May 2008 the [[Norwegian Football Federation|NFF]] unveiled a new crest, a [[Vikings|Viking]]-style Dragon wrapped around the NFF logo. After massive public pressure the crest was dropped.<ref>{{cite web |url=https://www.nrk.no/sport/fotball/nff-snur-i-drakt-saken-1.5762853 |title=NFF snur i drakt-saken |language=no |website=www.nrk.no |publisher=[[NRK]] |date=22 May 2008 |access-date=11 December 2018 |archive-date=23 January 2021 |archive-url=https://web.archive.org/web/20210123112439/https://www.nrk.no/sport/fotball/nff-snur-i-drakt-saken-1.5762853 |url-status=live }}</ref> In the 1980s and the 1990s, Norway used the NFF logo in the opposite breast of the shirt together with the national flag on a white circle. On 12 December 2014, a new crest was presented. The crest primarily features the national flag; in addition, there are two lions taken from the [[Coat of arms of Norway|Norwegian coat of arms]] on the top. The lions face each other while holding a blue miniature of the NFF logo, and between the lions and above the NFF logo is the word "NORGE" (Norway) in blue letters.<ref>{{cite news|title=Dette emblemet skal pryde den norske landslagsdrakta|trans-title=This crest shall adorn the national kit of Norway|url=http://www.dagbladet.no/2014/12/12/sport/fotball/nff/landslagsdrakt/36696756/|language=no|newspaper=Dagbladet|access-date=12 December 2014|archive-date=13 December 2014|archive-url=https://web.archive.org/web/20141213080306/http://www.dagbladet.no/2014/12/12/sport/fotball/nff/landslagsdrakt/36696756/|url-status=live}} Retrieved 12 December 2014</ref> They also wore a special gold version of their logo against Italy on 16 November 2025, to commemorate their qualification for World Cup 2026 after a 28-year wait.
+
+===Kit suppliers===
+{{Commons|Norway national football team kits}}
+[[Adidas]] supplied Norway's kit from 1992 to 1996, with [[Umbro]] taking over until 2014. On 10 September 2014, the NFF and [[Nike, Inc.|Nike]] announced a new partnership, that made the sportswear provider the official Norwegian team kit supplier from 1 January 2015.<ref>{{cite news |title= Norge skifter fra Umbro til Nike (In Norwegian) |url= https://www.aftenposten.no/100Sport/fotball/Norge-skifter-fra-Umbro-til-Nike-181608b.html |work= Aftenposten |access-date= 8 November 2017 |archive-date= 1 November 2018 |archive-url= https://web.archive.org/web/20181101095542/https://www.aftenposten.no/100Sport/fotball/Norge-skifter-fra-Umbro-til-Nike-181608b.html |url-status= live }}</ref>
+{| class="wikitable"
+|-
+!Kit provider
+!Period
+|-
+|{{flagicon|FRA|1974}} [[Le Coq Sportif]]
+| 1976–1980
+|-
+|{{flagicon|DEN}} [[Hummel International|Hummel]]
+|1981–1991
+|-
+|{{flagicon|GER}} [[Adidas]]
+|1992–1996
+|-
+|{{flagicon|UK}} [[Umbro]]
+|1996–2014
+|-
+|{{flagicon|USA}} [[Nike, Inc.|Nike]]
+|2015–present
+|}
+
+=== Chant ===
+As of the [[2026 FIFA World Cup]] the supporters of the team have been performing the [[Viking Row]] chant created by [[Ole Frøystad]].
+
+==Results and fixtures==
+{{Main|Norway national football team results (2020–present)}}
+The following is a list of match results in the last 12 months, as well as any future matches that have been scheduled.
+
+{{legend2|#CCFFCC|Win|border=1px solid #AAAAAA}}
+{{legend2|#FFFFCC|Draw|border=1px solid #AAAAAA}}
+{{legend2|#FFCCCC|Loss|border=1px solid #AAAAAA}}
+{{legend2|#FFFFFF|Fixture|border=1px solid #AAAAAA}}
+
+===2025===
+{{football box collapsible|format=1
+|date              = 4 September 2025
+|time              = {{UTZ|18:00|+2}}
+|round             = [[Exhibition game#Association football|Friendly]]
+|team1             = {{fb-rt|NOR}}
+|score             = 1–0
+|report            = https://www.uefa.com/european-qualifiers/friendlies/match/2045031--norway-vs-finland/
+|team2             = {{fb|FIN}}
+|goals1            =
+*[[Erling Haaland|Haaland]] {{goal|17|pen.}}
+|goals2            =
+|stadium           = [[Ullevaal Stadion]]
+|location          = [[Oslo]], Norway
+|attendance        = 18,665
+|referee           = [[Rob Hennessy]] ([[Football Association of Ireland|Ireland]])
+|result            = W
+}}
+{{football box collapsible|format=1
+|date              = 9 September 2025
+|time              = {{UTZ|20:45|+2}}
+|round             = [[2026 FIFA World Cup qualification – UEFA Group I|2026 FIFA World Cup qualification]]
+|team1             = {{fb-rt|NOR}}
+|score             = 11–1
+|report            = https://www.uefa.com/european-qualifiers/match/2044247/
+|team2             = {{fb|MDA}}
+|goals1            = 
+*[[Felix Horn Myhre|Myhre]] {{goal|6}}
+*[[Erling Haaland|Haaland]] {{goal|11||36||43||52||83}}
+*[[Martin Ødegaard|Ødegaard]] {{goal|45+1}}
+*[[Thelo Aasgaard|Aasgaard]] {{goal|67||76||79|pen|90+1}}
+|goals2            =
+*[[Leo Skiri Østigård|Østigård]] {{goal|74|og}}
+|stadium           = [[Ullevaal Stadion]]
+|location          = [[Oslo]], Norway
+|attendance        = 24,605
+|referee           = Balázs Berke ([[Hungarian Football Federation|Hungary]])
+|result            = W
+}}
+{{football box collapsible|format=1
+|date              = 11 October 2025
+|time              = {{UTZ|18:00|+2}}
+|round             = [[2026 FIFA World Cup qualification – UEFA Group I|2026 FIFA World Cup qualification]]
+|team1             = {{fb-rt|NOR}}
+|score             = 5–0
+|report            = https://www.uefa.com/european-qualifiers/match/2044279/
+|team2             = {{fb|ISR}}
+|goals1            =
+*[[Anan Khalaili|Khalaili]] {{goal|18|og}}
+*[[Erling Haaland|Haaland]] {{goal|27||63||72}}
+*[[Idan Nachmias|Nachmias]] {{goal|28|og}}
+|goals2            =
+|stadium           = [[Ullevaal Stadion]]
+|location          = [[Oslo]], Norway
+|attendance        = 19,363
+|referee           = [[Szymon Marciniak]] ([[Polish Football Association|Poland]])
+|result            = W
+}}
+{{football box collapsible|format=1
+|date              = 14 October 2025
+|time              = {{UTZ|18:00|+2}}
+|round             = [[Exhibition game#Association football|Friendly]]
+|team1             = {{fb-rt|NOR}}
+|score             = 1–1
+|report            = https://www.uefa.com/european-qualifiers/friendlies/match/2044979--norway-vs-new-zealand/
+|team2             = {{fb|NZL}}
+|goals1            =
+*[[Antonio Nusa|Nusa]] {{goal|63}}
+|goals2            =
+*[[Finn Surman|Surman]] {{goal|45+1}}
+|stadium           = [[Ullevaal Stadion]]
+|location          = [[Oslo]], Norway
+|attendance        = 17,652
+|referee           = [[Horațiu Feșnic]] ([[Romanian Football Federation|Romania]])
+|result            = D
+}}
+{{football box collapsible|format=1
+|date              = 13 November 2025
+|time              = {{UTZ|18:00|+1}}
+|round             = [[2026 FIFA World Cup qualification – UEFA Group I|2026 FIFA World Cup qualification]]
+|team1             = {{fb-rt|NOR}}
+|score             = 4–1
+|report            = https://www.uefa.com/european-qualifiers/match/2044309/
+|team2             = {{fb|EST}}
+|goals1            =
+*[[Alexander Sørloth|Sørloth]] {{goal|50||52}}
+*[[Erling Haaland|Haaland]] {{goal|56||62}}
+|goals2 =
+*[[Robi Saarma|Saarma]] {{goal|64}}
+|stadium = [[Ullevaal Stadion]]
+|location = [[Oslo]], Norway
+|attendance = 25,493
+|referee = [[Matej Jug]] ([[Football Association of Slovenia|Slovenia]])
+|result = W 
+}}
+{{football box collapsible|format=1
+|date              = 16 November 2025
+|time              = {{UTZ|20:45|+1}}
+|round             = [[2026 FIFA World Cup qualification – UEFA Group I|2026 FIFA World Cup qualification]]
+|team1             = {{fb-rt|ITA}}
+|score             = 1–4
+|report            = https://www.uefa.com/european-qualifiers/match/2044329/
+|team2             = {{fb|NOR}}
+|goals1            =
+*[[Francesco Pio Esposito|Esposito]] {{goal|11}}
+|goals2            =
+*[[Antonio Nusa|Nusa]] {{goal|63}}
+*[[Erling Haaland|Haaland]] {{goal|77||79}}
+*[[Jørgen Strand Larsen|Larsen]] {{goal|90+3}}
+|stadium           = [[San Siro]]
+|location          = [[Milan]], Italy
+|attendance        = 69,020
+|referee           = [[Alejandro Hernández Hernández]] ([[Royal Spanish Football Federation|Spain]])
+|result            = W
+|bg=}}
+
+===2026===
+{{football box collapsible|format=1
+|date              = 27 March 2026
+|time              = 20:45 [[UTC+1:00|UTC+1]]
+|round             = [[Exhibition game#Association football|Friendly]]
+|team1             = {{fb-rt|NED}}
+|score             = 2–1
+|report            = https://www.fotball.no/fotballdata/kamp/?fiksId=8981334
+|team2             = {{fb|NOR}}
+|goals1            = 
+*[[Virgil Van Dijk|Van Dijk]] {{goal|35}}
+*[[Tijjani Reijnders|Reijnders]] {{goal|51}}
+|goals2            = 
+*[[Andreas Schjelderup|Schjelderup]] {{goal|24}}
+|location          = [[Amsterdam]], Netherlands
+|stadium           = [[Johan Cruyff Arena]]
+|attendance        = 50,327
+|referee           = [[Lawrence Visser]] ([[Belgian Football Association|Belgium]])
+|result            = L
+}}
+{{football box collapsible|format=1
+|date              = 31 March 2026
+|time              = 20:45 [[UTC+2:00|UTC+2]]
+|round             = [[Exhibition game#Association football|Friendly]]
+|team1             = {{fb-rt|NOR}}
+|score             = 0–0
+|report            = https://www.fotball.no/fotballdata/kamp/?fiksId=8981336
+|team2             = {{fb|SUI}}
+|goals1            =
+|goals2            =
+|stadium           = [[Ullevaal Stadion]]
+|location          = [[Oslo]], Norway
+|attendance        = 23,913
+|referee           = Jasper Vergoote ([[Royal Belgian Football Association|Belgium]])
+|result            = D
+}}
+{{football box collapsible|format=1
+|date              = 1 June 2026
+|time              = 19:00 [[UTC+2:00|UTC+2]]
+|round             = [[Exhibition game#Association football|Friendly]]
+|team1             = {{fb-rt|NOR}}
+|score             = 3–1
+|report            = https://www.fotball.no/fotballdata/kamp/?fiksId=9113872
+|team2             = {{fb|SWE}}
+|goals1            =
+*[[Jørgen Strand Larsen|Larsen]] {{goal|9||37}}
+*[[Antonio Nusa|Nusa]] {{goal|18}}
+|goals2            = 
+*[[Alexander Isak|Isak]] {{goal|76}}
+|stadium           = [[Ullevaal Stadion]]
+|location          = [[Oslo]], Norway
+|attendance        = 25,138
+|referee           = Balázs Berke ([[Hungarian Football Federation|Hungary]])
+|result            = W
+}}
+{{football box collapsible|format=1
+|date              = 7 June 2026
+|time              = 15:00 [[UTC-04:00|UTC-4]]
+|round             = [[Exhibition game#Association football|Friendly]]
+|team1             = {{fb-rt|MAR}}
+|score             = 1–1
+|report            = https://www.fotball.no/fotballdata/kamp/?fiksId=9164516
+|team2             = {{fb|NOR}}
+|goals1            =
+*[[Brahim Díaz|Brahim]] {{goal|8}}
+|goals2            =
+*[[Martin Ødegaard|Ødegaard]] {{goal|75}}
+|stadium           = [[Sports Illustrated Stadium]]
+|location          = [[Harrison, New Jersey|Harrison]], United States
+|attendance        = 25,000 
+|referee           = Pierre-Luc Lauzière ([[Canadian Soccer Association|Canada]])
+|result            = D
+}}
+{{football box collapsible|format=1
+|date              = 16 June 2026
+|time              = {{UTZ|18:00|-4}}
+|round             = [[2026 FIFA World Cup]] [[2026 FIFA World Cup Group I|Group I]]
+|team1             = {{fb-rt|IRQ}}
+|score             = 1–4
+|report            = https://www.fifa.com/en/match-centre/match/17/285023/289273/400021488
+|team2             = {{fb|NOR}}
+|goals1            =
+*[[Aymen Hussein|Hussein]] {{goal|39}}
+|goals2=
+*[[Erling Haaland|Haaland]] {{goal|29|43}}
+*[[Leo Østigård|Østigård]] {{goal|76}}
+*[[Aymen Hussein|Hussein]] {{goal|90+6|o.g.}}
+|stadium           = [[Gillette Stadium]]
+|location          = [[Foxborough, Massachusetts|Foxborough]], United States
+|attendance        = 63,106
+|referee           = [[Pierre Atcho]] ([[Gabonese Football Federation|Gabon]])
+|result            = W
+}}
+{{football box collapsible|format=1
+|date              = 22 June 2026
+|time              = {{UTZ|20:00|-4}}
+|round             = [[2026 FIFA World Cup]] [[2026 FIFA World Cup Group I|Group I]]
+|team1             = {{fb-rt|NOR}}
+|score             = 3–2
+|report            = https://www.fifa.com/en/match-centre/match/17/285023/289273/400021491
+|team2             = {{fb|SEN}}
+|goals1            =
+*[[Marcus Holmgren Pedersen|M. H. Pedersen]] {{goal|43}}
+*[[Erling Haaland|Haaland]] {{goal|48||58}}
+|goals2=
+*[[Ismaïla Sarr|I. Sarr]] {{goal|53||90+3}}
+|stadium           = [[MetLife Stadium]]
+|location          = [[East Rutherford, New Jersey|East Rutherford]], United States
+|attendance        = 80,663
+|referee           = [[Wilton Sampaio]] ([[Brazilian Football Confederation|Brazil]])
+|result            = W
+}}
+{{football box collapsible|format=1
+|date              = 26 June 2026
+|time              = {{UTZ|15:00|-4}}
+|round             = [[2026 FIFA World Cup]] [[2026 FIFA World Cup Group I|Group I]]
+|team1             = {{fb-rt|NOR}}
+|score      = 1–4
+|report     = https://www.fifa.com/en/match-centre/match/17/285023/289273/400021489
+|team2      = {{fb|FRA}}
+|goals1=
+*[[Thelo Aasgaard|Aasgaard]] {{goal|21}}
+|goals2=
+*[[Ousmane Dembélé|Dembélé]] {{goal|7||20||32}}
+*[[Désiré Doué|Doué]] {{goal|90+4}}
+|location   = [[Foxborough, Massachusetts|Foxborough]], United States
+|stadium    = [[Gillette Stadium]]
+|attendance = 64,146
+|referee    = [[Michael Oliver (referee)|Michael Oliver]] ([[The Football Association|England]])
+|result     = L
+}}
+{{football box collapsible
+|format=1
+|round      = [[2026 FIFA World Cup|2026 FIFA World Cup]] [[2026 FIFA World Cup round of 32|Round of 32]]
+|date       = 30 June 2026
+|time       = {{UTZ|12:00|-5}}
+|team1      = {{fb-rt|CIV}}
+|score      =1–2 
+|team2      = {{fb|NOR}}
+|report     = https://www.fifa.com/en/match-centre/match/17/285023/289287/400021514
+|goals1     =
+*[[Amad Diallo|Diallo]] {{goal|74}}
+|goals2     =
+*[[Antonio Nusa|Nusa]] {{goal|39}}
+*[[Erling Haaland|Haaland]] {{goal|86}}
+|location   = [[Arlington, Texas|Arlington]], United States
+|stadium    = [[AT&T Stadium]]
+|attendance = 69,665
+|referee    = [[Jesús Valenzuela]] ([[Venezuelan Football Federation|Venezuela]])
+|result     =W
+}} 
+{{football box collapsible
+|format=1
+|round      = [[2026 FIFA World Cup|2026 FIFA World Cup]] [[2026 FIFA World Cup knockout stage|Round of 16]]
+|date       = 5 July 2026
+|time       = {{UTZ|16:00|-4}}
+|team1      = {{fb-rt|BRA}}
+|score      = 1–2
+|team2      = {{fb|NOR}}
+|report     = https://www.fifa.com/en/match-centre/match/17/285023/289288/400021532
+|goals1     =
+*[[Neymar]] {{goal|90+10|pen.}}
+|goals2     =
+*[[Erling Haaland|Haaland]] {{goal|79||90}}
+|location   = [[East Rutherford, New Jersey|East Rutherford]], United States
+|stadium    = [[MetLife Stadium]]
+|attendance = 80,663
+|referee    = [[Ismail Elfath]] ([[United States Soccer Federation|United States]])
+|result     = W
+}}
+{{football box collapsible
+|format=1
+|round      = [[2026 FIFA World Cup|2026 FIFA World Cup]] [[2026 FIFA World Cup knockout stage|Quarterfinal]]
+|date       = 11 July 2026
+|time       = {{UTZ|17:00|-4}}
+|team1      = {{fb-rt|NOR}}
+|score      = 1–2
+|aet        = yes
+|team2      = {{fb|ENG}}
+|report     = https://www.fifa.com/en/match-centre/match/17/285023/289289/400021539
+|goals1     =
+*[[Andreas Schjelderup|Schjelderup]] {{goal|36}}
+|goals2     = 
+*[[Jude Bellingham|Bellingham]] {{goal|45+2||93}} 
+|location   = [[Miami Gardens, Florida|Miami Gardens]], United States
+|stadium    = [[Hard Rock Stadium]]
+|attendance = 64,478
+|referee    = [[Clément Turpin]] ([[French Football Federation|France]])
+|result     = L
+}}
+{{football box collapsible
+|format     = 1
+|date       = 24 September 2026
+|time       = {{UTZ|20:45|+2}}
+|round      = [[2026–27 UEFA Nations League A|2026–27 UEFA Nations League]]
+|score      = 
+|report     = https://www.uefa.com/uefanationsleague/match/2048005/
+|team1      = {{fb-rt|NOR}}
+|goals1     = 
+|team2      = {{fb|DEN}}
+|goals2     = 
+|stadium    = [[Ullevaal Stadion]]
+|location   = [[Oslo]], Norway
+|attendance = 
+|referee    = 
+|result     = 
+}}
+{{football box collapsible
+|format     = 1
+|date       = 27 September 2026
+|time       = {{UTZ|20:45|+2}}
+|round      = [[2026–27 UEFA Nations League A|2026–27 UEFA Nations League]]
+|score      = 
+|report     = https://www.uefa.com/uefanationsleague/match/2047978/
+|team1      = {{fb-rt|NOR}}
+|goals1     = 
+|team2      = {{fb|POR}}
+|goals2     = 
+|stadium    = [[Ullevaal Stadion]]
+|location   = [[Oslo]], Norway
+|attendance = 
+|referee    = 
+|result     = 
+}}
+{{football box collapsible
+|format     = 1
+|date       = 1 October 2026
+|time       = {{UTZ|19:45|+1}}
+|round      = [[2026–27 UEFA Nations League A|2026–27 UEFA Nations League]]
+|score      = 
+|report     = https://www.uefa.com/uefanationsleague/match/2047950/
+|team1      = {{fb-rt|WAL}}
+|goals1     = 
+|team2      = {{fb|NOR}}
+|goals2     = 
+|stadium    = [[Cardiff City Stadium]]
+|location   = [[Cardiff]], Wales
+|attendance = 
+|referee    = 
+|result     = 
+}}
+{{football box collapsible
+|format     = 1
+|date       = 4 October 2026
+|time       = {{UTZ|19:45|+1}}
+|round      = [[2026–27 UEFA Nations League A|2026–27 UEFA Nations League]]
+|score      = 
+|report     = https://www.uefa.com/uefanationsleague/match/2047924/
+|team1      = {{fb-rt|POR}}
+|goals1     = 
+|team2      = {{fb|NOR}}
+|goals2     = 
+|stadium    = [[Estádio do Dragão]]
+|location   = [[Porto]], Portugal
+|attendance = 
+|referee    = 
+|result     = 
+}}
+{{football box collapsible
+|format     = 1
+|date       = 14 November 2026
+|time       = {{UTZ|18:00|+1}}
+|round      = [[2026–27 UEFA Nations League A|2026–27 UEFA Nations League]]
+|score      = 
+|report     = https://www.uefa.com/uefanationsleague/match/2047893/
+|team1      = {{fb-rt|NOR}}
+|goals1     = 
+|team2      = {{fb|WAL}}
+|goals2     = 
+|stadium    = [[Ullevaal Stadion]]
+|location   = [[Oslo]], Norway
+|attendance = 
+|referee    = 
+|result     = 
+}}
+{{football box collapsible
+|format     = 1
+|date       = 17 November 2026
+|time       = {{UTZ|20:45|+1}}
+|round      = [[2026–27 UEFA Nations League A|2026–27 UEFA Nations League]]
+|score      = 
+|report     = https://www.uefa.com/uefanationsleague/match/2047919/
+|team1      = {{fb-rt|DEN}}
+|goals1     = 
+|team2      = {{fb|NOR}}
+|goals2     = 
+|stadium    = [[Parken Stadium]]
+|location   = [[Copenhagen]], Denmark
+|attendance = 
+|referee    = 
+|result     = 
+}}
+
+==Coaching staff==
+[[File:Kopengagen- (2).jpg|thumb|200px|right|[[Ståle Solbakken]] is currently the manager of Norway]]
+{| class="wikitable"
+|-
+!Position
+!Name
+|-
+|Head coach
+|{{flagicon|NOR}} [[Ståle Solbakken]]
+|-
+|Assistant coach
+|{{flagicon|NOR}} [[Kent Bergersen]]
+|-
+|Fitness coach
+|{{flagicon|NOR}} Bjørn Vidar Stenersen
+|-
+|Match analysts
+|{{flagicon|ENG}} Andy Findlay<hr />{{flagicon|NOR}} Pål Fjelde
+|-
+|Sports coordinator
+|{{flagicon|NOR}} [[Brede Hangeland]]
+|-
+|Physiotherapist
+|{{flagicon|ITA}} Mario Pafundi
+|-
+|Sports scientist
+|{{flagicon|NOR}} Johannes Marthinussen
+|-
+|Chief instructor
+|{{flagicon|USA}} Bryant Lazaro
+|-
+|Team manager
+|{{flagicon|NOR}} Bård Wiggen
+|}
+
+===Coaching history===
+{{updated|11 July 2026|<ref>{{cite web |url=http://www.rsssf.no/stats/NationalCoaches.html |title=National team coaches (1953–2019) |publisher=[[Rec.Sport.Soccer Statistics Foundation]] |date=26 March 2011 |access-date=6 December 2011 |archive-date=18 October 2011 |archive-url=https://web.archive.org/web/20111018095257/http://www.rsssf.no/stats/NationalCoaches.html |url-status=live }}</ref><ref>{{cite web|url=http://www.fotball.no/System-pages/TabellTermin/?tournamentId=39899|title=Norwegian National Football Team Matches|access-date=11 September 2012|publisher=[[Football Association of Norway|NFF]]|archive-date=6 February 2015|archive-url=https://web.archive.org/web/20150206105552/http://www.fotball.no/System-pages/TabellTermin/?tournamentId=39899|url-status=live}}</ref>}}
+
+The following is a list of all managers of the national team. Prior to 1953, the team was selected by a selection committee, which also continued to select the team until 1969.
+{|class="wikitable sortable"
+! Manager
+! Tenure
+! {{tooltip|P|Games played}}
+! {{tooltip|W|Games won}}
+! {{tooltip|D|Games drawn}}
+! {{tooltip|L|Games lost}}
+! {{tooltip|F|Goals for}}
+! {{tooltip|A|Goals against}}
+! Finals
+|-
+| {{flagicon|Austria}} {{sortname|Willibald|Hahn}} || {{dts|format=dmy|1953|8|1|}}&nbsp;– 31 December 1955 || align=right | 26 || align=right | 7 || align=right | 7 || align=right | 12 || align=right | 28 || align=right | 42 ||
+|-
+| {{flagicon|England}} {{sortname|Ron|Lewin}} || {{dts|format=dmy|1956|1|1|}}&nbsp;– 31 December 1957 || align=right | 17 || align=right | 5 || align=right | 4 || align=right | 8 || align=right | 25 || align=right | 38 ||
+|-
+| {{flagicon|Poland|variant=1928}} {{sortname|Edmund|Majowski}} ||{{dts|format=dmy|1958|1|1|}}&nbsp;– 15 September 1958 || align=right | 5 || align=right | 3 || align=right | 1 || align=right | 1 || align=right | 10 || align=right | 8 ||
+|-
+| {{flagicon|Norway}} {{sortname|Ragnar|Larsen}} || {{dts|format=dmy|1958|9|16|}}&nbsp;– 31 December 1958 || align=right | 1 || align=right | 0 || align=right | 0 || align=right | 1 || align=right | 1 || align=right | 4 ||
+|-
+| {{flagicon|Norway}} {{sortname|Kristian|Henriksen}} || {{dts|format=dmy|1959|1|1|}}&nbsp;– 31 December 1959 || align=right | 10 || align=right | 3 || align=right | 0 || align=right | 7 || align=right | 15 || align=right | 29 ||
+|-
+| {{flagicon|Austria}} {{sortname|Wilhelm|Kment}} || {{dts|format=dmy|1960|1|1|}}&nbsp;– 15 August 1962 || align=right | 20 || align=right | 6 || align=right | 2 || align=right | 12 || align=right | 32 || align=right | 45 ||
+|-
+| {{flagicon|Norway}} {{sortname|Ragnar|Larsen}} || {{dts|format=dmy|1962|8|16|}}&nbsp;– 31 December 1966 || align=right | 33 || align=right | 11 || align=right | 7 || align=right | 15 || align=right | 47 || align=right | 74 ||
+|-
+| {{flagicon|Austria}} {{sortname|Wilhelm|Kment}} || {{dts|format=dmy|1967|1|1|}}&nbsp;– 31 December 1969 || align=right | 25 || align=right | 9 || align=right | 3 || align=right | 13 || align=right | 39 || align=right | 61 ||
+|-
+| {{flagicon|Norway}} {{sortname|Øivind|Johannessen}} || {{dts|format=dmy|1970|1|1|}}&nbsp;– 31 December 1971 || align=right | 17 || align=right | 4 || align=right | 2 || align=right | 11 || align=right | 18 || align=right | 43 ||
+|-
+| {{flagicon|England}} {{sortname|George|Curtis|George Curtis (footballer born 1919)}} || {{dts|format=dmy|1972|1|1|}}&nbsp;– August 1974 || align=right | 17 || align=right | 3 || align=right | 2 || align=right | 12 || align=right | 17 || align=right | 30 ||
+|-
+| {{flagicon|Norway}} {{sortname|Kjell|Schou-Andreassen}}<hr />{{flagicon|Norway}} [[Nils Arne Eggen]] || {{dts|format=dmy|1974|8|}}&nbsp;– 31 December 1977 || align=right | 27 || align=right | 6 || align=right | 4 || align=right | 17 || align=right | 26 || align=right | 52 ||
+|-
+| {{flagicon|Norway}} {{sortname|Tor Røste|Fossen}} || {{dts|format=dmy|1978|1|1|}}&nbsp;– 30 June 1987 || align=right | 94 ||align=right | 28 || align=right | 28 || align=right | 38 || align=right | 96 || align=right | 119 ||
+|-
+| {{flagicon|Sweden}} {{sortname|Tord|Grip}} || {{dts|format=dmy|1987|7|1|}}&nbsp;– 30 June 1988 || align=right | 7 || align=right | 0 || align=right | 4 || align=right | 3 || align=right | 3 || align=right | 7 ||
+|-
+| {{flagicon|Norway}} {{sortname|Ingvar|Stadheim}} || {{dts|format=dmy|1988|7|1|}}&nbsp;– 10 October 1990 || align=right | 24 || align=right | 5 || align=right | 8 || align=right | 11 || align=right | 32 || align=right | 37 ||
+|-
+| {{flagicon|Norway}} {{sortname|Egil|Olsen}} || {{dts|format=dmy|1990|10|11|}}&nbsp;– 30 June 1998 || align=right | 88 || align=right | 46 || align=right | 26 || align=right | 16 || align=right | 168 || align=right | 63 || [[1994 FIFA World Cup|1994 World Cup]]&nbsp;– Group stage<hr />[[1998 FIFA World Cup|1998 World Cup]]&nbsp;– Round of 16
+|-
+| {{flagicon|Norway}} {{sortname|Nils Johan|Semb}} || {{dts|format=dmy|1998|7|1|}}&nbsp;– 31 December 2003 || align=right | 68 || align=right | 29 || align=right | 21 || align=right | 18 || align=right | 89 || align=right | 61 || [[Euro 2000]]&nbsp;– Group stage
+|-
+| {{flagicon|Norway}} {{sortname|Åge|Hareide}} || {{dts|format=dmy|2004|1|1|}}&nbsp;– 8 December 2008 || align=right | 58 || align=right | 24 || align=right | 18 || align=right | 16 || align=right | 88 || align=right | 65 ||
+|-
+| {{flagicon|Norway}} {{sortname|Egil|Olsen}} || {{dts|format=dmy|2009|1|14|}}&nbsp;– 27 September 2013 || align=right | 49 || align=right | 25 || align=right | 8 || align=right | 16 || align=right | 61 || align=right | 50 ||
+|-
+| {{flagicon|Norway}} {{sortname|Per-Mathias|Høgmo}} || {{dts|format=dmy|2013|9|27|}}&nbsp;– 16 November 2016 || align=right | 35 || align=right | 10 || align=right | 7 || align=right | 18 || align=right | 33 || align=right | 49 ||
+|-
+| {{flagicon|Sweden}} {{sortname|Lars|Lagerbäck}} || {{dts|format=dmy|2017|2|1|}}&nbsp;– 6 December 2020 || align=right | 34 || align=right | 18 || align=right | 9 || align=right | 8 || align=right | 60 || align=right | 34 ||
+|-
+| {{flagicon|Norway}} {{sortname|Leif Gunnar|Smerud}}{{efn|Led the team that was dubbed "koronalandslaget", due to the entire national squad was put in quarantine}}<ref>{{cite web |last1=Holmlund |first1=Tor Bjørnar |title=Hanche-Olsen klar for koronalandslaget |url=https://www.budstikka.no/hanche-olsen-klar-for-koronalandslaget-sammen-med-flere-ex-stabak-spillere/s/5-55-1022871 |website=budstikka.no |date=16 November 2020 |publisher=Budstikka |access-date=23 November 2023}}</ref> || {{dts|format=dmy|2020|11|18|}} || align=right | 1 || align=right | 0 || align=right | 1 || align=right | 0 || align=right | 1 || align=right | 1 ||
+|-
+| {{flagicon|Norway}} {{sortname|Ståle|Solbakken}} || {{dts|format=dmy|2020|12|7|}}&nbsp;– || align=right | 62 || align=right | 36 || align=right | 12 || align=right | 14 || align=right | 138 || align=right | 64 || [[2026 FIFA World Cup|2026 World Cup]]&nbsp;– Quarterfinals
+|}
+
+==Players==
+===Current squad===
+<!-- IMPORTANT NOTE: WHEN YOU UPDATE THE CURRENT SQUAD, COULD YOU PLEASE ALSO UPDATE "RECENT CALLUPS" BELOW? ALSO WHEN UPDATING CAPS/GOALS PLEASE CHANGE THE 'CORRECT AS OF...' DATE. THANK YOU -->
+The following 26 players were called up to the [[2026 FIFA World Cup]], and for the pre-tournament friendly matches against [[Sweden men's national football team|Sweden]] and [[Morocco national football team|Morocco]] on 1 and 7 June 2026, respectively.<ref>{{cite web |url=https://ca.sports.yahoo.com/news/official-norways-squad-world-cup-183300398.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAFgGHlHiBBNs5sEPwrgfkPOgWaT4Z0qNrN4xBSfmKBxvPgOBSXRawP_92Et-K2s_CFv21kQ4yo9tvcPXz82quVmYNOv0Kc-ZLH854nBfP1SQzWY0XTdzzWyUq6FW-k1S1b5y3kN2EQ_RXuX29_cGVdhoz0IEmXBjct8DquE6iCaO |title=Official: Norway's squad for the World Cup |publisher=ca.sports.yahoo.com |date=May 21, 2026 |access-date=May 21, 2026}}</ref><ref>{{Cite Instagram |user=herrelandslaget |author=Norway men's national football team |postid=DYptu7rDA5D |title=Hvilket nummer går du for i sommer? |trans-title=Which number are you going for this summer? |language=no |date=22 May 2026 |access-date=23 May 2026}}</ref><br>''Caps and goals correct as of 11 July 2026, after the match against [[England national football team|England]].''{{Citation needed|date=October 2024}}
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Ørjan Nyland]]|age={{birth date and age|1990|9|10|df=y}}|caps=76|goals=0|club=[[Free agent|Unattached]]|clubnat=}}
+{{nat fs g player|no=12|pos=GK|name=[[Sander Tangvik]]|age={{birth date and age|2002|11|29|df=y}}|caps=0|goals=0|club=[[Hamburger SV]]|clubnat=GER}}
+{{nat fs g player|no=13|pos=GK|name=[[Egil Selvik]]|age={{birth date and age|1997|7|30|df=y}}|caps=8|goals=0|club=[[Watford F.C.|Watford]]|clubnat=ENG}}
+{{nat fs break}}
+{{nat fs g player|no=3|pos=DF|name=[[Kristoffer Ajer|Kristoffer Ajer]]|age={{birth date and age|1998|4|17|df=y}}|caps=57|goals=2|club=[[Brentford F.C.|Brentford]]|clubnat=ENG}}
+{{nat fs g player|no=4|pos=DF|name=[[Leo Østigård]]|age={{birth date and age|1999|11|28|df=y}}|caps=43|goals=2|club=[[Genoa CFC|Genoa]]|clubnat=ITA}}
+{{nat fs g player|no=5|pos=DF|name=[[David Møller Wolfe]]|age={{birth date and age|2002|4|23|df=y}}|caps=27|goals=1|club=[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]|clubnat=ENG}}
+{{nat fs g player|no=15|pos=DF|name=[[Fredrik André Bjørkan]]|age={{birth date and age|1998|8|21|df=y}}|caps=22|goals=1|club=[[FK Bodø/Glimt|Bodø/Glimt]]|clubnat=NOR}}
+{{nat fs g player|no=16|pos=DF|name=[[Marcus Holmgren Pedersen]]|age={{birth date and age|2000|7|16|df=y}}|caps=36|goals=1|club=[[Torino FC|Torino]]|clubnat=ITA}}
+{{nat fs g player|no=17|pos=DF|name=[[Torbjørn Heggem]]|age={{birth date and age|1999|1|12|df=y}}|caps=20|goals=0|club=[[Bologna FC 1909|Bologna]]|clubnat=ITA}}
+{{nat fs g player|no=24|pos=DF|name=[[Sondre Langås]]|age={{birth date and age|2001|2|2|df=y}}|caps=4|goals=0|club=[[Derby County F.C.|Derby County]]|clubnat=ENG}}
+{{nat fs g player|no=25|pos=DF|name=[[Henrik Falchener]]|age={{birth date and age|2003|5|8|df=y}}|caps=2|goals=0|club=[[Viking FK|Viking]]|clubnat=NOR}}
+{{nat fs g player|no=26|pos=DF|name=[[Julian Ryerson]]|age={{birth date and age|1997|11|17|df=y}}|caps=47|goals=1|club=[[Borussia Dortmund]]|clubnat=GER}}
+{{nat fs break}}
+{{nat fs g player|no=2|pos=MF|name=[[Morten Thorsby]]|age={{birth date and age|1996|5|5|df=y}}|caps=32|goals=0|club=[[US Cremonese|Cremonese]]|clubnat=ITA}}
+{{nat fs g player|no=6|pos=MF|name=[[Patrick Berg]]|age={{birth date and age|1997|11|24|df=y}}|caps=49|goals=0|club=[[FK Bodø/Glimt|Bodø/Glimt]]|clubnat=NOR}}
+{{nat fs g player|no=8|pos=MF|name=[[Sander Berge]]|age={{birth date and age|1998|2|14|df=y}}|caps=71|goals=1|club=[[Fulham F.C.|Fulham]]|clubnat=ENG}}
+{{nat fs g player|no=10|pos=MF|name=[[Martin Ødegaard]]|other=[[Captain (association football)|Captain]]|age={{birth date and age|1998|12|17|df=y}}|caps=73|goals=5|club=[[Arsenal F.C.|Arsenal]]|clubnat=ENG}}
+{{nat fs g player|no=14|pos=MF|name=[[Fredrik Aursnes]]|age={{birth date and age|1995|12|10|df=y}}|caps=28|goals=1|club=[[S.L. Benfica|Benfica]]|clubnat=POR}}
+{{nat fs g player|no=18|pos=MF|name=[[Kristian Thorstvedt]]|age={{birth date and age|1999|3|13|df=y}}|caps=39|goals=4|club=[[US Sassuolo Calcio|Sassuolo]]|clubnat=ITA}}
+{{nat fs g player|no=19|pos=MF|name=[[Thelo Aasgaard]]|age={{birth date and age|2002|5|2|df=yes}}|caps=9|goals=6|club=[[Rangers F.C.|Rangers]]|clubnat=SCO}}
+{{nat fs break}}
+{{nat fs g player|no=7|pos=FW|name=[[Alexander Sørloth]]|age={{birth date and age|1995|12|5|df=y}}|caps=77|goals=26|club=[[Atlético Madrid]]|clubnat=ESP}}
+{{nat fs g player|no=9|pos=FW|name=[[Erling Haaland]]|age={{birth date and age|2000|7|21|df=y}}|caps=55|goals=[[List of international goals scored by Erling Haaland|62]]|club=[[Manchester City F.C.|Manchester City]]|clubnat=ENG|other=[[Captain (association football)#Vice'''-'''Captain|Vice'''-'''Captain]]}}
+{{nat fs g player|no=11|pos=FW|name=[[Jørgen Strand Larsen]]|age={{birth date and age|2000|2|6|df=y}}|caps=30|goals=6|club=[[Crystal Palace F.C.|Crystal Palace]]|clubnat=ENG}}
+{{nat fs g player|no=20|pos=FW|name=[[Antonio Nusa]]|age={{birth date and age|2005|4|17|df=y}}|caps=30|goals=9|club=[[RB Leipzig]]|clubnat=GER}}
+{{nat fs g player|no=21|pos=FW|name=[[Andreas Schjelderup]]|age={{birth date and age|2004|6|1|df=y}}|caps=18|goals=2|club=[[S.L. Benfica|Benfica]]|clubnat=POR}}
+{{nat fs g player|no=22|pos=FW|name=[[Oscar Bobb]]|age={{birth date and age|2003|7|12|df=y}}|caps=26|goals=2|club=[[Fulham F.C.|Fulham]]|clubnat=ENG}}
+{{nat fs g player|no=23|pos=FW|name=[[Jens Petter Hauge]]|age={{birth date and age|1999|10|12|df=y}}|caps=16|goals=1|club=[[FK Bodø/Glimt|Bodø/Glimt]]|clubnat=NOR}}
+{{nat fs end}}
+
+===Recent call-ups===
+The following players have also been called up for the Norway squad within the last twelve months.
+<!--Sorted by position, most recent call-up, caps, goals and last name.-->
+{{nat fs r start}}
+{{nat fs r player|no=|pos=GK|name=[[Viljar Myhra]]|age={{birth date and age|1996|07|21|df=y}}|caps=0|goals=0|club=[[Odense Boldklub|OB]]|clubnat=DEN|latest=v. {{fb|SUI}}, 21 March 2026}}
+{{nat fs r player|no=|pos=GK|name=[[Mathias Dyngeland]]|age={{birth date and age|1995|10|07|df=y}}|caps=1|goals=0|club=[[SK Brann|Brann]]|clubnat=NOR|latest=v. {{fb|ITA}}, 16 November 2025}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=DF|name=[[Odin Bjørtuft]]|age={{birth date and age|1998|12|19|df=y}}|caps=1|goals=0|club=[[FK Bodø/Glimt|Bodø/Glimt]]|clubnat=NOR|latest=v. {{fb|SUI}}, 21 March 2026}}
+{{nat fs r player|no=|pos=DF|name=[[Andreas Hanche-Olsen]]|age={{birth date and age|1997|1|17|df=y}}|caps=22|goals=0|club=[[1. FSV Mainz 05|Mainz 05]]|clubnat=GER|latest=v. {{fb|NZL}}, 14 October 2025}}
+{{nat fs r player|no=|pos=DF|name=[[Eivind Helland]]|age={{birth date and age|2005|4|25|df=y}}|caps=1|goals=0|club=[[Bologna FC 1909|Bologna]]|clubnat=ITA|latest=v. {{fb|NZL}}, 14 October 2025}}
+{{nat fs r player|no=|pos=DF|name=[[Sebastian Sebulonsen]]|age={{birth date and age|2000|1|27|df=y}}|caps=1|goals=0|club=[[1. FC Köln]]|clubnat=GER|latest=v. {{fb|NZL}}, 14 October 2025}}
+{{nat fs r player|no=|pos=DF|name=[[Tobias Guddal]]|age={{birth date and age|2002|7|25|df=y}}|caps=0|goals=0|club=[[Tromsø IL|Tromsø]]|clubnat=NOR|latest=v. {{fb|MDA}}, 9 September 2025}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=MF|name=[[Felix Horn Myhre]]|age={{birth date and age|1999|3|4|df=y}}|caps=7|goals=2|club=[[SK Brann|Brann]]|clubnat=NOR|latest=v. {{fb|SUI}}, 21 March 2026}}
+{{nat fs r player|no=|pos=MF|name=[[Aron Dønnum]]|age={{birth date and age|1998|4|20|df=y}}|caps=18|goals=2|club=[[Toulouse FC|Toulouse]]|clubnat=FRA|latest=v. {{fb|ITA}}, 16 November 2025}}
+{{nat fs r player|no=|pos=MF|name=[[Kristian Arnstad]]|age={{birth date and age|2003|09|07|df=yes}}|caps=1|goals=0|club=[[Aarhus Gymnastikforening|AGF]]|clubnat=DEN|latest=v. {{fb|ITA}}, 16 November 2025}}
+{{nat fs r player|no=|pos=MF|name=[[Sverre Nypan]]|age={{birth date and age|2006|12|19|df=yes}}|caps=1|goals=0|club=[[Manchester City F.C.|Manchester City]]|clubnat=ENG|latest=v. {{fb|NZL}}, 14 October 2025}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=FW|name=[[Aune Heggebø]]|age={{birth date and age|2001|7|29|df=y}}|caps=2|goals=0|club=[[West Bromwich Albion F.C.|West Bromwich Albion]]|clubnat=ENG|latest=v. {{fb|NZL}}, 14 October 2025}}
+{{nat fs break}}
+<sup>INJ</sup> Withdrew due to injury<br/>
+<sup>PRE</sup> Preliminary squad / standby<br/>
+<sup>RET</sup> Retired from the national team<br/>
+<sup>SUS</sup> Serving suspension<br/>
+<sup>QUA</sup> Placed in mandatory quarantine <br/>
+<sup>WD</sup> Withdrew due to non-injury issue. <br/>
+<sup>EX</sup> Player expelled from the squad due to non-injury issue.
+{{nat fs end}}
+
+==Player records==
+{{Main|List of Norway international footballers}}
+
+{{updated|11 July 2026.}}<ref>{{cite web |last1=Aarhus |first1=Lars |title=Most national team games (1908–2020) |url=http://www.rsssf.no/stats/MostNationalGames.html |website=RSSSF Norway |access-date=1 June 2014 |archive-date=19 August 2014 |archive-url=https://web.archive.org/web/20140819103349/http://www.rsssf.no/stats/MostNationalGames.html |url-status=live }}</ref>
+:''Players in '''bold''' are still active with Norway.''
+
+===Most appearances===
+[[File:John Arne Riise - 53492829703.jpg|200px|thumb|right|John Arne Riise is Norway's most capped player with 110 appearances.]]
+{| class="wikitable sortable" style="text-align:center;"
+|-
+!width="30"|Rank
+!style="width:150px;"|Player
+!width="50"|Caps
+!width="50"|Goals
+!style="width:100px;"|Career
+|-
+|1
+|align=left|[[John Arne Riise]]
+|'''110'''
+| 16
+|2000–2013
+|-
+|2
+|align=left|[[Thorbjørn Svenssen]]
+|'''104'''
+| 0
+|1947–1962
+|-
+|3
+|align=left|[[Henning Berg]]
+|'''100'''
+| 9
+|1992–2004
+|-
+|4
+|align=left|[[Erik Thorstvedt]]
+|'''97'''
+|0
+|1982–1996
+|-
+|rowspan=2|5
+|align=left|[[John Carew]]
+|'''91'''
+|24
+|1998–2011
+|-
+|align=left|[[Brede Hangeland]]
+|'''91'''
+|4
+|2002–2014
+|-
+|7
+|align=left|[[Øyvind Leonhardsen]]
+|'''86'''
+|19
+|1990–2003
+|-
+|rowspan=2|8
+|align=left|[[Morten Gamst Pedersen]]
+|'''83'''
+|17
+|2004–2014
+|-
+|align=left|[[Kjetil Rekdal]]
+|'''83'''
+|17
+|1987–2000
+|-
+|10
+|align=left|[[Steffen Iversen]]
+|'''79'''
+|21
+|1998–2011
+|}
+
+===Top goalscorers===
+[[File:Erling Haaland France v Norway 26 June 26-008.jpg|200px|thumb|right|Erling Haaland is Norway's all-time top goalscorer with 62 goals.]]
+{| class="wikitable sortable" style="text-align:center;"
+|-
+!width="30"|Rank
+!style="width:150px;"|Player
+!width="50"|Goals
+!width="50"|Caps
+!width="50"|Average
+!style="width:100px;"|Career
+|-
+|1
+|align=left|'''[[Erling Haaland]]''' ([[List of international goals scored by Erling Haaland|list]])
+|'''62'''
+|55
+|{{#expr:62/55 round 2}}
+|2019–present
+|-
+|2
+|align=left|[[Jørgen Juve]]
+|'''33'''
+|45
+|{{#expr:33/45 round 2}}
+|1928–1937
+|-
+|rowspan=2|3
+|align=left|[[Einar Gundersen]]
+|'''26'''
+|33
+|{{#expr:26/33 round 2}}
+|1917–1928
+|-
+|align=left|'''[[Alexander Sørloth]]'''
+|'''26'''
+|77
+|{{#expr:26/77 round 2}}
+|2016–present
+|-
+|5
+|align=left|[[Harald Hennum]]
+|'''25'''
+|43
+|{{#expr:25/43 round 2}}
+|1949–1960
+|-
+|6
+|align=left|[[John Carew]]
+|'''24'''
+|91
+|{{#expr:24/91 round 2}}
+|1998–2011
+|-
+|rowspan=2|7
+|align=left|[[Ole Gunnar Solskjær]]
+|'''23'''
+|67
+|{{#expr:23/67 round 2}}
+|1995–2007
+|-
+|align=left|[[Tore André Flo]]
+|'''23'''
+|76
+|{{#expr:23/76 round 2}}
+|1995–2004
+|-
+|9
+|align=left|[[Gunnar Thoresen (footballer)|Gunnar Thoresen]]
+|'''22'''
+|64
+|{{#expr:22/64 round 2}}
+|1946–1959
+|-
+|10
+|align=left|[[Steffen Iversen]]
+|'''21'''
+|79
+|{{#expr:21/79 round 2}}
+|1998–2011
+|-
+|}
+
+==Competitive record==
+===FIFA World Cup===
+{{Main|Norway at the FIFA World Cup}}
+
+{| class="wikitable" style="text-align: center;"
+!colspan=10|[[FIFA World Cup]] record
+!width=1% rowspan=28|
+!colspan=9|[[FIFA World Cup qualification|Qualification]] record
+|-
+!Year
+!Result
+!{{Tooltip|Pos.|Position}}
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!Squad
+!{{Tooltip|Pos.|Position in qualification group stage}}
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+|-
+|{{flagicon|Uruguay}} [[1930 FIFA World Cup|1930]]
+|colspan=9 rowspan=2|''Did not enter''
+|colspan=7 rowspan=2|''Did not enter''
+|-
+|{{flagicon|Kingdom of Italy}} [[1934 FIFA World Cup|1934]]
+|-
+|{{flagicon|French Fourth Republic}} [[1938 FIFA World Cup|1938]]
+|Round of 16
+|12th
+|1
+|0
+|0
+|1
+|1
+|2
+|[[1938 FIFA World Cup squads#Norway|Squad]]
+|[[1938 FIFA World Cup qualification Group 2a|1st]]
+|2
+|1
+|1
+|0
+|6
+|5
+|-
+|{{flagicon|Fourth Brazilian Republic|1889}} [[1950 FIFA World Cup|1950]]
+|colspan=9|''Did not enter''
+|colspan=7|''Did not enter''
+|-
+|{{flagicon|Switzerland}} [[1954 FIFA World Cup|1954]]
+|colspan=9 rowspan=10|''Did not qualify''
+|[[1954 FIFA World Cup qualification Group 1|3rd]]
+|4
+|0
+|2
+|2
+|4
+|9
+|-
+|{{flagicon|Sweden}} [[1958 FIFA World Cup|1958]]
+|[[1958 FIFA World Cup qualification – UEFA Group 3|3rd]]
+|4
+|1
+|0
+|3
+|3
+|15
+|-
+|{{flagicon|Chile}} [[1962 FIFA World Cup|1962]]
+|[[1962 FIFA World Cup qualification – UEFA Group 5|3rd]]
+|4
+|0
+|0
+|4
+|3
+|11
+|-
+|{{flagicon|England}} [[1966 FIFA World Cup|1966]]
+|[[1966 FIFA World Cup qualification – UEFA Group 3|2nd]]
+|6
+|3
+|1
+|2
+|10
+|5
+|-
+|{{flagicon|Mexico}} [[1970 FIFA World Cup|1970]]
+|[[1970 FIFA World Cup qualification – UEFA Group 5|3rd]]
+|4
+|1
+|0
+|3
+|4
+|13
+|-
+|{{flagicon|West Germany}} [[1974 FIFA World Cup|1974]]
+|[[1974 FIFA World Cup qualification – UEFA Group 3|3rd]]
+|6
+|2
+|0
+|4
+|9
+|16
+|-
+|{{flagicon|Argentina}} [[1978 FIFA World Cup|1978]]
+|[[1978 FIFA World Cup qualification – UEFA Group 6|2nd]]
+|4
+|2
+|0
+|2
+|3
+|4
+|-
+|{{flagicon|Spain}} [[1982 FIFA World Cup|1982]]
+|[[1982 FIFA World Cup qualification – UEFA Group 4|5th]]
+|8
+|2
+|2
+|4
+|8
+|15
+|-
+|{{flagicon|Mexico}} [[1986 FIFA World Cup|1986]]
+|[[1986 FIFA World Cup qualification – UEFA Group 6|5th]]
+|8
+|1
+|3
+|4
+|4
+|10
+|-
+|{{flagicon|Italy}} [[1990 FIFA World Cup|1990]]
+|[[1990 FIFA World Cup qualification – UEFA Group 5|4th]]
+|8
+|2
+|2
+|4
+|10
+|9
+|-
+|{{flagicon|United States}} [[1994 FIFA World Cup|1994]]
+|Group stage
+|17th
+|3
+|1
+|1
+|1
+|1
+|1
+|[[1994 FIFA World Cup squads#Norway|Squad]]
+|[[1994 FIFA World Cup qualification – UEFA Group 2|1st]]
+|10
+|7
+|2
+|1
+|25
+|5
+|-
+|{{flagicon|France|1974}} [[1998 FIFA World Cup|1998]]
+|Round of 16
+|15th
+|4
+|1
+|2
+|1
+|5
+|5
+|[[1998 FIFA World Cup squads#Norway|Squad]]
+|[[1998 FIFA World Cup qualification – UEFA Group 3|1st]]
+|8
+|6
+|2
+|0
+|21
+|2
+|-
+|{{flagicon|South Korea|1997}} {{flagicon|Japan}} [[2002 FIFA World Cup|2002]]
+|colspan=9 rowspan=6|''Did not qualify''
+|[[2002 FIFA World Cup qualification – UEFA Group 5|4th]]
+|10
+|2
+|4
+|4
+|12
+|14
+|-
+|{{flagicon|Germany}} [[2006 FIFA World Cup|2006]]
+|[[2006 FIFA World Cup qualification – UEFA Group 5|2nd]] ([[2006 FIFA World Cup qualification – UEFA second round|P/O]])
+|12
+|5
+|3
+|4
+|12
+|9
+|-
+|{{flagicon|South Africa}} [[2010 FIFA World Cup|2010]]
+|[[2010 FIFA World Cup qualification – UEFA Group 9|2nd]]
+|8
+|2
+|4
+|2
+|9
+|7
+|-
+|{{flagicon|Brazil}} [[2014 FIFA World Cup|2014]]
+|[[2014 FIFA World Cup qualification – UEFA Group E|4th]]
+|10
+|3
+|3
+|4
+|10
+|13
+|-
+|{{flagicon|Russia}} [[2018 FIFA World Cup|2018]]
+|[[2018 FIFA World Cup qualification – UEFA Group C|4th]]
+|10
+|4
+|1
+|5
+|17
+|16
+|-
+|{{flagicon|Qatar}} [[2022 FIFA World Cup|2022]]
+|[[2022 FIFA World Cup qualification – UEFA Group G|3rd]]
+|10
+|5
+|3
+|2
+|15
+|8
+|-
+|{{flagicon|Canada}} {{flagicon|Mexico}} {{flagicon|United States}} [[2026 FIFA World Cup|2026]]
+|Quarter-finals 
+|5th
+|6
+|4
+|0
+|2
+|13
+|11
+|[[2026 FIFA World Cup squads#Norway|Squad]]
+|[[2026 FIFA World Cup qualification – UEFA Group I|1st]]
+|8
+|8
+|0
+|0
+|37
+|5
+|-
+|{{flagicon|Morocco}} {{flagicon|Portugal}} {{flagicon|Spain}} [[2030 FIFA World Cup|2030]]
+|colspan=9 rowspan=2|''To be determined''
+|colspan=7 rowspan=2|''To be determined''
+|-
+|{{flagicon|Saudi Arabia}} [[2034 FIFA World Cup|2034]]
+|-
+!Total
+!Quarter-finals
+!4/23
+!14
+!6
+!3
+!5
+!20
+!19
+!—
+!—
+!144
+!57
+!33
+!54
+!222
+!191
+|-
+|}
+
+===UEFA European Championship===
+{{Main|Norway at the UEFA European Championship}}
+
+{| class="wikitable" style="text-align: center;"
+|-
+!colspan=10|[[UEFA European Championship]] record
+!width=1% rowspan=22|
+!colspan=9|[[UEFA European Championship qualifying|Qualifying]] record
+|-
+!Year
+!Result
+!{{Tooltip|Pos.|Position}}
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!Squad
+!{{Tooltip|Pos.|Position in qualification group stage}}
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+|-
+|{{flagicon|France}} [[1960 European Nations' Cup|1960]]
+|rowspan=10 colspan=9|''Did not qualify''
+|[[1960 European Nations' Cup round of 16|R16]]
+|2
+|0
+|0
+|2
+|2
+|6
+|-
+|{{flagicon|Francoist Spain|1945}} [[1964 European Nations' Cup|1964]]
+|[[1964 European Nations' Cup qualifying preliminary round|PR]]
+|2
+|0
+|1
+|1
+|1
+|3
+|-
+|{{flagicon|Italy}} [[UEFA Euro 1968|1968]]
+|[[UEFA Euro 1968 qualifying Group 2|4th]]
+|6
+|1
+|1
+|4
+|9
+|14
+|-
+|{{flagicon|Belgium}} [[UEFA Euro 1972|1972]]
+|[[UEFA Euro 1972 qualifying Group 2|4th]]
+|6
+|0
+|1
+|5
+|5
+|18
+|-
+|{{flagicon|Socialist Federal Republic of Yugoslavia}} [[UEFA Euro 1976|1976]]
+|[[UEFA Euro 1976 qualifying Group 3|4th]]
+|6
+|1
+|0
+|5
+|5
+|15
+|-
+|{{flagicon|Italy}} [[UEFA Euro 1980|1980]]
+|[[UEFA Euro 1980 qualifying Group 2|5th]]
+|8
+|0
+|1
+|7
+|5
+|20
+|-
+|{{flagicon|France}} [[UEFA Euro 1984|1984]]
+|[[UEFA Euro 1984 qualifying Group 4|4th]]
+|6
+|1
+|2
+|3
+|7
+|8
+|-
+|{{flagicon|West Germany}} [[UEFA Euro 1988|1988]]
+|[[UEFA Euro 1988 qualifying Group 3|5th]]
+|8
+|1
+|2
+|5
+|5
+|12
+|-
+|{{flagicon|Sweden}} [[UEFA Euro 1992|1992]]
+|[[UEFA Euro 1992 qualifying Group 3|3rd]]
+|8
+|3
+|3
+|2
+|9
+|5
+|-
+|{{flagicon|England}} [[UEFA Euro 1996|1996]]
+|[[UEFA Euro 1996 qualifying Group 5|3rd]]
+|10
+|6
+|2
+|2
+|17
+|7
+|-
+|{{flagicon|Belgium}} {{flagicon|Netherlands}} [[UEFA Euro 2000|2000]]
+|Group stage
+|9th
+|3
+|1
+|1
+|1
+|1
+|1
+|[[UEFA Euro 2000 squads#Norway|Squad]]
+|[[UEFA Euro 2000 qualifying Group 2|1st]]
+|10
+|8
+|1
+|1
+|21
+|9
+|-
+|{{flagicon|Portugal}} [[UEFA Euro 2004|2004]]
+|rowspan=6 colspan=9|''Did not qualify''
+|[[UEFA Euro 2004 qualifying Group 2|2nd]] ([[UEFA Euro 2004 qualifying play-offs|P/O]])
+|10
+|4
+|2
+|4
+|10
+|10
+|-
+|{{flagicon|Austria}} {{flagicon|Switzerland}} [[UEFA Euro 2008|2008]]
+|[[UEFA Euro 2008 qualifying Group C|3rd]]
+|12
+|7
+|2
+|3
+|27
+|11
+|-
+|{{flagicon|Poland}} {{flagicon|Ukraine}} [[UEFA Euro 2012|2012]]
+|[[UEFA Euro 2012 qualifying Group H|3rd]]
+|8
+|5
+|1
+|2
+|10
+|7
+|-
+|{{flagicon|France}} [[UEFA Euro 2016|2016]]
+|[[UEFA Euro 2016 qualifying Group H|3rd]] ([[UEFA Euro 2016 qualifying play-offs|P/O]])
+|12
+|6
+|1
+|5
+|14
+|13
+|-
+|{{flagicon|Europe}} [[UEFA Euro 2020|2020]]
+|[[UEFA Euro 2020 qualifying Group F|3rd]] ([[UEFA Euro 2020 qualifying play-offs|P/O]])
+|11
+|4
+|5
+|2
+|20
+|13
+|-
+|{{flagicon|Germany}} [[UEFA Euro 2024|2024]]
+|[[UEFA Euro 2024 qualifying Group A|3rd]]
+|8
+|3
+|2
+|3
+|14
+|12
+|-
+|{{flagicon|United Kingdom}} {{flagicon|Republic of Ireland}} [[UEFA Euro 2028|2028]]
+|rowspan=2 colspan=9|''To be determined''
+|rowspan=2 colspan=7|''To be determined''
+|-
+|{{flagicon|Italy}} {{flagicon|Turkey}} [[UEFA Euro 2032|2032]]
+|-
+!Total
+!Group stage
+!1/17
+!3
+!1
+!1
+!1
+!1
+!1
+!—
+!—
+!133
+!50
+!27
+!56
+!181
+!183
+|-
+|}
+
+===UEFA Nations League===
+{| class="wikitable" style="text-align: center;"
+!colspan=11|[[UEFA Nations League]] record
+|-
+!Season
+!Division
+!Group
+!width=28|{{Tooltip|Pld|Matches played}}
+!width=28|{{Tooltip|W|Won}}
+!width=28|{{Tooltip|D|Drawn}}
+!width=28|{{Tooltip|L|Lost}}
+!width=28|{{Tooltip|GF|Goals for}}
+!width=28|{{Tooltip|GA|Goals against}}
+!width=35|{{Tooltip|P/R|Promotion/relegation at end of season}}
+!width=28|{{Tooltip|RK|Overall rank}}
+|-
+|[[2018–19 UEFA Nations League|2018–19]]
+|[[2018–19 UEFA Nations League C|C]]
+|[[2018–19 UEFA Nations League C#Group 3|3]]
+|6||4||1||1||7||2||{{rise}}||26th
+|-
+|[[2020–21 UEFA Nations League|2020–21]]
+|[[2020–21 UEFA Nations League B|B]]
+|[[2020–21 UEFA Nations League B#Group 1|1]]
+|6||3||1||2||12||7||{{same position}}||22nd
+|-
+|[[2022–23 UEFA Nations League|2022–23]]
+|[[2022–23 UEFA Nations League B|B]]
+|[[2022–23 UEFA Nations League B#Group 4|4]]
+|6||3||1||2||7||7||{{same position}}||24th
+|-
+|[[2024–25 UEFA Nations League|2024–25]]
+|[[2024–25 UEFA Nations League B|B]]
+|[[2024–25 UEFA Nations League B#Group 3|3]]
+|6||4||1||1||15||7||{{rise}}||12th
+|-
+|[[2026–27 UEFA Nations League|2026–27]]
+|[[2026–27 UEFA Nations League A|A]]
+|colspan=11|''To be determined''
+|-
+!colspan=3|Total
+!style="background:#;"|24
+!style="background:#;"|14
+!style="background:#;"|4
+!style="background:#;"|6
+!style="background:#;"|41
+!style="background:#;"|23
+!style="background:#;" colspan=2|18th
+|}
+
+===Olympic Games===
+{| class="wikitable" style="text-align: center;"
+!colspan=10|[[Football at the Summer Olympics|Olympic Games]] record
+|-
+!Year
+!Result
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!Squad
+|-
+|{{flagicon|United Kingdom}} [[Football at the 1908 Summer Olympics|1908]]||colspan=8|''Did not enter''
+|-
+|{{flagicon|Sweden}} [[Football at the 1912 Summer Olympics|1912]]||rowspan=2|Quarter-finals||1||0||0||1||0||7||[[Football at the 1912 Summer Olympics – Men's team squads#Norway|Squad]]
+|-
+|{{flagicon|Belgium}} [[Football at the 1920 Summer Olympics|1920]]||2||1||0||1|| 3||5||[[Football at the 1912 Summer Olympics – Men's team squads#Norway|Squad]]
+|-
+|{{flagicon|France|1794}} [[Football at the 1924 Summer Olympics|1924]]||colspan=8 rowspan=2|''Did not enter''
+|-
+|{{flagicon|Netherlands}} [[Football at the 1928 Summer Olympics|1928]]
+|-
+|- style="background:#c96"
+|{{flagicon|Nazi Germany}} [[Football at the 1936 Summer Olympics|1936]]||'''Bronze medal''' ||'''4'''||'''3'''||'''0'''||'''1'''||'''10'''||'''4'''||'''[[Football at the 1936 Summer Olympics – Men's team squads#Norway|Squad]]'''
+|-
+|{{flagicon|United Kingdom}} [[Football at the 1948 Summer Olympics|1948]]||colspan=8|''Did not enter''
+|-
+|{{flagicon|Finland}} [[Football at the 1952 Summer Olympics|1952]]||Round of 16||1||0||0||1||1||4||[[Football at the 1952 Summer Olympics – Men's team squads#Norway|Squad]]
+|-
+|{{flagicon|Australia}} [[Association football at the 1956 Summer Olympics|1956]]||colspan=8|''Did not enter''
+|-
+|{{flagicon|Italy}} [[Football at the 1960 Summer Olympics|1960]]||colspan=8|''Did not qualify''
+|-
+|{{flagicon|Japan|1947}} [[Football at the 1964 Summer Olympics|1964]]||colspan=8 rowspan=4|''Did not enter''
+|-
+|{{flagicon|Mexico}} [[Football at the 1968 Summer Olympics|1968]]
+|-
+|{{flagicon|West Germany}} [[Football at the 1972 Summer Olympics|1972]]
+|-
+|{{flagicon|Canada}} [[Football at the 1976 Summer Olympics|1976]]
+|-
+|{{flagicon|Soviet Union|1955}} [[Football at the 1980 Summer Olympics|1980]]||colspan=8|''Did not qualify''
+|-
+|{{flagicon|United States}} [[Football at the 1984 Summer Olympics|1984]]||Group stage||3||1||1||1||3||2||[[Football at the 1984 Summer Olympics – Men's team squads#Norway|Squad]]
+|-
+|{{flagicon|South Korea|1984}} [[Football at the 1988 Summer Olympics|1988]]||colspan=8|''Did not qualify''
+|-
+|Since [[Football at the 1992 Summer Olympics|1992]]||colspan=8|''Olympic football has been an under-23 tournament''
+|-
+!Total!!Bronze medal!!11!!5!!1!!5!!17!!22!!—
+|}
+
+==All-time team record==
+The following table shows Norway's all-time international record, correct as of 11 July 2026.<ref>{{cite web|url=http://eu-football.info/_team.php?id=149|title=Norway national football team|website=eu-football.info|access-date=6 June 2012|archive-date=23 May 2012|archive-url=https://web.archive.org/web/20120523183713/http://eu-football.info/_team.php?id=149|url-status=live}}</ref>
+
+;Key
+{{legend|#bbf3bb|More wins than losses|border=1px solid #AAA}}
+{{legend|#ffffbb|As many wins as losses|border=1px solid #AAA}}
+{{legend|#ffbbbb|Fewer wins than losses|border=1px solid #AAA}}
+{| class="wikitable sortable" style="text-align: center;"
+!colspan="9"|Norway's all-time international record, since 1908
+|-
+! Opponents
+! Played
+! Won
+! Drawn*
+! Lost
+! GF
+! GA
+! GD
+! % Won
+|- bgcolor="#bbf3bb"
+| align="left" | {{fb|ALB}} || 5 || 2 || 2 || 1 || 6 || 5 || +1 || 50%
+|- bgcolor="#bbf3bb"
+| align="left" | {{fb|ARG}} || 2 || 2 || 0 || 0 || 3 || 1 || +2 || 100%
+|- bgcolor="#bbf3bb"
+| align="left" | {{fb|ARM}} || 3 || 2 || 1 || 0 || 13 || 1 || +12 || 50%
+|- bgcolor="#ffffbb"
+| align="left" | {{fb|AUS}} || 3 || 1 || 1 || 1 || 6 || 4 || +2 || 50%
+|- bgcolor="#ffbbbb"
+| align="left" | {{fb|AUT}} || 14 || 3 || 2 || 9 || 13 || 30 || −17 || 21.42%
+|- bgcolor="#bbf3bb"
+| align="left" | {{fb|AZE}} || 6 || 4 || 1 || 1 || 9 || 1 || +8 || 57%
+|- bgcolor="#bbf3bb"
+| align="left" | {{fb|BHR}} || 1 || 1 || 0 || 0 || 1 || 0 || +1 || 100%
+|- bgcolor="#bbf3bb"
+| align="left" | {{fb|BLR}} || 7 || 3 || 2 || 2 || 9 || 5 || +4 || 43%
+|- bgcolor="#ffbbbb"
+| align="left" | {{fb|BEL}} || 9 || 0 || 3 || 6 || 8 || 17 || −9 || 0%
+|- bgcolor="#bbf3bb"
+| align="left" | {{fb|BER}} || 2 || 2 || 0 || 0 || 6 || 1 || +5 || 100%
+|- bgcolor="#ffffbb"
+| align="left" | {{fb|BIH}} || 4 || 2 || 0 || 2 || 5 || 3 || +2 || 50%
+|- bgcolor="#bbf3bb"
+| align="left" | {{fb|BRA}} || 5 || 3 || 2 || 0 || 10 || 6 || +4 || 60%
+|- bgcolor="#ffbbbb"
+| align="left" | {{fb|BUL}} || 18 || 5 || 5 || 8 || 16 || 31 || −15 || 28%
+|- bgcolor="#bbf3bb"
+| align="left" | {{fb|CMR}} || 1 || 1 || 0 || 0 || 6 || 1 || +5 || 100%
+|- bgcolor="#ffffbb"
+| align="left" | {{fb|CHI}} || 1 || 0 || 1 || 0 || 0 || 0 || 0 || 0%
+|- bgcolor="#ffbbbb"
+| align="left" | {{fb|CHN}} || 1 || 0 || 0 || 1 || 1 || 2 || -1 || 0%
+|- bgcolor="#ffffbb"
+| align="left" | {{fb|COL}} || 1 || 0 || 1 || 0 || 0 || 0 || 0 || 0%
+|- bgcolor="#bbf3bb"
+| align="left" | {{fb|CRC}} || 2 || 1 || 1 || 0 || 1 || 0 || +1 || 50%
+|- bgcolor="#ffbbbb"
+| align="left" | {{fb|CRO}} || 5 || 1 || 1 || 3 || 6 || 10 || −4 || 20%
+|- bgcolor="#bbf3bb"
+| align="left" | {{fb|CYP}} || 13 || 13 || 0 || 0 || 35 || 5 || +30 || 100%
+|- bgcolor="#ffbbbb"
+| align="left" | {{fb|TCH}} || 5 || 0 || 1 || 4 || 5 || 13 || −8 || 0%
+|- bgcolor="#ffbbbb"
+| align="left" | {{fb|CZE}} || 9 || 1 || 3 || 5 || 9 || 12 || −3 || 11%
+|- bgcolor="#ffbbbb"
+| align="left" | {{fb|DEN}} || 91 || 21 || 15 || 55 || 108 || 232 || −123 || 23%
+|- bgcolor="#ffbbbb"
+| align="left" | {{fb|GDR}} || 9 || 1 || 2 || 6 || 8 || 15 || −7 || 11%
+|- bgcolor="#bbf3bb"
+| align="left" | {{fb|EGY}} || 6 || 3 || 3 || 0 || 7 || 2 || +5 || 50%
+|- bgcolor="#ffbbbb"
+| align="left" | {{fb|ENG}} || 15 || 2 || 4 || 9 || 15 || 35 || −20 || 13%
+|- bgcolor="#bbf3bb"
+| align="left" | {{fb|EST}} || 9 || 6 || 2 || 1 || 21 || 6 || +15 || 66.67%
+|- bgcolor="#bbf3bb"
+| align="left" | {{fb|FRO}} || 5 || 5 || 0 || 0 || 17 || 0 || +17 || 100%
+|- bgcolor="#bbf3bb"
+| align="left" | {{fb|FIN}} || 68 || 42 || 17 || 9 || 183 || 82 || +101 || 61.76%
+|- bgcolor="#ffbbbb"
+| align="left" | {{fb|FRA}} || 17 || 4 || 4 || 9 || 17 || 28 || −11 || 23.52%
+|- bgcolor="#bbf3bb"
+| align="left" | {{fb|GEO}} || 5 || 4 || 1 || 0 || 9 || 3 || +6 || 80%
+|- bgcolor="#ffbbbb"
+| align="left" | {{fb|GER}} || 15 || 2 || 4 || 9 || 11 || 34 || −23 || 13%
+|- bgcolor="#bbf3bb"
+| align="left" | {{fb|GHA}} || 1 || 1 || 0 || 0 || 3 || 2 || +1 || 100%
+|- bgcolor="#bbf3bb"
+| align="left" | {{fb|GIB}} || 2 || 2 || 0 || 0 || 8 || 1 || +7 || 100%
+|- bgcolor="#ffbbbb"
+| align="left" | {{fb|GRE}} || 9 || 2 || 2 || 5 || 10 || 13 || −3 || 28%
+|- bgcolor="#bbf3bb"
+| align="left" | {{fb|GRN}} || 1 || 1 || 0 || 0 || 2 || 1 || +1 || 100%
+|- bgcolor="#bbf3bb"
+| align="left" | {{fb|GUA}} || 1 || 1 || 0 || 0 || 3 || 1 || +2 || 100%
+|- bgcolor="#bbf3bb"
+| align="left" | {{fb|HON}} || 1 || 1 || 0 || 0 || 3 || 1 || +2 || 100%
+|- bgcolor="#ffbbbb"
+| align="left" | {{fb|HUN}} || 21 || 7 || 6 || 8 || 26 || 36 || −9 || 33%
+|- bgcolor="#bbf3bb"
+| align="left" | {{fb|ISL}} || 34 || 20 || 6 || 8 || 64 || 35 || +29 || 59%
+|- bgcolor="#bbf3bb"
+| align="left" | {{fb|IRQ}} || 1 || 1 || 0 || 0 || 4 || 1 || +3 || 100%
+|- bgcolor="#bbf3bb"
+| align="left" | {{fb|ISR}} || 5 || 4 || 0 || 1 || 16 || 4 || +12 || 80%
+|- bgcolor="#ffbbbb"
+| align="left" | {{fb|ITA}} || 20 || 6 || 4 || 10 || 24 || 24 || 0 || 30%
+|-bgcolor="#bbf3bb"
+| align="left" | {{fb|CIV}} || 1 || 1 || 0 || 0 || 2 || 1 || +1 || 100%
+|-bgcolor="#bbf3bb"
+| align="left" | {{fb|JAM}} || 2 || 1 || 1 || 0 || 7 || 1 || +6 || 50%
+|- bgcolor="#bbf3bb"
+| align="left" | {{fb|JPN}} || 1 || 1 || 0 || 0 || 3 || 0 || +3 || 100%
+|- bgcolor="#bbf3bb"
+| align="left" | {{fb|JOR}} || 2 || 1 || 1 || 0 || 6 || 0 || +6 || 50%
+|- bgcolor="#bbf3bb"
+| align="left" | {{fb|KAZ}} || 2 || 1 || 1 || 0 || 5 || 0 || +5 || 50%
+|- bgcolor="#bbf3bb"
+| align="left" | {{fb|KOS}} || 1 || 1 || 0 || 0 || 3 || 0 || +3 || 100%
+|- bgcolor="#ffbbbb"
+| align="left" | {{fb|KUW}} || 3 || 0 || 2 || 1 || 3 || 4 || −1 || 0%
+|- bgcolor="#bbf3bb"
+| align="left" | {{fb|LAT}} || 4 || 2 || 1 || 1 || 5 || 4 || −1 || 50%
+|- bgcolor="#bbf3bb"
+| align="left" | {{fb|LTU}} || 2 || 2 || 0 || 0 || 2 || 0 || +2 || 100%
+|- bgcolor="#bbf3bb"
+| align="left" | {{fb|LUX}} || 12 || 9 || 1 || 2 || 25 || 9 || +15 || 73%
+|- bgcolor="#bbf3bb"
+| align="left" |{{fb|MLT}}|| 12 || 10 || 2 || 0 || 30 || 4 || +26 || 83%
+|- bgcolor="#ffbbbb"
+| align="left" |{{fb|MEX}}|| 6 || 2 || 1 || 3 || 8 || 11 || −3 || 33%
+|- bgcolor="#bbf3bb"
+| align="left" |{{fb|MDA}}|| 7 || 6 || 1 || 0 || 22 || 2 || +20 || 85.71%
+|- bgcolor="#bbf3bb"
+| align="left" |{{fb|MNE}}|| 4 || 3 || 0 || 1 || 6 || 4 || +2 || 66%
+|- bgcolor="#ffffbb"
+| align="left" |{{fb|MAR}}|| 2 || 0 || 2 || 0 || 3 || 3 || 0 || 0%
+|- bgcolor="#ffbbbb"
+| align="left" |{{fb|NED}}|| 22 || 5 || 6 || 11 || 28 || 48 || −20 || 22.73%
+|- bgcolor="#bbf3bb"
+| align="left" |{{fb|NZL}}|| 2 || 1 || 1 || 0 || 4 || 1 || +3 || 50%
+|- bgcolor="#ffffbb"
+| align="left" |{{fb|NGR}}|| 1 || 0 || 1 || 0 || 2 || 2 || 0 || 0%
+|- bgcolor="#bbf3bb"
+| align="left" |{{fb|PRK}}|| 1 || 1 || 0 || 0 || 3 || 0 || +3 || 100%
+|- bgcolor="#bbf3bb"
+| align="left" | {{fb|MKD}} || 4 || 2 || 1 || 1 || 4 || 3 || +1 || 50%
+|- bgcolor="#bbf3bb"
+| align="left" | {{fb|NIR}} || 11 || 9 || 0 || 2 || 25 || 10 || +15 || 82%
+|- bgcolor="#bbf3bb"
+| align="left" | {{fb|OMA}} || 1 || 1 || 0 || 0 || 2 || 1 || +1 || 100%
+|- bgcolor="#bbf3bb"
+| align="left" | {{fb|PAN}} || 1 || 1 || 0 || 0 || 1 || 0 || +1 || 100%
+|- bgcolor="#ffffbb"
+| align="left" | {{fb|PAR}} || 1 || 0 || 1 || 0 || 2 || 2 || 0 || 0%
+|- bgcolor="#ffbbbb"
+| align="left" | {{fb|POL}} || 21 || 4 || 3 || 14 || 26 || 60 || −34 || 18%
+|- bgcolor="#ffbbbb"
+| align="left" | {{fb|POR}} || 11 || 1 || 2 || 8 || 5 || 18 || −13 || 9%
+|- bgcolor="#bbf3bb"
+| align="left" | {{fb|QAT}} || 2 || 2 || 0 || 0 || 8 || 1 || +7 || 100%
+|- bgcolor="#ffbbbb"
+| align="left" | {{fb|IRL}} || 21 || 5 || 9 || 7 || 23 || 31 || −8 || 24%
+|- bgcolor="#ffbbbb"
+| align="left" | {{fb|ROM}} || 14 || 3 || 7 || 4 || 14 || 14 || 0 || 21%
+|- bgcolor="#ffbbbb"
+| align="left" | {{fb|RUS}} || 16 || 1 || 5 || 10 || 10 || 31 || −21 || 16%
+|- bgcolor="#ffbbbb"
+| align="left" | {{fb|SAA}} || 2 || 0 || 1 || 1 || 2 || 3 || −1 || 0%
+|- bgcolor="#bbf3bb"
+| align="left" | {{fb|SMR}} || 4 || 4 || 0 || 0 || 24 || 1 || +23 || 100%
+|- bgcolor="#bbf3bb"
+| align="left" | {{fb|SAU}} || 1 || 1 || 0 || 0 || 6 || 0 || +6 || 100%
+|- bgcolor="#ffbbbb"
+| align="left" | {{fb|SCO}} || 19 || 3 || 7 || 9 || 22 || 32 || −10 || 16%
+|- bgcolor="#ffffbb"
+| align="left" | {{fb|SEN}} || 2 || 1 || 0 || 1 || 4 || 4 || 0 || 50.00%
+|- bgcolor="#ffbbbb"
+| align="left" | {{fb|SER}} || 4 || 1 || 1 || 2 || 3 || 5 || −2 || 25%
+|- bgcolor="#bbf3bb"
+| align="left" | {{fb|SCG}} || 1 || 1 || 0 || 0 || 1 || 0 || +1 || 100%
+|- bgcolor="#bbf3bb"
+| align="left" | {{fb|SIN}} || 1 || 1 || 0 || 0 || 5 || 2 || +3 || 100%
+|- bgcolor="#bbf3bb"
+| align="left" | {{fb|SVK}} || 4 || 3 || 1 || 0 || 6 || 1 || +5 || 75%
+|- bgcolor="#bbf3bb"
+| align="left" | {{fb|SVN}} || 13 || 8 || 3 || 2 || 24 || 11 || +13 || 61.53%
+|- bgcolor="#bbf3bb"
+| align="left" | {{fb|RSA}} || 3 || 2 || 0 || 1 || 3 || 2 || +1 || 67%
+|- bgcolor="#ffffbb"
+| align="left" | {{fb|KOR}} || 5 || 2 || 1 || 2 || 8 || 6 || +2 || 40%
+|- bgcolor="#ffbbbb"
+| align="left" | {{fb|ESP}} || 10 || 1 || 2 || 7 || 4 || 16 || −12 || 10%
+|- bgcolor="#ffbbbb"
+| align="left" | {{fb|SWE}} || 112|| 27|| 26 || 59 || 156 || 281 || −125 || 24.10%
+|- bgcolor="#bbf3bb"
+| align="left" | {{fb|SUI}} || 22 || 8 || 7 || 7 || 26 || 21 || +5 || 36.36%
+|- bgcolor="#bbf3bb"
+| align="left" | {{fb|THA}} || 2 || 2 || 0 || 0 || 8 || 0 || +8 || 100%
+|- bgcolor="#ffbbbb"
+| align="left" | {{fb|TTO}} || 1 || 0 || 0 || 1 || 2 || 3 || −1 || 0%
+|- bgcolor="#bbf3bb"
+| align="left" | {{fb|TUN}} || 2 || 1 || 1 || 0 || 2 || 1 || +1 || 50%
+|- bgcolor="#ffbbbb"
+| align="left" | {{fb|TUR}} || 11 || 3 || 3 || 5 || 15 || 14 || +1 || 27%
+|- bgcolor="#ffbbbb"
+| align="left" | {{fb|UKR}} || 5 || 0 || 1 || 4 || 0 || 5 || −5 || 0%
+|- bgcolor="#bbf3bb"
+| align="left" | {{fb|UAE}} || 3 || 1 || 2 || 0 || 5 || 2 || +3 || 50%
+|- bgcolor="#ffffbb"
+| align="left" | {{fb|USA}} || 5 || 2 || 1 || 2 || 14 || 8 || +6 || 40%
+|- bgcolor="#ffbbbb"
+| align="left" | {{fb|URU}} || 2 || 0 || 1 || 1 || 2 || 3 || −1 || 0%
+|- bgcolor="#ffffbb"
+| align="left" | {{fb|WAL}} || 12 || 4 || 4 || 4 || 15 || 17 || −2 || 33%
+|- bgcolor="#ffbbbb"
+| align="left" | {{fb|FRG}} || 9 || 2 || 1 || 6 || 9 || 25 || −16 || 22%
+|- bgcolor="#ffbbbb"
+| align="left" | {{fb|YUG}} || 13 || 2 || 1 || 10 || 15 || 29 || −14 || 16%
+|- bgcolor="#ffffbb"
+| align="left" | {{fb|ZAM}} || 1 || 0 || 1 || 0 || 0 || 0 || 0 || 0%
+|-
+|-class="sortbottom"
+! Total || 914 || 339 || 211 || 362 || 1395 || 1461 || −66 || 37.08%
+|}
+
+==Honours==
+===Global===
+* '''[[Football at the Summer Olympics|Olympic Games]]'''
+** {{bronze3}} Bronze medal (1): [[Football at the 1936 Summer Olympics|1936]]
+
+===Regional===
+* '''[[Nordic Football Championship]]'''
+** {{gold1}} '''Champions (1):''' [[1929–32 Nordic Football Championship|1929–32]]
+** {{silver2}} Runners-up (2): [[1952–55 Nordic Football Championship|1952–55]], [[1956–59 Nordic Football Championship|1956–59]]
+** {{bronze3}} Third place (9): [[1924–28 Nordic Football Championship|1924–28]], [[1933–36 Nordic Football Championship|1933–36]], [[1937–47 Nordic Football Championship|1937–47]], [[1948–51 Nordic Football Championship|1948–51]], [[1960–63 Nordic Football Championship|1960–63]], [[1968–71 Nordic Football Championship|1968–71]], [[1972–77 Nordic Football Championship|1972–77]], [[1978–80 Nordic Football Championship|1978–80]], [[1981–85 Nordic Football Championship|1981–85]]
+
+===Friendly===
+* '''[[Malta International Football Tournament]]'''
+** {{gold1}} '''Champions (1):''' 1990
+
+* '''[[Lunar New Year Cup]]'''
+** {{gold1}} '''Champions (2):''' 2001, 2004
+
+===Summary===
+{| class="wikitable" width=30% style="font-size:90%; text-align:center;"
+|-
+!Competition!!{{gold1}}!!{{silver2}}!!{{bronze3}}!!Total
+|-
+|align="left"|[[Football at the Summer Olympics|Olympic Games]]
+|0||0||1||1
+|-
+!Total!!0!!0!!1!!1
+|}
+
+==See also==
+{{Portal|Association football|Norway}}
+* [[Football in Norway]]
+* [[Norway women's national football team]]
+* [[Norway national under-21 football team]]
+* [[Norway national under-20 football team]]
+* [[Norway national under-19 football team]]
+* [[Norway national under-17 football team]]
+* [[Sápmi football team]]
+* [[Viking Row]]
+
+==Notes==
+{{Notelist}}
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons category}}
+* [http://www.fotball.no/ Official website of The Norwegian Football Association (NFF)]
+* [https://www.fifa.com/about-fifa/associations/NOR Norway] at [[FIFA]]
+* [https://www.uefa.com/nationalassociations/nor/ Norway] at [[UEFA]]
+* [https://www.rsssf.no/stats/AlltimeNational.html RSSSF archive of results 1908–]
+* [https://www.rsssf.org/miscellaneous/noo-recintlp.html RSSSF archive of most capped players and highest goalscorers]
+* [http://www.home.no/greenriver/landslaget.html Complete list of Norwegian international players]
+
+{{Norway national football team}}
+{{Navboxes
+|title=
+|bg= #BA0C2F
+|fg= white
+|bordercolor= #00205B
+|list1=
+{{Navboxes
+|title=Norway squads
+|bg= #BA0C2F
+|fg= white
+|bordercolor= #00205B
+|list1=
+{{Norway football squad 1912 Summer Olympics}}
+{{Norway football squad 1920 Summer Olympics}}
+{{Norway football squad 1936 Summer Olympics}}
+{{Norway squad 1938 FIFA World Cup}}
+{{Norway football squad 1952 Summer Olympics}}
+{{Norway football squad 1984 Summer Olympics}}
+{{Norway squad 1994 FIFA World Cup}}
+{{Norway squad 1998 FIFA World Cup}}
+{{Norway squad UEFA Euro 2000}}
+{{Norway squad 2026 FIFA World Cup}}
+}}
+{{Navboxes||title=Finalists|list1=
+{{1938 FIFA World Cup finalists}}
+{{1994 FIFA World Cup finalists}}
+{{1998 FIFA World Cup finalists}}
+{{2026 FIFA World Cup finalists}}
+{{UEFA Euro 2000 finalists}}
+}}
+{{Football in Norway}}
+{{UEFA teams}}
+{{National sports teams of Norway}}
+}}
+{{Portal bar|Association football|Norway}}
+{{Authority control}}
+
+{{DEFAULTSORT:Norway National Football Team}}
+[[Category:Norway national football team| ]]
+[[Category:Norway men's national football teams| ]]
+[[Category:European national association football teams]]
+[[Category:1908 establishments in Norway]]
+[[Category:National sports teams established in 1908]]

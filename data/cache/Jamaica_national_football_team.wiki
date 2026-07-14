@@ -1,0 +1,2172 @@
+{{Short description|Men's association football team}}
+{{About|the men's team|the women's team|Jamaica women's national football team}}
+{{good article}}
+{{Use British English|date = November 2023}}
+{{Use dmy dates|date=November 2023}}
+{{Infobox national football team
+| Name                  = Jamaica
+| Badge                 = Jamaica FA.svg
+| Badge_size            = 215px
+| Nickname              = ''The Reggae Boyz''
+| Association           = [[Jamaica Football Federation]] (JFF)
+| Confederation         = [[CONCACAF]] (North America)
+| Sub-confederation     = [[Caribbean Football Union|CFU]] (Caribbean)
+| Coach                 = [[Rudolph Speid]]
+| Captain               = [[Andre Blake]]
+| Most caps             = [[Ian Goodison]] (128)
+| Top scorer            = [[Luton Shelton]] (35)
+| Home Stadium          = [[Independence Park (Jamaica)|Independence Park]]
+| FIFA Trigramme        = JAM
+| FIFA Rank             = {{FIFA World Rankings|JAM}}
+| FIFA max              = 27
+| FIFA max date         = August 1998
+| FIFA min              = 116
+| FIFA min date         = October 2008
+| Elo Rank              = {{World Football Elo Ratings|JAM}}
+| Elo max               = 380
+| Elo max date          = 9 February 1997
+| Elo min               = 126
+| Elo min date          = 29 April 1984
+<!-- home kit -->
+| pattern_la1           = _jam26h
+| pattern_b1            = _jam26hA
+| pattern_ra1           = _jam26h
+| pattern_sh1           = _jam26h
+| pattern_so1           = _jam26hl
+| leftarm1              = FFDD00
+| body1                 = FFDD00
+| rightarm1             = FFDD00
+| shorts1               = FFDD00
+| socks1                = FFDD00
+<!-- away kit -->
+| pattern_b2            = _jam26a
+| pattern_la2           = _jam26a
+| pattern_ra2           = _jam26a
+| pattern_sh2           = _jam26a
+| pattern_so2           = _jam26al
+| leftarm2              = 150B00
+| body2                 = 150B00
+| rightarm2             = 150B00
+| shorts2               = 150B00
+| socks2                = 000000
+| First game            = {{Fb|HAI|1859}} 1–2 {{fb-rt|JAM|1906}}<br>([[Port-au-Prince]], Haiti;<ref>{{cite web |url=https://www.rsssf.org/tablesc/carib-tour2569.html |title=Caribbean Tour Matches 1925–1969 |editor=Courtney, Barrie |date=5 November 2014 |access-date=24 November 2018 |archive-url=https://web.archive.org/web/20181023131618/http://www.rsssf.com/tablesc/carib-tour2569.html |archive-date=23 October 2018 |website=[[RSSSF]] |url-status=live }}</ref> 22 March 1925)
+| Largest win           = {{nowrap|{{fb|JAM}} 12–0 {{fb-rt|VGB}}<br>([[Grand Cayman]], Cayman Islands; 4 March 1994)<br>{{fb|JAM}} 12–0 {{fb-rt|MAF}}<br>([[Kingston, Jamaica|Kingston]], Jamaica; 24 November 2004)}}
+| Largest loss          = {{fb|CRC}} 9–0 {{fb-rt|JAM}}<br>([[San José, Costa Rica|San José]], Costa Rica; 24 February 1999)
+| World cup apps        = 1
+| World cup first       = 1998
+| World cup best        = Group stage ([[1998 FIFA World Cup|1998]])
+| Regional name         = [[CONCACAF Championship]] / [[CONCACAF Gold Cup|Gold Cup]]
+| Regional cup apps     = 16<!--as of 2025-->
+| Regional cup first    = [[1963 CONCACAF Championship|1963]]
+| Regional cup best     = Runners-up ([[2015 CONCACAF Gold Cup|2015]], [[2017 CONCACAF Gold Cup|2017]])
+| 2ndRegional name      = [[CONCACAF Nations League]]
+| 2ndRegional cup apps  = 4
+| 2ndRegional cup first = [[2019–20 CONCACAF Nations League|2019–20]]
+| 2ndRegional cup best  = Third place ([[2023–24 CONCACAF Nations League|2023–24]])
+| 3rdRegional name      = [[Copa América]]
+| 3rdRegional cup apps  = 3
+| 3rdRegional cup first = [[2015 Copa América|2015]]
+| 3rdRegional cup best  = Group stage ([[2015 Copa América|2015]], [[Copa América Centenario|2016]], [[2024 Copa América|2024]])
+| 4thRegional name  = [[Caribbean Cup]]
+| 4thRegional cup apps  = 16
+| 4thRegional cup first = [[1990 Caribbean Cup|1990]]
+| 4thRegional cup best  = '''Champions''' ([[1991 Caribbean Cup|1991]], [[1998 Caribbean Cup|1998]], [[2005 Caribbean Cup|2005]], [[2008 Caribbean Cup|2008]], [[2010 Caribbean Cup|2010]], [[2014 Caribbean Cup|2014]])
+| medaltemplates        = 
+{{MedalCompetition|[[CONCACAF Gold Cup]]}}
+{{MedalSilver|[[2015 CONCACAF Gold Cup|2015 United States and Canada]]|[[2015 CONCACAF Gold Cup squads#Jamaica|Team]]}}
+{{MedalSilver|[[2017 CONCACAF Gold Cup|2017 United States]]|[[2017 CONCACAF Gold Cup squads#Jamaica|Team]]}}
+{{MedalBronze|[[1993 CONCACAF Gold Cup|1993 Mexico and United States]]|[[1993 CONCACAF Gold Cup squads#Jamaica|Team]]}}
+{{MedalCompetition|[[CONCACAF Nations League]]}}
+{{MedalBronze|[[2023–24 CONCACAF Nations League|2024 United States]]|[[2024 CONCACAF Nations League Finals squads#Jamaica|Team]]}}
+{{MedalCompetition|[[Caribbean Cup]]}}
+{{MedalGold|[[1991 Caribbean Cup|1991 Jamaica]]|Team}}
+{{MedalGold|[[1998 Caribbean Cup|1998 Trinidad and Tobago and Jamaica]]|Team}}
+{{MedalGold|[[2005 Caribbean Cup|2005 Barbados]]|Team}}
+{{MedalGold|[[2008 Caribbean Cup|2008 Jamaica]]|Team}}
+{{MedalGold|[[2010 Caribbean Cup|2010 Martinique]]|[[2010 Caribbean Cup squads#Jamaica|Team]]}}
+{{MedalGold|[[2014 Caribbean Cup|2014 Jamaica]]|[[2014 Caribbean Cup squads#Jamaica|Team]]}}
+{{MedalSilver|[[1992 Caribbean Cup|1992 Trinidad and Tobago]]|Team}}
+{{MedalSilver|[[1993 Caribbean Cup|1993 Jamaica]]|Team}}
+{{MedalSilver|[[2017 Caribbean Cup|2017 Martinique]]|[[2017 Caribbean Cup squads#Jamaica|Team]]}}
+{{MedalBronze|[[1997 Caribbean Cup|1997 Antigua and Barbuda and Saint Kitts and Nevis]]|Team}}
+{{MedalBronze|[[1999 Caribbean Cup|1999 Trinidad and Tobago]]|Team}}
+| website = {{URL|https://jff.football/reggae-boyz/|jff.football/reggae-boyz}}
+}}
+
+The '''Jamaica national football team''' represents [[Jamaica]] in men's international [[Association football|football]], which is governed by the [[Jamaica Football Federation]] founded in 1910. It has been an affiliate member of [[FIFA]] since 1962 and an affiliate member of [[CONCACAF]] since 1963. Regionally, it is an affiliate member of [[Caribbean Football Union|CFU]] in the Caribbean Zone.
+
+Jamaica has qualified for the [[FIFA World Cup]] once ([[1998 FIFA World Cup|1998]]), achieving its first victory after defeating [[Japan national football team|Japan]] 2–1.
+
+Jamaica has participated sixteen times in CONCACAF's premier continental competition, finishing as runners-up twice in the [[CONCACAF Gold Cup]] ([[2015 CONCACAF Gold Cup|2015]] and [[2017 CONCACAF Gold Cup|2017]]). It has participated three times in League A and once in League B of the [[CONCACAF Nations League]], finishing in third place in the [[2024 CONCACAF Nations League Finals|2024 Finals]]. It has also participated three times in the [[Copa América]] ([[2015 Copa América|2015]], [[Copa América Centenario|2016]] and [[2024 Copa América|2024]]).
+
+Regionally, the team won six [[Caribbean Cup]] titles (organized by CFU).
+
+==History==
+=== Early history (1893–1962) ===
+In 1893, Jamaica's first football club, the [[Kingston Cricket Club]], was formed.<ref name="FascinationJamaica" /> In 1910, the [[Jamaica Football Federation]] (JFF) was formed and controlled all of the games. The first game was played on 22 March 1925, as the opener in a three-game series against [[Haiti national football team|Haiti]]. Jamaica won the first game, 2 to 1, followed by victories of 3–0 and 1–0 in the other two.<ref>{{cite web |url=https://www.rsssf.org/tablesc/carib-tour2569.html |title=Caribbean Tour Matches 1925-1969 |editor=Courtney, Barrie |date=5 November 2014 |website=[[RSSSF]] |access-date=24 November 2018 |archive-date=23 October 2018 |archive-url=https://web.archive.org/web/20181023131618/http://www.rsssf.com/tablesc/carib-tour2569.html |url-status=live }}</ref><ref name=FascinationJamaica>{{cite web|url=http://jamaica-gleaner.com/pages/history/story0077.html|title=A fascination with football|first=Rebecca|last=Tortello|url-status=dead|archive-url=https://web.archive.org/web/20131103162120/http://jamaica-gleaner.com/pages/history/story0077.html|archive-date=3 November 2013|work=[[The Gleaner]]|access-date=29 May 2019}}</ref> In 1926, Jamaica hosted Haiti at [[Sabina Park]] and won 6–0.<ref name="FascinationJamaica" /><ref name=JamaicaMatches>{{cite web|url=https://www.rsssf.org/tablesj/jam-intres.html|title=Jamaica – List of International Matches|date=6 March 2014|access-date=29 May 2019|first=Barrie|last=Courtney|archive-url=https://web.archive.org/web/20110117042003/http://www.rsssf.com/tablesj/jam-intres.html|archive-date=17 January 2011|website=[[RSSSF]]|url-status=live}}</ref> At the [[Football at the 1930 Central American and Caribbean Games|1930 Central American Games]] in Cuba, Jamaica made its first international tournament appearance and lost both games in its group.<ref>{{cite web|url=https://www.rsssf.org/tablesc/cag30.html|title=Central American Games 1930 (Cuba)|date=21 April 2011|access-date=29 May 2019|first=Erik|last=Garin|archive-url=https://web.archive.org/web/20131110182402/http://www.rsssf.com/tablesc/cag30.html|archive-date=10 November 2013|website=[[RSSSF]]|url-status=live}}</ref>
+
+[[File:19360113-thejamaicaxi.jpg|thumb|left|The Jamaica squad in 1936 taking on [[Trinidad and Tobago national football team|Trinidad and Tobago]]]]
+From 1925 to 1962, Jamaica had regular games with teams from [[Trinidad and Tobago national football team|Trinidad and Tobago]], Haiti, and [[Cuba national football team|Cuba]], as well as with clubs like the Haitian [[Racing CH]] and [[Violette AC]], the British [[Corinthian F.C.|Corinthians]], and the Argentinean [[Club Atlético Tigre|Tigers]].<ref name="FascinationJamaica" /><ref name=JamaicaMatches/>
+
+In 1952, the Caribbean All-Star team was formed with players from Trinidad, Cuba, Haiti, and Suriname. The team played four matches against Jamaica in Sabina Park. Jamaica won the second game 2–1 and the fourth 1–0, and the All-Stars won the first game 5–1 and the third 1–0.<ref>{{cite web|url=https://www.rsssf.org/tablesj/jamcas52.html|title=Jamaica vs Caribbean All Stars 1952|last=Courtney|first=Barrie|date=8 August 2003|archive-url=https://web.archive.org/web/20160304080750/http://www.rsssf.com/tablesj/jamcas52.html|archive-date=4 March 2016|website=[[RSSSF]]|url-status=live|access-date=29 May 2019}}</ref>
+
+===Post-independence (1962–1989)===
+In 1962, the same year Jamaica [[Independence of Jamaica|became independent]], the JFF became a member of FIFA.<ref name="FascinationJamaica" /> At the [[Football at the 1962 Central American and Caribbean Games|1962 Central American and Caribbean Games]] played in Jamaica, the national team was led by Brazilian coach Jorge Penna.<ref>{{cite web|url=http://jamaica-gleaner.com/gleaner/20120215/news/news4.html|title=This day in 1962|date=15 February 2012|access-date=30 May 2019|work=The Gleaner|archive-url=https://web.archive.org/web/20190530055228/http://jamaica-gleaner.com/gleaner/20120215/news/news4.html|archive-date=30 May 2019|url-status=live}}</ref><ref name="JamaicaHistory" /> Jamaica finished in fourth place, with two wins over [[Puerto Rico national football team|Puerto Rico]] and [[Cuba national football team|Cuba]].<ref name=1962CAC>{{cite web|url=https://www.rsssf.org/tablesc/cag62.html|title=Central American and Caribbean Games 1962 (Kingston, Jamaica)|date=16 January 2009|access-date=30 May 2019|first=Neil|last=Morrison|archive-url=https://web.archive.org/web/20171219013901/http://www.rsssf.com/tablesc/cag62.html|archive-date=19 December 2017|website=[[RSSSF]]|url-status=live}}</ref> A year later, Jamaica competed in the first [[1963 CONCACAF Championship|CONCACAF Championship]] in El Salvador, where the team finished last in its group, which included [[Mexico national football team|Mexico]], the [[Netherlands Antilles national football team|Netherlands Antilles]], and eventual winner [[Costa Rica national football team|Costa Rica]].<ref>{{cite web|url=http://www.concacaf.com/articles/20120406/costa-rica-wins-1963-norceca-title_2304746_2735454|title=Costa Rica wins 1963 NORCECA title|date=6 June 2012|url-status=dead|archive-url=https://web.archive.org/web/20120621061058/http://www.concacaf.com/articles/20120406/costa-rica-wins-1963-norceca-title_2304746_2735454|archive-date=21 June 2012|publisher=CONCACAF}}</ref>
+
+In 1965, Jamaica attempted to qualify for the [[1966 FIFA World Cup]] in England. After finishing first in its preliminary group that included Cuba and the Netherlands Antilles; Jamaica faced Costa Rica and Mexico in the final round, where the winner would qualify for the World Cup. Opening the final round campaign with a 3–2 loss at home against Mexico,<ref>{{cite news|title=Mexico beat Jamaica 3-2|date=4 May 1965|newspaper=[[Kingston Gleaner]]|via=newspaperarchive.com}}</ref> Jamaica lost the return match 8–0, with [[Isidoro Díaz]] getting a [[hat-trick]] for Mexico. Jamaica then lost 7–0 to Costa Rica and ended with a draw at home in the return match, ultimately finishing with a single point.<ref name=JamaicaHistory>{{cite web|url=http://www.thereggaeboyz.com/history.htm|title=History of Jamaica's Football|access-date=30 May 2019|archive-url=https://web.archive.org/web/20180923065855/http://www.thereggaeboyz.com/history.htm|archive-date=23 September 2018|url-status=live|publisher=thereggaeboyz}}</ref> In January 1967, Jamaica attempted to qualify for the [[1967 CONCACAF Championship|CONCACAF Championship]] but was eliminated after finishing third in the group of five.<ref>{{cite web|url=https://www.rsssf.org/tablesc/conca67.html|title=III. CONCACAF Nations Cup 1967|date=8 May 2008|access-date=30 May 2019|first=Macario|last=Reyes|archive-url=https://web.archive.org/web/20180816034759/http://www.rsssf.com/tablesc/conca67.html|archive-date=16 August 2018|website=[[RSSSF]]|url-status=live}}</ref>
+
+In 1968, George Hamilton became the new coach as Jamaica attempted to qualify for the [[1970 FIFA World Cup]] in Mexico.<ref name="JamaicaHistory" /> Most of the squad for the campaign was young with only a few remaining players from its previous attempt at qualifying being in the team. This was due to most of its players being either retired or migrated abroad.<ref name="JamaicaHistory" /> Jamaica finished last with zero points from four games.<ref>{{cite web|url=https://www.rsssf.org/tables/70q.html|title=World Cup 1970 Qualifying|date=13 November 2006|access-date=31 May 2019|first=Karel|last=Stokkermans|archive-url=https://web.archive.org/web/20181013001207/http://www.rsssf.com/tables/70q.html|archive-date=13 October 2018|website=[[RSSSF]]|url-status=live}}</ref><ref name=JamaicaHistory/> After finishing last in the [[1969 CONCACAF Championship]]<ref>{{cite web|url=https://www.rsssf.org/tablesc/conca69.html|title=IV. CONCACAF Nations Cup 1969|date=13 November 2006|access-date=31 May 2019|first=Macario|last=Reyes|archive-url=https://web.archive.org/web/20180918093056/http://www.rsssf.com/tablesc/conca69.html|archive-date=18 September 2018|website=[[RSSSF]]|url-status=live}}</ref> and not qualifying for the [[1971 CONCACAF Championship qualification|following championship]],<ref>{{cite web|url=https://www.rsssf.org/tablesc/conca71.html|title=V. CONCACAF Nations Cup 1971|date=3 January 2007|access-date=31 May 2019|first=Macario|last=Reyes|archive-url=https://web.archive.org/web/20180816035254/http://www.rsssf.com/tablesc/conca71.html|archive-date=16 August 2018|website=[[RSSSF]]|url-status=live}}</ref> Jamaica had to withdraw from qualifying for the [[1973 CONCACAF Championship]] after 17 players were suspended for poor behavior during a tour to Bermuda.<ref name=Jamaica>{{cite news|url=https://www.independent.co.uk/news/education/education-news/football-loftus-road-the-first-stop-for-jamaica-1151503.html|title=Football: Loftus Road the first stop for Jamaica|date=21 March 1998|access-date=2 June 2019|first=Nick|last=Harrias|work=[[The Independent]]|archive-url=https://web.archive.org/web/20160303172144/http://www.independent.co.uk/news/education/education-news/football-loftus-road-the-first-stop-for-jamaica-1151503.html|archive-date=3 March 2016|url-status=live}}</ref> In 1977, Jamaica competed in qualifying for the [[1977 CONCACAF Championship]], which was also the qualifier for the [[1978 FIFA World Cup]]. Taking on Cuba in the first round, Jamaica lost both of its games 5–1 on aggregate.<ref name=JamaicaHistory/>
+
+Jamaica did not attempt to qualify for the [[1982 FIFA World Cup|1982]] and [[1986 FIFA World Cup|1986]] due to insufficient funds and a poorly prepared team.<ref name="JamaicaHistory" /> The team returned to international competition after [[1989 CONCACAF Championship qualification|qualifying]] for the [[1989 CONCACAF Championship]], which was part of the qualifiers for the [[1990 FIFA World Cup]] in Italy. After defeating [[Puerto Rico national football team|Puerto Rico]] 3–1 on aggregate in the preliminary round, Jamaica played the [[United States men's national soccer team|United States]] for a spot in the finals. After a 0–0 draw at home, Jamaica lost 5–1 in the US and was eliminated.<ref name=JamaicaHistory/>
+
+===Caribbean triumph and World Cup appearance (1990–2000)===
+In 1990, [[Carl Brown (footballer)|Carl Brown]] was signed as head coach and led Jamaica into qualifying for the [[1990 Caribbean Cup]], finishing tied for third place after the final round was abandoned due to Tropical Storm Arthur.<ref>{{cite web|url=https://www.rsssf.org/tablesc/caribe90.html|title=Caribbean Championship 1990|date=4 March 2011|access-date=5 June 2019|first=Barrie|last=Courtney|archive-url=https://web.archive.org/web/20180816035249/http://www.rsssf.com/tablesc/caribe90.html|archive-date=16 August 2018|website=[[RSSSF]]|url-status=live}}</ref> In 1991, Jamaica defeated Trinidad and Tobago 2–0 to win the [[1991 Caribbean Cup|Caribbean Cup]] and qualify for the [[1991 CONCACAF Gold Cup|CONCACAF Gold Cup]].<ref>{{cite news|url=http://www.ttfootballhistory.com/node/1456|title=Jamaica conquer Trinidad|date=3 June 1991|page=11|first=H.G|last=Helps|work=The Gleaner|url-status=dead|archive-url=http://archive.wikiwix.com/cache/20151206061738/http://www.ttfootballhistory.com/node/1456|archive-date=6 December 2015|access-date=5 June 2019}}</ref> In the Gold Cup, Jamaica finished last with zero points in a group consisting of [[Honduras national football team|Honduras]], Mexico, and [[Canada men's national soccer team|Canada]].<ref>{{cite web|url=https://www.rsssf.org/tables/91gc.html|title=CONCACAF Championship, Gold Cup 1991|date=9 July 2001|access-date=5 June 2019|first=François|last=Mazet|archive-url=https://web.archive.org/web/20160304205944/http://www.rsssf.com/tables/91gc.html|archive-date=4 March 2016|website=[[RSSSF]]|url-status=live}}</ref>
+
+After the Jamaicans lost to Trinidad and Tobago in the final of the [[1992 Caribbean Cup]],<ref>{{cite news|url=https://ttfootballhistory.comnode/1441|title=Trinidad regain Shell Cup|date=27 June 1992|page=13|work=The Gleaner|url-status=dead|archive-url=http://archive.wikiwix.com/cache/20151206061748/http://www.ttfootballhistory.com/node/1441|archive-date=6 December 2015|access-date=6 June 2019}}</ref> they started their campaign in preliminary rounds of [[1994 FIFA World Cup qualification (CONCACAF)|qualifying]] for the [[1994 FIFA World Cup|1994 World Cup]]. After defeating Puerto Rico 3–1 on aggregate in the second preliminary round, Jamaica eliminated Trinidad and Tobago and was grouped with [[Bermuda national football team|Bermuda]], [[Canada men's national soccer team|Canada]], and [[El Salvador national football team|El Salvador]], two of which would advance to the final round. Jamaica opened the second round with two 1–1 draws against Canada and Bermuda, but the team lost its return match in Canada after a single goal from [[Dale Mitchell (soccer)|Dale Mitchell]]. After a 3–2 home win over Bermuda and two losses to El Salvador, Jamaica finished in third place and was eliminated.<ref>{{cite web|url=https://www.jff.live/about/|title=About the JFF|access-date=6 June 2019|publisher=Jamaican Football Federation|archive-url=https://web.archive.org/web/20190525104402/https://www.jff.live/about/|archive-date=25 May 2019|url-status=live}}</ref>
+
+In 1993, Jamaica finished in second place after losing on penalties to [[Martinique national football team|Martinique]] in the final of the [[1993 Caribbean Cup|Caribbean Cup]], which was a qualifier for the [[1993 CONCACAF Gold Cup|CONCACAF Gold Cup]] which was held later that year.<ref>{{cite web|url=https://www.rsssf.org/tablesg/gold-car93.html|title=Shell Caribbean Cup 1993|date=18 July 2002|access-date=6 June 2019|first=Chris|last=McKain|archive-url=https://web.archive.org/web/20130107014521/http://www.rsssf.com/tablesg/gold-car93.html|archive-date=7 January 2013|website=[[RSSSF]]|url-status=live}}</ref> During this tournament, the team opened with a 1–0 loss to the US before recording their first Gold Cup win against Honduras. After qualifying in second place with a 1–1 draw against Panama, Jamaica lost 6–1 to Mexico in the semi-final in Mexico City.<ref>{{cite web|url=https://www.rsssf.org/tables/93gc.html|title=CONCACAF Championship, Gold Cup 1993|date=18 July 2002|access-date=6 June 2019|first=François|last=Mazet|archive-url=https://web.archive.org/web/20181023115934/http://www.rsssf.com/tables/93gc.html|archive-date=23 October 2018|website=[[RSSSF]]|url-status=live}}</ref> After not qualifying for the final round of the [[1994 Caribbean Cup]] despite recording its largest-ever win margin in a 12–0 win against the [[British Virgin Islands national football team|British Virgin Islands]], the team decided to hire Brazilian [[René Simões]] to assist Brown with the goal of qualifying for the [[1998 FIFA World Cup|1998 World Cup]].<ref name=FascinationJamaica/> After being eliminated in the group stage of both the [[1995 Caribbean Cup]] by virtue of head-to-head and the [[1996 Caribbean Cup]],<ref>{{cite web|url=https://www.rsssf.org/tablesg/gold-car95.html|title=Shell Caribbean Cup 1995|date=12 September 2003|first=Chris|last=McKain|access-date=11 June 2019|archive-url=https://web.archive.org/web/20180816033000/http://www.rsssf.com/tablesg/gold-car95.html|archive-date=16 August 2018|website=[[RSSSF]]|url-status=live}}</ref><ref>{{cite web|url=https://www.rsssf.org/tabless/shell-car96.html|title=Shell Caribbean Cup 1996|date=24 July 2003|first=Chris|last=McKain|access-date=11 June 2019|archive-url=https://web.archive.org/web/20180816033324/http://www.rsssf.com/tabless/shell-car96.html|archive-date=16 August 2018|website=[[RSSSF]]|url-status=live}}</ref> Jamaica opened its 1998 World Cup qualifiers with an 2–0 aggregate win over [[Suriname national football team|Suriname]] and defeated [[Barbados national football team|Barbados]] 3–0 in the following round.<ref>{{cite web|url=http://www.fifa.com/worldcup/archive/edition=1013/preliminaries/preliminary=892/index.html|title=1998 FIFA World Cup France ™ Preliminaries|url-status=dead|archive-url=https://web.archive.org/web/20131231124323/http://www.fifa.com/worldcup/archive/edition=1013/preliminaries/preliminary=892/index.html|archive-date=31 December 2013|publisher=FIFA|access-date=11 June 2019}}</ref> In 1997, Simões, by then promoted to head coach, scouted for players in England that had Jamaican heritage to join the national team. [[Paul Hall (footballer)|Paul Hall]], [[Fitzroy Simpson]], [[Deon Burton]] and [[Robbie Earle]] were all named in the squad due their heritage.<ref>{{cite web|url=http://www.ipsnews.net/1998/04/sport-jamaica-burst-of-nationalism-hits-football-squad/|title=SPORT-JAMAICA: Burst of Nationalism Hits Football Squad|date=21 April 1998|access-date=11 June 2019|location=Kingston|first=Howard|last=Campbell|archive-url=https://web.archive.org/web/20160422084518/http://www.ipsnews.net/1998/04/sport-jamaica-burst-of-nationalism-hits-football-squad/|archive-date=22 April 2016|url-status=live}}</ref> The term 'UB40' became used in Jamaica and more widely to describe their British-born players such as Hall and Gayle, the term is a nod to the English band [[UB40]], who perform [[reggae]], a genre of music that originated in Jamaica.<ref>{{cite web|last=Wright |first=Nodley |title=Hall hangs up {{sic|internation|nolink=y}} boots |url=http://jamaica-gleaner.com/gleaner/20000824/sports/sports2.html |work=The Gleaner |access-date=9 May 2014 |date=24 August 2000 |archive-url=https://web.archive.org/web/20140512224002/http://jamaica-gleaner.com/gleaner/20000824/sports/sports2.html |archive-date=12 May 2014 |url-status=dead }}</ref><ref>{{cite magazine|title=Player profiles&nbsp;– Jamaica 1998|url=http://sportsillustrated.cnn.com/soccer/world/events/1998/worldcup/teams/jamaica/player_profiles.html|magazine=Sports Illustrated|access-date=9 May 2014|date=1998|archive-url=https://web.archive.org/web/20040514223818/http://sportsillustrated.cnn.com/soccer/world/events/1998/worldcup/teams/jamaica/player_profiles.html|archive-date=14 May 2004|url-status=live}}</ref> After finishing winless in the first four games of the final qualifying round, Jamaica recorded three 1–0 wins over El Salvador, Canada, and Costa Rica, with Burton scoring the winning goal in each of the latter two matches. After a 0–0 draw against Mexico, Jamaica secured its qualification and made its first-ever World Cup appearance, and the following day was declared a national holiday.<ref>{{cite news|url=https://www.independent.co.uk/sport/football/world-cup/world-cup-2018-jamaica-france-98-robbie-earle-media-makers-history-maker-reggae-boyz-a8400226.html|title=World Cup 2018: How history-making Jamaica became more than just the 'Reggae Boyz' at France 1998|date=15 June 2018|access-date=13 June 2019|first=Eoin|last=O'Callaghan|work=The Independent|archive-url=https://web.archive.org/web/20180615163216/https://www.independent.co.uk/sport/football/world-cup/world-cup-2018-jamaica-france-98-robbie-earle-media-makers-history-maker-reggae-boyz-a8400226.html|archive-date=15 June 2018|url-status=live}}</ref>
+
+In 1998, Jamaica competed at the [[1998 CONCACAF Gold Cup]], finishing first in a group comprising World Cup champion [[Brazil national football team|Brazil]], Guatemala, and El Salvador. With the help of goalkeeper [[Warren Barrett]], Jamaica opened with a 0–0 tie against Brazil.<ref>{{cite news|url=https://www.latimes.com/archives/la-xpm-1998-feb-04-sp-15402-story.html|title=Brazil Can Do No Better Than 0–0 Tie With Jamaica|date=4 February 1998|access-date=13 June 2019|newspaper=LA Times|location=Miami|archive-date=7 November 2021|archive-url=https://web.archive.org/web/20211107053109/https://www.latimes.com/archives/la-xpm-1998-feb-04-sp-15402-story.html|url-status=live}}</ref> After wins over Guatemala and El Salvador, Jamaica advanced to the semi-final against Mexico. The match went into overtime before Mexican player [[Luis Hernández (footballer, born 1968)|Luis Hernandez]] scored the winning goal. In the third-place playoff, Jamaica lost 1–0 to Brazil, ending in fourth place.<ref>{{cite web|url=http://www.insideworldfootball.com/1998-gold-cup/|title=Gold Cup 1998|date=13 June 2019|access-date=13 June 2019|archive-date=7 November 2021|archive-url=https://web.archive.org/web/20211107053015/http://www.insideworldfootball.com/1998-gold-cup/|url-status=live}}</ref> At the [[1998 FIFA World Cup]], Jamaica finished third in Group H with three points from a 2–1 win against [[Japan national football team|Japan]] in Lyon. [[Theodore Whitmore]] scored both goals in the victory.<ref name=JapanvsJamaica1998>{{cite web|url=https://www.thefreelibrary.com/Reggae+Boyz+end+their+adventure+with+a+victory%3b+JAPAN+1+JAMAICA+2.-a060783367|title=Reggae Boyz end their adventure with a victory; Japan 1 Jamaica 2.|date=27 June 1998|access-date=13 June 2019|work=[[Birmingham Post]]|archive-date=7 November 2021|archive-url=https://web.archive.org/web/20211107053138/https://www.thefreelibrary.com/Reggae+Boyz+end+their+adventure+with+a+victory%3B+JAPAN+1+JAMAICA+2.-a060783367|url-status=live}}</ref>
+
+The following month, Jamaica competed in the finals of the [[1998 Caribbean Cup]], which was a qualifier for the [[2000 CONCACAF Gold Cup]]. After finishing first in its group, Jamaica won the final 2–1 against Trinidad and Tobago, with goals from Oneil McDonald and [[Dean Sewell]].<ref>{{cite web|url=https://www.rsssf.org/tabless/shell-car98.html|title=Shell Caribbean Cup 1998|first=Barrie|last=Courtney|date=26 November 2010|access-date=17 June 2019|archive-url=https://web.archive.org/web/20180709193353/http://www.rsssf.com/tabless/shell-car98.html|archive-date=9 July 2018|website=[[RSSSF]]|url-status=live}}</ref> In 1999, Jamaica experienced its biggest defeat in a 9–0 loss against Costa Rica.<ref>{{cite web|url=http://www.thereggaeboyz.com/news12.htm#FEBRUARY|title=Costa Rica Trash Jamaica 9–0|date=27 February 1999|access-date=17 June 2019|publisher=thereggaeboyz|archive-url=https://web.archive.org/web/20160303235818/http://www.thereggaeboyz.com/news12.htm#FEBRUARY|archive-date=3 March 2016|url-status=live}}</ref> After finishing second in its group, Jamaica was eliminated by Cuba in the semi-finals of the [[1999 Caribbean Cup]].<ref>{{cite web|url=https://www.rsssf.org/tablesc/caribe99.html|title=Copa Caribe 1999|first=James|last=Goloboy|date=7 October 1999|access-date=17 June 2019|archive-url=https://web.archive.org/web/20180920001452/http://www.rsssf.com/tablesc/caribe99.html|archive-date=20 September 2018|website=[[RSSSF]]|url-status=live}}</ref> At the Gold Cup, Jamaica finished last in its group, losing against [[Colombia national football team|Colombia]] and Honduras 2–0 and 1–0, respectively.<ref>{{cite web|url=http://wvw.nacion.com/ln_ee/futbol/copaoro2000/noticiascafe.html|title=Peru debuts with a draw, Honduras and Colombia advance in the Gold Cup|location=Miami|date=15 February 2000|access-date=17 June 2019|work=[[La Nación (San José)|La Nación]]|language=es|archive-url=https://web.archive.org/web/20190617021158/http://wvw.nacion.com/ln_ee/futbol/copaoro2000/noticiascafe.html|archive-date=17 June 2019|url-status=live}}</ref>
+
+===Struggles at continental level (2001–2009)===
+In the [[2002 FIFA World Cup qualification (CONCACAF)|2002 FIFA World Cup qualification]] semi-finals, Jamaica faced Honduras, El Salvador, and [[Saint Vincent and the Grenadines national football team|Saint Vincent and the Grenadines]] in the second group. Jamaica finished second, securing a spot in the final round despite losing two games to Honduras and El Salvador. In the final round of qualifying, Jamaica finished in fifth place after being eliminating by Honduras.<ref name=2002WCQ>{{cite web|url=https://www.rsssf.org/tables/2002q.html|title=World Cup 2002 Qualifying|first=Karel|last=Stokkermans|date=13 September 2018|access-date=17 June 2019|archive-url=https://web.archive.org/web/20090116173331/http://www.rsssf.com/tables/2002q.html|archive-date=16 January 2009|website=[[RSSSF]]|url-status=live}}</ref> Between the two rounds of World Cup qualifying, Jamaica was eliminated in the group stage of the [[2001 Caribbean Cup]] by goal-difference and missed out on qualifying for the [[2002 CONCACAF Gold Cup|Gold Cup]] the following year.<ref>{{cite web|url=https://www.rsssf.org/tablesc/caribe01.html|title=Copa Caribe 2001|first=Chris|last=McKain|date=21 August 2004|access-date=17 June 2019|archive-url=https://web.archive.org/web/20181008125312/http://rsssf.com/tablesc/caribe01.html|archive-date=8 October 2018|website=[[RSSSF]]|url-status=live}}</ref> Jamaica qualified for the [[2003 CONCACAF Gold Cup|2003 Gold Cup]], reaching the quarter-finals before being eliminated by Mexico 5–0 at the [[Estadio Azteca]].<ref>{{cite web|title=CONCACAF 2003 Gold Cup technical report|url=http://www.concacaf.com/staticFiles/b6/43/0,,12813~148406,00.pdf|url-status=dead|archive-url=https://web.archive.org/web/20130407191543/http://www.concacaf.com/staticFiles/b6/43/0,,12813~148406,00.pdf|archive-date=7 April 2013|publisher=CONCACAF}}</ref>
+
+Jamaica started its [[2006 FIFA World Cup]] qualifying campaign in the [[2006 FIFA World Cup qualification – CONCACAF second round|second round]] with a 4–1 aggregate win over Haiti to reach the [[2006 FIFA World Cup qualification – CONCACAF third round|third round]]. Jamaica finished third in group play, with a 1–1 draw against the US and one point away from reaching the next round. Coach [[Sebastião Lazaroni]] was sacked due to the team's performance.<ref>{{cite web|title=Lazaroni says sorry|date=19 November 2004|url=http://jamaica-gleaner.com/gleaner/20041119/sports/sports1.html|first=Audley|last=Boyd|work=The Gleaner|url-status=dead|archive-url=https://web.archive.org/web/20041204035601/http://www.jamaica-gleaner.com/gleaner/20041119/sports/sports1.html|archive-date=4 December 2004|access-date=17 June 2019}}</ref> In the [[2005 Caribbean Cup]], Jamaica tied its largest-ever win margin record with a 12–0 win over [[Saint Martin national football team|Saint Martin]], with [[Luton Shelton]] and Roland Dean both getting hat-tricks.<ref>{{cite web|url=http://jamaica-gleaner.com/gleaner/20041126/sports/sports4.html|title=Goals galore in store for fans|date=26 November 2004|first=Audley|last=Boyd|url-status=dead|archive-url=https://web.archive.org/web/20041214074756/http://jamaica-gleaner.com/gleaner/20041126/sports/sports4.html|archive-date=14 December 2004|work=The Gleaner}}</ref> After reaching the final with wins against Saint Lucia and [[French Guiana national football team|French Guiana]], Jamaica claimed its third title and a spot at the Gold Cup.<ref>{{cite web|url=http://jamaica-gleaner.com/gleaner/20050225/sports/sports1.html|title=Boyz clinch Carib crown|date=15 February 2005|url-status=dead|archive-url=https://web.archive.org/web/20070612191635/http://www.jamaica-gleaner.com/gleaner/20050225/sports/sports1.html|archive-date=12 June 2007|work=The Gleaner}}</ref> At the [[2005 CONCACAF Gold Cup|Gold Cup]], Jamaica reached the quarter-finals before losing to the US 3–1 in [[Foxborough, Massachusetts|Foxborough]], with American player [[DaMarcus Beasley]] scoring two goals.<ref>{{cite web|url=http://www.us.terra.com/goldcup2005/us/interna/0,,OI594252-EI4900,00.html|title=Beasley leads United States over Jamaica 3–1|date=16 July 2005|publisher=Gold Cup|url-status=dead|archive-url=https://web.archive.org/web/20060701063600/http://www.us.terra.com/goldcup2005/us/interna/0,,OI594252-EI4900,00.html|archive-date=1 July 2006}}</ref>
+
+In 2006 and 2007, Jamaica continued to struggle, with one Jamaican journalist dubbing the team "The Reggae Toyz".<ref>{{cite web|url=http://www.jamaica-gleaner.com/gleaner/20060604/sports/sports9.html|title=Final word – How did the Boyz become Toyz?|date=4 June 2006|first=Tym|last=Glaser|url-status=dead|archive-url=https://web.archive.org/web/20071009041535/http://www.jamaica-gleaner.com/gleaner/20060604/sports/sports9.html|archive-date=9 October 2007|work=The Gleaner}}</ref> The team failed to qualify for the [[2007 Caribbean Cup]] after being eliminated due to goals scored, with St. Vincent and the Grenadines scoring three more goals than Jamaica.<ref>{{cite web|url=http://www.jamaica-gleaner.com/gleaner/20061002/sports/sports1.html|title=Reggae Boyz crash out – Defending champs fail to advance in Digicel Caribbean Cup despite 2–0 win|date=2 October 2006|first=Howard|last=Walker|url-status=dead|archive-url=https://web.archive.org/web/20061106171448/http://www.jamaica-gleaner.com/gleaner/20061002/sports/sports1.html|archive-date=6 November 2006|work=The Gleaner|access-date=18 June 2019}}</ref> Two managers later, the team only earned a single point from three matches in the third round of [[2010 FIFA World Cup qualification – CONCACAF third round#Group 2|qualification]] for the [[2010 FIFA World Cup]]. With coach [[Theodore Whitmore]], Jamaica secured three wins from its remaining matches, jumping from their lowest-ever world ranking of 116th all the way to 83rd place.<ref>{{cite web|url=https://www.fifa.com/fifa-world-ranking/news/resurgent-jamaica-dream-946115|title=Resurgent Jamaica dream on|date=13 November 2008|access-date=21 June 2019|publisher=FIFA|archive-url=https://web.archive.org/web/20190621014136/https://www.fifa.com/fifa-world-ranking/news/resurgent-jamaica-dream-946115|archive-date=21 June 2019|url-status=dead}}</ref> Despite the team's final win over [[Canada men's national soccer team|Canada]], Jamaica was eliminated by goal difference after Mexico finished three goals ahead.<ref>{{cite web|url=https://digitalhub.fifa.com/m/7e65c113e260ee03/original/va33g8lvjew7h8lcmdwm-pdf.pdf|title=2010 FIFA World Cup South Africa Technical Report and Statistics|page=208|publisher=FIFA|access-date=21 October 2021|archive-date=7 November 2021|archive-url=https://web.archive.org/web/20211107053015/https://digitalhub.fifa.com/m/7e65c113e260ee03/original/va33g8lvjew7h8lcmdwm-pdf.pdf|url-status=live}}</ref> Jamaica won the [[2008 Caribbean Cup]], with [[Luton Shelton]] scoring both goals in the victory against [[Grenada national football team|Grenada]] to qualify for the [[2009 CONCACAF Gold Cup|Gold Cup]].<ref>{{cite web|url=http://jamaica-gleaner.com/gleaner/20081215/sports/sports1.html|title=Jamaica's Reggae Boyz rule the Caribbean|first=Audley|last=Boyd|date=15 December 2008|url-status=dead|archive-url=https://web.archive.org/web/20090323032651/http://jamaica-gleaner.com/gleaner/20081215/sports/sports1.html|archive-date=23 March 2009|work=The Gleaner}}</ref> At the Gold Cup, Jamaica finished third in its group; with a single win over El Salvador, the side finished last among the third-place teams and was eliminated.<ref>{{cite web|url=https://www.rsssf.org/tables/09gc.html|title=CONCACAF Championship, Gold Cup 2009|first=Erik|last=Francisco Lugo|date=25 March 2011|access-date=21 June 2019|archive-url=https://web.archive.org/web/20181004024107/http://www.rsssf.com/tables/09gc.html|archive-date=4 October 2018|website=[[RSSSF]]|url-status=live}}</ref>
+
+===Continental finals appearances (2010–2019)===
+[[File:Usa v jamaica, Gold Cup 2011.jpg|thumb|Jamaica taking on the [[United States men's national soccer team|United States]] at the [[2011 CONCACAF Gold Cup]]]]
+Jamaica entered the final round of the [[2010 Caribbean Cup]] after a 0–0 draw with [[Costa Rica national football team|Costa Rica]].<ref>{{cite web|url=https://au.soccerway.com/matches/2010/11/18/world/friendlies/jamaica/costa-rica/1047848/|title=Jamaica vs. Costa Rica – 18 November|access-date=21 June 2019|website=soccerway|archive-url=https://web.archive.org/web/20131122132009/http://au.soccerway.com/matches/2010/11/18/world/friendlies/jamaica/costa-rica/1047848/|archive-date=22 November 2013|url-status=live}}</ref> After finishing first in its group, Jamaica won against Grenada in the semi-finals, then defeating first-time finalists [[Guadeloupe national football team|Guadeloupe]] in a penalty shoot-out. Jamaica earned its fifth title, and coach [[Theodore Whitmore]] became the first to win the [[Caribbean Cup]] as both player and coach.<ref>{{cite web|url=http://dcc.digicelfootball.com/news/89-dcc-semi-final-match-53-jamaica-2-vs-grenada-1-aet|title=Reggae Boyz advance but get their toughest test yet|date=3 December 2010|location=[[Stade Pierre-Aliker]]|url-status=dead|archive-url=https://web.archive.org/web/20120514112738/http://dcc.digicelfootball.com/news/89-dcc-semi-final-match-53-jamaica-2-vs-grenada-1-aet|archive-date=14 May 2012|publisher=Digicel Football}}</ref><ref>{{cite web|url=http://jamaica-gleaner.com/gleaner/20101206/sports/sports1.html|title=Well Done Reggae Boyz!|first=Audley|last=Boyd|date=6 December 2010|access-date=21 June 2019|location=[[Stade Pierre-Aliker]]|work=The Gleaner|archive-url=https://web.archive.org/web/20190621022846/http://jamaica-gleaner.com/gleaner/20101206/sports/sports1.html|archive-date=21 June 2019|url-status=live}}</ref> In the [[2011 CONCACAF Gold Cup]], Jamaica finished first in its group, beating Grenada 4–0, Guatemala 2–0, and Honduras 1–0 before being eliminated by the US, with goals from American players [[Jermaine Jones]] and [[Clint Dempsey]].<ref>{{cite web|url=http://www.goldcup.org/page/GoldCup/NewsDetail/0,,12802~2378694,00.html|title=CONCACAF Gold Cup Lookahead: Sunday Quarterfinals|date=19 June 2011|url-status=dead|archive-url=https://web.archive.org/web/20110809083527/http://www.goldcup.org/page/GoldCup/NewsDetail/0,,12802~2378694,00.html|archive-date=9 August 2011|publisher=CONCACAF}}</ref><ref>{{cite web|url=http://www.goldcup.org/page/GoldCup/NewsDetail/0,,12802~2378704,00.html|title=Jones, Dempsey put U.S. past Jamaica, into semis|date=19 June 2011|location=[[Washington, D.C.]]|publisher=CONCACAF|url-status=dead|archive-url=https://web.archive.org/web/20110808052710/http://www.goldcup.org/page/GoldCup/NewsDetail/0,,12802~2378704,00.html|archive-date=8 August 2011}}</ref>
+
+In [[2014 FIFA World Cup qualification (CONCACAF)|qualifying]] for the [[2014 FIFA World Cup]], Jamaica started in the third round and earned seven points in the first three games, which included a historic 2–1 win over the United States at home which was their first win over the Americans.<ref>{{cite web|url=http://jamaica-gleaner.com/gleaner/20120908/sports/sports1.html|title=Brilliant Boyz|first=Audley|last=Boyd|date=8 September 2012|access-date=25 June 2019|work=The Gleaner|archive-url=https://web.archive.org/web/20170828102201/http://jamaica-gleaner.com/gleaner/20120908/sports/sports1.html|archive-date=28 August 2017|url-status=live}}</ref> Jamaica later qualified with a 4–1 win over Antigua and Barbuda, finishing two goals ahead of Guatemala in its group.<ref>{{cite web|url=http://jamaica-gleaner.com/gleaner/20121017/sports/sports1.html|title=Brilliant Boyz Advance|first=Audley|last=Boyd|date=17 October 2012|access-date=25 June 2019|work=The Gleaner|archive-url=https://web.archive.org/web/20170224234054/http://jamaica-gleaner.com/gleaner/20121017/sports/sports1.html|archive-date=24 February 2017|url-status=live}}</ref> After the team finished last in its group for the [[2012 Caribbean Cup]]<ref>{{cite web|url=http://jamaica-gleaner.com/gleaner/20121213/sports/sports2.html|title=Boyz Out!|date=13 December 2012|access-date=25 June 2019|work=The Gleaner|archive-url=https://web.archive.org/web/20170828131737/http://jamaica-gleaner.com/gleaner/20121213/sports/sports2.html|archive-date=28 August 2017|url-status=live}}</ref> and failed to record a win in six matches in the [[2014 FIFA World Cup qualification – CONCACAF fourth round|fourth round]] of qualifying, team manager Theodore Whitmore resigned and was replaced by German coach [[Winfried Schäfer]].<ref>{{cite web|url=http://jamaica-gleaner.com/gleaner/20130613/sports/sports1.html|title=Whitmore Had To Go – Burrell|first=Ryon|last=Jones|date=13 June 2013|access-date=25 June 2019|work=The Gleaner|archive-url=https://web.archive.org/web/20181004042646/http://jamaica-gleaner.com/gleaner/20130613/sports/sports1.html|archive-date=4 October 2018|url-status=live}}</ref><ref>{{cite news|url=https://www.lematin.ch/sports/depeches/allemand-winfried-schaefer-tete-jamaique-quatre-matches/story/22815025|title=Winfried Schäfer leads Jamaica for four matches|date=18 July 2013|access-date=25 June 2019|work=[[Le Matin (Switzerland)|Le Matin]]|language=fr|archive-url=https://web.archive.org/web/20160303224707/http://www.lematin.ch/sports/depeches/allemand-winfried-schaefer-tete-jamaique-quatre-matches/story/22815025|archive-date=3 March 2016|url-status=live}}</ref> After a 2–0 loss to the US, Jamaica finished in last place and was eliminated.<ref>{{cite web|url=http://jamaica-gleaner.com/power/48575|title=USA Beat Jamaica 2–0|date=11 October 2013|access-date=25 June 2019|work=The Gleaner|archive-url=https://web.archive.org/web/20180702005129/http://jamaica-gleaner.com/power/48575|archive-date=2 July 2018|url-status=live}}</ref>
+
+After qualifying for the [[2015 CONCACAF Gold Cup|2015 Gold Cup]] due to winning the [[2014 Caribbean Cup]],<ref name=2014CC>{{cite web|url=https://www.mlssoccer.com/news/article/2014/11/18/jamaica-capture-caribbean-cup-shootout-win-over-trinidad-tobago-unions-andre|title=Jamaica capture Caribbean Cup in shootout win over Trinidad & Tobago; Union's Andre Blake makes key save|date=18 November 2014|publisher=MLS|url-status=dead|archive-url=https://web.archive.org/web/20141222145740/https://www.mlssoccer.com/news/article/2014/11/18/jamaica-capture-caribbean-cup-shootout-win-over-trinidad-tobago-unions-andre|archive-date=22 December 2014}}</ref> Jamaica was invited to compete in the [[2015 Copa América|2015 edition]] of the [[Copa América]] in Chile.<ref name=CopaInvite>{{cite web|title=Jamaica to tackle Copa America|url=http://rjrnewsonline.com/sports/jamaica-to-tackle-copa-america|publisher=Radio Jamaica|access-date=25 June 2019|date=24 May 2014|archive-url=https://web.archive.org/web/20170813111525/http://rjrnewsonline.com/sports/jamaica-to-tackle-copa-america|archive-date=13 August 2017|url-status=live}}</ref> At the Copa America, Jamaica was drawn in [[2015 Copa América Group B|Group B]] with [[Uruguay national football team|Uruguay]], [[Paraguay national football team|Paraguay]], and [[Argentina national football team|Argentina]]. Jamaica finished last after losing all three of its matches 1–0, with [[Jobi McAnuff]] saying, "I don't think many people would have given us that chance."<ref>{{cite web|url=http://www.jamaicaobserver.com/sport/Boyz-look-ahead|title=Copa America big boost as Jamaica look to Gold Cup, World Cup qualifiers|date=23 June 2015|location=[[Viña del Mar]]|url-status=dead|archive-url=https://web.archive.org/web/20160423194332/http://www.jamaicaobserver.com/sport/Boyz-look-ahead|archive-date=23 April 2016|work=[[Jamaica Observer]]}}</ref> A few weeks later in the [[2015 CONCACAF Gold Cup|2015 Gold Cup]], Jamaica finished first in its group and defeated Haiti in the quarter-finals with a goal from [[Giles Barnes]] to qualify for the semi-finals for the first time since 1998.<ref>{{cite web|url=https://www.usatoday.com/story/sports/soccer/2015/07/18/jamaica-beats-haiti-1-0--play-us--gold-cup-semifinal/30367917/|title=Jamaica beats Haiti, will play U.S. in Gold Cup semifinal|location=[[Baltimore]]|date=19 July 2015|access-date=26 June 2019|work=[[USA Today]]|archive-url=https://web.archive.org/web/20150721221745/http://www.usatoday.com/story/sports/soccer/2015/07/18/jamaica-beats-haiti-1-0--play-us--gold-cup-semifinal/30367917/|archive-date=21 July 2015|url-status=live}}</ref> In the semi-final, Jamaica defeated the US 2–1 with goals from [[Darren Mattocks]] and Giles Barnes, reaching its first-ever Gold Cup final. In the final, Jamaica lost to [[Mexico national football team|Mexico]] 3–1.<ref>{{cite web|url=https://www.mlssoccer.com/post/2015/07/22/usa-1-jamaica-2-concacaf-gold-cup-match-recap|title=USA 1, Jamaica 2 – CONCACAF Gold Cup Match Recap|first=Andrew|last=Wiebe|location=[[Atlanta]]|date=22 July 2015|access-date=26 June 2019|publisher=MLS|archive-url=https://web.archive.org/web/20170211210013/http://www.mlssoccer.com/post/2015/07/22/usa-1-jamaica-2-concacaf-gold-cup-match-recap|archive-date=11 February 2017|url-status=live}}</ref><ref>{{cite magazine|url=https://www.si.com/planet-futbol/2015/07/26/mexico-jamaica-concacaf-gold-cup-final-andres-guardado-usa-confederations-playoff|title=Mexico beats Jamaica to win seventh Gold Cup, set up meeting with USA|location=[[Philadelphia]]|first=Brian|last=Straus|date=26 July 2015|access-date=26 June 2019|magazine=[[Sports Illustrated]]|archive-url=https://web.archive.org/web/20190626004526/https://www.si.com/planet-futbol/2015/07/26/mexico-jamaica-concacaf-gold-cup-final-andres-guardado-usa-confederations-playoff|archive-date=26 June 2019|url-status=live}}</ref>
+
+In [[2018 FIFA World Cup qualification (CONCACAF)|qualifying]] for the [[2018 FIFA World Cup]], Jamaica started in the [[2018 FIFA World Cup qualification – CONCACAF third round|third round]] and defeated Nicaragua 4–3 on aggregate to reach the fourth round.<ref>{{cite web|url=http://jamaica-gleaner.com/article/sports/20150908/full-time-jamaica-beat-nicaragua-2-0-advance-semis-world-cup-qualifiers|title=FULL TIME: Jamaica Beat Nicaragua 2–0 To Advance To Semis Of World Cup Qualifiers|date=8 September 2015|access-date=26 June 2019|work=The Gleaner|archive-url=https://web.archive.org/web/20151025165035/http://jamaica-gleaner.com/article/sports/20150908/full-time-jamaica-beat-nicaragua-2-0-advance-semis-world-cup-qualifiers|archive-date=25 October 2015|url-status=live}}</ref> In the [[2018 FIFA World Cup qualification – CONCACAF fourth round#Group B|fourth round]], Jamaica started off strong with a 1–0 win over Haiti and a 1–1 draw with Costa Rica, earning four points after three games.<ref>{{cite web|url=http://jamaica-gleaner.com/article/sports/20160326/disappointing-draw-reggae-boyz-costa-rica-hold-jamaica-1-1-result|title=Disappointing Draw For Reggae Boyz&nbsp;... Costa Rica Hold Jamaica To 1–1 Result|date=26 March 2016|access-date=26 June 2019|work=The Gleaner|archive-url=https://web.archive.org/web/20160328054935/http://jamaica-gleaner.com/article/sports/20160326/disappointing-draw-reggae-boyz-costa-rica-hold-jamaica-1-1-result|archive-date=28 March 2016|url-status=live}}</ref> However, three straight losses, including a 2–0 loss against Panama, eliminated Jamaica from World Cup qualifying.<ref>{{cite web|url=http://jamaica-gleaner.com/article/sports/20160902/jas-cup-hopes-end-after-2-0-defeat|title=Ja's Cup Hopes End After 2–0 Defeat|date=2 September 2016|access-date=26 June 2019|work=The Gleaner|archive-url=https://web.archive.org/web/20161110112445/http://jamaica-gleaner.com/article/sports/20160902/jas-cup-hopes-end-after-2-0-defeat|archive-date=10 November 2016|url-status=live}}</ref> Between the fourth-round matches, Jamaica competed in the [[Copa América Centenario]] after qualifying through the [[2014 Caribbean Cup]]. Jamaica finished with no points from their three games, scoring no goals and conceding six.<ref name=2014CC/><ref name=JAMvURU2016>{{cite web|url=https://www.usatoday.com/story/sports/soccer/2016/06/14/uruguay-snaps-five-game-copa-america-winless-streak/85856152/|title=Uruguay snaps five-game Copa America winless streak with victory over Jamaica|location=[[Santa Clara, California|Santa Clara]]|date=14 June 2016|access-date=26 June 2019|work=USA Today|archive-url=https://web.archive.org/web/20160614214930/http://www.usatoday.com/story/sports/soccer/2016/06/14/uruguay-snaps-five-game-copa-america-winless-streak/85856152/|archive-date=14 June 2016|url-status=live}}</ref>
+
+After Whitmore returned to the team,<ref>{{cite web|url=http://jamaica-gleaner.com/article/sports/20160927/whitmores-boyz-jerome-waite-hired-assistant-coach-jff-responds-brown|title=Whitmore's Boyz – Jerome Waite Hired As Assistant Coach, As JFF Responds To Brown|first=Dania|last=Bogle|date=27 September 2016|access-date=26 June 2019|work=The Gleaner|archive-url=https://web.archive.org/web/20160929201704/http://jamaica-gleaner.com/article/sports/20160927/whitmores-boyz-jerome-waite-hired-assistant-coach-jff-responds-brown|archive-date=29 September 2016|url-status=live}}</ref> Jamaica qualified for the [[2017 Caribbean Cup]], reaching the final before losing to first-time finalists [[Curaçao national football team|Curaçao]] 2–1, with [[Elson Hooi]] scoring both of Curaçao's goals.<ref>{{cite web|url=http://jamaica-gleaner.com/article/sports/20170625/curacao-shock-jamaica-lift-caribbean-cup|title=Curacao Shock Jamaica To Lift Caribbean Cup|first=Marc|last=Stamp|date=25 June 2017|access-date=26 June 2019|work=The Gleaner|archive-url=https://web.archive.org/web/20180919203252/http://jamaica-gleaner.com/article/sports/20170625/curacao-shock-jamaica-lift-caribbean-cup|archive-date=19 September 2018|url-status=live}}</ref> In the [[2017 CONCACAF Gold Cup|2017 Gold Cup]], Jamaica upset Mexico 1–0 in the semi-finals, with [[Kemar Lawrence]] scoring the goal.<ref>{{cite web|url=https://www.chicagotribune.com/sports/soccer/ct-jamaica-mexico-concacaf-gold-cup-20170723-story.html|title=Jamaica stuns Mexico 1–0, will face U.S. in CONCACAF Gold Cup final|first=Greg|last=Beacham|location=[[Pasadena, California]]|date=23 July 2017|access-date=26 June 2019|work=[[Chicago Tribune]]|archive-url=https://web.archive.org/web/20190515082240/https://www.chicagotribune.com/sports/soccer/ct-jamaica-mexico-concacaf-gold-cup-20170723-story.html|archive-date=15 May 2019|url-status=live}}</ref> In the final against the US, Jamaica conceded the opening goal at the end of the first half before [[Je-Vaughn Watson]] tied the score in the 50th minute. However, after a goal in the 88th minute from [[Jordan Morris]], the US won the title, and Jamaica finished as runner-up.<ref>{{cite web|url=https://www.theguardian.com/football/2017/jul/27/gold-cup-final-usa-beat-jamaica-jordan-morris-soccer|title=Gold Cup: USA beat Jamaica in final thanks to Jordan Morris's late winner|first=Tom|last=Dart|date=27 July 2017|access-date=26 June 2019|work=[[The Guardian]]|archive-url=https://web.archive.org/web/20190413130418/https://www.theguardian.com/football/2017/jul/27/gold-cup-final-usa-beat-jamaica-jordan-morris-soccer|archive-date=13 April 2019|url-status=live}}</ref>
+
+===Recent years (2020–present)===
+
+[[File:Steve McClaren 2012 1 (cropped).jpg|thumb|200px|[[Steve McClaren]] became the manager of the national football team of Jamaica in 2024]]
+In 2020, Jamaica played a single international friendly versus [[Bermuda national football team|Bermuda]] before all international football was placed on hold by [[FIFA]] due to the [[COVID-19 pandemic]].<ref>{{cite web |url=https://www.sportsmax.tv/index.php/football/regional/item/58832-jamaica-reggae-boyz-catalonia-friendly-postponed-over-coronavirus-fears |title=Reggae Boyz-Catalonia friendly postponed over coronavirus fears |access-date=16 July 2020 |archive-date=18 July 2020 |archive-url=https://web.archive.org/web/20200718032000/https://www.sportsmax.tv/index.php/football/regional/item/58832-jamaica-reggae-boyz-catalonia-friendly-postponed-over-coronavirus-fears |url-status=live }}</ref>
+
+In 2021, Jamaica reached the [[2021 CONCACAF Gold Cup|2021 Gold Cup]] quarterfinals, where they lost 0–1 to the [[United States men's national soccer team|United States]].<ref>{{cite web |url=https://jamaica-gleaner.com/article/sports/20210727/jff-disappointed-gold-cup-exit |title=JFF 'disappointed' by Gold Cup exit |work=Jamaica Gleaner |date=27 July 2021 |access-date=11 August 2021 |archive-date=14 August 2021 |archive-url=https://web.archive.org/web/20210814153351/https://jamaica-gleaner.com/article/sports/20210727/jff-disappointed-gold-cup-exit |url-status=live }}</ref> On 9 December 2021, [[Theodore Whitmore]] was dismissed as senior national team head coach.<ref>{{cite web | url=https://jamaica.loopnews.com/content/reggae-boyz-coach-theodore-whitmore-out/ | title=JFF fires coach Theodore Whitmore amid poor World Cup qualifying &#124; Loop Jamaica }}</ref>
+
+In September 2022, Icelander [[Heimir Hallgrímsson]] was hired as Jamaica's new coach.<ref>{{cite web|url=https://apnews.com/article/sports-soccer-international-coaching-world-cup-b7738407d31daeaf60368751dc68ac86|title=Heimer Hallgrímsson hired to coach Jamaica's national team|date=16 September 2022|website=AP News}}</ref>
+
+On 21 November 2023, Jamaica qualified for the [[2024 Copa América]] by reaching the [[2023–24 CONCACAF Nations League A]] semifinals on a 3–2 comeback against Canada. Jamaica had previously lost 2–1 on the first leg, however, the victory resulted in a 4–4 goal aggregate tie that went in their favour after winning 3–2 on [[Away goals rule|away goals]].<ref name="JAMvCAN2023">{{cite news| first= Reid| last= Paul A.| date= 21 November 2023| title= Reggae Boyz shock Canada to qualify for Copa America, Nations League semis| url= https://www.jamaicaobserver.com/latest-news/reggae-boyz-shock-canada-to-qualify-for-copa-america-nations-league-semis/| work= Jamaica observer| location= Kingston| access-date= 22 November 2023}}</ref><ref>{{Cite news |date=22 Nov 2023 |title=Pinnock and Jamaica qualify for Copa America |work=Brentford FC |url=https://www.brentfordfc.com/en/news/article/international-ethan-pinnock-jamaica-copa-america-qualification}}</ref><ref>{{Cite web |agency=The Canadian Press |title=Jamaica rallies with three second-half goals to beat Canada on away goals rule |url=https://larongenow.com/2023/11/21/jamaica-rallies-with-three-second-half-goals-to-beat-canada-on-away-goals-rule/ |access-date=2024-03-25 |website=larongeNOW |language=en}}</ref><ref name="CBC231121">{{cite web |last=Davidson |first=Neil |date=November 21, 2023 |title=Canada collapses in home loss to Jamaica, putting Copa America entry at risk |url=https://www.cbc.ca/sports/soccer/soccer-canada-jamaica-concacaf-nations-league-recap-nov-21-1.7035486 |access-date=November 21, 2023 |website=[[CBC Sports]]}}</ref><ref>{{Cite web |date=2023-11-22 |title=Mexico and Jamaica come from behind late to qualify for 2024 Copa América |url=https://apnews.com/article/mexico-jamaica-qualify-copa-america-2b964ab5eabe0f5472fc530cbbfb472c |access-date=2024-03-25 |website=AP News |language=en}}</ref>
+
+==Stadium==
+{{Main|Independence Park (Jamaica)}}
+
+[[File:Independence Park.jpg|thumb|right|200px|Independence Park in 2011]]
+Between 1926 and 1962. Jamaica played its matches at [[Sabina Park]], which is also home to the [[West Indies cricket team]].<ref>{{cite web|url=http://www.reggaeboyzsc.com/interactivecenter.asp?page=history|title=Statistical History of Jamaican Football 1925–1989&nbsp;... 1994–98|access-date=4 June 2019|publisher=reggaeboyzsc.com|archive-url=https://web.archive.org/web/20180405125811/http://www.reggaeboyzsc.com/interactivecenter.asp?page=history|archive-date=5 April 2018|url-status=live}}</ref> In 1962, the football team moved to Independence Park, which was built for the [[1962 Central American and Caribbean Games]] held after the country gained independence; the first home match was a 6–1 victory over Puerto Rico.<ref name=1962CAC/><ref>{{cite web|url=http://www.nlj.gov.jm/MinistryPapers/1962/No.15.pdf|title=Ministry Paper No. 15 National Stadium|first=Glendon|last=Logan|date=20 March 1962|access-date=4 April 2019|archive-url=https://web.archive.org/web/20150610111638/http://www.nlj.gov.jm/MinistryPapers/1962/No.15.pdf|archive-date=10 June 2015|url-status=live}}</ref> The stadium is nicknamed ''The Office'' while the team plays.<ref>{{cite web|url=https://www.bbc.com/news/world-latin-america-19059452|title=Jamaica at 50 gives cause to cheer and reflect|first=Nick|last=Davis|date=4 August 2012|access-date=4 June 2019|publisher=BBC|archive-url=https://web.archive.org/web/20190604054913/https://www.bbc.com/news/world-latin-america-19059452|archive-date=4 June 2019|url-status=live}}</ref>
+
+The team has also played at [[Jarrett Park]] and [[Trelawny Stadium]] at the 2008 Caribbean Cup.<ref>{{cite web|url=http://jamaica-gleaner.com/power/5063|title=Reggae Boyz/Grenada Face Off|date=5 December 2008|access-date=12 August 2019|work=The Gleaner|archive-date=11 August 2019|archive-url=https://web.archive.org/web/20190811231731/http://jamaica-gleaner.com/power/5063|url-status=live}}</ref><ref>{{cite web|url=http://jamaica-gleaner.com/power/5098|title=Reggae Boyz Reach Semis|date=8 December 2008|access-date=12 August 2019|work=The Gleaner|archive-date=11 August 2019|archive-url=https://web.archive.org/web/20190811231730/http://jamaica-gleaner.com/power/5098|url-status=live}}</ref> They have also played at the [[Montego Bay Sports Complex]] in the 2014 Caribbean Cup.<ref>{{cite web|url=http://jamaica-gleaner.com/article/sports/20141118/reggae-boyz-win-2014-caribbean-cup|title=Reggae Boyz Win 2014 Caribbean Cup|date=18 November 2014|access-date=12 August 2019|first=Paul|last=Clarke|work=The Gleaner|archive-date=11 August 2019|archive-url=https://web.archive.org/web/20190811231728/http://jamaica-gleaner.com/article/sports/20141118/reggae-boyz-win-2014-caribbean-cup|url-status=live}}</ref>
+
+==Kits==
+The national team have used four clothing manufacturers to supply the official kit for Jamaica. The team's first supplier was Italian manufacturer Lanzera in 1995 before it merged with [[Kappa (brand)|Kappa]] a year later. This deal was terminated after the 1998 World Cup.<ref>{{cite web|url=http://jamaica-gleaner.com/gleaner/20081009/sports/sports13.html|title=No new jerseys for fans|date=9 October 2008|url-status=dead|archive-url=https://web.archive.org/web/20081012165238/http://jamaica-gleaner.com/gleaner/20081009/sports/sports13.html|archive-date=12 October 2008|work=The Gleaner}}</ref> In 2000, the JFF signed a deal with German sporting brand [[Uhlsport]], which lasted until 2006.<ref>{{cite web|url=http://www.jamaica-gleaner.com/gleaner/20001216/sports/sports4.html|title=JFF signs sweet deal with Uhlsport|date=16 December 2000|url-status=dead|archive-url=https://web.archive.org/web/20030922104638/http://www.jamaica-gleaner.com/gleaner/20001216/sports/sports4.html|archive-date=22 September 2003|work=The Gleaner|access-date=26 June 2019}}</ref><ref>{{cite web|url=http://jamaica-gleaner.com/gleaner/20080421/sports/sports3.html|title=Crucial trip for JFF boss|first=Audley|last=Boyd|url-status=dead|archive-url=https://web.archive.org/web/20080422095133/http://jamaica-gleaner.com/gleaner/20080421/sports/sports3.html|archive-date=22 April 2008|work=The Gleaner|access-date=26 June 2019}}</ref> After another three-year contract with Kappa between 2012 and 2014,<ref>{{cite web|url=http://www.footballshirtculture.com/Sponsorship/jamaica-sign-kappa-kit-deal.html|title=Jamaica sign Kappa Kit Deal|date=24 January 2012|access-date=28 June 2019|publisher=Football Shirt Culture|archive-url=https://web.archive.org/web/20190628021504/http://www.footballshirtculture.com/Sponsorship/jamaica-sign-kappa-kit-deal.html|archive-date=28 June 2019|url-status=live}}</ref> the JFF signed a four-year deal with Emirati sportswear company [[Romai Sports]] for {{USD|4.8 million}}.<ref>{{cite web|url=http://www.thereggaeboyz.com/jamaica-football-sponsor.html|title=Romai Sportswear is the official clothing sponsor of Jamaica football teams|access-date=28 June 2019|publisher=thereggaeboyz.com|archive-url=https://web.archive.org/web/20190130232338/http://www.thereggaeboyz.com/jamaica-football-sponsor.html|archive-date=30 January 2019|url-status=live}}</ref>
+
+In 2021, Umbro was the kit provider for Jamaica.<ref>{{cite web |url=https://www.umbro.com/en/football/club-kits/jff-21-22-home-away-kits/ |title=JFF 21/22 Home & Away Kits<!-- Bot generated title --> |date=25 June 2021 |access-date=11 August 2021 |archive-date=27 July 2021 |archive-url=https://web.archive.org/web/20210727190111/https://www.umbro.com/en/football/club-kits/jff-21-22-home-away-kits/ |url-status=live }}</ref> In 2022, [[Adidas]] signed a deal to become the new kit provider for Jamaica starting in 2023.<ref>{{cite web |url=https://www.jamaicaobserver.com/latest-news/adidas-to-sponsor-jamaicas-national-football-teams/ |title=Adidas to sponsor Jamaica's national football teams |publisher=Jamaica Observer |date=6 August 2022 |access-date=7 September 2022}}</ref>
+
+===Kit sponsorship===
+{{Commons|Jamaica national football team kits}}
+{| class="wikitable" style="text-align:left;"
+|-
+! Kit supplier
+! Period
+|-
+| {{flagicon|USA}} Score || 1993
+|-
+| {{flagicon|ITA}} [[Kappa (brand)|Lanzera / Kappa]] || 1995–1998
+|-
+| {{flagicon|GER}} [[Uhlsport]] || 2000–2006
+|-
+| {{flagicon|ITA}} [[Kappa (brand)|Kappa]] || 2008–2014
+|-
+| {{flagicon|UAE}} [[Romai Sports|Romai]] || 2015–2018
+|-
+| {{flagicon|ENG}} [[Umbro]] || 2018–2022
+|-
+| {{flagicon|GER}} [[Adidas]] || 2023–present
+|}
+
+==Results and fixtures==
+{{main|Jamaica national football team results}}
+
+The following is a list of match results in the last 12 months, as well as any future matches that have been scheduled.
+
+{{legend2|#CCFFCC|Win|border=1px solid #AAAAAA}}
+{{legend2|#FFFFCC|Draw|border=1px solid #AAAAAA}}
+{{legend2|#FFCCCC|Loss|border=1px solid #AAAAAA}}
+{{legend2|#FFFFFF|Fixture|border=1px solid #AAAAAA}}
+
+===2025 ===
+{{Football box collapsible
+| format     = 1
+| round      = [[2025 Unity Cup]]
+| date       = 27 May
+| time       = 
+| team1      = {{fb-rt|JAM}}
+| score      = 3–2
+| team2      = {{fb|TRI}}
+| report     = 
+| goals1     = 
+*[[Kasey Palmer|Palmer]] {{goal|25|pen.}}
+*[[Rumarn Burrell|Burrell]] {{goal|53}}
+*[[Richard King (footballer)|King]] {{goal|90+4|pen.}}
+| goals2     =
+*[[Isaiah Leacock|Leacock]] {{goal|54}}
+*[[Kevin Molino|Molino]] {{goal|69}}
+| location   = [[London]], England
+| stadium    = [[Brentford Community Stadium|Gtech Community Stadium]]
+| attendance = 
+| referee    = 
+| result     = W
+}}
+{{Football box collapsible
+| format     = 1
+| round      = [[2025 Unity Cup]]
+| date       = 31 May
+| time       = 
+| team1      = {{fb-rt|JAM}}
+| score      = 2–2
+| team2      = {{fb|NGR}}
+| report     = 
+| goals1     = *[[Kaheim Dixon|Dixon]] {{goal|12}}
+*[[Jon Russell (footballer)|Russell]] {{goal|63}}
+| goals2     = *[[Moses Simon|Simon]] {{goal|9}}
+*[[Samuel Chukwueze|Chukwueze]] {{goal|53}}
+| location   = [[London]], England
+| stadium    = [[Brentford Community Stadium|Gtech Community Stadium]]
+| attendance = 
+| referee    = 
+| penalties1 = 
+*{{pengoal}} [[Richard King (footballer)|King]]
+*{{pengoal}} [[Isaac Hayden|Hayden]]
+*{{pengoal}} [[Ravel Morrison|Morrison]]
+*{{penmiss}} [[Dwayne Atkinson|Atkinson]]
+*{{pengoal}} [[Amari'i Bell|Bell]]
+| penaltyscore = 4–5
+| penalties2 = 
+*[[Kelechi Iheanacho|Iheanacho]] {{pengoal}}
+*[[Moses Simon|Simon]] {{pengoal}}
+*[[Tolu Arokodare|Arokodare]] {{pengoal}}
+*[[Bruno Onyemaechi|Onyemaechi]] {{pengoal}}
+*[[Christantus Uche|Uche]] {{pengoal}}
+| result     = D
+}}
+{{Football box collapsible
+| format     = 1
+| round      = [[2026 FIFA World Cup qualification – CONCACAF second round]]
+| date       = 7 June
+| time       = {{UTZ|15:00|-4}}
+| team1      = {{fb-rt|VGB}}
+| score      = 0–1
+| team2      = {{fb|JAM}}
+| report     = https://www.fifa.com/fifaplus/en/match-centre/match/520/288301/288302/400017763
+| goals1     =
+| goals2     =
+*[[Warner Brown|Brown]] {{goal|17}}
+| location   = [[Road Town]], British Virgin Islands
+| stadium    = [[A. O. Shirley Recreation Ground]]
+| attendance = 
+| referee    = Bryan López ([[National Football Federation of Guatemala|Guatemala]])
+| result     = W
+}}
+{{Football box collapsible
+| format     = 1
+| round      = [[2026 FIFA World Cup qualification – CONCACAF second round]]
+| date       = 10 June
+| time       = 
+| team1      = {{fb-rt|JAM}}
+| score      = 3–0
+| team2      = {{fb|GUA}}
+| report     = https://www.fifa.com/fifaplus/en/match-centre/match/520/288301/288302/400017769
+| goals1     = 
+*[[Jon Russell (footballer)|Russell]] {{goal|26}}
+*[[Warner Brown|Brown]] {{goal|37||73}}
+| goals2     =
+| location   = [[Kingston, Jamaica|Kingston]], Jamaica
+| stadium    = [[Independence Park (Jamaica)|Independence Park]]
+| attendance = 
+| referee    = David Gómez ([[Costa Rican Football Federation|Costa Rica]])
+| result     = W
+}}
+{{Football box collapsible
+| format     = 1
+| round      = [[2025 CONCACAF Gold Cup Group C|2025 CONCACAF Gold Cup]]
+| date       = 16 June
+| time       = {{UTZ|19:00|-7}}
+| team1      = {{fb-rt|JAM}}
+| score      = 0–1
+| team2      = {{fb|GUA}}
+| goals1     =
+| goals2     =
+*[[Oscar Santis|Santis]] {{goal|32}}
+| report     = https://int.soccerway.com/matches/2025/06/17/nc-america/concacaf-gold-cup/jamaica/guatemala/4640558/
+| location   = [[Carson, California|Carson]], United States
+| stadium    = [[Dignity Health Sports Park]]
+| attendance = 18,262
+| referee    = Juan Calderón ([[Costa Rican Football Federation|Costa Rica]])
+| result     = L
+}}
+{{Football box collapsible
+| format     = 1
+| round      = [[2025 CONCACAF Gold Cup Group C|2025 CONCACAF Gold Cup]]
+| date       = 20 June
+| time       = {{UTZ|16:45|-7}}
+| team1      = {{fb-rt|JAM}}
+| score      = 2–1
+| team2      = {{fb|GLP}}
+| report     = https://www.concacaf.com/en/gold-cup/game-details?competition=f51991ex45qhp1p3iu74u4d4e&season=5r564yyrugptqzsrsphcyk7pw&match=7ua4ef78vv6wpog7gjc1e15w4
+| goals1     =
+*[[Leon Bailey|Bailey]] {{goal|41}}
+*[[Jon Russell (footballer)|Russell]] {{goal|45+4}}
+| goals2     =
+*[[Thierry Ambrose|Ambrose]] {{goal|32}}
+| location   = [[San Jose, California|San Jose]], United States
+| stadium    = [[PayPal Park]]
+| attendance = 2,405
+| referee    = Kwinsi Williams ([[Trinidad and Tobago Football Association|Trinidad and Tobago]])
+| result     = W
+}}
+{{Football box collapsible
+| format     = 1
+| round      = [[2025 CONCACAF Gold Cup Group C|2025 CONCACAF Gold Cup]]
+| date       = 24 June
+| time       = {{UTZ|18:00|-5}}
+| team1      = {{fb-rt|PAN}}
+| score      = 4–1
+| team2      = {{fb|JAM}}
+| report     = https://www.concacaf.com/en/gold-cup/game-details?competition=f51991ex45qhp1p3iu74u4d4e&season=5r564yyrugptqzsrsphcyk7pw&match=7zpx9i2zoztv45xktx9z53d3o
+| goals1     =
+*[[Ismael Díaz (footballer, born 1997)|Díaz]] {{goal|4||17||45|pen.}}
+*[[Tomás Rodríguez (footballer)|T. Rodríguez]] {{goal|89}}
+| goals2     =
+*[[Amari'i Bell|Bell]] {{goal|27}}
+| location   = [[Austin, Texas|Austin]], United States
+| stadium    = [[Q2 Stadium]]
+| attendance = 3,283 
+| referee    = [[Selvin Brown]] ([[National Autonomous Federation of Football of Honduras|Honduras]])
+| result     = L
+}}
+{{Football box collapsible
+| format     = 1
+| round      = [[2026 FIFA World Cup qualification – CONCACAF third round]]
+| date       = 5 September
+| time       = {{UTZ|19:00|-3}}
+| team1      = {{fb-rt|BER}}
+| score      = 0–4
+| team2      = {{fb|JAM}}
+| report     = https://www.fifa.com/en/match-centre/match/520/288301/288312/400020589
+| goals1     =
+| goals2     =
+*[[Damion Lowe|Lowe]] {{goal|6}}
+*[[Renaldo Cephas|Cephas]] {{goal|26}}
+*[[Kasey Palmer|Palmer]] {{goal|58}}
+*[[Shamar Nicholson|Nicholson]] {{goal|90}}
+| location   = [[Devonshire Parish]], Bermuda
+| attendance = 4,100
+| stadium    = [[Bermuda National Stadium]], [[Devonshire Parish]]
+| referee    = Keylor Herrera ([[Costa Rican Football Federation|Costa Rica]])
+| result     = W
+}}
+{{Football box collapsible
+| format     = 1
+| round      = [[2026 FIFA World Cup qualification – CONCACAF third round]]
+| date       = 9 September
+| time       = {{UTZ|19:00|-5}}
+| team1      = {{fb-rt|JAM}}
+| score      = 2–0 
+| team2      = {{fb|TRI}}
+| report     = https://www.fifa.com/en/match-centre/match/520/288301/288312/400020593 
+| goals1     = [[Bailey Cadamarteri]] {{goal|36}}<br>[[Jon Russell (footballer)|Jon Russell]] {{goal|57}}
+| goals2     =
+| location   = [[Kingston, Jamaica|Kingston]], Jamaica
+| stadium    = [[Independence Park (Jamaica)|Independence Park]]
+| attendance = 25,016
+| referee    = [[Mario Escobar (referee)|Mario Escobar]] ([[National Football Federation of Guatemala|Guatemala]])
+| result     = W 
+}}
+{{Football box collapsible
+| format     = 1
+| round      = [[2026 FIFA World Cup qualification – CONCACAF third round]]
+| date       = 10 October
+| time       = {{UTZ|19:00|-4}}
+| team1      = {{fb-rt|CUW}}
+| score      = 2–0
+| team2      = {{fb|JAM}}
+| report     = https://www.fifa.com/en/match-centre/match/520/288301/288312/400020599 
+| goals1     =
+| goals2     =
+*[[Livano Comenencia|Comenencia]] {{goal|14}}
+*[[Kenji Gorré|Gorré]] {{goal|68}}
+| location   = [[Willemstad]], Curaçao
+| stadium    = [[Ergilio Hato Stadium]]
+| attendance = 9,850
+| referee    = Bryan López ([[National Football Federation of Guatemala|Guatemala]])
+| result     = L
+}}
+{{Football box collapsible
+| format     = 1
+| round      = [[2026 FIFA World Cup qualification – CONCACAF third round]]
+| date       = 14 October
+| time       = 
+| team1      = {{fb-rt|JAM}}
+| score      = 4–0
+| team2      = {{fb|BER}}
+| goals1     =
+*[[Dante Leverock|Leverock]] {{goal|24|o.g.}}
+*[[Bobby De Cordova-Reid|De Cordova-Reid]] {{goal|26}}
+*[[Shamar Nicholson|Nicholson]] {{goal|35}}
+*[[Dujuan Richards|Richards]] {{goal|76}}
+| goals2     =
+| location   = [[Kingston, Jamaica|Kingston]], Jamaica
+| stadium    = [[Independence Park (Jamaica)|Independence Park]]
+| attendance = 16,214
+| result     = W
+| referee    = Reon Radix ([[Grenada Football Association|Grenada]])
+| report     = https://www.fifa.com/en/match-centre/match/520/288301/288312/400020592
+}}
+{{Football box collapsible
+| format     = 1
+| round      = [[2026 FIFA World Cup qualification – CONCACAF third round]]
+| date       = 13 November
+| time       = {{UTZ|20:00|-4}}
+| team1      = {{fb-rt|TRI}}
+| score      = 1–1
+| team2      = {{fb|JAM}}
+| report     = https://www.fifa.com/en/match-centre/match/520/288301/288312/400020596
+| goals1     =
+*[[Kevin Molino|Molino]] {{goal|85}}
+| goals2     =
+*[[Renaldo Cephas|Cephas]] {{goal|53}}
+| location   = [[Port of Spain]], [[Trinidad and Tobago]]
+| stadium    = [[Hasely Crawford Stadium]]
+| attendance = 
+| referee    = [[Walter López Castellanos]] ([[National Football Federation of Guatemala|Guatemala]])
+| result     = D
+}}
+{{Football box collapsible
+| format     = 1
+| round      = [[2026 FIFA World Cup qualification – CONCACAF third round]]
+|id=Jamaica v Curaçao| date       = 18 November
+| time       = {{UTZ|20:00|-4}}
+| team1      = {{fb-rt|JAM}}
+| team2      = {{fb|CUW}}
+| location   = [[Kingston, Jamaica|Kingston]], Jamaica
+| score      = 0–0
+| stadium    = [[Independence Park (Jamaica)|Independence Park]]
+| attendance = 40,567
+| referee    = Iván Barton ([[Salvadoran Football Federation|El Salvador]])
+| report     = https://www.fifa.com/en/match-centre/match/520/288301/288312/400020594
+| result     = D
+}}
+
+===2026===
+{{Footballbox collapsible
+|format     = 1
+|round      = [[Exhibition game|Friendly]]
+|date       = 18 January
+|time       = {{UTZ|15:00|-4}}
+|team1      = {{fb-rt|GRN}}
+|score      = 0–1
+|team2      = {{fb|JAM}}
+|report     = https://www.beinsports.com/en-us/soccer/friendlies/grenada-vs-jamaica-2026-01-18#OverView
+|goals1     =
+|goals2     = [[Nickalia Fuller|N. Fuller]] {{goal|81}}
+|location   = [[St. George's, Grenada|St. George's]], Grenada
+|stadium    = [[Kirani James Stadium]]
+|attendance = 
+|referee    = 
+|result     = W
+}}
+{{Footballbox collapsible
+|format     = 1
+|round      = [[Exhibition game|Friendly]]
+|date       = 22 February
+|time       = {{UTZ|19:00|-4}}
+|team1      = {{fb-rt|MTQ}}
+|score      = 0–2
+|team2      = {{fb|JAM}}
+|report     = https://globalsportsarchive.com/en/soccer/match/2026-02-22/martinique-vs-jamaica/4085116
+|goals1     = 
+|goals2     = [[Nickyle Ellis|Ellis]] {{goal|22}}<br>[[Daniel Green (Jamaican footballer)|Green]] {{goal|64}}
+|location   = [[Fort-de-France]], Martinique
+|stadium    = [[Stade Pierre-Aliker]]
+|attendance = 
+|referee    = 
+|result     = w
+}}
+{{football box collapsible
+|format     = 1
+|round      = [[2026 FIFA World Cup qualification (inter-confederation play-offs)|2026 FIFA World Cup inter-confederation play-offs]]
+|date       = 26 March 
+|time       = {{UTZ|21:00|-6}}
+|team1      = {{fb-rt|NCL}}
+|score      = 0–1
+|team2      = {{fb|JAM}}
+|report     = https://www.fifa.com/en/match-centre/match/520/292616/292617/400021436
+|goals1     =
+| goals2 = 
+*[[Bailey Cadamarteri|Cadamarteri]] {{goal|18}}
+| stadium = [[Estadio Akron]], [[Zapopan]]
+| attendance = 40,983
+| referee = Gustavo Tejera ([[Uruguayan Football Association|Uruguay]])
+|location   = [[Guadalajara]], Mexico
+|result     = W
+}}
+{{Football box collapsible
+|format=1
+| round = [[2026 FIFA World Cup qualification (inter-confederation play-offs)|2026 FIFA WC inter-confederation play-offs]]
+| date       = 31 March 
+| time       = {{UTZ|15:00|-6}}
+| team1      = {{fb-rt|DRC}}
+| score      = 1–0
+| aet        = yes
+| team2      =  {{fb|JAM}}
+| report     = https://www.fifa.com/en/match-centre/match/520/292616/292617/400021438
+| goals1     =
+* [[Axel Tuanzebe|Tuanzebe]] {{goal|100}}
+| goals2     =
+| location   = [[Guadalajara]], Mexico 
+| stadium    = [[Estadio Akron]] 
+| attendance = 39,983
+| referee    = [[Facundo Tello]] ([[Argentine Football Association|Argentina]]){{efn|Tello suffered an injury in the 114th minute and was replaced by fourth official [[Darío Herrera (referee)|Darío Herrera]] ([[Argentine Football Association|Argentina]]).<ref>{{cite web |url=https://www.primicias.ec/deportes/mundial-2026/envivo-repechaje-uefa-europa-intercontinental-italia-bolivia-clasificados-resultados-ver-partidos-tv-119291/ |title=En vivo {{!}} Estas son las selecciones que ganaron el repechaje y aseguraron su cupo para el Mundial 2026 |trans-title=Live {{!}} These are the teams that won their play-offs and secured their place at the 2026 World Cup |work=Primicias |date=31 March 2026 |access-date=31 March 2026 |language=es}}</ref>}}
+| result     = L
+}}
+{{footballbox collapsible
+|format = 1
+|date = 27 May 2026
+|time = {{UTZ|19:30|+1}}
+|round = [[2026 Unity Cup]]
+|score = 2–0
+|report = 
+|team1 = {{fb-rt|JAM}}
+|goals1 =
+*[[Courtney Clarke|Clarke]] {{goal|8}}
+*[[Kaheim Dixon|Dixon]] {{goal|78}}
+|team2 = {{fb|IND}}
+|goals2 =
+|stadium = [[The Valley (stadium)|The Valley]]
+|location = [[London]], England
+|attendance = 
+|referee = [[Darren England|Darren England]] ([[The Football Association|England]])
+|result = W
+}}
+{{footballbox collapsible
+|format = 1
+|date = 30 May 2026
+|time = {{UTZ|19:30|+1}}
+|round = [[2026 Unity Cup]]
+|score = 3–0
+|report = 
+|team1 = {{fb-rt|NGA}}
+|goals1 =*[[Alhassan Yusuf|Yusuf]] {{goal|3||90+1}}
+*[[Terem Moffi|Moffi]] {{goal|59}}
+|team2 = {{fb|JAM}}
+|goals2 =
+|stadium = [[The Valley (stadium)|The Valley]]
+|location = [[London]], England
+|attendance = 
+|referee = 
+|result = L
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[Exhibition game#Association football|Friendly]]
+|date       = 6 June
+|time       = {{UTZ|15:30|-6}}
+|team1      = {{fb-rt|JAM}}
+|score      = 1–1
+|team2      = {{fb|RSA}}
+|report     = https://www.fifa.com/en/match-centre/match/cesdwwnxbc5fmajgroc0hqzy2/dezv8l0fzgcxtejl0dwmy1gyc/2m1wojm5bt709wu4kugtytxqs/9uj27r45ololxapo6cvath4ic
+|goals1     =
+* [[Dwayne Atkinson|Atkinson]] {{goal|90+3}}
+|goals2     =
+* [[Oswin Appollis|Appollis]] {{goal|32}}
+|location   = [[Pachuca]], Mexico ([[Behind closed doors (sport)|BCD]])
+|stadium    = [[Estadio Hidalgo]]
+|attendance = 
+|referee    = 
+|result     = D
+}}
+
+==Coaching staff==
+{| class="wikitable"
+! colspan="2" style="color:black;background:#FFB81C|Coaching staff
+|-
+! style="color:black;background:#FFB81C|Position
+! style="color:black;background:#FFB81C|Name
+|-
+| Head of Delegation 
+| {{flagicon|JAM}} [[Errol Stevens]]
+|-
+| Head coach
+| vacant
+|-
+| Assistant coach
+| {{flagicon|JAM}} Merron Gordon<br/>{{flagicon|ENG}} Michael Donaldson
+|-
+| Goalkeeper coach
+| vacant
+|-
+| Fitness coach
+| {{flagicon|JAM}} Lamar Morgan
+|-
+| Video Analyst
+| {{flagicon|JAM}} [[Kyle Chin]]
+|-
+| Team Doctor 
+| {{flagicon|JAM}} [[Dr. Derrick McDowell]]
+|-
+| rowspan="2"|Physiotherapist
+| {{flagicon|JAM}} [[Dr. Kevin Christie]] 
+|-
+| {{flagicon|JAM}} Christopher Kelly 
+|-
+| Team Chef 
+| {{flagicon|JAM}} Karl Thomas
+|-
+| Press Officer 
+| {{flagicon|JAM}} [[Simon Preston (Jamaican journalist)|Simon Preston]]
+|-
+| Kit & Equipment
+| {{flagicon|JAM}} Norman Stone
+|-
+| rowspan="2"|Massage Therapist 
+| {{flagicon|JAM}} Alvin Green
+|-
+| {{flagicon|ENG}} Rod Thornley
+|-
+! colspan="2" style="color:black;background:#FFB81C|Technical staff
+|-
+! style="color:black;background:#FFB81C|Position
+! style="color:black;background:#FFB81C|Name
+|-
+|Technical Director
+| {{Flagicon|JAM}} [[Wendell Downswell]]
+|-
+|General Manager
+| {{Flagicon|JAM}} [[Roy Simpson]]
+|}
+
+===Coaching history===
+:Caretaker managers are listed in ''italics''.
+{{div col|colwidth=22em}}
+*{{flagicon|BRA|1968}} [[Jorge Penna]] (1962, 1965–1967)
+*{{flagicon|HAI|1859}} [[Antoine Tassy]] (1962–1964)
+*{{flagicon|JAM}} [[George Hamilton (football manager)|George Hamilton]] (1967)
+*{{flagicon|JAM}} [[George Thomson (football manager)|George Thomson]] (1967–1974)
+*{{flagicon|JAM}} [[George Prescod]] (1974–1975, 1975–1978)
+*{{flagicon|FRG}} [[Otmar Calder]] (1975)
+*{{flagicon|JAM}} [[Jackie Bell (football manager)|Jackie Bell]] (1978–1982)
+*{{flagicon|JAM}} [[Carl Brown (footballer)|Carl Brown]] (1983–1986, 1990–1994, 2001–2004)
+*{{flagicon|JAM}} [[Allie McNab]] (1987)
+*{{flagicon|JAM}} [[Delroy Scott]] (1987–1988)
+*{{flagicon|ENG}} [[Jensen Wright]] (1988–1990)
+*{{flagicon|BRA}} [[René Simões]] (1994–2000, 2008)
+*{{flagicon|BRA}} [[Sebastião Lazaroni]] (2000)
+*{{flagicon|BRA}} [[Clovis de Oliveira]] (2000–2001)
+*{{flagicon|BRA}} ''[[Sebastião Lazaroni]]'' (2004–2005)
+*{{flagicon|JAM}} [[Wendell Downswell]] (2005–2006)
+*{{flagicon|JAM}} ''[[Carl Brown (footballer)|Carl Brown]]'' (2006)
+*{{flagicon|SER|2004}} [[Bora Milutinović]] (2006–2007)
+*{{flagicon|ENG}} [[John Barnes]] (2008–2009)
+*{{flagicon|JAM}} [[Theodore Whitmore]] (2009–2013, 2016–2021)
+*{{flagicon|GER}} [[Winfried Schäfer]] (2013–2016)
+*{{flagicon|JAM}} ''[[Paul Hall (footballer)|Paul Hall]]'' (2021–2022)
+*{{flagicon|JAM}} ''[[Merron Gordon]]'' (2022)
+*{{flagicon|ISL}} [[Heimir Hallgrímsson]] (2022–2024)
+*{{flagicon|ENG}} [[Steve McClaren]] (2024–2025)
+*{{flagicon|JAM}} ''[[Rudolph Speid]]'' (2025–2026)
+{{div col end}}
+
+==Players==
+===Current squad===
+The following players called up for the [[2026 Unity Cup]] in [[London]] between 26–30 May 2026.<ref>{{cite tweet |title=These are your Reggae Boyz for The Unity Cup |number=2057198319122653191 |access-date=21 May 2026 |user=jff_football |author-link=Jamaica Football Federation |date=20 May 2026}}</ref>
+
+''Caps and goals correct as of 31 March 2026, after the match against [[DR Congo national football team|DR Congo]].''
+
+{{nat fs g start}}
+{{nat fs g player|no=|pos=GK|name=[[Coniah Boyce-Clarke]]|age={{birth date and age|2003|03|01|df=yes}}|caps=1|goals=0|club=[[Aldershot Town F.C.|Aldershot Town]]|clubnat=ENG}}
+{{nat fs g player|no=|pos=GK|name=Tafari Chambers|age={{birth date and age|2000|9|1|df=y}}|caps=1|goals=0|club=[[Mount Pleasant F.A.|Mount Pleasant]]|clubnat=JAM}}
+{{nat fs g player|no=|pos=GK|name=Joshua Grant|age={{birth date and age|2007|05|27|df=yes}}|caps=0|goals=0|club=[[FC Naples]]|clubnat=USA}}
+{{nat fs break}}
+{{nat fs g player|no=|pos=DF|name=[[Damion Lowe]]|age={{birth date and age|1993|5|5|df=y}}|caps=79|goals=4|club=[[Dewa United Banten F.C.|Dewa United Banten]]|clubnat=IDN}}
+{{nat fs g player|no=|pos=DF|name=[[Dexter Lembikisa]]|age={{birth date and age|2003|11|4|df=y}}|caps=35|goals=1|club=[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]|clubnat=ENG}}
+{{nat fs g player|no=|pos=DF|name=[[Joel Latibeaudiere]]|age={{birth date and age|2000|1|6|df=y}}|caps=31|goals=0|club=[[Coventry City F.C.|Coventry City]]|clubnat=ENG}}
+{{nat fs g player|no=|pos=DF|name=[[Ronaldo Webster]]|age={{birth date and age|2001|7|4|df=y}}|caps=5|goals=0|club=[[CS Universitatea Craiova|Universitatea Craiova]]|clubnat=ROU}}
+{{nat fs g player|no=|pos=DF|name=Christopher Ainsworth|age={{birth date and age|2005|8|31|df=y}}|caps=3|goals=0|club=[[Cavalier F.C.|Cavalier]]|clubnat=JAM}}
+{{nat fs g player|no=|pos=DF|name=Jeovanni Laing|age={{birth date and age|2000|12|21|df=y}}|caps=0|goals=0|club=[[Cavalier F.C.|Cavalier]]|clubnat=JAM}}
+{{nat fs g player|no=|pos=DF|name=[[Odin Samuels-Smith]]|age={{birth date and age|2006|06|05|df=yes}}|caps=0|goals=0|club=[[Everton F.C.|Everton]]|clubnat=ENG}}
+{{nat fs g player|no=|pos=DF|name=[[Marlon van de Wetering]]|age={{birth date and age|2007|11|26|df=yes}}|caps=0|goals=0|club=[[Excelsior Rotterdam|Excelsior]]|clubnat=NED}}
+{{nat fs break}}
+{{nat fs g player|no=|pos=MF|name=[[Isaac Hayden]]|age={{birth date and age|1995|3|22|df=y}}|caps=14|goals=0|club=[[Queens Park Rangers F.C.|Queens Park Rangers]]|clubnat=ENG}}
+{{nat fs g player|no=|pos=MF|name=[[Brandon Cover]]|age={{birth date and age|2003|9|25|df=y}}|caps=1|goals=0|club=[[Rotherham United F.C.|Rotherham United]]|clubnat=ENG}}
+{{nat fs g player|no=|pos=MF|name=[[Tyrese Hall]]|age={{birth date and age|2005|9|4|df=y}}|caps=1|goals=0|club=[[Notts County F.C.|Notts County]]|clubnat=ENG}}
+{{nat fs g player|no=|pos=MF|name=[[Courtney Clarke]]|age={{birth date and age|2003|04|20|df=yes}}|caps=0|goals=0|club=[[Walsall F.C.|Walsall]]|clubnat=ENG}}
+{{nat fs break}}
+{{nat fs g player|no=|pos=FW|name=[[Kaheim Dixon]]|age={{birth date and age|2004|10|4|df=y}}|caps=24|goals=3|club=[[Charlton Athletic F.C.|Charlton Athletic]]|clubnat=ENG}}
+{{nat fs g player|no=|pos=FW|name=[[Bailey Cadamarteri]]|age={{birth date and age|2005|5|9|df=y}}|caps=6|goals=2|club=[[Wrexham A.F.C.|Wrexham]]|clubnat=WAL}}
+{{nat fs g player|no=|pos=FW|name=[[Dajaune Brown]]|age={{birth date and age|2005|10|16|df=yes}}|caps=0|goals=0|club=[[Port Vale F.C.|Port Vale]]|clubnat=ENG}}
+{{nat fs g player|no=|pos=FW|name=Caelan Cadamarteri|age={{birth date and age|2009|11|03|df=yes}}|caps=0|goals=0|club=[[Manchester City F.C.|Manchester City]]|clubnat=ENG}}
+{{nat fs g player|no=|pos=FW|name=[[Raheem Edwards (footballer, born 2002)|Raheem Edwards]]|age={{birth date and age|2002|8|14|df=y}}|caps=0|goals=0|club=[[Mount Pleasant F.A.|Mount Pleasant]]|clubnat=JAM}}
+{{nat fs g player|no=|pos=FW|name=[[Nickalia Fuller]]|age={{birth date and age|2004|12|16|df=y}}|caps=0|goals=0|club=[[Tivoli Gardens F.C.|Tivoli Gardens]]|clubnat=JAM}}
+{{nat fs g player|no=|pos=FW|name=Dwight Merrick|age={{birth date and age|2003|5|23|df=y}}|caps=0|goals=0|club=[[Montego Bay United F.C.|Montego Bay United]]|clubnat=JAM}}
+{{nat fs g player|no=|pos=FW|name=[[Nicholas Simmonds]]|age={{birth date and age|2006|12|17|df=yes}}|caps=0|goals=0|club=[[FC Dallas]]|clubnat=USA}}
+{{nat fs end}}
+
+===Recent call-ups===
+The following players have also been called up to the team in the past twelve months.
+<!-- Sorted by position, most recent call-up, caps, goals and last name. -->
+{{nat fs r start}}
+{{nat fs r player|no=1|pos=GK|name=[[Andre Blake]]|other=[[Captain (association football)|Captain]]|age={{birth date and age|1990|11|21|df=y}}|caps=94|goals=0|club=[[Philadelphia Union]]|clubnat=USA|latest=v. {{fb|COD}}, 31 March 2026}}
+{{nat fs r player|no=23|pos=GK|name=[[Jahmali Waite]]|age={{birth date and age|1998|12|24|df=y}}|caps=17|goals=0|club=[[Tampa Bay Rowdies]]|clubnat=USA|latest=v. {{fb|COD}}, 31 March 2026}}
+{{nat fs r player|no=13|pos=GK|name=[[Amal Knight]]|age={{birth date and age|1993|11|19|df=y}}|caps=9|goals=0|club=[[Greenville Triumph SC|Greenville Triumph]]|clubnat=USA|latest=v. {{fb|COD}}, 31 March 2026}}
+{{nat fs r player|no=|pos=GK|name=[[Jayden Hibbert]]|age={{birth date and age|2004|8|5|df=y}}|caps=2|goals=0|club=[[Atlanta United FC|Atlanta United]]|clubnat=USA|latest=v. {{fb|NCL}}, 26 March 2026 <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=GK|name=[[Corey Addai]]|age={{birth date and age|1997|10|10|df=y}}|caps=0|goals=0|club=[[Stockport County F.C.|Stockport County]]|clubnat=ENG|latest=v. {{fb|NCL}}, 26 March 2026 <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=GK|name=Daniel Russell|age={{birth date and age|2001|2|10|df=y}}|caps=0|goals=0|club=[[Portmore United F.C.|Portmore United]]|clubnat=JAM|latest=v. {{fb|MTQ}}, 22 February 2026}}
+{{nat fs r player|no=|pos=GK|name=[[Kemar Foster]]|age={{birth date and age|1992|8|30|df=y}}|caps=4|goals=0|club=[[Mount Pleasant F.A.|Mount Pleasant]]|clubnat=JAM|latest=v. {{fb|GRN}}, 18 January 2026}}
+{{nat fs r player|no=|pos=GK|name=[[Shaquan Davis (footballer)|Shaquan Davis]]|age={{birth date and age|2000|11|11|df=y}}|caps=5|goals=0|club=[[Mount Pleasant F.A.|Mount Pleasant]]|clubnat=JAM|latest=v. {{fb|TRI}}, 9 September 2025}}
+{{nat fs break}}
+{{nat fs r player|no=6|pos=DF|name=[[Richard King (footballer)|Richard King]]|age={{birth date and age|2001|11|27|df=y}}|caps=40|goals=1|club=[[St Mirren F.C.|St Mirren]]|clubnat=SCO|latest=v. {{fb|COD}}, 31 March 2026}}
+{{nat fs r player|no=3|pos=DF|name=[[Amari'i Bell]]|age={{birth date and age|1994|5|5|df=y}}|caps=31|goals=2|club=[[Charlton Athletic F.C.|Charlton Athletic]]|clubnat=ENG|latest=v. {{fb|COD}}, 31 March 2026}}
+{{nat fs r player|no=5|pos=DF|name=[[Ethan Pinnock]]|age={{birth date and age|1993|5|29|df=y}}|caps=28|goals=0|club=[[Brentford F.C.|Brentford]]|clubnat=ENG|latest=v. {{fb|COD}}, 31 March 2026}}
+{{nat fs r player|no=19|pos=DF|name=[[Kyle Ming]]|age={{birth date and age|1999|1|25|df=y}}|caps=6|goals=0|club=[[Mount Pleasant F.A.|Mount Pleasant]]|clubnat=JAM|latest=v. {{fb|COD}}, 31 March 2026}}
+{{nat fs r player|no=|pos=DF|name=[[Ian Fray]]|age={{birth date and age|2002|8|31|df=y}}|caps=3|goals=0|club=[[Inter Miami CF|Inter Miami]]|clubnat=USA|latest=v. {{fb|COD}}, 31 March 2026}}
+{{nat fs r player|no=|pos=DF|name=[[Greg Leigh]]|age={{birth date and age|1994|9|30|df=y}}|caps=31|goals=1|club=[[Oxford United F.C.|Oxford United]]|clubnat=ENG|latest=v. {{fb|NCL}}, 26 March 2026 <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=DF|name=[[Mason Holgate]]|age={{birth date and age|1996|10|22|df=y}}|caps=10|goals=0|club=[[Al-Sailiya SC|Al-Sailiya]]|clubnat=QAT|latest=v. {{fb|NCL}}, 26 March 2026 <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=DF|name=[[Tayvon Gray]]|age={{birth date and age|2002|8|19|df=y}}|caps=9|goals=0|club=[[New York City FC|New York City]]|clubnat=USA|latest=v. {{fb|NCL}}, 26 March 2026 <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=DF|name=[[Rico Henry]]|age={{birth date and age|1997|7|8|df=y}}|caps=1|goals=0|club=[[Brentford F.C.|Brentford]]|clubnat=ENG|latest=v. {{fb|NCL}}, 26 March 2026 <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=DF|name=[[Max Aarons]]|age={{birth date and age|2000|1|4|df=y}}|caps=0|goals=0|club=[[Rangers F.C.|Rangers]]|clubnat=SCO|latest=v. {{fb|NCL}}, 26 March 2026 <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=DF|name=[[Kyle Duncan (soccer)|Kyle Duncan]]|age={{birth date and age|1997|8|8|df=y}}|caps=0|goals=0|club=[[Minnesota United FC|Minnesota United]]|clubnat=USA|latest=v. {{fb|NCL}}, 26 March 2026 <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=DF|name=[[Tarick Ximines]]|age={{birth date and age|2004|10|7|df=y}}|caps=2|goals=0|club=[[Portmore United F.C.|Portmore United]]|clubnat=JAM|latest=v. {{fb|MTQ}}, 22 February 2026}}
+{{nat fs r player|no=|pos=DF|name=Kymani Campbell|age={{birth date and age|1999|7|23|df=y}}|caps=1|goals=0|club=[[Waterhouse F.C.|Waterhouse]]|clubnat=JAM|latest=v. {{fb|MTQ}}, 22 February 2026}}
+{{nat fs r player|no=|pos=DF|name=Fitzroy Cummings|age={{birth date and age|1997|11|23|df=y}}|caps=0|goals=0|club=[[Mount Pleasant F.A.|Mount Pleasant]]|clubnat=JAM|latest=v. {{fb|MTQ}}, 22 February 2026}}
+{{nat fs r player|no=|pos=DF|name=Robino Gordon|age={{birth date and age|2005|11|14|df=y}}|caps=0|goals=0|club=[[Chapelton Maroons F.C.|Chapelton Maroons]]|clubnat=JAM|latest=v. {{fb|MTQ}}, 22 February 2026}}
+{{nat fs r player|no=|pos=DF|name=Stephen Young|age={{birth date and age|2001|7|22|df=y}}|caps=0|goals=0|club=[[Portmore United F.C.|Portmore United]]|clubnat=JAM|latest=v. {{fb|MTQ}}, 22 February 2026}}
+{{nat fs r player|no=|pos=DF|name=[[Javain Brown]]|age={{birth date and age|1999|3|9|df=y}}|caps=29|goals=0|club=[[Free agent|''Unattached'']]|clubnat=|latest=v. {{fb|GRN}}, 18 January 2026}}
+{{nat fs r player|no=|pos=DF|name=[[Jamoi Topey]]|age={{birth date and age|2000|1|13|df=y}}|caps=9|goals=0|club=[[Mount Pleasant F.A.|Mount Pleasant]]|clubnat=JAM|latest=v. {{fb|TRI}}, 9 September 2025}}
+{{nat fs r player|no=|pos=DF|name=[[Sue-Lae McCalla]]|age={{birth date and age|1992|11|24|df=y}}|caps=4|goals=1|club=[[RAEC Mons (2015)|Mons]]|clubnat=BEL|latest=[[2025 CONCACAF Gold Cup]]}}
+{{nat fs break}}
+{{nat fs r player|no=10|pos=MF|name=[[Bobby De Cordova-Reid]]|age={{birth date and age|1993|2|2|df=y}}|caps=45|goals=7|club=[[Leicester City F.C.|Leicester City]]|clubnat=ENG|latest=v. {{fb|COD}}, 31 March 2026}}
+{{nat fs r player|no=7|pos=MF|name=[[Leon Bailey]]|age={{birth date and age|1997|8|9|df=y}}|caps=41|goals=7|club=[[Aston Villa F.C.|Aston Villa]]|clubnat=ENG|latest=v. {{fb|COD}}, 31 March 2026}}
+{{nat fs r player|no=|pos=MF|name=[[Kevon Lambert]]|age={{birth date and age|1997|3|22|df=y}}|caps=28|goals=0|club=[[Louisville City FC|Louisville City]]|clubnat=USA|latest=v. {{fb|COD}}, 31 March 2026}}
+{{nat fs r player|no=8|pos=MF|name=[[Kasey Palmer]]|age={{birth date and age|1996|11|9|df=y}}|caps=23|goals=2|club=[[Luton Town F.C.|Luton Town]]|clubnat=ENG|latest=v. {{fb|COD}}, 31 March 2026}}
+{{nat fs r player|no=|pos=MF|name=[[Karoy Anderson]]|age={{birth date and age|2004|10|1|df=y}}|caps=19|goals=0|club=[[Charlton Athletic F.C.|Charlton Athletic]]|clubnat=ENG|latest=v. {{fb|COD}}, 31 March 2026}}
+{{nat fs r player|no=2|pos=MF|name=[[Andre Brooks]]|age={{birth date and age|2003|8|20|df=y}}|caps=1|goals=0|club=[[Sheffield United F.C.|Sheffield United]]|clubnat=ENG|latest=v. {{fb|COD}}, 31 March 2026}}
+{{nat fs r player|no=|pos=MF|name=[[Daniel Johnson (footballer)|Daniel Johnson]]|age={{birth date and age|1992|10|8|df=y}}|caps=26|goals=3|club=[[Fatih Karagümrük S.K.|Fatih Karagümrük]]|clubnat=TUR|latest=v. {{fb|NCL}}, 26 March 2026 <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=MF|name=[[Ravel Morrison]]|age={{birth date and age|1993|2|2|df=y}}|caps=21|goals=2|club=[[Arabian Falcons FC|Arabian Falcons]]|clubnat=UAE|latest=v. {{fb|NCL}}, 26 March 2026 <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=MF|name=[[Tyreek Magee]]|age={{birth date and age|2000|10|9|df=y}}|caps=14|goals=0|club=[[Mount Pleasant F.A.|Mount Pleasant]]|clubnat=JAM|latest=v. {{fb|NCL}}, 26 March 2026 <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=MF|name=[[Dwayne Atkinson]]|age={{birth date and age|2002|5|5|df=y}}|caps=6|goals=0|club=[[Rhode Island FC|Rhode Island]]|clubnat=USA|latest=v. {{fb|NCL}}, 26 March 2026 <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=MF|name=Dwayne Allen|age={{birth date and age|2002|2|9|df=y}}|caps=0|goals=0|club=[[Cavalier F.C.|Cavalier]]|clubnat=JAM|latest=v. {{fb|MTQ}}, 22 February 2026}}
+{{nat fs r player|no=|pos=MF|name=Adrian Reid|age={{birth date and age|2006|9|5|df=y}}|caps=0|goals=0|club=[[Cavalier F.C.|Cavalier]]|clubnat=JAM|latest=v. {{fb|MTQ}}, 22 February 2026}}
+{{nat fs r player|no=|pos=MF|name=Jaheim Thomas|age={{birth date and age|2003|6|21|df=y}}|caps=0|goals=0|club=[[Arnett Gardens F.C.|Arnett Gardens]]|clubnat=JAM|latest=v. {{fb|MTQ}}, 22 February 2026}}
+{{nat fs r player|no=|pos=MF|name=Shamar Watson|age={{birth date and age|2004|7|28|df=y}}|caps=0|goals=0|club=[[Cavalier F.C.|Cavalier]]|clubnat=JAM|latest=v. {{fb|MTQ}}, 22 February 2026}}
+{{nat fs r player|no=|pos=MF|name=[[Jahshaun Anglin]]|age={{birth date and age|2001|5|6|df=y}}|caps=12|goals=0|club=[[Mount Pleasant F.A.|Mount Pleasant]]|clubnat=JAM|latest=v. {{fb|GRN}}, 18 January 2026}}
+{{nat fs r player|no=|pos=MF|name=[[Andre Lewis (footballer)|Andre Lewis]]|age={{birth date and age|1994|8|12|df=y}}|caps=3|goals=0|club=[[Spokane Velocity]]|clubnat=USA|latest=v. {{fb|GRN}}, 18 January 2026}}
+{{nat fs r player|no=|pos=MF|name=[[Jon Russell (footballer)|Jon Russell]]|age={{birth date and age|2000|10|9|df=y}}|caps=17|goals=5|club=[[Mansfield Town F.C.|Mansfield Town]]|clubnat=ENG|latest=v. {{fb|CUW}}, 18 November 2025}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=FW|name=[[Demarai Gray]]|age={{birth date and age|1996|6|28|df=y}}|caps=29|goals=7|club=[[Birmingham City F.C.|Birmingham City]]|clubnat=ENG|latest=v. {{fb|COD}}, 31 March 2026}}
+{{nat fs r player|no=20|pos=FW|name=[[Renaldo Cephas]]|age={{birth date and age|1999|10|8|df=y}}|caps=28|goals=3|club=[[FC Pari Nizhny Novgorod|Pari Nizhny Novgorod]]|clubnat=RUS|latest=v. {{fb|COD}}, 31 March 2026}}
+{{nat fs r player|no=18|pos=FW|name=[[Jamal Lowe]]|age={{birth date and age|1994|7|21|df=y}}|caps=10|goals=0|club=[[Sheffield Wednesday F.C.|Sheffield Wednesday]]|clubnat=ENG|latest=v. {{fb|COD}}, 31 March 2026}}
+{{nat fs r player|no=12|pos=FW|name=[[Norman Campbell (footballer)|Norman Campbell]]|age={{birth date and age|1999|11|24|df=y}}|caps=8|goals=0|club=[[V-Varen Nagasaki]]|clubnat=JPN|latest=v. {{fb|COD}}, 31 March 2026}}
+{{nat fs r player|no=11|pos=FW|name=[[Tyreece Campbell]]|age={{birth date and age|2003|9|14|df=y}}|caps=8|goals=0|club=[[Charlton Athletic F.C.|Charlton Athletic]]|clubnat=ENG|latest=v. {{fb|COD}}, 31 March 2026}}
+{{nat fs r player|no=4|pos=FW|name=[[Ephron Mason-Clark]]|age={{birth date and age|1999|8|25|df=y}}|caps=2|goals=0|club=[[Coventry City F.C.|Coventry City]]|clubnat=ENG|latest=v. {{fb|COD}}, 31 March 2026}}
+{{nat fs r player|no=|pos=FW|name=[[Shamar Nicholson]]|other=[[Captain (association football)|Third Captain]]|age={{birth date and age|1997|2|16|df=y}}|caps=62|goals=21|club=[[FC Maxline Vitebsk|Maxline Vitebsk]]|clubnat=BLR|latest=v. {{fb|NCL}}, 26 March 2026 <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=FW|name=[[Cory Burke]]|age={{birth date and age|1996|6|28|df=y}}|caps=35|goals=9|club=[[Free agent|''Unattached'']]|clubnat=|latest=v. {{fb|NCL}}, 26 March 2026 <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=FW|name=[[Dujuan Richards]]|age={{birth date and age|2005|11|10|df=y}}|caps=14|goals=2|club=[[Leicester City F.C.|Leicester City]]|clubnat=ENG|latest=v. {{fb|NCL}}, 26 March 2026 <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=FW|name=[[Warner Brown]]|age={{birth date and age|2002|8|19|df=y}}|caps=9|goals=4|club=[[Mount Pleasant F.A.|Mount Pleasant]]|clubnat=JAM|latest=v. {{fb|NCL}}, 26 March 2026 <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=FW|name=[[Rumarn Burrell]]|age={{birth date and age|2000|12|16|df=y}}|caps=5|goals=1|club=[[Queens Park Rangers F.C.|Queens Park Rangers]]|clubnat=ENG|latest=v. {{fb|NCL}}, 26 March 2026 <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=FW|name=[[Trivante Stewart]]|age={{birth date and age|2000|3|22|df=y}}|caps=4|goals=0|club=[[Maccabi Haifa F.C.|Maccabi Haifa]]|clubnat=ISR|latest=v. {{fb|NCL}}, 26 March 2026 <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=FW|name=[[Cameron Archer]]|age={{birth date and age|2001|12|9|df=y}}|caps=0|goals=0|club=[[Southampton F.C.|Southampton]]|clubnat=ENG|latest=v. {{fb|NCL}}, 26 March 2026 <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=FW|name=[[Keinan Davis]]|age={{birth date and age|1998|2|13|df=y}}|caps=0|goals=0|club=[[Udinese Calcio|Udinese]]|clubnat=ITA|latest=v. {{fb|NCL}}, 26 March 2026 <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=FW|name=[[Daniel Green (Jamaican footballer)|Daniel Green]]|age={{birth date and age|1997|6|10|df=y}}|caps=7|goals=1|club=[[Mount Pleasant F.A.|Mount Pleasant]]|clubnat=JAM|latest=v. {{fb|MTQ}}, 22 February 2026}}
+{{nat fs r player|no=|pos=FW|name=Tajay Grant|age={{birth date and age|2002|1|12|df=y}}|caps=0|goals=0|club=Racing United|clubnat=JAM|latest=v. {{fb|MTQ}}, 22 February 2026}}
+{{nat fs r player|no=|pos=FW|name=Rushike Kelson|age={{birth date and age|2002|11|17|df=y}}|caps=0|goals=0|club=[[Arnett Gardens F.C.|Arnett Gardens]]|clubnat=JAM|latest=v. {{fb|MTQ}}, 22 February 2026}}
+{{nat fs r player|no=|pos=FW|name=[[Romario Williams]]|age={{birth date and age|1994|8|15|df=y}}|caps=24|goals=4|club=[[Birmingham Legion FC|Birmingham Legion]]|clubnat=USA|latest=v. {{fb|GRN}}, 18 January 2026}}
+{{nat fs r player|no=|pos=FW|name=[[Jourdaine Fletcher]]|age={{birth date and age|1997|9|23|df=y}}|caps=8|goals=2|club=[[Haiphong FC|Hải Phòng]]|clubnat=VIE|latest=v. {{fb|GRN}}, 18 January 2026}}
+{{nat fs r player|no=|pos=FW|name=[[Trayvone Reid]]|age={{birth date and age|2000|2|25|df=y}}|caps=0|goals=0|club=[[Harbour View F.C.|Harbour View]]|clubnat=JAM|latest=v. {{fb|GRN}}, 18 January 2026}}
+{{nat fs r player|no=|pos=FW|name=[[Seymour Reid (footballer)|Seymour Reid]]|age={{birth date and age|2008|3|4|df=y}}|caps=0|goals=0|club=[[New York City FC|New York City]]|clubnat=USA|latest=v. {{fb|BER}}, 14 October 2025}}
+{{nat fs r player|no=|pos=FW|name=[[Michail Antonio]]|age={{birth date and age|1990|3|28|df=y}}|caps=24|goals=5|club=[[Free agent|''Unattached'']]|clubnat=|latest=v. {{fb|TRI}}, 9 September 2025}}
+{{nat fs r player|no=|pos=FW|name=[[Malik Mothersille]]|age={{birth date and age|2003|10|23|df=y}}|caps=1|goals=0|club=[[Stockport County F.C.|Stockport County]]|clubnat=ENG|latest=v. {{fb|NGA}}, 31 May 2025}}
+{{nat fs break}}
+<sup>INJ</sup> Withdrew from the squad due to injury / absent from the national team due to injury.<br/>
+<sup>WD</sup> Withdrew from the squad for personal reasons.<br/>
+<sup>PRE</sup> Preliminary squad / standby.<br/>
+<sup>RET</sup> Retired from the national team.
+{{nat fs end}}
+
+==Player records==
+{{updated|14 October 2025}}<ref name="rsssf Jamaica players">{{cite web |url=https://www.rsssf.org/miscellaneous/jam-recintlp.html |title=Jamaica – Record International Players |access-date=18 November 2018 |archive-date=3 June 2021 |website=[[RSSSF]] |archive-url=https://web.archive.org/web/20210603081543/http://www.rsssf.com/miscellaneous/jam-recintlp.html |url-status=live }}</ref>
+:''Players in '''bold''' are still active with Jamaica.''
+
+===Most appearances===
+[[File:Ian Goodison 1.jpg|175px|right|thumb|[[Ian Goodison]] is Jamaica's most capped player with 128 appearances.]]
+
+{| class="wikitable sortable" style="text-align:center;"
+|-
+!width=30px|Rank
+! style="width:150px;"|Player
+!width=50px|Caps
+!width=50px|Goals
+! style="width:100px;"|Career
+|-
+| 1 ||align=left| [[Ian Goodison]] || 128 || 10 || 1996–2008
+|-
+| 2 ||align=left| [[Linval Dixon]] || 127 || 3 || 1993–2003
+|-
+| 3 ||align=left| [[Theodore Whitmore]] || 120 || 24 || 1993–2004
+|-
+| 4 ||align=left| [[Ricardo Gardner]] || 111 || 9 || 1997–2012
+|-
+| 5 ||align=left| [[Warren Barrett]] || 108 || 0 || 1990–2000
+|-
+| 6 ||align=left| [[Andy Williams (Jamaican footballer)|Andy Williams]] || 107 || 22 || 1997–2008
+|-
+| 7 ||align=left| [[Durrant Brown]] || 102 || 0 || 1984–1998
+|-
+| 8 ||align=left| [[Jermaine Taylor (footballer)|Jermaine Taylor]] || 101 || 0 || 2004–2017
+|-
+| 9 ||align=left| [[Donovan Ricketts]] || 100 || 0 || 1999–2013
+|-
+| 10 ||align=left| [[Jevaughn Watson]] || 95 || 4 || 2008–2022
+|}
+
+===Top goalscorers===
+[[File:LutonShelton (cropped).JPG|175px|right|thumb|[[Luton Shelton]] is Jamaica's top scorer with 35 goals.]]
+
+{| class="wikitable sortable" style="text-align:center;"
+|-
+!width=30px|Rank
+! style="width:150px;"|Player
+! style="width:50px;"|Goals
+! style="width:50px;"|Caps
+! style="width:50px;"|Ratio
+! style="width:100px;"|Career
+|-
+| 1 ||align=left| [[Luton Shelton]] || 35 || 75 || {{#expr:35/75 round 2}} || 2004–2013
+|-
+| 2 ||align=left| [[Onandi Lowe]] || 27 || 81 || {{#expr:27/81 round 2}} || 1995–2004
+|-
+| 3 ||align=left| [[Theodore Whitmore]] || 24 || 120 || {{#expr:24/120 round 2}} || 1993–2004
+|-
+| rowspan="2"|4 ||align=left| [[Paul Young (footballer, born 1968)|Paul Young]] || 22 || 49 || {{#expr:22/49 round 2}} || 1989–1997
+|-
+|align=left| [[Andy Williams (Jamaican footballer)|Andy Williams]] || 22 || 107 || {{#expr:22/107 round 2}} || 1997–2008
+|-
+| 6 ||align=left| '''[[Shamar Nicholson]]''' || 21 || 61 || {{#expr:21/61 round 2}} || 2017–present 
+|-
+| 7 ||align=left| [[Walter Boyd (Jamaican footballer)|Walter Boyd]] || 19 || 75 || {{#expr:19/75 round 2}} || 1991–2001
+|-
+| rowspan="2"|8 ||align=left| [[Darren Mattocks]] || 18 || 50 || {{#expr:18/50 round 2}} || 2012–2019
+|-
+|align=left| [[Paul Davis (footballer, born 1962)|Paul Davis]] || 18 || 61 || {{#expr:18/61 round 2}} || 1983–1997
+|-
+| 10 ||align=left| [[Hector Wright]] || 16 || 71 || {{#expr:16/71 round 2}} || 1988–1997
+|}
+
+==Competitive record==
+{| class="wikitable" style="text-align:center;"
+|-
+!colspan="5" | Overview
+|-
+! Event
+!style="width:14%; background:gold;"|Titles
+!style="width:14%; background:silver;"|Runners-up 
+!style="width:14%; background:#c96;"|3rd place
+!style="width:14%; background:#9acdff;"|4th place
+|-
+|align=left|[[FIFA World Cup|World Cup]]
+! 0
+! 0
+! 0
+! 0 
+|-
+|align=left|[[CONCACAF Gold Cup]]
+! 0
+! 2
+! 2
+! 2
+|-
+|align=left|[[CONCACAF Nations League]]
+! 0
+! 0
+! 1
+! 0
+|-
+|align=left|[[Caribbean Cup]]
+! 6
+! 3
+! 2
+! 0
+|-
+|align=left|[[Copa América]]
+! 0
+! 0
+! 0
+! 0
+|}
+
+===FIFA World Cup===
+{{main|Jamaica at the FIFA World Cup}}
+
+Jamaica's only appearance at the FIFA World Cup was in 1998. The team opened with a 3–1 loss against [[Croatia national football team|Croatia]] in Lens. After falling behind in the 27th minute, [[Robbie Earle]] scored the equalizer to close the first half. In the second half, Croatia scored two goals, causing Jamaica to lose the match.<ref>{{cite web|url=https://www.chicagotribune.com/news/ct-xpm-1998-06-15-9806150083-story.html|title=Croatia 3, Jamaica 1|first=Bonnie|last=DeSimone|location=Lens|work=Chicago Tribune|date=15 June 1998|access-date=13 June 2019|archive-date=7 November 2021|archive-url=https://web.archive.org/web/20211107053017/https://www.chicagotribune.com/|url-status=live}}</ref> The second match against [[Argentina national football team|Argentina]] saw [[Gabriel Batistuta]] getting a second half hat-trick, aiding in Jamaica's second defeat and elimination from the World Cup.<ref>{{cite web|url=https://www.thefreelibrary.com/Hat-trick+helps+finish+the+Reggae+Boyz%3b+ARGENTINA+5+JAMAICA+0.-a060783024|title=Hat-trick helps finish the Reggae Boyz; Argentina 5 Jamaica 0.|work=Birmingham Post|date=22 June 1998|access-date=13 June 2019|archive-date=7 November 2021|archive-url=https://web.archive.org/web/20211107053018/https://www.thefreelibrary.com/Hat-trick+helps+finish+the+Reggae+Boyz%3B+ARGENTINA+5+JAMAICA+0.-a060783024|url-status=live}}</ref> In the final match of the tournament, Theodore Whitmore scored a double, securing Jamaica's first World Cup win with a 2–1 win over Japan, whilst also allowing Jamaica to become the second team from the Caribbean after Cuba to have won a World Cup game.<ref name=JapanvsJamaica1998/>
+
+{| class="wikitable" style="text-align: center;font-size:100%;"
+!colspan="11"|[[FIFA World Cup]]
+!rowspan="22"|
+!colspan="7"|[[FIFA World Cup qualification|Qualification]]
+|-
+!Year
+!Host
+!Round
+!{{Tooltip|Pos.|Position}}
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Games won}}
+!{{Tooltip|D|Games drawn, including knockout matches decided on penalty kicks}}
+!{{Tooltip|L|Games lost}}
+!{{Tooltip|F|Goals scored}}
+!{{Tooltip|A|Goals conceded}}
+!Squad
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Games won}}
+!{{Tooltip|D|Games drawn}}
+!{{Tooltip|L|Games lost}}
+!{{Tooltip|F|Goals scored}}
+!{{Tooltip|A|Goals conceded}}
+|-
+|colspan="2"|[[1930 FIFA World Cup|1930]] to [[1962 FIFA World Cup|1962]]
+|colspan=9|''Not a FIFA member''
+|colspan=7|''Not a FIFA member''
+|-
+|[[1966 FIFA World Cup|1966]]
+|align=left|{{flag|England}}
+|colspan=9 rowspan=2|''Did not qualify''
+|8
+|2
+|2
+|4
+|8
+|21
+|-
+|[[1970 FIFA World Cup|1970]]
+|align=left|{{flag|Mexico}}
+|4
+|0
+|0
+|4
+|2
+|11
+|-
+|[[1974 FIFA World Cup|1974]]
+|align=left|{{flag|West Germany}}
+|colspan=9|''Withdrew''
+|colspan=6|''Withdrew''
+|-
+|[[1978 FIFA World Cup|1978]]
+|align=left|{{flag|Argentina}}
+|colspan=9|''Did not qualify''
+|2
+|0
+|0
+|2
+|1
+|5
+|-
+|[[1982 FIFA World Cup|1982]]
+|align=left|{{flag|Spain}}
+|colspan=9|''Did not participate''
+|colspan=6|''Declined participation''
+|-
+|[[1986 FIFA World Cup|1986]]
+|align=left|{{flag|Mexico}}
+|colspan=9|''Withdrew''
+|colspan=6|''Withdrew''
+|-
+|[[1990 FIFA World Cup|1990]]
+|align=left|{{flag|Italy}}
+|colspan=9 rowspan=2|''Did not qualify''
+|4
+|2
+|1
+|1
+|4
+|6
+|-
+|[[1994 FIFA World Cup|1994]]
+|align=left|{{flag|United States}}
+|10
+|4
+|3
+|3
+|12
+|12
+|-
+|[[1998 FIFA World Cup|1998]]
+|align=left|{{flag|France|1974}}
+|'''Group stage'''
+|22nd
+|3
+|1
+|0
+|2
+|3
+|9
+|[[1998 FIFA World Cup squads#Jamaica|Squad]]
+|20
+|11
+|6
+|3
+|24
+|15
+|-
+|[[2002 FIFA World Cup|2002]]
+|align=left|{{flag|Japan}}<br>{{flag|South Korea}}
+|colspan=9 rowspan=7|''Did not qualify''
+|16
+|6
+|2
+|8
+|14
+|18
+|-
+|[[2006 FIFA World Cup|2006]]
+|align=left|{{flag|Germany}}
+|8
+|2
+|5
+|1 
+|11 
+|6 
+|-
+|[[2010 FIFA World Cup|2010]]
+|align=left|{{flag|South Africa}}
+|8
+|5
+|1
+|2
+|19 
+|6 
+|-
+|[[2014 FIFA World Cup|2014]]
+|align=left|{{flag|Brazil}}
+|16
+|3
+|6
+|7
+|14
+|19
+|-
+|[[2018 FIFA World Cup|2018]]
+|align=left|{{flag|Russia}}
+|8
+|2
+|1
+|5
+|6
+|13
+|-
+|[[2022 FIFA World Cup|2022]]
+|align=left|{{flag|Qatar}}
+|14
+|2
+|5
+|7
+|12
+|22
+|-
+|[[2026 FIFA World Cup|2026]]
+|align=left|{{flag|Canada}}<br>{{flag|Mexico}}<br>{{flag|United States}}
+|12
+|8
+|2
+|2
+|20
+|6
+|-
+|[[2030 FIFA World Cup|2030]]
+|align=left|{{flag|Morocco}}<br>{{flag|Portugal}}<br>{{flag|Spain}}
+|colspan=9 rowspan=2|''To be determined''
+|colspan=6 rowspan=2|''To be determined''
+|-
+|[[2034 FIFA World Cup|2034]]
+|align=left|{{flag|Saudi Arabia}}
+|-
+!colspan=2|Total:{{Tooltip|1/15|Number of tournaments qualified for}}
+!{{nowrap|Group stage}}
+!22nd
+!3
+!1
+!0
+!2
+!3
+!9
+!—
+!130
+!47
+!34
+!49
+!147
+!160
+|}
+{| class="wikitable collapsible collapsed" style="text-align: center;font-size:90%;"
+|-
+!" colspan=2|FIFA World Cup history
+|-
+!First match
+|{{fb|JAM}} 1–3 {{fb-rt|CRO}}<br/> (14 June 1998; [[Lens, France|Lens]], France)
+|-
+!Biggest Win
+|{{fb|JPN}} 1–2 {{fb-rt|JAM}}<br/> (26 June 1998; [[Lyon]], France)
+|-
+!Biggest Defeat
+|{{fb|ARG}} 5–0 {{fb-rt|JAM}}<br/> (21 June 1998; [[Paris]], France)
+|-
+!Best Result
+|Group stage ([[FIFA World Cup 1998|1998]])
+|-
+!Worst Result
+|—
+|}
+
+===CONCACAF Gold Cup===
+{{main|Jamaica at the CONCACAF Gold Cup}}
+
+''CONCACAF Championship 1963–1989, CONCACAF Gold Cup 1991–present''
+
+{| class="wikitable" style="text-align: center;font-size:100%;"
+|-
+!colspan=11|[[CONCACAF Championship]] / [[CONCACAF Gold Cup|Gold Cup]] record
+!width=1% rowspan=31|
+!colspan=6|[[CONCACAF Gold Cup qualification|Qualification]] record
+|-
+!width=50|Year
+!Host
+!scope="col" width=95|Round
+!scope="col" width=60|Position
+!scope="col" width=20|{{Abbr|Pld|Games played}}
+!scope="col" width=20|{{Abbr|W|Won}}
+!scope="col" width=20|{{Abbr|D|Games drawn, including knockout matches decided on penalty kicks}}
+!scope="col" width=20|{{Abbr|L|Lost}}
+!scope="col" width=20|{{Abbr|GF|Goals for}}
+!scope="col" width=20|{{Abbr|GA|Goals against}}
+!scope="col" width=60|Squad
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+|-
+||[[1963 CONCACAF Championship|1963]]
+|align=left|{{flag|El Salvador}}
+|Group stage
+|8th
+|3
+|0
+|0
+|3
+|1
+|16
+|Squad
+|colspan=6|''Qualified automatically''
+|-
+|[[1965 CONCACAF Championship|1965]]
+|align=left|{{flag|Guatemala}}
+|colspan=9|''Did not participate''
+|colspan=6|''Did not participate''
+|-
+|[[1967 CONCACAF Championship|1967]]
+|align=left|{{flag|Honduras|1949}}
+|colspan=9|''Did not qualify''
+|4
+|1
+|2
+|1
+|4
+|4
+|-
+|[[1969 CONCACAF Championship|1969]]
+|align=left|{{flag|Costa Rica}}
+|Round-robin
+|6th
+|5
+|0
+|1
+|4
+|3
+|10
+|Squad
+|2
+|1
+|1
+|0
+|3
+|2
+|-
+|[[1971 CONCACAF Championship|1971]]
+|align=left|{{flag|Trinidad and Tobago}}
+|colspan=9|''Did not qualify''
+|2
+|0
+|1
+|1
+|0
+|1
+|-
+|[[1973 CONCACAF Championship|1973]]
+|align=left|{{flag|Haiti|1964}}
+|colspan=9|''Did not participate''
+|colspan=6|''Did not participate''
+|-
+|[[1977 CONCACAF Championship|1977]]
+|align=left|{{flag|Mexico}}
+|colspan=9|''Withdrew''
+|colspan=6|''Withdrew''
+|-
+|[[1981 CONCACAF Championship|1981]]
+|align=left|{{flag|Honduras|1949}}
+|colspan=9|''Did not participate''
+|colspan=6|''Did not participate''
+|-
+|[[1985 CONCACAF Championship|1985]]
+|rowspan=2 align=left| Multiple
+|colspan=9|''Withdrew''
+|colspan=6|''Withdrew''
+|-
+|[[1989 CONCACAF Championship|1989]]
+|colspan=9|''Did not qualify''
+|4
+|2
+|1
+|1
+|4
+|6
+|-
+|[[1991 CONCACAF Gold Cup|1991]]
+|align=left|{{flag|United States}}
+|Group stage
+|8th
+|3
+|0
+|0
+|3
+|3
+|12
+|[[1991 CONCACAF Gold Cup squads#Jamaica|Squad]]
+|4
+|4
+|0
+|0
+|13
+|2
+|- style="background:#c96;"
+|[[1993 CONCACAF Gold Cup|1993]]
+|align=left|{{flag|Mexico}}<br>{{flag|United States}}
+|'''Third place'''
+|'''3rd'''
+|'''5'''
+|'''1'''
+|'''2'''
+|'''2'''
+|'''6'''
+|'''10'''
+|'''[[1993 CONCACAF Gold Cup squads#Jamaica|Squad]]'''
+|5
+|4
+|1
+|0
+|10
+|1
+|-
+|[[1996 CONCACAF Gold Cup|1996]]
+|align=left|{{flag|United States}}
+|colspan=9|''Did not qualify''
+|3
+|2
+|0
+|1
+|4
+|3
+|- style="background:#9acdff;"
+|[[1998 CONCACAF Gold Cup|1998]]
+|align=left|{{flag|United States}}
+|'''Fourth place'''
+|'''4th'''
+|'''5'''
+|'''2'''
+|'''1'''
+|'''2'''
+|'''5'''
+|'''4'''
+|'''[[1998 CONCACAF Gold Cup squads#Jamaica|Squad]]'''
+|7
+|5
+|2
+|0
+|18
+|5
+|-
+|[[2000 CONCACAF Gold Cup|2000]]
+|align=left|{{flag|United States}}
+|Group stage
+|12th
+|2
+|0
+|0
+|2
+|0
+|3
+|[[2000 CONCACAF Gold Cup squads#Jamaica|Squad]]
+|5
+|5
+|0
+|0
+|12
+|4
+|-
+|[[2002 CONCACAF Gold Cup|2002]]
+|align=left|{{flag|United States}}
+|colspan=9|''Did not qualify''
+|3
+|2
+|0
+|1
+|4
+|3
+|-
+|[[2003 CONCACAF Gold Cup|2003]]
+|align=left|{{flag|United States}}
+|rowspan=2|Quarter-finals
+|7th
+|3
+|1
+|0
+|2
+|2
+|6
+|[[2003 CONCACAF Gold Cup squads#Jamaica|Squad]]
+|6
+|4
+|2
+|0
+|17
+|4
+|-
+|[[2005 CONCACAF Gold Cup|2005]]
+|align=left|{{flag|United States}}
+|8th
+|4
+|1
+|1
+|2
+|8
+|10
+|[[2005 CONCACAF Gold Cup squads#Jamaica|Squad]]
+|10
+|8
+|2
+|0
+|38
+|5
+|-
+|[[2007 CONCACAF Gold Cup|2007]]
+|align=left|{{flag|United States}}
+|colspan=9|''Did not qualify''
+|3
+|2
+|0
+|1
+|7
+|2
+|-
+|[[2009 CONCACAF Gold Cup|2009]]
+|align=left|{{flag|United States}}
+|Group stage
+|10th
+|3
+|1
+|0
+|2
+|1
+|2
+|[[2009 CONCACAF Gold Cup squads#Jamaica|Squad]]
+|5
+|4
+|1
+|0
+|11
+|2
+|-
+|[[2011 CONCACAF Gold Cup|2011]]
+|align=left|{{flag|United States}}
+|Quarter-finals
+|5th
+|4
+|3
+|0
+|1
+|7
+|2
+|[[2011 CONCACAF Gold Cup squads#Jamaica|Squad]]
+|5
+|4
+|1
+|0
+|12
+|3
+|-
+|[[2013 CONCACAF Gold Cup|2013]]
+|align=left|{{flag|United States}}
+|colspan=9|''Did not qualify''
+|3
+|0
+|1
+|2
+|1
+|3
+|- style="background:silver;"
+|[[2015 CONCACAF Gold Cup|2015]]
+|align=left|{{flag|Canada}}<br>{{flag|United States}}
+|'''[[2015 CONCACAF Gold Cup Final|Runners-up]]'''
+|'''2nd'''
+|'''6'''
+|'''4'''
+|'''1'''
+|'''1'''
+|'''8'''
+|'''6'''
+|'''[[2015 CONCACAF Gold Cup squads#Jamaica|Squad]]'''
+|4
+|2
+|2
+|0
+|6
+|1
+|- style="background:silver;"
+|[[2017 CONCACAF Gold Cup|2017]]
+|align=left|{{flag|United States}}
+|'''[[2017 CONCACAF Gold Cup Final|Runners-up]]'''
+|'''2nd'''
+|'''6'''
+|'''3'''
+|'''2'''
+|'''1'''
+|'''7'''
+|'''4'''
+|'''[[2017 CONCACAF Gold Cup squads#Jamaica|Squad]]'''
+|4
+|2
+|1
+|1
+|7
+|5
+|- style="background:#9acdff;"
+|[[2019 CONCACAF Gold Cup|2019]]
+|align=left|{{flag|Costa Rica}}<br>{{flag|Jamaica}}<br>{{flag|United States}}
+|'''Semi-finals'''
+|'''4th'''
+|'''5'''
+|'''2'''
+|'''2'''
+|'''1'''
+|'''6'''
+|'''6'''
+|'''[[2019 CONCACAF Gold Cup squads#Jamaica|Squad]]'''
+|4
+|3
+|0
+|1
+|12
+|3
+|-
+|[[2021 CONCACAF Gold Cup|2021]]
+|align=left|{{flag|United States}}
+|Quarter-finals
+|7th
+|4
+|2
+|0
+|2
+|4
+|3
+|[[2021 CONCACAF Gold Cup squads#Jamaica|Squad]]
+|6
+|5
+|1
+|0
+|21
+|1
+|- style="background:#c96;"
+|[[2023 CONCACAF Gold Cup|2023]]
+|align=left|{{flag|Canada}}<br>{{flag|United States}}
+|'''Semi-finals'''
+|'''3rd'''
+|'''5'''
+|'''3'''
+|'''1'''
+|'''1'''
+|'''11'''
+|'''5'''
+|'''[[2023 CONCACAF Gold Cup squads#Jamaica|Squad]]'''
+|4
+|1
+|3
+|0
+|7
+|5
+|- 
+|[[2025 CONCACAF Gold Cup|2025]]
+|align=left|{{flag|Canada}}<br>{{flag|United States}}
+|Group stage
+|9th
+|3
+|1
+|0
+|2
+|3
+|6
+|[[2025 CONCACAF Gold Cup squads#Jamaica|Squad]]
+|6
+|2
+|2
+|2
+|6
+|6
+|-
+!colspan=2|Total
+!Runners-up
+!16/28
+!66
+!24
+!11
+!31
+!75
+!105
+!—
+!99
+!63
+!24
+!12
+!217
+!71
+|}
+{| class="wikitable collapsible collapsed" style="text-align: center;font-size:90%;"
+|-
+! colspan=2|CONCACAF Championship & Gold Cup history
+|-
+!First match
+|{{fb|CRC}} 6–0 {{fb-rt|JAM}}<br/> (24 March 1963; [[Santa Ana, El Salvador|Santa Ana]], El Salvador)
+|-
+!Biggest Win
+|{{fb|JAM}} 5–0 {{fb-rt|SKN}}<br/> (2 July 2023; [[Santa Clara, California|Santa Clara]], United States)
+|-
+!Biggest Defeat
+|{{fb|MEX}} 8–0 {{fb-rt|JAM}}<br/> (28 March 1963; [[Santa Ana, El Salvador|Santa Ana]], El Salvador)
+|-
+!Best Result
+|'''Runners-up''' ([[CONCACAF Gold Cup 2015|2015]], [[2017 CONCACAF Gold Cup|2017]])
+|-
+!Worst Result
+|Group stage ([[1963 CONCACAF Championship|1963]], [[1991 CONCACAF Gold Cup|1991]], [[2000 CONCACAF Gold Cup|2000]], [[2009 CONCACAF Gold Cup|2009]], [[2025 CONCACAF Gold Cup|2025]])
+|}
+
+===CONCACAF Nations League===
+{| class="wikitable" style="text-align: center;"
+|-
+! colspan="21" |[[CONCACAF Nations League]] record
+|-
+! colspan="11" |League phase
+! rowspan="7" |
+! colspan="9" |Final phase
+|-
+!Season
+!Division
+!Group
+!Seed
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!{{Tooltip|P/R|Promotion/Relegation at end of season}}
+!Finals
+!Result
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!{{Tooltip|Squad|Finals Squad Only}}
+|-
+|[[2019–20 CONCACAF Nations League|2019−20]]
+|[[2019–20 CONCACAF Nations League B|B]]
+|[[2019–20 CONCACAF Nations League B#Group C|C]]
+|—
+|6
+|5
+|1
+|0
+|21
+|1
+|{{rise}}
+|{{flagicon|USA}} [[2021 CONCACAF Nations League Finals|2021]]
+| colspan="8" |''Ineligible''
+|-
+|[[2022–23 CONCACAF Nations League|2022–23]]
+|[[2022–23 CONCACAF Nations League A|A]]
+|[[2022–23 CONCACAF Nations League A#Group A|A]]
+|—
+|4
+|1
+|3
+|0
+|7
+|5
+|{{same position}}
+|{{flagicon|USA}} [[2023 CONCACAF Nations League Finals|2023]]
+| colspan="8" |''Did not qualify''
+|- style="background:#c96;"
+|bgcolor="#f8f9fa"|[[2023–24 CONCACAF Nations League|2023–24]]
+|bgcolor="#f8f9fa"|[[2023–24 CONCACAF Nations League A|A]]
+|bgcolor="#f8f9fa"|[[2023–24 CONCACAF Nations League A#Group B|B]]
+|bgcolor="#f8f9fa"|6th
+|bgcolor="#f8f9fa"|4
+|bgcolor="#f8f9fa"|3
+|bgcolor="#f8f9fa"|1
+|bgcolor="#f8f9fa"|0
+|bgcolor="#f8f9fa"|10
+|bgcolor="#f8f9fa"|5
+|bgcolor="#f8f9fa"|{{same position}}
+|{{flagicon|USA}} [[2024 CONCACAF Nations League Finals|2024]]
+|'''[[2024 CONCACAF Nations League Finals|Third place]]'''
+|'''4'''
+|'''2'''
+|'''0'''
+|'''2'''
+|'''6'''
+|'''7'''
+|[[2024 CONCACAF Nations League Finals squads#Jamaica|Squad]]
+|-
+|[[2024–25 CONCACAF Nations League|2024–25]]
+|[[2024–25 CONCACAF Nations League A|A]]
+|[[2024–25 CONCACAF Nations League A#Group B|B]]
+|6th
+|4
+|2
+|2
+|0
+|4
+|1
+|{{same position}}
+|{{flagicon|USA}} [[2025 CONCACAF Nations League Finals|2025]]
+|Quarter-finals
+|2
+|1
+|0
+|1
+|2
+|5
+|—
+|-
+!Total
+!—
+!—
+!—
+!18
+!11
+!7
+!0
+!42
+!12
+!—
+!Total
+!Third place
+!6
+!3
+!0
+!3
+!8
+!12
+!—
+|}
+{| class="wikitable collapsible collapsed" style="text-align: center;font-size:90%;"
+|-
+! colspan=2|CONCACAF Nations League history
+|-
+!First match
+|{{fb|JAM}} 6–0 {{fb-rt|ATG}}<br/>(6 September 2019; [[Montego Bay]], Jamaica)
+|-
+!Biggest Win
+|{{fb|JAM}} 6–0 {{fb-rt|ATG}}<br/>(6 September 2019; [[Montego Bay]], Jamaica)<br/>{{fb|ARU}} 0–6 {{fb-rt|JAM}}<br/>(15 October 2019; [[Willemstad]], Curaçao)
+|-
+!Biggest Defeat
+|{{fb|USA}} 3–1 {{aet}} {{fb-rt|JAM}}<br/>(21 March 2024; [[Arlington, Texas|Arlington]], United States)<br/>{{fb|USA}} 4–2 {{fb-rt|JAM}}<br/>(18 November 2024; [[St. Louis]], United States)
+|-
+!Best Result
+|Third place ([[2023–24 CONCACAF Nations League|2023–24]])
+|-
+!Worst Result
+|13th place ([[2019–20 CONCACAF Nations League|2019–20]])
+|}
+
+===Copa América===
+{{main|Jamaica at the Copa América}}
+
+Jamaica was invited to the [[Copa América]] for the first time in [[2015 Copa América|2015]], finishing last among Argentina, Uruguay, and Paraguay.<ref name=CopaInvite/> The following year, the team competed in the [[Copa América Centenario]] as winners of the [[2014 Caribbean Cup]], again finishing last in the group stage following a 3–0 loss to Uruguay.<ref name=2014CC/><ref name=JAMvURU2016/> Jamaica qualified for the [[2024 Copa América]] by reaching the [[2024 CONCACAF Nations League Finals]], but again exited in the group stage with no points.<ref name=JAMvCAN2023/>
+
+{| class="wikitable" style="text-align: center;"
+|-
+!colspan=10|[[Copa América]] record
+|-
+!width=90|Year
+!width=90|Result
+!width=60|Position
+!width=20|{{Abbr|Pld|Matches played}}
+!width=20|{{Abbr|W|Matches won}}
+!width=20|{{Abbr|D|Matches drawn}}
+!width=20|{{Abbr|L|Matches lost}}
+!width=20|{{Abbr|GF|Goals for}}
+!width=20|{{Abbr|GA|Goals against}}
+!width=60|Squad
+|-
+|{{flagicon|Chile}} [[2015 Copa América|2015]]
+|rowspan=3|Group stage
+|12th
+|3
+|0
+|0
+|3
+|0
+|3
+|[[2015 Copa América squads#Jamaica|Squad]]
+|-
+|{{flagicon|United States}} [[Copa América Centenario|2016]]
+|15th
+|3
+|0
+|0
+|3
+|0
+|6
+|[[Copa América Centenario squads#Jamaica|Squad]]
+|-
+|{{flagicon|USA}} [[2024 Copa América|2024]]
+|15th
+|3
+|0
+|0
+|3
+|1
+|7
+|[[2024 Copa América squads#Jamaica|Squad]]
+|- <!-- Do not add rows for future tournaments that will not happen within the next 12 months -->
+!Total
+!Group stage 
+!Invitation (3)
+!9
+!0
+!0
+!9
+!1
+!16
+!—
+|}
+
+===Caribbean Cup===
+{| class="wikitable" style="text-align: center;"
+|-
+!colspan=9|[[CFU Championship]] / [[Caribbean Cup]] record
+|rowspan=28|
+!colspan=7|Qualification record
+|-
+! style="width:120px;"|Year
+! style="width:110px;"|Result
+! style="width:30px;"|{{Abbr|Pld|Games played}}
+! style="width:30px;"|{{Abbr|W|Won}}
+! style="width:30px;"|{{Abbr|D|Drawn}}
+! style="width:30px;"|{{Abbr|L|Lost}}
+! style="width:30px;"|{{Abbr|GF|Goals for}}
+! style="width:30px;"|{{Abbr|GA|Goals against}}
+! Squad 
+! style="width:30px;"|{{Abbr|Pld|Games played}}
+! style="width:30px;"|{{Abbr|W|Won}}
+! style="width:30px;"|{{Abbr|D|Drawn}}
+! style="width:30px;"|{{Abbr|L|Lost}}
+! style="width:30px;"|{{Abbr|GF|Goals for}}
+! style="width:30px;"|{{Abbr|GA|Goals against}}
+|-
+|{{flagicon|TRI}} [[1978 CFU Championship|1978]]||colspan=8 rowspan=3|''Did not qualify''
+||2||0||0||2||1||3
+|-
+|{{flagicon|SUR}} [[1979 CFU Championship|1979]]
+||4||2||0||2||4||9
+|-
+|{{flagicon|PUR}} [[1981 CFU Championship|1981]]
+||2||1||0||1||2||4
+|-
+|{{flagicon|GUF}} [[1983 CFU Championship|1983]]||colspan=8 rowspan=3|''Did not participate''
+|colspan=6 rowspan=3|''Did not participate''
+|-
+|{{flagicon|BRB}} [[1985 CFU Championship|1985]]
+|-
+|{{flagicon|MTQ|snake}} [[1988 CFU Championship|1988]]
+|- 
+|{{flagicon|BRB}} [[1989 Caribbean Cup|1989]]||colspan=8|''Did not qualify''
+||4||0||2||2||2||6
+|-
+|{{flagicon|TRI}} [[1990 Caribbean Cup|1990]]||''Abandoned''{{efn|Play was suspended when [[Jamaat al Muslimeen]] [[Jamaat al Muslimeen coup attempt|attempted a ''coup d'état'']] of the [[Politics of Trinidad and Tobago|government of Trinidad and Tobago]]. The tournament was abandoned altogether after [[Tropical Storm Arthur (1990)|Tropical storm Arthur]] forced the cancellation of the final round of games. Trinidad and Tobago were to meet Martinique in the final.}}||2||0||2||0||0||0||Squad
+||3||2||1||0||4||0
+|- style="background:Gold;"
+|style="border: 3px solid red"|{{flagicon|JAM}} [[1991 Caribbean Cup|1991]]||'''Champions'''||'''4'''||'''4'''||'''0'''||'''0'''||'''13'''||'''2'''||'''Squad''' 
+|colspan=6|''Qualified as host''
+|- style="background:Silver;"
+|{{flagicon|TRI}} [[1992 Caribbean Cup|1992]]||'''Runners-up'''||'''5'''||'''3'''||'''1'''||'''1'''||'''4'''||'''3'''||'''Squad'''
+|colspan=6|''Qualified as champions''
+|- style="background:Silver;" 
+|style="border: 3px solid red"|{{flagicon|JAM}} [[1993 Caribbean Cup|1993]]||'''Runners-up'''||'''5'''||'''4'''||'''1'''||'''0'''||'''17'''||'''4'''||'''Squad'''
+|colspan=6|''Qualified as host''
+|-
+|{{flagicon|TRI}} [[1994 Caribbean Cup|1994]]||colspan=8|''Did not qualify''
+||3||2||0||1||18||5
+|-
+|style="border: 3px solid red"|{{flagicon|CAY}} {{flagicon|JAM}} [[1995 Caribbean Cup|1995]]||Group stage||3||2||0||1||4||3||Squad
+|colspan=6|''Qualified as host''
+|-
+|{{flagicon|TRI}} [[1996 Caribbean Cup|1996]]||Group stage||3||1||0||2||5||5||Squad
+||2||1||0||1||2||2
+|- style="background:#c96;"
+|{{flagicon|ATG}} {{flagicon|SKN}} [[1997 Caribbean Cup|1997]]||'''Third place'''||'''4'''||'''2'''||'''2'''||'''0'''||'''8'''||'''3'''||'''Squad'''
+||3||3||0||0||10||2
+|- style="background:Gold;"
+|style="border: 3px solid red"|{{flagicon|JAM}} {{flagicon|TRI}} [[1998 Caribbean Cup|1998]]||'''Champions'''||'''5'''||'''5'''||'''0'''||'''0'''||'''12'''||'''4'''||'''Squad'''
+|colspan=6|''Qualified as host''
+|- style="background:#c96;"
+|{{flagicon|TRI}} [[1999 Caribbean Cup|1999]]||'''Third place'''||'''4'''||'''2'''||'''0'''||'''2'''||'''7'''||'''5'''||'''Squad'''
+|colspan=6|''Qualified as champions''
+|-
+|{{flagicon|TRI}} [[2001 Caribbean Cup|2001]]||Group stage||3||2||0||1||4||3||Squad 
+|colspan=6|''Qualified automatically''
+|- style="background:Gold;"
+|{{flagicon|BRB}} [[2005 Caribbean Cup|2005]]||'''Champions'''||'''3'''||'''3'''||'''0'''||'''0'''||'''4'''||'''1'''||'''[[2005 Caribbean Cup squads#Jamaica|Squad]]'''
+||7||5||2||0||34||4
+|-
+|{{flagicon|TRI}} [[2007 Caribbean Cup|2007]]||colspan=8|''Did not qualify''
+||3||2||0||1||7||2
+|- style="background:Gold;" 
+|style="border: 3px solid red"|{{flagicon|JAM}} [[2008 Caribbean Cup|2008]]||'''Champions'''||'''5'''||'''4'''||'''1'''||'''0'''||'''11'''||'''2'''||'''[[2008 Caribbean Cup squads#Jamaica|Squad]]'''
+|colspan=7|''Qualified as host''
+|- style="background:Gold;"
+|{{flagicon|MTQ|snake}} [[2010 Caribbean Cup|2010]]||'''Champions'''||'''5'''||'''4'''||'''1'''||'''0'''||'''12'''||'''3'''||'''[[2010 Caribbean Cup squads#Jamaica|Squad]]'''
+|colspan=6|''Qualified as champions''
+|-
+|{{flagicon|ATG}} [[2012 Caribbean Cup|2012]]||Group stage||3||0||1||2||1||3||[[2012 Caribbean Cup squads#Jamaica|Squad]]
+|colspan=6|''Qualified as champions''
+|- style="background:Gold;"
+|style="border: 3px solid red"|{{flagicon|JAM}} [[2014 Caribbean Cup|2014]]||'''Champions'''||'''4'''||'''2'''||'''2'''||'''0'''||'''6'''||'''1'''||'''[[2014 Caribbean Cup squads#Jamaica|Squad]]'''
+|colspan=6|''Qualified as host''
+|- style="background:Silver;"
+|{{flagicon|MTQ|snake}} [[2017 Caribbean Cup|2017]]||'''Runners-up'''||'''2'''||'''0'''||'''1'''||'''1'''||'''2'''||'''3'''||'''[[2017 Caribbean Cup squads#Jamaica|Squad]]'''
+||2||1||1||0||5||2
+|- class="sortbottom"
+!Total
+!6 Titles 
+!60
+!38 
+!12
+!10 
+!110
+!45 
+!—
+!35
+!19
+!6
+!10
+!89
+!39
+|}
+
+==Head-to-head record==
+As of 30 May 2026, the national team has played in [[Jamaica national football team results|559 matches]], with 249 wins, 140 draws, and 237 losses since their first international match in 1925. In total, the team has scored 794 goals and conceded 790 goals.<ref>{{cite web|url=https://www.11v11.com/teams/jamaica/|title=Jamaica national football team (Reggae Boyz)|publisher=11v11.com|access-date=23 October 2019|archive-date=7 May 2019|archive-url=https://web.archive.org/web/20190507082116/https://www.11v11.com/teams/jamaica/|url-status=live}}</ref> Jamaica's highest winning margin is twelve goals, which has been achieved on two occasions: against the [[British Virgin Islands national football team|British Virgin Islands]] in 1994 (12–0) and against [[Saint Martin national football team|Saint Martin]] in 2004 (12–0).<ref name=JamaicaMatches/> Their longest winning streak is seven wins and their unbeaten record is 22 consecutive official matches.<ref name=JamaicaMatches/>
+
+{{legend2|#CCFFCC|Positive Record|border=1px solid #AAAAAA}}
+{{legend2|#FFFFCC|Neutral Record|border=1px solid #AAAAAA}}
+{{legend2|#FFDACC|Negative Record|border=1px solid #AAAAAA}}
+{| class="wikitable sortable collapsible collapsed" style="text-align:center;"
+|- style="color:black;"
+! style="width:145px;"|Opponents
+!width=30|{{Tooltip|Pld|Games played}}
+!width=30|{{Tooltip|W|Won}}
+!width=30|{{Tooltip|D|Drawn}}
+!width=30|{{Tooltip|L|Lost}}
+!width=35|{{Tooltip|GF|Goals for}}
+!width=35|{{Tooltip|GA|Goals against}}
+|- style="background:#cfc;"
+|style="text-align: left;"|{{fb|ATG}}||13||10||2||1||29||5
+|- style="background:#fcc;"
+|style="text-align: left;"|{{fb|ARG}}||4||0||0||4||1||12
+|- style="background:#cfc;"
+|style="text-align: left;"|{{fb|ARU}}||3||3||0||0||14||0
+|- style="background:#fcc;"
+|style="text-align: left;"|{{fb|AUS}}||2||0||0||2||1||7
+|- style="background:#cfc;"
+|style="text-align: left;"|{{fb|BAH}}||2||2||0||0||13||0
+|- style="background:#cfc;"
+|style="text-align: left;"|{{fb|BRB}}||14||10||2||2||24||10
+|- style="background:#ffc;"
+|style="text-align: left;"|{{fb|BLZ}}||1||0||1||0||0||0
+|- style="background:#cfc;"
+|style="text-align: left;"|{{fb|BER}}||9||6||3||0||19||6
+|- style="background:#ffc;"
+|style="text-align: left;"|{{fb|BOL}}||3||1||1||1||3||6
+|- style="background:#cfc;"
+|style="text-align: left;"|''{{fb|BOE}}''||1||1||0||0||6||0
+|- style="background:#fcc;"
+|style="text-align: left;"|{{fb|BRA}}||3||0||1||2||0||2
+|- style="background:#cfc;"
+|style="text-align: left;"|{{fb|VGB}}||2||2||0||0||13||0
+|- style="background:#ffc;"
+|style="text-align: left;"|{{fb|BUL}}||1||0||1||0||0||0
+|- style="background:#ffc;"
+|style="text-align: left;"|{{fb|CMR}}||1||0||1||0||1||1
+|- style="background:#fcc;"
+|style="text-align: left;"|{{fb|CAN}}||27||8||7||12||24||35
+|- style="background:#cfc;"
+|style="text-align: left;"|{{fb|CAY}}||11||9||1||1||35||8
+|- style="background:#ffc;"
+|style="text-align: left;"|{{fb|CHI}}||2||1||0||1||2||2
+|- style="background:#fcc;"
+|style="text-align: left;"|{{fb|CHN}}||3||0||0||3||0||5
+|- style="background:#fcc;"
+|style="text-align: left;"|{{fb|COL}}||5||1||0||4||1||7
+|- style="background:#fcc;"
+|style="text-align: left;"|{{fb|CRC}}||31||4||12||15||19||56
+|- style="background:#fcc;"
+|style="text-align: left;"|{{fb|CRO}}||1||0||0||1||1||3
+|- style="background:#fcc;"
+|style="text-align: left;"|{{fb|CUB}}||28||10||7||11||34||31
+|- style="background:#ffc;"
+|style="text-align: left;"|{{fb|CUW}}||6||2||2||2||6||5
+|- style="background:#cfc;"
+|style="text-align: left;"|{{fb|DMA}}||1||1||0||0||3||2
+|- style="background:#cfc;"
+|style="text-align: left;"|{{fb|DOM}}||1||1||0||0||1||0
+|- style="background:#fcc;"
+|style="text-align: left;"|{{fb|ECU}}||5||0||2||3||2||7
+|- style="background:#ffc;"
+|style="text-align: left;"|{{fb|EGY}}||1||0||1||0||2||2
+|- style="background:#cfc;"
+|style="text-align: left;"|{{fb|SLV}}||33||10||8||5||26||16
+|- style="background:#fcc;"
+|style="text-align: left;"|{{fb|ENG}}||1||0||0||1||0||6
+|- style="background:#fcc;"
+|style="text-align: left;"|{{fb|FRA}}||1||0||0||1||0||8
+|- style="background:#ffc;"
+|style="text-align: left;"|''{{fb|GUF}}''||1||0||1||0||0||0
+|- style="background:#fcc;"
+|style="text-align: left;"|{{fb|GHA}}||2||0||0||2||2||6
+|- style="background:#cfc;"
+|style="text-align: left;"|{{fb|GRN}}||12||9||2||1||33||9
+|- style="background:#cfc;"
+|style="text-align: left;"|''{{fb|GLP}}''||6||5||1||0||12||3
+|- style="background:#cfc;"
+|style="text-align: left;"|{{fb|GUA}}||20||12||4||4||34||19
+|- style="background:#cfc;"
+|style="text-align: left;"|{{fb|GUY}}||6||5||1||0||20||3
+|- style="background:#cfc;"
+|style="text-align: left;"|{{fb|HAI}}||33||19||4||10||50||36
+|- style="background:#ffc;"
+|style="text-align: left;"|{{fb|HON}}||30||12||6||12||35||48
+|- style="background:#cfc;"
+|style="text-align: left;"|{{fb|IND}}||3||2||1||0||5||0
+|- style="background:#fcc;"
+|style="text-align: left;"|{{fb|IDN}}||1||0||0||1||1||2
+|- style="background:#fcc;"
+|style="text-align: left;"|{{fb|IRN}}||2||0||0||2||1||9
+|- style="background:#fcc;"
+|style="text-align: left;"|{{fb|JOR}}||1||0||0||1||1||2
+|- style="background:#fcc;"
+|style="text-align: left;"|{{fb|JPN}}||4||1||1||2||3||7
+|- style="background:#cfc;"
+|style="text-align: left;"|{{fb|MAS}}||1||1||0||0||2||0
+|- style="background:#cfc;"
+|style="text-align: left;"|''{{fb|MTQ|local}}''||5||2||3||0||4||2
+|- style="background:#fcc;"
+|style="text-align: left;"|{{fb|MEX}}||33||5||5||23||20||76
+|- style="background:#fcc;"
+|style="text-align: left;"|{{fb|MAR}}||2||0||0||2||0||4
+|- style="background:#cfc;"
+|style="text-align: left;"|{{fb|NCL}}||1||1||0||0||1||0
+|- style="background:#cfc;"
+|style="text-align: left;"|{{fb|NZL}}||2||2||0||0||5||3
+|- style="background:#cfc;"
+|style="text-align: left;"|{{fb|NIC}}||3||2||0||1||6||3
+|- style="background:#ffc;"
+|style="text-align: left;"|{{fb|NGA}}||8||1||4||3||7||12
+|- style="background:#fcc;"
+|style="text-align: left;"|{{fb|MKD}}||1||0||0||1||1||2
+|- style="background:#fcc;"
+|style="text-align: left;"|{{fb|NOR}}||2||0||1||1||1||7
+|- style="background:#fcc;"
+|style="text-align: left;"|{{fb|PAN}}||22||4||7||11||17||31
+|- style="background:#fcc;"
+|style="text-align: left;"|{{fb|PAR}}||6||2||0||4||7||11
+|- style="background:#fcc;"
+|style="text-align: left;"|{{fb|PER}}||5||0||1||4||4||12
+|- style="background:#cfc;"
+|style="text-align: left;"|{{fb|PUR}}||7||7||0||0||17||3
+|- style="background:#fcc;"
+|style="text-align: left;"|{{fb|QAT}}||2||0||1||1||2||3
+|- style="background:#fcc;"
+|style="text-align: left;"|{{fb|IRL}}||1||0||0||1||0||1
+|- style="background:#cfc;"
+|style="text-align: left;"|{{fb|SKN}}||11||9||2||0||28||7
+|- style="background:#cfc;"
+|style="text-align: left;"|{{fb|LCA}}||10||9||1||0||30||6
+|- style="background:#cfc;"
+|style="text-align: left;"|''{{Flagicon image|Local flag of the Collectivity of Saint Martin.svg}} [[Saint Martin national football team|Saint Martin]]''||1||1||0||0||12||0
+|- style="background:#cfc;"
+|style="text-align: left;"|{{fb|VIN}}||11||8||2||1||26||8
+|- style="background:#fcc;"
+|style="text-align: left;"|{{fb|KSA}}||6||2||1||3||6||14
+|- style="background:#fcc;"
+|style="text-align: left;"|{{fb|SRB}}||2||0||1||1||2||3
+|- style="background:#cfc;"
+|style="text-align: left;"|''{{fb|SMA}}''||2||2||0||0||6||2
+|- style="background:#fcc;"
+|style="text-align: left;"|{{fb|RSA}}||5||0||4||1||4||6
+|- style="background:#fcc;"
+|style="text-align: left;"|{{fb|KOR}}||4||0||2||2||3||8
+|- style="background:#cfc;"
+|style="text-align: left;"|{{fb|SUR}}||9||6||1||2||15||11
+|- style="background:#fcc;"
+|style="text-align: left;"|{{fb|SWE}}||2||0||1||1||1||2
+|- style="background:#fcc;"
+|style="text-align: left;"|{{fb|SUI}}||2||0||0||2||0||3
+|- style="background:#cfc;"
+|style="text-align: left;"|{{fb|TRI}}||77||33||16||28||94||92
+|- style="background:#fcc;"
+|style="text-align: left;"|{{fb|URU}}||5||1||0||4||2||9
+|- style="background:#fcc;"
+|style="text-align: left;"|{{fb|USA}}||35||3||10||22||24||61
+|- style="background:#cfc;"
+|style="text-align: left;"|{{fb|VIR}}||1||1||0||0||11||1
+|- style="background:#fcc;"
+|style="text-align: left;"|{{fb|VEN}}||8||2||1||5||4||12
+|- style="background:#fcc;"
+|style="text-align: left;"|{{fb|VIE}}||1||0||0||1||0||3
+|- style="background:#ffc;"
+|style="text-align: left;"|{{fb|WAL}}||1||0||1||0||0||0
+|- style="background:#fcc;"
+|style="text-align: left;"|{{fb|ZAM}}||4||1||1||2||6||7
+|}
+
+==Honours==
+===Continental===
+* '''[[CONCACAF Gold Cup]]'''
+** {{silver2}} Runners-up (2): [[2015 CONCACAF Gold Cup|2015]], [[2017 CONCACAF Gold Cup|2017]]
+** {{bronze3}} Third place (1): [[1993 CONCACAF Gold Cup|1993]]
+* '''[[CONCACAF Nations League]]'''
+** {{bronze3}} Third place (1): [[2023–24 CONCACAF Nations League|2023–24]]
+
+===Regional===
+* '''[[Caribbean Cup]]'''
+** {{gold1}} '''Champions (6)''': [[1991 Caribbean Cup|1991]], [[1998 Caribbean Cup|1998]], [[2005 Caribbean Cup|2005]], [[2008 Caribbean Cup|2008]], [[2010 Caribbean Cup|2010]], [[2014 Caribbean Cup|2014]]
+** {{silver2}} Runners-up (3): [[1992 Caribbean Cup|1992]], [[1993 Caribbean Cup|1993]], [[2017 Caribbean Cup|2017]]
+** {{bronze3}} Third place (2): [[1997 Caribbean Cup|1997]], [[1999 Caribbean Cup|1999]]
+
+===Summary===
+Only official honours are included, according to ''FIFA statutes'' (competitions organized/recognized by [[FIFA]] or an affiliated confederation).
+{| class="wikitable" width=30% style="font-size:90%; text-align:center;"
+!Competition!!{{gold1}} !!{{silver2}} !!{{bronze3}} !!Total
+|-
+|align=left|[[CONCACAF Gold Cup]]
+|0||2||1||3
+|-
+|align=left|[[CONCACAF Nations League]]
+|0||0||1||1
+|-
+!Total!!0!!2!!2!!4
+|}
+
+==See also==
+{{portal|Association football|Jamaica}}
+* [[National Premier League]] (top league in Jamaica)
+* [[Jamaica national under-20 football team]]
+* [[Jamaica national under-17 football team]]
+* [[Football in Jamaica]]
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category}}
+* {{official website}}
+* [https://www.fifa.com/about-fifa/associations/JAM Jamaica FIFA profile]
+
+{{Jamaica national football team}}
+{{Navboxes 
+| title =
+| titlestyle = background:#FFB81C; color:black; {{box-shadow border|a|#007749|1px}};
+| list =
+{{CFU Caribbean Cup Winners}}
+{{Navboxes
+|title=Jamaica FIFA World Cup squads
+|bg=#FFB81C
+|fg=black
+|bordercolor=#007749
+|list1=
+{{Jamaica squad 1998 FIFA World Cup}}
+}}
+{{Navboxes
+|title=Jamaica CONCACAF Gold Cup squads
+|bg=#FFB81C
+|fg=black
+|bordercolor=#007749
+|list1=
+{{Jamaica squad 1991 CONCACAF Gold Cup}}
+{{Jamaica squad 1993 CONCACAF Gold Cup}}
+{{Jamaica squad 1998 CONCACAF Gold Cup}}
+{{Jamaica squad 2000 CONCACAF Gold Cup}}
+{{Jamaica squad 2005 CONCACAF Gold Cup}}
+{{Jamaica squad 2009 CONCACAF Gold Cup}}
+{{Jamaica squad 2011 CONCACAF Gold Cup}}
+{{Jamaica squad 2015 CONCACAF Gold Cup}}
+{{Jamaica squad 2017 CONCACAF Gold Cup}}
+{{Jamaica squad 2019 CONCACAF Gold Cup}}
+{{Jamaica squad 2021 CONCACAF Gold Cup}}
+{{Jamaica squad 2023 CONCACAF Gold Cup}}
+{{Jamaica squad 2025 CONCACAF Gold Cup}}
+}}
+{{Navboxes
+|title=Jamaica Copa América squads
+|bg=#FFB81C
+|fg=black
+|bordercolor=#007749
+|list1=
+{{Jamaica squad 2015 Copa América}}
+{{Jamaica squad Copa América Centenario}}
+}}
+{{Football in Jamaica}}
+{{CONCACAF teams}}
+{{National sports teams of Jamaica}}
+}}
+{{Portal bar|Association football|Jamaica}}
+
+{{DEFAULTSORT:Jamaica National Football Team}}
+[[Category:Jamaica national football team| ]]
+[[Category:Caribbean national association football teams]]
+[[Category:Football in Jamaica]]
+[[Category:Jamaica men's national football teams| ]]

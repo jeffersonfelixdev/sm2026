@@ -1,0 +1,1815 @@
+{{Short description|none}}
+{{Use Australian English|date=January 2024}}
+{{Use dmy dates|date=January 2024}}
+{{Infobox national football team
+| Name               = Australia
+| Badge              = Australia national football team badge.svg
+| Badge_size         = 200px
+| Nickname           = [[Australian national sports team nicknames|Socceroos]]
+| Association        = [[Football Australia]]
+| Sub-confederation  = [[ASEAN Football Federation|AFF]] (Southeast Asia)
+| Confederation      = [[Asian Football Confederation|AFC]] (Asia; 1973–1978, 2006–present)<br />[[Oceania Football Confederation|OFC]] (Oceania; 1966–1972, 1979–2005)<ref>{{Cite web |date=2006-03-18 |title=OFC History |url=http://www.oceaniafootball.com/index.cgi?sID=23 |archive-url=https://web.archive.org/web/20060318111103/http://www.oceaniafootball.com/index.cgi?sID=23 |archive-date=18 March 2006 |access-date=2024-07-02 |website=Oceania Football Confederation}}</ref>
+| Coach              = [[Tony Popovic]]
+| Captain            = [[Mathew Ryan]]
+| Most caps          = [[Mark Schwarzer]] (109)
+| Top scorer         = [[Tim Cahill]] ([[List of international goals scored by Tim Cahill|50]])
+| Home Stadium       = [[List of soccer stadiums in Australia|Various]]
+| FIFA Trigramme     = AUS
+| FIFA Rank          = {{FIFA World Rankings|AUS}}
+| FIFA max           = 14
+| FIFA max date      = September 2009
+| FIFA min           = 102
+| FIFA min date      = November 2014
+| Elo Rank           = {{World Football Elo Ratings|Australia}}
+| Elo max            = 9
+| Elo max date       = 14 August 2001<ref>{{cite web|url=http://www.eloratings.net/Australia|title=World Football Elo Ratings|website=eloratings.net|access-date=11 February 2019|archive-date=13 February 2019|archive-url=https://web.archive.org/web/20190213085115/http://www.eloratings.net/Australia|url-status=live}}</ref>
+| Elo min            = 75
+| Elo min date       = November 1965
+| pattern_la1        = _aus26h
+| pattern_b1         = _aus26h
+| pattern_ra1        = _aus26h
+| pattern_sh1        = _aus26H
+| pattern_so1        = 
+| leftarm1           = FFFF00
+| body1              = FFFF00
+| rightarm1          = FFFF00
+| shorts1            = 07563E
+| socks1             = FFFFFF
+| pattern_la2        = _aus26a
+| pattern_b2         = _aus26a
+| pattern_ra2        = _aus26a
+| pattern_sh2        = _aus26h
+| pattern_so2        = 
+| leftarm2           = 07563E
+| body2              = 07563E
+| rightarm2          = 07563E
+| shorts2            = 07563E
+| socks2             = 07563E
+| First game         = {{fb|NZL}} [[1922 New Zealand v Australia soccer match|3–1]] {{fb-rt|AUS}}<br />([[Dunedin]], New Zealand; 17 June 1922)
+| Largest win        = {{fb|AUS}} [[Australia 31–0 American Samoa|31–0]] {{fb-rt|ASA}}<br />([[Coffs Harbour]], Australia; 11 April 2001)<br /><small>(World record for biggest win in senior international matches)</small><ref>{{cite news |url=https://news.bbc.co.uk/sport2/hi/football/world_cup_2002/1271854.stm |archive-url=https://web.archive.org/web/20171120061219/http://news.bbc.co.uk/sport1/hi/football/world_cup_2002/1271854.stm |url-status=live |archive-date=20 November 2017 |title=Aussie footballers smash world record |date=11 April 2001 |work=BBC Sport |access-date=10 June 2012 }}</ref>
+| Largest loss       = {{fb|AUS}} 0–8 {{fb-rt|RSA|1928}}<br />([[Adelaide]], Australia; 17 September 1955)
+| World cup apps           = 7
+| World cup first          = 1974
+| World cup best           = Round of 16 ([[2006 FIFA World Cup|2006]], [[2022 FIFA World Cup|2022]])
+| Regional name            = [[AFC Asian Cup|Asian Cup]]
+| Regional cup apps        = 5
+| Regional cup first       = [[2007 AFC Asian Cup|2007]]
+| Regional cup best        = '''Champions''' ([[2015 AFC Asian Cup|2015]])
+| 2ndRegional name         = [[OFC Nations Cup]]
+| 2ndRegional cup apps     = 6
+| 2ndRegional cup first    = [[1980 OFC Nations Cup|1980]]
+| 2ndRegional cup best     = '''Champions''' ([[1980 OFC Nations Cup|1980]], [[1996 OFC Nations Cup|1996]], [[2000 OFC Nations Cup|2000]], [[2004 OFC Nations Cup|2004]])
+| Confederations cup apps  = 4
+| Confederations cup first = [[1997 FIFA Confederations Cup|1997]]
+| Confederations cup best  = Runners-up ([[1997 FIFA Confederations Cup|1997]])
+| website = {{nowrap|{{URL|https://www.socceroos.com.au|socceroos.com.au}}}}
+| medaltemplates           =
+{{MedalSport|Men's [[Association football|football]]}}
+{{Medal|Competition|[[FIFA Confederations Cup]]}}
+{{Medal|Silver|[[1997 FIFA Confederations Cup|1997 Saudi Arabia]]|Team}}
+{{Medal|Bronze|[[2001 FIFA Confederations Cup|2001 Korea and Japan]]|Team}}
+{{Medal|Competition|[[AFC Asian Cup]]}}
+{{Medal|Gold|[[2015 AFC Asian Cup|2015 Australia]]|Team}}
+{{Medal|Silver|[[2011 AFC Asian Cup|2011 Qatar]]|Team}}
+{{Medal|Competition|[[OFC Nations Cup]]}}
+{{Medal|Gold|[[1980 OFC Nations Cup|1980 New Caledonia]]|Team}}
+{{Medal|Gold|[[1996 OFC Nations Cup|1996 No Host]]|Team}}
+{{Medal|Gold|[[2000 OFC Nations Cup|2000 Tahiti]]|Team}}
+{{Medal|Gold|[[2004 OFC Nations Cup|2004 Australia]]|Team}}
+{{Medal|Silver|[[1998 OFC Nations Cup|1998 Australia]]|Team}}
+{{Medal|Silver|[[2002 OFC Nations Cup|2002 New Zealand]]|Team}}
+{{Medal|Competition|[[AFC–OFC Challenge Cup]]}}
+{{Medal|Silver|[[2001 AFC–OFC Challenge Cup|2001 Japan]]|Team}}
+}}
+
+The '''Australia men's national soccer team''' represents [[Australia]] in international men's [[Association football|soccer]]. Officially nicknamed the '''Socceroos''',<ref>{{cite news|url=https://www.smh.com.au/sport/soccer/fresh-deal-socceroos-ink-record-breaking-sponsorship-deal-20220921-p5bjv1.html|title=Fresh deal: Socceroos ink record-breaking sponsorship deal|first=Vince|last=Rugari|newspaper=[[The Sydney Morning Herald]]|date=22 September 2022}}</ref> the team is controlled by the governing body for [[soccer in Australia]], [[Football Australia]], which is affiliated with the [[Asian Football Confederation]] (AFC) and the regional [[ASEAN Football Federation]] (AFF).
+
+The team played its [[1922 New Zealand v Australia soccer match|first match]] in 1922 and originally participated in the [[Oceania Football Confederation]] (OFC) from 1966 to 1972, before moving to the AFC from 1973 to 1978 and back to the OFC from 1979 to 2005. In this confederation, Australia won the [[OFC Nations Cup]] four times between 1980 and 2004, and dominated many [[FIFA World Cup qualification]] campaigns during earlier rounds. The team won [[Australia 31–0 American Samoa|31–0]] against the [[American Samoa national football team|American Samoa national football team]] in a FIFA World Cup qualification match, achieving the world record for the largest victory in a senior international match. Despite this, the team only managed to qualify for the [[FIFA World Cup]] twice in 11 attempts while in this confederation, because Oceania's single qualification berth always led to an intercontinental playoff, which did not guarantee straight qualification.
+
+In a bid to improve its competitiveness, the team returned to the AFC in 2006, finishing the [[AFC Asian Cup]] as runners-up in [[2011 AFC Asian Cup|2011]] and winning in [[2015 AFC Asian Cup|2015]] as hosts. This victory made Australia the only team in the world to win two different confederation cups.<ref>{{cite news|url=https://www.theguardian.com/football/2015/jan/31/socceroos-lift-asian-cup-after-dramatic-extra-time-win-over-south-korea|title=Socceroos lift Asian Cup after dramatic extra-time win over South Korea|newspaper=[[The Guardian]]|date=31 January 2015}}</ref> Since switching confederations, the team has maintained a perfect qualification record for the World Cup, earning five consecutive spots for a total of seven appearances. Australia has reached the World Cup knockout stages three times, advancing to this round in [[2006 FIFA World Cup|2006]], [[2022 FIFA World Cup|2022]] and [[2026 FIFA World Cup|2026]]. Despite its AFF membership, Australia currently does not contest the [[ASEAN Championship]] due to a mutual agreement, though it does compete in youth iterations.
+
+The team additionally represented Australia at the now-defunct [[FIFA Confederations Cup]] four times, winning a silver and bronze medal in [[1997 FIFA Confederations Cup|1997]] and [[2001 FIFA Confederations Cup|2001]] respectively. [[Mark Schwarzer]] has the most caps for Australia, with 109 to his name, while [[Tim Cahill]] has the [[List of international goals scored by Tim Cahill|most goals scored]], with 50. Australia initially developed a [[Australia–New Zealand soccer rivalry|rivalry]] with [[New Zealand men's national football team|New Zealand]] and an intercontinental [[Australia–Uruguay football rivalry|rivalry]] with [[Uruguay national football team|Uruguay]], and, after returning to the AFC, has developed a [[Australia–Japan football rivalry|rivalry]] with [[Japan national football team|Japan]].
+
+== History ==
+{{Main|History of the Australia men's national soccer team}}
+
+=== Early years ===
+[[File:Australia soccer team 1922.jpg|thumb|The first Australia soccer team (wearing light blue shirts) of 1922]]
+The first Australia national team was constituted in 1922 for a tour of New Zealand,<ref name="1922 tour">{{cite web|title=Australia Vs New Zealand 1922|url=http://www.ozfootball.net/museum/index.php/archive/129-australia-vs-new-zealand-1922|publisher=OzFootball|access-date=27 April 2013|archive-date=6 July 2014|archive-url=https://web.archive.org/web/20140706022112/http://www.ozfootball.net/museum/index.php/archive/129-australia-vs-new-zealand-1922|url-status=live}}</ref> which included two defeats and a draw. For the next 36 years, Australia, [[New Zealand men's national football team|New Zealand]] and [[South Africa national soccer team|South Africa]] became regular opponents in tour ([[Exhibition game|exhibition]]) matches.<ref name="Early history">{{cite web|title=Australian Socceroos|url=http://australiansocceroos.com/|publisher=australiansocceroos.com|access-date=29 April 2013|archive-url=https://web.archive.org/web/20140101230100/http://australiansocceroos.com/|archive-date=1 January 2014|url-status=dead}}</ref> During that period, Australia also competed against [[Canada men's national soccer team|Canada]] and [[India national football team|India]] during their tours of Australia in 1924 and 1938 respectively.<ref>{{cite web|title=1924 Matches|url=http://www.ozfootball.net/ark/Socceroo/1924A.html|publisher=OzFootball|access-date=29 September 2013|archive-date=12 February 2014|archive-url=https://web.archive.org/web/20140212031002/http://www.ozfootball.net/ark/Socceroo/1924A.html|url-status=live}}</ref><ref>{{cite web|title=1938 Matches|url=http://www.ozfootball.net/ark/Socceroo/1938A.html|publisher=OzFootball|access-date=29 September 2013|archive-date=6 August 2018|archive-url=https://web.archive.org/web/20180806202225/http://www.ozfootball.net/ark/Socceroo/1938A.html|url-status=live}}</ref> Australia recorded their worst ever defeat on 30 June 1951 as they lost 17–0 in a match to a touring [[England national football team|England]] side.<ref>{{cite web|title=Australia Vs England 1951|url=http://www.ozfootball.net/museum/index.php/archive/99-australia-vs-england-1951|publisher=ozfootball.net|access-date=31 March 2016|archive-date=15 July 2013|archive-url=https://web.archive.org/web/20130715023707/http://www.ozfootball.net/museum/index.php/archive/99-australia-vs-england-1951|url-status=live}}</ref> The country had a rare opportunity to compete on the world's stage during the team's first major international tournament as hosts of the [[1956 Summer Olympics|1956 Melbourne Olympics]]. However, an inexperienced squad proved to be reason for the team's disappointing performance, including a 4–2 loss to India in the quarterfinals.<ref>{{cite web|title=1956 Olympics|url=http://www.ozfootball.net/museum/index.php/en/archive/84-1956-olympics|publisher=OzFootball|access-date=12 December 2013|archive-date=6 July 2014|archive-url=https://web.archive.org/web/20140706024242/http://www.ozfootball.net/museum/index.php/en/archive/84-1956-olympics|url-status=live}}</ref> With the advent of cheap air travel, Australia began to diversify its range of opponents,<ref name="Early history" /> but its geographical isolation continued to play a role in its destiny for the next 30 years.<ref name="Early history" /> Australia won the [[1967 South Vietnam Independence Cup]] against seven other nations, but this gained little recognition domestically.<ref name=conversation>{{cite news|url=https://theconversation.com/as-socceroos-face-moment-of-truth-lets-remember-our-football-triumph-of-1967-86607|title=As Socceroos face moment of truth, let's remember our football triumph of 1967|first=Roy|last=Hay|work=The Conversation|date=9 November 2017|access-date=28 September 2020|archive-date=5 December 2020|archive-url=https://web.archive.org/web/20201205093926/https://theconversation.com/amp/as-socceroos-face-moment-of-truth-lets-remember-our-football-triumph-of-1967-86607|url-status=live}}</ref>
+
+After failing to qualify for the [[FIFA World Cup]] in [[1966 FIFA World Cup|1966]] and [[1970 FIFA World Cup|1970]], losing in play-offs to [[North Korea national football team|North Korea]] and [[Israel national football team|Israel]] respectively, Australia finally appeared at their first World Cup in [[West Germany]] in [[1974 FIFA World Cup|1974]].<ref name="Timeline">{{cite web|title=Timeline of Australian Football |url=http://www.migrationheritage.nsw.gov.au/exhibitions/worldcup/timeline.shtml |publisher=NSW Migration Heritage Centre and Powerhouse Museum |access-date=27 April 2013 |url-status=dead |archive-url=https://web.archive.org/web/20141217101940/http://www.migrationheritage.nsw.gov.au/exhibitions/worldcup/timeline.shtml |archive-date=17 December 2014 }}</ref> After managing only a draw from [[Chile national football team|Chile]] and losses from [[East Germany national football team|East Germany]] and [[Germany national football team|West Germany]], the team, which was made up of mostly amateur players, was eliminated at the end of the [[1974 FIFA World Cup#First round|first round]], finishing last in their group without scoring a goal. It would prove to be the only appearance for the Australian team until the World Cup returned to Germany more than three decades later in [[2006 FIFA World Cup|2006]].<ref name="Timeline" /> Over a 40-year period, the Australian team was known for its near misses in its attempts to qualify for the World Cup; they lost play-offs in [[1966 FIFA World Cup qualification (Africa, Asia and Oceania)|1966]] to [[North Korea national football team|North Korea]], [[1970 FIFA World Cup qualification (AFC and OFC)|1970]] to [[Israel national football team|Israel]], [[1986 FIFA World Cup qualification (UEFA–OFC play-off)|1986]] to [[Scotland national football team|Scotland]], [[1994 FIFA World Cup qualification (OFC–CONMEBOL play-off)|1994]] to [[Argentina national football team|Argentina]], [[1998 FIFA World Cup qualification (AFC–OFC play-off)|1998]] to [[Iran national football team|Iran]] and [[2002 FIFA World Cup qualification (OFC–CONMEBOL play-off)|2002]] to [[Uruguay national football team|Uruguay]].
+
+=== First successes and "golden generation" ===
+The team's previously poor record in World Cup competition was not reflected in their reasonable performances against strong European and South American sides. In 1988, Australia defeated reigning world champions Argentina 4–1 in the [[Australia Bicentenary Gold Cup|Australian Bicentennial Gold Cup]].<ref>{{cite web|url=https://www.theguardian.com/sport/blog/2014/nov/11/the-forgotten-story-of-the-socceroos-defeat-to-fiji|title=The Forgotten Story of ... Australia's defeat to Fiji&nbsp;– Vince Rugari|work=The Guardian|date=10 November 2014|access-date=11 December 2016|archive-date=25 March 2015|archive-url=https://web.archive.org/web/20150325144929/http://www.theguardian.com/sport/blog/2014/nov/11/the-forgotten-story-of-the-socceroos-defeat-to-fiji|url-status=live}}</ref><ref name="Internationals for 1988">{{cite web|title=Socceroo Internationals for 1988|url=http://www.ozfootball.net/ark/Socceroo/1988A.html|publisher=OzFootball|access-date=27 April 2013|archive-date=4 February 2014|archive-url=https://web.archive.org/web/20140204150630/http://www.ozfootball.net/ark/Socceroo/1988A.html|url-status=live}}</ref> In 1997, Australia drew with reigning world champions [[Brazil national football team|Brazil]] 0–0 in the group stage and then defeated Uruguay 1–0 in the semi-finals to reach the [[1997 FIFA Confederations Cup final]].<ref>{{cite web|title=Socceroo Internationals for 1997|url=http://www.ozfootball.net/ark/Socceroo/1997A.html|publisher=OzFootball|access-date=27 April 2013|archive-date=3 March 2016|archive-url=https://web.archive.org/web/20160303212944/http://www.ozfootball.net/ark/Socceroo/1997A.html|url-status=live}}</ref> 
+
+In 2001, after a victory against reigning world champions [[France national football team|France]] in the group stage, Australia finished the [[2001 FIFA Confederations Cup]] in third place after defeating Brazil 1–0 in the third-place match.<ref>{{cite web|title=Socceroo Internationals for 2001|url=http://www.ozfootball.net/ark/Socceroo/2001A.html|publisher=OzFootball|access-date=27 April 2013|archive-date=4 February 2014|archive-url=https://web.archive.org/web/20140204150509/http://www.ozfootball.net/ark/Socceroo/2001A.html|url-status=live}}</ref> Australia defeated England 3–1 at [[West Ham United F.C.|West Ham United]]'s [[Boleyn Ground]] in 2003 as [[Wayne Rooney]] made his international debut.<ref>{{cite web|title=Socceroos win 3–1 against England|url=http://www.theage.com.au/articles/2003/02/13/1044927700559.html|publisher=The Age|author=Dan Silkstone|date=14 February 2013|access-date=5 October 2017|archive-date=31 October 2008|archive-url=https://web.archive.org/web/20081031133707/http://www.theage.com.au/articles/2003/02/13/1044927700559.html|url-status=live}}</ref>
+
+In early 2005, it was reported that [[Football Australia]] had entered into discussions to join the [[Asian Football Confederation]] (AFC) and end an almost 40-year association with the [[Oceania Football Confederation]] (OFC).<ref>{{cite web|title=Goal at last: Australia joining Asia|url=http://www.smh.com.au/news/Football/Goal-at-last-Australia-joining-Asia/2005/03/10/1110417621684.html|work=The Sydney Morning Herald|date=11 March 2005|access-date=29 April 2013|archive-date=6 November 2013|archive-url=https://web.archive.org/web/20131106001009/http://www.smh.com.au/news/Football/Goal-at-last-Australia-joining-Asia/2005/03/10/1110417621684.html|url-status=live}}</ref> Many commentators and fans, including soccer broadcaster and former Australian captain [[Johnny Warren]] (deceased in 2004), felt that the only way for Australia to progress was to abandon Oceania.<ref>{{cite web|title=Johnny Warren|url=http://worldwardiary.com/history/Johnny_Warren|publisher=worldwardiary.com|access-date=29 April 2013|archive-date=5 March 2016|archive-url=https://web.archive.org/web/20160305085056/http://worldwardiary.com/history/johnny_warren|url-status=live}}</ref> On 13 March, the AFC executive committee made a unanimous decision to invite Australia to join the AFC.<ref name="AFC move">{{cite web|title=Goodbye Oceania, Hallo Asia Australia FINALLY gets its wish|url=http://home.alphalink.com.au/~warrior/edasia.htm|publisher=Socceroo Realm|access-date=29 April 2013}}</ref> After the OFC executive committee unanimously endorsed Australia's proposed move, FIFA approved the move on 30 June 2005.<ref name="AFC move" /> Australia joined Asia, with the move taking effect on 1 January 2006, though until then, Australia had to compete for a [[2006 FIFA World Cup]] position as an OFC member country.<ref name="AFC move"/>
+
+After a successful [[2006 FIFA World Cup qualification (OFC)|campaign]], the team took the first steps towards qualification for the 2006 World Cup.<ref name="Hiddink as coach">{{cite web|title=Hope hinges on Guus Hiddink|url=http://english.peopledaily.com.cn/200507/29/eng20050729_199034.html|work=People's Daily Online|access-date=29 April 2013|archive-date=17 May 2013|archive-url=https://web.archive.org/web/20130517215159/http://english.peopledaily.com.cn/200507/29/eng20050729_199034.html|url-status=live}}</ref> After coach [[Frank Farina]] stood down from the position after Australia's dismal performance at the [[2005 FIFA Confederations Cup]], [[Guus Hiddink]] was announced as the new national coach.<ref name="Hiddink as coach" /> Australia, ranked 49th, would then have to play the 18th ranked [[Uruguay national football team|Uruguay]] in a rematch of the [[2002 FIFA World Cup qualification (OFC–CONMEBOL play-off)|2001 qualification play-off]] for a spot in the 2006 FIFA World Cup. After a 5–0 [[Exhibition game|friendly]] win against [[Jamaica national football team|Jamaica]],<ref>{{cite web|title=Australia crushes Jamaica|url=http://www.theage.com.au/news/soccer/hiddink-experiments-pay-off-against-jamaica/2005/10/10/1128796413238.html|work=The Age|date=10 October 2005|access-date=29 April 2013|archive-date=4 November 2012|archive-url=https://web.archive.org/web/20121104102058/http://www.theage.com.au/news/soccer/hiddink-experiments-pay-off-against-jamaica/2005/10/10/1128796413238.html|url-status=live}}</ref> the first leg of the [[2006 FIFA World Cup qualification (CONMEBOL)|play-off tournament]] was lost (1–0), with the return leg still to be played in Australia four days later in Sydney on 16 November 2005.<ref name="Australia VS Uruguay 2006">{{cite web|title=Aloisi ends Aussie wait|url=https://www.fifa.com/classicfootball/matches/qualifiers/match=42917/index.html|archive-url=https://web.archive.org/web/20130209043725/http://www.fifa.com/classicfootball/matches/qualifiers/match=42917/index.html|url-status=dead|archive-date=9 February 2013|work=FIFA.com | publisher=FIFA|access-date=8 October 2013}}</ref>
+
+[[File:AUS-URU Nov 05 ET.jpg|thumb|Australia playing [[Uruguay national football team|Uruguay]] at [[Stadium Australia]] to determine the last qualifying spot for the 2006 FIFA World Cup.]]
+The second leg of the qualifying play-off was played in front of a crowd of 82,698 at [[Stadium Australia]].<ref>{{cite web|title=Uruguay 0, Australia 82,698|url=http://www.theage.com.au/articles/2005/11/16/1132016866524.html?from=top5|work=The Age|date=17 November 2005|access-date=29 April 2013|archive-date=1 September 2015|archive-url=https://web.archive.org/web/20150901133608/http://www.theage.com.au/articles/2005/11/16/1132016866524.html?from=top5|url-status=live}}</ref> Australia led Uruguay 1–0 after 90 minutes following a goal by [[Mark Bresciano]] in the first half. The aggregate was tied, and extra time was played. Neither team scored after two periods of extra time, bringing the game to a penalty shootout. Australia won the penalty shootout 4–2, making them the first-ever team to qualify for a World Cup via a penalty shootout.<ref>{{cite web|title=From the Terraces: It's Us Against The World|url=http://www.homepagedaily.com/Pages/article8947-from-the-terraces-its-us-against-the-world--by-jay-nair.aspx|work=Jay Nair|publisher=homepagedaily.com|access-date=29 April 2013|url-status=dead|archive-url=https://web.archive.org/web/20121025083100/http://homepagedaily.com/Pages/article8947-from-the-terraces-its-us-against-the-world--by-jay-nair.aspx|archive-date=25 October 2012}}</ref> Australian goalkeeper [[Mark Schwarzer]] made two saves, with [[John Aloisi]] scoring the winning penalty for a place in the World Cup, Australia's first qualification in 32 years.<ref name="Australia VS Uruguay 2006" />
+
+Australia went into the 2006 World Cup as the second lowest-ranked side. Although their ranking vastly improved in subsequent months after a series of exhibition matches against high-profile teams, including a 1–1 draw against the [[Netherlands national football team|Netherlands]], and a 1–0 win at the sold-out 100,000 capacity [[Melbourne Cricket Ground]] against the then [[UEFA Euro 2004|European champions]] [[Greece national football team|Greece]]<ref>{{cite news|url=http://www.heraldsun.news.com.au/common/story_page/0,5478,18714991%255E11088,00.html |title=G, it's a sellout for World Cup send-off |work=[[Herald Sun]] |date=5 April 2006 |archive-url=https://web.archive.org/web/20060410215456/http://www.heraldsun.news.com.au/common/story_page/0%2C5478%2C18714991%5E11088%2C00.html |archive-date=10 April 2006 |url-status=dead }}</ref> for the 2006 World Cup, Australia was placed into [[2006 FIFA World Cup Group F|Group F]], along with [[Japan national football team|Japan]], [[Croatia national football team|Croatia]] and defending champions Brazil. In their opening group game, Australia defeated Japan 3–1, with [[Tim Cahill]] scoring two goals (84', 89') and [[John Aloisi]] scoring one (90+2') in the last eight minutes. The goals were the first ever scored by Australia's men's soccer team in a World Cup and it was also the first victory of an Oceanian team in the tournament's history, as well as all three goals being scored in the last seven minutes of the game, which was never before done in a World Cup match.<ref>{{cite news | url=https://news.bbc.co.uk/sport2/hi/football/world_cup_2006/4852706.stm | title=Australia 3–1 Japan | work=BBC Sport | date=12 June 2006 | access-date=13 June 2006 | archive-date=26 September 2015 | archive-url=https://web.archive.org/web/20150926101105/http://news.bbc.co.uk/sport2/hi/football/world_cup_2006/4852706.stm | url-status=live }}</ref> Australia met Brazil in their second group game, which Australia lost to Brazil 2–0. The Socceroos faced Croatia in their third match. The final score (2–2) was enough to see Australia proceed to the [[2006 FIFA World Cup knockout stage|round of 16]], where they were eliminated from the competition after a 1–0 defeat by the eventual champions [[Italy national football team|Italy]] after conceding a controversial penalty in the 93rd minute.<ref>{{cite news|url=https://www.nytimes.com/2006/06/27/sports/soccer/27italy.html|title=A Tumble, a Whistle and a Controversial Victory for Italy|first=Mark|last=Landler|newspaper=[[The New York Times]]|date=27 June 2006|access-date=18 March 2021|archive-date=29 January 2021|archive-url=https://web.archive.org/web/20210129094010/https://www.nytimes.com/2006/06/27/sports/soccer/27italy.html|url-status=live}}</ref><ref>{{cite news|url=https://www.independent.co.uk/sport/football/international/italy-1-australia-0-totti-makes-most-referee-s-penalty-present-6096979.html|title=Italy 1 Australia 0: Totti makes most of referee's penalty present|first=Steve|last=Tongue|newspaper=[[The Independent]]|date=1 April 2009|access-date=18 March 2021|archive-date=20 September 2023|archive-url=https://web.archive.org/web/20230920222953/https://www.independent.co.uk/sport/football/international/italy-1-australia-0-totti-makes-most-of-referee-s-penalty-present-6096979.html|url-status=live}}</ref> The loss marked the official end of Hiddink's tenure as Australia's national coach.<ref>{{cite web|title=A Beautiful Mind|url=http://www.smh.com.au/news/world-cup-2006/a-beautiful-mind/2005/12/16/1134703612062.html|work=The Sydney Morning Herald|access-date=7 January 2014|archive-date=27 October 2013|archive-url=https://web.archive.org/web/20131027010114/http://www.smh.com.au/news/world-cup-2006/a-beautiful-mind/2005/12/16/1134703612062.html|url-status=live}}</ref> The success achieved at the 2006 World Cup later saw [[2006 FIFA World Cup squads#Australia|the team]] named [[Asian Football Confederation#Team of the Year|AFC National Team of the Year]],<ref>{{cite web|title=Australia Wins AFC Men's Team of the Year|url=http://refsroom.ausref.com/viewtopic.php?f=11&t=2209|publisher=refsroom.ausref.com|access-date=30 September 2013|archive-url=https://web.archive.org/web/20131211041052/http://refsroom.ausref.com/viewtopic.php?f=11&t=2209|archive-date=11 December 2013|url-status=dead}}</ref> as well as being dubbed the "[[golden generation]]" in the history of the Socceroos.<ref>{{cite web|title=Socceroos' golden generation has much to teach our youth|url=http://www.smh.com.au/sport/football/socceroos-golden-generation-has-much-to-teach-our-youth-20120721-22gti.html|work=The Sydney Morning Herald|date=21 July 2012|access-date=25 September 2013|archive-date=6 November 2013|archive-url=https://web.archive.org/web/20131106031203/http://www.smh.com.au/sport/football/socceroos-golden-generation-has-much-to-teach-our-youth-20120721-22gti.html|url-status=live}}</ref>
+
+=== Later success ===
+Led by coach [[Graham Arnold]], Australia went to their first [[2007 AFC Asian Cup|AFC Asian Cup in 2007]], sending a strong squad which included 15 players from the [[2006 FIFA World Cup|previous year's World Cup]] team. In [[2007 AFC Asian Cup#Group A|Group A]] they played against [[Oman national football team|Oman]] (a 1–1 draw), [[Thailand national football team|Thailand]] (a 4–0 win) and eventual champions [[Iraq national football team|Iraq]] (a 3–1 loss), assuring Australia's progression to the quarter-final stage of the tournament. After drawing 1–1 with Japan with 120 minutes played, Australia exited the tournament on penalties at the quarter-final stage. An international friendly on 11 September 2007 against Argentina (a 1–0 loss) was Graham Arnold's last game as head coach, with the position eventually being filled by [[Pim Verbeek]] on 6 December 2007.<ref>{{cite web|title=Verbeek is new Socceroos coach|url=http://www.smh.com.au/news/football/verbeek-will-be-socceroos-coach/2007/12/06/1196812889741.html|work=The Sydney Morning Herald|date=6 December 2007|access-date=29 April 2013|archive-date=8 December 2007|archive-url=https://web.archive.org/web/20071208141102/http://www.smh.com.au/news/football/verbeek-will-be-socceroos-coach/2007/12/06/1196812889741.html|url-status=live}}</ref>
+
+Australia began their [[2010 FIFA World Cup qualification (AFC)|2010 FIFA World Cup campaign]] in the [[2010 FIFA World Cup qualification&nbsp;– AFC third round|third round of qualification]], drawn into a group consisting of [[Qatar national football team|Qatar]], Iraq and [[China national football team|China PR]], in which Australia finished first. Australia eventually saw progression through to the [[2010 FIFA World Cup|tournament in South Africa]] after comfortably winning the [[2010 FIFA World Cup qualification&nbsp;– AFC fourth round|fourth round of qualification]] in a group consisting of Japan, [[Bahrain national football team|Bahrain]], Qatar and [[Uzbekistan national football team|Uzbekistan]].<ref>{{cite web|title=2010 World Cup Qualification History: Group D|date=24 March 2010|url=http://soccerlens.com/2010-world-cup-qualification-history-group-d/43857/|publisher=soccerlens.com|access-date=29 April 2013|archive-date=9 November 2014|archive-url=https://web.archive.org/web/20141109050425/http://soccerlens.com/2010-world-cup-qualification-history-group-d/43857/|url-status=live}}</ref> Australia's qualification was already assured before the final two games, finally topping [[2010 FIFA World Cup qualification&nbsp;– AFC fourth round#Group A|its group]] ahead of Japan by five points.
+
+[[File:FIFA World Cup 2010 Germany Australia.jpg|thumb|Australia against [[Germany national football team|Germany]] in [[Moses Mabhida Stadium]], at the 2010 FIFA World Cup]]
+Australia was drawn into [[2010 FIFA World Cup Group D|Group D]] in the World Cup, which featured three-time world champion Germany, [[Ghana national football team|Ghana]] and [[Serbia national football team|Serbia]]. On 14 June, Australia faced Germany. Pim Verbeek's surprising decision to play without a recognised striker saw Australia comprehensively defeated 4–0. Verbeek received heavy criticism for his tactics,<ref>{{cite news |url=http://www.smh.com.au/world-cup-2010/world-cup-news/verbeek-takes-blame-for-socceroos-defeat-20100614-y6gy.html |title=Verbeek takes blame for Socceroos defeat |work=The Sydney Morning Herald |date=14 June 2010 |location=Sydney |access-date=8 November 2010 |archive-date=8 November 2012 |archive-url=https://web.archive.org/web/20121108095436/http://www.smh.com.au/world-cup-2010/world-cup-news/verbeek-takes-blame-for-socceroos-defeat-20100614-y6gy.html |url-status=live }}</ref> with [[Special Broadcasting Service|SBS]] (Australia's World Cup broadcaster) chief soccer analyst [[Craig Foster]] calling for his immediate sacking.<ref>{{cite news|url=http://www.theaustralian.com.au/sport/world-cup-2010/craig-foster-sack-pim-verbeek-immediately/story-fn4l4sip-1225880401600|title=Craig Foster&nbsp;– sack Pim Verbeek immediately|work=The Australian|date=16 June 2010|first=Tim|last=Hilferty|access-date=8 November 2010|archive-date=29 April 2011|archive-url=https://web.archive.org/web/20110429172335/http://www.theaustralian.com.au/sport/world-cup-2010/craig-foster-sack-pim-verbeek-immediately/story-fn4l4sip-1225880401600|url-status=live}}</ref> Australia's second group match against Ghana resulted in a 1–1 draw, and their third and final group match against Serbia resulted in a 2–1 win. Ultimately, Australia were eliminated on goal difference behind Ghana. Pim Verbeek completed his term as Australian coach at the end of the 2010 World Cup and was soon replaced by [[Holger Osieck]].<ref>{{cite web|title=Holger Osieck named Socceroos coach|url=http://www.foxsports.com.au/football/socceroos/holger-osieck-named-socceroos-coach-you-told-us-your-thoughts-on-the-decision/story-e6frf4l3-1225923637418#.UX7ctdtXuPo|publisher=Fox Sports Australia|access-date=29 April 2013}}</ref>
+
+In 2010, Australia qualified for their second [[AFC Asian Cup]], topping their [[2011 AFC Asian Cup qualification#Group B|qualification group]]. A successful campaign at the [[2011 AFC Asian Cup|2011 Asian Cup]] saw Australia become runners-up to Japan, after losing in the [[2011 AFC Asian Cup final|Final]] 1–0 in extra time.<ref>{{cite news |url=https://www.telegraph.co.uk/sport/football/international/8290841/Australia-0-Japan-1-aet-match-report.html |archive-url=https://ghostarchive.org/archive/20220111/https://www.telegraph.co.uk/sport/football/international/8290841/Australia-0-Japan-1-aet-match-report.html |archive-date=11 January 2022 |url-access=subscription |url-status=live |title=Australia 0–1 Japan (AET) |date=29 January 2011 |work=Daily Telegraph |access-date=2 February 2011 |location=London}}{{cbignore}}</ref>
+
+In 2012, Australia agreed to compete in the [[East Asian Football Championship|East Asian Cup]].<ref>{{cite web|title=Australia sets sights on East Asia Cup|url=http://theworldgame.sbs.com.au/news/1118501/australia-sets-sights-on-east-asia-cup|work=The World Game|publisher=Special Broadcasting Service|access-date=29 April 2013|archive-url=https://web.archive.org/web/20130928023124/http://theworldgame.sbs.com.au/news/1118501/australia-sets-sights-on-east-asia-cup|archive-date=28 September 2013|url-status=dead}}</ref> Australia travelled to Hong Kong to compete in a series of qualification matches with the hopes of qualifying for the [[2013 EAFF East Asian Cup|2013 East Asian Cup]]. Despite handing several debuts and fielding an in-experienced squad, Australia was successful, finishing ahead of [[Hong Kong national football team|Hong Kong]], North Korea, [[Guam national football team|Guam]] and [[Chinese Taipei national football team|Chinese Taipei]] to progress to the 2013 East Asian Cup, where Australia eventually finished last behind Japan, [[South Korea national football team|South Korea]] and China PR.<ref>{{cite news|title=Rookie Socceroos selected for East Asian Cup|url=http://www.abc.net.au/news/2012-11-22/rookie-socceroos-selected-for-east-asian-cup/4386314|work=ABC News|publisher=Australian Broadcasting Corporation|access-date=29 April 2013|archive-date=14 May 2014|archive-url=https://web.archive.org/web/20140514201606/http://www.abc.net.au/news/2012-11-22/rookie-socceroos-selected-for-east-asian-cup/4386314|url-status=live}}</ref><ref>{{cite web|title=Osieck: East Asian Cup was valuable|url=http://theworldgame.sbs.com.au/socceroos/news/1161484/Osieck-East-Asian-Cup-was-valuable|work=The World Game|publisher=Special Broadcasting Service|access-date=25 September 2013|archive-url=https://web.archive.org/web/20130928023119/http://theworldgame.sbs.com.au/socceroos/news/1161484/Osieck-East-Asian-Cup-was-valuable|archive-date=28 September 2013|url-status=dead}}</ref> On 26 August 2013, Australia became full members of the [[ASEAN Football Federation]]<ref>{{cite news|title=Australia joins ASEAN Football Federation|url=http://www.goal.com/en-gh/news/4630/soccerex/2013/08/27/4216435/australia-joins-asean-football-federation|access-date=30 October 2017|work=Goal Ghana|date=27 August 2013|archive-date=7 November 2017|archive-url=https://web.archive.org/web/20171107014023/http://www.goal.com/en-gh/news/4630/soccerex/2013/08/27/4216435/australia-joins-asean-football-federation|url-status=live}}</ref> but as part of their entrance agreement with the sub-confederation, their national team is barred from participating in the [[AFF Championship]] due to their perceived wide gap in playing standards between Australia and the rest of the region.<ref name="entrance2020">{{cite news |last1=Bossi |first1=Dominic |title=Socceroos seeking entrance into 2020 Suzuki Cup |url=https://www.smh.com.au/sport/soccer/socceroos-seeking-entrance-into-2020-suzuki-cup-20190131-p50us0.html |access-date=27 January 2019 |work=The Sydney Morning Herald |date=31 January 2019 |archive-date=31 January 2019 |archive-url=https://web.archive.org/web/20190131145513/https://www.smh.com.au/sport/soccer/socceroos-seeking-entrance-into-2020-suzuki-cup-20190131-p50us0.html |url-status=live }}</ref>
+
+[[File:Chile vs. Australia en el Arena Pantanal de Cuiabá.JPG|thumb|right|Australia against [[Chile national football team|Chile]] in [[Arena Pantanal|Arena Pantanal, Cuiabá]], at the 2014 FIFA World Cup.]] Australia's [[2014 FIFA World Cup qualification (AFC)|2014 FIFA World Cup qualification campaign]] began with a series of friendlies against the [[United Arab Emirates national football team|United Arab Emirates]] (0–0), Germany (a 2–1 win), New Zealand (a 3–0 win), Serbia (0–0) and [[Wales national football team|Wales]] (a 2–1 win).<ref>{{cite web|title=Socceroo Internationals for 2011|url=http://www.ozfootball.net/ark/Socceroo/2011A.html|publisher=OzFootball|access-date=29 April 2013|archive-date=4 February 2014|archive-url=https://web.archive.org/web/20140204150422/http://www.ozfootball.net/ark/Socceroo/2011A.html|url-status=live}}</ref> Australia's World Cup campaign started in the [[2014 FIFA World Cup qualification&nbsp;– AFC third round|third round]] of qualification, with Australia topping [[2014 FIFA World Cup qualification&nbsp;– AFC third round#Group D|their group]] to progress to the [[2014 FIFA World Cup qualification&nbsp;– AFC fourth round|fourth round]]. After winning their last fourth round-game, Australia finished as runners-up in [[2014 FIFA World Cup qualification&nbsp;– AFC fourth round#Group B|their group]], qualifying for the [[2014 FIFA World Cup|finals tournament in Brazil]] on 18 June 2013.<ref>{{cite web|title=Super-sub Kennedy sends Australia to Brazil|url=http://theworldgame.sbs.com.au/news/1156519/Super-sub-Kennedy-sends-Australia-to-Brazil|work=The World Game|publisher=Special Broadcasting Service|access-date=18 June 2013|archive-url=https://web.archive.org/web/20131205012306/http://theworldgame.sbs.com.au/news/1156519/super-sub-kennedy-sends-australia-to-brazil|archive-date=5 December 2013|url-status=dead}}</ref>
+
+Shortly after achieving qualification to the World Cup, Australia played a series of friendly matches against Brazil and France, suffering consecutive 6–0 defeats. This along with previous poor performances during the 2014 World Cup qualification campaign resulted in manager Holger Osieck's sacking, bringing his three-year tenure as Australia's manager to an end.<ref name="Osieck sacking">{{cite web|title=Holger Osieck's contract terminated|url=http://www.footballaustralia.com.au/news-display/holger-osieck-s-contract-terminated/77026|publisher=Football Federation Australia|access-date=12 October 2013|archive-date=14 October 2013|archive-url=https://web.archive.org/web/20131014092433/http://www.footballaustralia.com.au/news-display/holger-osieck-s-contract-terminated/77026|url-status=dead}}</ref>
+
+=== New generation: the 2015 AFC Asian Cup triumph ===
+[[File:2015 AFC Asian Cup opening match Australia Kuwait, 9 January 2015 (3).jpg|thumb|Australia match against [[Kuwait national football team|Kuwait]] in [[2015 AFC Asian Cup]] opening match]]After a two-week search for a new manager, [[Ange Postecoglou]] was eventually appointed in the position.<ref>{{cite web|title=Ange Postecoglou appointed Socceroos coach|url=http://www.footballaustralia.com.au/news-display/ange-postecoglou-appointed-socceroos-coach/77480|publisher=Football Federation Australia|access-date=23 October 2013|archive-date=29 October 2013|archive-url=https://web.archive.org/web/20131029191629/http://www.footballaustralia.com.au/news-display/ange-postecoglou-appointed-socceroos-coach/77480|url-status=dead}}</ref> Postecoglou was tasked with regenerating the Australian national team, which was deemed to have been too reliant on members of their Golden Generation of 2006, subsequently leading to a stagnation of results, culminating in successive 6–0 defeats to Brazil and France.<ref>{{cite web |author=Andrew Webster |url=http://www.smh.com.au/fifa-world-cup-2014/australia-2014/world-cup-2014-ange-postecoglous-socceroos-regeneration-has-ffa-backing-20140612-zs4o3.html |title=World Cup 2014: Ange Postecoglou's Socceroos regeneration has FFA backing |date=12 June 2014 |publisher=Smh.com.au |access-date=20 February 2015 |archive-date=13 June 2014 |archive-url=https://web.archive.org/web/20140613092623/http://www.smh.com.au/fifa-world-cup-2014/australia-2014/world-cup-2014-ange-postecoglous-socceroos-regeneration-has-ffa-backing-20140612-zs4o3.html |url-status=live }}</ref> In his first game as Australia's manager, a home friendly match against [[Costa Rica national football team|Costa Rica]], Australia won 1–0 courtesy of a goal from Tim Cahill.<ref>{{cite web|title=Positive signs emerge for Socceroos as bold new era begins in earnest|url=http://www.smh.com.au/sport/soccer/positive-signs-emerge-for-socceroos-as-bold-new-era-begins-in-earnest-20131119-2xtks.html|work=The Sydney Morning Herald|date=19 November 2013|access-date=8 January 2014|archive-date=23 December 2013|archive-url=https://web.archive.org/web/20131223181146/http://www.smh.com.au/sport/soccer/positive-signs-emerge-for-socceroos-as-bold-new-era-begins-in-earnest-20131119-2xtks.html|url-status=live}}</ref>
+
+At the World Cup, Australia were drawn in [[2014 FIFA World Cup Group B|Group B]] alongside [[2010 FIFA World Cup final|defending world champions]] [[Spain national football team|Spain]], 2010 runners-up [[Netherlands national football team|Netherlands]] and [[Chile national football team|Chile]].<ref>{{cite web|title=Australia in a nightmare 'Group of Death' for Brazil World Cup|url=http://www.smh.com.au/sport/soccer/australia-in-nightmare-group-of-death-for-brazil-world-cup-20131207-2yxjw.html|work=The Sydney Morning Herald|date=6 December 2013|access-date=8 January 2014|archive-date=12 January 2014|archive-url=https://web.archive.org/web/20140112080156/http://www.smh.com.au/sport/soccer/australia-in-nightmare-group-of-death-for-brazil-world-cup-20131207-2yxjw.html|url-status=live}}</ref> Their first match was off to a lacklustre start, having conceded two goals in the opening 15 minutes from [[Alexis Sánchez]] and [[Jorge Valdivia]]. Despite a goal from Tim Cahill that inspired a late resurgence from Postecoglou's team, they ultimately lost to Chile 3–1. Their second match against the Netherlands was a close one, with the Socceroos giving up a 2–1 lead, eventually resulting in a 3–2 loss, thus earning their early exit along with the Spanish. In the end, Australia finished Group B with a third consecutive defeat to Spain, 3–0. Australia's competitive World Cup performances in a difficult group led to believe that a new Golden Generation was about to begin.<ref>{{cite web |url=http://www.footballaustralia.com.au/article/exciting-times-for-new-golden-generation-milligan/yy028lqzc9fy182rf3035ykeo |title=Exciting times for new golden generation: Milligan &#124; Football Federation Australia |publisher=Footballaustralia.com.au |access-date=20 February 2015 |archive-date=8 January 2015 |archive-url=https://web.archive.org/web/20150108075455/http://www.footballaustralia.com.au/article/exciting-times-for-new-golden-generation-milligan/yy028lqzc9fy182rf3035ykeo |url-status=live }}</ref><ref>{{cite web |url=http://www.footballaustralia.com.au/article/welcome-our-new-golden-generation/yqbsl7ds9zci1oy3146k62c6z |title=Welcome our new 'Golden Generation' &#124; Football Federation Australia |publisher=Footballaustralia.com.au |access-date=20 February 2015 |archive-date=8 January 2015 |archive-url=https://web.archive.org/web/20150108075503/http://www.footballaustralia.com.au/article/welcome-our-new-golden-generation/yqbsl7ds9zci1oy3146k62c6z |url-status=live }}</ref>
+
+In their first international match after the World Cup, Australia played 2014 quarter-finalists [[Belgium national football team|Belgium]] in [[Liège]], with Australia going down 2–0. Four days later, Australia achieved their first international win in ten months, and just their second win under Ange Postecoglou, with a 3–2 victory over [[Saudi Arabia national football team|Saudi Arabia]] in [[London]]. After drawing against the United Arab Emirates, and suffering successive losses against Qatar and Japan, combined with previous poor results earlier in the year, Australia slipped to 94 and 102 in the [[FIFA World Rankings]], their lowest-ever ranking.<ref>{{cite web|url=http://www.foxsports.com.au/football/socceroos/fifa-rankings-socceroos-hit-their-first-century-as-japan-emerges-as-asias-top-side/story-e6frf4l3-1227137515527/ |title=FIFA rankings: Socceroos hit their first century as Japan emerges as Asia's top side |publisher=foxsports.com.au|access-date=19 August 2015}}</ref>
+[[File:2015 Asian Cup Final.jpg|thumb|Australia playing in the [[2015 AFC Asian Cup final]] where they would go on to lift the cup after defeating [[South Korea national football team|South Korea]] 2–1 in extra time]]
+The new year saw Australia host the [[2015 AFC Asian Cup]], with the team making their third consecutive appearance in the tournament. Australia won their first two [[2015 AFC Asian Cup Group A|group matches]] against [[Kuwait national football team|Kuwait]] and Oman comfortably, with scorelines of 4–1 and 4–0 respectively. This guaranteed their qualification for the knockout stage, despite losing their final group match against South Korea in Brisbane 1–0.<ref>{{cite news |url=http://www.abc.net.au/news/2015-01-13/outstanding-socceroos-beat-oman-4-0-to-secure-quarter-final-spot/6015456 |title=Asian Cup 2015: Outstanding Australia beats Oman 4–0 to secure quarter-final place&nbsp;– Asian Cup 2015 (Australian Broadcasting Corporation) |newspaper=ABC News |date=13 January 2015 |publisher=Abc.net.au |access-date=20 February 2015 |archive-date=20 May 2016 |archive-url=https://web.archive.org/web/20160520090348/http://www.abc.net.au/news/2015-01-13/outstanding-socceroos-beat-oman-4-0-to-secure-quarter-final-spot/6015456 |url-status=live }}</ref> They faced China PR in the quarter-finals and won 2–0, courtesy of a second-half brace from Tim Cahill. In the semi-finals, Australia won 2–0 over the United Arab Emirates and advanced to the [[2015 AFC Asian Cup Final|final]] for the second time in a row. They faced South Korea in the final on 31 January at [[Stadium Australia]], winning 2–1 after extra time to claim their first Asian title and qualify for the [[2017 FIFA Confederations Cup]].<ref>{{cite news|url=http://www.abc.net.au/news/2015-01-31/australia-socceroos-win-asian-cup/6060038?section=sport|title=Asian Cup: Australia wins first title with 2–1 extra-time win over South Korea|publisher=[[Australian Broadcasting Corporation]]|date=31 January 2015|access-date=31 January 2015|archive-date=2 February 2015|archive-url=https://web.archive.org/web/20150202021006/http://www.abc.net.au/news/2015-01-31/australia-socceroos-win-asian-cup/6060038?section=sport|url-status=live}}</ref><ref>{{cite web|url=https://www.bbc.com/sport/0/football/31073689|title=Australia beat South Korea after extra time|date=31 January 2015|work=BBC Sport|access-date=2 February 2015|archive-date=23 January 2016|archive-url=https://web.archive.org/web/20160123123503/http://www.bbc.com/sport/0/football/31073689|url-status=live}}</ref>
+
+After Australia qualified for the [[2018 FIFA World Cup]] in November 2017, [[Ange Postecoglou]] resigned from his position as coach;<ref>{{cite news|url=https://www.theguardian.com/football/2017/nov/22/ange-postecoglou-quits-as-socceroos-coach|title=Ange Postecoglou quits as Socceroos coach|newspaper=[[The Guardian]]|date=22 November 2017|access-date=21 November 2017|archive-date=6 February 2018|archive-url=https://web.archive.org/web/20180206091436/https://www.theguardian.com/football/2017/nov/22/ange-postecoglou-quits-as-socceroos-coach|url-status=live}}</ref> and former manager of the Netherlands national team, [[Bert van Marwijk]], was subsequently appointed as his replacement.<ref>{{cite news |url=https://theworldgame.sbs.com.au/article/2018/01/25/van-marwijk-appointed-new-socceroos-coach |title=Van Marwijk appointed new Socceroos coach |work=The World Game |date=25 January 2018 |access-date=1 February 2018 |agency=[[Australian Associated Press|AAP]] |archive-date=1 February 2018 |archive-url=https://web.archive.org/web/20180201200027/https://theworldgame.sbs.com.au/article/2018/01/25/van-marwijk-appointed-new-socceroos-coach |url-status=live }}</ref><ref>{{cite news |url=http://www.abc.net.au/news/2018-01-25/bert-van-marwijk-named-socceroos-coach/9360858 |title=Socceroos name former Netherlands boss Bert Van Marwijk as coach for 2018 World Cup |work=[[ABC News (Australia)|ABC News]] |location=Australia |date=25 January 2018 |access-date=1 February 2018 |archive-date=2 February 2018 |archive-url=https://web.archive.org/web/20180202061032/http://www.abc.net.au/news/2018-01-25/bert-van-marwijk-named-socceroos-coach/9360858 |url-status=live }}</ref><ref>{{cite news |url=http://www.smh.com.au/sport/soccer/bert-van-marwijk-appointed-socceroos-coach-for-world-cup-20180125-h0o2am.html |title=FIFA World Cup 2018: Bert van Marwijk appointed new Socceroos coach |work=[[Sydney Morning Herald]] |date=25 January 2018 |access-date=1 February 2018 |author=Bossi, Dominic |archive-date=1 February 2018 |archive-url=https://web.archive.org/web/20180201193111/http://www.smh.com.au/sport/soccer/bert-van-marwijk-appointed-socceroos-coach-for-world-cup-20180125-h0o2am.html |url-status=live }}</ref> On 8 March 2018, after van Marwijk's first squad announcement, the FFA announced that [[Graham Arnold]] will take the coaching role from after the 2018 World Cup until the [[2022 FIFA World Cup|2022 World Cup]].<ref>{{cite news|url=https://www.theguardian.com/football/2018/mar/08/graham-arnold-socceroos-coach-after-2018-world-cup-bert-van-marwijk|title=No surprises as Graham Arnold takes on impossible Socceroos job|first=Jonathan|last=Howcroft|newspaper=[[The Guardian]]|date=8 March 2018|access-date=8 March 2018|archive-date=8 March 2018|archive-url=https://web.archive.org/web/20180308064903/https://www.theguardian.com/football/2018/mar/08/graham-arnold-socceroos-coach-after-2018-world-cup-bert-van-marwijk|url-status=live}}</ref>
+
+With van Marwijk, Australia was [[2018 FIFA World Cup Group C|grouped]] with [[Denmark national football team|Denmark]], [[France national football team|France]] and [[Peru national football team|Peru]]. The Socceroos' first group match against eventual [[2018 FIFA World Cup final|world champions]] France was praised by a valiant effort, in which Australia only lost 1–2 by a virtual own goal from [[Aziz Behich]].<ref>{{cite news|url=https://www.theguardian.com/football/live/2018/jun/16/france-v-australia-world-cup-2018-live|title=France 2–1 Australia: World Cup 2018 – as it happened|first1=Jonathan|last1=Howcroft|newspaper=The Guardian|date=16 June 2018|access-date=11 February 2019|via=www.theguardian.com|archive-date=26 June 2019|archive-url=https://web.archive.org/web/20190626055619/https://www.theguardian.com/football/live/2018/jun/16/france-v-australia-world-cup-2018-live|url-status=live}}</ref> After the defeat to France, Australia produced another outstanding performance, drawing Denmark 1–1.<ref>{{cite news|url=https://www.washingtonpost.com/news/soccer-insider/wp/2018/06/21/denmark-vs-australia-2018-world-cup/|title=Denmark vs. Australia 2018 World Cup: A 1–1 tie keeps the Socceroos alive|newspaper=The Washington Post|date=21 June 2018|access-date=8 February 2019|archive-date=12 February 2019|archive-url=https://web.archive.org/web/20190212011432/https://www.washingtonpost.com/news/soccer-insider/wp/2018/06/21/denmark-vs-australia-2018-world-cup/|url-status=live}}</ref> However, in the crucial match against already eliminated Peru, Australia lost 0–2 and crashed out from the World Cup with only a point, becoming the only team from the AFC to be winless in the 2018 World Cup.<ref>{{cite web|url=https://sport360.com/article/world_cup_2018/analysis/290350/andre-carrillo-and-luis-advincula-both-get-an-8-as-peru-cruise-past-australia-2-0-on-world-cup-bow|title=Football news: Andre Carrillo and Luis Advíncula both get an 8 as Peru cruise past Australia 2–0 on World Cup bow – Article – Sport360|website=sport360.com|access-date=11 February 2019|archive-date=9 February 2019|archive-url=https://web.archive.org/web/20190209124122/https://sport360.com/article/world_cup_2018/analysis/290350/andre-carrillo-and-luis-advincula-both-get-an-8-as-peru-cruise-past-australia-2-0-on-world-cup-bow|url-status=live}}</ref> Subsequently, van Marwijk left his post and Arnold replaced him as the new coach of the Socceroos.
+
+Under [[Graham Arnold]], Australia started their [[2019 AFC Asian Cup]] in hope of defending the title, being [[2019 AFC Asian Cup Group B|grouped]] with [[Jordan national football team|Jordan]], Syria and Palestine, but their hope was shattered by a shocking 0–1 defeat to Jordan.<ref>{{cite web|url=https://www.mykhel.com/football/afc-asian-cup-2019-australia-0-jordan-1-champions-stunned-in-group-b-opener-107456.html|title=AFC Asian Cup 2019: Australia 0 Jordan 1: Champions stunned in Group B opener|date=6 January 2019|website=Mykhel|access-date=11 February 2019|archive-date=9 February 2019|archive-url=https://web.archive.org/web/20190209124306/https://www.mykhel.com/football/afc-asian-cup-2019-australia-0-jordan-1-champions-stunned-in-group-b-opener-107456.html|url-status=live}}</ref> Australia soon returned to the race by beating Palestine 3–0<ref>{{cite web|url=https://en.as.com/en/2019/01/11/football/1547201162_797853.html|title=Australia bounce back from opening loss with easy victory|date=17 January 2019|website=AS.com|access-date=11 February 2019|archive-date=9 February 2019|archive-url=https://web.archive.org/web/20190209124514/https://en.as.com/en/2019/01/11/football/1547201162_797853.html|url-status=live}}</ref> before winning an important encounter with a hard-fought 3–2 win over Syria,<ref>{{cite web|url=https://www.abc.net.au/news/2019-01-16/socceroos-down-syria-3-2-to-progress-in-asian-cup/10716986|title=Socceroos hold out spirited Syria 3–2 to progress in Asian Cup|first=Liam|last=Butterworth|date=16 January 2019|website=ABC News|access-date=11 February 2019|archive-date=25 January 2019|archive-url=https://web.archive.org/web/20190125075051/https://www.abc.net.au/news/2019-01-16/socceroos-down-syria-3-2-to-progress-in-asian-cup/10716986|url-status=live}}</ref> eliminating both Palestine and Syria in the process. The win gave Australia to qualify for the round of sixteen, where they overcame [[Uzbekistan national football team|Uzbekistan]] after winning on penalties 4–2, having drawn 0–0 for 120 minutes.<ref>{{cite web|url=https://www.beinsports.com/en/afc-asian-cup-uae-2019/video/australia-0-uzbekistan-0-aet-4-2-on-penalti-1/1091390|title=Australia 0 Uzbekistan 0 (aet, 4–2 on penalties): Ryan heroics see holders hobble onwards|website=beIN SPORTS|date=21 January 2019|access-date=8 February 2019|archive-date=9 February 2019|archive-url=https://web.archive.org/web/20190209183027/https://www.beinsports.com/en/afc-asian-cup-uae-2019/video/australia-0-uzbekistan-0-aet-4-2-on-penalti-1/1091390|url-status=live}}</ref> In the quarter-finals, however, in the [[Hazza bin Zayed Stadium]], where Australia had lost their opening match against Jordan, Australia once again failed to register a win in the same ground, losing to the host United Arab Emirates 0–1 due to a mistake from [[Miloš Degenek]], eventually failing to defend the title.<ref>{{cite web|url=https://www.thenationalnews.com/sport/football/asian-cup-2019-uae-v-australia-as-it-happened-uae-win-1-0-thanks-to-ali-mabkhout-strike-1.818028|title=Asian Cup 2019: UAE v Australia as it happened – UAE win 1–0 thanks to Ali Mabkhout strike|website=The National|date=25 January 2019|access-date=11 February 2019|archive-date=9 February 2019|archive-url=https://web.archive.org/web/20190209180213/https://www.thenational.ae/sport/football/asian-cup-2019-uae-v-australia-as-it-happened-uae-win-1-0-thanks-to-ali-mabkhout-strike-1.818028|url-status=live}}</ref>
+
+=== 2022 FIFA World Cup resurgence ===
+Australia took part in the [[2022 FIFA World Cup qualification (AFC)|2022 FIFA World Cup qualification]], which they entered in the [[2022 FIFA World Cup qualification – AFC second round|second round]], in which they faced [[Kuwait national football team|Kuwait]], Jordan, [[Nepal national football team|Nepal]] and [[Chinese Taipei national football team|Chinese Taipei]].<ref>{{Cite web |date=2019-07-17 |title=Australia to face Jordan, Chinese Taipei, Kuwait, and Nepal in combined qualifiers |url=https://www.socceroos.com.au/news/australia-face-jordan-chinese-taipei-kuwait-nepal-combined-qualifiers-fifa-world-cup-qatar-2022 |access-date=2022-12-02 |website=Socceroos |language=en |archive-date=2 December 2022 |archive-url=https://web.archive.org/web/20221202123217/https://www.socceroos.com.au/news/australia-face-jordan-chinese-taipei-kuwait-nepal-combined-qualifiers-fifa-world-cup-qatar-2022 |url-status=live }}</ref> Australia dominated the group with eight wins out of eight to reach the [[2022 FIFA World Cup qualification – AFC third round|third round]], where it faced [[Saudi Arabia national football team|Saudi Arabia]], [[Japan national football team|Japan]], [[China national football team|China]], [[Oman national football team|Oman]] and [[Vietnam national football team|Vietnam]].<ref>{{Cite news |date=2021-07-01 |title=Soccer-China handed tough draw in World Cup preliminaries |language=en |work=Reuters |url=https://www.reuters.com/article/us-soccer-worldcup-asia-idCAKCN2E73Q6 |access-date=2022-12-02 |archive-date=2 December 2022 |archive-url=https://web.archive.org/web/20221202123215/https://www.reuters.com/article/us-soccer-worldcup-asia-idCAKCN2E73Q6 |url-status=live }}</ref> After a start with three straight wins over China, Vietnam and Oman, Australia then won only one game, against Vietnam, in their final seven matches, being held thrice and losing three more, finishing third in the group. It then had to rely on [[2022 FIFA World Cup qualification – AFC fourth round|fourth round playoffs]].<ref>{{Cite web |date=2022-02-01 |title=Australia's World Cup road now rocky after dispiriting draw at Oman |url=https://www.espn.com/soccer/australia-aus/story/4583623/australias-world-cup-road-now-rocky-after-dispiriting-draw-at-oman |access-date=2022-12-02 |website=ESPN.com |language=en |archive-date=2 December 2022 |archive-url=https://web.archive.org/web/20221202123215/https://www.espn.com/soccer/australia-aus/story/4583623/australias-world-cup-road-now-rocky-after-dispiriting-draw-at-oman |url-status=live }}</ref> Due to the [[COVID-19 pandemic]], all of Australia's playoffs were centralised in [[Doha]]. The Socceroos began their quest with a 2–1 win over the [[United Arab Emirates national football team|United Arab Emirates]], to face fifth place [[2022 FIFA World Cup qualification (CONMEBOL)|CONMEBOL qualification]] finisher [[Peru national football team|Peru]], a rematch of the [[2018 FIFA World Cup Group C|2018 FIFA World Cup]].<ref>{{Cite web |title=United Arab Emirates 1–2 Australia: Australians set up Peru clash for place at World Cup finals |url=https://www.skysports.com/football/news/11095/12629706/united-arab-emirates-1-2-australia-australians-set-up-peru-clash-for-place-at-world-cup-finals |access-date=2022-12-02 |website=Sky Sports |language=en |archive-date=2 December 2022 |archive-url=https://web.archive.org/web/20221202123215/https://www.skysports.com/football/news/11095/12629706/united-arab-emirates-1-2-australia-australians-set-up-peru-clash-for-place-at-world-cup-finals |url-status=live }}</ref> This time around, Australia held Peru goalless, before winning on penalties to qualify for the FIFA World Cup in Qatar. 
+
+Australia was drawn in [[2022 FIFA World Cup Group D|group D]] along with [[France national football team|France]], [[Denmark national football team|Denmark]] and [[Tunisia national football team|Tunisia]].<ref>{{Cite news |title=Australia book World Cup place on penalties |language=en-GB |work=BBC Sport |url=https://www.bbc.com/sport/football/61771218 |access-date=2022-12-02 |archive-date=2 December 2022 |archive-url=https://web.archive.org/web/20221202163343/https://www.bbc.com/sport/football/61771218 |url-status=live }}</ref> Australia's qualification also meant that the [[Asian Football Confederation|Asian confederation]] had the largest number of teams in their FIFA World Cup history, with six countries qualifying.<ref>{{cite web|title=Australia edge Peru on penalties for historical sixth Qatar 2022 spot|url=https://www.the-afc.com/en/national/fifa_world_cup/news/inter-confederation_playoff_australia_v_peru_1.html|website=the-afc|publisher=Asian Football Confederation|access-date=30 May 2023|date=14 June 2022|archive-date=30 May 2023|archive-url=https://web.archive.org/web/20230530094415/https://www.the-afc.com/en/national/fifa_world_cup/news/inter-confederation_playoff_australia_v_peru_1.html|url-status=live}}</ref>
+
+[[File:2022 FIFA World Cup France 4–1 Australia - (5).jpg|thumb|Australia before their match against [[France national football team|France]] in the [[2022 FIFA World Cup]] opening match]]
+As preparation for the 2022 FIFA World Cup, Australia played two friendlies against neighbouring [[New Zealand men's national football team|New Zealand]], winning both games.<ref>{{Cite news |date=2022-09-22 |title=Mabil on target as Socceroos defeat NZ in friendly international in Brisbane |language=en-AU |work=ABC News |url=https://www.abc.net.au/news/2022-09-22/socceroos-v-nz-live-updates-brisbane/101464574 |access-date=2022-12-02 |archive-date=2 December 2022 |archive-url=https://web.archive.org/web/20221202123210/https://www.abc.net.au/news/2022-09-22/socceroos-v-nz-live-updates-brisbane/101464574 |url-status=live }}</ref><ref>{{Cite web |date=2022-09-25 |title=Garang Kuol and Jason Cummings shine on debut as Socceroos beat New Zealand |url=https://www.theguardian.com/football/2022/sep/25/garang-kuol-and-jason-cummings-shine-on-debut-as-socceroos-beat-new-zealand |access-date=2022-12-02 |website=the Guardian |language=en |archive-date=25 September 2022 |archive-url=https://web.archive.org/web/20220925065433/https://www.theguardian.com/football/2022/sep/25/garang-kuol-and-jason-cummings-shine-on-debut-as-socceroos-beat-new-zealand |url-status=live }}</ref> It began its World Cup quest on 23 November against France, losing 4–1 after initially taking the lead with  goal from [[Craig Goodwin]].<ref>{{Cite web |title=France 4–1 Australia: Olivier Giroud scores record-equalling goal as Kylian Mbappe helps holders shrug off early scare in World Cup Group D |url=https://www.skysports.com/football/news/12098/12753026/france-4-1-australia-olivier-giroud-scores-record-equalling-goal-as-kylian-mbappe-helps-holders-shrug-off-early-scare-in-world-cup-group-d |access-date=2022-12-02 |website=Sky Sports |language=en |archive-date=2 December 2022 |archive-url=https://web.archive.org/web/20221202131621/https://www.skysports.com/football/news/12098/12753026/france-4-1-australia-olivier-giroud-scores-record-equalling-goal-as-kylian-mbappe-helps-holders-shrug-off-early-scare-in-world-cup-group-d |url-status=live }}</ref> Three days later Australia registered its first World Cup win since [[2010 FIFA World Cup|2010]], overcoming Tunisia with a header from [[Mitchell Duke]] to seal a 1–0 win, sending Australia from bottom to second place.<ref>{{Cite web |date=2022-11-26 |title=Tunisia 0–1 Australia: Mitchell Duke header boosts Socceroos' knockout hopes at World Cup in Qatar |url=https://www.eurosport.com/football/world-cup/2022/fifa-world-cup-2022-in-qatar-live-tunisia-v-australia-updates_sto9242701/story.shtml |access-date=2022-12-02 |website=Eurosport |language=en}}</ref> Four days later, against [[UEFA Euro 2020]] semi-finalists Denmark, Australia won 1–0, thanks to a [[Mathew Leckie]] goal. Australia finished the group stage in second place behind France on goal difference, making Australia the first Asian representative to reach the [[2022 FIFA World Cup knockout stage|knockout stage in Qatar 2022]].<ref>{{cite web|url=https://www.fifa.com/fifaplus/en/articles/qatar-2022-fifa-world-cup-afc-japan-korea-australia-record|title=More than outsiders: AFC shines at the 2022 FIFA World Cup with unprecedented achivements|publisher=[[FIFA]]|date=6 December 2022|access-date=5 January 2023|archive-date=5 January 2023|archive-url=https://web.archive.org/web/20230105070308/https://www.fifa.com/fifaplus/en/articles/qatar-2022-fifa-world-cup-afc-japan-korea-australia-record|url-status=live}}</ref> Australia's resurgence in the group stage was widely watched and followed by Australian supporters. Mass celebrations occurred after the upsets over Tunisia and Denmark, and Prime Minister [[Anthony Albanese]] called the achievement "magnificent".<ref>{{Cite web |title='The best game of football': Fans react as Socceroos win first World Cup game in 12 years |url=https://www.sbs.com.au/news/article/the-best-game-of-football-fans-react-as-socceroos-score-first-world-cup-game-win-in-12-years/8ny7kuifv |access-date=2022-12-02 |website=SBS News |date=26 November 2022 |language=en |archive-date=2 December 2022 |archive-url=https://web.archive.org/web/20221202123210/https://www.sbs.com.au/news/article/the-best-game-of-football-fans-react-as-socceroos-score-first-world-cup-game-win-in-12-years/8ny7kuifv |url-status=live }}</ref><ref>{{Cite web |date=2022-11-30 |title=Wild scenes erupt as sensational Socceroos break 16-year World Cup drought |url=https://www.skynews.com.au/australia-news/sport/thousands-of-fans-celebrate-in-insane-scenes-as-australia-beats-denmark-to-advance-to-round-of-16-in-2022-world-cup/news-story/589d12525016a15838eace8d0cbd3370 |access-date=2022-12-02 |website=skynews |language=en |archive-date=2 December 2022 |archive-url=https://web.archive.org/web/20221202123211/https://www.skynews.com.au/australia-news/sport/thousands-of-fans-celebrate-in-insane-scenes-as-australia-beats-denmark-to-advance-to-round-of-16-in-2022-world-cup/news-story/589d12525016a15838eace8d0cbd3370 |url-status=live }}</ref><ref>{{Cite web |date=2022-11-30 |title='A magnificent win': Australia's World Cup victory sparks wild celebrations back home |url=https://www.theguardian.com/football/2022/dec/01/a-magnificent-win-australias-world-cup-sparks-wild-celebrations-back-home |access-date=2022-12-02 |website=the Guardian |language=en |archive-date=2 December 2022 |archive-url=https://web.archive.org/web/20221202124152/https://www.theguardian.com/football/2022/dec/01/a-magnificent-win-australias-world-cup-sparks-wild-celebrations-back-home |url-status=live }}</ref> In the round of 16, Australia lost 2–1 to [[Argentina national football team|Argentina]], with [[Lionel Messi]] opening the scoring and [[Julián Álvarez (footballer)|Julián Álvarez]] getting the second after dispossessing [[Mathew Ryan]]. Australia pulled one back when Goodwin's shot deflected into goal off [[Enzo Fernández (footballer, born 2001)|Enzo Fernández]] and [[Garang Kuol]] almost scored the equaliser in injury time, but his shot was smothered by Argentinian goalkeeper [[Emiliano Martínez]].<ref>{{cite news|url=https://www.smh.com.au/sport/soccer/messi-genius-and-a-ryan-mistake-argentina-end-socceroos-world-cup-20221204-p5c3f6.html|title=Messi genius and a Ryan mistake: Argentina end Socceroos' World Cup|first=Vince|last=Rugari|newspaper=[[The Sydney Morning Herald]]|date=4 December 2022|access-date=4 December 2022|archive-date=4 December 2022|archive-url=https://web.archive.org/web/20221204073406/https://www.smh.com.au/sport/soccer/messi-genius-and-a-ryan-mistake-argentina-end-socceroos-world-cup-20221204-p5c3f6.html|url-status=live}}</ref>
+
+=== 2026 World Cup qualification ===
+On 20 September 2024, Graham Arnold announced he was stepping down as head coach, two games into the third round of [[2026 FIFA World Cup qualification – AFC third round|2026 FIFA World Cup qualifying]].<ref>{{Cite web |last=Rugari |first=Vince |date=2024-09-20 |title=Muscat out of the running as Socceroos begin hunt for Arnold's replacement |url=https://www.theage.com.au/sport/soccer/graham-arnold-steps-down-as-socceroos-coach-20240920-p5kc4d.html |access-date=2024-09-22 |website=The Age |language=en}}</ref> The Socceroos had only picked up one point from two matches. On 23 September 2024, Football Australia's [[James Johnson (sports administrator)|James Johnson]] announced that [[Tony Popovic]] had been appointed as head coach.<ref>{{Cite news |date=2024-09-23 |title=Popovic named as new Socceroos coach ahead of crucial World Cup qualifiers |url=https://www.abc.net.au/news/2024-09-23/tony-popovic-named-head-coach-of-australia-socceroos/104382354 |access-date=2024-09-23 |work=ABC News |language=en-AU}}</ref> Popovic led the Socceroos to wins over Japan and Saudi Arabia, and Australia eventually ensured direct qualification to the FIFA World Cup for the first time since 2014, and their sixth consecutive World Cup appearance.<ref>{{cite web |title=World Cup 2026: Australia qualify with win over Saudi Arabia | date=10 June 2025 |url=https://www.espn.com/soccer/story?id=45487632&_slug_=world-cup-2026-australia-qualify-win-saudi-arabia |publisher=ESPN |access-date=13 June 2025}}</ref>
+
+=== 2026 FIFA World Cup campaign ===
+Australia played their first match of the [[2026 FIFA World Cup]] against [[Turkey national football team|Turkey]] on 13 June 2026. The match was played at [[BC Place]], [[Vancouver]], [[British Columbia]]. <ref>{{Cite web |title=Australia vs Turkey 2-0 {{!}} 2026 FIFA World Cup |url=https://www.fifa.com/en/match-centre/match/17/285023/289273/400021463 |access-date=2026-06-14 |website=www.fifa.com}}</ref> Goals from [[Nestory Irankunda]] and [[Connor Metcalfe]], as well as a clean sheet and eight saves from surprise starting goalkeeper, [[Patrick Beach]], sealed an upset 2-0 victory for Australia.<ref>{{Cite web |last=Braun |first=Jack Cooney and Carter |title=Surprise starter Patrick Beach propels Australia to stunning win over Turkey |url=https://www.usatoday.com/story/sports/soccer/worldcup/2026/06/14/australia-goalkeeper-patrick-beach-turkey/90547216007/ |access-date=2026-06-14 |website=USA TODAY |language=en-US}}</ref>
+
+== Team image ==
+=== Media coverage ===
+Australian matches are broadcast by [[Paramount+#Sports programming|Paramount+]] and on [[free-to-air]] by [[Network 10]] until 2028, with the exception during the [[FIFA World Cup]] finals tournament matches that still aired live and free on [[Special Broadcasting Service|SBS]].<ref>{{Cite web|url=https://www.footballaustralia.com.au/news/football-australia-reaches-landmark-media-rights-agreement-10-viacomcbs|title=Football Australia reaches landmark media rights agreement with 10 ViacomCBS|website=[[Football Australia]]|date=15 June 2021|access-date=12 November 2021|archive-date=12 November 2021|archive-url=https://web.archive.org/web/20211112080647/https://www.footballaustralia.com.au/news/football-australia-reaches-landmark-media-rights-agreement-10-viacomcbs|url-status=live}}</ref>
+
+Previous coverage has been provided by [[Fox Sports (Australia)|Fox Sports]] until 2021.
+
+The national team has set multiple ratings records for both subscription and free-to-air television. Australia's final [[2006 FIFA World Cup]] qualifying match against [[Uruguay national football team|Uruguay]] was the highest rating program in SBS history with an audience of 3.4&nbsp;million viewers,<ref>{{cite news|title=Socceroos score record television audience|url=http://www.abc.net.au/news/2005-11-17/socceroos-score-record-television-audience/743248|work=ABC News|publisher=Australian Broadcasting Corporation|access-date=29 April 2013|archive-date=10 November 2012|archive-url=https://web.archive.org/web/20121110171006/http://www.abc.net.au/news/2005-11-17/socceroos-score-record-television-audience/743248|url-status=live}}</ref> while a [[2010 FIFA World Cup|2010 World Cup]] qualifying match against [[Uzbekistan national football team|Uzbekistan]] set a record for the highest subscription television audience, with an average of 431,000 viewers.<ref>{{cite web|title=FOX SPORTS SETS NEW SUBSCRIPTION TV RECORD WITH SOCCEROOS LAST NIGHT|url=http://media.foxsports.com.au/pve/Socceroos%20set%20subscription%20TV%20record%202009.pdf|publisher=Fox Sports Australia|access-date=11 November 2013|archive-url=https://web.archive.org/web/20131111170258/http://media.foxsports.com.au/pve/Socceroos%20set%20subscription%20TV%20record%202009.pdf|archive-date=11 November 2013|url-status=live}}</ref> The [[2015 AFC Asian Cup final]] against [[South Korea national football team|South Korea]] had a total reach of 5.3 million Australians overall.<ref>{{cite web|title=Socceroos score for ABC and Foxtel|url=http://www.theaustralian.com.au/business/media/socceroos-score-for-abc-and-foxtel/story-e6frg996-1227204139206|access-date=2 February 2015|archive-date=18 April 2015|archive-url=https://web.archive.org/web/20150418055249/http://www.theaustralian.com.au/business/media/socceroos-score-for-abc-and-foxtel/story-e6frg996-1227204139206|url-status=live}}</ref>
+
+=== Kit ===
+{{Commons|Australia national soccer team kits}}For the [[2026 FIFA World Cup]], the home shirt is mostly gold, with green accents including around the neck and underarm/sides. The logos and player numbers are also in green. The home shorts are a light to dark green gradient, with logos and numbers in gold. The home socks are white. The away kit is mostly blue-green with a gradient into coral at the shoulder level, and the logos and player numbers are white. The away shorts and socks are the same blue-green colour. There is also white ribbing on both home and away kits.<ref name=":0">{{Cite web |last=Pinshaw |first=Antony |date=2026-03-22 |title=Socceroos go back to the future as World Cup kits revealed |url=https://football360.com.au/socceroos-world-cup-kit-australia-jersey-designed-by-nike/ |access-date=2026-06-22 |website=Football360 |language=en-AU}}</ref><ref>{{Cite web |date=2026-03-23 |title=Nike and Football Australia unveil the 2026 National Team Collection, a celebration of two decades on the world stage {{!}} Football Australia |url=https://footballaustralia.com.au/news/nike-and-football-australia-unveil-2026-national-team-collection-a-celebration-two-decades |access-date=2026-06-22 |website=footballaustralia.com.au |language=en}}</ref>
+
+The previous Socceroos kit from 2025 was designed by Reko Rennie, a [[Indigenous Australians|First Nations]] artist.<ref>{{Cite web |date=2025-02-24 |title=Meet the Kamilaroi artist behind the national soccer teams' new jerseys |url=https://www.sbs.com.au/nitv/article/not-a-one-off-national-football-kits-will-feauture-design-by-kamilaroi-artist/md1v00cdc |access-date=2025-06-19 |website=NITV |language=en}}</ref> This kit is still used across Australia's other national football teams, including the [[Australia women's national soccer team|Matildas]].<ref name=":0" /> The home shirt is predominantly yellow and light green chevron patterning. The shorts are a solid dark green, along with the collar, side, and cuffs of the shirt. They are usually worn with white socks. The away kit is predominantly black, with a light green collar and cuffs on the shirt. It is also adorned with pink and green chevron patterning on its sides.<ref>{{Cite web |date=2025-02-21 |title=Nike and Football Australia unveil first Australian National Football Team Collection designed by a First Nations artist {{!}} Socceroos |url=https://www.socceroos.com.au/news/nike-and-football-australia-unveil-first-australian-national-football-team-collection-designed |access-date=2025-06-19 |website=www.socceroos.com.au |language=en}}</ref>
+
+Australia's jersey traditionally features the [[coat of arms of Australia]] over the left breast, however the fan replica versions show a slightly modified version with the Football Australia logo rather than the shield.<ref>{{Cite web |title=Here's why you can't buy Australian national team's shirt |url=https://www.nssmag.com/en/lifestyle/15365/australia |access-date=2026-06-22 |website=nss sports |language=en-US}}</ref> {{Football kit box
+ |pattern_la = 
+ |pattern_b  = _collarwhite
+ |pattern_ra = 
+ |pattern_sh = 
+ |pattern_so = _band_claret
+ |leftarm    = 87CEEB
+ |body       = 87CEEB
+ |rightarm   = 87CEEB
+ |shorts     = FFFFFF
+ |socks      = 87CEEB
+ |title      = Australia's first national kit, 1922
+}}
+Australia's first kit was sky blue with a maroon hoop on the socks, the colours representing the states of [[New South Wales]] and [[Queensland]], a look that was reminiscent of the [[Australia national rugby league team|Australian national rugby league team]]'s strips of the period.<ref>{{cite web|title=Wanganui&nbsp;– Birthplace of the Socceroos|url=http://www.austadiums.com/news/news.php?id=517|publisher=austadiums.com|access-date=26 September 2013|archive-date=28 September 2013|archive-url=https://web.archive.org/web/20130928134111/http://www.austadiums.com/news/news.php?id=517|url-status=live}}</ref> They wore the predominantly light blue kit until 1924 when they changed to [[National colours of Australia|green and gold]], Australia's national colours.<ref>{{cite news | url=http://nla.gov.au/nla.news-article119214234? | title=Fashion and the game | newspaper=[[The Evening News (Sydney)|The Evening News]] | date=10 May 1924 | access-date=22 February 2016 | location=Sydney | via=National Library of Australia | archive-date=20 September 2023 | archive-url=https://web.archive.org/web/20230920223000/https://trove.nla.gov.au/newspaper/article/119214234 | url-status=live }}</ref>
+
+Australia has worn a yellow jersey, usually accompanied by green shorts, and yellow socks since the 1960s. The colour of the socks altered throughout the 1970s, 1980s, and 1990s from white to the same green as the shorts to the same yellow colour as the jersey. The team first wore the traditional green and yellow colours in 1924.<ref name="evening news-soccer">{{cite web |url=http://nla.gov.au/nla.news-article119214234? |title=To-day's Diary&nbsp;– Fashion and the Game |newspaper=[[The Evening News (Sydney)|The Evening News]] |date=10 May 1924 |access-date=19 February 2014 |archive-date=20 September 2023 |archive-url=https://web.archive.org/web/20230920223000/https://trove.nla.gov.au/newspaper/article/119214234 |url-status=live}}</ref>
+
+Australia's kits have been produced by manufacturers including [[Umbro]], [[Adidas]], KingRoo, and since 2004 by [[Nike, Inc.|Nike]].<ref>{{cite web |title=Nike's New 11-Year Socceroo Deal |url=http://au.fourfourtwo.com/news/253557,nikes-new-11-year-socceroo-deal.aspx |url-status=dead |archive-url=https://web.archive.org/web/20130928040756/http://au.fourfourtwo.com/news/253557,nikes-new-11-year-socceroo-deal.aspx |archive-date=28 September 2013 |access-date=28 April 2013 |work=Australian FourFourTwo}}</ref> Australia's 1974 World Cup kits were produced by Adidas as were all other national team kits in the tournament, with Adidas sponsoring the event. The kits, however, contained Umbro branding, due to the manufacturer's Australian partnership at the time.<ref>{{cite web|title=FIFA World Cup 1974 Group 1|url=http://www.historicalkits.co.uk/international/tournaments/fifa-world-cup/1974/1974-group-1.html|publisher=historicalkits.co.uk|access-date=27 September 2013|archive-date=21 September 2013|archive-url=https://web.archive.org/web/20130921173940/http://www.historicalkits.co.uk/international/tournaments/fifa-world-cup/1974/1974-group-1.html|url-status=live}}</ref> Nike renewed the kit manufacturer deal with FFA for another 11 years in 2012, handing them the rights to make national team kits until 2022.<ref>{{cite web| title=Nike renewed as FFA kit manufacturer| date=15 October 2012| url=http://www.smh.com.au/sport/football/nike-sponsorship-deal-biggest-yet-says-ffa-20121015-27mo2.html| access-date=16 March 2014| archive-date=13 July 2014| archive-url=https://web.archive.org/web/20140713160412/http://www.smh.com.au/sport/football/nike-sponsorship-deal-biggest-yet-says-ffa-20121015-27mo2.html| url-status=live}}</ref> In the lead-up to the 2014 World Cup, the new kits to be worn by the team were revealed. The design of the new kits included a plain yellow shirt with a green collar, plain dark green shorts and white socks, a tribute to the 1974 Socceroos. Inside the back of the neck also had woven the quote, "We Socceroos can do the impossible", from [[Peter Wilson (footballer, born 1947)|Peter Wilson]], the captain of the 1974 Australian team.<ref>{{cite web |title=Nike reveals Socceroos World Cup kit |url=http://www.theturf.com.au/2014/02/nike-reveals-socceroos-world-cup-kit/ |access-date=16 March 2014 |url-status=dead |archive-url=https://web.archive.org/web/20140316011955/http://www.theturf.com.au/2014/02/nike-reveals-socceroos-world-cup-kit/ |archive-date=16 March 2014}}</ref> This kit was well received.{{CN|date=April 2025}} In March 2016, FFA revealed the new Socceroos kit, which featured a yellow jersey, yellow shorts and green socks. This was reportedly in accordance with a FIFA directive, instructing all national teams to have matching shirts and shorts.<ref name="People weren’t impressed with the new Socceroos kit">{{cite news|author=James Matthey|title=People weren't impressed with the new Socceroos kit|url=http://www.news.com.au/sport/football/people-werent-impressed-with-the-new-socceroos-kit/news-story/4238459bf06066f786997c097fe48281|publisher=news.com.au|access-date=22 March 2016|archive-date=22 March 2016|archive-url=https://web.archive.org/web/20160322055833/http://www.news.com.au/sport/football/people-werent-impressed-with-the-new-socceroos-kit/news-story/4238459bf06066f786997c097fe48281|url-status=live}}</ref><ref name="Why everybody lost their minds over a pair of yellow shorts">{{cite web|author=James McGrath|title=Why everybody lost their minds over a pair of yellow shorts|url=http://theturf.com.au/2016/03/31/why-everybody-lost-their-minds-over-a-pair-of/#.V_gYgZN97y8|date=31 March 2016|publisher=theturf.com|access-date=8 October 2016|archive-date=21 September 2021|archive-url=https://web.archive.org/web/20210921072758/https://theturf.com.au/2016/03/31/why-everybody-lost-their-minds-over-a-pair-of/#.V_gYgZN97y8|url-status=dead}}</ref> This kit was met with wide public contention, primarily due to the colour change of the shorts from the traditional green to yellow.<ref name="People weren’t impressed with the new Socceroos kit"/><ref name="Why everybody lost their minds over a pair of yellow shorts"/><ref>{{cite news|author=James Maasdorp|title=Socceroos, Matildas release new kit: looking back at Australia's best and worst kits|url=http://www.abc.net.au/news/2016-03-22/socceroos-matildas-kit-launch-best-worst-kits/7266158|date=22 March 2016|publisher=abc.net.au|access-date=8 October 2016|archive-date=9 October 2016|archive-url=https://web.archive.org/web/20161009190840/http://www.abc.net.au/news/2016-03-22/socceroos-matildas-kit-launch-best-worst-kits/7266158|url-status=live}}</ref><ref>{{cite news|author=Michael Lynch|title=Socceroos, Matildas unveil new kits|url=http://www.smh.com.au/sport/soccer/socceroos-matildas-unveil-new-kits-20160321-gno05b.html|date=22 March 2016|publisher=smh.com.au|access-date=8 October 2016|archive-date=26 November 2016|archive-url=https://web.archive.org/web/20161126065517/http://www.smh.com.au/sport/soccer/socceroos-matildas-unveil-new-kits-20160321-gno05b.html|url-status=live}}</ref><ref>{{cite news|author=Mike Hytner|title=New Socceroos and Matildas strips unveiled to mixed reviews|url=https://www.theguardian.com/football/2016/mar/22/new-socceroos-and-matildas-strips-unveiled-to-mixed-reviews|date=22 March 2016|publisher=theguardian.com|access-date=8 October 2016|archive-date=10 October 2016|archive-url=https://web.archive.org/web/20161010135612/https://www.theguardian.com/football/2016/mar/22/new-socceroos-and-matildas-strips-unveiled-to-mixed-reviews|url-status=live}}</ref>
+
+==== Kit suppliers ====
+{{Incomplete list|date=June 2018}}
+{| class="wikitable" style="white-space:nowrap"
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" | Kit supplier
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" | Period
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" | Notes
+|-
+| {{flagicon|UK}} [[Umbro]]
+| 1974–1983
+| 1974 FIFA World Cup jerseys were manufactured by Adidas<br />but featured an Umbro logo.
+|-
+| {{flagicon|GER}} [[Adidas]]
+| 1983–1989
+|
+|-
+| {{flagicon|AUS}} Kingroo
+| 1990–1993
+|
+|-
+| {{flagicon|BEL}} [[Patrick (sportswear company)|Patrick]]
+| 1993
+|
+|-
+| {{flagicon|GER}} [[Adidas]]
+| 1993–2004
+|
+|-
+| {{flagicon|US}} [[Nike, Inc.|Nike]]
+| 2004–present
+| The partnership is in place until 2033.<ref>{{cite web|title=Football Australia and Nike unveil ten-year partnership extension|url=https://www.socceroos.com.au/news/football-australia-and-nike-unveil-ten-year-partnership-extension|website=Socceroos|publisher=[[Football Australia]]|access-date=18 November 2023|date=17 November 2023}}</ref>
+|}
+
+=== Nickname ===
+[[File:QANTAS 747, Hong Kong, Sept. 2010 - Flickr - PhillipC.jpg|thumb|Socceroos livery on a [[Qantas]] [[Boeing 747–400]]]]
+Australia's nickname, "Socceroos", was [[Neologism|coined]] in 1967 by Sydney journalist Tony Horstead in his coverage of the team on a [[1967 Quoc Khanh Cup|goodwill tour]] to [[South Vietnam]] during the [[Vietnam War]].<ref>{{cite web|title=Origins of the Socceroos|url=http://www.footballaustralia.com.au/news-display/origins-of-the-socceroos/45734|publisher=[[Football Federation Australia]]|access-date=29 September 2013|archive-date=2 December 2013|archive-url=https://web.archive.org/web/20131202235409/http://www.footballaustralia.com.au/news-display/origins-of-the-socceroos/45734|url-status=dead}}</ref> It is commonly used by both the Australian people and the governing body, the FFA.<ref>{{cite web|title=O'Neill wants to lose Roos in the name of progress|url=http://www.smh.com.au/news/Soccer/ONeill-wants-to-lose-Roos-in-the-name-of-progress/2005/01/13/1105582652021.html|work=The Sydney Morning Herald|date=14 January 2005 |access-date=26 September 2013|archive-date=4 May 2014|archive-url=https://web.archive.org/web/20140504013311/http://www.smh.com.au/news/Soccer/ONeill-wants-to-lose-Roos-in-the-name-of-progress/2005/01/13/1105582652021.html|url-status=live}}</ref> The nickname represents a cultural propensity for the use of colloquialisms [[Culture of Australia|in the country]]. It also represents the [[Australian English vocabulary|Australian English]] use of [[Names for association football|the sport's name]].<ref>{{cite web|title=Soccer's Australian name change|url=http://www.theage.com.au/news/Soccer/Soccers-Australian-name-change/2004/12/16/1102787198112.html|work=The Age|date=16 December 2004 |access-date=26 September 2013|archive-date=14 November 2013|archive-url=https://web.archive.org/web/20131114054729/http://www.theage.com.au/news/Soccer/Soccers-Australian-name-change/2004/12/16/1102787198112.html|url-status=live}}</ref><ref>{{cite web |last=Hill |first=Simon |url=http://www.news.com.au/entertainment/mainstream-aussie-press-finally-adopting-the-term-football-as-soccer-seen-as-thing-of-the-past/story-e6frfmq9-1226486030704 |title=Mainstream Aussie press finally adopting the term football as soccer seen as thing of the past |publisher=News.com.au |date=1 October 2012 |access-date=10 September 2013 |archive-date=22 March 2019 |archive-url=https://web.archive.org/web/20190322144252/https://www.news.com.au/entertainment/mainstream-aussie-press-finally-adopting-the-term-football-as-soccer-seen-as-thing-of-the-past/story-e6frfmq9-1226486030704 |url-status=live }}</ref>
+
+The name itself is similar to most other [[Australian national sports team nicknames|Australian national representative sporting team nicknames]]; used informally when referring to the team, in the media or in conversation. Similarly, the name is derived from a well-known symbol of Australia, in this case, the [[kangaroo]]. The words ''soccer'' and ''kangaroo'' are combined into a [[portmanteau]] word as ''soccer-roo''; such as ''Olyroos'' for the [[Australia men's national under-23 soccer team|Australia Olympic soccer team]]<ref>{{cite web |url=http://www.footballaustralia.com.au/Australia/default.aspx?s=australia |title=National Teams |publisher=[[Football Federation Australia]] |access-date=23 November 2007 |archive-date=2 September 2007 |archive-url=https://web.archive.org/web/20070902103151/http://www.footballaustralia.com.au/Australia/default.aspx?s=australia |url-status=dead }}</ref> or ''Hockeyroos'' for the [[Australia women's national field hockey team|Australian national women's hockey team]].
+
+=== Underdog mentality ===
+As is the case with many national sports teams from [[Australia]], the Socceroos and their supporters tend to embrace the [[underdog]] status when facing opposition that is perceived by onlookers to be a higher quality opponent that should defeat the Australians.<ref>{{Cite web|date=16 June 2026 |title=A U.S. pundit sparked an international incident with a one-word analysis of USA-Australia |url=https://www.nytimes.com/athletic/7364110/2026/06/16/usmnt-australia-world-cup-layup-mike-grella/ |access-date=17 June 2026 |website=nytimes.com}}</ref> The underdog mentality is considered a defining characteristic of the Australian national soccer team and there have been numerous famous examples of the Socceroos pulling off upset wins that were inspired by being underestimated by opposition players, coaches, fans or the media.<ref>{{Cite web |date=13 June 2026 |title= Tony Popovic returns to the underdog well, as Turkey dismiss Socceroos |url=https://www.abc.net.au/news/2026-06-13/world-cup-tony-popovic-socceroos-underdog-status-turkiye/106794756|access-date=14 June 2026 |publisher=Australian Broadcasting Corporation}}</ref>
+
+In February 2003, [[England national football team|England]] coach [[Sven Goran-Eriksson]] had announced in the lead up to a friendly match against the Socceroos that he would rest his star players including [[David Beckham]], [[Michael Owen]], [[Frank Lampard]], [[Steven Gerrard]] and [[Paul Scholes]] at half-time, which the Australians considered disrespectful.<ref>{{Cite web |date=12 October 2023 |title=Memories of Socceroos' win over England in 2003 still alive on both sides of rivalry |url=https://www.abc.net.au/news/2023-10-12/socceroos-aim-to-repeat-2003-victory-over-england/102967866 |access-date=19 September 2024 |publisher=Australian Broadcasting Corporation}}</ref> The Aussies would shock England by scoring twice in the first half while England remained scoreless with their full strength team on the park and the game ended in a 3–1 win for the Socceroos in what would be considered one of Australia's greatest ever international victories.<ref>{{Cite web |date=12 February 2016 |title=How the Socceroos shocked Beckham's England |url=https://socceroos.com.au/news/how-socceroos-shocked-beckhams-england |access-date=26 April 2025 |publisher=Football Australia}}</ref>
+
+In November 2005, [[Uruguay national football team|Uruguyan]] star striker [[Álvaro Recoba]] stated that Uruguay had a "divine right" to play in the [[FIFA World Cup]] ahead of the Socceroos when asked to comment on the upcoming second leg of the [[2006 FIFA World Cup qualification (CONMEBOL–OFC play-off)|2006 FIFA World Cup qualification inter-confederation play-off]] with Australia.<ref>{{Cite web |date=15 November 2005 |title=Recoba: we have divine right to play in Cup |url=https://www.smh.com.au/sport/soccer/recoba-we-have-divine-right-to-play-in-cup-20051115-gdmfyz.html |access-date=12 June 2023 |publisher=Sydney Morning Herald}}</ref> Despite leading the play-off after a 1–0 win in the first leg, Uruguay would lose the second leg match 1–0 and would ultimately lose the subsequent penalty shootout 4–2 that sent Australia through to its first World Cup appearance in 32 years.<ref>{{Cite web |date=17 November 2005 |title=Uruguay sickened by World Cup ousting |url=https://www.abc.net.au/news/2005-11-17/uruguay-sickened-by-world-cup-ousting/743236 |access-date=6 August 2021 |publisher=Australian Broadcasting Corporation}}</ref>
+
+In June 2026, [[Turkey national football team|Turkish]] captain [[Hakan Çalhanoğlu]] stated that he believed Turkey would "dominate" Australia in their Group D match at the [[2026 FIFA World Cup]] because they "have more qualities and a more talented team".<ref>{{Cite web |date=13 June 2026 |title=Çalhanoğlu sees 'more talented' Turkey dominating Australia |url=https://www.espn.com.au/football/story/_/id/49044786/calhano%C4%9Flu-more-talented-turkiye-dominating-australia |access-date=14 June 2026 |publisher=ESPN Australia}}</ref> Turkish star [[Arda Güler]] was then overheard telling his teammates "we are much better" than the Socceroos in the tunnel as the two teams were about to run out for the match.<ref>{{Cite web |date=15 June 2026 |title=Pre-match incident in tunnel comes to light after Socceroos' World Cup victory over Turkey |url=https://au.news.yahoo.com/pre-match-incident-in-tunnel-comes-to-light-after-socceroos-world-cup-victory-over-turkiye-234222896.html |access-date=16 June 2026 |publisher=Yahoo Australia}}</ref> Australia would defeat the highly fancied Turkey team 2–0 in the match in one of its best ever World Cup performances<ref>{{Cite web |date=14 June 2026 |title=Socceroos stun Turkey as Australia’s youngsters shine in opening World Cup win |url=https://www.theguardian.com/football/2026/jun/14/australia-socceroos-turkey-world-cup-2026-group-d-match-report |access-date=15 June 2026 |publisher=The Guardian}}</ref> and goalscorer [[Nestory Irankunda]] revealed post-match that they used the pre-match comments from the Turkish players as motivation and stated that "they did their talking, but they couldn’t back it up on the field."<ref>{{Cite web |date=15 June 2026 |title=‘Let these people talk’: After silencing Turkey, Irankunda turns to his American doubters |url=https://www.smh.com.au/sport/soccer/let-these-people-talk-after-silencing-turkey-irankunda-turns-to-his-american-doubters-20260614-p606p4.html |access-date=16 June 2026 |publisher=Sydney Morning Herald}}</ref>
+
+=== Naming rights and sponsorship ===
+The team has been branded the "CommBank Socceroos" since 1 September 2025, after [[Commonwealth Bank]] (who also have the naming rights for the [[Australia women's national soccer team|women's national team]]) took over the naming rights from restaurant chain [[Subway (restaurant)|Subway]], whose previous deal started in 2022.<ref>{{Cite web |date=2025-06-19 |title=CommBank and Football Australia sign landmark deal to lift Australia's biggest game to new heights {{!}} Socceroos |url=https://www.socceroos.com.au/news/commbank-and-football-australia-sign-landmark-deal-lift-australias-biggest-game-new-heights |access-date=2025-06-19 |website=www.socceroos.com.au |language=en}}</ref><ref>{{Cite web |date=2025-06-15 |title=Football Australia and Subway® Australia announce Socceroos naming rights sponsorship agreement to conclude {{!}} Football Australia |url=https://www.footballaustralia.com.au/news/football-australia-and-subwayr-australia-announce-socceroos-naming-rights-sponsorship |access-date=2025-06-19 |website=www.footballaustralia.com.au |language=en}}</ref>
+
+Previously, they were known as the "Caltex Socceroos" under the sponsorship of [[Ampol|Caltex Australia]] from 2017 to 2019.<ref>{{Cite web |first1=Vince |last1=Rugari |first2=Dominic |last2=Bossi |date=2019-12-26 |title=Socceroos on the hunt for new naming rights sponsor |url=https://www.smh.com.au/sport/soccer/socceroos-on-the-hunt-for-new-naming-rights-sponsor-20191226-p53mza.html |access-date=2025-06-19 |website=The Sydney Morning Herald |language=en}}</ref><ref>{{Cite web |date=2016-03-03 |title=Caltex Australia with the Socceroos all the way {{!}} Socceroos |url=https://www.socceroos.com.au/news/caltex-australia-socceroos-all-way |access-date=2025-06-19 |website=www.socceroos.com.au |language=en}}</ref> During the [[2018 FIFA World Cup]], some of Caltex's service stations were re-branded as "Cahilltex" as a nod to Socceroos player [[Tim Cahill]].<ref>{{Cite web |date=2018-05-15 |title=Caltex turns into Cahilltex to mark Tim Cahill / World Cup partnership via TLA Worldwide |url=https://campaignbrief.com/caltex-turns-into-cahilltex-to/ |access-date=2025-06-19 |website=Campaign Brief |language=en-AU}}</ref><ref>{{Cite web |date=2018-05-15 |title=Caltex honours Tim Cahill transforming into 'Cahilltex' ahead of FIFA World Cup {{!}} Socceroos |url=https://www.socceroos.com.au/news/caltex-honours-tim-cahill-transforming-cahilltex-ahead-fifa-world-cup |access-date=2025-06-19 |website=www.socceroos.com.au |language=en}}</ref>
+
+Football Australia has been sponsored by [[Qantas]] as its official airline since 2004.<ref>{{Cite web |date=2023-03-27 |title=Football Australia renews partnership with Qantas {{!}} Socceroos |url=https://www.socceroos.com.au/news/football-australia-renews-partnership-qantas |access-date=2025-06-19 |website=www.socceroos.com.au |language=en}}</ref>
+
+=== Rivalries ===
+[[File:Australia v Japan.jpg|thumb|One of the matches of the 2006 World Cup was a group stage match between Australia and Japan at [[Fritz-Walter-Stadion]] in [[Kaiserslautern]], Germany.]]
+
+==== New Zealand ====
+{{Main|Australia–New Zealand soccer rivalry}}
+
+Australia's longtime rivals are [[trans-Tasman]] neighbours [[New Zealand men's national football team|New Zealand]].<ref>{{cite web|title=All Whites backing derby rivalry to get them through|url=http://www.nzfootball.co.nz/index.php?id=11&tx_ttnews%5Btt_news%5D=1091&cHash=94a31887c8|publisher=nzfootball.co.nz|access-date=30 September 2013|url-status=dead|archive-url=https://web.archive.org/web/20131015134658/http://www.nzfootball.co.nz/index.php?id=11&tx_ttnews%5Btt_news%5D=1091&cHash=94a31887c8|archive-date=15 October 2013}}</ref> The two teams' history dates back to 1922, where they first met in both their international debuts. The rivalry between the Socceroos and the ''All Whites'' (New Zealand) is part of a [[Australia–New Zealand relations|wider friendly rivalry]] between the neighbours Australia and New Zealand, which applies not only to sport but to the culture of the two countries. The rivalry was intensified when Australia and New Zealand were both members of the OFC, regularly competing in [[OFC Nations Cup]] finals and in [[FIFA World Cup qualification]]s, where only one team from the OFC progressed to the World Cup. Since Australia joined the AFC in 2006, competition between the two teams has been infrequent, with the occasional match still receiving much media and public attention.<ref>{{cite web|title=Tell us your top Socceroos-All Whites games as a precursor to another trans-Tasman showdown|url=http://www.foxsports.com.au/football/socceroos/foxsportscomau-unveil-their-top-five-socceroos-all-whites-games-of-all-time/story-e6frf4l3-1226068268281|publisher=Fox Sports Australia|access-date=30 September 2013}}</ref>
+
+==== Japan ====
+{{Main|Australia–Japan football rivalry}}
+
+After joining the AFC, Australia began to develop a fierce rivalry with fellow Asian powerhouse [[Japan national football team|Japan]].<ref>{{cite web|title=Australia, Japan rivalry hits new heights|url=http://www.footballaustralia.com.au/news-display/australia-japan-rivalry-hits-new-heights/47712|publisher=Football Federation Australia|access-date=30 September 2013|archive-date=17 May 2014|archive-url=https://web.archive.org/web/20140517120352/http://www.footballaustralia.com.au/news-display/australia-japan-rivalry-hits-new-heights/47712|url-status=live}}</ref> The rivalry began at the 2006 FIFA World Cup, where the two countries were grouped together. The rivalry continued with the two countries meeting regularly in various AFC competitions, including the [[2011 AFC Asian Cup Final|2011 Asian Cup final]] and qualification for the 2010, 2014, 2018, 2022, and 2026 World Cups.<ref>{{Cite web|url=https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/afc-asia-world-cup-draw-third-round|title=Titanic tussles teed up by Asia’s third-round draw|publisher=FIFA|date=26 June 2024|access-date=7 January 2026}}</ref>
+
+==== South Korea ====
+{{Main|Australia–South Korea football rivalry}}
+
+Another major rival within Asia is [[South Korea national football team|South Korea]], who Australia came up against in three World Cup qualification campaigns in the 1970s and, since joining the AFC, have met regularly, including the [[2015 AFC Asian Cup Final|2015 Asian Cup final]].<ref name=caltexsocceroos>{{cite web|title=A long standing rivalry: Caltex Socceroos' history against Korea Republic|url=https://www.socceroos.com.au/news/caltex-socceroos-history-against-korea-republic|publisher=Football Federation Australia|author=John Greco|date=21 August 2018|access-date=26 September 2020|archive-date=28 November 2020|archive-url=https://web.archive.org/web/20201128105238/https://www.socceroos.com.au/news/caltex-socceroos-history-against-korea-republic|url-status=live}}</ref>
+
+==== Uruguay ====
+{{Main|Australia–Uruguay football rivalry}}
+
+A rivalry exists with [[Uruguay national football team|Uruguay]] since their first meeting on the eve of the [[1974 FIFA World Cup]]. Both nations have faced each other in consecutive FIFA World Cup play-offs in 2001 and 2005 with each nation winning a playoff final each to progress through to the World Cup. Australia and Uruguay also faced off in the [[1997 FIFA Confederations Cup|1997 Confederations Cup]] in Saudi Arabia, with Australia progressing through to the final against [[Brazil national football team|Brazil]] via a [[golden goal]] winner from [[Harry Kewell]].<ref>{{cite web |title=From the Archives, 1997: Socceroos storm into Confederation Cup final |date=19 December 2022 |url=https://www.smh.com.au/sport/soccer/from-the-archives-1997-socceroos-storm-into-confederation-cup-final-20221215-p5c6nu.html |access-date=18 April 2023 |archive-date=17 April 2023 |archive-url=https://web.archive.org/web/20230417043705/https://www.smh.com.au/sport/soccer/from-the-archives-1997-socceroos-storm-into-confederation-cup-final-20221215-p5c6nu.html |url-status=live }}</ref>
+
+=== Supporters ===
+The main [[Supporters' groups|supporter group]] of the Australian national team is '''Australian Active Support''' (AAS).<ref>{{cite web | url=https://www.facebook.com/AustralianActiveSupport/| title=Australian Active Support  | publisher=Australian Active Support  | access-date=29 December 2023 | archive-date=15 January 2016 | archive-url=https://web.archive.org/web/20160115145414/https://www.facebook.com/socceroosactivesupport?_rdr=p | url-status=live }}</ref> AAS, then known as '''Socceroos Active Support''' (SAS), was founded in January 2015 as an independent group,<ref name="SASINFO">{{cite web | url=http://www.australiafootball.com/team/socceroos/news.html | title=About Socceroos News | publisher=Australia Football | date=31 January 2015 | access-date=5 September 2015 | archive-date=7 July 2017 | archive-url=https://web.archive.org/web/20170707002629/http://www.australiafootball.com/team/socceroos/news.html | url-status=live }}</ref> who uses social media to organise and keep in touch. This replaced the former active support group '''Terrace Australis''',<ref>{{cite web | url=https://www.facebook.com/TerraceAustralis/posts/340514246149446 | title=Support new Active Support Group | publisher=Terrace Australis | date=5 February 2012 | access-date=5 September 2015 | archive-date=15 January 2016 | archive-url=https://web.archive.org/web/20160115145414/https://www.facebook.com/TerraceAustralis/posts/340514246149446 | url-status=live }}</ref> who were founded by Football Federation Australia and fans in 2013, during Australia's 2014 World Cup qualification campaign.<ref>{{cite web|title=Super winter for Australian football|url=http://www.footballaustralia.com.au/gallop-opinion-display/super-winter-for-australian-football/68190|publisher=[[Football Federation Australia]]|access-date=29 September 2013|archive-date=7 October 2013|archive-url=https://web.archive.org/web/20131007175351/http://www.footballaustralia.com.au/gallop-opinion-display/Super-winter-for-Australian-football/68190|url-status=live}}</ref> Its establishment came in the wake of poor off-field action and minimal community engagement.<ref>{{cite web|title=Introducing Terrace Australis, the new active support group trying to re-build Socceroos atmosphere|url=http://www.foxsports.com.au/football/socceroos/introducing-terrace-australis-the-new-active-support-group-trying-to-re-build-socceroos-atmosphere/story-e6frf4l3-1226661353519|publisher=Fox Sports Australia|access-date=29 September 2013}}</ref> Previously, the emergence of Terrace Australis saw the '''Green and Gold Army''' relinquish its role as a hub for active support, which it had claimed since its establishment in 2001.<ref>{{cite web|title=Terrace Australis is born...|url=http://au.fourfourtwo.com/news/271944,terrace-australis-is-born.aspx|work=Australian FourFourTwo|access-date=15 June 2013|archive-date=28 September 2013|archive-url=https://web.archive.org/web/20130928040746/http://au.fourfourtwo.com/news/271944,terrace-australis-is-born.aspx|url-status=dead}}</ref><ref>{{cite web|title=About|url=http://www.ggarmy.com/GGArmy/About|publisher=Green & Gold Army Pty Ltd|work=GGArmy.com|access-date=15 June 2013|archive-date=17 June 2013|archive-url=https://web.archive.org/web/20130617073226/http://www.ggarmy.com/GGArmy/About|url-status=live}}</ref> Since the 2015 AFC Asian Cup triumph, the supporters had encouraged people in Australia to focus more on the national team, and the nation's soccer pride.
+
+=== Home stadium ===
+Australia does not have a dedicated [[national stadium]]; instead, the team plays at different venues throughout the country for exhibition or tournament purposes. In recent years, major international matches have usually been rotated around various large grounds, including [[Stadium Australia]] in Sydney, [[Hunter Stadium]] in Newcastle and [[Docklands Stadium]] in Melbourne. International matches have also been played at the [[Melbourne Cricket Ground]] and [[Melbourne Rectangular Stadium]] in Melbourne and [[Canberra Stadium]] in Canberra.
+
+Australia has played at [[the Gabba]] in Brisbane, which hosted Australia's first international match on home soil in 1923, a 2–1 win over New Zealand.  It was the fourth Australian team match overall, with the first three internationals played in New Zealand.<ref>{{cite web|title=Socceroo Internationals for 1923|url=http://www.ozfootball.net/ark/Socceroo/1923A.html|publisher=OzFootball|access-date=23 April 2014|archive-date=12 February 2014|archive-url=https://web.archive.org/web/20140212031010/http://www.ozfootball.net/ark/Socceroo/1923A.html|url-status=live}}</ref> Other venues which regularly hosted international home matches included [[Olympic Park Stadium (Melbourne)|Olympic Park Stadium]] in Melbourne, the [[Sydney Cricket Ground]], [[Sydney Sports Ground]], [[Sydney Showground (Moore Park)|Sydney Showground]], and [[Sydney Football Stadium (1988)|Sydney Football Stadium]] in Sydney, and [[Subiaco Oval]] in Perth.
+
+==== Games in England ====
+Since the 2003 friendly against England, the ''Socceroos'' have also played a significant number of games in England, especially London, since a high proportion of the senior team play in European leagues. This includes games at [[Madejski Stadium]] in Reading ([[Reading F.C.|Reading Football Club]]'s home ground) in 2003 against Jamaica, [[Loftus Road]] in [[Shepherd's Bush]] ([[Queens Park Rangers F.C.|Queens Park Rangers]]' home ground) in 2004 and 2008 against South Africa, 2006 against Ghana, and 2007 against Denmark.
+
+[[Craven Cottage]] in [[Fulham]] ([[Fulham F.C.|Fulham Football Club]]'s home ground) hosted Australia's matches against Norway in 2004, New Zealand and Jamaica in 2005. Craven Cottage also hosted Australia's matches against Jamaica in 2007, 2013 against Canada, 2014 against Saudi Arabia, and 2018 against Colombia, while Australia played at [[The Den]] in [[Bermondsey]] ([[Millwall F.C.|Millwall Football Club]]'s home ground) in 2014 against Ecuador, and [[Brentford Community Stadium]] in [[Brentford]] ([[Brentford F.C.|Brentford Football Club]]'s home ground) in 2023 against New Zealand.
+
+== Results and fixtures ==
+{{main|2024 Australia national soccer team season||2025 Australia national soccer team season}}
+
+{{further|Australia national soccer team results (2020–present)}}
+The following is a list of match results in the last 12 months, as well as any future matches that have been scheduled.
+
+{{legend2|#CCFFCC|Win|border=1px solid #AAAAAA}}
+{{legend2|#FFFFCC|Draw|border=1px solid #AAAAAA}}
+{{legend2|#FFCCCC|Loss|border=1px solid #AAAAAA}}
+{{legend2|#FFFFFF|Fixture|border=1px solid #AAAAAA}}
+
+=== 2025 ===
+{{footballbox collapsible
+| format     = 1
+| round      = [[Soccer Ashes]]
+| date       = 5 September
+| time       = {{UTZ|19:45|10}}
+| team1      = {{fb-rt|AUS}}
+| score      = 1–0
+| report     = https://www.socceroos.com.au/match/australia-v-new-zealand-friendlies-06-09-2025/22278670
+| team2      = {{fb|NZL}}
+| goals1     = 
+* [[Max Balard|Balard]] {{goal|87}}
+| goals2     = 
+| stadium    = [[Canberra Stadium|GIO Stadium]]
+| location   = [[Canberra]], Australia
+| attendance = 19,115
+| referee    = [[Don Robertson (referee)|Donald Robertson]] ([[Scottish Football Association|Scotland]])
+| result     = W
+}}
+{{footballbox collapsible
+| format     = 1
+| round      = [[Soccer Ashes]]
+| date       = 9 September
+| time       = {{UTZ|19:00|12}}
+| team1      = {{fb-rt|NZL}}
+| score      = 1–3
+| report     = https://www.socceroos.com.au/match/new-zealand-v-australia-friendlies-10-09-2025/22278671
+| team2      = {{fb|AUS}}
+| goals1     = 
+* [[Chris Wood (footballer, born 1991)|Wood]] {{goal|57}}
+| goals2     = 
+* [[Mohamed Toure (soccer, born 2004)|Toure]] {{goal|35||60}}
+* [[Nestory Irankunda|Irankunda]] {{goal|54}} 
+| stadium    = [[Mount Smart Stadium|Go Media Stadium]]
+| location   = [[Auckland]], New Zealand
+| attendance = 18,213
+| referee    = [[Don Robertson (referee)|Donald Robertson]] ([[Scottish Football Association|Scotland]])
+| result     = W
+}}
+{{footballbox collapsible
+| format     = 1
+| round      = [[Exhibition game#International football|Friendly]]
+| date       = 10 October
+| time       = {{UTZ|19:30|-4}}
+| team1      = {{fb-rt|CAN}}
+| score      = 0–1
+| report     = https://socceroos.com.au/news/watch-socceroos-battle-impressive-1-0-win-canada
+| team2      = {{fb|AUS}}
+| goals1     = 
+| goals2     =
+* [[Nestory Irankunda|Irankunda]] {{goal|71}}
+| stadium    = [[Saputo Stadium]]
+| location   = [[Montreal]], Canada
+| attendance = 23,112
+| referee    = [[Steven Madrigal]] ([[Costa Rican Football Federation|Costa Rica]])
+| result     = W
+}}
+{{football box collapsible
+| format     = 1
+| date       = 14 October
+| time       = {{UTZ|21:00|-4}}
+| round      = [[Exhibition game#Association football|Friendly]]
+| team1      = {{fb-rt|USA}}
+| score      = 2–1
+| team2      = {{fb|AUS}}
+| report     = https://socceroos.com.au/news/commbank-socceroos-unbeaten-run-ended-world-no16-usa
+| goals1     =
+* [[Haji Wright|Wright]] {{goal|33||51}}
+| goals2     = 
+* [[Jordan Bos|Bos]] {{goal|19}}
+| stadium    = [[Dick's Sporting Goods Park]]
+| location   = [[Denver]], United States
+| attendance = 18,218
+| referee    = Pierre-Luc Lauziere ([[Canadian Soccer Association|Canada]])
+| result     = L
+}}
+{{football box collapsible
+| format     = 1
+| date       = 14 November
+| time       = {{UTZ|20:00|-6}}
+| round      = [[Exhibition game#Association football|Friendly]]
+| team1      = {{fb-rt|VEN}}
+| score      = 1–0
+| report     = https://socceroos.com.au/news/commbank-socceroos-suffer-1-0-defeat-venezuela-houston
+| team2      = {{fb|AUS}}
+| goals1     = 
+*[[Jesús Ramírez (Venezuelan footballer)|Ramírez]] {{goal|38}}
+| goals2     = 
+| stadium    = [[Shell Energy Stadium]]
+| location   = [[Houston]], United States
+| attendance = 
+| referee    = [[Armando Villarreal]] ([[United States Soccer Federation|United States]])
+| result     = L
+}}
+{{football box collapsible
+| format     = 1
+| round      = [[Exhibition game#Association football|Friendly]]
+| date       = 18 November
+| time       = {{UTZ|20:30|-4}}
+| team1      = {{fb-rt|COL}}
+| score      = 3–0
+| team2      = {{fb|AUS}}
+| report     = https://socceroos.com.au/news/commbank-socceroos-defeated-3-0-world-no13-colombia
+| goals1     = 
+* [[James Rodríguez|Rodríguez]] {{goal|76|p}}
+* [[Luis Díaz (footballer, born 1997)|Díaz]] {{goal|89}}
+* [[Jefferson Lerma|Lerma]] {{goal|90+3}}
+| goals2     = 
+| location   = [[New York City]], United States
+| stadium    = [[Citi Field]]
+| attendance = 
+| referee    = [[Tori Penso]] ([[United States Soccer Federation|United States]])
+| result     = L
+}}
+
+===2026===
+{{football box collapsible
+| format     = 1
+| round      = [[2026 FIFA Series (men's matches)|2026 FIFA Series]]
+| date       = 27 March
+| time       = {{UTZ|20:10|+11}}
+| team1      = {{fb-rt|AUS}}
+| score      = 1–0 
+| team2      = {{fb|CMR}}
+| report     = https://socceroos.com.au/news/watch-commbank-socceroos-defeat-cameroon-1-0-kick-fifa-series-2026tm
+| goals1     = 
+* [[Jordan Bos|Bos]] {{goal|84}}
+| goals2     = 
+| location   = [[Sydney]], Australia
+| stadium    = [[Stadium Australia]]
+| attendance = 23,798
+| referee    = [[Robert Jones (referee)|Robert Jones]] ([[The Football Association|England]])
+| result     = W
+}}
+{{football box collapsible
+| format     = 1
+| round      = [[2026 FIFA Series (men's matches)|2026 FIFA Series]]
+| date       = 31 March
+| time       = {{UTZ|20:10|+11}}
+| team1      = {{fb-rt|AUS}}
+| score      = 5–1 
+| team2      = {{fb|CUW}}
+| report     = https://socceroos.com.au/news/five-star-commbank-socceroos-defeat-curacao-5-1
+| goals1     = 
+* [[Awer Mabil|Mabil]] {{goal|23}}
+* [[Alessandro Circati|Circati]] {{goal|67}}
+* [[Jordan Bos|Bos]] {{goal|71}}
+* [[Nestory Irankunda|Irankunda]] {{goal|80||84}}
+| goals2     = 
+* [[Ar'jany Martha|Martha]] {{goal|50}}
+| location   = [[Melbourne]], Australia
+| stadium    = [[Melbourne Rectangular Stadium]]
+| attendance = 16,764
+| referee    = [[Andrew Madley|Andy Madley]] ([[The Football Association|England]])
+| result     = W
+}}
+{{footballbox collapsible
+| format     = 1
+| round      = [[Exhibition game#International football|Friendly]]
+| date       = 30 May
+| time       = {{UTZ|18:00|-7}}
+| team1      = {{fb-rt|MEX}}
+| score      = 1–0
+| report     = https://socceroos.com.au/news/commbank-socceroos-fall-1-0-defeat-mexico-pasadena
+| team2      = {{fb|AUS}}
+| goals1     = 
+* [[Johan Vásquez (footballer, born 1998)|Vásquez]] {{goal|27}}
+| goals2     =
+| stadium    = [[Rose Bowl (stadium)|Rose Bowl]]
+| location   = [[Pasadena, California|Pasadena]], United States
+| attendance = 78,479
+| referee    = [[Rubiel Vásquez]] ([[United States Soccer Federation|United States]])
+| result     = L
+}}
+{{footballbox collapsible
+| format     = 1
+| round      = [[Exhibition game#International football|Friendly]]
+| date       = 6 June
+| time       = {{UTZ|12:00|-7}}
+| team1      = {{fb-rt|SUI}}
+| score      = 1–1
+| report     = https://socceroos.com.au/news/tete-yengi-scores-debut-commbank-socceroos-draw-1-1-switzerland
+| team2      = {{fb|AUS}}
+| goals1     = 
+* [[Dan Ndoye|Ndoye]] {{goal|14}}
+| goals2     = 
+* [[Tete Yengi|Yengi]] {{goal|56}}
+| stadium    = [[Snapdragon Stadium]]
+| location   = [[San Diego]], United States
+| attendance = 6,107
+| referee    = [[Katja Koroleva]] ([[United States Soccer Federation|United States]])
+| result     = D
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[2026 FIFA World Cup Group D|2026 World Cup GS]]
+|date       = 13 June
+|time       = {{UTZ|21:00|-7}}
+|team1      = {{fb-rt|AUS}}
+|score      = 2–0
+|team2      = {{fb|TUR}}
+|report     = https://www.fifa.com/en/match-centre/match/17/285023/289273/400021463
+|goals1     = 
+* [[Nestory Irankunda|Irankunda]] {{goal|27}}
+* [[Connor Metcalfe|Metcalfe]] {{goal|75}}
+|goals2     = 
+|location   = [[Vancouver]], Canada
+|stadium    = [[BC Place]]
+|attendance = 52,497
+|referee    = [[Jesús Valenzuela]] ([[Venezuelan Football Federation|Venezuela]])
+|result     = W
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[2026 FIFA World Cup Group D|2026 World Cup GS]]
+|date       = 19 June
+|time       = {{UTZ|12:00|-7}}
+|team1      = {{fb-rt|USA}} 
+|score      = 2–0
+|team2      = {{fb|AUS}}
+|report     = https://www.fifa.com/en/match-centre/match/17/285023/289273/400021462
+|goals1     = 
+*[[Cameron Burgess|Burgess]] {{goal|11||o.g.}}
+*[[Alex Freeman|Freeman]] {{goal|43}}
+|goals2     = 
+|location   = [[Seattle]], United States
+|stadium    = [[Lumen Field]]
+|attendance = 66,925
+|referee    = [[Felix Zwayer]] ([[German Football Association|Germany]])
+|result     = L
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[2026 FIFA World Cup Group D|2026 World Cup GS]]
+|date       = 25 June
+|time       = {{UTZ|19:00|-7}}
+|team1      = {{fb-rt|PAR}}
+|score      = 0–0
+|team2      = {{fb|AUS}}
+|report     = https://www.fifa.com/en/match-centre/match/17/285023/289273/400021461
+|goals1     = 
+|goals2     = 
+|location   = [[Santa Clara, California|Santa Clara]], United States
+|stadium    = [[Levi's Stadium]]
+|attendance = 68,827
+|referee    = [[Clément Turpin]] ([[French Football Federation|France]])
+|result     = D
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[2026 FIFA World Cup round of 32|2026 World Cup R32]]
+|date       = 3 July
+|time       = {{UTZ|13:00|-5}}
+|team1      = {{fb-rt|AUS}}
+|score      = 1–1
+|aet        = yes
+|team2      = {{fb|EGY}}
+|report     = https://www.fifa.com/en/match-centre/match/17/285023/289287/400021515
+|goals1     = 
+*[[Mohamed Hany|Hany]] {{goal|55|og}}
+|goals2=
+*[[Emam Ashour|Ashour]] {{goal|13}}
+|penalties1=
+*[[Harry Souttar|Souttar]] {{penmiss}}
+*[[Jackson Irvine|Irvine]] {{pengoal}}
+*[[Awer Mabil|Mabil]] {{pengoal}}
+*[[Lucas Herrington|Herrington]] {{penmiss}}
+|penaltyscore=2–4
+|penalties2=
+*{{pengoal}} [[Mahmoud Saber|Saber]]
+*{{pengoal}} [[Ramy Rabia|Rabia]]
+*{{pengoal}} [[Mohamed Salah|Salah]]
+*{{pengoal}} [[Hossam Abdelmaguid|Abdelmaguid]]
+|location   = [[Arlington, Texas|Arlington]], United States
+|stadium    = [[AT&T Stadium]]
+|attendance = 70,244
+|referee    = [[Gustavo Tejera]] ([[Uruguayan Football Association|Uruguay]])
+|result     = D
+}}
+{{footballbox collapsible
+| format     = 1
+| round      = [[Exhibition game#International football|Friendly]]
+| date       = 25 September
+| time       = {{UTZ||+10}}
+| team1      = {{fb-rt|AUS}}
+| score      =
+| report     = [https://footballaustralia.com.au/news/commbank-socceroos-face-five-time-world-champions-brazil Source]
+| team2      = {{fb|BRA}}
+| goals1     = 
+| goals2     =
+| stadium    = [[North Queensland Stadium|Queensland Country Bank Stadium]]
+| location   = [[Townsville]], Australia
+| attendance =
+| referee    =
+| result     = 
+}}
+{{footballbox collapsible
+| format     = 1
+| round      = [[Exhibition game#International football|Friendly]]
+| date       = 29 September
+| time       = {{UTZ||+10}}
+| team1      = {{fb-rt|AUS}}
+| score      =
+| report     = [https://footballaustralia.com.au/news/commbank-socceroos-face-five-time-world-champions-brazil Source]
+| team2      = {{fb|BRA}}
+| goals1     = 
+| goals2     =
+| stadium    = [[Lang Park|Suncorp Stadium]]
+| location   = [[Brisbane]], Australia
+| attendance =
+| referee    =
+| result     = 
+}}
+
+===2027===
+{{Football box collapsible
+|format     = 1
+|date       = 9 January
+|time       = {{UTZ|--:--|}}
+|round      = [[2027 AFC Asian Cup Group D|2027 Asian Cup GS]]
+|score      = 
+|report     = 
+|team1      = {{fb-rt|AUS}}
+|goals1     =
+|team2      = {{fb|SGP}}
+|goals2     =
+|stadium    = [[Aramco Stadium]] 
+|location   = [[Al Khobar]], Saudi Arabia
+|attendance = 
+|referee    = 
+|result     = 
+}} 
+{{Football box collapsible
+|format     = 1
+|date       = 14 January
+|time       = {{UTZ|--:--|}}
+|round      = [[2027 AFC Asian Cup Group D|2027 Asian Cup GS]]
+|score      = 
+|report     = 
+|team1      = {{fb-rt|IRQ}}
+|goals1     =
+|team2      = {{fb|AUS}}
+|goals2     =
+|stadium    = [[King Saud University Stadium]] 
+|location   = [[Riyadh]], Saudi Arabia
+|attendance = 
+|referee    = 
+|result     = 
+}}
+{{Football box collapsible
+|format     = 1
+|date       = 19 January
+|time       = {{UTZ|--:--|}}
+|round      = [[2027 AFC Asian Cup Group D|2027 Asian Cup GS]]
+|score      = 
+|report     = 
+|team1      = {{fb-rt|AUS}}
+|goals1     =
+|team2      = {{fb|TJK}}
+|goals2     =
+|stadium    = [[Al-Shabab Club Stadium|Al Shabab Stadium]] 
+|location   = [[Riyadh]], Saudi Arabia
+|attendance = 
+|referee    = 
+|result     = 
+}}
+
+== Coaching staff ==
+[[File:Tony Popovic-2010-08-03.jpg|thumb|upright=0.7|Current head coach [[Tony Popovic]]]]
+{{See also|List of Australia national soccer team managers}}
+
+=== Current coaching staff ===
+{{updated|January 2026}}<ref>{{cite web |title=Luke Wilkshire joins Subway Socceroos coaching staff |url=https://www.socceroos.com.au/news/luke-wilkshire-joins-subway-socceroos-coaching-staff |website=Socceroos |date=8 August 2024 |publisher=Football Australia |access-date=20 September 2024}}</ref><ref>{{cite web|title=Teams |url=https://www.socceroos.com.au/teams |website=Socceroos.com.au|date= |access-date=28 November 2023}}</ref><ref>{{cite web |last1=Clarke |first1=George |title=Arnold resigns as Socceroos coach, saying it's 'best for the nation' |url=https://www.afr.com/companies/sport/graham-arnold-resigns-as-socceroos-coach-20240920-p5kc51 |website=Australian Financial Review |date=20 September 2024 |access-date=20 September 2024}}</ref><ref>{{cite web |title=CommBank Socceroos great Mile Jedinak joins Head Coach Tony Popovic’s coaching staff |url=https://socceroos.com.au/news/commbank-socceroos-great-mile-jedinak-joins-head-coach-tony-popovics-coaching-staff|website=[[Australia men's national soccer team|Socceroos]] |date=20 January 2026 |publisher=[[Football Australia]] |access-date=20 January 2026}}</ref>
+
+{| class="wikitable"
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" | Role
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" | Name
+|-
+| Head coach
+| {{flagicon|Australia}} [[Tony Popovic]]
+|-
+| Assistant coaches
+| {{flagicon|Australia}} [[Hayden Foxe]]<br/>{{flagicon|Australia}} [[Paul Okon]]<br/>{{flagicon|Australia}} [[Mile Jedinak]]
+|-
+| Director of football
+| {{flagicon|Australia}} Gary Moretti
+|-
+| Goalkeeping coach
+| {{flagicon|Australia}} [[Frank Juric]]
+|-
+| Team analyst
+| {{flagicon|Australia}} Michael Mantikos
+|-
+| Sports dietician
+| {{flagicon|Australia}} Julie Meek
+|}
+
+== Players ==
+{{For|all past and present players who have appeared for the national team|List of Australia men's international soccer players}}
+{{See also|List of Australia national soccer team captains}}
+
+=== Current squad ===
+The following players were called up for the [[2026 FIFA World Cup]].<ref>{{cite news |url=https://socceroos.com.au/news/commbank-socceroos-squad-named-fifa-world-cup-2026tm |title=CommBank Socceroos squad named for FIFA World Cup 2026|date=31 May 2026 |publisher=Socceroos.com}}</ref><ref>{{Cite web |date=2026-06-01 |title=SOCCEROOS SQUAD NUMBERS REVEALED: FIFA World Cup 2026™ {{!}} Socceroos |url=https://socceroos.com.au/news/socceroos-squad-numbers-revealed-fifa-world-cup-2026tm |access-date=2026-06-01 |website=socceroos.com.au |language=en}}</ref>
+<br>''Caps and goals correct as of 3 July 2026, after the match against [[Egypt national football team|Egypt]].''
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name={{sortname|Mathew|Ryan}}|other=[[Captain (association football)|captain]]|age={{bda|1992|4|8|df=y}}|caps=105|goals=0|club=[[Free agent|''Unattached'']]|clubnat=}}
+{{nat fs g player|no=12|pos=GK|name={{sortname|Paul|Izzo}}|age={{bda|1995|1|6|df=y}}|caps=4|goals=0|club=[[Randers FC|Randers]]|clubnat=DEN}}
+{{nat fs g player|no=18|pos=GK|name={{sortname|Patrick|Beach}}|age={{bda|2003|8|6|df=y}}|caps=6|goals=0|club=[[Melbourne City FC|Melbourne City]]|clubnat=AUS}}
+{{nat fs break}}
+{{nat fs g player|no=2|pos=DF|name={{sortname|Miloš|Degenek}}|age={{bda|1994|4|28|df=y}}|caps=57|goals=1|club=[[APOEL FC|APOEL]]|clubnat=CYP}}
+{{nat fs g player|no=3|pos=DF|name={{sortname|Alessandro|Circati}}|age={{bda|2003|10|10|df=y}}|caps=17|goals=1|club=[[Parma Calcio 1913|Parma]]|clubnat=ITA}}
+{{nat fs g player|no=4|pos=DF|name={{sortname|Jacob|Italiano}}|age={{bda|2001|7|30|df=y}}|caps=7|goals=0|club=[[Grazer AK]]|clubnat=AUT}}
+{{nat fs g player|no=5|pos=DF|name={{sortname|Jordan|Bos}}|age={{bda|2002|10|29|df=y}}|caps=31|goals=4|club=[[Feyenoord]]|clubnat=NED}}
+{{nat fs g player|no=6|pos=DF|name={{sortname|Jason|Geria}}|age={{bda|1993|5|10|df=y}}|caps=16|goals=0|club=[[Albirex Niigata]]|clubnat=JPN}}
+{{nat fs g player|no=15|pos=DF|name={{sortname|Kai|Trewin}}|age={{bda|2001|5|18|df=y}}|caps=7|goals=0|club=[[New York City FC|New York City]]|clubnat=USA}}
+{{nat fs g player|no=16|pos=DF|name={{sortname|Aziz|Behich}}|age={{bda|1990|12|16|df=y}}|caps=87|goals=3|club=[[Melbourne City FC|Melbourne City]]|clubnat=AUS}}
+{{nat fs g player|no=19|pos=DF|name={{sortname|Harry|Souttar}}|age={{bda|1998|10|22|df=y}}|caps=42|goals=11|club=[[Leicester City FC|Leicester City]]|clubnat=ENG}}
+{{nat fs g player|no=21|pos=DF|name={{sortname|Cameron|Burgess}}|age={{bda|1995|10|21|df=y}}|caps=29|goals=0|club=[[Swansea City A.F.C.|Swansea City]]|clubnat=WAL}}
+{{nat fs g player|no=25|pos=DF|name={{sortname|Lucas|Herrington}}|age={{bda|2007|7|5|df=y}}|caps=6|goals=0|club=[[Colorado Rapids]]|clubnat=USA}}
+{{nat fs break}}
+{{nat fs g player|no=8|pos=MF|name={{sortname|Connor|Metcalfe}}|age={{bda|1999|11|5|df=y}}|caps=40|goals=2|club=[[FC St. Pauli]]|clubnat=GER}}
+{{nat fs g player|no=10|pos=MF|name={{sortname|Ajdin|Hrustić}}|age={{bda|1996|7|5|df=y}}|caps=39|goals=4|club=[[Free agent|''Unattached'']]|clubnat=}}
+{{nat fs g player|no=13|pos=MF|name={{sortname|Aiden|O'Neill}}|age={{bda|1998|7|4|df=y}}|caps=35|goals=0|club=[[New York City FC|New York City]]|clubnat=USA}}
+{{nat fs g player|no=14|pos=MF|name={{sortname|Cammy|Devlin}}|age={{bda|1998|6|7|df=y}}|caps=5|goals=0|club=[[Rangers F.C.|Rangers]]|clubnat=SCO}}
+{{nat fs g player|no=22|pos=MF|name={{sortname|Jackson|Irvine}}|age={{bda|1993|3|7|df=y}}|caps=86|goals=14|club=[[FC St. Pauli]]|clubnat=GER}}
+{{nat fs g player|no=24|pos=MF|name={{sortname|Paul|Okon-Engstler}}|age={{bda|2005|1|24|df=y}}|caps=10|goals=0|club=[[Sydney FC]]|clubnat=AUS}}
+{{nat fs break}}
+{{nat fs g player|no=7|pos=FW|name={{sortname|Mathew|Leckie}}|age={{bda|1991|2|4|df=y}}|caps=82|goals=14|club=[[Melbourne City FC|Melbourne City]]|clubnat=AUS}}
+{{nat fs g player|no=9|pos=FW|name={{sortname|Mohamed|Touré|dab=soccer, born 2004}}|age={{bda|2004|3|26|df=y}}|caps=13|goals=2|club=[[Norwich City F.C.|Norwich City]]|clubnat=ENG}}
+{{nat fs g player|no=11|pos=FW|name={{sortname|Awer|Mabil}}|age={{bda|1995|9|15|df=y}}|caps=39|goals=10|club=[[CD Castellón|Castellón]]|clubnat=ESP}}
+{{nat fs g player|no=17|pos=FW|name={{sortname|Nestory|Irankunda}}|age={{bda|2006|2|9|df=y}}|caps=19|goals=6|club=[[Watford F.C.|Watford]]|clubnat=ENG}}
+{{nat fs g player|no=20|pos=FW|name={{sortname|Cristian|Volpato}}|age={{bda|2003|11|15|df=y}}|caps=4|goals=0|club=[[Unione Sportiva Sassuolo Calcio|Sassuolo]]|clubnat=ITA}}
+{{nat fs g player|no=23|pos=FW|name={{sortname|Nishan|Velupillay}}|age={{bda|2001|5|7|df=y}}|caps=9|goals=3|club=[[Melbourne Victory FC|Melbourne Victory]]|clubnat=AUS}}
+{{nat fs g player|no=26|pos=FW|name={{sortname|Tete|Yengi}}|age={{bda|2000|11|22|df=y}}|caps=3|goals=1|club=[[Machida Zelvia]]|clubnat=JPN}}
+{{nat fs end}}
+
+=== Recent call-ups ===
+The following players have also been called up within the last 12 months.
+<!--Sorted by position, most recent call-up, caps, goals and last name.-->
+{{nat fs r start}}
+{{nat fs r player|no=|pos=GK|name={{sortname|Joe|Gauci}}|age={{bda|2000|7|4|df=y}}|caps=8|goals=0|club=[[Aston Villa F.C.|Aston Villa]]|clubnat=ENG|latest=Pre-World Cup training camp, 31 May 2026}}
+{{nat fs r player|no=|pos=GK|name={{sortname|Tom|Glover|dab=soccer}}|age={{bda|1997|12|24|df=y}}|caps=0|goals=0|club=[[RB Omiya Ardija]]|clubnat=JPN|latest=[[Soccer Ashes]], 9 September 2025}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=DF|name={{sortname|Kye|Rowles}}|age={{bda|1998|6|24|df=y}}|caps=29|goals=1|club=[[D.C. United]]|clubnat=USA|latest=Pre-World Cup training camp, 31 May 2026}}
+{{nat fs r player|no=|pos=DF|name={{sortname|Gianni|Stensness}}|age={{bda|1999|2|7|df=y}}|caps=2|goals=0|club=[[Viking Fotballklubb|Viking]]|clubnat=NOR||latest=Pre-World Cup training camp, 14 May 2026}}
+{{nat fs r player|no=|pos=DF|name={{sortname|Hayden|Matthews}}|age={{bda|2004|6|19|df=y}}|caps=1|goals=0|club=[[Portsmouth F.C.|Portsmouth]]|clubnat=ENG|latest=Pre-World Cup training camp, 14 May 2026 <sup>INJ</sup>}}
+{{nat fs r player|no=|pos=DF|name={{sortname|Dylan|Leonard}}|age={{bda|2007|8|30|df=y}}|caps=0|goals=0|club=[[Schalke 04]]|clubnat=GER|latest=Pre-World Cup training camp, 14 May 2026}}
+{{nat fs r player|no=|pos=DF|name={{sortname|Fran|Karačić}}|age={{bda|1996|5|12|df=y}}|caps=15|goals=1|club=[[HNK Hajduk Split|Hajduk Split]]|clubnat=CRO|latest=v. {{fb|CMR}}, 27 March 2026 <sup>INJ</sup>}}
+{{nat fs r player|no=|pos=DF|name={{sortname|Lewis|Miller|dab=soccer}}|age={{bda|2000|8|24|df=y}}|caps=19|goals=1|club=[[Blackburn Rovers F.C.|Blackburn Rovers]]|clubnat=ENG|latest=v. {{fb|COL}}, 18 November 2025 <sup>INJ</sup>}}
+{{nat fs r player|no=|pos=DF|name={{sortname|Callum|Elder}}|age={{bda|1995|1|27|df=y}}|caps=3|goals=0|club=[[Derby County F.C.|Derby County]]|clubnat=ENG|latest=v. {{fb|COL}}, 18 November 2025}}
+{{nat fs r player|no=|pos=DF|name={{sortname|Jack|Iredale}}|age={{bda|1996|5|2|df=y}}|caps=0|goals=0|club=[[Hibernian F.C.|Hibernian]]|clubnat=SCO|latest=v. {{fb|COL}}, 18 November 2025 <sup>INJ</sup>}}
+{{nat fs r player|no=|pos=DF|name={{sortname|James|Overy}}|age={{bda|2007|11|9|df=y}}|caps=0|goals=0|club=[[Manchester United F.C. Under-21s and Academy#Under-18s|Manchester United U18]]|clubnat=ENG|latest=v. {{fb|COL}}, 18 November 2025}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=MF|name={{sortname|Riley|McGree}}|age={{bda|1998|11|2|df=y}}|caps=35|goals=1|club=[[Middlesbrough F.C.|Middlesbrough]]|clubnat=ENG|latest=Pre-World Cup training camp, 14 May 2026 <sup>INJ</sup>}}
+{{nat fs r player|no=|pos=MF|name={{sortname|Patrick|Yazbek}}|age={{bda|2002|4|5|df=y}}|caps=9|goals=0|club=[[Nashville SC]]|clubnat=USA|latest=Pre-World Cup training camp, 14 May 2026 <sup>INJ</sup>}}
+{{nat fs r player|no=|pos=MF|name={{sortname|Anthony|Caceres}}|age={{bda|1992|9|29|df=y}}|caps=4|goals=0|club=[[Macarthur FC]]|clubnat=AUS|latest=Pre-World Cup training camp, 14 May 2026}}
+{{nat fs r player|no=|pos=MF|name={{sortname|Alex|Robertson|dab=footballer, born 2003}}|age={{bda|2003|4|17|df=y}}|caps=3|goals=0|club=[[Cardiff City F.C.|Cardiff City]]|clubnat=WAL|latest=Pre-World Cup training camp, 14 May 2026}}
+{{nat fs r player|no=|pos=MF|name={{sortname|Daniel|Bennie}}|age={{bda|2006|4|13|df=y}}|caps=0|goals=0|club=[[Queens Park Rangers]]|clubnat=ENG|latest=Pre-World Cup training camp, 14 May 2026}}
+{{nat fs r player|no=|pos=MF|name={{sortname|Raphael|Borges Rodrigues}}|age={{bda|2003|9|11|df=y}}|caps=0|goals=0|club=[[Wigan Athletic]]|clubnat=ENG|latest=Pre-World Cup training camp, 14 May 2026}}
+{{nat fs r player|no=|pos=MF|name={{sortname|Max|Balard}}|age={{bda|2000|11|20|df=y}}|caps=5|goals=1|club=[[NAC Breda]]|clubnat=NED|latest=v. {{fb|COL}}, 18 November 2025}}
+{{nat fs r player|no=|pos=MF|name={{sortname|Samuel|Silvera}}|age={{bda|2000|10|25|df=y}}|caps=8|goals=0|club=[[Middlesbrough F.C.|Middlesbrough]]|clubnat=ENG|latest=[[Soccer Ashes]], 9 September 2025 <sup>INJ</sup>}}
+{{nat fs r player|no=|pos=MF|name={{sortname|Ryan|Teague}}|age={{bda|2002|1|24|df=y}}|caps=4|goals=0|club=[[Melbourne City FC|Melbourne City]]|clubnat=AUS|latest=[[Soccer Ashes]], 9 September 2025}}
+{{nat fs r player|no=|pos=MF|name={{sortname|Anthony|Kalik}}|age={{bda|1997|11|5|df=y}}|caps=0|goals=0|club=[[HNK Hajduk Split|Hajduk Split]]|clubnat=CRO|latest=[[Soccer Ashes]], 9 September 2025}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=FW|name={{sortname|Martin|Boyle}}|age={{bda|1993|4|25|df=y}}|caps=41|goals=10|club=[[Hibernian F.C.|Hibernian]]|clubnat=SCO|latest=Pre-World Cup training camp, 31 May 2026}}
+{{nat fs r player|no=|pos=FW|name={{sortname|Brandon|Borrello}}|age={{bda|1995|7|25|df=y}}|caps=16|goals=2|club=[[Western Sydney Wanderers]]|clubnat=AUS|latest=Pre-World Cup training camp, 31 May 2026}}
+{{nat fs r player|no=|pos=FW|name={{sortname|Mitch|Duke}}|age={{bda|1991|1|18|df=y}}|caps=50|goals=13|club=[[Macarthur FC]]|clubnat=AUS|latest=Pre-World Cup training camp, 14 May 2026}}
+{{nat fs r player|no=|pos=FW|name={{sortname|Nicholas|D'Agostino|dab=soccer}}|age={{bda|1998|2|25|df=y}}|caps=4|goals=0|club=[[Brisbane Roar FC|Brisbane Roar]]|clubnat=AUS|latest=Pre-World Cup training camp, 14 May 2026 <sup>INJ</sup>}}
+{{nat fs r player|no=|pos=FW|name={{sortname|Deni|Jurić}}|age={{bda|1997|9|3|df=y}}|caps=2|goals=0|club=[[Wisła Płock]]|clubnat=POL|latest=Pre-World Cup training camp, 14 May 2026}}
+{{nat fs r player|no=|pos=FW|name={{sortname|Ante|Šuto}}|age={{bda|2000|6|19|df=y}}|caps=0|goals=0|club=[[Hibernian F.C.|Hibernian]]|clubnat=SCO|latest=Pre-World Cup training camp, 14 May 2026}}
+{{nat fs r player|no=|pos=FW|name={{sortname|Craig|Goodwin}}|age={{bda|1991|12|16|df=y}}|caps=32|goals=7|club=[[Adelaide United FC|Adelaide United]]|clubnat=AUS|latest=v. {{fb|COL}}, 18 November 2025}}
+{{nat fs r player|no=|pos=FW|name={{sortname|Al Hassan|Touré}}|age={{bda|2000|5|30|df=y}}|caps=1|goals=0|club=[[Sydney FC]]|clubnat=AUS|latest=v. {{fb|COL}}, 18 November 2025}}
+{{nat fs r player|no=|pos=FW|name={{sortname|Daniel|Arzani}}|age={{bda|1999|1|4|df=y}}|caps=11|goals=1|club=[[Melbourne City FC|Melbourne City]]|clubnat=AUS|latest=v. {{fb|USA}}, 14 October 2025}}
+{{nat fs r player|no=|pos=FW|name={{sortname|Nicolas|Milanovic}}|age={{bda|2001|11|14|df=y}}|caps=2|goals=0|club=[[Aberdeen F.C.|Aberdeen]]|clubnat=SCO|latest=[[Soccer Ashes]], 9 September 2025}}
+{{nat fs r player|no=|pos=FW|name={{sortname|Noah|Botić}}|age={{bda|2002|1|11|df=y}}|caps=0|goals=0|club=[[FK Austria Wien|Austria Wien]]|clubnat=AUT|latest=[[Soccer Ashes]], 9 September 2025 <sup>INJ</sup>}}
+{{nat fs r player|no=|pos=FW|name={{sortname|Adrian|Segečić}}|age={{bda|2004|6|1|df=y}}|caps=0|goals=0|club=[[Portsmouth F.C.|Portsmouth]]|clubnat=ENG|latest=[[Soccer Ashes]], 9 September 2025}}
+{{nat fs break}}
+;Notes
+*<sup>INJ</sup> = Injured
+<!-- *<sup>WD</sup> = Player withdrew from the squad due to non-injury issue
+*<sup>PRE</sup> = Preliminary squad / standby
+*<sup>RET</sup> = Retired from the national team
+*<sup>SUS</sup> = Serving suspension. -->
+{{nat fs end}}
+
+== Individual records ==
+{{Main|Australia men's national soccer team records and statistics}}
+
+Australia currently hold the world record for the [[Australia 31–0 American Samoa|largest win and the most goals scored by a player in an international match]].<ref name=Telegraph>{{cite news |url=https://www.telegraph.co.uk/sport/football/international/3003021/Australia-score-31-without-loss-in-record-win.html |archive-url=https://ghostarchive.org/archive/20220111/https://www.telegraph.co.uk/sport/football/international/3003021/Australia-score-31-without-loss-in-record-win.html |archive-date=11 January 2022 |url-access=subscription |url-status=live |title=Australia score 31 without loss in record win |date=11 April 2001 |access-date=5 August 2009 |work=Telegraph.co.uk |publisher=Telegraph Media Group Limited | location=London | first=Christopher | last=Davies}}{{cbignore}}</ref> Both records were achieved during the [[2002 FIFA World Cup qualification]] match against [[American Samoa national football team|American Samoa]] on 11 April 2001. Australia won [[Australia 31–0 American Samoa|31–0]] with [[Archie Thompson]] scoring 13 goals and [[David Zdrilic]] scoring eight.<ref name=Telegraph/><ref>{{cite news|url=https://www.theguardian.com/football/2001/apr/12/newsstory.sport3|title=Samoans lose 31–0 – or was it 32–0?|date=11 April 2001|access-date=6 October 2016|work=The Guardian|archive-date=10 October 2016|archive-url=https://web.archive.org/web/20161010155311/https://www.theguardian.com/football/2001/apr/12/newsstory.sport3|url-status=live}}</ref> Two days before the 31–0 win, Australia broke the record for largest win with a [[Tonga 0–22 Australia|22–0 win]] over [[Tonga national football team|Tonga]].<ref name="Tonga routed">{{cite news|url=https://www.telegraph.co.uk/sport/football/international/3002857/Tonga-routed-as-Socceroos-hit-22.html |archive-url=https://ghostarchive.org/archive/20220111/https://www.telegraph.co.uk/sport/football/international/3002857/Tonga-routed-as-Socceroos-hit-22.html |archive-date=11 January 2022 |url-access=subscription |url-status=live|title=Tonga routed as Socceroos hit 22|date=9 April 2001|access-date=6 October 2016|work=The Telegraph}}{{cbignore}}</ref> With 13 and 8 goals respectively, both Thompson and Zdrilic broke the previous record jointly held by another Australian, [[Gary Cole (footballer)|Gary Cole]], who scored seven goals against [[Fiji national football team|Fiji]] in 1981,<ref>{{cite news|url=http://www.theage.com.au/news/Soccer/The-allimportant-Cole-difference/2004/12/12/1102625590072.html|title=The all-important Cole difference|date=12 December 2004|access-date=4 August 2009|work=The Age|location=Melbourne|first=Michael|last=Lynch|archive-date=16 November 2013|archive-url=https://web.archive.org/web/20131116080356/http://www.theage.com.au/news/Soccer/The-allimportant-Cole-difference/2004/12/12/1102625590072.html|url-status=live}}</ref> and Iranian [[Karim Bagheri]], who also scored seven goals against [[Maldives national football team|Maldives]] in 1997.<ref>{{cite news|url=https://www.theguardian.com/Archive/Article/0,4273,4110868,00.html |title=Iran fanatics keep close eye on the Valley |date=30 December 2000 |access-date=4 August 2009 |work=The Guardian |publisher=Guardian News and Media Limited |location=London |archive-url=https://web.archive.org/web/20090624011427/http://www.guardian.co.uk/Archive/Article/0%2C4273%2C4110868%2C00.html |archive-date=24 June 2009 |url-status=live }}</ref>
+
+{{Updated|3 July 2026}}
+:''Players in '''bold''' are still active with Australia.''
+
+=== Most appearances ===
+[[File:Mark Schwarzer.jpg|thumb|Goalkeeper Mark Schwarzer is the most capped player in the history of Australia with 109 caps.]]
+
+{| class="wikitable sortable" style="white-space:nowrap; text-align:center"
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" width="25" | Rank
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" width="150" | Name
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" width="50" | Caps
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" width="50" | Goals
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" width="50" | Position
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" width="100" | Period
+|-
+| 1
+| style="text-align:left" | [[Mark Schwarzer]]
+| 109
+| 0
+| GK
+| 1993–2013
+|-
+| 2
+| style="text-align:left" | [[Tim Cahill]]
+| 108
+| 50
+| FW
+| 2004–2018
+|-
+| 3
+| style="text-align:left" | '''[[Mathew Ryan]]'''
+| 105
+| 0
+| GK
+| 2012–present
+|-
+| 4
+| style="text-align:left" | [[Lucas Neill]]
+| 96
+| 1
+| DF
+| 1996–2013
+|-
+| 5
+| style="text-align:left" | [[Brett Emerton]]
+| 95
+| 20
+| MF
+| 1998–2012
+|-
+| rowspan="2"|6
+| style="text-align:left" | '''[[Aziz Behich]]'''
+| 87
+| 3
+| DF
+| 2012–present
+|-
+| style="text-align:left" | [[Alex Tobin]]
+| 87
+| 2
+| DF
+| 1988–1998
+|-
+| 8
+| style="text-align:left" | '''[[Jackson Irvine]]'''
+| 86
+| 14
+| MF
+| 2013–present
+|-
+| rowspan="2" | 9
+| style="text-align:left" | [[Mark Bresciano]]
+| 84
+| 13
+| MF
+| 2001–2015
+|-
+| style="text-align:left" | [[Paul Wade]]
+| 84
+| 10
+| MF
+| 1986–1996
+|}
+
+=== Top goalscorers ===
+[[File:2017 Confederation Cup - CHIAUS - Tim Cahill.jpg|thumb|upright|Tim Cahill is Australia's top scorer with 50 goals.]]
+
+{| class="wikitable sortable" style="white-space:nowrap; text-align:center"
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" width="25" | Rank
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" width="150" | Name
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" width="50" | Goals
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" width="50" | Caps
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" width="50" | Ratio
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" width="100" | Period
+|-
+| 1
+| style="text-align:left" | [[Tim Cahill]] <small>([[List of international goals scored by Tim Cahill|list]])</small>
+| 50
+| 108
+| {{#expr:50/108 round 2}}
+| 2004–2018
+|-
+| 2
+| style="text-align:left" | [[Damian Mori]]
+| 29
+| 45
+| {{#expr:29/45 round 2}}
+| 1992–2002
+|-
+| 3
+| style="text-align:left" | [[Archie Thompson]]
+| 28
+| 54
+| {{#expr:28/54 round 2}}
+| 2001–2013
+|-
+| 4
+| style="text-align:left" | [[John Aloisi]]
+| 27
+| 55
+| {{#expr:27/55 round 2}}
+| 1993–2008
+|-
+| rowspan="2" | 5
+| style="text-align:left" | [[John Kosmina]]
+| 25
+| 60
+| {{#expr:25/60 round 2}}
+| 1977–1988
+|-
+| style="text-align:left" | [[Attila Abonyi]]
+| 25
+| 61
+| {{#expr:25/61 round 2}}
+| 1967–1977
+|-
+| rowspan="3" | 7
+| style="text-align:left" | [[David Zdrilić]]
+| 20
+| 31
+| {{#expr:20/31 round 2}}
+| 1997–2010
+|-
+| style="text-align:left" | [[Mile Jedinak]]
+| 20
+| 79
+| {{#expr:20/79 round 2}}
+| 2008–2018
+|-
+| style="text-align:left" | [[Brett Emerton]]
+| 20
+| 95
+| {{#expr:20/95 round 2}}
+| 1998–2012
+|-
+| 10
+| style="text-align:left" | [[Graham Arnold]]
+| 19
+| 56
+| {{#expr:19/56 round 2}}
+| 1985–1997
+|}
+
+=== Most clean sheets ===
+{| class="wikitable sortable" style="white-space:nowrap; text-align:center"
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" width="25" | Rank
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" width="150" | Name
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" width="50" | Clean sheets
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" width="50" | Caps
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" width="50" | Ratio
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" width="100" | Period
+|-
+| 1
+| style="text-align:left" | [[Mark Schwarzer]]
+| 44
+| 109
+| {{#expr:44/109 round 2}}
+| 1993–2013
+|-
+| 2
+| style="text-align:left" | '''[[Mathew Ryan]]'''
+| 40
+| 103
+| {{#expr:39/103 round 2}}
+| 2012–present
+|-
+| 3
+| style="text-align:left" | [[Zeljko Kalac]]
+| 24
+| 54
+| {{#expr:24/54 round 2}}
+| 1992–2006
+|-
+| 4
+| style="text-align:left" | [[Jeff Olver]]
+| 13
+| 37
+| {{#expr:13/37 round 2}}
+| 1985–1989
+|-
+| 5
+| style="text-align:left" | [[Robert Zabica]]
+| 12
+| 27
+| {{#expr:12/27 round 2}}
+| 1990–1994
+|}
+
+== Competitive record ==
+{{For|the all-time record of the national team against opposing nations|Australia national soccer team all-time record}}
+
+=== FIFA World Cup ===
+{{Main|Australia at the FIFA World Cup}}
+
+{{Australia FIFA World Cup record}}
+
+=== FIFA Confederations Cup ===
+{{Main|Australia at the FIFA Confederations Cup}}
+
+{{Color box|gold|border=darkgray}} Winners&nbsp;&nbsp;{{Color box|silver|border=darkgray}} Runners-up&nbsp;&nbsp;{{Color box|#cc9966|border=darkgray}} Third place&nbsp;&nbsp;
+
+{| class="wikitable" style="text-align:center;"
+! colspan="10" style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" | [[FIFA Confederations Cup|{{color|#008751|FIFA Confederations Cup}}]] record
+|-
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" | Year
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" | Host
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" | Round
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" | {{Tooltip|Pld|Games played}}
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" | {{Tooltip|W|Games won}}
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" | {{Tooltip|D|Games drawn, including knockout matches decided on penalty kicks}}
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" | {{Tooltip|L|Games lost}}
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" | {{Tooltip|GF|Goals for}}
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" | {{Tooltip|GA|Goals against}}
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" | Squad
+|-
+| colspan="2" | [[1992 King Fahd Cup|1992]] to [[1995 King Fahd Cup|1995]]
+| colspan="8" | ''No OFC representative invited''
+|-
+| [[1997 FIFA Confederations Cup|1997]]
+| align="left" | {{flag|Saudi Arabia}}
+| style="background:silver" | Runners-up
+|5||2||1||2||4||8
+| [[1997 FIFA Confederations Cup squads#Australia|Squad]]
+|-
+| [[1999 FIFA Confederations Cup|1999]]
+| align="left" | {{flag|Mexico}}
+| colspan="9" | ''Did not qualify''
+|-
+| [[2001 FIFA Confederations Cup|2001]]
+| align="left" | {{flag|Japan}}<br>{{flag|South Korea}}
+| style="background:#cc9966" | Third place
+|5||3||0||2||4||2
+| [[2001 FIFA Confederations Cup squads#Australia|Squad]]
+|-
+| [[2003 FIFA Confederations Cup|2003]]
+| align="left" | {{flag|France}}
+| colspan="9" | ''Did not qualify''
+|-
+| [[2005 FIFA Confederations Cup|2005]]
+| align="left" | {{flag|Germany}}
+| Group stage
+|3||0||0||3||5||10
+| [[2005 FIFA Confederations Cup squads#Australia|Squad]]
+|-
+| [[2009 FIFA Confederations Cup|2009]]
+| align="left" | {{flag|South Africa}}
+| colspan="9" rowspan="2" | ''Did not qualify''
+|-
+| [[2013 FIFA Confederations Cup|2013]]
+| align="left" | {{flag|Brazil}}
+|-
+| [[2017 FIFA Confederations Cup|2017]]
+| align="left" | {{flag|Russia}}
+| Group stage
+|3||0||2||1||4||5
+| [[2017 FIFA Confederations Cup squads#Australia|Squad]]
+|-
+! colspan="2" style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" | Total
+<!--FIFA World Cup record-->
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" | {{Tooltip|Runners-up|Highest finish}}
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" | 16 <!--Played-->
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" | 5 <!--Wins-->
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" | 3 <!--Draws-->
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" | 8 <!--Losses-->
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" | 17 <!--Goals scored-->
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" | 25 <!--Goals conceded-->
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" | —
+|}
+
+=== AFC Asian Cup ===
+{{Main|Australia at the AFC Asian Cup}}
+
+{{Australia AFC Asian Cup record}}
+
+===OFC Men's Nations Cup===
+{{Main|Australia at the OFC Men's Nations Cup}}
+
+{{Color box|gold|border=darkgray}} Winners&nbsp;&nbsp;{{Color box|silver|border=darkgray}} Runners-up&nbsp;&nbsp;{{Color box|#cc9966|border=darkgray}} Third place&nbsp;&nbsp;
+
+{| class="wikitable" style="text-align:center;"
+! colspan="10" style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" | [[OFC Men's Nations Cup|{{color|#008751|OFC Men's Nations Cup}}]] record
+|-
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" | Year
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" | Host
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" | Round
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" | {{Tooltip|Pld|Games played}}
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" | {{Tooltip|W|Games won}}
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" | {{Tooltip|D|Games drawn, including knockout matches decided on penalty kicks}}
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" | {{Tooltip|L|Games lost}}
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" | {{Tooltip|GF|Goals for}}
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" | {{Tooltip|GA|Goals against}}
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" | Squad
+|-
+| [[1973 Oceania Cup|1973]]
+| align="left" | {{flag|New Zealand}}
+| colspan="9" | ''Did not enter''
+|-
+| [[1980 Oceania Cup|1980]]
+| align="left" | {{flag|New Caledonia|french}}
+| style="background:gold" | '''Winners'''
+|4||4||0||0||24||4
+| [[1980 Oceania Cup squads#Australia|Squad]]
+|-
+| colspan="2" | [[1996 OFC Nations Cup|1996]]
+| style="background:gold" | '''Winners'''
+|4||3||1||0||14||0
+| [[1996 OFC Nations Cup squads#Australia|Squad]]
+|-
+| style="border: 3px solid red" scope="row" | [[1998 OFC Nations Cup|1998]]
+| style="border: 3px solid red" scope="row" align="left" | {{flag|Australia}}
+| style="background:silver" | Runners-up
+|4||3||0||1||23||3
+| [[1998 OFC Nations Cup squads#Australia|Squad]]
+|-
+| [[2000 OFC Nations Cup|2000]]
+| align="left" | {{flag|Tahiti}}
+| style="background:gold" | '''Winners'''
+|4||4||0||0||26||0
+| [[2000 OFC Nations Cup squads#Australia|Squad]]
+|-
+| [[2002 OFC Nations Cup|2002]]
+| align="left" | {{flag|New Zealand}}
+| style="background:silver" | Runners-up
+|5||4||0||1||23||2
+| [[2002 OFC Nations Cup squads#Australia|Squad]]
+|-
+| style="border: 3px solid red" scope="row" | [[2004 OFC Nations Cup|2004]]
+| style="border: 3px solid red" scope="row" align="left" | {{flag|Australia}}
+| style="background:gold" | '''Winners'''
+|7||6||1||0||32||4
+| [[2004 OFC Nations Cup squads#Australia|Squad]]
+|-
+! colspan="2" style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" | Total
+<!--FIFA World Cup record-->
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" | {{Tooltip|Winners|Highest finish}}
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" | 28 <!--Played-->
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" | 24 <!--Wins-->
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" | 2 <!--Draws-->
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" | 2 <!--Losses-->
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" | 142 <!--Goals scored-->
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" | 13 <!--Goals conceded-->
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" | —
+|}
+
+=== Summer Olympics ===
+{| class="wikitable" style="text-align:center; white-space:nowrap; font-size:90%"
+! colspan="10" style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" | [[Football at the Summer Olympics|<span style="color:#008751">Summer Olympics</span>]] record
+! rowspan="21" style="background:#FFFFFF; border-top-style:hidden; border-bottom-style:hidden" |
+! colspan="6" style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" | <span style="color:#008751">Qualification</span> record
+|- 
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" | Year
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" | Round
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" | {{Tooltip|Pos.|Position}}
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" | {{Tooltip|Pld|Played}}
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" | {{Tooltip|W|Won}}
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" | {{Tooltip|D|Drawn, including knockout matches decided via penalty shoot-out}}
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" | {{Tooltip|L|Lost}}
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" | {{Tooltip|GF|Goals for}}
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" | {{Tooltip|GA|Goals against}}
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" | Squad
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" | {{Tooltip|Pld|Played}}
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" | {{Tooltip|W|Won}}
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" | {{Tooltip|D|Drawn}}
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" | {{Tooltip|L|Lost}}
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" | {{Tooltip|GF|Goals for}}
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" | {{Tooltip|GA|Goals against}}
+|-
+| {{flagicon|United Kingdom}} [[Football at the 1908 Summer Olympics|1908]]
+| rowspan="8" colspan="9" | ''Did not participate''
+| rowspan="8" colspan="6" | ''Did not participate''
+|-
+| {{flagicon|Sweden}} [[Football at the 1912 Summer Olympics|1912]]
+|-
+| {{flagicon|Belgium}} [[Football at the 1920 Summer Olympics|1920]]
+|-
+| {{flagicon|France}} [[Football at the 1924 Summer Olympics|1924]]
+|-
+| {{flagicon|Netherlands}} [[Football at the 1928 Summer Olympics|1928]]
+|-
+| {{flagicon|Germany|Nazi}} [[Football at the 1936 Summer Olympics|1936]]
+|-
+| {{flagicon|United Kingdom}} [[Football at the 1948 Summer Olympics|1948]]
+|-
+| {{flagicon|Finland}} [[Football at the 1952 Summer Olympics|1952]]
+|-
+| style="border:3px solid red" | {{flagicon|Australia}} [[Association football at the 1956 Summer Olympics|1956]]
+| Quarter-finals
+| 5th
+| 2
+| 1
+| 0
+| 1
+| 4
+| 4
+| [[Association football at the 1956 Summer Olympics – Men's team squads#Australia|Squad]]
+| colspan="6" | ''Qualified as host''
+|-
+| {{flagicon|Italy}} [[Football at the 1960 Summer Olympics|1960]]
+| colspan="9" | ''Withdrew''
+| colspan="6" | ''Withdrew''
+|-
+| {{flagicon|Japan}} [[Football at the 1964 Summer Olympics|1964]]
+| rowspan="6" colspan="9" | ''Did not enter''
+| rowspan="6" colspan="6" | ''Did not enter''
+|-
+| {{flagicon|Mexico}} [[Football at the 1968 Summer Olympics|1968]]
+|-
+| {{flagicon|West Germany}} [[Football at the 1972 Summer Olympics|1972]]
+|-
+| {{flagicon|Canada}} [[Football at the 1976 Summer Olympics|1976]]
+|-
+| {{flagicon|Soviet Union}} [[Football at the 1980 Summer Olympics|1980]]
+|-
+| {{flagicon|United States}} [[Football at the 1984 Summer Olympics|1984]]
+|-
+| {{flagicon|South Korea}} [[Football at the 1988 Summer Olympics|1988]]
+| Quarter-finals
+| 7th
+| 4
+| 2
+| 0
+| 2
+| 2
+| 6
+| [[Football at the 1988 Summer Olympics – Men's team squads#Australia|Squad]]
+| 8
+| 6
+| 2
+| 0
+| 18
+| 4
+|-
+| [[Football at the 1992 Summer Olympics|1992]] to present
+| colspan="9" | ''See [[Australia men's national under-23 soccer team#Competitive record|Australia men's national under-23 soccer team]]''
+|-
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" | Total
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" | {{Tooltip|Quarter-finals|Highest finish}}
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" | {{Abbr|2/17|Number of tournaments qualified}}
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" | 6
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" | 3
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" | 0
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" | 3
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" | 6
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" | 10
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" | —
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" | 8
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" | 6
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" | 2
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" | 0
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" | 18
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" | 4
+|}
+
+=== Minor tournaments ===
+{| class="wikitable" style="text-align:center; white-space:nowrap; font-size:90%"
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" | Year
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" | {{Tooltip|Pos.|Position}}
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" | {{Tooltip|Pld|Played}}
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" | {{Tooltip|W|Won}}
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" | {{Tooltip|D|Drawn, including knockout matches decided via penalty shoot-out}}
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" | {{Tooltip|L|Lost}}
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" | {{Tooltip|GF|Goals for}}
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" | {{Tooltip|GA|Goals against}}
+|- style="background:silver"
+| align=left | {{flagicon|New Zealand}} 1922 [[Soccer Ashes]]
+| 2nd
+| 3
+| 0
+| 1
+| 2
+| 3
+| 7
+|- style="background:silver"
+| align=left | {{flagicon|Australia}} 1923 [[Soccer Ashes]]
+| 2nd
+| 3
+| 1
+| 0
+| 2
+| 5
+| 8
+|- style="background:gold"
+| align=left | {{flagicon|Australia}} 1933 [[Soccer Ashes]]
+| 1st
+| 3
+| 3
+| 0
+| 0
+| 14
+| 8
+|- style="background:gold"
+| align=left | {{flagicon|New Zealand}} 1936 [[Soccer Ashes]]
+| 1st
+| 3
+| 3
+| 0
+| 0
+| 21
+| 2
+|- style="background:gold"
+| align=left | {{flagicon|New Zealand}} 1948 [[Soccer Ashes]]
+| 1st
+| 4
+| 4
+| 0
+| 0
+| 17
+| 0
+|- style="background:gold"
+| align=left | {{flagicon|Australia}} 1954 [[Soccer Ashes]]
+| 1st
+| 3
+| 2
+| 0
+| 1
+| 9
+| 4
+|- style="background:gold"
+| align=left | {{flagicon|South Vietnam}} [[1967 South Vietnam Independence Cup]]
+| 1st
+| 5
+| 5
+| 0
+| 0
+| 15
+| 6
+|- style="background:gold"
+| align=left | {{flagicon|Singapore}} [[1982 Merlion Cup]]
+| 1st
+| 4
+| 4
+| 0
+| 0
+| 14
+| 2
+|- style="background:silver"
+| align=left | {{flagicon|Australia}} {{flagicon|New Zealand}} [[Trans-Tasman Cup#1983|1983 Trans-Tasman Trophy]]
+| 2nd
+| 2
+| 0
+| 0
+| 2
+| 1
+| 4
+|- style="background:gold"
+| align=left | {{flagicon|Singapore}} 1983 Merlion Cup
+| 1st
+| 4
+| 3
+| 0
+| 1
+| 10
+| 5
+|- style="background:silver"
+| align=left | {{flagicon|China}} 1984 China–Australia Ampol Cup
+| 2nd
+| 1
+| 0
+| 0
+| 1
+| 2
+| 3
+|- style="background:gold"
+| align=left | {{flagicon|China}} 1985 China–Australia Ampol Cup
+| 1st
+| 1
+| 1
+| 0
+| 0
+| 3
+| 0
+|- style="background:gold"
+| align=left | {{flagicon|Australia}} {{flagicon|New Zealand}} [[Trans-Tasman Cup#1986|1986 Trans-Tasman Trophy]]
+| 1st
+| 2
+| 1
+| 1
+| 0
+| 3
+| 2
+|- style="background:gold"
+| align=left | {{flagicon|China}} 1986 China–Australia Ampol Cup
+| 1st
+| 1
+| 1
+| 0
+| 0
+| 2
+| 0
+|- style="background:silver"
+| align=left | {{flagicon|South Korea}} [[1987 President's Cup Football Tournament|1987 President's Cup]]
+| 2nd
+| 3
+| 2
+| 1
+| 0
+| 2
+| 1
+|- style="background:silver"
+| align=left | {{flagicon|Australia}} {{flagicon|New Zealand}} [[Trans-Tasman Cup#1987|1987 Trans-Tasman Trophy]]
+| 2nd
+| 2
+| 0
+| 1
+| 1
+| 1
+| 2
+|- style="background:silver"
+| align=left | {{flagicon|Australia}} [[Australia Bicentenary Gold Cup|1988 Australia Bicentenary Gold Cup]]
+| 2nd
+| 4
+| 2
+| 0
+| 2
+| 7
+| 4
+|- style="background:gold"
+| align=left | {{flagicon|Australia}} {{flagicon|New Zealand}} [[Trans-Tasman Cup#1988|1988 Trans-Tasman Trophy]]
+| 1st
+| 2
+| 2
+| 0
+| 0
+| 4
+| 1
+|- style="background:gold"
+| align=left | {{flagicon|Indonesia}} 1990 Independence Cup
+| 1st
+| 1
+| 1
+| 0
+| 0
+| 3
+| 0
+|- style="background:gold"
+| align=left | {{flagicon|Australia}} {{flagicon|New Zealand}} [[Trans-Tasman Cup#1991|1991 Trans-Tasman Trophy]]
+| 1st
+| 2
+| 2
+| 0
+| 0
+| 3
+| 1
+|- style="background:silver"
+| align=left | {{flagicon|South Korea}} 1991 President's Cup
+| 2nd
+| 1
+| 0
+| 1
+| 0
+| 0
+| 0
+|- style="background:#C96"
+| align=left | {{flagicon|Indonesia}} 1992 Independence Cup
+| 3rd
+| 2
+| 1
+| 0
+| 1
+| 3
+| 1
+|- style="background:silver"
+| align=left | {{flagicon|Japan}} [[Kirin Cup#1994 Kirin Cup|1994 Kirin Cup]]
+| 2nd
+| 2
+| 0
+| 1
+| 1
+| 1
+| 2
+|- style="background:gold"
+| align=left | {{flagicon|Australia}} {{flagicon|New Zealand}} [[Trans-Tasman Cup#1995|1995 Trans-Tasman Trophy]]
+| 1st
+| 2
+| 1
+| 1
+| 0
+| 3
+| 0
+|- style="background:silver"
+| align=left | {{flagicon|South Africa}} 1996 Simba Cup
+| 2nd
+| 3
+| 2
+| 0
+| 1
+| 6
+| 2
+|- 
+| align=left | {{flagicon|Chile}} 2000 Copa Ciudad de Valparaíso
+| 4th
+| 3
+| 0
+| 2
+| 1
+| 2
+| 3
+|- style="background:#C96"
+| align=left | {{flagicon|United Arab Emirates}} 2000 LG Cup (UAE)
+| 3rd
+| 2
+| 1
+| 0
+| 1
+| 3
+| 4
+|- style="background:silver"
+| align=left | {{flagicon|Japan}} [[AFC–OFC Challenge Cup#2001 AFC–OFC Challenge Cup|2001 AFC–OFC Challenge Cup]]
+| 2nd
+| 1
+| 0
+| 0
+| 1
+| 0
+| 3
+|-
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" | Total
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" | {{Tooltip|14 Titles|Highest finish}}
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" | 69
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" | 42
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" | 9
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" | 17
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" | 150
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" | 75
+|}
+
+== All-time record ==
+{{Main|Australia national soccer team all-time record}}
+
+== FIFA Rankings ==
+{{Chart|definition=Australia Year-end Placements in the FIFA World Rankings.chart|data=Australia Year-end Placements in the FIFA World Rankings.tab|width=550px|thumb=yes| caption = A line chart depicting the history of Australia's year-end placements in the [[FIFA World Rankings]].}}
+
+''Last update was on 22 December 2025''
+Source:<ref>{{cite web|url=https://www.fifa.com/fifa-world-ranking/associations/association/AUS/men/|title=Australia Men's Ranking|access-date=13 April 2024}}</ref>
+
+{{Color box|blue|border=darkgray}} '''Best Ranking'''&nbsp;&nbsp;{{Color box|gold|border=darkgray}} '''Worst Ranking'''&nbsp;&nbsp;{{Color box|green|border=darkgray}} '''Best Mover'''&nbsp;&nbsp;{{Color box|red|border=darkgray}} '''Worst Mover'''&nbsp;&nbsp;
+
+{| class="wikitable sortable" style="text-align:center"
+! colspan="12" style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" | [[FIFA World Rankings|{{color|#008751|Australia's FIFA world rankings}}]]
+|-
+! rowspan="2" style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" |
+! rowspan="2" style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" | Rank
+! rowspan="2" style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" | Year
+! rowspan="2" style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" | Games<br/>Played
+! colspan="2" style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" | Best
+! colspan="2" style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" | Worst
+|-
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" | Rank
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" | Move
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" | Rank
+! style="background:#FCD116; color:#008751; {{box-shadow border|a|#008751|2px}}" | Move
+|-
+| || 26 || 2025 || 10
+| 24 ||align=left|{{increase}} 2 || 26 ||align=left|{{decrease}} 1
+|-
+| || 26 || 2024 || 16
+| 23 ||align=left|{{increase}} 2 || 26 ||align=left|{{decrease}} 2
+|-
+| || 25 || 2023 || 8
+| 25 ||align=left|{{increase}} 2 || 29 ||align=left|{{decrease}} 2
+|-
+| || 27 || 2022 || 13
+| 27 ||align=left|{{increase}} 8 || 42 ||align=left|{{decrease}} 6
+|-
+| || 35 || 2021 || 10
+| 32 ||align=left|{{increase}} 6 || 41 ||align=left|{{decrease}} 2
+|-
+| || 41 || 2020 || 0
+| 41 ||align=left|{{increase}} 1 || 42 ||align=left|{{decrease}} 1
+|-
+| || 42 || 2019 || 10
+| 41 ||align=left|{{increase}} 2 || 46 ||align=left|{{decrease}} 3
+|-
+| || 41 || 2018 || 11
+| 32 ||align=left|{{increase}} 4 || 43 ||align=left|{{decrease}} 7
+|-
+| || 38 || 2017 || 13
+| 38 ||align=left|{{increase}} 7 || 55 ||align=left|{{decrease}} 10
+|-
+| || 47 || 2016 || 10
+| 40 ||align=left|{{increase}} 17 || 68 || align=left|{{decrease}} 9
+|-
+| || 57 || 2015 || 14
+| 57 ||align=left|{{increase}} 37 || 100 || align=left|{{decrease}} 2
+|-
+| {{Color box|gold|border=darkgray}} {{Color box|red|border=darkgray}} || 100 || 2014 || 11
+| 53 ||align=left|{{increase}} 4 || 102 || align=left|{{decrease}} 14
+|-
+| || 58 || 2013 || 12
+| 36 ||align=left|{{increase}} 7 || 59 || align=left|{{decrease}} 7
+|-
+| || 36 || 2012 || 13
+| 20 || align=left|{{increase}} 2 || 36 || align=left|{{decrease}} 9
+|-
+| || 23 || 2011 || 17
+| 19 || align=left|{{increase}} 5 || 26 || align=left|{{decrease}} 2
+|-
+| || 26 || 2010 || 13
+| 19 || align=left|{{increase}} 4 || 26 || align=left|{{decrease}} 6
+|-
+| {{Color box|blue|border=darkgray}} || 21 || 2009 || 12
+| 14 || align=left|{{increase}} 13 || 32 || align=left|{{decrease}} 10
+|-
+| || 28 || 2008 || 13
+| 28 || align=left|{{increase}} 10 || 48 || align=left|{{decrease}} 5
+|-
+| || 48 || 2007 || 10
+| 39 || align=left|{{increase}} 4 || 52 || align=left|{{decrease}} 6
+|-
+| || 39 || 2006 || 13
+| 33 || align=left|{{increase}} 9 || 48 || align=left|{{decrease}} 4
+|-
+| || 48 || 2005 || 12
+| 48 || align=left|{{increase}} 9 || 60 || align=left|{{decrease}} 4
+|-
+| {{Color box|green|border=darkgray}} || 58 || 2004 || 12
+| 49 || align=left|{{increase}} 40 || 89 || align=left|{{decrease}} 9
+|-
+| || 82 || 2003 || 3
+| 45 || align=left|{{increase}} 6 || 82 || align=left|{{decrease}} 13
+|-
+| || 50 || 2002 || 4
+| 43 || align=left|{{increase}} 4 || 50 || align=left|{{decrease}} 3
+|-
+| || 48 || 2001 || 16
+| 46 || align=left|{{increase}} 18 || 77 || align=left|{{decrease}} 5
+|-
+| || 73 || 2000 || 15
+| 63 || align=left|{{increase}} 29 || 92 || align=left|{{decrease}} 6
+|-
+| || 89 || 1999 || 0
+| 50 || align=left| || 89 || align=left|{{decrease}} 11
+|-
+| || 39 || 1998 || 9
+| 32 || align=left|{{increase}} 3 || 39 || align=left|{{decrease}} 6
+|-
+| || 35 || 1997 || 19
+| 31 || align=left|{{increase}} 17 || 36 || align=left|{{decrease}} 4
+|-
+| || 50 || 1996 || 12
+| 48 || align=left|{{increase}} 9 || 61 || align=left|{{decrease}} 9
+|-
+| || 51 || 1995 || 9
+| 47 || align=left|{{increase}} 11 || 58 || align=left|{{decrease}} 8
+|-
+| || 58 || 1994 || 6
+| 44 || align=left|{{increase}} 2 || 58 || align=left|{{decrease}} 6
+|-
+| || 49 || 1993 || 10
+| 49 || align=left|{{increase}} 12 || 65 || align=left|{{decrease}} 13
+|}
+
+== Honours ==
+{{See also|Australia national soccer team records#Honours|label 1=Australia national soccer team honours}}
+
+=== Global ===
+* '''[[FIFA Confederations Cup]]'''
+** {{Silver2}} Runners-up (1): [[1997 FIFA Confederations Cup Final|1997]]
+** {{Bronze3}} Third place (1): [[2001 FIFA Confederations Cup|2001]]
+
+=== Intercontinental ===
+* '''[[AFC-OFC Challenge Cup]]'''
+** {{Silver2}} Runners-up (1): [[AFC-OFC Challenge Cup#2001 AFC-OFC Challenge Cup|2001]]
+
+=== Continental ===
+* '''[[AFC Asian Cup]]'''
+** {{Gold1}} '''Champions (1)''': [[2015 AFC Asian Cup|2015]]
+** {{Silver2}} Runners-up (1): [[2011 AFC Asian Cup|2011]]
+* '''[[OFC Nations Cup]]'''
+** {{Gold1}} '''Champions (4)''': [[1980 Oceania Cup|1980]], [[1996 OFC Nations Cup|1996]], [[2000 OFC Nations Cup|2000]], [[2004 OFC Nations Cup|2004]]
+** {{Silver2}} Runners-up (2): [[1998 OFC Nations Cup|1998]], [[2002 OFC Nations Cup|2002]]
+
+=== Friendly ===
+* '''[[Trans-Tasman Cup]] (4)''': 1986, 1988, 1991, 1995
+* '''[[Soccer Ashes]] (6)''': 1933, 1936, 1948, 1954, 2023, 2025
+* '''[[Indonesian Independence Cup]] (1)''': 1990
+* '''[[1967 South Vietnam Independence Cup|South Vietnam Independence Cup]] (1)''': 1967
+* '''[[Australia Bicentenary Gold Cup]] (1)''': 1988
+* '''[[Merlion Cup]] (2)''': 1982, 1983
+* '''[[FIFA Series]] (1)''': [[2026 FIFA Series (men's matches)|2026]]
+
+=== Awards ===
+* '''[[Asian Football Confederation#Team of the Year|AFC Men's Team of the Year]] (2)''': 2006, 2015
+* '''[[AFC Asian Cup awards#Fair Play Award|AFC Asian Cup Fair Play Award]] (1)''': 2015
+
+=== Summary ===
+{| class="wikitable" width="30%" style="font-size:90%; text-align:center"
+|-
+! Competition
+! {{gold1}}
+! {{silver2}}
+! {{bronze3}}
+! Total
+|-
+| align="left" | [[FIFA Confederations Cup]]
+|0||1||1||2
+|-
+| align="left" | [[AFC Asian Cup]]
+|1||1||0||2
+|-
+| align="left" | [[OFC Nations Cup]]
+|4||2||0||6
+|-
+| align="left" | [[AFC–OFC Challenge Cup]]
+|0||1||0||1
+|-
+! Total
+!5!!5!!1!!11
+|}
+
+== See also ==
+* [[Australia women's national soccer team]]
+* [[Soccer in Australia]]
+* [[List of Australia men's national soccer team captains]]
+* [[Australia 31–0 American Samoa]]
+* [[Trans-Tasman Cup]]
+* [[Australia men's national futsal team]]
+* [[Australia women's national futsal team]]
+
+== Notes ==
+{{notelist}}
+
+== References ==
+{{Reflist}}
+
+== External links ==
+{{Commons category}}
+* {{Official website}}
+* [https://www.the-afc.com/en/asean/australia.html Australia] at [[Asian Football Confederation|AFC]]
+* [https://www.fifa.com/about-fifa/associations/AUS Australia] at [[FIFA]]
+
+{{Australia national soccer team}}
+{{Navboxes
+| title = Links to related articles
+| bg = gold
+| fg = darkgreen
+| bordercolor = darkgreen
+| list1  =
+{{AFC Asian Cup winners}}
+{{Navboxes
+| title = Australia squads
+| bg = gold
+| fg = darkgreen
+| bordercolor = darkgreen
+| list1 = 
+{{Navboxes
+| title = Australia squads&nbsp;– FIFA World Cup
+| bg = gold
+| fg = darkgreen
+| bordercolor = darkgreen
+| list1 = 
+{{Australia squad 1974 FIFA World Cup}}
+{{Australia squad 2006 FIFA World Cup}}
+{{Australia squad 2010 FIFA World Cup}}
+{{Australia squad 2014 FIFA World Cup}}
+{{Australia squad 2018 FIFA World Cup}}
+{{Australia squad 2022 FIFA World Cup}}
+{{Australia squad 2026 FIFA World Cup}}
+}}
+{{Navboxes
+| title = Australia squads&nbsp;– FIFA Confederations Cup
+| bg = gold
+| fg = darkgreen
+| bordercolor = darkgreen
+| list1  =
+{{Australia squad 1997 FIFA Confederations Cup}}
+{{Australia squad 2001 FIFA Confederations Cup}}
+{{Australia squad 2005 FIFA Confederations Cup}}
+{{Australia squad 2017 FIFA Confederations Cup}}
+}}
+{{Navboxes
+| title = Australia squads&nbsp;– AFC Asian Cup
+| bg = gold
+| fg = darkgreen
+| bordercolor = darkgreen
+| list1  =
+{{Australia squad 2007 AFC Asian Cup}}
+{{Australia squad 2011 AFC Asian Cup}}
+{{Australia squad 2015 AFC Asian Cup}}
+{{Australia squad 2019 AFC Asian Cup}}
+{{Australia squad 2023 AFC Asian Cup}}
+}}
+{{Navboxes
+| title = Australia squads&nbsp;– OFC Nations Cup
+| bg = gold
+| fg = darkgreen
+| bordercolor = darkgreen
+| list1  =
+{{Australia squad 1980 OFC Nations Cup}}
+{{Australia squad 1996 OFC Nations Cup}}
+{{Australia squad 1998 OFC Nations Cup}}
+{{Australia squad 2000 OFC Nations Cup}}
+{{Australia squad 2002 OFC Nations Cup}}
+{{Australia squad 2004 OFC Nations Cup}}
+}}
+}}
+{{Soccer in Australia}}
+{{2025–26 in Australian soccer}}
+{{AFC teams}}
+{{OFC teams}}
+{{National sports teams of Australia}}
+}}
+{{Portal bar|Soccer|Australia}}
+
+{{DEFAULTSORT:Australia National soccer Team}}
+[[Category:Australia men's national soccer team| ]]
+[[Category:Australia men's national soccer teams| ]]
+[[Category:Oceanian national association football teams]]
+[[Category:Asian national association football teams]]
+[[Category:AFC Asian Cup–winning countries]]
+[[Category:1922 establishments in Australia]]
+[[Category:National sports teams established in 1922]]

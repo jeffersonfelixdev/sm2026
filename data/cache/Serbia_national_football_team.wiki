@@ -1,0 +1,1225 @@
+{{Short description|Men's association football team}}
+{{About|the men's team|the women's team|Serbia women's national football team}}
+{{Use dmy dates|date=November 2022}}
+{{Use British English|date=September 2025}}
+{{Infobox national football team
+| Name = Serbia
+| Badge = Flag of Serbia.svg
+| FIFA Trigramme = [[Serbia|SRB]]
+| Nickname = ''Orlovi'' (The [[Serbian eagle|Eagles]])<br>''Plavi'' (The [[Blue]]s){{efn-ua|Historically, the nickname ''Plavi'' (The Blues) was used for the Yugoslav national team. In 2025, the colour blue was returned to the national team's kit after nineteen years which resulted in a resurgence of the nickname.<ref name="Rep ref">{{cite news|agency=Republika |date=11 March 2025 |title=SRBIJA MENJA BOJU DRESOVA: "Orlovi" će ponovo biti "plavi", a evo i kada |url=https://www.republika.rs/sport/fudbal/637164/fudbaleri-srbija-dresovi-boja-plavi-crveni-beli |access-date=12 October 2025 |language=sr-Lat}}</ref>}}
+| Association = [[Football Association of Serbia|Fudbalski savez Srbije]] (FSS)
+| Confederation = [[UEFA]] (Europe)
+| Coach = [[Veljko Paunović]]
+| Captain = [[Aleksandar Mitrović]]
+| Most caps = [[Dušan Tadić]] (111)
+| Top scorer=Aleksandar Mitrović ([[List of international goals scored by Aleksandar Mitrović|64]])
+| Home Stadium = [[List of football stadiums in Serbia|Various]]
+| website = {{URL|https://fss.rs/}} 
+| FIFA Rank = {{FIFA World Rankings|SRB}}
+| FIFA max = 6
+| FIFA max date = December 1998
+| FIFA min = 101
+| FIFA min date = December 1994
+| Elo Rank = {{World Football Elo Ratings|Serbia}}
+| Elo max = 4
+| Elo max date = June 1998
+| Elo min = 47
+| Elo min date = October 2012
+| pattern_la1 = _srb25h
+| pattern_b1 = _srb25h
+| pattern_ra1 = _srb25h
+| pattern_sh1 = _srb25h
+| pattern_so1 = 
+| leftarm1 = 0000FF
+| body1 = 0000FF
+| rightarm1 = 0000FF
+| shorts1 = 0000FF
+| socks1 = 0000FF
+| pattern_la2 = _blueborder
+| pattern_b2 = _srb25a
+| pattern_ra2 = _blueborder
+| pattern_sh2 = _srb25a
+| pattern_so2 = _bluetopl
+| leftarm2    = FFFFFF
+| body2       = FFFFFF
+| rightarm2   = FFFFFF
+| shorts2     = FFFFFF
+| socks2      = FFFFFF
+| First game = {{nowrap|''as '''Yugoslavia'''''<br>{{fb|TCH}} 7–0 '''{{fb-rt|Kingdom of Yugoslavia|name=Kingdom of SCS}}'''<br>([[Antwerp]], [[Belgium]]; 28 August 1920)<hr>''as '''FR Yugoslavia/Serbia and Montenegro'''''<br>{{fb|BRA}} 2–0 '''{{fb-rt|FRY}}'''<br>([[Porto Alegre]], [[Brazil]]; 23 December 1994)<hr>''as '''Serbia'''''<br>''Unofficial''<br>{{flagicon image|Flag of the Serbian Partisans.svg}} '''FS Serbia''' 2–1 [[Montenegro national football team|FS Montenegro]] {{flagicon image|Flag of the Serbian Partisans.svg}}<br>([[Belgrade]], [[Democratic Federal Yugoslavia|Yugoslavia]]; 3 September 1945)<br>''Official''<br>{{fb|CZE}} 1–3 {{fb-rt|SER|2004}}<br>([[Uherské Hradiště]], [[Czech Republic]]; 16 August 2006)}}
+| Largest win = ''as '''Yugoslavia'''''<br>'''{{fb|YUG}}''' 10–0 {{fb-rt|Venezuela|1930}}<br>([[Curitiba]], [[Brazil]]; 14 June 1972)<hr>''as '''Serbia'''''<br>{{fb|AZE}} 1–6 {{fb-rt|SER|2004}}<br>([[Baku]], [[Azerbaijan]]; 17 October 2007)<br>{{fb|SER|2004}} 6–1 {{fb-rt|BUL}}<br>([[Belgrade]], [[Serbia]]; 19 November 2008)<br>{{fb|SER|2004}} 5–0 {{fb-rt|ROM}}<br>(Belgrade, Serbia; 10 October 2009)<br>{{fb|SER}} 6–1 {{fb-rt|WAL}}<br>([[Novi Sad]], Serbia; 11 September 2012)<br>{{fb|SER}} 5–0 {{fb-rt|RUS}}<br>(Belgrade, Serbia; 18 November 2020)
+| Largest loss = <hr>''as '''Yugoslavia'''''<br> {{fb|TCH}} 7–0 '''{{fb-rt|Kingdom of Yugoslavia|name=Kingdom of SCS}}'''<br>(Antwerp, Belgium; 28 August 1920)<br>{{fb|Uruguay}} 7–0 '''{{fb-rt|Kingdom of Yugoslavia|name=Kingdom of SCS}}'''<br>([[Paris]], [[French Third Republic|France]]; 26 May 1924)<br>{{fb|TCH}} 7–0 '''{{fb-rt|Kingdom of Yugoslavia|name=Kingdom of SCS}}'''<br>([[Prague]], [[First Czechoslovak Republic|Czechoslovakia]]; 28 October 1925)<hr>as '''''Serbia'''''<br> {{fb|Ukraine}} 5–0 {{fb-rt|SER}}<br>([[Lviv]], [[Ukraine]]; 7 June 2019)<br> {{fb|SER}} [[2026 FIFA World Cup qualification – UEFA_Group K|0–5]] {{fb-rt|England}}<br>(Belgrade, Serbia; 9 September 2025)
+| World cup apps = 13
+| World cup first = 1930
+| World cup best = As Yugoslavia: Fourth place ([[1930 FIFA World Cup|1930]], [[1962 FIFA World Cup|1962]])<br>As FR Yugoslavia/Serbia and Montenegro: Round of 16 ([[1998 FIFA World Cup|1998]])<br>As Serbia: Group stage ([[2010 FIFA World Cup|2010]], [[2018 FIFA World Cup|2018]], [[2022 FIFA World Cup|2022]]) 
+| Regional cup apps = 6
+| Regional cup first = [[1960 European Nations' Cup|1960]]
+| Regional cup best =  As Yugoslavia: Runners-up ([[1960 European Nations' Cup|1960]], [[UEFA Euro 1968|1968]]) <br /> as FR Yugoslavia/Serbia and Montenegro: Quarter-finals ([[UEFA Euro 2000|2000]]) <br /> As Serbia: Group stage ([[UEFA Euro 2024|2024]])
+| Regional name = [[UEFA European Championship|European Championship]]
+| medaltemplates =
+{{MedalCompetition|[[UEFA European Championship]]{{efn-ua|name="allyugoslavia"|All honours won as Yugoslavia}}}}
+{{MedalSilver|[[UEFA Euro 1960|1960 France]]|[[UEFA Euro 1968 squads#Yugoslavia|Team]]}}
+{{MedalSilver|[[UEFA Euro 1968|1968 Italy]]|[[UEFA Euro 1968 squads#Yugoslavia|Team]]}}
+{{MedalCompetition|[[Football at the Summer Olympics|Olympic Games]]{{efn-ua|name="allyugoslavia"|All honours won as Yugoslavia}}}}
+{{MedalGold|[[1960 Summer Olympics|1960 Rome]]|[[Football at the 1960 Summer Olympics|Team]]}}
+{{MedalSilver|[[1948 Summer Olympics|1948 London]]|[[Football at the 1948 Summer Olympics|Team]]}}
+{{MedalSilver|[[1952 Summer Olympics|1952 Helsinki]]|[[Football at the 1952 Summer Olympics|Team]]}}
+{{MedalSilver|[[1956 Summer Olympics|1956 Melbourne]]|[[Association football at the 1956 Summer Olympics|Team]]}}
+{{MedalBronze|[[1984 Summer Olympics|1984 Los Angeles]]|[[Football at the 1984 Summer Olympics|Team]]}}
+{{Medal|Competition|[[Balkan Cup]]{{efn-ua|name="allyugoslavia"|All honours won as Yugoslavia}}}}
+{{MedalGold|[[1934–35 Balkan Cup|1934–35 Greece]]|[[1934–35 Balkan Cup|Team]]}}
+{{MedalGold|[[1935 Balkan Cup|1935 Bulgaria]]|[[1935 Balkan Cup|Team]]}}
+{{MedalCompetition|[[Mediterranean Games]]{{efn-ua|name="allyugoslavia"|All honours won as Yugoslavia}}}}
+{{MedalGold|[[1971 Mediterranean Games|1971 Izmir]]|[[Football at the 1971 Mediterranean Games|Team]]}}
+{{MedalGold|[[1979 Mediterranean Games|1979 Split]]|[[Football at the 1979 Mediterranean Games|Team]]}}
+}}
+The '''Serbia men's national football team''' ({{lang-sr-Cyrl|Фудбалска репрезентација Србије|translit=Fudbalska reprezentacija Srbije}}) represents [[Serbia]] in men's international [[Association football|football]] competition. It is controlled by the [[Football Association of Serbia]], the governing body for [[football in Serbia]].
+
+After the [[Breakup of Yugoslavia|breakup of SFR Yugoslavia]] and its [[Yugoslavia national football team|football team]] in 1992 [[Republic of Serbia (1992–2006)|Serbia]] was represented (alongside [[Republic of Montenegro (1992–2006)|Montenegro]]) within the new [[FR Yugoslavia national football team]]. Despite [[UEFA Euro 1992 qualifying|qualifying]] for [[UEFA Euro 1992|Euro 1992]] the team was [[United Nations Security Council Resolution 757|banned]] from participating in the tournament due to [[Sanctions against Yugoslavia|international sanctions]], with the ruling also enforced for [[1994 FIFA World Cup|1994 World Cup]] and [[UEFA Euro 1996|Euro 1996]] qualifiers. The national team played its first friendly in December 1994, and with the easing of sanctions the generation of the 1990s eventually participated at the [[1998 FIFA World Cup|1998 World Cup]], reaching the round of 16, and the quarter-finals at [[UEFA Euro 2000|Euro 2000]]. The team played in the [[2006 FIFA World Cup|2006]], [[2010 FIFA World Cup|2010]], [[2018 FIFA World Cup|2018]] and [[2022 FIFA World Cup]]s, but failed to progress past the group stage on each occasion.<ref>{{Cite web|last=Flanagan|first=Chris|date=28 June 2021|title=Yugoslavia at Euro 92: how the Balkan Wars meant the end of an era for the best team never to win the Euros|url=https://www.fourfourtwo.com/features/yugoslavia-at-euro-92-how-the-balkan-wars-meant-the-end-of-an-era-for-the-best-team-never-to-win-the-euros|access-date=14 October 2021|website=FourFourTwo|archive-date=28 October 2021|archive-url=https://web.archive.org/web/20211028172918/https://www.fourfourtwo.com/features/yugoslavia-at-euro-92-how-the-balkan-wars-meant-the-end-of-an-era-for-the-best-team-never-to-win-the-euros|url-status=live}}</ref><ref>{{Cite web|title=Dve decenije od fudbalskih sankcija|url=https://b92.net/sport/fudbal/vesti.php?yyyy=2012&mm=06&dd=04&nav_id=615390|access-date=14 October 2021|website=Bulevar B92|archive-date=28 October 2021|archive-url=https://web.archive.org/web/20211028205643/https://www.b92.net/sport/fudbal/vesti.php?yyyy=2012&mm=06&dd=04&nav_id=615390|url-status=live}}</ref><ref>{{Cite web|title=Kad Je Fudbal Crveneo Od Stida Pre 29 godina Jugoslavija je izbačena sa Evropskog prvenstva, a Jugović sada kaže: Kao u filmu! Ne-ve-ro-vat-no!|url=https://sport.blic.rs/a-m-p-article?uuid=ba543c22-e391-464f-9bf1-c6669488685c&type=article&id=PULS_CMS-Article-ba543c22-e391-464f-9bf1-c6669488685c&gem_id=ctJAUgeiMwtuL3bQgHhDUKdDjw0sI0OlV6i.0PnppnL..7&tpv=SPECIJAL_SPORT_MOBILE_EURO_2020&tdv=SPORT_BLIC_RS/sportblic/euro_2020/ART|access-date=14 October 2021|website=sport.blic.rs|language=sr}}</ref><ref>{{Cite web|date=16 June 1994|title=FIFA Svetsko prvenstvo 1994. u Americi|url=https://www.reprezentacija.rs/fifa-svetsko-prvenstvo-1994-u-americi/|access-date=14 October 2021|website=reprezentacija.rs|language=sr|archive-date=29 October 2021|archive-url=https://web.archive.org/web/20211029183945/https://www.reprezentacija.rs/fifa-svetsko-prvenstvo-1994-u-americi/|url-status=live}}</ref><ref>{{Cite web|date=9 June 1998|title=FIFA Svetsko prvenstvo 1998. u Francuskoj|url=https://www.reprezentacija.rs/fifa-svetsko-prvenstvo-1998-u-francuskoj/|access-date=14 October 2021|website=reprezentacija.rs|language=en-US|archive-date=29 October 2021|archive-url=https://web.archive.org/web/20211029182437/https://www.reprezentacija.rs/fifa-svetsko-prvenstvo-1998-u-francuskoj/|url-status=live}}</ref><ref>{{Cite web|date=8 June 2006|title=FIFA Svetsko prvenstvo 2006. u Nemačkoj|url=https://www.reprezentacija.rs/fifa-svetsko-prvenstvo-2006-u-nemackoj/|access-date=14 October 2021|website=reprezentacija.rs|language=sr|archive-date=29 October 2021|archive-url=https://web.archive.org/web/20211029183948/https://www.reprezentacija.rs/fifa-svetsko-prvenstvo-2006-u-nemackoj/|url-status=live}}</ref><ref>{{Cite web|date=6 December 2009|title=FIFA Svetsko prvenstvo 2010. u Južnoj Africi|url=https://www.reprezentacija.rs/fifa-svetsko-prvenstvo-2010-u-juznoj-africi/|access-date=14 October 2021|website=reprezentacija.rs|language=sr|archive-date=29 October 2021|archive-url=https://web.archive.org/web/20211029184002/https://www.reprezentacija.rs/fifa-svetsko-prvenstvo-2010-u-juznoj-africi/|url-status=live}}</ref><ref>{{Cite news|last=Smyth|first=Rob|date=14 November 2021|title=Serbia stun Portugal and Spain ease past Sweden to qualify for World Cup finals – as it happened|website=The Guardian|url=https://www.theguardian.com/football/live/2021/nov/14/spain-v-sweden-luxembourg-v-rep-of-ireland-and-more-world-cup-qualifiers-live|access-date=15 November 2021|issn=0261-3077|archive-date=15 November 2021|archive-url=https://web.archive.org/web/20211115003426/https://www.theguardian.com/football/live/2021/nov/14/spain-v-sweden-luxembourg-v-rep-of-ireland-and-more-world-cup-qualifiers-live|url-status=live}}</ref>
+
+Between February 2003 and June 2006, Serbia participated as the [[Serbia and Montenegro national football team]] due to the countries' name change. Following a 2006 [[2006 Montenegrin independence referendum|referendum]] Montenegro declared its independence, leading to separate football federations which resulted in the team's final renaming and establishment as the Serbia national football team.<ref>{{Cite web|date=27 March 1990|title=Utakmice reprezentacije 1990-1999|url=https://www.reprezentacija.rs/utakmice-reprezentacije-1990-1999/|access-date=14 October 2021|website=reprezentacija.rs|language=sr|archive-date=28 October 2021|archive-url=https://web.archive.org/web/20211028170317/https://www.reprezentacija.rs/utakmice-reprezentacije-1990-1999/|url-status=live}}</ref><ref>{{Cite web|date=22 February 2000|title=Utakmice reprezentacije 2000-2009|url=https://www.reprezentacija.rs/utakmice-reprezentacije-2000-2009/|access-date=14 October 2021|website=reprezentacija.rs|language=sr|archive-date=14 October 2021|archive-url=https://web.archive.org/web/20211014162455/https://www.reprezentacija.rs/utakmice-reprezentacije-2000-2009/|url-status=live}}</ref><ref>{{Cite web|date=3 March 2010|title=Utakmice reprezentacije 2010-2019|url=https://www.reprezentacija.rs/utakmice-reprezentacije-2010-2019/|access-date=14 October 2021|website=reprezentacija.rs|language=sr|archive-date=29 October 2021|archive-url=https://web.archive.org/web/20211029183944/https://www.reprezentacija.rs/utakmice-reprezentacije-2010-2019/|url-status=live}}</ref><ref>{{Cite web|last=Bilgic|first=Onur|date=12 October 2017|title=How history defeated a great era of Yugoslav national team talent|url=https://thesefootballtimes.co/2017/10/12/how-history-defeated-a-great-era-of-yugoslav-national-team-talent/|access-date=14 October 2021|website=These Football Times|archive-date=27 October 2021|archive-url=https://web.archive.org/web/20211027183533/https://thesefootballtimes.co/2017/10/12/how-history-defeated-a-great-era-of-yugoslav-national-team-talent/|url-status=live}}</ref><ref>{{Cite web|title=O nama|url=https://fscg.me/savez/o-nama/|access-date=14 October 2021|website=FSCG.me|language=sr|archive-date=18 October 2021|archive-url=https://web.archive.org/web/20211018145357/https://fscg.me/savez/o-nama/|url-status=live}}</ref><ref>{{Cite web|date=5 May 2010|title=FIFA World Cup Group D focus: Serbian History|url=https://www.socceroos.com.au/news/fifa-world-cup-group-d-focus-serbian-history|access-date=14 October 2021|website=Socceroos|archive-date=29 October 2021|archive-url=https://web.archive.org/web/20211029174512/https://www.socceroos.com.au/news/fifa-world-cup-group-d-focus-serbian-history|url-status=live}}</ref> Serbia is considered by [[FIFA]] and [[UEFA]] to be the official successor team of FR Yugoslavia/Serbia and Montenegro national football teams, as well as the Kingdom of Yugoslavia/SFR Yugoslavia team.<ref>{{Cite web|date=28 June 2011 |title=Statistical Kit: Preliminary Draw for the 2014 FIFA World Cup Brazil |url=https://digitalhub.fifa.com/m/52463a2cc01d135/original/c91tgtfetbsmneex1vbc-pdf.pdf |access-date=21 December 2020 |website=[[FIFA]] |page=58 |quote=Serbia was called Yugoslavia before February 2003 then Serbia and Montenegro until 2006. |archive-url=https://web.archive.org/web/20210719092004/https://digitalhub.fifa.com/m/52463a2cc01d135/original/c91tgtfetbsmneex1vbc-pdf.pdf |archive-date=19 July 2021 |url-status=live }}</ref><ref>{{Cite web|date=29 August 2020|title=Krštenje naše fudbalske reprezentacije|url=https://www.reprezentacija.rs/krstenje-nase-fudbalske-reprezentacije/|access-date=14 October 2021|website=reprezentacija.rs|language=sr|archive-date=29 October 2021|archive-url=https://web.archive.org/web/20211029183958/https://www.reprezentacija.rs/krstenje-nase-fudbalske-reprezentacije/|url-status=live | quote = Jugoslavenski nogometni savez (JNS), čiji je priznati pravni naslednik, čudno ali istinito, današnji Fudbalski savez Srbije}}</ref><ref>{{cite web | url = https://www.uefa.com/nationalassociations/srb/ | publisher = [[UEFA]] | title = Football Association of Serbia | quote = The Football Association of Serbia (Fudbalski savez Srbije or FSS) was originally founded in 1919 as the Yugoslav Football Association [...] Socialist Federal Republic of Yugoslavia, until it finally fragmented in 1992 [...] In 1992 the new state of Serbia and Montenegro was named the Federal Republic of Yugoslavia [...] In February 2003 the Federal Republic of Yugoslavia changed its name once again to Serbia and Montenegro. Finally, in June 2006, Serbia and Montenegro became separate nations and the Republic of Serbia was declared. Serbia's first international as a single entity came [...] }}</ref><ref>{{Cite web|title=JUGO-FUDBAL PRE JUGOSLAVIJE: Pre tačno 100 godina formirana fudbalska organizacija nekadašnje zajedničke države|url=https://www.novosti.rs/vesti/sport.294.html:789023-JUGO-FUDBAL-PRE-JUGOSLAVIJE-Pre-tacno-100-godina-formirana-fudbalska-organizacija-nekadasnje-zajednicke-drzave|access-date=23 October 2021|website=NOVOSTI|language=sr|archive-date=23 October 2021|archive-url=https://web.archive.org/web/20211023013319/https://www.novosti.rs/vesti/sport.294.html:789023-JUGO-FUDBAL-PRE-JUGOSLAVIJE-Pre-tacno-100-godina-formirana-fudbalska-organizacija-nekadasnje-zajednicke-drzave|url-status=live}}</ref>
+
+==History==
+{{Main|History of the Serbia national football team}}
+
+===Serbia within Yugoslavia (1920–1992)===
+{{See also|Yugoslavia national football team|}}
+
+The Football Federation of what was then the [[Kingdom of Yugoslavia|Kingdom of Serbs, Croats and Slovenes]] (later Yugoslavia) was founded in [[Zagreb]] in 1919 under the name ''Jugoslavenski nogometni savez'' (''Yugoslavian Football Association''). [[Jovan Ružić]] was the first [[Serbs|Serb]] to represent the national team in its international debut match, a 7–0 drubbing by [[Czechoslovakia national football team|Czechoslovakia]] at the [[Football at the 1920 Summer Olympics|1920 Olympic Games]] in [[Antwerp]], Belgium.<ref>{{cite web|title=Jugoslavija 0-6 Cehoslovacka|url=http://www.reprezentacija.rs/001-jugoslavija-cehoslovacka-0-7/|access-date=5 December 2017|publisher=reprezentacija.rs|date=27 August 1920|language=sr|archive-date=4 December 2017|archive-url=https://web.archive.org/web/20171204055505/http://www.reprezentacija.rs/001-jugoslavija-cehoslovacka-0-7/|url-status=live}}</ref>
+
+In 1921, the [[Belgrade Football Subassociation]] organized a [[Exhibition game|friendly match]] between the [[France national football team]] and a Belgrade XI, dubbed the "''Serbian representatives''". The team featured footballers from [[SK Jugoslavija]] and [[OFK Beograd|BSK]], two of the Serbian clubs of the interwar period. The French delegation was on a four-game tour of Yugoslavia with the last exhibition game being played in [[Belgrade]]'s [[Red Star Stadium|SK Jugoslavija Stadium]] on 3 July. Prince Regent [[Alexander I of Yugoslavia|Aleksandar I]] and [[FIFA]] President [[Jules Rimet]] were in attendance as the visitors triumphed 3–0.<ref>{{Cite web|title=Sto Godina od prve utakmice srpske reprezentacije|url=https://www.politika.rs/sr/clanak/482637/sport/sto-godina-od-prve-utakmice-srpske-reprezentacije|access-date=25 October 2021|website=Politika.rs|language=sr}}</ref>
+
+[[File:Yugoslavia nationalteam 1930.jpg|thumb|left|Yugoslavia at the [[1930 FIFA World Cup]], featured an all Serbian team following a boycott by Croat representatives.]]
+
+In the lead-up to the [[1930 FIFA World Cup|1930 World Cup]], a dispute regarding the relocation of the FAs headquarters from Zagreb to the capital Belgrade erupted, culminating in a boycott by the Zagreb Subassociation which disallowed its members to participate in the upcoming tournament. The ''de facto'' Serbian team led by coach [[Boško Simonović]], composed largely of players from Belgrade's [[OFK Beograd|BSK]], [[SK Jugoslavija]] and [[FK BASK|BASK]], reached the semi-final, losing to hosts and eventual winners [[Uruguay national football team|Uruguay]] 6–1.<ref>{{Cite web|title=Монтевидео 1930. ... Све Остало Јe Исторја ... |url=https://www.zurnalist.rs/studentski-radovi/item/889-montevideo-1930-sve-ostalo-je-istorija.html|access-date=30 March 2021|website=Журналист |language=sr|archive-date=23 March 2015|archive-url=https://web.archive.org/web/20150323060512/http://zurnalist.rs/studentski-radovi/item/889-montevideo-1930-sve-ostalo-je-istorija.html|url-status=dead}}</ref><ref>{{Cite web|title=Montevideo 90 Godina: Hrvatski bojkot Jugoslavije (1)|url=https://www.novosti.rs/sport/fudbal/901719/montevideo-90-godina-hrvatski-bojkot-jugoslavije-1|access-date=30 March 2021|website=Novosti|language=sr}}</ref><ref>{{Cite web|title=Prvo Svjetsko Prvenstvo 1930: Brutalna pljačka Jugoslavije i 'Montevideo, Bog te video'|url=https://www.slobodna-bosna.ba/vijest/80639/prvo_svjetsko_prvenstvo_1930_brutalna_pljachka_jugoslavije_i_montevideo_bog_te_video.html|access-date=30 March 2021|website=slobodna-bosna.ba|language=bs}}</ref> The royal interbellum era featured footballers such as [[Blagoje Marjanović]], [[Aleksandar Tirnanić]], [[Milorad Arsenijević]], [[Đorđe Vujadinović]], [[Branislav Sekulić]] and [[Milutin Ivković]]. Due to the dismemberment of Yugoslavia during [[World War II]] the football federation and national team ceased activities but reformed following the end of hostilities.
+
+In 1945 [[Svetislav Glišović]] led the first unofficial national team representing the [[Socialist Republic of Serbia|Federal State of Serbia]] in a [[1945 Yugoslav Football Tournament|tournament]] held to mark the end of World War II.<ref>{{Cite web|date=9 March 2020|title=Glišović Svetislav|url=https://www.reprezentacija.rs/glisovic-svetislav/|access-date=8 May 2021|website=reprezentacija.rs|language=sr}}</ref> The Serbian team encompassing the newly established [[Red Star Belgrade|Red Star]] squad won its first game by beating [[Montenegro national football team|FS Montenegro]] 2–1, [[Croatia national football team|FS Croatia]] 3–1 in the semi-final, then proceeding to win the tournament against the [[FK Partizan|Yugoslav People's Army team]] 1–0 in Belgrade.<ref>{{Cite web|title=Yugoslavia: List of Final Tables|url=https://www.rsssf.org/tablesj/joeghist.html|access-date=28 March 2021|website=[[RSSSF]]}}</ref><ref>{{Cite web|date=5 June 2018|title=1945 Prva Liga|url=http://www.exyufudbal.in.rs/statistika/prva-liga/17-prva-liga-sfrj/5-1945#detalji-utakmice-srbija-crna-gora|access-date=28 March 2021|language=sr|archive-url=https://web.archive.org/web/20180605211935/http://www.exyufudbal.in.rs/statistika/prva-liga/17-prva-liga-sfrj/5-1945#detalji-utakmice-srbija-crna-gora|url-status=dead|archive-date=5 June 2018}}</ref>
+
+The [[Socialist Federal Republic of Yugoslavia|reconstituted Yugoslavia]] reached the [[UEFA European Championship]] finals in [[1960 European Nations' Cup|1960]] and [[UEFA Euro 1968|1968]], and finished fourth place at the [[1962 FIFA World Cup]]. During its existence Serbian footballers would continually play a major role in the Yugoslavia national team throughout the socialist era, with the likes of [[Rajko Mitić]], [[Branko Stanković]], [[Vladimir Beara]], [[Vujadin Boškov]], [[Todor Veselinović]], [[Miloš Milutinović]], [[Bora Kostić|Borivoje Kostić]], [[Milan Galić]], [[Vladimir Durković]], [[Velibor Vasović]], [[Dragan Džajić]], [[Jovan Aćimović]], [[Dušan Bajević]], [[Vladimir Petrović]] and others until the states [[Yugoslav Wars|disintegrated]] in the 1990s. The national team of SFR Yugoslavia played its last game on 25 March 1992, losing 2–0 to the [[Netherlands national football team|Netherlands]].<ref>{{Cite web|title=Holandija 2:0 Jugoslavija|url=http://www.reprezentacija.rs/511-holandija-jugoslavija-2-0/|access-date=28 March 2021|website=reprezentacija.rs|date=24 March 1992|language=sr}}</ref>
+
+===FR Yugoslavia/Serbia & Montenegro era (1992–2006)===
+{{See also|Serbia and Montenegro national football team}}
+
+While the [[Federal Republic of Yugoslavia]], consisting of Serbia and Montenegro, was formed on 27 April 1992,<ref>{{cite book|first=Brian|last=Hunter|editor-first=Brian |editor-last=Hunter |title=The Statesman's Year-Book |date=1996 |publisher=Palgrave Macmillan |isbn=978-1-34939-717-4 |page=1604 |chapter-url=https://link.springer.com/chapter/10.1057/9780230271258_206 |chapter=Yugoslavia |doi=10.1057/9780230271258 |doi-broken-date=1 July 2025 |url=https://link.springer.com/book/10.1057/9780230271258 |access-date=11 December 2021 }}</ref> its teams were banned from all international sporting events, including the national football team as a result of [[sanctions against Yugoslavia|U.N. sanctions]] stemming from the conflict in Yugoslavia.<ref name="UPI 1">{{cite news|first=Morley|last=Myers|title=Sports ban hits Yugoslavia |url=https://www.upi.com/Archives/1992/06/01/Sports-ban-hits-Yugoslavia/9026707371200/ |work=United Press International |date=1 June 1992 |access-date=1 April 2021}}</ref> Consequently, the national team did not play its first game as a new country before 23 December 1994, a friendly match played in [[Porto Alegre]] and in which [[Brazil national football team|Brazil]] won 2–0.<ref name="FIFA2007">{{cite web |title=Serbia launch exciting new era |url=https://www.fifa.com/womensyoutholympic/news/serbia-launch-exciting-new-era-545111 |website=FIFA|date=4 July 2007}}{{dead link|date=October 2021|bot=medic}}{{cbignore|bot=medic}}</ref> This was the first ever team composed of [[Serbs|Serbian]] and [[Montenegrins|Montenegrin]] players exclusively, while [[Slobodan Santrač]], a former Yugoslavia national team player, was named the team's first ever manager. The next game was played three days later, this time in [[Buenos Aires]], resulting in a 1–0 loss to [[Argentina national football team|Argentina]].<ref>{{cite news |title=Argentina v Yugoslavia, 27 December 1994 |url=https://www.11v11.com/matches/argentina-v-yugoslavia-27-december-1994-245440/ |website=11v11.com |access-date=1 April 2021}}</ref>
+
+Due to international sanctions, the team could not participate in [[1994 FIFA World Cup qualification (UEFA)|1994 World Cup qualifying]] nor the [[UEFA Euro 1996 qualifying|Euro 1996 qualifying]] process.<ref name="UPI 1" /><ref>{{Cite news|first=Anne|last=Swardson|title=Yugoslavia Leaving History on Sideline |url=https://www.washingtonpost.com/archive/sports/1998/06/12/yugoslavia-leaving-history-on-sideline/41ed7944-3daa-497d-a59e-490dde7b082a/ |newspaper=The Washington Post |date=12 June 1998 |access-date=1 April 2021}}</ref>
+
+====1998 World Cup====
+As [[Serbia and Montenegro national football team|FR Yugoslavia]] joined FIFA and UEFA in 1994, the team was available to participate in the [[1998 FIFA World Cup qualification (UEFA)|1998 World Cup qualifiers]]. Slobodan Santrač was appointed manager for the team.<ref>{{cite news|title=Slobodan Santrac - Yugoslavia manager |url=https://news.bbc.co.uk/2/hi/world_cup_98/teams/yugoslavia/players/86038.stm |website=BBC News |date=3 May 1998}}</ref> In the qualifiers, Yugoslavia was drawn in [[1998 FIFA World Cup qualification – UEFA Group 6|Group 6]] with [[UEFA Euro 1996|Euro 1996]] [[UEFA Euro 1996 Final|runners-up]] [[Czech Republic national football team|Czech Republic]], [[Slovakia national football team|Slovakia]], [[Spain national football team|Spain]], [[Faroe Islands national football team|Faroe Islands]] and [[Malta national football team|Malta]]. With 23 points, Yugoslavia ended up in second place behind Spain. Yugoslavia qualified for the [[1998 FIFA World Cup qualification – UEFA second round|play-off]] in which they were drawn to play against [[Hungary national football team|Hungary]]. Winning 12–1 on aggregate, Yugoslavia qualified for the [[1998 FIFA World Cup|World Cup]].<ref>{{cite news|title=Soccer: Roundup {{!}} 1998 World Cup Qualifying {{!}} Belgium Earns Berth And Eliminates Ireland|url=https://www.nytimes.com/1997/11/16/sports/soccer-roundup-1998-world-cup-qualifying-belgium-earns-berth-eliminates-ireland.html|website=The New York Times |date=16 November 1997|access-date=3 April 2021}}</ref>
+
+The draw put the team in [[1998 FIFA World Cup Group F|Group F]] alongside [[Germany national football team|Germany]], the [[United States men's national soccer team|United States]], and [[Iran national football team|Iran]]. Yugoslavia won its first game 1–0 against Iran thanks to a goal from defender [[Siniša Mihajlović]].<ref>{{Cite news|first=Roger|last=Cohen|title=World Cup '98: Yugoslav Skill Overcomes 'Yugoslav Temperament'|url=https://www.nytimes.com/1998/06/15/sports/world-cup-98-yugoslav-skill-overcomes-yugoslav-temperament.html|website=The New York Times|date=15 June 1998|access-date=2 April 2021}}</ref> The next game was a draw for Yugoslavia; after leading Germany 2–0, a free kick from [[Michael Tarnat]] deflected off Mihajlović and into the goal, then [[Oliver Bierhoff]] equalised it at 2–2 at the 80th minute.<ref>{{cite news|first=Christopher|last=Clarey|title=World Cup '98; Errant Bounces and Serendipity Give Germany a Draw |url=https://www.nytimes.com/1998/06/22/sports/world-cup-98-errant-bounces-and-serendipity-give-germany-a-draw.html|website=The New York Times |date=22 June 1998 |access-date=2 April 2021}}</ref> Yugoslavia responded in the next game against the United States and won 1–0 due to a goal in the fourth minute by [[Slobodan Komljenović]].<ref>{{Cite news|first=Bonnie|last=DeSimone|title=Yugoslavia 1-0 United States|url=https://www.chicagotribune.com/news/ct-xpm-1998-06-26-9806260067-story.html |website=Chicago Tribune |date=26 June 1998 |access-date=2 April 2021}}</ref> Yugoslavia finished second in the group behind Germany on goal difference.
+
+Due to their second position, Yugoslavia saw itself face the [[Netherlands national football team|Netherlands]] in the [[1998 FIFA World Cup knockout stage|Round of 16]]. Yugoslavia entered in the match with a sole attacker, but its defensive tactics proved unsuccessful as [[Dennis Bergkamp]] put the Netherlands in front in the 38th minute. Following the start of the second half, Yugoslavia pressured the Dutch, who conceded a header from Komljenović. The turning point of this match was a penalty awarded to Yugoslavia after [[Vladimir Jugović]] was fouled.<ref name="NYT98">{{Cite news|first=Roger|last=Cohen|title=World Cup '98: Netherlands' Davids Comes in From Cold |url=https://www.nytimes.com/1998/06/30/sports/world-cup-98-netherlands-davids-comes-in-from-cold.html|website=The New York Times|date=30 June 1998 |access-date=3 April 2021}}</ref> [[Predrag Mijatović]] missed, and the scoreline remained the same at 1–1.<ref>{{Cite news|title=Football World Cup: Netherlands 2 Yugoslavia 1 |url=https://www.independent.co.uk/sport/football-world-cup-netherlands-2-yugoslavia-1-1168699.html|website=The Independent|date=29 June 1998 |access-date=3 April 2021}}</ref> Such an event demoralized the Yugoslavs, as the Dutch took the initiative. In the late seconds of the game [[Edgar Davids]]' shot towards the Yugoslav net from a distance of 20 meters and beat goalkeeper [[Ivica Kralj]].<ref name="NYT98" />
+
+====Euro 2000====
+The draw for the [[UEFA Euro 2000 qualifying|Euro 2000 qualifiers]] saw first-seeded Yugoslavia drawn in a group with [[Croatia national football team|Croatia]], thus marking the first games between the two teams after the [[breakup of Yugoslavia]]. The other teams in the group were the [[Republic of Ireland national football team|Republic of Ireland]], [[North Macedonia national football team|Macedonia]], and Malta. [[Milan Živadinović]] was dismissed and was replaced by [[Vujadin Boškov]].<ref>{{Cite news|title=Euro 2000: Vujadin Boskov |url=https://news.bbc.co.uk/2/hi/euro2000/teams/yugoslavia/squad/702485.stm |website=BBC |access-date=3 April 2021}}</ref><ref>{{cite web |title=Boskov bondscoach Joegoslavië |url=https://www.vi.nl/nieuws/boskov-bondscoach-joegoslavi |website=Voetbal International|date=17 July 1999 |access-date=3 April 2021|language=nl}}</ref>
+
+The team started with a 1–0 win over the Republic of Ireland in Belgrade, before beating Malta 3–0 in [[Ta' Qali]]. The home fixture against the Maltese followed, but was moved to [[Thessaloniki]], Greece due to the [[NATO bombing of Yugoslavia]]. The team won 4–1. The first match against Croatia took place in Belgrade after the bombing ended, and was interrupted due to a power outage at the beginning of the second half, resuming after 43 minutes and eventually finishing 0–0.<ref>{{Cite web|title=Football: Yugoslavia 0-0 Croatia|url=http://www.arhiva.serbia.gov.rs/news/1999-08/19/13984.html |website=Website of the Serbian Government |date=2004 |access-date=6 December 2010}}</ref> A 2–1 defeat against Ireland in [[Dublin]] was followed by victories home and away against Macedonia (3–1 and 4–2 respectively), meaning that Yugoslavia needed to win its final qualifier against Croatia in Zagreb, or to draw with the Republic of Ireland failing to beat Macedonia in [[Skopje]], in order to qualify automatically for Euro 2000. In the event, the Republic of Ireland conceded an injury-time equaliser, meaning that Yugoslavia's 2–2 draw with the Croatians put them through.
+
+The draw for the finals placed Yugoslavia in [[UEFA Euro 2000 Group C|Group C]] along with Spain, [[Norway national football team|Norway]] and another former Yugoslav republic, [[Slovenia national football team|Slovenia]]. The Slovenians took a 3–0 lead in the first game at the [[Stade du Pays de Charleroi]], but three goals in six second-half minutes enabled Yugoslavia to secure a 3–3 draw. Thanks to an early [[Savo Milošević]] backheel strike, the Serbs beat Norway 1–0 in [[Liège]]. The final group game, against Spain in [[Bruges]], saw the Yugoslavs take the lead three times, before a [[Gaizka Mendieta]] penalty and an [[Alfonso Pérez|Alfonso]] strike in injury-time secured a 4–3 win for the Spaniards and top spot in the group. Yugoslavia nonetheless finished second, level on points with Norway but ranked ahead due to its victory in Liège. In each of the three games, the team had one player sent off (Siniša Mihajlović, [[Mateja Kežman]], and [[Slaviša Jokanović]], respectively).<ref>{{cite web |title=Yugoslavia hit by fine |url=https://news.bbc.co.uk/2/hi/euro2000/teams/yugoslavia/803466.stm |website=BBC |date=23 June 2000 |access-date=3 April 2021}}</ref> In the quarter-finals, Yugoslavia was paired with the Netherlands. The co-hosts won 6–1 in [[Rotterdam]] with [[Patrick Kluivert]] scoring a hat-trick. Despite Yugoslavia's elimination, [[Savo Milošević]] was crowned the joint top scorer of the tournament alongside Patrick Kluivert. Both players scored five goals, although Milošević played one game fewer.<ref>{{cite web | url=http://www.euro2000.org/en/tournament/page4/0,1074,,00.html | archive-url=https://web.archive.org/web/20000711003231/http://www.euro2000.org/en/tournament/page4/0,1074,,00.html | url-status=dead | archive-date=11 July 2000 |title=Leading goalscorers |website=UEFA|date=2 July 2000 | access-date=12 July 2012 }}</ref>
+
+====2002 World Cup campaign====
+[[Ilija Petković]] replaced Boškov as head coach in July 2000.<ref>{{cite web |title=Boskov sacked as Yugoslav coach |url=https://news.bbc.co.uk/sport2/hi/football/europe/846602.stm |website=BBC |date=22 July 2000 |access-date=3 April 2021}}</ref> For the [[2002 FIFA World Cup qualification (UEFA)|2002 World Cup qualifiers]], Yugoslavia was drawn in [[2002 FIFA World Cup qualification – UEFA Group 1|Group 1]] with [[Russia national football team|Russia]], Slovenia, [[Switzerland national football team|Switzerland]], the Faroe Islands and [[Luxembourg national football team|Luxembourg]]. After winning against Luxembourg, Petković was sacked and replaced with a three-pieced team which consisted of Boškov, [[Dejan Savićević]] and [[Ivan Ćurković]]. Yugoslavia won both matches against Luxembourg and the Faroe Islands, as well as the away game against Switzerland, but suffered a home loss and an away draw against Russia, a home draw against Switzerland, and draws in both home and away games against Slovenia. Yugoslavia ended the qualifying campaign in third place in the group, just one point behind second-placed Slovenia who advanced to the [[2002 FIFA World Cup qualification (UEFA)#Second round|second round of qualifying]].<ref>{{Cite web|first=Karel|last=Stokkermans|title=World Cup 2002 Qualifying |url=https://www.rsssf.org/tables/2002q.html |website=[[RSSSF]] |access-date=2 February 2023}}</ref>
+
+====Euro 2004 campaign====
+Savićević was appointed as coach in July 2002.<ref>{{cite web |title=Savicevic stays as Yugoslavia coach |url=https://www.uefa.com/uefaeuro-2020/news/0254-0d7b25fdfdc7-4c5f8df1cd5c-1000--savicevic-stays-as-yugoslavia-coach/ |website=UEFA|date=12 July 2002 |access-date=3 April 2021}}{{dead link|date=March 2025|bot=medic}}{{cbignore|bot=medic}}</ref> For the [[UEFA Euro 2004 qualifying|Euro 2004 qualifiers]] Yugoslavia was drawn in [[UEFA Euro 2004 qualifying Group 9|Group 9]] with [[Italy national football team|Italy]], [[Wales national football team|Wales]], [[Finland national football team|Finland]] and [[Azerbaijan national football team|Azerbaijan]]. During qualifying, the country went under a [[Constitutional Charter of Serbia and Montenegro|political transformation]], and the newly named Serbia and Montenegro appeared for the first time in a game against Azerbaijan in February 2003.<ref>{{cite web |title=Serbia and Montenegro debut |url=https://www.uefa.com/uefaeuro-2020/news/0254-0d7b1f26aa22-58f4d856420c-1000--serbia-and-montenegro-debut/ |website=UEFA|date=11 February 2003 |access-date=3 April 2021}}{{dead link|date=March 2025|bot=medic}}{{cbignore|bot=medic}}</ref> In June, after a 2–1 loss to Azerbaijan, Savićević resigned and was replaced by Ilija Petković.<ref>{{cite web |title=Petković the 'perfect solution' |url=https://www.uefa.com/uefaeuro-2020/news/0254-0d7b2106de29-f0a21f68db2a-1000--petkovic-the-perfect-solution/ |website=UEFA|date=10 July 2003 |access-date=3 April 2021}}{{dead link|date=March 2025|bot=medic}}{{cbignore|bot=medic}}</ref> Despite drawing both games against eventual group winners Italy and winning both games against runners-up Wales, Serbia and Montenegro failed to qualify, mostly due to a 2–2 home draw, the 2–1 loss to Azerbaijan, as well as a 3–0 away loss to Finland.
+
+====2006 World Cup====
+[[File:Elfenbeinküste - Serbien und Montenegro.jpg|left|thumb|200px|Serbia and Montenegro and [[Cote d'Ivoire national football team|Ivory Coast]] playing at the [[Allianz Arena]] in the 2006 FIFA World Cup]]
+Petković remained as manager for the team.<ref>{{cite web |title=Petkovic rewarded for efforts |url=https://www.uefa.com/uefaeuro-2020/news/0254-0d7b31e7755e-b0182b6407cb-1000--petkovic-rewarded-for-efforts/ |website=UEFA|date=4 November 2003 |access-date=3 April 2021}}{{dead link|date=March 2025|bot=medic}}{{cbignore|bot=medic}}</ref> [[2006 FIFA World Cup qualification (UEFA)|Qualifying]] for the [[2006 FIFA World Cup|2006 World Cup]] resulted in six wins and four draws, with Serbia and Montenegro ending up first in the group with an undefeated record in their [[2006 FIFA World Cup qualification – UEFA Group 7|qualification group]] ahead of Spain, [[Belgium national football team|Belgium]], [[Bosnia and Herzegovina national football team|Bosnia and Herzegovina]], [[Lithuania national football team|Lithuania]] and [[San Marino national football team|San Marino]]. The Serbia and Montenegro team also allowed only one goal in the ten matches, the best defensive record of all 51 teams participating in qualification.
+
+On 3 June 2006, following a [[2006 Montenegrin independence referendum|referendum]], Montenegro declared its independence from Serbia. As the World Cup was about to start, it was decided that the Serbia and Montenegro team that had qualified for the tournament would compete, with the split into separate teams representing the new countries of Montenegro and Serbia to take place once the team was no longer in the tournament.
+
+In the [[2006 FIFA World Cup Group C|group stage]], Serbia and Montenegro lost their opening game to the Netherlands. The final score was 1–0 after [[Arjen Robben]] scored the only goal of the game. They also lost their second game to Argentina 6–0, Serbia and Montenegro's worst ever international result. With the team's two losses and with Netherlands and Argentina winning both their games, Serbia and Montenegro could no longer qualify for the knockout matches and was playing for pride alone in their final group game against [[Ivory Coast national football team|Ivory Coast]]. After a 2–0 lead for much of the first half, ''the Elephants'' managed to come back and win 3–2, leaving Serbia and Montenegro with no points.<ref>{{Cite web|title=Ivory Coast 3-2 Serbia & Montenegro |url=https://news.bbc.co.uk/sport2/hi/football/world_cup_2006/4853346.stm |website=BBC |date=21 June 2006 |access-date=3 April 2021}}</ref>
+
+===Independent Serbia (2006–present)===
+
+====Euro 2008 campaign====
+[[Javier Clemente]], Serbia's first-ever foreign coach, was appointed to lead the team for the 2008 Euro campaign.<ref>{{cite web |title=Clemente in for Serbia |url=https://www.eurosport.com/football/worldcup/2006/clemente-in-for-serbia_sto927282/story.shtml |website=eurosport.com |publisher=Reuters |date=17 July 2006 |access-date=5 April 2021}}</ref> After Montenegro declared independence, Serbia marked their split from [[Montenegro national football team|Montenegro]] with a 3–1 win over the Czech Republic. For the [[UEFA Euro 2008 qualifying|Euro 2008 qualifiers]], Serbia was drawn in [[UEFA Euro 2008 qualifying Group A|Group A]] along with [[Poland national football team|Poland]], [[Portugal national football team|Portugal]], [[Belgium national football team|Belgium]], Finland, [[Kazakhstan national football team|Kazakhstan]], [[Armenia national football team|Armenia]] and Azerbaijan. A strong start in qualification was overshadowed by the final hurdle of matches where inconsistency took over, the side dropping points against the likes of Finland, Belgium, Armenia and Kazakhstan. They eventually finished third, three points behind runners-up Portugal and Group A winners Poland. Clemente was sacked after the team's failure to qualify.<ref>{{cite news |title=Javier Clemente fired as Serbia coach; Blokhin resigns as Ukraine coach |url=https://www.nytimes.com/2007/12/06/sports/06iht-soccer6.8621136.html |work=The New York Times |date=6 November 2007 |access-date=5 April 2021}}</ref>
+
+Serbia replaced Clemente with [[Miroslav Đukić]], who then left the position on 19 August of the following year without having played any official games, due to disagreements with the [[Football Association of Serbia]].{{Citation needed|date=May 2024}}
+
+====2010 World Cup====
+[[File:Serbia soccer vs france.jpg|thumb|left|Atmosphere at the start of match vs. France, 9 September 2009]]
+{| style="float: right; width: 160px; border: #99B3FF solid 1px"
+|-
+| <div style="position: relative;">
+[[File:Soccer Field Transparant.svg|175px]]
+{{Image label|x=0.195|y=0.04|scale=350|text=[[Vladimir Stojković|<span style="color:Maroon; font-size:0.9em;">Stojković</span>]]}}
+{{Image label|x=0.05|y=0.20|scale=350|text=[[Branislav Ivanović|<span style="color:Maroon; font-size:0.9em;">Ivanović</span>]]}}
+{{Image label|x=0.15|y=0.15|scale=350|text=[[Nemanja Vidić|<span style="color:Maroon; font-size:0.9em;">Vidić</span>]]}}
+{{Image label|x=0.29|y=0.15|scale=350|text=[[Neven Subotić|<span style="color:Maroon; font-size:0.9em;">Subotić</span>]]}}
+{{Image label|x=0.36|y=0.20|scale=350|text=[[Aleksandar Kolarov|<span style="color:Maroon; font-size:0.9em;">Kolarov</span>]]}}
+{{Image label|x=0.04|y=0.50|scale=350|text=[[Miloš Krasić|<span style="color:Maroon; font-size:0.9em;">Krasić</span>]]}}
+{{Image label|x=0.06|y=0.35|scale=350|text=[[Zdravko Kuzmanović|<span style="color:Maroon; font-size:0.9em;">Kuzmanović</span>]]}}
+{{Image label|x=0.20|y=0.27|scale=350|text=[[Dejan Stanković|<span style="color:Maroon; font-size:0.9em;">Stanković</span>]]}}
+{{Image label|x=0.33|y=0.35|scale=350|text=[[Miloš Ninković|<span style="color:Maroon; font-size:0.9em;">Ninković</span>]]}}
+{{Image label|x=0.34|y=0.50|scale=350|text=[[Milan Jovanović (footballer, born 1981)|<span style="color:Maroon; font-size:0.9em;">Jovanović</span>]]}}
+{{Image label|x=0.23|y=0.55|scale=350|text=[[Nikola Žigić|<span style="color:Maroon; font-size:0.9em;">Žigić</span>]]}}
+</div>
+|-
+| <small>Serbia's starting XI under coach [[Radomir Antić]] in [[2010 FIFA World Cup Group D#Germany vs Serbia|their 1–0 win over Germany at the 2010 FIFA World Cup]].</small><ref>{{Cite web|title=Germany 0-1 Serbia|url=http://soccernet.espn.go.com/report?id=264051&cc=5901|url-status=dead|date=18 June 2010|website=ESPN|archive-url=https://web.archive.org/web/20100621075434/http://soccernet.espn.go.com/report?id=264051&ver=us&cc=5901|archive-date=21 June 2010}}</ref>
+|}
+Subsequent to Ðukić's departure, [[Radomir Antić]] was appointed coach. Serbia's [[2010 FIFA World Cup qualification (UEFA)|World Cup qualification]] campaign began in 2008. Their [[2010 FIFA World Cup qualification – UEFA Group 7|qualification group]] featured [[1998 FIFA World Cup Final|1998 World Cup winners]] and [[2006 FIFA World Cup Final|2006 World Cup runners-up]] [[France national football team|France]], [[Romania national football team|Romania]], as well as [[Austria national football team|Austria]], [[Lithuania national football team|Lithuania]] and the Faroe Islands. Serbia played consistently during the qualifiers and this led to the team automatically qualifying for the [[2010 FIFA World Cup]] in South Africa. They confirmed qualification with a 5–0 home victory against Romania.
+
+The 2010 World Cup team featured captain [[Dejan Stanković]], who became the only player to feature in a World Cup having played under three different national names (although he never changed nationality; this was a result of geopolitical events involving the identity of Yugoslavia).<ref>{{Cite news|first=Jon|last=Sainz|title=Bleacher Report: FIFA World Cup 2010: Dejan Stankovic's Strange Record|url=http://bleacherreport.com/articles/406351-2010-fifa-world-cup-dejan-stankovics-strange-record|url-status=dead|date=27 May 2013|website=Bleacher Report|archive-url=https://web.archive.org/web/20130527115409/http://bleacherreport.com/articles/406351-2010-fifa-world-cup-dejan-stankovics-strange-record|archive-date=27 May 2013}}</ref> They faced [[Ghana national football team|Ghana]], Germany, [[Australia men's national soccer team|Australia]].
+
+Their opening group game was against Ghana and chances came to both sides but a red card to [[Aleksandar Luković]] and a handball by substitute [[Zdravko Kuzmanović]] in the second half gave Ghana a penalty to take all three points at the death. [[Asamoah Gyan]] converted eight minutes from full-time and Serbia were defeated 1–0. In Serbia's second group match, they defeated Germany by a score of 1–0 with a goal by [[Milan Jovanović (footballer, born 1981)|Milan Jovanović]] in the first half. FIFA's official YouTube channel called the win "the most famous day in Serbia's footballing history".<ref>[https://www.youtube.com/watch?v=Ftc2-FqyNMc YouTube&nbsp;– FIFATV: 'Most famous day in Serbia's footballing history'] {{Webarchive|url=https://web.archive.org/web/20160510065548/https://www.youtube.com/watch?v=Ftc2-FqyNMc |date=10 May 2016 }} Published 20 May 2012</ref>{{Better source needed|date=May 2024}}
+
+Serbia only needed a single point to reach the knockout stages, but was defeated by Australia 2–1. Australia scored two goals in the second half through [[Tim Cahill]] and [[Brett Holman]]. A late [[Marko Pantelić]] goal served only as a consolation. They finished last in the group.<ref>{{cite news |title=World Cup: Australia vs. Serbia: Australia wins, 2-1 |url=https://www.latimes.com/archives/blogs/sports-now/story/2010-06-23/world-cup-australia-vs-serbia-australia-wins-2-1 |work=Los Angeles Times |agency=Associated Press |date=June 23, 2010}}</ref><ref>{{cite news |last1=Long |first1=Gideon |title=Australia beat Serbia, both sides bow out |url=https://www.reuters.com/article/sports/australia-beat-serbia-both-sides-bow-out-idUSTRE65M5UE/ |work=Reuters |date=June 23, 2010}}</ref>
+
+====Euro 2012 campaign====
+Radomir Antić was sacked two games into the [[UEFA Euro 2012 qualifying]] process, a 1–1 home draw against Slovenia ending his two-year stint. The dismissal meant the bringing in of [[Vladimir Petrović]] to the job.
+
+For the UEFA Euro 2012 qualifying, Serbia was drawn in [[UEFA Euro 2012 qualifying Group C|Group C]] featuring Italy, Slovenia, [[Estonia national football team|Estonia]], [[Northern Ireland national football team|Northern Ireland]] and the Faroe Islands. The qualifying stage began with Antić as coach and finished with Vladimir Petrović. Serbia started the first two games with a 3–0 win away to Faroe Islands and a 1–1 draw at home to Slovenia but this result ended Antić's stint as the country's coach.<ref>{{Cite web|title=Petrović replaces Antić as Serbia coach|url=https://www.uefa.com/uefaeuro-2020/news/0252-0ce200b10f73-94843a3caf5d-1000--petrovic-replaces-antic-as-serbia-coach/ |website=UEFA|date=15 September 2010 |access-date=5 April 2021}}{{dead link|date=March 2025|bot=medic}}{{cbignore|bot=medic}}</ref> New coach Petrović faced setbacks with a 3–1 home loss against Estonia<ref>{{cite web |title=Estonia beats Serbia 3-1 in Euro qualifying |url=https://www.foxsports.com/stories/soccer/estonia-beats-serbia-3-1-in-euro-qualifying |website=Fox Sports |date=8 October 2010 |access-date=5 April 2021}}</ref> and an abandoned match resulting in a 3–0 loss to Italy due to crowd trouble from the Serbian away supporters in [[Genoa]].<ref>{{Cite news|title=UEFA award Italy 3-0 win after abandoned Euro 2012 tie against Serbia|url=https://www.theguardian.com/football/2010/oct/29/uefa-italy-serbia-abandoned-euro-2012|website=The Guardian |date=29 October 2010 |access-date=5 April 2021}}</ref>
+
+Serbia returned to form with a 2–1 home victory over Northern Ireland but could only manage a 1–1 away draw against Estonia. Afterwards, Serbia won back to back games with a 1–0 win away to Northern Ireland and a crucial 3–1 home victory against Faroe Islands. These results put Serbia in pole position to confirm a play-off spot behind Italy.
+
+Serbia needed a home victory against Italy to confirm a play-off spot but their efforts only resulted in a 1–1 draw. However, the team still had one more chance to confirm a play-off place when they faced Slovenia away. Serbia also must win the match despite having superior goal difference over Estonia; a draw was not good enough for progression. Neither side played better in the first half, but a long-range goal put Slovenia up 1–0 at half time. In the second half, Nemanja Vidić missed penalty. Serbia left empty-handed after a 1–0 loss and exited the tournament for the third time in a row during the qualifying group stages, missing out by one point behind Estonia. Serbia once again failed to qualify for the [[UEFA Euro 2012|European Championships]].<ref name="Šinkovc">{{Cite web|first=Rok|last=Šinkovc|title=Defeat in Slovenia ends Serbia's play-off dream|url=https://www.uefa.com/uefaeuro-2020/news/0254-0d7d229e0e06-e472ba03cfe3-1000--defeat-in-slovenia-ends-serbia-s-play-off-dream/|website=UEFA|date=11 October 2011|access-date=5 April 2021}}{{dead link|date=March 2025|bot=medic}}{{cbignore|bot=medic}}</ref> Vladimir Petrović was sacked after the team's failure to qualify.
+
+====2014 World Cup campaign====
+Ahead of the [[2014 FIFA World Cup qualification (UEFA)|qualifying]] campaign for the [[2014 FIFA World Cup]], Dejan Stanković and Nemanja Vidić announced that they were retiring from international football.<ref>{{Cite news|title=Manchester United's Nemanja Vidic announces international retirement |url=https://www.theguardian.com/football/2011/oct/12/manchester-united-nemanja-vidic-serbia |website=The Guardian |publisher=Associated Press |date=12 October 2011 |access-date=5 April 2021}}</ref><ref>{{Cite news|title=Dejan Stankovic to retire and leave Serbia to rebuild|url=https://www.bbc.com/sport/scotland/15279867|website=BBC Sport|date=12 October 2011|access-date=5 April 2021}}</ref> Branislav Ivanović became the new captain. Siniša Mihajlović, a former member of the national team, was appointed as the coach on 24 April 2012. Serbia was drawn in [[2014 FIFA World Cup qualification – UEFA Group A|Group A]] in qualification for the 2014 World Cup, together with Croatia, Belgium, [[Scotland national football team|Scotland]], Macedonia, and Wales. The team began the qualification campaign with a goalless draw with Scotland and a 6–1 win over Wales. In the next two games, Serbia suffered two defeats from Macedonia and Belgium.
+
+On 22 March 2013, Serbia played in Zagreb against Croatia. The game was highly anticipated in both countries due to [[Croatia–Serbia football rivalry|their rivalry]] both on and off the pitch. Croatia won 2–0.<ref>{{Cite news|first=James|last=Montague|title=Amid 'Kill' Chants, Croatia and Serbia Set Peaceful Example |url=https://www.nytimes.com/2013/03/23/sports/soccer/croatias-win-over-serbia-ends-with-coaches-embrace.html|website=The New York Times |date=22 March 2013 |access-date=5 April 2021 |archive-date=20 March 2021 |archive-url=https://web.archive.org/web/20210320214554/https://www.nytimes.com/2013/03/23/sports/soccer/croatias-win-over-serbia-ends-with-coaches-embrace.html |url-status=live }}</ref> Serbia defeated Scotland 2–0 at home in a crucial qualifier, but their World Cup hopes were taken away after a 2–1 defeat to Belgium. Serbia drew with Croatia 1–1 in the corresponding fixture at home, where 18-year-old [[Aleksandar Mitrović]] scored an equalizer in the second-half after [[Mario Mandžukić]] opened the scoring.<ref>{{cite news|first=Zoran|last=Milosavljevic|title=Serbia hold Croatia to draw in highly-charged qualifier |url=https://www.reuters.com/article/soccer-world-serbia-idUKL4N0H23J620130906|website=Reuters |date=6 September 2013 |access-date=5 April 2021}}</ref> They defeated Wales 3–0 in Cardiff. Dejan Stanković's farewell game was completed in a friendly against [[Japan national football team|Japan]], which Serbia won 2–0. He finished his career with 103 appearances for the national team, a record previously held by Savo Milošević, with 102 appearances. Serbia finished qualifying with a 5–1 home win against Macedonia,<ref>{{Cite web|title=Serbia 5 Macedonia 1: Five star Serbs finish with a thrashing of Macedonia|url=https://www.dailyrecord.co.uk/sport/football/football-match-reports/serbia-5-macedonia-1-five-2458509|website=[[Daily Record (Scotland)|Daily Record Scotland]]|date=16 October 2013|access-date=5 April 2021}}</ref> putting them in third in the group, three points from a playoff spot behind Croatia and group winners Belgium.
+
+====Euro 2016 campaign====
+After failing to qualify for the 2014 World Cup, [[Dick Advocaat]] was appointed as the coach in 2014.<ref>{{Cite news|title=Dick Advocaat introduced as Serbia coach |url=https://www.usatoday.com/story/sports/soccer/2014/07/28/dick-advocaat-introduced-as-serbia-coach/13261807/|website=USA Today |publisher=Associated Press |date=28 July 2014 |access-date=5 April 2021}}</ref> Serbia was drawn in [[UEFA Euro 2016 qualifying Group I|Group I]] in [[UEFA Euro 2016 qualifying|qualification]] for [[UEFA Euro 2016]], together with Portugal, [[Denmark national football team|Denmark]], [[Albania national football team|Albania]] and Armenia. Advocaat started with a 1–1 friendly draw against France and began qualification with the same result against Armenia. The following game was a [[Serbia v Albania (UEFA Euro 2016 qualifying)|game against Albania]] in Belgrade, abandoned as a result of crowd trouble after a drone carrying an Albanian flag and a map of [[Greater Albania]] was flown over the pitch.<ref name="BBC drone">{{Cite web|title=Serbia - Albania: CAS reverse Uefa decision on 'drone match'|url=https://www.bbc.com/sport/football/33478446 |website=BBC Sport|date=10 July 2015|access-date=5 April 2021}}</ref> Serbia was originally awarded with a 3–0 victory by UEFA, and deducted three points, but on 10 July 2015, the [[Court of Arbitration for Sport]] (CAS) reversed the earlier decision and awarded Albania a 3–0 victory.<ref name="BBC drone"/> On 14 November 2014, Serbia played against Denmark in Belgrade and lost, 1–3. After this game, Advocaat left,<ref>{{Cite news|title=Dick Advocaat: Serbia coach quits after four months|url=https://www.bbc.com/sport/football/30069140|website=BBC Sport|date=15 November 2014|access-date=5 April 2021}}</ref> whereupon [[Radovan Ćurčić]] was announced as a new coach on 25 November.<ref>{{Cite news|title=Radovan Curcic new Serbia coach|url=https://apnews.com/article/8f4a5d7bebcd442aa40aeafdc29cec69|website=Associated Press|date=25 November 2014 |access-date=5 April 2021}}</ref>
+
+Serbia's first match in 2015 was a qualifying match against Portugal in [[Lisbon]], during which Serbia lost 2–1, cutting their chances for qualification to Euro 2016. On 13 June 2015, Serbia played a qualifying match against Denmark in [[Copenhagen]], losing 2–0. With the 10 July ruling by CAS on the abandoned game against Albania, Serbia would become mathematically eliminated from Euro 2016 qualification. On 4 September 2015, Serbia had their first victory, winning 2–0, against Armenia. On 8 October 2015, Serbia defeated Albania with a goal each from [[Aleksandar Kolarov]] and [[Adem Ljajić]].<ref>{{cite news |last1=Ames |first1=Nick |title=Albania forced to wait for Euro 2016 after Serbia strike late |url=https://www.theguardian.com/football/2015/oct/08/albania-serbia-euro-2016-qualifier-report |work=The Guardian |date=October 9, 2015}}</ref> In the table of Group I, Serbia finished second to last place with four points in a five-team group.<ref>{{cite web |title=Euro 2016 qualifying: Serbia 1-2 Portugal |url=https://www.bbc.com/sport/football/33544060 |website=BBC Sport |date=October 11, 2015}}</ref>
+
+====2018 World Cup====
+[[File:Ser-Swi (7).jpg|thumb|Serbia team at the [[2018 World Cup]] in Russia]]
+After failing to qualify for Euro 2016, [[Slavoljub Muslin]] was appointed as a coach. Serbia was drawn in [[2018 FIFA World Cup qualification – UEFA Group D|Group D]] in qualification for the [[2018 FIFA World Cup]] with Euro 2016 semi-finalists Wales, Austria, Ireland, [[Georgia national football team|Georgia]] and [[Moldova national football team|Moldova]]. They started off their campaign with a 2–2 draw against Ireland at the [[Red Star Stadium]] and eventually won against Austria, Georgia and Moldova.{{Citation needed|date=May 2024}}
+
+Serbia beat Moldova in Belgrade with goals from Aleksandar Kolarov, Aleksandar Mitrović and [[Mijat Gaćinović]]. This consolidated their first position going into their top-of-the group clash with Ireland. They won this match with a 55th-minute goal from Kolarov. Serbia finished the qualifying campaign with a 1–0 home win against Georgia, and ended at the top of [[2018 FIFA World Cup qualification – UEFA Group D|Group D]] and therefore qualified for the [[2018 FIFA World Cup|2018 tournament]]. Despite Serbia's qualification, Muslin was sacked by the Football Association of Serbia as a result on differences regarding team selection.<ref>{{cite web |title=Serbia sack coach Slavoljub Muslin despite World Cup qualification |url=https://www.espn.com/soccer/story/_/id/37537334/serbia-sack-coach-slavoljub-muslin-world-cup-qualification |website=ESPN|publisher=Associated Press |date=30 October 2017 |access-date=5 April 2021}}</ref> Muslin was criticized for not inviting [[Sergej Milinković-Savić]] to play in the campaign which sparked controversy in Serbia. Mladen Krstajić took the place as a temporary coach after Muslin's dismissal and led the team in the World Cup.<ref>{{cite web|title=Mladen Krstajic set to coach Serbia at FIFA World Cup |url=https://www.newindianexpress.com/sport/football/2017/dec/30/mladen-krstajic-set-to-coach-serbia-at-fifa-world-cup-1740269.html |website=The New Indian Express |publisher=Agence France-Presse|date=30 October 2017|access-date=5 April 2021}}</ref>
+
+In the World Cup, Serbia opened their match against [[Costa Rica national football team|Costa Rica]]. Kolarov's free kick at the second half meant Serbia won their first World Cup game in eight years. Serbia lost their later encounters, losing 1–2 to [[Switzerland national football team|Switzerland]] with a 90th-minute goal scored by [[Xherdan Shaqiri]]<ref>{{cite web |title=World Cup 2018: Switzerland's Xherdan Shaqiri scores 90th minute winner against Serbia |url=https://www.bbc.com/sport/football/44439145 |website=BBC |date=23 June 2018 |access-date=5 April 2021}}</ref> and 0–2 to [[Brazil national football team|Brazil]], thus being eliminated in the group stage.<ref>{{cite web|title=Brazil beat Serbia 2-0 to reach World Cup last 16|url=https://www.marca.com/en/world-cup/2018/06/27/5b33eaa2ca4741962e8b464b.html|website=[[Marca (newspaper)|Marca]]|date=27 June 2018 |access-date=5 April 2021}}</ref>
+
+====2018–19 UEFA Nations League====
+Due to the performance of Serbia in previous years, the country found itself started the campaign of the inaugural [[2018–19 UEFA Nations League C|Nations League]], where they were drawn into [[2018–19 UEFA Nations League C#Group 4|Group 4]] with Montenegro, Lithuania and Romania. With both wins against Lithuania and Montenegro and both draw games against Romania, Serbia finished on top of the group, securing the [[UEFA Euro 2020 qualifying play-offs#Path C|Euro 2020 play-off]] spot and being promoted into [[2020–21 UEFA Nations League B|League B]] for [[2020–21 UEFA Nations League|2020–21 season]]. With six goals, Aleksandar Mitrović finished the tournament as the top scorer.
+
+====Euro 2020 campaign====
+In December 2017, Mladen Krstajić became the permanent coach for Serbia.<ref>{{cite news|first=Zoran|last=Milosavljević|title=Serbia name caretaker Krstajic as permanent coach |url=https://www.reuters.com/article/idUKKBN1EN1F8 |work=Reuters |date=29 December 2017 |access-date=6 April 2021 |archive-date=12 May 2022 |archive-url=https://web.archive.org/web/20220512010755/https://www.reuters.com/article/idUKKBN1EN1F8 |url-status=live }}</ref> Serbia started the campaign of [[2018–19 UEFA Nations League]], which served as a part of [[UEFA Euro 2020 qualifying]] campaign.
+
+For Euro 2020 qualifiers, Serbia was drawn into [[UEFA Euro 2020 qualifying Group B|Group B]] with [[UEFA Euro 2016 Final|Euro 2016 champions]] Portugal, [[Ukraine national football team|Ukraine]], Lithuania and Luxembourg. Serbia kicked off the qualifiers with 1–1 away draw against Portugal. However, in the next away game against Ukraine, Serbia lost 5–0. Krstajić was sacked after the loss and replaced with [[Ljubiša Tumbaković]]. Tumbaković started with a 2–4 home loss against Portugal. The next two games were away wins against Luxembourg and Lithuania, before beating Luxembourg at home. Serbia then drew 2–2 to Ukraine at home, meaning they could not finish in the top two and a play-off would ensue.
+
+After the [[UEFA Euro 2020 qualifying play-offs]] were resumed, Serbia placed itself against [[Norway national football team|Norway]] in [[Oslo]]. Two goals, one in extra time helped Serbia to overcome Norway 2–1, thus marching to the final playoff game against Scotland at home.<ref>{{cite web|first=Connor|last=Fleming|title=Haaland And Norway Eliminated From Euros By Serbia's Filthy Extra-Time Winner |url=https://the18.com/en/soccer-news/norway-vs-serbia-playoff-euro-2021-highlights-recap |website=the18.com |date=8 October 2020 |access-date=6 April 2021}}</ref> The game was won by Scotland in a penalty shootout (5–4) after the game was tied 1–1 after full time.<ref>{{cite web |title=Scotland reach Euro 2020 after penalty shootout win over Serbia |url=https://www.espn.com/soccer/report?gameId=570883 |website=ESPN|date=12 November 2020 |access-date=6 April 2021}}</ref> Serbia once again failed to qualify for the Euros, making 20 years since the country last took part in the tournament. Tumbaković was sacked after the team's failure to qualify for the tournament.<ref>{{cite news |title=Tumbakovic fired by Serbia after missing out on Euro 2020 |url=https://www.usatoday.com/story/sports/soccer/2020/12/14/tumbakovic-fired-by-serbia-after-missing-out-on-euro-2020/115147868/ |work=USA Today |publisher=Associated Press |date=14 December 2020 |access-date=6 April 2021}}</ref>
+
+====2022–23 UEFA Nations League====
+Serbia was drawn in [[2022–23 UEFA Nations League B]] [[2022–23 UEFA Nations League B#Group 4|Group 4]] alongside [[Norway national football team|Norway]], [[Sweden men's national football team|Sweden]] and Slovenia, finishing first and being promoted after wins against Sweden at home and Norway in Oslo.
+
+====2022 World Cup====
+Serbia was drawn in [[2022 FIFA World Cup qualification – UEFA Group A|Group A]] in qualification for the [[2022 FIFA World Cup]] with Portugal, Republic of Ireland, Luxembourg and Azerbaijan.<ref>{{cite web |title=Srbija dobila rivale u kvalifikacijama za Mundijal 2022. godine |url=https://www.rts.rs/page/sport/sr/story/36/fudbal/4177559/srbija-svetsko-prvenstvo-kvalifikacije.html |website=Radio Television of Serbia|date=7 December 2020 |access-date=6 April 2021}}</ref>
+
+After a penalty shootout loss against Scotland in the Euro 2020 qualifying playoffs, [[Ljubiša Tumbaković]] was sacked and replaced with [[Dragan Stojković]].
+
+Serbia started [[2022 FIFA World Cup qualification – UEFA Group A|qualification]] with a 3–2 win against the Republic of Ireland in Belgrade in March 2021. After a 2–2 draw against Portugal, Serbia won against Azerbaijan in Baku 2–1. Mixed results meant Serbia needed a victory against Portugal to qualify directly from the group. On 14 November 2021, Serbia faced [[Portugal national football team|Portugal]] at the [[Estádio da Luz]], and trailed by a goal. However, an equaliser by [[Dušan Tadić]] and a decisive goal from [[Aleksandar Mitrović]] in the final minutes of the second half meant Serbia automatically booked a ticket for Qatar.<ref>{{cite web|url=https://www.the42.ie/aleksandar-mitrovic-serbia-beat-portugal-5601835-Nov2021/|title=Mitrovic's 90th-minute winner sends Serbia to the World Cup and Portugal to the play-offs|website=The 42|date=14 November 2021|access-date=15 November 2021}}</ref>
+
+Serbia was drawn in Group G with 2018 opponents Brazil and Switzerland, as well as African representatives [[Cameroon national football team|Cameroon]]. Serbia was defeated in the first match against Brazil 2–0, drew against Cameroon 3–3, and lost against Switzerland 3–2 after a fight between multiple Serbs and [[Granit Xhaka]], ending up with only one point.<ref>{{cite web|url=https://www.fifa.com/fifaplus/en/articles/world-cup-qatar-2022-serbian-regrets-after-losing-to-switzerland-eliminated-mitrovic-milinkovic-savic|title=Serbia's regrets in Qatar|website=FIFA|date=3 December 2022|access-date=3 December 2022}}</ref>
+
+====Euro 2024====
+Following the elimination in the group stage at the 2022 World Cup, Stojković stayed as a coach with a goal to bring Serbia to [[UEFA Euro 2024]].<ref>{{cite web |title=Stojković: Nismo zadovoljni rezultatom, ostajem selektor Srbije|url=https://www.politika.rs/scc/clanak/527426/Stojkovic-Nismo-zadovoljni-rezultatom-ostajem-selektor-Srbije |website=Politika |date=2 December 2022}}</ref>
+
+Serbia was drawn in [[UEFA Euro 2024 qualifying Group G|Group G]] in qualification for Euro 2024 with Hungary, Montenegro, Bulgaria and Lithuania.<ref>{{cite web |title=Odličan žreb za Srbiju: "Orlovi" favoriti u "balkanskoj" grupi G|url=https://www.rts.rs/lat/sport/fudbal/4978611/fudbal-kvalifikacije-zreb-euro-2024.html |website=Radio Television of Serbia |date=9 October 2022}}</ref> Serbia started the qualifying campaign with 2–0 wins against Lithuania in Belgrade and Montenegro in Podgorica in March 2023.<ref>{{cite web |title=Serbia 2-0 Lithuania |url=https://www.espn.co.uk/football/match/_/gameId/655258/lithuania-serbia |website=ESPN.co.uk |date=March 24, 2023}}</ref><ref>{{cite web |last1=José Díaz Pérez |first1=Juan |title=Highlights and goals: Montenegro 0-2 Serbia in Euro 2024 Qualifications |url=https://www.vavel.com/en-us/soccer/2023/03/27/1141922-montenegro-vs-serbia-live-updates-score-stream-info-lineups-and-how-to-watch-in-eurocup-qualification.html |website=vavel.com |date=March 27, 2023}}</ref> After a friendly match against Jordan in which Serbia won 3–2, Serbia ended up in a 1–1 draw against Bulgaria in Razgrad. For the next game against Hungary in Belgrade, Serbia was forced to play behind closed doors due to UEFA sanctioning the Serbian association chants against Montenegrins; Serbia eventually lost the game 1–2. The next game was another win against Lithuania in Kaunas, 3–1, with [[Aleksandar Mitrović]] scoring a hat-trick. On 14 October 2023, Serbia once again lost against Hungary in Budapest 1–2, but won against Montenegro in Belgrade 3–1 three days later. After the crucial final game against Bulgaria at home which ended in a 2–2 draw, Serbia ended the campaign in second place in group G with 14 points, qualifying for their first European Championship as an independent nation and in 24 years.<ref>{{Cite web|title=Serbia seal historic Euro 2024 finals place after nervy draw with Bulgaria|url=https://www.theguardian.com/football/2023/nov/19/euro-2024-qualifying-roundup-serbia-belgium-portugal-spain |website=[[The Guardian]] |date=19 November 2023}}</ref>
+
+In the tournament, Serbia was drawn into group C with England, Slovenia and Denmark. They lost 1–0 to England in the first game.<ref>{{cite news |last1=Schomberg |first1=William |last2=Kallas |first2=Fernando |title=England hang on to beat Serbia 1-0 with Bellingham header |url=https://www.reuters.com/sports/soccer/bellinghams-header-gives-england-1-0-euro-win-over-serbia-2024-06-16/ |work=Reuters |date=June 17, 2024}}</ref> They followed that up with a 1–1 draw with Slovenia, after [[Luka Jović]] scored a last minute equalizer in extra time.<ref>{{cite news |last1=Mackey |first1=Ed |title=How Serbia broke Slovenian hearts in exciting Euro 2024 draw |url=https://www.nytimes.com/athletic/live-blogs/slovenia-serbia-live-updates-euro-2024-score-result/DVFmAJHzcS1J/ |work=The New York Times |date=June 20, 2024}}</ref> They needed to beat Denmark in their last group stage match in order to advance, but came up with a 0–0 draw, resulting in their elimination.<ref>{{cite web |last1=Sanders |first1=Emma |title=Denmark 0-0 Serbia |url=https://www.bbc.com/sport/football/live/c977792vyznt |website=BBC Sport |date=June 25, 2024}}</ref>
+
+==Rivalries==
+* '''[[Croatia–Serbia football rivalry|Serbia v. Croatia]]''': The rivalry stems from [[Croatia–Serbia relations|political roots]], and is listed as one of the ten greatest international rivalries by [[Goal (website)|Goal.com]].<ref>{{cite web|url=http://www.goal.com/en/news/2377/top-10/2010/11/17/2216499/footballs-10-greatest-international-rivalries-argentina|title=Football's 10 Greatest International Rivalries|website=Goal.com|date=17 November 2010|access-date=12 January 2015|archive-date=22 June 2019|archive-url=https://web.archive.org/web/20190622153351/https://www.goal.com/en/news/2377/top-10/2010/11/17/2216499/footballs-10-greatest-international-rivalries-argentina|url-status=live}}</ref> and as the most politically charged football rivalry by the [[Bleacher Report]].<ref>{{cite web |url=http://stag-br-app-s5.brenv.net/articles/2233242-international-footballs-10-most-politically-charged-football-rivalries/page/11 |title=International Football's 10 Most Politically-Charged Football Rivalries &#124; Bleacher Report |access-date=15 October 2014 |url-status=dead |archive-url=https://web.archive.org/web/20160107214432/http://stag-br-app-s5.brenv.net/articles/2233242-international-footballs-10-most-politically-charged-football-rivalries/page/11 |archive-date=7 January 2016 }}</ref> The two sides started the football rivalry in the 1990 when they were part of Yugoslavia, which dissolved after a [[Yugoslav Wars|series of wars]]. The two nations have played four times, with Croatia winning one and drawing the other three games.<ref>{{cite web|url=https://www.fifa.com/fifa-tournaments/teams/compare.html|archive-url=https://web.archive.org/web/20150812234347/http://www.fifa.com/fifa-tournaments/teams/compare.html|url-status=dead|archive-date=12 August 2015|title=FIFA Tournaments - Compare Teams|website=FIFA.com|publisher=FIFA|access-date=27 August 2016}}</ref>
+* '''[[Albania–Serbia football rivalry|Serbia v. Albania]]''': The rivalry stems from [[Albania–Serbia relations|historical tensions]] and the [[Kosovo question]].<ref>{{Cite news|url=https://www.telegraph.co.uk/football/0/20-fiercest-international-football-rivalries/serbia-v-albania/ |archive-url=https://ghostarchive.org/archive/20220111/https://www.telegraph.co.uk/football/0/20-fiercest-international-football-rivalries/serbia-v-albania/ |archive-date=11 January 2022 |url-access=subscription |url-status=live|title = The 20 fiercest international football rivalries|newspaper = The Telegraph|date = 8 April 2018}}{{cbignore}}</ref> in which Albania has won two Matches and Serbia one Match so far. 
+* '''Serbia v. Switzerland''': The rivalry is connected to the [[Albanians in Switzerland|Albanian diaspora]] players in the Swiss football team and is linked to the tensions between the Albanians and the Serbs. The teams have faced each other 4 times, with Switzerland winning twice and Serbia once.<ref>{{cite news |last=Cunningham |first=Jack |date=1 December 2022 |title=Why are Serbia and Switzerland rivals? European nations to go head-to-head in Group G at the Qatar World Cup |url=https://talksport.com/football/1239762/serbia-vs-switzerland-rivals-history-kosovo-war-qatar-world-cup-xhaka-shaqiri/ |work=TalkSPORT |location= |access-date=9 February 2024}}</ref>
+
+==Team image==
+The badge of the [[Football Association of Serbia]] is modelled on the [[Serbian cross]] inescutcheon featured on the [[Coat of arms of Serbia|Serbian coat of arms]]. It consists of a modified version of the four firesteels and cross, with the addition of a football. The team is nicknamed "''the Eagles''" ([[Serbian Cyrillic alphabet|Serbian Cyrillic]]: ''Орлови'') in reference to the [[Serbian eagle|white double-headed eagle]], a [[National symbols of Serbia|national symbol of Serbia]].<ref>{{Cite web|title=Konkurs Za Novi GRB I Zastavu – Fudbalski savez Srbije menja vizuelni identitet|url=https://sport.blic.rs/a-m-p-article?uuid=60737903-92d3-49a5-a72e-79d0a4192217&type&id=PULS_CMS-Article-60737903-92d3-49a5-a72e-79d0a4192217&gem_id=zDhAsjBAM4sJJDzrazyWz8eAj8L85kOpLV2.bu1DJkv.g7&tpv=SPORT_MOBILE_FUDBAL/DOMACI_FUDBAL&tdv=SPORT_BLIC_RS/sportblic/fudbal/domaci_fudbal/ART|access-date=21 October 2021|website=sport.blic.rs|archive-date=21 October 2021|archive-url=https://web.archive.org/web/20211021120623/https://sport.blic.rs/a-m-p-article?uuid=60737903-92d3-49a5-a72e-79d0a4192217&type&id=PULS_CMS-Article-60737903-92d3-49a5-a72e-79d0a4192217&gem_id=zDhAsjBAM4sJJDzrazyWz8eAj8L85kOpLV2.bu1DJkv.g7&tpv=SPORT_MOBILE_FUDBAL/DOMACI_FUDBAL&tdv=SPORT_BLIC_RS/sportblic/fudbal/domaci_fudbal/ART|url-status=live}}</ref><ref>{{Cite web|title=O савезу|url=https://fss.rs/o-savezu/|access-date=21 October 2021|website=FSS|language=sr-cyrl|archive-date=21 October 2021|archive-url=https://web.archive.org/web/20211021055325/https://fss.rs/o-savezu/|url-status=live}}</ref><ref>{{Cite web|title=Nadimci Učesnika SP: Četiri puta Orlovi, Tri puta Lavovi, Dva Ne Znate, a kod Dva sigurno Grešite! (Foto)|url=https://www.srbijadanas.com/sport/fudbal/srbi-nisu-jedini-jos-dve-selekcije-zovu-orlovi-ovo-su-svi-nadimci-ucesnika-mondijala-foto-2017-11-13|access-date=21 October 2021|website=Srbija Danas|date=16 November 2017|language=sr|archive-date=21 October 2021|archive-url=https://web.archive.org/web/20211021120632/https://www.srbijadanas.com/sport/fudbal/srbi-nisu-jedini-jos-dve-selekcije-zovu-orlovi-ovo-su-svi-nadimci-ucesnika-mondijala-foto-2017-11-13|url-status=live}}</ref><ref name="srbija.gov.rs">{{Cite web|title=Симболи Србије|url=https://www.srbija.gov.rs/tekst/45627/simboli-srbije.php|access-date=21 October 2021|website=Srbija.gov.rs|language=sr|archive-date=21 October 2021|archive-url=https://web.archive.org/web/20211021120624/https://www.srbija.gov.rs/tekst/45627/simboli-srbije.php|url-status=live}}</ref><ref>{{Cite web|date=8 May 2010|title=Savremeni sport.com|url=http://www.savremenisport.com/Istorija_Prva_utakmica_i_pobeda_fudbalske_reprezentacije_Srbije.html|access-date=21 October 2021|archive-url=https://web.archive.org/web/20100508181511/http://www.savremenisport.com/Istorija_Prva_utakmica_i_pobeda_fudbalske_reprezentacije_Srbije.html|archive-date=8 May 2010}}</ref> The second nickname of the team is ''"the Blues"'' ([[Serbian Cyrillic alphabet|Serbian Cyrillic]]: ''Плави''), after the blue kits that the national team wore from 1920s to 2006 and again from 2025.<ref>{{Cite web |last=B92 |title=Fudbalska generacija SRJ 1998–2000: Kako su Srbi i Crnogorci činili jednu od najtalentovanijih ekipa Evrope - Promo - Promo - B92.sport |url=https://www.b92.net/sport/promo/promo/156730/fudbalska-generacija-srj-1998-2000-kako-su-srbi-i-crnogorci-cinili-jednu-od-najtalentovanijih-ekipa-evrope/vest |access-date=2025-09-09 |website=B92.net |language=sr}}</ref><ref>{{Cite web |last=Čolić |first=Nedeljko |title=Oživljavanje "plavih": Promena boja dresova fudbalske reprezentacije |url=https://www.nin.rs/drustvo/vesti/71615/promena-boja-dresova-fudbalske-reprezentacije-ozivljavanje-plavih |access-date=2025-09-09 |website=Nin online |language=sr}}</ref> In 2022 the Football Association of Serbia launched a new, national team specific emblem for [[brand]] and [[Marketing strategy|marketing]] purposes. The previous FA crest was replaced by a stylised logo inspired by the lesser coat of arms of the Republic of Serbia.<ref>{{Cite web |title=Tradicija, Jedinstvo I Hrabrost: Novi Dres Za Ponos Srbije Inspirisan UspehomZlatnih Orlića, A Reprezentativni GRB Istorijskim Nasleđem, Četiri Godine Je Rađeno Na Testiranju I Izradi Dresa Koji Je Težak Svega 72 Grama |url=https://fss.rs/tradicija-jedinstvo-i-hrabrost-novi-dres-za-ponos-srbije-inspirisan-uspehom-zlatnih-orlica-a-reprezentativni-grb-istorijskim-nasledjem-cetiri-godine-je-radjeno-na-testiranju-i-izradi-dresa-koji-j/?script=lat |access-date=2022-11-17 |website=Fudbalski savez Srbije |language=sr-RS |archive-date=17 November 2022 |archive-url=https://web.archive.org/web/20221117113416/https://fss.rs/tradicija-jedinstvo-i-hrabrost-novi-dres-za-ponos-srbije-inspirisan-uspehom-zlatnih-orlica-a-reprezentativni-grb-istorijskim-nasledjem-cetiri-godine-je-radjeno-na-testiranju-i-izradi-dresa-koji-j/?script=lat |url-status=live }}</ref>
+[[File:Serbian team.jpg|thumb|210px|Serbia team before a friendly match versus Ireland in Dublin in May 2008]]
+For years following the breakup of [[Socialist Federal Republic of Yugoslavia|SFR Yugoslavia]] the national team experienced an identity crisis, which despite its name, was seen as ''de facto'' representative of Serbia. From 1994 to 2006 the obsolete and unpopular [[League of Communists of Yugoslavia|Communist era]] national anthem "''[[Hey, Slavs|Hej, Sloveni]]''" was often jeered, booed and whistled by home supporters as players refrained from singing the lyrics. During this period the team continued to officially carry the old nickname "''Plavi''" (''the'' ''Blues''), badge and kit design indicative of the [[Flag of Yugoslavia|Yugoslav tricolour]].<ref>{{Cite web|title=Hoćemo novu himnu!|url=https://www.novosti.rs/vesti/sport.72.html:144427-Ho263emo-novu-himnu|access-date=21 October 2021|website=NOVOSTI|language=sr|archive-date=21 October 2021|archive-url=https://web.archive.org/web/20211021120624/https://www.novosti.rs/vesti/sport.72.html:144427-Ho263emo-novu-himnu|url-status=live}}</ref><ref name="srbija.gov.rs"/><ref>{{Cite web|title=Novi dresovi za SP|url=https://b92.net/sport/fudbal/vesti.php?yyyy=2006&mm=03&dd=01&nav_id=190023|access-date=21 October 2021|website=Bulevar B92|language=en|archive-date=23 October 2021|archive-url=https://web.archive.org/web/20211023224832/https://www.b92.net/sport/fudbal/vesti.php?dd=01&mm=03&nav_id=190023&yyyy=2006|url-status=live}}</ref>
+
+Following the [[2006 Montenegrin independence referendum|secession of Montenegro]] in 2006 the national team adopted red shirts, blue shorts and white socks in honor of the [[Flag of Serbia|Serbian tricolour]]. Between 2010 and 2016 a cross motif inspired by the country's coat of arms was incorporated in the jersey. In years Serbia has utilised all-red uniforms due to FIFA's kit clash regulations. Away kits are most commonly white with blue or white shorts.<ref>{{Cite news|date=4 June 2006|title=Montenegro declares independence|language=en-GB|url=https://news.bbc.co.uk/1/hi/world/europe/5043462.stm|access-date=21 October 2021|archive-date=11 September 2017|archive-url=https://web.archive.org/web/20170911232150/http://news.bbc.co.uk/1/hi/world/europe/5043462.stm|url-status=live}}</ref><ref>{{Cite web|url=https://www.telegraf.rs/sport/fudbal/3163817-od-orla-i-zlatnih-slova-preko-jeftine-prevare-do-4-ocila-najlepsi-i-najgori-dres-srbije-je|title=Od orla i zlatnih slova preko jeftine prevare do 4 ocila najlepši i najgori dres Srbije je...|date=10 March 2020 |language=sr|access-date=21 October 2021|archive-date=21 October 2021|archive-url=https://web.archive.org/web/20211021120624/https://www.telegraf.rs/amp/sport/fudbal/3163817-od-orla-i-zlatnih-slova-preko-jeftine-prevare-do-4-ocila-najlepsi-i-najgori-dres-srbije-je|url-status=live}}</ref> In 2025, the team officially returned to the traditional blue jerseys.<ref>{{Cite web |title=NOVA ERA. NOVA BOJA. NOVA ENERGIJA. {{!}} NOVI DRES SRBIJE, DIZAJN KOJI SPAJA TRADICIJU I INOVACIJU {{!}} Fudbalski savez Srbije |url=https://fss.rs/nova-era-nova-boja-nova-energija-novi-dres-srbije-dizajn-koji-spaja-tradiciju-i-inovaciju/?script=lat |access-date=2025-09-09 |language=sr-RS}}</ref><ref>{{Cite web |last=Nedeljković |first=Vojislav |date=2025-08-12 |title=Fudbaleri Srbije imaju novi dres - po prvi put će igrati u ovoj boji FOTO |url=https://nova.rs/sport/fudbal/srbija-plavi-dres-svetsko-prvenstvo/ |access-date=2025-09-09 |website=NOVA portal |language=sr-RS}}</ref> This decision was mostly approved by the public.<ref>{{Cite web |last=d.o.o |first=cubes |title=Reprezentacija u fudbalu ponovo u plavim dresovima - Nedeljnik |url=https://www.nedeljnik.rs/reprezentacija-u-fudbalu-ponovo-u-plavim-dresovima/ |access-date=2025-09-09 |website=www.nedeljnik.rs/ |language=sr-RS}}</ref><ref>{{Cite web |last=d.o.o |first=cubes |title=Kako je Srbija poplavela - Velike Priče |url=https://velikeprice.com/sport/srbija-novi-dresovi-fudbal-plavi/ |access-date=2025-09-09 |website=velikeprice.com/ |language=sr-RS}}</ref>
+
+[[File:Serbia - Slovenija football match in Belgrade, 2010.jpg|thumb|right|250px|The 53,000-capacity [[Red Star Stadium|Rajko Mitić Stadium]] is the largest in Serbia, and is often utilised for international fixtures.]]
+
+Serbia does not have an official national stadium and the team has played at grounds throughout the country. The [[Red Star Stadium|Rajko Mitić Stadium]] is the most popular venue following by [[Partizan Stadium]], both ground are located in the capital city [[Belgrade]].<ref>{{Cite web|title=Serbia National Stadium - Belgrade - The Stadium Guide|url=https://www.stadiumguide.com/serbia-national-stadium/|access-date=21 October 2021|language=nl|archive-date=12 October 2021|archive-url=https://web.archive.org/web/20211012193920/https://www.stadiumguide.com/serbia-national-stadium/|url-status=live}}</ref><ref>{{Cite web|title=New design: "Serbian Wembley", Vučić's grand vision – StadiumDB.com|url=http://stadiumdb.com/news/2021/01/new_design_serbian_wembley_vucics_grand_vision|access-date=21 October 2021|website=stadiumdb.com|archive-date=21 October 2021|archive-url=https://web.archive.org/web/20211021120624/http://stadiumdb.com/news/2021/01/new_design_serbian_wembley_vucics_grand_vision|url-status=live}}</ref><ref>{{Cite web|author=J.M.|date=20 March 2019|title=Marakana kroz istoriju - najveći srpski stadion |url=https://convivo.rs/sports/marakana/|access-date=21 October 2021|website=Convivo|language=sr-cyrl|archive-date=21 October 2021|archive-url=https://web.archive.org/web/20211021120624/https://convivo.rs/sports/marakana/|url-status=live}}</ref>
+
+===Kit sponsorship===
+{{Commons|Serbia national football team kits}}
+In July 2014, a partnership was announced between the [[Football Association of Serbia]] and English manufacturer [[Umbro]], which is Serbia's official supplier, before [[Puma (brand)|Puma]] took over with their home and away kits, debuting 7 September 2014 in the friendly match against [[France national football team|France]]. That same day, Serbia unveiled their latest kits also worn at the [[UEFA Euro 2016 qualifying Group I|Euro 2016 qualifiers campaign]].<ref>[http://www.football-shirts.co.uk/fans/serbia-sign-new-kit-deal-with-umbro_25575 Serbia set to sign new kit deal with Umbro?] {{Webarchive|url=https://web.archive.org/web/20140729204800/http://www.football-shirts.co.uk/fans/serbia-sign-new-kit-deal-with-umbro_25575 |date=29 July 2014 }} Football-shirts.co.uk 6 March 2014</ref> In January 2025, the Football Association of Serbia announced [[Capelli Sport]] as the new sponsor of the national team, replacing Puma.<ref>{{Cite news|url=https://www.footyheadlines.com/2024/12/serbia-macron-kit-deal.html|title=No More Puma: Serbia Announces Capelli Kit Deal|work=FootyHeadlines|date=23 January 2025|accessdate=21 March 2025}}</ref><ref>{{Cite news|url=https://www.footyheadlines.com/2025/01/serbia-2025-home-away-kits.html|title=Exclusive: Capelli Serbia 2025 Home & Away Kits Leaked - No More Puma|work=FootyHeadlines|date=23 January 2025|accessdate=21 March 2025}}</ref><ref>{{Cite web |last=d.o.o |first=cubes |title=Kako je Srbija poplavela - Velike Priče |url=https://velikeprice.com/sport/srbija-novi-dresovi-fudbal-plavi/ |access-date=2025-09-09 |website=velikeprice.com/ |language=sr-RS}}</ref>
+
+{| class="wikitable" style="text-align:center"
+|-
+! Kit Supplier
+! Period
+|-
+|align="Left"| {{flagicon|GER}} [[Adidas]] ||1974–2002
+|-
+|align="Left"| {{flagicon|ITA|2003}} [[Lotto Sport Italia|Lotto]] ||2002–2006
+|-
+|align="Left"| {{flagicon|USA}} [[Nike, Inc.|Nike]] ||2006–2014
+|-
+|align="Left"| {{flagicon|ENG}} [[Umbro]] ||2014–2018
+|-
+|align="Left"| {{flagicon|GER}} [[Puma (company)|Puma]] ||2018–2025
+|-
+|align="Left"| {{flagicon|USA}} [[Capelli Sport]] ||2025–present
+|}
+
+== Results and fixtures ==
+{{Main|Serbia national football team results}}
+
+The following is a list of match results in the last 12 months, as well as any future matches that have been scheduled.
+
+{{legend2|#CCFFCC|Win|border=1px solid #AAAAAA}}
+{{legend2|#FFFFCC|Draw|border=1px solid #AAAAAA}}
+{{legend2|#FFCCCC|Loss|border=1px solid #AAAAAA}}
+{{legend2|#FFFFFF|Fixture|border=1px solid #AAAAAA}}
+
+===2025===
+{{Football box collapsible|format=1
+|date              = 6 September 2025
+|time              = 15:00
+|round             = [[2026 FIFA World Cup qualification – UEFA Group K|2026 FIFA World Cup qualification]]
+|team1             = {{fb-rt|LVA}}
+|score             = 0–1
+|report            = [https://www.fifa.com/en/match-centre/match/520/288329/288330/400019380 Report (FIFA)]<br>[https://www.uefa.com/european-qualifiers/match/2044231/ Report (UEFA)]
+|team2             = {{flagdeco|SRB}} Serbia
+|goals1            =
+|goals2            =
+*[[Dušan Vlahović|Vlahović]] {{goal|12}}
+|stadium           = [[Daugava Stadium (Riga)|Daugava Stadium]]
+|location          = [[Riga]], Latvia
+|attendance        = 6,238
+|referee           = [[Julian Weinberger]] ([[Austrian Football Association|Austria]])
+|result            = W
+}}
+{{football box collapsible|format=1
+|date              = 9 September 2025
+|time              = 20:45
+|round             = [[2026 FIFA World Cup qualification – UEFA Group K|2026 FIFA World Cup qualification]]
+|team1             = Serbia {{flagdeco|SRB}}
+|score             = 0–5
+|report            = [https://www.fifa.com/en/match-centre/match/520/288329/288330/400019383 Report (FIFA)]<br>[https://www.uefa.com/european-qualifiers/match/2044254/ Report (UEFA)]
+|team2             = {{fb|ENG}}
+|goals1            =
+|goals2            =
+*[[Harry Kane|Kane]] {{goal|33}}
+*[[Noni Madueke|Madueke]] {{goal|35}}
+*[[Ezri Konsa|Konsa]] {{goal|52}}
+*[[Marc Guéhi|Guéhi]] {{goal|75}}
+*[[Marcus Rashford|Rashford]] {{goal|90|pen.}}
+|stadium           = [[Rajko Mitić Stadium]]
+|location          = [[Belgrade]], Serbia
+|attendance        = 39,789<ref>{{cite web |url=https://www.uefa.com/newsfiles/EURO/2026/2044254_FR.pdf |title=Full Time Report Qualifying round – Serbia v England |publisher=[[UEFA]] |date=9 September 2025 |access-date=9 September 2025}}</ref>
+|referee           = [[Clément Turpin]] ([[French Football Federation|France]])
+|result            = L
+}}
+{{football box collapsible|format=1
+|date              = 11 October 2025
+|time              = 20:45
+|round             = [[2026 FIFA World Cup qualification – UEFA Group K|2026 FIFA World Cup qualification]]
+|team1             = {{fb-rt|SRB}}
+|score             = 0–1
+|report            = [https://www.fifa.com/en/match-centre/match/520/288329/288330/400019382 Report (FIFA)]<br>[https://www.uefa.com/european-qualifiers/match/2044280/ Report (UEFA)]
+|team2             = {{fb|ALB}}
+|goals1            =
+|goals2            = [[Rey Manaj|Manaj]] {{goal|45+1}}
+|stadium           = [[Dubočica Stadium]]
+|location          = [[Leskovac]], Serbia
+|attendance        = 4,320
+|referee           = [[István Kovács (referee)|István Kovács]] ([[Romanian Football Federation|Romania]])
+|result            = L
+}}
+{{football box collapsible|format=1
+|date              = 14 October 2025
+|time              = 20:45
+|round             = [[2026 FIFA World Cup qualification – UEFA Group K|2026 FIFA World Cup qualification]]
+|team1             = {{fb-rt|AND}}
+|score             = 1–3
+|report            = [https://www.fifa.com/en/match-centre/match/520/288329/288330/400019368 Report (FIFA)]<br>[https://www.uefa.com/european-qualifiers/match/2044298/ Report (UEFA)]
+|team2             = {{fb|SRB}}
+|goals1            =
+*[[Guillaume López|López]] {{goal|17}}
+|goals2            =
+*[[Christian García (Andorran footballer)|Garcia]] {{goal|19|o.g.}}
+*[[Dušan Vlahović|Vlahović]] {{goal|54}}
+*[[Aleksandar Mitrović|Mitrović]] {{goal|77|pen.}}
+|stadium           = [[Estadi de la FAF]]
+|location          = [[Encamp]], Androrra
+|attendance        = 987
+|referee           = Anastasios Papapetrou ([[Hellenic Football Federation|Greece]])
+|result            = W
+}}
+{{football box collapsible|format=1
+|date              = 13 November 2025
+|time              = 20:45
+|round             = [[2026 FIFA World Cup qualification – UEFA Group K|2026 FIFA World Cup qualification]]
+|team1             = {{fb-rt|ENG}}
+|score             = 2–0
+|report            = [https://www.fifa.com/en/match-centre/match/520/288329/288330/400019376 Report (FIFA)]<br>[https://www.uefa.com/european-qualifiers/match/2044311/ Report (UEFA)]
+|team2             = {{fb|SRB}}
+|goals1            =
+*[[Bukayo Saka|Saka]] {{goal|28}}
+*[[Eberechi Eze|Eze]] {{goal|90}}
+|goals2            =
+|stadium           = [[Wembley Stadium]]
+|location          = [[London]], England
+|attendance        = 74,289<ref>{{cite web |url=https://www.uefa.com/newsfiles/EURO/2026/2044311_FR.pdf |title=Full Time Report Qualifying round – England v Serbia |publisher=[[UEFA]] |date=13 November 2025 |access-date= 13 November 2025}}</ref>
+|referee           = [[Ivan Kružliak]] ([[Slovak Football Association|Slovakia]])
+|result            = L
+}}
+{{football box collapsible|format=1
+|date              = 16 November 2025
+|time              = 18:00
+|round             = [[2026 FIFA World Cup qualification – UEFA Group K|2026 FIFA World Cup qualification]]
+|team1             = {{fb-rt|SRB}}
+|score             = 2–1
+|report            = [https://www.fifa.com/en/match-centre/match/520/288329/288330/400019384 Report (FIFA)]<br>[https://www.uefa.com/european-qualifiers/match/2044331/ Report (UEFA)]
+|team2             = {{fb|LVA}}
+|goals1            =
+*[[Aleksandar Katai|Katai]] {{goal|49}}
+*[[Aleksandar Stanković (footballer, born 2005)|Stanković]] {{goal|60}}
+|goals2            =
+*[[Vladislavs Gutkovskis|Gutkovskis]] {{goal|12}}
+|stadium           = [[Dubočica Stadium]]
+|location          = [[Leskovac]], Serbia
+|attendance        = 3,894
+|referee           = [[Ricardo de Burgos Bengoetxea]] ([[Royal Spanish Football Federation|Spain]])
+|result            = W
+}}
+
+===2026===
+{{Football box collapsible|format=1
+|round      = [[Exhibition match#International football|Friendly]]
+|date       = 27 March 2026
+|time       = {{UTZ|21:00|2}}
+|team1      = {{fb-rt|ESP}}
+|score      = 3–0
+|team2      = {{fb|SRB}}
+|report     = https://www.uefa.com/european-qualifiers/friendlies/match/2048161--spain-vs-serbia/
+|goals1     =
+*[[Mikel Oyarzabal|Oyarzabal]] {{goal|16||44}}
+*[[Víctor Muñoz (footballer, born 2003)|Muñoz]] {{goal|72}}
+|goals2     =
+|stadium    = [[Estadio de la Ceramica]]
+|location   = [[Villarreal]], Spain
+|attendance = 20,482
+|referee    = Luis Godinho ([[Portuguese Football Federation|Portugal]])
+|result     = L
+}}
+{{Football box collapsible|format=1
+|round      = [[Exhibition match#International football|Friendly]]
+|date       = 31 March 2026
+|time       = {{UTZ|18:00|2}}
+|team1      = {{fb-rt|SER}}
+|score      = 2–1
+|report     = https://us.soccerway.com/game/saudi-arabia-biSY8ox4/serbia-8Kl6iq0i/
+|team2      = {{fb|KSA}}
+|goals1     = 
+*[[Strahinja Pavlović|Pavlović]] {{goal|66}}
+*[[Aleksandar Mitrović|Mitrović]] {{goal|70}}
+|goals2     = 
+*[[Abdullah Al-Hamdan|Al-Hamdan]] {{goal|8}}
+|stadium    = [[TSC Arena]]
+|location   = [[Bačka Topola]], Serbia{{efn-ua|The Serbia v Saudi Arabia match, originally scheduled to be played at the [[Jassim bin Hamad Stadium]], [[Al Rayyan]], Qatar, was relocated to Serbia due to the [[2026 Iran war]].}}
+|attendance = 4,101
+|referee    = [[Balázs Berke (referee)|Balázs Berke]] ([[Hungarian Football Federation|Hungary]])
+|result     = W
+}}
+{{football box collapsible
+|format     = 1
+|round      = [[Exhibition game#Association football|Friendly]]
+|date       = 31 May 2026
+|time       = {{UTZ|17:00|2}}
+|team1      = {{fb-rt|CPV}}
+|score      = 3−0
+|team2      = {{fb|SRB}}
+|report     = https://www.fifa.com/en/match-centre/match/cesdwwnxbc5fmajgroc0hqzy2/dezv8l0fzgcxtejl0dwmy1gyc/2m1wojm5bt709wu4kugtytxqs/c4pq3e6ss6258jq1d6xodj6s4?date=2026-06-03&prev=competition
+|goals1     =
+*[[Kevin Pina (footballer)|Pina]] {{goal|11}}
+*[[Deroy Duarte|Duarte]] {{goal|59}}
+*[[Gilson Benchimol|Benchimol]] {{goal|63}}
+|goals2     =
+|location   = [[Lisbon]], Portugal
+|stadium    = [[Estádio do Restelo]]
+|attendance =
+|referee    = João António Gonçalves ([[Portuguese Football Federation|Portugal]])
+|result     = L
+}}
+{{football box collapsible
+|format     = 1
+|round      = [[Exhibition game#Association football|Friendly]]
+|date       = 4 June 2026
+|time       = {{UTZ|20:00|-6}}
+|team1      = {{fb-rt|MEX}}
+|score      = 5−1
+|team2      = {{fb|SRB}}
+|report     = https://www.fifa.com/en/match-centre/match/cesdwwnxbc5fmajgroc0hqzy2/dezv8l0fzgcxtejl0dwmy1gyc/2m1wojm5bt709wu4kugtytxqs/arw3gtwa77kspwxx2gz3oooic?date=2026-06-03&prev=competition
+|goals1     =
+*[[Johan Vásquez (footballer, born 1998)|Johan Vásquez]] {{goal|34}}
+*[[Stefan Bukinac|S. Bukinac]] {{goal|45+3|o.g.}}
+*[[Raúl Jiménez|R. Jiménez]] {{goal|57}}
+*[[Adem Avdić|A. Avdić]] {{goal|72|o.g.}}
+*[[Luis Chávez (footballer)|L. Chávez]] {{goal|90}}
+|goals2     =
+*[[Petar Stanić|P. Stanić]] {{goal|19}}
+
+|location   = [[Toluca]], Mexico
+|stadium    = [[Estadio Nemesio Diez]]
+|attendance = Keylor Herrera ([[Costa Rican Football Federation|Costa Rica]])
+|referee    =
+|result     = L
+}}
+{{football box collapsible
+|format= 1
+|date={{Start date|2026|9|24|df=y}}
+|time=20:45
+|round=[[2026–27 UEFA Nations League A#Group 2|2026–27 UEFA Nations League]]
+|team1={{fb-rt|SRB}}
+|score=
+|report=https://www.uefa.com/uefanationsleague/match/2048004/
+|team2={{fb|GRE}}
+|goals1=
+|goals2=
+|stadium= [[Rajko Mitić Stadium]]
+|location= [[Belgrade]], Serbia
+|attendance=
+|referee=
+}}
+{{football box collapsible
+|format= 1
+|date={{Start date|2026|9|27|df=y}}
+|time=18:00
+|round=[[2026–27 UEFA Nations League A#Group 2|2026–27 UEFA Nations League]]
+|team1={{fb-rt|SRB}}
+|score=
+|report=https://www.uefa.com/uefanationsleague/match/2047981/
+|team2={{fb|NED}}
+|goals1=
+|goals2=
+|stadium= [[Rajko Mitić Stadium]]
+|location= [[Belgrade]], Serbia
+|attendance=
+|referee=
+}}
+{{football box collapsible
+|format= 1
+|date={{Start date|2026|10|1|df=y}}
+|time=20:45
+|round=[[2026–27 UEFA Nations League A#Group 2|2026–27 UEFA Nations League]]
+|team1={{fb-rt|GER}}
+|score=
+|report=https://www.uefa.com/uefanationsleague/match/2047954/
+|team2={{fb|SRB}}
+|goals1=
+|goals2=
+|stadium= [[Allianz Arena]]
+|location= [[Munich]], Germany
+|attendance=
+|referee=
+}}
+{{football box collapsible
+|format= 1
+|date={{Start date|2026|10|4|df=y}}
+|time=20:45
+|round=[[2026–27 UEFA Nations League A#Group 2|2026–27 UEFA Nations League]]
+|team1={{fb-rt|NED}}
+|score=
+|report=https://www.uefa.com/uefanationsleague/match/2047925/
+|team2={{fb|SRB}}
+|goals1=
+|goals2=
+|location= [[Eindhoven]], Netherlands
+|stadium= [[Philips Stadion]]
+|attendance=
+|referee=
+}}
+{{football box collapsible
+|format= 1
+|date={{Start date|2026|11|13|df=y}}
+|time=20:45
+|round=[[2026–27 UEFA Nations League A#Group 2|2026–27 UEFA Nations League]]
+|team1={{fb-rt|SRB}}
+|score=
+|report=https://www.uefa.com/uefanationsleague/match/2047887/
+|team2={{fb|GER}}
+|goals1=
+|goals2=
+|stadium= [[Rajko Mitić Stadium]]
+|location= [[Belgrade]], Serbia
+|attendance=
+|referee=
+}}
+{{football box collapsible
+|format= 1
+|date={{Start date|2026|11|16|df=y}}
+|time=20:45&nbsp;{{small|(21:45 [[UTC+02:00|UTC+2]])}}
+|round=[[2026–27 UEFA Nations League A#Group 2|2026–27 UEFA Nations League]]
+|team1={{fb-rt|GRE}}
+|score=
+|report=https://www.uefa.com/uefanationsleague/match/2047912/
+|team2={{fb|SRB}}
+|goals1=
+|goals2=
+|stadium= [[Karaiskakis Stadium]]
+|location= [[Piraeus]], Greece
+|attendance=
+|referee=
+}}
+
+== Management ==
+{{updated|12 October 2025|<ref>{{cite web|url=https://fss.rs/selekcije/a-selekcija/?script=lat|title=Stručni štab|website=fss.rs|language=sr|access-date=10 September 2025}}</ref>}}
+{| class="wikitable"
+|+ Coaching staff
+! Position 
+! Name
+|-
+| Head coach
+|{{flagicon|SRB}} [[Veljko Paunović]]
+|-
+| Director of the A team
+|{{flagicon|SRB}} [[Stevan Stojanović]]
+|-
+| Assistant coach(es)
+| {{flagicon|POR}} [[Nuno Gomes (footballer, born 1978)|Nuno Gomes]]<hr />{{flagicon|RSA}} [[Quinton Fortune]]<hr />{{flagicon|ARG}} [[Claudio Arzeno]]<hr />{{flagicon|SRB}} [[Aleksandar Rogić]]
+|-
+| Fitness coach
+| {{flagicon|SPA}} Alberto Martinez Fernandez
+|-
+| Goalkeeping coach
+| {{flagicon|SPA}} Jesús Salvador Garrido
+|-
+| Analyst
+| {{flagicon|SRB}} Lazar Tomić<hr />{{flagicon|SRB}} Bogdan Milićević
+|-
+| Team manager(s)
+| {{flagicon|SRB}} Nemanja Filipović<hr />{{flagicon|SRB}} Dušan Gelić
+|-
+| Doctor(s)
+|{{flagicon|SRB}} Dejan Aleksandrić <br> {{flagicon|SRB}} Ilija Rosić
+|-
+| Physiotherapist(s)
+| {{flagicon|SRB}} Goran Zuvić<hr />{{flagicon|SRB}} Dejan Bogdanović<hr />{{flagicon|SRB}} Viktor Vujošević<hr />{{flagicon|SRB}} Zoran Vujić<hr />{{flagicon|SRB}} Nemanja Božić
+|-
+| Economist(s)
+| {{flagicon|SRB}} Danijel Dragaš<hr /> {{flagicon|SRB}} Nenad Dragaš
+|-
+| Security commissioner
+| {{flagicon|SRB}} Ivan Petrić
+|-
+| Spokesperson
+| {{flagicon|SRB}} Milan Vuković
+|}
+
+===Manager history===
+{{updated|4 June 2026}}
+
+{| class="wikitable" style="text-align: center"
+|-
+!rowspan="2"|Manager
+!rowspan="2"|Period
+!colspan="7"|Record
+!rowspan="2"|Major competitions
+|-
+||'''Matches'''||'''Won'''||'''Drawn'''||'''Lost'''||'''Win %'''||'''Draw %'''||'''Loss %'''
+|-
+|align=left|{{flagicon|SRB}} [[Veljko Paunović]]
+||2025–||6||2||0||4||33.33||0.00||66.66||align="left" |[[File:Symbol delete vote.svg|15px]] [[2026 FIFA World Cup|2026 World Cup]]&nbsp;– Failed to qualify <br>
+|-
+|align=left|{{flagicon|SRB}} ''[[Zoran Mirković]] (caretaker)'' ||2025||1||1||0||0||100.00||0.00||0.00||{{sort dash}}
+|-
+|align=left|{{flagicon|SRB}} [[Dragan Stojković]]|||2021–2025||55||26||14||15||47.27||25.45||27.27|| align="left" |[[File:Symbol delete vote.svg|15px]] [[2026 FIFA World Cup|2026 World Cup]]&nbsp;– Failed to qualify <br> [[File:Symbol confirmed.svg|15px]] [[UEFA Euro 2024|Euro 2024]]&nbsp;– Group stage<br/>[[File:Symbol confirmed.svg|15px]] [[2022 FIFA World Cup|2022 World Cup]]&nbsp;– Group stage
+|-
+|align=left|{{flagicon|SRB}} ''[[Ilija Stolica]] (caretaker)'' ||2021||2||0||2||0||0.00||100||0.00||{{sort dash}}
+|-
+|align=left|{{flagicon|SRB}} [[Ljubiša Tumbaković]]||2019–2020||14||6|||5||3||42.86||35.71||21.43||align=left|[[File:Symbol delete vote.svg|15px]] [[UEFA Euro 2020|Euro 2020]]&nbsp;– Failed to qualify
+|-
+|align=left|{{flagicon|SRB}} [[Mladen Krstajić]]||2017–2019||19||9||5||5||47.36||26.32||26.32||align=left rowspan=2|[[File:Symbol confirmed.svg|15px]] [[2018 FIFA World Cup|2018 World Cup]]&nbsp;– Group stage
+|-
+|align=left|{{flagicon|SRB}} [[Slavoljub Muslin]]||2016–2017||15||8||5||2||53.33||33.33||13.33
+|-
+|align=left|{{flagicon|SRB}} [[Radovan Ćurčić]]||2014–2016 ||11||5||0||6||45.45||0.00||55.55||align=left rowspan=2|[[File:Symbol delete vote.svg|15px]] [[UEFA Euro 2016|Euro 2016]]&nbsp;– Failed to qualify
+|-
+|align=left|{{flagicon|NED}} [[Dick Advocaat]]||2014 ||4||0|||2||2||0.00||50.00||50.00
+|-
+|align=left|{{flagicon|SRB}} ''[[Ljubinko Drulović]] (caretaker)''||2014||4||2|||1||1||50.00||25.00||25.00||{{sort dash}}
+|-
+|align=left|{{flagicon|SRB}} [[Siniša Mihajlović]]||2012–2013||19||7|||4||8||36.84||21.05||42.10||align=left|[[File:Symbol delete vote.svg|15px]] [[2014 FIFA World Cup|2014 World Cup]]&nbsp;– Failed to qualify
+|-
+|align=left|{{flagicon|SRB}} ''[[Radovan Ćurčić]] (caretaker)''||2011–2012||5||2||1||2||40.00||20.00||40.00||{{sort dash}}
+|-
+|align=left|{{flagicon|SRB}} [[Vladimir Petrović]]||2010–2011||13||5||3||5||38.46||23.08||38.46||align=left|[[File:Symbol delete vote.svg|15px]] [[UEFA Euro 2012|Euro 2012]]&nbsp;– Failed to qualify
+|-
+|align=left|{{flagicon|SER|2004}} [[Radomir Antić]]||2008–2010||28||17||3||8||60.71||10.71||28.57||align=left|[[File:Symbol confirmed.svg|15px]] [[2010 FIFA World Cup|2010 World Cup]]&nbsp;– Group stage
+|-
+|align=left|{{flagicon|SER|2004}} [[Miroslav Đukić]]||2007–2008||5||0||2||3||0.00||40.00||60.00||{{sort dash}}
+|-
+|align=left|{{flagicon|SPA}} [[Javier Clemente]]||2006–2007||16||7||7||2||43.75||43.75||12.50||align=left|[[File:Symbol delete vote.svg|15px]] [[UEFA Euro 2008|Euro 2008]]&nbsp;– Failed to qualify
+|-
+|align=left|{{flagicon|SCG}} [[Ilija Petković]]||2003–2006||30||11||10||9||36.66||33.33||30.00||align=left|[[File:Symbol confirmed.svg|15px]] [[2006 FIFA World Cup|2006 World Cup]]&nbsp;– Group stage
+|-
+|align=left|{{flagicon|SCG}} [[Dejan Savićević]]||2001–2003||17||4||3||10||23.53||17.65||58.82||align=left|[[File:Symbol delete vote.svg|15px]] [[UEFA Euro 2004|Euro 2004]]&nbsp;– Failed to qualify
+|-
+|align=left|{{flagicon|SCG}} [[Vujadin Boškov|Boškov]]-[[Ivan Ćurković|Ćurković]]-[[Dejan Savićević|Savićević]]||align=center|2001||8||4||2||2||50.00||25.00||25.00||align=left rowspan=2|[[File:Symbol delete vote.svg|15px]] [[2002 FIFA World Cup|2002 World Cup]]&nbsp;– Failed to qualify
+|-
+|align=left|{{flagicon|SCG}} [[Milovan Đorić]]||align=center|2001||3||0||2||1||0.00||66.67||33.33
+|-
+|align=left|{{flagicon|SCG}} [[Ilija Petković]]||2000–2001||4||2||1||1||50.00||25.00||25.00||{{sort dash}}
+|-
+|align=left|{{flagicon|SCG}} [[Vujadin Boškov]]||1999–2000||15||6||5||4||40.00||33.33||26.67|| align="left" |[[File:Symbol confirmed.svg|15px]] [[UEFA Euro 2000|Euro 2000]]&nbsp;– Quarter final
+|-
+|align=left|{{flagicon|SCG}} [[Milan Živadinović]]||1998–1999||6||3||2||1||50.00||33.33||16.67||{{sort dash}}
+|-
+|align=left|{{flagicon|SCG}} [[Slobodan Santrač]]||1994–1998||43||26||10||7||60.46||23.25||16.28||align=left|[[File:Symbol confirmed.svg|15px]] [[1998 FIFA World Cup|1998 World Cup]]&nbsp;– Round of 16
+|- style="background:#9acdff;"
+|align=left|{{flagicon|}}||'''TOTAL'''||''343''||''153''||''90''||''100''||''44.61''||''26.24''||''29.15''||'''7 out of 15'''
+|}
+''For the period before 1992 see: [[Yugoslavia national football team#Head coaches]]''
+
+==Players==
+===Current squad===
+*The following players were called up for the Friendly matches against [[Cape Verde national football team|Cape Verde]] and [[Mexico national football team|Mexico]], on 31 May and 4 June 2026.<ref>{{cite web|url=https://fss.rs/selektor-veljko-paunovic-sopstio-spisak-igraca-za-dve-prijateljske-utakmice-zelenortskih-ostrva-31-maja-i-meksika-5-juna|title=СЕЛЕКТОР ВЕЉКО ПАУНОВИЋ СAОПШТИО СПИСАК ИГРАЧА ЗА ДВЕ ПРИЈАТЕЉСКЕ УТАКМИЦЕ, ПРОТИВ ЗЕЛЕНОРТСКИХ ОСТРВА 31. МАЈА И МЕКСИКА 5. ЈУНА|language=sr-Lat|publisher=[[Football Association of Serbia]]|date=26 May 2026}}</ref><ref>{{cite web|url=https://fss.rs/petrovic-umesto-milosavljevica|title=ПЕТРОВИЋ УМЕСТО МИЛОСАВЉЕВИЋА|language=sr-Lat|publisher=[[Football Association of Serbia]]|date=27 May 2026}}</ref><ref>{{cite web|url=https://fss.rs/posle-utakmice-u-lisabonu-tri-igraca-oslobodjena-obaveza-za-meksiko|title=ПОСЛЕ УТАКМИЦЕ У ЛИСАБОНУ ТРИ ИГРАЧА ОСЛОБОЂЕНА ОБАВЕЗА ЗА МЕКСИКО|language=sr-Lat|publisher=[[Football Association of Serbia]]|date=31 May 2026}}</ref>
+*''Caps and goals are correct {{as of|2026|6|4|lc=y}}, after the match against [[Mexico national football team|Mexico]].''
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Filip Stanković (footballer, born 2002)|Filip Stanković]]|age={{Birth date and age|2002|2|25|df=y}}|caps=2|goals=0|club=[[Venezia FC|Venezia]]|clubnat=ITA}}
+{{nat fs g player|no=12|pos=GK|name=[[Veljko Ilić]]|age={{Birth date and age|2003|7|21|df=y}}|caps=1|goals=0|club=[[Widzew Łódź]]|clubnat=POL}}
+{{nat fs g player|no=23|pos=GK|name=[[Luka Lijeskić]]|age={{Birth date and age|2005|2|23|df=y}}|caps=0|goals=0|club=[[FK Radnički 1923|Radnički 1923]]|clubnat=SRB}}
+{{nat fs break}}
+{{nat fs g player|no=16|pos=DF|name=[[Strahinja Eraković]]|age={{Birth date and age|2001|1|22|df=y}}|caps=22|goals=1|club=[[Red Star Belgrade]]|clubnat=SRB}}
+{{nat fs g player|no=17|pos=DF|name=[[Kosta Nedeljković]]|age={{Birth date and age|2005|12|16|df=y}}|caps=11|goals=0|club=[[RB Leipzig]]|clubnat=GER}}
+{{nat fs g player|no=2|pos=DF|name=[[Ognjen Mimović]]|age={{Birth date and age|2004|8|17|df=y}}|caps=8|goals=0|club=[[Pafos FC|Pafos]]|clubnat=CYP}}
+{{nat fs g player|no=25|pos=DF|name=[[Stefan Bukinac]]|age={{Birth date and age|2005|7|8|df=y}}|caps=3|goals=0|club=[[BSC Young Boys|Young Boys]]|clubnat=SUI}}
+{{nat fs g player|no=15|pos=DF|name=[[Adem Avdić]]|age={{Birth date and age|2007|9|24|df=y}}|caps=2|goals=0|club=[[Red Star Belgrade]]|clubnat=SRB}}
+{{nat fs g player|no=26|pos=DF|name=[[Vukašin Đurđević]]|age={{Birth date and age|2004|1|24|df=y}}|caps=2|goals=0|club=[[FK Partizan|Partizan]]|clubnat=SRB}}
+{{nat fs g player|no=4|pos=DF|name=[[Nikola Simić (footballer, born 2007)|Nikola Simić]]|age={{Birth date and age|2007|3|30|df=y}}|caps=2|goals=0|club=[[FK Partizan|Partizan]]|clubnat=SRB}}
+{{nat fs g player|no=13|pos=DF|name=[[Mirko Milikić]]|age={{Birth date and age|2001|12|24|df=y}}|caps=1|goals=0|club=[[FK Železničar Pančevo|Železničar Pančevo]]|clubnat=SRB}}
+{{nat fs g player|no=3|pos=DF|name=[[Petar Petrović (footballer, born 2005)|Petar Petrović]]|age={{Birth date and age|2005|7|13|df=y}}|caps=1|goals=0|club=[[FK Javor Ivanjica|Javor Ivanjica]]|clubnat=SRB}}
+{{nat fs break}}
+{{nat fs g player|no=7|pos=MF|name=[[Veljko Birmančević]]|age={{Birth date and age|1998|3|5|df=y}}|caps=17|goals=0|club=[[Getafe CF|Getafe]]|clubnat=ESP}}
+{{nat fs g player|no=20|pos=MF|name=[[Andrija Maksimović]]|age={{Birth date and age|2007|6|5|df=y}}|caps=9|goals=0|club=[[RB Leipzig]]|clubnat=GER}}
+{{nat fs g player|no=10|pos=MF|name=[[Aleksandar Stanković (footballer, born 2005)|Aleksandar Stanković]]|age={{Birth date and age|2005|8|3|df=y}}|caps=8|goals=1|club=[[Inter Milan]]|clubnat=ITA}}
+{{nat fs g player|no=5|pos=MF|name=[[Njegoš Petrović]]|age={{Birth date and age|1999|7|18|df=y}}|caps=3|goals=0|club=[[FK Vojvodina|Vojvodina]]|clubnat=SRB}}
+{{nat fs g player|no=11|pos=MF|name=[[Lazar Ranđelović]]|age={{Birth date and age|1997|8|5|df=y}}|caps=3|goals=0|club=[[FK Vojvodina|Vojvodina]]|clubnat=SRB}}
+{{nat fs g player|no=21|pos=MF|name=[[Vladimir Lučić (footballer)|Vladimir Lučić]]|age={{Birth date and age|2002|6|28|df=y}}|caps=3|goals=0|club=[[Red Star Belgrade]]|clubnat=SRB}}
+{{nat fs g player|no=22|pos=MF|name=[[Vasilije Kostov]]|age={{Birth date and age|2008|5|11|df=y}}|caps=3|goals=0|club=[[Red Star Belgrade]]|clubnat=SRB}}
+{{nat fs g player|no=8|pos=MF|name=[[Dejan Zukić]]|age={{Birth date and age|2001|5|7|df=y}}|caps=3|goals=0|club=[[Wolfsberger AC]]|clubnat=AUT}}
+{{nat fs g player|no=24|pos=MF|name=[[Petar Stanić]]|age={{Birth date and age|2001|8|14|df=y}}|caps=2|goals=1|club=[[PFC Ludogorets Razgrad|Ludogorets Razgrad]]|clubnat=BUL}}
+{{nat fs g player|no=6|pos=MF|name=[[Vanja Dragojević]]|age={{Birth date and age|2006|1|11|df=y}}|caps=2|goals=0|club=[[FK Partizan|Partizan]]|clubnat=SRB}}
+{{nat fs break}}
+{{nat fs g player|no=18|pos=FW|name=[[Nikola Štulić]]|age={{Birth date and age|2001|9|8|df=y}}|caps=4|goals=0|club=[[US Lecce|Lecce]]|clubnat=ITA}}
+{{nat fs g player|no=19|pos=FW|name=[[Mihailo Ivanović (footballer)|Mihailo Ivanović]]|age={{Birth date and age|2004|11|29|df=y}}|caps=3|goals=0|club=[[Millwall F.C.|Millwall]]|clubnat=ENG}}
+{{nat fs end}}
+
+===Recent call-ups===
+The following players have been called up for the team within the last twelve months and are still available for selection.
+<!--Sorted by position, date of birth, caps, goals and most recent call-up.-->
+{{nat fs r start}}
+{{nat fs r player|no=|pos=GK|name=[[Predrag Rajković]]|age={{Birth date and age|1995|10|31|df=y}}|caps=44|goals=0|club=[[Al-Ittihad Club (Jeddah)|Al-Ittihad]]|clubnat=KSA|latest=v. {{fb|KSA}}, 31 March 2026}}
+{{nat fs r player|no=|pos=GK|name=[[Vanja Milinković-Savić]]|age={{Birth date and age|1997|2|20|df=y}}|caps=20|goals=0|club=[[SSC Napoli|Napoli]]|clubnat=ITA|latest=v. {{fb|KSA}}, 31 March 2026}}
+{{nat fs r player|no=|pos=GK|name=[[Đorđe Petrović (footballer)|Đorđe Petrović]]|age={{Birth date and age|1999|10|8|df=y}}|caps=12|goals=0|club=[[AFC Bournemouth|Bournemouth]]|clubnat=ENG|latest=v. {{fb|KSA}}, 31 March 2026}}
+{{nat fs r player|no=|pos=GK|name=[[Vuk Draškić]]|age={{Birth date and age|2007|5|11|df=y}}|caps=0|goals=0|club=[[FK Železničar Pančevo|Železničar Pančevo]]|clubnat=SRB|latest=v. {{fb|AND}}, 14 October 2025}}
+{{nat fs r player|no=|pos=GK|name=[[Dragan Rosić]]|age={{Birth date and age|1996|11|15|df=y}}|caps=1|goals=0|club=[[FK Vojvodina|Vojvodina]]|clubnat=SRB|latest=v. {{fb|ALB}}, 11 October 2025<sup>INJ</sup>}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=DF|name=[[Strahinja Pavlović]]|age={{Birth date and age|2001|5|24|df=y}}|caps=55|goals=5|club=[[AC Milan|Milan]]|clubnat=ITA|latest=v. {{fb|CPV}}, 31 May 2026<sup>WD</sup>}}
+{{nat fs r player|no=|pos=DF|name=[[Veljko Milosavljević]]|age={{Birth date and age|2007|6|28|df=y}}|caps=2|goals=0|club=[[AFC Bournemouth|Bournemouth]]|clubnat=ENG|latest=v. {{fb|CPV}}, 31 May 2026<sup>INJ</sup>}}
+{{nat fs r player|no=|pos=DF|name=[[Nikola Milenković]]|age={{Birth date and age|1997|10|12|df=y}}|caps=71|goals=3|club=[[Nottingham Forest F.C.|Nottingham Forest]]|clubnat=ENG|other=[[Captain (association football)|third captain]]|latest=v. {{fb|KSA}}, 31 March 2026}}
+{{nat fs r player|no=|pos=DF|name=[[Miloš Veljković]]|age={{Birth date and age|1995|9|26|df=y}}|caps=39|goals=1|club=[[Red Star Belgrade]]|clubnat=SRB|latest=v. {{fb|KSA}}, 31 March 2026}}
+{{nat fs r player|no=|pos=DF|name=[[Aleksa Terzić]]|age={{Birth date and age|1999|8|17|df=y}}|caps=15|goals=1|club=[[FC Red Bull Salzburg|Red Bull Salzburg]]|clubnat=AUT|latest=v. {{fb|KSA}}, 31 March 2026}}
+{{nat fs r player|no=|pos=DF|name=[[Mihailo Ristić (footballer)|Mihailo Ristić]]|age={{Birth date and age|1995|10|31|df=y}}|caps=9|goals=0|club=[[Free agent|''Unattached'']]|clubnat=|latest=v. {{fb|LAT}}, 16 November 2025}}
+{{nat fs r player|no=|pos=DF|name=[[Jan-Carlo Simić]]|age={{Birth date and age|2005|5|2|df=y}}|caps=6|goals=0|club=[[Al-Ittihad Club (Jeddah)|Al-Ittihad]]|clubnat=KSA|latest=v. {{fb|AND}}, 14 October 2025}}
+{{nat fs r player|no=|pos=DF|name=[[Srđan Babić]]|age={{Birth date and age|1996|4|22|df=y}}|caps=10|goals=1|club=[[FC Spartak Moscow|Spartak Moscow]]|clubnat=RUS|latest=v. {{fb|ENG}}, 9 September 2025}}
+{{nat fs r player|no=|pos=DF|name=[[Nemanja Stojić]]|age={{Birth date and age|1998|1|15|df=y}}|caps=4|goals=0|club=[[PFC Sochi|Sochi]]|clubnat=RUS|latest=v. {{fb|ENG}}, 9 September 2025}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=MF|name=[[Andrija Živković]]|age={{Birth date and age|1996|7|11|df=y}}|caps=62|goals=1|club=[[PAOK FC|PAOK]]|clubnat=GRE|latest=v. {{fb|CPV}}, 31 May 2026<sup>WD</sup>}}
+{{nat fs r player|no=|pos=MF|name=[[Nemanja Gudelj]]|age={{Birth date and age|1991|11|16|df=y}}|caps=75|goals=1|club=[[Free agent|''Unattached'']]|clubnat=|latest=v. {{fb|KSA}}, 31 March 2026}}
+{{nat fs r player|no=|pos=MF|name=[[Filip Kostić]]|age={{Birth date and age|1992|11|1|df=y}}|caps=72|goals=3|club=[[Free agent|''Unattached'']]|clubnat=|other=[[Captain (association football)|vice-captain]]|latest=v. {{fb|KSA}}, 31 March 2026}}
+{{nat fs r player|no=|pos=MF|name=[[Saša Lukić]]|age={{Birth date and age|1996|8|13|df=y}}|caps=62|goals=2|club=[[Fulham F.C.|Fulham]]|clubnat=ENG|latest=v. {{fb|KSA}}, 31 March 2026}}
+{{nat fs r player|no=|pos=MF|name=[[Nemanja Maksimović]]|age={{Birth date and age|1995|1|26|df=y}}|caps=60|goals=1|club=[[Shabab Al-Ahli]]|clubnat=UAE|latest=v. {{fb|KSA}}, 31 March 2026}}
+{{nat fs r player|no=|pos=MF|name=[[Sergej Milinković-Savić]]|age={{Birth date and age|1995|2|27|df=y}}|caps=56|goals=9|club=[[Al Hilal SFC|Al-Hilal]]|clubnat=KSA|latest=v. {{fb|KSA}}, 31 March 2026}}
+{{nat fs r player|no=|pos=MF|name=[[Mijat Gaćinović]]|age={{Birth date and age|1995|2|8|df=y}}|caps=30|goals=2|club=[[AEK Athens F.C.|AEK Athens]]|clubnat=GRE|latest=v. {{fb|KSA}}, 31 March 2026}}
+{{nat fs r player|no=|pos=MF|name=[[Lazar Samardžić]]|age={{Birth date and age|2002|2|24|df=y}}|caps=28|goals=1|club=[[Atalanta BC|Atalanta]]|clubnat=ITA|latest=v. {{fb|KSA}}, 31 March 2026}}
+{{nat fs r player|no=|pos=MF|name=[[Nemanja Radonjić]]|age={{Birth date and age|1996|2|15|df=y}}|caps=46|goals=5|club=[[Free agent|''Unattached'']]|clubnat=|latest=v. {{fb|LAT}}, 16 November 2025}}
+{{nat fs r player|no=|pos=MF|name=[[Marko Grujić]]|age={{Birth date and age|1996|4|13|df=y}}|caps=30|goals=0|club=[[AEK Athens F.C.|AEK Athens]]|clubnat=GRE|latest=v. {{fb|LAT}}, 16 November 2025}}
+{{nat fs r player|no=|pos=MF|name=[[Ivan Ilić (footballer, born 2001)|Ivan Ilić]]|age={{Birth date and age|2001|3|17|df=y}}|caps=24|goals=0|club=[[Torino FC|Torino]]|clubnat=ITA|latest=v. {{fb|LAT}}, 16 November 2025}}
+{{nat fs r player|no=|pos=MF|name=[[Aleksandar Katai]]|age={{Birth date and age|1991|2|6|df=y}}|caps=13|goals=1|club=[[Red Star Belgrade]]|clubnat=SRB|latest=v. {{fb|LAT}}, 16 November 2025}}
+{{nat fs r player|no=|pos=MF|name=[[Luka Ilić]]|age={{Birth date and age|1999|7|2|df=y}}|caps=1|goals=1|club=[[Real Oviedo|Oviedo]]|clubnat=ESP|latest=v. {{fb|LAT}}, 16 November 2025}}
+{{nat fs r player|no=|pos=MF|name=[[Stefan Mitrović (footballer, born August 2002)|Stefan Mitrović]]|age={{Birth date and age|2002|8|15|df=y}}|caps=10|goals=0|club=[[Asteras Tripolis F.C.|Asteras Tripolis]]|clubnat=GRE|latest=v. {{fb|AND}}, 14 October 2025}}
+{{nat fs r player|no=|pos=MF|name=[[Ognjen Ugrešić]]|age={{Birth date and age|2006|7|15|df=y}}|caps=1|goals=0|club=[[FK Partizan|Partizan]]|clubnat=SRB|latest=v. {{fb|AND}}, 14 October 2025}}
+{{nat fs r player|no=|pos=MF|name=[[Uroš Račić]]|age={{Birth date and age|1998|3|17|df=y}}|caps=13|goals=0|club=[[Aris Thessaloniki F.C.|Aris]]|clubnat=GRE|latest=v. {{fb|ENG}}, 9 September 2025}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=FW|name=[[Jovan Milošević]]|age={{Birth date and age|2005|7|31|df=y}}|caps=2|goals=0|club=[[SV Werder Bremen|Werder Bremen]]|clubnat=GER|latest=v. {{fb|CPV}}, 31 May 2026<sup>WD</sup>}}
+{{nat fs r player|no=|pos=FW|name=[[Aleksandar Mitrović]]|other=[[Captain (association football)|captain]]|age={{Birth date and age|1994|9|16|df=y}}|caps=106|goals=64|club=[[Al-Rayyan SC|Al-Rayyan]]|clubnat=QAT|latest=v. {{fb|KSA}}, 31 March 2026}}
+{{nat fs r player|no=|pos=FW|name=[[Luka Jović]]|age={{Birth date and age|1997|12|23|df=y}}|caps=52|goals=11|club=[[AEK Athens F.C.|AEK Athens]]|clubnat=GRE|latest=v. {{fb|KSA}}, 31 March 2026}}
+{{nat fs r player|no=|pos=FW|name=[[Dejan Joveljić]]|age={{Birth date and age|1999|8|7|df=y}}|caps=9|goals=2|club=[[Sporting Kansas City]]|clubnat=USA|latest=v. {{fb|KSA}}, 31 March 2026}}
+{{nat fs r player|no=|pos=FW|name=[[Petar Ratkov]]|age={{Birth date and age|2003|8|18|df=y}}|caps=3|goals=0|club=[[SS Lazio|Lazio]]|clubnat=ITA|latest=v. {{fb|KSA}}, 31 March 2026}}
+{{nat fs r player|no=|pos=FW|name=[[Dušan Vlahović]]|age={{Birth date and age|2000|1|28|df=y}}|caps=41|goals=16|club=[[Free agent|''Unattached'']]|clubnat=|latest=v. {{fb|LAT}}, 16 November 2025}}
+{{nat fs r player|no=|pos=FW|name=[[Mihajlo Cvetković]]|age={{Birth date and age|2007|1|10|df=y}}|caps=2|goals=0|club=[[RSC Anderlecht|Anderlecht]]|clubnat=BEL|latest=v. {{fb|AND}}, 14 October 2025}}
+{{nat fs r player|no=|pos=FW|name=[[Andrej Ilić]]|age={{Birth date and age|2000|4|3|df=y}}|caps=1|goals=0|club=[[1. FC Union Berlin|Union Berlin]]|clubnat=GER|latest=v. {{fb|AND}}, 14 October 2025}}
+{{nat fs break}}
+;Notes:
+* <sup>INJ</sup> = Not part of the [[#Current squad|current squad]] due to injury.
+* <sup>PRE</sup> = Preliminary squad/standby.
+<!-- * <sup>RET</sup> = Retired from the national team.
+* <sup>SUS</sup> = Not available in next match due to red card suspension.
+* <sup>WD</sup> = Player withdrew from the current squad due to non-injury issue. -->
+{{nat fs end}}
+
+===Previous squads===
+{{col-begin}}
+{{col-2}}
+;FIFA World Cup squads:
+* [[1930 FIFA World Cup squads#Yugoslavia|1930 FIFA World Cup squad]]
+* [[1950 FIFA World Cup squads#Yugoslavia|1950 FIFA World Cup squad]]
+* [[1954 FIFA World Cup squads#Yugoslavia|1954 FIFA World Cup squad]]
+* [[1958 FIFA World Cup squads#Yugoslavia|1958 FIFA World Cup squad]]
+* [[1962 FIFA World Cup squads#Yugoslavia|1962 FIFA World Cup squad]]
+* [[1974 FIFA World Cup squads#Yugoslavia|1974 FIFA World Cup squad]]
+* [[1982 FIFA World Cup squads#Yugoslavia|1982 FIFA World Cup squad]]
+* [[1990 FIFA World Cup squads#Yugoslavia|1990 FIFA World Cup squad]]
+* [[1998 FIFA World Cup squads#FR Yugoslavia|1998 FIFA World Cup squad]]
+* [[2006 FIFA World Cup squads#Serbia and Montenegro|2006 FIFA World Cup squad]]
+* [[Serbia squad&nbsp;– 2010 FIFA World Cup|2010 FIFA World Cup squad]]
+* [[2018 FIFA World Cup squads#Serbia|2018 FIFA World Cup squad]]
+* [[2022 FIFA World Cup squads#Serbia|2022 FIFA World Cup squad]]
+{{col-2}}
+;UEFA European Championship squads:
+* [[UEFA Euro 1960 squads#Yugoslavia|UEFA Euro 1960 squad]]
+* [[UEFA Euro 1968 squads#Yugoslavia|UEFA Euro 1968 squad]]
+* [[UEFA Euro 1976 squads#Yugoslavia|UEFA Euro 1976 squad]]
+* [[UEFA Euro 1984 squads#Yugoslavia|UEFA Euro 1984 squad]]
+* [[UEFA Euro 2000 squads#FR Yugoslavia|UEFA Euro 2000 squad]]
+* [[UEFA Euro 2024 squads#Serbia|UEFA Euro 2024 squad]]
+{{col-2}}
+{{col-end}}
+
+==Player records==
+{{updated|31 March 2026}}<ref>{{cite web |last1=Mamrud |first1=Roberto |title=Yugoslavia (Serbia (and Montenegro)) - Record International Players |url=https://www.rsssf.org/miscellaneous/joeg-recintlp.html |website=RSSSF |access-date=2 February 2023 |archive-date=27 November 2022 |archive-url=https://web.archive.org/web/20221127154643/https://www.rsssf.org/miscellaneous/joeg-recintlp.html |url-status=live }}</ref>
+:''Players in '''bold''' are still active with Serbia.''
+
+===Most capped players===
+[[File:Dušan Tadić (cropped).jpg|175px|thumb|right|Dušan Tadić is Serbia's most-capped player with 111 appearances.]]
+
+{| class="wikitable sortable" style="text-align:center;"
+|-
+!width="30"|Rank
+! style="width:150px;"|Player
+!width="50"|Caps
+!width="50"|Goals
+!width="50"|{{Tooltip|Pos.|Position}}
+! style="width:100px;"|Career
+|-
+|1
+|style="text-align: left;"|[[Dušan Tadić]]
+|'''111'''
+|23
+|[[Midfielder|MF]]
+|2008–2024
+|-
+|2
+|style="text-align: left;"|'''[[Aleksandar Mitrović]]'''
+|'''106'''
+|64
+|[[Forward (association football)|FW]]
+|2013–present 
+|-
+|3
+|style="text-align: left;"|[[Branislav Ivanović]]
+|'''105'''
+|13
+|[[Defender (association football)|DF]]
+|{{nowrap|2005–2018}}
+|-
+|4
+|style="text-align: left;"|[[Dejan Stanković]]
+|'''103'''
+|15
+|[[Midfielder|MF]]
+|1998–2013
+|-
+|5
+|style="text-align: left;"|[[Savo Milošević]]
+|'''102'''
+|37
+|[[Forward (association football)|FW]]
+|1994–2008
+|-
+|6
+|style="text-align: left;"|[[Aleksandar Kolarov]]
+|'''94'''
+|11
+|[[Defender (association football)|DF]]
+|2008–2020
+|-
+|7
+|style="text-align: left;"|[[Dragan Džajić]]
+|'''85'''
+|23
+|[[Midfielder|MF]]
+|1964–1979
+|-
+|rowspan="2"|8
+|style="text-align: left;"|[[Dragan Stojković]]
+|'''84'''
+|15
+|[[Midfielder|MF]]
+|1983–2001
+|-
+|style="text-align: left;"|[[Vladimir Stojković]]
+|'''84'''
+|0
+|[[Goalkeeper (association football)|GK]]
+|2006–2018
+|-
+|10
+|style="text-align: left;"|[[Zoran Tošić]]
+|'''76'''
+|11
+|[[Midfielder|MF]]
+|2007–2016
+|}
+
+===Top goalscorers===
+[[File:Aleksandar Mitrović 2018 (cropped).jpg|200px|thumb|right|Aleksandar Mitrović is Serbia's top goalscorer with 64 goals.]]
+
+{| class="wikitable sortable" style="text-align:center;"
+|-
+!width="30"|Rank
+! style="width:150px;"|Player
+!width="50"|Goals
+!width="50"|Caps
+!width="50"|Ratio
+! style="width:100px;"|Career
+|-
+|1
+|align="left"|'''[[Aleksandar Mitrović]]'''
+|'''[[List of international goals scored by Aleksandar Mitrović|64]]'''
+|106
+|0.60
+|2013–present 
+|-
+|2
+|align="left"|[[Stjepan Bobek]]
+|'''38'''
+|63
+|0.60
+|{{nowrap|1946–1956}}
+|-
+|rowspan="3"|3
+|align="left"|[[Milan Galić]]
+|'''37'''
+|51
+|0.73
+|1959–1965
+|-
+|align="left"|[[Blagoje Marjanović]]
+|'''37'''
+|58
+|0.64
+|1926–1938
+|-
+|align="left"|[[Savo Milošević]]
+|'''37'''
+|102
+|0.36
+|1994–2008
+|-
+|6
+|align="left"|[[Rajko Mitić]]
+|'''32'''
+|59
+|0.54
+|1946–1957
+|-
+|7
+|align="left"|[[Dušan Bajević]]
+|'''29'''
+|37
+|0.78
+|1970–1977
+|-
+|8
+|align="left"|[[Todor Veselinović]]
+|'''28'''
+|37
+|0.76
+|1953–1961
+|-
+|9
+|align="left"|[[Predrag Mijatović]]
+|'''27'''
+|73
+|0.37
+|1989–2003
+|-
+|10
+|align="left"| [[Borivoje Kostić]]
+|'''26'''
+|33
+|0.79
+|1956–1964
+|}
+
+===Captains (since 1994)===
+{| class="wikitable" center"
+|-
+!Player
+!Period
+!Tournaments as the captain
+|-
+|align=left|[[Dragan Stojković]]||{{nowrap|1994–2001}}||[[1998 FIFA World Cup]], [[UEFA Euro 2000]]
+|-
+|align=left|[[Predrag Mijatović]]|| 2001–2003||—
+|- 
+|align=left|[[Savo Milošević]]||2003–2006||[[2006 FIFA World Cup]]
+|-
+|align=left|[[Dejan Stanković]]||2006–2011||[[2010 FIFA World Cup]]
+|-
+|align=left|[[Nikola Žigić]]||{{center|2011}}||—
+|-
+|align=left|[[Branislav Ivanović]]||2012–2017||—
+|-
+|align=left|[[Aleksandar Kolarov]]||2018–2020||[[2018 FIFA World Cup]]
+|-
+|align=left|[[Dušan Tadić]]||{{left|2021–2024}}||[[2022 FIFA World Cup]], [[UEFA Euro 2024]]
+|-
+|align=left|[[Aleksandar Mitrović]]||left|2024–||—
+|}
+
+== Notable players ==
+{{for|notable players of [[Yugoslavia national football team|Yugoslavia]]|Yugoslavia national football team#Notable_players}}
+
+;Goalkeepers
+<gallery>
+File:Ivica Kralj, 2009.jpg|[[Ivica Kralj]] played for the team from 1996 to 2001
+File:Vladimir Stojković 2018 (cropped).jpg|[[Vladimir Stojković]] is the most capped goalkeeper in the team's history with 84 caps
+</gallery>
+
+;Defenders
+<gallery>
+File:Miroslav Đukić.jpg|[[Miroslav Đukić]] played for the team from 1991 to 2001
+File:Siniša Mihajlović (cropped).JPG|[[Siniša Mihajlović]] played 63 matches for the team from 1993 to 2003 and managed the team in [[2014 FIFA World Cup qualification (UEFA)|2014 FIFA World Cup qualification]]
+File:Zoran Mirkovic - Commons photo (cropped).jpg|[[Zoran Mirković]] played for the team from 1995 to 2003
+File:Mladen Krstajic (cropped).jpg|[[Mladen Krstajić]] played 59 matches for the team from 1999 to 2008 and managed the team at the [[2018 FIFA World Cup|2018 World Cup]]
+File:Vidić (cropped).jpg|[[Nemanja Vidić]] played 56 matches, was a participant in two World Cups and named twice in the [[FIFPro#FIFA FIFPro World XI|FIFA World XI]]
+File:Subotic170727.jpg|[[Neven Subotić]] played 36 matches, was a participant at the [[2010 FIFA World Cup|2010 World Cup]]
+File:Cos-Serb (2).jpg|[[Branislav Ivanović]] played 105 matches for the team from 2005 to 2018
+File:Aleksandar Kolarov 2018.jpg|[[Aleksandar Kolarov]] played 94 matches and captained the team at the 2018 World Cup
+</gallery>
+
+;Midfielders
+<gallery>
+File:Dragan Stojkovic Piksi 2024.png|[[Dragan Stojković]] played from 1983 to 2001 for the team, and managed the team from 2021 to 2025
+File:Dejan Savićević.jpg|[[Dejan Savićević]] played for the team from 1986 to 1999 and managed the team from 2001 to 2003
+File:Jugovic 2019.jpg|[[Vladimir Jugović]] played for the team from 1991 to 2002
+File:DK-Maccabi (10).jpg|[[Slaviša Jokanović]] played for the team from 1991 to 2002
+File:Dejan_Stanković_-_Inter_Mailand_%284%29.jpg|[[Dejan Stanković]] is the Serbian player who won the most trophies; he played in three World Cups and one European Championship
+File:MilosKrasic.jpg|[[Miloš Krasić]] played for the team from 2006 to 2011
+File:Jovanovic (cropped).JPG|[[Milan Jovanović (footballer, born 1981)|Milan Jovanović]] played for the team from 2007 to 2012
+File:Ser-Swi (27).jpg|[[Nemanja Matić]] played for the team from 2008 to 2019
+File:Dušan Tadić (cropped).jpg|[[Dušan Tadić]] is the most capped player in the team's history with 111 caps from 2008 to 2024
+File:2022128173937 2022-05-08 Fussball Eintracht Frankfurt vs Borussia Mönchengladbach - Sven - 1D X MK II - 2399 - B70I8510 (Filip Kostić cropped).jpg| [[Filip Kostić]] has been playing for the team since 2015
+</gallery>
+
+;Forwards
+<gallery>
+File:Predrag Mijatović 2007 b.jpg|[[Predrag Mijatović]] was a top goalscorer in 1998 World Cup qualifiers with 14 goals
+File:Savo Milosevic (cropped).jpg|[[Savo Milošević]] played 102 matches, scored 37 goals and was [[UEFA Euro 2000#Goalscorers|UEFA Euro 2000 Golden Boot]]
+File:Darko Kovačević 5-mar-2008.jpg|[[Darko Kovačević]] played 59 matches and scored 10 goals between 1994 and 2004
+File:MatejaKezman.jpg|[[Mateja Kežman]] was the top goal scorer for the team in [[2006 FIFA World Cup qualification (UEFA)|2006 FIFA World Cup qualification]]
+File:Zigic vs Antwerp (cropped).jpg|[[Nikola Žigić]] played 57 matches and scored 20 goals between 2004 and 2011
+File:Aleksandar Mitrović 2018 (cropped).jpg|[[Aleksandar Mitrović]] is top goal scorer in the history of national team, and was [[2018–19 UEFA Nations League|2018–19]] and [[2022–23 UEFA Nations League|2022–23]] UEFA [[UEFA Nations League|Nations League]] top goalscorer
+</gallery>
+
+==Competitive record==
+Serbia was part of [[Yugoslavia]] and its [[Yugoslavia national football team|national football team]] which existed between 1920 and 1992. With the [[Breakup of Yugoslavia|collapse of Yugoslavia]], the remaining constituent republics, [[Republic of Serbia (1992–2006)|Serbia]] and [[Republic of Montenegro (1992–2006)|Montenegro]], formed the [[Serbia and Montenegro|Federal Republic of Yugoslavia]] in 1992. The country underwent a name change in 2003, and Montenegro left the state union in 2006. [[FIFA]] and [[UEFA]] consider the [[Football Association of Serbia]] a direct successor to both the [[Football Association of Yugoslavia]] and the [[Football Association of Serbia and Montenegro]], thereby attributing all records to Serbia.<ref>{{Cite web |date=2018-10-13 |title=Bilans protiv reprezentacija 1920-2019 |url=https://www.reprezentacija.rs/bilans-protiv-reprezentacija-1920-danas/ |access-date=2022-11-22 |website=reprezentacija.rs |language=en-US |archive-date=22 November 2022 |archive-url=https://web.archive.org/web/20221122224039/https://www.reprezentacija.rs/bilans-protiv-reprezentacija-1920-danas/ |url-status=live }}</ref>
+
+===FIFA World Cup===
+{{main|Serbia at the FIFA World Cup}}
+
+<section begin=Record/>{{#section:Serbia at the FIFA World Cup|Record}}<section end="Record" />
+
+===UEFA European Championship===
+{{main|Serbia at the UEFA European Championship}}
+
+<section begin=Record/>{{#section:Serbia at the UEFA European Championship|Record}}<section end=Record/>
+
+===UEFA Nations League===
+{| class="wikitable" style="text-align:center;"
+!colspan=11|[[UEFA Nations League]] record
+|-
+!Season
+!Division
+!Group
+!width=28|{{Tooltip|Pld|Matches played}}
+!width=28|{{Tooltip|W|Won}}
+!width=28|{{Tooltip|D|Drawn}}
+!width=28|{{Tooltip|L|Lost}}
+!width=28|{{Tooltip|GF|Goals for}}
+!width=28|{{Tooltip|GA|Goals against}}
+!width=35|{{Tooltip|P/R|Promotion/relegation at end of season}}
+!width=28|{{Tooltip|RK|Overall rank}}
+|-
+|[[2018–19 UEFA Nations League|2018–19]]
+|[[2018–19 UEFA Nations League C|C]]
+|[[2018–19 UEFA Nations League C#Group 4|4]]
+||6||4||2||0||11||4||{{rise}}||27th
+|-
+|[[2020–21 UEFA Nations League|2020–21]]
+|[[2020–21 UEFA Nations League B|B]]
+|[[2020–21 UEFA Nations League B#Group 3|3]]
+||6||1||3||2||9||7||{{same position}}||27th
+|-
+|[[2022–23 UEFA Nations League|2022–23]]
+|[[2022–23 UEFA Nations League B|B]]
+|[[2022–23 UEFA Nations League B#Group 4|4]]
+||6||4||1||1||13||5||{{rise}}||19th
+|-
+|[[2024–25 UEFA Nations League|2024–25]]
+|[[2024–25 UEFA Nations League A|A]]
+|[[2024–25 UEFA Nations League A#Group 4|4]]
+||8||2||4||2||6||7||{{same position}}||10th
+|-
+|[[2026–27 UEFA Nations League|2026–27]]
+|[[2026–27 UEFA Nations League A|A]]
+|[[2026–27 UEFA Nations League A#Group 2|2]]
+|| || || || || || || ||
+|-
+!colspan=3|'''Total'''
+!26
+!11
+!10
+!5
+!39
+!23
+!colspan=2|10th
+|}
+
+{| class="wikitable collapsible collapsed" style="width:50%;text-align:center"
+|-
+! colspan="2"|'''Serbia's Nations League record'''
+|-
+!First match
+|{{fb|Lithuania}} 0–1 {{fb-rt|Serbia}}<br />([[Vilnius]], Lithuania; 7 September 2018)
+|-
+!Biggest Win
+|{{fb|Serbia}} 5–0 {{fb-rt|Russia}}<br />([[Belgrade]], Serbia; 18 November 2020)
+|-
+!Biggest Defeat
+|{{fb|Russia}} 3–1 {{fb-rt|Serbia}}<br /> ([[Moscow]], Russia; 3 September 2020)<br /> {{fb|Denmark}} 2–0 {{fb-rt|Serbia}}<br /> ([[Copenhagen]], Denmark; 8 September 2024)
+|-
+!Best Result
+|10th in [[2024–25 UEFA Nations League|2024–25]]
+|-
+!Worst Result
+|27th in [[2018–19 UEFA Nations League|2018–19]] and [[2020–21 UEFA Nations League|2020–21]]
+|}
+
+==Head-to-head records (2006 onwards)==
+{{further|Serbia national football team results}}
+<section begin=head-to-head/>{{#section:Serbia national football team results|head-to-head}}<section end=head-to-head/>
+
+== Honours ==
+===Global===
+* '''[[Football at the Summer Olympics|Olympic Games]]'''{{efn-ua|name="allyugoslavia"|All honours won as Yugoslavia}}
+** {{gold1}} '''Gold Medal (1):''' [[Football at the 1960 Summer Olympics|1960]]
+** {{silver2}} Silver Medal (3): [[Football at the 1948 Summer Olympics|1948]], [[Football at the 1952 Summer Olympics|1952]], [[Association football at the 1956 Summer Olympics|1956]]
+** {{bronze3}} Bronze Medal (1): [[Football at the 1984 Summer Olympics|1984]]
+
+===Continental===
+* '''[[UEFA European Championship]]'''{{efn-ua|name="allyugoslavia"}}
+** {{silver2}} Runners-up (2): [[1960 European Nations' Cup|1960]], [[UEFA Euro 1968|1968]]
+
+===Regional===
+* '''[[Balkan Cup]]'''{{efn-ua|name="allyugoslavia"}}
+** '''Champions (2):''' [[1934–35 Balkan Cup|1934–35]], 1935
+** Runners-up (6): [[1929–31 Balkan Cup|1929–31]], 1932, 1933, 1946, 1947, [[1977–80 Balkan Cup|1977–80]]
+** Third place (1): [[1931 Balkan Cup|1931]]
+* '''[[Football at the Mediterranean Games|Mediterranean Games]]'''{{efn-ua|name="allyugoslavia"}}
+** '''Gold medal (2)''': [[1971 Mediterranean Games|1971]], [[1979 Mediterranean Games|1979]]
+
+===Friendly===
+* '''[[1945 Yugoslav Football Tournament]]'''{{efn-ua|name="allyugoslavia"}}
+** '''Champions (1):''' 1945
+* '''[[Lunar New Year Cup]]'''
+** '''Champions (1):''' [[1995 Lunar New Year Cup|1995]]
+* '''[[Millennium Super Soccer Cup|Millennium Super Cup]]'''
+** '''Champions (1):''' 2001
+* '''[[Korea Cup]]'''
+** Runners-up (1): [[1997 Korea Cup|1997]]
+* '''[[Kirin Cup Soccer|Kirin Cup]]'''
+** Runners-up (1): 2004
+
+===Awards===
+* '''[[FIFA World Rankings#Best Mover of the Year|FIFA Best Mover of the Year]]''': 1997
+
+===Summary===
+{| class="wikitable" width=30% style="font-size:90%; text-align:center;"
+|-
+!Competition !!{{gold1}} !!{{silver2}} !!{{bronze3}} !!Total
+|-
+| align="left" |[[Olympic Games]]
+|1||3||1||5
+|-
+| align="left" |[[UEFA European Championship]]
+|0||2||0||2
+|-
+!Total!!1!!5!!1!!7
+|}
+
+==See also==
+{{portal |Association football|Serbia}}
+* [[Serbia national football team results]]
+* [[Serbia and Montenegro national football team results]]
+* [[Serbia national under-21 football team]]
+* [[Serbia national under-20 football team]]
+* [[Serbia national under-19 football team]]
+* [[Serbia national under-17 football team]]
+* [[List of Serbia international footballers (including predecessor teams)]]
+* [[Yugoslavia national football team]]
+* [[Serbia and Montenegro national football team]]
+
+==Notes==
+{{notelist-ua}}
+
+==References==
+{{Reflist}}
+{{Reflist|group=note}}
+
+==External links==
+{{Commons category|Serbia national association football team}}
+;Official
+* [http://www.fss.rs Football Association of Serbia&nbsp;– official site] {{in lang|sr}}
+* [https://www.fifa.com/about-fifa/associations/SRB Serbia] at [[FIFA]]
+* [https://www.uefa.com/nationalassociations/srb/ Serbia] at [[UEFA]]
+* [http://www.reprezentacija.rs Serbia/ National Football Team] {{in lang|sr}}
+
+;Unofficial
+* [http://www.xtratime.org/forum/forumdisplay.php?f=44 Serbian football at xtratime.org]
+* [http://beliorlovi.rs BeliOrlovi.rs&nbsp;– fan site] {{in lang|sr}}
+* [https://www.rsssf.org/tabless/serb-intres.html RSSSF&nbsp;– ''Serbia men's national football team international matches'']
+
+{{Serbia national football team}}
+{{Navboxes|title=Finalists|list1=
+''See also: [[Yugoslavia national football team#External links|Yugoslavia]] and [[Serbia and Montenegro national football team#External links|Serbia & Montenegro]]''
+{{2010 FIFA World Cup finalists}}
+{{2018 FIFA World Cup finalists}}
+{{2022 FIFA World Cup finalists}}
+}}
+{{Navboxes
+|title=Serbia squads
+|bg=#C6363C
+|fg=white
+|bordercolor=#0C4076
+|list1=
+''See also: [[Yugoslavia national football team#External links|Yugoslavia]] and [[Serbia and Montenegro national football team#External links|Serbia & Montenegro]]''
+{{Serbia men's football squad 2008 Summer Olympics}}
+{{Serbia squad 2010 FIFA World Cup}}
+{{Serbia squad 2018 FIFA World Cup}}
+{{Serbia squad 2022 FIFA World Cup}}
+{{Serbia squad UEFA Euro 2024}}
+}}
+{{Serbia national football team managers}}
+{{Football in Serbia}}
+{{UEFA teams}}
+{{National sports teams of Serbia}}
+
+[[Category:Serbia national football team| ]]
+[[Category:Serbia men's national football teams| ]]
+[[Category:European national association football teams]]
+[[Category:2006 establishments in Serbia]]

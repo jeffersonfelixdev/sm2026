@@ -1,0 +1,2596 @@
+{{Short description|Men's association football team}}
+{{About|the men's team|the women's team|Malaysia women's national football team}}
+{{pp-semi-indef|small=yes}}
+{{Use dmy dates|date=January 2025}}
+{{Infobox national football team
+| Name                  = Malaysia
+| Badge                 = Football Association of Malaysia crest.svg
+| Badge_size            = 170px
+| Nickname              = '' Harimau Malaya''<br />([[Malayan Tiger]]s)
+| Association           = [[Football Association of Malaysia]] (FAM)
+| Confederation         = [[Asian Football Confederation|AFC]] (Asia)
+| Sub-confederation     = [[ASEAN Football Federation|AFF]] (Southeast Asia)
+| Coach                 = [[Tan Cheng Hoe]] (interim)
+| Captain               = [[Dion Cools]]
+| Most caps             = [[Soh Chin Ann]] (195)<ref name="195 caps">{{cite web |first=Roberto |last=Mamrud |url=https://www.rsssf.org/miscellaneous/soh-intl.html|title=Soh Chin Ann– Double Century of International Appearances|work=Rec.Sport.Soccer Statistics Foundation |date=30 June 2021 |access-date=30 June 2021|archive-url=https://web.archive.org/web/20220422040437/http://www.rsssf.com/miscellaneous/soh-intl.html|archive-date=22 April 2022 |url-status=live}}</ref>
+| Top scorer            = [[Mokhtar Dahari]] (89)<ref name="Mamrud">{{cite web |first=Roberto |last=Mamrud |url=https://www.rsssf.org/miscellaneous/malay-dahari-intlg.html|title=Mohamed Mokhtar Dahari – Century of International Appearances|work=Rec.Sport.Soccer Statistics Foundation |date=18 March 2021 |access-date=18 March 2021|archive-url=https://web.archive.org/web/20210618140810/http://www.rsssf.com/miscellaneous/malay-dahari-intlg.html|archive-date=18 June 2021 |url-status=live}}</ref>
+| Home Stadium          = [[Bukit Jalil National Stadium]]
+| FIFA Trigramme        = MAS
+| FIFA Rank             = {{FIFA World Rankings|MAS}}<ref>{{cite web | url=https://inside.fifa.com/fifa-world-ranking/MAS?gender=men | title=Inside FIFA }}</ref>
+| FIFA max              = 75
+| FIFA max date         = 8 August 1993
+| FIFA min              = 178
+| FIFA min date         = 15 March 2018
+| Elo Rank              = {{nowrap|{{World Football Elo Ratings|Malaysia}}}}
+| Elo max               = 1
+| Elo max date          = 1 March 1977
+| Elo min               = 1
+| Elo min date          = September 2018
+| pattern_la1           = _pumacup23ya
+| pattern_b1            = _pumacup23ya
+| pattern_ra1           = _pumacup23ya
+| pattern_sh1           = _pumablack
+| pattern_so1           = _pumablack
+| leftarm1              = FFFF00
+| body1                 = FFFF00
+| rightarm1             = FFFF00
+| shorts1               = FFFF00
+| socks1                = FFFF00
+| pattern_la2           = _pumacup23b
+| pattern_b2            = _pumacup23b
+| pattern_ra2           = _pumacup23b
+| pattern_sh2           = _pumawhite
+| pattern_so2           = _pumawhite
+| leftarm2              = 000000
+| body2                 = 000000
+| rightarm2             = 000000
+| shorts2               = 000000
+| socks2                = 000000
+| pattern_la3           = _mly2526t
+| pattern_b3            = _mly2526t
+| pattern_ra3           = _mly2526t
+| pattern_sh3           = _pumablack
+| pattern_so3           = _pumawhite
+| leftarm3              = 0044ff
+| body3                 = 0044ff
+| rightarm3             = 0044ff
+| shorts3               = ffffff
+| socks3                = ff0000
+| First game            = {{fb|MAS}} 1–1 {{fb-rt|THA}} <br /> {{nowrap|([[Kuala Lumpur]], Malaysia; 12 October 1963){{efn|Result count since after the Federation of [[Malaysia]] formation on 16 September 1963.<ref>{{cite web|url=http://www.eloratings.net/Malaysia|title=Malaysia matches, ratings and points exchanged|work=World Football Elo Ratings: Malaysia|access-date=24 November 2016|archive-date=22 November 2023|archive-url=https://web.archive.org/web/20231122234241/http://www.eloratings.net/Malaysia|url-status=live}}</ref>}}}}
+| Largest win           = {{fb|MAS}} [[Football at the 1974 Asian Games#Group C|11–0]] {{fb-rt|PHI|1936}} <br /> ([[Tehran]], Iran; 7 September 1974)<!-- The 15–1 victory against the Philippines in 1962 is Malaya records, not Malaysia --><ref>{{cite web|first=Morrison|last=Neil|url=https://www.rsssf.org/tablesa/asgames74.html|title=Asian Games 1974 (Iran)|work=Rec.Sport.Soccer Statistics Foundation|date=20 January 2012|access-date=23 November 2023}}</ref>
+| Largest loss          = {{nowrap|{{fb|UAE}} [[2018 FIFA World Cup qualification – AFC second round#Group A|10–0]] {{fb-rt|MAS}} <br /> ([[Abu Dhabi]], United Arab Emirates; 3 September 2015)}}
+| Regional name         = [[AFC Asian Cup]]
+| Regional cup apps     = 4
+| Regional cup first    = [[1976 AFC Asian Cup|1976]]
+| Regional cup best     = Group stage ([[1976 AFC Asian Cup|1976]], [[1980 AFC Asian Cup|1980]], [[2007 AFC Asian Cup|2007]], [[2023 AFC Asian Cup|2023]])
+| 2ndRegional name      = [[ASEAN Championship]]
+| 2ndRegional cup apps  = 14
+| 2ndRegional cup first = [[1996 AFF Championship|1996]]
+| 2ndRegional cup best  = '''Champions''' ([[2010 AFF Championship|2010]])
+| medaltemplates        =
+{{MedalSport | [[Football at the Asian Games|Asian Games]]}}
+{{MedalBronze | [[Football at the 1974 Asian Games|1974 Tehran]] | Team}}
+{{MedalSport | [[Football at the Southeast Asian Games|SEA Games]]}}
+{{MedalBronze | [[Football at the 1969 Southeast Asian Peninsular Games|1969 Myanmar]] | Team}}
+{{MedalSilver | [[Football at the 1971 Southeast Asian Peninsular Games|1971 Malaysia]] | Team}}
+{{MedalBronze | [[Football at the 1973 Southeast Asian Peninsular Games|1973 Singapore]] | Team}}
+{{MedalSilver | [[Football at the 1975 Southeast Asian Games|1975 Thailand]] | Team}}
+{{MedalGold | [[Football at the 1977 Southeast Asian Games|1977 Malaysia]] | Team}}
+{{MedalGold | [[Football at the 1979 Southeast Asian Games|1979 Indonesia]] | Team}}
+{{MedalSilver | [[Football at the 1981 Southeast Asian Games|1981 Philippines]] | Team}}
+{{MedalBronze | [[Football at the 1983 Southeast Asian Games|1983 Singapore]] | Team}}
+{{MedalBronze | [[Football at the 1985 Southeast Asian Games|1985 Thailand]] | Team}}
+{{MedalSilver | [[Football at the 1987 Southeast Asian Games|1987 Indonesia]] | Team}}
+{{MedalGold | [[Football at the 1989 Southeast Asian Games|1989 Malaysia]] | Team}}
+}}
+The ''' Malaysia national football team''' ({{Langx|ms|Pasukan bola sepak kebangsaan Malaysia}}) represents [[Malaysia]] in international [[association football|football]] and is governed by the [[Football Association of Malaysia]]. The national team is recognised by FIFA as the successor of the defunct [[Malaya national football team]] which was founded for the [[Merdeka Tournament|1963 Merdeka Tournament]] one month before the institution of Malaysia. The team is officially nicknamed ''Harimau Malaya'' in reference to the [[Malayan Tiger]].<ref>{{cite web|url=https://www.fifa.com/fifaplus/en/articles/malaysian-football-tracing-the-roots-of-indomitable-harimau-malaya|title=Malaysian football: Tracing the roots of indomitable 'Harimau Malaya'|date=13 February 2023|access-date=26 March 2023|last=Saha Roy|first=Shilarze|work=[[FIFA]]|archive-date=21 March 2023|archive-url=https://web.archive.org/web/20230321083150/https://www.fifa.com/fifaplus/en/articles/malaysian-football-tracing-the-roots-of-indomitable-harimau-malaya|url-status=live}}</ref> Former player [[Mokhtar Dahari]] is one of the top goal scorers in international history.
+
+Before Malaysia's formation, the Malaya national football team had already achieved notable success, including a [[Football at the 1962 Asian Games|bronze medal]] at the [[1962 Asian Games]]. Malaysia's most significant achievements include [[Football at the 1972 Summer Olympics|qualifying]] for the [[1972 Summer Olympics]], winning the [[AFF Championship]] in [[2010 AFF Championship|2010]], and earning multiple [[SEA Games]] gold medals in [[1961 SEAP Games|1961]], [[1977 SEA Games|1977]], [[1979 SEA Games|1979]], and [[1989 SEA Games|1989]]. The team competes in tournaments such as the [[AFC Asian Cup]], AFF Championship, and [[FIFA World Cup qualification|World Cup qualifiers]], with [[Bukit Jalil National Stadium]] serving as its home ground. Over the years, Malaysia has developed strong rivalries with teams like [[Thailand national football team|Thailand]], [[Indonesia national football team|Indonesia]], [[Singapore national football team|Singapore]], and [[Cambodia national football team|Cambodia]] contributing to the rich football culture in the [[Southeast Asia|region]].
+
+== History ==
+
+=== Early years (1963–1969) ===
+[[File:1958 Merdeka Cup Winner, Malaya.jpg|thumb|left|The winner of the second season of [[Merdeka Cup]] in 1958, [[Malaya national football team|Malaya]] football team, five years before the merger to form Malaysia. Also in the picture is [[Tunku Abdul Rahman]] (centre), the first [[Prime Minister of Malaya]] and at that time president of [[Football Association of Malaya]] & [[List of presidents of AFC|Asian Football Confederation.]]<ref>{{cite web|url=https://www.the-afc.com/60th-anniversary-asias-history-makers-60th-anniversary-news/asian-icons-tunku-abdul-rahman-putra-al|title=ASIAN ICONS: TUNKU ABDUL RAHMAN PUTRA AL HAJ|work=[[Asian Football Confederation|AFC]] at [[Wayback Machine]]|date=5 August 2014|archive-url=https://web.archive.org/web/20160923085438/https://www.the-afc.com/60th-anniversary-asias-history-makers-60th-anniversary-news/asian-icons-tunku-abdul-rahman-putra-al|access-date=13 January 2018|archive-date=23 September 2016}}</ref><ref>{{cite web|url=https://olympic.org.my/museum/hof/ind/tarn.htm|title= OCM Sports Museum & Hall of Fame: Tunku Abdul Rahman|work=[[Olympic Council of Malaysia|OCM]] at [[Wayback Machine]]|date=12 April 2010|archive-url=https://web.archive.org/web/20100412094508/https://olympic.org.my/museum/hof/ind/tarn.htm|access-date=15 January 2019|archive-date=12 April 2010}}</ref> ]]
+Prior to 16 September 1963, [[Crown Colony of North Borneo|North Borneo]] (now [[Sabah]]), [[Crown Colony of Sarawak|Sarawak]], [[Federation of Malaya|Malaya]] and Singapore were represented by their own national teams, a situation which pre-dated the establishment of Malaysia.<ref>{{cite web|url=http://eresources.nlb.gov.sg/newspapers/Digitised/Page/straitstimes19630809-1.1.17.aspx|title=Tengku: A real feast of soccer|work=The Straits Times|via=National Library Board, Singapore|date=9 August 1963|access-date=29 March 2016|page=17|archive-date=10 April 2016|archive-url=https://web.archive.org/web/20160410172201/http://eresources.nlb.gov.sg/newspapers/Digitised/Page/straitstimes19630809-1.1.17.aspx|url-status=live}}</ref> Malaya and Singapore often competed in international competitions such as the [[Merdeka Tournament]] while North Borneo and Sarawak competed in [[Borneo Cup]]. [[Malaya national football team|Malaya]]'s biggest achievement in football was becoming the bronze medalist of the [[Football at the 1962 Asian Games|1962 Asian Games]] held in [[Jakarta]], Indonesia after defeating [[South Vietnam national football team|South Vietnam]] 4–1 led by [[Abdul Ghani Minhat]], who at that time was the first Asian player to reach [[List of men's footballers with 50 or more international goals|50]] goals for the men's national teams.<ref>{{cite web |first=Roberto |last=Mamrud |url=https://www.rsssf.org/miscellaneous/malay-minhat-intlg.html|title=Abdul Ghani Minhat – Goals in International Matches|work=Rec.Sport.Soccer Statistics Foundation |date=30 March 2021 |access-date=30 March 2021|archive-url=https://web.archive.org/web/20210626050511/http://www.rsssf.com/miscellaneous/malay-minhat-intlg.html|archive-date=26 June 2021 |url-status=live}}</ref>
+
+[[File:1962 Borneo Cup Winner, North Borneo.jpg|thumb|right|The winner of the first season of [[Borneo Cup]] in 1962, [[Sabah F.C. (Malaysia)|North Borneo]] football team, one year before the merger to form Malaysia.]]
+The beginning of the Malaysian football team match took place in [[Merdeka Stadium]] on 8 August 1963 with the combined strength of Singapore and Malaya (although the federation only existed after 16 September 1963). With the combined forces of Malaya and Singapore, the team began by facing [[Japan national football team|Japan]], and lost 3–4.<ref>{{cite web|url=http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19630809-1.2.141.aspx|title=Majid Missed a Penalty and Malaysia Crash|last=Siebel|first=Norman|work=The Straits Times|via=National Library Board, Singapore|date=9 August 1963|access-date=29 March 2016|page=18|archive-date=10 April 2016|archive-url=https://web.archive.org/web/20160410082743/http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19630809-1.2.141.aspx|url-status=live}}</ref> The team continued to use a combination of players from Singapore and [[Malay Peninsula]] until the formation of the Malaysia team, wherein the Football Association of Malaya was succeeded by the [[Football Association of Malaysia]] (FAM). The combination players with Singapore ended when the latter [[Singapore in Malaysia|separated from Malaysia]] along with the establishment of [[Football Association of Singapore]] (FAS) and their subsequent reaffiliation with [[FIFA]] in 1965.<ref>{{cite book|last=Cho|first=Younghan|title=Football in Asia: History, Culture and Business|url=https://books.google.com/books?id=uaXDCwAAQBAJ&pg=PA61|date=17 March 2016|publisher=Routledge|isbn=978-1-317-59832-9|pages=61–|access-date=23 July 2019|archive-date=5 August 2020|archive-url=https://web.archive.org/web/20200805180617/https://books.google.com/books?id=uaXDCwAAQBAJ&pg=PA61|url-status=live}}</ref> Since then the squad was only represented by West Malaysian players, mainly due to travel time difficulties to [[East Malaysia]] and the players were not well known to the mainstream West Malaysian football. From 1966 to 1970, [[Chow Chee Keong]] was voted by [[Asian Football Confederation]] as the best Asian's goalkeeper for 5 straight years.<ref>[https://www.the-afc.com/news/afcsection/afc-president-offers-condolences-on-passing-of-malaysian-legend-chow-chee-keong AFC President offers condolences on passing of Malaysian legend Chow Chee Keong] {{webarchive |url=https://web.archive.org/web/20180226011732/http://www.the-afc.com/news/afcsection/afc-president-offers-condolences-on-passing-of-malaysian-legend-chow-chee-keong|date=26 February 2018}}, Asian Football Confederation(AFC)</ref>
+
+=== Olympic Tournament and Asia Competition (1970–1980) ===
+[[File:Malaysia v. South Korea, 1972 Summer Olympics qualification.jpg|thumb|left|Malaysia vs. [[South Korea national football team|South Korea]] during the [[Football at the 1972 Summer Olympics – Men's Asian Qualifiers#Group 1|1972 Summer Olympics qualifiers]] on 25 September 1971.]]
+In 1971, [[James Wong (footballer)|James Wong]] of Sabah was the first player from East Malaysia to represent the country.<ref>{{cite web|url=http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19761202.2.119.aspx|title=Sabahan may be Mokhtar's replacement|last=Netto|first=Terrence|work=The Straits Times|via=National Library Board, Singapore|date=2 December 1976|access-date=29 March 2016|page=25|archive-date=10 April 2016|archive-url=https://web.archive.org/web/20160410061806/http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19761202.2.119.aspx|url-status=live}}</ref><ref>{{cite web|url=https://www.bharian.com.my/node/108262|title=Hassan Sani, James Wong curah bakti bersama Sabah|trans-title=Hassan Sani, James Wong served with Sabah|last=Unnip Abdullah|first=Mohd Izham|language=ms|work=[[Berita Harian]]|date=25 December 2015|access-date=19 March 2018|archive-date=19 March 2018|archive-url=https://web.archive.org/web/20180319120348/https://www.bharian.com.my/node/108262|url-status=live}}</ref> Malaysia [[Football at the 1972 Summer Olympics – Men's Asian Qualifiers|qualified]] for the [[Football at the 1972 Summer Olympics|1972 Olympics]] in [[Munich]], beating [[Japan national football team|Japan]] 3–0, [[South Korea national football team|South Korea]] 1–0, [[Chinese Taipei national football team|Taiwan]] 3–0 and the [[Philippines national football team|Philippines]] 5–0 along the way.<ref>{{Cite web |url=https://www.rsssf.org/tableso/ol1972q.html#Asia |title=Games of the XX. Olympiad Football Qualifying Tournament (Munchen, Germany, 1972) – RSSSF |access-date=17 November 2022 |archive-date=11 July 2022 |archive-url=https://web.archive.org/web/20220711203917/https://www.rsssf.org/tableso/ol1972q.html#Asia |url-status=live }}</ref> Although they managed to defeat the [[United States men's national soccer team|United States]] 3–0,<ref>{{cite web|url=https://www.fifa.com/tournaments/archive/tournament%3D512/edition%3D197110/matches/match%3D32136/report.html|title=Olympic Football Tournament Munich 1972 [Malaysia – USA]|work=FIFA.com|access-date=21 December 2024|archive-url=https://web.archive.org/web/20080510072937/https://www.fifa.com/tournaments/archive/tournament%3D512/edition%3D197110/matches/match%3D32136/report.html|archive-date=10 May 2008|url-status=dead}}</ref> they lost the other two matches with a score of 0–3 to [[West Germany national football team|West Germany]] and 0–6 to [[Morocco national football team|Morocco]],<ref>{{cite web|url=https://www.fifa.com/tournaments/archive/tournament%3D512/edition%3D197110/matches/match%3D32127/report.html|title=Olympic Football Tournament Munich 1972 [Germany FR – Malaysia]|work=FIFA.com|access-date=21 December 2024|archive-url=https://web.archive.org/web/20080510072907/https://www.fifa.com/tournaments/archive/tournament%3D512/edition%3D197110/matches/match%3D32127/report.html|archive-date=10 May 2008|url-status=dead}}</ref><ref>{{cite web|url=http://www.fifa.com/tournaments/archive/tournament=512/edition=197110/matches/match=32144/report.html|title=Olympic Football Tournament Munich 1972 [Morocco – Malaysia]|work=FIFA.com|access-date=21 December 2024|archive-url=https://web.archive.org/web/20080409234334/http://www.fifa.com/tournaments/archive/tournament=512/edition=197110/matches/match=32144/report.html|archive-date=9 April 2008|url-status=dead}}</ref> [[Football at the 1972 Summer Olympics#Final ranking|ranking 10th]] in the final standings.<ref>{{Cite web |url=https://www.rsssf.org/tableso/ol1972f-det.html |title=XX. Olympiad Munich 1972 Football Tournament – RSSSF |access-date=16 November 2022 |archive-date=1 November 2022 |archive-url=https://web.archive.org/web/20221101115923/https://www.rsssf.org/tableso/ol1972f-det.html |url-status=live }}</ref>
+
+[[File:Malaysia v. West Germany, 1972 Summer Olympics.jpg|thumb|280px|right|Malaysian goalkeeper [[Wong Kam Fook]] in action during the match against [[West Germany national football team|West Germany]] in the [[Football at the 1972 Summer Olympics#Group A|1972 Summer Olympics]] at [[Munich]] on 27 August 1972.]]
+Since 1972, [[Mokhtar Dahari]] has been considered a legendary football player for the Malaysian team maintaining his place as one of the best players in Asia.<ref name="Mokhtar life">{{cite web|url=https://www.nst.com.my/lifestyle/pulse/2018/07/390573/supermokh-remembering-our-greatest-footballer|title=Supermokh: Remembering our greatest footballer|last=Leam Seng|first=Alan Teh|work=New Straits Times|date=14 July 2018|access-date=18 July 2018|archive-date=30 November 2020 |archive-url=https://web.archive.org/web/20201130205750/https://www.nst.com.my/lifestyle/pulse/2018/07/390573/supermokh-remembering-our-greatest-footballer |url-status=live }}</ref> He manage to score a total of 125 goals in 167 appearances for Malaysia (including matches played against club sides, national 'B' teams and selection teams).<ref>{{cite web |first=Zulhilmi|last=Zainal|title=Malaysian Football Legends: Mokhtar Dahari|url=https://www.goal.com/en-my/news/3891/features/2013/06/19/4057414/malaysian-football-legends-mokhtar-dahari|work=Goal.com|date=19 June 2013 |access-date=30 June 2021|archive-url=https://web.archive.org/web/20201007180908/https://www.goal.com/en-my/news/3891/features/2013/06/19/4057414/malaysian-football-legends-mokhtar-dahari|archive-date=7 October 2020 |url-status=live}}</ref><ref>{{cite web |url=https://www.uomonelpallone.it/mokhtar-dahari/ |title=La leggenda di Mokhtar Dahari, l'anima del Calcio malesiano|trans-title=The Legend of Mokhtar Dahari, the soul of Malaysian football|work=Uomo nel Pallone |language=it |access-date=9 June 2022 |date=30 August 2016 |url-status=live |archive-url=https://web.archive.org/web/20220607224259/https://www.uomonelpallone.it/mokhtar-dahari/ |archive-date=7 June 2022  }}</ref> Against other nations' national 'A' teams, he scored [[List of men's footballers with 50 or more international goals|89]] goals in 142 appearances.<ref name="Mamrud"/><ref>{{cite web|url=https://www.uefa.com/uefaeuro-2020/news/026a-1297500e1b34-a17bbbcad258-1000--ronaldo-equals-world-record/|title=Restaging Relentless Ronaldo equals international goals world record|language=en|work=UEFA|access-date=23 June 2021|archive-url=https://web.archive.org/web/20210624052008/https://www.uefa.com/uefaeuro-2020/news/026a-1297500e1b34-a17bbbcad258-1000--ronaldo-equals-world-record/|archive-date=24 June 2021|url-status=dead}}</ref><ref name="joint-9th tweet">{{cite tweet |author=FIFA |user=FIFAcom |number=1409693707679387659 |title=The joint-9th top men's scorer! |language=en |access-date=29 June 2021 |archive-url=https://web.archive.org/web/20210629095353/https://twitter.com/FIFAcom/status/1409693707679387659 |archive-date=29 June 2021 |url-status=dead}}<!-- Usually cite tweet is supposed to use the entire tweet as the title, here it's long and mostly omitted --></ref> This makes him as [[List of top international men's football goal scorers by country#List of top scorers|one of the world's top scorer for men's national teams]] at one time.<ref>{{cite web|url=https://www.bharian.com.my/sukan/bola/2021/06/831539/mokhtar-dahari-antara-tiga-penjaring-terbanyak-dunia|title=Mokhtar pernah jadi penjaring terbanyak dunia|language=ms|last=Aznan|first=Syafiq|work=[[Berita Harian]]|date=24 June 2021|access-date=24 June 2021|archive-url=https://web.archive.org/web/20210624115921/https://www.bharian.com.my/sukan/bola/2021/06/831539/mokhtar-dahari-antara-tiga-penjaring-terbanyak-dunia|archive-date=24 June 2021|url-status=dead}}</ref><ref>{{cite web|url=https://www.fourfourtwo.com/features/highest-international-football-goalscorers-all-time-cristiano-ronaldo-portugal|last=Parkinson|first=Gary|work=[[FourFourTwo]]|title=The 10 all-time men's international top scorers|date=26 June 2021|access-date=26 June 2021|archive-url=https://web.archive.org/web/20210802123310/https://www.fourfourtwo.com/features/highest-international-football-goalscorers-all-time-cristiano-ronaldo-portugal|archive-date=2 August 2021|url-status=dead}}</ref>
+
+Together with the record of [[Soh Chin Ann]]. According to both [[RSSSF]] and [[IFFHS]], Soh is the player with the [[List of men's footballers with 100 or more international caps#Men's footballers with 100 or more international caps|most international caps in men's football]] and become the first men's footballers to reach 200 or more international caps (219) before being overtaken by [[Portugal national football team|Portugal]]'s [[Cristiano Ronaldo]] in 2025.<ref name="195 caps"/><ref>{{cite web|url=https://www.iffhs.com/posts/1893|title=IFFHS ALL TIME RECORD ON PLAYERS WITH MOST GAMES|work=IFFHS|date=15 May 2022 |access-date=15 May 2022|archive-url=https://web.archive.org/web/20220522021716/https://www.iffhs.com/posts/1893|archive-date=22 May 2022|url-status=live}}</ref> Two years later, Malaysia won their second bronze medal at the [[Football at the 1974 Asian Games|1974 Asian Games]] after defeating [[North Korea national football team|North Korea]] 2–1.<ref>{{Cite web |url=https://www.rsssf.org/tablesa/asgames74.html |title="Asian Games 1974" – RSSSF |access-date=2 February 2023 |archive-date=22 September 2013 |archive-url=https://web.archive.org/web/20130922025244/http://www.rsssf.com/tablesa/asgames74.html |url-status=live }}</ref> The team went on to qualify twice in a row for the [[AFC Asian Cup]], in [[1976 AFC Asian Cup|1976]] and [[1980 AFC Asian Cup|1980]].<ref>{{cite web|url=https://legasilagenda.com/2022/06/08/kelayakan-piala-asia-1976-1980/|title=Kelayakan Piala Asia 1976 & 1980|language=Malay|work=Legasi Lagenda|access-date=8 June 2022|archive-url=https://web.archive.org/web/20220608095606/https://legasilagenda.com/2022/06/08/kelayakan-piala-asia-1976-1980/|archive-date=8 June 2022|url-status=dead}}</ref> It was only in 1977; when the FAM sent a talent scout to the East.<ref>{{cite web|url=http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19770610-1.2.121.aspx|title=Sabah FA: Give us a chance|last=Hong Kwang|first=P'ng|work=The Straits Times|via=National Library Board, Singapore|date=10 June 1977|access-date=29 March 2016|page=30|archive-date=10 April 2016|archive-url=https://web.archive.org/web/20160410034003/http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19770610-1.2.121.aspx|url-status=live}}</ref><ref>{{cite web|url=http://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19770608-1.2.118.aspx|title=FAM now look East for fresh soccer talent|last=Hong Kwang|first=P'ng|work=The Straits Times|via=National Library Board, Singapore|date=8 June 1977|access-date=29 March 2016|page=23|archive-date=10 April 2016|archive-url=https://web.archive.org/web/20160410064032/http://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19770608-1.2.118.aspx|url-status=live}}</ref> The list continued by the late [[James Yaakub]] of [[Former Sarawak FA players|Sarawak]] in 1977. The team also won the [[Merdeka Tournament]] four times, became runner-up three times and achieved third place twice during the 1970s.<ref>{{cite web|url=https://www.international-football.net/competition-overview?compet-id=Merdeka%20Tournament|title=Merdeka Tournament|work=International football.net|date=25 October 2008|access-date=31 August 2012|archive-date=23 September 2020|archive-url=https://web.archive.org/web/20200923153423/https://www.international-football.net/competition-overview?compet-id=Merdeka%20Tournament|url-status=live}}</ref> Malaysia [[Football at the 1980 Summer Olympics – Men's Asian Qualifiers|qualified]] again for the [[Football at the 1980 Summer Olympics|1980 Olympics]] in Moscow, beating [[Indonesia national football team|Indonesia]] 6–1, South Korea 3–0, [[Brunei national football team|Brunei]] 3–1, Philippines 8–0 and tied
+with Japan 1–1.<ref>{{Cite web |url=https://www.rsssf.org/tableso/ol1980q.html |title=Football Qualifying Tournament (Moscow, Soviet Union, 1980) – Zone Asia. RSSSF |access-date=2 February 2023 |archive-date=12 October 2022 |archive-url=https://web.archive.org/web/20221012164059/https://www.rsssf.org/tableso/ol1980q.html |url-status=live }}</ref> Thus, the team meet South Korea in the play-off match. Malaysia won the play-off against South Korea with a 2–1 scored in the [[Merdeka Stadium]] and qualified but joined the [[1980 Summer Olympics boycott|US-led boycott of the games]] as the Malaysian government made a decision to protest the [[Soviet–Afghan War|Soviet Union's invasion of Afghanistan]].<ref name="BoycottOplympics1980">{{cite web|url=https://www.nytimes.com/1996/07/19/sports/olympics-bitterness-lingering-over-carter-s-boycott.html|title=OLYMPICS;Bitterness Lingering Over Carter's Boycott|last=Smothers|first=Ronald|work=The New York Times|date=19 July 1996|access-date=17 May 2017|archive-date=14 December 2017|archive-url=https://web.archive.org/web/20171214053410/http://www.nytimes.com/1996/07/19/sports/olympics-bitterness-lingering-over-carter-s-boycott.html|url-status=live}}</ref><ref>{{cite web|url=https://www.star2.com/people/2016/02/10/days-of-thunder-glory-days-of-malaysian-football/|title=The glory days of Malaysian football|last=Goh|first=Daryl|work=Star2.com|date=10 February 2016|access-date=19 March 2018|archive-url=https://web.archive.org/web/20180319123155/https://www.star2.com/people/2016/02/10/days-of-thunder-glory-days-of-malaysian-football/|archive-date=19 March 2018|url-status=dead}}</ref><ref>{{cite web|url=http://www.bhplus.com.my/node/182957|title=Jejak Wira Olimpik 1980 : 'The Hurricane' pecahkan tembok Korea Selatan|trans-title=The footsteps of the 1980 Olympics Heroes : 'The Hurricane' broke the wall of South Korea|last=Stanley|first=Ryan|language=ms|work=Berita Harian|date=14 August 2016|access-date=19 March 2018|archive-date=19 March 2018|archive-url=https://web.archive.org/web/20180319120216/http://www.bhplus.com.my/node/182957|url-status=live}}</ref>
+
+==== 1976 AFC Asian Cup Group A ====
+{| class="wikitable" style="text-align: center;"
+|-
+! style="width:165px;"|Team
+!width=25|{{Tooltip|Pld|Played}}
+!width=25{{!}}{{Tooltip|W|Won}}
+!width=25{{!}}{{Tooltip|D|Draw}}
+!width=25{{!}}{{Tooltip|L|Lost}}
+!width=25{{!}}{{Tooltip|GF|Goals for}}
+!width=25{{!}}{{Tooltip|GA|Goals against}}
+!width=25{{!}}{{Tooltip|GD|Goal difference}}
+!width=25|{{Tooltip|Pts|Points}}
+|- style="background:#cfc;"
+|align="left"|{{fb|KUW}}
+|2||2||0||0||3||0||+3||'''4'''
+|- style="background:#cfc;"
+|align="left"|{{fb|CHN}}
+|2||0||1||1||1||2||–1||'''1'''
+|-
+|align="left"|{{fb|MAS}}
+|2||0||1||1||1||3||–2||'''1'''
+|}
+
+Malaysia participated the [[1976 AFC Asian Cup]] for the first time, meeting Kuwait and China in Group A. During the tournament, Malaysia came in third place in the group, losing 0–2 to Kuwait in the opening match and drew 1–1 with China in the second match.
+
+==== 1980 AFC Asian Cup Group B ====
+{| class="wikitable" style="text-align: center;"
+|-
+! style="width:165px;"|Team
+!width=25|{{Tooltip|Pld|Played}}
+!width=25{{!}}{{Tooltip|W|Won}}
+!width=25{{!}}{{Tooltip|D|Draw}}
+!width=25{{!}}{{Tooltip|L|Lost}}
+!width=25{{!}}{{Tooltip|GF|Goals for}}
+!width=25{{!}}{{Tooltip|GA|Goals against}}
+!width=25{{!}}{{Tooltip|GD|Goal difference}}
+!width=25|{{Tooltip|Pts|Points}}
+|- style="background:#cfc;"
+|align="left"|{{fb|KOR|1949}}
+|4||3||1||0||10||2||+8||'''7'''
+|- style="background:#cfc;"
+|align="left"|{{fb|KUW}}
+|4||2||1||1||8||5||+3||'''5'''
+|-
+|align="left"|{{fb|MAS}}
+|4||1||2||1||5||5||0||'''4'''
+|-
+|align="left"|{{fb|QAT}}
+|4||1||1||2||3||8||−5||'''3'''
+|-
+|align="left"|{{fb|United Arab Emirates}}
+|4||0||1||3||3||9||−6||'''1'''
+|}
+
+Malaysia made its second Asian Cup appearance in [[1980 AFC Asian Cup|1980]], placed in Group B alongside South Korea, Kuwait, Qatar and the United Arab Emirates. They managed to hold South Korea 1–1 in the first match, but would lose 1–3 to Kuwait before regaining a 2–0 victory against the United Arab Emirates. Malaysia would eventually finish 3rd after holding Qatar 1–1 in their last match.
+
+=== Falling performances and drought (1990–2009) ===
+[[File:NZvMalLineup1.JPG|thumb|left|The Malaysian team (yellow) against [[New Zealand men's national football team|New Zealand]] (white) during a [[Exhibition game|friendly match]] in [[Queen Elizabeth II Park]], [[Christchurch]], New Zealand, on 19 February 2006.]]
+In 1994, Malaysian football was embroiled in one of the largest [[1994 Malaysian football scandal|bribery scandals]] in the country.<ref>{{cite news|url=https://www.economist.com/international/2015/06/04/good-money-bad-money|title=Good money, bad money|newspaper=[[The Economist]]|date=4 June 2015|access-date=4 June 2018|archive-url=https://web.archive.org/web/20180604044156/https://www.economist.com/international/2015/06/04/good-money-bad-money|archive-date=4 June 2018|url-status=dead}}</ref><ref>{{cite web|url=https://cilisos.my/the-1994-scandal-that-destroyed-malaysian-football/|title=The 1994 scandal that destroyed Malaysian football|last=Sim|first=Johannan|work=cilisos.my|date=25 May 2016|access-date=4 June 2018|archive-url=https://web.archive.org/web/20180604042503/https://cilisos.my/the-1994-scandal-that-destroyed-malaysian-football/|archive-date=4 June 2018|url-status=dead}}</ref> With the dearth of mainstream interest and lack of funds, Malaysian football has failed to repeat the performances of the 1970s and 1980s to qualify into major tournaments, despite the recruitment of [[Claude LeRoy]]. [[Allan Harris]] appointed as a new head coach in 2001. Harris came with strong credentials, having assisted [[Terry Venables]] at [[FC Barcelona]]. In the second half of 2004, FAM appoint [[Bertalan Bicskei]], former Hungarian goalkeeper and national coach, to succeed Allan Harris. Bicskei led the national side to third place at the regional [[Tiger Cup]] tournament, but was demoted to youth development duties by FAM for his actions during a friendly against [[Singapore national football team|Singapore]] in [[Penang]] on 8 June 2005. Bicskei, disgusted by the standard of officiating, threw a bottle onto the pitch before confronting a Singapore player. In September 2005, his contract was terminated after a mutual agreement.<ref>{{cite web|url=http://www.origo.hu/sport/magyarfoci/20050918bicskei.html|title=Bicskei Bertalan feláll a malajziai kispadról|trans-title=Bertalan Bicskei stands up from the Malaysian bench|language=hu|work=Origo|date=18 September 2005|access-date=29 March 2016|archive-url=https://web.archive.org/web/20160329052033/http://www.origo.hu/sport/magyarfoci/20050918bicskei.html|archive-date=29 March 2016|url-status=dead}}</ref>
+
+[[Norizan Bakar]] became the next head coach of the Malaysian team. He guided the Malaysian squad to the [[2007 AFF Championship]] semifinals in 2007, where Malaysia lost through penalties to Singapore. Norizan's position as the head coach was criticised by the Malaysian football community, fans and officials alike, after the team's performances during the [[2007 AFC Asian Cup]] as co-host of the edition, where Malaysia lost to [[China PR national football team|China]] 1–5, [[Uzbekistan national football team|Uzbekistan]] 0–5 and [[Iran national football team|Iran]] 0–2. After the removal of Norizan Bakar, B. Sathianathan took over as head coach. Although he guided the [[Malaysia national under-23 football team|squad]] to win the [[2007 Merdeka Tournament]], Malaysia once again failed to qualify for the World Cup after losing 1–4 and drawing 0–0 with [[Bahrain national football team|Bahrain]] in the qualifying round. In March 2008, Sathianathan once again reached the final of the [[2008 Merdeka Tournament|Merdeka Tournament]]. However, Malaysia lost on penalties to Vietnam. Sathianathan also led Malaysia to the semi-finals of the [[2008 Myanmar Grand Royal Challenge Cup]]. However, Malaysia then shockingly lost 1–4 to the eventual winners, [[Myanmar national football team|Myanmar]].<ref>{{cite web|url=https://www.rsssf.org/tablesg/grc08.html|title=Grand Royal Challenge Cup 2008 (Yangon)|last=Stokkermans|first=Karel|date=21 December 2009|access-date=29 March 2016|archive-url=https://web.archive.org/web/20160329053352/http://www.rsssf.com/tablesg/grc08.html|archive-date=29 March 2016|website=[[RSSSF]]|url-status=live }}</ref>
+
+During the [[2008 AFF Championship]], Malaysia started their campaign with a 3–0 win over Laos but were defeated in the second match by Vietnam with a score of 2–3 and were finally eliminated when they lost 0–3 to Thailand in the final match of the group stage. This was the first time that the Malaysian squad had not passed through the group stages in 12 years. There were also reports that match-fixing and bribery that infiltrated Malaysian football in 1994 have returned.<ref>{{cite web|url=https://www.reuters.com/article/sport-malaysia-bribery/soccer-corruption-appearing-again-in-malaysian-sport-chief-says-idUKSP39890320081015|title=Soccer-Corruption appearing again in Malaysian sport, chief says|last1=Shine|first1=Ossian|last2=Stutchbury|first2=Greg|work=Reuters|date=15 October 2008|access-date=4 June 2018|archive-url=https://web.archive.org/web/20180604043716/https://www.reuters.com/article/sport-malaysia-bribery/soccer-corruption-appearing-again-in-malaysian-sport-chief-says-idUKSP39890320081015|archive-date=4 June 2018|url-status=dead}}</ref> In the [[2011 AFC Asian Cup qualification|2011 Asian Cup qualifiers]], the Malaysian team lost 0–5 to the [[United Arab Emirates national football team|United Arab Emirates]]. This defeat was the final straw in the eyes of Malaysian supporters, and in February 2009, the contracts of Sathianathan and manager [[Soh Chin Ann]] were terminated.<ref>{{cite web|url=https://www.asiaone.com/News/Latest+News/Sports/Story/A1Story20090201-118608.html|title=Malaysia sacks national football coach|agency=[[Agence France-Presse]]|via=[[AsiaOne]]|date=1 February 2009|access-date=29 March 2016|archive-url=https://web.archive.org/web/20160329054254/http://news.asiaone.com/News/Latest%2BNews/Sports/Story/A1Story20090201-118608.html|archive-date=29 March 2016|url-status=live}}</ref>
+
+==== FA Premier League Asia Cup (2003) ====
+In July 2003, Malaysia qualified for the [[2003 FA Premier League Asia Cup]] as the host nation and as the only national team to ever do so, and on 24 July 2003, they lost 1–4 against [[Chelsea F.C.|Chelsea]] in the semi-finals in a match where [[Hairuddin Omar]] scored Malaysia's only goal of the tournament to bring the match to 1–1.<ref>{{cite web|url=http://www.goalzz.com/main.aspx?c=31|title=FA Premier League Asia Cup 2003|work=Goalzz.com|access-date=21 December 2024|archive-url=https://web.archive.org/web/20041016080409/http://www.goalzz.com/main.aspx?c=31|archive-date=16 October 2004|url-status=dead}}</ref> In the third-place playoff on 26 July 2003, they lost 0–4 against [[Birmingham City F.C.|Birmingham City]] and placed fourth in the tournament.<ref>{{cite web|url=https://www.rsssf.org/tablesf/faplasia03.html|title=FA Premier League Asia Cup 2003|last=Saaid|first=Hamdan|work=Rec.Sport.Soccer Statistics Foundation|date=31 July 2003|access-date=21 December 2024}}</ref>
+
+==== 2004 AFC Asian Cup qualification ====
+Malaysia were placed in the 6th group in the [[2004 AFC Asian Cup qualification|qualifying]], alongside teams such as [[Iraq national football team|Iraq]], [[Bahrain national football team|Bahrain]] & [[Myanmar national football team|Myanmar]]. The Malaysian national team drew with Iraq 0–0, before smashing Myanmar with 4 to nil goals. Malaysia later scored 2 goals against Bahrain in the last 10 minutes, securing them 5 points.
+
+However, disappointment would strike as they bombed their next matches in [[Manama]], Bahrain. Malaysia failed to score points there, losing 5–1 to Iraq, 3–1 to Bahrain & 2–1 to Myanmar. Thus, Malaysia failed to qualify for [[2004 AFC Asian Cup]], sitting at the 3rd place with 1 win, 2 draws & 3 losses. The Malaysian media & fans reacted how the Malaysian team could lose with such a humiliating result outside Malaysia, similar to the [[2000 AFC Asian Cup qualification]], when they bombed their second leg matches against [[Thailand national football team|Thailand]], [[North Korea national football team|North Korea]] & [[Chinese Taipei national football team|Taiwan]].
+
+=== AFF Championship triumph (2010) ===
+{{football squad on pitch|align=right
+|GK  =  <big>'''22'''</big><br>[[Khairul Fahmi Che Mat|'''Fahmi''']]
+|RB  =  <big>'''4'''</big><br>[[Asraruddin Putra Omar|'''Asraruddin''']]
+|RCB =  <big>'''24'''</big><br>[[Muslim Ahmad|'''Muslim''']]
+|LCB =  <big>'''27'''</big><br>[[Fadhli Shas|'''Fadhli''']]
+|LB  =  <big>'''2'''</big><br>[[Sabre Abu|'''Sabre''']]
+|RCM =  <big>'''8'''</big><br>[[Mohd Safiq Rahim|'''Safiq''']] ([[Captain (association football)|c]])
+|LCM =  <big>'''12'''</big><br>[[Amar Rohidan|'''Amar''']]
+|RW  =  <big>'''16'''</big><br>[[S. Kunanlan|'''Kunanlan''']]
+|LW  =  <big>'''26'''</big><br>[[Ashari Samsudin|'''Ashari''']]
+|RCF =  <big>'''9'''</big><br>[[Norshahrul Idlan|'''Norshahrul''']]
+|LCF =  <big>'''10'''</big><br>[[Safee Sali|'''Safee''']]
+| caption = [[2010 AFF Championship]] champion second-leg finals starting line-up.<ref>{{YouTube|kf3X2wUvxck|AFF2010 – Indonesia vs Malaysia (Final 2nd leg) Suzuki Cup}}. (See 00:24 for the player name) Retrieved on 8 February 2018.</ref>
+}}
+
+In April 2009, [[K. Rajagopal (footballer)|K. Rajagopal]] was named the new coach of Malaysia replacing [[B. Sathianathan]] and took over the position in July 2009, of which he also looked after the Malaysia under-23 squad.<ref>{{cite web|url=http://thestar.com.my/sports/story.asp?file=/2009/12/20/sports/5335727&sec=sports |archive-url=https://web.archive.org/web/20101129025113/http://thestar.com.my/sports/story.asp?file=%2F2009%2F12%2F20%2Fsports%2F5335727&sec=sports |url-status=dead |archive-date=29 November 2010 |title=Coach Rajagopal urges Malaysians to support team irrespective of results |work=The Star |date=20 December 2009 |access-date=29 March 2016 }}</ref> Rajagopal's first match was against [[Zimbabwe national football team|Zimbabwe]], which Malaysia won 4–0.<ref>{{cite web|url=http://www.aseanfootball.org/headlines_01.asp?id=937|title=Malaysia Trounce Zimbabwe|work=[[ASEAN Football Federation]]|date=13 July 2009|access-date=29 March 2016|archive-url=https://web.archive.org/web/20160329062141/http://www.aseanfootball.org/v2/?p=6368|archive-date=29 March 2016|url-status=dead}}</ref> Rajagopal also coached Malaysia in two games against visiting English champions, [[Manchester United F.C.|Manchester United]], losing both matches 2–3 and 0–2. During his time as the coach of the Under-23 team, Rajagopal led Malaysia to their fifth [[Football at the 2009 Southeast Asian Games|SEA Games]] gold medal and also led Malaysia to qualify for the second round of the [[Football at the 2010 Asian Games – Men|2010 Asian Games]] as one of the best four third-placed teams after a lapse of 32 years.<ref>{{cite web|url=http://www.goal.com/en/news/1276/south-east-asia/2009/12/17/1693014/malaysia-down-vietnam-to-win-sea-games-gold-medal|title=Malaysia Down Vietnam To Win SEA Games Gold Medal|work=Goal.com|date=17 December 2009|access-date=29 March 2016|archive-url=https://web.archive.org/web/20160329063917/http://www.goal.com/en/news/1276/south-east-asia/2009/12/17/1693014/malaysia-down-vietnam-to-win-sea-games-gold-medal|archive-date=29 March 2016|url-status=dead}}</ref><ref>{{cite web|url=http://thestar.com.my/sports/story.asp?file=/2010/11/14/asiangames/7427161&sec=asiangames |archive-url=https://web.archive.org/web/20101117000759/http://thestar.com.my/sports/story.asp?file=%2F2010%2F11%2F14%2Fasiangames%2F7427161&sec=asiangames |url-status=dead |archive-date=17 November 2010 |title=Malaysia enter last 16 but crippled by injuries and suspensions |work=The Star |date=14 November 2010 |access-date=14 November 2010 |language=en }}</ref>
+
+During the [[2010 AFF Championship]], a total of 14 Malaysia's players were under the age of 23. Placed in group A and lost the first match to host [[Indonesia national football team|Indonesia]] 1–5, Malaysia bounced back from defeat drawing Thailand and beating Laos 5–1. As runner up of group, Malaysia qualified for the semi-finals to meet Group B winners and defending champions [[Vietnam national football team|Vietnam]]. In the first leg of the semifinal, Malaysia won 2–0 on home soil and later drew 0–0 in the second leg, advancing to the final with an aggregate of 2–0.<ref>{{cite web|url=http://m.thethaovanhoa.vn/bong-da-viet/malaysia-viet-nam-20-tay-trang-san-khach-dtvn-gap-kho-o-luot-ve-n20101215190405930.htm|title=Malaysia – Việt Nam 2–0: Tay trắng sân khách, ĐTVN gặp khó ở lượt về|last=Mạnh|first=Vũ|trans-title=Malaysia – Vietnam 2–0: White hands away from home, Vietnam team finds it difficult to make a coming back|work=The Thao Van Hoa|date=15 December 2010|access-date=29 March 2016|archive-url=https://web.archive.org/web/20160329081904/http://m.thethaovanhoa.vn/bong-da-viet/malaysia-viet-nam-20-tay-trang-san-khach-dtvn-gap-kho-o-luot-ve-n20101215190405930.htm|archive-date=29 March 2016|url-status=dead |language=vi-VN}}</ref> An opportunity of revenge opened up in the finals as Malaysia again met Indonesia, who were unbeaten in all previous matches.
+
+On the first leg of the finals at home, Malaysia won 3–0. Malaysia scored twice through [[Mohd Safee Mohd Sali|Safee Sali]] and once through [[Mohd Ashaari Shamsuddin]] on a night when [[National Stadium, Bukit Jalil|Bukit Jalil National Stadium]] was filled over capacity for the first time since it was built. The match attracted so many people that after tickets were sold out, policemen manning the gates were seen allowing friends and relatives into the stadium, causing people to trespass onto the cable bridge above the electronic display besides standing on the aisles and corridors to view the game. On the second leg of the finals that was held in [[Jakarta]], Malaysia lost 1–2 to Indonesia but the final aggregate was 4–2 to Malaysia, thus Malaysia were awarded the title. It was the first time in history that Malaysia were crowned the champions of [[AFF Championship]] and a trophy in the international stage.<ref>{{cite web|url=http://vietnamnews.vn/sports/207190/malaysia-win-their-first-asean-cup-.html|title=Malaysia win their first ASEAN Cup|work=Việt Nam News|date=30 December 2010|access-date=29 March 2016|archive-url=https://web.archive.org/web/20160329082349/http://vietnamnews.vn/sports/207190/malaysia-win-their-first-asean-cup-.html|archive-date=29 March 2016|url-status=dead |language=en}}</ref>
+
+=== Stagnation (2011–2022) ===
+{{AI-generated|section|certain=yes|date=July 2025}}
+
+==== 2010s: Mixed results and coaching changes ====
+During the 2010s, the Malaysian national team underwent several coaching changes but struggled to achieve consistent success in international competitions.
+
+In July 2014, [[Dollah Salleh]] replaced [[K. Rajagopal (footballer)|K. Rajagopal]] as head coach. Under Dollah's leadership, Malaysia reached the final of the [[2014 AFF Championship]], though the team failed to match its 2010 tournament victory. Subsequent matches saw uneven performances, including:
+* Heavy defeats to [[Oman national football team|Oman]] (0–6) and [[Palestine national football team|Palestine]] (0–6)
+* A 1–1 draw against [[Timor-Leste national football team|Timor-Leste]]
+* A record 0–10 loss to the [[United Arab Emirates national football team|United Arab Emirates]] in September 2015, after which Dollah resigned.<ref>{{cite web|url=https://www.fourfourtwo.com/sg/features/dollah-salleh-worst-malaysia-head-coach-over-past-decade|title=Dollah Salleh's tenure as Malaysia coach|work=FourFourTwo|date=9 May 2015|access-date=11 June 2017|archive-url=https://web.archive.org/web/20170521103621/https://www.fourfourtwo.com/sg/features/dollah-salleh-worst-malaysia-head-coach-over-past-decade|archive-date=21 May 2017}}</ref>
+
+[[Ong Kim Swee]] served as interim coach from September 2015 until March 2017, when Portuguese manager [[Nelo Vingada]] was appointed. Vingada's tenure saw disappointing results in [[2019 AFC Asian Cup qualification]]:
+* A 1–2 loss to [[Lebanon national football team|Lebanon]] despite leading 1–0 at halftime
+* A 1–1 draw and subsequent 0–2 loss to [[Hong Kong national football team|Hong Kong]]
+* Two 1–4 defeats against [[North Korea national football team|North Korea]]
+* Elimination with 1 draw and 5 losses in the qualifying group<ref>{{cite web|url=https://www.goal.com/en-us/news/malaysias-2019-asian-cup-qualification-results/1q65dzhilhvsk1w2dcxbdp6bev|title=Malaysia's 2019 Asian Cup qualification results|work=Goal.com|access-date=4 June 2018|archive-url=https://web.archive.org/web/20180604025701/http://www.goal.com/en-us/news/malaysias-entire-2019-asian-cup-qualification-in-full/1q65dzhilhvsk1w2dcxbdp6bev|archive-date=4 June 2018}}</ref>
+
+Vingada resigned in late 2017 and was replaced by assistant coach [[Tan Cheng Hoe]].<ref name="The Star">{{cite web|url=https://www.thestar.com.my/sport/football/2017/12/07/fam-tan-cheng-hoe-to-take-over-as-harimau-malaya-head-coach/|title=Tan Cheng Hoe appointed as Malaysia head coach|work=The Star|date=7 December 2017|access-date=29 June 2018|archive-url=https://web.archive.org/web/20190524185913/https://www.thestar.com.my/sport/football/2017/12/07/fam-tan-cheng-hoe-to-take-over-as-harimau-malaya-head-coach/|archive-date=24 May 2019}}</ref>
+
+==== 2018 AFF Championship campaign ====
+Following their failure to qualify for the [[2019 AFC Asian Cup]], Malaysia competed in the [[2018 AFF Championship]], being drawn in Group A alongside [[Vietnam national football team|Vietnam]], [[Myanmar national football team|Myanmar]], [[Laos national football team|Laos]], and [[Cambodia national football team|Cambodia]]. The team advanced as group runners-up with three victories and one defeat (against Vietnam).
+
+In the semifinals, Malaysia faced reigning champions [[Thailand national football team|Thailand]]:
+* First leg: 0–0 draw at home
+* Second leg: 2–2 draw in [[Bangkok]], advancing on the [[away goals rule]]<ref>{{cite web |title=Malaysia reach AFF Cup final on away goals |work=The Star |date=5 December 2018 |url=https://www.thestar.com.my/sport/football/2018/12/05/malaysia-in-the-final-of-aff-suzuki-cup |archive-url=https://web.archive.org/web/20190831054544/https://www.thestar.com.my/sport/football/2018/12/05/malaysia-in-the-final-of-aff-suzuki-cup |archive-date=31 August 2019}}</ref>
+
+The final against Vietnam saw:
+* First leg: 2–2 draw in Malaysia
+* Second leg: 0–1 loss in [[Hanoi]]
+* Aggregate 2–3 defeat, marking Malaysia's third runners-up finish in the tournament's history<ref>{{cite web |title=Vietnam win 2018 AFF Championship |work=Nhân Dân |date=15 December 2018 |url=https://en.nhandan.com.vn/pictures/item/6962202-vietnam-crowned-champions-of-aff-suzuki-cup-2018.html |archive-url=https://web.archive.org/web/20190831054547/https://en.nhandan.com.vn/pictures/item/6962202-vietnam-crowned-champions-of-aff-suzuki-cup-2018.html |archive-date=31 August 2019}}</ref>
+
+The tournament highlighted progress in Malaysia's youth development program, with several young players making significant contributions.<ref>{{cite web |title=Malaysia's youth development shows promise |work=New Straits Times |date=14 August 2019 |url=https://www.nst.com.my/sports/football/2019/08/512638/going-malaysian-way |archive-url=https://web.archive.org/web/20190831083240/https://www.nst.com.my/sports/football/2019/08/512638/going-malaysian-way |archive-date=31 August 2019}}</ref>
+
+Malaysia entered the [[2022 FIFA World Cup qualification (AFC)|2022 FIFA World Cup qualification]] from the first round due to its FIFA ranking. In the first round, Malaysia defeated [[Timor-Leste national football team|Timor-Leste]] 12–2 on aggregate.<ref>{{cite report |url=https://www.bernama.com/en/news.php?id=1734357 |title=Malaysia vs Timor-Leste 2022 WCQ Report |publisher=Bernama |date=11 June 2019}}</ref>
+
+In the second round, Malaysia was drawn into Group G with [[Thailand national football team|Thailand]], [[Indonesia national football team|Indonesia]], [[Vietnam national football team|Vietnam]], and the [[United Arab Emirates national football team|United Arab Emirates]]. The campaign included:
+* A 3–2 victory over Indonesia, marked by heightened tensions between the rival nations.<ref>{{cite news |title=Malaysia edges Indonesia in tense qualifier |newspaper=Straits Times |date=2019-09-05}}</ref>
+* A 1–2 home defeat to the UAE after leading early.<ref>{{cite web |url=https://www.espn.co.uk/football/match/_/gameId/553253/united-arab-emirates-malaysia |title=UAE comeback stuns Malaysia |publisher=ESPN |date=10 September 2019}}</ref>
+* A 0–1 away loss to Vietnam, repeating their defeat in the [[2018 AFF Championship]].<ref>{{cite news |title=Vietnam defeats Malaysia in WCQ |newspaper=Vietnam News |date=2019-10-10}}</ref>
+* A 2–1 home win against Thailand, keeping qualification hopes alive.<ref>{{cite news |title=Malaysia defeats Thailand in qualifier |newspaper=Bangkok Post |date=2019-11-14}}</ref>
+* A 2–0 victory over Indonesia, moving Malaysia to second in the group behind Vietnam.<ref>{{cite news |title=Malaysia defeats Indonesia again |newspaper=Jakarta Post |date=2019-11-19}}</ref>
+
+==== COVID-19 pandemic impact and coaching change ====
+The [[COVID-19 pandemic in Malaysia|COVID-19 pandemic]] significantly affected Malaysia's national team in 2021. During the final matches of [[2022 FIFA World Cup qualification (AFC)|2022 World Cup qualification]], several key players were unavailable, forcing head coach [[Tan Cheng Hoe]] to field a squad featuring new call-ups and veteran players.
+
+The team's results during this period included:
+* 0-2 defeat against [[Bahrain national football team|Bahrain]]
+* 1-4 loss to [[Kuwait national football team|Kuwait]] in a friendly match
+* 0-4 defeat against the [[United Arab Emirates national football team|United Arab Emirates]]
+* 1-2 loss to [[Vietnam national football team|Vietnam]]
+* A final 1-0 victory over [[Thailand national football team|Thailand]] in qualification
+
+These results eliminated Malaysia from World Cup contention. The team's struggles continued at the [[2020 AFF Championship]] (held in December 2021), where they failed to advance beyond the group stage. Following this performance, Tan Cheng Hoe resigned as head coach in January 2022.<ref>{{cite news |title=Tan Cheng Hoe resigns as Malaysia head coach |work=Channel News Asia |date=3 January 2022 |url=https://www.channelnewsasia.com/sport/malaysia-football-tan-cheng-hoe-resigns-aff-suzuki-cup-2020-2412336 |archive-url=https://web.archive.org/web/20220104035709/https://www.channelnewsasia.com/sport/malaysia-football-tan-cheng-hoe-resigns-aff-suzuki-cup-2020-2412336 |archive-date=4 January 2022}}</ref>
+
+=== Resurgence of Harimau Malaya (2022–2025) ===
+After Tan Cheng Hoe's resignation, former vice-president of [[Korea Football Association]], [[Kim Pan-gon]] was appointed as Malaysia's new national team coach on a 2-year contract.<ref>{{cite web |title=Who is Kim Pan-gon, the new Harimau Malaya head coach? |url=https://www.prestigeonline.com/my/people/kim-pan-gon-harimau-malaya-head-coach-malaysia/ |website=Prestige |access-date=21 January 2022 |date=21 January 2022 |language=en}}</ref> His first task was the [[2022 FAS Tri-Nations Series]] held in Singapore in March 2022. At that time, Pan-gon recorded his first success when Malaysia won 2–0 against [[Philippines national football team|Philippines]] but suffered a subsequent 1–2 loss to Singapore in the next match.<ref>{{cite web |title=S'pore beats M'sia 2–1 in FAS Tri-Nations Series, Ikhsan Fandi scored both goals |url=https://mothership.sg/2022/03/singapore-malaysia-fas-tri-nation/ |website=Mothership |access-date=26 March 2022 |date=26 March 2022 |language=en}}</ref> Pan-gon's next challenge came when Malaysia faced [[Brunei national football team|Brunei]] and [[Hong Kong national football team|Hong Kong]] in a series of friendly matches as part of preparations for the [[2023 AFC Asian Cup qualification]].<ref>{{cite web |title=Malaysia to test against Brunei and Hong Kong |url=https://www.aseanfootball.org/v3/malaysia-to-test-against-brunei-and-hong-kong/ |website=aseanfootball.org |access-date=17 May 2022 |date=17 May 2022 |language=en}}</ref> Malaysia won 4–0 against Brunei<ref>{{cite web |title=Malaysia beat Brunei 4–0 in football friendly |url=https://www.nst.com.my/sports/football/2022/05/800144/malaysia-beat-brunei-4-0-football-friendly |website=New Straits Times |access-date=27 May 2022 |date=27 May 2022 |language=en}}</ref> and 2–0 against Hong Kong,<ref>{{cite web |title=Malaysia beat Hong Kong 2–0 in football friendly |url=https://www.nst.com.my/sports/football/2022/06/801534/malaysia-beat-hong-kong-2-0-football-friendly |website=New Straits Times |access-date=2 June 2022 |date=2 June 2022 |language=en}}</ref> raising confidence and support from FAM and Malaysians in the hope of improving Malaysian football's fortunes which had declined in the previous years.
+
+In the third round of [[2023 AFC Asian Cup qualification – third round|2023 AFC Asian Cup qualification]], Malaysia faced 3 matches which began with a 3–1 victory against [[Turkmenistan national football team|Turkmenistan]] in the first match,<ref>{{cite web |title=Malaysia get winning start in Asian Cup qualifiers against Turkmenistan |url=https://www.thestar.com.my/sport/football/2022/06/08/malaysia-get-winning-start-in-asian-cup-qualifiers-against-turkmenistan |website=The Star |access-date=8 June 2022 |date=8 June 2022 |language=en}}</ref> suffering a 1–2 loss to [[Bahrain national football team|Bahrain]],<ref>{{cite web |title=Gloomy skies add to Harimau Malaya's woes in 1–2 defeat to Bahrain |url=https://www.thestar.com.my/sport/football/2022/06/11/gloomy-skies-add-to-harimau-malaya039s-woes-in-1-2-defeat-to-bahrain |website=The Star |access-date=11 June 2022 |date=11 June 2022 |language=en}}</ref> before successfully ending their campaign by defeating [[Bangladesh national football team|Bangladesh]] with 4–1.<ref>{{cite web |title=Malaysia 4–1 Bangladesh (Jun 14, 2022) Final Score |url=https://www.espn.com/soccer/match/_/gameId/632975 |website=ESPN |access-date=14 June 2022 |date=14 June 2022 }}</ref> Thus, Malaysia finished second in Group E behind Bahrain and automatically qualified for the [[2023 AFC Asian Cup]] on merit after 42 years.<ref>{{cite web |title=Malaysia qualify for 2023 Asian Cup |url=https://www.thestar.com.my/sport/football/2022/06/14/harimau-malaya-qualify-for-2023-asia-cup |website=The Star |access-date=14 June 2022 |date=14 June 2022 |language=en}}</ref><ref>{{cite web |title=15 years after co-hosting AFC Asian Cup, Malaysia, Indonesia, Thailand and Vietnam are back on their own merit |url=https://www.espn.com/soccer/story/_/id/37629343/15-years-co-hosting-afc-asian-cup-malaysia-indonesia-thailand-vietnam-back-own-merit |last=Tan |first=Gabriel |website=ESPN |access-date=15 June 2022 |date=15 October 2023 |language=en}}</ref> Shortly thereafter, Malaysia's FIFA ranking rose up to 147th from 154th in March 2022.<ref>{{cite web |title=Malaysia jump seven rungs, now 147th in FIFA world rankings |url=https://www.thestar.com.my/sport/football/2022/06/23/malaysia-jump-seven-rungs-now-147th-in-fifa-world-rankings |website=The Star |access-date=23 June 2022 |date=23 June 2022 |language=en}}</ref> Later in September 2022, Malaysia entered the [[2022 King's Cup]] in Thailand, facing the host and later, [[Tajikistan national football team|Tajikistan]] in the final. Malaysia won 5–3 on penalties against Thailand after a 1–1 draw but later failed to win the cup after a 0–3 lost in the [[penalty shoot-out (association football)|penalty shootout]] after being held to a goalless draw.<ref>{{cite web |title=Harimau Malaya lose King's Cup final after penalty shootout heartbreak |url=https://www.nst.com.my/sports/football/2022/09/834395/harimau-malaya-lose-kings-cup-final-after-penalty-shootout-heartbreak |website=New Straits Times |access-date=26 September 2022 |date=26 September 2022 }}</ref>
+
+==== 2023 AFC Asian Cup qualification – third round Group E ====
+{{2023 AFC Asian Cup qualification – third round group tables|Group E|showteam=MAS}}
+
+At the end of 2022, before the start of the [[2022 AFF Championship]] campaign, Malaysia held 2 friendly matches against [[Cambodia national football team|Cambodia]] and [[Maldives national football team|Maldives]],<ref>{{cite web |title=AFF Cup run-up: Cambodia and Maldives easy meat for Harimau? |url=https://www.nst.com.my/sports/football/2022/10/845507/aff-cup-run-cambodia-and-maldives-easy-meat-harimau |website=New Straits Times |access-date=31 October 2022 |date=31 October 2022 }}</ref> winning 4–0<ref>{{cite web |title=Malaysia outclass Cambodia 4–0 in friendly |url=https://www.nst.com.my/sports/football/2022/12/859460/malaysia-outclass-cambodia-4-0-friendly |website=New Straits Times |access-date=10 December 2022 |date=10 December 2022 |language=en}}</ref> and 3–0 respectively.<ref>{{cite web |title=Malaysia beat Maldives 3–0 in football friendly |url=https://www.nst.com.my/sports/football/2022/12/860874/malaysia-beat-maldives-3-0-football-friendly |website=New Straits Times |access-date=15 December 2022 |date=15 December 2022 |language=en}}</ref> In the 2022 AFC Championship, Malaysia has won 1–0 against Myanmar with [[Syihan Hazmi]] saving a late penalty to secure the win for Malaysia.<ref>{{cite web |title=Winning start for Malaysia |url=https://www.thestar.com.my/sport/football/2022/12/21/winning-start-for-malaysia |website=The Star |access-date=21 December 2022 |date=21 December 2022 }}</ref> In the next match, Malaysia went on to thrash Laos 5–0<ref>{{cite web |title=AFF Cup: Malaysia whip Laos 5–0 to register second consecutive win |url=https://www.nst.com.my/sports/football/2022/12/864151/aff-cup-malaysia-whip-laos-5-0-register-second-consecutive-win |website=New Straits Times |access-date=25 December 2022 |date=25 December 2022 |language=en}}</ref> but lost 0–3 against Vietnam in a controversial match that led to [[Azam Azmi]]'s red card.<ref>{{cite web |title=Malaysia fall to Vietnam in controversial AFF Cup match |url=https://www.nst.com.my/sports/football/2022/12/864861/malaysia-fall-vietnam-controversial-aff-cup-match |website=New Straits Times |access-date=27 December 2022 |date=27 December 2022 |language=en}}</ref> Yet, Malaysia won 4–1 against causeway rivals, Singapore in the last match being the first time Malaysia had won over Singapore on home soil which also sees Malaysia finishing in second place of Group B, thus seeing them automatically qualified to semi-finals match against Thailand.<ref>{{cite web |title=Harimau Malaya thrash Singapore 4–1 to reach AFF Cup semis |url=https://www.malaymail.com/news/sports/2023/01/03/harimau-malaya-thrash-singapore-4-1-to-reach-aff-cup-semis/48296 |website=Malay Mail |access-date=3 January 2023 |date=3 January 2023 |language=en}}</ref> Malaysia won the first leg of the match with [[Faisal Halim]] scoring the only goal in the match but in the second leg, Thailand scored thrice which see Malaysia failing to enter the final after with a 3–1 aggregate defeat to Thailand.<ref>{{cite web |title=Malaysia crash out in AFF Cup semi-finals |url=https://www.nst.com.my/sports/football/2023/01/869095/malaysia-crash-out-aff-cup-semi-finals |website=New Straits Times |access-date=10 January 2023 |date=10 January 2023 }}</ref> Despite this, Malaysia ended 2022 with astonishing results overall which see them rose up to 145th in FIFA ranking.<ref>{{cite web |title=Harimau Malaya shine in 2022 as M'sia qualify for Asian Cup on merit |url=https://themalaysianreserve.com/2022/12/31/harimau-malaya-shine-in-2022-as-msia-qualify-for-asian-cup-on-merit/ |website=The Malaysian Reserve |access-date=31 December 2022 |date=31 December 2022 |language=en}}</ref>
+
+Later in March 2023, Malaysia won again against Turkmenistan with 1–0<ref>{{cite web |title=Muhammad Akhyar helps Harimau Malaya to 1–0 win over Turkmenistan |url=https://www.thesundaily.my/sport/muhammad-akhyar-helps-harimau-malaya-to-1-0-win-over-turkmenistan-IO10787582 |website=The Sun Daily |access-date=24 March 2023 |date=24 March 2023 |language=en}}</ref> and 2–0 against Hong Kong at the [[Sultan Ibrahim Stadium]] in [[Johor]] in a series of friendlies.<ref>{{cite web |title=Malaysia down Hong Kong 2–0 in friendly |url=https://www.thestar.com.my/sport/football/2023/03/29/malaysia-down-hong-kong-2-0-in-friendly |website=The Star |access-date=29 March 2023 |date=29 March 2023 |language=en}}</ref> In June 2023, Malaysia won 4–1 against [[Solomon Islands national football team|the Solomon Islands]]<ref>{{cite web |title=Harimau Malaya roars to a 4–1 win against the Solomon Islands |url=https://www.thestar.com.my/sport/football/2023/06/15/harimau-malaya-roars-to-a-4-1-win-against-the-solomon-islands#:~:text=PETALING%20JAYA%3A%20Harimau%20Malaya%20got,on%20Wednesday%20(June%2014). |website=The Star |access-date=14 June 2023 |date=14 June 2023 |language=en}}</ref> and recorded their second biggest victory ever when they won 10–0 against [[Papua New Guinea national football team|Papua New Guinea]] at the [[Sultan Mizan Zainal Abidin Stadium]] in [[Terengganu FC|Terengganu]].<ref>{{cite web |title=Harimau Malaya hit 10 goals past Papua New Guinea |url=https://www.thestar.com.my/sport/football/2023/06/20/harimau-malaya-hit-10-goals-past-papua-new-guinea |website=The Star |access-date=20 June 2023 |date=20 June 2023 }}</ref> Shortly after, Malaysia's FIFA ranking rose up again to 137th in the world and 4th in ASEAN, behind the Philippines (135th), Thailand (113th) and Vietnam (95th), thus making it the highest ranking attained in 17 years.<ref>{{cite web |title=Malaysia up one rung to 137th in world rankings |url=https://www.thestar.com.my/sport/football/2023/06/30/malaysia-up-one-rung-to-137th-in-world-rankings |website=The Star |access-date=30 June 2023 |date=30 June 2023 |language=en}}</ref>
+
+In September 2023, Malaysia faced their biggest challenge ever when they met [[Syria national football team|Syria]] and [[China national football team|China]] in [[Chengdu]], China. Malaysia passed the test after coming back from two goals down to manage a 2–2 draw with Syria and 1–1 with China respectively. In October 2023, the [[2023 Merdeka Tournament|Merdeka Tournament]] was held after a 10-year absence, with Malaysia meeting India and Tajikistan. In the opening match, Malaysia won 4–2 against India in the semi-final but later lost to Tajikistan again 0–2 in the final.
+
+====2023 AFC Asian Cup====
+
+After 42 years of absence (excluding 2007, when Malaysia was one of the hosts), Malaysia went to the [[2023 AFC Asian Cup]] with high expectations, as they were put in a group with [[Jordan national football team|Jordan]], [[Bahrain national football team|Bahrain]], and [[South Korea national football team|South Korea]]. As part of the preparation for the tournament, Malaysia had a friendly match with Syria again with the same score as last year, a 2–2 draw. Malaysia opened their tournament with a disastrous start, as they were beaten 0–4 by Jordan. In the second match against Bahrain, whom they met in the qualifiers, the game looked to be ending in a draw, until [[Ali Madan]] scored a last-minute goal for Bahrain. Thus, Malaysia failed to advance past the group stages of the AFC Asian Cup again after four appearances, while they were also struggling to find their first Asian Cup win since their last win in [[1980 AFC Asian Cup|1980]].
+
+Malaysia headed into their final group stage fixture against the favourites in the group, South Korea. Within the 21st minute, Malaysia were already 1–0 down through a [[Jeong Woo-yeong]] header, heading into the second half of the match on the back foot. However, in the second half, [[Faisal Halim]] scored with an audacious chip against South Korean goalkeeper [[Jo Hyeon-woo]] (which was nominated as the goal of the tournament), followed up by a penalty slotted away by [[Arif Aiman Hanapi|Arif Aiman]] to give Malaysia a surprising 2–1 lead against the Koreans. Eventually, a [[Lee Kang-in]] free-kick and a penalty from [[Son Heung-min]] put South Korea back in the lead. With the score 3–2 to the Koreans and the match surpassing the 90th-minute mark, it looked to be three losses out of three for Harimau Malaya until the 90+15th minute, when [[Romel Morales]] scored an equaliser against all odds. The match ended [[2023 AFC Asian Cup Group E#South Korea vs Malaysia|3–3]], securing a memorable draw, and earning Malaysia's first point since 1980.
+
+==== 2026 FIFA World Cup qualification – Second Round ====
+Heading into the match against [[Oman national football team|Oman]] in March, the Malaysian camp remained optimistic about getting positive results. However, Malaysia suffered 2–0 defeats, both away & at home. Malaysia then managed to get 1 point against [[Kyrgyzstan national football team|Kyrgyzstan]] and 3 points against [[Chinese Taipei national football team|Chinese Taipei]], and eventually finished in third place with 10 points. However, it proved insufficient as Kyrgyzstan finished second with 11 points, thus seeing Malaysia out of contention for the World Cup, and instead compete in the third round of the AFC Asian Cup qualification.
+
+==== Kim Pan-gon's resignation and temporary care by Pau Martí ====
+Following Malaysia's elimination from the World Cup qualification, on 16 July 2024, Pan-gon announced his resignation as Malaysia's national team head coach, citing personal commitments. Assistant coach [[Pau Martí (football manager)|Pau Martí]] replaced Pan-gon as the caretaker coach.<ref>{{cite news|url=https://fam.org.my/news/siaran-media-kim-pan-gon-letak-jawatan-ketua-jurulatih-harimau-malaya|title=SIARAN MEDIA: KIM PAN GON LETAK JAWATAN KETUA JURULATIH HARIMAU MALAYA|publisher=[[Football Association of Malaysia]]|date=16 July 2024|language=Malay}}</ref> While managing the team, Martí helped the team win the [[2024 Merdeka Tournament]].<ref>{{Cite web|url=https://www.thestar.com.my/sport/football/2024/09/10/vicente-stays-present-as-he-has-the--future-in-mind|title=Vicente stays present as he has the future in mind|trans-title=|work=[[The Star (Malaysia)|The Star]]|language=en|date=10 September 2024|access-date=23 November 2024}}</ref> The [[2024 ASEAN Championship]] was his final international duty as the caretaker coach.
+
+==== Peter Cklamovski appointment and 2027 AFC Asian Cup qualification ====
+On 16 December 2024, FAM announced the appointment of [[Peter Cklamovski]], who was recently the former manager of [[FC Tokyo]], as the new head coach for the Malaysian team.<ref name="the-afc.com">{{cite news|url=https://www.the-afc.com/en/national/afc_asian_cup.html/news/cklamovski-named-malaysia-head-coach|title=Cklamovski named Malaysia head coach|work=AFC|date=16 December 2024|access-date=17 December 2024}}</ref> Cklamovski will begin his duties on 5 January 2025 with the task of leading the team to qualify for the [[2027 AFC Asian Cup]].<ref>{{cite web|url=https://www.ceoinsightsasia.com/news/peter-cklamovski-named-harimau-malaya-head-coach-nwid-13068.html|title=Peter Cklamovski Named Harimau Malaya Head Coach|date=16 December 2024|access-date=17 December 2024|publisher=CEO Insights Asia Team}}</ref><ref name="Bernama">{{cite news|url=https://thesun.my/sport/fam-assures-no-overlapping-of-duty-between-cklamovski-pau-marti-PE13429170|title=FAM assures no overlapping of duty between Cklamovski, Pau Marti|work=Bernama|via=The Sun|date=17 December 2024|access-date=17 December 2024}}</ref> Subsequently on 11 January 2025, FAM announced a new management line-up for the national team as part of its restructuring process. [[Rob Friend]] has been recruited as [[Chief executive officer|CEO]], Dr. Craig Duncan appointed as head of high performance and sports medicine, and former [[Australia men's national soccer team|Australian]] international footballer [[Tim Cahill]] has been elected as a personal advisor on sports and international relations.<ref>{{Cite web |date=11 January 2025 |title=Regent of Johor: Six to seven heritage players identified |url=https://www.nst.com.my/sports/football/2025/01/1159462/regent-johor-six-seven-heritage-players-identified |access-date=14 January 2025 |website=NST Online |language=en}}</ref>
+
+=== Falsicfication scandal (2025–2026)===
+{{main|Malaysian football naturalisation scandal}}
+On 26 September 2025, the FAM and seven "Malaysian heritage" players [[Gabriel Palmero|Gabriel Felipe Arrocha]], [[Facundo Garcés|Facundo Tomás Garcés]], [[Rodrigo Holgado|Rodrigo Julián Holgado]], [[Imanol Machuca|Imanol Javier Machuca]], [[João Figueiredo (footballer)|João Vitor Brandão Figueiredo]], [[Jon Irazabal|Jon Irazábal Iraurgui]] and [[Hector Hevel|Héctor Alejandro Hevel Serrano]] were sanctioned by [[FIFA]] after an investigation uncovered falsification and forgery of documents relating to the players' eligibility. The scandal involved attempts to register foreign-born footballers as Malaysian nationals, who played for Malaysia in the [[2027 AFC Asian Cup qualification – third round|third round of the 2027 AFC Asian Cup qualifiers]] against [[Nepal national football team|Nepal]] and [[Vietnam national football team|Vietnam]]. FIFA imposed a fine of [[Swiss franc|CHF]] 350,000 (approximately [[Malaysian ringgit|RM]] 1.9 million) on FAM, while each player received an individual fine of CHF 2,000 (about RM 10,560) and a 12-month suspension from all football related activities. FAM announced that it would appeal the sanctions.<ref>{{Cite web |date=27 September 2025 |title=FIFA Sanctions On FAM: AFC Awaits Football Tribunal Verdict |url=https://www.bernama.com/en/news.php/sports/news.php?id=2472131 |access-date=27 September 2025 |publisher=[[Bernama]] |language=en}}</ref><ref>{{Cite web |last=Nair |first=Rohith |last2=Latiff |first2=Rozanna |date=26 September 2025 |title=Malaysian players banned after using forged documents to play qualifier v Vietnam |url=https://www.reuters.com/sports/soccer/malaysian-players-banned-after-using-forged-documents-play-qualifier-v-vietnam-2025-09-26/ |access-date=27 September 2025 |publisher=[[Reuters]] |language=en|archive-url=https://web.archive.org/web/20250927210856/https://www.reuters.com/sports/soccer/malaysian-players-banned-after-using-forged-documents-play-qualifier-v-vietnam-2025-09-26/|archive-date=27 September 2025}}</ref><ref>{{cite web |title=FIFA sanctions Malaysia for fielding foreign-born players with fake documents |url=https://apnews.com/article/malaysia-forgery-fifa-4e75f8d75d40f986cb8f2a58f39fbbdc |publisher=[[Associated Press]] |access-date=27 September 2025 |archive-url=https://web.archive.org/web/20250927210754/https://apnews.com/article/malaysia-forgery-fifa-4e75f8d75d40f986cb8f2a58f39fbbdc |archive-date=27 September 2025 |language=en |date=26 September 2025}}</ref>
+
+On 6 October 2025, FIFA released an official report detailing falsifications concerning the players' eligibility, including the alleged birthplaces of their grandparents. While FAM claimed that the seven players had grandparents born in Malaysia, FIFA discovered that their grandparents had in fact been born in Argentina, Brazil, Spain and the Netherlands. FIFA condemned the act as a deliberate attempt to deceive, describing it as a serious breach of sporting integrity that undermines confidence in fair competition and compromises the fundamental principles of honesty and transparency in football.<ref>{{cite web |last1=Onyeagwara |first1=Nnamdi |title=Malaysia to appeal FIFA sanction over alleged fake documents for seven players |url=https://www.nytimes.com/athletic/6696558/2025/10/07/malaysia-fifa-ban-suspension-news/ |publisher=[[The Athletic]] |via=[[The New York Times]] |access-date=7 October 2025 |archive-url=https://web.archive.org/web/20251007180126/https://www.nytimes.com/athletic/6696558/2025/10/07/malaysia-fifa-ban-suspension-news/ |archive-date=7 October 2025 |date=7 October 2025}}</ref><ref>{{cite web |last1=Ewe |first1=Koh |title=Fifa accuses Malaysia of faking players' citizenship records |url=https://www.bbc.com/news/articles/cqxzv75dp4go |publisher=[[BBC News]] |access-date=7 October 2025 |archive-url=https://web.archive.org/web/20251007180252/https://www.bbc.com/news/articles/cqxzv75dp4go |archive-date=7 October 2025 |date=7 October 2025}}</ref>
+
+On 3 November 2025, the FIFA Appeal Committee rejected FAM's appeal and the sanctions stood.<ref>{{cite web|url=https://inside.fifa.com/legal/judicial-bodies/news/appeal-committee-confirms-sanctions-football-association-malaysia-seven-players|title=FIFA Appeal Committee confirms sanctions against Football Association of Malaysia and seven players|website=FIFA|date=3 November 2025}}</ref>
+
+As a result of the scandal, on 17 December 2025, FIFA overturned the results of three friendly matches of Malaysia against [[Cape Verde national football team|Cape Verde]], [[Singapore national football team|Singapore]] and [[Palestine national football team|Palestine]] into 0–3 defeats.<ref>{{cite news |title=FIFA overturns 3 Malaysia football matches in latest sanction over forgery scandal |url=https://www.channelnewsasia.com/asia/malaysia-football-fifa-overturn-results-player-eligibility-scandal-5623286 |access-date=17 December 2025 |work=CNA |date=17 December 2025 |language=en}}</ref>
+
+On 5 March 2026, [[Court of Arbitration for Sport|CAS]] dismissed FAM's appeal, while slightly eased the punishments against the players.<ref>{{Cite web |title=CAS partly amends sanction against seven players falsely made eligible to play for Malaysia |url=https://www.tas-cas.org/generated/assets/lists/dceab111-07bc-435f-b5f9-de88eff9db72/CAS%20Media%20Release_11990.pdf |url-status=live |archive-url=https://web.archive.org/web/20260305154940/https://www.tas-cas.org/generated/assets/lists/dceab111-07bc-435f-b5f9-de88eff9db72/CAS%20Media%20Release_11990.pdf |archive-date=2026-03-05 |access-date= |website=[[Court of Arbitration for Sport]]}}</ref> On 17 March 2026, the AFC also overturned the results of two matches in the [[2027 AFC Asian Cup qualification – third round|third round qualification of 2027 Asian Cup]] against [[Nepal national football team|Nepal]] and [[Vietnam national football team|Vietnam]] into 0–3 defeats, which resulted in Malaysia failing to qualify for the [[2027 AFC Asian Cup]].<ref>{{cite web|url=https://fam.org.my/news/siaran-media-jawatankuasa-tatatertib-etika-afc-jatuh-hukum-dua-perlawanan-kelayakan-piala-asia|title=PRESS RELEASE: AFC DISCIPLINARY & ETHICS COMMITTEE HAS RULED TWO 2027 ASIA CUP QUALIFICATION MATCHES, HARIMAU MALAYA SQUAD DECLARED 3-0 LOSS|publisher=Football Association of Malaysia|date=17 March 2026}}</ref>
+
+On 18 June 2026, FAM announced that Cklamovski along with his assistants has departed from the national team by mutual consent.<ref>{{cite web| url=https://fam.org.my/news/siaran-media-fam-umum-kontrak-ceo-dan-ketua-jurulatih-pasukan-kebangsaan-ditamatkan-atas|title= SIARAN MEDIA: FAM UMUM KONTRAK CEO DAN KETUA JURULATIH PASUKAN KEBANGSAAN DITAMATKAN ATAS PERSETUJUAN BERSAMA |publisher=Football Association of Malaysia|date=18 June 2026}}</ref>
+
+== Team image ==
+=== Media coverage ===
+
+{{Cleanup section|date=May 2025|reason=that the section uses several nested parentheses and ultimately appears to be missing a reference to an additional broadcaster. It also uses present tense while referring to past broadcast arrangements. It would benefit from clarification by a suitably knowledgeable editor}}
+
+All matches of Malaysia are shown live on [[Astro Arena (TV channel)|Astro Arena]] (friendlies, [[FIFA World Cup qualification|World Cup]] (2nd round only), and [[Media Prima]] ([[AFC Asian Cup qualification|Asian Cup]] qualifiers), [[Radio Televisyen Malaysia|RTM]] ([[AFF Championship]] matches (except [[2014 AFF Championship|2014 season]]), [[FIFA World Cup qualification|FIFA World Cup]] and [[AFC Asian Cup qualification|AFC Asian Cup]] qualifiers), and ([[AFF Championship]] matches for 2014 season only). All matches are broadcast with both [[English language|English]] (Astro only) and [[Malaysian language|Malaysian]] commentary.<ref>{{cite web|url=https://www.fam.org.my/news/siaran-media-fam-umum-rtm-astro-penyiar-rasmi-aksi-harimau-malaya|title=Siaran Media: FAM Umum RTM & Astro Penyiar Rasmi Aksi Harimau Malaya|trans-title=Press Release: FAM Announces RTM & Astro as the Official Broadcaster for Tiger Matches|language=ms|work=Football Association of Malaysia|date=4 September 2019|access-date=6 September 2019|archive-date=6 September 2019|archive-url=https://web.archive.org/web/20190906113815/https://www.fam.org.my/news/siaran-media-fam-umum-rtm-astro-penyiar-rasmi-aksi-harimau-malaya|url-status=live}}</ref>
+
+=== Kits ===
+{| class="wikitable"
+|-
+! style=background:#000000;color:#FFFFFF| Kit provider
+! style=background:#000000;color:#FFFFFF| Period
+! style=background:#000000;color:#FFFFFF| {{Abbr|Ref|References}}
+|-
+| {{center|''none''}}
+| 1963–1974
+|
+|-
+| {{flagicon|GER}} [[Adidas]]
+| 1975–1977
+| <ref>{{cite web|url=https://legasilagenda.com/2023/01/17/jersi-dan-pingat-1976-1977/|title=#ArkibLegasiLagenda – Jersi dan Pingat 1976/77|trans-title=#LegendArchiveLegacy – Jersey And Medal 1976/77|language=ms|work=Legasi Lagenda|date=17 January 2023|access-date=16 January 2025}}</ref>
+|-
+| {{flagicon|ENG}} [[Umbro]]
+| 1978
+| <ref name="mys kit history">{{cite web|url=https://www.footballkitarchive.com/malaysia-kits/|title=Malaysia Kit History|work=Football Kit Archive|access-date=25 November 2023|archive-url=https://web.archive.org/web/20231125083619/https://www.footballkitarchive.com/malaysia-kits/#2000s|archive-date=25 November 2023|url-status=dead}}</ref>
+|-
+| {{flagicon|GER}} [[Adidas]]
+| 1979–2006
+| <ref name="mys kit history"/>
+|-
+| {{flagicon|USA}} [[Nike, Inc.|Nike]]
+| 2007–2024
+| <ref>{{cite news|url=https://www.thestar.com.my/sport/other-sport/2007/01/08/fa-of-malaysia-sign-fouryear-deal-with-nike/|title=FA of Malaysia sign four-year deal with Nike|work=The Star|date=8 January 2007|access-date=8 February 2018}}</ref>
+|-
+| {{flagicon|GER}} [[Puma (brand)|Puma]]
+| 2025–2028
+| <ref>{{cite news|url=https://www.malaymail.com/news/sports/2025/01/01/fam-announces-puma-as-official-apparel-partner-of-harimau-malaya/161711|title=FAM announces Puma as official apparel partner of Harimau Malaya|work=Malay Mail|date=1 January 2025|access-date=16 January 2025}}</ref>
+|}
+{{Commons|Malaysia national football team kits}}
+{{Football kit box
+| pattern_la = _malaysia10a| pattern_b = _MASblue| pattern_ra = _malaysia10a
+| pattern_sh = _MAShome10| pattern_so = _mas10a
+|shorts=000000| socks = 135DAB| title = 2010 AFF Cup Final 2nd leg kit
+}}
+
+Starting from the 1975 Merdeka Tournament until 1977, the Malaysia football team wore the kit from Adidas. In 1978, Malaysia switched to [[Umbro]]. From 1979 to 2006, the national team kit was manufactured and sponsored by [[Adidas]]. Since 2025, the official Malaysia team kit has been manufactured by [[Puma (brand)|Puma]]. The home kit design of black and yellow stripes is a throwback to the kit used by the Malayan national team in the 1920s. The national team of the 1970s also sported similar stripes, which are supposed to be reminiscent of the stripes of a tiger.
+
+In November 2010, Nike Malaysia created a new football kit specially made for the [[2010 AFF Championship]]. The home kit's design of black and yellow stripes is shaped by a black row of lines. The away kit features a plain blue front and red and white at the edge of the sleeves. Nike used the Malaysian flag as their logo instead of the [[Football Association of Malaysia]] logo to remember the team's success in the 1970s.<ref>{{cite web|url=https://www.footyheadlines.com/2014/10/nike-malaysia-2014-2015-kits.html?m=1|title=Nike Malaysia 2014–2015 Kits Released|work=Footy Headlines|date=31 October 2014|access-date=29 March 2016|archive-url=https://web.archive.org/web/20160422134841/http://www.footyheadlines.com/2014/10/nike-malaysia-2014-2015-kits.html|archive-date=22 April 2016|url-status=dead}}</ref> On the underside of the flag, the quote "''Tanah Tumpahnya Darahku''" (The land that I spill my blood for) can be found. The quote is part of the [[Negaraku|Malaysia National Anthem]], alluding that they are doing their best for the country.
+
+The practice of using the flag on the kits ended when Malaysia got a new kit in late 2016. They have the FAM logo on the kits.
+
+=== Grounds ===
+;Home stadium
+
+Malaysia's home stadium is the [[National Stadium, Bukit Jalil|Bukit Jalil National Stadium]]. The stadium capacity is 87,411 (seated)<ref>{{cite web|url=http://fussballtempel.net/afc/MAS.html|title=Malaysia – Malaisie|work=Fussball Tempel (Football Stadiums of the World)|access-date=29 March 2016|archive-date=4 April 2016|archive-url=https://web.archive.org/web/20160404222017/http://fussballtempel.net/afc/MAS.html|url-status=live}}</ref> which makes it the ninth [[List of association football stadiums by capacity|largest football stadium in the world]]. Malaysia's previous national stadium was the [[Merdeka Stadium]] before the Bukit Jalil sports complex was constructed. Since the start of 2017, Malaysia has played its home matches in 5 different stadiums all over Malaysia with [[Kuala Lumpur Stadium]] second in line to host an international match.
+
+When there were ongoing renovations at the [[Bukit Jalil National Stadium]], the team played at other stadiums such as [[Sultan Ibrahim Stadium]] and [[Sultan Mizan Zainal Abidin Stadium]]. Due to the high population in the Klang Valley, the other stadiums used do not get high support from the fans. The Bukit Jalil Stadium, which is the largest stadium in Malaysia with a capacity of 87,000, is still the home of the Malaya Tigers even though there are several events taking place a few days before the match.
+
+{| class="wikitable" width=95% style="text-align:center;font-size:100%;"
+!colspan=5 style="background: #000000; color: #FFFFFF;|Malaysia national football team home stadiums
+|-
+!Image
+!Stadium
+!Capacity
+!Location
+!Last match
+|-
+|[[File:National Stadium Bukit Jalil 2014 AFF Suzuki Cup final.jpg|150px]]
+|[[Bukit Jalil National Stadium]]
+|87,500
+|[[Bukit Jalil]], Kuala Lumpur
+|'''v'''&nbsp;&nbsp;{{fb|NEP}}<br /><small>(18 November 2025; [[2027 AFC Asian Cup qualification – third round|2027 Asian Cup qualification]])</small>
+|-
+|[[File:Aerial View of Kuala Lumpur Stadium.png|150px]]
+|[[Kuala Lumpur Stadium]]
+|18,000
+|[[Cheras, Kuala Lumpur|Cheras]], Kuala Lumpur
+|'''v'''&nbsp;&nbsp;{{fb|CPV}}<br /><small>(29 May 2025; [[Exhibition game|Friendly]])</small>
+|-
+|[[File:Sultan Mizan Zainal Abidin Stadium (Night) 2021.jpg|frameless|154x154px]]
+|[[Sultan Mizan Zainal Abidin Stadium]]
+|50,000
+|[[Kuala Nerus, Terengganu|Kuala Nerus]], Terengganu
+|'''v'''&nbsp;&nbsp;{{fb|PNG}}<br /><small>(20 June 2023; [[Exhibition game|Friendly]])</small>
+|-
+|[[File:Sultan Ibrahim Stadium, Iskandar Puteri.jpg|frameless|153x153px]]
+|[[Sultan Ibrahim Stadium]]
+|40,000
+|[[Iskandar Puteri]], Johor
+|'''v'''&nbsp;&nbsp;{{fb|PLE}}<br /><small>(8 September 2025; [[Exhibition game|Friendly]])</small>
+|}
+
+=== Training ground ===
+[[Wisma FAM]] is the main headquarters for the [[Football Association of Malaysia]] which located at [[Kelana Jaya]], Selangor. The training facility for the Malaysia national football team is also located at the Wisma FAM. Other than that, it also serves as a meeting point for the coaches and national players. Also equipped with a room for press statements and small apartment rooms available for the national players during the training camp. Sometimes, ticket matches are also sold on this training facility.
+
+=== Supporters ===
+{{Main|Ultras Malaya}}
+[[File:Ultras Malaya in Bukit Jalil Stadium, 2014 AFF Championship Final.jpg|thumb|right|A part of the action from Ultras Malaya during the [[2014 AFF Championship]] second leg final match between Malaysia and [[Thailand national football team|Thailand]]. Thailand won the competition.|242x242px]]
+''[[Ultras Malaya]]'' is the name of the major supporter of the national team in Malaysia. They are known for their high fanaticism and support towards the national team. In every international match the national team plays, they are found in a group standing in the supporters' area. The main colours for these supporters are usually black with a yellow [[scarf]] and [[banners]] just like the national team kit colours. These supporters always bring [[Flare#Flares and football|flares]], drums and large national flags to the stadiums.<ref>{{cite web|url=http://www.malaysia-kini.com/2011/11/ultras-malaya/|title=Ultras Malaya|work=MalaysiaKini|date=23 November 2011|access-date=13 November 2014|archive-url=https://web.archive.org/web/20120910025634/http://www.malaysia-kini.com/2011/11/ultras-malaya/|archive-date=10 September 2012|url-status=dead}}</ref>
+
+==== Sponsorship ====
+According to the website of [[Football Association of Malaysia]], Malaysia main sponsors include [[Malaysia Airlines]], [[Puma (brand)|Puma]], [[Bank Islam Malaysia|Bank Islam]], [[100plus]], Wonda Coffee, [[Konami]], [[Caterpillar Inc.|CAT]], [[List of Warner Music Group labels#Asia|Warner Music Malaysia]], Kronos, and [[Milo (drink)|Milo]] with the association also establish social responsibilities partners with [[Department of Wildlife and National Parks Peninsular Malaysia]] (PERHILITAN).<ref>{{cite web|url=https://www.fam.org.my/|title=FAM Sponsors|quote=See at the bottom of the website.|access-date=19 January 2025}}</ref>
+
+== Results and fixtures ==
+{{See also|Malaysia national football team results (2020–present)|Malaysia national football team results}}
+
+The following is a list of match results in the last 12 months, as well as any future matches that have been scheduled.
+
+{{legend2|#CCFFCC|Win|border=1px solid #AAAAAA}}
+{{legend2|#FFFFCC|Draw|border=1px solid #AAAAAA}}
+{{legend2|#FFCCCC|Loss|border=1px solid #AAAAAA}}
+{{legend2|#FFFFFF|Fixture|border=1px solid #AAAAAA}}
+
+===2025===
+{{footballbox collapsible
+| format     = 1
+| round      = [[2027 AFC Asian Cup qualification – third round|2027 Asian Cup Qualification - Third Round]]
+| date       = 10 June 2025
+| time       = {{UTZ|21:00|8}}
+| team1      = {{fb-rt|MAS}}
+| score      = 0–3<br>Awarded{{efn|name=FAM penalty|On 26 September 2025, FIFA sanctioned the [[Football Association of Malaysia]] and seven players for using falsified eligibility documents.<ref>{{cite web |title=FIFA sanctions Football Association of Malaysia and seven players |url=https://inside.fifa.com/legal/judicial-bodies/news/fifa-sanctions-football-association-of-malaysia-and-seven-players |publisher=[[FIFA]] |access-date=28 September 2025}}</ref> All seven players all played in the match against Vietnam. On 17 March 2026, the AFC overturned the game as a 3–0 victory for Vietnam. The match originally ended in a 4–0 win for Malaysia.<ref name="awarded">{{Cite web |date=17 March 2026 |title=VVC 20260317DC01 |url=https://assets.the-afc.com/downloads/disciplinary-matters/List-of-the-AFC-DEC-Decision-17-March-2026.pdf |archive-url=https://web.archive.org/web/20260317070058/https://assets.the-afc.com/downloads/disciplinary-matters/List-of-the-AFC-DEC-Decision-17-March-2026.pdf |archive-date=2026-03-17 |website=the-AFC.com|publisher=Asian Football Confederation}}</ref>}}
+| report     = [https://globalsportsarchive.com/match/soccer/2025-06-10/malaysia-vs-vietnam/3587614/ Report]
+[https://www.the-afc.com/en/national/afc_asian_cup.html/news/qualifiers-group-f-malaysia-4-0-vietnam Report (AFC)]
+| team2      = {{fb|VIE}}
+| goals1     =
+*[[João Figueiredo (footballer)|Figueiredo]] {{goal|49}}
+*[[Rodrigo Holgado|Holgado]] {{goal|58}}
+*[[La'Vere Corbin-Ong|Corbin-Ong]] {{goal|67}}
+*[[Dion Cools|Cools]] {{goal|88}}
+| goals2     =
+| stadium    = [[Bukit Jalil National Stadium]]
+| location   = [[Kuala Lumpur]], Malaysia
+| attendance = 61,512
+| referee    = Hussein Abo Yehia ([[Lebanese Football Association|Lebanon]])
+| result     = L
+}}
+{{football box collapsible
+| format     = 1
+| round      = [[Exhibition game#Association football|Friendly]]
+| date       = 4 September 2025
+| time       = {{UTZ|21:00|8}}
+| team1      = {{fb-rt|MAS}}
+| score      = 0–3<br>Awarded{{efn|name=MASvSGP|Due to the [[Malaysian football naturalisation scandal]], the FIFA Disciplinary Committee awarded the match as a 3–0 win to Singapore on 17 December 2025 as Malaysia fielded the ineligible players [[Gabriel Palmero]], [[Facundo Garcés]], [[Rodrigo Holgado]], [[João Figueiredo (footballer)|João Figueiredo]] and [[Jon Irazabal]]. The match originally ended in a 2–1 win for Malaysia. The [[Football Association of Malaysia]] (FAM) were also fined [[Swiss franc|CHF]] 10,000.<ref name="FIFA MAS">{{cite web |url=https://fam.org.my/news/siaran-media-jawatankuasa-tatatertib-fifa-jatuh-hukum-tiga-perlawanan-antarabangsa-tier-1|title=SIARAN MEDIA: JAWATANKUASA TATATERTIB FIFA JATUH HUKUM TIGA PERLAWANAN ANTARABANGSA TIER 1 SKUAD HARIMAU MALAYA DIISYTIHAR KALAH 3-0|publisher=FAM |date=17 December 2025 |language=ms}}</ref>}}
+| team2      = {{fb|SGP}}
+| goals1 = *[[Stuart Wilkin|Wilkin]] {{goal|27}}
+*[[João Figueiredo (footballer)|Figueiredo]] {{goal|54}}
+| goals2     =
+*[[Ilhan Fandi]] {{goal|72}}
+| stadium    = [[Bukit Jalil National Stadium]]
+| location   = [[Kuala Lumpur]], Malaysia 
+| attendance = 22,329
+| referee    = Ngô Duy Lân ([[Vietnam Football Federation|Vietnam]])
+| report     = https://fam.org.my/news/siaran-media-jawatankuasa-tatatertib-fifa-jatuh-hukum-tiga-perlawanan-antarabangsa-tier-1
+| result     = L
+}}
+{{football box collapsible
+| format     = 1
+| round      = [[Exhibition game#Association football|Friendly]]
+| date       = 8 September 2025
+| time       = {{UTZ|21:00|8}}
+| team1      = {{fb-rt|MAS}}
+| score      = 0–3<br>Awarded{{efn|name=MASvPLE|Due to the [[Malaysian football naturalisation scandal]], the FIFA Disciplinary Committee awarded the match as a 3–0 win to Palestine on 17 December 2025 as Malaysia fielded the ineligible players [[Rodrigo Holgado]], [[João Figueiredo (footballer)|João Figueiredo]] and [[Jon Irazabal]]. The match originally ended in a 1–0 win for Malaysia. The [[Football Association of Malaysia]] (FAM) were also fined [[Swiss franc|CHF]] 10,000.<ref name="FIFA MAS" />}}
+| team2      = {{fb|PLE}}
+| goals1     = *[[João Figueiredo (footballer)|Figueiredo]] {{goal|3}}
+| goals2     =
+| stadium    = [[Sultan Ibrahim Stadium]]
+| location   = [[Johor]], Malaysia 
+| attendance = 7,084
+| referee    = Yudi Nurcahya ([[Football Association of Indonesia|Indonesia]])
+| report     = https://fam.org.my/news/siaran-media-jawatankuasa-tatatertib-fifa-jatuh-hukum-tiga-perlawanan-antarabangsa-tier-1
+| result     = L
+}}
+{{footballbox collapsible
+| format     = 1
+| round      = [[2027 AFC Asian Cup qualification – third round|2027 Asian Cup Qualification - Third Round]]
+| date       = 9 October 2025
+| time       = {{UTZ|19:00|7}}
+| team1      = {{fb-rt|LAO}}
+| score      = 0–3
+| report     = [https://globalsportsarchive.com/match/soccer/2025-10-09/lao-pdr-vs-malaysia/3587615/ Report] [https://www.the-afc.com/en/national/afc_asian_cup.html/news/qualifiers-group-f-laos-0-3-malaysia Report (AFC)]
+| team2      = {{fb|MAS}}
+| goals1     = 
+| goals2     = 
+*[[Arif Aiman|Arif]] {{goal|53}}
+*[[Dion Cools|Cools]] {{goal|69}}
+*[[Faisal Halim|Faisal]] {{goal|90+7}}
+| stadium    = [[New Laos National Stadium]]
+| location   = [[Vientiane]], Laos
+| attendance = 5,289
+| referee    = Wiwat Jumpao-on ([[Football Association of Thailand|Thailand]])
+| result     = W
+}}
+{{footballbox collapsible
+| format     = 1
+| round      = [[2027 AFC Asian Cup qualification – third round|2027 Asian Cup Qualification - Third Round]]
+| date       = 14 October 2025
+| time       = {{UTZ|21:00|8}}
+| team1      = {{fb-rt|MAS}}
+| score      = 5–1
+| report     = [https://globalsportsarchive.com/match/soccer/2025-10-14/malaysia-vs-lao-pdr/3587617/ Report] [https://www.the-afc.com/en/national/afc_asian_cup.html/news/qualifiers-group-f-malaysia-5-1-laos Report (AFC)]
+| team2      = {{fb|LAO}}
+| goals1     = 
+*[[Faisal Halim|Faisal]] {{goal|59}}
+*[[Romel Morales|Morales]] {{goal|65||70}}
+*[[Khammanh Thapaseut|Khammanh]] {{goal|79|o.g.}}
+*[[Paulo Josué|Josué]] {{goal|82}} 
+| goals2 = 
+*[[Chanthavixay Khounthoumphone|Chanthavixay]] {{goal|19}}
+| stadium    = [[Bukit Jalil National Stadium]]
+| location   = [[Kuala Lumpur]], Malaysia
+| attendance = 18,901
+| referee    = Ahmed Eisa Darwish ([[United Arab Emirates Football Association|United Arab Emirates]])
+| result     = W
+}}
+{{footballbox collapsible
+| format     = 1
+| round      = [[2027 AFC Asian Cup qualification – third round|2027 Asian Cup Qualification - Third Round]]
+| date       = 18 November 2025
+| time       = {{UTZ|21:00|8}}
+| team1      = {{fb-rt|NEP}}
+| score      = 0–1
+| report     = [https://globalsportsarchive.com/match/soccer/2025-11-18/nepal-vs-malaysia/3587612/ Report]
+| team2      = {{fb|MAS}}
+| goals1     = 
+| goals2     = [[Faisal Halim|Faisal]] {{goal|56}}
+| stadium    = [[Bukit Jalil National Stadium]]
+| location   = [[Kuala Lumpur]], Malaysia <sup>2</sup>
+| attendance = 14,243
+| referee    = Kim Dae-yong ([[Korea Football Association|South Korea]])
+| result     = W
+}}
+
+===2026===
+{{footballbox collapsible
+| format     = 1
+| round      = [[2027 AFC Asian Cup qualification – third round|2027 Asian Cup Qualification - Third Round]]
+| date       = 31 March 2026
+| time       = {{UTZ|19:00|7}}
+| team1      = {{fb-rt|VIE}}
+| score      = 3–1
+| report     = [https://globalsportsarchive.com/match/soccer/2026-03-31/vietnam-vs-malaysia/3587621/ Report]<br>[https://www.the-afc.com/en/national/afc_asian_cup.html/news/qualifiers-group-f-vietnam-3-1-malaysia Report (AFC)]
+| team2      = {{fb|MAS}}
+| goals1     = *[[Đỗ Duy Mạnh]] {{goal|6}}
+*[[Rafaelson|Nguyễn Xuân Son]] {{goal|51, 59}}
+| goals2     = [[Endrick (footballer, born 1995)|Endrick]] {{goal|77|p.}}
+| stadium    = [[Thiên Trường Stadium]]
+| location   = [[Ninh Bình]], Vietnam
+| attendance = 19,518
+| referee    = Chae Sang-hyeop ([[Korea Football Association|South Korea]])
+| result     = L
+}}
+{{footballbox collapsible
+| format     = 1
+| round      = [[2026 ASEAN Championship]] [[2026_ASEAN_Championship_Group_B|Group B]]
+| date       = 25 July 2026
+| time       = {{UTZ||6:30}}
+| team1      = {{fb-rt|MYA}}
+| score      = 
+| report     = 
+| team2      = {{fb|MAS}}
+| goals1     = 
+| goals2     =
+| stadium    = [[Thuwunna Stadium]]
+| location   = [[Yangon]], Myanmar
+| attendance = 
+| referee    = 
+| result     = 
+}}
+{{footballbox collapsible
+| format     = 1
+| round      = [[2026 ASEAN Championship]] [[2026_ASEAN_Championship_Group_B|Group B]]
+| date       = 28 July 2026
+| time       = {{UTZ||8}}
+| team1       = {{fb-rt|MAS}}
+| score      = 
+| report     = 
+| team2      = {{fb|LAO}}
+| goals1     = 
+| goals2     =
+| stadium    = [[Kuala Lumpur Stadium]]
+| location   = [[Kuala Lumpur]], Malaysia
+| attendance = 
+| referee    = 
+| result     = 
+}}
+{{football box collapsible
+| format     = 1
+| round      = [[2026 ASEAN Championship]] [[2026_ASEAN_Championship_Group_B|Group B]]
+| date       = 1 August 2026
+| time       = {{UTZ||7}}
+| team1      = {{fb-rt|THA}}
+| score      = 
+| team2      = {{fb|MAS}}
+| goals1     =
+| goals2     =
+| location   = [[Bangkok]], Thailand
+| stadium    = [[Rajamangala Stadium]]
+| attendance = 
+| referee    = 
+| report     = 
+| result     = 
+}}
+{{footballbox collapsible
+| format     = 1
+| round      = [[2026 ASEAN Championship]] [[2026_ASEAN_Championship_Group_B|Group B]]
+| date       = 8 August 2026
+| time       = {{UTZ||8}}
+| team1      = {{fb-rt|MAS}}
+| score      = 
+| report     = 
+| team2      = {{fb|PHI}}
+| goals1     = 
+| goals2     = 
+| stadium    = [[Kuala Lumpur Stadium]]
+| location   = [[Kuala Lumpur]], Malaysia
+| attendance = 
+| referee    = 
+}}
+
+;Notes
+* <sup>1</sup> ''Non FIFA 'A' international match''
+* <sup>2</sup> ''The Asian Football Confederation (AFC) confirmed the venue change after Nepal's proposed stadium failed to meet its requirements. Nepal have confirmed that they will play at [[Bukit Jalil National Stadium]] as their home venue.''<ref>{{cite web|url=https://www.nst.com.my/sports/football/2025/09/1275980/bukit-jalil-host-malaysias-away-clash-nepal|title=Bukit Jalil to host Malaysia's 'away' clash with Nepal|date=16 September 2025|publisher=NST Online}}</ref>
+
+== Team officials ==
+{{updated|25 June 2026|}}
+
+{|class="wikitable"
+|-
+!Roles
+!Names
+!Appointment date
+|-
+!colspan=5 style="background: #000000; color: #FFFFFF;|Team Management
+|-
+| Deputy CEO
+| {{flagicon|MAS}} [[Stanley Bernard Stephen Samuel|Stanley Bernard]]
+| 15 April 2025
+|-
+!colspan=5 style="background: #000000; color: #FFFFFF;|Coaching Staff
+|-
+| Head coach
+| {{flagicon|MAS}} [[Tan Cheng Hoe]] (interim)
+| 25 June 2026
+|-
+| rowspan="2" |Assistant coaches
+| {{flagicon|MAS}} [[Aidil Zafuan]]
+| 17 March 2025
+|-
+| {{flagicon|ENG}} [[Jose Baxter]]
+| 15 May 2025
+|-
+| Goalkeeping coach
+| {{flagicon|AUS}} [[John Crawley (soccer)|John Crawley]]
+| 17 March 2025
+|-
+| Head of high performance and sports medicine
+| {{flagicon|AUS}} Craig Duncan<ref>{{cite news|url=https://www.nst.com.my/sports/football/2025/01/1155632/sports-scientist-duncan-revolutionise-harimau-malaya|title=Sports scientist Duncan to revolutionise Harimau Malaya|last=Azharie|first=Farah|work=New Straits Times|date=2 January 2025|access-date=2 January 2025}}</ref>
+| 2 January 2025
+|-
+| Doctor
+| {{flagicon|ESP}} Xavier Valle<ref name="ESP doctors">{{cite news|url=https://www.nst.com.my/sports/football/2024/08/1098041/harimau-malaya-turn-barcelona-experts-football-glory|title=Harimau Malaya turn to Barcelona experts for football glory|work=Timesport|via=New Straits Times|date=28 August 2024|access-date=17 December 2024}}</ref>
+| 28 August 2024
+|-
+| Physiotherapist
+| {{flagicon|ESP}} Edu Martinez<ref name="ESP doctors"/>
+| 28 August 2024
+|-
+| Team coordinator
+| {{flagicon|MAS}} Zulfadli Rozi
+| 17 March 2025
+|-
+| Technical director
+| {{flagicon|MAS}} [[Tan Cheng Hoe]]
+| 15 April 2025
+|-
+|}
+<!-- UNSOURCED ADDITION WILL BE IMMEDIATELY REMOVED, PLEASE PROVIDE SOURCES
+|-
+| {{flagicon|MAS}} [[E. Elavarasan|Elavarasan Elangowan]]
+| 17 February 2022
+|-
+| rowspan="3" |Assistant coach
+| {{flagicon|ESP}} Juan Torres Garrido
+| 16 July 2024
+|-
+| {{flagicon|KOR}} Park Bo-bae
+| 17 February 2022
+|-
+| {{flagicon|MAS}} [[E. Elavarasan|Elavarasan Elangowan]]
+| 17 February 2022
+|-
+| Goalkeeping coach
+| {{flagicon|KOR}} [[Cho Jun-ho (footballer)|Cho Jun-ho]]
+| 17 February 2022
+|-
+| Fitness coach
+| {{flagicon|KOR}} Park Ji-hyeon
+| 1 November 2022
+|-
+| rowspan="2" |Performance analyst
+| {{flagicon|KOR}} Lim Jae-hun
+| 17 February 2022
+|-
+| {{flagicon|KOR}} Lee Je-yoon
+| 1 September 2022
+|-
+!colspan=5 style="background: #000000; colour: #FFFFFF;|Team Management and Supporting Staff
+|-
+| rowspan="2" |Physiotherapist
+| {{flagicon|SPA}} Edu Martinez
+|-
+| {{flagicon|MAS}} Harris Zafran
+|-
+|Team Doctor
+|{{flagicon|MAS}} Zaidi Salleh
+|-
+| rowspan="2" |Masseuer
+| {{flagicon|MAS}} Zahari Mazlan
+|-
+| {{flagicon|MAS}} Ramzi Zaini
+|-
+|Nutritionist
+|{{flagicon|MAS}} Ku Ahmad Azmeel Ku Muhseen
+|-
+| rowspan="2" |Kitman
+| {{flagicon|MAS}} Herman Pelani
+|-
+| {{flagicon|MAS}} Suhardi Usop
+|-
+|Media Officer
+|{{flagicon|MAS}} Wan Mohd Fakhrul Anwar Wan Bakar
+|-
+|Team Administrator
+|{{flagicon|MAS}} Steven Paul Windsor
+|-
+|Security Officer
+|{{flagicon|MAS}} Hasni Hussin
+|-
+|Photographer
+|{{flagicon|MAS}} Jamie Nazmi
+|-
+|}
+-->
+=== Coaching history ===
+{{updated|match played 31 March 2026}}
+<!-- Start from the establishment of Malaysia -->
+<!----------------------------- ATTENTION ----------------------------------
+&nbsp;– D Data before 2008 might not be accurate as most of it taken from Soccerway
+ ------------------------------------------------------------------------------------------------------>
+{| class="wikitable collapsible collapsed"
+|-
+!colspan=11 style="background: #000000;|{{white|List of Head Coaches}}
+|-
+!Name
+!Period
+!width=20|{{Tooltip|GP|Games played}}
+!width=20|{{Tooltip|W|Won}}
+!width=20|{{Tooltip|D|Drawn}}
+!width=20|{{Tooltip|L|Lost}}
+!width=20|{{Tooltip|GS|Goals scored}}
+!width=20|{{Tooltip|GA|Goals allowed}}
+!width=20|{{Tooltip|GD|Goals different}}
+!width=20|{{Tooltip|Win %|Win percentage}}
+|-
+| {{flagicon|MAS}} [[Peter Velappan]]
+| 1963
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+| {{flagicon|MAS}} [[Choo Seng Quee]]
+| 1963 – 1964{{efn|Earned Malaysian nationality after Malaysia formed on 16 September 1963. Became Singaporean after [[Singapore in Malaysia|Singapore separation from Malaysia]] in 1965.}}
+{{WDL|11|3|3|5|for=23|against=23|diff=yes}}
+|-
+| {{flagicon|FRG}} Otto Westphal
+| 1965 – 1966
+{{WDL|12|1|4|7|for=11|against=25|diff=yes}}
+|-
+| {{flagicon|MAS}} Clement De Silva
+| 1966
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+| {{flagicon|MAS}} [[Peter Velappan]]
+| 1966
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+| {{flagicon|MAS}} Nagalingam Rajoo
+| 1967
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+| {{flagicon|FRG}} [[Dettmar Cramer]]
+| 1967
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+| {{flagicon|MAS}} Edwin Dutton
+| 1967
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+| {{flagicon|ENG}} [[Harold Hassall]]
+| 1968
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+| {{flagicon|MAS}} [[Peter Velappan]]
+| 1968
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+| {{flagicon|MAS}} [[Abdul Ghani Minhat]]
+| 1969
+{{WDL|11|5|2|4|for=18|against=18|diff=yes}}
+|-
+| {{flagicon|ENG}} [[Harold Hassall]]
+| 1970
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+| {{flagicon|SCO}} [[Dave MacLaren]]
+| 1970
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+| {{flagicon|MAS}} C. Arasaratnam
+| 1971
+{{WDL|39|21|6|12|for=81|against=61|diff=yes}}
+|-
+| {{flagicon|MAS}} [[Jalil Che Din]]
+| 1972
+{{WDL|26|13|3|10|for=41|against=34|diff=yes}}
+|-
+| {{flagicon|MAS}} Tam Sitwa
+| 1973
+{{WDL|0|0|0|0|for=0|against=0|diff=yes}}
+|-
+| {{flagicon|MAS}} M. Kuppan
+| 1973
+{{WDL|27|12|7|8|for=41|against=28|diff=yes}}
+|-
+| {{flagicon|MAS}} [[Jalil Che Din]]
+| 1974
+{{WDL|18|8|4|6|for=35|against=30|diff=yes}}
+|-
+| {{flagicon|MAS}} M. Kuppan
+| 1974 – 1977
+{{WDL|82|36|24|22|for=154|against=90|diff=yes}}
+|-
+| {{flagicon|MAS}} [[Chow Kwai Lam]]
+| 1978
+{{WDL|22|11|3|8|for=40|against=35|diff=yes}}
+|-
+| {{flagicon|FRG}} [[Karl-Heinz Weigang]]
+| 1979 – 1982
+{{WDL|67|21|21|25|for=96|against=89|diff=yes}}
+|-
+| {{flagicon|MAS}} M. Chandran
+| 1982 – 1983
+{{WDL|14|6|1|7|for=15|against=17|diff=yes}}
+|-
+| {{flagicon|ENG}} [[Frank Lord]]
+| 1983 – 1985
+{{WDL|37|17|11|9|for=63|against=36|diff=yes}}
+|-
+| {{flagicon|MAS}} Mohamad Bakar
+| 1985 – 1986
+{{WDL|13|4|3|6|for=17|against=24|diff=yes}}
+|-
+| {{flagicon|TCH}} [[Jozef Vengloš]]
+| 1986 – 1987
+{{WDL|13|6|3|4|for=21|against=13|diff=yes}}
+|-
+| {{flagicon|MAS}} [[Abdul Rahman Ibrahim]]
+| 1987
+{{WDL|10|1|4|5|for=8|against=12|diff=yes}}
+|-
+| {{flagicon|ENG}} [[Richard Bate]]
+| 1988
+{{WDL|5|1|2|2|for=4|against=10|diff=yes}}
+|-
+| {{flagicon|MAS}} M. Chandran
+| 1988
+{{WDL|4|1|1|2|for=4|against=6|diff=yes}}
+|-
+| {{flagicon|ENG}} [[Trevor Hartley]]
+| 1989
+{{WDL|8|6|0|2|for=14|against=5|diff=yes}}
+|-
+| {{flagicon|MAS}} Ahmad Shafie
+| 1990
+{{WDL|4|0|1|3|for=0|against=7|diff=yes}}
+|-
+| {{flagicon|MAS}} Rahim Abdullah
+| 1991
+{{WDL|6|1|1|4|for=7|against=12|diff=yes}}
+|-
+| {{flagicon|ENG}} [[Ken Worden]]
+| 1992 – 1993
+{{WDL|17|5|6|6|for=26|against=22|diff=yes}}
+|-
+| {{flagicon|FRA|1974}} [[Claude Le Roy]]
+| 1994 – 1995
+{{WDL|5|1|1|3|for=6|against=10|diff=yes}}
+|-
+| {{flagicon|TUN|1959}} Hatem Souisi
+| 1995
+{{WDL|6|2|1|3|for=12|against=8|diff=yes}}
+|-
+| {{flagicon|MAS}} [[Wan Jamak Wan Hassan]]
+| 1996 – 1997
+{{WDL|22|10|6|6|for=35|against=18|diff=yes}}
+|-
+| {{flagicon|TUN|1959}} Hatem Souisi
+| 1998
+{{WDL|4|0|2|2|for=1|against=4|diff=yes}}
+|-
+| {{flagicon|MAS}} [[Abdul Rahman Ibrahim]]
+| 1998 – 2000
+{{WDL|29|15|3|11|for=56|against=44|diff=yes}}
+|-
+| {{flagicon|ENG}} [[Allan Harris]]
+| 2001 – 2004
+{{WDL|31|7|7|17|for=38|against=57|diff=yes}}
+|-
+| {{flagicon|MAS}} [[K. Rajagopal (footballer)|K. Rajagopal]]
+| 2004'''<sup>C</sup>'''
+{{WDL|4|0|2|2|for=1|against=5|diff=yes}}
+|-
+| {{flagicon|HUN}} [[Bertalan Bicskei]]
+| 2004 – 2005
+{{WDL|18|9|1|8|for=28|against=27|diff=yes}}
+|-
+| {{flagicon|MAS}} [[Norizan Bakar]]
+| 2005 – 2007
+{{WDL|18|4|5|9|for=23|against=28|diff=yes}}
+|-
+| {{flagicon|MAS}} [[B. Sathianathan]]
+| 2007 – 2008
+{{WDL|13|5|4|4|for=29|against=19|diff=yes}}
+|-
+| {{flagicon|MAS}} [[K. Rajagopal (footballer)|K. Rajagopal]]
+| 2009 – 2013
+{{WDL|52|14|15|23|for=65|against=76|diff=yes}}
+|-
+| {{flagicon|MAS}} [[Ong Kim Swee]] ([[Caretaker manager|caretaker]])
+| 2014
+{{WDL|3|1|2|0|for=2|against=1|diff=yes}}
+|-
+| {{flagicon|MAS}} [[Dollah Salleh]]
+| 2014 – 2015
+{{WDL|18|4|4|10|for=19|against=46|diff=yes}}
+|-
+| {{flagicon|MAS}} [[Ong Kim Swee]]
+| 2015 – 2017
+{{WDL|21|7|6|8|for=20|against=27|diff=yes}}
+|-
+| {{flagicon|POR}} [[Nelo Vingada]]
+| 2017
+{{WDL|7|0|1|6|for=6|against=16|diff=yes}}
+|-
+| {{flagicon|MAS}} [[Tan Cheng Hoe]]
+| 2017 – 2022
+{{WDL|40|20|4|16|for=74|against=53|diff=yes}}
+|-
+| {{flagicon|KOR}} [[Kim Pan-gon]]
+| 2022 – 2024
+{{WDL|35|19|7|9|for=74|against=37|diff=yes}}
+|-
+| {{flagicon|SPA}} [[Pau Martí (football manager)|Pau Martí]] (caretaker)
+| 2024 – 2025
+{{WDL|9|4|3|2|for=12|against=13|diff=yes}}
+|-
+| {{flagicon|AUS}} [[Peter Cklamovski]]
+| 2025 – 2026
+{{WDL|9|7|1|1|for=20|against=6|diff=yes}}
+|-
+| {{flagicon|MAS}} [[Tan Cheng Hoe]] (interim)
+| 2026 – present
+|
+|
+|
+|
+|
+|
+|
+|
+|}
+
+== Players ==
+{{Further|List of Malaysia international footballers born outside Malaysia}}
+
+=== Current squad ===
+The following players were called up for the training camp ahead of the [[2026 ASEAN Championship]].<ref>{{cite web|url=https://fam.org.my/news/siaran-media-senarai-26-pemain-ke-kem-latihan-pusat-harimau-malaya-menjelang-piala-hyundai|title=SIARAN MEDIA: SENARAI 26 PEMAIN KE KEM LATIHAN PUSAT HARIMAU MALAYA MENJELANG PIALA HYUNDAI ASEAN 2026|language=ms|publisher=FAM |date=11 July 2026}}</ref>
+
+''Caps and goals are correct as of 1 April 2026, after the match against [[Vietnam national football team|Vietnam]]''.
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Azri Ghani]]|age={{Birth date and age|1999|4|30|df=y}}|caps=2|goals=0|club=[[Negeri Sembilan FC|Negeri Sembilan]]|clubnat=MAS}}
+{{nat fs g player|no=16|pos=GK|name=[[Rahadiazli Rahalim]]|age={{birth date and age|2001|5|28|df=y}}|caps=1|goals=0|club=[[Terengganu FC|Terengganu]]|clubnat=MAS}}
+{{nat fs g player|no=23|pos=GK|name=[[Haziq Aiman]]|age={{birth date and age|2005|1|19|df=y}}|caps=0|goals=0|club=[[Melaka F.C.|Melaka]]|clubnat=MAS}}
+{{nat fs g break}}
+{{nat fs g player|no=2|pos=DF|name=[[Jimmy Raymond]]|age={{Birth date and age|1996|4|26|df=y}}|caps=3|goals=0|club=[[Kuching City F.C.|Kuching City]]|clubnat=MAS}}
+{{nat fs g player|no=3|pos=DF|name=[[Ubaidullah Shamsul Fazili|Ubaidullah Shamsul]]|age={{Birth date and age|2003|11|30|df=y}}|caps=5|goals=0|club=[[Terengganu FC|Terengganu]]|clubnat=MAS}}
+{{nat fs g player|no=4|pos=DF|name=[[V. Ruventhiran]]|age={{birth date and age|2001|8|24|df=y}}|caps=9|goals=0|club=[[Melaka F.C.|Melaka]]|clubnat=MAS}}
+{{nat fs g player|no=5|pos=DF|name=[[Rodney Celvin Akwensivie]]|age={{Birth date and age|1996|11|25|df=y}}|caps=0|goals=0|club=[[Kuching City F.C.|Kuching City]]|clubnat=MAS}} 
+{{nat fs g player|no=6|pos=DF|name=[[Dominic Tan]]|age={{Birth date and age|1997|3|12|df=y}}|caps=38|goals=0|club=[[Sabah F.C. (Malaysia)|Sabah]]|clubnat=MAS}}
+{{nat fs g player|no=11|pos=DF|name=[[Richard Chin]]|age={{Birth date and age|2002|10|15|df=y}}|caps=1|goals=0|club=[[Ross County F.C.|Ross County]]|clubnat=SCO}}
+{{nat fs g player|no=15|pos=DF|name=[[Ibrahim Manusi]]|age={{Birth date and age|2001|9|30|df=y}}|caps=0|goals=0|club=[[Johor Darul Ta'zim F.C.|Johor Darul Ta'zim]]|clubnat=MAS}}
+{{nat fs g player|no=24|pos=DF|name=[[ Alif Ahmad]]|age={{Birth date and age|2003|2|28|df=y}}|caps=0|goals=0|club=[[Johor Darul Ta'zim II F.C.|Johor Darul Ta'zim II]]|clubnat=MAS}}
+{{nat fs g player|no=25|pos=DF|name=[[Faris Danish]]|age={{Birth date and age|2006|7|4|df=y}}|caps=0|goals=0|club=[[Johor Darul Ta'zim II F.C.|Johor Darul Ta'zim II]]|clubnat=MAS}}
+{{nat fs g break}}
+{{nat fs g player|no=7|pos=MF|name=[[Wan Kuzain]]|age={{Birth date and age|1998|9|14|df=y}}|caps=0|goals=0|club=[[Sporting Club Jacksonville|Sporting JAX]]|clubnat=USA}}
+{{nat fs g player|no=8|pos=MF|name=[[Zhafri Yahya]]|age={{Birth date and age|1994|9|25|df=y}}|caps=1|goals=0|club=[[Kuala Lumpur City F.C.|Kuala Lumpur City]]|clubnat=MAS}}
+{{nat fs g player|no=10|pos=MF|name=[[Ezequiel Agüero]]|age={{Birth date and age|1994|4|7|df=y}}|caps=19|goals=3|club=[[Kanchanaburi Power F.C.|Kanchanaburi Power]]|clubnat=THA}}
+{{nat fs g player|no=14|pos=MF|name=[[Endrick (footballer, born 1995)|Endrick]]|age={{Birth date and age|1995|3|7|df=y}}|caps=26|goals=1|club=[[Cong An Ho Chi Minh City FC|Cong An Ho Chi Minh City]]|clubnat=VIE}}
+{{nat fs g player|no=18|pos=MF|name=[[Daryl Sham]]|age={{Birth date and age|2002|11|30|df=y}}|caps=2|goals=0|club=[[Johor Darul Ta'zim F.C.|Johor Darul Ta'zim]]|clubnat=MAS}}
+{{nat fs g player|no=19|pos=MF|name=[[Ziad El Basheer]]|age={{Birth date and age|2003|12|24|df=y}}|caps=0|goals=0|club=[[Johor Darul Ta'zim II F.C.|Johor Darul Ta'zim II]]|clubnat=MAS}}
+{{nat fs g player|no=21|pos=MF|name=[[Aliff Haiqal]]|age={{Birth date and age|2000|7|11|df=y}}|caps=3|goals=0|club=[[Penang F.C.|Penang]]|clubnat=MAS}}
+{{nat fs g break}}
+{{nat fs g player|no=9|pos=FW|name=[[Hadi Fayyadh]]|age={{Birth date and age|2000|1|22|df=y}}|caps=0|goals=0|club=Vencedor Mie|clubnat=JPN}}
+{{nat fs g player|no=12|pos=FW|name=[[Engku Nur Shakir]]|age={{Birth date and age|1998|10|16|df=y}}|caps=1|goals=0|club=[[Terengganu FC|Terengganu]]|clubnat=MAS}}
+{{nat fs g player|no=13|pos=FW|name=[[Fazrul Amir]]|age={{Birth date and age|2000|2|27|df=y}}|caps=5|goals=0|club=[[Kuala Lumpur City F.C.|Kuala Lumpur City]]|clubnat=MAS}}
+{{nat fs g player|no=17|pos=FW|name=[[Paulo Josué]]|age={{Birth date and age|1989|3|13|df=y}}|caps=29|goals=10|club=[[Kuala Lumpur City F.C.|Kuala Lumpur City]]|clubnat=MAS}}
+{{nat fs g player|no=20|pos=FW|name=[[Syafiq Ahmad]]|age={{Birth date and age|1995|6|28|df=y}}|caps=43|goals=11|club=[[DPMM FC|DPMM]]|clubnat=BRU}}
+{{nat fs g player|no=22|pos=FW|name=[[G. Pavithran]]|age={{Birth date and age|2005|1|10|df=y}}|caps=2|goals=0|club=[[Johor Darul Ta'zim II F.C.|Johor Darul Ta'zim II]]|clubnat=MAS}}
+{{nat fs g player|no=26|pos=FW|name=[[Mohamadou Sumareh]]|age={{Birth date and age|1994|9|20|df=y}}|caps=35|goals=7|club=[[Johor Darul Ta'zim F.C.|Johor Darul Ta'zim]]|clubnat=MAS}}
+{{nat fs end}}
+
+=== Recent call-ups ===
+The following footballers were part of national selection in the past twelve months, but are not part of the current call-up.
+<!--Sorted by position, date of birth, caps, goals and most recent call-up.-->
+
+{{nat fs r start}}
+{{nat fs r player|no=|pos=GK|name=[[Syihan Hazmi]]|age={{Birth date and age|1996|2|22|df=y}}|caps=36|goals=0|club=[[Johor Darul Ta'zim F.C.|Johor Darul Ta'zim]]|clubnat=MAS|latest=v. {{fb|VIE}}, 31 March 2026}}
+{{nat fs r player|no=|pos=GK|name=[[Haziq Nadzli]]|age={{Birth date and age|1998|1|6|df=y}}|caps=5|goals=0|club=[[Kuching City F.C.|Kuching City]]|clubnat=MAS|latest=v. {{fb|VIE}}, 31 March 2026}}
+{{nat fs r player|no=|pos=GK|name=[[Sikh Izhan]]|age={{Birth date and age|2002|3|23|df=y}}|caps=1|goals=0|club=[[Selangor F.C.|Selangor]]|clubnat=MAS|latest=v. {{fb|NEP}}, 18 November 2025}}
+{{nat fs r player|no=|pos=GK|name=[[Suhaimi Husin]]|age={{Birth date and age|1994|8|9|df=y}}|caps=0|goals=0|club=[[Terengganu FC|Terengganu]]|clubnat=MAS|latest=v. {{fb|LAO}}, 14 October 2025}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=DF|name=[[Matthew Davies (footballer)|Matthew Davies]]|age={{Birth date and age|1995|2|7|df=y}}|caps=60|goals=0|club=[[Johor Darul Ta'zim F.C.|Johor Darul Ta'zim]]|clubnat=MAS|latest=v. {{fb|VIE}}, 31 March 2026}}
+{{nat fs r player|no=|pos=DF|name=[[La'Vere Corbin-Ong]]|age={{Birth date and age|1991|4|22|df=y}}|caps=49|goals=6|club=[[Johor Darul Ta'zim F.C.|Johor Darul Ta'zim]]|clubnat=MAS|latest=v. {{fb|VIE}}, 31 March 2026}}
+{{nat fs r player|no=|pos=DF|name=[[Dion Cools]]|age={{Birth date and age|1996|6|4|df=y}}|caps=38|goals=6|club=[[Cerezo Osaka]]|clubnat=JPN|latest=v. {{fb|VIE}}, 31 March 2026}}
+{{nat fs r player|no=|pos=DF|name=[[Syahmi Safari]]|age={{Birth date and age|1998|2|5|df=y}}|caps=26|goals=1|club=[[Johor Darul Ta'zim F.C.|Johor Darul Ta'zim]]|clubnat=MAS|latest=v. {{fb|VIE}}, 31 March 2026}}
+{{nat fs r player|no=|pos=DF|name=[[Daniel Ting]]|age={{Birth date and age|1992|12|1|df=y}}|caps=19|goals=1|club=[[Ratchaburi F.C.|Ratchaburi]]|clubnat=THA|latest=v. {{fb|VIE}}, 31 March 2026}}
+{{nat fs r player|no=|pos=DF|name=[[Quentin Cheng]]|age={{Birth date and age|1999|11|20|df=y}}|caps=14|goals=0|club=[[Selangor F.C.|Selangor]]|clubnat=MAS|latest=v. {{fb|VIE}}, 31 March 2026}}
+{{nat fs r player|no=|pos=DF|name=[[Harith Haiqal]]|age={{Birth date and age|2002|6|22|df=y}}|caps=13|goals=1|club=[[Selangor F.C.|Selangor]]|clubnat=MAS|latest=v. {{fb|VIE}}, 31 March 2026}}
+{{nat fs r player|no=|pos=DF|name=[[Feroz Baharudin]]|age={{Birth date and age|2000|4|2|df=y}}|caps=5|goals=0|club=[[Johor Darul Ta'zim F.C.|Johor Darul Ta'zim]]|clubnat=MAS|latest=v. {{fb|VIE}}, 31 March 2026}}
+{{nat fs r player|no=|pos=DF|name=[[Zikri Khalili]]|age={{Birth date and age|2002|6|25|df=y}}|caps=0|goals=0|club=[[Selangor F.C.|Selangor]]|clubnat=MAS|latest=v. {{fb|VIE}}, 31 March 2026}}
+{{nat fs r player|no=|pos=DF|name=[[Junior Eldstål]]|age={{Birth date and age|1991|9|16|df=y}}|caps=23|goals=0|club=[[Johor Darul Ta'zim F.C.|Johor Darul Ta'zim]]|clubnat=MAS|latest=v. {{fb|VIE}}, 31 March 2026 <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=DF|name=[[Declan Lambert]]|age={{Birth date and age|1998|9|21|df=y}}|caps=5|goals=0|club=[[Kuala Lumpur City F.C.|Kuala Lumpur City]]|clubnat=MAS|latest=v. {{fb|VIE}}, 31 March 2026 <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=DF|name=[[Azam Azmi]]|age={{Birth date and age|2001|2|12|df=y}}|caps=13|goals=0|club=[[Terengganu FC|Terengganu]]|clubnat=MAS|latest=v. {{fb|NEP}}, 18 November 2025}}
+{{nat fs r player|no=|pos=DF|name=[[Shahrul Saad]]||age={{Birth date and age|1993|7|8|df=y}}|caps=63|goals=5|club=[[Johor Darul Ta'zim F.C.|Johor Darul Ta'zim]]|clubnat=MAS|latest=v. {{fb|LAO}}, 14 October 2025}}
+{{nat fs r player|no=|pos=DF|name=[[Jon Irazabal]]|age={{birth date and age|1996|11|28|df=y}}|caps=2|goals=0|club=[[Johor Darul Ta'zim F.C.|Johor Darul Ta'zim]]|clubnat=MAS|latest=v. {{fb|PLE}}, 8 September 2025}}
+{{nat fs r player|no=|pos=DF|name=[[Gabriel Palmero]]|age={{birth date and age|2002|1|15|df=y}}|caps=4|goals=0|club=''[[Free agent]]''|clubnat=|latest=v. {{fb|PLE}}, 8 September 2025}}
+{{nat fs r player|no=|pos=DF|name=[[Facundo Garcés]]|age={{Birth date and age|1999|9|5|df=y}}|caps=2|goals=0|club=[[Deportivo Alavés|Alavés]]|clubnat=ESP|latest=v. {{fb|SIN}}, 4 September 2025}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=MF|name=[[Stuart Wilkin]]|age={{Birth date and age|1998|3|12|df=y}}|caps=33|goals=7|club=[[Johor Darul Ta'zim F.C.|Johor Darul Ta'zim]]|clubnat=MAS|latest=v. {{fb|VIE}}, 31 March 2026}}
+{{nat fs r player|no=|pos=MF|name=[[Nazmi Faiz]]|age={{Birth date and age|1994|8|16|df=y}}|caps=25|goals=0|club=[[Kuching City F.C.|Kuching City]]|clubnat=MAS|latest=v. {{fb|VIE}}, 31 March 2026}}
+{{nat fs r player|no=|pos=MF|name=[[Nooa Laine]]|age={{Birth date and age|2002|11|22|df=y}}|caps=20|goals=0|club=[[Selangor F.C.|Selangor]]|clubnat=MAS|latest=v. {{fb|VIE}}, 31 March 2026}}
+{{nat fs r player|no=|pos=MF|name=[[Ryan Lambert]]|age={{Birth date and age|1998|9|21|df=y}}|caps=0|goals=0|club=[[Kuala Lumpur City F.C.|Kuala Lumpur City]]|clubnat=MAS|latest=v. {{fb|VIE}}, 31 March 2026 <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=MF|name=[[Aliff Izwan]]|age={{Birth date and age|2004|2|10|df=y}}|caps=1|goals=0|club=[[Selangor F.C.|Selangor]]|clubnat=MAS|latest=v. {{fb|NEP}}, 18 November 2025}}
+{{nat fs r player|no=|pos=MF|name=[[Afiq Fazail]]|age={{Birth date and age|1994|9|29|df=y}}|caps=9|goals=0|club=[[Johor Darul Ta'zim F.C.|Johor Darul Ta'zim]]|clubnat=MAS|latest=v. {{fb|LAO}}, 14 October 2025}}
+{{nat fs r player|no=|pos=MF|name=[[Hong Wan]]|age={{birth date and age|2000|8|17|df=y}}|caps=0|goals=0|club=[[Johor Darul Ta'zim F.C.|Johor Darul Ta'zim]]|clubnat=MAS|latest=v. {{fb|PLE}}, 8 September 2025}}
+{{nat fs r player|no=|pos=MF|name=[[Hector Hevel]]|age={{Birth date and age|1996|5|15|df=y}}|caps=2|goals=1|club=[[Johor Darul Ta'zim F.C.|Johor Darul Ta'zim]]|clubnat=MAS|latest=v. {{fb|SIN}}, 4 September 2025 <sup>INJ</sup>}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=FW|name=[[Safawi Rasid]]|age={{Birth date and age|1997|3|5|df=y}}|caps=73|goals=22|club=[[Kuching City F.C.|Kuching City]]|clubnat=MAS|latest=v. {{fb|VIE}}, 31 March 2026}}
+{{nat fs r player|no=|pos=FW|name=[[Faisal Halim]]|age={{Birth date and age|1998|1|7|df=y}}|caps=41|goals=18|club=[[Selangor F.C.|Selangor]]|clubnat=MAS|latest=v. {{fb|VIE}}, 31 March 2026}}
+{{nat fs r player|no=|pos=FW|name=[[Luqman Hakim Shamsudin]]|age={{Birth date and age|2002|3|5|df=y}}|caps=9|goals=0|club=[[Negeri Sembilan FC|Negeri Sembilan]]|clubnat=MAS|latest=v. {{fb|VIE}}, 31 March 2026 <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=FW|name=[[Arif Aiman]]|age={{Birth date and age|2002|5|4|df=y}}|caps=40|goals=8|club=[[Johor Darul Ta'zim F.C.|Johor Darul Ta'zim]]|clubnat=MAS|latest=v. {{fb|NEP}}, 18 November 2025 <sup>INJ</sup>}}
+{{nat fs r player|no=|pos=FW|name=[[Jordan Mintah]]|age={{Birth date and age|1995|9|2|df=y}}|caps=0|goals=0|club=[[Kuching City F.C.|Kuching City]]|clubnat=MAS|latest=v. {{fb|NEP}} 18 November 2025 <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=FW|name=[[Romel Morales]]|age={{Birth date and age|1997|8|23|df=y}}|caps=13|goals=4|club=[[Johor Darul Ta'zim F.C.|Johor Darul Ta'zim]]|clubnat=MAS|latest=v. {{fb|LAO}}, 14 October 2025}}
+{{nat fs r player|no=|pos=FW|name=[[Rodrigo Holgado]]|age={{birth date and age|1995|6|28|df=y}}|caps=2|goals=1|club=[[Coquimbo Unido]]|clubnat=CHI|latest=v. {{fb|PLE}}, 8 September 2025}}
+{{nat fs r player|no=|pos=FW|name=[[João Figueiredo (footballer)|João Figueiredo]]|age={{birth date and age|1996|5|27|df=y}}|caps=3|goals=3|club=[[Johor Darul Ta'zim F.C.|Johor Darul Ta'zim]]|clubnat=MAS|latest=v. {{fb|PLE}}, 8 September 2025}}
+{{nat fs break}}
+
+;Notes
+* <sup>INJ</sup> = Player withdrew from the current squad due to injury.
+* <sup>PRE</sup> = Preliminary or stand-by squad.
+* <sup>RET</sup> = Player has retired from national team.
+* <sup>WD</sup> = Player withdrew from the current squad due to a non-injury issue.
+{{nat fs end}}
+
+==Player records==
+{{Updated|14 October 2025}}<ref name="soh">{{cite web |last1=Mamrud |first1=Roberto |title=Malaysia – Record International Players |url=https://www.rsssf.org/miscellaneous/malay-recintlp.html |website=RSSSF |access-date=30 December 2021 |archive-date=27 September 2022|archive-url=https://web.archive.org/web/20220927193951/https://www.rsssf.org/miscellaneous/malay-recintlp.html |url-status=live }}</ref>
+:Players in '''bold''' are still active with Malaysia.
+:This list does not include players who represented [[Malaya national football team#Records|Malaya]] (1948–1962).
+
+===Most appearances===
+[[File:Soh Chin Ann 2020 (cropped).jpg|175px|thumb|right|[[Soh Chin Ann]] is Malaysia's most capped player with 195 appearances.]]
+
+{| class="wikitable sortable" style="text-align: center;"
+|-
+! style=background:#000000; |{{white|Rank}}
+! style=background:#000000; width="175px" |{{white|Player}}
+! style=background:#000000; width="50px" |{{white|Caps}}
+! style=background:#000000; width="50px" |{{white|Goals}}
+! style=background:#000000; width="100px" |{{white|Career}}
+|-
+| 1 ||style="text-align: left;"| [[Soh Chin Ann]] || 195 || 13 || 1969–1984
+|-
+| 2 ||style="text-align: left;"| [[Shukor Salleh]] || 172 || 5 || 1970–1981
+|-
+| rowspan=2|3 ||style="text-align: left;"| [[Mokhtar Dahari]] || 142 || 89 || 1972–1985
+|-
+|style="text-align: left;"| [[R. Arumugam|Arumugam Rengasamy]] || 142 || 0 || 1973–1986
+|-
+| 5 ||style="text-align: left;"| [[Zainal Abidin Hassan]] || 129 || 50 || 1980–1997
+|-
+| 6 ||style="text-align: left;"| [[M. Chandran (Malaysian footballer)|Chandran Mutveeran]] || 122 || 2 || 1965–1974
+|-
+| 7 ||style="text-align: left;"| [[Santokh Singh]] || 119 || 7 || 1973–1984
+|-
+| 8 ||style="text-align: left;"| [[Aidil Zafuan]] || 98 || 3 || 2007–2022
+|-
+|| 9 ||style="text-align: left;"| [[Namat Abdullah]] || 95 || 7 || 1968–1975
+|-
+|| 10 ||style="text-align: left;"| [[Ahmad Yusof]] || 92 || 6 || 1981–1993
+|-
+|}
+
+===Top goalscorers===
+[[File:The late Mokhtar Dahari training at the field, c. 1970s.jpg|175px|thumb|right|[[Mokhtar Dahari]] is Malaysia's top scorer with 89 goals.]]
+
+{| class="wikitable sortable" style="text-align: center;"
+|-
+! style=background:#000000; |{{white|Rank}}
+! style=background:#000000; width="160px" |{{white|Player}}
+! style=background:#000000; width="50px" |{{white|Goals}}
+! style=background:#000000; width="50px" |{{white|Caps}}
+! style=background:#000000; width="50px" |{{white|Ratio}}
+! style=background:#000000; width="100px" |{{white|Career}}
+|-
+| 1 ||style="text-align: left;"| [[Mokhtar Dahari]] || 89 || 142 || {{#expr:89/142 round 2}} || 1972–1985
+|-
+| 2 ||style="text-align: left;"| [[Zainal Abidin Hassan]] || 50 || 129 || {{#expr:53/136 round 2}} || 1980–1997
+|-
+| 3 ||style="text-align: left;"| [[Isa Bakar]] || 45 || 69 || {{#expr:44/65 round 2}} || 1974–1981
+|-
+| 4 ||style="text-align: left;"| [[Shaharuddin Abdullah]] || 39 || 70 || {{#expr:39/70 round 2}} || 1967–1974
+|-
+| 5 ||style="text-align: left;"| [[Dollah Salleh]] || 33 || 81 || {{#expr:33/81 round 2}} || 1985–1996
+|-
+| rowspan='2'|6 ||style="text-align: left;"| [[James Wong Chye Fook|James Wong]] || 23 || 36 || {{#expr:23/36 round 2}} || 1972–1981
+|-
+| style="text-align: left;"| [[Safee Sali]] || 23 || 76 || {{#expr:23/76 round 2}} || 2006–2017
+|-
+| 8 ||style="text-align: left;"| '''[[Safawi Rasid]]''' || 22 || 72 || {{#expr:22/72 round 2}} || 2016–present
+|-
+| rowspan='2'|9 ||style="text-align: left;"| [[Thanabalan Nadarajah (footballer, born 1943)|Thanabalan Nadarajah]] || 20 || 46 || {{#expr:20/46 round 2}} || 1964–1969
+|-
+|style="text-align: left;"| [[Wong Choon Wah]] || 20 || 88 || {{#expr:20/88 round 2}} || 1968–1977
+|-
+| 10 ||style="text-align: left;"| '''[[Faisal Halim]]''' || 18 || 40 || {{#expr:18/40 round 2}} || 2019–present
+|}
+
+== Competitive record ==
+{{further|:Malaysia national football team results}}
+
+{{Color box|gold|border=darkgray}} '''Champion'''&nbsp;&nbsp;{{Color box|silver|border=darkgray}} '''Runners-up'''&nbsp;&nbsp;{{Color box|#cc9966|border=darkgray}} '''Third place'''&nbsp;&nbsp;
+{{Color box|#ccffcc|border=darkgray}} '''Fourth place'''&nbsp;&nbsp;
+
+=== FIFA World Cup ===
+{{See also|FIFA World Cup records and statistics}}
+
+{| class="wikitable" style="text-align: center;font-size:100%; width: 800px;"
+|-
+!colspan=9 style="background: #000000; color: #FFFFFF; border:2px solid #FFFF00;|[[FIFA World Cup|{{color|#FFFFFF|FIFA World Cup finals]]}}
+!style="background: #000000; color: #FFFFFF;|
+!colspan=7 style="background: #000000; color: #FFFFFF; border:2px solid #FFFF00;|[[FIFA World Cup qualification|{{color|#FFFFFF|Qualification]]}}
+|-
+!Year
+!Round
+!Position
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D'''*'''|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!rowspan="29"|
+!Round
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+|-
+!colspan=9|as {{fb|Malaya}}
+!colspan=7|as {{fb|Malaya}}
+|-
+|{{flagicon|URU}} [[1930 FIFA World Cup|1930]]
+|colspan="8" rowspan="5"|''Not a FIFA member''
+|colspan="7" rowspan="5"|''Not a FIFA member''
+|-
+|{{flagicon|Italy|1861}} [[1934 FIFA World Cup|1934]]
+|-
+|{{flagicon|France|1794}} [[1938 FIFA World Cup|1938]]
+|-
+|{{flagicon|Brazil|1889}} [[1950 FIFA World Cup|1950]]
+|-
+|{{flagicon|Switzerland}} [[1954 FIFA World Cup|1954]]
+|-
+|{{flagicon|Sweden}} [[1958 FIFA World Cup|1958]]
+|colspan="8" rowspan="2"|''Did not enter''
+|colspan="7" rowspan="2"|''Did not enter''
+|-
+|{{flagicon|Chile}} [[1962 FIFA World Cup|1962]]
+|-
+!colspan=9|as '''{{Flagdeco|Malaysia}}''' Malaysia
+!colspan=7|as '''{{Flagdeco|Malaysia}}''' Malaysia
+|-
+|{{flagicon|England}} [[1966 FIFA World Cup|1966]]
+|colspan="9" rowspan="2"|''Did not enter''
+|colspan="7" rowspan="2"|''Did not enter''
+|-
+|{{flagicon|Mexico}} [[1970 FIFA World Cup|1970]]
+|-
+|{{flagicon|FRG}} [[1974 FIFA World Cup|1974]]
+|rowspan="14" colspan="8" |''Did not qualify''
+|[[1974 FIFA World Cup qualification (AFC and OFC)#Group 2|Round 1]]
+|4
+|1
+|1
+|2
+|2
+|4
+|-
+|{{flagicon|ARG}} [[1978 FIFA World Cup|1978]]
+|[[1978 FIFA World Cup qualification (AFC and OFC)#Group 1|Round 1]]
+|4
+|1
+|2
+|1
+|7
+|6
+|-
+|{{flagicon|ESP}} [[1982 FIFA World Cup|1982]]
+|[[1982 FIFA World Cup qualification (AFC and OFC)#Group 3|Round 1]]
+|3
+|0
+|1
+|2
+|3
+|8
+|-
+|{{flagicon|MEX}} [[1986 FIFA World Cup|1986]]
+|[[1986 FIFA World Cup qualification (AFC)#Group 3A|Round 1]]
+|4
+|2
+|1
+|1
+|6
+|2
+|-
+|{{flagicon|ITA|1946}} [[1990 FIFA World Cup|1990]]
+|[[1990 FIFA World Cup qualification (AFC)#Group 4|Round 1]]
+|6
+|3
+|1
+|2
+|8
+|8
+|-
+|{{flagicon|USA}} [[1994 FIFA World Cup|1994]]
+|[[1994 FIFA World Cup qualification (AFC)#Group E|Round 1]]
+|6
+|2
+|2
+|2
+|16
+|7
+|-
+|{{flagicon|FRA|1974}} [[1998 FIFA World Cup|1998]]
+|[[1998 FIFA World Cup qualification (AFC)#Group 1|Round 1]]
+|6
+|3
+|2
+|1
+|5
+|3
+|-
+|{{flagicon|KOR|1997}} {{flagicon|JPN|1947}} [[2002 FIFA World Cup|2002]]
+|[[2002 FIFA World Cup qualification (AFC)#Group 3|Round 1]]
+|6
+|2
+|1
+|3
+|8
+|11
+|-
+|{{flagicon|GER}} [[2006 FIFA World Cup|2006]]
+|[[2006 FIFA World Cup qualification (AFC)#Group 4|Round 2]]
+|6
+|0
+|0
+|6
+|2
+|18
+|-
+|{{flagicon|RSA}} [[2010 FIFA World Cup|2010]]
+|[[2010 FIFA World Cup qualification (AFC)#Second round|Round 1]]
+|2
+|0
+|1
+|1
+|1
+|4
+|-
+|{{flagicon|BRA}} [[2014 FIFA World Cup|2014]]
+|[[2014 FIFA World Cup qualification (AFC)#Second round|Round 2]]
+|4
+|1
+|1
+|2
+|8
+|10
+|-
+|{{flagicon|RUS}} [[2018 FIFA World Cup|2018]]
+|[[2018 FIFA World Cup qualification (AFC)#Group A|Round 2]]
+|8
+|2
+|0
+|6
+|7
+|29
+|-
+|{{flagicon|QAT}} [[2022 FIFA World Cup|2022]]
+|[[2022 FIFA World Cup qualification (AFC)#Group G|Round 2]]
+|10
+|6
+|0
+|4
+|22
+|14
+|-
+|{{flagicon|CAN}} {{flagicon|MEX}} {{flagicon|USA}} [[2026 FIFA World Cup|2026]]
+|[[2026 FIFA World Cup qualification (AFC)#Group D|Round 2]]
+|6
+|3
+|1
+|2
+|9
+|9
+|-
+|{{flagicon|MAR}} {{flagicon|POR}} {{flagicon|ESP}} [[2030 FIFA World Cup|2030]]
+|colspan="8" rowspan="2" |''To be determined''
+|colspan="7" rowspan="2" |''To be determined''
+|-
+|{{flagicon|KSA}} [[2034 FIFA World Cup|2034]]
+|-
+|style="background: #000000; color: #FFFFFF; border:2px solid #FFFF00;|'''Total'''
+|style="background: #000000; color: #FFFFFF; border:2px solid #FFFF00;|'''N/A'''
+|style="background: #000000; color: #FFFFFF; border:2px solid #FFFF00;|{{Tooltip|'''0/18'''|Number of tournaments qualified for}}
+|style="background: #000000; color: #FFFFFF; border:2px solid #FFFF00;|'''0'''
+|style="background: #000000; color: #FFFFFF; border:2px solid #FFFF00;|'''0'''
+|style="background: #000000; color: #FFFFFF; border:2px solid #FFFF00;|'''0'''
+|style="background: #000000; color: #FFFFFF; border:2px solid #FFFF00;|'''0'''
+|style="background: #000000; color: #FFFFFF; border:2px solid #FFFF00;|'''0'''
+|style="background: #000000; color: #FFFFFF; border:2px solid #FFFF00;|'''0'''
+|style="background: #000000; color: #FFFFFF; border:2px solid #FFFF00;|'''Best: Round 2'''
+|style="background: #000000; color: #FFFFFF; border:2px solid #FFFF00;|'''75'''
+|style="background: #000000; color: #FFFFFF; border:2px solid #FFFF00;|'''26'''
+|style="background: #000000; color: #FFFFFF; border:2px solid #FFFF00;|'''14'''
+|style="background: #000000; color: #FFFFFF; border:2px solid #FFFF00;|'''35'''
+|style="background: #000000; color: #FFFFFF; border:2px solid #FFFF00;|'''104'''
+|style="background: #000000; color: #FFFFFF; border:2px solid #FFFF00;|'''133'''
+|}
+
+=== Olympic Games ===
+{{See also|Football at the Summer Olympics}}
+
+{| class="wikitable" style="text-align: center;font-size:100%; width: 800px;"
+|-
+!colspan=9 style="background: #000000; color: #FFFFFF; border:2px solid #FFFF00;|[[Football at the Summer Olympics|{{color|#FFFFFF|Olympic Games]] record}}
+!style="background: #000000; color: #FFFFFF;|
+!colspan=7 style="background: #000000; color: #FFFFFF; border:2px solid #FFFF00;|Qualification record
+|-
+!width=120|Year
+!width=100|Round
+!width=80|Position
+!width=20|{{Tooltip|Pld|Games played}}
+!width=20|{{Tooltip|W|Won}}
+!width=20|{{Tooltip|D|Drawn}}*
+!width=20|{{Tooltip|L|Lost}}
+!width=20|{{Tooltip|GF|Goals for}}
+!width=20|{{Tooltip|GA|Goals against}}
+! style="width:1%;" rowspan="19"|
+!width=140|Round
+!width=20|{{Tooltip|Pld|Games played}}
+!width=20|{{Tooltip|W|Won}}
+!width=20|{{Tooltip|D|Drawn}}
+!width=20|{{Tooltip|L|Lost}}
+!width=20|{{Tooltip|GF|Goals for}}
+!width=20|{{Tooltip|GA|Goals against}}
+|-
+|{{flagicon|UK}} [[Football at the 1948 Summer Olympics|1948]]
+| rowspan="4" colspan="9" |''See [[Malaya national football team]]'' '''<sup>1</sup>'''
+| rowspan="4" colspan="8" |''See [[Malaya national football team]]'' '''<sup>1</sup>'''
+|-
+|{{flagicon|FIN}} [[Football at the 1952 Summer Olympics|1952]]
+|-
+|{{flagicon|AUS}} [[Association football at the 1956 Summer Olympics|1956]]
+|-
+|{{flagicon|ITA}} [[Football at the 1960 Summer Olympics|1960]]
+|-
+|{{flagicon|Japan|1947}} [[Football at the 1964 Summer Olympics|1964]]
+|colspan="9"|''Did not qualify''
+|[[Football at the 1964 Summer Olympics – Men's Asian Qualifiers – Group 2|Preliminary round]]
+|1
+|0
+|1
+|1
+|3
+|4
+|-
+|{{flagicon|Mexico}} [[Football at the 1968 Summer Olympics|1968]]
+|colspan="9"|''Withdrew''
+|colspan="8"|''Withdrew''
+|-
+|{{flagicon|FRG}} [[Football at the 1972 Summer Olympics|1972]]
+|[[Football at the 1972 Summer Olympics#Group A|Round 1]]
+|10th of 16
+|3
+|1
+|0
+|2
+|3
+|9
+|[[Football at the 1972 Summer Olympics – Men's Asian Qualifiers|Group 1]] '''<sup>Q</sup>'''
+|4
+|4
+|0
+|0
+|12
+|0
+|-
+|{{flagicon|CAN}} [[Football at the 1976 Summer Olympics|1976]]
+| colspan="8"|''Did not qualify''
+|[[Football at the 1976 Summer Olympics – Men's Asian Qualifiers|Group 2]]
+|4
+|2
+|0
+|2
+|17
+|5
+|-
+|{{flagicon|USSR}} [[Football at the 1980 Summer Olympics|1980]]
+| colspan="8"|''[[1980 Summer Olympics boycott|Withdrew]]'' '''<sup>B</sup>''' ||[[1980 Asian Olympic Qualifying Tournaments#Group 2|Group 2]] '''<sup>Q</sup>'''
+|5
+|4
+|1
+|0
+|21
+|3
+|-
+|{{flagicon|USA}} [[Football at the 1984 Summer Olympics|1984]]
+| rowspan="2" colspan="8"|''Did not qualify''
+|[[Football at the 1984 Summer Olympics – Men's Asian Qualifiers|Second round]]
+|12
+|6
+|3
+|3
+|16
+|10
+|-
+|{{flagicon|KOR|1984}} [[Football at the 1988 Summer Olympics|1988]]
+|[[Football at the 1988 Summer Olympics – Men's Asian Qualifiers|First round]]
+|2
+|0
+|1
+|1
+|2
+|3
+|-
+|{{flagicon|ESP}} [[Football at the 1992 Summer Olympics|1992]] – present
+| colspan="8" |''See [[Malaysia national under-23 football team|Malaysia under-23 football team]]'' '''<sup>2</sup>'''
+| colspan="8" |''See [[Malaysia national under-23 football team|Malaysia under-23 football team]]'' '''<sup>2</sup>'''
+|-
+|style="background: #000000; color: #FFFFFF; border:2px solid #FFFF00;|'''Total'''
+|style="background: #000000; color: #FFFFFF; border:2px solid #FFFF00;|'''Appearance: 1'''
+|style="background: #000000; color: #FFFFFF; border:2px solid #FFFF00;|'''Best: 10th'''
+|style="background: #000000; color: #FFFFFF; border:2px solid #FFFF00;|'''3'''
+|style="background: #000000; color: #FFFFFF; border:2px solid #FFFF00;|'''1'''
+|style="background: #000000; color: #FFFFFF; border:2px solid #FFFF00;|'''0'''
+|style="background: #000000; color: #FFFFFF; border:2px solid #FFFF00;|'''2'''
+|style="background: #000000; color: #FFFFFF; border:2px solid #FFFF00;|'''3'''
+|style="background: #000000; color: #FFFFFF; border:2px solid #FFFF00;|'''9'''
+|style="background: #000000; color: #FFFFFF; border:2px solid #FFFF00;|'''Best: Final stage'''
+|style="background: #000000; color: #FFFFFF; border:2px solid #FFFF00;|'''28'''
+|style="background: #000000; color: #FFFFFF; border:2px solid #FFFF00;|'''16'''
+|style="background: #000000; color: #FFFFFF; border:2px solid #FFFF00;|'''6'''
+|style="background: #000000; color: #FFFFFF; border:2px solid #FFFF00;|'''7'''
+|style="background: #000000; color: #FFFFFF; border:2px solid #FFFF00;|'''71'''
+|style="background: #000000; color: #FFFFFF; border:2px solid #FFFF00;|'''25'''
+|}
+
+=== AFC Asian Cup ===
+{{main|Malaysia at the AFC Asian Cup}}
+{| class="wikitable" style="text-align: center;font-size:100%;"
+|-
+!colspan=9 style="background: #000000; color: #FFFFFF; border:2px solid #FFFF00;|[[AFC Asian Cup|{{color|#FFFFFF|AFC Asian Cup]] record}}
+!style="background: #000000; color: #FFFFFF;|
+!colspan=7 style="background: #000000; color: #FFFFFF; border:2px solid #FFFF00;|[[AFC Asian Cup qualifiers|{{color|#FFFFFF|Qualification]] record}}
+|-
+!Year
+!Round
+!Position
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D*|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+! rowspan="20"|
+!Round
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+|-
+|{{flagicon|HKG|1910}} [[1956 AFC Asian Cup|1956]]
+| rowspan="2" colspan="8" |''See [[Malaya national football team]]'' '''<sup>1</sup>'''
+| rowspan="2" colspan="8" |''See [[Malaya national football team]]'' '''<sup>1</sup>'''
+|-
+|{{flagicon|KOR|1949}} [[1960 AFC Asian Cup|1960]]
+|-
+|{{flagicon|ISR}} [[1964 AFC Asian Cup|1964]]
+| rowspan="3" colspan="8" |''Did not qualify''
+|[[1964 AFC Asian Cup qualification#Central zone|Group stage]]
+|3
+|1
+|0
+|2
+|9
+|10
+|-
+|{{flagicon|IRN|1964}} [[1968 AFC Asian Cup|1968]]
+|[[1968 AFC Asian Cup qualification#Central zone|Group stage]]
+|4
+|1
+|1
+|2
+|4
+|5
+|-
+|{{flagicon|THA}} [[1972 AFC Asian Cup|1972]]
+|[[1972 AFC Asian Cup qualification#Central zone|Group stage]]
+|5
+|4
+|0
+|1
+|15
+|3
+|-
+|{{flagicon|IRN|1964}} [[1976 AFC Asian Cup|1976]]
+| [[1976 AFC Asian Cup#Group A|Group stage]]
+|5th of 6
+|2
+|0
+|1
+|1
+|1
+|3
+|[[1976 AFC Asian Cup qualification#Group 4|Group stage]] '''<sup>Q</sup>'''
+|4
+|3
+|1
+|0
+|6
+|1
+|-
+|{{flagicon|KUW}} [[1980 AFC Asian Cup|1980]]
+|[[1980 AFC Asian Cup#Group B|Group stage]]
+|6th of 10
+|4
+|1
+|2
+|1
+|5
+|5
+|[[1980 AFC Asian Cup qualification#Group 3|Group stage]] '''<sup>Q</sup>'''
+|5
+|2
+|2
+|1
+|8
+|4
+|-
+|{{flagicon|SGP}} [[1984 AFC Asian Cup|1984]]
+| rowspan="6" colspan="8" |''Did not qualify''
+|[[1984 AFC Asian Cup qualification#Group 3|Group stage]]
+|4
+|2
+|1
+|1
+|10
+|3
+|-
+|{{flagicon|QAT}} [[1988 AFC Asian Cup|1988]]
+|[[1988 AFC Asian Cup qualification#Group 2|Group stage]]
+|4
+|1
+|1
+|2
+|4
+|6
+|-
+|{{flagicon|JPN|1870}} [[1992 AFC Asian Cup|1992]]
+|[[1992 AFC Asian Cup qualification#Group 5|Group stage]]
+|3
+|0
+|2
+|1
+|2
+|6
+|-
+|{{flagicon|UAE}} [[1996 AFC Asian Cup|1996]]
+|[[1996 AFC Asian Cup qualification#Group 4|Group stage]]
+|2
+|1
+|1
+|0
+|5
+|2
+|-
+|{{flagicon|LBN}} [[2000 AFC Asian Cup|2000]]
+|[[2000 AFC Asian Cup qualification#Group 8|Group stage]]
+|6
+|2
+|1
+|3
+|12
+|13
+|-
+|{{flagicon|CHN}} [[2004 AFC Asian Cup|2004]]
+|[[2004 AFC Asian Cup qualification#Group F 2|Group stage]]
+|6
+|1
+|2
+|3
+|9
+|12
+|-
+|style="border: 3px solid red"|{{flagicon|IDN}} {{flagicon|MAS}} {{flagicon|THA}} {{flagicon|VIE}} [[2007 AFC Asian Cup|2007]]
+| [[2007 AFC Asian Cup#Group C|Group stage]]
+|16th of 16
+|3
+|0
+|0
+|3
+|1
+|12
+| colspan=7|''Qualified as co-hosts''
+|-
+|{{flagicon|QAT}} [[2011 AFC Asian Cup|2011]]
+| rowspan="3" colspan="8" |''Did not qualify''
+|[[2011 AFC Asian Cup qualification#Group C|Group stage]]
+|4
+|0
+|0
+|4
+|2
+|12
+|-
+|{{flagicon|AUS}} [[2015 AFC Asian Cup|2015]]
+|[[2015 AFC Asian Cup qualification#Group D|Group stage]]
+|6
+|2
+|1
+|3
+|5
+|7
+|-
+|{{flagicon|UAE}} [[2019 AFC Asian Cup|2019]]
+|[[2019 AFC Asian Cup qualification#Group B 2|Third round]]
+|14
+|1
+|2
+|11
+|8
+|45
+|-
+|{{flagicon|QAT}} [[2023 AFC Asian Cup|2023]]
+| [[2023 AFC Asian Cup#Group E|Group stage]]
+|21st of 24
+|3
+|0
+|1
+|2
+|3
+|8
+|[[2023 AFC Asian Cup qualification#Third round|Third round]] '''<sup>Q</sup>'''
+|13
+|8
+|0
+|5
+|30
+|18
+|-
+|{{flagicon|KSA}} [[2027 AFC Asian Cup|2027]]||colspan="8"|''Did not qualify''
+|colspan=7|[[2027 AFC Asian Cup qualification#Third round|Third round]]
+|-
+|style="background: #000000; color: #FFFFFF; border:2px solid #FFFF00;|'''Total'''
+|style="background: #000000; color: #FFFFFF; border:2px solid #FFFF00;|'''Appearances: 4'''
+|style="background: #000000; color: #FFFFFF; border:2px solid #FFFF00;|'''Best: 5th'''
+|style="background: #000000; color: #FFFFFF; border:2px solid #FFFF00;|'''9'''
+|style="background: #000000; color: #FFFFFF; border:2px solid #FFFF00;|'''1'''
+|style="background: #000000; color: #FFFFFF; border:2px solid #FFFF00;|'''3'''
+|style="background: #000000; color: #FFFFFF; border:2px solid #FFFF00;|'''5'''
+|style="background: #000000; color: #FFFFFF; border:2px solid #FFFF00;|'''7'''
+|style="background: #000000; color: #FFFFFF; border:2px solid #FFFF00;|'''20'''
+|style="background: #000000; color: #FFFFFF;|
+|style="background: #000000; color: #FFFFFF; border:2px solid #FFFF00;|'''Best: Third round'''
+|style="background: #000000; color: #FFFFFF; border:2px solid #FFFF00;|'''82'''
+|style="background: #000000; color: #FFFFFF; border:2px solid #FFFF00;|'''29'''
+|style="background: #000000; color: #FFFFFF; border:2px solid #FFFF00;|'''15'''
+|style="background: #000000; color: #FFFFFF; border:2px solid #FFFF00;|'''38'''
+|style="background: #000000; color: #FFFFFF; border:2px solid #FFFF00;|'''129'''
+|style="background: #000000; color: #FFFFFF; border:2px solid #FFFF00;|'''147'''
+|}
+
+=== ASEAN Championship ===
+{{col-begin}}
+{{col-2}}
+{| class="wikitable" style="text-align:center;font-size:100%;"
+!colspan=10 style="background: #000000; color: #FFFFFF; border:2px solid #FFFF00;|[[ASEAN Championship|{{color|#FFFFFF|ASEAN Championship}}]] record
+|-
+!Year
+!width=80|Round
+!width=80|Position
+!width=25|{{Tooltip|Pld|Games played}}
+!width=25|{{Tooltip|W|Won}}
+!width=25|{{Tooltip|D|Drawn}}*
+!width=25|{{Tooltip|L|Lost}}
+!width=25|{{Tooltip|GF|Goals for}}
+!width=25|{{Tooltip|GA|Goals against}}
+|- style="background:silver;"
+|{{flagicon|SGP}} [[1996 AFF Championship|1996 '''<sup>3</sup>''']]||'''Runners-up'''||'''2nd of 10'''||'''6'''||'''3'''||'''2'''||'''1'''||'''18'''||'''4'''
+|-
+|{{flagicon|VIE}} [[1998 AFF Championship|1998 '''<sup>3</sup>''']]||Group stage||6th of 8||3||0||1||2||0||3
+|- style="background:#cfaa88;"
+|{{flagicon|THA}} [[2000 AFF Championship|2000 '''<sup>3</sup>''']]||'''Third place'''||'''3rd of 9'''||'''6'''||'''4'''||'''1'''||'''1'''||'''12'''||'''4'''
+|- style="background:#ccffcc;"
+|{{flagicon|IDN}} {{flagicon|SGP}} [[2002 AFF Championship|2002 '''<sup>3</sup>''']]||'''Fourth place'''||'''4th of 9'''||'''5'''||'''2'''||'''1'''||'''2'''||'''9'''||'''5'''
+|- style="background:#cfaa88;"
+|style="border: 3px solid red"|{{flagicon|VIE}} {{flagicon|MAS}} [[2004 AFF Championship|2004 '''<sup>3</sup>''']]||'''Third place'''||'''3rd of 10'''||'''7'''||'''5'''||'''0'''||'''2'''||'''14'''||'''9'''
+|- bgcolor=#ccffcc
+|{{flagicon|SGP}} {{flagicon|THA}} [[2007 AFF Championship|2007 '''<sup>3</sup>''']]||'''Fourth place'''||'''4th of 8'''||'''5'''||'''1'''||'''3'''||'''1'''||'''6'''||'''3'''
+|-
+|{{flagicon|IDN}} {{flagicon|THA}} [[2008 AFF Championship|2008 '''<sup>3</sup>''']]||Group stage||5th of 8||3||1||0||2||5||6
+|- style="background:gold;"
+|{{flagicon|IDN}} {{flagicon|VIE}} [[2010 AFF Championship|2010 '''<sup>3</sup>''']]||'''Champions'''||'''1st of 8'''||'''7'''||'''3'''||'''2'''||'''2'''||'''12'''||'''8'''
+|- style="background:#ccffcc;"
+|style="border: 3px solid red"|{{flagicon|MAS}} {{flagicon|THA}} [[2012 AFF Championship|2012 '''<sup>3</sup>''']]||'''Fourth place'''||'''4th of 8'''||'''5'''||'''2'''||'''1'''||'''2'''||'''7'''||'''7'''
+|- style="background:silver;"
+|{{flagicon|SGP}} {{flagicon|VIE}} [[2014 AFF Championship|2014 '''<sup>3</sup>''']]||'''Runners-up'''||'''2nd of 8'''||'''7'''||'''3'''||'''1'''||'''3'''||'''13'''||'''12'''
+|-
+|{{flagicon|MYA}} {{flagicon|PHI}} [[2016 AFF Championship|2016]]||Group stage||5th of 8||3||1||0||2||3||4
+|- style="background:silver;"
+|{{flagicon|ASEAN}} [[2018 AFF Championship|2018]]||'''Runners-up'''||'''2nd of 10'''||'''8'''||'''3'''||'''3'''||'''2'''||'''11'''||'''8'''
+|-
+|{{flagicon|SGP}} [[2020 AFF Championship|2020]]||Group stage||6th of 10||4||2||0||2||8||8
+|- style="background:#cfaa88;"
+|{{flagicon|ASEAN}} [[2022 AFF Championship|2022]]|| '''Semi-finals''' || '''3rd of 10''' || '''6''' || '''4''' || '''0''' || '''2''' || '''11''' || '''7'''
+|-
+|{{flagicon|ASEAN}} [[2024 ASEAN Championship|2024]]||Group stage||5th of 10||4||1||2||1||5||5
+|-style="background: #000000; color: #FFFFFF; border:2px solid #FFFF00;"
+|'''Total'''
+|'''Appearances: 15'''
+|'''Best: 1st'''
+|'''79'''
+|'''35'''
+|'''17'''
+|'''27'''
+|'''134'''
+|'''93'''
+|}
+
+{{col-2}}
+{| class="wikitable" wistyle="text-align:center;font-size:100%;"
+|- group stage 1||1|0|0|1|0
+!colspan=6 style="background: #000000; color: #FFFFFF; border:2px solid #FFFF00;|ASEAN Championship history
+|-
+!style="text-align: left;"|First Match
+|{{fb-rt|SGP}} 1–1 {{fb|MAS}}<br /> (1 September 1996; [[Kallang]], Singapore)
+|-
+!style="text-align: left;"|Last Match
+|{{fb-rt|MAS}} 0–0 {{fb|SGP}}<br /> (20 December 2024; [[Kuala Lumpur]], Malaysia)
+|-
+!style="text-align: left;"|Biggest Win
+|{{fb-rt|MAS}} 7–0 {{fb|PHI|1986}}<br /> (4 September 1996; [[Kallang]], Singapore)
+|-
+!style="text-align: left;"|Biggest Defeat
+|{{fb-rt|IDN}} 5–1 {{fb|MAS}}<br /> (1 December 2010; [[Jakarta]], Indonesia)
+|-
+!style="text-align: left;"|Best Result
+|'''Champions''' in [[2010 AFF Championship|2010]]
+|-
+!style="text-align: left;"|Worst Result
+|'''Group stage''' in [[1998 AFF Championship|1998]], [[2008 AFF Championship|2008]], [[2016 AFF Championship|2016]], [[2020 AFF Championship|2020]], [[2024 AFF Championship|2024]]
+|}
+{{col-end}}
+
+=== Asian Games ===
+{{col-begin}}
+{{col-2}}
+{| class="wikitable" style="text-align:center;font-size:100%;"
+!colspan=10 style="background: #000000; color: #FFFFFF; border:2px solid #FFFF00;|[[Football at the Asian Games|{{color|#FFFFFF|Asian Games}}]] record '''<sup>C</sup>'''
+|-
+!Year
+!width=80|Round
+!width=80|Position
+!width=25|{{Tooltip|Pld|Games played}}
+!width=25|{{Tooltip|W|Won}}
+!width=25|{{Tooltip|D|Drawn}}*
+!width=25|{{Tooltip|L|Lost}}
+!width=25|{{Tooltip|GF|Goals for}}
+!width=25|{{Tooltip|GA|Goals against}}
+|-
+|{{flagicon|IND}} [[Football at the 1951 Asian Games|1951]]
+| rowspan="4" colspan="8" |''See [[Malaya national football team]]'' '''<sup>1</sup>'''
+|-
+|{{flagicon|PHI|1936}} [[Football at the 1954 Asian Games|1954]]
+|-
+|{{flagicon|JPN|1947}} [[Football at the 1958 Asian Games|1958]]
+|-
+|{{flagicon|IDN}} [[Football at the 1962 Asian Games|1962]]
+|-
+|{{flagicon|THA}} [[Football at the 1966 Asian Games|1966]]||Group stage||10th of 11||3||0||0||3||1||4
+|-
+|{{flagicon|THA}} [[Football at the 1970 Asian Games|1970]]||Group stage||10th of 10||3||0||0||3||0||4
+|- style="background:#cfaa88;"
+|{{flagicon|IRN}} [[Football at the 1974 Asian Games|1974]]||'''Bronze medalists'''||'''3rd of 15'''||'''7'''||'''3'''||'''2'''||'''2'''||'''20'''||'''13'''
+|-
+|{{flagicon|THA}} [[Football at the 1978 Asian Games|1978]]||Semi-finals||7th of 14||5||2||0||3||4||10
+|-
+|{{flagicon|IND}} [[Football at the 1982 Asian Games|1982]]
+| rowspan="4" |Group stage||14th of 16||3||0||0||3||1||4
+|-
+|{{flagicon|KOR|1984}} [[Football at the 1986 Asian Games|1986]]||15th of 18||3||0||1||2||2||5
+|-
+|{{flagicon|CHN}} [[Football at the 1990 Asian Games|1990]]||12th of 14||2||0||1||1||0||3
+|-
+|{{flagicon|JPN|1947}} [[Football at the 1994 Asian Games|1994]]||11th of 18||4||1||1||2||6||11
+|-
+|{{flagicon|THA}} [[Football at the 1998 Asian Games|1998]]
+| colspan="8" |''Did not enter''
+|-
+|{{flagicon|KOR|1997}} [[Football at the 2002 Asian Games|2002]] – present
+| colspan="8" |''See [[Malaysia national under-23 football team]]'' '''<sup>2</sup>'''
+|-style="background: #000000; color: #FFFFFF; border:2px solid #FFFF00;"
+|'''Total'''
+|'''Appearances: 8'''
+|'''Best: 3rd'''
+|'''30'''
+|'''6'''
+|'''5'''
+|'''19'''
+|'''34'''
+|'''54'''
+|}
+
+{{col-2}}
+{| class="wikitable" width=75% style="text-align:center;font-size:100%;"
+|-
+!colspan=6 style="background: #000000; color: #FFFFFF; border:2px solid #FFFF00;|Asian Games history
+|-
+!style="text-align: left;"|First Match
+|{{fb-rt|IRN|1964}} 2–0 {{fb|MAS}}<br /> (10 December 1966; [[Bangkok]], Thailand)
+|-
+!style="text-align: left;"|Last Match
+|{{fb-rt|MAS}} 1–2 {{fb|KSA}}<br /> (7 October 1994; [[Hiroshima]], Japan)
+|-
+!style="text-align: left;"|Biggest Win
+|{{fb-rt|MAS}} 11–0 {{fb|PHI|1936}}<br /> (7 September 1974; [[Tehran]], Iran)
+|-
+!style="text-align: left;"|Biggest Defeat
+|{{fb-rt|ISR}} 8–3 {{fb|MAS}}<br /> (3 September 1974; [[Tehran]], Iran)
+|-
+!style="text-align: left;"|Best Result
+|'''Bronze medalists''' in [[Football at the 1974 Asian Games|1974]]
+|-
+!style="text-align: left;"|Worst Result
+|'''Group stage''' in [[Football at the 1970 Asian Games|1970]]
+|}
+{{col-end}}
+
+=== Southeast Asian Games ===
+{{col-begin}}
+{{col-2}}
+{| class="wikitable" style="text-align:center;font-size:100%;"
+|-
+!colspan=9 style="background: #000000; color: #FFFFFF; border:2px solid #FFFF00;|[[Football at the Southeast Asian Games|{{color|#FFFFFF|Southeast Asian Games}}]] record '''<sup>C</sup>'''
+|-
+!Year
+!width=100|Round
+!width=80|Position
+!width=25|{{Tooltip|Pld|Games played}}
+!width=25|{{Tooltip|W|Won}}
+!width=25|{{Tooltip|D|Drawn}}*
+!width=25|{{Tooltip|L|Lost}}
+!width=25|{{Tooltip|GF|Goals for}}
+!width=25|{{Tooltip|GA|Goals against}}
+|-
+|{{flagicon|THA}} [[Football at the 1959 Southeast Asian Peninsular Games|1959 '''<sup>5</sup>''']]
+| rowspan="2" colspan="8" |''See [[Malaya national football team]]'' '''<sup>1</sup>'''
+|-
+|{{flagicon|BIR|1948}} [[Football at the 1961 Southeast Asian Peninsular Games|1961 '''<sup>5</sup>''']]
+|-
+|{{flagicon|CAM}} [[Football at the 1963 Southeast Asian Peninsular Games|1963 '''<sup>5</sup>''']]
+| colspan="8" |''Not held''
+|- bgcolor=#ccffcc
+|style="border: 3px solid red"|{{flagicon|MAS}} [[Football at the 1965 Southeast Asian Peninsular Games|1965 '''<sup>5</sup>''']]||Semi-finals||4th of 5||2||0||0||2||0||4
+|-
+|{{flagicon|THA}} [[Football at the 1967 Southeast Asian Peninsular Games|1967 '''<sup>5</sup>''']]||Group stage||5th of 5||2||0||0||2||1||6
+|- style="background:#cfaa88;"
+|{{flagicon|BIR|1948}} [[Football at the 1969 Southeast Asian Peninsular Games|1969 '''<sup>5</sup>''']]||Bronze medalists '''<sup>S</sup>''' ||3rd of 5||3||2||0||1||4||5
+|- style="background:Silver;"
+|style="border: 3px solid red"|{{flagicon|MAS}} [[Football at the 1971 Southeast Asian Peninsular Games|1971 '''<sup>5</sup>''']]||Silver medalists||2nd of 7||5||4||0||1||16||6
+|- style="background:#cfaa88;"
+|{{flagicon|SGP}} [[Football at the 1973 Southeast Asian Peninsular Games|1973 '''<sup>5</sup>''']]||Bronze medalists||3rd of 6||4||1||2||1||4||2
+|- style="background:Silver;"
+|{{flagicon|THA}} [[Football at the 1975 Southeast Asian Peninsular Games|1975 '''<sup>5</sup>''']]||Silver medalists||2nd of 4||3||1||1||1||3||3
+|- style="background:Gold;"
+|style="border: 3px solid red"|{{flagicon|MAS}} [[Football at the 1977 Southeast Asian Games|1977]]
+|'''Gold medalists'''||1st of 7||5||4||0||1||24||3
+|- style="background:Gold;"
+|{{flagicon|IDN}} [[Football at the 1979 Southeast Asian Games|1979]]||'''Gold medalists'''||1st of 5||5||3||2||0||4||0
+|- style="background:Silver;"
+|{{flagicon|PHI|1936}} [[Football at the 1981 Southeast Asian Games|1981]]||Silver medalists||2nd of 6||4||1||2||1||4||5
+|- style="background:#cfaa88;"
+|{{flagicon|SGP}} [[Football at the 1983 Southeast Asian Games|1983]]||Bronze medalists||3rd of 7||4||1||2||1||7||3
+|- style="background:#cfaa88;"
+|{{flagicon|IDN}} [[Football at the 1985 Southeast Asian Games|1985]]||Bronze medalists||3rd of 6||4||2||2||0||10||3
+|- style="background:Silver;"
+|{{flagicon|THA}} [[Football at the 1987 Southeast Asian Games|1987]]||Silver medalists||2nd of 6||4||1||2||1||4||3
+|- style="background:Gold;"
+|style="border: 3px solid red"|{{flagicon|MAS}} [[Football at the 1989 Southeast Asian Games|1989]]
+|'''Gold medalists'''||1st of 8||5||5||0||0||11||2
+|-
+|{{flagicon|PHI|1986}} [[Football at the 1991 Southeast Asian Games|1991]]
+| rowspan="5" |Group stage||5th of 7||3||1||0||2||2||4
+|-
+|{{flagicon|SGP}} [[Football at the 1993 Southeast Asian Games|1993]]||5th of 9||4||2||0||2||13||5
+|-
+|{{flagicon|THA}} [[Football at the 1995 Southeast Asian Games|1995]]||7th of 10||4||1||1||2||9||5
+|-
+|{{flagicon|IDN}} [[Football at the 1997 Southeast Asian Games|1997]]||7th of 10||4||2||0||2||5||5
+|-
+|{{flagicon|BRU}} [[Football at the 1999 Southeast Asian Games|1999]]||5th of 10||4||2||0||2||10||10
+|-
+|{{flagicon|MAS}} [[Football at the 2001 Southeast Asian Games|2001]] – present
+| colspan="8" |''See [[Malaysia national under-23 football team]]'' '''<sup>2</sup>'''
+|-style="background: #000000; color: #FFFFFF; border:2px solid #FFFF00;"
+|'''Total'''
+|'''Appearances: 18'''
+|'''{{nowrap|Best: 1st}}'''
+|'''69'''
+|'''33'''
+|'''14'''
+|'''22'''
+|'''131'''
+|'''74'''
+|}
+
+{{col-2}}
+{| class="wikitable" width=75% style="text-align:center;font-size:100%;"
+|-
+!colspan=6 style="background: #000000; color: #FFFFFF; border:2px solid #FFFF00;|Southeast Asian Games history
+|-
+!style="text-align: left;"|First Match
+|{{fb-rt|MAS}} 0–2 {{fb|BIR|1948}}<br /> (18 December 1965; [[Kuala Lumpur]], Malaysia)
+|-
+!style="text-align: left;"|Last Match
+|{{fb-rt|BRU}} 0–2 {{fb|MAS}}<br /> (6 August 1999; [[Bandar Seri Begawan]], Brunei)
+|-
+!style="text-align: left;"|Biggest Win
+|{{fb-rt|MAS}} 9–0 {{fb|LAO}}<br /> (30 July 1993; [[Singapore]])<br />{{fb-rt|Malaysia}} 9–0 {{fb|Cambodia}}<br /> (10 December 1995; [[Chiang Mai]], Thailand)
+|-
+!style="text-align: left;"|Biggest Defeat
+|{{fb-rt|IDN}} 6–0 {{fb|MAS}}<br /> (12 August 1999; [[Bandar Seri Begawan]], Brunei)
+|-
+!style="text-align: left;"|Best Result
+|'''Champions''' in [[Football at the 1977 Southeast Asian Games|1977]], [[Football at the 1979 Southeast Asian Games|1979]], [[Football at the 1989 Southeast Asian Games|1989]]
+|-
+!style="text-align: left;"|Worst Result
+|'''Group stage''' in [[Football at the 1967 Southeast Asian Peninsular Games|1967]]
+|}
+{{col-end}}
+* '''<sup>*</sup> :''' Denotes draws include knockout matches decided via [[Penalty shoot-out (association football)|penalty shoot-out]].
+* '''<sup>1</sup> :''' Represented in the competition by [[Malaya national football team]].
+* '''<sup>2</sup> :''' Represented in the competition by [[Malaysia national under-23 football team]].
+* '''<sup>3</sup> :''' Not a FIFA 'A' international competition.
+* '''<sup>4</sup> :''' Represented in the competition by [[Malaysia national under-22 football team]].
+* '''<sup>5</sup> :''' Previously known as Southeast Asian Peninsular Games (SEAP Games).
+* '''<sup>B</sup> :''' Qualified to the final round, but boycotted the tournament.
+* '''<sup>C</sup> :''' These matches are not regarded as part of the national team's record, nor are caps awarded.
+* '''<sup>Q</sup> :''' Qualified to the final round of participating tournament
+* '''<sup>S</sup> :''' Shared the medal
+
+'''''Notes:'''''
+* Red border colour indicates tournament was held on home soil
+
+== Head-to-head record ==
+''Last update was against&nbsp;&nbsp;{{fb|VIE}} on 31 March 2026.'' <!-- Need to update with valid reason and proof -->
+{| class="wikitable sortable collapsible collapsed" style="text-align:left;"
+|-
+!colspan=10 style="background: #000000; color: #FFFFFF; border:2px solid #FFFF00;"|Malaysia national football team head-to-head records
+|-
+|'''Opponents'''
+|'''Pld'''
+|'''W'''
+|'''D'''
+|'''L'''
+|'''GF'''
+|'''GA'''
+|'''GD'''
+|'''Confederation'''
+|'''Last Match'''
+|- style="background:#ccffcc;"
+|align=left| {{fb|AFG|2013}} || 3 || 2 || 1 || 0 || 9 || 2 || +7 || [[Asian Football Confederation|AFC]]||<small>23 March 2019; [[Exhibition Match|Friendly]]</small>
+|- style="background:#ffffcc;"
+|align=left| {{fb|ALG}} || 2 || 0 || 2 || 0 || 1
+|| 1 || 0 || [[Confederation of African Football|CAF]]||<small>23 August 1986; [[Exhibition Match|Friendly]]</small>
+|- style="background:#ffcccc;"
+|align=left| {{fb|AUS}} || 8 || 1 || 0 || 7 || 1 || 22 || −21 || [[Asian Football Confederation|AFC]]||<small>7 October 2011; [[Exhibition Match|Friendly]]</small>
+|- style="background:#ffcccc;"
+|align=left| {{fb|BHR}} || 13 || 2 || 3 || 8 || 14 || 25 || −10 || [[Asian Football Confederation|AFC]]||<small>20 January 2024; [[2023 AFC Asian Cup]]</small>
+|- style="background:#ccffcc;"
+|align=left| {{fb|BAN}} || 10 || 7 || 2 || 1 || 20 || 4 || +16 || [[Asian Football Confederation|AFC]]||<small>14 June 2022; [[2023 AFC Asian Cup qualification – third round|2023 Asian Cup qualification]]</small>
+|- style="background:#ccffcc;"
+|align=left| {{fb|BHU}} || 1 || 1 || 0 || 0 || 7 || 0 || +7 || [[Asian Football Confederation|AFC]]||<small>1 April 2018; [[Exhibition Match|Friendly]]</small>
+|- style="background:#ffcccc;"
+|align=left| {{fb|BIH}} || 3 || 0 || 1 || 2 || 2 || 3 || −1 || [[Union of European Football Associations|UEFA]]||<small>27 June 2001; [[2001 Merdeka Tournament|Merdeka Tournament SF]]</small>
+|- style="background:#ffcccc;"
+|align=left| {{fb|BRA}} || 1 || 0 || 0 || 1 || 0 || 4 || −4 || [[South American Football Confederation|CONMEBOL]]||<small>25 May 2002; [[Exhibition Match|Friendly]]</small>
+|- style="background:#ccffcc;"
+|align=left| {{fb|BRU}} || 11 || 11 || 0 || 0 || 46 || 2 || +43 || [[Asian Football Confederation|AFC]]||<small>27 May 2022; [[Exhibition Match|Friendly]]</small>
+|- style="background:#ffffcc;"
+|align=left| {{fb|BUL}} || 1 || 0 || 1 || 0 || 1 || 1 || 0 || [[Union of European Football Associations|UEFA]]||<small>30 January 1999; [[1999 Dunhill Cup Vietnam|1999 Dunhill Cup]]</small>
+|- style="background:#ccffcc;"
+|align=left| {{fb|CAM}} || 30 || 22 || 4 || 4 || 90 || 29 || +61 || [[Asian Football Confederation|AFC]]||<small>8 December 2024; [[2024 ASEAN Championship]]</small>
+|- style="background:#ffcccc;"
+|align=left| {{fb|CAN}} || 1 || 0 || 0 || 1 || 0 || 5 || −5 || [[CONCACAF]]||<small>25 August 1986; [[Merlion Cup]]</small>
+|- style="background:#ffffcc;"
+|align=left| {{fb|CPV}} || 1 || 0 || 1 || 0 || 1
+|| 1 || 0 || [[Confederation of African Football|CAF]]||<small>29 May 2025; [[Exhibition Match|Friendly]]</small>
+|- style="background:#ffcccc;"
+|align=left| {{fb|CHN}} || 16 || 1 || 4 || 11 || 4 || 33 || −29 || [[Asian Football Confederation|AFC]]||<small>9 September 2023; [[Exhibition Match|Friendly]]</small>
+|- style="background:#ccffcc;"
+|align=left| {{fb|TPE}} || 13 || 8 || 2 || 3 || 26 || 13 || +13 || [[Asian Football Confederation|AFC]]||<small>11 June 2024; [[2026 FIFA World Cup qualification – AFC second round|2026 FIFA World Cup qualification]]</small>
+|- style="background:#ccffcc;"
+|align=left| {{fb|CSK}} || 1 || 1 || 0 || 0 || 3
+|| 0 || +3 || [[Union of European Football Associations|UEFA]]||<small>27 August 1986; [[:ms:Pestabola Merdeka 1986|Merdeka Tournament]]</small>
+|- style="background:#ffcccc;"
+|align=left| {{fb|ENG}} || 1 || 0 || 0 || 1 || 2 || 4 || −2 || [[Union of European Football Associations|UEFA]]||<small>12 June 1991; [[Exhibition Match|Friendly]]</small>
+|- style="background:#ffffcc;"
+|align=left| {{fb|FIJ}} || 5 || 2 || 1 || 2 || 5 || 8 || −3 || [[Oceania Football Confederation|OFC]]||<small>5 July 2018; [[Exhibition Match|Friendly]]</small>
+|- style="background:#ccffcc;"
+|align=left| {{fb|FIN}} || 1 || 1 || 0 || 0 || 2 || 1 || +1 || [[Union of European Football Associations|UEFA]]||<small>21 February 1997; [[1997 Dunhill Cup Malaysia|1997 Dunhill Cup]]</small>
+|- style="background:#ffcccc;"
+|align=left| {{fb|FRG}} || 1 || 0 || 0 || 1 || 0 || 3 || −3 || [[Union of European Football Associations|UEFA]]||<small>29 August 1972; [[Football at the 1972 Summer Olympics|Summer Olympic]]</small>
+|- style="background:#ccffcc;"
+|align=left| {{fb|HKG}} || 31 || 15 || 9 || 7 || 48 ||33 || +15 || [[Asian Football Confederation|AFC]]||<small>28 March 2023; [[Exhibition Match|Friendly]]</small>
+|- style="background:#ccffcc;"
+|align=left| {{fb|IND}} || 26 || 11 || 8 || 7 || 50 || 30 || +20 || [[Asian Football Confederation|AFC]]||<small>18 November 2024; [[Exhibition Match|Friendly]]</small>
+|- style="background:#ffcccc;"
+|align=left| {{fb|IDN}} || 97 || 36 || 21 || 40 || 108 || 122 || −14 || [[Asian Football Confederation|AFC]]||<small>19 December 2021; [[2020 AFF Championship]]</small>
+|- style="background:#ffcccc;"
+|align=left| {{fb|IRN}} || 5 || 0 || 0 || 5 || 0 || 11 || −11 || [[Asian Football Confederation|AFC]]||<small>18 July 2007; [[2007 AFC Asian Cup]]</small>
+|- style="background:#ffcccc;"
+|align=left| {{fb|IRQ}} || 8 || 0 || 3 || 5 || 3 || 14 || −11 || [[Asian Football Confederation|AFC]]||<small>20 October 2003; [[2004 AFC Asian Cup qualification|2004 Asian Cup qualification]]</small>
+|- style="background:#ffcccc;"
+|align=left| {{fb|ISR}} || 2 || 0 || 0 || 2 || 3 || 11 || −8 || [[Union of European Football Associations|UEFA]], [[Asian Football Confederation|AFC]]||<small>3 September 1974; [[Football at the 1974 Asian Games|Asian Games]]</small>
+|- style="background:#ffcccc;"
+|align=left| {{fb|JAM}} || 1 || 0 || 0 || 1 || 0 || 2 || −2 || [[CONCACAF]]||<small>28 June 2007; [[Exhibition Match|Friendly]]</small>
+|- style="background:#ccffcc;"
+|align=left| {{fb|JPN}} || 26 || 10 || 7 || 9 || 43 || 40 || +3 || [[Asian Football Confederation|AFC]]||<small>7 February 2004; [[Exhibition Match|Friendly]]</small>
+|- style="background:#ffcccc;"
+|align=left| {{fb|JOR}} || 6 || 0 || 2 || 4 || 0 || 10 || −10 || [[Asian Football Confederation|AFC]]||<small>15 January 2024; [[2023 AFC Asian Cup]]</small>
+|- style="background:#ffffcc;"
+|align=left| {{fb|KEN}} || 1 || 0 || 1 || 0 || 0 || 0 || 0 || [[Confederation of African Football|CAF]]||<small>12 August 2009; [[Exhibition Match|Friendly]]</small>
+|- style="background:#ffffcc;"
+|align=left| {{fb|KGZ}} || 3 || 1 || 1 || 1 || 5 || 5 || 0 || [[Asian Football Confederation|AFC]]||<small>6 June 2024; [[2026 FIFA World Cup qualification – AFC second round|2026 FIFA World Cup qualification]]</small>
+|- style="background:#ffcccc;"
+|align=left| {{fb|KUW}} || 13 || 3 || 1 || 9 || 9 || 32 || –23 || [[Asian Football Confederation|AFC]]||<small>8 November 2013; [[Exhibition Match|Friendly]]</small>
+|- style="background:#ccffcc;"
+|align=left| {{fb|LAO}} || 17 || 14 || 2 || 1 || 60 || 8 || +52 || [[Asian Football Confederation|AFC]]||<small>14 October 2025; [[2027 AFC Asian Cup qualification - third round|2027 Asian Cup qualification]]</small>
+|- style="background:#ccffcc;"
+|align=left| {{fb|LES}} || 2 || 2 || 0 || 0 || 9 || 0 || +9 || [[Confederation of African Football|CAF]]||<small>11 September 2009; [[Exhibition Match|Friendly]]</small>
+|- style="background:#ccffcc;"
+|align=left| {{fb|LBR}} || 1 || 1 || 0 || 0 || 3 || 1 || +2 || [[Confederation of African Football|CAF]]||<small>27 August 1984; [[:ms:Pestabola Merdeka 1984|Merdeka Tournament]]</small>
+|- style="background: #ffffcc;"
+|align=left| {{fb|LBY}} || 2 || 0 || 2 || 0 || 2 || 2 || 0 || [[Confederation of African Football|CAF]]||<small>30 September 1980; [[Islamic Games]]</small>
+|- style="background:#ffcccc;"
+|align=left| {{fb|LIE}} || 1 || 0 || 0 || 1 || 0 || 1 || −1 || [[Union of European Football Associations|UEFA]]||<small>5 October 1981; [[Exhibition Match|Friendly]]</small>
+|- style="background:#ffcccc;"
+|align=left| {{fb|LIB}} || 3 || 1 || 0 || 2 || 3 || 4 || −1 || [[Asian Football Confederation|AFC]]||<small>8 September 2024; [[2024 Merdeka Tournament]]</small>
+|- style="background:#ccffcc;"
+|align=left| {{fb|MAC}} || 3 || 2 || 1 || 0 || 14 || 0 || +14 || [[Asian Football Confederation|AFC]]||<small>28 March 2016; [[Exhibition Match|Friendly]]</small>
+|- style="background:#ccffcc;"
+|align=left| {{fb|MDV}} || 6 || 5 || 0 || 1 || 14 || 2 || +12 || [[Asian Football Confederation|AFC]]||<small>14 December 2022; [[Exhibition Match|Friendly]]</small>
+|- style="background:#ffffcc;"
+|align=left| {{fb|MNG}} || 1 || 0 || 1 || 0 || 2 || 2 || 0 || [[Asian Football Confederation|AFC]]||<small>22 March 2018; [[Exhibition Match|Friendly]]</small>
+|- style="background:#ffcccc;"
+|align=left| {{fb|MAR}} || 4 || 1 || 1 || 2 || 4 || 9 || -5 || [[Confederation of African Football|CAF]]||<small>7 February 1981; [[Exhibition Match|Friendly]]</small>
+|- style="background:#ccffcc;"
+|align=left| {{fb|MYA}} || 52 || 25 || 8 || 19 || 90 || 67 || +23 || [[Asian Football Confederation|AFC]]||<small> 21 December 2022; [[2022 AFF Championship]]</small>
+|- style="background:#ccffcc;"
+|align=left| {{fb|NEP}} || 10 || 8 || 1 || 1 || 26 || 4 || +22 || [[Asian Football Confederation|AFC]]||<small>18 November 2025; [[2027 AFC Asian Cup qualification - third round|2027 Asian Cup qualification]]</small>
+|- style="background:#ccffcc;"
+|align=left| {{fb|NCL}} || 1 || 1 || 0 || 0 || 2 || 1 || +1 || [[Oceania Football Confederation|OFC]]||<small>26 June 2016; [[Exhibition Match|Friendly]]</small>
+|- style="background:#ffcccc;"
+|align=left| {{fb|NZL}} || 14 || 2 || 2 || 10 || 9 || 35 || −26 || [[Oceania Football Confederation|OFC]]||<small>14 October 2024; [[Exhibition Match|Friendly]]</small>
+|- style="background:#ffcccc;"
+|align=left| {{fb|PRK}} || 8 || 1 || 3 || 4 || 5 || 14 || −9 || [[Asian Football Confederation|AFC]]||<small>13 November 2017; [[2019 AFC Asian Cup qualification|2019 Asian Cup qualification]]</small>
+|- style="background:#ffcccc;"
+|align=left| {{fb|OMA}} || 9 || 2 || 1 || 6 || 6 || 17 || –11 || [[Asian Football Confederation|AFC]]||<small> 26 March 2024; [[2026 FIFA World Cup qualification - AFC second round|2026 FIFA World Cup qualification]]</small>
+|- style="background:#ccffcc;"
+|align=left| {{fb|PAK}} || 4 || 3 || 0 || 1 || 15 || 4 || +11 || [[Asian Football Confederation|AFC]]||<small>10 Oct 2008; [[Exhibition Match|Friendly]]</small>
+|- style="background:#ffcccc;"
+|align=left| {{fb|PLE}} || 5 || 2 || 0 || 3 || 5 || 16 || −11 || [[Asian Football Confederation|AFC]] ||<small>8 September 2025; [[Exhibition game|Friendly]]</small>
+|- style="background:#ccffcc;"
+|align=left| {{fb|PNG}} || 5 || 4 || 0 || 1 || 29 || 3 || +26 || [[Oceania Football Confederation|OFC]]||<small>20 June 2023; [[Exhibition Match|Friendly]]</small>
+|- style="background:#ccffcc;"
+|align=left| {{fb|PHI}} || 16 || 12 || 3 || 1 || 61 || 4 || +57 || [[Asian Football Confederation|AFC]]||<small>4 September 2024; [[2024 Merdeka Tournament]]</small>
+|- style="background:#ffcccc;"
+|align=left| {{fb|QAT}} || 6 || 0 || 3 || 3 || 3 || 11 || −8 || [[Asian Football Confederation|AFC]]||<small>19 November 2013; [[2015 AFC Asian Cup qualification|2015 Asian Cup qualification]]</small>
+|- style="background:#ffcccc;"
+|align=left| {{fb|KSA}} || 10 || 1 || 2 || 7 || 8 || 21 || −13 || [[Asian Football Confederation|AFC]]||<small>24 March 2016; [[2018 FIFA World Cup qualification – AFC second round|2018 FIFA World Cup qualification]]</small>
+|- style="background:#ccffcc;"
+|align=left| {{fb|SEN}} || 1 || 1 || 0 || 0 || 1 || 0 || +1 || [[Confederation of African Football|CAF]]||<small>13 August 1982; [[:ms:Pestabola Merdeka 1982|Merdeka Tournament]]</small>
+|- style="background:#ccffcc;"
+|align=left| {{fb|SIN}} || 51 || 21 || 17 || 14 || 81 || 58 || +24 || [[Asian Football Confederation|AFC]]||<small>4 September 2025; [[Exhibition Match|Friendly]]</small>
+|- style="background:#ccffcc;"
+|align=left| {{fb|SOL}} || 1 || 1 || 0 || 0 || 4 || 1 || +3 || [[Oceania Football Confederation|OFC]]||<small>14 June 2023; [[Exhibition Match|Friendly]]</small>
+|- style="background:#ffcccc;"
+|align=left| {{fb|KOR}} || 55 || 11 || 10 || 34 || 50 || 101 || −51 || [[Asian Football Confederation|AFC]]||<small>25 January 2024; [[2023 AFC Asian Cup]]</small>
+|- style="background:#ccffcc;"
+|align=left| {{fb|VSO}} || 13 || 7 || 3 || 3 || 27 || 15 || +12 || [[Asian Football Confederation|AFC]]||<small>23 March 1975; [[1976 AFC Asian Cup qualification|1976 Asian Cup qualification]]</small>
+|- style="background:#ccffcc;"
+|align=left| {{fb|SRI}} || 9 || 8 || 0 || 1 || 33 || 7 || +26 || [[Asian Football Confederation|AFC]]||<small>5 October 2019; [[Exhibition Match|Friendly]]</small>
+|- style="background:#ffcccc;"
+|align=left| {{fb|SWE}} || 1 || 0 || 0 || 1 || 1 || 3 || −2 || [[Union of European Football Associations|UEFA]]||<small>14 November 1979; [[Exhibition Match|Friendly]]</small>
+|- style="background:#ffcccc;"
+|align=left| {{fb|SUI}} || 1 || 0 || 0 || 1 || 0
+|| 2 || –2 || [[Union of European Football Associations|UEFA]]||<small>13 February 1981; [[Exhibition Match|Friendly]]</small>
+|- style="background:#ffffcc;"
+|align=left| {{fb|SYR}} || 6 || 2 || 2 || 2 || 12 || 10 || +2 || [[Asian Football Confederation|AFC]]||<small>6 September 2023; [[Exhibition Match|Friendly]]</small>
+|- style="background:#ffcccc;"
+|align=left| {{fb|TJK}} || 4 || 1 || 1 || 2 || 2 || 6 || −4 || [[Asian Football Confederation|AFC]]||<small>17 October 2023; [[2023 Merdeka Tournament]]</small>
+|- style="background:#ccffcc;"
+|align=left| {{fb|THA}} || 107 || 41 || 34 || 32 || 153 || 145 || +8 || [[Asian Football Confederation|AFC]]||<small>15 December 2024; [[2024 ASEAN Championship]]</small>
+|- style="background:#ccffcc;"
+|align=left| {{fb|TLS}} || 7 || 6 || 1 || 0 || 25 || 5 || +20 || [[Asian Football Confederation|AFC]]||<small>11 December 2024; [[2024 ASEAN Championship]]</small>
+|- style="background:#ffcccc;"
+|align=left| {{fb|TUR}} || 1 || 0 || 0 || 1 || 0 || 3 || −3 || [[Union of European Football Associations|UEFA]]||<small>5 October 1980 [[Islamic Games]]</small>
+|- style="background:#ccffcc;"
+|align=left| {{fb|TKM}} || 2 || 2 || 0 || 0 || 4 || 1 || +3 || [[Asian Football Confederation|AFC]]||<small>23 March 2023; [[Exhibition Match|Friendly]]</small>
+|- style="background:#ffcccc;"
+|align=left| {{fb|UAE}} || 10 || 2 || 0 || 8 || 6 || 28 || −22 || [[Asian Football Confederation|AFC]]||<small>4 June 2021; [[2022 FIFA World Cup qualification – AFC second round|2022 FIFA World Cup qualification]]</small>
+|- style="background:#ccffcc;"
+|align=left| {{fb|USA}} || 1 || 1 || 0 || 0 || 3 || 0 || +3 || [[CONCACAF]]||<small>29 August 1972; [[Football at the 1972 Summer Olympics|Summer Olympics]]</small>
+|- style="background:#ffcccc;"
+|align=left| {{fb|URU}} || 1 || 0 || 0 || 1 || 0 || 6 || −6 || [[South American Football Confederation|CONMEBOL]]||<small>1 June 1985; [[Exhibition Match|Friendly]]</small>
+|- style="background:#ffcccc;"
+|align=left| {{fb|UZB}} || 7 || 0 || 0 || 7 || 3 || 26 || −23 || [[Asian Football Confederation|AFC]]||<small>9 October 2021; [[Exhibition match|Friendly]]</small>
+|- style="background:#ffcccc;"
+|align=left| {{fb|VIE}} || 25 || 5 || 3 || 17 || 18 || 40 || −22 || [[Asian Football Confederation|AFC]]||<small>31 March 2026; [[2027 AFC Asian Cup qualification – third round|2027 Asian Cup qualification]]</small>
+|- style="background:#ccffcc;"
+|align=left| {{fb|YEM}} || 4 || 3 || 0 || 1 || 5 || 3 || +2 || [[Asian Football Confederation|AFC]]||<small>5 March 2014; [[2015 AFC Asian Cup qualification|2015 Asian Cup qualification]]</small>
+|- style="background:#ccffcc;"
+|align=left| {{fb|ZIM}} || 2 || 2 || 0 || 0 || 5 || 0 || +5 || [[Confederation of African Football|CAF]]||<small>14 July 2009; [[Exhibition Match|Friendly]]</small>
+|-style="background: #000000; color: #FFFFFF; border:2px solid #FFFF00;"
+|'''Total'''
+|'''760'''
+|'''301'''
+|'''158'''
+|'''301'''
+|'''1225'''
+|'''1101'''
+|'''+124'''
+|
+|
+|}
+
+=== Regional record ===
+{| class="wikitable"
+|+Last meet up against Southeast Asia countries
+|-style="background: #000000; color: #FFFFFF; border:2px solid #FFFF00;"
+|'''Opponents'''
+|'''Date'''
+|'''Score'''
+|'''Outcome'''
+|'''Match type'''
+|-
+|{{fb|BRU}}
+|27 May 2022
+|4−0
+|Won
+|[[Exhibition Match|Friendly]]
+|-
+|{{fb|CAM}}
+|8 December 2024
+|2−2
+|Draw
+|[[2024 ASEAN Championship]]
+|-
+|{{fb|IDN}}
+|19 December 2021
+|1−4
+|Lost
+|[[2020 AFF Championship]]
+|-
+|{{fb|LAO}}
+|14 October 2025
+|5−1
+|Won
+|[[2027 AFC Asian Cup qualification - third round#Group F|2027 Asian Cup qualification]]
+|-
+|{{fb|MYA}}
+|21 December 2022
+|1−0
+|Won
+|[[2022 AFF Championship]]
+|-
+|{{fb|PHI}}
+|4 September 2024
+|2−1
+|Won
+|[[2024 Merdeka Tournament]]
+|-
+|{{fb|SIN}}
+|4 September 2025
+|2-1
+|Won
+|[[Exhibition Match|Friendly]]
+|-
+|{{fb|THA}}
+|14 December 2024
+|0–1
+|Lost
+|[[2024 ASEAN Championship]]
+|-
+|{{fb|TLS}}
+|11 December 2024
+|3−2
+|Won
+|[[2024 ASEAN Championship]]
+|-
+|{{fb|VIE}}
+|31 March 2026
+|3–1
+|Lost
+|[[2027 AFC Asian Cup qualification – third round#Group F|2027 Asian Cup qualification]]
+|}
+
+== FIFA ranking ==
+''Last update was on 21 December 2024.''
+Source:<ref>{{cite web|title=FIFA-ranking|url=https://www.fifa.com/fifa-world-ranking/MAS|access-date=10 April 2023|archive-date=27 January 2023|archive-url=https://web.archive.org/web/20230127134231/https://www.fifa.com/fifa-world-ranking/MAS|url-status=live}}</ref>
+
+{{Color box|gold|border=darkgray}} '''Worst Ranking'''&nbsp;&nbsp;{{Color box|blue|border=darkgray}} '''Best Ranking'''&nbsp;&nbsp;{{Color box|red|border=darkgray}} '''Worst Mover'''&nbsp;&nbsp;{{Color box|green|border=darkgray}} '''Best Mover'''&nbsp;&nbsp;
+
+{| class="wikitable sortable" style="text-align:center;"
+|-
+!colspan=12 style="background: #000000; colour: #FFFFFF; border:2px solid #FFFF00;|[[FIFA World Rankings|{{color|#FFFFFF|Malaysia's FIFA world rankings}}]]
+|-
+!rowspan=2|
+!rowspan=2|Rank
+!rowspan=2|Year
+!rowspan=2|Games<br />Played
+!rowspan=2|Won
+!rowspan=2|Draw
+!rowspan=2|Lost
+!colspan=2|Best
+!colspan=2|Worst
+|-
+!Rank
+!Move
+!Rank
+!Move
+|-
+|
+|132
+|2024
+|16
+|5
+|5
+|6
+||132 || align="left" |{{increase}} +2
+||138 || align="left" |{{decrease}} –8
+|-
+| ||130 ||2023 ||13 ||9 ||2 ||2
+||130 || align="left" | {{increase}} +15||137 ||align=left|{{decrease}} –3
+|-
+| ||145 ||2022 ||14 ||9 ||2 ||3
+||145 ||align=left| {{increase}} +9||154 ||align=left|{{steady}} 0
+|-
+| ||154 ||2021 ||10 ||3 ||0 ||7
+|153 ||align=left|{{increase}} +1||155 ||align=left|{{decrease}} –1
+|-
+| ||153 ||2020 ||0 ||0 ||0 ||0
+|153 ||align=left|{{increase}} +1||154 ||align=left|{{steady}} 0
+|-
+| ||154 ||2019 ||13 ||9 ||0 ||4
+|154 ||align=left|{{increase}} +9||168 ||align=left|{{decrease}} –1
+|-
+|{{Color box|gold|border=darkgray}} ||178 ||2018 ||17 ||8 ||4 ||5
+|167 ||align=left|{{increase}} +12||178 ||align=left|{{decrease}} –4
+|-
+| ||174 ||2017 ||8 ||0 ||2 ||6
+|155 ||align=left|{{increase}} +4||174 ||align=left|{{decrease}} –12
+|-
+| ||161 ||2016 ||14 ||5 ||4 ||5
+|156 ||align=left|{{increase}} +9||174 ||align=left|{{decrease}} –8
+|-
+| ||170 ||2015 ||11 ||2 ||3 ||6
+|153 ||align=left|{{increase}} +4||171 ||align=left|{{decrease}} –11
+|-
+| ||154 ||2014 ||15 ||5 ||3 ||7
+|141 ||align=left|{{increase}} +9||156 ||align=left|{{decrease}} –8
+|-
+| ||154 ||2013 ||11 ||1 ||1 ||9
+|154 ||align=left|{{increase}} +4||164 ||align=left|{{decrease}} –5
+|-
+| ||158 ||2012 ||17 ||6 ||6 ||5
+|148 ||align=left|{{increase}} +5||163 ||align=left|{{decrease}} –6
+|-
+| ||148 ||2011 ||10 ||3 ||3 ||4
+|138 ||align=left|{{increase}} +7||155 ||align=left|{{decrease}} –6
+|-
+| ||144 ||2010 ||10 ||4 ||2 ||4
+|139 ||align=left|{{increase}} +3||159 ||align=left|{{decrease}} –5
+|-
+| ||160 ||2009 ||12 ||4 ||3 ||5
+|150 ||align=left|{{increase}} +5||163 ||align=left|{{decrease}} –8
+|-
+| ||156 ||2008 ||13 ||6 ||3 ||4
+|151 ||align=left|{{increase}} +9||170 ||align=left|{{decrease}} –6
+|-
+| ||159 ||2007 ||13 ||3 ||3 ||7
+|149 ||align=left|{{increase}} +7||166 ||align=left|{{decrease}} –7
+|-
+| ||152 ||2006 ||7 ||1 ||3 ||3
+|124 ||align=left|{{increase}} +1||153 ||align=left|{{decrease}} –19
+|-
+| ||123 ||2005 ||7 ||2 ||1 ||4
+|111 ||align=left|{{increase}} +6||123 ||align=left|{{decrease}} –7
+|-
+| ||120 ||2004 ||16 ||7 ||0 ||9
+|114 ||align=left|{{increase}} +4||122 ||align=left|{{decrease}} –4
+|-
+| ||116 ||2003 ||7 ||1 ||3 ||3
+|99 ||align=left|{{increase}} +21||119 ||align=left|{{decrease}} –11
+|-
+| ||128 ||2002 ||11 ||3 ||3 ||5
+|111 ||align=left|{{increase}} +1||128 ||align=left|{{decrease}} –6
+|-
+| ||111 ||2001 ||9 ||3 ||1 ||5
+|105 ||align=left|{{increase}} +3||111 ||align=left|{{decrease}} –3
+|-
+| ||107 ||2000 ||20 ||10 ||3 ||7
+|104 ||align=left|{{increase}} +8||117 ||align=left|{{decrease}} –3
+|-
+| ||117 ||1999 ||8 ||4 ||0 ||4
+|113 ||align=left|{{increase}} +2||118 ||align=left|{{decrease}} –3
+|-
+| ||113 ||1998 ||4 ||0 ||2 ||2
+|88 ||align=left|{{increase}} +3||113 ||align=left|{{decrease}} –11
+|-
+| ||87 ||1997 ||14 ||6 ||3 ||5
+|84 ||align=left|{{increase}} +13||97 ||align=left|{{decrease}} –3
+|-
+| {{Color box|green|border=darkgray}}||96 ||1996 ||8 ||4 ||3 ||1
+|91 ||align=left|{{increase}} +21||112 ||align=left|{{decrease}} –10
+|-
+|{{Color box|red|border=darkgray}} ||106 ||1995 ||6 ||2 ||1 ||3
+|94 ||align=left|{{increase}} +14||117 ||align=left|{{decrease}} –23
+|-
+| ||89 ||1994 ||5 ||1 ||1 ||3
+|84 ||align=left|{{increase}} +8||95 ||align=left|{{decrease}} –6
+|-
+|{{Color box|blue|border=darkgray}} ||75 ||1993 ||11 ||4 ||3 ||4
+|75 ||align=left|{{increase}} +16||79 ||align=left|{{decrease}} –2
+|}
+
+;Notes:
+* Table above is a list of all FIFA 'A' international matches Malaysia have played against FIFA recognised teams.<ref name="World Football Elo Ratings"/><ref>{{cite web|url=http://wildstat.com/p/1/team/MAL|title=Results and fixtures of Malaya|work=WildStat.com|access-date=29 March 2016|archive-url=https://web.archive.org/web/20110718051811/http://wildstat.com/p/1/team/MAL|archive-date=18 July 2011|url-status=dead}}</ref><ref>{{cite web|url=http://wildstat.com/p/1/team/MAS|title=Results and fixtures of Malaysia|work=WildStat.com|access-date=29 March 2016|archive-url=https://web.archive.org/web/20101231000044/http://wildstat.com/p/1/team/MAS|archive-date=31 December 2010|url-status=dead}}</ref><ref>{{cite web|url=https://www.fifa.com/associations/association=mas/index.html|title=Malaysia Profile|work=[[FIFA]]|access-date=29 March 2016|archive-date=23 March 2016|archive-url=https://web.archive.org/web/20160323225106/http://www.fifa.com/associations/association=mas/index.html|url-status=dead}}</ref>
+
+== Honours ==
+<!--- ATTENTION!!!! WE ONLY INCLUDE MALAYSIA'S ACHIEVEMENTS. SO ANY ACHIEVEMENTS BEFORE 16 SEPTEMBER 1963 SHOULD NOT BE INCLUDED HERE - DO NOT ADD UNOFFICIAL OR FRIENDLY COMPETITIONS IN THE SUMMARY TABLE FOR OFFICIAL HONOURS ONLY -->
+
+===Continental===
+* '''[[Football at the Asian Games|Asian Games]]'''
+** {{Bronze3}} Bronze medal (1): [[Football at the 1974 Asian Games|1974]]
+
+===Regional===
+* '''[[ASEAN Championship]]'''
+** {{Gold1}} '''Champions (1):''' [[2010 AFF Championship|2010]]
+** {{Silver2}} Runners-up (3): [[1996 Tiger Cup|1996]], [[2014 AFF Championship|2014]], [[2018 AFF Championship|2018]]
+** {{Bronze3}} Third place (2): [[2000 AFF Championship|2000]], [[2004 AFF Championship|2004]]
+* '''[[Football at the SEA Games|Southeast Asian Games]]'''
+** {{Gold1}} '''Gold medal (4):''' [[Football at the 1961 SEAP Games|1961]], [[Football at the 1977 Southeast Asian Games|1977]], [[Football at the 1979 Southeast Asian Games|1979]], [[Football at the 1989 Southeast Asian Games|1989]]
+** {{Silver2}} Silver medal (4): [[Football at the 1971 Southeast Asian Peninsular Games|1971]], 1975, [[Football at the 1981 Southeast Asian Games|1981]], [[Football at the 1987 Southeast Asian Games|1987]]
+** {{Bronze3}} Bronze medal (4): [[Football at the 1969 Southeast Asian Peninsular Games|1969]], [[Football at the 1973 Southeast Asian Peninsular Games|1973]], [[Football at the 1983 Southeast Asian Games|1983]], [[Football at the 1985 Southeast Asian Games|1985]]
+
+===Friendly===
+* '''[[Merdeka Tournament]] (8)''': 1968, [[1973 Merdeka Tournament|1973]], 1974, [[:ms:Pestabola Merdeka 1976|1976]], 1979{{sup|s}}, [[:ms:Pestabola Merdeka 1986|1986]], [[1993 Merdeka Tournament|1993]], [[2024 Merdeka Tournament|2024]]
+* '''[[King's Cup (Thailand)|King's Cup]] (4)''': [[1972 King's Cup|1972]], [[1976 King's Cup|1976]]{{sup|s}}, [[1977 King's Cup|1977]]{{sup|s}}, [[1978 King's Cup|1978]]
+**Runners-up (4): 1965, 1966, [[1973 King's Cup|1973]], [[2022 King's Cup|2022]]
+**Third place (2): [[1970 King's Cup|1970]], [[1974 King's Cup|1974]]
+* '''[[Jakarta Anniversary Tournament]] (1)''': 1970
+** Runners-up (1): 1975
+* '''[[South Vietnam Independence Cup]] (1)''': 1971
+* '''[[Indonesian Independence Cup]] (1)''': 1992
+*'''[[Korea Cup]]'''
+** Third place (1): [[1977 President Park's Cup Football Tournament|1977]]{{sup|s}}
+*'''[[2019 Airmarine Cup|AirMarine Cup]]'''
+** Third place (1): [[2019 Airmarine Cup|2019]]
+*'''[[Tri-Nations Series]]'''
+** Runners-up (1): [[2022 FAS Tri-Nations Series|2022]]
+
+===Awards===
+* '''[[ASEAN Championship#Awards|ASEAN Championship Fair Play Award]] (4)''': 2000, 2012, 2018, 2022<ref>{{cite web |url=https://www.aseanfootball.org/v3/competitions-2/aff-championship/tiger-cup-2000/|title=About AFF - History of the ASEAN Football Federation |work=AseanFootball.org |publisher=ASEAN Football Federation |access-date=3 March 2010 }}</ref>
+;Notes:
+* {{sup|s}} Shared titles.
+
+== See also ==
+{{Commons category|Malaysia national association football team}}
+* [[Malaysia national football team results]]
+* [[Malaysia national under-23 football team]]
+* [[Malaysia national under-22 football team]]
+* [[Malaysia national under-19 football team]]
+* [[Malaysia national under-16 football team]]
+* [[Malaysia women's national football team]]
+* [[Malaysia national futsal team]]
+* [[Malaysia women's national futsal team]]
+* [[Malaysia League XI]]
+* [[Football Association of Malaysia]]
+* [[List of Malaysia footballers born outside Malaysia]]
+
+{{Portal bar|Association football|Malaysia}}
+
+== Notes ==
+{{notelist}}
+
+== References ==
+{{reflist|30em}}
+
+== External links ==
+{{Commons category}}
+* [https://fam.org.my/ Official website] of the [[Football Association of Malaysia]]
+* [https://www.the-afc.com/en/asean/malaysia.html Malaysia] at [[Asian Football Confederation|AFC]]
+* [https://www.fifa.com/about-fifa/associations/MAS Malaysia] at [[FIFA]]
+
+{{Navboxes
+| title = Titles
+| bg = gold
+| list1 =
+{{S-start}}
+{{S-ach|ach}}
+{{succession box
+ | before = [[Football at the 1975 Southeast Asian Peninsular Games|1975]] {{fb-rt|THA}}
+ | title = [[Southeast Asian Games|SEA Games Champions]]
+ | years = [[Football at the 1977 Southeast Asian Games|1977]] (Second title)<br />[[Football at the 1979 Southeast Asian Games|1979]] (Third title)
+ | after = [[Football at the 1981 Southeast Asian Games|1981]] {{fb-rt|THA}}
+}}
+{{succession box
+ | before = [[Football at the 1987 Southeast Asian Games|1987]] {{fb-rt|IDN}}
+ | title = [[Southeast Asian Games|SEA Games Champions]]
+ | years = [[Football at the 1989 Southeast Asian Games|1989]] (Fourth title)
+ | after = [[Football at the 1991 Southeast Asian Games|1991]] {{fb-rt|IDN}}
+}}
+{{succession box
+ | before = [[2008 AFF Suzuki Cup|2008]] {{fb-rt|VIE}}
+ | title = [[ASEAN Football Championship|ASEAN Champions]]
+ | years = [[2010 AFF Suzuki Cup|2010]] (First title)
+ | after = [[2012 AFF Suzuki Cup|2012]] {{fb-rt|SIN}}
+}}
+{{s-end}}
+{{AFF Championship Champions (1996–present)}}
+{{Southeast Asian Games football men's tournament winners}}
+}}
+{{Malaysia national football team}}
+{{Malaysia national football team managers}}
+{{Navboxes
+| title = Competitions
+| bg =
+| list1 =
+{{Navboxes
+| title = [[AFC Asian Cup]]
+| bg =
+| list1 =
+{{navboxes
+|title= Malaysia [[AFC Asian Cup|{{colour|yellow|AFC Asian Cup}}]] squads
+|bg= black
+|fg= yellow
+|bordercolor= yellow
+|list1=
+{{Malaysia squad 1976 AFC Asian Cup}}
+{{Malaysia squad 1980 AFC Asian Cup}}
+{{Malaysia squad 2007 AFC Asian Cup}}
+{{Malaysia squad 2023 AFC Asian Cup}}
+}}
+{{Navboxes
+| title = Malaysia AFC Asian Cup finalists
+| list =
+{{1976 AFC Asian Cup finalists}}
+{{1980 AFC Asian Cup finalists}}
+{{2007 AFC Asian Cup finalists}}
+{{2023 AFC Asian Cup finalists}}
+}}
+}}
+{{Navboxes
+| title = [[Football at the Summer Olympics|Summer Olympics]]
+| bg =
+| list1 =
+{{Malaysia football squad 1972 Summer Olympics}}
+}}
+}}
+{{Navboxes
+|title = Links to related articles
+|list =
+{{Football in Malaysia}}
+{{Football head to head}}
+{{AFC teams}}
+{{National sports teams of Malaysia}}
+|state =autocollapse
+}}
+
+[[Category:Malaysia national football team| ]]
+[[Category:Asian national association football teams]]
+[[Category:Malaysia national football teams]]

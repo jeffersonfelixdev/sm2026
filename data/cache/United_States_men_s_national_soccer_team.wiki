@@ -1,0 +1,1857 @@
+{{Short description|Men's national soccer team representing United States}}
+{{Use mdy dates|date=June 2025}}
+{{Use American English|date=June 2025}}
+{{Infobox national football team
+| Name                     = United States
+| Badge                    = United States Soccer Federation logo.svg
+| Badge_size               = 155px
+| FIFA Trigramme           = USA<ref>{{cite web |title=World Ranking – USA |url=https://inside.fifa.com/fifa-world-ranking/USA?gender=men |website=InsideFIFA |access-date=18 March 2025}}</ref>
+| Nickname                 = USMNT<br>[[Flag of the United States|The Stars and Stripes]]<ref>{{cite news |url = https://www.theguardian.com/football/2010/jun/26/usa-ghana-world-cup-2010 |location = London, England |newspaper = [[The Guardian]] |first = Paul |last = Wilson |title = USA 1–2 Ghana |date = June 26, 2010 |access-date = December 13, 2016 |archive-date = December 25, 2018 |archive-url = https://web.archive.org/web/20181225135552/https://www.theguardian.com/football/2010/jun/26/usa-ghana-world-cup-2010 |url-status = live }}</ref><br> The Yanks<ref>[http://www.ussoccer.com/media-library/videos/us-men/2009/the-yanks-are-coming-commercial.aspx The Yanks Are Coming USA-HON Commercial]. U.S. Soccer. Retrieved on August 12, 2013. {{webarchive |url=https://web.archive.org/web/20130522002015/http://www.ussoccer.com/media-library/videos/us-men/2009/the-yanks-are-coming-commercial.aspx |date=May 22, 2013 }}</ref>
+| Association              = [[United States Soccer Federation]] (USSF)
+| Confederation            = [[CONCACAF]] (North America)
+| Sub-confederation        = [[North American Football Union|NAFU]] (North America)
+| website                  = {{URL|https://www.ussoccer.com/teams/usmnt/|USMNT}}
+| Coach                    = [[Mauricio Pochettino]]
+| Captain                  = [[Tim Ream]]
+| Most caps                = [[Cobi Jones]] (164)
+| Top scorer               = [[Clint Dempsey]] ([[List of international goals scored by Clint Dempsey|57]])<br/>[[Landon Donovan]] ([[List of international goals scored by Landon Donovan|57]])
+| Home Stadium             = [[#Home stadium|Various]]
+| FIFA Rank                = {{nowrap|{{FIFA World Rankings|USA|mdy=y}}}}
+| FIFA max                 = 4
+| FIFA max date            = April 2006<ref>{{cite web |url = http://www.ussoccer.com/stories/2014/03/17/12/20/u-s-men-move-to-best-ever-fourth-place-in-fifa-world-rankings |title = U.S. Men Move To Best-Ever Fourth Place In FIFA World Rankings |date = April 19, 2006 |publisher = [[U.S. Soccer Federation]] |access-date = October 12, 2017 |archive-date = October 12, 2017 |archive-url = https://web.archive.org/web/20171012101043/http://www.ussoccer.com/stories/2014/03/17/12/20/u-s-men-move-to-best-ever-fourth-place-in-fifa-world-rankings |url-status = live }}</ref>
+| FIFA min                 = 36
+| FIFA min date            = July 2012<ref>{{cite news |url = http://www.latimes.com/sports/soccer/la-sp-fifa-rankings-07062017-story.html |title = U.S. drops 12 spots to No. 35 in FIFA rankings |first = Kevin |last = Baxter |date = July 6, 2017 |newspaper = Los Angeles Times |access-date = October 12, 2017 |archive-date = October 12, 2017 |archive-url = https://web.archive.org/web/20171012050439/http://www.latimes.com/sports/soccer/la-sp-fifa-rankings-07062017-story.html |url-status = live }}</ref>
+| Elo Rank                 = {{nowrap|{{World Football Elo Ratings|United States|mdy=y}}}}
+| Elo max                  = 9
+| Elo max date             = 2009
+| Elo min                  = 85
+| Elo min date             = October 1968
+| American                 = true
+<!-- first kit -->
+| pattern_la1              = _usa26h
+| pattern_b1               = _usa26h
+| pattern_ra1              = _usa26h
+| pattern_sh1              = _usa26h
+| pattern_so1              = 
+| leftarm1                 = FFFFFF
+| body1                    = FFFFFF
+| rightarm1                = FFFFFF
+| shorts1                  = 212d45
+| socks1                   = FFFFFF
+<!-- second kit -->
+| pattern_la2              = _usa26a
+| pattern_b2               = _usa26a
+| pattern_ra2              = _usa26a
+| pattern_sh2              = _usa26a
+| pattern_so2              =
+| leftarm2                 = 090b02
+| body2                    = 090b02
+| rightarm2                = 090b02
+| shorts2                  = 090b02
+| socks2                   = 090b02
+| First game               = {{#invoke:flag|fb|SWE|1912}} 2–3 {{#invoke:flag|fb-rt|USA|1912}}<br>([[Stockholm]], Sweden; August 20, 1916)<ref name="RSSSF"/>
+| Largest win              = {{#invoke:flag|fb|USA}} 8–0 {{#invoke:flag|fb-rt|Barbados}}<br>([[Carson, California|Carson]],  United States; June 15, 2008)
+| Largest loss             = {{#invoke:flag|fb|NOR}} 11–0 {{#invoke:flag|fb-rt|USA|1912}}<br>([[Oslo]], Norway; August 6, 1948)<ref name="Hall of Fame">{{cite book |last = Blevins |first = Dave |title = The sports hall of fame encyclopedia : baseball, basketball, football, hockey soccer |year = 2012 |publisher = [[Scarecrow Press]] |location = [[Lanham, MD]] |isbn = 978-0-8108-6130-5 |page = 745 |url = https://books.google.com/books?id=a7CnkH2HIsQC&q=US+loss+to+norway+Aug+6+1948&pg=PA745 |access-date = January 4, 2015 |archive-date = March 25, 2023 |archive-url = https://web.archive.org/web/20230325083844/https://books.google.com/books?id=a7CnkH2HIsQC&q=US+loss+to+norway+Aug+6+1948&pg=PA745 |url-status = live }}</ref>
+| World cup apps           = 12<!--as of 2026-->
+| World cup first          = 1930
+| World cup best           = Third place ([[1930 FIFA World Cup|1930]])
+| Regional name            = [[Football at the Summer Olympics|Olympic Games]]
+| Regional cup apps        = 10
+| Regional cup first       = [[Football at the 1904 Summer Olympics|1904]]
+| Regional cup best        = [[File:Silver medal.svg|16px]] Silver ([[Football at the 1904 Summer Olympics|1904]]){{NoteTag|Medal recognized by [[International Olympic Committee|IOC]], but not by [[FIFA]].}}
+| 2ndRegional name         = [[CONCACAF Championship]] / [[CONCACAF Gold Cup|Gold Cup]]
+| 2ndRegional cup apps     = 20<!--as of 2025-->
+| 2ndRegional cup first    = [[1985 CONCACAF Championship|1985]]
+| 2ndRegional cup best     = '''Champions''' ([[1991 CONCACAF Gold Cup|1991]], [[2002 CONCACAF Gold Cup|2002]], [[2005 CONCACAF Gold Cup|2005]], [[2007 CONCACAF Gold Cup|2007]], [[2013 CONCACAF Gold Cup|2013]], [[2017 CONCACAF Gold Cup|2017]], [[2021 CONCACAF Gold Cup|2021]])
+| 3rdRegional name         = [[CONCACAF Nations League]]
+| 3rdRegional cup apps     = 4<!--as of 2025-->
+| 3rdRegional cup first    = [[2019–20 CONCACAF Nations League|2019–20]]
+| 3rdRegional cup best     = '''Champions''' ([[2021 CONCACAF Nations League Finals|2021]], [[2023 CONCACAF Nations League Finals|2023]], [[2024 CONCACAF Nations League Finals|2024]])
+| 4thRegional name         = [[Copa América]]
+| 4thRegional cup apps     = 5<!--as of 2024-->
+| 4thRegional cup first    = [[1993 Copa América|1993]]
+| 4thRegional cup best     = Fourth place ([[1995 Copa América|1995]], [[Copa América Centenario|2016]])
+| Confederations cup apps  = 4
+| Confederations cup first = [[1992 FIFA Confederations Cup|1992]]
+| Confederations cup best  = Runners-up ([[2009 FIFA Confederations Cup|2009]])
+| medaltemplates           =
+{{MedalCompetition|[[FIFA World Cup]]}}
+{{MedalBronze|[[1930 FIFA World Cup|1930 Uruguay]]|[[1930 FIFA World Cup squads#United States|Team]]}}
+{{MedalCompetition|[[FIFA Confederations Cup]]}}
+{{MedalSilver|[[2009 FIFA Confederations Cup|2009 South Africa]]|[[2009 FIFA Confederations Cup squads#United States|Team]]}}
+{{MedalBronze|[[1992 King Fahd Cup|1992 Saudi Arabia]]|[[1992 King Fahd Cup squads#United States|Team]]}}
+{{MedalBronze|[[1999 FIFA Confederations Cup|1999 Mexico]]|[[1999 FIFA Confederations Cup squads#United States|Team]]}}
+{{MedalCompetition|[[Football at the Summer Olympics|Olympic Games]]}}{{NoteTag|These medals are recognized by [[International Olympic Committee|IOC]], but not by [[FIFA]].}}
+{{MedalSilver|[[1904 Summer Olympics|1904 St. Louis]]|[[Football at the 1904 Summer Olympics|Team]]}}
+{{MedalBronze|[[1904 Summer Olympics|1904 St. Louis]]|[[Football at the 1904 Summer Olympics|Team]]}}
+{{MedalCompetition|[[CONCACAF Championship]] / [[CONCACAF Gold Cup|Gold Cup]]}}
+{{MedalGold|[[1991 CONCACAF Gold Cup|1991 United States]]|[[1991 CONCACAF Gold Cup squads#United States|Team]]}}
+{{MedalGold|[[2002 CONCACAF Gold Cup|2002 United States]]|[[2002 CONCACAF Gold Cup squads#United States|Team]]}}
+{{MedalGold|[[2005 CONCACAF Gold Cup|2005 United States]]|[[2005 CONCACAF Gold Cup squads#United States|Team]]}}
+{{MedalGold|[[2007 CONCACAF Gold Cup|2007 United States]]|[[2007 CONCACAF Gold Cup squads#United States|Team]]}}
+{{MedalGold|[[2013 CONCACAF Gold Cup|2013 United States]]|[[2013 CONCACAF Gold Cup squads#United States|Team]]}}
+{{MedalGold|[[2017 CONCACAF Gold Cup|2017 United States]]|[[2017 CONCACAF Gold Cup squads#United States|Team]]}}
+{{MedalGold|[[2021 CONCACAF Gold Cup|2021 United States]]|[[2021 CONCACAF Gold Cup squads#United States|Team]]}}
+{{MedalSilver|[[1989 CONCACAF Championship|1989 North America]]|Team}}
+{{MedalSilver|[[1993 CONCACAF Gold Cup|1993 United States and Mexico]]|[[1993 CONCACAF Gold Cup squads#United States|Team]]}}
+{{MedalSilver|[[1998 CONCACAF Gold Cup|1998 United States]]|[[1998 CONCACAF Gold Cup squads#United States|Team]]}}
+{{MedalSilver|[[2009 CONCACAF Gold Cup|2009 United States]]|[[2009 CONCACAF Gold Cup squads#United States|Team]]}}
+{{MedalSilver|[[2011 CONCACAF Gold Cup|2011 United States]]|[[2011 CONCACAF Gold Cup squads#United States|Team]]}}
+{{MedalSilver|[[2019 CONCACAF Gold Cup|2019 United States, Costa Rica and Jamaica]]|[[2019 CONCACAF Gold Cup squads#United States|Team]]}}
+{{MedalSilver|[[2025 CONCACAF Gold Cup|2025 United States and Canada]]|[[2025 CONCACAF Gold Cup squads#United States|Team]]}}
+{{MedalBronze|[[1996 CONCACAF Gold Cup|1996 United States]]|[[1996 CONCACAF Gold Cup squads#United States|Team]]}}
+{{MedalBronze|[[2003 CONCACAF Gold Cup|2003 United States and Mexico]]|[[2003 CONCACAF Gold Cup squads#United States|Team]]}}
+{{MedalCompetition|[[CONCACAF Nations League]]}}
+{{MedalGold|[[2021 CONCACAF Nations League Finals|2021 United States]]|[[2021 CONCACAF Nations League Finals squads#United States|Team]]}}
+{{MedalGold|[[2023 CONCACAF Nations League Finals|2023 United States]]|[[2023 CONCACAF Nations League Finals squads#United States|Team]]}}
+{{MedalGold|[[2024 CONCACAF Nations League Finals|2024 United States]]|[[2024 CONCACAF Nations League Finals squads#United States|Team]]}}
+{{MedalCompetition|[[CONCACAF Cup]]}}
+{{MedalSilver|[[CONCACAF Cup|2015 United States]]|[[CONCACAF Cup#United States squad|Team]]}}
+{{MedalCompetition|[[North American Football Confederation#NAFC Championship|NAFC Championship]]}}
+{{MedalSilver|[[1949 NAFC Championship|1949 Mexico]]|Team}}
+{{MedalBronze|[[1947 NAFC Championship|1947 Cuba]]|Team}}
+{{MedalCompetition|[[North American Nations Cup]]}}
+{{MedalSilver|[[1991 North American Nations Cup|1991 United States]]|[[1991 North American Nations Cup squads#United States|Team]]}}
+}}
+
+The '''United States men's national soccer team''' ('''USMNT''', recognized as '''USA''' by FIFA) represents the [[United States|United States of America]] in men's international [[Association football|soccer]], which is governed by the [[United States Soccer Federation]]. The team has been an affiliate member of [[FIFA]] since 1914 and a founding affiliate member of [[CONCACAF]] since 1961. Regionally, it is an affiliate member of [[North American Football Union|NAFU]] in the North American Zone. From 1946 to 1961, it was a member of [[North American Football Confederation|NAFC]], the former governing soccer body in North America and a predecessor confederation of CONCACAF, and also a member of [[Panamerican Championship#Panamerican Football Confederation|PFC]], the former unified confederation of the Americas.
+
+The United States has qualified for the [[FIFA World Cup]] twelve times. It is one of five CONCACAF teams to have advanced to the knockout stage, finishing in third place in [[1930 FIFA World Cup|1930]], reaching the quarterfinals in [[2002 FIFA World Cup|2002]], and also reaching the round of 16 in 7 editions, 6 of them since 1994. Their third place finish in Uruguay 1930 is the best result by a CONCACAF team in the competition and is the only non-European or South American team to achieve a World Cup podium finish. They returned in [[1934 FIFA World Cup|1934]] and [[1950 FIFA World Cup|1950]], defeating [[England national football team|England]] [[United States v England (1950 FIFA World Cup)|1–0]] in the latter, but did not qualify again until [[1990 FIFA World Cup|1990]]. As host in [[1994 FIFA World Cup|1994]], the U.S. received an automatic berth and lost to [[Brazil national football team|Brazil]] in the round of 16. They qualified for the next five World Cups, a feat shared with only seven other nations.<ref>{{cite web|url=https://www.amazon.com/dp/B072PQWFRD/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1|title=What's Wrong with US?: A Coach's Blunt Take on the State of American Soccer After a Lifetime on the Touchline|first1=Bruce|last1=Arena|first2=Steve|last2=Kettmann|date=June 12, 2018|publisher=Harper|via=Amazon|access-date=June 28, 2018|archive-date=March 25, 2023|archive-url=https://web.archive.org/web/20230325083842/https://www.amazon.com/dp/B072PQWFRD/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1|url-status=live}}</ref> The United States is currently hosting the [[2026 FIFA World Cup]], with Mexico and Canada as co-hosts. It has qualified for the [[FIFA Confederations Cup]] four times, finishing as runners-up in [[2009 Confederations Cup|2009]], defeating top ranked European champions [[Spain national football team|Spain]] 2–0 in the semifinal and losing to [[Brazil national football team|Brazil]] in the [[2009 FIFA Confederations Cup final|final]], and also finishing in third place twice.
+
+The United States has participated twenty times in CONCACAF's premier continental competition. It is the second most successful team in its confederation, winning 10 CONCACAF continental titles (seven [[CONCACAF Gold Cup]] titles and three [[CONCACAF Nations League]] titles). It has participated five times in the [[Copa América]], finishing fourth place twice ([[1995 Copa América|1995]] and [[Copa América Centenario|2016]]).
+
+Regionally, the team finished as runners-up in the [[North American Football Confederation#NAFC Championship|NAFC Championship]] in [[1949 NAFC Championship|1949]], and also finished as runners-up in the [[North American Nations Cup]] as hosts in [[1991 North American Nations Cup|1991]].
+
+==History==
+{{Main|History of the United States men's national soccer team}}
+<!-- This is an overview article. Do not put match reports or detailed tournament summaries here. Instead, use the linked "History of the United States men's national soccer team" article. -->
+
+===Early years===
+A first United States national soccer team (controlled by the [[American Football Association (1884–1924)|American Football Association]], established 1884)<ref name=Murray>{{cite book |last=Murray |first=C.K. |date=1910 |title=Spalding's Athletic Library; Official Soccer Football Guide 2010 |chapter=History and Progress of the AFA |chapter-url=https://archive.org/details/spaldingsofficia00coch/page/26/mode/2up?q=1884 |location=New York |publisher=American sports publishing company |page=27 | via=The Internet Archive}}</ref><ref name=Timeline/> was constituted on November 28, 1885, when it played [[Canada men's national soccer team|Canada]] in the first international match held outside the United Kingdom.<ref name="Timeline">{{cite web |title=U.S. Soccer Timeline |url=https://www.ussoccer.com/history/timeline |publisher=U.S. Soccer Federation |accessdate=July 16, 2024}}</ref> Canada defeated the U.S. 1–0 at Clark Field in the [[East Newark, New Jersey|East Newark]] neighborhood of [[Kearny, New Jersey]].<ref>{{cite web|url=https://ussoccerhistory.org/ASHA/ASHA/hudson.html|title=West Hudson: A Cradle of American Soccer|website=ussoccerhistory.org|date=March 26, 2001|access-date=July 29, 2024|last1=Allaway|first1=Roger}}</ref><ref>{{Cite web|url=https://www.nytimes.com/athletic/2476591/2021/03/25/us-soccer-hall-of-fame-treasures/|title=The hidden treasures of the U.S. Soccer Hall of Fame archives|website=The Athletic|author-first1=Pablo|author-last1=Maurer|author-first2=Matt|author-last2=Pentz|date=March 25, 2021|accessdate=July 29, 2024}}</ref> A second match in East Newark the following year resulted in the U.S. defeating Canada 1–0, although neither match was officially recognized.<ref name="RSSSF">{{cite web |last=Courtney |first=Barrie |date=April 23, 2015 |title=USA - Details of International Matches 1885-1969 |url=https://www.rsssf.org/tablesu/usa-intres-det69.html |publisher=[[RSSSF]] |accessdate=July 16, 2024}}</ref> The U.S. earned both silver and bronze medals in [[Football at the 1904 Summer Olympics|men's tournament]] at the [[1904 Summer Olympics]] in [[St. Louis]] through [[Christian Brothers College High School|Christian Brothers College]] and St. Rose Parish, though the tournament is declared official only by the [[International Olympic Committee|IOC]]; FIFA does not endorse tournaments held before 1908.<ref>{{cite news |last=Murray |first=Scott |date=July 20, 2012 |title=The Joy of Six: Olympic football tournament stories |url=https://www.theguardian.com/sport/blog/2012/jul/20/joy-of-six-olympic-football-tournament |work=The Guardian |accessdate=July 16, 2024}}</ref>
+
+[[File:U.S. soccer team, 1916.jpg|thumb|left|The first official U.S. formation in 1916, [[Stockholm Olympic Stadium]], [[Sweden]]]]
+The U.S. played its first official international match under the auspices of [[United States Soccer Federation|U.S. Soccer]] on August 20, 1916, at Stockholm Olympic Stadium, defeating [[Sweden men's national football team|Sweden]] 3–2.<ref>{{cite news |last=Bell |first=Jack |date=March 1, 2013 |title=U.S. Teams to Wear Classic White |url=https://archive.nytimes.com/goal.blogs.nytimes.com/2013/03/01/u-s-teams-to-wear-classic-white/ |work=[[The New York Times]] |accessdate=July 16, 2024}}</ref> The U.S. fielded a team in the [[1930 FIFA World Cup|1930 World Cup]] in [[Uruguay]], the first edition of the World Cup. The U.S. began group play by beating [[Belgium national football team|Belgium]] 3–0, and then earned a 3–0 victory over Paraguay, with FIFA crediting [[Bert Patenaude]] with two of the goals.<ref>{{cite news|url=https://www.theguardian.com/football/2015/jul/18/bert-patenaude-usa-world-cup-hat-trick|title=Bert Patenaude, the forgotten hero who scored the first ever World Cup hat-trick|access-date=July 21, 2015|date=July 19, 2015|first=Jack|last=Williams|newspaper=The Guardian|archive-date=July 21, 2015|archive-url=https://web.archive.org/web/20150721230328/http://www.theguardian.com/football/2015/jul/18/bert-patenaude-usa-world-cup-hat-trick|url-status=live}}</ref><ref>{{cite web| title=FIFA: USA – Paraguay match report| publisher=FIFA| url=http://fifaworldcup.yahoo.com/06/en/w/pwc/mr_1097.html| access-date=June 9, 2006| archive-date=September 6, 2006| archive-url=https://web.archive.org/web/20060906092929/http://fifaworldcup.yahoo.com/06/en/w/pwc/mr_1097.html| url-status=live}}</ref><ref>{{cite news |title=Bert Patenaude |work=[[CNN]] |url=http://sportsillustrated.cnn.com/soccer/world/2002/world_cup/hof/patenaude/ |access-date=August 20, 2014 |archive-url=https://web.archive.org/web/20100703091614/http://sportsillustrated.cnn.com/soccer/world/2002/world_cup/hof/patenaude/ |archive-date=July 3, 2010 |url-status=live }}</ref> In November 2006, FIFA announced that it had accepted evidence that Patenaude scored all three goals against Paraguay, and was thus the first person to score a [[hat-trick]] in a World Cup.<ref>{{cite web| title=FIFA World Cup hat-tricks| publisher=FIFA| url=https://www.fifa.com/infoplus/IP-399_03A_hat-tricks.pdf | access-date=November 10, 2006 |archive-url=https://web.archive.org/web/20061119092914/http://www.fifa.com/infoplus/IP-399_03A_hat-tricks.pdf |archive-date=November 19, 2006}}</ref> In the semifinals, the U.S. lost to [[Argentina national football team|Argentina]] 6–1 and were eliminated. There was no third place game; however, using the overall tournament records in 1986, FIFA credited the Americans with a third-place finish ahead of fellow semifinalist [[Yugoslavia national football team|Yugoslavia]].<ref>{{cite web| url=https://www.fifa.com/worldcup/archive/uruguay1930/awards/index.html| archive-url=https://web.archive.org/web/20150205021223/http://www.fifa.com/worldcup/archive/uruguay1930/awards/index.html| url-status=dead| archive-date=February 5, 2015| title=1930 FIFA World Cup Uruguay – Awards| publisher=FIFA| access-date=October 22, 2017}}</ref> This remains the U.S. team's best World Cup result, and is the highest finish of any team from outside of South America and Europe.
+
+The U.S. qualified for the [[1934 FIFA World Cup|1934 World Cup]] by defeating [[Mexico national football team|Mexico]] 4–2 in Italy a few days before the tournament opened.<ref name="Guardian-Mexico">{{cite news |last=Turner |first=Elliott |date=September 10, 2013 |title=USA vs Mexico: a short history of Concacaf's greatest rivalry |url=https://www.theguardian.com/football/2013/sep/10/usa-mexico-world-cup-concacaf-rivalry |work=The Guardian |accessdate=July 16, 2024}}</ref> In a straight knock-out format, the team first played host [[Italy national football team|Italy]] and lost 7–1, eliminating the U.S. from the tournament.<ref>{{cite news |last=Molinaro |first=John F. |date=November 21, 2009 |title=1934 World Cup: Italy wins for Il Duce |url=https://www.cbc.ca/sports/soccer/1934-world-cup-italy-wins-for-il-duce-1.845220 |work=[[CBC Sports]] |accessdate=July 16, 2024}}</ref> At the [[Football at the 1936 Summer Olympics|1936 Olympic Games]] in Berlin, the U.S. lost 1–0 to Italy in the first round and were eliminated. Italy went on to win both tournaments.<ref>{{cite news |last=Doyle |first=Paul |date=November 24, 2011 |title=The forgotten story of ... football, farce and fascism at the 1936 Olympics |url=https://www.theguardian.com/sport/blog/2011/nov/24/forgotten-story-football-1936-olympics |work=The Guardian |accessdate=July 16, 2024}}</ref>
+
+The [[1950 FIFA World Cup|1950 World Cup]] in Brazil was the next World Cup appearance for the United States, as it withdrew in 1938 and the tournament was not held again until 1950 due to [[World War II]]. The U.S. lost its first match 3–1 against [[Spain national football team|Spain]], but then [[United States v England (1950 FIFA World Cup)|won 1–0]] against [[England national football team|England]] at [[Independência Stadium]] in [[Belo Horizonte]]. Striker [[Joe Gaetjens]] was the lone goalscorer in the match, which was called "The Miracle on Grass" and considered one of the greatest upsets in the history of the World Cup.<ref>{{cite web|url=http://www.espn.co.uk/football/sport/story/27321.html|title=The Miracle on Grass as USA beat England|date=June 9, 2010|publisher=[[ESPN]]|access-date=October 22, 2017|archive-date=January 13, 2014|archive-url=https://web.archive.org/web/20140113120026/http://www.espn.co.uk/football/sport/story/27321.html|url-status=live}}</ref><ref>{{cite web|title=USA shock England in 1950: The miracle on grass|url=https://www.fifa.com/worldcup/videos/y=2017/m=2/video=usa-shock-england-in-1950-the-miracle-on-grass-2867277.html|archive-url=https://web.archive.org/web/20170704183202/http://www.fifa.com/worldcup/videos/y=2017/m=2/video=usa-shock-england-in-1950-the-miracle-on-grass-2867277.html|url-status=dead|archive-date=July 4, 2017|publisher=FIFA|access-date=October 23, 2017|date=November 15, 2012}}</ref> The U.S. were eliminated from the tournament in their third game, a 5–2 defeat to [[Chile national football team|Chile]].<ref>{{cite news |date=April 2, 2022 |title=When England-USA served up one of the World Cup's biggest upsets |url=https://inside.fifa.com/tournaments/mens/worldcup/qatar2022/news/the-miracle-belo-horizonte-1165849 |work=FIFA.com |accessdate=July 16, 2024}}</ref>
+
+===1960s–1980s===
+
+The national team spent the mid-to-late 20th century in near complete irrelevance in both the international game and the domestic sporting scene. CONCACAF had only one World Cup berth until 1982.<ref>{{cite web |url=http://www.phillysoccerpage.net/2014/04/10/the-drought-us-soccer-1950-1990/ |title=The World Cup drought: US Soccer, 1950–1990 |first=Ed |last=Farnsworth |date=April 10, 2014 |work=The Philly Soccer Page |access-date=October 13, 2017 |archive-date=October 14, 2017 |archive-url=https://web.archive.org/web/20171014035224/http://www.phillysoccerpage.net/2014/04/10/the-drought-us-soccer-1950-1990/ |url-status=live }}</ref><ref name="Carlisle-Days">{{cite news |last=Carlisle |first=Jeff |date=June 7, 2010 |title=The bad old days |url=http://soccernet.espn.go.com/world-cup/columns/story/_/id/5253790/ce/us/us-team-decades-futility?ver=us |work=ESPN Soccernet |url-status=dead |archive-url=https://web.archive.org/web/20100611072035/http://soccernet.espn.go.com/world-cup/columns/story/_/id/5253790/ce/us/us-team-decades-futility?ver=us |archive-date=June 11, 2010 |accessdate=December 11, 2022}}</ref> Playing only two matches from 1981 to 1983, U.S. Soccer targeted the [[1984 Summer Olympics]] in Los Angeles and the [[1986 FIFA World Cup|1986 World Cup]] to rebuild the national team and its fan base. The International Olympic Committee declared that teams from outside Europe and South America could field full senior teams. The U.S. finished with a 1–1–1 record in the [[Football at the 1984 Summer Olympics|group stage]] of the tournament but did not qualify for the second round, losing to Egypt on a tiebreaker.<ref>{{Cite web |date=May 31, 2017 |title='God is not an American': the debacle that was USA's 1986 World Cup campaign |url=http://www.theguardian.com/football/blog/2017/may/31/usa-1986-world-cup-qualifying-soccer |access-date=December 6, 2022 |website=the Guardian |language=en |archive-date=December 2, 2022 |archive-url=https://web.archive.org/web/20221202235547/https://www.theguardian.com/football/blog/2017/may/31/usa-1986-world-cup-qualifying-soccer |url-status=live }}</ref>
+
+To provide a more stable national team program and renew interest in the [[North American Soccer League (1968–1984)|North American Soccer League]], U.S. Soccer entered the national team into the NASL league schedule for the 1983 season as [[Team America (NASL)|Team America]]. This team lacked the continuity and regularity of training that conventional clubs enjoy, and many players were unwilling to play for the national team instead of their own clubs when conflicts arose.<ref name="Carlisle-Days"/> Team America finished the season at the bottom of the league, with U.S. Soccer canceling the experiment and withdrawing the national team from the NASL after one season. By the end of 1984, the NASL had folded, leaving the U.S. without a single professional-level outdoor soccer league.<ref>{{cite news |work=[[The New York Times]] |url=https://www.nytimes.com/1985/04/22/sports/us-soccer-team-hindered.html |title=U.S. Soccer Team Hindered |date=April 22, 1985 |access-date=May 5, 2010 |first=Alex |last=Yannis |archive-date=November 4, 2012 |archive-url=https://web.archive.org/web/20121104212421/http://www.nytimes.com/1985/04/22/sports/us-soccer-team-hindered.html |url-status=live }}</ref>
+
+The 1986 World Cup was hosted by Mexico after [[Colombian withdrawal from the 1986 FIFA World Cup|Colombia withdrew from contention]] due to economic concerns and the United States lost their subsequent bid to host. In the last game of CONCACAF qualifying for the 1986 World Cup, the U.S. needed only a tie against Costa Rica to reach the final qualification group against Honduras and Canada. U.S. Soccer scheduled the game to be played in [[Torrance, California]], an area with many Costa Rican expatriates, and marketed the game almost exclusively to the Costa Rican community.<ref>{{cite magazine |url=http://sportsillustrated.cnn.com/inside_game/michael_lewis/news/2000/11/10/lewis_history/ |title=Learning from history |first=Michael |last=Lewis |date=November 10, 2000 |magazine=Sports Illustrated |access-date=May 5, 2010 |archive-url=https://web.archive.org/web/20010617224412/http://sportsillustrated.cnn.com/inside_game/michael_lewis/news/2000/11/10/lewis_history/ |archive-date=June 17, 2001 |url-status=dead }}</ref> Costa Rica won the match 1–0, and kept the U.S. from reaching its fourth World Cup finals.<ref name="Carlisle-Days"/><ref>{{cite web| title=World Cup 1986 Qualifying| url=https://www.rsssf.org/tables/86q.html| publisher=Recreation Sport Soccer Statistics Foundation| access-date=August 20, 2014| archive-date=July 15, 2022| archive-url=https://web.archive.org/web/20220715135544/https://www.rsssf.org/tables/86q.html| url-status=live}}</ref>
+
+===1990s===
+On July 4, 1988, FIFA named the U.S. as the host of the [[1994 FIFA World Cup|1994 World Cup]] under significant international criticism given the perceived weakness of the national team and the lack of a professional outdoor league. The success of the 1984 Olympics played a role in FIFA's decision. The U.S. qualified for the [[1990 FIFA World Cup|1990 World Cup]] with a [[Shot heard round the world (soccer)|1–0 win]] against [[Trinidad and Tobago national football team|Trinidad and Tobago]] in the last match of the [[1989 CONCACAF Championship]]. Mexico had been disqualified from the CONCACAF Championship for using ineligible players in a youth tournament, which allowed a chance for the U.S. to qualify for their first World Cup in 40 years.<ref>{{cite news |last=Zeigler |first=Mark |date=October 10, 2017 |title=The game that changed everything for US soccer |url=https://www.sandiegouniontribune.com/2017/10/09/the-game-that-changed-everything-for-us-soccer/ |work=[[San Diego Union-Tribune]] |url-access=subscription |accessdate=July 16, 2024}}</ref>
+
+The team was coached by [[Bob Gansler]], [[Milwaukee Panthers|Wisconsin-Milwaukee]] and U20 national team coach, in preparation for the 1990 World Cup in Italy. Two of the team's more experienced players, [[Rick Davis]] and [[Hugo Pérez (soccer, born 1963)|Hugo Perez]], were unavailable for selection while recovering from injuries. Rather than fill out his team with veteran professionals from U.S. [[indoor soccer]] leagues, Gansler and his assistant Stejem Mark chose to select many younger players with better conditioning for the outdoor game, including several collegiate players such as [[Virginia Cavaliers men's soccer|Virginia]] goalkeeper [[Tony Meola]]. The U.S. entered the tournament as major underdogs and lost all three of its group games to Czechoslovakia, Italy, and Austria. Defenders [[Jimmy Banks]] and [[Desmond Armstrong]] became the first African Americans to appear in a World Cup match for the United States.<ref>{{Cite web |title=World Cup Veteran Jimmy Banks Passes Away at Age 54 |url=https://www.ussoccer.com/stories/2019/04/world-cup-veteran-jimmy-banks-passes-away-at-age-54 |access-date=February 17, 2023 |publisher=U.S. Soccer Federation |language=en |archive-date=April 26, 2019 |archive-url=https://web.archive.org/web/20190426205450/https://www.ussoccer.com/stories/2019/04/26/19/02/20190426-news-mnt-1990-world-cup-jimmy-banks-passes-away |url-status=live }}</ref>
+
+During the [[1993 U.S. Cup]], a tournament designed to prepare for the upcoming World Cup, the U.S. beat England 2–0.<ref>{{cite news| url=https://www.independent.co.uk/sport/football-englands-new-low-as-us-pile-on-the-misery-dooley-and-lalas-add-a-further-chapter-to-taylors-tale-of-woe-as-the-americans-go-one-better-than-their-forebears-in-belo-horizonte-1490806.html| location=London| work=[[The Independent]]| first=Joe| last=Lovejoy| title=Football: England's new low as U.S. pile on the misery: Dooley and Lalas add a further chapter to Taylor's tale of woe as the Americans go one better than their forebears in Belo Horizonte| date=June 10, 1993| access-date=August 22, 2017| archive-date=June 6, 2010| archive-url=https://web.archive.org/web/20100606084733/http://www.independent.co.uk/sport/football-englands-new-low-as-us-pile-on-the-misery-dooley-and-lalas-add-a-further-chapter-to-taylors-tale-of-woe-as-the-americans-go-one-better-than-their-forebears-in-belo-horizonte-1490806.html| url-status=live}}</ref> After qualifying automatically as the host of the 1994 World Cup under [[Bora Milutinović]], the U.S. opened the tournament schedule with a 1–1 tie against Switzerland in the [[Pontiac Silverdome]] in the suburbs of [[Detroit]], the first World Cup game played indoors. In its second game, the U.S. faced [[Colombia national football team|Colombia]], then ranked fourth in the world, at the [[Rose Bowl (stadium)|Rose Bowl]] near [[Los Angeles]]. Aided by an [[own goal]] from [[Andrés Escobar]], the U.S. won 2–1;<ref>{{cite magazine |last=Lewis |first=Michael |title=Escobar's memory lives on |url=http://sportsillustrated.cnn.com/inside_game/michael_lewis/news/2000/06/30/lewis_insider/ |magazine=Sports Illustrated |date=July 1, 2000 |access-date=July 4, 2009 |archive-url=https://web.archive.org/web/20110430031213/http://sportsillustrated.cnn.com/inside_game/michael_lewis/news/2000/06/30/lewis_insider/ |archive-date=April 30, 2011 |url-status=dead }}</ref> Escobar was later murdered in his home country, possibly in retaliation for this mistake.<ref>{{cite magazine| date=July 2, 2014| url=https://www.si.com/soccer/2014/07/02/ap-soc-wcup-colombia-murder-soccer-player-1st-ld-writethru| title=Colombians recall 1994 murder of soccer player| magazine=Sports Illustrated| access-date=August 20, 2014| archive-date=August 21, 2014| archive-url=https://web.archive.org/web/20140821213750/http://www.si.com/soccer/2014/07/02/ap-soc-wcup-colombia-murder-soccer-player-1st-ld-writethru| url-status=live}}</ref> Despite a 1–0 loss to Romania in its final group game, the U.S. made it past the initial round for the first time since 1930. In the round of 16, the U.S. lost 1–0 to the eventual champion [[Brazil national football team|Brazil]].<ref>{{cite web |last=Palmer |first=Kevin |url=http://soccernet.espn.go.com/columns/story?id=370490&root=worldcup&&cc=5901 |title=Winning is the only option |work=[[ESPN]] |date=June 9, 2006 |access-date=May 5, 2010 |archive-date=October 19, 2012 |archive-url=https://web.archive.org/web/20121019130415/http://soccernet.espn.go.com/columns/story?id=370490&root=worldcup&&cc=5901 |url-status=dead }}</ref> U.S. Soccer later fired Milutinović in 1995 because he was reportedly not interested in administrative duties in addition to coaching.<ref>{{cite news| title=World Cup-winning Coach Is Fired, Eyed By U.S. Team| date=June 3, 1995| url=http://articles.philly.com/1995-06-03/sports/25688992_1_carlos-alberto-parreira-brendan-malone-back-to-back-nba-titles| work=[[Philadelphia Inquirer]]| access-date=June 28, 2014| archive-date=April 7, 2016| archive-url=https://web.archive.org/web/20160407123813/http://articles.philly.com/1995-06-03/sports/25688992_1_carlos-alberto-parreira-brendan-malone-back-to-back-nba-titles| url-status=dead}}</ref>
+
+The U.S. were invited to play in the [[1995 Copa América]], where they finished first in their group after defeating [[Chile national football team|Chile]] and [[Argentina national football team|Argentina]] in an upset victory.<ref>{{cite news |last=Maurer |first=Pablo |date=June 22, 2024 |title='Where on earth are we?': The story of the USMNT at Copa America '95 |url=https://www.nytimes.com/athletic/5574523/2024/06/22/usmnt-copa-america-1995/ |work=The Athletic |url-access=subscription |accessdate=July 16, 2024}}</ref> In the quarterfinals, the U.S. defeated [[Mexico national football team|Mexico]] on penalties, and then lost to Brazil 1–0 in the semifinals. The United States finished fourth after losing to Colombia in the third-place match.<ref>[https://www.rsssf.org/tables/95safull.html Copa América 1995] {{Webarchive|url=https://web.archive.org/web/20210226140510/http://www.rsssf.com/tables/95safull.html |date=February 26, 2021 }} by Martín Tabeira at the RSSSF</ref>
+
+In the [[1998 FIFA World Cup|1998 World Cup]] in France, the team lost all three group matches, 2–0 to [[Germany national football team|Germany]], 2–1 to [[Iran national football team|Iran]], and 1–0 to the [[Serbia and Montenegro national football team|Federal Republic of Yugoslavia]], finishing last in the field of 32. The tournament was marred by disputes between the players and head coach [[Steve Sampson]], who resigned shortly after the tournament.<ref>{{cite news |date=June 29, 1998 |title=U.S. Soccer coach resigns after frustrating World Cup |url=https://www.chicagotribune.com/1998/06/29/us-soccer-coach-resigns-after-frustrating-world-cup/ |work=Chicago Tribune |accessdate=July 16, 2024}}</ref>
+
+===2000s===
+[[File:ClaudioReyna USMNT 20060511.jpg|170px|thumb|[[Claudio Reyna]] during practice]]
+
+Under former [[D.C. United]] head coach [[Bruce Arena]], the U.S. qualified for the [[2002 FIFA World Cup|2002 World Cup]] and reached the quarterfinals, their best finish in a World Cup since 1930. The team earned four points in the group stage, beginning with a 3–2 win over [[Portugal national football team|Portugal]], followed by a 1–1 tie with co-host and eventual semifinalist [[South Korea national football team|South Korea]]. The third and final match was a 3–1 loss to Poland; the team still advanced to the round of 16 when South Korea defeated Portugal. The U.S. met continental rivals [[Mexico national football team|Mexico]] for the first time in a World Cup, and won the game 2–0, with goals from [[Brian McBride]] and [[Landon Donovan]]. In the quarterfinals, the USMNT met [[Germany national football team|Germany]] and lost 1–0 after being controversially denied a penalty when [[Torsten Frings]] handled the ball to prevent a [[Gregg Berhalter]] goal.<ref>{{cite news |last=Lewis |first=Michael |date=June 2, 2022 |title=20 Years Later: USMNT Players Remember Run to 2002 World Cup Quarterfinals |url=https://www.ussoccer.com/stories/2022/06/20-years-later-usmnt-players-remember-run-to-2002-world-cup-quarterfinals |publisher=U.S. Soccer Federation |accessdate=July 16, 2024}}</ref> Donovan won the Best Young Player for the tournament.<ref>{{cite news |last=Lynch |first=Kyle |date=October 8, 2014 |title=A look back at Landon Donovan's World Cup career |url=https://www.nbcsports.com/soccer/news/a-look-back-at-landon-donovans-world-cup-career |publisher=NBC Sports |accessdate=July 16, 2024}}</ref>
+
+In the [[2006 FIFA World Cup|2006 World Cup]], after finishing top of the CONCACAF qualification tournament, the U.S. was drawn into Group E along with the [[Czech Republic national football team|Czech Republic]], [[Italy national football team|Italy]], and [[Ghana national football team|Ghana]]. The United States opened the tournament with a 3–0 loss to the Czech Republic. The team then tied 1–1 against eventual winners Italy,<ref>{{cite web|url=https://www.fifa.com/worldcup/matches/round=97410100/match=97410025/index.html#nosticky |archive-url=https://web.archive.org/web/20150924232246/http://www.fifa.com/worldcup/matches/round=97410100/match=97410025/index.html#nosticky |url-status=dead |archive-date=September 24, 2015 |title=Match Report: Italy – USA |date=June 17, 2006 |publisher=FIFA}}</ref> and then were knocked out of the tournament when they were beaten 2–1 by Ghana in its final group match, with [[Clint Dempsey]] scoring the U.S.'s only goal in the tournament (the goal against Italy had been an own goal by Italian defender [[Cristian Zaccardo]]).<ref>{{cite news |title=Ghana 2–1 USA |url=https://news.bbc.co.uk/sport2/hi/football/world_cup_2006/4853408.stm |work=[[BBC Sport]] |date=June 22, 2006 |access-date=February 12, 2009 |archive-date=June 24, 2006 |archive-url=https://web.archive.org/web/20060624185207/http://news.bbc.co.uk/sport2/hi/football/world_cup_2006/4853408.stm |url-status=live }}</ref> Following the tournament, Arena's contract was not renewed; his assistant, former [[Chicago Fire FC|Chicago Fire]] and [[MetroStars]] head coach [[Bob Bradley]], became interim head coach in December 2006 and was selected for the full-time role in May 2007.<ref>{{cite news |date=January 4, 2007 |title=New U.S. coach Bradley welcomes challenge |url=https://www.dailynews.com/2007/01/04/new-us-coach-bradley-welcomes-challenge/ |work=[[Los Angeles Daily News]] |agency=Associated Press |accessdate=July 18, 2024}}</ref><ref>{{cite news |last=Litsky |first=Frank |date=May 17, 2007 |title=Bradley Takes Reins as Coach of U.S. Team |url=https://www.nytimes.com/2007/05/17/sports/soccer/17soccer.html |work=The New York Times |accessdate=July 18, 2024}}</ref>
+
+After winning the [[2007 CONCACAF Gold Cup|2007 Gold Cup]] against Mexico, the USMNT qualified for the [[2009 Confederations Cup]].<ref>{{cite news| title=U.S. continues dominance vs. Mexico in Gold Cup final| first=Mike| last=Dodd| work=[[USA Today]]| date=June 25, 2007| url=http://usatoday30.usatoday.com/sports/soccer/2007-06-24-usa-mexico-goldcup_N.htm| access-date=August 20, 2014 |archive-url=https://web.archive.org/web/20140821071652/http://usatoday30.usatoday.com/sports/soccer/2007-06-24-usa-mexico-goldcup_N.htm |archive-date=August 21, 2014}}</ref> The U.S. defeated top-ranked Spain, who were on a 35-game undefeated streak, 2–0. BBC Sport journalist Saj Chowdhury referred to the victory as "one of the biggest upsets in world football."<ref>{{cite news| url=https://news.bbc.co.uk/sport2/hi/football/internationals/8114585.stm| title=Spain 0–2 United States| date=June 25, 2009| work=BBC Sport| access-date=June 30, 2009| first=Saj| last=Chowdhury| archive-date=June 25, 2009| archive-url=https://web.archive.org/web/20090625012125/http://news.bbc.co.uk/sport2/hi/football/internationals/8114585.stm| url-status=live}}</ref> With the win, the United States advanced to its first-ever final in a men's FIFA tournament. The team lost 3–2 to Brazil after leading 2–0 at half-time.<ref>{{cite news| title=United States 2–3 Brazil| first=Phil| last=Dawkes| date=June 28, 2007| url=https://news.bbc.co.uk/sport2/hi/football/internationals/8120561.stm| work=BBC Sport| access-date=August 20, 2014| archive-date=May 8, 2019| archive-url=https://web.archive.org/web/20190508011528/http://news.bbc.co.uk/sport2/hi/football/internationals/8120561.stm| url-status=live}}</ref> Hosting the [[2009 CONCACAF Gold Cup|2009 Gold Cup]], the United States was beaten by Mexico 5–0 in the final; this defeat broke the U.S. team's 58-match home unbeaten streak against CONCACAF opponents, and was the first home loss to Mexico since 1999 and their first home loss in a competitive match since 1998.<ref>{{cite news |last=Jones |first=Grahame L. |date=July 27, 2009 |title=Mexico routs the U.S., 5-0 |url=https://www.latimes.com/archives/la-xpm-2009-jul-27-sp-soccer-gold-cup27-story.html |work=Los Angeles Times |accessdate=July 18, 2024}}</ref>
+
+In the [[2010 FIFA World Cup qualification – CONCACAF fourth round|fourth round]] of the 2010 World Cup qualification, [[Jozy Altidore]] became the youngest U.S. player to score a hat-trick, in a 3–0 victory over Trinidad and Tobago.<ref>{{cite news |first=Ronald |last=Blum |title=Altidore hat trick against Trinidad & Tobago |url=https://www.usatoday.com/sports/soccer/2009-04-01-3106056220_x.htm |work=USA Today |agency=Associated Press |date=April 1, 2009 |access-date=June 25, 2009 |archive-url=https://web.archive.org/web/20090628141002/http://www.usatoday.com/sports/soccer/2009-04-01-3106056220_x.htm |archive-date=June 28, 2009 |url-status=live }}</ref> On October 10, 2009, the U.S. secured qualification to the 2010 World Cup with a 3–2 win over Honduras. Four days later, the U.S. finished in first place in the final round of qualification with a 2–2 tie against Costa Rica.<ref>{{cite news |date=October 14, 2009 |title=Emotional U.S. scores late to tie Costa Rica 2-2 |url=https://www.mercurynews.com/2009/10/14/emotional-u-s-scores-late-to-tie-costa-rica-2-2/ |work=The Mercury News |accessdate=July 18, 2024}}</ref>
+
+===2010s===
+[[File:Landon Donovan vs Algeria.jpg|thumb|170px|[[Landon Donovan]] at the [[2010 FIFA World Cup|2010 World Cup]]]]
+In the [[2010 FIFA World Cup|2010 World Cup]], the USMNT was drawn into [[2010 FIFA World Cup Group C|Group C]] against [[England national football team|England]], [[Slovenia national football team|Slovenia]] and [[Algeria national football team|Algeria]]. After drawing against England 1–1 and Slovenia 2–2, the U.S. defeated Algeria 1–0 with a stoppage-time goal from Landon Donovan, taking first place in a World Cup group for the first time since 1930. In the round of 16, the U.S. was eliminated by [[Ghana national football team|Ghana]], 2–1.<ref>{{cite news| title=USA vs. Ghana: In World Cup 2010, Americans eliminated by Ghana| url=https://www.washingtonpost.com/wp-dyn/content/article/2010/06/26/AR2010062600597.html| date=June 27, 2010| last=Goff| first=Steven| newspaper=The Washington Post| access-date=August 20, 2014| archive-date=August 22, 2014| archive-url=https://web.archive.org/web/20140822032801/http://www.washingtonpost.com/wp-dyn/content/article/2010/06/26/AR2010062600597.html| url-status=live}}</ref>
+
+[[File:Clint Dempsey 20110622.jpg|thumb|left|170px|[[Clint Dempsey]] with the U.S. in 2011]]
+After losing to Mexico 4–2 in the final of the [[2011 CONCACAF Gold Cup|2011 Gold Cup]], Bob Bradley was relieved of his duties and former [[Germany national football team|Germany]] manager [[Jürgen Klinsmann]] was hired as head coach.<ref>{{cite news |last=Longman |first=Jeré |date=July 29, 2011 |title=A Fresh Face for U.S. Soccer |url=https://www.nytimes.com/2011/07/30/sports/soccer/klinsmann-named-coach-of-us-soccer-team.html |work=The New York Times |accessdate=July 18, 2024}}</ref> The U.S. won 1–0 in [[Genoa]], Italy on February 29, 2012, the team's first-ever win over Italy.<ref>{{cite news |last=Parker |first=Graham |date=March 1, 2012 |title=USA's five greatest soccer results |url=https://www.theguardian.com/sport/blog/2012/mar/01/usa-italy-greatest-soccer-results-five |work=The Guardian |accessdate=July 18, 2024}}</ref> In July 2013, the United States became North American champions for the fifth time after winning the [[2013 CONCACAF Gold Cup|Gold Cup]] with a 1–0 victory over Panama in the final, with Landon Donovan winning the tournament's golden ball award.<ref>{{cite news |last=Strauss |first=Ben |date=July 28, 2013 |title=One Goal, but Plenty for U.S. to Celebrate in Gold Cup Final |url=https://www.nytimes.com/2013/07/29/sports/soccer/one-goal-but-plenty-for-us-to-celebrate-in-gold-cup-final.html |work=The New York Times |accessdate=July 18, 2024}}</ref> A 4–3 victory over [[Bosnia and Herzegovina national football team|Bosnia and Herzegovina]] in an international friendly match in [[Sarajevo]] represented the 12th consecutive win for the USMNT, the longest active winning streak for any team in the world at that time.<ref>{{cite news |url = http://espnfc.com/us/en/gamecast/statistics/id/370689/statistics.html?soccernet=true&cc=5901 |title = Bosnia-Herzegovina vs US match |work = ESPN FC |date = August 14, 2013 |access-date = August 14, 2013 |archive-date = August 17, 2013 |archive-url = https://web.archive.org/web/20130817063211/http://espnfc.com/us/en/gamecast/statistics/id/370689/statistics.html?soccernet=true&cc=5901 |url-status = live }}</ref><ref>{{cite news |url=http://www.socceramerica.com/article/53203/usa-closes-in-on-spanish-record.html |title=USA closes in on Spanish record |date=August 14, 2013 |work=[[Soccer America]] |first=Patrick |last=Kennedy |access-date=August 20, 2014 |archive-date=August 21, 2014 |archive-url=https://web.archive.org/web/20140821163300/http://www.socceramerica.com/article/53203/usa-closes-in-on-spanish-record.html |url-status=live }}</ref> The winning streak ended September 6, when the U.S. lost to Costa Rica 3–1 in [[San José, Costa Rica|San José]] in [[2014 FIFA World Cup qualification – CONCACAF fourth round|the final round of qualification]].<ref>{{cite news |url = http://espnfc.com/us/en/report/357555/report.html?soccernet=true&cc=5901 |title = U.S. win streak ends in Costa Rica |date = September 6, 2013 |work = ESPN FC |access-date = September 11, 2013 |archive-date = September 10, 2013 |archive-url = https://web.archive.org/web/20130910023510/http://espnfc.com/us/en/report/357555/report.html?soccernet=true&cc=5901 |url-status = live }}</ref> The U.S. eventually clinched a spot in the [[2014 World Cup]].<ref>{{citation |url=http://espnfc.com/news/story/_/id/1549673/us-blanks-mexico-books-berth-brazil?cc=5901 |title=Donovan helps U.S. book Brazil berth |date=September 11, 2013 |work=ESPN FC |access-date=September 11, 2013 |archive-date=September 14, 2013 |archive-url=https://web.archive.org/web/20130914022046/http://espnfc.com/news/story/_/id/1549673/us-blanks-mexico-books-berth-brazil?cc=5901 |url-status=live }}</ref>
+
+The Americans were drawn into [[2014 FIFA World Cup Group G|Group G]], along with Ghana, Germany, and Portugal.<ref>{{cite news|title=US World Cup draw: The worst of all possible worlds (almost)|url=http://www.cbssports.com/general/eye-on-sports/24366670/us-world-cup-draw-the-worst-of-all-possible-worlds-almost|last=Hinnen|first=Jerry|work=[[CBS Sports]]|date=December 6, 2013|access-date=August 20, 2014|archive-date=October 21, 2014|archive-url=https://web.archive.org/web/20141021045049/http://www.cbssports.com/general/eye-on-sports/24366670/us-world-cup-draw-the-worst-of-all-possible-worlds-almost|url-status=live}}</ref> The U.S. won 2–1 in their rematch with Ghana,<ref>{{cite news |title=Team USA stuns World Cup rival Ghana behind Brooks' late winner |url=http://msn.foxsports.com/soccer/story/usa-stuns-world-cup-rival-ghana-behind-john-brooks-late-winner-061614 |first=Jamie |last=Trecker |work=[[Fox Sports]] |date=June 16, 2014 |access-date=August 20, 2014 |archive-date=July 11, 2014 |archive-url=https://web.archive.org/web/20140711081207/http://msn.foxsports.com/soccer/story/usa-stuns-world-cup-rival-ghana-behind-john-brooks-late-winner-061614 |url-status=live }}</ref> and then tied their second group game against Portugal 2–2. In the final game of the group stage, the U.S. fell to Germany 1–0, but moved on to the [[2014 FIFA World Cup knockout stage|knockout stage]] on goal difference.<ref>{{cite news |title = USA advances, despite loss to Germany |url = https://www.usatoday.com/story/news/nation-now/2014/06/26/usa-germany-world-cup/11319459/ |first = Ashley M. |last = Williams |newspaper = USA Today |date = June 26, 2014 |access-date = August 20, 2014 |archive-date = August 30, 2014 |archive-url = https://web.archive.org/web/20140830015052/http://www.usatoday.com/story/news/nation-now/2014/06/26/usa-germany-world-cup/11319459/ |url-status = live }}</ref> This was the first time that the team made two consecutive trips to the knockout stage of the FIFA World Cup.<ref>{{cite web |last=Bezjak |first=Lou |url=http://www.scnow.com/news/article_c077ea46-fd81-11e3-b3d7-0017a43b2370.html |title=U.S. run in World Cup bringing out a lot of Pee Dee soccer fans |newspaper=[[The Morning News (American newspaper)|The Morning News]] |location=[[Florence, South Carolina]] |date=June 26, 2014 |access-date=August 20, 2014 |quote=It’s the first time in U.S. soccer history it has advanced to the knockout stage of back-to-back World Cups. |archive-date=November 18, 2018 |archive-url=https://web.archive.org/web/20181118184228/https://www.scnow.com/news/article_c077ea46-fd81-11e3-b3d7-0017a43b2370.html |url-status=live }}</ref> In the round of 16, the U.S. lost 2–1 to Belgium in extra time, despite goalkeeper [[Tim Howard]] making a World Cup record 15 saves<ref>{{cite web |url = http://resources.fifa.com/mm/document/tournament/competition/02/39/98/53/eng_56_0701_bel-usa_usa_playerstatistics_neutral.pdf |title = Official FIFA statistics, updated July 5, 2014 |date=July 5, 2014 |access-date=December 29, 2014 |url-status=dead |archive-url = https://web.archive.org/web/20160701145714/http://resources.fifa.com/mm/document/tournament/competition/02/39/98/53/eng_56_0701_bel-usa_usa_playerstatistics_neutral.pdf |archive-date = July 1, 2016 }}</ref>{{NoteTag|FIFA's initial match statistics showed 16 saves, and many news sources continue to use this number. The official FIFA statistics were updated on July 5, 2014, to show 15 saves.}} during the match.<ref>{{cite web |title = World Cup 2014: Tim Howard makes record number of saves |url = https://www.bbc.co.uk/sport/0/football/28122559 |publisher = BBC Sport |date = July 2, 2014 |access-date = July 3, 2014 |archive-date = July 3, 2014 |archive-url = https://web.archive.org/web/20140703075803/http://www.bbc.co.uk/sport/0/football/28122559 |url-status = dead }}</ref>
+
+In the [[2015 CONCACAF Gold Cup|2015 Gold Cup]], the U.S. were eliminated by Jamaica 2–1 in the semifinals, before losing to Panama on penalties in the third place match. It marked the first time the team failed to make the tournament final since 2003.<ref>{{cite news |last=Futterman |first=Matthew |date=July 23, 2015 |title=U.S. Men's Soccer Team Upset by Jamaica in Gold Cup Semifinal |url=https://www.wsj.com/articles/u-s-upset-by-jamaica-in-gold-cup-semifinal-1437611577 |work=[[Wall Street Journal]] |url-access=subscription |accessdate=July 18, 2024}}</ref><ref>{{cite news |last=Murray |first=Caitlin |date=July 25, 2015 |title=USA cap miserable Gold Cup with penalty shootout loss to Panama |url=https://www.theguardian.com/football/2015/jul/25/usa-panama-gold-cup-third-place |work=The Guardian |accessdate=July 18, 2024}}</ref> In the 2015 [[CONCACAF Cup]] playoff to determine the region's entry to the [[2017 FIFA Confederations Cup|2017 Confederations Cup]], the U.S. were defeated 3–2 by Mexico at the Rose Bowl.<ref>{{cite news |last=Rogers |first=Martin |date=October 11, 2015 |title=Mexico defeats U.S. in CONCACAF Cup, advances to Confederations Cup |url=https://www.usatoday.com/story/sports/soccer/2015/10/11/united-states-mexico-concacaf-cup-peralta-aguilar/73764434/ |work=USA Today |accessdate=July 18, 2024}}</ref> The results led to criticism of Klinsmann's coaching style, particularly the lack of a cohesive identity.<ref>{{cite news |last=Rogers |first=Martin |date=October 9, 2015 |title=Jurgen Klinsmann facing major pressure in CONCACAF Cup vs. Mexico |url=https://www.usatoday.com/story/sports/soccer/2015/10/09/jurgen-klinsmann-concacaf-cup-usmnt-mexico/73660222/ |work=USA Today |accessdate=July 18, 2024}}</ref>
+
+In June 2016, the U.S. hosted the [[Copa América Centenario]], a special edition of the Copa América to commemorate the centenary of the tournament and its first to be played outside of South America.<ref name="Athletic-Copa">{{cite news |last=Burke |first=Elias |date=May 5, 2024 |title=Copa America guest nations: The history, the controversy and how they have performed |url=https://www.nytimes.com/athletic/5304765/2024/05/05/copa-america-guest-nations-usmnt-japan-qatar/ |work=The Athletic |url-access=limited |accessdate=July 18, 2024}}</ref> In their third Copa América appearance,<ref name="Athletic-Copa"/> the U.S. topped [[Copa América Centenario Group A|Group A]] on goal difference against Colombia despite losing to them, and then beat [[Ecuador national football team|Ecuador]] 2–1 in the quarterfinals.<ref>{{cite news |last=Caley |first=Michael |date=June 13, 2016 |title=U.S. has been good at Copa America, but its luck has been better |url=https://www.washingtonpost.com/news/fancy-stats/wp/2016/06/13/u-s-has-been-good-at-copa-america-but-its-luck-has-been-better/ |newspaper=The Washington Post |accessdate=July 18, 2024}}</ref><ref>{{cite news |last=Pentz |first=Matt |date=June 16, 2016 |title=Clint Dempsey guides U.S. to 2-1 victory over Ecuador, berth in Copa America semifinals |url=https://www.seattletimes.com/sports/sounders/clint-dempsey-guides-us-to-2-1-victory-over-ecuador-berth-in-copa-america-semifinals/ |work=[[The Seattle Times]] |url-access=limited |accessdate=July 18, 2024}}</ref> The team lost 4–0 to [[Argentina national football team|Argentina]] in the semifinals and 1–0 to Colombia again in the third place match. The U.S. finished fourth overall, tying their best finish ever in 1995.<ref>{{cite news |last=Dart |first=Tom |date=June 25, 2016 |title=USA end Copa América with Colombia loss but show fight and flair in defeat |url=https://www.theguardian.com/football/2016/jun/25/usa-beaten-colombia-copa-america-centenario |work=The Guardian |accessdate=July 18, 2024}}</ref>
+
+Following consecutive losses to Mexico and Costa Rica in the opening games of the [[2018 FIFA World Cup qualification – CONCACAF fifth round|final round of qualification]] for the [[2018 FIFA World Cup|2018 World Cup]], Klinsmann was removed as national team coach and technical director and replaced by previous U.S. head coach Bruce Arena.<ref>{{Cite news |date=2016-11-21 |title=Jurgen Klinsmann: United States sack former Germany boss |url=https://www.bbc.com/sport/football/38058433 |access-date=2026-07-08 |work=BBC Sport |language=en-GB}}</ref> World Cup qualification resumed on March 24, 2017, where Arena and his team achieved a record 6–0 win over [[Honduras national football team|Honduras]].<ref>{{cite web |url=https://www.ussoccer.com/stories/2017/03/25/03/54/20170324-recap-mnt-beat-honduras-6-0-world-cup-qualifying-march-24-2017-san-jose |title=USA Cruises to 6–0 Win vs. Honduras in Critical World Cup Qualifier |date=March 24, 2017 |publisher=U.S. Soccer Federation |access-date=March 27, 2017 |archive-date=March 27, 2017 |archive-url=https://web.archive.org/web/20170327104905/http://www.ussoccer.com/stories/2017/03/25/03/54/20170324-recap-mnt-beat-honduras-6-0-world-cup-qualifying-march-24-2017-san-jose |url-status=live }}</ref>
+
+[[File:USMNT vs. Trinidad and Tobago (48125005091) (cropped).jpg|thumb|170px|[[Jozy Altidore]] in 2019]]
+The U.S. earned their third ever result in World Cup qualification at the [[Estadio Azteca]] when they drew 1–1 against Mexico. In July 2017, the U.S. won their sixth [[2017 CONCACAF Gold Cup|Gold Cup]] with a 2–1 win over Jamaica in the final.<ref>{{Cite news |last=Parker |first=Graham |date=2017-07-27 |title=What we learned from the USA's Gold Cup triumph |url=https://www.theguardian.com/football/blog/2017/jul/27/usa-gold-cup-victory-gold-cup |access-date=2026-07-08 |work=The Guardian |language=en-GB |issn=0261-3077}}</ref> Following a [[Trinidad and Tobago v United States (2018 FIFA World Cup qualification)|2–1 defeat to Trinidad and Tobago]] on October 10, 2017, the U.S. failed to qualify for the 2018 World Cup, missing the tournament for the first time since 1986.<ref>{{cite news |last=Rogers |first=Martin |date=October 10, 2017 |title=U.S. men's national soccer team fails to qualify for 2018 World Cup |url=https://www.usatoday.com/story/sports/2017/10/10/usmnt-world-cup-qualification-trinidad-tobago/752568001/ |newspaper=USA Today |access-date=October 10, 2017 |archive-date=October 11, 2017 |archive-url=https://web.archive.org/web/20171011024218/https://www.usatoday.com/story/sports/2017/10/10/usmnt-world-cup-qualification-trinidad-tobago/752568001/ |url-status=live }}</ref> Many pundits and analysts called this the worst result and worst performance in the history of the national team.<ref>{{cite news|url=https://fivethirtyeight.com/features/the-worst-loss-in-the-history-of-u-s-mens-soccer/|title=The Worst Loss In The History Of U.S. Men's Soccer|last1=Caley|first1=Michael|last2=Foster|first2=Geoff|last3=Paine|first3=Neil|date=October 11, 2017|work=FiveThirtyEight|access-date=May 21, 2018|archive-date=June 12, 2018|archive-url=https://web.archive.org/web/20180612162544/https://fivethirtyeight.com/features/the-worst-loss-in-the-history-of-u-s-mens-soccer/|url-status=dead}}</ref>
+
+Following Arena's resignation on October 13, 2017, assistant coach [[Dave Sarachan]] was named interim head coach during the search for a permanent replacement.<ref>{{cite news|url=https://www.washingtonpost.com/news/soccer-insider/wp/2017/10/24/bruce-arenas-assistant-named-interim-coach-of-u-s-soccer-team/|title=USA soccer names Bruce Arena's assistant as interim coach, but the search goes on|last=Goff|first=Steven|date=October 24, 2017|newspaper=The Washington Post|access-date=December 2, 2018|archive-date=December 3, 2018|archive-url=https://web.archive.org/web/20181203055543/https://www.washingtonpost.com/news/soccer-insider/wp/2017/10/24/bruce-arenas-assistant-named-interim-coach-of-u-s-soccer-team/|url-status=live}}</ref> The search for a permanent head coach was delayed by the [[2018 United States Soccer Federation presidential election|USSF presidential election]] in February 2018 and the hiring of [[Earnie Stewart]] as general manager in June 2018.<ref>{{cite news |last=Goff |first=Steven |date=September 6, 2018 |title=When will USMNT hire a coach? Ahead of high-profile friendlies, the search is taking shape. |url=https://www.washingtonpost.com/news/soccer-insider/wp/2018/09/06/when-will-usmnt-hire-a-coach-ahead-of-high-profile-friendlies-the-search-is-taking-shape/ |newspaper=The Washington Post |access-date=December 2, 2018 |archive-date=November 7, 2018 |archive-url=https://web.archive.org/web/20181107202425/https://www.washingtonpost.com/news/soccer-insider/wp/2018/09/06/when-will-usmnt-hire-a-coach-ahead-of-high-profile-friendlies-the-search-is-taking-shape/ |url-status=live }}</ref><ref>{{cite news |last=Tenorio |first=Paul |date=December 2, 2018 |title=With Berhalter hired as USMNT head coach, U.S. Soccer provides details on much-criticized search process |url=https://www.nytimes.com/athletic/688634/2018/12/02/gregg-berhalter-hired-usmnt-head-coach/ |work=[[The Athletic]] |url-access=subscription |access-date=December 2, 2018 |archive-date=December 3, 2018 |archive-url=https://web.archive.org/web/20181203060121/https://theathletic.com/688634/2018/12/02/gregg-berhalter-hired-usmnt-head-coach/ |url-status=live }}</ref> [[Gregg Berhalter]], coach of the [[Columbus Crew]] and a former USMNT defender, was announced as the team's new head coach on December 2, 2018.<ref name="auto">{{cite news |last=Goff |first=Steven |date=December 2, 2018 |title=Gregg Berhalter is announced as coach of U.S. men's soccer team |url=https://www.washingtonpost.com/sports/2018/12/02/gregg-berhalter-is-announced-coach-us-mens-soccer-team/?noredirect=on |newspaper=The Washington Post |access-date=December 2, 2018 |archive-date=January 6, 2019 |archive-url=https://web.archive.org/web/20190106104414/https://www.washingtonpost.com/sports/2018/12/02/gregg-berhalter-is-announced-coach-us-mens-soccer-team/?noredirect=on |url-status=live }}</ref><ref>{{cite news |url = https://www.si.com/soccer/2018/12/02/gregg-berhalter-usmnt-manager-us-soccer-earnie-stewart-jay |title = U.S. Soccer's process and its impact on Berhalter's hire |website = SI.com |access-date = December 3, 2018 |language = en |archive-date = December 4, 2018 |archive-url = https://web.archive.org/web/20181204005727/https://www.si.com/soccer/2018/12/02/gregg-berhalter-usmnt-manager-us-soccer-earnie-stewart-jay |url-status = live }}</ref>
+
+Under Berhalter the team lost in the [[2019 CONCACAF Gold Cup final|2019 Gold Cup final]] 1–0 against [[Mexico national football team|Mexico]] and were unable to defend their title.<ref>{{cite news |last=Sandalow |first=Brian |date=July 7, 2019 |title=Mexico topples United States to win Gold Cup |url=https://chicago.suntimes.com/2019/7/7/20685692/mexico-topples-united-states-to-win-gold-cup-jonathan-dos-santos-gregg-berhalter-soldier-field-2019 |work=Chicago Sun-Times |url-access=subscription |accessdate=July 16, 2024}}</ref>
+
+===2020s===
+An influx of new young talent playing for top European clubs, widely described as America's [[golden generation]],<ref>{{Cite news |first1=Kendall |last1=Baker |first2=Thomas |last2=Oide |date=November 21, 2022 |title=World Cup tests golden generation of U.S. men's soccer |url=https://www.axios.com/2022/11/21/usmnt-world-cup-qatar-golden-generation |access-date=December 2, 2022 |website=Axios |language=en |archive-date=December 2, 2022 |archive-url=https://web.archive.org/web/20221202075956/https://www.axios.com/2022/11/21/usmnt-world-cup-qatar-golden-generation |url-status=live }}</ref><ref>{{Cite news |date=December 8, 2020 |title=USMNT golden generation? Why Pulisic, Reyna & Co. are on course to make a run at 2022 World Cup |url=https://www.espn.com/soccer/story/_/id/37609449/usmnt-golden-generation-why-pulisic-reyna-co-course-make-run-2022-world-cup |access-date=December 2, 2022 |website=ESPN.com |language=en |archive-date=December 2, 2022 |archive-url=https://web.archive.org/web/20221202075948/https://www.espn.com/soccer/united-states-usa/story/4256235/usmnt-golden-generation-why-pulisicreyna-and-co-are-on-course-to-make-a-run-at-2022-world-cup |url-status=live }}</ref><ref>{{Cite web |title=American golden generation carrying big aspirations |url=https://www.fifa.com/fifaplus/en/articles/usa-world-cup-qatar-2022-fixtures-coach-key-players |website=FIFA.com |access-date=December 2, 2022 |archive-date=December 2, 2022 |archive-url=https://web.archive.org/web/20221202075949/https://www.fifa.com/fifaplus/en/articles/usa-world-cup-qatar-2022-fixtures-coach-key-players |url-status=live }}</ref> entered the national team in the late 2010s and early 2020s, including [[Christian Pulisic]], [[Weston McKennie]], [[Tyler Adams]], [[Timothy Weah]], [[Sergiño Dest]], and [[Giovanni Reyna|Gio Reyna]]. This new group won the inaugural [[CONCACAF Nations League]] in 2021 with a 3–2 victory against Mexico in the [[2021 CONCACAF Nations League Final|final]]. A different roster won the [[2021 CONCACAF Gold Cup|Gold Cup]] against Mexico later that summer, contributing to a record for wins in a calendar year, with 17 wins, three ties, and two losses in 2021.<ref>{{cite news|date=December 18, 2021|title=U.S. Men's National Team Defeat Bosnia And Herzegovina 1–0 To Set Record For Wins In A Calendar Year With 17|url=https://www.ussoccer.com/stories/2021/12/usmnt-defeat-bosnia-and-herzegovina-1-0-to-set-record-for-wins-in-a-calendar-year-with-17 |publisher=U.S. Soccer Federation |access-date=January 1, 2022|language=en|archive-date=December 19, 2021|archive-url=https://web.archive.org/web/20211219124900/https://www.ussoccer.com/stories/2021/12/usmnt-defeat-bosnia-and-herzegovina-1-0-to-set-record-for-wins-in-a-calendar-year-with-17|url-status=live}}</ref>
+
+[[File:2022 FIFA World Cup United States 1–1 Wales - (19) (Crop).png|thumb|170px|[[Christian Pulisic]] at the [[2022 FIFA World Cup|2022 World Cup]]]]
+The United States qualified for the [[2022 FIFA World Cup|2022 World Cup]] by finishing third in the [[2022 FIFA World Cup qualification – CONCACAF third round|final qualifying round]]. Grouped with England, Iran, and [[Wales national football team|Wales]] in [[2022 FIFA World Cup Group B|Group B]], the team advanced to the [[2022 FIFA World Cup knockout stage|knockout stage]] after beating [[Iran national football team|Iran]] 1–0 in their critical final group stage matchup with a [[Christian Pulisic]] goal, finishing the group as runners-up with five points and without losing a game.<ref>{{Cite news |last=Grez |first=Matias |date=2022-11-29 |title=USMNT advances to World Cup knockout stage with hard-fought victory over Iran {{!}} CNN |url=https://www.cnn.com/2022/11/29/football/iran-usa-qatar-world-cup-spt-intl |access-date=2026-07-08 |work=CNN |language=en}}</ref> At the knockouts, they faced the [[Netherlands national football team|Netherlands]] and were defeated 3–1 in the Round of 16.<ref>{{Cite web |last=Morgan |first=Joe |date=2022-12-03 |title=World Cup 2022: USA’s title dreams end in loss to Netherlands |url=https://www.foxnews.com/sports/world-cup-2022-usa-title-dreams-end-loss-netherlands |access-date=2026-07-08 |website=Fox News |language=en-US}}</ref> Midfielder [[Kellyn Acosta]] became the first [[Asian American]] player to appear for the U.S. at a World Cup.<ref>{{Cite web |title=History-making Asian American soccer player describes his journey to self-acceptance |url=https://www.nbcnews.com/news/asian-america/history-making-asian-american-soccer-player-describes-journey-self-acc-rcna62119 |access-date=February 17, 2023 |website=NBC News |date=December 17, 2022 |language=en |archive-date=February 18, 2023 |archive-url=https://web.archive.org/web/20230218013632/https://www.nbcnews.com/news/asian-america/history-making-asian-american-soccer-player-describes-journey-self-acc-rcna62119 |url-status=live }}</ref>
+
+After Berhalter's contract expired in December 2022, the U.S. searched for a new head coach. Under interim manager [[B.J. Callaghan]] in June 2023, the United States successfully defended their Nations League trophy by winning the [[2022–23 CONCACAF Nations League]]. The team conceded no goals in the [[2023 CONCACAF Nations League Finals|finals tournament]], winning 3–0 against Mexico and 2–0 against Canada in the [[2023 CONCACAF Nations League final|final match]].<ref>{{Cite news |date=June 19, 2023 |title=Debate settled: Reyna, Balogun ensure USMNT is king of Concacaf |url=https://www.espn.com/soccer/story/_/id/37877176/reyna-balogun-ensure-united-states-kings-concacaf |publisher=ESPN |access-date=June 19, 2023}}</ref> Callaghan remained the team's manager for the [[2023 CONCACAF Gold Cup|2023 Gold Cup]] the following month, which was played with a different roster. The U.S. were eliminated in the semifinals by Panama after losing a penalty shootout.<ref>{{cite news |date=July 12, 2023 |title=Panama upsets U.S. on penalty kicks to reach CONCACAF Gold Cup final vs. Mexico |url=https://www.latimes.com/sports/soccer/story/2023-07-12/concacaf-gold-cup-semifinals-game-recaps |work=Los Angeles Times |agency=Associated Press |accessdate=July 16, 2024}}</ref>
+
+The United States automatically qualified for the [[2026 FIFA World Cup|2026 World Cup]] as co-host in February 2023, and secured a spot at the U.S.-hosted [[2024 Copa América]] by defeating Trinidad and Tobago 4–2 over two legs in [[2023–24 CONCACAF Nations League#Quarter-finals|November 2023]].<ref>{{cite web |url=https://www.espn.com/soccer/match/_/gameId/689486/united-states-trinidad-and-tobago |title=United States 1-2 Trinidad and Tobago |website=ESPN |access-date=January 12, 2024}}</ref> Gregg Berhalter was reappointed as coach of the United States on June 16, 2023.<ref>{{cite web |url=https://www.ussoccer.com/stories/2023/06/gregg-berhalter-chosen-to-lead-us-mens-national-team-to-2026-fifa-world-cup |publisher=U.S. Soccer Federation |title=Gregg Berhalter Chosen To Lead U.S. Men's National Team To 2026 FIFA World Cup |access-date=July 12, 2023}}</ref> In March 2024, the United States won their [[2023–24 CONCACAF Nations League|third CONCACAF Nations League]] title by defeating Mexico 2–0 in the [[2024 CONCACAF Nations League final|final]].<ref>{{Cite web |title=USMNT beats Mexico 2-0 to win third straight Nations League title |url=https://www.foxsports.com/stories/soccer/usmnt-beats-mexico-2-0-to-win-third-straight-nations-league-title |access-date=March 25, 2024 |website=FOX Sports |language=en-US}}</ref> At the Copa América, the United States were eliminated in the [[2024 Copa América Group C|group stage]], with a 1–0 loss in the final group stage match against [[Uruguay national football team|Uruguay]] involving several controversial decisions against the Americans from referee [[Kevin Ortega (football referee)|Kevin Ortega]], including a potentially offside Uruguay goal and handling of yellow cards.<ref>{{Cite web |date=July 2, 2024 |title=Uruguay's controversial offside goal vs. USA: How VAR confirmed Matias Olivera opener to doom USMNT at Copa America |work=[[The Sporting News]] |url=https://www.sportingnews.com/us/soccer/news/uruguay-goal-offside-usa-var-matias-olivera-usmnt-copa-america/b5fa3cd84b6a77f199bf5c60 |access-date=July 2, 2024}}</ref> Following the team's elimination, Berhalter was fired as head coach on July 10, 2024.<ref>{{Cite web |date=July 10, 2024 |title=Reports: Gregg Berhalter fired as USMNT coach |url=https://www.espn.com/soccer/story/_/id/40480333/usa-coach-gregg-berhalter-fired-copa-america |access-date=July 10, 2024 |website=ESPN.com |language=en}}</ref>
+
+On September 10, 2024, [[Todd Boehly]] and the USMNT's delegates agreed to an undisclosed exit fee for former [[Chelsea F.C.|Chelsea]] manager [[Mauricio Pochettino]], and Pochettino would subsequently be announced as the new head coach of the United States, replacing Berhalter.<ref>{{cite web |date=September 10, 2024|title=U.S. Soccer officially names Mauricio Pochettino as USMNT coach |url=https://www.foxsports.com/stories/soccer/u-s-soccer-officially-names-mauricio-pochettino-usmnt-coach |website=Fox Sports |access-date=November 13, 2024}}</ref> In March [[2025 CONCACAF Nations League Finals|2025]] the U.S. lost to [[Panama national football team|Panama]] 0–1 in stoppage time, marking the first time they've been eliminated from a [[CONCACAF Nations League]] title.<ref>{{Cite news |last=D'Hippolito |first=Joseph |date=2025-03-21 |title=Panama thwart USMNT again with stoppage-time win in Nations League |url=https://www.theguardian.com/football/2025/mar/20/usa-panama-nations-league-semifinal-waterman-goal |access-date=2026-07-08 |work=The Guardian |language=en-GB |issn=0261-3077}}</ref> At the [[2025 CONCACAF Gold Cup]], a newer inexperienced squad was called up rather than its regular starters due to club commitments or fatigue. The squad ultimately made it to the [[2025 CONCACAF Gold Cup final|final]], controversially losing to [[Mexico national football team|Mexico]] 2–1 despite [[Handball (association football)|handball]] shouts.<ref>{{Cite web |title=Why Mexico Wasn't Called For A Handball In the Gold Cup Final vs. USA |url=https://www.foxsports.com/stories/soccer/why-mexico-wasnt-called-handball-gold-cup-final-vs-usa |access-date=2026-06-13 |website=www.foxsports.com |language=en-US}}</ref>
+
+The U.S. was the primary host of the [[2026 FIFA World Cup]] with [[Mexico national football team|Mexico]] and [[Canada men's national soccer team|Canada]]. In the opening group stage match against [[Paraguay national football team|Paraguay]], [[Inglewood, California|in Inglewood]], [[California]], the U.S. achieved its biggest national team win in World Cup history with a 4–1 scoreline, as [[Folarin Balogun]] scored a brace to become the first American in 96 years to have a multi-goal World Cup game since [[1930 FIFA World Cup|1930]], and [[Christian Pulisic]] became the all-time U.S. World Cup assist leader with 3.<ref>{{Cite web |title=USA Makes History With Its First Four-Goal Performance At Men's World Cup |url=https://www.foxsports.com/stories/soccer/usa-makes-history-its-first-four-goal-performance-mens-world-cup |access-date=2026-06-13 |website=www.foxsports.com |language=en-US}}</ref> They won their second game against [[Australia men's national soccer team|Australia]] 2–0, [[Seattle|in Seattle]], also marking the first time the U.S. had won multiple group stage games since the 1930 World Cup.<ref>{{Cite web |url=https://www.espn.com/soccer/story/_/id/49096090/2026-fifa-world-cup-live-updates-united-states-vs-australia |access-date=2026-06-19 |website=ESPN|title=World Cup recap: USMNT defeat Australia 2-0 to advance to knockout stage}}</ref> The U.S. clinched first place in Group D after just two matches, becoming the tournament's second nation to advance to the [[2026 FIFA World Cup knockout stage|knockout stage]]. With their final group stage opponent [[Turkey national football team|Turkey]] already eliminated, the Americans rotated 10 bench players for the final group match, narrowly losing 2–3 back in Inglewood, due to a late Turkish goal scored in stoppage time.<ref>{{Cite web |date=2026-06-26 |title=Last minute Turkiye goal downs USMNT 3-2 in final World Cup group stage match as USA win Group D and advance |url=https://www.cbssports.com/soccer/news/usmnt-vs-turkiye-live-updates-world-cup-2026-score-results/live/ |access-date=2026-06-26 |website=CBS Sports |language=en}}</ref> In the [[2026 FIFA World Cup round of 32|round of 32]], the U.S., down a man from a controversial red card to Balogun, beat [[Bosnia and Herzegovina national football team|Bosnia and Herzegovina]] 2–0,<ref>{{cite web |last=Borden|first=Sam|date=July 1, 2026|title=USMNT's Folarin Balogun gets red card vs. Bosnia-Herzegovina|url=https://www.espn.com/soccer/story/_/id/49243703/usa-folarin-balogun-red-card-bosnia-herzegovina-world-cup-2026|website=ESPN|access-date=July 2, 2026}}</ref>, [[Santa Clara, California|in Santa Clara, California]], breaking their national team's record of most victories at any World Cup with three wins. In the round of 16, the U.S. team was eliminated by [[Belgium national football team|Belgium]] after a 1–4 defeat, once again in Seattle, repeating the eventual tournament elimination result from 2014.<ref>{{Cite web |date=2026-07-07 |title=From The Sports Desk: Belgium demolishes the U.S. 4-1 and trolls it afterward |url=https://www.nbcnews.com/sports/soccer/sports-newsletter-belgium-demolishes-us-4-1-trolls-afterward-rcna353181 |access-date=2026-07-08 |website=NBC News |language=en}}</ref>
+<!--
+This is an overview article. Do not put match reports or detailed tournament summaries here. Instead, use the linked "History of the United States men's national soccer team" article. -->
+
+==Team image==
+
+=== Uniform ===
+{{Commons|United States men's national soccer team kits}}
+Since their first unofficial game against Canada, the most common U.S. uniform has been white tops with blue shorts. A variant with a diagonal stripe or "sash" across the shirt similar to [[Peru national football team|Peru]]'s jersey was first adopted in 1950 and used in various uniforms in the 2000s. A color scheme based on the [[Flag of the United States|U.S. flag]]—usually a shirt with red and white stripes with blue shorts—has been occasionally used (most prominently in the 1994 World Cup and 2012–13 qualifiers<ref name=slate1/> as well the 1983 [[Team America (NASL)|Team America]] franchise of the [[North American Soccer League (1968–1984)|North American Soccer League]]).<ref name=mls1>[https://www.mlssoccer.com/news/anything-and-everything-learn-more-about-team-america-their-own-words Anything and everything: Learn more about Team America, in their own words] by Pablo Maurer at mlssoccer.com, Nov 17, 2015</ref>
+
+German brand [[Adidas]] provided the uniform for the United States from 1984 to 1994. Since 1995, American company [[Nike, Inc.|Nike]] has been the uniform supplier.<ref>{{cite news |last=Whittaker Snavely |first=Adam |date=March 1, 2016 |title=What's in the Shirt: An informal history of Nike and U.S. Soccer |url=https://www.starsandstripesfc.com/2016/3/1/11138752/us-soccer-kit-nike-adidas-contract-history |work=Stars and Stripes FC |accessdate=July 16, 2024}}</ref> The final Adidas jersey was a [[denim]]-inspired blue shirt with white stars paired with red shorts.<ref name=slate1>{{cite news |last=Siegel |first=Alan |date=May 19, 2014 |title=The Horrifying True Story of the Ugliest Jerseys in U.S. Soccer History |url=https://slate.com/culture/2014/05/u-s-soccer-denim-kit-the-horrifying-true-story-of-the-ugliest-jerseys-in-american-soccer-history.html |work=[[Slate (magazine)|Slate]] |accessdate=July 16, 2024}}</ref><ref name=nyt>[https://www.nytimes.com/athletic/3923994/2022/11/22/usmnt-denim-kit-1994-world-cup/ The denim kit: U.S. Soccer's beloved abomination] at ''The New York Times''</ref>
+
+==== Uniform suppliers ====
+{| class="wikitable" style="text-align: left"
+! Supplier !! Period !! Contract<br />duration !! Notes
+|-
+| [[Adidas]]
+| 1975–1994
+| 1975–1994
+|<ref>{{cite news|title=USMNT Jersey History|url=http://www.socceroverthere.com/wp-content/uploads/2013/09/1984white.jpg|work=Soccer Over There|access-date=August 3, 2018|archive-date=November 22, 2019|archive-url=https://web.archive.org/web/20191122074030/http://www.socceroverthere.com/wp-content/uploads/2013/09/1984white.jpg|url-status=live}}</ref>
+|-
+| rowspan="2"| [[Nike, Inc.|Nike]]
+| rowspan="2"| 1995–present
+| 1995–2021
+|
+|-
+| 2022–2031
+|<ref>{{Cite web|url=https://apnews.com/article/soccer-sports-business-international-soccer-28335b70c9d737c5e788358dae71bec6|title=Nike extends as U.S. Soccer Federation equipment supplier|date=November 11, 2021|website=AP NEWS|access-date=November 26, 2022|archive-date=November 26, 2022|archive-url=https://web.archive.org/web/20221126135457/https://apnews.com/article/soccer-sports-business-international-soccer-28335b70c9d737c5e788358dae71bec6|url-status=live}}</ref><ref>{{Cite news|url=https://www.reuters.com/lifestyle/sports/us-soccer-extends-apparel-partnership-with-nike-2021-11-10/|title=U.S. Soccer extends apparel partnership with Nike|work=Reuters|date=November 10, 2021|access-date=November 26, 2022|archive-date=November 26, 2022|archive-url=https://web.archive.org/web/20221126135039/https://www.reuters.com/lifestyle/sports/us-soccer-extends-apparel-partnership-with-nike-2021-11-10/|url-status=live}}</ref>
+|}
+
+=== Crest ===
+<gallery widths="150" heights="100" style="text-align:left;">
+United States Soccer Federation logo (1913-1924).svg|{{center|The first logo used by the team and the federation, from 1913 to 1924.}}
+United States Soccer Federation logo (1950, official).svg|{{center|Logo used by the team at the [[1950 FIFA World Cup]].}}
+United States national soccer team logo (1976).svg|{{center|Logo used in 1976.}}
+United States Soccer Federation logo (1978-1992).svg|{{center|Crest used by the team from 1978 to 1992.}}
+United States Soccer Federation logo (100th anniversary).svg|{{center|Logo used in 2013 to mark US Soccer's centennial.}}
+</gallery>
+
+==Rivalries==
+===Mexico===
+{{Main|Mexico–United States soccer rivalry}}
+
+The United States and Mexico have been the most successful teams in CONCACAF and are major rivals.<ref name="Guardian-Mexico"/>
+
+The two countries first met in 1934 during a [[1934 FIFA World Cup qualification#Final round|World Cup qualifier]] in [[Rome]] that the U.S. won; Mexico won the following 24 meetings and were perennial qualifiers for the World Cup. Since 1980, the U.S. has had more wins against Mexico, particularly in home matches and major tournaments.<ref>{{cite news |last=Bonn |first=Kyle |date=March 23, 2022 |title=What is the USMNT record at Azteca? Why USA men have never won a competitive soccer match in Mexico |url=https://www.sportingnews.com/us/soccer/news/usmnt-record-azteca-usa-competitive-soccer-match-mexico/fd7j3raybsnjimeaxb18zynv |work=The Sporting News |accessdate=July 16, 2024}}</ref><ref>{{cite news |last=Stark |first=Harrison |date=May 29, 2014 |title=Mexico Will Play Like Never Before, and Lose Like Always |url=https://slate.com/culture/2014/05/mexico-2014-world-cup-el-tri-will-play-like-never-before-and-lose-like-always.html |work=Slate |accessdate=July 16, 2024}}</ref> They faced off in the [[2002 FIFA World Cup knockout stage#Mexico vs United States|round of 16]] of the [[2002 FIFA World Cup|2002 World Cup]], with the United States winning 2–0.<ref>{{cite web |title=USA 2-0 Mexico (Jun 17, 2002) Final Score - ESPN|url=https://www.espn.com/soccer/match/_/gameId/48889/united-states-mexico |website=[[ESPN]] |access-date=May 22, 2024}}</ref> On August 15, 2012, the U.S. defeated Mexico at [[Estadio Azteca]] in the first victory for the Americans on Mexican soil in 75 years.<ref>{{cite news| url=http://latimesblogs.latimes.com/world_now/2012/08/mexico-united-states-friendly-rivalry-soccer.html| title=Mexico's first loss to U.S. at home, on a Mexican American's goal| work=[[Los Angeles Times]]| date=August 16, 2012| access-date=August 20, 2014| archive-date=August 9, 2014| archive-url=https://web.archive.org/web/20140809065802/http://latimesblogs.latimes.com/world_now/2012/08/mexico-united-states-friendly-rivalry-soccer.html| url-status=live}}</ref> On October 10, 2015, Mexico defeated the U.S. 3–2 in the [[CONCACAF Cup]] in [[Rose Bowl (stadium)|Pasadena, California]] to qualify for the [[2017 FIFA Confederations Cup|2017 Confederations Cup]]. Thirteen months later, on November 11, 2016, El Tri defeated the U.S. in [[Lower.com Field|Columbus, Ohio]] for their second consecutive victory on American soil, in [[2018 FIFA World Cup qualification – CONCACAF fifth round|qualification]] for the 2018 World Cup.<ref>{{cite web |title=Game Details |url=https://www.concacaf.com/en/world-cup-qualifying-men/game-details?matchid=225939 |website=Concacaf | date=March 12, 2021 |access-date=May 31, 2024}}</ref> In 2021, the United States defeated Mexico three times in a calendar year for the first time, winning the [[2021 CONCACAF Nations League final|CONCACAF Nations League final]], the [[2021 CONCACAF Gold Cup final|Gold Cup final]], and in [[2022 FIFA World Cup qualification – CONCACAF third round|2022 World Cup qualifying]].<ref>{{cite web |title=2022 Concacaf World Cup Qualifying: USA 2 - Mexico 0 {{!}} Match Report, Stats & Standings |url=https://www.ussoccer.com/stories/2021/11/2022-concacaf-world-cup-qualifying-usa-2-mexico-0-match-report-stats-standings |publisher=U.S. Soccer Federation |access-date=May 31, 2024}}</ref>
+
+Ever since their first meeting in 1934, the two teams have met 78 times, with Mexico leading 37W–17T–24L, outscoring the U.S. 147–92. However, because of recent growth of [[Soccer in the United States|soccer in the U.S.]], since the beginning of the 21st century, the U.S. leads the series 19W–8T–10L. Either the United States or Mexico has won every edition of the [[CONCACAF Gold Cup|Gold Cup]] except one (the [[2000 CONCACAF Gold Cup|2000 Gold Cup]] was won by Canada).
+
+===Canada===
+{{see also|Canada–United States sports rivalries#Soccer}}
+
+The U.S. has a secondary rivalry with [[Canada men's national soccer team|Canada]], with the rivalry stemming from a generally [[Canada–United States sports rivalries|friendly rivalry]] between the two countries. The United States has historically been the stronger side, having qualified for 11 World Cups while Canada has qualified for three.
+
+On October 15, 2019, Canada defeated the United States for the first time in 34 years, at [[BMO Field]] in [[Toronto]].<ref>{{cite news|url=https://dailyhive.com/vancouver/canada-beats-usa-men-soccer|title=Canada beats USA in men's soccer for first time in 34 years|work=Offside|date=October 16, 2019|access-date=December 1, 2021|archive-date=December 1, 2021|archive-url=https://web.archive.org/web/20211201201604/https://dailyhive.com/vancouver/canada-beats-usa-men-soccer|url-status=live}}</ref> In [[2022 FIFA World Cup qualification (CONCACAF)|2022 World Cup qualifying]], Canada tied 1–1 with the U.S. in [[Nashville, Tennessee]], and defeated the USMNT 2–0 in [[Hamilton, Ontario]]. On June 18, 2023, the United States defeated Canada 2–0 in the [[2023 CONCACAF Nations League final|CONCACAF Nations League final]] in [[Las Vegas]].<ref>{{Cite web |title=USMNT Player Ratings: Gio Reyna dismantles Canada in Nations League final |work=MLSSoccer |url=https://www.mlssoccer.com/news/usmnt-player-ratings-gio-reyna-dismantles-canada-in-nations-league-final |access-date=June 20, 2023}}</ref> The U.S. defeated Canada yet again in a [[2023 CONCACAF Gold Cup knockout stage|2023 Gold Cup]] quarterfinal matchup, this time 3–2 on penalties, in [[Cincinnati]], Ohio.
+
+On September 7, 2024, the United States lost 2–1 to Canada in an international friendly in [[Kansas City, Missouri|Kansas City]], marking Canada’s first win over the United States on U.S. soil in 67 years.<ref name="ussoccer.com">{{Cite web |title=USMNT vs. Canada: Match Recap & Highlights |url=https://ussoccer.com/stories/2024/09/usa-vs-canada-score-result-goals-stats-match-recap |access-date=2026-05-04 |website=ussoccer.com |language=en}}</ref><ref>{{Cite news |title=Canadian men's soccer team beats U.S. in away match for 1st time in 67 years |url=https://www.cbc.ca/sports/soccer/canada-soccer-us-recap-sept-7-1.7316839 |access-date=May 3, 2026}}</ref> On March 23, 2025, the United States again lost 2–1 to Canada in the [[2024–25 CONCACAF Nations League#Third place play-off|2024–25 CONCACAF Nations League third-place match]], giving Canada consecutive wins over the United States for the first time since 1985.<ref>{{Cite web |title=U.S. Men's National Team Falls 2-1 To Canada In Nations League Third Place Match |url=https://ussoccer.com/stories/2025/03/us-mens-national-team-vs-canada-score-stats-goals-highlights-match-recap-concacaf-nations-league |access-date=2026-05-04 |website=ussoccer.com |language=en}}</ref><ref>{{Cite news |title=David's goal helps Canadian men past United States to finish 3rd in CONCACAF Nations League |url=https://www.cbc.ca/sports/soccer/concacaf-nations-league-canada-united-states-third-place-1.7491387 |access-date=May 3, 2026}}</ref> In stoppage time, a scuffle involving players from both teams broke out after [[Giovanni Reyna|Gio Reyna]] brought down [[Jacob Shaffelburg]] near the touchline.<ref>{{Cite web |date=2025-03-24 |title=USA vs. Canada score: Result, stats as David gives CanMNT win over USMNT in CONCACAF Nations League {{!}} Sporting News |url=https://www.sportingnews.com/ca/soccer/news/usa-vs-canada-live-score-result-usmnt-nations-league-third/ea1d5aae4082b4618a1d9886 |access-date=2026-05-04 |website=www.sportingnews.com |language=en-ca}}</ref><ref>{{Cite news |last=Abnos |first=Alexander |date=2025-03-24 |title=Canada 2-1 USA: Concacaf Nations League third-place game – as it happened |url=https://www.theguardian.com/football/live/2025/mar/23/canada-v-usa-concacaf-nations-league-third-place-playoff-latest-score |access-date=2026-05-04 |work=the Guardian |language=en-GB |issn=0261-3077}}</ref>
+
+The United States currently leads the series at 17W–11T–14L.<ref name="ussoccer.com"/><ref>{{Cite web |title=Five Things to Know about Canada |url=https://ussoccer.com/stories/2024/09/usa-vs-canada-match-history-five-things-to-know-kansas-city |access-date=2026-05-04 |website=ussoccer.com |language=en}}</ref>
+
+===Costa Rica===
+
+In the 2010s, the United States began to develop a rivalry with [[Costa Rica national football team|Costa Rica]].<ref>{{cite web|last1=Trahan|first1=Kevin|title=The Unlikely Rivalry Between Costa Rica and the U.S. Began With a Snow Game|date=June 7, 2016 |url=https://www.vice.com/en/article/the-unlikely-rivalry-between-costa-rica-and-the-us-began-with-a-snow-game/|publisher=Vice Sports|access-date=June 8, 2016|archive-date=September 14, 2016|archive-url=https://web.archive.org/web/20160914211926/https://sports.vice.com/ca/article/the-unlikely-rivalry-between-costa-rica-and-the-us-began-with-a-snow-game|url-status=live}}</ref><ref>{{cite web|title=Costa Rica keen to renew rivalry with U.S.|url=http://www.concacaf.com/article/costa-rica-keen-to-renew-rivalry-with-u-s|publisher=CONCACAF|access-date=June 8, 2016|url-status=dead|archive-url=https://web.archive.org/web/20160625071050/http://www.concacaf.com/article/costa-rica-keen-to-renew-rivalry-with-u-s|archive-date=June 25, 2016}}</ref><ref>{{cite web|last1=Godfrey|first1=John|title=The US Men's Soccer Team Is Starting To Develop An Unlikely Rivalry With Costa Rica|url=http://www.businessinsider.com/us-vs-costa-rica-rivalry-at-gold-cup-2013-7/?r=AU&IR=T|website=Business Insider|access-date=June 8, 2016|archive-date=June 30, 2016|archive-url=https://web.archive.org/web/20160630031017/http://www.businessinsider.com/us-vs-costa-rica-rivalry-at-gold-cup-2013-7/?r=AU&IR=T|url-status=live}}</ref> The impetus for the rivalry was a [[2014 FIFA World Cup qualification – CONCACAF fourth round|2014 World Cup qualifying match]] played on March 22, 2013, at [[Dick's Sporting Goods Park]] in [[Commerce City, Colorado]] under blizzard conditions. Costa Rica filed a protest with FIFA due to field conditions after the United States won the game 1–0, but were denied recourse. The game was dubbed "[[Snow Clasico]]" for the conditions.<ref>{{Cite web|last=Wine|first=Donald|date=October 18, 2018|title=Throwback Thursday: Let it Snow Clasico|url=https://www.starsandstripesfc.com/usmnt-news/2018/10/18/17995000/throwback-thursday-tbt-usa-usmnt-snow-clasico-costa-rica-world-cup-qualifying-hex|access-date=February 15, 2022|website=Stars and Stripes FC|language=en|archive-date=February 15, 2022|archive-url=https://web.archive.org/web/20220215094721/https://www.starsandstripesfc.com/usmnt-news/2018/10/18/17995000/throwback-thursday-tbt-usa-usmnt-snow-clasico-costa-rica-world-cup-qualifying-hex|url-status=live}}</ref> The United States have never won an away match in Costa Rica, losing 10 meetings and drawing twice.<ref>{{Cite news|last=Straus|first=Brian|date=March 29, 2022|title=High Stakes, Oddities and How the USMNT Is Approaching a Decisive Qualifier it Can Lose By 5|url=https://www.si.com/soccer/2022/03/30/usmnt-costa-rica-world-cup-qualifying-finale-approach|access-date=August 30, 2022|magazine=Sports Illustrated|language=en|archive-date=August 30, 2022|archive-url=https://web.archive.org/web/20220830233628/https://www.si.com/soccer/2022/03/30/usmnt-costa-rica-world-cup-qualifying-finale-approach|url-status=live}}</ref>
+
+==Supporters==
+{{Main|Sam's Army|The American Outlaws}}
+[[File:Sams Army.jpg|thumb|[[Sam's Army]] at a U.S. vs [[Jamaica national football team|Jamaica]] match|alt=U.S. soccer fans, dressed in red, cheer in bleachers as they hold a large U.S. flag over themselves at a soccer match.]]
+
+There have been two main [[supporter groups]] backing U.S. Soccer<!-- Leave "Soccer" capitalized, these two supporters clubs support all U.S. Soccer teams--> teams, [[Sam's Army]] and [[The American Outlaws]]. Sam's Army started shortly after the [[1994 FIFA World Cup|1994 World Cup]]<ref>{{cite news| title=The Trials of the U.S. Soccer Fan| last=Weinbach| first=John| date=June 9, 2006| url=https://www.wsj.com/articles/SB114981336927375669| work=[[The Wall Street Journal]]| access-date=June 12, 2010| archive-date=December 26, 2014| archive-url=https://web.archive.org/web/20141226214607/http://www.wsj.com/articles/SB114981336927375669| url-status=live}}</ref> and were active through 2014. Sam's Army members wore red to matches and sung or chanted throughout the match, and often brought huge U.S. flags and other banners to the game.
+
+The American Outlaws began in [[Lincoln, Nebraska]], in 2007 as a local supporters' group.<ref>{{cite news| last=Foss| first=Mike| url=http://ftw.usatoday.com/2014/04/meet-the-fans-who-are-dropping-everything-for-a-month-to-support-u-s-soccer/| title=Meet the U.S. soccer fans who are dropping everything for the World Cup| work=USA Today| date=April 9, 2014| access-date=August 20, 2014| archive-date=August 16, 2014| archive-url=https://web.archive.org/web/20140816024628/http://ftw.usatoday.com/2014/04/meet-the-fans-who-are-dropping-everything-for-a-month-to-support-u-s-soccer| url-status=live}}</ref> The group's membership attempted to address a lack of consistency from game to game in supporter organization and social events on match days.<ref>{{cite web| url=https://abcnews.go.com/Sports/american-outlaws-us-soccer/story?id=24194324| title=How the American Outlaws Are Getting the US into Soccer| date=June 18, 2014| first=Rheana| last=Murray| work=[[ABC News (United States)|ABC News]]| access-date=August 20, 2014| archive-date=August 21, 2014| archive-url=https://web.archive.org/web/20140821182204/http://abcnews.go.com/Sports/american-outlaws-us-soccer/story?id=24194324| url-status=live}}</ref>
+
+The U.S. men's national team has a major following on [[social media]] platforms. Interest in young American players and the attention they bring has led to an increase in foreign investment in U.S. players,<ref>{{Cite web|url=https://chasingacup.com/a-transfer-window-to-remember/|title=Increase in European USMNT player interest|website=chasingacup.com|date=February 4, 2021|access-date=February 4, 2021|archive-date=February 4, 2021|archive-url=https://web.archive.org/web/20210204174313/https://chasingacup.com/a-transfer-window-to-remember/|url-status=live}}</ref> soccer development programs, and sports clubs.<ref>{{Cite web|url=https://www.elmens.com/health/sports/the-united-states-mens-national-soccer-team-an-in-depth-analysis/|title=The United States Men's National Soccer Team: An In-Depth Analysis|website=ELMENS.com|date=May 27, 2024 |access-date=May 27, 2024}}</ref>
+
+==Home stadium==
+{{See also|United States men's national soccer team results#Results by home stadium|l1=United States men's national team results by home stadium}}
+[[File:2026 FIFA World Cup Match 4, United States v Paraguay (stadium 3 hours before).jpg|thumb|right|upright=1.05|The United States opening its first match at the [[SoFi Stadium]] in [[Los Angeles]] during the [[2026 FIFA World Cup]]]]
+
+The United States does not have a dedicated [[national stadium]] like some other national teams; instead, the team has played its home games at various venues across the country. {{As of|2026}}, the team has played in 125 stadiums in 30 states and the [[District of Columbia]].{{citation needed|date=March 2025}} [[Robert F. Kennedy Memorial Stadium]], located in the national capital of Washington, D.C., has hosted 24 matches, the most of any stadium.<ref>{{cite news |last=Borden |first=Sam |date=June 16, 2013 |title=To U.S. Soccer Team, Home Field Is an Ever-Changing Thing |page=D2 |url=https://www.nytimes.com/2013/06/17/sports/soccer/to-us-soccer-team-home-field-is-a-many-changing-thing.html |work=The New York Times |access-date=June 4, 2015 |archive-date=June 16, 2015 |archive-url=https://web.archive.org/web/20150616053555/http://www.nytimes.com/2013/06/17/sports/soccer/to-us-soccer-team-home-field-is-a-many-changing-thing.html |url-status=live }}</ref> The state of [[California]] has hosted 123 matches, the most of any state, and [[Los Angeles metropolitan area|greater Los Angeles]] has hosted 83 matches at several venues in and around the city of LA. The [[Los Angeles Memorial Coliseum]] hosted 20 matches from 1965 to 2000.{{citation needed|date=July 2017}} The [[Rose Bowl (stadium)|Rose Bowl]], a 92,000-seat venue in [[Pasadena, California|Pasadena]], has hosted 17 national team matches.<ref>{{cite news |last1=Blum |first1=Ronald |last2=Wilner |first2=Barry |date=June 9, 2003 |title=USSF to propose Women's World Cup final in Carson |agency=Associated Press |work=USA Today |url=https://www.usatoday.com/sports/soccer/world/2003-06-09-wwc-sites_x.htm |url-status=dead |archive-url=https://web.archive.org/web/20110211174949/http://www.usatoday.com/sports/soccer/world/2003-06-09-wwc-sites_x.htm |archive-date=February 11, 2011 |access-date=July 15, 2017}}</ref>
+
+As mentioned, as the main co-host of the 2026 World Cup, the team played all five of its games on the West Coast (albeit not at any venues from 1994), starting with beating Paraguay at Inglewood, California's [[SoFi Stadium]], then beating Australia at Seattle's [[Lumen Field]], before losing to Turkey once again playing at SoFi, as well as beating Bosnia & Herzegovina at Santa Clara's [[Levi's Stadium]], and getting eliminated by Belgium back at Lumen Field.
+
+===Media coverage===
+[[TNT Sports (United States)|TNT Sports]] has the main English language rights for U.S. Soccer broadcasts from 2022 to 2030, including all friendlies, CONCACAF Nations League group play matches and home World Cup qualifiers. All matches stream live on [[Max (streaming service)|Max]] with matches also on [[TNT (American TV network)|TNT]], [[TBS (American TV channel)|TBS]] or [[TruTV]]. [[Soccer on CBS Sports|CBS Sports]] airs USMNT away World Cup qualifiers and the Nations League finals, semifinals and third place game on [[CBS Sports Network]] or the [[Paramount+]] streaming service. [[Fox Sports]] holds the rights to USMNT matches in the [[FIFA World Cup]] and [[CONCACAF Gold Cup]], with matches airing on [[Fox Broadcasting Company|Fox]] or [[Fox Sports 1]]. [[Telemundo]] has the Spanish language rights to all U.S. Soccer broadcasts from 2023 to 2030. These agreements do not apply to World Cup away qualifiers, whose rights are distributed by the host country.<ref>{{Cite web|url=https://www.ussoccer.com/about/media-services/faqs-world-cup-qualifying-television-rights|title=FAQs World Cup Qualifying Television Rights|publisher=U.S. Soccer Federation|language=en|access-date=March 15, 2017|archive-date=March 15, 2017|archive-url=https://web.archive.org/web/20170315174856/https://www.ussoccer.com/about/media-services/faqs-world-cup-qualifying-television-rights|url-status=live}}</ref>
+
+==Results and fixtures==
+{{main|United States men's national soccer team results|United States men's national soccer team records and statistics}}
+{{Further|2025 in American soccer|2026 in American soccer}}
+The following is a list of match results in the last 12 months, as well as any future matches that have been scheduled.
+
+{{legend2|#CCFFCC|Win|border=1px solid #AAAAAA}}
+{{legend2|#FFFFCC|Draw|border=1px solid #AAAAAA}}
+{{legend2|#FFCCCC|Loss|border=1px solid #AAAAAA}}
+{{legend2|#FFFFFF|Fixture|border=1px solid #AAAAAA}}
+
+===2025===
+{{#invoke:Football box collapsible|main
+| date       = September 6
+| time       = 17:00 ET
+| round      = [[Exhibition game#Association football|Friendly]]
+| team1      = {{#invoke:flag|fb-rt|USA}}
+| score      = 0–2
+| team2      = {{#invoke:flag|fb|KOR}}
+| report     = https://www.ussoccer.com/stories/2025/09/usmnt-september-window-korea-republic-christian-pulisic-son-heung-min
+| goals1     = 
+| goals2     = 
+* [[Son Heung-min]] {{goal|18}}
+* [[Lee Dong-gyeong]] {{goal|43}}
+| stadium    = [[Sports Illustrated Stadium]]
+| location   = [[Harrison, New Jersey]]
+| attendance = 26,500
+| referee    = Reon Radix ([[Grenada Football Association|Grenada]])
+| result     = L
+}}
+{{#invoke:Football box collapsible|main
+| date       = September 9
+| time       = 19:30 ET
+| round      = [[Exhibition game#Association football|Friendly]]
+| team1      = {{#invoke:flag|fb-rt|USA}}
+| score      = 2–0
+| team2      = {{#invoke:flag|fb|JPN}}
+| report     = https://www.ussoccer.com/stories/2025/09/alex-zendejas-folarin-balogun-score-win-usmnt-japan-columbus
+| goals1     = 
+*[[Alejandro Zendejas|Zendejas]] {{goal|30}}
+*[[Folarin Balogun|Balogun]] {{goal|64}}
+| goals2     =
+| stadium    = [[Lower.com Field]]
+| location   = [[Columbus, Ohio]]
+| attendance = 20,192
+| referee    = Bryan Lopez ([[National Football Federation of Guatemala|Guatemala]])
+| result     = W
+}}
+{{#invoke:Football box collapsible|main
+| date       = October 10
+| time       = 20:30 ET
+| round      = [[Exhibition game#Association football|Friendly]]
+| team1      = {{#invoke:flag|fb-rt|USA}}
+| score      = 1–1
+| team2      = {{#invoke:flag|fb|ECU}}
+| report     = https://www.ussoccer.com/stories/2025/10/us-mens-national-team-battles-red-hot-ecuador-draw-q2-stadium-folarin-balogun
+| goals1     = 
+*[[Folarin Balogun|Balogun]] {{goal|71}}
+| goals2     = 
+*[[Enner Valencia|Valencia]] {{goal|24}}
+| stadium    = [[Q2 Stadium]]
+| location   = [[Austin, Texas]]
+| attendance = 20,738
+| referee    = [[Filip Dujic]] ([[Canadian Soccer Association|Canada]])
+| result     = D
+}}
+{{#invoke:Football box collapsible|main
+| date       = October 14
+| time       = 21:00 ET
+| round      = [[Exhibition game#Association football|Friendly]]
+| team1      = {{#invoke:flag|fb-rt|USA}}
+| score      = 2–1
+| team2      = {{#invoke:flag|fb|AUS}}
+| report     = https://www.ussoccer.com/stories/2025/10/usmnt-haji-wright-cristian-roldan-connect-twice-win-australia
+| goals1     =
+*[[Haji Wright|Wright]] {{goal|33||51}}
+| goals2     = 
+*[[Jordan Bos|Bos]] {{goal|19}}
+| stadium    = [[Dick's Sporting Goods Park]]
+| location   = [[Commerce City, Colorado]]
+| attendance = 18,218
+| referee    = Kwinsi Williams ([[Trinidad and Tobago Football Association|Trinidad and Tobago]])
+| result     = W
+}}
+{{#invoke:Football box collapsible|main
+| date       = November 15
+| time       = 17:00 ET
+| round      = [[Exhibition game#Association football|Friendly]]
+| team1      = {{#invoke:flag|fb-rt|USA}}
+| score      = 2–1
+| team2      = {{#invoke:flag|fb|PAR}}
+| report     = https://www.ussoccer.com/stories/2025/11/gio-reyna-folarin-balogun-goals-win-vs-world-cup-bound-paraguay
+| goals1     =
+*[[Giovanni Reyna|Reyna]] {{goal|4}}
+*[[Folarin Balogun|Balogun]] {{goal|71}}
+| goals2     =
+*[[Álex Arce|Arce]] {{goal|10}}
+| stadium    = [[Subaru Park]]
+| location   = [[Chester, Pennsylvania]]
+| attendance = 17,224
+| referee    = [[Cristhofer Corado]] ([[National Football Federation of Guatemala|Guatemala]])
+| result     = W
+}}
+{{#invoke:Football box collapsible|main
+| date       = November 18
+| time       = 18:30 ET
+| round      = [[Exhibition game#Association football|Friendly]]
+| team1      = {{#invoke:flag|fb-rt|USA}}
+| score      = 5–1
+| team2      = {{#invoke:flag|fb|URU}}
+| report     = https://www.ussoccer.com/stories/2025/11/usmnt-concludes-2025-with-5-1-win-over-world-cup-bound-uruguay
+| goals1     =
+*[[Sebastian Berhalter|Berhalter]] {{goal|17}}
+*[[Alex Freeman|Freeman]] {{goal|20||31}}
+*[[Diego Luna (soccer, born 2003)|Luna]] {{goal|42}}
+*[[Tanner Tessmann|Tessmann]] {{goal|68}}
+| goals2     =
+*[[Giorgian de Arrascaeta|De Arrascaeta]] {{goal|45+1}}
+| stadium    = [[Raymond James Stadium]]
+| location   = [[Tampa, Florida]]
+| attendance = 26,110
+| referee    = Julio Luna ([[National Football Federation of Guatemala|Guatemala]])
+| result     = W
+}}
+
+===2026===
+{{Football box collapsible
+|round      = [[Exhibition game|Friendly]]
+|date       = March 28
+|time       = 15:30 ET
+|team1      = {{fb-rt|USA}}
+|score      = 2–5
+|report     = https://www.ussoccer.com/stories/2026/03/usmnt/match-recap-highlights-vs-belgium-march-atlanta-georgia
+|team2      = {{fb|BEL}}
+|goals1     = 
+*[[Weston McKennie|McKennie]] {{goal|39}}
+*[[Patrick Agyemang (soccer, born 2000)|Agyemang]] {{goal|87}}
+|goals2     = 
+*[[Zeno Debast|Debast]] {{goal|45}}
+*[[Amadou Onana|Onana]] {{goal|53}}
+*[[Charles De Ketelaere|De Ketelaere]] {{goal|59|pen.}}
+*[[Dodi Lukébakio|Lukébakio]] {{goal|68||82}}
+|stadium    = [[Mercedes-Benz Stadium]]
+|location   = [[Atlanta|Atlanta, Georgia]]
+|attendance = 66,867
+|referee    = [[Esteban Ostojich]] ([[Uruguayan Football Association|Uruguay]])
+|result     = L
+}}
+{{Football box collapsible
+|round      = [[Exhibition game|Friendly]]
+|date       = March 31
+|time       = 19:00 EST
+|team1      = {{fb-rt|USA}}
+|score      = 0–2
+|report     = https://www.ussoccer.com/stories/2026/03/usmnt/match-recap-highlights-vs-portugal-march-atlanta-georgia
+|team2      = {{fb|POR}}
+|goals1     =
+|goals2     =
+*[[Francisco Trincão|Trincão]] {{goal|37}}
+*[[João Félix|Félix]] {{goal|59}}
+|stadium    = [[Mercedes-Benz Stadium]]
+|location   = [[Atlanta|Atlanta, Georgia]]
+|attendance = 72,297
+|referee    = [[Sven Jablonski]] ([[German Football Association|Germany]])
+|result     = L
+}}
+{{Football box collapsible
+|round      = [[Exhibition game|Friendly]]
+|date       = May 31
+|time       = 15:30 EDT
+|team1      = {{fb-rt|USA}}
+|score      = 3–2
+|report     = https://www.ussoccer.com/stories/2026/05/usmnt/match-recap-goals-highlights-vs-senegal
+|team2      = {{fb|Senegal}}
+|goals1     = 
+* [[Sergiño Dest|Dest]] {{goal|7}}
+* [[Christian Pulisic|Pulisic]] {{goal|20}}
+* [[Folarin Balogun|Balogun]] {{goal|63}} 
+|goals2     =
+* [[Sadio Mané|Mané]] {{goal|44||52}}
+|stadium    = [[Bank of America Stadium]]
+|location   = [[Charlotte, North Carolina]]
+|attendance = 57,741
+|referee    = [[Nick Walsh (referee)|Nick Walsh]] ([[Scottish Football Association|Scotland]])
+|result     = W
+}}
+{{Football box collapsible|
+|round      = [[Exhibition game|Friendly]]
+|date       = June 6
+|time       = 14:30 ET
+|team1      = {{fb-rt|USA}}
+|score      = 1–2
+|report     = https://www.ussoccer.com/stories/2026/06/usmnt/match-recap-antonee-robinson-goal-highlights-vs-germany
+|team2      = {{fb|GER}}
+|goals1     =
+*[[Antonee Robinson|Robinson]] {{goal|37}}
+|goals2     =
+*[[Kai Havertz|Havertz]] {{goal|2}}
+*[[Leroy Sané|Sané]] {{goal|57}}
+|stadium    = [[Soldier Field]]
+|location   = [[Chicago|Chicago, Illinois]]
+|attendance =63,636
+|referee    = [[Piero Maza]] ([[Football Federation of Chile|Chile]])
+|result     = L
+}}
+{{Football box collapsible|main
+|round      = [[2026 FIFA World Cup]] [[2026 FIFA World Cup Group D|Group D]]
+|date       = June 12
+|time       = 18:00 PT
+|team1      = {{fb-rt|USA}}
+|score      = 4–1 
+|team2      = {{fb|PAR}}
+|goals1     = 
+*[[Damián Bobadilla|Bobadilla]] {{goal|7|o.g.}} 
+*[[Folarin Balogun|Balogun]] {{goal|31||45+5}}
+*[[Giovanni Reyna|Reyna]] {{goal|90+8}}
+|goals2     = 
+*[[Maurício (footballer, born 2001)|Maurício]] {{goal|73}}
+|location   = [[Inglewood, California]]
+|stadium    = [[SoFi Stadium]]
+|attendance = 70,492
+|referee    = [[Danny Makkelie]] ([[Royal Dutch Football Association|Netherlands]])
+|report     = https://www.ussoccer.com/stories/2026/06/usmnt/folarin-balogun-brace-match-recap-highlights-vs-paraguay
+|result     = W
+}}
+{{Football box collapsible
+|round      = [[2026 FIFA World Cup]] [[2026 FIFA World Cup Group D|Group D]]
+|date       = June 19
+|time       = 15:00 ET
+|team1      = {{fb-rt|USA}}
+|score      = 2–0
+|team2      = {{fb|AUS}}
+|goals1     = 
+*[[Cameron Burgess|Burgess]] {{goal|11|o.g.}}
+*[[Alex Freeman|Freeman]] {{goal|43}}
+|goals2     = 
+|location   = [[Seattle|Seattle, Washington]]
+|stadium    = [[Lumen Field]]
+|attendance = 66,925 
+|referee    = [[Felix Zwayer]] ([[German Football Association|Germany]])
+|report     = https://www.ussoccer.com/stories/2026/06/usmnt/match-recap-highlights-vs-australia-world-cup-knockout-advance
+|result     = W
+}}
+{{Football box collapsible
+|round      = [[2026 FIFA World Cup]] [[2026 FIFA World Cup Group D|Group D]]
+|date       = June 25
+|time       = 22:00 ET
+|team1      = {{fb-rt|TUR}}
+|score      = 3–2
+|team2      = {{fb|USA}}
+|goals1     = 
+*[[Arda Güler|Güler]] {{goal|10}}
+*[[Barış Alper Yılmaz|Yılmaz]] {{goal|31}}
+*[[Kaan Ayhan|Ayhan]] {{goal|90+8}}
+|goals2     = 
+*[[Auston Trusty|Trusty]] {{goal|3}}
+*[[Sebastian Berhalter|Berhalter]] {{goal|49}}
+|location   = [[Inglewood, California]]
+|stadium    = [[SoFi Stadium]]
+|attendance = 70,492
+|referee    = [[Mustapha Ghorbal]] ([[Algerian Football Federation|Algeria]])
+|report     = https://www.ussoccer.com/stories/2026/06/usmnt/match-recap-highlights-vs-turkiye-world-cup
+|result     = L
+}}
+{{Football box collapsible
+|round      = [[2026 FIFA World Cup]] [[2026 FIFA World Cup knockout stage#Round of 32|Round of 32]]
+|date       = July 1
+|time       = 20:00 ET
+|team1      = {{fb-rt|USA}}
+|score      = 2–0
+|team2      = {{fb|BIH}}
+|goals1     = 
+*[[Folarin Balogun|Balogun]] {{goal|45}}
+*[[Malik Tillman|Tillman]] {{goal|82}}
+|goals2     = 
+|location   = [[Santa Clara, California]]
+|stadium    = [[Levi's Stadium]]
+|attendance = 68,827
+|referee    = [[Raphael Claus]] ([[Brazilian Football Confederation|Brazil]])
+|report     = https://www.ussoccer.com/stories/2026/07/usmnt/match-recap-highlights-vs-bosnia-and-herzegovina-world-cup-round-of-32
+|result     = W
+}}
+{{Football box collapsible
+|round      = [[2026 FIFA World Cup]] [[2026 FIFA World Cup knockout stage#Round of 16|Round of 16]]
+|date       = July 6
+|time       = 20:00 ET
+|team1      = {{fb-rt|USA}}
+|score      = 1–4
+|team2      = {{fb|BEL}}
+|goals1     = 
+*[[Malik Tillman|Tillman]] {{goal|31}}
+|goals2     = 
+*[[Charles De Ketelaere|De Ketelare]] {{goal|9||33}} 
+*[[Hans Vanaken|Vanaken]] {{goal|57}}
+*[[Romelu Lukaku|Lukaku]] {{goal|90+3}}
+|location   = [[Seattle|Seattle, Washington]]
+|stadium    = [[Lumen Field]]
+|attendance = 66,925
+|referee    = [[Adham Makhadmeh]] ([[Jordan Football Association|Jordan]])
+|report     = https://www.ussoccer.com/stories/2026/07/usmnt/match-recap-highlights-vs-belgium-world-cup-round-of-16
+|result     = L
+}}
+
+===All-time results===
+{{main|United States men's national soccer team records and statistics}}
+
+The following table shows the United States all-time international record, correct as of July 6, 2026.<ref>{{cite web |title=USA: Historical results |url=https://www.worldfootball.net/teams/te2026/usa/ |work=Worldfootball.net |access-date=June 23, 2026}}</ref>
+
+{| class="wikitable" style="text-align: center; font-size: 100%;"
+|-
+! Against
+! Played
+! Won
+! Drawn
+! Lost
+! GF
+! GA
+! GD
+|-
+|Total||813||360||168||284||1238||1054||+184
+|}
+
+== Staff ==
+[[File:Mauricio Pochettino USMNT v Belgium Mar 28 2026-55.jpg|thumb|200px|Current head coach [[Mauricio Pochettino]]]]
+{{See also|List of United States men's national soccer team head coaches}}
+'''Coaching staff'''
+{| class="wikitable"
+|-
+!style="color:#002868; background:white;"|Position
+!style="color:#002868; background:white;"|Name
+|-
+| Head coach
+| {{#invoke:flag|icon|ARG}} [[Mauricio Pochettino]]<ref>{{cite web |url=https://www.ussoccer.com/stories/2024/09/mauricio-pochettino-named-head-coach-us-mens-national-team |title=Mauricio Pochettino Named Head Coach of U.S. Men's National Team |date=September 10, 2024 |publisher=United States Soccer Federation |access-date=September 10, 2024}}</ref>
+|-
+| Assistant coaches
+| {{#invoke:flag|icon|ARG}} [[Miguel D'Agostino]]<hr />{{#invoke:flag|icon|ESP}} Jesus Perez
+|-
+| Goalkeeping coach
+| {{#invoke:flag|icon|ENG}} Jack Robinson<hr />{{#invoke:flag|icon|ESP}} [[Toni Jiménez]]
+|-
+| Technical coach<ref>{{cite web |url=https://www.nytimes.com/athletic/5714459/2024/09/27/pochettino-usmnt-staff-methods/ |title=Mauricio Pochettino: Introducing his USMNT backroom staff — and what each of them do |date=September 27, 2024 |work=New York Times |access-date=September 27, 2024}}</ref>{{failed verification|date=November 2024|reason=Neither Gianni Vio in particular nor a technical coach in general are mentioned in the linked reference}}
+| {{#invoke:flag|icon|ITA}} [[Gianni Vio]]
+|-
+| Athletic coach
+| {{#invoke:flag|icon|ARG}} {{#invoke:flag|icon|ESP}} [[Sebastiano Pochettino]]<hr />{{#invoke:flag|icon|ESP}} Silvia Tuya Vinas
+|-
+| Chief analyst
+| {{#invoke:flag|icon|CAN}} Sam Gregory
+|-
+| Match analyst
+| {{#invoke:flag|icon|NED}} David Handgraaf
+|-
+| Performance manager
+| {{#invoke:flag|icon|NED}} Rick Cost
+|}
+
+'''Technical staff'''
+{| class="wikitable"
+|-
+!style="color:#002868; background:white;"| Position
+!style="color:#002868; background:white;"| Name
+!style="color:#002868; background:white;"| Start date
+!style="color:#002868; background:white;"| {{Refh}}
+|-
+| Sporting director
+|Vacant
+| TBD
+| <ref>{{Cite web|url=|publisher=U.S. Soccer Federation}}</ref>{{Full citation needed|date=July 2026}}
+|-
+| Vice president of sporting
+| {{#invoke:flag|icon|USA}} [[Oguchi Onyewu]]
+| May 2023
+| <ref>{{Cite web|url=https://www.ussoccer.com/stories/2023/05/us-soccer-federation-names-oguchi-onyewu-as-vice-president-of-sporting|title=U.S. Soccer Federation Names Oguchi Onyewu As Vice President Of Sporting &#124; U.S. Soccer Official Website|publisher=U.S. Soccer Federation}}</ref>
+|}
+
+==Players==
+{{For|all past and present players who have appeared for the national team|List of United States men's international soccer players}}
+
+===Current squad===
+The following 26 players were named for the [[2026 FIFA World Cup]] as well as [[Exhibition game|friendly]] matches against [[Senegal national football team|Senegal]] and [[Germany national football team|Germany]] on May 31 and June 6, 2026 respectively.<ref>{{cite web|url=https://www.ussoccer.com/stories/2026/05/usmnt/us-mens-national-team-head-coach-mauricio-pochettino-names-26-player-roster-for-fifa-world-cup-2026|title=USMNT head coach Mauricio Pochettino names 26 player roster for FIFA World Cup 2026|date=May 26, 2026|access-date=May 26, 2026}}</ref>
+<!-- PLEASE UPDATE CURRENT SQUAD AND RECENT CALL-UPS TOGETHER TO AVOID DUPLICATES. PLEASE DO NOT JUST UPDATE YOUR FAVORITE PLAYER. PLEASE ALWAYS CITE YOUR UPDATES. -->
+<!-- SORT BY positions, squad numbers (if available), caps, goals, last name, first name -->
+<!-- NO LIVE UPDATES, WAIT UNTIL MATCHES FINISH -->
+<br>''[[Cap (sport)|Caps]] and [[Goal (sports)|goals]] are updated as of July 6, 2026 after the match against [[Belgium national football team|Belgium]].''
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name={{sortname|Matt|Turner|dab=soccer}}|age={{birth date and age|1994|6|24}}|caps=55|goals=0|club=[[New England Revolution]]|clubnat=USA}}
+{{nat fs g player|no=24|pos=GK|name={{sortname|Matt|Freese}}|age={{birth date and age|1998|9|2}}|caps=19|goals=0|club=[[New York City FC|New York City]]|clubnat=USA}}
+{{nat fs g player|no=25|pos=GK|name={{sortname|Chris|Brady|dab=soccer}}|age={{birth date and age|2004|3|3}}|caps=1|goals=0|club=[[Chicago Fire FC|Chicago Fire]]|clubnat=USA}}
+{{nat fs break}}
+{{nat fs g player|no=2|pos=DF|name={{sortname|Sergiño|Dest}}|age={{birth date and age|2000|11|3}}|caps=44|goals=3|club=[[PSV Eindhoven|PSV]]|clubnat=NED}}
+{{nat fs g player|no=3|pos=DF|name={{sortname|Chris|Richards|dab=soccer}}|age={{birth date and age|2000|3|28}}|caps=40|goals=3|club=[[Crystal Palace F.C.|Crystal Palace]]|clubnat=ENG}}
+{{nat fs g player|no=5|pos=DF|name={{sortname|Antonee|Robinson}}|age={{birth date and age|1997|8|8}}|caps=58|goals=5|club=[[Fulham F.C.|Fulham]]|clubnat=ENG}}
+{{nat fs g player|no=6|pos=DF|name={{sortname|Auston|Trusty}}|age={{birth date and age|1998|8|12}}|caps=10|goals=1|club=[[Celtic F.C.|Celtic]]|clubnat=SCO}}
+{{nat fs g player|no=12|pos=DF|name={{sortname|Miles|Robinson|dab=soccer}}|age={{birth date and age|1997|3|14}}|caps=41|goals=3|club=[[FC Cincinnati]]|clubnat=USA}}
+{{nat fs g player|no=13|pos=DF|name={{sortname|Tim|Ream}}|age={{birth date and age|1987|10|5}}|other=[[Captain (association football)|Captain]]|caps=86|goals=1|club=[[Charlotte FC]]|clubnat=USA}}
+{{nat fs g player|no=16|pos=DF|name={{sortname|Alex|Freeman}}|age={{birth date and age|2004|8|9}}|caps=22|goals=3|club=[[Villarreal CF|Villarreal]]|clubnat=ESP}}
+{{nat fs g player|no=18|pos=DF|name={{sortname|Max|Arfsten}}|age={{birth date and age|2001|4|19}}|caps=21|goals=1|club=[[Columbus Crew]]|clubnat=USA}}
+{{nat fs g player|no=22|pos=DF|name={{sortname|Mark|McKenzie|dab=soccer, born 1999}}|age={{birth date and age|1999|2|25}}|caps=30|goals=0|club=[[Toulouse FC|Toulouse]]|clubnat=FRA}}
+{{nat fs g player|no=23|pos=DF|name={{sortname|Joe|Scally}}|age={{birth date and age|2002|12|31}}|caps=28|goals=0|club=[[Borussia Mönchengladbach]]|clubnat=GER}}
+{{nat fs break}}
+{{nat fs g player|no=4|pos=MF|name={{sortname|Tyler|Adams}}|age={{birth date and age|1999|2|14}}|caps=58|goals=2|club=[[AFC Bournemouth|Bournemouth]]|clubnat=ENG}}
+{{nat fs g player|no=7|pos=MF|name={{sortname|Giovanni|Reyna}}|age={{birth date and age|2002|11|13}}|caps=43|goals=10|club=[[Borussia Mönchengladbach]]|clubnat=GER}}
+{{nat fs g player|no=8|pos=MF|name={{sortname|Weston|McKennie}}|age={{birth date and age|1998|8|28}}|caps=71|goals=12|club=[[Juventus FC|Juventus]]|clubnat=ITA}}
+{{nat fs g player|no=14|pos=MF|name={{sortname|Sebastian|Berhalter}}|age={{birth date and age|2001|5|10}}|caps=18|goals=2|club=[[Vancouver Whitecaps FC|Vancouver Whitecaps]]|clubnat=CAN}}
+{{nat fs g player|no=15|pos=MF|name={{sortname|Cristian|Roldan}}|age={{birth date and age|1995|6|3}}|caps=47|goals=0|club=[[Seattle Sounders FC|Seattle Sounders]]|clubnat=USA}}
+{{nat fs g player|no=17|pos=MF|name={{sortname|Malik|Tillman}}|age={{birth date and age|2002|5|28}}|caps=35|goals=5|club=[[Bayer 04 Leverkusen|Bayer Leverkusen]]|clubnat=GER}}
+{{nat fs break}}
+{{nat fs g player|no=9|pos=FW|name={{sortname|Ricardo|Pepi}}|age={{birth date and age|2003|1|9}}|caps=42|goals=13|club=[[PSV Eindhoven|PSV]]|clubnat=NED}}
+{{nat fs g player|no=10|pos=FW|name={{sortname|Christian|Pulisic}}|age={{birth date and age|1998|9|18}}|caps=90|goals=33|club=[[AC Milan]]|clubnat=ITA}}
+{{nat fs g player|no=11|pos=FW|name={{sortname|Brenden|Aaronson}}|age={{birth date and age|2000|10|22}}|caps=59|goals=9|club=[[Leeds United F.C.|Leeds United]]|clubnat=ENG}}
+{{nat fs g player|no=19|pos=FW|name={{sortname|Haji|Wright}}|age={{birth date and age|1998|3|27}}|caps=22|goals=7|club=[[Coventry City F.C.|Coventry City]]|clubnat=ENG}}
+{{nat fs g player|no=20|pos=FW|name={{sortname|Folarin|Balogun}}|age={{birth date and age|2001|7|3}}|caps=31|goals=12|club=[[AS Monaco FC|Monaco]]{{efn|name=mon|[[AS Monaco FC|Monaco]] is a Monégasque club playing in the [[French football league system]].}}|clubnat=FRA}}
+{{nat fs g player|no=21|pos=FW|name={{sortname|Timothy|Weah}}|age={{birth date and age|2000|2|22}}|caps=53|goals=7|club=[[Olympique de Marseille|Marseille]]|clubnat=FRA}}
+{{nat fs g player|no=26|pos=FW|name={{sortname|Alejandro|Zendejas}}|age={{birth date and age|1998|2|7}}|caps=15|goals=2|club=[[Club América|América]]|clubnat=MEX}}
+{{nat fs end}}
+
+===Recent call-ups===
+The following players have also been called up for the team within the last twelve months.
+{{nat fs r start}}
+{{nat fs r player|no=|pos=GK|name={{sortname|Patrick|Schulte}}|age={{Birth date and age|2001|03|13}}|caps=3|goals=0|club=[[Columbus Crew]]|clubnat=USA|latest=v. {{#invoke:flag|fb|POR}}; March 31, 2026}}
+{{nat fs r player|no=|pos=GK|name={{sortname|Roman|Celentano}}|age={{birth date and age|2000|9|14}}|caps=0|goals=0|club=[[FC Cincinnati]]|clubnat=USA|latest=v. {{#invoke:flag|fb|BEL}}; March 28, 2026<sup>WD</sup>}}
+{{nat fs r player|no=|pos=GK|name={{sortname|Jonathan|Klinsmann}}|age={{birth date and age|1997|4|8}}|caps=0|goals=0|club=[[Cesena FC|Cesena]]|clubnat=ITA|latest=v. {{#invoke:flag|fb|URU}}; November 18, 2025}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=DF|name={{sortname|John|Tolkin}}|age={{birth date and age|2002|7|31}}|caps=10|goals=0|club=[[Holstein Kiel]]|clubnat=GER|latest=v. {{#invoke:flag|fb|URU}}; November 18, 2025}}
+{{nat fs r player|no=|pos=DF|name={{sortname|Cameron|Carter-Vickers}}|age={{birth date and age|1997|12|31}}|caps=19|goals=0|club=[[Celtic F.C.|Celtic]]|clubnat=SCO|latest=v. {{#invoke:flag|fb|AUS}}; October 14, 2025}}
+{{nat fs r player|no=|pos=DF|name={{sortname|Nathan|Harriel}}|age={{birth date and age|2001|4|23}}|caps=3|goals=0|club=[[Philadelphia Union]]|clubnat=USA|latest=v. {{#invoke:flag|fb|JPN}}; September 9, 2025}}
+{{nat fs r player|no=|pos=DF|name={{sortname|Tristan|Blackmon}}|age={{birth date and age|1996|8|12}}|caps=2|goals=0|club=[[Vancouver Whitecaps FC|Vancouver Whitecaps]]|clubnat=CAN|latest=v. {{#invoke:flag|fb|JPN}}; September 9, 2025}}
+{{nat fs r player|no=|pos=DF|name={{sortname|Noahkai|Banks}}|age={{birth date and age|2006|12|1}}|caps=0|goals=0|club=[[FC Augsburg]]|clubnat=GER|latest=v. {{#invoke:flag|fb|JPN}}; September 9, 2025}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=MF|name={{sortname|Tanner|Tessmann}}|age={{birth date and age|2001|9|24}}|caps=14|goals=1|club=[[Olympique Lyonnais|Lyon]]|clubnat=FRA|latest=v. {{#invoke:flag|fb|POR}}; March 31, 2026}}
+{{nat fs r player|no=|pos=MF|name={{sortname|Aidan|Morris}}|age={{birth date and age|2001|11|16}}|caps=14|goals=0|club=[[Middlesbrough F.C.|Middlesbrough]]|clubnat=ENG|latest=v. {{#invoke:flag|fb|POR}}; March 31, 2026}}
+{{nat fs r player|no=|pos=MF|name={{sortname|Johnny|Cardoso}}|age={{birth date and age|2001|9|20}}|caps=23|goals=0|club=[[Atlético Madrid]]|clubnat=ESP|latest=v. {{#invoke:flag|fb|BEL}}; March 28, 2026}}<sup>INJ</sup>
+{{nat fs r player|no=|pos=MF|name={{sortname|Diego|Luna|dab=soccer, born 2003}}|age={{birth date and age|2003|9|7}}|caps=18|goals=4|club=[[Real Salt Lake]]|clubnat=USA|latest=v. {{#invoke:flag|fb|URU}}; November 18, 2025}}
+{{nat fs r player|no=|pos=MF|name={{sortname|Timothy|Tillman}}|age={{birth date and age|1999|1|4}}|caps=3|goals=0|club=[[Los Angeles FC]]|clubnat=USA|latest=v. {{#invoke:flag|fb|URU}}; November 18, 2025}}<sup>INJ</sup>
+{{nat fs r player|no=|pos=MF|name={{sortname|Sean|Zawadzki}}|age={{birth date and age|2000|4|21}}|caps=1|goals=0|club=[[Columbus Crew]]|clubnat=USA|latest=v. {{#invoke:flag|fb|PAR}}; November 15, 2025}} <sup>INJ</sup>
+{{nat fs r player|no=|pos=MF|name={{sortname|James|Sands}}|age={{birth date and age|2000|7|6}}|caps=14|goals=0|club=[[FC St. Pauli]]|clubnat=GER|latest=v. {{#invoke:flag|fb|AUS}}; October 14, 2025}}
+{{nat fs r player|no=|pos=MF|name={{sortname|Luca|de la Torre}}|age={{birth date and age|1998|5|23}}|caps=32|goals=1|club=[[Charlotte FC]]|clubnat=USA|latest=v. {{#invoke:flag|fb|JPN}}; September 9, 2025}}
+{{nat fs r player|no=|pos=MF|name={{sortname|Jack|McGlynn}}|age={{birth date and age|2003|7|7}}|caps=13|goals=2|club=[[Houston Dynamo FC|Houston Dynamo]]|clubnat=USA|latest=v. {{#invoke:flag|fb|JPN}}; September 9, 2025}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=FW|name={{sortname|Patrick|Agyemang|dab=soccer, born 2000}}|age={{birth date and age|2000|11|7}}|caps=14|goals=6|club=[[Derby County F.C.|Derby County]]|clubnat=ENG|latest=v. {{#invoke:flag|fb|POR}}; March 31, 2026}}
+{{nat fs r player|no=|pos=FW|name={{sortname|Josh|Sargent}}|age={{birth date and age|2000|2|20}}|caps=29|goals=5|club=[[Toronto FC]]|clubnat=CAN|latest=v. {{#invoke:flag|fb|JPN}}; September 9, 2025}}
+{{nat fs r player|no=|pos=FW|name={{sortname|Damion|Downs}}|age={{birth date and age|2004|7|6}}|caps=6|goals=0|club=[[Southampton F.C.|Southampton]]|clubnat=ENG|latest=v. {{#invoke:flag|fb|JPN}}; September 9, 2025}}
+{{nat fs break}}
+
+;Notes
+*<sup>INJ</sup> = Injured
+*<sup>WD</sup> = Player withdrew from the squad due to non-injury issue
+<!--*<sup>PRE</sup> = Preliminary squad
+*<sup>NE</sup> = No longer eligible-->
+{{nat fs end}}
+
+==Individual records==
+{{Further|List of United States men's international soccer players}}
+{{updated|July 6, 2026}}.<!-- Please write the date in American English --><ref>{{cite web |last1=Mamrud |first1=Roberto |title=USA – Record International Players |url=https://www.rsssf.org/miscellaneous/usa-recintlp.html |website=RSSSF |access-date=February 2, 2023 |archive-date=December 6, 2022 |archive-url=https://web.archive.org/web/20221206151125/https://www.rsssf.org/miscellaneous/usa-recintlp.html |url-status=live }}</ref>
+:Players in '''bold''' are still active with the national team.
+
+===Most appearances===
+[[File:US delegation at 2015 FIFA Women's World Cup Final at BC Place 2015-07-05 (1) (Cobi Jones).jpg|thumb|right|[[Cobi Jones]] is the United States' most capped player with 164 appearances.]]
+
+{| class="wikitable sortable" style="text-align:center;"
+|-
+! style="width:30px;" sort-data- type="number"|Rank
+! style="width:150px; class=unsortable"|Player
+! style="width:50px;" sort-data- type="number"|Caps
+! style="width:50px;" sort-data- type="number"|Goals
+! style="width:100px;"|Career
+|-
+| 1 ||align=left| [[Cobi Jones]] || 164 || 15 || {{nowrap|1992–2004}}
+|-
+| 2 ||align=left| [[Landon Donovan]] || 157 || 57 || 2000–2014
+|-
+| 3 ||align=left| [[Michael Bradley (soccer)|Michael Bradley]] || 151 || 17 || 2006–2019
+|-
+| 4 ||align=left| [[Clint Dempsey]] || 141 || 57 || 2004–2017
+|-
+| 5 ||align=left| [[Jeff Agoos]] || 134 || 4 || 1988–2003
+|-
+| 6 ||align=left| [[Marcelo Balboa]] || 127 || 13 || 1988–2000
+|-
+| 7 ||align=left| [[DaMarcus Beasley]] || 126 || 17 || 2001–2017
+|-
+| 8 ||align=left| [[Tim Howard]] || 121 || 0 || 2002–2017
+|-
+| 9 ||align=left| [[Jozy Altidore]]|| 115|| 42 || 2007–2019
+|-
+| 10||align=left| [[Claudio Reyna]] || 112 || 8 || 1994–2006
+|}
+
+=== Top goalscorers ===
+
+{{multiple image
+| image1            = LandonDonovan 20060410.jpg
+| image2            = Clint Dempsey 2013.jpg
+| total_width       = 300
+| footer            = [[Landon Donovan]] and [[Clint Dempsey]] are the United States' joint all-time top scorers with 57 goals.
+}}
+
+{| class="wikitable sortable" style="text-align:center;"
+|-
+! style="width:30px;" sort-data- type="number"|Rank
+! style="width:150px; class=unsortable"|Player
+! style="width:50px;" sort-data- type="number"|Goals
+! style="width:50px;" sort-data- type="number"|Caps
+! style="width:50px;" sort-data- type="number"|Ratio
+! style="width:100px;"|Career
+|-
+| rowspan="2" | 1 ||align=left| [[Clint Dempsey]] || [[List of international goals scored by Clint Dempsey|57]] || 141|| {{#expr:57/141 round 2}} || {{nowrap|2004–2017}}
+|-
+| align=left| [[Landon Donovan]] || [[List of international goals scored by Landon Donovan|57]] || 157 || {{#expr:57/157 round 2}} || 2000–2014
+|-
+| 3 ||align=left| [[Jozy Altidore]] || 42 || 115 || {{#expr:42/115 round 2}} || 2007–2019
+|-
+| 4 ||align=left| [[Eric Wynalda]] || 34 || 106 || {{#expr:34/106 round 2}} || 1990–2000
+|-
+| 5 || align=left| '''[[Christian Pulisic]]''' || 33 || 90 || {{#expr:33/90 round 2}} || 2016–present
+|-
+| 6 ||align=left| [[Brian McBride]] || 30 || 95 || {{#expr:30/95 round 2}} || 1993–2006
+|-
+| 7 ||align=left| [[Joe-Max Moore]] || 24 || 100 || {{#expr:24/100 round 2}} || 1992–2002
+|-
+| 8 ||align=left| [[Bruce Murray (soccer)|Bruce Murray]] || 21 || 85 || {{#expr:21/85 round 2}} || 1985–1993
+|-
+| 9 ||align=left| [[Eddie Johnson (American soccer)|Eddie Johnson]] || 19 || 63 || {{#expr:19/63 round 2}} || 2004–2014
+|-
+| rowspan="3" | 10 ||align=left| [[Earnie Stewart]] || 17 || 101 || {{#expr:17/101 round 2}} || 1990–2004
+|-
+| align=left| [[DaMarcus Beasley]] || 17 || 126 || {{#expr:17/126 round 2}} || 2001–2017
+|-
+| align=left| [[Michael Bradley (soccer)|Michael Bradley]] || 17 || 151 || {{#expr:17/151 round 2}} || 2006–2019
+|}
+
+==Competitive record==
+{{further|:Category:United States men's national soccer team results}}
+{{see also|United States men's national soccer team results|United States men's national soccer team records and statistics}}
+
+The United States has competed at the [[FIFA World Cup]], the [[CONCACAF Gold Cup]], the [[CONCACAF Nations League]], and the [[Summer Olympics]]. The team has also played in the now-defunct [[FIFA Confederations Cup]], the [[Copa América]], as well as several minor tournaments.
+
+The best result for the United States in a World Cup tournament came in [[1930 FIFA World Cup|1930]] when it reached the semifinals. The team included six naturalized internationals, five of them from Scotland and one from England.<ref>{{cite web| url=http://www.phillysoccerpage.net/2014/03/19/the-us-at-the-1930-world-cup/| title=The US at the 1930 World Cup| publisher=The Philly Soccer Page| first=Ed| last=Farnsworth| date=March 19, 2014| access-date=August 20, 2014| archive-date=June 15, 2014| archive-url=https://web.archive.org/web/20140615045734/http://www.phillysoccerpage.net/2014/03/19/the-us-at-the-1930-world-cup/| url-status=live}}</ref> In the modern era, the team's best result came in [[2002 FIFA World Cup|2002]], when it reached the quarterfinals. Its worst World Cup tournament results in were group-stage eliminations in [[1990 FIFA World Cup|1990]], [[1998 FIFA World Cup|1998]], and [[2006 FIFA World Cup|2006]]; the team failed to qualify altogether for the final tournament in [[2018 FIFA World Cup|2018]]. The United States reached the round of 16 in [[1994 FIFA World Cup|1994]], [[2010 FIFA World Cup|2010]], [[2014 FIFA World Cup|2014]], [[2022 FIFA World Cup|2022]], and [[2026 FIFA World Cup|2026]].
+
+In the [[FIFA Confederations Cup|Confederations Cup]], the United States finished in third place in both [[1992 FIFA Confederations Cup|1992]] and [[1999 FIFA Confederations Cup|1999]], and were runner-up in [[2009 FIFA Confederations Cup|2009]]. The team appeared in its first intercontinental tournament final at the 2009 Confederations Cup,<ref>{{cite news| url=http://goal.blogs.nytimes.com/2009/06/28/match-tracking-confederation-cup-final-us-vs-brazil/| title=Match Tracking Confederations Cup Final: Brazil 3, U.S. 2| first=Jack| last=Bell| work=The New York Times| date=June 28, 2009| access-date=August 20, 2014| archive-date=April 15, 2014| archive-url=https://web.archive.org/web/20140415191146/http://goal.blogs.nytimes.com/2009/06/28/match-tracking-confederation-cup-final-us-vs-brazil/| url-status=live}}</ref> where it lost to [[Brazil national football team|Brazil]] 3–2 after leading 2–0 at halftime.
+
+The U.S. men's soccer team first played in the Summer Olympics in [[Football at the 1924 Summer Olympics|1924]]. From that tournament to [[Football at the 1980 Summer Olympics|1980]], only amateur and state-sponsored Eastern European players were allowed on Olympic teams. The Olympics became a full international tournament in 1984 after the [[International Olympic Committee|IOC]] allowed full national teams from outside [[FIFA]]'s strongest confederations of [[UEFA]] and [[CONMEBOL]]. Since [[Football at the 1992 Summer Olympics|1992]] the men's Olympic event has been age-restricted, to those 23 years and younger, with the exception (since 1996) of up to three overage players; participation has been by the [[United States men's national under-23 soccer team]].
+
+In regional competitions, the United States has won the [[CONCACAF Gold Cup]] seven times, with its most recent title in 2021.<ref>{{cite web| url=http://www.goldcup.org/en/article/united-states-v-jamaica-final-recap| title=U.S. edges Jamaica for sixth Gold Cup title| website=GoldCup.org| location=Santa Clara, California| date=July 27, 2017| access-date=July 27, 2017| archive-date=September 6, 2017| archive-url=https://web.archive.org/web/20170906051444/http://www.goldcup.org/en/article/united-states-v-jamaica-final-recap| url-status=dead}}</ref> The team has won three of the four [[CONCACAF Nations League]] editions that have been played so far, including the inaugural 2021 final.<ref>{{cite web|url=https://www.concacaf.com/nations-league/news/u-s-edge-mexico-in-thrilling-style-to-win-first-cnlf/|title=U.S. edge Mexico in thrilling style to win first CNLF|work=Concacaf |date=June 6, 2021|access-date=November 1, 2021|archive-date=October 29, 2021|archive-url=https://web.archive.org/web/20211029103539/https://www.concacaf.com/nations-league/news/u-s-edge-mexico-in-thrilling-style-to-win-first-cnlf/|url-status=live}}</ref> Its best finish at the [[Copa América]] was fourth place at the [[1995 Copa America|1995]] and [[Copa América Centenario|2016]] editions,<ref>{{cite news| url=http://goal.blogs.nytimes.com/2012/10/24/2016-copa-america-in-america/?_php=true&_type=blogs&_r=0| title=2016 Copa América in the U.S.| first=Jack| last=Bell| work=The New York Times| date=October 24, 2012| access-date=August 20, 2014| archive-date=May 18, 2015| archive-url=https://web.archive.org/web/20150518101718/http://goal.blogs.nytimes.com/2012/10/24/2016-copa-america-in-america/?_php=true&_type=blogs&_r=0| url-status=live}}</ref><ref>{{cite news| url=http://www.ussoccer.com/stories/2016/06/26/03/33/160625-mnt-usa-defeated-by-colombia-in-2016-copa-america-centenario-third-place-match| title=USA Defeated 1–0 by Colombia in 2016 Copa America Centenario Third Place Match|publisher=U.S. Soccer Federation| date=June 25, 2016| access-date=June 28, 2016| archive-date=June 28, 2016| archive-url=https://web.archive.org/web/20160628210259/http://www.ussoccer.com/stories/2016/06/26/03/33/160625-mnt-usa-defeated-by-colombia-in-2016-copa-america-centenario-third-place-match| url-status=live}}</ref> while it competed as the host nation in [[2024 Copa América|2024]], failing to advance past the group stage.
+
+===FIFA World Cup===
+{{Main|United States at the FIFA World Cup}}
+{{United States FIFA World Cup record}}
+{| class="wikitable collapsible collapsed" style="text-align: center;font-size:90%;"
+|-
+!colspan=2|[[FIFA World Cup]] history
+|-
+!First match
+|{{#invoke:flag|fb-rt|USA|1912}} 3–0 {{#invoke:flag|fb|BEL}}<br>(July 13, 1930; [[Montevideo]], Uruguay)
+|-
+!Biggest win
+|{{#invoke:flag|fb-rt|USA|1912}} 3–0 {{#invoke:flag|fb|BEL}}<br>(July 13, 1930; Montevideo, Uruguay)<br>{{#invoke:flag|fb-rt|USA|1912}} 3–0 {{#invoke:flag|fb|PAR|1842}}<br>(July 17, 1930; Montevideo, Uruguay)<br>{{#invoke:flag|fb-rt|USA}} 4–1 {{#invoke:flag|fb|PAR}}<br>(June 12, 2026; [[Inglewood, California|Inglewood]], United States)
+|-
+!Biggest defeat
+|{{#invoke:flag|fb|ITA|1861}} 7–1 {{#invoke:flag|fb-rt|USA|1912}}<br>(May 27, 1934; [[Rome]], Italy)
+|-
+!Best result
+|'''Third place''' ([[1930 FIFA World Cup|1930]])
+|-
+!Worst result
+|32nd – Group stage ([[1998 FIFA World Cup|1998]])
+|}
+
+===Olympic Games===
+{| class="wikitable" style="text-align: center;"
+|+
+!colspan="10"style="color:#002868; background:white;"|[[Football at the Summer Olympics|Olympic Games]] record
+!rowspan="26"style="color:#002868; background:white;"|
+!colspan="6"style="color:#002868; background:white;"|[[CONCACAF Men's Olympic Qualifying Championship|Qualification]] record
+|-
+!style="width:100px;"style="color:#002868; background:white;"|Year
+!style="width:100px;"style="color:#002868; background:white;"|Result
+!style="width:60px;"style="color:#002868; background:white;"|Position
+!style="width:30px;"style="color:#002868; background:white;"|{{Abbr|Pld|Games played}}
+!style="width:30px;"style="color:#002868; background:white;"|{{Abbr|W|Won}}
+!style="width:30px;"style="color:#002868; background:white;"|{{Abbr|D|Draw}}
+!style="width:30px;"style="color:#002868; background:white;"|{{Abbr|L|Lost}}
+!style="width:30px;"style="color:#002868; background:white;"|{{Abbr|GF|Goals for}}
+!style="width:30px;"style="color:#002868; background:white;"|{{Abbr|GA|Goals against}}
+!style="color:#002868; background:white;|Squad
+!style="color:#002868; background:white;"|{{Abbr|Pld|Games played}}
+!style="color:#002868; background:white;"|{{Abbr|W|Won}}
+!style="color:#002868; background:white;"|{{Abbr|D|Draw}}
+!style="color:#002868; background:white;"|{{Abbr|L|Lost}}
+!style="color:#002868; background:white;"|{{Abbr|GF|Goals for}}
+!style="color:#002868; background:white;"|{{Abbr|GA|Goals against}}
+|-
+|{{#invoke:flag|icon|FRA|1794}} [[Football at the 1900 Summer Olympics|1900]]
+|colspan="9"|''Did not enter''
+|- bgcolor="silver"
+|rowspan="2" style="border: 3px solid red"|{{#invoke:flag|icon|USA|1896}} [[Football at the 1904 Summer Olympics|1904]]
+|'''Silver'''
+|'''2nd'''
+|'''3'''
+|'''1'''
+|'''1'''
+|'''1'''
+|'''2'''
+|'''7'''
+|[[Football at the 1904 Summer Olympics – Men's team squads#United States – Christian Brothers College|Squad]]
+|- bgcolor="#c96"
+|'''Bronze'''
+|'''3rd'''
+|'''3'''
+|'''0'''
+|'''1'''
+|'''2'''
+|'''0'''
+|'''6'''
+|[[Football at the 1904 Summer Olympics – Men's team squads#United States – St. Rose Parish|Squad]]
+|-
+|{{#invoke:flag|icon|United Kingdom}} [[Football at the 1908 Summer Olympics|1908]]
+|colspan="9" rowspan="3"|''Did not enter''
+|-
+|{{#invoke:flag|icon|SWE}} [[Football at the 1912 Summer Olympics|1912]]
+|-
+|{{#invoke:flag|icon|BEL}} [[Football at the 1920 Summer Olympics|1920]]
+|-
+|{{#invoke:flag|icon|FRA|1794}} [[Football at the 1924 Summer Olympics|1924]]
+|Round of 16
+|12th
+|2
+|1
+|0
+|1
+|1
+|3
+|[[Football at the 1924 Summer Olympics – Men's team squads#United States|Squad]]
+|-
+|{{#invoke:flag|icon|NED}} [[Football at the 1928 Summer Olympics|1928]]
+|Round of 16
+|9th
+|1
+|0
+|0
+|1
+|2
+|11
+|[[Football at the 1928 Summer Olympics – Men's team squads#United States|Squad]]
+|-
+|{{#invoke:flag|icon|GER|1935}} [[Football at the 1936 Summer Olympics|1936]]
+|Round of 16
+|9th
+|1
+|0
+|0
+|1
+|0
+|1
+|[[Football at the 1936 Summer Olympics – Men's team squads#United States|Squad]]
+|-
+|{{#invoke:flag|icon|United Kingdom}} [[Football at the 1948 Summer Olympics|1948]]
+|Round of 16
+|11th
+|1
+|0
+|0
+|1
+|0
+|9
+|[[Football at the 1948 Summer Olympics – Men's team squads#United States|Squad]]
+|-
+|{{#invoke:flag|icon|FIN}} [[Football at the 1952 Summer Olympics|1952]]
+|Round of 32
+|17th
+|1
+|0
+|0
+|1
+|0
+|8
+|[[Football at the 1952 Summer Olympics – Men's team squads#United States|Squad]]
+|-
+|{{#invoke:flag|icon|AUS}} [[Association football at the 1956 Summer Olympics|1956]]
+|Quarterfinals
+|5th
+|1
+|0
+|0
+|1
+|1
+|9
+|[[Association football at the 1956 Summer Olympics – Men's team squads#United States|Squad]]
+|colspan="6"|[[Association football at the 1956 Summer Olympics – Men's qualification#Americas|''Walkover'']]
+|-
+|{{#invoke:flag|icon|ITA}} [[Football at the 1960 Summer Olympics|1960]]
+|colspan="9" rowspan="3"|''Did not qualify''
+|2
+|0
+|1
+|1
+|1
+|3
+|-
+|{{#invoke:flag|icon|JAP|1947}} [[Football at the 1964 Summer Olympics|1964]]
+|3
+|1
+|0
+|2
+|7
+|7
+|-
+|{{#invoke:flag|icon|MEX}} [[Football at the 1968 Summer Olympics|1968]]
+|colspan="6"|''[[1968 CONCACAF Pre-Olympic Tournament qualification|Did not qualify]]''
+|-
+|{{#invoke:flag|icon|West Germany}} [[Football at the 1972 Summer Olympics|1972]]
+|Group stage
+|14th
+|3
+|0
+|1
+|2
+|0
+|10
+|[[Football at the 1972 Summer Olympics – Men's team squads#United States|Squad]]
+|6
+|2
+|3
+|1
+|10
+|9
+|-
+|{{#invoke:flag|icon|CAN}} [[Football at the 1976 Summer Olympics|1976]]
+|colspan="9"|''Did not qualify''
+|colspan="6"|''[[1976 CONCACAF Pre-Olympic Tournament qualification|Did not qualify]]''
+|-
+|{{#invoke:flag|icon|Soviet Union|1955}} [[Football at the 1980 Summer Olympics|1980]]
+|colspan="9"|''Qualified, later [[1980 Summer Olympics boycott|withdrew]]''
+|4
+|2
+|1
+|1
+|6
+|8
+|-
+|style="border: 3px solid red"|{{#invoke:flag|icon|USA}} [[Football at the 1984 Summer Olympics|1984]]
+|Group stage
+|9th
+|3
+|1
+|1
+|1
+|4
+|2
+|[[Football at the 1984 Summer Olympics – Men's team squads#United States|Squad]]
+|colspan="6"|''Qualified as hosts''
+|-
+|{{#invoke:flag|icon|KOR|1984}} [[Football at the 1988 Summer Olympics|1988]]
+|Group stage
+|12th
+|3
+|0
+|2
+|1
+|3
+|5
+|[[Football at the 1988 Summer Olympics – Men's team squads#United States|Squad]]
+|4
+|4
+|0
+|0
+|13
+|4
+|-
+|Since [[Football at the 1992 Summer Olympics|1992]]||colspan=9|''The [[United States men's national under-23 soccer team|under-23 team]] participated''
+|colspan="6"|''[[1992 CONCACAF Pre-Olympic Tournament|1992 Pre-Olympic Tournament]]''
+|-
+!style="color:#002868; background:white;"|Total ||style="color:#002868; background:white;"|Silver medal||style="color:#002868; background:white;"|10/19 ||style="color:#002868; background:white;"|22 ||style="color:#002868; background:white;"|3 ||style="color:#002868; background:white;"|6 ||style="color:#002868; background:white;"|13 ||style="color:#002868; background:white;"|13 ||style="color:#002868; background:white;"|71
+!style="color:#002868; background:white;"|—
+!style="color:#002868; background:white;"|19
+!style="color:#002868; background:white;"|9
+!style="color:#002868; background:white;"|5
+!style="color:#002868; background:white;"|5
+!style="color:#002868; background:white;"|37
+!style="color:#002868; background:white;"|31
+|}
+{| class="wikitable collapsible collapsed" style="text-align: center;font-size:90%;"
+|-
+!colspan=2|Olympic Games history
+|-
+!First match
+|{{#invoke:flag|icon|CAN|1868}} [[Galt F.C.]] 7–0 [[Christian Brothers Cadets men's soccer|Christian Brothers College]] {{#invoke:flag|icon|USA|1896}}<br>(November 16, 1904; [[St. Louis]], United States)
+|-
+!Biggest win
+|{{#invoke:flag|fb-rt|USA}} 3–0 {{#invoke:flag|fb|CRC}}<br>(July 29, 1984; [[Stanford, California|Stanford]], United States)
+|-
+!Biggest defeat
+|{{#invoke:flag|fb|ARG}} 11–2 {{#invoke:flag|fb-rt|USA}}<br>(May 27, 1928; [[Amsterdam]], Netherlands)<br>{{#invoke:flag|fb|ITA}} 9–0 {{#invoke:flag|fb-rt|USA}}<br>(August 2, 1948; [[London]], United Kingdom)
+|-
+!Best result
+|'''Silver medal''' ([[Football at the 1904 Summer Olympics|1904]])
+|-
+!Worst result
+|17th – Round of 32 ([[Football at the 1952 Summer Olympics|1952]])
+|}
+
+===CONCACAF Gold Cup===
+{{main|United States at the CONCACAF Gold Cup}}
+<!-- Do not add rows for future tournaments that will not happen within the next 12 months -->
+{| class="wikitable" style="text-align: center;"
+|+
+!colspan="10" style="color:#002868; background:white;"|[[CONCACAF Championship]] / [[CONCACAF Gold Cup|Gold Cup]] record
+!rowspan="31" style="color:#002868; background:white;"|
+!colspan="6" style="color:#002868; background:white;"|[[CONCACAF Gold Cup qualification|Qualification]] record
+|-
+!style="color:#002868; background:white;"|Year
+!style="color:#002868; background:white;"|Result
+!style="color:#002868; background:white;"|Position
+!style="color:#002868; background:white;"|{{Abbr|Pld|Games played}}
+!style="color:#002868; background:white;"|{{Abbr|W|Won}}
+!style="color:#002868; background:white;"|{{Abbr|D|Draw}}
+!style="color:#002868; background:white;"|{{Abbr|L|Lost}}
+!style="color:#002868; background:white;"|{{Abbr|GF|Goals for}}
+!style="color:#002868; background:white;"|{{Abbr|GA|Goals against}}
+! style="color:#002868; background:white;"|Squad
+!style="color:#002868; background:white;"|{{Abbr|Pld|Games played}}
+!style="color:#002868; background:white;"|{{Abbr|W|Won}}
+!style="color:#002868; background:white;"|{{Abbr|D|Draw}}
+!style="color:#002868; background:white;"|{{Abbr|L|Lost}}
+!style="color:#002868; background:white;"|{{Abbr|GF|Goals for}}
+!style="color:#002868; background:white;"|{{Abbr|GA|Goals against}}
+|-
+||{{#invoke:flag|icon|SLV}} [[1963 CONCACAF Championship|1963]]||colspan="9" rowspan="3"|''Did not enter''
+|colspan="6" rowspan="3"|''Did not enter''
+|-
+||{{#invoke:flag|icon|GUA}} [[1965 CONCACAF Championship|1965]]
+|-
+||{{#invoke:flag|icon|HON|1949}} [[1967 CONCACAF Championship|1967]]
+|-
+||{{#invoke:flag|icon|CRC}} [[1969 CONCACAF Championship|1969]]||colspan=9|''Did not qualify''
+|2
+|0
+|0
+|2
+|0
+|3
+|-
+||{{#invoke:flag|icon|TRI}} [[1971 CONCACAF Championship|1971]]||colspan=9|''Did not enter''
+|colspan="6"|''Did not enter''
+|-
+||{{#invoke:flag|icon|HAI|1964}} [[1973 CONCACAF Championship|1973]]||rowspan=3 colspan=9|''Did not qualify''
+|4
+|0
+|1
+|3
+|6
+|10
+|-
+||{{#invoke:flag|icon|MEX}} [[1977 CONCACAF Championship|1977]]
+|4
+|1
+|2
+|1
+|3
+|4
+|-
+||{{#invoke:flag|icon|HON|1949}} [[1981 CONCACAF Championship|1981]]
+|4
+|1
+|1
+|2
+|4
+|8
+|-
+|[[1985 CONCACAF Championship|1985]]||Group stage||6th||4||2||1||1||4||3
+|[[1985 CONCACAF Championship squads|Squad]]
+|2
+|1
+|1
+|0
+|4
+|0
+|-bgcolor=silver
+|[[1989 CONCACAF Championship|1989]]||'''Runners-up'''||'''2nd'''||'''8'''||'''4'''||'''3'''||'''1'''||'''6'''||'''3'''
+|[[1989 CONCACAF Championship squads|Squad]]
+|bgcolor="#f8f9fa"|2
+|bgcolor="#f8f9fa"|1
+|bgcolor="#f8f9fa"|1
+|bgcolor="#f8f9fa"|0
+|bgcolor="#f8f9fa"|5
+|bgcolor="#f8f9fa"|1
+|-bgcolor=gold
+|style="border: 3px solid red"|{{#invoke:flag|icon|USA}} [[1991 CONCACAF Gold Cup|1991]]||'''[[1991 CONCACAF Gold Cup final|Champions]]'''||'''1st'''||'''5'''||'''4'''||'''1'''||'''0'''||'''10'''||'''3'''||[[1991 CONCACAF Gold Cup squads#United States|Squad]]
+| colspan="6" rowspan="14" bgcolor="#f8f9fa" | ''Qualified automatically''
+|-bgcolor=silver
+|style="border: 3px solid red"|{{#invoke:flag|icon|MEX}} {{#invoke:flag|icon|USA}} [[1993 CONCACAF Gold Cup|1993]]||'''[[1993 CONCACAF Gold Cup final|Runners-up]]'''||'''2nd'''||'''5'''||'''4'''||'''0'''||'''1'''||'''5'''||'''5'''||[[1993 CONCACAF Gold Cup squads#United States|Squad]]
+|-bgcolor=#c96
+|style="border: 3px solid red"|{{#invoke:flag|icon|USA}} [[1996 CONCACAF Gold Cup|1996]]||'''Third place'''||style="background:#c96;"|'''3rd'''||'''4'''||'''3'''||'''0'''||'''1'''||'''8'''||'''3'''||[[1996 CONCACAF Gold Cup squads#United States|Squad]]
+|-bgcolor=silver
+|style="border: 3px solid red"|{{#invoke:flag|icon|USA}} [[1998 CONCACAF Gold Cup|1998]]||'''[[1998 CONCACAF Gold Cup final|Runners-up]]'''||style="background:silver;"|'''2nd'''||'''4'''||'''3'''||'''0'''||'''1'''||'''6'''||'''2'''||[[1998 CONCACAF Gold Cup squads#United States|Squad]]
+|-
+|style="border: 3px solid red"|{{#invoke:flag|icon|USA}} [[2000 CONCACAF Gold Cup|2000]]||Quarterfinals||5th||3||2||1||0||6||2||[[2000 CONCACAF Gold Cup squads#United States|Squad]]
+|-bgcolor=gold
+|style="border: 3px solid red"|{{#invoke:flag|icon|USA}} [[2002 CONCACAF Gold Cup|2002]]||'''[[2002 CONCACAF Gold Cup final|Champions]] '''||'''1st'''||'''5'''||'''4'''||'''1'''||'''0'''||'''9'''||'''1'''||[[2002 CONCACAF Gold Cup squads#United States|Squad]]
+|-bgcolor=#c96
+|style="border: 3px solid red"|{{#invoke:flag|icon|MEX}} {{#invoke:flag|icon|USA}} [[2003 CONCACAF Gold Cup|2003]]||'''Third place'''||'''3rd'''||'''5'''||'''4'''||'''0'''||'''1'''||'''13'''||'''4'''||[[2003 CONCACAF Gold Cup squads#United States|Squad]]
+|-bgcolor=gold
+|style="border: 3px solid red"|{{#invoke:flag|icon|USA}} [[2005 CONCACAF Gold Cup|2005]]
+||'''[[2005 CONCACAF Gold Cup final|Champions]]'''
+||'''1st'''
+||'''6'''
+||'''4'''
+||'''2'''
+||'''0'''
+||'''11'''
+||'''3'''
+||[[2005 CONCACAF Gold Cup squads#United States|Squad]]
+|-bgcolor=gold
+|style="border: 3px solid red"|{{#invoke:flag|icon|USA}} [[2007 CONCACAF Gold Cup|2007]]
+||'''[[2007 CONCACAF Gold Cup final|Champions]]'''
+||'''1st'''
+||'''6'''
+||'''6'''
+||'''0'''
+||'''0'''
+||'''13'''
+||'''3'''
+||[[2007 CONCACAF Gold Cup squads#United States|Squad]]
+|-bgcolor=silver
+|style="border: 3px solid red"|{{#invoke:flag|icon|USA}} [[2009 CONCACAF Gold Cup|2009]]
+||'''[[2009 CONCACAF Gold Cup final|Runners-up]]'''
+||'''2nd'''
+||'''6'''
+||'''4'''
+||'''1'''
+||'''1'''
+||'''12'''
+||'''8'''
+||[[2009 CONCACAF Gold Cup squads#United States|Squad]]
+|-bgcolor=silver
+|style="border: 3px solid red"|{{#invoke:flag|icon|USA}} [[2011 CONCACAF Gold Cup|2011]]
+||'''[[2011 CONCACAF Gold Cup final|Runners-up]]'''
+||'''2nd'''
+||'''6'''
+||'''4'''
+||'''0'''
+||'''2'''
+||'''9'''
+||'''6'''
+||[[2011 CONCACAF Gold Cup squads#United States|Squad]]
+|-bgcolor=gold
+|style="border: 3px solid red"|{{#invoke:flag|icon|USA}} [[2013 CONCACAF Gold Cup|2013]]
+||'''[[2013 CONCACAF Gold Cup final|Champions]]'''
+||'''1st'''
+||'''6'''
+||'''6'''
+||'''0'''
+||'''0'''
+||'''20'''
+||'''4'''
+||[[2013 CONCACAF Gold Cup squads#United States|Squad]]
+|-bgcolor=#9acdff
+|style="border: 3px solid red"|{{#invoke:flag|icon|CAN}} {{#invoke:flag|icon|USA}} [[2015 CONCACAF Gold Cup|2015]]||'''Fourth place'''||'''4th'''||'''6'''||'''3'''||'''2'''||'''1'''||'''12'''||'''5'''||[[2015 CONCACAF Gold Cup squads#United States|Squad]]
+|-bgcolor=gold
+|style="border: 3px solid red"|{{#invoke:flag|icon|USA}} [[2017 CONCACAF Gold Cup|2017]]||'''[[2017 CONCACAF Gold Cup final|Champions]]'''||'''1st'''||'''6'''||'''5'''||'''1'''||'''0'''||'''13'''||'''4'''||[[2017 CONCACAF Gold Cup squads#United States|Squad]]
+|-bgcolor=silver
+|style="border: 3px solid red"|{{#invoke:flag|icon|Costa Rica}} {{#invoke:flag|icon|Jamaica}} {{#invoke:flag|icon|USA}} [[2019 CONCACAF Gold Cup|2019]]
+||'''[[2019 CONCACAF Gold Cup final|Runners-up]]'''
+||'''2nd'''
+||'''6'''
+||'''5'''
+||'''0'''
+||'''1'''
+||'''15'''
+||'''2'''
+||[[2019 CONCACAF Gold Cup squads#United States|Squad]]
+| colspan="6" bgcolor="#f8f9fa"|''[[2018 FIFA World Cup qualification – CONCACAF fourth round#Group C|CONCACAF fourth round]]''
+|-bgcolor=gold
+|style="border: 3px solid red"|{{#invoke:flag|icon|USA}} [[2021 CONCACAF Gold Cup|2021]]
+|'''[[2021 CONCACAF Gold Cup final|Champions]]'''||'''1st'''||'''6'''||'''6'''||'''0'''||'''0'''||'''11'''||'''1'''||[[2021 CONCACAF Gold Cup squads#United States|Squad]]
+| colspan="6" bgcolor="#f8f9fa"|''[[2019–20 CONCACAF Nations League A#Group A|2019–20 CONCACAF Nations League]]''
+|-bgcolor=#9acdff
+|style="border: 3px solid red"|{{#invoke:flag|icon|Canada}} {{#invoke:flag|icon|USA}} [[2023 CONCACAF Gold Cup|2023]]||'''Semifinals'''||'''4th'''||'''5'''||'''2'''||'''3'''||'''0'''||'''16'''||'''4'''||[[2023 CONCACAF Gold Cup squads#United States|Squad]]
+| colspan="6" bgcolor="#f8f9fa"|''[[2022–23 CONCACAF Nations League A#Group D|2022–23 CONCACAF Nations League]]''
+|-bgcolor=silver
+|style="border: 3px solid red"|{{#invoke:flag|icon|Canada}} {{#invoke:flag|icon|USA}} [[2025 CONCACAF Gold Cup|2025]]
+|'''[[2025 CONCACAF Gold Cup final|Runners-up]]'''||'''2nd'''||'''6'''||'''4'''||'''1'''||'''1'''||'''13'''||'''6'''||[[2025 CONCACAF Gold Cup squads#United States|Squad]]
+| colspan="6" bgcolor="#f8f9fa" |''[[2024–25 CONCACAF Nations League A#Quarter-finals|2024–25 CONCACAF Nations League]]''
+|-
+!style="color:#002868; background:white;"|Total
+!style="color:#002868; background:white;"|7 Titles
+!style="color:#002868; background:white;"|20/28
+!style="color:#002868; background:white;"|108
+!style="color:#002868; background:white;"|79
+!style="color:#002868; background:white;"|17
+!style="color:#002868; background:white;"|12
+!style="color:#002868; background:white;"|212
+!style="color:#002868; background:white;"|72
+!style="color:#002868; background:white;"|—
+!style="color:#002868; background:white;"|18
+!style="color:#002868; background:white;"|4
+!style="color:#002868; background:white;"|6
+!style="color:#002868; background:white;"|8
+!style="color:#002868; background:white;"|22
+!style="color:#002868; background:white;"|26
+|}
+{| class="wikitable collapsible collapsed" style="text-align: center;font-size:90%;"
+|-
+!colspan=2|CONCACAF Championship / Gold Cup history
+|-
+!First match
+|{{#invoke:flag|fb|TRI}} 1–2 {{#invoke:flag|fb-rt|USA}}<br>(May 15, 1985; [[St. Louis]], United States)
+|-
+!Biggest win
+|{{#invoke:flag|fb-rt|USA}} 6–0 {{#invoke:flag|fb|Cuba}}<br>(July 18, 2015; [[Baltimore]], United States)<br>{{#invoke:flag|fb-rt|USA}} 6–0 {{#invoke:flag|fb|TRI}}<br>(June 22, 2019; [[Cleveland]], United States)<br>{{#invoke:flag|fb-rt|USA}} 6–0 {{#invoke:flag|fb|SKN}}<br>(June 28, 2023; [[St. Louis]], United States)<br>{{#invoke:flag|fb-rt|USA}} 6–0 {{#invoke:flag|fb|TRI}}<br>(July 2, 2023; [[Charlotte, North Carolina|Charlotte]], United States)
+|-
+!Biggest defeat
+|{{#invoke:flag|fb-rt|USA}} 0–5 {{#invoke:flag|fb|MEX}}<br />(July 26, 2009; [[East Rutherford]], United States)
+|-
+!Best result
+|'''Champions''' ([[1991 CONCACAF Gold Cup|1991]], [[2002 CONCACAF Gold Cup|2002]], [[2005 CONCACAF Gold Cup|2005]], [[2007 CONCACAF Gold Cup|2007]], [[2013 CONCACAF Gold Cup|2013]], [[2017 CONCACAF Gold Cup|2017]], [[2021 CONCACAF Gold Cup|2021]])
+|-
+!Worst result
+|Group stage ([[1985 CONCACAF Championship|1985]])
+|}
+
+===CONCACAF Nations League===
+{| class="wikitable" style="text-align: center;"
+|-
+!colspan="21" style="color:#002868; background:white;"|[[CONCACAF Nations League]] record
+|-
+!colspan="11" style="color:#002868; background:white;"|League phase
+!rowspan="7" style="color:#002868; background:white;"|
+!style="color:#002868; background:white;" colspan=9|Final phase
+|-
+!style="color:#002868; background:white;"|Season
+!style="color:#002868; background:white;"|Division
+!style="color:#002868; background:white;"|Group
+!style="color:#002868; background:white;"|Seed
+!style="color:#002868; background:white;"|{{Tooltip|Pld|Games played}}
+!style="color:#002868; background:white;"|{{Tooltip|W|Won}}
+!style="color:#002868; background:white;"|{{Tooltip|D|Drawn}}
+!style="color:#002868; background:white;"|{{Tooltip|L|Lost}}
+!style="color:#002868; background:white;"|{{Tooltip|GF|Goals for}}
+!style="color:#002868; background:white;"|{{Tooltip|GA|Goals against}}
+!style="color:#002868; background:white;"|{{Tooltip|P/R|Promotion/Relegation at the end of season}}
+!style="color:#002868; background:white;"|Finals
+!style="color:#002868; background:white;"|Result
+!style="color:#002868; background:white;"|{{Tooltip|Pld|Games played}}
+!style="color:#002868; background:white;"|{{Tooltip|W|Won}}
+!style="color:#002868; background:white;"|{{Tooltip|D|Drawn}}
+!style="color:#002868; background:white;"|{{Tooltip|L|Lost}}
+!style="color:#002868; background:white;"|{{Tooltip|GF|Goals for}}
+!style="color:#002868; background:white;"|{{Tooltip|GA|Goals against}}
+!style="color:#002868; background:white;"|{{Tooltip|Squad|Finals Squad Only}}
+|-bgcolor=gold
+| [[2019–20 CONCACAF Nations League|2019–20]]
+|[[2019–20 CONCACAF Nations League A|A]]
+|[[2019–20 CONCACAF Nations League A#Group A|A]]
+|'''3rd'''
+|'''4'''
+|'''3'''
+|'''0'''
+|'''1'''
+|'''15'''
+|'''3'''
+|{{same position}}
+|style="border: 3px solid red"|{{#invoke:flag|icon|USA}} [[2021 CONCACAF Nations League Finals|2021]]
+|'''Champions'''
+|'''2'''
+|'''2'''
+|'''0'''
+|'''0'''
+|'''4'''
+|'''2'''
+|[[2021 CONCACAF Nations League Finals squads#United States|Squad]]
+|-bgcolor=gold
+|[[2022–23 CONCACAF Nations League|2022–23]]
+|[[2022–23 CONCACAF Nations League A|A]]
+|[[2022–23 CONCACAF Nations League A#Group D|D]]
+|'''1st'''
+|'''4'''
+|'''3'''
+|'''1'''
+|'''0'''
+|'''14'''
+|'''2'''
+|{{same position}}
+|style="border: 3px solid red"|{{#invoke:flag|icon|USA}} [[2023 CONCACAF Nations League Finals|2023]]
+|'''Champions'''
+|'''2'''
+|'''2'''
+|'''0'''
+|'''0'''
+|'''5'''
+|'''0'''
+|[[2023 CONCACAF Nations League Finals squads#United States|Squad]]
+|-bgcolor=gold
+|[[2023–24 CONCACAF Nations League|2023–24]]
+|colspan=2|''[[Bye (sports)|Bye]]''
+|'''2nd'''
+|colspan=6|N/A
+|{{same position}}
+|style="border: 3px solid red" |{{#invoke:flag|icon|USA}} [[2024 CONCACAF Nations League Finals|2024]]
+| '''Champions'''
+|'''4'''
+|'''3'''
+|'''0'''
+|'''1'''
+|'''9'''
+|'''3'''
+|[[2024 CONCACAF Nations League Finals squads#United States|Squad]]
+|-bgcolor=#9acdff
+|[[2024–25 CONCACAF Nations League|2024–25]]
+|colspan=2|''[[Bye (sports)|Bye]]''
+|'''3rd'''
+|colspan=6|N/A
+|{{same position}}
+|style="border: 3px solid red" |{{#invoke:flag|icon|USA}} [[2025 CONCACAF Nations League Finals|2025]]
+|'''Fourth place'''
+|'''4'''
+|'''2'''
+|'''0'''
+|'''2'''
+|'''6'''
+|'''5'''
+|[[2025 CONCACAF Nations League Finals squads#United States|Squad]]
+|-style="color:#002868; background:white;"
+|colspan=4|'''Total'''
+|'''8'''
+|'''6'''
+|'''1'''
+|'''1'''
+|'''29'''
+|'''5'''
+|'''—'''
+|'''Total'''
+|'''3 Titles'''
+|'''12'''
+|'''9'''
+|'''0'''
+|'''3'''
+|'''24'''
+|'''10'''
+|'''—'''
+|}
+{| class="wikitable collapsible collapsed" style="text-align: center;font-size:90%;"
+|-
+!colspan=2|CONCACAF Nations League history
+|-
+!First match
+|{{#invoke:flag|fb-rt|USA}} 7–0 {{#invoke:flag|fb-rt|CUB}}<br>(October 11, 2019; [[Washington, D.C.]], United States)
+|-
+!Biggest win
+|{{#invoke:flag|fb-rt|USA}} 7–0 {{#invoke:flag|fb|CUB}}<br>(October 11, 2019; [[Washington, D.C.]], United States)
+|-
+!Biggest defeat
+|{{#invoke:flag|fb|CAN}} 2–0 {{#invoke:flag|fb-rt|USA}}<br>(October 15, 2019; [[Toronto]], Canada)
+|-
+!Best result
+|'''Champions''' ([[2019–20 CONCACAF Nations League|2019–20]], [[2022–23 CONCACAF Nations League|2022–23]], [[2023–24 CONCACAF Nations League|2023–24]])
+|-
+!Worst result
+|'''Fourth place''' ([[2024–25 CONCACAF Nations League|2024–25]])
+|}
+
+===Copa América===
+{{main|United States at the Copa América}}
+<!-- Do not add rows for future tournaments that will not happen within the next 12 months -->
+{| class="wikitable" style="text-align: center;"
+|+
+!colspan="10" style="color:#002868; background:white;"|[[Copa América]] record
+|-
+!style="color:#002868; background:white;width:90px;"|{{Abbr|Year}}
+!style="color:#002868; background:white;width:110px;"|Result
+!style="color:#002868; background:white;width:80px;"|Position
+!style="color:#002868; background:white;width:30px;"|{{Abbr|Pld|Games played}}
+!style="color:#002868; background:white;width:30px;"|{{Abbr|W|Won}}
+!style="color:#002868; background:white;width:30px;"|{{Abbr|D|Draw}}
+!style="color:#002868; background:white;width:30px;"|{{Abbr|L|Lost}}
+!style="color:#002868; background:white;width:30px;"|{{Abbr|GF|Goals for}}
+!style="color:#002868; background:white;width:30px;"|{{Abbr|GA|Goals against}}
+!style="color:#002868; background:white;"|Squad
+|-
+|{{#invoke:flag|icon|ECU|1900}} [[1993 Copa América|1993]]
+|Group stage
+|12th
+|3
+|0
+|1
+|2
+|3
+|6
+|[[1993 Copa América squads#United States|Squad]]
+|- style="background:#9acdff;"
+|{{#invoke:flag|icon|URU}} [[1995 Copa América|1995]]
+|'''Fourth place'''
+|'''4th'''
+|'''6'''
+|'''2'''
+|'''1'''
+|'''3'''
+|'''6'''
+|'''7'''
+|'''[[1995 Copa América squads#United States|Squad]]'''
+|-
+|{{#invoke:flag|icon|VEN}} [[2007 Copa América|2007]]
+|Group stage
+|12th
+|3
+|0
+|0
+|3
+|2
+|8
+|[[2007 Copa América squads#United States|Squad]]
+|-
+|- style="background:#9acdff;"
+|style="border: 3px solid red"|{{#invoke:flag|icon|USA}} [[Copa América Centenario|2016]]
+|'''Fourth place'''
+|'''4th'''
+|'''6'''
+|'''3'''
+|'''0'''
+|'''3'''
+|'''7'''
+|'''8'''
+|'''[[Copa América Centenario squads#United States|Squad]]'''
+|-
+|style="border: 3px solid red"|{{#invoke:flag|icon|USA}} [[2024 Copa América|2024]]||Group stage||11th ||3||1||0||2||3||3||[[2024 Copa América squads#United States|Squad]]
+|-
+!style="color:#002868; background:white;"|Total
+!style="color:#002868; background:white;"|Fourth place
+!style="color:#002868; background:white;"|Invitation (5)
+!style="color:#002868; background:white;"|21
+!style="color:#002868; background:white;"|6
+!style="color:#002868; background:white;"|2
+!style="color:#002868; background:white;"|13
+!style="color:#002868; background:white;"|21
+!style="color:#002868; background:white;"|32
+!style="color:#002868; background:white;"|—
+|}
+{| class="wikitable collapsible collapsed" style="text-align: center;font-size:90%;"
+|-
+!colspan=2|Copa América history
+|-
+!First match
+|{{#invoke:flag|fb|URU}} 1–0 {{#invoke:flag|fb-rt|USA}}<br>(June 16, 1993; [[Ambato, Ecuador|Ambato]], Ecuador)
+|-
+!Biggest win
+|{{#invoke:flag|fb-rt|USA}} 4–0 {{#invoke:flag|fb|CRC}}<br>(June 7, 2016; [[Chicago]], Illinois, United States)
+|-
+!Biggest defeat
+|{{#invoke:flag|fb|ARG}} 4–0 {{#invoke:flag|fb-rt|USA}}<br>(June 21, 2016; [[Houston]], Texas, United States)
+|-
+!Best result
+|'''Fourth place''' ([[1995 Copa América|1995]] and [[Copa América Centenario|2016]])
+|-
+!Worst result
+|'''Group stage''' ([[1993 Copa América|1993]], [[2007 Copa América|2007]] and [[2024 Copa América|2024]])
+|}
+
+===FIFA Confederations Cup===
+{{Main|United States at the FIFA Confederations Cup}}
+{{United States FIFA Confederations Cup record}}
+{| class="wikitable collapsible collapsed" style="text-align: center;font-size:90%;"
+|-
+!colspan=2|FIFA Confederations Cup history
+|-
+!First match
+|{{#invoke:flag|fb|KSA}} 3–0 {{#invoke:flag|fb-rt|USA}}<br>(October 15, 1992; [[Riyadh]], Saudi Arabia)
+|-
+!Biggest win
+|{{#invoke:flag|fb-rt|USA}} 5–2 {{#invoke:flag|fb|CIV}}<br>(October 19, 1992; [[Riyadh]], Saudi Arabia)
+|-
+!Biggest defeat
+|{{#invoke:flag|fb|KSA}} 3–0 {{#invoke:flag|fb-rt|USA}}<br>(October 15, 1992; [[Riyadh]], Saudi Arabia)
+{{#invoke:flag|fb-rt|USA}} 0–3 {{#invoke:flag|fb|BRA}}<br>(June 18, 2009; [[Pretoria]], South Africa)
+|-
+!Best result
+|'''Runners-up''' ([[2009 FIFA Confederations Cup|2009]])
+|-
+!Worst result
+|Group stage ([[2003 FIFA Confederations Cup|2003]])
+|}
+
+===NAFC Championship===
+{| class="wikitable" style="text-align: center;"
+|colspan=10|'''[[North American Football Confederation#NAFC Championship|NAFC Championship]] record'''
+|-
+!Year
+!Round
+!Position
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!Squad
+|-
+|-bgcolor=#c96
+|{{#invoke:flag|icon|CUB|1902}} [[1947 NAFC Championship|1947]]
+|'''Third place'''
+|'''3rd'''
+|'''2'''
+|'''0'''
+|'''0'''
+|'''2'''
+|'''2'''
+|'''10'''
+|'''[[1947 NAFC Championship squads#United States|Squad]]'''
+|-
+|-bgcolor=silver
+|{{#invoke:flag|icon|MEX|1934}} [[1949 NAFC Championship|1949]]
+|'''Runners-up'''
+|'''2nd'''
+|'''4'''
+|'''1'''
+|'''1'''
+|'''2'''
+|'''8'''
+|'''15'''
+|'''[[1949 NAFC Championship squads#United States|Squad]]'''
+|-
+!Total
+!Runners-up
+!2/2
+!6
+!1
+!1
+!4
+!10
+!25
+!—
+|}
+
+===Head-to-head record===
+{{Further|United States men's national soccer team records and statistics#Head-to-head record}}
+
+==Honors==
+===Global===
+* '''[[FIFA World Cup]]'''
+** {{bronze3}} Third place (1): [[1930 FIFA World Cup|1930]]
+* '''[[FIFA Confederations Cup]]'''
+** {{silver2}} Runners-up (1): [[2009 FIFA Confederations Cup|2009]]
+** {{bronze3}} Third place (2): [[1992 King Fahd Cup|1992]], [[1999 FIFA Confederations Cup|1999]]
+* '''[[Football at the Summer Olympics|Olympic Games]]'''
+** {{silver2}} Silver medal (1): [[Football at the 1904 Summer Olympics|1904]]{{sup|1}}
+** {{bronze3}} Bronze medal (1): [[Football at the 1904 Summer Olympics|1904]]{{sup|1}}
+
+===Continental===
+* '''[[CONCACAF Championship]] / [[CONCACAF Gold Cup|Gold Cup]]'''
+** [[File:CONCACAF - Gold Cup.svg|22px]] '''Champions (7)''': [[1991 CONCACAF Gold Cup|1991]], [[2002 CONCACAF Gold Cup|2002]], [[2005 CONCACAF Gold Cup|2005]], [[2007 CONCACAF Gold Cup|2007]], [[2013 CONCACAF Gold Cup|2013]], [[2017 CONCACAF Gold Cup|2017]], [[2021 CONCACAF Gold Cup|2021]]
+** {{silver2}} Runners-up (7): [[1989 CONCACAF Championship|1989]], [[1993 CONCACAF Gold Cup|1993]], [[1998 CONCACAF Gold Cup|1998]], [[2009 CONCACAF Gold Cup|2009]], [[2011 CONCACAF Gold Cup|2011]], [[2019 CONCACAF Gold Cup|2019]], [[2025 CONCACAF Gold Cup|2025]]
+** {{bronze3}} Third place (2): [[1996 CONCACAF Gold Cup|1996]], [[2003 CONCACAF Gold Cup|2003]]
+* '''[[CONCACAF Nations League]]'''
+** [[File:Trofeo de Liga de Naciones Concacaf.svg|14px]] '''Champions (3)''': [[2019–20 CONCACAF Nations League|2019–20]], [[2022–23 CONCACAF Nations League|2022–23]], [[2023–24 CONCACAF Nations League|2023–24]]
+* '''[[CONCACAF Cup]]'''
+** {{silver2}} Runners-up (1): [[CONCACAF Cup|2015]]
+
+===Subregional===
+* '''[[North American Football Confederation#NAFC Championship|NAFC Championship]]'''{{sup|2}}
+** {{silver2}} Runners-up (1): [[1949 NAFC Championship|1949]]
+** {{bronze3}} Third place (1): [[1947 NAFC Championship|1947]]
+* '''[[North American Nations Cup]]'''
+** {{silver2}} Runners-up (1): [[1991 North American Nations Cup|1991]]
+** {{bronze3}} Third place (1): [[1990 North American Nations Cup|1990]]
+
+===Friendly===
+* '''[[U.S. Cup]] (3)''': [[1992 U.S. Cup|1992]], [[1995 U.S. Cup|1995]], [[2000 U.S. Cup|2000]]
+* '''[[Marlboro Cup (soccer)|Marlboro Cup]] (2)''': [[Marlboro Cup (soccer)|1989]], [[Marlboro Cup (soccer)|1989]]
+
+===Summary===
+Only official honors are included, according to ''FIFA statutes'' (competitions organized/recognized by [[FIFA]] or an affiliated confederation).
+{| class="wikitable" width=30% style="font-size:90%; text-align:center;"
+!Competition!!{{gold1}}!!{{silver2}}!!{{bronze3}}!!Total
+|-
+|align=left|[[FIFA World Cup]]
+|0||0||1||1
+|-
+|align=left|[[FIFA Confederations Cup]]
+|0||1||2||3
+|-
+|align=left|[[CONCACAF Championship]] / [[CONCACAF Gold Cup|Gold Cup]]
+|7||7||2||16
+|-
+|align=left|[[CONCACAF Nations League]]
+|3||0||0||3
+|-
+|align=left|[[CONCACAF Cup]]
+|0||1||0||1
+|-
+|align=left|[[North American Football Confederation#NAFC Championship|NAFC Championship]]{{sup|2}}
+|0||1||1||2
+|-
+!Total!!10!!10!!6!!26
+|}
+
+;Notes
+# Demonstrations matches played by club teams, officially not recognized by FIFA.<ref>{{cite web | url=https://www.rsssf.org/tableso/olympics.html | title=Football Tournament of the Olympic Games - Overview }}</ref>
+# Official subregional competition organized by [[North American Football Confederation|NAFC]], direct predecessor confederation of CONCACAF and the former governing body of soccer in North America (1946–1961).
+
+==See also==
+* [[Fútbol de Primera Player of the Year]]
+* [[List of United States men's international soccer players born outside the United States]]
+* [[U.S. National Soccer Team Players Association]]
+* [[U.S. Soccer Player of the Year]]
+* [[United States men's national under-17 soccer team]]
+* [[United States men's national under-20 soccer team]]
+* [[United States men's national under-23 soccer team]]
+* [[United States women's national soccer team]]
+
+== Notes ==
+{{NoteFoot}}
+{{notelist}}
+{{Reflist|group=note}}
+
+==References==
+<references />
+
+==External links==
+{{Commons category}}
+* {{official website}}
+* [http://www.ussoccer.com/mens-national-team/schedule-tickets U.S. Soccer Schedule] at USSF
+* [http://www.ussoccer.com/mens-national-team/results-statistics U.S. Soccer Results] at USSF
+* [https://www.fifa.com/about-fifa/associations/USA U.S. Matches] at FIFA
+* [https://ussoccerplayers.com/ U.S. National Soccer Team Players Association]
+* [https://www.11v11.com/teams/usa/ U.S. soccer team] at Association of Football Statisticians
+* [http://homepages.sover.net/~spectrum/usamen1.html USA Men's National Team: All-time Results, 1885–1989] {{Webarchive|url=https://web.archive.org/web/20180802182006/http://homepages.sover.net/~spectrum/usamen1.html |date=August 2, 2018 }}
+* [http://homepages.sover.net/~spectrum/usamen2.html USA Men's National Team: All-time Results, 1990–present] {{Webarchive|url=https://web.archive.org/web/20110811091627/http://homepages.sover.net/~spectrum/usamen2.html |date=August 11, 2011 }}
+* [https://halfspaces.com/hype-tracker/ USA Men's National Team: Current Value of Players on Team] {{Webarchive|url=https://web.archive.org/web/20220202221216/https://halfspaces.com/hype-tracker/ |date=February 2, 2022 }}
+
+{{United States men's national soccer team}}
+{{Navboxes top
+| title = Titles
+| bg = gold
+}}
+{{S-start}}
+{{Succession box
+| before = '''Inaugural'''
+| title = [[CONCACAF Nations League|CONCACAF Nations League Champions]]
+| years = [[2019–20 CONCACAF Nations League|2019–20]] (first title)<br />[[2022–23 CONCACAF Nations League|2022–23]] (second title)<br />[[2023–24 CONCACAF Nations League|2023–24]] (third title)
+| after = '''[[Mexico national football team|Mexico]]'''
+}}
+{{S-end}}
+{{CONCACAF Gold Cup winners}}
+{{CONCACAF Nations League winners}}
+{{Navboxes bottom}}
+{{Navboxes top
+| title = Tournament appearances
+}}
+{{Navboxes top
+|title= [[United States at the FIFA World Cup]]
+}}{{1930 FIFA World Cup finalists}}
+{{1934 FIFA World Cup finalists}}
+{{1950 FIFA World Cup finalists}}
+{{1990 FIFA World Cup finalists}}
+{{1994 FIFA World Cup finalists}}
+{{1998 FIFA World Cup finalists}}
+{{2002 FIFA World Cup finalists}}
+{{2006 FIFA World Cup finalists}}
+{{2010 FIFA World Cup finalists}}
+{{2014 FIFA World Cup finalists}}
+{{2022 FIFA World Cup finalists}}
+{{2026 FIFA World Cup finalists}}
+{{Navboxes bottom}}
+{{Navboxes top
+|title= [[United States at the FIFA Confederations Cup]]
+}}{{1992 King Fahd Cup finalists}}
+{{1999 FIFA Confederations Cup finalists}}
+{{2003 FIFA Confederations Cup finalists}}
+{{2009 FIFA Confederations Cup finalists}}
+{{Navboxes bottom}}
+{{navboxes bottom}}
+{{Navboxes top
+| title = Squads
+}}
+{{Navboxes top
+| title = United States FIFA World Cup squads
+| bg  = white
+| fg  = #3C3B6E
+| bordercolor = #B22234
+}}
+{{United States squad 1930 FIFA World Cup}}
+{{United States squad 1934 FIFA World Cup}}
+{{United States squad 1950 FIFA World Cup}}
+{{United States squad 1990 FIFA World Cup}}
+{{United States squad 1994 FIFA World Cup}}
+{{United States squad 1998 FIFA World Cup}}
+{{United States squad 2002 FIFA World Cup}}
+{{United States squad 2006 FIFA World Cup}}
+{{United States squad 2010 FIFA World Cup}}
+{{United States squad 2014 FIFA World Cup}}
+{{United States squad 2022 FIFA World Cup}}
+{{United States squad 2026 FIFA World Cup}}
+{{Navboxes bottom}}
+{{Navboxes top
+| title = United States FIFA Confederations Cup squads
+| bg  = white
+| fg  = #3C3B6E
+| bordercolor = #B22234
+}}{{United States squad 1992 King Fahd Cup}}
+{{United States squad 1999 FIFA Confederations Cup}}
+{{United States squad 2003 FIFA Confederations Cup}}
+{{United States squad 2009 FIFA Confederations Cup}}
+{{Navboxes bottom}}
+{{Navboxes top
+| title = United States CONMEBOL Copa América squads
+| bg  = white
+| fg  = #3C3B6E
+| bordercolor = #B22234
+}}
+{{United States squad 1993 Copa América}}
+{{United States squad 1995 Copa América}}
+{{United States squad 2007 Copa América}}
+{{United States squad Copa América Centenario}}
+{{United States squad 2024 Copa América}}
+{{Navboxes bottom}}
+{{Navboxes top
+| title = United States Olympic Games squads
+| bg  = white
+| fg  = #3C3B6E
+| bordercolor = #B22234
+}}
+{{United States football squad 1924 Summer Olympics}}
+{{United States football squad 1928 Summer Olympics}}
+{{United States football squad 1936 Summer Olympics}}
+{{United States football squad 1948 Summer Olympics}}
+{{United States football squad 1952 Summer Olympics}}
+{{United States football squad 1956 Summer Olympics}}
+{{United States football squad 1972 Summer Olympics}}
+{{United States football squad 1984 Summer Olympics}}
+{{United States football squad 1988 Summer Olympics}}
+{{Navboxes bottom}}
+{{Navboxes top
+| title = United States CONCACAF Gold Cup squads
+| bg  = white
+| fg  = #3C3B6E
+| bordercolor = #B22234
+}}
+{{United States squad 1991 CONCACAF Gold Cup}}
+{{United States squad 1993 CONCACAF Gold Cup}}
+{{United States squad 1996 CONCACAF Gold Cup}}
+{{United States squad 1998 CONCACAF Gold Cup}}
+{{United States squad 2000 CONCACAF Gold Cup}}
+{{United States squad 2002 CONCACAF Gold Cup}}
+{{United States squad 2003 CONCACAF Gold Cup}}
+{{United States squad 2005 CONCACAF Gold Cup}}
+{{United States squad 2007 CONCACAF Gold Cup}}
+{{United States squad 2009 CONCACAF Gold Cup}}
+{{United States squad 2011 CONCACAF Gold Cup}}
+{{United States squad 2013 CONCACAF Gold Cup}}
+{{United States squad 2015 CONCACAF Gold Cup}}
+{{United States squad 2017 CONCACAF Gold Cup}}
+{{United States squad 2019 CONCACAF Gold Cup}}
+{{United States squad 2021 CONCACAF Gold Cup}}
+{{United States squad 2023 CONCACAF Gold Cup}}
+{{United States squad 2025 CONCACAF Gold Cup}}
+
+{{Navboxes bottom}}
+{{navboxes bottom}}
+{{#invoke:navboxes|top|state = collapsed}}
+{{Soccer in the United States}}
+{{CONCACAF teams}}
+{{National sports teams of the United States}}
+{{#invoke:navboxes|bottom}}
+{{Portal bar|Association football|United States}}
+
+[[Category:United States men's national soccer team| ]]
+[[Category:United States men's national soccer teams| ]]
+[[Category:North American national association football teams]]
+[[Category:United States Soccer Federation]]
+[[Category:American organizations established in 1916]]
+[[Category:National sports teams established in 1916]]

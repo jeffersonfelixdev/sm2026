@@ -1,0 +1,2537 @@
+{{Short description|Men's association football team}}
+{{About|the men's team|the women's team|Hungary women's national football team}}
+{{Use dmy dates|date=November 2023}}
+{{Infobox national football team
+| Name               = Hungary
+| Badge              = Coat of arms of Hungary.svg
+| Badge_size         = 120px
+| FIFA Trigramme     = HUN
+| Nickname           = ''[[Hungarians|Magyarok]]'' (Magyars) <br /> ''Nemzeti Tizenegy'' (National Eleven) <br />''Trikólor'' (Tricolours)
+| Association        = [[Hungarian Football Federation|Magyar Labdarúgó Szövetség]] (MLSZ)
+| Confederation      = [[UEFA]] (Europe)
+| Coach              = [[Marco Rossi (footballer, born 1964)|Marco Rossi]]
+| Captain            = [[Dominik Szoboszlai]]
+| Most caps          = [[Balázs Dzsudzsák]] (109)
+| Top scorer         = [[Ferenc Puskás]] ([[List of international goals scored by Ferenc Puskás|84]])
+| Home Stadium       = [[Puskás Aréna]]
+| FIFA Rank          = {{FIFA World Rankings|HUN}}
+| FIFA max           = 18
+| FIFA max date      = April–May 2016
+| FIFA min           = 87
+| FIFA min date      = July 1996
+| Elo Rank           = {{World Football Elo Ratings|Hungary}}
+| Elo max            = 1
+| Elo max date       = 1953–57, 1958, 1964, 1965
+| Elo min            = 80
+| Elo min date       = November 2003
+| pattern_la1        = _hun26h
+| pattern_b1         = _hun26hA
+| pattern_ra1        = _hun26h
+| pattern_sh1        = _hun26h
+| pattern_so1        = _hun26hl
+| leftarm1           = EF0000
+| body1              = EF0000
+| rightarm1          = EF0000
+| shorts1            = FFFFFF
+| socks1             = 006633
+| pattern_la2        = _hun26a
+| pattern_b2         = _hun26a
+| pattern_ra2        = _hun26a
+| pattern_sh2        = _hun26a
+| pattern_so2        = _adidasonwhitel
+| leftarm2           = FFFFFF
+| body2              = FFFFFF
+| rightarm2          = FFFFFF
+| shorts2            = FFFFFF
+| socks2             = ca0f3a
+| First game         = {{#invoke:flag|fb|AUT|empire}} [[1902 Austria v Hungary football match|5–0]] {{#invoke:flag|fb-rt|HUN|1896}} <br /> ([[Vienna]], [[Cisleithania|Austria]]; 12 October 1902)
+| Largest win        = {{#invoke:flag|fb|Russian Empire|Russian Empire}} 0–12 {{#invoke:flag|fb-rt|HUN|1896}} <br /> ([[Moscow]], [[Russian Empire|Russia]]; 14 July 1912) <br /> {{#invoke:flag|fb|HUN|1920}} 13–1 {{#invoke:flag|fb-rt|FRA|1794}} <br /> ([[Budapest]], [[Kingdom of Hungary (1920–1946)|Hungary]]; 12 June 1927)<br />{{#invoke:flag|fb|HUN|1949}} 12–0 {{#invoke:flag|fb-rt|ALB|1946}} <br /> ([[Budapest]], [[Hungarian People's Republic|Hungary]]; 24 September 1950)
+| Largest loss       = {{nowrap|{{#invoke:flag|fb|GBR}} 7–0 {{#invoke:flag|fb-rt|HUN|1896}} <br /> ([[Stockholm]], [[Sweden]]; 30 June 1912) <br />{{#invoke:flag|fb|GER|1935}} 7–0 {{#invoke:flag|fb-rt|HUN|1920}} <br /> ([[Cologne]], [[Nazi Germany|Germany]]; 6 April 1941)<br />{{#invoke:flag|fb|NED}} 8–1 {{#invoke:flag|fb-rt|HUN}}<br /> ([[Amsterdam]], [[Netherlands]]; 11 October 2013)}}
+| World cup apps     = 9
+| World cup first    = 1934
+| World cup best     = Runners-up ([[1938 FIFA World Cup|1938]], [[1954 FIFA World Cup|1954]])
+| Regional name      = [[UEFA European Championship|European Championship]]
+| Regional cup apps  = 5
+| Regional cup first = [[1964 European Nations' Cup|1964]]
+| Regional cup best  = Third place ([[1964 European Nations' Cup|1964]])
+| 3rdRegional name         = [[Football at the Summer Olympics|Olympic Games]]
+| 3rdRegional cup apps     = 8
+| 3rdRegional cup first    = [[Football at the 1912 Summer Olympics|1912]]
+| 3rdRegional cup best     = [[File:Gold medal.svg|16px]][[File:Gold medal.svg|16px]][[File:Gold medal.svg|16px]] '''Gold medal''' ([[Football at the 1952 Summer Olympics|1952]], [[Football at the 1964 Summer Olympics|1964]], [[Football at the 1968 Summer Olympics|1968]])
+| medaltemplates     =
+{{Medal|Sport|Men's [[Association football|football]]}}
+{{Medal|Competition|[[FIFA World Cup|World Cup]]}}
+{{MedalSilver|[[1938 FIFA World Cup|1938 France]]|[[1938 FIFA World Cup squads#Hungary|Team]]}}
+{{MedalSilver|[[1954 FIFA World Cup|1954 Switzerland]]|[[1954 FIFA World Cup squads#Hungary|Team]]}}
+{{Medal|Competition|[[UEFA European Championship|European Championship]]}}
+{{MedalBronze|[[1964 European Nations' Cup|1964 Spain]]|[[1964 European Nations' Cup squads#Hungary|Team]]}}
+{{Medal|Competition|[[Football at the Summer Olympics|Olympic Games]]}}
+{{Medal|Gold|[[1952 Summer Olympics|1952 Helsinki]]|[[Football at the 1952 Summer Olympics – Men's team squads#Hungary|Team]]}}
+{{Medal|Bronze|[[1960 Summer Olympics|1960 Rome]]|[[Football at the 1960 Summer Olympics – Men's team squads#Hungary|Team]]}}
+{{Medal|Gold|[[1964 Summer Olympics|1964 Tokyo]]|[[Football at the 1964 Summer Olympics – Men's team squads#Hungary|Team]]}}
+{{Medal|Gold|[[1968 Summer Olympics|1968 Mexico City]]|[[Football at the 1968 Summer Olympics – Men's team squads#Hungary|Team]]}}
+{{MedalSilver|[[1972 Summer Olympics|1972 Munich]]|[[Football at the 1972 Summer Olympics – Men's team squads#Hungary|Team]]}}
+{{Medal|Competition|[[Central European International Cup|European International Cup]]}}
+{{MedalBronze|[[1931–32 Central European International Cup|1931–32]]|[[1931–32 Central European International Cup|Team]]}}
+{{MedalBronze|[[1933–35 Central European International Cup|1933–35]]|[[1933–35 Central European International Cup|Team]]}}
+{{MedalGold|[[1948–53 Central European International Cup|1948–53]]|[[1948–53 Central European International Cup|Team]]}}
+{{MedalSilver|[[1955–60 Central European International Cup|1955–60]]|[[1955–60 Central European International Cup|Team]]}}
+{{Medal|Competition|[[Balkan Cup]]}}
+{{MedalGold|[[1947 Balkan Cup|1947]]|[[1947 Balkan Cup|Team]]}}
+}}
+
+The '''Hungary national football team''' ({{langx|hu|magyar labdarúgó-válogatott}}, {{IPA|hu|ˈmɒɟɒr ˈlɒbdɒruːɡoː ˈvaːloɡɒtotː|pron}}) represents [[Hungary]] in men's international [[Association football|football]], and is controlled by the [[Hungarian Football Federation]]. The team has made nine appearances in the [[FIFA World Cup]], and five in the [[UEFA European Championship]]. Hungary plays their home matches at the [[Puskás Aréna]], in [[Budapest]], which opened in November 2019.
+
+Hungary has a significant history in international football, having won three [[Football at the Summer Olympics|Olympic]] gold medals, finished as runners-up in the [[1938 FIFA World Cup|1938]] and [[1954 FIFA World Cup|1954 World Cup]], and finished in third place in the [[1964 European Nations' Cup|1964 European Championship]]. Hungary developed influential tactical approaches and achieved international success with the [[Golden Team]], which included forward [[Ferenc Puskás]], one of the leading goalscorers of the 20th century.<ref name="FIFA benefit">{{cite web|url=https://www.fifa.com/en/organisation/president/index/0,4095,110412,00.html?articleid=110412 |title=FIFA President: FIFA to help the Galloping Major |publisher=[[FIFA]] |date=12 October 2005 |access-date=17 November 2006 |archive-url=https://web.archive.org/web/20061007122035/http://www.fifa.com/en/organisation/president/index/0%2C4095%2C110412%2C00.html?articleid=110412 |archive-date=7 October 2006 |url-status=dead}}</ref><ref name="Spanish obit">{{cite web|url=http://www.as.com/articulo/Futbol/Coronel/Puskas/zurdo/oro/dasftb/20061117dasdasftb_2/Tes/|title=Coronel Puskas, el zurdo de oro|language=es|publisher=[[Diario AS|AS]]|date=17 November 2006|access-date=17 November 2006|archive-date=24 July 2008|archive-url=https://web.archive.org/web/20080724064913/http://www.as.com/articulo/Futbol/Coronel/Puskas/zurdo/oro/dasftb/20061117dasdasftb_2/Tes/|url-status=live}}</ref><ref name="Puskás auction">{{cite news|url = https://www.theguardian.com/sport/2005/oct/13/golf.media|last = Mackay|first = Duncan|publisher = [[TheGuardian.com]]|title = Lineker tees up another nice little earner|date = 13 October 2005|access-date = 17 November 2006|location = London|archive-date = 22 April 2008|archive-url = https://web.archive.org/web/20080422141540/http://sport.guardian.co.uk/golf/story/0,10069,1590809,00.html|url-status = live}}</ref> The team influenced later tactical developments in football, including aspects of the style associated with [[Total Football]]. FIFA named the [[FIFA Puskás Award|Puskás Award]], given annually to the player who scored the "most beautiful" goal of the calendar year in honor of Puskás.<ref>{{Cite web|url=https://www.fifa.com/classicfootball/awards/gala/news/newsid=1120835.html|archiveurl=https://web.archive.org/web/20091213054051/http://www.fifa.com/classicfootball/awards/gala/news/newsid%3D1120835.html|url-status=dead|title=Blatter unveils FIFA Puskas Award|archivedate=13 December 2009}}</ref> The side of that era holds the [[World Football Elo Ratings|all-time highest Football Elo Ranking in the world]], with 2230 in 1954, and one of the longest undefeated runs in football history, remaining unbeaten in 31 games, spanning over four years and including the [[Match of the Century (1953 England v Hungary football match)|Match of the Century]].
+
+The Hungarian team faced a severe drought starting from their elimination at the [[1986 FIFA World Cup|1986 World Cup]], failing to qualify for a major tournament for thirty years and reaching their lowest [[FIFA World Rankings|FIFA ranking]] (87) in 1996, as well as finishing sixth in their group of the [[UEFA Euro 2008 qualifying|Euro 2008 qualifiers]]. They then began a turnaround, qualifying for three consecutive European Championship in [[UEFA Euro 2016|2016]], [[UEFA Euro 2020|2020]] and [[UEFA Euro 2024|2024]], as well as achieving promotion to the [[2022–23 UEFA Nations League A]].
+
+==History==
+{{Main|History of the Hungary national football team}}
+
+Although Austria and Hungary were constituent countries of the dual monarchy known as the [[Austro-Hungarian Empire]], they formed separate [[football association]]s and teams around the start of the 20th century.
+
+===Early years===
+====1910s====
+[[File:Football at the 1912 Summer Olympics - Hungary squad.JPG|thumb|The Hungarian national team at the [[Football at the 1912 Summer Olympics|1912 Summer Olympics]]]]
+
+The national side first appeared at the [[Summer Olympic Games]] in [[1912 Summer Olympics|1912]] in [[Stockholm]], [[Sweden]]. The team had to ask for donations in order to be able to go to the Games. Hungary lost 7–0 to [[England national football team|England]] and thus were eliminated.
+After the Olympic Games Hungary played two matches against [[Russia national football team|Russia]] in [[Moscow]]. The first match was a 9–0 win and the second 12–0, which is still a record for the national side. The top scorer of the two matches was [[Imre Schlosser]] who scored seven goals. The beginning of [[World War I]] had a deep impact on the thriving Hungarian football. Both the country and the clubs were suffering financial problems. During WWI Hungary played [[Austria national football team|Austria]] 16 times. In 1919 England claimed the exclusion of the [[Central Powers]] (including Hungary) from [[FIFA]]. When FIFA refused England's plea, the British ([[The Football Association|English]], [[The Scottish FA|Scottish]], [[Welsh Football Association|Welsh]], and [[Irish Football Association|Irish]]) associations decided to resign from FIFA.
+
+====1920s====
+[[File:Wawrzynieccyl.png|thumb|[[Poland national football team|Poland]]-Hungary in 1924]]
+
+Budapest was denied the opportunity to host the [[1920 Summer Olympics]], which were held in Belgium. The countries of the [[Central Powers]] (Germany, [[Austria-Hungary]], [[Ottoman Empire]] and [[Bulgaria]]) were excluded from the Olympics. Hungary used a unique 2–3–5 formation.
+
+During this period the Fogl brothers ([[József Fogl|József]] and [[Károly Fogl]]) played in the national team. Between 1921 and 1924, [[Béla Guttmann]] also played six times for the team. At the [[Football at the 1924 Summer Olympics|1924 Summer Olympics]] in Paris, Guttmann objected to the fact that there were more officials than players in the Hungary squad and that the hotel was more suitable for socialising than match preparation, and to demonstrate his disapproval he hung dead rats on the doors of the travelling officials.<ref name=great>{{Cite book|url=https://books.google.com/books?id=mdKlDgAAQBAJ&q=B%C3%A9la+Guttmann+speakeasy+crash&pg=PT48|title=The Greatest Comeback: From Genocide To Football Glory: The Story of Béla Guttman|first=David|last=Bolchover|date=2017|publisher=Biteback Publishing|isbn=9781785902642|via=Google Books|access-date=12 November 2020|archive-date=6 October 2022|archive-url=https://web.archive.org/web/20221006131518/https://books.google.com/books?id=mdKlDgAAQBAJ&q=B%C3%A9la+Guttmann+speakeasy+crash&pg=PT48|url-status=live}}</ref> At the 1924 Summer Olympics, in the first match Hungary beat [[Poland national football team|Poland]]. They then lost to [[Egypt national football team|Egypt]]. As a consequence, both the head coach and the head of the [[Hungarian Football Federation]] resigned.
+
+Between 1927 and 1930, Hungary participated in the [[Central European International Cup]]  which is considered to be the first international tournament, with [[Austria national football team|Austria]], [[Czechoslovakia national football team|Czechoslovakia]], [[Italy national football team|Italy]] and [[Switzerland national football team|Switzerland]]. In the final, Hungary lost to Italy 5–0. On 12 June 1927, Hungary beat [[France national football team|France]] 13–1, which is still a record. [[József Takács]] scored six goals.
+
+===Golden Era===
+====1930s====
+[[File:FRANCISCO SAS SOHN. JPG.JPG|thumb|Hungary preparing for the [[1938 FIFA World Cup]]]]
+
+The first [[FIFA World Cup]] was held in [[Uruguay]] in [[1930 FIFA World Cup|1930]],<ref>{{cite web|url=https://www.fifa.com/worldcup/archive/edition=1/overview.html |title=1930 FIFA World Cup Uruguay |publisher=FIFA |date=1 August 2012 |access-date=1 August 2012 |url-status=dead |archive-url=https://web.archive.org/web/20090202113439/http://www.fifa.com/worldcup/archive/edition%3D1/overview.html |archive-date=2 February 2009}}</ref> but Hungary were not invited and did not take part in the tournament; there were no qualification matches. Hungary first appeared in the [[1934 FIFA World Cup|1934 World Cup]] in [[Italy]].<ref>{{cite web|url=https://www.fifa.com/worldcup/archive/edition=3/index.html|archive-url=https://web.archive.org/web/20070603192525/http://fifa.com/worldcup/archive/edition=3/index.html|url-status=dead|archive-date=3 June 2007|title=1934 FIFA World Cup Italy|publisher=FIFA|date=1 August 2012|access-date=1 August 2012}}</ref> Hungary's first World Cup match was against [[Egypt national football team|Egypt]] on 27 May 1934, a 4–2 win. The goals were scored by [[Pál Teleki (footballer)|Pál Teleki]], [[Géza Toldi]] (2) and [[Jenő Vincze]].<ref>{{cite web|url=https://www.fifa.com/worldcup/archive/edition=3/results/matches/match=1119/report.html |title=1934 FIFA World Cup – Hungary 4–2 Egypt |publisher=FIFA |date=1 August 2012 |access-date=1 August 2012 |url-status=dead |archive-url=https://web.archive.org/web/20100614230032/http://www.fifa.com/worldcup/archive/edition%3D3/results/matches/match%3D1119/report.html |archive-date=14 June 2010}}</ref> In the quarter-finals, Hungary faced neighbouring arch-rivals Austria and lost 2–1, the only Hungarian goal coming from [[György Sárosi]].<ref>{{cite web|url=https://www.fifa.com/worldcup/archive/edition=3/results/matches/match=1106/report.html |title=1934 FIFA World Cup – Austria 2–1 Hungary |publisher=FIFA |date=1 August 2012 |access-date=1 August 2012 |url-status=dead |archive-url=https://web.archive.org/web/20120622210352/http://www.fifa.com/worldcup/archive/edition%3D3/results/matches/match%3D1106/report.html |archive-date=22 June 2012}}</ref>
+
+Hungary entered the [[Football at the 1936 Summer Olympics|1936 Olympics]], where in the first round they were eliminated by Poland, 0–3.
+
+The [[1938 FIFA World Cup|1938 World Cup]] was held in France.<ref>{{cite web|url=https://www.fifa.com/worldcup/archive/edition=5/index.html|archive-url=https://web.archive.org/web/20070603193708/http://fifa.com/worldcup/archive/edition=5/index.html|url-status=dead|archive-date=3 June 2007|title=1938 FIFA World Cup France|publisher=FIFA|date=1 August 2012|access-date=1 August 2012}}</ref> The first match was played against [[Dutch East Indies national football team|Dutch East Indies]] and Hungary won 6–0. Sárosi and [[Gyula Zsengellér]] each scored twice while [[Vilmos Kohut]] and Toldi scored one goal each.<ref>{{cite web|url=https://www.fifa.com/worldcup/archive/edition=5/results/matches/match=1173/report.html |title=1938 FIFA World Cup Hungary 6–0 Dutch East Indies |publisher=FIFA |date=1 August 2012 |access-date=1 August 2012 |url-status=dead |archive-url=https://web.archive.org/web/20120624071718/http://www.fifa.com/worldcup/archive/edition%3D5/results/matches/match%3D1173/report.html |archive-date=24 June 2012}}</ref> In the quarter-finals, Hungary beat [[Switzerland national football team|Switzerland]] 2–0 with goals by Sárosi and Zsengellér.<ref>{{cite web|url=https://www.fifa.com/worldcup/archive/edition=5/results/matches/match=1175/report.html|archive-url=https://web.archive.org/web/20071104144627/http://www.fifa.com/worldcup/archive/edition=5/results/matches/match=1175/report.html|url-status=dead|archive-date=4 November 2007|title=1938 FIFA World Cup Hungary 2–0 Switzerland|publisher=FIFA|date=1 August 2012|access-date=1 August 2012}}</ref> In the semi-final at the [[Parc des Princes]], [[Paris]], Hungary beat [[Sweden men's national football team|Sweden]] 5–1 with goals by [[Ferenc Sas]] and Sárosi and a [[hat-trick]] by Zsengellér.<ref>{{cite web|url=https://www.fifa.com/worldcup/archive/edition=5/results/matches/match=1176/report.html |title=1938 FIFA World Cup Hungary 5–1 Sweden |publisher=FIFA |date=1 August 2012 |access-date=1 August 2012 |url-status=dead |archive-url=https://web.archive.org/web/20120624030512/http://www.fifa.com/worldcup/archive/edition%3D5/results/matches/match%3D1176/report.html |archive-date=24 June 2012}}</ref> In the [[1938 FIFA World Cup Final|final]], Hungary faced [[Italy national football team|Italy]] at the [[Stade Olympique de Colombes]], Paris and fell 4–2. The Hungarian goals were scored by [[Pál Titkos]] and Sárosi.<ref>{{cite web|url=https://www.fifa.com/worldcup/archive/edition=5/results/index.html |title=1938 FIFA World Cup France |date=28 August 2011 |publisher=FIFA |url-status=dead |archive-url=https://web.archive.org/web/20090121132522/http://www.fifa.com/worldcup/archive/edition%3D5/results/index.html |archive-date=21 January 2009}}</ref>
+
+====1950s====
+This Hungarian team of the 1950s featured strong players including Ferenc Puskás, Sándor Kocsis, József Bozsik, and Nándor Hidegkuti, known collectively as the Aranycsapat ("Golden Team") or the "Magnificent Magyars". The team achieved a record of 43 victories, 6 draws, and 0 defeats from 14 May 1950 until they lost 3–1 to Turkey on 19 February 1956.[[File:Puskas Hidegkuti 1954.png|thumb|left|240px|[[Ferenc Puskás|Puskás]] with [[Nándor Hidegkuti|Hidegkuti]] in 1954 in Budapest]]
+In the [[Football at the 1952 Summer Olympics|1952 Summer Olympics]] in [[Helsinki]], Hungary beat Romania 2–1 with a goal each from Czibor and Kocsis in the preliminary round. In the first round Hungary beat Italy 3–0; in the quarter-finals Hungary beat Turkey 7–1; and in the semi-finals Hungary faced Sweden, the [[Football at the 1948 Summer Olympics|1948 Olympic]] champions and won 6–0. In the final, Hungary beat Yugoslavia 2–0 with a goal each from Puskás and Czibor and thus won the Olympic title for the first time.
+
+On 25 November 1953, England played Hungary at [[Wembley Stadium (1923)|Wembley Stadium]], London in a match later dubbed as the "[[Match of the Century (1953 England v Hungary football match)|match of the century]]". The English team were unbeaten for 90 years at home. In front of 105,000 spectators [[Nándor Hidegkuti]] scored in the first minute. At half-time the score was 4–2 to Hungary. In the second half the Hungarians scored twice more (Hidegkúti and [[József Bozsik]]). The final score was 6–3.
+[[File:Aranycsapat fortepan 84717.jpg|thumb|right|240px|The Golden Team in 1954]]
+On [[1954 Hungary v England football match|23 May 1954]], the Hungary national team beat [[England national football team|England]] 7–1 (which remains their worst defeat to date) at the Puskás Ferenc Stadium.<ref>{{cite web|url=https://www.theguardian.com/football/2009/may/17/seven-deadly-sins-football-hungary-england|title=The Hungarian disasters – England v Hungary, 1953–4|date=17 May 2009|work=The Guardian|access-date=11 December 2016|archive-date=16 April 2019|archive-url=https://web.archive.org/web/20190416112846/https://www.theguardian.com/football/2009/may/17/seven-deadly-sins-football-hungary-england|url-status=live}}</ref> At that time in Hungary there was a saying about the match: ''Az angolok egy hétre jöttek és hét-egyre mentek'', which is a double play on words. The word "week" in Hungarian is called "hét", meaning the number seven: "the English came for one week and left with 7:1."
+
+The [[1954 FIFA World Cup|1954 World Cup]] was held in [[Switzerland]].<ref>{{cite web|url=https://www.fifa.com/worldcup/archive/edition=9/index.html|archive-url=https://web.archive.org/web/20070603191919/http://fifa.com/worldcup/archive/edition=9/index.html|url-status=dead|archive-date=3 June 2007|title=1954 FIFA World Cup Switzerland|publisher=FIFA|date=1 August 2012|access-date=1 August 2012}}</ref> The first match was played against [[South Korea national football team|South Korea]] and Hungary won 9–0 at the [[Hardturm]], [[Zürich]].<ref>{{cite web|url=https://www.fifa.com/worldcup/archive/edition=9/results/matches/match=1294/report.html |title=1954 FIFA World Cup – Hungary 9–0 Korea Republic |publisher=FIFA |date=1 August 2012 |access-date=1 August 2012 |url-status=dead |archive-url=https://web.archive.org/web/20120720213050/http://www.fifa.com/worldcup/archive/edition%3D9/results/matches/match%3D1294/report.html |archive-date=20 July 2012}}</ref> In the second group match, Hungary played against [[Germany national football team|West Germany]] and won 8–3 at [[St. Jakob Stadium]], [[Basel]].<ref>{{cite web|url=https://www.fifa.com/worldcup/archive/edition=9/results/matches/match=1277/report.html |title=1954 FIFA World Cup – Hungary 8–3 Germany FR |publisher=FIFA |date=1 August 2012 |access-date=1 August 2012 |url-status=dead |archive-url=https://web.archive.org/web/20120722201225/http://www.fifa.com/worldcup/archive/edition%3D9/results/matches/match%3D1277/report.html |archive-date=22 July 2012}}</ref> In the quarter-finals, Hungary beat [[Brazil national football team|Brazil]] 4–2 at the [[Wankdorf Stadium]], [[Bern]].<ref>{{cite web|url=https://www.fifa.com/worldcup/archive/edition=9/results/matches/match=1248/report.html |title=1954 FIFA World Cup – Hungary 4–2 Brazil |publisher=FIFA |date=1 August 2012 |access-date=1 August 2012 |url-status=dead |archive-url=https://web.archive.org/web/20120817031154/http://www.fifa.com/worldcup/archive/edition%3D9/results/matches/match%3D1248/report.html |archive-date=17 August 2012}}</ref> In the semi-finals, Hungary faced two-time World Cup winner [[Uruguay national football team|Uruguay]] in [[Lausanne]]; Hungary won 4–2 after extra time.<ref>{{cite web|url=https://www.fifa.com/worldcup/archive/edition=9/results/matches/match=1295/report.html |title=1954 FIFA World Cup – Hungary 4–2 Uruguay |publisher=FIFA |date=1 August 2012 |access-date=1 August 2012 |url-status=dead |archive-url=https://web.archive.org/web/20120827054334/http://www.fifa.com/worldcup/archive/edition%3D9/results/matches/match%3D1295/report.html |archive-date=27 August 2012}}</ref> In the final, Hungary played West Germany again. Although Hungary won the group match against the Germans, they lost 3–2 in the final in Bern at the Wankdorf Stadium.<ref>{{cite web|url=https://www.fifa.com/worldcup/archive/edition=9/results/matches/match=1278/report.html |title=1954 FIFA World Cup – Germany 3–2 Hungary |publisher=FIFA |date=1 August 2012 |access-date=1 August 2012 |url-status=dead |archive-url=https://web.archive.org/web/20120720061301/http://www.fifa.com/worldcup/archive/edition%3D9/results/matches/match%3D1278/report.html |archive-date=20 July 2012}}</ref> The Golden Team, built around the legendary Ferenc Puskás, led 2–0, but ended up losing 2–3 in a game the West Germans subsequently christened "[[1954 FIFA World Cup Final|The Miracle of Bern]]". In 2010, journalist Erik Eggers speculates in a study that the German team may have used drugs to beat the Hungarian team, who were considered "invincible" at that time.<ref>{{cite web|url=https://www.theguardian.com/football/2010/oct/27/west-germany-1954-drugs-study|title=West Germany's 1954 World Cup win may have been drug-fuelled, says study|publisher=Guardian|date=27 October 2010|access-date=27 October 2010}}</ref><ref>{{cite web|url=http://www.timeslive.co.za/sport/soccer/article727956.ece/Germanys-1954-World-Cup-winners-doped--study|title=Germany's 1954 World Cup winners doped: study|publisher=Times Live|date=27 October 2010|access-date=27 October 2010}}</ref><ref>{{cite news|url=https://www.independent.co.uk/sport/football/international/germany-accused-of-doping-in-1954-world-cup-2118271.html|title=Germany accused of doping in 1954 World Cup|publisher=Independent|date=27 October 2010|access-date=27 October 2010|archive-date=31 October 2010|archive-url=https://web.archive.org/web/20101031062420/http://www.independent.co.uk/sport/football/international/germany-accused-of-doping-in-1954-world-cup-2118271.html|url-status=live}}</ref>
+
+Hungary saw the [[Hungarian Revolution of 1956|1956 revolution]] break out just weeks before the [[Association football at the 1956 Summer Olympics|1956 Olympics]] in [[Melbourne]], which was also the scene of the [[Blood in the Water match|Blood in the Water Match]]. The football team also qualified as the defending champions, but they were withdrawn from the tournament. The political situation in Hungary caused several athletes to defect during the Olympics, including key players in the team. This marked the effective end of the Golden Team, as they would never play for the national team again. Among others, Puskás moved to [[Real Madrid CF|Real Madrid]] and later played for Spain, whereas Kocsis and Czibor left for [[FC Barcelona|Barcelona]].<ref>{{Cite news |last=Ashdown |first=John |date=2020-11-16 |title=Hungary's Golden Squad: the greatest football team never to win it all? |url=https://www.theguardian.com/football/blog/2020/nov/16/hungary-golden-squad-the-greatest-football-team-never-to-win-it-all |access-date=2024-02-10 |work=The Guardian |language=en-GB |issn=0261-3077}}</ref><ref>{{Cite web |last=Bellairs |first=Andy |date=2016-03-14 |title=Defections: Hungary at the Melbourne Olympics 1956 |url=https://www.vice.com/en/article/ypy3k5/defections-hungary-at-the-melbourne-olympics-1956 |access-date=2024-02-10 |website=Vice |language=en}}</ref>
+
+Hungary qualified for the [[1958 FIFA World Cup|1958 World Cup]] in Sweden.<ref>{{cite web|url=https://www.fifa.com/worldcup/archive/edition=15/index.html|archive-url=https://web.archive.org/web/20070603192440/http://fifa.com/worldcup/archive/edition=15/index.html|url-status=dead|archive-date=3 June 2007|title=1958 FIFA World Cup Sweden|publisher=FIFA|date=1 August 2012|access-date=1 August 2012}}</ref> They played their first match against [[Wales national football team|Wales]] at the [[Jarnvallen]] stadium in [[Sandviken]] and drew 1–1.<ref>{{cite web|url=https://www.fifa.com/worldcup/archive/edition=15/results/matches/match=1407/report.html|archive-url=https://web.archive.org/web/20071018075654/http://fifa.com/worldcup/archive/edition=15/results/matches/match=1407/report.html|url-status=dead|archive-date=18 October 2007|title=1958 FIFA World Cup – Hungary 1–1 Wales|publisher=FIFA|date=1 August 2012|access-date=1 August 2012}}</ref> The second group match was played against hosts Sweden, where Hungary lost 2–1 at the [[Råsunda Stadium]], [[Solna Municipality|Solna]].<ref>{{cite web|url=https://www.fifa.com/worldcup/archive/edition=15/results/matches/match=1406/report.html |title=1958 FIFA World Cup – Sweden 2–1 Hungary |publisher=FIFA |date=1 August 2012 |access-date=1 August 2012 |url-status=dead |archive-url=https://web.archive.org/web/20120822114731/http://www.fifa.com/worldcup/archive/edition%3D15/results/matches/match%3D1406/report.html |archive-date=22 August 2012}}</ref> Although Hungary won their last group match against [[Mexico national football team|Mexico]] at the [[Jarnvallen]] stadium in [[Sandvinken]],<ref>{{cite web|url=https://www.fifa.com/worldcup/archive/edition=15/results/matches/match=1403/report.html|archive-url=https://web.archive.org/web/20071001162213/http://www.fifa.com/worldcup/archive/edition=15/results/matches/match=1403/report.html|url-status=dead|archive-date=1 October 2007|title=1958 FIFA World Cup – Hungary 4–0 Mexico|publisher=FIFA|date=1 August 2012|access-date=1 August 2012}}</ref> they were eliminated from the World Cup after losing a play-off to Wales, who they had drawn level with on points. The Welsh had drawn all their group matches and then beat the once-mighty Hungarians in a play-off match to decide which nation should follow Sweden into the knock-out stage. Had goal difference been the decider, Hungary would have gone through, as the Hungarians had a goal tally of 6–3 compared to 2–2 for Wales. As it was, Wales instead met [[Brazil national football team|Brazil]] in the quarter-finals and were the recipient of young [[Pelé]]'s first World Cup goal.
+
+====1960s====
+[[File:Flórián Albert en Kálmán Mészöly.jpg|thumb|[[Flórián Albert]] (1941–2011) and [[Kálmán Mészöly]] (1941–2022)]]
+
+In 1960, Hungary entered the [[Football at the 1960 Summer Olympics|Olympics]] held in Rome and was drawn into Group D with France, Peru and India. Hungary finished top of the group after winning all matches by a combined goal difference of +12. In the semi-finals, they lost to Denmark 0–2, but beat Italy in the bronze medal match 2–1 thanks to a goals from Orosz,Dunai and Armin.
+
+Hungary qualified for the [[1962 FIFA World Cup|1962 World Cup]], held in [[Chile]].<ref>{{cite web|url=https://www.fifa.com/worldcup/archive/edition=21/index.html|archive-url=https://web.archive.org/web/20070603192519/http://fifa.com/worldcup/archive/edition=21/index.html|url-status=dead|archive-date=3 June 2007|title=1962 FIFA World Cup Chile|publisher=FIFA|date=1 October 2012|access-date=1 October 2012}}</ref> On 31 May 1962, in the first group match, Hungary beat England 2–1 thanks to goals scored by [[Lajos Tichy]] and [[Flórián Albert, Sr.|Flórián Albert]] at [[El Teniente]] stadium in [[Rancagua]].<ref>{{cite web|url=https://www.fifa.com/worldcup/archive/edition=21/results/matches/match=1490/report.html |title=1962 FIFA World Cup – Hungary 2–1 England |publisher=FIFA |date=1 October 2012 |access-date=1 October 2012 |url-status=dead |archive-url=https://web.archive.org/web/20120827120752/http://www.fifa.com/worldcup/archive/edition%3D21/results/matches/match%3D1490/report.html |archive-date=27 August 2012}}</ref> The second match on 3 June was even more convincing against [[Bulgaria national football team|Bulgaria]]; the match was won 6–1 in Rancagua.<ref>{{cite web|url=https://www.fifa.com/worldcup/archive/edition=21/results/matches/match=1470/report.html |title=1962 FIFA World Cup – Hungary 6–1 Bulgaria |publisher=FIFA |date=1 October 2012 |access-date=1 October 2012 |url-status=dead |archive-url=https://web.archive.org/web/20120917082623/http://www.fifa.com/worldcup/archive/edition%3D21/results/matches/match%3D1470/report.html |archive-date=17 September 2012}}</ref> The last group match was against [[Argentina national football team|Argentina]] and it was a goalless draw.<ref>{{cite web|url=https://www.fifa.com/worldcup/archive/edition=21/results/matches/match=1451/report.html |title=1962 FIFA World Cup – Hungary 0–0 Argentina |publisher=FIFA |date=1 October 2012 |access-date=1 October 2012 |url-status=dead |archive-url=https://web.archive.org/web/20120919020752/http://www.fifa.com/worldcup/archive/edition%3D21/results/matches/match%3D1451/report.html |archive-date=19 September 2012}}</ref> Hungary qualified for the quarter-finals by gaining five points and winning the group. In the quarter-finals, however, Hungary was eliminated by [[Czechoslovakia national football team|Czechoslovakia]] by 1–0 at El Teniente.<ref>{{cite web|url=https://www.fifa.com/worldcup/archive/edition=21/results/matches/match=1525/report.html |title=1962 FIFA World Cup – Czechoslovakia 1–0 Hungary |publisher=FIFA |date=1 October 2012 |access-date=1 October 2012 |url-status=dead |archive-url=https://web.archive.org/web/20120902062516/http://www.fifa.com/worldcup/archive/edition%3D21/results/matches/match%3D1525/report.html |archive-date=2 September 2012}}</ref>
+
+In 1964, Hungary again qualified for the [[Football at the 1964 Summer Olympics|1964 Olympics]] held in [[Tokyo]] and was drawn into Group B with defending champions Yugoslavia, Morocco and North Korea, the latter withdrawing. In their first match against Morocco, Hungary won 6–0 with all six goals scored by [[Ferenc Bene]]. In their second match, Hungary won narrowly (6–5) against Yugoslavia and advanced into the next round along with runners-up Yugoslavia. In the quarter-finals, Hungary beat Romania 2–0 with goals from Csernai. In the semi-finals, they beat United Arab Republic (Egypt) 6–0 with four goals from Bene and two from Komora. In the final, Hungary beat Czechoslovakia 2–1 thanks from an own goal by Weiss and a goal by Bene, winning their second gold medal.
+
+Hungary qualified for the [[1964 European Nations' Cup]] which was held in Spain. They played against [[Spain national football team|Spain]] in the semi-finals, losing 2–1 after extra time. The only Hungarian goal was scored by [[Ferenc Bene]]. In the third place play-off Hungary beat [[Denmark national football team|Denmark]] 3–1 after extra time.<ref>{{cite web|url=http://www.uefa.com/uefaeuro2012/history/season=1964/index.html |title=1964 European Nations' Cup Spain |date=28 August 2011 |publisher=[[Uefa.com]] |url-status=dead |archive-url=https://web.archive.org/web/20110830135103/http://www.uefa.com/uefaeuro2012/history/season%3D1964/index.html |archive-date=30 August 2011}}</ref>
+<!-- [[WP:NFCC]] violation: [[File:Florian Albert in 1967.jpg|thumb|left|200px|[[Flórián Albert]] receiving the [[European Footballer of the Year]] award in 1967]] -->
+
+Hungary also managed to qualify for the [[1966 FIFA World Cup|1966 World Cup]] which was held in England.<ref>{{cite web|url=https://www.fifa.com/worldcup/archive/edition=26/index.html|archive-url=https://web.archive.org/web/20070603185352/http://fifa.com/worldcup/archive/edition=26/index.html|url-status=dead|archive-date=3 June 2007|title=1966 FIFA World Cup England|publisher=FIFA|date=12 October 2012|access-date=12 October 2012}}</ref> On 13 July, Hungary lost their first group match against [[Eusébio]]'s [[Portugal national football team|Portugal]] (3–1) at [[Old Trafford]] in [[Manchester]].<ref>{{cite web|url=https://www.fifa.com/worldcup/archive/edition=26/results/matches/match=1675/report.html |title=1966 FIFA World Cup – Portugal 3–1 Hungary |publisher=FIFA |date=12 October 2012 |access-date=12 October 2012 |url-status=dead |archive-url=https://web.archive.org/web/20121101082944/http://www.fifa.com/worldcup/archive/edition%3D26/results/matches/match%3D1675/report.html |archive-date=1 November 2012}}</ref> Two days later, in the second group match Hungary beat Brazil at [[Goodison Park]], [[Liverpool]].<ref>{{cite web|url=https://www.fifa.com/worldcup/archive/edition=26/results/matches/match=1597/report.html |title=1966 FIFA World Cup – Hungary 3–1 Brazil |publisher=FIFA |date=12 October 2012 |access-date=12 October 2012 |url-status=dead |archive-url=https://web.archive.org/web/20121109063846/http://www.fifa.com/worldcup/archive/edition%3D26/results/matches/match%3D1597/report.html |archive-date=9 November 2012}}</ref> In the last group match, on 20 July, Hungary beat Bulgaria 3–1.<ref>{{cite web|url=https://www.fifa.com/worldcup/archive/edition=26/results/matches/match=1599/report.html |title=1966 FIFA World Cup – Hungary 3–1 Bulgaria |publisher=FIFA |date=12 October 2012 |access-date=12 October 2012 |url-status=dead |archive-url=https://web.archive.org/web/20120917043339/http://www.fifa.com/worldcup/archive/edition%3D26/results/matches/match%3D1599/report.html |archive-date=17 September 2012}}</ref> Hungary finished second in the group and qualified for the quarter-finals, where they were eliminated by the [[Soviet Union national football team|Soviet Union]] 2–1 at [[Roker Park]] in [[Sunderland, Tyne and Wear|Sunderland]].<ref>{{cite web|url=https://www.fifa.com/worldcup/archive/edition=26/results/matches/match=1676/report.html|archive-url=https://web.archive.org/web/20071016184333/http://fifa.com/worldcup/archive/edition=26/results/matches/match=1676/report.html|url-status=dead|archive-date=16 October 2007|title=1966 FIFA World Cup – Soviet Union 2–1 Hungary|publisher=FIFA|date=12 October 2012|access-date=12 October 2012}}</ref>
+
+In [[Football at the 1968 Summer Olympics|1968 Olympics]], Hungary qualified as defending champions to defend their title and was drawn into Group C with Israel, Ghana and El Salvador. Hungary finished top and advanced into the next round with Israel. In the quarter-finals, Hungary beat Guatemala narrowly, 1–0. In the semi-finals, they beat Japan 5–0. In the final, they beat Bulgaria 4–1 and won their third title, being the most successful team at the Olympics in football (Great Britain also won three titles but their first title is in 1904, and football only became an official event in 1908). However, Hungary failed to qualify for the [[1970 FIFA World Cup]], following a heavy 4–1 defeat to Czechoslovakia during a [[1970 FIFA World Cup qualification – UEFA Group 2|qualification play-off]], which many see as the beginning of a period of long-standing decline.
+
+[[Flórián Albert, Sr.|Flórián Albert]] was named [[European Footballer of the Year]] in 1967. He scored 255 goals in 351 matches from 1958 to 1974.
+
+===Slow regression===
+====1970s====
+[[File:Ardiles argentina hungria.jpg|thumb|right|[[Sándor Zombori|Zombori]] and [[Győző Martos|Martos]] against [[Osvaldo Ardiles|Ardiles]] and [[Mario Kempes|Kempes]] at the [[1978 FIFA World Cup]]]]
+Hungary came back again as long-time defending champions in the [[football at the 1972 Summer Olympics|1972 Olympics]] in Munich and was drawn into Group C with Denmark, [[Iran national football team|Iran]] and Brazil. They finished top and advanced into the next round with Denmark. In their second group round, they were drawn into Group 1 with [[East Germany national football team|East Germany]], West Germany and Mexico. They again finished top undefeated and advanced into the finals with East Germany. In the finals, they faced Poland and lost 1–2.
+
+Hungary qualified for the finals of the [[UEFA Euro 1972]] which was held in [[Belgium]]. In the semi-finals, Hungary faced the Soviet Union and lost 1–0. In the third place play-off, Hungary lost to [[Belgium national football team|Belgium]] 2–1.<ref>{{cite web|url=http://www.uefa.com/uefaeuro2012/history/season=1972/index.html |title=UEFA European Nations' Cup West Germany |date=15 May 2011 |publisher=[[Uefa.com]] |url-status=dead |archive-url=https://web.archive.org/web/20110831162839/http://www.uefa.com/uefaeuro2012/history/season%3D1972/index.html |archive-date=31 August 2011}}</ref> The Hungarians would not appear at the European Championship again until [[UEFA Euro 2016|Euro 2016]].<ref>{{Cite web|url=http://www.theguardian.com/football/2015/nov/15/hungary-norway-euro-2016-playoff|title=Hungary earn Euro 2016 spot by beating Norway to end finals drought|date=15 November 2015|website=The Guardian}}</ref>
+
+Hungary participated in the [[1978 FIFA World Cup|1978 World Cup]] which was held in [[Argentina]]. Facing the hosts, Argentina won the match 2–1. Hungary played their second group match against Italy and the ''Azzurri'' emerged victorious, 3–1. Hungary's third match was played against [[Michel Platini]]'s France losing 3–1.<ref>{{cite web|url=https://www.fifa.com/worldcup/archive/edition=50/results/index.html |title=1978 FIFA World Cup Argentina |date=15 May 2011 |publisher=FIFA |url-status=dead |archive-url=https://web.archive.org/web/20110829052827/http://www.fifa.com/worldcup/archive/edition%3D50/results/index.html |archive-date=29 August 2011}}</ref>
+
+====1980s====
+[[File:Hungary v el salvador 1982 11.jpg|thumb|right|[[Tibor Nyilasi|Nyilasi]] scored Hungary's tenth goal in the 83rd minute against [[El Salvador national football team|El Salvador]] during the [[Hungary v El Salvador (1982 FIFA World Cup)|10-1]] win at the [[1982 FIFA World Cup]]]]
+
+During the 1980s, Hungary qualified for the World Cup twice. The first group match of the [[1982 FIFA World Cup|1982 tournament]] in Spain<ref>{{cite web|url=https://www.fifa.com/worldcup/archive/edition=59/index.html|archive-url=https://web.archive.org/web/20070603191955/http://fifa.com/worldcup/archive/edition=59/index.html|url-status=dead|archive-date=3 June 2007|title=1982 FIFA World Cup Spain|date=15 May 2011|publisher=FIFA}}</ref> was played against [[El Salvador national football team|El Salvador]], where Hungary won 10–1 at [[Estadio Manuel Martínez Valero|Estadio Nuevo]], [[Elche]].<ref>{{cite web|url=https://www.fifa.com/worldcup/archive/edition=59/results/matches/match=896/report.html |title=Hungary – El Salvador 10:1 (3:0) |date=15 June 1982 |publisher=FIFA |url-status=dead |archive-url=https://web.archive.org/web/20100615211424/http://www.fifa.com/worldcup/archive/edition%3D59/results/matches/match%3D896/report.html |archive-date=15 June 2010}}</ref> After the massive win, the Magyars lost to 4–1 to [[Diego Maradona]]'s Argentina in the second match of the group stages. Maradona scored twice, while the only Hungarian goal was scored by Pölöskei at the [[Estadio José Rico Pérez]] in [[Alicante]].<ref>{{cite web|url=https://www.fifa.com/worldcup/archive/edition=59/results/matches/match=752/report.html |title=Argentina – Hungary 4:1 (2:0) |date=18 June 1982 |publisher=FIFA |url-status=dead |archive-url=https://web.archive.org/web/20110829083147/http://www.fifa.com/worldcup/archive/edition%3D59/results/matches/match%3D752/report.html |archive-date=29 August 2011}}</ref> After Hungary drew in the last match against Belgium,<ref>{{cite web|url=https://www.fifa.com/worldcup/archive/edition=59/results/matches/match=779/report.html |title=Belgium – Hungary 1:1 (0:1) |date=22 June 1982 |publisher=FIFA |url-status=dead |archive-url=https://web.archive.org/web/20131216114445/http://www.fifa.com/worldcup/archive/edition%3D59/results/matches/match%3D779/report.html |archive-date=16 December 2013}}</ref> they were eliminated from the World Cup.
+
+Hungary's last World Cup appearance to date was the [[1986 FIFA World Cup|1986 World Cup]] in [[Mexico]].<ref>{{cite web|url=https://www.fifa.com/worldcup/archive/edition=68/index.html|archive-url=https://web.archive.org/web/20070603192427/http://fifa.com/worldcup/archive/edition=68/index.html|url-status=dead|archive-date=3 June 2007|title=1986 FIFA World Cup Mexico|date=15 May 2011|publisher=FIFA}}</ref> In the first match of the group Hungary lost 6–0 to the [[Soviet Union national football team|Soviet Union]].<ref>{{cite web|url=https://www.fifa.com/worldcup/archive/edition=68/results/matches/match=610/report.html |title=Soviet Union – Hungary 6:0 (3:0) |date=2 June 1986 |publisher=FIFA |url-status=dead |archive-url=https://web.archive.org/web/20100615211856/http://www.fifa.com/worldcup/archive/edition%3D68/results/matches/match%3D610/report.html |archive-date=15 June 2010}}</ref> Although Hungary won their second match against [[Canada men's national soccer team|Canada]] 2–0,<ref>{{cite web|url=https://www.fifa.com/worldcup/archive/edition=68/results/matches/match=475/report.html |title=Hungary – Canada 2:0 (1:0) |date=6 June 1986 |publisher=FIFA |url-status=dead |archive-url=https://web.archive.org/web/20120106064607/http://www.fifa.com/worldcup/archive/edition%3D68/results/matches/match%3D475/report.html |archive-date=6 January 2012}}</ref> they lost to Michel Platini's France 3–0 in the last group match.<ref>{{cite web|url=https://www.fifa.com/worldcup/archive/edition=68/results/matches/match=567/report.html|archive-url=https://web.archive.org/web/20071014184246/http://fifa.com/worldcup/archive/edition=68/results/matches/match=567/report.html|url-status=dead|archive-date=14 October 2007|title=Hungary – France 0:3 (0:1)|date=9 June 1986|publisher=FIFA}}</ref>
+
+===Era of decline===
+====1990s====
+During the 1990s, Hungary were not able to qualify for any international tournaments except for the [[1996 Summer Olympics]] held in [[Atlanta]]. In 1996, the team reached its lowest [[FIFA World Rankings|FIFA World Ranking]] at 87th. The [[End of communism in Hungary (1989)|fall of the Hungarian communist regime]] caused financial problems to many Hungarian clubs. Formerly successful clubs like [[Ferencvárosi TC|Ferencváros]] and [[Újpest FC|Újpest]] faced financial crisis and bankruptcy. This had a profound effect on the Hungary national team as well, as earlier, the biggest clubs from [[Budapest]] (Ferencváros, Újpest, [[Budapest Honvéd FC|Honvéd]] and [[MTK Budapest FC|MTK]]) produced players for the national side. Another important reason for the decline can be attributed to the [[Bosman ruling]]; since the Hungarian clubs lost the financial aid from the state in the early 1990s, they were not able to compete with richer [[Western Europe]]an clubs.
+
+Hungarian legend Ferenc Puskás was appointed as the head coach of the national side in 1993. He led the team for only four matches, however, as the former Honvéd and [[Real Madrid CF|Real Madrid]] star failed to make an impact. The only success in the 1990s was the qualification of Hungary to the [[1996 Summer Olympics]]. [[Antal Dunai]]'s team played its first group match against [[Nigeria national football team|Nigeria]] and lost to 1–0 in [[Orlando, Florida|Orlando]].<ref>{{cite web|url=https://www.fifa.com/tournaments/archive/tournament=512/edition=197142/matches/match=32224/report.html|archive-url=https://web.archive.org/web/20071123235142/http://www.fifa.com/tournaments/archive/tournament=512/edition=197142/matches/match=32224/report.html|url-status=dead|archive-date=23 November 2007|title=Nigeria – Hungary 1:0 (0:0)|publisher=FIFA|date=21 July 1996|access-date=22 May 2011}}</ref> In the second group match, Hungary played Brazil and lost 3–1.<ref>{{cite web|url=https://www.fifa.com/tournaments/archive/tournament=512/edition=197142/matches/match=32231/report.html |title=Brazil – Hungary 3:1 (1:0) |publisher=FIFA |date=23 July 1996 |access-date=22 May 2011 |url-status=dead |archive-url=https://web.archive.org/web/20110722134821/http://www.fifa.com/tournaments/archive/tournament%3D512/edition%3D197142/matches/match%3D32231/report.html |archive-date=22 July 2011}}</ref> The last group match was played against [[Japan national football team|Japan]], a 3–2 loss.<ref>{{cite web|url=https://www.fifa.com/tournaments/archive/tournament=512/edition=197142/matches/match=32240/report.html |title=Japan – Hungary 3:2 (1:1) |publisher=FIFA |date=25 July 1996 |access-date=22 May 2011 |url-status=dead |archive-url=https://web.archive.org/web/20120823113423/http://www.fifa.com/tournaments/archive/tournament%3D512/edition%3D197142/matches/match%3D32240/report.html |archive-date=23 August 2012}}</ref> Hungary were eliminated in the [[1998 FIFA World Cup|1998 World Cup]] [[1998 FIFA World Cup qualification (UEFA)|qualifying]] play-offs by [[Yugoslavia national football team|Yugoslavia]] with a 12–1 aggregate score.<ref>{{cite web|url=https://www.fifa.com/worldcup/archive/edition=1013/preliminaries/preliminary=893/index.html |title=1998 FIFA World Cup France Preliminaries |publisher=FIFA |date=19 October 1997 |access-date=22 May 2011 |url-status=dead |archive-url=https://web.archive.org/web/20111220021549/http://www.fifa.com/worldcup/archive/edition%3D1013/preliminaries/preliminary%3D893/index.html |archive-date=20 December 2011}}</ref>
+[[File:Hunswe2009.jpg|thumb|250px|right|Hungary in [[2010 FIFA World Cup qualification – UEFA Group 1|2010 FIFA World Cup qualification]] against Sweden at [[Ferenc Puskás Stadium (1953)|Ferenc Puskás Stadium]] on 5 September 2009]]
+
+====2000s====
+During the 2000s, the Hungarian national soccer team faced several challenges and did not achieve significant success in major international tournaments. They struggled to qualify for major competitions like the FIFA World Cup and the [[UEFA European Championship]]. Despite their efforts, the team often fell short in the qualification stages, which was a source of disappointment for fans and players alike. The lack of consistent performance and the inability to compete at the highest levels led to a period of stagnation for Hungarian soccer on the international stage.<ref>{{Cite web |title=Hungary [U20] - Squad U20 |url=https://www.worldfootball.net/teams/te31152/ |access-date=2024-09-10 |website=worldfootball.net |language=en}}</ref>
+
+However, there was a bright spot in 2009 when the Hungary U-20 team won a bronze medal at the [[FIFA U-20 World Cup]] in [[Egypt national football team|Egypt]]. The U-20 team’s success was seen as a potential turning point for Hungarian soccer, highlighting the country’s ability to develop young talent, including [[Vladimir Koman]] and [[Ádám Szalai]].<ref>{{Cite web |title=Hungary national football team 'A' international record: 2000 |url=https://www.11v11.com/teams/hungary/tab/matches/season/2000/}}</ref>
+
+Throughout the decade, Hungarian clubs also made some progress in European competitions, though they did not reach the later stages. The domestic league saw fluctuating performances, with clubs like [[Ferencvárosi TC|Ferencváros]] and [[Debreceni VSC|Debrecen]] occasionally making it to the group stages of the UEFA Champions League and UEFA Europa League.<ref>{{Cite web |date=2021-08-09 |title=The Hungarian Tricolor at the 2020 Tokyo Olympics – a Photo Gallery |url=https://hungarytoday.hu/hungary-olympics-tokyo-2020/ |access-date=2024-09-10 |website=Hungary Today |language=en}}</ref>
+
+===Resurgence===
+====2010s====
+[[File:Hungary NT 2011.jpg|thumb|Hungary in a friendly tie against [[Poland national football team|Poland]] on 15 November 2011 at the [[Stadion Miejski (Poznań)|Stadion Miejski]], [[Poznań]], [[Poland]]. The line-up included [[Balázs Dzsudzsák|Dzsudzsák]], [[Roland Juhász|Juhász]], [[József Varga (footballer, born 1988)|Varga]], [[Tamás Priskin|Priskin]], [[Vladimir Koman|Koman]], [[Zsolt Laczkó|Laczkó]], [[Dániel Tőzsér|Tőzsér]], [[Vilmos Vanczák|Vanczák]], [[György Sándor (footballer)|Sándor]], [[Ádám Bogdán|Bogdán]] and [[Zoltán Gera|Gera]]]]
+
+The [[Hungary national under-20 football team|Hungary national under-20 team]] head coach [[Sándor Egervári]] was appointed as head coach for the senior side ahead of [[UEFA Euro 2012 qualifying|Euro 2012 qualifying]] in which Hungary were drawn against [[Finland national football team|Finland]], [[Moldova national football team|Moldova]], the [[Netherlands national football team|Netherlands]], [[San Marino national football team|San Marino]] and Sweden.<ref>{{cite web|url=https://www.uefa.com/uefaeuro/history/news/0254-0d7cbb36994c-eabca7292e5b-1000--hungary-replace-koeman-with-egervari/|title=Hungary replace Koeman with Egervári|date=23 July 2010|website=[[UEFA]]|publisher=UEFA|access-date=28 August 2011|archive-date=6 October 2022|archive-url=https://web.archive.org/web/20221006131508/https://www.uefa.com/uefaeuro/history/news/0254-0d7cbb36994c-eabca7292e5b-1000--hungary-replace-koeman-with-egervari/|url-status=live}}</ref> Hungary won six, drew one and lost three games as they finished the group in third place with 19 points. During the qualification process, in September 2011, Hungary reached the 27th place in the FIFA World Ranking, their highest position to date.<ref>{{cite web|url=https://www.fifa.com/associations/association=hun/ranking/gender=m/index.html|archive-url=https://web.archive.org/web/20070624115734/http://www.fifa.com/associations/association=hun/ranking/gender=m/index.html|url-status=dead|archive-date=24 June 2007|title=FIFA/Coca-Cola World Ranking – Associations – Hungary – Men's |date=21 September 2011|website=FIFA.com|publisher=FIFA}}</ref> At the end of the year, the national team played [[Liechtenstein national football team|Liechtenstein]] as a commemoration of the recently deceased Flórián Albert,<ref>{{cite web|url=http://www.uefa.com/uefa/aboutuefa/organisation/history/obituaries/newsid=1707397.html|title=Hungarian Ballon d'Or winner Albert dies|date=31 October 2011|website=[[UEFA]]|publisher=UEFA|access-date=11 November 2011|archive-date=1 November 2011|archive-url=https://web.archive.org/web/20111101113336/http://www.uefa.com/uefa/aboutuefa/organisation/history/obituaries/newsid=1707397.html|url-status=dead}}</ref> the only Hungarian football player to win the [[Ballon d'Or]].
+
+Hungary were drawn in Group D in their [[2014 FIFA World Cup qualification (UEFA)|2014 World Cup qualifying]], along with the Netherlands, [[Turkey national football team|Turkey]], [[Romania national football team|Romania]], [[Estonia national football team|Estonia]] and [[Andorra national football team|Andorra]]. They amassed 14 points entering the penultimate round of games, but suffered a joint national record defeat 8–1 to the Netherlands, which resulted in the resignation of head coach Sándor Egervári.<ref>{{cite web|url=https://www.fifa.com/worldcup/preliminaries/europe/matches/round=258374/match=300183556/index.html|archive-url=https://web.archive.org/web/20131004224723/http://www.fifa.com/worldcup/preliminaries/europe/matches/round=258374/match=300183556/index.html|url-status=dead|archive-date=4 October 2013|title=FIFA 2014 World Cup qualification: Netherlands 8–1 Hungary|date=11 October 2013|website=FIFA.com|publisher=FIFA}}</ref><ref>{{cite web|url=https://www.fifa.com/worldcup/preliminaries/news/newsid=2194168/index.html|archive-url=https://web.archive.org/web/20131014224150/http://www.fifa.com/worldcup/preliminaries/news/newsid=2194168/index.html|url-status=dead|archive-date=14 October 2013|title=Eight-goal Oranje dent Hungary hopes|date=11 October 2013|website=FIFA.com|publisher=FIFA}}</ref><ref>{{cite web|url=https://www.fifa.com/worldcup/preliminaries/news/newsid=2195079/index.html|archive-url=https://web.archive.org/web/20131012110133/http://www.fifa.com/worldcup/preliminaries/news/newsid=2195079/index.html|url-status=dead|archive-date=12 October 2013|title=Egervari resigns after record defeat|date=12 October 2013|website=FIFA.com|publisher=FIFA}}</ref> For their final group game, a 2–0 win against Andorra, Hungary were led by caretaker manager József Csábi.<ref>{{cite web|url=https://www.fifa.com/worldcup/preliminaries/europe/matches/round=258374/match=300183566/index.html?intcmp=livecoverage_header_fwcq_en|archive-url=https://web.archive.org/web/20131021205838/http://www.fifa.com/worldcup/preliminaries/europe/matches/round=258374/match=300183566/index.html?intcmp=livecoverage_header_fwcq_en|url-status=dead|archive-date=21 October 2013|title=FIFA 2014 World Cup qualification: Hungary 2–0 Andorra|date=15 October 2013|website=FIFA.com|publisher=FIFA}}</ref><ref>{{cite web|url=https://www.fifa.com/worldcup/preliminaries/news/newsid=2196261/index.html|archive-url=https://web.archive.org/web/20131015203356/http://www.fifa.com/worldcup/preliminaries/news/newsid=2196261/index.html|url-status=dead|archive-date=15 October 2013|title=Hungarian victory to no avail|date=15 October 2013|website=FIFA.com|publisher=FIFA}}</ref> They finished in third place in the group, on 17 points, missing out on qualification.
+
+[[Attila Pintér (footballer, born 1966)|Attila Pintér]] was appointed as head coach of the national team in December 2013.<ref>{{cite web|url=https://www.uefa.com/european-qualifiers/news/0253-0d7f0f2de04d-ed8dbd125d74-1000--hungary-pick-pinter-to-replace-egervari/|title=Hungary pick Pintér to replace Egervári|date=19 December 2013|publisher=[[UEFA]]}}</ref> Some{{Who|date=September 2015}} had seen this decision as controversial, given Pintér's low popularity with fans and players alike.<ref>{{cite web|url=http://sportgeza.hu/futball/2013/12/19/a_szamar_is_jo_lett/|title=A szamár is jó lett|first=Ághassi|last=Attila|date=28 May 2023 }}</ref> The team played their first game at the newly constructed [[Groupama Arena]] on 7 September 2014, a 2–1 defeat to [[Northern Ireland national football team|Northern Ireland]] in [[UEFA Euro 2016 qualifying Group F|Euro 2016 qualifying]].<ref>{{cite web|url=https://www.uefa.com/uefaeuro/match/2013817--hungary-vs-northern-ireland/|title=Lafferty aglow after Northern Irish Hungary win|date=7 September 2014|publisher=[[Uefa.com]]|access-date=8 September 2014|archive-date=22 December 2014|archive-url=https://web.archive.org/web/20141222014128/http://www.uefa.com/uefaeuro/qualifiers/season=2016/matches/round=2000446/match=2013817/postmatch/quotes/index.html|url-status=live}}</ref> Pintér was subsequently dismissed, with [[Pál Dárdai]] appointed as a [[Caretaker manager|temporary replacement]] for three matches.<ref>{{cite web|url=https://www.fifa.com/world-match-centre/news/newsid/244/157/1/|archive-url=https://web.archive.org/web/20140921062643/http://www.fifa.com/world-match-centre/news/newsid/244/157/1/|url-status=dead|archive-date=21 September 2014|title=Hungary sack Pinter, bring in Dardai|date=18 September 2014|publisher=[[FIFA]].com| access-date = 24 September 2014}}</ref><ref>{{cite web|url=https://www.uefa.com/european-qualifiers/news/0253-0d7f93f11ebd-94534dac458c-1000--pinter-makes-way-for-dardai-as-hungary-coach/|title=Pintér makes way for Dárdai as Hungary coach|date=18 September 2014|publisher=[[UEFA]].com|access-date=24 September 2014|archive-date=7 November 2015|archive-url=https://web.archive.org/web/20151107170523/http://www.uefa.com/uefaeuro/qualifiers/news/newsid=2149811.html|url-status=live}}</ref> He turned down an offer to manage the team on a permanent basis,<ref>{{cite web|title=Pinter entlassen – Dardai wird Ungarns Interimstrainer|trans-title=Pinter dismissed – Dardai becomes interim manager of Hungary|language=de|date=18 September 2014|access-date=19 September 2014|publisher=[[Kicker (sports magazine)|kicker]]|url=https://www.kicker.de/pinter-entlassen---dardai-wird-ungarns-interimstrainer-612028/artikel}}</ref> but was kept on.<ref>{{cite web|url=http://www.nemzetisport.hu/magyar_valogatott/valogatott-dardai-ingyen-iranyitja-a-nemzeti-csapatot-2364355|title=Válogatott: Dárdai ingyen irányítja a nemzeti csapatot|date=18 September 2014|publisher=[[Nemzeti Sport]]|access-date=24 September 2014|language=hu|archive-date=19 September 2014|archive-url=https://web.archive.org/web/20140919052448/http://www.nemzetisport.hu/magyar_valogatott/valogatott-dardai-ingyen-iranyitja-a-nemzeti-csapatot-2364355|url-status=live}}</ref>
+
+[[File:1 Zoltán Stieber.jpg|thumb|[[Zoltán Stieber|Stieber]] against [[Jóhann Berg Guðmundsson|Guðmundsson]], [[Birkir Bjarnason|Bjarnason]] and [[Gylfi Sigurðsson|Sigurðsson]] of [[Iceland national football team|Iceland]], during Hungary's second group match of [[UEFA Euro 2016]]]]
+
+On 15 November 2015, a Storck-led Hungary qualified for its first European Championship ([[UEFA Euro 2016]]) in 44 years and its major tournament in 30 years.<ref>{{cite web|url=https://www.uefa.com/uefaeuro/history/news/0253-0d80bce3c43b-bb370bb0bf4f-1000--hungary-bounce-back-to-end-long-finals-wait/|title=Hungary bounce back to end long finals wait|date=15 November 2015|publisher=[[Uefa.com]]|access-date=16 November 2015|archive-date=16 November 2015|archive-url=https://web.archive.org/web/20151116153353/http://www.uefa.com/uefaeuro/finals/news/newsid=2291499.html#hungary+bounce+back+long+finals+wait|url-status=live}}</ref> Hungary beat [[Norway national football team|Norway]] in the first leg of the [[UEFA Euro 2016 qualifying play-offs|qualifying playoffs]] 1–0; the only goal was scored by [[László Kleinheisler]].<ref>{{cite web|url=https://www.uefa.com/uefaeuro/match/2018077--norway-vs-hungary/|title=Kleinheisler gives Hungary win in Norway|date=12 November 2015|publisher=[[Uefa.com]]|access-date=16 November 2015|archive-date=12 November 2015|archive-url=https://web.archive.org/web/20151112210938/http://www.uefa.com/uefaeuro/qualifiers/season=2016/matches/round=2000447/match=2018077/index.html|url-status=live}}</ref> On the return match, Hungary beat Norway 2–1 and qualified for the Euro 2016 finals.<ref>{{cite web|url=https://www.uefa.com/uefaeuro/match/2018081--hungary-vs-norway/|title=Hungary bound for finals after Norway win|date=15 November 2015|publisher=[[Uefa.com]]|access-date=15 November 2015|archive-date=16 November 2015|archive-url=https://web.archive.org/web/20151116010245/http://www.uefa.com/uefaeuro/qualifiers/season=2016/matches/round=2000447/match=2018081/index.html|url-status=live}}</ref> After beating Austria 2–0 and drawing with [[Iceland national football team|Iceland]], Hungary played an exciting 3–3 draw against [[UEFA Euro 2016 Final|eventual Euro winners Portugal]]. Hereupon, Hungary managed to qualify for the round of 16 with a game to spare, marking their best Euro or World Cup performance in over 40 years.
+
+Hungary failed to qualify for the [[2018 FIFA World Cup]] in Russia after finishing outside of the qualification places.  Along the way, they drew against the [[Faroe Islands national football team|Faroe Islands]] and were humiliated after being defeated by [[Andorra national football team|Andorra]] 1–0.  After failing to qualify, manager [[Bernd Storck]] resigned.<ref>{{Cite news|url = https://www.reuters.com/article/uk-soccer-hungary-storck/hungary-coach-storck-leaves-after-world-cup-qualification-failure-idUKKBN1CM2UH|title = Hungary coach Storck leaves after World Cup qualification failure|newspaper = Reuters|date = 17 October 2017|access-date = 9 November 2017|archive-date = 10 November 2017|archive-url = https://web.archive.org/web/20171110114635/https://www.reuters.com/article/uk-soccer-hungary-storck/hungary-coach-storck-leaves-after-world-cup-qualification-failure-idUKKBN1CM2UH|url-status = live}}</ref>
+On 10 November 2017, Hungary was embarrassed again when they were defeated by [[Luxembourg national football team|Luxembourg]] 2–1 in a friendly.<ref>{{Cite web| url=https://www.chicago-fire.com/post/2017/11/09/nikolic-scores-hungary-falls-2-1-luxembourg-international-friendly| title=Nikolic scores as Hungary falls 2–1 to Luxembourg in international friendly| date=9 November 2017| access-date=9 November 2017| archive-date=10 November 2017| archive-url=https://web.archive.org/web/20171110024245/https://www.chicago-fire.com/post/2017/11/09/nikolic-scores-hungary-falls-2-1-luxembourg-international-friendly| url-status=live}}</ref>
+On 30 October 2017, Georges Leekens was appointed as a new head coach. Hungary lost both matches in March 2018, the first defeat was another embarrassing one against minnows [[Kazakhstan national football team|Kazakhstan]] (2–3).
+
+On 19 June 2018, after three losses and one draw under his reign, Leekens was let go and [[Marco Rossi (footballer, born 1964)|Marco Rossi]] was appointed in his place.<ref>{{Cite web|url=https://valogatott.mlsz.hu/ferfi-a-valogatott/hir/szurkolok/marco-rossi-veszi-at-a-valogatott-iranyitasat|title=Marco Rossi veszi át a válogatott irányítását|website=valogatott.mlsz.hu|access-date=19 June 2018|archive-date=20 June 2018|archive-url=https://web.archive.org/web/20180620001108/https://valogatott.mlsz.hu/ferfi-a-valogatott/hir/szurkolok/marco-rossi-veszi-at-a-valogatott-iranyitasat|url-status=live}}</ref>
+
+[[2018–19 UEFA Nations League C]] saw Hungary drawn with Finland, [[Greece national football team|Greece]] and [[Estonia national football team|Estonia]]. Hungary had a nearly successful performance, but losses to Finland and Greece shattered their hope to finish in the top of the group. However, UEFA revised the formula aftermath, meaning Hungary was officially promoted to [[2020–21 UEFA Nations League B]], having finished second before.
+
+The [[UEFA Euro 2020 qualifying]] drew a mixed result for the Hungarians. Grouped in [[UEFA Euro 2020 qualifying Group E|group E]], they faced [[Croatia national football team|Croatia]], [[Wales national football team|Wales]], [[Slovakia national football team|Slovakia]] and [[Azerbaijan national football team|Azerbaijan]]; the former occupied the silver medal in the [[2018 FIFA World Cup]] while the latter was one of 12 host countries in the tournament. Hungary performed successfully against Croatia and Wales at home, obtaining needed victories, as well as successive wins over Azerbaijan. However, two straight defeats to Slovakia and away losses to Croatia and Wales, with the final loss happened when Hungary had a chance to qualify directly, sent Hungary into a disappointing fourth-place finish at the expense of the Welsh who qualified directly instead.<ref>{{Cite web|url=https://www.walesonline.co.uk/sport/football/football-news/wales-v-hungary-live-kick-17276617|title=Wales just qualified for Euro 2020|first1=Paul|last1=Abbandonato|first2=Ian|last2=Mitchelmore|date=19 November 2019|website=WalesOnline|access-date=4 March 2021|archive-date=6 October 2022|archive-url=https://web.archive.org/web/20221006131507/https://www.walesonline.co.uk/sport/football/football-news/wales-qualify-for-euro-2020-17276617|url-status=live}}</ref> However, Hungary was able to obtain a play-off spot, thanked for finishing second in their group at the Nations League, behind Finland, and was scheduled against [[Bulgaria national football team|Bulgaria]].
+
+====2020s====
+[[File:20210619smic0039.jpg|thumb|250px|right|[[Attila Szalai|Szalai]] against [[Paul Pogba|Pogba]] of [[France national football team|France]], during Hungary's second group match of [[UEFA Euro 2020]]]]
+While Hungary could only gain a play-off spot in hope to reach the [[UEFA Euro 2020]], Hungary's strong result in previous Nations League gathered more optimism. Hungary began their quest in [[2020–21 UEFA Nations League B]] sharing a group with [[Russia national football team|Russia]], [[Turkey national football team|Turkey]] and [[Serbia national football team|Serbia]]. Hungary impressed in their 1–0 victory against host Turkey, [[Dominik Szoboszlai]] scoring the game's only goal with a 30-meter free kick.<ref>{{Cite web|url=https://turkish-football.com/turkey-0-1-hungary-crescent-stars-suffer-defeat-in-opening-uefa-nations-league-clash/|title=Turkey 0–1 Hungary: Crescent Stars suffer defeat in opening UEFA Nations League clash|first=Emre|last=Sarigul|date=4 September 2020}}</ref><ref>{{Cite web |date=3 September 2020 |title=Szoboszlai's sensational strike defeats Turkey |url=https://en.mlsz.hu/hir/szoboszlais-sensational-strike-defeats-turkey}}</ref> However, Hungary faced a setback when Russia, who Hungary had failed to win against since 1978, beat them at home 3–2.<ref>{{Cite web|url=https://junipersports.com/2-3-russia-wins-but-ends-up-asking-for-the-time-against-hungary/|title=2–3: Russia wins but ends up asking for the time against Hungary}}{{Dead link|date=August 2024 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> A series of good results followed later, with two draws against Russia and Serbia, an important away win over the Serbs in [[Belgrade]], and more importantly, a much needed 2–0 win over Turkey at home. This meant that Hungary was able to gain promotion at the expense of Russia to the [[2022–23 UEFA Nations League A]].
+
+In October 2020, Hungary participated in the [[UEFA Euro 2020 qualifying play-offs|play-offs]] to qualify for UEFA Euro 2020, where they faced [[Bulgaria national football team|Bulgaria]] in their first game of the play-off series. After making an away trip to [[Sofia]], Hungary shone with a 3–1 win to reach the final of the play-off to face [[Iceland national football team|Iceland]] a month later, behind closed doors.<ref>{{Cite web|url=https://www.nemzetisport.hu/magyar_valogatott/eb-2020-bulgaria-magyarorszag-potselejtezo-2788555|title=Megérkeztünk az álmok kapujába – Budapesten vívhatjuk ki az Eb-rész|last1=Babják | first1 = Bence |last2=Kocsmár-Tóth | first2 = István |last3=Nagy-Pál | first3 = Tamás |last4= Szabó | first4 = Miklós|date=8 October 2020|website=NSO |access-date=4 March 2021|archive-date=6 October 2022|archive-url=https://web.archive.org/web/20221006132041/https://www.nemzetisport.hu/magyar_valogatott/eb-2020-bulgaria-magyarorszag-potselejtezo-2788555|url-status=live}}</ref> The team qualified for the tournament winning 2–1, with last-minute strikes from [[Loïc Nego]] and [[Dominik Szoboszlai]] to take Hungary into the competition despite an earlier mistake by [[Péter Gulácsi]].<ref>{{cite web|url=https://www.bbc.com/sport/football/54921127|title=Hungary 2 Iceland 1|date=12 November 2020|work=BBC Sport|access-date=13 November 2020|archive-date=14 November 2020|archive-url=https://web.archive.org/web/20201114053424/https://www.bbc.com/sport/football/54921127|url-status=live}}</ref>
+
+[[File:Hun squad.jpg|thumb|Hungary national team in 2022 against [[Germany national football team|Germany]] in [[2022–23 UEFA Nations League A|Nations League]]]]
+
+With Euro 2020 being postponed to 2021 because of [[COVID-19]], Hungary was drawn in the "[[group of death]]" of the tournament. [[UEFA Euro 2020 Group F|Group F]] featured Portugal, the defending European champions, France, the defending World Champions and the runner-up at the previous tournament and Germany.<ref>{{Cite web |last=Church |first=Ben |date=2019-11-30 |title=Euro 2020: World champion France drawn in 'group of death' |url=https://www.cnn.com/2019/11/30/football/euro-2020-draw-spt-intl/index.html |access-date=2023-03-01 |website=CNN |language=en}}</ref> The Hungarians fought against the odds and put on a heroic performance; despite losing 3–0 to Portugal,<ref>{{Cite web|url=https://www.goal.com/hu/m%C3%A9rk%C5%91z%C3%A9s/magyarorsz%C3%A1g-vs-portug%C3%A1lia/3rowb9lwimq6qc5e7nzae67oq|title=Magyarország v Portugália ÉLŐ, 15 junius 2021|access-date=6 October 2022|archive-date=7 June 2022|archive-url=https://web.archive.org/web/20220607132348/https://www.goal.com/hu/m%C3%A9rk%C5%91z%C3%A9s/magyarorsz%C3%A1g-vs-portug%C3%A1lia/3rowb9lwimq6qc5e7nzae67oq|url-status=live}}</ref> the Hungarians recorded two points against France and Germany.<ref>{{Cite web|url=https://www.goal.com/hu/m%C3%A9rk%C5%91z%C3%A9s/magyarorsz%C3%A1g-vs-franciaorsz%C3%A1g/8ccv06njukror1nbhijc009yi|title=Magyarország v Franciaország ÉLŐ, 19 junius 2021|access-date=6 October 2022|archive-date=4 June 2022|archive-url=https://web.archive.org/web/20220604081208/https://www.goal.com/hu/m%C3%A9rk%C5%91z%C3%A9s/magyarorsz%C3%A1g-vs-franciaorsz%C3%A1g/8ccv06njukror1nbhijc009yi|url-status=live}}</ref>
+
+2022 again brought the "group of death" for Hungary, as during the [[2022–23 UEFA Nations League]] the team had to face off three former world champions in group A3, Italy, Germany, and England respectively. While prior the matches the team was widely considered to be a key contestant for relegation,<ref>{{Cite news |last=Taylor |first=Louise |date=2021-12-16 |title=England to face Germany, Italy and Hungary in Nations League |language=en-GB |work=The Guardian |url=https://www.theguardian.com/football/2021/dec/16/england-draw-germany-italy-and-hungary-in-nations-league |access-date=2023-03-01 |issn=0261-3077}}</ref> the Red-White-Greens quickly proved their worth when they beat Euro 2020 runner-up England 1–0 with a [[Dominik Szoboszlai]] penalty an hour into the match.<ref>{{cite web | url=https://www.uefa.com/uefanationsleague/match/2034431--hungary-vs-england/ | title=Hungary-England &#124; UEFA Nations League 2023 | access-date=25 September 2022 | archive-date=25 September 2022 | archive-url=https://web.archive.org/web/20220925121455/https://www.uefa.com/uefanationsleague/match/2034431--hungary-vs-england/ | url-status=live }}</ref> After the victory, expectations were cooled with a 2–1 defeat against Italy in [[Cesena]],<ref>{{cite web | url=https://www.uefa.com/uefanationsleague/match/2034459--italy-vs-hungary/ | title=Italy-Hungary &#124; UEFA Nations League 2023 | access-date=25 September 2022 | archive-date=25 September 2022 | archive-url=https://web.archive.org/web/20220925194209/https://www.uefa.com/uefanationsleague/match/2034459--italy-vs-hungary/ | url-status=live }}</ref> nevertheless, an early [[Zsolt Nagy (footballer, born 1993)|Zsolt Nagy]] goal that could only be equalized by [[Jonas Hofmann]] resulted in a 1–1 draw against Germany,<ref>{{cite web | url=https://www.uefa.com/uefanationsleague/match/2034488--hungary-vs-germany/ | title=Hungary-Germany &#124; UEFA Nations League 2023 | access-date=25 September 2022 | archive-date=25 September 2022 | archive-url=https://web.archive.org/web/20220925121447/https://www.uefa.com/uefanationsleague/match/2034488--hungary-vs-germany/ | url-status=live }}</ref> placing the team second in the group behind Italy. On 14 June, Hungary visited England in [[Wolverhampton]], achieving a stunning 0–4 victory against [[Gareth Southgate]]'s squad, taking the group's lead after Italy's defeat to Germany.<ref>{{Cite news |title=Dismal England beaten by Hungary at Molineux |language=en-GB |work=BBC Sport |url=https://www.bbc.com/sport/football/61714683 |access-date=2022-10-26}}</ref><ref>{{cite web | url=https://www.uefa.com/uefanationsleague/match/2034513--england-vs-hungary/ | title=England-Hungary &#124; UEFA Nations League 2023 | access-date=25 September 2022 | archive-date=25 September 2022 | archive-url=https://web.archive.org/web/20220925194206/https://www.uefa.com/uefanationsleague/match/2034513--england-vs-hungary/ | url-status=live }}</ref> For the last two matchdays, Hungary couldn’t be relegated unless they lost to and England defeated both Germany and Italy. Although England would lose 1–0 to Italy and as a result were relegated in the Nations League with a match to spare anyways, the Hungarians didn’t want to rely on other results as [[Ádám Szalai]], the long-time forward who announced his retirement a day before the match, scored a heeler to win the game against Germany 1–0 in [[Leipzig]].<ref>{{cite web | url=https://www.uefa.com/uefanationsleague/match/2034531--germany-vs-hungary/ | title=Germany-Hungary &#124; UEFA Nations League 2023 | access-date=25 September 2022 | archive-date=6 October 2022 | archive-url=https://web.archive.org/web/20221006132103/https://www.uefa.com/uefanationsleague/match/2034531--germany-vs-hungary/ | url-status=live }}</ref> On 26 September, Hungary only needed a draw to qualify for the UEFA Nations League Finals, however they lost to Italy 2–0 in the Puskás Aréna.<ref>{{Cite web |title=Hungary-Italy: UEFA Nations League 2023 |url=https://www.uefa.com/uefanationsleague/match/2034560/ |access-date=2022-11-19 |website=[[UEFA]] |language=en}}</ref>
+
+2023 was a bright start for Hungary with a 1–0 victory over [[Estonia national football team|Estonia]] thanks to a goal from [[Martin Ádám]]. Days later, Hungary began their [[UEFA Euro 2024 qualifying]] against [[Bulgaria national football team|Bulgaria]] in a 3–0 victory at home. With goals from [[Bálint Vécsei]], a stunning [[Dominik Szoboszlai]] free kick and [[Martin Ádám]] sealing it on the 27th of March 2023. In June, Hungary would draw 0–0 with [[Montenegro national football team|Montenegro]], then days later secure a 2–0 victory over [[Lithuania national football team|Lithuania]] with goals from [[Barnabás Varga]] and [[Roland Sallai]]. In September, Hungary would scrape a victory over [[Serbia national football team|Serbia]] 2–1, with an early [[Attila Szalai]] own goal, [[Barnabás Varga]] and [[Willi Orbán]] would score two minutes apart. Then a couple days later, a 1–1 draw with [[Czechia national football team|Czechia]] with goals from [[Roland Sallai]] and [[Václav Jurečka]]. October 14, 2023, Hungary took on [[Serbia national football team|Serbia]] with another 2–1 victory. [[Barnabás Varga]] put Hungary in front before a [[Strahinja Pavlović]] equalizer, then only a few seconds later, [[Roland Sallai]] put Hungary back in front. [[Zsolt Kalmár]] received a red card in the 90th minute of the game for Hungary. In the deciding game for [[Lithuania national football team|Lithuania]], Hungary went down 2–0 in the first half with goals from [[Fedor Černych]] and [[Pijus Širvys]]. Then a penalty was awared in the 66th minute, which [[Dominik Szoboszlai]] scored, then [[Barnabás Varga]] equalized the game in the 81st minute, eliminating [[Lithuania national football team|Lithuania]] from qualification. Finally in November, Hungary played strong against [[Bulgaria national football team|Bulgaria]], drawing 2–2 with [[Martin Ádám]] opening the scoring early for Hungary, then [[Spas Delev]] equalizing. Disasters for both Bulgaria and Hungary as [[Valentin Antov]] and [[Milos Kerkez]] would both collect red cards during the match. [[Bulgaria national football team|Bulgaria]] would go ahead in the 77th minute with a penalty from [[Kiril Despodov]]. Then in the 96th minute of the game, [[Aleks Petkov]] scored an own goal resulting in a draw to the match and keeping Hungary's unbeaten record. On the final day of qualifying, Hungary would go down 1–0 in the 35th minute to [[Montenegro national football team|Montenegro]], then in the 65th minute, [[Dominik Szoboszlai]] scored an equalizer with a beautiful solo run, before scoring his second goal in the 67th minute. Then to seal qualification, [[Ádám Nagy]] wopuld score in the 92nd minute, sending Hungary into [[UEFA Euro 2024]].
+
+Hungary went into 2024 positively. In their first match of the year against [[Turkey national football team|Turkey]], [[Dominik Szoboszlai]] scored the only goal of the game with a 48th minute penalty. Days later, Hungary would come up against [[Kosovo national football team|Kosovo]] and take a 2–0 victory with goals from [[Dominik Szoboszlai]] and [[Zsolt Nagy]]. In June, Hungary would play two friendlies in preparation for [[UEFA Euro 2024]]. Their first game against the [[Republic of Ireland national football team|Republic of Ireland]] ended their fourteen game unbeaten streak with a 2–1 defeat. [[Adam Idah]] opening the scoring, [[Ádám Lang]] equalizing and [[Troy Parrott]] stealing the victory in the 92nd minute. Hungary's final preparation game came against [[Israel national football team|Israel]], where Hungary finished with a 3–0 victory thanks to [[Roland Sallai]], and [[Barnabás Varga]]'s two goals. On June 15, 2024. Hungary played their opening game of the [[UEFA Euro 2024]] group stage, which had them in a group with host nation [[Germany national football team|Germany]], [[Switzerland national football team|Switzerland]] and [[Scotland national football team|Scotland]]. Their first game was against [[Switzerland national football team|Switzerland]] where they suffered a 3–1 defeat, Hungary's only goal coming from [[Barnabás Varga]] in the 66th minute. The second game was against the hosts, where Hungary again endured a defeat, 2–0 to [[Germany national football team|Germany]]. The "dark horses" of the tournament still had one final game to play against [[Scotland national football team|Scotland]], which a win had the possibility of securing a spot in the last 16. The game was at a deadlock, and a worrying injury to [[Barnabás Varga]] in the 69th minute left Hungary fans nervous. Captain [[Dominik Szoboszlai]] rushed the paramedics onto the field with frustration. Fortunately, [[Barnabás Varga]] would recover in hospital from a concussion and multiple facial fractures after contesting a ball from a free kick into the box. Substitute [[Kevin Csoboth]] would score an extraordinary winner in the 100th minute to win the game 1–0 for Hungary and possibly send them to the round of 16. However, Hungary unfortunately didn't progress as [[Georgia national football team|Georgia]] defeated [[Portugal national football team|Portugal]] 2–0.
+
+Hungary would then play their opening game of the [[2024–25 UEFA Nations League A]] against [[Germany national football team|Germany]], where Hungary would suffer a heavy 5–0 defeat. Then at home against [[Bosnia and Herzegovina national football team|Bosnia and Herzegovina]], a frustrating 0–0 draw would occur. Returning in October, Hungary would face the [[Netherlands national football team|Netherlands]] where the Hungarians would go ahead in the 32nd minute with a goal from [[Roland Sallai]]. In the 79th minute, [[Virgil van Dijk]] would collect a second yellow card and be sent off, then in the 83rd minute from a controversial free kick, the ball is sent in for [[Denzel Dumfries]] to score. Ending in a 1–1 draw. Days later, Hungary would face [[Bosnia and Herzegovina national football team|Bosnia and Herzegovina]] again but this time walk away with a 2–0 victory, captain [[Dominik Szoboszlai]] scoring two. November was the beginning of a slight decline for the Hungarians. Facing the [[Netherlands national football team|Netherlands]] again, the game started with a medical worry for Hungary's midfield coach and former player [[Ádám Szalai]]. Then controversially, the Dutch team was awarded a penalty for an occurrence before the medical injury and a VAR check. They would then go on to win the match 4–0, confirming Hungary's spot in the [[2024–25 UEFA Nations League promotion/relegation play-offs]]. Their final match was against [[Germany national football team|Germany]]. After going 1–0 down in the 76th minute, a penalty kick was awarded to Hungary, where [[Dominik Szoboszlai]] calmy scored a [[Panenka (penalty kick)]] in the 99th minute. The game finished 1–1.
+
+2025 started poorly for the Hungarians, it was stated previously that a slight decline was beginning. Starting with a 3–1 loss in the first leg of the [[2024–25 UEFA Nations League promotion/relegation play-offs]] against [[Turkey national football team|Turkey]]. [[András Schäfer]] scoring Hungary's only goal. In the second leg, Hungary suffered a 3–0 defeat (1–6 on aggregate) and a demotion into the [[2026–27 UEFA Nations League B]]. Hungary would play a two friendlies in June, losing 2–0 to [[Sweden men's national football team|Sweden]] and defeating [[Azerbaijan national football team|Azerbaijan]] 2–1 with goals from [[Barnabás Varga]] and [[Dominik Szoboszlai]]. In September, Hungary played their first match of the [[2026 FIFA World Cup qualification – UEFA Group F]] against the [[Republic of Ireland national football team|Republic of Ireland]] where Hungary would go in front 2–0 with goals from [[Barnabás Varga]] and [[Roland Sallai]]. In the 49th minute, Hungary conceded a goal, and only minutes later, [[Roland Sallai]] received a controversial red card out of frustration. Then in the 93rd minute, [[Adam Idah]] scored an equalizer to finish the game at 2–2. The second game against [[Portugal national football team|Portugal]] finish in a 3–2 defeat, with [[Barnabás Varga]] scoring two goals during his incredible spell of form. Hungary would return in October to face [[Armenia national football team|Armenia]] and win 2–0 with [[Dániel Lukács]] and [[Zsombor Gruber]] scoring their first goals for Hungary.
+
+Then Hungary would face [[Portugal national football team|Portugal]] away and draw 2–2 with and early goal from [[Attila Szalai]] and a 91st minute equalizer from [[Dominik Szoboszlai]]. November started strong with a 1–0 victory over [[Armenia national football team|Armenia]] thanks to [[Barnabás Varga]]. Then it came down to the final matchday on November 16, 2025. Hungary would need a draw or a win against the [[Republic of Ireland national football team|Republic of Ireland]] to secure a play-off spot to the [[2026 FIFA World Cup]]. It was an ideal start for the Hungarians with [[Dániel Lukács]] scoring a header in the 4th minute to put them in front. Then the Irish men would score a penalty to equalize. In the 37th minute, [[Barnabás Varga]] scored a beautiful left-footed volley into the top right corner from outside of the box to put Hungary back in front. However, [[Troy Parrott]] would score an equalizer in the 80th minute which was still enough for Hungary. But disaster struck in the 6th minute of stoppage time, [[Troy Parrott]] would find himself in front of the goal and knocking Hungary out, sending the [[Republic of Ireland national football team|Republic of Ireland]] to the play-offs where they would ultimately lose on penalties to [[Czechia national football team|Czechia]]. The Hungarians were in tears as they hadn't qualified for a [[FIFA World Cup]] since 1986, 40 years. Sadness aired around the [[Puskás Aréna]], tears drowning each fan and player in the stadium. It was a devastating day for Hungarian football.
+
+==Team image==
+===Rivalry===
+{{Main|Hungary–Romania football rivalry|Austria–Hungary football rivalry}}
+
+Hungary has a long-standing rivalry with its neighbour [[Romania national football team|Romania]]. The rivalry dates back to the [[Treaty of Trianon]], where Hungary lost [[Transylvania]] to Romania, after [[World War I]]. They throw flares and matches between the two sides usually end in a fight between Hungarian and Romanian supporters; however, recently also before the matches conflicts have emerged outside the stadium. This was seen as they shared the same group in qualification for the [[1982 FIFA World Cup qualification – UEFA Group 4|1982 FIFA World Cup]], [[UEFA Euro 2000 qualifying Group 7|UEFA Euro 2000]], [[2002 FIFA World Cup qualification – UEFA Group 8|2002 World Cup]], [[2014 FIFA World Cup qualification – UEFA Group D|2014 World Cup]] and [[UEFA Euro 2016 qualifying Group F|UEFA Euro 2016]].
+
+The match-up between [[Austria national football team|Austria]] and Hungary is the second most-played international in football (only Argentina–Uruguay met each other in more matches), although the two teams have only met each other three times since 2000.
+
+===Supporters===
+[[File:Hungarian supporters in England.jpg|thumb|250px|right|Hungarian supporters in [[Molineux Stadium]], [[Wolverhampton]]]]
+
+The Carpathian Brigade is an official [[Supporters' groups|supporters' group]] for the Hungary national football team. The first organized debut of this group was at a Hungary vs. [[Malta national football team|Malta]] [[2010 FIFA World Cup qualification – UEFA Group 1|2010 World Cup qualification]] match on 1 April 2009 at [[Ferenc Puskás Stadium (1953)|Ferenc Puskás Stadium]].<ref>{{cite web|url=http://fanatics.blog.hu/2012/07/01/carpathian_brigade_interju|title=Carpathian Brigade interjú|date=1 July 2012|publisher=fanatics.blog.hu|language=hu|access-date=1 July 2012|archive-date=2 February 2017|archive-url=https://web.archive.org/web/20170202055056/http://fanatics.blog.hu/2012/07/01/carpathian_brigade_interju|url-status=live}}</ref><ref>{{cite web|url=https://www.ultrashungary.com/interjuk/carpathian-brigade|title=Carpathian Brigade '09|date=24 October 2016|publisher=ultrashungary.com|language=hu|access-date=24 October 2016|archive-date=28 October 2016|archive-url=https://web.archive.org/web/20161028213818/http://www.ultrashungary.com/interjuk/carpathian-brigade|url-status=live}}</ref> 
+
+The group was officially formed on 15 May 2009. This date has been commemorated as the group's birthday ever since, with group members displaying fireworks, pyros and organizing marches every year, to celebrate the birth of the "Brigade".[https://www.footballparadise.com/the-rise-of-hungary-and-the-carpathian-brigade/]
+
+Over the early years of the 2010s, the group would establish themselves as a household name on [[Ferenc Puskás Stadium]]'s B-stand, and would acquire a reputation for violence and hooliganism. [https://hvg.hu/itthon/20210619_carpathian_brigade_eb]
+
+In September 2013, the Carpathian Brigade would dominate [[444.hu|Hungarian headlines]] after clashing with the police, Romanian supporters, and displaying an overall unruly behaviour during an away day to [[Bucharest]] prior to a [[FIFA World Cup qualification|World-Cup qualifier]] against [[Romania]]. [https://www.nemzetisport.hu/magyar-valogatott/2013/09/mindent-bele-romania-magyarorszag] [https://hvg.hu/sport/20130906_Romania_Magyarorszag] In hindsight, this specific tour to Romania is often considered by many as the starting point of the group's infamy. [https://www.footballparadise.com/the-rise-of-hungary-and-the-carpathian-brigade/]
+
+In October 2014 Hungarian fans travelled to Bucharest en masse to support the national team in their [[UEFA Euro 2016|EURO 2016]] qualification game. Just like the previous year, crowd trouble and impromptu fights between Hungarian and Romanian fans occurred ahead of and during the game. After being goaded into a fight by the home fans, Hungarian ultras broke the cordon separating the two fanbases, and attempted to enter the romanian sector.[https://www.nemzetisport.hu/magyar-valogatott/2014/10/video-kordonbonto-magyarok-meghatralo-biztonsagiak] The police prevented the fight from escalating into a full-out mass brawl, by using teargas to separate the crowd. The two sets of fans also clashed with the local police force as well. [https://hungaryultras.blogspot.com/2014/10/romania-magyarorszag-20141011.html] [https://www.nemzetisport.hu/magyar-valogatott/2014/10/megilletodott-foproba-utan-johet-az-eloadas-elo]
+
+In September 2015, Hungary would host Romania for a Euro qualifier in [[Budapest]]. On the eve of the match Hungarian fans were looking for Romanians in downtown Budapest, but their effort to fight was spoilt by the police. Prior to the match, members of the Carpathian Brigade attacked the police force and attempted to fight Romanian fans. This would mark one of the most violent days in Hungarian hooligan history. Hungarian ultras hurled beer cans and rocks at the police and threw [[Pyrotechnics|pyros]] at a group of [[Middle East]]ern [[human migration|migrants]] taking refuge at [[Keleti pályaudvar metro station|Keleti station]]. 51 people were detained after the game, four of whom were Romanian. 38 people needed medical help, and six police officers were taken to hospital. Numerous police cars were set on fire, and the outbreak of fighting rendered some trams to temporarily halt functioning. [https://hungaryultras.blogspot.com/2015/09/magyarorszag-romania-20150904-elo-live.html] [https://24.hu/belfold/2015/09/04/vonulnak-az-ultrak-keszenletben-a-vizagyuk/]
+
+Heavy support for the Hungary national team also comes from [[Hungarians in Romania|Transylvania]], [[Hungarians in Slovakia|Slovakia]], [[Hungarians in Serbia|Vojvodina]], [[Hungarians in Ukraine|Zakarpattia]] and Western Europe.<ref>{{cite web|url=http://www.nemzetisport.hu/magyar_valogatott/felvideki-harcosok-2182989|title=A Felvidéki Harcosok nélkül nincs válogatott meccs|date=16 October 2012|publisher=[[Nemzeti Sport]]|language=hu|access-date=16 October 2012|archive-date=17 October 2012|archive-url=https://web.archive.org/web/20121017234047/http://www.nemzetisport.hu/magyar_valogatott/felvideki-harcosok-2182989|url-status=live}}</ref>
+
+===Kits and crest===
+{{Commons|Hungary national football team kits}}
+Hungary's traditional home colours are cherry red shirts, white shorts and green socks. The combination of the colours represent the Hungarian flag. However, the team sometimes wears all white kit even at home. The coat of arms are worn on the left side of the shirt, where the human heart can be found. When the Hungarian players listen to the [[national anthem of Hungary]], "[[Himnusz]]", they usually put their arms on to their chest. The current coat of arms could have always been found on the shirt of the national team in contrast with many other national teams which wear the logo of the football federation. [[Adidas]] is currently the designer of the Hungary kits.
+
+====Kit suppliers====
+{| class="wikitable" style="text-align: left"
+|-
+! Kit supplier
+! Period
+|-
+| {{#invoke:flag|icon|Hungary}} In-House
+| 1902–1976
+|-
+| {{#invoke:flag|icon|United Kingdom}} [[Umbro]]
+| 1966
+|-
+| {{#invoke:flag|icon|West Germany}} [[Adidas]]
+| 1976–1989
+|-
+| {{#invoke:flag|icon|United Kingdom}} [[Umbro]]
+| 1990–1994
+|-
+| {{#invoke:flag|icon|Germany}} Adidas
+| 1995–present
+|}
+
+==Home stadium==
+{{Main|Puskás Aréna|Groupama Arena|Nagyerdei Stadion}}
+
+{{multiple image|caption_align=left|header_align=center
+ | align = right
+ | direction = vertical
+ | width = 235
+ | image1 = Puskás Aréna (2).jpg
+ | alt1 = Photograph from air of a modern football stadium
+ | caption1 = Exterior of the Puskás Aréna
+ | image2 = Puskás Aréna 03.jpg
+ | alt2 = Photograph of a modern football stadium's interior; the stands are full of spectators
+ | caption2 = Interior of the Puskás Aréna
+}}
+
+The home stadium of the Hungary national side is the [[Puskás Aréna]]. Formerly, it was the [[Ferenc Puskás Stadium (1953)|Ferenc Puskás Stadium]] (also called the Népstadion). The stadium was built between 1948 and 1953 using a large number of volunteers, including soldiers. On 23 May 1954, [[England national football team|England]] lost to 7–1 against Hungary. The capacity of the stadium at the end was 35,100 (approved by [[UEFA]]) though its original capacity exceeded 100,000. The stadium also hosted one of the [[Derby of Budapest|Derbies of Budapest]], including [[Ferencvárosi TC|Ferencváros]], [[Újpest FC|Újpest]], [[MTK Budapest FC|MTK]], [[Budapest Honvéd FC|Honvéd]] or [[Vasas SC|Vasas]]. The national team's final match played at the stadium was a 3–0 win for Hungary against [[Kazakhstan national football team results|Kazakhstan]] on 7 June 2014.
+
+On 19 September 2014, UEFA selected [[Budapest]] to host three group stage games and one round of 16 game at [[UEFA Euro 2020|Euro 2020]].<ref>{{cite web|url=http://www.uefa.com/uefaeuro-2020/about-euro/index.html|title=UEFA EURO 2020 hosts: London to hold final|date=19 September 2014|publisher=[[Uefa.com]]|access-date=25 June 2022|archive-date=9 June 2018|archive-url=https://web.archive.org/web/20180609062034/http://www.uefa.com/uefaeuro-2020/about-euro/index.html|url-status=dead}}</ref><ref>{{cite web|url=http://www.nemzetisport.hu/magyar_valogatott/eb-2020-ma-eldol-lehet-e-tarsrendezo-budapest-2364419|title=Megkaptuk! 2020-ban Eb-meccseket rendezhet Budapest!|date=19 September 2014|publisher=[[Nemzeti Sport]]|access-date=25 June 2022|archive-date=14 September 2018|archive-url=https://web.archive.org/web/20180914200708/http://www.nemzetisport.hu/magyar_valogatott/eb-2020-ma-eldol-lehet-e-tarsrendezo-budapest-2364419|url-status=live}}</ref>
+
+On 15 November 2019, the Puskás Aréna opened with a match against Uruguay. The idea to invite the [[Uruguay national football team]] came from Károly Jankovics, who is the leader of the Hungarian community in [[Montevideo]].<ref>{{cite web|url=http://www.nemzetisport.hu/magyar_valogatott/az-uruguay-otlet-ezert-lett-a-del-amerikai-valogatott-a-stadionavato-ellenfel-2731367|title=Az Uruguay-ötlet – ezért lett a dél-amerikai válogatott a stadionavató-ellenfél|trans-title=The idea of inviting Uruguay|publisher=[[Nemzeti Sport]]|language=hu|date=8 November 2019|access-date=8 November 2019|archive-date=9 November 2019|archive-url=https://web.archive.org/web/20191109153610/http://www.nemzetisport.hu/magyar_valogatott/az-uruguay-otlet-ezert-lett-a-del-amerikai-valogatott-a-stadionavato-ellenfel-2731367|url-status=live}}</ref>
+
+Ferencváros' [[Groupama Arena]] was the temporary home of the national team between 2014 and 2019 during qualification for [[UEFA Euro 2016 qualifying|Euro 2016]], the [[2018 FIFA World Cup qualification (UEFA)|2018 World Cup]] and [[UEFA Euro 2020 qualifying|Euro 2020]].<ref>{{cite web|url=http://www.uefa.com/memberassociations/association=hun/news/newsid=2131709.html#chelsea+help+ferencvaros+celebrate+arena|title=Chelsea help Ferencváros celebrate new arena|date=10 August 2014|publisher=[[Uefa.com]]|access-date=6 September 2014|archive-date=18 September 2014|archive-url=https://web.archive.org/web/20140918111501/http://www.uefa.com/memberassociations/association=hun/news/newsid=2131709.html#chelsea+help+ferencvaros+celebrate+arena|url-status=dead}}</ref>
+
+==Results and fixtures==
+{{Main|Hungary national football team results (2020–present)}}
+
+The following is a list of match results in the last 12 months, as well as any future matches that have been scheduled.
+
+{{legend2|#CCFFCC|Win|border=1px solid #AAAAAA}}
+{{legend2|#FFFFCC|Draw|border=1px solid #AAAAAA}}
+{{legend2|#FFCCCC|Loss|border=1px solid #AAAAAA}}
+{{legend2|#FFFFFF|Fixture|border=1px solid #AAAAAA}}
+
+===2025===
+{{#invoke:Football box collapsible|main|format=1
+|date              = 6 September
+|time              = 20:45 {{small|(19:45 [[British Summer Time|BST]] ([[UTC+01:00]]))}}
+|round             = [[2026 FIFA World Cup qualification – UEFA Group F|2026 FIFA World Cup qualification]]
+|team1             = {{#invoke:flag|fb-rt|IRL}}
+|score             = 2–2
+|report            = [https://www.fifa.com/en/match-centre/match/520/288329/288330/400019304 Report (FIFA)]<br>[https://www.uefa.com/european-qualifiers/match/2044227/ Report (UEFA)]
+|team2             = {{#invoke:flag|fb|HUN}}
+|goals1            =
+*[[Evan Ferguson|Ferguson]] {{goal|49}}
+*[[Adam Idah|Idah]] {{goal|90+3}}
+|goals2            =
+*[[Barnabás Varga|B. Varga]] {{goal|2}}
+*[[Roland Sallai|Sallai]] {{goal|15}}
+|stadium           = [[Aviva Stadium]]
+|location          = [[Dublin]], Ireland
+|attendance        = 51,137<ref>{{cite web|url=https://www.uefa.com/newsfiles/EURO/2026/2044227_FR.pdf |title=Full Time Report – 2026 World Cup qualification, Ireland v Hungary|work=[[UEFA]] |publisher=Union of European Football Associations |date=6 September 2025 |access-date=10 September 2025}}</ref>
+|referee           = [[Harm Osmers]] ([[German Football Association|Germany]])
+|result            = D
+}}
+{{#invoke:Football box collapsible|main|format=1
+|date              = 9 September
+|time              = 20:45 {{small|[[Central European Summer Time|CEST]] ([[UTC+02:00]])}}
+|round             = [[2026 FIFA World Cup qualification – UEFA Group F|2026 FIFA World Cup qualification]]
+|team1             = {{#invoke:flag|fb-rt|HUN}}
+|score             = 2–3
+|report            = [https://www.fifa.com/en/match-centre/match/520/288329/288330/400019299 Report (FIFA)]<br>[https://www.uefa.com/european-qualifiers/match/2044253/ Report (UEFA)]
+|team2             = {{#invoke:flag|fb|POR}}
+|goals1            = 
+*[[Barnabás Varga|Varga]] {{goal|21||84}}
+|goals2            = 
+*[[Bernardo Silva|Silva]] {{goal|36}}
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|58|pen.}}
+*[[João Cancelo|Cancelo]] {{goal|86}}
+|stadium           = [[Puskás Aréna]]
+|location          = [[Budapest]], Hungary
+|attendance        = 61,473<ref>{{cite web|url=https://www.uefa.com/newsfiles/EURO/2026/2044253_FR.pdf |title=Full Time Report – 2026 World Cup qualification, Hungary v Portugal|work=[[UEFA]] |publisher=Union of European Football Associations |date=9 September 2025 |access-date=10 September 2025}}</ref>
+|referee           = Erik Lambrechts ([[Royal Belgian Football Association|Belgium]])
+|result            = L
+}}
+{{#invoke:Football box collapsible|main|format=1
+|date              = 11 October
+|time              = 18:00 [[Central European Summer Time|CEST]] ([[UTC+02:00]])
+|round             = [[2026 FIFA World Cup qualification – UEFA Group F|2026 FIFA World Cup qualification]]
+|team1             = {{#invoke:flag|fb-rt|HUN}}
+|score             = 2–0
+|report            = https://www.uefa.com/european-qualifiers/match/2044278/
+|team2             = {{#invoke:flag|fb|ARM}}
+|goals1            =
+*[[Dániel Lukács|Lukács]] {{goal|56}}
+*[[Zsombor Gruber|Gruber]] {{goal|90+4}}
+|goals2            =
+|stadium           = [[Puskás Aréna]]
+|location          = [[Budapest]], Hungary
+|attendance        = 57,285
+|referee           = [[Chris Kavanagh (referee)|Chris Kavanagh]] ([[The Football Association|England]])
+|result            = W
+}}
+{{#invoke:Football box collapsible|main|format=1
+|date              = 14 October
+|time              = 19:45 [[Western European Summer Time|WEST]] ([[UTC+01:00]])
+|round             = [[2026 FIFA World Cup qualification – UEFA Group F|2026 FIFA World Cup qualification]]
+|team1             = {{#invoke:flag|fb-rt|POR}}
+|score             = 2–2
+|report            = https://www.uefa.com/european-qualifiers/match/2044300/
+|team2             = {{#invoke:flag|fb|HUN}}
+|goals1            =
+*[[Cristiano Ronaldo|Ronaldo]] {{goal|22||45+3}}
+|goals2= 
+*[[Attila Szalai|Szalai]] {{goal|8}}
+*[[Dominik Szoboszlai|Szoboszlai]] {{goal|90+1}}
+|stadium           = [[Estádio José Alvalade]]
+|location          = [[Lisbon]], Portugal
+|attendance        = 47,854<ref>{{cite web|url=https://www.uefa.com/newsfiles/EURO/2026/2044300_FR.pdf |title=Full Time Report – 2026 World Cup qualification, Portugal v Hungary |work=[[UEFA]] |publisher=Union of European Football Associations |date=14 October 2025 |access-date=14 October 2025}}</ref>
+|referee           = [[Srđan Jovanović (referee)|Srđan Jovanović]] ([[Football Association of Serbia|Serbia]])
+|result            = D
+}}
+{{#invoke:Football box collapsible|main|format=1
+|date              = 13 November 
+|time              = 21:00 [[Armenia Time|AMT]] ([[UTC+04:00]])
+|round             = [[2026 FIFA World Cup qualification – UEFA Group F|2026 FIFA World Cup qualification]]
+|team1             = {{#invoke:flag|fb-rt|ARM}}
+|score             = 0–1
+|report            = https://www.uefa.com/european-qualifiers/match/2044305/
+|team2             = {{#invoke:flag|fb|HUN}}
+|goals1            =
+|goals2            =
+*[[Barnabás Varga|B. Varga]] {{goal|33}}
+|stadium           = [[Vazgen Sargsyan Republican Stadium]]
+|location          = [[Yerevan]], Armenia
+|attendance        = 14,247<ref>{{cite web|url=https://www.uefa.com/newsfiles/EURO/2026/2044305_FR.pdf |title=Full Time Report – 2026 World Cup qualification, Armenia v Hungary |work=[[UEFA]] |publisher=Union of European Football Associations |date=13 November 2025 |access-date=13 November 2025}}</ref>
+|referee           = [[José María Sánchez Martínez|José María Sánchez]] ([[Royal Spanish Football Federation|Spain]])
+|result            = W
+}}
+{{#invoke:Football box collapsible|main|format=1
+|date              = 16 November
+|time              = 15:00 [[Central European Time|CET]] ([[UTC+01:00]])
+|round             = [[2026 FIFA World Cup qualification – UEFA Group F|2026 FIFA World Cup qualification]]
+|team1             = {{#invoke:flag|fb-rt|HUN}}
+|score             = 2–3
+|report            = https://www.uefa.com/european-qualifiers/match/2044335/
+|team2             = {{#invoke:flag|fb|IRL}}
+|goals1            =
+*[[Daniel Lukacs|Lukacs]] {{goal|3}}
+*[[Barnabás Varga|Varga]] {{goal|37}}
+|goals2            =
+*[[Troy Parrott|Parrott]] {{goal|15|pen.|80||90+6}}
+|stadium           = [[Puskás Aréna]]
+|location          = [[Budapest]], Hungary
+|attendance        = 59,411
+|referee           = [[Espen Eskås]] ([[Norwegian Football Federation|Norway]])
+|result            = L
+}}
+
+===2026===
+{{footballbox collapsible|format=1 
+|round      = [[Exhibition game#Association football|Friendly]]
+|date       = 28 March
+|time       = {{UTZ|18:00|+1}}
+|team1      = {{fb-rt|HUN}}
+|score      = 1–0
+|report     = [https://www.uefa.com/european-qualifiers/friendlies/match/2047748--hungary-vs-slovenia/ Report (UEFA)]
+|team2      = {{fb|SVN}}
+|goals1     = 
+*[[Szabolcs Schön|Schön]] {{goal|79}}
+|goals2     = 
+|stadium    = [[Puskás Aréna]]
+|location   = [[Budapest]], Hungary
+|attendance = 50,252
+|referee    = Rohit Saggi ([[Norwegian Football Federation|Norway]]) 
+|result     = W
+}}
+{{footballbox collapsible|format=1 
+|round      = [[Exhibition game#Association football|Friendly]]
+|date       = 31 March
+|time       = {{UTZ|19:00|+2}}
+|team1      = {{fb-rt|HUN}}
+|score      = 0–0
+|report     = [https://www.uefa.com/european-qualifiers/friendlies/match/2047752/ Report (UEFA)]
+|team2      = {{fb|GRE}}
+|goals1     = 
+|goals2     = 
+|stadium    = [[Puskás Aréna]]
+|location   = [[Budapest]], Hungary
+|attendance = 54,849
+|referee    = Florian Badstübner ([[German Football Federation|German]])
+|result     = D
+}}
+{{football box collapsible|format=1
+|round      = [[Exhibition game#Association football|Friendly]]
+|date       = 5 June
+|time       = {{UTZ|19:45|2}}
+|team1      = {{fb-rt|HUN}}
+|score      = 2–1
+|report     = [https://www.uefa.com/european-qualifiers/friendlies/match/2048194/ Report (UEFA)]
+|team2      = {{fb|FIN}}
+|goals1     =
+*[[Barnabás Varga|Varga]] {{goal|25||43}}
+|goals2     =
+*[[Tony Miettinen|T. Miettinen]] {{goal|71}}
+|stadium    = [[Puskás Aréna]]
+|location   = [[Budapest]], Hungary
+|attendance = 53,148<ref name="NSO_FR_HUN-FIN">{{Cite web |url=https://www.nemzetisport.hu/magyar-valogatott/2026/06/varga-barnabas-duplazott-a-magyar-valogatott-nehez-masodik-felido-utan-legyozte-a-finneket |title=Report: Friendly match, Hungary v Finland — Nemzeti Sport |publisher=[[Nemzeti Sport]] |website=nemzetisport.hu |date=5 June 2026 |language=hu}}</ref>
+|referee    = Ante Čulina ([[Croatian Football Federation|Croatia]])
+|result     = W
+}}
+{{football box collapsible|format=1
+|round      = [[Exhibition game#Association football|Friendly]]
+|date       = 9 June
+|time       = {{UTZ|19:00|2}}
+|team1      = {{fb-rt|HUN}}
+|score      = 3–1
+|report     = [https://www.uefa.com/european-qualifiers/friendlies/match/2048208/ Report (UEFA)]
+|team2      = {{fb|KAZ}}
+|goals1     = 
+*[[Dominik Szoboszlai|Szoboszlai]] {{goal|52}}
+*[[András Schäfer|Schäfer]] {{goal|67}}
+*[[Rajmund Tóth|R. Tóth]] {{goal|90+3}}
+|goals2            =
+*[[Serhiy Malyi|Malyi]] {{goal|9}}
+|stadium    = [[Nagyerdei Stadion]]
+|location   = [[Debrecen]], Hungary
+|attendance = 19,595
+|referee    = Pavle Ilić ([[Football Association of Serbia|Serbia]])
+|result     = W
+}}
+{{football box collapsible|format=1
+|round      = [[2026–27 UEFA Nations League B|2026–27 UEFA Nations League]]
+|date       = 25 September
+|time       = {{UTZ|20:45|+2}}
+|score      = 
+|report     = https://www.uefa.com/uefanationsleague/match/2048012/
+|team1      = {{fb-rt|HUN}}
+|goals1     = 
+|team2      = {{fb|UKR}}
+|goals2     = 
+|stadium    = [[Puskás Aréna]]
+|location   = [[Budapest]], Hungary
+|attendance = 
+|referee    = 
+|result     = 
+}}
+{{football box collapsible|format=1
+|round      = [[2026–27 UEFA Nations League B|2026–27 UEFA Nations League]]
+|date       = 28 September
+|time       = {{UTZ|19:45|+1}}
+|score      = 
+|report     = https://www.uefa.com/uefanationsleague/match/2047986/
+|team1      = {{fb-rt|NIR}}
+|goals1     = 
+|team2      = {{fb|HUN}}
+|goals2     = 
+|stadium    = [[Windsor Park]]
+|location   = [[Belfast]], Northern Ireland
+|attendance = 
+|referee    = 
+|result     = 
+}}
+{{football box collapsible|format=1
+|round      = [[2026–27 UEFA Nations League B|2026–27 UEFA Nations League]]
+|date       = 2 October
+|time       = {{UTZ|20:45|+2}}
+|score      = 
+|report     = https://www.uefa.com/uefanationsleague/match/2047962/
+|team1      = {{fb-rt|HUN}}
+|goals1     = 
+|team2      = {{fb|GEO}}
+|goals2     = 
+|stadium    = [[Puskás Aréna]]
+|location   = [[Budapest]], Hungary
+|attendance = 
+|referee    = 
+|result     = 
+}}
+{{football box collapsible|format=1
+|round      = [[2026–27 UEFA Nations League B|2026–27 UEFA Nations League]]
+|date       = 5 October
+|time       = {{UTZ|21:45|+3}}
+|score      = 
+|report     = https://www.uefa.com/uefanationsleague/match/2047932/
+|team1      = {{fb-rt|UKR}}
+|goals1     = 
+|team2      = {{fb|HUN}}
+|goals2     = 
+|stadium    = 
+|location   = TBD{{refn|group=note|Due to the [[Russo-Ukrainian war (2022–present)|Russian invasion of Ukraine]], Ukraine are required to play their home matches at neutral venues until further notice.<ref>{{cite news |url=https://www.uefa.com/news-media/news/0272-148740475a92-1b97baa3e9d7-1000/ |title=Decisions from today's extraordinary UEFA Executive Committee meeting |work=[[UEFA]] |publisher=Union of European Football Associations |date=25 February 2022 |access-date=25 February 2022}}</ref>}}
+|attendance = 
+|referee    = 
+|result     = 
+}}
+{{football box collapsible|format=1
+|round      = [[2026–27 UEFA Nations League B|2026–27 UEFA Nations League]]
+|date       = 14 November
+|time       = {{UTZ|21:00|+4}}
+|score      = 
+|report     = https://www.uefa.com/uefanationsleague/match/2047895/
+|team1      = {{fb-rt|GEO}}
+|goals1     = 
+|team2      = {{fb|HUN}}
+|goals2     = 
+|stadium    = [[Boris Paichadze Dinamo Arena]]
+|location   = [[Tbilisi]], Georgia
+|attendance = 
+|referee    = 
+|result     = 
+}}
+{{football box collapsible|format=1
+|round      = [[2026–27 UEFA Nations League B|2026–27 UEFA Nations League]]
+|date       = 17 November
+|time       = {{UTZ|20:45|+1}}
+|score      = 
+|report     = https://www.uefa.com/uefanationsleague/match/2047921/
+|team1      = {{fb-rt|HUN}}
+|goals1     = 
+|team2      = {{fb|NIR}}
+|goals2     = 
+|stadium    = [[Puskás Aréna]]
+|location   = [[Budapest]], Hungary
+|attendance = 
+|referee    = 
+|result     = 
+}}
+
+==Coaching staff==
+{{Main|List of Hungary national football team managers}}
+
+{| class="wikitable"
+!Position
+!Name
+|-
+|Head coach
+|{{#invoke:flag|icon|Italy}} [[Marco Rossi (footballer, born 1964)|Marco Rossi]]
+|-
+|Assistant Coaches
+|{{#invoke:flag|icon|Italy}} Cosimo Inguscio <br />{{#invoke:flag|icon|Hungary}} [[Ádám Szalai]]
+|-
+|Goalkeeping Coach
+|{{#invoke:flag|icon|Hungary}} [[István Kövesfalvi]]
+|-
+|Technical Manager
+|{{#invoke:flag|icon|Hungary}} Attila Tömő
+|-
+|Fitness Coaches
+|{{#invoke:flag|icon|Hungary}} Gábor Schuth <br /> {{#invoke:flag|icon|Hungary}} Szabolcs Szusza
+|-
+|Doctor
+|{{#invoke:flag|icon|Hungary}} Ádám Szilas
+|-
+|Chief Press Officer
+|{{#invoke:flag|icon|Hungary}} Gergő Szabó
+|-
+|Masseur
+|{{#invoke:flag|icon|Hungary}} Tamás Halmai
+|-
+|Kit Manager
+|{{#invoke:flag|icon|Hungary}} László Hegyesi
+|}
+
+==Players==
+===Current squad===
+The following players were called up for the [[Exhibition game#International football|friendly]] matches against [[Finland national football team|Finland]] and [[Kazakhstan national football team|Kazakhstan]] on 5 and 9 June 2026; respectively.<ref>{{cite news |title=Nyolc U21-es játékos a férfi A-válogatott keretében |url=https://valogatott.mlsz.hu/ferfi-a-valogatott/hir/csapat/nyolc-u21-es-jatekos-a-ferfi-a-valogatott-kereteben |access-date=12 May 2026 |publisher=Magyar Labdarúgó Szövetség |date=12 May 2026 |language=Hungarian}}</ref>
+
+Caps and goals updated as of 9 June 2026, after the match against [[Kazakhstan national football team|Kazakhstan]].<ref>{{cite web|url=https://eu-football.info/_players.php?id=100&data=9|title=Most Hungary Caps|website=EU-Football.info|access-date=9 June 2022|archive-date=9 June 2022|archive-url=https://web.archive.org/web/20220609190935/https://eu-football.info/_players.php?id=100&data=9|url-status=live}}</ref>
+
+{{nat fs g start}}
+{{nat fs g player|no=|pos=GK|name=[[Balázs Tóth (footballer, born 1997)|Balázs Tóth]]|age={{Birth date and age|1997|9|4|df=y}}|caps=7|goals=0|club=[[Blackburn Rovers F.C.|Blackburn Rovers]]|clubnat=ENG}}
+{{nat fs g player|no=|pos=GK|name=[[Péter Szappanos]]|age={{Birth date and age|1990|11|14|df=y}}|caps=3|goals=0|club=[[Újpest FC|Újpest]]|clubnat=HUN}}
+{{nat fs g player|no=|pos=GK|name=[[Ármin Pécsi]]|age={{birth date and age|2005|02|24|df=yes}}|caps=1|goals=0|club=[[Liverpool F.C.|Liverpool]]|clubnat=ENG}}
+{{nat fs g player|no=|pos=GK|name=[[Áron Yaakobishvili]]|age={{birth date and age|2006|03|06|df=yes}}|caps=1|goals=0|club=[[FC Andorra|Andorra]]|clubnat=AND}}
+{{nat fs break}}
+{{nat fs g player|no=|pos=DF|name=[[Willi Orbán]]|age={{Birth date and age|1992|11|3|df=y}}|caps=68|goals=6|club=[[RB Leipzig]]|clubnat=GER}}
+{{nat fs g player|no=|pos=DF|name=[[Zsolt Nagy (footballer, born 1993)|Zsolt Nagy]]|age={{Birth date and age|1993|5|25|df=y}}|caps=38|goals=3|club=[[Puskás Akadémia FC|Puskás Akadémia]]|clubnat=HUN}}
+{{nat fs g player|no=|pos=DF|name=[[Milos Kerkez]]|age={{Birth date and age|2003|11|7|df=y}}|caps=32|goals=0|club=[[Liverpool F.C.|Liverpool]]|clubnat=ENG}}
+{{nat fs g player|no=|pos=DF|name=[[Callum Styles]]|age={{Birth date and age|2000|3|28|df=y}}|caps=31|goals=0|club=[[West Bromwich Albion F.C.|West Bromwich Albion]]|clubnat=ENG}}
+{{nat fs g player|no=|pos=DF|name=[[Attila Osváth]]|age={{Birth date and age|1995|12|10|df=y}}|caps=7|goals=0|club=[[Ferencvárosi TC|Ferencváros]]|clubnat=HUN}}
+{{nat fs g player|no=|pos=DF|name=[[Kornél Szűcs]]|age={{birth date and age|2001|09|24|df=yes}}|caps=2|goals=0|club=[[FK Vojvodina|Vojvodina]]|clubnat=SRB}}
+{{nat fs g player|no=|pos=DF|name=[[Márk Csinger]]|age={{birth date and age|2003|05|31|df=yes}}|caps=1|goals=0|club=[[Győri ETO FC|Győr]]|clubnat=HUN}}
+{{nat fs g player|no=|pos=DF|name=[[Ákos Markgráf]]|age={{birth date and age|2005|06|30|df=yes}}|caps=1|goals=0|club=[[Újpest FC|Újpest]]|clubnat=HUN}}
+{{nat fs break}}
+{{nat fs g player|no=|pos=MF|name=[[Dominik Szoboszlai]]|other=[[Captain (association football)|captain]]|age={{Birth date and age|2000|10|25|df=y}}|caps=65|goals=18|club=[[Liverpool F.C.|Liverpool]]|clubnat=ENG}}
+{{nat fs g player|no=|pos=MF|name=[[András Schäfer]]|age={{Birth date and age|1999|4|13|df=y}}|caps=45|goals=5|club=[[1. FC Union Berlin|Union Berlin]]|clubnat=GER}}
+{{nat fs g player|no=|pos=MF|name=[[Alex Tóth]]|age={{Birth date and age|2005|10|23|df=y}}|caps=13|goals=0|club=[[AFC Bournemouth|Bournemouth]]|clubnat=ENG}}
+{{nat fs g player|no=|pos=MF|name=[[Milán Vitális]]|age={{Birth date and age|2002|1|28|df=y}}|caps=8|goals=0|club=[[Győri ETO FC|Győr]]|clubnat=HUN}}
+{{nat fs g player|no=|pos=MF|name=[[Péter Baráth]]|age={{birth date and age|2002|02|21|df=yes}}|caps=4|goals=0|club=[[SK Sigma Olomouc|Sigma Olomouc]]|clubnat=CZE}}
+{{nat fs g player|no=|pos=MF|name=[[Tamás Szűcs (footballer, born 2005)|Tamás Szűcs]]|age={{birth date and age|2005|01|16|df=yes}}|caps=4|goals=0|club=[[F.C. Famalicão|Famalicão]]|clubnat=POR}}
+{{nat fs g player|no=|pos=MF|name=[[Rajmund Tóth]]|age={{birth date and age|2004|04|09|df=yes}}|caps=1|goals=1|club=[[Győri ETO FC|Győr]]|clubnat=HUN}}
+{{nat fs g player|no=|pos=MF|name=[[Norbert Szendrei]]|age={{birth date and age|2000|03|27|df=yes}}|caps=0|goals=0|club=[[Zalaegerszegi TE|Zalaegerszegi]]|clubnat=HUN}}
+{{nat fs break}}
+{{nat fs g player|no=|pos=FW|name=[[Roland Sallai]]|age={{birth date and age|df=yes|1997|5|22}}|caps=67|goals=15|club=[[Galatasaray S.K. (football)|Galatasaray]]|clubnat=TUR}}
+{{nat fs g player|no=|pos=FW|name=[[Barnabás Varga]]|age={{birth date and age|df=yes|1994|10|25}}|caps=30|goals=15|club=[[AEK Athens F.C.|AEK Athens]]|clubnat=GRE}}
+{{nat fs g player|no=|pos=FW|name=[[Dániel Lukács]]|age={{birth date and age|1996|4|3|df=yes}}|caps=9|goals=2|club=[[Puskás Akadémia FC|Puskás Akadémia]]|clubnat=HUN}}
+{{nat fs g player|no=|pos=FW|name=[[Damir Redzic]]|age={{birth date and age|df=yes|2003|3|23}}|caps=5|goals=0|club=[[FC Red Bull Salzburg|Red Bull Salzburg]]|clubnat=AUT}}
+{{nat fs g player|no=|pos=FW|name=[[Zsombor Gruber]]|age={{birth date and age|df=yes|2004|9|7}}|caps=3|goals=1|club=[[Ferencvárosi TC|Ferencváros]]|clubnat=HUN}}
+{{nat fs g player|no=|pos=FW|name=[[Bendegúz Kovács]]|age={{birth date and age|2007|03|31|df=yes}}|caps=2|goals=0|club=[[AZ Alkmaar]]|clubnat=NED}}
+{{nat fs end}}
+
+===Recent call-ups===
+The following players have also been selected by Hungary in the past twelve months.
+<!--Sorted by position, most recent call-up, caps, goals and last name.-->
+
+{{nat fs r start}}
+{{nat fs r player|no=|pos=GK|name=[[Dénes Dibusz]]|age={{Birth date and age|1990|11|16|df=y}}|caps=47|goals=0|club=[[Ferencvárosi TC|Ferencváros]]|clubnat=HUN|latest=v. {{fb|IRL}}, 16 November 2025}}
+{{nat fs r player|no=|pos=GK|name=[[Patrik Demjén]]|age={{Birth date and age|1998|3|22|df=y}}|caps=0|goals=0|club=[[MTK Budapest FC|MTK Budapest]]|clubnat=HUN|latest=v. {{fb|IRL}}, 16 November 2025}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=DF|name=[[Bendegúz Bolla]] <sup>INJ</sup>|age={{Birth date and age|1999|11|22|df=y}}|caps=36|goals=0|club=[[SK Rapid Wien|Rapid Wien]]|clubnat=AUT|latest=v. {{fb|FIN}}, 5 June 2026}}
+{{nat fs r player|no=|pos=DF|name=[[Márton Dárdai]] <sup>INJ</sup>|age={{birth date and age|df=yes|2002|2|12}}|caps=20|goals=0|club=[[Hertha BSC]]|clubnat=GER|latest=v. {{fb|FIN}}, 5 June 2026}}
+{{nat fs r player|no=|pos=DF|name=[[Loïc Négo]] <sup>INJ</sup>|age={{Birth date and age|1991|1|15|df=y}}|caps=48|goals=2|club=[[AC Omonia|Omonia]]|clubnat=CYP|latest=v. {{fb|SVN}}, 28 March 2026}}
+{{nat fs r player|no=|pos=DF|name=[[Botond Balogh]] <sup>INJ</sup>|age={{Birth date and age|2002|6|6|df=y}}|caps=8|goals=0|club=[[Parma]]|clubnat=ITA|latest=v. {{fb|SVN}}, 28 March 2026}}
+{{nat fs r player|no=|pos=DF|name=[[Attila Szalai]]|age={{Birth date and age|1998|1|20|df=y}}|caps=53|goals=2|club=[[Pogoń Szczecin]]|clubnat=POL|latest=v. {{fb|SVN}}, 28 March 2026}}
+{{nat fs r player|no=|pos=DF|name=[[Attila Mocsi]]|age={{Birth date and age|2000|5|29|df=y}}|caps=3|goals=0|club=[[Çaykur Rizespor]]|clubnat=TUR|latest=v. {{fb|IRL}}, 16 November 2025}}
+{{nat fs r player|no=|pos=DF|name=[[Gábor Szalai]]|age={{Birth date and age|2000|6|9|df=y}}|caps=1|goals=0|club=[[Ferencvárosi TC|Ferencváros]]|clubnat=HUN|latest=v. {{fb|POR}}, 6 September 2025}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=MF|name=[[Bence Ötvös]] <sup>INJ</sup>|age={{Birth date and age|1998|3|13|df=yes}}|caps=3|goals=0|club=[[Ferencvárosi TC|Ferencváros]]|clubnat=HUN|latest=v. {{fb|IRL}}, 16 November 2025}}
+{{nat fs r player|no=|pos=MF|name=[[Áron Csongvai]]|age={{Birth date and age|2000|10|31|df=y}}|caps=2|goals=0|club=[[AIK Fotboll|AIK]]|clubnat=SWE|latest=v. {{fb|IRL}}, 16 November 2025}}
+{{nat fs r player|no=|pos=MF|name=[[Bence Dárdai]] <sup>INJ</sup>|age={{Birth date and age|2006|1|24|df=y}}|caps=3|goals=0|club=[[VfL Wolfsburg]]|clubnat=GER|latest=v. {{fb|POR}}, 6 September 2025}}
+{{nat fs r player|no=|pos=MF|name=[[Tamás Nikitscher]]|age={{Birth date and age|1999|11|3|df=y}}|caps=9|goals=0|club=[[Rio Ave F.C.|Rio Ave]]|clubnat=POR|latest=v. {{fb|AZE}}, 10 June 2025}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=FW|name=[[Szabolcs Schön]] <sup>INJ</sup>|age={{birth date and age|2000|09|27|df=yes}}|caps=11|goals=1|club=[[Győri ETO FC|Győr]]|clubnat=HUN|latest=v. {{fb|FIN}}, 5 June 2026}}
+{{nat fs r player|no=17|pos=FW|name=[[Donát Bárány]]|age={{birth date and age|df=yes|2000|9|4}}|caps=2|goals=0|club=[[Debreceni VSC|Debrecen]]|clubnat=HUN|latest=v. {{fb|GRE}}, 31 March 2026}}
+{{nat fs r player|no=|pos=FW|name=[[Barna Tóth]]|age={{birth date and age|1995|3|13|df=yes}}|caps=1|goals=0|club=[[Paksi FC|Paks]]|clubnat=HUN|latest=v. {{fb|POR}}, 14 October 2025}}
+{{nat fs r player|no=|pos=FW|name=[[Rajmund Molnár]] <sup>INJ</sup>|age={{birth date and age|2002|8|28|df=yes}}|caps=0|goals=0|club=[[Pogoń Szczecin]]|clubnat=POL|latest=v. {{fb|POR}}, 14 October 2025}}
+{{nat fs r player|no=|pos=FW|name=[[Dániel Gazdag]]|age={{Birth date and age|1996|3|2|df=y}}|caps=30|goals=4|club=[[Columbus Crew]]|clubnat=USA|latest=v. {{fb|AZE}}, 10 June 2025}}
+{{nat fs r player|no=|pos=FW|name=[[Kevin Csoboth]]|age={{birth date and age|df=yes|2000|6|20}}|caps=19|goals=1|club=[[FC St. Gallen]]|clubnat=SUI|latest=v. {{fb|AZE}}, 10 June 2025}}
+{{nat fs break}}
+<sup>INJ</sup> Injured player<br />
+<sup>RET</sup> Retired from international football<br />
+{{nat fs end}}
+
+==Player records==
+{{Main|List of Hungary international footballers}}
+
+{{updated|11 October 2025}}<ref>{{cite web |last1=Mamrud |first1=Roberto |title=Hungary – Record International Players |url=https://www.rsssf.org/miscellaneous/hong-recintlp.html |website=RSSSF |access-date=25 May 2004 |archive-date=28 January 2019 |archive-url=https://web.archive.org/web/20190128190618/http://www.rsssf.com/miscellaneous/hong-recintlp.html |url-status=live }}</ref>
+Players in '''bold''' are still active with Hungary.
+
+===Most appearances===
+{{multiple image
+| align             = right
+| total_width       = 180
+| image1            = Balázs Dzsudzsák.jpg
+| footer            = Balázs Dzsudzsák is Hungary's most capped player with 109 appearances.
+}}
+
+{|class="wikitable sortable" style="text-align:center;"
+! style="background-color:#DC143C; color:white; {{box-shadow border|a|#228B22|2px}}" width="30px"|Rank
+! style="background-color:#DC143C; color:white; {{box-shadow border|a|#228B22|2px}}" width="150px"|Player
+! style="background-color:#DC143C; color:white; {{box-shadow border|a|#228B22|2px}}" width="50px"|Caps
+! style="background-color:#DC143C; color:white; {{box-shadow border|a|#228B22|2px}}" width="50px"|Goals
+! style="background-color:#DC143C; color:white; {{box-shadow border|a|#228B22|2px}}" class="unsortable" width="100px"|Career
+|-
+|1
+|align="left"|[[Balázs Dzsudzsák]]
+|'''109'''
+|21
+|2007–2022
+|-
+|2
+|align="left"|[[Gábor Király]]
+|'''108'''
+|0
+|1998–2016
+|-
+|3
+|align="left"|[[József Bozsik]]
+|'''101'''
+|11
+|1947–1962
+|-
+|4
+|align="left"|[[Zoltán Gera]]
+|'''97'''
+|26
+|2002–2017
+|-
+|5
+|align="left"|[[Roland Juhász]]
+|'''95'''
+|6
+|2004–2016
+|-
+|6
+|align="left"|[[László Fazekas]]
+|'''92'''
+|20
+|1968–1983
+|-
+|7
+|align="left"|[[Ádám Nagy]]
+|'''88'''
+|2
+|2015–2024
+|-
+|rowspan=2|8
+|align="left"|[[Gyula Grosics]]
+|'''86'''
+|0
+|1947–1962
+|-
+|align="left"|[[Ádám Szalai]]
+|'''86'''
+|26
+|2009–2022
+|-
+|10
+|align="left"|[[Ferenc Puskás]]
+|'''85'''
+|84
+|1945–1956
+|}
+
+===Top goalscorers===
+[[File:Ferenc Puskas en 1965.jpg|thumb|Ferenc Puskás is Hungary's all-time top scorer with 84 goals.]]
+
+{|class="wikitable sortable" style="text-align:center;"
+! style="background-color:#DC143C; color:white; {{box-shadow border|a|#228B22|2px}}" width="30px"|Rank
+! style="background-color:#DC143C; color:white; {{box-shadow border|a|#228B22|2px}}" width="150px"|Player
+! style="background-color:#DC143C; color:white; {{box-shadow border|a|#228B22|2px}}" width="50px"|Goals
+! style="background-color:#DC143C; color:white; {{box-shadow border|a|#228B22|2px}}" width="50px"|Caps
+! style="background-color:#DC143C; color:white; {{box-shadow border|a|#228B22|2px}}; width="50px"|Ratio
+! style="background-color:#DC143C; color:white; {{box-shadow border|a|#228B22|2px}}" width="100px"|Career
+|-
+|1
+|style="text-align:left;"|[[Ferenc Puskás]] ([[List of international goals scored by Ferenc Puskás|list]])
+|'''84'''
+|85
+|{{#expr:84/85 round 2}}
+|1945–1956
+|-
+|2
+|style="text-align:left;"|[[Sándor Kocsis]] ([[List of international goals scored by Sándor Kocsis|list]])
+|'''75'''
+|68
+|{{#expr:75/68 round 2}}
+|1948–1956
+|-
+|3
+|style="text-align:left;"|[[Imre Schlosser]] ([[List of international goals scored by Imre Schlosser|list]])
+|'''59'''
+|68
+|{{#expr:59/68 round 2}}
+|1906–1927
+|-
+|4
+|style="text-align:left;"|[[Lajos Tichy]]
+|'''51'''
+|72
+|{{#expr:51/72 round 2}}
+|1955–1971
+|-
+|5
+|style="text-align:left;"|[[György Sárosi]]
+|'''42'''
+|62
+|{{#expr:42/62 round 2}}
+|1931–1943
+|-
+|6
+|style="text-align:left;"|[[Nándor Hidegkuti]]
+|'''39'''
+|69
+|{{#expr:39/69 round 2}}
+|1945–1958
+|-
+|7
+|style="text-align:left;"|[[Ferenc Bene]]
+|'''36'''
+|76
+|{{#expr:36/76 round 2}}
+|1962–1979
+|-
+|rowspan=2|8
+|style="text-align:left;"|[[Gyula Zsengellér]]
+|'''32'''
+|39
+|{{#expr:32/39 round 2}}
+|1936–1947
+|-
+|style="text-align:left;"|[[Tibor Nyilasi]]
+|'''32'''
+|70
+|{{#expr:32/70 round 2}}
+|1975–1985
+|-
+|10
+|style="text-align:left;"|[[Flórián Albert]]
+|'''31'''
+|74
+|{{#expr:31/74 round 2}}
+|1959–1974
+|-
+|}
+
+===Captains===
+{|class="wikitable sortable" style="text-align:center;"
+! style="background-color:#DC143C; color:white; {{box-shadow border|a|#228B22|2px}}"  width="150px"|Name
+! style="background-color:#DC143C; color:white; {{box-shadow border|a|#228B22|2px}}"|Captained
+! style="background-color:#DC143C; color:white; {{box-shadow border|a|#228B22|2px}}"|Major tournament as captain
+|-
+|style="text-align:left;"|[[Tibor Nyilasi]]
+|1981–1985
+|[[1982 FIFA World Cup]]
+|-
+|style="text-align:left;"|[[Antal Nagy (footballer, born 1956)|Antal Nagy]]
+|1985–1986
+|[[1986 FIFA World Cup]]
+|-
+|style="text-align:left;"|[[Imre Garaba]]
+|1986–1991
+|
+|-
+|style="text-align:left;"|[[Lajos Détári]]
+|1991–1994
+|
+|-
+|style="text-align:left;"|[[István Kozma (footballer)|István Kozma]]
+|1995
+|
+|-
+|style="text-align:left;"|[[János Bánfi]]
+|1996–1997
+|
+|-
+|style="text-align:left;"|[[Béla Illés]]
+|1998–2001
+|
+|-
+|style="text-align:left;"|[[Gábor Király]]
+|2002–2003
+|
+|-
+|style="text-align:left;"|[[Zoltán Gera]]
+|2004–2005
+|
+|-
+|style="text-align:left;"|[[Pál Dárdai]]
+|2006
+|
+|-
+|style="text-align:left;"|[[Zoltán Gera]]
+|2007–2013
+|
+|-
+|style="text-align:left;"|[[Balázs Dzsudzsák]]
+|2014–2019
+|[[UEFA Euro 2016]]
+|-
+|style="text-align:left;"|[[Ádám Szalai]]
+|2020–2022
+|[[UEFA Euro 2020]]
+|-
+|style="text-align:left;"|'''[[Dominik Szoboszlai]]'''
+|2022–
+|[[UEFA Euro 2024]]
+|-
+|}
+
+==Competitive record==
+===FIFA World Cup===
+{{Main|Hungary at the FIFA World Cup}}
+
+{{Color box|gold|border=darkgray}} '''Champions'''&nbsp;&nbsp;{{Color box|silver|border=darkgray}} '''Runners-up'''&nbsp;&nbsp;{{Color box|#cc9966|border=darkgray}} '''Third place'''&nbsp;&nbsp;{{Color box|#9acdff|border=darkgray}} Fourth place&nbsp;&nbsp;
+
+{| class="wikitable" style="text-align: center;"
+|-
+!colspan=10|[[FIFA World Cup]] record
+!width=1% rowspan=28|
+!colspan=7|[[FIFA World Cup qualification|Qualification]] record
+|-
+!Year
+!Round
+!Position
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!Squad
+!Position
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+|-
+|{{#invoke:flag|icon|Uruguay}} [[1930 FIFA World Cup|1930]]
+|colspan=9|''Did not enter''
+|colspan=7|''Did not enter''
+|-
+|{{#invoke:flag|icon|Italy|1861}} [[1934 FIFA World Cup|1934]]
+|Quarter-finals
+|6th
+|2
+|1
+|0
+|1
+|5
+|4
+|[[1934 FIFA World Cup squads#Hungary|Squad]]
+|1st
+|2
+|2
+|0
+|0
+|8
+|2
+|- style="background:Silver;"
+|{{#invoke:flag|icon|France|1794}} [[1938 FIFA World Cup|1938]]
+|'''[[1938 FIFA World Cup Final|Runners-up]]'''
+|'''2nd'''
+|'''4'''
+|'''3'''
+|'''0'''
+|'''1'''
+|'''15'''
+|'''5'''
+|'''[[1938 FIFA World Cup squads#Hungary|Squad]]'''
+|1st
+|1
+|1
+|0
+|0
+|11
+|1
+|-
+|{{#invoke:flag|icon|Brazil|1889}} [[1950 FIFA World Cup|1950]]
+|colspan=9|''Did not enter''
+|colspan=7|''Did not enter''
+|- style="background:Silver;"
+|{{#invoke:flag|icon|Switzerland}} [[1954 FIFA World Cup|1954]]
+|'''[[1954 FIFA World Cup Final|Runners-up]]'''
+|'''2nd'''
+|'''5'''
+|'''4'''
+|'''0'''
+|'''1'''
+|'''27'''
+|'''10'''
+|'''[[1954 FIFA World Cup squads#Hungary|Squad]]'''
+|colspan=7|''Qualified by default''
+|-
+|{{#invoke:flag|icon|Sweden}} [[1958 FIFA World Cup|1958]]
+|Group stage
+|10th
+|4
+|1
+|1
+|2
+|7
+|5
+|[[1958 FIFA World Cup squads#Hungary|Squad]]
+|1st
+|4
+|3
+|0
+|1
+|12
+|4
+|-
+|{{#invoke:flag|icon|Chile}} [[1962 FIFA World Cup|1962]]
+|rowspan=2|Quarter-finals
+|5th
+|4
+|2
+|1
+|1
+|8
+|3
+|[[1962 FIFA World Cup squads#Hungary|Squad]]
+|1st
+|4
+|3
+|1
+|0
+|11
+|5
+|-
+|{{#invoke:flag|icon|England}} [[1966 FIFA World Cup|1966]]
+|6th
+|4
+|2
+|0
+|2
+|8
+|7
+|[[1966 FIFA World Cup squads#Hungary|Squad]]
+|1st
+|4
+|3
+|1
+|0
+|8
+|3
+|-
+|{{#invoke:flag|icon|Mexico}} [[1970 FIFA World Cup|1970]]
+|colspan=9 rowspan=2|''Did not qualify''
+|P/O
+|7
+|4
+|1
+|2
+|17
+|11
+|-
+|{{#invoke:flag|icon|West Germany}} [[1974 FIFA World Cup|1974]]
+|3rd
+|6
+|2
+|4
+|0
+|12
+|7
+|-
+|{{#invoke:flag|icon|Argentina|1861}} [[1978 FIFA World Cup|1978]]
+|rowspan=3|Group stage
+|15th
+|3
+|0
+|0
+|3
+|3
+|8
+|[[1978 FIFA World Cup squads#Hungary|Squad]]
+|P/O
+|6
+|4
+|1
+|1
+|15
+|6
+|-
+|{{#invoke:flag|icon|Spain}} [[1982 FIFA World Cup|1982]]
+|14th
+|3
+|1
+|1
+|1
+|12
+|6
+|[[1982 FIFA World Cup squads#Hungary|Squad]]
+|1st
+|8
+|4
+|2
+|2
+|13
+|8
+|-
+|{{#invoke:flag|icon|Mexico}} [[1986 FIFA World Cup|1986]]
+|18th
+|3
+|1
+|0
+|2
+|2
+|9
+|[[1986 FIFA World Cup squads#Hungary|Squad]]
+|1st
+|6
+|5
+|0
+|1
+|12
+|4
+|-
+|{{#invoke:flag|icon|Italy|1946}} [[1990 FIFA World Cup|1990]]
+|colspan=10 rowspan=10|''Did not qualify''
+|3rd
+|8
+|2
+|4
+|2
+|8
+|12
+|-
+|{{#invoke:flag|icon|United States}} [[1994 FIFA World Cup|1994]]
+|4th
+|8
+|2
+|1
+|5
+|6
+|11
+|-
+|{{#invoke:flag|icon|France|1974}} [[1998 FIFA World Cup|1998]]
+|P/O
+|10
+|3
+|3
+|4
+|11
+|20
+|-
+|{{#invoke:flag|icon|South Korea|1997}} {{#invoke:flag|icon|Japan}} [[2002 FIFA World Cup|2002]]
+|4th
+|8
+|2
+|2
+|4
+|14
+|13
+|-
+|{{#invoke:flag|icon|Germany}} [[2006 FIFA World Cup|2006]]
+|4th
+|10
+|4
+|2
+|4
+|13
+|14
+|-
+|{{#invoke:flag|icon|South Africa}} [[2010 FIFA World Cup|2010]]
+|4th
+|10
+|5
+|1
+|4
+|10
+|8
+|-
+|{{#invoke:flag|icon|Brazil}} [[2014 FIFA World Cup|2014]]
+|3rd
+|10
+|5
+|2
+|3
+|21
+|20
+|-
+|{{#invoke:flag|icon|Russia}} [[2018 FIFA World Cup|2018]]
+|3rd
+|10
+|4
+|1
+|5
+|14
+|14
+|-
+|{{#invoke:flag|icon|Qatar}} [[2022 FIFA World Cup|2022]]
+|4th
+|10
+|5
+|2
+|3
+|19
+|13
+|-
+|{{#invoke:flag|icon|Canada}} {{#invoke:flag|icon|Mexico}} {{#invoke:flag|icon|United States}} [[2026 FIFA World Cup|2026]]
+|3rd
+|6
+|2
+|2
+|2
+|11
+|10
+|-
+|{{#invoke:flag|icon|Morocco}} {{#invoke:flag|icon|Portugal}} {{#invoke:flag|icon|Spain}} [[2030 FIFA World Cup|2030]]
+|colspan=9 rowspan=2|''To be determined ''
+|colspan=9 rowspan=2|''To be determined ''
+|-
+|{{#invoke:flag|icon|Saudi Arabia}} [[2034 FIFA World Cup|2034]]
+|-
+!Total
+!Runners-up
+!9/22
+!32
+!15
+!3
+!14
+!87
+!57
+!—
+!Total
+!138
+!65
+!30
+!43
+!246
+!186
+|}
+
+===UEFA European Championship===
+{{Main|Hungary at the UEFA European Championship}}
+
+{{Color box|gold|border=darkgray}} '''Champions'''&nbsp;&nbsp;{{Color box|silver|border=darkgray}} '''Runners-up'''&nbsp;&nbsp;{{Color box|#cc9966|border=darkgray}} '''Third place/Semi-finalists'''&nbsp;&nbsp;{{Color box|#9acdff|border=darkgray}} Fourth place&nbsp;&nbsp;
+
+{| class="wikitable" style="text-align: center;"
+|-
+!colspan=10|[[UEFA European Championship]] record
+!width=1% rowspan=22|
+!colspan=8|[[UEFA European Championship qualifying|Qualification]] record
+|-
+!Year
+!Round
+!Position
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!Squad
+!Position
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+|-
+|{{#invoke:flag|icon|France|1794}} [[1960 European Nations' Cup|1960]]
+|colspan=9|''Did not qualify''
+|FR
+|2
+|0
+|0
+|2
+|1
+|4
+|- style="background:#c96;"
+|{{#invoke:flag|icon|Spain|1945}} [[1964 European Nations' Cup|1964]]
+|'''Third place'''
+|'''3rd'''
+|'''2'''
+|'''1'''
+|'''0'''
+|'''1'''
+|'''4'''
+|'''3'''
+|'''[[1964 European Nations' Cup squads#Hungary|Squad]]'''
+|QF
+|6
+|4
+|2
+|0
+|14
+|8
+|-
+|{{#invoke:flag|icon|Italy|1946}} [[UEFA Euro 1968|1968]]
+|colspan=9|''Did not qualify''
+|QF
+|8
+|5
+|1
+|2
+|17
+|8
+|- style="background:#9acdff;"
+|{{#invoke:flag|icon|Belgium}} [[UEFA Euro 1972|1972]]
+|Fourth place
+|4th
+|2
+|0
+|0
+|2
+|1
+|3
+|[[UEFA Euro 1972 squads#Hungary|Squad]]
+|QF
+|9
+|5
+|3
+|1
+|17
+|9
+|-
+|{{#invoke:flag|icon|Yugoslavia}} [[UEFA Euro 1976|1976]]
+|colspan=9 rowspan=10|''Did not qualify''
+|2nd
+|6
+|3
+|1
+|2
+|15
+|8
+|-
+|{{#invoke:flag|icon|Italy|1946}} [[UEFA Euro 1980|1980]]
+|2nd
+|6
+|2
+|2
+|2
+|9
+|9
+|-
+|{{#invoke:flag|icon|France|1974}} [[UEFA Euro 1984|1984]]
+|4th
+|8
+|3
+|1
+|4
+|18
+|17
+|-
+|{{#invoke:flag|icon|West Germany}} [[UEFA Euro 1988|1988]]
+|3rd
+|8
+|4
+|0
+|4
+|13
+|11
+|-
+|{{#invoke:flag|icon|Sweden}} [[UEFA Euro 1992|1992]]
+|4th
+|8
+|2
+|4
+|2
+|10
+|9
+|-
+|{{#invoke:flag|icon|England}} [[UEFA Euro 1996|1996]]
+|4th
+|8
+|2
+|2
+|4
+|7
+|13
+|-
+|{{#invoke:flag|icon|Belgium}} {{#invoke:flag|icon|Netherlands}} [[UEFA Euro 2000|2000]]
+|4th
+|10
+|3
+|3
+|4
+|14
+|10
+|-
+|{{#invoke:flag|icon|Portugal}} [[UEFA Euro 2004|2004]]
+|4th
+|8
+|3
+|2
+|3
+|15
+|9
+|-
+|{{#invoke:flag|icon|Austria}} {{#invoke:flag|icon|Switzerland}} [[UEFA Euro 2008|2008]]
+|6th
+|12
+|4
+|0
+|8
+|11
+|22
+|-
+|{{#invoke:flag|icon|Poland}} {{#invoke:flag|icon|Ukraine}} [[UEFA Euro 2012|2012]]
+|3rd
+|10
+|6
+|1
+|3
+|22
+|14
+|-
+|{{#invoke:flag|icon|France|1974}} [[UEFA Euro 2016|2016]]
+|Round of 16
+|13th
+|4
+|1
+|2
+|1
+|6
+|8
+|[[UEFA Euro 2016 squads#Hungary|Squad]]
+|3rd {{nowrap|([[UEFA Euro 2016 qualifying play-offs|PO winners]])}}
+|12
+|6
+|4
+|2
+|14
+|10
+|-
+|{{#invoke:flag|icon|Europe}} [[UEFA Euro 2020|2020]]
+|rowspan=2|Group stage
+|20th
+|3
+|0
+|2
+|1
+|3
+|6
+|[[UEFA Euro 2020 squads#Hungary|Squad]]
+|4th {{nowrap|([[UEFA Euro 2020 qualifying play-offs|PO winners]])}}
+|10
+|6
+|0
+|4
+|13
+|13
+|-
+|{{#invoke:flag|icon|Germany}} [[UEFA Euro 2024|2024]]
+|18th
+|3
+|1
+|0
+|2
+|2
+|5
+|[[UEFA Euro 2024 squads#Hungary|Squad]]
+|1st
+|8
+|5
+|3
+|0
+|16
+|7
+|-
+| {{flagicon|England}} {{flagicon|Scotland}} {{flagicon|Wales}} {{flagicon|Republic of Ireland}} [[UEFA Euro 2028|2028]]
+|colspan=9 rowspan=2|''To be determined''
+|colspan=7 rowspan=2|''To be determined''
+|-
+|{{#invoke:flag|icon|Italy}} {{#invoke:flag|icon|Turkey}} [[UEFA Euro 2032|2032]]
+|-
+!Total
+!Third place
+!5/17
+!14
+!3
+!4
+!7
+!16
+!25
+!—
+!Total
+!139
+!63
+!29
+!47
+!226
+!181
+|}
+
+===UEFA Nations League===
+{{Color box|gold|border=darkgray}} '''Champions'''&nbsp;&nbsp;{{Color box|silver|border=darkgray}} '''Runners-up'''&nbsp;&nbsp;{{Color box|#cc9966|border=darkgray}} '''Third place'''&nbsp;&nbsp;{{Color box|#9acdff|border=darkgray}} Fourth place&nbsp;&nbsp;
+
+{| class="wikitable" style="text-align: center;"
+!colspan=13|[[UEFA Nations League]] record
+|-
+!width=20|Season
+!width=28|Division
+!width=28|Group
+!width=28|Round
+!width=28|{{Tooltip|Pos|Position}}
+!width=28|{{Tooltip|Pld|Matches played}}
+!width=28|{{Tooltip|W|Won}}
+!width=28|{{Tooltip|D|Drawn}}
+!width=28|{{Tooltip|L|Lost}}
+!width=28|{{Tooltip|GF|Goals for}}
+!width=28|{{Tooltip|GA|Goals against}}
+!width=28|{{Tooltip|RK|Overall rank}}
+!width=28|{{Tooltip|P/R|Promotion/relegation at end of season}}
+|-
+|{{nowrap|[[2018–19 UEFA Nations League|2018–19]]}}
+|[[2018–19 UEFA Nations League C|C]]
+|[[2018–19 UEFA Nations League C#Group 2|2]]
+|rowspan=4|Group stage
+|2nd
+|6
+|3
+|1
+|2
+|9
+|6
+|31/55
+|{{rise}}
+|-
+|[[2020–21 UEFA Nations League|2020–21]]
+|[[2020–21 UEFA Nations League B|B]]
+|[[2020–21 UEFA Nations League B#Group 3|3]]
+|1st
+|6
+|3
+|2
+|1
+|7
+|4
+|20/55
+|{{rise}}
+|-
+|[[2022–23 UEFA Nations League|2022–23]]
+|[[2022–23 UEFA Nations League A|A]]
+|[[2022–23 UEFA Nations League A#Group 3|3]]
+|2nd
+|6
+|3
+|1
+|2
+|8
+|5
+|8/55
+|{{same position}}
+|-
+|[[2024–25 UEFA Nations League|2024–25]]
+|[[2024–25 UEFA Nations League A|A]]
+|[[2024–25 UEFA Nations League A#Group 3|3]]
+|3rd
+|8
+|1
+|3
+|4
+|5
+|17
+|11/55
+|{{fall}}
+|-
+!style="width:20%;" colspan=3|Total
+!Group stage
+!4/4
+!26
+!10
+!7
+!9
+!29
+!32
+!colspan=2|8th
+|}
+
+===Olympic Games===
+[[File:Medal.jpg|thumb|The gold medal of the [[1952 Summer Olympics|1952 Olympic Games]] held in [[Helsinki]]]]
+The first three Olympic football events were only unofficial tournament, with a few nations represented by a club team. Beginning in 1908, the Olympic football tournament became an official event.
+
+After 1988, the football event was changed into an under-23-only tournament.
+
+{{Color box|gold|border=darkgray}} '''Gold medal'''&nbsp;&nbsp; {{Color box|silver|border=darkgray}} '''Silver medal'''&nbsp;&nbsp; {{Color box|#cc9966|border=darkgray}} '''Bronze medal'''&nbsp;&nbsp;{{Color box|#9acdff|border=darkgray}} Fourth place&nbsp;&nbsp;
+
+{| class="wikitable" style="text-align: center"
+|-
+!colspan=11|[[Football at the Summer Olympics|Olympic Games]] record
+|-
+!Year
+!Host
+!Round
+!Position
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!Squad
+|-
+|[[1896 Summer Olympics|1896]]
+|align=left|{{#invoke:flag|icon|Greece|old}} [[Athens]]
+|colspan=9|''No football tournament''
+|-
+|[[Football at the 1900 Summer Olympics|1900]]
+|align=left|{{#invoke:flag|icon|France|1794}} [[Paris]]
+|colspan=9 rowspan=2|''Did not enter''
+|-
+|[[Football at the 1904 Summer Olympics|1904]]
+|align=left|{{#invoke:flag|icon|United States|1896}} [[St. Louis]]
+|-
+|[[Football at the 1908 Summer Olympics|1908]]
+|align=left|{{#invoke:flag|icon|United Kingdom}} [[London]]
+|colspan=9|''Withdrew''
+|-
+|[[Football at the 1912 Summer Olympics|1912]]
+|align=left|{{#invoke:flag|icon|Sweden}} [[Stockholm]]
+|Round 2||10th||1||0||0||1||0||7||[[Football at the 1912 Summer Olympics – Men's team squads#Hungary|Squad]]
+|-
+|[[Football at the 1920 Summer Olympics|1920]]
+|align=left|{{#invoke:flag|icon|Belgium}} [[Antwerp]]
+|colspan=9|''Did not enter''
+|-
+|[[Football at the 1924 Summer Olympics|1924]]
+|align=left|{{#invoke:flag|icon|France|1794}} [[Paris]]
+|Round 2||9th||2||1||0||1||5||3||[[Football at the 1924 Summer Olympics – Men's team squads#Hungary|Squad]]
+|-
+|[[Football at the 1928 Summer Olympics|1928]]
+|align=left|{{#invoke:flag|icon|Netherlands}} [[Amsterdam]]
+|colspan=9|''Did not enter''
+|-
+|[[1932 Summer Olympics|1932]]
+|align=left|{{#invoke:flag|icon|USA|1912}} [[Los Angeles]]
+|colspan=9|''No football tournament''
+|-
+|[[Football at the 1936 Summer Olympics|1936]]
+|align=left|{{#invoke:flag|icon|Nazi Germany}} [[Berlin]]
+|Round 1||13th||1||0||0||1||0||3||[[Football at the 1936 Summer Olympics – Men's team squads#Hungary|Squad]]
+|-
+|[[Football at the 1948 Summer Olympics|1948]]
+|align=left|{{#invoke:flag|icon|United Kingdom}} [[London]]
+|colspan=9|''Did not enter''
+|- style="background:Gold;"
+|[[Football at the 1952 Summer Olympics|1952]]
+|align=left|{{#invoke:flag|icon|Finland}} [[Helsinki]]
+|'''Gold medal'''||'''1st'''||'''6'''||'''6'''||'''0'''||'''0'''||'''20'''||'''2'''||'''[[Football at the 1952 Summer Olympics – Men's team squads#Hungary|Squad]]'''
+|-
+|[[Association football at the 1956 Summer Olympics|1956]]
+|align=left|{{#invoke:flag|icon|Australia}} [[Melbourne]]
+|colspan=9|''Did not enter''
+|- style="background:#c96;"
+|[[Football at the 1960 Summer Olympics|1960]]
+|align=left|{{#invoke:flag|icon|Italy|1946}} [[Rome]]
+|'''Bronze medal'''||'''3rd'''||'''5''' ||'''4'''||'''0'''||'''1'''||'''17'''||'''9'''||'''[[Football at the 1960 Summer Olympics – Men's team squads#Hungary|Squad]]'''
+|- style="background:Gold;"
+|[[Football at the 1964 Summer Olympics|1964]]
+|align=left|{{#invoke:flag|icon|Japan|1947}} [[Tokyo]]
+|'''Gold medal'''||'''1st'''||'''5'''||'''5'''||'''0'''||'''0'''||'''22'''||'''6'''||'''[[Football at the 1964 Summer Olympics – Men's team squads#Hungary|Squad]]'''
+|- style="background:Gold;"
+|[[Football at the 1968 Summer Olympics|1968]]
+|align=left|{{#invoke:flag|icon|Mexico}} [[Mexico City]]
+|'''Gold medal'''||'''1st'''||'''5'''||'''5'''||'''1'''||'''0'''||'''18'''||'''3'''||'''[[Football at the 1968 Summer Olympics – Men's team squads#Hungary|Squad]]'''
+|- style="background:Silver;"
+|[[Football at the 1972 Summer Olympics|1972]]
+|align=left|{{#invoke:flag|icon|West Germany}} [[Munich]]
+|'''Silver medal'''||'''2nd'''||'''7'''||'''5'''||'''1'''||'''1'''||'''21'''||'''5'''||'''[[Football at the 1972 Summer Olympics – Men's team squads#Hungary|Squad]]'''
+|-
+|[[Football at the 1976 Summer Olympics|1976]]
+|align=left|{{#invoke:flag|icon|Canada}} [[Montreal]]
+|colspan=9 rowspan=2|''Did not qualify''
+|-
+|[[Football at the 1980 Summer Olympics|1980]]
+|align=left|{{#invoke:flag|icon|Soviet Union|1955}} [[Moscow]]
+|-
+|[[Football at the 1984 Summer Olympics|1984]]
+|align=left|{{#invoke:flag|icon|United States}} [[Los Angeles]]
+|colspan=9|''Withdrew''
+|-
+|[[Football at the 1988 Summer Olympics|1988]]
+|align=left|{{#invoke:flag|icon|South Korea|1984}} [[Seoul]]
+|colspan=9|''Did not qualify''
+|-
+|colspan=2|Since [[Football at the 1992 Summer Olympics|1992]]
+|colspan=9|''See [[Hungary national under-21 football team]]''
+|-
+!colspan=2|Total
+!Gold medal
+!8/19
+!32
+!26
+!2
+!5
+!103
+!38
+!—
+|}
+
+==Team records==
+[[File:Puskas Top scorer of 20th century.JPG|thumb|Puskás, top scorer of the 20th century]]
+
+The match between [[Austria national football team|Austria]] and Hungary in [[Vienna]] in 1902 was the first international match played between two non-British [[Europe]]an countries.
+
+Hungary was the first team from outside the United Kingdom and [[Ireland]] to beat [[England national football team|England]] at home, famously [[England v Hungary (1953)|winning 6–3]] at [[Wembley Stadium (1924)|Wembley]] on 25 November 1953. Six months later they beat England [[England v Hungary (1953)#Return fixture|7–1]] in 1954, this time in [[Budapest]]. This still ranks as England's record defeat.
+
+[[Gusztáv Sebes]] holds the highest ratio of victories per game (over 30 matches only) with 72% (49 wins, 12, draws, 7 defeats).
+
+Hungary has the distinction of setting the highest [[World Football Elo Ratings|Elo football rating]] ever achieved by a national side, a high of 2230 in 1954. It was set after Hungary's 4–2 victory over [[Uruguay National Football Team|Uruguay]] in the [[1954 FIFA World Cup|1954 World Cup]] semi-finals on 30 June 1954, the final match in their 31-game unbeaten streak (see below). [[Germany national football team|Germany]] and [[England national football team|England]] come in second (2223 in 2014) and third (2212 in 1928) respectively.
+
+The youngest-ever player of the Hungarian national team, [[József Horváth (footballer, born 1890)|József Horváth]], is the second youngest scorer of European national teams according the [[International Federation of Football History & Statistics|IFFHS]].<ref>{{cite web |url=https://iffhs.com/posts/3030 |title=All-time ranking for youngest scorers of European national teams |publisher=iffhs.com |access-date=11 September 2023}}</ref>
+
+[[Ferenc Puskás]] is recognized to be the top scorer of the 20th century, by the [[International Federation of Football History & Statistics|IFFHS]].
+
+===Top international goalscorers of the 20th century===
+Two of the top six international goalscorers of the 20th century were Hungarian, both of them from the Golden Team of the 1950s.{{Citation needed|date=March 2016}}
+
+{| class="wikitable"
+|-
+! #
+! Player
+! Nation
+! Goals scored
+! Games played
+! Years active
+|-
+| 1.
+| [[Ferenc Puskás]]
+| {{#invoke:flag|fb|HUN|1949}}
+| 84 goals
+| 85 internationals
+| 1945–1956
+|-
+| 2.
+| [[Kunishige Kamamoto]]
+| {{#invoke:flag|fb|JPN|1870}}
+| 80 goals
+| 84 internationals
+| 1964–1977
+|-
+| 3.
+| [[Pelé]]
+| {{#invoke:flag|fb|BRA|1889}}
+| 77 goals
+| 91 internationals
+| 1957–1971
+|-
+| 4.
+| [[Sándor Kocsis]]
+| {{#invoke:flag|fb|HUN|1949}}
+| 75 goals
+| 68 internationals
+| 1948–1956
+|-
+| 5.
+| [[Majed Abdullah]]
+| {{#invoke:flag|fb|KSA}}
+| 71 goals
+| 116 internationals
+| 1978–1994
+|-
+| 6.
+| [[Gerd Müller]]
+| {{#invoke:flag|fb|FRG}}
+| 68 goals
+| 62 internationals
+| 1966–1974
+|}
+
+===Undefeated run===
+Hungary was the first team to eclipse an 1888 [[Scotland national football team|Scottish]] record of being undefeated in 22 consecutive matches. They bettered the old mark by nine additional games to 31, now the third-longest unbeaten streak, going undefeated from 14 May 1950 to 4 July 1954, when they lost the World Cup final to West Germany.<ref>{{cite web |url=https://www.rsssf.org/tablesh/hong-intres.html |title=Hungary – list of international matches |publisher=Rsssf.com |access-date=18 August 2012 |archive-date=17 January 2012 |archive-url=https://web.archive.org/web/20120117070652/http://www.rsssf.com/tablesh/hong-intres.html |url-status=live }}</ref>
+
+[[Italy national football team|Italy]] holds the longest string at 37 unbeaten matches.
+
+<nowiki>*</nowiki> = not official
+{| class="wikitable" style="text-align: left;"
+|-
+!Opponent
+!Type
+!Date
+!Result
+|-style="background:#dfd;"
+|{{#invoke:flag|fb|POL|1928}}
+|[[Exhibition game#Association football|Exhibition game]]
+|4 June 1950
+|align="center"|5–2
+|-style="background:#dfd;"
+|{{#invoke:flag|fb|ALB|1946}}
+|[[Exhibition game#Association football|Exhibition game]]
+|24 September 1950
+|align="center"|12–0
+|- style="background:#dfd;"
+|{{#invoke:flag|fb|AUT|1230}}
+|[[Exhibition game#Association football|Exhibition game]]
+|29 October 1950
+|align="center"|4–3
+|-
+|{{#invoke:flag|fb|BUL|1946}}
+|[[Exhibition game#Association football|Exhibition game]]
+|12 November 1950
+|align="center"|1–1
+|- style="background:#dfd;"
+|{{#invoke:flag|fb|POL|1928}}
+|[[Exhibition game#Association football|Exhibition game]]
+|27 May 1951
+|align="center"|6–0
+|- style="background:#dfd;"
+|{{#invoke:flag|fb|TCH}}
+|[[Exhibition game#Association football|Exhibition game]]
+|14 October 1951
+|align="center"|2–1
+|- style="background:#dfd;"
+|{{#invoke:flag|fb|FIN}}
+|[[Exhibition game#Association football|Exhibition game]]
+|18 November 1951
+|align="center"|8–0
+|- style="background:#dfd;"
+|{{#invoke:flag|fb|DDR|1949}}
+|[[Exhibition game#Association football|Exhibition game]]
+|18 May 1952
+|align="center"|5–0*
+|- style="background:#dfd;"
+|{{#invoke:flag|fb|POL|1928}}
+|[[Exhibition game#Association football|Exhibition game]]
+|15 June 1952
+|align="center"|5–1
+|- style="background:#dfd;"
+|{{#invoke:flag|fb|FIN}}
+|[[Exhibition game#Association football|Exhibition game]]
+|22 June 1952
+|align="center"|6–1
+|- style="background:#dfd;"
+|{{#invoke:flag|fb|ROU|1948}}
+|[[Football at the 1952 Summer Olympics|1952 Olympics]]
+|15 July 1952
+|align="center"|2–1
+|- style="background:#dfd;"
+|{{#invoke:flag|fb|ITA|1946}}
+|[[Football at the 1952 Summer Olympics|1952 Olympics]]
+|21 July 1952
+|align="center"|3–0
+|- style="background:#dfd;"
+|{{#invoke:flag|fb|TUR}}
+|[[Football at the 1952 Summer Olympics|1952 Olympics]]
+|24 July 1952
+|align="center"|7–1
+|- style="background:#dfd;"
+|{{#invoke:flag|fb|SWE|1906}}
+|[[Football at the 1952 Summer Olympics|1952 Olympics]]
+|28 July 1952
+|align="center"|6–0
+|- style="background:#dfd;"
+|{{#invoke:flag|fb|YUG}}
+|[[Football at the 1952 Summer Olympics|1952 Olympics]]
+|2 August 1952
+|align="center"|2–0
+|- style="background:#dfd;"
+|{{#invoke:flag|fb|SUI}}
+|[[Central European International Cup|Central European Cup]]
+|20 September 1952
+|align="center"|4–2
+|- style="background:#dfd;"
+|{{#invoke:flag|fb|TCH}}
+|[[Exhibition game#Association football|Exhibition game]]
+|19 October 1952
+|align="center"|5–0
+|-
+|{{#invoke:flag|fb|AUT|1230}}
+|[[Exhibition game#Association football|Exhibition game]]
+|26 April 1953
+|align="center"|1–1
+|- style="background:#dfd;"
+|{{#invoke:flag|fb|ITA|1946}}
+|[[Central European International Cup|Central European Cup]]
+|17 May 1953
+|align="center"|3–0
+|- style="background:#dfd;"
+|{{#invoke:flag|fb|SWE|1906}}
+|[[Exhibition game#Association football|Exhibition game]]
+|5 July 1953
+|align="center"|4–2
+|-
+|{{#invoke:flag|fb|BUL|1946}}
+|[[Exhibition game#Association football|Exhibition game]]
+|4 October 1953
+|align="center"|1–1
+|- style="background:#dfd;"
+|{{#invoke:flag|fb|TCH}}
+|[[Exhibition game#Association football|Exhibition game]]
+|4 October 1953
+|align="center"|5–1
+|- style="background:#dfd;"
+|{{#invoke:flag|fb|AUT|1230}}
+|[[Exhibition game#Association football|Exhibition game]]
+|11 October 1953
+|align="center"|3–2
+|-
+|{{#invoke:flag|fb|SWE|1906}}
+|[[Exhibition game#Association football|Exhibition game]]
+|15 November 1953
+|align="center"|2–2
+|- style="background:#dfd;"
+|{{#invoke:flag|fb|ENG}}
+|[[Exhibition game#Association football|Exhibition game]]
+|25 November 1953
+|align="center"|6–3
+|- style="background:#dfd;"
+|{{#invoke:flag|fb|EGY|1922}}
+|[[Exhibition game#Association football|Exhibition game]]
+|12 February 1954
+|align="center"|3–0
+|- style="background:#dfd;"
+|{{#invoke:flag|fb|AUT|1230}}
+|[[Exhibition game#Association football|Exhibition game]]
+|11 April 1954
+|align="center"|1–0
+|- style="background:#dfd;"
+|{{#invoke:flag|fb|ENG}}
+|[[Exhibition game#Association football|Exhibition game]]
+|23 May 1954
+|align="center"|7–1
+|- style="background:#dfd;"
+|{{#invoke:flag|fb|KOR|1949}}
+|[[1954 FIFA World Cup]]
+|17 June 1954
+|align="center"|9–0
+|- style="background:#dfd;"
+|{{#invoke:flag|fb|West Germany}}
+|[[1954 FIFA World Cup]]
+|20 June 1954
+|align="center"|8–3
+|- style="background:#dfd;"
+|{{#invoke:flag|fb|BRA|1889}}
+|[[1954 FIFA World Cup]]
+|27 June 1954
+|align="center"|4–2
+|- style="background:#dfd;"
+|{{#invoke:flag|fb|URU}}
+|[[1954 FIFA World Cup]]
+|30 June 1954
+|align="center"|4–2 ([[Overtime (sports)|a.e.t.]])
+|}
+
+===Record defeat against Hungary===
+A total of 10 countries have suffered their biggest ever defeat against the Hungarian national football team. Of these teams, 6 are members of [[UEFA]], 3 of [[Confederation of African Football|CAF]] and one of [[CONCACAF]]. The win against [[El Salvador national football team|El Salvador]] is the biggest scoreline in men's [[FIFA World Cup]] final history.<ref>{{cite web | lang=pt-BR | url = http://www.thebrazilianpost.com.br/hungria-e-o-pais-que-mais-goleou-em-jogos-da-copa-do-mundo/ | title = Hungria é o país que mais goleou em jogos da Copa do Mundo | trans-title = Hungary is the country that has scored the most goals in a World Cup match | archiveurl=https://web.archive.org/web/20140219081312/http://www.thebrazilianpost.com.br/hungria-e-o-pais-que-mais-goleou-em-jogos-da-copa-do-mundo/| archivedate=19 February 2014 | work = The Brazilian Post | date = 28 November 2013 }}</ref><ref>{{cite web|url= https://www.theguardian.com/football/blog/2014/may/20/25-world-cup-stunning-moments-el-salvador-hungary-spain-1982|title= World Cup: 25 stunning moments ... No18: El Salvador humiliated in Spain|date=20 May 2014|work=Guardian|accessdate=2 April 2015}}</ref>
+
+{{#invoke:Football box collapsible|main|format=1
+|date = 29 October 1911
+|time = 15:00 (UTC+1:00)
+|team1 = {{#invoke:flag|fb-rt|HUN|1896}}
+|score = 9–0
+|report = [https://eu-football.info/_match.php?id=4613 Report]
+|round = [[Exhibition game|Friendly]]
+|team2 = {{#invoke:flag|fb|SWI}}
+|goals1 = [[Gyula Bíró|Bíró]] {{goal|1}}<br />[[Károly Koródy|Koródy]] {{goal|5||26}}<br />[[Imre Schlosser|Schlosser]] {{goal|18||56||62||79||83||85}}
+|goals2 =
+|stadium = [[Millenáris Sporttelep]]
+|location = [[Budapest]], Hungary
+|attendance = 15,000
+|referee = Hugo Meisl (Austria)
+|note=[[Imre Schlosser]] set the goal scoring record for Hungary (23 goals). This match was also the biggest victory of the Hungary football team at the time.
+}}
+{{#invoke:Football box collapsible|main|format=1
+|round = [[Exhibition game|Friendly]]
+|date = 6 April 1924
+|time = 16:30 (UTC+1:00)
+|team1 = {{#invoke:flag|fb-rt|HUN|1920}}
+|score = 7–1
+|report = [https://eu-football.info/_match.php?id=5050 Report]
+|team2 = {{#invoke:flag|fb|ITA|1861}}
+|goals1 = [[József Braun|Braun]] {{goal|17||42|pen.}}<br />[[József Eisenhoffer|Eisenhoffer]] {{goal|49}}<br />[[György Molnár|Molnár]] {{goal|59||60||69}}<br />[[Zoltán Opata|Opata]] {{goal|70}}
+|goals2 = [[Luigi Cevenini|Cevenini]] {{goal|76|pen.}}
+|stadium = [[Hungária körúti stadion]]
+|location = [[Budapest]], Hungary
+|attendance = 35,000
+|referee = Max Seemann (Austria)
+}}
+{{#invoke:Football box collapsible|main|format=1
+|round = [[1938 FIFA World Cup qualification]]
+|date = 25 March 1938
+|time =
+|team1 = {{#invoke:flag|fb-rt|HUN|1920}}
+|score = 11–1
+|report = [https://eu-football.info/_match.php?id=6136 Report]
+|team2 = {{#invoke:flag|fb|GRE}}
+|goals1 = [[Gyula Zsengellér|Zsengellér]] {{goal|14||23|pen.|24||65||81||83}}<br />[[Pál Titkos|Titkos]] {{goal|17||65}}<br />[[Jeno Vincze|Vincze]] {{goal|26}}<br />[[József Nemes|Nemes]] {{goal|36||40||51}}
+|goals2 = [[Lefteris Makris|Makris]] {{goal|89}}
+|stadium = [[Hungária körúti stadion]]
+|location = [[Budapest]], Hungary
+|attendance = 12,000
+|referee = [[Denis Xifando]] ([[Romanian Football Federation|Romania]])
+}}
+{{#invoke:Football box collapsible|main|format=1
+|round = [[1948 Balkan Cup]]
+|date = 6 June 1948
+|time =
+|team1 = {{#invoke:flag|fb-rt|HUN|1946}}
+|score = 9–0
+|report = [https://eu-football.info/_match.php?id=6491 Report]
+|team2 = {{#invoke:flag|fb|ROU|1948}}
+|goals1 = [[József Mészáros|Mészáros]] {{goal|30||46}}<br />[[Béla Egresi|Egresi]] {{goal|43||61||72}}<br />[[Ferenc Puskás|Puskás]] {{goal|58||82}}<br />[[Sándor Kocsis|Kocsis]] {{goal|67||85}}
+|goals2 =
+|location = [[Budapest]], Hungary
+|stadium = [[Szusza Ferenc Stadion|Megyeri úti Stadion]]
+|attendance = 45,000
+|referee = Antun Mlinarić (Yugoslavia)
+}}
+{{#invoke:Football box collapsible|main|format=1
+|round = [[Exhibition game#Association football|Friendly]]
+|date = 24 September 1950
+|time = 15:30
+|team1 = Hungary {{#invoke:flag|deco|HUN|1949}}
+|score = 12–0
+|report =
+|team2 = {{#invoke:flag|fb|ALB}}
+|goals1 = [[Ferenc Puskás|Puskás]] {{goal|18||36||75||82}}<br /> [[László Budai|Budai]] {{goal|33||52||60||65}}<br /> [[Péter Palotás|Palotás]] {{goal|39||50}}<br /> [[Sándor Kocsis|Kocsis]] {{goal|42||53}}
+|goals2 =
+|stadium = [[Szusza Ferenc Stadion|Megyeri úti Stadion]]
+|location = [[Budapest]], Hungary
+|attendance = 38,000
+|referee = Nemčovský Josef ([[Czechoslovak Football Association|Czechoslovakia]])
+}}
+{{#invoke:Football box collapsible|main|format=1
+|date = 23 May 1954
+|time =
+|round = [[Exhibition game|Friendly]]
+|team1 = Hungary {{#invoke:flag|deco|HUN|1949}}
+|score = [[1954 Hungary v England football match|7–1]]
+|report =
+|team2 = {{#invoke:flag|fb|ENG}}
+|goals1 = [[Mihály Lantos|Lantos]] {{goal|10}}<br />[[Ferenc Puskás|Puskás]] {{goal|17||71}}<br />[[Sándor Kocsis|Kocsis]] {{goal|19||57}}<br />[[Nándor Hidegkuti|Hidegkuti]] {{goal|59}}<br />[[József Tóth (footballer born 1929)|Tóth]] {{goal|63}}
+|goals2 = [[Ivor Broadis|Broadis]] {{goal|68}}
+|stadium = [[Ferenc Puskás Stadium (1953)|Népstadion]]
+|location = [[Budapest]], Hungary
+|attendance = 92,000
+|referee = Giorgio Bernardi ([[Italian Football Federation|Italy]])
+}}
+{{#invoke:Football box collapsible|main|format=1
+|round = [[Exhibition game|Friendly]]
+|date = 24 July 1960
+|time =
+|team1 = {{#invoke:flag|fb-rt|HUN}}
+|score = 10–1
+|report =
+|team2 = {{#invoke:flag|fb|TUN}}
+|goals1 = [[Flórián Albert|Albert]] {{goal|6||70||81||88}}<br />[[János Göröcs|Göröcs]] {{goal|17|40}}<br /> [[Ernő Solymosi|Solymosi]] {{goal|32}}<br /> [[László Pál (football)|Pál]] {{goal|38}}<br /> [[Béla Kuharszki|Kuharszki]] {{goal|49||76}}
+|goals2 =
+|stadium = [[Ferenc Puskás Stadium|Népstadion]]
+|location = [[Budapest]], Hungary
+|referee = József Pósfai ([[Hungarian Football Federation|Hungary]])
+|attendance = 25,000
+}}
+{{#invoke:Football box collapsible|main|format=1
+|round = [[Football at the 1964 Summer Olympics|1964 Olympics]]
+|date = 11 October 1964
+|time = 14:00
+|team1 = {{#invoke:flag|fb-rt|HUN}}
+|score = 6–0
+|report = [https://www.fifa.com/tournaments/archive/mensolympic/tokyo1964/matches/round=197086/match=32065/index.html Report]
+|team2 = {{#invoke:flag|fb|MAR}}
+|goals1 = [[Ferenc Bene|Bene]] {{goal|13||38|pen.|70||74||78||87}}
+|goals2 =
+|stadium = [[National Stadium (Tokyo, 1958)|National Olympic Stadium]]
+|location = [[Tokyo]], Japan
+|referee = [[Kim Duk-chun]] ([[Korea Football Association|South Korea]])
+|attendance = 65,793
+}}
+{{#invoke:Football box collapsible|main|format=1
+|round = [[1982 FIFA World Cup Group 3|1982 World Cup]]
+|date=15 June 1982
+|time=21:00 [[Central European Summer Time|CEST]]
+|team1=Hungary {{#invoke:flag|deco|HUN}}
+|score=[[Hungary v El Salvador (1982 FIFA World Cup)|10–1]]
+|report=[https://www.fifa.com/worldcup/archive/spain1982/matches/match/896 Report]
+|team2={{#invoke:flag|fb|SLV}}
+|goals1=[[Tibor Nyilasi|Nyilasi]] {{goal|4||83}}<br />[[Gábor Pölöskei|Pölöskei]] {{goal|11}}<br />[[László Fazekas|Fazekas]] {{goal|23||54}}<br />[[József Tóth (footballer born 1951)|Tóth]] {{goal|50}}<br />[[László Kiss (footballer)|L. Kiss]] {{goal|69||72||76}}<br />[[Lázár Szentes|Szentes]] {{goal|70}}
+|goals2=[[Luis Ramírez Zapata|Ramírez Zapata]] {{goal|64}}
+|stadium=[[Estadio Manuel Martínez Valero|Nuevo Estadio]]
+|location = [[Elche]], Spain
+|attendance=23,000
+|referee=[[Ibrahim Youssef Al-Doy]] ([[Bahrain Football Association|Bahrain]])
+}}
+
+==All-time team record==
+The following table shows Hungary's all-time international record, correct as of 9 June 2026.<ref>{{cite web |title=Hungary » Historical results |url=https://www.worldfootball.net/teams/te14036/hungary/ |website=World Football |access-date=20 November 2022 |archive-date=22 February 2021 |archive-url=https://web.archive.org/web/20210222021047/https://www.worldfootball.net/teams/ungarn-team/21/ |url-status=live }}</ref>
+{| class="wikitable" style="text-align: center; font-size: 100%;"
+|-
+! Against !! Played !! Won !! Drawn !! Lost !! GF !! GA !! GD
+|-
+! Total !! 1013 !! 477 !! 221 !! 315 !! 2022 !! 1486 !! +536
+|}
+
+===Head-to-head record===
+The following table shows Hungary's all-time international record. Updated 9 June 2026, after the match against [[Kazakhstan national football team|Kazakhstan]].
+
+{{legend2|#CCFFCC|Positive Record|border=1px solid #AAAAAA}}
+{{legend2|#FFFFCC|Neutral Record|border=1px solid #AAAAAA}}
+{{legend2|#FFDACC|Negative Record|border=1px solid #AAAAAA}}
+{| class="wikitable sortable collapsible collapsed" style="text-align: center; font-size: 100%;"
+|-
+! Against
+! Played
+! Won
+! Drawn
+! Lost
+! GF
+! GA
+! GD
+|- bgcolor="#CCFFCC"
+| style="text-align:left;"| {{#invoke:flag|fb|ALB}} || 8 || 5 || 1 || 2|| 19 || 2 || +17
+|- bgcolor="#CCFFCC"
+| style="text-align:left;"| {{#invoke:flag|fb|ALG}} || 1 || 1 || 0 || 0 || 3 || 1 || +2
+|- bgcolor="#CCFFCC"
+| style="text-align:left;"| {{#invoke:flag|fb|AND}} || 6 || 5 || 0 || 1 || 17 || 3 || +14
+|- bgcolor="#CCFFCC"
+| style="text-align:left;"| {{#invoke:flag|fb|ATG}} || 1 || 1 || 0 || 0 || 3 || 0 || +3
+|- bgcolor="#FFDACC"
+| style="text-align:left;"| {{#invoke:flag|fb|ARG}} || 7 || 1 || 1 || 5 || 6 || 15 || −9
+|- bgcolor="#CCFFCC"
+| style="text-align:left;"| {{#invoke:flag|fb|ARM}} || 3 || 3 || 0 || 0 || 5 || 0 || +5
+|- bgcolor="#FFDACC"
+| style="text-align:left;"| {{#invoke:flag|fb|AUS}} || 3 || 0 || 0 || 3 || 2 || 8 || −6
+|- bgcolor="#CCFFCC"
+| style="text-align:left;"| {{#invoke:flag|fb|AUT}} || [[Austria–Hungary football rivalry|137]]|| 67 || 30 || 40 || 299 || 252 || +47
+|- bgcolor="#CCFFCC"
+| style="text-align:left;"| {{#invoke:flag|fb|AZE}} || 8 || 8 || 0 || 0 || 21 || 3 || +18
+|- bgcolor="#FFDACC"
+| style="text-align:left;"| {{#invoke:flag|fb|BLR}} || 3 || 0 || 2 || 1 || 4 || 7 || −3
+|- bgcolor="#FFDACC"
+| style="text-align:left;"| {{#invoke:flag|fb|BEL}} || 13 || 2 || 2 || 9 || 16 || 31 || −15
+|- bgcolor="CCFFCC"
+| style="text-align:left;"| {{#invoke:flag|fb|Bohemia}} || 5 || 2 || 2 || 1 || 18 || 14 || +4
+|- bgcolor="#CCFFCC"
+| style="text-align:left;"| {{#invoke:flag|fb|BOL}} || 2 || 2 || 0 || 0 || 9 || 2 || +7
+|- bgcolor="#CCFFCC"
+| style="text-align:left;"| {{#invoke:flag|fb|BIH}} || 6 || 3 || 3 || 0 || 8 || 3 || +5
+|- bgcolor="#CCFFCC"
+| style="text-align:left;"| {{#invoke:flag|fb|BRA}} || 6 || 3 || 1 || 2 || 14 || 12 || +2
+|- bgcolor="#CCFFCC"
+| style="text-align:left;"| {{#invoke:flag|fb|BUL}} || 25 || 14 || 6 || 5 || 60 || 27 || +33
+|- bgcolor="#CCFFCC"
+| style="text-align:left;"| {{#invoke:flag|fb|CAN}} || 2 || 2 || 0 || 0 || 3 || 0 || +3
+|- bgcolor="#FFFFCC"
+| style="text-align:left;"| {{#invoke:flag|fb|CHI}} || 3 || 1 || 1 || 1 || 6 || 9 || −3
+|- bgcolor="#FFDACC"
+| style="text-align:left;"| {{#invoke:flag|fb|CHN}} || 1 || 0 || 0 || 1 || 1 || 2 || −1
+|- bgcolor="#CCFFCC"
+| style="text-align:left;"| {{#invoke:flag|fb|COL}} || 1 || 1 || 0 || 0 || 3 || 1 || +2
+|- bgcolor="#CCFFCC"
+| style="text-align:left;"| {{#invoke:flag|fb|CRI}} || 1 || 1 || 0 || 0 || 1 || 0 || +1
+|- bgcolor="#FFDACC"
+| style="text-align:left;"| {{#invoke:flag|fb|CRO}} || 12 || 2 || 6 || 4 || 10 || 19 || −9
+|- bgcolor="#CCFFCC"
+| style="text-align:left;"| {{#invoke:flag|fb|CYP}} || 8 || 7 || 0 || 1 || 14 || 5 || +9
+|- bgcolor="#CCFFCC"
+| style="text-align:left;"| {{#invoke:flag|fb|CZE}} || 10 || 4 || 4 || 2 || 24 || 20 || +4
+|- bgcolor="#CCFFCC"
+| style="text-align:left;"| {{#invoke:flag|fb|TCH}} || 39 || 20 || 10 || 9 || 85 || 60 || +15
+|- bgcolor="#CCFFCC"
+| style="text-align:left;"| {{#invoke:flag|fb|DEN}} || 16 || 9 || 4 || 3 || 40 || 16 || +24
+|- bgcolor="#CCFFCC"
+| style="text-align:left;"| {{#invoke:flag|fb|GDR}} || 17 || 9 || 4 || 4 || 30 || 17 || +13
+|- bgcolor="#CCFFCC"
+| style="text-align:left;"| {{#invoke:flag|fb|SLV}} || 2 || 1 || 1 || 0 || 11 || 2 || +9
+|- bgcolor="#CCFFCC"
+| style="text-align:left;"| {{#invoke:flag|fb|EGY}} || 4 || 2 || 1 || 1 || 9 || 5 || +4
+|- bgcolor="#FFDACC"
+| style="text-align:left;"| {{#invoke:flag|fb|ENG}} || 26 || 7 || 3 || 16 || 36 || 61 || −25
+|- bgcolor="#CCFFCC"
+| style="text-align:left;"| {{#invoke:flag|fb|EST}} || 7 || 5 || 1 || 1 || 17 || 5 || +12
+|- bgcolor="#CCFFCC"
+| style="text-align:left;"| {{#invoke:flag|fb|FAR}} || 4 || 3 || 1 || 0 || 4 || 1 || +3
+|- bgcolor="#CCFFCC"
+| style="text-align:left;"| {{#invoke:flag|fb|FIN}} || 19 || 13 || 3 || 3 || 49 || 13 || +36
+|- bgcolor="#CCFFCC"
+| style="text-align:left;"| {{#invoke:flag|fb|FRA}} || 23 || 12 || 3 || 8 || 48 || 32 || +16
+|- bgcolor="#FFFFCC"
+| style="text-align:left;"| {{#invoke:flag|fb|GEO}} || 2 || 1 || 0 || 1 || 5 || 4 || +1
+|- bgcolor="#CCFFCC"
+| style="text-align:left;"| {{#invoke:flag|fb|GER}} {{#tag:ref|Includes matches against West Germany and [[East Germany national football team|East Germany]]|group="note"}} || 57 || 21 || 17 || 19 || 99 || 99 || 0
+|- bgcolor="#FFDACC"
+| style="text-align:left;"| {{#invoke:flag|fb|GRE}} || 23 || 6 || 7 || 10 || 37 || 33 || +4
+|- bgcolor="#CCFFCC"
+| style="text-align:left;"| {{#invoke:flag|fb|ISL}} || 12 || 8 || 1 || 3 || 24 || 12 || +12
+|- bgcolor="#CCFFCC"
+| style="text-align:left;"| {{#invoke:flag|fb|IND}} || 1 || 1 || 0 || 0 || 2 || 1 || +1
+|- bgcolor="#CCFFCC"
+| style="text-align:left;"| {{#invoke:flag|fb|IRN}} || 4 || 4 || 0 || 0 || 11 || 1 || +10
+|- bgcolor="#FFFFCC"
+| style="text-align:left;"| {{#invoke:flag|fb|ISR}} || 6 || 2 || 2 || 2 || 6 || 5 || +1
+|- bgcolor="#FFDACC"
+| style="text-align:left;"| {{#invoke:flag|fb|ITA}} || 36 || 9 || 9 || 18 || 57 || 67 || −10
+|- bgcolor="#FFFFCC"
+| style="text-align:left;"| {{#invoke:flag|fb|CIV}} || 1 || 0 || 1 || 0 || 0 || 0 || 0
+|- bgcolor="#CCFFCC"
+| style="text-align:left;"| {{#invoke:flag|fb|JPN}} || 2 || 2 || 0 || 0 || 4 || 2 || +2
+|- bgcolor="#FFFFCC"
+| style="text-align:left;"| {{#invoke:flag|fb|JOR}} || 1 || 0 || 1 || 0 || 1 || 1 || 0
+|- bgcolor="#CCFFCC"
+| style="text-align:left;"| {{#invoke:flag|fb|KAZ}} || 3 || 2 || 0 || 1 || 8 || 4 || +4
+|- bgcolor="#CCFFCC"
+| style="text-align:left;"| {{#invoke:flag|fb|KOS}} || 1 || 1 || 0 || 0 || 2 || 0 || +2
+|- bgcolor="#CCFFCC"
+| style="text-align:left;"| {{#invoke:flag|fb|KUW}} || 1 || 1 || 0 || 0 || 1 || 0 || +1
+|- bgcolor="#CCFFCC"
+| style="text-align:left;"| {{#invoke:flag|fb|LAT}} || 7 || 6 || 0 || 1 || 16 || 7 || +9
+|- bgcolor="#CCFFCC"
+| style="text-align:left;"| {{#invoke:flag|fb|LIB}} || 1 || 1 || 0 || 0 || 4 || 1 || +3
+|- bgcolor="#CCFFCC"
+| style="text-align:left;"| {{#invoke:flag|fb|LIE}} || 3 || 2 || 1 || 0 || 10 || 0 || +10
+|- bgcolor="#CCFFCC"
+| style="text-align:left;"| {{#invoke:flag|fb|LIT}} || 7 || 5 || 2 || 0 || 18 || 4 || +14
+|- bgcolor="#CCFFCC"
+| style="text-align:left;"| {{#invoke:flag|fb|LUX}} || 12 || 10 || 1 || 1 || 50 || 14 || +36
+|- bgcolor="#CCFFCC"
+| style="text-align:left;" |{{#invoke:flag|fb|MLT}}|| 12 || 9 || 2 || 1 || 28 || 6 || +22
+|- bgcolor="#FFDACC"
+| style="text-align:left;" |{{#invoke:flag|fb|MEX}}|| 7 || 1 || 1 || 5 || 6 || 15 || −9
+|- bgcolor="#CCFFCC"
+| style="text-align:left;" |{{#invoke:flag|fb|MDA}}|| 7 || 4 || 2 || 1 || 10 || 6 || +4
+|- bgcolor="#FFDACC"
+| style="text-align:left;" |{{#invoke:flag|fb|MNE}}|| 5 || 1 || 2 || 2 || 7 || 8 || −1
+|- bgcolor="#FFDACC"
+| style="text-align:left;" |{{#invoke:flag|fb|NED}}|| 19 || 5 || 3 || 11 || 30 || 58 || −26
+|- bgcolor="#CCFFCC"
+| style="text-align:left;" |{{#invoke:flag|fb|NZL}}|| 3 || 3 || 0 || 0 || 6 || 2 || +4
+|- bgcolor="#CCFFCC"
+| style="text-align:left;"| {{#invoke:flag|fb|MKD}} || 3 || 2 || 1 || 0 || 6 || 0 || +6
+|- bgcolor="#CCFFCC"
+| style="text-align:left;"| {{#invoke:flag|fb|NIR}} || 7 || 5 || 1 || 1 || 9 || 4 || +5
+|- bgcolor="#CCFFCC"
+| style="text-align:left;"| {{#invoke:flag|fb|NOR}} || 19 || 9 || 5 || 5 || 35 || 20 || +15
+|- bgcolor="#FFDACC"
+| style="text-align:left;"| {{#invoke:flag|fb|PER}} || 2 || 0 || 0 || 2 || 3 || 5 || −2
+|- bgcolor="#CCFFCC"
+| style="text-align:left;"| {{#invoke:flag|fb|POL}} || [[Hungary–Poland football rivalry|34]]|| 21 || 5 || 8 || 92 || 43 || +49
+|- bgcolor="#FFDACC"
+| style="text-align:left;"| {{#invoke:flag|fb|POR}} || 16 || 0 || 5 || 11 || 14 || 38 || −24
+|- bgcolor="#CCFFCC"
+| style="text-align:left;"| {{#invoke:flag|fb|QAT}} || 3 || 2 || 1 || 0 || 8 || 2 || +6
+|- bgcolor="#CCFFCC"
+| style="text-align:left;"| {{#invoke:flag|fb|IRL}} || 16 || 5 || 7 || 4 || 30 || 25 || +5
+|- bgcolor="#CCFFCC"
+| style="text-align:left;"| {{#invoke:flag|fb|ROM}} || [[Hungary–Romania football rivalry|26]]|| 11 || 8 || 7 || 48 || 32 || +16
+|- bgcolor="#FFDACC"
+| style="text-align:left;"| {{#invoke:flag|fb|RUS}} {{#tag:ref|Includes matches against the [[Soviet Union national football team|Soviet Union]]|group="note"}} || 31 || 6 || 9 || 16 || 47 || 52 || −5
+|- bgcolor="#CCFFCC"
+| style="text-align:left;"| {{#invoke:flag|fb|SMR}} || 6 || 6 || 0 || 0 || 26 || 0 || +26
+|- bgcolor="#FFFFCC"
+| style="text-align:left;"| {{#invoke:flag|fb|KSA}} || 2 || 0 || 2 || 0 || 2 || 2 || 0
+|- bgcolor="#CCFFCC"
+| style="text-align:left;"| {{#invoke:flag|fb|SCO}} || 9 || 4 || 2 || 3 || 18 || 14 || +4
+|- bgcolor="#CCFFCC"
+| style="text-align:left;"| {{#invoke:flag|fb|SRB}} {{#tag:ref|Includes matches against [[Yugoslavia national football team|Yugoslavia]]|group="note"}} || 37 || 18 || 10 || 9 || 64 || 58 || +6
+|- bgcolor="#FFDACC"
+| style="text-align:left;"| {{#invoke:flag|fb|SVK}} || 6 || 0 || 2 || 4 || 2 || 7 || −5
+|- bgcolor="#FFDACC"
+| style="text-align:left;"| {{#invoke:flag|fb|SVN}} || 5 || 2 || 0 || 3 || 4 || 5 || −1
+|- bgcolor="#CCFFCC"
+| style="text-align:left;"| {{#invoke:flag|fb|KOR}} || 2 || 2 || 0 || 0 || 10 || 0 || +10
+|- bgcolor="#FFDACC"
+| style="text-align:left;"| {{#invoke:flag|fb|ESP}} || 13 || 3 || 5 || 5 || 18 || 21 || −3
+|- bgcolor="#FFFFCC"
+| style="text-align:left;"| {{#invoke:flag|fb|SWE}} || 46 || 18 || 10 || 18 || 90 || 80 || +10
+|- bgcolor="#CCFFCC"
+| style="text-align:left;"| {{#invoke:flag|fb|SUI}} || 47 || 30 || 5 || 12 || 132 || 69 || +63
+|- bgcolor="#CCFFCC"
+| style="text-align:left;"| {{#invoke:flag|fb|TUR}} || 18 || 10 || 2 || 6 || 37 || 22 || +15
+|- bgcolor="#CCFFCC"
+| style="text-align:left;"| {{#invoke:flag|fb|UKR}} || 2 || 2 || 0 || 0 || 5 || 2 || +3
+|- bgcolor="#CCFFCC"
+| style="text-align:left;"| {{#invoke:flag|fb|UAE}} || 2 || 2 || 0 || 0 || 6 || 1 || +5
+|- bgcolor="#FFFFCC"
+| style="text-align:left;"| {{#invoke:flag|fb|USA}} || 3 || 1 || 1 || 1 || 2 || 2 || 0
+|- bgcolor="#FFFFCC"
+| style="text-align:left;"| {{#invoke:flag|fb|URU}} || 4 || 1 || 2 || 1 || 7 || 6 || +1
+|- bgcolor="#FFDACC"
+| style="text-align:left;"| {{#invoke:flag|fb|WAL}} || 12 || 4 || 2 || 6 || 15 || 17 || −2
+|-
+! Total || 1013 || 477 || 221 || 315 || 2,022 || 1,486 || +536
+|}
+{{notelist}}
+
+==FIFA ranking==
+''Last updated on 19 December 2024''
+
+{| class="wikitable"
+|-
+! Key to [[FIFA World Ranking]] table
+|- style="background:#90ee90;"
+| Highest position
+|- style="background:#fd7c6e;"
+| Lowest position
+|}
+
+{{Sticky header}}
+{| class="wikitable sortable collapsible collapsed sticky-header" style="text-align: center; font-size: 100%;"
+|-
+!width=40 |Year
+!width=70 |Jan
+!width=70 |Febr.
+!width=70 |Mar.
+!width=70 |Apr.
+!width=70 |May
+!width=70 |Jun.
+!width=70 |Jul.
+!width=70 |Aug.
+!width=70 |Sep.
+!width=70 |Oct.
+!width=70 |Nov.
+!width=70 |Dec.
+|-
+|bgcolor=efefef|'''1992'''||–||–||–||–||–||–||–||–||–||–||–||36. (–)
+|-
+|bgcolor=efefef|'''1993'''||–||–||–||–||–||–||–||42. (36)||48. (34)||49. (33)||50. (34)||50. (34)
+|-
+|bgcolor=efefef|'''1994'''||50. (34)||49. (34)||52. (32)||53. (32)||49. (33)||56. (30)||55 (31.)||55 (31.)||54. (32)||52. (32)||59. (31)||61. (31)
+|-
+|bgcolor=efefef|'''1995'''||61. (31)||63. (30)||63. (30)||57. (32)||53. (35)||54. (35)||55. (35)||61. (30)||54. (32)||65. (32)||60. (33)||62. (33)
+|-
+|bgcolor=efefef|'''1996'''||64. (33)||66. (33)||66. (33)||74. (29)||82. (26)||82. (26)|| style="background:#fd7c6e;"|87. (26)||81. (29)||74. (32)||78. (32)||72. (34)||75. (34)
+|-
+|bgcolor=efefef|'''1997'''||75. (34)||76. (34)||76. (34)||72. (35)||74. (35)||71. (38)||71. (38)||72. (38)||71. (38)||68. (40)||78. (37)||77. (37)
+|-
+|bgcolor=efefef|'''1998'''||77. (37)||84. (36)||82. (36)||73. (37)||62. (41)||62. ()||56. (42)||60. (41)||59. (41)||49. (44)||45. (46)||46. (47)
+|-
+|bgcolor=efefef|'''1999'''||45. (533)[[#notes qr1|<sup>1</sup>]]||46. (531)||47. (528)||45. (540)||44. (540)||46. (532)||48. (531)||50. (530)||43. (547)||46. (538)||47. (536)||45. (533)
+|-
+|bgcolor=efefef|'''2000'''||46. (533)||50. (532)||50. (530)||53. (526)||54. (524)||53. (523)||50. (529)||53. (528)||49. (540)||53. (532)||48. (555)||47. (556)
+|-
+|bgcolor=efefef|'''2001'''||48. (556)||49. (554)||47. (560)||48. (559)||53. (551)||53. (561)||54. (559)||54. (557)||64. (540)||67. (532)||64. (540)||66. (537)
+|-
+|bgcolor=efefef|'''2002'''||67. (537)||68. (535)||68. (531)||68. (528)||68. (523)||68. (523)||67. (511)||71. (499)||64. (517)||54. (546)||58. (533)||56. (533)
+|-
+|bgcolor=efefef|'''2003'''||58. (532)||56. (538)||56. (535)||58. (534)||54. (544)||49. (570)||48. (568)||48. (564)||52. (549)||67. (525)||67. (524)||72. (517)
+|-
+|bgcolor=efefef|'''2004'''||72. (516)||74. (514)||67. (531)||72. (519)||68. (522)||74. (519)||78. (514)||77. (514)||76. (523)||68. (540)||74. (539)||64. (562)
+|-
+|bgcolor=efefef|'''2005'''||63. (562)||65. (561)||69. (556)||69. (556)||69. (552)||65. (561)||66. (559)||65. (557)||66. (557)||66. (562)||71. (551)||74. (547)
+|-
+|bgcolor=efefef|'''2006'''||70. (552)||72. (550)||72. (548)||75. (538)||76. (535)||76. (535)||84. (383)[[#notes qr2|<sup>2</sup>]]||80. (383)||59. (484)||76. (437)||67. (466)||62. (483)
+|-
+|bgcolor=efefef|'''2007'''||61. (494)||64. (474)||64. (474)||58. (518)||57. (521)||66. (461)||65. (461)||65. (464)||55. (544)||48. (630)||52. (581)||50. (588)
+|-
+|bgcolor=efefef|'''2008'''||50. (594)||52. (598)||51. (594)||56. (546)||57. (546)||52. (580)||52. (591)||50. (591)||50. (561)||62. (507)||56. (551)||47. (603)
+|-
+|bgcolor=efefef|'''2009'''||47. (606)||43. (629)||48. (596)||44. (662)||43. (662)||43. (687)||44. (681)||43. (681)||47. (669)||50. (645)||55. (603)||54. (613)
+|-
+|bgcolor=efefef|'''2010'''||52. (615)||48. (645)||52. (589) ||56. (567)||57. (565)||57. (565)||62. (534) ||62. (534) ||51. (567) ||44. (598) ||43. (615) ||42. (632)
+|-
+|bgcolor=efefef|'''2011'''||41. (632)||37. (632)||36. (654)||52. (559)||52. (559)||45. (603)||47. (603)|| 45. (613) || 27. (754)|| 36. (701) || 37. (665) || 37. (665)
+|-
+|bgcolor=efefef|'''2012'''||37. (665)|| 37. (678) || 37. (658) || 36. (692) || 35. (692) || 31. (735) || 31. (716) || 28. (746) || 37. (663) || 49. (593) || 30. (753) || 32. (750)
+|-
+|bgcolor=efefef|'''2013'''|| 32. (750) || 33. (728) || 32. (752) || 33. (749) || 33. (749) || 33. (759) || 32. (749) || 30. (746) || 30. (744) || 43. (636) || 44. (668) || 44. (668)
+|-
+|bgcolor=efefef|'''2014'''|| 46. (668) || 44. (673) || 43. (652) || 44. (623) || 45. (623) || 47. (624) || 38. (642) || 34. (656) || 54. (548) || 50. (561) || 44. (632) || 45. (632)
+|-
+|bgcolor=efefef|'''2015'''||45. (632)||48. (634)||46. (659)||43. (665)||43. (665)||42. (685) ||31. (763) ||35. (763)||37. (740)||33. (741)||33. (759) ||20. (945)
+|-
+|bgcolor=efefef|'''2016'''||20. (945)||19. (945)  ||19. (945)    ||style="background:#90ee90;"|18. (925)  ||style="background:#90ee90;"|18. (925)   ||20. (886) |||19. (915)  ||19. (915)   ||20. (913)   ||22. (891)  ||26. (826)  ||26. (826)
+|-
+|bgcolor=efefef|'''2017'''||26. (826)||27. (830)||27. (834)||31. (801) ||31. (801) ||33. (802) ||57. (616) || 56. (616) || 59. (629) ||53. (642)  ||53. (630)  ||53. (630)
+|-
+|bgcolor=efefef|'''2018'''||54. (630)||49. (630)||50. (637)||50. (604) ||49. (604) ||51. (612) ||51. (612) || 51. (1409)[[#notes qr3|<sup>3</sup>]] ||49. (1409) ||55. (1400) ||51. (1412) ||51. (1412)
+|-
+|bgcolor=efefef|'''2019'''||51. (1412)||52. (1412)||52. (1412) ||51. (1419) ||51. (1419) ||42. (1442) ||45. (1442) || 45. (1442)||50. (1429)|| 50. (1429) || 52. (1416) || 52. (1416)
+|-
+|bgcolor=efefef|'''2020'''||52. (1416) ||52. (1416) ||52. (1416) ||52. (1416) ||52. (1416) ||52. (1416) ||52. (1416) ||52. (1418) ||47. (1439) ||40. (1460) ||40. (1460) ||40. (1460)
+|-
+|bgcolor=efefef|'''2021'''||40. (1460) ||40. (1460) ||37. (1469) ||37. (1469) || 37. (1469) || 37. (1469) || 37. (1469) || 37. (1474) || 40. (1457) || 43. (1450) || 39. (1465) || 39. (1466)
+|-
+|bgcolor=efefef|'''2022'''||39. (1466) ||41. (1466) ||40. (1466) ||40. (1466) ||40. (1466) ||37. (1487) ||37. (1487) ||37. (1487) ||37. (1487) ||36. (1492) ||36. (1492) || 36. (1493)
+|-
+|bgcolor=efefef|'''2023'''||36. (1493) ||36. (1493) ||36. (1493) ||33. (1504) ||33. (1504) ||36. (1505) ||36. (1505) ||36. (1505) ||32. (1518) ||30. (1522) ||27. (1525) ||27. (1525)
+|-
+|bgcolor=efefef|'''2024'''|| 27. (1525) ||27. (1525) ||27. (1525) ||26. (1532) ||26. (1532) ||27. (1529) ||31. (1518) ||31. (1518) ||32. (1511) ||32. (1519)  ||30. (1517) ||30. (1517) 
+|-
+|bgcolor=efefef|'''2025'''||30. (1517) || || || || || || || || || || ||
+|}
+
+;Notes
+* <span id="notes_qr1"></span>Note 1: in January 1999 FIFA changed the system of the ranking calculation
+* <span id="notes_qr2"></span>Note 2: in July 2006 FIFA changed the system of the ranking calculation
+* <span id="notes_qr3"></span>Note 3: in August 2018 FIFA changed the system of the ranking calculation
+
+==Honours==
+===Global===
+* '''[[FIFA World Cup]]'''
+** {{silver2}} Runners-up (2): [[1938 FIFA World Cup|1938]], [[1954 FIFA World Cup|1954]]
+* '''[[Football at the Summer Olympics|Olympic Games]]'''
+** {{gold1}} '''Gold medal (3):''' [[Football at the 1952 Summer Olympics|1952]], [[Football at the 1964 Summer Olympics|1964]], [[Football at the 1968 Summer Olympics|1968]]
+** {{silver2}} Silver medal (1): [[Football at the 1972 Summer Olympics|1972]]
+** {{bronze3}} Bronze medal (1): [[Football at the 1960 Summer Olympics|1960]]
+
+===Continental===
+* '''[[UEFA European Championship]]'''
+** {{bronze3}} Third place (1): [[1964 European Nations' Cup|1964]]
+
+===Regional===
+* '''[[Central European International Cup]]'''
+** {{gold1}} '''Champions (1):''' [[1948–53 Central European International Cup|1948–53]]
+** {{silver2}} Runners-up (1): [[1955–60 Central European International Cup|1955–60]]
+** {{bronze3}} Third place (2): [[1931–32 Central European International Cup|1931–32]], [[1933–35 Central European International Cup|1933–35]]
+* '''[[Balkan Cup]]'''
+** {{gold1}} '''Champions (1):''' [[1947 Balkan Cup|1947]]
+
+===Summary===
+{| class="wikitable" width=30% style="font-size:90%; text-align:center;"
+|-
+!Competition!!{{gold1}}!!{{silver2}}!!{{bronze3}}!!Total
+|-
+|align=left|[[FIFA World Cup]]
+|0||2||0||2
+|-
+|align=left|[[UEFA European Championship]]
+|0||0||1||1
+|-
+|align=left|[[Football at the Summer Olympics|Olympic Games]]
+|3||1||1||5
+|-
+!Total!!3!!3!!2!!8
+|}
+
+==See also==
+{{Portal|Association football|Hungary}}
+* [[Austria–Hungary football rivalry]]
+* [[Hungary-Romania football rivalry]]
+* [[Hungary national under-21 football team|Hungary men's national under-21 football team]]
+* [[Hungary national under-19 football team|Hungary men's national under-19 football team]]
+* [[Hungary national under-17 football team|Hungary men's national under-17 football team]]
+* [[Hungary women's national football team]]
+
+==Notes==
+{{reflist|group=note}}
+
+==References==
+<references />
+
+==External links==
+{{Commons category}}
+* {{Official website|https://www.mlsz.hu/}} of the Hungarian Football Federation
+* [https://www.uefa.com/nationalassociations/hun/ Hungary] at [[UEFA]]
+* [https://www.fifa.com/about-fifa/associations/HUN Hungary] at [[FIFA]]
+* [https://www.magyarfutball.hu/en/csapat/21/belepojegyek-berletek Tickets related to the Hungary National Football Team] (En/Hun)
+* [https://www.magyarfutball.hu/en/csapat/21/cimerek Old crests of the Hungary National Football Team] (En/Hun)
+* [https://www.magyarfutball.hu/en/olimpia Every Olympic match with theHungary National Football Team] (En/Hun)
+* [https://www.rsssf.org/tablesh/hong-intres.html RSSSF archive of results 1902–]
+* [https://web.archive.org/web/20061019162341/http://www.rsssf.com/miscellaneous/hong-recintlp.html RSSSF archive of most capped players and highest goalscorers] (archived 19 October 2006)
+* [https://www.rsssf.org/miscellaneous/hong-coach.html RSSSF archive of coaches 1902–]
+* IFFHS Archive: [http://www.iffhs.de/?00e42a15ff3c09f3685ca66810f83e04e43717f7370eff3702bb1c2bbb6828fa3800f83d0e 1902–1910]
+* [https://www.planetworldcup.com/NATIONS/hun.html Hungary in World Cups/Planet World cup/]
+* [https://web.archive.org/web/20071004222414/http://www.sportmuzeum.hu/aranycsapat/merkozes.php?id=1 Aranycsapat – 'The Golden Team'] (Hun) (archived 4 October 2007)
+* [https://web.archive.org/web/20070104115939/http://www.sportmuzeum.hu/kiallitasok/szazeves_a_magyar_foci/index.html sportmuzeum] (archived 4 January 2007)
+* [https://web.archive.org/web/20080201064200/http://www.magyargolok.extra.hu/index.php?oldal=gollovolista.html Hungarian goals (Magyar Gólok)] (archived 1 February 2008)
+
+{{Hungary national football team}}
+{{#invoke:navboxes|top|titlestyle = background:#CE2939; color:white; {{box-shadow border|a|#477050|1px}};|state = collapsed}}
+{{Summer Olympics football men's tournament winners}}
+{{Hungary national football team matches}}
+{{Navboxes top
+|title= Hungary squads
+|bg=#CE2939
+|fg=white
+|bordercolor=#477050
+}}
+{{Navboxes top
+|title= Hungary FIFA World Cup squads
+|bg=#CE2939
+|fg=white
+|bordercolor=#477050
+}}
+{{Hungary squad 1934 FIFA World Cup}}
+{{Hungary squad 1938 FIFA World Cup}}
+{{Hungary squad 1954 FIFA World Cup}}
+{{Hungary squad 1958 FIFA World Cup}}
+{{Hungary squad 1962 FIFA World Cup}}
+{{Hungary squad 1966 FIFA World Cup}}
+{{Hungary squad 1978 FIFA World Cup}}
+{{Hungary squad 1982 FIFA World Cup}}
+{{Hungary squad 1986 FIFA World Cup}}
+{{#invoke:navboxes|bottom}}
+{{Navboxes top
+|title = Hungary UEFA Euro squads
+|bg=#CE2939
+|fg=white
+|bordercolor=#477050
+}}
+{{Hungary squad 1964 European Nations' Cup}}
+{{Hungary squad UEFA Euro 1972}}
+{{Hungary squad UEFA Euro 2016}}
+{{Hungary squad UEFA Euro 2020}}
+{{Hungary squad UEFA Euro 2024}}
+{{#invoke:navboxes|bottom}}
+{{#invoke:navboxes|bottom}}
+{{Navboxes top|title=Major final tournaments featuring Hungary}}
+{{1934 FIFA World Cup finalists}}
+{{1938 FIFA World Cup finalists}}
+{{1954 FIFA World Cup finalists}}
+{{1958 FIFA World Cup finalists}}
+{{1962 FIFA World Cup finalists}}
+{{1964 European Nations' Cup finalists}}
+{{1966 FIFA World Cup finalists}}
+{{UEFA Euro 1972 finalists}}
+{{1978 FIFA World Cup finalists}}
+{{1982 FIFA World Cup finalists}}
+{{1986 FIFA World Cup finalists}}
+{{UEFA Euro 2016 finalists}}
+{{UEFA Euro 2020 finalists}}
+{{UEFA Euro 2024 finalists}}
+{{Navboxes bottom}}
+{{Football in Hungary}}
+{{UEFA teams}}
+{{National sports teams of Hungary}}
+{{Football head to head}}
+{{#invoke:navboxes|bottom}}
+
+{{DEFAULTSORT:Hungary National Football Team}}
+[[Category:Hungary national football team| ]]
+[[Category:Hungary men's national football teams| ]]
+[[Category:European national association football teams]]
+[[Category:1902 establishments in Hungary]]
+[[Category:National sports teams established in 1902]]

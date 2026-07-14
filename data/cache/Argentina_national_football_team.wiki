@@ -1,0 +1,1112 @@
+{{pp|small=yes}}
+{{Short description|Men's association football team}}
+{{About|the men's team|the women's team|Argentina women's national football team}}
+{{Use British English|date=March 2026}}
+{{Use dmy dates|date=March 2026}}
+{{Infobox national football team
+| Name                     = Argentina
+| Badge                    = Argentina national football team logo.svg
+| Badge_size               = 150
+| FIFA Trigramme           = ARG
+| Nickname                 = ''La Selección''<br />(The Selection)<br />''La Albiceleste''&hairsp;<ref name=albic>[https://cnnespanol.cnn.com/2022/11/16/argentina-albiceleste-colores-orix ¿Por qué llaman a Argentina la Albiceleste? ¿Qué significan sus colores?] on CNN Español, 16 November 2022</ref> <br />(The White and Sky Blue)<ref>{{cite news |last1=Grove |first1=Daryl |title=An explanation: 2010 World Cup team nicknames |url=https://sports.yahoo.com/blogs/soccer-daryl-grove/explanation-2010-world-cup-team-nicknames--soccer.html |access-date=1 March 2022 |work=Dirty Tackle |date=19 June 2010 |archive-date=1 March 2022 |archive-url=https://web.archive.org/web/20220301185032/https://sports.yahoo.com/blogs/soccer-daryl-grove/explanation-2010-world-cup-team-nicknames--soccer.html |url-status=live}}</ref>
+<br />''La Scaloneta'' <br />(The Scaloneta)<ref>[https://www.eldestapeweb.com/mundial/como-nacio-el-apodo-de-la-scaloneta-el-equipo-de-scaloni-de-argentina-20267315034 Cómo nació el apodo de "La Scaloneta"] on eldestapeweb.com</ref><ref>[https://www.infobae.com/deportes-2/2022/12/19/de-donde-salio-el-nombre-de-la-scaloneta-y-el-rol-de-alejandro-fantino-para-que-se-hiciera-popular/ De dónde salió el nombre de “La Scaloneta”] on infobae.com. 18 Dec 2022</ref>
+| Association              = [[Argentine Football Association|Asociación del Fútbol Argentino]] (AFA)
+| Confederation            = [[CONMEBOL]] (South America)
+| Coach                    = [[Lionel Scaloni]]
+| Captain                  = [[Lionel Messi]]
+| Most caps                = Lionel Messi <!-- DO NOT LINK, already linked above --> (205)
+| Top scorer               = Lionel Messi<!-- DO NOT LINK, already linked above --> ([[List of international goals scored by Lionel Messi|125]])
+| Home Stadium             = [[#Home stadium|''Various'']]
+| FIFA Rank                = {{FIFA World Rankings|ARG}}
+| FIFA max                 = 1{{efn|{{Plainlist|
+*March 2007
+*October 2007 – June 2008
+*July 2015 – October 2015
+*April 2016 – March 2017
+*April 2023 – July 2025
+*June 2026 – present
+}}}}
+| FIFA min                 = 24
+| FIFA min date            = August 1996
+| Elo Rank                 = {{World Football Elo Ratings|Argentina}}
+| Elo max                  = 1
+| Elo max date             = [[World Football Elo Ratings|29 times between 1902 and 2016]]
+| Elo min                  = 260
+| Elo min date             = June 1990
+<!-- First Kit -->
+| pattern_la1              = _arg26h
+| pattern_b1               = _arg26h
+| pattern_ra1              = _arg26h
+| pattern_sh1              = _arg26h2
+| pattern_so1              = _arg26h2l
+| leftarm1                 = FFFFFF
+| body1                    = FFFFFF
+| rightarm1                = FFFFFF
+| shorts1                  = ffffff
+| socks1                   = ffffff
+<!-- Second Kit -->
+| pattern_la2              = _arg26A
+| pattern_b2               = _arg26A
+| pattern_ra2              = _arg26A
+| pattern_sh2              = _arg26A
+| pattern_so2              = _3_stripes_on_black
+| leftarm2                 = 
+| body2                    = 
+| rightarm2                = 
+| shorts2                  = 
+| socks2                   = 
+| First game               = {{fb|URU}} [[1902 Uruguay v Argentina football match|0–6]] {{fb-rt|ARG|1861}}<br />([[Montevideo]], Uruguay<!-- DO NOT LINK, see [[Wikipedia:Manual of Style/Linking#Geographic places]] for further guidance -->; 20 July 1902){{efn|group=upper-alpha|Attributed to multiple references:<ref name="First match">{{cite web |url=https://www.rsssf.org/tablesa/argurures.html |title=Argentina-Uruguay Matches 1902–2009 |publisher=Rec.Sport.Soccer Statistics Foundation |first=Héctor Darío |last=Pelayes |date=24 September 2010 |access-date=7 November 2010 |archive-date=5 January 2019 |archive-url=https://web.archive.org/web/20190105020111/http://www.rsssf.com/tablesa/argurures.html |url-status=live}}</ref><ref name=iffhs /><ref name=nostalgia /><ref name=barnade />}}
+| Largest win              = {{fb|ARG|1861}} 12–0 {{fb-rt|ECU|1900}}<br /> (Montevideo<!-- DO NOT LINK, already linked above -->, Uruguay<!-- DO NOT LINK, see [[Wikipedia:Manual of Style/Linking#Geographic places]] for further guidance -->; 22 January 1942)
+| Largest loss             = {{fb|TCH}} [[Disaster of Sweden|6–1]] {{fb-rt|ARG|1861}}<br />([[Helsingborg]], Sweden<!-- DO NOT LINK, see [[Wikipedia:Manual of Style/Linking#Geographic places]] for further guidance -->; 15 June 1958),<br />{{fb|COL}} [[Argentina v Colombia (1994 FIFA World Cup qualification)|5–0]] {{fb-rt|ARG|1861}}<br />([[Buenos Aires]], Argentina<!-- DO NOT LINK, see [[Wikipedia:Manual of Style/Linking#Geographic places]] for further guidance -->; 5 September 1993)<ref>{{Cite web |title=Looking back at Colombia's historic thrashing of Argentina in 1993 |url=https://thescore.com |access-date=1 July 2026 |website=theScore |language=en}}</ref> <br />{{fb|BOL}} 6–1 {{fb-rt|ARG|1861}}<br />([[La Paz]], Bolivia<!-- DO NOT LINK, see [[Wikipedia:Manual of Style/Linking#Geographic places]] for further guidance -->; 1 April 2009)<ref>{{Cite web |title=Historial entre Argentina y Bolivia |url=https://www.afa.com.ar/es/posts/historial-entre-argentina-y-bolivia-|access-date=2 February 2022 |website=Sitio Oficial de la Asociación del Fútbol Argentino |language=es-AR|archive-date=2 February 2022|archive-url=https://web.archive.org/web/20220202114526/https://www.afa.com.ar/es/posts/historial-entre-argentina-y-bolivia-|url-status=live}}</ref><br />{{fb|SPA}} 6–1 {{fb-rt|ARG}}<br />([[Madrid]], Spain<!-- DO NOT LINK, see [[Wikipedia:Manual of Style/Linking#Geographic places]] for further guidance -->; 27 March 2018)<ref>{{Cite web |title=Spain 6–1 Argentina: Isco scores hat-trick as hosts dismantle Argentina |url=https://www.skysports.com/football/news/12010/11306601/spain-6-1-argentina-isco-scores-hat-trick-as-hosts-dismantle-argentina|access-date=2 February 2022 |website=Sky Sports |language=en|archive-date=2 February 2022|archive-url=https://web.archive.org/web/20220202114511/https://www.skysports.com/football/news/12010/11306601/spain-6-1-argentina-isco-scores-hat-trick-as-hosts-dismantle-argentina|url-status=live}}</ref>
+| World cup apps           = 19
+| World cup first          = 1930&hairsp;
+| World cup best           = <small>{{gold1}}</small> '''Champions''' ([[1978 FIFA World Cup|1978]], [[1986 FIFA World Cup|1986]], [[2022 FIFA World Cup|2022]])
+| Confederations cup apps  = 3
+| Confederations cup first = [[1992 King Fahd Cup|1992]]&hairsp;
+| Confederations cup best  = <small>{{gold1}}</small> '''Champions''' ([[1992 King Fahd Cup|1992]])
+| Regional name            = [[Copa América]]
+| Regional cup apps        = 44
+| Regional cup first       = [[1916 South American Championship|1916]]&hairsp;
+| Regional cup best        = <small>{{gold1}}</small> '''Champions''' ([[1921 South American Championship|1921]], [[1925 South American Championship|1925]], [[1927 South American Championship|1927]], [[1929 South American Championship|1929]], [[1937 South American Championship|1937]], [[1941 South American Championship|1941]], [[1945 South American Championship|1945]], [[1946 South American Championship|1946]], [[1947 South American Championship|1947]], [[1955 South American Championship|1955]], [[1957 South American Championship|1957]], [[1959 South American Championship (Argentina)|1959]], [[1991 Copa América|1991]], [[1993 Copa América|1993]], [[2021 Copa América|2021]], [[2024 Copa América|2024]])
+| 2ndRegional name         = [[Panamerican Championship]]
+| 2ndRegional cup apps     = 2
+| 2ndRegional cup first    = [[1956 Panamerican Championship|1956]]&hairsp;
+| 2ndRegional cup best     = <small>{{gold1}}</small> '''Champions''' ([[1960 Panamerican Championship|1960]])
+| 3rdRegional name         = [[Finalissima|CONMEBOL–UEFA Cup of Champions]]
+| 3rdRegional cup apps     = 3
+| 3rdRegional cup first    = [[1993 Artemio Franchi Cup|1993]]&hairsp;
+| 3rdRegional cup best     = <small>{{gold1}}</small> '''Champions''' ([[1993 Artemio Franchi Cup|1993]], [[2022 Finalissima|2022]])
+| medaltemplates           =
+{{MedalCompetition|[[FIFA World Cup]]}}
+{{MedalGold|[[1978 FIFA World Cup|1978 Argentina]]|[[1978 FIFA World Cup squads|Team]]}}
+{{MedalGold|[[1986 FIFA World Cup|1986 Mexico]]|[[1986 FIFA World Cup squads|Team]]}}
+{{MedalGold|[[2022 FIFA World Cup|2022 Qatar]]|[[2022 FIFA World Cup squads|Team]]}}
+{{MedalSilver|[[1930 FIFA World Cup|1930 Uruguay]]|[[1930 FIFA World Cup squads|Team]]}}
+{{MedalSilver|[[1990 FIFA World Cup|1990 Italy]]|[[1990 FIFA World Cup squads|Team]]}}
+{{MedalSilver|[[2014 FIFA World Cup|2014 Brazil]]|[[2014 FIFA World Cup squads|Team]]}}
+{{MedalCompetition|[[Football at the Summer Olympics|Olympic Games]]{{refn|Argentina's Olympic Silver has equal value to a World Cup runner-up finish. Only the 1924 and 1928 editions are senior world titles equivalent to a World Cup.<ref name="auto1">{{Cite web |title=Official FIFA World Cup Origin document |url=http://www.fifa.com/mm/document/fifafacts/mcwc/ip-201_02e_fwc-origin_8816.pdf |website=fifa.com (archive) |archive-url=https://web.archive.org/web/20140405000621/http://www.fifa.com/mm/document/fifafacts/mcwc/ip-201_02e_fwc-origin_8816.pdf |archive-date=5 April 2014 |language=en}}</ref> After the World Cup was established, football at the Olympics became amateur players only,<ref>{{Cite web |title=Football at the 1936 Berlin Summer Games |url=https://www.sports-reference.com/olympics/summer/1936/FTB/ |website=sports-reference.com (archive) |archive-url=https://web.archive.org/web/20200417041849/https://www.sports-reference.com/olympics/summer/1936/FTB/ |archive-date=17 April 2020 |language=en}}</ref><ref>{{Cite web |title=FIFA describes each Olympic Football tournament|url=https://www.fifa.com/tournaments/archive/mensolympic/athens2004/news/newsid=92851/index.html |website=fifa.com (archive) |archive-url= https://web.archive.org/web/20140715174431/http://www.fifa.com/tournaments/archive/mensolympic/athens2004/news/newsid=92851/index.html|archive-date=15 July 2014 |language=en}}</ref> like it was prior to 1924. Since the 1992 edition, the tournament was restricted to squads with no more than 3 players over the age of 23, and these matches are not regarded as part of the senior national team's record, nor are senior national team caps awarded, it’s part of the [[Argentina national under-23 football team|Argentina U23]].|group=note}}}}
+{{MedalSilver|[[Football at the 1928 Summer Olympics|1928 Amsterdam]]|[[Football at the 1928 Summer Olympics|Team]]}}
+{{MedalCompetition|[[FIFA Confederations Cup]]}}
+{{MedalGold|[[1992 King Fahd Cup|1992 Saudi Arabia]]|[[1992 King Fahd Cup#Squads|Team]]}}
+{{MedalSilver|[[1995 King Fahd Cup|1995 Saudi Arabia]]|[[1995 King Fahd Cup#Squads|Team]]}}
+{{MedalSilver|[[2005 FIFA Confederations Cup|2005 Germany]]|[[2005 FIFA Confederations Cup#Squads|Team]]}}
+{{MedalCompetition|[[Copa América]]}}
+{{MedalGold|[[1921 South American Championship|1921 Argentina]]|[[1921 South American Championship squads|Team]]}}
+{{MedalGold|[[1925 South American Championship|1925 Argentina]]|[[1925 South American Championship squads|Team]]}}
+{{MedalGold|[[1927 South American Championship|1927 Peru]]|[[1927 South American Championship squads|Team]]}}
+{{MedalGold|[[1929 South American Championship|1929 Argentina]]|[[1929 South American Championship squads|Team]]}}
+{{MedalGold|[[1937 South American Championship|1937 Argentina]]|[[1937 South American Championship squads|Team]]}}
+{{MedalGold|[[1941 South American Championship|1941 Chile]]|[[1941 South American Championship squads|Team]]}}
+{{MedalGold|[[1945 South American Championship|1945 Chile]]|[[1945 South American Championship squads|Team]]}}
+{{MedalGold|[[1946 South American Championship|1946 Argentina]]|[[1946 South American Championship squads|Team]]}}
+{{MedalGold|[[1947 South American Championship|1947 Ecuador]]|[[1947 South American Championship squads|Team]]}}
+{{MedalGold|[[1955 South American Championship|1955 Chile]]|[[1955 South American Championship squads|Team]]}}
+{{MedalGold|[[1957 South American Championship|1957 Peru]]|[[1957 South American Championship squads|Team]]}}
+{{MedalGold|[[1959 South American Championship (Argentina)|1959 Argentina]]|[[1959 South American Championship (Argentina) squads|Team]]}}
+{{MedalGold|[[1991 Copa América|1991 Chile]]|[[1991 Copa América squads|Team]]}}
+{{MedalGold|[[1993 Copa América|1993 Ecuador]]|[[1993 Copa América squads|Team]]}}
+{{MedalGold|[[2021 Copa América|2021 Brazil]]|[[2021 Copa América squads|Team]]}}
+{{MedalGold|[[2024 Copa América|2024 United States]]|[[2024 Copa América squads|Team]]}}
+{{MedalSilver|[[1916 South American Championship|1916 Argentina]]|[[1916 South American Championship squads|Team]]}}
+{{MedalSilver|[[1917 South American Championship|1917 Uruguay]]|[[1917 South American Championship squads|Team]]}}
+{{MedalSilver|[[1920 South American Championship|1920 Chile]]|[[1920 South American Championship squads|Team]]}}
+{{MedalSilver|[[1923 South American Championship|1923 Uruguay]]|[[1923 South American Championship squads|Team]]}}
+{{MedalSilver|[[1924 South American Championship|1924 Uruguay]]|[[1924 South American Championship squads|Team]]}}
+{{MedalSilver|[[1926 South American Championship|1926 Chile]]|[[1926 South American Championship squads|Team]]}}
+{{MedalSilver|[[1935 South American Championship|1935 Peru]]|[[1935 South American Championship squads|Team]]}}
+{{MedalSilver|[[1942 South American Championship|1942 Uruguay]]|[[1942 South American Championship squads|Team]]}}
+{{MedalSilver|[[1959 South American Championship (Ecuador)|1959 Ecuador]]|[[1959 South American Championship (Ecuador) squads|Team]]}}
+{{MedalSilver|[[1967 South American Championship|1967 Uruguay]]|[[1967 South American Championship squads|Team]]}}
+{{MedalSilver|[[2004 Copa América|2004 Peru]]|[[2004 Copa América squads|Team]]}}
+{{MedalSilver|[[2007 Copa América|2007 Venezuela]]|[[2007 Copa América squads|Team]]}}
+{{MedalSilver|[[2015 Copa América|2015 Chile]]|[[2015 Copa América squads|Team]]}}
+{{MedalSilver|[[2016 Copa América|2016 United States]]|[[2016 Copa América squads|Team]]}}
+{{MedalBronze|[[1919 South American Championship|1919 Brazil]]|[[1919 South American Championship squads|Team]]}}
+{{MedalBronze|[[1956 South American Championship|1956 Uruguay]]|[[1956 South American Championship squads|Team]]}}
+{{MedalBronze|[[1963 South American Championship|1963 Bolivia]]|[[1963 South American Championship squads|Team]]}}
+{{MedalBronze|[[1989 Copa América|1989 Brazil]]|[[1989 Copa América squads|Team]]}}
+{{MedalBronze|[[2019 Copa América|2019 Brazil]]|[[2019 Copa América squads|Team]]}}
+{{MedalCompetition|[[Panamerican Championship]]}}
+{{MedalGold|[[1960 Panamerican Championship|1960 Costa Rica]]|[[1960 Panamerican Championship squads|Team]]}}
+{{MedalSilver|[[1956 Panamerican Championship|1956 Mexico]]|[[1956 Panamerican Championship squads|Team]]}}
+{{MedalCompetition|[[Finalissima|CONMEBOL–UEFA Cup of Champions]]}}
+{{MedalGold|[[1993 Artemio Franchi Cup|1993 Argentina]]|Team}}
+{{MedalGold|[[2022 Finalissima|2022 England]]|Team}}
+| website   = {{URL|https://www.afa.com.ar/es/seleccion-mayor| afa.com.ar/seleccion-mayor}}
+}}
+
+The '''Argentina national football team''',{{efn|group=upper-alpha|{{langx|es|Selección de fútbol de Argentina}}}} nicknamed '''''la Albiceleste''''',&hairsp;{{efn|group=upper-alpha|English: ''the White and Sky Blue''}} represents [[Argentina]] in men's international [[Association football|football]] and is administered by the [[Argentine Football Association]], the governing body of [[football in Argentina]]. It has been a member of [[FIFA]] since 1912 and was a founding member of [[CONMEBOL]] in 1916. It was also a member of [[Panamerican Championship#Panamerican Football Confederation|PFC]], the unified confederation of the Americas, from 1946 to 1961. Argentina is the current [[FIFA World Cup]] champion, having won the most recent World Cup in [[2022 FIFA World Cup|2022]]. The team previously won the World Cup in [[1978 FIFA World Cup final|1978]] and [[1986 FIFA World Cup final|1986]], and has appeared in six World Cup [[List of FIFA World Cup finals|finals]] including the inaugural one in [[1930 FIFA World Cup final|1930]].
+
+Argentina has won the [[Copa América]] a record 16 times, most recently in [[2024 Copa América|2024]]. With victories in [[1945 South American Championship|1945]], [[1946 South American Championship|1946]] and [[1947 South American Championship|1947]], it is the only nation to win the tournament three consecutive times. Argentina won the [[Panamerican Championship]] in [[1960 Panamerican Championship|1960]], the [[1992 King Fahd Cup|inaugural FIFA Confederations Cup]] in 1992, and the [[CONMEBOL–UEFA Cup of Champions]] in [[1993 Artemio Franchi Cup|1993]] and [[2022 Finalissima|2022]]. Argentina holds the record for most official international titles, with 23.{{efn|group=upper-alpha|Attributed to multiple references:<ref>{{Cite web |date=14 July 2024 |title=Tras la conquista de Argentina en la Copa América, así quedó la tabla histórica de títulos de las selecciones del mundo |url=https://www.infobae.com/deportes/2024/07/14/asi-esta-la-tabla-historica-de-las-selecciones-con-mas-titulos-en-el-mundo-en-la-previa-a-las-finales-de-la-copa-america-y-la-eurocopa/ |access-date=12 August 2024 |website=infobae |language=es-ES}}</ref><ref>{{Cite web |last=Ritchie |first=Calum |date=1 June 2024 |title=The 10 most successful nations in football history ranked by major trophies won |url=https://www.givemesport.com/most-successful-nations-in-football-history-by-major-trophies-won/ |access-date=12 August 2024 |website=GiveMeSport |language=en}}</ref><ref>{{Cite web |title=Top five nations with most major international football trophies |url=https://khelnow.com/football/2023-08-world-football-most-international-football-trophies |access-date=12 August 2024 |website=Khel Now |language=en-us}}</ref>}} Argentina players have won the [[FIFA World Cup awards#Golden Ball|FIFA World Cup Golden Ball]] three times: [[Diego Maradona]] in 1986, and [[Lionel Messi]] in [[2014 FIFA World Cup|2014]] and 2022. Messi has the most appearances for the team (203) and has scored the most goals (124). As of 11 June 2026,<ref>{{Cite web |title=FIFA/Coca-Cola Men's World Ranking |url=https://inside.fifa.com/origin1904-p.cxm.fifa.com/fifa-world-ranking/men |access-date=2026-06-10 |website=inside.fifa.com |language=en}}</ref> Argentina ranks first in the [[FIFA Men's World Ranking]]. Argentina is known for having rivalries [[Argentina–Brazil football rivalry|with Brazil]], [[Argentina–England football rivalry|England]], the [[Argentina–Netherlands football rivalry|Netherlands]], and [[Argentina–Uruguay football rivalry|Uruguay]].
+
+== History ==
+{{Main|History of the Argentina national football team}}
+{{Further|Football in Argentina}}
+[[1902 Uruguay v Argentina football match|The first ever match]] Argentina played was against [[Uruguay national football team|Uruguay]] on 20 June 1902, in [[Montevideo]].{{refn|There is a precedent of a match played between an Argentine representative against an Uruguayan side, on 16 May 1901, in Paso del Molino. Nevertheless, most historians discard this match as the first, stating that match was not organised by the AUF but by the [[Albion F.C.]]. In fact, the initial line-up featured nine players from Albion and two from [[Club Nacional de Football|Nacional]].<ref name=nostalgia>[http://www.futbolnostalgia.com/amsud1.htm Primer partido de Selecciones] {{Webarchive|url=https://web.archive.org/web/20160304081619/http://www.futbolnostalgia.com/amsud1.htm |date=4 March 2016 }} on Fútbol Nostalgia</ref><ref>{{cite web |url=http://www.deportesenuruguay.eluruguayo.com/Futbol-Uruguayo01.htm |title="Historia del Fútbol Uruguayo" at Deportes en Uruguay |publisher=Deportesenuruguay.eluruguayo.com |access-date=23 June 2014 |archive-date=4 October 2021 |archive-url=https://web.archive.org/web/20211004173847/http://www.deportesenuruguay.eluruguayo.com/Futbol-Uruguayo01.htm |url-status=live}}</ref><ref name=iffhs>{{cite web |url=http://www.iffhs.de/?f00b90b003e0f443e0f952bda55405fdcdc3bfcdc0aec70aeeda083c0a |title="Reasons for excluding or including full "A" internationals (1901–1910) at IFFHS |publisher=Iffhs.de |access-date=23 June 2014 |archive-date=8 May 2013 |archive-url=https://web.archive.org/web/20130508163626/http://www.iffhs.de/?f00b90b003e0f443e0f952bda55405fdcdc3bfcdc0aec70aeeda083c0a |url-status=live}}</ref>|group=note|name=albion}} It was the first international match for both sides, and Argentina won 6–0.<ref name="First match" /><ref name=barnade>[https://www.clarin.com/deportes/argentina-uruguay-clasico-partidos-internacionales-mundo_0_MRvzzcUG.html Argentina-Uruguay: el clásico con más partidos del mundo] {{Webarchive|url=https://web.archive.org/web/20210511071907/https://www.clarin.com/deportes/argentina-uruguay-clasico-partidos-internacionales-mundo_0_MRvzzcUG.html |date=11 May 2021 }} by Oscar Barnade on ''Clarín'', 18 November 2019</ref> During the first years of Argentina's existence, the team only played [[Exhibition game|friendly matches]] against other South American teams. The reasons for this varied, including long travel times between countries and the outbreak of [[World War I]].<ref>[https://web.archive.org/web/20150204014437/http://www.afa.org.ar/index.php?option=com_content&view=article&id=7857%3Aseleccion-nacional-los-comienzos&catid=181%3Aseleccion-nacional&Itemid=226 Los comienzos (1901–1930)], AFA website (Archived, 4 February 2015)</ref>
+
+Argentina has appeared in the [[List of FIFA World Cup finals|FIFA World Cup final]] six times, including the [[1930 FIFA World Cup final|first ever final]] on 30 July 1930, which they lost 4–2 to Uruguay. Argentina won their [[1978 FIFA World Cup final|next final]] on 25 June [[1978 FIFA World Cup|1978]], beating the [[Netherlands national football team|Netherlands]] 3–1. In [[1986 FIFA World Cup|1986]], [[Diego Maradona]] led Argentina to their second title with a 3–2 victory over [[Germany national football team|West Germany]]. Maradona led Argentina to the final again in [[1990 FIFA World Cup|1990]], but the team lost 1–0 to West Germany by a much-disputed penalty. With [[Lionel Messi]] as captain, Argentina reached the final in [[2014 FIFA World Cup|2014]], where they were defeated 1–0 by [[Germany national football team|Germany]] in extra time. Argentina won [[2022 FIFA World Cup|their third FIFA World Cup]] in 2022 by defeating [[France national football team|France]] in a [[Penalty shoot-out (association football)|penalty shoot-out]], after a 3–3 draw.<ref>{{Cite news |last1=Ogden |first1=Mark |date=18 December 2022 |title=All-time classic World Cup final crowns Messi's glorious career |url=https://www.espn.in/football/fifa-world-cup/story/4834108/classic-world-cup-final-crowns-messis-glorious-career |access-date=18 December 2022 |publisher=ESPN |language=en |archive-date=18 December 2022 |archive-url=https://web.archive.org/web/20221218200204/https://www.espn.in/football/fifa-world-cup/story/4834108/classic-world-cup-final-crowns-messis-glorious-career |url-status=live}}</ref> Argentina's World Cup-winning managers are [[César Luis Menotti]] (1978), [[Carlos Bilardo]] (1986) and [[Lionel Scaloni]] (2022).
+
+Argentina has won the [[Copa América]] 16 times, most recently in [[2024 Copa América|2024]]. The team also won the [[1992 King Fahd Cup|inaugural FIFA Confederations Cup]] in 1992 and the [[CONMEBOL–UEFA Cup of Champions]] in [[1993 Artemio Franchi Cup|1993]] and [[2022 Finalissima|2022]]. In March 2007, Argentina reached the top of the [[FIFA Men's World Ranking]] for the first time.<ref>{{cite news |url=https://www.fifa.com/worldfootball/ranking/news/newsid=113242.html |archive-url=https://web.archive.org/web/20070704195917/http://www.fifa.com/worldfootball/ranking/news/newsid=113242.html |url-status=dead |archive-date=4 July 2007 |title=Argentina first for first time |publisher=FIFA |date=14 March 2007 |access-date=23 June 2014}}</ref>
+
+== Stadiums ==
+
+Argentina plays most of its home matches at [[Estadio Monumental (Buenos Aires)|Estadio Monumental]], the stadium of [[Club Atlético River Plate]] in [[Buenos Aires]].<ref>[https://tntsports.com.ar/seleccion/Sorpresa-La-Seleccion-Argentina-no-jugara-en-el-Monumental-ante-Venezuela-por-las-Eliminatorias-20220304-0020.html ¿Sorpresa? La Selección Argentina no jugará en el Monumental ante Venezuela por las Eliminatorias] {{Webarchive|url=https://web.archive.org/web/20221116161849/https://tntsports.com.ar/seleccion/Sorpresa-La-Seleccion-Argentina-no-jugara-en-el-Monumental-ante-Venezuela-por-las-Eliminatorias-20220304-0020.html |date=16 November 2022 }} on TNT Sports, 4 March 2022</ref><ref>[https://www.afa.com.ar/es/posts/argentina-volvera-a-jugar-en-river La Selección Argentina volverá a jugar en River] {{Webarchive|url=https://web.archive.org/web/20220325201448/https://www.afa.com.ar/es/posts/argentina-volvera-a-jugar-en-river |date=25 March 2022 }} on AFA, 16 September 2021</ref> The team frequently uses other venues as well, including [[Estadio Único Madre de Ciudades]]<ref>[https://www.elcomercial.com.ar/12922-la-seleccion-argentina-y-messi-volveran-a-jugar-en-santiago-del-estero-por-las-eliminatorias La Selección Argentina y Messi volverán a jugar en Santiago del Estero por las Eliminatorias] {{Webarchive|url=https://web.archive.org/web/20211208222635/https://www.elcomercial.com.ar/12922-la-seleccion-argentina-y-messi-volveran-a-jugar-en-santiago-del-estero-por-las-eliminatorias |date=8 December 2021 }} 8 December 2021 on ''Diario El Comercial''</ref><ref name="tycoct20">[https://www.tycsports.com/seleccion-argentina/seleccion-argentina-santiago-del-estero-uruguay-eliminatorias-id279035.html En marzo la Selección Argentina será local en Santiago del Estero por Eliminatorias] {{Webarchive|url=https://web.archive.org/web/20220326162523/https://www.tycsports.com/seleccion-argentina/seleccion-argentina-santiago-del-estero-uruguay-eliminatorias-id279035.html |date=26 March 2022 }} on TyC Sports, 28 October 2020</ref> and [[La Bombonera]].<ref name="tycoct20" /> [[Estadio G.E.B.A.|GEBA Stadium]] was the first stadium Argentina used for home matches, including the [[Copa Newton]] match against Uruguay on 13 September 1908.<ref name="Pelayes">{{Cite web |title=ARGENTINA NATIONAL TEAM ARCHIVE |url=https://www.rsssf.org/tablesa/arg-intres.html |access-date=2026-05-07 |website=www.rsssf.org}}</ref> The 1908 match marked the official debut of Argentina's white and light blue striped jersey, which has been the team's defining uniform up to the present day.<ref name="KitArchive">{{Cite web |url=https://www.footballkitarchive.com/argentina-kits/ |title=Argentina Kit History |work=Football Kit Archive |access-date=25 December 2022 |archive-date=25 December 2022 |archive-url=https://web.archive.org/web/20221225202421/https://www.footballkitarchive.com/argentina-kits/ |url-status=live}}</ref> GEBA was also used for the [[Copa Centenario Revolución de Mayo]], which was organised by the [[Argentine Football Association]] (AFA) in 1910. It was the first competition between South American national teams, and is considered the predecessor of the [[Copa América]].<ref>{{Cite web |title=Copa Premio Honor Argentino |url=https://www.rsssf.org/tablesh/honorarg.html |access-date=2026-05-07 |website=www.rsssf.org}}</ref>
+
+[[Estadio Sportivo Barracas]] was often used by Argentina from 1920 to 1932. Playing in the stadium on 2 October 1924, Argentina forward [[Cesáreo Onzari]] scored directly from a [[corner kick]], the first reported instance of this feat in football. Because Uruguay had recently won the gold medal at the [[Football at the 1924 Summer Olympics|1924 Olympics]], this type of goal is now often referred to as an ''[[Corner kick#Scoring a goal directly from a corner: Olimpico goal|Olimpico]]'' goal.{{efn|group=upper-alpha|Attributed to multiple references:<ref name="fifa2015">{{cite web |url=https://www.fifa.com/news/y=2011/m=11/news=getting-grips-with-the-gol-olimpico-1537608.html |title=Getting to grips with the 'gol olímpico'|archive-url=https://web.archive.org/web/20150813034801/https://www.fifa.com/news/y=2011/m=11/news=getting-grips-with-the-gol-olimpico-1537608.html |archive-date=13 August 2015 |date=2 January 2015 |work=Off the ball |publisher=[[FIFA]]|access-date=16 August 2017}}</ref><ref name="Barnade">{{cite web |url=http://www.clarin.com/deportes/fundador-gol-olimpico_0_1066093752.html |title=El gol olímpico cumple 80 |last=Barnade |first=Oscar |date=October 2004 |work=[[Clarín (Argentine newspaper)|Clarín]] |language=es |access-date=17 November 2009 |archive-date=15 January 2014 |archive-url=https://web.archive.org/web/20140115134751/http://www.clarin.com/deportes/fundador-gol-olimpico_0_1066093752.html |url-status=live}}</ref><ref name="Freddi">{{cite web |last=Freddi |first=Cris |date=March 2003 |title=Gol olimpico |url=http://www.wsc.co.uk/content/view/2569/29/ |url-status=dead |archive-url=https://web.archive.org/web/20091124113814/http://www.wsc.co.uk/content/view/2569/29 |archive-date=24 November 2009 |access-date=17 November 2009 |work=[[When Saturday Comes]]}}</ref>}}
+
+== Team image ==
+
+=== Kit ===
+{{Commons|Argentina national football team kits|position=left}}
+[[File:Argentina equipo v sudafrica 1906.jpg|thumb|left|170px|The classic light blue and white-striped jersey first worn on 9 July 1906 in Buenos Aires]]
+The first kit ever worn by Argentina, in their official debut against Uruguay in 1902, included a light blue shirt.<ref>[https://viejocasale.medium.com/uruguay-0-v-argentina-6-1902-bceb77689c9c Uruguay 0 v. Argentina 6 (1902)] {{Webarchive|url=https://web.archive.org/web/20211004173541/https://viejocasale.medium.com/uruguay-0-v-argentina-6-1902-bceb77689c9c |date=4 October 2021 }} by T. Casale, 20 July 2015</ref><ref>{{cite web |url=http://www.futbolnostalgia.com/amsud1.htm |title=Uruguay 0–6 Argentina |publisher=Fútbol Nostalgia |access-date=7 November 2017 |archive-date=21 December 2022 |archive-url=https://web.archive.org/web/20221221053416/http://www.futbolnostalgia.com/amsud1.htm |url-status=live}}</ref> 
+
+On 9 July 1906, Argentina wore the lightblue and white shirt for the first time in a match v [[South Africa national soccer team|South Africa]] during their [[British football clubs tours to South America|tour of South America]]. The match was held in [[Sociedad Sportiva Argentina]].<ref>[https://www.rsssf.org/tabless/safa-satrip06.html Río de la Plata Trip of South African Football Association 1906] by Pablo Ciullini on the RSSSF</ref> Since then, the ''albiceleste'' shirt has remained as the definitive kit for Argentina.<ref name="KitArchive" /> The team's away kits have been in dark blue shades, with the colours of shorts and socks varying from time to time.<ref name="Argkit">{{Cite web |url=https://www.footballshirtculture.com/kit-design/argentina-kit-history-from-1902-to-2020.html |title=Argentina Kit History {{Endash}} from 1902 to 2020 |date=3 June 2020 |work=FootballShirtCulture |access-date=25 December 2022 |archive-date=25 December 2022 |archive-url=https://web.archive.org/web/20221225202420/https://www.footballshirtculture.com/kit-design/argentina-kit-history-from-1902-to-2020.html |url-status=live }}</ref>
+
+Argentina has also sported other kits; on 3 June 1919 in [[Rio de Janeiro]], playing against [[Brazil national football team|Brazil]], Argentina wore a light blue kit, similar to that of Uruguay, out of respect for Roberto Chery, a substitute goalkeeper for Uruguay, who had collapsed and died during a match against [[Chile national football team|Chile]] at the [[1919 South American Championship]];<ref>{{cite web |author=Federico Mauccione Pérez |url=http://gloriosomirasolfm.blogspot.com.ar/2007/10/el-3-de-junio-de-1919-la-seleccin-de.html |title=El 3 de Julio de 1919, la Selección de Brasil vistió la camiseta de Peñarol |website=GloriosoMirasol.com |date=26 February 2004 |access-date=23 June 2014 |archive-date=19 July 2014 |archive-url=https://web.archive.org/web/20140719083613/http://gloriosomirasolfm.blogspot.com.ar/2007/10/el-3-de-junio-de-1919-la-seleccin-de.html |url-status=live}}</ref><ref name=celeste>{{cite web |url=http://www.iffhs.de/?29dad5a85ad4a85b97291ad4e85fdcdc3bfcdc0aec70aeeda0a305 |title=Copa Roberto Chery, Brasil 3&nbsp;– Argentina 3 |work=[[International Federation of Football History & Statistics|IFFHS]] |access-date=7 November 2017 |archive-date=28 August 2017 |archive-url=https://web.archive.org/web/20170828144454/http://iffhs.de/?29dad5a85ad4a85b97291ad4e85fdcdc3bfcdc0aec70aeeda0a305 |url-status=live}}</ref> the match between Argentina and Brazil was organised by the [[Brazilian Football Confederation]] for the benefit of Chery's relatives. At the [[1958 FIFA World Cup|1958 World Cup]], Argentina wore the yellow jersey of Swedish club [[IFK Malmö]] against West Germany, as the team had arrived in Sweden without an away kit.
+
+[[File:Maradona vs england.jpg|thumb|left|200px|[[Diego Maradona]], wearing Argentina's custom blue kit, celebrates his "[[Goal of the Century]]" against England in 1986]]
+At the [[1986 FIFA World Cup|1986 World Cup]] in Mexico, the then-manager, [[Carlos Bilardo]], asked the team's kit supplier, [[Le Coq Sportif]], for lighter blue shirts for their quarter-final against [[England national football team|England]] in three days, but they could not be provided. Then, a member of the coaching staff scoured the shops of [[Mexico City]] for 38 plain shirts, which were transformed with an improvised version of the AFA emblem embroidered on the shirts<ref name="viejos">{{Cite web |url=https://viejosestadios.blogspot.com/2017/02/el-escudo-de-la-argentina-en-las-copas.html |title=Viejos Estadios: El escudo de la Argentina en las Copas del Mundo|access-date=4 September 2019|archive-date=13 July 2019|archive-url=https://web.archive.org/web/20190713124252/https://viejosestadios.blogspot.com/2017/02/el-escudo-de-la-argentina-en-las-copas.html|url-status=live}}</ref> and silvery [[American football]] numbers ironed to the backs.<ref name="shirts">{{cite web |title=Curious tales of World Cup shirts |url=https://www.fifa.com/worldcup/news/y=2014/m=5/news=curious-tales-of-world-cup-shirts-2340153.html|archive-url=https://web.archive.org/web/20140516190959/http://www.fifa.com/worldcup/news/y=2014/m=5/news=curious-tales-of-world-cup-shirts-2340153.html|url-status=dead|archive-date=16 May 2014 |publisher=FIFA|access-date=20 May 2014}}</ref>
+
+Sporting the makeshift jerseys, [[Argentina v England (1986 FIFA World Cup)|Argentina beat England]] on 22 June, with Diego Maradona scoring his famous "[[The hand of God|Hand of God goal]]".<ref>[https://www.bbc.com/mundo/deportes-36595420 El día que Diego Maradona hizo "el gol del siglo" y se convirtió en villano por la "mano de Dios"] {{Webarchive|url=https://web.archive.org/web/20190917140335/https://www.bbc.com/mundo/deportes-36595420 |date=17 September 2019 }} on BBC, 22 June 2016</ref><ref>[https://www.marca.com/claro-mx/futbol-internacional/argentina/2019/06/22/5d0e6bb222601d4a388b461a.html Se cumplen 33 años del 'gol del siglo'] {{Webarchive|url=https://web.archive.org/web/20190904095341/https://www.marca.com/claro-mx/futbol-internacional/argentina/2019/06/22/5d0e6bb222601d4a388b461a.html |date=4 September 2019 }}, ''Marca'' (Spain), 22 June 2019</ref> Afterwards, the shirt became a symbol of the occasion and an important collector's item.<ref>[https://www.elgrafico.com.ar/articulo/1088/4944/1986-la-historia-de-la-camiseta-azul-contra-los-ingleses La historia de la camiseta azul] {{Webarchive|url=https://web.archive.org/web/20190904094543/https://www.elgrafico.com.ar/articulo/1088/4944/1986-la-historia-de-la-camiseta-azul-contra-los-ingleses |date=4 September 2019 }} by Andrés Burgo on ''El Gráfico'', 24 April 2018</ref>
+
+At the [[2018 FIFA World Cup|2018 World Cup]] in Russia, Argentina debuted a black away kit;<ref>{{cite news |url=https://www.cbssports.com/soccer/world-cup/news/world-cup-kits-2018-ranking-the-best-and-worst-uniforms-to-be-showcased-in-russia-this-summer/ |title=World Cup kits 2018: Ranking the best and worst uniforms to be showcased in Russia this summer |last=Mello |first=Igor |date=21 June 2018 |access-date=22 June 2018 |work=CBS Sports |archive-date=22 June 2018 |archive-url=https://web.archive.org/web/20180622033143/https://www.cbssports.com/soccer/world-cup/news/world-cup-kits-2018-ranking-the-best-and-worst-uniforms-to-be-showcased-in-russia-this-summer/ |url-status=live}}</ref> and at the [[2022 FIFA World Cup|2022 World Cup]] in Qatar, they wore a purple away kit in a competitive match for the first time.<ref>{{Cite news |last1=González |first1=Fede |url=https://en.as.com/soccer/why-is-argentinas-world-cup-away-shirt-purple-n/ |title=Why is Argentina's World Cup away shirt purple? |newspaper=Diario AS |date=29 August 2022 |access-date=25 December 2022 |archive-date=25 December 2022 |archive-url=https://web.archive.org/web/20221225195410/https://en.as.com/soccer/why-is-argentinas-world-cup-away-shirt-purple-n/ |url-status=live}}</ref><ref>{{Cite news |last1=Nemer |first1=Roy |url=https://mundoalbiceleste.com/2022/11/27/argentina-to-wear-alternate-purple-kit-vs-poland-at-the-world-cup/ |title=Argentina to wear alternate purple kit vs. Poland at the World Cup |date=27 November 2022 |work=MundoAlbiceleste |access-date=25 December 2022 |archive-date=25 December 2022 |archive-url=https://web.archive.org/web/20221225195151/https://mundoalbiceleste.com/2022/11/27/argentina-to-wear-alternate-purple-kit-vs-poland-at-the-world-cup/ |url-status=live}}</ref>
+
+=== Kit suppliers ===
+{{multiple image
+| header =
+| align = 
+| direction =  
+| total_width = 280
+| perrow =  
+| image1 = Camiseta argentina adidas fifa wc26 cropped.jpg 
+| image2 = Argentina nat football team alternate kit 2026.jpg
+| footer = Argentina home and away kits for the 2026 FIFA World Cup 
+}}
+{| class="wikitable sortable" style="text-align: ;"
+|-
+! width=150px| Kit supplier
+! Period
+! Ref.
+|-
+| {{flagicon|United Kingdom}} [[N. Corah & Sons|St. Margaret]] || 1901–1924 || <ref name=todas>[https://laseleccionargentina.com/todas-las-marcas-que-vistieron-a-la-seleccion-argentina/ Todas las marcas que vistieron a la Selección Argentina] {{Webarchive|url=https://web.archive.org/web/20240315021730/https://laseleccionargentina.com/todas-las-marcas-que-vistieron-a-la-seleccion-argentina/ |date=15 March 2024 }} by Lautaro Toschi, 27 April 2023</ref>
+|-
+| {{flagicon|Argentina}} [[Gath & Chaves]] || 1925–1934 || <ref name=todas /><ref name=evoluc>[https://www.90min.com/es/posts/2629336-la-evolucion-de-la-camiseta-de-la-seleccion-argentina-a-lo-largo-de-su-historia La evolución de la camiseta de la Selección Argentina a lo largo de su historia] {{Webarchive|url=https://web.archive.org/web/20180803194442/https://www.90min.com/es/posts/2629336-la-evolucion-de-la-camiseta-de-la-seleccion-argentina-a-lo-largo-de-su-historia |date=3 August 2018 }} by Daniel Szwarc on 90min.com, 9 October 2015</ref>
+|-
+| colspan=3 align=center| {{small|''(no data for the 1935–1957 period)''}}
+|-
+| {{flagicon|Argentina}} Industria Lanús || 1958–1963 || <ref>{{Cite web |title=Camisetas legendarias del fútbol argentino {{!}} WorldCat.org |url=https://www.worldcat.org/title/1112221401 |access-date=21 December 2022 |website=www.worldcat.org |language=en |archive-date=22 December 2022 |archive-url=https://web.archive.org/web/20221222031200/https://www.worldcat.org/title/1112221401 |url-status=live }}</ref><ref name=todas />
+|-
+| {{flagicon|Argentina}} Noceto Sports || 1964–1965 ||<ref>{{Cite web |title=Noceto Sports Argentina 1963 |url=https://museoracingclub.com/index.php?option=com_content&view=article&id=1696:argentina-1963-home-berrelli-noceto-sports-friendly-vs-paraguay-f-sacchi&catid=52:seleccion-argentina |access-date=21 December 2022 |archive-date=21 December 2022 |archive-url=https://web.archive.org/web/20221221173620/https://museoracingclub.com/index.php?option=com_content&view=article&id=1696:argentina-1963-home-berrelli-noceto-sports-friendly-vs-paraguay-f-sacchi&catid=52:seleccion-argentina |url-status=live}}</ref><ref>{{Cite web |title=Noceto Sports Argentina 1964 |url=https://museoracingclub.com/index.php?option=com_content&view=article&id=1410:argentina-1964-home-noceto-sports-nations-cup-vs-england-m-chaldu&catid=52:seleccion-argentina|access-date=21 December 2022|archive-date=21 December 2022|archive-url=https://web.archive.org/web/20221221173624/https://museoracingclub.com/index.php?option=com_content&view=article&id=1410:argentina-1964-home-noceto-sports-nations-cup-vs-england-m-chaldu&catid=52:seleccion-argentina|url-status=live}}</ref><ref name=todas />
+|-
+| {{flagicon|Argentina}} Sportlandia || 1966 ||<ref name="auto">{{Cite book |last1=Palopoli |first1=Eugenio |title=Camisetas legendarias del fútbol argentino |last2=Ruggiero |first2=Sebastián |last3=Silber |first3=Diego |date=1 August 2019 |publisher=Penguin Random House Grupo Editorial Argentina |isbn=978-950-28-1319-6 |oclc=1112221401 |language=es}}</ref><ref name=todas />
+|-
+| {{flagicon|Argentina}} Industria Lanús || 1967–1973||<ref name="auto" /><ref name=todas />
+|-
+| {{flagicon|Germany}} [[Adidas]] || 1974–1979 ||<ref name=evoluc /><ref name=adid>[https://www.pasionfutbol.com/listas/Todas-las-camisetas-Adidas-de-la-Seleccion-Argentina-a-lo-largo-de-la-historia-20180130-0001.html Todas las camisetas Adidas de la Selección Argentina a lo largo de la historia] {{Webarchive|url=https://web.archive.org/web/20180803194523/https://www.pasionfutbol.com/listas/Todas-las-camisetas-Adidas-de-la-Seleccion-Argentina-a-lo-largo-de-la-historia-20180130-0001.html |date=3 August 2018 }} on Pasion Fútbol</ref>
+|-
+| {{flagicon|France}} [[Le Coq Sportif]] || 1980–1989 ||<ref name=evoluc /><ref>[https://www.lagaceta.com.ar/nota/135253/deportes/camiseta-seleccion-argentina-segun-pasan-anos.html La camiseta de las selección argentina según pasan los años] {{Webarchive|url=https://web.archive.org/web/20180803223808/https://www.lagaceta.com.ar/nota/135253/deportes/camiseta-seleccion-argentina-segun-pasan-anos.html |date=3 August 2018 }}, La Gaceta, 9 November 2005</ref>
+|-
+| {{flagicon|Germany}} Adidas || 1990–1998 ||<ref name=adid /><ref>[http://www.emol.com/noticias/deportes/2001/11/06/70562/adidas-recupera-a-la-seleccion-argentina.html Adidas recupera a la selección Argentina] {{Webarchive|url=https://web.archive.org/web/20210803093727/https://www.emol.com/noticias/deportes/2001/11/06/70562/adidas-recupera-a-la-seleccion-argentina.html |date=3 August 2021 }}, Emol Deportes, 6 November 2001</ref>
+|-
+| {{flagicon|United States}} [[Reebok]] || 1999–2001 ||<ref>[https://www.lanacion.com.ar/107637-el-peso-de-la-camiseta El peso de la camiseta] {{Webarchive|url=https://web.archive.org/web/20180803194553/https://www.lanacion.com.ar/107637-el-peso-de-la-camiseta |date=3 August 2018 }}, ''La Nación'', 21 August 1998</ref>
+|-
+| {{flagicon|Germany}} Adidas || 2002–present ||<ref name=adid />
+|}
+
+=== Crest ===
+[[File:Argentina Football Team Badge 1974 and 1978 (home).svg|thumb|right|upright=0.4|The AFA emblem that was added to playing kits in 1976]]
+Argentina has used the logo of the Argentine Football Association as its emblem since it was first worn at the [[1958 FIFA World Cup|1958 World Cup]] in Sweden; the logo was added to the team's jackets, but not the shirts.<ref name="viejos" /> The emblem was not used on jerseys until 16 November 1976, when Argentina played the [[Soviet Union national football team|Soviet Union]] at [[Estadio Monumental (Buenos Aires)|Estadio Monumental]]. At the beginning, the crest used did not include a [[laurel wreath]],<ref name="escudo">[https://www.clarin.com/sociedad/escudo-camiseta-seleccion-argentina-cumple-41-anos_0_S1aTRQc1f.html El escudo de la camiseta de la Selección argentina cumple 41 años] {{Webarchive|url=https://web.archive.org/web/20190904094539/https://www.clarin.com/sociedad/escudo-camiseta-seleccion-argentina-cumple-41-anos_0_S1aTRQc1f.html |date=4 September 2019 }} by Daniela Aguinsky, ''Clarín'', 16 November 2017</ref> which was first added for the [[1982 FIFA World Cup|1982 World Cup]].<ref name="viejos" />
+
+As a respected and common practice,<ref name="fifa-equipment-regs">{{cite web |url=https://www.fifa.com/mm/document/tournament/competition/51/54/30/equipment_reg_26032010_en.pdf |title=Equipment Regulations: Regulations Governing the Sports Equipment at FIFA Competitions |date=18 October 2003 |publisher=FIFA |pages=39 |access-date=13 July 2017 |url-status=dead |archive-url=https://web.archive.org/web/20170215101101/http://www.fifa.com/mm/document/tournament/competition/51/54/30/equipment_reg_26032010_en.pdf |archive-date=15 February 2017}}</ref> two stars were added above the crest in 2004, symbolising Argentina's World Cup titles in 1978 and 1986.<ref name="escudo" /> In 2022, a third star was added after Argentina were crowned world champions for the third time.<ref>{{Cite news |last1=Brennan |first1=Joe |url=https://en.as.com/soccer/argentina-world-cup-shirt-sold-out-worldwide-adidas-say-3-star-version-available-in-december-2022-n/ |title=Argentina World Cup shirt sold-out worldwide: Adidas say 3 star version available in December 2022 |date=21 December 2022 |newspaper=Diario AS |access-date=25 December 2022 |archive-date=25 December 2022 |archive-url=https://web.archive.org/web/20221225030357/https://en.as.com/soccer/argentina-world-cup-shirt-sold-out-worldwide-adidas-say-3-star-version-available-in-december-2022-n/ |url-status=live}}</ref>
+
+The 1976 crest has been credited to Norberto "Toto" Rud, a Buenos Aires businessman, graphic designer, football supporter, and member of the Jewish sports club Club Náutico Hacoaj. Rud submitted approximately 20 designs to the Argentine Football Association, and the selected crest debuted in a friendly against the Soviet Union on 28 November 1976.<ref>{{cite news |last=Melamed |first=Juan |title=The iconic crest worn by Messi and Argentina's soccer team was designed by a Jewish superfan 50 years ago |url=https://forward.com/fast-forward/836327/the-iconic-crest-worn-by-messi-and-argentinas-soccer-team-was-designed-by-a-jewish-superfan-50-years-ag/ |work=The Forward |agency=Jewish Telegraphic Agency |date=July 7, 2026 |access-date=July 10, 2026}}</ref>
+
+== Results and fixtures ==
+{{Main|Argentina national football team results (2020–present)}}
+
+The following is a list of match results in the last 12 months, as well as any future matches that have been scheduled.
+
+{{legend2|#CCFFCC|Win|border=1px solid #AAAAAA}}
+{{legend2|#FFFFCC|Draw|border=1px solid #AAAAAA}}
+{{legend2|#FFCCCC|Loss|border=1px solid #AAAAAA}}
+{{legend2|#FFFFFF|Fixture|border=1px solid #AAAAAA}}
+
+===2025===
+{{Football box collapsible
+|format     = 1
+|round      = [[2026 FIFA World Cup qualification (CONMEBOL)|2026 FIFA World Cup qualification]]
+|date       = 4 September
+|time       = 20:30 [[Time in Argentina|ARG]] ([[UTC−03:00|UTC−3]])
+|team1      = {{fb-rt|ARG}}
+|score      = 3–0
+|team2      = {{fb|VEN}}
+|report     = https://www.fifa.com/en/match-centre/match/520/288315/288316/400020566
+|goals1     =
+*[[Lionel Messi|Messi]] {{goal|39||80}}
+*[[Lautaro Martínez|La. Martínez]] {{goal|76}}
+|goals2     =
+|location   = [[Buenos Aires]], Argentina
+|stadium    = [[Estadio Monumental (Buenos Aires)|Estadio Monumental]]
+|attendance = 76,490
+|referee    = [[Piero Maza]] ([[Football Federation of Chile|Chile]])
+|result     = W
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[2026 FIFA World Cup qualification (CONMEBOL)|2026 FIFA World Cup qualification]]
+|date       = 9 September
+|time       = 18:00 [[Time in Ecuador|ECU]] ([[UTC−05:00|UTC−5]])
+|team1      = {{fb-rt|ECU}}
+|score      = 1–0
+|team2      = {{fb|ARG}}
+|report     = https://www.fifa.com/en/match-centre/match/520/288315/288316/400020574
+|goals1     =
+*[[Enner Valencia|Valencia]] {{goal|45+13|pen.}}
+|goals2     =
+|location   = [[Guayaquil]], Ecuador
+|stadium    = [[Estadio Monumental Isidro Romero Carbo]]
+|attendance = 
+|referee    = [[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+|result     = L
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[Exhibition game#Association football|Friendly]]
+|date       = 10 October
+|time       = 20:00 [[Eastern Time Zone|EDT]] ([[UTC−04:00|UTC−4]])
+|team1      = {{fb-rt|ARG}}
+|score      = 1–0
+|team2      = {{fb|VEN}}
+|report     = https://www.fifa.com/en/match-centre/match/cesdwwnxbc5fmajgroc0hqzy2/8pw8cm9fuczk7lmxm1oxjdyc4/1rj1740ys47h5s938mfswsh78/c5h1d42g2yu9pc6z8vobh2iac
+|goals1     = 
+*[[Giovani Lo Celso|Lo Celso]] {{goal|31}}
+|goals2     =
+|location   = [[Miami Gardens, Florida|Miami Gardens]], [[Florida]] United States
+|stadium    = [[Hard Rock Stadium]]
+|attendance = 
+|referee    = [[Tori Penso]] ([[United States Soccer Federation|United States]])
+|result     = W
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[Exhibition game#Association football|Friendly]]
+|date       = 14 October
+|time       = 18:00 [[Eastern Time Zone|EDT]] ([[UTC−04:00|UTC−4]])
+|team1      = {{fb-rt|PUR}}
+|score      = 0–6 
+|team2      = {{fb|ARG}}
+|report     = https://www.fifa.com/en/match-centre/match/cesdwwnxbc5fmajgroc0hqzy2/8pw8cm9fuczk7lmxm1oxjdyc4/1rj1740ys47h5s938mfswsh78/7s6a8dp2r0lhatwvxs5zdcg7o
+|goals1     =
+|goals2     =
+*[[Alexis Mac Allister|Mac Allister]] {{goal|14||36}}
+*[[Gonzalo Montiel|Montiel]] {{goal|23}}
+*[[Steven Echevarria|Echevarria]] {{goal|64|o.g.}}
+*[[Lautaro Martínez|La. Martínez]] {{goal|79||84}}
+|location   = [[Fort Lauderdale, Florida|Fort Lauderdale]], Florida, United States<ref>{{Cite web |url=https://fpfpuertorico.com/puerto-rico-jugara-un-partido-amistoso-historico-frente-a-su-similar-de-argentina/ |title=Puerto Rico jugará un partido amistoso histórico frente a su similar de Argentina |publisher=[[Puerto Rican Football Federation]] |date=28 August 2025  |access-date=3 September 2025 }}</ref>
+|stadium    = [[Chase Stadium]]{{efn|Match was originally set to be played at [[Soldier Field]] in [[Chicago]] but was relocated due to unrest from [[Operation Midway Blitz]].}}
+|attendance = 
+|referee    = [[Armando Villarreal]] ([[United States Soccer Federation|United States]])<ref>{{cite news |title=Quién es Armando Villarreal, el polémico árbitro que dirigirá a la Selección Argentina vs. Puerto Rico |url=https://www.tycsports.com/seleccion-argentina/quien-es-armando-villarreal-el-polemico-arbitro-que-dirigira-a-la-seleccion-argentina-vs-puerto-rico-id692193.html |access-date=14 October 2025 |work=[[TyC Sports]] |date=14 October 2025 |language=es}}</ref>
+|result     = W
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[Exhibition game#Association football|Friendly]]
+|date       = 14 November
+|time       = 17:00 [[West Africa Time|WAT]] ([[UTC+01:00|UTC+1]])
+|team1      = {{fb-rt|ANG}}
+|score      = 0–2
+|team2      = {{fb|ARG}}
+|report     = https://www.fifa.com/en/match-centre/match/cesdwwnxbc5fmajgroc0hqzy2/8pw8cm9fuczk7lmxm1oxjdyc4/1rj1740ys47h5s938mfswsh78/6f8by0l813zjguexynj42xqfo
+|goals1     =
+|goals2     =
+*[[Lautaro Martínez|La. Martínez]] {{goal|43}}
+*[[Lionel Messi|Messi]] {{goal|82}}
+|location   = [[Luanda]], Angola
+|stadium    = [[Estádio 11 de Novembro]]
+|attendance = 
+|referee    = [[Hillary Hambaba]] ([[Football Association of Zambia|Zambia]])
+|result     = W
+}}
+
+===2026===
+{{Football box collapsible
+|format     = 1
+|round      = [[Exhibition game#Association football|Friendly]]
+|date       = 27 March
+|time       = 20:15 [[Time in Argentina|ARG]] ([[UTC-03:00|UTC–3]])
+|team1      = {{fb-rt|ARG}}
+|score      = 2–1
+|team2      = {{fb|MTN}}
+|report     = https://www.fifa.com/en/match-centre/match/cesdwwnxbc5fmajgroc0hqzy2/dezv8l0fzgcxtejl0dwmy1gyc/2m1wojm5bt709wu4kugtytxqs/e8herbaitpiyc9tlwdi5q87is
+|goals1     =
+*[[Enzo Fernández|Fernández]] {{goal|17}}
+*[[Nico Paz|Paz]] {{goal|32}}
+|goals2     =
+*[[Jordan Lefort|Lefort]] {{goal|90+4}}
+|location   = [[Buenos Aires]], Argentina
+|stadium    = [[La Bombonera]]
+|attendance = 45,760
+|referee    = Derlis López ([[Paraguayan Football Association|Paraguay]])
+|result     = W
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[Exhibition game#Association football|Friendly]]
+|date       = 31 March
+|time       = 20:30 [[Time in Argentina|ARG]] ([[UTC-03:00|UTC–3]])
+|team1      = {{fb-rt|ARG}}
+|score      = 5–0
+|team2      = {{fb|ZAM}}
+|report     = https://www.fifa.com/en/match-centre/match/cesdwwnxbc5fmajgroc0hqzy2/dezv8l0fzgcxtejl0dwmy1gyc/2m1wojm5bt709wu4kugtytxqs/dzlqqzfh9qtlonov3uje4j3tg
+|goals1     =
+*[[Julián Alvarez|Alvarez]] {{goal|4}}
+*[[Lionel Messi|Messi]] {{goal|43}}
+*[[Nicolás Otamendi|Otamendi]] {{goal|50|pen.}}
+*[[Dominic Chanda|Chanda]] {{goal|68|o.g.}}
+*[[Valentin Barco|Barco]] {{goal|90+4}}
+|goals2     =
+|location   = [[Buenos Aires]], Argentina
+|stadium    = [[La Bombonera]]
+|attendance = 50,000
+|referee    = Alexis Herrera ([[Venezuelan Football Federation|Venezuela]])
+|result     = W
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[Exhibition game#Association football|Friendly]]
+|date       = 6 June
+|time       = 19:00 [[Central Time Zone|CDT]] ([[UTC−05:00|UTC−5]])
+|team1      = {{fb-rt|ARG}}
+|score      = 2–0
+|team2      = {{fb|HON}}
+|report     = https://www.fifa.com/en/match-centre/match/cesdwwnxbc5fmajgroc0hqzy2/dezv8l0fzgcxtejl0dwmy1gyc/2m1wojm5bt709wu4kugtytxqs/1vexcsp1xffrhbnmus3xv8cus
+|goals1     =
+*[[Lautaro Martínez|La. Martínez]] {{goal|37|pen.}}
+*[[Giuliano Simeone|Simeone]] {{goal|54}}
+|goals2     =
+|location   = [[College Station, Texas|College Station]], [[Texas]], United States
+|stadium    = [[Kyle Field]]
+|attendance = 91,102
+|referee    = Victor Rivas ([[United States Soccer Federation|United States]])
+|result     = W
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[Exhibition game#Association football|Friendly]]
+|date       = 9 June
+|time       = 19:30 [[Central Time Zone|CDT]] ([[UTC−05:00|UTC−5]])
+|team1      = {{fb-rt|ARG}}
+|score      = 3–0
+|team2      = {{fb|ISL}}
+|report     = https://www.fifa.com/en/match-centre/match/cesdwwnxbc5fmajgroc0hqzy2/dezv8l0fzgcxtejl0dwmy1gyc/2m1wojm5bt709wu4kugtytxqs/9bnevuo0a8mcogaie6vizqec4
+|goals1     =
+*[[Valentín Barco|Barco]] {{goal|8}}
+*[[Lionel Messi|Messi]] {{goal|72|pen.}}
+*[[Thiago Almada|Almada]] {{goal|86}}
+|goals2     =
+|location   = [[Auburn, Alabama|Auburn]], [[Alabama]], United States
+|stadium    = [[Jordan–Hare Stadium]]
+|attendance = 88,043
+|referee    = Rosendo Mendoza ([[United States Soccer Federation|United States]])
+|result     = W
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[2026 FIFA World Cup]] [[2026 FIFA World Cup Group J|Group J]]
+|date       = 16 June
+|time       = 20:00 [[Central Time Zone|CDT]] ([[UTC−05:00|UTC−5]])
+|team1      = {{fb-rt|ARG}}
+|score      = 3–0
+|team2      = {{fb|ALG}}
+|report     = https://www.fifa.com/en/match-centre/match/17/285023/289273/400021496
+|goals1     =
+*[[Lionel Messi|Messi]] {{goal|17|60|76}}
+|goals2     =
+|location   = [[Kansas City, Missouri|Kansas City]], [[Missouri]], United States
+|stadium    = [[Arrowhead Stadium]]
+|attendance = 69,045
+|referee    = [[Szymon Marciniak]] ([[Polish Football Association|Poland]])
+|result     = W
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[2026 FIFA World Cup]] [[2026 FIFA World Cup Group J|Group J]]
+|date       = 22 June
+|time       = 12:00 [[Central Time Zone|CDT]] ([[UTC−05:00|UTC−5]])
+|team1      = {{fb-rt|ARG}}
+|score      = 2–0
+|team2      = {{fb|AUT}}
+|report     = https://www.fifa.com/en/match-centre/match/17/285023/289273/400021494
+|goals1     =
+*[[Lionel Messi|Messi]] {{goal|38|90+5}}
+|goals2     =
+|location   = [[Arlington, Texas|Arlington]], Texas, United States
+|stadium    = [[AT&T Stadium]]
+|attendance = 70,649
+|referee    = [[Amin Omar]] ([[Egyptian Football Association|Egypt]])
+|result     = W
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[2026 FIFA World Cup]] [[2026 FIFA World Cup Group J|Group J]]
+|date       = 27 June
+|time       = 21:00 [[Central Time Zone|CDT]] ([[UTC−05:00|UTC−5]])
+|team1      = {{fb-rt|JOR}}
+|score      = 1–3
+|team2      = {{fb|ARG}}
+|report     = https://www.fifa.com/en/match-centre/match/17/285023/289273/400021495
+|goals1     =
+*[[Musa Al-Taamari|Al-Taamari]] {{goal|55}}
+|goals2     =
+*[[Giovani Lo Celso|Lo Celso]] {{goal|19}}
+*[[Lautaro Martínez|La. Martínez]] {{goal|31|pen.}}
+*[[Lionel Messi|Messi]] {{goal|80}}
+|location   = [[Arlington, Texas|Arlington]], Texas, United States
+|stadium    = [[AT&T Stadium]]
+|attendance = 70,649
+|referee    = [[István Kovács (referee)|István Kovács]] ([[Romanian Football Federation|Romania]])
+|result     = W
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[2026 FIFA World Cup]] [[2026 FIFA World Cup knockout stage#Argentina vs Cape Verde|Round of 32]]
+|date       = 3 July
+|time       = 18:00 [[Eastern Time Zone|EDT]] ([[UTC−04:00|UTC−4]])
+|team1      = {{fb-rt|ARG}}
+|score      = 3–2
+|aet        = yes
+|team2      = {{fb|CPV}}
+|report     = https://www.fifa.com/en/match-centre/match/17/285023/289287/400021521
+|goals1     =
+*[[Lionel Messi|Messi]] {{goal|29}}
+*[[Lisandro Martínez|Li. Martínez]] {{goal|92}}
+*[[Diney (footballer, born 1995)|Diney]] {{goal|111|o.g.}}
+|goals2=
+*[[Deroy Duarte|D. Duarte]] {{goal|59}}
+*[[Sidny Lopes Cabral|S. Cabral]] {{goal|103}}
+|location   = [[Miami Gardens, Florida|Miami Gardens]], Florida, United States
+|stadium    = [[Hard Rock Stadium]]
+|attendance = 64,478
+|referee    = [[Drew Fischer]] ([[Canadian Soccer Association|Canada]])
+|result     = w
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[2026 FIFA World Cup]] [[2026 FIFA World Cup knockout stage#Argentina vs Egypt|Round of 16]]
+|date       = 7 July
+|time       = {{UTZ|12:00|-4}}
+|team1      = {{fb-rt|ARG}}
+|score      = 3–2
+|team2      = {{fb|EGY}}
+|report     = https://www.fifa.com/en/match-centre/match/17/285023/289288/400021528
+|goals1     =
+*[[Cristian Romero|Romero]] {{goal|79}}
+*[[Lionel Messi|Messi]] {{goal|83}}
+*[[Enzo Fernández|Fernández]] {{goal|90+3}}
+|goals2     =
+*[[Yasser Ibrahim|Ibrahim]] {{goal|15}}
+*[[Mostafa Ziko|Ziko]] {{goal|67}}
+|location   = [[Atlanta]], [[Georgia (U.S. state)|Georgia]], United States
+|stadium    = [[Mercedes-Benz Stadium]]
+|attendance = 68,239
+|referee    = [[François Letexier]] ([[French Football Association|France]])
+|result     = W
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[2026 FIFA World Cup]] [[2026 FIFA World Cup knockout stage#Argentina vs Switzerland|Quarterfinal]]
+|date       = 11 July
+|time       = {{UTZ|20:00|-5}}
+|team1      = {{fb-rt|ARG}}
+|score      = 3–1
+|aet        = yes
+|team2      = {{fb|SUI}}
+|report     = https://www.fifa.com/en/match-centre/match/17/285023/289289/400021537
+|goals1     =
+*[[Alexis Mac Allister|Mac Allister]] {{goal|10}}
+*[[Julián Alvarez|Alvarez]] {{goal|112}}
+*[[Lautaro Martínez|La. Martínez]] {{goal|120+1}}
+|goals2     =
+*[[Dan Ndoye|Ndoye]] {{goal|67}}
+|location   = [[Kansas City, Missouri|Kansas City]], Missouri, United States
+|stadium    = [[Arrowhead Stadium]]
+|attendance = 69,045
+|referee    = [[João Pinheiro (referee) |João Pinheiro]] ([[Portuguese Football Federation|Portugal]])
+|result     = W
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[2026 FIFA World Cup]] [[2026 FIFA World Cup knockout stage#England vs Argentina|Semifinal]]
+|date       = 15 July
+|time       = {{UTZ|15:00|-4}}
+|team1      = {{fb-rt|ENG}}
+|score      = 
+|team2      = {{fb|ARG}}
+|report     = https://www.fifa.com/en/match-centre/match/17/285023/289290/400021540
+|goals1     =
+|goals2     =
+|location   = [[Atlanta]], [[Georgia (U.S. state)|Georgia]], United States
+|stadium    = [[Mercedes-Benz Stadium]]
+|attendance = 
+|referee    = [[Ismail Elfath]] ([[United States Soccer Federation|United States]])
+|result     = 
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[2026 FIFA World Cup]] [[2026 FIFA World Cup knockout stage#Bronze final|3rd place]] or [[2026 FIFA World Cup final|Final]]
+|date       = 18 or 19 July
+|time       = {{UTZ|17:00|-4}} or {{UTZ|15:00|-4}}
+|team1      = {{fb-rt|FRA}} or {{fb-rt|ESP}}
+|score      = 
+|team2      = {{fb|ARG}}
+|report     = 
+|goals1     =
+|goals2     =
+|location   = [[Miami Gardens, Florida|Miami Gardens]], Florida or [[East Rutherford, New Jersey|East Rutherford]], [[New Jersey]], United States
+|stadium    = [[Hard Rock Stadium]] or [[MetLife Stadium]]
+|attendance = 
+|referee    = 
+|result     = 
+}}
+
+== Coaching staff ==
+{{Main list|List of Argentina national football team managers}}
+[[File:Lionel Scaloni 2022 vs Colombia.jpg|thumb|180px|Current head coach Lionel Scaloni]]
+{| class="wikitable"
+! Position
+! Name
+|-
+| Head coach
+| {{flagicon|ARG}} [[Lionel Scaloni]]
+|-
+|rowspan="3"|Assistant coach
+|{{flagicon|ARG}} [[Pablo Aimar]]
+|-
+|{{flagicon|ARG}} [[Roberto Ayala]]
+|-
+|{{flagicon|ARG}} [[Walter Samuel]]
+|-
+| Goalkeeping coach
+| {{flagicon|ARG}} [[Martín Tocalli]]
+|-
+| Fitness coach
+| {{flagicon|ARG}} Luis Martín
+|-
+| Video analyst
+| {{flagicon|ARG}} [[Matías Manna]]
+|-
+| Team coordinator
+| {{flagicon|ARG}} [[Nicolás Russo]]
+|-
+| Academy manager
+| {{flagicon|ARG}} [[Bernardo Romeo]]
+|-
+| Base camp coordinator
+| {{flagicon|ARG}} [[Oscar Dertycia]]
+|-
+| Goalkeeping coordinator
+| {{flagicon|ARG}} [[Mauro Dobler]]
+|}
+
+== Players ==
+{{See also|List of Argentina international footballers}}
+
+=== Current squad ===
+The following 26 players were called up to the [[2026 FIFA World Cup]].<ref>{{cite web |url=https://x.com/Argentina/status/2060120562366648376 |title=#SelecciónMayor Nuestros 26 guerreros que defenderán el título mundial. ¡Vamos Argentina! 🩵🤍🩵 |publisher=[[Argentine Football Association]] |via=[[X (Twitter)|X]] |date=28 May 2026 |access-date=28 May 2026}}</ref> [[Leonardo Balerdi]] withdrew due to a calf injury on 6 June; he was replaced by [[Marcos Senesi]].<ref>{{cite web |url=https://www.reuters.com/sports/soccer/argentinas-balerdi-out-world-cup-with-injury-2026-06-06/ |title=Argentina's Balerdi out of World Cup with calf injury |publisher=Reuters |date=6 June 2026 }}</ref>
+<br>''Caps and goals are correct as of 11 July 2026, after the match against [[Switzerland national football team|Switzerland]].''
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Juan Musso]]|age={{birth date and age|df=y|1994|5|6}}|caps=4|goals=0|club=[[Atlético Madrid]]|clubnat=ESP}}
+{{nat fs g player|no=12|pos=GK|name=[[Gerónimo Rulli]]|age={{birth date and age|df=y|1992|5|20}}|caps=8|goals=0|club=[[Olympique de Marseille|Marseille]]|clubnat=FRA}}
+{{nat fs g player|no=23|pos=GK|name=[[Emiliano Martínez]]|age= {{birth date and age|df=y|1992|9|2}}|caps=65|goals=0|club=[[Aston Villa F.C.|Aston Villa]]|clubnat=ENG}}
+{{nat fs break}}
+{{nat fs g player|no=2|pos=DF|name=[[Marcos Senesi]]|age={{birth date and age|df=y|1997|5|10}}|caps=4|goals=0|club=[[Tottenham Hotspur F.C.|Tottenham Hotspur]]|clubnat=ENG}}
+{{nat fs g player|no=3|pos=DF|name=[[Nicolás Tagliafico]]|age={{birth date and age|df=y|1992|8|31}}|caps=81|goals=1|club=[[Olympique Lyonnais|Lyon]]|clubnat=FRA}}
+{{nat fs g player|no=4|pos=DF|name=[[Gonzalo Montiel]]|age={{birth date and age|df=y|1997|1|1}}|caps=43|goals=2|club=[[Club Atlético River Plate|River Plate]]|clubnat=ARG}}
+{{nat fs g player|no=6|pos=DF|name=[[Lisandro Martínez]]|age={{birth date and age|df=y|1998|1|18}}|caps=33|goals=2|club=[[Manchester United F.C.|Manchester United]]|clubnat=ENG}}
+{{nat fs g player|no=8|pos=DF|name=[[Valentín Barco]]|age={{birth date and age|df=y|2004|7|23}}|caps=5|goals=2|club=[[RC Strasbourg Alsace|Strasbourg]]|clubnat=FRA}}
+{{nat fs g player|no=13|pos=DF|name=[[Cristian Romero]]|age={{birth date and age|df=y|1998|4|27}}|caps=56|goals=4|club=[[Tottenham Hotspur F.C.|Tottenham Hotspur]]|clubnat=ENG}}
+{{nat fs g player|no=19|pos=DF|name=[[Nicolás Otamendi]]|age={{birth date and age|df=y|1988|2|12}}|caps=137|goals=8|club=[[Club Atlético River Plate|River Plate]]|clubnat=ARG}}
+{{nat fs g player|no=25|pos=DF|name=[[Facundo Medina]]|age={{birth date and age|df=y|1999|5|28}}|caps=13|goals=0|club=[[Olympique de Marseille|Marseille]]|clubnat=FRA}}
+{{nat fs g player|no=26|pos=DF|name=[[Nahuel Molina]]|age={{birth date and age|df=y|1998|4|6}}|caps=63|goals=1|club=[[Atlético Madrid]]|clubnat=ESP}}
+{{nat fs break}}
+{{nat fs g player|no=5|pos=MF|name=[[Leandro Paredes]]|age={{birth date and age|df=y|1994|6|29}}|caps=82|goals=5|club=[[Boca Juniors]]|clubnat=ARG}}
+{{nat fs g player|no=7|pos=MF|name=[[Rodrigo De Paul]]|age={{birth date and age|df=y|1994|5|24}}|caps=92|goals=2|club=[[Inter Miami CF|Inter Miami]]|clubnat=USA}}
+{{nat fs g player|no=11|pos=MF|name=[[Giovani Lo Celso]]|age={{birth date and age|df=y|1996|4|9}}|caps=68|goals=5|club=[[Real Betis|Betis]]|clubnat=ESP}}
+{{nat fs g player|no=14|pos=MF|name=[[Exequiel Palacios]]|age={{birth date and age|df=y|1998|10|5}}|caps=41|goals=0|club=[[Bayer 04 Leverkusen|Bayer Leverkusen]]|clubnat=GER}}
+{{nat fs g player|no=16|pos=MF|name=[[Thiago Almada]]|age={{birth date and age|df=y|2001|4|26}}|caps=21|goals=5|club=[[Atlético Madrid]]|clubnat=ESP}}
+{{nat fs g player|no=18|pos=MF|name=[[Nico Paz]]|age={{birth date and age|df=y|2004|9|8}}|caps=11|goals=1|club=[[Como 1907|Como]]|clubnat=ITA}}
+{{nat fs g player|no=20|pos=MF|name=[[Alexis Mac Allister]]|age={{birth date and age|df=y|1998|12|24}}|caps=52|goals=7|club=[[Liverpool F.C.|Liverpool]]|clubnat=ENG}}
+{{nat fs g player|no=24|pos=MF|name=[[Enzo Fernández]]|age={{birth date and age|df=y|2001|1|17}}|caps=47|goals=7|club=[[Chelsea F.C.|Chelsea]]|clubnat=ENG}}
+{{nat fs break}}
+{{nat fs g player|no=9|pos=FW|name=[[Julián Alvarez]]|age={{birth date and age|df=y|2000|1|31}}|caps=57|goals=15|club=[[Atlético Madrid]]|clubnat=ESP}}
+{{nat fs g player|no=10|pos=FW|name=[[Lionel Messi]]|other=[[Captain (association football)|Captain]]|age={{birth date and age|df=y|1987|6|24}}|caps=205|goals=[[List of international goals scored by Lionel Messi|125]]|club= [[Inter Miami CF|Inter Miami]]|clubnat=USA}}
+{{nat fs g player|no=15|pos=FW|name=[[Nicolás González (footballer, born 1998)|Nicolás González]]|age={{birth date and age|df=y|1998|4|6}}|caps=56|goals=6|club=[[Atlético Madrid]]|clubnat=ESP}}
+{{nat fs g player|no=17|pos=FW|name=[[Giuliano Simeone]]|age={{birth date and age|df=y|2002|12|18}}|caps=14|goals=2|club=[[Atlético Madrid]]|clubnat=ESP}}
+{{nat fs g player|no=21|pos=FW|name=[[José Manuel López (footballer)|José Manuel López]]|age={{birth date and age|df=y|2000|12|6}}|caps=7|goals=0|club=[[SE Palmeiras|Palmeiras]]|clubnat=BRA}}
+{{nat fs g player|no=22|pos=FW|name=[[Lautaro Martínez]]|age={{birth date and age|df=y|1997|8|22}}|caps=83|goals=39|club=[[Inter Milan|Internazionale]]|clubnat=ITA}}
+{{nat fs end}}
+
+===Recent call-ups===
+The following players have also been called up for the team in the last twelve months.
+<!--Sorted by position, most recent call-up, caps, goals and last name.-->
+{{nat fs r start}}
+{{nat fs r player|no=|pos=GK|name=[[Santiago Beltrán]]|age={{birth date and age|df=y|2004|10|4}}|caps=1|goals=0|club=[[Club Atlético River Plate|River Plate]]|clubnat=ARG|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>; v. {{fb|ISL}}, 9 June 2026}}
+{{nat fs r player|no=|pos=GK|name=[[Walter Benítez (footballer)|Walter Benítez]]|age={{birth date and age|df=y|1993|1|19}}|caps=1|goals=0|club=[[Crystal Palace F.C.|Crystal Palace]]|clubnat=ENG|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=GK|name=[[Facundo Cambeses]]|age={{birth date and age|df=y|1997|4|9}}|caps=1|goals=0|club=[[Racing Club de Avellaneda|Racing]]|clubnat=ARG|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=DF|name=[[Leonardo Balerdi]]|age={{birth date and age|df=y|1999|1|26}}|caps=11|goals=0|club=[[Olympique de Marseille|Marseille]]|clubnat=FRA|latest=[[2026 FIFA World Cup]] <sup>INJ</sup>}}
+{{nat fs r player|no=|pos=DF|name=[[Agustín Giay]]|age={{birth date and age|df=y|2004|1|16}}|caps=3|goals=0|club=[[SE Palmeiras|Palmeiras]]|clubnat=BRA|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>; v. {{fb|ISL}}, 9 June 2026}}
+{{nat fs r player|no=|pos=DF|name=[[Nicolás Capaldo]]|age={{birth date and age|df=y|1998|9|14}}|caps=1|goals=0|club=[[Hamburger SV]]|clubnat=GER|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>; v. {{fb|ISL}}, 9 June 2026}}
+{{nat fs r player|no=|pos=DF|name=[[Simón Escobar]]|age={{birth date and age|df=y|2009|7|17}}|caps=0|goals=0|club=[[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]|clubnat=ARG|latest= v. {{fb|ISL}}, 9 June 2026}}
+{{nat fs r player|no=|pos=DF|name=[[Ignacio Ovando]]|age={{birth date and age|df=y|2007|6|29}}|caps=0|goals=0|club=[[Rosario Central]]|clubnat=ARG|latest= v. {{fb|ISL}}, 9 June 2026}}
+{{nat fs r player|no=|pos=DF|name=[[Marcos Acuña]]|age={{birth date and age|df=y|1991|10|28}}|caps=62|goals=0|club=[[Club Atlético River Plate|River Plate]]|clubnat=ARG|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=DF|name=[[Germán Pezzella]]|age={{birth date and age|df=y|1991|6|27}}|caps=42|goals=3|club=[[Club Atlético River Plate|River Plate]]|clubnat=ARG|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=DF|name=[[Lucas Martínez Quarta]]|age={{birth date and age|df=y|1996|5|10}}|caps=16|goals=0|club=[[Club Atlético River Plate|River Plate]]|clubnat=ARG|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=DF|name=[[Kevin Mac Allister]]|age={{birth date and age|df=y|1997|11|7}}|caps=1|goals=0|club=[[Royale Union Saint-Gilloise|Union Saint-Gilloise]]|clubnat=BEL|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=DF|name=[[Gabriel Rojas (footballer, born 1997)|Gabriel Rojas]]|age={{birth date and age|df=y|1997|6|22}}|caps=1|goals=0|club=[[Racing Club de Avellaneda|Racing]]|clubnat=ARG|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=DF|name=[[Lautaro Di Lollo]]|age={{birth date and age|df=y|2004|3|10}}|caps=0|goals=0|club=[[Boca Juniors]]|clubnat=ARG|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=DF|name=[[Zaid Romero]]|age={{birth date and age|df=y|1999|12|15}}|caps=0|goals=0|club=[[Getafe CF|Getafe]]|clubnat=ESP|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=DF|name=[[Tomás Palacios (footballer)|Tomás Palacios]]|age= {{birth date and age|df=y|2003|4|28}}|caps=0|goals=0|club=[[Estudiantes de la Plata|Estudiantes]]|clubnat=ARG|latest=v. {{fb|ZAM}}, 31 March 2026}}
+{{nat fs r player|no=|pos=DF|name=[[Juan Foyth]]|age={{birth date and age|df=y|1998|1|12}}|caps=22|goals=0|club=[[Villarreal CF|Villarreal]]|clubnat=ESP|latest=v. {{fb|ANG}}, 14 November 2025}}
+{{nat fs r player|no=|pos=DF|name=[[Lautaro Rivero]]|age={{birth date and age|df=y|2003|11|1}}|caps=1|goals=0|club=[[Club Atlético River Plate|River Plate]]|clubnat=ARG|latest=v. {{fb|PUR}}, 14 October 2025}}
+{{nat fs r player|no=|pos=DF|name=[[Julio Soler]]|age={{birth date and age|df=y|2005|02|16}}|caps=0|goals=0|club=[[AFC Bournemouth|Bournemouth]]|clubnat=ENG|latest=v. {{fb|ECU}}, 9 September 2025}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=MF|name=[[Guido Rodríguez]]|age={{birth date and age|df=y|1994|4|12}}|caps=30|goals=1|club=[[Valencia CF|Valencia]]|clubnat=ESP|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=MF|name=[[Nicolás Domínguez]]|age={{birth date and age|df=y|1998|6|28}}|caps=11|goals=1|club=[[Nottingham Forest F.C.|Nottingham Forest]]|clubnat=ENG|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=MF|name=[[Emiliano Buendía]]|age={{birth date and age|df=y|1996|12|25}}|caps=2|goals=0|club=[[Aston Villa F.C.|Aston Villa]]|clubnat=ENG|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=MF|name=[[Máximo Perrone]]|age={{birth date and age|df=y|2003|1|7}}|caps=2|goals=0|club=[[Como 1907|Como]]|clubnat=ITA|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=MF|name=[[Aníbal Moreno]]|age={{birth date and age|df=y|1999|5|13}}|caps=1|goals=0|club=[[Club Atlético River Plate|River Plate]]|clubnat=ARG|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=MF|name=[[Milton Delgado]]|age={{birth date and age|df=y|2005|6|16}}|caps=0|goals=0|club=[[Boca Juniors]]|clubnat=ARG|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=MF|name=[[Equi Fernández]]|age={{birth date and age|df=y|2002|7|25}}|caps=0|goals=0|club=[[Bayer 04 Leverkusen|Bayer Leverkusen]]|clubnat=GER|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=MF|name=[[Alan Varela]]|age={{birth date and age|df=y|2001|7|4}}|caps=0|goals=0|club=[[FC Porto|Porto]]|clubnat=POR|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=FW|name=[[Joaquín Freitas]]|age={{birth date and age|df=y|2006|12|2}}|caps=1|goals=0|club=[[Club Atlético River Plate|River Plate]]|clubnat=ARG|latest=v. {{fb|ISL}}, 9 June 2026}}
+{{nat fs r player|no=|pos=FW|name=[[Tomás Aranda]]|age={{birth date and age|df=y|2007|5|9}}|caps=1|goals=0|club=[[Boca Juniors]]|clubnat=ARG|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>; v. {{fb|ISL}}, 9 June 2026}}
+{{nat fs r player|no=|pos=FW|name=[[Alejandro Garnacho]]|age={{birth date and age|df=y|2004|7|1}}|caps=8|goals=0|club=[[Chelsea F.C.|Chelsea]]|clubnat=ENG|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{Nat fs r player|no=|pos=FW|name=[[Franco Mastantuono]]|age={{birth date and age|df=y|2007|8|14}}|caps=4|goals=0|club=[[Real Madrid]]|clubnat=ESP|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=FW|name=[[Gianluca Prestianni]]|age={{birth date and age|df=y|2006|1|31}}|caps=1|goals=0|club=[[S.L. Benfica|Benfica]]|clubnat=POR|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=FW|name=[[Santiago Castro (footballer, born 2004)|Santiago Castro]]|age={{birth date and age|df=y|2004|9|18}}|caps=0|goals=0|club=[[Bologna FC 1909|Bologna]]|clubnat=ITA|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=FW|name=[[Claudio Echeverri]]|age={{birth date and age|df=y|2006|1|2}}|caps=0|goals=0|club=[[Girona FC|Girona]]|clubnat=ESP|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=FW|name=[[Mateo Pellegrino]]|age={{birth date and age|df=y|2001|10|22}}|caps=0|goals=0|club=[[Parma Calcio 1913|Parma]]|clubnat=ITA|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=FW|name=[[Matías Soulé]]|age={{birth date and age|df=y|2003|4|15}}|caps=0|goals=0|club=[[AS Roma|Roma]]|clubnat=ITA|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=FW|name=[[Joaquín Panichelli]]|age={{birth date and age|df=y|2002|10|7}}|caps=1|goals=0|club=[[RC Strasbourg Alsace|Strasbourg]]|clubnat=FRA|latest=v. {{fb|MTN}}, 27 March 2026 <sup>INJ</sup>}}
+{{nat fs r player|no=|pos=FW|name=[[Valentín Carboni]]|age={{birth date and age|df=y|2005|3|5}}|caps=3|goals=0|club=[[Racing Club de Avellaneda|Racing]]|clubnat=ARG|latest=v. {{fb|ECU}}, 9 September 2025}}
+{{nat fs r player|no=|pos=FW|name=[[Ángel Correa]]|age={{birth date and age|df=y|1995|3|9}}|caps=28|goals=3|club=[[Tigres UANL|UANL]]|clubnat=MEX|latest=v. {{fb|VEN}}, 4 September 2025 <sup>PRE</sup>}}
+{{nat fs break}}
+;Notes
+*<sup>INJ</sup> = Withdrew due to injury.
+*<sup>PRE</sup> = Preliminary squad.
+*<sup>SUS</sup> = Suspended.
+<!-- *<sup>COV</sup> = Withdrew from the squad due to quarantine or infection by [[COVID-19 pandemic|COVID-19]].
+*<sup>U23</sup> = Selected at the [[Argentina national under-23 football team|Argentina national under-23 team]]. -->
+*<sup>RET</sup> = Retired from the national team.
+*<sup>WD</sup> = Player withdrew from the squad due to non-injury issue.
+{{nat fs end}}
+
+== Individual records and achievements ==
+{{Main|Argentina national football team records and statistics}}
+
+{{updated|11 July 2026}}<ref name=Argentina-Appearances>{{cite web |url=https://www.rsssf.org/miscellaneous/arg-recintlp.html |title=Appearances for Argentina National Team |publisher=Rec.Sport.Soccer Statistics Foundation |first1=Roberto |last1=Mamrud |date=12 May 2022 |access-date=3 June 2022 |archive-date=13 January 2010 |archive-url=https://web.archive.org/web/20100113172740/http://rsssf.com/miscellaneous/arg-recintlp.html |url-status=live}}</ref>
+:''Players in '''bold''' are still active with Argentina.''
+
+=== Most appearances ===
+{{#section-h:Argentina national football team records and statistics|Most-capped players}}
+
+=== Top goalscorers ===
+{{#section-h:Argentina national football team records and statistics|Top goalscorers}}
+
+=== World Cup-winning captains ===
+{| class="wikitable"
+|-
+! Year
+! Player
+! Caps
+! Goals
+|-
+| [[1978 FIFA World Cup|1978]]
+| [[Daniel Passarella]]
+| style="text-align:center;" | 70
+| style="text-align:center;" | 22
+|-
+| [[1986 FIFA World Cup|1986]]
+| [[Diego Maradona]]
+| style="text-align:center;" | 91
+| style="text-align:center;" | 34
+|-
+| [[2022 FIFA World Cup|2022]]
+| '''[[Lionel Messi]]'''
+| style="text-align:center;" | 205
+| style="text-align:center;" | 125
+|}
+
+== Competitive record ==
+{{#section-h:Argentina national football team records and statistics|Competitive record}}
+
+== Head-to-head record ==
+{{#section-h:Argentina national football team records and statistics|Head-to-head record}}
+
+== Rivalries ==
+
+=== Brazil ===
+{{Main|Argentina–Brazil football rivalry}}
+
+Argentina and Brazil have a fierce rivalry which is one of the oldest in South America.<ref>{{Cite web |last=Tilghan |first=John |date=27 August 2009 |title=Argentina-Brazil: South America's Biggest Rivalry |url=https://bleacherreport.com/articles/243090-south-americas-biggest-rivalry-argentina-vs-brazil|url-status=live|access-date=22 December 2021 |website=Bleacherreport|archive-url=https://web.archive.org/web/20090828043635/http://bleacherreport.com:80/articles/243090-south-americas-biggest-rivalry-argentina-vs-brazil |archive-date=28 August 2009}}</ref><ref>{{Cite web |last=Tilghan |first=John |date=27 August 2009 |title=Argentina-Brazil: South America's Biggest Rivalry |url=https://bleacherreport.com/articles/243090-south-americas-biggest-rivalry-argentina-vs-brazil |url-status=live |archive-url=https://web.archive.org/web/20090828043635/http://bleacherreport.com:80/articles/243090-south-americas-biggest-rivalry-argentina-vs-brazil |archive-date=28 August 2009 |access-date=22 December 2021 |website=Bleacherreport}}</ref><ref>{{Cite web|url=http://edition.cnn.com/2008/SPORT/football/11/06/first11.rivalries/index.html|title=Top 10 international rivalries |first= Greg |last=Duke|website=CNN|language=en|access-date=21 August 2018}}</ref> Matches between the two teams, even those that are only [[friendly match]]es, are often marked by notable and controversial incidents. The rivalry has also been referred to as the "Superclassic of the Americas." [[FIFA]] has described it as the "essence of football rivalry".<ref>{{cite news |url=https://www.fifa.com/worldcup/news/y=2014/m=6/news=argentina-in-brazil-the-essence-of-football-rivalry-2355354.html|archive-url=https://web.archive.org/web/20140607002121/http://www.fifa.com/worldcup/news/y=2014/m=6/news=argentina-in-brazil-the-essence-of-football-rivalry-2355354.html|url-status=dead|archive-date=7 June 2014 |work=fifa.com |publisher=Fédération Internationale de Football Association |title=Argentina in Brazil – The essence of football rivalry |date=6 June 2014|access-date=9 October 2015}}</ref>
+
+The rivalry has extended to comparisons between [[Pelé]] and [[Diego Maradona]].<ref name=pag12fifa>[https://www.pagina12.com.ar/2000/00-12/00-12-12/pag23.htm Diego y Pelé, los mejores de siempre] {{Webarchive|url=https://web.archive.org/web/20221222200943/https://www.pagina12.com.ar/2000/00-12/00-12-12/pag23.htm |date=22 December 2022 }} on ''Página/12'', 2000</ref><ref name=peleormarad>[https://cnnespanol.cnn.com/2022/09/24/pele-maradona-goles-titulos-mundiales-competiciones-orix/ ¿Pelé o Maradona? ¿Quién logró más goles y títulos en mundiales y competiciones internacionales?] {{Webarchive|url=https://web.archive.org/web/20221222200547/https://cnnespanol.cnn.com/2022/09/24/pele-maradona-goles-titulos-mundiales-competiciones-orix/ |date=22 December 2022 }} at CNN, 24 September 2022</ref> Some of their countrymen also feature regularly in such debates. The next most notable pair are perhaps [[Garrincha]] (Brazil)<ref>[https://www.kodromagazine.com/garrincha-pele-verdad-incomoda La Relación de Garrincha y Pelé, Una Verdad Incómoda] {{Webarchive|url=https://web.archive.org/web/20221222200557/https://www.kodromagazine.com/garrincha-pele-verdad-incomoda |date=22 December 2022 }} on Kodro Magazine</ref> and [[Alfredo Di Stéfano]] (Argentina).<ref>[https://www.elgrafico.com.ar/articulo/1105/35264/1988-di-stefano---maradona-dos-grandes-frente-a-frente 1988: Di Stéfano – Maradona, Dos Grandes Frente a Frete] {{Webarchive|url=https://web.archive.org/web/20221222200548/https://www.elgrafico.com.ar/articulo/1105/35264/1988-di-stefano---maradona-dos-grandes-frente-a-frente |date=22 December 2022 }} at ''El Gráfico'', 25 November 2020</ref> The most dominant figures from the two countries in the modern game are [[Neymar]] (Brazil) and [[Lionel Messi]] (Argentina). Both Pelé and Maradona have declared Neymar and Messi their respective "successors".<ref>[https://www.sport.es/es/noticias/futbol-internacional/neymar-sucesor-avalado-pele-710419 Neymar, el sucesor avalado por Pelé] {{Webarchive|url=https://web.archive.org/web/20221222200553/https://www.sport.es/es/noticias/futbol-internacional/neymar-sucesor-avalado-pele-710419 |date=22 December 2022 }} on Sport.es by Joaquim Piera, 31 March 2009</ref><ref>[https://www.sport.es/es/noticias/barca/maradona-messi-sucesor-5546450 Maradona: "Messi es mi sucesor"] {{Webarchive|url=https://web.archive.org/web/20221222200548/https://www.sport.es/es/noticias/barca/maradona-messi-sucesor-5546450 |date=22 December 2022 }}, 20 April 2007</ref>
+
+=== England ===
+{{Main|Argentina–England football rivalry}}
+
+With a rivalry stemming from the [[1966 FIFA World Cup|1966 World Cup]] and intensified by the [[Falklands War]] of 1982, Argentina and [[England national football team|England]] have had numerous confrontations in World Cup tournaments. Among them was the [[Argentina v England (1986 FIFA World Cup)|quarter-final match]] in [[1986 FIFA World Cup|1986]], where Diego Maradona scored two goals against England. The first was [[The hand of God|a handball]], but was ruled legal by the referee. The second, scored minutes later, saw Maradona passing five England outfield players before scoring, and is often described as one of, if not the greatest goal in football history.<ref>{{Cite news |last=Classic |first=Guardian |date=2011-06-22 |title=From the Vault: Diego Maradona and the Hand of God knock out England |url=https://www.theguardian.com/sport/blog/2011/jun/22/from-the-vault-hand-of-god |access-date=2026-06-17 |work=The Guardian |language=en-GB |issn=0261-3077}}</ref>
+
+The nations were paired together in the round of 16 at the [[1998 FIFA World Cup|1998 World Cup]], won by Argentina on penalties,<ref>{{Cite news |last=Ronay |first=Barney |date=2020-05-25 |title=World Cup questions: why did gifted England not beat Argentina in 1998? |url=https://www.theguardian.com/football/2020/may/25/world-cup-questions-why-did-england-not-beat-argentina-1998 |access-date=2026-06-17 |work=The Guardian |language=en-GB |issn=0261-3077}}</ref> and again at the group stage in [[2002 FIFA World Cup|2002]], with England winning 1–0 through a penalty by [[David Beckham]] who had been sent off in the tie four years earlier.<ref>{{Cite web |title=BBC SPORT {{!}} WORLD CUP {{!}} Argentina v England {{!}} England's sweet revenge |url=http://news.bbc.co.uk/sport3/worldcup2002/hi/matches_wallchart/argentina_v_england/default.stm |access-date=2026-06-17 |website=news.bbc.co.uk}}</ref>
+
+=== Germany ===
+[[File:Maradona and Rummenigge.jpg|thumb|upright=0.9|[[Diego Maradona]] and [[Karl-Heinz Rummenigge]] prior to the 1986 World Cup final between Argentina and West Germany]]
+Argentina has played [[Germany national football team|Germany]] in seven [[FIFA World Cup]] matches including three World Cup finals. In [[1986 FIFA World Cup Final|1986]] Argentina won 3–2, but in [[1990 FIFA World Cup Final|1990]] and [[2014 FIFA World Cup Final|2014]] it was the Germans who were the victors by a 1–0 scoreline both times.<ref>{{Cite web |last=Trianni |first=Francesca |date=2014-07-11 |title=Watch: The surprising history behind the Germany vs. Argentina rivalry |url=https://time.com/2977371/germany-argentina-rivalry/ |access-date=2026-06-17 |website=TIME |language=en}}</ref>
+
+In [[1958 FIFA World Cup|1958]] they met for the first time in the group stage, where Argentina suffered a 1–3 loss to [[1954 FIFA World Cup Final|defending champions]] West Germany.<ref>{{Cite web |url=http://www.fifa.com/worldcup/matches/round=220/match=1323/live-blog.html |title=1958 FIFA World Cup Sweden ™ – Matches |publisher=FIFA |language=en|access-date=22 May 2019}}{{dead link|date=October 2021|bot=medic}}{{cbignore|bot=medic}}</ref> In [[1966 FIFA World Cup|1966]] both again faced each other in the group stage which ended in a scoreless draw.<ref>{{Cite web |url=http://www.thesoccerworldcups.com/head_to_head/argentina_vs_germany.php |title=Argentina vs. Germany Head-to-Head in the World Cups |website=thesoccerworldcups.com|access-date=22 May 2019|archive-date=20 May 2019|archive-url=https://web.archive.org/web/20190520204944/http://www.thesoccerworldcups.com/head_to_head/argentina_vs_germany.php|url-status=live}}</ref> In 2006, they met in the [[2006 FIFA World Cup knockout stage#Germany vs Argentina|quarter-finals]]; Argentina lost on penalties after a 1–1 draw, which was followed by a brawl on the pitch involving several players.<ref>[https://www.theguardian.com/football/2006/jul/01/worldcup2006.sport9 Argentina crash out in mass brawl] {{Webarchive|url=https://web.archive.org/web/20180617015538/https://www.theguardian.com/football/2006/jul/01/worldcup2006.sport9 |date=17 June 2018 }}, Michael Walker, The Guardian, 30 June 2006</ref><ref>[http://edition.cnn.com/2006/SPORT/football/07/01/worldcup.brawl/ FIFA investigating Argentina brawl] {{Webarchive|url=https://web.archive.org/web/20221116161849/http://edition.cnn.com/2006/SPORT/football/07/01/worldcup.brawl/ |date=16 November 2022 }}, CNN, 1 July 2006</ref> They met again at the [[2010 FIFA World Cup knockout stage#Argentina vs Germany|same stage in 2010]], this time ending with a 4–0 victory for Germany.<ref>{{Cite news |last=Campbell |first=Paul |date=2014-07-11 |title=From the Vault: a brief history of Argentina v Germany at the World Cup |url=https://www.theguardian.com/football/blog/2014/jul/11/history-argentina-germany-world-cup-final-maradona-2014-2010-1986-1990 |access-date=2026-06-17 |work=The Guardian |language=en-GB |issn=0261-3077}}</ref> They played each other for the third consecutive World Cup in [[2014 FIFA World Cup|Brazil 2014]]'s final, where Argentina was defeated [[2014 FIFA World Cup final|in extra time]] by a score of 1–0.<ref>{{Cite web |title=Germany vs. Argentina: A World Cup Klassiker |url=https://www.bundesliga.com/en/bundesliga/news/germany-argentina-world-cup-klassiker-history-maradona-messi-gotze-7406 |access-date=2026-06-17 |website=bundesliga.com - the official Bundesliga website |language=en}}</ref>
+
+=== Uruguay ===
+{{Main|Argentina–Uruguay football rivalry}}
+
+Argentina has a long-standing rivalry with its neighbour, that came into existence from the early [[Copa América|South American Championships]], the [[Football at the 1928 Summer Olympics|1928 Summer Olympics]] and the [[1930 FIFA World Cup Final|first World Cup final]], held in 1930.<ref>{{cite book |last1=Bueno Álvarez |first1=Juan Antonio |url=https://books.google.com/books?id=DseYAwAAQBAJ&dq=rivalidad+futbol%C3%ADstica+entre+inglaterra+y+argentina&pg=PT171 |title=Los mundiales de fútbol: De la celeste Uruguay a la roja España |last2=Ángel Mateo |first2=Miguel |publisher=Edaf |year=2014 |isbn=9788441434110 |location=Madrid}}</ref><ref>{{Cite web |last=Pugmire |first=Jerome |date=2024-08-01 |title=Le Clash: Bitter soccer rivals France and Argentina meet in Olympic quarterfinals amid a racism spat |url=https://apnews.com/article/olympics-2024-france-argentina-racism-d60172722edd3b9d976d7bc62b8c484f |access-date=2026-05-04 |website=AP News |language=en}}</ref> Argentina and Uruguay hold the record for most international matches played between two countries.<ref name="First match" /> The two teams have faced each other 197 times since 1902. The [[1902 Uruguay v Argentina football match|first match between Argentina and Uruguay]] was also the first official international match to be played outside the United Kingdom.{{refn|group="note"|Although [[Canada men's national soccer team|Canada]] and the [[United States men's national soccer team|United States]] played two internationals in 1885 and 1886, neither match is considered official; Canada did not play an official international until 1904{{citation needed|date=January 2023}} and the United States did not play one until 1916.<ref>{{cite web |url=https://www.ussoccer.com/history/timeline |title=USMNT Timeline |publisher=United States Soccer Federation |access-date=3 February 2022 |quote=1916: The first USFA Men's National Team traveled to Norway and Sweden. The Americans played six matches on this tour, finishing 3-1-2. |archive-date=21 July 2021 |archive-url=https://web.archive.org/web/20210721142756/https://www.ussoccer.com/history/timeline |url-status=live}}</ref>}}
+
+=== Netherlands ===
+{{Main|Argentina–Netherlands football rivalry}}
+
+Considered by sports media to be two historically great teams,<ref>{{cite web |url=https://olympics.com/en/news/argentina-netherlands-fifa-world-cup-2022-head-2-head-record |title=Argentina v Netherlands at FIFA World Cup 2022: Head-to-head record, schedule and time |website=[[Olympic Games|Olympics.com]] |date=8 December 2022 |accessdate=20 December 2022|archive-date=12 December 2022|archive-url=https://web.archive.org/web/20221212215840/https://olympics.com/en/news/argentina-netherlands-fifa-world-cup-2022-head-2-head-record|url-status=live}}</ref> the Argentines and Dutch have developed an intense rivalry. They have met ten times in total, including six times during the World Cup.<ref name=FIFA-NedvArg>{{cite web |url=https://www.fifa.com/fifaplus/en/articles/netherlands-argentina-messi-memphis-blind-di-maria-quarter-finals-fifa-world-cup-preview |title=Netherlands v Argentina: Team news, preview and how to watch |publisher=[[FIFA]] |accessdate=20 December 2022|archive-date=21 December 2022|archive-url=https://web.archive.org/web/20221221031030/https://www.fifa.com/fifaplus/en/articles/netherlands-argentina-messi-memphis-blind-di-maria-quarter-finals-fifa-world-cup-preview|url-status=live}}</ref><ref name=Lupo2022>{{cite web |last=Lupo |first=John |url=https://www.vavel.com/en/international-football/2022/12/09/1131725-netherlands-vs-argentina-a-world-cup-rivalry-renewed.html |title=Netherlands vs Argentina: A World Cup rivalry renewed |work=Vavel |date=9 December 2022 |accessdate=20 December 2022|archive-date=21 December 2022|archive-url=https://web.archive.org/web/20221221031027/https://www.vavel.com/en/international-football/2022/12/09/1131725-netherlands-vs-argentina-a-world-cup-rivalry-renewed.html|url-status=live}}</ref><ref name=McLaughlin2022>{{cite web |last=McLaughlin |first=Luke |url=https://www.theguardian.com/football/2022/dec/08/netherlands-argentina-past-world-cup-meetings |title=Netherlands v Argentina: their previous World Cup meetings |work=[[The Guardian]] |date=8 December 2022 |accessdate=20 December 2022|archive-date=20 December 2022|archive-url=https://web.archive.org/web/20221220055133/https://www.theguardian.com/football/2022/dec/08/netherlands-argentina-past-world-cup-meetings|url-status=live}}</ref>
+
+The two teams first met on 26 May 1974 in an international friendly, won by the Netherlands 4–1. Their most high-profile matchup occurred in the [[1978 FIFA World Cup final|1978 World Cup final]] which was won by Argentina.<ref name=Independent>{{cite web |url=https://www.independent.ie/sport/soccer/world-cup/netherlands-v-argentina-what-time-what-channel-team-news-and-all-you-need-to-know-42198650.html |title=Netherlands v Argentina: What time, what channel, team news and all you need to know |work=[[Independent.ie]] |date=9 December 2022 |accessdate=20 December 2022|archive-date=21 December 2022|archive-url=https://web.archive.org/web/20221221032528/https://www.independent.ie/sport/soccer/world-cup/netherlands-v-argentina-what-time-what-channel-team-news-and-all-you-need-to-know-42198650.html|url-status=live}}</ref> One of the most recent and intense meetings happened in the [[2022 FIFA World Cup|2022 World Cup]], a 2–2 draw where Argentina advanced on penalties, in what is known as the [[Battle of Lusail]].<ref>{{cite web |last=Storey |first=Daniel |url=https://inews.co.uk/sport/football/lionel-messi-world-cup-immortality-argentina-battle-of-lusail-2021645 |title=Lionel Messi moves a step closer to World Cup immortality after Argentina win the 'Battle of Lusail' |work=[[i (British newspaper)|i]] |date=9 December 2022 |accessdate=27 December 2022|archive-date=28 December 2022|archive-url=https://web.archive.org/web/20221228041527/https://inews.co.uk/sport/football/lionel-messi-world-cup-immortality-argentina-battle-of-lusail-2021645|url-status=live}}</ref><ref>{{cite web |url=https://www.espn.com/soccer/blog-the-toe-poke/story/4829954/netherlands-vs-argentina-world-cup-quarterfinal-sees-record-18-yellow-cards |title=Netherlands vs. Argentina World Cup quarterfinal sees record 18 yellow cards in Battle of Lusail |publisher=[[ESPN]] |date=10 December 2022 |accessdate=11 December 2022|archive-date=11 December 2022|archive-url=https://web.archive.org/web/20221211005351/https://www.espn.com/soccer/blog-the-toe-poke/story/4829954/netherlands-vs-argentina-world-cup-quarterfinal-sees-record-18-yellow-cards|url-status=live}}</ref>
+
+==Honours==
+===Global===
+* '''[[FIFA World Cup]]'''
+** {{gold1}} '''Champions (3)''': [[1978 FIFA World Cup|1978]], [[1986 FIFA World Cup|1986]], [[2022 FIFA World Cup|2022]]
+** {{silver2}} Runners-up (3): [[1930 FIFA World Cup|1930]], [[1990 FIFA World Cup|1990]], [[2014 FIFA World Cup|2014]]
+* '''[[Football at the Summer Olympics|Olympic Games]]'''
+** {{silver02}} Silver medal (1): [[Football at the 1928 Summer Olympics|1928]]
+* '''[[FIFA Confederations Cup]]'''
+** {{gold1}} '''Champions (1)''': [[1992 King Fahd Cup|1992]]
+** {{silver2}} Runners-up (2): [[1995 King Fahd Cup|1995]], [[2005 FIFA Confederations Cup|2005]]
+
+===Intercontinental===
+* '''[[CONMEBOL–UEFA Cup of Champions|Artemio Franchi Trophy / Finalissima]]'''
+** {{gold1}} '''Champions (2)''': [[1993 Artemio Franchi Cup|1993]], [[2022 Finalissima|2022]] '''(record)'''
+
+===Continental===
+* '''[[Copa América|South American Championship / Copa América]]'''
+** {{gold1}} '''Champions (16)''': [[1921 South American Championship|1921]], [[1925 South American Championship|1925]], [[1927 South American Championship|1927]], [[1929 South American Championship|1929]], [[1937 South American Championship|1937]], [[1941 South American Championship|1941]], [[1945 South American Championship|1945]], [[1946 South American Championship|1946]], [[1947 South American Championship|1947]], [[1955 South American Championship|1955]], [[1957 South American Championship|1957]], [[1959 South American Championship (Argentina)|1959-I]], [[1991 Copa América|1991]], [[1993 Copa América|1993]], [[2021 Copa América|2021]], [[2024 Copa América|2024]] '''(record)'''
+** {{silver2}} Runners-up (14): [[1916 South American Championship|1916]], [[1917 South American Championship|1917]], [[1920 South American Championship|1920]], [[1923 South American Championship|1923]], [[1924 South American Championship|1924]], [[1926 South American Championship|1926]], [[1935 South American Championship|1935]], [[1942 South American Championship|1942]], [[1959 South American Championship (Ecuador)|1959-II]], [[1967 South American Championship|1967]], [[2004 Copa América|2004]], [[2007 Copa América|2007]], [[2015 Copa América|2015]], [[Copa América Centenario|2016]]
+** {{bronze3}} Third place (5): [[1919 South American Championship|1919]], [[1956 South American Championship|1956]], [[1963 South American Championship|1963]], [[1989 Copa América|1989]], [[2019 Copa América|2019]]
+* '''[[Panamerican Championship]]'''
+** {{gold1}} '''Champions (1)''': [[1960 Panamerican Championship|1960]]
+** {{silver2}} Runners-up (1): [[1956 Panamerican Championship|1956]]
+
+===Friendly===
+* '''[[Copa Newton|Newton Cup]]{{refn|group=note|name=afaauf}} (17)''': 1906, 1907, 1908, 1909, 1911, 1916, 1918, 1924, 1927, 1928, 1937, 1942, 1945, 1957, 1973, 1975, 1976 '''(record)'''
+* '''[[Copa Lipton|Lipton Cup]]{{refn|Organised by [[Argentine Football Association|Argentine]] and [[Uruguayan Football Association|Uruguayan]] Associations|group=note|name=afaauf}} (18)''': 1906, 1907, 1908, 1909, 1913, 1915, 1916, 1917, 1918, 1928, 1937, 1942, 1945, 1957, 1962, 1968, 1976, 1992 '''(record)'''
+* '''[[Copa Premier Honor Argentino]] (7)''': 1909, 1911, 1913, 1914, 1918, 1919, 1920''' (record)'''
+* '''[[Copa Centenario Revolución de Mayo]]{{refn|Organised as part of the celebrations for the [[Argentine Centennial]].|group=note|name=centenn}} (1)''': 1910
+* '''[[Copa Premier Honor Uruguayo]] (5)''': 1915, 1916, 1917, 1923, 1924
+* '''[[Roca Cup]]{{refn|Organised by [[Brazilian Football Confederation|Brazilian]] and [[Argentine Football Association|Argentine]] Associations|group=note|name=afacbf}} (4)''': 1923, 1939, 1940, 1971{{sup|s}}<ref>{{cite web |url=https://www.rsssf.org/tablesr/roca.html |title=Copa Julio Roca at RSSSF |publisher=Rec.Sport.Soccer Statistics Foundation |access-date=23 June 2014 |archive-date=14 July 2022 |archive-url=https://web.archive.org/web/20220714204500/https://www.rsssf.org/tablesr/roca.html |url-status=live}}</ref>
+* '''[[Copa Juan Mignaburu]]{{refn|group=note|name=afaauf}} (5)''': 1935, 1936, 1938, 1940, 1943 '''(record)'''
+* '''[[Copa Héctor Rivadavia Gómez]]{{refn|group=note|name=afaauf}} (3)''': 1935, 1936, 1943 '''(record)'''
+* '''[[Taça das Nações|Nations' Cup]]{{refn|Organised by the [[Brazilian Football Confederation|Brazilian Confederation]]|group=note|name=cbf}} (1)''': [[Taça das Nações|1964]]
+* '''[[Kirin Cup]]{{refn|Organised by Japanese [[Kirin Company]]|group=note|name=kirin}} (2)''': [[Kirin Cup#1992 Kirin Cup Soccer|1992]], [[Kirin Cup#2003 Kirin Cup Soccer|2003]]
+* '''Copa Times of India<ref>{{Cite web |date=3 September 2011 |first=Nilesh |last=Bhattacharya |title=Venezuela: Messi magic mesmerizes Kolkata as Argentina beat Venezuela 1–0 |url=https://timesofindia.indiatimes.com/sports/football/top-stories/messi-magic-mesmerizes-kolkata-as-argentina-beat-venezuela-1-0/articleshow/9842110.cms|access-date=18 July 2021 |website=The Times of India |language=en|archive-date=18 July 2021|archive-url=https://web.archive.org/web/20210718232235/https://timesofindia.indiatimes.com/sports/football/top-stories/messi-magic-mesmerizes-kolkata-as-argentina-beat-venezuela-1-0/articleshow/9842110.cms|url-status=live}}</ref> (1)''': 2011
+* '''[[Superclásico de las Américas]]{{refn|group=note|name=afacbf}} (2)''': [[2017 Superclásico de las Américas|2017]], [[2019 Superclásico de las Américas|2019]]
+* '''San Juan Cup<ref>{{Cite web |date=8 June 2019 |title=Messi scores twice as Argentina routs Nicaragua 5–1 |url=https://www.france24.com/en/20190608-messi-scores-twice-argentina-routs-nicaragua-5-1|access-date=18 July 2021 |publisher=France 24 |language=en|archive-date=18 July 2021|archive-url=https://web.archive.org/web/20210718232236/https://www.france24.com/en/20190608-messi-scores-twice-argentina-routs-nicaragua-5-1|url-status=live}}</ref> (1)''': 2019
+
+===Awards===
+* '''[[FIFA World Rankings#Awards|FIFA Team of the Year]] (4)''': 2007, 2016, 2023, 2024
+* '''[[Laureus World Sports Award for Team of the Year]] (1)''': 2023
+* '''[[World Soccer (magazine)#Men's World Team of the Year|World Soccer World Team of the Year]] (2)''': 1986, 2022
+* '''[[Gazzetta Sports Awards#Worldwide|Gazzetta Sports World Team of the Year]] (2)''': 1978, 1986
+* '''[[Guerin Sportivo#Team of the Year|Guerin Sportivo Team of the Year]] (1)''': 1986
+* '''[[FIFA World Cup Fair Play Trophy]] (1)''': [[1978 FIFA World Cup|1978]]
+* '''[[Copa América awards#Fair Play Award|Copa America Fair Play Award]] (1)''': [[Copa América Centenario#Awards|2016]]
+* '''AIPS Team of the Year (2)''': 2022,<ref>{{cite web |title=Argentina Men's Football Team elected as 2022 AIPS Team of the Year: As voted by 113 nations |url=https://www.aipsmedia.com/aips/pages/articles/2022/33274.html |access-date=5 March 2024 |website=AIPS Media |date=30 December 2022 |archive-date=28 April 2024 |archive-url=https://web.archive.org/web/20240428104800/https://www.aipsmedia.com/sp.aspx |url-status=live}}</ref> 2023<ref>{{cite web |title=Argentina Men's Football Team elected as 2023 AIPS Team of the Year |url=https://www.aipsmedia.com/aips/pages/articles/2023/34896.html |access-date=5 March 2024 |website=AIPS Media |date=30 December 2023 |archive-date=28 April 2024 |archive-url=https://web.archive.org/web/20240428104746/https://syndication.twitter.com/srv/timeline-profile/screen-name/AIPSmedia?creatorScreenName=AIPSstaff&dnt=false&embedId=twitter-widget-0&features=eyJ0ZndfdGltZWxpbmVfbGlzdCI6eyJidWNrZXQiOltdLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X2ZvbGxvd2VyX2NvdW50X3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9iYWNrZW5kIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19yZWZzcmNfc2Vzc2lvbiI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfZm9zbnJfc29mdF9pbnRlcnZlbnRpb25zX2VuYWJsZWQiOnsiYnVja2V0Ijoib24iLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X21peGVkX21lZGlhXzE1ODk3Ijp7ImJ1Y2tldCI6InRyZWF0bWVudCIsInZlcnNpb24iOm51bGx9LCJ0ZndfZXhwZXJpbWVudHNfY29va2llX2V4cGlyYXRpb24iOnsiYnVja2V0IjoxMjA5NjAwLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X3Nob3dfYmlyZHdhdGNoX3Bpdm90c19lbmFibGVkIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19kdXBsaWNhdGVfc2NyaWJlc190b19zZXR0aW5ncyI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdXNlX3Byb2ZpbGVfaW1hZ2Vfc2hhcGVfZW5hYmxlZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdmlkZW9faGxzX2R5bmFtaWNfbWFuaWZlc3RzXzE1MDgyIjp7ImJ1Y2tldCI6InRydWVfYml0cmF0ZSIsInZlcnNpb24iOm51bGx9LCJ0ZndfbGVnYWN5X3RpbWVsaW5lX3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9mcm9udGVuZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9fQ%3D%3D&frame=false&hideBorder=false&hideFooter=false&hideHeader=false&hideScrollBar=true&lang=en&limit=5&maxHeight=3000px&origin=https%3A%2F%2Fwww.aipsmedia.com%2Findex.html%3Fpage%3Dartdetail%26art%3D34896&sessionId=9cf527c180ddb9e889c7e583369a51fded2f067a&showHeader=true&showReplies=false&siteScreenName=aipsmedia&transparent=true&widgetsVersion=2615f7e52b7e0%3A1702314776716 |url-status=live}}</ref>
+
+===Chronology of titles===
+{| class="wikitable" style="text-align: left;"
+|-
+!Host nation
+!Tournament
+!Year
+!No.
+|-
+|{{flagicon|ARG|1861}} Argentina||[[Copa América]]||1921||style="text-align: center;"|1st
+|-
+|{{flagicon|ARG|1861}} Argentina
+|[[Copa América]]
+|1925||style="text-align: center;"|2nd
+|-
+|{{flagicon|PER}} Peru
+|[[Copa América]]||1927||style="text-align: center;"|3rd
+|-
+|{{flagicon|ARG|1861}} Argentina
+|[[Copa América]]||1929||style="text-align: center;"|4th
+|-
+|{{flagicon|ARG|1861}} Argentina
+|[[Copa América]]
+|1937||style="text-align: center;"|5th
+|-
+|{{flagicon|CHI}} Chile
+|[[Copa América]]||1941||style="text-align: center;"|6th
+|-
+|{{flagicon|CHI}} Chile
+|[[Copa América]]
+|1945||style="text-align: center;"|7th
+|-
+|{{flagicon|ARG|1861}} Argentina
+|[[Copa América]]||1946||style="text-align: center;"|8th
+|-
+|{{flagicon|ECU|1900}} Ecuador
+|[[Copa América]]||1947||style="text-align: center;"|9th
+|-
+|{{flagicon|CHI}} Chile
+|[[Copa América]]||1955||style="text-align: center;"|10th
+|-
+|{{flagicon|PER}} Peru
+|[[Copa América]]||1957||style="text-align: center;"|11th
+|-
+|{{flagicon|ARG|1861}} Argentina
+|[[Copa América]]||1959||style="text-align: center;"|12th
+|-
+|{{flagicon|CRC}} Costa Rica||[[Panamerican Championship]]||1960||style="text-align: center;"|13th
+|-
+|{{flagicon|ARG|1861}} Argentina||[[FIFA World Cup|World Cup]]||1978||style="text-align: center;"|14th
+|-
+|{{flagicon|MEX}} Mexico
+|[[FIFA World Cup|World Cup]]||1986||style="text-align: center;"|15th
+|-
+|{{flagicon|CHI}} Chile||[[Copa América]]||1991||style="text-align: center;"|16th
+|-
+|{{flagicon|KSA}} Saudi Arabia||[[FIFA Confederations Cup|Confederations Cup]]||1992||style="text-align: center;"|17th
+|-
+|{{flagicon|ARG|1861}} Argentina||[[Finalissima|Artemio Franchi Cup]]||1993||style="text-align: center;"|18th
+|-
+|{{flagicon|ECU|1900}} Ecuador||[[Copa América]]||1993||style="text-align: center;"|19th
+|-
+|{{flagicon|BRA}} Brazil
+|[[Copa América]]||2021||style="text-align: center;"|20th
+|-
+|{{flagicon|ENG}} England||[[Finalissima]]||2022||style="text-align: center;"|21st
+|-
+|{{flagicon|QAT}} Qatar||[[FIFA World Cup|World Cup]]||2022||style="text-align: center;"|22nd
+|-
+|{{flagicon|USA}} United States||[[Copa América]]||2024||style="text-align: center;"|23rd
+|}
+
+===Summary===
+{| class="wikitable" width=40% style="font-size:90%; text-align:center;"
+|-
+!Competition !!{{gold1}} !!{{silver2}} !!{{bronze3}} !!Total
+|-
+|align=left|[[FIFA World Cup]]
+|3||3||0||6
+|-
+|align=left|[[FIFA Confederations Cup]]
+|1||2||0||3
+|-
+|align=left|[[Football at the Summer Olympics|Olympic Games]]
+|0||1||0||1
+|-
+|align=left|[[Copa América|CONMEBOL Copa América]]
+|16||14||5||35
+|-
+|align=left|[[Panamerican Championship]]<sup>'''1'''</sup>
+|1||1||0||2
+|-
+|align=left|[[CONMEBOL–UEFA Cup of Champions]]
+|2||0||0||2
+|-
+!Total!!23!!21!!5!!49
+|}
+;Notes:
+# Official continental competition organized by [[Panamerican Championship#Panamerican Football Confederation|PFC]]. It was a unified confederation of the Americas, which was formed by NAFC, CCCF and CONMEBOL.
+* {{sup|s}} Shared titles.
+
+== See also ==
+{{portal|Association football|Argentina}}
+* [[List of Argentina international footballers]]
+* [[List of Argentina national football team managers]]
+* [[Argentina national under-23 football team]]
+* [[Argentina national under-20 football team]]
+* [[Argentina national under-17 football team]]
+* [[Argentina national under-15 football team]]
+* ''[[Vamos, vamos, Argentina]]''
+* [[Argentina–Brazil football rivalry]]
+* [[Argentina–Uruguay football rivalry]]
+
+== Notes ==
+{{reflist|group=note}}
+{{notelist}}
+<templatestyles src="Reflist/styles.css" /><div class="reflist reflist-upper-alpha"><references group="upper-alpha" /></div>
+
+==References==
+{{Reflist|refs=
+<!--
+<ref>{{Cite web |url=https://sportivobarracas.com.ar/article/estadio/17/ |title=Estadio |publisher=Sportivo Barracas |archive-url=https://web.archive.org/web/20170919185247/https://sportivobarracas.com.ar/article/estadio/17/ |archive-date=19 September 2017 |url-status=dead |access-date=25 December 2022}}</ref>
+
+<ref>{{Cite web |date=2023-11-17 |title=El historial de la Selección argentina en La Bombonera {{!}} Goal.com Argentina |url=https://www.goal.com/es-ar/noticias/el-historial-de-la-seleccion-argentina-en-la-bombonera/lcuc6w0bp2ml1jbr1yirfmsaa |access-date=2026-05-07 |website=www.goal.com |language=es-AR}}</ref>
+
+<ref>{{Cite web |last=Dellocchio |first=Cristian |date=2021-11-16 |title=¿Cómo le fue a la Selección Argentina en San Juan? |url=https://www.pagina12.com.ar/382770-como-le-fue-a-la-seleccion-argentina-en-san-juan |access-date=2026-05-07 |website=Página{{!}}12 |language=es}}</ref>
+
+<ref>{{Cite web |title=Argentina 1-3 Brasil (5 de Sep., 2009) Análisis del partido - ESPN (AR) |url=https://www.espn.com.ar/futbol/reporte/_/juegoId/230068 |access-date=2026-05-07 |website=ESPN |language=es}}</ref>
+
+<ref>{{Cite web |title=Brasil conquista la casa de Messi y deja a Argentina contra las cuerdas - MARCA.com |url=https://www.marca.com/2009/09/06/futbol/mundial_2010/1252217822.html |access-date=2026-05-07 |website=www.marca.com}}</ref>
+
+<ref>{{Cite web |last=Impulso |date=2022-01-07 |title=POLÉMICA POR LA SELECCIÓN |url=https://www.impulsonegocios.com/rosario-central-gigante-de-arroyito-seleccion/ |access-date=2026-05-07 |website=IMPULSO}}</ref>
+-->
+}}
+
+==External links==
+{{Commons category}}
+* {{Official website}} {{in lang|es}}
+* [https://www.conmebol.com/afa/ Argentina] at [[CONMEBOL]]
+* [https://www.fifa.com/about-fifa/associations/ARG Argentina] at [[FIFA]]
+
+{{Argentina national football team}}
+{{Navboxes
+|titlestyle=background:white;color:#0074E7;border:1px solid #0074E7
+|list1=
+{{Navboxes
+|title=Argentina achievements and awards
+|titlestyle=background:white;color:#0074E7;border:1px solid #0074E7
+|list1=
+{{S-start}}
+{{s-ach|ach}}
+{{Succession box
+  | before = [[1974 FIFA World Cup|1974]]<br />{{flagdeco|GER}} [[Germany national football team|West Germany]]
+  | title  = [[FIFA World Cup|World Champions]]
+  | years  = [[1978 FIFA World Cup|1978]] (First title)
+  | after  = [[1982 FIFA World Cup|1982]]<br />{{fb-rt|ITA}}
+}}{{Succession box
+  | before = [[1982 FIFA World Cup|1982]]<br />{{fb|ITA}}
+  | title  = [[FIFA World Cup|World Champions]]
+  | years  = [[1986 FIFA World Cup|1986]] (Second title)
+  | after  = [[1990 FIFA World Cup|1990]]<br />{{fb-rt|GER}}
+}}
+{{Succession box
+  | before = [[2018 FIFA World Cup|2018]]<br />{{fb|FRA}}
+  | title  = [[FIFA World Cup|World Champions]]
+  | years  = [[2022 FIFA World Cup|2022]] (Third title)
+  | after  = ''[[2026 FIFA World Cup|2026]]''
+}}
+{{Succession box
+  | before = ''Inaugural''
+  | title  = [[FIFA Confederations Cup|Confederations Champions]]
+  | years  = [[1992 King Fahd Cup|1992]] (First title)<br />[[2024 Copa América|2024]] (Sixteenth title)
+  | after  = [[1992 King Fahd Cup|1992]] {{fb-rt|DEN}}
+}}
+{{Succession box
+  | before = [[1920 South American Championship|1920]]<br />{{fb|URU}}
+  | title  = [[Copa América|South American Champions]]
+  | years  = [[1921 South American Championship|1921]] (First title)
+  | after  = [[1922 South American Championship|1922]]<br />{{fb-rt|BRA}}
+}}
+{{Succession box
+  | before = [[1924 South American Championship|1924]]<br />{{fb|URU}}
+  | title  = [[Copa América|South American Champions]]
+  | years  = [[1925 South American Championship|1925]] (Second title)
+  | after  = [[1926 South American Championship|1926]]<br />{{fb-rt|URU}}
+}}
+{{Succession box
+  | before = [[1926 South American Championship|1926]]<br />{{fb|URU}}
+  | title  = [[Copa América|South American Champions]]
+  | years  = [[1927 South American Championship|1927]] (Third title)<br />[[1929 South American Championship|1929]] (Foutrh title)
+  | after  = [[1935 South American Championship|1935]]<br />{{fb-rt|URU}}
+}}
+{{Succession box
+  | before = [[1935 South American Championship|1935]]<br />{{fb|URU}}
+  | title  = [[Copa América|South American Champions]]
+  | years  = [[1937 South American Championship|1937]] (Fifth title)
+  | after  = [[1939 South American Championship|1939]]<br />{{fb-rt|PER}}
+}}
+{{Succession box
+  | before = [[1939 South American Championship|1939]]<br />{{fb|PER}}
+  | title  = [[Copa América|South American Champions]]
+  | years  = [[1941 South American Championship|1941]] (Sixth title)
+  | after  = [[1942 South American Championship|1942]]<br />{{fb-rt|URU}}
+}}
+{{Succession box
+  | before = [[1942 South American Championship|1942]]<br />{{fb|URU}}
+  | title  = [[Copa América|South American Champions]]
+  | years  = [[1945 South American Championship|1945]] (Seventh title)<br />[[1946 South American Championship|1946]] (Eighth title)<br />[[1947 South American Championship|1947]] (Ninth title)
+  | after  = [[1949 South American Championship|1949]]<br />{{fb-rt|BRA}}
+}}
+{{Succession box
+  | before = [[1953 South American Championship|1953]]<br />{{fb|PAR}}
+  | title  = [[Copa América|South American Champions]]
+  | years  = [[1955 South American Championship|1955]] (Tenth title)
+  | after  = [[1956 South American Championship|1956]]<br />{{fb-rt|URU}}
+}}
+{{Succession box
+  | before = [[1956 South American Championship|1956]]<br />{{fb|URU}}
+  | title  = [[Copa América|South American Champions]]
+  | years  = [[1957 South American Championship|1957]] (Eleventh title)<br />[[1959 South American Championship (Argentina)|1959]] (Twelfth title)
+  | after  = [[1959 South American Championship (Ecuador)|1959]]<br />{{fb-rt|URU}}
+}}
+{{Succession box
+  | before = [[1989 Copa América|1989]]<br />{{fb|BRA}}
+  | title  = [[Copa América|South American Champions]]
+  | years  = [[1991 Copa América|1991]] (Thirteenth title)<br />[[1993 Copa América|1993]] (Fourteenth title)
+  | after  = [[1995 Copa América|1995]]<br />{{fb-rt|URU}}
+}}
+{{Succession box
+  | before = [[2019 Copa América|2019]]<br />{{fb|BRA}}
+  | title  = [[Copa América|South American Champions]]
+  | years  = [[2021 Copa América|2021]] (Fifteenth title)<br />[[2024 Copa América|2024]] (Sixteenth title)
+  | after  = ''[[2028 Copa América|2028]]''
+}}
+{{S-ach|aw}}
+{{succession box
+ | before = {{fb|BRA}}
+ | after = {{fb-rt|ESP}}
+ | title = [[FIFA World Rankings#Team of the Year|FIFA Team of the Year]]
+ | years = 2007
+}}
+{{succession box
+ | before = {{fb|BEL}}
+ | after = {{fb-rt|GER}}
+ | title = [[FIFA World Rankings#Team of the Year|FIFA Team of the Year]]
+ | years = 2016
+}}
+{{succession box
+ | before = {{fb|BRA}}
+ | after = ''2024''
+ | title = [[FIFA World Rankings#Team of the Year|FIFA Team of the Year]]
+ | years = 2023
+}}
+{{Succession box
+ | before = {{fb|ITA}}
+ | after = [[Spain women's national football team|Spain women]] {{flagdeco|ESP}}
+ | title=[[Laureus World Sports Award for Team of the Year|Laureus World Team of the Year]]
+ | years = 2023
+}}
+{{s-end}}
+}}
+{{Argentina national football team matches}}
+{{Argentina national football team managers}}
+{{FIFA World Cup winners}}
+{{Copa América winners}}
+{{FIFA Confederations Cup winners}}
+{{Laureus Team of the Year Award}}
+{{Football in Argentina}}
+{{Seasons in Argentine football}}
+{{CONMEBOL teams}}
+{{National sports teams of Argentina}}
+}}
+
+[[Category:Argentina national football team| ]]
+[[Category:Argentina men's national football teams| ]]
+[[Category:FIFA Confederations Cup–winning countries]]
+[[Category:FIFA World Cup–winning countries]]
+[[Category:Laureus World Sports Awards winners]]
+[[Category:South American national association football teams]]
+[[Category:1902 establishments in Argentina]]
+[[Category:National sports teams established in 1902]]

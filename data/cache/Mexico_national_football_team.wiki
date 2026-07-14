@@ -1,0 +1,2093 @@
+{{Short description|Men's association football team}}
+{{About|the men's team|the women's team|Mexico women's national football team}}
+{{Redirect|El Tri|the band|El Tri (band)}}
+{{pp-semi-indef}}
+{{Use dmy dates|date=June 2025}}
+{{Infobox national football team
+| Name                     = Mexico
+| Badge                    = Mexico national football team crest.svg <!-- Please do NOT remove this image. It was conceived to represent the national team, NOT the federation. -->
+| Badge_size               = 170px
+| Nickname                 = ''{{lang|es|El Tri}}''<br>''{{lang|es|El Tricolor}}''
+| Association              = [[Mexican Football Federation|Federación Mexicana de Fútbol]] (FMF)
+| Confederation            = [[CONCACAF]] (North America)
+| Sub-confederation        = [[North American Football Union|NAFU]] (North America)
+| Coach                    = [[Rafael Márquez]]
+| Captain                  = [[Edson Álvarez]]
+| Most caps                = [[Andrés Guardado]] (180)
+| Top scorer               = [[Javier Hernández]] ([[List of international goals scored by Javier Hernández|52]])
+| Home Stadium             = [[Estadio Azteca]]
+| FIFA Trigramme           = MEX
+| FIFA Rank                = {{FIFA World Rankings|MEX}}
+| FIFA max                 = 4
+| FIFA max date            = February–June 1998, August 2003, April 2004, June 2004, May–June 2006
+| FIFA min                 = 40
+| FIFA min date            = July 2015
+| Elo Rank                 = {{World Football Elo Ratings|Mexico}}
+| Elo max                  = 4
+| Elo max date             = June 2016
+| Elo min                  = 47
+| Elo min date             = February 1979
+| pattern_la1              = _mex26h
+| pattern_b1               = _mex26hA
+| pattern_ra1              = _mex26h
+| pattern_sh1              = _mex26h
+| pattern_so1              = _mex26h
+| leftarm1                 = 3a7257
+| body1                    = 3a7257
+| rightarm1                = 3a7257
+| shorts1                  = ffffff
+| socks1                   = DE0000
+| pattern_la2              = _mex26a
+| pattern_b2               = _mex26a
+| pattern_ra2              = _mex26a
+| pattern_sh2              = _mex26a
+| pattern_so2              = _mex26al
+| leftarm2                 = ffffff
+| body2                    = ffffff
+| rightarm2                = ffffff
+| shorts2                  = 0d392d
+| socks2                   = ffffff
+| pattern_la3              = _mex26t
+| pattern_b3               = _mex26t
+| pattern_ra3              = _mex26t
+| pattern_sh3              = _mex26t
+| pattern_so3              = _mex26tl
+| leftarm3                 = 000000
+| body3                    = 000000
+| rightarm3                = 000000
+| shorts3                  = 000000
+| socks3                   = 000000
+| First game               = {{fb|MEX|1916}} 2–1 {{fb-rt|GUA|1871}}<br>([[Mexico City]], Mexico; 9 December 1923)
+| Largest win              = {{fb|MEX}} 13–0 {{fb-rt|BAH|1973}}<br>([[Toluca]], Mexico; 28 April 1987)
+| Largest loss             = {{fb|ENG}} 8–0 {{fb-rt|MEX|1934}}<br>([[London]], England; 10 May 1961)
+| World cup apps           = 18<!--as of 2026-->
+| World cup first          = 1930
+| World cup best           = Quarter-finals ([[1970 FIFA World Cup|1970]], [[1986 FIFA World Cup|1986]])
+| Regional name            = [[CONCACAF Championship]] / [[CONCACAF Gold Cup|Gold Cup]]
+| Regional cup apps        = 26<!--as of 2025-->
+| Regional cup first       = [[1963 CONCACAF Championship|1963]]
+| Regional cup best        = '''Champions''' ([[1965 CONCACAF Championship|1965]], [[1971 CONCACAF Championship|1971]], [[1977 CONCACAF Championship|1977]], [[1993 CONCACAF Gold Cup|1993]], [[1996 CONCACAF Gold Cup|1996]], [[1998 CONCACAF Gold Cup|1998]], [[2003 CONCACAF Gold Cup|2003]], [[2009 CONCACAF Gold Cup|2009]], [[2011 CONCACAF Gold Cup|2011]], [[2015 CONCACAF Gold Cup|2015]], [[2019 CONCACAF Gold Cup|2019]], [[2023 CONCACAF Gold Cup|2023]], [[2025 CONCACAF Gold Cup|2025]])
+| 2ndRegional name         = [[CONCACAF Nations League]]
+| 2ndRegional cup apps     = 4<!--as of 2025-->
+| 2ndRegional cup first    = [[2019–20 CONCACAF Nations League|2019–20]]
+| 2ndRegional cup best     = '''Champions''' ([[2025 CONCACAF Nations League Finals|2025]])
+| 3rdRegional name         = [[CONCACAF Cup]]
+| 3rdRegional cup apps     = 1
+| 3rdRegional cup first    = [[CONCACAF Cup|2015]]
+| 3rdRegional cup best     = '''Champions''' ([[CONCACAF Cup|2015]]) | Confederations cup apps  = 7
+| Confederations cup first = [[1995 FIFA Confederations Cup|1995]]
+| Confederations cup best  = '''Champions''' ([[1999 FIFA Confederations Cup|1999]])
+| 4thRegional name         = [[Copa América]]
+| 4thRegional cup apps     = 11<!--as of 2024-->
+| 4thRegional cup first    = [[1993 Copa América|1993]]
+| 4thRegional cup best     = Runners-up ([[1993 Copa América|1993]], [[2001 Copa América|2001]])
+| medaltemplates           = {{MedalCompetition|[[FIFA Confederations Cup]]}}
+{{MedalGold|[[1999 FIFA Confederations Cup|1999 Mexico]]|[[1999 FIFA Confederations Cup squads|Team]]}}
+{{MedalBronze|[[1995 King Fahd Cup|1995 Saudi Arabia]]|[[1995 King Fahd Cup squads|Team]]}}
+{{MedalCompetition|[[CONCACAF Championship]] / [[CONCACAF Gold Cup|Gold Cup]]}}
+{{MedalGold|[[1965 CONCACAF Championship|1965 Guatemala]]|Team}}
+{{MedalGold|[[1971 CONCACAF Championship|1971 Trinidad and Tobago]]|Team}}
+{{MedalGold|[[1977 CONCACAF Championship|1977 Mexico]]|Team}}
+{{MedalGold|[[1993 CONCACAF Gold Cup|1993 Mexico and United States]]|[[1991 CONCACAF Gold Cup squads#Mexico|Team]]}}
+{{MedalGold|[[1996 CONCACAF Gold Cup|1996 United States]]|[[2002 CONCACAF Gold Cup squads#Mexico|Team]]}}
+{{MedalGold|[[1998 CONCACAF Gold Cup|1998 United States]]|[[2005 CONCACAF Gold Cup squads#Mexico|Team]]}}
+{{MedalGold|[[2003 CONCACAF Gold Cup|2003 Mexico and United States]]|[[2007 CONCACAF Gold Cup squads#Mexico|Team]]}}
+{{MedalGold|[[2009 CONCACAF Gold Cup|2009 United States]]|[[2013 CONCACAF Gold Cup squads#Mexico|Team]]}}
+{{MedalGold|[[2011 CONCACAF Gold Cup|2011 United States]]|[[2017 CONCACAF Gold Cup squads#Mexico|Team]]}}
+{{MedalGold|[[2015 CONCACAF Gold Cup|2015 Canada and United States]]|[[2021 CONCACAF Gold Cup squads#Mexico|Team]]}}
+{{MedalGold|[[2019 CONCACAF Gold Cup|2019 Costa Rica, Jamaica and United States]]|[[2021 CONCACAF Gold Cup squads#Mexico|Team]]}}
+{{MedalGold|[[2023 CONCACAF Gold Cup|2023 Canada and United States]]|[[2021 CONCACAF Gold Cup squads#Mexico|Team]]}}
+{{MedalGold|[[2025 CONCACAF Gold Cup|2025 Canada and United States]]|[[2021 CONCACAF Gold Cup squads#Mexico|Team]]}}
+{{MedalSilver|[[1967 CONCACAF Championship|1967 Honduras]]|Team}}
+{{MedalSilver|[[2007 CONCACAF Gold Cup|2007 United States]]|[[2021 CONCACAF Gold Cup squads#Mexico|Team]]}}
+{{MedalSilver|[[2021 CONCACAF Gold Cup|2021 United States]]|[[2021 CONCACAF Gold Cup squads#Mexico|Team]]}}
+{{MedalBronze|[[1973 CONCACAF Championship|1973 Haiti]]|Team}}
+{{MedalBronze|[[1981 CONCACAF Championship|1981 Honduras]]|Team}}
+{{MedalBronze|[[1991 CONCACAF Gold Cup|1991 United States]]|[[2021 CONCACAF Gold Cup squads#Mexico|Team]]}}
+{{MedalCompetition|[[CONCACAF Nations League]]}}
+{{MedalGold|[[2025 CONCACAF Nations League Finals|2025 United States]]|[[2025 CONCACAF Nations League Finals squads#Mexico|Team]]}}
+{{MedalSilver|[[2020 CONCACAF Nations League Finals|2020 United States]]|[[2021 CONCACAF Nations League Finals squads#Mexico|Team]]}}
+{{MedalSilver|[[2024 CONCACAF Nations League Finals|2024 United States]]|[[2024 CONCACAF Nations League Finals squads#Mexico|Team]]}}
+{{MedalBronze|[[2023 CONCACAF Nations League Finals|2023 United States]]|[[2023 CONCACAF Nations League Finals squads#Mexico|Team]]}}
+{{MedalCompetition|[[CONCACAF Cup]]}}
+{{MedalGold|[[CONCACAF Cup|2015 United States]]|[[CONCACAF Cup|Team]]}}
+{{MedalCompetition|[[Copa América]]}}
+{{MedalSilver|[[1993 Copa América|1993 Ecuador]]|[[1993 Copa América squads|Team]]}}
+{{MedalSilver|[[2001 Copa América|2001 Colombia]]|[[2001 Copa América squads|Team]]}}
+{{MedalBronze|[[1997 Copa América|1997 Bolivia]]|[[1997 Copa América squads|Team]]}}
+{{MedalBronze|[[1999 Copa América|1999 Paraguay]]|[[1999 Copa América squads|Team]]}}
+{{MedalBronze|[[2007 Copa América|2007 Venezuela]]|[[2007 Copa América squads|Team]]}}
+{{MedalCompetition|[[Panamerican Championship]]}}
+{{MedalBronze|[[1960 Panamerican Championship|1960 Costa Rica]]|[[1960 Panamerican Championship squads#Mexico|Team]]}}
+{{MedalCompetition|[[North American Football Confederation#NAFC Championship|NAFC Championship]]}}
+{{MedalGold|[[1947 NAFC Championship|1947 Cuba]]|Team}}
+{{MedalGold|[[1949 NAFC Championship|1949 Mexico]]|Team}}
+{{MedalCompetition|[[North American Nations Cup]]}}
+{{MedalGold|[[1991 North American Nations Cup|1991 United States]]|[[1991 North American Nations Cup squads#Mexico|Team]]}}
+{{MedalSilver|[[1990 North American Nations Cup|1990 Canada]]|[[1990 North American Nations Cup squads#Mexico|Team]]}}
+{{MedalCompetition|[[Football at the Central American and Caribbean Games|Central American and Caribbean Games]]}}
+{{MedalGold|[[Football at the 1935 Central American and Caribbean Games|1935 El Salvador]]|[[Football at the 1935 Central American and Caribbean Games – Men's team squads#Mexico|Team]]}}
+{{MedalGold|[[Football at the 1938 Central American and Caribbean Games|1938 Panama]]|[[Football at the 1938 Central American and Caribbean Games – Men's team squads#Mexico|Team]]}}
+| website = {{url|https://miseleccion.mx/|miseleccion.mx}}
+}}
+
+The '''Mexico national football team''' ({{Langx|es|Selección de fútbol de México}}) represents [[Mexico]] in men's international [[Association football|football]], which is governed by the [[Mexican Football Federation]] ({{Langx|es|Federación Mexicana de Fútbol}}) founded in 1927. It has been an affiliate member of [[FIFA]] since 1929 and a founding affiliate member of [[CONCACAF]] since 1961. Regionally, it is an affiliate member of [[North American Football Union|NAFU]] in the North American Zone.
+From 1946 to 1961, it was a member of [[North American Football Confederation|NAFC]], the former governing body of football in North America and a predecessor confederation of CONCACAF, and also a member of [[Panamerican Championship#Panamerican Football Confederation|PFC]], the former unified confederation of the Americas.
+
+Mexico has qualified for the [[FIFA World Cup]] eighteen times and has qualified consecutively since 1994, making it one of six countries to do so.<ref>{{cite news |url=http://eljalisco.com/mexicos-world-cup-soccer-history/ |title=Mexico's World Cup Soccer History |website=eljalisco.com |access-date=15 June 2017 |archive-date=29 June 2017 |archive-url=https://web.archive.org/web/20170629101937/http://eljalisco.com/mexicos-world-cup-soccer-history/ |url-status=live }}</ref> It is one of four CONCACAF teams to have advanced to the knockout stage, reaching the quarter-finals twice ([[1970 FIFA World Cup|1970]] and [[1986 FIFA World Cup|1986]]) both as hosts, and also reaching the round of 16 in seven editions. Mexico played [[France national football team|France]] in the first match in World Cup history in [[1930 FIFA World Cup|Uruguay 1930]]. It has qualified for the [[FIFA Confederations Cup]] seven times, being the only CONCACAF team and the only non-European or South American team to have won a FIFA global competition, winning the [[1999 FIFA Confederations Cup]] as hosts, defeating [[Brazil national football team|Brazil]] 4–3.
+
+Mexico has participated twenty-six times in CONCACAF's premier continental competition, and is the most successful team in its confederation, winning 15 CONCACAF continental titles (10 [[CONCACAF Gold Cup]] titles, 3 [[CONCACAF Championship]] titles, one [[CONCACAF Nations League]] and one [[CONCACAF Cup]]). It has participated eleven times in the [[Copa América]], finishing as runners-up twice ([[1993 Copa América|1993]] and [[2001 Copa América|2001]]) and finishing in third place three times. It also participated three times in the [[Panamerican Championship]], finishing in third place in [[1960 Panamerican Championship|1960]].
+
+Regionally, the team won two [[North American Football Confederation#NAFC Championship|NAFC Championship]] titles, one [[North American Nations Cup]], and two gold medals at the [[Football at the Central American and Caribbean Games|Central American and Caribbean Games]].
+
+It is one of eight nations{{efn|Along with Germany, Brazil, Italy, Argentina, France, Spain, and Uruguay.}} to have won two of the three most important global football competitions that are recognized and endorsed by FIFA (World Cup, Confederations Cup, and Olympic football tournament), winning the 1999 Confederations Cup<ref>{{cite news|url=https://www.supersport.com/football/fifa-confederations-cup/mexico-1999|title=Mexico 1999|website=SuperSport.com|access-date=25 August 2018|archive-date=16 June 2013|archive-url=https://web.archive.org/web/20130616014724/https://www.supersport.com/football/fifa-confederations-cup/mexico-1999|url-status=live}}</ref> with the senior team and the [[Football at the 2012 Summer Olympics – Men's tournament|2012 Olympic football tournament]]<ref>{{cite news |url=https://www.nytimes.com/2012/08/12/sports/olympics/mexico-downs-brazil-in-olympics-soccer.html |title=Mexico Has Its Moment in Upset Over Brazil |work=The New York Times |date=11 August 2012 |access-date=25 August 2018 |last1=Borden |first1=Sam |archive-date=29 June 2018 |archive-url=https://web.archive.org/web/20180629102340/https://www.nytimes.com/2012/08/12/sports/olympics/mexico-downs-brazil-in-olympics-soccer.html |url-status=live }}</ref> with the under-23 team.
+
+==History==
+===Early years===
+Football in Mexico was first organized in the early 20th century by [[European ethnic groups|European]] immigrant groups, notably miners from [[Cornwall]], England, and in later years [[Spain|Spanish]] exiles fleeing the [[Spanish Civil War]].
+
+The team's first match was played on 9 December 1923 at ''Parque España'' in Mexico City, beating [[Guatemala national football team|Guatemala]] 2–1, which was the first match of a series of international friendlies played against Guatemala. The second match played on 12 December was won by Mexico 2–0, and the final match of the series, played on 16 December, ended in a 3–3 draw.<ref name="Femexfut">{{cite web| title=History of the National football team| website=femexfut.org.mx| publisher=[[Mexican Football Federation]]| url=http://www.femexfut.org.mx/portalv2/(wor2cn45znbm4tnjnmy11j45)/default.aspx#top| access-date=1 May 2008| archive-date=30 April 2008| archive-url=https://web.archive.org/web/20080430220731/http://www.femexfut.org.mx/portalv2/(zvexh045l2gd5k45v4s1qp45)/default.aspx#top| url-status=live}}</ref> The manager for this team was [[Rafael Garza Gutiérrez]].<ref name="Femexfut"/>
+
+It would be another four years before the national team would be represented in international friendlies. Mexico faced Spain, drawing 3–3 on 19 June 1927. During this series, the team also played against [[Nacional de Montevideo]], losing 1–3.<ref name="The Start; El Comienzo">{{cite web| title=The Start; El Comienzo| publisher=[[Televisa]]| url=http://www.esmas.com/seleccionmexicana/historia/313563.html| access-date=1 May 2008| archive-date=4 October 2003| archive-url=https://web.archive.org/web/20031004084233/http://www.esmas.com/seleccionmexicana/historia/313563.html| url-status=dead}}</ref>
+
+===Formation===
+[[File:Mexico 1930 vs france.jpg|thumb|left|The Mexico national team before the first ever [[FIFA World Cup|World Cup]] game against [[France national football team|France]] in [[1930 FIFA World Cup|1930]]]]
+
+In 1927, the first official governing [[association football|football]] body in Mexico was founded. The [[Football at the 1928 Summer Olympics|1928 Olympic Football Tournament]] was Mexico's first official international competition, where Mexico lost to Spain 1–7 in the round of 16.<ref>{{cite web| title=The First Olympics| publisher=[[Televisa]]| url=http://www.esmas.com/seleccionmexicana/historia/313563.html| access-date=1 May 2008| archive-date=4 October 2003| archive-url=https://web.archive.org/web/20031004084233/http://www.esmas.com/seleccionmexicana/historia/313563.html| url-status=dead}}</ref>
+
+Mexico participated in the inaugural [[1930 FIFA World Cup]] in Uruguay, grouped with [[Argentina national football team|Argentina]], [[Chile national football team|Chile]], and [[France national football team|France]]. Mexico took part in the first World Cup match ever, a 4–1 loss to France, with Mexico's first World Cup goal scored by [[Juan Carreño]].<ref>{{cite web| title=Mexico-France Match Report| publisher=FIFA| url=http://fifaworldcup.yahoo.com/06/en/w/pwc/mr_1086.html| access-date=19 June 2008| archive-date=11 March 2007| archive-url=https://web.archive.org/web/20070311125352/http://fifaworldcup.yahoo.com/06/en/w/pwc/mr_1086.html| url-status=live}}</ref> In their second match, Mexico fell to Chile 3–0. Mexico's third match, against Argentina, featured the first [[Penalty kick (association football)|penalty]] of the tournament, scored by Mexico's [[Manuel Rosas (footballer, born 1912)|Manuel Rosas]], although Mexico would go on to lose this match by a score of 6–3.<ref>{{cite web| title=Six countries entered bidding for first World Cup. Hello.| work=The Times of India| url=http://sport.indiatimes.com/soccerarticleshow/1533342.cms| access-date=7 May 2007| archive-date=15 June 2006| archive-url=https://web.archive.org/web/20060615213553/http://sport.indiatimes.com/soccerarticleshow/1533342.cms| url-status=live}}</ref>
+
+===Post-WWII===
+[[File:México en el Panamericano 1952, Estadio, 1952-04-12 (465).jpg|thumb|left|Mexican squad in April 1952]]
+Mexico did not appear in another World Cup tournament until [[1950 FIFA World Cup|1950]]. Despite being the strongest team in the [[North American Football Confederation]] and its successor, CONCACAF, Mexico struggled to make much of an impact in the World Cup before 1970, and found it difficult to compete against [[UEFA|European]] and [[Conmebol|South American]] teams.  However, goalkeeper [[Antonio Carbajal]] has the distinction of being the first player ever to appear in five consecutive World Cups.<ref>{{cite web|url=http://es.fifa.com/newscentre/news/newsid=94525.html|archive-url=https://web.archive.org/web/20100617213754/http://es.fifa.com/newscentre/news/newsid=94525.html|url-status=dead|archive-date=17 June 2010|title=Antonio Carbajal, el eterno Cinco Copas|language=es|publisher=FIFA|date=26 October 2004}}</ref>
+
+In 1965, Mexico won the [[1965 CONCACAF Championship]] to become continental champions for the first time.
+
+[[File:Argentina v mexico 1985.jpg|thumb|Mexico vs. [[Argentina national football team|Argentina]] in [[Los Angeles]], 1985]]
+Mexico hosted the [[1970 FIFA World Cup|1970 World Cup]] and kicked off their campaign with a scoreless draw against the [[Soviet Union national football team|Soviet Union]], followed by a 4–0 win over [[El Salvador national football team|El Salvador]]. Mexico advanced to the next round with a victory against [[Belgium national football team|Belgium]], and in the quarter-finals, Mexico was eliminated by [[Italy national football team|Italy]], losing 4–1.
+
+Mexico failed to qualify for the [[1974 World Cup]] in [[West Germany]], but qualified in [[1978 FIFA World Cup|1978]] where they suffered an early exit after three defeats: 0–6 against [[West Germany national football team|West Germany]], 1–3 against [[Tunisia national football team|Tunisia]], and 1–3 to [[Poland national football team|Poland]]. Mexico failed to qualify for the [[1982 FIFA World Cup|1982 World Cup]].
+
+In 1986, Mexico again hosted the [[1986 FIFA World Cup|World Cup]]. Coached by [[Bora Milutinović]], Mexico was placed in [[1986 FIFA World Cup Group B|Group B]] where they defeated Belgium 2–1, drew 1–1 with [[Paraguay national football team|Paraguay]], and defeated [[Iraq national football team|Iraq]] 1–0. El Tri topped their group, and advanced to the next round where they defeated [[Bulgaria national football team|Bulgaria]] 2–0. In the quarter-finals, Mexico lost to West Germany 1–4 in a [[Penalty shootout (football)|penalty shootout]] after the match finished 0–0.
+
+====1990s====
+Mexico was disqualified from the [[1990 FIFA World Cup]] (and other international competitions) after using players over the age limit in the qualifying round for the [[1989 FIFA World Youth Championship]], known as the "''[[Cachirules]]''" scandal. The punishment was applied to all Mexico national representatives of all FIFA-sanctioned tournaments.<ref>{{cite web|title=Mexico Given Ban In Soccer|url=https://www.nytimes.com/1988/07/01/sports/mexico-given-ban-in-soccer.html|work=The New York Times|date=1 July 1988|access-date=14 June 2013|archive-date=2 July 2018|archive-url=https://web.archive.org/web/20180702210208/https://www.nytimes.com/1988/07/01/sports/mexico-given-ban-in-soccer.html|url-status=live}}</ref>
+
+In the 1990s, after hiring coach [[César Luis Menotti]], Mexican football began experiencing greater international success. In the [[1993 Copa América]] they finished second, losing to Argentina 2–1 in the final. At the [[1994 FIFA World Cup]] in the United States, Mexico won its group on tiebreakers, emerging from a group composed of Italy, [[Republic of Ireland national football team|Ireland]], and [[Norway national football team|Norway]]. However, Mexico lost in the round of 16 to Bulgaria on penalty kicks.
+
+At the [[1998 FIFA World Cup]], Mexico was placed in a group with the [[Netherlands national football team|Netherlands]], [[South Korea national football team|South Korea]] and Belgium. Mexico won their opening fixture 3–1 against South Korea, drew Belgium 2–2, and against the Netherlands with the same score, qualifying for the round of 16. In that round, Mexico lost 2–1 to [[Germany national football team|Germany]].
+
+In 1999, Mexico won its first official FIFA tournament by becoming the first host nation to win the [[1999 FIFA Confederations Cup|FIFA Confederations Cup]]. Mexico defeated the [[United States men's national soccer team|United States]] 1–0 in the semi-finals, and 1998 World Cup runners-up [[Brazil national football team|Brazil]] 4–3 in the [[1999 FIFA Confederations Cup Final|final]].<ref>{{cite web|title=Mexico stun Brazil in thrilling Azteca final |url=https://www.fifa.com/confederationscup/news/y=2014/m=8/news=mexico-stun-brazil-in-thrilling-azteca-final-2415570.html |archive-url=https://web.archive.org/web/20151009033937/http://www.fifa.com/confederationscup/news/y=2014/m=8/news=mexico-stun-brazil-in-thrilling-azteca-final-2415570.html |url-status=dead |archive-date=9 October 2015 |publisher=FIFA}}</ref>
+
+===21st century===
+====2000s====
+Mexico was placed in [[2002 FIFA World Cup&nbsp;– Group G|Group G]] at the [[2002 FIFA World Cup|2002 World Cup]] alongside Italy, [[Croatia national football team|Croatia]], and [[Ecuador national football team|Ecuador]]. Mexico started with a 1–0 win over Croatia. In the second match, Mexico earned a 2–1 win over Ecuador. Mexico then achieved a 1–1 draw against Italy. In the round of 16, Mexico played rivals [[United States men's national soccer team|United States]], losing 2–0.
+
+[[File:FIFA World Cup 2006 - ARG vs MEX.jpg|thumb|280px|right|Mexico against Argentina at the [[2006 FIFA World Cup]]]]
+Mexico was one of eight seeded teams at the [[2006 FIFA World Cup|2006 World Cup]] in Germany, and entered [[2006 FIFA World Cup Group D|Group D]], being drawn with [[Iran national football team|Iran]], [[Angola national football team|Angola]] and [[Portugal national football team|Portugal]]. Mexico won their opening match 3–1 against Iran. In their second match, Mexico played to a 0–0 draw against Angola. After losing to Portugal 2–1, Mexico reached the round of 16, where they would be eliminated again, this time to Argentina, 2–1. Mexico's coach [[Ricardo Lavolpe]] stepped down after the tournament, and was succeeded by Hugo Sánchez.
+
+After losing the final match of the [[2007 CONCACAF Gold Cup]] 1–2 against the United States, Mexico successfully rebounded at the [[2007 Copa América]]. Beginning by beating Brazil 2–0, they then defeated Ecuador and tied with Chile to come first in [[2007 Copa America#Group B|Group B]]. In the quarter-finals, Mexico beat Paraguay 6–0, but lost in the semi-finals 3–0 to Argentina. Mexico secured third place against Uruguay, winning 3–1.
+
+In July 2009, Mexico won their fifth [[CONCACAF Gold Cup|Gold Cup]], and eighth [[CONCACAF Championship]] overall, after beating the United States 5–0 in the [[2009 CONCACAF Gold Cup final|final]].<ref>{{cite news|url=https://www.nytimes.com/2009/07/27/sports/soccer/27soccer.html?em|title=Mexico Thumps U.S. to Win Gold Cup|date=26 July 2009|work=[[The New York Times]]|access-date=27 July 2009|first=Jeré|last=Longman|archive-date=5 November 2011|archive-url=https://web.archive.org/web/20111105061544/http://www.nytimes.com/2009/07/27/sports/soccer/27soccer.html?em|url-status=live}}</ref>
+
+====2010s====
+[[File:FIFA World Cup 2010 France Mexico.jpg|thumbnail|250px|right|[[Cuauhtémoc Blanco]] converting his penalty kick against [[France national football team|France]] at the [[2010 FIFA World Cup]]]]
+Mexico qualified for the [[2010 FIFA World Cup]], where they were drawn into [[2010 FIFA World Cup Group A|Group A]] alongside host [[South Africa national football team|South Africa]], France and Uruguay. They drew 1–1 against South Africa, defeated France 2–0, and lost 1–0 to Uruguay, and advanced to the round of 16, where they were eliminated following another defeat to Argentina, 1–3.
+
+The [[2011 CONCACAF Gold Cup]] saw Mexico win their group with three wins and no losses. During the tournament, however, five players tested positive for the banned substance [[clenbuterol]] and were suspended from the competition.<ref>[http://goal.blogs.nytimes.com/2011/06/09/five-mexico-players-suspended-for-failed-drug-test/ "Five Mexico players suspended for failed drug test"]. ''The New York Times''. Retrieved 9 June 2011.</ref> Mexico beat [[Guatemala national football team|Guatemala]] in the quarter-finals 2–1, and [[Honduras national football team|Honduras]] 2–0 in the semi-finals. For the third-straight year, the [[2011 CONCACAF Gold Cup Final|final]] would be contested between Mexico and the United States; Mexico won the match 4–2,<ref>{{cite news|url=https://www.nytimes.com/2011/06/26/sports/soccer/in-an-early-2-0-hole-mexico-storms-back-to-win-the-gold-cup.html?_r=1&ref=soccer|title=In an Early 2–0 Hole, Mexico Storms Back to Win the Gold Cup|date=26 June 2011|work=[[The New York Times]]|access-date=27 June 2011|archive-date=13 November 2013|archive-url=https://web.archive.org/web/20131113114908/http://www.nytimes.com/2011/06/26/sports/soccer/in-an-early-2-0-hole-mexico-storms-back-to-win-the-gold-cup.html?_r=1&ref=soccer|url-status=live}}</ref> and qualified for the [[2013 FIFA Confederations Cup]] in Brazil, where they were eliminated at the group stage.
+
+Mexico placed second in their [[2013 CONCACAF Gold Cup Group A|group]] at the [[2013 CONCACAF Gold Cup]], and advanced to the semi-finals and faced [[Panama national football team|Panama]].<ref name=FXGC13>{{cite web | url=http://msn.foxsports.com/foxsoccer/goldcup/fixtures | title=Fox Soccer Gold Cup Schedules | access-date=13 August 2013 | archive-date=7 August 2013 | archive-url=https://web.archive.org/web/20130807222324/http://msn.foxsports.com/foxsoccer/goldcup/fixtures | url-status=live }}</ref> Mexico lost the match 2–1, their second defeat to Panama in the competition after losing to them in the group stage. The two losses to Panama were the first two times Panama had ever defeated Mexico in a Gold Cup match.<ref name=BRGC13>{{cite web | url=https://bleacherreport.com/articles/1715616-gold-cup-2013-results-scores-and-highlights-from-mexico-vs-panama | title=Gold Cup 2013 Results: Scores and Highlights from Mexico vs. Panama | first=Ryan | last=Rudnansky | website=[[Bleacher Report]] | date=25 July 2013 | access-date=13 August 2013 | archive-date=28 July 2013 | archive-url=https://web.archive.org/web/20130728045613/http://bleacherreport.com/articles/1715616-gold-cup-2013-results-scores-and-highlights-from-mexico-vs-panama | url-status=live }}</ref>
+
+Mexico won only two of ten matches during the [[2014 FIFA World Cup qualification – CONCACAF fourth round|fourth round]] of [[2014 FIFA World Cup qualification (CONCACAF)|2014 World Cup qualifying]], but qualified for an [[2014 FIFA World Cup qualification (inter-confederation play-offs)|intercontinental play-off]] as the fourth-highest placed team in the CONCACAF region.<ref name=nz>{{cite news|url=https://www.bbc.com/sport/0/football/25014361|title=Mexico beat New Zealand for 2014 World Cup place|date=20 November 2014|access-date=28 April 2014|publisher=BBC Sport|archive-date=1 May 2014|archive-url=https://web.archive.org/web/20140501123440/http://www.bbc.com/sport/0/football/25014361|url-status=live}}</ref> They defeated [[New Zealand men's national football team|New Zealand]] [[2014 FIFA World Cup qualification (CONCACAF–OFC play-off)|9–3 on aggregate]] to qualify for a sixth consecutive World Cup.<ref name=nz/> The team reached the [[2014 FIFA World Cup knockout stage#Round of 16|round of 16]] where they were defeated 2–1 by the Netherlands.<ref>{{cite news|url=https://www.theguardian.com/football/2014/jun/29/holland-mexico-world-cup-2014-last-16-match-report|title=Holland come from behind to snatch last-gasp victory against Mexico|date=30 June 2014|access-date=5 April 2015|work=The Guardian|archive-date=4 April 2019|archive-url=https://web.archive.org/web/20190404113812/https://www.theguardian.com/football/2014/jun/29/holland-mexico-world-cup-2014-last-16-match-report|url-status=live}}</ref>
+
+At the [[2015 CONCACAF Gold Cup]], Mexico was drawn into [[2015 CONCACAF Gold Cup Group C|Group C]] along with [[Trinidad and Tobago national football team|Trinidad and Tobago]], [[Cuba national football team|Cuba]] and Guatemala. The team placed second in the group, and won the quarterfinal match against [[Costa Rica national football team|Costa Rica]] and semi-final against Panama, both under controversial circumstances.<ref>{{cite news|last= Schwartz|first= Nick|date= 19 July 2015|title= Costa Rica loses to Mexico in heartbreaking fashion after awful penalty call in extra time|url= http://ftw.usatoday.com/2015/07/mexico-costa-rica-penalty-gold-cup|newspaper= USA Today|access-date= 31 July 2015|archive-date= 7 April 2022|archive-url= https://web.archive.org/web/20220407091545/https://ftw.usatoday.com/2015/07/mexico-costa-rica-penalty-gold-cup|url-status= live}}</ref><ref>{{cite news|last= McCarthy|first= Kyle|date= 22 July 2015|title= Mexico advance to Gold Cup final amid controversial calls vs. Panama|url= http://www.foxsports.com/soccer/gold-cup/story/mexico-advance-gold-cup-final-controversial-calls-panama-2-1-andres-guardado-match-report-072215|newspaper= FoxSports|access-date= 31 July 2015|archive-date= 23 February 2020|archive-url= https://web.archive.org/web/20200223153726/https://www.foxsports.com/soccer/gold-cup/story/mexico-advance-gold-cup-final-controversial-calls-panama-2-1-andres-guardado-match-report-072215|url-status= live}}</ref><ref>{{cite news|last= Longman|first= Jeré|date= 23 July 2015|title= Messy Mexico-Panama Semifinal Leaves a Stain on Concacaf|url= https://www.nytimes.com/2015/07/24/sports/soccer/messy-mexico-panama-semifinal-worthy-of-concacaf.html?_r=0|newspaper= The New York Times|access-date= 31 July 2015|archive-date= 7 December 2021|archive-url= https://web.archive.org/web/20211207152655/https://www.nytimes.com/2015/07/24/sports/soccer/messy-mexico-panama-semifinal-worthy-of-concacaf.html?_r=0|url-status= live}}</ref> Mexico won the Gold Cup after defeating [[Jamaica national football team|Jamaica]] 3–1 in the [[2015 CONCACAF Gold Cup Final|final]].<ref>{{cite web|url=https://www.bbc.com/sport/0/football/33670944|title=Mexico 3 Jamaica 1|date=25 July 2015|work=BBC Sport|access-date=27 July 2015|archive-date=6 October 2015|archive-url=https://web.archive.org/web/20151006232201/http://www.bbc.com/sport/0/football/33670944|url-status=live}}</ref> Two days after the final, [[Miguel Herrera]] was released as coach of the national team after an alleged physical altercation with [[TV Azteca]] announcer Christian Martinoli.<ref>{{cite web|last=Hill|first=Tim|date=28 July 2015|title=Mexico coach Miguel Herrera fired after fight with journalist|url=https://www.theguardian.com/football/2015/jul/28/mexico-coach-miguel-herrera-fired|work=The Guardian|access-date=28 July 2015|archive-date=11 August 2015|archive-url=https://web.archive.org/web/20150811173547/http://www.theguardian.com/football/2015/jul/28/mexico-coach-miguel-herrera-fired|url-status=live}}</ref> On 10 October, Mexico defeated the United States 3–2 to win the inaugural edition of the [[2015 CONCACAF Cup|CONCACAF Cup]], thus earning qualification to the [[2017 FIFA Confederations Cup]] in Russia.<ref>{{cite web|title=Mexico claim CONCACAF's spot at Confederations Cup|url=https://www.fifa.com/confederationscup/news/y=2015/m=10/news=mexico-claim-concacaf-s-spot-at-confederations-cup-2710781.html|archive-url=https://web.archive.org/web/20151012142539/http://www.fifa.com/confederationscup/news/y=2015/m=10/news=mexico-claim-concacaf-s-spot-at-confederations-cup-2710781.html|url-status=dead|archive-date=12 October 2015|website=FIFA.com|access-date=28 November 2016|date=11 October 2015}}</ref> The following month, [[Juan Carlos Osorio]] was hired as Mexico's 16th manager, replacing interim manager [[Ricardo Ferretti]].<ref>{{cite news |last=Parker |first=Graham |date=10 October 2015 |title=Uncertainty prevails on both sides as USA host Mexico at Rose Bowl |url=https://www.theguardian.com/football/2015/oct/10/uncertainty-prevails-on-both-sides-as-usa-host-mexico-at-rose-bowl |newspaper=The Guardian |access-date=19 June 2016 |archive-date=15 June 2016 |archive-url=https://web.archive.org/web/20160615154354/https://www.theguardian.com/football/2015/oct/10/uncertainty-prevails-on-both-sides-as-usa-host-mexico-at-rose-bowl |url-status=live }}</ref>
+
+Mexico entered the [[Copa América Centenario]], hosted in the United States, on a 19-match unbeaten streak that began in June 2015.<ref>{{cite news |last=Arnold |first=Jon |date=3 June 2016 |title=Both Mexico, Uruguay dismiss El Tri streak as factor |url=http://www.goal.com/en-us/news/587/copa-america/2016/06/03/24257092/both-mexico-uruguay-dismiss-el-tri-streak-as-factor |work=Goal.com |access-date=19 June 2016 |archive-date=4 July 2016 |archive-url=https://web.archive.org/web/20160704163429/http://www.goal.com/en-us/news/587/copa-america/2016/06/03/24257092/both-mexico-uruguay-dismiss-el-tri-streak-as-factor |url-status=live }}</ref> El Tri placed first in [[Copa América Centenario Group C|Group C]], winning 3–1 over [[Uruguay national football team|Uruguay]] and 2–0 over Jamaica, and drawing 1–1 with [[Venezuela national football team|Venezuela]].<ref>{{cite news |date=13 June 2016 |title=Copa América: Mexico through as group winners after draw with Venezuela |url=https://www.theguardian.com/football/2016/jun/13/mexico-venezuela-result-copa-america-2016 |agency=[[Associated Press]] |newspaper=The Guardian |access-date=19 June 2016 |archive-date=15 June 2016 |archive-url=https://web.archive.org/web/20160615102815/https://www.theguardian.com/football/2016/jun/13/mexico-venezuela-result-copa-america-2016 |url-status=live }}</ref> In the quarter-final against [[Chile national football team|Chile]] in [[Santa Clara, California]], the team lost 7–0, ending the unbeaten streak at 22 after nearly a year.<ref>{{cite news |last=Tucker |first=Duncan |date=19 June 2016 |title=Chile humiliate Mexico in 7–0 thrashing to advance to Copa América semi-final |url=https://www.theguardian.com/football/2016/jun/19/chile-humiliate-mexico-7-0-quarter-final |newspaper=The Guardian |access-date=19 June 2016 |archive-date=14 April 2019 |archive-url=https://web.archive.org/web/20190414064200/https://www.theguardian.com/football/2016/jun/19/chile-humiliate-mexico-7-0-quarter-final |url-status=live }}</ref> After the match, manager Osorio apologized to Mexico's fans for what he described as an "embarrassment, an accident of football".<ref>{{cite news |last=Arnold |first=Jon |date=19 June 2016 |title=Osorio, Mexico players apologize to Mexican fans after defeat |url=http://www.goal.com/en-ca/news/4197/copa-america/2016/06/19/24787552/osorio-mexico-players-apologize-to-mexican-fans-after-defeat |work=Goal.com |access-date=19 June 2016 |archive-date=22 June 2016 |archive-url=https://web.archive.org/web/20160622034047/http://www.goal.com/en-ca/news/4197/copa-america/2016/06/19/24787552/osorio-mexico-players-apologize-to-mexican-fans-after-defeat |url-status=live }}</ref>
+
+At the 2017 Confederations Cup, Mexico was drawn into Group A along with Portugal, New Zealand, and hosts [[Russia national football team|Russia]]. El Tri advanced as runners-up of the group, and lost 4–1 to Germany in the semi-finals.<ref>{{cite web|url=http://www.espnfc.com/mexico/story/3150755/juan-carlos-osorio-calls-germanys-4-1-victory-an-unfair-scoreline-to-mexico|title=Juan Carlos Osorio: Germany's 4–1 victory 'unfair' scoreline to Mexico|publisher=[[ESPN]]|date=29 June 2017|access-date=2 July 2017|archive-date=2 July 2017|archive-url=https://web.archive.org/web/20170702123502/http://www.espnfc.com/mexico/story/3150755/juan-carlos-osorio-calls-germanys-4-1-victory-an-unfair-scoreline-to-mexico|url-status=live}}</ref> Mexico finished fourth in the tournament, losing 2–1 to Portugal in the third-place match.<ref>{{cite web|url=http://www.espn.com/soccer/blog/the-match/60/post/3151315/portugal-end-confederations-cup-with-comeback-win-vs-mexico|title=Portugal earn comeback win vs. Mexico in controversy-filled third-place game|publisher=ESPN|date=2 July 2017|access-date=2 July 2017|archive-date=14 April 2018|archive-url=https://web.archive.org/web/20180414010928/http://www.espn.com/soccer/blog/the-match/60/post/3151315/portugal-end-confederations-cup-with-comeback-win-vs-mexico|url-status=live}}</ref>
+
+[[File:Ger-Mex_(16).jpg|thumb|right|200px|[[Héctor Herrera]] and [[Mesut Özil]] (Mexico v [[Germany national football team|Germany]]) at the [[2018 FIFA World Cup]]]]
+In their opening match of the [[2018 FIFA World Cup]], Mexico defeated defending champion Germany, thanks to a sole goal from [[Hirving Lozano]], for the first time in a World Cup match.<ref>{{cite web |title=Lozano the hero as Mexico stun Germany |date=17 June 2018 |url=http://www.espn.com/soccer/club/mexico/203/blog/post/3530354/mexico-stun-germany-hirving-lozano-the-hero-in-moscow |publisher=ESPN |access-date=17 June 2018 |archive-date=18 June 2018 |archive-url=https://web.archive.org/web/20180618002822/http://www.espn.com/soccer/club/mexico/203/blog/post/3530354/mexico-stun-germany-hirving-lozano-the-hero-in-moscow |url-status=live }}</ref> They would go on to defeat [[South Korea national football team|South Korea]] 2–1 in their next match,<ref>{{cite news |author=AP |author-link=Associated Press |title=Mexico defeats South Korea 2–1, leads Group F in World Cup |url=http://abc7.com/sports/mexico-defeats-south-korea-2-1-in-world-cup/3642252/ |date=25 June 2018 |access-date=3 July 2018 |work=[[KABC-TV]] |publisher=[[ABC Inc.]] |archive-date=3 July 2018 |archive-url=https://web.archive.org/web/20180703133508/http://abc7.com/sports/mexico-defeats-south-korea-2-1-in-world-cup/3642252/ |url-status=live }}</ref> with goals from [[Carlos Vela]] and [[Javier Hernández]],<ref>{{cite news |last=Bates |first=Steve |title=South Korea 1–2 Mexico REPORT: Arsenal flop Carlos Vela sets World Cup 2018 Group F leaders on their way to victory |url=https://www.mirror.co.uk/sport/football/match-reports/south-korea-mexico-live-score-12573260 |date=23 June 2018 |access-date=3 July 2018 |newspaper=[[The Daily Mirror]] |archive-date=3 July 2018 |archive-url=https://web.archive.org/web/20180703134923/https://www.mirror.co.uk/sport/football/match-reports/south-korea-mexico-live-score-12573260 |url-status=live }}</ref><ref>{{cite news |title=Carlos Vela, Javier Hernandez score in Mexico's 2–1 win over South Korea |url=https://www.business-standard.com/article/sports/fifa-world-cup-2018-south-korea-vs-mexico-live-score-group-f-match-free-streaming-details-world-cup-news-russia-118062300531_1.html |date=23 June 2018 |access-date=3 July 2018 |newspaper=[[Business Standard]] |archive-date=3 July 2018 |archive-url=https://web.archive.org/web/20180703133755/https://www.business-standard.com/article/sports/fifa-world-cup-2018-south-korea-vs-mexico-live-score-group-f-match-free-streaming-details-world-cup-news-russia-118062300531_1.html |url-status=live }}</ref> before falling 3–0 to [[Sweden men's national football team|Sweden]] in the last group stage match.<ref>{{cite news |last1=Keh |first1=Andrew |last2=Wagner |first2=James |title=Mexico Loses to Sweden. Mexico Advances. Celebrate? |url=https://www.nytimes.com/2018/06/27/sports/world-cup/mexico-vs-sweden.html |date=27 June 2018 |access-date=3 July 2018 |newspaper=[[New York Times]] |archive-date=3 July 2018 |archive-url=https://web.archive.org/web/20180703133815/https://www.nytimes.com/2018/06/27/sports/world-cup/mexico-vs-sweden.html |url-status=live }}</ref> Despite the loss, Mexico qualified to the round of 16 for the seventh-consecutive tournament.<ref>{{cite news |last=Lawrence |first=Amy |title=Sweden cruise to victory over Mexico as both qualify for World Cup last 16 |url=https://www.theguardian.com/football/2018/jun/27/mexico-sweden-world-cup-group-f-match-report |date=27 June 2018 |access-date=3 July 2018 |newspaper=[[The Guardian]] |publisher=[[Guardian News and Media Limited]] |archive-date=2 July 2018 |archive-url=https://web.archive.org/web/20180702181655/https://www.theguardian.com/football/2018/jun/27/mexico-sweden-world-cup-group-f-match-report |url-status=live }}</ref> In the [[2018 FIFA World Cup knockout stage#Round of 16|round of 16]], Mexico was defeated 2–0 by [[Brazil national football team|Brazil]];<ref>{{cite news |last=Macrae |first=Alexander |title=Brazil defeat Mexico 2–0, advance to quarterfinals |url=http://www.euronews.com/2018/07/02/world-cup-live-mexico-v-brazil |date=2 July 2018 |access-date=3 July 2018 |work=[[Euronews]] |archive-date=2 July 2018 |archive-url=https://web.archive.org/web/20180702155854/http://www.euronews.com/2018/07/02/world-cup-live-mexico-v-brazil |url-status=live }}</ref><ref>{{cite news |last=Gonzalez |first=Roger |title=Brazil vs. Mexico final score, recap: Neymar scores, Brazil knocks El Tri out of World Cup |url=https://www.cbssports.com/soccer/world-cup/news/brazil-vs-mexico-final-score-recap-neymar-scores-winner-knock-el-tri-out-of-world-cup/ |date=2 July 2018 |access-date=3 July 2018 |work=[[CBS Sports]] |publisher=[[CBS]] |archive-date=3 July 2018 |archive-url=https://web.archive.org/web/20180703133547/https://www.cbssports.com/soccer/world-cup/news/brazil-vs-mexico-final-score-recap-neymar-scores-winner-knock-el-tri-out-of-world-cup/ |url-status=live }}</ref> the defeat meant that for the seventh tournament in a row, Mexico failed to reach the quarterfinals since they last hosted the World Cup in 1986.<ref>{{cite journal |last=McMahon |first=Bobby |author-link=Bobby McMahon |title=2018 World Cup: Mexico Fails To Crack The Round Of 16 Glass Ceiling For Seventh Time In A Row |url=https://www.forbes.com/sites/bobbymcmahon/2018/07/02/2018-world-cup-mexico-fails-to-crack-the-round-of-16-glass-ceiling-for-seventh-time-in-a-row/#1110beee33f9 |date=2 July 2018 |access-date=3 July 2018 |journal=[[Forbes]] |archive-date=3 July 2018 |archive-url=https://web.archive.org/web/20180703011756/https://www.forbes.com/sites/bobbymcmahon/2018/07/02/2018-world-cup-mexico-fails-to-crack-the-round-of-16-glass-ceiling-for-seventh-time-in-a-row/#1110beee33f9 |url-status=live }}</ref> On 28 July, Juan Carlos Osorio left as head coach on the expiry of his contract.<ref>{{cite news |url=https://www.bbc.com/sport/football/44992206 |title=Juan Carlos Osorio: Mexico manager quits after three years |publisher=BBC Sport |access-date=28 July 2018 |archive-date=28 July 2018 |archive-url=https://web.archive.org/web/20180728190835/https://www.bbc.com/sport/football/44992206 |url-status=live }}</ref>
+
+In January 2019, [[Gerardo Martino]] was appointed as Mexico's new head coach, becoming the third Argentine to coach the national team.<ref>{{cite news |url=https://www.nytimes.com/2019/01/07/sports/tata-martino-mexio.html |title=Tata Martino Is Named Mexico's National Team Coach |newspaper=[[New York Times]] |access-date=7 January 2019 |archive-date=7 July 2019 |archive-url=https://web.archive.org/web/20190707215757/https://www.nytimes.com/2019/01/07/sports/tata-martino-mexio.html |url-status=live }}</ref> In [[2019 CONCACAF Gold Cup|that year's Gold Cup tournament]], they won all three group stage matches, defeated Costa Rica in penalties 5–4 following a 1–1 draw in the quarter-final and won against Haiti in the semi-final. Mexico won the Gold Cup after defeating the United States 1–0 in the [[2019 CONCACAF Gold Cup Final|final]].<ref>{{cite magazine|title=Mexico Turns Tide, Wins Gold Cup Title Again vs. Wasteful USMNT|url=https://www.si.com/soccer/2019/07/07/mexico-usa-gold-cup-title-dos-santos-pizarro-pulisic-berhalter|magazine=[[Sports Illustrated]]|first=Brian|last=Straus|date=7 July 2019}}</ref>
+
+====2020s====
+Mexico finished runners-up in the [[2021 CONCACAF Nations League Final]] and the [[2021 CONCACAF Gold Cup]], both in losses to the [[United States men's national soccer team|United States]]. At the [[2022 FIFA World Cup]] in [[Qatar]], Mexico finished third in [[2022 FIFA World Cup Group C|Group C]] behind [[Argentina national football team|Argentina]] and [[Poland national football team|Poland]] (due to goal difference), making it the first time since [[1978 FIFA World Cup|1978]] that Mexico were eliminated in the group stage (the 1982 and 1990 World Cup tournaments, in which Mexico did not participate, notwithstanding). This led to the end of Mexico's streak of reaching the round of 16 (which it had done in the previous seven World Cups), and as a result head coach Gerardo Martino stepped down immediately after the elimination.<ref>{{cite magazine|date=November 30, 2022|title=Mexico Coach Tata Martino Out After World Cup Elimination|url=https://www.si.com/soccer/2022/12/01/mexico-coach-tata-martino-out-after-world-cup-elimination|access-date=December 1, 2022|magazine=Sports Illustrated}}</ref>
+
+In February 2023, [[Diego Cocca]] was appointed as the new head coach, the fourth Argentine to take the job.<ref>{{cite web|url=https://www.espn.com/soccer/mexico-mex/story/4873370/mexico-confirm-ex-tigres-boss-diego-cocca-as-new-head-coach|title=Diego Cocca confirmed as new Mexico coach|date=10 February 2023|publisher=ESPN|access-date=10 February 2023|archive-date=10 February 2023|archive-url=https://web.archive.org/web/20230210222505/https://www.espn.com/soccer/mexico-mex/story/4873370/mexico-confirm-ex-tigres-boss-diego-cocca-as-new-head-coach|url-status=live}}</ref> The same month, Mexico automatically qualified for the [[2026 FIFA World Cup|2026 World Cup]] as co-host. In the [[2023 CONCACAF Nations League Finals|2023 CONCACAF Nations League semi-finals]], Mexico suffered a 0–3 defeat to the United States, which caused even more widespread outrage in Mexico.<ref>{{cite news|title=USMNT defeats Mexico to advance to CONCACAF Nations League final, Christian Pulisic scores 2 goals|url=https://www.nytimes.com/athletic/4615229/2023/06/16/usmnt-mexico-concacaf-nations-league/|work=The Athletic|date=16 June 2023 |access-date=16 June 2023|archive-date=16 June 2023|archive-url=https://web.archive.org/web/20230616135353/https://theathletic.com/4615229/2023/06/16/usmnt-mexico-concacaf-nations-league/|url-status=live}}</ref> They defeated Panama 1–0 in the third place match that was largely boycotted by Mexican fans;<ref>{{Cite web |last=Brennan |first=Joe |date=2023-06-18 |title=Mexico fans boycott third-place game against Panama after USMNT defeat |url=https://en.as.com/soccer/mexico-fans-boycott-third-place-game-against-panama-after-usmnt-defeat-n/ |access-date=2023-08-25 |website=Diario AS |language=en-us}}</ref> the following day, Cocca was dismissed from his post, with [[Jaime Lozano]] appointed on an interim basis to take charge for the [[2023 CONCACAF Gold Cup|forthcoming Gold Cup]].<ref>{{cite web|title=Diego Cocca dismissed as Mexico manager after just four months in charge following Nations League rout by USMNT|url=https://www.goal.com/en-us/news/diego-cocca-dismissed-mexico-manager-four-months-nations-league-rout-usmnt/blt2d820fa3f7bb4f61|publisher=[[Goal (website)|Goal]]|access-date=19 June 2023|archive-date=19 June 2023|archive-url=https://web.archive.org/web/20230619211743/https://www.goal.com/en-us/news/diego-cocca-dismissed-mexico-manager-four-months-nations-league-rout-usmnt/blt2d820fa3f7bb4f61|url-status=live}}</ref> Mexico won the tournament, defeating Panama 1–0 in the [[2023 CONCACAF Gold Cup final|final]].<ref>{{Cite web |date=16 July 2023 |title=Mexico beats Panama in Gold Cup final with late Gimenez goal |url=https://www.espn.com/soccer/report/_/gameId/678990 |access-date=17 July 2023 |publisher=ESPN}}</ref> After the win, Lozano was appointed as head coach on a permanent basis.<ref>{{cite web|url=https://www.espn.com/soccer/story?id=38170816|title=Jaime Lozano named permanent men's coach for Mexico|publisher=ESPN|date=11 August 2023}}</ref> However, following an underwhelming group stage exit from the [[2024 Copa América]], on 16 July, Lozano was dismissed from his position.<ref>{{cite web|url=https://www.espn.com/soccer/story/_/id/40566753/mexico-lozano-part-ways-early-copa-america-exit|title=Mexico, Lozano part ways after early Copa América exit
+|publisher=ESPN|date=16 July 2024}}</ref> Six days later, Javier Aguirre was named Mexico's new head coach, his third spell with the national side.<ref>{{cite web|url=https://www.espn.com/soccer/story/_/id/40619552/mexico-javier-aguirre-head-coach-rafa-marquez-assistant|title=Mexico names Javier Aguirre head coach, Rafa Marquez assistant|publisher=ESPN|date=22 July 2024}}</ref> In March 2025, Mexico won its first [[2025 CONCACAF Nations League Finals|Nations League]] title, beating Panama 2–1 in the [[2025 CONCACAF Nations League final|final]] at [[SoFi Stadium]].<ref>{{cite web|title=Mexico beat Panama with stoppage-time penalty for CONCACAF Nations League title|work=Reuters |date=24 March 2025 |url=https://www.reuters.com/sports/soccer/mexico-beat-panama-with-stoppage-time-penalty-concacaf-nations-league-title-2025-03-24/|access-date=24 March 2025}}</ref>
+
+==Home stadium==
+{{Main|Estadio Azteca}}
+[[File:Estadio Azteca1706p2.jpg|thumbnail|right|[[Azteca Stadium]] is the home of the Mexico national team.]]
+The [[Estadio Azteca]], also known in Spanish as "''El Coloso de Santa Úrsula''", was built in 1966. It is the official [[National stadium|home stadium]] of the Mexico national team, as well as the Mexican club team [[Club América]]. It has an official capacity of 87,523,<ref>{{cite web |url=https://digitalhub.fifa.com/m/3c077448dcd5c0ab/original/w3yjeu7dadt5erw26wmu-pdf.pdf |title=2026 FIFA World Cup Bid Book |page=161 |access-date=5 April 2018 |archive-date=15 September 2021 |archive-url=https://web.archive.org/web/20210915131958/https://digitalhub.fifa.com/m/3c077448dcd5c0ab/original/w3yjeu7dadt5erw26wmu-pdf.pdf |url-status=live }}</ref><ref>{{cite web|url=http://stadiumdb.com/news/2016/04/mexico_azteca_to_lose_capacity_again|title=Mexico: Azteca to lose capacity again|website=StadiumDB.com|date=4 April 2016|access-date=10 April 2016|archive-date=8 April 2016|archive-url=https://web.archive.org/web/20160408082831/http://stadiumdb.com/news/2016/04/mexico_azteca_to_lose_capacity_again|url-status=live}}</ref> making it the largest football-specific stadium in the [[Americas]] and the third largest football stadium in the world.{{cn|date=July 2026}} The stadium hosted the [[FIFA World Cup Final]] in [[1970 FIFA World Cup Final|1970]] and [[1986 FIFA World Cup Final|1986]], and the stadium hosted the tournament again in [[2026 FIFA World Cup|2026]].<ref>{{cite news |last=Austin |first=Daniel |date=July 5, 2026 |title=England enter the Azteca - where football kings are crowned |url=https://www.bbc.com/sport/football/articles/cg74e324835o |publisher=BBC Sport |accessdate=July 5, 2026}}</ref>
+
+Friendly matches hosted by the Mexico national team often take place in stadiums across the United States, which are marketed under the branding MEXTOUR by FMF. From 2000 to 2019, the national team played 110 friendlies in the United States, which were criticized as "cash grabs" by fans.<ref>{{cite news |last=Marshall |first=Tom |date=October 27, 2020 |title=FMF chief defends Mexico friendlies in U.S.: 'I will always support these matches' |url=https://www.espn.com/soccer/story/_/id/37608203/fmf-chief-defends-mexico-friendlies-us-always-support-matches |publisher=ESPN |accessdate=March 22, 2024}}</ref> In 2022, the team played 15 matches in the United States and averaged over 52,000 in attendance at each of them; several were played at [[AT&T Stadium]] in [[Arlington, Texas|Dallas]], which El Tri head coach [[Jaime Lozano]] labeled as "the second home of the Mexican national team".<ref>{{cite news |last=Nudelstejer |first=Abraham |date=March 20, 2024 |title=USA prepares for pro-Mexico crowds on home soil, at El Tri's 'second home' AT&T Stadium |url=https://www.dallasnews.com/sports/fc-dallas/2024/03/20/usa-prepares-for-pro-mexico-crowds-on-home-soil-at-el-tris-second-home-of-att-stadium/ |work=[[Dallas Morning News]] |accessdate=March 22, 2024}}</ref> Additional friendlies under the MEXTOUR brand are also played in Mexico, including at the Azteca for special occasions.{{cn|date=March 2024}}
+
+==Team image==
+===Kit===
+{{Commons|Mexico national football team kits}}
+{{Commons|Mexico national football team kits (goalkeeper kits)}}
+The Mexico national team traditionally uses a [[Flag of Mexico|tricolor]] system, composed of green shirts, white shorts and red socks, which originate from the [[Flag of Mexico|national flag of Mexico]], known as the ''tricolor''.<ref>{{Cite web|url=http://mexico.worldcupblog.org/world-cup-2010/adidas-releases-mexicos-2010-kit.html|archive-url=https://web.archive.org/web/20100521045358/http://mexico.worldcupblog.org/world-cup-2010/adidas-releases-mexicos-2010-kit.html|url-status=dead|archive-date=21 May 2010|title=Adidas Releases Mexico's 2010 World Cup Kit – Mexico|date=21 May 2010}}</ref> Until the mid-1950s, Mexico wore a predominantly maroon kit, with black or dark blue shorts.
+
+In 2015, [[Adidas]] released a new all-black color scheme for Mexico's home kit. Green, white and red remain as accent colors.<ref>{{cite news|url=https://www.sbnation.com/soccer/2015/1/30/7952733/mexico-kits-jerseys-adidas-photos|title=Mexico unveil new kits, will not wear green shirts|date=30 January 2015|work=[[SB Nation]]|access-date=10 December 2017|archive-date=18 June 2018|archive-url=https://web.archive.org/web/20180618230358/https://www.sbnation.com/soccer/2015/1/30/7952733/mexico-kits-jerseys-adidas-photos|url-status=live}}</ref>
+
+In 2017, the Mexico national team's jerseys were updated to reflect their Spanish names correctly spelled, with the [[Acute accent|accent]] diacritic mark.<ref>{{Cite news|url=https://www.nytimes.com/2018/06/23/insider/mexico-world-cup-spanish-accent-marks.html|title=World Cup Soccer's Spanish Accent Mark: For Mexico and a Times Editor, It's a Win-Win|first=Randal C.|last=Archibold|newspaper=The New York Times|date=23 June 2018|access-date=23 January 2020|archive-date=30 November 2019|archive-url=https://web.archive.org/web/20191130162931/https://www.nytimes.com/2018/06/23/insider/mexico-world-cup-spanish-accent-marks.html|url-status=live}}</ref>
+
+==== Kit suppliers ====
+{| class="wikitable"
+|-
+! Kit supplier
+! Period
+|-
+|{{flagicon|USA}} [[Levi Strauss & Co.|Levi's]] || 1978–1979
+|-
+|{{flagicon|USA}} [[Pony International|Pony]] || 1980–1983 
+|-
+|{{flagicon|FRG}} [[Adidas]] || 1983–1990 
+|-
+|{{flagicon|ENG}} [[Umbro]] || 1991–1994
+|-
+|{{flagicon|MEX}} [[Aba Sport]] || 1995–1998
+|-
+|{{flagicon|MEX}} [[Garcis]] || 1999–2000
+|-
+|{{flagicon|MEX}} [[Atletica]] ||2000–2002 
+|-
+|{{flagicon|USA}} [[Nike, Inc.|Nike]] || 2003–2006
+|-
+|{{flagicon|FRG}} [[Adidas]] || 2007–present
+|}
+
+===Media coverage===
+All of Mexico matches are shown live on both over-the-air networks [[Televisa]] and [[TV Azteca]] in Mexico until 2034 but in 2027, 2028, and 2029, the Mexico matches during CONCACAF Nations League final four and Gold Cup is excluded on the package after the American OTT streaming platform [[Netflix]] scores the new big deal with [[CONCACAF]] for viewers in Mexico.<ref>{{cite web|url=https://mexiconewsdaily.com/lifestyle/netflix-exclusive-deal-includes-the-nations-league-finals/|title=Netflix Exclusive Deal Includes the Nations League Finals|date=17 April 2026|publisher=Mexico News Daily|access-date=2 May 2026}}</ref>. In the United States all of Mexico's international friendlies and home World Cup qualifiers are shown on Spanish language network [[Univision]] while away World Cup qualifiers are shown on [[Telemundo]].<ref>{{cite web|url=http://futbol.univision.com/article/2010-05-20/univision-es-la-nueva-sede|title=Univision es la nueva sede de la Selección Nacional de Fútbol de México|date=10 May 2010|publisher=[[Univision]]|access-date=26 February 2013|archive-date=17 May 2013|archive-url=https://web.archive.org/web/20130517083446/http://futbol.univision.com/article/2010-05-20/univision-es-la-nueva-sede|url-status=live}}</ref><ref>{{cite web |url=http://tvbythenumbers.zap2it.com/2011/03/21/telemundo-extends-exclusive-rights-to-broadcast-mexican-national-team-world-cup-qualifying-away-matches-through-2013/86405/|archive-url=https://web.archive.org/web/20110326041650/http://tvbythenumbers.zap2it.com/2011/03/21/telemundo-extends-exclusive-rights-to-broadcast-mexican-national-team-world-cup-qualifying-away-matches-through-2013/86405|url-status=dead|archive-date=26 March 2011|title=Telemundo Extends Exclusive Rights to Broadcast Mexican National Team World Cup Qualifying Away Matches Through 2013|date=21 March 2011 |work=TVBytheNumbers.com |access-date=26 February 2013}}</ref> On 30 January 2013, English language network [[ESPN]] and Univision announced an agreement to telecast the Mexico national team home World Cup qualifiers and international friendly matches in English in the United States.<ref>{{cite web |url=http://tvbythenumbers.zap2it.com/2013/01/30/univision-deportes-and-espn-announce-agreement-to-increase-reach-of-mexican-soccer-in-the-u-s/167386/|archive-url=https://web.archive.org/web/20130204224849/http://tvbythenumbers.zap2it.com/2013/01/30/univision-deportes-and-espn-announce-agreement-to-increase-reach-of-mexican-soccer-in-the-u-s/167386/|url-status=dead|archive-date=4 February 2013|title=Univision Deportes and ESPN Announce Agreement to Increase Reach of Mexican Soccer in the U.S.|date=30 January 2013 |work=TVBytheNumbers.com |access-date=26 February 2013}}</ref>
+
+===Supporters===
+
+===="¡Eh, puto!"====
+[[File:Ger-Mex (4).jpg|thumb|Mexico's fans at [[2018 FIFA World Cup]] in Russia]]
+Mexico's fans are infamously known for the vulgar chant "''¡Eh, puto!''", which is typically said when an opponent's goalkeeper is about to perform a [[goal kick]].<ref name="LAT">{{cite news |first=Kevin |last=Baxter |url=https://www.latimes.com/sports/soccer/story/2021-06-18/mexico-announces-sanctions-for-fans-use-of-homophobic-chant |title=Mexico to play two World Cup qualifiers without fans due to use of homophobic chant |newspaper=Los Angeles Times |date=18 June 2021 |access-date=19 June 2021 |archive-date=19 June 2021 |archive-url=https://web.archive.org/web/20210619222825/https://www.latimes.com/sports/soccer/story/2021-06-18/mexico-announces-sanctions-for-fans-use-of-homophobic-chant |url-status=live }}</ref><ref name="sanctions">{{cite news |first=Kate |last=Linthicum |url=https://www.latimes.com/world/mexico-americas/la-fg-mexico-soccer-slur-20170623-story.html |title=Mexican soccer fans are reluctant to give up a favorite chant — an anti-gay slur |newspaper=Los Angeles Times |date=23 June 2017 |access-date=19 June 2021 |archive-date=18 June 2021 |archive-url=https://web.archive.org/web/20210618190007/https://www.latimes.com/world/mexico-americas/la-fg-mexico-soccer-slur-20170623-story.html |url-status=live }}</ref>
+
+The origins of the chant is thought to have had developed in the 1980s in [[Monterrey]] where in little league [[American football]] games, fans would chant "''¡Eh, pum!''" during the opening kickoff. This chant was not disparagingly used as the word ''pum'' is attributed to an impact of some sort.<ref name="verano-ciencia-de-la-region-centro">{{cite journal |last1=Ibáñez González |first1=Mariana |last2=Morales Pérez |first2=José Alfredo |title="Eeeeeeeh puto": Una mirada periodística del presunto grito homofóbico en el estadio del Santos Laguna |journal=Verano de la Ciencia de la Región Centro |date=June 2019 |volume=5 |issue=June–August 2019 |pages=124–129 |url=http://www.veranoregional.org/Memorias2019/MemoriasEducaci%C3%B3nyHumanidades.pdf |access-date=25 October 2021 |archive-date=17 November 2021 |archive-url=https://web.archive.org/web/20211117181752/http://www.veranoregional.org/Memorias2019/MemoriasEducaci%C3%B3nyHumanidades.pdf |url-status=dead }}</ref> Though the current incarnation of the chant is widely thought to have originated sometime between 2000 and 2003 by supporters of [[Atlas F.C.|Atlas]] to former Atlas goalkeeper, [[Oswaldo Sánchez]], no primary sources exist that support this claim and is an urban legend.<ref name="remezcla-puto">{{cite news |last1=Arellano |first1=Gustavo |title=Mexico's "Puto" Chant Won't Ever Go Away, No Matter What FIFA Does |url=https://remezcla.com/features/sports/mexico-puto-chant-fifa/ |access-date=25 October 2021 |publisher=Remezcla |date=9 November 2017 |archive-date=25 October 2021 |archive-url=https://web.archive.org/web/20211025110928/https://remezcla.com/features/sports/mexico-puto-chant-fifa/ |url-status=live }}</ref><ref>{{cite news |last1=Banks |first1=Paul |title=Potential Progress Against Homophobic Chant at Mexico Soccer Games? |url=https://www.thesportsbank.net/football/potential-progress-against-homophobic-chant-at-mexico-soccer-games/ |access-date=25 October 2021 |publisher=The Sports Bank |date=16 July 2019 |archive-date=25 October 2021 |archive-url=https://web.archive.org/web/20211025160655/https://www.thesportsbank.net/football/potential-progress-against-homophobic-chant-at-mexico-soccer-games/ |url-status=live }}</ref> The earliest documented usage of ''puto'' being chanted by fans in this manner occurred on 22 May 2004, during the second leg of the [[Primera División de México Clausura 2004|2004 Clausura]] repechage match between [[Cruz Azul]] and [[C.F. Pachuca|Pachuca]]. Fans of Pachuca repeatedly chanted ''puto'' every time [[Óscar Pérez (footballer, born 1973)|Óscar Pérez]] performed a goal kick.<ref>{{cite journal |last1=Briseño |first1=Miguel Ángel |title=Matan al rey; van por líder |journal=Reforma |date=23 May 2004 }}</ref><ref name="remezcla-puto" />
+
+=====Sanctions=====
+Due to the [[Homophobia|homophobic]] meaning of the word ''puto'' in Mexican Spanish (a vulgar term for a male prostitute), the chant received negative attention in the [[2014 FIFA World Cup]]. Mexico's fans defended it as being traditionally used in the [[Liga MX]].<ref>{{cite web |url=http://mexico.cnn.com/deportes/2014/06/19/fifa-investiga-a-hinchas-mexicanos-por-conducta-inapropiada-en-el-mundial |title=FIFA investiga a hinchas mexicanos por conducta inapropiada en el Mundial |publisher=CNN Mexico |language=es |date=19 June 2014 |access-date=20 June 2014 |archive-date=20 June 2014 |archive-url=https://web.archive.org/web/20140620215045/http://mexico.cnn.com/deportes/2014/06/19/fifa-investiga-a-hinchas-mexicanos-por-conducta-inapropiada-en-el-mundial |url-status=live }}</ref> On 23 June 2014, FIFA dropped an investigation, concluding that the chant "was not considered insulting in the specific context". [[Football Against Racism in Europe]], an anti-discrimination organization, criticized the ruling as "disappointing".<ref>{{cite web|url=https://www.bbc.com/news/world-latin-america-27985757|title=Fifa drops 'gay chants' case of Mexico World Cup fans|date=23 June 2014|publisher=BBC News|access-date=21 June 2018|archive-date=3 July 2018|archive-url=https://web.archive.org/web/20180703045337/https://www.bbc.com/news/world-latin-america-27985757|url-status=live}}</ref> In 2017, in advance of the [[2018 FIFA World Cup|2018 World Cup]], FIFA fined the Mexico football federation over fans' use of the chant and introduced escalating sanctions,<ref name="sanctions" /> which were first applied in Liga MX games in 2019.<ref name="LAT" /> In 2021, three Mexico international matches in the United States were halted because of fan behaviour, including the [[2021 CONCACAF Nations League final|CONCACAF Nations League final]] against the United States, in which fans also threw things onto the pitch and [[Giovanni Reyna]] was hit in the face by a heavy object.<ref name="LAT" /><ref>{{cite news |url=https://www.espn.com/soccer/concacaf-nations-league/story/4401690/usmnt-mexico-nations-league-final-halted-for-anti-gay-chant-by-fans |title=USMNT-Mexico Nations League final halted for anti-gay chant, fans throwing objects |publisher=ESPN |date=6 June 2021 |access-date=19 June 2021 |archive-date=24 June 2021 |archive-url=https://web.archive.org/web/20210624203402/https://www.espn.com/soccer/concacaf-nations-league/story/4401690/usmnt-mexico-nations-league-final-halted-for-anti-gay-chant-by-fans |url-status=live }}</ref> On 18 June 2021, FIFA announced that as a penalty for the use of the chant in a pre-Olympics tournament in Guadalajara, spectators would be barred from Mexico's first two qualifying matches for the [[2022 FIFA World Cup|2022 World Cup]].<ref name="LAT" /> During the [[2023 CONCACAF Nations League Finals|semi-finals]], the match between Mexico and the United States was stopped at the 90th minute and eventually ended early due to the chants.<ref>{{cite news |url=https://apnews.com/article/us-mexico-nations-league-ad90f5404dce6b94da3f677d4d0f7b49 |title=US 3–0 win over Mexico cut short by homophobic chants on night of 4 red cards |publisher=[[Associated Press]] |date=June 16, 2023 |access-date=June 16, 2023}}</ref>
+
+== Rivalries ==
+=== United States ===
+{{Main|Mexico–United States soccer rivalry}}
+
+Mexico and the [[United States men's national soccer team|United States]] are widely considered as the two top teams in [[CONCACAF]]. Matches between the two nations often attract media attention, public interest and discourse in both countries. Although the first match was played in 1934, their rivalry was not considered major until the late 20th century, when the U.S. emerged as a solid international side. 
+
+Mexico met the United States in the [[2002 FIFA World Cup knockout stage#Mexico vs United States|round of 16]] of the [[2002 FIFA World Cup|2002 World Cup]], losing 2–0.<ref>{{cite web |title=USA 2–0 Mexico (Jun 17, 2002) Final Score – ESPN|url=https://www.espn.com/soccer/match/_/gameId/48889/united-states-mexico |website=[[ESPN]] |access-date=8 January 2025}}</ref> Ten years later, on 15 August 2012, the United States defeated Mexico at Estadio Azteca in the first victory for the U.S. against Mexico on Mexican soil in 75 years.<ref>{{cite news |date=16 August 2012 |title=Mexico's first loss to U.S. at home, on a Mexican American's goal |work=[[Los Angeles Times]] |url=http://latimesblogs.latimes.com/world_now/2012/08/mexico-united-states-friendly-rivalry-soccer.html |access-date=20 August 2014 |archive-date=9 August 2014 |archive-url=https://web.archive.org/web/20140809065802/http://latimesblogs.latimes.com/world_now/2012/08/mexico-united-states-friendly-rivalry-soccer.html |url-status=live }}</ref> On 11 November 2016, El Tri achieved their second consecutive victory on U.S. soil, in [[2018 FIFA World Cup qualification – CONCACAF fifth round|qualification]] for the 2018 World Cup, by defeating the U.S. in [[Lower.com Field|Columbus, Ohio]].<ref>{{cite web |title=Game Details |url=https://www.concacaf.com/en/world-cup-qualifying-men/game-details?matchid=225939 |website=Concacaf | date=12 March 2021 |access-date=8 January 2025}}</ref>
+
+Since their first meeting in 1934, the two teams have met 78 times, with Mexico leading at 37 wins, 17 draws, and 24 losses, 147 goals scored, and 92 conceded. Mexico dominated in early years, with a 27–9–5 record through 1990. However, since that time the series has become much more competitive, largely due to [[Soccer in the United States|growth of soccer in the United States]]; since 2000, the series has favored the U.S. 18–8–9, with Mexico outscored 48–33. But in the 2010s, the rivalry has been marked by Mexican success, with Mexico defeating the United States in the Gold Cup final in [[2011 CONCACAF Gold Cup Final|2011]] and [[2019 CONCACAF Gold Cup Final|2019]], and the [[CONCACAF Cup]] in 2015. In 2021, however, Mexico lost to the United States in both the [[2021 CONCACAF Nations League Finals|CONCACAF Nations League final]] and the [[2021 CONCACAF Gold Cup final|Gold Cup final]]. Still, Mexico remains undefeated to the United States at home soil in competitive matches, with all 19 meetings at home soil being either a win (15) or a draw (4).<ref>{{Cite web |url=https://www.11v11.com/teams/mexico/tab/opposingTeams/opposition/USA/ |title=Mexico national football team: Record v USA |access-date=6 June 2023 |archive-date=6 June 2023 |archive-url=https://web.archive.org/web/20230606193241/https://www.11v11.com/teams/mexico/tab/opposingTeams/opposition/USA/ |url-status=live }}</ref>
+
+=== Costa Rica ===
+{{Main|Costa Rica–Mexico football rivalry}}
+
+Mexico has a growing rivalry with [[Costa Rica national football team|Costa Rica]], as Costa Rica is the first country in CONCACAF to beat Mexico on Mexican soil in [[FIFA World Cup qualification]], known as ''[[Aztecazo]]''. Costa Rica is also widely recognised as the only Central American national team to have sufficient quality to compete at the global stage, which increased the importance of the rivalry.<ref>{{cite web | url=https://www.espn.com/soccer/club/costa-rica/214/blog/post/3666104/costa-ricas-recent-rise-has-created-a-new-regional-rival-for-mexico | title=How Costa Rica has become Mexico's 'noisy neighbor' | date=11 October 2018 | access-date=29 March 2023 | archive-date=29 March 2023 | archive-url=https://web.archive.org/web/20230329183825/https://www.espn.com/soccer/club/costa-rica/214/blog/post/3666104/costa-ricas-recent-rise-has-created-a-new-regional-rival-for-mexico | url-status=live }}</ref> Mexico holds a dominant record against Costa Rica with 32 wins, 20 draws and only 6 losses.<ref>{{cite web | url=https://www.11v11.com/teams/mexico/tab/opposingTeams/opposition/Costa%20Rica/ | title=Mexico national football team: Record v Costa%20Rica }}</ref>
+
+=== Argentina ===
+{{Main|Argentina–Mexico football rivalry}}
+
+Mexico has a rivalry with [[Argentina national football team|Argentina]], given these two nations are among the most renowned [[Hispanosphere|Hispanic]] nations in the world.<ref>{{Cite news |url=https://www.reuters.com/lifestyle/sports/mexico-argentina-fans-bring-feisty-rivalry-qatar-2022-11-26/ |title=Argentina and Mexico fans' rivalry rocks Qatar |date=26 November 2022 |agency=reuters.com |last1=Cawthorne |first1=Andrew |last2=Mills |first2=Andrew |access-date=10 January 2023 |archive-date=28 January 2023 |archive-url=https://web.archive.org/web/20230128004503/https://www.reuters.com/lifestyle/sports/mexico-argentina-fans-bring-feisty-rivalry-qatar-2022-11-26/ |url-status=live }}</ref><ref>{{Cite web|url=https://www.marca.com/en/world-cup/2022/11/24/637f0512e2704eaf818b45c3.html|title=Mexico vs. Argentina: three days before the game, the war began, but with a fight between fans|date=24 November 2022|publisher=marca.com|access-date=10 January 2023|archive-date=10 January 2023|archive-url=https://web.archive.org/web/20230110201912/https://www.marca.com/en/world-cup/2022/11/24/637f0512e2704eaf818b45c3.html|url-status=live}}</ref><ref name=nytimes1>{{Cite news|url=https://www.nytimes.com/es/2022/11/26/espanol/mexico-argentina-qatar.html|title=El partido de México y Argentina revive una vieja rivalidad deportiva|work=[[The New York Times]]|date=26 November 2022|last1=Vilchis|first1=Raúl|access-date=10 January 2023|archive-date=10 January 2023|archive-url=https://web.archive.org/web/20230110201911/https://www.nytimes.com/es/2022/11/26/espanol/mexico-argentina-qatar.html|url-status=live}}</ref><ref>{{Cite web|url=https://www.informador.mx/entretenimiento/Qatar-2022-Al-grito-de-Guerra-la-pambolera-rivalidad-de-Mexico-y-Argentina-llega-a-ViX-20221123-0175.html|title="Al grito de Guerra", la pambolera rivalidad de México y Argentina llega a ViX+|date=23 November 2022|publisher=informador.com.mx|access-date=10 January 2023|archive-date=10 January 2023|archive-url=https://web.archive.org/web/20230110201911/https://www.informador.mx/entretenimiento/Qatar-2022-Al-grito-de-Guerra-la-pambolera-rivalidad-de-Mexico-y-Argentina-llega-a-ViX-20221123-0175.html|url-status=live}}</ref> The rivalry is abnormal by the fact it is intercontinental, with Argentina part of [[CONMEBOL]] and Mexico part of CONCACAF. This rivalry is more keenly felt by Mexican supporters than Argentines, who typically view Brazil, Uruguay, England and Germany as bigger rivals. In fact, a number of Argentines do not consider Mexico as rivals. Mexico has historically not fared well against Argentina, recording only 4 wins, 16 losses and 12 draws.
+
+==Results and fixtures==
+{{Main|Mexico national football team results (2020–present)|Mexico national football team results}}
+The following is a list of match results in the last 12 months, as well as any future matches that have been scheduled.
+
+{{legend2|#CCFFCC|Win|border=1px solid #AAAAAA}}
+{{legend2|#FFFFCC|Draw|border=1px solid #AAAAAA}}
+{{legend2|#FFCCCC|Loss|border=1px solid #AAAAAA}}
+{{legend2|#FFFFFF|Fixture|border=1px solid #AAAAAA}}
+
+===2025===
+{{footballbox collapsible
+| format     = 1
+| round      = [[Exhibition game#Association football|Friendly]]
+| date       = 6 September
+| time       = {{UTZ|19:00|-7}}
+| team1      = {{fb-rt|MEX}}
+| score      = 0–0
+| team2      = {{fb|JPN}}
+| report     = [https://www.jfa.jp/eng/samuraiblue/20250906/match_page.html#pankz Report]
+| goals1     = 
+| goals2     = 
+| location   = [[Oakland, California|Oakland]], United States
+| stadium    = [[Oakland Coliseum]]
+| attendance = 45,278
+| referee    = [[Michael Oliver (referee)|Michael Oliver]] ([[England Football Association|England]])
+| result     = D
+}}
+{{football box collapsible
+|format     = 1
+|round      = [[Exhibition game#Association football|Friendly]]
+|date       = 9 September
+|time       = {{UTZ|20:00|-5}}
+|team1      = {{fb-rt|MEX}}
+|score      = 2–2
+|team2      = {{fb|KOR}}
+|report     = https://www.espn.com/soccer/match/_/gameId/735774/south-korea-mexico
+|goals1     =
+*[[Raúl Jiménez|Jiménez]] {{goal|22}}
+*[[Santiago Giménez|Giménez]] {{goal|90+4}}
+|goals2     =
+*[[Son Heung-min|Son]] {{goal|65}}
+*[[Oh Hyeon-gyu|Oh]] {{goal|75}}
+|location   = [[Nashville, Tennessee|Nashville]], United States
+|stadium    = [[Geodis Park]]
+|attendance = 27,604
+|referee    = Guido Gonzales Jr. ([[United States Soccer Federation|United States]])
+|result     = D
+}}
+{{football box collapsible
+|format     = 1
+|round      = [[Exhibition game#Association football|Friendly]]
+|date       = 11 October
+|time       = {{UTZ|20:00|-5}}
+|team1      = {{fb-rt|MEX}}
+|score      = 0–4
+|team2      = {{fb|COL}}
+|report     = https://www.espn.com/soccer/match/_/gameId/751638/colombia-mexico
+|goals1     =
+|goals2     =
+*[[Jhon Lucumí|Lucumí]] {{goal|16}}
+*[[Luis Díaz (footballer, born 1997)|Díaz]] {{goal|56}}
+*[[Jefferson Lerma|Lerma]] {{goal|64}}
+*[[Johan Carbonero|Carbonero]] {{goal|87}}
+|location   = [[Arlington, Texas|Arlington]], United States
+|stadium    = [[AT&T Stadium]]
+|attendance = 
+|referee    = [[Ismail Elfath]] ([[United States Soccer Federation|United States]])
+|result     = L
+}}
+{{football box collapsible
+|format     = 1
+|round      = [[Exhibition game#Association football|Friendly]]
+|date       = 14 October
+|time       = {{UTZ|20:30|-6}}
+|team1      = {{fb-rt|MEX}}
+|score      = 1–1
+|team2      = {{fb|ECU}}
+|report     = https://www.espn.com/soccer/match/_/gameId/755899/ecuador-mexico
+|goals1     =
+*[[Germán Berterame|Berterame]] {{goal|3}}
+|goals2     =
+*[[Jordy Alcívar|Alcívar]] {{goal|20|pen}}
+|location   = [[Zapopan]], Mexico
+|stadium    = [[Estadio Akron]]
+|attendance = 
+|referee    = Victor Rivas ([[United States Soccer Federation|United States]])
+|result     = D
+}}
+{{football box collapsible
+|format     = 1
+|round      = [[Exhibition game#Association football|Friendly]]
+|date       = 15 November
+|time       = {{UTZ|19:00|-6}}
+|team1      = {{fb-rt|MEX}}
+|score      = 0–0
+|team2      = {{fb|URU}}
+|report     = https://www.soccerway.com/match/mexico-O6iHcNkd/uruguay-xMk44orG/?mid=65iOQJyf
+|goals1     =
+|goals2     =
+|location   = [[Torreón]], Mexico
+|stadium    = [[Estadio Corona]]
+|attendance = 
+|referee    = Fernando Morón ([[Panamanian Football Federation|Panama]])
+|result     = D
+}}
+{{football box collapsible
+|format     = 1
+|round      = [[Exhibition game#Association football|Friendly]]
+|date       = 18 November
+|time       = 
+|team1      = {{fb-rt|MEX}}
+|score      = 1–2
+|team2      = {{fb|PAR}}
+|report     = https://www.soccerway.com/match/mexico-O6iHcNkd/paraguay-YaNlqp6j/?mid=nPCcuJjm
+|goals1     = 
+*[[Raúl Jiménez|Jiménez]] {{goal|54|p}}
+|goals2     =
+*[[Antonio Sanabria|Sanabria]] {{goal|48}}
+*[[Damián Bobadilla|Bobadilla]] {{goal|56}}
+|location   = [[San Antonio]], United States
+|stadium    = [[Alamodome]]
+|attendance = 
+|referee    = [[Joe Dickerson|Joseph Dickerson]] ([[United States Soccer Federation|United States]])
+|result     = L
+}}
+
+===2026===
+{{football box collapsible
+|format     = 1
+|round      = [[Exhibition game#Association football|Friendly]]
+|date       = 22 January
+|time       = {{UTZ|20:00|-5}}
+|team1      = {{fb-rt|PAN}}
+|score      = 0–1
+|team2      = {{fb|MEX}}
+|report     = https://www.espn.com/soccer/match/_/gameId/401842387
+|goals1     =
+|goals2     = [[Richard Peralta|Peralta]] {{goal|90+3|o.g.}}
+|location   = [[Panama City]], Panama
+|stadium    = [[Estadio Rommel Fernández]]
+|attendance = 16,447
+|referee    = Guido Gonzales Jr. ([[United States Soccer Federation|United States]])
+|result     = W
+}}
+{{football box collapsible
+|format     = 1
+|round      = [[Exhibition game#Association football|Friendly]]
+|date       = 25 January
+|time       = {{UTZ|15:30|-4}}
+|team1      = {{fb-rt|BOL}}
+|score      = 0–1
+|team2      = {{fb|MEX}}
+|report     = https://www.espn.com/soccer/match/_/gameId/401842388/mexico-bolivia
+|goals1     = 
+|goals2     = [[Germán Berterame|Berterame]] {{goal|68}}
+|location   = [[Santa Cruz de la Sierra]], Bolivia
+|stadium    = [[Estadio Ramón Tahuichi Aguilera]]
+|attendance = 24,000
+|referee    = Carlos Betancur ([[Colombian Football Federation|Colombia]])
+|result     = W
+}}
+{{football box collapsible
+|format     = 1
+|round      = [[Exhibition game#Association football|Friendly]]
+|date       = 25 February
+|time       = {{UTZ|20:00|-6}}
+|team1      = {{fb-rt|MEX}}
+|score      = 4–0
+|team2      = {{fb|ISL}}
+|report     = https://www.espn.com/soccer/match/_/gameId/401842389/iceland-mexico
+|goals1     =
+*[[Richard Ledezma|Ledezma]] {{goal|22}}
+*[[Armando González (footballer, born 2003)|A. González]] {{goal|24}}
+*[[Jesús Gallardo|Gallardo]] {{goal|59}}
+*[[Brian Gutiérrez|B. Gutiérrez]] {{goal|90+2}}
+|goals2     =
+|location   = [[Querétaro (city)|Querétaro]], Mexico
+|stadium    = [[Estadio Corregidora]]
+|attendance = 34,130
+|referee    = Steven Madrigal ([[Costa Rican Football Federation|Costa Rica]])
+|result     = W
+}}
+{{football box collapsible
+|format     = 1
+|round      = [[Exhibition game#Association football|Friendly]]
+|date       = 28 March
+|time       = {{UTZ|20:00|-6}}
+|team1      = {{fb-rt|MEX}}
+|score      = 0–0 
+|team2      = {{fb|POR}}
+|report     = https://www.uefa.com/european-qualifiers/friendlies/match/2047667--mexico-vs-portugal/
+|goals1     =
+|goals2     =
+|location   = [[Mexico City]], Mexico
+|stadium    = [[Estadio Azteca]]
+|attendance = 84,130
+|referee    = [[Walter López Castellanos|Walter López]] ([[National Football Federation of Guatemala|Guatemala]])
+|result     = D
+}}
+{{football box collapsible
+|format     = 1
+|round      = [[Exhibition game#Association football|Friendly]]
+|date       = 31 March
+|time       = 
+|team1      = {{fb-rt|MEX}}
+|score      = 1–1
+|team2      = {{fb|BEL}}
+|report     = https://www.espn.com/soccer/matchstats/_/gameId/762264
+|goals1     =
+*[[Jorge Sánchez (footballer, born 1997)|J.&nbsp;Sánchez]] {{goal|19}}
+|goals2     =
+*[[Dodi Lukébakio|Lukébakio]] {{goal|46}}
+|location   = [[Chicago]], United States
+|stadium    = [[Soldier Field]]
+|attendance = 52,412
+|referee    = Rosendo Mendoza ([[United States Soccer Federation|United States]])
+|result     = D
+}}
+{{football box collapsible
+|format     = 1
+|round      = [[Exhibition game#Association football|Friendly]]
+|date       = 22 May
+|time       = 
+|team1      = {{fb-rt|MEX}}
+|score      = 2–0
+|team2      = {{fb|GHA}}
+|report     = 
+|goals1     =
+*[[Brian Gutiérrez|B. Gutiérrez]] {{goal|2}}
+*[[Guillermo Martínez (footballer)|Martínez]] {{goal|54}}
+|goals2     =
+|location   = [[Puebla (city)|Puebla]], Mexico
+|stadium    = [[Estadio Cuauhtémoc]]
+|attendance = 41,235
+|referee    = Selvin Brown ([[Football Federation of Honduras|Honduras]])
+|result     = W
+}}
+{{football box collapsible
+|format     = 1
+|round      = [[Exhibition game#Association football|Friendly]]
+|date       = 30 May
+|time       = 
+|team1      = {{fb-rt|MEX}}
+|score      = 1–0
+|team2      = {{fb|AUS}}
+|report     = 
+|goals1     =
+*[[Johan Vásquez (footballer, born 1998)|Vásquez]] {{goal|27}}
+|goals2    =
+|location   = [[Pasadena, California|Pasadena]], United States
+|stadium    = [[Rose Bowl (stadium)|Rose Bowl]]
+|attendance = 78,479
+|referee    = Rubiel Vásquez ([[United States Soccer Federation|United States]])
+|result     = W
+}}
+{{football box collapsible
+|format     = 1
+|round      = [[Exhibition game#Association football|Friendly]]
+|date       = 4 June
+|time       = 
+|team1      = {{fb-rt|MEX}}
+|score      = 5–1
+|team2      = {{fb|SRB}}
+|report     = https://www.fifa.com/en/match-centre/match/cesdwwnxbc5fmajgroc0hqzy2/dezv8l0fzgcxtejl0dwmy1gyc/2m1wojm5bt709wu4kugtytxqs/arw3gtwa77kspwxx2gz3oooic?date=2026-06-03&prev=competition
+|goals1     =
+*[[Johan Vásquez (footballer, born 1998)|Vásquez]] {{goal|34}}
+*[[Stefan Bukinac|Bukinac]] {{goal|45+3|o.g.}}
+*[[Raúl Jiménez|Jiménez]] {{goal|57}}
+*[[Adem Avdić|Avdić]] {{goal|72|o.g.}}
+*[[Luis Chávez (footballer)|L. Chávez]] {{goal|90}}
+|goals2     =
+*[[Petar Stanić|Stanić]] {{goal|19}}
+|location   = [[Toluca]], Mexico
+|stadium    = [[Estadio Nemesio Díez]]
+|attendance = 27,163
+|referee    = Keylor Herrera ([[Costa Rican Football Federation|Costa Rica]])
+|result     = W
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[2026 FIFA World Cup#Group A|2026 FIFA World Cup]]
+|date       = 11 June
+|time       = {{UTZ|13:00|-6}}
+|team1      = {{fb-rt|MEX}}
+|score      = 2–0
+|team2      = {{fb|RSA}}
+|report     = https://www.fifa.com/en/match-centre/match/17/285023/289273/400021443
+|goals1     =
+*[[Julián Quiñones|Quiñones]] {{goal|9}}
+*[[Raúl Jiménez|Jiménez]] {{goal|67}}
+|goals2     =
+|location   = [[Mexico City]], Mexico
+|stadium    = [[Estadio Azteca]]
+|attendance = 80,824
+|referee    = [[Wilton Sampaio]] ([[Brazilian Football Confederation|Brazil]])
+|result     = W
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[2026 FIFA World Cup#Group A|2026 FIFA World Cup]]
+|date       = 18 June
+|time       = {{UTZ|19:00|-6}}
+|team1      = {{fb-rt|MEX}}
+|score      = 1–0
+|team2      = {{fb|KOR}}
+|report     = https://www.fifa.com/en/match-centre/match/17/285023/289273/400021442
+|goals1     =
+*[[Luis Romo|Romo]] {{goal|50}}
+|goals2     =
+|location   = [[Zapopan]], Mexico
+|stadium    = [[Estadio Akron]]
+|attendance = 45,522
+|referee    = [[Gustavo Tejera]] ([[Uruguayan Football Association|Uruguay]])
+|result     = W
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[2026 FIFA World Cup#Group A|2026 FIFA World Cup]]
+|date       = 24 June
+|time       = {{UTZ|19:00|-6}}
+|team1      = {{fb-rt|CZE}}
+|score      = 0–3
+|team2      = {{fb|MEX}}
+|report     = https://www.fifa.com/en/match-centre/match/17/285023/289273/400021444
+|goals1     =
+|goals2     =
+*[[Mateo Chávez|Chávez]] {{goal|55}}
+*[[Julián Andrés Quiñones|Quiñones]] {{goal|61}}
+*[[Álvaro Fidalgo|Fidalgo]] {{goal|90+4}}
+|location   = [[Mexico City]], Mexico
+|stadium    = [[Estadio Azteca]]
+|attendance = 80,824
+|referee    = [[Yael Falcón]] ([[Argentine Football Association|Argentina]])
+|result     = W
+}}
+{{Football box collapsible
+|format     = 1
+|date       = 30 June
+|time       = {{UTZ|20:00|-6}}
+|round      = [[2026 FIFA World Cup#Round of 32|2026 FIFA World Cup R32]]
+|team1      = {{fb-rt|MEX}}
+|score      = 2–0
+|team2      = {{fb|ECU}}
+|report     = https://www.fifa.com/en/match-centre/match/17/285023/289287/400021520
+|goals1     =
+*[[Julián Andrés Quiñones|Quiñones]] {{goal|22}}
+*[[Raúl Jiménez|Jiménez]] {{goal|31}}
+|goals2     =
+|location   = [[Mexico City]], Mexico
+|stadium    = [[Estadio Azteca]]
+|attendance = 80,824
+|referee    = [[Slavko Vinčić]] ([[Football Association of Slovenia|Slovenia]])
+|result     = W
+}}
+{{Football box collapsible
+|format     = 1
+|date       = 5 July
+|time       = {{UTZ|19:00|-6}}
+|round      = [[2026 FIFA World Cup#Round of 16|2026 FIFA World Cup R16]]
+|team1      = {{fb-rt|MEX}}
+|score      = 2–3
+|team2      = {{fb|ENG}}
+|report     = https://www.fifa.com/en/match-centre/match/17/285023/289288/400021531
+|goals1     =
+*[[Julián Andrés Quiñones|Quiñones]] {{goal|42}}
+*[[Raúl Jiménez|Jiménez]] {{goal|69|pen.}}
+|goals2     =
+*[[Jude Bellingham|Bellingham]] {{goal|36||38}}
+*[[Harry Kane|Kane]] {{goal|60|pen.}}
+|location   = [[Mexico City]], Mexico
+|stadium    = [[Estadio Azteca]]
+|attendance = 80,824
+|referee    = [[Alireza Faghani]] ([[Football Australia|Australia]])
+|result     = L
+}}
+
+==Coaching staff==
+[[File:Rafael_Márquez_2014.jpg|thumb|upright=0.6|Current head coach [[Rafael Márquez]]]]
+{{See also|List of Mexico national football team managers}}
+{{updated|8 July 2026}}
+{| class="wikitable"
+|-
+!style="color:white;background:#009150|Position
+!style="color:white;background:#009150|Name
+|-
+| Head coach
+| {{flagicon|MEX}} [[Rafael Márquez]] 
+|-
+| Assistant coach
+| {{flagicon|MEX}} [[Andrés Guardado]] 
+|-
+| Goalkeeping coach
+|  {{Flagicon|Mexico}} [[Alfredo Talavera]]
+|-
+| Fitness coach
+| {{flagicon|ESP}} Pol Lorente
+|-
+| Physiotherapist
+| {{flagicon|BRA}} Carlos Peçanha
+|-
+| Team doctor
+| {{flagicon|MEX}} José Luis Serrano
+|}
+
+==Players==
+===Current squad===
+The following 26 players were named in the squad for the [[2026 FIFA World Cup]].<ref>{{cite web|title=Al Llamado Convocatoria de la SNM para la Copa Mundial de la FIFA 2026|url=https://miseleccion.mx/noticia/6463-Al-Llamado-%7C-Convocatoria-de-la-SNM-para-la-Copa-Mundial-de-la-FIFA-2026|website=MiSeleccion.mx|date=31 May 2026|access-date=31 May 2026|language=es}}</ref>
+<br>''Caps and goals correct as of 5 July 2026, after the match against [[England national football team|England]].''
+<!--Sorted by position, number (if available), caps, goals and last name.-->
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Raúl Rangel (footballer)|Raúl Rangel]]|age={{bda|2000|2|25|df=y}}|caps=19|goals=0|club=[[C.D. Guadalajara|Guadalajara]]|clubnat=MEX}}
+{{nat fs g player|no=12|pos=GK|name=[[Carlos Acevedo]]|age={{bda|1996|4|19|df=y}}|caps=7|goals=0|club=[[Santos Laguna]]|clubnat=MEX}}
+{{nat fs g player|no=13|pos=GK|name=[[Guillermo Ochoa]]|age={{bda|1985|7|13|df=y}}|caps=153|goals=0|club=''Retired''}}
+{{nat fs break}}
+{{nat fs g player|no=2|pos=DF|name=[[Jorge Sánchez (footballer, born 1997)|Jorge Sánchez]]|age={{bda|1997|12|10|df=y}}|caps=63|goals=3|club=[[PAOK FC|PAOK]]|clubnat=GRE}}
+{{nat fs g player|no=3|pos=DF|name=[[César Montes]]|other=[[Captain (association football)|vice-captain]]|age={{bda|1997|2|24|df=y}}|caps=71|goals=4|club=[[FC Lokomotiv Moscow|Lokomotiv Moscow]]|clubnat=RUS}}
+{{nat fs g player|no=4|pos=DF|name=[[Edson Álvarez]]|other=[[Captain (association football)|captain]]|age={{bda|1997|10|24|df=y}}|caps=102|goals=7|club=[[West Ham United F.C.|West Ham United]]|clubnat=ENG}}
+{{nat fs g player|no=5|pos=DF|name=[[Johan Vásquez (footballer, born 1998)|Johan Vásquez]]|other=[[Captain (association football)|third captain]]|age={{bda|1998|10|22|df=y}}|caps=50|goals=3|club=[[Genoa CFC|Genoa]]|clubnat=ITA}}
+{{nat fs g player|no=15|pos=DF|name=[[Israel Reyes]]|age={{bda|2000|5|23|df=y}}|caps=38|goals=2|club=[[Club América|América]]|clubnat=MEX}}
+{{nat fs g player|no=20|pos=DF|name=[[Mateo Chávez]]|age={{bda|2004|5|11|df=y}}|caps=11|goals=1|club=[[AZ Alkmaar|AZ]]|clubnat=NED}}
+{{nat fs g player|no=23|pos=DF|name=[[Jesús Gallardo]]|age={{bda|1994|8|15|df=y}}|caps=126|goals=3|club=[[Toluca FC|Toluca]]|clubnat=MEX}}
+{{nat fs break}}
+{{nat fs g player|no=6|pos=MF|name=[[Érik Lira]]|age={{bda|2000|5|8|df=y}}|caps=29|goals=0|club=[[Cruz Azul]]|clubnat=MEX}}
+{{nat fs g player|no=7|pos=MF|name=[[Luis Romo]]|age={{bda|1995|6|5|df=y}}|caps=67|goals=5|club=[[C.D. Guadalajara|Guadalajara]]|clubnat=MEX}}
+{{nat fs g player|no=8|pos=MF|name=[[Álvaro Fidalgo]]|age={{bda|1997|4|9|df=y}}|caps=7|goals=1|club=[[Real Betis|Betis]]|clubnat=ESP}}
+{{nat fs g player|no=17|pos=MF|name=[[Orbelín Pineda]]|age={{bda|1996|3|24|df=y}}|caps=94|goals=12|club=[[AEK Athens F.C.|AEK Athens]]|clubnat=GRE}}
+{{nat fs g player|no=18|pos=MF|name=[[Obed Vargas]]|age={{bda|2005|8|5|df=y}}|caps=9|goals=0|club=[[Atlético Madrid]]|clubnat=ESP}}
+{{nat fs g player|no=19|pos=MF|name=[[Gilberto Mora (footballer, born 2008)|Gilberto Mora]]|age={{bda|2008|10|14|df=y}}|caps=12|goals=0|club=[[Club Tijuana|Tijuana]]|clubnat=MEX}}
+{{nat fs g player|no=24|pos=MF|name=[[Luis Chávez (footballer)|Luis Chávez]]|age={{bda|1996|1|15|df=y}}|caps=46|goals=5|club=[[FC Dynamo Moscow|Dynamo Moscow]]|clubnat=RUS}}
+{{nat fs g player|no=25|pos=MF|name=[[Roberto Alvarado]]|age={{bda|1998|9|7|df=y}}|caps=72|goals=5|club=[[C.D. Guadalajara|Guadalajara]]|clubnat=MEX}}
+{{nat fs g player|no=26|pos=MF|name=[[Brian Gutiérrez]]|age={{bda|2003|6|17|df=y}}|caps=11|goals=2|club=[[C.D. Guadalajara|Guadalajara]]|clubnat=MEX}}
+{{nat fs break}}
+{{nat fs g player|no=9|pos=FW|name=[[Raúl Jiménez]]|age={{bda|1991|5|5|df=y}}|caps=128|goals=48|club=[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]|clubnat=ENG}}
+{{nat fs g player|no=10|pos=FW|name=[[Alexis Vega (Mexican footballer)|Alexis Vega]]|age={{bda|1997|11|25|df=y}}|caps=53|goals=7|club=[[Toluca FC|Toluca]]|clubnat=MEX}}
+{{nat fs g player|no=11|pos=FW|name=[[Santiago Giménez]]|age={{bda|2001|4|18|df=y}}|caps=51|goals=6|club=[[AC Milan|Milan]]|clubnat=ITA}}
+{{nat fs g player|no=14|pos=FW|name=[[Armando González (footballer, born 2003)|Armando González]]|age={{bda|2003|4|20|df=y}}|caps=8|goals=1|club=[[C.D. Guadalajara|Guadalajara]]|clubnat=MEX}}
+{{nat fs g player|no=16|pos=FW|name=[[Julián Quiñones]]|age={{bda|1997|3|24|df=y}}|caps=27|goals=6|club=[[Al Qadsiah FC|Al-Qadsiah]]|clubnat=KSA}}
+{{nat fs g player|no=21|pos=FW|name=[[César Huerta]]|age={{bda|2000|12|3|df=y}}|caps=27|goals=3|club=[[RSC Anderlecht|Anderlecht]]|clubnat=BEL}}
+{{nat fs g player|no=22|pos=FW|name=[[Guillermo Martínez (footballer)|Guillermo Martínez]]|age={{bda|1995|3|15|df=y}}|caps=14|goals=3|club=[[Pumas UNAM]]|clubnat=MEX}}
+{{nat fs end}}
+
+===Recent call-ups===
+The following players have also been called up within the last twelve months.<!-- PLEASE DO NOT ADD players who have announced their retirement from the national team. Since they are not available for selection anymore, they should not be displayed. -->
+<!--Sorted by position, most recent call-up, caps, goals and last name.-->
+{{nat fs r start}}
+{{nat fs r player|no=|pos=GK|name=[[José Antonio Rodríguez (Mexican footballer)|José Antonio Rodríguez]]|age={{bda|1992|7|4|df=y}}|caps=2|goals=0|club=[[Club Tijuana|Tijuana]]|clubnat=MEX|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=GK|name=[[Carlos Moreno (footballer, born 1998)|Carlos Moreno]]|age={{bda|1998|1|29|df=y}}|caps=0|goals=0|club=[[C.F. Pachuca|Pachuca]]|clubnat=MEX|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=GK|name=[[Alex Padilla (footballer)|Álex Padilla]]|age={{bda|2003|9|1|df=y}}|caps=0|goals=0|club=[[Athletic Bilbao]]|clubnat=ESP|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=GK|name=[[Óscar García (footballer, born 2003)|Óscar García]]|age={{bda|2003|7|2|df=y}}|caps=0|goals=0|club=[[Club León|León]]|clubnat=MEX|latest=Training camp 6 May 2026}}
+{{nat fs r player|no=|pos=GK|name=[[Luis Malagón]]|age={{bda|1997|3|2|df=y}}|caps=19|goals=0|club=[[Club América|América]]|clubnat=MEX|latest=v. {{fb|ISL}}, 25 February 2026}}
+{{nat fs r player|no=|pos=GK|name=[[Sebastián Jurado]]|age={{bda|1997|9|28|df=y}}|caps=0|goals=0|club=[[FC Juárez|Juárez]]|clubnat=MEX|latest=Training camp 25–27 August 2025}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=DF|name=[[Jesús Alberto Angulo]]|age={{bda|1998|1|30|df=y}}|caps=19|goals=0|club=[[Tigres UANL]]|clubnat=MEX|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=DF|name=[[Julián Araujo]]|age={{bda|2001|8|13|df=y}}|caps=16|goals=0|club=[[AFC Bournemouth|Bournemouth]]|clubnat=ENG|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=DF|name=[[Víctor Guzmán (footballer, born 2002)|Víctor Guzmán]]|age={{bda|2002|3|7|df=y}}|caps=6|goals=0|club=[[C.F. Monterrey|Monterrey]]|clubnat=MEX|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=DF|name=[[Richard Ledezma]]|age={{bda|2000|9|6|df=y}}|caps=3|goals=1|club=[[C.D. Guadalajara|Guadalajara]]|clubnat=MEX|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=DF|name=[[Alejandro Gómez (Mexican footballer)|Alejandro Gómez]]|age={{bda|2002|1|31|df=y}}|caps=3|goals=0|club=[[Club Tijuana|Tijuana]]|clubnat=MEX|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=DF|name=[[Everardo López]]|age={{bda|2005|3|23|df=y}}|caps=3|goals=0|club=[[Toluca FC|Toluca]]|clubnat=MEX|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=DF|name=[[Eduardo Águila]]|age={{bda|2002|5|17|df=y}}|caps=2|goals=0|club=[[Atlético San Luis]]|clubnat=MEX|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=DF|name=[[Denzell García]]|age={{bda|2003|8|15|df=y}}|caps=2|goals=0|club=[[FC Juárez|Juárez]]|clubnat=MEX|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=DF|name=[[Bryan González (Mexican footballer)|Bryan González]]|age={{bda|2003|4|10|df=y}}|caps=2|goals=0|club=[[C.D. Guadalajara|Guadalajara]]|clubnat=MEX|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=DF|name=[[Ramón Juárez]]|age={{bda|2001|5|3|df=y}}|caps=2|goals=0|club=[[Club América|América]]|clubnat=MEX|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=DF|name=[[Luis Rey (footballer)|Luis Rey]]|age={{bda|2002|9|14|df=y}}|caps=1|goals=0|club=[[C.D. Guadalajara|Guadalajara]]|clubnat=MEX|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=DF|name=[[Diego Campillo]]|age={{bda|2001|10|19|df=y}}|caps=1|goals=0|club=[[C.D. Guadalajara|Guadalajara]]|clubnat=MEX|latest=v. {{fb|ISL}}, 25 February 2026}}
+{{nat fs r player|no=|pos=DF|name=[[Jesús Garza]]|age={{bda|2000|6|6|df=y}}|caps=1|goals=0|club=[[Tigres UANL]]|clubnat=MEX|latest=v. {{fb|ISL}}, 25 February 2026}}
+{{nat fs r player|no=|pos=DF|name=[[Kevin Álvarez (footballer, born 1999)|Kevin Álvarez]]|age={{bda|1999|1|15|df=y}}|caps=16|goals=1|club=[[Club América|América]]|clubnat=MEX|latest=v. {{fb|PAR}}, 18 November 2025}}
+{{nat fs r player|no=|pos=DF|name=[[Jesús Orozco (Mexican footballer)|Jesús Orozco]]|age={{bda|2002|2|19|df=y}}|caps=9|goals=0|club=[[Cruz Azul]]|clubnat=MEX|latest=v. {{fb|PAR}}, 18 November 2025}}
+{{nat fs r player|no=|pos=DF|name=[[Rodrigo Huescas]]|age={{bda|2003|9|18|df=y}}|caps=3|goals=0|club=[[F.C. Copenhagen|Copenhagen]]|clubnat=DEN|latest=v. {{fb|KOR}}, 9 September 2025}}
+{{nat fs r player|no=|pos=DF|name=[[Juanjo Purata]]|age={{bda|1998|1|9|df=y}}|caps=1|goals=0|club=[[Tigres UANL]]|clubnat=MEX|latest=v. {{fb|KOR}}, 9 September 2025}}
+{{nat fs r player|no=|pos=DF|name=[[Gerardo Arteaga]]|age={{bda|1998|9|7|df=y}}|caps=27|goals=2|club=[[C.F. Monterrey|Monterrey]]|clubnat=MEX|latest=Training camp 25–27 August 2025}}
+{{nat fs r player|no=|pos=DF|name=[[Alonso Aceves]]|age={{bda|2001|3|28|df=y}}|caps=0|goals=0|club=[[C.F. Monterrey|Monterrey]]|clubnat=MEX|latest=Training camp 25–27 August 2025}}
+{{nat fs r player|no=|pos=DF|name=[[Diego Barbosa]]|age={{bda|1996|9|25|df=y}}|caps=0|goals=0|club=[[Toluca FC|Toluca]]|clubnat=MEX|latest=Training camp 25–27 August 2025}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=MF|name=[[Carlos Rodríguez (footballer, born 1997)|Carlos Rodríguez]]|age={{bda|1997|1|3|df=y}}|caps=67|goals=0|club=[[Cruz Azul]]|clubnat=MEX|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=MF|name=[[Érick Sánchez]]|age={{bda|1999|9|27|df=y}}|caps=38|goals=3|club=[[Club América|América]]|clubnat=MEX|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=MF|name=[[Diego Lainez]]|age={{bda|2000|6|9|df=y}}|caps=33|goals=3|club=[[Tigres UANL]]|clubnat=MEX|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=MF|name=[[Marcel Ruiz (footballer)|Marcel Ruiz]]|age={{bda|2000|10|26|df=y}}|caps=17|goals=0|club=[[Toluca FC|Toluca]]|clubnat=MEX|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=MF|name=[[Efraín Álvarez]]|age={{bda|2002|6|19|df=y}}|caps=7|goals=1|club=[[C.D. Guadalajara|Guadalajara]]|clubnat=MEX|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=MF|name=[[Alexis Gutiérrez]]|age={{bda|2001|2|26|df=y}}|caps=5|goals=0|club=[[Club América|América]]|clubnat=MEX|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=MF|name=[[Jesús Ricardo Angulo]]|age={{bda|1997|2|20|df=y}}|caps=3|goals=1|club=[[Toluca FC|Toluca]]|clubnat=MEX|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=MF|name=[[Kevin Castañeda]]|age={{bda|1999|10|28|df=y}}|caps=3|goals=0|club=[[C.D. Guadalajara|Guadalajara]]|clubnat=MEX|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=MF|name=[[Jordán Carrillo]]|age={{bda|2001|11|30|df=y}}|caps=2|goals=0|club=[[C.D. Guadalajara|Guadalajara]]|clubnat=MEX|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=MF|name=[[Jorge Ruvalcaba]]|age={{bda|2001|7|23|df=y}}|caps=1|goals=0|club=[[New York Red Bulls]]|clubnat=USA|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=MF|name=[[Isaías Violante]]|age={{bda|2003|10|20|df=y}}|caps=1|goals=0|club=[[Club América|América]]|clubnat=MEX|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=MF|name=[[Alexéi Domínguez]]|age={{bda|2005|1|3|df=y}}|caps=0|goals=0|club=[[C.F. Pachuca|Pachuca]]|clubnat=MEX|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=MF|name=[[Jeremy Márquez]]|age={{bda|2000|6|21|df=y}}|caps=0|goals=0|club=[[Cruz Azul]]|clubnat=MEX|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=MF|name=[[Elías Montiel]]|age={{bda|2005|10|7|df=y}}|caps=0|goals=0|club=[[C.F. Pachuca|Pachuca]]|clubnat=MEX|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=MF|name=[[Iker Fimbres]]|age={{bda|2005|6|2|df=y}}|caps=1|goals=0|club=[[C.F. Monterrey|Monterrey]]|clubnat=MEX|latest=v. {{fb|GHA}}, 22 May 2026}}
+{{nat fs r player|no=|pos=MF|name=[[Jairo Torres]]|age={{bda|2000|7|5|df=y}}|caps=1|goals=0|club=[[FC Juárez|Juárez]]|clubnat=MEX|latest=Training camp 6 May 2026}}
+{{nat fs r player|no=|pos=MF|name=[[Fidel Ambríz]]|age={{bda|2003|3|21|df=y}}|caps=1|goals=0|club=[[C.F. Monterrey|Monterrey]]|clubnat=MEX|latest=v. {{fb|PAR}}, 18 November 2025}}
+{{nat fs r player|no=|pos=MF|name=[[Ozziel Herrera]]|age={{bda|2001|5|25|df=y}}|caps=7|goals=0|club=[[Tigres UANL]]|clubnat=MEX|latest=Training camp 25–27 August 2025}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=FW|name=[[Germán Berterame]]|age={{bda|1998|11|13|df=y}}|caps=9|goals=2|club=[[Inter Miami CF|Inter Miami]]|clubnat=USA|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=FW|name=[[Ángel Sepúlveda]]|age={{bda|1991|2|15|df=y}}|caps=12|goals=3|club=[[C.D. Guadalajara|Guadalajara]]|clubnat=MEX|latest=v. {{fb|BOL}}, 25 January 2026}}
+{{nat fs r player|no=|pos=FW|name=[[Hirving Lozano]]|age={{bda|1995|7|30|df=y}}|caps=75|goals=18|club=[[San Diego FC|San Diego]]|clubnat=USA|latest=v. {{fb|PAR}}, 18 November 2025}}
+{{nat fs break}}
+;Notes
+*<sup>INJ</sup> = Not part of the current squad due to injury
+*<sup>PRE</sup> = Preliminary squad/standby
+*<sup>SUS</sup> = Serving suspension
+*<sup>WD</sup> = The player withdrew from the current squad due to non-injury issue
+{{nat fs end}}
+
+== Player records ==
+{{updated|5 July 2026}}<ref>{{cite web |last1=Mamrud |first1=Roberto |title=Mexico – Record International Players |url=https://www.rsssf.org/miscellaneous/mex-recintlp.html |website=RSSSF |access-date=30 June 2023 |archive-date=10 July 2022 |archive-url=https://web.archive.org/web/20220710163229/https://www.rsssf.org/miscellaneous/mex-recintlp.html |url-status=live }}</ref>
+:''Players in '''bold''' are still active with Mexico. Includes only statistics recognized by FIFA.''
+
+=== Most appearances ===
+[[File:Mex-Kor (25).jpg|thumb|right|Andrés Guardado is the most capped player in the history of Mexico with 180 caps.<ref name="Rsssf">{{Cite web|url=https://www.rsssf.org/miscellaneous/guardado-intlg.html|title=José Andrés Guardado – Century of International Appearances|date=17 November 2022|website=rssssf.com|access-date=17 November 2022|archive-date=17 November 2022|archive-url=https://web.archive.org/web/20221117073333/https://www.rsssf.org/miscellaneous/guardado-intlg.html|url-status=live}}</ref>]]
+{| class="wikitable sortable" style="text-align:center;"
+|-
+!style="color:#FFFFFF;background:#009150; width:30px" |Rank
+!style="color:#FFFFFF;background:#009150; width:150px"|Player
+!style="color:#FFFFFF;background:#009150; width:50px" |Caps
+!style="color:#FFFFFF;background:#009150; width:50px"|Goals
+!style="color:#FFFFFF;background:#009150; width:100px"|Career
+|-
+|1
+|align=left|[[Andrés Guardado]]
+|180
+|28
+|{{nowrap|2005–2024}}
+|-
+|2
+|align=left|[[Claudio Suárez]]
+|178
+|7
+|1992–2006
+|-
+|3
+|align=left|[[Guillermo Ochoa]]
+|153
+|0
+|2005–2026
+|-
+|rowspan=2|4
+|align=left|[[Pável Pardo]]
+|147
+|11
+|1996–2009
+|-
+|align=left|[[Rafael Márquez]]
+|147
+|17
+|1997–2018
+|-
+|6
+|align=left|[[Gerardo Torrado]]
+|144
+|5
+|1999–2013
+|-
+|7
+|align=left|[[Héctor Moreno]]
+|132
+|5
+|2007–2023
+|-
+|8
+|align=left|[[Jorge Campos]]
+|129
+|0
+|1991–2003
+|-
+|9
+|align=left|'''[[Raúl Jiménez]]'''
+|128
+|48
+|2013–present
+|-
+|10
+|align=left|'''[[Jesús Gallardo]]'''
+|126
+|3
+|2016–present
+|}
+
+=== Top goalscorers ===
+[[File:Mex-Kor (29).jpg|thumb|right|Javier Hernández is Mexico's all-time top scorer with 52 goals.]]
+{| class="wikitable sortable" style="text-align:center;"
+|-
+!style="color:#FFFFFF;background:#009150; width:30px" |Rank
+!style="color:#FFFFFF;background:#009150; width:150px"|Player
+!style="color:#FFFFFF;background:#009150; width:50px"|Goals
+!style="color:#FFFFFF;background:#009150; width:50px" |Caps
+!style="color:#FFFFFF;background:#009150; width:50px" |Average
+!style="color:#FFFFFF;background:#009150; width:100px"|Career
+|-
+|1
+|align=left|[[Javier Hernández]] <small>([[List of international goals scored by Javier Hernández|list]])</small>
+|52
+|109
+|{{#expr:52/109 round 2}}
+|{{nowrap|2009–2019}}
+|-
+|2
+|align=left|'''[[Raúl Jiménez]]'''
+|48
+|128
+|{{#expr:48/128 round 2}}
+|2013–present
+|-
+|3
+|align=left|[[Jared Borgetti]] <small>([[List of international goals scored by Jared Borgetti|list]])</small>
+|46
+|89
+|{{#expr:46/89 round 2}}
+|1997–2008
+|-
+|4
+|align=left|[[Cuauhtémoc Blanco]]
+|38
+|118
+|{{#expr:38/118 round 2}}
+|1995–2014
+|-
+|5
+|align=left|[[Luis Hernández (footballer, born 1968)|Luis Hernández]]
+|35
+|85
+|{{#expr:35/85 round 2}}
+|1995–2002
+|-
+|6
+|align=left|[[Carlos Hermosillo]]
+|34
+|89
+|{{#expr:34/89 round 2}}
+|1984–1997
+|-
+|7
+|align=left|[[Enrique Borja]]
+|31
+|65
+|{{#expr:31/65 round 2}}
+|1966–1975
+|-
+|8
+|align=left|[[Hugo Sánchez]]
+|29
+|58
+|{{#expr:29/58 round 2}}
+|1977–1998
+|-
+|rowspan="2"| 9
+|align=left|[[Luis García (footballer, born 1969)|Luis García]]
+|28
+|77
+|{{#expr:28/77 round 2}}
+|1991–1999
+|-
+|align=left|[[Andrés Guardado]]
+|28
+|180
+|{{#expr:28/180 round 2}}
+|2005–2024
+|}
+
+==Competitive record==
+{{Main|Mexico national football team records and statistics}}
+
+===FIFA World Cup===
+{{Main|Mexico at the FIFA World Cup}}
+{| class="wikitable" style="text-align: center;"
+|-
+!colspan=10|[[FIFA World Cup]] record 
+!rowspan=28|
+!colspan=6|[[FIFA World Cup qualification|Qualification]] record
+|-
+!Year
+!Round
+!Position
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}*
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!Squad 
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+|-
+|{{flagicon|Uruguay}} [[1930 FIFA World Cup|1930]]
+|Group stage||13th||3||0||0||3||4||13
+|[[1930 FIFA World Cup squads#Mexico|Squad]]
+|colspan=7|''Qualified as invitees''
+|-
+|{{flagicon|Italy|1861}} [[1934 FIFA World Cup|1934]]
+|colspan=9|''Did not qualify''||4||3||0||1||14||7
+|-
+|{{flagicon|France|1794}} [[1938 FIFA World Cup|1938]]
+|colspan=9|''Withdrew''
+|colspan=7|''Withdrew''
+|-
+|{{flagicon|Brazil|1889}} [[1950 FIFA World Cup|1950]]
+|rowspan=5| Group stage||12th||3||0||0||3||2||10
+|[[1950 FIFA World Cup squads#Mexico|Squad]]
+|4||4||0||0||17||2
+|-
+|{{flagicon|Switzerland}} [[1954 FIFA World Cup|1954]]
+|13th||2||0||0||2||2||8
+|[[1954 FIFA World Cup squads#Mexico|Squad]]
+|4||4||0||0||19||1
+|-
+|{{flagicon|Sweden|1906}} [[1958 FIFA World Cup|1958]]
+|16th||3||0||1||2||1||8
+|[[1958 FIFA World Cup squads#Mexico|Squad]]
+|6||5||1||0||21||3
+|-
+|{{flagicon|Chile}} [[1962 FIFA World Cup|1962]]
+|11th||3||1||0||2||3||4
+|[[1962 FIFA World Cup squads#Mexico|Squad]]
+|8||4||3||1||18||5
+|-
+|{{flagicon|England}} [[1966 FIFA World Cup|1966]]
+|12th||3||0||2||1||1||3
+|[[1966 FIFA World Cup squads#Mexico|Squad]]
+|8||6||2||0||20||4
+|-
+|style="border: 3px solid red"|{{flagicon|Mexico}} [[1970 FIFA World Cup|1970]]
+|Quarter-finals||6th||4||2||1||1||6||4
+|[[1970 FIFA World Cup squads#Mexico|Squad]]
+|colspan=6|''Qualified as hosts''
+|-
+|{{flagicon|West Germany}} [[1974 FIFA World Cup|1974]]
+|colspan=9|''Did not qualify''||9||6||2||1||18||8
+|-
+|{{flagicon|Argentina|1861}} [[1978 FIFA World Cup|1978]]
+|Group stage||16th||3||0||0||3||2||12
+|[[1978 FIFA World Cup squads#Mexico|Squad]]
+|9||6||2||1||23||6
+|-
+|{{flagicon|Spain}} [[1982 FIFA World Cup|1982]]
+|colspan=9|''Did not qualify''||9||2||5||2||14||8
+|-
+|style="border: 3px solid red"|{{flagicon|Mexico}} [[1986 FIFA World Cup|1986]]
+|Quarter-finals||6th||5||3||2||0||6||2
+|[[1986 FIFA World Cup squads#Mexico|Squad]]
+|colspan=6|''Qualified as hosts''
+|-
+|{{flagicon|Italy|1946}} [[1990 FIFA World Cup|1990]]
+|colspan=9|''[[Cachirules|Disqualified]]''
+|colspan=6|''[[Cachirules|Disqualified]]''
+|-
+|{{flagicon|United States}} [[1994 FIFA World Cup|1994]]
+|rowspan=7| Round of 16||13th||4||1||2||1||4||4
+|[[1994 FIFA World Cup squads#Mexico|Squad]]
+|12||9||1||2||39||8
+|-
+|{{flagicon|France|1974}} [[1998 FIFA World Cup|1998]]
+|13th||4||1||2||1||8||7
+|[[1998 FIFA World Cup squads#Mexico|Squad]]
+|16||8||6||2||37||13
+|-
+|{{flagicon|South Korea|1997}} {{flagicon|Japan}} [[2002 FIFA World Cup|2002]]
+|11th||4||2||1||1||4||4
+|[[2002 FIFA World Cup squads#Mexico|Squad]]
+|16||9||3||4||33||11
+|-
+|{{flagicon|Germany}} [[2006 FIFA World Cup|2006]]
+|15th||4||1||1||2||5||5
+|[[2006 FIFA World Cup squads#Mexico|Squad]]
+|18||15||1||2||67||10
+|-
+|{{flagicon|South Africa}} [[2010 FIFA World Cup|2010]]
+|14th||4||1||1||2||4||5
+|[[2010 FIFA World Cup squads#Mexico|Squad]]
+|18||11||2||5||36||18
+|-
+|{{flagicon|Brazil}} [[2014 FIFA World Cup|2014]]
+|10th||4||2||1||1||5||3
+|[[2014 FIFA World Cup squads#Mexico|Squad]]
+|18||10||5||3||31||14
+|-
+|{{flagicon|Russia}} [[2018 FIFA World Cup|2018]]
+|12th||4||2||0||2||3||6
+|[[2018 FIFA World Cup squads#Mexico|Squad]]
+|16||11||4||1||29||8
+|-
+|{{flagicon|Qatar}} [[2022 FIFA World Cup|2022]]
+|Group stage||22nd||3||1||1||1||2||3
+|[[2022 FIFA World Cup squads#Mexico|Squad]]
+|14||8||4||2||17||8
+|-
+|style="border: 3px solid red"|{{flagicon|Canada}} {{flagicon|Mexico}} {{flagicon|United States}} [[2026 FIFA World Cup|2026]]
+|Round of 16||9th||5||4||0||1||10||3
+|[[2026 FIFA World Cup squads#Mexico|Squad]]
+|colspan=6|''Qualified as co-hosts''
+|-
+|{{flagicon|Morocco}} {{flagicon|Portugal}} {{flagicon|Spain}}  [[2030 FIFA World Cup|2030]]
+|colspan=9 rowspan=2 |''To be determined''
+|colspan=6 rowspan=2 |''To be determined''
+|-
+|{{flagicon|Saudi Arabia}} [[2034 FIFA World Cup|2034]]
+|-
+!Total: 18/23!!Quarter-finals!!6th!!65!!21!!15!!29!!72!!104
+!—
+!189!!121!!41!!27!!453!!134
+|}
+
+===CONCACAF Gold Cup===
+{{Main|Mexico at the CONCACAF Gold Cup}}
+{| class="wikitable" style="text-align: center;"
+|-
+!colspan=10|[[CONCACAF Championship]] / [[CONCACAF Gold Cup|Gold Cup]] record 
+!rowspan=31|
+!colspan=7|[[CONCACAF Gold Cup qualification|Qualification]] record
+|-
+!Year
+!Round
+!Position
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}*
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!Squad 
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+|-
+|{{flagicon|SLV}} [[1963 CONCACAF Championship|1963]]
+|Group stage||7th||3||1||1||1||9||2||[[1963 CONCACAF Championship squads#Mexico|Squad]]
+|colspan=6 rowspan=2|''Qualified automatically''
+|-
+|-bgcolor=gold
+|{{flagicon|Guatemala}} [[1965 CONCACAF Championship|1965]]
+|'''Champions'''||'''1st'''||'''5'''||'''4'''||'''1'''||'''0'''||'''13'''||'''2'''||[[1965 CONCACAF Championship squads#Mexico|'''Squad''']]
+|-bgcolor=silver
+|{{flagicon|Honduras|1949}} [[1967 CONCACAF Championship|1967]]
+|'''Runners-up'''||'''2nd'''||'''5'''||'''4'''||'''0'''||'''1'''||'''10'''||'''1'''||[[1967 CONCACAF Championship squads#Mexico|'''Squad''']]
+|colspan=6|''Qualified as defending champions''
+|-bgcolor=#9acdff
+|{{flagicon|CRC}} [[1969 CONCACAF Championship|1969]]
+|'''Fourth place'''||'''4th'''||'''5'''||'''1'''||'''2'''||'''2'''||'''4'''||'''5'''||—
+|2||1||0||1||4||2
+|-bgcolor=gold
+|{{flagicon|TRI}} [[1971 CONCACAF Championship|1971]]
+|'''Champions'''||'''1st'''||'''5'''||'''4'''||'''1'''||'''0'''||'''6'''||'''1'''||—
+|2||2||0||0||6||0
+|-bgcolor="#cc9966"
+|{{flagicon|Haiti|1964}} [[1973 CONCACAF Championship|1973]]
+|'''Third place'''||'''3rd'''||'''5'''||'''2'''||'''2'''||'''1'''||'''10'''||'''5'''||—
+|4||4||0||0||8||3
+|-bgcolor=gold
+| style="border: 3px solid red"|{{flagicon|MEX}} [[1977 CONCACAF Championship|1977]]
+|'''Champions'''||'''1st'''||'''5'''||'''5'''||'''0'''||'''0'''||'''20'''||'''5'''||—
+|4||1||2||1||3||1
+|-bgcolor="#cc9966"
+|{{flagicon|Honduras|1949}} [[1981 CONCACAF Championship|1981]]
+|'''Third place'''||'''3rd'''||'''5'''||'''1'''||'''3'''||'''1'''||'''6'''||'''3'''||—
+|4||1||2||1||8||5
+|-
+|[[1985 CONCACAF Championship|1985]]||colspan=9|''Did not participate, it hosted the [[1986 FIFA World Cup]]''
+|colspan=6|—
+|-
+|[[1989 CONCACAF Championship|1989]]||colspan=9|[[Cachirules|''Banned'']]
+|colspan=6|[[Cachirules|''Banned'']]
+|-
+|bgcolor="#cc9966"|{{flagicon|USA}} [[1991 CONCACAF Gold Cup|1991]]
+|bgcolor="#cc9966"|'''Third place'''
+|bgcolor="#cc9966"|'''3rd'''
+|bgcolor="#cc9966"|'''5'''
+|bgcolor="#cc9966"|'''3'''
+|bgcolor="#cc9966"|'''1'''
+|bgcolor="#cc9966"|'''1'''
+|bgcolor="#cc9966"|'''10'''
+|bgcolor="#cc9966"|'''5'''
+|bgcolor="#cc9966"|[[1991 CONCACAF Gold Cup squads#Mexico|'''Squad''']]
+|colspan=6 rowspan=15|''Qualified automatically''
+|-bgcolor=gold
+|style="border: 3px solid red"|{{flagicon|Mexico}} {{flagicon|USA}} [[1993 CONCACAF Gold Cup|1993]]
+|[[1993 CONCACAF Gold Cup Final|'''Champions''']]||'''1st'''||'''5'''||'''4'''||'''1'''||'''0'''||'''28'''||'''2'''||[[1993 CONCACAF Gold Cup squads#Mexico|'''Squad''']]
+|-bgcolor=gold
+|{{flagicon|USA}} [[1996 CONCACAF Gold Cup|1996]]
+|[[1996 CONCACAF Gold Cup Final|'''Champions''']]||'''1st'''||'''4'''||'''4'''||'''0'''||'''0'''||'''9'''||'''0'''
+|[[1996 CONCACAF Gold Cup squads#Mexico|'''Squad''']]
+|-bgcolor=gold
+|{{flagicon|USA}} [[1998 CONCACAF Gold Cup|1998]]
+|[[1998 CONCACAF Gold Cup Final|'''Champions''']]||'''1st'''||'''4'''||'''4'''||'''0'''||'''0'''||'''8'''||'''2'''||[[1998 CONCACAF Gold Cup squads#Mexico|'''Squad''']]
+|-
+|{{flagicon|USA}} [[2000 CONCACAF Gold Cup|2000]]
+|rowspan=2|Quarter-finals||7th||3||1||1||1||6||3||[[2000 CONCACAF Gold Cup squads#Mexico|Squad]]
+|-
+|{{flagicon|USA}} [[2002 CONCACAF Gold Cup|2002]]
+|5th||3||2||1||0||4||1||[[2002 CONCACAF Gold Cup squads#Mexico|Squad]]
+|-bgcolor=gold
+|style="border: 3px solid red"| {{flagicon|Mexico}} {{flagicon|USA}} [[2003 CONCACAF Gold Cup|2003]]
+|[[2003 CONCACAF Gold Cup Final|'''Champions''']]||'''1st'''||'''5'''||'''4'''||'''1'''||'''0'''||'''9'''||'''0'''||[[2003 CONCACAF Gold Cup squads#Mexico|'''Squad''']]
+|-
+|{{flagicon|USA}} [[2005 CONCACAF Gold Cup|2005]]
+|Quarter-finals||6th||4||2||0||2||7||4||[[2005 CONCACAF Gold Cup squads#Mexico|Squad]]
+|-bgcolor=silver
+|{{flagicon|USA}} [[2007 CONCACAF Gold Cup|2007]]
+|[[2007 CONCACAF Gold Cup Final|'''Runners-up''']]||'''2nd'''||'''6'''||'''4'''||'''0'''||'''2'''||'''7'''||'''5'''||[[2007 CONCACAF Gold Cup squads#Mexico|'''Squad''']]
+|-bgcolor=gold
+|{{flagicon|USA}} [[2009 CONCACAF Gold Cup|2009]]
+|[[2009 CONCACAF Gold Cup Final|'''Champions''']]||'''1st'''||'''6'''||'''5'''||'''1'''||'''0'''||'''15'''||'''2'''||[[2009 CONCACAF Gold Cup squads#Mexico|'''Squad''']]
+|-bgcolor=gold
+|{{flagicon|USA}} [[2011 CONCACAF Gold Cup|2011]]
+|[[2011 CONCACAF Gold Cup Final|'''Champions''']]||'''1st'''||'''6'''||'''6'''||'''0'''||'''0'''||'''22'''||'''4'''||[[2011 CONCACAF Gold Cup squads#Mexico|'''Squad''']]
+|-bgcolor="#cc9966"
+|{{flagicon|USA}} [[2013 CONCACAF Gold Cup|2013]]
+|'''Semi-finals'''||'''3rd'''||'''5'''||'''3'''||'''0'''||'''2'''||'''8'''||'''5'''||[[2013 CONCACAF Gold Cup squads#Mexico|'''Squad''']]
+|-bgcolor=gold
+|{{flagicon|CAN}} {{flagicon|USA}} [[2015 CONCACAF Gold Cup|2015]]
+|[[2015 CONCACAF Gold Cup Final|'''Champions''']]||'''1st'''||'''6'''||'''4'''||'''2'''||'''0'''||'''16'''||'''6'''||[[2015 CONCACAF Gold Cup squads#Mexico|'''Squad''']]
+|-bgcolor="#cc9966"
+|{{flagicon|USA}} [[2017 CONCACAF Gold Cup|2017]]
+|'''Semi-finals'''||'''3rd'''||'''5'''||'''3'''||'''1'''||'''1'''||'''6'''||'''2'''||[[2017 CONCACAF Gold Cup squads#Mexico|'''Squad''']]
+|-bgcolor=gold
+|{{flagicon|USA}} {{flagicon|CRC}} {{flagicon|JAM}} [[2019 CONCACAF Gold Cup|2019]]
+|[[2019 CONCACAF Gold Cup final|'''Champions''']]||'''1st'''||'''6'''||'''5'''||'''1'''||'''0'''||'''16'''||'''4'''||[[2019 CONCACAF Gold Cup squads#Mexico|'''Squad''']]
+|-bgcolor=silver
+|{{flagicon|United States}} [[2021 CONCACAF Gold Cup|2021]]
+|[[2021 CONCACAF Gold Cup final|'''Runners-up''']]||'''2nd'''||'''6'''||'''4'''||'''1'''||'''1'''||'''9'''||'''2'''||[[2021 CONCACAF Gold Cup squads#Mexico|'''Squad''']]
+|4||4||0||0||13||3
+|-bgcolor=gold
+|{{flagicon|Canada}} {{flagicon|United States}} [[2023 CONCACAF Gold Cup|2023]]
+|[[2023 CONCACAF Gold Cup final|'''Champions''']]||'''1st'''||'''6'''||'''5'''||'''0'''||'''1'''||'''13'''||'''2'''||[[2023 CONCACAF Gold Cup squads#Mexico|'''Squad''']]
+|4||2||2||0||8||3
+|-bgcolor=gold
+|{{flagicon|Canada}} {{flagicon|United States}} [[2025 CONCACAF Gold Cup|2025]]
+|[[2025 CONCACAF Gold Cup final|'''Champions''']]||'''1st'''||'''6'''||'''5'''||'''1'''||'''0'''||'''10'''||'''3'''||[[2025 CONCACAF Gold Cup squads#Mexico|'''Squad''']]
+|4||3||0||1||8||3
+|-
+!Total!!13 Titles!!26/28!!129!!90!!22!!17!!281!!76!!—!!28!!18!!6!!4!!58!!20
+|}
+
+===CONCACAF Nations League===
+{{Main|Mexico at the CONCACAF Nations League}}
+{| class="wikitable" style="text-align: center;"
+|-
+!colspan=21|[[CONCACAF Nations League]] record
+|-
+!colspan=11|League phase
+!rowspan=7|
+!colspan=9|Final phase
+|-
+!Season
+!Division
+!Group
+!Seed
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!{{Tooltip|P/R|Promotion/Relegation at end of season}}
+!Finals
+!Result
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!{{Tooltip|Squads|Finals Squad Only}} 
+|-bgcolor=Silver
+|[[2019–20 CONCACAF Nations League|2019–20]]
+|[[2019–20 CONCACAF Nations League A|A]]
+|[[2019–20 CONCACAF Nations League A#Group B|B]]
+|'''1st'''||'''4'''||'''4'''||'''0'''||'''0'''||'''13'''||'''3'''||{{same position}}
+|{{flagicon|USA}} [[2021 CONCACAF Nations League Finals|2021]]
+|[[2021 CONCACAF Nations League final|'''Runners-up''']]||'''2'''||'''0'''||'''1'''||'''1'''||'''2'''||'''3'''||[[2021 CONCACAF Nations League Finals squads#Mexico|'''Squad''']]
+|-style="background:#c96"
+|[[2022–23 CONCACAF Nations League|2022–23]]
+|[[2022–23 CONCACAF Nations League A|A]]
+|[[2022–23 CONCACAF Nations League A#Group A|A]]
+|'''4th'''||'''4'''||'''2'''||'''2'''||'''0'''||'''8'''||'''3'''||{{same position}}
+|{{flagicon|USA}} [[2023 CONCACAF Nations League Finals|2023]]
+|'''Third place'''||'''2'''||'''1'''||'''0'''||'''1'''||'''1'''||'''3'''||[[2023 CONCACAF Nations League Finals squads#Mexico|'''Squad''']]
+|-bgcolor=Silver
+|[[2023–24 CONCACAF Nations League|2023–24]]
+|colspan=2|''[[Bye (sports)|Bye]]''
+|'''1st'''
+|colspan=6|N/A||{{same position}}
+|{{flagicon|USA}} [[2024 CONCACAF Nations League Finals|2024]]
+|[[2024 CONCACAF Nations League final|'''Runners-up''']]||'''4'''||'''2'''||'''0'''||'''2'''||'''5'''||'''4'''||[[2024 CONCACAF Nations League Finals squads#Mexico|'''Squad''']]
+|- bgcolor=gold
+|[[2024–25 CONCACAF Nations League|2024–25]]
+|colspan=2|''[[Bye (sports)|Bye]]''
+|'''1st'''
+|colspan=6|N/A||{{same position}}
+|{{flagicon|USA}} [[2025 CONCACAF Nations League Finals|2025]]
+|[[2025 CONCACAF Nations League final|'''Champions''']]||'''4'''||'''3'''||'''0'''||'''1'''||'''8'''||'''3'''||[[2025 CONCACAF Nations League Finals squads#Mexico|'''Squad''']]
+|-
+|- 
+|[[2026–27 CONCACAF Nations League|2026–27]]
+|colspan=2|''[[Bye (sports)|Bye]]''
+|TBD
+|colspan=6|N/A||{{same position}}
+|{{flagicon|USA}} [[2027 CONCACAF Nations League Finals|2027]]
+|colspan=8|''To be determined''
+|-
+!colspan=5|Total!!8!!6!!2!!0!!21!!6
+!—
+!Total!!1 Title!!12!!6!!1!!5!!16!!13!!—
+|}
+
+===Copa América===
+{{main|Mexico at the Copa América}}
+{| class="wikitable" style="text-align: center;"
+|-
+!colspan=10|[[Copa América]] record
+|-
+!Year
+!Round
+!Position
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}*
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!Squad
+|-bgcolor=silver
+|{{flagicon|Ecuador|1900}} [[1993 Copa América|1993]]
+|[[1993 Copa América Final|'''Runners-up''']] ||'''2nd'''||'''6'''||'''2'''||'''2'''||'''2'''||'''9'''||'''7'''||[[1993 Copa América squads#Mexico|'''Squad''']]
+|-
+|{{flagicon|Uruguay}} [[1995 Copa América|1995]]
+|Quarter-finals||7th||4||1||2||1||5||4||[[1995 Copa América squads#Mexico|Squad]]
+|-bgcolor=#c96
+|{{flagicon|Bolivia}} [[1997 Copa América|1997]]
+|'''Third place'''||'''3rd'''||'''6'''||'''2'''||'''2'''||'''2'''||'''8'''||'''9'''||[[1997 Copa América squads#Mexico|'''Squad''']]
+|-bgcolor=#c96
+|{{flagicon|Paraguay|1990}} [[1999 Copa América|1999]]
+|'''Third place'''||'''3rd'''||'''6'''||'''3'''||'''1'''||'''2'''||'''10'''||'''9'''||[[1999 Copa América squads#Mexico|'''Squad''']]
+|-bgcolor=silver
+|{{flagicon|Colombia}} [[2001 Copa América|2001]]
+|[[2001 Copa América Final|'''Runners-up''']]||'''2nd'''||'''6'''||'''3'''||'''1'''||'''2'''||'''5'''||'''3'''||[[2001 Copa América squads#Mexico|'''Squad''']]
+|-
+|{{flagicon|Peru|football}} [[2004 Copa América|2004]]
+|Quarter-finals||6th||4||2||1||1||5||7||[[2004 Copa América squads#Mexico|Squad]]
+|-bgcolor=#c96
+|{{flagicon|Venezuela}} [[2007 Copa América|2007]]
+|'''Third place'''||'''3rd'''||'''6'''||'''4'''||'''1'''||'''1'''||'''13'''||'''5'''||[[2007 Copa América squads#Mexico|'''Squad''']]
+|-
+|{{flagicon|Argentina}} [[2011 Copa América|2011]]
+|rowspan=2|Group stage
+|12th||3||0||0||3||1||4||[[2011 Copa América squads#Mexico|Squad]]
+|-
+|{{flagicon|Chile}} [[2015 Copa América|2015]]
+|11th||3||0||2||1||4||5||[[2015 Copa América squads#Mexico|Squad]]
+|-
+|{{flagicon|United States}} [[Copa América Centenario|2016]]
+|Quarter-finals||7th||4||2||1||1||6||9||[[Copa América Centenario squads#Mexico|Squad]]
+|-
+|{{flagicon|United States}} [[2024 Copa América|2024]]
+|Group stage||9th||3||1||1||1||1||1||[[2024 Copa América squads#Mexico|Squad]]
+|-
+!Total!!Runners-up!!Invitation (11)!!51!!20!!14!!17!!67!!63!!—
+|}
+
+===FIFA Confederations Cup===
+{| class="wikitable" style="text-align: center;"
+|-
+!colspan=10|[[FIFA Confederations Cup]] record
+|-
+!Year
+!Round
+!Position
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}*
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!Squad
+|-
+|{{flagicon|Saudi Arabia}} [[1992 King Fahd Cup|1992]]
+|colspan=9|''Did not qualify''
+|-bgcolor="#cc9966"
+|{{flagicon|Saudi Arabia}} [[1995 King Fahd Cup|1995]]
+|'''Third place'''||'''3rd'''||'''3'''||'''1'''||'''2'''||'''0'''||'''4'''||'''2'''||[[1995 King Fahd Cup squads#Mexico|'''Squad''']]
+|-
+|{{flagicon|Saudi Arabia}} [[1997 FIFA Confederations Cup|1997]]
+|Group stage||5th||3||1||0||2||8||6||[[1997 FIFA Confederations Cup squads#Mexico|Squad]]
+|-bgcolor=gold
+|style="border: 3px solid red|{{flagicon|Mexico}} [[1999 FIFA Confederations Cup|1999]]
+|[[1999 FIFA Confederations Cup Final|'''Champions''']]||'''1st'''||'''5'''||'''4'''||'''1'''||'''0'''||'''13'''||'''6'''||[[1999 FIFA Confederations Cup squads#Mexico|'''Squad''']]
+|-
+|{{flagicon|South Korea|1997}}{{flagicon|Japan}} [[2001 FIFA Confederations Cup|2001]]
+|Group stage||8th||3||0||0||3||1||8||[[2001 FIFA Confederations Cup squads#Mexico|Squad]]
+|-
+|{{flagicon|France|1974}} [[2003 FIFA Confederations Cup|2003]]
+|colspan=9|''Did not qualify''
+|- style="background:#9acdff"
+|{{flagicon|Germany}} [[2005 FIFA Confederations Cup|2005]]
+|'''Fourth place'''||'''4th'''||'''5'''||'''2'''||'''2'''||'''1'''||'''7'''||'''6'''||[[2005 FIFA Confederations Cup squads#Mexico|'''Squad''']]
+|-
+|{{flagicon|South Africa}} [[2009 FIFA Confederations Cup|2009]]
+|colspan=9|''Did not qualify''
+|-
+|{{flagicon|Brazil}} [[2013 FIFA Confederations Cup|2013]]
+|Group stage||6th||3||1||0||2||3||5||[[2013 FIFA Confederations Cup squads#Mexico|Squad]]
+|- style="background:#9acdff"
+|{{flagicon|Russia}} [[2017 FIFA Confederations Cup|2017]]
+|'''Fourth place'''||'''4th'''||'''5'''||'''2'''||'''1'''||'''2'''||'''8'''||'''10'''||[[2017 FIFA Confederations Cup squads#Mexico|'''Squad''']]
+|-
+!Total!!1 Title!!7/10!!27!!11!!6!!10!!44!!43!!—
+|}
+
+===Olympic Games===
+{{See also|Mexico national under-23 football team}}
+{| class="wikitable" style="text-align: center;"
+|-
+!colspan=10|[[Football at the Summer Olympics|Olympic Games]] record
+|-
+!Year
+!Round
+!Position
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}*
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!Squad
+|-
+|{{flagicon|GBR}} [[Football at the 1908 Summer Olympics|1908]]||rowspan=3 colspan=9|''The national team did not exist''
+|-
+|{{flagicon|SWE}} [[Football at the 1912 Summer Olympics|1912]]
+|-
+|{{flagicon|BEL}} [[Football at the 1920 Summer Olympics|1920]]
+|-
+|{{flagicon|FRA}} [[Football at the 1924 Summer Olympics|1924]]||colspan=9|''Did not participate'' 
+|-
+|{{flagicon|NED}} [[Football at the 1928 Summer Olympics|1928]]
+|Round of 16||14th||2||0||0||2||2||10||[[Football at the 1928 Summer Olympics – Men's team squads#Mexico|Squad]]
+|-
+|{{flagicon|Germany|1935}} [[Football at the 1936 Summer Olympics|1936]]||colspan=9|''Did not participate''
+|-
+|{{flagicon|UK}} [[Football at the 1948 Summer Olympics|1948]]
+|Round of 16||11th||1||0||0||1||3||5||[[Football at the 1948 Summer Olympics – Men's team squads#Mexico|Squad]]
+|-
+|{{flagicon|Finland}} [[Football at the 1952 Summer Olympics|1952]]||rowspan=3 colspan=9|''Did not qualify''
+|-
+|{{flagicon|AUS}} [[Association football at the 1956 Summer Olympics|1956]]
+|-
+|{{flagicon|Italy}} [[Football at the 1960 Summer Olympics|1960]]
+|-
+|{{flagicon|Japan|1870}} [[Football at the 1964 Summer Olympics|1964]]||rowspan=4 colspan=9|''The olympic team participated''
+|-
+|- style="background:#9acdff"
+|style="border: 3px solid red"|{{flagicon|Mexico}} [[Football at the 1968 Summer Olympics|1968]]
+|-
+|{{flagicon|FRG}} [[Football at the 1972 Summer Olympics|1972]]
+|-
+|{{flagicon|Canada}} [[Football at the 1976 Summer Olympics|1976]]
+|-
+|{{flagicon|USSR}} [[Football at the 1980 Summer Olympics|1980]]||rowspan=2 colspan=9|''Did not qualify''
+|-
+|{{flagicon|US}} [[Football at the 1984 Summer Olympics|1984]]
+|-
+|{{flagicon|KOR|1984}} [[Football at the 1988 Summer Olympics|1988]]||colspan=9|''[[Cachirules|Banned]]''
+|-
+|Since [[Football at the 1992 Summer Olympics|1992]]||colspan=9|''The [[Mexico national under-23 football team|under-23 team]] participated''
+|-
+!Total||Round of 16||2/13||3||0||0||3||5||15||—
+|}
+
+===Panamerican Championship===
+{| class="wikitable" style="text-align: center;"
+!colspan=10|[[Panamerican Championship]] record
+|-
+!Year
+!Round
+!Position
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!Squad
+|-
+|{{flagicon|CHI}} [[1952 Panamerican Championship|1952]]
+|Round-robin||5th||5||1||0||4||5||14||[[1952 Panamerican Championship squads#Mexico|Squad]]
+|-
+|{{flagicon|MEX}} [[1956 Panamerican Championship|1956]]
+|Round-robin||5th||5||1||2||2||4||6||[[1956 Panamerican Championship squads#Mexico|Squad]]
+|-bgcolor="#cc9966"
+|{{flagicon|CRC}} [[1960 Panamerican Championship|1960]]
+|'''Third place'''||'''3rd'''||'''5'''||'''1'''||'''2'''||'''3'''||'''9'''||'''10'''||[[1960 Panamerican Championship squads#Mexico|'''Squad''']]
+|-
+!Total!!Third place!!3/3!!16!!3!!4!!9!!18!!30!!—
+|}
+
+===NAFC Championship===
+{| class="wikitable" style="text-align: center;"
+!colspan=10|[[North American Football Confederation#NAFC Championship|NAFC Championship]] record
+|-
+!Year
+!Round
+!Position
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}*
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!Squad
+|-
+|-bgcolor=gold
+|{{flagicon|CUB|1902}} [[1947 NAFC Championship|1947]]
+|'''Champions'''||'''1st'''||'''2'''||'''2'''||'''0'''||'''0'''||'''8'''||'''1'''||[[1947 NAFC Championship squads#Mexico|'''Squad''']]
+|-
+|-bgcolor=gold
+|style="border: 3px solid red"|{{flagicon|MEX|1934}} [[1949 NAFC Championship|1949]]
+|'''Champions'''||'''1st'''||'''4'''||'''4'''||'''0'''||'''0'''||'''17'''||'''2'''||[[1949 NAFC Championship squads#Mexico|'''Squad''']]
+|-
+!Total!!2 Titles!!2/2!!6!!6!!0!!0!!25!!3!!—
+|}
+
+== Head-to-head record ==
+{{Main|Mexico national football team records and statistics#Head-to-head record|l1=Mexico national football team head-to-head record}}
+
+{{updated|5 July 2026}}
+
+{{legend2|#CCFFCC|Positive Record|border=1px solid #AAAAAA}}
+{{legend2|#FFFFCC|Neutral Record|border=1px solid #AAAAAA}}
+{{legend2|#FFDACC|Negative Record|border=1px solid #AAAAAA}}
+{| class="wikitable sortable collapsible collapsed" style="text-align: center; font-size: 100%;"
+|- style="color:black;"
+! style="width:145px;"|Opponents
+!width=30|{{Tooltip|Pld|Games played}}
+!width=30|{{Tooltip|W|Won}}
+!width=30|{{Tooltip|D|Drawn}}
+!width=30|{{Tooltip|L|Lost}}
+!width=35|{{Tooltip|GF|Goals for}}
+!width=35|{{Tooltip|GA|Goals against}}
+!width=35|{{Tooltip|GD|Goal difference}}
+!width=35|{{Tooltip|Win %|Win percentage}}
+|-
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|Albania}}||1||1||0||0||4||0||+4
+|align=center|13 March 2002<br />4-0
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|Algeria}}||2||1||1||0||4||2||+2
+|align=center|13 October 2020<br />2-2
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|Angola}}||2||1||1||0||1||0||+1
+|align=center|13 May 2010<br />1-0
+|-bgcolor=#FFCCCC
+|align="left"|{{fb|Argentina}}||[[Argentina–Mexico football rivalry|32]]||4||12||16||28||53||-25
+|align=center|26 November 2022<br />[[2022 FIFA World Cup Group C#Argentina vs Mexico|0-2]]
+|-bgcolor=#FFFCCC
+|align="left"|{{fb|Australia}}||7||2||3||2||10||10||0
+|align=center|30 May 2026<br />1-0
+|-bgcolor=#FFCCCC
+|align="left"|{{fb|Belarus}}||1||0||0||1||2||3||-1
+|align=center|18 November 2014<br />2-3
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|Belgium}}||8||3||3||2||10||12||-2
+|align=center|31 March 2026<br />1-1
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|Belize}}||2||2||0||0||9||0||+9
+|align=center|21 June 2008<br />7-0
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|Bermuda}}||8||7||0||1||23||4||+19
+|align=center|19 November 2019<br />2-1
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|Bolivia}}||14||11||2||1||22||5||+17
+|align=center|25 January 2026<br />1-0
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|Bosnia}}||4||3||0||1||5||2||+3
+|align=center|31 January 2018<br />1-0
+|-bgcolor=#FFCCCC
+|align="left"|{{fb|Brazil}}||[[Brazil–Mexico football rivalry|42]]||10||7||25||38||78||-40
+|align=center|8 June 2024<br />2–3
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|Bulgaria}}||13||4||6||3||16||14||+2
+|align=center|16 November 2005<br />0-3
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|Cameroon}}||3||2||1||0||4||2||+2
+|align=center|10 June 2023<br />2-2
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|Canada}}||40||25||11||4||89||26||+63
+|align=center|20 March 2025<br />2-0
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|Chile}}||33||15||6||12||37||42||-5
+|align=center|8 December 2021<br />2–2
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|China}}||3||3||0||0||7||2||+5
+|align=center|16 April 2008<br />1-0
+|-bgcolor=#FFFFCC
+|align="left"|{{fb|Colombia}}||29||10||9||10||29||31||–2
+|align=center|11 October 2025<br />0-4
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|Costa Rica}}||59||32||21||6||88||34||+54
+|align=center|22 June 2025<br />0-0
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|Croatia}}||6||2||0||4||6||9||-3
+|align=center|27 March 2018<br />0-1
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|Cuba}}||13||13||0||0||51||6||+45
+|align=center|15 June 2019<br />[[2019 CONCACAF Gold Cup Group A#Mexico vs Cuba|7-0]]
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|Curaçao}}||1||1||0||0||2||0||+2
+|align=center|16 July 2017<br />[[2017 CONCACAF Gold Cup Group C#Curaçao vs Mexico|2-0]]
+|-bgcolor=#FFFFCC
+|align="left"|{{fb|Czech Republic}}||2||1||0||1||4||2||+2
+|align=center|24 June 2026<br />[[2026 FIFA World Cup|3–0]]
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|DRC}}||1||1||0||0||2||1||+1
+|align=center|12 May 2006<br />2-1
+|-bgcolor=#FFCCCC
+|align="left"|{{fb|Denmark}}||4||1||1||2||5||6||-1
+|align=center|9 June 2018<br />0-2
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|Dominica}}||2||2||0||0||18||0||+18
+|align=center|27 June 2004<br />8-0
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|Dominican Republic}}||1||1||0||0||3||2||+1
+|align=center|14 June 2025<br />3–2
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|Ecuador}}||29||17||7||5||46||27||+19
+|align=center|[[2026 FIFA World Cup|30 June 2026<br />2–0]]
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|Egypt}}||4||2||1||1||8||4||+4
+|align=center|27 July 1999<br />2-2
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|El Salvador}}||37||32||1||4||106||20||+86
+|align=center|30 March 2022<br />2-0
+|-bgcolor=#FFCCCC
+|align="left"|{{fb|England}}||11||2||1||8||6||30||-24
+|align=center|5 July 2026<br />2-3
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|Estonia}}||1||1||0||0||6||0||+6
+|align=center|9 May 1998<br />6-0
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|Ethiopia}}||1||1||0||0||3||0||+3
+|align=center|29 September 1968<br />3-0
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|Fiji}}||1||1||0||0||2||0||+2
+|align=center|30 August 1980<br />2-0
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|Finland}}||5||4||1||0||11||4||+7
+|align=center|30 October 2013<br />4-2
+|-bgcolor=#FFCCCC
+|align="left"|{{fb|France}}||7||1||1||5||6||15||-9
+|align=center|17 June 2010<br />[[2010 FIFA World Cup Group A#France vs Mexico|2-0]]
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|Gambia}}||1||1||0||0||5||1||+4
+|align=center|30 May 2010<br />5-1
+|-bgcolor=#FFCCCC
+|align="left"|{{fb|Germany}}||13||2||6||5||13||26||-13
+|align=center|17 October 2023<br />2-2
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|Ghana}}||5||5||0||0||8||1||+7
+|align=center|22 May 2026<br />2-0
+|-bgcolor=#FFFFCC
+|align="left"|{{fb|Greece}}||4||1||2||1||4||4||0
+|align=center|22 June 2005<br />[[2005 FIFA Confederations Cup Group B#Greece v Mexico|0-0]]
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|Guadeloupe}}||2||2||0||0||3||0||+3
+|align=center|12 July 2009<br />2-0
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|Guatemala}}||37
+||24||9||4||74||32||+42
+|align=center|7 June 2023<br />2-0
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|Guinea}}||1
+||0||0||0||4||0||+4
+|align=center|17 October 1968<br />4-0
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|Guyana}}||2||2||0||0||8||1||+7
+|align=center|12 October 2012<br/>5-0
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|Haiti}}||11||9||2||0||30||3||+27
+|align=center|29 June 2023<br />3-1
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|Honduras}}||51||31||10||10||92||39||+53
+|align=center|2 July 2025<br />1–0
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|Hungary}}||7||5||1||1||15||6||+9
+|align=center|14 December 2005<br />2-0
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|Iceland}}||6||4||2||0||10||1||+9
+|align=center|25 February 2026<br />4–0
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|Iran}}||3||3||0||0||9||2||+7
+|align=center|2 June 2007<br />4-0
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|Iraq}}||2||2||0||0||5||0||+5
+|align=center|9 November 2022<br />4-0
+|-bgcolor=#FFFFCC
+|align="left"|{{fb|Israel}}||2||1||0||1||3||1||+2
+|align=center|28 May 2014<br />3-0
+|-bgcolor=#FFCCCC
+|align="left"|{{fb|Italy}}||12||1||4||7||10||28||-18
+|align=center|16 June 2013<br />[[2013 FIFA Confederations Cup Group A#Mexico v Italy|1-2]]
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|Ivory Coast}}||1||1||0||0||4||1||+3
+|align=center|14 August 2013<br />4-1
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|Jamaica}}||29||21||5||3||72||15||+57
+|align=center|22 June 2024<br />1-0
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|Japan}}||8||6||1||1||15||6||+9
+|align=center|6 September 2025<br />0–0
+|-bgcolor=#FFFFCC
+|align="left"|{{fb|Jordan}}||1||0||1||0||0||0||0
+|align=center|18 October 1985<br />0-0
+|-bgcolor=#FFFFCC
+|align="left"|{{fb|Kuwait}}||1||0||1||0||0||0||0
+|align=center|25 October 1985<br />0-0
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|Liberia}}||1
+||1||0||0||5||4||+1
+|align=center|23 August 2001<br />5-4
+|-bgcolor=#FFCCCC
+|align="left"|{{fb|Libya}}||1||0||0||1||1||3||-2
+|align=center|11 October 1985<br />1-3
+|-bgcolor=#FFCCCC
+|align="left"|{{fb|Luxembourg}}||1||0||0||1||1||2||-1
+|align=center|10 April 1969<br />1-2
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|Martinique}}||3||3||0||0||15||3||+12
+|align=center|23 June 2019<br />[[2019 CONCACAF Gold Cup Group A#Martinique vs Mexico|3-2]]
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|Myanmar}}||1||1||0||0||1||0||+1
+|align=center|30 August 1972<br />1-0
+|-bgcolor=#FFCCCC
+|align="left"|{{fb|Morocco}}||1||0||0||1||1||2||-1
+|align=center|11 September 1971<br />1-2
+|-bgcolor=#FFFFCC
+|align="left"|{{fb|Netherlands}}||9||4||1||4||16||15||+1
+|align=center|7 October 2020<br />1-0
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|New Zealand}}||8||7||0||1||21||9||+12
+|align=center|7 September 2024<br />3-0
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|Nicaragua}}||3||3||0||0||10||1||+9
+|align=center|5 July 2009<br />2-0
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|Nigeria}}||7||3||4||0||13||7||+6
+|align=center|28 May 2022<br />2-1
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|North Korea}}||1||1||0||0||2||1|||+1
+|align=center|17 March 2010<br />2-1
+|-bgcolor=#FFFFCC
+|align="left"|{{fb|Northern Ireland}}||2||1||0||1||4||4||0
+|align=center|11 June 1994<br />3-0
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|Norway}}||6||3||1||2||11||8||+3
+|align=center|25 January 2006<br />2-1
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|Panama}}||29||21||6||2||52||16||+36
+|align=center|22 January 2026<br />1-0
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|Paraguay}}||22||11||5||6||38||19||+19
+|align=center|18 November 2025<br />1-2
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|Peru}}||28||13||6||9||38||32||+6
+|align=center|24 September 2022<br />1-0
+|-bgcolor=#FFFFCC
+|align="left"|{{fb|Poland}}||9||3||3||3||13||9||+4
+|align=center|22 November 2022<br />[[2022 FIFA World Cup Group C#Mexico vs Poland|0-0]]
+|-bgcolor=#FFCCCC
+|align="left"|{{fb|Portugal}}||6||0||3||3||4||7||-3
+|align=center|28 March 2026<br />0-0
+|-bgcolor=#FFCCCC
+|align="left"|{{fb|Qatar}}||1||0||0||1||0||1||-1
+|align=center|2 July 2023<br />0-1
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|Republic of Ireland}}||6||2||4||0||9||6||+3
+|align=center|1 June 2017<br />3-1
+|-bgcolor=#FFFFCC
+|align="left"|{{fb|Romania}}||2||1||0||1||2||2||0
+|align=center|10 February 1993<br />2-0
+|-bgcolor=#FFCCCC
+|align="left"|{{fb|Russia}}||4||1||0||3||4||11||-7
+|align=center|24 June 2017<br />[[2017 FIFA Confederations Cup Group A#Mexico vs Russia|2-1]]
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|SKN}}||2||2||0||0||13||0||+13
+|align=center|17 November 2004<br />[[2006 FIFA World Cup qualification – CONCACAF third round#Group 3|8-0]]
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|VIN}}||7||7||0||0||36||1||+35
+|align=center|10 October 2004<br />1-0
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|Saudi Arabia}}||7||6||1||0||18||3||+15
+|align=center|28 June 2025<br />2-0
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|Scotland}}||1||1||0||0||1||0||+1
+|align=center|2 June 2018<br />1-0
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|Senegal}}||2||2||0||0||3||0||+3
+|align=center|10 February 2016<br />2-0
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|Serbia}}||2||2||0||0||7||1||+6
+|align=center|4 June 2026<br />5-1
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|Slovakia}}||1||1||0||0||5||2||+3
+|align=center|17 May 1996<br />5-2
+|-bgcolor=#FFCCCC
+|align="left"|{{fb|Slovenia}}||1||0||0||1||1||2||-1
+|align=center|6 December 1995<br />1-2
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|South Africa}}||5||3||1||1||12||5||+7
+|align=center|11 June 2026<br />[[2026 FIFA World Cup Group A#Mexico vs South Africa|2-0]]
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|South Korea}}||16||9||3||4||32||20||+12
+|align=center|18 June 2026<br />1–0
+|-bgcolor=#FFCCCC
+|align="left"|{{fb|Spain}}||8||0||3||5||4||16||-12
+|align=center|11 August 2010<br />1-1
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|Suriname}}||4||4||0||0||15||1||+14
+|align=center|18 June 2025<br />2-0
+|-bgcolor=#FFCCCC
+|align="left"|{{fb|Sweden}}||11||2||3||6||6||13||-7
+|align=center|16 November 2022<br />1-2
+|-bgcolor=#FFCCCC
+|align="left"|{{fb|Switzerland}}||6||1||1||4||9||14||-5
+|align=center|7 June 2025<br />2-4
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|Sudan}}||1||1||0||0||1||0||+1
+|align=center|28 August 1972<br />1-0
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|Tahiti}}||1||1||0||0||1||0||+1
+|align=center|2 September 1980<br />1-0
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|Trinidad and Tobago}}||24||15||6||3||54||22||+32
+|align=center|10 July 2021<br />[[2021 CONCACAF Gold Cup Group A#Mexico vs. Trinidad and Tobago|0-0]]
+|-bgcolor=#FFCCCC
+|align="left"|{{fb|Tunisia}}||1||0||0||1||1||3||-2
+|align=center|2 June 1978<br />1-3
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|Turkey}}||1||1||0||0||1||0||+1
+|align=center|10 June 2025<br />1-0
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|Ukraine}}||1||1||0||0||2||1||+1
+|align=center|20 October 1993<br />2-1
+|-bgcolor=#FFFFCC
+|align="left"|{{fb|United Arab Emirates}}||1||0||1||0||2||2||0
+|align=center|22 October 1985<br />2-2
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|United States}}||[[Mexico–United States soccer rivalry|79]]||38||17||24||149||93||+56
+|align=center|6 July 2025<br />2–1
+|-bgcolor=#FFFFCC
+|align="left"|{{fb|Uruguay}}||24||8||8||8||29||35||-6
+|align=center|15 November 2025<br />0-0
+|-bgcolor=#FFFFCC
+|align="left"|{{fb|Uzbekistan}}||1||0||1||0||3||3||0
+|align=center|12 September 2023<br />3-3
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|Venezuela}}||14||10||3||1||30||11||+19
+|align=center|26 June 2024<br />0-1
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|Wales}}||5||2||2||1||5||3||+2
+|align=center|27 March 2021<br />0-1
+|-bgcolor=#CCFFCC
+|align="left"|{{fb|Yemen}}||1||1||0||0||2||0||+2
+|align=center|15 October 1985<br />2-0
+|-
+|'''Total'''
+|'''1,002'''
+|'''536'''
+|'''222'''
+|'''244'''
+|'''1795'''
+|'''1023'''
+|'''+772'''
+|
+|}
+
+==Honours==
+===Global===
+* '''[[FIFA Confederations Cup]]'''
+** [[File:Confed trophy.png|14px]] '''Champions (1)''': [[1999 FIFA Confederations Cup|1999]]
+** {{bronze3}} Third place (1): [[1995 King Fahd Cup|1995]]
+
+===Continental===
+* '''[[CONCACAF Championship]] / [[CONCACAF Gold Cup|Gold Cup]]'''
+** [[File:CONCACAF - Gold Cup.svg|22px]] '''Champions (13)''': [[1965 CONCACAF Championship|1965]], [[1971 CONCACAF Championship|1971]], [[1977 CONCACAF Championship|1977]], [[1993 CONCACAF Gold Cup|1993]], [[1996 CONCACAF Gold Cup|1996]], [[1998 CONCACAF Gold Cup|1998]], [[2003 CONCACAF Gold Cup|2003]], [[2009 CONCACAF Gold Cup|2009]], [[2011 CONCACAF Gold Cup|2011]], [[2015 CONCACAF Gold Cup|2015]], [[2019 CONCACAF Gold Cup|2019]], [[2023 CONCACAF Gold Cup|2023]], [[2025 CONCACAF Gold Cup|2025]]
+** {{silver2}} Runners-up (3): [[1967 CONCACAF Championship|1967]], [[2007 CONCACAF Gold Cup|2007]], [[2021 CONCACAF Gold Cup|2021]]
+** {{bronze3}} Third place (3): [[1973 CONCACAF Championship|1973]], [[1981 CONCACAF Championship|1981]], [[1991 CONCACAF Gold Cup|1991]]
+*'''[[CONCACAF Nations League]]'''
+** [[File:Trofeo de Liga de Naciones Concacaf.svg|14px]] '''Champions (1)''': [[2024–25 CONCACAF Nations League|2024–25]]
+** {{silver2}} Runners-up (2): [[2019–20 CONCACAF Nations League|2019–20]], [[2023–24 CONCACAF Nations League|2023–24]]
+** {{bronze3}} Third place (1): [[2022–23 CONCACAF Nations League|2022–23]]
+* '''[[CONCACAF Cup]]'''
+** [[File:CONCACAF Cup.png|14px]] '''Champions (1)''': [[CONCACAF Cup|2015]]
+* '''[[Copa América|CONMEBOL Copa América]]'''
+** {{silver2}} Runners-up (2): [[1993 Copa América|1993]], [[2001 Copa América|2001]]
+** {{bronze3}} Third place (3): [[1997 Copa América|1997]], [[1999 Copa América|1999]], [[2007 Copa América|2007]]
+* '''[[Panamerican Championship]]'''{{sup|1}}
+** {{bronze3}} Third place (1): [[1960 Panamerican Championship|1960]]
+
+===Subregional===
+* '''[[North American Football Confederation#NAFC Championship|NAFC Championship]]'''{{sup|2}}
+**  {{gold1}} '''Champions (2)''': [[1947 NAFC Championship|1947]], [[1949 NAFC Championship|1949]]
+* '''[[North American Nations Cup]]'''
+** {{gold1}} '''Champions (1)''': [[1991 North American Nations Cup|1991]]
+** {{silver2}} Runners-up (1): [[1990 North American Nations Cup|1990]]
+* '''[[Football at the Central American and Caribbean Games|Central American and Caribbean Games]]'''
+** {{gold1}} '''Gold medal (2)''': [[Football at the 1935 Central American and Caribbean Games|1935]], [[Football at the 1938 Central American and Caribbean Games|1938]]
+
+===Friendly===
+* '''[[:es:Torneo Internacional de Chile|Torneo Internacional de Chile]] (1)''': [[:es:Torneo Internacional de Chile 1966|1966]]
+* '''[[:es:Copa Ciudad de México 1975|Copa Ciudad de México]] (1)''': [[:es:Copa Ciudad de México 1975|1975]]
+* '''[[1985 Azteca 2000 Tournament|Azteca 2000 Tournament]] (1)''': [[1985 Azteca 2000 Tournament|1985]]
+* '''[[Marlboro Cup (soccer)|Marlboro Cup]] (1)''': [[Marlboro Cup (soccer)|1989]]
+* '''[[U.S. Cup]] (3)''': [[1996 U.S. Cup|1996]], [[1997 U.S. Cup|1997]], [[1999 U.S. Cup|1999]]
+* '''[[Lunar New Year Cup]] (1)''': [[1999 Lunar New Year Cup|1999]]
+* '''Copa Reebok (1)''': 1999<ref>{{cite web|title=Copa Reebok|url=https://www.rsssf.org/tablesc/copareebok.html|website=RSSSF}}</ref>
+
+===Summary===
+Only official honours are included, according to ''FIFA statutes'' (competitions organized/recognized by [[FIFA]] or an affiliated confederation).
+{| class="wikitable" width=30% style="font-size:90%; text-align:center;"
+|-
+!Competition!!{{gold1}}!!{{silver2}}!!{{bronze3}}!!Total
+|-
+|align=left|[[FIFA Confederations Cup]]||1||0||1||2
+|-
+|align=left|[[CONCACAF Championship]] / [[CONCACAF Gold Cup|Gold Cup]]
+|13||3||3||18
+|-
+|align=left|[[CONCACAF Nations League]]
+|1||2||1||4
+|-
+|align=left|[[CONCACAF Cup]]
+|1||0||0||1
+|-
+|align=left|[[Copa América|CONMEBOL Copa América]]
+|0||2||3||5
+|-
+|align=left|[[Panamerican Championship]]{{sup|1}}
+|0||0||1||1
+|-
+|align=left|[[North American Football Confederation#NAFC Championship|NAFC Championship]]{{sup|2}}
+|2||0||0||2
+|-
+!Total!!18!!7!!9!!34
+|}
+
+;Notes
+# Official continental competition organized by [[Panamerican Championship#Panamerican Football Confederation|PFC]], the former unified confederation of the Americas, formed by NAFC, CCCF and CONMEBOL (1946–1961).
+# Official subregional competition organized by [[North American Football Confederation|NAFC]], direct predecessor confederation of CONCACAF and the former governing body of football in North America (1946–1961).
+
+==See also==
+* [[Mexico national under-23 football team]]
+* [[Mexico national under-20 football team]]
+* [[Mexico national under-17 football team]]
+* [[Mexico women's national football team]]
+* [[Mexico national beach football team]]
+* [[Mexico national futsal team]]
+
+==Notes==
+{{Notelist}}
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons category}}
+*{{official website}} {{in lang|es}}
+*[https://www.fifa.com/about-fifa/associations/MEX Mexico] – FIFA profile
+*[https://www.rsssf.org/tablesm/mex-intres.html Archives and results] at the [[RSSSF]]
+
+{{Mexico national football team}}
+{{Navboxes
+|titlestyle = background:#006847; color:white; {{box-shadow border|a|#CE1126|1px}}
+|list = 
+{{FIFA Confederations Cup winners}}
+{{CONCACAF Gold Cup winners}}
+{{CONCACAF Nations League winners}}
+{{Football in Mexico}}
+{{CONCACAF teams}}
+{{Navboxes
+| title = [[FIFA World Cup]] appearances
+| list = {{1930 FIFA World Cup finalists}}
+{{1950 FIFA World Cup finalists}}
+{{1954 FIFA World Cup finalists}}
+{{1958 FIFA World Cup finalists}}
+{{1962 FIFA World Cup finalists}}
+{{1966 FIFA World Cup finalists}}
+{{1970 FIFA World Cup finalists}}
+{{1978 FIFA World Cup finalists}}
+{{1986 FIFA World Cup finalists}}
+{{1994 FIFA World Cup finalists}}
+{{1998 FIFA World Cup finalists}}
+{{2002 FIFA World Cup finalists}}
+{{2006 FIFA World Cup finalists}}
+{{2010 FIFA World Cup finalists}}
+{{2014 FIFA World Cup finalists}}
+{{2018 FIFA World Cup finalists}}
+{{2022 FIFA World Cup finalists}}
+{{2026 FIFA World Cup finalists}}
+}}
+{{Navboxes
+|title = Mexico national football team&nbsp;– Achievements and Awards
+|titlestyle = background:#006847;color:white;border:1px solid #ce1126;
+|list1=
+{{s-start}}
+{{s-ach|ach}}
+{{succession box
+| before = [[1997 FIFA Confederations Cup|1997]] {{fb-rt|BRA}}
+| title = [[FIFA Confederations Cup|Confederations Cup Champions]]
+| years = [[1999 FIFA Confederations Cup|1999]] (first title)
+| after = [[2001 FIFA Confederations Cup|2001]] {{fb-rt|FRA|1974}}
+}}
+{{succession box
+| before = [[1963 CONCACAF Championship|1963]] {{fb-rt|CRC}}
+| title = [[CONCACAF Gold Cup|North American Champions]]
+| years = [[1965 CONCACAF Championship|1965]] (first title)
+| after = [[1967 CONCACAF Championship|1967]] {{fb-rt|GUA}}
+}}
+{{succession box
+| before = [[1969 CONCACAF Championship|1969]] {{fb-rt|CRC}}
+| title = [[CONCACAF Gold Cup|North American Champions]]
+| years = [[1971 CONCACAF Championship|1971]] (second title)
+| after = [[1973 CONCACAF Championship|1973]] {{fb-rt|HAI|1964}}
+}}
+{{succession box
+| before = [[1973 CONCACAF Championship|1973]] {{fb-rt|HAI|1964}}
+| title = [[CONCACAF Gold Cup|North American Champions]]
+| years = [[1977 CONCACAF Championship|1977]] (third title)
+| after = [[1981 CONCACAF Championship|1981]] {{fb-rt|HON|1949}}
+}}
+{{succession box
+| before = [[1991 CONCACAF Gold Cup|1991]] {{fb-rt|USA}}
+| title = [[CONCACAF Gold Cup|North American Champions]]
+| years = [[1993 CONCACAF Gold Cup|1993]] (fourth title)<br />[[1996 CONCACAF Gold Cup|1996]] (fifth title)<br />[[1998 CONCACAF Gold Cup|1998]] (sixth title)
+| after = [[2000 CONCACAF Gold Cup|2000]] {{fb-rt|CAN}}
+}}
+{{succession box
+| before = [[2002 CONCACAF Gold Cup|2002]] {{fb-rt|USA}}
+| title = [[CONCACAF Gold Cup|North American Champions]]
+| years = [[2003 CONCACAF Gold Cup|2003]] (seventh title)
+| after = [[2005 CONCACAF Gold Cup|2005]] {{fb-rt|USA}}
+}}
+{{succession box
+| before = [[2007 CONCACAF Gold Cup|2007]] {{fb-rt|USA}}
+| title = [[CONCACAF Gold Cup|North American Champions]]
+| years = [[2009 CONCACAF Gold Cup|2009]] (eighth title)<br />[[2011 CONCACAF Gold Cup|2011]] (ninth title)
+| after = [[2013 CONCACAF Gold Cup|2013]] {{fb-rt|USA}}
+}}
+{{succession box
+| before = [[2013 CONCACAF Gold Cup|2013]] {{fb-rt|USA}}
+| title = [[CONCACAF Gold Cup|North American Champions]]
+| years = [[2015 CONCACAF Gold Cup|2015]] (tenth title)
+| after = [[2017 CONCACAF Gold Cup|2017]] {{fb-rt|USA}}
+}}
+{{succession box
+| before = [[2017 CONCACAF Gold Cup|2017]] {{fb-rt|USA}}
+| title = [[CONCACAF Gold Cup|North American Champions]]
+| years = [[2019 CONCACAF Gold Cup|2019]] (eleventh title)
+| after = [[2021 CONCACAF Gold Cup|2021]] {{fb-rt|USA}}
+}}
+{{succession box
+| before = [[2021 CONCACAF Gold Cup|2021]] {{fb-rt|USA}}
+| title = [[CONCACAF Gold Cup|North American Champions]]
+| years = [[2023 CONCACAF Gold Cup|2023]] (twelfth title)
+| after = Incumbent
+}}
+{{succession box
+| before = [[2021 CONCACAF Gold Cup|2021]] {{fb-rt|USA}}
+| title = [[CONCACAF Nations League|Nations League Champions]]
+| years = [[2024–25 CONCACAF Nations League|2024–25]] (first title)
+| after = Incumbent
+}}
+{{Succession box
+| before = [[1990 North American Nations Cup|1990]] {{fb-rt|CAN}}
+| title = [[North American Nations Cup|North American Champions<br /> (CONCACAF era)]]
+| years = [[1991 North American Nations Cup|1991]] (first title)
+| after = ''Defunct''
+}}
+{{Succession box
+| before = ''Inaugural''
+| title = [[NAFC Championship|North American Champions<br /> (NAFC era)]]
+| years = [[1947 NAFC Championship|1947]] (first title)<br /> [[1949 NAFC Championship|1949]] (second title)
+| after = ''Defunct''
+}}
+{{s-end}}
+}}
+{{National sports teams of Mexico}}
+}}
+{{Portal bar|Association football|Mexico}}
+{{Authority control}}
+
+[[Category:Mexico national football team| ]]
+[[Category:Mexico national football teams| ]]
+[[Category:FIFA Confederations Cup–winning countries]]
+[[Category:North American national association football teams]]
+[[Category:1923 establishments in Mexico]]
+[[Category:National sports teams established in 1923]]

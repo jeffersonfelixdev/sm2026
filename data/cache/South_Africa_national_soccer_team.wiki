@@ -1,0 +1,1920 @@
+{{Short description|Men's national soccer team}}
+{{About|the men's team|the women's team|South Africa women's national soccer team}}
+{{Use South African English|date = November 2024}}
+{{Use dmy dates|date=November 2024}}
+{{Infobox national football team
+| Name               = South Africa
+| Badge              = South Africa national soccer team logo.svg
+| Badge_size         = 190px
+| FIFA Trigramme     = RSA
+| Nickname           = ''Bafana Bafana''
+| Association        = [[South African Football Association]] (SAFA)
+| Confederation      = [[Confederation of African Football|CAF]] (Africa)
+| Sub-confederation  = [[COSAFA]] (Southern Africa)
+| Coach              = [[Hugo Broos]]
+| Captain            = [[Ronwen Williams]]
+| Most caps          = [[Aaron Mokoena]] (107)
+| Top scorer         = [[Benni McCarthy]] ([[List of international goals scored by Benni McCarthy|31]])
+| Home Stadium       = [[List of football stadiums in South Africa|Various]]
+| website            = {{URL|https://www.safa.net/|safa.net}}
+| FIFA Rank          = {{FIFA World Rankings|RSA}}
+| FIFA max           = 16
+| FIFA max date      = August 1996
+| FIFA min           = 124
+| FIFA min date      = December 1992
+| Elo Rank           = {{World Football Elo Ratings|South Africa}}
+| Elo max            = 21 (9)
+| Elo max date       = September 1996 (October 1955)<ref>The [http://www.eloratings.net/world.html Elo ratings website] {{webarchive|url=http://archive.wikiwix.com/cache/20110723000000/http://www.eloratings.net/world.html |date=23 July 2011 }} lists 21 as the highest reached position, though after 23 (too few?) matches between 1947 and 1955, almost all with Australia and New Zealand, it had reached [http://www.eloratings.net/South_Africa.htm 9th place] .</ref>
+| Elo min                  = 94
+| Elo min date             = May 2006
+| pattern_la1              = _rsa26h
+| pattern_b1               = _rsa26h
+| pattern_ra1              = _rsa26h
+| pattern_sh1              = _rsa26h
+| pattern_so1              = 
+| leftarm1                 = fce53d
+| body1                    = fce53d
+| rightarm1                = fce53d
+| shorts1                  = 21835d
+| socks1                   = FFF000
+| pattern_la2              = _rsa26a
+| pattern_b2               = _rsa26a
+| pattern_ra2              = _rsa26a
+| pattern_sh2              = _rsa26a
+| pattern_so2              = _adidasonwhitel
+| leftarm2                 = 400000
+| body2                    = 400000
+| rightarm2                = 400000
+| shorts2                  = ffffff
+| socks2                   = dcb687
+| pattern_la3              = 
+| pattern_b3               = 
+| pattern_ra3              = 
+| pattern_sh3              = 
+| pattern_so3              = 
+| leftarm3                 = 
+| body3                    = 
+| rightarm3                = 
+| shorts3                  = 
+| socks3                   = 
+| First game               = {{fb|ARG}} 0–1 {{fb-rt|South Africa|1902}}<br />([[Buenos Aires]], [[Argentina]]; 9 July 1906)<ref name=Elo>{{cite web|title=South Africa|url=https://www.eloratings.net/South_Africa|publisher=Elo Ratings|access-date=16 March 2022|archive-date=2 October 2022|archive-url=https://web.archive.org/web/20221002140100/https://www.eloratings.net/South_Africa|url-status=live}}</ref><ref>{{cite web|title=Argentina v South Africa, 09 July 1906|url=https://www.11v11.com/matches/argentina-v-south-africa-09-july-1906-222693/|publisher=International Football History and Statistics|access-date=23 March 2019|archive-date=5 April 2022|archive-url=https://web.archive.org/web/20220405192214/https://www.11v11.com/matches/argentina-v-south-africa-09-july-1906-222693/|url-status=live}}</ref>
+| Largest win              = {{fb|AUS}} 0–8 {{fb-rt|South Africa|1928}}<br />([[Adelaide]], [[Australia]]; 17 September 1955)<ref>{{cite web|title=All Bafana Bafana Matches|url=http://www.safa.net/UserFiles/www.safa.net/Documents/ALL%20BAFANA%20INTERNATIONAL%20MATCHES%202009%20Part1.pdf|publisher=South Africa FA|access-date=29 October 2010|url-status=dead|archive-url=https://web.archive.org/web/20110105154511/http://safa.net/UserFiles/www.safa.net/Documents/ALL%20BAFANA%20INTERNATIONAL%20MATCHES%202009%20Part1.pdf|archive-date=5 January 2011}}</ref>
+| Largest loss             = {{fb|South Africa|1912}} 1–9 {{fb-rt|ENG}}<br />([[Cape Town]], [[South Africa]]; 17 July 1920)<ref name=Elo/>
+| World cup apps           = 4
+| World cup first          = 1998
+| World cup best           = Round of 32 ([[2026 FIFA World Cup|2026]])
+| Regional name            = [[Africa Cup of Nations]]
+| Regional cup apps        = 12
+| Regional cup first       = [[1996 African Cup of Nations|1996]]
+| Regional cup best        = '''Champions''' ([[1996 African Cup of Nations|1996]])
+| 2ndRegional name         = [[CONCACAF Gold Cup]]
+| 2ndRegional cup apps     = 1
+| 2ndRegional cup first    = [[2005 CONCACAF Gold Cup|2005]]
+| 2ndRegional cup best     = Quarter-finals ([[2005 CONCACAF Gold Cup|2005]])
+| 3rdRegional name         = [[African Nations Championship]]
+| 3rdRegional cup apps     = 3
+| 3rdRegional cup first    = [[2011 African Nations Championship|2011]]
+| 3rdRegional cup best     = Quarter-finals ([[2011 African Nations Championship|2011]])
+| 4thRegional name         = [[FIFA Confederations Cup|Confederations Cup]]
+| 4thRegional cup apps     = 2
+| 4thRegional cup first    = [[1997 FIFA Confederations Cup|1997]]
+| 4thRegional cup best     = Fourth place ([[2009 FIFA Confederations Cup|2009]])
+| medaltemplates           = 
+{{MedalCompetition|[[Africa Cup of Nations]]}}
+{{MedalGold|[[1996 African Cup of Nations|1996 South Africa]]|[[1996 African Cup of Nations squads#South Africa|Team]]}}
+{{MedalSilver|[[1998 African Cup of Nations|1998 Burkina Faso]]|[[1998 African Cup of Nations squads#South Africa|Team]]}}
+{{MedalBronze|[[2000 African Cup of Nations|2000 Nigeria and Ghana]]|[[2000 African Cup of Nations squads#South Africa|Team]]}}
+{{MedalBronze|[[2023 Africa Cup of Nations|2023 Ivory Coast]]|[[2023 Africa Cup of Nations squads#South Africa|Team]]}}
+{{MedalCompetition|[[Afro-Asian Cup of Nations]]}}
+{{MedalGold|[[1997 Afro-Asian Cup of Nations|1997 South Africa and Saudi Arabia]]|Team}}
+{{MedalCompetition|[[COSAFA Cup]]}}
+{{MedalGold|[[2002 COSAFA Cup|2002 Southern Africa]]|Team}}
+{{MedalGold|[[2007 COSAFA Cup|2007 Southern Africa]]|Team}}
+{{MedalGold|[[2008 COSAFA Cup|2008 South Africa]]|Team}}
+{{MedalGold|[[2016 COSAFA Cup|2016 Namibia]]|[[2016 COSAFA Cup squads#South Africa|Team]]}}
+{{MedalGold|[[2021 COSAFA Cup|2021 South Africa]]|Team}}
+{{MedalSilver|[[2025 COSAFA Cup|2025 South Africa]]|Team}}
+{{MedalBronze|[[2000 COSAFA Cup|2000 Southern Africa]]|Team}}
+{{MedalBronze|[[2005 COSAFA Cup|2005 Mauritius, Namibia, South Africa and Zambia]]|Team}}
+{{MedalBronze|[[2013 COSAFA Cup|2013 Zambia]]|[[2013 COSAFA Cup squads#South Africa|Team]]}}
+{{MedalBronze|[[2023 COSAFA Cup|2023 South Africa]]|Team}}
+}}
+
+The '''South Africa national soccer team''' represents [[South Africa]] in men's international [[soccer]] and is run by the [[South African Football Association]], the governing body for [[soccer in South Africa]]. Nicknamed '''Bafana Bafana''' (lit. "Young Men" in [[Zulu language|Zulu]]), the team plays at various stadiums around the country. The team, a member of both [[FIFA]] and the [[Confederation of African Football]] (CAF), is one of the most well-supported national sides in Africa,<ref>{{Cite journal | title=Supporters' perceived brand equity of the Bafana Bafana National Football Team of South Africa {{!}} African Journal for Physical Health Education, Recreation and Dance | journal=African Journal for Physical Health Education, Recreation and Dance | date=June 2013 | volume=19 | issue=2 | pages=324–335 | url=https://journals.co.za/doi/abs/10.10520/EJC137202 | archive-url=https://web.archive.org/web/20240404074110/https://journals.co.za/doi/abs/10.10520/EJC137202 | access-date=23 December 2024 | archive-date=4 April 2024 | last1=Mahlangu | first1=H. B. | last2=Dlodlo | first2=N. | last3=Mokoena | first3=B. A. }}</ref> and are recognised by their traditional green and gold kits.
+
+Having played their first match in 1906, South Africa returned to the world stage in 1992, after sixteen years of being banned from [[FIFA]], and forty years of effective suspension due to the [[apartheid]] system.<ref>{{cite news| url=https://www.fifa.com/about-fifa/news/y=2004/m=10/news=from-apartheid-the-world-cup-four-decades-the-sporting-life-south-afri-94531.html | archive-url=https://web.archive.org/web/20170210183231/http://www.fifa.com/about-fifa/news/y=2004/m=10/news=from-apartheid-the-world-cup-four-decades-the-sporting-life-south-afri-94531.html | url-status=dead | archive-date=10 February 2017 | publisher=FIFA | title=From apartheid to the World Cup – four decades in the sporting life of South Africa | date=27 October 2004 | access-date=1 September 2017 <!--DASHBot-->}}</ref> South Africa have qualified for the [[FIFA World Cup]] three times: [[1998 FIFA World Cup|1998]], [[2002 FIFA World Cup|2002]] and [[2026 FIFA World Cup|2026]], in addition to qualifying as hosts of the 2010 tournament, becoming the first African nation to do so. Despite defeating [[France national football team|France]] 2–1 in their final game of the group stage, they failed to progress from the first round of the tournament, becoming the first host nation in the history of the FIFA World Cup to exit in the group stage, followed by [[Qatar national football team|Qatar]] in 2022.<ref>{{cite news | url=https://news.bbc.co.uk/sport2/hi/football/world_cup_2010/8814195.stm | publisher=BBC News | title=England slip to worst Cup ranking | date=13 July 2010 | access-date=1 December 2011 <!--DASHBot--> | archive-date=29 December 2018 | archive-url=https://web.archive.org/web/20181229103711/http://news.bbc.co.uk/sport2/hi/football/world_cup_2010/8814195.stm | url-status=live }}</ref> As of January 2026, the team is ranked 60th in [[FIFA]] overall.
+
+South Africa's most significant achievement came in [[1996 African Cup of Nations|1996]] when they hosted and won the [[Africa Cup of Nations]] (AFCON). They reached the final again in 1998 but were defeated by Egypt.
+
+==History==
+
+{{Main|Soccer in South Africa#National teams|l1 = Soccer in South Africa}}
+
+===Pre-1992===
+Football first arrived in South Africa through colonialism in the late nineteenth century, as the game was popular among British soldiers.<ref>{{cite book |last=Goldblatt |first=David |title=The Ball is Round: A Global History of Football |publisher=Penguin|location=London |year=2007 |pages=90–91 |isbn=978-0-14-101582-8}}</ref> From the earliest days of the sport in South Africa until the end of apartheid, organised soccer was affected by the country's system of racial segregation. The all-white Football Association of South Africa (FASA) was formed in 1892, while the South African [[Indian South Africans|Indian]] Football Association (SAIFA), the South African [[Bantu speaking peoples of South Africa|Bantu]] Football Association (SABFA) and the South African [[Black]] Football Association (SACFA) were founded in 1903, 1933 and 1936 respectively.
+
+[[File:South african fa 1906.jpg|thumb|left|250px|The South African team that toured South America in 1906. They played 12 matches with only one defeat.]]
+In 1903 the SAFA re-affiliated with [[The Football Association|the English Football Association]] after the [[Second Boer War]] between the British Empire and the Boer state. There was a plan to play a tournament held in Argentina, with South Africa and [[Fulham F.C.|Fulham]] as guest teams, but it was not carried out. Nevertheless, South Africa traveled to South America in 1906 to play a series of friendly matches there.<ref name=before>[http://before1292.rssing.com/chan-31949556/all_p4.html Before The 'D'...Association Football around the world, 1863–1937] {{Webarchive|url=https://web.archive.org/web/20180101194620/http://before1292.rssing.com/chan-31949556/all_p4.html |date=1 January 2018 }}, page 4</ref>
+
+South Africa played [[British football clubs tours to South America|a total of 12 matches in South America]], winning 11 with 60 goals scored and only 7 conceded. Opponents included [[Belgrano Athletic Club|Belgrano A.C.]], the [[Argentina national football team|Argentina national team]], a combined [[Liga Rosarina de Football|Liga Rosarina]], [[Estudiantes de Buenos Aires|Estudiantes (BA)]] and [[Quilmes Atlético Club|Quilmes]].<ref>[http://www.futbolnostalgia.com/girasdf.htm Gira Sudamericana de Sudáfrica 1906] {{Webarchive|url=https://web.archive.org/web/20211121020318/http://www.futbolnostalgia.com/girasdf.htm |date=21 November 2021 }} on Fútbol Nostalgia website</ref> The only team that defeated South Africa was Argentina's [[Alumni Athletic Club|Alumni]] 1–0 at [[Sociedad Sportiva Argentina|Sociedad Sportiva]] stadium in Buenos Aires, on 24 June, although the South Africans would take revenge on 22 July, defeating them 2–0.<ref name="iwa">{{cite book |last=Iwanczuk |first=Jorge |title=Historia del Fútbol Amateur en la Argentina |title-link=Historia del Fútbol Amateur en la Argentina |date=1992 |publisher=[[Centro para la Investigación de la Historia del Fútbol]] |isbn=978-950-43-4384-4 |edition=1st |language=es |trans-title=History of amateur football in Argentina}}</ref> The players were exclusively white, civil servants, government employees, bankers and civil engineers. Seven of the 15 players were born in South Africa and 8 originated from England and Scotland.<ref name=before/>
+
+South Africa was one of four African nations to attend FIFA's 1953 congress, at which the four demanded, and won, representation on the FIFA executive committee.<ref name="Goldblatt493">Goldblatt, ''The Ball is Round: A Global History of Football'', p493</ref> Thus the four nations (South Africa, [[Ethiopia]], [[Egypt]] and [[Sudan]]) founded the [[Confederation of African Football]] in 1956,<ref name="Goldblatt493"/> and the South African representative, Fred Fell, sat at the first meeting as a founding member. It soon became clear however that South Africa's constitution prohibited racially mixed teams from competitive sport, and so they could only send either an all-black side or an all-white side to the planned [[1957 African Cup of Nations]]. This was unacceptable to the other members of the Confederation, and South Africa was disqualified from the competition, however, some sources say that they withdrew voluntarily.<ref>{{Cite news|url=https://www.fourfourtwo.com/features/invasions-drop-outs-and-bye-final-admin-mayhem-first-africa-cup-nations|title=Invasions, drop-outs and a bye to the final: admin mayhem in the first Africa Cup of Nations|date=17 January 2015|work=FourFourTwo|access-date=5 June 2018|language=en|archive-date=12 August 2018|archive-url=https://web.archive.org/web/20180812083213/https://www.fourfourtwo.com/features/invasions-drop-outs-and-bye-final-admin-mayhem-first-africa-cup-nations|url-status=live}}</ref>
+
+At the second CAF conference in 1958, South Africa were formally expelled from CAF. The all-white FASA were admitted to [[FIFA]] in the same year, but in August 1960 it was given an ultimatum of one year to fall in line with the non-discriminatory regulations of FIFA. On 26 September 1961 at the annual FIFA conference, the South African association was formally suspended from FIFA. [[Stanley Rous|Sir Stanley Rous]], president of [[The Football Association]] of England and a champion of South Africa's FIFA membership, was elected FIFA President a few days later. Rous was adamant that sport, and FIFA in particular, should not embroil itself in political matters and against fierce opposition, he continued to resist attempts to expel South Africa from FIFA. The suspension was lifted in January 1963 after a visit to South Africa by Rous in order to investigate the state of soccer in the country.<ref>{{cite journal |last=Darby |first=Paul |date=2008-04-01 |title=Stanley Rous's 'own goal': football politics, South Africa and the Contest for the FIFA presidency in 1974 |url=https://doi.org/10.1080/14660970701811172 |journal=Soccer & Society |volume=9 |issue=2 |pages=259–272 |doi=10.1080/14660970701811172 |s2cid=144492147 |issn=1466-0970|url-access=subscription }}</ref>
+
+Rous declared that if the suspension were not lifted, soccer there would be discontinued, possibly to the point of no recovery. The next annual conference of FIFA in October 1964 took place in Tokyo and was attended by a larger contingent of representatives from African and Asian associations and here the suspension of South Africa's membership was re-imposed. In 1976, after the [[Soweto uprising]], they were formally expelled from FIFA.<ref>{{cite web | url=https://www.modernghana.com/sports/553482/welcome-back-today-in-history-fifa-lifts-ban-on-south-afri.html | title=Welcome back: Today in history: FIFA lifts ban on South Africa }}</ref>
+
+In 1991, when the apartheid system was beginning to be demolished, a new multi-racial South African Football Association was formed, and admitted to FIFA – and thus finally allowing South Africa to enter the qualifying stages for subsequent World Cups.<ref>{{Cite news|url=http://www.newsweek.com/2010/06/21/boycott-north-korea-in-the-world-cup.html|title=Bring Back the Sports Boycott|date=20 June 2010|work=Newsweek|access-date=5 June 2018|language=en|archive-date=29 October 2015|archive-url=https://web.archive.org/web/20151029043446/http://www.newsweek.com/2010/06/21/boycott-north-korea-in-the-world-cup.html|url-status=live}}</ref>
+
+===1992–2000===
+After spending nearly two decades in international isolation, the South African national team played its first game on 7 July 1992, beating [[Cameroon national football team|Cameroon]] 1–0 at [[Kings Park Stadium|Kings Park]] in [[Durban]].<ref>{{cite web | title=South Africa marks 30 years since return from footballing wilderness | work=BBC Sport | date=7 July 2022 | url=https://www.bbc.com/sport/africa/62067004 }}</ref>
+
+The team entered the [[1994 African Cup of Nations qualification|1994 Cup of Nations qualifiers]] and was placed in Group 5, along with [[Mauritius national football team|Mauritius]], [[Zambia national football team|Zambia]] and [[Zimbabwe national football team|Zimbabwe]]. They won one game, away to Mauritius, and drew with Mauritius and Zimbabwe at home. The team finished third in the group and failed to qualify.
+
+For the [[1994 FIFA World Cup qualification – CAF first round|1994 FIFA World Cup qualifiers]] South Africa was placed in Group D, along with [[Congo national football team|Congo]], [[Libya national football team|Libya]] and [[Nigeria national football team|Nigeria]]. Libya withdrew from the qualifiers. South Africa finished second in the group, and failed to qualify for the next stage of qualifying.
+
+In 1996, a mere five years after readmission, South Africa achieved their finest moment when they hosted and won the [[1996 African Cup of Nations]], in the process of reaching 16th in the [[FIFA World Rankings|FIFA rankings]].<ref>{{cite web | last1=Hawkey | first1=Ian | title='Mandela brought extra pressure': The story of South Africa's Afcon triumph | work=The Guardian | date=24 June 2019 | url=https://www.theguardian.com/football/2019/jun/24/south-africa-cup-of-nations-mandela-1996-bafana-bafana }}</ref>
+
+The shock firing of AFCON-winning coach [[Clive Barker (soccer)|Clive Barker]] did little to slow momentum as they followed their 1996 success with a second-place finish at the [[1998 Africa Cup of Nations]] behind Egypt under [[Jomo Sono]]. The team had earned their first appearance at the [[FIFA World Cup]], qualifying for [[1998 FIFA World Cup|France '98]]. Under head coach [[Philippe Troussier]], South Africa suffered a 3–0 defeat to hosts [[France national football team|France]] in their World Cup debut, and drew against [[Denmark national football team|Denmark]] and [[Asian Football Confederation|Asian]] juggernauts [[Saudi Arabia national football team|Saudi Arabia]] 1–1 and 2–2 respectively on their way to an early exit.
+
+===2000s===
+Under newly hired coach [[Trott Moloto]], South Africa started the decade off strongly, finishing third in the [[2000 Africa Cup of Nations]]; despite this, another coaching change was made. Portuguese [[Carlos Queiroz]] was hired as the man to take South Africa to the [[2002 FIFA World Cup]]. South Africa qualified for the [[2002 Africa Cup of Nations|2002 AFCON]] and were eliminated in the quarter-finals against hosts [[Mali national football team|Mali]]. In the run-up to the World Cup, in which South Africa had easily qualified as winners of [[2002 FIFA World Cup qualification - CAF final round#Group E|Group E]], Queiroz left his post as head coach amid increasing behind-the-scenes political wrangling.
+
+Former legend Jomo Sono was brought back in a caretaker capacity to lead South Africa in Korea/Japan. Placed in [[2002 FIFA World Cup Group B|Group B]] along with [[Spain national football team|Spain]], [[Paraguay national football team|Paraguay]] and debutants [[Slovenia national football team|Slovenia]], South Africa earned a 2–2 draw against Paraguay in their opening game with a last-gasp penalty from [[Quinton Fortune]] and followed that up with their first-ever victory at the finals with a 1–0 win over Slovenia. South Africa headed into their final game against Spain second in the group and three points clear of Paraguay and Slovenia. In arguably the game of the group,{{CN|date=October 2025}} in which five goals were scored inside the hour, South Africa twice came from a goal down in an agonising 3–2 defeat to the Spanish. In the other game, which kicked off at the same time, Paraguay found themselves beating Slovenia 3–1, with Paraguay's goal difference enough for them to surpass South Africa.
+
+
+South Africa would go through 4 head coaches between the 2002 and [[2006 FIFA World Cup]]s: [[Ephraim Mashaba]] (2002–2004), [[April Phumo]] (2004), [[Stuart Baxter]] (2004–2005), [[Ted Dumitru]] (2005–2006) and caretaker [[Pitso Mosimane]] (2006). None of them were able to match the success seen in the late 1990s and early 2000s, as South Africa failed to progress beyond the group stages in either the [[2004 Africa Cup of Nations|2004]] or [[2006 Africa Cup of Nations|2006 Africa Cups of Nations]], failing to register a single goal in the latter, with South Africa failing to qualify for the World Cup. After being placed in [[2006 FIFA World Cup qualification - CAF second round#Group 2|Group 2]] for qualifying, South Africa missed the tournament in Germany by finishing behind [[Ghana national football team|Ghana]].{{CN|date=October 2025}}
+
+[[File:FIFA World Cup 2010 South Africa Uruguay.jpg|thumb|South Africa hosting the [[2010 FIFA World Cup]] against Uruguay]]
+Former [[1994 FIFA World Cup|World Cup winner]] and [[Brazil national football team|Brazil national team]] coach [[Carlos Alberto Parreira]] was approached for the job, and he accepted. He signed a R100&nbsp;million contract covering four years. His term as manager started 1 January 2007 targeting the [[2010 FIFA World Cup]], which South Africa had been awarded the right to host. He resigned as coach in April 2008 due to family reasons. [[Joel Santana]] was hand-picked by Parreira to succeed him and he was signed to coach the team until 2010.<ref>[http://sportsillustrated.cnn.com/2008/soccer/wires/04/22/2080.ap.la.spt.soc.south.africa.santana.0414/index.html CNN]{{dead link|date=June 2010}}</ref> 
+
+The World Cup hosts failed to qualify for the [[2010 Africa Cup of Nations]], and Parreira would return in time for the [[2009 FIFA Confederations Cup]] – also hosted by South Africa. The national team would see an improvement in performance, holding its own against eventual world champions Spain and perennial powerhouse Brazil, the latter requiring an 88th-minute goal to overcome South Africa in the semi-finals. South Africa would ultimately finish 4th, following a thrilling 3–2 loss to the Spanish in the third-place match.{{CN|date=October 2025}}
+
+As World Cup hosts, South Africa was placed in [[2010 FIFA World Cup Group A|Group A]], along with [[Mexico national football team|Mexico]], [[Uruguay national football team|Uruguay]] and [[2006 FIFA World Cup final|2006]] runners-up [[France national football team|France]]. South Africa played the first game, which opened the World Cup 2010 tournament with a 1–1 draw against Mexico after taking the lead through a long-range [[Siphiwe Tshabalala]] strike. A heavy 3–0 defeat in the second group game against Uruguay and a Mexican win over France left South Africa with a mountain to climb in order to progress beyond the group stage. Despite defeating France, elimination in the group stage made South Africa become the first host to fail to progress beyond the first round of the World Cup.
+[[File:FRA-RSA 2010-06-22.svg|thumb|South Africa-France starting lineups at the 2010 World Cup]]
+{{:2010 FIFA World Cup Group A|transcludesection=standings|showteam=RSA}}
+Following the conclusion of the World Cup and the expiration of his contract, Carlos Alberto Parreira announced his retirement from coaching. As part of his contract, Parreira had also drawn up a plan of recommendations extending as far as soccer development at grassroots level that SAFA was encouraged to review in the hopes of reviving the fortunes of the national football team.{{CN|date=October 2025}}
+
+===2010s===
+South Africa failed to qualify for the [[2012 Africa Cup of Nations qualification|Africa Cup of Nations]] finals after the rules were misread.<ref>[http://www.iol.co.za/capeargus/sa-football-stands-embarrassed-1.1153838 "SA football stands embarrassed"] {{Webarchive|url=https://web.archive.org/web/20111013150553/http://www.iol.co.za/capeargus/sa-football-stands-embarrassed-1.1153838 |date=13 October 2011 }} ''Independent Online''. South Africa 10 October 2011.</ref> They ultimately played for and achieved a draw at home in [[Nelspruit]] against Sierra Leone in a game they needed to win, when news about Niger trailing in Egypt was received, leading to the qualification of Niger at their expense, and also at Sierra Leone's. They then celebrated at the end as if they had qualified, making it the second time they would be so embarrassed in 4 years after qualifying as a lucky 3rd and last best runners-up for the [[2008 Africa Cup of Nations qualification#Group 11|2008]] edition, with [[Zambia national football team|Zambia]] catapulting over South Africa as Group winners after a 3–1 win in [[Cape Town]] – and thereby gaining an automatic qualifying ticket on the head-to-head record with the South Africans erroneously thinking goal difference would be the primary tie-breaker.<ref>[http://www.iol.co.za/sport/bemused-bafana-in-the-dark-over-procedure-1.577948 "Bemused Bafana 'in the dark' over procedure"] {{Webarchive|url=https://web.archive.org/web/20120312172220/http://www.iol.co.za/sport/bemused-bafana-in-the-dark-over-procedure-1.577948 |date=12 March 2012 }} ''Independent Online''. South Africa 11 September 2007.</ref>
+
+The [[South African Broadcasting Corporation|SABC]] also announced that the team had qualified and the [[South African Football Association|SAFA]] president [[Kirsten Nematandani]] then congratulated the team on TV before realisation dawned.<ref>[https://www.theguardian.com/football/2011/oct/09/south-africa-africa-cup-of-nations "South Africa miss out on Africa Cup of Nations after misreading rules"] {{Webarchive|url=https://web.archive.org/web/20170305004838/https://www.theguardian.com/football/2011/oct/09/south-africa-africa-cup-of-nations |date=5 March 2017 }}. Reuters/''The Guardian''. 9 October 2011.</ref> [[South African Football Association|SAFA]] said they would appeal to [[Confederation of African Football|CAF]] but the appeal was later withdrawn.<ref>[https://www.theguardian.com/football/2011/oct/10/south-africa-africa-cup-nations?intcmp=239 "South Africa appeal to CAF following Africa Cup of Nations mix-up"] {{Webarchive|url=https://web.archive.org/web/20170305004733/https://www.theguardian.com/football/2011/oct/10/south-africa-africa-cup-nations?intcmp=239 |date=5 March 2017 }}. Reuters/''The Guardian''. 10 October 2011.</ref><ref>[http://www.football365.co.za/story/0,22162,14287_7251423,00.html "SAFA withdraw AFCON appeal"] {{Webarchive|url=https://web.archive.org/web/20120404021438/http://www.football365.co.za/story/0,22162,14287_7251423,00.html |date=4 April 2012 }}. football365.co.za. 19 October 2011.</ref>
+
+South Africa continued to disappoint into 2012, opening the year with a lacklustre 0–0 draw away to [[2012 Africa Cup of Nations]] co-hosts [[Equatorial Guinea national football team|Equatorial Guinea]]. This would be the start of a run that would see ''Bafana Bafana'' rack up 6 successive draws to start the year. The run of draws included 1–1, 0–0 and 1–1 draws at home to [[2012 Africa Cup of Nations|African champions]] [[Zambia national football team|Zambia]], Ghana and [[Senegal national football team|Senegal]] respectively in [[Exhibition game|International Friendlies]]. Following a 1–1 draw at home to [[Ethiopia national football team|Ethiopia]] in a [[2014 FIFA World Cup qualification - CAF second round|2014 World Cup qualifier]], head coach Pitso Mosimane was fired.<ref>{{cite news |author=Tiyani Mabasa |title=Pitso gets the boot |url=http://www.kickoff.com/news/28771/pitso-mosimane-has-lost-his-job-as-bafana-bafana-head-coach.php |publisher=kickoff.com |date=5 June 2012 |access-date=28 June 2012 |archive-date=12 August 2018 |archive-url=https://web.archive.org/web/20180812083202/http://www.kickoff.com/news/28771/pitso-mosimane-has-lost-his-job-as-bafana-bafana-head-coach.php |url-status=dead }}</ref> The draw increased South Africa's streak to 7 games without a win. Mosimane was replaced as head coach by [[Steve Komphela]] on an interim basis while SAFA interviewed potential candidates to fill the post on a permanent basis.
+
+In his first game in charge as interim head coach, Komphela oversaw yet another uninspired performance in South Africa's second World Cup qualifier against [[Botswana national football team|Botswana]] as they drew yet again, extending their winless run to 8 games. ''Bafana Bafana'' finally tasted victory when they defeated [[Gabon national football team|Gabon]] 3–0 at home in a friendly, ending their winless streak.
+
+Following the [[2011 Libyan Civil War|crisis]] in [[Libya]] throughout 2011, CAF made the decision to move the [[2013 Africa Cup of Nations]] from Libya – who were the original hosts – to South Africa. Libya was then given the right to host the [[2017 Africa Cup of Nations|2017 edition]] of the tournament, which was originally awarded to South Africa.<ref>{{cite news |publisher=BBC Sport |title=South Africa replace Libya as 2013 Nations Cup hosts |url=https://www.bbc.co.uk/sport/football/15089244 |date=28 September 2011 |access-date=28 June 2012 |archive-date=9 January 2016 |archive-url=https://web.archive.org/web/20160109011133/http://www.bbc.co.uk/sport/0/football/15089244 |url-status=live }}</ref> The 2013 hosts were seeded and drawn in [[2013 Africa Cup of Nations Group A|Group A]] along with [[Angola national football team|Angola]], [[Morocco national football team|Morocco]] and tournament debutants [[Cape Verde national football team|Cape Verde]].<ref>{{cite news |publisher=goal.com |title=2013 Africa Cup of Nations draw: Nigeria to meet champions Zambia, Ghana face Mali |url=http://www.goal.com/en-gb/news/2886/africa/2012/10/24/3475603/2013-africa-cup-of-nations-draw-nigeria-to-meet-champions-zambia- |date=24 October 2012 |access-date=5 February 2013 |archive-date=14 January 2013 |archive-url=https://web.archive.org/web/20130114015527/http://www.goal.com/en-gb/news/2886/africa/2012/10/24/3475603/2013-africa-cup-of-nations-draw-nigeria-to-meet-champions-zambia- |url-status=live }}</ref>
+
+South Africa faced Group B runners-up [[Mali national football team|Mali]] in the quarterfinals, being eliminated from the tournament 3–1 on penalties.
+
+They received a [[2014 FIFA World Cup qualification - CAF first round|First round]] bye when the [[2014 FIFA World Cup qualification (CAF)|qualifying]] process for the [[2014 FIFA World Cup]] began on 30 July 2011. For the [[2014 FIFA World Cup qualification - CAF second round|second round]] of the qualifying process, South Africa was placed in Pot 1 as a top-seeded nation for the draw from where they were drawn into Group A, along with neighbours [[Botswana national football team|Botswana]], the [[Central African Republic national football team|Central African Republic]] and [[Ethiopia national football team|Ethiopia]]. 
+
+On  19 June 2013 it was reported in the South African press that Ethiopia had fielded an ineligible player against South Africa, who would possibly win 3–0 as a result.<ref>{{cite web| url=http://www.sportlive.co.za/soccer/sa/2013/06/19/bafana-on-the-brink-as-ethiopia-may-lose-more-points| title=Bafana on the brink as Ethiopia may lose more points| work=sportslive.co.za| access-date=19 June 2013| archive-date=21 October 2013| archive-url=https://web.archive.org/web/20131021235220/http://www.sportlive.co.za/soccer/sa/2013/06/19/bafana-on-the-brink-as-ethiopia-may-lose-more-points| url-status=dead}}</ref> Despite this, Ethiopia were never punished, and South Africa failed to qualify for the tournament.
+{{:2014 FIFA World Cup qualification – CAF second round|transcludesection=Group A|showteam=RSA}}
+
+South Africa were eliminated in the group stage at the [[2015 AFCON]] and failed to qualify for the tournament [[2017 Africa Cup of Nations|two years later]]. This, in addition to various controversies, disparaging remarks that Mashaba allegedly made about SAFA top officials, his supposedly arrogant nature and his ill-treatment of overseas-based stars, led to his suspension after leading South Africa to a 2–1 victory over [[Senegal national football team|Senegal]] in a [[2018 FIFA World Cup qualification – CAF third round|2018 FIFA World Cup qualifier]].
+
+[[Image:Bafana joshua smith.jpg|thumb|300px|The national team in 2018]]
+After being unable to reach the [[2018 FIFA World Cup]], South Africa qualified for the [[2019 Africa Cup of Nations]] finishing second and undefeated, with a 2–0 away win over Nigeria.<ref>{{Cite web|title=As it happened: Nigeria 0–2 Bafana Bafana|url=https://www.sport24.co.za/Soccer/BafanaBafana/live-nigeria-v-bafana-bafana-20170610|date=10 June 2017|website=Sport|language=en|access-date=25 May 2020|archive-date=8 November 2017|archive-url=https://web.archive.org/web/20171108100059/http://www.sport24.co.za/Soccer/BafanaBafana/live-nigeria-v-bafana-bafana-20170610|url-status=live}}</ref> They were grouped with [[Morocco national football team|Morocco]], [[Ivory Coast national football team|Ivory Coast]] and [[Namibia national football team|Namibia]], and narrowly qualified to the knockout stage with only a single 1–0 win over Namibia, facing hosts [[Egypt national football team|Egypt]].<ref>{{Cite web|title=Bafana scrape into AFCON knockouts, face Egypt in last 16|url=https://www.sport24.co.za/Soccer/AFCON/bafana-scrape-into-afcon-knockouts-20190702|date=3 July 2019|website=Sport|language=en|access-date=25 May 2020|archive-date=5 September 2019|archive-url=https://web.archive.org/web/20190905174344/https://www.sport24.co.za/Soccer/AFCON/bafana-scrape-into-afcon-knockouts-20190702|url-status=live}}</ref> The South Africans then pulled out the biggest upset in the tournament,{{CN|date=October 2025}} knocking Egypt out in the round of 16 stage with a 1–0 win in [[Cairo]].<ref>{{Cite news|date=6 July 2019|title=Africa Cup of Nations: South Africa's late winner stuns hosts Egypt in Cairo|language=en-GB|work=BBC Sport|url=https://www.bbc.com/sport/football/48809160|access-date=25 May 2020|archive-date=6 August 2020|archive-url=https://web.archive.org/web/20200806085550/https://www.bbc.com/sport/football/48809160|url-status=live}}</ref> Then, South Africa once again faced Nigeria in the quarter-finals, with the latter prevailing 2–1.<ref>{{Cite web|title=Nigeria 6–1 Bafana – last-gasp goal as South Africa crash out of AFCON 2019|url=https://www.thesouthafrican.com/sport/soccer/afcon-2019-live-nigeria-vs-south-africa-bafana-quarter-final/|date=10 July 2019|website=The South African|language=en-US|access-date=25 May 2020|archive-date=11 July 2019|archive-url=https://web.archive.org/web/20190711235904/https://www.thesouthafrican.com/sport/soccer/afcon-2019-live-nigeria-vs-south-africa-bafana-quarter-final|url-status=live}}</ref>
+
+=== 2020s ===
+Under [[Molefi Ntseki]], South Africa failed to qualify for the [[2021 Africa Cup of Nations]]. [[Molefi Ntseki]] was promptly sacked and [[Hugo Broos]] was announced as his replacement.
+
+[[2022 FIFA World Cup qualification (CAF)|Qualifying]] for the [[2022 FIFA World Cup]] began with South Africa in a group with Ghana, Zimbabwe, and Ethiopia. South Africa got off to a promising start, beating a weakened Ghana side 1–0 at home on Matchday 2 and going to the top of the group. South Africa remained at the top of the group until the final matchday when they lost 0–1 away to Ghana after a dubious penalty was awarded to Ghana in the first half. South Africa ultimately finished second to Ghana on goals scored, narrowly missing out on qualification for the final 10-team playoff round to qualify for the World Cup. South Africa qualified to the 2023 Africa Cup of Nations after beating Liberia 2–1.<ref>{{Cite news|last=Malesele|first=Thabiso|url=https://www.sabcnews.com/sabcnews/hugo-bross-names-the-bafana-bafana-team-for-the-2022-fifa-world-cup-qualifiers/|title=Hugo Broos names the Bafana Bafana team for the 2022 FIFA World Cup qualifiers|date=19 August 2021|work=[[SABC News]]|access-date=8 April 2024}}</ref>
+
+The [[2023 Africa Cup of Nations|2023 AFCON]] was held in January 2024 in Côte d'Ivoire. South Africa was drawn into a group with [[Mali national football team|Mali]], [[Namibia national football team|Namibia]], and [[Tunisia national football team|Tunisia]]. They started their campaign with a 2–0 loss against Mali, followed by a 4–0 win against Namibia, and 0–0 draw against Tunisia. They would finish second in their group and qualify for the knockout stages. In the Round of 16, South Africa would pull off a shocking upset and defeated [[Morocco national football team|Morocco]], a team many had said would win the entire competition, and who also placed fourth at the [[2022 World Cup]] just a year earlier. In the quarter finals, Bafana Bafana would play against [[Cabo Verde national football team|Cabo Verde]], which ended in a 0–0 draw and went to penalties, in which South Africa would win the shootout 2–1. Captain [[Ronwen Williams]] would receive global attention after saving 4 Cabo Verdean shots in the shootout, as well as for his standout performances earlier in the match and against Morocco. In the semi-finals, South Africa would play against rivals [[Nigeria national football team|Nigeria]]. The match would end 1–1, and South Africa would fall to the Super Eagles 4–2 on penalties. In the third place match, South Africa would face [[DR Congo national football team|DR Congo]], who Bafana would defeat 6–5 on penalties. It was South Africa's highest finish at AFCON since the 2000 edition of the tournament, where they also finished third.
+
+In qualifying for the 2026 World Cup, South Africa were drawn into a group with Nigeria, [[Benin national football team|Benin]], [[Rwanda national football team|Rwanda]], [[Zimbabwe national football team|Zimbabwe]], and [[Lesotho national football team|Lesotho]]. Early on, Nigeria would lead the group though Bafana remained close behind them, as did Benin. As the qualifying campaign progressed, Nigeria would slowly start to capitulate, and South Africa's results would start picking up, eventually taking the top spot in the group in 2024. Despite being docked three points in qualifying after fielding an ineligible player, South Africa qualified for the [[2026 FIFA World Cup]] in October 2025 after defeating Rwanda 3–0, ending a 16 year gap since their last appearance, the longest in team history and their first successful qualifying campaign since 2002.<ref>{{cite web |title=South Africa clinch World Cup spot; Nigeria into playoff |date=14 October 2025 |url=https://www.espn.com/soccer/story/_/id/46595773/south-africa-clinch-world-cup-spot-nigeria-playoff |publisher=[[ESPN]] |access-date=30 October 2025}}</ref>
+
+On 5 December 2025, South Africa were drawn into Group A of the [[2026 World Cup]], playing against [[Mexico national football team|Mexico]], [[South Korea national football team|South Korea]], and the [[Czech Republic national football team|Czech Republic]].
+
+In December 2025, South Africa competed in the [[2025 Africa Cup of Nations]], hosted by [[Morocco]], and finished 2nd in Group B, after 2 wins (2–1 win against [[Angola national football team|Angola]] and 3–2 win against [[Zimbabwe national football team|Zimbabwe]]) and a 1–0 loss against [[Egypt national football team|Egypt]], who would ultimately finish 4th at the tournament. South Africa had a short knockout journey, as the lost their Round of 16 tie against [[Cameroon national football team|Cameroon]], 2–1, and exited the tournament. As of 19 January 2026, South Africa gained one spot in the [[FIFA Men's World Ranking|FIFA Men's Rankings]], climbing to 60th. In their AFCON win against Angola, South Africa ended a 21-year wait for an opening match victory.
+
+In June 2026, South Africa began World Cup group play with a 2–0 defeat against Mexico at [[Estadio Azteca]] in the tournament's opening fixture. They would then draw Czechia 1–1 at [[Mercedes-Benz Stadium]] thanks to a late penalty from [[Teboho Mokoena (soccer, born 1997)|Teboho Mokoena]], and beat South Korea 1–0 at [[Estadio BBVA]] via a goal from [[Thapelo Maseko]], qualifying for the knockout stages for the first time in the country's history. South Africa were eliminated from the 2026 FIFA World Cup at [[SoFi Stadium]] after a 1–0 defeat to [[Canada men's national soccer team|Canada]] in the round of 32, making them the first team eliminated from the knockout stage.
+
+==Team image==
+
+===Nickname===
+"[[Bafana Bafana]]" is a nickname given to the national side by its fans. It is [[Nguni language|Nguni]] and translates literally as "the boys, the boys". Its actual meaning in Nguni language is, "Go boys! Go boys!", though others take the double use of "Bafana" to mean "all of the boys"---the team and management, as well as the spectators; togetherness, as in the African concept of [[Ubuntu (philosophy)|ubuntu]].
+
+In July 1992, at Kings Park stadium in Durban, fans shouted "Bafana Bafana" [GO BOYS GO BOYS] when South Africa was on the verge of beating Cameroon and after the game. A group of three journalists, from South Africa newspaper ''[[The Sowetan]]'', then began to use the name in print when referring to the team. The name was initially used only informally, as SAFA felt that it was not commercially viable, and that it was degrading to refer to a team of men as boys.<ref>{{cite web|title=Bafana Bafana – Who Owns This Nickname for the South African Soccer Team?|url=http://www.spoor.com/home/index.php?ipkMenuID=&ipkArticleID=167|publisher=Spoor.com|access-date=23 September 2011|date=2 June 2003|archive-date=21 March 2012|archive-url=https://web.archive.org/web/20120321004654/http://www.spoor.com/home/index.php?ipkMenuID=&ipkArticleID=167|url-status=live}}</ref>
+
+Standton Woodrush Ltd applied to trademark the name in 1993. The trademark was granted but was for clothing only. In 1994, the team's technical sponsor at the time, Kappa, applied for the trademarks "Bafana" and "Bafana Bafana" in class 25. These were granted and subsequently passed on to SAFA. In 1997, SAFA filed for the trademark "Bafana Bafana" for all goods and services, in all classes.
+
+SAFA then applied to have Standton Woodrush Ltd removed from the trademarks register, on the grounds that SAFA was the rightful owner of the name. The case was dismissed on the ground that SAFA was not an interested person within the meaning of this term as used in the Trade Marks Act No. 94 of 1993, which provides that only an interested party has legal standing to seek relief.
+
+SAFA made another application to gain ownership of the trademark, with the second application going to the Appeal Court. The court again found that SAFA did not have the necessary grounds for ownership of the name in all classes. The court held that an intention to use a mark does not create a preference for registration, and that the proprietor of a trademark need not be its originator.
+
+In 2011 SAFA paid R5&nbsp;million to Standton Woodrush Ltd for rights to the name "Bafana Bafana", in class 25 and all other classes.<ref>{{cite web|title=SAFA settle on R5m fee for Bafana name|url=http://www.mtnfootball.com/live/content.php?Item_ID=45819|publisher=MTN Football|access-date=25 June 2011|date=25 June 2011|archive-url=https://web.archive.org/web/20151028141730/http://mtnfootball.com/live/content.php?Item_ID=45819|archive-date=28 October 2015|url-status=dead}}</ref>
+
+===Home stadiums===
+[[File:First game of the 2010 FIFA World Cup, South Africa vs Mexico4.jpg|thumb|First game of the 2010 FIFA World Cup, South Africa vs Mexico at Soccer City]]
+The South Africa national football team does not use a single stadium as its home stadium for matches. Instead, they use a variety of stadiums throughout South Africa to host matches.
+
+The largest venue used is the 94,700-seater [[FNB Stadium|Soccer City]] in [[Soweto]], outside [[Johannesburg]]. Other often used venues include the [[Atteridgeville Super Stadium]], outside [[Pretoria]], the [[Royal Bafokeng Stadium]], outside [[Rustenburg]], the [[Free State Stadium]] in [[Bloemfontein]] and [[Moses Mabhida Stadium]] in [[Durban]].
+
+Matches have also been hosted at [[Ellis Park Stadium|Ellis Park]] in Johannesburg, [[Kings Park Stadium|Kings Park]] in Durban, [[Cape Town Stadium]] in [[Cape Town]], [[Nelson Mandela Bay Stadium]] in [[Gqeberha]], [[Loftus Versfeld Stadium|Loftus Versfeld]] in Pretoria, [[Orlando Stadium]] in Soweto, and [[Mbombela Stadium]] in [[Mbombela]].
+
+The team has also hosted matches outside of South Africa. In preparation for the [[1998 FIFA World Cup]], the team hosted a friendly in [[Baiersbronn]], Germany. As a warm-up for the [[2002 FIFA World Cup]], the team hosted a friendly at [[Mong Kok Stadium]] in [[Hong Kong]]. In 2006 the team hosted a Nelson Mandela Challenge match at [[Griffin Park]], in London, England. During their preparations for the [[2010 FIFA World Cup]], the team hosted two matches in Germany. The matches were played at the [[BRITA-Arena]] in [[Wiesbaden]] and the [[Stadion am Bieberer Berg]] in [[Offenbach am Main]].
+
+=== Kits and crest ===
+{{Commons|South Africa national soccer team kits}} 
+Throughout the years, Bafana Bafana has employed multiple logos to represent the team. Notably, they often utilise two primary logos simultaneously on their jerseys.
+
+==== Protea Emblem ====
+The prominent [[Protea cynaroides|Protea]] emblem, a [[National symbols of South Africa|national symbol of South Africa]], particularly in the post-apartheid era, graces the right side of the jersey. This signifies the team's connection to the broader South African sporting landscape.
+
+==== South African Football Association (SAFA) Badge ====
+Located on the left side of the jersey, the SAFA badge typically features a star above it, commemorating the team's triumph in the [[1996 African Cup of Nations final|1996 Africa Cup of Nations.]]
+
+==== Tertiary Emblem ====
+A less frequently used yet noteworthy emblem was introduced approximately a decade ago.{{when|date=June 2026}} This distinctive logo depicts two stars embodied as footballers on the pitch, offering a symbolic representation of the team's aspirations and achievements.
+
+====Sponsors====
+When the team returned to international soccer in 1992, their kit was supplied by an Italian clothing company, [[Kappa (company)|Kappa]]. The team wore Kappa kits up to and during the [[1998 FIFA World Cup]].<ref>{{cite web|title=Bafana to be decked out in Puma|url=http://www.sowetanlive.co.za/sport/2010/11/17/bafana-to-be-decked-out-in-puma|work=The Sowetan|access-date=2 December 2010|archive-date=20 November 2010|archive-url=https://web.archive.org/web/20101120010915/http://www.sowetanlive.co.za/sport/2010/11/17/bafana-to-be-decked-out-in-puma|url-status=live}}</ref>
+
+Following the 1998 World Cup, the kits for all South African national football teams were supplied by German sports apparel company [[Adidas]]. The sponsorship deal is believed to be worth Rs 14 million per year.<ref>{{cite web|title=Companies want more bang for their sponsorship buck|url=http://www.timeslive.co.za/sport/soccer/article798580.ece/Companies-want-more-bang-for-their-sponsorship-buck|work=The Sunday Times|access-date=5 December 2010|archive-date=11 December 2010|archive-url=https://web.archive.org/web/20101211165546/http://www.timeslive.co.za/sport/soccer/article798580.ece/Companies-want-more-bang-for-their-sponsorship-buck|url-status=live}}</ref> Their contract with the [[South African Football Association]] ran until the end of 2010.
+
+On 7 June 2011, SAFA announced [[Puma AG|Puma]] as its new technical sponsor and unveiled Bafana Bafana's new kit.<ref>{{cite web|title=New Sponsor and kit|url=http://eyewitnessnews.co.za/Story.aspx?Id=67438|publisher=Eyewitness News|access-date=7 June 2011|url-status=dead|archive-url=https://web.archive.org/web/20110815234602/http://eyewitnessnews.co.za/Story.aspx?Id=67438|archive-date=15 August 2011}}</ref><ref>{{Cite web|url=http://footballfashion.org/wordpress/2011/06/07/south-africa-puma-201112-home-and-away-kits-jerseys/|title=South Africa PUMA 2011/12 Home and Away Kits / Jerseys – FOOTBALL FASHION.ORG|website=footballfashion.org|date=7 June 2011|language=en-US|access-date=5 June 2018|archive-date=19 March 2016|archive-url=https://web.archive.org/web/20160319051508/http://footballfashion.org/wordpress/2011/06/07/south-africa-puma-201112-home-and-away-kits-jerseys/|url-status=live}}</ref>
+
+In October 2013, [[Absa Group|ABSA]] announced its resignation as a sponsor of SAFA and the South African national team as of the end of their contract in December 2013. This was followed a week later by the announcement from [[Puma AG|Puma]], that they too would step down as technical sponsors of Bafana Bafana.<ref>{{cite web|title=Another sponsor pulls Safa support|url=http://citizen.co.za/71488/another-sponsor-pulls-safa-support/|access-date=13 October 2013|archive-url=https://web.archive.org/web/20131020063046/http://citizen.co.za/71488/another-sponsor-pulls-safa-support/|archive-date=20 October 2013|url-status=dead}}</ref>
+
+From March 2014 until June 2020, the official kit provider was the American sporting apparel company [[Nike, Inc.|Nike]] from the international friendly match against [[Brazil national football team|Brazil]].
+
+From June 2020 to early 2026, the official kit provider was French sporting apparel company [[Le Coq Sportif]].<ref>{{cite web |title=No More Nike: South Africa Announce Le Coq Sportif Kit Deal |url=https://www.footyheadlines.com/2020/03/south-africa-le-coq-sportif-kit-deal.html |website=Footy Headlines |access-date=6 October 2020 |archive-date=22 September 2020 |archive-url=https://web.archive.org/web/20200922110603/https://www.footyheadlines.com/2020/03/south-africa-le-coq-sportif-kit-deal.html |url-status=live }}</ref>
+
+The team now has one main sponsor, [[SABMiller|Castle Lager]], a brand owned by South African Breweries. Smaller sponsors and suppliers include [[Tiger Brands|Energade]] and [[Tsogo Sun|Tsogo Sun Hotels]].<ref>{{cite web|title=SAFA Sponsors|url=http://www.safa.net/index.php?page=sponsors|access-date=13 October 2013|archive-date=15 October 2013|archive-url=https://web.archive.org/web/20131015174714/http://www.safa.net/index.php?page=sponsors|url-status=live}}</ref>
+
+In 2022, Banxso became the official online trading partner for the team.<ref>{{Cite web |date=24 May 2022 |title=Bafana Bafana announces new partnership with Banxso.com |url=https://www.safa.net/2022/05/24/bafana-bafana-announces-new-partnership-with-banxso-com/ |access-date=9 June 2022 |website=SAFA.net |language=en-US |archive-date=31 May 2022 |archive-url=https://web.archive.org/web/20220531152749/https://www.safa.net/2022/05/24/bafana-bafana-announces-new-partnership-with-banxso-com/ |url-status=live }}</ref>
+
+In 2026, [[Adidas]] was signed as the next kit provider for the South African National Team just in time for the [[2026 FIFA World Cup]], returning for the first time since the [[2010 FIFA World Cup]].
+
+{| class="wikitable"
+|-
+! Kit provider
+! Period
+|-
+| {{flagicon|ITA}} [[File:Kappa logo.svg|20px]] [[Kappa (company)|Kappa]]
+| 1992–1998
+|-
+| {{flagicon|GER}} [[File:Adidas 2022 logo.svg|20px]] [[Adidas]]
+| 1999–2010
+|-
+| {{flagicon|GER}}[[Puma SE|Puma]]
+| 2011–2013
+|-
+| {{flagicon|USA}} [[File:Logo NIKE.svg|20px]] [[Nike, Inc.|Nike]]
+| 2014–2020
+|-
+| {{flagicon|FRA}}[[Le Coq Sportif]]
+| 2020–2025
+|-
+| {{flagicon|GER}} [[File:Adidas 2022 logo.svg|20px]] [[Adidas]]
+| 2026–present
+|}
+
+===Media coverage===
+The [[South African Football Association]] owns the rights to national team matches played in South Africa. SAFA currently has a contract with the [[South African Broadcasting Corporation]], to broadcast these matches. It is up to the SABC to procure the rights to matches played outside of the country.
+
+The SABC usually shows most national team games, though they have often had problems with broadcasting weekday matches. They have previously used delayed live footage,<ref>{{cite web|title=Safa blamed for Bafana's delayed live broadcast last night|url=http://www.sabcnews.com/portal/site/SABCNews/menuitem.5c4f8fe7ee929f602ea12ea1674daeb9/?vgnextoid=aa0424b9e9928210VgnVCM10000077d4ea9bRCRD&vgnextfmt=default|publisher=SABC News|date=23 April 2010|access-date=6 March 2011|archive-url=https://web.archive.org/web/20110427072357/http://www.sabcnews.com/portal/site/SABCNews/menuitem.5c4f8fe7ee929f602ea12ea1674daeb9/?vgnextoid=aa0424b9e9928210VgnVCM10000077d4ea9bRCRD&vgnextfmt=default|archive-date=27 April 2011|url-status=dead}}</ref> and sometimes not shown matches.<ref>{{cite web|title=Another own goal for SABC|url=http://www.sport24.co.za/Soccer/BafanaBafana/Another-own-goal-for-SABC-20101010|publisher=News24|date=10 October 2010|access-date=6 March 2011|archive-date=13 May 2011|archive-url=https://web.archive.org/web/20110513083722/http://www.sport24.co.za/Soccer/BafanaBafana/Another-own-goal-for-SABC-20101010|url-status=live}}</ref>
+
+Most large tournaments in which the team play, such as the [[FIFA World Cup]] and [[Africa Cup of Nations]], have separate broadcast rights. [[SuperSport (South African broadcaster)|SuperSport]] purchase the pay TV rights to these tournaments, thus during these tournaments, they also show South African matches. The SABC usually holds the free to air rights to these tournaments, with the notable exception being the [[2002 FIFA World Cup]]. Those matches were shown by [[e.tv]].<ref>{{cite web
+ |title=SA FREE CHANNEL WINS 2002 WORLD CUP RIGHTS
+ |url=http://www.sportbusiness.com/news/134508/sa-free-channel-wins-2002-world-cup-rights
+ |publisher=sportbusiness
+ |date=28 September 2001 |access-date=11 May 2011 |url-status=dead
+ |archive-url=https://web.archive.org/web/20120310061109/http://www.sportbusiness.com/news/134508/sa-free-channel-wins-2002-world-cup-rights
+ |archive-date=10 March 2012
+}}</ref>
+
+=== Controversy in 2026 FIFA World Cup Qualifiers ===
+On 21 March 2025, South Africa played [[Lesotho national football team|Lesotho]] in a [[FIFA World Cup qualifiers|2026 CAF FIFA World Cup qualifier]] match. It was in this match that the coaching staff made the mistake of fielding an ineligible player, in [[Teboho Mokoena (soccer, born 1997)|Teboho Mokoena]]. The team were docked 3 points (the equivalent of points that were received after their win against Lesotho) and SAFA was fined over R216 000, while Mokoena was issued with a warning. SAFA did not appeal the decision.
+
+==Results and fixtures==
+{{main|South Africa national football team results (2020–present)}}
+
+The following is a list of match results in the last twelve months, as well as any future matches that have been scheduled.
+
+{{legend2|#CCFFCC|Win|border=1px solid #AAAAAA}}
+{{legend2|#FFFFCC|Draw|border=1px solid #AAAAAA}}
+{{legend2|#FFCCCC|Loss|border=1px solid #AAAAAA}}
+{{legend2|#FFFFFF|Fixture|border=1px solid #AAAAAA}}
+
+=== 2025 ===
+{{footballbox collapsible
+| date       = 5 September 
+| time       = {{UTZ|18:00|2}}
+| round      = 2026 FIFA World Cup qualification 
+| team1      = {{fb-rt|LES}} 
+| team2      = {{fb|RSA}} 
+| score      = 0–3
+| report     = https://www.fifa.com/en/match-centre/match/520/288282/288289/400020782
+| goals1     =
+| goals2     = 
+* [[Mohau Nkota|Nkota]] {{goal|20}} 
+* [[Lyle Foster|Foster]] {{goal|65}} 
+* [[Oswin Appollis|Appollis]] {{goal|67}}  
+| stadium    = [[Free State Stadium]]
+| location   = [[Bloemfontein]], South Africa 
+| attendance = 
+| referee    = Dickens Mimisa ([[Kenya Football Federation|Kenya]]) 
+|note=| result     = W
+}}
+{{footballbox collapsible
+| date       = 9 September 
+| time       = {{UTZ|18:00|2}}
+| round      = 2026 FIFA World Cup qualification
+| team1      = {{fb-rt|RSA}} 
+| team2      = {{fb|NGA}} 
+| score      = 1–1
+| report     = https://www.fifa.com/en/match-centre/match/520/288282/288289/400020783
+| goals1     = [[William Troost-Ekong|Troost-Ekong]] {{goal|25|o.g.}} 
+| goals2     = [[Calvin Bassey|Bassey]] {{goal|44}} 
+| stadium    = [[Free State Stadium]]
+| location   = [[Bloemfontein]], South Africa 
+| attendance =
+| referee    = Pierre Atcho ([[Gabonese Football Federation|Gabon]]) 
+| result     = D
+}}
+{{footballbox collapsible
+| date       = 10 October 
+| time       =
+| round      = [[2026 FIFA World Cup qualification - CAF Group C|2026 FIFA World Cup qualification]] 
+| team1      = {{fb-rt|ZIM}} 
+| team2      = {{fb|RSA}} 
+| score      = 0–0
+| report     =
+| goals1     =
+| goals2     =
+| stadium    = [[Moses Mabhida Stadium]]
+| location   = [[Durban]], South Africa
+| attendance =
+| result     = D
+}}
+{{footballbox collapsible
+| date       = 14 October 
+| time       =
+| round      = [[2026 FIFA World Cup qualification - CAF Group C|2026 FIFA World Cup qualification]] 
+| team1      = {{fb-rt|RSA}} 
+| team2      = {{fb|RWA}} 
+| score      = 3–0
+| report     =
+| goals1     =[[Thalente Mbatha|Mbatha]] {{goal|5}} 
+[[Oswin Appollis|Appollis]] {{goal|26}}
+[[Evidence Makgopa|Makgopa]] {{goal|72}}
+| goals2     =
+| stadium    = [[Mbombela Stadium]] 
+| location   = [[Mbombela]], South Africa
+| attendance =
+| result     = W
+}}
+{{Footballbox collapsible 
+| date       = 15 November 
+| time       = {{UTZ|15:00|2}} 
+| round      = [[Exhibition game#Association football|Friendly]]
+| score      = 3–1
+| report     = https://www.fifa.com/en/match-centre/match/cesdwwnxbc5fmajgroc0hqzy2/8pw8cm9fuczk7lmxm1oxjdyc4/1rj1740ys47h5s938mfswsh78/dh587mqyvg2kwyax7bzzlh5as
+| team1      = {{fb-rt|RSA}} 
+| team2      = {{fb|ZAM}} 
+| goals1     = 
+*[[Oswin Appollis|Appollis]] {{goal|43}}
+*[[Mohau Nkota|Nkota]] {{goal|62}}
+*[[Sphephelo Sithole|Sithole]] {{goal|68}}
+| goals2     = 
+*[[Joseph Sabobo Banda|Sabobo]] {{goal|90+2}}
+| stadium    = [[Nelson Mandela Bay Stadium]]
+| location   = [[Gqeberha]], South Africa
+| attendance = 
+|referee     = [[Naftal Negongo]] ([[Namibia Football Association|Namibia]])
+| result     = W
+}}
+{{footballbox collapsible
+| round      = [[Exhibition game#Association football|Friendly]] 
+| date       = 16 December
+| time       = {{UTZ|16:00|2}}
+| team1      = {{fb-rt|RSA}} 
+| score      = 1–0 
+| team2      = {{flag|Ghana}} B 
+| report     = https://www.sofascore.com/football/match/ghana-south-africa/LUbsoVb
+| goals1     = [[Sipho Mbule|Mbule]] {{goal|58}}
+| goals2     =
+| stadium    = [[Dobsonville Stadium]]
+| location   = [[Soweto]], South Africa
+| attendance = 
+| referee    = 
+| result     = W 
+}}
+{{Football box collapsible
+|round      = [[2025 Africa Cup of Nations Group B|2025 AFCON Group B]]
+|date       = 22 December
+|time       = {{UTZ|18:00|1}}
+|team1      = {{fb-rt|SAF}}
+|score      = 2–1
+|team2      = {{fb|ANG}}
+|goals1     = *[[Oswin Appollis|Appollis]] {{goal|21}}
+*[[Lyle Foster|Foster]] {{goal|79}}
+|goals2     = [[Show (footballer)|Show]] {{goal|35}}
+|stadium    = [[Marrakesh Stadium]]
+|location   = [[Marrakesh]], Morocco
+|attendance = 4,013
+|referee    = [[Mahmood Ismail]] ([[Sudan Football Association|Sudan]])
+|report     = https://www.cafonline.com/afcon2025/match-centre?competition=190&season=2025&match=2506777
+|result     = W
+}}
+{{Football box collapsible
+|date= 26 December
+|time= {{UTZ|16:00|1}}
+|round= [[2025 Africa Cup of Nations Group B|2025 AFCON Group B]]
+|score= 1–0
+|report= https://www.cafonline.com/afcon2025/match-centre?competition=190&season=2025&match=2506788
+|team1= {{fb-rt|EGY}}
+|goals1= *[[Mohamed Hany|Hany]] {{sentoff|2|30|45+2}}
+*[[Mohamed Salah|Salah]] {{goal|45|pen.}}
+|team2= {{fb|RSA}}
+|goals2=
+|stadium= [[Adrar Stadium]]
+|location= [[Agadir]], Morocco
+|attendance= 40,219
+|referee= [[Pacifique Ndabihawenimana]] ([[Football Federation of Burundi|Burundi]])
+|result= L
+}}
+{{Football box collapsible
+|round      = [[2025 Africa Cup of Nations Group B|2025 AFCON Group B]]
+|date       = 29 December
+|time       = {{UTZ|17:00|1}}
+|team1      = {{fb-rt|ZIM}}
+|score      = 2–3
+|team2      = {{fb|RSA}}
+|goals1     = *[[Tawanda Maswanhise|Maswanhise]] {{goal|19}}
+*[[Aubrey Modiba|Modiba]] {{goal|73|o.g.}}
+|goals2     = *[[Tshepang Moremi|Moremi]] {{goal|7}}
+*[[Lyle Foster|Foster]] {{goal|50}}
+*[[Oswin Appollis|Appollis]] {{goal|82|pen}}
+|stadium    = [[Marrakesh Stadium]]
+|location   = [[Marrakesh]], Morocco
+|attendance = 9,235
+|referee    = Mustapha Kech Chaf ([[Royal Moroccan Football Federation|Morocco]])
+|report     = https://www.cafonline.com/afcon2025/match-centre?competition=190&season=2025&match=2506801
+|result     = W
+}}
+
+=== 2026 === 
+{{Football box collapsible
+|round      = [[2025 Africa Cup of Nations knockout stage|2025 AFCON Round of 16]]
+|date       = 4 January
+|time       = {{UTZ|20:00|1}}
+|team1      = {{fb-rt|RSA}}
+|score      = 1–2 
+|team2      = {{fb|CMR}}
+|goals1     = *[[Evidence Makgopa|Makgopa]] {{goal|88}}
+|goals2     = *[[Junior Tchamadeu|Tchamadeu]] {{goal|34}}
+*[[Christian Kofane|Kofane]] {{goal|47}}
+|stadium    = [[Al Medina Stadium]]
+|location   = [[Rabat]], Morocco
+|attendance = 14,127
+|referee    = [[Peter Waweru]] ([[Kenya Football Federation|Kenya]])
+|report     = https://www.cafonline.com/afcon2025/match-centre?competition=190&season=2025&match=2506813
+|result     = L 
+}}
+{{football box collapsible
+|round      = [[Exhibition game#Association football|Friendly]]
+|date       = 27 March
+|time       = {{UTZ|19:00|+2}}
+|team1      = {{fb-rt|RSA}}
+|score      = 1–1
+|team2      = {{fb|PAN}}
+|report     = https://www.espn.com/soccer/match/_/gameId/401860541/panama-south-africa
+|goals1     = [[Oswin Appollis|Appollis]] {{goal|48}}
+|goals2     = [[Yoel Bárcenas|Bárcenas]] {{goal|23}}
+|location   = [[Durban]], South Africa
+|stadium    = [[Moses Mabhida Stadium]]
+|attendance = 14,000
+|referee    = [[Thabang Ketshabile]] ([[Botswana Football Association|Botswana]])
+|result     = D
+}}
+{{football box collapsible
+|round      = [[Exhibition game#Association football|Friendly]]
+|date       = 31 March
+|time       = {{UTZ|19:30|+2}}
+|team1      = {{fb-rt|RSA}}
+|score      = 1–2
+|team2      = {{fb|PAN}}
+|report     = https://www.fifa.com/en/match-centre/match/cesdwwnxbc5fmajgroc0hqzy2/dezv8l0fzgcxtejl0dwmy1gyc/2m1wojm5bt709wu4kugtytxqs/ec0sbf7yknz58qdojafa0rztg
+|goals1     = 
+* [[Mbekezeli Mbokazi|Mbokazi]] {{goal|64}}
+|goals2     = 
+* [[José Córdoba|Córdoba]] {{goal|58}}
+* [[Jiovany Ramos|Ramos]] {{goal|77}}
+|location   = [[Cape Town]], South Africa
+|stadium    = [[Cape Town Stadium]]
+|attendance = 
+|referee    = Thabang Ketshabile ([[Botswana Football Association|Botsawana]])
+|result     = L
+}}
+{{Football box collapsible
+|round      = [[Exhibition game#Association football|Friendly]]
+|date       = 29 May
+|time       = {{UTZ|21:30|+2}}
+|team1      = {{fb-rt|RSA}}
+|score      = 0–0
+|team2      = {{fb|NCA}}
+|report     = https://www.soccerway.com/match/nicaragua-6L9QjkfT/south-africa-W2ijYvlr/summary/lineups/?mid=2NxSErMc
+|goals1     =
+|goals2     =
+|location   = [[Soweto]], South Africa
+|stadium    = [[Orlando Stadium]]
+|attendance = 
+|referee    = 
+|result     = D
+}}
+{{Football box collapsible
+|round      = [[Exhibition game#Association football|Friendly]]
+|date       = 6 June
+|time       = {{UTZ|15:30|-6}}
+|team1      = {{fb-rt|JAM}}
+|score      = 1–1
+|team2      = {{fb|RSA}}
+|report     = https://www.fifa.com/en/match-centre/match/cesdwwnxbc5fmajgroc0hqzy2/dezv8l0fzgcxtejl0dwmy1gyc/2m1wojm5bt709wu4kugtytxqs/9uj27r45ololxapo6cvath4ic
+|goals1     =
+* [[Dwayne Atkinson|Atkinson]] {{goal|90+3}}
+|goals2     =
+* [[Oswin Appollis|Appollis]] {{goal|32}}
+|location   = [[Pachuca]], Mexico ([[Behind closed doors (sport)|BCD]])
+|stadium    = [[Estadio Hidalgo]]
+|attendance = 
+|referee    = 
+|result     = D
+}}
+{{Football box collapsible
+|round      = [[2026 FIFA World Cup]]
+|date       = 11 June
+|time       = {{UTZ|13:00|-6}}
+|team1      = {{fb-rt|MEX}}
+|score      = 2–0
+|team2      = {{fb|RSA}}
+|report     = https://www.fifa.com/en/match-centre/match/17/285023/289273/400021443 
+|goals1     = 
+* [[Julián Quiñones|Quiñones]] {{goal|9}}
+* [[Raúl Jiménez|Jiménez]] {{goal|67}}
+|goals2     =
+|location   = [[Mexico City]], Mexico
+|stadium    = [[Estadio Azteca]]
+|attendance = 80,824
+|referee    = [[Wilton Sampaio]] ([[Brazilian Football Confederation|Brazil]])
+|result     = L
+}}
+{{Football box collapsible
+|round      = [[2026 FIFA World Cup]]
+|date       = 18 June
+|time       = {{UTZ|12:00|-4}}
+|team1      = {{fb-rt|CZE}}
+|score      = 1–1
+|team2      = {{fb|RSA}}
+|report     = https://www.fifa.com/en/match-centre/match/17/285023/289273/400021440
+|goals1     =
+*[[Michal Sadílek|Sadílek]] {{goal|6}}
+|goals2     =
+*[[Teboho Mokoena (soccer, born 1997)|Mokoena]] {{goal|83}}
+|location   = [[Atlanta]], [[Georgia (U.S. state)|Georgia]], United States
+|stadium    = [[Mercedes-Benz Stadium]]
+|attendance = 67,442
+|referee    = [[Tori Penso]] ([[United States Soccer Federation|United States]])
+|result     = D
+}}
+{{Football box collapsible
+|round      = [[2026 FIFA World Cup]]
+|date       = 25 June
+|time       = {{UTZ|19:00|-6}}
+|team1      = {{fb-rt|RSA}}
+|score      = 1–0
+|team2      = {{fb|KOR}}
+|report     = https://www.fifa.com/en/match-centre/match/17/285023/289273/400021445
+|goals1     =
+*[[Thapelo Maseko|Maseko]] {{goal|63}}
+|goals2     =
+|location   = [[Guadalupe, Nuevo León|Guadalupe]], Mexico
+|stadium    = [[Estadio BBVA]]
+|attendance = 51,243
+|referee    = [[Facundo Tello]] ([[Argentine Football Association|Argentina]])
+|result     = W
+}}
+{{footballbox collapsible 
+|round      = [[2026 FIFA World Cup round of 32|2026 FIFA World Cup Round of 32]]
+|date       = 28 June
+|time       = {{UTZ|12:00|-7}}
+|team1      = {{fb-rt|RSA}}
+|score      = 0–1
+|team2      = {{fb|CAN}}
+|goals1     = 
+|goals2     = 
+*[[Stephen Eustáquio|Eustáquio]] {{goal|90+2}}
+|location   = [[Inglewood, California|Inglewood]], [[California]], United States
+|stadium    = [[SoFi Stadium]]
+|attendance = 69,237
+|referee    = [[João Pinheiro]] ([[Portuguese Football Federation|Portugal]])
+|report     = https://www.fifa.com/en/match-centre/match/17/285023/289287/400021518
+|result     = L
+}}
+{{footballbox collapsible
+|round      = [[2027 Africa Cup of Nations qualification|2027 AFCON qualification]]
+|date       = TBD
+|time       = TBD
+|team1      = {{fb-rt|RSA}}
+|score      = 
+|team2      = {{fb|GUI}}
+|report     = 
+|goals1     =
+|goals2     =
+|location   = TBD, South Africa
+|stadium    = TBD
+|attendance = 
+|referee    = 
+|result     =
+}}
+{{footballbox collapsible
+|round      = [[2027 Africa Cup of Nations qualification|2027 AFCON qualification]]
+|date       = TBD
+|time       = TBD
+|team1      = {{fb-rt|GUI}}
+|score      = 
+|team2      = {{fb|RSA}}
+|report     = 
+|goals1     =
+|goals2     =
+|location   = TBD, Guinea
+|stadium    = TBD
+|attendance = 
+|referee    = 
+|result     =
+}}
+{{footballbox collapsible
+|round      = [[2027 Africa Cup of Nations qualification|2027 AFCON qualification]]
+|date       = TBD
+|time       = TBD
+|team1      = {{fb-rt|RSA}}
+|score      = 
+|team2      = {{fb|KEN}}
+|report     = 
+|goals1     =
+|goals2     =
+|location   = TBD, South Africa
+|stadium    = TBD
+|attendance = 
+|referee    = 
+|result     =
+}}
+{{footballbox collapsible
+|round      = [[2027 Africa Cup of Nations qualification|2027 AFCON qualification]]
+|date       = TBD
+|time       = TBD
+|team1      = {{fb-rt|KEN}}
+|score      = 
+|team2      = {{fb|RSA}}
+|report     = 
+|goals1     =
+|goals2     =
+|location   = TBD, Kenya
+|stadium    = TBD
+|attendance = 
+|referee    = 
+|result     =
+}}
+{{footballbox collapsible
+|round      = [[2027 Africa Cup of Nations qualification|2027 AFCON qualification]]
+|date       = TBD
+|time       = TBD
+|team1      = {{fb-rt|RSA}}
+|score      = 
+|team2      = {{fb|ERI}}
+|report     = 
+|goals1     =
+|goals2     =
+|location   = TBD, South Africa
+|stadium    = TBD
+|attendance = 
+|referee    = 
+|result     =
+}}
+{{footballbox collapsible
+|round      = [[2027 Africa Cup of Nations qualification|2027 AFCON qualification]]
+|date       = TBD
+|time       = TBD
+|team1      = {{fb-rt|ERI}}
+|score      = 
+|team2      = {{fb|RSA}}
+|report     = 
+|goals1     =
+|goals2     =
+|location   = TBD, Eritrea
+|stadium    = TBD
+|attendance = 
+|referee    = 
+|result     =
+}}
+
+==Coaching staff==
+[[File:Hugo Broos Trabzonspor OTRS.jpg|thumb|upright=0.9|Current head coach [[Hugo Broos]]]]
+{{Fb cs header}}
+{{fb cs staff|p=Team Manager|s={{flagicon|South Africa}} [[Vincent Tseka]]}}
+{{Fb cs staff|p=[[Manager (association football)|Head coach]]|s={{flagicon|Belgium}} [[Hugo Broos]]}}
+{{Fb cs staff|p=Assistant Coach|s={{flagicon|South Africa}} [[Helman Mkhalele]]}}
+{{Fb cs staff|p=Goalkeeper Coach|s={{flagicon|South Africa}} [[Grant Johnson (football manager)|Grant Johnson]]}}
+{{Fb cs staff|p=Team Organiser|s={{flagicon|South Africa}} [[David Molwantwa]]}}
+{{end}}
+
+===Coaching history===
+:Caretaker managers are listed in ''italics''.
+{{Div col|colwidth=22em}}
+*{{flagicon|ENG}} [[Alan Rogers (football manager)|Alan Rogers]] (1963)
+*{{flagicon|ENG}} [[Jeff Butler (soccer)|Jeff Butler]] (1992)
+*{{flagicon|RSA|1982}} [[Stanley Tshabalala]] (1992)
+*{{flagicon|RSA|1982}} [[Ephraim Mashaba]] (1992)
+*{{flagicon|PER}} [[Augusto Palacios]] (1992–93)
+*{{flagicon|RSA}} [[Clive Barker (soccer)|Clive Barker]] (1994–97)
+*{{flagicon|RSA}} ''[[Jomo Sono]]'' (1998)
+*{{flagicon|FRA|1974}} [[Philippe Troussier]] (1998)
+*{{flagicon|RSA}} [[Trott Moloto]] (1998–00)
+*{{flagicon|POR}} [[Carlos Queiroz]] (2000–02)
+*{{flagicon|RSA}} ''[[Ephraim Mashaba]]'' (2001)
+*{{flagicon|RSA}} ''[[Trott Moloto]]'' (2002)
+*{{flagicon|RSA}} ''[[Jomo Sono]]'' (2002)
+*{{flagicon|RSA}} [[Ephraim Mashaba]] (2002–04, 2014–16)
+*{{flagicon|RSA}} ''[[Jomo Sono]]'' (2003)
+*{{flagicon|RSA}} ''[[April Phumo]]'' (2004)
+*{{flagicon|SCO}} [[Stuart Baxter]] (2004–05, 2017–19)
+*{{flagicon|ROM}} [[Ted Dumitru]] (2005–06)
+*{{flagicon|RSA}} ''[[Pitso Mosimane]]'' (2006)
+*{{flagicon|BRA}} [[Carlos Alberto Parreira]] (2007–08, 2009–10)
+*{{flagicon|BRA}} [[Joel Santana]] (2008–09)
+*{{flagicon|RSA}} [[Pitso Mosimane]] (2010–12)
+*{{flagicon|RSA}} ''[[Steve Komphela]]'' (2012)
+*{{flagicon|RSA}} [[Gordon Igesund]] (2012–14)
+*{{flagicon|RSA}} [[Molefi Ntseki]] (2019–21)
+*{{flagicon|RSA}} ''[[Helman Mkhalele]]'' (2021)
+*{{flagicon|BEL}} [[Hugo Broos]] (2021–present)
+{{div col end}}
+
+==Players==
+===Current squad===
+The following players were included in the squad for the [[2026 FIFA World Cup]], and for the [[Exhibition game#International football|friendly match]] against [[Nicaragua national football team|Nicaragua]] on 31 May 2026.<ref>{{cite web |url=https://www.instagram.com/safa_dot_net/p/DY2g0HKDuPq/ |title=The final Bafana Bafana 2026 FIFA World Cup squad is LOCKED IN! From the safe hands in goal to the clinical forwards, these are the players who will represent South Africa on the global stage. |publisher=[[South African Football Association]] |via=[[Instagram]] |date=May 27, 2026 |access-date=May 27, 2026}}</ref>
+<br>''Caps and goals correct as of 28 June 2026, after the match against [[Canada men's national soccer team|Canada]]''.
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Ronwen Williams]]|other=[[Captain (association football)|captain]]|age={{birth date and age|1992|1|21|df=y}}|caps=66|goals=0|club=[[Mamelodi Sundowns F.C.|Mamelodi Sundowns]]|clubnat=RSA}}
+{{nat fs g player|no=16|pos=GK|name=[[Sipho Chaine]]|age={{birth date and age|1996|12|14|df=y}}|caps=4|goals=0|club=[[Orlando Pirates F.C.|Orlando Pirates]]|clubnat=RSA}}
+{{nat fs g player|no=22|pos=GK|name=[[Ricardo Goss]]|age={{birth date and age|1994|4|2|df=y}}|caps=5|goals=0|club=[[Siwelele F.C.|Siwelele]]|clubnat=RSA}}
+{{nat fs break}}
+{{nat fs g player|no=2|pos=DF|name=[[Thabang Matuludi]]|age={{birth date and age|1999|1|14|df=y}}|caps=3|goals=0|club=[[Polokwane City F.C.|Polokwane City]]|clubnat=RSA}}
+{{nat fs g player|no=3|pos=DF|name=[[Khulumani Ndamane]]|age={{birth date and age|2004|2|5|df=y}}|caps=5|goals=0|club=[[Mamelodi Sundowns F.C.|Mamelodi Sundowns]]|clubnat=RSA}}
+{{nat fs g player|no=6|pos=DF|name=[[Aubrey Modiba]]|other=[[Captain (association football)|fifth captain]]|age={{birth date and age|1995|7|22|df=y}}|caps=45|goals=1|club=[[Mamelodi Sundowns F.C.|Mamelodi Sundowns]]|clubnat=RSA}}
+{{nat fs g player|no=14|pos=DF|name=[[Mbekezeli Mbokazi]]|age={{birth date and age|2005|9|19|df=y}}|caps=14|goals=1|club=[[Chicago Fire FC|Chicago Fire]]|clubnat=USA}}
+{{nat fs g player|no=18|pos=DF|name=[[Samukele Kabini]]|age={{birth date and age|2004|3|15|df=y}}|caps=6|goals=0|club=[[Molde FK|Molde]]|clubnat=NOR}}
+{{nat fs g player|no=19|pos=DF|name=[[Nkosinathi Sibisi]]|age={{birth date and age|1995|9|22|df=y}}|caps=21|goals=0|club=[[Orlando Pirates F.C.|Orlando Pirates]]|clubnat=RSA}}
+{{nat fs g player|no=20|pos=DF|name=[[Khuliso Mudau]]|age={{birth date and age|1995|4|26|df=y}}|caps=36|goals=1|club=[[Mamelodi Sundowns F.C.|Mamelodi Sundowns]]|clubnat=RSA}}
+{{nat fs g player|no=21|pos=DF|name=[[Ime Okon]]|age={{birth date and age|2004|2|20|df=y}}|caps=7|goals=0|club=[[Hannover 96]]|clubnat=GER}}
+{{nat fs g player|no=24|pos=DF|name=[[Olwethu Makhanya]]|age={{birth date and age|2004|4|30|df=y}}|caps=1|goals=0|club=[[Philadelphia Union]]|clubnat=USA}}
+{{nat fs g player|no=25|pos=DF|name=[[Kamogelo Sebelebele]]|age={{birth date and age|2002|7|21|df=y}}|caps=4|goals=0|club=[[Orlando Pirates F.C.|Orlando Pirates]]|clubnat=RSA}}
+{{nat fs g player|no=26|pos=DF|name=[[Bradley Cross (soccer)|Bradley Cross]]|age={{birth date and age|2001|1|30|df=y}}|caps=1|goals=0|club=[[Kaizer Chiefs F.C.|Kaizer Chiefs]]|clubnat=RSA}}
+{{nat fs break}}
+{{nat fs g player|no=4|pos=MF|name=[[Teboho Mokoena (soccer, born 1997)|Teboho Mokoena]]|other=[[Captain (association football)|fourth captain]]|age={{birth date and age|1997|1|24|df=y}}|caps=54|goals=10|club=[[Mamelodi Sundowns F.C.|Mamelodi Sundowns]]|clubnat=RSA}}
+{{nat fs g player|no=5|pos=MF|name=[[Thalente Mbatha]]|age={{birth date and age|2000|3|6|df=y}}|caps=19|goals=3|club=[[Orlando Pirates F.C.|Orlando Pirates]]|clubnat=RSA}}
+{{nat fs g player|no=13|pos=MF|name=[[Sphephelo Sithole|Yaya Sithole]]|age={{birth date and age|1999|3|3|df=y}}|caps=31|goals=1|club=[[C.D. Tondela|Tondela]]|clubnat=POR}}
+{{nat fs g player|no=23|pos=MF|name=[[Jayden Adams]]|age={{birth date and age|2001|5|5|df=y}}|caps=12|goals=1|club=Deceased}}
+{{nat fs break}}
+{{nat fs g player|no=7|pos=FW|name=[[Oswin Appollis]]|age={{birth date and age|2001|8|25|df=y}}|caps=31|goals=9|club=[[Orlando Pirates F.C.|Orlando Pirates]]|clubnat=RSA}}
+{{nat fs g player|no=8|pos=FW|name=[[Tshepang Moremi]]|age={{birth date and age|2000|10|2|df=y}}|caps=12|goals=1|club=[[Orlando Pirates F.C.|Orlando Pirates]]|clubnat=RSA}}
+{{nat fs g player|no=9|pos=FW|name=[[Lyle Foster]]|age={{birth date and age|2000|5|9|df=y}}|caps=28|goals=10|club=[[Burnley F.C.|Burnley]]|clubnat=ENG}}
+{{nat fs g player|no=10|pos=FW|name=[[Relebohile Mofokeng]]|age={{birth date and age|2004|10|23|df=y}}|caps=16|goals=0|club=[[Royale Union Saint-Gilloise|Union Saint-Gilloise]]|clubnat=BEL}}
+{{nat fs g player|no=11|pos=FW|name=[[Themba Zwane]]|other=[[Captain (association football)|vice-captain]]|age={{birth date and age|1989|8|3|df=y}}|caps=55|goals=12|club=[[Mamelodi Sundowns F.C.|Mamelodi Sundowns]]|clubnat=RSA}}
+{{nat fs g player|no=12|pos=FW|name=[[Thapelo Maseko]]|age={{birth date and age|2003|11|11|df=y}}|caps=10|goals=2|club=[[Mamelodi Sundowns F.C.|Mamelodi Sundowns]]|clubnat=RSA}}
+{{nat fs g player|no=15|pos=FW|name=[[Iqraam Rayners]]|age={{birth date and age|1995|12|19|df=y}}|caps=18|goals=4|club=[[Mamelodi Sundowns F.C.|Mamelodi Sundowns]]|clubnat=RSA}}
+{{nat fs g player|no=17|pos=FW|name=[[Evidence Makgopa]]|age={{birth date and age|2000|6|5|df=y}}|caps=30|goals=6|club=[[Orlando Pirates F.C.|Orlando Pirates]]|clubnat=RSA}}
+{{nat fs end}}
+
+===Recent call-ups===
+The following players were called up to a squad in the last 12 months. Caps and goals relate to the time at which the matches were played.
+<!--Sorted by position, most recent call-up, caps, goals and last name.-->
+{{nat fs r start}}                                                       
+{{nat fs r player|no=|pos=GK|name=[[Brandon Peterson (soccer)|Brandon Petersen]]|age={{birth date and age|1994|9|22|df=y}}|caps=0|goals=0|club=[[Kaizer Chiefs F.C.|Kaizer Chiefs]]|clubnat=RSA|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=GK|name=[[Renaldo Leaner]]|age={{birth date and age|1998|2|12|df=y}}|caps=3|goals=0|club=[[Sekhukhune United F.C.|Sekhukhune United]]|clubnat=RSA|latest=v. {{fb|PAN}}, 31 March 2026}}
+{{nat fs r player|no=|pos=GK|name=Darren Johnson|age={{birth date and age|1997|2|22|df=y}}|caps=0|goals=0|club=[[AmaZulu F.C.|AmaZulu]]|clubnat=RSA|latest=v. {{fb|PAN}}, 31 March 2026}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=DF|name=[[James Monyane|Thabiso Monyane]]|age={{birth date and age|2000|4|30|df=y}}|caps=2|goals=0|club=[[Kaizer Chiefs F.C.|Kaizer Chiefs]]|clubnat=RSA|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=DF|name=[[Deano van Rooyen]]|age={{birth date and age|1996|11|24|df=y}}|caps=2|goals=0|club=[[Orlando Pirates F.C.|Orlando Pirates]]|clubnat=RSA|latest=v. {{fb|PAN}}, 31 March 2026}}
+{{nat fs r player|no=|pos=DF|name=[[Tylon Smith]]|age={{birth date and age|2005|5|9|df=y}}|caps=1|goals=0|club=[[Queens Park Rangers F.C.|Queens Park Rangers]]|clubnat=ENG|latest=v. {{fb|PAN}}, 31 March 2026}}
+{{nat fs r player|no=|pos=DF|name=Vuyo Letlapa|age={{birth date and age|2003|8|8|df=y}}|caps=0|goals=0|club=[[Sekhukhune United F.C.|Sekhukhune United]]|clubnat=RSA|latest=v. {{fb|PAN}}, 31 March 2026}}
+{{nat fs r player|no=|pos=DF|name=[[Siyabonga Ngezana]]|age={{birth date and age|1997|7|15|df=y}}|caps=11|goals=0|club=[[FCSB]]|clubnat=ROU|latest=[[2025 Africa Cup of Nations]]}}
+{{nat fs r player|no=|pos=DF|name=[[Thabo Moloisane]]|age={{birth date and age|1999|2|24|df=y}}|caps=2|goals=0|club=[[Stellenbosch F.C.|Stellenbosch]]|clubnat=RSA|latest=[[2025 Africa Cup of Nations]]}}
+{{nat fs r player|no=|pos=DF|name=[[Fawaaz Basadien]]|age={{birth date and age|1996|12|23|df=y}}|caps=4|goals=0|club=[[Mamelodi Sundowns F.C.|Mamelodi Sundowns]]|clubnat=RSA|latest=[[2025 Africa Cup of Nations]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=DF|name=Malibongwe Khoza|age={{birth date and age|2004|3|16|df=y}}|caps=4|goals=0|club=[[Mamelodi Sundowns F.C.|Mamelodi Sundowns]]|clubnat=RSA|latest=[[2025 Africa Cup of Nations]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=DF|name=[[Keegan Allan]]|age={{birth date and age|2000|8|7|df=y}}|caps=0|goals=0|club=[[AmaZulu F.C.|AmaZulu]]|clubnat=RSA|latest=[[2025 Africa Cup of Nations]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=DF|name=Fezile Gcaba|age={{birth date and age|1999|3|3|df=y}}|caps=0|goals=0|club=[[Durban City F.C.|Durban City]]|clubnat=RSA|latest=[[2025 Africa Cup of Nations]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=DF|name=[[Nyiko Mobbie]]|age={{birth date and age|1994|9|11|df=y}}|caps=30|goals=0|club=[[Siwelele F.C.|Siwelele]]|clubnat=RSA|latest=v. {{fb|NGA}}, 9 September 2025}}
+{{nat fs r player|no=|pos=DF|name=[[Zuko Mdunyelwa]]|age={{birth date and age|1999|6|6|df=y}}|caps=1|goals=0|club=[[Mamelodi Sundowns F.C.|Mamelodi Sundowns]]|clubnat=RSA|latest=v. {{fb|NGA}}, 9 September 2025}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=MF|name=[[Lebohang Maboe]]|age={{birth date and age|1994|9|17}}|caps=17|goals=3|club=[[Kaizer Chiefs F.C.|Kaizer Chiefs]]|clubnat=RSA|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=MF|name=[[Brooklyn Poggenpoel]]|age={{birth date and age|1999|10|3}}|caps=0|goals=0|club=[[Durban City F.C. (2024)|Durban City]]|clubnat=RSA|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=MF|name=[[Luke Le Roux]]|age={{birth date and age|2000|3|10|df=y}}|caps=9|goals=0|club=[[Portsmouth F.C.|Portsmouth]]|clubnat=ENG|latest=v. {{fb|PAN}}, 31 March 2026}}
+{{nat fs r player|no=|pos=MF|name=[[Ndamulelo Maphangule]]|age={{birth date and age|1999|10|22|df=y}}|caps=1|goals=0|club=[[Polokwane City F.C.|Polokwane City]]|clubnat=RSA|latest=v. {{fb|PAN}}, 31 March 2026}}
+{{nat fs r player|no=|pos=MF|name=Mthetheleli Mthiyane|age={{birth date and age|2001|1|21|df=y}}|caps=0|goals=0|club=[[Stellenbosch F.C.|Stellenbosch]]|clubnat=RSA|latest=v. {{fb|PAN}}, 31 March 2026}}
+{{nat fs r player|no=|pos=MF|name=[[Bathusi Aubaas]]|age={{birth date and age|1998|7|11|df=y}}|caps=16|goals=1|club=[[Mamelodi Sundowns F.C.|Mamelodi Sundowns]]|clubnat=RSA|latest=[[2025 Africa Cup of Nations]]}}
+{{nat fs r player|no=|pos=MF|name=[[Sipho Mbule]]|age={{birth date and age|1998|3|22|df=y}}|caps=8|goals=0|club=[[Orlando Pirates F.C.|Orlando Pirates]]|clubnat=RSA|latest=[[2025 Africa Cup of Nations]]}}
+{{nat fs r player|no=|pos=MF|name=[[Mduduzi Shabalala]]|age={{birth date and age|2004|1|20|df=y}}|caps=1|goals=0|club=[[Kaizer Chiefs F.C.|Kaizer Chiefs]]|clubnat=RSA|latest=[[2025 Africa Cup of Nations]]}}
+{{nat fs r player|no=|pos=MF|name=[[Sphesihle Maduna]]|age={{birth date and age|1999|12|26|df=y}}|caps=0|goals=0|club=[[TS Galaxy F.C.|TS Galaxy]]|clubnat=RSA|latest=[[2025 Africa Cup of Nations]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=MF|name=[[Siphesihle Mkhize]]|age={{birth date and age|1999|2|5|df=y}}|caps=0|goals=0|club=[[Sekhukhune United F.C.|Sekhukhune United]]|clubnat=RSA|latest=[[2025 Africa Cup of Nations]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=MF|name=Masindi Nemtajela|age={{birth date and age|2001|8|23|df=y}}|caps=0|goals=0|club=[[Orlando Pirates F.C.|Orlando Pirates]]|clubnat=RSA|latest=[[2025 Africa Cup of Nations]] <sup>PRE</sup>}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=FW|name=[[Thapelo Morena]]|age={{birth date and age|1993|8|6|df=y}}|caps=33|goals=3|club=[[Mamelodi Sundowns F.C.|Mamelodi Sundowns]]|clubnat=RSA|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=FW|name=[[Patrick Maswanganyi]]|age={{birth date and age|1998|4|4|df=y}}|caps=5|goals=2|club=[[Orlando Pirates F.C.|Orlando Pirates]]|clubnat=RSA|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=FW|name=[[Bongokuhle Hlongwane]]|age={{birth date and age|2000|6|20|df=y}}|caps=19|goals=4|club=[[Minnesota United FC|Minnesota United]]|clubnat=USA|latest=v. {{fb|PAN}}, 31 March 2026}}
+{{nat fs r player|no=|pos=FW|name=[[Mohau Nkota]]|age={{birth date and age|2004|11|9|df=y}}|caps=9|goals=2|club=[[Al-Ettifaq Club|Al-Ettifaq]]|clubnat=KSA|latest=v. {{fb|PAN}}, 31 March 2026}}
+{{nat fs r player|no=|pos=FW|name=[[Yanela Mbuthuma]]|age={{birth date and age|2002|2|23|df=y}}|caps=1|goals=0|club=[[Orlando Pirates F.C.|Orlando Pirates]]|clubnat=RSA|latest=v. {{fb|PAN}}, 31 March 2026}}
+{{nat fs r player|no=|pos=FW|name=[[Elias Mokwana]]|age={{birth date and age|1999|9|8|df=y}}|caps=11|goals=2|club=[[Alhazem|Al-Hazem]]|clubnat=KSA|latest=[[2025 Africa Cup of Nations]]}}
+{{nat fs r player|no=|pos=FW|name=[[Shandre Campbell]]|age={{birth date and age|2005|7|15|df=y}}|caps=0|goals=0|club=[[Club Brugge KV|Club Brugge]]|clubnat=BEL|latest=[[2025 Africa Cup of Nations]]}}
+{{nat fs r player|no=|pos=FW|name=[[Mihlali Mayambela]]|age={{birth date and age|1996|8|25|df=y}}|caps=16|goals=2|club=[[AC Omonia|Omonia]]|clubnat=CYP|latest=[[2025 Africa Cup of Nations]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=FW|name=[[Ashley Cupido]]|age={{birth date and age|2001|5|5|df=y}}|caps=0|goals=0|club=[[Stellenbosch F.C.|Stellenbosch]]|clubnat=RSA|latest=[[2025 Africa Cup of Nations]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=FW|name=[[Puso Dithejane]]|age={{birth date and age|2004|7|24|df=y}}|caps=0|goals=0|club=[[Chicago Fire FC|Chicago Fire]]|clubnat=USA|latest=[[2025 Africa Cup of Nations]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=FW|name=[[Keletso Makgalwa]]|age={{birth date and age|1997|1|3|df=y}}|caps=0|goals=0|club=[[Sekhukhune United F.C.|Sekhukhune United]]|clubnat=RSA|latest=[[2025 Africa Cup of Nations]] <sup>PRE</sup>}}
+{{nat fs break}}
+;Notes
+*<sup>INJ</sup> = Withdrew due to injury
+*<sup>PRE</sup> = Preliminary squad
+*<sup>RET</sup> = Retired from the national team
+*<sup>SUS</sup> = Serving suspension
+*<sup>WD</sup> = Player withdrew from the squad due to non-injury issue.
+{{nat fs end}}
+
+===Past squads===
+{{col-begin}}
+{{col-2}}
+'''Africa Cup of Nations'''
+*'''[[1996 African Cup of Nations squads#South Africa|1996 African Cup of Nations]]'''
+*[[1998 African Cup of Nations squads#South Africa|1998 African Cup of Nations]]
+*[[2000 African Cup of Nations squads#South Africa|2000 African Cup of Nations]]
+*[[2002 African Cup of Nations squads#South Africa|2002 African Cup of Nations]]
+*[[2004 African Cup of Nations squads#South Africa|2004 African Cup of Nations]]
+*[[2006 Africa Cup of Nations squads#South Africa|2006 Africa Cup of Nations]]
+*[[2008 Africa Cup of Nations squads#South Africa|2008 Africa Cup of Nations]]
+*[[2013 Africa Cup of Nations squads#South Africa|2013 Africa Cup of Nations]]
+*[[2015 Africa Cup of Nations squads#South Africa|2015 Africa Cup of Nations]]
+*[[2019 Africa Cup of Nations squads#South Africa|2019 Africa Cup of Nations]]
+*[[2023 Africa Cup of Nations squads#South Africa|2023 Africa Cup of Nations]]
+*[[2025 Africa Cup of Nations squads#South Africa|2025 Africa Cup of Nations]]
+{{col-2}}
+'''FIFA Confederations Cup'''
+*[[1997 FIFA Confederations Cup squads#South Africa|1997 FIFA Confederations Cup]]
+*[[2009 FIFA Confederations Cup squads#South Africa|2009 FIFA Confederations Cup]]
+'''FIFA World Cup'''
+*[[1998 FIFA World Cup squads#South Africa|1998 FIFA World Cup]]
+*[[2002 FIFA World Cup squads#South Africa|2002 FIFA World Cup]]
+*[[2010 FIFA World Cup squads#South Africa|2010 FIFA World Cup]]
+*[[2026 FIFA World Cup squads#South Africa|2026 FIFA World Cup]]
+'''CONCACAF Gold Cup'''
+*[[2005 CONCACAF Gold Cup squads#South Africa|2005 CONCACAF Gold Cup]]
+{{col-end}}
+
+==Records==
+{{updated|28 June 2026}}<ref name="RSSSF">{{cite web |last1=Passo Alpuin |first1=Luis Fernando |title=South Africa – International Appearances |url=https://www.rsssf.org/miscellaneous/zaf-recintlp.html |website=RSSSF |access-date=2 February 2023 |archive-date=5 November 2013 |archive-url=https://web.archive.org/web/20131105051912/http://rsssf.com/miscellaneous/zaf-recintlp.html |url-status=live }}</ref><ref>{{cite web |title=South Africa |url=https://www.national-football-teams.com/country/172/South_Africa.html |website=National Football Teams}}</ref>
+:''Players in '''bold''' are still active with South Africa.''
+
+===Most appearances===
+
+{| class="wikitable sortable" style="text-align: center;"
+|-
+! width=30px |Rank
+! width=160px |Player
+! width=50px |Caps
+! width=50px |Goals
+! width=100px |Career
+|-
+| 1 || align=left|[[Aaron Mokoena]] || 107 || 1 || 1999–2010
+|-
+| 2 || align=left|[[Itumeleng Khune]] || 91 || 0 || {{nowrap|2008–2020}}
+|-
+| 3 || align=left|[[Siphiwe Tshabalala]] || 90 || 12 || 2006–2017
+|-
+| 4 || align=left|[[Siyabonga Nomvethe]] || 82 || 16 || 1999–2012
+|-
+| 5 || align=left|[[Benni McCarthy]] || 81 || 31 || 1997–2012
+|-
+| 6 || align=left|[[Shaun Bartlett]] || 74 || 29 || 1995–2005
+|-
+| rowspan=2|7 || align=left|[[John Moshoeu]] || 73 || 8 || 1992–2004
+|-
+| align=left|[[Bernard Parker]] || 73 || 23 || 2007–2015
+|-
+| 9 || align=left|[[Delron Buckley]] || 72 || 10 || 1999–2008
+|-
+| 10 || align=left|[[Lucas Radebe]] || 70 || 2 || 1992–2003
+|}
+
+===Top goalscorers===
+[[File:BenniMcCarthy.jpg|200px|right|thumb|Benni McCarthy is South Africa's top scorer with 31 goals.]]
+
+{| class="wikitable sortable" style="text-align: center;"
+|-
+! width=30px |Rank
+! width=150px |Player
+! width=50px |Goals
+! width=50px |Caps
+! width=50px |Ratio
+! width=100px |Career
+|-
+| 1 || align=left|[[Benni McCarthy]] || 31 || 81 || {{#expr:31/79 round 2}} || 1997–2012
+|-
+| 2 || align=left|[[Shaun Bartlett]] || 29 || 74 || {{#expr:28/74 round 2}} || 1995–2005
+|-
+| rowspan=2|3 || align=left|[[Katlego Mphela]] || 23 || 53 || {{#expr:23/53 round 2}} || 2005–2013
+|-
+| align=left|[[Bernard Parker]] || 23 || 73 || {{#expr:23/73 round 2}} || 2007–2015
+|-
+| 5 || align=left|[[Phil Masinga]] || 18 || 58 || {{#expr:19/58 round 2}} || 1992–2001
+|-
+| rowspan=2|6 || align=left|[[Percy Tau]] || 16 || 52 || {{#expr:16/52 round 2}} || {{nowrap|2015–2025}}
+|-
+| align=left|[[Siyabonga Nomvethe]] || 16 || 82 || {{#expr:16/82 round 2}} || 1999–2012
+|-
+| rowspan=2| 8 || align=left|[[Tokelo Rantie]] || 13 || 41 || {{#expr:13/41 round 2}} || 2012–2017
+|-
+|align=left|[[Sibusiso Zuma]] || 13 || 67 || {{#expr:13/67 round 2}} || 1998–2008
+|-
+|rowspan=2| 10 || align=left|'''[[Themba Zwane]]''' || 12 || 55 || {{#expr:12/55 round 2}} || 2014–present
+|-
+| align=left|[[Siphiwe Tshabalala]] || 12 || 89 || {{#expr:12/89 round 2}} || 2006–2017
+|-
+|}
+
+==Competitive record==
+
+===FIFA World Cup===
+{{main|South Africa at the FIFA World Cup}}
+
+South Africa has made four appearances in the [[FIFA World Cup|World Cup]], making it past the first round once. The team's first attempt to [[1994 FIFA World Cup qualification – CAF first round#Group D|qualify]] was for the [[1994 FIFA World Cup|1994 World Cup]], two years after they had been readmitted to FIFA. Their first appearance was in [[1998 FIFA World Cup|France 1998]]. Despite a 3–0 drubbing to [[France national football team|France]] in their opening game, they went on to draw against [[Denmark national football team|Denmark]] and [[Saudi Arabia national football team|Saudi Arabia]]; the team finished [[1998 FIFA World Cup Group C|third]] and thus exited the tournament. [[2002 FIFA World Cup|Korea/Japan 2002]] saw them eliminated in the [[2002 FIFA World Cup Group B|group stage]] again after drawing to [[Paraguay national football team|Paraguay]] and beating [[Slovenia national football team|Slovenia]] 1–0 for their first-ever World Cup win. The team finished third in their group, losing out to Paraguay on goal difference.
+
+Hosting the [[2010 FIFA World Cup|2010 World Cup]], they famously upset [[France national football team|France]] 2–1 and drew 1–1 to [[Mexico national football team|Mexico]], but lost 0–3 to [[Uruguay national football team|Uruguay]]. They failed to advance to the round of 16, and became the first host country to fail to advance past the group stage. This would begin a long gap between appearances at the tournament for Bafana Bafana, but eventually ended after they qualified for the 2026 edition of the tournament, and made it to the round of 32 for the first time.<ref>{{cite web |title=Performance of host countries in previous World Cups |url=https://www.tbsnews.net/sports/performance-host-countries-previous-world-cups-535430 |website=The Business Standard |date=20 November 2022 |access-date=November 20, 2022 |archive-date=20 November 2022 |archive-url=https://web.archive.org/web/20221120215053/https://www.tbsnews.net/sports/performance-host-countries-previous-world-cups-535430 |url-status=live }}</ref>
+
+{| class="wikitable" style="text-align:center;"
+|- style="color:yellow;"
+! style="background:#e11b22;" colspan=9|FIFA World Cup record
+! style="width:1%; background:#e11b22;" rowspan="29"|
+! style="background:#e11b22;" colspan=7|Qualification record
+|- style="color:yellow;"
+!  style="background:#e11b22;"|Year
+!  style="background:#e11b22;"|Round
+!  style="background:#e11b22;"|Position
+!  style="background:#e11b22;"|{{Tooltip|Pld|Games Played}}
+!  style="background:#e11b22;"|{{Tooltip|W|Won}}
+!  style="background:#e11b22;"|{{Tooltip|D|Drawn}}
+!  style="background:#e11b22;"|{{Tooltip|L|Lost}}
+!  style="background:#e11b22;"|{{Tooltip|GF|Goals For}}
+!  style="background:#e11b22;"|{{Tooltip|GA|Goals Against}}
+!  style="background:#e11b22;"|{{Tooltip|Pld|Games Played}}
+!  style="background:#e11b22;"|{{Tooltip|W|Won}}
+!  style="background:#e11b22;"|{{Tooltip|D|Drawn}}
+!  style="background:#e11b22;"|{{Tooltip|L|Lost}}
+!  style="background:#e11b22;"|{{Tooltip|GF|Goals For}}
+!  style="background:#e11b22;"|{{Tooltip|GA|Goals Against}}
+|-
+|{{flagicon|Uruguay}} [[1930 FIFA World Cup|1930]] to {{flagicon|Chile}} [[1962 FIFA World Cup|1962]]
+|colspan=8|''Not a FIFA member''
+|colspan=8|''Not a FIFA member''
+|-
+|{{flagicon|England}} [[1966 FIFA World Cup|1966]]
+|colspan=8|''Not admitted''<ref>{{cite web |url=http://es.fifa.com/mm/document/fifafacts/mcwc/fifaworldcuppreliminaryhistory_byyear__13876.pdf |archive-url=https://web.archive.org/web/20110717045303/http://es.fifa.com/mm/document/fifafacts/mcwc/fifaworldcuppreliminaryhistory_byyear__13876.pdf |url-status=dead |archive-date=17 July 2011 |title=History of the FIFA World Cup Preliminary Competition (by year) |publisher=FIFA |access-date=17 November 2011 }}</ref>
+|colspan=6|''Not admitted''
+|-
+|{{flagicon|Mexico}} [[1970 FIFA World Cup|1970]]
+|colspan=8 rowspan=6|''[[apartheid|Banned]]''
+|colspan=8 rowspan=6|''[[apartheid|Banned]]''
+|-
+|{{flagicon|Germany}} [[1974 FIFA World Cup|1974]]
+|-
+|{{flagicon|Argentina}} [[1978 FIFA World Cup|1978]]
+|-
+|{{flagicon|Spain}} [[1982 FIFA World Cup|1982]]
+|-
+|{{flagicon|Mexico}} [[1986 FIFA World Cup|1986]]
+|-
+|{{flagicon|Italy|1946}} [[1990 FIFA World Cup|1990]]
+|-
+|{{flagicon|United States|1960}} [[1994 FIFA World Cup|1994]]
+|colspan=8|''Did not qualify''
+|4
+|2
+|1
+|1
+|2
+|4
+|-
+|{{flagicon|France|1974}} [[1998 FIFA World Cup|1998]]
+|rowspan=2|Group stage
+|24th
+|3
+|0
+|2
+|1
+|3
+|6
+|8
+|6
+|1
+|1
+|11
+|3
+|-
+|{{flagicon|South Korea|1997}} {{flagicon|Japan}} [[2002 FIFA World Cup|2002]]
+|17th
+|3
+|1
+|1
+|1
+|5
+|5
+|8
+|7
+|1
+|0
+|13
+|3
+|-
+|{{flagicon|Germany}} [[2006 FIFA World Cup|2006]]
+|colspan=8|''Did not qualify''
+|10
+|5
+|1
+|4
+|12
+|14
+|-
+|style="border: 3px solid red"|{{flagicon|South Africa|1994}} [[2010 FIFA World Cup|2010]]
+|Group stage
+|20th
+|3
+|1
+|1
+|1
+|3
+|5
+|6
+|2
+|1
+|3
+|5
+|5
+|-
+|{{flagicon|Brazil}} [[2014 FIFA World Cup|2014]]
+|rowspan=3 colspan=8|''Did not qualify''
+|6
+|3
+|2
+|1
+|12
+|5
+|-
+|{{flagicon|Russia}} [[2018 FIFA World Cup|2018]]
+|8
+|3
+|1
+|4
+|11
+|11
+|-
+|{{flagicon|Qatar}} [[2022 FIFA World Cup|2022]]
+|6
+|4
+|1
+|1
+|6
+|2
+|-
+|{{flagicon|Canada}} {{flagicon|Mexico}} {{flagicon|United States}} [[2026 FIFA World Cup|2026]]
+|Round of 32
+|25th
+|4
+|1
+|1
+|2
+|2
+|4
+|10
+|5
+|3
+|2
+|14
+|9
+|- 
+|{{flagicon|Morocco}} {{flagicon|Portugal}} {{flagicon|Spain}} [[2030 FIFA World Cup|2030]]
+|colspan=8 rowspan=2|''To be determined''
+|colspan=8 rowspan=2|''To be determined''
+|-
+|{{flagicon|Saudi Arabia}} [[2034 FIFA World Cup|2034]]
+|-
+|-style="color:white;"
+!style="background:#e11b22;"|Total: {{Tooltip|4/15|Number of tournaments qualified for}}
+!style="background:#e11b22;"|Round of 32
+!style="background:#e11b22;"|17th
+!style="background:#e11b22;"|12
+!style="background:#e11b22;"|3
+!style="background:#e11b22;"|5
+!style="background:#e11b22;"|4
+!style="background:#e11b22;"|13
+!style="background:#e11b22;"|20
+!style="background:#e11b22;"|66
+!style="background:#e11b22;"|37
+!style="background:#e11b22;"|12
+!style="background:#e11b22;"|17
+!style="background:#e11b22;"|87
+!style="background:#e11b22;"|56
+|}
+
+{| class="wikitable collapsible collapsed" style="font-size:80%;"
+|-
+|-style="color:white;"
+!style="background:#e11b22; width:20%;" colspan="6"|<big>South Africa's World Cup record</big>
+|-
+!width=10%|First Match
+|width=23%|<div style="text-align: center;">{{fb-rt|FRA|1974}} 3–0 {{fb|RSA}}<br /> (12 June 1998; [[Marseille]], [[France]])</div>
+|-
+!width=10%|Biggest Win
+|width=23%|<div style="text-align: center;">{{fb-rt|RSA}} 1–0 {{fb|SVN}}<br /> (8 June 2002; [[Daegu]], [[South Korea]]) <br /> {{fb-rt|RSA}} 2–1 {{fb|FRA|1974}} <br /> (22 June 2010; [[Bloemfontein]], [[South Africa]]) <br /> {{fb-rt|RSA}} 1–0 {{fb|KOR}}<br /> (24 June 2026; [[Guadalupe, Nuevo León|Guadalupe]], [[Mexico]])</div>
+|-
+!width=10%|Biggest Defeat
+|width=23%|<div style="text-align: center;">{{fb-rt|FRA|1974}} 3–0 {{fb|RSA}}<br /> (12 June 1998; [[Marseille]], [[France]])</div><br /><div style="text-align: center;">{{fb-rt|URU}} 3–0 {{fb|RSA}}<br /> (16 June 2010; [[Pretoria]], [[South Africa]])</div>
+|-
+!width=10%|Best Result
+|width=23%|<div style="text-align: center;">Round of 32 in [[2026 FIFA World Cup|2026]]</div>
+|-
+!width=10%|Worst Result
+|width=23%|<div style="text-align: center;">Group stage in [[1998 FIFA World Cup|1998]], [[2002 FIFA World Cup|2002]] and [[2010 FIFA World Cup|2010]]</div>
+|}
+
+===FIFA Confederations Cup===
+{{main|South Africa at the FIFA Confederations Cup}}
+
+{| class="wikitable" style="text-align: center;"
+!style=background:#e11; colspan=10|[[FIFA Confederations Cup|FIFA Confederations Cup record]]
+|-
+!style=background:#e11|Year
+!style=background:#e11|Round
+!style=background:#e11|Position
+!style=background:#e11|{{Tooltip|Pld|Games played}}
+!style=background:#e11|{{Tooltip|W|Won}}
+!style=background:#e11|{{Tooltip|D|Drawn}}*
+!style=background:#e11|{{Tooltip|L|Lost}}
+!style=background:#e11|{{Tooltip|GF|Goals for}}
+!style=background:#e11|{{Tooltip|GA|Goals against}}
+!style=background:#e11|Squad
+|-
+|{{flagicon|Saudi Arabia}} 1992
+|colspan=9|''Banned''
+|-
+|{{flagicon|Saudi Arabia}} 1995
+|colspan=9|''Did not qualify''
+|-
+|{{flagicon|Saudi Arabia}} [[1997 FIFA Confederations Cup|1997]]
+|Group stage||8th||3||0||1||2||5||7||[[1997 FIFA Confederations Cup squads#South Africa|Squad]]
+|-
+|{{flagicon|Mexico}} [[1999 FIFA Confederations Cup|1999]]
+|rowspan=4 colspan=9|''Did not qualify''
+|-
+|{{flagicon|South Korea|1997}} {{flagicon|Japan}} [[2001 FIFA Confederations Cup|2001]]
+|-
+|{{flagicon|France|1974}} [[2003 FIFA Confederations Cup|2003]]
+|-
+|{{flagicon|Germany}} [[2005 FIFA Confederations Cup|2005]]
+|-bgcolor=#9acdff
+|style="border: 3px solid red"|{{flagicon|South Africa|1994}} [[2009 FIFA Confederations Cup|2009]]
+|'''Fourth place'''||'''4th'''||'''5'''||'''1'''||'''1'''||'''3'''||'''4'''||'''6'''||[[2009 FIFA Confederations Cup squads#South Africa|Squad]]
+|-
+|{{flagicon|Brazil}} [[2013 FIFA Confederations Cup|2013]]
+|rowspan=2 colspan=9|''Did not qualify''
+|-
+|{{flagicon|Russia}} [[2017 FIFA Confederations Cup|2017]]
+|-
+!style="background:#e11;"|Total
+!style="background:#e11;"|Fourth place
+!style="background:#e11;"|2/10
+!style="background:#e11;"|8
+!style="background:#e11;"|1
+!style="background:#e11;"|2
+!style="background:#e11;"|5
+!style="background:#e11;"|9
+!style="background:#e11;"|13
+!style="background:#e11;"|—
+|}
+
+{| class="wikitable collapsible collapsed" style="font-size:80%;"
+|-
+|-style="color:white;"
+!style="background:#e11; width:20%;" colspan="6"|<big> South Africa's Confederations Cup record</big>
+|-
+!width=10%|First Match
+|width=23%|<div style="text-align: center;">{{fb-rt|RSA}} 2–2 {{fb|CZE}}<br /> (13 December 1997; [[Riyadh]], [[Saudi Arabia]])</div>
+|-
+!width=10%|Biggest Win
+|width=23%|<div style="text-align: center;">{{fb-rt|RSA}} 2–0 {{fb|NZL}}<br /> (17 June 2009; [[Rustenburg]], [[South Africa]])</div>
+|-
+!width=10%|Biggest Defeat
+|width=23%|<div style="text-align: center;">{{fb-rt|ESP}} 2–0 {{fb|RSA}}<br /> (20 June 2009; [[Bloemfontein]], [[South Africa]])</div>
+|-
+!width=10%|Best Result
+|width=23%|<div style="text-align: center;">'''Fourth place''' at the [[2009 FIFA Confederations Cup]]</div>
+|-
+!width=10%|Worst Result
+|width=23%|<div style="text-align: center;">8th place at the [[1997 FIFA Confederations Cup]]</div>
+|}
+
+===Africa Cup of Nations===
+{{main|South Africa at the Africa Cup of Nations}}
+
+{|class="wikitable" style="text-align: center;"
+!style=background:#e11; colspan=9|[[Africa Cup of Nations|Africa Cup of Nations record]]
+! rowspan="40" style="width:1%;background:white" |
+! colspan="6" style="color:white; background:#ED1C24;" |Qualification record
+|-
+!style=background:#e11|Year
+!style=background:#e11|Round
+!style=background:#e11|Position
+!style=background:#e11|{{Tooltip|Pld|Matches played}}
+!style=background:#e11|{{Tooltip|W|Won}}
+!style=background:#e11|{{Tooltip|D|Drawn}}
+!style=background:#e11|{{Tooltip|L|Lost}}
+!style=background:#e11|{{Tooltip|GF|Goals for}}
+!style=background:#e11|{{Tooltip|GA|Goals against}}
+!{{Tooltip|Pld|Matches played}} 
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+|-
+|{{flagicon|Sudan|1956}} [[1957 Africa Cup of Nations|1957]]
+|colspan=8|''Qualified, later disqualified due to [[apartheid]]''
+|colspan=6|''Qualified, later disqualified''
+|-
+|{{flagicon|United Arab Republic}} [[1959 Africa Cup of Nations|1959]]
+|rowspan=17 colspan=8|''Banned due to [[apartheid]]''
+|rowspan=17 colspan=6|''Banned due to [[apartheid]]''
+|-
+|{{flagicon|Ethiopia|1897}} [[1962 Africa Cup of Nations|1962]]
+|-
+|{{flagicon|Ghana}} [[1963 Africa Cup of Nations|1963]]
+|-
+|{{flagicon|Tunisia|1959}} [[1965 Africa Cup of Nations|1965]]
+|-
+|{{flagicon|Ethiopia|1897}} [[1968 Africa Cup of Nations|1968]]
+|-
+|{{flagicon|Sudan|1956}} [[1970 Africa Cup of Nations|1970]]
+|-
+|{{flagicon|Cameroon|1961}} [[1972 Africa Cup of Nations|1972]]
+|-
+|{{flagicon|Egypt|1972}} [[1974 Africa Cup of Nations|1974]]
+|-
+|{{flagicon|Ethiopia|1975}} [[1976 Africa Cup of Nations|1976]]
+|-
+|{{flagicon|Ghana}} [[1978 Africa Cup of Nations|1978]]
+|-
+|{{flagicon|Nigeria}} [[1980 Africa Cup of Nations|1980]]
+|-
+|{{flagicon|Libya|1977}} [[1982 Africa Cup of Nations|1982]]
+|-
+|{{flagicon|Ivory Coast}} [[1984 Africa Cup of Nations|1984]]
+|-
+|{{flagicon|Egypt}} [[1986 Africa Cup of Nations|1986]]
+|-
+|{{flagicon|Morocco}} [[1988 Africa Cup of Nations|1988]]
+|-
+|{{flagicon|Algeria}} [[1990 Africa Cup of Nations|1990]]
+|-
+|{{flagicon|Senegal}} [[1992 Africa Cup of Nations|1992]]
+|-
+|{{flagicon|Tunisia|1959}} [[1994 Africa Cup of Nations|1994]]
+|colspan=8|''Did not qualify''
+|6
+|1
+|2
+|3
+|5
+|10
+|- bgcolor="gold"
+|style="border: 3px solid red"|{{flagicon|South Africa}} [[1996 Africa Cup of Nations|1996]]
+|'''[[1996 Africa Cup of Nations final|Champions]] '''
+|'''1st'''
+|'''6'''
+|'''5'''
+|'''0'''
+|'''1'''
+|'''11'''
+|'''2'''
+|colspan=8 |''Qualified as hosts'' 
+|- bgcolor="silver"
+|{{flagicon|Burkina Faso}} [[1998 Africa Cup of Nations|1998]]
+|'''[[1998 Africa Cup of Nations final|Runners-up]]'''
+|'''2nd'''
+|'''6'''
+|'''3'''
+|'''2'''
+|'''1'''
+|'''9'''
+|'''6'''
+|colspan=8 |''Qualified as defending champions'' 
+|- bgcolor="#cc9966"
+|{{flagicon|Ghana}} {{flagicon|Nigeria}} [[2000 Africa Cup of Nations|2000]]
+|'''Third place'''||'''3rd'''||'''6'''||'''3'''||'''2'''||'''1'''||'''8'''||'''6'''
+|'''6''' 
+|'''3''' 
+|'''2''' 
+|'''1''' 
+|'''10''' 
+|'''5''' 
+|-
+|{{flagicon|Mali}} [[2002 Africa Cup of Nations|2002]]
+|Quarter-finals||6th||4||1||2||1||3||3
+|6
+|3
+|3
+|0
+|9
+|4
+|-
+|{{flagicon|Tunisia}} [[2004 Africa Cup of Nations|2004]]
+|rowspan=3|Group stage||11th||3||1||1||1||3||5
+|4
+|3
+|1
+|0
+|6
+|1
+|-
+|{{flagicon|Egypt}} [[2006 Africa Cup of Nations|2006]]
+|16th||3||0||0||3||0||5
+|10
+|5
+|1
+|4
+|12
+|14
+|-
+|{{flagicon|Ghana}} [[2008 Africa Cup of Nations|2008]]
+|13th||3||0||2||1||3||5
+|6
+|3
+|2
+|1
+|10
+|4
+|-
+|{{flagicon|Angola}} [[2010 Africa Cup of Nations|2010]]
+|rowspan=2 colspan=8|''Did not qualify''
+|6
+|2
+|1
+|3
+|5
+|5
+|-
+|{{flagicon|Equatorial Guinea}} {{flagicon|Gabon}} [[2012 Africa Cup of Nations|2012]]
+|6
+|2
+|3
+|1
+|4
+|2
+|-
+|style="border: 3px solid red"|{{flagicon|South Africa|1994}} [[2013 Africa Cup of Nations|2013]]
+|Quarter-finals||6th||4||1||3||0||5||3
+|colspan=6| '' Qualified as hosts ''
+|-
+|{{flagicon|Equatorial Guinea}} [[2015 Africa Cup of Nations|2015]]
+|Group stage||15th||3||0||1||2||3||6
+|6
+|3
+|3
+|0
+|9
+|3
+|-
+|{{flagicon|Gabon}} [[2017 Africa Cup of Nations|2017]]
+|colspan=8|''Did not qualify''
+|6
+|1
+|4
+|1
+|8
+|6
+|-
+|{{flagicon|Egypt}} [[2019 Africa Cup of Nations|2019]]
+|Quarter-finals||7th||5||2||0||3||3||4
+|6
+|3
+|3
+|0
+|11
+|2
+|-
+|{{flagicon|Cameroon}} [[2021 Africa Cup of Nations|2021]]
+|colspan=8|''Did not qualify''
+|6
+|3
+|1
+|2
+|8
+|7
+|- bgcolor="#cc9966"
+|{{flagicon|Ivory Coast}} [[2023 Africa Cup of Nations|2023]]
+|'''Third place'''||'''3rd'''||'''7'''||'''2'''||'''4'''||'''1'''||'''7'''||'''3'''
+|'''4''' 
+|'''3''' 
+|'''1''' 
+|'''0''' 
+|'''7''' 
+|'''3''' 
+|-
+|{{flagicon|Morocco}} [[2025 Africa Cup of Nations|2025]]||Round of 16
+|10th
+|4
+|2
+|0
+|2
+|6
+|6
+|6
+|4
+|2
+|0
+|16
+|5
+|-
+|{{flagicon|Kenya}} {{flagicon|Tanzania}} {{flagicon|Uganda}} [[2027 Africa Cup of Nations|2027]]
+|colspan="8" rowspan="2"|''To be determined''
+|colspan="8" rowspan="2"|''To be determined''
+|-
+|{{flagicon|}} [[2028 Africa Cup of Nations|2028]]
+|-
+!style="background:#e11;"|Total
+!style="background:#e11;"|1 Title
+!style="background:#e11;"|12/35
+!style="background:#e11;"|54
+!style="background:#e11;"|20
+!style="background:#e11;"|17
+!style="background:#e11;"|17
+!style="background:#e11;"|61
+!style="background:#e11;"|54
+!style="background:#e11;"|84
+!style="background:#e11;"|39
+!style="background:#e11;"|29
+!style="background:#e11;"|16
+!style="background:#e11;"|120
+!style="background:#e11;"|71
+|}
+
+:''*Red border colour indicates tournament was held on home soil.''
+
+{| class="wikitable collapsible collapsed" style="font-size:80%;"
+|-
+|-style="color:white;"
+!style="background:#e11; width:20%;" colspan="6"|<big>South Africa's Africa Cup of Nations record</big>
+|-
+!width=10%|First Match
+|width=23%|<div style="text-align: center;">{{fb|RSA}} 3–0 {{fb-rt|CMR}}<br /> (13 January 1996; [[Johannesburg]], [[South Africa]])</div>
+|-
+!width=10%|Biggest Win
+|width=23%|<div style="text-align: center;">{{fb|RSA}} 4–0 {{fb-rt|NAM}}<br /> (21 January 2024; [[Korhogo]], [[Ivory Coast]])</div>
+|-
+!width=10%|Biggest Defeat
+|width=23%|<div style="text-align: center;">{{fb|NGA}} 4–0 {{fb-rt|RSA}}<br /> (31 January 2004; [[Monastir, Tunisia|Monastir]], [[Tunisia]])</div>
+|-
+!width=10%|Best Result
+|width=23%|<div style="text-align: center;">'''Champions''' in [[1996 Africa Cup of Nations|1996]]</div>
+|-
+!width=10%|Worst Result
+|width=23%|<div style="text-align: center;">Group stage in ([[2004 Africa Cup of Nations|2004]], [[2006 Africa Cup of Nations|2006]], [[2008 Africa Cup of Nations|2008]] and [[2015 Africa Cup of Nations|2015]])</div>
+|}
+
+==Head-to-head record==
+''As of 28 June 2026 after match against [[Canada men's national soccer team|Canada]]''<ref>{{cite web|url=http://www.eloratings.net/South_Africa.htm|title=World Football Elo Ratings: South Africa|publisher=Elo Ratings|access-date=26 August 2017|archive-date=27 August 2017|archive-url=https://web.archive.org/web/20170827010038/http://www.eloratings.net/world.html|url-status=live}}</ref>
+
+{| class="wikitable sortable" style="text-align:center;"
+|-
+!Opponent !! GP !! W !! D !! L  !! GF !! GA !! GD !! win %
+|-
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|ALG}} || 5 || 1|| 3 || 1 || 4 || 5 || −1 || 25.00%
+|-
+|- bgcolor=FFFACD
+| style=text-align:left;"| {{fb|AND}} || 1 || 0 || 1 || 0 || 1 || 1 || −0 || 0.00%
+|-
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|ANG}} || 16 || 9 || 6 || 1 || 20 || 11 || +9 || 56.25%
+|-
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|ARG}} || 2 || 0 || 1 || 1 || 1 || 3 || −2 || 0.00%
+|-
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|AUS}} || 21 || 11 || 4 || 6 || 47 || 27 || +20 || 52.38%
+|-
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|BEN}} || 3 || 3 || 0 || 0 || 6 || 1 || +5 || 100.00%
+|-
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|BOL}} || 1 || 0 || 0 || 1 || 0 || 1 || −1 || 0.00%
+|-
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|BOT}} || 17 || 12 || 6 || 0 || 28 || 9 || +19 || 70.58%
+|-
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|BRA}} || 5 || 0 || 0 || 5 || 3 || 12 || −9 || 0.00%
+|-
+|- bgcolor=FFFACD
+| style="text-align:left;"| {{fb|BUL}} || 1 || 0 || 1 || 0 || 1 || 1 || 0 || 0.00%
+|-
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|BFA}} || 9 || 5 || 3 || 1 || 14 || 6 || +8 || 55.56%
+|-
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|BDI}} || 2 || 2 || 0 || 0 || 4 || 0 || +4 || 100.00%
+|-
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|CMR}} || 10 || 3 || 5 || 2 || 15 || 12 || +3 || 30.00%
+|-
+|- bgcolor=FFFACD
+| style="text-align:left;"| {{fb|CAN}} || 2 || 1 || 0 || 1 || 2 || 1 || +1 || 50.00%
+|-
+|- bgcolor=FFFACD
+| style="text-align:left;"| {{fb|CPV}} || 6 || 2 || 2 || 2 || 6 || 6 || 0 || 33.33%
+|-
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|CAR}} || 2 || 2 || 0 || 0 || 5 || 0 || +5 || 100.00%
+|-
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|CHA}} || 2 || 2 || 0 || 0 || 7 || 0 || +7 ||100.00%
+|-
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|CHI}} || 1 || 0 || 0 || 1 || 0 || 2 || −2 || 0.00%
+|-
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|COL}} || 1 || 1 || 0 || 0 || 2 || 1 || +1 || 100.00%
+|-
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|CGO}} || 12 || 6 || 5 || 1 || 14 || 5 || +9 || 50.00%
+|-
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|COM}} || 3 || 2 || 1 || 0 || 4 || 1 || +3 || 66.67%
+|-
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|CRC}} || 2 || 2 || 0 || 0 || 3 || 1 || +2 ||100.00%
+|-
+|- bgcolor=FFFACD
+| style="text-align:left;"| {{fb|CZE}} || 2 || 0 || 2 || 0 || 3 || 3 || 0 || 0.00%
+|-
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|DEN}} || 3 || 1 || 2 || 0 || 3 || 2 || +1 || 33.33%
+|-
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|COD}}{{efn|Includes matches against Zaire.}} || 8 || 5 || 2 || 1 || 9 || 5 || +4 || 71.43%
+|-
+|- bgcolor=FFFACD
+| style="text-align:left;"| {{fb|ECU}} || 1 || 0 || 1 || 0 || 0 || 0 || 0 || 0.00%
+|-
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|EGY}} || 13 || 7 || 1 || 5 || 11 || 9 || +2 || 53.84%
+|-
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|ENG}} || 2 || 0 || 0 || 2 || 2 || 4 || −2 || 0.00%
+|-
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|EQG}} || 3 || 2 || 1 || 0 || 5 || 1 || +4 ||66.67%
+|-
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|SWZ}} || 12 || 10 || 2 || 0 || 29 || 7 || +22 || 83.33%
+|-
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|ETH}} || 4 || 2 || 1 || 1 || 5 || 4 || −1 || 50.00%
+|-
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|FRA}} || 5 || 1 || 1 || 3 || 3 || 11 || −8 || 20.00%
+|-
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|GAB}} || 4 || 3 || 0 || 1 || 10 || 3 || +7 || 75.00%
+|-
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|GAM}} || 2 || 1 || 1 || 0 || 4 || 0 || 0 || 50.00%
+|-
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|GEO}} || 1 || 0 || 0 || 1 || 1 || 4 || −3 || 0.00%
+|-
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|GER}} || 4 || 0 || 1 || 3 || 2 || 9 || −7 || 0.00%
+|-
+|- bgcolor=FFFACD
+| style="text-align:left;"| {{fb|GHA}} || 15 || 5 || 5 || 5 || 13 || 13 || 0 || 35.71
+|-
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{flag|Ghana}} B || 1 || 1 || 0 || 0 || 1 || 0 || +1 || 100.00%
+|- 
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|GUA}} || 2 || 1 || 1 || 0 || 6 || 1 || +5 || 35.71
+|-
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|GUI}} || 3 || 0|| 1 || 2 || 0 || 3 || −3 || 0.00%
+|-
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|GNB}} || 1 || 1 || 0 || 0 || 3 || 1 || +2 || 100.00%
+|-
+|- bgcolor=FFFACD
+| style="text-align:left;"| {{fb|HON}} || 1 || 0 || 1 || 0 || 1 || 1 || 0 || 0.00%
+|-
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|ISL}} || 3 || 0 || 1 || 2 || 2 || 6 || −4 || 0.00%
+|-
+|- bgcolor=FFFACD
+| style="text-align:left;"| {{fb|IDN}} || 1 || 0 || 1 || 0 || 2 || 2 || 0 ||0.00%
+|-
+|- bgcolor=FFFACD
+| style="text-align:left;"| {{fb|IRQ}} || 1 || 0 || 1 || 0 || 0 || 0 || 0 ||0.00%
+|-
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|ISR}} || 1 || 1 || 0 || 0 || 2 || 1 || +1 ||100.00%
+|-
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|ITA}} || 2 || 0 || 0 || 2 || 0 || 3 || −3 || 0.00%
+|-
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|CIV}} || 8 || 2 || 5 || 1 || 7 || 5 || +2 || 25.00
+|-
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|JAM}} || 6 || 1 || 5 || 0 || 7 || 5 || +2 || 20.00%
+|-
+|- bgcolor=FFFACD
+| style="text-align:left;"| {{fb|JPN}} || 1 || 0 || 1 || 0 || 0 || 0 || 0 || 0.00%
+|-
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|KEN}} || 4 || 3 || 1 || 0 || 6 || 2 || +4 || 75.00%
+|-
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|LES}} || 15 || 9 || 4 || 2 || 27 || 10 || +17 || 60.00
+|-
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|LBR}} || 4 || 2 || 2 || 0 || 7 || 5 || +2 ||50.00%
+|-
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|LBY}} || 2 || 1 || 1 || 0 || 2 || 1 || +1 || 50.00%
+|-
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|MAD}} || 6 || 4 || 2 || 0 || 5 || 0 || +5 || 66.67%
+|-
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|MWI}} || 14 || 9 || 4 || 1 || 20 || 5 || +15 || 64.28%
+|-
+|- bgcolor=FFFACD
+| style="text-align:left;"| {{fb|MLI}} || 6 || 2 || 2 || 2 || 7 || 7 || 0 || 40.00%
+|-
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|MLT}} || 1 || 1 || 0 || 0 || 1 || 0 || +1 ||100.00%
+|-
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|MTN}} || 2 || 0 || 1 || 1 || 2 || 4 || −2 || 0.00%
+|-
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|MRI}} || 14 || 10 || 3 || 1 || 24 || 5 || +19 || 71.42%
+|-
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|MEX}} || 5 || 1|| 1 || 3 || 5 || 12 || −7 || 25.00%
+|-
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|MAR}} || 9 || 4 || 3 || 2 || 14 || 10 || +4 || 37.50%
+|-
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|MOZ}} || 9 || 7 || 2 || 0 || 19 || 6 || +13 || 77.78%
+|-
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|NAM}} || 12 || 7 || 4 || 1 || 22 || 9 || +9 || 54.54%
+|-
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|NED}} || 2 || 0 || 0 || 2 || 1 || 4 || −3 || 0.00%
+|-
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|NZL}} || 6 || 5 || 1 || 0 || 26 || 9 || +17 || 83.00%
+|-
+|- bgcolor=FFFACD
+| style="text-align:left;"| {{fb|NCA}} || 1 || 0 || 1 || 0 || 0 || 0 || 0 || 0%
+|-
+|- bgcolor=FFFACD
+| style="text-align:left;"| {{fb|NIG}} || 2 || 1 || 0 || 1 || 3 || 2 || +1 || 50.00%
+|-
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|NGA}} || 18 || 2 || 8 || 8 || 13 || 28 || −15 || 11.11%
+|-
+|- bgcolor=FFFACD
+| style="text-align:left;"| {{fb|PRK}} || 1 || 0 || 1 || 0 || 0 || 0 || 0 || 0.00%
+|-
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|NIR}} || 1 || 0 || 0 || 1 || 1 || 2 || −1 ||0.00%
+|-
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|NOR}} || 3 || 1 || 0 || 2 || 2 || 3 || −1 || 33.33%
+|-
+|- bgcolor=FFFACD
+| style="text-align:left;"| {{fb|PAN}} || 3 || 0 || 2 || 1 || 3 || 4 || –1 || 0.00%
+|-
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|PAR}} || 4 || 1 || 3 || 0 || 7 || 4 || +3 || 25.00%
+|-
+|- bgcolor=FFFACD
+| style="text-align:left;"| {{fb|POL}} || 2 || 1 || 0 || 1 || 1 || 1 || 0 || 50.00%
+|-
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|POR}} || 2 || 0 || 0 || 2 || 1 || 5 || −4 || 0.00%
+|-
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|IRL}} || 2 || 0 || 0 || 2 || 1 || 3 || −2 || 0.00%
+|-
+|- bgcolor=FFFACD
+| style="text-align:left;"| {{fb|RWA}} || 2 || 1 || 0 || 1 || 3 || 2 || +1 || 50.00%
+|-
+|- bgcolor=FFFACD
+| style="text-align:left;"| {{fb|KSA}} || 4 || 1 || 2 || 1 || 3 || 3 || 0 || 25.00%
+|-
+|- bgcolor=FFFACD
+| style="text-align:left;"| {{fb|SCO}} || 2 || 1 || 0 || 1 || 2 || 1 || +1 || 50.00%
+|-
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|SEN}} || 10 || 2 || 4 || 4 || 10 || 13 || −3 || 20.00%
+|-
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|SRB}} || 1 || 0 || 0 || 1 || 1 || 3 || −2 ||0.00%
+|-
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|SEY}} || 3 || 2 || 1 || 0 || 9 || 0 || +9 ||66.67%
+|-
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|SLE}} || 5 || 1 || 3 || 1 || 4 || 1 || −1 || 20.00%
+|-
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|KOR}} || 1 || 1 || 0 || 0 || 1 || 0 || +1 || 100.00%
+|-
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|SVN}} || 1 || 1 || 0 || 0 || 1 || 0 || +1 || 100.00%
+|-
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|STP}} || 2 || 2 || 0 || 0 || 6 || 2 || +4 || 100.00%
+|-
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|SSD}} || 2 || 2 || 0 || 0 || 6 || 2 || +4 || 100.00%
+|-
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|ESP}} || 4 || 1 || 0 || 3 || 5 || 8 || −3 || 25.00%
+|-
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|SUD}} || 4 || 3 || 0 || 1 || 6 || 1 || +5 || 100.00%
+|-
+|- bgcolor=FFFACD
+| style="text-align:left;"| {{fb|SWE}} || 2 || 1 || 0 || 1 || 1 || 3 || −2 || 50.00%
+|-
+|- bgcolor=FFFACD
+| style="text-align:left;"| {{fb|TAN}} || 4 || 1 || 2 || 1 || 2 || 2 || 0 || 25.00%
+|-
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|THA}} || 1 || 1 || 0 || 0 || 4 || 0 || +4 ||100.00%
+|-
+|- bgcolor=FFFFCC
+| style="text-align:left;"| {{fb|TOG}} || 1 || 0 || 1 || 0 || 1 || 1 || 0 || 0%
+|-
+|- bgcolor=FFFACD
+| style="text-align:left;"| {{fb|TRI}} || 2 || 1 || 0 || 1 || 2 || 3 || −1 || 50.00%
+|-
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|TUN}} || 7 || 2 || 2 || 3 || 7 || 9 || −2 || 28.57%
+|-
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|TUR}} || 1 || 1 || 0 || 0 || 2 || 0 || +2 || 100.00%
+|-
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|UGA}} || 7 || 5 || 2 || 0 || 13 || 8 || +5 || 71.42%
+|-
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|UAE}} || 1 || 0 || 0 || 1 || 0 || 1 || −1 || 0.00%
+|-
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|URU}} || 3 || 0 || 1 || 2 || 3 || 7 || −4 || 0.00%
+|-
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|USA}} || 3 || 0|| 0 || 3 || 0 || 6 || −6 || 0.00%
+|-
+|- bgcolor=FFCCCC
+| style="text-align:left;"| {{fb|ZAM}} || 24 || 7 || 9 || 8 || 25 || 26 || −1 || 29.17%
+|-
+|- bgcolor=CCFFCC
+| style="text-align:left;"| {{fb|ZIM}} || 18 || 9 || 3 || 6 || 30 || 18 || +12 || 50.00%
+|- class="sortbottom"
+! Total || 498 || 225 || 152 || 121 || 634 || 434 || +200 || 45.07%
+|}
+{{notelist}}
+
+=== By Federation ===
+{| class="wikitable sortable; "
+!Name
+!Pld
+!Win
+!Draw
+!Loss
+!GF
+!GA
+!GD
+!Win%
+|-
+|-bgcolor=Lightblue
+|[[Asian Football Confederation|AFC]]
+| 32 || 13 || 10 || 9 || 55 || 31  || +24 || 40.63%
+|-
+|-bgcolor=Pink
+|[[Confederation of African Football|CAF]]
+| 348 || 176 || 101 || 63 || 484 || 269 || +215 || 50.57%
+|-
+|-bgcolor=Lime
+|[[CONCACAF]]
+| 22 || 6 || 9 || 7 || 26 || 28 || −2 || 27.27%
+|-
+|-bgcolor=Yellow
+|[[CONMEBOL]]
+| 21 || 3 || 7 || 11 || 20 || 33 || −11 || 14.28%
+|-
+|-bgcolor=lightgreen
+|[[Oceania Football Confederation|OFC]]|| 6 || 5 || 1 || 0 || 26 || 9 || +17 || 83.00%
+|-
+|-bgcolor=White
+|[[UEFA]]
+| 47 || 10 || 8 || 29 || 38 || 72  || −34 || 21.27%
+|-
+!Total|| 476 || 216 || 143 || 117 || 652 || 442 || +210 || 45.38%
+|}
+
+==Honours==
+===Intercontinental===
+* '''[[Afro-Asian Cup of Nations]]'''
+** {{Gold1}} '''Champions (1)''': [[1997 Afro-Asian Cup of Nations|1997]]
+
+===Continental===
+* '''[[Africa Cup of Nations|CAF African Cup of Nations]]'''
+** [[File:Coppa Africa.svg|22px]] '''Champions (1)''': [[1996 African Cup of Nations|1996]]
+** [[File:Silver medal africa.svg|15px]] Runners-up (1): [[1998 African Cup of Nations|1998]]
+** [[File:Bronze medal africa.svg|15px]] Third place (2): [[2000 African Cup of Nations|2000]], [[2023 Africa Cup of Nations|2023]]
+
+===Regional===
+* '''[[COSAFA Cup]]'''
+** {{Gold1}} '''Champions (5)''': [[2002 COSAFA Cup|2002]], [[2007 COSAFA Cup|2007]], [[2008 COSAFA Cup|2008]], [[2016 COSAFA Cup|2016]], [[2021 COSAFA Cup|2021]]
+** {{Silver2}} ''' Runners-up (1) ''' : [[2025 COSAFA Cup|2025]]
+** {{Bronze3}} Third place (4): [[2013 COSAFA Cup|2013]], [[2023 COSAFA Cup|2023]]
+
+===Friendly===
+* '''[[2018 Four Nations Tournament|Four Nations Tournament]] (1)''': 2018
+
+===Awards===
+* '''[[FIFA World Rankings#Best Mover of the Year|FIFA Best Mover of the Year]] (1)''': 1996
+* '''[[CAF Awards#African National Team of the Year|African National Team of the Year]] (1)''': 1996
+* '''[[FIFA Confederations Cup records and statistics#Awards|FIFA Confederations Cup Fair Play Award]] (1)''': [[1997 FIFA Confederations Cup|1997]]
+* '''[[Africa Cup of Nations awards#Fair Play Award|Africa Cup of Nations Fair Play Award]] (1)''': 2023
+
+===Summary===
+{| class="wikitable" width=30% style="font-size:90%; text-align:center;"
+|-
+!Competition !!{{gold1}} !!{{silver2}} !!{{bronze3}} !!Total
+|-
+|align=left|[[African Cup of Nations|CAF African Cup of Nations]]
+|1 || 1 || 2 || 4
+|-
+|align=left|[[Afro-Asian Cup of Nations]]
+|1 || 0 || 0 || 1
+|-
+!Total !! 2 !! 1 !! 2 !! 5
+|}
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist|group=note}}
+{{reflist}}
+
+==External links==
+{{Commons category|South Africa national association football team}}
+* [https://www.safa.net/ South Africa FA official website]
+* [https://www.cafonline.com/member-associations/rsa/ South Africa] at [[Confederation of African Football|CAF]]
+* [https://www.fifa.com/about-fifa/associations/RSA South Africa] at [[FIFA]]
+
+{{Africa Cup of Nations winners}}
+{{South Africa national football team}}
+{{Navboxes|title=Finalists|list1=
+{{2008 Africa Cup of Nations finalists}}
+{{2010 FIFA World Cup finalists}}
+{{2013 Africa Cup of Nations finalists}}
+{{2026 FIFA World Cup finalists}}
+}}
+{{Football in South Africa}}
+{{CAF teams}}
+{{National sports teams of South Africa}}
+
+[[Category:South Africa national soccer team| ]]
+[[Category:Africa Cup of Nations–winning countries|S]]
+[[Category:African national association football teams]]

@@ -1,0 +1,2224 @@
+{{Short description|Men's association football team}}
+{{About|the men's team|the women's team|Spain women's national football team}}
+{{Use British English|date=November 2025}}
+{{Use dmy dates|date=November 2025}}
+{{Infobox national football team
+| Name                     = Spain
+| Badge                    = Spain national football team crest.svg
+| Badge_size               = 145
+| Nickname                 = ''La Roja'' (The Red One)<ref name="roja" />
+| Association              = [[Royal Spanish Football Federation|Real Federación Española de Fútbol]] (RFEF)
+| Confederation            = [[UEFA]] (Europe)
+| Coach                    = [[Luis de la Fuente (footballer, born 1961)|Luis de la Fuente]]
+| Captain                  = [[Rodri (footballer, born 1996)|Rodri]]
+| Most caps                = [[Sergio Ramos]] (180)
+| Top scorer               = [[David Villa]] ([[List of international goals scored by David Villa|59]])
+| Home Stadium             = [[#Home stadium|Various]]
+| FIFA Trigramme           = ESP
+| FIFA Rank                = {{FIFA World Rankings|ESP}}
+| FIFA max                 = 1
+| FIFA max date            = July 2008 – June 2009, October 2009 – March 2010, July 2010 – July 2011, October 2011 – July 2014, September 2025 – April 2026
+| FIFA min                 = 25
+| FIFA min date            = March 1998
+| Elo Rank                 = {{World Football Elo Ratings|France}}
+| Elo max                  = 1
+| Elo max date             = September 1920 – May 1924, September – December 1925, June 2008 – June 2009, July 2010 – June 2013
+| Elo min                  = 19
+| Elo min date             = June–October 1969, November 1991
+<!--Home Shirt-->
+| pattern_la1              = _esp26h
+| pattern_b1               = _esp26hA
+| pattern_ra1              = _esp26h
+| pattern_sh1              = _esp26h
+| pattern_so1              = _esp26hl
+| leftarm1                 = D71726
+| body1                    = D71726
+| rightarm1                = D71726 
+| shorts1                  = 000066
+| socks1                   = D71726
+| pattern_la2              = _esp26a
+| pattern_b2               = _esp26a
+| pattern_ra2              = _esp26a
+| pattern_sh2              = _esp26a
+| pattern_so2              = _esp26al
+| leftarm2                 = FFFFFF
+| body2                    = FFFFFF
+| rightarm2                = FFFFFF
+| shorts2                  = 6a2335
+| socks2                   = 6a2335
+<!--End of Shirt-->
+| First game               = {{fb|ESP|1874}} 1–0 {{fb-rt|DEN|1830}}<br>([[Forest, Belgium|Forest]], Belgium; 28 August 1920)
+| Largest win              = {{fb|ESP|1931}} 13–0 {{fb-rt|BUL}}<br>([[Madrid]], Spain; 22 August 1933)
+| Largest loss             = {{fb|ITA|1861}} 7–1 {{fb-rt|ESP|1874}}<br>([[Amsterdam]], Netherlands; 4 June 1928)<br>{{fb|ENG}} 7–1 {{fb-rt|ESP|1931}}<br>([[London]], England; 9 December 1931)
+| World cup apps           = 17
+| World cup first          = 1934
+| World cup best           = '''Champions''' ([[2010 FIFA World Cup|2010]])
+| Regional name            = [[UEFA European Championship|European Championship]]
+| Regional cup apps        = 12
+| Regional cup first       = [[1964 European Nations' Cup|1964]]
+| Regional cup best        = '''Champions''' ([[UEFA Euro 1964|1964]], [[UEFA Euro 2008|2008]], [[UEFA Euro 2012|2012]], [[UEFA Euro 2024|2024]])
+| 2ndRegional name         = [[UEFA Nations League|Nations League Finals]]
+| 2ndRegional cup apps     = 3
+| 2ndRegional cup first    = [[2021 UEFA Nations League Finals|2021]]
+| 2ndRegional cup best     = '''Champions''' ([[2023 UEFA Nations League Finals|2023]])
+| 3rdRegional name         = [[Finalissima|CONMEBOL–UEFA Cup of Champions]]
+| 3rdRegional cup apps     = 1
+| 3rdRegional cup first    = [[2026 Finalissima|2026]]
+| 3rdRegional cup best     = Cancelled ([[2026 Finalissima|2026]])
+| Confederations cup apps  = 2
+| Confederations cup first = [[2009 FIFA Confederations Cup|2009]]
+| Confederations cup best  = Runners-up ([[2013 FIFA Confederations Cup|2013]])
+| medaltemplates =
+{{MedalSport|Men's [[Association football|football]]}}
+{{MedalCompetition|[[FIFA World Cup]]}}
+{{MedalGold|[[2010 FIFA World Cup|2010 South Africa]]|[[2010 FIFA World Cup squads#Spain|Team]]}}
+{{MedalCompetition|[[FIFA Confederations Cup]]}}
+{{MedalSilver|[[2013 FIFA Confederations Cup|2013 Brazil]]|[[2013 FIFA Confederations Cup squads#Spain|Team]]}}
+{{MedalBronze|[[2009 FIFA Confederations Cup|2009 South Africa]]|[[2009 FIFA Confederations Cup squads#Spain|Team]]}}
+{{MedalCompetition|[[Football at the Summer Olympic Games|Olympic Games]]}}
+{{MedalSilver|[[1920 Summer Olympics|1920 Amberes]]|[[Football at the 1920 Summer Olympics|Team]]}}
+{{MedalCompetition|[[UEFA European Championship|European Championship]]}}
+{{MedalGold|[[UEFA Euro 1964|1964 Spain]]|[[UEFA Euro 1964 squads#Spain|Team]]}}
+{{MedalGold|[[UEFA Euro 2008|2008 Austria and Switzerland]]|[[UEFA Euro 2008 squads#Spain|Team]]}}
+{{MedalGold|[[UEFA Euro 2012|2012 Poland and Ukraine]]|[[UEFA Euro 2012 squads#Spain|Team]]}}
+{{MedalGold|[[UEFA Euro 2024|2024 Germany]]|[[UEFA Euro 2024 squads#Spain|Team]]}}
+{{MedalSilver|[[UEFA Euro 1984|1984 France]]|[[UEFA Euro 1984 squads#Spain|Team]]}}
+{{MedalBronze|[[UEFA Euro 2020|2020 Europe]]|[[UEFA Euro 2020 squads#Spain|Team]]}}
+{{MedalCompetition|[[UEFA Nations League]]}}
+{{MedalGold|[[2023 UEFA Nations League Finals|2023 Netherlands]]|[[2023 UEFA Nations League Finals squads#Spain|Team]]}}
+{{MedalSilver|[[2021 UEFA Nations League Finals|2021 Italy]]|[[2021 UEFA Nations League Finals squads#Spain|Team]]}}
+{{MedalSilver|[[2025 UEFA Nations League Finals|2025 Germany]]|[[2025 UEFA Nations League Finals squads#Spain|Team]]}}
+}}
+
+The '''Spain national football team''' ({{langx|es|Selección Española de Fútbol}}) has represented [[Spain]] in men's international [[Association football|football]] competition since 1920. It is governed by the [[Royal Spanish Football Federation]], the governing body for [[football in Spain]].
+
+Spain are one of the most successful national teams in football history. They have qualified consistently for the [[FIFA World Cup]] since 1978, participating in 16 out of 22 tournaments and winning the [[2010 FIFA World Cup|2010]] title — making them one of only eight national teams to be crowned [[List of FIFA World Cup finals|world champions]]. Spain have competed in 12 out of 17 [[UEFA European Championship]]s and are the [[UEFA#Current title holders|reigning]] European champion, having won a record fourth title in [[UEFA Euro 2024|2024]]. After their victory in the [[2023 UEFA Nations League Finals|2023 UEFA Nations League]], they became the second national team, following [[France national football team|France]], to win three major titles: World Cup, European Championship and [[UEFA Nations League|Nations League]]. Spain are also one of only two nations, besides [[Germany national football team|Germany]], to have won both the men's and [[FIFA Women's World Cup|women's]] World Cups,<ref>{{Cite web |date=2023-08-21 |title=Spain joined Germany as the only two nations to win both men's and women's World Cups |url=https://english.elpais.com/sports/2023-08-21/womens-world-cup-champion-spain-poised-for-long-run-among-soccer-elite-with-talented-young-team.html |website=elpais.com |language=en |access-date=2 July 2024 |archive-date=2 July 2024 |archive-url=https://web.archive.org/web/20240702023229/https://english.elpais.com/sports/2023-08-21/womens-world-cup-champion-spain-poised-for-long-run-among-soccer-elite-with-talented-young-team.html |url-status=live }}</ref> and only the second nation to hold the first position in both men and women's rankings simultaneously from September 2025 to April 2026, after Germany.<ref>{{Cite web |last=Burhan |first=Asif |title=Spain's National Team Top FIFA World Rankings In Men's And Women's Soccer |url=https://www.forbes.com/sites/asifburhan/2025/09/18/spain-national-team-top-fifa-world-rankings-in-mens-and-womens-soccer/ |access-date=2025-09-22 |website=Forbes |language=en}}</ref>
+
+Having won one World Cup, one Nations League, and three European Championship titles since 2008, Spain are the most successful European national team of the 21st century. The team's achievements from 2008 to 2012 have led many experts and commentators to consider this era's squads one of the best ever teams in football history.<ref name="BBC 2012">{{cite news |title=Euro 2012: Are Spain the best team of all time? |work=BBC Sport |publisher=BBC |url=https://www.bbc.co.uk/sport/football/18669029 |url-status=live |access-date=14 July 2012 |archive-url=https://web.archive.org/web/20120705000000/http://www.bbc.co.uk/sport/0/football/18669029 |archive-date=5 July 2012}}</ref><ref name="BBC Sport">{{cite news |title=Klinsmann: Spain win over Italy would make them team of century |work=BBC Sport |url=https://www.bbc.co.uk/sport/football/18650428 |url-status=live |access-date=14 July 2012 |archive-url=https://web.archive.org/web/20120707013604/http://www.bbc.co.uk/sport/0/football/18650428 |archive-date=7 July 2012}}</ref><ref name="Independent">{{cite news |date=3 July 2012 |title=The greatest team of all time: Brazil 1970 v Spain 2012 |work=The Independent |url=https://www.independent.co.uk/sport/football/news-and-comment/the-greatest-team-of-all-time-brazil-1970-v-spain-2012-7905980.html |url-status=live |access-date=1 July 2013 |archive-url=https://web.archive.org/web/20130710092417/http://www.independent.co.uk/sport/football/news-and-comment/the-greatest-team-of-all-time-brazil-1970-v-spain-2012-7905980.html |archive-date=10 July 2013}}</ref><ref name="ESPNFC">{{cite web |title=Why this Spain side is all-time best |url=http://espnfc.com/en/news/1120894/carlislewhy-spain-side-best-all-time-.html |url-status=dead |archive-url=https://web.archive.org/web/20120706222439/http://espnfc.com/en/news/1120894/carlislewhy-spain-side-best-all-time-.html |archive-date=6 July 2012 |access-date=14 July 2012 |publisher=ESPN}}</ref><ref name="Telegraph 2014">{{cite web |title=Spain have reached end of an era, but their gift will not be forgotten – they forced all countries to raise their game |date=19 April 2014 |url=https://www.telegraph.co.uk/sport/football/world-cup/10910879/Spain-have-reached-end-of-an-era-but-their-gift-will-not-be-forgotten-they-forced-all-countries-to-raise-their-game.html |url-status=live |archive-url=https://web.archive.org/web/20140622021212/http://www.telegraph.co.uk/sport/football/world-cup/10910879/Spain-have-reached-end-of-an-era-but-their-gift-will-not-be-forgotten-they-forced-all-countries-to-raise-their-game.html |archive-date=22 June 2014 |access-date=29 June 2014 |publisher=Telegraph}}</ref> During this period, Spain became the first national team to win [[Double (association football)#International double|three consecutive major titles]], including two back-to-back European Championships in [[UEFA Euro 2008|2008]] and [[UEFA Euro 2012|2012]], while becoming the first European team to win a World Cup held outside of Europe.<ref>{{cite news |url=https://www.goal.com/en/news/2898/euro-2012/2012/07/02/3213917/are-spain-the-greatest-international-team-of-all-time |title=Are Spain the greatest international team of all time? |publisher=Goal |date=2 July 2012 |access-date=12 October 2020 |archive-date=22 September 2020 |archive-url=https://web.archive.org/web/20200922085102/https://www.goal.com/en/news/2898/euro-2012/2012/07/02/3213917/are-spain-the-greatest-international-team-of-all-time |url-status=live }}</ref> From 2008 to 2013, Spain won [[FIFA Men's World Rankings|FIFA Team of the Year]], the second-most of any nation, after [[Brazil national football team|Brazil]].<ref>{{cite news |url=https://www.uefa.com/uefaeuro-2020/news/0258-0e4e118d265f-270456d8b004-1000--spain-dominate-the-decade/ |title=Spain dominate the decade: national-team winners |publisher=UEFA |date=26 December 2019 |access-date=12 October 2020 |archive-date=9 August 2020 |archive-url=https://web.archive.org/web/20200809174048/https://www.uefa.com/uefaeuro-2020/news/0258-0e4e118d265f-270456d8b004-1000--spain-dominate-the-decade/ |url-status=dead }}</ref> Between 2007 and [[2009 FIFA Confederations Cup]], Spain achieved 35 consecutive undefeated matches, a feat shared only with Brazil, and a record for the sport at the time.<ref>{{Cite web |date=2009-06-20 |title=Spain's 35 match unbeaten run |url=https://www.reuters.com/article/sports/factbox-spains-35-match-unbeaten-run-idUSTRE55J1YN/ |website=reuters.com |language=en}}</ref> With their victory over Belgium in the 2026 FIFA World Cup quarterfinals, Spain achieved a new record of 36 consecutive undefeated matches, having last lost against Colombia in a [[2023–24 in Spanish football|friendly match in March 2024]], just one below the current record.
+
+==History==
+{{See also|History of the Spain national football team}}
+
+[[File:Spain national football team in the 1920 Summer Olympics in Antwerp.jpg|thumb|The Spanish national football team in the [[1920 Summer Olympics]] in [[Antwerp]]]]
+
+[[File:Celebracionmundialsalamanca.jpg|thumb|Spaniards celebrating the 2010 FIFA World Cup in [[Salamanca]].]]
+
+Spain has been a member of [[FIFA]] since its founding in 1904, even though the Spanish Football Federation was first established in 1909. The first Spain national football team was constituted in 1920, with the main objective of finding a team that would represent Spain at the [[Football at the 1920 Summer Olympics|1920 Summer Olympics]] held in Belgium in that same year. Spain made their debut at the tournament on 28 August 1920 against [[Denmark national football team|Denmark]], silver medalists at the last two Olympic tournaments. Spain managed to win that match by a scoreline of 1–0, eventually finishing with the silver medal.<ref>{{cite news|title=Antwerp, 1920|url=https://www.fifa.com/tournaments/mens/mensolympic/antwerp1920/match-center|access-date=7 September 2015|publisher=FIFA|archive-date=14 June 2018|archive-url=https://web.archive.org/web/20180614095956/https://www.fifa.com/tournaments/archive/mensolympic/antwerp1920/index.html|url-status=live}}</ref> Spain qualified for their first FIFA World Cup in 1934, defeating [[Brazil national football team|Brazil]] in their first game and losing in a replay to the hosts and eventual champions [[Italy national football team|Italy]] in the quarter-finals.<ref>{{cite news|title=Delight for the Azzurri as home advantage tells|url=https://www.fifa.com/worldcup/news/y=2007/m=3/news=delight-for-the-azzurri-home-advantage-tells-502051.html|access-date=7 September 2015|publisher=FIFA|archive-date=5 September 2015|archive-url=https://web.archive.org/web/20150905202139/http://www.fifa.com/worldcup/news/y=2007/m=3/news=delight-for-the-azzurri-home-advantage-tells-502051.html|url-status=dead}}</ref> The [[Spanish Civil War]] and [[World War II]] prevented Spain from playing any competitive matches between the 1934 World Cup and the [[1950 FIFA World Cup|1950]] edition's [[1950 FIFA World Cup qualification|qualifiers]]. At the 1950 finals in Brazil, they topped their group to progress to the final round, where they finished in fourth place.<ref>{{cite news|title=Uruguay triumph brings heartbreak for Brazil|url=https://www.fifa.com/worldcup/news/y=2007/m=3/news=uruguay-triumph-brings-heartbreak-for-brazil-502075.html|access-date=7 September 2015|publisher=FIFA|archive-date=17 December 2017|archive-url=https://web.archive.org/web/20171217194418/http://www.fifa.com/worldcup/news/y=2007/m=3/news=uruguay-triumph-brings-heartbreak-for-brazil-502075.html|url-status=dead}}</ref> Until 2010, this had been Spain's highest finish at the FIFA World Cup.<ref>{{cite news|last1=Bull|first1=JJ|title=Xavi: The greatest midfielder of a generation|url=https://www.telegraph.co.uk/sport/football/babb/11618815/Xavi-The-greatest-midfielder-of-a-generation.html|access-date=7 September 2015|work=The Daily Telegraph|archive-date=7 September 2020|archive-url=https://web.archive.org/web/20200907202724/https://www.telegraph.co.uk/sport/football/babb/11618815/Xavi-The-greatest-midfielder-of-a-generation.html|url-status=live}}</ref>
+
+Spain won its first major international title when it hosted the [[1964 European Nations' Cup]], defeating the [[Soviet Union national football team|Soviet Union]] 2–1 in the final at the [[Santiago Bernabéu Stadium]].<ref>{{cite news|last1=Sanghera|first1=Mandeep|title=Euro 1964: A forgotten Spanish triumph|url=https://www.bbc.co.uk/sport/football/17451950|access-date=7 September 2015|publisher=BBC Sport|date=12 May 2012|archive-date=7 January 2016|archive-url=https://web.archive.org/web/20160107075350/http://www.bbc.co.uk/sport/0/football/17451950|url-status=live}}</ref> The victory would stand as Spain's lone major title for 44 years. Spain was selected as host of the [[1982 FIFA World Cup]], reaching the second round and [[1986 FIFA World Cup|four years later]] they reached the quarter-finals before a [[penalty shoot-out (association football)|penalty shootout]] defeat to [[Belgium national football team|Belgium]].<ref>{{cite news|last1=Estepa|first1=Javier|title=Los penaltis cerraron las puertas de las 'semis' a La Roja|trans-title=Penalties close the doors to the semis for ''La Roja''|url=http://www.marca.com/reportajes/2010/04/mexico_1986/2010/04/26/seccion_01/1272300745.html|access-date=7 September 2015|publisher=Marca|language=es|archive-date=7 January 2016|archive-url=https://web.archive.org/web/20160107075350/http://www.marca.com/reportajes/2010/04/mexico_1986/2010/04/26/seccion_01/1272300745.html|url-status=live}}</ref> At [[UEFA Euro 1984]], they lost the [[UEFA Euro 1984 final|final]] against [[France national football team|France]].<ref>{{Cite web | url = https://www.11v11.com/matches/france-v-spain-27-june-1984-238520/ | publisher = AFS Enterprises | access-date = 22 July 2021 | title = France v Spain, 27 June 1984 | website = 11v11 | archive-date = 2 July 2021 | archive-url = https://web.archive.org/web/20210702141214/https://www.11v11.com/matches/france-v-spain-27-june-1984-238520/ | url-status = live }}</ref> Spain reached the quarter-finals of the [[1994 FIFA World Cup|1994 World Cup]]. The match became controversial when Italian defender [[Mauro Tassotti]] struck [[Luis Enrique]] with his elbow inside Spain's penalty area, causing Luis Enrique to bleed profusely from his nose and mouth, but it was not noticed nor sanctioned by referee [[Sándor Puhl]]. Had the official awarded a foul, Spain would have received a penalty kick.<ref>{{cite news|last1=Jurado|first1=J. Carlos|title=El perdón de Luis Enrique a Tassotti que nunca llegó|trans-title=The pardon from Tassotti to Luis Enrique which never arrived|url=http://www.marca.com/reportajes/2010/05/estados_unidos_1994/2010/05/03/seccion_01/1272883990.html|access-date=7 September 2015|publisher=Marca|language=es|archive-date=12 June 2015|archive-url=https://web.archive.org/web/20150612032416/http://www.marca.com/reportajes/2010/05/estados_unidos_1994/2010/05/03/seccion_01/1272883990.html|url-status=live}}</ref> In the [[2002 FIFA World Cup|2002 World Cup]], Spain won its three group play matches, then defeated the [[Republic of Ireland national football team|Republic of Ireland]] on penalties in the second round. They faced co-hosts [[South Korea national football team|South Korea]] in the quarter-finals, losing in a shootout after having two goals controversially called back for alleged infractions during regular and extra time.<ref>{{cite news |last=Hayward |first=Paul |url=https://www.telegraph.co.uk/sport/football/international/3029872/Korean-miracle-spoilt-by-refereeing-farce.html |title=Korean miracle spoilt by refereeing farce |publisher=Telegraph |date=23 June 2002 |access-date=24 June 2012 |location=London |archive-date=8 March 2019 |archive-url=https://web.archive.org/web/20190308182228/https://www.telegraph.co.uk/sport/football/international/3029872/Korean-miracle-spoilt-by-refereeing-farce.html |url-status=live }}</ref>
+
+[[File:World Cup celebration - 2.jpg|thumb|Spain celebrates winning the [[2010 FIFA World Cup|2010 World Cup]] with a parade as they pass in front of the [[Spanish Air and Space Force|Air Force]] headquarters in [[Madrid]].]]
+
+At [[UEFA Euro 2008]], Spain won all their games in [[UEFA Euro 2008 Group D|Group D]]. Italy were the opponents in the quarter-finals, where Spain won 4–2 on penalties. They then met [[Russia national football team|Russia]] again in the semi-finals, beating them 3–0.<ref>{{cite web |url=http://euro2008.worldcupblog.org/euro-2008-game-previews/euro-2008-final-preview-germany-vs-spain.html |title=Euro 2008 Final Preview: Germany vs Spain |date=29 June 2008 |access-date=13 January 2012 |url-status=dead |archive-url=https://web.archive.org/web/20111229162415/http://euro2008.worldcupblog.org/euro-2008-game-previews/euro-2008-final-preview-germany-vs-spain.html |archive-date=29 December 2011 }}</ref> In the [[UEFA Euro 2008 final|final]], Spain defeated [[Germany national football team|Germany]] 1–0, with [[Fernando Torres]] scoring the only goal of the game,<ref>{{cite news|url=https://news.bbc.co.uk/sport2/hi/football/euro_2008/7363545.stm|title=Germany 0–1 Spain|date=29 June 2008|work=BBC Sport|access-date=20 August 2009|location=London|first=Phil|last=McNulty|archive-date=6 August 2017|archive-url=https://web.archive.org/web/20170806104600/http://news.bbc.co.uk/sport1/hi/football/euro_2008/7363545.stm|url-status=live}}</ref> as Spain won their first major title since the 1964 European Championship. [[Xavi (footballer, born 1980)|Xavi]] was awarded the player of the tournament.{{refn|group=nb|Spanish players named in the ''team of the tournament'' were: goalkeeper and captain [[Iker Casillas]]; defenders [[Carles Puyol]] and [[Carlos Marchena]]; midfielders Xavi, [[Cesc Fàbregas]], [[Andrés Iniesta]] and [[Marcos Senna]]; and strikers [[David Villa]] and Fernando Torres.}} The following year the side finished third at the [[2009 FIFA Confederations Cup]] breaking their 35-match unbeaten streak that began in November 2006 after a loss to the [[United States men's national soccer team|United States]].<ref name="NYT-Spain">{{cite news |last=Longman |first=Jeré |date=24 June 2009 |title=Americans Stun Spain and the Soccer World |page=B11 |url=https://www.nytimes.com/2009/06/25/sports/soccer/25soccer.html |work=The New York Times |access-date=22 June 2019 |archive-date=6 July 2019 |archive-url=https://web.archive.org/web/20190706192613/https://www.nytimes.com/2009/06/25/sports/soccer/25soccer.html |url-status=live }}</ref> In the [[2010 FIFA World Cup|2010 World Cup]], Spain advanced to the [[2010 FIFA World Cup final|final]] for the first time ever by defeating Germany 1–0. In the decisive match against the [[Netherlands national football team|Netherlands]], [[Andrés Iniesta]] scored the match's only goal, coming in extra time. Spain became the third team to win a World Cup outside their own continent, and the first European team to do so. They then qualified for [[UEFA Euro 2012]], finishing on top of [[UEFA Euro 2012 qualifying Group I|Group I]] with a perfect 100% record.<ref name="BBC 2012"/> They became the first team to retain the European Championship, winning the [[UEFA Euro 2012 final|final]] 4–0 against Italy, while Fernando Torres won the Golden Boot for top scorer of the tournament.<ref name="Euro 2012: Spain striker Fernando Torres wins Golden Boot award">{{cite news| title = Euro 2012: Spain striker Fernando Torres wins Golden Boot award| url = https://www.bbc.co.uk/sport/football/18670818| work = BBC Sport| date = 2 July 2012| access-date = 11 July 2012| archive-date = 4 July 2012| archive-url = https://web.archive.org/web/20120704212129/http://www.bbc.co.uk/sport/0/football/18670818| url-status = live}}</ref>
+
+Spain advanced to the [[2013 FIFA Confederations Cup final|final]] of the [[2013 FIFA Confederations Cup]], losing to hosts Brazil,<ref>{{cite web|url= https://www.theguardian.com/football/2013/jun/30/brazil-spain-live-confederations-cup-final|title= Brazil v Spain: Confederations Cup final – as it happened|date= 1 July 2013|work= Guardian UK|access-date= 4 July 2013|archive-date= 18 June 2018|archive-url= https://web.archive.org/web/20180618075803/https://www.theguardian.com/football/2013/jun/30/brazil-spain-live-confederations-cup-final|url-status= live}}</ref> and the following year they were eliminated from the group stage of the [[2014 FIFA World Cup|2014 World Cup]].<ref>{{cite news|url=https://www.independent.co.uk/sport/football/worldcup/world-cup-2014-spain-and-the-world-cup-holders-who-crashed-out-at-the-group-stage-9547351.html|access-date=18 April 2015|newspaper=The Independent|date=18 June 2014|last=Krishnan|first=Joe|title=World Cup 2014: Spain and the World Cup holders who crashed out at the group stage|archive-date=24 June 2014|archive-url=https://web.archive.org/web/20140624060542/http://www.independent.co.uk/sport/football/worldcup/world-cup-2014-spain-and-the-world-cup-holders-who-crashed-out-at-the-group-stage-9547351.html|url-status=live}}</ref> At [[UEFA Euro 2016|Euro 2016]] and the [[2018 FIFA World Cup|2018 World Cup]], the side were eliminated in the round of 16 in both tournaments, losing to Italy 2–0 and Russia 4–3 on penalties after a 1–1 draw.<ref>{{cite web|title=Soccer: Spain World Cup factbox|publisher=Reuters|date=21 May 2018|url=https://www.reuters.com/article/us-soccer-worldcup-esp-factbox/soccer-spain-world-cup-factbox-idUSKCN1IM1P2|access-date=11 June 2020|archive-date=12 June 2020|archive-url=https://web.archive.org/web/20200612011735/https://www.reuters.com/article/us-soccer-worldcup-esp-factbox/soccer-spain-world-cup-factbox-idUSKCN1IM1P2|url-status=live}}</ref><ref>{{cite news|last=Bevan|first=Chris|title=Spain 1–1 Russia|work=BBC Sport|date=1 July 2018|url=https://www.bbc.com/sport/football/44591345|access-date=11 June 2020|archive-date=10 July 2018|archive-url=https://web.archive.org/web/20180710090328/https://www.bbc.com/sport/football/44591345|url-status=live}}</ref> In the [[UEFA Euro 2020]], held in 2021 after the [[COVID-19 pandemic]] caused delays, Spain made a breakthrough, reaching the last four of a major tournament for the first time since 2012, before losing to eventual champions Italy 4–2 on penalties after a 1–1 draw. The team finished the tournament with two wins and four draws (including two penalty shootouts).<ref>{{Cite web|url=https://www.france24.com/en/live-news/20210706-italy-beat-spain-on-penalties-in-epic-euro-2020-semi-final|title=Italy beat Spain on penalties in epic Euro 2020 semi-final|date=6 July 2021|access-date=19 July 2021|archive-date=19 July 2021|archive-url=https://web.archive.org/web/20210719074904/https://www.france24.com/en/live-news/20210706-italy-beat-spain-on-penalties-in-epic-euro-2020-semi-final|url-status=live}}</ref> The same year they managed to reach the [[2021 UEFA Nations League final|Nations League final]], losing against France.<ref>{{cite web|url=https://www.espn.com/soccer/report?gameId=589985|title=Mbappe, Benzema lead France over Spain in Nations League final|date=10 October 2021|work=ESPN|accessdate=11 October 2021|archive-date=11 October 2021|archive-url=https://web.archive.org/web/20211011100339/https://www.espn.com/soccer/report?gameId=589985|url-status=live}}</ref> In the [[2022 FIFA World Cup|2022 World Cup]], Spain finished second in their group before losing to [[Morocco national football team|Morocco]] 3–0 on penalties after a 0–0 draw, their third consecutive elimination from a major tournament in penalty shootouts.<ref>{{cite web |url=https://www.marca.com/en/world-cup/cronica/2022/12/06/638f843d46163fc04b8b45a5.html |title=Spain are eliminated, missing every penalty of the shootout vs Morocco |website=Marca |date=6 December 2022 |access-date=7 December 2022 |archive-date=7 December 2022 |archive-url=https://web.archive.org/web/20221207220632/https://www.marca.com/en/world-cup/cronica/2022/12/06/638f843d46163fc04b8b45a5.html |url-status=live }}</ref>
+
+Spain finished first in their group in [[UEFA Euro 2024]] without conceding a goal, and went on to defeat [[Georgia national football team|Georgia]] in the [[UEFA Euro 2024 knockout stage#Spain vs Georgia|round of 16]] by a score of 4–1.<ref>{{cite news |url=https://www.uefa.com/euro2024/news/028e-1b36236000e5-3bb5eb983a39-1000--albania-0-1-spain-much-changed-spain-stay-perfect/ |title=Albania 0-1 Spain: Much-changed Spain stay perfect |website=UEFA |date=24 June 2024 |access-date=8 July 2024 |archive-date=24 June 2024 |archive-url=https://web.archive.org/web/20240624222811/https://www.uefa.com/euro2024/news/028e-1b36236000e5-3bb5eb983a39-1000--albania-0-1-spain-much-changed-spain-stay-perfect/ |url-status=live }}</ref><ref>{{cite news |url=https://www.bbc.com/sport/football/live/cxe2mx95x90t?page=2 |title=Spain 4–1 Georgia |first=Emma |last=Sanders |website=BBC Sport |date=30 June 2024 |access-date=8 July 2024}}</ref> They eventually eliminated hosts Germany in the [[UEFA Euro 2024 knockout stage#Spain vs Germany|quarter-finals]] with a 2–1 win and defeated France in the [[UEFA Euro 2024 knockout stage#Spain vs France|semi-finals]] with the same result, qualifying for their [[UEFA Euro 2024 final|fifth European Championship final]],<ref>{{cite news |url=https://www.skysports.com/football/spain-vs-germany/report/500425 |title=Spain 2–1 Germany - Match Report & Highlights |website=Sky Sports |date=5 July 2024 |access-date=8 July 2024 |archive-date=8 July 2024 |archive-url=https://web.archive.org/web/20240708204055/https://www.skysports.com/football/spain-vs-germany/report/500425 |url-status=live }}</ref> where they won their record-breaking fourth European title by defeating [[England national football team|England]] 2–1.<ref>{{Cite web |date=14 July 2024 |title=Spain 2 England 1: Oyarzabal the unlikely hero with late winner as Spain win Euro 2024 |url=https://www.nytimes.com/athletic/5634616/2024/07/14/spain-euro-2024-champions-oyarzabal/ |access-date=10 July 2024 |website=The Athletic}}</ref><ref name="bbc_2024final">{{cite news |url= https://www.bbc.com/sport/football/articles/c3g3r62p3kdo |title= Defeat extends England's '58 years of hurt' |first=Emlyn |last=Begley |work=[[BBC]] |date=14 July 2024 |access-date=14 July 2024}}</ref> Spain became the first team to win all seven matches in a single European Championship tournament,<ref>{{Cite web |date=14 July 2024 |title=Spain wins record fourth European Championship title by inflicting another painful loss on England |url=https://apnews.com/article/spain-england-euro-2024-final-dc46b104e6bf3b94b7d6d70e18f8220d |access-date=15 July 2024 |website=AP News |archive-date=14 July 2024 |archive-url=https://web.archive.org/web/20240714215223/https://apnews.com/article/spain-england-euro-2024-final-dc46b104e6bf3b94b7d6d70e18f8220d |url-status=live }}</ref> while setting a new record of 15 goals scored in a single European Championship.<ref>{{cite news |url=https://www.uefa.com/euro2024/news/028f-1b5e5c2b7b67-d5faab9be20b-1000--spain-2-1-england-late-oyarzabal-winner-earns-la-roja-reco/ |title=Spain 2–1 England: Late Oyarzabal winner earns La Roja record fourth EURO crown |website=UEFA |date=14 July 2024 |access-date=20 July 2024}}</ref>
+
+Spain continued its success during the [[2024–25 UEFA Nations League]], where they defeated Netherlands in the quarter-finals and then France in the semi-finals, thus reaching their second consecutive UEFA Nations League final and their third overall appearance, with some commentators drawing similarities to Spain's previous "golden age".<ref>{{Cite news |last=Lowe |first=Sid |date=2025-06-05 |title=Lamine Yamal dazzles as Spain win goal-fest with France to set up Portugal final |url=https://www.theguardian.com/football/2025/jun/05/lamine-yamal-spain-goal-fest-france-portugal-final |access-date=2025-06-06 |work=The Guardian |language=en-GB |issn=0261-3077}}</ref> With their victory over France, Spain extended their undefeated record to 23 matches.<ref>{{Cite web |agency=EFE |date=2025-06-05 |title=España disputará su tercera final consecutiva de la Liga de Naciones |url=https://as.com/futbol/seleccion/espana-disputara-su-tercera-final-consecutiva-de-la-liga-de-naciones-n/ |access-date=2025-06-06 |website=Diario AS |language=es}}</ref>
+
+[[File:2026 FIFA World Cup Match 98, Spain v Belgium (3).jpg|thumb|right|Spain taking on Belgium during the quarter-finals of the [[2026 FIFA World Cup]] at [[SoFi Stadium]] in [[Greater Los Angeles|Los Angeles]].]]
+
+Spain qualified for the [[2026 FIFA World Cup]] after [[2026 FIFA World Cup qualification – UEFA Group E|topping their group]], and got out of the group stage as leaders of their group, having kept a clean sheet.  In the round of 32, Spain defeated [[Austria national football team|Austria]] 3–0, and thanks to another clean sheet, Spain's goalkeeper [[Unai Simón]] achieved a world record by equaling [[Walter Zenga]]'s record of five consecutive clean sheets set in 1990, reaching a total of 519 minutes without conceding, two minutes more than the previous benchmark,<ref>{{cite web |url=https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/spain-austria-match-report-highlights|title=Dominant Spain advance past Austria|publisher=FIFA|date=3 July 2026}}</ref> a record later extended following Spain's 0–1 victory against Portugal in the [[2026 FIFA World Cup#Round of 16|round of 16]], reaching a total of 609 minutes and six clean sheets, becoming the only team up to that point not to concede a single goal.<ref>{{Cite web |last=Adan|first=Miguel Ángel Lara|date=2026-07-06|title=Unai rompe otro récord y deja atrás de nuevo a Zenga y Casillas|url=https://www.marca.com/futbol/seleccion/2026/07/07/unai-rompe-record-deja-atras-nuevo-zenga-casillas.html|access-date=2026-07-07|website=MARCA|language=es}}</ref> Spain's victory against Portugal matched the country's previous record of 36th consecutive undefeated streak, having last lost against Colombia in a [[2023–24 in Spanish football|friendly match in March 2024]]. Spain continued to the semi-finals after a 2-1 victory against [[Belgium national football team|Belgium]], a feat they haven't achieved since the country's first and only World Cup title in [[2010 FIFA World Cup|2010]] and only the second time in their history to move past the quarterfinals.<ref>{{Cite web |date=2026-07-10 |title=Spain beat Belgium late to set to World Cup semifinal vs. France |url=https://www.espn.co.uk/football/story/_/id/49327290/spain-belgium-world-cup-quarterfinal-merino-semifinal-france |access-date=2026-07-10 |website=www.espn.co.uk}}</ref>
+
+==Team image==
+===Nicknames===
+Spain's team was known in the past by some fans as "''La furia española''", {{gloss|the Spanish Fury}}; this nickname was originally given by a Dutch newspaper, recalling the "[[Sack of Antwerp]]" – an episode in the military history of Spain.<ref name=furiaespanola>{{cite web|url= http://www.elmundo.es/suplementos/cronica/2008/661/1213480807.html|title= El inspirador de la "furia española" fue un vasco|accessdate= 15 September 2011|date= 15 June 2008|website= El Mundo.es|language= es|archive-date= 3 November 2022|archive-url= https://web.archive.org/web/20221103020053/https://www.elmundo.es/suplementos/cronica/2008/661/1213480807.html|url-status= live}}</ref> More modernly, the team is sometimes called "''La furia roja''" ({{gloss|the Red Fury}}), although in Spain it is most commonly referred simply as "''La Roja''", {{gloss|the Red (squad)}}.<ref name="roja">{{cite web |url=https://www.bbc.co.uk/blogs/learningenglish/2010/06/la-roja-from-miguel-spain.shtml |title="La Roja" |date=17 June 2010 |access-date=30 June 2010 |archive-date=30 April 2019 |archive-url=https://web.archive.org/web/20190430040701/https://www.bbc.co.uk/blogs/learningenglish/2010/06/la-roja-from-miguel-spain.shtml |url-status=live }}</ref>
+
+===Style of play===
+{{Main|Tiki-taka}}
+
+[[File:Spain Euro 08 celebration 3.jpg|thumb|right|Spain, [[UEFA Euro 2008]] winners]]
+
+[[File:2010 FIFA World Cup Spain with cup.JPG|thumb|right|Spain's players celebrate winning the [[2010 FIFA World Cup]].]]
+
+[[File:Spain national football team Euro 2012 trophy 02.jpg|thumb|right|Spain, [[UEFA Euro 2012]] winners]]
+
+Between 2008 and 2012, the team played a style of football dubbed 'tiki-taka', a systems approach to football founded upon the ideal of team unity and a comprehensive understanding in the geometry of space on a football field.<ref name="davies-eplindex">{{cite news |title=Systems Football: The Basics&nbsp;– Tiki-Taka / Totaal-Voetball. This system is highly influenced by Fc Barcelona passing game (already based on Dutch 70s football principles) |url=http://www.eplindex.com/16473/systems-football-the-basics-tiki-taka-totaal-voetball.html |work=EPLindex |date=16 July 2012 |access-date=31 July 2012 |archive-date=18 July 2012 |archive-url=https://web.archive.org/web/20120718191253/http://www.eplindex.com/16473/systems-football-the-basics-tiki-taka-totaal-voetball.html |url-status=dead }}</ref>
+
+Tiki-taka has been variously described as "a style of play based on making your way to the back of the net through short passing and movement",<ref name="marcotti">{{cite news |title=New coaching breed gives heart to Spain |url=http://www.timesonline.co.uk/tol/sport/football/european_football/article3739825.ece |work=[[The Times]] |date=14 April 2008 |access-date=18 October 2010 |archive-date=5 May 2021 |archive-url=https://web.archive.org/web/20210505160848/https://www.thetimes.co.uk/ |url-status=dead }}</ref> a "short passing style in which the ball is worked carefully through various channels",<ref name="hynter">{{cite news |title=Fábregas takes positive view, from the bench |url=https://www.theguardian.com/football/2008/jun/10/euro2008.euro2008groupd |work=[[The Guardian]] |date=10 June 2008 |access-date=13 July 2010 |archive-date=19 February 2014 |archive-url=https://web.archive.org/web/20140219023311/http://www.theguardian.com/football/2008/jun/10/euro2008.euro2008groupd |url-status=live }}</ref> and a "nonsensical phrase that has come to mean short passing, patience and possession above all else".<ref name="lowe_2008-06">{{cite news |url=https://www.theguardian.com/sport/blog/2008/jul/02/thedefinitivestoryofhowar |title=The definitive story of how Aragonés led Spain to Euro 2008 glory |work=[[The Guardian]] |date=2 July 2008 |access-date=13 July 2010 |archive-date=18 February 2014 |archive-url=https://web.archive.org/web/20140218225414/http://www.theguardian.com/sport/blog/2008/jul/02/thedefinitivestoryofhowar |url-status=live }}</ref> The style involves roaming movement and positional interchange amongst [[midfielder]]s, moving the ball in intricate patterns,<ref name="pearce">{{cite news |title=If Spain can reign it will be so good for the old game |url=https://www.mirror.co.uk/sport/archive/jonathan-pearce/2008/06/29/if-spain-can-reign-it-will-be-so-good-for-the-old-game-115875-20625290/ |work=[[Sunday Mirror]] |date=29 June 2008 |access-date=13 July 2010 |archive-date=5 May 2021 |archive-url=https://web.archive.org/web/20210505160857/https://www.mirror.co.uk/sport/football/if-spain-can-reign-it-will-be-so-good-for-the-old-315734 |url-status=live }}</ref> and sharp, one or two-touch passing.<ref name="tiki-taka">{{cite news |url=https://www.goal.com/en-us/news/what-is-tiki-taka-barcelona-spain-tactics/5f3qumd4uank198jwik1ww8mr |title=What is tiki-taka? How tactics made famous by Barcelona and Spain work |publisher=Goal |date=8 May 2020 |access-date=12 October 2020 |archive-date=1 September 2020 |archive-url=https://web.archive.org/web/20200901031808/https://www.goal.com/en-us/news/what-is-tiki-taka-barcelona-spain-tactics/5f3qumd4uank198jwik1ww8mr |url-status=live }}</ref> Tiki-taka is "both defensive and offensive in equal measure"&nbsp;– the team is always in possession, so doesn't need to switch between defending and attacking.<ref name="honigstein">{{cite news |url=http://www.cbc.ca/sports/soccer/fifaworldcup/blog/2010/07/why-spain-were-anything-but-boring.html |title=Why Spain were anything but boring |publisher=[[CBC.ca]] |date=8 July 2010 |access-date=13 July 2010 |url-status=dead |archive-url=https://web.archive.org/web/20120101223713/http://www.cbc.ca/sports/soccer/fifaworldcup/blog/2010/07/why-spain-were-anything-but-boring.html |archive-date=1 January 2012}}</ref> Commentators have contrasted tiki-taka with "[[Glossary of association football terms#R|Route One]] physicality"<ref name="marcotti"/> and with the higher-tempo passing of [[FC Barcelona|Barcelona]] and [[Arsène Wenger]]'s 2007–08 [[Arsenal F.C.|Arsenal]] side, which employed Cesc Fàbregas as the only channel between defence and attack.<ref name="hynter"/> Tiki-taka is associated with flair, creativity, and touch,<ref name="clegg">{{cite news |title=Fantasy football comes alive |url=https://www.wsj.com/articles/SB10001424052702304739104575154031572698008 |work=[[The Wall Street Journal]] |date=31 March 2010 |access-date=13 July 2010 |archive-date=5 February 2016 |archive-url=https://web.archive.org/web/20160205020513/http://www.wsj.com/articles/SB10001424052702304739104575154031572698008 |url-status=live }}</ref> but can also be taken to a "slow, directionless extreme" that sacrifices effectiveness for aesthetics.<ref name="lowe_2008-06"/>
+
+Tiki-taka was successfully employed by Spain to win [[UEFA Euro 2008|Euro 2008]], the [[2010 FIFA World Cup|2010 World Cup]] and [[UEFA Euro 2012|Euro 2012]]. The 2008–12 teams are regarded as being among the greatest of international teams in football history.<ref name="Independent"/><ref name="BBC 2012"/><ref name="BBC Sport"/>
+
+{{Blockquote|They have the Barcelona "carousel" of [[Xavi (footballer, born 1980)|Xavi]] and [[Andrés Iniesta]] augmented by Real Madrid's [[Xabi Alonso]] in midfield.|Phil McNulty of the [[BBC]] on the midfield players at the heart of Spain's tiki-taka passing style of play.<ref name="BBC 2012"/>}}
+
+[[Sid Lowe]] identifies [[Luis Aragonés]]' tempering of tiki-taka with pragmatism as a key factor in Spain's success in Euro 2008. Aragonés used tiki-taka to "protect a defense that appeared suspect [...], maintain possession and dominate games" without taking the style to "evangelical extremes". None of Spain's first six goals in the tournament came from tiki-taka: five came from direct breaks and one from a set play.<ref name="lowe_2008-06"/> For Lowe, Spain's success in the 2010 World Cup was evidence of the meeting of two traditions in Spanish football: the "powerful, aggressive, direct" style that earned the silver medal-winning [[Football at the 1920 Summer Olympics|1920 Antwerp Olympic]] team the nickname ''La furia española'' ({{gloss|The Spanish Fury}}) and the tiki-taka style of the contemporary Spain's team, which focused on a collective, short-passing, technical and possession-based game.<ref name="lowe_2010-06">{{cite news |url=http://sportsillustrated.cnn.com/2010/soccer/world-cup-2010/writers/sid_lowe/07/09/spain.final/index.html |title=Spain's "Tiki-taka" style dominates |publisher=[[Sports Illustrated|SI.com]] |date=9 July 2010 |access-date=13 July 2010 |archive-date=12 July 2010 |archive-url=https://web.archive.org/web/20100712114828/http://sportsillustrated.cnn.com/2010/soccer/world-cup-2010/writers/sid_lowe/07/09/spain.final/index.html |url-status=live }}</ref>
+
+Analyzing Spain's [[2010 FIFA World Cup knockout stage#Germany vs Spain|semi-final victory over Germany at the 2010 World Cup]], [[Raphael Honigstein]] described Spain's tiki-taka style as "the most difficult version of football possible: an uncompromising passing game, coupled with intense, high pressing". For Honigstein, tiki-taka is "a significant upgrade" of the Netherlands' [[Total Football]] because it relies on ball movement rather than players switching position. Tiki-taka allowed Spain to "control both the ball and the opponent".<ref name="honigstein" />
+
+[[File:Celebrando la cuarta Eurocopa de la selección española. Madrid, 15 de julio de 2024.jpg|thumb|right|Spain, [[UEFA Euro 2024]] winners]] Spain held possession of ball more than their opponents in all matches from 2008 to 2024, a record of 136 games.<ref name="tactification">{{cite news |url=https://tactification.com/post/46/Fading%20tiki-taka. |title=Fading tiki-take |publisher=tactification.com |date=17 June 2024}}</ref>
+
+{{Blockquote|We have the same idea as each other. Keep the ball, create movement around and off the ball, get in the spaces to cause danger.|[[Xabi Alonso]] (Spanish midfielder)<ref name="tiki-taka"/>}}
+
+===Kits and crest===
+{{Commons|Spain national football team kits}}
+Spain's home kit is traditionally a red jersey with yellow trim, dark blue shorts, and black socks, whilst their current away kit is predominantly yellow, having been white traditionally. The color of the home socks started to alter throughout the 1990s from black to the same blue color as the shorts, then matching either the blue of the shorts or the red of the shirt until the mid-2010s when they returned to their traditional black before continuing the rotation in the 2020s. Spain's kits have been produced by manufacturers including [[Adidas]] (from 1981 until 1983), [[Le Coq Sportif]] (from 1984 until 1990) and Adidas once again (since 1991). Rather than displaying the logo of the Spanish Football Federation, Spain's jersey traditionally features the [[coat of arms of Spain|country's coat of arms]] over the left side. After winning the 2010 World Cup, the World Cup winners badge was added to the right side of the jersey and a golden star at the top of Spain's coat of arms.
+
+====Kit suppliers====
+[[File:Spain football team in 2025.jpg|380px|thumb|right|Spain on 4 September 2025]]
+
+{| class="wikitable" style="text-align: left" 
+|-
+!Kit supplier
+!Period
+!Notes
+|-
+|''None''
+|1920–1935
+|
+|-
+|{{flagicon|Spain|1945}} Deportes Cóndor
+|1935–1966
+|
+|-
+|{{flagicon|England}} [[Umbro]]
+|1966
+|
+|-
+|{{flagicon|Spain|1977}} Deportes Cóndor
+|1967–1981
+|
+|-
+|{{flagicon|West Germany}} [[Adidas]]
+|1981–1983
+|
+|-
+|{{flagicon|France|1974}} [[Le Coq Sportif]]
+|1984–1990
+|
+|-
+|{{flagicon|Germany}} [[Adidas]]
+|1991–present
+|Current until 2030<ref>{{cite web |url=https://as.com/futbol/2019/11/11/seleccion/1573463793_329932.html |title=Oficial: España renueva con Adidas hasta 2030 |publisher=as.com |language=es |date=11 November 2019 |access-date=5 December 2019 |archive-date=5 December 2019 |archive-url=https://web.archive.org/web/20191205132419/https://as.com/futbol/2019/11/11/seleccion/1573463793_329932.html |url-status=live }}</ref><ref>{{Cite web|url=https://www.footyheadlines.com/2015/09/adidas-extends-spain-kit-deal.html|title=Adidas Extends Spain Kit Deal|access-date=4 February 2019|archive-date=4 February 2019|archive-url=https://web.archive.org/web/20190204174413/https://www.footyheadlines.com/2015/09/adidas-extends-spain-kit-deal.html|url-status=live}}</ref>
+|}
+
+===Home stadium===
+{{Main|List of football stadiums in Spain}}
+
+Spain does not have a designated [[List of national stadiums|national stadium]]. The capital city of [[Madrid]] ([[Santiago Bernabéu Stadium|Bernabéu]] and [[Metropolitano Stadium|Metropolitano]]), [[Seville]] ([[Ramón Sánchez Pizjuán Stadium|Pizjuán]], [[Estadio Benito Villamarín|Villamarín]] and [[Estadio de La Cartuja|La Cartuja]]), [[Valencia]] ([[Mestalla Stadium|Mestalla]] and [[Estadi Ciutat de València|Orriols]]) and [[Barcelona]] ([[Camp Nou]] and [[Estadi Olímpic Lluís Companys|Montjuïc]]), are the four Spanish cities that have hosted more than 15 [[Spain national football team results#Venues in Spain|national team matches]], while also being home to the largest stadiums in the country.<ref>{{cite web |url=https://www.elespanol.com/deportes/futbol/mundial/20170906/244726509_0.html |title=Cuatro razones por las que la selección no tenga sede fija |publisher=elespanol.com |language=es |date=7 September 2017 |access-date=6 September 2018 |archive-date=6 September 2018 |archive-url=https://web.archive.org/web/20180906090705/https://www.elespanol.com/deportes/futbol/mundial/20170906/244726509_0.html |url-status=live }}</ref>
+
+Other friendly matches, as well as qualifying fixtures against smaller opponents, are played in provincial stadia. The [[2018 FIFA World Cup qualification]] campaign included matches at the [[Estadio Reino de León|Reino de León]] in [[León, Spain|León]],<ref>{{cite news |last1=Bell |first1=Arch |title=Exhibition from Spain in win vs Liechtenstein |url=http://www.marca.com/en/football/spanish-football/2016/09/05/57cdda0322601da2348b458a.html |access-date=27 July 2018 |work=Marca |date=5 September 2016 |archive-date=27 July 2018 |archive-url=https://web.archive.org/web/20180727181232/http://www.marca.com/en/football/spanish-football/2016/09/05/57cdda0322601da2348b458a.html |url-status=live }}</ref> [[Nuevo Estadio de Los Cármenes|Los Cármenes]] in [[Granada]],<ref>{{cite news |url=https://en.as.com/en/2017/06/11/football/1497177983_831312.html |title=Macedonia 1–2 Spain 2018 World Cup Group G qualifier |publisher=Diario AS |access-date=27 July 2018 |date=11 June 2017 |archive-date=27 July 2018 |archive-url=https://web.archive.org/web/20180727183154/https://en.as.com/en/2017/06/11/football/1497177983_831312.html |url-status=live }}</ref> [[El Molinón]] in [[Gijón]],<ref>{{cite news |url=https://en.as.com/en/2017/03/22/opinion/1490173693_672952.html |title=Israel arrive in Gijón with controversy in the air |work=Diario AS |access-date=27 July 2018 |date=22 March 2017 |archive-date=27 July 2018 |archive-url=https://web.archive.org/web/20180727185810/https://en.as.com/en/2017/03/22/opinion/1490173693_672952.html |url-status=live }}</ref> and the [[Estadio José Rico Pérez|Rico Pérez]] in [[Alicante]].<ref>{{cite news |title=Spain 3–0 Albania |url=https://www.bbc.co.uk/sport/football/41500230 |publisher=BBC Sport |access-date=27 July 2018 |date=6 October 2017 |archive-date=2 October 2018 |archive-url=https://web.archive.org/web/20181002030340/https://www.bbc.co.uk/sport/football/41500230 |url-status=live }}</ref>
+
+===Media coverage===
+Spain's [[UEFA Nations League]], [[UEFA European Championship qualifying|UEFA European Qualifiers]] and all friendly matches, are televised nationwide by [[La 1 (Spanish TV channel)|La 1]], flagship television channel of the public broadcaster [[Televisión Española|TVE]].<ref>{{cite web |url=http://www.rtve.es/rtve/20170928/comision-mixta-control-parlamentario-corporacion-rtve/1623714.shtml |title=TVE adquiere los derechos de la selección nacional de fútbol hasta 2022 |publisher=[[RTVE]] |language=es |date=28 September 2017 |access-date=21 June 2018 |archive-date=21 June 2018 |archive-url=https://web.archive.org/web/20180621195523/http://www.rtve.es/rtve/20170928/comision-mixta-control-parlamentario-corporacion-rtve/1623714.shtml |url-status=live }}</ref>
+
+==Rivalries==
+Spain has rivalries with seven countries, four of them being Europe's "[[Big Five (association football)|Big Five]]" nations and the others with its [[Iberian Peninsula|Iberian]] neighbour Portugal, the Netherlands,{{Citation needed|date=November 2025}} and its southern neighbour Morocco.<ref>{{Cite news |date=2023-11-15 |title=A rivalry heated by history - the significance of Morocco's World Cup win over Spain |url=https://www.bbc.com/sport/football/67381781 |access-date=2026-07-08 |work=BBC Sport |language=en-GB}}</ref>
+
+* Their [[Italy–Spain football rivalry|rivalry with Italy]], sometimes referred to as the "[[Mediterranean Sea|Mediterranean]] derby", has been contested since 1920.<ref>{{cite web |url=https://www.marca.com/futbol/eurocopa/2024/06/20/6674036e22601d55438b459a.html |title=Cuántas veces se ha enfrentado España contra Italia |publisher=marca.com |language=es |date=20 June 2024}}</ref><ref>{{cite web |url=https://www.rtve.es/play/videos/eurocopa/espana-italia-ganador-derbi-mediterraneo/16155925/ |title=España - Italia, se busca ganador en el "derbi del mediterráneo" |publisher=rtve.es |language=es |date=20 June 2024}}</ref> Their first meeting was at the [[Football at the 1920 Summer Olympics|Olympic Games]], in a 2–0 triumph for Spain on 2 September 1920 in [[Antwerp]].<ref>{{cite web |url=https://www.panenka.org/pasaportes/recuerdos-de-1920-el-primer-duelo-entre-espana-e-italia/ |title=Recuerdos de 1920: el primer duelo entre España e Italia |publisher=panenka.org |language=es |date=20 June 2024}}</ref> Although the two nations are not immediate geographical neighbours, their rivalry at international level is enhanced by the strong performances of the representative clubs in UEFA competitions, in which they are among the leading associations and have each enjoyed spells of dominance.<ref>{{cite web|url=https://www.uefa.com/uefachampionsleague/news/0221-0e90f12ba364-721598ff6e28-1000--spain-v-italy-uefa-champions-league-finals/|title=Spain v Italy: UEFA Champions League finals|publisher=[[UEFA]]|date=28 May 2015|access-date=29 June 2018|archive-url=https://web.archive.org/web/20180630180108/https://www.uefa.com/uefachampionsleague/news/newsid=2249326.html|archive-date=30 June 2018|url-status=live}}</ref><ref>{{cite web|url=https://forzaitalianfootball.com/2017/06/cambiasso-juventus-only-italian-club-that-lose-to-the-spanish/|title=Cambiasso: Juventus only Italian club that lose to the Spanish|website=Forza Italian Football|date=23 June 2017|access-date=29 June 2018|archive-url=https://web.archive.org/web/20180629102444/https://forzaitalianfootball.com/2017/06/cambiasso-juventus-only-italian-club-that-lose-to-the-spanish/|archive-date=29 June 2018|url-status=live}}</ref> Since the quarter-final match between the two countries at [[UEFA Euro 2008|Euro 2008]], the rivalry has renewed, with its most notable match between the two sides being in the [[UEFA Euro 2012 final]], which Spain won 4–0.<ref>{{cite web |url=https://www.uefa.com/uefaeuro/match/2003351--spain-vs-italy/ |title=Spain 4-0 Italy |website=[[UEFA]] |access-date=1 July 2012}}</ref><ref>{{cite web |url=https://www.uefa.com/uefaeuro/history/news/0252-0cdc4f07099d-36a02f333f87-1000--spain-overpower-exhausted-italy-to-win-uefa-euro-2012-final/ |title=Spain overpower exhausted Italy to win UEFA EURO 2012 final |website=[[UEFA]] |date=1 July 2012}}</ref><ref>{{cite news |first=Phil |last=McNulty |title=Spain 4–0 Italy |url=https://www.bbc.co.uk/sport/football/18355496 |work=BBC Sport |publisher=British Broadcasting Corporation |date=1 July 2012 |access-date=26 August 2012 |archive-url=https://web.archive.org/web/20120826213123/http://www.bbc.co.uk/sport/0/football/18355496 |archive-date=26 August 2012 |url-status=live }}</ref> Spain has the advantage in the head-to-head, with 14 wins, 16 draws, and 11 losses, after 41 games, but both teams evenly split with 6 wins each when only competitive matches are counted.
+
+* Their [[Portugal–Spain football rivalry|rivalry with Portugal]], also known as the "[[Iberian Peninsula|Iberian]] derby", has been contested since 1921.<ref>{{cite web |url=https://as.com/opinion/2020/10/07/portada/1602024003_698414.html |title=Portugal-España, un Clásico europeo |publisher=as.com |language=es |date=7 October 2020}}</ref> Their first meeting was a 3–1 triumph for Spain on 18 December 1921 in Madrid, the first ever international game for the Portuguese. Portugal had first draw in 1926, and their first win (4–1) in 1947. In this friendly rivalry, Spain dominates the head-to-head record with 18 victories, 18 draws, and 6 losses, after 42 games. They also lead Portugal in competitive matches, with 6 wins to Portugal's 1 with 6 draws.<ref>{{cite web |url=https://www.nytimes.com/2010/06/30/sports/soccer/30portugalfans.html |title=Portugal's Fans in Spain Enjoy Friendly Rivalry |work=[[The New York Times]] |date=29 June 2010}}</ref> Their last competitive match resulted in a 1–0 win for Spain during the [[2026 FIFA World Cup#Round of 16|2026 FIFA World Cup round of 16]].
+
+* Their [[France–Spain football rivalry|rivalry with France]], sometimes referred to as the "[[Pyrenees|Pyrenean]] derby", has been contested since 1922.<ref>{{cite web |url=https://www.marca.com/futbol/eurocopa/2024/07/08/668bbed646163f7ab58b459c.html |title=¿Cuántas veces ha jugado España contra Francia y quién ha ganado más partidos? |publisher=marca.com |language=es |date=8 July 2024}}</ref> Their first meeting was a 4–0 triumph for Spain on 30 April 1922 in [[Bordeaux]],<ref>{{cite web |url=https://www.rtve.es/deportes/20211009/uefa-nations-league-espana-francia-historia/2185500.shtml |title=España y Francia, historia de una rivalidad de ida y vuelta entre vecinos |publisher=rtve.es |language=es |date=9 October 2021}}</ref> though their first competitive meeting came in the [[UEFA Euro 1984 final]], which France won to receive their first international trophy.<ref>{{cite web |url=https://www.uefa.com/uefaeuro/match/3463--france-vs-spain/ |title=France 2-0 Spain |website=[[UEFA]] |date=27 June 1984}}</ref><ref>{{cite web |url=https://www.uefa.com/uefaeuro/history/news/0253-0d7b30962789-a31ae5d66fac-1000--platini-fires-hosts-france-to-euro-1984-final-glory-against-/ |title=Platini fires hosts France to EURO 1984 final glory against Spain |website=[[UEFA]] |date=4 October 2003}}</ref><ref>{{cite web |url=https://www.theringer.com/soccer/2021/10/11/22720816/france-spain-mbappe-benzema-prelude-to-epic-rivalry |title=France's Win Over Spain Was a Prelude to an Epic Rivalry in the Making |work=The Ringer |last=Okwonga |first=Musa |date=11 October 2021 |access-date=20 October 2021 |archive-date=22 October 2021 |archive-url=https://web.archive.org/web/20211022064645/https://www.theringer.com/soccer/2021/10/11/22720816/france-spain-mbappe-benzema-prelude-to-epic-rivalry |url-status=live }}</ref> Spain has the advantage in the head-to-head, with 17 wins, 7 draws, and 13 losses, after 37 games. France has a slight advantage in competitive matches, with 6 wins compared to  4 of Spain. However, Spain leads in the 21st century, with 8 victories out of 12 matches between both teams.<ref>{{Cite web |date=2025-06-05 |title=Ligue des nations : domptés par Yamal et l'Espagne au terme d'un match fou, les Bleus disent adieu à la finale |url=https://www.lefigaro.fr/sports/football/ligue-des-nations/ligue-des-nations-domptes-par-yamal-et-l-espagne-au-terme-d-un-match-fou-les-bleus-disent-adieu-a-la-finale-20250605 |access-date=2025-06-05 |website=Le Figaro |language=fr}}</ref>
+
+* Their rivalry with [[England national football team|England]] has been contested since 1929. Their first meeting was a 4–3 victory for Spain on 15 May 1929 in Madrid, the first ever English defeat outside the British Isles.<ref name="esp-eng">{{cite web |url=https://www.marca.com/futbol/seleccion/2024/07/14/66923fa146163f9f438b457a.html |title=Las historias de los duelos entre España e Inglaterra |publisher=marca.com |language=es |date=14 July 2024}}</ref> The first of their nine competitive fixtures came at the [[1950 FIFA World Cup|1950 World Cup]] in [[Maracanã Stadium|Maracanã]], where Spain won 1–0 with a [[Telmo Zarra]] legendary goal.<ref>{{cite web |url=https://www.marca.com/2012/07/02/futbol/tuneldeltiempo/1341213891.html |title=El histórico gol de Zarra ante Inglaterra |publisher=marca.com |language=es |date=2 July 2012}}</ref> In  another World Cup meeting in [[1982 FIFA World Cup|1982]], Spain received England as hosts at the [[Santiago Bernabéu Stadium|Bernabéu]], in a second round stage match ended 0–0.<ref>{{cite web |url=https://supersport.com/football/uefa-euro/news/8578ede6-ae5e-4638-93b8-9a3f59b55304/a-rare-rivalry-past-spain-v-england-clashes |title=A rare rivalry: Past Spain v England clashes |publisher=supersport.com |date=13 July 2024}}</ref> One year before, in 1981, Spain achieved its first victory at [[Wembley Stadium|Wembley]].<ref>{{cite news |url=https://elpais.com/diario/1981/03/26/deportes/354409206_850215.html |title=Primera victoria de España en Wembley |publisher=elpais.com |language=es |date=26 March 1981}}</ref> At the European Championship, they have met three times. In [[UEFA Euro 1980|1980]], England won 2–1, sixteen years before [[UEFA Euro 1996|a quarter-final]] at [[Wembley Stadium]] ended 0–0 after extra time with England advancing on penalties.<ref>{{cite web |url=https://www.fourfourtwo.com/features/euro-96-england-spain-complete-history-penalty-shootout-quarter-final-stuart-pearce-david-seaman |title=Euro 96: England overcome shootout fear |publisher=fourfourtwo.com |date=24 May 2024}}</ref> At the [[UEFA Euro 2024 final]], with England were aiming to win their first European title, the Spaniards won 2–1 in Berlin, winning a record fourth Euros.<ref>{{cite web |url=https://www.uefa.com/euro2024/match/2036211--spain-vs-england/ |title=Spain 2-1 England |website=[[UEFA]] |access-date=14 July 2024}}</ref><ref>{{cite web |url=https://www.uefa.com/euro2024/news/0284-18bb952a9458-2a9e1ff202c4-1000--euro-2024-final-who-was-in-it-when-and-where-was-it/ |title=EURO 2024 final: Who was in it? When and where was it? |website=[[UEFA]] |date=14 July 2024}}</ref><ref name="bbc_2024final"/> The head-to-head result for Spain is 11 wins, 4 draws and 13 losses, after 28 games.<ref>{{cite web |url=https://eu-football.info/_matches.php?id=185&oppo=60 |title=Spain vs England Head to Head |publisher=eu-football.info |date=14 July 2024}}</ref><ref name="esp-eng"/>
+
+* Their rivalry with [[Germany national football team|Germany]] has been contested since 1935. Their first meeting was a 2–1 victory for Spain on 12 May 1935 in [[Cologne]].<ref>{{cite web |url=https://www.marca.com/futbol/eurocopa/2024/07/04/66866a00268e3e4c588b45f5.html |title=¿Cuántas veces ha jugado España contra Alemania y quién ha ganado más partidos? |publisher=marca.com |language=es |date=5 July 2024}}</ref> Spain met a German side for the first time in a competitive fixture in 1966, as part of the [[1966 FIFA World Cup|1966 World Cup]], where West Germany (competing separately from East Germany at the time) came back to win 2–1.<ref>{{Cite web |title=West Germany 2 vs. Spain 1 in the 1966 World Cup |url=https://www.thesoccerworldcups.com/games/1966_west_germany_spain.php |access-date=2023-08-16 |website=www.thesoccerworldcups.com |archive-date=16 August 2023 |archive-url=https://web.archive.org/web/20230816210645/https://www.thesoccerworldcups.com/games/1966_west_germany_spain.php |url-status=live }}</ref> Since the [[Reunification of Germany|German reunification]] in 1990, Spain has remained undefeated in competitive fixtures against Germany, winning 1–0 the [[UEFA Euro 2008 final]],<ref>{{cite web |url=https://www.uefa.com/uefaeuro/match/301696--germany-vs-spain/ |title=Germany 0-1 Spain |website=[[UEFA]] |access-date=29 June 2008}}</ref><ref>{{cite web |url=https://www.uefa.com/uefaeuro/history/news/0253-0d7bf22a29ef-26dfed1fc03e-1000--torres-ends-spain-s-long-wait-for-glory-in-euro-2008-final/ |title=Torres ends Spain's long wait for glory in EURO 2008 final win against Germany |website=[[UEFA]] |date=29 June 2008}}</ref> 0–1 the [[2010 FIFA World Cup|2010 World Cup]] semi-final, 6–0 in the [[2020–21 UEFA Nations League A|2020–21 Nations League]],<ref>{{Cite web |url=https://www.uefa.com/uefanationsleague/news/0263-10e0deac835c-e649fb6bdb8c-1000--spain-6-0-germany-hosts-reach-finals-in-sensational-style/ |title=Spain 6–0 Germany: Hosts reach finals in sensational style |website=[[UEFA]] |date=2020-11-17 |access-date=2023-08-16 |language=en |archive-date=16 August 2023 |archive-url=https://web.archive.org/web/20230816210645/https://www.uefa.com/uefanationsleague/news/0263-10e0deac835c-e649fb6bdb8c-1000--spain-6-0-germany-hosts-reach-finals-in-sensational-style/ |url-status=live }}</ref> and most recently in the [[UEFA Euro 2024|Euro 2024]] quarter-finals, 2–1 against the hosts after extra-time.<ref>{{cite web |url=https://www.uefa.com/euro2024/news/028f-1b4c0eace715-d70920033715-1000--spain-2-1-germany-after-extra-time-late-merino-header-sends-/ |title=Spain 2-1 Germany (after extra time): Late Merino header sends La Roja through to semi-finals |publisher=[[UEFA]] |date=5 July 2024}}</ref> The head-to-head result is a tie with 9 wins each and 9 draws, after 27 games.
+
+* Their rivalry with [[Netherlands national football team|Netherlands]], is one that has developed in recent years. Their first significant meeting came in the “final” of the [[1920 Summer Olympics]], where Spain defeated the Dutch 3–1 to win their first silverware in history. The team would meet again in another final 90 years later, this at the [[2010 FIFA World Cup]]. In a very heated contest, marked by many fouls by the Dutch side, Spain would win their first ever World Cup. Spain and the Netherlands would not see each other again until four years later in the group stage of the [[2014 FIFA World Cup]]; in a rematch of the 2010 final, the Dutch handed Spain their biggest defeat in 60 years as they won 5–1. Their next competitive game came in the [[2024–25 UEFA Nations League|2025 edition]] of the Nations League, where Spain would go on to win the penalty shootout and eliminating the Dutch from the tournament.
+
+* Their rivalry with [[Morocco national football team|Morocco]] has also developed in recent years, for reasons related to both sporting and non-sporting matters.<ref>{{Cite news |date=2023-11-15 |title=A rivalry heated by history - the significance of Morocco's World Cup win over Spain |url=https://www.bbc.com/sport/football/67381781 |access-date=2026-07-08 |work=BBC Sport |language=en-GB}}</ref> Before the 21st century, both teams had only met in two competitive matches in the [[1962 FIFA World Cup qualification#CAF v UEFA|1962 World Cup qualification]], with Spain winning both matches. It would not be until the [[2018 FIFA World Cup]] that both teams would meet again in an official match after being placed together in the same group, with their match ending in a 2–2 draw. Four years later, in the [[2022 FIFA World Cup]], both teams met again in the round of 16, resulting in Morocco eliminating Spain in the penalty shootout. Both countries, along with Portugal, will serve as hosts for the [[2030 FIFA World Cup]], with conflict arising over who should host the final match.<ref>{{Cite web |date=2026-04-05 |title=Who will come out on top? Fierce rivalry between Morocco and Spain ahead of the 2030 World Cup {{!}} Goal.com |url=https://www.goal.com/en/lists/who-will-come-out-on-top-fierce-rivalry-between-morocco-and-spain-ahead-of-the-2030-world-cup/blt039ea9de84f292bd |access-date=2026-07-08 |website=www.goal.com |language=en}}</ref>
+
+==Results and fixtures==
+{{For-text|all past match results of the national team|single-season articles, and [[Spain national football team results]]}}
+{{Further|2025–26 in Spanish football|2026–27 in Spanish football}}
+
+The following is a list of match results in the last 12 months, as well as any future matches that have been scheduled.
+
+{{legend2|#CCFFCC|Win|border=1px solid #AAAAAA}}
+{{legend2|#FFFFCC|Draw|border=1px solid #AAAAAA}}
+{{legend2|#FFCCCC|Loss|border=1px solid #AAAAAA}}
+{{legend2|#FFFFFF|Fixture|border=1px solid #AAAAAA}}
+
+===2025===
+{{football box collapsible
+|format=1
+|date              = 4 September
+|time              = 21:45 [[Eastern European Summer Time|EEST]] 
+|round             = [[2026 FIFA World Cup qualification – UEFA Group E|2026 FIFA World Cup qualification]]
+|team1             = {{fb-rt|BUL}}
+|score             = 0–3
+|report            = https://www.uefa.com/european-qualifiers/match/2044212/
+|team2             = {{fb|ESP}} 
+|goals1            =
+|goals2            =
+*[[Mikel Oyarzabal|Oyarzabal]] {{goal|5}}
+*[[Marc Cucurella|Cucurella]] {{goal|30}}
+*[[Mikel Merino|Merino]] {{goal|38}}
+*[[Robin Le Normand|Le Normand]] {{yel|39}}
+|stadium           = [[Vasil Levski National Stadium]]
+|location          = [[Sofia]], Bulgaria
+|attendance        = 40,582
+|referee           = [[Srđan Jovanović (referee)|Srđan Jovanović]] ([[Football Association of Serbia|Serbia]])
+|result            = W
+}}
+{{football box collapsible
+|format=1
+|date              = 7 September
+|time              = 21:45 [[Time in Turkey|TRT]] 
+|round             = [[2026 FIFA World Cup qualification – UEFA Group E|2026 FIFA World Cup qualification]]
+|team1             = {{fb-rt|TUR}}
+|score             = 0–6
+|report            = https://www.uefa.com/european-qualifiers/match/2044234/
+|team2             = {{fb|ESP}}
+|goals1            =
+|goals2            =
+*[[Pedri]] {{goal|6||62}}
+*[[Mikel Merino|Merino]] {{goal|22||45+1||57}}
+*[[Ferran Torres|Torres]] {{goal|53}}
+|stadium           = [[Konya Metropolitan Municipality Stadium]]
+|location          = [[Konya]], Turkey
+|attendance        = 32,059
+|referee           = [[Michael Oliver (referee)|Michael Oliver]] ([[The Football Association|England]])
+|result            = W
+}}
+{{football box collapsible
+|format=1
+|date              = 11 October
+|time              = 20:45 [[Central European Summer Time|CEST]] 
+|round             = [[2026 FIFA World Cup qualification – UEFA Group E|2026 FIFA World Cup qualification]]
+|team1             = {{fb-rt|ESP}}
+|score             = 2–0
+|report            = https://www.uefa.com/european-qualifiers/match/2044275/
+|team2             = {{fb|GEO}}
+|goals1            =
+*[[Yeremy Pino|Pino]] {{goal|24}}
+*[[Mikel Oyarzabal|Oyarzabal]] {{goal|64}}
+|goals2            =
+|stadium           = [[Estadio Martínez Valero]]
+|location          = [[Elche]], Spain
+|attendance        = 28,661
+|referee           = Manfredas Lukjančukas ([[Lithuanian Football Federation|Lithuania]])
+|result            = W
+}}
+{{football box collapsible
+|format=1
+|date              = 14 October
+|time              = 20:45 [[Central European Summer Time|CEST]] 
+|round             = [[2026 FIFA World Cup qualification – UEFA Group E|2026 FIFA World Cup qualification]]
+|team1             = {{fb-rt|ESP}} 
+|score             = 4–0
+|report            = https://www.uefa.com/european-qualifiers/match/2044299/
+|team2             = {{fb|BUL}}
+|goals1            =
+*[[Mikel Merino|Merino]] {{goal|35||57}}
+*[[Atanas Chernev|Chernev]] {{goal|79|o.g.}}
+*[[Mikel Oyarzabal|Oyarzabal]] {{goal|90+2|pen.}} 
+|goals2            =
+|stadium           = [[José Zorrilla Stadium]]
+|location          = [[Valladolid]], Spain
+|attendance        = 24,526
+|referee           = [[Willy Delajod]] ([[French Football Federation|France]])
+|result            = W
+}}
+{{football box collapsible
+|format=1
+|date              = 15 November
+|time              = 21:00 [[Georgia Time|GET]]
+|round             = [[2026 FIFA World Cup qualification – UEFA Group E|2026 FIFA World Cup qualification]]
+|team1             = {{fb-rt|GEO}}
+|score             = 0–4
+|report            = https://www.uefa.com/european-qualifiers/match/2044325/
+|team2             = {{fb|ESP}}
+|goals1            =
+|goals2            =
+*[[Mikel Oyarzabal|Oyarzabal]] {{goal|11|pen|63}}
+*[[Martín Zubimendi|Zubimendi]] {{goal|22}}
+*[[Ferran Torres|Torres]] {{goal|35}}
+|stadium           = [[Boris Paichadze Dinamo Arena]]
+|location          = [[Tbilisi]], Georgia
+|attendance        = 44,314
+|referee           = [[Benoît Bastien]] ([[French Football Federation|France]])
+|result            = W
+}}
+{{football box collapsible
+|format=1
+|date              = 18 November
+|time              = 20:45 [[Central European Time|CET]] 
+|round             = [[2026 FIFA World Cup qualification – UEFA Group E|2026 FIFA World Cup qualification]]
+|team1             = {{fb-rt|ESP}}
+|score             = 2–2
+|report            = https://www.uefa.com/european-qualifiers/match/2044351/
+|team2             = {{fb|TUR}}
+|goals1            =
+*[[Dani Olmo|Olmo]] {{goal|4}}
+*[[Mikel Oyarzabal|Oyarzabal]] {{goal|62}}
+|goals2            =
+*[[Deniz Gül|Gül]] {{goal|42}}
+*[[Salih Özcan|Özcan]] {{goal|54}}
+|stadium           = [[Estadio de La Cartuja]]
+|location          = [[Seville]], Spain
+|attendance        = 30,812
+|referee           = [[Felix Zwayer]] ([[German Football Association|Germany]])
+|result            = D
+}} 
+
+===2026===
+{{Football box collapsible
+|format     = 1
+|round      = [[Exhibition game#Association football|Friendly]]
+|date       = 27 March
+|time       = 21:00 [[Central European Time|CET]] 
+|team1      = {{fb-rt|ESP}}
+|score      = 3–0
+|team2      = {{fb|SRB}}
+|report     = https://www.uefa.com/european-qualifiers/friendlies/match/2048161--spain-vs-serbia/
+|goals1     =
+*[[Mikel Oyarzabal|Oyarzabal]] {{goal|16||44}}
+*[[Víctor Muñoz (footballer, born 2003)|Muñoz]] {{goal|72}}
+|goals2     =
+|location   = [[Villarreal]], Spain
+|stadium    = [[Estadio de la Ceramica]]
+|attendance = 20,482
+|referee    = Luis Godinho ([[Portuguese Football Federation|Portugal]])
+|result     = W
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[Exhibition game#Association football|Friendly]]
+|date       = 31 March
+|time       = 21:00 [[Central European Summer Time|CEST]] 
+|team1      = {{fb-rt|ESP}}
+|score      = 0–0
+|team2      = {{fb|EGY}}
+|report     = https://www.fifa.com/en/match-centre/match/cesdwwnxbc5fmajgroc0hqzy2/dezv8l0fzgcxtejl0dwmy1gyc/2m1wojm5bt709wu4kugtytxqs/52cm9g2ph41wy7jcvhjsbkc9g
+|goals1     =
+|goals2     =
+|location   = [[Cornellà de Llobregat]], Spain{{refn|The Egypt v Spain match, originally scheduled to be played at the [[Lusail Stadium]], [[Lusail]], was relocated to Spain due to the [[2026 Iran war]].|group="note"|name="Egypt v Spain"}}
+|stadium    = [[RCDE Stadium]]
+|attendance = 35,895
+|referee    = [[Georgi Kabakov]] ([[Bulgarian Football Union|Bulgaria]])
+|result     = D
+}}
+{{Football box collapsible 
+|format     = 1
+|round      = [[Exhibition game#Association football|Friendly]]
+|date       = 4 June
+|time       = 21:00 [[Central European Summer Time|CEST]]
+|team1      = {{fb-rt|ESP}}
+|score      = 1–1
+|team2      = {{fb|IRQ}}
+|report     = https://www.uefa.com/european-qualifiers/friendlies/match/2048301--spain-vs-iraq/
+|goals1     =
+* [[Ferran Torres|Torres]] {{goal|16}}
+|goals2     =
+* [[Merchas Doski|Doski]] {{goal|27}}
+|location   = [[A Coruña]], Spain
+|stadium    = [[Estadio Riazor]]
+|attendance = 30,423
+|referee    = {{ill|Florian Badstübner|de|Florian Badstübner}} ([[German Football Association|Germany]])
+|result     = D
+}}
+{{Football box collapsible 
+|format     = 1
+|round      = [[Exhibition game#Association football|Friendly]]
+|date       = 8 June
+|time       = 20:00 [[Central Standard Time|CST]]
+|team1      = {{fb-rt|PER}}
+|score      = 1–3
+|team2      = {{fb|ESP}}
+|report     = https://www.uefa.com/european-qualifiers/friendlies/match/2048200--peru-vs-spain/matchinfo/
+|goals1     = [[Jairo Vélez|Vélez]] {{goal|66}}
+|goals2     =
+*[[Mikel Oyarzabal|Oyarzabal]] {{goal|2}}
+*[[Pedri]] {{goal|32}}
+*[[Pedro Gallese|Gallese]] {{goal|55|o.g.}}
+|location   = [[Puebla (city)|Puebla]], Mexico
+|stadium    = [[Estadio Cuauhtémoc]]
+|attendance = 45,845
+|referee    = Fernando Hernández ([[Mexican Football Federation|Mexico]])
+|result     = W
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[2026 FIFA World Cup]] [[2026 FIFA World Cup Group H|Group H]]
+|date       = 15 June
+|time       = 12:00 [[Eastern Daylight Time|EDT]] 
+|team1      = {{fb-rt|ESP}}
+|score      = 0–0
+|team2      = {{fb|CPV}}
+|report     = https://www.fifa.com/en/match-centre/match/17/285023/289273/400021482
+|goals1     =
+|goals2     =
+|stadium    = [[Mercedes-Benz Stadium]]
+|location   = [[Atlanta]], [[Georgia (U.S. state)|Georgia]], United States
+|attendance = 67,640
+|referee    = [[Adham Makhadmeh]] ([[Jordan Football Association|Jordan]])
+|result     = D
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[2026 FIFA World Cup]] [[2026 FIFA World Cup Group H|Group H]]
+|date       = 21 June
+|time       = 12:00 [[Eastern Daylight Time|EDT]] 
+|team1      = {{fb-rt|ESP}}
+|score      = 4–0
+|team2      = {{fb|KSA}}
+|report     = https://www.fifa.com/en/match-centre/match/17/285023/289273/400021483
+|goals1     =
+*[[Lamine Yamal|Yamal]] {{goal|10}}
+*[[Mikel Oyarzabal|Oyarzabal]] {{goal|21||24}}
+*[[Hassan Al-Tambakti|Al-Tambakti]] {{goal|49|o.g.}}
+|goals2     =
+|stadium    = [[Mercedes-Benz Stadium]]
+|location   = [[Atlanta]], [[Georgia (U.S. state)|Georgia]], United States
+|attendance = 68,239
+|referee    = [[Raphael Claus]] ([[Brazilian Football Confederation|Brazil]])
+|result     = W
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[2026 FIFA World Cup Group H]]
+|date       = 26 June
+|time       = 18:00 [[Mountain Daylight Time|MDT]] 
+|team1      = {{fb-rt|URU}}
+|score      = 0–1
+|team2      = {{fb|ESP}}
+|report     = https://www.fifa.com/en/match-centre/match/17/285023/289273/400021484
+|goals1     =
+|goals2     =
+*[[Álex Baena|Baena]] {{goal|42}}
+|stadium    = [[Estadio Akron]]
+|location   = [[Zapopan]], Mexico
+|attendance = 45,065
+|referee    = [[Ismail Elfath]] ([[United States Soccer Federation|United States]])
+|result     = W
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[2026 FIFA World Cup]] [[2026 FIFA World Cup round of 32|Round of 32]]
+|date       = 2 July
+|time       = 12:00 [[Pacific Daylight Time|PDT]] 
+|team1      = {{fb-rt|ESP}}
+|score      = 3–0
+|team2      = {{fb|AUT}}
+|report     = https://www.fifa.com/en/match-centre/match/17/285023/289287/400021519
+|goals1     =
+*[[Mikel Oyarzabal|Oyarzabal]] {{goal|36||89}}
+*[[Pedro Porro|Porro]] {{goal|66}}
+|goals2     =
+|stadium    = [[SoFi Stadium]]
+|location   = [[Inglewood, California|Inglewood]], [[California]], United States
+|attendance = 70,492
+|referee    = [[Glenn Nyberg]] ([[Swedish Football Association|Sweden]])
+|result     = W
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[2026 FIFA World Cup]] [[2026 FIFA World Cup knockout stage#Round of 16|Round of 16]]
+|date       = 6 July
+|time       = 14:00 [[Central Daylight Time|CDT]] 
+|team1      = {{fb-rt|POR}}
+|score      = 0–1
+|team2      = {{fb|ESP}}
+|report     = https://www.fifa.com/en/match-centre/match/17/285023/289288/400021529
+|goals1     =
+|goals2     =
+*[[Mikel Merino|Merino]] {{goal|90+1}}
+|stadium    = [[AT&T Stadium]]
+|location   = [[Arlington, Texas|Arlington]], [[Texas]], United States
+|attendance = 70,649
+|referee    = [[Anthony Taylor (referee)|Anthony Taylor]] ([[The Football Association|England]])
+|result     = W
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[2026 FIFA World Cup]] [[2026 FIFA World Cup knockout stage#Quarterfinals|Quarterfinal]]
+|date       = 10 July
+|time       = 12:00 [[Pacific Daylight Time|PDT]] 
+|team1      = {{fb-rt|ESP}}
+|score      = 2–1
+|team2      = {{fb|BEL}}
+|report     = https://www.fifa.com/en/match-centre/match/17/285023/289289/400021538
+|goals1 = 
+*[[Fabián Ruiz|Fabián]] {{goal|30}}
+*[[Mikel Merino|Merino]] {{goal|88}}
+|goals2 =
+*[[Charles De Ketelaere|De Ketelaere]] {{goal|41}}
+|stadium    = [[SoFi Stadium]]
+|location   = [[Inglewood, California|Inglewood]], [[California]], United States
+|attendance = 70,492
+|referee    = [[Michael Oliver (referee)|Michael Oliver]] ([[The Football Association|England]])
+|result     = W
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[2026 FIFA World Cup|2026 FIFA World Cup]] [[2026 FIFA World Cup knockout stage#Semifinals|Semifinal]]
+|date       = 14 July
+|time       = 14:00 [[Central Daylight Time|CDT]] 
+|team1      = {{fb-rt|FRA}}
+|score      = 
+|team2      = {{fb|ESP}}
+|report     = https://www.fifa.com/en/match-centre/match/17/285023/289290/400021541
+|goals1     =
+|goals2     =
+|stadium    = [[AT&T Stadium]]
+|location   = [[Arlington, Texas|Arlington]], [[Texas]], United States 
+|attendance = 
+|referee    = [[Iván Barton]] ([[Salvadoran Football Federation|El Salvador]])
+|result     = 
+}}
+{{football box collapsible
+|format     = 1
+|date       = 26 September
+|time       = {{UTZ|19:45|+1}}
+|round      = [[2026–27 UEFA Nations League A|2026–27 UEFA Nations League]]
+|score      = 
+|report     = https://www.uefa.com/uefanationsleague/match/2048018/
+|team1      = {{fb-rt|ENG}}
+|goals1     = 
+|team2      = {{fb|ESP}}
+|goals2     = 
+|stadium    = [[Wembley Stadium]]
+|location   = [[London]], England
+|attendance = 
+|referee    = 
+|result     = 
+}}
+{{football box collapsible
+|format     = 1
+|date       = 29 September
+|time       = {{UTZ|20:45|+2}}
+|round      = [[2026–27 UEFA Nations League A|2026–27 UEFA Nations League]]
+|score      = 
+|report     = https://www.uefa.com/uefanationsleague/match/2047999/
+|team1      = {{fb-rt|ESP}}
+|goals1     = 
+|team2      = {{fb|CRO}}
+|goals2     = 
+|stadium    = [[Ramón Sánchez-Pizjuán Stadium|Estadio Ramón Sánchez-Pizjuán]]
+|location   = [[Seville]], Spain
+|attendance = 
+|referee    = 
+|result     = 
+}}
+{{football box collapsible
+|format     = 1
+|date       = 3 October
+|time       = {{UTZ|20:45|+2}}
+|round      = [[2026–27 UEFA Nations League A|2026–27 UEFA Nations League]]
+|score      = 
+|report     = https://www.uefa.com/uefanationsleague/match/2047971/
+|team1      = {{fb-rt|ESP}}
+|goals1     = 
+|team2      = {{fb|CZE}}
+|goals2     = 
+|stadium    = [[Estadio Carlos Tartiere]]
+|location   = [[Oviedo]], Spain
+|attendance = 
+|referee    = 
+|result     = 
+}}
+{{football box collapsible
+|format     = 1
+|date       = 6 October
+|time       = {{UTZ|20:45|+2}}
+|round      = [[2026–27 UEFA Nations League A|2026–27 UEFA Nations League]]
+|score      = 
+|report     = https://www.uefa.com/uefanationsleague/match/2047946/
+|team1      = {{fb-rt|CRO}}
+|goals1     = 
+|team2      = {{fb|ESP}}
+|goals2     = 
+|stadium    = [[Stadion Poljud]]
+|location   = [[Split, Croatia|Split]], Croatia
+|attendance = 
+|referee    = 
+|result     = 
+}}
+{{football box collapsible
+|format     = 1
+|date       = 12 November
+|time       = {{UTZ|20:45|+1}}
+|round      = [[2026–27 UEFA Nations League A|2026–27 UEFA Nations League]]
+|score      = 
+|report     = https://www.uefa.com/uefanationsleague/match/2047872/
+|team1      = {{fb-rt|CZE}}
+|goals1     = 
+|team2      = {{fb|ESP}}
+|goals2     = 
+|stadium    = [[Fortuna Arena]]
+|location   = [[Prague]], Czech Republic
+|attendance = 
+|referee    = 
+|result     = 
+}}
+{{football box collapsible
+|format     = 1
+|date       = 15 November
+|time       = {{UTZ|20:45|+1}}
+|round      = [[2026–27 UEFA Nations League A|2026–27 UEFA Nations League]]
+|score      = 
+|report     = https://www.uefa.com/uefanationsleague/match/2047904/
+|team1      = {{fb-rt|ESP}}
+|goals1     = 
+|team2      = {{fb|ENG}}
+|goals2     = 
+|stadium    = 
+|location   = Spain
+|attendance = 
+|referee    = 
+|result     = 
+}}
+
+==Coaching staff==
+[[File:Luis de la Fuente Castillo - 2023 05 06 Final de la Copa del Rey 0001 (cropped).jpg|thumb|upright=0.7|Current head coach [[Luis de la Fuente (footballer, born 1961)|Luis de la Fuente]]]]
+{{Main|List of Spain national football team managers}}
+
+{| class="wikitable"
+|-
+!style="background:#C60B1E;color:#FFC400;border:1px solid #FFC400"| Role
+!style="background:#C60B1E;color:#FFC400;border:1px solid #FFC400"| Name
+|-
+|Head coach
+|{{flagicon|ESP}} [[Luis de la Fuente (footballer, born 1961)|Luis de la Fuente]]
+|-
+|Assistant coach
+||{{flagicon|ESP}} [[Juanjo González]]
+|-
+|Goalkeeping coach
+|{{flagicon|ESP}} Miguel Ángel España
+|-
+|Fitness coach
+|{{flagicon|ESP}} Carlos Alberto Cruz
+|-
+|Chief analyst
+|{{flagicon|ESP}} Pablo Peña
+|-
+|Sporting director
+||{{flagicon|ESP}} [[Aitor Karanka]]<ref>{{cite news|url=https://as.com/futbol/seleccion/karanka-nuevo-director-deportivo-de-la-seleccion-julen-guerrero-vuelve-a-la-sub-21-n/|title=Karanka será el nuevo director deportivo de la Selección|trans-title=Karanka will be the new sporting director of the national team|newspaper=Diario AS|first1=Ignacio|last1=Camacho|first2=Javier|last2=Martín|language=es|date=2 July 2025|access-date=25 March 2026}}</ref>
+|}
+
+==Players==
+{{Main|List of Spain men's international footballers}}
+
+===Current squad===
+The following 26 players were called up to the [[2026 FIFA World Cup]].<ref>{{cite web |url=https://rfef.es/es/noticias/los-26-que-buscaran-volver-reinar-en-el-mundial |title=Los 26 que buscarán volver a reinar en el Mundial |trans-title=The 26 who will seek to reign again in the World Cup |publisher=[[Royal Spanish Football Federation]] |date=May 25, 2026 |access-date=May 25, 2026 |language=es}}</ref>
+<br>''Caps and goals updated as of 10 July 2026, after the match against [[Belgium national football team|Belgium]].''
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[David Raya]]|age={{birth date and age|df=y|1995|9|15}}|caps=14|goals=0|club=[[Arsenal F.C.|Arsenal]]|clubnat=ENG}}
+{{nat fs g player|no=13|pos=GK|name=[[Joan Garcia]]|age={{birth date and age|df=y|2001|5|4}}|caps=2|goals=0|club=[[FC Barcelona|Barcelona]]|clubnat=ESP}}
+{{nat fs g player|no=23|pos=GK|name=[[Unai Simón]]|age={{birth date and age|df=y|1997|6|11}}|caps=64|goals=0|club=[[Athletic Bilbao]]|clubnat=ESP}}
+{{nat fs break}}
+{{nat fs g player|no=2|pos=DF|name=[[Marc Pubill]]|age={{birth date and age|df=y|2003|6|20}}|caps=3|goals=0|club=[[Atlético Madrid]]|clubnat=ESP}}
+{{nat fs g player|no=3|pos=DF|name=[[Álex Grimaldo]]|age={{birth date and age|df=y|1995|9|20}}|caps=14|goals=0|club=[[Atlético Madrid]]|clubnat=ESP}}
+{{nat fs g player|no=4|pos=DF|name=[[Eric García (footballer, born 2001)|Eric García]]|age={{birth date and age|df=y|2001|1|9}}|caps=21|goals=0|club=[[FC Barcelona|Barcelona]]|clubnat=ESP}}
+{{nat fs g player|no=5|pos=DF|name=[[Marcos Llorente]]|age={{birth date and age|df=y|1995|1|30}}|caps=26|goals=0|club=[[Atlético Madrid]]|clubnat=ESP}}
+{{nat fs g player|no=12|pos=DF|name=[[Pedro Porro]]|age={{birth date and age|df=y|1999|9|14}}|caps=22|goals=1|club=[[Tottenham Hotspur F.C.|Tottenham Hotspur]]|clubnat=ENG}}
+{{nat fs g player|no=14|pos=DF|name=[[Aymeric Laporte]]|age={{birth date and age|df=yes|1994|5|27}}|caps=52|goals=2|club=[[Athletic Bilbao]]|clubnat=ESP}}
+{{nat fs g player|no=22|pos=DF|name=[[Pau Cubarsí]]|age={{birth date and age|df=y|2007|1|22}}|caps=18|goals=0|club=[[FC Barcelona|Barcelona]]|clubnat=ESP}}
+{{nat fs g player|no=24|pos=DF|name=[[Marc Cucurella]]|age={{birth date and age|df=y|1998|7|22}}|caps=30|goals=1|club=[[Real Madrid C.F|Real Madrid]]|clubnat=ESP}}
+{{nat fs break}}
+{{nat fs g player|no=6|pos=MF|name=[[Mikel Merino]]|age={{birth date and age|df=y|1996|6|22}}|caps=49|goals=12|club=[[Arsenal F.C.|Arsenal]]|clubnat=ENG}}
+{{nat fs g player|no=8|pos=MF|name=[[Fabián Ruiz]]|age={{birth date and age|df=y|1996|4|3}}|caps=48|goals=7|club=[[Paris Saint-Germain FC|Paris Saint-Germain]]|clubnat=FRA}}
+{{nat fs g player|no=9|pos=MF|name=[[Gavi (footballer)|Gavi]]|age={{birth date and age|df=y|2004|8|5}}|caps=32|goals=5|club=[[FC Barcelona|Barcelona]]|clubnat=ESP}}
+{{nat fs g player|no=10|pos=MF|name=[[Dani Olmo]]|age={{birth date and age|df=y|1998|5|7}}|caps=56|goals=12|club=[[FC Barcelona|Barcelona]]|clubnat=ESP}}
+{{nat fs g player|no=11|pos=MF|name=[[Yéremy Pino]]|age={{birth date and age|df=y|2002|10|20}}|caps=25|goals=4|club=[[Crystal Palace F.C.|Crystal Palace]]|clubnat=ENG}}
+{{nat fs g player|no=15|pos=MF|name=[[Álex Baena]]|age={{birth date and age|df=y|2001|7|20}}|caps=22|goals=3|club=[[Atlético Madrid]]|clubnat=ESP}}
+{{nat fs g player|no=16|pos=MF|name=[[Rodri (footballer, born 1996)|Rodri]]|other=[[captain (association football)|Captain]]|age={{birth date and age|df=y|1996|6|22}}|caps=68|goals=4|club=[[Manchester City F.C.|Manchester City]]|clubnat=ENG}}
+{{nat fs g player|no=18|pos=MF|name=[[Martín Zubimendi]]|age={{birth date and age|df=y|1999|2|2}}|caps=26|goals=3|club=[[Arsenal F.C.|Arsenal]]|clubnat=ENG}}
+{{nat fs g player|no=20|pos=MF|name=[[Pedri]]|age={{birth date and age|df=y|2002|11|25}}|caps=47|goals=6|club=[[FC Barcelona|Barcelona]]|clubnat=ESP}}
+{{nat fs break}}
+{{nat fs g player|no=7|pos=FW|name=[[Ferran Torres]]|age={{birth date and age|df=y|2000|2|29}}|caps=63|goals=24|club=[[FC Barcelona|Barcelona]]|clubnat=ESP}}
+{{nat fs g player|no=17|pos=FW|name=[[Nico Williams]]|age={{birth date and age|df=y|2002|7|12}}|caps=34|goals=6|club=[[Athletic Bilbao]]|clubnat=ESP}}
+{{nat fs g player|no=19|pos=FW|name=[[Lamine Yamal]]|age={{birth date and age|df=y|2007|7|13}}|caps=31|goals=7|club=[[FC Barcelona|Barcelona]]|clubnat=ESP}}
+{{nat fs g player|no=21|pos=FW|name=[[Mikel Oyarzabal]]|age={{birth date and age|df=y|1997|4|21}}|caps=59|goals=29|club=[[Real Sociedad]]|clubnat=ESP}}
+{{nat fs g player|no=25|pos=FW|name=[[Víctor Muñoz (footballer, born 2003)|Víctor Muñoz]]|age={{birth date and age|df=y|2003|7|13}}|caps=2|goals=1|club=[[Liverpool F.C.|Liverpool]]|clubnat=ENG}}
+{{nat fs g player|no=26|pos=FW|name=[[Borja Iglesias]]|age={{birth date and age|df=y|1993|1|17}}|caps=9|goals=0|club=[[RC Celta de Vigo|Celta Vigo]]|clubnat=ESP}}
+{{nat fs end}}
+
+===Recent call-ups===
+The following players have also been called up for the team in the last twelve months.
+
+{{nat fs r start}}
+{{nat fs r player|no=|pos=GK|name=[[Leo Román]]|age={{birth date and age|df=y|2000|7|6}}|caps=1|goals=0|club=[[RCD Mallorca|Mallorca]]|clubnat=ESP|latest=v. {{fb|IRQ}}, 4 June 2026}}
+{{nat fs r player|no=|pos=GK|name=[[Álex Remiro]]|age={{birth date and age|df=y|1995|3|24}}|caps=2|goals=0|club=[[Real Sociedad]]|clubnat=ESP|latest=v. {{fb|EGY}}, 31 March 2026}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=DF|name=[[Jon Martín]]|age={{birth date and age|df=y|2006|4|23}}|caps=1|goals=0|club=[[Real Sociedad]]|clubnat=ESP|latest=v. {{fb|IRQ}}, 4 June 2026}}
+{{nat fs r player|no=|pos=DF|name=[[Javi Rodríguez (footballer)|Javi Rodríguez]]|age={{birth date and age|df=y|2003|6|26}}|caps=1|goals=0|club=[[RC Celta de Vigo|Celta Vigo]]|clubnat=ESP|latest=v. {{fb|IRQ}}, 4 June 2026}}
+{{nat fs r player|no=|pos=DF|name=[[Dean Huijsen]]|age={{birth date and age|df=y|2005|4|14}}|caps=7|goals=0|club=[[Real Madrid CF|Real Madrid]]|clubnat=ESP|latest=v. {{fb|EGY}}, 31 March 2026}}
+{{nat fs r player|no=|pos=DF|name=[[Cristhian Mosquera]]|age={{birth date and age|df=y|2004|6|27}}|caps=2|goals=0|club=[[Arsenal F.C.|Arsenal]]|clubnat=ENG|latest=v. {{fb|EGY}}, 31 March 2026}}
+{{nat fs r player|no=|pos=DF|name=[[Daniel Vivian|Dani Vivian]]|age={{birth date and age|df=y|1999|7|5}}|caps=10|goals=0|club=[[Athletic Bilbao]]|clubnat=ESP|latest=v. {{fb|TUR}}, 18 November 2025}}
+{{nat fs r player|no=|pos=DF|name=[[Robin Le Normand]]|age={{birth date and age|df=y|1996|11|11}}|caps=27|goals=1|club=[[Atlético Madrid]]|clubnat=ESP|latest=v. {{fb|BUL}}, 14 October 2025}}
+{{nat fs r player|no=|pos=DF|name=[[Dani Carvajal]]|age={{birth date and age|df=y|1992|1|11}}|caps=52|goals=1|club=[[Real Madrid CF|Real Madrid]]|clubnat=ESP|latest=v. {{fb|TUR}}, 7 September 2025}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=MF|name=[[Sergio Gómez (footballer, born 2000)|Sergio Gómez]]|age={{birth date and age|df=y|2000|9|4}}|caps=2|goals=0|club=[[Real Sociedad]]|clubnat=ESP|latest=v. {{fb|IRQ}}, 4 June 2026}}
+{{nat fs r player|no=|pos=MF|name=[[Jesús Rodríguez (footballer, born 2005)|Jesús Rodríguez]]|age={{birth date and age|df=y|2005|11|21}}|caps=2|goals=0|club=[[Como 1907|Como]]|clubnat=ITA|latest=v. {{fb|IRQ}}, 4 June 2026}}
+{{nat fs r player|no=|pos=MF|name=[[Marc Bernal]]|age={{birth date and age|df=y|2007|5|26}}|caps=1|goals=0|club=[[FC Barcelona|Barcelona]]|clubnat=ESP|latest=v. {{fb|IRQ}}, 4 June 2026}}
+{{nat fs r player|no=|pos=MF|name=[[Javi Guerra (footballer, born 2003)|Javi Guerra]]|age={{birth date and age|df=y|2003|5|13}}|caps=1|goals=0|club=[[Valencia CF|Valencia]]|clubnat=ESP|latest=v. {{fb|IRQ}}, 4 June 2026}}
+{{nat fs r player|no=|pos=MF|name=[[Beñat Turrientes]]|age={{birth date and age|df=y|2002|1|31}}|caps=1|goals=0|club=[[Real Sociedad]]|clubnat=ESP|latest=v. {{fb|IRQ}}, 4 June 2026}}
+{{nat fs r player|no=|pos=MF|name=[[Carlos Soler]]|age={{birth date and age|df=y|1997|1|2}}|caps=15|goals=4|club=[[Real Sociedad]]|clubnat=ESP|latest=v. {{fb|EGY}}, 31 March 2026}}
+{{nat fs r player|no=|pos=MF|name=[[Pablo Fornals]]|age={{birth date and age|df=y|1996|2|2}}|caps=9|goals=1|club=[[Real Betis|Betis]]|clubnat=ESP|latest=v. {{fb|EGY}}, 31 March 2026}}
+{{nat fs r player|no=|pos=MF|name=[[Fermín López]]|age={{birth date and age|df=y|2003|5|11}}|caps=7|goals=0|club=[[FC Barcelona|Barcelona]]|clubnat=ESP|latest=v. {{fb|EGY}}, 31 March 2026}}
+{{nat fs r player|no=|pos=MF|name=[[Aleix García]]|age={{birth date and age|df=y|1997|6|28}}|caps=8|goals=0|club=[[Bayer 04 Leverkusen|Bayer Leverkusen]]|clubnat=GER|latest=v. {{fb|TUR}}, 18 November 2025}}
+{{nat fs r player|no=|pos=MF|name=[[Pablo Barrios (footballer)|Pablo Barrios]]|age={{birth date and age|df=y|2003|6|15}}|caps=4|goals=0|club=[[Atlético Madrid]]|clubnat=ESP|latest=v. {{fb|TUR}}, 18 November 2025}}
+{{nat fs break}}
+{{nat fs r player|no=r|pos=FW|name=[[Gonzalo García (footballer, born 2004)|Gonzalo García]]|age={{birth date and age|df=y|2004|3|24}}|caps=1|goals=0|club=[[Real Madrid CF|Real Madrid]]|clubnat=ESP|latest=v. {{fb|IRQ}}, 4 June 2026}}
+{{nat fs r player|no=|pos=FW|name=[[Ander Barrenetxea (footballer)|Ander Barrenetxea]]|age={{birth date and age|df=y|2001|12|27}}|caps=1|goals=0|club=[[Real Sociedad]]|clubnat=ESP|latest=v. {{fb|EGY}}, 31 March 2026}}
+{{nat fs r player|no=|pos=FW|name=[[Samu Aghehowa]]|age={{birth date and age|df=y|2004|5|5}}|caps=4|goals=0|club=[[FC Porto|Porto]]|clubnat=POR|latest=v. {{fb|TUR}}, 18 November 2025}}
+{{nat fs r player|no=|pos=FW|name=[[Jorge de Frutos]]|age={{birth date and age|df=y|1997|2|20}}|caps=1|goals=0|club=[[Rayo Vallecano]]|clubnat=ESP|latest=v. {{fb|TUR}}, 18 November 2025}}
+{{nat fs r player|no=|pos=FW|name=[[Álvaro Morata]]|age={{birth date and age|df=y|1992|10|23}}|caps=87|goals=37|club=[[Como 1907|Como]]|clubnat=ITA|latest=v. {{fb|TUR}}, 7 September 2025}}
+{{nat fs break}}
+<sup>INJ</sup> Player withdrew from the squad due to an injury<br>
+<sup>PRE</sup> Preliminary squad / standby<br>
+<sup>WD</sup> Player withdrew from the squad due to non-injury issue<br>
+<sup>RET</sup> Player retired from the national team<br>
+<sup>SUS</sup> Player is serving suspension<br>
+{{nat fs end}}
+
+==Individual records==
+===Player records===
+{{Main|List of Spain international footballers|Spain national football team records and statistics}}
+
+[[Sergio Ramos]] holds the record for most appearances for the Spain's team with 180.<ref name="RSSSFApps">{{cite web |url=https://www.rsssf.org/miscellaneous/span-recintlp.html |title=Spain - Record International Players |website=RSSSF |access-date=25 January 2024 |archive-date=4 February 2009 |archive-url=https://web.archive.org/web/20090204122142/http://rsssf.com/miscellaneous/span-recintlp.html |url-status=live }}</ref> In second place is [[Iker Casillas]] with 167, followed by [[Sergio Busquets]] with 143.<ref name="RSSSFApps"/>
+
+[[David Villa]] holds the title of Spain's highest goalscorer, scoring 59 goals from 2005 to 2017, during which time he played for Spain on 98 occasions.<ref name="RSSSFApps"/> [[Raúl (footballer)|Raúl González]] is the second highest goalscorer, scoring 44 goals in 102 appearances between 1996 and 2006.<ref name="RSSSFApps"/>
+
+====Most appearances====
+[[File:Sergio Ramos Euro 2012 vs France 01.jpg|thumb|Sergio Ramos holds the record for the most appearances in the history of Spain with 180 caps.]]
+
+Below is a list of the ten players with the most [[Cap (football)|caps]] for Spain, {{as of|2026|07|10|lc=on}}.<ref name="RSSSFApps"/>
+
+:Players in '''bold''' are still active with Spain.
+<!--Goals scored are not to be used as "tie-breakers". -->
+
+{| class="wikitable sortable" style="text-align:center;"
+|-
+!width=30px|Rank
+!style="width:135px;"|Player
+!width=50px|Caps
+!width=50px|Goals
+!style="width:100px;"|Period
+|-
+|1
+|style="text-align:left;"|[[Sergio Ramos]]
+|180
+|23
+|2005–2021
+|-
+|2
+|style="text-align:left;"|[[Iker Casillas]]
+|167
+|0
+|2000–2016
+|-
+|3
+|style="text-align:left;"|[[Sergio Busquets]]
+|143
+|2
+|2009–2022
+|-
+|4
+|style="text-align:left;"|[[Xavi (footballer, born 1980)|Xavi]]
+|133
+|13
+|2000–2014
+|-
+|5
+|style="text-align:left;"|[[Andrés Iniesta]]
+|131
+|13
+|2006–2018
+|-
+|6
+|style="text-align:left;"|[[Andoni Zubizarreta]]
+|126
+|0
+|1985–1998
+|-
+|7
+|style="text-align:left;"|[[David Silva]]
+|125
+|35
+|2006–2018
+|-
+|8
+|style="text-align:left;"|[[Xabi Alonso]]
+|114
+|16
+|2003–2014
+|-
+|rowspan=2|9
+|style="text-align:left;"|[[Cesc Fàbregas]]
+|110
+|15
+|2006–2016
+|-
+|style="text-align:left;"|[[Fernando Torres]]
+|110
+|38
+|2003–2014
+|}
+
+'''Youngest capped player'''
+* [[Lamine Yamal]] (16 years and 57 days) vs. {{fb|GEO}}, 8 September 2023<ref name="Yamal"/>
+
+'''Oldest capped player'''
+* [[Jesús Navas]] (38 years and 231 days) vs. {{fb|FRA}}, 9 July 2024<ref>{{cite web|url=https://rfef.es/en/noticias/navas-the-oldest-player-in-spains-euro-history|title=Navas, the oldest player in Spain's Euro history|publisher=Royal Spanish Football Federation|date=24 June 2024|access-date=25 June 2024}}</ref>
+
+====Top goalscorers====
+[[File:Spain-Tahiti, Confederations Cup 2013 (02) (Villa crop).jpg|thumb|David Villa is Spain's all-time leading goalscorer with 59 goals.]]
+
+Below is a list of the top ten goalscorers for Spain, {{as of|2026|7|6|lc=on}}.<ref>{{cite web |url = http://eu-football.info/_scorers.php?id=185 |title = Spain national football team goal scorers |publisher = European football database |access-date = 9 January 2016 |archive-date = 9 February 2016 |archive-url = https://web.archive.org/web/20160209190156/http://eu-football.info/_scorers.php?id=185 |url-status = live }}</ref><ref name="Top goalscorers">{{cite web |url = http://www.bdfutbol.com/en/c/rankingGSEL.html |title = Ranking&nbsp;– Goals |publisher = BDFUTBOL |access-date = 28 December 2015 |archive-date = 7 January 2016 |archive-url = https://web.archive.org/web/20160107075350/http://www.bdfutbol.com/en/c/rankingGSEL.html |url-status = live }}</ref><ref name="RSSSFApps"/>
+<!--Caps are not to be used as "tie-breakers". -->
+
+{| class="wikitable sortable" style="text-align:center;"
+|-
+!width=30px|Rank
+! style="width:135px;"|Player
+!width=50px|Goals
+!width=50px|Caps
+!width=50px|Average
+!width=100px|Period
+|-
+|1
+|style="text-align:left;"|[[David Villa]] ([[List of international goals scored by David Villa|list]])
+|59
+|98
+|{{#expr:59/98 round 2}}
+|2005–2017
+|-
+|2
+|style="text-align:left;"|[[Raúl (footballer)|Raúl]] ([[List of international goals scored by Raúl|list]])
+|44
+|102
+|{{#expr:44/102 round 2}}
+|1996–2006
+|-
+|3
+|style="text-align:left;"|[[Fernando Torres]] ([[List of international goals scored by Fernando Torres|list]])
+|38
+|110
+|{{#expr:38/110 round 2}}
+|2003–2014
+|-
+|4
+|style="text-align:left;"|[[Álvaro Morata]]
+|37
+|87
+|{{#expr:37/87 round 2}}
+|2014–2025
+|-
+|5
+|style="text-align:left;"|[[David Silva]]
+|35
+|125
+|{{#expr:35/125 round 2}}
+|2006–2018
+|-
+|rowspan="2"|6
+|style="text-align:left;"|'''[[Mikel Oyarzabal]]'''
+|29
+|60
+|{{#expr:29/59 round 2}}
+|2016–present
+|-
+|style="text-align:left;"|[[Fernando Hierro]]
+|29
+|89
+|{{#expr:29/89 round 2}}
+|1989–2002
+|-
+|8
+|style="text-align:left;"|[[Fernando Morientes]]
+|27
+|47
+|{{#expr:27/47 round 2}}
+|1998–2007
+|-
+|9
+|style="text-align:left;"|[[Emilio Butragueño]]
+|26
+|69
+|{{#expr:26/69 round 2}}
+|1984–1992
+|-
+|10
+|style="text-align:left;"|'''[[Ferran Torres]]'''
+|24
+|63
+|{{#expr:24/63 round 2}}
+|2020–present
+|-
+|}
+
+'''Youngest goalscorer'''
+* [[Lamine Yamal]] (16 years and 57 days) vs. {{fb|GEO}}, 8 September 2023<ref name="Yamal">{{cite news |url=https://www.theguardian.com/football/2023/sep/08/lamine-yamal-becomes-spains-youngest-ever-player-and-scorer |title=Lamine Yamal becomes youngest Spain player – and scorer – in rout of Georgia |website=The Guardian |date=8 September 2023 |access-date=25 January 2024 |archive-date=22 November 2023 |archive-url=https://web.archive.org/web/20231122032629/https://www.theguardian.com/football/2023/sep/08/lamine-yamal-becomes-spains-youngest-ever-player-and-scorer |url-status=live }}</ref>
+
+'''Oldest goalscorer'''
+* [[Aritz Aduriz]] (35 years and 274 days) vs. {{fb|MKD|name=Macedonia}}, 12 November 2016<ref>{{cite news|url=http://www.marca.com/en/football/spanish-football/2016/11/12/582797de22601df53e8b4610.html|title=Aduriz becomes Spain's oldest scorer in Macedonia rout|newspaper=Marca|date=12 November 2016|access-date=13 November 2016|archive-date=5 January 2018|archive-url=https://web.archive.org/web/20180105233628/http://www.marca.com/en/football/spanish-football/2016/11/12/582797de22601df53e8b4610.html|url-status=live}}</ref>
+
+'''Most goals scored in a single match'''
+* [[Chacho (footballer)|Chacho]] (6 goals) vs. {{fb|BUL}}, 13 May 1933<ref>{{Cite web |url=https://eu-football.info/_match.php?id=5733 |title=Spain vs Bulgaria report – 13/05/1933 |publisher=EU-football.info |accessdate=3 June 2022 |archive-date=10 May 2022 |archive-url=https://web.archive.org/web/20220510214659/https://eu-football.info/_match.php?id=5733 |url-status=live }}</ref>
+
+'''First goal scored'''
+* [[Juan Arzuaga]] vs. {{fb|FRA|1830}}, 25 May 1913<ref>{{cite web |url=https://www.cihefe.es/cuadernosdefutbol/2021/03/25-de-mayo-de-1913-el-primer-partido-de-la-seleccion-espanola-de-futbol/ |title=El primer partido de la Selección Española de Fútbol |trans-title=The first game of the Spanish Soccer Team |language=es |website=www.cihefe.es |date=14 February 2021 |access-date=24 July 2022 |archive-date=5 February 2023 |archive-url=https://web.archive.org/web/20230205152941/https://www.cihefe.es/cuadernosdefutbol/2021/03/25-de-mayo-de-1913-el-primer-partido-de-la-seleccion-espanola-de-futbol/ |url-status=live }}</ref> (unofficial game)
+* [[Patricio Arabolaza]] vs. {{fb|DEN}}, 28 August 1920<ref>{{cite web |title=Denmark 0 Spain 1 |url=http://www.eu-football.info/_match.php?id=4828 |website=eu-football.info |accessdate=30 October 2010 |archive-date=26 April 2012 |archive-url=https://web.archive.org/web/20120426174615/http://eu-football.info/_match.php?id=4828 |url-status=live }}</ref> (official game)
+
+===Captains===
+{{Main|List of Spain national football team captains}}
+
+List of Spain's [[Captain (sports)|captains]] in major tournaments.
+* [[Mariano Arrate]] (3 caps as captain) was captain during the [[Football at the 1920 Summer Olympics|1920 Summer Olympics]].
+* [[Pedro Vallana]] (5) was captain during the [[Football at the 1924 Summer Olympics|1924]] and [[Football at the 1928 Summer Olympics|1928 Summer Olympics]].
+* [[Ricardo Zamora]] (24) was captain during the [[1934 FIFA World Cup]].
+* [[Ignacio Eizaguirre]] (4) was captain during the [[1950 FIFA World Cup]].
+* [[Joan Segarra]] (15) was captain during the [[1962 FIFA World Cup]].
+* [[Ferran Olivella]] (10) was captain during the [[1964 European Nations' Cup]].
+* [[Francisco Gento]] (15) was captain during the [[1966 FIFA World Cup]].
+* [[Pirri]] (18) was captain during the [[1978 FIFA World Cup]].
+* [[Juan Manuel Asensi]] (14) was captain during the [[UEFA Euro 1980]].
+* [[Luis Arconada]] (48) was captain during the [[1982 FIFA World Cup]] and [[UEFA Euro 1984]].
+* [[José Antonio Camacho]] (24) was captain during the [[1986 FIFA World Cup]] and [[UEFA Euro 1988]].
+* [[Emilio Butragueño]] (31) was captain during the [[1990 FIFA World Cup]].
+* [[Andoni Zubizarreta]] (50) was captain during the [[1994 FIFA World Cup]], [[UEFA Euro 1996|Euro 1996]] and the [[1998 FIFA World Cup]].
+* [[Fernando Hierro]] (32) was captain during [[UEFA Euro 2000|Euro 2000]] and the [[2002 FIFA World Cup]].
+* [[Raúl (footballer)|Raúl]] (42) was captain during [[UEFA Euro 2004|Euro 2004]] and the [[2006 FIFA World Cup]].
+* [[Iker Casillas]] (104) was captain during [[UEFA Euro 2008|Euro 2008]], the [[2010 FIFA World Cup]], [[UEFA Euro 2012|Euro 2012]], the [[2014 FIFA World Cup]] and [[UEFA Euro 2016|Euro 2016]].
+* [[Sergio Ramos]] (54) was captain during the [[2018 FIFA World Cup]].
+* [[Sergio Busquets]] (20) was captain during [[UEFA Euro 2020|Euro 2020]], the [[2021 UEFA Nations League Finals]] and the [[2022 FIFA World Cup]].
+* [[Jordi Alba]] (5) was captain during the [[2023 UEFA Nations League Finals]].
+* [[Álvaro Morata]] (19) was captain during [[UEFA Euro 2024|Euro 2024]] and the [[2025 UEFA Nations League Finals]].
+* [[Rodri (footballer, born 1996)|Rodri]] was captain during the [[2026 FIFA World Cup]].
+
+===Manager records===
+{{Expand section|date=November 2025}}
+{{Main|List of Spain national football team managers|Spain national football team records and statistics}}
+
+* Most manager appearances
+:[[Vicente del Bosque]]: 114
+
+==Team records==
+{{Main|Spain national football team records and statistics}}
+
+* Most consecutive wins achieved by an international coach from debut: 13 – [[Vicente del Bosque]]
+* Most penalty shoot-outs in one World Cup by one team: 2 at the [[2002 FIFA World Cup]] (shared with {{fb|ARG}} at the [[1990 FIFA World Cup]], {{fb|NED}} and {{fb|CRC}} at the [[2014 FIFA World Cup]], {{fb|RUS}} and {{fb|CRO}} at the [[2018 FIFA World Cup]], and {{fb|CRO}} and {{fb|ARG}} at the [[2022 FIFA World Cup]])
+* Highest maximum number of points in World Cup qualification: 30 out of 30 ([[2010 FIFA World Cup qualification – UEFA Group 5|2010]]) (shared with {{fb|GER}} for [[2018 FIFA World Cup qualification – UEFA Group C|2018]])<ref>{{cite news |url=https://www.tntsports.co.uk/football/world-cup-qualification-uefa/2018/germany-s-perfect-10-completed-with-win-over-azerbaijan_sto6360333/story.shtml |title=Germany's perfect 10 completed with win over Azerbaijan |website=TNT Sports |date=8 October 2017 |access-date=25 January 2024 |archive-date=23 February 2024 |archive-url=https://web.archive.org/web/20240223061900/https://www.tntsports.co.uk/geoblocking.shtml |url-status=live }}</ref>
+
+==Competitive record==
+{{For|the all-time record for the national team against opposing teams|Spain national football team all-time record}}
+
+===FIFA World Cup===
+{{Main|Spain at the FIFA World Cup}}
+
+Although often entering tournaments as one of the favorites, Spain have sometimes been perceived as underachieving at the World Cup.<ref>{{cite news |url=https://apnews.com/world-cup-spain-finally-ditches-its-underachiever-tag-1f8076ca793e426daa8f219d1990cafc |title=World Cup: Spain finally ditches its underachiever tag |author=Pan Pylas |website=AP News |date=29 May 2018 |access-date=29 January 2024 |archive-date=29 January 2024 |archive-url=https://web.archive.org/web/20240129160500/https://apnews.com/world-cup-spain-finally-ditches-its-underachiever-tag-1f8076ca793e426daa8f219d1990cafc |url-status=live }}</ref><ref>{{cite news |url=https://www.foxsports.com/stories/soccer/world-cup-spain-finally-ditches-its-underachiever-tag |title=Spain finally ditches its underachiever tag |website=Fox Sports |date=4 March 2020 |access-date=29 January 2024 |archive-date=29 January 2024 |archive-url=https://web.archive.org/web/20240129160500/https://www.foxsports.com/stories/soccer/world-cup-spain-finally-ditches-its-underachiever-tag |url-status=live }}</ref> Spain's first World Cup was in [[1934 FIFA World Cup|1934]]; at that tournament, their campaign started by defeating Brazil 3–1 to advance to the quarter-finals, where they lost to hosts Italy in a replay.<ref>{{cite web |url=https://www.rsssf.org/tables/34full.html |title=World Cup 1934 finals |website=RSSSF |access-date=5 December 2023 |archive-date=1 July 2016 |archive-url=https://web.archive.org/web/20160701145038/http://www.rsssf.com/tables/34full.html |url-status=live }}</ref> Before Spain's success in 2010, their best result came in 1950, where they reached the last four. Spain were paired with the hosts Brazil, as well as Uruguay and Sweden.<ref name="1950WC">{{cite web |url=https://www.rsssf.org/tables/50full.html |title=World Cup 1950 finals |website=RSSSF |access-date=5 December 2023 |archive-date=4 June 2023 |archive-url=https://web.archive.org/web/20230604191404/https://www.rsssf.org/tables/50full.html |url-status=live }}</ref> Spain managed a draw against Uruguay but defeats from Brazil and Sweden meant that Spain would end up in fourth place.<ref name="1950WC"/> At the [[2010 FIFA World Cup]] held in South Africa, Spain became world champions for the first time after defeating the [[Netherlands national football team|Netherlands]] 1–0 in the final, becoming the eighth country to win the World Cup.<ref>{{cite news |url=https://news.bbc.co.uk/sport2/hi/football/world_cup_2010/matches/match_64/default.stm |title=Netherlands 0–1 Spain (aet) |author=Paul Fletcher |publisher=BBC Sport |date=11 July 2010 |access-date=5 December 2023 |archive-date=10 August 2017 |archive-url=https://web.archive.org/web/20170810004846/http://news.bbc.co.uk/sport1/hi/football/world_cup_2010/matches/match_64/default.stm |url-status=live }}</ref><ref>{{cite news |url=https://olympics.com/en/news/most-fifa-world-cup-football-wins |title=Most FIFA World Cup wins: Brazil lead men's winners list; USA dominate women's roll of honour |author=Aarish Ansari |publisher=Olympics |date=18 December 2022 |access-date=5 December 2023 |archive-date=10 December 2022 |archive-url=https://web.archive.org/web/20221210185258/https://olympics.com/en/news/most-fifa-world-cup-football-wins |url-status=live }}</ref>
+
+{{Color box|gold|border=darkgray}} '''Champions'''&nbsp;&nbsp;{{Color box|silver|border=darkgray}} '''Runners-up'''&nbsp;&nbsp;{{Color box|#cc9966|border=darkgray}} '''Third place'''&nbsp;&nbsp;{{legend-inline|white|border=3px solid red;}} Hosts or co-hosts
+{| class="wikitable" style="text-align: center;"
+|-
+! style="color:white; background:#B60000;" colspan=9|[[FIFA World Cup|{{white|FIFA World Cup}}]] record
+! style="width:1%; background:#B60000;" rowspan=28|
+! style="color:white; background:#B60000;" colspan=9|[[FIFA World Cup qualification|{{white|Qualification}}]] record
+|-
+! style="color:white; background:#B60000;|Year
+! style="color:white; background:#B60000;|Result
+! style="color:white; background:#B60000;|Position
+! style="color:white; background:#B60000;|{{Tooltip|Pld|Games played}}
+! style="color:white; background:#B60000;|{{Tooltip|W|Won}}
+! style="color:white; background:#B60000;|{{Tooltip|D|Drawn}}*
+! style="color:white; background:#B60000;|{{Tooltip|L|Lost}}
+! style="color:white; background:#B60000;|{{Tooltip|GF|Goals for}}
+! style="color:white; background:#B60000;|{{Tooltip|GA|Goals against}}
+! style="color:white; background:#B60000;|{{Tooltip|Pld|Games played}}
+! style="color:white; background:#B60000;|{{Tooltip|W|Won}}
+! style="color:white; background:#B60000;|{{Tooltip|D|Drawn}}
+! style="color:white; background:#B60000;|{{Tooltip|L|Lost}}
+! style="color:white; background:#B60000;|{{Tooltip|GF|Goals for}}
+! style="color:white; background:#B60000;|{{Tooltip|GA|Goals against}}
+|-
+| {{flagicon|Uruguay}} [[1930 FIFA World Cup|1930]]
+| colspan=8 {{n/a|''Did not enter''}}
+| colspan=6 {{n/a|''Declined Participation''}}
+|-
+|-
+| {{flagicon|Italy|1861}} [[1934 FIFA World Cup|1934]]
+| Quarter-finals
+| 5th
+| 3
+| 1
+| 1
+| 1
+| 4
+| 3
+| 2
+| 2
+| 0
+| 0
+| 11
+| 1
+|-
+| {{flagicon|France|1794}} [[1938 FIFA World Cup|1938]]
+|colspan=8 {{n/a|''Withdrew''}}
+|colspan=6 {{n/a|''Withdrew''}}
+|- 
+|- bgcolor=#9acdff
+| {{flagicon|Brazil|1889}} [[1950 FIFA World Cup|1950]]
+| Fourth place
+| 4th
+| 6
+| 3
+| 1
+| 2
+| 10
+| 12
+| 2
+| 1
+| 1
+| 0
+| 7
+| 3
+|-
+| {{flagicon|Switzerland}} [[1954 FIFA World Cup|1954]]
+|rowspan=2 colspan=8 {{n/a|''Did not qualify''}}
+| 3
+| 1
+| 1
+| 1
+| 6
+| 4
+|-
+| {{flagicon|Sweden}} [[1958 FIFA World Cup|1958]]
+| 4
+| 2
+| 1
+| 1
+| 12
+| 8
+|-
+| {{flagicon|Chile}} [[1962 FIFA World Cup|1962]]
+|Group stage
+| 12th
+| 3
+| 1
+| 0
+| 2
+| 2
+| 3
+| 4
+| 3
+| 1
+| 0
+| 7
+| 4
+|-
+| {{flagicon|England}} [[1966 FIFA World Cup|1966]]
+|Group stage
+| 10th
+| 3
+| 1
+| 0
+| 2
+| 4
+| 5
+| 3
+| 2
+| 0
+| 1
+| 5
+| 2
+|-
+| {{flagicon|Mexico}} [[1970 FIFA World Cup|1970]]
+|rowspan=2 colspan=8 {{n/a|''Did not qualify''}}
+| 6
+| 2
+| 2
+| 2
+| 10
+| 6
+|-
+|{{flagicon|West Germany}} [[1974 FIFA World Cup|1974]]
+| 5
+| 2
+| 2
+| 1
+| 8
+| 6
+|-
+| {{flagicon|Argentina}} [[1978 FIFA World Cup|1978]]
+| Group stage
+| 10th
+| 3
+| 1
+| 1
+| 1
+| 2
+| 2
+| 4
+| 3
+| 0
+| 1
+| 4
+| 1
+|-
+| style="border: 3px solid red"|{{flagicon|Spain}} [[1982 FIFA World Cup|1982]]
+| Second group stage
+| 12th
+| 5
+| 1
+| 2
+| 2
+| 4
+| 5
+|colspan=6 {{n/a|''Qualified as hosts''}}
+|-
+| {{flagicon|Mexico}} [[1986 FIFA World Cup|1986]]
+| Quarter-finals
+| 7th
+| 5
+| 3
+| 1
+| 1
+| 11
+| 4
+| 6
+| 4
+| 0
+| 2
+| 9
+| 8
+|-
+| {{flagicon|Italy}} [[1990 FIFA World Cup|1990]]
+| Round of 16
+| 10th
+| 4
+| 2
+| 1
+| 1
+| 6
+| 4
+| 8
+| 6
+| 1
+| 1
+| 20
+| 3
+|-
+| {{flagicon|United States}} [[1994 FIFA World Cup|1994]]
+| Quarter-finals
+| 8th
+| 5
+| 2
+| 2
+| 1
+| 10
+| 6
+| 12
+| 8
+| 3
+| 1
+| 27
+| 4
+|-
+| {{flagicon|France|1974}} [[1998 FIFA World Cup|1998]]
+| Group stage
+| 17th
+| 3
+| 1
+| 1
+| 1
+| 8
+| 4
+| 10
+| 8
+| 2
+| 0
+| 26
+| 6
+|-
+|{{flagicon|South Korea|1997}} {{flagicon|Japan}} [[2002 FIFA World Cup|2002]]
+| Quarter-finals
+| 5th
+| 5
+| 3
+| 2
+| 0
+| 10
+| 5
+| 8
+| 6
+| 2
+| 0
+| 21
+| 4
+|-
+|{{flagicon|Germany}} [[2006 FIFA World Cup|2006]]
+| Round of 16
+| 9th
+| 4
+| 3
+| 0
+| 1
+| 9
+| 4
+| 12
+| 6
+| 6
+| 0
+| 25
+| 5
+|- style="background:gold;"
+|{{flagicon|South Africa}} [[2010 FIFA World Cup|2010]]
+|'''[[2010 FIFA World Cup Final|Champions]]'''
+| '''1st'''
+| '''7'''
+| '''6'''
+| '''0'''
+| '''1'''
+| '''8'''
+| '''2'''
+| 10
+| 10
+| 0
+| 0
+| 28
+| 5
+|-
+| {{flagicon|Brazil}} [[2014 FIFA World Cup|2014]]
+| Group stage
+| 23rd
+| 3
+| 1
+| 0
+| 2
+| 4
+| 7
+| 8
+| 6
+| 2
+| 0
+| 14
+| 3
+|-
+| {{flagicon|Russia}} [[2018 FIFA World Cup|2018]]
+|Round of 16
+| 10th
+| 4
+| 1
+| 3
+| 0
+| 7
+| 6
+| 10
+| 9
+| 1
+| 0
+| 36
+| 3
+|-
+| {{flagicon|Qatar}} [[2022 FIFA World Cup|2022]]
+|Round of 16
+| 13th
+| 4
+| 1
+| 2
+| 1
+| 9
+| 3
+| 8
+| 6
+| 1
+| 1
+| 15
+| 5
+|- bgcolor=
+|{{flagicon|Canada}} {{flagicon|Mexico}} {{flagicon|United States}} [[2026 FIFA World Cup|2026]]
+|''in progress''
+|TBD
+|6
+|5
+|1
+|0
+|11
+|1
+|6
+|5
+|1
+|0
+|21
+|2
+|-
+| style="border: 3px solid red"| {{flagicon|Morocco}} {{flagicon|Portugal}} {{flagicon|Spain}} [[2030 FIFA World Cup|2030]]
+|colspan=8 {{n/a|''Qualified as co-hosts''}}
+|colspan=6 {{n/a|''Qualified as co-hosts''}}
+|-
+| {{flagicon|Saudi Arabia}} [[2034 FIFA World Cup|2034]]
+| colspan=8 {{n/a|''To be determined''}}
+| colspan="7" {{n/a|''To be determined''}}
+|-
+|- style="color:white;"
+! style="background:#B60000;color:white;"|Total:17/23
+! style="background:#B60000;color:white;"| 1 Title
+! style="background:#B60000;color:white;"| 1st
+! style="background:#B60000;color:white;"|73
+! style="background:#B60000;color:white;"|36
+! style="background:#B60000;color:white;"|18
+! style="background:#B60000;color:white;"|19
+! style="background:#B60000;color:white;"|119
+! style="background:#B60000;color:white;"|76
+! style="background:#B60000;color:white;"|131
+! style="background:#B60000;color:white;"|92
+! style="background:#B60000;color:white;"|27
+! style="background:#B60000;color:white;"|12
+! style="background:#B60000;color:white;"|312
+! style="background:#B60000;color:white;"|83
+|}
+:''*Draws include knockout matches decided via [[Penalty shoot-out (association football)|penalty shoot-out]]''
+
+{| class="wikitable collapsible collapsed" style="text-align: center;font-size:90%;"
+|-
+!colspan=2|Spain's World Cup history
+|-
+!First match
+|{{fb|ESP|1931}} 3–1 {{fb-rt|BRA|1889}}<br>(27 May 1934; [[Genoa]], Italy)
+|-
+!Biggest win
+|{{fb|ESP}} 7–0 {{fb-rt|Costa Rica}}<br>(23 November 2022; [[Doha]], Qatar)
+|-
+!Biggest defeat
+|{{fb|BRA|1889}} 6–1 {{fb-rt|ESP|1945}}<br>(13 July 1950; [[Rio de Janeiro]], Brazil)
+|-
+!Best result
+|'''Champions''' ([[2010 FIFA World Cup|2010]])
+|-
+!Worst result
+|Group stage ([[1962 FIFA World Cup|1962]], [[1966 FIFA World Cup|1966]], [[1998 FIFA World Cup|1978]], [[1978 FIFA World Cup|1998]], [[2014 FIFA World Cup|2014]])
+|}
+
+===UEFA European Championship===
+{{Main|Spain at the UEFA European Championship}}
+
+Spain have won the most UEFA European Championships, with four titles.<ref>{{cite web |url=https://www.uefa.com/uefaeuro/history/winners/ |title=Most titles |website=UEFA |access-date=29 January 2024 |archive-date=7 June 2021 |archive-url=https://web.archive.org/web/20210607092731/https://www.uefa.com/uefaeuro/history/winners/ |url-status=live }}</ref> ''La Roja'' are also the only nation to date to have won consecutive championships. They have hosted the tournament once, in [[UEFA Euro 1964|1964]] (one city was used to host games at [[UEFA Euro 2020|Euro 2020]]) and have appeared in a total of twelve tournaments.
+
+The team won their first international trophy on home soil in 1964, defeating the [[Soviet Union national football team|Soviet Union]] 2–1.<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/17451950 |title=Euro 1964: A forgotten Spanish triumph |author=Mandeep Sanghera |website=BBC Sport |date=12 May 2012 |access-date=29 January 2024 |archive-date=24 December 2022 |archive-url=https://web.archive.org/web/20221224233420/https://www.bbc.co.uk/sport/football/17451950 |url-status=live }}</ref><ref>{{cite web |url=https://www.rsssf.org/tables/64e.html |title=European Championship 1964 |website=RSSSF |access-date=29 January 2024 |archive-date=29 January 2024 |archive-url=https://web.archive.org/web/20240129160501/https://www.rsssf.org/tables/64e.html |url-status=live }}</ref> Spain would reach the final twenty years later in [[UEFA Euro 1984 final|1984]], where they would lose the final to [[France national football team|France]]. Spain would not reach the final again until [[UEFA Euro 2008 final|2008]], where they would defeat Germany 1–0. Four years later, Spain earned back-to-back titles, comprehensively defeating [[Italy national football team|Italy]] 4–0 in the [[UEFA Euro 2012 final|final]] in Kyiv.
+
+It would take ''La Roja'' twelve years to reach another European final, doing so in [[UEFA Euro 2024 final|2024]] against [[England national football team|England]], a match they won 2–1 to stand alone as the most successful national team in the competition's history with four titles, while at the same time becoming the first team ever to win all seven matches in a single tournament.<ref>{{Cite web |date=2024-07-14 |title=Spain wins record fourth European Championship title by inflicting another painful loss on England |url=https://apnews.com/article/spain-england-euro-2024-final-dc46b104e6bf3b94b7d6d70e18f8220d |access-date=2024-07-15 |website=AP News |language=en |archive-date=14 July 2024 |archive-url=https://web.archive.org/web/20240714215223/https://apnews.com/article/spain-england-euro-2024-final-dc46b104e6bf3b94b7d6d70e18f8220d |url-status=live }}</ref>
+
+{| class="wikitable" style="text-align: center;"
+|-
+!colspan=10|[[UEFA European Championship]] record
+!width=1% rowspan=22|
+!colspan=6|[[UEFA European Championship qualifying|Qualifying]] record
+|-
+!Year
+!Round
+!Position
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!Squad
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+|-
+|{{flagicon|France|1794}} [[1960 European Nations' Cup|1960]]
+|colspan=9|''Withdrew''
+|2
+|2
+|0
+|0
+|7
+|2
+|- style="background:gold;"
+|style="border:3px solid red"|{{flagicon|Francoist Spain}} [[1964 European Nations' Cup|1964]]
+|'''[[1964 European Nations' Cup Final|Champions]]'''
+|'''1st'''
+|'''2'''
+|'''2'''
+|'''0'''
+|'''0'''
+|'''4'''
+|'''2'''
+|'''[[1964 European Nations' Cup squads#Spain|Squad]]'''
+|6
+|4
+|1
+|1
+|16
+|5
+|-
+|{{flagicon|Italy}} [[UEFA Euro 1968|1968]]
+|colspan=9 rowspan=3|''Did not qualify''
+|8
+|3
+|2
+|3
+|7
+|5
+|-
+|{{flagicon|Belgium}} [[UEFA Euro 1972|1972]]
+|6
+|3
+|2
+|1
+|14
+|3
+|-
+|{{flagicon|Yugoslavia}} [[UEFA Euro 1976|1976]]
+|8
+|3
+|4
+|1
+|11
+|9
+|-
+|{{flagicon|Italy}} [[UEFA Euro 1980|1980]]
+|Group stage
+|7th
+|3
+|0
+|1
+|2
+|2
+|4
+|[[UEFA Euro 1980 squads#Spain|Squad]]
+|6
+|4
+|1
+|1
+|13
+|5
+|- style="background:silver;"
+|{{flagicon|France|1974}} [[UEFA Euro 1984|1984]]
+|'''[[UEFA Euro 1984 final|Runners-up]]'''
+|'''2nd'''
+|'''5'''
+|'''1'''
+|'''3'''
+|'''1'''
+|'''4'''
+|'''5'''
+|'''[[UEFA Euro 1984 squads#Spain|Squad]]'''
+|8
+|6
+|1
+|1
+|24
+|8
+|-
+|{{flagicon|West Germany}} [[UEFA Euro 1988|1988]]
+|Group stage
+|6th
+|3
+|1
+|0
+|2
+|3
+|5
+|[[UEFA Euro 1988 squads#Spain|Squad]]
+|6
+|5
+|0
+|1
+|14
+|6
+|-
+|{{flagicon|Sweden}} [[UEFA Euro 1992|1992]]
+|colspan=9|''Did not qualify''
+|7
+|3
+|0
+|4
+|17
+|12
+|-
+|{{flagicon|England}} [[UEFA Euro 1996|1996]]
+|rowspan=2|Quarter-finals
+|6th
+|rowspan=2|4
+|1
+|3
+|0
+|4
+|3
+|[[UEFA Euro 1996 squads#Spain|Squad]]
+|10
+|8
+|2
+|0
+|25
+|4
+|-
+|{{flagicon|Belgium}} {{flagicon|Netherlands}} [[UEFA Euro 2000|2000]]
+|5th
+|2
+|0
+|2
+|7
+|7
+|[[UEFA Euro 2000 squads#Spain|Squad]]
+|8
+|7
+|0
+|1
+|42
+|5
+|-
+|{{flagicon|Portugal}} [[UEFA Euro 2004|2004]]
+|Group stage
+|10th
+|3
+|1
+|1
+|1
+|2
+|2
+|[[UEFA Euro 2004 squads#Spain|Squad]]
+|10
+|7
+|2
+|1
+|21
+|5
+|- style="background:gold;"
+|{{flagicon|Austria|1230}} {{flagicon|Switzerland}} [[UEFA Euro 2008|2008]]
+|'''[[UEFA Euro 2008 final|Champions]]'''
+|'''1st'''
+|'''6'''
+|'''5'''
+|'''1'''
+|'''0'''
+|'''12'''
+|'''3'''
+|'''[[UEFA Euro 2008 squads#Spain|Squad]]'''
+|12
+|9
+|1
+|2
+|23
+|8
+|- style="background:gold;"
+|{{flagicon|Poland}} {{flagicon|Ukraine}} [[UEFA Euro 2012|2012]]
+|'''[[UEFA Euro 2012 final|Champions]]'''
+|'''1st'''
+|'''6'''
+|'''4'''
+|'''2'''
+|'''0'''
+|'''12'''
+|'''1'''
+|'''[[UEFA Euro 2012 squads#Spain|Squad]]'''
+|8
+|8
+|0
+|0
+|26
+|6
+|-
+|{{flagicon|France|1974}} [[UEFA Euro 2016|2016]]
+|Round of 16
+|10th
+|4
+|2
+|0
+|2
+|5
+|4
+|[[UEFA Euro 2016 squads#Spain|Squad]]
+|10
+|9
+|0
+|1
+|23
+|3
+|- style="background:#cc9966"
+|style="border:3px solid red"|{{flagicon|Europe}} [[UEFA Euro 2020|2020]]
+|Semi-finals
+|3rd
+|6
+|2
+|4
+|0
+|13
+|6
+|[[UEFA Euro 2020 squads#Spain|Squad]]
+|10
+|8
+|2
+|0
+|31
+|5
+|- style="background:gold;"
+|{{flagicon|Germany}} [[UEFA Euro 2024|2024]]
+|'''[[UEFA Euro 2024 final|Champions]]'''
+|'''1st'''
+|'''7'''
+|'''7'''
+|'''0'''
+|'''0'''
+|'''15'''
+|'''4'''
+|'''[[UEFA Euro 2024 squads#Spain|Squad]]'''
+|8
+|7
+|0
+|1
+|25
+|5
+|-
+|{{flagicon|United Kingdom}} {{flagicon|Republic of Ireland}} [[UEFA Euro 2028|2028]]
+|colspan=9 rowspan=2|''To be determined''
+|colspan=6 rowspan=2|''To be determined''
+|-
+|{{flagicon|Italy}} {{flagicon|Turkey}} [[UEFA Euro 2032|2032]]
+|-
+!Total
+!4 Titles
+!12/17
+!53
+!28
+!15
+!10
+!83
+!46
+!—
+!133
+!96
+!18
+!19
+!339
+!96
+|}
+{| class="wikitable collapsible collapsed" style="text-align: center;font-size:90%;"
+|-
+!colspan=2|Spain's European Championship history
+|-
+!First match
+|{{fb|ESP|1945}} 2–1 {{fb-rt|HUN}}<br>([[Madrid]], Spain; 17 June 1964)
+|-
+!Biggest win
+|{{fb|ESP}} 5–0 {{fb-rt|SVK}}<br>([[Seville]], Spain; 23 June 2021)
+|-
+!Biggest defeat
+|{{fb|FRA|1974}} 2–0 {{fb-rt|ESP}}<br>([[Paris]], France; 27 June 1984)<br>{{fb|FRG}} 2–0 {{fb-rt|ESP}}<br>([[Munich]], West Germany; 17 June 1988)<br>{{fb|ITA}} 2–0 {{fb-rt|ESP}}<br>([[Saint-Denis, Seine-Saint-Denis|Saint-Denis]], France; 27 June 2016)
+|-
+!Best result
+|'''Champions''' ([[1964 European Nations' Cup|1964]], [[UEFA Euro 2008|2008]], [[UEFA Euro 2012|2012]], [[UEFA Euro 2024|2024]])
+|-
+!Worst result
+|Group stage ([[UEFA Euro 1980|1980]], [[UEFA Euro 1988|1988]], [[UEFA Euro 2004|2004]])
+|}
+
+===UEFA Nations League===
+Since the inaugural [[UEFA Nations League]], ''La Roja'' have remained in League A and have reached the [[UEFA Nations League Finals]] on three occasions, only failing to do so in the inaugural season. At the [[2021 UEFA Nations League Finals|2021 finals]], Spain won their semi-final after defeating Italy 2–1 but lost to France in the final.<ref>{{cite news |url=https://www.bbc.com/sport/football/65922637 |title=Spain 2–1 Italy: Joselu winner sends La Roja to Nations League final |author=Emlyn Begley |publisher=BBC Sport |date=15 June 2023 |access-date=19 October 2023 |archive-date=3 November 2023 |archive-url=https://web.archive.org/web/20231103163552/https://www.bbc.co.uk/sport/football/65922637 |url-status=live }}</ref><ref>{{cite news |url=https://www.bbc.co.uk/sport/football/58859225 |title=France beat Spain to become second Nations League winners |author=Mantej Mann |publisher=BBC Sport |date=10 October 2021 |access-date=19 October 2023 |archive-date=28 January 2023 |archive-url=https://web.archive.org/web/20230128113345/https://www.bbc.co.uk/sport/football/58859225 |url-status=live }}</ref> In the following campaign, ''La Roja'' would again reach the final thanks to another win against Italy.<ref name="UNL22">{{cite web |url=https://www.rsssf.org/tables/2023uefanl.html#f4 |title=UEFA Nations League 2022/23 Final four |website=RSSSF |access-date=29 January 2024 |archive-date=10 April 2023 |archive-url=https://web.archive.org/web/20230410092624/https://www.rsssf.org/tables/2023uefanl.html#f4 |url-status=live }}</ref> Spain would then beat [[Croatia national football team|Croatia]] on penalties after a 0–0 draw.<ref name="UNL22"/> Spain reached a record third consecutive final at the [[2025 UEFA Nations League Finals|2025 edition]] by defeating the [[Netherlands national football team|Netherlands]] in the quarter-finals, and [[France national football team|France]] in the semi-finals 5–4. In the first ever [[Portugal–Spain football rivalry|Iberian final]], Spain faced [[Portugal national football team|Portugal]] in Munich. Despite dominating the game, Spain were unable to break through the Portuguese defense. The score ended 2–2 after 90 minutes and extra time, and Spain lost on penalties.
+ 
+{| class="wikitable" style="text-align:center"
+!colspan=22|[[UEFA Nations League]] record
+|-
+!colspan=12|League phase / Quarter-finals
+!rowspan=7|
+!colspan=9|Finals
+|-
+!Season
+!{{Tooltip|LG|League (A, B, C or D)}}
+!{{Tooltip|Grp|Group (1, 2, 3 or 4)}}
+!{{Tooltip|Pos|Position}}
+!{{Tooltip|Pld|Matches played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!{{Tooltip|P/R|Promotion/relegation at end of season}}
+!{{Tooltip|IR|Interim ranking}}
+!Year
+!{{Tooltip|Pld|Matches played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}*
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!Squad
+!{{Tooltip|OR|Overall ranking}}
+|-
+|[[2018–19 UEFA Nations League|2018–19]]
+|[[2018–19 UEFA Nations League A|A]]
+|[[2018–19 UEFA Nations League A#Group 4|4]]
+|2nd||4||2||0||2||12||7||{{same position}}||7th
+|{{flagicon|POR}} [[2019 UEFA Nations League Finals|2019]]
+|colspan=7|''Did not qualify''
+|7th
+|- style="background:silver;"
+|[[2020–21 UEFA Nations League|2020–21]]
+|[[2020–21 UEFA Nations League A|A]]
+|[[2020–21 UEFA Nations League A#Group 4|4]]
+|1st||6||3||2||1||13||3||{{same position}}||4th
+|{{flagicon|ITA}} [[2021 UEFA Nations League Finals|2021]]
+|'''2'''||'''1'''||'''0'''||'''1'''||'''3'''||'''3'''
+|'''[[2021 UEFA Nations League Finals squads#Spain|Squad]]'''
+|'''[[2021 UEFA Nations League final|2nd]]'''
+|- style="background:gold;"
+|[[2022–23 UEFA Nations League|2022–23]]
+|[[2022–23 UEFA Nations League A|A]]
+|[[2022–23 UEFA Nations League A#Group 2|2]]
+|1st||6||3||2||1||8||5||{{same position}}||3rd
+|{{flagicon|NED}} [[2023 UEFA Nations League Finals|2023]]
+|'''2'''||'''1'''||'''1'''||'''0'''||'''2'''||'''1'''
+|'''[[2023 UEFA Nations League Finals squads#Spain|Squad]]'''
+|'''[[2023 UEFA Nations League final|1st]]'''
+|- style="background:silver;"
+|[[2024–25 UEFA Nations League|2024–25]]
+|[[2024–25 UEFA Nations League A|A]]
+|[[2024–25 UEFA Nations League A#Group 4|4]]
+||1st||8||5||3||0||18||9||{{same position}}||1st
+|{{flagicon|GER}} [[2025 UEFA Nations League Finals|2025]]
+|'''2'''||'''1'''||'''1'''||'''0'''||'''7'''||'''6'''
+|'''[[2025 UEFA Nations League Finals squads#Spain|Squad]]'''
+|'''[[2025 UEFA Nations League final|2nd]]'''
+|-
+!colspan=4|Total
+!24
+!13
+!7
+!4
+!51
+!24
+!colspan=2|1st
+!Total
+!6
+!3
+!2
+!1
+!12
+!10
+!3/4
+!1 Title
+|}
+''*Draws include knockout matches decided via [[Penalty shoot-out (association football)|penalty shoot-out]].''
+
+{| class="wikitable collapsible collapsed" style="text-align: center;font-size:90%;"
+|-
+!colspan=2|Spain's Nations League history
+|-
+!First match
+|{{fb|ENG}} 1–2 {{fb-rt|ESP}}<br>([[London]], England; 8 September 2018)
+|-
+!Biggest win
+|{{fb|ESP}} 6–0 {{fb-rt|CRO}}<br>([[Elche]], Spain; 11 September 2018)<br>{{fb|ESP}} 6–0 {{fb-rt|GER}}<br>([[Seville]], Spain; 17 November 2020)
+|-
+!Biggest defeat
+|{{fb|ESP}} 2–3 {{fb-rt|ENG}}<br>([[Seville]], Spain; 15 October 2018)<br>{{fb|CRO}} 3–2 {{fb-rt|ESP}}<br>([[Zagreb]], Croatia; 15 November 2018)<br>{{fb|UKR}} 1–0 {{fb-rt|ESP}}<br>([[Kyiv]], Ukraine; 13 October 2020)<br>{{fb|ESP}} 1–2 {{fb-rt|FRA}}<br>([[Milan]], Italy; 10 October 2021)<br>{{fb|ESP}} 1–2 {{fb-rt|SUI}}<br>([[Zaragoza]], Spain; 24 September 2022)
+|-
+!Best result
+|'''Champions''' ([[2022–23 UEFA Nations League|2022–23]])
+|-
+!Worst result
+|7th place ([[2018–19 UEFA Nations League|2018–19]])
+|}
+
+===CONMEBOL–UEFA Cup of Champions===
+After winning a record fourth European Championship in 2024, Spain qualified to their first ever CONMEBOL–UEFA Cup of Champions, where they were scheduled to face [[Argentina national football team|Argentina]], the champions of the [[2024 Copa América]]. However, the match was later cancelled after both sides could not come to an agreement as to which stadium would host the game.
+
+{| class="wikitable" style="text-align: center;"
+!colspan=10|[[CONMEBOL–UEFA Cup of Champions]] record
+|-
+!Year
+!Round
+!Position
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!Squad
+|-
+|{{flagicon|France|1974}} [[1985 Artemio Franchi Cup|1985]]
+|colspan=9 rowspan=3|''Did not qualify''
+|-
+|{{flagicon|Argentina|1861}} [[1993 Artemio Franchi Cup|1993]]
+|-
+|{{flagicon|England}} [[2022 Finalissima|2022]]
+|-
+|{{flagicon|Qatar}} [[2026 Finalissima|2026]]
+|colspan=9|''Cancelled''
+|-
+!Total
+!
+!0/3
+!0
+!0
+!0
+!0
+!0
+!0
+!—
+|}
+
+===FIFA Confederations Cup===
+{{main|Spain at the FIFA Confederations Cup}}
+
+
+Spain made two appearances at the FIFA Confederations Cup. Their first appearance came in 2009 as European champions when they won a third place medal,<ref>{{cite news |url=https://news.bbc.co.uk/sport2/hi/football/internationals/8118574.stm |title=Spain 3–2 South Africa (aet) |publisher=BBC Sport |date=28 June 2009 |access-date=19 October 2023 |archive-date=22 December 2021 |archive-url=https://web.archive.org/web/20211222233245/http://news.bbc.co.uk/sport1/hi/football/internationals/8118574.stm |url-status=live }}</ref> after losing 2–0 to the United States in the semi-finals.<ref>{{cite news |url=https://news.bbc.co.uk/sport2/hi/football/internationals/8114585.stm |title=Spain 0–2 United States |author=Saj Chowdhury |publisher=BBC Sport |date=25 June 2009 |access-date=19 October 2023 |archive-date=4 February 2023 |archive-url=https://web.archive.org/web/20230204012849/http://news.bbc.co.uk/sport1/hi/football/internationals/8114585.stm |url-status=live }}</ref> At the next edition, Spain qualified as both World and European champions.<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/22817409 |title=Confederations Cup 2013: Brazil, Spain & Tahiti among teams |author=Andy Cryer |publisher=BBC Sport |date=13 June 2013 |access-date=19 October 2023 |archive-date=21 December 2016 |archive-url=https://web.archive.org/web/20161221102012/http://m.bbc.co.uk/sport/football/22817409 |url-status=live }}</ref> ''La Roja'' reached the final in Brazil, but lost 3–0 to the hosts.<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/23093784 |title=Brazil 3–0 Spain |author=Ben Smith |publisher=BBC Sport |date=1 July 2013 |access-date=19 October 2023 |archive-date=8 August 2019 |archive-url=https://web.archive.org/web/20190808204924/https://www.bbc.co.uk/sport/football/23093784 |url-status=live }}</ref>
+
+{| class="wikitable" style="text-align: center;"
+|-
+!colspan=11| [[FIFA Confederations Cup]] record
+|-
+!Year
+!Round
+!Position
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!Squad
+|-
+|{{flagicon|Saudi Arabia}} [[1992 King Fahd Cup|1992]]
+|colspan=10|''[[UEFA]] did not participate''
+|-
+|{{flagicon|Saudi Arabia}} [[1995 King Fahd Cup|1995]]
+|colspan=10 rowspan=6|''Did not qualify''
+|-
+|{{flagicon|Saudi Arabia}} [[1997 FIFA Confederations Cup|1997]]
+|-
+|{{flagicon|Mexico}} [[1999 FIFA Confederations Cup|1999]]
+|-
+|{{flagicon|South Korea|1997}} {{flagicon|Japan}} [[2001 FIFA Confederations Cup|2001]]
+|-
+|{{flagicon|France|1974}} [[2003 FIFA Confederations Cup|2003]]
+|-
+|{{flagicon|Germany}} [[2005 FIFA Confederations Cup|2005]]
+|- style="background:#cc9966"
+|{{flagicon|South Africa}} [[2009 FIFA Confederations Cup|2009]]
+|'''Third place'''
+|'''3rd'''
+|'''5'''
+|'''4'''
+|'''0'''
+|'''1'''
+|'''11'''
+|'''4'''
+|'''[[2009 FIFA Confederations Cup squads#Spain|Squad]]'''
+|- style="background:silver;"
+|{{flagicon|Brazil}} [[2013 FIFA Confederations Cup|2013]]
+|'''[[2013 FIFA Confederations Cup Final|Runners-up]]'''
+|'''2nd'''
+|'''5'''
+|'''3'''
+|'''1'''
+|'''1'''
+|'''15'''
+|'''4'''
+|'''[[2013 FIFA Confederations Cup squads#Spain|Squad]]'''
+|-
+|{{flagicon|Russia}} [[2017 FIFA Confederations Cup|2017]]
+|colspan=9|''Did not qualify''
+|-
+!Total
+!Runners-up
+!2/10
+!10
+!7
+!1
+!2
+!26
+!8
+!—
+|}
+{| class="wikitable collapsible collapsed" style="text-align: center;font-size:90%;"
+|-
+!colspan=2|Spain's Confederations Cup history
+|-
+!First match
+|{{fb|ESP}} 5–0 {{fb-rt|NZL}}<br>([[Rustenburg]], South Africa; 14 June 2009)
+|-
+!Biggest win
+|{{fb|ESP}} 10–0 {{fb-rt|TAH}}<br>([[Rio de Janeiro]], Brazil; 20 June 2013)
+|-
+!Biggest defeat
+|{{fb|BRA}} 3–0 {{fb-rt|ESP}}<br>([[Rio de Janeiro]], Brazil; 30 June 2013)
+|-
+!Best result
+|Runners-up ([[2013 FIFA Confederations Cup|2013]])
+|-
+!Worst result
+|Third place ([[2009 FIFA Confederations Cup|2009]])
+|}
+
+===Olympic Games===
+{{smalldiv|
+;Rules (UEFA):
+* 1900–1904: ''club teams''<ref name=afa/><ref name=as/>
+* 1908–1988: ''amateur / youth national teams''{{refn|the 1924 and 1928 editions were co-organised by [[FIFA]])<ref name=afa>[https://www.afa.com.ar/es/posts/el-futbol-masculino-en-los-juegos-olimpicos El Fútbol Masculino en los Juegos Olímpicos] on AFA.org, 19 July 2021</ref><ref name=mem>[https://memoriasdelfutbol.com/futbol-juegos-olimpicos-historia-2/ Fútbol en los Juegos Olímpicos] by José M. Martín, 8 August 2021</ref>|group=note|name=fifaint}}{{refn|Countries from Eastern Europe competed with professional players.<ref name=mem/>|group=note|name=eastern}}
+* 1992–present: ''under-23 national teams''<ref name=as>[https://as.com/juegos_olimpicos/2021/07/20/noticias/1626796241_067088.html Historia del fútbol en los Juegos Olímpicos: medallero, palmarés y ganadores] by Alberto P. Sierra on ''As'', 20 July 2021</ref><ref name=mem/>
+;Note:
+* ''No tournament held in [[1932 Summer Olympics|1932]]''
+* ''The [[Royal Spanish Football Federation]] was founded in 1913. Thus from 1900–1914 Spain did not participate at Olympic tournaments.''
+}}
+
+Spain made their debut at the [[1920 Summer Olympics]], where they played their first ever international match, a 1–0 victory over [[Denmark national football team|Denmark]]. At the conclusion of the tournament, Spain won their first silver medal.
+
+{| class="wikitable" style="text-align: center;"
+|-
+!colspan=12|[[Football at the Summer Olympics|Olympic Games]] record
+|-
+!Year
+!Host city
+!Round
+!Position
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!Squad
+|-
+|[[Football at the 1900 Summer Olympics|1900]] ||{{left|{{flagicon|France|1794}} [[Paris]]}}
+|colspan=9 rowspan=2|''Only club teams participated''
+|-
+|[[Football at the 1904 Summer Olympics|1904]] ||{{left|{{flagicon|United States|1896}} [[St. Louis]]}}
+|-
+|[[Football at the 1908 Summer Olympics|1908]] ||{{left|{{flagicon|United Kingdom}} [[London]]}}
+|colspan=9 rowspan=2|''No national representative''
+|-
+|[[Football at the 1912 Summer Olympics|1912]] ||{{left|{{flagicon|Sweden}} [[Stockholm]]}}
+|- style="background:silver;"
+|[[Football at the 1920 Summer Olympics|1920]] ||{{left|{{flagicon|Belgium}} [[Antwerp]]}}
+|'''Silver medal'''||'''2nd'''||'''5'''||'''4'''||'''0'''||'''1'''||'''9'''||'''5'''||'''[[Football at the 1920 Summer Olympics – Men's team squads#Spain|Squad]]'''
+|-
+|[[Football at the 1924 Summer Olympics|1924]] ||{{left|{{flagicon|France|1794}} [[Paris]]}}
+|First round||17th||1||0||0||1||0||1||[[Football at the 1924 Summer Olympics – Men's team squads#Spain|Squad]]
+|-
+|[[Football at the 1928 Summer Olympics|1928]]||{{left|{{flagicon|Netherlands}} [[Amsterdam]]}}
+|Quarter-finals||6th||3||1||1||1||9||9||[[Football at the 1928 Summer Olympics – Men's team squads#Spain|Squad]]
+|-
+|[[Football at the 1936 Summer Olympics|1936]]||{{left|{{flagicon|Nazi Germany}} [[Berlin]]}}
+|colspan=9|''Withdrew''
+|-
+|[[Football at the 1948 Summer Olympics|1948]]–[[Football at the 1988 Summer Olympics|1988]]||colspan=10|''See [[Spain national amateur football team]]''
+|-
+|Since [[Football at the 1992 Summer Olympics|1992]]||colspan=10|''See [[Spain national under-23 football team]]''
+|-
+!colspan=2|Total||Silver medal||3/4||9||5||1||3||18||15||—
+|}
+
+==Honours==
+===Global===
+* '''[[FIFA World Cup]]'''
+** '''Champions (1):''' [[2010 FIFA World Cup|2010]]
+* '''[[FIFA Confederations Cup]]'''
+** Runners-up (1): [[2013 FIFA Confederations Cup|2013]]
+** Third place (1): [[2009 FIFA Confederations Cup|2009]]
+* '''[[Football at the Summer Olympics|Olympic Games]]'''
+** Silver medal (1): [[Football at the 1920 Summer Olympics|1920]]<!--Since 1992, the national team no longer competes in the Olympics - DO NOT ADD HONOURS POST 1992-->
+
+===Continental===
+* '''[[UEFA European Championship]]'''
+** '''Champions (4):''' [[1964 European Nations' Cup|1964]], [[UEFA Euro 2008|2008]], [[UEFA Euro 2012|2012]], [[UEFA Euro 2024|2024]]
+** Runners-up (1): [[UEFA Euro 1984|1984]]
+* '''[[UEFA Nations League]]'''
+** '''Champions (1):''' [[2023 UEFA Nations League Finals|2023]]
+** Runners-up (2): [[2021 UEFA Nations League Finals|2021]], [[2025 UEFA Nations League Finals|2025]]
+
+===Awards===
+* '''[[FIFA World Rankings#Awards|FIFA Team of the Year]]''': 2008, 2009, 2010, 2011, 2012, 2013, 2025
+* '''[[Laureus World Sports Award for Team of the Year|Laureus World Team of the Year]]''': 2011
+* '''[[World Soccer (magazine)#Men's World Team of the Year|World Soccer Team of the Year]]''': 2008, 2010, 2012, 2024
+* '''[[Gazzetta Sports Awards#Worldwide|Gazzetta Sports World Team of the Year]]''': 2010, 2012
+* '''[[Princess of Asturias Awards|Prince of Asturias Award for Sports]]''': 2010
+* '''[[FIFA World Cup Fair Play Trophy]]''': [[2006 FIFA World Cup|2006]], [[2010 FIFA World Cup|2010]], [[2018 FIFA World Cup|2018]]
+* '''[[FIFA Confederations Cup records and statistics#Awards|FIFA Confederations Cup Fair Play Award]]''': [[2013 FIFA Confederations Cup|2013]]
+
+''Source:<ref>{{cite web |url=https://www.11v11.com/teams/spain/tab/honours/ |title=Spain national football team honours |website=11v11 |access-date=19 October 2023 |archive-date=3 November 2023 |archive-url=https://web.archive.org/web/20231103162050/https://www.11v11.com/teams/spain/tab/honours/ |url-status=live }}</ref>''
+
+===Summary===
+{| class="wikitable" width=30% style="font-size:90%; text-align:center;"
+|-
+!Competition!!{{Gold1}}!!{{Silver2}}!!{{Bronze3}}!!Total
+|-
+|align=left|[[FIFA World Cup]]
+|1||0||0||1
+|-
+|align=left|[[Football at the Summer Olympics|Olympic Games]]
+|0||1||0||1
+|-
+|align=left|[[FIFA Confederations Cup]]
+|0||1||1||2
+|-
+|align=left|[[UEFA European Championship]]
+|4||1||0||5
+|-
+|align=left|[[UEFA Nations League]]
+|1||2||0||3
+|-
+!Total!!6!!5!!1!!12
+|}
+
+==See also==
+{{Portal|Association football|Spain}}
+* [[Spain women's national football team]]
+* [[Spain national under-23 football team]] (Olympic football team)
+* [[Spain national under-21 football team]]
+* [[Spain national under-20 football team]]
+* [[Spain national under-19 football team]]
+* [[Spain national under-18 football team]]
+* [[Spain national under-17 football team]]
+* [[Spain national under-16 football team]]
+* [[Spain national under-15 football team]]
+* [[Football in Spain]]
+
+==Notes==
+{{Notelist}}
+{{Reflist|group=nb}}
+{{Reflist|group=note}}
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons category|Spain national association football team}}
+* {{Official website|https://rfef.es/en/national-teams}} by [[RFEF]]
+* [https://inside.fifa.com/about-fifa/associations/ESP Spain] at [[FIFA]]
+* [https://www.uefa.com/nationalassociations/esp/ Spain] at [[UEFA]]
+
+{{Spain national football team}}
+{{Navboxes top
+|title = Links to related articles
+|bg = #C60B1E
+|fg = #FFC400
+|bordercolor = #000033}}
+{{Navboxes
+| title = Spain achievements and awards
+|bg = #C60B1E
+|fg = #FFC400
+|bordercolor = #000033
+|list =
+{{s-start}}
+{{s-ach|ach}}
+{{succession box
+ | before = [[2006 FIFA World Cup|2006]]<br>{{fb|ITA}}
+ | after = [[2014 FIFA World Cup|2014]]<br>{{fb-rt|GER}}
+ | title = [[FIFA World Cup|World Champions]]
+ | years = [[2010 FIFA World Cup|2010]] (First title)
+|}}
+{{succession box
+ | before = [[UEFA Euro 1960|1960]]<br>{{fb|URS}}
+ | after = [[UEFA Euro 1968|1968]]<br>{{fb-rt|ITA}}
+ | title = [[UEFA European Championship|European Champions]]
+ | years = [[UEFA Euro 1964|1964]] (First title)
+|}}
+{{succession box
+ | before = [[UEFA Euro 2004|2004]]<br>{{fb|GRE}}
+ | after = [[UEFA Euro 2016|2016]]<br>{{fb-rt|POR}}
+ | title = [[UEFA European Championship|European Champions]]
+ | years = [[UEFA Euro 2008|2008]] (Second title)<br>[[UEFA Euro 2012|2012]] (Third title)
+|}}
+{{succession box
+ | before = [[UEFA Euro 2020|2020]]<br>{{fb|ITA}}
+ | after = ''[[UEFA Euro 2028|2028]]''
+ | title = [[UEFA European Championship|European Champions]]
+ | years = [[UEFA Euro 2024|2024]] (Fourth title)
+|}}
+{{S-end}}
+{{s-start}}
+{{s-ach|aw}}
+{{succession box
+ | before = {{fb|ARG}}
+ | after = {{fb-rt|GER}}
+ | title = [[FIFA World Rankings#Team of the Year|FIFA Team of the Year]]
+ | years = 2008–2013
+|}}
+{{succession box
+ | before = {{flagicon|RUS}} [[Yelena Isinbayeva]]
+ | after = [[Haile Gebrselassie]] {{flagicon|ETH}} 
+ | title = [[Prince of Asturias Award#Prince or Princess of Asturias Award for Sports|Prince of Asturias Award for Sports]]
+ | years = 2010
+|}}
+{{succession box
+ | before = {{flagicon|GBR}} [[Brawn GP]]
+ | after = [[FC Barcelona|Barcelona]] {{flagicon|ESP}} 
+ | title = [[Laureus World Sports Award for Team of the Year|Laureus Team of the Year]]
+ | years = 2010
+|}}
+{{S-end}}
+}}
+{{Navboxes
+|title = Spain squads
+|bg = #C60B1E
+|fg = #FFC400
+|bordercolor = #000033
+|list1 =
+{{Navboxes
+|title = Spain FIFA World Cup squads
+|bg = #C60B1E
+|fg = #FFC400
+|bordercolor = #000033
+|list1 =
+{{Spain squad 1934 FIFA World Cup}}
+{{Spain squad 1950 FIFA World Cup}}
+{{Spain squad 1962 FIFA World Cup}}
+{{Spain squad 1966 FIFA World Cup}}
+{{Spain squad 1978 FIFA World Cup}}
+{{Spain squad 1982 FIFA World Cup}}
+{{Spain squad 1986 FIFA World Cup}}
+{{Spain squad 1990 FIFA World Cup}}
+{{Spain squad 1994 FIFA World Cup}}
+{{Spain squad 1998 FIFA World Cup}}
+{{Spain squad 2002 FIFA World Cup}}
+{{Spain squad 2006 FIFA World Cup}}
+{{Spain squad 2010 FIFA World Cup}}
+{{Spain squad 2014 FIFA World Cup}}
+{{Spain squad 2018 FIFA World Cup}}
+{{Spain squad 2022 FIFA World Cup}}
+{{Spain squad 2026 FIFA World Cup}}
+}}
+{{Navboxes
+|title = Spain UEFA European Championship squads
+|bg = #C60B1E
+|fg = #FFC400
+|bordercolor = #000033
+|list1 =
+{{Spain squad 1964 European Nations' Cup}}
+{{Spain squad UEFA Euro 1980}}
+{{Spain squad UEFA Euro 1984}}
+{{Spain squad UEFA Euro 1988}}
+{{Spain squad UEFA Euro 1996}}
+{{Spain squad UEFA Euro 2000}}
+{{Spain squad UEFA Euro 2004}}
+{{Spain squad UEFA Euro 2008}}
+{{Spain squad UEFA Euro 2012}}
+{{Spain squad UEFA Euro 2016}}
+{{Spain squad UEFA Euro 2020}}
+{{Spain squad UEFA Euro 2024}}
+}}
+{{Navboxes
+|title = Spain FIFA Confederations Cup squads
+|bg = #C60B1E
+|fg = #FFC400
+|bordercolor = #000033
+|list1 =
+{{Spain squad 2009 FIFA Confederations Cup}}
+{{Spain squad 2013 FIFA Confederations Cup}}
+}}
+}}
+{{Spain national football team matches}}
+{{FIFA World Cup winners}}
+{{UEFA European Championship winners}}
+{{UEFA Nations League winners}}
+{{Laureus Team of the Year Award}}
+{{Prince of Asturias Award for Sports}}
+{{Football in Spain}}
+{{National sports teams of Spain}}
+{{UEFA teams}}
+{{Navboxes bottom}}
+
+{{DEFAULTSORT:Spain National Football Team}}
+[[Category:Spain national football team]]
+[[Category:Spain men's national football teams| ]]
+[[Category:European national association football teams]]
+[[Category:UEFA European Championship–winning countries]]
+[[Category:FIFA World Cup–winning countries]]
+[[Category:UEFA Nations League–winning countries]]
+[[Category:Laureus World Sports Awards winners]]
+[[Category:1920 establishments in Spain]]
+[[Category:National sports teams established in 1920]]

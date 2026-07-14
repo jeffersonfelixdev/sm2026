@@ -1,0 +1,983 @@
+{{Short description|None}}
+{{More citations needed|date=July 2026}}
+{{Use dmy dates|date=April 2026}}
+
+[[FIFA]] assigns a three-letter [[country code]] to each of its member and non-member countries. These are the official codes used by FIFA and its continental confederations ([[Asian Football Confederation|AFC]], [[Confederation of African Football|CAF]], [[CONCACAF]], [[CONMEBOL]], [[Oceania Football Confederation|OFC]] and [[UEFA]]) as name abbreviations of countries and dependent areas, in official competitions.
+
+== FIFA member codes ==
+{{See also|Geography of association football}}
+
+There are currently 211 FIFA members, each with its own unique country code:<ref>{{Cite web|url=https://www.fifa.com/associations/|archive-url=https://web.archive.org/web/20120422042045/http://www.fifa.com/associations/|archive-date=22 April 2012|title=Associations and Confederations|last=FIFA.com|publisher=FIFA|language=en-GB|url-status=live|access-date=4 March 2020}}</ref><ref name=":0">{{Cite web|url=https://rsssf.org/miscellaneous/fifa-codes.html|title=FIFA Country Codes|last=Jeffree|first=Iain|publisher=Rec.Sport.Soccer Statistics Foundation|access-date=12 March 2020}}</ref>
+
+{| class="wikitable" style="font-size:90%; display:inline-table"
+!Country
+!Code
+|-
+|{{Fba|AFG}}
+|AFG
+|-
+|{{Fba|ALB}}
+|ALB
+|-
+|{{Fba|ALG}}
+|ALG
+|-
+|{{Fba|ASA}}
+|ASA
+|-
+|{{Fba|AND}}
+|AND
+|-
+|{{Fba|ANG}}
+|ANG
+|-
+|{{Fba|AIA}}
+|AIA
+|-
+|{{Fba|ATG}}
+|ATG
+|-
+|{{Fba|ARG}}
+|ARG
+|-
+|{{Fba|ARM}}
+|ARM
+|-
+|{{Fba|ARU}}
+|ARU
+|-
+|{{Fba|AUS}}
+|AUS
+|-
+|{{Fba|AUT}}
+|AUT
+|-
+|{{Fba|AZE}}
+|AZE
+|-
+|{{Fba|BAH}}
+|BAH
+|-
+|{{Fba|BHR}}
+|BHR
+|-
+|{{Fba|BAN}}
+|BAN
+|-
+|{{Fba|BRB}}
+|BRB
+|-
+|{{Fba|BLR}}
+|BLR
+|-
+|{{Fba|BEL}}
+|BEL
+|-
+|{{Fba|BLZ}}
+|BLZ
+|-
+|{{Fba|BEN}}
+|BEN
+|-
+|{{Fba|BER}}
+|BER
+|-
+|{{Fba|BHU}}
+|BHU
+|-
+|{{Fba|BOL}}
+|BOL
+|-
+|{{Fba|BIH}}
+|BIH
+|-
+|{{Fba|BOT}}
+|BOT
+|-
+|{{Fba|BRA}}
+|BRA
+|-
+|{{Fba|VGB}}
+|VGB
+|-
+|{{Fba|BRU}}
+|BRU
+|-
+|{{Fba|BUL}}
+|BUL
+|-
+|{{Fba|BFA}}
+|BFA
+|-
+|{{Fba|BDI}}
+|BDI
+|-
+|{{Fba|CAM}}
+|CAM
+|-
+|{{Fba|CMR}}
+|CMR
+|-
+|{{Fba|CAN}}
+|CAN
+|-
+|{{Fba|CPV}}
+|CPV
+|-
+|{{Fba|CAY}}
+|CAY
+|-
+|{{Fba|CTA}}
+|CTA
+|-
+|{{Fba|CHA}}
+|CHA
+|-
+|{{Fba|CHI}}
+|CHI
+|-
+|{{Fba|CHN}}
+|CHN
+|-
+|{{Fba|TPE}}
+|TPE
+|-
+|{{Fba|COL}}
+|COL
+|-
+|{{Fba|COM}}
+|COM
+|-
+|{{Fba|CGO}}
+|CGO
+|-
+|{{Fba|COK}}
+|COK
+|-
+|{{Fba|CRC}}
+|CRC
+|-
+|{{Fba|CRO}}
+|CRO
+|-
+|{{Fba|CUB}}
+|CUB
+|-
+|{{Fba|CUW}}
+|CUW
+|-
+|{{Fba|CYP}}
+|CYP
+|-
+|{{Fba|CZE}}
+|CZE
+|}
+{| class="wikitable" style="font-size:90%; display:inline-table"
+!Country
+!Code
+|-
+|{{Fba|DEN}}
+|DEN
+|-
+|{{Fba|DJI}}
+|DJI
+|-
+|{{Fba|DMA}}
+|DMA
+|-
+|{{Fba|DOM}}
+|DOM
+|-
+|{{Fba|COD}}
+|COD
+|-
+|{{Fba|ECU}}
+|ECU
+|-
+|{{Fba|EGY}}
+|EGY
+|-
+|{{Fba|SLV}}
+|SLV
+|-
+|{{Fba|ENG}}
+|ENG
+|-
+|{{Fba|EQG}}
+|EQG
+|-
+|{{Fba|ERI}}
+|ERI
+|-
+|{{Fba|EST}}
+|EST
+|-
+|{{Fba|SWZ}}
+|SWZ
+|-
+|{{Fba|ETH}}
+|ETH
+|-
+|{{Fba|FRO}}
+|FRO
+|-
+|{{Fba|FIJ}}
+|FIJ
+|-
+|{{Fba|FIN}}
+|FIN
+|-
+|{{Fba|FRA}}
+|FRA
+|-
+|{{Fba|GAB}}
+|GAB
+|-
+|{{Fba|GAM}}
+|GAM
+|-
+|{{Fba|GEO}}
+|GEO
+|-
+|{{Fba|GER}}
+|GER
+|-
+|{{Fba|GHA}}
+|GHA
+|-
+|{{Fba|GIB}}
+|GIB
+|-
+|{{Fba|GRE}}
+|GRE
+|-
+|{{Fba|GRN}}
+|GRN
+|-
+|{{Fba|GUM}}
+|GUM
+|-
+|{{Fba|GUA}}
+|GUA
+|-
+|{{Fba|GUI}}
+|GUI
+|-
+|{{Fba|GNB}}
+|GNB
+|-
+|{{Fba|GUY}}
+|GUY
+|-
+|{{Fba|HAI}}
+|HAI
+|-
+|{{Fba|HON}}
+|HON
+|-
+|{{Fba|HKG}}
+|HKG
+|-
+|{{Fba|HUN}}
+|HUN
+|-
+|{{Fba|ISL}}
+|ISL
+|-
+|{{Fba|IND}}
+|IND
+|-
+|{{Fba|IDN}}
+|IDN
+|-
+|{{Fba|IRN}}
+|IRN
+|-
+|{{Fba|IRQ}}
+|IRQ
+|-
+|{{Fba|ISR}}
+|ISR
+|-
+|{{Fba|ITA}}
+|ITA
+|-
+|{{Fba|CIV}}
+|CIV
+|-
+|{{Fba|JAM}}
+|JAM
+|-
+|{{Fba|JPN}}
+|JPN
+|-
+|{{Fba|JOR}}
+|JOR
+|-
+|{{Fba|KAZ}}
+|KAZ
+|-
+|{{Fba|KEN}}
+|KEN
+|-
+|{{Fba|KOS}}
+|KOS
+|-
+|{{Fba|KUW}}
+|KUW
+|-
+|{{Fba|KGZ}}
+|KGZ
+|-
+|{{Fba|LAO}}
+|LAO
+|-
+|{{Fba|LVA}}
+|LVA
+|}
+{| class="wikitable" style="font-size:90%; display:inline-table"
+!Country
+!Code
+|-
+|{{Fba|LBN}}
+|LBN
+|-
+|{{Fba|LES}}
+|LES
+|-
+|{{Fba|LBR}}
+|LBR
+|-
+|{{Fba|LBY}}
+|LBY
+|-
+|{{Fba|LIE}}
+|LIE
+|-
+|{{Fba|LTU}}
+|LTU
+|-
+|{{Fba|LUX}}
+|LUX
+|-
+|{{Fba|MAC}}
+|MAC
+|-
+|{{Fba|MAD}}
+|MAD
+|-
+|{{Fba|MWI}}
+|MWI
+|-
+|{{Fba|MAS}}
+|MAS
+|-
+|{{Fba|MDV}}
+|MDV
+|-
+|{{Fba|MLI}}
+|MLI
+|-
+|{{Fba|MLT}}
+|MLT
+|-
+|{{Fba|MTN}}
+|MTN
+|-
+|{{Fba|MRI}}
+|MRI
+|-
+|{{Fba|MEX}}
+|MEX
+|-
+|{{Fba|MDA}}
+|MDA
+|-
+|{{Fba|MNG}}
+|MNG
+|-
+|{{Fba|MNE}}
+|MNE
+|-
+|{{Fba|MSR}}
+|MSR
+|-
+|{{Fba|MAR}}
+|MAR
+|-
+|{{Fba|MOZ}}
+|MOZ
+|-
+|{{Fba|MYA}}
+|MYA
+|-
+|{{Fba|NAM}}
+|NAM
+|-
+|{{Fba|NEP}}
+|NEP
+|-
+|{{Fba|NED}}
+|NED
+|-
+|{{Fba|NCL}}
+|NCL
+|-
+|{{Fba|NZL}}
+|NZL
+|-
+|{{Fba|NCA}}
+|NCA
+|-
+|{{Fba|NIG}}
+|NIG
+|-
+|{{Fba|NGA}}
+|NGA
+|-
+|{{Fba|PRK}}
+|PRK
+|-
+|{{Fba|MKD}}
+|MKD
+|-
+|{{Fba|NIR}}
+|NIR
+|-
+|{{Fba|NOR}}
+|NOR
+|-
+|{{Fba|OMA}}
+|OMA
+|-
+|{{Fba|PAK}}
+|PAK
+|-
+|{{Fba|PLE}}
+|PLE
+|-
+|{{Fba|PAN}}
+|PAN
+|-
+|{{Fba|PNG}}
+|PNG
+|-
+|{{Fba|PAR}}
+|PAR
+|-
+|{{Fba|PER}}
+|PER
+|-
+|{{Fba|PHI}}
+|PHI
+|-
+|{{Fba|POL}}
+|POL
+|-
+|{{Fba|POR}}
+|POR
+|-
+|{{Fba|PUR}}
+|PUR
+|-
+|{{Fba|QAT}}
+|QAT
+|-
+|{{Fba|IRL}}
+|IRL
+|-
+|{{Fba|ROU}}
+|ROU
+|-
+|{{Fba|RUS}}
+|RUS
+|-
+|{{Fba|RWA}}
+|RWA
+|-
+|{{Fba|SKN}}
+|SKN
+|}
+{| class="wikitable" style="font-size:90%; display:inline-table"
+!Country
+!Code
+|-
+|{{Fba|LCA}}
+|LCA
+|-
+|{{Fba|VIN}}
+|VIN
+|-
+|{{Fba|SAM}}
+|SAM
+|-
+|{{Fba|SMR}}
+|SMR
+|-
+|{{Fba|STP}}
+|STP
+|-
+|{{Fba|KSA}}
+|KSA
+|-
+|{{Fba|SCO}}
+|SCO
+|-
+|{{Fba|SEN}}
+|SEN
+|-
+|{{Fba|SRB}}
+|SRB
+|-
+|{{Fba|SEY}}
+|SEY
+|-
+|{{Fba|SLE}}
+|SLE
+|-
+|{{Fba|SGP}}
+|SGP
+|-
+|{{Fba|SVK}}
+|SVK
+|-
+|{{Fba|SVN}}
+|SVN
+|-
+|{{Fba|SOL}}
+|SOL
+|-
+|{{Fba|SOM}}
+|SOM
+|-
+|{{Fba|RSA}}
+|RSA
+|-
+|{{Fba|KOR}}
+|KOR
+|-
+|{{Fba|SSD}}
+|SSD
+|-
+|{{Fba|ESP}}
+|ESP
+|-
+|{{Fba|SRI}}
+|SRI
+|-
+|{{Fba|SDN}}
+|SDN
+|-
+|{{Fba|SUR}}
+|SUR
+|-
+|{{Fba|SWE}}
+|SWE
+|-
+|{{Fba|SUI}}
+|SUI
+|-
+|{{Fba|SYR}}
+|SYR
+|-
+|{{Fba|TAH}}
+|TAH
+|-
+|{{Fba|TJK}}
+|TJK
+|-
+|{{Fba|TAN}}
+|TAN
+|-
+|{{Fba|THA}}
+|THA
+|-
+|{{Fba|TLS}}
+|TLS
+|-
+|{{Fba|TOG}}
+|TOG
+|-
+|{{Fba|TGA}}
+|TGA
+|-
+|{{Fba|TRI}}
+|TRI
+|-
+|{{Fba|TUN}}
+|TUN
+|-
+|{{Fba|TUR}}
+|TUR
+|-
+|{{Fba|TKM}}
+|TKM
+|-
+|{{Fba|TCA}}
+|TCA
+|-
+|{{Fba|UGA}}
+|UGA
+|-
+|{{Fba|UKR}}
+|UKR
+|-
+|{{Fba|UAE}}
+|UAE
+|-
+|{{Fba|USA}}
+|USA
+|-
+|{{Fba|URU}}
+|URU
+|-
+|{{Fba|VIR}}
+|VIR
+|-
+|{{Fba|UZB}}
+|UZB
+|-
+|{{Fba|VAN}}
+|VAN
+|-
+|{{Fba|VEN}}
+|VEN
+|-
+|{{Fba|VIE}}
+|VIE
+|-
+|{{Fba|WAL}}
+|WAL
+|-
+|{{Fba|YEM}}
+|YEM
+|-
+|{{Fba|ZAM}}
+|ZAM
+|-
+|{{Fba|ZIM}}
+|ZIM
+|-
+|}
+
+== Non-FIFA member codes ==
+<!-- Codes added without verification that they are used by FIFA or the confederations may be removed. -->
+
+The following codes refer to countries or dependent territories that are currently not affiliated with FIFA, but whose codes either appear in the FIFA results database, or are used regularly by confederation websites:
+
+{| class="wikitable" style="font-size:90%; display:inline-table"
+!Country
+!Code
+!Confederation
+|-
+|rowspan=2|{{Fb|Bonaire}}
+|BES<ref>{{Cite web |url=https://api.fifa.com/api/v3/picture/flags-sq-5/BES |title=Archived copy |access-date=2022-02-03 |archive-date=2021-07-09 |archive-url=https://web.archive.org/web/20210709182350/https://api.fifa.com/api/v1/picture/flags-sq-5/bes |url-status=live }}</ref>
+|rowspan=2|[[CONCACAF]]
+|-
+|BOE<ref>{{Cite web|date=2021-03-07|title=BONAIRE|url=https://www.concacaf.com/inside-concacaf/member-associations/bonaire/|access-date=2021-06-22|website=Concacaf}}</ref>
+|-
+|{{Fb|French Guiana}}
+|GUF<ref>{{Cite web|date=2021-03-07|title=FRENCH GUIANA|url=https://www.concacaf.com/inside-concacaf/member-associations/french-guiana/|access-date=2021-06-22|website=Concacaf}}</ref>
+|[[CONCACAF]]
+|-
+|{{Fb|Guadeloupe}}
+|GLP<ref>{{Cite web|date=2021-03-07|title=GUADELOUPE|url=https://www.concacaf.com/inside-concacaf/member-associations/guadeloupe/|access-date=2021-06-22|website=Concacaf}}</ref>
+|[[CONCACAF]]
+|-
+|{{Fb|Kiribati}}
+|KIR<ref name=":0" />
+|[[Oceania Football Confederation|OFC]]
+|-
+|{{Fb|Martinique}}
+|MTQ<ref>{{Cite web|date=2021-03-07|title=MARTINIQUE|url=https://www.concacaf.com/en/inside-concacaf/member-associations/martinique/|access-date=2021-06-22|website=Concacaf}}</ref>
+|[[CONCACAF]]
+|-
+|{{Fb|Niue}}
+|NIU<ref>{{Cite web|date=2023-07-17|title=Niue|url=https://api.fifa.com/api/v3/picture/flags-sq-5/NIU|access-date=2023-07-17|website=Fifa}}</ref>
+|[[Oceania Football Confederation|OFC]]
+|-
+|rowspan=2|{{Fb|MNP}}
+|MNP<ref>{{Cite web|date=2023-07-17|title=Northern Mariana Islands|url=https://api.fifa.com/api/v3/picture/flags-sq-5/MNP|access-date=2023-07-17|website=Fifa}}</ref>
+|rowspan=2|[[Asian Football Confederation|AFC]]
+|-
+|NMI
+|-
+|{{Fb|Réunion}}
+|REU<ref>{{Cite web|date=2023-07-17|title=Réunion|url=https://api.fifa.com/api/v3/picture/flags-sq-5/REU|access-date=2023-07-17|website=Fifa}}</ref>
+|[[Confederation of African Football|CAF]]
+|-
+|rowspan=2|{{Fb|Saint Martin}}
+|MAF<ref>{{Cite web |url=https://api.fifa.com/api/v3/picture/flags-sq-5/MAF |title=Saint Martin |access-date=2023-06-26 |archive-date=2023-06-26 |archive-url=https://web.archive.org/web/20230626161554/https://api.fifa.com/api/v3/picture/flags-sq-5/MAF |url-status=live }}</ref>
+|rowspan=2|[[CONCACAF]]
+|-
+|SMN<ref>{{Cite web|date=2021-03-07|title=SAINT-MARTIN|url=https://www.concacaf.com/inside-concacaf/member-associations/saint-martin/|access-date=2021-06-22|website=Concacaf}}</ref>
+|-
+|rowspan=2|{{Fb|Sint Maarten}}
+|SXM<ref>{{Cite web|date=2022-04-29|title=SINT MAARTEN|url=https://api.fifa.com/api/v3/picture/flags-sq-5/SXM|access-date=2022-04-29|website=Fifa}}</ref>
+|rowspan=2|[[CONCACAF]]
+|-
+|SMA<ref>{{Cite web|date=2021-03-07|title=SINT MAARTEN|url=https://www.concacaf.com/inside-concacaf/member-associations/sint-maarten/|access-date=2021-06-22|website=Concacaf}}</ref>
+|-
+|{{Fb|Tuvalu}}
+|TUV<ref>{{Cite web|date=2023-07-17|title=Tuvalu|url=https://api.fifa.com/api/v3/picture/flags-sq-5/TUV|access-date=2023-07-17|website=Fifa}}</ref>
+|[[Oceania Football Confederation|OFC]]
+|-
+|{{Fb|Zanzibar}}
+|ZAN
+|[[Confederation of African Football|CAF]]
+|}
+
+== Irregular codes ==
+The following codes refer to countries or dependent areas that are currently not affiliated with FIFA. Even though they are members or associate members of their regional confederations, these codes are not regularly used.
+
+=== Sovereign states ===
+{| class="wikitable" style="font-size:90%; display:inline-table"
+!Country
+!Code
+|-
+|{{Fb|Great Britain}}
+|GBR<ref name=":0" /><!--DO NOT ADD "UEFA" HERE, GREAT BRITAIN IS NOT A MEMBER OF UEFA-->
+|-
+|{{Fb|MHL}}
+|MHL<ref name=":0" />
+|-
+|{{Fb|FSM}}
+|FSM<ref>{{cite web|url=https://api.fifa.com/api/v3/picture/flags-sq-5/FSM|archive-url=https://web.archive.org/web/20230717095716/https://api.fifa.com/api/v3/picture/flags-sq-5/FSM|url-status=live|title=Micronesia|archive-date=2023-07-17}}</ref>
+|-
+|rowspan=2|{{Fb|MCO}}
+|MON<ref>{{cite web|url=https://api.fifa.com/api/v3/picture/flags-sq-5/MON|archive-url=https://web.archive.org/web/20200112202850/https://api.fifa.com/api/v1/picture/flags-sq-5/MON|url-status=dead|title=Monaco|archive-date=2020-01-12}}</ref>
+|-
+|MCO
+|-
+|{{Fb|NRU}}
+|NRU<ref name=":0" />
+|-
+|{{Fb|Palau}}
+|PLW<ref>{{cite web|url=https://api.fifa.com/api/v3/picture/flags-sq-5/PLW|archive-url=https://web.archive.org/web/20230717095715/https://api.fifa.com/api/v3/picture/flags-sq-5/PLW|url-status=live|title=Palau|archive-date=2023-07-17}}</ref>
+|-
+|{{Fb|Vatican City}}
+|VAT
+|}
+
+=== States with limited recognition ===
+{| class="wikitable" style="font-size:90%; display:inline-table"
+!Country
+!Code
+|-
+|{{Fb|Abkhazia}}
+|ABH
+|-
+|{{Fb|Somaliland}}
+|SMD
+|-
+|{{Fb|South Ossetia}}
+|OSS
+|-
+|rowspan=2|{{Fb|Northern Cyprus}}
+|NCY<!--DO NOT ADD "UEFA" HERE, NORTHERN CYPRUS IS NOT A MEMBER OF UEFA-->
+|-
+|TRNC
+|-
+|{{Fb|PMR}}
+|PMR
+|-
+|rowspan=2|{{Fb|ESH}}
+|ESH <!--DO NOT ADD "CAF" HERE, WESTERN SAHARA IS NOT A MEMBER OF CAF-->
+|-
+|SADR
+|}
+
+=== Dependencies territories ===
+{| class="wikitable" style="font-size:90%; display:inline-table"
+!Country
+!Code
+|-
+|{{Fb|Basque Country}}
+|BSQ
+|-
+|{{Fb|CAT}}
+|CAT
+|-
+|rowspan=2|{{Fb|Falkland Islands|local}}
+|FLK
+|-
+|FIS
+|-
+|-
+|{{Fb|GRL}}
+|GRL
+|-
+|{{Fb|Guernsey}}
+|GGY
+|-
+|{{Fb|Jersey}}
+|JER
+|-
+|{{Fb|Isle of Man}}
+|IOM
+|-
+|{{Fb|BLM|local}}
+|BLM
+|-
+|{{Fb|SPM|local}}
+|SPM
+|-
+|{{Fb|Saint Helena}}
+|SHN
+|-
+|{{flag|TOK|name=Tokelau}}
+|TOK
+|-
+|rowspan=2|{{Fb|WLF|local}}
+|WLF
+|-
+|WAF
+|-
+|}
+
+=== [[International Island Games Association|IIGA]] Member ===
+{| class="wikitable" style="font-size:90%; display:inline-table"
+!Country
+!Code
+|-
+|{{Fb|Åland}}
+|ALA
+|-
+|{{Fb|Gozo}}
+|GOZ
+|}
+
+== Obsolete country codes ==
+The following codes are obsolete because a country has ceased to exist (e.g. by merging into another or splitting into several countries), changed its name or its code:
+
+{| class="wikitable" style="font-size:90%; display:inline-table"
+!Country
+!Code
+!Country
+!Code
+!Country
+!Code
+|-
+|{{Fb|Bohemia}}
+|BOH
+|{{Fb|Lebanon}}
+|LIB
+|{{Fb|South Yemen}}
+|YMD
+|-
+|{{Fb|British Guiana}}
+|BGU
+|{{Fb|Malaya}}
+|MAL
+|{{Fb|Southern Rhodesia}}
+|SRH
+|-
+|{{Fb|British India}}
+|BIN
+|{{Fb|Netherlands}}
+|HOL
+|{{Fb|Soviet Union}}
+|URS
+|-
+|{{Fb|Burma|1974}}
+|BUR
+|{{Fb|Netherlands Antilles}}
+|ANT
+|{{Fb|Sudan}}
+|SUD
+|-
+|{{Fb|Central African Republic}}
+|CAF
+|{{Fb|New Hebrides}}
+|HEB
+|{{Fb|Dutch Guiana}}
+|NGY
+|-
+|{{Fb|Ceylon|1951}}
+|CEY
+|{{Fb|North Yemen}}
+|YAR
+|{{Fb|Taiwan}}
+|TAI
+|-
+|{{Fb|CIS}}
+|CIS
+|{{Fb|Northern Rhodesia}}
+|NRH
+|{{Fb|Tanganyika (1961–1964)}}
+|TAA
+|-
+|{{Fb|Czechoslovakia}}
+|TCH
+|{{Fb|Palestine, British Mandate}}
+|PAL
+|{{Fb|United Arab Republic}}
+|UAR
+|-
+|{{Fb|Dahomey}}
+|DAH
+|{{Fb|Rhodesia}}
+|RHO
+|{{Fb|Upper Volta}}
+|UPV
+|-
+|{{Fb|Dutch East Indies}}
+|INH
+|{{Fb|Romania}}
+|ROM
+|{{Fb|West Germany}}
+|FRG
+|-
+|{{Fb|East Germany}}
+|GDR
+|{{Fb|Saar}}
+|SAA
+|{{Fb|Western Samoa}}
+|WSM
+|-
+|{{Fb|Gold Coast}}
+|GOC
+|{{Fb|Serbia and Montenegro}}
+|SCG
+|{{Fb|Yugoslavia}}
+| rowspan="2" |YUG
+|-
+|{{Fb|Ireland}}
+|EIR
+|{{Fb|Siam}}
+|SIA
+|{{Fb|FR Yugoslavia|name=FR Yugoslavia}}
+|-
+|{{Fb|Kosovo}}
+|KVX
+|{{Fb|Singapore}}
+|SIN
+|{{Fb|Zaire}}
+|ZAI
+|-
+|}
+
+== See also ==
+* [[Geography of association football]]
+* [[Comparison of alphabetic country codes]]
+* [[List of IOC country codes]]
+* [[ISO 3166-1]]
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* [https://rsssf.org/miscellaneous/fifa-codes.html FIFA Country Codes] – list maintained by the [[RSSSF]] [[Usenet]] group.
+* {{Official website|https://www.fifa.com|FIFA}} {{In lang|en|fr|es|pt|de|it|ar|ja|ko|id}}
+
+{{Portal bar|Association football|Women's association football|World}}
+{{FIFA navbox}}
+{{Geocoding-systems}}
+{{International football}}
+{{International futsal}}
+{{International beach soccer}}
+{{Authority control}}
+
+[[Category:FIFA|Country codes]]
+[[Category:Association football-related lists|Country codes]]
+[[Category:Lists of country codes|FIFA country codes]]

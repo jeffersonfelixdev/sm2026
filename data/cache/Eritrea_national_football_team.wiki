@@ -1,0 +1,882 @@
+{{short description|Men's association football team}}
+{{About|the men's team|the women's team|Eritrea women's national football team}}
+{{Infobox National football team
+| Name               = Eritrea
+| Badge              = 
+| Nickname           =({{langx|ti| ኣግማል ቀይሕ ባሕሪ}}) Red Sea Camels<ref name="eastafro.com red sea boys">{{cite web |url=https://www.eastafro.com/2012/11/26/eritrea-red-sea-boys-hold-zanzibar-heroes/ |title=Eritrea Red Sea Boys hold Zanzibar Heroes {{!}} EastAFRO.com |access-date=2019-09-05 |archive-date=2019-09-05 |archive-url=https://web.archive.org/web/20190905185614/https://www.eastafro.com/2012/11/26/eritrea-red-sea-boys-hold-zanzibar-heroes/ |url-status=dead }}</ref><ref name="tesfanews red sea boys">{{cite web |url=http://www.tesfanews.net/team-eritrea-the-red-sea-boys-are-back/amp/ |title=Team Eritrea: The Red Sea Boys Are Back |access-date=2020-01-06 |archive-date=2023-02-12 |archive-url=https://web.archive.org/web/20230212031259/https://tesfanews.net/team-eritrea-the-red-sea-boys-are-back/amp/ |url-status=dead }}</ref> 
+| Association        = [[Eritrean National Football Federation]] (ENFF)
+| Sub-confederation  = [[Council for East and Central Africa Football Associations|CECAFA]]<br>(East & Central Africa)
+| Confederation      = [[Confederation of African Football|CAF]] (Africa)
+| Coach              = [[Hesham Yakan]]
+| Captain            = [[Ablelom Teklezghi]]
+| Most caps          = {{nowrap|[[Yidnekachew Shimangus]] (23)}}
+| Top scorer         = [[Yidnekachew Shimangus]]<br>[[Ali Sulieman]] (6)
+| Home Stadium       = [[Cicero Stadium]]
+| FIFA Trigramme     = ERI
+| FIFA Rank          = {{FIFA World Rankings|ERI}}
+| FIFA max           = 121<ref>{{cite web|url=https://www.fifa.com/associations/association=eri/ranking/gender=m/index.html|archive-url=https://web.archive.org/web/20070620233108/http://www.fifa.com/associations/association=eri/ranking/gender=m/index.html|url-status=dead|archive-date=June 20, 2007|title=FIFA World Ranking|website=FIFA.com|publisher=FIFA|access-date=22 January 2018}}</ref>
+| FIFA max date      = August 2007
+| FIFA min           = 207
+| FIFA min date      = April–May 2018, September 2019
+| Elo Rank           = {{World Football Elo Ratings|Eritrea}}
+| Elo max = 140
+| Elo max date = 1992
+| Elo min = 185
+| Elo min date = 2018
+| pattern_la1      = _eritrea1618a
+| pattern_b1       = _eritrea1618a
+| pattern_ra1      = _eritrea1618a
+| pattern_sh1      = _eritrea1618a
+| pattern_so1      = _eritrea1618a
+| leftarm1         = FFFFFF
+| body1            = FFFFFF
+| rightarm1        = FFFFFF
+| shorts1          = FFFFFF
+| socks1           = FFFFFF
+| pattern_la2      = _eritrea1618h
+| pattern_b2       = _eritrea1618h
+| pattern_ra2      = _eritrea1618h
+| pattern_sh2      = _eritrea1618h
+| pattern_so2      = _eritrea1618h
+| leftarm2         = 3C96FF
+| body2            = 3C96FF
+| rightarm2        = 3C96FF
+| shorts2          = 3C96FF
+| socks2           = 3C96FF
+| First game         = ''Pre-independence''<br>{{fb|SUD}} 1–1 '''Eritrea''' {{flagicon|ETH|1991}} <br> ([[Khartoum]], [[Sudan]]; 26 June 1992)<br>''Post-independence''<br>{{fb|Seychelles|1977}} 0–1 {{fb-rt|ERI|1993}}<br>([[Mumias]], [[Kenya]]; 29 November 1994)
+| Largest win        = {{fb|Djibouti}} 0–3 {{fb-rt|ERI}}<br>([[Kampala]], [[Uganda]]; 13 December 2019) <br> {{fb|KEN}} 1–4 {{fb-rt|ERI}}<br>([[Kampala]], [[Uganda]]; 17 December 2019)
+| Largest loss       = {{fb|Ghana}} 5–0 {{fb-rt|ERI}}<br>([[Accra]], [[Ghana]]; 28 February 1999) <br> {{fb|ANG}} 6–1 {{fb-rt|ERI}} <br> ([[Luanda]], [[Angola]]; 25 March 2007)
+| Regional name      = [[CECAFA Cup]]
+| Regional cup apps  = 12
+| Regional cup first = [[1994 CECAFA Cup|1994]]
+| Regional cup best  = Runners-up ([[2019 CECAFA Cup|2019]])
+}}
+{{Patronymic names||Naming conventions in Ethiopia and Eritrea}}
+The '''Eritrea national football team''' ({{langx|ti|ሃገራዊት ጋንታ ኩዕሶ እግሪ ኤርትራ}}) represents [[Eritrea]] in men's international [[association football|football]] and it is controlled by the [[Eritrean National Football Federation]] (ENFF). It is nicknamed the ''Red Sea Camels''. It has never qualified for the finals of the [[FIFA World Cup]] or the [[Africa Cup of Nations]]. [[Asmara]] side [[Red Sea FC]] are the main supplier for the national team and the team represents both [[FIFA]] and [[Confederation of African Football]] (CAF).
+
+Excluding its first match-up in the Pre-Independence era (which was a 1–1 draw in a [[exhibition match|Friendly]] against [[Sudan]] in 1992), Eritrea's official maiden international game after [[Eritrean War of Independence|gaining independence from Ethiopia]] was during the group stage of the [[1994 CECAFA Cup]] by winning 1–0 against [[Seychelles national football team|Seychelles]]. It would later advance to the semi-finals in their first participation, losing to both [[Tanzania national football team|Tanzania]] and [[Kenya national football team|Kenya]], subsequently finishing fourth. In recent years, Eritrea's national team gained notoriety as several players vanished in an attempt to seek political asylum in foreign countries, leading to numerous withdrawals from the qualifying phase of major tournaments such as the [[FIFA World Cup]] and [[Africa Cup of Nations]]: from September 2023 to March 2026, Eritrea did not even have a [[FIFA Men's World Ranking|FIFA ranking]] due to inactivity.<ref name="fifa-rank-20260621">{{cite web|title=Rankings: Eritrea (men)|url=https://inside.fifa.com/en/fifa-world-ranking/ERI?gender=men|website=Inside FIFA|publisher=FIFA|access-date=21 June 2026|archive-url=https://web.archive.org/web/20260621131120/https://inside.fifa.com/en/fifa-world-ranking/ERI?gender=men|archive-date=21 June 2026|location=Zurich|language=en|date=11 June 2026}}</ref><ref name="rnz-20260114">{{cite news|title=Football: Eritrea set for international comeback after six-year absence|url=https://www.rnz.co.nz/news/sport/583991/football-eritrea-set-for-international-comeback-after-six-year-absence|access-date=21 June 2026|work=RNZ News|agency=Reuters|publisher=Radio New Zealand|date=14 January 2026|archive-url=https://web.archive.org/web/20260115185914/https://www.rnz.co.nz/news/sport/583991/football-eritrea-set-for-international-comeback-after-six-year-absence|archive-date=15 January 2026|location=Wellington|language=en-nz}}</ref>
+
+As of 2026, the team's best result in a competition was during the most recent CECAFA Cup it participated in by finishing runner-up in 2019 as Eritrea came up short in the [[2019 CECAFA Cup#Final|final by losing 3–0 to hosts Uganda]].
+
+==History==
+
+Joshua Yonas' team participated in a friendly tournament in [[Sudan]] in 1992, the year before Eritrea achieved [[independence]].<ref name="rsssf-erit-intres">{{Cite web |url=https://www.rsssf.org/tablese/erit-intres.html |title=Eritrea International Matches |last=Courtney |first=Barrie |date=31 January 2008 |website=[[RSSSF]] |access-date=15 December 2009 |archive-date=6 April 2023 |archive-url=https://web.archive.org/web/20230406104113/https://www.rsssf.org/tablese/erit-intres.html |url-status=live }}</ref> Eritrea participated in the [[1994 CECAFA Cup]], organised by the [[Council for East and Central Africa Football Association]],<ref name="rsssf-erit-intres" /> even though the ENFF was not founded until 1996.<ref name="fifa">{{Cite web|url=https://www.fifa.com/associations/association=eri/index.html |archive-url=https://web.archive.org/web/20070620233204/http://www.fifa.com/associations/association=eri/index.html |url-status=dead |archive-date=June 20, 2007 |title=Eritrea on FIFA.com|work=FIFA.com|publisher=FIFA|access-date=15 December 2009}}</ref> The first full international was in the [[1999 CECAFA Cup]],<ref name="rsssf-erit-intres" /><ref>{{Cite web|url=https://www.fifa.com/worldFootball/results/_results.htmx?gender=m&rangeDate=3&context=association&association=eri&fromYear=1872&toYear=2010&fromMonth=1&toMonth=11 |archive-url=https://web.archive.org/web/20121107110318/http://www.fifa.com/worldFootball/results/_results.htmx?gender=m&rangeDate=3&context=association&association=eri&fromYear=1872&toYear=2010&fromMonth=1&toMonth=11 |url-status=dead |archive-date=November 7, 2012 |title=Eritrea Matches From 01.01.1872 To 30.11.2010|publisher=FIFA |access-date=15 December 2009}}</ref> the year after the ENFF joined the CAF<ref name="cafinfo">{{Cite web |url=http://www.cafonline.com/association/eritrea/information |title=Eritrean National Football Federation (ENFF) |work=Cafonline.com |publisher=CAF |access-date=15 December 2009 |archive-date=16 August 2010 |archive-url=https://web.archive.org/web/20100816045139/http://www.cafonline.com/association/eritrea/information |url-status=live }}</ref> and FIFA.<ref name="fifa" /> They participated in the qualifying rounds of the [[2000 African Cup of Nations]] and the [[2002 FIFA World Cup|2002 World Cup]], and subsequent editions until 2008.<ref name="rsssf-erit-intres" /> They have also appeared intermittently in the [[CECAFA Cup]].<ref name="rsssf-erit-intres" /><ref>{{Cite web |url=https://www.rsssf.org/tablese/eastcentrafr.html |title=East and Central African Championship (CECAFA) |last=Stokkermans |first=Karel |date=11 December 2009 |website=[[RSSSF]] |access-date=15 December 2009 |archive-date=18 December 2008 |archive-url=https://web.archive.org/web/20081218175449/http://www.rsssf.com/tablese/eastcentrafr.html |url-status=live }}</ref>
+
+In the [[2000 African Cup of Nations qualification|2000 Africa Cup of Nations qualifiers]], Eritrea managed a scoreless home draw versus [[Cameroon national football team|Cameroon]] and a 1–0 home win over [[Mozambique national football team|Mozambique]]. They finished second in their three team group, and advanced to a playoff round where they faced [[Senegal national football team|Senegal]] and [[Zimbabwe national football team|Zimbabwe]], but ultimately lost all four matches in that final stage.
+
+In [[2002 FIFA World Cup qualification – CAF first round#Pool D|the first round]] of the [[2002 FIFA World Cup qualification|qualifiers]] for the [[2002 FIFA World Cup|2002 World Cup]], they were drawn against [[Nigeria national football team|Nigeria]], and were defeated 4–0 in the away leg,<ref name="fifa2002-2">{{Cite web|url=https://www.fifa.com/worldcup/archive/edition=4395/preliminaries/preliminary=3868/matches/match=19539/report.html |title=First stage: Nigeria – Eritrea 4:0 (2:0) |work=2002 FIFA World Cup Korea/Japan Preliminaries |publisher=FIFA |access-date=16 December 2009 |url-status=dead |archive-url=https://web.archive.org/web/20091212201850/http://www.fifa.com/worldcup/archive/edition%3D4395/preliminaries/preliminary%3D3868/matches/match%3D19539/report.html |archive-date=12 December 2009 }}</ref> after a goalless draw at home.<ref>{{Cite web|url=https://www.fifa.com/worldcup/archive/edition=4395/preliminaries/preliminary=3868/matches/match=19538/report.html |title=First stage: Eritrea – Nigeria 0:0 |work=2002 FIFA World Cup Korea/Japan Preliminaries |publisher=FIFA |access-date=16 December 2009 |url-status=dead |archive-url=https://web.archive.org/web/20091012150251/http://www.fifa.com/worldcup/archive/edition%3D4395/preliminaries/preliminary%3D3868/matches/match%3D19538/report.html |archive-date=12 October 2009 }}</ref> The coach was [[Yilmaz Yuceturk]].<ref name="fifa2002-2"/>
+
+In the [[2006 FIFA World Cup qualification – CAF first round|first round]] of the [[2006 FIFA World Cup|2006 World Cup]] [[2006 FIFA World Cup qualification|qualifiers]], [[Sudan national football team|Sudan]] was Eritrea's first round opponent. Eritrea lost the first leg 3–0,<ref name="fifa2006-1">{{Cite web|url=https://www.fifa.com/worldcup/archive/germany2006/preliminaries/preliminary=7381/matches/match=34284/report.html |title=Play-off: Sudan – Eritrea 3:0 (0:0) |work=2006 FIFA World Cup Germany Preliminaries |publisher=FIFA |access-date=16 December 2009 |url-status=dead |archive-url=https://web.archive.org/web/20100721060752/http://www.fifa.com/worldcup/archive/germany2006/preliminaries/preliminary%3D7381/matches/match%3D34284/report.html |archive-date=21 July 2010 }}</ref> before another goalless draw in [[Asmara]].<ref name="fifa2006-2">{{Cite web|url=https://www.fifa.com/worldcup/archive/germany2006/preliminaries/preliminary=7381/matches/match=34285/report.html |title=Play-off: Eritrea – Sudan 0:0 |work=2006 FIFA World Cup Germany Preliminaries |publisher=FIFA |access-date=16 December 2009 |url-status=dead |archive-url=https://web.archive.org/web/20100721062642/http://www.fifa.com/worldcup/archive/germany2006/preliminaries/preliminary%3D7381/matches/match%3D34285/report.html |archive-date=21 July 2010 }}</ref> The coach was Eritrean [[Tekie Abraha]].<ref name="fifa2006-1"/><ref name="fifa2006-2"/>
+
+In [[2008 Africa Cup of Nations qualification#Group 6|group 6 of the qualifiers]] for the [[2008 Africa Cup of Nations]], under the guidance of Romanian [[Dorian Marin]], Eritrea finished second behind [[Angola national football team|Angola]], failing to qualify for the final tournament. They beat [[Kenya national football team|Kenya]] twice and drew at home to Angola.
+
+In the [[2014 FIFA World Cup qualification – CAF first round|first round]] of the [[2014 FIFA World Cup|2014 World Cup]] [[2014 FIFA World Cup qualification|qualifiers]], Eritrea faced [[Rwanda national football team|Rwanda]]. The first leg in [[Asmara]] ended in a 1–1 draw (and saw Eritrea's first ever goal in a World Cup qualification match), but Rwanda took the second leg by a score of 3–1.
+
+In the [[2018 FIFA World Cup qualification – CAF first round|first round]] of the [[2018 FIFA World Cup qualification (CAF)|2018 World Cup qualifiers]], Eritrea faced [[Botswana]]. The first leg in Asmara saw Botswana win 2–0, and the second leg in [[Francistown]] saw Botswana win 3–1, with Botswana winning 5–1 on aggregate.
+
+In the [[2022 FIFA World Cup qualification – CAF first round|first round]] of the [[2022 FIFA World Cup qualification (CAF)|2022 World Cup qualifiers]], Eritrea faced [[Namibia national football team|Namibia]]. The first leg in Asmara saw Namibia win 2–1, and the second leg saw Namibia win 2–0; Namibia won 4–1 on aggregate.
+
+Eritrea withdrew from the [[2023 Africa Cup of Nations qualification|2023 Africa Cup of Nations qualifiers]]<ref name=":0">{{Cite news |title=Botswana through as Eritrea pull out of Afcon 2023 |work=BBC Sport |url=https://www.bbc.com/sport/africa/60618499 |access-date=28 March 2022 |archive-date=21 March 2022 |archive-url=https://web.archive.org/web/20220321151606/https://www.bbc.com/sport/africa/60618499 |url-status=live }}</ref> and the [[2026 FIFA World Cup qualification (CAF)|2026 World Cup qualifiers]],<ref name="ERI withdrawal" /> and would not play a match for six years until May 2025, when they played two matches against the Niger A' team: from 21 September 2023 to 31 March 2026, Eritrea was left out of the [[FIFA Men's World Ranking|FIFA rankings]] because they did not play a recognised match within the last four years.<ref name="fifa-rank-20260621"/><ref name="rnz-20260114"/>
+
+On 25 March 2026, Eritrea played their first competitive game since before the [[COVID-19 pandemic]] when they participated in the [[2027 Africa Cup of Nations qualification preliminary round]]. It was also their first AFCON-related game since 2008.<ref>{{Cite web|url=https://www.aljazeera.com/sports/2026/3/24/eritrea-to-end-18-year-afcon-isolation-by-playing-eswatini-in-qualifier|title=Eritrea to end 18-year AFCON isolation by playing Eswatini in qualifier|website=Al Jazeera}}</ref>
+
+=== Withdrawals from major tournament qualifying ===
+On 30 March 2014, Eritrea withdrew from the [[2015 Africa Cup of Nations qualification#Preliminary round|preliminary round]] of the [[2015 Africa Cup of Nations qualification|2015 Africa Cup of Nations qualifiers]],<ref>{{Cite web |date=31 March 2014 |title=Eritrea Withdraws from CAN 2015 |url=https://tesfanews.net/eritrea-withdraws-from-can-2015/#:~:text=By%20News%20Agencies%2C,and%20South%20Sudan%20are%20cancelled. |access-date=10 November 2023 |website=TesfaNews |archive-date=10 November 2023 |archive-url=https://web.archive.org/web/20231110134017/https://tesfanews.net/eritrea-withdraws-from-can-2015/#:~:text=By%20News%20Agencies%2C,and%20South%20Sudan%20are%20cancelled. |url-status=live }}</ref> likely due to a rising number of the Eritrean national team players defecting from Eritrea during away matches.<ref>{{Cite web |date=31 March 2014 |title=2015 Africa Cup of Nations: Eritrea withdraw from qualifiers |url=https://www.bbc.co.uk/sport/football/26818034 |access-date=10 November 2023 |website=BBC News |archive-date=10 November 2023 |archive-url=https://web.archive.org/web/20231110134017/https://www.bbc.co.uk/sport/football/26818034 |url-status=live }}</ref> They were intended to play against [[South Sudan national football team|South Sudan]], who were awarded a [[walkover]].<ref name="format2">{{cite web |date=24 February 2014 |title=Decisions of CAF Executive Committee on 21.02.2014 |url=http://www.cafonline.com/userfiles/file/a/Press%20release%20exco%2021%20fev%202014%20.pdf |publisher=Cafonline.com |access-date=10 November 2023 |archive-date=27 February 2014 |archive-url=https://web.archive.org/web/20140227201137/http://www.cafonline.com/userfiles/file/a/Press%20release%20exco%2021%20fev%202014%20.pdf |url-status=live }}</ref>
+
+On 2 March 2022, Eritrea withdrew from the [[2023 Africa Cup of Nations qualification preliminary round|preliminary round]] of the [[2023 Africa Cup of Nations qualification|2023 Africa Cup of Nations qualifiers]] due to the lack of a stadium that meets the requirements set by [[Confederation of African Football|CAF]] to host its international matches.<ref>{{Cite news|url=https://www.bbc.com/sport/africa/60618499|title=Botswana through as Eritrea pull out of Afcon 2023|work=BBC Sport |date=4 March 2022 |access-date=2023-11-10|archive-date=2023-03-29|archive-url=https://web.archive.org/web/20230329124542/https://www.bbc.com/sport/africa/60618499|url-status=live}}</ref><ref name=":0" /><ref name="ERI withdrawal" /> They were intended to play against Botswana.<ref>{{cite web |date=21 January 2022 |title=Road to Cote d'Ivoire 2023 kicks off with Preliminary Draw conducted |url=https://www.cafonline.com/news-center/news/road-to-cote-d-ivoire-2023-kicks-off-with-preliminary-draw-conducted |access-date=21 January 2022 |website=[[Confederation of African Football|CAFOnline.com]] |archive-date=21 January 2022 |archive-url=https://web.archive.org/web/20220121181739/https://www.cafonline.com/news-center/news/road-to-cote-d-ivoire-2023-kicks-off-with-preliminary-draw-conducted |url-status=live }}</ref> Botswana were also awarded a [[walkover]].
+
+In November 2023, Eritrea, who were drawn into [[2026 FIFA World Cup qualification – CAF Group E|Group E]] alongside [[Morocco national football team|Morocco]], [[Zambia national football team|Zambia]], [[Tanzania national football team|Tanzania]], [[Congo national football team|Congo]] and [[Niger national football team|Niger]],<ref name="ExCon">{{cite web |date=19 May 2023 |title=CAF Executive Committee approves FIFA World Cup 2026 Qualifiers calendar and announces TotalEnergies Africa Cup of Nations Côte d'Ivoire 2023 Final Draw date |url=https://www.cafonline.com/press-release/news/caf-executive-committee-approves-fifa-world-cup-2026-qualifiers-calendar-and-ann |access-date=15 July 2023 |website=cafonline.com |publisher=[[Confederation of African Football|CAF]] |archive-date=1 June 2023 |archive-url=https://web.archive.org/web/20230601162638/https://www.cafonline.com/press-release/news/caf-executive-committee-approves-fifa-world-cup-2026-qualifiers-calendar-and-ann |url-status=live }}</ref> pulled out of the [[2026 FIFA World Cup qualification (CAF)|2026 World Cup qualifiers]], citing the reason as being the refusal of Zemede Tekle, who is the Eritrean Commissioner for Sports and Culture, to participate in the playoffs.<ref name="ERI withdrawal">{{cite web |title=Eritrea Pull Out Of 2026 World Cup Qualifier |url=http://dehai.org/dehai/dehai-news/494254 |website=Dehai News |access-date=9 November 2023 |archive-date=14 December 2023 |archive-url=https://web.archive.org/web/20231214035025/http://dehai.org/dehai/dehai-news/494254 |url-status=live }}</ref><ref>{{Cite news|url=https://www.bbc.com/sport/africa/67382783|title=Eritrea withdraw from 2026 World Cup qualifiers|work=BBC Sport |date=10 November 2023 |access-date=2023-11-25|archive-date=2023-11-25|archive-url=https://web.archive.org/web/20231125121549/https://www.bbc.com/sport/africa/67382783|url-status=live}}</ref><ref>{{Cite news|url=https://www.bbc.com/sport/africa/67474407|title=The country that does not play international football|work=BBC Sport |date=23 November 2023 |access-date=2023-11-25|archive-date=2023-12-04|archive-url=https://web.archive.org/web/20231204115235/https://www.bbc.com/sport/africa/67474407|url-status=live}}</ref>
+
+===Defections===
+Recent years have seen a high number of [[refugee]]s leaving Eritrea,<ref name="cnn15122009"/><ref name="odula"/> and some athletes travelling to competitions abroad have taken the opportunity to abscond.<ref>{{Cite news |url=https://www.telegraph.co.uk/news/worldnews/africaandindianocean/eritrea/6817481/Eritrean-football-team-missing-after-match-in-Kenya.html |title=Eritrean football team missing after match in Kenya |last=Pflanz |first=Mike |date=15 December 2009 |publisher=The Daily Telegraph |access-date=15 December 2009 |location=London |archive-date=17 December 2009 |archive-url=https://web.archive.org/web/20091217021134/http://www.telegraph.co.uk/news/worldnews/africaandindianocean/eritrea/6817481/Eritrean-football-team-missing-after-match-in-Kenya.html |url-status=live }}</ref> In December 2012, seventeen Eritrean footballers and the team's doctor vanished after the [[CECAFA]] championship tournament in Uganda and all applied for asylum in the country.<ref>{{cite news|last=Oryada|first=Andrew Jackson|title=Eritrean players seek asylum in Uganda|url=https://www.bbc.co.uk/sport/football/20610675|access-date=20 December 2013|date=5 December 2012|publisher=BBC|archive-date=27 April 2014|archive-url=https://web.archive.org/web/20140427094843/http://www.bbc.co.uk/sport/0/football/20610675|url-status=live}}</ref><ref>{{cite news|last=Nakiyimba|first=Gloria|title=Eritrea's football team seek asylum in Uganda, citing persecution|url=http://www.english.rfi.fr/africa/20121206-eritreans-football-players-seek-asylum|access-date=20 December 2013|newspaper=RFI English|date=6 December 2012|archive-date=21 December 2013|archive-url=https://web.archive.org/web/20131221003004/http://www.english.rfi.fr/africa/20121206-eritreans-football-players-seek-asylum|url-status=live}}</ref><ref>{{Cite news|last=Oryada|first=Andrew Jackson|url=https://www.bbc.co.uk/sport/football/20580007|title=Eritrea players missing in Uganda after regional championship|date=4 December 2012|publisher=BBC|access-date=20 December 2013|archive-date=2 January 2014|archive-url=https://web.archive.org/web/20140102220948/http://www.bbc.co.uk/sport/0/football/20580007|url-status=live}}</ref>
+Four players of [[Red Sea FC]] defected after a [[CAF Champions League 2006]] match in [[Nairobi]], [[Kenya]],<ref name="afp15122009">{{Cite news |url=https://www.google.com/hostednews/afp/article/ALeqM5g597NzDJhD9NKdqoqa9hod7-LqIQ |title=Eritrea players go missing in Kenya |date=14 December 2009 |publisher=AFP |access-date=15 December 2009 |archive-date=21 December 2009 |archive-url=https://web.archive.org/web/20091221033250/http://www.google.com/hostednews/afp/article/ALeqM5g597NzDJhD9NKdqoqa9hod7-LqIQ |url-status=dead }}</ref> and up to 12 members of the national side after the [[2007 CECAFA Cup]] in [[Tanzania]].<ref name="cnn15122009">{{Cite news |url=http://edition.cnn.com/2009/SPORT/football/12/15/football.cecafa.eritrea.kenya/ |location=London |title=Kenyan police search for missing footballers |last=Wyatt |first=Ben |date=15 December 2009 |publisher=CNN |access-date=15 December 2009 |archive-date=19 October 2012 |archive-url=https://web.archive.org/web/20121019100157/http://edition.cnn.com/2009/SPORT/football/12/15/football.cecafa.eritrea.kenya/ |url-status=live }}</ref><ref name="cnn">{{Cite news|url=http://sportsillustrated.cnn.com/2009/soccer/wires/12/16/2080.ap.soc.eritrea.defections.1st.ld.writethru.0276/ |title=Official: Players say death awaits them in Eritrea|date=16 December 2009|website=sportsillustrated.cnn.com |access-date=17 December 2009}}{{dead link|date=September 2024|bot=medic}}{{cbignore|bot=medic}}</ref> Another 6 players sought asylum in Angola in March 2007 after a [[2008 Africa Cup of Nations qualification#Group 6|group 6 qualifying game]] for the [[2008 Africa Cup of Nations]].<ref name="angola">{{Cite news|url=http://www.afrol.com/articles/24860|title=Eritrean footballers join row of asylum seekers|date=27 March 2007|website=afrol.com|access-date=15 December 2009|archive-date=6 October 2009|archive-url=https://web.archive.org/web/20091006142729/http://www.afrol.com/articles/24860|url-status=live}}</ref><ref name="bbc-angola">{{Cite news|url=https://news.bbc.co.uk/sport1/hi/football/africa/6499987.stm|title=Angola considers asylum claims|date=28 March 2007|publisher=BBC|access-date=17 December 2009|archive-date=8 July 2023|archive-url=https://web.archive.org/web/20230708141346/http://news.bbc.co.uk/sport2/hi/football/africa/6499987.stm|url-status=live}}</ref> Three more players from the national team sought asylum in [[Sudan]].<ref name="sudan">{{Cite news|url=http://www.sudanvisiondaily.com/modules.php?name=News&file=article&sid=4216 |title=Three Eritrean Players Seek Asylum in Sudan |date=25 November 2009 |website=Sudan Vision |access-date=18 December 2009 |url-status=dead |archive-url=https://web.archive.org/web/20110716162529/http://www.sudanvisiondaily.com/modules.php?name=News&file=article&sid=4216 |archive-date=16 July 2011 }}</ref>
+
+Eritrea withdrew from the [[2008 CECAFA Cup]],<ref name="standard09122009"/> and from [[2010 FIFA World Cup qualification (CAF)|the common qualifying tournament]] shared by the [[2010 FIFA World Cup|2010 World Cup]] and the [[2010 Africa Cup of Nations]].<ref>{{Cite web|url=https://www.fifa.com/worldcup/news/newsid=720341.html |title=Eritrea withdraw from qualifiers |date=25 March 2008 |publisher=FIFA |access-date=15 December 2009 |url-status=dead |archive-url=https://web.archive.org/web/20080401002111/http://www.fifa.com/worldcup/news/newsid%3D720341.html |archive-date=1 April 2008 }}
+</ref> Given the number of players seeking asylum, the Eritrean government began requiring athletes to pay a 100,000 [[Eritrean nakfa|nakfa]] [[surety]] before traveling abroad.<ref name="afp15122009"/>
+
+Eritrea returned to the [[2009 CECAFA Cup]] in Nairobi. A young squad was assembled with just 12 days' training.<ref name="standard09122009"/> In Group B, they gained a surprise draw with [[Zimbabwe national football team|Zimbabwe]],<ref name="standard-zimbabwe">{{Cite web |url=http://www.standardmedia.co.ke/InsidePage.php?id=1144029449&cid=38& |title=Zimbabwe held 0–0 by Eritrea |last=Pilipili |first=Oscar |date=12 December 2009 |work=The Standard |access-date=15 December 2009 |location=Nairobi |archive-date=14 March 2012 |archive-url=https://web.archive.org/web/20120314134254/http://www.standardmedia.co.ke/InsidePage.php?id=1144029449&cid=38& |url-status=live }}</ref> lost narrowly to [[Rwanda national football team|Rwanda]],<ref name="standard-rwanda">{{Cite news |url=http://www.standardmedia.co.ke/InsidePage.php?id=1144029624&cid=38& |title=Eritrean goalkeeper's effort not good enough |last=Toskin |first=Robin |date=4 December 2009 |work=The Standard |access-date=15 December 2009 |location=Nairobi |archive-url=https://web.archive.org/web/20110716055611/http://www.standardmedia.co.ke/InsidePage.php?id=1144029624&cid=38& |archive-date=16 July 2011 |url-status=dead }}</ref> and beat [[Somalia national football team|Somalia]] 3–1.<ref name="standard-somalia">{{Cite news |url=http://www.standardmedia.co.ke/InsidePage.php?id=1144029771&cid=38& |title=Eritrea crush Somalia as Rwanda pip Zims |date=6 December 2009 |work=The Standard |access-date=15 December 2009 |location=Nairobi |archive-url=https://web.archive.org/web/20111007235215/http://www.standardmedia.co.ke/InsidePage.php?id=1144029771&cid=38& |archive-date=7 October 2011 |url-status=dead |df=dmy-all }}</ref> They were easily beaten 4–0 in the quarter-finals by [[Tanzania national football team|Tanzania]].<ref name="standard09122009">{{Cite news|url=http://www.eastandard.net/InsidePage.php?id=1144029948&cid=38 |archive-url=https://web.archive.org/web/20141219083535/http://www.eastandard.net/InsidePage.php?id=1144029948&cid=38 |url-status=usurped |archive-date=19 December 2014 |title=Tanzania hit Eritrea to make semi-final |last=Wandera |first=Gilbert |date=9 December 2009 |work=The Standard |access-date=15 December 2009|location=Nairobi }}</ref>  Twelve squad members failed to report for the return flight, and sought the assistance of the [[Refugee Consortium of Kenya]].<ref name="cnn15122009"/><ref name="odula"/> They were believed to be in hiding in [[Eastleigh, Nairobi|Eastleigh]], an eastern suburb of Nairobi home to many immigrants.<ref>{{Cite news|url=http://english.cri.cn/6966/2009/12/15/1221s535842.htm |archive-url=https://archive.today/20120709122857/http://english.cri.cn/6966/2009/12/15/1221s535842.htm |url-status=dead |archive-date=July 9, 2012 |title=Kenya Searches for 12 "Missing" Eritrean Players |author=Xinhua |date=16 December 2009 |publisher=CRI |access-date=15 December 2009}}</ref> Nicholas Musonye, the secretary-general of CECAFA, feared that the government might react by refusing to let the team travel abroad in future.<ref name="odula">{{Cite news|url= https://www.google.com/hostednews/canadianpress/article/ALeqM5jQ6cqnwfpCFiXegi62EMlMpArszw |title=12 Eritrea soccer players defect during tournament in Kenya; UN will hear case |last=Odula |first=Tom |date=15 December 2009 |publisher=Canadian Press |access-date=15 December 2009}}{{dead link|date=June 2024|bot=medic}}{{cbignore|bot=medic}}</ref> The twelve players were later granted interim asylum by the [[United Nations High Commissioner for Refugees]] in Kenya.<ref name="standard-asylum">{{Cite news |url=http://www.standardmedia.co.ke/InsidePage.php?id=1144030664&cid=4& |title=12 Eritrean footballers granted asylum |last=Ombati |first=Cyrus |date=18 December 2009 |publisher=The Standard |access-date=18 December 2009 |archive-url=https://web.archive.org/web/20120314134432/http://www.standardmedia.co.ke/InsidePage.php?id=1144030664&cid=4& |archive-date=14 March 2012 |url-status=dead }}</ref> Eleven of these players have since travelled to [[Adelaide]] in Australia<ref>{{Cite web|url=http://assenna.com/index.php?option=com_content&view=article&id=2845:11-members-of-the-eritrean-national-football-team-who-abscond-last-year-in-nairobi-arrive-at-adelaide-city-safely&catid=18:news&Itemid=70|title=Assenna.com – Politics, Culture, Religion|website=assenna.com|language=en-GB|access-date=13 July 2017|archive-date=14 January 2018|archive-url=https://web.archive.org/web/20180114183727/http://assenna.com/index.php?option=com_content&view=article&id=2845:11-members-of-the-eritrean-national-football-team-who-abscond-last-year-in-nairobi-arrive-at-adelaide-city-safely&catid=18:news&Itemid=70|url-status=live}}</ref> with two of them, [[Samuel Ghebrehiwet]] and [[Ambair Sium|Ambes Sium]], signing for [[Gold Coast United FC|Gold Coast United]] in the [[A-League]] in August 2011.<ref>{{cite news|url=http://au.fourfourtwo.com/news/213037,gold-coast-sign-refugee-pair.aspx |title=Gold Coast Sign Refugee Pair |work=Australian FourFourTwo |author=Sportal Australia |date=26 August 2011 |access-date=13 September 2011 |url-status=dead |archive-url=https://web.archive.org/web/20121005142626/http://au.fourfourtwo.com/news/213037%2Cgold-coast-sign-refugee-pair.aspx |archive-date=5 October 2012 }}</ref>
+
+In the [[2018 FIFA World Cup qualification – CAF first round|first round]] of the [[2018 FIFA World Cup qualification|qualifiers]] for the [[2018 FIFA World Cup|2018 World Cup]], ten players from the Eritrean football team refused to return home after playing a World Cup qualifying match in [[Botswana]] and were granted asylum there.<ref>{{Cite news|url=https://www.bbc.com/news/world-africa-34534975|title=Eritrean football players seek asylum in Botswana|date=15 October 2015|work=BBC News|access-date=13 July 2017|language=en-GB|archive-date=4 January 2018|archive-url=https://web.archive.org/web/20180104165856/http://www.bbc.com/news/world-africa-34534975|url-status=live}}</ref>
+
+In September 2019, four members of the national Under-20 team sought asylum in Uganda after the team qualified for the semi-finals of a competition.<ref>{{cite news |last1=Aarons |first1=Ed |title='If they find us it's death or kidnap': the Eritrean footballers on the run |url=https://www.theguardian.com/football/2020/jan/10/eritrea-footballers-on-the-run-death-kidnap-asylum-hiding-uganda |access-date=5 June 2022 |work=The Guardian |date=10 January 2020 |archive-date=5 June 2022 |archive-url=https://web.archive.org/web/20220605104312/https://www.theguardian.com/football/2020/jan/10/eritrea-footballers-on-the-run-death-kidnap-asylum-hiding-uganda |url-status=live }}</ref> A few months later in December, a further seven players selected for the international team refused to return home and sought asylum in Uganda after a tournament.<ref>{{cite web |title=Seven Members of the Eritrean National Football Team Have Sought Asylum in Uganda |url=https://hrc-eritrea.org/seven-members-of-the-eritrean-national-football-team-have-sought-asylum-in-uganda/ |publisher=Human Rights Concern Eritrea |access-date=5 June 2022 |date=10 January 2020 |archive-date=19 April 2022 |archive-url=https://web.archive.org/web/20220419175645/https://hrc-eritrea.org/seven-members-of-the-eritrean-national-football-team-have-sought-asylum-in-uganda/ |url-status=live }}</ref> In October 2021, five footballers from the country's under-20 women's team also disappeared when on international duty in Uganda.<ref>{{cite news |title=news Absconded from a Ugandan hotel: fresh case of Eritrean footballers |url=https://www.africanews.com/2021/11/03/absconded-from-a-ugandan-hotel-fresh-case-of-eritrean-footballers// |access-date=5 June 2022 |work=africanews.com |date=3 November 2021 |archive-date=8 July 2023 |archive-url=https://web.archive.org/web/20230708141346/https://www.africanews.com/2021/11/03/absconded-from-a-ugandan-hotel-fresh-case-of-eritrean-footballers// |url-status=live }}</ref>
+
+===Return to qualifying competitions===
+In March 2026, Eritrea won both legs against [[Eswatini national football team|Eswatini]] with 4–1 on aggregate in the [[2027 Africa Cup of Nations qualification preliminary round]], advancing to the AFCON qualifiers for the first time in nearly two decades.<ref>{{cite web |url=https://www.cafonline.com/afcon2025/news/eritrea-complete-historic-aggregate-win-over-eswatini-to-reach-afcon-2027-next-round/ |title=Eritrea complete historic aggregate win over Eswatini to reach AFCON 2027 next round |publisher=CAF Online |date=31 March 2026 }}</ref> However, of the ten domestic players called up for the games, only three returned, with seven suspected to have absconded in South Africa.<ref>{{cite web|url=https://www.bbc.co.uk/news/articles/c747037e2kgo |title=Seven Eritrean players fail to return home after international match | publisher=BBC News |author=Araia, Tesfalem |date=6 April 2026 |accessdate=7 April 2026}}</ref>
+
+==Results and fixtures==
+{{main|Eritrea national football team results}}
+
+The following is a list of match results in the last 12 months, as well as any future matches that have been scheduled.
+
+{{legend2|#CCFFCC|Win|border=1px solid #AAAAAA}}
+{{legend2|#FFFFCC|Draw|border=1px solid #AAAAAA}}
+{{legend2|#FFCCCC|Loss|border=1px solid #AAAAAA}}
+{{legend2|#FFFFFF|Fixture|border=1px solid #AAAAAA}}
+
+===2026===
+{{Football box collapsible
+|format     = 1
+|round      = [[2027 Africa Cup of Nations qualification preliminary round|2027 Africa Cup of Nations qualification]]
+|date       = 25 March
+|time       = {{UTZ|17:00|1}}
+|team1      = {{fb-rt|ERI}}
+|score      = 2–0
+|team2      = {{fb|ESW}}
+|goals1     = [[Siem Eyob-Abraha|Eyob-Abraha]] {{goal|81}}<br />[[Ali Sulieman|Sulieman]] {{goal|90+4}}
+|goals2     = 
+|location   = [[Meknes]], Morocco
+|stadium    = [[Stade d'Honneur]]
+|attendance = 
+|referee    = Moussa Diou ([[Football Federation of the Islamic Republic of Mauritania|Mauritania]])
+|report     = https://globalsportsarchive.com/en/soccer/match/2026-03-25/eritrea-vs-eswatini/4048699
+|result     = W
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[2027 Africa Cup of Nations qualification preliminary round|2027 Africa Cup of Nations qualification]]
+|date       = 31 March
+|time       = {{UTZ|16:00|2}}
+|team1      = {{fb-rt|ESW}}
+|score      = 1–2 
+|team2      = {{fb|ERI}}
+|goals1     = [[Justice Figuareido|Figuareido]] {{goal|90+6}}
+|goals2     = [[Ali Sulieman|Sulieman]] {{goal|50||59}}
+|location   = [[Lobamba]], Eswatini
+|stadium    = [[Somhlolo National Stadium]]
+|attendance =
+|referee    = Josefa Aurelio ([[São Toméan Football Federation|São Tomé and Príncipe]])
+|report     = https://globalsportsarchive.com/en/soccer/match/2026-03-31/eswatini-vs-eritrea/4048700
+|result     = W
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[2027 Africa Cup of Nations qualification preliminary round|2027 Africa Cup of Nations qualification]]
+|date       = TBA
+|time       = 
+|team1      = {{fb-rt|ERI}}
+|score      = 
+|team2      = {{fb|RSA}}
+|goals1     = 
+|goals2     = 
+|location   =
+|stadium    = 
+|attendance =
+|referee    = 
+|report     = 
+|result     = 
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[2027 Africa Cup of Nations qualification preliminary round|2027 Africa Cup of Nations qualification]]
+|date       = TBA
+|time       = 
+|team1      = {{fb-rt|ERI}}
+|score      = 
+|team2      = {{fb|GUI}}
+|goals1     = 
+|goals2     = 
+|location   =
+|stadium    = 
+|attendance =
+|referee    = 
+|report     = 
+|result     = 
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[2027 Africa Cup of Nations qualification preliminary round|2027 Africa Cup of Nations qualification]]
+|date       = TBA
+|time       = 
+|team1      = {{fb-rt|ERI}}
+|score      = 
+|team2      = {{fb|KEN}}
+|goals1     = 
+|goals2     = 
+|location   =
+|stadium    = 
+|attendance =
+|referee    = 
+|report     = 
+|result     = 
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[2027 Africa Cup of Nations qualification preliminary round|2027 Africa Cup of Nations qualification]]
+|date       = TBA
+|time       = 
+|team1      = {{fb-rt|RSA}}
+|score      = 
+|team2      = {{fb|ERI}}
+|goals1     = 
+|goals2     = 
+|location   =
+|stadium    = 
+|attendance =
+|referee    = 
+|report     = 
+|result     = 
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[2027 Africa Cup of Nations qualification preliminary round|2027 Africa Cup of Nations qualification]]
+|date       = TBA
+|time       = 
+|team1      = {{fb-rt|GUI}}
+|score      = 
+|team2      = {{fb|ERI}}
+|goals1     = 
+|goals2     = 
+|location   =
+|stadium    = 
+|attendance =
+|referee    = 
+|report     = 
+|result     = 
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[2027 Africa Cup of Nations qualification preliminary round|2027 Africa Cup of Nations qualification]]
+|date       = TBA
+|time       = 
+|team1      = {{fb-rt|KEN}}
+|score      = 
+|team2      = {{fb|ERI}}
+|goals1     = 
+|goals2     = 
+|location   =
+|stadium    = 
+|attendance =
+|referee    = 
+|report     = 
+|result     = 
+}}
+
+==Coaching history==
+
+[[File:Tekie Abraha.jpg|thumb|200px|[[Tekie Abraha]], who was born in [[Asmara]], became the first manager of the national football team of Eritrea]]
+
+{{Div col|colwidth=25em}}
+*{{flagicon|Eritrea}} [[Tekie Abraha]] (1991–1996)
+*{{flagicon|Egypt}} [[Mushir Osman]] (1998–1999)
+*{{flagicon|Eritrea}} [[Tekie Abraha]] (1999–2000)
+*{{flagicon|Turkey}} [[Yılmaz Yücetürk]] (2000–2002)
+*{{flagicon|Eritrea}} ''[[Negash Teklit]] ''(2002)
+*{{flagicon|FR Yugoslavia}} [[Vojo Gardašević]] (2002)
+*{{flagicon|Eritrea}} [[Tekie Abraha]] (2003)
+*{{flagicon|Eritrea}} [[Mrad Abdul Tesfay]] (2004)
+*{{flagicon|Romania}} [[Dorian Marin]] (2006–2007)
+*{{flagicon|Netherlands}} [[René Feller]] (2007–2008)
+*{{flagicon|Eritrea}} [[Negash Teklit]] (2009–2012)
+*{{flagicon|Eritrea}} Omar Ahmed Hussein (2013–2015)
+*{{flagicon|Eritrea}} [[Alemseged Efrem]] (2015–2019)<ref>{{Cite web|url=https://www.fifa.com/associations/association=ERI/about.html|archive-url=https://web.archive.org/web/20150906145915/http://www.fifa.com/associations/association=ERI/about.html|url-status=dead|archive-date=September 6, 2015|title=Eritrea – Association Information |last=FIFA.com|website=FIFA.com|language=en-GB|access-date=13 July 2017}}</ref>
+*{{flagicon|Eritrea}} [[Ermias Tewelde]] (2024–2025)<ref name="back on the pitch">{{cite web |title=Eritrea, Niger, South Sudan Eritrean national team back on the pitch after five-year hiatus |date=15 May 2025 |url=https://www.africaintelligence.com/eastern-africa-and-the-horn/2025/05/15/eritrean-national-team-back-on-the-pitch-after-five-year-hiatus,110449647-art |publisher=Africa Intelligence |access-date=27 May 2025}}</ref>
+*{{flagicon|Egypt}} [[Hesham Yakan  ]] (2026–''present'')<ref>{{Cite news|url=https://leadership.ng/eritrea-appoints-first-foreign-coach/|title=Eritrea Appoints First Foreign Coach |last=leadership.ng|newspaper=[[Leadership (newspaper)|Leadership]]|language=en-GB|access-date=12 March 2026}}</ref>
+{{div col end}}
+
+
+
+Caretaker managers are listed in ''italics''
+
+==Players==
+===Current squad===
+*The following players were called up for the [[2027 Africa Cup of Nations qualification preliminary round]] double-header against [[Eswatini national football team|Eswatini]], on 25 and 31 March 2026.<ref>{{Cite tweet |user=michael_teclai|number=2036107122212327518|title=Squad Announcement! Eritrea’s squad for the #AFCON2027 Preliminary Qualifiers is set. A strong and balanced team ready to give it all on the pitch. Let’s support our players as they represent the nation with pride! #Eritrea #AFCON2027|access-date=23 March 2026}}</ref>
+*''Caps and goals are correct {{as of|2026|3|31|lc=y}}, after the match against [[Eswatini national football team|Eswatini]].''
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name={{sortname|Yonathan|Sultan}}|age={{Birth date and age|2007|1|12|df=y}}|caps=2|goals=0|club=[[Western United FC|Western United]] U21|clubnat=AUS}}
+{{nat fs g player|no=12|pos=GK|name={{sortname|Kibrom|Solomon}}|age={{Birth date and age|2000|9|10|df=y}}|caps=9|goals=0|club=[[Denden FC|Denden]]|clubnat=ERI}}
+{{nat fs break}}
+{{nat fs g player|no=3|pos=DF|name={{sortname|Jonas|Idris}}|age={{Birth date and age|2005|4|17|df=y}}|caps=2|goals=0|club=[[Hellerup IK]]|clubnat=DEN}}
+{{nat fs g player|no=4|pos=DF|name={{sortname|Jamal|Ali|dab=footballer, born 1998}}|age={{Birth date and age|1998|9|12|df=y}}|caps=2|goals=0|club=[[Preston Lions FC|Preston Lions]]|clubnat=AUS}}
+{{nat fs g player|no=6|pos=DF|name={{sortname|Victor|Fors}}|age={{Birth date and age|1999|3|11|df=y}}|caps=2|goals=0|club=[[Kongsvinger IL Toppfotball|Kongsvinger]]|clubnat=NOR}}
+{{nat fs g player|no=22|pos=DF|name={{sortname|Yosief|Tsegay}}|age={{Birth date and age|2001|1|23|df=y}}|caps=2|goals=0|club=[[Denden FC|Denden]]|clubnat=ERI}}
+{{nat fs g player|no=24|pos=DF|name={{sortname|Wedeb|Fessehaye}}|age={{Birth date and age|1999|7|7|df=y}}|caps=2|goals=0|club=[[FC Al Tahrir|Al Tahrir]]|clubnat=ERI}}
+{{nat fs g player|no=26|pos=DF|name={{sortname|Medhane|Redie}}|age={{Birth date and age|1993|6|30|df=y}}|caps=2|goals=0|club=[[Red Sea FC|Red Sea]]|clubnat=ERI}}
+{{nat fs break}}
+{{nat fs g player|no=8|pos=MF|name={{sortname|Ablelom|Teklezghi}}|other=[[Captain (association football)|captain]]|age={{Birth date and age|1996|9|1|df=y}}|caps=11|goals=1|club=[[Red Sea FC|Red Sea]]|clubnat=ERI}}
+{{nat fs g player|no=14|pos=MF|name={{sortname|Nahom|Netabay}}|age={{Birth date and age|1994|4|28|df=y}}|caps=2|goals=0|club=[[Degerfors IF|Degerfors]]|clubnat=SWE}}
+{{nat fs g player|no=25|pos=MF|name={{sortname|Aethan|Yohannes}}|age={{Birth date and age|2004|3|16|df=y}}|caps=0|goals=0|club=[[Almere City FC|Almere City]] U23|clubnat=NED}}
+{{nat fs g player|no=31|pos=MF|name={{sortname|Namrud|Embaye}}|age={{Birth date and age|2002|1|9|df=y}}|caps=2|goals=0|club=[[Würzburger Kickers]]|clubnat=GER}}
+{{nat fs g player|no=33|pos=MF|name={{sortname|Nahom|Tadese}}|age={{Birth date and age|2000|5|8|df=y}}|caps=2|goals=0|club=[[Denden FC|Denden]]|clubnat=ERI}}
+{{nat fs break}}
+{{nat fs g player|no=9|pos=FW|name={{sortname|Oliver|Hintsa}}|age={{Birth date and age|2001|1|1|df=y}}|caps=1|goals=0|club=[[FC Dinamo București|Dinamo București]]|clubnat=ROU}}
+{{nat fs g player|no=10|pos=FW|name={{sortname|Ali|Sulieman}}|age={{Birth date and age|2000|9|12|df=y}}|caps=11|goals=6|club=[[Kahraba Ismailia SC|Kahraba Ismailia]]|clubnat=EGY}}
+{{nat fs g player|no=11|pos=FW|name={{sortname|Romel|Abdu}}|age={{Birth date and age|2001|11|28|df=y}}|caps=2|goals=0|club=[[Denden FC|Denden]]|clubnat=ERI}}
+{{nat fs g player|no=17|pos=FW|name={{sortname|Siem|Eyob-Abraha}}|age={{Birth date and age|2008|3|1|df=y}}|caps=2|goals=0|club=[[Sheffield United F.C.|Sheffield United U18]]|clubnat=ENG}}
+{{nat fs g player|no=27|pos=FW|name={{sortname|Fahmi|Ibrahim}}|age={{Birth date and age|2000|4|25|df=y}}|caps=0|goals=0|club=[[Maharlika F.C.|Maharlika]]|clubnat=PHI}}
+{{nat fs g player|no=29|pos=FW|name={{sortname|Nobel|Gebrezgi}}|age={{Birth date and age|2003|8|18|df=y}}|caps=1|goals=0|club=[[Free agent|''Unattached'']]|clubnat=}}
+{{nat fs g player|no=30|pos=FW|name={{sortname|Amanuel|Benhur}}|age={{Birth date and age|2000|9|12|df=y}}|caps=2|goals=0|club=[[Red Sea FC|Red Sea]]|clubnat=ERI}}
+{{nat fs end}}
+
+===Recent call-ups===
+The following players have also been called up for the team within the last twelve months and are still available and eligible for selection.
+<!--Sorted by position, date of birth, caps, goals and most recent call-up.-->
+{{nat fs r start}} 
+{{nat fs r player|no=|pos=GK|name={{sortname|Awet|Maharena}}|age={{Birth date and age|1994|10|19|df=y}}|caps=0|goals=0|club=[[Red Sea FC|Red Sea]]|clubnat=ERI|latest=v. {{fb|ESW}}, 25 March 2026<sup>PRE</sup>}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=DF|name={{sortname|Nahom|Awet}}|age={{Birth date and age|2000|11|10|df=y}}|caps=5|goals=0|club=[[Denden FC|Denden]]|clubnat=ERI|latest=v. {{fb|ESW}}, 25 March 2026<sup>PRE</sup>}}
+{{nat fs r player|no=|pos=DF|name={{sortname|Henok|Russom}}|age={{Birth date and age|2003|10|4|df=y}}|caps=2|goals=0|club=[[Red Sea FC|Red Sea]]|clubnat=ERI|latest=v. {{fbl|NIG|name=Niger A'}}, 28 May 2025}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=MF|name={{sortname|Tesfaldet|Tekie}}|age={{Birth date and age|1997|6|4|df=y}}|caps=0|goals=0|club=[[Hammarby Fotboll|Hammarby]]|clubnat=SWE|latest=v. {{fb|ESW}}, 25 March 2026<sup>INJ</sup>}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=FW|name={{sortname ill|Filimon|Gerezgiher|de}}|age={{Birth date and age|2000|7|4|df=y}}|caps=0|goals=0|club=[[FC Emmen]]|clubnat=NED|latest=v. {{fb|ESW}}, 25 March 2026<sup>WD</sup>}}
+{{nat fs r player|no=|pos=FW|name={{sortname ill|Awet|Alemseged|no}}|age={{Birth date and age|2004|4|27|df=y}}|caps=0|goals=0|club=[[Grorud IL]]|clubnat=NOR|latest=v. {{fb|ESW}}, 25 March 2026<sup>PRE</sup>}}
+{{nat fs r player|no=|pos=FW|name={{sortname|Simon|Abrahaley}}|age={{Birth date and age|2005|1|1|df=y}}|caps=0|goals=0|club=[[ONS Sneek]]|clubnat=NED|latest=v. {{fb|ESW}}, 25 March 2026<sup>PRE</sup>}}
+{{nat fs r player|no=|pos=FW|name={{sortname|Deven|Gibxawi}}|age={{Birth date and age|2000|9|3|df=y}}|caps=9|goals=0|club=[[Red Sea FC|Red Sea]]|clubnat=ERI|latest=v. {{fbl|NIG|name=Niger A'}}, 28 May 2025}}
+{{nat fs break}}
+;Notes
+*<sup>PRE</sup> = Preliminary squad / standby
+*<sup>WD</sup> = Player withdrew from the squad due to non-injury issue.
+*<sup>INJ</sup> = Withdrew due to injury
+<!-- *<sup>SUS</sup> = Serving suspension
+*<sup>DOC</sup> = Not part of the [[#Current squad|current squad]] due to problems with his documentation. -->
+{{nat fs end}}
+
+==Player records==
+{{Updated|31 March 2026}}<ref>{{cite web |title=Eritrea vs Eswatini |url=https://www.flashscore.com/match/football/eritrea-ns8a5zLl/eswatini-xW0C2Y47/summary/stats/overall/?mid=nwlOo61s |website=Flashscore}}</ref>
+:''Players in '''bold''' are still active with Eritrea.''
+
+===Most appearances===
+
+{| class="wikitable sortable" style="text-align:center;"
+|-
+!width="30"|Rank
+! style="width:160px;"|Name
+!width="50"|Caps
+!width="50"|Goals
+! style="width:100px;"|Career
+|-
+|1
+|style="text-align: left;"|[[Yidnekachew Shimangus]]
+|23
+|6
+|1998–2007
+|-
+|2
+|style="text-align: left;"|[[Yonas Fesehaye]]
+|19
+|5
+|1999–2007
+|-
+|3
+|style="text-align: left;"|[[Natnael Mesfun Zeru]]
+|16
+|0
+|1998–2003
+|-
+|4
+|style="text-align: left;"|[[Abel Afeworki]]
+|13
+|0
+|1998–2002
+|-
+|5
+|style="text-align: left;"|[[Efrem Bain Kaleb]]
+|12
+|0
+|1998–2006
+|-
+| rowspan="4" |6
+|style="text-align: left;"|[[Fassil Abreha]]
+|11
+|3
+|1999–2003
+|-
+|style="text-align: left;"|[[Berhane Aregai]]
+|11
+|5
+|2002–2007
+|-
+| style="text-align: left;" |'''[[Ali Sulieman]]'''
+|11
+|6
+|2019–present
+|-
+| style="text-align: left;" |'''[[Ablelom Teklezghi]]'''
+|11
+|1
+|2019–present
+|-
+|}
+
+===Top goalscorers===
+
+{| class="wikitable sortable"  style="text-align:center;"
+|-
+!width="30"|Rank
+! style="width:150px;"|Name
+!width="50"|Goals
+!width="50"|Caps
+!width="50"|Ratio
+! style="width:100px;"|Career
+|-
+|rowspan=2|1
+| style="text-align: left;" |'''[[Ali Sulieman]]'''
+|6
+|11
+|0.55
+|2019–present
+|-
+|style="text-align: left;"|[[Yidnekachew Shimangus]]
+|6
+|23
+|{{#expr:6/23 round 2}} 
+|1998–2007
+|-
+|rowspan=2|3
+|style="text-align: left;"|[[Berhane Aregai]]
+|5
+|11
+|{{#expr:5/11 round 2}} 
+|2002–2007
+|-
+|style="text-align: left;"|[[Yonas Fesehaye]]
+|5
+|19
+|{{#expr:5/19 round 2}} 
+|1999–2007
+|-
+| rowspan="2" |5
+| style="text-align: left;" |[[Testfaldet Goitom]]
+|3
+|8
+|{{#expr:3/8 round 2}}
+|2003–2009
+|-
+|style="text-align: left;"|[[Fassil Abreha]]
+|3
+|11
+|{{#expr:3/11 round 2}} 
+|1999–2003
+|-
+|rowspan=4|7
+|style="text-align: left;"|[[Elmon Temekribon]]
+|2
+|1
+|{{#expr:2/1 round 2}} 
+|2007
+|-
+|style="text-align: left;"|[[Robel Kidane]]
+|2
+|7
+|{{#expr:2/7 round 2}} 
+|2015–2019
+|-
+|style="text-align: left;"|[[Suleman Mohamed]]
+|2
+|7
+|{{#expr:2/7 round 2}} 
+|2003–2007
+|-
+|style="text-align: left;"|[[Abel Okbay]]
+|2
+|8
+|{{#expr:2/8 round 2}} 
+|2019
+|-
+|}
+
+==Competition records==
+{{col-begin}}
+{{col-2}}
+
+===FIFA World Cup===
+{| class="wikitable" style="text-align: center;"
+!colspan=9|[[FIFA World Cup]]
+!rowspan=39|
+!colspan=6|[[FIFA World Cup qualification|Qualification]]
+|-
+!Year
+!Round
+!Position
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+|-
+|[[1930 FIFA World Cup|1930]]<br>to<br>[[1938 FIFA World Cup|1938]]
+|colspan=8|''Part of {{fb|Italy|1861}}''
+|colspan=6|''Part of {{fb|Italy|1861}}''
+|-
+|[[1950 FIFA World Cup|1950]]<br>to<br>[[1990 FIFA World Cup|1990]]
+|colspan=8|''Part of {{fb|Ethiopia|1897}}''
+|colspan=6|''Part of {{fb|Ethiopia|1897}}''
+|-
+|[[1994 FIFA World Cup|1994]]<br>to<br>[[1998 FIFA World Cup|1998]]
+|colspan=8|''Not a FIFA member''
+|colspan=6|''Not a FIFA member''
+|-
+|{{flagicon|South Korea|1997}}<br>{{flagicon|Japan}}<br>[[2002 FIFA World Cup|2002]]
+|rowspan=2 colspan=8|''Did not qualify''
+|2||0||1||1||0||4
+|-
+|{{flagicon|Germany}}<br>[[2006 FIFA World Cup|2006]]
+|2||0||1||1||0||3
+|-
+|{{flagicon|South Africa}}<br>[[2010 FIFA World Cup|2010]]
+|colspan=8|''Did not enter''
+|colspan=6|''Did not enter''
+|-
+|{{flagicon|Brazil}}<br>[[2014 FIFA World Cup|2014]]
+|rowspan=3 colspan=8|''Did not qualify''
+|2||0||1||1||2||4
+|-
+|{{flagicon|Russia}}<br>[[2018 FIFA World Cup|2018]]
+|2||0||0||2||1||5
+|-
+|{{flagicon|Qatar}}<br>[[2022 FIFA World Cup|2022]]
+|2||0||0||2||1||4
+|-
+|{{flagicon|Canada}}<br>{{flagicon|Mexico}}<br>{{flagicon|United States}}<br>[[2026 FIFA World Cup|2026]]
+|colspan=8|''Withdrew''
+|colspan=6|''Withdrew''
+|-
+|{{flagicon|Morocco}}<br>{{flagicon|Portugal}}<br>{{flagicon|Spain}}<br>[[2030 FIFA World Cup|2030]]
+|rowspan=2 colspan=8|''To be determined''
+|rowspan=2 colspan=6|''To be determined''
+|-
+|{{flagicon|Saudi Arabia}}<br>[[2034 FIFA World Cup|2034]]
+|-
+!Total||–||{{Tooltip|0/7|Number of tournaments qualified for}}||–||–||–||–||–||–||10||0||3||7||4||20
+|}
+
+===Africa Cup of Nations===
+{| class="wikitable nowrap" style="text-align: center;"
+|-
+!colspan=9|[[Africa Cup of Nations]] record
+! width="1" rowspan="38" |
+!colspan=6|Qualification record
+|-
+!Year
+!Round
+!Position
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+|-
+|{{flagicon|Sudan|1956}} [[1957 Africa Cup of Nations|1957]]||colspan=8 rowspan=17|''Part of {{fb|Ethiopia|1897}}''
+|colspan=8 rowspan=17|''Part of {{fb|Ethiopia|1897}}''
+|-
+|{{flagicon|United Arab Republic}} [[1959 Africa Cup of Nations|1959]]
+|-
+|{{flagicon|Ethiopia|1897}} [[1962 Africa Cup of Nations|1962]]
+|-
+|{{flagicon|Ghana}} [[1963 Africa Cup of Nations|1963]]
+|-
+|{{flagicon|Tunisia|1959}} [[1965 Africa Cup of Nations|1965]]
+|-
+|{{flagicon|Ethiopia|1897}} [[1968 Africa Cup of Nations|1968]]
+|-
+|{{flagicon|Sudan|1956}} [[1970 Africa Cup of Nations|1970]]
+|-
+|{{flagicon|Egypt|1972}} [[1974 Africa Cup of Nations|1974]]
+|-
+|{{flagicon|Ethiopia|1975}} [[1976 Africa Cup of Nations|1976]]
+|-
+|{{flagicon|Ghana}} [[1978 Africa Cup of Nations|1978]]
+|-
+|{{flagicon|Nigeria}} [[1980 African Cup of Nations|1980]]
+|-
+|{{flagicon|Libya|1977}} [[1982 African Cup of Nations|1982]]
+|-
+|{{flagicon|Ivory Coast}} [[1984 African Cup of Nations|1984]]
+|-
+|{{flagicon|Egypt}} [[1986 African Cup of Nations|1986]]
+|-
+|{{flagicon|Morocco}} [[1988 African Cup of Nations|1988]]
+|-
+|{{flagicon|Algeria}} [[1990 African Cup of Nations|1990]]
+|-
+|{{flagicon|Senegal}} [[1992 African Cup of Nations|1992]]
+|-
+|{{flagicon|Tunisia|1959}} [[1994 African Cup of Nations|1994]]
+|colspan=8 rowspan=3|''Not affiliated with CAF''
+|colspan=6 rowspan=3|''Not affiliated with CAF''
+|-
+|{{flagicon|South Africa}} [[1996 African Cup of Nations|1996]]
+|-
+|{{flagicon|Burkina Faso}} [[1998 African Cup of Nations|1998]]
+|-
+|{{flagicon|Ghana}} {{flagicon|Nigeria}} [[2000 African Cup of Nations|2000]] ||colspan=8 rowspan=5| ''Did not qualify''
+|9
+|1
+|1
+|7
+|4
+|22
+|-
+|{{flagicon|Mali}} [[2002 Africa Cup of Nations|2002]] 
+|2
+|1
+|0
+|1
+|3
+|6
+|-
+|{{flagicon|Tunisia}} [[2004 Africa Cup of Nations|2004]]
+|6
+|1
+|0
+|5
+|1
+|7
+|-
+|{{flagicon|Egypt}} [[2006 Africa Cup of Nations|2006]]
+|2
+|0
+|1
+|1
+|0
+|3
+|-
+|{{flagicon|Ghana}} [[2008 African Cup of Nations|2008]]
+|6
+|2
+|3
+|1
+|5
+|8
+|-
+|{{flagicon|Angola}} [[2010 Africa Cup of Nations|2010]]||colspan=8|''Withdrew''
+|colspan=6|''Withdrew''
+|-
+|{{flagicon|Equatorial Guinea}} {{flagicon|Gabon}} [[2012 Africa Cup of Nations|2012]] ||colspan=8 rowspan=2| ''Did not enter''
+|colspan=6 rowspan=2| ''Did not enter''
+|-
+|{{flagicon|South Africa}} [[2013 Africa Cup of Nations|2013]]
+|-
+|{{flagicon|Equatorial Guinea}} [[2015 Africa Cup of Nations|2015]]||colspan=8|''Withdrew''
+|colspan=6|''Withdrew''
+|-
+|{{flagicon|Gabon}} [[2017 Africa Cup of Nations|2017]]||colspan=8 rowspan=3| ''Did not enter''
+|colspan=6 rowspan=3| ''Did not enter''
+|-
+|{{flagicon|Egypt}} [[2019 Africa Cup of Nations|2019]]
+|-
+|{{flagicon|Cameroon}} [[2021 Africa Cup of Nations|2021]]
+|-
+|{{flagicon|Ivory Coast}} [[2023 Africa Cup of Nations|2023]]||align=center colspan=8|''Withdrew''
+|colspan=6|''Withdrew''
+|-
+|{{flagicon|Morocco}} [[2025 Africa Cup of Nations|2025]] ||colspan=8|''Excluded''
+|colspan=6|''Excluded''
+|-
+|{{flagicon|Kenya}} {{flagicon|Tanzania}} {{flagicon|Uganda}} [[2027 Africa Cup of Nations|2027]]
+|colspan=8|''To be determined''
+|colspan=6|''To be determined''
+|-
+!'''Total'''||'''–'''||'''0/35'''||'''–'''||'''–'''||'''–'''||'''–'''||'''–'''||'''–'''
+!25
+!5
+!5
+!15
+!13
+!46
+|}
+{{col-end}}
+
+===CECAFA Cup===
+{{Main|CECAFA Cup}}
+
+{| class="wikitable" style="text-align: center;"
+!colspan=9|[[CECAFA Cup]] record
+|-
+!colspan=9|Appearances: 12
+|-
+!Year
+!Round
+!Position
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+|-
+|{{flagicon|Uganda}} [[1973 CECAFA Cup|1973]] to {{flagicon|Tanzania}} [[1992 CECAFA Cup|1992]]||colspan=8|''Part of {{fb|Ethiopia|1897}}''
+|- style="background:#9acdff;"
+|{{flagicon|Kenya}} [[1994 CECAFA Cup|1994]]||'''Fourth place'''||'''4th'''||'''5'''||'''2'''||'''1'''||'''2'''||'''3'''||'''2'''
+|-
+|{{flagicon|Uganda}} [[1995 CECAFA Cup|1995]]||colspan=8 rowspan=2|''Did not enter''
+|-
+|{{flagicon|Sudan}} [[1996 CECAFA Cup|1996]]
+|-
+|{{flagicon|Rwanda|1962}} [[1999 CECAFA Cup|1999]]||rowspan=3|Group stage||11th||2||0||0||2||2||6
+|-
+|{{flagicon|Uganda}} [[2000 CECAFA Cup|2000]]||8th||4||0||1||3||4||15
+|-
+|{{flagicon|Rwanda}} [[2001 CECAFA Cup|2001]]||11th||3||0||0||3||3||17
+|-
+|{{flagicon|Tanzania}} [[2002 CECAFA Cup|2002]]||colspan=8 rowspan=3|''Did not enter''
+|-
+|{{flagicon|Sudan}} [[2003 CECAFA Cup|2003]]
+|-
+|{{flagicon|Ethiopia|1996}} [[2004 CECAFA Cup|2004]]
+|-
+|{{flagicon|Rwanda}} [[2005 CECAFA Cup|2005]]||rowspan=2|Group stage||10th||4||0||0||4||2||18
+|-
+|{{flagicon|Ethiopia|1996}} [[2006 CECAFA Cup|2006]]||11th||3||0||0||3||0||10
+|-
+|{{flagicon|Tanzania}} [[2007 CECAFA Cup|2007]]||Quarter-finals||8th||4||2||0||2||8||8
+|-
+|{{flagicon|Uganda}} [[2008 CECAFA Cup|2008]]||rowspan=2|Group stage||10th||4||0||1||3||2||13
+|-
+|{{flagicon|Kenya}} [[2009 CECAFA Cup|2009]]||12th||3||0||0||3||0||13
+|-
+|{{flagicon|Tanzania}} [[2010 CECAFA Cup|2010]]||colspan=8|''Did not enter''
+|-
+|{{flagicon|Tanzania}} [[2011 CECAFA Cup|2011]]||Group stage||11th||3||0||0||3||2||10
+|-
+|{{flagicon|Uganda}} [[2012 CECAFA Cup|2012]]||colspan=8 rowspan=2|''Did not enter''
+|-
+|{{flagicon|Kenya}} [[2013 CECAFA Cup|2013]]
+|-
+|{{flagicon|Rwanda}} [[2015 CECAFA Cup|2015]]||Group stage||11th||3||0||0||3||0||9
+|-
+|{{flagicon|Kenya}} [[2017 CECAFA Cup|2017]]||colspan=8|''Did not enter''
+|- style="background:silver;"
+|{{flagicon|Uganda}} [[2019 CECAFA Cup|2019]]||'''Runners-up'''||'''2nd'''||'''6'''||'''3'''||'''1'''||'''2'''||'''8'''||'''6'''
+|-
+!Total||0 Titles||12/40||44||7||4||33||34||127
+|}
+
+== All-time record ==
+;Key
+{{col-begin}}
+{{col-2}}
+* Pld = Matches played
+* W = Matches won
+* D = Matches drawn
+* L = Matches lost
+{{col-2}}
+* GF = Goals for
+* GA = Goals against
+* GD = Goal differential
+* Countries are listed in alphabetical order
+{{col-end}}
+
+''As of 31 March 2026''<ref name="Elo List of Matches">{{cite web |title=Elo List of Matches |url=https://www.eloratings.net/Eritrea |publisher=Elo Ratings |access-date=12 August 2021 |archive-date=4 August 2021 |archive-url=https://web.archive.org/web/20210804194949/http://www.eloratings.net/Eritrea |url-status=live }}</ref>
+
+{{legend2|#CCFFCC|Positive Record|border=1px solid #AAAAAA}}
+{{legend2|#FFFFCC|Neutral Record|border=1px solid #AAAAAA}}
+{{legend2|#FFCCCC|Negative Record|border=1px solid #AAAAAA}}
+{| class="wikitable" style="text-align: center"
+|-
+!width=220|Opponent<br />
+!width=100|Pld<br />
+!width=70|W<br />
+!width=70|D<br />
+!width=70|L<br />
+!width=100|GF<br />
+!width=100|GA<br />
+!width=120|GD
+|-
+|- bgcolor="#FFCCCC"
+| style="text-align:left;"| {{fb|ANG}} || 2 || 0 || 1 || 1 || 2 || 7 || −5
+|-
+|- bgcolor="#FFCCCC"
+| style="text-align:left;"| {{fb|BOT}} || 2 || 0 || 0 || 2 || 1 || 5 || −4
+|-
+|- bgcolor="#FFFFCC"
+| style="text-align:left;"| {{fb|BDI}} || 4 || 1 || 2 || 1 || 3 || 3 || +0
+|-
+|- bgcolor="FFCCCC"
+| style="text-align:left;"| {{fb|CMR}} || 2 || 0 || 1 || 1 || 0 || 1 || −1
+|-
+|- bgcolor="#CCFFCC"
+| style="text-align:left;"| {{fb|DJI}} || 2 || 2 || 0 || 0 || 6 || 2 || +4
+|-
+|- bgcolor="#CCFFCC"
+| style="text-align:left;"| {{fb|SWZ}} || 4 || 2 || 2 || 0 || 4 || 1 || +3
+|-
+|- bgcolor="#FFCCCC"
+| style="text-align:left;"| {{fb|GHA}} || 1 || 0 || 0 || 1 || 0 || 5 || −5
+|-
+|- bgcolor="#FFCCCC"
+| style="text-align:left;"| {{fb|KEN}} || 10 || 3 || 1 || 6 || 11 || 14 || −3
+|-
+|- bgcolor="#FFCCCC"
+| style="text-align:left;"| {{fb|MLI}} || 2 || 0 || 0 || 2 || 0 || 3 || −3
+|-
+|- bgcolor="#FFCCCC"
+| style="text-align:left;"| {{fb|MWI}} || 1 || 0 || 0 || 1 || 2 || 3 || −1
+|-
+|- bgcolor="#FFFFCC"
+| style="text-align:left;"| {{fb|MOZ}} || 2 || 1 || 0 || 1 || 2 || 3 || −1
+|-
+|- bgcolor="#FFCCCC"
+| style="text-align:left;"| {{fb|NAM}} || 2 || 0 || 0 || 2 || 1 || 4 || −3
+|-
+|- bgcolor="#FFCCCC"
+| style="text-align:left;"| {{fb|NIG}} || 2 || 0 || 1 || 1 || 0 || 1 || −1
+|-
+|- bgcolor="#FFCCCC"
+| style="text-align:left;"| {{fb|NGA}} || 2 || 0 || 1 || 1 || 0 || 4 || −4
+|-
+|- bgcolor="#FFCCCC"
+| style="text-align:left;"| {{fb|RWA}} || 10 || 0 || 2 || 8 || 7 || 16 || −9
+|-
+|- bgcolor="#FFCCCC"
+| style="text-align:left;"| {{fb|SEN}} || 2 || 0 || 0 || 2 || 2 || 8 || −6
+|-
+|- bgcolor="#CCFFCC"
+| style="text-align:left;"| {{fb|SEY}} || 3 || 2 || 0 || 1 || 2|| 1 || +1
+|-
+|- bgcolor="#CCFFCC"
+| style="text-align:left;"| {{fb|SOM}} || 3 || 1 || 2 || 0 || 3 || 1 || +2
+|-
+|- bgcolor="#FFCCCC"
+| style="text-align:left;"| {{fb|SUD}} || 12 || 3 || 2 || 7 || 7 || 20 || −13
+|-
+|- bgcolor="#FFCCCC"
+| style="text-align:left;"| {{fb|TAN}} || 4 || 0 || 1 || 3 || 1 || 7 || −6
+|-
+|- bgcolor="#FFCCCC"
+| style="text-align:left;"| {{fb|UGA}} || 8 || 1 || 2 || 5 || 6 || 17 || −11
+|-
+|- bgcolor="#FFCCCC"
+| style="text-align:left;"| {{fb|YEM}} || 1 || 0 || 0 || 1 || 1 || 4 || −3
+|-
+|- bgcolor="#FFCCCC"
+| style="text-align:left;"| {{fb|ZAN}} || 2 || 0 || 1 || 1 || 0 || 3 || −3
+|-
+|- bgcolor="#FFCCCC"
+| style="text-align:left;"| {{fb|ZIM}} || 5 || 0 || 1 || 4 || 0 || 8 || −8
+|-
+|- class="sortbottom"
+! Total || 87 || 15 || 20 || 52 || 59 || 141 || −82
+|}
+
+==References==
+{{Reflist|2}}
+
+==External links==
+* [https://www.cafonline.com/member-associations/eri/ Eritrea] at [[Confederation of African Football|CAF]]
+* [https://www.fifa.com/about-fifa/associations/ERI Eritrea] at [[FIFA]]
+
+{{Football in Eritrea}}
+{{CECAFA Football}}
+{{CAF teams}}
+{{National sports teams of Eritrea}}
+{{Authority control}}
+
+{{DEFAULTSORT:Eritrea National Football Team}}
+[[Category:Eritrea national football team| ]]
+[[Category:African national association football teams]]
+[[Category:1994 establishments in Eritrea]]

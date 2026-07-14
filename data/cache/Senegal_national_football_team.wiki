@@ -1,0 +1,2437 @@
+{{Short description|Men's association football team}}
+{{About|the men's team|the women's team|Senegal women's national football team}}
+{{Use dmy dates|date=November 2022}}
+{{Infobox national football team
+| Name               = Senegal
+| Badge              = 
+| Nickname           = Lions de la Téranga<br>(Lions of Teranga)
+| Association        = [[Senegalese Football Federation|Fédération Sénégalaise de Football]] (FSF)
+| Sub-confederation  = [[West African Football Union|WAFU]] (West Africa)
+| Confederation      = [[Confederation of African Football|CAF]] (Africa)
+| Coach              = ''Vacant'' 
+| Captain            = [[Kalidou Koulibaly]]
+| Most caps          = [[Idrissa Gueye]] (136)
+| Top scorer         = [[Sadio Mané]] ([[List of international goals scored by Sadio Mané|55]])
+| Home Stadium       = [[Diamniadio Olympic Stadium]]
+| FIFA Trigramme     = SEN
+| FIFA Rank          = {{nowrap|{{FIFA World Rankings|SEN}}}}
+| FIFA max           = 12
+| FIFA max date      = January 2026
+| FIFA min           = 99
+| FIFA min date      = June 2013
+| Elo Rank           = {{World Football Elo Ratings|Senegal}}
+| Elo max            = 21
+| Elo max date       = June 2002
+| Elo min            = 105
+| Elo min date       = October 1994
+| pattern_la1        = _sen26h
+| pattern_b1         = _sen26h
+| pattern_ra1        = _sen26h
+| pattern_sh1        = _sen26h
+| pattern_so1        = 
+| pattern_la2        = _sen26a
+| pattern_b2         = _sen26a
+| pattern_ra2        = _sen26a
+| pattern_sh2        = _sen26A
+| pattern_so2        = _sen26al
+| leftarm1           = FFFFFF
+| body1              = FFFFFF
+| rightarm1          = FFFFFF
+| shorts1            = FFFFFF
+| socks1             = FFFFFF
+| leftarm2           = 00924f
+| body2              = 00924f
+| rightarm2          = 00924f
+| shorts2            = 00924f
+| socks2             = 036950
+| First game         = ''Pre-independence:''<br />{{nowrap|{{fb|GAM|colonial|name=British Gambia}} 1–2 '''French Senegal''' [[File:Flag of Senegal (1958–1959).svg|border|23px]]}}<br>([[The Gambia]]; 1959)<br />''Post-independence:''<br />{{fb|DAH|name=Dahomey}} 3–2 {{fb-rt|SEN|name=Senegal}}<br>(31 December 1961)
+| Largest win        = {{fb|SEN}} 10–1 {{fb-rt|MTN|1959}}<br>([[Dakar]], Senegal; 28 September 1972)
+| Largest loss       = {{fb|CZE|colonial|name=Czechoslovakia}} 11–0 {{fb-rt|SEN}}<br>([[Prague, Czechoslovakia]]; 2 November 1966)<br/>
+| World cup apps     = 4
+| World cup first    = 2002
+| World cup best     = Quarter-finals ([[2002 FIFA World Cup|2002]])
+| Regional name      = [[Africa Cup of Nations]]
+| Regional cup apps  = 18
+| Regional cup first = [[1965 African Cup of Nations|1965]]
+| Regional cup best  = '''Champions''' ([[2021 Africa Cup of Nations|2021]])
+| 2ndRegional name         = [[African Nations Championship]]
+| 2ndRegional cup apps     = 4
+| 2ndRegional cup first    = [[2009 African Nations Championship|2009]]
+| 2ndRegional cup best     =  ''' Champions  ''' ([[2022 African Nations Championship|2022]])
+| 3rdRegional name         = [[Amílcar Cabral Cup]]
+| 3rdRegional cup best     = '''Champions''' ([[1979 Amílcar Cabral Cup|1979]], [[1980 Amílcar Cabral Cup|1980]], [[1983 Amílcar Cabral Cup|1983]], [[1984 Amílcar Cabral Cup|1984]], [[1985 Amílcar Cabral Cup|1985]], [[1986 Amílcar Cabral Cup|1986]], [[1991 Amílcar Cabral Cup|1991]], [[2001 Amílcar Cabral Cup|2001]])
+| 3rdRegional cup apps     = 19
+| 3rdRegional cup first    = [[1979 Amílcar Cabral Cup|1979]]
+|medaltemplates={{MedalCompetition|[[Africa Cup of Nations]]}}
+{{MedalGold|[[2021 Africa Cup of Nations|2021 Cameroon]]|Team}}
+{{MedalSilver|[[2025 Africa Cup of Nations|2025 Morocco]]|Team}}
+{{MedalSilver|[[2019 Africa Cup of Nations|2019 Egypt]]|Team}}
+{{MedalSilver|[[2002 Africa Cup of Nations|2002 Mali]]|Team}}
+{{MedalCompetition|[[African Nations Championship]]}}
+{{MedalGold|[[2022 African Nations Championship|2022 Algeria]]|Team}}
+{{MedalBronze|[[2024 African Nations Championship|2024 Kenya, Tanzania and Uganda]]|Team}}
+{{MedalCompetition|[[Amílcar Cabral Cup]]}}
+{{MedalGold|[[1979 Amílcar Cabral Cup|1979 Guinea-Bissau]]|Team}}
+{{MedalGold|[[1980 Amílcar Cabral Cup|1980 Gambia]]|Team}}
+{{MedalGold|[[1983 Amílcar Cabral Cup|1983 Mauritania]]|Team}}
+{{MedalGold|[[1984 Amílcar Cabral Cup|1984 Sierra Leone]]|Team}}
+{{MedalGold|[[1985 Amílcar Cabral Cup|1985 Gambia]]|Team}}
+{{MedalGold|[[1986 Amílcar Cabral Cup|1986 Senegal]]|Team}}
+{{MedalGold|[[1991 Amílcar Cabral Cup|1991 Senegal]]|Team}}
+{{MedalSilver|[[1982 Amílcar Cabral Cup|1982 Cape Verde]]|Team}}
+{{MedalSilver|[[1993 Amílcar Cabral Cup|1993 Sierra Leone]]|Team}}
+{{MedalSilver|[[1997 Amílcar Cabral Cup|1997 Gambia]]|Team}}
+{{MedalSilver|[[2000 Amílcar Cabral Cup|2000 Cape Verde]]|Team}}
+{{MedalBronze|[[1981 Amílcar Cabral Cup|1981 Mali]]|Team}}
+{{MedalBronze|[[1987 Amílcar Cabral Cup|1987 Guinea]]|Team}}
+{{MedalBronze|[[1988 Amílcar Cabral Cup|1988 Guinea-Bissau]]|Team}}
+{{MedalCompetition|[[WAFU Nations Cup]]}}
+{{MedalGold|[[2019 WAFU Cup of Nations|2019 Senegal]]|Team}}
+{{MedalSilver|[[2010 WAFU Nations Cup|2010 Nigeria]]|Team}}
+{{MedalSilver|[[2013 WAFU Nations Cup|2013 Ghana]]|Team}}
+{{MedalCompetition|[[COSAFA Cup]]}}
+{{MedalSilver|[[2021 COSAFA Cup|2021 South Africa]]|Team}}
+{{MedalBronze|[[2022 COSAFA Cup|2022 South Africa]]|Team}}
+}} 
+
+The '''Senegal national football team''' ([[French language|French]]: ''Équipe de football du Sénégal''), nicknamed '''''Les Lions de la Teranga''''' (English: ''The Lions of Teranga''), represents [[Senegal]] in men's international [[association football]] and is operated by the [[Senegalese Football Federation]].
+
+One of Africa's most famous national football teams, Senegal reached the [[2002 FIFA World Cup knockout stage|quarter-finals]] of the [[2002 FIFA World Cup]], the second team from Africa to do so (after [[Cameroon national football team|Cameroon]] in [[1990 FIFA World Cup|1990]]). They managed to upset defending world champions [[France national football team|France]], finish second in their group, and beat [[Sweden men's national football team|Sweden]] in extra time in the round of 16, before losing to [[Turkey national football team|Turkey]] in the [[2002 FIFA World Cup knockout stage|quarter-finals]].
+
+Senegal has won one [[Africa Cup of Nations]] title, in [[2021 Africa Cup of Nations|2021]]. Their first appearance in the competition was in [[1965 African Cup of Nations|1965]], when they lost 1–0 to [[Ivory Coast national football team|Ivory Coast]] for fourth place. They hosted the [[1992 African Cup of Nations]], where they made it to the quarter-finals, and finished as runners-up in [[2002 African Cup of Nations|2002]], [[2019 Africa Cup of Nations|2019]], and [[2025 Africa Cup of Nations|2025]].
+
+==History==
+===Early history===
+Senegal gained its independence from [[France]] on 4 April 1960, and the [[Senegalese Football Federation]] (FSF) was founded that year. The first Senegal match took place on 31 December 1961 against Dahomey (now [[Benin]]), a 3–2 loss. The FSF has been affiliated with [[FIFA]] since 1962 and has been a member of the [[Confederation of African Football]] (CAF) since 1963. Senegal's first appearance in the [[Africa Cup of Nations]] was in 1965, where they finished second in their group, and lost 1–0 to [[Ivory Coast national football team|Ivory Coast]] to finish in fourth place. After a group stage exit at the AFCON three years later, they would not qualify for the tournament until 1986.
+
+===1990s and 2000s===
+In the [[1990 Africa Cup of Nations]], Senegal finished fourth; they hosted the [[1992 Africa Cup of Nations|1992 tournament]], where after finishing second in their group, they were eliminated by Cameroon in the quarterfinals.
+Senegal lost the [[2002 Africa Cup of Nations|2002]] final on a [[penalty shoot-out (association football)|penalty shoot-out]] after drawing 0–0 with [[Cameroon national football team|Cameroon]].<ref>{{cite web |url=https://news.bbc.co.uk/sport2/hi/football/africa/cup_of_nations/1812787.stm |title=BBC SPORT &#124; CUP OF NATIONS &#124; Cameroon retain Cup |publisher=BBC News |date=10 February 2002 |access-date=7 July 2012 |archive-date=30 March 2009 |archive-url=https://web.archive.org/web/20090330123424/http://news.bbc.co.uk/sport1/hi/football/africa/cup_of_nations/1812787.stm |url-status=live }}</ref> Later that year, Senegal made their debut appearance at the [[2002 FIFA World Cup|World Cup]]. After defeating defending world champions France in their opening game, they drew with [[Denmark national football team|Denmark]] and [[Uruguay national football team|Uruguay]] to progress from the group stage, then beat [[Sweden men's national football team|Sweden]] in extra time in the round of 16 to reach the quarter-finals, one of only four African teams to do so (alongside Cameroon in [[1990 FIFA World Cup|1990]], [[Ghana national football team|Ghana]] in [[2010 FIFA World Cup|2010]] and [[Morocco national football team|Morocco]] in [[2022 FIFA World Cup|2022]]). There, they lost to [[Turkey national football team|Turkey]] in extra time.<ref>{{cite web |url=https://news.bbc.co.uk/sport3/worldcup2002/hi/team_pages/senegal/newsid_2067000/2067150.stm |title=BBC SPORT &#124; WORLD CUP &#124; Senegal &#124; Senegal return to heroes' welcome |publisher=BBC News |date=26 June 2002 |access-date=7 July 2012 |archive-date=1 January 2013 |archive-url=https://web.archive.org/web/20130101133146/http://news.bbc.co.uk/sport3/worldcup2002/hi/team_pages/senegal/newsid_2067000/2067150.stm |url-status=live }}</ref><ref>{{cite web |url=https://news.bbc.co.uk/sport3/worldcup2002/hi/team_pages/senegal/newsid_2062000/2062460.stm |title=BBC SPORT &#124; WORLD CUP &#124; Senegal &#124; Senegal press blasts Metsu |publisher=BBC News |date=24 June 2002 |access-date=7 July 2012 |archive-date=17 May 2012 |archive-url=https://web.archive.org/web/20120517111031/http://news.bbc.co.uk/sport3/worldcup2002/hi/team_pages/senegal/newsid_2062000/2062460.stm |url-status=live }}</ref>
+
+Senegal qualified for the [[2008 Africa Cup of Nations]], but finished third in their group with two points. They failed to make the [[2010 FIFA World Cup]] in South Africa, the first World Cup to be held in Africa.
+
+===2010s===
+Senegal was eliminated from the [[2012 Africa Cup of Nations]] with zero wins and zero points.
+
+After former manager [[Bruno Metsu]] died on 14 October 2013, many Senegalese players were recalled to appear and have a moment of silence in memory of the manager who helped them reach the quarter-final in the [[2002 FIFA World Cup|2002 World Cup]]. All activities of the national league and the national team were suspended for a few days in his memory.
+
+The West African nation narrowly missed the [[2014 FIFA World Cup]] after losing in a round-robin match against Ivory Coast in the final qualification round. Senegal qualified for two [[Africa Cup of Nations]] tournaments before the next World Cup, being eliminated in the group stage in 2015 and reaching the quarterfinals in 2017. On 10 November 2017, after defeating [[South Africa national soccer team|South Africa]] 2–0,<ref>{{cite news|url = https://www.bbc.co.uk/sport/football/41950088|title = South Africa 0-2 Senegal - BBC Sport|work = BBC Sport|access-date = 25 August 2020|archive-date = 15 November 2021|archive-url = https://web.archive.org/web/20211115101314/http://www.bbc.co.uk/sport/football/41950088|url-status = live}}</ref> Senegal qualified for the [[2018 FIFA World Cup]],<ref>{{cite news |last=Tyers |first=Alan |title=Senegal World Cup 2018 squad list and team guide |url=https://www.telegraph.co.uk/world-cup/0/senegal-world-cup-2018-squad-list-team-guide/ |archive-url=https://ghostarchive.org/archive/20220111/https://www.telegraph.co.uk/world-cup/0/senegal-world-cup-2018-squad-list-team-guide/ |archive-date=11 January 2022 |url-access=subscription |url-status=live |date=19 June 2018 |access-date=19 June 2018 |newspaper=[[The Daily Telegraph]] }}{{cbignore}}</ref> their first since 2002.<ref>{{cite news |url=http://www.africanews.com/2018/05/24/road-to-russia-2018-senegal-returns-to-world-cup-after-bright-2002-debut// |title=Road to Russia 2018: Senegal returns to World Cup after bright 2002 debut |last=Shaban |first=Abdur Rahman Alfa |date=24 May 2018 |access-date=19 June 2018 |work=Africa News |archive-date=19 June 2018 |archive-url=https://web.archive.org/web/20180619213834/http://www.africanews.com/2018/05/24/road-to-russia-2018-senegal-returns-to-world-cup-after-bright-2002-debut// |url-status=live }}</ref> Senegal defeated [[Poland national football team|Poland]] 2–1 in their opening group match,<ref>{{cite web |url=https://www.fifa.com/worldcup/matches/match/300331545/#match-liveblog |archive-url=https://web.archive.org/web/20180612214432/https://www.fifa.com/worldcup/matches/match/300331545/#match-liveblog |url-status=dead |archive-date=12 June 2018 |title=Teranga Lions roar to first African win at Russia 2018 |date=19 June 2018 |access-date=20 June 2018 |work=[[FIFA.com]] |last1=Kozminski |first1=Piotr |last2=Nzetia |first2=Cynthia}}</ref> thanks to an [[own goal]] by [[Thiago Cionek]] and a [[M'Baye Niang]] strike.<ref>{{cite news |title=Niang scores controversial Senegal goal |url=https://www.bbc.com/sport/football/44539007 |date=19 June 2018 |access-date=20 June 2018 |work=[[BBC Sport]] |publisher=[[BBC]] |archive-date=20 June 2018 |archive-url=https://web.archive.org/web/20180620071245/https://www.bbc.com/sport/football/44539007 |url-status=live }}</ref> In the next group stage match, Senegal drew 2–2 against [[Japan national football team|Japan]], with goals from [[Sadio Mané]] and [[Moussa Wagué]].<ref>{{cite web |url=https://www.reuters.com/article/us-soccer-worldcup-jpn-sen/honda-drives-japan-to-deserved-2-2-draw-against-senegal-idUSKBN1JK0QG |title=Honda salvages 2–2 draw for Japan against Senegal with late strike |first=Shrivathsa |last=Sridhar |date=24 June 2018 |access-date=25 June 2018 |work=[[Reuters]] |location=Yekaterinburg |editor-first=Mark |editor-last=Trevelyan |editor2-first=Hugh |editor2-last=Lawson |archive-date=25 June 2018 |archive-url=https://web.archive.org/web/20180625075129/https://www.reuters.com/article/us-soccer-worldcup-jpn-sen/honda-drives-japan-to-deserved-2-2-draw-against-senegal-idUSKBN1JK0QG |url-status=live }}</ref> A 1–0 loss to [[Colombia national football team|Colombia]] in their final match<ref>{{cite news |last=Petterson |first=Joel |title=Colombia Emerges From the World Cup Chaos, Booting Senegal |url=https://www.nytimes.com/2018/06/28/sports/world-cup/colombia-vs-senegal.html |date=27 June 2018 |access-date=28 June 2018 |newspaper=[[New York Times]] |archive-date=28 June 2018 |archive-url=https://web.archive.org/web/20180628151817/https://www.nytimes.com/2018/06/28/sports/world-cup/colombia-vs-senegal.html |url-status=live }}</ref> meant they finished level on points with Japan, who progressed thanks to a superior fair play record.<ref>{{cite news |last=Mather |first=Victor |title=Japan Advances in World Cup 2018 Despite Losing to Poland |url=https://www.nytimes.com/2018/06/28/sports/world-cup/japan-vs-poland.html |date=27 June 2018 |access-date=28 June 2018 |newspaper=[[New York Times]] |archive-date=28 June 2018 |archive-url=https://web.archive.org/web/20180628151830/https://www.nytimes.com/2018/06/28/sports/world-cup/japan-vs-poland.html |url-status=live }}</ref> Thus, Senegal was eliminated in the group stage for the first time in its World Cup history.<ref>{{cite web |url=https://edition.cnn.com/2018/06/28/football/colombia-senegal-japan-poland-world-cup-spt-intl/index.html |title=Colombia and Japan qualify for last 16 as Senegal crashes out of World Cup on fair play rule |last=Grez |first=Matias |date=28 June 2018 |access-date=28 June 2018 |work=CNN Sports |publisher=[[CNN]] |archive-date=29 June 2018 |archive-url=https://web.archive.org/web/20180629022139/https://edition.cnn.com/2018/06/28/football/colombia-senegal-japan-poland-world-cup-spt-intl/index.html |url-status=live }}</ref>
+
+[[Aliou Cissé]], who participated in the 2002 AFCON, managed Senegal to a runner-up campaign in the [[2019 Africa Cup of Nations]].<ref>{{cite web|url=https://www.france24.com/en/20190719-africa-cup-nations-senegal-algeria-face-off-historic-final-cisse-belmadi|title=Senegal, Algeria face off in historic Africa Cup of Nations final|website=france24.com|publisher=France Médias Monde|date=19 July 2019|access-date=21 July 2019|archive-date=20 July 2019|archive-url=https://web.archive.org/web/20190720150144/https://www.france24.com/en/20190719-africa-cup-nations-senegal-algeria-face-off-historic-final-cisse-belmadi|url-status=live}}</ref> Having lost 1–0 to [[Algeria national football team|Algeria]] earlier in the tournament, Senegal lost 1–0 to them again in [[2019 Africa Cup of Nations Final|the final]].<ref>{{cite web|url=https://www.eurosport.com/football/africa-cup-of-nations/2019/live-senegal-algeria_mtc1105867/live.shtml|title=Senegal - Algeria - Africa Cup of Nations|website=eurosport.com|publisher=Eurosport|date=19 July 2019|access-date=21 July 2019|archive-date=20 July 2019|archive-url=https://web.archive.org/web/20190720181313/https://www.eurosport.com/football/africa-cup-of-nations/2019/live-senegal-algeria_mtc1105867/live.shtml|url-status=live}}</ref><ref>{{cite web|url=https://www.theguardian.com/football/2019/jul/19/senegal-algeria-africa-cup-of-nations-final-match-report|title=Algeria claim second Afcon title after Bounedjah's lucky strike sinks Senegal|website=theguardian.com|publisher=Guardian News & Media Limited|date=19 July 2019|access-date=21 July 2019|archive-date=20 July 2019|archive-url=https://web.archive.org/web/20190720130642/https://www.theguardian.com/football/2019/jul/19/senegal-algeria-africa-cup-of-nations-final-match-report|url-status=live}}</ref>
+
+===2020s===
+Deprived of many players due to [[COVID-19]], Senegal participated in the [[2021 Africa Cup of Nations]], postponed to 2022 because of [[COVID-19 pandemic|the pandemic]]; they beat [[Zimbabwe national football team|Zimbabwe]] in their first match 1–0 and drew their next two games, enough to finish first in their group.<ref>{{cite web|date=18 January 2022|title=Afcon 2021: Senegal top Group B despite Malawi draw|url=https://www.bbc.com/sport/football/59947165|url-status=live|archive-url=https://web.archive.org/web/20220203121456/https://www.bbc.com/sport/football/59947165|archive-date=3 February 2022|access-date=5 February 2022|website=BBC Sport}}</ref> In the round of 16, Senegal faced [[Cape Verde national football team|Cape Verde]]. Mané recorded a shot that hit the post in the first minute. [[Patrick Andrade]] was sent off in the 21st minute, after intervention of the [[video assistant referee]]. Despite their dominance, the first half ended without a single shot on target; Mané opened the scoring a few minutes into the second half, following a corner.
+
+Senegal faced [[Equatorial Guinea national football team|Equatorial Guinea]] in the quarter-finals. The Lions opened the scoring half an hour into the game, by [[Famara Diédhiou]] on a pass from Mané; Senegal eventually won 3–1.<ref>{{cite web|date=26 January 2022|title=Senegal 2-0 Cape Verde: Sadio Mane scored but injured as Senegal reach AFCON quarter-finals|url=https://www.skysports.com/football/senegal-vs-cape-verde/457234|url-status=live|archive-url=https://web.archive.org/web/20220205225501/https://www.skysports.com/football/senegal-vs-cape-verde/457234|archive-date=5 February 2022|access-date=5 February 2022|website=Sky Sports}}</ref> In the semi-finals, Senegal faced [[Burkina Faso national football team|Burkina Faso]], winning 3–1 again.<ref>{{cite web|date=30 January 2022|title=Afcon 2021: Senegal 3-1 Equatorial Guinea: Senegal set up semi-final against Burkina Faso|url=https://www.bbc.com/sport/football/60100298|url-status=live|archive-url=https://web.archive.org/web/20220203130655/https://www.bbc.com/sport/football/60100298|archive-date=3 February 2022|access-date=5 February 2022|website=BBC Sport}}</ref> In the [[2021 Africa Cup of Nations Final|final]], Senegal faced [[Egypt national football team|Egypt]], who eliminated hosts [[Cameroon national football team|Cameroon]] in the semi-finals. In a penalty shoot-out, Mané scored the winning penalty,<ref>{{cite web|date=2 February 2022|title=Mane and Senegal break Burkina Faso hearts to reach AFCON final|url=https://www.rfi.fr/en/mane-and-senegal-break-burkina-faso-hearts-to-reach-afcon-final|url-status=live|archive-url=https://web.archive.org/web/20220205225500/https://www.rfi.fr/en/mane-and-senegal-break-burkina-faso-hearts-to-reach-afcon-final|archive-date=5 February 2022|access-date=5 February 2022|website=RFI}}</ref> to bring Senegal its first Africa Cup of Nations title.<ref>{{Cite web|title=Senegal 0-0 Egypt (Senegal win 4-2 on penalties): Sadio Mane puts penalty miss behind him to score winning spot kick in shootout|url=https://www.skysports.com/football/senegal-vs-egypt/report/457245|url-status=live|archive-url=https://web.archive.org/web/20220209174743/https://www.skysports.com/football/senegal-vs-egypt/report/457245|archive-date=9 February 2022|access-date=9 February 2022|website=Sky Sports|language=en}}</ref> Senegal returned home and took part in a victory parade that took place in the capital, [[Dakar]]. During the 2021 Africa Cup of Nations final, Egyptian goalkeeper Mohamed Abou Gabal, known as Gabaski, used a water bottle with notes indicating the preferred penalty shot directions of Senegalese players.<ref>{{cite web | url=https://observers.france24.com/en/africa/20220209-afcon-gabaski-egypt-senegal-penalty-shootout-water-bottle | title=AFCON final: Egyptian goalkeeper Gabaski's cheat sheet bottle found on pitch | date=7 February 2022 | access-date=22 May 2025 | archive-date=9 January 2026 | archive-url=https://web.archive.org/web/20260109225231/https://observers.france24.com/en/africa/20220209-afcon-gabaski-egypt-senegal-penalty-shootout-water-bottle | url-status=live }}</ref>
+It ended up becoming the biggest party in the country's history.<ref>{{Cite web|date=8 February 2022|title=Senegal victory parade in Dakar becomes biggest party in country's history|url=https://www.marca.com/en/football/international-football/2022/02/08/6202664e46163fb8158b458c.html|url-status=live|archive-url=https://web.archive.org/web/20220209174730/https://www.marca.com/en/football/international-football/2022/02/08/6202664e46163fb8158b458c.html|archive-date=9 February 2022|access-date=9 February 2022|website=MARCA|language=en}}</ref>
+
+Senegal faced Egypt twice after the AFCON final, eliminating the Egyptians on penalties after being tied 1–1 on aggregate, to qualify for the [[2022 FIFA World Cup]]. Mané eliminated his [[Liverpool F.C.|Liverpool]] teammate [[Mohamed Salah]] after scoring the winning penalty again.<ref>{{cite web |title=Senegal vs. Egypt |url=https://www.espn.com/soccer/match/_/gameId/629216 |website=ESPN |access-date=29 March 2022 |archive-date=16 December 2024 |archive-url=https://web.archive.org/web/20241216014112/https://www.espn.com/soccer/match/_/gameId/629216 |url-status=live }}</ref>
+The penalty shoot-out was however full of controversies with lasers being pointed at Egypt's penalty takers and goalkeeper. FIFA fined Senegal's football federation 175,000 Swiss francs as a result of the fan disorder.<ref>{{Cite web|url=https://www.goal.com/en-us/news/senegal-punished-fifa-after-salah-laser-crowd-trouble-world-cup-play-off-egypt/blt1d0ed43fd684a223|title=Senegal punished by FIFA after Salah laser-pointing incident & crowd trouble in World Cup play-off win over Egypt &#124; Goal.com US|date=2 May 2022|website=www.goal.com|access-date=29 November 2022|archive-date=29 November 2022|archive-url=https://web.archive.org/web/20221129184553/https://www.goal.com/en-us/news/senegal-punished-fifa-after-salah-laser-crowd-trouble-world-cup-play-off-egypt/blt1d0ed43fd684a223|url-status=live}}</ref>
+
+For the 2022 World Cup in Qatar, Senegal were drawn in Group A along with the hosts [[Qatar national football team|Qatar]], [[Ecuador national football team|Ecuador]] and the [[Netherlands national football team|Netherlands]]. Star man Mané missed out due to injury, but Senegal managed to progress from the group nonetheless. Though they lost their first game against the Netherlands 2–0, Senegal went on to claim six points against the hosts and then Ecuador in their final game, progressing to the Round of 16, where they lost 3–0 to [[England national football team|England]]. It marked the second time Senegal had progressed past the group stage, in only their third appearance.
+
+On 10 June 2025, Senegal won 3–1 against England, becoming the first African country to defeat England in a football match at senior level.<ref>{{Cite web|url=https://www.bbc.com/sport/football/articles/cn4q5348vg4o|title='We made history' - Senegal first African side to beat England; BBC Sport|date=10 June 2025|access-date=18 November 2025|website=www.bbc.com|archive-date=19 December 2025|archive-url=https://web.archive.org/web/20251219052413/https://www.bbc.com/sport/football/articles/cn4q5348vg4o|url-status=live}}</ref>
+
+On 18 January 2026, Senegal won their second African Cup of Nations after beating host nation [[Morocco national football team|Morocco]] 1–0 after extra time in the [[2025 Africa Cup of Nations final|final]].<ref>{{cite web |url=https://www.nytimes.com/athletic/live-blogs/senegal-vs-morocco-afcon-2025-final-score-result/DQtU75DqxAoW/ |title=Senegal beat Morocco thanks to Gueye strike in extraordinary AFCON 2025 final: Live updates and reaction |work=The New York Times |date=19 January 2026 |access-date=19 January 2026 |archive-date=18 January 2026 |archive-url=https://web.archive.org/web/20260118210043/https://www.nytimes.com/athletic/live-blogs/senegal-vs-morocco-afcon-2025-final-score-result/DQtU75DqxAoW/ |url-status=live }}</ref> However, the match was marred by a walkout by Senegal's players in protest at the awarding of a stoppage-time penalty to Morocco. This led to the [[Confederation of African Football]] overturning the result on 17 March 2026, calling the walkout a forfeiture of the match by Senegal, and awarding the trophy to Morocco instead.<ref name=":0">{{Cite web |date=17 March 2026 |title=Morocco awarded Afcon title after CAF overturns result |url=https://www.bbc.com/sport/football/articles/ce949glzzglo |access-date=18 March 2026 |website=BBC}}</ref> The Senegalese Football Federation said it will appeal against this ruling.<ref name=":0" />
+
+On 26 June 2026, during the third group stage game of the [[2026 FIFA World Cup]], they won 5–0 against [[Iraq national football team|Iraq]], the biggest victory of an African team in World Cup history.<ref> {{cite web |title=Soar Africa! on X |url=https://x.com/SSE_NGA/status/2070614157607510214 |website=X |access-date=26 June 2026}}</ref>
+
+==Kit history==
+{{Commons|Senegal national football team kits}}
+
+[[Puma SE|Puma]] has been the manufacturer of Senegal's kits since 2005 (except 2017, when Romai was the manufacturer). The home kit is typically white, and the away kit is green.
+
+[[File:La victoire sénégalaise.jpg|thumb|150px|Supporters wearing the away kit]]
+{| class="wikitable"
+|-
+! Kit providers
+! Period
+|-
+|None 
+|1960–1980
+|-
+|{{flagicon|GER}} [[Adidas]]
+| 1980–2000
+|-
+|{{flagicon|ITA}} [[Erreà]]
+| 2000–2001
+|-
+|{{flagicon|FRA|1974}} [[Le Coq Sportif]]
+| 2002–2004
+|-
+|{{Flagicon|GER}} [[Puma SE|Puma]]
+| 2005–2016
+|-
+|{{flagicon|UAE}} [[Romai Sports|Romai]]<ref>{{cite web|url=https://www.galsenfoot.com/fsf-rompt-officiellement-romai/|title=La FSF rompt officiellement avec Romai|language=fr|website=galsenfoot.com|publisher=Galsenfoot|date=28 September 2017|access-date=29 September 2017|archive-date=29 September 2017|archive-url=https://web.archive.org/web/20170929193650/https://www.galsenfoot.com/fsf-rompt-officiellement-romai/|url-status=live}}</ref>
+| 2017
+|-
+|{{flagicon|GER}} Puma
+| 2018–present
+|}
+
+==Results and fixtures==
+{{main|Senegal national football team results (2020–present)}}
+
+The following is a list of match results in the last 12 months, as well as any future matches that have been scheduled.
+
+{{legend2|#CCFFCC|Win|border=1px solid #AAAAAA}}
+{{legend2|#FFFFCC|Draw|border=1px solid #AAAAAA}}
+{{legend2|#FFCCCC|Loss|border=1px solid #AAAAAA}}
+{{legend2|#FFFFFF|Fixture|border=1px solid #AAAAAA}}
+
+=== 2025 ===
+{{footballbox collapsible |format     = 1
+| date       = 5 September
+| time       = {{UTZ|19:00|0}}
+| round      = 2026 FIFA World Cup qualification 
+| team1      = {{fb-rt|SEN}} 
+| team2      = {{fb|SDN}} 
+| score      = 2–0
+| report     = https://www.fifa.com/en/match-centre/match/520/288282/288289/400020773
+| goals1     =
+*[[Kalidou Koulibaly|Koulibaly]] {{goal|14}}
+*[[Pape Matar Sarr|P. Sarr]] {{goal|41}}
+| goals2     =
+| stadium    = [[Diamniadio Olympic Stadium]]
+| location   = [[Dakar]], Senegal
+| attendance =
+| referee    = Ahmad Heeralall ([[Mauritius Football Association|Mauritius]])
+| result     = W
+}} 
+{{footballbox collapsible |format     = 1
+| date       = 9 September
+| time       = {{UTZ|17:00|1}}
+| round      = 2026 FIFA World Cup qualification 
+| team1      = {{fb-rt|COD}} 
+| team2      = {{fb|SEN}} 
+| score      = 2–3
+| report     = https://www.fifa.com/en/match-centre/match/520/288282/288289/400020772
+| goals1     =
+*[[Cédric Bakambu|Bakambu]] {{goal|26}}
+*[[Yoane Wissa|Wissa]] {{goal|33}}
+| goals2     =
+*[[Pape Gueye|Gueye]] {{goal|39}}
+*[[Nicolas Jackson|Jackson]] {{goal|53}}
+*[[Pape Matar Sarr|P. Sarr]] {{goal|87}}
+| stadium    = [[Stade des Martyrs]]
+| location   = [[Kinshasa]], DR Congo 
+| attendance =
+| referee    = Omar Artan ([[Somali Football Federation|Somalia]])
+| result     = W
+}}
+{{footballbox collapsible |format     = 1
+| date       = 10 October
+| time       = {{UTZ|15:00|2}}
+| round      = 2026 FIFA World Cup qualification 
+| team1      = {{fb-rt|SSD}} 
+| team2      = {{fb|SEN}} 
+| score      = 0–5
+| report     = https://www.fifa.com/en/match-centre/match/520/288282/288289/400021040
+| goals1     =
+| goals2     =
+*[[Ismaïla Sarr|I. Sarr]] {{goal|29||54}}
+*[[Sadio Mané|Mané]] {{goal|46}}
+*[[Nicolas Jackson|Jackson]] {{goal|60|pen.}}
+*[[Cherif Ndiaye|C. Ndiaye]] {{goal|75}}
+| stadium    = [[Juba Stadium]] 
+| location   = [[Juba]], South Sudan
+| attendance =
+| referee    = Abdou Abdel Mefrie ([[Cameroonian Football Federation|Cameroon]])
+| result     = W
+}}
+{{Footballbox collapsible |format     = 1
+| date       = 14 October
+| time       = {{UTZ|19:00|0}}
+| round      = 2026 FIFA World Cup qualification 
+| team1      = {{fb-rt|SEN}} 
+| team2      = {{fb|MRT}} 
+| score      = 4–0
+| report     =https://www.fifa.com/en/match-centre/match/520/288282/288289/400021038
+| goals1     =
+*[[Sadio Mané|Mané]] {{goal|45+1||48}}
+*[[Iliman Ndiaye|I. Ndiaye]] {{goal|64}}
+*[[Habib Diallo|Diallo]] {{goal|85}}
+| goals2     =
+| stadium    = [[Diamniadio Olympic Stadium]]
+| location   = [[Dakar]], Senegal
+| attendance =
+| referee    =  Mohamed Ali Moussa ([[Nigerien Football Federation|Niger]])
+| result     = W
+}}
+{{Football box collapsible
+| format     = 1
+| round      = [[Exhibition game#International football|Friendly]]
+| date       = 15 November
+| time       = {{UTZ|16:00|0}}
+| team1      = {{fb-rt|BRA}}
+| score      = 2–0
+| team2      = {{fb|SEN}}
+| report     = https://globalsportsarchive.com/en/soccer/match/2025-11-15/brazil-vs-senegal/3933150
+| goals1     = 
+*[[Estêvão Willian|Estêvão]] {{goal|28}}
+* [[Casemiro]] {{goal|35}}
+| goals2     =
+| location   = [[London]], England
+| stadium    = [[Emirates Stadium]]
+| attendance = 58,657
+| referee    = [[Jarred Gillett]] ([[The Football Association|England]])
+| result     = L
+}}
+{{Football box collapsible
+| format     = 1
+| round      = [[Exhibition game#International football|Friendly]]
+| date       = 18 November
+| time       = {{UTZ|18:00|3}}
+| team1      = {{fb-rt|SEN}}
+| score      = 8–0
+| team2      = {{fb|KEN}}
+| report     = https://www.espn.com/soccer/match/_/gameId/760824/kenya-senegal
+| goals1     =
+*[[Nicolas Jackson|Jackson]] {{goal|9||15}}
+*[[El Hadji Malick Diouf|Diouf]] {{goal|12}}
+*[[Sadio Mané|Mané]] {{goal|17||31|pen.|35}}
+*[[Ibrahim Mbaye|Mbaye]] {{goal|48}}
+*[[Cherif Ndiaye|C. Ndiaye]] {{goal|80|pen.}}
+| goals2     =
+| location   = [[Antalya]], Turkey
+| stadium    = [[Antalya Stadium]]
+| attendance = 
+| referee    = Atilla Karaoglan ([[Turkish Football Federation|Turkey]])
+| result     = W
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[2025_Africa_Cup_of_Nations#Group_D|2025 AFCON GS]]
+|date       = 23 December
+|time       = {{UTZ|16:00|1}}
+|team1      = {{fb-rt|SEN}}
+|score      = 3–0
+|team2      = {{fb|BOT}}
+|goals1     = 
+*[[Nicolas Jackson|Jackson]] {{goal|40||58}}
+*[[Cherif Ndiaye|C. Ndiaye]] {{goal|90}}
+|goals2     = 
+|stadium    = [[Ibn Batouta Stadium]]
+|location   = [[Tangier]], Morocco
+|attendance = 18,591
+|referee    = [[Abdel Aziz Bouh]] ([[Football Federation of the Islamic Republic of Mauritania|Mauritania]])
+|report     = https://www.cafonline.com/afcon2025/match-centre?competition=190&season=2025&match=2506780
+|result     = W
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[2025_Africa_Cup_of_Nations#Group_D|2025 AFCON GS]]
+|date       = 27 December
+|time       = {{UTZ|16:00|1}}
+|team1      = {{fb-rt|SEN}}
+|score      = 1–1
+|team2      = {{fb|DRC}}
+|goals1     = [[Sadio Mané|Mané]] {{goal|69}}
+|goals2     = [[Cédric Bakambu|Bakambu]] {{goal|61}}
+|stadium    = [[Ibn Batouta Stadium]]
+|location   = [[Tangier]], Morocco
+|attendance = 41,672
+|referee    = [[Lahlou Benbraham]] ([[Algerian Football Federation|Algeria]])
+|report     = https://www.cafonline.com/afcon2025/match-centre?competition=190&season=2025&match=2506792
+|result     = D
+}}
+{{Football box collapsible
+|format     = 1
+|round      = [[2025_Africa_Cup_of_Nations#Group_D|2025 AFCON GS]]
+|date       = 30 December
+|time       = {{UTZ|20:00|1}}
+|team1      = {{fb-rt|BEN}}
+|score      = 0–3
+|team2      = {{fb|SEN}}
+|goals1     = 
+|goals2     = *[[Abdoulaye Seck (footballer, born 1992)|Seck]] {{goal|38}}
+*[[Habib Diallo|H. Diallo]] {{goal|62}}
+*[[Kalidou Koulibaly|Koulibaly]] {{sentoff|0|71}}
+*[[Cherif Ndiaye|C. Ndiaye]] {{goal|90+7}}
+|stadium    = [[Ibn Batouta Stadium]]
+|location   = [[Tangier]], Morocco
+|attendance = 26,707
+|referee    = [[Samuel Uwikunda]] ([[Rwanda Football Federation|Rwanda]])
+|report     = https://www.cafonline.com/afcon2025/match-centre?competition=190&season=2025&match=2506804
+|result     = W
+}}
+
+===2026=== 
+{{Football box collapsible
+|format     = 1
+|round      = [[2025 Africa Cup of Nations knockout stage|2025 AFCON R16]]
+|date       = 3 January
+|time       = {{UTZ|17:00|1}}
+|team1      = {{fb-rt|SEN}}
+|score      = 3–1
+|team2      = {{fb|SDN}}
+|goals1     = *[[Pape Gueye|P. Gueye]] {{goal|29||45+3}}
+*[[Ibrahim Mbaye|Mbaye]] {{goal|77}}
+|goals2     = [[Aamir Abdallah]] {{goal|6}}
+|stadium    = [[Tangier Grand Stadium]]
+|location   = [[Tangier]], Morocco
+|attendance = 30,045
+|referee    = [[Dahane Beida]] ([[Football Federation of the Islamic Republic of Mauritania|Mauritania]])
+|report     = https://www.cafonline.com/afcon2025/match-centre?competition=190&season=2025&match=2506810
+|result     = W
+}}
+{{Football box collapsible
+|format= 1
+|round= [[2025 Africa Cup of Nations knockout stage|2025 AFCON QF]]
+|date= 9 January
+|time= {{UTZ|17:00|1}}
+|team1= {{fb-rt|MLI}}
+|score= 0–1
+|report= https://www.cafonline.com/afcon2025/match-centre?competition=190&season=2025&match=2506818
+|team2= {{fb|SEN}}
+|goals1= [[Yves Bissouma|Bissouma]] {{sentoff|2|23|45+3}}
+|goals2= [[Iliman Ndiaye|I. Ndiaye]] {{goal|27}}
+|stadium= [[Tangier Grand Stadium]]
+|location= [[Tangier]], Morocco
+|attendance= 32,385
+|referee= [[Abongile Tom]] ([[South African Football Association|South Africa]])
+|result= W 
+}}
+{{Football box collapsible
+|format= 1
+|round= [[2025 Africa Cup of Nations knockout stage|2025 AFCON SF]]
+|date= 14 January
+|time= {{UTZ|18:00|1}}
+|team1= {{fb-rt|SEN}}
+|score= 1–0
+|report= https://www.cafonline.com/afcon2025/match-centre?competition=190&season=2025&match=2506822
+|team2= {{fb|EGY}}
+|goals1= [[Sadio Mané|Mané]] {{goal|78}}
+|goals2= 
+|stadium= [[Tangier Grand Stadium]]
+|location= [[Tangier]], Morocco
+|attendance= 52,079
+|referee= [[Pierre Atcho]] ([[Gabonese Football Federation|Gabon]])
+|result= W
+}}
+{{Football box collapsible
+|format= 1
+|round= [[2025 Africa Cup of Nations knockout stage|2025 AFCON Final]]
+|date= 18 January
+|time= {{UTZ|20:00|1}}
+|team1= {{fb-rt|SEN}}
+|score= 0–3
+|scorenote  = Awarded{{refn|group=note|name=Awarded|The final match originally finished 1–0 for Senegal after [[Overtime (sports)#Association football|extra time]]. On 17 March 2026, the CAF Appeal Board ruled that Senegal had forfeited the match for temporarily refusing to play and leaving the pitch in protest of a refereeing decision.<ref>{{cite web |url=https://www.bbc.com/sport/football/articles/ce949glzzglo |title=Morocco awarded Afcon title after CAF overturns result |work=[[BBC Sport]] |date=17 March 2026 |access-date=17 March 2026}}</ref> Pursuant to articles 82 and 84 of the competition regulations, the final was awarded as a 3–0 win for Morocco, thereby retroactively declaring them as 2025 Africa Cup of Nations champions and stripping Senegal of the title.<ref name="CAF appeal">{{cite web |url=https://www.cafonline.com/news/caf-appeal-board-media-statement/ |title=CAF Appeal Board Media Statement |publisher=[[Confederation of African Football]] |date=17 March 2026 |access-date=17 March 2026|archive-date=17 March 2026 |archive-url=https://web.archive.org/web/20260317220033/http://web.archive.org/screenshot/https://www.cafonline.com/news/caf-appeal-board-media-statement/ |url-status=live }}</ref> The following day, the [[Senegalese Football Federation]] announced it would appeal the decision to the [[Court of Arbitration for Sport]].<ref name="Senegal appeal">{{cite web |url=https://fsfoot.sn/affaire-decision-jury-dappel-de-la-caf/ |title=Affaire décision Jury d'appel de la CAF |trans-title=CAF Appeal Board Decision |publisher=[[Senegalese Football Federation]] |date=18 March 2026 |access-date=18 March 2026 |language=fr}}</ref>}}
+|report= https://www.cafonline.com/afcon2025/match-centre?competition=190&season=2025&match=2506822
+|team2= {{fb|MAR}}
+|goals1 = 
+|stadium= [[Prince Moulay Abdellah Stadium]]
+|location= [[Rabat]], Morocco
+|attendance= 66,526
+|referee= [[Jean-Jacques Ndala]] ([[Congolese Association Football Federation|DR Congo]])
+|result= L
+}}
+{{football box collapsible
+|format     = 1
+|round      = [[Exhibition game#Association football|Friendly]]
+|date       = 28 March
+|time       = {{UTZ|17:00|+1}}
+|team1      = {{fb-rt|SEN}}
+|score      = 2–0
+|team2      = {{fb|PER}}
+|report     = https://www.espn.com/soccer/match/_/gameId/401861999/peru-senegal
+|goals1     = * [[Nicolas Jackson|Jackson]] {{goal|41}}
+* [[Ismaïla Sarr|I. Sarr]] {{goal|54}}
+|goals2     =
+|location   = [[Paris]], France
+|stadium    = [[Stade de France]]
+|attendance = 70,000
+|referee    = Jeremie Pignard ([[French Football Federation|France]])
+|result     = W
+}}
+{{football box collapsible
+|format     = 1
+|round      = [[Exhibition game#Association football|Friendly]]
+|date       = 31 March
+|time       = {{UTZ|19:00|+0}}
+|team1      = {{fb-rt|SEN}}
+|score      = 3–1
+|team2      = {{fb|GAM}}
+|report     = https://globalsportsarchive.com/en/soccer/match/2026-03-31/senegal-vs-gambia/4103846
+|goals1     = *[[Abdoulaye Seck (footballer, born 1992)|Seck]] {{goal|45+4}}
+*[[Ibrahim Mbaye|Mbaye]] {{goal|47}}
+*[[Lamine Camara|Camara]] {{goal|90+5}}
+|goals2     = *[[Omar Colley|Colley]] {{goal|51}}
+|location   = [[Dakar]], Senegal
+|stadium    = [[Diamniadio Olympic Stadium]]
+|attendance = 
+|referee    = Abdelaziz Bouh ([[Football Federation of the Islamic Republic of Mauritania|Mauritania]])
+|result     = W 
+}}
+{{football box collapsible
+|format=1
+|round      = [[Exhibition game|Friendly]]
+|date       = 31 May
+|time       = {{UTZ|15:30|-5}}
+|team1      = {{fb-rt|USA}}
+|score      = 3–2
+|report     = https://globalsportsarchive.com/en/soccer/match/2026-05-31/united-states-vs-senegal/4053592
+|team2      = {{fb|Senegal}}
+|goals1     = 
+* [[Sergiño Dest|Dest]] {{goal|7}}
+* [[Christian Pulisic|Pulisic]] {{goal|20}}
+* [[Folarin Balogun|Balogun]] {{goal|63}} 
+|goals2     =
+* [[Sadio Mané|Mané]] {{goal|44||52}}
+|stadium    = [[Bank of America Stadium]]
+|location   = [[Charlotte, North Carolina|Charlotte]], [[North Carolina]], United States
+|attendance = 57,741
+|referee    = [[Nick Walsh (referee)|Nick Walsh]] ([[Scottish Football Association|Scotland]])
+|result     = L
+}}
+{{football box collapsible
+|format=1
+|round      = [[Exhibition game|Friendly]]
+|date       = 9 June
+|time       = 
+|team1      = {{fb-rt|KSA}}
+|score      = 0–0
+|report     = https://globalsportsarchive.com/en/soccer/match/2026-06-10/saudi-arabia-vs-senegal/4298701
+|team2      = {{fb|Senegal}}
+|goals1     =
+|goals2     =
+|stadium    = [[Toyota Field]] 
+|location   = [[San Antonio]], [[Texas]], United States
+|attendance =
+|referee    = [[Víctor Rivas]] ([[United States Soccer Federation|United States]])
+|result     = D 
+}}
+{{football box collapsible
+|format=1
+|date       = 16 June
+|time       = {{UTZ|15:00|-4}}
+|round      = [[2026 FIFA World Cup Group I|2026 World Cup Group I]]
+|team1      = {{fb-rt|FRA}}
+|score      = 3–1
+|report     = https://www.fifa.com/en/match-centre/match/17/285023/289273/400021490
+|team2      = {{fb|SEN}}
+|goals1=
+*[[Kylian Mbappé|Mbappé]] {{goal|66|90+6}}
+*[[Bradley Barcola|Barcola]] {{goal|82}}
+|goals2=
+*[[Ibrahim Mbaye|Mbaye]] {{goal|90+5}}
+|location   = [[East Rutherford, New Jersey|East Rutherford]], [[New Jersey]], United States
+|stadium    = [[MetLife Stadium]]
+|attendance = 80,545
+|referee    = [[Alireza Faghani]] ([[Football Australia|Australia]])
+|result     = L
+}}
+{{football box collapsible
+|format=1
+|date              = 22 June
+|time              = {{UTZ|20:00|-4}}
+|round             = [[2026 FIFA World Cup Group I|2026 World Cup Group I]]
+|team1             = {{fb-rt|NOR}}
+|score             = 3–2
+|report            = https://www.fifa.com/en/match-centre/match/17/285023/289273/400021491
+|team2             = {{fb|SEN}}
+|goals1            =
+*[[Marcus Holmgren Pedersen|Holmgren Pedersen]] {{goal|43}}
+*[[Erling Haaland|Haaland]] {{goal|48||58}}
+|goals2=
+*[[Ismaïla Sarr|I. Sarr]] {{goal|53||90+3}}
+|location          = [[East Rutherford, New Jersey|East Rutherford]], [[New Jersey]], United States
+|stadium           = [[MetLife Stadium]]
+|attendance        = 80,663
+|referee           = [[Wilton Sampaio]] ([[Brazilian Football Confederation|Brazil]])
+|result            = L
+}}
+{{football box collapsible
+|format=1
+|date              = 26 June
+|time              = {{UTZ|15:00|-4}}
+|round             = [[2026 FIFA World Cup Group I|2026 World Cup Group I]]
+|team1             = {{fb-rt|SEN}}
+|score             = 5–0
+|report            = https://www.fifa.com/en/match-centre/match/17/285023/289273/400021493
+|team2             = {{fb|IRQ}}
+|goals1            =
+*[[Habib Diarra|Diarra]] {{goal|4}}
+*[[Ismaïla Sarr|I. Sarr]] {{goal|56}}
+*[[Pape Gueye|P. Gueye]] {{goal|59||71}}
+*[[Iliman Ndiaye|I. Ndiaye]] {{goal|82}}
+|goals2            =
+|location          = [[Toronto]], [[Ontario]], Canada
+|stadium           = [[BMO Field]]
+|attendance        = 43,036
+|referee           = [[Anthony Taylor (referee)|Anthony Taylor]] ([[The Football Association|England]])
+|result            = W
+}}
+{{Football box collapsible|format=1
+|round = [[2026 FIFA World Cup]] [[2026 FIFA World Cup round of 32|Round of 32]]
+|date = 1 July
+|time = {{UTZ|13:00|-7}}
+|team1 = {{fb-rt|BEL}} 
+|score = 3–2
+|aet = yes
+|report = https://www.fifa.com/en/match-centre/match/17/285023/289287/400021525
+|team2 = {{fb|SEN}}
+|goals1 = 
+*[[Romelu Lukaku|Lukaku]] {{goal|86}}
+*[[Youri Tielemans|Tielemans]] {{goal|89|120+5|pen.}}
+|goals2 = 
+*[[Habib Diarra|Diarra]] {{goal|24}}
+*[[Ismaila Sarr|I. Sarr]] {{goal|51}}
+|stadium = [[Lumen Field]]
+|location = [[Seattle]], United States
+|attendance = 66,925
+|referee = [[Saíd Martínez]] ([[Football Federation of Honduras|Honduras]])
+|result = L
+}}
+{{footballbox collapsible
+|format = 1
+|round = [[2027 Africa Cup of Nations qualification|2027 AFCON qualification]]
+|date = TBD
+|time = TBD
+|team1 = {{fb-rt|SEN}}
+|score =
+|team2 = {{fb|MOZ}}
+|report =
+|goals1 =
+|goals2 =
+|location = TBD, Senegal
+|stadium = TBD
+|attendance =
+|referee =
+|result =
+}}
+{{footballbox collapsible
+|format = 1
+|round = [[2027 Africa Cup of Nations qualification|2027 AFCON qualification]]
+|date = TBD
+|time = TBD
+|team1 = {{fb-rt|MOZ}}
+|score =
+|team2 = {{fb|SEN}}
+|report =
+|goals1 =
+|goals2 =
+|location = TBD, Mozambique
+|stadium = TBD
+|attendance =
+|referee =
+|result =
+}}
+{{footballbox collapsible
+|format = 1
+|round = [[2027 Africa Cup of Nations qualification|2027 AFCON qualification]]
+|date = TBD
+|time = TBD
+|team1 = {{fb-rt|SEN}}
+|score =
+|team2 = {{fb|SDN}}
+|report =
+|goals1 =
+|goals2 =
+|location = TBD, Senegal
+|stadium = TBD
+|attendance =
+|referee =
+|result =
+}}
+{{footballbox collapsible
+|format = 1
+|round = [[2027 Africa Cup of Nations qualification|2027 AFCON qualification]]
+|date = TBD
+|time = TBD
+|team1 = {{fb-rt|SDN}}
+|score =
+|team2 = {{fb|SEN}}
+|report =
+|goals1 =
+|goals2 =
+|location = TBD, Sudan
+|stadium = TBD
+|attendance =
+|referee =
+|result =
+}}
+{{footballbox collapsible
+|format = 1
+|round = [[2027 Africa Cup of Nations qualification|2027 AFCON qualification]]
+|date = TBD
+|time = TBD
+|team1 = {{fb-rt|SEN}}
+|score =
+|team2 = {{fb|ETH}}
+|report =
+|goals1 =
+|goals2 =
+|location = TBD, Senegal
+|stadium = TBD
+|attendance =
+|referee =
+|result =
+}}
+{{footballbox collapsible
+|format = 1
+|round = [[2027 Africa Cup of Nations qualification|2027 AFCON qualification]]
+|date = TBD
+|time = TBD
+|team1 = {{fb-rt|ETH}}
+|score =
+|team2 = {{fb|SEN}}
+|report =
+|goals1 =
+|goals2 =
+|location = TBD, Ethiopia
+|stadium = TBD
+|attendance =
+|referee =
+|result =
+}}
+
+==Coaching staff==
+{| class="wikitable"
+|-
+! style="background:#00853F; color:#FDEF42; {{box-shadow border|a|#E31B23|2px}}" |Position
+! style="background:#00853F; color:#FDEF42; {{box-shadow border|a|#E31B23|2px}}" |Name
+|-
+| Head Coach
+| ''Vacant''
+|-
+| Assistant Coach
+| {{Flagicon|Senegal}} Pape Ibrahim Ndiaye
+|-
+| Assistant Coach II
+| {{Flagicon|Senegal}} Alsény Thiam
+|-
+| Goalkeeping Coach
+| {{Flagicon|Senegal}} Boubacarr Mbodj
+|-
+| Team Coordinator
+| {{Flagicon|Senegal}} Mbaye Seck
+|-
+| Physical Trainer
+| {{Flagicon|Senegal}} Ousmane Thioub
+|-
+| Media Officer
+| {{Flagicon|Senegal}} Djibril Sarr
+|-
+| Technical Director
+| {{Flagicon|Senegal}} Karim Ndour
+|-
+| Team Doctor
+| {{Flagicon|Senegal}} Ismaïl Kébé
+|}
+
+===Coaching history===
+[[File:Aliou Cissé 2018.jpg|thumb|200px|[[Aliou Cissé]], the former coach of the national team from 2015 to 2024, is considered the most successful coach in the team's history, leading the team to win the [[2021 Africa Cup of Nations]] and to participate in the 2018 and 2022 World Cups. He was the captain of the team that reached the quarter-finals of the [[2002 FIFA World Cup]].]]
+[[File:Bruno Metsu 2012.jpg|thumb|200px|[[Bruno Metsu]], coach of the national team between 2000 and 2002, led the team to the final of the [[2002 African Cup of Nations|2002 African Nations Cup]] and to participate for the first time in the [[FIFA World Cup]] in [[2002 FIFA World Cup|2002]], where it reached the quarter-finals.]]
+{| class="wikitable"
+! style="background:#00853F; color:#FDEF42; {{box-shadow border|a|#E31B23|2px}}" |Manager
+! style="background:#00853F; color:#FDEF42; {{box-shadow border|a|#E31B23|2px}}" |Period
+! style="background:#00853F; color:#FDEF42; {{box-shadow border|a|#E31B23|2px}}" |Honours
+|-
+|{{flagicon|FRA|1830}} [[Raoul Diagne]]
+| align="center" |1960–1961
+| align="left" style="font-size: 85%" |
+|-
+|{{flagicon|FRA|1830}} [[Jules Vandooren]]
+| align="center" |1961–1963
+| align="left" style="font-size: 85%" |
+|-
+|{{flagicon|SEN}} [[Habib Bâ]]<hr />{{flagicon|SEN}} [[Lybasse Diop]]
+| align="center" |1963–1965
+| align="left" style="font-size: 85%" |[[File:Symbol_confirmed.svg|15x15px]] [[1965 African Cup of Nations|1965 Africa Cup of Nations]] – Fourth place
+|-
+|{{flagicon|SEN}} [[Lamine Diack]]
+| align="center" |1965–1968
+| align="left" style="font-size: 85%" |[[File:Symbol_confirmed.svg|15x15px]] [[1968 African Cup of Nations|1968 Africa Cup of Nations]] – Group stage
+|-
+|{{flagicon|FRG}} [[Otto Pfister]]
+| align="center" |1979–1982
+| align="left" style="font-size: 85%" |
+|-
+|{{flagicon|SEN}} [[Pape Alioune Diop]]
+| align="center" |1982–1986
+| align="left" style="font-size: 85%" |[[File:Symbol_confirmed.svg|15x15px]] [[1986 African Cup of Nations|1986 Africa Cup of Nations]] – Group stage<br>[[File:Symbol_delete_vote_darkened.svg|15x15px]] [[1986 FIFA World Cup]] – Failed to qualify
+|-
+|{{flagicon|SEN}} [[Mawade Wade]]
+| align="center" |1986–1989
+| align="left" style="font-size: 85%" |[[File:Symbol_delete_vote_darkened.svg|15x15px]] [[1988 African Cup of Nations|1988 Africa Cup of Nations]] – Failed to qualify<br>[[File:Symbol_delete_vote_darkened.svg|15x15px]] [[1990 FIFA World Cup]] – Failed to qualify
+|-
+|{{flagicon|FRA|1974}} [[Claude Le Roy]]
+| align="center" |1989–1992
+| align="left" style="font-size: 85%" |[[File:Symbol_confirmed.svg|15x15px]] [[1990 African Cup of Nations|1990 Africa Cup of Nations]] – Fourth place<br>[[File:Symbol_confirmed.svg|15x15px]] [[1992 African Cup of Nations|1992 Africa Cup of Nations]] – Quarter-finals
+|-
+|{{flagicon|SEN}} [[Lamine Dieng (football)|Lamine Dieng]]
+| align="center" |1992–1993
+| align="left" style="font-size: 85%" |
+|-
+|{{flagicon|SEN}} [[Boubacar Sarr]]
+| align="center" |1993–1994
+| align="left" style="font-size: 85%" |[[File:Symbol_delete_vote_darkened.svg|15x15px]] [[1994 FIFA World Cup]] – Failed to qualify
+|-
+|{{flagicon|SEN}} [[Jules Bocandé]]<hr />{{flagicon|SEN}} [[Boubacar Sarr]]
+| align="center" |1994–1995
+| align="left" style="font-size: 85%" |[[File:Symbol_confirmed.svg|15x15px]] [[1994 African Cup of Nations|1994 Africa Cup of Nations]] – Quarter-finals<br>[[File:Symbol_delete_vote_darkened.svg|15x15px]] [[1996 African Cup of Nations|1996 Africa Cup of Nations]] – Failed to qualify
+|-
+|{{flagicon|GER}} [[Peter Schnittger]]
+| align="center" |1995–2000
+| align="left" style="font-size: 85%" |[[File:Symbol_delete_vote_darkened.svg|15x15px]] [[1998 African Cup of Nations|1998 Africa Cup of Nations]] – Failed to qualify<br>[[File:Symbol_delete_vote_darkened.svg|15x15px]] [[1998 FIFA World Cup]] – Failed to qualify<br>[[File:Symbol_confirmed.svg|15x15px]] [[2000 African Cup of Nations|2000 Africa Cup of Nations]] – Quarter-finals
+|-
+|{{flagicon|FRA|1974}} [[Bruno Metsu]]
+| align="center" |2000–2002
+| align="left" style="font-size: 85%" |[[File:Symbol_confirmed.svg|15x15px]] [[2002 African Cup of Nations]] – Runners-up<br>[[File:Symbol_confirmed.svg|15x15px]] [[2002 FIFA World Cup]] – Quarter-finals
+|-
+|{{flagicon|FRA|1974}} [[Guy Stéphan]]
+| align="center" |2002–2005
+| align="left" style="font-size: 85%" |[[File:Symbol_confirmed.svg|15x15px]] [[2004 African Cup of Nations|2004 Africa Cup of Nations]] – Quarter-finals<br>[[File:Symbol_delete_vote_darkened.svg|15x15px]] [[2006 FIFA World Cup]] – Failed to qualify
+|-
+|{{flagicon|SEN}} [[Abdoulaye Sarr]]
+| align="center" |2005–2006
+| align="left" style="font-size: 85%" |[[File:Symbol_confirmed.svg|15x15px]] [[2006 Africa Cup of Nations]] – Fourth place
+|-
+|{{flagicon|POL}} [[Henryk Kasperczak]]
+| align="center" |2006–2008
+| align="left" style="font-size: 85%" |[[File:Symbol_confirmed.svg|15x15px]] [[2008 Africa Cup of Nations]] – Group stage
+|-
+|{{flagicon|SEN}} [[Lamine N'Diaye]]
+| align="center" |2008
+| align="left" style="font-size: 85%" |
+|-
+|{{flagicon|SEN}} [[Amsatou Fall]] ([[Caretaker manager|caretaker]])
+| align="center" |2009
+| align="left" style="font-size: 85%" |[[File:Symbol_delete_vote_darkened.svg|15x15px]] [[2010 Africa Cup of Nations]] –  Failed to qualify<br>[[File:Symbol_delete_vote_darkened.svg|15x15px]] [[2010 FIFA World Cup]] – Failed to qualify
+|-
+|{{flagicon|SEN}} [[Amara Traoré]]
+| align="center" |2009–2012
+| align="left" style="font-size: 85%" |[[File:Symbol_confirmed.svg|15x15px]] [[2012 Africa Cup of Nations]] – Group stage
+|-
+|{{flagicon|SEN}} [[Karim Séga Diouf]]<hr />{{flagicon|SEN}} [[Aliou Cissé]] ([[Caretaker manager|caretaker]])
+| align="center" |2012
+| align="left" style="font-size: 85%" |
+|-
+|{{flagicon|SEN}} [[Joseph Koto]] ([[Caretaker manager|caretaker]])
+| align="center" |2012
+| align="left" style="font-size: 85%" |[[File:Symbol_delete_vote_darkened.svg|15x15px]] [[2013 Africa Cup of Nations]] –  Failed to qualify
+|-
+|{{flagicon|SEN}} [[Mayacine Mar]] ([[Caretaker manager|caretaker]])
+| align="center" |2012–2013
+| align="left" style="font-size: 85%" |[[File:Symbol_delete_vote_darkened.svg|15x15px]] [[2014 FIFA World Cup]] – Failed to qualify
+|-
+|{{flagicon|FRA|1974}} [[Alain Giresse]]
+| align="center" |2013–2015
+| align="left" style="font-size: 85%" |[[File:Symbol_confirmed.svg|15x15px]] [[2015 Africa Cup of Nations]] – Group stage
+|-
+|{{flagicon|SEN}} [[Aliou Cissé]]
+| align="center" |2015–2024
+| align="left" style="font-size: 85%" |[[File:Symbol_confirmed.svg|15x15px]] [[2017 Africa Cup of Nations]] – Quarter-finals<br>[[File:Symbol_confirmed.svg|15x15px]] [[2018 FIFA World Cup]] – Group stage<br>[[File:Symbol_confirmed.svg|15x15px]] [[2019 Africa Cup of Nations]] – Runners-up<br>[[File:Symbol_confirmed.svg|15x15px]] [[2021 Africa Cup of Nations]] – '''Champions'''<br>[[File:Symbol_confirmed.svg|15x15px]] [[2022 FIFA World Cup]] – Round of 16<br>[[File:Symbol_confirmed.svg|15x15px]] [[2023 Africa Cup of Nations]] – Round of 16
+|-
+|{{flagicon|SEN}} [[Pape Thiaw]] 
+| align="center" |2024–2026
+| align="left" style="font-size: 85%" |[[File:Symbol_confirmed.svg|15x15px]] [[2025 Africa Cup of Nations]] - Runners-up<br>[[File:Symbol_confirmed.svg|15x15px]] [[2026 FIFA World Cup]] - Qualified 
+|}
+
+==Players==
+===Current squad===
+The following players were called up to the [[2026 FIFA World Cup]] between 11 June – 19 July 2026 and the pre-tournament [[Exhibition game#International football|friendlies]] against [[United States men's national soccer team|United States]] and [[Saudi Arabia national football team|Saudi Arabia]] on 31 May and 9 June 2026; respectively.<ref>{{cite tweet|author=Senegalese Football Federation|author-link=Senegalese Football Federation|title=La liste des 26 Lions retenus par le sélectionneur national Pape Thiaw pour défendre les couleurs du Senegal à la Coupe du Monde 2026.|trans-title=The list of the 26 Lions selected by national team coach Pape Thiaw to represent Senegal at the 2026 World Cup.|number=2061625034532172127|user=GaindeYi|date=1 June 2026|access-date=2 June 2026|language=fr}}</ref>
+<br>''Caps and goals updated as of 1 July 2026, after the match against [[Belgium national football team|Belgium]].''
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Yehvann Diouf]]|age={{birth date and age|1999|11|16|df=y}}|caps=2|goals=0|club=[[OGC Nice|Nice]]|clubnat=FRA}}
+{{nat fs g player|no=16|pos=GK|name=[[Édouard Mendy]]|age={{birth date and age|1992|3|1|df=y}}|caps=60|goals=0|club=[[Al-Ahli Saudi FC|Al-Ahli]]|clubnat=KSA}}
+{{nat fs g player|no=23|pos=GK|name=[[Mory Diaw]]|age={{birth date and age|1993|6|22|df=y}}|caps=8|goals=0|club=[[Le Havre AC|Le Havre]]|clubnat=FRA}}
+{{nat fs break}}
+{{nat fs g player|no=2|pos=DF|name=[[Mamadou Sarr]]|age={{birth date and age|2005|8|29|df=y}}|caps=8|goals=0|club=[[Chelsea F.C.|Chelsea]]|clubnat=ENG}}
+{{nat fs g player|no=3|pos=DF|name=[[Kalidou Koulibaly]]|age={{birth date and age|1991|6|20|df=y}}|caps=106|goals=2|club=[[Al Hilal SFC|Al-Hilal]]|clubnat=KSA}}
+{{nat fs g player|no=4|pos=DF|name=[[Abdoulaye Seck (footballer, born 1992)|Abdoulaye Seck]]|age={{birth date and age|1992|6|4|df=y}}|caps=26|goals=4|club=[[Maccabi Haifa F.C.|Maccabi Haifa]]|clubnat=ISR}}
+{{nat fs g player|no=14|pos=DF|name=[[Ismail Jakobs]]|age={{birth date and age|1999|8|17|df=y}}|caps=34|goals=0|club=[[Galatasaray S.K. (football)|Galatasaray]]|clubnat=TUR}}
+{{nat fs g player|no=15|pos=DF|name=[[Krépin Diatta]]|age={{birth date and age|1999|2|25|df=y}}|caps=66|goals=2|club=[[Free agent|''Unattached'']]|clubnat=}}
+{{nat fs g player|no=19|pos=DF|name=[[Moussa Niakhaté]]|age={{birth date and age|1996|3|8|df=y}}|caps=36|goals=0|club=[[Olympique Lyonnais|Lyon]]|clubnat=FRA}}
+{{nat fs g player|no=24|pos=DF|name=[[Antoine Mendy (footballer)|Antoine Mendy]]|age={{birth date and age|2004|5|27|df=y}}|caps=7|goals=0|club=[[OGC Nice|Nice]]|clubnat=FRA}}
+{{nat fs g player|no=25|pos=DF|name=[[El Hadji Malick Diouf]]|age={{birth date and age|2004|12|28|df=y}}|caps=23|goals=1|club=[[West Ham United F.C.|West Ham United]]|clubnat=ENG}}
+{{nat fs break}}
+{{nat fs g player|no=5|pos=MF|name=[[Idrissa Gueye]]|age={{birth date and age|1989|9|26|df=y}}|caps=136|goals=7|club=[[Free agent|''Unattached'']]|clubnat=}}
+{{nat fs g player|no=6|pos=MF|name=[[Pathé Ciss]]|age={{birth date and age|1994|3|16|df=y}}|caps=34|goals=0|club=[[Rayo Vallecano]]|clubnat=ESP}}
+{{nat fs g player|no=8|pos=MF|name=[[Lamine Camara]]|age={{birth date and age|2004|1|1|df=y}}|caps=49|goals=7|club=[[AS Monaco FC|Monaco]]{{efn|name=mon|[[AS Monaco FC|Monaco]] is a Monégasque club playing in the [[French football league system]].}}|clubnat=FRA}}
+{{nat fs g player|no=17|pos=MF|name=[[Pape Matar Sarr]]|age={{birth date and age|2002|9|14|df=y}}|caps=42|goals=4|club=[[Tottenham Hotspur F.C.|Tottenham Hotspur]]|clubnat=ENG}}
+{{nat fs g player|no=21|pos=MF|name=[[Habib Diarra]]|age={{birth date and age|2004|1|3|df=y}}|caps=24|goals=6|club=[[Sunderland A.F.C|Sunderland]]|clubnat=ENG}}
+{{nat fs g player|no=22|pos=MF|name=[[Bara Sapoko Ndiaye]]|age={{birth date and age|2007|12|31|df=yes}}|caps=2|goals=0|club=Gambinos Stars|clubnat=SEN}}
+{{nat fs g player|no=26|pos=MF|name=[[Pape Gueye]]|age={{birth date and age|1999|1|24|df=y}}|caps=46|goals=7|club=[[Villarreal CF|Villarreal]]|clubnat=ESP}}
+{{nat fs break}}
+{{nat fs g player|no=7|pos=FW|name=[[Assane Diao]]|age={{birth date and age|2005|12|7|df=y}}|caps=6|goals=0|club=[[Como 1907|Como]]|clubnat=ITA}}
+{{nat fs g player|no=9|pos=FW|name=[[Bamba Dieng]]|age={{birth date and age|2000|03|23|df=yes}}|caps=24|goals=2|club=[[Lorient FC|Lorient]]|clubnat=FRA}}
+{{nat fs g player|no=10|pos=FW|name=[[Sadio Mané]]|age={{birth date and age|1992|4|10|df=y}}|caps=132|goals=55|club=[[Al Nassr FC|Al-Nassr]]|clubnat=KSA}}
+{{nat fs g player|no=11|pos=FW|name=[[Nicolas Jackson]]|age={{birth date and age|2001|6|20|df=y}}|caps=37|goals=8|club=[[Chelsea F.C.|Chelsea]]|clubnat=ENG}}
+{{nat fs g player|no=12|pos=FW|name=[[Cherif Ndiaye]]|age={{birth date and age|1996|1|23|df=y}}|caps=19|goals=4|club=[[Samsunspor]]|clubnat=TUR}}
+{{nat fs g player|no=13|pos=FW|name=[[Iliman Ndiaye]]|age={{birth date and age|2000|3|6|df=y}}|caps=44|goals=5|club=[[Everton F.C.|Everton]]|clubnat=ENG}}
+{{nat fs g player|no=18|pos=FW|name=[[Ismaïla Sarr]]|age={{birth date and age|1998|2|25|df=y}}|caps=88|goals=23|club=[[Crystal Palace F.C.|Crystal Palace]]|clubnat=ENG}}
+{{nat fs g player|no=20|pos=FW|name=[[Ibrahim Mbaye]]|age={{birth date and age|2008|1|24|df=y}}|caps=15|goals=4|club=[[Paris Saint-Germain F.C.|Paris Saint-Germain]]|clubnat=FRA}}
+{{nat fs end}}
+
+===Recent call-ups===
+The following players have also been called up for Senegal in the last twelve months.
+{{nat fs r start}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=DF|name=[[Ilay Camara]]|age={{birth date and age|2003|1|18|df=y}}|caps=3|goals=0|club=[[RSC Anderlecht|Anderlecht]]|clubnat=BEL|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=DF|name=[[Moustapha Mbow]]|age={{birth date and age|2000|3|8|df=y}}|caps=1|goals=0|club=[[Paris FC]]|clubnat=FRA|latest=[[2026 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=DF|name=[[Nobel Mendy]]|age={{birth date and age|2004|09|03|df=yes}}|caps=1|goals=0|club=[[Rayo Vallecano]]|clubnat=ESP|latest=v. {{fb|GAM}}, 31 March 2026}}
+{{nat fs r player|no=|pos=DF|name=[[Abdou Diallo]]|age={{birth date and age|1996|5|4|df=y}}|caps=33|goals=2|club=[[Umm Salal SC|Umm-Salal]]|clubnat=QAT|latest=v. {{fb|SUD}}, 5 September 2025 <sup>INJ</sup>}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=MF|name=[[Mamadou Camara (footballer, born 2003)|Mamadou Camara]]|age={{birth date and age|2003|1|5|df=y}}|caps=5|goals=1|club=[[Al Ahli SC (Tripoli)|Al-Ahli Tripoli]]|clubnat=LBY|latest=[[2025 Africa Cup of Nations]]}}
+{{nat fs r player|no=|pos=MF|name=[[Ousseynou Niang]]|age={{birth date and age|2001|10|12|df=y}}|caps=0|goals=0|club=[[Royale Union Saint-Gilloise|Union Saint-Gilloise]]|clubnat=BEL|latest=[[2025 Africa Cup of Nations]]}}
+{{nat fs r player|no=|pos=MF|name=[[Rassoul Ndiaye]]|age={{birth date and age|2001|12|11|df=y}}|caps=2|goals=0|club=[[Le Havre AC|Le Havre]]|clubnat=FRA|latest=v. {{fb|KEN}}, 18 November 2025}}
+{{nat fs r player|no=|pos=MF|name=[[Nampalys Mendy]]|age={{birth date and age|1992|6|23|df=y}}|caps=35|goals=0|club=[[Free agent|''Unattached'']]|clubnat=|latest=v. {{fb|MTN}}, 14 October 2025}}
+{{nat fs r player|no=|pos=MF|name=[[Cheikh Niasse]]|age={{birth date and age|2000|1|19|df=y}}|caps=0|goals=0|club=[[Hellas Verona FC|Hellas Verona]]|clubnat=ITA|latest=v. {{fb|MTN}}, 14 October 2025}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=FW|name=[[Habib Diallo]]|age={{birth date and age|1995|6|18|df=y}}|caps=40|goals=9|club=[[FC Metz|Metz]]|clubnat=FRA|latest=v. {{fb|GAM}}, 31 March 2026}}
+{{nat fs r player|no=|pos=FW|name=[[Boulaye Dia]]|age={{birth date and age|1996|11|16|df=y}}|caps=38|goals=7|club=[[SS Lazio|Lazio]]|clubnat=ITA|latest=v. {{fb|GAM}}, 31 March 2026}}
+{{nat fs r player|no=|pos=FW|name=[[Mamadou Diakhon]]|age={{birth date and age|2005|09|22|df=yes}}|caps=1|goals=0|club=[[Club Brugge KV|Club Brugge]]|clubnat=BEL|latest=v. {{fb|GAM}}, 31 March 2026}}
+{{nat fs r player|no=|pos=FW|name=[[Cheikh Sabaly]]|age={{birth date and age|1999|3|4|df=y}}|caps=12|goals=1|club=[[Vancouver Whitecaps FC|Vancouver Whitecaps]]|clubnat=CAN|latest=[[2025 Africa Cup of Nations]]}}
+{{nat fs r player|no=|pos=FW|name=[[Ousmane Sow (footballer)|Ousmane Sow]]|age={{birth date and age|2000|7|5|df=y}}|caps=0|goals=0|club=[[Brøndby IF|Brøndby]]|clubnat=DEN|latest=[[2025 Africa Cup of Nations]] <sup>PRE</sup>}}
+{{nat fs break}}
+<sup>DEC</sup> Player refused to join the team after the call-up.<br/>
+<sup>INJ</sup> Player withdrew from the squad due to an injury.<br/>
+<sup>PRE</sup> Preliminary squad.<br/>
+<sup>RET</sup> Player has retired from international football.<br/>
+<sup>SUS</sup> Suspended from the national team.<br/>
+{{nat fs end}}
+
+==Player records== 
+{{updated|1 July 2026}}<ref name="rsssf senegal players">{{cite web |url=https://www.rsssf.org/miscellaneous/sene-recintlp.html |title=Senegal&nbsp;– Record International Players |author=Mamrud, Roberto |access-date=17 November 2018 |archive-date=28 December 2017 |website=[[RSSSF]] |archive-url=https://web.archive.org/web/20171228110001/http://www.rsssf.com/miscellaneous/sene-recintlp.html#app |url-status=live }}</ref>
+:''Players in '''bold''' are still active with Senegal.''
+
+=== Most appearances ===
+
+[[File:Finales CAN 2021 (9).jpg|right|thumb|Idrissa Gueye is Senegal's most capped player with 136 appearances.]]
+
+{| class="wikitable sortable" style="text-align:center;"
+|-
+|-
+! width="30px" |Rank
+! style="width:150px;" |Player
+! width="50px" |Caps
+! width="50px" |Goals
+! style="width:100px;" |Career
+|-
+| 1  || align="left"  | '''[[Idrissa Gueye]]''' || 136<!--Not one more appearance, because one appearance against Rwanda in September 2023 is erroneously attributed to him on National-Football-Teams.com--> || 7 || 2011–present
+|-
+| 2 || align="left" | [[Sadio Mané]] || 132 || 55 || 2012–2026
+|-
+| 3 || align="left" | '''[[Kalidou Koulibaly]]''' || 106 || 2 || 2015–present
+|-
+| 4 || align="left" | [[Henri Camara]] || 99 || 29 || 1999–2008
+|-
+| 5 || align="left" | [[Cheikhou Kouyaté]] || 92 || 4 || 2012–2024
+|-
+| 6 || align="left" | '''[[Ismaïla Sarr]]''' || 88 || 23 || 2016–present
+|-
+| 7 || align="left" | [[Roger Mendy]] || 87 || 3 || 1979–1995
+|-
+| 8 || align="left" | [[Tony Sylva]] || 83 || 0 || 1999–2008
+|-
+| 9 || align="left" | [[Jules Bocandé]] || 73 || 20 || 1979–1993
+|-
+| 10 || align="left" | [[Lamine Diatta]] || 71 || 4 || 2000–2008
+|}
+
+=== Top goalscorers ===
+[[File:Finales CAN 2021 (13).jpg|right|thumb|Sadio Mané is Senegal's all-time top scorer with 55 goals.]]
+{| class="wikitable sortable" style="text-align:center;"
+|-
+|-
+! width="30px" |Rank
+! style="width:150px;" |Player
+! width="50px" |Goals
+! width="50px" |Caps
+! width="50px" |Ratio
+! style="width:100px;" |Career
+|-
+| 1 || align="left" | [[Sadio Mané]] <small>([[List of international goals scored by Sadio Mané|list]])</small>  || 55 || 132 || {{#expr:55/132 round 2}} || 2012–2026
+|-
+| 2 || align="left" | [[Henri Camara]] || 29 || 99 || {{#expr:29/99 round 2}} || 1999–2008
+|-
+| 3 || align="left" | [[El Hadji Diouf]]|| 24 || 70 || {{#expr:24/70 round 2}} || 2000–2008
+|-
+| 4 || align="left" | '''[[Ismaïla Sarr]]''' || 23 || 88 || {{#expr:23/88 round 2}} || 2016–present
+|-
+| rowspan="2" | 5 || align="left" | [[Mamadou Niang]] || 20 || 54 || {{#expr:20/54 round 2}} || 2002–2012
+|-
+| align="left" | [[Jules Bocandé]] || 20 || 73 || {{#expr:20/73 round 2}} || 1979–1993
+|-
+| 7 || align="left" | [[Moussa Sow]] || 18 || 50 || {{#expr:18/50 round 2}} || 2009–2018
+|-
+| 8 || align="left" | [[Papiss Cissé]] || 17 || 36 || {{#expr:17/36 round 2}} || 2009–2015
+|-
+| 9 || align="left" | [[Mamadou Diallo (footballer, born 1971)|Mamadou Diallo]] || 15 || 35 ||{{#expr:15/35 round 2}} || 1989–1999
+|-
+| 10 || align="left" | [[Moussa Konaté (footballer)|Moussa Konaté]] || 12 || 34 ||{{#expr:12/34 round 2}} || 2012–2019 
+|}
+
+==Competitive record==
+
+===FIFA World Cup===
+{{main|Senegal at the FIFA World Cup}}
+
+Senegal have appeared in the finals of the FIFA World Cup on four occasions, in [[2002 FIFA World Cup|2002]], where they reached the quarter-finals,<ref>{{cite web|url=https://news.bbc.co.uk/sport3/worldcup2002/hi/matches_wallchart/senegal_v_turkey/default.stm|title=Turkey's golden delight|date=22 June 2002|work=BBC Sport|access-date=7 March 2011|archive-date=11 May 2011|archive-url=https://web.archive.org/web/20110511134253/http://news.bbc.co.uk/sport3/worldcup2002/hi/matches_wallchart/senegal_v_turkey/default.stm|url-status=live}}</ref> [[2018 FIFA World Cup|2018]], [[2022 FIFA World Cup|2022]], and [[2026 FIFA World Cup|2026]].
+
+{| class="wikitable" style="font-size:90%; text-align:center; width:100%"
+|-
+! colspan="10" style="background:#00853F; color:#FDEF42; {{box-shadow border|a|#E31B23|2px}}" |FIFA World Cup record
+! rowspan="32" style="width:1%;background:white" |
+! colspan="6" style="background:#00853F; color:#FDEF42; {{box-shadow border|a|#E31B23|2px}}" |FIFA World Cup qualification record
+|-
+!width="15%" |Year
+!width="15%" |Round
+!width="5%" |Position
+!width="5%" |{{Tooltip|Pld|Matches played}}
+!width="5%" |{{Tooltip|W|Matches won}}
+!width="5%" |{{Tooltip|D|Matches drawn}}*
+!width="5%" |{{Tooltip|L|Matches lost}}
+!width="5%" |{{Tooltip|GF|Goals for}}
+!width="5%" |{{Tooltip|GA|Goals against}}
+!width="5%" |Squad
+!width="5%" |{{Tooltip|Pld|Matches played}}
+!width="5%" |{{Tooltip|W|Matches won}}
+!width="5%" |{{Tooltip|D|Matches drawn}}
+!width="5%" |{{Tooltip|L|Matches lost}}
+!width="5%" |{{Tooltip|GF|Goals for}}
+!width="5%" |{{Tooltip|GA|Goals against}}
+|-
+|{{flagicon|URU}} [[1930 FIFA World Cup|1930]]
+| colspan="9" rowspan="5" |''Part of {{fb|FRA}}''
+| colspan="6" rowspan="5" |''Part of {{fb|FRA}}''
+|-
+|{{flagicon|ITA|1861}} [[1934 FIFA World Cup|1934]]
+|-
+|{{flagicon|FRA|1794}} [[1938 FIFA World Cup|1938]]
+|-
+|{{flagicon|BRA|1889}} [[1950 FIFA World Cup|1950]]
+|-
+|{{flagicon|SUI}} [[1954 FIFA World Cup|1954]]
+|-
+| {{flagicon|Chile}} [[1962 FIFA World Cup|1962]]
+| colspan="9" |''Not a FIFA member''
+| colspan="6" |''Not a FIFA member''
+|-
+| {{flagicon|England}} [[1966 FIFA World Cup|1966]]
+| colspan="9" |''Withdrew''
+| colspan="6" |''Withdrew''
+|-
+| {{flagicon|Mexico}} [[1970 FIFA World Cup|1970]]
+| colspan="9" rowspan="5" |''Did not qualify''
+| 3	
+| 1
+| 0
+| 2	
+| 2	
+| 4
+|-
+| {{flagicon|West Germany}} [[1974 FIFA World Cup|1974]]
+| 2	
+| 0	
+| 1	
+| 1	
+| 1	
+| 2
+|-
+| {{flagicon|Argentina}} [[1978 FIFA World Cup|1978]]
+| 2	
+| 0	
+| 1	
+| 1	
+| 1	
+| 2
+|-
+| {{flagicon|Spain}} [[1982 FIFA World Cup|1982]]
+| 2	
+| 0	
+| 1	
+| 1	
+| 0	
+| 1
+|-
+|{{flagicon|Mexico}} [[1986 FIFA World Cup|1986]]
+| 2	
+| 1	
+| 0
+| 1	
+| 1	
+| 1
+|-
+| {{flagicon|Italy|1946}} [[1990 FIFA World Cup|1990]]
+| colspan="9" |''Did not enter''
+| colspan="6" |''Declined participation''
+|-
+| {{flagicon|United States}} [[1994 FIFA World Cup|1994]]
+| colspan="9" rowspan="2" |''Did not qualify''
+| 8	
+| 3	
+| 1	
+| 4	
+| 11	
+| 12
+|-
+|{{flagicon|France|1974}} [[1998 FIFA World Cup|1998]]
+| 2
+| 0	
+| 1	
+| 1	
+| 2
+| 3
+|-
+| {{flagicon|South Korea|1997}} {{flagicon|Japan}} [[2002 FIFA World Cup|2002]]
+| Quarter-finals
+| 7th
+| 5
+| 2
+| 2
+| 1
+| 7
+| 6
+|[[2002 FIFA World Cup squads#Senegal|Squad]]
+| 10
+| 5	
+| 4	
+| 1
+| 16
+| 3	
+|-
+| {{flagicon|Germany}} [[2006 FIFA World Cup|2006]]
+| colspan="9" rowspan="3" |''Did not qualify''
+| 10	
+| 6	
+| 3	
+| 1	
+| 21
+| 8
+|-
+|{{flagicon|South Africa}} [[2010 FIFA World Cup|2010]]
+| 6	
+| 2	
+| 3	
+| 1	
+| 9	
+| 7
+|-
+|{{flagicon|Brazil}} [[2014 FIFA World Cup|2014]]
+| 8	
+| 3	
+| 4	
+| 1	
+| 11	
+| 8
+|-
+|{{flagicon|Russia}} [[2018 FIFA World Cup|2018]]
+| Group stage
+| 17th
+| 3
+| 1
+| 1
+| 1
+| 4
+| 4
+|[[2018 FIFA World Cup squads#Senegal|Squad]]
+| 8
+| 5
+| 3	
+| 0	
+| 15
+| 5
+|-
+|{{flagicon|Qatar}} [[2022 FIFA World Cup|2022]]
+| Round of 16
+| 10th
+| 4
+| 2
+| 0
+| 2
+| 5
+| 7
+| [[2022 FIFA World Cup squads#Senegal|Squad]] 
+| 8
+| 6
+| 1
+| 1
+| 16
+| 5
+|- 
+|{{flagicon|Canada}} {{flagicon|Mexico}} {{flagicon|United States}} [[2026 FIFA World Cup|2026]]
+| Round of 32
+| 31st
+| 4
+| 1
+| 0
+| 3
+| 10
+| 9
+| [[2026 FIFA World Cup squads#Senegal|Squad]]
+| 10 
+| 7
+| 3
+| 0
+| 22
+| 3
+|-
+|{{flagicon|Morocco}} {{flagicon|Portugal}} {{flagicon|Spain}} [[2030 FIFA World Cup|2030]]
+| colspan="9" rowspan="2" | '' To be determined ''
+| colspan="6" rowspan="2" | '' To be determined '' 
+|-
+|{{flagicon|Saudi Arabia}} [[2034 FIFA World Cup|2034]]
+|-
+! style="background:#00853F; color:#FDEF42; {{box-shadow border|a|#E31B23|2px}}" |Total
+! style="background:#00853F; color:#FDEF42; {{box-shadow border|a|#E31B23|2px}}" |{{Tooltip|Quarter-finals|Highest finish}}
+! style="background:#00853F; color:#FDEF42; {{box-shadow border|a|#E31B23|2px}}" |{{Tooltip|4/15|Number of tournaments qualified for}}
+! style="background:#00853F; color:#FDEF42; {{box-shadow border|a|#E31B23|2px}}" |16
+! style="background:#00853F; color:#FDEF42; {{box-shadow border|a|#E31B23|2px}}" |6
+! style="background:#00853F; color:#FDEF42; {{box-shadow border|a|#E31B23|2px}}" |3
+! style="background:#00853F; color:#FDEF42; {{box-shadow border|a|#E31B23|2px}}" |7
+! style="background:#00853F; color:#FDEF42; {{box-shadow border|a|#E31B23|2px}}" |26
+! style="background:#00853F; color:#FDEF42; {{box-shadow border|a|#E31B23|2px}}" |26
+! style="background:#00853F; color:#FDEF42; {{box-shadow border|a|#E31B23|2px}}" |—
+! style="background:#00853F; color:#FDEF42; {{box-shadow border|a|#E31B23|2px}}" |81
+! style="background:#00853F; color:#FDEF42; {{box-shadow border|a|#E31B23|2px}}" |39
+! style="background:#00853F; color:#FDEF42; {{box-shadow border|a|#E31B23|2px}}" |26
+! style="background:#00853F; color:#FDEF42; {{box-shadow border|a|#E31B23|2px}}" |16
+! style="background:#00853F; color:#FDEF42; {{box-shadow border|a|#E31B23|2px}}" |128
+! style="background:#00853F; color:#FDEF42; {{box-shadow border|a|#E31B23|2px}}" |64
+|}
+
+===Africa Cup of Nations===
+{{main|Senegal at the Africa Cup of Nations}}
+
+Historically, Senegal was seen as a weaker side in the strong [[West Africa]]n region. Although they finished in fourth place in two AFCON editions,<ref>{{Cite web|url=https://athlet.org/football/can/1965/finals/second-round/1965-11-21-senegal-ivorycoast.html|title=AFCON 1965: Ivory Coast beats Senegal 1–0 to claim AFCON third place|website=athlet.org|access-date=13 February 2022|archive-date=13 February 2022|archive-url=https://web.archive.org/web/20220213115834/https://athlet.org/football/can/1965/finals/second-round/1965-11-21-senegal-ivorycoast.html|url-status=live}}</ref> Senegalese performance was overall still deemed as poor. Senegal remained under the shadow of West African giants [[Nigeria national football team|Nigeria]], [[Ivory Coast national football team|Ivory Coast]] and [[Ghana national football team|Ghana]] for the majority of the 20th century.
+
+In the 2000s, Senegal began to surge and became a more competitive opponent in the Africa Cup of Nations. Following the [[2002 Africa Cup of Nations]] tournament, where Senegal suffered a defeat to [[Cameroon national football team|Cameroon]] 2–3 on [[Penalty shoot-out (association football)|penalties]] after a goalless draw in the [[2002 Africa Cup of Nations Final|final]], they would establish themselves as a new powerhouse in Africa by having a successful [[FIFA World Cup]] debut in 2002, in which the side reached the quarter-finals.<ref>{{Cite web|url=https://www.theguardian.com/football/2002/feb/11/newsstory.sport3|title=Cameroon 0–0 Senegal (aet: Cameroon won 3–2 on penalties)|first=James|last=Copnall|date=11 February 2002|work=The Guardian|publisher=Guardian News & Media Limited|access-date=19 July 2019|archive-date=3 August 2023|archive-url=https://web.archive.org/web/20230803082519/https://www.theguardian.com/football/2002/feb/11/newsstory.sport3|url-status=live}}</ref> Senegal once again finished as runners-up in [[2019 Africa Cup of Nations|2019]], losing the [[2019 Africa Cup of Nations Final|final]] 0–1 to [[Algeria national football team|Algeria]],<ref>{{cite web|url=https://www.theguardian.com/football/2019/jul/19/senegal-algeria-africa-cup-of-nations-final-match-report|title=Algeria claim second Afcon title after Bounedjah's lucky strike sinks Senegal|work=The Guardian|publisher=Guardian News & Media Limited|date=19 July 2019|access-date=19 July 2019|archive-date=20 July 2019|archive-url=https://web.archive.org/web/20190720130642/https://www.theguardian.com/football/2019/jul/19/senegal-algeria-africa-cup-of-nations-final-match-report|url-status=live}}</ref> and finally won their first AFCON title in [[2021 Africa Cup of Nations|2021]].
+
+{| class="wikitable" style="font-size:90%; text-align:center; width:100%"
+|-
+! style="background:#00853F; color:#FDEF42; {{box-shadow border|a|#E31B23|2px}}" colspan=10|Africa Cup of Nations record
+! rowspan="40" style="width:1%;background:white" |
+! style="background:#00853F;color:#FDEF42; {{box-shadow border|a|#E31B23|2px}}" colspan=10|Africa Cup of Nations qualification record
+|-
+!width="15%" |Year
+!width="15%" |Round
+!width="5%" |Position
+!width="5%" |{{Tooltip|Pld|Matches played}}
+!width="5%" |{{Tooltip|W|Matches won}}
+!width="5%" |{{Tooltip|D|Matches drawn}}*
+!width="5%" |{{Tooltip|L|Matches lost}}
+!width="5%" |{{Tooltip|GF|Goals for}}
+!width="5%" |{{Tooltip|GA|Goals against}}
+!width="5%" |Squad
+!width="5%" |{{Tooltip|Pld|Matches played}}
+!width="5%" |{{Tooltip|W|Matches won}}
+!width="5%" |{{Tooltip|D|Matches drawn}}
+!width="5%" |{{Tooltip|L|Matches lost}}
+!width="5%" |{{Tooltip|GF|Goals for}}
+!width="5%" |{{Tooltip|GA|Goals against}} 
+|-
+|{{flagicon|Sudan|1956}} [[1957 African Nations Cup|1957]]
+| colspan=9 rowspan=2|''Part of {{fb|France}}'' 
+| colspan="6" rowspan="2" |''Part of {{fb|France}}''
+|-
+|{{flagicon|United Arab Republic}} [[1959 African Nations Cup|1959]]
+|-
+|{{flagicon|Ethiopia|1897}} [[1962 African Nations Cup|1962]]
+| colspan="9" rowspan="2" |''Not affiliated to CAF''
+| colspan="6" rowspan="2" |''Not affiliated to CAF''
+|-
+|{{flagicon|Ghana}} [[1963 African Nations Cup|1963]]
+|-style="background:#9acdff;"
+|{{flagicon|Tunisia|1959}} [[1965 African Nations Cup|1965]]
+||Fourth place 
+||4th
+||3
+||1
+||1
+||1
+||5
+||2
+||[[1965 African Cup of Nations squads#Senegal|Squad]]
+||4
+||3
+||0
+||1
+||8
+||4
+|-
+|{{flagicon|Ethiopia|1897}} [[1968 African Nations Cup|1968]]
+||Group stage
+||5th
+||3
+||1
+||1
+||1
+||5
+||5
+||[[1968 African Cup of Nations squads#Senegal|Squad]]
+||4
+||2
+||1
+||1
+||9
+||4
+|-
+|{{flagicon|Sudan|1956}} [[1970 African Nations Cup|1970]]
+| colspan=9 rowspan=5|''Did not qualify''
+||2
+||0
+||1
+||1
+||5
+||4
+|-
+|{{flagicon|Cameroon|1961}} [[1972 African Nations Cup|1972]] 
+||2
+||0
+||1
+||1
+||1
+||0
+|-
+|{{flagicon|Egypt|1972}} [[1974 African Nations Cup|1974]] 
+||2
+||0
+||1
+||1
+||3
+||3
+|-
+|{{flagicon|Ethiopia|1975}} [[1976 African Nations Cup|1976]]
+||2
+||0
+||1
+||1
+||5
+||2
+|-
+|{{flagicon|Ghana}} [[1978 African Nations Cup|1978]]
+||4
+||2
+||0
+||2
+||6
+||4
+|-
+|{{flagicon|Nigeria}} [[1980 African Nations Cup|1980]]
+|colspan=9|''Did not enter''
+| colspan="6" |''Did not enter''
+|-
+|{{flagicon|Libya|1977}} [[1982 African Nations Cup|1982]]|| colspan="9" rowspan="2" |''Did not qualify''
+||4
+||1
+||0
+||2
+||4
+||2
+|-
+|{{flagicon|Ivory Coast}} [[1984 African Nations Cup|1984]]
+||4
+||2
+||1
+||0
+||3
+||2
+|-
+|{{flagicon|Egypt}} [[1986 African Nations Cup|1986]]||Group stage||5th||3||2||0||1||3||1||[[1986 African Cup of Nations squads#Senegal|Squad]]
+||4
+||4
+||0
+||0
+||5
+||2
+|-
+|{{flagicon|Morocco}} [[1988 African Nations Cup|1988]]||colspan=9|''Did not qualify''
+||4
+||1
+||3
+||0
+||4
+||0
+|-style="background:#9acdff;"
+|{{flagicon|Algeria}} [[1990 African Nations Cup|1990]]
+||Fourth place 
+||4th
+||5
+||1
+||2
+||2
+||3
+||3||[[1990 African Cup of Nations squads#Senegal|Squad]]
+||2
+||1
+||1
+||0
+||4
+||1
+|-
+|style="border: 3px solid red "|{{flagicon|Senegal}} [[1992 African Nations Cup|1992]]||rowspan=2|Quarter-finals||5th||3||1||0||2||4||3||[[1992 African Cup of Nations squads#Senegal|Squad]]
+| colspan="6" |''Qualified as hosts''
+|-
+|{{flagicon|Tunisia|1959}} [[1994 African Nations Cup|1994]]||8th||3||1||0||2||2||3||[[1994 African Cup of Nations squads#Senegal|Squad]]
+||6
+||2
+||1
+||3
+||8
+||9
+|-
+|{{flagicon|South Africa}} [[1996 African Nations Cup|1996]]|| colspan="9" rowspan="2" |''Did not qualify''
+||8
+||3
+||3
+||2
+||10
+||8
+|-
+|{{flagicon|Burkina Faso}} [[1998 African Nations Cup|1998]]
+||6
+||2
+||2
+||2
+||5
+||6
+|-
+|{{flagicon|Ghana}} {{flagicon|Nigeria}} [[2000 African Cup of Nations|2000]]||Quarter-finals||7th||4||1||1||2||6||6||[[2000 African Cup of Nations squads#Senegal|Squad]]
+||4
+||1
+||2
+||1
+||4
+||4
+|- bgcolor="silver"
+|{{flagicon|Mali}} [[2002 African Nations Cup|2002]]||[[2002 Africa Cup of Nations final|Runners-up]]||2nd||6||4||2||0||6||1||[[2002 African Cup of Nations squads#Senegal|Squad]]
+||4
+||1
+||2
+||1
+||4
+||2
+|-
+|{{flagicon|Tunisia}} [[2004 African Nations Cup|2004]]||Quarter-finals||6th||4||1||2||1||4||2||[[2004 African Cup of Nations squads#Senegal|Squad]]
+||6
+||3
+||0
+||1
+||7
+||1
+|-style="background:#9acdff;"
+|{{flagicon|Egypt}} [[2006 African Nations Cup|2006]]||Fourth place||4th||6||2||0||4||7||8||[[2006 Africa Cup of Nations squads#Senegal|Squad]]
+||10
+||6
+||3
+||1
+||21
+||8
+|-
+|{{flagicon|Ghana}} [[2008 African Cup of Nations|2008]]||Group stage||12th||3||0||2||1||4||6||[[2008 Africa Cup of Nations squads#Senegal|Squad]]
+||6
+||3
+||2
+||1
+||12
+||3
+|-
+|{{flagicon|Angola}} [[2010 African Cup of Nations|2010]]||colspan=9|''Did not qualify''
+||6
+||2
+||3
+||1
+||9
+||7
+|-
+|{{flagicon|Gabon}} {{flagicon|Equatorial Guinea}} [[2012 African Cup of Nations|2012]]||Group stage||13th||3||0||0||3||3||6||[[2012 Africa Cup of Nations squads#Senegal|Squad]]
+||6
+||5
+||1
+||0
+||16
+||2
+|-
+|{{flagicon|South Africa}} [[2013 African Cup of Nations|2013]]||colspan=9|''Did not qualify''
+||2
+||0
+||0
+||2
+||2
+||6
+|-
+|{{flagicon|Equatorial Guinea}} [[2015 Africa Cup of Nations|2015]]||Group stage||9th||3||1||1||1||3||4||[[2015 Africa Cup of Nations squads#Senegal|Squad]]||6||4||1||1||8||1
+|-
+|{{flagicon|Gabon}} [[2017 Africa Cup of Nations|2017]]||Quarter-finals||5th||4||2||2||0||6||2||[[2017 Africa Cup of Nations squads#Senegal|Squad]]||6||6||0||0||13||2
+|- bgcolor="silver"
+|{{flagicon|Egypt}} [[2019 Africa Cup of Nations|2019]]
+||[[2019 Africa Cup of Nations final|Runners-up]]||2nd||7||5||0||2||8||2||[[2019 Africa Cup of Nations squads#Senegal|Squad]]
+|6
+|5
+|1
+|0
+|12
+|2
+|- bgcolor="gold"
+|{{flagicon|Cameroon}} [[2021 Africa Cup of Nations|2021]]
+|'''[[2021 Africa Cup of Nations final|Champions]]'''
+|1st 
+|7
+|4
+|3
+|0
+|9
+|2
+|[[2021 Africa Cup of Nations squads#Senegal|Squad]]
+|6
+|4
+|2
+|0
+|10
+|2
+|-
+|{{flagicon|Ivory Coast}} [[2023 Africa Cup of Nations|2023]]||Round of 16||9th||4||3||1||0||9||2||[[2023 Africa Cup of Nations squads|Squad]]||6||4||2||0||12||4
+|-
+|- bgcolor="silver"
+|{{flagicon|Morocco}} [[2025 Africa Cup of Nations|2025]]
+||[[2025 Africa Cup of Nations final|Runners-up]]
+|2nd
+|7
+|5
+|1
+|1
+|12
+|5
+| [[2025 Africa Cup of Nations squads|Squad]] 
+||6||5||1||0||10||1
+|-
+|{{flagicon|Kenya}} {{flagicon|Tanzania}} {{flagicon|Uganda}} [[2027 Africa Cup of Nations|2027]]
+|colspan="9" rowspan="2"|'' To be determined '' 
+|colspan="9" rowspan="2"|'' To be determined '' 
+|-
+|{{flagicon|}} [[2028 Africa Cup of Nations|2028]]
+|-
+! style="background:#00853F; color:#FDEF42; {{box-shadow border|a|#E31B23|2px}}"|Total
+! style="background:#00853F; color:#FDEF42; {{box-shadow border|a|#E31B23|2px}}" |1 Title
+! style="background:#00853F; color:#FDEF42; {{box-shadow border|a|#E31B23|2px}}" |18/35
+! style="background:#00853F; color:#FDEF42; {{box-shadow border|a|#E31B23|2px}}" |78
+! style="background:#00853F; color:#FDEF42; {{box-shadow border|a|#E31B23|2px}}" |36
+! style="background:#00853F; color:#FDEF42; {{box-shadow border|a|#E31B23|2px}}" |19
+! style="background:#00853F; color:#FDEF42; {{box-shadow border|a|#E31B23|2px}}" |23
+! style="background:#00853F; color:#FDEF42; {{box-shadow border|a|#E31B23|2px}}" |100
+! style="background:#00853F; color:#FDEF42; {{box-shadow border|a|#E31B23|2px}}" |60
+| style="background:#00853F; color:#FDEF42; {{box-shadow border|a|#E31B23|2px}}"|—
+! style="background:#00853F;color: #FDEF42; {{box-shadow border|a|#E31B23|2px}}"|150
+! style="background:#00853F;color: #FDEF42; {{box-shadow border|a|#E31B23|2px}}|72
+! style="background:#00853F;color: #FDEF42; {{box-shadow border|a|#E31B23|2px}}"|32
+! style="background:#00853F;color: #FDEF42; {{box-shadow border|a|#E31B23|2px}}"|26
+! style="background:#00853F;color: #FDEF42; {{box-shadow border|a|#E31B23|2px}}"|220
+! style="background:#00853F;color: #FDEF42; {{box-shadow border|a|#E31B23|2px}}"|97
+|}
+
+===African Nations Championship===
+{| class="wikitable" style="font-size:90%; text-align:center;" width="60%"
+|-
+! colspan="10" style="background:#00853F; color:#FDEF42; {{box-shadow border|a|#E31B23|2px}}" |African Nations Championship record
+|-
+!width="15%" |Year
+!width="15%" |Round
+!width="5%" |Position
+!width="5%" |{{Tooltip|Pld|Matches played}}
+!width="5%" |{{Tooltip|W|Matches won}}
+!width="5%" |{{Tooltip|D|Matches drawn}}*
+!width="5%" |{{Tooltip|L|Matches lost}}
+!width="5%" |{{Tooltip|GF|Goals for}}
+!width="5%" |{{Tooltip|GA|Goals against}}
+!width="5%" |Squad
+|- bgcolor="#9acdff"
+|{{flagicon|Ivory Coast}} [[2009 African Nations Championship|2009]]||Fourth place||4th ||5||1||3||1||3||3
+|[[2009 African Nations Championship squads|Squad]]
+|-
+|{{flagicon|Sudan}} [[2011 African Nations Championship|2011]]||Group stage||10th||3||1||1||1||2||2
+|[[2011 African Nations Championship squads|Squad]]
+|-
+|{{flagicon|South Africa}} [[2014 African Nations Championship|2014]]|| colspan="9" rowspan="4" |''Did not qualify''
+|-
+|{{flagicon|Rwanda}} [[2016 African Nations Championship|2016]]
+|-
+|{{flagicon|Morocco}} [[2018 African Nations Championship|2018]]
+|-
+|{{flagicon|Cameroon}} [[2020 African Nations Championship|2020]]
+|- bgcolor="gold"
+|{{flagicon|Algeria}} [[2022 African Nations Championship|2022]]
+|'''[[2022 African Nations Championship final|Champions]]'''
+|1st
+|6
+|4
+|1
+|1
+|6
+|1
+|[[2022 African Nations Championship squads|Squad]]
+|-
+|{{flagicon|KEN}} {{flagicon|TAN}} {{flagicon|UGA}} [[2024 African Nations Championship|2024]]
+|Third place
+|3rd
+|6
+|2
+|4
+|0
+|5
+|3
+|
+|-
+! style="background:#00853F; color:#FDEF42; {{box-shadow border|a|#E31B23|2px}}"|Total
+! style="background:#00853F; color:#FDEF42; {{box-shadow border|a|#E31B23|2px}}"|Champions
+! style="background:#00853F; color:#FDEF42; {{box-shadow border|a|#E31B23|2px}}"|3/7
+! style="background:#00853F; color:#FDEF42; {{box-shadow border|a|#E31B23|2px}}"|14
+! style="background:#00853F; color:#FDEF42; {{box-shadow border|a|#E31B23|2px}}"|6
+! style="background:#00853F; color:#FDEF42; {{box-shadow border|a|#E31B23|2px}}"|5
+! style="background:#00853F; color:#FDEF42; {{box-shadow border|a|#E31B23|2px}}"|3
+! style="background:#00853F; color:#FDEF42; {{box-shadow border|a|#E31B23|2px}}"|11
+! style="background:#00853F; color:#FDEF42; {{box-shadow border|a|#E31B23|2px}}"|6
+| style="background:#00853F; color:#FDEF42; {{box-shadow border|a|#E31B23|2px}}"|—
+|}
+
+=== Amílcar Cabral Cup ===
+{| class="wikitable" style="font-size:90%; text-align:center;" width="60%"
+|-
+! colspan="9" style="background:#00853F; color:#FDEF42; {{box-shadow border|a|#E31B23|2px}}" |Amílcar Cabral Cup record
+|-
+!width="15%" |Year
+!width="15%" |Round
+!width="5%" |Position
+!width="5%" |{{Tooltip|Pld|Matches played}}
+!width="5%" |{{Tooltip|W|Matches won}}
+!width="5%" |{{Tooltip|D|Matches drawn}}*
+!width="5%" |{{Tooltip|L|Matches lost}}
+!width="5%" |{{Tooltip|GF|Goals for}}
+!width="5%" |{{Tooltip|GA|Goals against}}
+|- bgcolor="gold"
+|{{flagicon|GNB}} [[1979 Amílcar Cabral Cup|1979]]
+|'''Champions''' 
+|1st
+|4
+|4
+|0
+|0
+|7
+|1
+|- bgcolor="gold"
+|{{flagicon|GAM}} [[1980 Amílcar Cabral Cup|1980]]
+|'''Champions'''
+|1st
+|4
+|3
+|0
+|1
+|5
+|3
+|- style="background:#cc9966;" 
+|{{flagicon|MLI}} [[1981 Amílcar Cabral Cup|1981]]
+|Third place
+|3rd
+|4
+|3
+|0
+|1
+|7
+|2
+|- bgcolor="silver"
+|{{flagicon|CPV|1975}} [[1982 Amílcar Cabral Cup|1982]]
+|Runners-up
+|2nd
+|5
+|3
+|1
+|1
+|5
+|1
+|- bgcolor="gold"
+|{{flagicon|MTN|1959}} [[1983 Amílcar Cabral Cup|1983]]
+|'''Champions'''
+|1st
+|5
+|3
+|2
+|0
+|9
+|4
+|- bgcolor="gold"
+|{{flagicon|SLE}} [[1984 Amílcar Cabral Cup|1984]]
+|'''Champions'''
+|1st
+|5
+|3
+|1
+|1
+|10
+|3
+|- bgcolor="gold"
+|{{flagicon|GAM}} [[1985 Amílcar Cabral Cup|1985]] 
+|'''Champions'''
+|1st
+|5
+|4
+|1
+|0
+|8
+|2
+|- bgcolor="gold"
+|style="border: 3px solid red "|{{flagicon|SEN}} [[1986 Amílcar Cabral Cup|1986]] 
+|'''Champions'''
+|1st
+|4
+|4
+|0
+|0
+|7
+|2
+|- style="background:#cc9966;" 
+|{{flagicon|GUI}} [[1987 Amílcar Cabral Cup|1987]]
+|Third place
+|3rd
+|4
+|1
+|1
+|2
+|2
+|2
+|- style="background:#cc9966;" 
+|{{flagicon|GNB}} [[1988 Amílcar Cabral Cup|1988]]
+|Third place
+|3rd
+|5
+|2
+|3
+|0
+|10
+|5
+|-
+|{{flagicon|MLI}} [[1989 Amílcar Cabral Cup|1989]]||Group stage
+|6th
+|3
+|0
+|2
+|1
+|3
+|4
+|- bgcolor="gold"
+|style="border: 3px solid red "|{{flagicon|SEN}} [[1991 Amílcar Cabral Cup|1991]]
+|'''Champions'''
+|1st
+|4
+|3
+|1
+|0
+|7
+|0
+|- bgcolor="silver"
+|{{flagicon|SLE}} [[1993 Amílcar Cabral Cup|1993]]
+|Runners-up
+|2nd
+|5
+|2
+|1
+|2
+|6
+|3
+|-
+|{{flagicon|MTN|1959}} [[1995 Amílcar Cabral Cup|1995]]
+|Group stage
+|5th
+|3
+|1
+|1
+|1
+|5
+|3
+|- bgcolor="silver"
+|{{flagicon|GAM}} [[1997 Amílcar Cabral Cup|1997]]
+|Runners-up
+|2nd
+|5
+|2
+|2
+|1
+|5
+|3
+|- bgcolor="silver"
+|{{flagicon|CPV}} [[2000 Amílcar Cabral Cup|2000]]
+|Runners-up
+|2nd
+|5
+|1
+|3
+|1
+|8
+|6
+|- bgcolor="gold"
+|{{flagicon|MLI}} [[2001 Amílcar Cabral Cup|2001]]
+|'''Champions'''
+|1st
+|4
+|3
+|1
+|0
+|11
+|3
+|- bgcolor="silver"
+|{{flagicon|GUI}} [[2005 Amílcar Cabral Cup|2005]]
+|Runners-up
+|2nd
+|4
+|1
+|2
+|1
+|3
+|3
+|- style="background:#cc9966;" 
+|{{flagicon|GNB}} [[2007 Amílcar Cabral Cup|2007]]
+|Third place
+|3rd
+|4
+|2
+|1
+|1
+|5
+|4
+|-
+! style="background:#00853F; color:#FDEF42; {{box-shadow border|a|#E31B23|2px}}" |Total
+! style="background:#00853F; color:#FDEF42; {{box-shadow border|a|#E31B23|2px}}" |8 Titles
+! style="background:#00853F; color:#FDEF42; {{box-shadow border|a|#E31B23|2px}}" |19/19
+! style="background:#00853F; color:#FDEF42; {{box-shadow border|a|#E31B23|2px}}" |82
+! style="background:#00853F; color:#FDEF42; {{box-shadow border|a|#E31B23|2px}}" |45
+! style="background:#00853F; color:#FDEF42; {{box-shadow border|a|#E31B23|2px}}" |25
+! style="background:#00853F; color:#FDEF42; {{box-shadow border|a|#E31B23|2px}}" |14
+! style="background:#00853F; color:#FDEF42; {{box-shadow border|a|#E31B23|2px}}" |123
+! style="background:#00853F; color:#FDEF42; {{box-shadow border|a|#E31B23|2px}}" |54
+|}
+
+=== WAFU Nations Cup ===
+{| class="wikitable" style="font-size:90%; text-align:center;" width="60%"
+|-
+! colspan="9" style="background:#00853F; color:#FDEF42; {{box-shadow border|a|#E31B23|2px}}" |WAFU Nations Cup record
+|-
+!width="15%" |Year
+!width="15%" |Round
+!width="5%" |Position
+!width="5%" |{{Tooltip|Pld|Matches played}}
+!width="5%" |{{Tooltip|W|Matches won}}
+!width="5%" |{{Tooltip|D|Matches drawn}}*
+!width="5%" |{{Tooltip|L|Matches lost}}
+!width="5%" |{{Tooltip|GF|Goals for}}
+!width="5%" |{{Tooltip|GA|Goals against}}
+|- bgcolor="silver"
+|{{flagicon|NGR}} [[2010 WAFU Nations Cup|2010]]||Runners-up||2nd||5||2||1||2||4||4
+|-
+|{{flagicon|NGR}} [[2011 WAFU Nations Cup|2011]]|| colspan="8" |''Withdrew''
+|- bgcolor="silver"
+|{{flagicon|GHA}} [[2013 WAFU Nations Cup|2013]]
+|Runners-up
+|2nd
+|4
+|3
+|0
+|1
+|8
+|4
+|-
+|{{flagicon|GHA}} [[2017 WAFU Cup of Nations|2017]]
+|Group stage
+|5th
+|4
+|1
+|2
+|1
+|5
+|2
+|- bgcolor="gold"
+|style="border: 3px solid red "|{{flagicon|SEN}} [[2019 WAFU Cup of Nations|2019]]
+|'''Champions'''
+|1st
+|4
+|3
+|1
+|0
+|7
+|2
+|-
+|{{flagicon|NGR}} [[WAFU Nations Cup|2021]]
+| colspan="8" |''To be determined''
+|-
+! style="background:#00853F; color:#FDEF42; {{box-shadow border|a|#E31B23|2px}}" |'''Total'''
+! style="background:#00853F; color:#FDEF42; {{box-shadow border|a|#E31B23|2px}}" |'''1 Title'''
+! style="background:#00853F; color:#FDEF42; {{box-shadow border|a|#E31B23|2px}}" |4/5
+! style="background:#00853F; color:#FDEF42; {{box-shadow border|a|#E31B23|2px}}" |17
+! style="background:#00853F; color:#FDEF42; {{box-shadow border|a|#E31B23|2px}}" |9
+! style="background:#00853F; color:#FDEF42; {{box-shadow border|a|#E31B23|2px}}" |4
+! style="background:#00853F; color:#FDEF42; {{box-shadow border|a|#E31B23|2px}}" |4
+! style="background:#00853F; color:#FDEF42; {{box-shadow border|a|#E31B23|2px}}" |24
+! style="background:#00853F; color:#FDEF42; {{box-shadow border|a|#E31B23|2px}}" |12
+|}
+
+=== Other records ===
+{| class="wikitable" style="font-size:90%; text-align:center;" width="60%"
+|-
+! style="background:#00853F; color:#FDEF42; {{box-shadow border|a|#E31B23|2px}}" |Year
+! style="background:#00853F; color:#FDEF42; {{box-shadow border|a|#E31B23|2px}}" |Round
+! style="background:#00853F; color:#FDEF42; {{box-shadow border|a|#E31B23|2px}}" |Position
+! style="background:#00853F; color:#FDEF42; {{box-shadow border|a|#E31B23|2px}}" |{{Tooltip|Pld|Games played}}
+! style="background:#00853F; color:#FDEF42; {{box-shadow border|a|#E31B23|2px}}" |{{Tooltip|W|Won}}
+! style="background:#00853F; color:#FDEF42; {{box-shadow border|a|#E31B23|2px}}" |{{Tooltip|D|Drawn}}*
+! style="background:#00853F; color:#FDEF42; {{box-shadow border|a|#E31B23|2px}}" |{{Tooltip|L|Lost}}
+! style="background:#00853F; color:#FDEF42; {{box-shadow border|a|#E31B23|2px}}" |{{Tooltip|GF|Goals for}}
+! style="background:#00853F; color:#FDEF42; {{box-shadow border|a|#E31B23|2px}}" |{{Tooltip|GA|Goals against}}
+|- bgcolor="gold"
+| style="border: 3px solid red " |{{flagicon|SEN}} [[Friendship Games|1963 Friendship Games]]
+|'''Champions'''
+|1st
+|4
+|3
+|1
+|0
+|12
+|3
+|- bgcolor="silver"
+|{{flagicon|Niger}} [[Football at the 2005 Jeux de la Francophonie|Jeux de la Francophonie 2005]]
+|Runners-up
+|2nd
+|6
+|5
+|0
+|1
+|11
+|3
+|- bgcolor="gold"
+|{{flagicon|Republic of the Congo}} [[Football at the 2015 African Games – Men's tournament|2015 African Games]]
+|'''Champions'''
+|1st
+|4
+|2
+|2
+|0
+|5
+|2
+|- bgcolor="silver"
+|{{flagicon|RSA}} [[2021 COSAFA Cup]]
+|Runners-up
+|2nd
+|6
+|3
+|2
+|1
+|8
+|6
+|- style="background:#cc9966;" 
+|{{flagicon|RSA}} [[2022 COSAFA Cup]]
+|Third place
+|3rd
+|3
+|1
+|2
+|0
+|6
+|5
+|-
+! style="background:#00853F; color:#FDEF42; {{box-shadow border|a|#E31B23|2px}}" |'''Total'''
+! style="background:#00853F; color:#FDEF42; {{box-shadow border|a|#E31B23|2px}}" |'''2 Titles'''
+! style="background:#00853F; color:#FDEF42; {{box-shadow border|a|#E31B23|2px}}" |1st
+! style="background:#00853F; color:#FDEF42; {{box-shadow border|a|#E31B23|2px}}" |23
+! style="background:#00853F; color:#FDEF42; {{box-shadow border|a|#E31B23|2px}}" |14
+! style="background:#00853F; color:#FDEF42; {{box-shadow border|a|#E31B23|2px}}" |7
+! style="background:#00853F; color:#FDEF42; {{box-shadow border|a|#E31B23|2px}}" |2
+! style="background:#00853F; color:#FDEF42; {{box-shadow border|a|#E31B23|2px}}" |42
+! style="background:#00853F; color:#FDEF42; {{box-shadow border|a|#E31B23|2px}}" |19
+|}
+
+==Head-to-head record==
+The list shown below shows the Senegal national football team '''all−time international record against opposing nations'''.
+
+''As of 1 July 2026 after match against [[Belgium national football team|Belgium]].''
+;Key
+{{legend|#bbf3bb|Positive balance (more wins than losses)|border=1px solid #AAA}}
+{{legend|#ffffbb|Neutral balance (as many wins as losses)|border=1px solid #AAA}}
+{{legend|#ffbbbb|Negative balance (more losses than wins)|border=1px solid #AAA}}
+
+{| class="wikitable sortable collapsible collapsed" style="text-align: center; font-size: 100%;" width="100%"
+! width=10%| Against
+! width=5%| {{Tooltip|Pld|Games played}}
+! width=5%| {{Tooltip|W|Wins}}
+! width=5%| {{Tooltip|D|Draws}}
+! width=5%| {{Tooltip|L|Losses}}
+! width=5%| {{Tooltip|GF|Goals for}}
+! width=5%| {{Tooltip|GA|Goals against}}
+! width=5%| {{Tooltip|GD|Goal difference}}
+! width=8%| Winning %
+! width=8%| Confederation
+|-bgcolor=FFCCCC
+|align=left|{{fb|ALG}}
+{{WDL|24|4|6|14|for=18|against=33|diff=yes}}
+|[[Confederation of African Football|CAF]]
+|-bgcolor=FFFFCC
+|align=left|{{fb|ANG}}
+{{WDL|7|2|3|2|for=7|against=7|diff=yes}}
+|[[Confederation of African Football|CAF]]
+|-bgcolor=FFCCCC
+|align=left|{{fb|BEL}}
+{{WDL|1|0|0|1|for=2|against=3|diff=yes}}
+|[[UEFA]]
+|-bgcolor=CCFFCC
+|align=left|{{fb|BEN}}
+{{WDL|10|8|1|1|for=18|against=8|diff=yes}}
+|[[Confederation of African Football|CAF]]
+|-bgcolor=CCFFCC
+|align=left|{{fb|BOL}}
+{{WDL|2|2|0|0|for=4|against=1|diff=yes}}
+|[[CONMEBOL]]
+|-bgcolor=FFFFCC
+|align=left|{{fb|BIH}}
+{{WDL|1|0|1|0|for=0|against=0|diff=yes}}
+|[[UEFA]]
+|-bgcolor=CCFFCC
+|align=left|{{fb|BOT}}
+{{WDL|3|3|0|0|for=8|against=0|diff=yes}}
+|[[Confederation of African Football|CAF]]
+|-bgcolor=FFFFCC
+|align=left|{{fb|BRA}}
+{{WDL|3|1|1|1|for=5|against=5|diff=yes}}
+|[[CONMEBOL]]
+|-bgcolor=CCFFCC
+|align=left|{{fb|BFA}}
+{{WDL|15|5|8|2|for=23|against=16|diff=yes}}
+|[[Confederation of African Football|CAF]]
+|-bgcolor=CCFFCC
+|align=left|{{fb|BDI}}
+{{WDL|6|5|0|1|for=9|against=2|diff=yes}}
+|[[Confederation of African Football|CAF]]
+|-bgcolor=CCFFCC
+|align=left|{{fb|CMR}}
+{{WDL|15|7|3|5|for=15|against=10|diff=yes}}
+|[[Confederation of African Football|CAF]]
+|-bgcolor=CCFFCC
+|align=left|{{fb|CPV}}
+{{WDL|19|15|2|2|for=29|against=7|diff=yes}}
+|[[Confederation of African Football|CAF]]
+|-bgcolor=CCFFCC
+|align=left|{{fb|CAR}}
+{{WDL|1|1|0|0|for=3|against=0|diff=yes}}
+|[[Confederation of African Football|CAF]]
+|-bgcolor=FFCCCC
+|align=left|{{fb|CHI}}
+{{WDL|1|0|0|1|for=1|against=2|diff=yes}}
+|[[CONMEBOL]]
+|-bgcolor=CCFFCC
+|align=left|{{fb|TPE}}
+{{WDL|1|1|0|0|for=6|against=0|diff=yes}}
+|[[Asian Football Confederation|AFC]]
+|-bgcolor=FFCCCC
+|align=left|{{fb|COL}}
+{{WDL|2|0|1|1|for=2|against=3|diff=yes}}
+|[[CONMEBOL]]
+|-bgcolor=CCFFCC
+|align=left|{{fb|CGO}}
+{{WDL|12|6|4|2|for=14|against=6|diff=yes}}
+|[[Confederation of African Football|CAF]]
+|-bgcolor=FFCCCC
+|align=left|{{fb|CRO}}
+{{WDL|1|0|0|1|for=1|against=2|diff=yes}}
+|[[UEFA]]
+|-bgcolor=FFCCCC
+|align=left|{{fb|DEN}}
+{{WDL|3|0|1|2|for=3|against=6|diff=yes}}
+|[[UEFA]]
+|-bgcolor=CCFFCC
+|align=left|{{fb|COD}}
+{{WDL|10|5|3|2|for=16|against=13|diff=yes}}
+|[[Confederation of African Football|CAF]]
+|-bgcolor=CCFFCC
+|align=left|{{fb|ECU}}
+{{WDL|2|2|0|0|for=3|against=1|diff=yes}}
+|[[CONMEBOL]]
+|-bgcolor=FFCCCC
+|align=left|{{fb|EGY}}
+{{WDL|16|6|3|7|for=8|against=9|diff=yes}}
+|[[Confederation of African Football|CAF]] 
+|-bgcolor=FFFFCC 
+|align=left|{{fb|ENG}} ||2||1||0||1||3||4||-1||50.00
+|[[UEFA]] 
+|-bgcolor=CCFFCC
+|align=left|{{fb|EQG}}
+{{WDL|4|3|0|1|for=8|against=1|diff=yes}}
+|[[Confederation of African Football|CAF]]
+|-bgcolor=CCFFCC
+|align=left|{{fb|ERI}}
+{{WDL|2|2|0|0|for=8|against=2|diff=yes}}
+|[[Confederation of African Football|CAF]]
+|-bgcolor=CCFFCC
+|align=left|{{fb|SWZ}}
+{{WDL|3|1|2|0|for=7|against=4|diff=yes}}
+|[[Confederation of African Football|CAF]] 
+|-bgcolor=CCFFCC
+|align=left|{{fb|ETH}}
+{{WDL|3|3|0|0|for=11|against=2|diff=yes}}
+|[[Confederation of African Football|CAF]]
+|-bgcolor=FFFFCC
+|align=left|{{fb|FRA}}
+{{WDL|2|1|0|1|for=2|against=3|diff=yes}}
+|[[UEFA]]
+|-bgcolor=CCFFCC
+|align=left|{{fb|GAB}}
+{{WDL|7|5|1|1|for=10|against=4|diff=yes}}
+|[[Confederation of African Football|CAF]]
+|-bgcolor=CCFFCC
+|align=left|{{fb|GAM}}
+{{WDL|25|15|10|0|for=36|against=8|diff=yes}}
+|[[Confederation of African Football|CAF]]
+|-bgcolor=FFFFCC
+|align=left|{{fb|GHA}}
+{{WDL|13|4|5|4|for=16|against=17|diff=yes}}
+|[[Confederation of African Football|CAF]]
+|-bgcolor=CCFFCC
+|align=left|{{fb|GRE}}
+{{WDL|1|1|0|0|for=2|against=0|diff=yes}}
+|[[UEFA]]
+|-bgcolor=CCFFCC
+|align=left|{{fb|GUI}}
+{{WDL|56|26|14|16|for=70|against=60|diff=yes}}
+|[[Confederation of African Football|CAF]]
+|-bgcolor=CCFFCC
+|align=left|{{fb|GNB}}
+{{WDL|16|11|4|1|for=31|against=7|diff=yes}}
+|[[Confederation of African Football|CAF]]
+|-bgcolor=FFCCCC
+|align=left|{{fb|HUN}}
+{{WDL|1|0|0|1|for=0|against=3|diff=yes}}
+|[[UEFA]]
+|-bgcolor=FFFFCC
+|align=left|{{fb|IDN}}
+{{WDL|1|0|1|0|for=2|against=2|diff=yes}}
+|[[Asian Football Confederation|AFC]]
+|-bgcolor=FFFFCC
+|align=left|{{fb|IRN}}
+{{WDL|2|0|2|0|for=2|against=2|diff=yes}}
+|[[Asian Football Confederation|AFC]]
+|-bgcolor=CCFFCC
+|align=left|{{fb|IRQ}}
+{{WDL|1|1|0|0|for=5|against=0|diff=yes}}
+|[[Asian Football Confederation|AFC]]
+|-bgcolor=FFFFCC
+|align=left|{{fb|IRL}}
+{{WDL|1|0|1|0|for=1|against=1|diff=yes}}
+|[[UEFA]]
+|-bgcolor=FFCCCC
+|align=left|{{fb|CIV}}
+{{WDL|24|7|4|13|for=24|against=29|diff=yes}}
+|[[Confederation of African Football|CAF]]
+|-bgcolor=CCFFCC
+|align=left|{{fb|JPN}}
+{{WDL|4|2|2|0|for=7|against=4|diff=yes}}
+|[[Asian Football Confederation|AFC]]
+|-bgcolor=CCFFCC
+|align=left|{{fb|KEN}}
+{{WDL|5|4|1|0|for=17|against=0|diff=yes}}
+|[[Confederation of African Football|CAF]]
+|-bgcolor=CCFFCC
+|align=left|{{fb|KVX}}
+{{WDL|1|1|0|0|for=3|against=1|diff=yes}}
+|[[UEFA]]
+|-bgcolor=FFCCCC
+|align=left|{{fb|LIB}}
+{{WDL|1|0|0|1|for=2|against=3|diff=yes}}
+|[[Asian Football Confederation|AFC]]
+|-bgcolor=CCFFCC
+|align=left|{{fb|LES}}
+{{WDL|2|2|0|0|for=4|against=0|diff=yes}}
+|[[Confederation of African Football|CAF]]
+|-bgcolor=CCFFCC
+|align=left|{{fb|LBR}}
+{{WDL|15|9|5|1|for=33|against=10|diff=yes}}
+|[[Confederation of African Football|CAF]]
+|-bgcolor=FFCCCC
+|align=left|{{fb|LBY}}
+{{WDL|6|2|1|3|for=6|against=7|diff=yes}}
+|[[Confederation of African Football|CAF]]
+|-bgcolor=FFFFCC
+|align=left|{{fb|LUX}}
+{{WDL|1|0|1|0|for=0|against=0|diff=yes}}
+|[[UEFA]]
+|-bgcolor=CCFFCC
+|align=left|{{fb|MAD}}
+{{WDL|4|2|2|0|for=9|against=4|diff=yes}}
+|[[Confederation of African Football|CAF]]
+|-bgcolor=CCFFCC
+|align=left|{{fb|MWI}}
+{{WDL|6|4|1|1|for=10|against=5|diff=yes}}
+|[[Confederation of African Football|CAF]]
+|-bgcolor=FFCCCC
+|align=left|{{fb|MAS}}
+{{WDL|1|0|0|1|for=0|against=1|diff=yes}}
+|[[Asian Football Confederation|AFC]]
+|-bgcolor=CCFFCC
+|align=left|{{fb|MLI}}
+{{WDL|33|13|12|8|for=42|against=33|diff=yes}}
+|[[Confederation of African Football|CAF]]
+|-bgcolor=CCFFCC
+|align=left|{{fb|MTN}}
+{{WDL|19|13|5|1|for=34|against=6|diff=yes}}
+|[[Confederation of African Football|CAF]]
+|-bgcolor=CCFFCC
+|align=left|{{fb|MRI}}
+{{WDL|2|2|0|0|for=9|against=0|diff=yes}}
+|[[Confederation of African Football|CAF]]
+|-bgcolor=FFCCCC
+|align=left|{{fb|MEX}}
+{{WDL|2|0|0|2|for=0|against=3|diff=yes}}
+|[[CONCACAF]]
+|-bgcolor=FFCCCC
+|align=left|{{fb|MAR}}
+{{WDL|32|8|7|17|for=20|against=42|diff=yes}}
+|[[Confederation of African Football|CAF]]
+|-bgcolor=CCFFCC
+|align=left|{{fb|MOZ}}
+{{WDL|6|4|2|0|for=9|against=2|diff=yes}}
+|[[Confederation of African Football|CAF]]
+|-bgcolor=CCFFCC
+|align=left|{{fb|NAM}}
+{{WDL|8|7|0|1|for=24|against=5|diff=yes}}
+|[[Confederation of African Football|CAF]]
+|-bgcolor=FFCCCC
+|align=left|{{fb|NED}} 
+{{WDL|1|0|0|1|for=0|against=2|diff=yes}} 
+|[[UEFA]] 
+|-bgcolor=CCFFCC
+|align=left|{{fb|NIG}}
+{{WDL|9|7|1|1|for=14|against=5|diff=yes}}
+|[[Confederation of African Football|CAF]]
+|-bgcolor=FFCCCC
+|align=left|{{fb|NGA}}
+{{WDL|19|6|6|7|for=21|against=20|diff=yes}}
+|[[Confederation of African Football|CAF]]
+|-bgcolor=FFFFCC
+|align=left|{{fb|NOR}}
+{{WDL|2|1|0|1|for=4|against=4|diff=yes}}
+|[[UEFA]]
+|-bgcolor=FFCCCC
+|align=left|{{fb|OMA}}
+{{WDL|4|1|0|3|for=2|against=5|diff=yes}}
+|[[Asian Football Confederation|AFC]]
+|-bgcolor=FFFFCC
+|align=left|{{fb|PER}}
+{{WDL|2|1|0|1|for=2|against=1|diff=yes}}
+|[[CONMEBOL]]
+|-bgcolor=CCFFCC
+|align=left|{{fb|POL}}
+{{WDL|1|1|0|0|for=2|against=1|diff=yes}}
+|[[UEFA]]
+|-bgcolor=CCFFCC
+|align=left|{{fb|QAT}} 
+{{WDL|1|1|0|0|for=3|against=1|diff=yes}} 
+|[[Asian Football Confederation|AFC]] 
+|-bgcolor=FFCCCC
+|align=left|''{{fb|REU}}''
+{{WDL|1|0|0|1|for=0|against=2|diff=yes}}
+|[[Confederation of African Football|CAF]]
+|-bgcolor=CCFFCC
+|align=left|{{fb|RWA}}
+{{WDL|3|2|1|0|for=4|against=1|diff=yes}}
+|[[Confederation of African Football|CAF]]
+|-bgcolor=FFCCCC
+|align=left|{{fb|KSA}}
+{{WDL|3|0|1|2|for=4|against=6|diff=yes}}
+|[[Asian Football Confederation|AFC]]
+|-bgcolor=CCFFCC
+|align=left|{{fb|SLE}}
+{{WDL|22|10|6|6|for=27|against=21|diff=yes}}
+|[[Confederation of African Football|CAF]]
+|-bgcolor=CCFFCC
+|align=left|{{fb|RSA}}
+{{WDL|10|4|5|1|for=12|against=8|diff=yes}}
+|[[Confederation of African Football|CAF]]
+|-bgcolor=CCFFCC
+|align=left|{{fb|KOR}}
+{{WDL|4|2|1|1|for=4|against=3|diff=yes}}
+|[[Asian Football Confederation|AFC]]
+|-bgcolor=CCFFCC
+|align=left|{{fb|SUD}}
+{{WDL|8|5|3|0|for=11|against=2|diff=yes}}
+|[[Confederation of African Football|CAF]]
+|-bgcolor=CCFFCC
+|align=left|{{fb|SSD}}
+{{WDL|2|2|0|0|for=9|against=0|diff=yes}}
+|[[Confederation of African Football|CAF]]
+|-bgcolor=CCFFCC
+|align=left|{{fb|SWE}}
+{{WDL|1|1|0|0|for=2|against=1|diff=yes}}
+|[[UEFA]]
+|-bgcolor=CCFFCC
+|align=left|{{fb|TAN}}
+{{WDL|4|2|1|1|for=8|against=3|diff=yes}}
+|[[Confederation of African Football|CAF]]
+|-bgcolor=FFCCCC
+|align=left|{{fb|TOG}}
+{{WDL|27|8|10|9|for=27|against=25|diff=yes}}
+|[[Confederation of African Football|CAF]]
+|-bgcolor=FFCCCC
+|align=left|{{fb|TUN}}
+{{WDL|21|5|7|9|for=13|against=22|diff=yes}}
+|[[Confederation of African Football|CAF]]
+|-bgcolor=FFCCCC
+|align=left|{{fb|TUR}}
+{{WDL|1|0|0|1|for=0|against=1|diff=yes}}
+|[[UEFA]]
+|-bgcolor=CCFFCC
+|align=left|{{fb|UGA}}
+{{WDL|8|4|3|1|for=9|against=4|diff=yes}}
+|[[Confederation of African Football|CAF]]
+|-bgcolor=FFFFCC
+|align=left|{{fb|UAE}}
+{{WDL|4|1|2|1|for=8|against=7|diff=yes}}
+|[[Asian Football Confederation|AFC]]
+|-bgcolor=FFFFCC
+|align=left|{{fb|URU}}
+{{WDL|1|0|1|0|for=3|against=3|diff=yes}}
+|[[CONMEBOL]]
+|-bgcolor=FFCCCC
+|align=left|{{fb|USA}}
+{{WDL|1|0|0|1|for=2|against=3|diff=yes}}
+|[[CONCACAF]]
+|-bgcolor=FFFFCC
+|align=left|{{fb|UZB}}
+{{WDL|1|0|1|0|for=1|against=1|diff=yes}}
+|[[Asian Football Confederation|AFC]]
+|-bgcolor=FFFFCC
+|align=left|{{fb|YEM}}
+{{WDL|2|1|0|1|for=2|against=4|diff=yes}}
+|[[Asian Football Confederation|AFC]]
+|-bgcolor=FFFFCC
+|align=left|{{fb|ZAM}}
+{{WDL|14|4|6|4|for=10|against=12|diff=yes}}
+|[[Confederation of African Football|CAF]]
+|-bgcolor=CCFFCC
+|align=left|{{fb|ZIM}}
+{{WDL|10|6|0|4|for=13|against=8|diff=yes}}
+|[[Confederation of African Football|CAF]]
+|-class="sortbottom"
+!align=center|Total
+{{WDL|670|324|173|173|for=845|against=559|diff=yes}}
+|!bgcolor=white|[[FIFA]]
+|}
+
+==Honours==
+===Continental===
+* '''[[Africa Cup of Nations]]'''
+** [[File:Gold medal africa.svg|15px]] '''Champions (1)''': [[2021 Africa Cup of Nations|2021]]
+** [[File:Silver medal africa.svg|15px]] Runners-up (3): [[2002 African Cup of Nations|2002]], [[2019 Africa Cup of Nations|2019]], [[2025 Africa Cup of Nations final|2025]]<ref>{{Cite web |date=2026-03-17 |title=Afcon 2025: Morocco declared the winners after CAF overturns final defeat to Senegal |url=https://www.bbc.com/sport/football/articles/ce949glzzglo |access-date=2026-03-17 |website=BBC Sport |language=en-GB}}</ref>
+* '''[[African Nations Championship]]'''
+** [[File:Gold medal africa.svg|15px]] '''Champions (1)''': [[2022 African Nations Championship|2022]]
+** [[File:Bronze medal africa.svg|15px]] Third place (1): [[2024 African Nations Championship|2024]]
+===Regional===
+* '''[[Amílcar Cabral Cup]]'''
+** {{Gold1}} '''Champions (7)''': [[1979 Amílcar Cabral Cup|1979]], [[1980 Amílcar Cabral Cup|1980]], [[1983 Amílcar Cabral Cup|1983]], [[1984 Amílcar Cabral Cup|1984]], [[1985 Amílcar Cabral Cup|1985]], [[1986 Amílcar Cabral Cup|1986]], [[1991 Amílcar Cabral Cup|1991]]
+** {{Silver2}} Runners-up (4): [[1982 Amílcar Cabral Cup|1982]], [[1993 Amílcar Cabral Cup|1993]], [[1997 Amílcar Cabral Cup|1997]], [[2000 Amílcar Cabral Cup|2000]]
+** {{Bronze3}} Third place (3): [[1981 Amílcar Cabral Cup|1981]], [[1987 Amílcar Cabral Cup|1987]], [[1988 Amílcar Cabral Cup|1988]]
+* '''[[WAFU Nations Cup]]'''
+** {{Gold1}} '''Champions (1)''': [[2019 WAFU Cup of Nations|2019]]
+** {{Silver2}} Runners-up (2): [[2010 WAFU Nations Cup|2010]], [[2013 WAFU Nations Cup|2013]]
+* '''[[CEDEAO Cup]]'''
+** {{Gold1}} '''Champions (1)''': 1985
+** {{Silver2}} Runners-up (2): 1990, 1991
+** {{Bronze3}} Third place (1): 1987
+* '''[[UEMOA Tournament]]'''
+** {{Gold1}} '''Champions (3)''': [[2009 UEMOA Tournament|2009]], [[2011 UEMOA Tournament|2011]], [[2016 UEMOA Tournament|2016]]
+* '''[[COSAFA Cup]]'''
+** {{Silver2}} Runners-up (1): [[2021 COSAFA Cup|2021]]
+** {{Bronze3}} Third place (1): [[2022 COSAFA Cup|2022]]
+=== Awards ===
+* '''[[FIFA World Rankings#Best Mover of the Year|FIFA Best Mover of the Year]] (1)''': 2002
+* '''[[CAF Awards#African National Team of the Year|African National Team of the Year]] (4)''': 2001, 2002, 2007, 2022
+* '''[[Africa Cup of Nations awards#Fair Play Award|Africa Cup of Nations Fair Play Award]] (2)''': 2019, 2021
+
+===Summary===
+{| class="wikitable" width=30% style="font-size:90%; text-align:center;"
+|-
+!Competition !!{{gold1}} !!{{silver2}} !!{{bronze3}} !!Total
+|-
+|align=left|[[Africa Cup of Nations]]
+|1 || 3 || 0 || 4
+|-
+|align=left|[[African Nations Championship]]
+|1 || 0 || 1 || 2
+|-
+!Total !! 2 !! 3 !! 1 !! 6
+|}
+
+==See also==
+*[[Senegal national under-20 football team]]
+*[[Senegal national under-17 football team]]
+*[[Football in Senegal]]
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist|group=note}}
+{{Reflist}}
+
+==External links==
+{{Commons category}}
+* [http://www.galsenfoot.com Senegal] at Galsenfoot
+* [https://www.national-football-teams.com/country/163/2022/Senegal.html Senegal] at the NFT
+* [https://www.cafonline.com/member-associations/sen/ Senegal] at [[Confederation of African Football|CAF]]
+* [https://www.fifa.com/about-fifa/associations/SEN Senegal] at [[FIFA]]
+
+{{Senegal national football team}}
+{{Navboxes top
+|bg = #00853F
+|fg = #FDEF42
+|bordercolor=#E31B23
+|list1=}}
+{{Navboxes
+|title = Senegal achievements and awards
+|bg = #00853F
+|fg = #FDEF42
+|bordercolor=#E31B23
+|list1=
+{{S-start}}
+{{Succession box
+| before = [[2019 Africa Cup of Nations|2019]]<br />{{fb|ALG}}
+| title = [[Africa Cup of Nations|African Champions]]
+| years = [[2021 Africa Cup of Nations|2021]] (First title)
+| after = [[2023 Africa Cup of Nations|2023]]<br />{{fb-rt|CIV}}
+}}
+{{S-end}}
+}}
+{{Navboxes
+|title = Senegal squads
+|bg = #00853F
+|fg = #FDEF42
+|bordercolor=#E31B23
+|list1=
+{{Senegal squad 1990 African Cup of Nations}}
+{{Senegal squad 1992 African Cup of Nations}}
+{{Senegal squad 1994 African Cup of Nations}}
+{{Senegal squad 2000 African Cup of Nations}}
+{{Senegal squad 2002 African Cup of Nations}}
+{{Senegal squad 2002 FIFA World Cup}}
+{{Senegal squad 2004 African Cup of Nations}}
+{{Senegal squad 2006 Africa Cup of Nations}}
+{{Senegal squad 2008 Africa Cup of Nations}}
+{{Senegal squad 2012 Africa Cup of Nations}}
+{{Senegal squad 2015 Africa Cup of Nations}}
+{{Senegal squad 2017 Africa Cup of Nations}}
+{{Senegal squad 2018 FIFA World Cup}}
+{{Senegal squad 2019 Africa Cup of Nations}}
+{{Senegal squad 2021 Africa Cup of Nations}}
+{{Senegal squad 2022 FIFA World Cup}}
+{{Senegal squad 2023 Africa Cup of Nations}}
+{{Senegal squad 2025 Africa Cup of Nations}}
+{{Senegal squad 2026 FIFA World Cup}}
+}}
+{{Africa Cup of Nations winners}}
+{{African Nations Championship winners}}
+{{Football in Senegal}}
+{{WAFU football}}
+{{CAF teams}}
+{{National sports teams of Senegal}}
+{{Navboxes bottom}}
+{{#invoke:Portal bar|main|Association football|Senegal}}
+
+{{DEFAULTSORT:Senegal National Football Team}}
+[[Category:Senegal national football team| ]]
+[[Category:African national association football teams]]
+[[Category:Africa Cup of Nations–winning countries]]

@@ -1,0 +1,1466 @@
+{{Short description|none}}
+{{About|the men's team|the women's team|Philippines women's national football team}}
+{{Use mdy dates|date=December 2024}}
+{{Use Philippine English|date=September 2025}}
+{{Infobox national football team
+| Name              = Philippines
+| American = yes <!---color, rather than colour, as per [[MOS:PHIL]] and [[MOS:ENGVAR]], field just happens to be named "American"--->
+| Nickname          =
+| Badge             = Logo of Philippine Football Federation.png
+| Badge_size        = 180px
+| Association       = [[Philippine Football Federation]] (PFF)
+| Confederation     = [[Asian Football Confederation|AFC]] (Asia)
+| Sub-confederation = [[ASEAN Football Federation|AFF]] (Southeast Asia)
+| Coach             = [[Carles Cuadrat]]
+| Captain           = [[Manny Ott]]
+| Most caps         = [[Phil Younghusband]] (108)
+| Top scorer        = Phil Younghusband ([[List of international goals scored by Phil Younghusband|52]])
+| Home Stadium      = [[Rizal Memorial Stadium]]
+| FIFA Trigramme    = PHI
+| FIFA Rank         = {{FIFA World Rankings|PHI|mdy=y}}
+| FIFA max          = 111
+| FIFA max date     = May 2018
+| FIFA min          = 195
+| FIFA min date     = September – October 2006
+| Elo Rank          = {{nowrap|{{World Football Elo Ratings|Philippines}}}}
+| Elo max           = 136 <!-- After their first match in 1917 at pos 28, after their 2nd and 3rd matches in 1923 pos 45, but Elo ranking only becomes meaningful after 20-30 matches-->
+| Elo max date      = June 16, 2015
+| Elo min           = 218
+| Elo min date      = January 2000, December 2002, November 2006
+| pattern_la1 = _phi2526h
+| pattern_b1  = _phi2526h
+| pattern_ra1 = _phi2526h
+| pattern_sh1 = _phi2526h
+| pattern_so1 = 
+| leftarm1    = 0044FF
+| body1       = 0044FF
+| rightarm1   = 0044FF
+| shorts1     = 0044FF
+| socks1      = 0044FF
+| pattern_la2 = _phi2526a
+| pattern_b2  = _phi2526a
+| pattern_ra2 = _phi2526a
+| pattern_sh2 = _phi2526a
+| pattern_so2 = 
+| leftarm2    = FFFFFF
+| body2       = FFFFFF
+| rightarm2   = FFFFFF
+| shorts2     = FFFFFF
+| socks2      = FFFFFF
+| pattern_la3 = _phi2526t
+| pattern_b3  = _phi2526t
+| pattern_ra3 = _phi2526t
+| pattern_sh3 = _phi2526t
+| pattern_so3 = 
+| leftarm3    = f7cfd7
+| body3       = f7cfd7
+| rightarm3   = f7cfd7
+| shorts3     = a559a5
+| socks3      = a559a5
+| First game  = {{fb|Philippines|1912}} 2–1 {{fb-rt|Republic of China (1912–1949)|1912}}<br />([[Manila]], Philippines; February 4, 1913)
+| Largest win = {{fb|JPN|1870}} [[Japan 2–15 Philippines|2–15]] {{fb-rt|PHI|1912}}<br />([[Tokyo]], Japan; May 10, 1917)<ref>[[Motoaki Inukai]]「日本代表公式記録集2008」{{in lang|ja}} [[Japan Football Association]] p.206.</ref>
+| Largest loss = {{fb|JPN|1870}} [[Japan 15–0 Philippines|15–0]] {{fb-rt|PHI|1936}}<br />([[Tokyo]], Japan; September 28, 1967)
+| Regional name = [[AFC Asian Cup|Asian Cup]]
+| Regional cup apps  = 1
+| Regional cup first = [[2019 AFC Asian Cup|2019]]
+| Regional cup best  = Group stage ([[2019 AFC Asian Cup|2019]])
+| 2ndRegional name   = [[AFC Challenge Cup]]
+| 2ndRegional cup apps  = 3
+| 2ndRegional cup first = [[2006 AFC Challenge Cup|2006]]
+| 2ndRegional cup best  = Runners-up ([[2014 AFC Challenge Cup|2014]])
+| 3rdRegional name      = [[ASEAN Championship]]
+| 3rdRegional cup apps  = 14
+| 3rdRegional cup first = [[1996 AFF Championship|1996]]
+| 3rdRegional cup best  = Semi-finals ([[2010 AFF Championship|2010]], [[2012 AFF Championship|2012]], [[2014 AFF Championship|2014]], [[2018 AFF Championship|2018]], [[2024 AFF Championship|2024]])
+|medaltemplates={{Medal|Sport| Men's [[association football]] }}
+{{Medal|Country| {{PHI}} }}
+{{Medal|Competition| [[AFC Challenge Cup]] }}
+{{Medal|Silver| [[2014 AFC Challenge Cup|2014 Maldives]]|Team}}
+{{Medal|Bronze| [[2012 AFC Challenge Cup|2012 Nepal]]|Team}}
+}}
+
+The '''Philippines national football team''' ({{langx|fil|Pambansang koponan ng futbol ng Pilipinas|lit=}}) represents the [[Philippines]] in men's international [[association football|football]], governed by the [[Philippine Football Federation]] (PFF) and has been playing internationally since 1913.
+
+Prior to [[World War II]], the Philippines had regularly competed with [[Japan national football team|Japan]] and the [[China PR national football team|Republic of China]] in the [[Football at the Far Eastern Championship Games|Far Eastern Championship Games]]. So far, the national team has never qualified for the [[FIFA World Cup]]<ref name=feg /> and has qualified for the [[AFC Asian Cup]] only once, in 2019. They finished second at the [[2014 AFC Challenge Cup]] after losing to [[Palestine national football team|Palestine]] in the final.<ref>{{Cite web|title = Azkals forced to settle for second place at 2014 AFC Challenge Cup|url = http://www.gmanetwork.com/news/story/363493/sports/football/azkals-forced-to-settle-for-second-place-at-2014-afc-challenge-cup|website = GMA News Online| date=May 31, 2014 |access-date = October 8, 2015|archive-date = September 24, 2015|archive-url = https://web.archive.org/web/20150924140454/http://www.gmanetwork.com/news/story/363493/sports/football/azkals-forced-to-settle-for-second-place-at-2014-afc-challenge-cup|url-status = live}}</ref>
+
+Unlike most of [[Southeast Asia]], where football is the most popular sport, the Philippines' most popular [[Sports in the Philippines|sports]] are [[basketball]] and [[boxing]], inherited from [[History of the Philippines (1898–1946)|American rule]]. Before 2010, the Philippines would suffer group stage eliminations at the [[AFF Championship]].
+
+However, since the [[2010 AFF Championship]], which saw the "[[Miracle of Hanoi]]", the country has attempted to develop football as part of the sport's renaissance, finding more incentives to increase football development and fan support.<ref>{{Cite web|url = https://sports.inquirer.net/30585/yearender-football-scales-new-heights-with-philippine-azkals|title = Yearender: Football scales new heights with Philippine Azkals|date = January 2, 2012|access-date = June 3, 2020|archive-date = June 3, 2020|archive-url = https://web.archive.org/web/20200603032846/https://sports.inquirer.net/30585/yearender-football-scales-new-heights-with-philippine-azkals|url-status = live}}</ref>
+
+==History==
+===1910s–1940s: Early years===
+[[File:Philippines 1930 Far Eastern Games squad.jpg|thumbnail|275px|left|The national team squad at the [[1930 Far Eastern Championship Games]].]]
+The Philippines participated in the [[Far Eastern Championship Games]], which included football. The first edition was in [[Football at the 1913 Far Eastern Championship Games|1913]] and the last was in [[Football at the 1934 Far Eastern Championship Games|1934]]. The games were the first regional football tournament for national teams outside the [[British Home Championship]]. The national team routinely faced [[Japan national football team|Japan]] and [[China national football team|China]] and at one edition the [[Dutch East Indies national football team|Dutch East Indies]] at the games. The Philippines won over China at the inaugural tournament with a scoreline of 2–1. During the [[Football at the 1917 Far Eastern Championship Games|1917]] edition, the national team achieved its biggest win in international football. Led by [[Filipino-Spanish]] icon [[Paulino Alcantara]], the Philippines defeated Japan [[Japan 2–15 Philippines|15–2]].<ref name=feg>{{cite web|last1=Stokkermans|first1=Karel|title=Far Eastern Games|url=https://www.rsssf.org/tablesf/fareastgames.html|website=Rec.Sport.Soccer Statistics Foundation|access-date=March 24, 2015|archive-date=July 26, 2022|archive-url=https://web.archive.org/web/20220726161944/https://www.rsssf.org/tablesf/fareastgames.html|url-status=live}}</ref><ref name=europestar>{{cite news|last1=Thompson |first1=Trevor |title=HISTORY: EUROPE'S FIRST STAR WITH ASIAN ROOTS |url=http://www.afcasiancup.com/news/en/asian-history--europes-first-star-with-asian-roots/iokvijo57s9f1b8q4fqs8kqgs |access-date=July 17, 2014 |work=AFC Asian Cup 2015 |date=February 21, 2014 |archive-url=https://web.archive.org/web/20141225092555/http://www.afcasiancup.com/news/en/asian-history--europes-first-star-with-asian-roots/iokvijo57s9f1b8q4fqs8kqgs |archive-date=December 25, 2014 }}</ref><ref>{{cite news|title=Tight race for medal glory between RP, Thailand|url=https://news.google.com/newspapers?id=IVQ1AAAAIBAJ&pg=1753%2C11848289|access-date=March 29, 2015|newspaper=Philippine Daily Inquirer|date=November 25, 2005|archive-date=December 29, 2021|archive-url=https://web.archive.org/web/20211229190944/https://news.google.com/newspapers?id=IVQ1AAAAIBAJ&pg=1753,11848289|url-status=live}}</ref>
+
+After the dissolution of the Far Eastern Championship Games, the national squad participated in the [[1940 East Asian Games]] organized to commemorate the [[2600th Anniversary Celebrations of the Japanese Empire|2600th anniversary]] of the foundation of the [[Empire of Japan]] by [[Emperor Jimmu]]. The team finished third behind champions [[Japan national football team|Japan]] and second placers [[Manchukuo national football team|Manchukuo]], and ahead of the [[Reorganized National Government of the Republic of China|Republic of China]].<ref name=1940j>{{cite book|last1=Collins|first1=Sandra|title=1940 TOKYO GAMES&nbsp;– COLLINS: Japan, the Asian Olympics and the Olympic Movement|date=2014|publisher=Routledge|isbn=978-1-317-99966-9|pages=179–180}}</ref><ref name=rsssf>{{cite web|last1=Veroeveren|first1=Piet|title=2600th Anniversary of the Japanese Empire 1940 (Tokyo)|url=https://www.rsssf.org/tablesj/jap2600-40.html|publisher=Rec.Sport.Soccer Statistics Foundation|access-date=December 25, 2014|archive-date=January 30, 2023|archive-url=https://web.archive.org/web/20230130104434/https://www.rsssf.org/tablesj/jap2600-40.html|url-status=live}}</ref>
+
+===1950s–1990s: Decline of football===
+In the 1950s the Philippines hosted friendlies with international-based sides, However, the national team experienced lack of funding and barely received any coverage from the media. During that time talents from the national team were drawn from the Manila Football League which received substantial support from the [[Chinese-Filipino]] community. The national team's decent performance at the [[Football at the 1958 Asian Games|1958 Asian Games]], hosted in [[Tokyo]], where they defeated Japan 1–0, was labeled as an upset by the Japanese press.<ref name=renaissance>{{cite news|last1=Ochoa|first1=Francis|last2=Duran|first2=Janardan|title=PH football renaissance feeding off Azkals' rise|url=http://sports.inquirer.net/5699/ph-football-renaissance-feeding-off-azkals%E2%80%99-rise|access-date=March 26, 2015|newspaper=Philippine Daily Inquirer|date=January 25, 2011|archive-date=February 24, 2019|archive-url=https://web.archive.org/web/20190224065410/https://sports.inquirer.net/5699/ph-football-renaissance-feeding-off-azkals%E2%80%99-rise|url-status=live}}</ref>
+
+The years following 1958 saw the decline of Philippine football, as several key players resigned from the national team due to financial challenges for playing. National team players [[Ed Ocampo]] and [[Eduardo Pacheco (Filipino sportsman)|Eduardo Pacheco]] switched to basketball, and went on playing for commercial basketball clubs where players are paid.<ref name=renaissance/> The Philippine Congress passed Republic Act 3135 that revised the charter of the [[Philippine Amateur Athletic Federation]], which had a provision, or a 60-40 rule, that mandated teams to not have more than 40 percent Chinese and other players with foreign blood.<ref>{{cite book|title=Philippine Football: Its Past, Its Future|url=https://books.google.com/books?id=EGsNtAEACAAJ|year=2016|publisher=University of Asia and the Pacific|isbn=978-621-8002-29-6|pages=49–50}}</ref> Sponsors withdrew and leagues, which were mostly funded by the Chinese-Filipino community, started to decline. The 60–40 rule was lifted much later during the tenure of president Johnny Romualdez of the [[Philippine Football Federation]] (PFF), after 1982 when the PFA had reorganized itself as the PFF.<ref name=renaissance/><ref name=pocnsaprof>{{cite web|title=Philippine Football Federation |url=http://www.olympic.ph/nsa_football.html |website=Philippine Olympic Committee |access-date=March 30, 2015 |archive-date=February 16, 2015 |archive-url=https://web.archive.org/web/20150216001806/http://olympic.ph/nsa_football.html }}</ref>
+
+The national team suffered defeats with big margins at the [[Football at the 1962 Asian Games|1962 Asian Games]] in [[Jakarta]].<ref name=renaissance/> This includes the national team's record 15–1 defeat to [[Malaysia national football team|Malaysia]], which became the worst defeat of the national team at that time. The record was later broken by the 15–0 loss to Japan in 1967 at the qualifiers for the [[Football at the 1968 Summer Olympics|1968 Summer Olympics]]. Foreigners were hired to serve as head coaches for the national team in an attempt to reduce big margin loses. Englishman [[Allan Rogers]] was hired following the record defeat to Malaysia, and Spaniard [[Juan Cutillas]] was likewise tasked to lead the national team following the record defeat to Japan.<ref name=footballlose>{{cite news|last1=Romualdez|first1=Johnny|title=13–1 football lose: Can it happen again?|url=https://news.google.com/newspapers?id=UmwVAAAAIBAJ&pg=3661%2C1521466|access-date=March 29, 2015|newspaper=Manila Standard Today|date=January 17, 2003|archive-date=November 5, 2021|archive-url=https://web.archive.org/web/20211105104633/https://news.google.com/newspapers?id=UmwVAAAAIBAJ&pg=3661%2C1521466|url-status=live}}</ref>
+
+In the early sixties, the Philippine Football Association partnered with the [[San Miguel Corporation]] to seek foreign assistance to train local football players and coaches and to develop the sport in the country. These included [[Alan Rogers (football manager)|Alan Rogers]] and Brian Birch, coaches from the [[United Kingdom]]. After the two were relieved, Danny McClellan and Graham Adams continued their task. In 1961, San Miguel, through the national football association, brought in four medical students from Spain who were experts in football&nbsp;— Francisco Escarte, Enrique dela Mata, Claudio Sanchez and [[Juan Cutillas]]. Escarte and dela Mata left the country after one year.<ref name=historypffold>{{cite web|title=History of Football in the Philippines|url=http://www.philfootball.info/history.html|archive-url=https://web.archive.org/web/20060204181351/http://www.philfootball.info/history.html|website=philfootball.info|publisher=Philippine Football Federation|access-date=June 19, 2015|archive-date=February 4, 2006 }}</ref>
+
+In 1971, head coach Juan Cutillas recruited five foreign players to play for the national team: four Spaniards and one Chinese. The national team joined several international competitions such as the [[Merdeka Tournament]], [[Jakarta Anniversary Tournament]] and the [[1971 President's Cup Football Tournament|President Park Tournament]]. The team caused some upset results against the national teams of [[Thailand national football team|Thailand]], [[Singapore national football team|Singapore]] and [[South Korea national football team|South Korea]]. The national team saw another decline after the four Spanish players left the team due to financial reasons and basketball gained more foothold over football in the country.<ref name=historypffold/>
+
+The national team under German head coach [[Eckhard Krautzun]] finished fourth overall at the [[Football at the 1991 Southeast Asian Games|1991 Southeast Asian Games]], its best ever finish at the tournament. The Philippines dealt a 1–0 defeat to defending champions [[Malaysia national football team|Malaysia]] at the tournament which knocked out the latter out of the tournament at just the group stage. [[Norman Fegidero]] scored the sole goal for the Philippines.<ref name=footballlose/><ref>{{cite book|last1=Maximus|first1=Lucius|title=HOW MALAYSIA NEVER REACHED THE WORLD CUP: Harimau Malaya's 40-Year Chronicle of Failure|date=April 15, 2014|publisher=Fixi Mono|chapter-url=https://books.google.com/books?id=ukBcAwAAQBAJ&q=1991+sea+games+malaysia+philippines+football&pg=PA1994|access-date=March 30, 2015|chapter=6: 1994 World Cup|isbn=978-967-0374-85-7}}</ref><ref>{{cite news|title=Miracles Malaysia can do without|url=https://news.google.com/newspapers?id=2GJPAAAAIBAJ&pg=6802%2C6576127|access-date=March 30, 2015|newspaper=New Straits Times|date=November 29, 1991|archive-date=December 29, 2021|archive-url=https://web.archive.org/web/20211229190945/https://news.google.com/newspapers?id=2GJPAAAAIBAJ&pg=6802,6576127|url-status=live}}</ref>
+
+=== 2000s ===
+In September 2006, the country fell to 195th on the [[FIFA World Rankings]], its lowest ever.<ref>{{cite web |url=https://www.fifa.com/associations/association=phi/ranking/gender=m/index.html |archive-url=https://web.archive.org/web/20070702123400/http://www.fifa.com/associations/association=phi/ranking/gender=m/index.html  |archive-date=July 2, 2007 |title=FIFA&nbsp;– Philippines: World Ranking |work=FIFA.com |publisher=Fédération Internationale de Football Association |access-date=August 25, 2010 }}</ref>  By the end of the year, the Philippines moved back up to 171st overall, after a good run in the [[2007 AFF Championship qualification]].<ref name=asean1>{{cite news |url=http://www.aseanfootball.org/?p=1119 |title=Philippines on the up |work=AseanFootball.org |publisher=ASEAN Football Federation |date=January 9, 2007 |access-date=August 25, 2010 |archive-date=July 25, 2011 |archive-url=https://web.archive.org/web/20110725021413/http://www.aseanfootball.org/?p=1119 |url-status=live }}</ref>  They were able to win three games in a row, which was a first for the Philippines and thus qualifying for the [[2007 AFF Championship]].<ref>{{cite news |url=http://findarticles.com/p/news-articles/manila-bulletin/mi_7968/is_2006_Nov_21/rp-booters-books/ai_n34415434/?tag=content;col1 |title=RP booters write one for books |format=reprint |newspaper=Manila Bulletin |publisher=Find Articles |date=November 21, 2006 |access-date=August 25, 2010 |archive-date=July 9, 2012 |archive-url=https://archive.today/20120709042327/http://findarticles.com/p/news-articles/manila-bulletin/mi_7968/is_2006_Nov_21/rp-booters-books/ai_n34415434/?tag=content;col1 |url-status=live }}</ref> Coach at that time [[Jose Ariston Caslib|Aris Caslib]], aimed to reach the semifinals with two wins at the group stage.<ref>{{cite web |url=http://soccernet.espn.go.com/preview?id=212280&cc=4716 |title=Preview: Malaysia v Philippines&nbsp;– Philippines confident despite striker shortage |work=ESPNsoccernet |publisher=ESPN Inc |date=January 11, 2007 |access-date=August 25, 2010 |archive-date=October 23, 2012 |archive-url=https://web.archive.org/web/20121023111729/http://soccernet.espn.go.com/preview?id=212280&cc=4716  }}</ref>  The decision came despite Philippine Football Federation president Juan Miguel Romualdez stating that they would still be underdogs in the tournament and that they should not raise their expectations too high,<ref name=asean1/> as the Philippines have only gotten their first ever win of the tournament during the [[2004 AFF Championship]].<ref>{{cite news |url=http://findarticles.com/p/news-articles/manila-bulletin/mi_7968/is_2004_Dec_16/rp-xi-downs-east-timor/ai_n33848270/?tag=content;col1 |title=RP XI downs East Timor in Tiger Cup |format=Reprint |newspaper=Manila Bulletin |publisher=Find Articles |date=December 14, 2004 |access-date=August 25, 2010 |archive-date=July 9, 2012 |archive-url=https://archive.today/20120709100537/http://findarticles.com/p/news-articles/manila-bulletin/mi_7968/is_2004_Dec_16/rp-xi-downs-east-timor/ai_n33848270/?tag=content;col1 |url-status=live }}</ref>
+
+The Philippines eventually failed to reach their target, only getting a draw in three matches. Their poor performances led to Caslib's resignation,<ref>{{cite news |url=http://uk.reuters.com/article/idUKSP3664020070222 |archive-url=https://archive.today/20120716075002/http://uk.reuters.com/article/idUKSP3664020070222 |url-status=dead |archive-date=July 16, 2012 |title=Soccer-Philippines coach to quit national team, coach youngsters |work=Reuters |date=February 22, 2007 |access-date=August 25, 2010 }}</ref> as well as the refusal of the PFF to register and enter the qualification stages for the [[2010 FIFA World Cup]].<ref name=inquirer1>{{cite news |url=http://newsinfo.inquirer.net/inquirerheadlines/sports/view/20070402-58301/RP_to_skip_football_World_Cup_qualifiers |title=RP to skip football World Cup qualifiers |newspaper=Philippine Daily Inquirer |date=April 2, 2007 |access-date=August 25, 2010 |archive-url=https://web.archive.org/web/20101214002330/http://newsinfo.inquirer.net/inquirerheadlines/sports/view/20070402-58301/RP_to_skip_football_World_Cup_qualifiers |archive-date=December 14, 2010 }}</ref>  They would be one of four nations, all from [[Southeast Asia]], not to enter after a record number of entries.<ref>{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/africa/6511447.stm |title=Record entries for SA World Cup |work=BBC Sport  |publisher=British Broadcasting Corporation |date=March 30, 2007 |access-date=March 30, 2007 }}</ref>  However, it was revealed that the decision not to enter the 2010, as well as the 2006 World Cup qualification, was made during the PFF presidency of Rene Adad, whose term ended in 2003.<ref name=inquirer1/>  Instead, the PFF wanted to focus on domestic and regional competitions.<ref>{{cite web |url=https://www.fifa.com/worldfootball/ranking/news/newsid=814849.html |archive-url=https://web.archive.org/web/20080627212533/http://www.fifa.com/worldfootball/ranking/news/newsid=814849.html  |archive-date=June 27, 2008 |title=Philippines making Asian Waves |work=FIFA.com |publisher=Fédération Internationale de Football Association |date=June 26, 2008 |access-date=August 25, 2010 }}</ref>
+
+The Philippines failed to qualify for any major competition in 2008. They missed out on the [[2008 AFC Challenge Cup]] only on [[goal difference]],<ref>{{cite news |url=http://www.aseanfootball.org/?p=1681 |title=Philippines fail to qualify for AFC Challenge Cup |work=AseanFootball.org |publisher=ASEAN Football Federation |date=May 18, 2008 |access-date=August 25, 2010 |archive-date=July 25, 2011 |archive-url=https://web.archive.org/web/20110725021429/http://www.aseanfootball.org/?p=1681 |url-status=live }}</ref> and the [[2008 AFF Championship]] with an inferior goals scored record.<ref>{{cite web |url=http://insidesports.ph/football/philippines-edged-out-of-suzuki-cup-main-event/ |title=Philippines edged out of Suzuki Cup |publisher=Inside Sports |author=Nathanielsz, Ronnie |date=October 26, 2008 |access-date=August 25, 2010 |archive-date=July 16, 2011 |archive-url=https://archive.today/20110716081805/http://insidesports.ph/football/philippines-edged-out-of-suzuki-cup-main-event/ |url-status=live }}</ref>
+
+[[Dan Palami]], businessman and sports patron, was appointed as team manager of the national team in 2009 by the Philippine Football Federation. The national team still received minimal support from the government. Palami made financial investments into the team using his own personal money. Since taking responsibility over the national team, he envisioned a plan named Project 100, which aimed to make the team among the top 100 national teams in the world in terms of FIFA rankings. More foreign-born Filipinos were called up to play for the national squad.<ref>{{cite journal|last1=Sauras|first1=Joaquin|last2=Lill|first2=Felix|title=The Street Dogs of Manila|journal=The Blizzard&nbsp;– the Football Quarterly|date=March 3, 2014|issue=12|url=https://books.google.com/books?id=6mLXBQAAQBAJ&q=dan+palami+and+football+2009|publisher=Blizzard Media Ltd}}</ref>[[File:North Korea v Philippines, 8 October 2015 C.png|250px|thumb|The national team (in blue) playing against North Korea (in red) at the [[Kim Il-sung Stadium]] in [[Pyongyang]]. The 2018 FIFA World Cup qualifier match held on October 8, 2015, ended in a goalless draw]]
+
+===2010s: Era of renaissance===
+[[File:Philippines v Tajikistan 2018 e.jpg|thumbnail|250px|alt=Parading Philippine national team players celebrating their win and thanking fans in attendance|Players of the national team celebrating their [[2019 AFC Asian Cup qualification|first qualification ever]] for the [[AFC Asian Cup]] following their 2–1 win over [[Tajikistan national football team|Tajikistan]] on March 27, 2018]]
+The Philippines's campaign at the [[2010 AFF Championship]] under [[Simon McMenemy]]'s tenure was a breakthrough. Holding a primal ticket as one of two teams along with [[Laos national football team|Laos]] that had to [[2010 AFF Championship|qualify for the tournament]], the Philippines advanced from the group stage for the first time, did not concede a single defeat, and their win against defending champions [[Vietnam national football team|Vietnam]] in particular was considered one of the biggest upsets in the tournament's history.<ref>{{cite news |url=https://www.fifa.com/worldfootball/news/newsid=1346410.html |archive-url=https://web.archive.org/web/20101210162312/http://www.fifa.com/worldfootball/news/newsid=1346410.html  |archive-date=December 10, 2010 |title=Philippines stun defending champions |work=FIFA.com |publisher=Fédération Internationale de Football Association |date=December 5, 2010 |access-date=February 9, 2011 }}</ref> The match, which would later be referred by local Filipino fans as the "[[Miracle of Hanoi]]", is also considered the match that started a football renaissance in the country where basketball is the more popular sport.<ref>{{cite news|last1=Tupas|first1=Cedelf|title=PH eleven remembers the miracle of Hanoi|url=http://sports.inquirer.net/73479/ph-eleven-remembers-the-miracle-of-hanoi|access-date=March 31, 2015|newspaper=Philippine Daily Inquirer|date=November 27, 2012|archive-date=November 27, 2015|archive-url=https://web.archive.org/web/20151127030101/http://sports.inquirer.net/73479/ph-eleven-remembers-the-miracle-of-hanoi|url-status=live}}</ref><ref>{{cite news|last1=Gutierrez|first1=Paul|title='AZKALS' seek morale support|url=http://www.journal.com.ph/news/metro/item/1577-2-sunog-tumama-sa-qc|access-date=March 31, 2015|publisher=Journal Online|date=December 3, 2014|archive-url=https://web.archive.org/web/20150402113514/http://www.journal.com.ph/news/metro/item/1577-2-sunog-tumama-sa-qc|archive-date=April 2, 2015}}</ref> In the knockout stage, they had to play both their designated home and away games against [[Indonesia national football team|Indonesia]] in [[Jakarta]] due to the unavailability of a stadium that passes AFF standards. The Philippines lost both games to end their campaign.
+
+The following year, [[Michael Weiß (football manager)|Michael Weiß]] became the head coach. The national team managed to qualify for the 2012 edition of the [[AFC Challenge Cup]], the first time since qualifiers were introduced and also recorded their first ever victory in the [[FIFA World Cup qualification]], beating [[Sri Lanka national football team|Sri Lanka]] 4–0 in the second leg of the first preliminary round.<ref>{{cite web |title=FIFA.com&nbsp;– 2014 FIFA World Cup Brazil|url=https://www.fifa.com/worldcup/preliminaries/asia/matches/round=257783/match=300159183/index.html |archive-url=https://web.archive.org/web/20110630203122/http://www.fifa.com/worldcup/preliminaries/asia/matches/round=257783/match=300159183/index.html  |archive-date=June 30, 2011 |work=FIFA.com |publisher=Fédération Internationale de Football Association |access-date=July 3, 2011 }}</ref> [[Kuwait national football team|Kuwait]] finished the Philippines' World Cup qualification campaign after winning over them twice in the second round.
+
+In 2012, the Philippines qualified for the semifinals of the [[AFC Challenge Cup]] for the first time winning over former champions [[India men's national football team|India]] and [[Tajikistan national football team|Tajikistan]], though they lost 2–1 against [[Turkmenistan national football team|Turkmenistan]] in the semifinal.<ref>{{cite news |url=http://www.the-afc.com/en/tournaments/men-a-youth/afc-challenge-cup/38357-turkmenistan-v-philippines |title=Turkmenistan 2–1 Philippines |work=The-AFC.com |publisher=Asian Football Confederation |date=March 16, 2012 |access-date=March 16, 2012 |archive-date=March 28, 2018 |archive-url=https://web.archive.org/web/20180328231703/http://www.the-afc.com/en/tournaments/men-a-youth/afc-challenge-cup/38357-turkmenistan-v-philippines |url-status=live }}</ref> In the third place-playoff the Philippines won 4–3 over [[Palestine national football team|Palestine]].<ref>{{cite news|url=http://www.the-afc.com/en/tournaments/men-a-youth/afc-challenge-cup/38389-philippines-v-palestine |title=Philippines 4–3 Palestine |work=The-AFC.com |publisher=Asian Football Confederation |date=March 19, 2012 |access-date=March 22, 2012 |archive-url=https://web.archive.org/web/20120723002653/http://www.the-afc.com/en/tournaments/men-a-youth/afc-challenge-cup/38389-philippines-v-palestine |archive-date=July 23, 2012 }}</ref> The Philippines won the [[2012 Philippine Peace Cup]], a friendly tournament hosted at home, which was their first title since the 1913 [[Football at the Far Eastern Games|Far Eastern Games]]. At the [[2012 AFF Championship]], the Philippines replicated their performance in 2010 by advancing to the semifinal. They lost to [[Singapore national football team|Singapore]] on aggregate by a single goal in the two-legged semifinal.
+{{football squad on pitch|align=left
+|GK =  <big>'''15'''</big><br>[[Michael Falkesgaard|'''Falkesgaard''']]
+|RB = <big>'''6'''</big><br>[[Luke Woodland|'''Woodland''']]
+|RCB = <big>'''2'''</big><br>[[Álvaro Silva (footballer)|'''Á. Silva''']]
+|LCB = <big>'''12'''</big><br>[[Stephan Palla|'''Palla''']]
+|LB = <big>'''11'''</big><br>[[Daisuke Sato (footballer)|'''Sato''']]
+|DM = <big>'''4'''</big><br>[[John-Patrick Strauß|'''Strauß''']]
+|RCM = <big>'''8'''</big><br>[[Manny Ott|'''Ma. Ott''']]
+|LCM = <big>'''14'''</big><br>[[Kevin Ingreso|'''Ingreso''']]
+|AM = <big>'''17'''</big><br>[[Stephan Schröck|'''Schröck (C)''']]
+|LCF = <big>'''20'''</big><br>[[Javier Patiño|'''Patiño''']]
+|RCF = <big>'''18'''</big><br>[[Patrick Reichelt|'''Reichelt''']]
+| caption =  The starting lineup of the Azkals in their first-ever AFC Asian Cup match, against the [[South Korea national football team|South Korea]] during the [[2019 AFC Asian Cup]].
+}}
+The Philippines reached the final of the [[2014 AFC Challenge Cup]]. With a berth to the [[2015 AFC Asian Cup]] on the line, the Philippines lost to [[Palestine national football team|Palestine]] 1–0 on May 30. The Philippines once again advanced from the group stage at the [[2014 AFF Championship]] by winning over [[Indonesia national football team|Indonesia]], the first time since the [[1934 Far Eastern Games]],<ref>{{cite web |url=https://ph.sports.yahoo.com/news/historic-win--azkals-crush-indonesia--4-0--to-make-semis-of-aff-suzuki-cup-113301724.html |title=Historic win Azkals crush Indonesia |work=Yahoo! Philippines Sports |date=November 25, 2014 |access-date=November 26, 2014 |archive-url=https://web.archive.org/web/20141129133726/https://ph.sports.yahoo.com/news/historic-win--azkals-crush-indonesia--4-0--to-make-semis-of-aff-suzuki-cup-113301724.html |archive-date=November 29, 2014 }}</ref> and [[Laos national football team|Laos]] despite their loss to [[Vietnam national football team|Vietnam]].<ref>{{cite news|title=Azkals yield 3–1 result to Vietnam, enter Suzuki Cup semis as 2nd seed|url=http://www.gmanetwork.com/news/story/390267/sports/football/azkals-yield-3-1-result-to-vietnam-enter-suzuki-cup-semis-as-2nd-seed|access-date=December 12, 2014|work=GMA News|date=November 28, 2014|archive-date=November 29, 2014|archive-url=https://web.archive.org/web/20141129170842/http://www.gmanetwork.com/news/story/390267/sports/football/azkals-yield-3-1-result-to-vietnam-enter-suzuki-cup-semis-as-2nd-seed|url-status=live}}</ref> The Philippines faced [[Thailand national football team|Thailand]] in the two-legged semifinal, coming up with a goalless draw against their opponents at home in Manila but losing the away match at [[Bangkok]].<ref>{{cite news|title=Azkals fall to superior Thailand, 3-nil, to bow out of Suzuki Cup semis|url=http://www.gmanetwork.com/news/story/392037/sports/football/azkals-fall-to-superior-thailand-3-nil-to-bow-out-of-suzuki-cup-semis|access-date=December 12, 2014|work=GMA News|date=December 10, 2014|archive-date=September 24, 2015|archive-url=https://web.archive.org/web/20150924142707/http://www.gmanetwork.com/news/story/392037/sports/football/azkals-fall-to-superior-thailand-3-nil-to-bow-out-of-suzuki-cup-semis|url-status=live}}</ref>
+
+[[Thomas Dooley]] became the head coach of the national team. In October 2015 their 2–0 victory over [[Yemen national football team|Yemen]] in [[Doha]], [[Qatar]] in the [[2018 FIFA World Cup qualifying|2018 FIFA World Cup]] and [[2019 AFC Asian Cup qualification|2019 AFC Asian Cup qualifiers]] was their first-ever World Cup qualifier victory away from home.<ref>{{cite web|url=http://www.gmanetwork.com/news/story/505206/sports/football/phl-azkals-stun-yemen-with-two-goals-in-world-cup-qualifiers-in-doha|title=PHL Azkals stun Yemen with two goals in World Cup Qualifiers in Doha|work=GMA News Online|date=June 17, 2015 |access-date=October 7, 2015|archive-date=October 18, 2015|archive-url=https://web.archive.org/web/20151018202828/http://www.gmanetwork.com/news/story/505206/sports/football/phl-azkals-stun-yemen-with-two-goals-in-world-cup-qualifiers-in-doha|url-status=live}}</ref> Their campaign to qualify for the FIFA World Cup ended in the second round though they advance to the third round of the Asian Cup qualifiers.
+
+In late 2016 the Philippines jointly hosted the group stage of the [[2016 AFF Championship|AFF Championship]] with [[Myanmar]] though they fail to progress from the group stage like they did in the past three editions.[[File:Philippines national football team 20191601.jpg|thumb|Philippines in their debut tournament at the [[2019 AFC Asian Cup]].|246x246px]]Though the national team failed to qualify for the [[2018 FIFA World Cup]] in [[Russia]], they secured qualification for [[2019 AFC Asian Cup]] after defeating [[Tajikistan national football team|Tajikistan]], 2–1 at home in their final qualifier match. In May 2018, the national team reached 111th rank in the [[FIFA World Ranking]] making it the highest rank that the team has.<ref>{{cite web|url=http://www.the-afc.com/about-afc/memberassociations/tajikistan/philippines-create-history|title=Philippines create history|publisher=Asian Football Confederation|date=March 27, 2018|access-date=March 29, 2018|archive-date=March 28, 2018|archive-url=https://web.archive.org/web/20180328231800/http://www.the-afc.com/about-afc/memberassociations/tajikistan/philippines-create-history|url-status=live}}</ref><ref>{{cite news|last1=Agcaolli|first1=Lance|title=Azkals make history|url=https://businessmirror.com.ph/azkals-make-history/|access-date=March 28, 2018|work=BusinessMirror|date=March 28, 2018|archive-date=March 29, 2018|archive-url=https://web.archive.org/web/20180329053905/https://businessmirror.com.ph/azkals-make-history/|url-status=live}}</ref>
+The Philippines made its historic debut in the [[2019 AFC Asian Cup]] with a 0–1 defeat to [[South Korea national football team|South Korea]].<ref>{{Cite web |url=https://www.channelnewsasia.com/news/sport/football-south-korea-edge-philippines-1-0-at-asian-cup-11095690 |archive-url=https://web.archive.org/web/20190203061245/https://www.channelnewsasia.com/news/sport/football-south-korea-edge-philippines-1-0-at-asian-cup-11095690  |archive-date=February 3, 2019 |title=Channel News Asia |work=Channel NewsAsia |access-date=February 4, 2019 }}</ref> then a 0–3 loss to [[China national football team|China]]<ref>[http://pff.org.ph/2019/01/12/asiancup2019-philippines-0-3-china-pr/ #AsianCup2019 Philippines 0-3 China PR] {{Webarchive|url=https://web.archive.org/web/20190319173538/http://pff.org.ph/2019/01/12/asiancup2019-philippines-0-3-china-pr/ |date=March 19, 2019 }} Philippine Football Federation, January 12, 2019</ref> and was edged 1–3 by [[Kyrgyzstan national football team|Kyrgyzstan]], with [[Stephan Schröck]] scoring a historic goal for the Azkals in the tournament.<ref>[http://kabar.kg/eng/news/asian-cup-2019-national-team-of-kyrgyzstan-wins-philippines-team-3-1/ Asian Cup 2019. Kyrgyzstan 3 - Philippines 1] {{Webarchive|url=https://web.archive.org/web/20190203115144/http://kabar.kg/eng/news/asian-cup-2019-national-team-of-kyrgyzstan-wins-philippines-team-3-1/ |date=February 3, 2019 }} KABAR, January 16, 2019</ref>
+
+===2020–present===
+Following a relatively successful debut in the Asian Cup, the Philippines began their [[2022 FIFA World Cup qualification (AFC)|2022 FIFA World Cup qualification]] where they were grouped together with [[Syria national football team|Syria]], [[China national football team|China]], [[Guam national football team|Guam]] and [[Maldives national football team|Maldives]]. In their opening game, the Azkals met Syria at home and took an early lead, only to see the Syrians manage an outstanding comeback and smash the Azkals 5–2 in [[Bacolod]].<ref>{{cite web|url = https://www.rappler.com/sports/football/239456-fifa-world-cup-qualifier-game-results-philippines-syria-september-5-2019/|title = Syria drubs Azkals in World Cup qualifiers opener|date = September 5, 2019|access-date = July 14, 2020|archive-date = October 27, 2020|archive-url = https://web.archive.org/web/20201027041034/https://www.rappler.com/sports/football/fifa-world-cup-qualifier-game-results-philippines-syria-september-5-2019|url-status = live}}</ref> Following the crushing home defeat, the Pinoys regained its pace with two away wins over Guam and the Maldives.<ref>{{cite web|url = http://pff.org.ph/2019/09/10/guam-1-4-philippines/|title = Guam 1-4 Philippines - The Philippine Football Federation| work=The Philippine Football Federation |date = September 10, 2019|access-date = July 14, 2020|archive-date = August 9, 2020|archive-url = https://web.archive.org/web/20200809103844/http://pff.org.ph/2019/09/10/guam-1-4-philippines/|url-status = live}}</ref><ref>{{cite web|url = http://pff.org.ph/2019/11/15/maldives-1-2-philippines/|title = Maldives 1-2 Philippines - The Philippine Football Federation| work=The Philippine Football Federation |date = November 15, 2019|access-date = July 14, 2020|archive-date = August 8, 2020|archive-url = https://web.archive.org/web/20200808150110/http://pff.org.ph/2019/11/15/maldives-1-2-philippines/|url-status = live | author1=Admin }}</ref> Between these matches, the Pinoys also hosted China at home where they acquired an encouraging goalless draw, after a splendid performance by the Azkals goalkeeper [[Neil Etheridge]] which increased the team's chance. However, the Syrians once again blew the chance of the Filipinos, with the Syrians emerging with a 1–0 win over the Azkals.<ref>{{Cite web |url=https://www.fifa.com/worldcup/news/syria-edge-closer-as-central-asian-duo-move-top |title=FIFA.com |access-date=July 14, 2020 |archive-date=August 8, 2020 |archive-url=https://web.archive.org/web/20200808041455/https://www.fifa.com/worldcup/news/syria-edge-closer-as-central-asian-duo-move-top |url-status=live }}</ref> When [[COVID-19 pandemic]] led the games to be postponed to 2021, the Philippines had to play in a centralised venue in [[Sharjah]]. The Filipinos then won against Guam 3–0, but lost 0–2 to China and thus did not manage to reach the [[2022 FIFA World Cup]], before ending the qualification with a 1–1 draw to the Maldives. Nonetheless, the third place in their group meant the Philippines qualified for the [[2023 AFC Asian Cup qualification – third round|third round of 2023 AFC Asian Cup qualifiers]].<ref>{{Cite web|url=https://www.postguam.com/sports/local/guam-falls-to-philippines-3-0-in-asian-qualifier/article_b5e70210-caf7-11eb-865e-4f25baf348f9.html|title=Guam falls to Philippines 3-0 in Asian Qualifier|date=June 12, 2021 |access-date=June 17, 2021|archive-date=June 15, 2021|archive-url=https://web.archive.org/web/20210615190804/https://www.postguam.com/sports/local/guam-falls-to-philippines-3-0-in-asian-qualifier/article_b5e70210-caf7-11eb-865e-4f25baf348f9.html|url-status=live}}</ref><ref>{{Cite web|url = https://www.scmp.com/sport/china/article/3136442/world-cup-2022-china-beat-philippines-asian-qualifiers-edge-closer|title = China's World Cup qualifying hopes intact after Philippines win|date = June 8, 2021|access-date = June 17, 2021|archive-date = November 2, 2022|archive-url = https://web.archive.org/web/20221102131833/https://www.scmp.com/sport/china/article/3136442/world-cup-2022-china-beat-philippines-asian-qualifiers-edge-closer|url-status = live}}</ref><ref>{{cite web| url = https://www.the-afc.com/competitions/afc-asian-cup/news/asian-qualifiers-group-a-philippines-maldives-end-campaign-with-draw| title = Asian Qualifiers - Group A: Philippines, Maldives settle for draw| access-date = June 17, 2021| archive-date = June 16, 2021| archive-url = https://web.archive.org/web/20210616034857/https://www.the-afc.com/competitions/afc-asian-cup/news/asian-qualifiers-group-a-philippines-maldives-end-campaign-with-draw| url-status = live}}</ref>
+
+At the third round of the [[2023 AFC Asian Cup]] qualifiers in [[Ulaanbaatar]], the Philippines managed to draw with [[Yemen national football team|Yemen]] 0–0 and defeat the hosts [[Mongolia national football team|Mongolia]] 1–0 through a last-minute goal by debutant [[Gerrit Holtmann]] but were defeated 4–0 by eventual group winners [[Palestine national football team|Palestine]]. Despite finishing second in [[2023 AFC Asian Cup qualification – third round#Group B|Group B]], in which the five best runner-up teams across all the groups qualify for the tournament, the Azkals failed to qualify for the [[2023 AFC Asian Cup]] after finishing as the [[2023 AFC Asian Cup qualification – third round#Ranking of runner-up teams|worst runner-up]].<ref>{{cite news |last1=Morales |first1=Luisa |title=Azkals miss out on AFC Asian Cup slot |url=https://www.philstar.com/sports/2022/06/15/2188544/azkals-miss-out-afc-asian-cup-slot |access-date=June 15, 2022 |work=[[The Philippine Star]] |date=June 15, 2022 |archive-date=June 15, 2022 |archive-url=https://web.archive.org/web/20220615034555/https://www.philstar.com/sports/2022/06/15/2188544/azkals-miss-out-afc-asian-cup-slot |url-status=live }}</ref>
+
+Philippines then played in the second round of the [[2026 FIFA World Cup qualification (AFC)#Second round|2026 FIFA World Cup qualification]] being place alongside [[Iraq national football team|Iraq]] and two regional rivals, Indonesia and Vietnam. The team the finished last in the table with 1 draw against Indonesia on November 21, 2023, and 5 losses.
+
+Long-time general manager, Dan Palami stepped down from his role in January 2024.<ref>{{cite news |last1=Verzosa |first1=Pauline |title=Azkals team manager Dan Palami steps down after 14 years |url=https://www.cnnphilippines.com/sports/2024/1/10/azkals-team-manager-dan-palami-steps-down.html |archive-url=https://web.archive.org/web/20240109234133/https://www.cnnphilippines.com/sports/2024/1/10/azkals-team-manager-dan-palami-steps-down.html |url-status=dead |archive-date=January 9, 2024 |access-date=January 10, 2024 |work=CNN Philippines |date=January 10, 2024 |language=en}}</ref><ref>{{cite news |last1=Anzures |first1=Rom |title=Football: PFF aims to build strongest Azkals roster, says Gutierrez |url=https://www.abs-cbn.com/sports/01/09/24/pff-aims-to-build-strongest-azkals-roster-says-gutierrez |access-date=January 9, 2024 |work=ABS-CBN News |date=January 9, 2024}}</ref> In 2024, Philippines was invited by Malaysia for the [[2024 Merdeka Tournament]] in September and Thailand for the [[2024 King's Cup]] in October. Philippines then played in the [[2024 ASEAN Championship]] drawing 1–1 all their first group stage match against [[Myanmar national football team|Myanmar]], [[Laos national football team|Laos]] and [[Vietnam national football team|Vietnam]]. Needing a win in their final group stage fixtures against Indonesia, against all odds, Philippines went on to win 1–0 after [[Bjørn Martin Kristensen]] scored from the penalty spot to secure a spot in the semi-finals where the team didn't lose a game in the group stage. During the first leg of the semi-finals match on December 27 against Thailand, with the match coming to an end, [[Kike Linares]] scored in the 90+5' stoppage time header to secured a 2–1 win which then see Philippines beating Thailand for the first time in 52 years.
+
+==Team image==
+
+===Supporters===
+Some fans have organized themselves to support the national team, one of them is the [[Ultras Filipinas]], which formed in 2011.<ref>{{cite news|last1=Sacamos|first1=Karlo|title=Kaholeros' dogged determination: Azkals' travelling fans make presence felt in enemy territory|url=http://www.spin.ph/football/special-reports/kaholeros-azkals-travelling-fans-booster-squad-suzuki-cup-vietnam-hanoi-football-philippines|access-date=March 27, 2015|publisher=Sports Interactive Network Philippines|date=December 4, 2014|archive-date=December 16, 2014|archive-url=https://web.archive.org/web/20141216091235/http://www.spin.ph/football/special-reports/kaholeros-azkals-travelling-fans-booster-squad-suzuki-cup-vietnam-hanoi-football-philippines|url-status=live}}</ref><ref name=hansonkaholerosultas>{{cite AV media | people=Smit, Hans and Jamlang, Jing (Hosts); Villaflor, Ysabel and Daniel, Xerxes (Guests) | date=September 24, 2015 | title=Kaholeros and Ultras Filipinas | medium=Podcast | series=Hans-On |location=Philippines | publisher=NMF Sports}}</ref> The Kaholeros started out as a gathering of friends using [[Twitter]] calling for fans to watch games of the [[AFC Challenge Cup]] at the National Sports Grill in [[Greenbelt]]. The 'Ultras Filipinas' was established when fans of [[Philippine Air Force F.C.|Philippine Air Force]] and 'Ultras Kayas' decided to form a support group for the national teams of the Philippines not necessarily just for the football team. The first outing of Ultras Filipinas was not for the national football team but for the [[Philippines national rugby union team|national rugby union team]]. The two fan groups take alternative turns in cheering and chanting for the national team during games.<ref name=hansonkaholerosultas/>
+
+===Colors===
+{{Commons|Philippines national football team kits}}
+{| class="wikitable floatleft"
+! colspan="2" |Kit suppliers of the Philippine national team
+|-
+! Company
+! Dates
+|-
+| {{flagicon|Germany}} [[Puma SE|Puma]]
+|align=center|1996
+|-
+|{{flagicon|Germany}} [[Adidas]]
+|align=center|1996–2004
+|-
+| {{flagicon|JPN}} [[Asics]]
+|align=center|2005
+|-
+| {{flagicon|Germany}} [[Adidas]]
+|align=center|2006
+|-
+| {{flagicon|JPN}} [[Mizuno]]
+|align=center|2008–2012
+|-
+| {{flagicon|PHI}} [[LGR Sportswear|LGR]]
+|align=center|2012
+|-
+| {{flagicon|Germany}} [[Puma SE|Puma]]
+|align=center|2012–2015
+|-
+| {{flagicon|PHI}} [[LGR Sportswear|LGR]]
+|align=center|2015–2021
+|-
+| {{flagicon|ESP}} [[Kelme (company)|Kelme]] 
+|align=center|2021–2023
+|-
+| {{flagicon|PHI}} Chronos (as Azkals Sportswear){{refn|The kits were designed by JerseyBird, manufactured by Chronos Athletics and distributed under a subsidiary brand, Azkals Sportswear.|group="note"|name="azkalschronos"}}
+|align=center|2023–2024
+|-
+| {{flagicon|Germany}} [[Puma SE|Puma]]
+|align=center|2024–''present''
+|}
+The traditional home kit is similar to the [[France national football team|France national team]]; blue jersey, white shorts, and red socks.<ref>{{cite web |url=https://www.rsssf.org/colours/natteams.html |title=National Teams&nbsp;– Team Colors |author=Geraldes, Pablo Aro |website=[[RSSSF]] |access-date=October 20, 2010 |archive-date=July 16, 2022 |archive-url=https://web.archive.org/web/20220716214047/https://www.rsssf.org/colours/natteams.html |url-status=live }}</ref>  However, in recent times, the home and away kit has either been all-blue, all-red or all-white, currently is the all-white as home jerseys.<ref name=shirt2013>{{cite news|last1=Guerrero|first1=Bob|title=New Azkals shirt unveiled, plus other Football notes|url=https://ph.sports.yahoo.com/blogs/the-passionate-fan/azkals-shirt-unveiled-plus-other-football-notes-024919235.html|access-date=March 27, 2015|work=The Passionate Fan|publisher=Yahoo! Philippines|date=October 8, 2013|archive-url=https://web.archive.org/web/20150402162904/https://ph.sports.yahoo.com/blogs/the-passionate-fan/azkals-shirt-unveiled-plus-other-football-notes-024919235.html|archive-date=April 2, 2015}}</ref> The current kit supplier of the national team is German sportswear [[Puma SE|Puma]]. [[Adidas]], as well as Japanese company [[Mizuno Corporation|Mizuno]], has provided kits for the team in the past.
+
+[[Puma SE|Puma]] was the official outfitter of the national team during the [[1996 AFC Asian Cup qualification]].<ref>{{cite news|title=Puma continues support for football|url=https://news.google.com/newspapers?id=Ef4tAAAAIBAJ&pg=1997%2C4626280|access-date=March 31, 2015|newspaper=Manila Standard Today|date=January 27, 1996|archive-date=November 20, 2021|archive-url=https://web.archive.org/web/20211120110533/https://news.google.com/newspapers?id=Ef4tAAAAIBAJ&pg=1997%2C4626280|url-status=live}}</ref> Later that year, [[Adidas]] assumed that role and outfitted the team that participated at the [[1996 Tiger Cup]].<ref>{{cite news|last1=Amigo|first1=Ismael|title=Filipinos face Singaporeans Today|url=https://news.google.com/newspapers?id=XpQVAAAAIBAJ&pg=6563%2C1020377|access-date=March 26, 2015|newspaper=Manila Standard Today|date=September 7, 1996|archive-date=November 5, 2021|archive-url=https://web.archive.org/web/20211105110328/https://news.google.com/newspapers?id=XpQVAAAAIBAJ&pg=6563%2C1020377|url-status=live}}</ref>
+
+For three years from March 2008, [[Mizuno Corp.|Mizuno]] served as the official outfitter and equipment supplier of the team. It also helped the national federation in its grassroots development program.<ref>{{cite news |url=http://www.aseanfootball.org/?p=1795 |title=Philippines FA sign with Mizuno |work=AseanFootball.org |publisher=ASEAN Football Federation |date=March 16, 2008 |access-date=May 6, 2010 |archive-date=July 25, 2011 |archive-url=https://web.archive.org/web/20110725021442/http://www.aseanfootball.org/?p=1795 |url-status=live }}</ref><ref>{{cite web |url=http://mizuno.ph/index.php/news/entry/pff_mizuno_sign_p9_m_contract/ |archive-url=https://web.archive.org/web/20090131145635/http://mizuno.ph/index.php/news/entry/pff_mizuno_sign_p9_m_contract/  |archive-date=January 31, 2009 |title=PFF, Mizuno sign P9-M contract |work=Mizuno.ph |publisher=Mizuno Corporation Philippines |date=April 3, 2008 |access-date=May 6, 2010 }}</ref> On June 4, 2012, [[Puma SE|Puma]] supplanted Mizuno's role with the national team.<ref>{{cite web |url=http://www.footballkitnews.com/5501/new-philippines-away-kit-2012-2013-azkals-puma-jersey-12-13/ |title=New Philippines Away Kit 2012-2013- Azkals Puma Jersey 12–13 |publisher=Football Kit News |date=June 4, 2012 |access-date=June 5, 2012 |archive-date=June 7, 2012 |archive-url=https://web.archive.org/web/20120607192448/http://www.footballkitnews.com/5501/new-philippines-away-kit-2012-2013-azkals-puma-jersey-12-13/ |url-status=live }}</ref>
+
+Local firm [[LGR Sportswear]] became the official kit provider of the national team in 2015 and a new set of kits made by LGR were unveiled to the public on June 5 which was later used by the team at the [[2018 FIFA World Cup qualification (AFC)|2018 FIFA World Cup qualifiers]]. The home and away kits were white and blue respectively. Filipino weave design and [[Flag of the Philippines|the three stars and the sun]] are present at the back of the home and away kits. The goalkeeper's kit is black and has a yellow trim on the chest area and a weave pattern with the three stars and the sun and Azkals logo incorporated in the design, in front around the shoulder area. Adidas was also announced as the footwear sponsor of the team for the qualifiers.<ref name=lgrkit>{{cite news|last1=Leongson|first1=Randolph|title=Azkals unveil locally-made kit for World Cup qualifiers|url=http://sports.inquirer.net/183066/azkals-unveil-locally-made-kit-for-world-cup-qualifiers|access-date=June 4, 2015|newspaper=Philippine Daily Inquirer|date=June 4, 2015|archive-date=June 4, 2015|archive-url=https://web.archive.org/web/20150604130227/http://sports.inquirer.net/183066/azkals-unveil-locally-made-kit-for-world-cup-qualifiers|url-status=live}}</ref>
+
+Spanish sportswear brand [[Kelme (company)|Kelme]] became the official kit provider of the national team in 2021.<ref>{{cite news |last1=Naredo |first1=Camille |title=Spanish brand Kelme is new outfitter of PH Azkals |url=https://www.abs-cbn.com/sports/06/09/21/football-spanish-brand-kelme-is-new-outfitter-of-ph-azkals |access-date=June 9, 2021 |work=ABS-CBN News |date=June 9, 2021 |archive-date=June 9, 2021 |archive-url=https://web.archive.org/web/20210609124843/https://news.abs-cbn.com/sports/06/09/21/football-spanish-brand-kelme-is-new-outfitter-of-ph-azkals |url-status=live }}</ref>
+
+In June 2022, the team used Chronos Athletics-made kits when they competed in the third round of the [[2023 AFC Asian Cup qualification – third round|2023 AFC Asian Cup qualifiers]] in Mongolia. It was later explained that the Kelme kits they were supposed to wear arrived late.
+
+Following Kelme's deal with the Philippines expiring in January 2023, local sportswear brand Chronos Athletics finally became the Philippines' new kit supplier. In March 2023, following a [[TikTok]] video that went [[Viral video|viral]], presenting a concept shirt for the Philippines. The management then decided to acquire the design made by JerseyBird, a small US-based sportswear brand. Chronos Athletics remained as the kit supplier, with both sides agreed to retain the JerseyBird logo on the kits and to be distributed under a subsidiary brand, Azkals Sportswear.<ref>{{cite news |title=After Going Viral On TikTok: Incredible Philippines 2023 Concept Kit Becomes Official National Team Shirt |url=https://www.footyheadlines.com/2023/03/jerseybird-philippines-2023-home-goalkeeper-kits.html |access-date=April 1, 2023 |work=Footy Headlines |date=March 24, 2023 |archive-date=April 1, 2023 |archive-url=https://web.archive.org/web/20230401150307/https://www.footyheadlines.com/2023/03/jerseybird-philippines-2023-home-goalkeeper-kits.html |url-status=live }}</ref>
+
+In the recent [[2026 FIFA World Cup qualification]] match against Iraq, the Philippines were seen wearing a new kit design supplied by [[Puma SE|Puma]]. On May 3, 2024, Philippines announced a four-year partnership with Puma until 2028.<ref>{{cite news|title=Puma Official Outfitter Philippine Mens Booters |url=https://qa.philstar.com/sports/2024/05/03/2352324/puma-official-outfitter-philippine-mens-booters |access-date=June 12, 2024 |work=Philstar |date=May 3, 2024 |archive-date=May 4, 2024 |archive-url=https://web.archive.org/web/20240504065627/https://qa.philstar.com/sports/2024/05/03/2352324/puma-official-outfitter-philippine-mens-booters |url-status=live }}</ref>
+
+===Names===
+{{Multiple image
+ | align         = right
+ | caption_align = center
+ | total_width   = 280
+
+| image1        = Azkals Futbol Logo.svg
+ | alt1          = The wordmark for Azkals Philippines featuring a dog's head, a football, and the official colors of the Philippine flag
+ | caption1      = Logo of Azkals Philippines
+ | image2        = Logo Azkals.svg
+ | alt2          = A blue, red, white, and gold crest featuring a dog's head, a football, and the nickname of the national team, The Azkals
+ | caption2      = Crest
+
+| footer        = The monicker ''Azkals'' is only used in broadcasts and not used in an official{{contradicts-inline|date=December 2024}} capacity
+ | footer_align  = center
+}}
+Under the official [[List of FIFA country codes|FIFA Trigramme]] the team's name is abbreviated as '''PHI'''; this acronym is used by [[FIFA]], the [[Asian Football Confederation|AFC]] and the [[ASEAN Football Federation|AFF]] to identify the team in official competitions.<ref name=fifaphi>{{cite web |url=https://www.fifa.com/associations/association=phi/countryInfo.html |archive-url=https://web.archive.org/web/20070630194310/http://www.fifa.com/associations/association=phi/countryInfo.html  |archive-date=June 30, 2007 |title=Country info&nbsp;– Philippines |work=FIFA.com |publisher=Fédération Internationale de Football Association |access-date=October 20, 2010 }}</ref> The team is also identified under the [[International Organization for Standardization]] (ISO) [[ISO 3166-1 alpha-3|country code]] for the Philippines as '''PHL'''.<ref>{{cite web |url=http://www.ciolek.com/OWTRAD/iso3166-countrycodes.html |title=ISO 3166 Country Codes |work=Ciolek.com |publisher=ISO 3166 Maintenance Agency |access-date=October 20, 2010 |archive-date=August 11, 2010 |archive-url=https://web.archive.org/web/20100811005630/http://www.ciolek.com/OWTRAD/iso3166-countrycodes.html |url-status=live }}</ref> However the team was more commonly known as the '''RP''', the acronym for the country's official name, ''Republika ng Pilipinas'',<ref name=fifaphi/> which the local press used when they referred to the team as the "RP Booters"<ref>{{cite web |url=https://news.google.com/archivesearch?q=rp+booters&ie=UTF-8&oe=UTF-8&btnG=Search+Archives |title=RP booters&nbsp;– Google News Archive Search |access-date=October 20, 2010 |archive-date=July 16, 2011 |archive-url=https://web.archive.org/web/20110716021110/http://news.google.com/archivesearch?q=rp+booters&ie=UTF-8&oe=UTF-8&btnG=Search+Archives |url-status=live }}</ref> or the "RP XI".<ref>{{cite web |url=https://news.google.com/archivesearch?q=rp+xi&btnG=Search+Archives&ie=UTF-8&oe=UTF-8&scoring=a |title=RP XI&nbsp;– Google News Archive Search |access-date=October 20, 2010 |archive-date=July 16, 2011 |archive-url=https://web.archive.org/web/20110716021121/http://news.google.com/archivesearch?q=rp+xi&btnG=Search+Archives&ie=UTF-8&oe=UTF-8&scoring=a |url-status=live }}</ref>  This was until late October 2010 when the [[Department of Foreign Affairs (Philippines)|Department of Foreign Affairs]] decided to change the official abbreviation of the country from "RP" to "PH" or "PHL", to be in line with ISO standards.<ref>{{cite news |url=http://www.philstar.com/news-feature/624962/dfa-junks-rp-ph-or-phl |title=DFA junks 'RP' for 'PH' or 'PHL' |author=Lee-Brago, Pia |work=The Philippine Star |date=October 29, 2010 |access-date=November 1, 2013 |archive-date=November 4, 2013 |archive-url=https://web.archive.org/web/20131104180637/http://www.philstar.com/news-feature/624962/dfa-junks-rp-ph-or-phl |url-status=live }}</ref> The local press have since referred to the team as either "PH/PHL Booters"<ref>{{cite news |url=http://www.mb.com.ph/node/291279/ph-booter |title=PH booters make history |author=Terrado, Jonas |work=Manila Bulletin |date=December 6, 2010 |access-date=February 9, 2011 |archive-date=December 11, 2010 |archive-url=https://web.archive.org/web/20101211013521/http://www.mb.com.ph/node/291279/ph-booter |url-status=live }}</ref><ref>{{cite news |url=http://www.gmanews.tv/story/207414/phl-booters-force-fancied-singapore-to-1-1-draw |title=PHL booters force fancied Singapore to 1–1 draw |author=Perez, Jon |work=GMAnews.tv |date=December 2, 2010 |access-date=February 9, 2011 |archive-date=February 5, 2011 |archive-url=https://web.archive.org/web/20110205040853/http://www.gmanews.tv/story/207414/phl-booters-force-fancied-singapore-to-1-1-draw |url-status=live }}</ref> or "PH/PHL XI".<ref>{{cite news |url=http://www.inquirer.net/sports/articles/PH-XI-shocks-defending-champ-Vietnam-2-0.html |title=PH XI shocks defending champ Vietnam, 2–0 |author=Tupas, Cedelf P. |newspaper=Philippine Daily Inquirer |date=December 8, 2010 |access-date=February 9, 2011 |archive-url=https://web.archive.org/web/20101209082123/http://www.inquirer.net/sports/articles/PH-XI-shocks-defending-champ-Vietnam-2-0.html |archive-date=December 9, 2010 }}</ref><ref>{{cite news |url=http://www.philstar.com/Article.aspx?articleid=637569 |title=Phl XI plays Myanmar to scoreless draw |work=The Philippine Star |date=December 9, 2010 |access-date=February 9, 2011 }}{{Dead link|date=December 2018 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+
+They were also known as the "Tri–Stars," which was derived from the three stars on the [[Flag of the Philippines|Philippine flag]], although this nickname was not frequently used.<ref>{{cite web |url=http://www.topendsports.com/sport/soccer/team-nicknames.htm |title=Football Team Nicknames |publisher=Top End Sports |access-date=January 8, 2011 |archive-date=August 13, 2011 |archive-url=https://web.archive.org/web/20110813111201/http://www.topendsports.com/sport/soccer/team-nicknames.htm |url-status=live }}</ref>
+
+The national team was referred to as the "Azkals".<ref>{{cite news |url=http://www.abs-cbnnews.com/pinoy-migration/01/27/09/philippine-united-first-pinoy-soccer-team-uk |title=Philippine United: First Pinoy football team in UK |first=Edward |last=Lao |work=ABS-CBN |date=January 28, 2000 |access-date=December 3, 2010 |archive-date=November 15, 2010 |archive-url=https://web.archive.org/web/20101115213156/http://www.abs-cbnnews.com/pinoy-migration/01/27/09/philippine-united-first-pinoy-soccer-team-uk |url-status=live }}</ref> The name was coined when an online Philippine football community proposed the nickname ''Calle Azul'' (Spanish for ''Streets of Blue'', referring to the color of their kit) which was modified to ''Azul Calle'', shortened to ''AzCal'', and finally became ''Azkal''&nbsp;– a word that is similar to Filipino term ''[[Askal]]'' meaning street dog.<ref>{{cite news |url=http://www.sunstar.com.ph/cebu/sports/2011/04/03/limpag-i-started-joke-148540 |title=Limpag: I started a joke... |author=Limpag, Mike |work=Sun Star |location=Cebu |date=April 3, 2011 |access-date=October 15, 2011 |archive-url=https://web.archive.org/web/20110406022756/http://www.sunstar.com.ph/cebu/sports/2011/04/03/limpag-i-started-joke-148540 |archive-date=April 6, 2011 }}</ref> "Azkals" became a trending topic on Twitter during the semifinals of the [[2010 AFF Championship]].<ref>{{cite news |url=http://www.gmanews.tv/story/208582/azkals-beat-timnas-indonesia-on-twitter |title=Azkals beat Timnas Indonesia&nbsp;– on Twitter |first=TJ |last=Dimacali |work=GMA News |date=December 17, 2010 |access-date=December 21, 2010 |archive-date=December 20, 2010 |archive-url=https://web.archive.org/web/20101220035008/http://www.gmanews.tv/story/208582/azkals-beat-timnas-indonesia-on-twitter |url-status=live }}</ref> The name would be officially adopted by the PFF during the tenure of general team manager [[Dan Palami]] until 2023. Its discontinuation of its use by the federation was confirmed in February 2024.<ref name="moving-on">{{cite news |last1=Carandang |first1=Kenenth |title=Moving on: Why the PH men's football team dropped 'Azkals' name |url=https://www.gmanetwork.com/news/sports/football/898719/moving-on-why-the-ph-men-s-football-team-dropped-azkals-name/story/ |access-date=February 27, 2024 |work=GMA News |date=February 27, 2024}}</ref> The Azkals name would be adopted by an [[Azkals 7s|independent 7-a-side club]] in 2024 competing in the [[7's Football League]] led by Palami and former national team players.<ref>{{cite news |last1=Leyba |first1=Olmin |title=Azkals legacy continues with Asia 7s Championship stint |url=https://www.philstar.com/sports/2024/08/28/2381210/azkals-legacy-continues-asia-7s-championship-stint |access-date=September 12, 2024 |work=The Philippine Star |date=August 28, 2024}}</ref><ref>{{cite news |title=Azkals get honored ahead of Asia 7's bid |url=https://tribune.net.ph/2024/09/07/azkals-get-honored-ahead-of-asia-7s-bid |access-date=September 12, 2024 |work=Daily Tribune |date=September 8, 2024 |language=en}}</ref> There are no serious efforts to replace the "Azkals" moniker as of December 2024.<ref>{{cite news |last1=Terrado |first1=Jonas |title=Even without moniker, PH XI still source of PH pride |url=https://sports.inquirer.net/600645/even-without-moniker-ph-xi-still-source-of-ph-pride |access-date=31 December 2024 |newspaper=Philippine Daily Inquirer |date=31 December 2024 |language=en}}</ref>
+
+===Home stadium===
+During the early years of the Philippine national team, they played their home matches at the [[Manila]] Carnival Grounds. By 1934 it became the site of the [[Rizal Memorial Sports Complex]].<ref>{{cite news |url=http://www.abante-tonite.com/issue/may2707/leisure_trivia.htm |title=Leisure&nbsp;– Trivia |work=Abante |location=Manila |language=fil |date=May 27, 2007 |access-date=August 25, 2010 |archive-url=https://web.archive.org/web/20070715230501/http://www.abante-tonite.com/issue/may2707/leisure_trivia.htm |archive-date=July 15, 2007 }}</ref> One of the facilities within the complex is the 12,000 capacity [[national stadium]], known as the Rizal Memorial Track and Football Stadium or simply the Rizal Memorial Stadium.  Since its opening, it has been the home venue of the Philippine national team until May 2015 when they declared the 25,000 seater and [[Philippine Sports Stadium]] in [[Bocaue, Bulacan]] as their new home. However, due to disappointing attendance numbers in PSS and RMS and an impressive crowd for [[Ceres–Negros F.C.|Ceres–Negros]]'s run to the [[2017 AFC Cup]], the [[Philippine Football Federation]] decided to make [[Panaad Park and Stadium|Panaad Stadium]] the national team's home again for the [[2019 AFC Asian Cup qualification|2019 AFC Asian Cup qualifiers]].<ref>{{ cite news |last=Tupas |first=Cedelf |title=Impressed by turnout, PFF sends Azkals back to Panaad |newspaper=[[Philippine Daily Inquirer]] |date=March 8, 2017 }}</ref>
+
+The RMS has also become a hub for [[track and field]]. The continued use for athletics along with poor maintenance has deteriorated the stadium and the [[1991 Southeast Asian Games]] was the last time it was used for international football matches.vIn early 2009, the [[Philippine Sports Commission]] planned to transform it to a modern football stadium which would make it usable by the national team for international matches.<ref>{{cite news|url=http://sports.inquirer.net/breakingnews/breakingnews/view/20090329-196760/PSC-plans-to-restore-RMSC-football-field |title=PSC plans to restore RMSC football field |newspaper=Philippine Daily Inquirer |author=Navarro, June |date=March 29, 2009 |access-date=May 13, 2010 |archive-url=https://web.archive.org/web/20090331083800/http://sports.inquirer.net/breakingnews/breakingnews/view/20090329-196760/PSC-plans-to-restore-RMSC-football-field |archive-date=March 31, 2009 }}</ref>
+
+The national team also held official international matches at the [[Cebu City Sports Center]] in [[Cebu City]],<ref name=cebu>{{cite news|last1=Alison|first1=Mars|title=Historic Azkals-Lions friendly introduces sons of Cebu to local football fans|url=http://newsinfo.inquirer.net/308902/historic-azkals-lions-friendly-introduces-sons-of-cebu-to-local-football-fans|access-date=March 26, 2015|newspaper=Philippine Daily Inquirer|publisher=Cebu Daily News|date=November 18, 2012|archive-date=June 30, 2015|archive-url=https://web.archive.org/web/20150630214603/http://newsinfo.inquirer.net/308902/historic-azkals-lions-friendly-introduces-sons-of-cebu-to-local-football-fans|url-status=live}}</ref> and at the [[Barotac Nuevo Plaza Field]] in [[Barotac Nuevo]], [[Iloilo]].<ref>{{cite news|title=Philippines Fail to Qualify for AFC Challenge Cup|url=http://www.aseanfootball.org/v2/?p=5881|access-date=March 26, 2015|publisher=ASEAN Football Federation|date=May 18, 2008|location=lloilo City|archive-date=March 4, 2016|archive-url=https://web.archive.org/web/20160304115417/http://www.aseanfootball.org/v2/?p=5881|url-status=live}}</ref>
+
+{| class="wikitable mw-collapsible "
+!colspan=5|Philippines national football team home stadiums
+|-
+!Image
+!Stadium
+!Capacity
+!Location
+!Last match
+|-
+|[[File:New Clark City Stadium - south entrance (Capas, Tarlac; 12-11-2019).jpg|150px]]
+|style="text-align:left"|[[New Clark City Athletics Stadium]]
+|style="text-align:left"|20,000
+|style="text-align:left"|[[Capas]], [[Tarlac]]
+|style="text-align:left"|'''v'''&nbsp;&nbsp;{{fb|TLS}}<br /><small>(Oct 14, 2025; [[2027 AFC Asian Cup qualification – third round|2027 AFC Asian Cup qualification]])</small>
+|-
+|[[File:JfCiudadINC29PhilArenaStadiumfvf.JPG|150px]]
+|style="text-align:left"|[[Philippine Sports Stadium]]
+|style="text-align:left"|20,000
+|style="text-align:left"|[[Santa Maria, Bulacan|Santa Maria]], [[Bulacan]]
+|style="text-align:left"|'''v'''&nbsp;&nbsp;{{fb|THA}}<br /><small>(November 25, 2016; [[2016 AFF Championship]])</small>
+|-
+|[[File:RizalMemorialStadiumjf9861 04.JPG|150px]]
+|style="text-align:left"|[[Rizal Memorial Stadium]]
+|style="text-align:left"|12,873
+|style="text-align:left"|[[Manila]]
+|style="text-align:left"|'''v'''&nbsp;&nbsp;{{fb|MYA}}<br /><small>(June 9, 2026; [[Exhibition game|Friendly]])</small>
+|-
+|[[File:Panaad Stadium.jpg|150px]]
+|style="text-align:left"|[[Panaad Stadium]]
+|style="text-align:left"|10,500
+|style="text-align:left"|[[Bacolod]]
+|style="text-align:left"|'''v'''&nbsp;&nbsp;{{fb|CHN}}<br /><small>(October 15, 2019; [[2022 FIFA World Cup qualification]])</small>
+|-
+|[[File:Cebu City Sports Complex.jpg|150px]]
+|style="text-align:left"|[[Cebu City Sports Center]]
+|style="text-align:left"|5,500
+|style="text-align:left"|[[Cebu City]]
+|style="text-align:left"|'''v'''&nbsp;&nbsp;{{fb|MAS}}<br /><small>(April 27, 2014; [[Exhibition game|Friendly]])</small>
+|-
+|}
+
+==Results and fixtures==
+{{further|Philippines national football team results (2020–present)}}
+The following is a list of match results in the last 12 months, as well as any future matches that have been scheduled.
+
+{{legend2|#CCFFCC|Win|border=1px solid #AAAAAA}}
+{{legend2|#FFFFCC|Draw|border=1px solid #AAAAAA}}
+{{legend2|#FFCCCC|Loss|border=1px solid #AAAAAA}}
+{{legend2|#FFFFFF|Fixture|border=1px solid #AAAAAA}}
+
+===2025===
+{{footballbox collapsible
+| format     = 1
+| round      = [[2027_AFC_Asian_Cup_qualification_–_third_round|2027 AFC Asian Cup qualification]]
+| date       = October 9
+| time       = {{UTZ|19:00|9:30}}
+| team1      = {{fb-rt|TLS}}
+| score      = 1–4
+| report     = [https://www.the-afc.com/en/national/afc_asian_cup.html/news/qualifiers-group-a-timor-leste-1-4-philippines Report (AFC)]
+| team2      = {{fb|PHI}}
+| goals1     = 
+*[[Gali Freitas|Freitas]] {{goal|47}}
+| goals2     = 
+*[[Bjørn Martin Kristensen|Kristensen]] {{goal|15||31||49||56}}
+| stadium    = [[Territory Rugby League Stadium]]
+| location   = [[Darwin, Northern Territory|Darwin]], Australia
+| attendance = 1,356
+| referee    = Yudi Nurcahya ([[Football Association of Indonesia|Indonesia]])
+| result     = W
+}}
+{{footballbox collapsible
+| format     = 1
+| round      = [[2027_AFC_Asian_Cup_qualification_–_third_round|2027 AFC Asian Cup qualification]]
+| date       = October 14
+| time       = {{UTZ|19:00|8}}
+| team1      = {{fb-rt|PHI}}
+| score      = 3–1
+| report = [https://globalsportsarchive.com/en/soccer/match/2025-10-14/philippines-vs-timor-leste/3587557 Report]<br>[https://www.the-afc.com/en/national/afc_asian_cup.html/news/qualifiers-group-a-philippines-3-1-timor-leste Report (AFC)]
+| team2      = {{fb|TLS}}
+| goals1 = 
+*[[Jefferson Tabinas|J. Tabinas]] {{goal|46}}
+*[[Bjørn Martin Kristensen|Kristensen]] {{goal|70}}
+*[[Jarvey Gayoso|Gayoso]] {{goal|90+1}}
+| goals2 = 
+*[[João Rangel|Rangel]] {{goal|45+1}}
+| stadium = [[New Clark City Athletics Stadium]]
+| location = [[Capas]], Philippines
+| attendance = 10,034
+| referee    = Torphong Somsing ([[Football Association of Thailand|Thailand]])
+| result     = W
+}}
+{{footballbox collapsible
+| format     = 1
+| round      = [[2027_AFC_Asian_Cup_qualification_–_third_round|2027 AFC Asian Cup qualification]]
+| date       = November 18 
+| time       = {{UTZ|15:30|5:30}}
+| team1      = {{fb-rt|MDV}}
+| score      = 0–2
+| report     = [https://globalsportsarchive.com/en/soccer/match/2025-11-18/maldives-vs-philippines/3587560 Report]<br>[https://www.the-afc.com/en/national/afc_asian_cup.html/news/qualifiers-group-a-maldives-0-2-philippines Report (AFC)] 
+| team2      = {{fb|PHI}}
+| goals1     = 
+| goals2     =
+*[[Jefferson Tabinas|J. Tabinas]] {{goal|24}}
+*[[Sandro Reyes|Reyes]] {{goal|37}}
+| stadium = [[National Football Stadium (Maldives)|National Football Stadium]]
+| location = [[Malé]], Maldives
+| attendance = 1,591
+| referee    = Ahmed Khalil ([[Bahrain Football Association|Bahrain]])
+| result     = W
+}}
+
+===2026===
+{{footballbox collapsible
+| format     = 1
+| round      = [[2027_AFC_Asian_Cup_qualification_–_third_round|2027 AFC Asian Cup qualification]]
+| date       = March 31
+| time       = {{UTZ|19:00|5}}
+| team1      = {{fb-rt|TJK}}
+| score      = 1–1
+| report     = [https://globalsportsarchive.com/en/soccer/match/2026-03-31/tajikistan-vs-philippines/3587561/ Report]<br />[https://www.the-afc.com/en/national/afc_asian_cup.html/news/qualifiers-group-a-tajikistan-1-1-philippines Report (AFC)]
+| team2      = {{fb|PHI}}
+| goals1     = 
+[[Sheriddin Boboev|Boboev]] {{goal|40}}
+| goals2     =
+[[Raphael Obermair|Obermair]] {{goal|19}}
+| stadium    = [[Hisor Central Stadium]]
+| location   = [[Hisor]], Tajikistan
+| attendance = 15,200
+| referee    = [[Hiroki Kasahara (referee)|Hiroki Kasahara]] ([[Japan Football Association|Japan]]) 
+| result     = D
+}}
+{{footballbox collapsible
+| format     = 1
+| round      = [[Exhibition Match|Tri Nation Friendlies]]
+| date       = June 3 
+| time       = {{UTZ|19:30|8}}
+| team1      = {{fb-rt|PHI}}
+| score      = 5–1
+| report     = 
+| team2      = {{fb|GUM}}
+| goals1     =
+*[[Cole Mrowka|Mrowka]] {{goal|5}}
+*[[Jarvey Gayoso|Gayoso]] {{goal|18}}
+*[[Santiago Rublico|Rublico]] {{goal|44}}
+*[[Andre Leipold|Leipold]] {{goal|64||90+2}}
+| goals2     = 
+*[[Levi Berg|Berg]] {{goal|60}}
+| stadium    = [[Rizal Memorial Stadium]]
+| location   = [[Manila]], Philippines
+| attendance = 2,243
+| referee    = [[Songkran Bunmeekiart|Songkran Bunmeekiart]] ([[Football Association of Thailand|Thailand]])
+| result     = W
+}}
+{{footballbox collapsible
+| format     = 1
+| round      = [[Exhibition Match|Tri Nation Friendlies]]
+| date       = June 9 
+| time       = {{UTZ|19:30|8}}
+| team1      = {{fb-rt|PHI}}
+| score      = 5–1
+| report     = 
+| team2      = {{fb|MYA}}
+| goals1     = 
+*[[Jefferson Tabinas|J. Tabinas]] {{goal|45+1}}
+*[[Paul Tabinas|P. Tabinas]] {{goal|54}}
+*[[Sebastian Rasmussen|Rasmussen]] {{goal|80||90+1}}
+*[[Andre Leipold|Leipold]] {{goal|88}}
+| goals2     = 
+*[[Win Naing Tun]] {{goal|82}}
+| stadium    = [[Rizal Memorial Stadium]]
+| location   = [[Manila]], Philippines
+| attendance = 4,662
+| referee    = [[Songkran Bunmeekiart|Songkran Bunmeekiart]] ([[Football Association of Thailand|Thailand]])
+| result     = W
+}}
+{{footballbox collapsible
+| format     = 1
+| round      = [[2026_ASEAN_Championship_Group_B|2026 ASEAN Championship Group B]]
+| date       = July 28
+| time       = {{UTZ|18:00|8}}
+| team1      = {{fb-rt|PHI}}
+| score      = 
+| report     = https://aseanutdfc.com/asean-championship/match/9knzp49imdbgo0bd8ajlo3kes/details
+| team2      = {{fb|MYA}}
+| goals1     = 
+| goals2     = 
+| stadium    = [[New Clark City Athletics Stadium]]
+| location   = [[Capas]], Philippines
+| attendance = 
+| referee    = 
+| result     =
+}}
+{{footballbox collapsible
+| format     = 1
+| round      = [[2026_ASEAN_Championship_Group_B|2026 ASEAN Championship Group B]]
+| date       = August 1
+| time       = {{UTZ|17:00|7}}
+| team1      = {{fb-rt|LAO}}
+| score      = 
+| report     = https://aseanutdfc.com/asean-championship/match/9l3rzgyq8xakbmq01juwt3dw4/details
+| team2      = {{fb|PHI}}
+| goals1     = 
+| goals2     = 
+| stadium    = [[Laos National Stadium]]
+| location   = [[Vientiene]], Laos
+| attendance = 
+| referee    = 
+| result     =
+}}
+{{footballbox collapsible
+| format     = 1
+| round      = [[2026_ASEAN_Championship_Group_B|2026 ASEAN Championship Group B]]
+| date       = August 4
+| time       = {{UTZ|21:00|8}}
+| team1      = {{fb-rt|PHI}}
+| score      = 
+| report     = https://aseanutdfc.com/asean-championship/match/9lu0iledwtdn6zu7smkjmtiqc/details
+| team2      = {{fb|THA}}
+| goals1     = 
+| goals2     = 
+| stadium    = [[New Clark City Athletics Stadium]]
+| location   = [[Capas]], Philippines
+| attendance = 
+| referee    = 
+| result     =
+}}
+{{footballbox collapsible
+| format     = 1
+| round      = [[2026_ASEAN_Championship_Group_B|2026 ASEAN Championship Group B]]
+| date       = August 8
+| time       = {{UTZ|21:00|8}}
+| team1      = {{fb-rt|MAS}}
+| score      = 
+| report     = https://aseanutdfc.com/asean-championship/match/9mz2zffybtyovpl76q5fkoys4/details
+| team2      = {{fb|PHI}}
+| goals1     = 
+| goals2     = 
+| stadium    = [[Kuala Lumpur Stadium]]
+| location   = [[Kuala Lumpur]], Malaysia
+| attendance = 
+| referee    = 
+| result     =
+}}
+
+==Technical staff==
+
+===Current technical staff===
+{| class="wikitable"
+|-
+!style="color:#FFFFFF;background:#0038A8"|Position
+!style="color:#FFFFFF;background:#0038A8"|Name
+|-
+| Head coach
+|{{flagicon|ESP}} [[Carles Cuadrat]]
+|-
+| rowspan="4" | Assistant coaches
+| {{flagicon|ESP}} [[Albert Roca]]
+|-
+| {{flagicon|PHI}} Kim Versales
+|-
+| {{flagicon|PHI}} Popoy Clarino
+|-
+| {{flagicon|PHI}} [[Patrick Reichelt]]
+|-
+| Goalkeeping coach
+| {{flagicon|PHI}} [[Eduard Sacapaño]]
+|-
+| S&C coach
+| {{flagicon|PHI}} Genaro Sabile
+|-
+| rowspan="2" |Team analyst
+| {{flagicon|ESP}} [[Dimas Delgado]]
+|-
+| {{flagicon|ESP}} Sergi Mulet
+|-
+|}
+
+===Coaching history===
+[[File:Dionisio Calvo portrait (1930).jpg|175px|thumb|alt=Dionisio Calvo|Dionisio Calvo, one of the earliest head coaches for the national team]]
+One of the earlier head coaches of the national team was [[Dionisio Calvo]]. Foreign coaches of American, Argentinean, English, German, Scottish, Spanish, and Swedish nationality have managed the national team. [[Juan Cutillas]] has managed the team in at least four non-consecutive tenures (1969–1978, 1981–1984, 1996–2000 and 2008–09).
+
+[[Thomas Dooley]] led the national team to its best finish in a tournament sanctioned by the [[Asian Football Confederation]] and [[FIFA]] by leading the team to second place at the [[2014 AFC Challenge Cup]]. The past three coaches, [[Simon McMenemy]], [[Michael Weiß (football manager)|Michael Weiß]] and Thomas Dooley, also made some strides at the regional level leading the team to the semifinals at the [[AFF Suzuki Cup]] ([[2010 AFF Championship|2010]], [[2012 AFF Championship|2012]] and [[2014 AFF Championship|2014]] editions respectively), the top football tournament in [[Southeast Asia]]. [[Eckhard Krautzun]] also led the national team to the semifinals, its best finish at the [[1991 Southeast Asian Games]], before football became an under-23 tournament at said multi-sporting event.
+
+:Caretaker managers are listed in ''italics''.
+{{div col|colwidth=22em}}
+*{{flagicon|Philippines|1936}} [[Dionisio Calvo]] (1930–1954)
+*{{flagicon|Philippines|1936}} José Rodriguez<ref>{{cite news |title=Netherland Indies Will Compete In Football in Coming F. E. Games |url=http://nla.gov.au/nla.news-article249637959 |access-date=27 February 2025 |work=Tribune |date=18 March 1934}}</ref><ref>{{cite news |title=P. I. Coaches are Selected |url=http://nla.gov.au/nla.news-article249634698 |access-date=27 February 2025 |work=Tribune |date=25 February 1934}}</ref> (1934)
+*{{flagicon|Philippines|1936}} [[José Ozámiz]]<ref>{{cite news |title=P. I. Booters Make Impressive Showing in Java |url=http://nla.gov.au/nla.news-article249692654 |access-date=27 February 2025 |work=Tribune |date=6 June 1935}}</ref> (1935)
+*{{flagicon|Philippines|1936}} Luis Javellana (1956)
+*{{flagicon|Philippines|1936}} Ramon Echevarria Sr. (1958)<ref>{{cite news|title=DLSAA Sports Hall of Fame Awardees|url=http://www.dlsaa.com/honors-and-awards/awardees/shofa?field_awd_fc_cat_tid=96&field_awd_fc_yr_value&#91;value&#93;&title=&items_per_page=24&page=1|quote=During the Third Asian Games in Tokyo in 1958, he coached the Philippine National Football Team defeating Japan before 60,000 spectators at the National Stadium, and placing 6th among 14 participating Asian nations.|access-date=July 7, 2019|archive-date=September 20, 2020|archive-url=https://web.archive.org/web/20200920234223/http://www.dlsaa.com/honors-and-awards/awardees/shofa?field_awd_fc_cat_tid=96&field_awd_fc_yr_value%5Bvalue%5D&title=&items_per_page=24&page=1|url-status=live}}</ref>
+*{{flagicon|Philippines|1936}} [[Fernando Álvarez (footballer, born 1925)|Fernando Álvarez]] (1962)
+*{{flagicon|England}} [[Alan Rogers (football manager)|Alan Rogers]] (1962–1963)
+*{{flagicon|Scotland}} [[Danny McLennan]] (1963)
+*{{flagicon|Philippines|1936}} [[Orlando Plagata]] (1965)<ref>{{cite web|author=Neil Morrison |title=Manila "Investment in Youth" Soccer Series 1965 - Details|website=[[RSSSF]]|url=https://www.rsssf.org/tablesm/manila-iiy65.html|date=June 8, 2017|access-date=January 11, 2023|archive-date=January 11, 2023|archive-url=https://web.archive.org/web/20230111081452/https://www.rsssf.org/tablesm/manila-iiy65.html|url-status=live}}</ref>
+*{{flagicon|Philippines|1986}} [[Emilio Pacheco]] (1967)
+*{{flagicon|Spain}} [[Juan Cutillas]] (1967–1972, 1975–1978, 1981–1984, 1996–2000, 2008–2009)
+*{{flagicon|Philippines|1986}} [[Florentino Broce]] (1973–1974)<ref name=historypffold/> 
+*{{flagicon|West Germany}} [[Bernhard Zgoll]] (1980)
+*{{flagicon|Philippines|1985}} [[Lope Pascual]] (1985)
+*{{flagicon|Philippines|1986}} Alberto Honasan (1987)<ref>{{cite news|title=New PFF officers appointed|url=https://news.google.com/newspapers?id=kmwVAAAAIBAJ&sjid=gwsEAAAAIBAJ&pg=2664%2C273387 |access-date=26 February 2025 |work=Manila Standard |date=19 February 1987 |page=8|via=Google News Archive}}</ref><ref>{{cite news|last1=Japa|first1=Raffy|title=Elizalde to the rescue|url=https://news.google.com/newspapers?id=t2wVAAAAIBAJ&pg=3383%2C3387867|access-date=April 29, 2015|newspaper=Manila Standard|date=March 26, 1987|page=8|quote=Alberto Honasan has been designate coach of the team|archive-date=November 6, 2020|archive-url=https://web.archive.org/web/20201106043326/https://news.google.com/newspapers?id=t2wVAAAAIBAJ&pg=3383,3387867|url-status=live}}</ref>
+*{{flagicon|Argentina}} [[Carlos Cavagnaro]] (1989)
+*{{flagicon|Philippines|1986}} Consorcio Manresa (1991)<ref>{{cite web |author1=Josef Bobrowsky |author2=Eric Villante |author3=Mark Cruickshank |author4=Neil Morrison |title=Philippines International Tournaments 1991-1998 - Details |website=[[RSSSF]] |url=https://www.rsssf.org/tablesp/philcuptour91.html |date=August 10, 2017 |access-date=January 6, 2023 |archive-date=December 28, 2022 |archive-url=https://web.archive.org/web/20221228064150/https://www.rsssf.org/tablesp/philcuptour91.html |url-status=live }}</ref>
+*{{flagicon|Germany}} [[Eckhard Krautzun]] (1991–1992)
+*{{flagicon|Philippines|1986}} [[Mariano Araneta]] (1993)<ref>{{cite news|title=Fegidero uses old magic on Malaysia|url=https://news.google.com/newspapers?id=lqZNAAAAIBAJ&pg=4506%2C2299766|access-date=March 26, 2015|newspaper=Manila Standard Today|date=May 13, 1993|location=Bacolod|quote="We lack serious games which can only be attained in overseas tournament", said head coach Mariano Araneta|archive-date=November 5, 2021|archive-url=https://web.archive.org/web/20211105072227/https://news.google.com/newspapers?id=lqZNAAAAIBAJ&pg=4506%2C2299766|url-status=live}}</ref> 
+*{{flagicon|Philippines}} [[Rodolfo Alicante]] (1993, 2000)
+*{{flagicon|Philippines|1986}} Noel Casilao (1993–1996)
+*{{flagicon|Japan}} [[Masataka Imai]] (2001)
+*{{flagicon|Japan}} [[Sugao Kambe]] (2002–2003)
+*{{flagicon|Philippines}} [[Aris Caslib]] (2004–2007, 2009)<ref name="Saaid, Hamdan">{{cite web|author=Saaid, Hamdan|title=ASEAN Football Federation Championship - Details|website=[[RSSSF]]|url=https://www.rsssf.org/tablesa/asean07det.html|date=July 19, 2007|access-date=February 2, 2023|archive-date=April 5, 2023|archive-url=https://web.archive.org/web/20230405110725/https://www.rsssf.org/tablesa/asean07det.html|url-status=live}}</ref>
+*{{flagicon|Philippines}} [[Norman Fegidero]] (2008, ''2024''){{refn|After the departure of Tom Saintfiet in 2024, Fegidero was appointed as interim coach until PFF finds a replacement for Saintfiet.<ref>{{cite news|last1=Ambat|first1=Pao|url=https://www.onesports.ph/more-sports/article/24037/norman-fegidero-named-as-interim-philippine-men-s-national-football-team-head-coach|title=Norman Fegidero named interim Philippine men's national football team head coach|publisher=OneSports.PH|date=August 29, 2024|accessdate=August 29, 2024}}</ref><ref>{{cite news|last1=Terrado|first1=Reuben|url=https://www.spin.ph/football/fifa/pff-turns-to-mark-torcaso-filipinas-staff-to-bolster-men-s-side-a795-20240829?ref=home_feed_1|title=PFF turns to Mark Torcaso, Filipinas staff to bolster men's side|publisher=Spin.ph|date=August 29, 2024|accessdate=August 29, 2024}}</ref><ref>{{cite news|last1=Leyba|first1=Olmin|url=https://qa.philstar.com/sports/2024/08/29/2381458/fegidero-named-interim-philippine-mens-football-team-coach|title=Fegidero named interim Philippine men's football team coach|publisher=Philstar.com|date=August 29, 2024|accessdate=August 29, 2024}}</ref>|group="note"|name="Fegidero"}}
+*{{flagicon|Scotland}} [[Des Bulpin]] (2009–2010)<ref>{{cite web|url=http://skysports.com/story/0,19528,11996_5690698,00.html|title=Brit takes Philippines role|work=skysports.com|date=November 12, 2009|access-date=June 12, 2019|archive-date=March 22, 2016|archive-url=https://web.archive.org/web/20160322111453/http://www.skysports.com/story/0,19528,11996_5690698,00.html|url-status=live}}</ref>
+*{{flagicon|Scotland}} [[Simon McMenemy]] (2010)<ref>{{cite web|url= http://filipinofootball.blogspot.com/2010/08/simon-mcmenemy-new-philippines-nt-coach.html|title= Simon McMenemy is the new PHL national team head coach|date= August 28, 2010|work= Filipino Football|access-date= December 8, 2010|archive-date= December 24, 2010|archive-url= https://web.archive.org/web/20101224081255/http://filipinofootball.blogspot.com/2010/08/simon-mcmenemy-new-philippines-nt-coach.html|url-status= live}}</ref>
+*{{flagicon|Germany}} [[Michael Weiß (football manager)|Michael Weiß]] (2011–2014, 2023–2024)<ref name="Tupas, Jeffrey M">{{cite news |url=http://sports.inquirer.net/breakingnews/breakingnews/view/20110109-313547/PFF-approves-hiring-of-German-coach-for-Azkals |title=PFF approves hiring of German coach for Azkals |author=Tupas, Jeffrey M. |date=January 9, 2011 |work=Inquirer.net |publisher=Philippine Daily Inquirer Inc. |access-date=January 11, 2011 |archive-url=https://web.archive.org/web/20110112151544/http://sports.inquirer.net/breakingnews/breakingnews/view/20110109-313547/PFF-approves-hiring-of-German-coach-for-Azkals |archive-date=January 12, 2011 }}</ref>
+*{{flagicon|United States}} [[Thomas Dooley]] (2014–2018, 2022)<ref name="Teng Kiat">{{cite web |url=http://www.goal.com/en-sg/news/3952/asia/2014/02/07/4601417/philippines-appoint-dooley-as-new-coach |title=Philippines appoint Dooley as new coach |work=Goal.com |author=Teng Kiat |date=February 7, 2014 |access-date=February 7, 2014 |archive-date=March 28, 2014 |archive-url=https://web.archive.org/web/20140328101743/http://www.goal.com/en-sg/news/3952/asia/2014/02/07/4601417/philippines-appoint-dooley-as-new-coach |url-status=live }}</ref><ref name="Tiebreaker Times">{{cite news|last1=del Carmen|first1=Lorenzo|url=https://tiebreakertimes.com.ph/tbt/thomas-dooley-returns-as-azkals-coach/240977|title=Thomas Dooley returns as Azkals coach|publisher=Tiebreaker Times|date=May 25, 2022|access-date=May 25, 2022|archive-date=May 25, 2022|archive-url=https://web.archive.org/web/20220525044602/https://tiebreakertimes.com.ph/tbt/thomas-dooley-returns-as-azkals-coach/240977|url-status=live}}</ref>
+*{{flagicon|Philippines}} ''[[Marlon Maro]]'' (2017){{refn|Maro only coached the team that took part at the [[2017 CTFA International Tournament]] in [[Taiwan]] which was held in December 2017. Dooley remained the head coach.<ref name=ctfa>{{cite news|title=Philippines National Team In CTFA International Tournament|url=http://pff.org.ph/2017/11/28/philippines-national-team-ctfa-international-tournament/|access-date=November 28, 2017|publisher=Philippines Football Federation|date=November 28, 2017|archive-date=December 1, 2017|archive-url=https://web.archive.org/web/20171201015813/http://pff.org.ph/2017/11/28/philippines-national-team-ctfa-international-tournament/|url-status=live}}</ref> Maro was supposed to lead a U22 side, but the matches of the CTFA International Tournament were recognized as Tier 1 "A" international matches hence the Philippine Football Federation sent a senior side with Maro as its coach in lieu of Thomas Dooley.<ref>{{cite news|last1=Guerrero|first1=Bob|title=Azkals to join pocket tournament in Taiwan|url=https://www.rappler.com/sports/football/189817-azkals-to-join-pocket-tournament-in-taiwan/|access-date=November 28, 2017|work=Rappler|date=November 28, 2017|archive-date=December 1, 2017|archive-url=https://web.archive.org/web/20171201042435/https://www.rappler.com/sports/by-sport/football/189817-azkals-to-join-pocket-tournament-in-taiwan|url-status=live}}</ref>|group="note"|name="Maro"}}
+*{{flagicon|England}} [[Terry Butcher]] (2018)<ref>{{cite news |title=New Philippine coach Terry Butcher says he wants Azkals to win 'with finesse and skill' |url=https://www.spin.ph/football/azkals/news/new-philippine-coach-terry-butcher-says-he-wants-azkals-to-win-with-finesse-and-skill |access-date=June 14, 2018 |work=Sports Interactive Network Philippines |date=June 14, 2018 |author=Christian Jacinto |archive-date=June 14, 2018 |archive-url=https://web.archive.org/web/20180614171639/https://www.spin.ph/football/azkals/news/new-philippine-coach-terry-butcher-says-he-wants-azkals-to-win-with-finesse-and-skill |url-status=live }}</ref>
+*{{flagicon|England}} ''[[Scott Cooper (football manager)|Scott Cooper]]'' (2018, 2019)<ref name="Rappler">{{cite web|title=Irish coach joins Azkals coaching staff as senior football adviser|url=https://www.rappler.com/sports/football/204966-scott-cooper-philippine-azkals/|publisher=Rappler|date=June 14, 2018|access-date=June 15, 2018|archive-date=June 15, 2018|archive-url=https://web.archive.org/web/20180615111122/https://www.rappler.com/sports/by-sport/football/204966-scott-cooper-philippine-azkals|url-status=live}}</ref><ref name="Spin PH">{{cite web|title=Scott Cooper takes role as Azkals senior adviser, set to work hand in hand with Butcher|url=https://www.spin.ph/football/scott-parker-takes-role-as-azkals-senior-adviser-set-to-work-hand-in-hand-with-butcher|archive-url=https://web.archive.org/web/20180615110931/https://m.spin.ph/football/azkals/news/scott-parker-takes-role-as-azkals-senior-adviser-set-to-work-hand-in-hand-with-butcher|url-status=live|archive-date=June 15, 2018|publisher=Spin PH|date=June 14, 2018|access-date=June 15, 2018}}</ref>
+*{{flagicon|Philippines}} ''[[Anto Gonzales]]'' (2018){{refn|Gonzales only coached the team that took part at the [[2018 Bangabandhu Cup]] in [[Bangladesh]] which was held in October 2018. Cooper remained the head coach.<ref>{{cite news|last1=Averilla|first1=Earl|title=Azkals march into semis with clean slate in Bangabandhu Cup|url=https://www.foxsports.ph/football/asian-football/philippine-football/917736/azkals-remain-perfect-bangabandhu-cup/|access-date=October 6, 2018|work=Fox Sports|date=October 5, 2018|archive-date=October 6, 2018|archive-url=https://web.archive.org/web/20181006154849/https://www.foxsports.ph/football/asian-football/philippine-football/917736/azkals-remain-perfect-bangabandhu-cup/}}</ref>|group="note"|name="Gonzales"}}<ref>{{cite web|title=Football: Stephan Schröck, Daisuke Sato lead Azkals in PH-China friendly|work=ABS-CBN News |url=https://www.abs-cbn.com/sports/06/05/19/football-stephan-schrck-daisuke-sato-lead-azkals-in-ph-china-friendly|date=June 5, 2019|access-date=June 5, 2018|archive-date=June 8, 2019|archive-url=https://web.archive.org/web/20190608032631/https://news.abs-cbn.com/sports/06/05/19/football-stephan-schrck-daisuke-sato-lead-azkals-in-ph-china-friendly|url-status=live}}</ref>
+*{{flagicon|Sweden}} [[Sven-Göran Eriksson]] (2018–2019)<ref name=bbcph>{{cite news|title=Sven-Goran Eriksson: Ex-England manager named Philippines boss|url=https://www.bbc.com/sport/football/46001866|access-date=October 27, 2018|work=BBC Sport|date=October 27, 2018|archive-url=https://web.archive.org/web/20181028033557/https://www.bbc.com/sport/football/46001866|archive-date=October 28, 2018}}</ref>
+*{{flagicon|Serbia}} [[Goran Milojević]] (2019)<ref>{{cite news|last1=Moriones|first1=Gil Mar|url=https://www.dugout.ph/2019/08/vets-youngster-to-flag-azkals.html|title=Vets, youngster to flag Azkals in World Cup Qualifiers, Milojevic named head coach|publisher=Dugout Philippines|date=August 31, 2019|access-date=August 31, 2019|archive-date=October 1, 2020|archive-url=https://web.archive.org/web/20201001114236/https://www.dugout.ph/2019/08/vets-youngster-to-flag-azkals.html|url-status=live}}</ref>
+*{{flagicon|England}} ''[[Stewart Hall (football coach)|Stewart Hall]]'' (2021–2022)<ref>{{cite news |title=No time to relax as Azkals draw opening bye |url=https://mb.com.ph/2021/12/05/no-time-to-relax-as-azkals-draw-opening-bye/ |access-date=December 7, 2021 |work=Manila Bulletin |date=December 5, 2021 |quote=English coach Stewart Hall, appointed to call the shots for the Azkals..." / "...Hall will handle the squad with coach Scott Cooper still part of the staff. |archive-date=June 12, 2022 |archive-url=https://web.archive.org/web/20220612082839/https://mb.com.ph/2021/12/05/no-time-to-relax-as-azkals-draw-opening-bye/ |url-status=live }}</ref>
+*{{flagicon|Spain}} [[Josep Ferré]] (2022–2023)<ref>{{cite news|last1=del Carmen|first1=Lorenzo|url=https://tiebreakertimes.com.ph/tbt/josep-ferre-named-new-azkals-coach-for-mitsubishi-electric-cup/257689|title=Josep Ferré named new Azkals coach for Mitsubishi Electric Cup|publisher=Tiebreaker Times|date=December 8, 2022|access-date=December 8, 2022|archive-date=December 8, 2022|archive-url=https://web.archive.org/web/20221208131954/https://tiebreakertimes.com.ph/tbt/josep-ferre-named-new-azkals-coach-for-mitsubishi-electric-cup/257689|url-status=live}}</ref><ref>{{cite news|url=https://www.abs-cbn.com/amp/sports/12/08/22/josep-ferr-ybarz-appointed-as-new-azkals-coach|title=Football: Josep Ferré Ybarz appointed as new Azkals coach|publisher=ABS-CBN News|date=December 8, 2022|access-date=December 8, 2022|archive-date=December 16, 2022|archive-url=https://web.archive.org/web/20221216033613/https://news.abs-cbn.com/amp/sports/12/08/22/josep-ferr-ybarz-appointed-as-new-azkals-coach|url-status=live}}</ref>
+*{{flagicon|Morocco}} [[Barae Jrondi]]<ref>{{cite news |last1=Terrado |first1=Reuben |title=Barae Jrondi appointed new Azkals head coach in time for West Asia camp |url=https://www.spin.ph/football/barae-jrondi-appointed-new-azkals-head-coach-joins-team-in-west-asia-camp-a795-20230321 |access-date=21 March 2023 |work=Sports Interactive Network Philippines |date=21 March 2023 |language=en}}</ref><ref>{{cite news |last1=Terrado |first1=Jonas |title=Azkals get clobbered by Jordan in friendly |url=https://sports.inquirer.net/503283/azkals-get-clobbered-by-jordan-in-friendly |access-date=19 May 2023 |newspaper=Philippine Daily Inquirer |date=30 March 2023 |language=en}}</ref><ref>
+{{cite AV media |people= |date=18 May 2023 |title=Azkals, walang official head coach sa ngayon |trans-title=Azkals, no official head coach at the moment |type=Television production |language= |url=https://www.youtube.com/watch?v=fUJSBpfQ6QQ |access-date= |format= |time= |location= |publisher=[[People's Television Network]]|id= |isbn= |oclc= |quote= |via=YouTube}}</ref> (2023)
+*{{flagicon|Belgium}} [[Tom Saintfiet]] (2024)
+*{{flagicon|Spain}} [[Albert Capellas]] (2024–2025)
+*{{flagicon|Spain}} [[Carles Cuadrat]] (2025–present)
+*{{div col end}}
+
+==Players==
+===Current squad===
+The following 22 players were called up for the friendlies against [[Myanmar national football team|Myanmar]] and [[Guam national football team|Guam]].<ref>{{cite web |url=https://www.vfl-bochum.de/de/news/2026/marz/26/bero-und-marshall-verpassen-die-wm |title= Bero und Marshall verpassen die WM |trans-title=Bero and Marshall miss the World Cup |publisher=[[VfL Bochum]] |language=de |date= March 27, 2026 |access-date= March 28, 2026}}</ref>
+
+''Caps and goals updated as of June 9, 2026, after the match against [[Myanmar national football team|Myanmar]].''
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name={{sortname|Michael|Falkesgaard}}|age={{birth date and age|1991|4|9}}|caps=13|goals=0|club=[[Port F.C.|Port]]|clubnat=THA}}
+{{nat fs g player|no=15|pos=GK|name={{sortname|Patrick|Deyto}}|age={{birth date and age|1990|2|15}}|caps=22|goals=0|club=[[Kaya F.C.–Iloilo|Kaya–Iloilo]] |clubnat=PHI}}
+{{nat fs g player|no=16|pos=GK|name={{sortname|Quincy|Kammeraad}}|age={{birth date and age|2001|2|1}}|caps=4|goals=0|club=[[Kuala Lumpur City F.C.|Kuala Lumpur City]]|clubnat=MAS}}
+{{nat fs g break}}
+{{nat fs g player|no=2|pos=DF|name={{sortname|Noah|Leddel}}|age={{birth date and age|2003|8|30}}|caps=2|goals=0|club=[[Ayutthaya United F.C.|Ayutthaya United]]|clubnat=THA}}
+{{nat fs g player|no=3|pos=DF|name={{sortname|Paul|Tabinas}}|age={{birth date and age|2002|7|5}}|caps=21|goals=1|club=[[GNK Dinamo Zagreb|Dinamo Zagreb]]|clubnat=CRO}}
+{{nat fs g player|no=4|pos=DF|name={{sortname|Jefferson|Tabinas}}|age={{birth date and age|1998|8|7}}|caps=27|goals=6|club=[[Selangor F.C.|Selangor]]|clubnat=MAS}}
+{{nat fs g player|no=5|pos=DF|name={{sortname|Santiago|Rublico}}|age={{birth date and age|2005|8|18}}|caps=17|goals=1|club=[[AD Alcorcón|Alcorcón]]|clubnat=ESP}}
+{{nat fs g player|no=12|pos=DF|name={{sortname|Jaime|Rosquillo}}|age={{birth date and age|2003|3|20}}|caps=1|goals=0|club=[[Cebu F.C.|Dynamic Herb Cebu]]|clubnat=PHI}}
+{{nat fs g player|no=20|pos=DF|name={{sortname|Scott|Woods|Scott Woods (footballer)}}|age={{birth date and age|2000|5|7}}|caps=15|goals=0|club=[[Kuching City F.C.|Kuching City]]|clubnat=MAS}}
+{{nat fs g player|no=21|pos=DF|name={{sortname|Daisuke|Sato|Daisuke Sato (footballer)}}|age={{birth date and age|1994|9|20}}|caps=62|goals=3|club=[[One Taguig F.C.|One Taguig]]|clubnat=PHI}}
+{{nat fs g break}}
+{{nat fs g player|no=6|pos=MF|name={{sortname|Sandro|Reyes}}|age={{birth date and age|2003|3|29}}|caps=31|goals=5|club=[[FC Gütersloh]]|clubnat=GER}}
+{{nat fs g player|no=8|pos=MF|name={{sortname|Manny|Ott}}|age={{birth date and age|1992|5|6}}|caps=72|goals=4|club=[[Rayong F.C.|Rayong]]|clubnat=THA}}
+{{nat fs g player|no=10|pos=MF|name={{sortname|John|Lucero}}|age={{birth date and age|2003|12|1}}|caps=3|goals=0|club=[[Kanchanaburi Power F.C.|Kanchanaburi Power]]|clubnat=THA}}
+{{nat fs g player|no=11|pos=MF|name={{sortname|Randy|Schneider}}|age={{birth date and age|2001|8|27}}|caps=7|goals=1|club=[[FC Andorra|Andorra]]|clubnat=ESP}}
+{{nat fs g player|no=14|pos=MF|name={{sortname|Oskari|Kekkonen}}|age={{birth date and age|1999|9|24}}|caps=17|goals=0|club=[[Lamphun Warriors F.C.|Lamphun Warriors]]|clubnat=THA}}
+{{nat fs g player|no=17|pos=MF|name={{sortname|Cole|Mrowka}}|age={{birth date and age|2006|4|26}}|caps=2|goals=1|club=[[Columbus Crew]]|clubnat=USA}}
+{{nat fs g player|no=22|pos=MF|name={{sortname|Kenji|Nishioka}}|age={{birth date and age|2001|6|9}}|caps=2|goals=0|club=[[Manila Digger F.C.|Manila Digger]]|clubnat=PHI}}
+{{nat fs g player|no=23|pos=MF|name={{sortname|Christian|Rontini}}|age={{birth date and age|1999|7|20}}|caps=26|goals=1|club=[[Antella F.C.|Antella]]|clubnat=ITA}}
+{{nat fs g break}}
+{{nat fs g player|no=7|pos=FW|name={{sortname|André|Leipold}}|age={{birth date and age|2001|11|12}}|caps=7|goals=3|club=[[Helmond Sport]]|clubnat=NED}}
+{{nat fs g player|no=9|pos=FW|name={{sortname|Jarvey|Gayoso}}|age={{birth date and age|1997|2|11}}|caps=34|goals=5|club=[[Bangkok F.C.|Bangkok]]|clubnat=THA}}
+{{nat fs g player|no=18|pos=FW|name={{sortname|Sebastian|Rasmussen}}|age={{birth date and age|2002|6|17}}|caps=14|goals=6|club=[[Hobro IK|Hobro IK]]|clubnat=DEN}}
+{{nat fs g player|no=19|pos=FW|name={{sortname|Pocholo|Bugas}}|age={{birth date and age|2001|12|3}}|caps=15|goals=0|club=[[HNK Vukovar 1991|Vukovar 1991]]|clubnat=CRO}}
+{{nat fs end}}
+
+===Recent call-ups===
+<!--PLAYERS SHOULD BE ORGANIZED BY POSITION, MOST RECENT CALL-UP, CAPS, GOALS AND LAST NAME-->
+The following players have been called up for the Philippines within the past 12 months.<ref>{{cite web |title=AMEC 2024 Squad List Reveal!|url=https://www.facebook.com/phifootballfederation/posts/pfbid02AGEqoUYGt872SKKsoeuvdZDCGZdqewdZYydgS8HkVUZ4w4BECsL28KNURBRQVs4al|website=Facebook|publisher=Philippine Football Federation|date=December 6, 2024}}</ref>
+{{nat fs r start}} 
+{{nat fs r player|no=|pos=GK|name={{sortname|Kevin Ray|Mendoza}}|age={{birth date and age|1994|9|29}}|caps=18|goals=0|club=[[Chonburi F.C.|Chonburi]]|clubnat=THA|latest=v. {{fb|TJK}}, March 31, 2026}}
+{{nat fs r player|no=|pos=GK|name={{sortname|Nicholas|Guimarães}}|age={{birth date and age|2006|8|9}}|caps=0|goals=0|club=[[FC Machida Zelvia|Machida Zelvia]]|clubnat=JPN|latest=v. {{fb|MDV}}, November 18, 2025}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=DF|name={{sortname|Amani|Aguinaldo}}|other=[[Captain (association football)|captain]]|age={{birth date and age|1995|4|24}}|caps=73|goals=0|club=[[DPMM FC|DPMM]]|clubnat=BRU|latest=v. {{fb|TJK}}, March 31, 2026}}
+{{nat fs r player|no=|pos=DF|name={{sortname|Michael|Kempter}}|age={{birth date and age|1995|1|12}}|caps=15|goals=0|club=[[Muangthong United F.C.|Muangthong United]]|clubnat=THA|latest=v. {{fb|TJK}}, March 31, 2026}}
+{{nat fs r player|no=|pos=DF|name={{sortname|Kike|Linares}}|age={{birth date and age|1999|7|12}}|caps=13|goals=1|club=[[Chonburi F.C.|Chonburi]]|clubnat=THA|latest=v. {{fb|TJK}}, March 31, 2026}}
+{{nat fs r player|no=|pos=DF|name={{sortname|Jesper|Nyholm}}|age={{birth date and age|1993|9|10}}|caps=13|goals=1|club=[[PT Prachuap F.C.|PT Prachuap]]|clubnat=THA|latest=v. {{fb|TJK}}, March 31, 2026}}
+{{nat fs r player|no=|pos=DF|name={{sortname|Josef|Baccay}}<sup>INJ</sup>|age={{birth date and age|2001|4|29}}|caps=5|goals=0|club=[[Odds BK|Odd]]|clubnat=NOR|latest=v. {{fb|MDV}}, November 18, 2025}}
+{{nat fs r player|no=|pos=DF|name={{sortname|Adrian|Ugelvik}}|age={{birth date and age|2001|9|21}}|caps=6|goals=0|club=[[PT Prachuap F.C.|PT Prachuap]]|clubnat=THA|latest=v. {{fb|TLS}}, October 14, 2025}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=MF|name={{sortname|Zico|Bailey}}|age={{birth date and age|2000|8|27}}|caps=14|goals=1|club=[[New Mexico United]]|clubnat=USA|latest=v. {{fb|TJK}}, March 31, 2026}}
+{{nat fs r player|no=|pos=MF|name={{sortname|Gavin|Muens}}|age={{birth date and age|2004|10|24}}|caps=1|goals=0|club=[[Kaya F.C.–Iloilo|Kaya–Iloilo]]|clubnat=PHI|latest=v. {{fb|MDV}}, November 18, 2025}}
+{{nat fs r player|no=|pos=MF|name={{sortname|John-Patrick|Strauß}}|age={{birth date and age|1996|1|28}}|caps=18|goals=2|club=[[Muangthong United F.C.|Muangthong United]]|clubnat=THA|latest=v. {{fb|TJK}}, June 10, 2025<sup>PRE</sup>}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=FW|name={{sortname|Gerrit|Holtmann}}<sup>INJ</sup> |age={{birth date and age|1995|3|25}}|caps=7|goals=2|club=[[VfL Bochum]]|clubnat=GER|latest=v. {{fb|TJK}}, March 31, 2026}}
+{{nat fs r player|no=|pos=FW|name={{sortname|Bjørn Martin|Kristensen}}|age={{birth date and age|2002|5|4}}|caps=17|goals=13|club=[[KFUM-Kameratene Oslo|KFUM Oslo]]|clubnat=NOR|latest=v. {{fb|TJK}}, March 31, 2026}}
+{{nat fs r player|no=|pos=FW|name={{sortname|Javier|Mariona}}|age={{birth date and age|2004|10|17}}|caps=7|goals=0|club=[[AV Alta FC|AV Alta]]|clubnat=USA|latest=v. {{fb|TJK}}, March 31, 2026}}
+{{nat fs r player|no=|pos=FW|name={{sortname|Alex|Monis}}|age={{birth date and age|2003|3|20}}|caps=16|goals=0|club=[[CT United FC|CT United]]|clubnat=USA|latest=v. {{fb|TJK}}, March 31, 2026}}
+{{nat fs r player|no=|pos=FW|name={{sortname|Raphael|Obermair}}<sup>INJ</sup> |age={{birth date and age|1996|4|1}}|caps=1|goals=1|club=[[SC Paderborn 07|SC Paderborn]]|clubnat=GER|latest=v. {{fb|TJK}}, March 31, 2026}}
+{{nat fs r player|no=|pos=FW|name={{sortname|Dylan|Demuynck}}|age={{birth date and age|2004|5|6}}|caps=10|goals=0|club=[[Lierse S.K. (2018)|Lierse]] |clubnat=BEL|latest=v. {{fb|MDV}}, November 18, 2025}}
+{{nat fs break}}
+<sup>INJ</sup> Withdrew due to an injury<br />
+<sup>PRE</sup> Included in the preliminary squad<br />
+<sup>RET</sup> Retired from the national team<br />
+<sup>SUS</sup> Serving suspension<br />
+{{nat fs end}}
+
+==Player records==
+{{missing information|section|matches before 1991|date=April 2021}}
+{{Updated|June 9, 2026}}<ref>{{cite web |title=Philippines |url=https://www.national-football-teams.com/country/146/Philippines.html |website=National Football Teams}}</ref>
+:''Players in '''bold''' are still active at international level.''
+
+=== Most appearances ===
+[[File:Phil Younghusband Davao Aguilas.jpg|thumb|200px|right|Phil Younghusband is Philippines' top goalscorer and most capped player.]]
+{| class="wikitable sortable" style="text-align: center"
+|-
+!width=30px|Rank
+!class="unsortable" style="width:150px;"|Name
+!width=50px|Caps
+!width=50px|Goals
+!class="unsortable" style="width:100px;"|Career
+|-
+|1
+|align=left|[[Phil Younghusband]]
+|108
+|52
+|2006–2019
+|-
+|2
+|align=left|[[James Younghusband]]
+|98
+|12
+|2006–2019
+|-
+|3
+|align=left|[[Patrick Reichelt]]
+|93
+|16
+|2012–2024
+|-
+|4
+|align=left|[[Neil Etheridge]]
+|82
+|0
+|2008–2026
+|-
+|5
+|align=left|'''[[Amani Aguinaldo]]'''
+|73
+|0
+|2013–present
+|-
+|6
+|align=left|'''[[Manny Ott]]'''
+|72
+|4
+|2010–present
+|-
+|7
+|align=left|[[Chieffy Caligdong]]
+|71
+|16
+|2004–2013
+|-
+|8
+|align=left|[[Rob Gier]]
+|68
+|3
+|2009–2015
+|-
+|9
+|align=left|'''[[Daisuke Sato (footballer)|Daisuke Sato]]'''
+|62
+|3
+|2014–present
+|-
+|10
+|align=left|[[Stephan Schröck]]
+|61
+|6
+|2011–2023
+|-
+|}
+
+=== Top goalscorers ===
+{| class="wikitable sortable" style="text-align: center"
+|-
+!width=30px|Rank
+!class="unsortable" width=175px|Name
+!width=50px|Goals
+!width=50px|Caps
+!width=50px|Ratio
+!class="unsortable" width=100px|Career
+|-
+|1
+|align="left"|[[Phil Younghusband]]
+|52
+|108
+|{{#expr:52/108 round 2}}
+|2006–2019
+|-
+|rowspan=2|2
+|align="left"|[[Chieffy Caligdong]]
+|16
+|71
+|{{#expr:16/71 round 2}}
+|2004–2013
+|-
+|align="left"|[[Patrick Reichelt]]
+|16
+|93
+|{{#expr:16/93 round 2}}
+|2012–2024
+|-
+|rowspan=2|4
+|align="left"|'''[[Bjørn Martin Kristensen]]'''
+|13
+|17
+|{{#expr:13/17 round 2}}
+|2024–present
+|-
+|align="left"|[[Ángel Guirado]]
+|13
+|46
+|{{#expr:13/46 round 2}}
+|2011–2021
+|-
+|6
+|align="left"|[[James Younghusband]]
+|12
+|98
+|{{#expr:12/98 round 2}}
+|2006–2019
+|-
+|7
+|align="left"|[[Ian Araneta]]
+|9
+|49
+|{{#expr:9/49 round 2}}
+|2002–2013
+|-
+|rowspan=2|8
+|align="left"|[[Mark Hartmann]]
+|8
+|41
+|{{#expr:8/41 round 2}}
+|2011–2023
+|-
+|align="left"|[[Misagh Bahadoran]]
+|8
+|60
+|{{#expr:8/60 round 2}}
+|2011–2018
+|-
+|rowspan=2|10
+|align="left"|[[Javier Patiño]]
+|7
+|20
+|{{#expr:7/20 round 2}}
+|2013–2019
+|-
+|align="left"|[[Chris Greatwich]]
+|7
+|48
+|{{#expr:7/48 round 2}}
+|2004–2014
+|-
+|}
+
+==Competition records==
+''For the head-to-head record of the national team against opposing nations, see the team's'' [[Philippines national football team records and statistics#Head-to-head record|''head-to-head record page'']].
+
+===FIFA World Cup===
+The Philippines has never qualified for the FIFA World Cup. The national team entered the [[1950 FIFA World Cup qualification]]<ref>{{cite news |title=Filipinos To Enter World Soccer C'sbips |url=https://eresources.nlb.gov.sg/newspapers/Digitised/Article/morningtribune19480901-1.2.134?ST=1&AT=search&k=philippines+football&P=2&Display=0&filterS=0&QT=philippines,football&oref=article |access-date=November 21, 2020 |work=Morning Tribune |date=September 1, 1948 |page=15 |archive-date=June 11, 2022 |archive-url=https://web.archive.org/web/20220611092613/https://eresources.nlb.gov.sg/newspapers/Digitised/Article/morningtribune19480901-1.2.134?ST=1&AT=search&k=philippines+football&P=2&Display=0&filterS=0&QT=philippines,football&oref=article |url-status=live }}</ref> but withdrew without playing a single game.<ref>{{cite news |title=Philippines Quit |url=https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19490510-1.2.99?ST=1&AT=search&k=philippines+football&P=2&Display=0&filterS=0&QT=philippines,football&oref=article |access-date=November 21, 2020 |work=Malaya Tribune |agency=Reuters |date=May 10, 1949 |page=10 |archive-date=November 29, 2020 |archive-url=https://web.archive.org/web/20201129090158/https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19490510-1.2.99?ST=1&AT=search&k=philippines+football&P=2&Display=0&filterS=0&QT=philippines,football&oref=article |url-status=live }}</ref> The Philippines had intended to enter the 1962 edition but did not push through with the plan.<ref>{{cite news |title=Cup entry |url=https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19591214-1.2.138?ST=1&AT=filter&K=philippines%20football&KA=philippines%20football&DF=&DT=&Display=0&AO=true&NPT=&L=&CTA=&NID=&CT=&WC=&YR=&QT=philippines,football&oref=article |access-date=November 21, 2020 |work=The Straits Times |date=December 14, 1949 |page=15 |archive-date=November 29, 2020 |archive-url=https://web.archive.org/web/20201129105145/https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19591214-1.2.138?ST=1&AT=filter&K=philippines%20football&KA=philippines%20football&DF=&DT=&Display=0&AO=true&NPT=&L=&CTA=&NID=&CT=&WC=&YR=&QT=philippines,football&oref=article |url-status=live }}</ref> The country's entry to the [[1966 FIFA World Cup qualification|1966 edition]] was not accepted due to its association not being able to pay the registration fee for the qualifiers and the national team withdrew from the [[1974 FIFA World Cup qualification]] just as they did in the 1950 qualifiers.<ref name=fifaworldcup>{{cite web |url=http://es.fifa.com/mm/document/fifafacts/mcwc/fifaworldcuppreliminaryhistory_byyear__13876.pdf |archive-url=https://web.archive.org/web/20110717045303/http://es.fifa.com/mm/document/fifafacts/mcwc/fifaworldcuppreliminaryhistory_byyear__13876.pdf  |archive-date=July 17, 2011 |title=History of the FIFA World Cup Preliminary Competition (by year) |work=FIFA.com |publisher=Fédération Internationale de Football Association |access-date=May 8, 2010 }}</ref><ref>{{cite web|title=1966 FIFA World Cup qualification|url=http://memim.com/1966-fifa-world-cup-qualification.html|website=MEMIM Encyclopedia|access-date=September 16, 2015|archive-date=March 4, 2016|archive-url=https://web.archive.org/web/20160304083927/http://memim.com/1966-fifa-world-cup-qualification.html|url-status=live}}</ref> The national team made its first participation in a [[1998 FIFA World Cup qualification (AFC)|FIFA World Cup qualifiers]] for the [[1998 FIFA World Cup|1998 edition]].
+
+At the [[2002 FIFA World Cup qualification|2002 FIFA World Cup qualifiers]], Yanti Barsales made the first goal for the Philippines at a FIFA World Cup qualifier against [[Syria national football team|Syria]].<ref>{{cite web|last1=Stokkermans|first1=Karel|title=World Cup 2002 Qualifying|url=https://www.rsssf.org/tables/2002q.html|access-date=March 27, 2015|publisher=Rec.Sport.Soccer Statistics Foundation|archive-date=January 16, 2009|archive-url=https://web.archive.org/web/20090116173331/http://www.rsssf.com/tables/2002q.html|url-status=live}}</ref><ref name="phrsssf">{{cite web|last1=Courtney|first1=Barrie|title=Philippines&nbsp;– List of International Matches|url=https://www.rsssf.org/tablesp/phil-intres.html|access-date=March 27, 2015|publisher=Rec.Sport.Soccer Statistics Foundation|archive-date=December 22, 2022|archive-url=https://web.archive.org/web/20221222110451/https://www.rsssf.org/tablesp/phil-intres.html|url-status=live}}</ref>
+
+The national team did not enter the qualifiers for the next succeeding editions until the [[2014 FIFA World Cup qualification|2014 FIFA World Cup qualifiers]], about 10 years later.<ref>{{cite news|last1=Fenix|first1=Ryan|title=Azkals take first step to World Cup dream in Sri Lanka|url=http://www.interaksyon.com/interaktv/azkals-take-first-step-to-world-cup-dream-in-sri-lanka|access-date=March 27, 2015|publisher=InterAksyon.com|date=June 28, 2011|archive-date=April 2, 2015|archive-url=https://web.archive.org/web/20150402135535/http://www.interaksyon.com/interaktv/azkals-take-first-step-to-world-cup-dream-in-sri-lanka|url-status=live}}</ref> The national team secured their first victory in a World Cup qualifier against [[Sri Lanka national football team|Sri Lanka]], 4–0.<ref>{{cite news|last1=Moore|first1=Roy|title=After Sri Lanka draw, Azkals still seeking first World Cup qualifying win|url=http://www.interaksyon.com/interaktv/after-sri-lanka-draw-azkals-still-seeking-first-world-cup-qualifying-win|access-date=March 27, 2015|publisher=InterAksyon.com|date=June 30, 2011|archive-date=April 2, 2015|archive-url=https://web.archive.org/web/20150402105434/http://www.interaksyon.com/interaktv/after-sri-lanka-draw-azkals-still-seeking-first-world-cup-qualifying-win|url-status=live}}</ref><ref>{{cite news|last1=Tordecilla|first1=Jaemark|title=Azkals destroy Sri Lanka to advance in World Cup qualifier|url=http://www.interaksyon.com/interaktv/azkals-destroy-sri-lanka-to-advance-in-world-cup-qualifier|access-date=March 27, 2015|publisher=InterAksyon.com|date=July 3, 2011|archive-date=April 2, 2015|archive-url=https://web.archive.org/web/20150402165717/http://www.interaksyon.com/interaktv/azkals-destroy-sri-lanka-to-advance-in-world-cup-qualifier|url-status=live}}</ref>
+
+{| class="wikitable" style="text-align: center; font-size:95%;"
+|-
+!colspan=8 "|[[FIFA World Cup]] record
+!rowspan=19|
+!colspan=7 "|[[FIFA World Cup qualification|Qualification]] record
+|-
+!Year
+!Round
+!width=25|Pld
+!width=25|W
+!width=25|D
+!width=25|L
+!width=25|GF
+!width=25|GA
+!Round
+!width=25|Pld
+!width=25|W
+!width=25|D
+!width=25|L
+!width=25|GF
+!width=25|GA
+|-
+|{{flagicon|URU}} [[1930 FIFA World Cup|1930]] to {{flagicon|FRA}} [[1938 FIFA World Cup|1938]]||colspan=7| ''Did not enter'' ||colspan=7|''Did not enter''
+|-
+|{{flagicon|BRA|1889}} [[1950 FIFA World Cup|1950]]||colspan=7| ''Withdrew''<ref name="fifaworldcup"/> ||colspan=7|''Withdrew''
+|-
+|{{flagicon|SUI}} [[1954 FIFA World Cup|1954]] to {{flagicon|CHI}} [[1962 FIFA World Cup|1962]]||colspan=7| ''Did not enter'' ||colspan=7|''Did not enter''
+|-
+|{{flagicon|England}} [[1966 FIFA World Cup|1966]]||colspan=7| ''Entry not accepted''<ref name=fifaworldcup/> ||colspan=7|''Entry not accepted''
+|-
+|{{flagicon|MEX}} [[1970 FIFA World Cup|1970]]||colspan=7| ''Did not enter'' ||colspan=7|''Did not enter''
+|-
+|{{flagicon|West Germany}} [[1974 FIFA World Cup|1974]]||colspan=7| ''Withdrew''<ref name=fifaworldcup/> ||colspan=7|''Withdrew''
+|-
+|{{flagicon|ARG}} [[1978 FIFA World Cup|1978]] to {{flagicon|USA}} [[1994 FIFA World Cup|1994]]||colspan=7| ''Did not enter''  ||colspan=7|''Did not enter''
+|-
+|{{flagicon|FRA|1974}} [[1998 FIFA World Cup|1998]] ||colspan=7 rowspan=2| ''Did not qualify'' || Round 1 || 3 || 0 || 0 || 3 || 0 || 10
+|-
+|{{flagicon|KOR}} {{flagicon|JPN}} [[2002 FIFA World Cup|2002]]|| Round 1 || 6 || 0 || 1 || 5 || 2 || 29
+|-
+|{{flagicon|GER}} [[2006 FIFA World Cup|2006]] and {{flagicon|RSA}} [[2010 FIFA World Cup|2010]]||colspan=7| ''Did not enter'' ||colspan=7| ''Did not enter''
+|-
+|{{flagicon|BRA}} [[2014 FIFA World Cup|2014]]||colspan=7 rowspan=4| ''Did not qualify'' || Round 2 || 4 || 1 || 1 || 2 || 6 || 6
+|-
+|{{flagicon|RUS}} [[2018 FIFA World Cup|2018]] || Round 2 || 8 || 3 || 1 || 4 || 8 || 12
+|-
+|{{flagicon|QAT}} [[2022 FIFA World Cup|2022]] || Round 2 || 8 || 3 || 2 || 3 || 12 || 11
+|-
+|{{flagicon|CAN}} {{flagicon|MEX}} {{flagicon|USA}} [[2026 FIFA World Cup|2026]] || Round 2 || 6 || 0 || 1 || 5 || 3 || 14
+|-
+|{{flagicon|MAR}} {{flagicon|POR}} {{flagicon|ESP}} [[2030 FIFA World Cup|2030]] || colspan=7 rowspan=2| ''To be determined'' || colspan=7 rowspan=2| ''To be determined''
+|-
+|{{flagicon|KSA}} [[2034 FIFA World Cup|2034]]
+|-
+!Total||{{Tooltip|0/23|Number of tournaments qualified for}}||—||—||—||—||—||—||—|| 35 || 7 || 6 || 22 || 31 || 82
+|}
+
+===Olympic Games===
+
+{| class="wikitable" style="text-align: center; font-size:95%;"
+|-
+!colspan=8 "|[[Football at the Summer Olympics|Summer Olympics]] record
+!rowspan=2|
+!colspan=7 "| [[Football at the Summer Olympics|Qualifying]] record
+|-
+!Year
+!Round
+!width=25|Pld
+!width=25|W
+!width=25|D
+!width=25|L
+!width=25|GF
+!width=25|GA
+!Round
+!width=25|Pld
+!width=25|W
+!width=25|D
+!width=25|L
+!width=25|GF
+!width=25|GA
+|-
+|{{flagicon|GBR}} [[Football at the 1908 Summer Olympics|1908]] <br /> to <br /> {{flagicon|FIN}} [[Football at the 1952 Summer Olympics|1952]]||colspan=15|''Did not enter''
+|-
+|{{flagicon|AUS}} [[Association football at the 1956 Summer Olympics|1956]]||colspan=15|''Withdrew''
+|-
+|{{flagicon|ITA}} [[Football at the 1960 Summer Olympics|1960]]||colspan=15|''Did not enter''
+|-
+|{{flagicon|JPN}} [[Football at the 1964 Summer Olympics|1964]]||colspan=15|''Withdrew''
+|-
+|{{flagicon|MEX}} [[Football at the 1968 Summer Olympics|1968]]||colspan=7 rowspan=6|''Did not qualify''
+!rowspan=6|
+| Round 1 || 5 || 0 || 0 || 5 || 3 || 48
+|-
+|{{flagicon|FRG}} [[Football at the 1972 Summer Olympics|1972]]|| Round 1 || 4 || 1 || 0 || 3 || 1 || 19
+|-
+|{{flagicon|CAN}} [[Football at the 1976 Summer Olympics|1976]]|| Round 1 || 2 || 0 || 0 || 2 || 0 || 6
+|-
+|{{flagicon|URS}} [[Football at the 1980 Summer Olympics|1980]]||Round 1 || 5 || 0 || 0 || 5 || 0 || 32
+|-
+|{{flagicon|USA}} [[Football at the 1984 Summer Olympics|1984]]|| Round 1 || 5 || 0 || 0 || 2 || 1 || 17
+|-
+|{{flagicon|KOR}} [[Football at the 1988 Summer Olympics|1988]]|| Round 1 || 4 || 0 || 0 || 4 || 0 || 31
+|-
+|[[Football at the 1992 Summer Olympics|1992]] to present
+|colspan=15|''See [[Philippines national under-23 football team|Philippines national under-23 team]]''
+|-
+!'''Total'''||'''0/17'''||&nbsp;– ||&nbsp;– ||&nbsp;– ||&nbsp;– ||&nbsp;– ||&nbsp;– || ||&nbsp;– || 22 || 1 || 0 || 21 || 5 || 153
+|}
+
+===AFC Asian Cup===
+{{main|Philippines at the AFC Asian Cup}}
+
+The Philippines qualified once for the Asian Cup, in 2019. For the 2011 and the [[2015 AFC Asian Cup]], the Philippines attempted to qualify for the tournament through the AFC Challenge Cup.<ref name="phrsssf"/><ref name=asiancupq/><ref name=afccc_rsssf/> The Philippines would have been invited to host the 1968 Asian Cup, a tournament in which it did not qualify for, if Iran withdrew as hosts.<ref>{{cite news |title=Dec 20 deadline for Iran |url=https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19671124-1.2.160.5?ST=1&AT=filter&DF=&DT=&AO=true&NPT=&L=&CTA=&NID=&CT=&WC=&YR=&k=philippines+football%26ka%3dphilippines+football&P=3&Display=0&filterS=0&QT=philippines,football&oref=article |access-date=November 21, 2020 |work=The Straits Times |date=November 24, 1967 |quote=If Iran declined (to host the 1968 Asian Cup), the Philippines will be asked to stage the matches. |archive-date=November 29, 2020 |archive-url=https://web.archive.org/web/20201129044822/https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19671124-1.2.160.5?ST=1&AT=filter&DF=&DT=&AO=true&NPT=&L=&CTA=&NID=&CT=&WC=&YR=&k=philippines+football%26ka%3Dphilippines+football&P=3&Display=0&filterS=0&QT=philippines,football&oref=article |url-status=live }}</ref>
+
+{| class="wikitable" style="text-align: center; font-size:95%;"
+|-
+!colspan=17 "| [[AFC Asian Cup]] record
+|-
+!colspan=9 "|[[AFC Asian Cup]] record
+!rowspan=22|
+!colspan=7 "|[[AFC Asian Cup qualifiers|Qualification]] record
+|-
+!Year
+!Round
+!width=25|Pld
+!width=25|W
+!width=25|D
+!width=25|L
+!width=25|GF
+!width=25|GA
+!width=25|Squad
+!width=25|Pld
+!width=25|W
+!width=25|D
+!width=25|L
+!width=25|GF
+!width=25|GA
+!width=25|Link
+|-
+|{{flagicon|HKG|1910}} [[1956 AFC Asian Cup|1956]]||colspan=8 rowspan=2| ''Did not qualify''|| 2 || 0 || 0 || 2 || 0 || 5 || [[1956 AFC Asian Cup qualification|1956]]
+|-
+|{{flagicon|KOR|1949}} [[1960 AFC Asian Cup|1960]] || 2 || 0 || 0 || 2 || 4 || 14 || [[1960 AFC Asian Cup qualification|1960]]
+|-
+|{{flagicon|ISR}} [[1964 AFC Asian Cup|1964]]||colspan=8| ''Withdrew'' ||colspan=6|''Withdrew'' || [[1964 AFC Asian Cup qualification|1964]]
+|-
+|{{flagicon|IRN|1964}} [[1968 AFC Asian Cup|1968]]||colspan=8| ''Did not qualify'' || 4 || 0 || 0 || 4 || 0 || 24 || [[1968 AFC Asian Cup qualification|1968]]
+|-
+|{{flagicon|THA}} [[1972 AFC Asian Cup|1972]]||colspan=8 rowspan=2| ''Withdrew'' ||colspan=6 rowspan=2| ''Withdrew''|| [[1972 AFC Asian Cup qualification|1972]] 
+|-
+|{{flagicon|IRN|1964}} [[1976 AFC Asian Cup|1976]] || [[1976 AFC Asian Cup qualification|1976]]
+|-
+|{{flagicon|KUW}} [[1980 AFC Asian Cup|1980]] ||colspan=8 rowspan=2| ''Did not qualify'' || 3 || 0 || 0 || 3 || 1 || 10 || [[1980 AFC Asian Cup qualification|1980]]
+|-
+|{{flagicon|SIN}} [[1984 AFC Asian Cup|1984]] || 5 || 0 || 0 || 5 || 3 || 16 || [[1984 AFC Asian Cup qualification|1984]]
+|-
+|{{flagicon|QAT}} [[1988 AFC Asian Cup|1988]]||colspan=8 rowspan=2| ''Did not enter''  ||colspan="6" rowspan=2|''Did not enter'' || [[1988 AFC Asian Cup qualification|1988]]
+|-
+|{{flagicon|JPN}} [[1992 AFC Asian Cup|1992]] || [[1992 AFC Asian Cup qualification|1992]]
+|-
+|{{flagicon|UAE}} [[1996 AFC Asian Cup|1996]] ||colspan="8" rowspan=2| ''Did not qualify'' || 3 || 0 || 0 || 3 || 1 || 20 || [[1996 AFC Asian Cup qualification|1996]]
+|-
+|{{flagicon|LIB}} [[2000 AFC Asian Cup|2000]] || 3 || 1 || 0 || 2 || 2 || 11 || [[2000 AFC Asian Cup qualification|2000]]
+|-
+|{{flagicon|CHN}} [[2004 AFC Asian Cup|2004]]||colspan=8 rowspan=2| ''Did not enter'' ||colspan="6" rowspan=2|''Did not enter'' || [[2004 AFC Asian Cup qualification|2004]]
+|-
+|{{flagicon|INA}} {{flagicon|MAS}} {{flagicon|THA}} {{flagicon|VIE}} [[2007 AFC Asian Cup|2007]] || [[2007 AFC Asian Cup qualification|2007]]
+|-
+|{{flagicon|QAT}} [[2011 AFC Asian Cup|2011]]||colspan=8 rowspan=2| ''Did not qualify'' ||colspan="6" rowspan=2|''[[AFC Challenge Cup]]'' || 
+|-
+|{{flagicon|AUS}} [[2015 AFC Asian Cup|2015]] || 
+|-
+|{{flagicon|UAE}} [[2019 AFC Asian Cup|2019]]|| Group stage ||3||0||0||3||1||7|| |[[2019 AFC Asian Cup squads#Philippines|Squad]] || 14 || 6 || 4 || 4 || 21 || 20 || [[2019 AFC Asian Cup qualification|2019]]
+|-
+|{{flagicon|QAT}} [[2023 AFC Asian Cup|2023]]||colspan=8 rowspan=2| ''Did not qualify'' || 11 || 4 || 3 || 4 || 13 || 15 || [[2023 AFC Asian Cup qualification|2023]]
+|-
+|{{flagicon|KSA}} [[2027 AFC Asian Cup|2027]]|| 12 || 4 || 3 || 5 || 19 || 20 || [[2027 AFC Asian Cup qualification|2027 ]]
+|-
+!'''Total'''||Group stage||3||0||0||3||1||7||–||59||15||10||34||64||155
+|}
+
+===Asian Games===
+
+{| class="wikitable collapsible collapsed" style="text-align: center; font-size:95%;"
+|-
+!colspan=9 "|[[Football at the Asian Games|Asian Games]] record
+|-
+!Year
+!Round
+!width=25|Pld
+!width=25|W
+!width=25|D
+!width=25|L
+!width=25|GF
+!width=25|GA
+!width=25|Squad
+|-
+|{{flagicon|India}} [[Football at the 1951 Asian Games|1951]]||colspan=8#| ''Withdrew''
+|-
+|style="border: 3px solid red"|{{flagicon|PHI|1936}} [[Football at the 1954 Asian Games|1954]]||Round 1||2||0||0||2||2||7||[[Football at the 1954 Asian Games – Squads#Philippines|Squad]]
+|-
+|{{flagicon|Japan}} [[Football at the 1958 Asian Games|1958]]||Quarter-finals||3||1||0||2||2||8||[[Football at the 1958 Asian Games – Squads#Philippines|Squad]]
+|-
+|{{flagicon|Indonesia}} [[Football at the 1962 Asian Games|1962]]||Round 1||3||0||0||3||1||27||[[Football at the 1962 Asian Games – Squads#Philippines|Squad]]
+|-
+|{{flagicon|THA}} [[Football at the 1966 Asian Games|1966]] and {{flagicon|THA}} [[Football at the 1970 Asian Games|1970]]||colspan=8| ''Did not enter''
+|-
+|{{flagicon|Iran|1964}} [[Football at the 1974 Asian Games|1974]]||Round 1||3||0||0||3||0||21||[[Football at the 1974 Asian Games – Squads#Philippines|Squad]]
+|-
+|{{flagicon|THA}} [[Football at the 1978 Asian Games|1978]] to <br /> {{flagicon|THA}} [[Football at the 1998 Asian Games|1998]]||colspan=8| ''Did not enter''
+|-
+|[[Football at the 2002 Asian Games|2002]] to ''present''||colspan=8|''See [[Philippines national under-23 football team|Philippines national under-23 team]]''
+|-
+!'''Total'''||4/13||11||1||0||10||5||63||–
+|}
+
+===AFC Challenge Cup===
+The AFC Challenge Cup was organized as a route for nations classified as "emerging" or "developing" as a sole route to qualify for the [[AFC Asian Cup|Asian Cup]]. The Philippines is among these nations<ref name=asiancupq>{{cite news|last1=Verora|first1=Levi|title=Azkals to battle 7 more for last spot in AFC Asian Cup|url=https://www.rappler.com/sports/football/53974-azkals-battle-afc-asian-cup/|access-date=March 27, 2015|publisher=Rappler|date=May 26, 2014|archive-date=March 28, 2014|archive-url=https://web.archive.org/web/20140328105641/http://www.rappler.com/sports/by-sport/football/53974-azkals-battle-afc-asian-cup|url-status=live}}</ref><ref name=afccc_rsssf>{{cite web|last1=Stokkermans|first1=Karel|title=AFC Challenge Cup|url=https://www.rsssf.org/tablesa/afc-emerging.html|website=Rec.Sport.Soccer Statistics Foundation|access-date=March 27, 2015|archive-date=July 26, 2022|archive-url=https://web.archive.org/web/20220726161733/https://www.rsssf.org/tablesa/afc-emerging.html|url-status=live}}</ref>
+and participated at the inaugural [[2006 AFC Challenge Cup]]. After a qualification phase was introduced the Philippines failed to qualify for the next two succeeding editions in [[2008 AFC Challenge Cup|2008]] and [[2010 AFC Challenge Cup|2010]]. The Philippines qualified for the [[2012 AFC Challenge Cup]] where they finished third.<ref name=afccc>{{cite news|last1=Freelend|first1=Paul|title=Only victory will do for emergent Philippines in AFC Challenge Cup semi-finals|url=https://www.thenationalnews.com/sport/only-victory-will-do-for-emergent-philippines-in-afc-challenge-cup-semi-finals-1.247521/|access-date=March 27, 2015|publisher=The National|date=May 27, 2014|archive-date=April 2, 2015|archive-url=https://web.archive.org/web/20150402173613/http://www.thenational.ae/sport/football/only-victory-will-do-for-emergent-philippines-in-afc-challenge-cup-semi-finals|url-status=live}}</ref> [[Phil Younghusband]] was the Golden Boot winner of the edition scoring six goals in the final tournament.<ref>{{cite news|last1=Malig|first1=Jojo|title=Phil Younghusband wins Golden Boot award|url=http://www.abs-cbnnews.com/sports/03/19/12/phil-younghusband-wins-golden-boot-award|access-date=March 26, 2015|publisher=ABS-CBN News|date=March 19, 2012|archive-date=September 20, 2015|archive-url=https://web.archive.org/web/20150920071332/http://www.abs-cbnnews.com/sports/03/19/12/phil-younghusband-wins-golden-boot-award|url-status=live}}</ref> The team reached the finals of [[2014 AFC Challenge Cup|2014]] edition of the tournament settling for second place after losing to [[Palestine national football team|Palestine]] in the finals.<ref>{{cite news|title=Azkals lose to Palestine in AFC Challenge Cup finals|url=http://www.sunstar.com.ph/breaking-news/2014/05/31/azkals-lose-palestine-afc-challenge-cup-finals-345683|access-date=March 27, 2015|publisher=Sun Star|date=May 31, 2014|archive-date=April 2, 2015|archive-url=https://web.archive.org/web/20150402144300/http://www.sunstar.com.ph/breaking-news/2014/05/31/azkals-lose-palestine-afc-challenge-cup-finals-345683|url-status=live}}</ref> The AFC Challenge Cup tournament was dissolved after the 2014 edition.<ref name=afccc_rsssf/>
+
+{| class="wikitable collapsible autocollapse" style="text-align: center; font-size:95%;"
+|-
+!colspan=17 "|[[AFC Challenge Cup]] record
+|-
+!colspan=9 "|[[AFC Challenge Cup]] record
+!rowspan=7|
+!colspan=8 "|Qualification record
+|-
+!Year
+!Round
+!width=25|Pld
+!width=25|W
+!width=25|D
+!width=25|L
+!width=25|GF
+!width=25|GA
+!width=25|Squad
+!Round
+!width=25|Pld
+!width=25|W
+!width=25|D
+!width=25|L
+!width=25|GF
+!width=25|GA
+|-
+|{{flagicon|BAN}} [[2006 AFC Challenge Cup|2006]]||Group stage||3||0||2||1||2||3||[[2006 AFC Challenge Cup squads#Philippines|Squad]] ||colspan=7|''No qualification''
+|-
+|{{flagicon|IND}} [[2008 AFC Challenge Cup|2008]]||colspan=8 rowspan=2| ''Did not qualify'' || Group stage || 3 || 2 || 1 || 0 || 4 || 0
+|-
+|{{flagicon|SRI}} [[2010 AFC Challenge Cup|2010]]||Group stage || 3 || 1 || 0 || 2 || 3 || 8
+|- style="background:#c96;"
+|{{flagicon|NEP}} [[2012 AFC Challenge Cup|2012]]||'''Third place''' ||'''5'''||'''3'''||'''0'''||'''2'''||'''9'''||'''8'''||'''[[2012 AFC Challenge Cup squads#Philippines|Squad]]''' || Round 2 || 5 || 2 || 2 || 1 || 7 || 3
+|- style="background:silver;"
+|{{flagicon|MDV}} [[2014 AFC Challenge Cup|2014]]||'''Runners-up'''||'''5'''||'''3'''||'''1'''||'''1'''||'''7'''||'''3'''||'''[[2014 AFC Challenge Cup squads#Philippines|Squad]]'''|| Group stage || 2 || 2 || 0 || 0 || 9 || 0
+|-
+!'''Total'''||3/5||13||6||3||4||18||14||–||||–||13||7||3||3||23||11
+|}
+
+===Far Eastern Games===
+Out of the ten [[Football at the Far Eastern Championship Games|football tournaments]] held in ten editions of the [[Far Eastern Games]], The Philippines only won the inaugural 1913 edition<ref name="fareast">{{cite web|last1=Stokkermans|first1=Karel|title=Far Eastern Games|url=https://www.rsssf.org/tablesf/fareastgames.html|website=Rec.Sport.Soccer Statistics Foundation|access-date=March 27, 2015|archive-date=July 26, 2022|archive-url=https://web.archive.org/web/20220726161944/https://www.rsssf.org/tablesf/fareastgames.html|url-status=live}}</ref> despite fielding American, Spanish and British players violating tournament rules in that edition. The team was nevertheless named champions.<ref>{{cite web|last1=Jovanovic|first1=Bojan|title=First Far Eastern Games 1913 (Manila)|url=https://www.rsssf.org/tablesf/fareastgames13.html|website=Rec.Sport.Soccer Statistics Foundation|access-date=February 2, 2023|archive-date=August 14, 2022|archive-url=https://web.archive.org/web/20220814124240/https://www.rsssf.org/tablesf/fareastgames13.html|url-status=live}}</ref> China was awarded champions of the nine other editions of the tournaments.<ref name="fareast"/> At the [[Football at the 1917 Far Eastern Championship Games|1917 Far Eastern Games]], the Philippines recorded its biggest victory in an international match to date, which was the [[Philippines 15–2 Japan|15–2]] win against Japan. [[FC Barcelona]] player [[Paulino Alcántara]] was part of the national squad.<ref name="europestar"/>
+
+{| class="wikitable collapsible collapsed" style="text-align: center; font-size:95%;"
+|-
+!colspan=14 "| [[Football at the Far Eastern Games|Far Eastern Games]] record
+|-
+!Year
+!Round
+!Pld
+!W
+!D
+!L
+!GF
+!GA
+|- style="background:gold;"
+|style="border: 3px solid red"|{{flagicon|PHI|1912}} [[Football at the 1913 Far Eastern Games|1913]]
+|'''Champions'''||'''1'''||'''1'''||'''0'''||'''0'''||'''2'''||'''1'''
+|- style="background:silver;"
+|{{flagicon|Republic of China (1912–1949)|1912}} [[Football at the 1915 Far Eastern Games|1915]]
+|'''Runners-up'''||'''3'''||'''0'''||'''2'''||'''1'''||'''1'''||'''2'''
+|- style="background:silver;"
+|{{flagicon|JPN}} [[Football at the 1917 Far Eastern Games|1917]]
+|'''Runners-up'''||'''2'''||'''1'''||'''0'''||'''1'''||'''15'''||'''5'''
+|- style="background:silver;"
+|style="border: 3px solid red"|{{flagicon|PHI|1912}} [[Football at the 1919 Far Eastern Games|1919]]
+|'''Runners-up'''||'''3'''||'''1'''||'''0'''||'''2'''||'''3'''||'''5'''
+|- style="background:silver;"
+|{{flagicon|Republic of China (1912–1949)|1912}} [[Football at the 1921 Far Eastern Games|1921]]
+|'''Runners-up'''||'''2'''||'''1'''||'''0'''||'''1'''||'''3'''||'''1'''
+|- style="background:silver;"
+|{{flagicon|JPN}} [[Football at the 1923 Far Eastern Games|1923]]
+|'''Runners-up'''||'''2'''||'''1'''||'''0'''||'''1'''||'''2'''||'''4'''
+|- style="background:silver;"
+|style="border: 3px solid red"|{{flagicon|PHI|1919}} [[Football at the 1925 Far Eastern Games|1925]]
+|'''Runners-up'''||'''2'''||'''1'''||'''0'''||'''1'''||'''5'''||'''5'''
+|- style="background:#c96;"
+|{{flagicon|Republic of China (1912–1949)|1912}} [[Football at the 1927 Far Eastern Games|1927]]
+|'''Third place'''||'''2'''||'''0'''||'''0'''||'''2'''||'''2'''||'''5'''
+|- style="background:#c96;"
+|{{flagicon|JPN}} [[Football at the 1930 Far Eastern Games|1930]]
+|'''Third place'''||'''2'''||'''0'''||'''0'''||'''2'''||'''2'''||'''12'''
+|- style="background:#c96;"
+|style="border: 3px solid red"|{{flagicon|PHI|1919}} [[Football at the 1934 Far Eastern Games|1934]]
+|'''Third place'''||'''3'''||'''1'''||'''0'''||'''2'''||'''6'''||'''8'''
+|-
+!'''Total'''||10/10||22||7||2||13||41||48
+|}
+
+===ASEAN Championship===
+The Philippines participated in every edition of the AFF Championship except the 2008 edition, in which the team failed to qualify for the final tournament. Their first match in the tournament was a 0–5 defeat handed by [[Thailand national football team|Thailand]] in the 1996 edition. [[Freddy Gonzalez (Filipino footballer)|Freddy Gonzalez]] scored the first goal for the Philippines in the tournament in a 1–3 defeat, also to Thailand, in the 1998 edition. [[Chieffy Caligdong]] scored a [[Brace (association football)|brace]] in the national team's 2–1 victory against [[Timor-Leste national football team|Timor Leste]] in the 2004 edition. The victory was the first for the Philippines in the AFF Championship.<ref name=affthrowback>{{cite news|title=Throwback: Ten Suzuki Cup Moments for the Azkals|url=http://football.com.ph/throwback-ten-suzuki-cup-moments-azkals/|access-date=November 24, 2016|work=Football.com.ph|date=November 17, 2016|archive-date=November 24, 2016|archive-url=https://web.archive.org/web/20161124155756/http://football.com.ph/throwback-ten-suzuki-cup-moments-azkals/|url-status=live}}</ref>
+
+The national team fared poorly during the first seven editions of the [[ASEAN Championship|ASEAN Championships]] from [[1996 AFF Championship|1996]] to [[2008 AFF Championship|2008]], losing 19 out of 21 matches.<ref name=afccc/>  worst defeat at the tournament was the [[Indonesia 13–1 Philippines|1–13 match]] against Indonesia at the [[2002 AFF Championship]] which was also remains the highest scoreline in the tournament as of 2020.<ref>{{cite news|title=Azkals look to end sorry Thai record|url=http://www.affsuzukicup.com/news/azkals-look-to-end-sorry-thai-record#.VRUZ6NjJ-h8|access-date=March 27, 2015|work=AFF Suzuki Cup|publisher=ASEAN Football Federation|date=December 2, 2014|quote=The Azkals had lost all of their five matches against Indonesia prior to this year's tournament including a 13–1 drubbing in Jakarta in 2002 which remains the competition's highest-ever scoreline.|archive-date=December 21, 2014|archive-url=https://web.archive.org/web/20141221162106/http://www.affsuzukicup.com/news/azkals-look-to-end-sorry-thai-record#.VRUZ6NjJ-h8|url-status=live}}</ref> The national team reached its first semi-finals at the [[2010 AFF Championship]] after defeating [[Vietnam national football team|Vietnam]] in a 2–0 [[Upset (competition)|upset victory]] dubbed the "[[Miracle of Hanoi]]".<ref name=afccc/>
+
+{| class="wikitable collapsible collapsed" style="text-align: center; font-size:100%;"
+|-
+!colspan=17 "| [[ASEAN Championship]] record 
+|-
+!colspan=10 "|[[ASEAN Championship]] record
+!rowspan=18|
+!colspan=7 "|Qualification record
+|-
+!Year
+!Round
+!{{Tooltip|Pos|Position}}
+!{{Tooltip|Pld|Matches played}}
+!{{Tooltip|W|Matches won}}
+!{{Tooltip|D|Matches drawn}}
+!{{Tooltip|L|Matches lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!Squad
+!{{Tooltip|Pld|Matches played}}
+!{{Tooltip|W|Matches won}}
+!{{Tooltip|D|Matches drawn}}
+!{{Tooltip|L|Matches lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+|-
+|{{flagicon|SIN}} [[1996 AFF Championship|1996]]||rowspan=6|Group stage||10th||4||0||0||4||0||16||[[1996 AFF Championship squads#Philippines|Squad]] || colspan=6|''No qualification''
+|-
+|{{flagicon|VIE}} [[1998 AFF Championship|1998]]||8th||3||0||0||3||3||11||[[1998 AFF Championship squads#Philippines|Squad]]
+|2||0||1||1||1||2
+|-
+|{{flagicon|THA}} [[2000 AFF Championship|2000]]||8th||3||0||0||3||0||8||[[2000 AFF Championship squads#Philippines|Squad]] ||colspan=7 rowspan=3|''No qualification''
+|-
+|{{flagicon|INA}} {{flagicon|SIN}} [[2002 AFF Championship|2002]]||9th||4||0||0||4||3||24||[[2002 AFF Championship squads#Philippines|Squad]]
+|-
+|{{flagicon|MAS}} {{flagicon|VIE}} [[2004 AFF Championship|2004]]||7th||4||1||0||3||4||9||[[2004 AFF Championship squads#Philippines|Squad]]
+|-
+|{{flagicon|SIN}} {{flagicon|THA}} [[2007 AFF Championship|2007]]||7th||3||0||1||2||0||8||[[2007 AFF Championship squads#Philippines|Squad]]||4||3||0||1||13||3
+|-
+|{{flagicon|INA}} {{flagicon|THA}} [[2008 AFF Championship|2008]]||colspan=9| ''Did not qualify'' ||4||2||1||1||6||5
+|- style="background:#cfaa88;"
+|{{flagicon|INA}} {{flagicon|VIE}} [[2010 AFF Championship|2010]]|| rowspan=3|'''Semi-finals''' ||4th||5||1||2||2||3||3||[[2010 AFF Championship squads#Philippines|Squad]] ||3||1||2||0||7||2
+|- style="background:#cfaa88;"
+|{{flagicon|MAS}} {{flagicon|THA}} [[2012 AFF Championship|2012]] ||3rd||5||2||1||2||4||3||[[2012 AFF Championship squads#Philippines|Squad]]||colspan=6 rowspan=2|''Qualified automatically''
+|- style="background:#cfaa88;"
+|{{flagicon|SIN}} {{flagicon|VIE}} [[2014 AFF Championship|2014]] ||4th||5||2||1||2||9||7||[[2014 AFF Championship squads#Philippines|Squad]]
+|-
+|style="border: 3px solid red"|{{flagicon|MYA}} {{flagicon|PHI}} [[2016 AFF Championship|2016]]|| Group stage ||6th||3||0||2||1||2||3||[[2016 AFF Championship squads#Philippines|Squad]] ||colspan=6|''Qualified as co-hosts''
+|- style="background:#cfaa88;"
+|{{flagicon|ASEAN}} [[2018 AFF Championship|2018]]|| '''Semi-finals''' ||4th||6||2||2||2||7||7||[[2018 AFF Championship squads#Philippines|Squad]] ||colspan="6" rowspan="4" style="background:#FFFFFF;"|''Qualified automatically''
+|-
+|{{flagicon|SIN}} [[2020 AFF Championship|2020]]|| rowspan=2|Group stage ||5th||4||2||0||2||12||6||[[2020 AFF Championship squads#Philippines|Squad]]
+|-
+|{{flagicon|ASEAN}} [[2022 AFF Championship|2022]]|| 7th||4||1||0||3||8||10||[[2022 AFF Championship squads#Philippines|Squad]]
+|- style="background:#cfaa88;"
+|{{flagicon|ASEAN}} [[2024 ASEAN Championship|2024]] ||Semi-finals||3rd||6||2||3||1||7||7||[[2024 ASEAN Championship squads#Philippines|Squad]] 
+|-
+!'''Total'''||'''Semi-finals'''||{{Abbr|15/15|Number of tournaments entered}}||59||13||12||34||62||122||–||13||6||4||3||27||12
+|}
+
+===Southeast Asian Games===
+The senior national team managed to reach the semi-finals of the football tournament of the Southeast Asian Games before the football was made into an under-23 tournament.
+{| class="wikitable collapsible collapsed" style="text-align: center; font-size:95%;"
+|-
+!colspan=9 "|[[Football at the Southeast Asian Games|Southeast Asian Games]] record
+|-
+!Year
+!Round
+!width=25|Pld
+!width=25|W
+!width=25|D
+!width=25|L
+!width=25|GF
+!width=25|GA
+!width=25|Squad
+|-
+|[[1959 Southeast Asian Peninsular Games|1959]] to [[Football at the 1975 Southeast Asian Games|1975]]||colspan=8|''Not affiliated to SEAP''
+|-
+|{{flagicon|Malaysia}} [[Football at the 1977 Southeast Asian Games|1977]]||Round 1||3||1||1||1||5||7||–
+|-
+|{{flagicon|Indonesia}} [[Football at the 1979 Southeast Asian Games|1979]]||colspan=8| ''Did not enter''
+|-
+|style="border: 3px solid red"|{{flagicon|PHI|1936}} [[Football at the 1981 Southeast Asian Games|1981]]||rowspan=3|Round 1||2||0||0||2||0||3||–
+|-
+|{{flagicon|Singapore}} [[Football at the 1983 Southeast Asian Games|1983]]||2||0||1||1||0||5||–
+|-
+|{{flagicon|Thailand}} [[Football at the 1985 Southeast Asian Games|1985]]||2||0||0||2||0||13||–
+|-
+|{{flagicon|Indonesia}} [[Football at the 1987 Southeast Asian Games|1987]]||colspan=8| ''Did not enter''
+|-
+|{{flagicon|Malaysia}} [[Football at the 1989 Southeast Asian Games|1989]]||Round 1||3||0||0||3||1||10||–
+|-
+|style="border: 3px solid red"|{{flagicon|PHI|1986}} [[Football at the 1991 Southeast Asian Games|1991]]||Semi-finals||4||1||1||2||6||10||[[Football at the 1991 Southeast Asian Games – Men's team squads#Philippines|Squad]]
+|-
+|{{flagicon|Singapore}} [[Football at the 1993 Southeast Asian Games|1993]]|| rowspan="4"|Round 1||3||0||0||3||1||11||–
+|-
+|{{flagicon|Thailand}} [[Football at the 1995 Southeast Asian Games|1995]]||4||1||0||3||2||9||–
+|-
+|{{flagicon|Indonesia}} [[Football at the 1997 Southeast Asian Games|1997]]||4||0||0||4||1||13||–
+|-
+|{{flagicon|Brunei}} [[Football at the 1999 Southeast Asian Games|1999]]||4||0||0||4||3||18||[[Football at the 1999 Southeast Asian Games – Men's team squads#Philippines|Squad]]
+|-
+|[[Football at the 2001 Southeast Asian Games|2001]] to ''present''||colspan=8|''See [[Philippines national under-23 football team|Philippines national under-23 team]]''
+|-
+!'''Total'''||10/12||31||3||3||25||19||99||–
+|}
+
+===Minor tournaments===
+The Philippines participated at numerous minor friendly tournaments. Aside from other national teams, the Philippine nationals also faced selection teams and club sides from other nations at some of these tournaments. The team made a podium finish, placing not below third place, at the [[Japanese Empire]]-sanctioned [[Football at the 1940 East Asian Games|East Asian Games in 1940]], the [[Long Teng Cup]] ([[2010 Long Teng Cup|2010]], [[2011 Long Teng Cup|2011]]) held in Taiwan, and all three editions of the [[Philippine Peace Cup]] ([[2012 Philippine Peace Cup|2012]], [[2013 Philippine Peace Cup|2013]] and [[2014 Philippine Peace Cup|2014]]) hosted by the home country.
+{| class="wikitable collapsible collapsed" style="text-align: center; font-size:95%;"
+|-
+!colspan=9 "| Minor tournaments record
+|-
+!Tournament
+!Round
+!Position
+!Pld
+!W
+!D
+!L
+!GF
+!GA
+|- style="background:#c96;"
+|align=left|{{flagicon|Japan}} [[Football at the 1940 East Asian Games|1940 East Asian Games<br /> {{small|(2600th Anniversary Since Kigen)}}]]||Group stage||3rd||3||0||2||1||3||4
+|-
+|align=left|{{flagicon|Malaya}} [[1962 Merdeka Tournament]]||Group stage||''5th in group''||4||0||0||4||2||23
+|-
+|align=left|{{flagicon|MAS}} [[1971 Merdeka Tournament]]||Group stage||11th||5||0||1||4||7||16
+|-
+|align=left|{{flagicon|SIN}} [[1971 Pesta Sukan Cup]]||Quarter-finals||8th||2||0||0||2||1||4
+|-
+|align=left|{{flagicon|INA}} [[1972 Jakarta Anniversary Tournament]]||Group stage||''3rd in group''||4||2||1||1||4||5
+|-
+|align=left|{{flagicon|MAS}} [[1972 Merdeka Tournament]]||Group stage||8th||5||1||2||2||8||10
+|-
+|align=left|{{flagicon|SIN}} [[1972 Pesta Sukan Cup]]||Group stage||''3rd in group''||2||0||0||2||1||7
+|-
+|align=left|{{flagicon|KOR}} [[1972 President's Cup Football Tournament]]||Group stage||8th||4||0||0||4||0||22
+|-
+|align=left|{{flagicon|INA}} [[1981 Jakarta Anniversary Tournament]]||Group stage||''3rd in group''||3||1||0||2||2||15
+|-
+|align=left|{{flagicon|THA}} [[1982 King's Cup]]||Group stage||''5th in group''||4||0||0||4||0||6
+|-
+|align=left|{{flagicon|BRU}} [[Football at the 1985 Brunei Merdeka Games|1985 Brunei Merdeka Games]]||Group stage||''3rd in group''||2||0||0||2||1||8
+|-
+|align=left|{{flagicon|BRU}} [[Football at the 1986 Brunei Merdeka Games|1986 Brunei Merdeka Games]]||Group stage||''3rd in group''||2||0||0||2||1||6
+|-
+|style="border: 3px solid red; text-align: left;"|{{flagicon|PHI|1986}} [[President Aquino Cup|1986 President Aquino Cup]]||Group stage||4th||3||0||0||3||1||12
+|-
+|align=left|{{flagicon|BRU}} [[Football at the 1987 Brunei Merdeka Games|1987 Brunei Merdeka Games]]||Group stage||''3rd in group''||2||0||0||2||0||4
+|-
+|align=left|{{flagicon|BRU}} [[Football at the 1990 Brunei Merdeka Games|1990 Brunei Merdeka Games]]||Group stage||''3rd in group''||2||0||0||2||0||7
+|-
+|style="border: 3px solid red; text-align: left;"|{{flagicon|PHI|1986}} 1991 Philippines International Cup||Group stage||4th||3||1||1||1||2||2
+|-
+|style="border: 3px solid red; text-align: left;"|{{flagicon|PHI|1986}} [[1993 Philippines International Cup]]||Third place match||4th||5||2||1||2||4||4
+|-
+|style="border: 3px solid red; text-align: left;"|{{flagicon|PHI|1986}} [[1997 President's Cup (football)|1997 President's Cup]]||Third place match||4th||4||1||2||1||4||4
+|-
+|style="border: 3px solid red; text-align: left;"|{{flagicon|PHI|1986}} [[1998 President's Centennial Cup]]||Third place match||4th||5||2||0||3||5||11
+|- style="background:#c96;"
+|align=left|{{flagicon|ROC}} [[2010 Long Teng Cup]]||Group stage||3rd||3||1||1||1||8||5
+|- style="background:silver;"
+|align=left|{{flagicon|ROC}} [[2011 Long Teng Cup]]||Group stage||2nd||3||1||2||0||5||3
+|- style="background:gold;"
+|style="border: 3px solid red; text-align: left;"|{{flagicon|PHI}} [[2012 Philippine Peace Cup]]||Group stage||1st||3||3||0||0||9||1
+|- style="background:gold;"
+|style="border: 3px solid red; text-align: left;"|{{flagicon|PHI}} [[2013 Philippine Peace Cup]]||Group stage||1st||2||1||0||1||3||2
+|- style="background:silver;"
+|style="border: 3px solid red; text-align: left;"|{{flagicon|PHI}} [[2014 Philippine Peace Cup]]||Final||2nd||2||1||0||1||7||4
+|- style="background:silver;"
+|align=left|{{flagicon|ROC}} [[2017 CTFA International Tournament]]||Group stage||2nd||3||1||0||2||3||5
+|- style="background:#c96;"
+|align=left|{{flagicon|BAN}} [[2018 Bangabandhu Cup|2018 Bangabandhu Gold Cup]]||Semi-finals||3rd||3||2||0||1||4||3
+|- style="background:#c96;"
+|align=left|{{flagicon|SGP}} [[2022 FAS Tri-Nations Series]]||Group stage||3rd||2||0||0||2||0||4
+|-
+|align=left|{{flagicon|MAS}} [[2024 Merdeka Tournament]]||Third place match||4th||2||0||1||1||1||2
+|-style="background:#c96;"
+|align=left|{{flagicon|THA}} [[2024 King's Cup]]||Third place match||3rd||2||1||0||1||4||3
+|-
+!'''Total'''||–||–||78||18||11||49||80||185
+|}
+
+=== Regional record ===
+{| class="wikitable"
+|+Last meet up against Southeast Asia countries
+!Opponents
+!Date
+!Score
+!Outcome
+!Match type
+|-
+|{{fb|BRU}}
+|December 23, 2022
+|5−1
+|Won
+|[[2022 AFF Championship]]
+|-
+|{{fb|CAM}}
+|December 20, 2022
+|2−3
+|Lost
+|[[2022 AFF Championship]]
+|-
+|{{fb|IDN}}
+|December 21, 2024
+|1−0
+|Won
+|[[2024 ASEAN Championship]]
+|-
+|{{fb|LAO}}
+|December 15, 2024
+|1−1
+|Draw
+|[[2024 ASEAN Championship]]
+|-
+|{{fb|MAS}}
+|September 4, 2024
+|1−2
+|Lost
+|[[2024 Merdeka Tournament]]
+|-
+|{{fb|MYA}}
+|June 9, 2026
+|5−1
+|Win
+|[[Exhibition match|Friendly]]
+|-
+|{{fb|SGP}}
+|March 29, 2022
+|2−0
+|Lost
+|[[2022 FAS Tri-Nations Series]]
+|-
+|{{fb|THA}}
+|December 30, 2024
+|3−1
+|Lost
+|[[2024 ASEAN Championship]]
+|-
+|{{fb|TLS}}
+|October 14, 2025
+|3−1
+|Won
+|[[2027_AFC_Asian_Cup_qualification_–_third_round|2027 AFC Asian Cup qualification]]
+|-
+|{{fb|VIE}}
+|December 18, 2024
+|1−1
+|Draw
+|[[2024 ASEAN Championship]]
+|}
+
+==Honours==
+<!-- DO NOT ADD UNOFFICIAL OR FRIENDLY COMPETITIONS IN THE SUMMARY TABLE FOR OFFICIAL HONOURS ONLY -->
+===Continental===
+* '''[[AFC Challenge Cup]]'''
+** {{silver2}} Runners-up (1): [[2014 AFC Challenge Cup|2014]]
+** {{bronze3}} Third place (1): [[2012 AFC Challenge Cup|2012]]
+
+===Regional===
+*'''[[Football at the Far Eastern Championship Games|Far Eastern Championship Games]]'''
+** {{gold1}} '''Gold medal (1)''': [[Football at the 1913 Far Eastern Championship Games|1913]]
+** {{silver2}} Silver medal (6): [[Football at the 1915 Far Eastern Championship Games|1915]], [[Football at the 1917 Far Eastern Championship Games|1917]], [[Football at the 1919 Far Eastern Championship Games|1919]], [[Football at the 1921 Far Eastern Championship Games|1921]], [[Football at the 1923 Far Eastern Championship Games|1923]], [[Football at the 1925 Far Eastern Championship Games|1925]]
+** {{bronze3}} Bronze medal (3): [[Football at the 1927 Far Eastern Championship Games|1927]], [[Football at the 1930 Far Eastern Championship Games|1930]], [[Football at the 1934 Far Eastern Championship Games|1934]]
+
+===Friendly===
+* '''[[Philippine Peace Cup]] (2)''': [[2012 Philippine Peace Cup|2012]], [[2013 Philippine Peace Cup|2013]]
+* '''Tri Nation Friendlies (1)''': 2026
+
+===Awards===
+* '''[[ASEAN Championship#Awards|ASEAN Championship Fair Play Award]] (1)''': 2010<ref>{{cite news |url=http://www.pressreader.com/philippines/manila-times/20101231/textview |title=Filipino booters 'Azkals' win Fair Play Award in Suzuki Cup |author=Ramos, Josef |publisher=Manila Times |date=31 December 2010 |access-date=17 September 2018 }}</ref>
+
+===Summary===
+Only official honours are included, according to ''FIFA statutes'' (competitions organized/recognized by [[FIFA]] or an affiliated confederation).
+{| class="wikitable" width=30% style="font-size:90%; text-align:center;"
+|-
+!Competition !!{{Gold1}} !!{{Silver2}} !!{{Bronze3}} !!Total
+|-
+|align=left|[[AFC Challenge Cup]]
+|0||1||1||2
+|-
+!Total!!0!!1!!1!!2
+|}
+
+==See also==
+* [[Football in the Philippines]]
+* [[Philippines national football team results]]
+* [[Philippines at the AFC Asian Cup]]
+
+===Men's===
+* [[Philippines national under-23 football team]]
+* [[Philippines national under-21 football team]]
+* [[Philippines national under-19 football team]]
+* [[Philippines national under-17 football team]]
+
+===Women's===
+* [[Philippines women's national football team]]
+* [[Philippines women's national under-20 football team]]
+* [[Philippines women's national under-17 football team]]
+{{Portal bar|Association football|Philippines}}
+
+==Notes==
+{{Reflist|group=note}}
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.pff.org.ph Philippine Football Federation]
+* [https://www.the-afc.com/en/asean/philippines.html Philippines] at [[Asian Football Confederation|AFC]]
+* [https://www.fifa.com/about-fifa/associations/PHI Philippines] at [[FIFA]]
+* [http://www.eloratings.net/Philippines.htm Philippines&nbsp;– World football elo ratings] at ELOratings.net {{small|(Includes past fixtures & results)}}
+* {{Commons-inline|Category:Philippines national association football team|Philippines national football team}}
+* {{Commons-inline|Category:Matches of the Philippines national football team|Matches of the Philippines national football team}}
+* {{Wikiquote-inline|Philippines men's national football team}}
+{{Philippines national football team}}
+{{Navboxes
+| title = [[AFC Asian Cup]]
+| bg =
+| list1 =
+{{navboxes
+|title= Philippines [[AFC Asian Cup|{{colour|white|AFC Asian Cup}}]] squads
+|bg= #0038A8
+|fg= white
+|bordercolor= #CE1126
+|list1=
+{{Philippines squad 2019 AFC Asian Cup}}
+}}
+{{Navboxes
+| title = Philippines AFC Asian Cup finalists
+| list  =
+{{2019 AFC Asian Cup finalists}}
+}}
+}}
+{{Football in the Philippines}}
+{{AFC teams}}
+{{National sports teams of the Philippines}}
+
+[[Category:Philippines national football team| ]]
+[[Category:Asian national association football teams]]
+[[Category:1913 establishments in the Philippines]]
+[[Category:National sports teams established in 1913]]

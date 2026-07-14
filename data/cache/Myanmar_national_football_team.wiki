@@ -1,0 +1,1675 @@
+{{Short description|National football team representing Myanmar}}
+{{About|the men's team|the women's team|Myanmar women's national football team}}
+{{Use dmy dates|date=September 2014}}
+{{Infobox national football team
+| Name              = Myanmar
+| Badge             = Myanmar national football team crest.svg
+| Badge_size        = 150px
+| Nickname          = ''[[Chinthe]]''
+| Association       = [[Myanmar Football Federation]] (MFF)
+| Confederation     = [[Asian Football Confederation|AFC]] (Asia)
+| Sub-confederation = [[ASEAN Football Federation|AFF]] (Southeast Asia)
+| Coach             = [[Jørn Andersen]]
+| Captain           = [[Nanda Kyaw]]
+| Most caps         = [[Maung Maung Lwin]] (90)
+| Top scorer        = [[Win Maung (footballer)|Win Maung]]<br>[[Ye Nyunt]] (37)
+| Home Stadium      = [[Thuwunna Stadium]]
+| FIFA Trigramme    = MYA
+| FIFA Rank         = {{FIFA World Rankings|MYA}}
+| FIFA max          = 96
+| FIFA max date     = April 1996
+| FIFA min          = 182
+| FIFA min date     = August 2012, October 2012
+| Elo Rank          = {{World Football Elo Ratings|Myanmar}}
+| Elo max           = 32
+| Elo max date      = 5 August 1973
+| Elo min           = 191
+| Elo min date      = 4 March 2013
+| pattern_la1 = _mya25h
+| pattern_b1  = _mya25h
+| pattern_ra1 = _mya25h
+| pattern_sh1 = _arm_mya25h
+| pattern_so1 =_Vietnam_2024_HOME
+| leftarm1    = DF1010
+| body1       = DF1010
+| rightarm1   = DF1010
+| shorts1     = DF1010
+| socks1      = DF1010
+| pattern_la2 = _mya25a
+| pattern_b2  = _mya25a
+| pattern_ra2 = _mya25a
+| pattern_sh2 = 
+| pattern_so2 =_Vietnam_2024_AWAY
+| leftarm2    = ffffff
+| body2       = ffffff
+| rightarm2   = ffffff
+| shorts2     = ffffff
+| socks2      = ffffff
+|  First game         = {{fb|HKG|1959}} 5–2 {{fb-rt|MYA|1948|name=Burma}}<br>([[British Hong Kong|Hong Kong]]; 17 February 1950)<ref>{{cite web|url=http://www.eloratings.net/Myanmar|title=Myanmar matches, ratings and points exchanged|publisher=World Football Elo Ratings: Myanmar|access-date=24 November 2016|archive-date=25 March 2018|archive-url=https://web.archive.org/web/20180325171453/http://www.eloratings.net/Myanmar|url-status=live}}</ref>
+|  Largest win        = {{nowrap|{{fb|MYA|1948|name=Burma}} 9–0 {{fb-rt|SIN}}<br>([[Kuala Lumpur]], [[Malaysia]]; 9 November 1969)}}
+|  Largest loss       = {{fb|JPN}} 10–0 {{fb-rt|MYA}}<br>([[Chiba (city)|Chiba]], [[Japan]]; 28 May 2021)
+|  Regional name      = [[AFC Asian Cup|Asian Cup]]
+|  Regional cup apps  = 1
+|  Regional cup first = [[1968 AFC Asian Cup|1968]]
+|  Regional cup best  = Runners-up ([[1968 AFC Asian Cup|1968]])
+| 2ndRegional name = [[AFC Challenge Cup]] 
+| 2ndRegional cup apps = 3
+| 2ndRegional cup first = [[2008 AFC Challenge Cup|2008]] 
+| 2ndRegional cup best = Fourth place ([[2008 AFC Challenge Cup|2008]], [[2010 AFC Challenge Cup|2010]])
+| 3rdRegional name      = [[AFF Championship]]
+| 3rdRegional cup apps  = 13
+| 3rdRegional cup first = [[1996 AFF Championship|1996]]
+| 3rdRegional cup best    = Fourth place ([[2004 AFF Championship|2004]])<br>Semi-finals ([[2016 AFF Championship|2016]])
+| 4thRegional name       = 
+| 4thRegional cup apps   = 
+| 4thRegional cup first  =
+| 4thRegional cup best   =  
+| medaltemplates           = 
+{{MedalSport|Men's [[Association football|football]]}}
+{{MedalCompetition|[[AFC Asian Cup]]}}
+{{MedalSilver|[[1968 AFC Asian Cup|1968 Iran]]|[[1968 AFC Asian Cup squads#Burma|Team]]}}
+{{MedalCompetition|[[Asian Games]]}}
+{{MedalGold|[[Football at the 1966 Asian Games|1966 Thailand]]|[[Football at the 1966 Asian Games – Men's team squads#Burma|Team]]}}
+{{MedalGold|[[Football at the 1970 Asian Games|1970 Thailand]]|[[Football at the 1970 Asian Games – Men's team squads#Burma|Team]]}}
+{{MedalBronze|[[Football at the 1954 Asian Games|1954 Philippines]]|[[Football at the 1954 Asian Games – Men's team squads#Burma|Team]]}}
+{{MedalCompetition|[[Southeast Asian Games]]}}
+{{MedalGold|[[Football at the 1965 Southeast Asian Peninsular Games|1965 Malaysia]]|[[Southeast Asian Games 1965 squads#Malaysia|Team]]}}
+{{MedalGold|[[Football at the 1967 Southeast Asian Peninsular Games|1967 Thailand]]|[[Southeast Asian Games 1967 squads#Thailand|Team]]}}
+{{MedalGold|[[Football at the 1969 Southeast Asian Peninsular Games|1969 Burma]]|[[Southeast Asian Games 1967 squads#Burma|Team]]}}
+{{MedalGold|[[Football at the 1971 Southeast Asian Peninsular Games|1971 Malaysia]]|[[Southeast Asian Games 1971 squads#Malaysia|Team]]}}
+{{MedalGold|[[Football at the 1973 Southeast Asian Peninsular Games|1973 Singapore]]|[[Southeast Asian Games 1965 squads#Singapore|Team]]}}
+{{MedalSilver|[[Football at the 1961 Southeast Asian Peninsular Games|1961 Burma]]|[[Southeast Asian Games 1961 squads#Burma|Team]]}}
+{{MedalSilver|[[Football at the 1993 Southeast Asian Games|1993 Singapore]]|[[Southeast Asian Games 1993 squads#Singapore|Team]]}}
+{{MedalBronze|[[Football at the 1975 Southeast Asian Peninsular Games|1975 Thailand]]|[[Southeast Asian Games 1975 squads#Thailand|Team]]}}
+{{MedalBronze|[[Football at the 1977 Southeast Asian Games|1977 Malaysia]]|[[Southeast Asian Games 1977 squads#Malaysia|Team]]}}
+}}
+
+The '''Myanmar national football team''' ({{langx|my|မြန်မာ့လက်ရွေးစင်ဘောလုံးအသင်း}}) represents [[Myanmar]] in men's international [[association football]] and is governed by the [[Myanmar Football Federation]].<ref>{{Cite web|title=Member Association – Myanmar – FIFA.com|url=https://www.fifa.com/associations/association/mya/about|archive-url=https://web.archive.org/web/20210612212448/https://www.fifa.com/associations/association/mya/about|url-status=dead|archive-date=12 June 2021|work=FIFA|language=en-GB|access-date=2020-05-12}}</ref> The team has been affiliated with [[FIFA]] since 1952 and a member of [[Asian Football Confederation|AFC]] since 1954.
+
+== History ==
+===The Golden Era (1948–1970s)===
+[[File:Pakistan vs Burma, 1952 Asian Quadrangular Football Tournament.jpg|left|thumb|Burma and [[Pakistan national football team|Pakistan]] at the [[1952 Asian Quadrangular Football Tournament]].]]
+In 1952, Burma played in the [[1952 Asian Quadrangular Football Tournament|1st Asian Quadrangular Football Tournament]], held at [[Colombo]], [[Sri Lanka|Ceylon]]. In the tournament, the team played their first match against [[India national football team|India]], losing 0–4,<ref>{{Cite web |title=Times of Ceylon 1952.03.17 — South Asian Newspapers |url=https://gpa.eastview.com/crl/san/?a=d&d=tocy19520317-01.1.12 |access-date=2026-01-24 |website=gpa.eastview.com}}</ref> then facing off against [[Pakistan national football team|Pakistan]], where they lost by a goal.<ref>{{Cite web |title=Times of Ceylon 1952.03.21 — South Asian Newspapers |url=https://gpa.eastview.com/crl/san/?a=d&d=tocy19520321-01.1.12 |access-date=2026-01-24 |website=gpa.eastview.com}}</ref> The third match against hosts [[Sri Lanka national football team|Ceylon]] was cancelled due to the death of Ceylon's Prime Minister [[D. S. Senanayake|Mr. Don Stephen Senanayake]]. The team finished third place in the tournament behind [[Pakistan national football team|Pakistan]] and [[India national football team|India]].<ref name=":0">{{Cite web |title=Asian Quadrangular Tournament (Colombo Cup) 1952-1955 |url=https://www.rsssf.org/tablesb/brindies-quad.html |access-date=2026-01-24 |website=www.rsssf.org}}</ref> Burma also played at the [[1953 Asian Quadrangular Football Tournament|1953]], [[1954 Asian Quadrangular Football Tournament|1954]], and [[1955 Asian Quadrangular Football Tournament|1955]] editions of the tournament.<ref name=":0" /> 
+
+In 1954, Burma participated at the [[Football at the 1954 Asian Games|1954 Asian Games]] and won a bronze medal, standing behind [[Chinese Taipei national football team|Taiwan]] and [[South Korea national football team|South Korea]]. On the other hand, the nation was not expected to contend for a medal in the Olympic-type Asian Games. In the meantime, this delegation became the first male Burmese team to win a continental medal. Against all odds, the Burma team bettered their 1954 effort by winning the gold medal in the Asian Games, which was held at Bangkok in the mid-1960s. In that tournament, Burma beat Iran in the gold-medal game.<ref name="auto">{{Cite web|url=https://medium.com/matt-roebuck/myanmars-golden-age-1f623847cbe|title=Myanmar's Golden Age|first=Matt|last=Roebuck|work=Medium |date=27 December 2016|access-date=24 December 2022|archive-date=24 December 2022|archive-url=https://web.archive.org/web/20221224105444/https://medium.com/matt-roebuck/myanmars-golden-age-1f623847cbe|url-status=live}}</ref>
+
+The [[Football at the 1966 Asian Games|1966 Asian Games]] gold medal-winning squad established itself as one of the two best teams in the region as it finished as runner-up to [[Iran national football team|Iran]] at the [[1968 AFC Asian Cup]] after losing against Iran and drawing against [[Chinese Taipei national football team|Republic of China]]. Having won a silver medal in 1968, the men's soccer team had a strong performance in the early 1970s as it qualified to compete in the [[Football at the 1972 Summer Olympics|1972 Summer Olympics]], which was held at [[Munich]] (West Germany), upon being one of the three finalists in the Asian tournament. Despite only winning against Sudan with 2–0, the Burmese players won the Fair Play Award. The following year, the nation earned its fifth consecutive [[Football at the Southeast Asian Games|Southeast Asian Games]] gold medal in Singapore (Kuala Lumpur 1965, Bangkok 1967, Rangoon 1969, and Kuala Lumpur 1971).<ref>{{Cite web|url=https://www.myanmore.com/2020/02/did-you-know-there-was-a-golden-age-of-myanmar-soccer/|title=Did you know there was a golden age of Myanmar soccer?|first1=Christian|last1=Gilberti|date=10 February 2020|access-date=24 December 2022|archive-date=24 December 2022|archive-url=https://web.archive.org/web/20221224105446/https://www.myanmore.com/2020/02/did-you-know-there-was-a-golden-age-of-myanmar-soccer/|url-status=live}}</ref>
+
+Three years before that, the national team wrote perhaps their most important chapter: they captured the continental title for the second time in a row, after the Burmese Olympic Committee sent footballers to Thailand for the [[Football at the 1970 Asian Games|1970 Asian Games]]. Burma thus became the third football squad to win the Asian tournament twice. They were declared national heroes in [[Rangoon]], the then capital of Burma, with their second consecutive gold medal in men's soccer.<ref name="auto"/>
+
+During this era, Burma produced many talented footballers such as [[Suk Bahadur]] who is now considered as the greatest Burmese footballer of all time for his outstanding contribution to Burmese football.<ref name="auto"/>
+
+Over the following years, mainly due to political problems within the country, the national side's ability to defend its Asian title slowly faded away.
+
+=== Decline and struggle (1970s–2010s) ===
+In the later years, Burma were unable to achieve similar results like in the golden era, due to many factors. The collapse of whole Burmese football system during the rule of [[Ne Win]] and later, the [[State Peace and Development Council|junta]], had a negative impact on Burmese football team. Lack of funding and poor infrastructure prevented many Burmese players to play abroad, thus leading to retirement. At the same time, the rise of [[Malaysia national football team|Malaysia]], [[Indonesia national football team|Indonesia]], [[Vietnam national football team|Vietnam]] and [[Thailand national football team|Thailand]] made Myanmar's golden era fade away.
+
+Despite this, Myanmar did win 2 medals: a silver medal in the [[1993 Southeast Asian Games]], in a loss to Thailand, and a bronze in the [[2004 Tiger Cup|2004 AFF Championship]].
+
+=== Resurgence (2010–2019) ===
+Myanmar's [[2011–15 Myanmar political reforms|2011 reforms]] had been a major point of turning Myanmar's football, which had declined since 1970s. During this era, a new wave of Burmese football had arrived with the change of Myanmar's political climate, after many years under junta's rule.
+
+The arrival of the German manager [[Gerd Zeise]] has been the crucial turning point in Myanmar football. The [[Myanmar national under-20 football team|Myanmar U20]] team qualified to Myanmar's first ever FIFA tournament, the [[2015 FIFA U-20 World Cup|2015 FIFA U20 World Cup]] after progressing to the semi-finals in the [[2014 AFC U-19 Championship|2014 AFC U19 Championship]] as host. In the [[2016 AFF Suzuki Cup|2016 AFF Championship]], Myanmar, once again as host, went to semi-finals, only losing to the eventual champions, [[Thailand national football team|Thailand]].
+
+Despite these successes, problems remain. Myanmar's football capability has been questioned after their disastrous [[2018 FIFA World Cup qualification (AFC)|2018 FIFA World Cup qualification]]; while at the same time, many teams in Asia have developed after many years in the shadows. Once again, Myanmar failed to qualify for [[2019 AFC Asian Cup]], when they suffered a tremendous 1–5 loss to [[Kyrgyzstan national football team|Kyrgyzstan]]. In an effort to prepare the team for the [[2018 AFF Championship]], on 13 October 2018, Myanmar played an unsuccessful friendly match against [[Bolivia national football team|Bolivia]] at the [[Thuwunna Stadium]], losing 3–0.[https://www.youtube.com/watch?v=rmsni1wqo1E] Under [[Antoine Hey]], Myanmar also had an unsuccessful 2018 AFF Championship, when the team was knocked out at the group stage, and Hey would resign after the tournament.
+
+Myanmar began their [[2022 FIFA World Cup qualification (AFC)|2022 FIFA World Cup qualification]] grouping with old rival Kyrgyzstan, as well as [[Tajikistan national football team|Tajikistan]], [[Mongolia national football team|Mongolia]] and especially powerhouse [[Japan national football team|Japan]]. Under the guidance of the new manager [[Miodrag Radulović]], Myanmar had a disastrous beginning when the team fell 0–1 to Mongolia away, 0–2 to Japan at home and especially a 0–7 away defeat to the Kyrgyz, causing the Montenegrin to be fired. After the defeat to Kyrgyzstan, old coach Antoine Hey returned, where he helped Myanmar to gain a shock home win 4–3 over Tajikistan before beating Mongolia 1–0 also at home to boost morale.<ref>{{Cite web|url=https://www.mdn.gov.mm/en/2022-world-cup-qualifiers-myanmar-beat-tajikistan-4-3|title=2022 World Cup Qualifiers: Myanmar beat Tajikistan 4-3|website=MDN - Myanmar DigitalNews|access-date=24 December 2022|archive-date=24 December 2022|archive-url=https://web.archive.org/web/20221224105450/https://www.mdn.gov.mm/en/2022-world-cup-qualifiers-myanmar-beat-tajikistan-4-3|url-status=live}}</ref>
+
+=== Descent (2020–2022) ===
+The [[COVID-19 pandemic in Myanmar]] and subsequent [[2021 Myanmar coup d'état]] depleted greatly the national team when many key players refused to represent Myanmar in international football citing the [[State Administration Council|junta]]'s involvement.<ref>{{cite web| url = https://www.dhakatribune.com/sport/football/2021/05/13/myanmar-hopes-hit-as-footballers-pull-out-over-coup| title = Myanmar hopes hit as footballers pull out over coup {{!}} Dhaka Tribune| date = 13 May 2021| access-date = 14 May 2021| archive-date = 14 May 2021| archive-url = https://web.archive.org/web/20210514040059/https://www.dhakatribune.com/sport/football/2021/05/13/myanmar-hopes-hit-as-footballers-pull-out-over-coup| url-status = live}}</ref> As for the result, Myanmar brought to Japan with half of its squad members weren't regular starters, and suffered its worst defeat in modern era to the host 0–10, forcing Antoine Hey's men to win their 2 remaining matches against Tajikistan and Kyrgyzstan while hoping for defeats from their 2 main opponents in the same time against Japan (and even a draw or a defeat against Mongolia for Kyrgyzstan) to be among the 4 best runners-up.<ref>{{cite web | url=https://japantoday.com/category/sports/myanmar-protesters-gather-before-world-cup-qualifier-in-japan | title=Japan beats Myanmar 10-0 after protests on and off pitch | date=29 May 2021 | access-date=1 June 2021 | archive-date=2 June 2021 | archive-url=https://web.archive.org/web/20210602215854/https://japantoday.com/category/sports/myanmar-protesters-gather-before-world-cup-qualifier-in-japan | url-status=live }}</ref> Having lost to Kyrgyzstan 1–8 the next match, Myanmar were officially eliminated from the World Cup and the top 2 spots in the group. Eventually, Myanmar confirmed its bottom place in the group, losing 0–4 to Tajikistan, and have to play the [[2023 AFC Asian Cup qualification – third round|2023 AFC Asian Cup qualification]].
+
+During the [[2020 AFF Championship]], [[Singapore national football team|Singapore]] defeated Myanmar 3–0, with [[Ikhsan Fandi]] scoring a brace. However, in the next match, Myanmar bounced back from that defeat with [[Than Paing]] and [[Maung Maung Lwin]] both scoring a goal to earn a 2–0 victory over [[Timor-Leste]] which give the team the hope of qualifying to the semi-finals. However, those hopes were made impossible after [[Thailand national football team|Thailand]] won 4–0 against Myanmar which ended a disastrous tournament after failing to defeat the [[Philippines national football team|Philippines]] in the final matchday.
+
+Myanmar were also drawn in the group of death in the [[2023 AFC Asian Cup qualification – third round|2023 AFC Asian Cup qualification]], being drawn with [[Kyrgyzstan national football team|Kyrgyzstan]], [[Tajikistan national football team|Tajikistan]] and also [[Singapore national football team|Singapore]]. The team failed to secure a points in the [[2023 AFC Asian Cup qualification – third round|2023 AFC Asian Cup qualification]] being humiliated by [[Singapore national football team|Singapore]] 6–2, [[Tajikistan national football team|Tajikistan]] 4–0 and [[Kyrgyzstan national football team|Kyrgyzstan]] 2–0.
+
+The [[2022 AFF Championship]] took place with Myanmar having friendly matches in Thailand as preparation fixtures. They won two matches against club teams, [[Chonburi F.C.|Chonburi]] and [[Samut Prakan City|Samut Prakan]]. Despite this, they lost 6–0 to old rivals [[Thailand national football team|Thailand]], although the opponents fielded a weaker squad. Myanmar then played their opening match against [[Malaysia national football team|Malaysia]], but although counter-attacking play was good, they lost 1–0 due to [[Faisal Halim]]'s goal and a late penalty from [[Win Naing Tun]] being saved from Malaysia's [[Syihan Hazmi]]. In the next match, Myanmar played Singapore at the [[Jalan Besar Stadium]], an artificial grass which cost them in addition to poor performances as the final result was 3–2 in [[Singapore national football team|Singapore]]'s favour conceding the last goal from a goalkeeper punt kick which assisted [[Shawal Anuar]] to secure the 3 points for Singapore. However, [[Maung Maung Lwin]] did score two goals in this match: one being a composed right top corner finish while the other was a first-time volley. The team's chances of qualifying had been ruined, as they played [[Laos national football team|Laos]] on home soil, going down 1–0 early on through [[Soukaphone Vongchiengkham]] but [[Kyaw Min Oo]], who was having an excellent tournament scored a header, completely unmarked. Laos scored back to take the lead up to 2–1 however in the 90+6 minutes, Myanmar captain [[Maung Maung Lwin]] secured a point for Myanmar as the match ended at 2–2 which also mean that this draw confirmed the team's elimination from the tournament. They lost 3–0 against [[Vietnam national football team|Vietnam]] in their final match and they failed to registered a single win in the group stage of the AFF Championship for the first time since the 2014 edition. On 31 January 2023, [[Antoine Hey]] resigned from his position as head coach. Despite the poor results, the team can take positives away from this tournament as the playing style was praised by many fans.
+
+==== Glimpses of hope (2023–''present'') ====
+In March 2023, Germany head coach [[Michael Feichtenbeiner]] was tasked to lead Myanmar with positive results. With the domestic league being more active compared to last year's competition, Myanmar fans had no reason not to be optimistic when they participated in the [[2023 Tri-Nation Series (India)|2023 Tri-Nation Series]] tournament hosted by [[India men's national football team|India]]. This tournament saw the big returns of [[Aung Thu (footballer)|Aung Thu]] and [[Nyein Chan Aung]] after boycotting call-ups over the coup earlier, which was seen as a surprise. Players such as [[Lwin Moe Aung]], [[Hein Htet Aung]] and [[Win Naing Tun]] were also called up to the national squad. In the first match, the finishing cost Myanmar against a tough [[India national football team|India]] side, losing 1–0 with a goal in first half stoppage time by [[Anirudh Thapa]]. In the second match against [[Kyrgyzstan national football team|Kyrgyzstan]], Myanmar midfielder [[Kyaw Min Oo]] blew a big leading chance with a penalty miss in the first half. Despite this miss, Myanmar continued to press and trouble the Kyrgyzstan defence and were eventually rewarded with a goal from [[Aung Thu (footballer)|Aung Thu]] in the 82' minute. However, they gave away a goal in the 90+6' minute from a corner kick. Despite it being a draw, this result showed the return of the winning spirit that Myanmar desperately needed during the last year. The Myanmar team had shown a significant improvement throughout the last 6 months, and it showed in the match against Kyrgyzstan.
+
+In June 2023, Myanmar travelled to Dalian to face [[China national football team|China]] and [[Macau national football team|Macau]] in the international friendly window in which Myanmar played their first match against China but came out with a 4–0 defeat despite a strong showing in the first half. On 19 June 2023, [[Macau national football team|Macau]] was Myanmar's next opponent and goals from [[Lwin Moe Aung]] and [[Maung Maung Lwin]] secured a 2–0 win, Myanmar's first win in over two years since their last win over [[Timor-Leste national football team|Timor-Leste]] on 8 December 2021. In September 2023, Myanmar played both of their friendly match at home against [[Nepal national football team|Nepal]] which the first match resulted in a disappointing 0–0 draw, with Myanmar goalkeeper [[Kyaw Zin Phyo]] saving [[Anjan Bista]]'s penalty. In the second match, the performance significantly improved and Myanmar won 1–0 to an 86' minute goal by striker [[Win Naing Tun]]. In October 2023, Myanmar played against [[Macau national football team|Macau]] in the [[2026 FIFA World Cup qualification – AFC first round|2026 FIFA World Cup qualification]] first round match at home which see them thrashing Macau 5–1 at home on 12 October 2023. Myanmar failed to produce the same performance in the second leg however, as Macau put up a strong resistance to end the game in a disappointing goalless draw; still, due to having won 5–1 in the first leg, Myanmar advanced to the [[2026 FIFA World Cup qualification – AFC second round|second round]] of the qualification, where Myanmar will have to face sterner oppositions in group B, which are [[Syria national football team|Syria]], [[North Korea national football team|North Korea]] and Asian hegemon [[Japan national football team|Japan]], which had impressed greatly in the [[2022 FIFA World Cup]].
+
+Amidst the backdrop of ongoing security crisis on home soil, notably with the kickstarting of the [[Operation 1027]] that led to war and destruction in the country's borderlands and glimpse of war closer to [[Yangon]], where Myanmar team chose to base themselves, the Burmese started their campaign with a predictable 5–0 thumping in the hands of Japan, the highest-ranked team in Asia at the time, before suffering an agonising 6–1 loss to North Korea on home soil, in which [[Win Naing Tun]] scored Myanmar's solitary goal. On 21 March 2024, Myanmar shockingly held [[Syria national football team|Syria]] to a 1–1 draw after [[Soe Moe Kyaw]] scored the only goal for the team during the [[2026 FIFA World Cup qualification (AFC)|2026 FIFA World Cup qualification]] match, which was a surprise after Syria's decent performance in the [[2023 AFC Asian Cup]] earlier. Unfortunately, Myanmar could not keep up with the tempo in the return leg, losing 7–0 to Syria in a match where the Burmese were reduced to ten men after [[Hein Phyo Win]] was sent off.
+
+On September 9, 2024, the Myanmar Football Federation appointed former national team player and football legend [[Myo Hlaing Win]] as the head coach of the national team.
+
+On 10 October 2024, Myanmar won 2–0 in a [[Exhibition game|friendly]] against [[Sri Lanka national football team|Sri Lanka]].
+
+As part of preparations for the AFF Mitsubishi Cup 2024, the Myanmar national team played two [[Exhibition game|friendly]] against [[Singapore national football team|Singapore]] and [[Lebanon national football team|Lebanon]].Both matches ended in 3–2 defeats for Myanmar, with the games taking place on November 14 and November 19, respectively.
+
+On 9 December, Myanmar played their first match of the [[2024 ASEAN Championship]] at [[Thuwunna Stadium]] but lost unexpectedly to [[Indonesia national football team|Indonesia]]. After the loss, they traveled to the [[Philippines national football team|Philippines]] to play on 12 December. That match ended in a draw. Although there was still hope to reach the semi-finals, the chances were very low. On December 18, Myanmar returned home to play against [[Laos national football team|Laos]] in their third match. They needed a win to avoid finishing the tournament without a victory. In a dramatic game, Myanmar won 3–2, with [[Win Naing Tun]] scoring in the 87th and 90+3rd minutes to secure the win. Then, on 21 December, Myanmar played their final group match against [[Vietnam national football team|Vietnam]]. Unfortunately, it ended in a heavy 5–0 lost thus Myanmar was knocked out of the tournament.
+
+Myanmar had been missing success for a long time, so qualifying for the [[2027 AFC Asian Cup]] was very important. They needed to finish first in their group in the [[2027 AFC Asian Cup qualification – third round|third round of the 2027 AFC Asian Cup qualification]]. On 25 March 2025, they played their first match against Afghanistan and won 2–1 at home. Afghanistan scored first in the 14th minute through [[Omid Popalzay]], but Myanmar came back with goals from [[Than Paing]] in the 28th minute and [[Maung Maung Lwin]] in the 75th minute. On 10 June, Myanmar played against [[Pakistan national football team|Pakistan]] and won 1–0 at home with [[Than Paing]] scoring the only goal to secure the 3 points. However, Myanmar failed to qualify for the [[2027 AFC Asian Cup]] in the end, after suffering two heavy losses to Syria 5–1 away and 3–0 home.
+
+== Results and fixtures – Myanmar  ==
+{{legend2|#CCFFCC|Win|border=1px solid #AAAAAA}}
+{{legend2|#FFFFCC|Draw|border=1px solid #AAAAAA}}
+{{legend2|#FFCCCC|Loss|border=1px solid #AAAAAA}}
+
+=== 1972 Olympic Games===
+{{Main|1972 Olympic Games}}
+
+==== Group stage ====
+{{Main|1972 Olympic Games#Group_stage}}
+
+=== Results ===
+{{#invoke:sports table|main|style=WDL
+|section=Group A
+|res_col_header=Q
+|show_positions=y
+|winpoints=2
+}}
+
+===Group B===
+
+<section begin=B />{{#invoke:sports table|main|style=WDL
+|res_col_header=Q
+|winpoints=2
+|show_positions=n
+
+|team1=URS|name_URS={{fb|URS|1955}}
+|team2=MEX|name_MEX={{fb|MEX}}
+|team3=BIR|name_BIR={{fb|MYA|1948|name=Burma}}
+|team4=SUD|name_SUD={{fb|SUD}}
+|win_URS=3|draw_URS=0|loss_URS=0|gf_URS=7|ga_URS=2
+|win_MEX=2|draw_MEX=0|loss_MEX=1|gf_MEX=3|ga_MEX=4
+|win_BIR=1|draw_BIR=0|loss_BIR=2|gf_BIR=2|ga_BIR=2
+|win_SUD=0|draw_SUD=0|loss_SUD=3|gf_SUD=1|ga_SUD=5
+
+|col_A=#ccffcc|text_A=Advanced to second round
+|result1=A|result2=A
+|update=complete|source=[https://www.fifa.com/tournaments/mens/mensolympic/munich1972/match-center FIFA]
+}}<section end="B" />
+
+<section begin="B1" />{{football box
+| date = 28 August 1972
+| time=16:30
+| team1 = {{fb-rt|URS}}
+| score= 1–0
+| report = [https://www.fifa.com/tournaments/archive/mensolympic/munich1972/matches/round=197111/match=32130/index.html Report]
+| team2 = {{fb|MYA|1948|name=Burma}}
+| goals1 = [[Viktor Kolotov|Kolotov]] {{goal|51}}
+| goals2 =
+| stadium = [[Jahnstadion (Regensburg)|Jahnstadion]], [[Regensburg]]
+| attendance = 6,000
+| referee = [[Jafar Namdar]] (Iran)
+}}<section end="B1" />
+<section begin="B2" />{{football box
+| date = 28 August 1972
+| time=16:30
+| team1 = {{fb-rt|MEX}}
+| score= 1–0
+| report = [https://www.fifa.com/tournaments/archive/mensolympic/munich1972/matches/round=197111/match=32129/index.html Report]
+| team2 = {{fb|SUD}}
+| goals1 = [[Manuel Manzo|Manzo]] {{goal|16}}
+| goals2 =
+| stadium =[[Max-Morlock-Stadion|Frankenstadion]], [[Nuremberg]]
+| attendance = 500
+| referee = [[Francesco Francescon]] (Italy)
+}}<section end="B2" />
+----
+<section begin="B3" />{{football box
+| date = 30 August 1972
+| time=16:30
+| team1 = {{fb-rt|MEX}}
+| score= 1–0
+| report = [https://www.fifa.com/tournaments/archive/mensolympic/munich1972/matches/round=197111/match=32137/index.html Report]
+| team2 = {{fb|MYA|1948|name=Burma}}
+| goals1 = [[Leonardo Cuéllar|Cuéllar]] {{goal|86}}
+| goals2 =
+| stadium =[[Max-Morlock-Stadion|Frankenstadion]], [[Nuremberg]]
+| attendance = 1,000
+| referee = [[Robert Quarshie]] (Ghana)
+}}<section end="B3" />
+<section begin="B4" />{{football box
+| date = 30 August 1972
+| time=17:30
+| team1 = {{fb-rt|URS}}
+| score= 2–1
+| report = [https://www.fifa.com/tournaments/archive/mensolympic/munich1972/matches/round=197111/match=32139/index.html Report]
+| team2 = {{fb|SUD}}
+| goals1 = [[Gennady Yevriuzhikin|Yevriuzhikin]] {{goal|42|pen.}} <br /> [[Oganes Zanazanyan|Zanazanyan]] {{goal|44}}
+| goals2 = [[Nasr Eddin Abbas|Jaksa]] {{goal|59}}
+| stadium = [[Olympiastadion (Munich)|Olympiastadion]], [[Munich]]
+| attendance = 25,000
+| referee = [[Ferdinand Biwersi]] (West Germany)
+}}<section end="B4" />
+----
+<section begin="B5" />{{football box
+| date = 1 September 1972
+| time=16:30
+| team1 = {{fb-rt|URS}}
+| score= 4–1
+| report = [https://www.fifa.com/tournaments/archive/mensolympic/munich1972/matches/round=197111/match=32146/index.html Report]
+| team2 = {{fb|MEX}}
+| goals1 = [[Oleh Blokhin|Blokhin]] {{goal|7||13||14}} <br /> [[Vyacheslav Semyonov|Semyonov]] {{goal|58}}
+| goals2 = [[Daniel Razo|Razo]] {{goal|60}}
+| stadium = [[Jahnstadion (Regensburg)|Jahnstadion]], [[Regensburg]]
+| attendance = 8,000
+| referee = [[Luis Pestarino]] (Argentina)
+}}<section end="B5" />
+<section begin="B6" />{{football box
+| date = 1 September 1972
+| time=16:30
+| team1 = {{fb-rt|MYA|1948|name=Burma}}
+| score= 2–0
+| report = [https://www.fifa.com/tournaments/archive/mensolympic/munich1972/matches/round=197111/match=32148/index.html Report]
+| team2 = {{fb|SUD}}
+| goals1 = [[Soe Than]] {{goal|7}} <br /> [[Aung Moe Thin]] {{goal|61}}
+| goals2 =
+| stadium = [[Dreiflüssestadion]], [[Passau]]
+| attendance = 2,000
+| referee = [[Marian Środecki]] (Poland)
+}}<section end="B6" />
+
+All times are in [[Myanmar Summer Time]] (''Myanmar Daylight Time'', IDT), although the 1972 Olympic Games is entirely held at [[Germany]]
+
+== Results and fixtures – Myanmar  ==
+{{legend2|#CCFFCC|Win|border=1px solid #AAAAAA}}
+{{legend2|#FFFFCC|Draw|border=1px solid #AAAAAA}}
+{{legend2|#FFCCCC|Loss|border=1px solid #AAAAAA}}
+
+=== 1968 AFC  Asian Cup===
+{{Main|1968 Asian Cup }}
+
+==== Group stage ====
+{{Main|1968 AFC Asian Cup #Group_stage}}
+
+=== Results ===
+<onlyinclude>{{#invoke:sports table|main|style=WDL
+|section=Group A
+|res_col_header=Q
+|show_positions=y
+|winpoints=2
+
+|team1=IRI|name_IRI={{fb|Iran|1964}}
+|team2=BIR|name_BIR={{fb|Burma|1948|name=Burma}}
+|team3=ISR|name_ISR={{fb|Israel}}
+|team4=ROC|name_ROC={{fb|Republic of China}}
+|team5=HKG|name_HKG={{fb|Hong Kong|1959}}
+|win_IRI=4|draw_IRI=0|loss_IRI=0|gf_IRI=11|ga_IRI=2|status_IRI=H
+|win_BIR=2|draw_BIR=1|loss_BIR=1|gf_BIR=5|ga_BIR=4
+|win_ISR=2|draw_ISR=0|loss_ISR=2|gf_ISR=11|ga_ISR=5
+|win_ROC=0|draw_ROC=2|loss_ROC=2|gf_ROC=3|ga_ROC=10
+|win_HKG=0|draw_HKG=1|loss_HKG=3|gf_HKG=2|ga_HKG=11
+
+|col_C=gold|result1=C|text_C=Champions
+|col_R=Silver|result2=R|text_R=Runners-up
+|col_3rd=#c96|result3=3rd|text_3rd=Third place
+|col_4th=#F8F9FA|result4=4th|text_4th=Fourth place
+|col_5th=#F8F9FA|result5=5th|text_5th=Fifth place
+|update=complete|source=[https://www.rsssf.org/tables/68asch.html RSSSF]
+}}</onlyinclude>
+
+{{football box
+|date=10 May 1968
+|time=16:00
+|team1={{fb-rt|Iran|1964}}
+|score= 2–0
+|report = 
+|team2={{fb|Hong Kong|1959}}
+|goals1= [[Homayoun Behzadi|Behzadi]] {{goal|70}}<br />[[Ali Jabbari|Jabbari]] {{goal|89}}
+|goals2=
+|stadium = [[Shahid Shiroudi Stadium|Amjadieh Stadium]], [[Tehran]]
+|attendance= 28,000
+|referee=Norman Boswell ([[Football Association of Malaysia|Malaysia]])
+}}
+----
+{{football box
+|date=11 May 1968
+|time=18:00
+|team1={{fb-rt|Republic of China}}
+|score= 1–1
+|report =
+|team2={{fb|Burma|1948}}
+|goals1=[[Wong Chi-keung]] {{goal|64}}
+|goals2=[[Hla Htay]] {{goal|14}}
+|stadium = [[Shahid Shiroudi Stadium|Amjadieh Stadium]], [[Tehran]]
+|attendance= 6,000
+|referee=S. K. Bhattacharya ([[All India Football Federation|India]])
+}}
+----
+{{football box
+|date=12 May 1968
+|time=18:00
+|team1={{fb-rt|Hong Kong|1959}}
+|score= 1–6
+|report =
+|team2={{fb|Israel}}
+|goals1= [[Yuan Kuan Yick]] {{goal|75}}
+|goals2= [[Mordechai Spiegler|Spiegler]] {{goal|10||65}}<br />[[Giora Spiegel|Spiegel]] {{goal|52||53}}<br />[[Moshe Romano|Romano]] {{goal|61}}<br />[[Roby Young|Young]] {{goal|70}}
+|stadium = [[Shahid Shiroudi Stadium|Amjadieh Stadium]], [[Tehran]]
+|attendance=15,000
+|referee=Alex Vaz ([[All India Football Federation|India]])
+}}
+----
+{{football box
+|date=13 May 1968
+|time=18:00
+|team1={{fb-rt|Iran|1964}}
+|score= 4–0
+|report = 
+|team2={{fb|Republic of China}}
+|goals1= [[Homayoun Behzadi|Behzadi]] {{goal|34}}<br />[[Hossein Kalani|Kalani]] {{goal|35}}<br />[[Akbar Eftekhari|Eftekhari]] {{goal|51}}<br />[[Gholam Hossein Farzami|Farzami]] {{goal|57}}
+|goals2=
+|stadium = [[Shahid Shiroudi Stadium|Amjadieh Stadium]], [[Tehran]]
+|attendance=25,000
+|referee=S. K. Bhattacharya ([[All India Football Federation|India]])
+}}
+----
+{{football box
+|date=14 May 1968
+|time=18:00
+|team1={{fb-rt|Burma|1948}}
+|score= 1–0
+|report =
+|team2={{fb|Israel}}
+|goals1= [[Ye Nyunt]] {{goal|42}}
+|goals2=
+|stadium = [[Shahid Shiroudi Stadium|Amjadieh Stadium]], [[Tehran]]
+|attendance=20,000
+|referee=Norman Boswell ([[Football Association of Malaysia|Malaysia]])
+}}
+----
+{{football box
+|date=15 May 1968
+|time=18:00
+|team1={{fb-rt|Hong Kong|1959}}
+|score= 1–1
+|report =
+|team2={{fb|Republic of China}}
+|goals1= [[Li Kwok Keung]] {{goal|14}}
+|goals2= [[Mak Tian-fu]] {{goal|37}}
+|stadium = [[Shahid Shiroudi Stadium|Amjadieh Stadium]], [[Tehran]]
+|attendance=3,000
+|referee=S. K. Bhattacharya ([[All India Football Federation|India]])
+}}
+----
+{{football box
+|date=16 May 1968
+|time=18:00
+|team1={{fb-rt|Burma|1948}}
+|score= 1–3
+|report = 
+|team2={{fb|Iran|1964}}
+|goals1= [[Hla Htay]] {{goal|50}}
+|goals2= [[Hossein Kalani|Kalani]] {{goal|2}}<br />[[Akbar Eftekhari|Eftekhari]] {{goal|60}}<br />[[Homayoun Behzadi|Behzadi]] {{goal|70}}
+|stadium = [[Shahid Shiroudi Stadium|Amjadieh Stadium]], [[Tehran]]
+|attendance=25,000
+|referee=Alex Vaz ([[All India Football Federation|India]])
+}}
+----
+{{football box
+|date=17 May 1968
+|time=18:00
+|team1={{fb-rt|Israel}}
+|score= 4–1
+|report =
+|team2={{fb|Republic of China}}
+|goals1= [[Moshe Romano|Romano]] {{goal|2||60}}<br />[[Shmuel Rosenthal|Rosenthal]] {{goal|70}}<br />[[Giora Spiegel|Spiegel]] {{goal|76}}
+|goals2= [[Li Huan-wen]] {{goal|45+1}}
+|stadium = [[Shahid Shiroudi Stadium|Amjadieh Stadium]], [[Tehran]]
+|attendance=20,000
+|referee=S. K. Bhattacharya ([[All India Football Federation|India]])
+}}
+----
+{{football box
+|date=18 May 1968
+|time=18:00
+|team1={{fb-rt|Burma|1948}}
+|score= 2–0
+|report =
+|team2={{fb|Hong Kong|1959}}
+|goals1=[[Aung Khin (footballer)|Aung Khin]] {{goal|80}}<br />[[Suk Bahadur]] {{goal|85}}
+|goals2=
+|stadium = [[Shahid Shiroudi Stadium|Amjadieh Stadium]], [[Tehran]]
+|attendance=2,000
+|referee=Norman Boswell ([[Football Association of Malaysia|Malaysia]])
+}}
+----
+{{football box
+|date=19 May 1968
+|time=18:00
+|team1={{fb-rt|Iran|1964}}
+|score= 2–1
+|report = 
+|team2={{fb|Israel}}
+|goals1= [[Homayoun Behzadi|Behzadi]] {{goal|75}}<br />[[Parviz Ghelichkhani|Ghelichkhani]] {{goal|87}}
+|goals2= [[Giora Spiegel|Spiegel]] {{goal|52}}
+|stadium = [[Shahid Shiroudi Stadium|Amjadieh Stadium]], [[Tehran]]
+|attendance=38,000
+|referee=Alex Vaz ([[All India Football Federation|India]])
+}}
+
+All times are in [[Myanmar Summer Time]] (''Myanmar Daylight Time'', IDT), although the 1968 AFC Asian Cup is entirely held at [[Iran]].
+
+== Kits ==
+The Myanmar national team kit was made by FBT in a contract in effect until 2018.
+
+In November 2018, the Myanmar national team signed a six-year contract with [[Warrix Sports]]. The sports kit sponsorship contract was valued at US$5.67&nbsp;million and it will run from 1 November 2018 to 31 December 2024.<ref>{{cite web |date=6 November 2018 |title=MFF signs sponsorship contract with Warrix Sports Companyn |url=https://elevenmyanmar.com/news/mff-signs-sponsorship-contract-with-warrix-sports-company |url-status=live |archive-url=https://web.archive.org/web/20181113165854/https://elevenmyanmar.com/news/mff-signs-sponsorship-contract-with-warrix-sports-company |archive-date=13 November 2018 |access-date=13 November 2018}}</ref>
+
+On 6 November 2018, Warrix introduced a new Myanmar home and away kit. The home kit is a red shirt with red shorts and red socks. The away kit is a shirt, shorts and socks that is all white. In 2025, MFF formally ended its 6-year contract with the Thailand provider and announced a four-year partnership with Japanese brand [[Jogarbola]], which is directly represented, sponsored and distributed by the Vietnamese firm Dong Luc Sport.<ref>{{Cite web |author-link=[[Myanmar Football Federation]] |title=မြန်မာ့လက်ရွေးစင် အသင်းများ ဝတ်စုံစပွန်ဆာ အဖြစ် နှစ်ဖက်သဘောတူညီမှု MoU လက်မှတ်ရေးထိုး |url=https://www.facebook.com/share/p/1A34htRLPV/ |website=[[Facebook]] |language=my}}</ref>
+
+{| class="wikitable"
+! colspan="2" |Myanmar national football team kits
+|-
+!Kit Provider
+!Period
+|-
+|{{flagicon|FRG}} [[Adidas]]
+|2011–2013
+|-
+|{{Flagicon|Italy}} [[Lotto Sport Italia|Lotto]]
+|style="text-align:left"|2013–2015
+|-
+|{{Flagicon|Thailand}} [[FBT (company)|FBT]]
+|style="text-align:left"|2015–2018
+|-
+|{{Flagicon|Thailand}} [[Warrix Sports|Warrix]] 
+|style="text-align:left"|2018–2024 
+|-
+|{{Flagicon|Japan}} [[Jogarbola]]
+|2025–
+|}
+
+== Stadium ==
+Myanmar plays most of its home matches in [[Thuwunna Stadium]] in [[Yangon]], [[Myanmar]]. The stadium is larger and more up-to-date than the older [[Bogyoke Aung San Stadium]]. In 2013, the stadium was upgraded to a seating capacity of 50,000 spectators from the previous capacity of 32,000.<ref>{{cite web |title=&#124; Myanmar Times |url=http://www.mmtimes.com/2010/business/551/biz55114.html |url-status=dead |archive-url=https://web.archive.org/web/20120607160538/http://www.mmtimes.com/2010/business/551/biz55114.html |archive-date=7 June 2012 |access-date=2015-12-10 |df=dmy-all}}</ref> It also hosted the [[2016 AFF Championship]] Group B matches .
+{| class="wikitable" width="95%" style="text-align:center;font-size:100%;"
+! colspan="5" style="background:#EA2839; color:#FECB00;" |Myanmar national football team home stadiums
+|-
+!Image
+!Stadium
+!Capacity
+!Location
+!Last match
+|-
+|[[File:Thuwunna Stadium.JPG|frameless|145x145px]]
+|[[Thuwunna Stadium]]
+|50,000
+|[[Yangon]]
+|'''v'''&nbsp;&nbsp;{{fb|SYR}} <small>(14 October 2025; [[2027 AFC Asian Cup qualification – third round|2027 AFC Asian Cup qualification]])</small>
+|-
+|[[File:Mandalarthiri Stadium at night.jpg|frameless|145x145px]]
+|[[Mandalar Thiri Stadium]]
+|31,270
+|[[Mandalay]]
+|'''v'''&nbsp;&nbsp;{{fb|NEP}} <small>(7 November 2019; [[Exhibition game|Friendly]])</small>
+|}
+
+== Results and fixtures ==
+{{Further|Myanmar national football team results (2020–present)}}
+The following is a list of match [[Myanmar national football team results|results]] in the last 12 months, as well as any future matches that have been scheduled.
+
+{{legend2|#CCFFCC|Win|border=1px solid #AAAAAA}}
+{{legend2|#FFFFCC|Draw|border=1px solid #AAAAAA}}
+{{legend2|#FFCCCC|Loss|border=1px solid #AAAAAA}}
+{{legend2|#FFFFFF|Fixture|border=1px solid #AAAAAA}}
+
+===2025===
+{{football box collapsible
+| format     = 1
+| round      = [[2027 AFC Asian Cup qualification – third round|2027 AFC Asian Cup qualification]]
+| date       = 10 June
+| time       = {{UTZ|17:00|6:30}}
+| team1      = {{fb-rt|MYA}}
+| score      = 1–0
+| report     =  [https://globalsportsarchive.com/match/soccer/2025-06-10/myanmar-vs-pakistan/3587601/ Report]<br>[https://www.the-afc.com/en/national/afc_asian_cup.html/news/qualifiers-group-e-myanmar-1-0-pakistan Report (AFC)]
+| team2      = {{fb|PAK}}
+| goals1     =*[[Than Paing]] {{goal|42}}
+| goals2     =
+| stadium    = [[Thuwunna Stadium]]
+| location   = [[Yangon]], Myanmar
+| attendance = 22,000
+| referee    = [[Zhang Lei (referee)|Zhang Lei]] ([[China Football Association|China]])
+| result     = W
+}}
+{{football box collapsible
+| format     = 1
+| round      = [[Exhibition game#Association football|Closed-doors Friendly]]<sup>1</sup>
+| date       = 9 September
+| time       = {{UTZ|21:00|8}}
+| team1      = {{fb-rt|SGP}}
+| score      = 1–1
+| team2      = {{fb|MYA}}
+| goals1     =
+* [[Ilhan Fandi]] {{goal|90}}
+| goals2     =
+* [[Thet Hein Soe]] {{goal|60}}
+| stadium    = [[Jalan Besar Stadium]]
+| location   = [[Kallang]], Singapore
+| attendance = 0
+| referee    = 
+| report     = https://globalsportsarchive.com/match/soccer/2025-09-09/singapore-vs-myanmar/3900405/
+| result     = D
+}}
+{{footballbox collapsible
+| format     = 1
+| round      = [[2027 AFC Asian Cup qualification – third round|2027 AFC Asian Cup qualification]]
+| date       = 9 October  
+| time       = {{UTZ|19:15|3}}
+| team1      = {{fb-rt|SYR}}
+| score      = 5–1
+| report     = [https://globalsportsarchive.com/en/soccer/match/2025-10-09/syria-vs-myanmar/3587604/ Report]<br>[https://www.the-afc.com/en/national/afc_asian_cup.html/news/qualifiers-group-e-syria-5-1-myanmar Report (AFC)]
+| team2      = {{fb|MYA}}
+| goals1     = 
+*[[Omar Khribin|Khribin]] {{Goal|6||19||71|pen|}}
+*[[Mohammad Alsalkhadi|Alsalkhadi]] {{Goal|29}}
+*[[Mohammad Al Hallaq|Al Hallaq]] {{Goal|89}}
+| goals2     = 
+*[[Nanda Kyaw]] {{Goal|90+1}}
+| stadium    = [[Prince Abdullah bin Jalawi Stadium]]
+| location   = [[Hofuf]], Saudi Arabia{{efn|Syria played their home matches at a neutral venue due to the ongoing [[Syrian civil war]].}}
+| attendance = 198
+| referee    = Mohammad Mofeed ([[Jordan Football Association|Jordan]])<ref>{{cite news |title=Syria v Myanmar, 09 October 2025 |url=https://www.11v11.com/matches/syria-v-myanmar-09-october-2025-391036/ |access-date=22 October 2025 |work=11.11.com |date=9 October 2025}}</ref>
+| result     = L
+}}
+{{footballbox collapsible
+| format     = 1
+| round      = [[2027 AFC Asian Cup qualification – third round|2027 AFC Asian Cup qualification]]
+| date       = 14 October
+| time       = {{UTZ|17:00|6:30}}
+| team1      = {{fb-rt|MYA}}
+| score      = 0–3
+| report     = [https://globalsportsarchive.com/en/soccer/match/2025-10-14/myanmar-vs-syria/3587606 Report]<br>[https://www.the-afc.com/en/national/afc_asian_cup.html/news/qualifiers-group-e-myanmar-0-3-syria-1 Report (AFC)]
+| team2      = {{fb|SYR}}
+| goals1     = 
+| goals2     =
+*[[Pablo Sabbag|Sabbag]] {{goal|79||85}}
+*[[Mohammad Alsalkhadi|Alsalkhadi]] {{goal|87}}
+| stadium    = [[Thuwunna Stadium]]
+| location   = [[Yangon]], Myanmar
+| attendance = 22,000 
+| referee    = [[Zhang Lei (referee)|Zhang Lei]] ([[China]]) 
+| result     = L
+}}
+
+=== 2026 ===
+{{footballbox collapsible
+| format     = 1
+| round      = [[2027 AFC Asian Cup qualification – third round|2027 AFC Asian Cup qualification]]
+| date       = 26 March
+| time       = {{UTZ|17:00|6:30}}
+| team1      = {{fb-rt|AFG}}
+| score      = 1–2
+| report     = [https://globalsportsarchive.com/en/soccer/match/2026-03-26/afghanistan-vs-myanmar/3587608 Report]<br />[https://www.the-afc.com/en/national/afc_asian_cup.html/news/qualifiers-group-e-afghanistan-1-2-myanmar Report (AFC)] 
+| team2      = {{fb|MYA}}
+| goals1     = 
+*[[Omid Popalzay|Popalzay]] {{goal|10}}
+| goals2     = 
+*[[Than Paing]] {{goal|45}}
+*[[Khun Kyaw Zin Hein]] {{goal|73}}
+| stadium    = [[Thuwunna Stadium]]
+| location   = [[Yangon]], Myanmar{{efn|Afghanistan were unable to play their home matches at home due to the ongoing [[Afghan conflict]].}}
+| attendance = 1,760
+| referee    = Ngô Duy Lân ([[Vietnam Football Federation|Vietnam]])
+| result     = W
+}}
+{{football box collapsible
+| format     = 1
+| date       = 31 March
+| time       = {{UTZ|18:30|3}}
+| round      = [[2027 AFC Asian Cup qualification – third round|2027 AFC Asian Cup qualification]]
+| team1      = {{fb-rt|PAK}}
+| score      = 1–2
+| report     = [https://globalsportsarchive.com/en/soccer/match/2026-03-31/pakistan-vs-myanmar/3587610 Report]<br /> [https://www.the-afc.com/en/national/afc_asian_cup.html/news/qualifiers-group-e-pakistan-1-2-myanmar Report (AFC)] 
+| team2      = {{fb|MYA}}
+| goals1     = 
+*[[Shayak Dost]] {{goal|90}}
+| goals2     = 
+*[[Saqib Hanif]] {{goal|46|o.g}}
+*[[Than Paing]] {{goal|59}}
+| stadium    = [[Jinnah Sports Stadium]]
+| location   = [[Islamabad]], Pakistan
+| referee    = Firdavs Norsafarov ([[Uzbekistan Football Association|Uzbekistan]])
+| result     = W
+}}
+{{footballbox collapsible
+| format     = 1
+| round      = [[Exhibition Match|Friendly]]
+| date       = 6 June 
+| time       = {{UTZ|19:30|8}}
+| team1      = {{fb-rt|GUM}}
+| score      = 1–6
+| report     = 
+| team2      = {{fb|MYA}}
+| goals1     =
+*[[James Gomez (footballer, born 2004)|J. Gomez]] {{goal|90+1|pen.}}
+| goals2     = 
+*[[Soe Moe Kyaw]] {{goal|13}}
+*[[Maung Maung Lwin]] {{goal|23}}
+*[[Win Naing Tun]] {{goal|35||53}}
+*[[Zaw Win Thein]] {{goal|57}}
+*[[Shine Wanna Aung]] {{goal|86}}
+| stadium    = [[Rizal Memorial Stadium]]
+| location   = [[Manila]], Philippines
+| attendance = 
+| referee    = Nawal Zubir ([[Football Association of Malaysia|Malaysia]])
+| result     = W
+}}
+{{footballbox collapsible
+| format     = 1
+| round      = [[Exhibition Match|Friendly]]
+| date       = 9 June 
+| time       = {{UTZ|19:30|8}}
+| team1      = {{fb-rt|PHI}}
+| score      = 5–1
+| report     = 
+| team2      = {{fb|MYA}}
+| goals1     = 
+*[[Jefferson Tabinas|J. Tabinas]] {{goal|45+1}}
+*[[Paul Tabinas|P. Tabinas]] {{goal|54}}
+*[[Sebastian Rasmussen|Rasmussen]] {{goal|80||90+1}}
+*[[Andre Leipold|Leipold]] {{goal|88}}
+| goals2     = 
+*[[Win Naing Tun]] {{goal|82}}
+| stadium    = [[Rizal Memorial Stadium]]
+| location   = [[Manila]], Philippines
+| attendance = 4,662
+| referee    = [[Songkran Bunmeekiart]] ([[Football Association of Thailand|Thailand]])
+| result     = L
+}}
+{{football box collapsible
+| format     = 1
+| round      = [[Exhibition game#Association football|Friendly]]
+| date       = 18 July 
+| time       = {{UTZ|19:00|7}}
+| team1      = {{fb-rt|VIE}}
+| score      = 
+| team2      = {{fb|MYA}}
+| report     = 
+| goals1     = 
+| goals2     = 
+| stadium    = [[Thái Nguyên Stadium]]
+| location   = [[Thái Nguyên province|Thái Nguyên]], Vietnam
+| attendance = 
+| referee    = 
+| result     = 
+}}
+{{footballbox collapsible
+| format     = 1
+| round      = [[2026 ASEAN Championship Group B]]
+| date       = 25 July
+| time       = {{UTZ|16:30|6:30}}
+| team1      = {{fb-rt|MYA}}
+| score      = 
+| report     = 
+| team2      = {{fb|MAS}}
+| goals1     = 
+| goals2     =
+| stadium    = [[Thuwunna Stadium]]
+| location   = [[Yangon]], Myanmar
+| attendance = 
+| referee    = 
+| result     = 
+}}
+{{footballbox collapsible
+| format     = 1
+| round      = [[2026 ASEAN Championship Group B]]
+| date       = 28 July
+| time       = {{UTZ|18:00|8}}
+| team1      = {{fb-rt|PHI}}
+| score      = 
+| report     = 
+| team2      = {{fb|MYA}}
+| goals1     = 
+| goals2     =
+| stadium    = [[New Clark City Athletics Stadium]]
+| location   = [[Capas]], Philippines
+| attendance = 
+| referee    = 
+| result     = 
+}}
+{{footballbox collapsible
+| format     = 1
+| round      = [[2026 ASEAN Championship Group B]]
+| date       = 4 August
+| time       = {{UTZ|16:30|6:30}}
+| team1      = {{fb-rt|MYA}}
+| score      = 
+| report     = 
+| team2      = {{fb|LAO}}
+| goals1     = 
+| goals2     =
+| stadium    = [[Thuwunna Stadium]]
+| location   = [[Yangon]], Myanmar
+| attendance = 
+| referee    = 
+| result     = 
+}}
+{{football box collapsible
+| format     = 1
+| round      = [[2026 ASEAN Championship]]
+| date       = 8 August
+| time       = {{UTZ|20:00|7}}
+| team1      = {{fb-rt|THA}}
+| score      = 
+| team2      = {{fb|MYA}}
+| goals1     =
+| goals2     =
+| location   = [[Bangkok]], Thailand
+| stadium    = [[Rajamangala Stadium]]
+| attendance = 
+| referee    = 
+| report     = 
+| result     = 
+}}
+
+==Coaching staff==
+{| class="wikitable"
+|+Source<ref name="Jørn Andersen 2026">{{cite web |date=7 July 2026 |title=Jørn Andersen ဦးဆောင်မယ့် 🇲🇲 မြန်မာ့လက်ရွေးစင် นည်းပြအဖွဲ့ 💪 |url=https://www.facebook.com/share/p/1E2nM55r2n/ |url-status=live |access-date=8 July 2026 |website=Myanmar Football Federation |language=Burmese}}</ref>
+|-
+! style="background:#EA2839; color:#FECB00;" |Position
+! style="background:#EA2839; color:#FECB00;" |Name
+|-
+| Technical Director
+| {{flagicon|JPN}} [[Michiteru Mita]]
+|-
+| Head coach
+| {{flagicon|NOR}} [[Jørn Andersen]]
+|-
+| Assistant Coach
+| {{flagicon|SCO}} [[Richard Arif Horlock]]<br />{{flagicon|MYA}} [[Thein Htet Nyo]]<br />{{flagicon|MYA}} [[Aung Kyaw Moe (footballer)|Aung Kyaw Moe]]<br />{{flagicon|MYA}} [[Min Thu (footballer)|Min Thu]]<br />{{flagicon|MYA}} [[Zaw Win Tun]]
+|-
+| Goalkeeping Coach
+| {{flagicon|GER}} [[Mike Kost]]<br />{{flagicon|MYA}} [[Soe Myo Aung]]
+|-
+| Fitness Coach
+| {{flagicon|MYA}} [[Soe Min Oo]]
+|-
+| Match Analyst
+| {{flagicon|MYA}} [[Hlaing Min Tun]]
+|-
+| Team Doctor
+| {{flagicon|MYA}} [[Kyaw Thant Zin]]
+|-
+| Media Officer
+| {{flagicon|MYA}} [[Zaw Min Htike]]
+|-
+| Videographer
+| {{flagicon|MYA}} [[Saw Ye Mon]]
+|-
+| Scouting
+| {{flagicon|MYA}} [[Kyi Lwin]]
+|-
+| Physiotherapist
+| {{flagicon|MYA}} [[Thura Toe]]
+|-
+| Equipment Manager
+| {{flagicon|MYA}} [[Aung Kyaw Lin]]
+|}
+
+===Coaching history===
+{| class="wikitable collapsible collapsed"
+!Name
+!Period
+!Matches
+!Wins
+!Draws
+!Losses
+! width="60" |Win %
+!Honours
+|-
+| {{flagicon|SCO}} [[Alex Weir (footballer, born 1916)|Alex Weir]]
+| align="center" |1954
+| colspan="5" |
+| [[Football at the 1954 Asian Games|1954 Asian Games]] (Bronze)
+|-
+| {{flagicon|YUG}} [[Milorad Mitrović (footballer, born 1908)|Milorad Mitrović]]
+| align="center" |1955–1959
+| colspan="5" |
+|
+|-
+| {{flagicon|YUG}} [[Marko Valok]]
+| align="center" |1959–1961
+| colspan="5" |
+|
+|-
+| {{flagicon|URS}} [[Mikhail Bozenenkov]]
+| align="center" |1961–1963
+| colspan="5" |
+| [[Football at the 1961 SEAP Games|1961 SEAP Games]] (Silver)
+|-
+| {{flagicon|MYA|1974}} [[Sein Hlaing]]
+| align="center" |1964–1965
+| colspan="5" |
+| [[Merdeka Cup]] Champions (1964)
+|-
+| {{flagicon|URS}} [[German Zonin]]
+| align="center" |1965–1967
+| colspan="5" |
+| [[Football at the Asian Games|Asian Games]] Champions (1966)<br />[[Football at the Southeast Asian Games|Southeast Asian Games]] Champions (1965, 1967)<br />[[Merdeka Cup]] Champions (1967)
+|-
+| {{flagicon|MYA|1974}} [[Sein Hlaing]]
+| align="center" |1968–1979
+| colspan="5" |
+| [[Football at the Asian Games|Asian Games]] Champions (1970)<br />[[Football at the Southeast Asian Games|Southeast Asian Games]] Champions (1969, 1971, 1973)<br />[[Merdeka Cup]] Champions (1971)
+|-
+| {{flagicon|FRG}} [[Bert Trautmann]]
+| align="center" |1972–1974
+| colspan="5" |
+| [[1972 President's Cup Football Tournament]] Champions
+|-
+| {{flagicon|NED}} [[Ger Blok]]
+| align="center" |1993–1996<ref>{{Cite web |last=Haverkort |first=Jeroen |date=9 February 2011 |title=Werken op twijfelachtig grondgebied |url=http://www.metronieuws.nl/sport/2011/02/werken-op-twijfelachtig-grondgebied |url-status=dead |archive-url=https://web.archive.org/web/20160817013008/http://www.metronieuws.nl/sport/2011/02/werken-op-twijfelachtig-grondgebied |archive-date=17 August 2016 |access-date=1 August 2016 |publisher=metronieuws.nl |language=nl}}</ref>
+| colspan="5" |
+|
+|-
+| {{flagicon|SCG}} [[Ratomir Dujković]]
+| align="center" |1996–1997
+| colspan="5" |
+|
+|-
+| {{flagicon|ENG}} [[David Booth (football manager)|David Booth]]
+| align="center" |2000–2003
+| colspan="5" |
+|
+|-
+| {{flagicon|BUL}} [[Ivan Venkov Kolev]]
+| align="center" |Nov 2004 – 2005
+| colspan="5" |
+| [[2004 Tiger Cup]] Semi-finalists
+|-
+| {{flagicon|MYA|1974}} [[Sann Win]]
+| align="center" |2006–2007
+| colspan="5" |
+| [[2006 Merdeka Tournament]] Champions<br />[[2007 Merdeka Tournament]] Runners-up
+|-
+| {{flagicon|BRA}} [[Marcos Falopa]]
+| align="center" |Apr 2007 – Dec 2008<ref>{{cite web |title=Myanmar urgently needs foreign coach for national soccer team |url=http://news.xinhuanet.com/english/2009-01/19/content_10683307.htm |url-status=dead |archive-url=https://web.archive.org/web/20090123142448/http://news.xinhuanet.com/english/2009-01/19/content_10683307.htm |archive-date=23 January 2009 |publisher=news.xinhuanet.com}}</ref>
+| colspan="5" |
+|
+|-
+| {{flagicon|MYA|1974}} [[Tim Myint Aung]]
+| align="center" |Apr – Oct 2009
+| colspan="5" |
+|
+|-
+| {{flagicon|CRO}} [[Drago Mamić]]
+| align="center" |Oct 2009 – Feb 2010
+| colspan="5" |
+|
+|-
+| {{flagicon|MYA}} [[Tin Myint Aung]]
+| align="center" |Feb – Dec 2010
+{{WDL|5|2|0|3}}
+|
+|-
+| {{flagicon|SRB}} [[Milan Živadinović]]
+| align="center" |Jan – Jul 2011
+{{WDL|7|0|2|5}}
+|
+|-
+| {{flagicon|MYA}} [[Sann Win]]*
+| align="center" |Jul 2011
+{{WDL|5|1|1|3}}
+|
+|-
+| {{flagicon|KOR}} [[Park Sung-Hwa]]
+| align="center" |Dec 2011 – Dec 2013
+{{WDL|13|5|4|4}}
+|
+|-
+| {{flagicon|MYA}} [[Sann Win]]*
+| align="center" |Sep 2013
+{{WDL|1|0|1|0}}
+|
+|-
+| {{flagicon|SRB}} [[Radojko Avramovic]]
+| align="center" |Feb 2014 – Oct 2015
+{{WDL|22|7|4|11}}
+| [[2014 Philippine Peace Cup]] Champions
+|-
+| {{flagicon|MYA}} [[Tin Myint Aung]]*
+| align="center" |Aug 2017
+{{WDL|1|1|0|0}}
+|
+|-
+| {{flagicon|GER}} [[Gerd Friedrich Horst Zeise|Gerd Zeise]]
+| align="center" |Oct 2015 – March 2018
+{{WDL|24|7|6|11}}
+| [[2016 AFF Championship]] Semi-final
+|-
+| {{flagicon|MYA}} [[Zaw Win Tun]]*
+| align="center" |March 2018 
+{{WDL|1|1|0|0}}
+|
+|-
+| {{flagicon|GER}} [[Antoine Hey]]
+| align="center" |16 May – 13 December 2018<ref>{{cite web |date=13 December 2018 |title=MFF part way with National Team Head coach Antonie Hey by mutual agreement |url=https://the-mff.org/?p=2422 |url-status=live |archive-url=https://web.archive.org/web/20181215225253/https://the-mff.org/?p=2422 |archive-date=15 December 2018 |access-date=13 December 2018 |publisher=Myanmar Football Federation}}</ref>
+{{WDL|8|2|1|5}}
+|
+|-
+| {{flagicon|MYA}} [[Myo Min Tun]]*
+| align="center" |March 2019
+{{WDL|2|0|1|1}}
+|
+|-
+| {{flagicon|MNE}} [[Miodrag Radulović]]
+| align="center" |20 April – 20 October 2019<ref>{{cite web |date=20 October 2019 |title=Myanmar sack head coach Miodrag Radulovic and bring back former boss Antoine Hey |url=https://www.foxsportsasia.com/football/asian-football/fifa-wc-asian-qualifiers/1187943/myanmar-sack-head-coach-miodrag-radulovic-and-bring-back-former-boss-antoine-hey/ |url-status=dead |archive-url=https://web.archive.org/web/20191021034640/https://www.foxsportsasia.com/football/asian-football/fifa-wc-asian-qualifiers/1187943/myanmar-sack-head-coach-miodrag-radulovic-and-bring-back-former-boss-antoine-hey/ |archive-date=21 October 2019 |access-date=20 October 2019 |publisher=foxsportsasia}}</ref>
+{{WDL|5|1|0|4}}
+|-
+| {{flagicon|GER}} [[Antoine Hey]]
+| align="center" |21 October 2019 – 31 January 2023<ref>{{cite web |date=31 January 2023 |title=Hey takes up Myanmar role |url=https://www.fifa.com/worldcup/news/hey-takes-up-myanmar-role |url-status=live |archive-url=https://web.archive.org/web/20210130235140/https://www.fifa.com/worldcup/news/hey-takes-up-myanmar-role |archive-date=30 January 2021 |access-date=31 January 2023 |publisher=FIFA}}</ref>
+{{WDL|21|3|2|16}}
+|
+|-
+| {{flagicon|GER}} [[Michael Feichtenbeiner]]
+| align="center" |1 March 2023 – 13 August 2024
+{{WDL|11|3|4|4}}
+|
+|-
+| {{flagicon|MYA}} [[Myo Hlaing Win]]
+| align="center" |10 September 2024 – 7 July 2026 
+{{WDL|16|7|2|7}}
+|
+|-
+| {{flagicon|NOR}} [[Jørn Andersen]]
+| align="center" |8 July 2026 - 
+{{WDL|0|0|0|0}}
+|
+|}
+
+''*'' ''As caretaker''
+
+==Players==
+===Current squad===
+The following 23 players were called up for the AFC match against [[Pakistan national football team|Pakistan]] on 31 March 2026.
+
+''Caps and goals updated as of 31 March 2026, after the game against [[Pakistan national football team|Pakistan]].''
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Sann Satt Naing]]|age={{birth date and age|1997|11|4|df=y}}|caps=10|goals=0|club=[[Yangon United F.C.|Yangon United]] |clubnat=MYA}}
+{{nat fs g player|no=18|pos=GK|name=[[Nay Lin Htet]]|age={{birth date and age|2002|4|23|df=y}}|caps=1|goals=0|club=[[Hantharwady United F.C.|Hantharwaddy United]]|clubnat=MYA}}
+{{nat fs g player|no=23|pos=GK|name=[[Khant Min Thant]]|age={{birth date and age|2004|6|24|df=y}} |caps=0|goals=0|club=[[Yadanarbon F.C.|Yadanarbon]]|clubnat=MYA}}
+{{nat fs break}}
+{{nat fs g player|no=2|pos=DF|name=[[Myat Phone Khant]]|age={{birth date and age|2006|10|12|df=y}}|caps=0|goals=0|club=[[Thitsar Arman F.C.|Thitsar Arman]]|clubnat=MYA}}
+{{nat fs g player|no=3|pos=DF|name=[[Hein Zeyar Lin]]|age={{birth date and age|2000|8|12|df=y}}|caps=19|goals=0|club=[[Yangon United F.C.|Yangon United]]|clubnat=MYA}}
+{{nat fs g player|no=4|pos=DF|name=[[Soe Moe Kyaw]]|age={{birth date and age|1999|3|23|df=y}}|caps=31|goals=3|club=[[Uthai Thani F.C.|Uthai Thani]]|clubnat=THA}}
+{{nat fs g player|no=5|pos=DF|name=[[Nanda Kyaw]]|age={{birth date and age|1996|9|3|df=y}}|caps=42|goals=1|club=[[Shan United F.C.|Shan United]]|clubnat=MYA}}
+{{nat fs g player|no=15|pos=DF|name=[[Zwe Khant Min]]|age={{birth date and age|2000|6|20|df=y}}|caps=12|goals=0|club=[[Yangon City F.C.|Yangon City]]|clubnat=MYA}}
+{{nat fs g player|no=24|pos=DF|name=[[Thiha Htet Aung]]|age={{birth date and age|1996|3|13|df=y}}|caps=19|goals=0|club=[[Yadanarbon F.C.|Yadanarbon]]|clubnat=MYA}}
+{{nat fs g player|no=25|pos=DF|name=[[Aung Wunna Soe]]|age={{birth date and age|2000|4|19|df=y}}|caps=9|goals=0|club=[[Shan United F.C.|Shan United]]|clubnat=MYA}}
+{{nat fs break}}
+{{nat fs g player|no=6|pos=MF|name=[[Kyaw Min Oo]]|age={{birth date and age|1996|6|16|df=y}}|caps=33|goals=1|club=[[Polis Diraja Malaysia FC|PDRM]]|clubnat=MAS}}
+{{nat fs g player|no=7|pos=MF|name=[[Lwin Moe Aung]]|age={{birth date and age|1999|12|10|df=y}}|caps=55|goals=5|club=[[Mahasarakham SBT F.C.]]|clubnat=THA}}
+{{nat fs g player|no=8|pos=MF|name=[[Wai Linn Aung]]|age={{birth date and age|1999|7|30|df=y}}|caps=22|goals=1|club=[[Negeri Sembilan FC|Negeri Sembilan]]|clubnat=MAS}}
+{{nat fs g player|no=11|pos=MF|name=[[Maung Maung Lwin]]|age={{birth date and age|1995|6|18|df=y}}|caps=90|goals=15|club=[[Yangon United F.C.|Yangon United]]|clubnat=MYA}}
+{{nat fs g player|no=13|pos=MF|name=[[Khun Kyaw Zin Hein]]|age={{birth date and age|2002|7|15|df=y}}|caps=9|goals=1|club=[[Yangon City F.C.|Yangon City]]|clubnat=MYA}}
+{{nat fs g player|no=14|pos=MF|name=[[Min Maw Oo]]|age={{birth date and age|2005|3|6|df=y}}|caps=4|goals=0|club=[[Thitsar Arman F.C.|Thitsar Arman FC]]|clubnat=MYA}}
+{{nat fs g player|no=16|pos=MF|name=[[Shine Wunna Aung]]|age= {{birth date and age|2006|3|15|df=y}}|caps=1|goals=1|club=[[Thitsar Arman F.C.|Thitsar Arman FC]]|clubnat=MYA}}
+{{nat fs g player|no=17|pos=MF|name=[[Aung Myo Khant]]|age={{birth date and age|2001|5|6|df=y}}|caps=3|goals=0|club=[[Yangon United F.C.|Yangon United]]|clubnat=MYA}}
+{{nat fs g player|no=19|pos=MF|name=[[Hein Htet Aung]]|age={{birth date and age|2001|10|5|df=y}}|caps=25|goals=0|club=[[Melaka F.C.|Melaka]] |clubnat=MAS}}
+{{nat fs g player|no=20|pos=MF|name=[[Myat Kaung Khant]]|age={{birth date and age|2000|7|15|df=y}}|caps=19|goals=1|club=[[Yangon City F.C.|Yangon City]]|clubnat=MYA}}
+{{nat fs g player|no=21|pos=MF|name=[[Ye Yint Aung (midfielder)|Ye Yint Aung]]|age={{birth date and age|2000|3|22|df=y}}|caps=17|goals=1|club=[[Shan United F.C.|Shan United]]|clubnat=MYA}}
+{{nat fs g player|no=22|pos=MF|name=[[Zaw Win Thein]]|age={{birth date and age|2003|3|1|df=y}}|caps=20|goals=1|club=[[Yangon United F.C.|Yangon United]]|clubnat=MYA}}
+{{nat fs g player|no=24|pos=MF|name=[[Soe Min Oo]]|age= |caps=0|goals=0|club=[[Shan United F.C.|Shan United]]|clubnat=MYA}}
+{{nat fs break}}
+{{nat fs g player|no=9|pos=FW|name=[[Than Paing]]|age={{birth date and age|1996|12|6|df=y}}|caps=49|goals=6|club=[[Trat F.C.|Trat]]|clubnat=THA}}
+{{nat fs g player|no=10|pos=FW|name=[[Win Naing Tun]]|age={{birth date and age|2000|5|3|df=y}}|caps=35|goals=7|club=[[Yangon City F.C.|Yangon City]]|clubnat=MYA}}
+{{nat fs g end}}
+
+===Recent call-ups===
+The following players have also been called up to the Myanmar squad within the last twelve months.
+{{nat fs r start}}
+{{nat fs r player|no=|pos=GK|name=[[Zin Nyi Nyi Aung]]|age={{birth date and age|2000|6|6|df=y}}|caps=7|goals=0|club=[[Yangon United F.C.|Yangon United]]|clubnat=MYA}}
+{{nat fs r player|no=|pos=GK|name=[[Chit Min Htwe]]|age={{birth date and age|2002|2|14|df=y}}|caps=0|goals=0|club=[[I.S.P.E F.C.|ISPE]]|clubnat=MYA|latest=v. {{fb|PAK}}, 10 June 2025<sup>PRE</sup>}}
+{{nat fs break}}
+{{nat fs r player|no=2|pos=DF|name=[[Hein Phyo Win]]|age={{birth date and age|1998|9|19|df=y}}|caps=35|goals=0|club=[[Shan United F.C.|Shan United]]|clubnat=MYA}}
+{{nat fs r player|no=|pos=DF|name=[[Kyaw Phyo Wai]]|age={{birth date and age|2000|6|21|df=y}}|caps=0|goals=0|club=[[Yangon United F.C.|Yangon United]]|clubnat=MYA|latest=v. {{fb|SIN}}, 9 September 2025<sup>PRE</sup>}}
+{{nat fs r player|no=16|pos=DF|name=[[Ye Min Thu]]|age={{birth date and age|1998|2|18|df=y}}|caps=27|goals=0|club=[[Shan United F.C.|Shan United]]|clubnat=MYA}}
+{{nat fs r player|no=22|pos=DF|name=[[Latt Wai Phone]]|age={{birth date and age|2005|5|4|df=y}}|caps=5|goals=0|club=[[Yangon United F.C.|Yangon United]]|clubnat=MYA}}
+{{nat fs r player|no=16|pos=DF|name=[[Thurain Soe]]|age={{birth date and age|1998|9|4|df=y}}|caps=0|goals=0|club=[[Yangon United F.C.|Yangon United]]|clubnat=MYA}}
+{{nat fs r player|no=3|pos=DF|name=[[Thet Hein Soe]]|age={{birth date and age|2001|9|29|df=y}}|caps=20|goals=0|club=[[Shan United F.C.|Shan United]]|clubnat=MYA}}
+{{nat fs r player|no=|pos=DF|name=[[Oakkar Naing]]|age={{birth date and age|2003|11|8|df=y}}|caps=10|goals=0|club=[[Yangon United F.C.|Yangon United]]|clubnat=MYA|latest=v. {{fb|PAK}}, 10 June 2025<sup>INJ</sup>}}
+{{nat fs r player|no=|pos=DF|name=[[Kyaw Thiha Zaw]]|age={{birth date and age|2002|3|4|df=y}}|caps=0|goals=0|club=[[I.S.P.E F.C.|ISPE]]|clubnat=MYA|latest=v. {{fb|PAK}}, 10 June 2025<sup>PRE</sup>}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=MF|name=[[Aung Naing Win]]|age={{birth date and age|1997|6|1|df=y}}|caps=12|goals=0|club=[[Rakhine United F.C.|Rakhine United]]|clubnat=MYA|latest=v. {{fb|SIN}}, 9 September 2025<sup>PRE</sup>}}
+{{nat fs r player|no=|pos=MF|name=[[Arkar Kyaw]]|age={{birth date and age|2004|2|7|df=y}}|caps=0|goals=0|club=[[Yangon United F.C.|Yangon United]]|clubnat=MYA|latest=v. {{fb|PAK}}, 10 June 2025<sup>PRE</sup>}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=FW|name=[[Than Toe Aung]]|age={{birth date and age|2003|7|13|df=y}}|caps=1|goals=0|club=[[Hantharwady United F.C.|Hantharwaddy]]|clubnat=MYA|latest=v. {{fb|AFG}}, 26 March 2026<sup>PRE</sup>}}
+{{nat fs r player|no= |pos=FW|name=[[Sa Aung Pyae Ko]]|age={{birth date and age|1998|12|1|df=y}}|caps=0|goals=0|club=[[Shan United F.C.|Shan United]]|clubnat=MYA|latest=v. {{fb|AFG}}, 26 March 2026<sup>PRE</sup>}}
+{{nat fs r player|no= |pos=FW|name=[[Aung Kaung Mann]]|age={{birth date and age|1998|2|18|df=y}}|caps=24|goals=2|club=[[Yangon City F.C.|Yangon City]]|clubnat=MYA|latest=v. {{fb|PAK}}, 10 June 2025}}
+{{nat fs r player|no=22|pos=FW|name=[[Pyae Moe]]|age={{birth date and age|1993|10|15|df=y}}|caps=1|goals=0|club=[[Yangon United F.C.|Yangon United]]|clubnat=MYA}}
+{{nat fs break}}
+
+<sup>INJ</sup> Withdrew due to injury<br>
+<sup>PRE</sup> Preliminary squad<br>
+<sup>RET</sup> Retired from the national team<br>
+<sup>SUS</sup> Serving suspension<br>
+<sup>WD</sup> Player withdrew from the squad due to non-injury issue.
+{{nat fs end}}
+
+==Player records==
+
+{{updated|10 October 2025}}<ref>{{cite web |title=Myanmar |url=https://www.national-football-teams.com/country/230/Myanmar.html |website=National Football Teams |access-date=20 September 2022 |archive-date=13 February 2023 |archive-url=https://web.archive.org/web/20230213052730/https://www.national-football-teams.com/country/230/2023/Myanmar.html |url-status=live }}</ref>
+:Players in '''bold''' are still active with Myanmar.
+
+===Most appearances===
+{| class="wikitable sortable" style="text-align: center;"
+|-
+!Rank
+!width=175px|Player
+!width=50px|Caps
+!width=50px|Goals
+!width=100px|Career
+|-
+| 1 ||align="left" | '''[[Maung Maung Lwin]]'''|| '''90''' || 15 || 2015–
+|-
+| 2 ||align=left| [[David Htan]] || '''77''' || 4 || 2011–2024
+|-
+| 3 ||align=left| [[Zaw Min Tun (footballer)|Zaw Min Tun]] || '''75''' || 5 || 2011–2022
+|-
+| rowspan="2" | 4 || align="left" | [[Khin Maung Lwin]] || '''67''' || 4 || 2006–2017
+|-
+|align=left| [[Yan Paing]] || '''67''' || 13 || 2002–2014
+|-
+|6 || align="left" | [[Yan Aung Kyaw]] || '''64''' || 0 || 2011–2019
+|-
+|7 || align="left" | [[Myo Hlaing Win]] || '''63''' || 36 || 1992–2005
+|-
+| rowspan="3"| 8 ||align=left| [[Aung Kyaw Moe (footballer)|Aung Kyaw Moe]]|| '''55''' || 8 || 1999–2010
+|-
+|align=left| [[Min Thu (footballer)|Min Thu]]|| '''55''' || 1 || 1998–2008
+|-
+|align=left| [[Soe Myat Min]] || '''55''' || 20 || 1998–2008
+|-
+|}
+
+===Top goalscorers===
+{| class="wikitable sortable" style="text-align: center;"
+|-
+!Rank
+!width=160px|Player
+!width=50px|Goals
+!width=50px|Caps
+!width=50px |Ratio
+!width=100px|Career
+|-
+| rowspan="2" | 1 || align="left"|[[Win Maung (footballer)|Win Maung]]
+|'''37'''
+|—
+|—
+|1962–1980
+|-
+| align="left" |[[Ye Nyunt]]
+|'''37'''
+|—
+|—
+|1968–1975
+|-
+|3
+| align="left" | [[Myo Hlaing Win]]|| '''36'''|| 63 || 0.57|| 1992–2005
+|-
+| 4 || align="left"|[[Than Soe]]
+|'''24'''
+|—
+|—
+|1970–1975
+|-
+|5
+| align="left" | [[Soe Myat Min]] || '''21''' || 56 || 0.38 || 1998–2008
+|-
+| rowspan="2" | 6 || align="left" | [[Kyaw Ko Ko]]  || '''16''' || 54 || 0.3 || 2010–2025
+|-
+| align="left" |[[Suk Bahadur]]
+|'''16'''
+|—
+|—
+|1952–1970
+|-
+|8
+| align="left" |  '''[[Maung Maung Lwin]]''' || '''15'''|| 90 || 0.17|| 2015–
+|-
+|9
+| align="left" | [[Than Toe Aung]]|| '''14'''|| 21 || 0.67 || 1987–2000
+|-
+| 10 || align="left" | [[Yan Paing]]|| '''11'''|| 67 || 0.16|| 2002–2014
+|-
+|}
+
+: '''<small>NB</small>'''  <small>Goalscorers of several matches from the 1950s till 1980s (see [[Myanmar national football team results]]) are not yet known and yet to be researched.</small>
+
+==Competitive record==
+
+=== FIFA World Cup ===
+{| class="wikitable" style="text-align: center;"
+!colspan=8|[[FIFA World Cup]] record
+!rowspan="3"|
+!colspan=6|[[FIFA World Cup qualification|Qualification]] record
+|-
+!Year
+!Round
+!{{Tooltip|Pld|Matches played}}
+!{{Tooltip|W|Matches won}}
+!{{Tooltip|D|Matches drawn}}
+!{{Tooltip|L|Matches lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!{{Tooltip|Pld|Matches played}}
+!{{Tooltip|W|Matches won}}
+!{{Tooltip|D|Matches drawn}}
+!{{Tooltip|L|Matches lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+|-
+|[[1930 FIFA World Cup|1930]] to [[1938 FIFA World Cup|1938]]||rowspan="1" colspan="7" |''Part of {{UK}}''
+| colspan="6" |''Part of {{UK}}''
+|-
+!colspan=15|as '''{{fb|Burma|1948}}'''
+|-
+|{{flagicon|Brazil|1889}} [[1950 FIFA World Cup|1950]]
+|colspan="7" |''Withdrew''
+!rowspan=2|
+|colspan="6" |''Withdrew from qualification''
+|-
+|[[1954 FIFA World Cup|1954]] to [[1986 FIFA World Cup|1986]]||colspan="7" |''Did not enter''
+| colspan="6" |''Did not enter''
+|-
+!colspan=15|as '''{{fbicon|Myanmar|1974}} / {{fb|Myanmar}}'''
+|-
+|{{flagicon|Italy}} [[1990 FIFA World Cup|1990]]
+|colspan="7" |''Did not enter''
+!rowspan=13|
+|colspan="6" |''Did not enter''
+|-
+|{{flagicon|United States of America}} [[1994 FIFA World Cup|1994]]|| colspan="7" |''Withdrew''
+| colspan="6" |''Withdrew from qualification''
+|-
+|{{flagicon|France|1974}} [[1998 FIFA World Cup|1998]] || colspan="7" |''Did not enter''
+| colspan="6" |''Did not enter''
+|-
+|{{flagicon|South Korea|1997}} {{flagicon|Japan}} [[2002 FIFA World Cup|2002]] || colspan="7" |''Withdrew''
+| colspan="6" |''Withdrew from qualification''
+|-
+|{{flagicon|Germany}} [[2006 FIFA World Cup|2006]] || colspan="7" |''Banned''
+| colspan="6" |''Banned''
+|-
+|{{flagicon|South Africa}} [[2010 FIFA World Cup|2010]] || rowspan="5" colspan="7" |''Did not qualify''
+||2||0||0||2||0||11
+|-
+|{{flagicon|Brazil}} [[2014 FIFA World Cup|2014]]
+||4||1||0||3||2||6
+|-
+|{{flagicon|Russia}} [[2018 FIFA World Cup|2018]]
+||8||2||2||4||9||21
+|-
+|{{flagicon|Qatar}} [[2022 FIFA World Cup|2022]]
+||8||2||0||6||6||35
+|-
+|{{flagicon|Canada}} {{flagicon|Mexico}} {{flagicon|United States of America}} [[2026 FIFA World Cup|2026]] 
+||8||1||2||5||8||29
+|-
+|{{flagicon|Morocco}} {{flagicon|Portugal}} {{flagicon|Spain}} [[2030 FIFA World Cup|2030]]
+|colspan=7 rowspan=2|''To be determined''
+|colspan=6 rowspan=2|''To be determined''
+|-
+|{{flagicon|Saudi Arabia}} [[2034 FIFA World Cup|2034]]
+|-
+!Total||{{Tooltip|0/19|Number of tournaments qualified for}}||–||–||–||–||–||–
+!30||6||4||20||25||102
+|}
+
+* Banned in 2006 for withdrawing from qualification in 2002.
+* Initially banned from 2018 for crowd trouble during [[2014 FIFA World Cup qualification – AFC second round#Myanmar v Oman|a 2014 World Cup qualifying match against Oman]] but later overturned to matches to be played on neutral soil.<ref>{{Cite news|date=30 September 2011|title=Myanmar disciplinary sanctions confirmed|work=FIFA|url=https://www.fifa.com/worldcup/news/myanmar-disciplinary-sanctions-confirmed-1519590|archive-url=https://web.archive.org/web/20190101193847/https://www.fifa.com/worldcup/news/myanmar-disciplinary-sanctions-confirmed-1519590|url-status=dead|archive-date=1 January 2019}}</ref><ref>{{Cite web|title=Myanmar appeal partially upheld|url=https://www.fifa.com/worldcup/news/myanmar-appeal-partially-upheld-1539055|archive-url=https://web.archive.org/web/20180712090422/https://www.fifa.com/worldcup/news/myanmar-appeal-partially-upheld-1539055|url-status=dead|archive-date=12 July 2018|date=7 November 2011|website=FIFA.com|access-date=12 May 2020}}</ref>
+
+===Olympic Games===
+{| class="wikitable" style="text-align: center;font-size:100%;"
+|-
+!colspan=10|[[Football at the Summer Olympics|Olympic Games]] record
+|-
+!Year
+!Result
+!Position
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals For}}
+!{{Tooltip|GA|Goals Against}}
+!Squad
+|-
+|{{flagicon|FRA|1830}} [[Football at the 1900 Summer Olympics|1900]] to {{flagicon|FIN}} [[Football at the 1952 Summer Olympics|1952]] || colspan="9" |''Did not participate''
+|-
+|{{flagicon|AUS}} [[Association football at the 1956 Summer Olympics|1956]] to {{flagicon|MEX}} [[Football at the 1968 Summer Olympics|1968]] || colspan="9" |''Did not qualify''
+|-
+|{{flagicon|FRG}} [[Football at the 1972 Summer Olympics|1972]] ||Round 1||9/16||3||1||0||2||2||2||[[Football at the 1972 Summer Olympics - Men's team squads#Burma|Squad]]
+|-
+|{{flagicon|CAN}} [[Football at the 1976 Summer Olympics|1976]] to {{flagicon|KOR}} [[Football at the 1988 Summer Olympics|1988]]|| colspan="9" |''Did not qualify''
+|-
+|{{flagicon|ESP}} [[Football at the 1992 Summer Olympics|1992]] to present
+|colspan=9|''See [[Myanmar national under-23 football team|Myanmar national under-23 team]]''
+|-
+!'''Total'''||Round 1||–||'''3'''||'''1'''||'''0'''||'''2'''||'''2'''||'''2'''||'''—'''
+|}
+
+=== AFC Asian Cup ===
+{{main|Myanmar at the AFC Asian Cup}}
+
+{| class="wikitable" style="text-align: center;font-size:100%;"
+!colspan=8|[[AFC Asian Cup]] record
+!
+! colspan="6" |[[AFC Asian Cup qualifiers|Qualification]] record
+|-
+!Year
+!Round
+!{{Tooltip|Pld|Games Played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals For}}
+!{{Tooltip|GA|Goals Against}}
+!{{Tooltip|Pld|Games Played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals For}}
+!{{Tooltip|GA|Goals Against}}
+|-
+|{{flagicon|HKG|1955}} [[1956 AFC Asian Cup|1956]] || rowspan="3" colspan="7" |''Withdrew'' || rowspan="3" colspan="6" |''Withdrew''
+|-
+|{{flagicon|KOR|1949}} [[1960 AFC Asian Cup|1960]]
+|-
+|{{flagicon|ISR}} [[1964 AFC Asian Cup|1964]]
+|- style="background:Silver;"
+|{{flagicon|IRN|1964}} [[1968 AFC Asian Cup|1968]] || '''Runners-up''' ||'''4'''||'''2'''||'''1'''||'''1'''||'''5'''||'''4'''
+|3||3||0||0||5||0
+|-
+|{{flagicon|THA}} [[1972 AFC Asian Cup|1972]] || rowspan="5" colspan="7" |''Withdrew'' || rowspan="5" colspan="6" |''Withdrew''
+|-
+|{{flagicon|IRN|1964}} [[1976 AFC Asian Cup|1976]]
+|-
+|{{flagicon|KUW}} [[1980 AFC Asian Cup|1980]]
+|-
+|{{flagicon|SIN}} [[1984 AFC Asian Cup|1984]]
+|-
+|{{flagicon|QAT}} [[1988 AFC Asian Cup|1988]]
+|-
+|{{flagicon|JPN|1870}} [[1992 AFC Asian Cup|1992]] || colspan="7" |''Did not enter'' || colspan="6" |''Did not enter''
+|-
+|{{flagicon|UAE}} [[1996 AFC Asian Cup|1996]] || rowspan="3" colspan="7" |''Did not qualify''
+|6||2||1||3||11||20
+|-
+|{{flagicon|LBN}} [[2000 AFC Asian Cup|2000]]
+|3||2||0||1||6||4
+|-
+|{{flagicon|CHN}} [[2004 AFC Asian Cup|2004]]
+|8||3||0||5||11||18
+|-
+|{{flagicon|IDN}} {{flagicon|MAS}} {{flagicon|THA}} {{flagicon|VIE}} [[2007 AFC Asian Cup|2007]] || colspan="7" |''Banned'' || colspan="6" |''Banned ''
+|-
+|{{flagicon|QAT}} [[2011 AFC Asian Cup|2011]] || colspan="7" rowspan="2" |''Did not enter'' || colspan="6" rowspan="2" |''[[AFC Challenge Cup]]''
+|-
+|{{flagicon|AUS}} [[2015 AFC Asian Cup|2015]]
+|-
+|{{flagicon|UAE}} [[2019 AFC Asian Cup|2019]]
+| colspan="7" rowspan="3" |''Did not qualify''
+|14||4||4||6||19||31
+|-
+|{{flagicon|QAT}} [[2023 AFC Asian Cup|2023]]
+|11||2||0||9||8||47
+|-
+|{{flagicon|KSA}} [[2027 AFC Asian Cup|2027]]
+||8||1||2||5||8||29
+|-
+!'''Total'''||'''Runners-up'''||'''4'''||'''2'''||'''1'''||'''1'''||'''5'''||'''4'''
+!'''53'''||'''17'''||'''7'''||'''29'''||'''68'''||'''149'''
+|}
+
+=== Asian Games ===
+{| class="wikitable" style="text-align: center;font-size:100%;"
+!colspan=8|[[Football at the Asian Games|Asian Games]] record
+|-
+!Year
+!Round
+!Pld
+!W
+!D
+!L
+!GF
+!GA
+|-
+| {{flagicon|India}} [[Football at the 1951 Asian Games|1951]] ||  Quarter-finals|| 1 || 0 || 0 || 1 || 0 || 2
+|- style="background:#cfaa88;"
+|  {{flagicon|Philippines|1936}} [[Football at the 1954 Asian Games|1954]]|| '''Third place'''|| '''4'''|| '''2''' || '''0''' || '''1''' || '''10''' || '''8'''
+|-
+| {{flagicon|Japan}} [[Football at the 1958 Asian Games|1958]] || Group stage|| 2 || 0 || 0 || 2 || 3 || 6
+|-
+| {{flagicon|Indonesia}} [[Football at the 1962 Asian Games|1962]] || colspan="7" |''Withdrew''
+|- bgcolor=gold
+|  {{flagicon|Thailand}} [[Football at the 1966 Asian Games|1966]] ||rowspan="2" |'''Champions''' || '''6''' || '''4''' || '''2''' || '''0''' || '''8''' || '''3'''
+|- bgcolor=gold
+| {{flagicon|Thailand}} [[Football at the 1970 Asian Games|1970]] || '''7''' || '''4''' || '''2''' || '''1''' || '''9''' || '''5'''
+|-
+| {{flagicon|Iran|1964}} [[Football at the 1974 Asian Games|1974]] || Second round || 6 || 2 || 1 || 3 || 14 || 14
+|-
+| {{flagicon|Thailand}} [[Football at the 1978 Asian Games|1978]] ||rowspan="2" |Group stage || 2 || 0 || 0 || 2 || 1 || 5
+|-
+| {{flagicon|India}} [[Football at the 1982 Asian Games|1982]] || 3 || 1 || 0 || 2 || 3 || 8
+|-
+| {{flagicon|South Korea}} [[Football at the 1986 Asian Games|1986]]|| rowspan="2" colspan="7"|''did not qualify''
+|-
+| {{flagicon|China}} [[Football at the 1990 Asian Games|1990]]
+|-
+|  {{flagicon|Japan}} [[Football at the 1994 Asian Games|1994]] || Group stage || 3 || 0 || 1 || 2 || 2 || 9
+|-
+|  {{flagicon|Thailand}} [[Football at the 1998 Asian Games|1998]] ||colspan="7" |''Withdrew''
+|-
+| 2002–present || colspan=7|''See [[Myanmar national under-23 football team|Myanmar under-23 football team]]''
+|-
+!'''Total''' || '''Champions''' || 34 || 13 || 6 || 14 || 49 || 60
+|}
+
+=== AFC Challenge Cup ===
+{| class="wikitable" style="text-align: center;font-size:100%;"
+!colspan=8|[[AFC Challenge Cup]] record
+!width=1% rowspan=90|
+!colspan=6|Qualification record
+|-
+!Year
+!Round
+!Pld
+!W
+!D
+!L
+!GF
+!GA
+!Pld
+!W
+!D
+!L
+!GF
+!GA
+|-
+|{{flagicon|Bangladesh}} [[2006 AFC Challenge Cup|2006]]|| colspan="7" |''Banned''
+| colspan="6" |''Banned ''
+|-bgcolor=#9acdff
+|{{flagicon|India}} [[2008 AFC Challenge Cup|2008]]||rowspan="2" | '''Fourth place'''|| '''5'''|| '''2''' || '''0''' || '''3''' || '''6''' || '''6'''
+| colspan="6" |
+|-bgcolor=#9acdff
+|{{flagicon|Sri Lanka}} [[2010 AFC Challenge Cup|2010]] ||'''5'''||'''2'''||'''0'''||'''3'''||'''6'''||'''10'''
+||3||3||0||0||7||1
+|-
+|{{flagicon|Nepal}} [[2012 AFC Challenge Cup|2012]]|| colspan="7" |''Did not qualify''
+||3||0||1||2||2||6
+|-
+|{{flagicon|Maldives}} [[2014 AFC Challenge Cup|2014]] ||Group stage||3||1||0||2||3||5
+||3||2||1||0 ||7||1
+|-
+!'''Total'''||'''Best: Fourth place'''||13||5||0||8||15||21
+!9||5||2||2||16||8
+|}
+
+=== ASEAN Championship ===
+{| class="wikitable" style="text-align: center;font-size:100%;"
+!colspan=10|[[ASEAN Championship]] record
+!rowspan=90|
+!colspan=6|Qualification record
+|-
+!Year
+!Round
+!{{Tooltip|Pos|Position}}
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!Squad
+!{{Tooltip|Pld|Games played}}
+!{{Tooltip|W|Won}}
+!{{Tooltip|D|Drawn}}
+!{{Tooltip|L|Lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+|-
+|| {{flagicon|Singapore}} [[1996 AFF Championship|1996]]||rowspan="4" |Group stage ||6th||4||2||0||2 ||11||12||[[1996 Tiger Cup squads#Myanmar|Squad]]
+| colspan="6" | ''No qualification''
+|-
+|| {{flagicon|Vietnam}} [[1998 AFF Championship|1998]]||5th||3||1||1||1||8 ||9||[[1998 Tiger Cup squads#Myanmar|Squad]]
+||2||2||0||0||7||1
+|-
+|| {{flagicon|Thailand}} [[2000 AFF Championship|2000]]||6th||3||1||0||2||4||8||[[2000 Tiger Cup squads#Myanmar|Squad]]
+| rowspan="3" colspan="6" | ''No qualification''
+|-
+|| {{flagicon|Indonesia}} {{flagicon|Singapore}} [[2002 AFF Championship|2002]]||5th||4||2||1||1||13||5||[[2002 Tiger Cup squads#Myanmar|Squad]]
+|-bgcolor=#9acdff
+|| {{flagicon|Malaysia}} {{flagicon|Vietnam}} [[2004 AFF Championship|2004]]||'''Fourth place'''||4th||7||3||1||3||12||12||[[2004 Tiger Cup squads#Myanmar|Squad]]
+|-
+|| {{flagicon|Singapore}} {{flagicon|Thailand}} [[2007 AFF Championship|2007]]||rowspan="5" |Group stage||6th||3||0||3||0||1||1||[[2007 ASEAN Football Championship squads#Myanmar|Squad]]
+| rowspan="3" colspan="6" |''Qualified automatically''
+|-
+|| {{flagicon|Indonesia}} {{flagicon|Thailand}} [[2008 AFF Championship|2008]]||6th||3||1||0||2||4||8||[[2008 AFF Suzuki Cup squads#Myanmar|Squad]]
+|-
+|| {{flagicon|Indonesia}} {{flagicon|Vietnam}} [[2010 AFF Championship|2010]]||7th||3||0||1||2||2||9||[[2010 AFF Suzuki Cup squads#Myanmar|Squad]]
+|-
+|| {{flagicon|Malaysia}} {{flagicon|Thailand}} [[2012 AFF Championship|2012]]||8th||3||0||1||2||1||7||[[2012 AFF Suzuki Cup squads#Myanmar|Squad]]
+||4||3||1||0||6||1
+|-
+|| {{flagicon|Singapore}} {{flagicon|Vietnam}} [[2014 AFF Championship|2014]]||7th||3||0||1||2||2||6||[[2014 AFF Championship squads#Myanmar|Squad]]
+||4||3||1||0||6||2
+|- style="background-color:#9acdff;"
+|style="border: 3px solid red"|{{flagicon|Myanmar}} {{flagicon|Philippines}} [[2016 AFF Championship|2016]]||'''Semi-finals'''||4th||4||2||0||2||5||9||[[2016 AFF Championship squads#Myanmar|Squad]]
+| rowspan="5" colspan="6" style="background-color:#FFFFFF;"|''Qualified automatically''
+|-
+|| {{flagicon|ASEAN}} [[2018 AFF Championship|2018]]||rowspan="4" |Group stage||5th||4||2||1||1||7||5||[[2018 AFF Championship squads#Myanmar|Squad]]
+|-
+|| {{flagicon|Singapore}} [[2020 AFF Suzuki Cup|2020]]||8th||4||1||0||3||4||10||[[2020 AFF Championship squads#Myanmar|Squad]]
+|-
+|| {{flagicon|ASEAN}} [[2022 AFF Championship|2022]]||rowspan="2"|8th||4||0||1||3||4||9||[[2022 AFF Championship squads#Myanmar|Squad]]
+|-
+|| {{flagicon|ASEAN}} [[2024 ASEAN Championship|2024]]||4||1||1||2||4||9||[[2024 ASEAN Championship squads#Myanmar|Squad]]
+|-
+!'''Total''' || '''Fourth place'''||{{Abbr|15/15|Number of tournaments qualified/entered}}||56||16||12||28||82||119||—
+!10||8||2||0||19||4
+|}
+
+=== Southeast Asian Games ===
+{| class="wikitable" style="text-align: center;font-size:100%;"
+!colspan=8|[[Football at the Southeast Asian Games|Southeast Asian Games]] record
+|-
+!Year
+!Round
+!Pld
+!W
+!D
+!L
+!GF
+!GA
+|-
+|| {{flagicon|Thailand}} [[Football at the 1959 Southeast Asian Peninsular Games|1959]]|| Group stage || 3 || 0 || 0 || 3 || 3 || 10
+|- style="background:Silver;"
+|style="border: 3px solid red"|{{flagicon|Burma|1948}} [[Football at the 1961 Southeast Asian Peninsular Games|1961]]|| '''Runners-up''' || '''4''' || '''2''' || '''0''' || '''2''' || '''7''' || '''5'''
+|-
+|| {{flagicon|Cambodia}} [[1963 Southeast Asian Peninsular Games|1963]]|| colspan="7" |''Cancelled''
+|- bgcolor=gold
+||  {{flagicon|Malaysia}} [[Football at the 1965 Southeast Asian Peninsular Games|1965]]||rowspan="5" |'''Champions''' || '''3''' || '''2''' || '''1''' || '''0''' || '''5''' || '''2'''
+|- bgcolor=gold
+|| {{flagicon|Thailand}} [[Football at the 1967 Southeast Asian Peninsular Games|1967]]|| '''4''' || '''4''' || '''0''' || '''0''' || '''7''' || '''2'''
+|- bgcolor=gold
+|style="border: 3px solid red"|{{flagicon|Burma|1948}} [[Football at the 1969 Southeast Asian Peninsular Games|1969]]|| '''3''' || '''3''' || '''0''' || '''0''' || '''8''' || '''1'''
+|- bgcolor=gold
+|| {{flagicon|Malaysia}} [[Football at the 1971 Southeast Asian Peninsular Games|1971]]|| '''4''' || '''3''' || '''1''' || '''0''' || '''13''' || '''3'''
+|- bgcolor=gold
+|| {{flagicon|Singapore}} [[Football at the 1973 Southeast Asian Peninsular Games|1973]]|| '''4''' || '''4''' || '''0''' || '''0''' || '''15''' || '''4'''
+|- style="background:#cfaa88;"
+|| {{flagicon|Thailand}} [[Football at the 1975 Southeast Asian Peninsular Games|1975]]||rowspan="2"|'''Third place'''|| '''3''' || '''1''' || '''1''' || '''1''' || '''3''' || '''3'''
+|- style="background:#cfaa88;"
+|| {{flagicon|Malaysia}} [[Football at the 1977 Southeast Asian Games|1977]]|| '''4''' || '''3''' || '''0''' || '''1''' || '''12''' || '''9'''
+|-
+|| {{flagicon|Indonesia}} [[Football at the 1979 Southeast Asian Games|1979]]||rowspan="3" | Group stage || 4 || 0 || 1 || 3 || 2 || 5
+|-
+|| {{flagicon|Philippines|1936}} [[Football at the 1981 Southeast Asian Games|1981]]|| 2 || 0 || 1 || 1 || 3 || 4
+|-
+|| {{flagicon|Singapore}} [[Football at the 1983 Southeast Asian Games|1983]]|| 3 || 1 || 0 || 2 || 3 || 4
+|-
+|| {{flagicon|Thailand}} [[Football at the 1985 Southeast Asian Games|1985]]|| colspan="7" | ''Withdrew''
+|-bgcolor=#9acdff
+|| {{flagicon|Indonesia}} [[Football at the 1987 Southeast Asian Games|1987]]|| '''Fourth place''' || '''4''' || '''0''' || '''2''' || '''2''' || '''3''' || '''14'''
+|-
+|| {{flagicon|Malaysia}} [[Football at the 1989 Southeast Asian Games|1989]]||rowspan="2"| Group stage || 2 || 0 || 0 || 2 || 0 || 7
+|-
+|| {{flagicon|Philippines|1986}} [[Football at the 1991 Southeast Asian Games|1991]]|| 2 || 0 || 0 || 2 || 1 || 6
+|- style="background:Silver;"
+|| {{flagicon|Singapore}} [[Football at the 1993 Southeast Asian Games|1993]]|| '''Runners-up''' || '''6''' || '''4''' || '''0''' || '''2''' || '''21''' || '''11'''
+|-bgcolor=#9acdff
+|| {{flagicon|Thailand}} [[Football at the 1995 Southeast Asian Games|1995]]|| '''Fourth place''' || '''6''' || '''3''' || '''0''' || '''3''' || '''10''' || '''8'''
+|-
+|| {{flagicon|Indonesia}} [[Football at the 1997 Southeast Asian Games|1997]]||rowspan="2"|Group stage || 4 || 1 || 1 || 2 || 10 || 8
+|-
+|| {{flagicon|Brunei}} [[Football at the 1999 Southeast Asian Games|1999]]|| 4 || 1 || 1 || 2 || 4 || 10
+|-
+|| 2001–present || colspan=7|''See [[Myanmar national under-23 football team|Myanmar national under-23 team]]''
+|-
+! '''Total''' ||  '''5 tiles''' || '''64''' || '''32''' || '''9''' || '''28''' || '''130''' || '''126'''
+|}
+
+=== Regional record ===
+{| class="wikitable"
+|+Last meet up against Southeast Asia countries
+!Opponents
+!Score
+!Year
+!Outcome
+!Match type
+|-
+|{{fb|BRU}}
+|16 October 2014
+|3−1
+|Won
+|[[2014 AFF Championship]]
+|-
+|{{fb|CAM}}
+|12 November 2018
+|4−1
+|Won
+|[[2018 AFF Championship]]
+|-
+|{{fb|LAO}}
+|18 December 2024
+|3−2
+|Won
+|[[2024 ASEAN Championship]]
+|-
+|{{fb|IDN}}
+|9 December 2024
+|0−1
+|Lost
+|[[2024 ASEAN Championship]]
+|-
+|{{fb|MAS}}
+|21 December 2022
+|0−1
+|Lost
+|[[2022 AFF Championship]]
+|-
+|{{fb|PHI}}
+|12 December 2024
+|1−1
+|Draw
+|[[2024 ASEAN Championship]]
+|-
+|{{fb|SIN}}
+|14 November 2024
+|2−3
+|Lost
+|Friendly
+|-
+|{{fb|THA}}
+|11 December 2022
+|0−6
+|Lost
+|Friendly
+|-
+|{{fb|TLS}}
+|8 December 2021
+|2−0
+|Won
+|[[2020 AFF Championship]]
+|-
+|{{fb|VIE}}
+|21 December 2024
+|0−5
+|Lost
+|[[2024 ASEAN Championship]]
+|}
+
+==Honours==
+===Continental===
+* '''[[AFC Asian Cup]]'''
+** {{silver2}} Runners-up (1): [[1968 AFC Asian Cup|1968]]
+* '''[[Football at the Asian Games|Asian Games]]'''{{efn|Competition organized by [[Olympic Council of Asia|OCA]], officially not recognized by FIFA.}}
+** {{gold1}} '''Gold medal (2)''': [[Football at the 1966 Asian Games|1966]], [[Football at the 1970 Asian Games|1970]]{{efn|name="shared"|shared title}}
+** {{bronze3}} Bronze medal (1): [[Football at the 1954 Asian Games|1954]]
+
+===Regional===
+* '''[[Football at the Southeast Asian Games|Southeast Asian Games]]'''
+** {{gold1}} '''Gold medal (5)''': 1965,{{efn|name="shared"}} 1967, 1969, 1971, 1973
+** {{silver2}} Silver medal (3): 1961, 1993,2015
+** {{bronze3}} Bronze medal (2): 1975, 1977
+
+===Friendly===
+* '''[[Merdeka Tournament]] (4)''': 1964, 1967,{{efn|name="shared"}} 1971, 2006
+* '''[[Jakarta Anniversary Tournament]] (4)''': 1971, 1973, 1974, 1975
+* '''Marah Halim Cup (2)''': 1978, 1979
+* '''[[Korea Cup]] (3)''': 1971,{{efn|name="shared"}} 1972, 1973{{efn|name="shared"}} 
+* '''[[Myanmar Grand Royal Challenge Cup]] (2)''': 2006, 2008
+* '''[[Philippine Peace Cup]] (1)''': 2014
+
+===Summary===
+Only official honours are included, according to ''FIFA statutes'' (competitions organized/recognized by [[FIFA]] or an affiliated confederation).
+{| class="wikitable" width:30% style="font-size:90%; text-align:center;
+|-
+!Competition !!{{Gold1}} !!{{Silver2}} !!{{Bronze3}} !!Total
+|-
+|[[AFC Asian Cup]]
+|0||1||0||1
+|-
+!Total!!0!!1!!0!!1
+|}
+
+==See also==
+*[[Myanmar national football team results]] 1950 to 2026
+*[[Myanmar national under-22 football team]] 2001 to 2026
+*[[Myanmar national under-20 football team|Myanmar national under-19 football team]] 1959 to 2026
+*[[Myanmar national under-19 football team]] 1959 to 2026
+* [[Myanmar national under-17 football team]]
+* [[Myanmar women's national football team]]
+
+==Notes==
+{{notelist}}{{reflist|group=note}}
+
+==References==
+{{reflist}}
+
+==External links==
+{{Commons category}}
+* {{official website|the-mff.org}} {{in lang|en|my}}
+* [https://www.the-afc.com/en/asean/myanmar.html Myanmar] at [[Asian Football Confederation|AFC]]
+* [https://www.fifa.com/about-fifa/associations/MYA Myanmar] at [[FIFA]]
+
+{{Myanmar national football team}}
+{{Navboxes
+| title = Links to related articles
+| titlestyle = background: #34B233; color: #FECB00; border:1px solid #EA2839
+| list  =
+{{Asian Games football men's tournament winners}}
+{{Southeast Asian Games football men's tournament winners}}
+{{Burma squad 1968 AFC Asian Cup}}
+{{Burma football squad 1972 Summer Olympics}}
+{{Football in Myanmar}}
+{{AFC teams}}
+{{National sports teams of Myanmar}}
+{{s-start}}
+{{succession box
+ | before = [[Football at the 1962 Asian Games|1962]] {{fb-rt|IND}}
+ | title  = [[Football at the Asian Games|Asian Games Champions]]
+ | years  = [[Football at the 1966 Asian Games|1966]] (first title)<br>[[Football at the 1970 Asian Games|1970]] (second title)
+ | after  = [[Football at the 1974 Asian Games|1974]] {{fb-rt|Iran|1964}}
+}}
+{{s-end}}
+}}
+{{Portal bar|Association football|Myanmar}}
+{{Authority control}}
+
+[[Category:Myanmar national football team| ]]
+[[Category:Asian national association football teams]]
